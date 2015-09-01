@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2015-07-20"
+last_updated: "2015-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -421,9 +421,17 @@ XI.- Abstenerse de desempeñar algún otro cargo o comisión públicos, por el q
 
 XII.- Se abstendrán de intervenir en los asuntos en los que tengan algún interés personal o que interesen a su cónyuge, concubina o concubino, o a sus parientes consanguíneos en línea recta sin limitación de grado y a los colaterales hasta el tercer grado;
 
-XIII.- Presentar al Congreso, al abrirse cada Periodo de sesiones, una memoria que contenga las acciones que hayan realizado durante las visitas a los distritos del Estado, en la que propongan las medidas que estimen conducentes para favorecer el desarrollo de las comunidades de la Entidad; y
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2015)</small>
 
-XIV.- Las demás que le señalen la Constitución Política del Estado Libre y Soberano de Puebla, las leyes y disposiciones reglamentarias aplicables.
+XIII.- Presentar al Congreso, al abrirse cada Periodo de sesiones, una memoria que contenga las acciones que hayan realizado durante las visitas a los distritos del Estado, en la que propongan las medidas que estimen conducentes para favorecer el desarrollo de las comunidades de la Entidad;
+
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XIV.- Organizar reuniones en los Distritos por los que fueron electos por el principio de mayoría relativa. Los Diputados electos bajo el principio de representación proporcional, lo harán en cualquiera de los Distritos del Estado; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+XV.- Las demás que le señalen la Constitución Política del Estado Libre y Soberano de Puebla, las leyes y disposiciones reglamentarias aplicables.
 
 El incumplimiento de cualquiera de estas obligaciones, podrá ser causa de responsabilidad, de conformidad con la Ley respectiva.
 
@@ -2408,6 +2416,12 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 20 DE JULIO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE SEPTIEMBRE DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
