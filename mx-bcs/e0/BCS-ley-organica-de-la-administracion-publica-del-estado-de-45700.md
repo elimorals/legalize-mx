@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-45700"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-07-14"
-last_updated: "2014-11-30"
+last_updated: "2015-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 14 de julio de 2005
 
@@ -871,13 +871,17 @@ b) Formular, instrumentar, conducir, difundir y evaluar los programas y acciones
 
 c) Consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado;
 
-d) Concertar y promover con la Federación los programas, acciones y recursos que se emprendan para desarrollar el turismo en el Estado e impulsar la transformación económica y social, otorgando la prioridad a las zonas con mayor potencialidad turística, asegurando la preservación del medio ambiente y el desarrollo sustentable, así como la extensión de los beneficios a los distintos sectores de la población y las diversas regiones del Estado.
+> <small>(REFORMADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+d) Concertar y promover con la Federación los programas, acciones y recursos que se emprendan para desarrollar el turismo en el Estado e impulsar la transformación económica y social, otorgando la prioridad a las zonas con mayor potencialidad turística, en especial, a las localidades que son declaradas pueblo mágico, asegurando la preservación del medio ambiente y el desarrollo sustentable, así como la extensión de los beneficios a los distintos sectores de la población y las diversas regiones del Estado;
 
 e) Fomentar, junto con las autoridades competentes, las zonas de desarrollo turístico y formular coordinadamente con las dependencias federales y locales correspondientes, la declaratoria respectiva;
 
 f) Promover la celebración de convenios de colaboración en materia turística con los prestadores de servicios turísticos y con las dependencias o instituciones federales y estatales, a fin de gestionar precios y tarifas reducidas con el objeto de lograr el descanso y esparcimiento familiar, generando mayor afluencia de turistas al interior del Estado en todas las temporadas del año;
 
-g) Promover y apoyar el desarrollo de la infraestructura turística estimulando la participación de los sectores de la población involucrados; así como la formación del personal especializado que precise el desarrollo del sector, con el objeto de elevar la calidad en la prestación de los servicios turísticos;
+> <small>(REFORMADO, B.O. 1 DE SEPTIEMBRE DE 2015)</small>
+
+g) Promover y apoyar el desarrollo de la infraestructura turística, en especial de las localidades que han sido declaradas pueblo mágico, estimulando la participación de los sectores de la población involucrados; así como la formación del personal especializado que precise el desarrollo del sector, con el objeto de elevar la calidad en la prestación de los servicios turísticos;
 
 h) Consolidar el órgano colegiado que establece la Ley Estatal de Turismo, como un foro especializado para la promoción, la concertación y la difusión de programas de desarrollo turístico, con los sectores público, social y privado; y
 
@@ -1652,3 +1656,9 @@ CUARTO.- En las disposiciones legales y administrativas del régimen normativo d
 QUINTO.- Para efectos de la presente Ley y demás disposiciones legales y administrativas, en donde se aluda a la Secretaría de Seguridad Pública, se entenderá a la Subsecretaría de Seguridad Pública.
 
 SEXTO.- Las figuras jurídicas relacionadas con el Sistema Penal Acusatorio y Oral en el Estado de Baja California Sur, entrarán en vigor de manera simultánea en los términos y plazos que se señalen en el DECRETO de DECLARATORIA de INCORPORACIÓN al Código Nacional de Procedimientos Penales emitido por este órgano legislativo, en fecha 26 de junio de 2014 y publicado mediante Decreto número 2176 de fecha 27 de junio de 2014.
+
+B.O. 1 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- En el Presupuesto de Egresos del Gobierno del Estado para el Ejercicio Fiscal 2017, deberán incluirse las partidas presupuestales necesaria (sic) para los pueblos mágicos, a efecto de dar cumplimiento a lo ordenado por este Decreto.
