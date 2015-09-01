@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-103901"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-30"
-last_updated: "2014-11-30"
+last_updated: "2015-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 1 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1115,9 +1117,7 @@ I. Tener Título de Licenciado en Derecho, debidamente expedido y registrado con
 
 II. Tener cumplidos 23 años de edad al día de su designación; y
 
-III. Reunir los requisitos que establecen las fracciones III, V, VI, VII y
-
-VIII, del artículo 60 de la presente Ley.
+III. Reunir los requisitos que establecen las fracciones III, V, VI, VII y VIII, del artículo 60 de la presente Ley.
 
 ###### Artículo 63.
 
@@ -2810,3 +2810,21 @@ MARCO ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 1 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Boletín Oficial del Gobierno del Estado Libre y Soberano de Baja California Sur.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Se abroga la Ley Orgánica del Poder Judicial del Estado de Baja California Sur, expedida mediante decreto No. 2197 y publicada en el Boletín Oficial No. 56 del Gobierno del Estado de Baja California Sur, el treinta de noviembre de 2014.
+
+CUARTO.- El Pleno del Tribunal Superior de Justicia tiene un plazo máximo de noventa días, a partir de la entrada en vigor del presente Decreto, para la expedición de los reglamentos que sean necesarios para dar cumplimiento al presente decreto.
+
+QUINTO.- La Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y el Congreso del Estado de Baja California Sur, deberán considerar en los presupuestos correspondientes los recursos económicos para la creación de la infraestructura y equipamiento para dar cumplimiento al presente Decreto.
+
+SEXTO. Los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
