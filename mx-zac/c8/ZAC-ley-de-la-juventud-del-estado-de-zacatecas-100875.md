@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-juventud-del-estado-de-zacatecas-100875"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-03"
-last_updated: "2014-05-03"
+last_updated: "2015-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA JUVENTUD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 3 de mayo de 2014.
 
@@ -235,7 +235,13 @@ III. Jóvenes con discapacidad;
 
 IV. Jóvenes migrantes; y
 
-V. Jóvenes que padezcan alguna adicción.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+V. Jóvenes que padezcan alguna adicción, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Jóvenes Jefes de Familia.
 
 ###### Artículo 13.
 
@@ -316,6 +322,18 @@ IV. Recibir, al momento de finalizar su rehabilitación, estímulos para reincor
 V. Recibir atención psicológica especializada, inmediata y subsecuente a cargo de profesionales considerando las diferentes modalidades de las adicciones; y
 
 VI. Los demás que contribuyan a su desarrollo armónico e integral.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 17 Bis.
+
+Son derechos de los jóvenes jefes de familia, los siguientes:
+
+I. Acceder a los programas estatales de apoyo económico que beneficien la manutención familiar;
+
+II. A ser tomados en cuenta de manera prioritaria en toda política pública orientada a la gestión de empleo, y
+
+III. Acceder a los programas estatales de orientación para el pleno ejercicio de una paternidad responsable.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS JÓVENES
 
@@ -699,7 +717,7 @@ IV. Prevención, el titular de la Secretaría de Seguridad Pública del Estado d
 
 V. Fomento a la Salud, el titular de los Servicios de Salud de Zacatecas; y
 
-VI. Activación Deportiva, el titular del Instituto de Cultura Física y Deporte del Estado de Zacatecas; (sic)
+VI. Activación Deportiva, el titular del Instituto de Cultura Física y Deporte del Estado de Zacatecas;
 
 ###### Artículo 53.
 
@@ -1068,3 +1086,15 @@ PROFESOR FRANCISCO ESCOBEDO VILLEGAS
 EL SECRETARIO DE DESARROLLO SOCIAL
 
 ING. JOSÉ MA. GONZÁLEZ NAVA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
