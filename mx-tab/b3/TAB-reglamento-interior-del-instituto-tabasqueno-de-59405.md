@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2013-12-21"
+last_updated: "2015-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -291,7 +291,13 @@ IX. Analizar y aprobar en su caso en el mes de enero de cada año, el informe po
 
 X. Expedir las bases para la selección, permanencia, promoción, capacitación y actualización del personal conforme a los principios señalados en el artículo 24 de la ley; y
 
-XI. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Autorizar al Presidente para realizar donaciones, encaminadas a la difusión, investigación, protección y respeto al derecho de acceso a la información pública y la protección de datos personales; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -469,7 +475,13 @@ XXV. Llevar el control de la correspondencia que reciba y expida el Pleno y/o el
 
 XXVI. Las que le confiera el Pleno del Instituto; y
 
-XXVII. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+XXVII. Realizar las evaluaciones de los portales de transparencia de los Sujetos Obligados; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+XXVIII. Las demás que le señale la Ley, su Reglamento o cualquier otra disposición legal aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -645,9 +657,7 @@ XII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2013)
 
 XIII. Difundir las normas, lineamientos, bases y criterios que determine el Pleno;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
-
-XIV. Realizar las evaluaciones de los portales de transparencia de los Sujetos Obligados;
+XIV. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2015);
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
 
@@ -843,10 +853,18 @@ Tercero. Una vez realizada la publicación en el Periódico Oficial del Estado, 
 
 P.O. 21 DE DICIEMBRE DE 2013.
 
-## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL SE APRUEBAN "DIVERSAS REFORMAS, ADICIONES Y DEROGACIONES AL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA".]
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL SE APRUEBAN “DIVERSAS REFORMAS, ADICIONES Y DEROGACIONES AL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
 
 PRIMERO.- Las presentes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente de su aprobación por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 SEGUNDO.- Para la debida difusión del contenido del presente acuerdo del pleno, se ordena su publicación en el órgano oficial del gobierno, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
 
 TERCERO.- La Dirección de Administración y Finanzas del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado, realizará los ajustes financieros necesarios con motivo de la aprobación del presente acuerdo del pleno.
+
+P.O. 2 DE SEPTIEMBRE DE 2015.
+
+[N. DE TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 23 Y LA FRACCIÓN XXVII DEL ARTÍCULO 26; SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 23 Y LA FRACCIÓN XXVIII AL ARTÍCULO 26; Y, SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 30 DEL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+PRIMERO. Las presentes Reformas entrarán en vigor al siguiente día hábil de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO. Para la debida difusión del contenido del presente acuerdo del pleno, se ordena su publicación en el Órgano de Difusión Oficial del Gobierno del Estado, así como en la página web del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública del Estado.
