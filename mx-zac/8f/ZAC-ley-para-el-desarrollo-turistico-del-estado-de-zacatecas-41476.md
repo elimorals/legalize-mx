@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-turistico-del-estado-de-zacatecas-41476"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-25"
-last_updated: "2009-09-26"
+last_updated: "2015-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY PARA EL DESARROLLO TURISTICO DEL ESTADO DE ZACATECAS
 
-LEY PARA EL DESARROLLO TURISTICO DEL ESTADO DE ZACATECAS
+LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de agosto de 2004.
 
@@ -79,9 +79,9 @@ XV. La constitución del Fondo de Desarrollo y Fomento al Turismo de Zacatecas y
 
 XVI. Promover la creación de organismos y asociaciones que tengan por objetivo fomentar el turismo en la Entidad;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
-XVII. Fomentar el desarrollo del turismo en los municipios con vocación turística del Estado, en especial, en las localidades declaradas pueblos mágicos;
+XVII. Fomentar el desarrollo del turismo en los municipios con vocación turística del Estado, en especial, en los municipios y localidades declarados pueblos mágicos y en los sitios Patrimonio Mundial;
 
 XVIII. Promover y regular las zonas de desarrollo turístico prioritario en la Entidad; y
 
@@ -129,13 +129,17 @@ VI. Programa Estatal de Turismo: Es aquel en el cual se establecen objetivos y a
 
 VII. Programas Municipales de Turismo: Son aquellos instrumentos mediante los cuales los Municipios con vocación turística establecen los objetivos y acciones en materia turística municipal, sujetándose a los lineamientos del Plan Nacional de Turismo y del Programa Estatal de Turismo y de acuerdo a los Planes Nacional y Estatal de Desarrollo;
 
-VIII. Centro Turístico: Es aquel lugar que cuenta con atractivos turísticos e infraestructura adecuada para recibir el turismo; y (sic)
+VIII. Centro Turístico: Es aquel lugar que cuenta con atractivos turísticos e infraestructura adecuada para recibir el turismo; y
 
 IX. Zonas de Desarrollo Turístico Prioritario: Son aquellos municipios, regiones o lugares que por sus características geográficas, sociales, históricas o culturales, constituyen un atractivo turístico y son susceptibles de promocionarlas y proporcionarles el apoyo para su desarrollo turístico preferente;
 
 > <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 X. Pueblo Mágico: Es toda aquella localidad que cuente con el nombramiento homónimo que otorga la Secretaría Federal de Turismo, previo acuerdo y visto bueno del Comité Intersectorial de Evaluación y Análisis (C.I.E.S.)
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Sitios Patrimonio Mundial: son los sitios inscritos en la lista del Patrimonio Mundial de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura.
 
 ###### Artículo 5.
 
@@ -305,9 +309,9 @@ De igual forma deberán considerarse en el otorgamiento de permisos y licencias 
 
 El Municipio, lugar o región que haya sido declarado como zona de desarrollo turístico prioritario, tendrá acceso a los apoyos que al efecto establezca el Programa Estatal de Turismo.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
-Las localidades declaradas pueblos mágicos de acuerdo con la legislación federal en la materia, tendrán acceso a apoyos extraordinarios, que serán independientes a las partidas presupuestales ordinarias que se le asignen en los presupuestos de egresos del Estado y de los Municipios. Dichas partidas sólo podrán destinarse a los programas y proyectos que se implementen para tal fin.
+Las localidades declaradas pueblos mágicos y los sitios Patrimonio Mundial, de acuerdo con la legislación federal en la materia, tendrán acceso a apoyos extraordinarios, que serán independientes a las partidas presupuestales ordinarias que se le (sic) asignen en los presupuestos de egresos del Estado y de los Municipios. Dichas partidas sólo podrán destinarse a los programas y proyectos que se implementen para tal fin.
 
 ## TÍTULO TERCERO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
 
@@ -479,9 +483,9 @@ La Secretaría podrá tomar en consideración las opiniones y propuestas del Con
 
 La Secretaría promoverá con los ayuntamientos de los municipios con vocación turística, o en su caso, aquellas en que se desarrollen actividades turísticas, la celebración de convenios y acuerdos destinados a proporcionar mejores servicios de estacionamiento público, seguridad al turista, limpieza en las vialidades y en general los necesarios para el mejoramiento de los servicios públicos, con el objeto de brindar una atención integral al turista.
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
-En las localidades declaradas pueblos mágicos, la Secretaría conjuntamente con otras dependencias y entidades de la administración pública estatal y en coordinación con los Ayuntamientos, implementarán programas y proyectos especiales para fortalecer el desarrollo turístico del lugar.
+En las localidades declaradas pueblos mágicos y en los sitios Patrimonio Mundial, la Secretaría conjuntamente con otras dependencias y entidades de la administración pública estatal y en coordinación con los Ayuntamientos, implementarán programas y proyectos especiales para fortalecer el desarrollo turístico del lugar.
 
 ###### Artículo 54.
 
@@ -849,7 +853,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JAIME ARTURO CASAS MADERO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE SEPTIEMBRE DE 2009.
 
@@ -858,3 +862,11 @@ Artículo primero.- El presente Decreto entrará en vigor el día siguiente de s
 Artículo segundo.- Se derogan todas las disposiciones que se opongan al presente Instrumento Legislativo.
 
 Artículo tercero.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2010, deberán incluirse las partidas presupuestales para los municipios declarados pueblo mágico.
+
+P.O. 2 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. En el Presupuesto de Egresos del Estado para el ejercicio fiscal del año siguiente a la publicación del presente Decreto en el Periódico Oficial, se procurará incluir las partidas presupuestales correspondientes para los municipios que cuenten con sitios declarados Patrimonio Mundial.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
