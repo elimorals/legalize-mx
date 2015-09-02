@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-para-el-municipio-de-monterrey-nuevo-14790
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-05"
-last_updated: "2008-08-18"
+last_updated: "2015-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON
+REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de agosto 1996.
 
@@ -35,13 +35,13 @@ QUE EL REPUBLICANO AYUNTAMIENTO DEL MUNICIPIO DE MONTERREY, EN SESION ORDINARIA 
 
 REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2003)</small>
 
 ### CAPITULO PRIMERO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -55,7 +55,7 @@ El presente reglamento es de orden público e interés social y tiene por objeto
 
 Las autoridades responsables de la prestación del servicio público de Limpia son: el R. Ayuntamiento, el Presidente Municipal, el Secretario del R. Ayuntamiento, y el Secretario de Servicios Públicos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -95,7 +95,7 @@ II.- Limpieza de calles importantes, avenidas y camellones y aquellas cuando fue
 
 III.- Recolección de basura y desperdicios provenientes de los lugares señalados en el artículo 3 incisos b y c de este reglamento y los demás que considere necesarios la Secretaría de Servicios Públicos y que tengan por objeto el ejercicio de todas las funciones y actividades encaminadas a satisfacer necesidades sociales de servicios públicos. En su caso se observará lo dispuesto en la Ley de Hacienda para los Municipios del Estado de Nuevo León, respecto al pago de derechos por recolección.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -109,7 +109,7 @@ V.- Recolección, transporte y cremación de cadáveres de animales que se encue
 
 El barrido y la limpieza de las calles de la ciudad se efectuará por la autoridad municipal con la colaboración de los propietarios, inquilinos, poseedores o usufructuarios de las fincas que colinden con las mismas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -117,7 +117,7 @@ El barrido y la limpieza de las calles de la ciudad se efectuará por la autorid
 
 La recolección y traslado de la basura domiciliaria de las casas habitación, escuelas públicas, templos, áreas de propiedad o uso municipal y dependencias oficiales de gobierno, se realizará por la Secretaría de Servicios Públicos en los horarios que establezca la misma Secretaría.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -137,7 +137,7 @@ La Secretaría de Servicio Públicos, para optimizar el servicio podrá cambiar 
 
 La Administración Municipal podrá celebrar convenios con una o varias personas físicas o morales para realizar el servicio de limpia al comercio, así como para instalar depósitos metálicos para servicio de los transeúntes, con tapas móviles, en cuyos recipientes se inserten anuncios comerciales, mediante el pago de derechos correspondientes, quedando prohibido que en esa clase de depósitos se arrojen otros desperdicios que no sean los que los transeúntes generen en su recorrido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -145,7 +145,7 @@ La Administración Municipal podrá celebrar convenios con una o varias personas
 
 Las empresas o quienes desempeñen actividades comerciales, industriales y de servicios, son responsables de la basura que generen, su recolección, traslado y confinamiento en lugares autorizados, debiendo contar con la documentación que acredite su cumplimiento, presentando dicha documentación ante las autoridades municipales en el caso de ser requerida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -161,7 +161,7 @@ c).- Que los servicios de recolección y traslado de desechos sólidos no peligr
 
 En todo caso, los vehículos deberán estar cubiertos y debidamente equipados para evitar la diseminación de residuos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -169,7 +169,7 @@ En todo caso, los vehículos deberán estar cubiertos y debidamente equipados pa
 
 Las personas físicas o morales, cuyo objeto sea la prestación de los servicios de recolección y traslado de residuos dentro del territorio municipal de Monterrey, así cerno los vehículos destinados para la prestación de dichos servicios, deberán contar con la autorización de la Secretaria de Servicios Públicos, refrendándose anualmente dicha autorización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -185,7 +185,7 @@ Es responsabilidad de toda persona física o moral, pública o privada, que por 
 
 En los casos en que los generadores de residuos peligrosos sean personas físicas o morales ya sean públicas o privadas, además de apegarse al presente artículo, deberán cumplir con lo establecido en los artículos 10 Y 11 del presente reglamento para la recolección y traslado de residuos sólidos no peligrosos que generen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ### CAPITULO TERCERO. DE LAS OBLIGACIONES DE LA CIUDADANIA
 
@@ -193,7 +193,7 @@ En los casos en que los generadores de residuos peligrosos sean personas física
 
 Es obligación de los habitantes de Monterrey, y de las personas que transiten por su territorio, el participar activamente en la conservación de la limpieza de la ciudad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -203,11 +203,17 @@ I.- La recolección de basura domiciliaria se hará en el horario y con la frecu
 
 II.- Los propietarios de casa-habitación, encargados, poseedores originarios o derivados, así como los dueños o representantes de establecimientos comerciales, industriales, profesionales o de cualquier otra índole, tiene la obligación de mantener limpias las fachadas, aparadores, banquetas y medias calles.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1999)</small>
+III.- Los propietarios o poseedores de terrenos baldíos deberán cercarlos y embanquetarlos en los lados que colinden con la calle o vía pública y deberán efectuar el desmonte, desyerba o limpieza de su inmueble, retirando la rama, basura o escombro, tres veces al año a más tardar en los meses de marzo, julio y noviembre respectivamente o en su caso cuando la hierba rebase los 30 centímetros.
 
-III.- Los propietarios o poseedores de terrenos baldíos deberán cercarlos y embanquetarlos en los lados que colinden con la Calle o vía pública. Igualmente deberán mantenerlos limpios, libres de basura, escombro, animales muertos, vehículos y objetos abandonados y maleza, realizando en ellos la limpieza, desmonte y deshierba cuando la altura de la hierba rebase 30 centímetros, evitando la insalubridad e impidiendo que sean usados como tiraderos. En todo caso se estará a lo dispuesto en la Ley de Hacienda de referencia.
+Independientemente de las fechas señaladas, la autoridad, a través de la Tesorería Municipal podrá requerir en cualquier momento al propietario o poseedor del predio baldío, para que realice la limpieza, desmonte y desyerba de su predio, cuando el mismo esté provocando condiciones de insalubridad o inseguridad. El Municipio deberá implementar campañas temporales para informar, citar o en su caso requerir a los propietarios o poseedores de los lotes baldíos, la limpieza de los mismos.
+
+Para los efectos de esta fracción deberá entenderse por:
+
+Desmonte.- La acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centímetros.
+
+Desyerba.- La acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -219,7 +225,7 @@ El barrido se hará preferentemente durante la mañana, según se trate, respect
 
 Cuando sea necesario hacer el barrido en la noche entre las 19:00 y 21:00 horas, la recolección de la basura resultante se hará en los términos conducentes de los artículos 8 y 15 de este reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -247,7 +253,7 @@ Los propietarios o encargados de establecimientos comerciales, industriales o de
 
 Los propietarios de establos, caballerizas, tiendas de animales, veterinarias o cualquier otro lugar similar harán por su propia cuenta el transporte del estiércol y demás desperdicios. Pero si los conservan para utilizarlos o venderlos para abono de la tierra, deberán depositarlos en lugares o recipientes apropiados con observancia de los requisitos legales de higiene y salubridad vigentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -257,7 +263,7 @@ Los propietarios o encargados de los garages y talleres para reparación de auto
 
 Estas mismas obligaciones tienen los propietarios o encargados de las terminales, depósitos, talleres o establecimientos de servicio de las empresas que explotan servicios de pasajeros o de carga, sean locales o foráneos, debiéndose apegar además a los artículos 10, 11 y 14 de este reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -265,7 +271,7 @@ Estas mismas obligaciones tienen los propietarios o encargados de las terminales
 
 Los propietarios o encargados de estaciones de servicio para venta de gasolina, aceite, lavado, engrasado o lubricación de automóviles y camiones, serán responsables de que las banquetas y calles de los lugares en que se encuentren esos negocios estén siempre limpias y de que las estopas, latas vacías u otros materiales de desperdicios que utilicen para la lubricación, limpieza o reparación de los vehículos, se depositen en recipientes metálicos que tengan tapa, debiéndose apegar además a los artículos 10, 11 y 14 de este reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -277,7 +283,7 @@ Los propietarios, directores responsables de obra, contratistas y encargados de 
 
 Todos los lados de los inmuebles descritos en el párrafo anterior que colinden con calle deberán mantenerse en completa limpieza quedando estrictamente prohibido acumular escombros y materiales en la vía pública. En caso de resultar inevitable la utilización de la vía pública, se obtendrá previamente el permiso correspondiente de la Secretaría de Servicios Públicos o Secretaría de Desarrollo Urbano y Ecología o de ambas en su caso debiendo proteger siempre tales materiales, para evitar que sean diseminados. Los responsables deberán transportar los escombros a los sitios autorizados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -293,7 +299,7 @@ Los propietarios, administradores o encargados de camiones y transporte colectiv
 
 La basura y desperdicio provenientes de los usuarios de los edificios y talleres, se depositarán en recipientes adecuados que deberán instalarse en el interior de su establecimiento, en un lugar que permita las maniobras para su adecuada recolección, además de cumplir con los establecido en los artículos 10 y 11 del presente reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -301,7 +307,7 @@ La basura y desperdicio provenientes de los usuarios de los edificios y talleres
 
 Lo dispuesto por los artículos 10, 11, 16 y 22 es aplicable a los propietarios o encargados de estacionamiento de automóviles y talleres de reparación de los mismos, carpintería, pintura y otros establecimientos similares.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -309,7 +315,7 @@ Lo dispuesto por los artículos 10, 11, 16 y 22 es aplicable a los propietarios 
 
 Los propietarios o encargados de madererías o carpinterías tienen la obligación de vigilar que los aserrines, virutas y madera que se produzcan en los cortes o cepillados de la madera, no se acumulen en los lugares donde pueda haber riesgo de que se incendien ni se diseminen en la vía pública, quedando sujetos a lo dispuesto en los artículos 10 y 11 de este reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -329,7 +335,7 @@ Los comerciantes ambulantes, propietarios y encargados de puestos fijos y semifi
 
 Queda estrictamente prohibido:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -349,7 +355,7 @@ VI.- Extraer la basura y desperdicios de los botes colectores instalados en la v
 
 VII.- Arrojar o abandonar basura o cualquier tipo de desecho en la vía pública, parques o plazas y, en general, en sitios no autorizados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -363,13 +369,13 @@ XI.- Cuando se afecte a terceros, lavar en la vía pública toda clase de vehíc
 
 XII.- Lavar en la vía pública toda clase de muebles, vasijas, herramientas, animales y objetos de uso doméstico, así como la reparación de vehículos, fabricación de muebles y la ejecución de cualquier actividad similar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
 Los dueños o personas a cuyo cargo se encuentren en estos supuestos y los mencionados en la fracción anterior, o quienes personalmente ejecuten esos actos, son responsables solidarios por la infracción que se cometa a estas disposiciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -409,7 +415,7 @@ XXV.- Fijar anuncios o cualquier tipo de propaganda con adherentes o materiales 
 
 ### CAPITULO QUINTO. DE LA CLASIFICACIÓN DE LOS RESIDUOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -465,7 +471,7 @@ VIII.- los inspectores municipales; y
 
 IX.- Los supervisores de la Secretaría de Servicios Públicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 38.
 
@@ -475,7 +481,7 @@ I.- (DEROGADA, P.O. 18 DE AGOSTO DE 2008)
 
 II.- (DEROGADA, P.O. 18 DE AGOSTO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 III.- (DEROGADA, P.O. 10 DE ENERO DE 2003)
 
@@ -483,7 +489,7 @@ III.- (DEROGADA, P.O. 10 DE ENERO DE 2003)
 
 Los auxiliares que se señalan en el artículo 38 de este reglamento, servirán de apoyo a la Secretaría de Servicios Públicos Municipales, para la vigilancia y debido cumplimiento de las disposiciones del presente reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -529,11 +535,13 @@ La infracción a lo dispuesto por las fracciones I a VI del artículo 31, así c
 
 La infracción a lo dispuesto por las fracciones VII a XX del artículo 31, así como a los artículos 15, fracciones I y II, 18, 19, 21, 25, 26 y 30 de este reglamento, se sancionarán con multa equivalente de 51 a 100 días de salario mínimo general vigente en el municipio de Monterrey.
 
-> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 46.
 
-La infracción a lo dispuesto por las fracciones XXI a XXV del artículo 31, así como a los artículos 10, 11, 12 y 15, fracción III de este reglamento, se sancionarán con multa equivalente de 101 a 200 días de salario mínimo general vigente en el municipio de Monterrey.
+La infracción a lo dispuesto por las fracciones XXI a XXV, del artículo 31, así como a los artículos 10, 11 y 12 de este reglamento, se sancionará con multa equivalente de 101 a 200 días de salario mínimo general vigente en el municipio de Monterrey.
+
+En caso de incumplimiento de lo establecido en el artículo 15 fracción III de este Reglamento, se impondrá una multa de uno a tres tantos de los derechos por limpieza de lote baldío que le correspondería pagar, conforme a las cuotas establecidas en la Ley de Hacienda para los Municipios, dependiendo de la reincidencia. El pago de la multa que se impusiere al infractor no lo exime de las obligaciones establecidas en este Reglamento. Para efectos de este párrafo, se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión, en el plazo de un año, con la obligación que establece el artículo 15 fracción III de este Reglamento, habiéndose requerido previamente por el Municipio.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -545,7 +553,7 @@ La infracción a lo dispuesto por el artículo 41 de este reglamento, se sancion
 
 La imposición y cumplimiento de las sanciones, no eximirá al infractor de la obligación de corregir las anomalías que hayan dado motivo a dichas sanciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -575,7 +583,7 @@ Cualquier infracción al presente reglamento que no esté considerada específic
 
 Son infractores aquellas personas físicas o morales privadas o públicas; que incurran en la violación al presente reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -591,7 +599,7 @@ De los resultados, juntamente con la queja, se dará vista al presunto infractor
 
 III.- Desahogada la vista, la Secretaría de Servicios Públicos reportará en su caso, a la Dirección de Ingresos la infracción cometida y la calificación correspondiente, para que proceda a notificar la determinación y liquidación continuando con el procedimiento administrativo de ejecución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 IV.- (DEROGADA, P.O. 10 DE ENERO DE 2003)
 
@@ -605,7 +613,7 @@ IV.- (DEROGADA, P.O. 10 DE ENERO DE 2003)
 
 Los ciudadanos considerados como infractores en una resolución administrativa de multa dictada por la Secretaría de Servicios Públicos, en los términos del presente reglamento y dentro de los quince días siguientes a su aplicación, podrán interponer el recurso de inconformidad ante la Dirección Jurídica de la Secretaría del R. Ayuntamiento de Monterrey, de acuerdo a los términos establecidos en el Reglamento que Regula el Procedimiento Único de Recursos de Inconformidad en el Municipio de Monterrey.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE AGOSTO DE 2008)</small>
 
 ###### Art. 55.
 
@@ -645,7 +653,7 @@ Secretario Del R. Ayuntamiento
 
 C. José Martínez González.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE JULIO DE 1999.
 
@@ -664,3 +672,7 @@ TERCERO. Se deroga cualquier otra disposición, en materia de limpia, que se opo
 P.O. 18 DE AGOSTO DE 2008.
 
 Artículo Único.- Las reformas por adición, modificación y derogación al, Reglamento de Limpia para el Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Paródico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 2 DE SEPTIEMBRE DE 2015.
+
+ÚNICO. Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
