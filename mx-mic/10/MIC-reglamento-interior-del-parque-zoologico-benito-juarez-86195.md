@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-parque-zoologico-benito-juarez-86195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-02"
-last_updated: "2012-02-02"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DEL PARQUE ZOOLÓGICO BENITO JUÁREZ DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el jueves 2 de febrero de 2012.
 
@@ -125,7 +125,9 @@ XV. Coordinar y supervisar la elaboración del programa operativo anual del Parq
 
 XVI. Establecer las medidas necesarias para el mejoramiento de las Unidades Administrativas del Parque;
 
-XVII. Proporcionar la información y cooperación técnica que sean requeridas por las dependencias, coordinaciones y entidades de la Administración Pública Estatal, cuando así lo establezcan las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Proporcionar la información y cooperación técnica que sean requeridas por las dependencias, coordinaciones y entidades de la Administración Pública, así como emitir copias cotejadas de los documentos que obren en los archivos de la Dirección General del Parque;
 
 XVIII. Ejercer y controlar el presupuesto autorizado para el Parque, a través de la Delegación Administrativa, de conformidad con lo que señalen las disposiciones normativas aplicables;
 
@@ -140,6 +142,14 @@ XXII. Proponer a la Junta la suscripción de convenios, acuerdos o cualquier ins
 XXIII. Suscribir los contratos, convenios o acuerdos de colaboración, para el cumplimiento del objeto del Parque, de conformidad con los lineamientos que determine la Junta y en términos de las disposiciones normativas aplicables;
 
 XXIV. Designar a los suplentes para que actúen en nombre y representación del Parque, en aquellas juntas, comisiones o consejos en que forme parte y otorgar y conferir poderes generales y especiales que le autorice la Junta, a través del acuerdo delegatorio de facultades que corresponda, a los servidores públicos del Parque;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV Bis. Proponer la creación de consejos médicos o grupos de trabajo interno con personal técnico de asesoría especializados en la atención y cuidado de las especies en cautiverio con las que cuenta el Parque;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV Ter. Emitir disposiciones normativas internas para el mejor funcionamiento y operación del Parque y presentarlas a la Junta para su aprobación;
 
 XXV. Dirigir la realización de investigaciones y estudios que sean necesarios para la realización de los programas, proyectos y acciones del Parque, así como realizar las gestiones que se requieran para su ejecución; y,
 
@@ -384,3 +394,11 @@ LA SECRETARIA DE TURISMO
 THELMA AQUIQUE ARRIETA
 
 (Firmado)
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 3 DE SEPTIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se dejan sin efectos todas aquellas disposiciones administrativas en lo que se opongan al presente Decreto.
