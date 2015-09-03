@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-proteccion-de-los-derechos-de-las-ninas-ninos-y-695
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-31"
-last_updated: "2012-08-30"
+last_updated: "2015-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS 60 DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de julio de 2009.
 
@@ -31,7 +33,7 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro aprueba la siguiente:
 
@@ -1014,3 +1016,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 3 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor a los 60 días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. La presente abroga la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Querétaro, publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" número 55, de fecha 31 de julio de 2009.
+
+Artículo Tercero. Los Sistemas Estatal y Municipales de Protección deberán integrarse, en un plazo máximo de 90 días, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. La Procuraduría de Protección Estatal y las Procuradurías de Protección Municipales deberán iniciar funciones a partir del siguiente ejercicio presupuestal a la entrada en vigor de este ordenamiento legal.
+
+Artículo Quinto. Los Sistemas DIF estatal y municipales contarán con un plazo de 90 días para reformar su normativa orgánica, a partir de la entrada en vigor de la presente Ley.
