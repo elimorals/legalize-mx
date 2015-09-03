@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2015-07-24"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -481,7 +481,7 @@ Previo a dar conocimiento del turno referido en el párrafo anterior, a petició
 
 (Obligatoriedad de emitir dictamen) Las Comisiones deberán emitir el dictamen que proponga aprobar la iniciativa, en sus términos o con modificaciones, o bien, rechazarla, pero no podrá dispensarse en ningún caso su dictamen.
 
-Las Comisiones deberán emitir el dictamen a más tardar treinta días naturales anteriores al término del ejercicio constitucional de la Legislatura.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
 
 En las modificaciones se podrán suprimir fragmentos de la iniciativa, hacer variaciones de forma o de fondo y adicionar o complementar el texto original con elementos distintos a los que formen parte de la iniciativa.
 
@@ -2236,3 +2236,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su apr
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento legal.
 
 Artículo Tercero. Remítase la Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 3 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor el día de su aprobación por el Pleno de la Quincuagésima Séptima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Remítase al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
