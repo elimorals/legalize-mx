@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-67958"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2010-09-03"
+last_updated: "2015-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERETARO
 
-LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERETARO
+LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -989,10 +991,20 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+P.O. 3 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se abroga la "Ley de Derechos Humanos del Estado de Querétaro", publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", el 20 de marzo del año 2009; así como sus reformas y todas las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento.
+
+Artículo Tercero. El Poder Legislativo del Estado de Querétaro, contará con un plazo de 120 días para armonizar la Ley Orgánica del Poder Legislativo del Estado de Querétaro a las disposiciones de la presente Ley.
+
+Artículo Cuarto. Dentro de los siguientes 120 días naturales posteriores a la publicación de la presente Ley, el titular del Poder Ejecutivo del Estado expedirá la reglamentación correspondiente.
