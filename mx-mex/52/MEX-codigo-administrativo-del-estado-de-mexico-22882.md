@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-08-28"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -15757,6 +15757,10 @@ III. Nieve y granizo, con el propósito de prever la seguridad en el diseño de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO PRIMERO. De los prestadores de servicios inmobiliarios
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 54.- Toda construcción deberá contar con un sistema estructural que permita el flujo adecuado de las fuerzas que generan las distintas acciones de diseño, para que dichas fuerzas puedan ser transmitidas de manera continua y eficiente hacia la cimentación. Debe contar además con una cimentación que garantice la correcta transmisión de dichas fuerzas al subsuelo.
@@ -15786,6 +15790,10 @@ III. Cuando los Municipios lo determinen conveniente, en razón de la duda que g
 En los supuestos anteriores, en caso de enajenación, el vendedor entregará copia simple de la prueba de carga realizada.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO SEGUNDO. De las empresas inmobiliarias registradas
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
@@ -15849,6 +15857,10 @@ El uso de explosivos para demoliciones quedará condicionado a que la Secretarí
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO TERCERO. De las asociaciones inmobiliarias
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 61.- Se tomarán las precauciones necesarias para impedir el acceso al sitio de una excavación mediante señalamiento adecuado y barreras para evitar accidentes.
@@ -15895,6 +15907,10 @@ Los materiales de construcción deben ser almacenados en el predio donde se real
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO UNICO. Del registro
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 65.- Durante la ejecución de las construcciones el titular de la licencia de construcción o el perito responsable de obra, deberá tomar las precauciones y medidas técnicas necesarias para proteger la integridad física de los trabajadores y la de terceros, de conformidad con lo establecido en las disposiciones jurídicas aplicables.
@@ -15924,6 +15940,10 @@ En las obras deberán proporcionarse a los trabajadores servicios provisionales 
 ## TITULO QUINTO. De la ejecución de las construcciones
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO PRIMERO. Atribuciones de la Secretaría
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
@@ -16047,11 +16067,19 @@ III. Cuando en el plazo señalado en una medida de seguridad no se haya dado cum
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO SEGUNDO. De la Comisión
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 74.- La demolición parcial o total que ordene la autoridad competente, como medida de seguridad o sanción, será ejecutada por el infractor a su costa y dentro del plazo que fije la resolución respectiva. En caso contrario, la autoridad la mandará ejecutar por su cuenta y cargo del afectado o infractor y su monto constituirá un crédito fiscal.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
+### CAPITULO I. De las visitas de inspección y vigilancia
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
@@ -16085,15 +16113,427 @@ b) De cinco a veinte años a quienes luego de ser inhabilitados vuelvan a incump
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
+### CAPITULO SEGUNDO. De las infracciones y sanciones
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 77.- Los interesados afectados por los actos y resoluciones que emitan las autoridades administrativas, podrán interponer el recurso administrativo de inconformidad, en términos de lo previsto por el Código de Procedimientos Administrativos del Estado de México.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+# LIBRO DECIMO NOVENO. De las operaciones y servicios inmobiliarios
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO PRIMERO. Disposiciones Generales
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-Las unidades de superficie adscritas a los Mandos Navales, son los buques de los diferentes tipos y clases, destinados a realizar las operaciones marítimas, ribereñas o lacustres que se requieran para el cumplimiento de la misión y atribuciones de la Armada de México.
+1.- Las disposiciones de este Libro son de orden público e interés social y tienen por objeto regular las operaciones y servicios inmobiliarios, que comprenden la certificación, registro y las actividades de los prestadores de servicios inmobiliarios y las empresas inmobiliarias registradas que efectúen operaciones inmobiliarias en el Estado de México.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+2.- Para los efectos de este Libro se entenderá por:
+
+I. Asociaciones inmobiliarias: A las agrupaciones de prestadores de servicios inmobiliarios y empresas inmobiliarias registradas y domiciliadas en el Estado de México.
+
+II. Certificación: Al documento por medio del cual la Secretaría de Desarrollo Económico certifica que las personas físicas son aptas para realizar operaciones inmobiliarias por cuenta de terceros en el Estado de México.
+
+III. Comisión: A la Comisión de Operaciones y Servicios Inmobiliarios del Estado de México.
+
+IV. Empresa inmobiliaria registrada: A la persona jurídico colectiva dedicada a la realización de operaciones inmobiliarias.
+
+V. Operaciones inmobiliarias: Al acto de intermediación, tendente a la celebración de un contrato de compraventa, arrendamiento, aparcería, donación, mutuo con garantía hipotecaria, transmisión de dominio, fideicomiso, adjudicación, cesión y/o cualquier otro contrato traslativo de dominio o de uso o usufructo de bienes inmuebles, así como la administración, comercialización y consultoría sobre los mismos.
+
+VI. Prestador de servicio inmobiliario: A la persona física certificada para realizar operaciones inmobiliarias.
+
+VII. Registro: Al Registro de Operaciones y Servicios Inmobiliarios del Estado de México.
+
+VIII. Reglamento: Al Reglamento del presente Libro.
+
+IX. Secretaría: A la Secretaría de Desarrollo Económico.
+
+X. Unidades acreditadoras: A las instituciones de educación pública o privada autorizadas por la Secretaría para acreditar el cumplimiento de los programas de capacitación y actualización requeridos para la obtención de la inscripción en el Registro.
+
+XI. Usuario: A las personas físicas o jurídico colectivas que contratan a prestadores de servicios inmobiliario (sic) o a una empresa inmobiliaria con el objeto de realizar operaciones inmobiliarias.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+3.- Las personas físicas y jurídico colectivas que sean propietarias de bienes inmuebles, gocen de un derecho real sobre ellos o cuenten con la autorización del propietario en términos de la legislación aplicable, podrán promover, enajenar y arrendar inmuebles de manera directa sin necesidad de contar con certificación y sin utilizar los servicios de los prestadores de servicios inmobiliarios y/o de empresas inmobiliarias.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO SEGUNDO. De los sujetos
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+4.- Los prestadores de servicios inmobiliarios tienen los derechos siguientes:
+
+I. Ostentarse como prestador de servicios inmobiliarios y empresas inmobiliarias registradas, respectivamente.
+
+II. Obtener la certificación de prestador de servicio inmobiliario emitida por la Secretaría.
+
+III. Cobrar honorarios por la realización de las operaciones inmobiliarias, mismos que podrán calcularse con base en un porcentaje sobre el monto de la contraprestación en el caso de compraventa o arrendamiento, o sobre el ingreso bruto o neto en caso de administración, o bien, como un monto fijo o bien de cualquier otra manera que se acuerde con los usuarios.
+
+IV. Usar y ostentar públicamente su certificación y documento que ampare su inscripción en el Registro.
+
+V. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+5.- Los prestadores de servicios inmobiliarios certificados tienen las obligaciones siguientes:
+
+I. Inscribirse en el Registro a cargo de la Secretaría.
+
+II. Acreditar los programas de capacitación que determine la Secretaría.
+
+III. Revalidar su reconocimiento con la periodicidad establecida, cumpliendo con los respectivos requisitos.
+
+IV. Dar aviso a la Secretaría de cualquier modificación que afecte los datos contenidos en su certificación en los términos del Reglamento.
+
+V. Exhibir su certificación vigente en las operaciones inmobiliarias en que intervenga el prestador de servicio inmobiliario.
+
+VI. Brindar asesoría legal, fiscal y financiera necesaria para coadyuvar a prevenir cualquier acción que dañe a los usuarios, a los adquirientes o arrendatarios de bienes inmuebles en términos de las disposiciones jurídicas aplicables.
+
+VII. Orientar a los usuarios acerca de las características de los bienes inmuebles y las consecuencias de los actos que realicen.
+
+VIII. Informar a los usuarios sobre las cualidades y defectos del bien inmueble que promueve, la pertinencia de realizar la operación inmobiliaria y los aspectos relevantes que puedan relacionarse con el tipo de servicio inmobiliario encomendado.
+
+IX. Respetar las condiciones de promoción, venta o arrendamiento del bien inmueble, que hubiera convenido con el usuario.
+
+X. Actuar conforme al Código de Ética emitido por la Comisión.
+
+XI. Dar las facilidades necesarias para que la Secretaría lleve a cabo las visitas de inspección y vigilancia.
+
+XII. Coadyuvar con la Secretaría y la Comisión en el ejercicio de sus funciones.
+
+XIII. Promover con los usuarios la contratación de especialistas, en los campos de valuación de inmuebles, arquitectura, ingeniería civil, contaduría pública, abogacía, fiscalistas, topógrafos, entre otros.
+
+XIV. Insertar su número de registro, número de certificación y domicilio legal en la documentación que suscriban.
+
+XV. Guardar secreto profesional de las operaciones inmobiliarias en las que intervengan y de los usuarios que se las encomendaron.
+
+XVI. Informar a las autoridades competentes sobre aquellas operaciones inmobiliarias en las que se tenga conocimiento de actividades que puedan constituir infracción a las disposiciones jurídicas.
+
+XVII. Las demás contenidas en las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+6.- Se prohíbe a los prestadores de servicios inmobiliarios impedir u oponerse por cualquier medio a que alguna de las partes interesadas en la operación inmobiliaria, consulten con un abogado, arquitecto, ingeniero, notario u otros asesores respecto de:
+
+I. Los problemas que atañen al bien inmueble.
+
+II. Las afectaciones, restricciones o limitaciones que puedan pesar sobre el mismo.
+
+III. La estabilidad estructural del bien inmueble.
+
+IV. La calidad de los materiales usados en la construcción.
+
+V. Las demás que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+7.- El personal administrativo y los auxiliares inmobiliarios no podrán intervenir en el establecimiento de las condiciones de los servicios prestados por los prestadores de servicios inmobiliarios ni en las negociaciones entre los usuarios y prospectos de compradores o arrendatarios sin la presencia de un prestador de servicio inmobiliario.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+8.- Los prestadores de servicios inmobiliarios y los socios y directivos de las empresas inmobiliarias registradas que utilicen los servicios de personal administrativo y de los auxiliares inmobiliarios serán corresponsables en términos de ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+9.- Las empresas inmobiliarias registradas tendrán los derechos y obligaciones contemplados por este Libro y su Reglamento.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+10.- Las empresas inmobiliarias registradas serán corresponsables de los actos que realicen los prestadores de servicios inmobiliarios que trabajen en ellas, en términos de ley.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+11.- Las empresas inmobiliarias registradas deberán notificar al Registro de las altas y bajas de sus prestadores de servicios inmobiliarios dentro de los diez días hábiles posteriores a dicho movimiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+12.- Las asociaciones deberán estar legalmente constituidas y contar con la acreditación de la Secretaría.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+13.- Previa autorización de la Secretaría, las asociaciones podrán fungir como unidades acreditadoras.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+14.- Los integrantes de las asociaciones deberán contar con la certificación de prestador de servicio inmobiliario tratándose de personas físicas, o estar inscritas en el Registro, para el caso de las personas jurídico colectivas.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+15.- Las asociaciones deberán contar con un padrón de sus integrantes actualizado e informar al Registro, de manera trimestral, de sus altas y bajas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO TERCERO. Del registro de prestadores de servicios inmobiliarios
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+16.- Se crea el Registro de Prestadores de Servicios Inmobiliarios del Estado de México, a cargo de la Secretaría, con el objeto de generar y mantener actualizado el padrón de prestadores de servicios inmobiliarios, empresas inmobiliarias registradas y asociaciones.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+17.- Las personas físicas y jurídico colectivas que efectúen operaciones inmobiliarias por cuenta de terceros deberán obtener su inscripción en el Registro, así como las asociaciones que los agrupen.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+18.- Para obtener su inscripción en el Registro, a la solicitud respectiva, se deberán cubrir los siguientes requisitos:
+
+I. Personas físicas:
+
+a) Copia de identificación oficial vigente con fotografía.
+
+b) Comprobante de domicilio.
+
+c) Certificación.
+
+d) Solicitud.
+
+e) Registro Federal de Contribuyentes.
+
+f) Clave Única de Registro de Población.
+
+II. Personas jurídico colectivas:
+
+a) Copia certificada del acta constitutiva.
+
+b) Copia de identificación oficial vigente del representante legal.
+
+c) Copia certificada del poder notarial del representante legal.
+
+d) Comprobante de domicilio y en su caso de las sucursales.
+
+e) Relación de los prestadores de servicios inmobiliarios vinculados a la empresa.
+
+f) Registro Federal de Contribuyentes.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+19.- La inscripción deberá revalidarse de manera trianual, cumpliendo con los requisitos que al efecto se establezcan en el Reglamento.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+20.- El Registro dará acceso al público en general, al padrón que éste mantenga para su consulta tanto por internet como por medios escritos, de manera gratuita.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO CUARTO. De la Secretaría
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+21.- La aplicación e interpretación de este Libro corresponde a la Secretaría que tendrá las atribuciones siguientes:
+
+I. Autorizar la inscripción y la revalidación en el Registro a los prestadores de servicios inmobiliarios, a las empresas inmobiliarias registradas y a las asociaciones.
+
+II. Emitir los lineamientos necesarios para el cumplimiento de este Libro y su Reglamento.
+
+III. Aprobar los programas de capacitación, certificación y actualización para las operaciones inmobiliarias, que someta a su consideración la Comisión.
+
+IV. Impartir o aprobar la impartición de los programas de capacitación para que los asesores inmobiliarios obtengan la certificación, así como facultar a las unidades acreditadoras al efecto.
+
+V. Asentar en el Registro las infracciones que cometan y las sanciones que se impongan a los prestadores de servicios inmobiliarios.
+
+VI. Verificar mediante visitas de inspección y vigilancia el cumplimiento de los requisitos previstos para la inscripción en el Registro a los prestadores de servicios inmobiliarios y las empresas inmobiliarias registradas, así como de sus obligaciones.
+
+VII. Establecer y operar un sistema de información y consulta para usuarios, respecto de los prestadores de servicios inmobiliarios.
+
+VIII. Aplicar las sanciones procedentes a quienes incumplan con las disposiciones previstas en este Libro y su Reglamento.
+
+IX. Realizar el servicio de conciliación, aplicado a resolver conflictos derivados de las operaciones inmobiliarias, cuando así lo soliciten los usuarios o los asesores inmobiliarios y las empresas inmobiliarias registradas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+22.- La Comisión de Operaciones y Servicios Inmobiliarios del Estado de México es un órgano de opinión y consulta, que tiene las atribuciones siguientes:
+
+I. Proponer, para aprobación de la Secretaría, los programas de capacitación y actualización requeridos para que los prestadores de servicios inmobiliarios obtengan la certificación, así como sus revalidaciones.
+
+II. Elaborar, para aprobación de la Secretaría, el Código de Ética de Operaciones y Servicios Inmobiliarios en el Estado de México.
+
+III. Proponer políticas, estrategias y acciones orientadas a la protección de los derechos de los prestadores de servicios inmobiliarios y de las empresas inmobiliarias registradas, así como de los usuarios.
+
+IV. Proponer a la Secretaría, el proyecto de Reglamento del presente Libro.
+
+V. Las demás que establezcan otras disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+23.- La Comisión está integrada por:
+
+I. El Secretario de Desarrollo Económico, quien fungirá como Presidente.
+
+II. El Secretario de Desarrollo Urbano y Metropolitano.
+
+III. El Director General del Instituto de la Función Registral del Estado de México.
+
+IV. El Presidente del Colegio de Notarios del Estado de México.
+
+V. El titular del Registro.
+
+VI. Un representante de las asociaciones de prestadores de servicios inmobiliarios del Estado de México que se encuentre inscrita en el Registro, con voz, pero sin voto.
+
+Los integrantes de la Comisión podrán nombrar un suplente.
+
+Para su funcionamiento, la Comisión contará con un Secretario Técnico, que será designado por el Presidente de la Comisión, el que participará en las sesiones de la Comisión con derecho a voz, pero no a voto.
+
+Los nombramientos de los integrantes de la Comisión, así como el del Secretario Técnico, son de carácter honorífico.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+24.- La Comisión sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que entre ellos se encuentre el Titular de la Presidencia o su suplente.
+
+Sus resoluciones se tomarán por mayoría simple de votos. El Presidente de la Comisión, en caso de empate, tendrá voto de calidad.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+25.- La Comisión sesionará en forma ordinaria de manera trimestral, y en forma extraordinaria cuantas veces sea necesario para su funcionamiento. De cada sesión se levantará acta circunstanciada, que deberá estar firmada al calce por quienes hayan intervenido en la misma.
+
+Cualquier integrante de la Comisión podrá proponer al Presidente que se convoque a sesión extraordinaria.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+26.- Las atribuciones de los integrantes de la Comisión, se desarrollarán en el Reglamento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO QUINTO. De los programas de capacitación y actualización
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+27.- La capacitación para los prestadores de servicios inmobiliarios tendrá por objeto establecer las actividades organizadas y sistematizadas, con la finalidad de que adquieran, desarrollen, completen, perfeccionen y actualicen, sus conocimientos, habilidades y aptitudes para el eficaz desempeño de sus actividades.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+28.- La capacitación y actualización de los prestadores de servicios inmobiliarios debe cubrir con los aspectos técnicos que hagan posible la comprensión y aplicación de al menos, las siguientes materias:
+
+I. Desarrollo urbano.
+
+II. Régimen jurídico del Estado de México relacionado con operaciones inmobiliarias.
+
+III. Trámites administrativos.
+
+IV. Obligaciones legales, fiscales y ambientales relacionadas con las operaciones inmobiliarias.
+
+Las especificaciones, programas, periodicidad, convocatorias y demás características se establecerán en el Reglamento.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO SEXTO. De las visitas de inspección y vigilancia, de las infracciones, sanciones y recursos
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+29.- La Secretaría podrá llevar a cabo visitas de inspección y vigilancia para verificar el cumplimiento de las disposiciones contenidas en el presente Libro y su Reglamento.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+30.- Las visitas de inspección y vigilancia que lleve a cabo la Secretaría se sujetarán a las formalidades previstas por el Código de Procedimientos Administrativos para el Estado de México.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+31.- La Secretaría dictará la resolución correspondiente, la que asentará en el Registro, la notificará al interesado y en su caso, impondrá la sanción que corresponda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+32.- El incumplimiento de las disposiciones de este Libro y su Reglamento por parte de los asesores inmobiliarios, de las empresas inmobiliarias registradas y de las personas que se ostenten como tales sin serlo, dará lugar, previo procedimiento que instaure la Secretaría, a las siguientes sanciones:
+
+I. Amonestación.
+
+II. Apercibimiento.
+
+III. Multa de 100 y hasta 3000 veces el salario mínimo general vigente en el área geográfica en que se haya cometido la infracción.
+
+IV. Suspensión temporal de la certificación de 90 y hasta 360 días naturales.
+
+V. La cancelación de la certificación y de la inscripción en el Registro.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+33.- Las sanciones previstas en este Libro serán aplicables independientemente de la responsabilidad penal, civil y/o mercantil a que haya lugar. En caso de que la conducta pudiera ser constitutiva de un delito, la Secretaría lo hará del conocimiento de las autoridades competentes.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+34.- Los prestadores de servicios inmobiliarios y las empresas inmobiliarias registradas que hayan sido sancionados con la cancelación de la inscripción en el Registro o la revocación de la certificación, no podrán solicitarla de nueva cuenta hasta que transcurra un término de tres años contados a partir de la fecha de la imposición de la sanción respectiva.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+35.- Las infracciones y sanciones se asentarán en el Registro. Tratándose de multas y suspensiones de certificación, ésta información estará al alcance de los interesados en consultar el Registro.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -17892,3 +18332,11 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Todas las personas físicas y jurídicas colectivas que tengan colocada o instalada publicidad exterior en camellones, fajas separadoras, isletas y zona de seguridad deberán retirarla en el término de quince días a partir de la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La Secretaría de Desarrollo Económico, dispondrá lo necesario, para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a ciento veinte días hábiles, a partir de su entrada en vigor.
