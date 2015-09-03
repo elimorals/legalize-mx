@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-vivienda-del-estado-de-mexico-66474"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-22"
-last_updated: "2011-09-01"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # LEY DE VIVIENDA DEL ESTADO DE MEXICO
 
-LEY DE VIVIENDA DEL ESTADO DE MEXICO
+LEY DE VIVIENDA DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERA QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
-
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección de la Gaceta Oficial del Estado de México, el jueves 22 de enero de 2009.
 
@@ -38,6 +36,8 @@ DECRETO NÚMERO 259
 LA H. "LVI" LEGISLATURA DEL ESTADO DE MÉXICO
 
 DECRETA:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TERMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TERMINO PERSONAS CON DISCAPACIDAD.</small>
 
 LEY DE VIVIENDA DEL ESTADO DE MÉXICO
 
@@ -513,7 +513,9 @@ III. Diseñar y ejecutar proyectos de vivienda, así como desarrollar y aplicar 
 
 IV. Fomentar la producción y distribución de materiales para la vivienda de calidad y accesibles a la población.
 
-V. Generar información sobre la oferta y demanda, así como del inventario de vivienda.
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+V. Generar información sobre la oferta y demanda del inventario de vivienda, así como de los derechos que los usuarios de operaciones inmobiliarias tienen, en términos del Libro Décimo Noveno del Código Administrativo del Estado de México.
 
 VI. Impulsar la investigación y formación de especialistas en materia de vivienda.
 
@@ -693,7 +695,7 @@ DR. VICTOR HUMBERTO BENITEZ TREVIÑO
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 1 DE SEPTIEMBRE DE 2011.
 
@@ -704,3 +706,11 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Cuando en otros ordenamientos legales, se haga referencia al término personas con capacidades diferentes, se entenderá que corresponde al término personas con discapacidad.
 
 CUARTO.- El Ejecutivo del Estado hará las modificaciones a los reglamentos, decretos administrativos, acuerdos y demás disposiciones de su competencia, para incorporar a estos el término de discapacitados en sustitución de personas con capacidades diferentes, de acuerdo con el presente Decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- La Secretaría de Desarrollo Económico, dispondrá lo necesario, para dar cumplimiento a lo establecido en el presente Decreto, en un plazo no mayor a ciento veinte días hábiles, a partir de su entrada en vigor.
