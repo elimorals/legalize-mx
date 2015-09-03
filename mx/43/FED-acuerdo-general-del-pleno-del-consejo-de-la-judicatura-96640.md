@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-08-28"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-11-12"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE SEPTIEMBRE DE 2015 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1055,9 +1057,17 @@ XIV. Elaborar los informes sobre la situación contable y financiera que guarde 
 
 XV. Dar seguimiento al cumplimiento de los acuerdos emitidos por el Comité Técnico del Fondo de Apoyo a la Administración de Justicia;
 
-XVI. Formular el Programa Anual de Trabajo del Fondo de Apoyo a la Administración de Justicia; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XVII. Las demás que le señale el Comité Técnico del Fondo de Apoyo a la Administración de Justicia.
+XVI. Formular el Programa Anual de Trabajo del Fondo de Apoyo a la Administración de Justicia;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Las demás que le señale el Comité Técnico del Fondo de Apoyo a la Administración de Justicia.
 
 ###### Artículo 63.
 
@@ -1155,9 +1165,17 @@ Para el control de la facultad delegada, los titulares deberán llevar el regist
 
 XV. Asistir a las sesiones del Pleno y de las Comisiones permanentes a las que sean citados;
 
-XVI. Participar en los comités, Comisiones, representaciones, suplencias y recesos que se determinen; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XVII. Las demás que establezcan el Pleno, y las Comisiones.
+XVI. Participar en los comités, comisiones, representaciones, suplencias y recesos que se determinen;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Definir, revisar y ser responsables de los contenidos e información, que sean de su competencia, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1845,11 +1863,17 @@ IX. En coordinación con las áreas administrativas competentes y los órganos j
 
 X. Diseñar y gestionar la publicación de edictos, cédulas de notificación y otras que requieran los órganos jurisdiccionales que se encuentren en el interior de la República Mexicana, y que soliciten a través de las Administraciones Regionales o Delegaciones Administrativas;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XI. Presentar ante el Pleno el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia con la autorización del Secretario Ejecutivo de Administración; y
+XI. Presentar ante el Pleno el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia con la autorización del Secretario Ejecutivo de Administración;
 
-XII. Las demás que establezcan el Pleno y las Comisiones.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las Administraciones Regionales y Delegaciones Administrativas, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Las demás que establezcan el Pleno y las Comisiones.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1953,9 +1977,17 @@ XIII. Planear, programar, dirigir y evaluar el funcionamiento de las unidades ad
 
 XIV. Proponer o designar, conforme a la normativa aplicable, al personal de la unidad administrativa a su cargo;
 
-XV. Informar a las áreas competentes, con la periodicidad que corresponda, sobre el avance y cumplimento de proyectos y programas a su cargo; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Las demás que le confiera la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
+XV. Informar a las áreas competentes, con la periodicidad que corresponda, sobre el avance y cumplimento de proyectos y programas a su cargo;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las áreas administrativas que le estén adscritas, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Las demás que le confiera la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
 
 ###### Artículo 96.
 
@@ -2013,21 +2045,21 @@ V. Solicitar a los órganos auxiliares y áreas administrativas, la información
 
 VI. Coordinar acciones en materia de implementación de la Reforma Penal en el Poder Judicial de la Federación, con la Suprema Corte de Justicia de la Nación;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Coordinar acciones en materia de implementación de la Reforma Penal en el Poder Judicial de la Federación, con las diversas instancias relacionadas del Poder Ejecutivo y Poder Legislativo Federal, y con las entidades federativas; y
+VII. Coordinar acciones en materia de implementación de la Reforma Penal en el Poder Judicial de la Federación, con las diversas instancias relacionadas del Poder Ejecutivo y Poder Legislativo Federal, y con las entidades federativas;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de los Centros de Justicia Penal Federal, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización;
+VIII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de los Centros de Justicia Penal Federal, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADA [N. DE. E. REFORMADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Aprobar de manera conjunta con la Secretaría Ejecutiva de Administración y la Dirección General de Asuntos Jurídicos, los certificados de necesidad a que se refiere el artículo 296 Bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio; y
+IX. Las demás que le confieran el Pleno y las Comisiones.
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
-X. Las demás que le confieran el Pleno y las Comisiones.
+X. Las demás que le confieran (sic) el Pleno y las Comisiones.
 
 ### CAPÍTULO OCTAVO. DE LOS ÓRGANOS AUXILIARES DEL CONSEJO
 
@@ -2080,6 +2112,12 @@ XIV. Representar al órgano auxiliar a su cargo, en todos los actos su competenc
 XV. Suscribir los documentos relativos al ejercicio de sus atribuciones y, en su caso, expedir copia certificada de aquellos que obren en sus archivos. La facultad de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrá delegar de conformidad con lo previsto en la fracción XIV del artículo 68 de este Acuerdo; y
 
 XVI. Las demás que establezca el Pleno, y las Comisiones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 101 Bis.
+
+Los titulares de los órganos auxiliares deberán definir, revisar y ser responsables de los contenidos e información, que sean de su competencia, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización.
 
 ###### Artículo 102.
 
@@ -2619,11 +2657,17 @@ XVI. Proporcionar información, datos; asesoría o cooperación técnica que les
 
 XVII. Certificar los documentos que obren en los archivos de la Dirección General a su cargo, que sean expedidos en el ejercicio de sus funciones. La atribución de certificar documentos relacionados con la competencia y atribuciones del área a su cargo, la podrán delegar de conformidad con lo previsto en la fracción XIV del artículo 68 de este Acuerdo;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XVIII. Rendir, a través del superior jerárquico, los informes a que estén obligados, los cuales deberán ser firmados por ambos titulares, salvo las direcciones generales dependientes del Presidente, las cuales rendirán los informes respectivos directamente al mismo; y
+XVIII. Rendir, a través del superior jerárquico, los informes a que estén obligados, los cuales deberán ser firmados por ambos titulares, salvo las direcciones generales dependientes del Presidente, las cuales rendirán los informes respectivos directamente al mismo;
 
-XIX. Las demás que establezcan el Pleno, y las Comisiones.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Definir, revisar y ser responsables de los contenidos e información, que sean de su competencia, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 144.
 
@@ -2871,7 +2915,9 @@ VI. Elaborar el anteproyecto de presupuesto anual correspondiente al Plan Estrat
 
 VII. Plantear al Instituto de la Judicatura las necesidades de capacitación en materia de informática que requieran los órganos jurisdiccionales y áreas administrativas, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos;
 
-VIII. Elaborar e implementar las medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Elaborar, determinar e implementar las políticas y medidas de seguridad necesarias para salvaguardar la información contenida en medios electrónicos, incluyendo los portales de Intranet e Internet del Consejo;
 
 IX. Desarrollar estudios técnicos de viabilidad y factibilidad y emitir, en su caso, dictámenes para la adquisición de herramientas de tecnologías de la información y comunicaciones, necesarios para satisfacer los requerimientos de sistematización de los órganos jurisdiccionales y de las áreas administrativas y, así como vigilar y evaluar su manejo y funcionalidad;
 
@@ -2917,9 +2963,19 @@ XXVIII. Administrar, operar y mantener las diferentes bases de datos del Consejo
 
 XXIX. Proporcionar los servicios de mantenimiento a las redes, sistemas, equipo informático, comunicación, videoconferencia, digitalización y control de gestión del Consejo;
 
-XXX. Proporcionar apoyo en el rubro de transparencia y acceso a la información; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XXXI. Las demás que establezcan el Pleno, y las Comisiones.
+XXX. Proporcionar apoyo en el rubro de transparencia y acceso a la información;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXXI. Coadyuvar y, en su caso, coordinarse con las diferentes áreas administrativas para la publicación, gestión y actualización de la información en los portales de Intranet e Internet, de conformidad con las reglas de arquitectura, especificaciones técnicas y lineamientos para la publicación de contenidos que dicha Dirección General determine.
+
+La actualización a que se refiere el párrafo anterior podrán llevarla a cabo las áreas administrativas directamente o con el apoyo de la Dirección General de Tecnologías de la Información; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXXII. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 157.
 
@@ -3051,9 +3107,9 @@ La Dirección General de Comunicación Social será la encargada de formular e i
 
 El Titular de la Dirección General de Comunicación Social tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-I. Proponer a la Comisión de Vigilancia, Información y Evaluación las políticas, normas y procedimientos de imagen institucional, información, difusión y comunicación social del Consejo, y ejecutarlas a fin de promover la imagen y cultura jurisdiccional en la opinión pública;
+I. Proponer a la Comisión de Vigilancia, Información y Evaluación las políticas, normas, lineamientos y procedimientos de identidad institucional, información, difusión y comunicación social del Consejo, y ejecutarlos a fin de promover la imagen y cultura jurisdiccional en la opinión pública;
 
 II. Llevar a cabo las acciones de enlace tendentes a establecer esquemas de coordinación con las áreas de comunicación social de la Suprema Corte de Justicia de la Nación, del Tribunal Electoral del Poder Judicial de la Federación y del propio Consejo, para promover de forma unificada su imagen, como órganos integrantes del poder judicial a nivel federal;
 
@@ -3073,7 +3129,9 @@ IX. Apoyar en la grabación, edición y postproducción de los eventos y activid
 
 X. Organizar, preservar e informar sobre el estado de la videoteca y audioteca del Consejo;
 
-XI. Participar con la Dirección General de Tecnologías de la Información en el diseño y actualización del portal de Internet del Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Participar con la Dirección General de Tecnologías de la Información en el diseño y actualización de los portales de Intranet e Internet del Consejo;
 
 XII. Velar por la transparencia y fidelidad de la información que se proporcione a los medios de comunicación sobre asuntos de los órganos jurisdiccionales y de las áreas administrativas mediante boletines, conferencias y entrevistas de prensa;
 
@@ -3095,9 +3153,17 @@ XIX. Formular, proponer, dirigir y ejecutar el programa de ediciones para difund
 
 XX. Participar en la elaboración de las publicaciones internas que realice el Consejo, tanto en formato impreso como por cualquier otro medio, aun en coordinación con otros órganos de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación, conforme a las políticas de comunicación y difusión que se establezcan;
 
-XXI. Diseñar y gestionar oportunamente la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos, con excepción de lo previsto en el artículo 91, fracción X, de este Acuerdo; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XXII. Las demás que establezca el Pleno y las Comisiones.
+XXI. Diseñar y gestionar oportunamente la publicación de avisos, acuerdos, convocatorias, licitaciones y edictos, entre otros, en el Diario Oficial de la Federación y diversos medios impresos, con excepción de lo previsto en el artículo 91, fracción X, de este Acuerdo;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Vigilar el cumplimiento de los lineamientos de identidad institucional del Consejo, así como coadyuvar y, en su caso, coordinarse con las áreas administrativas, para que éstas se apeguen a los diseños homogéneos para la publicación y actualización de información en los portales de Intranet e Internet; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII. Las demás que establezca el Pleno y las Comisiones.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -3555,9 +3621,17 @@ XVIII. Proponer, coordinar y vigilar en el ámbito de su competencia el programa
 
 XIX. Participar en los comités y grupos de trabajo que el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración determinen;
 
-XX. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XXI. Las demás que establezcan el Pleno y, las Comisiones.
+XX. Informar al superior jerárquico sobre el funcionamiento de la unidad administrativa a su cargo y del avance y logro de objetivos y metas programadas en el ámbito de su competencia;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de las Administraciones de Edificios, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Las demás que establezcan el Pleno y las Comisiones.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -3765,9 +3839,17 @@ IX. Enviar al Secretario Ejecutivo del Pleno los asuntos dictaminados por su Com
 
 X. Dar cuenta al Presidente de la Comisión con los asuntos que se turnen a dicho secretario para su análisis;
 
-XI. Enviar al Presidente, al concluir el periodo de sesiones, un volumen con copias certificadas de todas las actas de las sesiones celebradas por dicha Comisión; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Las demás que establezcan el Pleno y la Comisión.
+XI. Enviar al Presidente, al concluir el periodo de sesiones, un volumen con copias certificadas de todas las actas de las sesiones celebradas por dicha Comisión;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Definir, revisar y ser responsables de los contenidos e información, que sean de su competencia, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Las demás que establezcan el Pleno y la Comisión.
 
 ###### Artículo 187.
 
@@ -5236,3 +5318,9 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Los certificados de necesidad que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite ante la Unidad de Evaluación de Proyectos, deberán ser remitidos por ésta al grupo a que se refiere este Acuerdo para su análisis y, en su caso, aprobación.
+
+D.O.F. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
