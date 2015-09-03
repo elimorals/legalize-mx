@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-08-28"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -8897,9 +8897,11 @@ Son considerados como fideicomisos públicos en los términos de lo dispuesto po
 
 La autorización de la creación o aportación a los fideicomisos será atribución indelegable del Pleno. Estos estarán sujetos a las obligaciones que establece este Título.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 772 DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 772.
 
-El Consejo deberá publicar en el Diario Oficial de la Federación, dentro de los quince días siguientes al término del trimestre, los ingresos del periodo, incluyendo los rendimientos financieros; egresos; destino y saldo de los fideicomisos en los que participe, en los términos de las disposiciones aplicables.
+El Consejo deberá publicar en el Diario Oficial de la Federación, dentro del mes siguiente al término del trimestre, los ingresos del periodo, incluyendo los rendimientos financieros; egresos; destino y saldo de los fideicomisos en los que participe, en los términos de las disposiciones aplicables.
 
 La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría de Hacienda para efectos de la integración de los informes trimestrales, a más tardar diez días hábiles antes de la fecha de entrega del informe trimestral correspondiente. Asimismo, deberán reportar a la Auditoría el ejercicio de los recursos públicos aportados a dichos fideicomisos para efectos de la Cuenta Pública.
 
@@ -11436,3 +11438,9 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Los certificados de necesidad que a la fecha de entrada en vigor de este Acuerdo se encuentren en trámite ante la Unidad de Evaluación de Proyectos, deberán ser remitidos por ésta al grupo a que se refiere este Acuerdo para su análisis y, en su caso, aprobación.
+
+D.O.F. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de internet del Consejo de la Judicatura Federal.
