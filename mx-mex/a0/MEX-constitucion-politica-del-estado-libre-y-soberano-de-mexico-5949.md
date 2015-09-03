@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2015-07-14"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE SEPTIEMBRE DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -129,6 +131,14 @@ El Estado garantizará a todas las personas el acceso a la ciencia y a la tecnol
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+En el Estado de México toda persona tiene derecho a la libertad de convicciones éticas, de conciencia y de religión, y a tener o adoptar, en su caso, la de su agrado, conforme a lo establecido en el Artículo 24 de la Constitución Federal.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+La Legislatura del Estado en ningún momento podrá dictar leyes que establezcan o prohíban religión alguna.
+
 > <small>(REFORMADO, G.G. 24 DE JULIO DE 2008)</small>
 
 El derecho a la información será garantizado por el Estado. La ley establecerá las previsiones que permitan asegurar la protección, el respeto y la difusión de este derecho.
@@ -155,7 +165,7 @@ III. Toda persona, sin necesidad de acreditar interés alguno o justificar su ut
 
 > <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
-IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que sé sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
+IV. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución.
 
 > <small>(REFORMADA, G.G. 8 DE JUNIO DE 2015)</small>
 
@@ -191,7 +201,7 @@ El organismo autónomo garante se integra por cinco comisionados. Para su nombra
 
 En caso de que el Gobernador objetara el nombramiento, la Legislatura hará un nuevo nombramiento, en los términos del párrafo anterior, pero con una votación de las tres quintas partes de los miembros presentes. Si este segundo nombramiento fuera objetado, la Legislatura, en los términos del párrafo anterior, con la votación de las tres quintas partes de los miembros presentes, designará al comisionado que ocupará la vacante.
 
-Los comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones l, ll, V y VI del artículo 91 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Séptimo de esta Constitución y serán sujetos de juicio político.
+Los comisionados durarán en su encargo siete años y deberán cumplir con los requisitos previstos en las fracciones I, II, V y VI del artículo 91 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, sólo podrán ser removidos de su cargo en los términos del Título Séptimo de esta Constitución y serán sujetos de juicio político.
 
 En la conformación del organismo autónomo garante se procurará la equidad de género.
 
@@ -201,7 +211,7 @@ El organismo autónomo garante tendrá un Consejo Consultivo, integrado por cinc
 
 La ley establecerá las medidas de apremio que podrá imponer el organismo autónomo garante, para asegurar el cumplimiento de sus decisiones.
 
-Toda autoridad y servidor público estará obligado a coadyuvar con al organismo autónomo garante y sus integrantes para el buen desempeño de sus funciones.
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo autónomo garante y sus integrantes para el buen desempeño de sus funciones.
 
 El organismo autónomo garante coordinará sus acciones con el Órgano Superior de Fiscalización del Estado de México, con la entidad especializada en materia de archivos y con el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México, así como los organismos garantes federal, de las entidades federativas y del Distrito Federal, con el objeto de fortalecer la rendición de cuentas del Estado de México.
 
@@ -225,23 +235,19 @@ En el Estado de México se fomentará a sus habitantes el cuidado de su salud, p
 
 En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 438, SE ADICIONA EL PRESENTE PÁRRAFO VIGÉSIMO PRIMERO, VÉASE SECCIÓN QUINTA EN LA PÁGINA 1</small>
-
-> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
-
-Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 438, SE ADICIONA EL PRESENTE PÁRRAFO VIGÉSIMO SEGUNDO, VÉASE SECCIÓN QUINTA EN LA PÁGINA 1</small>
-
-> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
-
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
-
 > <small>(ADICIONADO, G.G. 19 DE ENERO DE 2015)</small>
 
 Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de este derecho. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
-> <small>(ADICIONADO, G.G. 8 DE JUNIO DE 2015)</small>
+(ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
+(ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
+
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+
+(ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
 
 El Estado garantizará a toda persona el derecho a la movilidad universal, atendiendo a los principios de igualdad, accesibilidad, disponibilidad, sustentabilidad y progresividad.
 
@@ -1045,7 +1051,9 @@ El Gobernador del Estado, podrá formular observaciones a las leyes o decretos q
 
 La nueva votación de la Legislatura deberá realizarse durante el mismo período en que se reciban las observaciones. Si concluye el período ordinario, la Diputación Permanente convocará a período extraordinario de sesiones.
 
-Para la aprobación de las observaciones enviadas serán necesarios los votos de al menos las dos terceras partes del total de sus integrantes.
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+Para la aprobación de las observaciones enviadas serán necesarios los votos de al menos las dos terceras partes de los diputados presentes.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -1117,9 +1125,9 @@ Para los efectos de esta fracción, se consideran temporales las ausencias que e
 
 XVIII. Conocer y resolver de las solicitudes de destitución de los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia en términos de la presente Constitución;
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XIX. Recibir el aviso del Ejecutivo del Estado, cuando salga al extranjero en misiones oficiales;
+XIX. Recibir el aviso del Ejecutivo del Estado y de los presidentes municipales, cuando salgan al extranjero en misiones oficiales.
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
@@ -1333,9 +1341,9 @@ III. Recibir la protesta de los servidores públicos que deban rendirla ante la 
 
 IV. Resolver sobre las renuncias, licencias o permisos que competan a la Legislatura;
 
-> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-V. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero en misiones oficiales;
+V. Recibir el aviso del Ejecutivo del Estado y de los presidentes municipales, cuando salgan al extranjero en misiones oficiales.
 
 VI. Dictaminar sobre todos los asuntos que queden pendientes de resolución en los recesos, a fin de que continúen sus trámites al abrirse los períodos de sesiones; y
 
@@ -1477,7 +1485,7 @@ III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatu
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
-IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura;
+IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura.
 
 V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;
 
@@ -2329,9 +2337,13 @@ XI. Realizar acciones tendientes al desarrollo institucional del Ayuntamiento e 
 
 XII. Expedir los acuerdos necesarios para el cumplimiento de las determinaciones del ayuntamiento;
 
-> <small>(ADICIONADA, G.G. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Las demás que le señale la presente Constitución, la Ley Orgánica respectiva y otros ordenamientos legales.
+XIII. Comunicar por escrito, con anticipación a su salida, a la Legislatura o a la Diputación Permanente y al cabildo, los propósitos y objetivos del viaje e informar de las acciones realizadas dentro de los diez días siguientes a su regreso.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Las demás que le señale la presente Constitución, la Ley Orgánica respectiva y otros ordenamientos legales.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2555,11 +2567,13 @@ V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar
 
 ### CAPITULO PRIMERO. De las Reformas a la Constitución
 
-> <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 148.
 
-La presente Constitución puede ser adicionada y reformada. Para que las adiciones o reformas lleguen a ser parte de ella se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de los diputados que la integran, acuerde tales reformas y adiciones y que éstas sean aprobadas por la mitad más uno de los ayuntamientos. La Legislatura o la Diputación Permanente, en su caso, harán el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de ella, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de los diputados presentes, acuerde tales reformas o adiciones y que estas sean aprobadas por la mayoría de los ayuntamientos. La Legislatura o la Diputación Permanente, en su caso, hará el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
+
+La convocatoria que haga la Presidencia de la Legislatura o la Diputación Permanente, para la reforma o adición constitucional, será emitida cuando menos con siete días previos a la sesión deliberante, donde se discutirá, para la cual no procederá dispensa de trámite.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -4028,6 +4042,42 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de menor jerarquía que se opongan al presente decreto.
 
 G.G. 14 DE JULIO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 508, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno” del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 509, POR EL QUE SE REFORMA EL ARTÍCULO 148 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 510, POR EL QUE SE REFORMAN LOS ARTÍCULOS 61, FRACCIÓN XIX, 64, FRACCIÓN V Y 128, FRACCIÓN XIII, Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO. 513, POR EL QUE SE ADICIONAN LOS PÁRRAFOS DÉCIMO QUINTO Y DÉCIMO SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES, DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
