@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2015-07-14"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1036,6 +1036,18 @@ Los asuntos serán turnados a la comisión que le corresponda en razón del tema
 ###### Artículo 74.
 
 La dispensa de trámites a que se refiere la Constitución y la ley, será solicitada por conducto del presidente o de cualquier miembro de la Legislatura y procederá sólo respecto a los trámites que fueren acordados por ésta.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 74 Bis.
+
+Las iniciativas de Ley, Decreto o de Acuerdo que hayan sido presentadas en una Legislatura, quedarán a disposición de la siguiente sólo en los siguientes casos:
+
+I. Cuando un dictamen haya sido aprobado por la comisión o comisiones correspondientes, sin que hubiera sido sometido al Pleno de la Legislatura o Diputación Permanente.
+
+II. Cuando por mandato constitucional o legal deba expedirse la ley o decreto en un plazo determinado;
+
+III. Por acuerdo de la Junta de Coordinación Política.
 
 ### CAPITULO VII. DE LOS DICTAMENES
 
@@ -5524,6 +5536,14 @@ PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las iniciativas de Ley, Decreto o de Acuerdo pendientes de resolución de la Legislatura "LVIII” y anteriores se tendrán por precluidas, ello, no será impedimento para que puedan volver a presentarse como nuevas iniciativas.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 174 Y SE ADICIONA EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
 
