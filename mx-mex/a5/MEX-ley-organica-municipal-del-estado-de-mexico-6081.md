@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-08-24"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1185,9 +1185,13 @@ XVII. Promover el desarrollo institucional del Ayuntamiento, entendido como el c
 
 XVIII. Promover el patriotismo, la conciencia cívica, las identidades nacional, estatal y municipal y el aprecio a los más altos valores de la República, el Estado, y el Municipio, con la celebración de eventos, ceremonias y en general todas las actividades colectivas que contribuyan a estos propósitos, en especial el puntual cumplimiento del calendario cívico oficial;
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-XIX. Las demás que le confieran esta Ley y otros ordenamientos.
+XIX. Comunicar por escrito, con anticipación a su salida al extranjero, a la Legislatura o a la Diputación Permanente y al cabildo, los propósitos y objetivos del viaje e informar de las acciones realizadas dentro de los diez días siguientes a su regreso.
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Las demás que le confieran esta Ley y otros ordenamientos.
 
 ###### Artículo 49.
 
@@ -4296,3 +4300,11 @@ DECRETO NÚMERO 499 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XX
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
