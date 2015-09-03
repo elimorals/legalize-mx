@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2013-09-24"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -401,7 +401,9 @@ II.- Integrar el escalafón de los servidores públicos de conformidad con este 
 
 III.- Cumplir los laudos ejecutoriados en los términos en que sean dictados por el Tribunal de Arbitraje;
 
-IV.- Cubrir las aportaciones que le fije la Ley de la Unidad de Previsión y Seguridad Social del Estado de Tamaulipas y prestar los servicios médicos de conformidad con la misma, incluyéndose a los trabajadores pensionados y jubilados;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
+
+IV.- Cubrir las aportaciones que le fije la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas y prestar los servicios médicos de conformidad con la misma, incluyéndose a los trabajadores pensionados y jubilados;
 
 V.- Cubrir las primas de seguros para el caso de defunción de sus trabajadores;
 
@@ -413,7 +415,9 @@ VIII.- Cumplir con todas las medidas de higiene y de prevención de accidentes d
 
 IX.- Integrar los expedientes de los trabajadores y remitir los informes que le sean solicitados para el trámite de las prestaciones sociales;
 
-X.- Proceder al trámite de las pensiones o jubilaciones en los términos de la presente ley;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
+
+X.- Garantizar a todos los servidores públicos del Estado su derecho a pensionarse o jubilarse, procediendo al trámite de las pensiones o jubilaciones en los términos de ley. En los casos de aquellos trabajadores que cumplan con los años de servicio para jubilarse o pensionarse pero que por la naturaleza de su contratación no se hayan realizado el total de las aportaciones por el patrón, éste convendrá con el Instituto de Previsión y Seguridad Social del Estado de Tamaulipas o con el trabajador en lo particular, el pago complementario de su pensión o jubilación, a fin de que se le entregue el porcentaje correspondiente por los años laborados.
 
 XI.- Proporcionar capacitación a sus trabajadores de acuerdo a los programas que se establezcan, dentro de los horarios del trabajo, salvo que atendiendo a la naturaleza de los servicios se convenga que podrá impartirse de otra manera;
 
@@ -573,9 +577,11 @@ En el supuesto de que por causa justificada no se efectúe la notificación refe
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 40.
 
-Los riesgos profesionales que sufran los trabajadores al servicio del Estado, se regirán por las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley de la Unidad de Previsión y Seguridad Social del Estado o de la Ley de Salud para el Estado, según el caso.
+Los riesgos profesionales que sufran los trabajadores al servicio del Estado, se regirán por las disposiciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas o de la Ley de Salud para el Estado, según el caso.
 
 Los riesgos profesionales que sufran los trabajadores al servicio del Estado, como consecuencia de laborar en forma continua bajo condiciones inseguras y agentes peligrosos en el área física en la que prestan sus servicios, se regirán de conformidad con el Reglamento de las Condiciones Generales de Trabajo.
 
@@ -1193,7 +1199,7 @@ En el ofrecimiento de la confesional y testimonial de altos funcionarios públic
 
 Cualquier incidente que se suscite con motivo de la personalidad de las partes, de su representante, de la competencia del Tribunal, del interés de terceros, sobre la nulidad de actuaciones y de otros motivos análogos, será resuelto de plano al admitirse las pruebas en que se funden las pretensiones. Si de la demanda o durante la secuela del procedimiento resultare a juicio del Tribunal su incompetencia lo declarará de oficio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 111.
 
@@ -1353,7 +1359,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE -"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. TOMAS YARRINGTON RUVALCABA.- Rubrica.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRÍGUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 11 DE MAYO DE 2006.
 
@@ -1444,3 +1450,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
+
+P.O. 3 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado deberá considerar las medidas presupuestales inherentes al objeto del presente Decreto para el ejercicio fiscal 2016.
