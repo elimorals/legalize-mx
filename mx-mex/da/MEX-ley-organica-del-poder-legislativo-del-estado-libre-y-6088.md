@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2015-08-26"
+last_updated: "2015-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -624,10 +624,6 @@ b) Nombre del diputado que haya sido acreditado por la dirigencia de su partido 
 9.- El presupuesto anual de los grupos parlamentarios se incorporará a la cuenta pública del Poder Legislativo, para su acreditación administrativa. De dicho documento se remitirá un ejemplar a la Contraloría del Poder Legislativo y al Órgano Superior de Fiscalización.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DEL 2003)</small>
-
-Artículo 67 BIS-10.- Los diputados que no se inscriban o dejen de pertenecer a un Grupo Parlamentario sin integrarse a otro existente, serán considerados como diputados sin partido.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DEL 2003)</small>
 
 ###### Artículo 67 Bis
 
@@ -1299,15 +1295,19 @@ Tratándose de asuntos calificados como urgentes o de obvia resolución, la Legi
 
 ###### Artículo 84.
 
-La Comisión o Comisiones a las que sean remitidas las iniciativas o asuntos presentados a la Legislatura, harán llegar su dictamen al Presidente dentro de los treinta días hábiles siguientes de haberlas recibido, para el efecto de su presentación a la Asamblea; si esto no fuere posible, deberán solicitar a la Presidencia una prórroga que les será concedida hasta por igual término y por una sola vez, salvo que por acuerdo de la Asamblea se les conceda un plazo mayor. Si en el plazo señalado no presentan el dictamen, el Presidente nombrará una comisión especial para que dictamine en el término improrrogable de 10 días. Cuando las leyes establezcan plazos, las Comisiones se sujetarán a ellos.
+La comisión o comisiones a las que sean remitidas las iniciativas o asuntos presentados a la Legislatura, harán llegar su dictamen al Presidente dentro de los treinta días hábiles siguientes de haberlas recibido, para el efecto de su presentación a la Asamblea; si esto no fuere posible, deberán solicitar a la Presidencia una prórroga que les será concedida hasta por igual término y por una sola vez, salvo que por acuerdo de la Asamblea se les conceda un plazo mayor. Si en el plazo señalado no presentan el dictamen, el Presidente nombrará una comisión especial para que dictamine en el término improrrogable de 10 días. Cuando las leyes establezcan plazos, las comisiones se sujetarán a ellos.
 
 > <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
 
 Las comisiones darán participación a las autoridades a quienes la Constitución otorga el derecho de iniciativa, o a los representantes que éstas designen para tal fin, en el análisis de las iniciativas que hubieren presentado o de las que estén relacionadas con su ámbito competencial, en los términos del reglamento.
 
-> <small>(ADICIONADO, G.G. 10 DE AGOSTO DE 2012)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
 
-Los dictámenes que las comisiones emitan sobre asuntos que no llegue a resolver el Pleno de una Legislatura y las iniciativas que por cualquier motivo no se dictaminen, quedarán a disposición de la siguiente Legislatura para que determine lo procedente.
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 84 Bis.
+
+Al finalizar cada año del ejercicio constitucional de la legislatura, precluirán todos los asuntos pendientes de dictamen, pudiendo volverse a presentar como nuevas iniciativas.
 
 ###### Artículo 85.
 
@@ -2068,3 +2068,11 @@ G.G. 26 DE AGOSTO DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno"
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Las iniciativas de Ley, Decreto o de Acuerdo pendientes de resolución de la Legislatura “LVIII” y anteriores se tendrán por precluidas, ello, no será impedimento para que puedan volver a presentarse como nuevas iniciativas.
