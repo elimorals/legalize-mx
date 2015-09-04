@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-para-adolescentes-del-estado-de-coahuila-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-01"
-last_updated: "2014-03-18"
+last_updated: "2015-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 1 de septiembre de 2006.
 
@@ -121,9 +121,11 @@ DERECHOS Y GARANTÍAS. Los adolescentes gozarán de los derechos y garantías fu
 
 NATURALEZA DE LOS DERECHOS Y GARANTÍAS. Los derechos y garantías de los adolescentes sujetos de esta Ley son irrenunciables y tienen carácter enunciativo y no limitativo.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-GARANTÍAS BÁSICAS Y ESPECIALES. Desde el inicio de la investigación y durante la tramitación del proceso judicial, a los adolescentes les serán respetadas las garantías procesales básicas para el juzgamiento de adultos; además, las que les correspondan por su condición especial. Se considerarán fundamentales las garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos internacionales ratificados por México, en la Constitución Política del Estado de Coahuila, en la Ley Federal para la Protección de los Derechos de Niñas, Niños y Adolescentes y en las demás leyes relacionadas con la materia objeto de éste ordenamiento.
+GARANTÍAS BÁSICAS Y ESPECIALES. Desde el inicio de la investigación y durante la tramitación del proceso judicial, a los adolescentes les serán respetadas las garantías procesales básicas para el juzgamiento de adultos; además, las que les correspondan por su condición especial. Se considerarán fundamentales las garantías consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los instrumentos internacionales ratificados por México, en la Constitución Política del Estado de Coahuila, en la Ley Federal para la Protección de los Derechos de Niñas, Niños y Adolescentes, en la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niñas, Niños (sic) del Estado de Coahuila de Zaragoza y en las demás leyes relacionadas con la materia objeto de éste ordenamiento.
 
 ###### ARTÍCULO 13.
 
@@ -187,9 +189,11 @@ PRINCIPIO DE RACIONALIDAD Y PROPORCIONALIDAD. Las medidas que se impongan dentro
 
 PRINCIPIO DE DETERMINACIÓN DE LAS MEDIDAS. No podrán imponerse, por ningún tipo de circunstancia medidas indeterminadas. Lo anterior no excluye la posibilidad de que el adolescente sea puesto en libertad antes de tiempo.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 28.
 
-INTERNAMIENTO EN CENTROS EXCLUSIVOS O ÁREAS ESPECIALIZADAS. En caso de ser privados de la libertad, de manera provisional o definitiva los adolescentes serán ubicados en un centro exclusivo para ellos o, en su caso, en las áreas especializadas de los centros de readaptación social cuando cumplan dieciocho años de edad. De ser detenidos por las fuerzas de seguridad pública, éstas destinarán áreas exclusivas para los adolescentes y deberán remitirlos cuanto antes a los centros especializados.
+INTERNAMIENTO EN CENTROS EXCLUSIVOS O ÁREAS ESPECIALIZADAS. En caso de ser privados de la libertad, de manera provisional o definitiva los adolescentes serán ubicados en un centro exclusivo para ellos o, en su caso, en las áreas especializadas de los centros de readaptación social cuando cumplan dieciocho años de edad, donde continuarán con su tratamiento en los términos del artículo 172 de la presente. De ser detenidos por las fuerzas de seguridad pública, éstas destinarán áreas exclusivas para los adolescentes y deberán remitirlos cuanto antes a los centros especializados.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES EN MATERIA DE ADOLESCENTES
 
@@ -233,11 +237,11 @@ La competencia de las autoridades en materia de adolescentes cuya conducta esté
 
 #### SECCIÓN PRIMERA. DEL MINISTERIO PÚBLICO ESPECIALIZADO EN MATERIA DE ADOLESCENTES
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 32.
 
-AGENTES DEL MINISTERIO PÚBLICO ESPECIALIZADOS. Los Agentes del Ministerio Público Especializados de la Fiscalía General del Estado, además de los requisitos previstos por la Ley Orgánica de la Fiscalía General del Estado y de la Ley de Procuración de Justicia del Estado, deberán contar con conocimientos sobre el estudio, prevención y tratamiento de la conducta de los adolescentes.
+AGENTES DEL MINISTERIO PÚBLICO ESPECIALIZADOS. Los Agentes del Ministerio Público Especializados de la Procuraduría General de Justicia del Estado, además de los requisitos previstos por la Ley Orgánica de la Procuraduría General de Justicia del Estado y de la Ley de Procuración de Justicia del Estado, deberán contar con conocimientos sobre el estudio, prevención y tratamiento de la conducta de los adolescentes, de conformidad con los instrumentos de capacitación que determine la Dirección General del Centro de Profesionalización, Acreditación, Certificación y Carrera de la Procuraduría General de Justicia del Estado
 
 ###### ARTÍCULO 33.
 
@@ -289,9 +293,11 @@ XVII. Las demás que le encomiende esta ley, el Código de Procedimientos Penale
 
 #### SECCIÓN SEGUNDA. DE LOS JUZGADOS DE PRIMERA INSTANCIA ESPECIALIZADOS EN MATERIA DE ADOLESCENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 35.
 
-ÓRGANOS JUDICIALES COMPETENTES. Los Jueces competentes para conocer y decidir en primera instancia sobre los hechos ilícitos cometidos por adolescentes, así como para hacer ejecutar sus resoluciones, serán designados conforme lo dispuesto en la Ley Orgánica del Poder Judicial y tendrán los derechos y obligaciones que en ella se establecen, debiendo acreditar, además de los requisitos previstos en la misma, conocimientos sobre el estudio, prevención y tratamiento de la conducta de los adolescentes.
+ÓRGANOS JUDICIALES COMPETENTES. Los Jueces competentes para conocer y decidir en primera instancia sobre los hechos ilícitos cometidos por adolescentes, así como para hace ejecutar sus resoluciones, serán designados conforme lo dispuesto en la Ley Orgánica del Poder Judicial y tendrán los derechos y obligaciones que en ella se establecen, debiendo acreditar, además de los requisitos previstos en la misma, conocimientos sobre el estudio, prevención y tratamiento de la conducta de los adolescentes de conformidad a los instrumentos de evaluación que determine el Poder Judicial del Estado.
 
 Los Secretarios, Actuarios y demás empleados que integren los Juzgados de Primera Instancia, tendrán las atribuciones y obligaciones que les confiere la Ley Orgánica del Poder Judicial del Estado.
 
@@ -1565,7 +1571,9 @@ TRATAMIENTO DE INTERNACIÓN DEFINITIVA. El tratamiento de internación consiste 
 
 El tratamiento de internación se impondrá considerando entre una tercera parte del mínimo y del máximo de la pena que corresponda al tipo penal que haya actualizado el adolescente de acuerdo con las sanciones que determina el Código Penal para el Estado de Coahuila de Zaragoza. Tratándose de los delitos de terrorismo, homicidio calificado, parricidio, matricidio, filicidio, uxoricidio, fratricidio, secuestro, violación equiparada, violación agravada, violación por instrumento distinto al natural y robo especialmente agravado, se impondrá entre las dos terceras partes del mínimo y del máximo de la pena que para estos delitos determina el Código en cita. Sin embargo, dicho internamiento en ningún caso podrá exceder de quince años.
 
-Las personas que se encuentren en tratamiento dentro de los Centros de Internación, al alcanzar los dieciocho años de edad serán trasladadas al Centro de Readaptación Social que corresponda, a efecto de que en un área especial de dicho Centro continúe con el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+Las personas que se encuentren en tratamiento dentro de los Centros de Internación, al alcanzar los dieciocho años de edad serán trasladadas al Centro de Readaptación Social que corresponda, a efecto de que en un área especial de dicho Centro exclusiva para adolescentes sujetos a internación que han alcanzado la mayoría de edad, continúen con el tratamiento respectivo, bajo la supervisión y seguimiento de las autoridades competentes.
 
 Al imponerse el tratamiento de internación, se computará como parte del cumplimiento del mismo, el tiempo de internación provisional que se le haya aplicado al adolescente.
 
@@ -2054,3 +2062,7 @@ P.O. 18 DE MARZO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
