@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-general-de-gobierno-73165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2012-02-29"
+last_updated: "2015-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 10 de febrero del 2010.
 
@@ -65,7 +65,9 @@ II. Secretario: El Titular de la Secretaría General de Gobierno;
 
 III. Titular del Poder Ejecutivo: El Gobernador del Estado;
 
-IV. Unidades Administrativas: Las Subsecretarías, Coordinaciones, Direcciones Generales, Direcciones y Unidades mencionadas en el Artículo 5 del presente reglamento, incluyendo el órgano desconcentrado de la Secretaría.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+IV.- Unidades Administrativas: Las Subsecretarías, Coordinaciones, Direcciones Generales, Direcciones y demás Unidades mencionadas en el Artículo 5 del presente Reglamento.
 
 ### Capítulo II. De la estructura orgánica de la Secretaría
 
@@ -97,19 +99,29 @@ c) Coordinación General de Comunicación Social, integrada por:
 
 2. Dirección de Televisión Estatal y Radio Nuevo León;
 
-3. Dirección de Operaciones, y
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+3. Dirección de Operaciones;
 
 4. Dirección de Planeación y Análisis;
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-d) Secretario Ejecutivo del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado, que contará con las siguientes unidades administrativas:
+5. Dirección de Relaciones Institucionales; y
 
-1. Dirección General de Planeación Estratégica;
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-2. Dirección de Relaciones Institucionales;
+6. Dirección de Estrategia y Comunicación en Nuevos Medios.
 
-3. Dirección de Información y Vocería, y
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+d) Secretario Ejecutivo del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado, que contará con la siguiente unidad administrativa:
+
+1.- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+2.- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+3.- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 4. Coordinación Ejecutiva del Fondo de Aportaciones para la Seguridad Pública.
 
@@ -141,7 +153,7 @@ IV. Subsecretaría de Asuntos Jurídicos y Atención Ciudadana, integrada por:
 
 4. Dirección de Asuntos Religiosos;
 
-5. Dirección General del Registro Público de la Propiedad y del Comercio;
+5. (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 6. Coordinación de Asuntos Jurídicos, integrada por:
 
@@ -157,15 +169,19 @@ e. Unidad del Periódico Oficial del Estado.
 
 V. Dirección de Protección Civil.
 
-VI. Órgano administrativo desconcentrado denominado Coordinación de Desarrollo y Fortalecimiento Municipal, integrada por:
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-1. Dirección de Desarrollo Municipal Zona Norte;
+VI. Órganos administrativos desconcentrados:
 
-2. Dirección de Desarrollo Municipal Zona Periférica;
+a. Coordinación de Desarrollo y Fortalecimiento Municipal;
 
-3. Dirección de Desarrollo Municipal Zona Metropolitana; y
+b. Centro de Atención a Migrantes del Estado de Nuevo León;
 
-4. Dirección de Desarrollo Municipal Zona Sur.
+c. Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal (SIJUPE);
+
+d. Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza (CISEC); y
+
+e. Comisión Ejecutiva Estatal para la Atención a Víctimas.
 
 ###### Artículo 6.
 
@@ -213,15 +229,29 @@ IX. Expedir los nombramientos que correspondan, previo acuerdo del Titular del P
 
 X. Resolver las dudas que se susciten internamente sobre el ejercicio de las competencias que fija este reglamento;
 
-XI. Proponer al Titular del Poder Ejecutivo la creación de unidades administrativas de nivel Dirección o superior, dentro de la Secretaría; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Las que expresamente le confiera con carácter de indelegable el Titular del Poder Ejecutivo o cualquier ordenamiento legal.
+XI. Proponer al Titular del Poder Ejecutivo la creación de unidades administrativas de nivel Dirección o superior, dentro de la Secretaría;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Coordinar a las dependencias y entidades que le estén sectorizadas;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Nombrar a los depositarios de información, en los casos en los que no se haya nombrado al titular o encargado de la unidad administrativa correspondiente; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Las que expresamente le confiera con carácter de indelegable el Titular del Poder Ejecutivo o cualquier ordenamiento legal.
 
 ### Capítulo IV. De las atribuciones comunes de los titulares de las Unidades Administrativas dependientes del Secretario
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
-Corresponde a los titulares de las Subsecretarías, Dirección General Administrativa, Coordinación General de Comunicación Social, Dirección de Protección Civil, Coordinación de Fortalecimiento y Desarrollo Municipal, además de las que específicamente se señalen en el presente ordenamiento y demás leyes, reglamentos y disposiciones de carácter general, las siguientes atribuciones comunes:
+Corresponde a los titulares de las Subsecretarías, Dirección General Administrativa, Coordinación General de Comunicación Social, Dirección de Protección Civil y de los Órganos Administrativos Desconcentrados a que se refiere el Capítulo VIII de este reglamento, además de las que específicamente se señalen en el presente ordenamiento y demás leyes, reglamentos y disposiciones de carácter general, las siguientes atribuciones comunes:
 
 I. Acordar con el Secretario el despacho de los asuntos de su competencia;
 
@@ -255,15 +285,25 @@ XV. Dictar medidas para el mejor funcionamiento de las unidades administrativas 
 
 XVI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean señalados por delegación o que le correspondan por suplencia;
 
-XVII. Participar en el ámbito de su competencia y previo acuerdo del Secretario, en comisiones, juntas, consejos y comités y desempeñar las funciones que el Secretario le delegue o encomiende, manteniéndolo informado sobre el desarrollo de sus actividades; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XVIII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
+XVII. Participar en el ámbito de su competencia y previo acuerdo del Secretario, en comisiones, juntas, consejos y comités y desempeñar las funciones que el Secretario le delegue o encomiende, manteniéndolo informado sobre el desarrollo de sus actividades;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Certificar las copias de documentos originales que obren en sus archivos y que se relacionen con el ejercicio de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ### Capítulo V. De las atribuciones comunes de las Direcciones dependientes de los titulares de las Unidades Administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 13.
 
-Además de las que específicamente se señalen en el presente reglamento, demás leyes, reglamentos y disposiciones de carácter general, corresponde a los titulares de las Direcciones y/o Coordinaciones adscritas a las Subsecretarías, a la Dirección General Administrativa, a la Coordinación General de Comunicación Social y a la Coordinación de Desarrollo y Fortalecimiento Municipal, las siguientes atribuciones comunes:
+Además de las que específicamente se señalen en el presente reglamento, demás leyes, reglamentos y disposiciones de carácter general, corresponde a los titulares de las Direcciones y/o Coordinaciones adscritas a las Subsecretarías, a la Dirección General Administrativa y a la Coordinación General de Comunicación Social, las siguientes atribuciones comunes:
 
 I. Informar y acordar con el superior jerárquico, el despacho de los asuntos de su competencia;
 
@@ -289,9 +329,17 @@ XI. Participar en el ámbito de su competencia y previo acuerdo con el superior 
 
 XII. Suplir, previa designación, las ausencias del superior jerárquico, encargándose del despacho y resolución de los asuntos correspondientes;
 
-XIII. Ejecutar las funciones que le asigne su superior jerárquico; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Las demás facultades que le confieran las disposiciones jurídicas aplicables, el Secretario y/o el Titular del área a la que se encuentre adscrita.
+XIII. Ejecutar las funciones que le asigne su superior jerárquico;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Certificar las copias de documentos originales que obren en sus archivos y que se relacionen con el ejercicio de sus atribuciones; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Las demás facultades que le confieran las disposiciones jurídicas aplicables, el Secretario y/o Titular del área a la que se encuentre adscrita.
 
 ### Capítulo VI. De las Unidades Administrativas adscritas a la Oficina del Secretario
 
@@ -341,15 +389,15 @@ XIX. Coordinar el intercambio de información para la actualización del banco d
 
 XX. Supervisar el apoyo en la difusión y promoción de los programas y proyectos del Gobierno del Estado, a través del servicio de Informatel y Locatel, con el fin de mantener informada a la población;
 
-XXI. Apoyar, en el ámbito de su competencia las acciones del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
+XXI. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-XXII. Validar y en su caso, gestionar con base en los Acuerdos del Consejo Nacional de Seguridad Pública y en los Convenios que en el Marco del Sistema Nacional de Seguridad Pública anualmente se suscriban y, los Anexos Técnicos de éstos, las erogaciones para sufragar los costos de los programas de seguridad pública;
+XXII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-XXIII. Solicitar a la Secretaría de Finanzas y Tesorería General del Estado la ministración de los recursos aportados por el Gobierno Federal correspondientes al "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal" (FASP), así como los correspondientes recursos estatales que se pacten en los convenios que en dicha materia anualmente se suscriben, para su aplicación en la realización de las acciones que en materia de seguridad pública se encuentran previstas en la referida Ley de Coordinación Fiscal y en los convenios que de ella emanen;
+XXIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-XXIV. Administrar y mantener actualizada la información requerida por el Sistema Nacional de Seguridad Pública; y colaborar con la Secretaría de Finanzas y Tesorería General del Estado en la elaboración y envío de información al Gobierno Federal conforme a las disposiciones de la Ley de Coordinación Fiscal;
+XXIV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-XXV. Dar seguimiento a los avances de los proyectos de inversión en los que están involucrados recursos correspondientes al "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal" (FASP), así como los correspondientes recursos estatales que en la materia sean aportados, y
+XXV. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 XXVI. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
@@ -429,25 +477,7 @@ VII. Las demás que establezcan otras disposiciones jurídicas aplicables, el Se
 
 ###### Artículo 18.
 
-Son facultades del Coordinador Ejecutivo del "Fondo de Aportaciones para la Seguridad Pública" (FASP):
-
-I. Planear la administración de los recursos aportados por el Gobierno Federal correspondientes al "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal" (FASP), así como los que se pacten en los convenios estatales que se suscriben anualmente en materia de seguridad pública;
-
-II. Elaborar y coordinar el presupuesto asignado por el fondo de aportaciones para la seguridad pública;
-
-III. Someter a la aprobación del Director General Administrativo, el despacho de los asuntos de su competencia;
-
-IV. Dar apoyo dentro del ámbito de su competencia, al Secretario Ejecutivo del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
-
-V. Elaborar y mantener actualizado (sic) la información requerida por el Sistema Nacional de Seguridad Pública en el ámbito de su competencia;
-
-VI. Coadyuvar con la Secretaría de Finanzas y Tesorería General del Estado, en la elaboración y envió de información al Gobierno Federal conforme a las disposiciones aplicables;
-
-VII. Gestionar ante la Secretaria de Finanzas y Tesorería General del Estado, las solicitudes de las áreas involucradas en cuanto a los recursos estatales, así como los que le fueran asignados del "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal" (FASP), conforme a la normativa aplicable;
-
-VIII. Dar seguimiento a los avances de los proyectos de inversión de los recursos estatales en materia de seguridad pública, así como los del "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal" (FASP), asignados a las diferentes áreas involucradas, conforme a la (sic) disposiciones aplicables; y
-
-IX. Las demás que establezcan otras disposiciones jurídicas aplicables, el Secretario y/o el Director General.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 #### Sección 2. De la Secretaría Particular
 
@@ -493,149 +523,49 @@ VII. Supervisar las actividades de comunicación social, la programación de con
 
 VIII. Las demás que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE FEBRERO DE 2012)</small>
-
 ###### Artículo 20 Bis.
 
-El Secretario Ejecutivo del Consejo de Coordinación del Sistema de Seguridad Pública del Estado, para el debido cumplimiento de las atribuciones que le confiere la Ley de Seguridad Pública para el Estado de Nuevo León, estará a cargo de la planeación, propuesta, coordinación y supervisión de la ejecución de programas, planes, acciones y proyectos encaminados al desarrollo y mejoramiento de las entidades y organismos integrantes del Consejo de Coordinación del Sistema Integral de Seguridad Pública, así como representar a esta institución, ante los distintos ordenes de Gobierno y organismos nacionales e internaciones, en los casos no reservados al Presidente del mismo; y ser enlace directo con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para la gestión y seguimiento de los programas, fondos y subsidios que coadyuven al desarrollo del sistema.
-
-Para el ejercicio de las atribuciones que le competen, contará con las Unidades Administrativas descritas en el inciso d), de la fracción I del artículo 5 de este Reglamento, así como de un gabinete de apoyo, directores de área, coordinadores y jefes de departamento, de acuerdo a la disponibilidad presupuestal.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 20 Bis 1.
 
-Para el debido cumplimiento de las atribuciones que le confiere la Ley de Seguridad Pública para el Estado de Nuevo León, el Secretario Ejecutivo tendrá las siguientes facultades:
-
-I. Auxiliar al Titular del Ejecutivo en la coordinación con las instancias de seguridad pública;
-
-II. Proponer a las instituciones de seguridad pública, las políticas, instrumentos, lineamientos y acciones que permitan fortalecer y eficientar los mecanismos de coordinación entre éstas y las instancias del sistema;
-
-III. Proponer lineamientos para que la coordinación a que se refiere el artículo 33 de la Ley de Seguridad Pública del Estado sea eficiente y eficaz;
-
-IV. Someter a la aprobación del Secretario las propuestas de políticas, programas, lineamientos, proyectos estratégicos, protocolos y acciones, para el buen desempeño de las instituciones de seguridad pública y el adecuado funcionamiento del Sistema;
-
-V. Proponer, en coordinación con las instancias competentes, reformas al marco jurídico de seguridad, para su aprobación por el Titular del Ejecutivo;
-
-VI. Supervisar la elaboración de los criterios de evaluación de las instituciones de seguridad pública, para su aprobación por el Titular del Ejecutivo;
-
-VII. Solicitar a las instancias del Consejo de Coordinación del Sistema Integral de Seguridad Pública, la Información necesaria para verificar el cumplimiento de la Ley de Seguridad Pública para el Estado de Nuevo León;
-
-VIII. Participar en el ámbito de su competencia en la celebración de convenios y compromisos que se establezcan con organismos, locales, nacionales y extranjeros, públicos y privados;
-
-IX. Ser enlace con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para la gestión y seguimiento de los programas, fondos y subsidios que coadyuven al desarrollo del Sistema;
-
-X. Proponer intercambios nacionales e internacionales, y gestionar la obtención de apoyos y recursos para la realización de proyectos en materia de seguridad pública del Estado;
-
-XI. Formular y dar seguimiento a la agenda y calendario de los compromisos y eventos interinstitucionales en los que intervenga el Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
-
-XII. Participar y, en su caso, representar al Titular del Ejecutivo en las conferencias nacionales en los consejos locales e instancias regionales de coordinación, así como en otras comisiones, foros o grupos de trabajo, locales, naciones o internacionales, relacionados con la seguridad pública;
-
-XIII. Administrar los recursos humanos, financieros y materiales, así como los servicios administrativos de la Unidad Administrativa, de acuerdo con las disposiciones que emita la Secretaría de Finanzas y Tesorería General del Estado;
-
-XIV. Formular su anteproyecto de presupuesto y su correspondiente programa operativo anual;
-
-XV. Acordar con el Secretario los asuntos de su competencia e informar de los avances y resultados de los mismos;
-
-XVI. Mantener informado al Secretario y al Titular del Ejecutivo de los acontecimientos y sucesos que incidan en el marco de competencia del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado; y
-
-XVII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 20 Bis 2.
 
-Corresponde al Director General de Planeación Estratégica:
-
-I. Coordinar el diseño, instrumentación, actualización y seguimiento del Programa Estatal de Seguridad Pública en los términos que establece la Ley de Seguridad Pública Estatal;
-
-II. Promover la realización de estudios que permitan elaborar proyectos estratégicos orientados al desarrollo y mejora del sistema;
-
-III. Integrar los proyectos estratégicos del Sistema;
-
-IV. Coordinar y supervisar la planeación y seguimiento de los programas, políticas, estrategias, protocolos, proyectos y acciones que se implementen, para el desarrollo de los organismos que componen el Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
-
-V. Diseñar el programa de reclutamiento del personal del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
-
-VI. Diseñar en conjunto con la Universidad de Ciencias de la Seguridad, el programa de profesionalización del personal del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
-
-VII. Diseñar en coordinación con los organismos que integran el Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado, los proyectos estratégicos de infraestructura para su desarrollo;
-
-VIII. Diseñar, proponer e instrumentar lineamientos, criterios, metodologías e indicadores que permitan el seguimiento y evaluación de los resultados y el impacto social de las políticas, programas y proyectos estratégicos del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado, así como de las estrategias y acciones en materia de seguridad pública;
-
-IX. Proponer y promover la gestión de fondos federales y de recursos provenientes de organismos públicos y privados tanto nacionales como extranjeros, para proyectos de alta prioridad, y
-
-X. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 20 Bis 3.
 
-Son facultades del Director de Relaciones Institucionales:
-
-I. Proponer, implementar y dar seguimiento a la aplicación de los mecanismos de coordinación con las instancias del Gobierno del Estado, los Municipios, la Federación, otras entidades federativas y con organismos de la sociedad en general, nacionales o extranjeros;
-
-II. Proponer, implementar y dar seguimiento a los acuerdos, convenios y compromisos con las instancias del Gobierno del Estado, los Municipios, la Federación, otras entidades federativas y con organismos de la sociedad en general, nacionales o extranjeros;
-
-III. Atender a los ciudadanos en lo individual o como representantes de diversas formas de organización de la sociedad, que acuden al Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado para exponer asuntos, quejas, necesidades e inquietudes y turnar los planteamientos a las áreas competentes;
-
-IV. Apoyar en la organización de eventos en los que participe el Secretario Ejecutivo; y
-
-V. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 20 Bis 4.
 
-Corresponde al Director de Información y Vocería:
-
-I. Mantener informado al Secretario Ejecutivo de los acontecimientos y sucesos que tengan impacto político o social en las actividades del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
-
-II. Coordinar las actividades de comunicación social y difusión del Secretario Ejecutivo;
-
-III. Coordinar y supervisar la planeación y seguimiento de los programas de difusión y promoción de las campañas de reclutamiento del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
-
-IV. Integrar, difundir e intercambiar información sobre avances y resultados en materia de seguridad pública, así como formular informes consolidados y referenciados;
-
-V. Generar informes periódicos sobre los resultados de los índices delictivos y estadísticas criminológicas;
-
-VI. Supervisar las actividades de logística para la difusión de información, por parte del Secretario Ejecutivo;
-
-VII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario Ejecutivo.
-
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 20 Bis 5.
 
-Son facultades del Coordinador Ejecutivo del Fondo de Aportaciones para la Seguridad Pública:
-
-I. Planear la administración de los recursos aportados por el Gobierno Federal correspondientes al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, así como los que se pacten en los convenios estatales que se suscriben anualmente en materia de seguridad pública;
-
-II. Elaborar y coordinar el presupuesto asignado por el Fondo de Aportaciones para la Seguridad Pública;
-
-III. Someter a la aprobación del Secretario Ejecutivo, el despacho de los asuntos de su competencia;
-
-IV. Elaborar y mantener actualizado la información requerida por el Sistema Nacional de Seguridad Pública en el ámbito de su competencia;
-
-V. Coadyuvar con la Secretaría de Finanzas y Tesorería General del Estado, en la elaboración y envío de información al Gobierno Federal conforme a las disposiciones aplicables;
-
-VI. Gestionar ante la Secretaría de Finanzas y Tesorería General del Estado, las solicitudes de las autoridades responsables del ejercicio de los recursos estatales, así como los que le sean asignados del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, conforme a la normatividad aplicable;
-
-VII. Dar seguimiento a los avances de los proyectos de inversión de los recursos estatales en materia de seguridad pública, así como los Fondos de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, asignados a las diferentes áreas involucradas, conforme a las disposiciones aplicables, y
-
-VIII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 21.
 
 Son facultades del Director de Enlace y Prensa:
 
-I. Supervisar y coordinar a los responsables de la comunicación social de las dependencias y entidades de la Administración Pública Estatal, mediante su organización por gabinetes funcionales;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-II. Coordinar las relaciones de las áreas de comunicación del Poder Ejecutivo con las similares del Gobierno Federal, de otros Estados o de los Municipios;
+I. Coadyuvar con el titular en la coordinación de las relaciones de las áreas de comunicación del Poder Ejecutivo con las similares del Gobierno Federal, de otros Estados o de los Municipios;
 
-III. Consolidar un sistema informativo eficiente que de a conocer a la población los programas y acciones gubernamentales a través de los medios de comunicación;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Vincular y fortalecer la relación del Gobierno del Estado con los diferentes medios de comunicación, y
+II. Propiciar el flujo ágil de información entre los integrantes de las dependencias y entidades de la Administración Pública Estatal y los medios de comunicación;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+III. Consolidar un sistema informativo eficiente que dé a conocer a la población los programas y acciones gubernamentales a través de los medios de comunicación;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Difundir las actividades del Poder Ejecutivo del Estado y de los titulares de las dependencias y entidades; y
 
 V. Las demás que establezcan otras disposiciones jurídicas aplicables, el Secretario y/o el Coordinador General.
 
@@ -673,37 +603,183 @@ XIII. Las demás que establezcan otras disposiciones jurídicas aplicables, el S
 
 Son facultades del Director de Operaciones:
 
-I. Coordinar la operación, programación y ejecución de las campañas de comunicación institucionales;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-II. Proporcionar oportunamente el aprovisionamiento de los recursos humanos, materiales, financieros y técnicos a las unidades administrativas que integran la Coordinación General, a través de una adecuada y oportuna gestión ante las dependencias correspondientes, y (sic)
+I. Gestionar, ante la dependencia competente, los recursos humanos, materiales, financieros y técnicos que requieran las unidades administrativas que integran la Coordinación General;
 
-III. Atender los asuntos legales y de transparencia de la Coordinación General, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Las demás que establezcan otras disposiciones jurídicas aplicables, el Secretario y/o el Coordinador General.
+II. Administrar, en coordinación con la Dirección General Administrativa, de manera eficiente los recursos financieros y materiales asignados a la Coordinación con el fin de cumplir con las funciones propias de la Coordinación;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+III. Coadyuvar con la Contraloría y Transparencia Gubernamental en las revisiones, auditorías, verificaciones o acciones de vigilancia hechas a la Coordinación;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Coordinar y supervisar el proceso de entrega-recepción en los cambios de titular de la Coordinación;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+V. Tramitar y dar seguimiento oportunamente a la contratación de servicios y de espacios publicitarios con los medios de comunicación y prestadores de servicios de la Coordinación;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Promover y mantener la gestión de convenios a nivel institucional con los medios de comunicación en el ámbito local y nacional; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Las demás que establezcan otras disposiciones jurídicas aplicables, el Secretario y/o Coordinador General.
 
 ###### Artículo 24.
 
 Son facultades del Director de Planeación y Análisis:
 
-I. Proponer estrategias de comunicación Institucional, a través del análisis, investigación y evaluación de la opinión pública y de la información generada por los medios de comunicación masiva;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-II. Difundir las actividades del Poder Ejecutivo del Estado y de los titulares de las dependencias y entidades;
+I. Consolidar un sistema de análisis y evaluación de la información generada por los medios de comunicación masiva;
 
-III. Proponer y programar las campañas institucionales del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Elaborar, definir y coordinar estrategias discursivas sobre las acciones del Poder Ejecutivo;
+II. Analizar cualitativa y cuantitativamente la información generada en los medios de comunicación con el fin de coadyuvar en la toma de decisiones;
 
-V. Establecer lineamientos para el uso de los elementos gráficos o conceptuales que den identidad a la Administración Pública;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Definir estrategias mediáticas para las intervenciones de los servidores públicos del Gobierno del Estado en la comunicación de acciones de gobierno, y (sic)
+III. Colaborar en la definición de estrategias mediáticas para las intervenciones de los servidores públicos del Gobierno del Estado en la comunicación de acciones de gobierno, y
 
-VII. Coordinar la comunicación de los programas y acciones gubernamentales a la población por medio del portal institucional de internet del Gobierno del Estado, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Las demás que establezcan otras disposiciones jurídicas aplicables, el Secretario y/o el Coordinador General.
+
+V. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+VI. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+VII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+VIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 24 Bis.
+
+Son facultades del Director de Relaciones Institucionales:
+
+I. Coordinar a los responsables de la comunicación social de las dependencias y entidades de la Administración Pública Estatal;
+
+II. Diseñar y proponer las campañas de comunicación institucional del Poder Ejecutivo;
+
+III. Coordinar la programación, difusión y cobertura de las campañas de comunicación institucional del Poder Ejecutivo en los medios de comunicación;
+
+IV. Asesorar a los responsables de la comunicación social de las dependencias y entidades de la Administración Pública estatal en los asuntos de su competencia y coordinar con dichas unidades la realización de acciones, eventos o similares;
+
+V. Dictar, coordinar y organizar pautas protocolares en la realización de eventos de la Coordinación General;
+
+VI. Asesorar a los enlaces de transparencia de todas las dependencias y entidades de la Administración en la atención de solicitudes de información realizadas por reporteros o medios de comunicación, así como promover la comunicación entre los enlaces de transparencia y enlaces de información con los responsables de la comunicación social con el fin de darle atención y seguimiento a las mismas;
+
+VII. Atender los asuntos legales y de transparencia de la Coordinación General; y
 
 VIII. Las demás que establezcan otras disposiciones jurídicas aplicables, el Secretario y/o el Coordinador General.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 24 Bis 1.
+
+Son facultades del Director de Estrategia y Comunicación en Nuevos Medios:
+
+I. Administrar, dirigir y elaborar los contenidos de información publicitaria y de difusión del Portal oficial de Internet del Gobierno del Estado y las redes sociales y comunidades virtuales del Gobierno del Estado;
+
+II. Dirigir la estrategia de difusión en redes sociales y comunidades virtuales de los servicios y actividades que presta el Gobierno del Estado;
+
+III. Orientar la atención ciudadana a través del portal oficial, las redes sociales y comunidades virtuales del Gobierno del Estado; y
+
+IV. Las demás que establezcan otras disposiciones jurídicas aplicables, el Secretario y/o el Coordinador General.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 #### Sección 4. Del Secretario Ejecutivo del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 24 Bis 2.
+
+El Secretario Ejecutivo del Consejo de Coordinación del Sistema de Seguridad Pública del Estado, para el debido cumplimiento de las atribuciones que le confiere la Ley de Seguridad Pública para el Estado de Nuevo León, estará a cargo de la planeación, propuesta, coordinación y supervisión de la ejecución de programas, planes, acciones y proyectos encaminados al desarrollo y mejoramiento de las entidades y organismos integrantes del Consejo de Coordinación del Sistema Integral de Seguridad Pública, así como representar a esta institución, ante los distintos ordenes de Gobierno y organismos nacionales e internaciones, en los casos no reservados al Presidente del mismo; y ser enlace directo con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para la gestión y seguimiento de los programas, fondos y subsidios que coadyuven al desarrollo del sistema.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 24 Bis 3.
+
+Para el debido cumplimiento de las atribuciones que le confiere la Ley de Seguridad Pública para el Estado de Nuevo León, el Secretario Ejecutivo tendrá las siguientes facultades:
+
+I. Auxiliar al Titular del Ejecutivo en la coordinación con las instancias de seguridad pública;
+
+II. Proponer a las instituciones de seguridad pública, las políticas, instrumentos, lineamientos y acciones que permitan fortalecer y hacer eficientes los mecanismos de coordinación entre éstas y las instancias del sistema;
+
+III. Proponer lineamientos para que la coordinación a que se refiere el artículo 33 de la Ley de Seguridad Pública del Estado sea eficiente y eficaz;
+
+IV. Someter a la aprobación del Secretario las propuestas de políticas, programas, lineamientos, proyectos estratégicos, protocolos y acciones, para el buen desempeño de las instituciones de seguridad pública y el adecuado funcionamiento del Sistema;
+
+V. Proponer, en coordinación con las instancias competentes, reformas al marco jurídico de seguridad, para su aprobación por el Titular del Ejecutivo;
+
+VI. Supervisar la elaboración de los criterios de evaluación de las instituciones de seguridad pública, para su aprobación por el Titular del Ejecutivo;
+
+VII. Solicitar a las instancias del Consejo de Coordinación del Sistema Integral de Seguridad Pública, la Información necesaria para verificar el cumplimiento de la Ley de Seguridad Pública para el Estado de Nuevo León;
+
+VIII. Participar en el ámbito de su competencia en la celebración de convenios y compromisos que se establezcan con organismos, locales, nacionales y extranjeros, públicos y privados;
+
+IX. Ser enlace con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para la gestión y seguimiento de los programas, fondos y subsidios que coadyuven al desarrollo del Sistema;
+
+X. Proponer intercambios nacionales e internacionales, y gestionar la obtención de apoyos y recursos para la realización de proyectos en materia de seguridad pública del Estado;
+
+XI. Formular y dar seguimiento a la agenda y calendario de los compromisos y eventos interinstitucionales en los que intervenga el Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
+
+XII. Participar y, en su caso, representar al Titular del Ejecutivo en las conferencias nacionales en los consejos locales e instancias regionales de coordinación, así como en otras comisiones, foros o grupos de trabajo, locales, naciones (sic) o internacionales, relacionados con la seguridad pública;
+
+XIII. Acordar con el Secretario los asuntos de su competencia e informar de los avances y resultados de los mismos;
+
+XIV. Apoyar, en el ámbito de su competencia las acciones del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado;
+
+XV. Validar y en su caso, gestionar con base en los Acuerdos del Consejo Nacional de Seguridad Pública y en los Convenios que en el Marco del Sistema Nacional de Seguridad Pública anualmente se suscriban y, los Anexos Técnicos de éstos, las erogaciones para sufragar los costos de los programas de seguridad pública;
+
+XVI. Solicitar a la Secretaría de Finanzas y Tesorería General del Estado la ministración de los recursos aportados por el Gobierno Federal correspondientes al "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal" (FASP), así como los correspondientes recursos estatales que se pacten en los convenios que en dicha materia anualmente se suscriben, para su aplicación en la realización de las acciones que en materia de seguridad pública se encuentran previstas en la referida Ley de Coordinación Fiscal y en los convenios que de ella emanen;
+
+XVII. Administrar y mantener actualizada la información requerida por el Sistema Nacional de Seguridad Pública; y colaborar con la Secretaría de Finanzas y Tesorería General del Estado en la elaboración y envío de información al Gobierno Federal conforme a las disposiciones de la Ley de Coordinación Fiscal;
+
+XVIII. Dar seguimiento a los avances de los proyectos de inversión en los que están involucrados recursos correspondientes al "Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal" (FASP), así como los correspondientes recursos estatales que en la materia sean aportados;
+
+XIX. Mantener informado al Secretario y al Titular del Ejecutivo de los acontecimientos y sucesos que incidan en el marco de competencia del Consejo de Coordinación del Sistema Integral de Seguridad Pública del Estado; y
+
+XX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 24 Bis 4.
+
+Son facultades del Coordinador Ejecutivo del Fondo de Aportaciones para la Seguridad Pública:
+
+I. Planear la administración de los recursos aportados por el Gobierno Federal correspondientes al Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, así como los que se pacten en los convenios estatales que se suscriben anualmente en materia de seguridad pública;
+
+II. Elaborar y coordinar el presupuesto asignado por el Fondo de Aportaciones para la Seguridad Pública;
+
+III. Someter a la aprobación del Secretario Ejecutivo, el despacho de los asuntos de su competencia;
+
+IV. Elaborar y mantener actualizado (sic) la información requerida por el Sistema Nacional de Seguridad Pública en el ámbito de su competencia;
+
+V. Ser el enlace directo con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, por cuanto corresponda al seguimiento y aplicación de los recursos del Fondo de Aportaciones para la Seguridad Pública del Estado de Nuevo León;
+
+VI. Ser el enlace con la Federación a través del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, respecto a los trabajos en materia de pre-concertaciones y concertaciones a efecto de determinar la estructura programática del ejercicio que corresponda ante la autoridad federal;
+
+VII. Fungir como responsable, en materia de la elaboración de reprogramaciones del recurso del Fondo de Aportaciones para la Seguridad Pública del Estado, en cuanto estas sean necesarias de llevar a cabo, por cumplimiento de metas o por así convenir a los intereses del Gobierno del Estado en materia de Seguridad Pública;
+
+VIII. Fungir como enlace ante la Federación a través del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, a efecto de cumplimentar el seguimiento respecto a la aplicación de los recursos asignados, derivados de los Subsidios a las Entidades Federativas para el Fortalecimiento de sus instituciones de Seguridad Pública en materia de Mando Policial conocido por sus siglas como (SPA). Y el Subsidio a los Municipios, y en su caso, a los estados cuando tengan a su cargo la función o la ejerzan coordinadamente con los Municipios, así como del Distrito Federal para la Seguridad Pública en sus demarcaciones territoriales, conocido por sus siglas como (SUBSEMUN), para que estos a su vez sean transmitidos y ejercidos por la Secretaría de Seguridad Pública del Estado;
+
+IX. Coadyuvar con la Secretaría de Finanzas y Tesorería General del Estado, en la elaboración y envío de información al Gobierno Federal conforme a las disposiciones aplicables;
+
+X. Gestionar ante la Secretaría de Finanzas y Tesorería General del Estado, las solicitudes de las autoridades responsables del ejercicio de los recursos estatales, así como los que le sean asignados del Fondo de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, conforme a la normatividad aplicable;
+
+XI. Dar seguimiento a los avances de los proyectos de inversión de los recursos estatales en materia de seguridad pública, así como los Fondos de Aportaciones para la Seguridad Pública de los Estados y del Distrito Federal, asignados a las diferentes áreas involucradas, conforme a las disposiciones aplicables; y
+
+XII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ### Capítulo VII. De las atribuciones de los demás titulares de las Unidades Administrativas y sus Direcciones
 
@@ -1081,21 +1157,7 @@ XI. Las demás facultades que le confieran las disposiciones jurídicas aplicabl
 
 ###### Artículo 39.
 
-Son facultades del Director General del Registro Público de la Propiedad y del Comercio:
-
-I. Organizar, dirigir, administrar y coordinar la elaboración y correcta aplicación de criterios uniformes en la calificación de los documentos presentados para registro y establecer medidas para mejorar el funcionamiento del Registro Público de la Propiedad y del Comercio;
-
-II. Organizar, dirigir y coordinar las funciones de asesoría de las oficinas del Registro Público de la Propiedad y del Comercio del Estado;
-
-III. Expedir certificaciones de los documentos que obran en sus archivos y supervisar la legalidad de los procedimientos de inscripción, anotación y cancelación;
-
-IV. Rendir informes sobre los documentos que estén a su cuidado, cuando las autoridades judiciales y administrativas se lo requieran conforme a las normas jurídicas aplicables;
-
-V. Llevar el registro de fierros, marcas de venta y señales de sangre de ganado y expedir la certificación de registro, validación o cancelación que corresponda en los términos que señale la Ley Ganadera del Estado de Nuevo León;
-
-VI. Resolver los recursos administrativos de revocación que se promuevan, vigilando la exacta aplicación de la ley de la materia; y
-
-VII. Las demás facultades que le confieran las disposiciones jurídicas aplicables, el Secretario y/o el Subsecretario.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 40.
 
@@ -1227,7 +1289,7 @@ IV. Establecer sistemas de venta de ejemplares del Periódico Oficial, a los par
 
 V. Celebrar convenios con la Federación, Estados y Municipios;
 
-VI. Expedir certificaciones de la documentación a su cargo; y (sic)
+VI. Expedir certificaciones de la documentación a su cargo; y
 
 VII. Organizar y administrar la Imprenta del Periódico Oficial del Estado;
 
@@ -1277,9 +1339,57 @@ XIV. Las demás facultades que le confieran las disposiciones jurídicas aplicab
 
 ###### Artículo 47.
 
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+###### Artículo 48.
+
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+###### Artículo 49.
+
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo VIII. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección 1. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 50.
+
+La Secretaría, para el mejor desempeño de los asuntos de su competencia, contará con los siguientes Órganos Desconcentrados:
+
+I. Coordinación de Desarrollo y Fortalecimiento Municipal;
+
+II. Centro de Atención a Migrantes del Estado de Nuevo León;
+
+III. Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal, SIJUPE;
+
+IV. Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, CISEC; y
+
+V. Comisión Ejecutiva Estatal para la Atención a Víctimas.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 51.
+
+Los órganos administrativos desconcentrados estarán jerárquicamente subordinados a la Secretaría General de Gobierno y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección 2. De la Coordinación de Desarrollo y Fortalecimiento Municipal
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 52.
+
 Además de las facultades comunes descritas en el artículo 12 de este reglamento, corresponde al órgano administrativo desconcentrado denominado Coordinación de Desarrollo y Fortalecimiento Municipal:
 
-l. Coadyuvar en la elaboración de políticas orientadas a impulsar y fortalecer la descentralización y el desarrollo municipal;
+I. Coadyuvar en la elaboración de políticas orientadas a impulsar y fortalecer la descentralización y el desarrollo municipal;
 
 II. Impulsar en las políticas, programas y acciones de las dependencias y entidades de la Administración Pública Estatal, la inclusión de mecanismos para la descentralización y el desarrollo municipal;
 
@@ -1305,19 +1415,23 @@ XII. Fomentar y apoyar la realización de programas de colaboración intermunici
 
 XIII. Las demás facultades que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
-###### Artículo 48.
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 53.
 
 Para el ejercicio de sus facultades y despacho de los asuntos de su competencia, la Coordinación de Desarrollo y Fortalecimiento Municipal contará con cuatro Direcciones, cuyos titulares actuarán con pleno respeto a la autonomía municipal en las siguientes zonas:
 
-I. Dirección de Desarrollo Municipal Zona Norte. Comprende los municipios de Agualeguas, Anáhuac, Bustamante, Cerralvo, China, Dr. Coss, Gral. Bravo, Gral. Treviño, Lampazos, Los Aldamas, Los Herreras, Los Ramones, Melchor Ocampo, Parás, Sabinas Hidalgo, Vallecillo y Villaldama.
+I. Dirección de Desarrollo Municipal Zona Norte. Comprende los municipios de Agualeguas, Anáhuac, Bustamante, Cerralvo, China, Dr. Coss, Gral. Bravo, Gral. Treviño, Lampazos, Los Aldamas, Los Herreras, Los Ramones, Melchor Ocampo, Parás, Sabinas Hidalgo, Vallecillo y Villaldama;
 
-II. Dirección de Desarrollo Municipal Zona Periférica. Comprende los municipios de Abasolo, Cadereyta Jiménez, Ciénega de Flores, Dr. González, El Carmen, General Zuazua, Hidalgo, Higueras, Marín, Mina, Pesquería, Salinas Victoria, y Santiago.
+II. Dirección de Desarrollo Municipal Zona Periférica. Comprende los municipios de Abasolo, Cadereyta Jiménez, Ciénega de Flores, Dr. González, El Carmen, General Zuazua, Hidalgo, Higueras, Marín, Mina, Pesquería, Salinas Victoria, y Santiago;
 
-III. Dirección de Desarrollo Municipal Zona Metropolitana. Comprende los municipios de Apodaca, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina.
+III. Dirección de Desarrollo Municipal Zona Metropolitana. Comprende los municipios de Apodaca, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza Garcia y Santa Catarina; y
 
 IV. Dirección de Desarrollo Municipal Zona Sur. Comprende los municipios de Allende, Aramberri, Dr. Arroyo, Galeana, Gral. Terán, Gral. Zaragoza, Hualahuises, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones.
 
-###### Artículo 49.
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 54.
 
 Los Directores de la Coordinación de Desarrollo y Fortalecimiento Municipal ejercerán las facultades descritas en el artículo 13 de este reglamento, así como las siguientes:
 
@@ -1333,27 +1447,103 @@ V. Participar en el establecimiento de mecanismos conjuntos con las dependencias
 
 VI. Proponer y, en su caso, participar en acciones de coordinación y cooperación con organismos nacionales e internacionales que apoyen programas de desarrollo municipal;
 
-VII Realizar acciones de vinculación y seguimiento de asuntos, a solicitud de las autoridades municipales, ante las diversas instancias públicas, privadas y sociales; y
+VII. Realizar acciones de vinculación y seguimiento de asuntos, a solicitud de las autoridades municipales, ante las diversas instancias públicas, privadas y sociales; y
 
 VIII. Las demás facultades que le confieran las disposiciones jurídicas aplicables, el Secretario y/o el Coordinador.
 
-### Capítulo VIII. De la Desconcentración Administrativa
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 50.
+#### Sección 3. Del Centro de Atención a Migrantes del Estado de Nuevo León
 
-Previo acuerdo del Titular del Poder Ejecutivo, la Secretaría, para el mejor desempeño de los asuntos de su competencia, podrá contar con órganos administrativos desconcentrados, que le estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia o dentro del ámbito territorial que se determine en cada caso.
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 51.
+###### Artículo 55.
 
-Las ausencias del Secretario deberán contar con la previa autorización del Titular del Poder Ejecutivo. Sus ausencias por más de quince días naturales serán suplidas por la persona que designe el Secretario, previo acuerdo con el Gobernador del Estado. A falta de designación expresa, las ausencias del Secretario por períodos menores al anterior, serán suplidas por el Subsecretario de Gobierno.
+El Centro de Atención a Migrantes del Estado de Nuevo León tendrá como objeto general, planear, ejecutar y evaluar las acciones en materia de migración externa del Estado de Nuevo León, a fin de mejorar la calidad de vida de los migrantes, principalmente de la atención a los migrantes nuevoleoneses y de sus familias que vivan en esta entidad federativa.
 
-###### Artículo 52.
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 56.
+
+El Centro de Atención a Migrantes del Estado de Nuevo León contará con un Director, que será nombrado y removido libremente por el Titular del Poder Ejecutivo y contará con la estructura organizacional y el presupuesto adecuado para la realización de sus funciones.
+
+Las atribuciones del Centro y del Director serán las conferidas en el Acuerdo por el cual se crea el Órgano Administrativo Desconcentrado denominado Centro de Atención a Migrantes del Estado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección 4. De la Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal del Estado de Nuevo León
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 57.
+
+La Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal del Estado de Nuevo León, que se denominará SIJUPE, tendrá por objeto llevar a cabo, dentro de su competencia, las acciones conducentes, para la implementación del Sistema de Justicia Penal, conforme a los principios contenidos en el Decreto que reforma a la Constitución Política de los Estados Unidos Mexicanos, de fecha 18 de junio de 2008.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 58.
+
+La Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal del Estado de Nuevo León, estará a cargo de un Director General, que será designado por el Gobernador Constitucional del Estado, y contará con las unidades administrativas y el personal que requiera para el cumplimiento de sus atribuciones.
+
+Las atribuciones del Director General serán las contenidas en el Decreto por el que se crea la Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal del Estado de Nuevo León y su administración será coordinada conjuntamente con la Dirección General Administrativa.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección 5. Del Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 59.
+
+El Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, denominado CISEC, tendrá por objeto realizar las acciones inherentes a la producción de insumos estratégicos de información y proyección para las instancias decisorias en materia de gobernabilidad, seguridad pública y administración de justicia, incluida la ejecución de los programas relativos a la evaluación y control de confianza del personal de instituciones públicas, particularmente las de seguridad pública y procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 60.
+
+El CISEC estará a cargo de un Director General que será designado por el Gobernador Constitucional del Estado, y contará con las unidades administrativas y el personal que requiera para el cumplimiento y ejercicio de sus atribuciones.
+
+Las atribuciones del Director General serán las contenidas por el Decreto bajo el cual se crea el Centro de Información para la Seguridad de estado, de Evaluación y Control de Confianza.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 61.
+
+Las acciones, atribuciones del CISEC, así como la estructura orgánica mínima realizará acciones de carácter estratégico son las ordenadas por el Decreto bajo el cual se crea el Centro de Información para la Seguridad de estado, de Evaluación y Control de Confianza.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección 6. De la Comisión Ejecutiva Estatal para la Atención a Víctimas
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 62.
+
+La Comisión Ejecutiva Estatal para la Atención a Víctimas, tiene por objeto ser la instancia de colaboración y coordinación entre el Sistema Nacional de Atención a Víctimas y la Comisión Ejecutiva Nacional. Además será responsable de la ejecución de los instrumentos, políticas, servicios y acciones estatales en materia de ayuda, asistencia, atención y reparación a las víctimas.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 63.
+
+La Comisión ejercerá las funciones que en el ámbito local le correspondan, en el marco de la Ley General de Víctimas, así como las atribuciones que le confiere la Ley de Víctimas del Estado de Nuevo León, el Reglamento de esta Ley, y demás disposiciones legales y administrativas aplicables.
+
+(REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+
+### Capítulo IX. De la Suplencia de los Titulares
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 64.
+
+Corresponde al Titular del Poder Ejecutivo autorizar las ausencias del Secretario General de Gobierno. Sus ausencias por más de quince días naturales serán suplidas por la persona que designe el Secretario, previo acuerdo con el Gobernador del Estado. A falta de designación expresa, las ausencias del Secretario por periodos menores al anterior, serán suplidas por el Subsecretario de Gobierno.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 65.
 
 Las ausencias de los demás titulares de las Unidades Administrativas señaladas en este Reglamento, serán suplidas por el servidor público que designe el Secretario, en los casos en que las leyes no dispongan otra forma de cubrirlas.
 
 T R A N S I T O R I O S
-
-### Capítulo IX. De la Suplencia de los Titulares
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1378,5 +1568,11 @@ JAVIER TREVIÑO CANTÚ
 P.O. 29 DE FEBRERO DE 2012.
 
 ###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2015.
+
+###### ARTICULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
