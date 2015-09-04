@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2014-12-30"
+last_updated: "2015-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -277,11 +277,7 @@ Son nulos los negocios jurídicos celebrados por los menores emancipados con inf
 
 ###### ARTÍCULO 45.
 
-El matrimonio del menor produce de pleno derecho la emancipación y por su efecto se extingue la patria potestad, en la que, por lo tanto, no recaerá el menor aunque su matrimonio se disuelva antes de la mayoría de edad.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-En este caso, el Oficial del Registro Civil hará la anotación marginal correspondiente en las respectivas actas de nacimiento del cónyuge o cónyuges emancipados, expresándose que éstos quedarán emancipados en virtud del matrimonio y citará la fecha en que éste se celebró así como el número y la foja del acta de matrimonio relativa.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 #### SECCIÓN TERCERA. DE LA INCAPACIDAD
 
@@ -1315,9 +1311,7 @@ Al escrito a que se refiere el artículo anterior, se acompañará:
 
 I. Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes, si la tuvieren.
 
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-II. La constancia de que los padres, abuelos, en su caso, y en su defecto los tutores, prestan su consentimiento para que el matrimonio se celebre; y faltando éstos, la autorización del Juez de Primera Instancia en Materia Familiar de la residencia del menor.
+II. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos.
 
@@ -1327,7 +1321,9 @@ Para los indigentes tienen obligación de expedir gratuitamente este certificado
 
 En los lugares en donde no haya laboratorio, el certificado deberá ser expedido preferentemente, por médicos particulares, o en su defecto, por las personas autorizadas por la Secretaría de Salud para ejercer prácticamente la medicina. Para los indigentes, exámenes y certificados serán gratuitos.
 
-V. Las capitulaciones matrimoniales en caso de que los pretendientes deseen contraer matrimonio bajo el régimen de sociedad conyugal. Si los pretendientes son menores de edad deberán aprobar las capitulaciones las personas cuyo consentimiento previo sea necesario para la celebración del matrimonio. Si por su contenido las capitulaciones matrimoniales deben constar en escritura pública, se acompañará un testimonio de ésta.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+V. Las capitulaciones matrimoniales en caso de que los pretendientes deseen contraer matrimonio bajo el régimen de sociedad conyugal. Si por su contenido las capitulaciones matrimoniales deben constar en escritura pública, se acompañará un testimonio de ésta.
 
 En caso de que, aun manifestando que el matrimonio se desea celebrar bajo el régimen de sociedad conyugal, no se presenten las capitulaciones matrimoniales, el matrimonio se entenderá celebrado, por disposición de la ley, bajo el régimen de separación de bienes.
 
@@ -1339,9 +1335,11 @@ VII. Copia de la dispensa de impedimentos, si los hubo.
 
 VIII. Constancia expedida por el Registro Civil, de cada uno de los pretendientes en la que se informe si se encuentran o no inscritos en el Registro Estatal de Deudores Alimentarios Morosos.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 198.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Los testigos deberán también ratificar su firma bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado de sanidad.
+El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes, reconozcan ante él y por separado sus firmas. Los testigos deberán también ratificar su firma bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado de sanidad.
 
 ###### ARTÍCULO 199.
 
@@ -1359,7 +1357,7 @@ I. Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de 
 
 II. Los nombres, apellidos, domicilio y nacionalidad de los padres.
 
-III. El consentimiento de éstos, de los abuelos o tutores o, en su caso, la autorización de la autoridad, si los contrayentes son menores de edad.
+III. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 IV. Que no hubo impedimento para el matrimonio, o que éste se dispensó.
 
@@ -1745,33 +1743,31 @@ Para disolver el contrato de matrimonio, es necesario, sólo la voluntad de una 
 
 Cualquier condición contraria a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 255.
 
-La edad para contraer matrimonio será de dieciocho años de edad, salvo los casos expresamente exceptuados por la ley. El Juez de Primera Instancia en Materia Familiar puede conceder dispensa de edad por causas graves y justificadas.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
+La edad mínima para contraer matrimonio será de dieciocho años de edad. El matrimonio de una persona menor de esa edad produce de pleno derecho la nulidad.
 
 ###### ARTÍCULO 256.
 
-Los menores de dieciocho años podrán contraer matrimonio con el consentimiento de quienes deban otorgarlo de acuerdo con este Código.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 257.
 
-Los interesados podrán ocurrir ante el Juez de Primera Instancia en materia familiar, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido, de acuerdo con el trámite que establece el Código Procesal Civil.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 258.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después, a menos que haya justa causa para ello.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 259.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio falleciere antes de que este se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término establecido por la ley.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 260.
 
-El juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar la autorización, sino por justa causa superviniente.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 261.
 
@@ -1813,9 +1809,11 @@ Al término del taller, la autoridad estatal encargada de su implementación, de
 
 Son impedimentos para contraer matrimonio:
 
-I. La falta de edad requerida por la ley, cuando no haya sido dispensada.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-II. La falta de consentimiento de quienes deban otorgarlo, o de la autorización judicial, en su caso.
+I. La falta de edad requerida por la ley.
+
+II. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 III. El parentesco por consanguinidad sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa.
 
@@ -1843,7 +1841,9 @@ XI. Padecer cualquiera de los estados de incapacidad a que se refiere el inciso 
 
 XII. El matrimonio o pacto civil de solidaridad subsistente con persona distinta de aquélla con quien se pretende contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco por consanguinidad en línea colateral desigual. La dispensa será otorgada por el Juez de lo Familiar.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+De estos impedimentos sólo es dispensable el parentesco por consanguinidad en línea colateral desigual. La dispensa será otorgada por el Juez de lo Familiar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1921,11 +1921,9 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 Los cónyuges mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el cónyuge del consentimiento del otro, ni éste de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes, en caso de sociedad conyugal.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
 ###### ARTÍCULO 276.
 
-Los cónyuges, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 277.
 
@@ -1977,7 +1975,7 @@ En todo acto de adquisición, enajenación, constitución de gravámenes, o cual
 
 ###### ARTÍCULO 284.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones para la constitución de la sociedad conyugal, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio, o la autorización judicial si las capitulaciones se pactan después de celebrado el matrimonio.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 285.
 
@@ -2053,9 +2051,11 @@ La sociedad conyugal nace al celebrarse el matrimonio, o durante él al otorgars
 
 La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos por el artículo 301.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 300.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo convienen los esposos; pero si éstos son menores de edad, deberán obtener para ello la autorización judicial. La misma regla se observará cuando la sociedad conyugal se modifique durante la menor edad de los consortes.
+La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo convienen los cónyuges.
 
 ###### ARTÍCULO 301.
 
@@ -2193,7 +2193,7 @@ Las donaciones antenupciales son revocables por el adulterio o el abandono injus
 
 ###### ARTÍCULO 327.
 
-Los menores pueden hacer donaciones antenupciales; pero sólo con intervención de sus padres o tutores o con aprobación judicial.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 328.
 
@@ -2231,31 +2231,21 @@ III. Que se haya celebrado en contravención a lo dispuesto en los artículos 19
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierta y no demanda la nulidad dentro de los treinta días siguientes a dicha denuncia, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
 ###### ARTÍCULO 334.
 
-En los matrimonios celebrados por menores de dieciséis años dejará de ser causa de nulidad:
-
-a. Cuando la mujer haya concebido.
-
-b. Cuando aunque la mujer no haya concebido, el cónyuge que al celebrar el matrimonio tenía la edad para contraerlo, cumpla dieciséis años sin que hubiere intentado la nulidad.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 335.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 336.
 
-Cesa esta causa de nulidad:
-
-I. Si han pasado los treinta días sin que se haya pedido.
-
-II. Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 337.
 
-La nulidad por falta de consentimiento del tutor o de la autorización del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de que ejecutoriamente se resuelva sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 338.
 
@@ -2279,7 +2269,9 @@ El miedo y la violencia serán causa de nulidad del matrimonio si concurren las 
 
 I. Que la violencia productora del miedo importe peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes.
 
-II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que lo tienen bajo su patria potestad o tutela al celebrarse el matrimonio; o a sus demás ascendientes, descendientes o a sus parientes colaterales dentro del segundo grado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
 
 III. Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
@@ -2381,9 +2373,11 @@ I. Cuando se ha contraído estando pendiente la decisión de un impedimento que 
 
 II. Cuando no se ha otorgado la previa dispensa que requiere el artículo 265, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 264 y 383.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 361.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de quien ejerza la patria potestad sobre él, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que establezca el Código Penal.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor y los que autoricen esos matrimonios, incurrirán en las penas que establezca el Código Penal.
 
 ### CAPÍTULO VI. DEL DIVORCIO
 
@@ -2483,13 +2477,17 @@ II. Ejerza violencia o intimidación en el seno del hogar común.
 
 III. Oculte deliberadamente padecer sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, enfermedad crónica e incurable que sea, además, contagiosa y hereditaria.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-ARTÍCULO 369 BIS.- El divorcio administrativo procede cuando habiendo transcurrido un año de la celebración del matrimonio, los cónyuges mayores de edad convienen en divorciarse, no tengan hijos o teniéndolos sean mayores de edad, capaces y no requieran alimentos ellos o alguno de los cónyuges, que la mujer no esté embarazada y se haya liquidado previamente la sociedad conyugal si el matrimonio se contrajo bajo ese régimen. Los cónyuges se presentarán ante el Oficial del Registro Civil de su domicilio, y exhibirán su solicitud por escrito, de la cual levantará acta el funcionario y los citará en un término de 15 días para que se presente a ratificarla.
+ARTÍCULO 369 BIS.- El divorcio administrativo procede cuando habiendo transcurrido un año o más de la celebración del matrimonio, los cónyuges convienen en divorciarse, no tengan hijos o teniéndolos sean mayores de edad, capaces y no requieran alimentos ellos o alguno de los cónyuges, que la mujer no esté embarazada y se haya liquidado previamente la sociedad conyugal si el matrimonio se contrajo bajo ese régimen. Los cónyuges se presentarán ante el Oficial del Registro Civil de su domicilio, y exhibirán su solicitud por escrito, de la cual levantará acta el funcionario y los citará en un término de 15 días para que se presenten a ratificarla.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
 Una vez ratificada, el Oficial del Registro Civil los declarará divorciados, levantará el acta correspondiente y hará las anotaciones en el acta de matrimonio respectiva.
 
-No surtirá efectos legales el divorcio administrativo, si se comprueba que los cónyuges son menores de edad, tienen hijos menores, o mayores de edad incapaces, o que requieran de alimentos, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+No surtirá efectos legales el divorcio administrativo, si se comprueba que los cónyuges tienen hijos menores, o mayores de edad incapaces o que requieran de alimentos, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -14267,7 +14265,7 @@ Sólo pueden ser objeto de prescripción, las obligaciones y derechos que están
 
 ###### ARTÍCULO 2512.
 
-La prescripción se verifica por el sólo transcurso del tiempo fijado pr (sic) la ley.
+La prescripción se verifica por el sólo transcurso del tiempo fijado pr (sic)la ley.
 
 ###### ARTÍCULO 2513.
 
@@ -21306,3 +21304,13 @@ Hasta en tanto las oficinas registrales no cuenten con la tecnología necesaria 
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los matrimonios celebrados antes de la entrada en vigor del presente Decreto, en los que un menor fuese parte, continuarán rigiéndose por las disposiciones aplicables vigentes al momento en que contrajeron nupcias.
+
+TERCERO.- Las solicitudes de matrimonio o trámites de dispensa de edad, que se encuentren pendientes se resolverán de conformidad a lo previsto por las disposiciones vigentes al momento en que fueron presentadas o iniciados.
+
+CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
