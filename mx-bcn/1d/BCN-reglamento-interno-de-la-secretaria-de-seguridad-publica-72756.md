@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-seguridad-publica-72756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-29"
-last_updated: "2012-12-07"
+last_updated: "2015-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 2010.
 
@@ -131,7 +131,9 @@ XI.- Expedir las credenciales foliadas de identificación personal de los Miembr
 
 XII.- Resolver las dudas que se susciten con motivo de la aplicación e interpretación de este Reglamento:
 
-XIII.- Nombrar mediante oficio apoderados para que en su nombre representen a la Secretaría ante toda clase de autoridades, cuando tenga el carácter de parte actora, demandante, tercería o coadyuvante; el poder, será limitado al asunto que se trata y en el se señalarán a las facultades que se otorgan; y,
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XIII.- Designar por escrito a delegados o apoderados para que en su nombre representen a la Secretaría ante toda clase de autoridades judiciales y administrativas, cuando tenga el carácter de parte actora, demandada, autoridad responsable, sujeto obligado o cualquier otra índole; en cualquier asunto de carácter legal en que tenga interés e injerencia la Secretaría, con todos los derechos procesales que las leyes y demás normatividad reconozcan. La designación será limitada al asunto de que se trate y en él se señalarán las facultades que se otorgan; y
 
 XIV.- Las demás que le sean encomendadas por el Ejecutivo Estatal, o aquellas que le confiera la normatividad aplicable.
 
@@ -157,9 +159,13 @@ VIII.- Organizar, supervisar y administrar el servicio de denuncia anónima 089,
 
 IX.- Organizar, dirigir, administrar y supervisar a las Instituciones Policiales, así como garantizar a través de las instancias correspondientes la aplicación del régimen disciplinario de sus Miembros;
 
-X.- Operar y administrar los Centros de Diagnóstico para Adolescentes y los Centros de Ejecución de Medidas para Adolescentes;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XI.- Operar y administrar el Sistema Estatal Penitenciario, así como, regular la clasificación de internos, diseñar y ejecutar los programas de readaptación y reinserción social, promover la creación y el funcionamiento del Patronato para Liberados;
+X.- Operar y administrar los Centros de Tratamiento para Adolescentes en el Estado, así como regular la clasificación de internos, aplicar y supervisar las medidas ordenadas por la autoridad correspondiente, y los programas de reintegración social y familiar del adolescente, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XI.- Operar y administrar los Centros de Reinserción Social en el Estado, dependientes del Sistema Estatal Penitenciario, así como regular la clasificación de internos, diseñar y ejecutar los programas de reinserción social, promover la creación y el funcionamiento del Patronato para Liberados, en términos de las disposiciones aplicables;
 
 XII.- Tramitar de oficio o a petición de parte los beneficios de libertad anticipada que establezca la normatividad aplicable;
 
@@ -193,9 +199,17 @@ XXVI.- Establecer coordinación institucional y operativa con las instituciones 
 
 XXVII.- Garantizar, supervisar y aplicar el sistema de desarrollo policial de los Miembros a que se refiere la Ley General del Sistema Nacional de Seguridad Pública, la Ley de Seguridad Pública y la demás normatividad aplicable;
 
-XXVIII.- Presidir la instancia colegiada encargada para conocer y resolver toda controversia que se suscite con relación a los procedimientos de la carrera policial y el régimen disciplinario de los Miembros, en los términos de la Ley de Seguridad Pública y del reglamento correspondiente; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XXIX.- Las demás que con el carácter de delegables se establezcan en la normatividad aplicable.
+XXVIII.- Presidir la instancia colegiada encargada para conocer y resolver toda controversia que se suscite con relación a los procedimientos de la carrera policial y el régimen disciplinario de los Miembros, en los términos de la Ley de Seguridad Pública y del reglamento correspondiente;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XXIX.- Expedir certificaciones de los documentos existentes en los archivos a su cargo, cuando las leyes o el presente Reglamento así lo determine; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XXX.- Las demás que con el carácter de delegables se establezcan en la normatividad aplicable.
 
 ###### Artículo 8.
 
@@ -367,6 +381,8 @@ VI.- Coordinación de la Licencia Oficial Colectiva.
 
 #### SECCIÓN II. DE LA SUBSECRETARÍA DEL SISTEMA ESTATAL PENITENCIARIO
 
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE XVII FRACCIONES A XIV.</small>
+
 ###### Artículo 13.
 
 La Subsecretaría del Sistema Estatal Penitenciario, estará a cargo de un Subsecretario y para el despacho de sus asuntos contara con las siguientes unidades administrativas:
@@ -417,27 +433,27 @@ VIII.- Centro de Reinserción Social El Hongo II;
 
 IX.- Centro de Reinserción Social El Hongo III;
 
-X.- Centro de Diagnóstico para Adolescentes Mexicali;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XI.- Centro de Diagnóstico para Adolescentes Tijuana;
+X.- Centro de Tratamiento para Adolescentes Mexicali;
 
-XII.- Centro de Diagnóstico para Adolescentes Ensenada;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XIII.- Centro de Ejecución de Medidas para Adolescentes Mexicali;
+XI.- Centro de Tratamiento para Adolescentes Tijuana;
 
-XIV.- Centro de Ejecución de Medidas para Adolescentes Tijuana; y,
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XV.- Centro de Ejecución de Medidas para Adolescentes Ensenada.
+XII.- Centro de Tratamiento para Adolescentes Ensenada;
 
 De la Subsecretaría:
 
-XVI.- Coordinación de Infraestructura Penitenciaria; y,
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+XIII.- Coordinación de Infraestructura Penitenciaria; y
 
-XVII.- Coordinación de Sistemas y de Tecnología.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-XVIII.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
+XIV.- Coordinación de Sistemas y de Tecnología.
 
 Las Direcciones Normativas en el ámbito de su competencia, establecerán las políticas, programas, lineamientos y directrices que deberán aplicar en sus funciones y actividades las Unidades Ejecutoras o Centros.
 
@@ -1021,13 +1037,15 @@ I.- Operar y administrar el Sistema Estatal Penitenciario, regular la clasificac
 
 II.- Proponer al Juez de Ejecución el otorgamiento de beneficios de libertad anticipada, por conducto de la Dirección de Ejecución de Penas y Medidas Judiciales, en los términos de las disposiciones aplicables;
 
-II (SIC).- Operar y administrar a la Policía Estatal de Seguridad y Custodia Penitenciaria, así como, garantizar a través de las instancias correspondientes la aplicación del régimen disciplinario de sus Miembros;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+III.- Operar y administrar a la Policía Estatal de Seguridad y Custodia Penitenciaria, así como garantizar a través de las instancias correspondientes la aplicación del régimen disciplinario y de carrera policial de sus Miembros;
 
 IV.- Ejecutar, vigilar y supervisar la ejecución de las sentencias dictadas por los órganos jurisdiccionales penales el fuero común;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-V.- Aplicar y supervisar la normatividad sobre medidas de seguridad en los Centros de Reinserción Social del Estado;
+V.- Aplicar y supervisar la normatividad sobre las medidas de seguridad en los Centro (sic) de Reinserción Social, así como en los Centros de Tratamiento para Adolescentes en el Estado;
 
 VI.- Vigilar la ejecución de las medidas de tratamiento a los adultos inimputables impuestas por los órganos competentes;
 
@@ -1071,13 +1089,17 @@ XIX.- Desempeñar las demás funciones inherentes a su cargo o las que le sean e
 
 La Dirección de Centros de Reinserción Social y de Adolescentes, estará a cargo de un Director General, auxiliado por las unidades administrativas referidas en el artículo 13 fracción I, incisos A, B, C, D y E del presente Reglamento, de las Unidades Ejecutoras o Centros y demás previstas en los reglamentos y normatividad de la materia y tendrá el ejercicio de las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I.- Coordinar y supervisar, a través de las unidades ejecutoras o centros, la recepción de indiciados, imputados, procesados y sentenciados, que envíen las autoridades judiciales competentes y, que por disposición de las mismas, deban permanecer privados de la libertad;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+I.- Coordinar y supervisar a través de las unidades ejecutoras o centros, la recepción de imputados, acusados y sentenciados, que envíen las autoridades judiciales competentes y, que por disposición de las mismas, deban permanecer privados de la libertad;
 
-II.- Vigilar y supervisar que los directores de las unidades ejecutoras o centros, dejen en inmediata libertad a los indiciados, imputados, procesados o sentenciados, cuando así sea ordenado por autoridad competente, y ésta sea procedente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+II.- Vigilar y supervisar que los directores de las unidades ejecutoras o centros, dejen en inmediata libertad a los imputados, acusados o sentenciados, cuando así sea ordenado por autoridad competente y ésta sea procedente;
 
 III.- Vigilar y supervisar que los titulares de las unidades ejecutoras o centros, dejen en inmediata libertad a los sentenciados que hayan recibido un beneficio de libertad anticipada, indulto o amnistía; siempre y cuando no se encuentren a disposición de alguna otra autoridad competente por la cual deben permanecer internos, dando aviso de ello al Subsecretario y a la Dirección Estatal de Ejecución de Penas y Medidas Judiciales;
 
@@ -1145,17 +1167,27 @@ VII.- Desempeñar las demás funciones inherentes a su cargo o las que le confie
 
 La Subdirección de Centros para Adolescentes, estará a cargo de un Subdirector y tendrá las atribuciones siguientes:
 
-I.- Coordinar y supervisar el cumplimiento de la normatividad aplicable y demás disposiciones internas, expedidas para los Centros de Diagnóstico para Adolescentes y Centros de Ejecución de Medidas para Adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+I.- Coordinar y supervisar el cumplimiento de la normatividad y demás disposiciones internas, expedidas para los Centros de Tratamiento para Adolescentes en el Estado;
 
 II.- Recibir las quejas o denuncias que presenten los particulares sobre las acciones u omisiones de los servidores públicos adscritos a la Subdirección a su cargo y turnar las mismas a la autoridad competente;
 
-III.- Coordinar y supervisar las acciones que en materia de adolescentes se generen en los Centros de Diagnóstico para Adolescentes y Centros de Ejecución de Medidas para Adolescentes en el Estado;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-IV.- Presentar al Director propuestas e iniciativas de proyectos tendientes a la mejoría de las condiciones generales de los Centros de Diagnostico para Adolescentes y Centros de Ejecución de Medidas para Adolescentes en el Estado;
+III.- Coordinar y supervisar las acciones que en materia de adolescentes se genere en los Centros de Tratamiento para Adolescentes en el Estado;
 
-V.- Llevar a cabo las acciones necesarias, a efecto de que la alimentación que reciban los adolescentes internos en los Centros de Diagnóstico para Adolescentes y Centros de Ejecución de Medidas para Adolescentes en el Estado, sea en cantidad, calidad y valor nutricional necesaria;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-VI.- Proponer, coordinar y supervisar por instrucción del Director, los trabajos de mantenimiento requeridos por los Centros de Diagnostico para Adolescentes y Centros de Ejecución de Medidas para Adolescentes en el Estado; y,
+IV.- Presentar al Director, propuestas e iniciativas de proyectos tendientes a la mejoría de las condiciones generales de los Centros de Tratamiento para Adolescentes en el Estado;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+V.- Llevar a cabo las acciones necesarias, a fin de procurar que la alimentación que reciban los adolescentes internos en los Centros de Tratamiento para Adolescentes en el Estado, sea en cantidad, calidad y valor nutricional necesaria;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+VI.- Proponer, coordinar y supervisar por instrucción del Director, los trabajos de mantenimiento requeridos por los Centros de Tratamiento para Adolescentes en el Estado; y
 
 VII.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
@@ -1219,7 +1251,9 @@ V.- Gestionar la solicitud de requerimiento de productos y materia prima ante la
 
 VI.- Gestionar la solicitud de requerimiento ante la unidad administrativa correspondiente respecto del material y equipo destinado a los servicios generales y de mantenimiento de las Unidades Ejecutoras o Centros;
 
-VII.- Vigilar conforme a los lineamientos de la Dirección, el adecuado ejercicio de los recursos no presupuestados que generen o reciban los Centros de Diagnóstico para Adolescentes y Centros de Ejecución de Medidas para Adolescentes en el Estado, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+VII.- Vigilar conforme a los lineamientos de la Dirección, el adecuado ejercicio de los recursos no presupuestados que generen o reciban los Centros de Tratamiento para Adolescentes en el Estado, de conformidad con la normatividad aplicable;
 
 VIII.- Implementar las medidas que sean pertinentes para que la alimentación que reciben los internos de las Unidades Ejecutoras o Centros, sea adecuada en cantidad y calidad nutricional;
 
@@ -1253,13 +1287,19 @@ V.- Vigilar la ejecución de las medidas de tratamiento a los adultos inimputabl
 
 VI.- Ordenar previa autorización del Subsecretario del Sistema Estatal Penitenciario, traslados de sentenciados que se encuentren a su disposición, en los términos de la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII.- Participar en la elaboración y dar seguimiento al cumplimiento de los convenios de coordinación que se celebren con la Federación y los gobiernos de las entidades federativas, en materia de supervisión de los sustitutivos y de los beneficios de la pena de prisión; así como aquellos para el traslado de imputados, procesados y sentenciados a los establecimientos dependientes del Poder Ejecutivo Federal o de las entidades federativas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+VII.- Participar en la elaboración y dar seguimiento al cumplimiento de los convenios de coordinación que se celebren con la Federación y los gobiernos de las entidades federativas, en materia de supervisión de los sustitutivos y de los beneficios de pena de prisión; así como aquellos para el traslado de imputados, acusados y sentenciados a los establecimientos dependientes del Poder Ejecutivo Federal o de las entidades federativas;
 
 VIII.- Señalar en su caso, de conformidad con la normatividad aplicable, el lugar donde los sentenciados deberán cumplir sus penas;
 
-IX.- Sujetar y supervisar a los sentenciados ó imputados en libertad, a las medidas de orientación, supervisión y vigilancia que se dicten al otorgarse por la autoridad judicial algún beneficio de libertad anticipada, una medida cautelar, medida cautelar anticipada, providencia precautoria o penas privativas de libertad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+IX.- Sujetar y supervisar a los sentenciados o imputados en libertad, a las medidas de orientación, supervisión y vigilancia que se dicten al otorgarse por la autoridad judicial algún beneficio de libertad anticipada, una medida cautelar o penas privativas de libertad;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1271,9 +1311,11 @@ XI.- Autorizar si lo considera procedente, la solicitud de anuencia realizada po
 
 XII.- Solicitar anuencia a otro Estado a fin que los liberados del orden común con algún beneficio judicial cumplan en aquel lugar con las obligaciones impuestas en el beneficio que les fue concedido;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIII.- Ejecutar los sustitutivos de la pena privativa de libertad, suspensión condicional de la ejecución de la pena, o alguna medida judicial; ejerciendo sobre las personas la orientación y vigilancia necesaria, para que cumplan con las condiciones impuestas; así como notificar a la autoridad que los otorgó, ante el incumplimiento de las mismas; lo anterior, en apego a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XIII.- Supervisar los sustitutivos de la pena privativa de libertad, suspensión condicional de la ejecución de la pena, suspensión condicional del proceso o alguna medida judicial, ejerciendo sobre las personas la orientación y vigilancia necesaria, para que cumplan con las condiciones impuestas; así como notificar a la autoridad que los otorgó, ante el incumplimiento de las mismas; lo anterior, en apego a las disposiciones aplicables;
 
 XIV.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
@@ -1293,13 +1335,23 @@ XX.- Representar al Subsecretario y en su caso, a los titulares de las direccion
 
 XXI.- Suscribir documentos en suplencia y por ausencia del Subsecretario del Sistema Estatal Penitenciario, sin necesidad de acuerdo previo, en asuntos relacionados con las funciones y atribuciones de éste;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXII.- Solicitar el auxilio de la fuerza pública, a efecto de dar el cumplimiento a las medidas y beneficios judiciales, ordenadas por la autoridad judicial competente, en los términos de las disposiciones aplicables; y,
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+XXII.- Solicitar el auxilio de la fuerza pública, a efecto de dar el cumplimiento a las medidas y beneficios judiciales, ordenadas por la autoridad judicial competente, en los términos de las disposiciones aplicables;
 
-XXIII.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por su superior, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII.- Coordinar y supervisar la realización de la evaluación de riesgo, en los términos de la legislación aplicable; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2015) (ADICIONADO)
+
+XXIV.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 52.
 
@@ -1351,7 +1403,11 @@ I.- Integrar el expediente jurídico administrativo de sentenciados, a quienes s
 
 II.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2012)
 
-III.- Proporcionar previo acuerdo con el Director de Ejecución de Penas y Medidas Judiciales, las constancias de antecedentes penales en los términos del Código de Procedimientos Penales para el Estado de Baja California, a las autoridades competentes y expedir, previa solicitud del interesado, constancias para el ejercicio de un derecho o el cumplimiento de un deber que legalmente corresponda;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+III.- Proporcionar previo acuerdo con el Director de Ejecución de Penas y Medidas Judiciales, las constancias de antecedentes penales en los términos de la normatividad aplicable, a las autoridades competentes y expedir, previa solicitud del interesado, constancias para el ejercicio de un derecho o el cumplimiento de un deber que legalmente corresponda;
 
 IV.- Gestionar ante las autoridades federales competentes, los beneficios de libertad anticipada de sentenciados del orden federal;
 
@@ -1379,21 +1435,27 @@ X.- Desempeñar las demás funciones inherentes a su cargo o las que le sean enc
 
 La Jefatura del Departamento de Vigilancia de Medidas y Beneficios Judiciales, estará a cargo de un Jefe de Departamento, el cual será auxiliado por las coordinaciones de zona Mexicali, zona Ensenada y zona Tijuana, ésta última que comprende los municipios de Tecate y Playas de Rosarito, y tendrá el ejercicio de las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I.- Vigilar el cumplimiento de las obligaciones impuestas a los sentenciados e imputados según proceda, una vez que se les ha otorgado algún beneficio judicial comprendiendo éste la suspensión condicional de la ejecución de la pena, suspensión de proceso a prueba, los sustitutivos penales, la semilibertad, alguna medida cautelar, medida cautelar anticipada, providencia precautoria, penas privativas de libertad, o alguna medida de seguridad, que considere la autoridad judicial competente;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+I.- Vigilar el cumplimiento de las obligaciones impuestas a los sentenciados e imputados según proceda, una vez que se les ha otorgado alguna medida judicial, como es la medida cautelar o suspensión condicional del proceso o bien, algún beneficio judicial o de libertad anticipada, comprendiendo la suspensión condicional de la ejecución de la pena y los sustitutivos penales u otra medida de seguridad que considere la autoridad judicial competente;
 
-II.- Visitar a los imputados y sentenciados en sus domicilios o trabajo, para vigilar el cumplimiento de las obligaciones derivadas del otorgamiento de una medida o beneficio judicial, informando a la autoridad judicial por conducto del Director de Ejecución de Penas y Medidas Judiciales, cuando incumplan las obligaciones impuestas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+II.- Visitar a los imputados y sentenciados en sus domicilios o trabajo, para vigilar el cumplimiento de las obligaciones derivadas del otorgamiento de una medida o beneficio judicial o de libertad anticipada, informando a la autoridad judicial por conducto del Director de Ejecución de Penas y Medidas Judiciales, cuando incumplan las obligaciones impuestas;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 III.- Citar, si lo considera procedente y sólo por una vez, a los sentenciados con beneficio judicial, cuando hayan dejado de cumplir con las obligaciones impuestas y, en caso de no presentarse el día y hora señalado, sin necesidad de apercibimiento alguno, deberá informarse el incumplimiento a la autoridad judicial competente, por conducto del Director de Ejecución de Penas y Medidas Judiciales;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- Llevar los libros de control necesarios o un registro digitalizado de quienes obtengan algún beneficio judicial;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+IV.- Llevar los libros de control necesarios o un registro digitalizado de quienes se encuentren sujetos a alguna medida judicial, o bien se les haya concedido un beneficio judicial o de libertad anticipada, del cual deriven obligaciones que por disposición judicial deban ser supervisadas por la Dirección de Ejecución de Penas y Medidas Judiciales;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1401,17 +1463,29 @@ V.- Vigilar a las personas que sean sujetas a una obligación derivada de una se
 
 VI.- Asignar el cumplimiento del trabajo en favor de la comunidad en institución pública o privada de tipo educativo o asistencial, cuando la autoridad judicial competente lo imponga como pena directa o sustitutiva, previo estudio de habilidades laborales y de disponibilidad realizado por la Dirección de Programas de Reinserción Social;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII.- Apercibir al sentenciado que tenga un beneficio judicial, cuando este incumpla con las obligaciones inherentes a dicho beneficio, esto, una vez que haya sido citado por una sola vez y haber comparecido a justificar el incumplimiento; en caso de reincidencia, informar del incumplimiento a la autoridad judicial competente, por conducto del Director de Ejecución de Penas y Medidas Judiciales;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+VII.- Apercibir al sentenciado que tenga un beneficio judicial o de libertad anticipada, cuando éste incumpla con las obligaciones inherentes a dicho beneficio, esto una vez que haya sido citado por una sola vez y haber comparecido a justificar el incumplimiento; en caso de reincidencia informar del incumplimiento a la autoridad judicial competente, por conducto del Director de Ejecución de Penas y Medidas Judiciales;
 
-VIII.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-IX.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean encomendadas por sus superiores, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
+VIII.- Suscribir documentos y desahogar toda clase de trámites, en ausencia del Director de Ejecución de Penas y Medidas Judiciales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+IX.- Realizar la evaluación de riesgo en los términos de la legislación aplicable; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+X.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por sus superiores, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
 ###### Artículo 55.
 
@@ -1443,7 +1517,11 @@ VIII.- Supervisar la clasificación de los internos en las Unidades Ejecutoras o
 
 IX.- Auxiliar a los patronatos para liberados en su conformación, así como en el desarrollo de sus actividades;
 
-X.- Coordinar y supervisar el trabajo en favor de la comunidad en institución pública o privada de tipo educativo o asistencial, cuando la autoridad lo imponga como pena directa o sustitutiva, previo estudio de habilidades laborales y de disponibilidad que se realice, y en su caso dar aviso a la Dirección de Ejecución de Penas y Medidas Judiciales, cuando el condenado a trabajar deje de presentarse en el plazo señalado o cumpla con la obligación impuesta;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+X.- Coordinar y supervisar el trabajo en favor de la comunidad en institución pública o privada de tipo educativo o asistencial, cuando la autoridad lo imponga como pena directa o sustitutiva, previo estudio de habilidades laborales y de disponibilidad que se realice, y en su caso dar aviso a la Dirección de Ejecución de Penas y Medidas Judiciales, cuando el sentenciado a trabajar deje de presentarse en el plazo señalado o cumpla con la obligación impuesta;
 
 XI.- Dar seguimiento a los liberados que hayan sido apoyados a través del Departamento de Atención y Seguimiento a Liberados o de los Patronatos para Liberados en el Estado, para verificar su proceso de reinserción;
 
@@ -1499,11 +1577,19 @@ VI.- Desempeñar las demás funciones inherentes a su cargo, o las que le sean e
 
 Las Direcciones de los Centros de Reinserción Social, estarán a cargo de un Director de Centro y previstos en el artículo 13 fracciones de la IV a la IX del presente Reglamento, y tendrán el ejercicio de las atribuciones siguientes:
 
-I.- Recibir y mantener en calidad de detenido, a todo individuo sentenciado y aquellos que con carácter de imputados o procesados, remitan las autoridades competentes y que por disposición de las mismas, deban de permanecer privados de su libertad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+I.- Recibir y mantener en calidad de detenido, a todo individuo sentenciado y aquellos que con carácter de imputados o acusados, remitan las autoridades competentes y que por disposición de las mismas, deban de permanecer privados de su libertad;
 
 II.- Dejar en inmediata libertad a los sentenciados que hayan cumplido las sanciones impuestas o que hayan recibido un beneficio de libertad anticipada, indulto o amnistía, siempre y cuando no se encuentren a disposición de otra autoridad competente por la cual deban permanecer recluidos, dando aviso de ello a la Dirección de Ejecución de Penas y Medidas Judiciales;
 
-III.- Dejar en inmediata libertad a los imputados, procesados o sentenciados, cuando así sea ordenado por autoridad competente;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+III.- Dejar en inmediata libertad a los imputados, acusados o sentenciados, cuando así sea ordenado por autoridad competente;
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1521,11 +1607,15 @@ IX.- Certificar los documentos que obren en los archivos de la Dirección y expe
 
 X.- Desempeñar las demás funciones inherentes a su cargo o las que le sean encomendadas por su superior jerárquico, así como las determinadas en el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 60.
 
-Las Direcciones de los Centros de Diagnóstico para Adolescentes y de los Centros de Ejecución de Medidas para Adolescentes, señalados en el articulo 13 fracciones X a la XV del presente Reglamento, estarán a cargo de un Director de Centro, y además de las atribuciones que les confiere la Ley de Justicia para Adolescentes del Estado de Baja California u otra de la materia, tendrán las siguientes:
+Las Direcciones de los Centros de Tratamiento para Adolescentes en el Estado, señalados en el artículo 13 fracciones X a la XII del presente Reglamento, estarán a cargo de un Director de Centro, y además de las atribuciones que les confiere la Ley de Justicia para Adolescentes del Estado de Baja California y otras disposiciones, tendrán las siguientes:
 
-l.- Supervisar que el tratamiento de adaptación de los adolescentes, se lleve a cabo conforme al tratamiento individualizado que determine la autoridad judicial competente;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+I.- Aplicar y supervisar que las medidas de reintegración social y familiar del adolescente, se lleven a cabo conforme al tratamiento individualizado que determine la autoridad judicial competente;
 
 II.- Supervisar los lineamientos de seguridad en coordinación con la Policía Estatal de Seguridad y Custodia Penitenciaria adscrita al Centro a su cargo;
 
@@ -1903,9 +1993,13 @@ La Dirección de Asuntos Internos, estará a cargo de un Director, que será aux
 
 I.- Proporcionar asesoría jurídica al Secretario cuando así lo requiera en materia de régimen disciplinario, responsabilidades y derechos humanos, así como en los demás asuntos que éste determine;
 
-II.- Establecer la debida coordinación con la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, para la atención de asuntos relacionados en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-III.- Elaborar los proyectos de contestación a los diversos informes o recomendaciones formulados por la Comisión Nacional de los Derechos Humanos o la Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado de Baja California, a solicitud del Secretario;
+II.- Establecer la debida coordinación con la Comisión Estatal de los Derechos Humanos de Baja California, para la atención de asuntos relacionados en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+III.- Elaborar los proyectos de contestación a los diversos informes o recomendaciones formulados por la Comisión Nacional de los Derechos Humanos o la Comisión Estatal de los Derechos Humanos de Baja California, a solicitud del Secretario;
 
 IV.- Integrar y participar en la instancia colegiada responsable de conocer y resolver en su ámbito de competencia, toda controversia que se suscite con relación a los procedimientos de carrera policial y del régimen disciplinario, en los términos de la Lay de Seguridad Pública, el reglamento respectivo y demás normatividad aplicable;
 
@@ -2156,3 +2250,7 @@ P.O. 7 DE DICIEMBRE DE 2012.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 De conformidad con lo dispuesto por el artículo 49, fracción I, de la Constitución Política del Estado Libre y Soberano de Baja California, imprímase y publíquese el presente Decreto para su debido cumplimiento y observancia.
+
+P.O. 4 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California, excepto las reformas a los artículos 45, 51, 53, 54, 56 y 59 del Reglamento Interno de la Secretaría de Seguridad Pública del Estado de Baja California, las cuales entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional.
