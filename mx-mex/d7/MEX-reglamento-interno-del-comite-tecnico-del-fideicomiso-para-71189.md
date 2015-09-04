@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-comite-tecnico-del-fideicomiso-para-7118
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-20"
-last_updated: "2009-11-20"
+last_updated: "2015-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DEL COMITE TECNICO DEL FIDEICOMISO PARA EL PAGO POR SERVICIOS AMBIENTALES HIDROLOGICOS DEL ESTADO DE MEXICO [FIPASAHEM]
 
-REGLAMENTO INTERNO DEL COMITE TECNICO DEL FIDEICOMISO PARA EL PAGO POR SERVICIOS AMBIENTALES HIDROLOGICOS DEL ESTADO DE MEXICO (FIPASAHEM)
+REGLAMENTO INTERNO DEL COMITÉ TÉCNICO DEL FIDEICOMISO PARA EL PAGO POR SERVICIOS AMBIENTALES HIDROLÓGICOS DEL ESTADO DE MÉXICO (FIPASAHEM)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el viernes 20 de noviembre de 2009.
 
@@ -31,9 +31,11 @@ REGLAMENTO INTERNO DEL COMITE TECNICO DEL FIDEICOMISO PARA EL PAGO POR SERVICIOS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-El presente reglamento tiene como objeto el regular la organización y funcionamiento del Comité Técnico del Fideicomiso para el Pago por Servicios Ambientales Hidrológicos del Estado de México, conforme a las disposiciones contenidas en el Acuerdo del Ejecutivo por el que se crea, así como las previstas en el Contrato de Fideicomiso Público de Administración e Inversión correspondiente, celebrado con IXE Banco, División Fiduciaria, S.A. de C.V.
+El presente reglamento tiene como objeto el regular la organización y funcionamiento del Comité Técnico del Fideicomiso para el Pago por Servicios Ambientales Hidrológicos del Estado de México, conforme a las disposiciones contenidas en el Acuerdo del Ejecutivo por el que se crea, así como las previstas en el Contrato de Fideicomiso Público de Administración e Inversión correspondiente.
 
 ###### Artículo 2.
 
@@ -95,7 +97,9 @@ Con fundamento en lo dispuesto en los artículos 80 de la Ley de Instituciones d
 
 El Comité Técnico estará integrado por:
 
-I. Presidente Propietario, el Secretario de Desarrollo Agropecuario.
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2015)</small>
+
+I. Presidente Propietario, el Secretario del Medio Ambiente.
 
 II. Presidente Suplente, el Director General de PROBOSQUE.
 
@@ -103,9 +107,13 @@ III. Secretario Técnico, el Director de Administración y Finanzas de PROBOSQUE
 
 IV. Vocal, el representante de la Secretaría de Finanzas.
 
-V. Vocal, el representante de la Secretaría del Medio Ambiente.
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Vocal, el representante de la Secretaría del Agua y Obra Pública.
+V. Vocal, el representante de la Secretaría de Desarrollo Agropecuario.
+
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Vocal, el representante de la Secretaría de Infraestructura.
 
 VII. Vocal, el representante del Organismo Público Descentralizado de carácter Estatal denominado PROBOSQUE.
 
@@ -117,7 +125,9 @@ X. Vocal, el representante de los municipios que no cuentan con organismo descen
 
 XI. Vocal, el representante del Organo Desconcentrado de carácter Federal denominado Comisión Nacional Forestal (CONAFOR).
 
-XII. Comisario, el representante del Organo de Control Interno de la Secretaría de Desarrollo Agropecuario.
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Comisario, el representante del Órgano de Control Interno de la Secretaría del Medio Ambiente.
 
 ###### Artículo 8.
 
@@ -229,9 +239,11 @@ V. Presentar semestralmente al pleno del Comité el informe de actividades reali
 
 VI. Las demás que expresamente le asigne el Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México y el presente reglamento.
 
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-El presidente durará en el cargo, mientras permanezca en el cargo titular de la Secretaría de Desarrollo Agropecuario.
+El presidente durará en el cargo, mientras permanezca en el cargo el Titular de la Secretaría a la que se encuentre adscrita la Protectora de Bosques del Estado de México.
 
 ### CAPITULO VII. DEL SECRETARIO TECNICO
 
@@ -424,3 +436,9 @@ Ing. Gerardo Arturo García Tenorio
 Director de Administración y Finanzas de PROBOSQUE y Secretario Técnico del FIPASAHEM
 
 (Rúbrica).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 4 DE SEPTIEMBRE DE 2015.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
