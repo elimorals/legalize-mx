@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2015-05-22"
+last_updated: "2015-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3937,8 +3937,6 @@ Tipo y punibilidad.- Se impondrá prisión de uno a seis años y de cien a tresc
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
-
 ###### Artículo 319.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a seis años y cien a trescientos días multa, al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho, con el propósito de obtener un beneficio indebido o lesionar la dignidad o respeto de la corporación o de la investidura que correspondan aquellos.
@@ -4239,219 +4237,67 @@ Artículo 342 QUINQUIES.- Se exceptúan de las disposiciones de este capítulo, 
 
 Asimismo, se exceptúa la caza, la pesca, las buenas prácticas pecuarias, las de control animal y salubridad llevadas a cabo por autoridad competente, así como las actividades científicas, de investigación y demás similares, siempre que se realicen en términos de las disposiciones que resulten aplicables.
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-## TITULO SEXTO. DE LOS DELITOS EN MATERIA ELECTORAL
+## TITULO SEXTO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 1992)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 343.
 
-Conceptos.- Para los efectos de este título se entiende por:
-
-I.- Funcionarios Electorales. Quienes en los términos de la Legislación Estatal Electoral integren a los órganos que cumplen funciones públicas electorales;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-II.- Funcionarios Partidistas. Los dirigentes de los partidos políticos y de las agrupaciones políticas, y los ciudadanos a quienes en el curso de los procesos electorales los propios partidos otorguen representación para actuar en el proceso electoral ante los órganos electorales en los términos de la Legislación Estatal Electoral;
-
-III.- Documentos Públicos Electorales. Las actas oficiales de instalación de casillas; de escrutinio y cómputo de las mesas directivas de casilla; de los cómputos distritales y municipales, y en general los documentos expedidos en el ejercicio de sus atribuciones por los órganos del Instituto Estatal Electoral;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
-
-IV.- Organizadores de actos de precampaña o campaña. Las personas que coordinen o dirijan las acciones proselitistas a favor de un precandidato, candidato, partido político o coalición de partidos políticos, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
-
-V.- Candidato. El ciudadano registrado formalmente como tal por la autoridad electoral competente;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
-
-VI.- Precandidato. El ciudadano que en términos de la ley electoral, obtenga su acreditación como tal;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
-
-VII.- Materiales electorales. Los elementos físicos, tales como urnas, canceles o elementos modulares para la emisión del voto, marcadoras de credencial, líquido indeleble, útiles de escritorio y demás equipamiento autorizado para su utilización en las casillas electorales durante la jornada electoral.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 344.
 
-Suspensión e inhabilitación para ocupar un cargo público.- Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer además de la pena señalada para cada uno, la suspensión del cargo público o la inhabilitación para ocupar uno hasta por tres años.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 345.
 
-Delitos de electores, tipo y punibilidad.- Se impondrá prisión de seis meses a tres años o multa de diez a cien días, a criterio del Juez, a quien:
-
-I.- Vote a sabiendas de que no cumple con los requisitos de Ley;
-
-II.- Vote más de una vez en una misma elección;
-
-III.- Vote con una credencial de la que no sea titular;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-IV. Presione a los electores en el interior de las casillas o en el lugar donde se encuentren formados los votantes, con el fin de inducir el sentido de su voto o de que se abstengan de emitirlo o realice actividades de campaña electoral dentro de los tres días previos al de la elección o el día de la jornada electoral;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-V. El día de la elección organice la reunión o traslado de votantes con el objeto de influir en el sentido de su voto;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-VI.- Obstaculice, interfiera o impida dolosamente el desarrollo normal de las votaciones, el escrutinio y el cómputo, el traslado o entrega de los paquetes, documentación o material electoral, o en su caso, el adecuado ejercicio de las tareas de los funcionarios electorales;
-
-VII.- Se presente en una casilla electoral portando armas;
-
-VIII.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2006)
-
-IX.- Viole el secreto del voto obligando a los electores el día de la jornada electoral, a manifestar el sentido del mismo;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-X. Obstaculice, interfiera o impida dolosamente que una casilla electoral se instale o clausure conforme a la ley;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-XI.- Obtenga o solicite declaración firmada del elector acerca de su intención, sentido o para comprometer el voto;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-XII.- Solicite votos por pago, promesa de dinero o de otra recompensa, o que mediante violencia obligue a otros a votar a favor de determinado partido político, coalición o candidato, o a abstenerse de hacerlo;
-
-XIII.- A quien usurpe el carácter de funcionario de casilla;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
-
-XIV.- Viole sellos colocados en los documentos públicos electorales o en los lugares donde resguarden estos o materiales electorales;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE OCTUBRE DE 2006)</small>
-
-XV. Durante las campañas electorales, se apodere, destruya, retire, borre, suprima, oculte o distorsione la propaganda política impresa de partidos políticos, coaliciones o candidatos, colocadas en los lugares autorizados por las disposiciones legales o por los acuerdos tomados por las autoridades electorales competentes.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 346.
 
-Delitos de funcionarios electorales.- Tipo y punibilidad.- Se impondrá prisión de dos a seis años y multa de cincuenta a doscientos días al funcionario electoral que:
-
-I.- Falsifique, altere en cualquier forma, sustraiga, sustituya, destruya o haga uso indebido de documentos relativos al Registro Estatal de Electores;
-
-II.- Al que se niegue o abstenga de cumplir sin causa justificada con las funciones señaladas en la ley, en perjuicio del proceso;
-
-III.- Obstaculice o interfiera con actos u omisiones el desarrollo normal de la votación sin mediar causa justificada;
-
-IV.- Durante el proceso electoral altere los resultados electorales, o sustraiga o destruya boletas o documentos electorales;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-V.- No entregue o impida la entrega oportuna de paquetes, documentos o material electoral, sin mediar causa justificada;
-
-VI.- Impida sin causa justificada el desarrollo normal de las votaciones, del escrutinio o del cómputo;
-
-VII.- Con actos u omisiones dolosos motiven la instalación, apertura o cierre de una o varias casillas fuera del lugar, tiempo y forma previstos por la Ley;
-
-VIII.- Expulse de la casilla electoral sin causa justificada al representante de un partido político o coarte los derechos que la Ley le concede;
-
-IX.- Entregue boletas electorales a quien no exhiba su credencial de elector expedida por el Registro Estatal de Electores o no aparezca inscrito en la lista nominal de electores con imagen;
-
-X.- Se niegue a entregar boletas electorales a quien legalmente reúna los requisitos para poder votar;
-
-XI.- Conociendo la existencia de actividades que atenten contra la libertad y el secreto del voto, en un proceso electoral en el que deba intervenir, no tome las medidas conducentes para que cesen;
-
-XII.- Permita o tolere a sabiendas, que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas ilícitamente una o más boletas electorales; o
-
-XIII.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2006)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 347.
 
-Delitos de funcionarios partidistas, candidatos y organizadores de actos de campaña. Tipo y punibilidad.- Se impondrá prisión de uno a seis años y multa de cien a doscientos días al funcionario partidista, candidato, o al organizador de actos de campaña que:
-
-I.- Presione a los electores en el interior de las casillas o en el lugar donde se encuentren formados los votantes, con el fin de inducir el sentido de su voto o de que se abstengan de emitirlo, o realice actividades de campaña electoral dentro de los tres días previos al de la elección o el día de la jornada electoral.
-
-II.- Sustraiga, destruya, altere o haga uso indebido de paquetes, documentos o materiales electorales;
-
-III.- Obstaculice, interfiera o impida dolosamente el desarrollo normal de la votación, el escrutinio y el cómputo, el traslado o entrega de los paquetes, documentación o material electoral, sin mediar causa justificada, o con ese fin amenace o ejerza violencia física o moral sobre los funcionarios electorales;
-
-IV.- Simule un acto jurídico o falsifique un escrito relacionado con el proceso electoral;
-
-V. Propague dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
-
-VI.- Impida con violencia la instalación, la apertura, el cierre de una casilla, o la abra o cierre fuera de los tiempos previstos por la Ley.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 348.
 
-Delitos de servidores públicos. Tipo y punibilidad.- Se impondrán prisión de cuatro a seis años, y destitución del cargo, e inhabilitación para ocupar cualquier otro cargo público hasta por diez años, al servidor público por designación que:
-
-I.- Obligue a sus subordinados a emitir su voto en favor de un partido político o candidato;
-
-II.- Directamente o por instrucciones dadas a personas bajo su dependencia jerárquica, intenten obtener los sufragios de los electores en favor de una candidatura determinada o inducirlos a la abstención;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-III.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político, coalición o candidato; o
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
-
-IV.- En tratándose de servicios públicos por designación, indebidamente utilice su tiempo hábil de trabajo o destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo, al apoyo de un partido político, coalición o candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione este apoyo a través de sí mismo o de su subordinados, usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 349.
 
-Delitos de candidatos electos. Tipo y punibilidad.- Se impondrá inhabilitación hasta por tres años a quienes habiendo sido electos a diputados, munícipes o gobernador, no se presenten sin causa justificada a desempeñar sus funciones dentro del plazo previsto para el efecto.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 350.
 
-(DEROGADO, P.O. 16 DE OCTUBRE DE 2006)
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 16 DE OCTUBRE DE 2006) (REPUBLICADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 351.
 
-Casos especiales.- Se impondrá prisión de tres meses a cinco años y multa de treinta a ciento cincuenta días a:
-
-I.- (DEROGADA, P.O. 16 DE OCTUBRE DE 2006)
-
-II.- Los funcionarios judiciales que se abstengan de comunicar a las autoridades electorales sus resoluciones que impongan suspensión o pérdida de derechos políticos;
-
-III.- El funcionario municipal o estatal que no preste injustificadamente y con la oportunidad debida, la ayuda solicitada por las autoridades electorales.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 352.
 
-Agravación de la penalidad.- Se impondrán tres años de prisión y hasta quinientos días multa, además de la destitución de su cargo e inhabilitación hasta por tres años para ocupar otro, a todo servidor público que de cualquier manera impida indebidamente la reunión de una asamblea, una manifestación pública a cualquier otro acto legal de propaganda electoral.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 353.
 
-Ministros de cultos religiosos.- Se impondrá prisión de dos a seis años y multa de cincuenta a doscientos días, a los Ministros de Culto, asociaciones, iglesias o agrupaciones de cualquier religión o secta, que por cualquier medio en el desarrollo de actos propios de su ministerio, en un proceso electoral, induzcan al electorado a votar en favor o en contra de un candidato o partido político o a la abstención.
-
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 354.
 
-Notarios públicos.- Se impondrá prisión de seis meses a tres años y multa de diez a cien días a los notarios públicos o a los que desempeñen sus funciones por ministerio de ley que sin causa justificada se nieguen a dar fe de los actos en que deben intervenir en los términos de la ley.
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2006)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 355.
 
-Funcionarios partidistas, precandidatos, candidatos, y organizadores de actos de precampaña o campaña.- Se impondrá prisión de cuatro a seis años al funcionario partidista, precandidatos, candidatos, y organizadores de actos de precampaña o campaña que a sabiendas, aprovechen ilícitamente fondos, bienes o servicios públicos en los términos de la fracción IV del artículo 348 de este Código.
-
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1995)</small>
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 356.
 
-Introducción, substitución, destrucción o alteración de documentos electorales.- Se impondrán de uno a cinco años de prisión y multa de diez a cien días a quien introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales o destruya o altere boletas o documentos electorales.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -5262,3 +5108,9 @@ P.O. 22 DE MAYO DE 2015.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan a la presente reforma.
+
+P.O. 4 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales en materia electoral que se encuentren en trámite, así como los delitos electorales que se hubieran cometido con anterioridad a la entrada en vigor de la Ley General en Materia de Delitos Electorales, seguirán su curso conforme a la legislación vigente al momento de la comisión de los hechos que les dieron origen.
