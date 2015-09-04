@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-radio-y-television-en-materia-electoral-103645"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-24"
-last_updated: "2014-11-24"
+last_updated: "2015-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-19"
 
 REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 24 de noviembre de 2014.
 
@@ -121,7 +121,9 @@ ACUERDO
 
 PRIMERO. Se aprueba el Reglamento de Radio y Televisión en Materia Electoral, mismo que se anexa al presente Acuerdo como si fuera parte integrante del mismo para todos los efectos legales.
 
-SEGUNDO. Se ordena al Secretario Ejecutivo del Instituto Nacional Electoral a que realice las acciones necesarias para publicar el presente Acuerdo, así como el Reglamento de Radio y Televisión en Materia Electoral en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 4 DE SEPTIEMBRE DE 2015)</small>
+
+SEGUNDO. Se instruye al Secretario Ejecutivo a que implemente las medidas necesarias para la oportuna publicación de este Acuerdo en el Diario Oficial de la Federación.
 
 TERCERO: Se ordena al Secretario Ejecutivo del Instituto Nacional Electoral a publicar en la página del Instituto el presente Acuerdo, el Reglamento de Radio y Televisión en Materia Electoral, así como los siguientes documentos:
 
@@ -1459,6 +1461,8 @@ d) De ser aprobada, la reforma quedará incorporada al texto del presente Reglam
 
 En atención a lo dispuesto por el artículo Séptimo transitorio de la LFT, las disposiciones de este Reglamento que hacen referencia a “concesionarios”, serán aplicables a aquellos sujetos que aún cuenten con permisos para prestar el servicio de radiodifusión.
 
+> <small>N. DE E. VÉASE ACUERDO PRIMERO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL PUBLICADO EN D.O.F. 4 DE SEPTIEMBRE DE 2015 QUE MODIFICA EL TÉRMINO ESTABLECIDO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO INE/CG267/2014, PARA QUE, A MÁS TARDAR EL DOCE DE AGOSTO DE DOS MIL QUINCE, ESTE CONSEJO GENERAL APRUEBE LOS LINEAMIENTOS APLICABLES A LA ENTREGA Y RECEPCIÓN ELECTRÓNICA O SATELITAL DE LAS ÓRDENES DE TRANSMISIÓN Y MATERIALES.</small>
+
 ###### Artículo 2o.
 
 En un plazo que no excederá del 15 de junio de 2015, el Instituto aprobará, por conducto del Consejo y a propuesta del Comité, los Lineamientos aplicables a la entrega y recepción electrónica o satelital de las órdenes de transmisión y materiales, estableciendo los procedimientos, mecanismos y plazos de implementación a los que deberán ajustarse el Instituto, los partidos políticos, candidatos/as independientes, autoridades electorales, así como los concesionarios de radio y televisión.
@@ -1468,3 +1472,13 @@ La entrega y recepción de las órdenes de transmisión y materiales para los Pr
 ###### Artículo 3o.
 
 La implementación de la recepción electrónica de los materiales a la Dirección Ejecutiva será conforme a lo que establezca el Comité.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 4 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO DE ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICA EL TÉRMINO ESTABLECIDO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO INE/CG267/2014 POR EL QUE SE APROBÓ EL REGLAMENTO DE RADIO Y TELEVISIÓN EN MATERIA ELECTORAL.</small>
+
+PRIMERO. Se modifica el término establecido en el Artículo Segundo Transitorio del Reglamento de Radio y Televisión en Materia Electoral para que, a más tardar el doce de agosto de dos mil quince, este Consejo General apruebe los Lineamientos aplicables a la entrega y recepción electrónica o satelital de las órdenes de transmisión y materiales.
+
+SEGUNDO. Se instruye al Secretario Ejecutivo a que implemente las medidas necesarias para la oportuna publicación de este Acuerdo en el Diario Oficial de la Federación.
