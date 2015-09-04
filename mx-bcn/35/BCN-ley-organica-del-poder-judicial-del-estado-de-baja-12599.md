@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2015-06-12"
+last_updated: "2015-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -1639,7 +1639,11 @@ XV.- Desempeñar su labor en estado de embriaguez hacer uso indebido de estupefa
 
 XVI.- Dar el uso inadecuado al equipo de cómputo, electrónico o de cualquier otro que se le facilitare para el desarrollo de sus labores, o que existe en el lugar de su trabajo.
 
-XVII.- Todo incumplimiento de los deberes propios del cargo.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+
+XVII.- Recibir de las partes de un juicio o sus abogados, dinero por concepto de pago de derechos de certificación de copias o copias simples, las cuales deberán pagarse en la caja de la unidad administrativa respectiva, presentando el recibo en el juzgado donde se esté tramitando el asunto.
+
+XVIII.- Todo incumplimiento de los deberes propios del cargo.
 
 ### CAPITULO IV. DE SU PRESIDENTE
 
@@ -1789,7 +1793,7 @@ Las resoluciones dictadas por las autoridades que sustancien el procedimiento di
 
 ###### ARTICULO 150.
 
-La suspensión temporal a que alude la fracción VII del artículo 147 de esta ley, no deberá exceder del plazo de tres meses, salvo que a juicio del Presidente del Consejo de la Judicatura debiera la suspensión subsistir para el debido desahogo de las pruebas, de la investigación, o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento.
+La suspensión temporal a que alude la fracción VII del artículo 147 de esta ley, no deberá exceder del plazo de tres meses, salvo que a juicio del Presidente del Consejo de la Judicatura debiera la suspensión subsistir para el debido desahogo de las pruebas, de la investigación, o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento disciplinario.
 
 ###### ARTICULO 151.
 
@@ -3508,3 +3512,9 @@ Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada par
 P.O. 12 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE SEPTIEMBRE DE 2015.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO: Se derogan todas las disposiciones que contravengan el presente Decreto.
