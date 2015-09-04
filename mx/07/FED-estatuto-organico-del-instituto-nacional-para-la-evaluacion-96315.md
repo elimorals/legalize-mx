@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-evaluacion-963
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-10-22"
-last_updated: "2015-07-29"
+last_updated: "2015-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96315&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2013-10-14"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EVALUACION DE LA EDUCACION
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE SEPTIEMBRE DE 2015 EN LA PRIMERA SECCIÓN DEL DIARIO OFICIAL DE LA FEDERACION, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EVALUACIÓN DE LA EDUCACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL D.O.F DE 4 DE SEPTIEMBRE DE 2015.</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de octubre de 2013.
 
@@ -313,9 +313,9 @@ XI. Designar al servidor público responsable de coordinar la elaboración del i
 
 XII. Autorizar los lineamientos que definan las condiciones laborales y de contratación del personal del Instituto;
 
-> <small>(REFORMADA, D.O.F. 29 DE JULIO DE 2015)</small>
+(REFORMADA, D.O.F. 29 DE JULIO DE 2015) (F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 2015)
 
-XIII. Autorizar los nombramientos, ceses o remociones de los Titulares de Unidad, Coordinador y Directores Generales del Instituto;
+XIII. Autorizar los nombramientos, ceses o remociones de los Titulares de Unidad, Coordinador, Directores Generales del Instituto y Directores del INEE en las Entidades Federativas;
 
 XIV. Aprobar en la primera sesión ordinaria de cada ejercicio fiscal el calendario de las sesiones ordinarias;
 
@@ -1399,11 +1399,11 @@ I. Colaborar en la integración del Programa Estratégico de Desarrollo Instituc
 
 > <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-l. Bis. Dar seguimiento a la implementación del Programa Estratégico de Desarrollo Institucional;
+I. Bis. Dar seguimiento a la implementación del Programa Estratégico de Desarrollo Institucional;
 
 > <small>(ADICIONADA, D.O.F. 29 DE JULIO DE 2015)</small>
 
-l. Ter. Integrar el calendario anual de actividades institucionales;
+I. Ter. Integrar el calendario anual de actividades institucionales;
 
 II. (DEROGADA, D.O.F. 29 DE JULIO DE 2015)
 
