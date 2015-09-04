@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2014-10-21"
+last_updated: "2015-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -5931,13 +5931,9 @@ V. En caso de duda u oposición, la Dirección del Registro Civil, mediante reso
 
 ###### ARTÍCULO 563.
 
-Suplencia del consentimiento para contraer matrimonio.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-Cuando se solicite que el juzgador supla el consentimiento o dispense la edad para que un menor pueda contraer matrimonio, oirá a los interesados en una junta en la que recibirá las pruebas y dictará resolución, levantándose una sola acta con las diligencias. Si la resolución fuere favorable, se expedirá desde luego copia certificada para su presentación al Oficial del Registro Civil; si fuere adversa, sin necesidad de apelación se remitirá el expediente al superior para que, oyendo a los interesados, confirme o revoque la determinación.
-
-Los menores de edad que, deseando contraer matrimonio, necesiten acudir a la autoridad competente para suplir el consentimiento de los que ejercen la patria potestad o la tutela sobre ellos, pueden solicitar su depósito. El juzgador después de levantar una información sobre el particular, oyendo a los menores y a los padres o tutores, en su caso, y sin formalidades especiales, decidirá si decreta o no el depósito.
-
-El juzgador que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar la autorización, sino por justa causa superveniente.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 564.
 
@@ -5945,9 +5941,7 @@ Calificación y dispensa de Impedimento para contraer matrimonio.
 
 Recibida del Oficial del Registro Civil el acta levantada con motivo del impedimento para contraer matrimonio, el juzgador citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios. El procedimiento se hará constar en una sola acta cuando termine en un solo día. La resolución que recaiga será inapelable.
 
-El juzgador dispensará el impedimento de la falta de edad para contraer matrimonio una vez, que se le justifique plenamente la existencia de una causa grave, y el del parentesco de consanguinidad en la línea colateral desigual, una vez que se le demuestren las situaciones emergentes que hagan aconsejable su celebración. La dispensa se acordará en una sola audiencia, y de ser en sentido negativo, podrá hacerse valer la apelación en el efecto devolutivo.
-
-En los casos en que el tutor solicite dispensa para contraer matrimonio con la persona que está bajo su guarda, o si el matrimonio se celebró no obstante la prohibición contenida en el Código Civil, el juzgador, a petición de la autoridad administrativa o de cualquier interesado, nombrará un tutor interino que se encargue de representar al menor, reciba los bienes y los administre mientras se concede la dispensa.
+El juzgador dispensará el impedimento del parentesco de consanguinidad en la línea colateral desigual, una vez que se le demuestren las situaciones emergentes que hagan aconsejable su celebración. La dispensa se acordará en una sola audiencia, y de ser en sentido negativo, podrá hacerse valer la apelación en el efecto devolutivo.
 
 ###### ARTÍCULO 565.
 
@@ -5977,9 +5971,7 @@ Recibida la demanda, el juzgador citará a los cónyuges a una audiencia en la q
 
 ###### ARTÍCULO 567.
 
-Autorización judicial para que los cónyuges menores de edad celebren ciertos contratos.
-
-En los casos previstos por el Código Civil, en los que los cónyuges menores de edad deban solicitar autorización judicial para efectuar determinados negocios jurídicos entre sí, el juzgador recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de la familia o de alguno de ellos y oyendo al Ministerio Público, resolverá lo que proceda.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6107,15 +6099,9 @@ III. Las pruebas que sean necesarias para justificar la solicitud de medidas pro
 
 IV. La Propuesta de convenio de divorcio, que debe contener, por lo menos, los requisitos previstos en el artículo 363 del Código Civil:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
-
 ###### ARTÍCULO 579.
 
-Representación de los menores de edad.
-
-Los cónyuges menores de edad requerirán de un representante legítimo o tutor para intervenir en asuntos de divorcio. La solicitud será suscrita también con la firma del menor y con la huella digital del pulgar derecho del mismo, quien la ratificará en la presencia judicial.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7027,9 +7013,7 @@ La resolución que se pronuncie no es apelable y quedará sin efecto cuando los 
 
 ###### ARTÍCULO 653.
 
-Emancipación por matrimonio.
-
-La emancipación por matrimonio del menor se produce de pleno derecho, sin necesidad de declaración judicial y no puede ser revocada.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 654.
 
@@ -13736,3 +13720,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los matrimonios celebrados antes de la entrada en vigor del presente Decreto, en los que un menor fuese parte, continuarán rigiéndose por las disposiciones aplicables vigentes al momento en que contrajeron nupcias.
+
+TERCERO.- Las solicitudes de matrimonio o trámites de dispensa de edad, que se encuentren pendientes se resolverán de conformidad a lo previsto por las disposiciones vigentes al momento en que fueron presentadas o iniciados.
+
+CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
