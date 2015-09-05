@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2014-10-09"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -59,11 +59,13 @@ El Registro Civil es público, por ello toda persona puede solicitar copias o ex
 
 La certificación es el medio de publicidad de las actas y documentos que obren en los diversos archivos del Registro Civil.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-El Código Civil y el Código de Procedimientos Civiles, ambos del Estado de Jalisco, será norma supletoria de las disposiciones de esta ley.
+Serán norma supletoria de las disposiciones de esta ley la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, el Código Civil y el Código de Procedimientos Civiles, ambos del Estado de Jalisco.
 
 ### CAPITULO II. De la Dirección General del Registro Civil
 
@@ -76,6 +78,12 @@ I. La Dirección General del Registro Civil;
 II. Un oficial jefe del Registro Civil, en cada cabecera municipal; y
 
 III. Las oficialías que sean necesarias para el cumplimiento eficaz de este servicio. El número y la ubicación de las oficialías del Registro Civil se determinará de acuerdo a las circunstancias socioeconómicas del lugar, sus distancias, medios de comunicación y distribución de la población.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+Las autoridades previstas en este artículo atenderán de inmediato las medidas que en el ejercicio de sus funciones dicte la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Artículo 5.
 
@@ -411,15 +419,17 @@ Los apéndices estarán constituidos por todos los documentos relativos al acta 
 
 ### CAPITULO V. De las actas de nacimiento
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-La declaración de nacimiento se hará por el padre, por la madre o ambos, o por persona distinta, en los caso (sic) previstos por la ley, dentro de los ciento ochenta días siguientes a éste. El infante deberá ser presentado ante el Oficial del Registro Civil y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre el infante.
+La declaración de nacimiento se hará por el padre, por la madre o ambos, o por persona distinta, en los casos previstos por la ley, dentro de los ciento ochenta días siguientes a éste.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE FEBRERO DE 2007)</small>
+Para el acto registral deberá ser presentada la niña, niño o adolescente ante el oficial del Registro Civil, y en los casos que circunstancialmente sea necesario, éste acudirá al lugar en que se encuentre aquella; cuando sea por motivos de salud o causa que comprometa la integridad de la persona a registrar, el oficial del Registro Civil se abstendrá de cobrar cantidad alguna por cualquier concepto.
 
-En los casos de registro de niños de padres desconocidos, el término para levantar el acta no será mayor de treinta días.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, con la representación en suplencia, solicitará la expedición de acta de nacimiento en caso de registro extemporáneo y en caso de niñas, niños y adolescentes de padres desconocidos o de persona que ejerza la representación originaria.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -477,23 +487,21 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 Podrá reconocerse al hijo habido de una relación incestuosa. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 49.
 
-Toda persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto o abandonado alguno, deberá presentarlo ante el Agente del Ministerio Público o cualquier otra autoridad, para que ésta de inmediato lo presente al Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados en él. El Agente del Ministerio Público integrará la averiguación previa, dará vista a la Procuraduría Social y pondrá al menor a disposición del Consejo Estatal de Familia o del Hogar Cabañas y remitirá a la mayor brevedad al Agente Social las constancias de la averiguación con la información a la que se refiere el último párrafo del presente artículo, para que éste solicite al Oficial del Registro Civil levante el acta de nacimiento.
+Toda persona que encontrare a alguna niña, niño o adolescente o en cuya casa o propiedad fuere expuesto o abandonado, deberá presentarlo ante el Agente del Ministerio Público o cualquier otra autoridad, para que ésta de inmediato lo presente a la Procuraduría de Protección de Niñas, Niños y Adolescentes, con los vestidos, valores o cualesquiera otros objetos encontrados en la misma. El Agente del Ministerio Público integrará la carpeta de investigación y de inmediato pondrá a la niña, niño o adolescente a disposición de la Procuraduría de Protección de Niñas, Niños y Adolescentes, y remitirá copia de las constancias para que ésta elabore un diagnóstico y un plan de restitución de derechos, y acuerde la expedición del acta de nacimiento, acto al que comparecerá con la representación en suplencia.
 
-La misma obligación tienen los responsables de los reclusorios preventivos, instituciones de readaptación social; asociaciones religiosas y de cualesquiera casas de comunidad, especialmente las de hospitales, sanatorios, casas de maternidad u otros establecimientos similares, respecto de los niños nacidos o expuestos en ellas.
+La misma obligación tienen los responsables de los reclusorios preventivos, instituciones de reinserción social; asociaciones religiosas y de cualesquiera casas de comunidad, especialmente las de hospitales, sanatorios, casas de maternidad u otros establecimientos similares, respecto de niñas, niños y adolescentes nacidos o expuestos en ellas.
+
+Previo a la expedición del acta de nacimiento, la Procuraduría de Protección de Niñas, Niños y Adolescentes deberá realizar la búsqueda y localización de los padres, a fin de agotar la posibilidad de registrar a la niña, niño o adolescente con los apellidos de sus padres, así como de reintegrarla a la brevedad posible a su seno familiar; para ello, solicitará el auxilio a las autoridades administrativas, y levantará la constancia correspondiente dentro de los primeros sesenta días.
 
 En caso de que posteriormente los padres aparecieran, se levantará un acta de reconocimiento siguiendo todos los requisitos que marca la ley.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2014)</small>
-
-En caso de que el Ministerio Público, el Agente Social o el Oficial del Registro Civil no cumplan con las obligaciones que les impone el presente artículo, se harán acreedores a las sanciones administrativas que correspondan.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2014)</small>
-
-En todos los casos deberá existir constancia de la búsqueda de los padres por parte del Ministerio Público o de los Sistemas de Desarrollo Integral para la Familia, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres, así como de reintegrarlo a su seno familiar.
+El incumplimiento por las autoridades a las obligaciones que les impone el presente artículo, se sancionará conforme a la legislación en materia de responsabilidad administrativa.
 
 ###### Artículo 50.
 
@@ -691,7 +699,7 @@ II. Un certificado médico en donde el profesional que lo extienda certifique ba
 
 Quáter. El Oficial del Registro Civil levantará el acta de tutela voluntaria, en la cual se hará constar:
 
-l. El nombre y demás generales del interesado en designar la tutela voluntaria;
+I. El nombre y demás generales del interesado en designar la tutela voluntaria;
 
 II. El nombre, apellidos, edad, profesión y domicilio del tutor y del curado (sic);
 
@@ -745,11 +753,17 @@ Este escrito deberá ser firmado por los solicitantes y si alguno no puede o no 
 
 A la solicitud a que se refiere el artículo anterior se acompañará:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Copia certificada del acta de nacimiento de los pretendientes, identificación idónea o en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar sus nombres, nacionalidad, fecha y lugar de nacimiento;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-II. Tratándose de menores, la constancia de que otorgan su consentimiento para que el matrimonio se celebre, las personas que ejerzan sobre los mismos la patria potestad o quien legalmente deba otorgar dicho consentimiento;
+I. Copia certificada del acta de nacimiento de los pretendientes, para acreditar la mayoría de edad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+II. Identificación idónea o en su defecto cualquier otro medio de prueba que señale el Código Civil, para acreditar sus nombres, nacionalidad, fecha y lugar de nacimiento;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -759,7 +773,11 @@ III. La declaración de dos testigos mayores de edad que conozcan a los pretendi
 
 IV. Un certificado médico en el que conste el resultado del análisis practicado por el laboratorio de instituciones de salud pública, o laboratorios privados, en donde el médico que lo extienda asegure bajo protesta de decir verdad, haber examinado a los pretendientes y deducir de dicho examen que no padecen Síndrome de Inmuno Deficiencia Adquirida, enfermedades contagiosas, hereditarias ni, en general, enfermedad alguna o deformaciones físicas que constituyan un impedimento para el matrimonio. En los lugares en donde no existan médicos titulados, el certificado será extendido por las personas que dirijan los servicios de salud pública en la localidad. Para los indigentes, tienen la obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de salud;
 
-V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio, con la excepción de aquellos que opten por la sociedad legal, ya que éstos al manifestar dicha opción consciente y deliberadamente, sólo indicarán cuál de los dos tendrá la administración de los bienes o si la realizarán ambos. En el convenio en su caso se expresará, con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuya autorización previa es necesaria para la celebración del matrimonio. No puede dejarse de presentar ese convenio, ni aun a pretexto de que los pretendientes carecen de bienes, dado que en tal caso, el mismo deberá versar sobre los bienes que adquieran durante el matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+V. El convenio que los pretendientes deberán celebrar con relación a los bienes presentes y a los que adquieran durante el matrimonio, con la excepción de aquellos que opten por la sociedad legal, ya que estos al manifestar dicha opción consciente y deliberadamente, sólo indicarán cuál de los dos tendrá la administración de los bienes o si la realizarán ambos. En el convenio en su caso se expresará, con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o de separación de bienes. No puede dejarse de presentar ese convenio, ni aun a pretexto de que los pretendientes carecen de bienes, dado que en tal caso, el mismo deberá versar sobre los bienes que adquieran durante el matrimonio.
 
 Si fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de la misma;
 
@@ -769,9 +787,11 @@ VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los contra
 
 VII. Copia certificada de la resolución que decrete la dispensa judicial de impedimento si los hubo;
 
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII. Constancia expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, en el cual se acredite que el hombre y la mujer recibieron el curso prematrimonial, previsto en el artículo 267 bis del Código Civil;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Constancia expedida del curso prematrimonial, previsto en el Código Civil; y
 
 > <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
 
@@ -781,11 +801,13 @@ IX. Copia simple de la Cartilla Nacional de Salud de la Mujer.
 
 Cuando los pretendientes no sepan escribir, la solicitud y el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlos el oficial del Registro Civil, con los datos que los mismos interesados le manifiesten. En la misma forma se tomará razón de lo declarado por los testigos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 84.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que reúna los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deban otorgar su consentimiento, firmen ante él, debiendo estos últimos presentar identificación idónea, dejando copia de la misma.
+El oficial del Registro Civil a quien se presente una solicitud de matrimonio que reúna los requisitos enumerados en los artículos anteriores, hará que los pretendientes firmen ante él, debiendo estos últimos presentar identificación idónea, dejando copia de la misma.
 
 Las declaraciones de los testigos a que se refiere la fracción III del artículo 82 de esta ley, serán ratificadas bajo protesta de decir verdad ante el mismo oficial del Registro Civil, quien cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
@@ -1460,3 +1482,39 @@ P.O. 8 DE FEBRERO DE 2014.
 P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.
+
+TERCERO. El titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.
+
+CUARTO. El Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.
+
+QUINTO. Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.
+
+SEXTO. Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.
+
+En todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.
+
+SÉPTIMO. El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.
+
+OCTAVO. El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.
+
+DÉCIMO. Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero transitorio del presente Decreto.
+
+DÉCIMO PRIMERO. Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.
+
+DÉCIMO SEGUNDO. Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.
+
+DÉCIMO TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el artículo 46 del Código de Asistencia Social del Estado de Jalisco.
+
+DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
+
+DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
