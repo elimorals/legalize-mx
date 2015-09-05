@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2012-02-23"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE SEPTIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -192,6 +194,38 @@ IV. Los demás a los que las leyes les asignen este carácter.
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
 ARTICULO 9° BIS. Los bienes muebles destinados al servicio público, que por sus características físicas o mecánicas, sean considerados inservibles o inadecuados para la prestación del servicio correspondiente, sólo podrán enajenarse con fines de reciclaje.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 9° TER. El Ejecutivo del Estado, y los municipios, por conducto de la dependencia que corresponda, deberán llevar un padrón y registro de la propiedad inmobiliaria, con la finalidad de tener un control interno de los bienes del dominio público o privado que se encuentren dentro de su patrimonio, los que deberán ser organizados, clasificados y registrados en el Registro Público de la Propiedad y el Catastro del Estado.
+
+La clasificación y registro de los bienes inmuebles del dominio público o privado se llevará de conformidad con lo que establece la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, y las demás disposiciones administrativas y contables aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 9° QUÁTER. Se inscribirán en el padrón de la propiedad inmobiliaria, y deberán ser inscritos en el Registro Público de la Propiedad y el Catastro del Estado, los siguientes:
+
+I. Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Estado y a los municipios, sobre bienes inmuebles;
+
+II. Las resoluciones judiciales definitivas que produzcan alguno de los efectos de la fracción I de este artículo;
+
+III. Las resoluciones expropiatorias que constituyan derechos a favor del Estado;
+
+IV. Los decretos que desafecten bienes inmuebles del dominio público del Estado y los municipios;
+
+V. Los títulos por los que se otorgue la concesión de los bienes inmuebles del dominio público del Estado y municipios, así como la extinción de los mismos;
+
+VI. Los bienes inmuebles que regresen al pleno dominio del Estado y municipios, con motivo de la reversión;
+
+VII. Los bienes inmuebles del Estado y municipios que, por su naturaleza, se consideren inalienables, inembargables e imprescriptibles;
+
+VIII. Los contratos de arrendamiento de bienes inmuebles por más de seis años; y aquéllos en que haya anticipos de rentas por más de tres años, y
+
+IX. Los demás títulos que se equiparen a los anteriores.
 
 ### CAPITULO IV. Régimen Jurídico de los Bienes de Dominio Público del Estado y Municipios
 
@@ -614,3 +648,9 @@ P.O. 23 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
