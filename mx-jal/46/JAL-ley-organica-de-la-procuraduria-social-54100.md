@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2014-11-25"
+last_updated: "2015-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -71,9 +71,11 @@ a) Representar a la sociedad en los procedimientos de orden e interés público;
 
 b) Procurar la legalidad en los asuntos del orden familiar y civil;
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c) Representar y tutelar los derechos e intereses de las personas menores de edad, incapaces, ausentes, e ignorados;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+c) Representar y tutelar los derechos e intereses de las personas incapaces, ausentes e ignorados.
 
 d) (DEROGADO, P.O. 7 DE FEBRERO DE 2009)
 
@@ -81,15 +83,19 @@ e) (DEROGADO, P.O. 7 DE FEBRERO DE 2009)
 
 f) Recibir los avisos que presenten los notarios públicos, en relación con el otorgamiento de testamentos y rendir informes de los mismos, cuando les sean solicitados por autoridad competente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 III. En materia de servicios jurídicos asistenciales:
 
-a) Proporcionar asistencia jurídica gratuita a personas de escasos recursos y de grupos vulnerables en los términos del Código de Asistencia Social;
+a) Proporcionar asistencia jurídica gratuita a personas de escasos recursos y de grupos en condición de vulnerabilidad en los términos del Código de Asistencia Social;
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+b) Desempeñar las funciones de conciliación o mediación para la solución de conflictos entre las partes que los soliciten, en los términos de la ley en materia de justicia alternativa;
 
-b) Desempeñar las funciones de conciliación o mediación para la solución de conflictos entre las partes que los soliciten, en los términos de la ley en materia de justicia alternativa; y
+c) Representar y tutelar los derechos e intereses de las personas incapaces mayores de edad, ausentes e ignorados; y
 
-c) Las demás que establezcan las leyes.
+d) Las demás que establezcan las leyes;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -419,9 +425,11 @@ I. Representar a la sociedad en los procedimientos de orden e interés público;
 
 II. Procurar la legalidad en la impartición de justicia en los asuntos en que intervenga en su carácter de representante social;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Representar y tutelar los derechos e intereses de las personas menores de edad, incapaces, ausentes e ignorados en los procedimientos jurisdiccionales en que sean parte, llevando un registro para tales efectos;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+III. Vigilar y procurar el respeto y pleno ejercicio de los derechos e intereses de las personas incapaces, ausentes e ignoradas en los procedimientos jurisdiccionales en que sean parte, llevando un registro para tales efectos;
 
 IV. (DEROGADA, P.O. 7 DE FEBRERO DE 2009) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 2014);
 
@@ -429,17 +437,21 @@ IV. (DEROGADA, P.O. 7 DE FEBRERO DE 2009) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 
 
 V. Recibir los avisos que presenten los notarios públicos, en relación con el otorgamiento de testamentos y rendir informes de los mismos, cuando les sean solicitados por autoridad competente;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Otorgar asesoría y asistencia legal gratuita a las niñas, niños y adolescentes y a sus representantes legales para la defensa y protección de sus derechos; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Las demás que les confieran los ordenamientos legales aplicables.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-VI. Otorgar asesoría y asistencia legal gratuita a las personas menores de edad y a sus representantes legales para la defensa y protección de sus derechos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-VII. Aplicar las sanciones establecidas en la Ley de los Derechos de las Niñas, los Niños y Adolescentes en el Estado de Jalisco; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-VIII. Las demás que les confieran los ordenamientos legales aplicables.
+VIII. Las demás que les confieran los ordenamientos legales aplicables (sic).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2009)</small>
 
@@ -926,3 +938,39 @@ P.O. 25 DE NOVIEMBRE DE 2014.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3° Y 18 DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.
+
+TERCERO. El titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.
+
+CUARTO. El Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.
+
+QUINTO. Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.
+
+SEXTO. Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.
+
+En todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.
+
+SÉPTIMO. El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.
+
+OCTAVO. El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.
+
+DÉCIMO. Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero transitorio del presente Decreto.
+
+DÉCIMO PRIMERO. Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.
+
+DÉCIMO SEGUNDO. Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.
+
+DÉCIMO TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el artículo 46 del Código de Asistencia Social del Estado de Jalisco.
+
+DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
+
+DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
