@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2015-03-28"
+last_updated: "2015-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -43,61 +43,107 @@ CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
 Las disposiciones de este Código son de orden público e interés social y tienen por objeto:
 
-I. Establecer las bases de un Sistema Estatal de Asistencia Social, que promueva la prestación de los servicios a que se refiere el presente Código, la Ley Estatal de Salud, los Códigos Civil y de Procedimientos Civiles de nuestro Estado y los demás ordenamientos aplicables;
+I. Establecer las bases de un Sistema Estatal de Asistencia Social, que promueva la prestación de los servicios a que se refiere la legislación general y estatal aplicable;
 
 II. Coordinar y promover las acciones de los organismos en el Estado que presten los servicios asistenciales;
 
-III. Garantizar la concurrencia y colaboración de los gobiernos federal, estatal y municipales, así como la participación del sector privado, en la prestación de los servicios de asistencia social;
+III. Garantizar la concurrencia y colaboración de los gobiernos federal, estatal y municipal, así como la participación del sector privado, en la prestación de los servicios de asistencia social;
 
 IV. Regular el funcionamiento de las instituciones públicas y privadas que presten servicios asistenciales; y
 
 V. Establecer los lineamientos para apoyar a los sujetos de asistencia social señalados en este ordenamiento.
 
+Serán de aplicación supletoria la Ley de Asistencia Social y la Ley General de los Derechos de Niñas, Niños y Adolescentes; la Ley de los Derechos de Niñas, Niños y Adolescentes, Ley Estatal de Salud, Código Civil, Código de Procedimientos Civiles y Ley para la Operación de Albergues, del Estado de Jalisco.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este Código, se entiende por:
 
-I. Asistencia Social.- Es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+I. Asistencia Social.- Es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas su desarrollo integral, así como la protección física, mental y social de quienes se encuentren en condición de vulnerabilidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación.
 
 II. Asistencia Social Pública.- Son los servicios que promueven y prestan las dependencias e instituciones públicas dedicadas a la asistencia social;
 
-III. Asistencia Social Privada.- Son los servicios que prestan las personas físicas y jurídicas privadas a que se refiere este Código;
+III. Asistencia Social Privada.- Son los servicios que prestan las personas físicas y jurídicas privadas a que se refiere este Código; y
 
 IV. Sistema Estatal.- Es el Sistema Estatal de Asistencia Social del Estado de Jalisco.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-El Gobierno del Estado y los ayuntamientos dentro del ámbito de sus jurisdicciones, reglamentarán, promoverán y prestarán servicios de asistencia social a través de las siguientes instituciones:
+El Gobierno del Estado y los municipios dentro del ámbito de sus competencias, reglamentarán, promoverán y prestarán servicios de asistencia social a través de las siguientes instituciones:
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 I. La Secretaría.- Es la Secretaría de Desarrollo e Integración Social;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 II. Organismo Estatal.- Es el organismo público descentralizado denominado Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Jalisco;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 III. Organismo Municipal.- Es el organismo público descentralizado de cada municipio denominado Sistema Municipal para el Desarrollo Integral de la Familia;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 IV. Instituto.- Es el Instituto Jalisciense de Asistencia Social;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. El Hogar Juan Cruz Ruiz de Cabañas y Crespo, conocido indistintamente con el nombre de Hogar Cabañas, y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+V. El Hogar Juan Cruz Ruiz de Cabañas y Crespo, conocido indistintamente con el nombre de Hogar Cabañas; y
 
-VI. Delegado Personal.- Aquella persona con carácter de auxiliar de Justicia, emanado de la lista de Tutores, Tutrices y Curadores, aprobada por el Consejo de la Judicatura del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+VI. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-VII. Delegado Institucional.- Organismos públicos que tengan por objeto la custodia, tutela y asistencia a la niñez, a los incapaces y a las personas en edad senil; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Aquéllas otras que conforme a la ley se encuentran constituidas o se lleguen a constituir.
+VII. Delegado Institucional.- Son aquellos organismos públicos que tengan por objeto la representación conforme a lo establecido por la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco, tutela y asistencia, a quienes la legislación les reconoce dicho carácter;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Representación Coadyuvante.- El acompañamiento de niñas, niños y adolescentes que realiza la Procuraduría de Protección de Niñas, Niños y Adolescentes en los procedimientos jurisdiccionales y administrativos, sin perjuicio de la intervención que corresponda a la Procuraduría Social; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Aquellas otras que conforme a la ley se encuentran constituidas o se lleguen a constituir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 4.
 
@@ -105,19 +151,13 @@ Para los efectos de este Código se consideran servicios de asistencia social lo
 
 I. La atención a personas que por sus problemas de discapacidad o indigencia, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+II. La atención en centros de asistencia social o albergues, así como en establecimientos especializados de atención a los sujetos de asistencia social de manera prioritaria, previstos en este código;
 
-II. La atención en establecimientos especializados a menores, adultos mayores y discapacitados en estado de abandono, maltrato o que tengan que ver en investigaciones del Ministerio Público o de procedimientos judiciales en los que se pretenda acreditar su estado de abandono o maltrato;
+III. La promoción de bienestar y el desarrollo de acciones para la preparación de personas adultas mayores carentes de recursos;
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+IV. El ejercicio de la tutela de personas incapaces, así como de representación y tutela de niñas, niños y adolescentes en los términos de las disposiciones legales aplicables;
 
-III. La promoción de bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
-
-IV. El ejercicio de la tutela de los menores e incapaces, en los términos de las disposiciones legales aplicables;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2007)</small>
-
-V. La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a menores, adultos mayores, personas con discapacidad, incapaces, indigentes o jefes de familias monoparentales con hijos menores de edad;
+V. La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a niñas, niños y adolescentes, personas adultas mayores, con discapacidad, incapaces, indigentes o jefes de familias monoparentales;
 
 VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -129,39 +169,59 @@ IX. La promoción del desarrollo, el mejoramiento y la integración social y fam
 
 X. Promover e impulsar el desarrollo comunitario en localidades de zonas marginadas;
 
-XI. El fomento de acciones que propicien la preservación de los derechos de los menores y la satisfacción de sus necesidades;
+XI. Las acciones que garanticen el ejercicio de los derechos de niñas, niños y adolescentes y la satisfacción de sus necesidades;
 
 XII. La prestación de servicios de salud a personas sin capacidad económica para hacer frente a dichas necesidades;
 
 XIII. El apoyo con educación y capacitación laboral a los sujetos de asistencia social;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
-
 XIV. La prevención del desamparo, abandono o maltrato; y la protección a los sujetos que la padecen;
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
 XV. Las acciones de apoyo a los migrantes en estado de vulnerabilidad, que transitan por el territorio de la entidad; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2013)</small>
-
 XVI. Los demás servicios que tiendan a atender y complementar el desarrollo de aquellas personas que por sí mismas no pueden satisfacer sus necesidades personales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
 
-Son sujetos de asistencia social, de manera prioritaria, los siguientes:
+Son sujetos de asistencia social de manera prioritaria, los siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006)</small>
+I. Son niñas, niños y adolescentes en condiciones de vulnerabilidad, aquellos que se encuentran en alguno de los siguientes grupos:
 
-I. Menores en estado de abandono, desamparo, desnutrición, maltrato o que tengan que ver en investigaciones del Ministerio Público o de procedimientos judiciales en los que se pretenda acreditar su estado de abandono o maltrato;
+a) De la y en la calle;
 
-II. Alcohólicos y farmacodependientes, cuando por estas causas se encuentren en estado de abandono o indigencia;
+b) Con enfermedades terminales;
 
-III. Mujeres en período de gestación o lactancia, carentes de recursos económicos o maltratadas;
+c) Violentados, maltratados, abusados o explotados;
 
-IV. Senescentes, que se encuentren en estado de desamparo, marginación o maltrato;
+d) Con problemas de adicciones;
+
+e) Con discapacidad;
+
+f) En conflicto con la ley;
+
+g) Hijas e hijos de personas privadas de su libertad;
+
+h) Víctimas de delito;
+
+i) Migrantes separados;
+
+j) Refugiados o desplazados;
+
+k) Las embarazadas o que sean madres,
+
+l) Huérfanos; y
+
+m) Con enfermedades o trastornos mentales;
+
+II. Personas con problemas de alcoholismo u otras adicciones, cuando por estas causas se encuentren en estado de abandono o indigencia;
+
+III. Mujeres en período de gestación o lactancia, carentes de recursos económicos o víctimas de violencia;
+
+IV. Personas adultas mayores que se encuentren en estado de desamparo, marginación o maltrato;
 
 V. Personas con discapacidad en los términos de este ordenamiento;
 
@@ -173,23 +233,13 @@ VIII. Familiares directos, hasta el primer grado, ascendientes, descendientes o 
 
 IX. Las víctimas de la comisión de delitos en estado de abandono;
 
-(REPUBLICADA, P.O. 4 DE ENERO DE 2007)
-
 X. Las personas afectadas por un desastre y que queden en estado de necesidad o desamparo;
-
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
 
 XI. Personas que por alguna enfermedad se encuentren en estado de abandono o indigencia;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
-
 XII. Migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad;
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
-
-XIII. Los jefes de familia monoparentales con hijos menores de edad, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato; y
-
-> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
+XIII. Los jefes de familias monoparentales, carentes de recursos económicos o que se encuentren en estado de desamparo, marginación o maltrato; y
 
 XIV. Las personas que sufran o padezcan algún trastorno o enfermedad mental, siempre y cuando sus ingresos o de la familia o institución a la cual dependan, sean insuficientes para su subsistencia y satisfacer sus necesidades médicas.
 
@@ -237,35 +287,37 @@ IX. Las demás que le otorguen las leyes aplicables.
 
 ### CAPITULO III. De la Coordinación
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 11.
 
-El Titular del Poder Ejecutivo a través de la Secretaría coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal y del Instituto, en el ámbito de sus respectivas competencias. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.
+El Titular del Poder Ejecutivo a través de la Secretaría de Desarrollo e Integración Social coordinará la prestación de servicios de asistencia social, respetando en todo momento el ámbito de competencia que este Código atribuye a los integrantes del Sistema Estatal. El Gobierno del Estado celebrará los convenios o acuerdos necesarios para la coordinación de acciones a nivel estatal o municipal, con la participación del Organismo Estatal y del Instituto, en el ámbito de sus respectivas competencias. Asimismo, celebrará convenios de participación con las entidades y dependencias de la administración pública federal.
+
+Asimismo, participará como integrante del Sistema Nacional de Asistencia Social Pública y Privada, de conformidad a la legislación de la materia.
 
 ###### Artículo 12.
 
 En la prestación de servicios asistenciales, el Organismo Estatal y el Instituto actuarán en coordinación con las dependencias y entidades del Gobierno del Estado y de los Municipios, según la competencia que les otorguen las leyes.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 12 Bis.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-Para la debida coordinación del Sistema Estatal de Asistencia Social, los titulares de la Secretaría, el Instituto, el Organismo Estatal, y el Instituto Cabañas, se reunirán por lo menos cada tres meses a fin de:
+Artículo 12 bis.- Para la debida coordinación del Sistema Estatal de Asistencia Social, los titulares de la Secretaría, el Instituto, el Organismo Estatal, y el Hogar Cabañas, se reunirán por lo menos cada tres meses a fin de:
 
-I. Determinar los criterios generales para la prestación de los servicios de los servicios (sic) de asistencia social pública;
+I. Determinar los criterios generales para la prestación de los servicios de asistencia social pública;
 
 II. Evaluar el desempeño de las instituciones de asistencia social y beneficencia pública del Gobierno del Estado, así como de las instituciones de beneficencia privada, coordinadas por el Instituto Jalisciense de Asistencia Social, y el Sistema para el Desarrollo Integral de la Familia; así como proponer se tomen las medidas necesarias para el logro adecuado de sus objetivos;
 
 III. Elaborar y evaluar anualmente un Programa Estatal de Asistencia Social, siguiendo los lineamientos del Plan Estatal de Desarrollo, así como presentar su respectivo informe;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-IV. Revisar y evaluar la situación de los menores que se encuentren a cargo del Hogar Cabañas, u otros organismos de beneficencia pública o privada, así como los procedimientos de adopción;
+IV. Revisar y evaluar la situación de niñas, niños y adolescentes que se encuentren a cargo del Hogar Cabañas u otros centros de asistencia social o albergues, en familias de acogida o en acogimiento pre-adoptivo, así como los procedimientos de adopción;
 
 V. Revisar y evaluar las acciones aplicadas para el desarrollo integral de los sujetos de la asistencia social previstos en este Código;
 
-VI. Evaluar el Sistema de Información y el Registro Estatal de Asistencia Social; y
+VI. Evaluar el sistema de información y el registro estatal de asistencia social; y
 
 VII. Promover los trabajos de investigación sobre Asistencia Social, a fin de mejorar la prestación de los servicios asistenciales.
 
@@ -329,25 +381,27 @@ VI. Promoverán y gestionarán ante los municipios y demás entes públicos, de 
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y demás funciones que le asigna este Código y las demás disposiciones legales aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 El Organismo Estatal deberá realizar las siguientes funciones:
 
 I. Promover y prestar servicios de asistencia social;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 II. Apoyar el desarrollo integral de la persona, la familia y la comunidad, así como prevenir y atender la violencia intrafamiliar;
 
 III. Promover acciones de apoyo educativo para la integración social y de capacitación para el trabajo a los sujetos de asistencia social en el Estado;
 
-IV. Promover e impulsar el crecimiento físico y psíquico de la niñez y la adolescencia, así como su adecuada integración a la sociedad;
+IV. Promover e impulsar el crecimiento físico y psíquico de niñas, niños y adolescentes, así como su adecuada integración a la sociedad;
 
-V. Promover acciones para el bienestar del senescente, así como para la preparación e incorporación a esta etapa de la vida;
+V. Promover acciones para el bienestar de las personas adultas mayores, así como para la preparación e incorporación a esta etapa de la vida;
 
 VI. Operar establecimientos en beneficio de los sujetos de la asistencia social;
 
-VII. Llevar a cabo acciones en materia de evaluación, calificación, prevención y rehabilitación de las personas con discapacidad, con sujeción a las disposiciones aplicables;
+VII. Llevar a cabo acciones en materia de discapacidad, en los términos de la legislación federal y estatal de la materia;
 
 VIII. Realizar estudios e investigaciones en torno a la asistencia social;
 
@@ -357,57 +411,37 @@ X. Cooperar con el Sistema Estatal de Información en materia de Asistencia Soci
 
 XI. Promover y participar en programas de educación especial;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+XII. Operar la Procuraduría de Protección de Niñas, Niños y Adolescentes, de conformidad a la legislación general y estatal de la materia;
 
-XII. Operar el Consejo Estatal de Familia;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-XIII. Operar el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar; y
-
-> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+XIII. Operar el Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;
 
 XIV. Elaborar el programa e impartir los cursos a que hace referencia el artículo 267 bis del Código Civil del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2004)</small>
-
-El organismo Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades;
-
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2004)</small>
+El Organismo Estatal deberá contar con el número de profesionistas suficientes para impartir los cursos prematrimoniales, en todos los municipios, de acuerdo a las necesidades;
 
 XV. Promover la participación de las familias jaliscienses en el desarrollo de programas públicos relacionados con la vida familiar;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2013)</small>
-
 XVI. Realizar estudios e investigaciones sobre la familia; así como promover acciones a favor de su atención, defensa y protección;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
 
 XVII. Realizar acciones de apoyo para los migrantes en estado de vulnerabilidad que transitan por el territorio de la entidad, en coordinación con autoridades de los tres órdenes de gobierno;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2014)</small>
-
-XVIII. Requerir información a instituciones públicas y privadas sobre asuntos relacionados con la niñez de acuerdo de acuerdo (sic) con la propuesta que les haga el comité Estatal de Seguimiento y Vigilancia de la Aplicación de la Convención sobre los Derechos del Niño; las instituciones éstan obligadas a entregar la información a la brevedad en los términos que el reglamento establezca;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
+XVIII. Requerir información a instituciones públicas y privadas sobre asuntos relacionados con niñas, niños y adolescentes, de acuerdo con la propuesta que les haga el Sistema Estatal de Protección; las instituciones están obligadas a entregar la información a la brevedad en los términos que la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, este Código y su regulación establezcan;
 
 XIX. Dictar las medidas cautelares y providencias precautorias para el caso de una urgencia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
-
-XX. Aprobar recomendaciones y emitir protocolos y acuerdos de aplicación a instituciones públicas estatales y municipales, organismos e instituciones privadas, así como de observancia general en el Estado y sus municipios;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
+XX. Aprobar recomendaciones y emitir protocolos y acuerdos de aplicación e instituciones públicas estatales y municipales, organismos e instituciones privadas, así como de observancia general en el Estado y sus municipios;
 
 XXI. Mandar publicar en el periódico oficial El Estado de Jalisco los protocolos, acuerdos y recomendaciones que sean de aplicación general en el Estado y sus municipios; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MARZO DE 2014)</small>
-
 XXII. Las demás que establezcan las leyes aplicables en la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-La promoción y prestación de servicios asistenciales que realice cada municipio del Estado, podrá realizarse a través del Organismo Municipal, que se encargará de:
+La promoción y prestación de servicios asistenciales que realice cada municipio del Estado, se realizará a través del Organismo Municipal, que se encargará de:
 
 I. Establecer y operar los programas de asistencia social conforme a los lineamientos que emita el Organismo Estatal;
 
@@ -415,7 +449,7 @@ II. Promover la colaboración de los distintos niveles del gobierno en la aporta
 
 III. Fortalecer los proyectos asistenciales mediante el fomento de la participación de las instituciones privadas de cada municipio, para ampliar la cobertura de los beneficios;
 
-IV. Crear y operar el Consejo de Familia dentro de su jurisdicción; y
+IV. Fungir como delegado institucional de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia, de conformidad a la legislación general y estatal aplicable; y
 
 V. Los demás señalados en este Código.
 
@@ -455,6 +489,10 @@ La vigilancia financiera y administrativa, así como la práctica de auditorías
 
 ### CAPITULO III. Organos del Organismo Estatal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 24.
 
 Para el estudio, planeación y despacho de los asuntos que le competen, el Organismo Estatal contará con los siguientes órganos:
@@ -465,9 +503,9 @@ II. La Presidencia de la Junta de Gobierno;
 
 III. La Dirección General;
 
-IV. El Consejo Estatal de Familia; y
+IV. La Procuraduría de Protección de Niñas, Niños y Adolescentes; y
 
-V. Las unidades técnicas y de administración que determinen (sic) la ley, así como las autoridades del mismo organismo y que se autoricen en su presupuesto de egresos.
+V. Las unidades técnicas y de administración que determinen la ley, así como las autoridades del mismo organismo y que se autoricen en su presupuesto de egresos.
 
 #### Sección Primera. De la Junta de Gobierno
 
@@ -541,6 +579,10 @@ IV. Tener cuando menos treinta años de edad al día de su nombramiento; y
 
 V. Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 29.
 
 La Presidencia tendrá las facultades y obligaciones siguientes:
@@ -559,11 +601,9 @@ VI. Nombrar y remover, previo acuerdo con el Gobernador del Estado, al Director 
 
 VII. Convocar a la Junta de Gobierno a sesiones ordinarias y extraordinarias;
 
-VIII. Rendir anualmente el informe general de actividades del Organismo Estatal;
+VIII. Rendir anualmente el informe general de actividades del Organismo Estatal; y
 
-IX. Presidir el Consejo Estatal de Familia; y
-
-X. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+IX. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
 ###### Artículo 30.
 
@@ -601,295 +641,207 @@ VI. Actuar en representación del Organismo Estatal, con facultades generales pa
 
 VII. Las demás que sean necesarias para el ejercicio de sus funciones.
 
-#### Sección Cuarta. Del Consejo Estatal de Familia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección Cuarta. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 33.
 
-El Consejo Estatal de Familia es un órgano de participación ciudadana y desconcentrado del Organismo Estatal, para dar atención y seguimiento a los asuntos que le devienen de las disposiciones contenidas en los Códigos Civil y de Procedimientos Civiles del Estado de Jalisco.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes es la entidad para la efectiva protección y restitución de los derechos de las niñas, niños y adolescentes, y se rige de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, atenderá y dará seguimiento a los asuntos que le devienen en la legislación estatal aplicable.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, guarda y custodia institucional, tutela y asistencia a niñas, niños y adolescentes.
 
-Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia, tutela y asistencia a la niñez, a los incapaces y a las personas en edad senil y a la familia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 34.
 
-El Consejo Estatal de Familia se integrará por:
+Para el cumplimiento de sus atribuciones en asuntos jurisdiccionales y administrativos la Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o a través de delegados institucionales, de conformidad a la legislación de la materia.
 
-I. Un Presidente; que será la persona que desempeñe el cargo de Presidente del Organismo Estatal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Un Secretario Ejecutivo nombrado por el propio Consejo Estatal a propuesta de la presidencia;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-III. Un representante del Hogar Cabañas;
-
-IV. Un representante de alguna institución de asistencia social privada encargada de la custodia de menores en estado de maltrato o abandono, designado por el propio Consejo Estatal a propuesta del instituto;
-
-V. Cinco consejeros ciudadanos que serán designados por el titular del poder ejecutivo, previa convocatoria a la ciudadanía.
-
-De las personas propuestas, se deberán escoger a cinco de ellas que tendrán el carácter de Consejeros titulares, así como a dos suplentes que deberán integrar el Consejo Estatal en ausencias de los titulares, previo llamado que se les haga por el presidente del Consejo Estatal.
-
-Los consejeros ciudadanos durarán en su cargo cuatro años, podrán ser reelectos para un período inmediato.
-
-Los consejeros tendrán una remuneración adecuada e irrenunciable conforme lo permita el presupuesto asignado.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 35.
 
-Para ser integrante del Consejo Estatal de Familia se deberán satisfacer los siguientes requisitos:
+Son facultades de la Procuraduría de Protección de Niñas, Niños y Adolescentes:
 
-I. Ser mexicano en ejercicio de sus derechos;
+I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos la atención médica y psicológica; el seguimiento a las actividades académicas y entorno social y cultural, y la inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
 
-II. Haber residido en el Estado, por lo menos, los tres años anteriores al día del nombramiento;
+II. Ejercer la representación en suplencia de una niña, niño o adolescente, y prestar asesoría jurídica, a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público y a la representación social;
 
-III. Tener vocación de servicio y los conocimientos necesarios para el desempeño del cargo;
+III. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
-IV. Ser de reconocida honorabilidad;
+IV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial o administrativa;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+V. Solicitar medidas para la suspensión de la difusión de información publicada en internet o por cualquier otro medio de comunicación que afecte los derechos humanos o ponga en riesgo objetivamente el sano desarrollo de niñas, niños y adolescentes;
 
-V. Tener cuando menos 30 años de edad el día de su nombramiento; y
+VI. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+VII. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
 
-VI. Para los consejeros ciudadanos, no desempeñar cargo dentro de la administración Pública Federal, Estatal o Municipal a la fecha de su nombramiento.
+VIII. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes; y
+
+IX. Las demás previstas en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, este Código y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 36.
 
-El Consejo Estatal de Familia tiene las siguientes atribuciones:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes solicitará al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, previstas en el Código Nacional de Procedimientos Penales, la Ley General de los Derechos de Niñas, Niños y Adolescentes y la legislación civil, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, e informará al órgano jurisdiccional competente, para que éste se pronuncie sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente, en los términos previstos por la Ley General correspondiente.
 
-I. Las que le asignan las disposiciones contenidas en los Códigos, Civil y de Procedimientos Civiles;
+Asimismo, solicitará la imposición de las medidas de apremio, previstas en la legislación estatal, en caso de incumplimiento de las medidas urgentes de protección.
 
-II. Establecer las políticas y normas técnicas de procedimientos que en el desempeño de sus facultades requieran;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Designar y remover libremente al Secretario Ejecutivo del mismo, a propuesta de su presidencia;
-
-IV. Elaborar su presupuesto anual de ingresos y egresos;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-V. Expedir y modificar su Reglamento Interior;
-
-VI. Acordar los casos en que deba eximirse del cobro de la cuota de recuperación en los negocios en que le corresponda intervenir, previo estudio socioeconómico;
-
-VII. Actuar como árbitro o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-VIII. Aprobar el número, asignación y nombramiento de los delegados; y
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-IX. Vigilar las custodias temporales de menores en proceso de adopción, por sí o a través de los organismos similares en las entidades federativas, de conformidad con los convenios respectivos, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2009)</small>
-
-X. Las demás que les confiera este Código y otros ordenamientos legales aplicables.
-
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 37.
 
-Los requisitos para desempeñar el cargo de Secretario Ejecutivo serán los mismos que para Consejero Ciudadano, además de poseer el título de Abogado o su equivalente, con un ejercicio profesional de cuando menos cinco años anteriores al día de su designación, preferentemente en las áreas de derecho civil, de familia o penal.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes substanciará de manera oficiosa o a petición de parte el procedimiento para la protección integral, asistencia social y, en su caso, restitución de los derechos de niñas, niños y adolescentes, conforme a lo previsto en la legislación de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 38.
 
-Son atribuciones y obligaciones del Secretario Ejecutivo:
+Bajo el principio del interés superior de la niñez, la Procuraduría de Protección de Niñas, Niños y Adolescentes, en los casos que detecte o reciba de restricción y vulneración de derechos de niñas, niños y adolescentes, emitirá un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección.
 
-I. Tener la representación jurídica del Consejo Estatal y actuar siguiendo las instrucciones del mismo;
+Para realizar el diagnóstico a que se refiere el párrafo anterior, cuando exista información sobre posible restricción o vulneración de los mismos, deberá acercarse a la familia o lugares en donde se encuentren niñas, niños y adolescentes.
 
-II. Tener la dirección y representación administrativa del Consejo Estatal, tanto en lo interno como frente a terceros;
+La misma institución prevista en este artículo deberá coordinar la ejecución y dar seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada.
 
-III. Proponer al Consejo Estatal el número y asignación de los delegados y dar cuenta del desempeño profesional de lo (sic) mismos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Vigilar y revisar las actuaciones de los delegados;
-
-V. Tener conjuntamente con la Presidencia del Consejo Estatal y previo acuerdo del mismo, la representación patrimonial;
-
-VI. Proponer al Consejo Estatal las prácticas y políticas generales que se habrán de seguir ante organismos gubernamentales, descentralizados o privados que se relacionen con el Derecho de Familia;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-VII. Promover y fortalecer las relaciones del Consejo Estatal con todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia y asistencia a la niñez, a los incapaces y a las personas en edad senil y a la familia.
-
-VIII. Promover y fomentar estudios sobre las materias de su competencia, a través de foros y publicaciones que tengan tal objeto;
-
-IX. Colaborar en la elaboración de los informes anuales de actividades que el Consejo Estatal de Familia deberá rendir el día treinta de abril de cada año;
-
-X. Resolver en definitiva sobre las inconformidades que por actuación de sus delegados planteen los interesados; y
-
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-XI. Dar fe de las diligencias que se practiquen en el cumplimiento de sus fines;
-
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-XII. Cotejar las copias o testimonios de constancias que se mandaren expedir autorizándolas con su firma y sello correspondiente;
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-XIII. Las demás que sean conferidas por el reglamento interior y otras disposiciones legales aplicables.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-Los Organismos municipales crearán y operarán los Consejos Municipales, y en su caso los intermunicipales de Familia, de acuerdo a la necesidad de la población y las posibilidades de los propios municipios; los cuales tendrán las facultades que les otorgue el presente Código.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, dictará medidas a los oficiales del Registro Civil para la preservación de los derechos de identidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2001)</small>
+Asimismo, solicitará, con la representación en suplencia, a los oficiales del Registro Civil la expedición de acta de nacimiento en los casos de registro extemporáneo y de registro de niñas, niños y adolescentes de padres desconocidos o de persona que ejerza la representación originaria, de conformidad a lo previsto en la Ley del Registro Civil y su regulación.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes cuidará que en los casos que deriven en cambio de apellidos de cualquier niña, niño o adolescente, sea escuchada y tomada en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-El Consejo de Familia de los Organismos Municipales se podrá formar, de la siguiente manera:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes tendrá la representación coadyuvante de manera oficiosa, en todos los actos y procedimientos administrativos y jurisdiccionales en los que intervengan niñas, niños y adolescentes; y ejercerá la representación en suplencia a falta de quienes ejerzan la representación originaria de éstos, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez y a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
-I. El Presidente Municipal respectivo, o su representante;
+Cuando tuviere conocimiento de hechos que se estimen delictivos que afecten a niñas, niños y adolescentes, deberá formular las denuncias ante el Ministerio Público.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. El Presidente del organismo municipal, que tendrá de oficio, el cargo de Presidente del Consejo Municipal;
-
-III. El Director del Organismo Municipal;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-IV. El Secretario Ejecutivo;
-
-V. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE OCTUBRE DE 2009)
-
-VI. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE OCTUBRE DE 2009)
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-VII. Hasta cinco consejeros ciudadanos designados por el presidente del organismo municipal, previa convocatoria a los habitantes del municipio, los cuales deberán de cubrir los requisitos del artículo 35 de este ordenamiento salvo la edad mínima que se fija en 25 años.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-El Consejo Intermunicipal de Familia podrá conformarse con la participación de dos o más municipios colindantes y pertenecientes al mismo partido judicial, y se integra por:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, en coordinación con la Procuraduría de Protección Federal, será la autoridad competente para autorizar, registrar, certificar y supervisar los centros de asistencia social o albergues; en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que estable (sic) la legislación; y colaborar en la integración y sistematización del Registro Estatal de Albergues y del Registro Nacional de Centros de Asistencia Social, en los términos de la legislación general de los Derechos de Niñas, Niños y Adolescentes, y de la legislación para la Operación de Albergues.
 
-I. El Presidente de cada uno de los organismos municipales integrantes;
+Además, será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley de Asistencia Social.
 
-II. El Secretario Ejecutivo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. (REFORMADA [N. DE E. DEROGADA], P.O. 24 DE OCTUBRE DE 2009)
-
-IV. Un Consejero ciudadano por cada uno de los municipios quienes serán designados por el Presidente Municipal, previa convocatoria pública, y los cuales deberán de cubrir los requisitos del artículo 35 del presente ordenamiento.
-
-El Consejo intermunicipal estará presidido por la persona que sea electa por votación del mismo consejo, de entre los Presidentes de los organismos municipales integrantes.
-
-(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-Los consejeros municipales e intermunicipales de familia tendrán, además de las que señalen los respectivos ordenamientos municipales, las siguientes obligaciones y atribuciones:
+La Procuraduría de Protección de Niñas, Niños y Adolescentes recibirá por parte de los centros de asistencia social o albergues el padrón o base de datos de sus residentes con la información de la situación jurídica en la que se encuentren, en los términos previstos en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y la legislación para la Operación de Albergues.
 
-I. Designar y remover libremente a sus empleados y delegados en los términos de ley;
+Asimismo, reportará semestralmente a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
 
-II. Expedir su Reglamento Interior;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Disponer los casos en que deba eximirse del cobro de la cuota de recuperación en los negocios en que le corresponda intervenir, previo estudio socioeconómico;
-
-IV. Actuar como árbitro y/o consejero en cuestiones relativas al Derecho Familiar y al Derecho Sucesorio; y
-
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-V. Regirse por las políticas y normas técnicas de procedimiento establecidas por el Consejo Estatal de Familia;
-
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-VI. Las demás que le confiera este Código, así como los ordenamientos legales aplicables.
-
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
-
-En el Consejo Municipal como en el Intermunicipal, habrá una persona designada por el Consejo Estatal para vigilar las actuaciones de los demás miembros del Consejo y del Secretario Ejecutivo.
-
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 43.
 
-Tanto los Consejos Municipales como los Intermunicipales de Familia contarán con un Secretario Ejecutivo, que será designado por el propio Consejo, en la primera sesión ordinaria, y tendrá las facultades del Secretario Ejecutivo del Consejo Estatal, previstas en el artículo 38 de este Código, en el ámbito de su competencia.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes recibirá de las personas interesadas en adoptar, la solicitud correspondiente y realizará las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción y, en su caso, emitirá el certificado de idoneidad respectivo, en los términos de lo dispuesto por las leyes aplicables, y lineamientos y procedimientos que correspondan.
 
-Para desempeñar el cargo de Secretario Ejecutivo del Consejo Municipal o Intermunicipal, se requieren los requisitos previstos en el artículo 37 de este mismo Código, a excepción de la edad, que será como mínimo de veinticinco años, así como el ejercicio profesional, que será mínimo de tres años.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 44.
 
-En las faltas temporales del Secretario Ejecutivo, de los Consejos de Familia Estatal, Municipal o Intermunicipal, cubrirá su ausencia un Consejero electo para este efecto, en la sesión que al respecto se celebre en el Consejo respectivo.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, y de igual forma para las familias de acogida, de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones legales aplicables.
+
+Coadyuvará con el Sistema Nacional DIF y los Sistemas de las Entidades en la elaboración de los lineamientos y procedimientos para los efectos previstos en el párrafo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 45.
 
-Los Organismos Municipales que por su capacidad económica y administrativa lo requieran, podrán celebrar convenios con el Consejo Estatal de Familia para que éste se haga cargo de las funciones relacionadas con el Consejo Municipal de Familia.
+Cuando la Procuraduría de Protección de Niñas, Niños y Adolescentes autorice la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, deberán dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+Cuando en el seguimiento se constante (sic) que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, iniciará el procedimiento a fin de reincorporarlos al sistema que corresponda y se realizará, en su caso, una nueva asignación.
+
+En caso de que se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, la Procuraduría de Protección de Niñas, Niños y Adolescentes ejercerá las facultades que le otorgan la legislación general y estatal de la materia, y presentará el caso ante el Sistema Estatal DIF para la revocación de la asignación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 46.
 
-Los consejos de familia estatal, municipales o intermunicipales podrán realizar sus funciones a través de delegados personales e institucionales, estos últimos serán públicos.
+Los Sistemas DIF Municipales podrán realizar funciones de delegados institucionales, así como el Hogar Cabañas, en los términos y conforme a las disposiciones de este Código y las normas reglamentarias estatales y municipales respectivas, sin que tal delegación pueda ser ejercida por particulares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 47.
 
-Los delegados personales deberán cumplir para su desempeño los mismos requisitos que se exigen para el Secretario Ejecutivo, salvo la edad mínima que se fija en 25 años y la práctica profesional que se fija en tres años.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 48.
 
-El Consejo Estatal de Familia determinará el número y asignación de los delegados que se requieren para cada uno de los municipios en que está dividido el territorio del Estado.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2009)</small>
-
-El Cargo de delegado personal es compatible con el libre ejercicio profesional.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 49.
 
-Los interesados deberán cubrir los derechos al Consejo Estatal, Municipal o Intermunicipal de Familia, por las cantidades que se fijen en las leyes, así como los honorarios que señalen los aranceles profesionales, para los actos en que intervengan los delegados en representacion del Consejo.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 50.
 
-Para ser acreditado como delegado Institucional público se deberán cubrir los siguientes requisitos:
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-I. Estar inscrito en el Registro Estatal de Asistencia Social;
-
-II. Perseguir fines no lucrativos, en las condiciones y dentro de los límites fijados por el presente ordenamiento;
-
-III. Ser dirigido y administrado por personas cualificadas por su integridad moral y por su formación o experiencia para actuar en el ámbito del Derecho Familiar; y
-
-IV. Estar sometido al control del Consejo Estatal de Familia en cuanto a su funcionamiento y situación financiera;
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
-
-V. Solicitarlo por escrito, motivando el interés de su nombramiento; y acompañando la documentación que sea requerida por el reglamento del Consejo; y
-
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
-
-VI. Los demás requisitos que señale el reglamento.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2009)</small>
-
-Siempre que se cumplan todos los requisitos, el Consejo Estatal otorgará la acreditación dentro de los siguientes 30 días siguientes a la solicitud.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 51.
 
-Los organismos públicos tendrán la calidad de delegados institucionales en los términos que señale la ley.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 52.
 
-La actuación de los delegados en materia judicial se deberá entender de manera unitaria; y tendrán la representación jurídica del Consejo Estatal en todos los actos y procedimientos en los que intervengan dentro del ámbito de su competencia; Cuando tuvieren conocimiento de hechos que estimen delictivos, deberán formular las denuncias ante el Ministerio Público.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 53.
 
-Las actuaciones de los delegados podrán ser impugnadas por quien tenga interés para ello, dentro del término de quince días contados a partir de que tenga conocimiento de las actuaciones, ante el Secretario Ejecutivo del Consejo Municipal, o en su caso, ante el Secretario Ejecutivo del Consejo Estatal de Familia. Este recibida la inconformidad, bajo su responsabilidad, ordenará se rinda por el delegado un informe detallado, junto con las probanzas en las que apoye su actuación; recibido el informe o transcurrido el término fijado para su rendición, el Secretario Ejecutivo deberá resolver, haciendo saber el contenido de su resolución a las partes involucradas; cuando ello sea posible y así se acuerde en la resolución podrán retrotraerse los efectos de las actuaciones de los delegados consideradas ilegítimas.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ## TITULO SEGUNDO. DEL INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL
 
@@ -953,13 +905,17 @@ VII. El importe de las indemnizaciones legales originadas por la comisión de ac
 
 VIII. El producto que se obtenga de la venta en subasta pública de los bienes mostrencos e instrumentos de delitos confiscados y permitidos por la ley, cuando no sean reclamados en el término de un año; con apego a lo que disponga la legislación civil o penal;
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Los productos que por los servicios de guarda y custodia se realicen en la actualidad o que en el futuro establezcan, de aquellos bienes que le sean remitidos en depósito legal por autoridades federales, estatales o municipales.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
+IX. Los productos que por los servicios de resguardo y custodia se realicen en la actualidad o que en el futuro se establezcan, de aquellos bienes que les sean remitidos en depósito legal por autoridades federales, estatales o municipales.
 
 La Secretaría de Planeación, Administración y Finanzas del Gobierno del Estado ejercitará la facultad económica coactiva en contra de los propietarios de dichos bienes puestos en depósito, que adeuden 180 días o más de pensión, sin que sus propietarios o titulares de los derechos hayan tramitado su devolución ante las autoridades competentes, o que habiéndolo realizado, no lo notifique oportunamente al Instituto; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 X. Los demás bienes, derechos e ingresos que obtengan por cualquier título.
 
@@ -1235,7 +1191,7 @@ X. Denunciar ante la autoridad competente a los albaceas, miembros del patronato
 
 XI. Tramitar la disolución de los establecimientos que no cumplan con su objeto o hayan disminuido el capital legado o los capitales y que por sus cuantías, no basten para cumplir la voluntad del fundador;
 
-XII. Impulsar las acciones tendentes (sic) a la satisfacción de las necesidades alimentarias de la población sujeta a la asistencia social en la entidad;
+XII. Impulsar las acciones tendentes a la satisfacción de las necesidades alimentarias de la población sujeta a la asistencia social en la entidad;
 
 XIII. Celebrar convenios y contratos que se consideren necesarios para cumplir con los objetivos de las Instituciones de asistencia social privada, previa autorización del Director General del Instituto;
 
@@ -1267,39 +1223,33 @@ III. Sugerir a la Junta de Gobierno las medidas que juzgue convenientes para mej
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 72.
 
-El Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas, es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de los niños que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.
+El Hogar Juan Cruz Ruiz de Cabañas y Crespo, indistintamente conocido bajo el nombre de Hogar Cabañas, es un organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio que tendrá a su cargo la protección de niñas, niños y adolescentes que carecen de padres o familiares que los sostengan o que teniéndolos se encuentren en situación económica precaria o de abandono.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 73.
 
 El Hogar Cabañas, en ejercicio de sus atribuciones y en cumplimiento de sus fines, tiene las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+I. La asistencia material y educativa a las personas residentes en el Hogar Cabañas en los términos del artículo 439 del Código Civil del Estado, así como la protección y tutela de los mismos;
 
-I. La asistencia material y educativa a los menores albergados en el Hogar Cabañas en los términos del artículo 439 del Código Civil del Estado, así como la protección y tutela de los mismos;
+II. Inculcar en la niñez que se encuentra asilada en el Hogar Cabañas, los principios de solidaridad social;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+III. Fungir como delegado institucional de la Procuraduría de Protección de Niñas, Niños y Adolescentes para los efectos del artículo 40 de este código, respecto de las personas residentes en el Hogar Cabañas que no tengan quien ejerza la representación originaria;
 
-II. Inculcar en la niñez que se encuentra asilada en el Hogar Cabañas los principios de solidaridad social;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-III. Fungir como delegado Institucional del Consejo Estatal de Familia para los efectos del artículo 52 de este código, respecto de los menores albergados en el Hogar Cabañas que no tengan quien ejerza la patria potestad;
-
-IV. Fomentar en los menores, los valores éticos que les permitan desarrollarse plenamente en las condiciones actuales de la vida social;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+IV. Fomentar en las personas residentes, los valores éticos que les permitan desarrollarse plenamente en las condiciones actuales de la vida social;
 
 V. La promoción de toda clase de actividades para obtener recursos destinados al aumento de fondos del Hogar Cabañas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-VI. Conservar y acrecentar el patrimonio del Hogar Cabañas, y
+VI. Conservar y acrecentar el patrimonio del Hogar Cabañas; y
 
 VII. Aceptar o repudiar las herencias, legados y donaciones, rechazándolos cuando impliquen mayores cargas que beneficios.
 
@@ -1367,49 +1317,33 @@ V. Las unidades técnicas y de administración que determinen las autoridades de
 
 #### Sección Primera. De la Junta de Gobierno
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 78.
 
 La Junta de Gobierno es la máxima autoridad del Hogar Cabañas y se integra por un máximo de diecisiete miembros y estará conformada por:
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1998)</small>
-
 I. Un Presidente;
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 II. Un Secretario Ejecutivo; y
 
-> <small>(REFORMADA, P.O. 21 DE JULIO DE 1998)</small>
-
 III. Hasta 15 Consejeros.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
 El Presidente será designado por el Titular del Poder Ejecutivo del Estado; así mismo, también podrá designar hasta ocho Consejeros, entre los cuales se deberán de encontrar los siguientes:
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2015)</small>
-
 a) Los titulares de la Secretaría, de la Secretaría de Educación y de la Procuraduría Social, o sus respectivos representantes;
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 b) El Director General del Hogar Cabañas;
 
-c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de menores, con mayor mérito, inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social;
+c) Un representante de alguna institución de asistencia social privada dedicada a la atención y protección de niñas, niños y adolescentes, con mayor mérito, inscrita, reconocida y propuesta por el Instituto Jalisciense de Asistencia Social; y
 
-d) Hasta tres Consejeros que el Titular del Poder Ejecutivo considere necesarios para la integración de la Junta de Gobierno.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+d) Hasta tres Consejeros que el Titular del Poder Ejecutivo considere necesarios para la integración de la Junta de Gobierno
 
 Siete consejeros serán nombrados por el Hogar Cabañas a propuesta de su Dirección General.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
 Los miembros nombrados deberán haberse significado por su inclinación y vocación al servicio de la comunidad, así como su probada y reconocida honorabilidad.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 Los cargos de consejeros a que se refiere el presente artículo serán honoríficos; sus titulares no recibirán remuneración alguna, con excepción de los previstos en la fracción II, y el inciso b) del presente artículo, que percibirán los emolumentos señalados en el presupuesto de egresos del propio Hogar Cabañas.
 
@@ -1419,23 +1353,37 @@ Los cargos de consejeros a que se refiere el presente artículo serán honorífi
 
 Las sesiones de la Junta de Gobierno se llevarán a cabo en las instalaciones del Hogar Cabañas, previa convocatoria de su Presidente, pudiendo ser ordinarias o extraordinarias. Ambas deberán celebrarse en la fecha señalada por la convocatoria respectiva, debiendo las ordinarias celebrarse una vez al mes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 80.
 
 Serán facultades de la Junta de Gobierno las siguientes:
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Hogar Cabañas para que sólo ingresen aquéllos menores cuya situación económica o moral así lo amerite;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+I. Realizar en todo caso investigación socioeconómica a los familiares solicitantes de los servicios del Hogar Cabañas para que sólo ingresen aquellas niñas, niños y adolescentes cuya situación económica o moral así lo amerite;
 
-II. Previo el estudio específico en cada caso, procurar a los albergados un hogar familiar por medio de la adopción o de custodias temporales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Proponer las medidas que tiendan a mejorar el tratamiento integral de los albergados, con el máximo rendimiento de sus recursos económicos;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+II. Previo el estudio específico en cada caso, procurar a las personas residentes un hogar familiar por medio de la adopción o de custodias temporales;
 
-IV. Estudiar y adoptar las medidas necesarias para que los menores albergados que están por terminar su estancia en el Hogar Cabañas, puedan bastarse a sí mismos y sean capaces de formar su propio hogar;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+III. Proponer las medidas que tiendan a mejorar el tratamiento integral de las personas residentes, con el máximo rendimiento de sus recursos económicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Estudiar y adoptar las medidas necesarias para que las personas residentes que están por terminar su estancia en el Hogar Cabañas, puedan bastarse a sí mismos y sean capaces de formar su propio hogar;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -1553,7 +1501,9 @@ IV. Tener cuando menos treinta años de edad el día de su nombramiento; y
 
 V. Ser de reconocida honorabilidad y tener vocación de servicio social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 85.
 
@@ -1585,11 +1535,17 @@ VII. Promover y gestionar ante toda clase de autoridades, personas físicas o ju
 
 VIII. Promover ante el Patronato las medidas que considere convenientes para mayor rendimiento del patrimonio del Hogar Cabañas;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. Cuidar que se conserve el orden en los diferentes departamentos del Hogar Cabañas, y de que todos los empleados y albergados cumplan con sus obligaciones;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-X. Vigilar que los alimentos sean sanos y suficientes y que no falte ropa ni ningún otro bien indispensable a los albergados;
+IX. Cuidar que se conserve el orden en los diferentes departamentos del Hogar Cabañas, y de que todos los empleados y personas residentes cumplan con sus obligaciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+X. Vigilar que los alimentos sean sanos y suficientes y que no falte ropa ni ningún otro bien indispensable a las personas residentes;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -1601,11 +1557,23 @@ XII. Vigilar que se observe la más estricta moralidad en los departamentos;
 
 XIII. Vigilar la comercialización de los artículos elaborados en el Hogar Cabañas;
 
-XIV. Imponer medidas disciplinarias a los albergados;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XV. Permitir a los albergados que visiten a sus familiares siempre que ello, no sea en perjuicio de su educación;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Asignar a los albergados quehaceres que tiendan al logro de su mejor educación.;
+XIV. Imponer medidas disciplinarias a las personas residentes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Permitir a las personas residentes que visiten a sus familiares siempre que ello, no sea en perjuicio de su educación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Asignar a las personas residentes quehaceres que tiendan al logro de su mejor educación.;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
 
@@ -3241,7 +3209,7 @@ Cuarto.- Para la debida integración y estructura de la Secretaría de Desarroll
 
 Quinto.- En el proceso de creación e instalación de la Secretaría de Desarrollo Humano, se preservarán íntegramente los derechos laborales de los servidores públicos que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
-Sexto.- Se autoriza a la Secretaría General de Gobierno, de Finanzas y de Administración para que determinen los recursos humanos, materiales y financieros que tengan (sic) asignados la subsecretaría de Participación Social, que deban pasar a formar parte de la Secretaría de Desarrollo Humano y a que realicen los trámites que correspondan para transferirlos.
+Sexto.- Se autoriza a la Secretaría General de Gobierno, de Finanzas y de Administración para que determinen los recursos humanos, materiales y financieros que tengan asignados la subsecretaría de Participación Social, que deban pasar a formar parte de la Secretaría de Desarrollo Humano y a que realicen los trámites que correspondan para transferirlos.
 
 Séptimo.- Los asuntos que correspondan y que se estén tramitando en la Subsecretaría de Participación Social a la fecha de entrada en vigor del presente Decreto, y que se acuerde en los términos del artículo octavo transitorio, serán asumidos por la Secretaría de Desarrollo Humano, así mismo la Subsecretaría de Participación Social, se subroga respecto de dichos asuntos, todos los derechos y obligaciones que hasta la fecha haya contraído la Secretaría General de Gobierno por conducto de la referida Subsecretaría.
 
@@ -3386,3 +3354,39 @@ P.O. 2 DE DICIEMBRE DE 2014.
 P.O. 28 DE MARZO DE 2015.
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.
+
+TERCERO. El titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.
+
+CUARTO. El Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.
+
+QUINTO. Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.
+
+SEXTO. Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.
+
+En todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.
+
+SÉPTIMO. El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.
+
+OCTAVO. El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.
+
+DÉCIMO. Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero transitorio del presente Decreto.
+
+DÉCIMO PRIMERO. Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.
+
+DÉCIMO SEGUNDO. Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.
+
+DÉCIMO TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el artículo 46 del Código de Asistencia Social del Estado de Jalisco.
+
+DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
+
+DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
