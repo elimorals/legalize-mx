@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2014-11-15"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -4013,9 +4013,9 @@ ART. 647.- El mayor de edad dispone libremente de su persona y de de (sic) sus b
 
 ART. 648.- El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos civiles y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ART. 649.- Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el Juez, a petición de parte o de oficio, nombrará a un depositario de sus bienes, la citará por edictos publicados en forma electrónica por noventa días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales de la entidad en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, señalándole para que se presente en un término que no bajará de tres meses ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
+ART. 649.- Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de parte o de oficio, nombrará a un depositario de sus bienes, la citará por edictos publicados en forma electrónica por cuarenta y cinco días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales de la entidad en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, señalándole para que se presente en un término que no bajará de tres meses ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
 
 ART. 650.- Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquéllos lugares del extranjero en que se pueda presumir que se encuentra el ausente o que se tengan noticias del él.
 
@@ -4103,17 +4103,17 @@ III.- Los que tengan algún derecho u obligación que dependa de la vida, muerte
 
 IV.- El Ministerio Público.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ART. 674.- Si el Juez encuentra fundada la demanda, dispondrá que se publique de manera electrónica durante noventa días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, y la remitirá a los cónsules conforme al artículo 650.
+ART. 674.- Si el juez encuentra fundada la demanda, dispondrá que se publique de manera electrónica durante cuarenta y cinco días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, y la remitirá a los cónsules conforme al artículo 650.
 
 ART. 675.- Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
 
 ART. 676.- Si hubiere algunas noticias u oposición el juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 674, y hacer la averiguación por los medios que el oponente proponga y por los que el mismo juez crea oportunos.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ART. 677.- La declaración de ausencia se publicará de manera electrónica durante cuarenta y cinco días naturales en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, remitiéndose a los cónsules, como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+ART. 677.- La declaración de ausencia se publicará de manera electrónica durante cinco veces con intervalos de diez días en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado en los términos indicados para los edictos electrónicos en el Código de Procedimientos Civiles para el Estado de Colima, remitiéndose a los cónsules, como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
 
 ART. 678.- El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
