@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2015-01-10"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -261,6 +261,10 @@ ART. 62.- Las actuaciones judiciales se practicarán en días y horas hábiles. 
 
 Se entienden horas hábiles las que median desde las ocho a las dieciocho horas. En los juicios sobre: alimentos; impedimentos de matrimonio; servidumbres legales; interdictos posesorios; diferencias domésticas; y las demás que determinen las leyes, no hay días ni horas inhábiles. En los demás casos, el Juez puede habilitar los días y horas inhábiles para actuar o que se practiquen diligencias, cuando hubiere causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 62 BIS.- Todas las diligencias o notificaciones que deban practicarse por el actuario o por cualquier funcionario judicial fuera de la oficina, se harán de oficio, a excepción del emplazamiento a juicio, y las que impliquen ejecución, las que se realizarán a instancia del interesado.
+
 ART. 63.- Las copias simples de los documentos que se presenten, confrontadas y autorizadas por el secretario, correrán en los autos, quedando los originales en el tribunal, donde podrá verlos la parte contraria, si lo pidiere.
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación sellada y firmada por el empleado que la reciba en el tribunal.
@@ -437,47 +441,75 @@ ART. 104.- Pueden los tribunales acordar que los exhortos y despachos que manden
 
 ART. 105.- Las notificaciones, citaciones y entrega de expedientes, se efectuarán a más tardar el día siguiente al en que se dicten las resoluciones que las prevengan, siempre que en éstas el Juez o Tribunal no dispusieren otra cosa. A los infractores de esta disposición se impondrá de plano una multa que no exceda de tres días de salario mínimo vigente en la región.
 
-ART. 106.- Las notificaciones se harán personalmente, por cédula, por lista de acuerdos en los términos de los artículos 117 a 122, por edictos, por correo y por telégrafo, de acuerdo con lo que se dispone en los artículos siguientes.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ART. 107.- Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
+ART. 106.- Las notificaciones se harán, personalmente; por cédula; por lista de acuerdos en los términos de los artículos 117 a 122; por edictos; por correo; por telégrafo; por correo electrónico; o por cualquier otro medio que los avances tecnológicos permitan su control y registro, de acuerdo con lo que se dispone en los artículos siguientes.
 
-Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
+Para las notificaciones por correo electrónico, o a aquellas que se realicen por cualquier medio que los avances tecnológicos permitan su control y registro, se estará a lo dispuesto por el Reglamento que para el efecto expida el Consejo de la Judicatura.
 
-Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales, deban hacerse personalmente, se le harán por lista o por cédula fijada en las puertas del tribunal o juzgado; si faltare a la segunda parte no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 107.- Las partes, litigantes, peritos, terceros interesados o quienes intervengan con el carácter de tutores, curadores, apoderados o mandatarios en un procedimiento judicial, en el primer escrito o en la primera diligencia judicial en que intervengan, deberán designar casa ubicada en la ciudad en que resida el juzgado o tribunal que conozca del juicio, para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
+
+Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan; señalando en ambos casos, el nombre oficial de la calle; las calles entre las que se ubica el domicilio; la numeración oficial que le corresponda; la zona, colonia o fraccionamiento; así como el código postal, de conformidad con las asignaciones del Servicio Postal Mexicano.
+
+Cuando no se cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales, deban hacerse personalmente, se le harán por estrados, si faltare a la segunda parte no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+
+Igualmente, las partes podrán autorizar que a través del correo electrónico, se les realicen notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se otorgue este tipo de autorización, generándose en cada diligencia electrónica, un registro que contendrá folio, juzgado, expediente, fecha y hora de cada notificación, el cual será agregado a los autos y al sistema de captura de información y se tendrá por legalmente practicada la notificación hecha por este medio, surtiendo sus efectos en los términos previstos por los artículos, 117, y 121, de este Código.
+
+Se excluye de la anterior forma de notificación el emplazamiento a juicio y las demás que el juez así lo considere conveniente.
 
 ART. 108.- Entretanto que un litigante no hiciere nueva designación de la casa en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndosele en la que para ello hubiere designado y las diligencias en que debiere tener intervención se practicarán en los estrados del juzgado.
 
-ART. 109.- Será notificado personalmente en el domicilio de los litigantes:
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-I.- El emplazamiento del demandado y siempre que se trate de la primera notificación en el juicio, aunque sean diligencias preparatorias;
+ART. 109.- Será notificado personalmente en el domicilio señalado por los mencionados en el primer párrafo del artículo 107:
 
-II.- El auto que ordena la absolución de posiciones o reconocimiento de libros y documentos;
+I. El emplazamiento del demandado y siempre que se trate de la primera notificación en el juicio, aun tratándose de diligencias preparatorias;
 
-III.- La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquier motivo;
+II. La primera resolución que se dicte cuando se dejare de actuar por más de seis meses por cualquier motivo;
 
-IV.- El requerimiento de un acto a la parte que deba cumplirlo;
+III. Las sentencias definitivas o aquéllas que pongan fin al procedimiento, y
 
-V.- Cuando se haga saber el envío de los autos a otro tribunal o cuando el juez lo estime pertinente y así lo ordene;
+IV. Cuando se trate de casos urgentes o cuando la ley lo ordene, o el juez fundada y motivadamente, así lo determine.
 
-VI.- En los demás casos en que la Ley lo disponga.
+Las demás resoluciones, se notificarán a las partes por lista en los estrados del juzgado y en la página de internet del Poder Judicial del Estado.
 
-ART. 110.- Cuando variare el personal de un tribunal, no se proveerá decreto haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia, se mandará hacer saber a las partes.
+La publicación de listas de acuerdos en internet, sólo tendrán carácter informativo, siendo la publicación en los estrados del Juzgado o Sala, la que dé validez a las notificaciones, dado que esa publicación es solo con el propósito de dar publicidad a las listas de acuerdos, pero no exime a las partes y sus representantes de acudir al órgano jurisdiccional para consultar las listas de acuerdos.
 
-ART. 111.- La primera notificación se hará personalmente al interesado o a su representante o procurador en la casa designada; y no encontrándolo el notificador, cerciorado de que allí vive, le dejará instructivo en el que hará constar la fecha y hora en que lo entregue, el nombre y apellido del promovente, el juez o tribunal que mande practicar la diligencia, la determinación que se mande notificar y el nombre y apellido de la persona a quien se entregue, recogiéndole la firma en la razón que se asentará del acto.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ART. 112.- Si se tratare de notificación de la demanda y a la primera busca no se encontrase al demandado, se le dejará citatorio para hora fija del día siguiente; y si no espera se le hará la notificación por cédula.
+ART. 110.- Cuando variare el personal de un tribunal, no se proveerá notificación haciendo saber el cambio, sino que al margen del primer proveído que se dictare, después de ocurrido el cambio, se pondrán completos los nombres y apellidos de los nuevos funcionarios. Sólo que el cambio ocurriere cuando el negocio esté pendiente únicamente de la sentencia definitiva o aquélla que pudiere dar fin al procedimiento se notificará personalmente a las partes.
 
-La cédula en los casos de este artículo y del anterior, se entregará a los parientes o domésticos del interesado o a cualquier otra persona que viva en la casa, después de que el notificador se hubiere cerciorado de que allí vive la persona que deba ser citada; de todo lo cual se asentará razón en la diligencia.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ART. 113.- Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquel con quien se entiende la notificación a recibir ésta, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
+ART. 111.- La primera notificación se hará personalmente al interesado o a su representante o procurador en la casa designada; y no encontrándolo el notificador, cerciorado de que allí vive, le dejará cédula en el que hará constar la fecha y hora en que lo entregue, el nombre y apellido del promovente, el juez o tribunal que mande practicar la diligencia, la determinación que se mande notificar y el nombre y apellido de la persona a quien se entregue, recogiéndole la firma en la copia de la cédula o asentar la causa por la cual el interesado se niegue a firmar.
 
-ART. 114.- Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios, y en la habitación no se pudiere, conforme al artículo anterior, hacer la notificación, se podrá hacer ésta en el lugar en donde se encuentre.
+Tratándose de la primera notificación al actor, o de aquellas distintas al emplazamiento; tratándose del demandado, tutores, curadores, apoderados o mandatarios en un procedimiento judicial, peritos, o el llamado a juicio de terceros, en caso de que el inmueble designado se encuentre cerrado o la persona con quien se entiende la diligencia se niegue a recibir la notificación, el funcionario que practique la diligencia, fijará la cédula en la puerta principal del inmueble, de todo lo cual asentará razón en autos.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 112.- Si se tratare de notificación de la demanda, o terceros llamados a juicio y a la primera búsqueda no se les encontrase, se le dejará citatorio para hora fija del día hábil siguiente, y si no esperan se les hará la notificación por cédula.
+
+El funcionario que practique la diligencia, se identificará ante la persona que la atienda, requiriéndola para que se identifique, registrando el resultado, asimismo anotará por qué medios se cercioró de ser el domicilio del buscado, para ello, puede solicitar la exhibición de documentos que lo justifiquen, capturando los datos, en caso de que así suceda, asimismo deberá consignar los signos exteriores del inmueble que sirvan para corroborar que acudió al domicilio señalado, además asentará las demás manifestaciones que efectúe la persona con quien entienda el emplazamiento, en cuanto a su relación laboral, parentesco, de negocios, de habitación o cualquier otra que exista con el interesado.
+
+La cédula deberá contener, transcripción de la determinación que se manda notificar; el número de expediente; la clase de procedimiento; el nombre y apellidos de las partes; el juez o tribunal que manda practicar la diligencia; en los casos de este artículo y del anterior, se entregará a los parientes o domésticos del interesado o a cualquier otra persona que viva en la casa, después de que el notificador se hubiere cerciorado de que allí vive la persona que deba ser notificada; de todo lo cual se asentará razón en autos y se agregará copia de dicha cédula al expediente.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 113.- Si después que el notificador se hubiere cerciorado de que la persona por notificar vive en la casa y se negare aquel con quien se entiende la notificación a recibir ésta, tratándose de emplazamiento o el llamado a juicio de terceros, se hará en el lugar en que habitualmente trabaje, sin necesidad de que el juez dicte una determinación especial para ello.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 114.- Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios, y en la habitación no se pudiere, conforme al artículo anterior, llevar a cabo el emplazamiento, o el llamado a juicio de, terceros; tutores; curadores, apoderados; mandatarios; o peritos, en un procedimiento judicial, se podrá hacer la notificación, en el lugar en donde se encuentren.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
 
 En este caso, las notificaciones se firmarán por el notificador y por la persona a quien se hiciere, si ésta no supiese firmar, lo hará a su ruego, un testigo. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el notificador. Estos testigos no podrán negarse a hacerlo, bajo la multa de uno a tres días de salario mínimo vigente en la región.
 
-ART. 115.- Cuando se trate de notificar a peritos, a terceros que sirvan de testigos y a personas que no sean parte en el juicio, se puede hacer personalmente por instructivo en sobre cerrado y sellado, conteniendo la determinación del tribunal que mande practicar la diligencia. Estos sobres pueden entregarse por conducto de la policía, de las partes mismas o de los notificadores, recogiéndose la firma del notificado en el mismo sobre, que será devuelto para agregarse a los autos. Las mismas personas pueden ser notificadas también por correo certificado, con acuse de recibo o por telégrafo, en ambos casos a costa del promovente. Cuando se haga por telegrama se enviará por duplicado a la Oficina que ha de transmitirlo, la cual devolverá, con el correspondiente recibo sellado, uno de los ejemplares que se agregará al expediente.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 115.- Cuando se trate de notificar a testigos y a personas que no sean parte del juicio, en el caso de que la parte que lo solicite, manifieste bajo protesta de decir verdad que no puede presentarlos, se puede hacer personalmente por cédula, que deberá entregarse en el domicilio en que habite el testigo o la persona que no sea parte del juicio, y deberá contener transcripción de la determinación que se manda notificar, la clase de procedimiento, el nombre y apellidos de las partes, el juez o tribunal que manda practicarla, recabando la firma del notificado en la copia de la cédula que será agregada a los autos. Las referidas personas podrán ser notificadas también por correo certificado con acuse de recibo o por telégrafo, fuera del lugar de residencia del juzgado o tribunal, en ambos casos a costa del promovente. Cuando se haga por telegrama se enviará por duplicado a la oficina que ha de transmitirlo, la cual devolverá, con el correspondiente recibo sellado, uno de los ejemplares que se agregará al expediente
 
 ART. 116.- Procede la notificación por edictos:
 
@@ -491,21 +523,43 @@ III.- En todos los demás casos previstos por la Ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces consecutivas, en el Periódico Oficial, en el de mayor circulación o en ambos, a juicio del juez, haciéndose saber que debe presentarse el citado dentro de un término que no bajará de treinta ni excederá de sesenta días.
 
-ART. 117.- La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores si concurren al tribunal o juzgado respectivo, hasta antes de las doce horas del tercer día, contado desde el mismo en que se dicten las resoluciones que hayan de notificarse.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ART. 118.- Las partes sólo podrán autorizar para oir notificaciones en su nombre, a abogados con título legalmente expedido. La facultad de oir notificaciones autoriza al abogado para interponer los recursos que procedan en respuesta a la notificación y para alegar.
+ART. 117.- La segunda y ulteriores notificaciones se harán personalmente a los interesados o a sus procuradores por lista de acuerdos que diariamente debe publicarse en los estrados del Juzgado o Sala y en la página de internet del Poder Judicial hasta antes de las nueve horas del día hábil siguiente a la fecha en que se dicte el acuerdo.
 
-ART. 119.- Deben firmar las notificaciones las personas que las hacen y aquellas a quienes se hacen. Si éstas no supieren o no quisieren firmar, lo hará el secretario, notificador o quienes hagan sus veces, haciendo constar esta circunstancia. A toda persona se le dará copia simple de la resolución que se notifique, si lo pidiere.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 118.- Las partes podrán autorizar para oír notificaciones en su nombre a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, alegar en las audiencias, pedir se dicte sentencia para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero. Las personas autorizadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de abogado o licenciado en derecho, debiendo proporcionar los datos correspondientes en el escrito en que se otorgue dicha autorización y mostrar la cédula profesional, o carta de pasante para la práctica de la abogacía en las diligencias de prueba en que intervengan, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el penúltimo párrafo de este artículo.
+
+Las personas autorizadas en los términos de este artículo, serán responsables de los daños y perjuicios que causen ante el que los autorice, de acuerdo a las disposiciones aplicables del Código Civil, relativas al mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al Tribunal, haciendo saber las causas de la renuncia.
+
+Los juzgados y las salas llevarán un libro de registro electrónico de cédulas profesionales de abogados o licenciados en derecho, en donde deberán registrarse los profesionistas autorizados, y en el cual se verificarán los datos de los postulantes en quienes recaigan las autorizaciones otorgadas por las partes dentro del procedimiento.
+
+Las partes podrán designar personas solamente autorizadas para oír notificaciones e imponerse de los autos, a cualquiera con capacidad legal, quien no gozara de las demás facultades a que se refieren los párrafos anteriores.
+
+El juez al acordar lo relativo a la autorización a que se refiere este artículo deberá expresar con toda claridad el alcance con el que se reconoce la autorización otorgada.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 119.- Deben firmar las notificaciones las personas que las hacen y aquéllas a quienes se hacen. Si éstas no supieren o no quisieren firmar, el secretario, notificador o quienes hagan sus veces, asentarán razón pormenorizada de esa circunstancia.
+
+A las partes y a las personas autorizadas en términos del artículo 118 párrafo primero, y a los autorizados para oír notificaciones, conforme al párrafo tercero, del mismo numeral, se les dará copia simple de la resolución que se notifique, si lo pidieren, sin necesidad de acuerdo previo, bastando para ello, la sola constancia de su entrega.
 
 ART. 120.- Si las partes o sus procuradores no ocurren al tribunal o juzgado a notificarse en los días y horas a que se refiere el artículo 117, la notificación se dará por hecha y surtirá sus efectos a las doce del último día a que se refiere el artículo citado, a condición de que se haya hecho en la lista de acuerdos.
 
-ART. 121.- Los secretarios de los juzgados y de las Salas del Supremo Tribunal, los notificadores o quienes hagan sus veces, deberán formular diariamente, por duplicado, y autorizada con su firma y sello del tribunal, una lista de los negocios acordados o resueltos expresando en ella la naturaleza del juicio, los nombres y apellidos de los interesados y un extracto de la resolución dictada. Uno de los ejemplares lo fijarán antes de las trece horas del día siguiente de la fecha de la resolución, en la puerta de sus oficinas, y el otro se guardará en el archivo del tribunal para resolver cualquier duda que se suscite.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-Por ningún motivo se incluirán en la lista los negocios o resoluciones de carácter reservado a juicio del tribunal.
+ART. 121.- Los secretarios de los juzgados y de las salas del Supremo Tribunal, los actuarios o notificadores, o quienes hagan sus veces, deberán formular diariamente, por duplicado, y autorizada con su firma y sello del tribunal, una lista de los acuerdos, o resoluciones, expresando en ella la naturaleza del juicio, los nombres y apellidos de los interesados e insertar íntegramente el auto dictado, y en el caso de sentencias, un extracto de la misma o los puntos resolutivos.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1990)</small>
+La lista de acuerdos deberá fijarse en los estrados del Juzgado o Sala, que corresponda y publicarse en la página de internet del Poder Judicial del Estado, antes de las nueve horas del día hábil siguiente de la fecha del auto o sentencia, y un ejemplar se guardará en el archivo del tribunal para resolver cualquier duda que se suscite.
 
-ART. 122.- En las salas del Tribunal y en los Juzgados, los notificadores harán constar en los autos respectivos la fecha de las listas de acuerdos en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de cinco días de salario mínimo vigente en la región por la primera falta, de diez días de salario mínimo vigente en la región por la segunda y de suspensión de empleo, hasta por tres meses, por la tercera, sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión.
+Por ningún motivo se incluirán en la lista los asuntos o resoluciones de carácter reservado a juicio del tribunal, debiendo motivarse expresamente esta determinación.
+
+La sola publicación de la lista de acuerdos en los estrados del juzgado o tribunal, y en la página de internet del Poder Judicial, se tendrá por hecha y surtirá sus efectos en la misma fecha de publicación.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ART. 122.- En las salas del Tribunal y en los juzgados, el actuario o notificador, o quien haga las veces, harán constar en los autos respectivos la fecha de la notificación por listas de acuerdos en que se haya hecho la publicación a que se refiere el artículo anterior, bajo la pena de cinco días de salario mínimo vigente en la región por la primera falta, de diez días de salario mínimo vigente en la zona por la segunda y de suspensión de empleo, hasta por tres meses, por la tercera, sin perjuicio de indemnizar debidamente a la persona que resulte perjudicada por la omisión. De la misma forma habrá de procederse en contra de aquél funcionario que omita publicar la lista de acuerdos dentro del horario precisado en el artículo 121 de este Código.
 
 ### CAPITULO VI. De los Términos Judiciales
 
@@ -2605,7 +2659,7 @@ ART. 585.- El producto de los bienes se distribuirá proporcionalmente entre los
 
 Si al efectuarse la distribución hubiere algún crédito pendiente de verificarse, su dividendo se depositará en el establecimiento designado al efecto por la Ley, hasta la resolución definitiva del juicio.
 
-ART. 586.- El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, así como el hubiere obtenido sentencia firme, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
+ART. 586.- El acreedor hipotecario, el prendario y el que tenga privilegio especial respecto del que no haya habido oposición, así como el que hubiere obtenido sentencia firme, no estará obligado a esperar el resultado final del concurso general y será pagado con el producto de los bienes afectados a la hipoteca o privilegio, sin perjuicio de obligarlo a dar caución de acreedor de mejor derecho.
 
 Si antes de establecido el derecho de preferencia de algún acreedor, se distribuyere un dividendo, se considerará como acreedor común reservándose el precio del bien afectado hasta la concurrencia del importe de su crédito, por si esa preferencia quedase reconocida.
 
@@ -5368,3 +5422,9 @@ P.O. 10 DE ENERO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
