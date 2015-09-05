@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-del-patrimonio-cultural-para-el-estado-de-464
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-30"
-last_updated: "2015-03-10"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN DEL PATRIMONIO CULTURAL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2005.
 
@@ -69,7 +69,9 @@ III. INAH: el Instituto Nacional de Antropología e Historia;
 
 IV. INBA: el Instituto Nacional de Bellas Artes;
 
-V. Coordinación Estatal: la Coordinación Estatal para la Atención de los Pueblos Indígenas;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+V. INDEPI: el Instituto para el Desarrollo de los Pueblos Indígenas;
 
 VI. SEGE: la Secretaría de Educación de Gobierno del Estado;
 
@@ -89,13 +91,21 @@ XII. Organismos auxiliares: las organizaciones civiles cuyo objeto esencial sea 
 
 XIII. Patrimonio cultural tangible: es el conjunto de bienes materiales muebles e inmuebles, públicos y privados que se generan en una sociedad en un tiempo y lugar determinados, ya sea por sus valores de documento histórico, significación social, características de expresión o simbolismo;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Patrimonio cultural intangible: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron, y
+XIV. Patrimonio cultural intangible: es el conjunto de bienes inmateriales y bienes materiales temporales, que forman parte del quehacer cultural de una sociedad en un tiempo y espacio determinados, los cuales por sus valores de significación social, características de expresión, simbolismo, constituyen elementos de identificación y conocimiento de la sociedad de la cual emanaron;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-XV. CONGRESO: El Honorable Congreso del Estado.
+XV. CONGRESO: el Honorable Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. SECTUR: la Secretaría de Turismo, y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. CEDH: la Comisión Estatal de Derechos Humanos.
 
 ###### ARTICULO 6º.
 
@@ -301,7 +311,9 @@ c) SEGE.
 
 d) Secretaría de Ecología y Gestión Ambiental.
 
-e) Coordinación Estatal.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+e) INDEPI.
 
 f) La Universidad Autónoma de San Luis Potosí.
 
@@ -309,9 +321,19 @@ f) La Universidad Autónoma de San Luis Potosí.
 
 g) Dos representantes del CONGRESO.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+h) SECTUR.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+i) CEDH.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 20.
 
-Los integrantes de la COTEPAC tendrán nombramiento de carácter honorífico; a excepción del Coordinador General, el Secretario y el personal necesario que se le asigne.
+Los integrantes de la COTEPAC tendrán nombramiento honorífico.
 
 ###### ARTICULO 21.
 
@@ -736,3 +758,9 @@ P.O. 10 DE MARZO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones normativas de igual o inferior jerarquía jurídica que se opongan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
