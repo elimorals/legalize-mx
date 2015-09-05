@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2014-12-08"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE SEPTIEMBRE DE 2015 EN EL P.O. DEL ESTADO SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -286,6 +288,14 @@ El control de prelación se llevará en un registro único que puede ser procesa
 Los actos ejecutados y los contratos que se hagan en otra Entidad federativa, sólo se inscribirán si reúnen las formalidades exigidas por las leyes del lugar de su otorgamiento, y además sean susceptibles de registro, conforme al marco jurídico estatal.
 
 En el caso del párrafo anterior y tratándose de actos celebrados en el extranjero, se requiere además que la firma del funcionario que autorizó el acto esté legalizada, conforme a las prescripciones de ley y, en su caso, deberá acompañarse al documento la traducción hecha por perito legalmente autorizado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 18 BIS. Las inscripciones de los actos a que se refieren los artículos 12 y 13 de esta Ley, en lo que corresponda, y en relación con el artículo 9° QUÁTER de la Ley de Bienes del Estado y Municipios de San Luis Potosí, respecto de los bienes inmuebles y derechos propiedad del Estado y municipios, se llevará a cabo en un libro especial de la sección inmobiliaria del Registro.
+
+Los encargados del Registro Público de la Propiedad y el Catastro del Estado, que inscriban actos o contratos sobre bienes inmuebles propiedad estatal y municipal, enviarán copia certificada de la inscripción del título que presenten.
 
 ### Capítulo IV. De las Anotaciones y Avisos Preventivos
 
@@ -1734,3 +1744,9 @@ Lic. Cándido Ochoa Rojas
 P.O. 8 DE DICIEMBRE DE 2014.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
