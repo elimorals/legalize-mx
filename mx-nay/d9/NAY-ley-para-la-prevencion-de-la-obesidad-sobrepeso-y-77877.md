@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-prevencion-de-la-obesidad-sobrepeso-y-77877"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-25"
-last_updated: "2010-12-25"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY PARA LA PREVENCION DE LA OBESIDAD, SOBREPESO Y TRASTORNOS ALIMENTICIOS EN EL ESTADO DE NAYARIT
 
-LEY PARA LA PREVENCION DE LA OBESIDAD, SOBREPESO Y TRASTORNOS ALIMENTICIOS EN EL ESTADO DE NAYARIT
+LEY PARA LA PREVENCIÓN DE LA OBESIDAD, SOBREPESO Y TRASTORNOS ALIMENTICIOS EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Trigésima Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 25 de diciembre de 2010.
 
@@ -95,7 +95,9 @@ I. El Gobernador del Estado, quien lo presidirá o la persona que él designe;
 
 II. El Secretario de Salud, como Vicepresidente;
 
-III. Los Secretarios de Educación Básica y de Educación Media, Superior e Investigación Científica y Tecnología (sic);
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+III. El Secretario de Educación;
 
 IV. Un Diputado integrante de la Comisión Legislativa de Salud y Seguridad Social del Congreso del Estado de Nayarit, el que desempeñará su encargo, en tanto forme parte de la Legislatura;
 
@@ -157,6 +159,12 @@ Para modificar los hábitos de sedentarismo laboral y propiciar la salud de los 
 
 En el desarrollo de las acciones enunciadas deberá establecerse la debida coordinación con la Secretaría de Salud en Nayarit.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+En coordinación con la Secretaría de Salud de la entidad, las instituciones educativas y las dependencias de la administración pública estatal, en los ámbitos de sus respectivas competencias promoverán campañas contra la obesidad, el sobrepeso y los trastornos alimenticios, mediante la realización de jornadas deportivas, conferencias sobre sana alimentación y monitoreo constante de la salud, debiendo en todo momento procurar las practicas del ejercicio, así como la alimentación sana y balanceada.
+
 ###### Artículo 14.
 
 Atendiendo a su ejercicio presupuestal, las dependencias del gobierno estatal y de los gobiernos municipales, así como los organismos autónomos, podrán prever dentro de sus proyecciones presupuestales, los recursos necesarios a efecto de realizar las acciones a que hace referencia el presente capítulo.
@@ -175,9 +183,11 @@ IV. Las demás que le confiera el presente ordenamiento.
 
 Para el desarrollo de las acciones comprendidas en las fracciones I y II de este artículo, se convocará a colaborar a las instituciones de educación, así como a las organizaciones de la sociedad civil en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-Corresponde a las Secretarías de Educación Básica y de Educación Media, Superior e Investigación Científica y Tecnológica del Estado:
+Corresponde a la Secretaría de Educación del Estado:
 
 I. Promover dentro de los centros educativos, el consumo de alimentos saludables, así como establecer la prohibición de distribuir, comercializar o fomentar el consumo de alimentos y bebidas con bajo valor nutricional o que contengan ingredientes que propicien la obesidad, el sobrepeso o los trastornos alimenticios, así como gestionar lo conducente ante las autoridades federales para que apliquen medidas similares en los centros educativos de su jurisdicción en el estado;
 
@@ -187,13 +197,23 @@ III. Promover la utilización, por parte de los niños y adolescentes, de los es
 
 IV. Coadyuvar con los gobiernos municipales en la adopción de las medidas señaladas en la fracción anterior;
 
-V. Impulsar acciones tendientes a incentivar la práctica de actividades deportivas y recreativas, con especial atención de los niños y adolescentes, a efecto de prevenir y contrarrestar el sobrepeso, la obesidad y los trastornos alimenticios, y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Las demás establecidas en el presente ordenamiento y otras leyes aplicables.
+V. Impulsar acciones tendientes a incentivar la práctica de actividades deportivas y recreativas, con especial atención de los niños y adolescentes, a efecto de prevenir y contrarrestar el sobrepeso, la obesidad y los trastornos alimenticios;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Supervisar en el ámbito de su competencia y en coordinación con las autoridades sanitarias locales que en los centros educativos no se distribuyan, comercialicen o se fomente el consumo de alimentos y bebidas con bajo valor nutricional o que contengan ingredientes que propicien la obesidad, el sobrepeso o los trastornos alimenticios, iniciando en su caso los procedimientos sancionadores a los infractores, y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Las demás establecidas en el presente ordenamiento y otras leyes aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 17.
 
-Para prevenir y erradicar cualquier tipo de discriminación hacia las personas que padecen sobrepeso, obesidad o trastornos alimenticios, dirigida especialmente a la población infantil y adolescentes, la Secretaria de Salud, en coordinación con las Secretarías de Educación Básica y de Educación Media, Superior e Investigación Científica y Tecnológica del Estado, así como del Sindicato Nacional de Trabajadores de la Educación, implementará campañas de información intensiva, a efecto de erradicar la incidencia de esas conductas.
+La Secretaría de Salud, en coordinación con la Secretaría de Educación del Estado, así como del Sindicato Nacional de Trabajadores de la Educación, implementará campañas de información intensiva, para prevenir y erradicar cualquier tipo de discriminación hacia las personas que padecen sobrepeso, obesidad o trastornos alimenticios, dirigida especialmente a la población infantil y adolescentes.
 
 ###### Artículo 18.
 
@@ -202,6 +222,12 @@ El Instituto Nayarita de Cultura Física y Deporte, promoverá la realización d
 ###### Artículo 19.
 
 En el ámbito de su competencia, los Gobiernos Municipales realizarán actividades de acceso libre y gratuito en instalaciones deportivas, recreativas y culturales a su cargo, asimismo promoverán acciones orientadas a la prevención y atención del sobrepeso, la obesidad y los trastornos alimenticios, con especial atención a los niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 19 Bis.
+
+En el ámbito de su competencia, los gobiernos municipales, las autoridades educativas y demás instancias correspondientes promoverán acciones encaminadas a regular el comercio ambulante próximo a las escuelas vigilando en su caso que durante los horarios escolares, así como en las horas próximas a la entrada y salida de las instituciones educativas, se evite la venta de alimentos bajos en contenido nutricional que propicien la obesidad, el sobrepeso o los trastornos alimenticios.
 
 ###### Artículo 20.
 
@@ -230,3 +256,9 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. José Luis Lozano Gárate, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- Rúbrica.- Dip. Jaime Arturo Briseño Quintana, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veinticuatro días del mes de diciembre del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
