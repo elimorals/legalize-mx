@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2013-12-03"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -291,15 +291,17 @@ Cuando el inculpado se encuentre privado de su libertad personal dentro del proc
 
 El arbitraje procederá conforme a lo establecido en los códigos civil y de procedimientos civiles del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 5 Bis.
 
-Los conflictos en los que se cuestionen derechos de niños, adolescentes o incapaces, podrán someterse a los métodos alternos por conducto de quienes ejerzan la patria potestad o tutela.
+Los conflictos en los que se cuestionen derechos de niñas, niños y adolescentes, así como de incapaces, podrán someterse a los métodos alternos por conducto de quienes ejerzan la representación originaria o en suplencia, patria potestad o tutela, de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y en la legislación civil.
 
-En los convenios que pongan fin al conflicto se notificará al agente de la Procuraduría Social cuando las peticiones sometidas a los métodos alternos puedan afectar intereses públicos, versen sobre la persona o bienes de menores o incapaces, o cuando tengan relación con los derechos o bienes de ausentes, a fin de que manifieste las consideraciones que estime pertinentes.
+Tratándose de derechos de niñas, niños y adolescentes, se escuchará a la Procuraduría de Protección de Niñas, Niños y Adolescentes para efectos de la representación coadyuvante.
+
+En los convenios que pongan fin al conflicto se notificará al agente de la Procuraduría Social cuando las peticiones sometidas a los métodos alternos puedan afectar intereses públicos o cuando tengan relación con los derechos o bienes de personas adultas incapaces o ausentes, a fin de que manifieste las consideraciones que estime pertinentes.
 
 ###### Artículo 6.
 
@@ -375,19 +377,25 @@ III. Por cláusula compromisoria.
 
 El compromiso para someterse a un método alterno puede comprender la atención de la totalidad del conflicto o parte de él. Si en el compromiso no se establecen puntos específicos del conflicto para su atención, se entenderá que el método alternativo elegido será aplicable a su totalidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-Los participantes deberán comparecer al procedimiento del método alternativo personalmente o a través de legitimo representante con facultades para contraer obligaciones a nombre del interesado.
+Los participantes deberán comparecer al procedimiento del método alternativo personalmente o a través de legítimo representante con facultades para contraer obligaciones a nombre del interesado.
 
-En caso de menores o incapaces, deberá comparecer quien ejerza la patria potestad o la tutela.
+En caso de niñas, niños o adolescentes deberá comparecer quien ejerza la representación originaria, tutela, o representación en suplencia, según lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y la legislación civil. En el caso de incapaces mayores de edad, deberá comparecer quien ejerza la tutela.
 
-En caso, de que alguna de las partes se encuentre recluida, por la causa que se pretende resolver a través del método alternativo, las autoridades que tengan a cargo su custodia, tendrán la obligación de permitir la realización de las sesiones del método alternativo, el cual solo se podrá realizar por centros públicos.
+En caso, de que alguna de las partes se encuentre recluida, por la causa que se pretende resolver a través del método alternativo, o por diversa causa, las autoridades que tengan a cargo su custodia, tendrán la obligación de permitir la realización de las sesiones del método alternativo, el cual sólo se podrá realizar por centros públicos.
 
 Las autoridades que tengan a su cargo la custodia de alguna de las partes, deberán garantizar la seguridad y la confidencialidad de las audiencias.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
 El procedimiento de mediación o conciliación puede darse por concluido en cualquier etapa hasta antes de la firma del convenio que se eleve a categoría de sentencia, por decisión de una de las partes o por ausencia injustificada de los interesados a las sesiones programadas.
+
+Los actos que requieran una intervención de las partes se podrán notificar mediante fax, correo certificado con acuse de recibo, y correo electrónico, debiendo imprimirse copia de envío y recibido, y agregarse al registro, o bien se guardará en el sistema electrónico existente para tal efecto; asimismo, podrá notificarse a las partes por teléfono o cualquier otro medio, de conformidad con las disposiciones previstas en las leyes orgánicas o, en su caso, los acuerdos emitidos por los órganos competentes, debiendo dejarse constancia de ello.
+
+El uso de los medios a que hace referencia este artículo, deberá asegurar que las notificaciones se hagan en el tiempo establecido y se transmita con claridad, precisión y en forma completa el contenido de la resolución o de la diligencia ordenada. En la notificación de las resoluciones se podrá aceptar el uso de la firma digital, de conformidad al reglamento.
 
 ### CAPÍTULO II. DE LOS PRESTADORES DEL SERVICIO DE JUSTICIA ALTERNATIVA
 
@@ -403,15 +411,15 @@ Las personas jurídicas que presten los servicios de medios alternativos de solu
 
 Los mediadores, conciliadores y árbitros que operen en las instituciones que presten los servicios de medios alternativos de solución de conflictos deberán ser certificados por el Instituto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 15.
 
-Las cámaras empresariales, los colegios de profesionistas y los organismos estatal y municipales del Sistema (sic) Desarrollo Integral de la Familia, podrán funcionar como centros de resolución de conflictos a través de los medios alternos, en las áreas de su actividad, previa acreditación otorgada en los términos del artículo 13, salvo aquellos que tengan dichas facultades por disposición de la ley.
+Las cámaras empresariales, los colegios de profesionistas y los organismos estatal y municipales del Sistema para el Desarrollo Integral de la Familia, podrán funcionar como centros de resolución de conflictos a través de los medios alternos, en las áreas de su actividad, previa acreditación otorgada en los términos del artículo 13, salvo aquellos que tengan dichas facultades por disposición de la ley.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-La Secretaría General de Gobierno, la Procuraduría General de Justicia del Estado, la Procuraduría Social y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir la certificación ni las acreditaciones a que se refiere la presente ley.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+La Secretaría General de Gobierno, la Fiscalía General del Estado, la Procuraduría Social, la Procuraduría de Protección de Niñas, Niños y Adolescentes y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir la certificación ni las acreditaciones a que se refiere la presente ley.
 
 Todas las personas acreditadas como centros de resolución de conflictos, a través de los medios alternos, invariablemente deberán dar cuenta al Instituto de los convenios que realicen para su sanción y registro.
 
@@ -453,7 +461,7 @@ IV. Declarar la improcedencia del método alternativo elegido en los casos en qu
 
 V. Excusarse de conocer del Método Alternativo elegido cuando se encuentre en alguno de los supuestos en que la legislación procesal aplicable al conflicto, obligue al juzgador a excusarse, salvo cuando los participantes con pleno conocimiento y por estimar que no se afecta la imparcialidad del prestador, lo acepten por escrito;
 
-VI. Actualizarse permanentemente en la materia; y (sic)
+VI. Actualizarse permanentemente en la materia; y
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -473,7 +481,7 @@ I. Demostrar jurídicamente su constitución, existencia y representación así 
 
 II. Contar con prestadores debidamente certificados;
 
-III. Contar con el reglamento o reglamentos institucionales necesarios para su desempeño, entregando copia de cada uno al Instituto; y (sic)
+III. Contar con el reglamento o reglamentos institucionales necesarios para su desempeño, entregando copia de cada uno al Instituto; y
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -547,13 +555,13 @@ X. Realizar investigaciones, análisis y diagnósticos relacionados con sus func
 
 XI. Llevar la estadística general del Instituto, de los Centros y los demás prestadores de servicio;
 
-XII. Rendir anualmente un informe de sus actividades.; (sic)
+XII. Rendir anualmente un informe de sus actividades.;
 
 XIII. Difundir el resultado de sus investigaciones, Informes y actividades en general a través de los medios de comunicación en los términos de la Ley de Transparencia e Información Pública del Estado;
 
 XIV. Organizar y encargarse de la función del Instituto y de sus sedes regionales;
 
-XV. Promover la cooperación Nacional e Internacional para el uso de los medios Alternativos de Justicia y su validez en esos ámbitos; y (sic)
+XV. Promover la cooperación Nacional e Internacional para el uso de los medios Alternativos de Justicia y su validez en esos ámbitos; y
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -723,7 +731,7 @@ V. Programar para los prestadores del servicio cursos de actualización profesio
 
 VI. Nombrar a los Directores del Instituto a propuesta del Director General y previa evaluación y acreditación del cumplimiento de los requisitos establecidos en esta Ley y en el Reglamento;
 
-VII. Aprobar anualmente, a propuesta del Director, el anteproyecto de presupuesto de egresos del Instituto; y (sic)
+VII. Aprobar anualmente, a propuesta del Director, el anteproyecto de presupuesto de egresos del Instituto; y
 
 > <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2012)</small>
 
@@ -759,7 +767,7 @@ IV. Convocar a sesiones a los integrantes del Consejo, previa solicitud del Pres
 
 V. Llevar el libro de actas del Consejo, y
 
-V. Las demás que se deriven de la aplicación de esta ley.
+V (SIC). Las demás que se deriven de la aplicación de esta ley.
 
 ###### Artículo 34.
 
@@ -1083,11 +1091,17 @@ Las obligaciones de contenido ético o moral podrán constar en el convenio pero
 
 Cuando alguna de las partes no sepa o no pueda firmar, estamparán sus huellas dactilares, firmando a su ruego persona de su confianza, dejándose constancia de ello.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 67.
 
-Los prestadores del servicio vigilarán que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate, y se cerciorarán de que la suscripción del convenio se realiza libre de vicios en el consentimiento de las partes. En la realización del convenio y tratándose de asuntos que afecten intereses de menores, incapaces o ausentes, se deberá dar vista al agente de la Procuraduría Social para efectos de su representación.
+Los prestadores del servicio vigilarán que las partes sean personas con capacidad para obligarse legalmente y que estén debidamente legitimadas o representadas en la sesión de que se trate, y se cerciorarán de que la suscripción del convenio se realiza libre de vicios en el consentimiento de las partes.
+
+En la realización del convenio y tratándose de asuntos que afecten intereses de personas adultas incapaces, o ausentes, se deberá dar vista al agente de la Procuraduría Social para efectos de su representación; en caso de niñas, niños y adolescentes, a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+La vista a la que se refiere este artículo será por un término de cinco días; en caso de que no se reciba manifestación, se les tendrá por conforme en los términos del convenio; en todo caso, el Instituto resolverá conforme a derecho, garantizando el interés superior de la niñez.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1175,7 +1189,7 @@ X. Por declaración de improcedencia por no ser derechos transigibles.
 
 ### CAPÍTULO V. DE LA ACTUACIÓN DE LOS ABOGADOS
 
-Artículo. 77- (sic) Las partes podrán estar acompañados (sic) de sus abogados durante las sesiones desahogadas dentro del método alternativo.
+Artículo. 77.- Las partes podrán estar acompañados (sic) de sus abogados durante las sesiones desahogadas dentro del método alternativo.
 
 ###### Artículo 78.
 
@@ -1424,3 +1438,39 @@ SEGUNDO. El Ejecutivo del Estado dispondrá del plazo de treinta días naturales
 P.O. 3 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.
+
+TERCERO. El titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.
+
+CUARTO. El Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.
+
+QUINTO. Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.
+
+SEXTO. Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.
+
+En todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.
+
+SÉPTIMO. El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.
+
+OCTAVO. El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.
+
+DÉCIMO. Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero transitorio del presente Decreto.
+
+DÉCIMO PRIMERO. Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.
+
+DÉCIMO SEGUNDO. Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.
+
+DÉCIMO TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el artículo 46 del Código de Asistencia Social del Estado de Jalisco.
+
+DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
+
+DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
