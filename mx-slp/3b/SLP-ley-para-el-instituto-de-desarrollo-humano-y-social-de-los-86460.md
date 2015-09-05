@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-instituto-de-desarrollo-humano-y-social-de-los-8646
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2014-05-29"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 24 de diciembre de 2011.
 
@@ -33,7 +33,7 @@ DECRETO 795
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS...
 
 LEY PARA EL INSTITUTO DE DESARROLLO HUMANO Y SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE SAN LUIS POTOSI
 
@@ -421,9 +421,17 @@ V. Atender las solicitudes de consulta o asesoría que le formulen la Junta Dire
 
 VI. Hacer llegar en todo tiempo al Instituto, para su atención, la información y planteamiento de problemas concretos que deriven de situaciones de discriminación o inequidad por cuestiones propias de las comunidades e individuos indígenas en la Entidad;
 
-VII. Coadyuvar con la Junta Directiva en la formulación de los indicadores de desempeño del Instituto, y
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Promover las acciones del Instituto en los municipios de origen y contribuir en la cultura del respeto al derecho a la diferencia cultural.
+VII. Coadyuvar con la Junta Directiva en la formulación de los indicadores de desempeño del Instituto;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Promover las acciones del Instituto en los municipios de origen y contribuir en la cultura del respeto al derecho a la diferencia cultural, y
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Crear, a propuesta de las autoridades comunales, la Auditoría Social de Municipios con Presencia Indígena, cuya función será la de vigilar el buen funcionamiento de las políticas públicas encaminadas a la atención de pueblos y comunidades indígenas, así como la transparencia en el uso de los recursos.
 
 ### Capítulo VII. Del Patrimonio del Instituto
 
@@ -452,6 +460,36 @@ El Instituto queda sujeto a las reglas de contabilidad, presupuesto y gasto púb
 ###### ARTICULO 33.
 
 Las relaciones laborales entre el personal y el Instituto, se regirán por la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo IX. De la Auditoría Social de Municipios con Presencia Indígena
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 34.
+
+La Auditoría Social de Municipios con Presencia Indígena, será un órgano ciudadano que dependerá directamente del Consejo Consultivo del Instituto de Desarrollo Humano y Social de los Pueblos y Comunidades Indígenas.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 35.
+
+Son funciones de la Auditoría Social de Municipios con presencia Indígena:
+
+l. Vigilar y dar seguimiento a las inversiones y procedimientos administrativos, para que se realicen con la mayor transparencia posible;
+
+II. Apoyar y facilitar la comunicación entre el municipio, dependencias de gobierno federal y estatal, y las comunidades, en relación a la organización, ejecución y supervisión de las actividades de desarrollo que se ejecutan en beneficio de éstas;
+
+III. Evitar problemas en los procesos administrativos, la ejecución de obras públicas y la prestación de servicios; así como asegurar que sus acciones beneficien a la población que demanda las obras y servicios municipales;
+
+IV. Conocer, capacitarse e informarse sobre el tema, y toda la documentación relacionada con el ejercicio de la auditoría social;
+
+V. Revisar y analizar toda la información vinculada y necesaria para llevar a cabo la auditoría social;
+
+VI. Observar, en caso de una auditoría durante la ejecución de un proyecto, el proceso de compra de materiales, insumos, equipamiento, o servicios necesarios para la ejecución del proyecto, y
+
+VII. Elaborar un informe, que deberá entregar al Consejo Consultivo, cada vez que se le solicite.
 
 T R A N S I T O R I O S
 
@@ -500,3 +538,9 @@ P.O. 29 DE MAYO DE 2014.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
