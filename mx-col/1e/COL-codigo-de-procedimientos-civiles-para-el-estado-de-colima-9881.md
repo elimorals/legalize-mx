@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2015-08-15"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -993,9 +993,9 @@ En este caso el juicio deberá seguir con los trámites y solemnidades a que se 
 
 III.- En todos los demás casos previstos por la ley.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-En los casos anteriores, los edictos se publicarán por dos meses consecutivos, de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
+En los casos anteriores, los edictos se publicarán por dos veces consecutivas, de manera electrónica en el sitio virtual de internet destinado para ello, así como en las cabeceras de los partidos judiciales del Estado, haciéndose saber que debe de presentarse el citado dentro de un término que no será menor de quince días ni mayor de treinta.
 
 > <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
 
@@ -6892,3 +6892,7 @@ SÉPTIMO: De conformidad con lo dispuesto por los artículos 21 y 24 del Reglame
 OCTAVO: Hágase del conocimiento de los otros Poderes Públicos, de los Tribunales y de la sociedad en general el contenido de este Acuerdo General.
 
 NOVENO: El Pleno del Supremo Tribunal de Justicia, en el ámbito de su competencia, resolverá todo lo no previsto en el presente Acuerdo.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+ÚNICO- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
