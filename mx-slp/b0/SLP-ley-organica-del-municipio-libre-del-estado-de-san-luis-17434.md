@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2015-07-23"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "SLP"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-(NOTA: EL 29 DE MAYO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LAS CONTROVERSIAS CONSTITUCIONALES 76/ 2015 Y 12/2016, DECLARÓ LA INVALIDEZ DEL DECRETO 1160, PUBLICADO EL VEINTITRÉS DE JULIO DE DOS MIL QUINCE EN EL PERIÓDICO OFICIAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, LA CUAL SURTIÓ EFECTOS EL 30 DE MAYO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1533,11 +1531,11 @@ XV. Las demás que le señalen las leyes y reglamentos municipales.
 
 En los municipios que cuenten con una población indígena significativa, los ayuntamientos contarán con un Departamento de Asuntos Indígenas para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 88.
 
-El Departamento de Asuntos Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, designada por el presidente municipal, a propuesta de las comunidades y pueblos indígenas del municipio respectivo.
+El Departamento de Asuntos Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, la que será propuesta por las comunidades y pueblos indígenas, y ratificado por el presidente municipal.
 
 El Jefe del Departamento realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del Municipio correspondiente. Se procurará que el personal de este Departamento sea preferentemente indígena.
 
@@ -2838,3 +2836,9 @@ PRIMERO. Este Decreto entrará en vigor el uno de octubre de dos mil quince, pre
 SEGUNDO. Los cabildos, dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, realizarán las modificaciones a los reglamentos o disposiciones administrativas respectivas.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
