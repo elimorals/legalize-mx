@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2015-08-22"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -212,7 +212,9 @@ II.- Cuando por haberse interpuesto tercería ante un Juez Menor, por cuantía m
 
 III.- Cuando alguno tenga acción o excepción que dependa del ejercicio de la acción de otro, a quien pueda exigir que la deduzca, oponga o continúe desde luego y si el citado para ello se rehusare, lo podrá hacer aquél.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 29.
 
@@ -220,19 +222,17 @@ Intentada la acción y fijados los puntos cuestionados, no podrá modificarse ni
 
 También podrá extinguirse la acción:
 
-I.- Por prescripción o caducidad;
+l. Por prescripción o caducidad;
 
-II.- Por convenio o transacción de las partes interesadas;
+II. Por convenio o transacción de las partes interesadas;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+III. Por el allanamiento, por el cumplimiento voluntario de lo reclamado, antes de la sentencia definitiva o por haberse logrado el fin perseguido en el juicio o procedimiento respectivo; y
 
-III.- Por el allanamiento, por el cumplimiento voluntario de lo reclamado, antes de la sentencia definitiva o por haberse logrado el fin perseguido en el juicio o procedimiento respectivo; y
-
-IV.- Por cualesquiera otra de las causas establecidas por la ley.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+IV. Por cualesquiera otra de las causas establecidas por la ley.
 
 Todo allanamiento, convenio o desistimiento deberá formularse por escrito debidamente ratificado, bien sea por el tribunal del conocimiento del negocio o ante fedatario público.
+
+No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2010)</small>
 
@@ -684,25 +684,33 @@ El acuerdo será reservado, sin perjuicio de que las actuaciones anteriores pued
 
 ARTICULO 68 bis.- En los procedimientos en que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará por conducto de la Comisión Estatal indigena a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ARTICULO 68 TER.- Los agentes de la Procuraduría Social intervendrán en todos los juicios en los que:
 
-I. Se afecten los intereses sociales;
+l. Se afecten los intereses sociales;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-II. Se afecte a la persona, bienes o derechos de personas menores de edad, incapaces y ausentes, adultos mayores o con discapacidad a criterio del Juez; y
+II. Se afecte a la persona, bienes o derechos de incapaces mayores de edad y ausentes, adultos mayores o con discapacidad, a criterio del Juez; y
 
 III. En todos los casos que dispusiere la ley.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+La intervención del agente de la Procuraduría Social en juicio, lo faculta para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio; procurar la legalidad del procedimiento y salvaguardar los derechos de sociedad, de las personas incapaces, adultos mayores y ausentes para lo cual podrá imponerse de los autos en la secretaría y podrá solicitar se le entreguen copias de los mismos.
 
-La intervención del agente de la Procuraduría Social en juicio, lo faculta para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio; procurar la legalidad del procedimiento y salvaguardar los derechos de sociedad, de las personas menores de edad, incapaces, adultos mayores y ausentes para lo cual podrá imponerse de los autos en la secretaría y podrá solicitar se le entreguen copias de los mismos.
+En los asuntos en que deba intervenir el agente de la Procuraduría Social, se le dará vista por cinco días para que manifieste de manera fundada y motivada lo que a la representación social corresponda; transcurrido el término se continuará el procedimiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En los asuntos en que deba intervenir el Agente de la Procuraduría Social, se le dará vista por cinco días para que manifieste de manera fundada y motivada lo que a la representación social corresponda; Transcurrido el término se continuará el procedimiento.
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 68 QUATER.- En los asuntos relacionados con niñas, niños y adolescentes intervendrá la Procuraduría de Protección de Niñas, Niños y Adolescentes con la representación coadyuvante y en suplencia, según sea el caso, sin perjuicio de la intervención que corresponda a la representación social.
+
+El juez dará vista o citará a la Procuraduría de Protección de Niñas, Niños y Adolescentes, quedando ésta facultada en juicio para recabar, ofrecer, desahogar, objetar pruebas; interponer y continuar recursos e incidentes, formular alegatos y en general solicitar al Juzgador la realización de todos los actos procesales para la continuación del juicio.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o de delegados institucionales, de conformidad a la legislación estatal y general de los Derechos de Niñas, Niños y Adolescentes, Código de Asistencia Social y el Código Civil.
+
+El Juez, en todos los procedimientos en donde participen niñas, niños y adolescentes, ordenará notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes, para que haga valer lo que a su representación corresponda.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1186,37 +1194,27 @@ Entre tanto que un litigante no hiciera nueva designación del domicilio en dond
 
 Se equipara a una negativa a recibir notificaciones, el hecho de que el servidor público que practique la diligencia encuentre cerrado el domicilio señalado con tal fin dos o más veces, de lo que deberá expresamente asentarse razón en autos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 109.
 
-Será notificado personalmente en el domicilio de los litigantes y del Agente de la Procuraduría Social:
+Será notificado personalmente en el domicilio de los litigantes, del Agente de la Procuraduría Social y a la Procuraduría de Protección de Niñas, Niños y Adolescentes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+l. El emplazamiento del demandado a juicio y siempre que se trate de la primera notificación en cualquier procedimiento judicial, aunque sean diligencias preparatorias;
 
-I.- El emplazamiento del demandado a juicio y siempre que se trate de la primera notificación en cualquier procedimiento judicial, aunque sean diligencias preparatorias;
+II. La citación para absolver posiciones, para el reconocimiento de libros y documentos, salvo las que este Código permita se reciban sin citación de la contraria;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+III. La primera resolución que se dicte cuando se dejare de actuar más de cuatro meses por cualquier motivo;
 
-II.- La citación para absolver posiciones, para el reconocimiento de libros y documentos, salvo las que éste código permita se reciban sin citación de la contraria;
+IV. El requerimiento de un acto a la parte que deba cumplirlo;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+V. Cuando se haga saber el envío de los autos a otro tribunal;
 
-III.- La primera resolución que se dicte cuando se dejaré de actuar más de cuatro meses por cualquier motivo;
+VI. La sentencia definitiva o interlocutoria, cuando no se dicten dentro del término señalado en este Código y los autos definitivos que pongan fin a un procedimiento; y
 
-IV.- El requerimiento de un acto a la parte que deba cumplirlo;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-V.- Cuando se haga saber el envío de los autos a otro tribunal;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-VI.- La sentencia definitiva o interlocutoria, cuando no se dicten dentro del término señalado en éste código y los autos definitivos que pongan fin a un procedimiento;
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-VII.- En los demás casos en que la ley o el juzgador así lo ordene.
+VIl. En los demás casos en que la ley o el juzgador así lo ordene.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -1448,11 +1446,13 @@ El pago de las costas debe repartirse entre todos los vencidos en proporción a 
 
 Los funcionarios judiciales que por notoria torpeza ordenen la práctica de diligencias inútiles a juicio del superior, estarán obligados a pagar las costas y los gastos que por estas diligencias hubieren sufragado las partes.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 141.
 
-Los representantes del fisco, de los ayuntamientos, de la beneficencia y de la Procuraduría Social, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley
+Los representantes del fisco, de los ayuntamientos, de la beneficencia, de la Procuraduría Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes, serán personalmente responsables de las costas que causaren, cuando no procedan obedeciendo instrucciones expresas o mandatos de la ley.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1970)</small>
 
@@ -2384,7 +2384,9 @@ Sección 1a.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 249.
 
@@ -2394,13 +2396,11 @@ Para decretar cualesquiera de las medidas cautelares a que se refiere este títu
 
 Estas providencias se decretarán sin audiencia de la contraparte. Si se solicita después de iniciado el procedimiento se substanciará en expediente por separado ante el mismo juez que conozca del negocio, el cual se identificará con el mismo número del principal, al que se agregará una vez que sea ejecutada la medida.
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2008)</small>
-
 El Gobierno del estado de Jalisco, a través de sus poderes y los ayuntamientos, estarán exentos de otorgar todas aquellas garantías que en este código se exige a las partes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE NOVIEMBRE DE 2014)</small>
+En los asuntos de familia, el Juez de la causa podrá decretar las órdenes de protección previstas por la legislación general y estatal de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-En los asuntos de familia, el Juez de la causa podrá decretar las órdenes de protección previstas por la Ley General de Acceso a las Mujeres a una Vida Libre de Violencia.
+El juez substanciará dentro de las 24 horas siguientes a su recepción, las medidas urgentes de protección especial que no sean del ámbito penal, previstas en la fracción VIl del artículo 122 de la Ley General de los Derechos de Niñas, Niños y Adolescentes. En caso de incumplimiento de las medidas urgentes de protección, se impondrán las medidas de apremio correspondientes previstas en este Código.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6134,13 +6134,33 @@ Cuando la sentencia decrete la demolición de la obra peligrosa, el Juez dispond
 
 De la Patria Potestad, la Guarda y Custodia y Régimen de Visitas y Convivencia.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTICULO 721 BIS.- En los asuntos de patria potestad, guarda y custodia y Régimen de Visitas y Convivencia, el Juez de oficio o a petición de parte, dictará las medidas que considere adecuadas para respetar la dignidad del menor y el ejercicio pleno de sus derechos, cuidando siempre que no se comprometa la seguridad física y el desarrollo emocional del mismo.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+ARTICULO 721 BIS.- En los asuntos de patria potestad, guarda y custodia y Régimen de Visitas y Convivencia, el Juez de oficio o a petición de parte, dictará las medidas que considere adecuadas para respetar la dignidad de niñas, niños y adolescentes y el ejercicio pleno de sus derechos, cuidando siempre que no se comprometa la seguridad física y el desarrollo emocional de los mismos.
 
-ARTICULO 721 TER.- En todas las actuaciones el Juez atenderá el interés superior de la niñez y tomará en cuenta la opinión de los hijos en función de su edad y madurez.
+En caso de visitas y convivencia asistida o supervisada por institución pública el Juez determinará según la circunstancia de cada caso, los términos de la visita y convivencia, así como la frecuencia con la que los padres deberán recibir la supervisión; o, por excepción, dictará la visita asistida o supervisada, en el interior de institución pública.
+
+En ambos casos dictará las medidas que estime convenientes para restablecer y salvaguardar los derechos de convivencia de las niñas, niños y adolescentes.
+
+Si hubiera temor fundado de sustracción de la niña, niño o adolescente por alguno de sus padres, el Juez dictará medidas que considere para salvaguardar el interés superior de la niñez.
+
+Las medidas podrán ser levantadas en cualquier momento, previo dictamen que certifique la viabilidad de las visitas y convivencia, o en su caso, la guarda y custodia compartida, emitida por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+En todos los casos escuchará a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 721 TER.- En todas las actuaciones el Juez atenderá el interés superior de la niñez y tomará en cuenta la opinión de los hijos en función de su edad y madurez, de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y el Código Civil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 721 QUATER.- En caso de que existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, el órgano jurisdiccional, de oficio o a petición de la Procuraduría de Protección de Niñas, Niños y Adolescentes, o la representación social, substanciará por la vía incidental un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso y para la circunstancia específica, para efectos de llamar a la representación en suplencia.
 
 ## TITULO DECIMO SEGUNDO.
 
@@ -6440,23 +6460,29 @@ El juez examinará la solicitud y el convenio y si encuentra que éste reúne lo
 
 Si el convenio no contiene todos los puntos enumerados en el artículo 764 de éste código o no están expresados claramente, el juez prevendrá a los solicitantes que los precisen y aclaren en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no lo hacen de común acuerdo se les tendrá por desistidos de su solicitud de divorcio.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 767.
 
-Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos menores de edad o incapaces, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar a otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al Agente de la Procuraduría Social, para que dentro de un término no mayor de diez días manifieste en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
+Llenados los requisitos de que se habla en los artículos anteriores, el Juez después de dictar las medidas convenientes para asegurar la situación de los hijos que son niñas, niños o adolescentes o de los incapaces, para la separación de los cónyuges, y los alimentos de los hijos y los que un cónyuge debe dar a otro en su caso, mientras dure el procedimiento, dará vista de la solicitud y de los demás documentos al agente de la Procuraduría Social, y en caso de haber niñas, niños y adolescentes a la Procuraduría de Protección de Niñas, Niños y Adolescentes, para que dentro de un término no mayor de diez días manifiesten en forma expresa su conformidad o inconformidad respecto de la solicitud y del convenio, así como las razones en que se funde.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 768.
 
-Si el Agente de la Procuraduría Social expresa su conformidad con la solicitud y con el convenio, el Juez aprobará éste si lo encuentra arreglado a derecho y citará a los cónyuges, a la junta de que se habla en el artículo 770.
+Si el agente de la Procuraduría Social, o la Procuraduría de Protección de Niñas, Niños y Adolescentes, según sea el caso, expresa su conformidad con la solicitud y con el convenio, el Juez aprobará éste si lo encuentra arreglado a derecho y citará a los cónyuges a la junta de que se habla en el artículo 770.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 769.
 
-Cuando el Agente del (sic) la Procuraduría Social se oponga a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y, una vez llenadas las exigencias de la Procuraduría Social o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el Juez traerá los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
+Cuando cualquiera de las autoridades administrativas a que se refiere el artículo anterior se opongan a la solicitud o a la aprobación del convenio, se dará vista de lo que exprese a los cónyuges y, una vez llenadas las exigencias contenidas en el escrito de oposición o cuando ambos esposos insistan en su solicitud por estimarla arreglada a la ley, el Juez traerá los autos a la vista y resolverá si es o no fundada la oposición y aprobará o denegará la aprobación del convenio. En este último caso, declarará también improcedente la solicitud de divorcio.
 
 ###### ARTICULO 770.
 
@@ -6464,7 +6490,7 @@ Una vez aprobado el convenio, en los casos de los dos artículos, anteriores, en
 
 ###### ARTICULO 771.
 
-El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ###### ARTICULO 772.
 
@@ -6500,7 +6526,9 @@ Sección 1a.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 776.
 
@@ -6792,17 +6820,13 @@ ARTICULO 953 ter.- El procedimiento de extinción de dominio de bienes proceder�
 
 Inmediatamente que el Juez tenga conocimiento de la muerte del autor de una herencia, sin perjuicio de que muerto uno de los cónyuges continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición y mientras se presentan los interesados, procederá con intervención del Agente de la Procuraduría Social a asegurar los bienes:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+I. Si el difunto no era conocido o estaba de transeúnte en el lugar;
 
-I.- Si el difunto no era conocido o estaba de transeúnte en el lugar;
+II. Cuando haya niñas, niños y adolescentes interesadas; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+III. Cuando haya peligro de que se oculten o dilapiden los bienes.
 
-II.- Cuando haya menores interesados;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-III.- Cuando haya peligro de que se oculten o dilapiden los bienes.
+En su caso, llamará a la Procuraduría de Protección de Niñas, Niños y Adolescentes para los efectos de la representación coadyuvante o en suplencia, según corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2009)</small>
 
@@ -6896,11 +6920,13 @@ III.- Los juicios que sigan los herederos deduciendo la acción de petición de 
 
 IV.- Las acciones de los legatarios reclamando sus legados, siempre que sean posteriores a la formación de los inventarios y anteriores a la adjudicación, exceptuando los legados de alimentos, de pensiones, de educación y de uso y habitación.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 831.
 
-En los juicios sucesorios el Agente de la Procuraduría Social representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, a las personas menores de edad o incapaces que no tengan representantes legítimos y a la beneficencia pública cuando no haya herederos legítimos dentro de los grados que fija la ley y mientras no se haga reconocimiento o declaración de herederos.
+En los juicios sucesorios el Agente de la Procuraduría Social representará a los herederos ausentes mientras no se presenten o no acrediten su representante legítimo, o incapaces que no tengan representantes legítimos y a la beneficencia pública cuando no haya herederos legítimos dentro de los grados que fija la ley y mientras no se haga reconocimiento o declaración de herederos. En caso de haber niñas, niños y adolescentes se llamará a representación a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -7086,23 +7112,23 @@ III.- Los Legatarios.
 
 Con excepción de los casos señalados en el artículo que sigue, el inventario y avalúo se practicarán por memorias simples y extrajudicialmente.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 857.
 
 El inventario será solemne:
 
-I. Si la mayoría de herederos y legatarios así lo solicitan;
+l. Si la mayoría de herederos y legatarios así lo solicitan;
 
 II. Cuando los establecimientos de beneficencia tuvieren interés en la sucesión como herederos o legatarios;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
-
-III. Cuando habiendo menores interesados, el Agente de la Procuraduría Social lo solicite; y
+III. Cuando habiendo niñas, niños y adolescentes interesadas, la Procuraduría de Protección de Niñas, Niños y Adolescentes lo solicite; y
 
 IV. En los demás casos que expresamente lo prevenga este Código.
 
-El albacea de la sicesión (sic) está obligado a proporcionar al notario público ante quien se formule un inventario solemne, todos los documentos y demás elementos necesarios para ello y el notario tendrá facultad de hacer investigaciones y gestiones que se requieren para el mismo fin.
+El albacea de la sucesión está obligado a proporcionar al Notario Público ante quien se formule un inventario solemne, todos los documentos y demás elementos necesarios para ello y el Notario tendrá facultad de hacer investigaciones y gestiones que se requieren para el mismo fin.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -7470,9 +7496,13 @@ Los bienes que fueren indivisibles o que desmerezcan mucho con la división, pod
 
 Si no pudiere realizarse lo dispuesto en el artículo anterior y los herederos no convinieren en usufructuar los bienes en común u otra manera de pago, se procederá a su venta, prefiriéndose al heredero que haga mejor postura.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 918.
 
-La venta se hará en pública subasta admitiendo licitadores extraños, siempre que haya menores o que alguno de los herederos lo pida.
+La venta se hará en pública subasta admitiendo licitadores extraños, siempre que haya niñas, niños y adolescentes o que alguno de los herederos lo pida.
 
 ###### ARTICULO 919.
 
@@ -7556,9 +7586,13 @@ Sección 8a.
 
 De la Tramitación por Notarios.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 934.
 
-Una vez radicada la sucesión y hecha la declaratoria de herederos, cuando todos éstos sean mayores de edad o lo sea la mayoría y estuvieren debidamente representados los menores, o cuando hubiere un sólo heredero, aunque éste sea menor de edad, podrá continuar tramitándose la sucesión extrajudicialmente, ante los Notarios Públicos del Estado, mientras no se suscite controversia.
+Una vez radicada la sucesión y hecha la declaratoria de herederos, cuando todos éstos sean mayores de edad o lo sea la mayoría y estuvieren debidamente representadas las niñas, niños y adolescentes, o cuando hubiere un sólo heredero, aunque éste sea niña, niño o adolescente, podrá continuar tramitándose la sucesión extrajudicialmente, ante los Notarios Públicos del Estado, mientras no se suscite controversia. El Notario deberá velar por el interés superior de la niñez; previo a la protocolización, dará vista de las actuaciones a la Procuraduría de Protección de Niñas, Niños y Adolescentes, para que haga valer lo que a su representación corresponda.
 
 ###### ARTICULO 935.
 
@@ -7722,6 +7756,8 @@ Sección 1a.
 
 De la Declaración de Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTICULO 954.
 
 La jurisdicción voluntaria comprende todos los actos en que, por disposición de la ley o por solicitud de los interesados, se requiere la intervención del juez o del Notario Público que aquél designe como su auxiliar quien para ese efecto tendrá las mismas facultades que al juez le confiere la ley, sin que se haya promovido ni se promueva cuestión alguna entre partes determinadas, exceptuándose los actos de posesión en los que sólo intervendrá el juez o el auxiliar autorizado, cuando así lo exija la ejecución de una sentencia o en los demás casos en que la ley expresamente lo autorice o disponga.
@@ -7792,63 +7828,35 @@ Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que
 
 ###### ARTICULO 965.
 
-La declaración de estado de minoridad puede pedirse:
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-I.- Por el mismo menor que ha cumplido catorce años;
-
-II.- Por su cónyuge;
-
-III.- Por sus presuntos herederos legítimos;
-
-IV.- Por el ejecutor testamentario;
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
-
-V. Por el Agente de la Procuraduría Social y los Consejos de Familia.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 966.
 
-Si a la petición de declaración de minoridad se acompaña la certificación del Registro Civil, se hará la declaración de plano. En caso contrario se citará a una audiencia que se verificará dentro del tercer día, a la que concurrirá el menor si fuere posible y el Agente de la Procuraduría Social; en ella, con o sin la asistencia de éste y por las certificaciones del Registro Civil si hasta este momento se presentaron, por el aspecto del menor y a falta de aquéllas o de la presencia de éste, por medio de información de testigos, se hará o denegará la declaración correspondiente.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 967.
 
 La declaración de interdicción o su modificación, podrá pedirse:
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-I. Por el propio incapaz;
-
-(REFORMADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 21 DE ABRIL DE 2015)
+l. Por el propio incapaz;
 
 II. Por el cónyuge;
 
-(REFORMADA, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 21 DE ABRIL DE 2015)
-
 III. Por los presuntos herederos legítimos;
-
-(REFORMADA, P.O. 31 DE MAYO DE 2007) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
 IV. Por el ejecutor testamentario;
 
-(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
-
 V. Por el Agente de la Procuraduría Social;
 
-(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
+VI. Por el Sistema DIF estatal o municipal;
 
-VI. Por el Consejo de Familia;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
-
-VII. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor; y
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
+VIl. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor; y
 
 VIII. Por sus ascendientes y parientes consanguíneos en línea recta sin limitación de grados, los colaterales dentro del cuarto grado y los afines dentro del segundo.
 
@@ -8032,19 +8040,25 @@ Sección 2a.
 
 Del Nombramiento de Tutores y del Discernimiento de este Cargo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 975.
 
-Ninguna tutela podrá conferirse sin que previamente se declare el estado de minoridad o de incapacidad de la persona que va a quedar sujeta a ella.
+Ninguna tutela podrá conferirse sin que previamente se declare el estado de incapacidad de la persona que va a quedar sujeta a ella.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 976.
 
-Acreditado el nombramiento del tutor hecho por el que ejerce patria potestad, en última disposición, se discernirá el cargo por el juez sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo que con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez haga necesaria aquella.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 977.
 
-No habiendo relevación de garantía se exigirá ésta proporcionada al caudal que haya de administrarse y con entera sujeción a lo prescrito en el Código Civil.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8052,11 +8066,13 @@ No habiendo relevación de garantía se exigirá ésta proporcionada al caudal q
 
 Si el que no está en ejercicio de la patria potestad nombra tutor con arreglo a lo dispuesto en el capítulo de la Tutela Testamentaria en el Código Civil, se discernirá el cargo con relevo de garantía, si así lo hubiere dispuesto el testador en cuanto al caudal que deje. Lo dispuesto en este artículo se entenderá sin perjuicio de lo previsto en el artículo 976 de este código.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 979.
 
-Siempre que corresponda al Juez el nombramiento de tutor dativo a persona menores (sic) de edad, deberá recibir información sumaria de estar en alguno de los casos que conforme al Código Civil tiene lugar la Tutela Dativa, y convocará por edictos publicados por dos veces en el Boletín Judicial, o en el Periódico Oficial del Estado, o en un diario de los de mayor circulación, a juicio del Juez, a los parientes del incapaz a quienes pueda corresponder la tutela legítima.
+Siempre que corresponda al Juez el nombramiento de tutor dativo a niñas, niños y adolescentes, deberá recibir información sumaria de estar en alguno de los casos que conforme al Código Civil tiene lugar la Tutela Dativa, y convocará por edicto hasta por dos veces en el Boletín Judicial, o en el Periódico Oficial del Estado, o en un diario de los de mayor circulación, a juicio del Juez, a los parientes del incapaz a quienes pueda corresponder la tutela legítima.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -8064,19 +8080,23 @@ Siempre que corresponda al Juez el nombramiento de tutor dativo a persona menore
 
 Cuando expire el término de los edictos sin que se presente algún pariente del incapaz, se procederá al nombramiento de tutor dativo. Se hará lo mismo en casos de suma urgencia, aún cuando no haya concluido dicho término.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 981.
 
-La persona menor de edad podrá oponerse al nombramiento de tutor hecho por la persona que no siendo ascendiente lo hubiere instituido heredero o legatario, cuando tuviere dieciséis años o más.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ###### ARTICULO 982.
 
 Siempre que el tutor nombrado no reúna los requisitos que la ley exige para ser tutor o curador, el Juez denegará el discernimiento del cargo y proveerá al nombramiento en la forma y términos prevenidos por el Código Civil.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 983.
 
-Si sobre el nombramiento de un tutor se empeñare cuestión, se substanciará ésta en la vía sumaria y en el pleito que se siga representará al menor un tutor interino, que el Juez nombrará para este sólo efecto.
+Las controversias sobre el nombramiento de un tutor se substanciarán en la vía sumaria, y en el pleito que se siga se llamará a la representación coadyuvante.
 
 > <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
 
@@ -8102,41 +8122,49 @@ El importe de la garantía se determinará con audiencia del Agente de la Procur
 
 También se dará audiencia al Agente de la Procuraduría Social para la apreciación y aprobación de la garantía que se otorgue.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 987.
 
-Para facilitar y asegurar el otorgamiento de la garantía, los Jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso.
+Para facilitar y asegurar el otorgamiento de la garantía, los jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponda hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o la niña, niño o adolescente, en su caso.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 988.
 
-El tutor interino que en estos casos deba nombrarse conforme al Código Civil, presentará dentro del término que designe el juez y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo deba garantizar con arreglo al referido código.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 989.
 
-De este cómputo se dará traslado al Agente de la Procuraduría Social y en vista de su respuesta se determinará el otorgamiento de la garantía.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 990.
 
-Previa la aceptación del tutor designado y la prestación de la garantía en la forma que queda prevenida, se le discernirá el encargo, proveyendo auto en que se le faculte para ejercerlo con sujeción a la ley. De este auto se le darán los testimonios que pidiere para acreditar su personalidad.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 991.
 
-No se exigirá fianza a los tutores interinos cuando no tengan administración de bienes.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 1938)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 992.
 
-En todo caso en que se nombre al menor, tutor interino, se le designará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 993.
 
-La oposición de interés entre los sujetos a patria potestad y los que la ejerzan o entre los incapaces sujetos a la misma tutela, se calificará siempre con audiencia del Agente de la Procuraduría Social y sólo éste pida de conformidad, se nombrará el tutor interino.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -8144,11 +8172,13 @@ La oposición de interés entre los sujetos a patria potestad y los que la ejerz
 
 En todo auto de discernimiento del cargo de tutor, deberá el juez expresar el tanto por ciento que como retribución le corresponda al nombrarlo, o la pensión o legado que por el desempeño de su encargo le hubiese asignado el autor de la herencia.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 995.
 
-Los autos de nombramiento de tutor y de discernimiento del cargo se comunicarán al Oficial del Registro Civil para que levante el acta respectiva, se publicarán por dos veces, de tres en tres días, en el Boletín Judicial o en el Periódico Oficial del Estado y en el diario de mayor circulación a juicio del juez.
+Los autos de nombramiento de tutor y de discernimiento del cargo se comunicarán al Oficial del Registro Civil para que levante el acta respectiva, se publicarán hasta por dos veces, de tres en tres días, en el Boletín Judicial o en el Periódico Oficial del Estado, o en el diario de mayor circulación a juicio del juez.
 
 ###### ARTICULO 996.
 
@@ -8180,41 +8210,33 @@ Sección 4a.
 
 De la Vigilancia y Cuentas de la Tutela.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1001.
 
-En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición del Consejo de Familias y demás interesados, se insertará copia autorizada por el secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
+En los Juzgados de Primera Instancia, bajo el cuidado y responsabilidad del juez, se llevará un registro de los discernimientos que se hicieron de los cargos de tutor y de curador. En este registro, que estará siempre a disposición de la representación social y demás interesados, se insertará copia autorizada por el secretario, de los autos de discernimiento y se anotarán los demás actos que afecten el desempeño de la tutela.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1002.
 
-Dentro de los ocho primeros días de cada año, los jueces, en audiencia pública, con citación del Consejo de Familias y del Agente de la Procuraduría Social, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
+Dentro de los ocho primeros días de cada año, los jueces, en audiencia pública, con citación del agente de la Procuraduría Social, procederán a examinar dicho registro y en su vista dictarán, de las medidas siguientes, las que correspondan:
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
+l. Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la ley;
 
-I.- Si resultare haber fallecido algún tutor, hará que sea reemplazado con arreglo a la Ley;
+II. Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
+III. Exigirán también que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la rendición de cuentas detalladas en el mes de enero de cada año;
 
-II.- Si hubiere alguna cantidad de dinero depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil;
+IV. Obligarán a los tutores a que depositen los remanentes de las rentas o productos del caudal de los pupilos después de cubiertas las sumas señaladas conforme a las reglas establecidas para la administración y desempeño de la tutela establecidas en el Código Civil y pagado el tanto por ciento de administración;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+V. Si los jueces lo creyeran conveniente, decretarán depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de lo dispuesto en la fracción anterior; y
 
-III.- Exigirán también que rindan cuentas los tutores que deban darlas y que por cualquier motivo no hubieren cumplido con la rendición de cuentas detalladas en el mes de Enero de cada año;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-IV.- Obligarán a los tutores a que depositen los remanentes de las rentas o productos del caudal de los menores después de cubiertas las sumas señaladas conforme a las reglas establecidas para la administración y desempeño de la tutela establecidas en el Código Civil y pagado el tanto por ciento de administración;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-V.- Si los jueces lo creyeran conveniente, decretarán depósito cuando se presenten dificultades insuperables para el inmediato cumplimiento de lo dispuesto en la fracción anterior;
-
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 1967)</small>
-
-VI.- Pedirán, al efecto, las noticias que estimen necesarias del Juzgado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
+VI. Pedirán, al efecto, las noticias que estimen necesarias del juzgado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
 ###### ARTICULO 1003.
 
@@ -8232,11 +8254,11 @@ II.- El documento que pruebe que realmente se hizo el gasto.
 
 Cuando fueren muchos los libros y documentos que deban cotejarse, bastará que se presente la cuenta en extracto si estuvieren conformes el curador y el Agente de la Procuraduría Social, quienes tendrán derecho de examinar por sí mismos los libros originales; el Juez podrá, cuando alguno de ellos lo pida, nombrar un perito que glose la cuenta.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 1005.
 
-El tutor cuyo cargo haya concluido puede, al hacer la entrega de los bienes, retener los documentos para formar su cuenta previo consentimiento del curador o del pupilo, si salió ya éste de la menor edad y autorización judicial, a fin de presentarlos con ella.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -8272,15 +8294,23 @@ Si hacen observaciones relativas al fondo de la cuenta o se objetan de falsas o 
 
 El Agente de la Procuraduría Social y el curador podrán apelar de la resolución que apruebe las cuentas, si las hubieren impugnado; los mismos y el tutor podrán apelar de la que las desapruebe.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 1012.
 
-Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fraude del tutor, se iniciará desde luego el juicio de separación que se seguirá en la vía sumaria; si de las primeras diligencias resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, sin perjuicio de proceder a la instrucción de la respectiva causa.
+Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fraude del tutor, se iniciará desde luego el juicio de separación que se seguirán en la vía sumaria; si de las primeras diligencias resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, sin perjuicio de proceder a la instrucción de la respectiva causa.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1013.
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición, se substanciará juicio ordinario. En este juicio se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá, ni de las sentencias definitivas ni de las interlocutorias, recurso alguno. De la denegación de la licencia que haya pedido el tutor con aprobación del curador, se admitirán los recursos que correspondan según derecho, a los negocios de mayor interés.
+
+En los actos que relacionados con niñas, niños y adolescentes, el Juez llamará a la representación coadyuvante.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -8288,7 +8318,9 @@ En todos los casos en que el tutor necesite para algún acto de la licencia del 
 
 De la Adopción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1014.
 
@@ -8314,11 +8346,13 @@ La solicitud del tutor se substanciará en forma de incidente con el curador y e
 
 Los peritos que se designen para hacer el avalúo, serán nombrados por el Juez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1016.
 
-Respecto de las alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+Respecto de las alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte a la niña, niño o adolescente.
 
 Si se decreta la subasta se observarán en lo relativo las disposiciones de este Código.
 
@@ -8346,19 +8380,23 @@ El Juez cuidará, bajo su responsabilidad, de que se dé al precio que se haya o
 
 Si el tutor no estuviese relevado de dar garantía y faltare ésta o no fuere suficiente la que hubiere dado, el precio se depositará conforme al artículo 528 de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1021.
 
-Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los mismos términos señalados en el artículo 1015. El incidente se substanciará con el Agente de la Procuraduría Social y un tutor especial que para el efecto nombrará el Juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
+Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los mismos términos señalados en el artículo 1015. El incidente se substanciará con el Agente de la Procuraduría Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes, para efectos de la representación coadyuvante. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
 
 También requerirán los padres la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo las disposiciones del párrafo anterior, para obtenerla.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1022.
 
-Para recibir dinero prestado en nombre la (sic) persona menor de edad o incapaz, necesita el tutor la autorización judicial, que sólo podrá concederse con audiencia del curador.
+Para recibir dinero prestado en nombre de la niña, niño o adolescente, o incapaz, necesita quien ejerza la patria potestad o el tutor, según el caso, la autorización judicial, que sólo podrá concederse con audiencia del curador y de la Procuraduría Social.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -8388,69 +8426,75 @@ Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pe
 
 De la Excusa y Pérdida de la Patria Potestad y de la Emancipación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 1027.
 
-El que pretenda adoptar a alguna persona, deberá acreditar los requisitos establecidos en el Código Civil, según se trate de adopción plena o simple, los cuales deberán de acompañarse en la promoción inicial, y en la cual deberán manifestar: el nombre y edad de la persona en minoría de edad o incapaz, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela y, en su caso, el de la persona o del organismo público o privado que lo tenga bajo su custodia.
+El que pretenda adoptar a alguna persona, deberá acreditar los requisitos establecidos en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y el Código Civil, según se trate de adopción plena o simple, los cuales deberán de acompañarse en la promoción inicial, y en la cual deberán manifestar: el nombre y edad de la persona en minoría de edad o incapaz, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela y, en su caso, el de la persona o del organismo público o privado que lo tenga bajo su custodia.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+En caso de que a consideración del Juez, faltare algún documento para acreditar los requisitos que establece la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y el Código Civil, éste prevendrá a los solicitantes para que los presenten en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no los presentan en ese término se les tendrá por desistido al trámite.
 
-En caso de que a consideración del Juez, faltare algún documento para acreditar los requisitos que establece el Código Civil, éste prevendrá a los solicitantes para que los presenten en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no los presentan en ese término se les tendrá por desistido al trámite.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1028.
 
-Admitida la solicitud, el Juez escuchará a quien haya otorgado el consentimiento a fin de que el mismo sea ratificado, y dará vista al Agente de la Procuraduría Social y al Consejo de Familia, para que éstos manifiesten lo que a su representación corresponda.
+Admitida la solicitud, el juez escuchará a quien haya otorgado el consentimiento a fin de que el mismo sea ratificado, y dará vista al Agente de la Procuraduría Social y a la Procuraduría de Protección de Niñas, Niños y Adolescentes, para que éstos manifiesten lo que a su representación corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En el mismo auto se hará la declaración del Estado de Minoridad, se nombrará tutor dativo especial, cuando corresponda, y se señalará día y hora para la celebración de una audiencia a fin de desahogar las pruebas que fueren necesarias.
-
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2007)</small>
-
-En los procedimientos de adopción no será necesario el nombramiento de tutor dativo siempre que no exista oposición a la misma.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1029.
 
-Cuando el Código Civil lo señale y el adoptante y adoptado pidan que la adopción sea revocada, o se solicite la conversión de adopción simple a adopción plena, el juez los citará a una audiencia en que se escuchara a las partes.
+Cuando el Código Civil lo señale y el adoptante y adoptado pidan la conversión de adopción simple a adopción plena, el juez los citará a una audiencia en que se escuchará a las partes.
 
-En su resolución atenderá siempre a la conveniencia de los intereses morales y materiales del adoptado; en ambos casos se deberá oír al Agente Social y al Consejo de Familia Estatal, Municipal o Intermunicipal según sea el caso, los cuales deberán presentarse en la misma audiencia.
+En su resolución atenderá siempre a la conveniencia de los intereses morales y materiales del adoptado, y el interés superior de la niñez; en ambos casos se deberá oír al Agente Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes, según corresponda, los cuales deberán presentarse en la misma audiencia.
 
-Si el adoptado fuere menor de edad, no se decretará la conversión, sin escuchar, cuando sea posible, a quien o quienes manifestaron su consentimiento para la adopción.
+Si el adoptado fuere niña, niño o adolescente, no se decretará la conversión, sin escuchar, cuando sea posible, a quien o quienes manifestaron su consentimiento para la adopción.
 
 ###### ARTICULO 1030.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1031.
 
-Rendidas las justificaciones y desahogadas las pruebas, el juez dictará su resolución, en un término no mayor de quince días de la celebración de la audiencia, y al causar Estado remitirá copias de la misma al Oficial del Registro Civil para que levante el acta correspondiente, o para que cancele el acta de adopción si fuese revocación.
+Rendidas las justificaciones y desahogadas las pruebas, el juez dictará su resolución, en un término no mayor de quince días de la celebración de la audiencia, y al causar Estado remitirá copias de la misma al Oficial del Registro Civil para que levante el acta correspondiente.
 
 ### CAPITULO VI.
 
 De la Guarda y Custodia.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1032.
 
-La renuncia o excusa de la patria potestad se presentarán por escrito ante el Juez del domicilio del menor expresando los motivos en que se funden, y si hay otro ascendiente en quien deba recaer aquella o si el menor tiene otros parientes a quienes corresponda la tutela legítima.
+La renuncia o excusa de la patria potestad se presentarán por escrito ante el Juez del domicilio de la niña, el niño o adolescente, expresando los motivos en que se funden, y si hay otro ascendiente en quien deba recaer aquélla o si la niña, niño o adolescente tiene otros parientes a quienes corresponda la tutela legítima.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1033.
 
-El Juez admitirá la excusa si la encuentra debidamente fundada y mandará requerir al ascendiente para que se encargue del menor en su defecto requerirá la intervención del Agente de la Procuraduría Social para la designación del tutor y curador que corresponda, cuando no lo hicieren las personas a quienes la ley concede este derecho.
+El Juez admitirá la excusa si la encuentra debidamente fundada y mandará requerir al ascendiente para que se encargue de la niña, niño o adolescente; en su defecto requerirá la intervención de la Procuraduría de Protección de Niñas, Niños y Adolescentes para los efectos de la representación en suplencia.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1034.
 
-El menor que hubiere cumplido catorce años, sus parientes y a falta de éstos el Agente de la Procuraduría Social, podrá solicitar al Juez competente la declaración de la pérdida de la patria potestad en los casos previstos por el Código Civil. El Juez, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Sí el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
+La niña, niño o adolescente, sus parientes, y siempre acompañada por la Procuraduría de Protección de Niñas, Niños y Adolescentes, podrá solicitar al juez competente la declaración de la pérdida de la patria potestad en los casos previstos por el Código Civil. El juez, tan luego como reciba la solicitud, citará a las partes interesadas a una audiencia dentro del tercer día. Si el que ejerce la patria potestad está conforme con el hecho denunciado, se hará la declaración correspondiente y se llamará al sustituto al ejercicio de ese derecho.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -8458,33 +8502,37 @@ El menor que hubiere cumplido catorce años, sus parientes y a falta de éstos e
 
 La oposición razonada se resolverá en juicio sumario, debiendo el Juez dictar las medidas provisionales que estime necesarias para la guarda y custodia de los hijos, el régimen de visitas y convivencia y el aseguramiento de los bienes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 1036.
 
-El ascendiente que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor.
+El ascendiente que pierda la patria potestad en ningún caso podrá ser llamado a la tutela.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1037.
 
 El que solicite la emancipación, elevará su solicitud al juez de su domicilio, acompañando los justificantes de:
 
-I.- La edad que tenga el menor;
+l. La edad que tenga la niña, niño o adolescente;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+II. Estar la niña, niño o adolescente en aptitud para el manejo de sus intereses; y
 
-II.- Estar la persona menor de edad en aptitud para el manejo de sus intereses; y
+III. Observar la niña, niño o adolescente buena conducta.
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+Los hechos a que se refieren las dos últimas fracciones podrán acreditarse por medio de certificación de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-III.- Observar la persona menor de edad buena conducta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los hechos a que se refieren las dos últimas fracciones podrán acreditarse con información testimonial.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1038.
 
-El Juez oirá en forma de incidente al padre o tutor y al Agente de la Procuraduría Social y, sin más trámite dictará resolución en la que autorice o niegue la emancipación.
+El Juez oirá en forma de incidente al padre o tutor y a la Procuraduría de Protección de Niñas, Niños y Adolescentes y, sin más trámite, dictará resolución en la que autorice o niegue la emancipación.
 
 De este último auto no cabe recurso alguno y el que la conceda será apelable en ambos efectos.
 
@@ -8506,13 +8554,27 @@ De las Informaciones Ad-Perpetuam.
 
 Podrá decretarse la guarda y custodia:
 
-I. De personas menores de edad o incapaces sujetas a patria potestad, a tutela, o adopción en trámite, si son maltratadas por sus padres o reciben de éstos ejemplos de conductas nocivas para la salud física o síquica o son obligadas por ellos a cometer actos reprobados por la ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+l. De niñas, niños y adolescentes o incapaces sujetas a patria potestad, a tutela, o adopción en trámite, si son maltratadas por sus padres o reciben de éstos ejemplos de conductas nocivas para la salud física o síquica o son obligadas por ellos a cometer actos reprobados por la ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 II. De huérfanos o incapaces que queden en el abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren;
 
-III. De la persona menor de edad que deseando contraer matrimonio necesite acudir a la autoridad judicial para que supla el consentimiento de sus padres o tutores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. De la persona menor de edad cuya adopción se tramita, en la persona o personas que lo solicitan.
+III. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+IV. De la niña, niño o adolescente cuya adopción se tramita, en la persona o personas que lo solicitan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -8536,11 +8598,13 @@ III. En su caso, que se acredite que la adopción está en trámite.
 
 Estos hechos podrán acreditarse con información testimonial.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1042.
 
-Podrán los Jueces, no obstante lo dispuesto en el artículo anterior, decretar la guarda y custodia sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición del Agente de la Procuraduría Social.
+Podrán los Jueces, no obstante lo dispuesto en el artículo anterior, decretar la guarda y custodia sin solicitud escrita del interesado, cuando les conste la imposibilidad en que se encuentre de formularla o a petición de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -8558,51 +8622,53 @@ Si sobre esto se promoviese cuestión, el Juez sin ulterior recurso determinará
 
 El Juez determinará en función de los recursos económicos de que dispongan ambos padres, la cantidad que estos deberán satisfacer en concepto de alimentos provisionales para la atención a los hijos. Cada uno de ellos contribuirá a estos gastos en atención a sus propios recursos y las necesidades de sus hijos.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 1045.
 
-Verificada la guarda y custodia, en el caso de los artículos que preceden, se hará saber al curador, si lo tuviere el custodiado a fin de que practique en su defensa las gestiones que correspondan. En su caso, el Juez podrá dar vista al Agente de la Procuraduría Social.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1046.
 
-Inmediatamente que tuviere noticia un Juez de que algún huérfano, menor de edad o incapaz, se hallare en el caso de que habla la fracción II del artículo 1040, procederá a ponerlo en custodia de la persona o institución que estime conveniente, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género y dispondrá que se provea al interesado de tutor, conforme a derecho.
+Inmediatamente que tuviere noticia un Juez de que algún huérfano, niña, niño o adolescente, o incapaz, se hallare en el caso de que habla la fracción II del artículo 1040, procederá a ponerlo en custodia personal o institucional, según se estime conveniente conforme a la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y el Código Civil, adoptando respecto de sus bienes, las precauciones oportunas para evitar abusos de todo género.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 1047.
 
-En el caso de la fracción III del artículo 1040, recibida la solicitud de guarda y custodia, que deberá ser hecha por escrito, el Juez se trasladará al domicilio de la persona menor de edad, y si ésta ratifica la solicitud, se prevendrá al ascendiente o tutor para que designe persona que asuma el cuidado del menor de edad. Sobre esta designación se oirá al interesado y si éste no se opone o el Juez estima infundada la oposición confirmará el nombramiento. Si considera fundada la oposición el Juez nombrará a la persona que estime conveniente para que se encargue de su cuidado.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 1048.
 
-Hecho el nombramiento de la persona que asuma el cuidado del menor, el Juez practicará las diligencias previstas en los artículos 1043 y 1044.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 1049.
 
-Durará la guarda y custodia hasta que se verifique el matrimonio, salvo que el Juez niegue la autorización para contraerlo o que el custodiado desista de sus pretensiones.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-En los dos últimos casos el Juez volverá a la persona menor de edad a casa de las personas bajo cuya potestad se encontraba. El acta de la diligencia deberá obrar en el expediente de guarda y custodia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-ARTICULO 1049 BIS.- En caso de personas menores de edad expósitas o abandonadas, el Juez tomará las medidas para que las autoridades busquen a sus padres; entre tanto se localizan o resultan ausentes o ignorados, o hubiere presunción de muerte, se decretará la guarda y custodia temporal.
+ARTICULO 1049 BIS.- En caso de niñas, niños y adolescentes expósitos o abandonados, el Juez tomará las medidas para que las autoridades busquen a sus padres; entre tanto se localizan o resultan ausentes o ignorados, o hubiere presunción de muerte, se decretará la guarda y custodia temporal, y la representación en suplencia por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 En caso de encarcelamiento de quien ejerza la guarda y custodia, el Juez fijará las condiciones para salvaguardar el derecho de visitas y convivencia.
 
-Cuando la guarda y custodia se decrete a favor de una institución, ésta deberá rendir informes al Consejo de Familia donde le dará a conocer el estado que guarda la persona custodiada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1050.
 
-En las diligencias de que trata este capítulo se oirá precisamente al Agente de la Procuraduría Social y contra las resoluciones que se dicten no procederá recurso alguno.
+En las diligencias de que trata este capítulo se oirá precisamente a la Procuraduría de Protección de Niñas, Niños y Adolescentes y contra las resoluciones que se dicten no procederá recurso alguno.
 
 ### CAPITULO VIII.
 
@@ -8674,7 +8740,9 @@ No tendrá valor la información cuando se hubiere recibido habiendo juicio pend
 
 Disposiciones Relativas a Otros Actos de Jurisdicción Voluntaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1058.
 
@@ -8742,21 +8810,9 @@ Los gastos del apeo se harán a prorrata por el que lo promueva y los propietari
 
 Se tramitarán como está prevenido para los incidentes, oyendo precisamente a los interesados con derecho a oponerse y al Agente de la Procuraduría Social:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+l. Las dispensas que para contraer matrimonio procedan conforme al Código Civil, y
 
-I.- Las dispensas que para contraer matrimonio procedan conforme al Código Civil;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-II.- La dispensa para no habitar en el domicilio conyugal en los casos previstos por el Código Civil;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-III.- La suplencia de consentimiento de los ascendientes o tutores para que un menor de dieciocho y mayor de dieciséis años contraiga matrimonio o para que uno sólo de los cónyuges obligue o enajene o para que un cónyuge acepte o repudie la herencia común sin consentimiento del otro;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
-
-IV.- La autorización a los cónyuges menores de edad para enajenar gravar o hipotecar sus bienes o para celebrar el convenio en que se liquide la sociedad conyugal.
+II. La dispensa para no habitar en el domicilio conyugal por alguno de los cónyuges o concubinos, en los casos previstos por el Código Civil.
 
 ## TITULO DECIMO CUARTO.
 
@@ -9379,3 +9435,39 @@ SEGUNDO. Los juicios que se encuentren en trámite a la entrada en vigor del pre
 P.O. 22 DE AGOSTO DE 2015.
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.
+
+TERCERO. El titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.
+
+CUARTO. El Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.
+
+QUINTO. Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.
+
+SEXTO. Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.
+
+En todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.
+
+SÉPTIMO. El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.
+
+OCTAVO. El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.
+
+DÉCIMO. Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero transitorio del presente Decreto.
+
+DÉCIMO PRIMERO. Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.
+
+DÉCIMO SEGUNDO. Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.
+
+DÉCIMO TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el artículo 46 del Código de Asistencia Social del Estado de Jalisco.
+
+DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
+
+DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
