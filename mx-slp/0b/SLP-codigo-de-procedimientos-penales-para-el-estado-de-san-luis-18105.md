@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-penales-para-el-estado-de-san-luis-181
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2014-07-30"
+last_updated: "2015-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18105&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO Y SU TRANSITORIO ÚNICO DEL DECRETO NÚMERO 752, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 30 DE SEPTIEMBRE DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -615,7 +615,7 @@ Para la validez de las sentencias y de los autos que no sean de mero trámite, d
 
 ###### ARTICULO 93.
 
-Cuando alguno de los componentes del Tribunal de Alzada no estuviere conforme con la resolución de la mayoría, expresará sucintamente (sic) las razones de su inconformidad en voto particular que se agregará al expediente.
+Cuando alguno de los componentes del Tribunal de Alzada no estuviere conforme con la resolución de la mayoría, expresará sucintamente las razones de su inconformidad en voto particular que se agregará al expediente.
 
 ###### ARTICULO 94.
 
@@ -811,9 +811,11 @@ Si a pesar de haberse tomado las providencias que señala este artículo no se l
 
 Las prendas de vestir se describirán minuciosamente en el expediente y se conservarán en depósito seguro para que puedan ser presentados a los testigos de identidad.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 122.
 
-Los cadáveres, previa inspección y descripción minuciosas hechas por el Agente del Ministerio Público que practique las primeras diligencias, podrán ser entregados a los peritos médicos para que practiquen la necropsia cuando proceda, y posteriormente serán entregados a quienes con derecho los reclamen.
+Los cadáveres, previa inspección y descripción minuciosas realizada por el Agente del Ministerio Público que practique las primeras diligencias, serán entregados a los peritos médicos para que practiquen la necropsia cuando proceda, mismos que deberán ser trasladados preferentemente en vehículos oficiales, con las medidas de seguridad necesarias; y posteriormente se entregarán a sus familiares o a quienes invoquen titulo o motivo suficiente para reclamarlos.
 
 ###### ARTICULO 123.
 
@@ -905,7 +907,7 @@ Tratándose de delitos flagrantes y casos urgentes, ningún inculpado podrá ser
 
 Cuando estén reunidos los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, el juez librará orden de aprehensión contra el inculpado, a pedimento del Ministerio Público.
 
-La resolución correspondiente contendrá una relación sucinta (sic) de los hechos que la motivan, la clasificación provisional del ilícito y los datos que acrediten tanto el cuerpo del delito como la probable responsabilidad del inculpado; transcribiéndose inmediatamente al Ministerio Público para que se le ordene a la policía ministerial su ejecución.
+La resolución correspondiente contendrá una relación sucinta de los hechos que la motivan, la clasificación provisional del ilícito y los datos que acrediten tanto el cuerpo del delito como la probable responsabilidad del inculpado; transcribiéndose inmediatamente al Ministerio Público para que se le ordene a la policía ministerial su ejecución.
 
 ###### ARTICULO 133.
 
@@ -1205,7 +1207,9 @@ Cuando se determine la internación de alguna persona a un hospital u otro estab
 
 El Ministerio Público ordenará a los médicos legistas la práctica de la necropsia cuando considere probable la comisión del delito de homicidio y requerirá la mayor prontitud para perfeccionar la averiguación previa y en el menor tiempo posible hacer la consignación al Juez de su adscripción.
 
-Si los peritos médicos consideran que la muerte fue natural, así lo hará saber al Ministerio Público para los efectos legales correspondientes.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+Si los peritos médicos consideran que la muerte fue natural, así lo harán saber al Ministerio Público para los efectos legales correspondientes; e inmediatamente se entregará el cadáver a los familiares, o a quienes invoquen título o motivo suficiente para reclamarlos.
 
 ###### ARTICULO 166.
 
@@ -1715,7 +1719,7 @@ De todo lo ocurrido en la diligencia se dejará constancia en el acta, la cual, 
 
 ###### ARTICULO 235.
 
-No podrá consignarse a ninguna persona si existe como única prueba la confesión. La policía ministerial podrá rendir informes pero no obtener confesiones; si lo hace (sic) estas carecerán de todo valor probatorio.
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La policía ministerial podrá rendir informes pero no obtener confesiones; si lo hace estas carecerán de todo valor probatorio.
 
 ### CAPITULO III. INSPECCION Y RECONSTRUCCION DE HECHOS
 
@@ -3113,7 +3117,7 @@ La competencia por declinatoria no podrá resolverse hasta después de que se pr
 
 ###### ARTICULO 438.
 
-El juez que reciba las actuaciones que le remita el que se hubiere declarado incompetente, oirá al Ministerio Público dentro de tres días y resolverá en el término de seis días siguientes a la recepción de las mimas (sic) si reconoce su competencia. Si no la reconoce remitirá los autos al Juez de competencia con su opinión, comunicándolo al juez que hubiere enviado el expediente.
+El juez que reciba las actuaciones que le remita el que se hubiere declarado incompetente, oirá al Ministerio Público dentro de tres días y resolverá en el término de seis días siguientes a la recepción de las mimas si reconoce su competencia. Si no la reconoce remitirá los autos al Juez de competencia con su opinión, comunicándolo al juez que hubiere enviado el expediente.
 
 ###### ARTICULO 439.
 
@@ -4128,3 +4132,9 @@ Se ABROGA el Código de Procedimientos Penales para el Estado de San Luis Potos�
 TRANSITORIO DEL ARTÍCULO SEGUNDO
 
 ÚNICO. La abrogación que se decreta en el presente, entrará en vigor el 30 de septiembre del año 2014, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
