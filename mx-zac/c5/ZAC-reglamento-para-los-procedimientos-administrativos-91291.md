@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-los-procedimientos-administrativos-91291"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-19"
-last_updated: "2012-12-19"
+last_updated: "2015-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "ZAC"
 
 REGLAMENTO PARA LOS PROCEDIMIENTOS ADMINISTRATIVOS SANCIONADORES ELECTORALES DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ELECTORAL DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento 2 del Periódico Oficial del Gobierno de Zacatecas, el miércoles 19 de diciembre de 2012.
 
@@ -1493,3 +1495,17 @@ Tercero. Se derogan todas aquellas disposiciones reglamentarias y demás normati
 Cuarto. Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado y en la página www.ieez.org.
 
 Quinto. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+Primero. Se abroga el Reglamento para los Procedimientos Administrativos Sancionadores del Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, el catorce de diciembre de dos mil doce.
+
+Segundo. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Reglamento, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+Tercero. Se derogan todas aquellas disposiciones reglamentarias y demás normatividad que se oponga al presente Reglamento.
+
+Cuarto. El presente Reglamento, entrará en vigor y surtirá sus efectos a partir de su aprobación por el Consejo General del Instituto Electoral.
+
+Quinto. Publíquese en el Periódico Oficial, Órgano de Gobierno del Estado.
