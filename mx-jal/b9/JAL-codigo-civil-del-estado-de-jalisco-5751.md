@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2015-04-25"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -451,11 +451,15 @@ El mayor de edad dispone libremente de su persona y de sus bienes, salvo los cas
 
 La capacidad de ejercicio se reconoce por la ley a los mayores de edad, así como a las personas menores de edad emancipadas, en los casos que determine la ley.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 49.
 
-La minoría de edad, la interdicción y demás incapacidades que establezca la ley, son limitaciones a la capacidad de ejercicio.
+La interdicción y demás incapacidades que establezca la ley, son limitaciones a la capacidad de ejercicio.
+
+Tratándose de niñas, niños y adolescentes se estará a lo dispuesto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes y este Código.
 
 ### CAPITULO VII. Del estado de interdicción
 
@@ -1697,15 +1701,29 @@ Art. 267 bis.- EL HOMBRE Y LA MUJER, acreditarán ante el Oficial del Registro C
 
 Son impedimentos para celebrar el matrimonio:
 
-I. La falta de edad requerida por la ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. El parentesco de consanguinidad, legítimo o natural, sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos, medios hermanos y primos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-III. El parentesco de afinidad en línea recta, sin limitación alguna;
+I. Ser menor de 18 años de edad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+II. El parentesco de consanguinidad, legítimo o natural, sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos, medios hermanos y primos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos. El parentesco de afinidad en línea recta, sin limitación alguna;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+III. El parentesco de consanguinidad en línea colateral en el tercero y cuarto grados;
 
 IV. El matrimonio subsistente;
 
-V. La falta de consentimiento cuando es necesario del que, o los que ejerzan la patria potestad, del tutor, del Consejo de Familia, en sus respectivos casos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+V. (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
@@ -1721,15 +1739,21 @@ IX. La fuerza o miedo graves;
 
 X. No acreditar ante el Oficial del Registro Civil, que los interesados recibieron el curso prematrimonial, a que se hace referencia en el artículo anterior.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral en el tercero y cuarto grados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+De estos impedimentos sólo es dispensable el enunciado en la fracción III.
 
 ###### Art. 269.
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Art. 270.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz o acredite ante en (sic) Consejo de Familia de su domicilio y mediante el informe de un médico de institución pública de salud sobre su estado de ingravidez, quedando mediante la resolución que se pronuncie libre de contraer matrimonio antes de transcurrir el plazo citado. En los casos de invalidez matrimonial o de divorcio, se aplicará este mismo criterio contabilizándose el tiempo desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ###### Art. 271.
 
@@ -1745,9 +1769,13 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo 
 
 Los cónyuges deben contribuir, cada uno por su parte, a los fines del matrimonio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 274.
 
-Los cónyuges vivirán juntos en el domicilio conyugal que de común acuerdo establezcan, y en el cual ambos disfrutarán de autoridad propia y consideraciones iguales. El Consejo de Familia con conocimiento de causa, podrá recomendar se exima de esta obligación a alguno de ellos, cuando el otro se establezca en lugar insalubre, indecoroso, peligroso, o traslade el domicilio a país extranjero, a no ser que lo haga en servicio público.
+Los cónyuges vivirán juntos en el domicilio conyugal que de común acuerdo establezcan, y en el cual ambos disfrutarán de autoridad propia y consideraciones iguales. El Sistema DIF estatal o municipal con conocimiento de causa, podrá recomendar se exima de esta obligación a alguno de ellos, cuando el otro se establezca en lugar insalubre, indecoroso, peligroso, o traslade el domicilio a país extranjero, a no ser que lo haga en servicio público.
 
 También cesará la obligación que tienen los cónyuges de vivir juntos cuando uno de ellos padezca temporalmente enfermedad del orden psíquico o infeccioso.
 
@@ -1763,9 +1791,13 @@ Los deberes y derechos que nacen del matrimonio serán iguales para los cónyuge
 
 Cada uno de los cónyuges tiene un derecho preferente sobre los bienes propios del otro, y sobre los productos e ingresos que correspondan a los gastos de alimentación para el cónyuge y sus hijos, pudiendo pedir el aseguramiento de bienes, para hacer efectivo este derecho.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 277.
 
-Los cónyuges decidirán de común acuerdo todo lo concerniente al manejo del hogar, a la formación, educación y desarrollo psíquico de los hijos. En caso de desacuerdo, el Consejo de Familia podrá emitir recomendación al respecto; procurando en todo caso avenir a los cónyuges en ese aspecto.
+Los cónyuges decidirán de común acuerdo todo lo concerniente al manejo del hogar, a la formación, educación y desarrollo psíquico de los hijos. En caso de desacuerdo, el Sistema DIF estatal o municipal podrá emitir recomendación al respecto; procurando en todo caso avenir a los cónyuges en ese aspecto.
 
 ###### Art. 278.
 
@@ -1781,9 +1813,11 @@ Es deber y obligación de los cónyuges, la fidelidad sexual y afectiva, procura
 
 Los cónyuges mayores de edad, tienen capacidad para administrar, disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Art. 281.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes en los términos del artículo que precede; pero necesitarán autorización judicial para transmitirlos, grabarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ###### Art. 282.
 
@@ -1801,9 +1835,11 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 Las capitulaciones matrimoniales en que se pacte la separación de bienes, constarán en escritura pública; pero serán válidas las celebradas antes o en el acto mismo del matrimonio, aun cuando consten en documento privado, siempre que fueren ratificadas ante el Oficial del Registro Civil.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Art. 286.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario, para la celebración del matrimonio, o la autorización judicial si las capitulaciones se pactan después de celebrado el matrimonio.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ### CAPITULO V. De la sociedad legal
 
@@ -2011,9 +2047,13 @@ Son igualmente cargas de la sociedad, los gastos de inventarios y demás que se 
 
 #### Sección Tercera. De la liquidación de la sociedad
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 327.
 
-La sociedad puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos, pero si éstos o alguno de ellos son menores de edad, el convenio relativo no podrá celebrarse sin autorización judicial.
+La sociedad puede terminar antes de que se disuelva el matrimonio si así lo convienen los esposos.
 
 ###### Art. 328.
 
@@ -2123,11 +2163,13 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos, o en su defecto, de la sociedad legal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 352.
 
-Durante el matrimonio, la separación de bienes puede terminar para ser sustituida por la sociedad legal o la sociedad conyugal; pero si los consortes son menores de edad, no podrá celebrarse sin autorización judicial.
-
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+Durante el matrimonio, la separación de bienes puede terminar para ser sustituida por la sociedad legal o la sociedad conyugal.
 
 ###### Art. 353.
 
@@ -2191,9 +2233,13 @@ Tampoco se revocarán por ingratitud, a no ser que el donante fuere un tercero, 
 
 Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 368.
 
-Los menores pueden hacer donaciones antenupciales pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+No podrán realizarse donaciones antenupciales cuando el donador o el donatario sea niña, niño o adolescente.
 
 ###### Art. 369.
 
@@ -2261,11 +2307,13 @@ V. La subsistencia de matrimonio anterior de cualesquiera de los otorgantes.
 
 La acción de ilegitimidad, prevista en el artículo anterior, podrá ejercitarse en todo tiempo, en los casos señalados en las cuatro primeras fracciones, por los cónyuges o por sus ascendientes; en el supuesto de la fracción V, por el cónyuge del primer matrimonio, por los hijos de aquél y por los cónyuges que contrajeron el segundo.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 380.
 
-Las acciones de ilegitimidad matrimonial por ineficacia, son imprescriptibles y no podrán ser legitimadas; y si no son ejercitadas por las personas facultadas, deberá promover su ilegitimidad el Agente de la Procuraduría Social o el Consejo de Familia.
+Las acciones de ilegitimidad matrimonial por ineficacia, son imprescriptibles y no podrán ser legitimadas; y si no son ejercitadas por las personas facultadas, deberá promover su ilegitimidad el Agente de la Procuraduría Social.
 
 #### Sección Tercera. De la ilegitimidad por invalidez matrimonial
 
@@ -2279,37 +2327,41 @@ II. El error acerca de la persona con quien se contrae; y
 
 III. Celebrarse concurriendo alguno de los impedimentos señalados en las fracciones de la V a la IX del artículo 268.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Art. 382.
 
-La ilegitimidad por invalidez fundada en la edad menor de dieciséis años en el hombre y la mujer, puede ser demandada por los ascendientes, y a falta de estos por quien desempeñaba la tutela o por el tutor que para el efecto se nombre.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 383.
 
-La acción a que se refiere el artículo anterior, cesa:
-
-I. Cuando haya habido hijos; y
-
-II. Cuando, aunque no los haya habido, el cónyuge que al celebrarse el matrimonio no tenía la edad requerida para contraerlo, cumpla dieciocho años sin que se hubiese intentado la acción de ilegitimidad por invalidez.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ###### Art. 384.
 
 La acción de ilegitimidad por invalidez que nace de error sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por consentido y por ende queda subsistente el matrimonio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Art. 385.
 
-La ilegitimidad por invalidez fundada en la falta de consentimiento de los ascendientes sólo podrá alegarse por aquél o aquéllos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 386.
 
-Cesa esta causa de ilegitimidad:
+Cesa esta causa de ilegitimidad si han pasado los treinta días sin que se haya pedido.
 
-I. Si han pasado los treinta días sin que se haya pedido; y
-
-II. Si dentro de este término, el ascendiente ha consentido expresa o tácitamente en el matrimonio, de manera fehaciente a juicio del juez.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 387.
 
-La acción de ilegitimidad por invalidez fundada en la falta de consentimiento del tutor o del Consejo de Familia, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, por el tutor o por el Consejo de Familia; pero dicha causa de ilegitimidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o del Consejo de Familia, confirmando el matrimonio.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
 
@@ -2759,11 +2811,13 @@ Cuando no exista otro apoyo, los hermanos mayores tienen la obligación de dar a
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 438.
 
-Toda persona que hubiere recibido alimentos de una institución ya sea pública, descentralizada o privada, como pueden ser hospicios, orfelinatos, casas de cuna y otras afines, tiene la obligación a su vez de proporcionar alimentos a otro interno de esas instituciones y, en caso de que ya hubieren desaparecido, a otra similar. El Consejo de Familia o el Agente de la Procuraduría Social, indistintamente, podrán ejercitar tal reclamación.
+Toda persona que hubiere recibido alimentos de una institución ya sea pública, descentralizada o privada, como pueden ser centros de asistencia social, también conocidos como albergues, hospicios, orfelinatos, casas de cuna y otras afines, tienen la obligación a su vez de proporcionar alimentos a otro interno de esas instituciones y, en caso de que ya hubieren desaparecido, a otra similar. La Procuraduría de Protección de Niñas, Niños y Adolescentes, podrá ejercitar tal reclamación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2013)</small>
 
@@ -2801,6 +2855,10 @@ Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de l
 
 La obligación de dar alimentos no comprende la de proveer de capital a los acreedores alimentarios para ejercer el oficio, arte o profesión a que se hubieren dedicado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 446.
 
 Tienen acción para pedir el aseguramiento de los alimentos:
@@ -2811,13 +2869,9 @@ II. El ascendiente que lo tenga bajo su patria potestad;
 
 III. El tutor;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
-
 IV. El Agente de la Procuraduría Social; y
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2006, [N. DE E. REUBICADA], P.O. 31 DE MAYO DE 2007)</small>
-
-V. El Consejo de Familia.
+V. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Art. 447.
 
@@ -2951,9 +3005,15 @@ En el juicio de contradicción de la paternidad, serán oídos la madre y el hij
 
 En todo caso, el juez atenderá el interés superior de los menores.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 469.
 
-Para los efectos legales, sólo se reputa viable el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias, nunca nadie podrá entablar demanda sobre la paternidad.
+Para los efectos legales, sólo se reputa viable la persona nacida viva una vez comprobado el hecho, al haber sido expulsada o extraída de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida, conforme a lo establecido en la Ley General de Salud, y que consta en certificado de nacimiento expedido por profesional de la medicina o persona autorizada para ello por la autoridad sanitaria competente; o es presentada viva al Ministerio Público, Registro Civil o la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Faltando alguna de estas circunstancias, nunca nadie podrá entablar demanda sobre la paternidad.
 
 ###### Art. 470.
 
@@ -3075,23 +3135,13 @@ Si dentro del procedimiento correspondiente se oferta una prueba científica a f
 
 Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 493.
 
-El menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Consejo de Familia, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al Agente de la Procuraduría Social dentro de los ocho días siguientes, apercibido de que de no hacerlo se le aplicará una multa equivalente de cinco a cincuenta días de salario mínimo general, incurriendo en igual pena el Agente de la Procuraduría Social que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio, no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-Si transcurrido el término de sesenta días, no se hubiere resuelto el caso por el Agente de la Procuraduría Social, el Oficial del Registro Civil o cualquiera de los interesados podrán ocurrir al Juez de la localidad a fin de que apremie al agente moroso, imponiéndole la pena que corresponda y señalando nuevo término, que no podrá exceder de treinta días, con el apercibimiento de ser destituido si nuevamente faltare al cumplimiento de su obligación, a cuyo efecto, llegado el caso, se pondrá en conocimiento del superior jerárquico para que haga efectiva esta sanción.
-
-Los padres o tutores y cualquier otro interesado que pretenda objetar un reconocimiento, deberá hacerlo en juicio ordinario.
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-Si el Agente de la Procuraduría Social se hubiere opuesto a la diligencia de reconocimiento, la oposición se tramitará en juicio ordinario ante el Juez de Primera Instancia que corresponda, oyéndose a un tutor especial de quien haya hecho el reconocimiento.
+La niña, niño o adolescente podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores; pero tal reconocimiento no producirá efectos mientras no sea ratificado por la Procuraduría de Protección de Niñas, Niños y Adolescentes, quien deberá emitir su dictamen dentro de los sesenta días siguientes.
 
 ###### Art. 494.
 
@@ -3169,17 +3219,21 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 510.
 
-Cuando el padre y la madre que no vivan juntos, reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, al Consejo de Familia y al Agente de la Procuraduría Social, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos, reconozcan a una niña, niño o adolescente en el mismo acto, podrán convenir los términos de la guarda y custodia compartida y, en su caso, el régimen de visitas y convivencia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, la Procuraduría de Protección de Niñas, Niños y Adolescentes, resolverá lo que creyere más conveniente al interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 511.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Agente de la Procuraduría Social.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido; cuando hubiera reconocido el otro de los padres, ejercerán ambos la patria potestad y podrán convenir los términos de la guarda y custodia compartida, siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Art. 512.
 
@@ -3239,7 +3293,9 @@ III. Percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 520.
 
@@ -3267,33 +3323,29 @@ II. Los mayores de edad cuando sean incapaces.
 
 III. Los mayores de edad, si antes de serlo hubieran estado bajo el cuidac (sic) personal de los presuntos adoptantes y existieran entre ellos lazos afectivos c (sic) carácter filial.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 521.
 
 En toda adopción se deberá asegurar:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+I. Que las personas y organismos, cuyo consentimiento se requiera para la adopción, han sido convenientemente asesoradas y debidamente informadas por la Procuraduría de Protección de Niñas, Niños y Adolescentes, de las consecuencias legales que la adopción implica y del consentimiento otorgado en particular de la ruptura de los vínculos jurídicos entre la niña, niño o adolescente y su origen, en su caso;
 
-I. Que las personas y organismos, cuyo consentimiento se requiera para l (sic) adopción, han sido convenientemente asesoradas y debidamente informad (sic) por el Consejo Estatal o Municipal de familia, de las consecuencias legal (sic) que la adopción implica y del consentimiento otorgado en particular de l (sic) ruptura de los vínculos jurídicos entre el infante y su origen en su caso;
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
-
-II. Que el consentimiento ha sido otorgado libremente, ante el Consejo Estatal, municipal o Intermunicipal de Familia, previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción, o en el caso que medie urgencia, ante el Agente Social, el cual deberá entregar al juez que conozca del trámite el documento que ampare el consentimiento informado donde consten los motivos de dicha urgencia;
+II. Que el consentimiento ha sido otorgado libremente, ante la Procuraduría de Protección de Niñas, Niños y Adolescentes, previa asesoría y por escrito ratificado ante el Juez que conozca del procedimiento de adopción;
 
 III. Que para otorgarse el consentimiento no ha mediado pago o compensación alguna;
 
 IV. Cuando sea el caso, que el consentimiento de la madre, sea otorgado cuando menos veinte días después del alumbramiento;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+V. Que el adoptante o los adoptantes, según el caso, han recibido por parte (sic) la Procuraduría de Protección de Niñas, Niños y Adolescentes, el certificado de idoneidad a que se refiere la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes;
 
-V. Que el adoptante o los adoptantes, según el caso, han recibido por parte del Consejo de Familia estatal, municipal o intermunicipal, la debida asesoría y capacitación sobre los alcances psíquicos afectivos y jurídicos que la adopción les implica, para ello los adoptantes, en todos los casos, deberán acreditar ante el Consejo de Familia que cuentan en ese momento con la salud física y psíquica con el respectivo certificado expedido por una Institución oficial.
+VI. Que en el caso de las madres menores de edad, el consentimiento otorgado por la Procuraduría de Protección de Niñas, Niños y Adolescentes, y se deberá escuchar a la representación social; y
 
-VI. Que en el caso de las madres menores de edad no emancipadas, el consentimiento otorgado se haga conforme a lo establecido en este Código para el caso de incapaces; y
+VII. Que las autoridades procuren que la persona en proceso de adopción tenga la posibilidad de desarrollarse en un ambiente sano familiar.
 
-VII. Que las autoridades procuren que el menor sujeto a adopción tenga la posibilidad de desarrollarse en un ambiente sano familiar.
-
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+Queda prohibido realizar cualquier cobro por concepto de tramitación de adopciones, acogimiento pre-adoptivo y familias de acogida en los casos de niñas, niños y adolescentes que se encuentren en albergues o en centros de asistencia social. Los profesionistas particulares, estarán sujetos a lo establecido en el arancel.
 
 En todos los casos los adoptantes deben tener al momento del inicio de los trámites de adopción, la salud física y psíquica necesarios para cumplir con el desempeño que la paternidad legal trae consigo con la adopción y dicha acreditación deberá ser expedida por institución oficial.
 
@@ -3303,13 +3355,15 @@ En todos los casos los adoptantes deben tener al momento del inicio de los trám
 
 En todos los casos de adopción, se tendrán como preferentes los intereses del adoptado sobre los de los adoptantes.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 523.
 
-El consentimiento, tratándose de niños cuyos padres ha (sic) fallecido, o han perdido la patria potestad; lo deben dar las personas quienes por ley corresponda el ejercicio de la patria potestad o la tutel (sic) legítima; y tratándose de niños de filiación desconocida, expósitos abandonados, el consentimiento lo dará el Consejo de familia.
+El consentimiento, tratándose de niñas, niños y adolescentes cuyos padres han fallecido, o han perdido la patria potestad; lo deben dar las personas a quienes por ley les corresponda el ejercicio de la patria potestad o la tutela legítima; y tratándose de niños de filiación desconocida, expósitos o abandonados, actuará la Procuraduría de Protección de Niñas, Niños y Adolescentes con la representación en suplencia, o en su caso, su delegado institucional.
 
-Para las adopciones a las que se refiere la fracción III del artículo 520, (sic) consentimiento lo debe dar la persona que pretende ser adoptada.
+Para las adopciones a las que se refiere la fracción III del Artículo 520, el consentimiento lo debe dar la persona que pretende ser adoptada.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3357,23 +3411,23 @@ La adopción tiene el carácter de confidencial. Se deberá garantizar la discre
 
 El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 531.
 
-El Consejo de Familia Estatal, Municipal o Intermunicipal del domicilio del menor y a falta de éstos, por los sistemas DIF respectivos, en todos los casos de adopción, deberá darle seguimiento por un período mínimo de 2 años, a partir de que fue otorgada para procurar se cumplan los fines en beneficio del menor, dictando en caso necesario las providencias para ello. En caso de que el menor resida fuera del Estado, el Consejo Estatal de la Familia tendrá las facultades para dar cumplimiento al seguimiento antes referido.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá darle seguimiento a todos los casos de adopción por un período mínimo de 2 años, a partir de que fue otorgada para procurar se cumplan los fines en beneficio de la niña, niño o adolescente, dictando en caso necesario las providencias para ello, inclusive, para el caso de que la niña, niño o adolescente resida fuera del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 532.
 
-Cualquier interesado en el procedimiento o cuando el Consejo de Familia Estatal, Municipal o Intermunicipal lo estime conveniente, podrá solicitar al juez que conozca del procedimiento de adopción otorgue en forma temporal la custodia del posible adoptado, lo cual deberá resolver de plano, siempre y cuando los posibles adoptantes ya hubieren satisfecho los requisitos a que se refiere la fracción V del artículo 521.
+Una vez iniciado el procedimiento de adopción, el interesado podrá solicitar el acogimiento pre-adoptivo, en los términos previstos en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
-El juez que conozca del procedimiento de adopción podrá autorizar la custodia temporal a los posibles adoptantes y el traslado del menor, dentro del territorio nacional, hasta el término del procedimiento de adopción, y diligenciará exhorto al juez competente de la nueva residencia ante el cual los posibles adoptantes presentarán al posible adoptado cada mes para la verificación del cumplimiento de la custodia temporal conforme a lo previsto en este Código, tutelando el interés superior del posible adoptado.
-
-La custodia otorgada en los términos del párrafo anterior podrá ser revocada por el juez que la otorgó a petición fundada del Agente Social ó Consejo de Familia sea Estatal, Municipal o intermunicipal.
-
-Los posibles adoptantes podrán renunciar a la custodia temporal que les fue otorgada devolviendo el menor al Consejo de Familia, levantando un acta de ello en que se precise el estado de salud y condiciones en que se encuentre el menor e informando de la renuncia de la custodia al Juez que conoció de la causa, quien analizará la causa de la renuncia y si la encuentra visible y notoriamente injustificada, ordenará al Consejo de Familia sea Estatal, Municipal o intermunicipal tomar las medidas de protección del menor y que los presuntos adoptantes no podrán intentar un nuevo procedimiento de adopción en un plazo de 2 dos años.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes remitirán copia de las actuaciones al Juez de la causa.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3387,31 +3441,23 @@ El juez puede autorizar a favor de un solo adoptante, la adopción de dos o más
 
 El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 535.
 
 Para que la adopción pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
-
-I. El o los que ejercen la patria potestad sobre el menor que se trate de adoptar;
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+I. El o los que ejercen la patria potestad sobre la niña, niño o adolescente que se trate de adoptar;
 
 II. El tutor del que se va a adoptar;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
-
-III. El Consejo de Familia; o
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+III. La Procuraduría de Protección de Niñas, Niños y Adolescentes; o
 
 IV. El Agente de la Procuraduría Social.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2006)</small>
-
-El juez deberá garantizar el derecho de audiencia y defensa de los parientes que tengan bajo su custodia al menor.
+El juez deberá garantizar el derecho de audiencia y defensa de los parientes que tengan bajo su custodia a niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3419,11 +3465,13 @@ El juez deberá garantizar el derecho de audiencia y defensa de los parientes qu
 
 Si el menor que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 537.
 
-Cuando el tutor o el Consejo de Familia no consientan en la adopción; o el Agente Social se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses del menor.
+Cuando el tutor o la Procuraduría de Protección de Niñas, Niños y Adolescentes no consientan en la adopción; o el Agente Social se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses de la niña, niño o adolescente.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3513,25 +3561,21 @@ El adoptado podrá solicitar la revocación de la adopción simple, dentro del a
 
 Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante; pero si éste está casado o se casare con alguno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 546.
 
-El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando cumpla con los requisitos que para la adopción plena contempla éste mismo Código.
+El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando cumpla con los requisitos que para la adopción plena contempla éste mismo Código, y la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
-Para este caso, el juez escuchara, cuando sea posible, a quien otorgo inicialmente el consentimiento para la adopción, se cerciorará de que los adoptantes cumplan los requisitos de Ley, dará vista al Agente Social y al Consejo de Familia, sea Estatal, Municipal o intermunicipal y si no hay oposición, el Juez procederá de conformidad con el artículo 1031 del Código de Procedimientos Civiles del Estado de Jalisco.
+Para este caso, el juez escuchará, cuando sea posible, a quien otorgó inicialmente el consentimiento para la adopción, se cerciorará de que los adoptantes cumplan los requisitos de Ley, dará vista al Agente Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes y si no hay oposición, el Juez procederá de conformidad con el Artículo 1031 del Código de Procedimientos Civiles del Estado de Jalisco.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 547.
 
-La adopción simple puede revocarse:
-
-I. Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que otorgaron su consentimiento, cuando su domicilio sea conocido. A falta de éstas, se oirá al Consejo de Familia;
-
-II. Por ingratitud del adoptado; y
-
-III. Por alguna de las causas que para la pérdida de la patria potestad establece este Código.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -3605,11 +3649,11 @@ III. Las adopciones internacionales deberán de regirse en base a los requisitos
 
 ###### Art. 555.
 
-En virtud de la guarda y custodia, una persona o una institución asume el cuidado y atención de un ser humano así como de sus objetos de uso personal.
+En virtud de la guarda y custodia, una persona o un centro de asistencia social o albergue asume el cuidado y atención de un ser humano así como de sus objetos de uso personal.
 
 La guarda y custodia siempre es en beneficio directo de su destinatario, con reconocimiento pleno de sus derechos de personalidad y con respeto a su integridad y dignidad humana.
 
-El Consejo de Familia, sea Estatal, municipal o Intermunicipal, en el ámbito de su competencia territorial, deberá intervenir, consentir y dar seguimiento en todo tiempo y circunstancia en los casos de guarda y custodia, de conformidad con las normas legales aplicables.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, deberá intervenir, consentir y dar seguimiento en todo tiempo y circunstancia en los casos de guarda y custodia, de conformidad con las normas legales aplicables.
 
 La guarda y custodia confiere a quien la ejerce la facultad de determinar límites y normas de conducta.
 
@@ -3627,17 +3671,25 @@ III. Definitiva cuando ésta es por un periodo continuo e indeterminado.
 
 En los casos de guarda y custodia temporal, sea esta además personal o institucional y cuando sea posible, el Juez dictará las medidas necesarias para alcanzar la reincorporación de la persona menor de edad a su ambiente familiar a la brevedad de tiempo posible, siempre y cuando no haya perjuicio al interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 557.
 
-La guarda y custodia en función de quien o quienes la ejerzan será:
+La guarda y custodia en función de quien o quienes la ejerzan, de conformidad a la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y demás aplicable, será:
 
-I. Personal cuando ésta se realiza por una persona o una familia determinadas. Este tipo de custodia origina para el custodiado, las obligaciones de respeto y consideración que se le deben de tener a quien la ejerce, como si fuera hijo de familia y además, en su caso, produce la obligación alimentaria; y
+I. Personal, por una familia distinta a la de origen y de la extensa, que cuente con la certificación de la autoridad competente, y podrá ser por:
 
-II. Institucional cuando la custodia que se ejerce por un establecimiento, sea éste de gobierno, descentralizado o privado y que tenga como fin el cuidado y atención de personas.
+a) Familia de Acogida: Aquélla que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-Los establecimientos y familias sustitutas solo podrán admitir el número de custodiados a quienes garanticen el cuidado y atención necesarios para su desarrollo integral.
+b) Acogimiento pre-adoptivo: Aquella que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+
+Este tipo de custodia origina para el custodiado, las obligaciones de respeto y consideración que se le deben de tener a quien la ejerce, como si fuera hijo de familia y además, en su caso, produce la obligación alimentaria; y
+
+II. Institucional, cuando la custodia que se ejerce por un centro de asistencia social o albergue, sea éste de gobierno, descentralizado o privado y que tenga como fin el cuidado alternativo de acogimiento residencial y atención de personas.
+
+Quienes ejerzan la guarda y custodia personal o institucional sólo podrán admitir el número de custodiados a quienes garanticen el cuidado y atención necesarios para su desarrollo integral.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -3657,9 +3709,11 @@ En todo caso la guarda y custodia será gratuita. No se considerará que ejercen
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-### CAPITULO I. De los Niños, Niñas y Adolescentes
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 560.
 
@@ -3673,17 +3727,21 @@ El arreglo a que lleguen los padres sobre la guarda y custodia de sus hijos cons
 
 A falta de convenio sobre la guarda y custodia de los hijos, el Juez resolverá lo conducente atendiendo al interés superior de la niñez de conformidad a lo dispuesto por el artículo 406. Para tal efecto el Juez podrá decretar las medidas que considere necesarias para proteger la integridad de los hijos.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 562.
 
-Cuando no sea posible que alguna (sic) de los sujetos señalados en el artículo 572 fracciones I, II, IV y V ejerza la guarda y custodia sobre la persona menor de edad, se decretará su guarda y custodia institucional.
+Cuando no sea posible que alguno de los sujetos señalados en el artículo 572 fracciones I, II, IV y V ejerza la guarda y custodia sobre la niña, niño o adolescente, se decretará su guarda y custodia institucional.
 
-Cuando exista guarda y custodia institucional, para efectos del sostenimiento económico, podrá establecerse que los sujetos de custodia reciban la ayuda económica y afecto personal de ciertas y determinadas personas que, con fines altruistas, se hagan cargo de cada uno de los custodiados en lo individual, pudiéndoles permitir convivir con ellos en épocas y circunstancias precisas, sin que esto implique el traslado de los menores de edad fuera de las instituciones ni ejercer guarda y custodia personal ni cuidado y vigilancia sobre ellos. Los responsables de la guarda y custodia supervisarán esa convivencia y reguardarán (sic) la integridad de los sujetos sobre quienes la ejerzan.
+Decretada la guarda y custodia institucional, la Procuraduría de Protección de Niñas, Niños y Adolescentes deberá promover se resuelva la situación jurídica de la niña, niño o adolescente, con el fin de reincorporarla en un ambiente familiar, sea en su familia de origen, familia extensa o adoptiva, atendiendo el interés superior de la niñez; dicho proceso se realizará dentro de un plazo de dos años.
 
-Las personas que con fines altruistas, aporten recursos económicos o materiales para el sustento de los custodiados, se acreditarán ante el Consejo Estatal, municipal o intermunicipal de Familia.
+Cuando exista guarda y custodia institucional, para efectos del sostenimiento económico, podrá establecerse que los sujetos de custodia reciban la ayuda económica y afecto personal de ciertas y determinadas personas que, con fines altruistas, se hagan cargo de cada uno de los custodiados en lo individual, pudiéndoles permitir convivir con ellos en épocas y circunstancias precisas, sin que esto implique el traslado de las niñas, niños o adolescentes fuera de las instituciones ni ejercer guarda y custodia personal ni cuidado y vigilancia sobre ellos. Los responsables de la guarda y custodia supervisarán esa convivencia y resguardarán la integridad de los sujetos sobre quienes la ejerzan.
 
-En ningún supuesto se podrá retener a la persona menor de edad, o condicionar o limitar su derecho a las visitas y convivencia con sus padres, por la falta de pago de obligaciones alimentarias.
+Las personas que con fines altruistas, aporten recursos económicos o materiales para el sustento de los custodiados, se acreditarán ante la Procuraduría de Protección de Niñas, Niños y Adolescentes, en los términos de la legislación en materia de asistencia social.
+
+En ningún supuesto se podrá retener a la niña, niño o adolescente, o condicionar o limitar su derecho a las visitas y convivencia con sus padres, por la falta de pago de obligaciones alimentarias.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -3693,15 +3751,15 @@ En todos los casos de guarda y custodia de personas menores de edad de conformid
 
 El Juez solo podrá decretar la separación de hermanos menores de edad cuando exista impedimento grave para su convivencia, a tal grado que de forzarla sería en detrimento de los legítimos intereses de alguno de ellos.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 564.
 
-Es obligación de toda persona sea física o jurídica que reciba en cuidado y vigilancia a personas menores de edad, cumplir con los requisitos que la legislación establece para el desempeño de su actividad, y en su caso, contar con las licencias, certificaciones y autorizaciones correspondientes. En todos los casos las partes deberán suscribir contrato por escrito y será responsabilidad de quien reciba en cuidado y vigilancia conservar copia de dicho contrato.
+Es obligación de toda persona sea física o jurídica que reciba en cuidado y vigilancia a niñas, niños y adolescentes, cumplir con los requisitos que la legislación establece para el desempeño de su actividad, y en su caso, contar con las licencias, certificaciones y autorizaciones correspondientes. En todos los casos las partes deberán suscribir contrato por escrito y será responsabilidad de quien reciba en cuidado y vigilancia conservar copia de dicho contrato.
 
-Cuando en la entrega temporal de la persona menor de edad no medie orden judicial ni contrato por escrito, se presume que quien lo recibe asume la obligación de prestarle cuidado y vigilancia.
-
-Por resolución judicial y supervisión del Consejo de Familia se podrá confiar el cuidado y vigilancia de persona menor de edad a las personas que lo soliciten en adopción.
+Cuando en la entrega temporal de la niña, niño o adolescente no medie orden judicial ni contrato por escrito, se presume que quien lo recibe asume la obligación de prestarle cuidado y vigilancia.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -3739,11 +3797,15 @@ IV. Se acredite que no obstante existe mandato judicial de abstenerse de hacerlo
 
 V. El padre o la madre o la persona que ejerce la custodia personal o institucional sustraiga al menor de edad.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-## TITULO SEPTIMO. De la Niñez
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+## TITULO SEPTIMO. De Niñas, Niños y Adolescentes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPITULO II. Del Régimen de Visitas y Convivencia
 
@@ -3751,15 +3813,17 @@ V. El padre o la madre o la persona que ejerce la custodia personal o institucio
 
 ###### Art. 567.
 
-Los niños, niñas y adolescentes deban (sic) ser objeto de especial atención, cuidado y reconocimiento.
+Niñas, niños y adolescentes deben ser objeto de especial atención, cuidado y reconocimiento.
 
-Se entiende por niñez, la etapa de vida en los seres humanos que comprende la gestación, el nacimiento, la primera y segunda infancia, la pubertad y adolescencia hasta alcanzar los dieciocho años de edad.
+Son niñas y niños las personas menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 568.
 
-La niñez, gozará de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México sea parte, la Constitución Política del Estado, La Ley de los Derechos de los Niños, Niñas y Adolescentes del Estado, este código y todas aquellas disposiciones que atiendan el interés superior de la niñez.
+Niñas, niños y adolescentes gozarán de los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México sea parte, la Constitución Política del Estado, la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, este código y todas aquellas disposiciones que atiendan el interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -3801,47 +3865,31 @@ VIII. La persona menor de edad sea escuchada en privado, siempre con respeto a s
 
 Para efecto de lo dispuesto por la fracción VII, podrán autorizarse entrevistas previas a la audiencia de escucha, quedando el padre o madre custodio o quien ejerza la guarda y custodia personal o institucional obligado a dar cumplimiento a los requerimientos del asistente designado por el Juez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 572.
 
-Cuando los padres no convengan la guarda y custodia de sus hijos, el Juez de la causa considerará qué es lo más conveniente para la persona menor de edad y deberá atender al siguiente orden de preferencias:
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+Cuando los padres no convengan la guarda y custodia de sus hijos, el Juez de la causa considerará qué es lo más conveniente para la niña, niño o adolescente y deberá atender al siguiente orden de preferencias:
 
 I. Con sus padres;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+II. Cuando no convivan ambos padres, cualquiera de los dos ejercerá sobre él la guarda y custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su guarda y custodia, además de no tener una conducta nociva a la salud física o psíquica de la niña, niño o adolescente;
 
-II. Cuando no convivan ambos padres, cualquiera de los dos ejercerá sobre él la guarda y custodia, siempre y cuando tengan la disposición y la posibilidad efectiva de su guarda y custodia, además de no tener una conducta nociva a la salud física o psíquica del menor de edad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 2014)
+III. (DEROGADA, P.O. 3 DE AGOSTO DE 2013) (REPUBLICADA, P.O. 25 DE NOVIEMBRE DE 2014 Y P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+IV. Cuando ninguno de los dos padres tenga la guarda y custodia de la niña, niño o adolescente, ésta podrá ser confiada, por el Juez, a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o el afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
 
-IV. Cuando ninguno de los dos padres tenga la guarda y custodia del menor de edad, ésta podrá ser confiada, por el Juez, a los ascendientes, parientes dentro del cuarto grado o personas con las que estén ligados en virtud de amistad profunda o el afecto nacido y sancionado por los actos religiosos o respetados por la costumbre, siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres;
+V. En convivencia dentro de familias de acogida, a través de la custodia personal autorizada por la Procuraduría de Protección de Niñas, Niños y Adolescentes; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres; y
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+VI. En centros de asistencia social o albergues a través de custodia institucional; deberá el Juez cerciorarse que el medio es idóneo para la niña, niño o adolescente.
 
-V. En convivencia dentro de familias sustitutas, que a través de la custodia personal autorizada por el Juez y supervisado por el Consejo de Familia, sea estatal, municipal o intermunicipal; siempre y cuando cumplan con los requisitos de disposición y disponibilidad afectiva de custodia, así como de buenas costumbres; y
+En todos los casos la Procuraduría de Protección de Niñas, Niños y Adolescentes, deberá cerciorarse de que las personas que vayan a ejercer la custodia de la niña, niño o adolescente sean idóneas y que cumplan con los requisitos de la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-VI. En instituciones públicas o privadas que alberguen menores a través de custodia institucional; deberá el Juez cerciorarse que el medio es idóneo para la persona menor de edad.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. REUBICADO EN EL ARTÍCULO 573], P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2013)</small>
-
-En los casos de las fracciones V y VI, la convivencia será autorizada por el Juez y supervisada por el Consejo de Familia.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-En todos los casos el Consejo de Familia, estatal, municipal o intermunicipal, deberá cerciorarse de que las personas que vayan a ejercer la custodia de la persona menor de edad sean idóneas y que cumplan con los requisitos de ley.
-
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-Las personas menores de edad privadas de la asistencia de sus padres o tutores deben gozar de una protección especial por parte del Estado.
+Las niñas, niños y adolescentes privados de la asistencia de sus padres o tutores deben gozar de una protección especial por parte del Estado.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -3915,11 +3963,13 @@ La negativa reiterada y sin causa justificada del padre o madre custodio o de la
 
 De igual forma la modificación de la guarda y custodia tendrá lugar cuando el padre o madre custodio cambie de residencia y no informe al padre o madre no custodio ni al Juez sobre el nuevo domicilio en el que se desenvolverá el régimen de visitas y convivencia.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 577.
 
-Cuando la convivencia del menor con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo, incluyéndose a quienes sobre él ejercen la patria potestad, el Juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los padres y en ausencia de éstos a petición de los ascendientes, del Consejo de Familia o del Agente de la Procuraduría Social.
+Cuando la convivencia de niñas, niños y adolescentes con determinadas personas vaya en detrimento de los preceptos establecidos en este capítulo, incluyéndose a quienes ejercen la patria potestad, el Juez podrá decretar la cesación de esa convivencia a petición de cualesquiera de los padres y en ausencia de éstos, a petición de los ascendientes o de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ## TITULO OCTAVO. De la patria potestad
 
@@ -3953,11 +4003,15 @@ IV. Confiere el derecho, el deber y la responsabilidad de cuidar, criar y aplica
 
 La patria potestad se ejerce por ambos progenitores o, en su caso, por el supérstite.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 582.
 
-Cuando ocurra el fallecimiento de ambos progenitores, el ejercicio de la patria potestad corresponde a los abuelos por ambas ramas.
+Cuando ocurra el fallecimiento de ambos progenitores, el ejercicio de la patria potestad corresponde a quienes tengan parentesco ascendente hasta segundo grado por ambas ramas.
 
-Cuando existen abuelos por ambas líneas, ejercerán la patria potestad los ascendientes que tengan para ello la disposición y posibilidad; en caso de conflicto, la autoridad judicial resolverá a quien corresponde su ejercicio, debiéndose de oír para ello al Consejo de Familia y al menor, cuando tenga más de catorce años de edad, teniendo para ello en cuenta el interés superior de los menores y además, las siguientes consideraciones en orden de preferencia:
+Cuando sean dos o más por ambas líneas, ejercerán la patria potestad los ascendientes que tengan para ello la disposición y posibilidad; en caso de conflicto, la autoridad judicial resolverá a quien corresponde su ejercicio, debiéndose de oír para ello la Procuraduría de Protección de Niñas, Niños y Adolescentes y a la niña, niño o adolescente, cuando sea adolescente, teniendo para ello en cuenta el interés superior de la niñez, y además, las siguientes consideraciones en orden de preferencia:
 
 I. Buscar la mayor afinidad e identificación;
 
@@ -3965,9 +4019,7 @@ II. La menor edad y plenitud psíquica;
 
 III. La mayor instrucción; y
 
-IV. La estabilidad económica necesaria para satisfacer los requerimientos de los menores.
-
-Cuando existan varios menores miembros de una misma familia que convivan juntos, se procurará que continúe la convivencia, si ello fuere posible.
+IV. La estabilidad económica necesaria para satisfacer los requerimientos de niñas, niños y adolescentes. Cuando existan varias niñas, niños o adolescentes integrantes de una misma familia que convivan juntos, se procurará que continúe la convivencia, si ello fuere posible.
 
 ###### Art. 583.
 
@@ -4039,23 +4091,29 @@ Al efecto, el precio de la venta se depositará en una institución de crédito 
 
 Las personas que ejercen la patria potestad tienen obligación de dar cuenta al término de la misma, a sus hijos y nietos en su caso sobre la administración de los bienes que les correspondan.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 595.
 
-En todos los casos en que las personas que ejercen la patria potestad tengan un interés opuesto al de los menores, serán estos representados en juicio y fuera de él, por un tutor nombrado entre los propuestos para ello por el Consejo de Familia.
+En todos los casos en que las personas que ejercen la patria potestad tengan un interés opuesto al de las niñas, niños y adolescentes, o por una representación deficiente o dolosa, serán estos representados en suplencia, en juicio y fuera de él, por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-También se nombrará por el juez, un tutor especial a cada menor, en el caso de que la oposición de intereses sea entre dos o más menores sujetos a una misma patria potestad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 596.
 
-Los jueces tienen la facultad en la resolución que dicten, de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del menor se derrochen o se disminuyan.
+Los jueces tienen la facultad en la resolución que dicten, de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes de niñas, niños o adolescentes se derrochen o se disminuyan.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-Estas medidas se seguirán a instancia de las personas interesadas, del menor cuando hubiere cumplido catorce años, del Consejo de Familia o del Agente de la Procuraduría Social.
+Estas medidas se seguirán a instancia de las personas interesadas o por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 597.
 
@@ -4159,7 +4217,11 @@ I. Cuando tengan sesenta años cumplidos; y
 
 II. Cuando por el mal estado habitual de su salud, no pueden atender debidamente su desempeño.
 
-## TITULO NOVENO. De la tutela
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO NOVENO. De Tutela y la Representación
 
 ### CAPITULO II. De la tutela testamentaria
 
@@ -4167,59 +4229,81 @@ II. Cuando por el mal estado habitual de su salud, no pueden atender debidamente
 
 La tutela es la institución de orden público e interés social, que respecto de los incapaces, tiene por objeto la guarda de la persona y los bienes, o solamente los bienes.
 
+Niñas, niños y adolescentes serán representados originariamente por quienes ejercen la patria potestad o tutela, de conformidad con lo dispuesto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes desempeñará la representación coadyuvante y en suplencia:
+
+I. Representación coadyuvante: Es aquella que de manera oficiosa realiza de acompañamiento a niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, sin perjuicio de la intervención que corresponda a la representación social; y
+
+II. Representación en suplencia: A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 604.
 
-La tutela se ejercerá en los casos siguientes:
+La tutela o representación se ejercerá en los casos siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+I. Habrá tutela sobre quienes no estando sujetos a patria potestad, tienen incapacidad natural o legal, o solamente la segunda, en cuyo caso deberá atenderse al grado de limitación impuesto a la capacidad de ejercicio; y
 
-I. Sobre quienes no estando sujetos a patria potestad, tienen incapacidad natural o legal, o solamente la segunda, en cuyo caso deberá atenderse al grado de limitación impuesto a la capacidad de ejercicio; y
-
-II. Sobre quienes estando sujetos a patria potestad:
+II. Habrá representación sobre quienes estando sujetos a patria potestad:
 
 a) Reciban bienes, ya sea por legado o por herencia y el testador nombre un tutor con facultades exclusivas de administración, en beneficio del incapaz respecto de los bienes que comprenda la herencia o legado;
 
 b) Tengan intereses opuestos a quien ejerce sobre ellos la patria potestad; y
 
-c) En el caso de oposición de intereses entre dos o más menores sujetos a una misma patria potestad.
+c) En el caso de oposición de intereses entre dos o más niñas, niños o adolescentes sujetos a una misma patria potestad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 605.
 
-Tienen incapacidad natural y legal:
+Tienen incapacidad natural y legal las personas que no puedan gobernarse y obligarse por sí mismos o manifestar su voluntad por algún medio.
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-I. Las personas menores de edad; y
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-II. Los mayores de edad, no puedan gobernarse y obligarse por sí mismos o con asistencia de un representante o manifestar su voluntad por algún medio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 606.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo 58.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 607.
 
-La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
+La tutela y la representación son un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 608.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapaz.
+El que se rehusare sin causa legal a desempeñar el cargo de tutor o de representante, es responsable de los daños y perjuicios que de su negativa resulten al incapaz.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 609.
 
-La tutela se desempeñará por el tutor, con la intervención del curador y del Consejo de Familia, en los términos establecidos en este código.
+La tutela se desempeñará por el tutor, con la intervención del curador; sin perjuicio de la representación coadyuvante o en suplencia, por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Art. 610.
 
 Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 611.
 
-El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si estos son hermanos o son coherederos y legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de tres.
+El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si estos son hermanos o son coherederos y legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de tres, sin perjuicio del representante.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4227,11 +4311,13 @@ El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela
 
 Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 613.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes hayan vivido, están obligados a dar parte del fallecimiento al Juez, dentro de ocho días, a fin de que provea a la tutela, bajo la pena equivalente a una multa igual a considerar el salario mínimo general de veinticinco a cien días.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse representante, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes hayan vivido, están obligados a dar parte del fallecimiento al Juez, dentro de ocho días, a fin de que provea lo conducente, bajo la pena equivalente a una multa igual a considerar el salario mínimo general de veinticinco a cien días.
 
 ###### Art. 614.
 
@@ -4247,19 +4333,23 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 617.
 
-La persona menor de edad que no puedan (sic) gobernarse y obligarse por sí mismos o con asistencia de un representante o manifestar su voluntad por algún medio estará sujeta a tutela mientras no llegue a la mayoría de edad.
+La niña, niño o adolescente que no pueda gobernarse y obligarse por sí misma o con asistencia de un representante o manifestar su voluntad por algún medio estará sujeta a tutela o representación, según corresponda, mientras no llegue a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción en el que serán oídos, el incapaz, el tutor y curador anteriores y se determinará el grado de incapacidad y las limitaciones a la capacidad de ejercicio.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 618.
 
-Los hijos menores de un incapacitado que no pueda darles la debida atención y cuidado, quedarán bajo la patria potestad que corresponda conforme al artículo 572 de este Código, y no habiéndolo, se les proveerá de tutor.
+Las niñas, niños o adolescentes hijos de un incapaz que no pueda darles la debida atención y cuidado, quedarán bajo la patria potestad que corresponda conforme al artículo 572 de este Código, y no habiéndolo, se les proveerá de tutor.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4277,17 +4367,27 @@ Al presentarse algún cambio en la diversidad funcional del incapaz deberá ajus
 
 Las sentencias a que se refiere este artículo se pronunciarán conforme a las mismas reglas establecidas para declarar la interdicción.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 621.
 
-El Juez de Primera Instancia del domicilio del incapacitado y, si no lo hubiere, el Juez Menor o el de Paz, sin perjuicio de las atribuciones que competen al Consejo de Familia, siempre con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y los bienes del incapaz hasta que se nombre tutor, salvo que exista un documento público, en donde se haya efectuado la auto designación de tutor, en cuyo caso se estará a lo ahí establecido.
+El Juez de Primera Instancia del domicilio del incapaz y, si no lo hubiere, el Juez Menor o el de Paz, con intervención del Agente de la Procuraduría Social, cuidará provisionalmente de la persona y los bienes del incapaz hasta que se nombre tutor, salvo que exista un documento público, en donde se haya efectuado la auto designación de tutor, en cuyo caso se estará a lo ahí establecido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 622.
 
-El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+El juez que no cumpla las prescripciones relativas a la tutela y a la representación, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces y niñas, niños y adolescentes.
 
-### CAPITULO III. De la tutela legítima de los menores
+### CAPITULO III. De la Tutela Legítima de Niñas, Niños y Adolescentes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 623.
 
@@ -4303,9 +4403,13 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluidos estuvieren ausentes o fueren declarados incapaces, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 626.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, puede nombrarle tutor solamente para la administración de los bienes que le deja. Aun cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias del menor.
+El que en su testamento, aunque sea adolescente emancipado, deje bienes ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, puede nombrarle tutor solamente para la administración de los bienes que le deja. Aun cuando en la disposición testamentaria correspondiente se prevenga que el beneficiario no reciba los productos del capital dejado en herencia o legado, no subsistirá dicha disposición en lo estrictamente indispensable para satisfacer las necesidades alimentarias de niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4313,11 +4417,15 @@ El que en su testamento, aunque sea un menor no emancipado, deje bienes ya sea p
 
 Si fueren varias las personas menores de edad, podrá nombrárseles un tutor común o conferirse a persona diferente la tutela de cada uno de ellos, sobre todo, cuando los intereses de alguno o algunos fueren opuestos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 628.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario, si la madre ha fallecido o no puede legalmente ejercer la tutela.
+El padre que ejerza la tutela de un hijo sujeto a interdicción, puede nombrarle tutor testamentario, si la madre ha fallecido o no puede legalmente ejercer la tutela.
 
-La madre, en su caso, podrá hacer el nombramiento de que trata ese artículo.
+La madre, en su caso, podrá hacer el nombramiento de que trata ese Artículo.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4333,65 +4441,77 @@ Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrad
 
 Lo dispuesto en el artículo anterior, no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 632.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes; a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso, podrá dispensarlas o modificarlas.
+Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes; a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a niñas, niños y adolescentes, en cuyo caso, podrá dispensarlas o modificarlas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 633.
 
-Si por un nombramiento condicional de tutor o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+Si por un nombramiento condicional de tutor o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino a la niña, niño o adolescente, conforme a las reglas generales sobre nombramiento de tutores.
 
 ###### Art. 634.
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ### CAPITULO IV. De la tutela legítima del mayor incapacitado
 
 ###### Art. 635.
 
-Hay lugar a tutela legítima:
+Hay lugar a tutela legítima o representación originaria cuando no hay quien ejerza la patria potestad, ni tutor testamentario.
 
-I. Cuando no hay quien ejerza la patria potestad, ni tutor testamentario; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Cuando deba nombrarse tutor por causa de divorcio.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 636.
 
-La tutela legítima corresponde:
+La tutela legítima corresponde a los hermanos, prefiriéndose a los que lo sean por ambas líneas.
 
-I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 637.
 
-Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
+Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el pupilo o representado fuere adolescente, éste hará la elección.
 
 ###### Art. 638.
 
 La falta temporal de tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 639.
 
-El Consejo de Familia, sea estatal, municipal o intermunicipal, en forma directa o a través de sus delegados, de manera institucional desempeñará el cargo de tutor, sin necesidad de discernimiento del cargo.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes en forma directa o a través de sus delegados institucionales, desempeñarán la tutela sin necesidad de discernimiento del cargo:
 
 I. De los expósitos;
 
-II. De los menores abandonados sean estos huérfanos, expuestos por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes; y
+II. De niñas, niños y adolescentes abandonados sean estos huérfanos, expuestos por el titular de su patria potestad o tutela o maltratados reiteradamente por sus parientes; y
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2009)</small>
+III. De niñas, niños y adolescentes que se encuentren en acogimiento residencial en centros de asistencia social o albergues, instituciones educativas ya sean estas públicas o privadas, o cuando quienes la ejerzan sean ilocalizables.
 
-III. De los menores y de los mayores incapaces no sujetos a patria potestad o tutela, que se encuentren internados en casas de asistencia, instituciones educativas ya sean estas públicas o privadas, o cuando quienes la ejerzan sean ilocalizables, siempre que estén bajo custodia institucional en un organismo público o privado, en los términos del artículo 49 del presente Código.
-
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2008)</small>
-
-El Consejo Estatal de Familia podrá además, en los términos de este artículo, realizar la función de tutor a través de sus delegados.
+En todos los casos se estará a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y la legislación para la operación de albergues.
 
 ### CAPITULO V. De la tutela dativa
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 640.
 
@@ -4411,11 +4531,15 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 644.
 
 A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamadas a ella sucesivamente los abuelos, observándose lo establecido en el artículo 582, los hermanos del incapaz y los demás colaterales a que se refiere la fracción II del artículo 636 tomándose en consideración en su caso lo que dispone el artículo 637.
+
+Para el caso de quienes se encuentren internados en albergues o centros de asistencia social, o cuando quienes la ejerzan sean ilocalizables, el Juez dará aviso al Sistema DIF estatal o municipal, para que desempeñe la tutela correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4423,25 +4547,19 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapaz que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 646.
-
-El tutor de los incapacitados estará obligado a presentar ante la Procuraduría Social en los meses de julio y enero de cada año una certificación médica que declaren acerca de la salud de la persona sujeta a interdicción, a quien para este efecto reconocerán en presencia del curador.
-
-Sin perjuicio de lo anterior, el Juez, de oficio o a petición de parte, en cualquier momento podrá solicitar los estudios que considere necesarios, para ajustar el grado de interdicción del incapaz.
-
-El incapacitado podrá manifestar su opinión a la Procuraduría Social, misma que se cerciorará del estado que guardan el incapaz y sus bienes y tomará todas las medidas que estime convenientes para mejorar su condición. En caso de que existieren elementos que pongan en detrimento la salud del incapacitado, la Procuraduría solicitará al Juez decrete la adopción de medidas para mejorar su condición.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 646.
 
-El tutor de los incapacitados estará obligado a presentar ante la Procuraduría Social en el mes de enero de cada año un certificado de dos profesionales de la medicina que declaren acerca de la salud de la persona sujeta a interdicción, a quien para este efecto reconocerán en presencia del curador.
+El tutor de las personas incapaces estará obligado a presentar ante la Procuraduría Social en los meses de julio y enero de cada año una certificación médica que declaren acerca de la salud de la persona sujeta a interdicción, a quien para este efecto reconocerán en presencia del curador.
 
-La Procuraduría Social se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición. En caso de que existieren elementos que pongan en detrimento la salud del incapacitado, deberá dar aviso de inmediato al Juez correspondiente.
+Sin perjuicio de lo anterior, el Juez, de oficio o a petición de parte, en cualquier momento podrá solicitar los estudios que considere necesarios, para ajustar el grado de interdicción del incapaz.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+La personas (sic) incapaz podrá manifestar su opinión al agente de la Procuraduría Social, éste se cerciorará del estado que guardan el incapaz y sus bienes y tomará todas las medidas que estime convenientes para mejorar su condición. En caso de que existieren elementos que pongan en detrimento la salud del incapaz, la Procuraduría solicitará al Juez decrete la adopción de medidas para mejorar su condición.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Art. 647.
 
@@ -4455,37 +4573,41 @@ Para el caso de que el incapaz pueda gobernarse y obligarse por sí mismo o mani
 
 La tutela dativa tiene lugar:
 
-I. Cuando no haya tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima;
+I. Cuando en un documento público expreso una persona mayor de edad hubiere ejercido su facultad de designarse tutor, se estará frente al supuesto de tutela voluntaria; y
 
-II. Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo y no haya ningún pariente de los designados en el artículo 636;
+II. En los demás casos establecidos por la ley.
 
-III. Cuando en un documento público expreso una persona mayor de edad hubiere ejercido su facultad de designarse tutor, se estará frente al supuesto de tutela voluntaria, y
-
-IV. En los demás casos establecidos por la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 649.
 
-El tutor dativo será designado por el menor, si ha cumplido catorce años. El juez confirmará la designación, si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo de Familia. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 650.
 
-Si el menor no ha cumplido catorce años, el nombramiento de tutor lo hará el Juez de entre las personas que figuren en la lista formada cada año por el Consejo de Familia, con intervención del Agente de la procuraduría Social.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 651.
 
-Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor, por esa falta.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 652.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+Para asuntos judiciales del adolescente emancipado se llamará a la representación coadyuvante.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 653.
 
-A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaría o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso, tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo de Familia, del Agente de la Procuraduría Social, del mismo menor y aun de oficio por el Juez.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2011)</small>
 
@@ -4589,11 +4711,13 @@ VI. El tutor que permanezca ausente por más de tres meses, del lugar en que se 
 
 (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 657.
 
-El Agente de la Procuraduría Social y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 654.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, y para el caso de incapaces el Agente de la Procuraduría Social, y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 654.
 
 ###### Art. 658.
 
@@ -4665,6 +4789,10 @@ Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores te
 
 ### CAPITULO IX. Del desempeño de la tutela
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 669.
 
 El tutor, antes de que se le discierna el cargo, prestará caución para asegurar su manejo; esta caución consistirá en:
@@ -4677,6 +4805,10 @@ III. Fianza.
 
 La garantía prendaria que preste el tutor, se constituirá depositando las cosas dadas en prenda en una institución de crédito autorizada para recibir depósitos; a falta de ella, se depositarán en poder de persona de notoria solvencia y honorabilidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 670.
 
 Están exceptuados de la obligación de dar garantía:
@@ -4685,13 +4817,11 @@ I. Los tutores testamentarios, cuando expresamente los haya relevado de esta obl
 
 II. El tutor que no administre bienes;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+III. Cuando la tutela del incapaz recaiga en el cónyuge o en parientes consanguíneos hasta el cuarto grado, no se dará garantía, salvo el caso de que el Juez, con audiencia del curador, el Agente de la Procuraduría Social, lo crea conveniente;
 
-III. Cuando la tutela del incapaz recaiga en el cónyuge o en parientes consanguíneos hasta el cuarto grado, no se dará garantía, salvo el caso de que el Juez, con audiencia del curador, el Agente de la Procuraduría Social o del Consejo de Familia, lo crea conveniente; y
+IV. Los que custodien a un expósito, por más de diez años, a no ser que hayan recibido pensión para cuidar de él; y
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-IV. Los que custodien a un expósito, por más de diez años, a no ser que hayan recibido pensión para cuidar de él.
+V. Las instituciones públicas.
 
 ###### Art. 671.
 
@@ -4717,9 +4847,13 @@ Siempre que el tutor sea también coheredero del incapaz y éste no tenga más b
 
 Siendo varios los incapaces cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos, garantía por la parte que corresponda a su representado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 676.
 
-Cuando los bienes que tenga el tutor no alcancen a cubrir la cantidad que ha de asegurar conforme al artículo siguiente, la garantía podrá consistir: parte en hipoteca o prenda, parte en fianza o solamente en fianza a juicio del juez, y previa audiencia del curador y del Consejo de Familia.
+Cuando los bienes que tenga el tutor no alcancen a cubrir la cantidad que ha de asegurar conforme al artículo siguiente, la garantía podrá consistir: parte en hipoteca o prenda, parte en fianza o solamente en fianza a juicio del juez, y previa audiencia del curador y del Agente de la Procuraduría Social.
 
 ###### Art. 677.
 
@@ -4733,11 +4867,13 @@ III. Por el de los enseres y semovientes, así como por el de los productos de l
 
 IV. En las negociaciones mercantiles o industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculados por los libros si están llevados en debida forma, o a juicio de peritos.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 678.
 
-Si los bienes del incapaz enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o fianza, a pedimento del tutor, del curador, de la Procuraduría Social o del Consejo de Familia.
+Si los bienes del incapaz enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrá aumentarse o disminuirse proporcionalmente la hipoteca, prenda o fianza, a pedimento del tutor, del curador o del agente de la Procuraduría Social.
 
 ###### Art. 679.
 
@@ -4751,21 +4887,27 @@ Si el tutor, dentro de tres meses de aceptado su nombramiento, no pudiere dar la
 
 Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario riguroso y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos. Para cualquier otro acto de administración, requerirá la autorización judicial, la que se concederá, si procede oyendo al curador.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 682.
 
-Al presentar el tutor su cuenta anual, el curador o el Consejo de Familia deben promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El Agente de la Procuraduría Social tiene igual facultad y hasta el Juez puede exigir esa información de oficio.
+Al presentar el tutor su cuenta anual, el curador debe promover información de supervivencia e idoneidad de los fiadores dados por aquél. Esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El Agente de la Procuraduría Social tiene igual facultad y hasta el Juez puede exigir esa información de oficio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 683.
 
-Es también obligación del curador y del Consejo de Familia, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
+Es también obligación del curador vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
 
 ### CAPITULO X. De la tutela del menor
 
 ###### Art. 684.
 
-Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto cuando la tutela la desempeñe el Consejo de Familia.
+Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto cuando la tutela la desempeñe institución pública.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4817,29 +4959,43 @@ Los gastos de alimentación y educación del menor deben regularse de manera que
 
 Cuando el tutor entre en el ejercicio de su cargo, el juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor; sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones, podrá el juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 689.
 
-El tutor destinará al menor a la profesión u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo de Familia o por si mismo, ponerlo en conocimiento del juez, para que dicte las medidas convenientes.
+El tutor observará el cumplimiento de la educación obligatoria de su pupilo, y le destinará la profesión u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, la niña, niño o adolescente puede, por conducto del curador, la Procuraduría de Protección de Niñas, Niños y Adolescentes o por sí misma, ponerlo en conocimiento del juez, para que dicte las medidas convenientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 690.
 
-Si el que tenía la patria potestad sobre el menor, lo había dedicado a alguna carrera, el tutor no variará ésta sin la aprobación del juez, quien decidirá este punto, prudentemente y oyendo en todo caso al mismo menor, al curador y al Consejo de Familia.
+Si el que tenía la patria potestad sobre la niña, niño o adolescente le hubiera dedicado alguna carrera, el tutor no variará ésta sin la aprobación del juez, quien decidirá este punto, prudentemente y oyendo en todo caso al (sic) mismo al pupilo, al curador y la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Art. 691.
 
 Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 692.
 
 Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demande su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapaces. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+Igual acción podrá ejercer la Procuraduría de Protección de Niñas, Niños y Adolescentes o la Procuraduría Social.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 693.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos o si teniéndolas, no pudieren hacerlo, el tutor, con autorización del Juez, quien oirá el parecer del curador y del Consejo de Familia, pondrá a la persona menor de edad en un establecimiento de beneficencia pública descentralizada o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapaz, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, ya que continuará vigilando a la persona menor de edad, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+Si los pupilos no han alcanzado la mayoría de edad y no tienen personas que estén obligadas a alimentarlos o si teniéndolas, no pudieren hacerlo, el tutor, pondrá a la niña, niño o adolescente a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes. El tutor observará en todo momento el interés superior de la niñez y lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4887,27 +5043,37 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los casos en que el error
 
 La omisión de bienes en el inventario, no puede perjudicar los intereses del incapaz.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 700.
 
-El tutor, dentro del primer mes de ejercer su cargo, fijará con aprobación del Consejo de Familia, el número y sueldo de los dependientes necesarios. El número y el sueldo de los empleados podrán aumentarse o disminuirse con aprobación del Consejo de Familia, cuando ello fuere necesario.
+El tutor, dentro del primer mes de ejercer su cargo, fijará con aprobación del Juez, el número y sueldo de los dependientes necesarios. El número y el sueldo de los empleados podrán aumentarse o disminuirse con aprobación del Juez, cuando ello fuere necesario. Se escuchará en todos los casos la opinión de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Art. 701.
 
 Lo dispuesto en el artículo anterior no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 702.
 
-Cuando entre los bienes del incapaz se encuentren establecimientos agrícolas, comerciales, industriales o ganaderos que normalmente requieren una atención directa y permanente, y no puedan ser atendidos por el tutor, éste lo pondrá en conocimiento del Consejo de Familia para tomar la determinación que sea más favorable a los intereses del incapaz.
+Cuando entre los bienes del incapaz se encuentren establecimientos agrícolas, comerciales, industriales o ganaderos que normalmente requieren una atención directa y permanente, y no puedan ser atendidos por el tutor, éste lo pondrá en conocimiento del Juez para tomar la determinación que sea más favorable a los intereses del incapaz.
 
 ###### Art. 703.
 
 El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela; el que proceda de las redenciones de capital y el que se adquiera de cualquier otro modo, será invertido por el tutor procurando la mayor rentabilidad y seguridad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 704.
 
-Mientras que se hacen las imposiciones del capital, el tutor con intervención del Consejo de Familia, depositará las cantidades que se perciban en una institución bancaria procurando obtener el mayor rendimiento posible considerando también la pronta liquidez.
+Mientras que se hacen las imposiciones del capital, el tutor con intervención del Juez, depositará las cantidades que se perciban en una institución bancaria procurando obtener el mayor rendimiento posible considerando también la pronta liquidez.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4915,11 +5081,13 @@ Mientras que se hacen las imposiciones del capital, el tutor con intervención d
 
 Los bienes inmuebles, los derechos anexos a ellos y los muebles valiosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del incapaz, debidamente justificada, y previa la autorización judicial que se dictará con audiencia del curador.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 706.
 
-Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el juez en su resolución fijará un plazo dentro del cual el tutor deberá acreditar ante el Consejo de Familia que el producto de la enajenación se ha invertido en su objeto; para tal efecto remitirá copia certificada de la resolución a dicho Consejo para su conocimiento y debida observancia.
-
-Mientras no se haga la inversión, deberá depositarse el numerario en una institución bancaria, procurándose el mayor rendimiento posible considerando también su pronta liquidez.
+Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el juez en su resolución fijará un plazo dentro del cual el tutor deberá acreditar que el producto de la enajenación se ha invertido en su objeto.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4935,9 +5103,13 @@ Los tutores no podrán vender valores comerciales, industriales, títulos de ren
 
 Cuando se trata de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapaz como copropietario, se comenzará por mandar justipreciar dichos bienes, para fijar con toda precisión su valor y la parte que en ellos represente el incapaz, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario, es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que debe hacerse.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 709.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Consejo de Familia.
+Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Juez.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4945,13 +5117,21 @@ Para todos los gastos extraordinarios que no sean de conservación ni de reparac
 
 Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros, los negocios del incapaz.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 711.
 
-El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Consejo de Familia.
+El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 712.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles valiosos o bien en valores mercantiles o industriales, necesita de la aprobación del Consejo de Familia otorgada con audiencia del curador.
+Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles valiosos o bien en valores mercantiles o industriales, necesita de la aprobación del Juez, otorgada con audiencia de la Procuraduría de Protección de Niñas, Niños y Adolescentes, y del curador.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4965,11 +5145,13 @@ El tutor no puede comprar o arrendar los bienes del incapaz, ni hacer contrato a
 
 Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapaz.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 715.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapaz sin la conformidad del curador y del Consejo de Familia.
+El tutor no podrá hacerse pago de sus créditos contra el incapaz sin la conformidad del curador y autorización judicial.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -4977,11 +5159,13 @@ El tutor no podrá hacerse pago de sus créditos contra el incapaz sin la confor
 
 El tutor no puede aceptar para sí, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapaz.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 717.
 
-El tutor no puede dar en arrendamiento los bienes del incapaz, por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y del Consejo de Familia, observándose en su caso lo dispuesto en el artículo 713.
+El tutor no puede dar en arrendamiento los bienes del incapaz, por más de cinco años, sino en caso de necesidad o utilidad, previos el consentimiento del curador y autorización judicial, observándose en su caso lo dispuesto en el artículo 713.
 
 ###### Art. 718.
 
@@ -5023,17 +5207,17 @@ El tutor tiene obligación de admitir las donaciones simples, legados y herencia
 
 La expropiación por causa de utilidad pública, de bienes de incapaces, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 725.
 
 Cuando la tutela del incapaz recayere en su cónyuge, continuará éste ejerciendo los derechos conyugales, con las siguientes modificaciones:
 
-I. En los casos en que conforme a derecho fuera necesario el consentimiento del cónyuge incapaz, se suplirá éste por el Consejo de Familia, con audiencia del curador; y
+I. En los casos en que conforme a derecho fuera necesario el consentimiento del cónyuge incapaz, se suplirá éste por el agente de la Procuraduría Social, con audiencia del curador; y
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-II. En los casos en que el cónyuge incapaz requiera querellarse del otro o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento y si no la cumple, será responsable de los perjuicios que se causen al incapaz. También podrá promover este nombramiento el Consejo de Familia o los parientes del incapaz.
+II. En los casos en que el cónyuge incapaz requiera querellarse del otro o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento y si no la cumple, será responsable de los perjuicios que se causen al incapaz. También podrá promover este nombramiento la Procuraduría Social o los parientes del incapaz.
 
 ###### Art. 726.
 
@@ -5043,31 +5227,41 @@ Cuando la tutela del incapaz recaiga en el cónyuge, éste sólo podrá gravar o
 
 Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 728.
 
-En caso de maltrato, de negligencia en los cuidados debidos al incapaz o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapaz, del Agente de la Procuraduría Social, o del Consejo de Familia.
+En caso de maltrato, de negligencia en los cuidados debidos al incapaz o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapaz, del Agente de la Procuraduría Social o la Procuraduría de Protección de Niñas, Niños y Adolescentes, según corresponda.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 729.
 
-El tutor tiene derecho a una retribución sobre los rendimientos que produzcan los bienes del incapaz, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y, para los tutores legítimos y dativos, el Consejo de Familia.
+El tutor tiene derecho a una retribución sobre los rendimientos que produzcan los bienes del incapaz, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y, para los tutores legítimos y dativos, el Juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 730.
 
-La retribución así fijada por el Consejo de Familia, no podrá ser menor del cinco ni mayor del diez por ciento de los rendimientos líquidos de dichos bienes.
+La retribución así fijada por el Juez, no podrá (sic) mayor al cinco por ciento de los rendimientos líquidos de dichos bienes
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 731.
 
-Si los bienes del incapaz tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el Consejo de Familia, con audiencia del curador.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 732.
 
-Para que pueda hacerse en la retribución de los tutores, el aumento extraordinario que permite el artículo anterior, será requisito indispensable que hayan cumplido, durante el desempeño de su cargo, con la obligación de rendir cuentas y que éstas hayan sido aprobadas.
+(DEROGADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ###### Art. 733.
 
@@ -5081,11 +5275,13 @@ El tutor no tendrá derecho a remuneración alguna y restituirá lo que por este
 
 El tutor está obligado a rendir al Juez, cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 735.
 
-También tiene obligación de rendir cuentas cuando por causas graves, que calificará el Juez, las exijan el curador, el Agente de la Procuraduría Social, el Consejo de Familia o el mismo menor que haya cumplido catorce años de edad, y en el supuesto de este artículo, la cuenta deberá rendirse dentro de los quince días a partir de la fecha en que se le ordene hacerlo.
+También tiene obligación de rendir cuentas cuando por causas graves, que calificará el Juez, las exijan el curador, el Agente de la Procuraduría Social, la Procuraduría de Protección de Niñas, Niños y Adolescentes o el adolescente, y en el supuesto de este artículo, la cuenta deberá rendirse dentro de los quince días a partir de la fecha en que se le ordene hacerlo.
 
 ###### Art. 736.
 
@@ -5115,15 +5311,21 @@ Las cuentas deben rendirse en el lugar en que se desempeñe la tutela.
 
 Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al incapaz, si esto ha sido sin culpa del primero.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 742.
 
-Ninguna anticipación ni crédito contra el incapaz se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador y del Consejo de Familia.
+Ninguna anticipación ni crédito contra el incapaz se abonará al tutor, a menos que al efecto haya sido autorizado por el Juez con audiencia del curador y del agente de la Procuraduría Social.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 743.
 
-El tutor será igualmente indemnizado, según el prudente arbitrio del Consejo de Familia, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya existido de su parte culpa o negligencia.
+El tutor será igualmente indemnizado, según el prudente arbitrio del Juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya existido de su parte culpa o negligencia.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -5137,9 +5339,13 @@ La obligación de dar cuentas no puede ser dispensada en contrato o testamento, 
 
 El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que le reemplaza. El nuevo tutor responderá al incapaz por los daños y perjuicios si no pudiere y tomare las cuentas de su antecesor.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 746.
 
-El tutor o en su falta, quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses contados desde el día en que fenezca la tutela. El Consejo de Familia podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+El tutor o en su falta, quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses contados desde el día en que fenezca la tutela. El Juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
 
 ###### Art. 747.
 
@@ -5179,11 +5385,13 @@ La obligación de entregar los bienes no se suspende por estar pendiente la rend
 
 El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido; si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapaz.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 754.
 
-La entrega de los bienes y la cuenta de la tutela, se efectuarán a expensas del incapaz. Si para realizarse no hubiere fondos disponibles, el Consejo de Familia podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+La entrega de los bienes y la cuenta de la tutela, se efectuarán a expensas del incapaz. Si para realizarse no hubiere fondos disponibles, el Juez podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
 
 ###### Art. 755.
 
@@ -5215,7 +5423,9 @@ Si la tutela hubiere fenecido durante la minoridad, la persona menor de edad pod
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 761.
 
@@ -5255,17 +5465,17 @@ II. Los menores de edad emancipados, tratándose de negocios judiciales.
 
 El curador en todos los demás casos será nombrado por el juez.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 769.
 
-El curador esta obligado a:
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+El curador está obligado a:
 
 I. Defender los derechos del incapaz en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-II. Vigilar la conducta del tutor y a poner en conocimiento del Consejo de Familia todo aquello que considere que pueda ser perjudicial para el incapaz;
+II. Vigilar la conducta del tutor y a poner en conocimiento del Juez todo aquello que considere que pueda ser perjudicial para el incapaz;
 
 III. Dar aviso al juez para que se haga el nombramiento del tutor, cuando éste faltare o abandonare la tutela; y
 
@@ -5291,7 +5501,11 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a este código tenga que intervenir el curador, cobrará el honorario equivalente a la mitad que le corresponda al tutor, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en su desempeño le serán cubiertos con cargo al patrimonio del incapaz.
 
-## TITULO DECIMO. Del consejo de familia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+## TITULO DECIMO. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
 
 ### CAPITULO UNICO
 
@@ -5299,17 +5513,47 @@ En los casos en que conforme a este código tenga que intervenir el curador, cob
 
 ###### Art. 774.
 
-El Consejo Estatal, Municipal o Intermunicipal es un órgano de participación ciudadana, desconcentrado de los Sistemas de Desarrollo Integral de la Familia, que tiene por objeto dar la atención y seguimiento a los asuntos que le deriven por este código.
+La protección y restitución integral de los derechos a las niñas, niños y adolescentes estará a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, de conformidad a la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, misma que se aplicará de manera supletoria a lo previsto en este Código.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
+Para el cumplimiento de sus atribuciones en asuntos jurisdiccionales y administrativos la Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de agentes, o a través de delegados institucionales, de conformidad a la legislación de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 775.
 
-Servirá como enlace permanente entre todas las instituciones públicas, descentralizadas y privadas que tengan como objetivo la atención, custodia, tutela y asistencia a la niñez, a los discapacitados, a las personas en edad senil y a la familia.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, desempeñará las siguientes atribuciones:
+
+I. Ejercer la representación en suplencia de una niña, niño o adolescente, y prestar asesoría jurídica a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público y a la representación social;
+
+II. Intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes;
+
+III. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
+
+IV. Registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre­adoptivo, y de igual forma para las familias de acogida;
+
+V. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial o administrativa;
+
+VI. Solicitar medidas para la suspensión de la difusión de información publicada en internet o por cualquier otro medio de comunicación que afecte los derechos humanos o ponga en riesgo objetivamente el sano desarrollo de niñas, niños y adolescentes;
+
+VIl. Substanciar de manera oficiosa o a petición de parte el procedimiento para la protección y restitución integral de los derechos de niñas, niños y adolescentes, conforme a lo previsto en la legislación de la materia;
+
+VIII. Emitir bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección;
+
+IX. Coordinar la ejecución y dar seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada; y
+
+X. Las demás previstas en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 776.
 
-El Consejo de Familia desempeña de oficio el cargo de tutor, salvo en los casos de tutela testamentaria, o de los preferentes señalados en este código.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes solicitará al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, e informará al órgano jurisdiccional competente, para que éste, dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, se pronuncie sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+Asimismo, solicitará la imposición de las medidas de apremio, previstas en la legislación civil, en caso de incumplimiento de las medidas urgentes de protección.
 
 TITULO DECIMOPRIMERO
 
@@ -5427,11 +5671,13 @@ Cuando se constituya el patrimonio de familia; por personas unidas por vínculo 
 
 En caso de que el patrimonio de familia esté constituido por bienes que sirvan para obtener la manutención de los beneficiarios y a su desgaste, podrán ser sustituidos por otros de similares características, debiéndose autorizar la sustitución por el juez que decretó la constitución del patrimonio de familia y cuando se trate de automotores, se dará aviso a las autoridades correspondientes para los efectos legales.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 790.
 
-Cuando haya peligro de que quien tiene la obligación de dar alimentos, pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas, y si éstos son incapaces, sus tutores o el Agente de la Procuraduría Social, tienen derecho de exigir judicialmente que se constituya el patrimonio de familia.
+Cuando haya peligro de que quien tiene la obligación de dar alimentos, pierda sus bienes por mala administración o porque los esté dilapidando, los acreedores alimentistas, y si estos son incapaces, sus tutores, sus representantes o el Agente de la Procuraduría Social, tienen derecho de exigir judicialmente que se constituya el patrimonio de familia.
 
 ###### Art. 791.
 
@@ -10353,13 +10599,15 @@ La simulación es absoluta cuando el acto simulado nada tiene de real; es relati
 
 La simulación absoluta no produce efectos jurídicos. Descubierto el acto real que oculta la simulación relativa, ese acto no será nulo si no hay ley que así lo declare.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 1688.
 
 Tienen acción para reclamar la nulidad de los actos simulados:
 
-I. Los terceros a quienes perjudique la simulación;
-
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
+I. Los terceros o a sus representantes a quienes perjudique la simulación;
 
 II. El Agente de la Procuraduría Social;
 
@@ -15189,17 +15437,19 @@ V. Los acreedores de la herencia, por el importe de sus créditos, si en la mism
 
 VI. El Estado, los municipios y los organismos descentralizados, sobre los bienes de sus administradores o recaudadores, para asegurar las responsabilidades de sus respectivos cargos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 2568.
 
 La constitución de la hipoteca, en los casos de las fracciones II y III del artículo anterior, podrá ser pedida:
 
-I. Por los herederos legítimos del menor, respecto de bienes de que fueren meros administradores los padres;
+I. Por los herederos legítimos de niñas, niños y adolescentes, respecto de bienes de que fueren meros administradores los padres;
 
-II. Por los herederos legítimos, el curador del incapaz y el Consejo de Familia, respecto de bienes administrados por los tutores; y
+II. Por los herederos legítimos, el curador del incapaz, respecto de bienes administrados por los tutores; y
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
-
-III. Por el Agente de la Procuraduría Social, sí no la piden las personas señaladas en las dos fracciones anteriores.
+III. Por el Agente de la Procuraduría Social, o la Procuraduría de Protección de Niñas, Niños y Adolescentes, si no la piden las personas señaladas en las dos fracciones anteriores.
 
 ###### Art. 2569.
 
@@ -15617,6 +15867,10 @@ V. Si ha conocido del negocio como juez o asesor, resolviendo algún punto que a
 
 VI. Cuando alguna de las partes o sus representantes, es o ha sido denunciante, querellante o acusador del árbitro de que se trate, su cónyuge, sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del cuarto, o de los afines dentro del segundo o viceversa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 2614.
 
 Los árbitros sólo podrán ser recusados cuando surja, con posterioridad a la celebración del contrato de compromiso arbitral, alguna de las siguientes circunstancias:
@@ -15631,9 +15885,7 @@ IV. Cuando después de comenzado el pleito hayan admitido él, su cónyuge o hij
 
 V. Cuando el árbitro, o sus expresados parientes, sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
-
-VI. Si él o sus expresados parientes siguen algún proceso civil o criminal en que sea Juez, Agente del Ministerio Público, Agente de la Procuraduría Social de alguna de las partes; y
+VI. Si él o sus expresados parientes siguen algún proceso civil o criminal en que sea juez, Agente del Ministerio Público, Agente de la Procuraduría Social, representante de la Procuraduría de Protección de Niñas, Niños y Adolescentes de alguna de las partes; y
 
 VII. Si es tutor o curador de alguna de las partes o no han pasado tres años de haberlo sido.
 
@@ -17249,9 +17501,13 @@ A falta de todos los herederos llamados en los capítulos anteriores, sucederán
 
 Cuando a la muerte del marido, la viuda haya quedado encinta, lo pondrá en conocimiento del juez que conozca de la sucesión, para que en forma inmediata lo notifique a los que tengan un posible derecho a la herencia y éste fuera de tal naturaleza que pueda desaparecer o disminuir por el nacimiento del póstumo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 2944.
 
-Los interesados a que se refiere el precedente artículo pueden pedir al juez que dicte las providencias convenientes para evitar la suposición del parto, la sustitución del infante o que se haga pasar por viable la criatura que no lo es.
+Los interesados a que se refiere el precedente artículo pueden pedir al juez que dicte las providencias convenientes para evitar la suposición del parto, la sustitución de la niña o el niño o que se haga pasar por viable quien no lo es. En todos los casos se dará aviso a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 Cuidará el juez de que las medidas que dicte no ataquen el pudor ni a la libertad de la viuda.
 
@@ -17485,6 +17741,10 @@ No hay obligación de dar alimentos a las personas que tengan bienes; pero si te
 
 Cesa el derecho de ser alimentado, tan luego el interesado deje de estar en las condiciones a que se refiere este capítulo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 2988.
 
 El derecho de alimentos a que se refiere este capítulo se rige por las siguientes bases:
@@ -17497,9 +17757,9 @@ III. La pensión alimenticia se fijará y asegurará en los siguientes términos
 
 a) Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad.
 
-Respecto de los menores, los alimentos comprenden, además los gastos necesarios para la educación primaria y secundaria del alimentista.
+Respecto de niñas, niños y adolescentes, los alimentos comprenden, además los gastos necesarios para la educación obligatoria del alimentista.
 
-Pero si al haber concluido la educación secundaria y antes de alcanzar la mayoría de edad están estudiando una carrera a nivel licenciatura, tienen el derecho a recibir alimentos hasta que obtengan el título correspondiente, si realizan sus estudios normalmente y sin interrupción;
+Pero si, al haber concluido la educación obligatoria, están estudiando una carrera a nivel licenciatura tienen el derecho a recibir alimentos hasta que obtengan el título correspondiente, si realizan sus estudios normalmente y sin interrupción;
 
 b) La obligación de dar alimentos no comprende la de proveer de capital al beneficiario para su establecimiento o para el ejercicio del oficio, arte o profesión a que se hubiere dedicado;
 
@@ -17513,9 +17773,7 @@ c) Tienen acción para pedir y asegurar los alimentos:
 
 4) Los demás parientes del acreedor, sin limitación de grado en línea recta o dentro del tercer grado en la línea colateral;
 
-5) El procurador de la familia; y
-
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+5) La Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
 6) El Agente de la Procuraduría Social; y
 
@@ -17565,11 +17823,13 @@ El derecho a reclamar la herencia prescribe en diez años contados a partir del 
 
 Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 2995.
 
-La herencia dejada a las personas menores de edad y demás incapaces, será aceptada por sus representantes, quienes podrán repudiarla con autorización judicial, previa audiencia del Agente de la Procuraduría Social.
+La herencia dejada a niñas, niños y adolescentes o incapaces, será aceptada por sus representantes, quienes podrán repudiarla con autorización judicial, previa audiencia del Agente de la Procuraduría Social, y la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Art. 2996.
 
@@ -17949,11 +18209,13 @@ Son nulas de pleno derecho las disposiciones por las que el testador dispensa al
 
 Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o el juicio respectivo, según se trate de cuentas de mera administración o de cuenta general de albaceazgo.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 3071.
 
-Cuando fuere heredera la beneficencia pública o los herederos fueren menores, intervendrá el Agente de la Procuraduría Social en la aprobación de las cuentas.
+Cuando fuere heredera la beneficencia pública o los herederos fueren niñas, niños o adolescentes, intervendrán en la aprobación de las cuentas el Agente de la Procuraduría Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Art. 3072.
 
@@ -18061,6 +18323,10 @@ Si el testador legó conjuntamente a los albaceas alguna cosa por el desempeño 
 
 #### Sección Tercera. Disposiciones Comunes al albacea y al Interventor
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 3095.
 
 Los cargos de albacea e interventor, acaban:
@@ -18071,9 +18337,7 @@ II. Por muerte;
 
 III. Por incapacidad legal, declarada en forma;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2007)</small>
-
-IV. Por excusa que el Juez califique de legítima, con audiencia de los interesados y del Agente de la Procuraduría Social, cuando se interesen menores o la beneficencia pública;
+IV. Por excusa que el juez califique de legítima, con audiencia de los interesados y de la Procuraduría de Protección de Niñas, Niños y Adolescentes, cuando se interesen a niñas, niños o adolescentes, o la beneficencia pública;
 
 V. Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -18145,11 +18409,13 @@ Aprobados el inventario y las cuentas de albaceazgo, el albacea debe hacer enseg
 
 A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 3111.
 
-Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores entre ellos, deberá oírse al representante legal y al Agente de la Procuraduría Social; y el auto en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
+Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo niñas, niños y adolescentes entre ellos, deberá oírse al representante legal y al Agente de la Procuraduría Social; y el auto en que se apruebe el convenio determinará el tiempo que debe durar la indivisión.
 
 ###### Art. 3112.
 
@@ -18177,13 +18443,15 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 3118.
 
 Cuando todos los herederos sean mayores de edad, exista testamento público abierto, podrán los interesados tramitar el negocio sucesorio ante notario público que tenga su jurisdicción en el domicilio donde correspondería conocer a la autoridad judicial del mismo, en los términos del Código de Procedimientos Civiles. También en los casos de sucesión legítima, o testamento público cerrado y ológrafo, una vez que hubieren sido reconocidos los herederos, y designado el albacea, podrán los interesados separarse del trámite judicial y concurrir a notaría para la prosecución del negocio.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2007)</small>
-
-Cuando haya menores, podrán separarse, si están debidamente representados y el Agente de la Procuraduría Social da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo al Ministerio Público, dará su aprobación si no se lesionan los derechos de los menores.
+Cuando haya niñas, niños o adolescentes, podrán separarse, si están debidamente representados y el Agente de la Procuraduría Social da su conformidad. En este caso, los acuerdos que se tomen se denunciarán al Juez, y éste, oyendo a la Procuraduría de Protección de Niñas, Niños y Adolescentes, dará su aprobación si no se lesiona (sic) derechos y el interés superior de la niñez.
 
 Ante el notario podrán adoptar todos los acuerdos que se estimen convenientes para el arreglo y terminación del trámite sucesorio.
 
@@ -18772,3 +19040,39 @@ P.O. 25 DE ABRIL DE 2015.
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Los juicios iniciados al amparo de las disposiciones reformadas, se ajustarán a los plazos de la nueva ley pues su aplicación será retroactiva a solicitud del interesado.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.
+
+TERCERO. El titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.
+
+CUARTO. El Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.
+
+QUINTO. Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.
+
+SEXTO. Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.
+
+En todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.
+
+SÉPTIMO. El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.
+
+OCTAVO. El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+NOVENO. Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.
+
+DÉCIMO. Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero transitorio del presente Decreto.
+
+DÉCIMO PRIMERO. Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.
+
+DÉCIMO SEGUNDO. Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.
+
+DÉCIMO TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+
+Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el artículo 46 del Código de Asistencia Social del Estado de Jalisco.
+
+DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
+
+DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
