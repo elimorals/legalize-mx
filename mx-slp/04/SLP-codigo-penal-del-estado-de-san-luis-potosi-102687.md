@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2014-09-29"
+last_updated: "2015-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1275,6 +1275,10 @@ El perdón del ofendido no surtirá efectos a favor del reincidente del delito d
 
 En los delitos a que se refiere el artículo anterior, el perdón de la víctima, el ofendido, o del legitimado para otorgarlo, surtirá sus efectos, siempre y cuando el imputado o sentenciado satisfaga los requisitos legales, acredite el pago de la reparación del daño causado y, en su caso, el de las multas impuestas.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
+Además, tratándose del delito de violencia familiar, el Ministerio Público o el Juez, previo consentimiento de la víctima, ordenará la práctica de prueba psicológica para acreditar que ésta no se encuentre manipulada o coaccionada por el imputado.
+
 ### CAPÍTULO VI. Rehabilitación
 
 ###### ARTÍCULO 106.
@@ -1475,15 +1479,19 @@ Incurre en homicidio por omisión, quien teniendo el deber de cuidado hacia un e
 
 Para los efectos de este capítulo se entiende por pérdida de la vida, en los términos de los artículos 343 y 344 de la Ley General de Salud, la muerte encefálica; o el paro cardíaco irreversible.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 128.
 
-Para la imposición de las sanciones que correspondan a quien cometa el delito a que se refiere el artículo anterior se tendrá como mortal una lesión cuando se verifiquen las circunstancias siguientes:
+Para la imposición de las sanciones que correspondan a quien cometa el delito a que se refiere el artículo anterior, se tendrá como mortal una lesión cuando se verifiquen las circunstancias siguientes:
 
-I. Que la muerte se deba a las alteraciones causadas por la lesión en el órgano u órganos interesados, a alguna de sus consecuencias inmediatas o a alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable o por no tenerse al alcance los recursos necesarios, y
+I. Que la muerte se deba a las alteraciones causadas por: la lesión en el órgano u órganos interesados; alguna de sus consecuencias inmediatas; o alguna complicación determinada por la misma lesión y que no pudo combatirse, ya sea por ser incurable o por no tenerse al alcance los recursos necesarios, y
 
-II. Que, si se encuentra el cadáver de la víctima y sea necesaria la necropsia, declare el perito o los peritos que la practiquen que la lesión fue mortal, sujetándose para ello a las reglas contenidas en este artículo; en los dos siguientes, y en el Código de (sic) Procesal Penal del Estado.
+II. Que si se encuentra el cadáver de la víctima y sea necesaria la necropsia, declare el perito o los peritos que la practiquen que la lesión fue mortal, sujetándose para ello a las reglas contenidas en este artículo, en los dos siguientes; en el Código de Procedimientos Penales para el Estado de San Luis Potosí; o, en su caso, en el Código Nacional de Procedimientos Penales.
 
-Cuando el cadáver no se encuentre o por otro motivo no se haga la necropsia, bastará que el perito o los peritos, en vista de los datos que obren en la causa, declaren que la muerte fue resultado de las lesiones inferidas.
+Cuando el cadáver no se encuentre o por otro motivo no se haga la necropsia, bastará que el perito o los peritos, en vista de los datos que obren en la causa, declaren que la muerte fue resultado de las lesiones inferidas así lo hará saber al Ministerio Público para los efectos legales que correspondan.
+
+Inmediatamente después que la necropsia se hubiere practicado o, en su caso, dispensado, se entregará el cadáver a los familiares o a quienes invoquen título o motivo suficiente, previa autorización del Ministerio Público.
 
 ###### ARTÍCULO 129.
 
@@ -2239,13 +2247,15 @@ I. Viole un túmulo, sepulcro, sepultura o féretro, o
 
 II. Profane un cadáver o restos humanos con actos de vilipendio, mutilación, brutalidad o necrofilia.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 210.
 
-También comete el delito de inhumaciones y exhumaciones ilícitas quien retiene un cadáver en una clínica, sanatorio u hospital por mayor tiempo del aconsejado por las normas de salud con el objeto de que los familiares o los deudos paguen gastos de hospitalización, atención, tratamiento u operaciones.
+También comete el delito de inhumaciones, y exhumaciones ilícitas quien retiene un cadáver en, una clínica; sanatorio, u hospital, por mayor tiempo del aconsejado por las normas de salud, con el objeto de que los familiares o los deudos paguen gastos de hospitalización, atención, tratamiento u operaciones.
 
-Igualmente lo comete quien retiene un cadáver en una agencia funeraria con el objeto de que los familiares o deudos paguen los servicios; o el personal de las instituciones de salud ya mencionadas que retiene cadáveres con fines científicos, pero sin el consentimiento de quien pueda darlo.
+También cometen este delito los propietarios, administradores, empleados o encargados de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver a los familiares o los deudos, con el objeto de que paguen los servicios no requeridos; o el personal de las instituciones de salud ya mencionadas que retiene cadáveres con fines científicos, pero sin el consentimiento de quien pueda darlo.
 
-En estos casos se impondrá una pena de seis meses a dos años de prisión y sanción pecuniaria de sesenta a doscientos días de salario mínimo.
+En estos casos se impondrá una pena de seis meses a dos años de prisión, y sanción pecuniaria de sesenta a doscientos días de salario mínimo.
 
 ## TÍTULO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
@@ -3884,3 +3894,21 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 1187, POR EL QUE SE REFORMAN LOS ARTÍCULOS 128 Y 210 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 1190, POR EL QUE SE ADICIONA PÁRRAFO SÉPTIMO AL ARTÍCULO 105, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
