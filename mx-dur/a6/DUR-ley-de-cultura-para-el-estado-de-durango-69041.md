@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-para-el-estado-de-durango-69041"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2014-07-06"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -81,9 +81,17 @@ I. El Titular del Poder Ejecutivo del Estado;
 
 II. La Secretaría de Educación del Estado;
 
-III. El Instituto de Cultura del Estado de Durango, y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Los Ayuntamientos.
+III. El Instituto de Cultura del Estado de Durango;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Los Ayuntamientos; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+V. Las autoridades tradicionales y comunales de los pueblos indígenas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2013)</small>
 
@@ -103,7 +111,9 @@ IV. Impulsar y estimular los procesos, proyectos y actividades culturales de los
 
 V. Garantizar los derechos humanos de libertad de expresión y manifestación, que no se ejerza ningún tipo de censura o discriminación, por razones de carácter cultural de acuerdo a los ordenamientos en la materia;
 
-VI. Preservar, promover, desarrollar y difundir las manifestaciones de las culturas populares e indígenas del Estado;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Preservar, promover, desarrollar y difundir las manifestaciones de las culturas populares e indígenas del Estado; y procurar el desarrollo de sus capacidades artísticas;
 
 VII. Proponer estudios e investigaciones que permitan una mejor orientación de las tareas de la cultura para que la sociedad adquiera el conocimiento;
 
@@ -126,6 +136,26 @@ XV. Crear incentivos económicos, crediticios y programas de apoyo para personas
 XVI. Promover la celebración de festivales estatales, regionales, nacionales e internacionales, para difundir la cultura de la Entidad, y
 
 XVII. Las demás que en la materia se le otorguen por esta Ley y por otros ordenamientos.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 4° TER. Corresponde a las autoridades tradicionales y comunales de los pueblos indígenas
+
+I. Promover los derechos culturales de todos los habitantes de su comunidad o grupo étnico;
+
+II. Elaborar y ejecutar proyectos de desarrollo cultural en sus organizaciones, congruentes con los programas estatal y municipal de desarrollo, tomando en cuenta las propuestas comunitarias;
+
+III. Diagnosticar, investigar, promover y catalogar la diversidad cultural de su organización comunitaria;
+
+IV. Promover ante las autoridades encargadas de la aplicación de esta Ley, la realización de programas destinados al disfrute cultural de su organización comunitaria;
+
+V. Coadyuvar a la preservación, promoción, desarrollo y difusión de las manifestaciones culturales de la comunidad;
+
+VI. Promover el rescate, la preservación, la valoración y la difusión del patrimonio cultural de la comunidad;
+
+VII. Procurar el desarrollo de capacidades artísticas de la población de su organización comunitaria; y
+
+VIII. Las demás que le otorgue esta Ley, y otros ordenamientos jurídicos en materia de cultura.
 
 ###### ARTÍCULO 5°.
 
@@ -151,9 +181,17 @@ IX. Instituto. El Instituto de Cultura del Estado de Durango;
 
 X. Ley. La Ley de Cultura para el Estado de Durango;
 
-XI. Promotor cultural. Persona que haciendo las diligencias conducentes para su logro, promueve el trabajo de los creadores culturales, de los artistas y de los difusores de la cultura, y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Trabajador de la cultura. Persona que con su actividad técnica, regularmente especializada, facilita a los difusores de la cultura, a los promotores culturales, a los creadores y a los artistas, la realización de su trabajo.
+XI. Promotor cultural. Persona que haciendo las diligencias conducentes para su logro, promueve el trabajo de los creadores culturales, de los artistas y de los difusores de la cultura;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Trabajador de la cultura. Persona que con su actividad técnica, regularmente especializada, facilita a los difusores de la cultura, a los promotores culturales, a los creadores y a los artistas, la realización de su trabajo; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Autoridades tradicionales y comunales de los pueblos indígenas. Aquella persona que se reconoce, de acuerdo a sus sistemas normativos o usos y costumbres, como autoridades y representantes indígenas, que haya sido elegida según las normas y procedimientos internos, para que en el ejercicio de las formas de gobierno, regule y decida sobre las actividades de beneficio común.
 
 ###### ARTÍCULO 6°.
 
@@ -369,7 +407,9 @@ II. Establezca fondos para la promoción difusión e investigación artística y
 
 III. Estructure el Sistema Estatal de Educación Artística;
 
-IV. Defina una política para la atención de las culturas indígena y popular, las festividades y las tradiciones de las comunidades;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Defina una política para la atención y preservación de las culturas indígena y popular, las festividades y las tradiciones de las comunidades;
 
 V. Defina una política para la atención de públicos específicos y grupos socialmente vulnerables;
 
@@ -409,7 +449,9 @@ II. La investigación, restauración, conservación, defensa y protección del p
 
 III. La difusión y promoción de la creación y ejecución artística, en sus expresiones individuales y colectivas;
 
-IV. El conocimiento, fortalecimiento, desarrollo y difusión de las culturas indígenas y de las culturas populares;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+IV. El conocimiento, conservación, fortalecimiento, desarrollo y difusión de las culturas indígenas y de las culturas populares;
 
 V. El desarrollo y consolidación de los sistemas de Casas de Cultura, Archivos, Bibliotecas, Museos y demás espacios de promoción cultural;
 
@@ -607,19 +649,57 @@ Para el fortalecimiento del nivel de sensibilización, iniciación y formación 
 
 Las autoridades estatales y municipales, en su respectivo ámbito de competencia, fijarán las medidas conducentes para la preservación, promoción, fortalecimiento, difusión e investigación de la cultura de los pueblos y comunidades indígenas asentados en el territorio del Estado, observando lo establecido en la Ley General de los Pueblos y Comunidades Indígenas del Estado de Durango, que comprenderán, entre otras, las siguientes acciones:
 
-I. Preservar la lengua, la cultura y las artes, así como los recursos y formas específicas de su organización social;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-II. Fomentar la creación, producción y difusión literaria en lenguas autóctonas y la edición de publicaciones bilingües;
+I. Preservar la lengua, la cultura y las artes, así como los recursos y formas específicas de su organización social, reconociendo la pluralidad cultural, la diversidad étnica y lingüística del Estado.
 
-III. Impulsar el establecimiento de museos comunitarios, ferias festivales de arte, música y demás expresiones culturales;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+II. Fomentar la creación, producción y difusión literaria en lenguas autóctonas y la edición de publicaciones bilingües orientadas tanto a la difusión de la cultura indígena, como a las diversas expresiones artísticas y culturales que de ella emanan;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+III. Impulsar el establecimiento de museos comunitarios, ferias, festivales de arte, música y demás expresiones culturales, para promover programas que propicien el desarrollo cultural de los pueblos indígenas;
 
 IV. Proveer de asistencia técnica y asesoría para el desarrollo de sus manifestaciones culturales;
 
 V. Estimular su creatividad artesanal y artística;
 
-VI. Otorgar premios y reconocimientos a quienes se distingan en la preservación, promoción, difusión e investigación, de la cultura indígena de la Entidad, y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Promover las actividades de concertación pertinentes para unificar -programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado.
+VI. Otorgar premios y reconocimientos a quienes se distingan en la preservación, promoción, difusión e investigación de la cultura indígena de la Entidad;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Promover las actividades de concertación pertinentes para unificar programas, cuando las manifestaciones culturales y artísticas indígenas se produzcan en varios municipios del Estado;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Reconocer el derecho de los pueblos indígenas a practicar y revitalizar sus tradiciones y costumbres culturales. Ello incluye el derecho a mantener, proteger y desarrollar las manifestaciones pasadas, presentes y futuras de sus culturas, como lugares arqueológicos e históricos, utensilios, diseños, ceremonias, tecnologías, artes visuales e interpretativas y literaturas;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Reconocer el derecho de los pueblos indígenas a manifestar, practicar, desarrollar y enseñar sus tradiciones, costumbres y ceremonias espirituales y religiosas, a acceder a ellas privadamente; y a utilizar y vigilar sus objetos de culto;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+X. Preservar el patrimonio lingüístico del Estado; el uso, conocimiento y divulgación de la lengua materna, en todos los niveles de enseñanza;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Apoyar las propuestas culturales que se originen en el seno de los pueblos y comunidades indígenas;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Promover entre las instituciones, organismos privados e investigadores, los trabajos que aborden temas relacionados con el pluralismo lingüístico, las nuevas identidades, la migración y la presencia indígena en el territorio del Estado;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Impulsar acciones que reconozcan el papel de la mujer indígena en la transmisión y desarrollo de su cultura; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Desarrollar campañas de difusión de las culturas de los pueblos indígenas, que promuevan el respeto, y combatan la discriminación y racismo.
 
 ### CAPÍTULO VII. DE LA CULTURA POPULAR, FESTIVIDADES Y TRADICIONES
 
@@ -1383,7 +1463,7 @@ El personal directivo y el que administra recursos financieros, tiene derecho a 
 
 El patrimonio del Instituto se integrará:
 
-I. Con los bienes muebles e inmuebles con que actualmente cuenta, así como con las aportaciones que en su favor hagan los gobiernos (sic) federal, estatales y municipales;
+I. Con los bienes muebles e inmuebles con que actualmente cuenta, así como con las aportaciones que en su favor hagan los gobiernos federal, estatales y municipales;
 
 II. Con los recursos presupuestales que anualmente le asigne el Gobierno del Estado y la Federación;
 
@@ -1534,6 +1614,16 @@ PRIMERO.- El presente Decreto iniciará su vigencia a partir del día siguiente 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 6 DE JULIO DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
 
 ###### ARTÍCULO PRIMERO.
 
