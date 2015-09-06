@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-los-pueblos-y-comunidades-indigenas-del-56727"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-07-22"
-last_updated: "2007-07-22"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE DURANGO
 
-LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDIGENAS DEL ESTADO DE DURANGO
+LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de julio de 2007.
 
@@ -49,9 +49,11 @@ LEY GENERAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público e interés social, emitida bajo los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos y Tratados Internacionales en materia indígena y es reglamentaria del artículo 2 de la Constitución Política del Estado Libre y Soberano de Durango.
+Esta Ley es de orden público e interés social, emitida bajo los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos y Tratados Internacionales en materia indígena y es reglamentaria del artículo 39 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 Es obligación de las autoridades estatales, municipales y de la sociedad en general, la observancia y el cumplimiento del presente ordenamiento. El Estado y los Municipios deben incluir dentro de sus planes y programas de desarrollo a las comunidades indígenas de los pueblos asentados en el territorio del Estado, en los términos previstos en esta Ley.
 
@@ -59,17 +61,21 @@ Es obligación de las autoridades estatales, municipales y de la sociedad en gen
 
 La presente Ley tiene por objeto el desarrollo, reconocimiento, preservación y defensa de los derechos y cultura de los pueblos y comunidades indígenas, así mismo establece las obligaciones del Estado y sus Municipios para garantizar el cumplimiento de los referidos objetivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 3.
 
-El Estado de Durango tiene una composición pluricultural y pluriétnica sustentada en sus pueblos y comunidades indígenas. Esta Ley reconoce y protege a los pueblos y comunidades indígenas Tepehuana, Huicholes, Mexicaneros, Tarahumaras o Rarámuris, asentados en el Estado de Durango, cuyas formas e instituciones sociales, económicas y culturales los identifican y distinguen del resto de la población del Estado.
+El Estado de Durango tiene una composición pluricultural y pluriétnica sustentada en sus pueblos y comunidades indígenas. Esta Ley reconoce y protege a los pueblos y comunidades indígenas Tepehuana u O'dam, Huicholes o Wirrárika, Mexicaneros o Náhuatl, Tarahumaras o Rarámuris y Coras, asentados en el Estado de Durango, cuyas formas e instituciones sociales, económicas y culturales los identifican y distinguen del resto de la población del Estado.
 
 Los indígenas procedentes de otra entidad federativa o de otro país, que transiten o residan temporal o permanentemente dentro del territorio del Estado, serán sujetos de las obligaciones y derechos de la presente Ley; por lo anterior, se les reconoce el derecho a la protección de sus costumbres, usos, tradiciones, lengua, religión, indumentaria y rasgos culturales.
 
 Los derechos de los pueblos indígenas que reconoce la presente Ley, serán ejercidos a través de sus respectivas autoridades tradicionales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 4.
 
-La aplicación de esta Ley corresponde al Estado, a los Municipios y a las autoridades tradicionales, en el ámbito de sus respectivas competencias, con el objeto de asegurar el respeto de los derechos individuales y colectivos de los pueblos y comunidades indígenas del Estado.
+La aplicación de esta Ley corresponde al Estado, a los Municipios y a las autoridades tradicionales, en el ámbito de sus respectivas competencias, con el objeto de asegurar el respeto de los derechos humanos y colectivos de los pueblos y comunidades indígenas del Estado.
 
 ###### ARTÍCULO 5.
 
@@ -83,13 +89,17 @@ III. Comunidad Indígena: Unidad social, económica y cultural, asentada en un t
 
 IV. Derechos Colectivos: Aquéllos que reconoce el Orden Jurídico Mexicano a los pueblos y comunidades indígenas, en los ámbitos político, económico, social, agropecuario, cultural y jurisdiccional, para garantizar su existencia, permanencia, dignidad, bienestar y no discriminación basada en la pertenencia a los pueblos indígenas;
 
-V. Derechos Individuales: Aquéllos que reconoce el Orden Jurídico Mexicano a todo hombre o mujer, independiente a su origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+V. Derechos Humanos: Aquéllos que reconoce el Orden Jurídico Mexicano a todo hombre o mujer, independiente a su origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 VI. El Estado: Estado de Durango, parte integrante de la Federación de los Estados Unidos Mexicanos;
 
 VII. Lenguas Indígenas: Son aquéllas que proceden de los pueblos que se establecieron en el territorio mexicano antes de iniciarse la colonización y que se reconocen por conservar un conjunto ordenado y sistematizado de formas orales, escritas y otras simbólicas de comunicación entre sí:
 
-VIII. Libre Determinación: El derecho de los pueblos y comunidades indígenas para autogobernarse, tener su propia identidad como pueblo y decidir sobre su vida presente y futura;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Libre Determinación: El derecho de los pueblos y comunidades indígenas para autogobernarse, tener su propia identidad como pueblo y decidir sobre su vida presente y futura, en un marco constitucional de autonomía que asegure la unidad nacional;
 
 IX. Municipios: Aquéllos que en su jurisdicción cuenten con población indígena asentada en forma temporal o permanente;
 
@@ -129,9 +139,11 @@ El Estado reconoce y garantiza el derecho de los pueblos y comunidades indígena
 
 Los pueblos y comunidades indígenas tendrán el carácter de personas colectivas de derecho público, con personalidad jurídica y patrimonio propio.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-Los pueblos y comunidades indígenas tienen derecho a ser consultados mediante los procedimientos apropiados a través de sus autoridades tradicionales, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente, con la finalidad de llegar a un acuerdo o lograr el consentimiento acerca de las medidas propuestas, asimismo, tienen derecho a participar en la elaboración del Plan Estatal de Desarrollo y en los Planes Municipales, y en su caso, incorporar las recomendaciones y propuestas que realicen.
+Los pueblos y comunidades indígenas tienen derecho a ser consultados mediante los procedimientos apropiados a través de sus autoridades tradicionales en términos de la Ley, cada vez que se prevean medidas legislativas o administrativas susceptibles de afectarles directamente, con la finalidad de llegar a un acuerdo o lograr el consentimiento acerca de las medidas propuestas, así mismo, tienen derecho a participar en la elaboración del Plan Estatal de Desarrollo y en los Planes Municipales, para que en su caso, se incorporen las recomendaciones y propuestas que realicen.
 
 ### CAPÍTULO III. DE LA AUTONOMÍA
 
@@ -153,9 +165,11 @@ El Estado reconoce y garantizará el derecho de los pueblos y comunidades indíg
 
 El Estado reconoce la existencia de sistemas normativos internos de los pueblos y comunidades indígenas asentadas dentro de su territorio, con características propias y específicas en cada pueblo y comunidad, basados en sus tradiciones ancestrales y que han trasmitido por generaciones, enriqueciéndose con el paso del tiempo o por diversas circunstancias. Por tanto, en el territorio del Estado, dichos sistemas se consideran actualmente vigentes y en uso.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 17.
 
-El Estado reconoce la validez de los sistemas normativos internos de los pueblos y comunidades indígenas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria y, en general, de la prevención y solución de conflictos al interior de cada comunidad.
+En términos del artículo 2, apartado A, fracción II, de la Constitución Política de los Estados Unidos Mexicanos, el Estado reconoce la validez de los sistemas normativos internos de los pueblos y comunidades indígenas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria y, en general, de la prevención y solución de conflictos al interior de cada comunidad.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS SOCIALES Y ASISTENCIALES
 
@@ -483,7 +497,7 @@ El Fondo para la atención de los pueblos y comunidades indígenas deberá consi
 
 ### CAPÍTULO II. (SIC) social y económico de las acciones en el desarrollo de los pueblos y comunidades indígenas, y
 
-(SIC) VIII. Establecer los sistemas de control necesarios para el manejo de los recursos y la asistencia técnica requerida, a fin de que éstos se ejerzan en forma eficiente y transparente, debiendo informar oportuna y cabalmente a los pueblos y comunidades indígenas. (sic)
+(SIC) VIII. Establecer los sistemas de control necesarios para el manejo de los recursos y la asistencia técnica requerida, a fin de que éstos se ejerzan en forma eficiente y transparente, debiendo informar oportuna y cabalmente a los pueblos y comunidades indígenas.
 
 ARTÍCULO 64 (SIC). Los municipios tienen la obligación de distribuir con un sentido de equidad entre las comunidades y pueblos indígenas que se encuentren dentro de su jurisdicción, las participaciones federales, los ingresos que se deriven de convenios con el Estado y la Federación, así como los derivados de impuestos, derechos, productos y aprovechamientos municipales.
 
@@ -491,9 +505,11 @@ ARTÍCULO 64 (SIC). Los municipios tienen la obligación de distribuir con un se
 
 El Estado de acuerdo a sus programas y políticas públicas, descentralizará sus servicios para prestarlos con eficiencia y facilitarles el acceso a los pueblos y comunidades indígenas en los términos acordados con éstos.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 66.
 
-Las comunidades indígenas podrán formar asociaciones para los fines que se consideren convenientes de conformidad con lo dispuesto en el artículo 110 de la Constitución Política del Estado Libre y Soberano de Durango.
+Las comunidades indígenas podrán formar asociaciones para los fines que consideren convenientes.
 
 ###### ARTÍCULO 67.
 
@@ -521,7 +537,7 @@ IV. Gestionar financiamientos para los productores artesanales, y
 
 V. Los demás que emanen de cualquier otra disposición normativa en la materia o que el Ejecutivo Estatal les encomiende en apoyo de esta actividad.
 
-DE LA PARTICIPACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN LA PLANTACIÓN DEL DESARROLLO ECONÓMICO (SIC)
+DE LA PARTICIPACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS EN LA PLANTACIÓN DEL DESARROLLO ECONÓMICO
 
 ARTÍCULO 60 (SIC). Los pueblos y comunidades indígenas tienen el derecho de decidir sus necesidades prioritarias respecto a su desarrollo integral, tomando en consideración los planes Estatal y Municipales de Desarrollo.
 
@@ -551,7 +567,7 @@ V. Asegurar el acceso equitativo a los sistemas de abasto y comercialización;
 
 VI. Establecer acciones de capacitación y formación de intérpretes para apoyar a las comunidades y pueblos indígenas en los distintos ámbitos que éstos requieran;
 
-VII. Construir un sistema de información periódico, oportuno, objetivo y público, donde se incluyan criterios de evaluación que permitan conocer el impacto (sic)
+VII. Construir un sistema de información periódico, oportuno, objetivo y público, donde se incluyan criterios de evaluación que permitan conocer el impacto
 
 ARTÍCULO 70 (SIC). La Secretaría de Desarrollo Económico del Estado, buscará los mecanismos necesarios para que, en coordinación con la Secretaría de Educación y la Secretaría de Desarrollo Social, se establezcan talleres-mercado de artesanías indígenas, en donde puedan sistematizarse planes y programas de estudio en materia de artesanía indígena, abarcando las áreas de producción, organización, administración y comercialización, buscando la eficacia, competitividad y excelencia de la actividad artesanal.
 
@@ -639,11 +655,13 @@ El Estado implementará en forma permanente programas de formación y capacitaci
 
 Los establecimientos en los que los indígenas compurguen sus penas deberán contar con programas especiales en atención a su condición indígena, que ayuden a su rehabilitación. Los programas deberán respetar sus lenguas y sus costumbres. Los indígenas sentenciados, podrán cumplir sus penas preferentemente en los establecimientos más cercanos a su domicilio, de modo que se propicie su reintegración a la comunidad como mecanismo esencial de readaptación social.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 87.
 
-Desde el inicio de la averiguación previa y durante el proceso, los indígenas tendrán el derecho a ser asistidos por intérpretes y usar su lengua en las declaraciones y testimonios, los que deberán obrar en autos traducidos al español.
+Desde el inicio de la carpeta de investigación y durante el proceso penal, los indígenas tendrán los derechos establecidos en los artículos 45, penúltimo párrafo; 109, fracción XI; 110, 113 fracción XII y 410 párrafo séptimo del Código Nacional de Procedimientos Penales.
 
-Los jueces, agentes del ministerio público e intérpretes que tengan conocimiento del asunto, bajo su responsabilidad, deberán asegurarse del cumplimiento de estas disposiciones.
+Los jueces, agentes del ministerio público, defensores, asesores jurídicos e intérpretes que tengan conocimiento del asunto, bajo su responsabilidad, deberán asegurarse del cumplimiento de estas disposiciones.
 
 ###### ARTÍCULO 88.
 
@@ -655,19 +673,27 @@ Cuando se requiera acreditarse como indígena en juicio o fuera de él, ésta se
 
 ### CAPÍTULO II. DEL ACCESO A LA JURISDICCIÓN DEL ESTADO
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 90.
 
-La jurisdicción del Estado en materia indígena se ejercerá a través de los Juzgados de Primera Instancia con Jurisdicción Mixta para Asuntos Indígenas, los que conocerán de los asuntos que la Ley Orgánica del Poder Judicial del Estado de Durango, le señala a los juzgados de lo civil, de lo familiar, de lo mercantil y de lo penal, siempre que en la controversia sea parte un indígena.
+La jurisdicción del Estado en materia indígena se ejercerá a través de los Juzgados de Primera Instancia con Jurisdicción Mixta para Asuntos Indígenas, los que conocerán de los asuntos que la Ley Orgánica del Poder Judicial del Estado de Durango, le señala a los juzgados de lo civil, de lo familiar y de lo mercantil, siempre que en la controversia sea parte un indígena.
 
 La Ley Orgánica del Poder Judicial del Estado de Durango determinará el número y adscripción territorial de los Juzgados Mixtos de Primera Instancia con Jurisdicción Mixta para Asuntos Indígenas, en aquellos municipios donde estén asentados pueblos y comunidades indígenas reconocidos en esta Ley.
 
+En materia penal, se estará a lo establecido en el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 91.
 
-En los casos en que los indígenas o sus pueblos o comunidades sean parte, se abrirá de oficio la segunda instancia, a efecto de verificar que los derechos individuales y colectivos de aquéllos efectivamente hayan sido reconocidos y respetados.
+En los casos en que los indígenas o sus pueblos o comunidades sean parte, se abrirá de oficio la segunda instancia, a efecto de verificar que los derechos humanos y colectivos de aquéllos efectivamente hayan sido reconocidos y respetados.
+
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 92.
 
-En los procesos en que los indígenas sean parte, los jueces y tribunales suplirán la deficiencia de la queja y verificarán que los derechos individuales y colectivos de aquéllos efectivamente hayan sido reconocidos y respetados.
+En los procesos en que los indígenas sean parte, los jueces y tribunales suplirán la deficiencia de la queja y verificarán que los derechos humanos y colectivos de aquéllos efectivamente hayan sido reconocidos y respetados.
 
 ###### ARTÍCULO 93.
 
@@ -691,7 +717,9 @@ Las autoridades tradicionales del lugar tendrán la custodia del indígena sente
 
 Las autoridades tradicionales de los pueblos y comunidades indígenas, procurarán y administrarán justicia, aplicando sus sistemas normativos internos, siempre y cuando no contravengan la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
-Las autoridades tradicionales tendrán competencia para conocer y resolver controversias en materia civil de los asuntos cuya cuantía no exceda de 182 días de salario mínimo vigente en el Estado y en materia penal, siempre y cuando no se trate de delitos graves consignados en el artículo 17 del Código Penal para el Estado Libre y Soberano de Durango, así como de aquellos que se persiguen de oficio por el referido ordenamiento legal.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+Las autoridades tradicionales tendrán competencia para conocer y resolver controversias en materia civil de los asuntos cuya cuantía no exceda de 182 días de salario mínimo vigente en el Estado y en materia penal, siempre y cuando no se trate de delitos graves consignados en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, así como de aquellos que se persiguen de oficio por la legislación penal aplicable.
 
 ###### ARTÍCULO 97.
 
@@ -746,3 +774,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente.
