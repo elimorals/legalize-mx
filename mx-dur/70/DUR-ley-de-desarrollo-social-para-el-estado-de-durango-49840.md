@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-social-para-el-estado-de-durango-49840"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-17"
-last_updated: "2014-07-06"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de julio de 2005.
 
@@ -201,7 +201,9 @@ La interpretación de esta Ley atenderá a su finalidad, sistematicidad y a los 
 
 Son sujetos del desarrollo social y humano los duranguenses y todas las personas que habiten en el Estado de Durango quienes tienen derecho a participar y beneficiarse de los programas y acciones de la materia, de acuerdo a la normatividad establecida.
 
-En los planes, programas y acciones de desarrollo social se otorgará preferencia a las personas o grupos sociales en situación de vulnerabilidad, marginación, pobreza o cuyas condiciones de vida no se encuentren en los niveles mínimos de bienestar social.
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+En los planes, programas y acciones de desarrollo social se otorgará preferencia a la población indígena, las personas o grupos sociales en situación de vulnerabilidad, marginación, pobreza o cuyas condiciones de vida no se encuentren en los niveles mínimos de bienestar social.
 
 ###### Artículo 11.
 
@@ -235,7 +237,9 @@ Los sectores sociales y la ciudadanía en general deberán participar correspons
 
 La política estatal de desarrollo social del Estado y los Municipios tiene los siguientes objetivos:
 
-I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación y la exclusión social;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, humanos o colectivos garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación y la exclusión social;
 
 II. Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
 
@@ -243,7 +247,9 @@ III. Fortalecer el desarrollo estatal, regional y municipal equilibrado;
 
 IV. Fomentar el desarrollo de la familia como célula básica de la sociedad, especialmente en las localidades con mayores índices de rezago, marginación y pobreza;
 
-V. Promover acciones y programas institucionales de desarrollo social con perspectiva de género y equidad;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+V. Promover acciones y programas institucionales de desarrollo social con perspectiva de género, equidad; e interculturalidad que beneficie a la población indígena.
 
 VI. Fomentar la igualdad de oportunidades económicas y aprovechar la capacidad productiva de los duranguenses y habitantes del Estado, considerando las potencialidades regionales y municipales;
 
@@ -253,9 +259,9 @@ VIII. Impulsar el desarrollo municipal, como estrategia rectora de equilibrio en
 
 IX. Coordinar esfuerzos, objetivos, estrategias y acciones entre los órdenes de gobierno para lograr las (sic) integralidad, sustentabilidad y sostentenibilidad (sic) del desarrollo social y humano;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-X. Promover formas propias de organización y participación de la sociedad en la formulación, ejecución, evaluación y control de los programas de desarrollo social; y
+X. Promover formas propias de organización y participación de la sociedad, particularmente de la población indígena, en la formulación, ejecución, evaluación y control de los programas de desarrollo social; y
 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -351,9 +357,11 @@ V. Tomará en cuenta la mezcla de recursos provenientes de las dependencias y en
 
 ### CAPÍTULO IV. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 20.
 
-Son zonas de atención prioritaria, las áreas o regiones que se encuentren en condiciones de vida por debajo de los niveles mínimos de bienestar, pobreza o marginación.
+Son zonas de atención prioritaria, las áreas o regiones que se encuentren en condiciones de vida por debajo de los niveles mínimos de bienestar, pobreza o marginación. Se considera también como zonas de atención prioritaria, las localidades indígenas contenidas en la Ley que establece el Catálogo de Comunidades y Localidades Indígenas del Estado de Durango.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2013)</small>
 
@@ -521,15 +529,19 @@ IX. Solicitar a la Secretaría información sobre los programas y acciones de de
 
 X. Recomendar la realización de auditorías a programas prioritarios cuando existan causas que lo ameriten;
 
-XI. Promover la celebración de convenios con dependencias o entidades del Ejecutivo Federal, municipios y organizaciones, para la instrumentación de los programas reIacionados con el desarrollo social;
+XI. Promover la celebración de convenios con dependencias o entidades del Ejecutivo Federal, municipios y organizaciones, para la instrumentación de los programas relacionados con el desarrollo social;
 
-XII. Informar a la opinión pública sobre los aspectos de interés general relativos a la política estatal de desarrollo social;
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus atribuciones;
+XII. Organizar las consultas públicas que se realicen en el Estado en materia de desarrollo social y en tratándose de temas relacionados con los pueblos y comunidades indígenas, procederá en los términos que para tal efecto establezca la Ley de Consulta Indígena para el Estado y los Municipios de Durango;
 
-XIV. Expedir su reglamento interior; y
+XIII. Informar a la opinión pública sobre los aspectos de interés general relativos a la política estatal de desarrollo social;
 
-XV. Las demás que sean necesarias para el cumplimiento de sus funciones.
+XIV. Integrar las comisiones y grupos de trabajo que sean necesarios para el ejercicio de sus atribuciones;
+
+XV. Expedir su reglamento interior; y
+
+XVI. Las demás que sean necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 32.
 
@@ -684,3 +696,9 @@ P.O. 6 DE JULIO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
