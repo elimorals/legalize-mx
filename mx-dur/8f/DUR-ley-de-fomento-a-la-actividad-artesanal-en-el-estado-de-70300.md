@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-a-la-actividad-artesanal-en-el-estado-de-70300"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-03"
-last_updated: "2009-09-03"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO A LA ACTIVIDAD ARTESANAL EN EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de septiembre de 2009.
 
@@ -65,9 +65,17 @@ II. Integrar a las dependencias gubernamentales y organizaciones de artesanos, p
 
 III. Impulsar el capital humano competitivo y la cultura emprendedora en los procesos productivos artesanales, a través de la capacitación y asesoría en materia de calidad y diseño;
 
-IV. Diseñar mecanismos de comercialización y esquemas financieros eficientes, para impulsar la venta de los productos elaborados por los artesanos duranguenses; y,
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-V. Preservar los valores de la cultura tradicional, involucrando al sector artesanal en la actividad turística, educativa y cultural; y Propiciar el desarrollo equilibrado de las actividades artesanales en el medio ambiente.
+IV. Diseñar mecanismos de comercialización y esquemas financieros eficientes, para impulsar la venta de productos elaborados por los artesanos duranguenses;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+V. Preservar los valores de la cultura tradicional, involucrando al sector artesanal en la actividad turística, educativa y cultural; y propiciar el desarrollo equilibrado de las actividades artesanales en el medio ambiente; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Impulsar el desarrollo artesanal de las culturas indígenas de la entidad, para preservar sus elementos que fortalezcan su identidad cultural.
 
 ###### Artículo 4.
 
@@ -75,7 +83,9 @@ Para efectos de la presente Ley, se entenderá por:
 
 I. Artesanía: Actividad realizada manualmente, de manera individual, familiar o comunitaria, que tiene por objeto transformar productos o sustancias orgánicas e inorgánicas, en artículos nuevos que no forman parte de una producción en serie, en donde la creatividad personal y la mano de obra constituyen factores predominantes que imprimen las características culturales, folklóricas o utilitarias de una región determinada, mediante la aplicación de técnicas y herramientas de cualquier naturaleza.
 
-II. Artesano: Persona con cuyas habilidades naturales o dominio técnico de un oficio, elabora bienes u objetos de artesanía que reflejan la belleza, tradición y cultura del Estado de Durango, auxiliándose de herramientas e instrumentos de cualquier naturaleza.
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+II. Artesano: Persona con cuyas habilidades naturales o dominio técnico de un oficio, elabora bienes u objetos de artesanía que reflejen la belleza, tradiciones y las distintas culturas del Estado de Durango, auxiliándose de herramientas e instrumentos de cualquier naturaleza;
 
 III. Programa: Programa Duranguense de Fomento a las Artesanías.
 
@@ -137,9 +147,17 @@ XIV. Generar e impulsar cadenas productivas para la explotación de artículos a
 
 XV. Promover la apertura de nuevos mercados nacionales y extranjeros, a fin de dar a conocer la artesanía duranguense y mejorar las condiciones económicas del artesano, auxiliándolo en la comercialización de sus productos;
 
-XVI. Gestionar, ante las autoridades federales y estatales respectivas, la deducción de impuestos a favor de particulares, con motivo de las aportaciones que realicen en beneficio del sector artesanal del Estado; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-XVII. Realizar las demás funciones necesarias para el fomento, mejoramiento y promoción de la actividad artesanal.
+XVI. Gestionar, ante las autoridades federales y estatales respectivas, la deducción de impuestos a favor de particulares, con motivo de las aportaciones que realicen en beneficio del sector artesanal del Estado;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Realizar las demás funciones necesarias para el fomento, mejoramiento y promoción de la actividad artesanal; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Fortalecer la producción artesanal de las comunidades indígenas.
 
 ### CAPÍTULO III. DE LA PRESERVACIÓN, REGISTRO Y CENSO DEL SECTOR ARTESANAL
 
@@ -193,9 +211,11 @@ El Registro será un instrumento auxiliar del Instituto, para la integración y 
 
 El Gobierno del Estado, a través del Instituto, será el encargado de levantar un censo artesanal por lo menos una vez al año, cuya finalidad será evaluar y analizar el crecimiento del sector artesanal, para determinar programas de capacitación que mejoren la calidad de los productos artesanales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-El censo será público y se dividirá por actividad artesanal, por artesano, talleres, agrupaciones o empresas artesanales. Deberá llevarse a cabo en todo el Estado, los resultados serán publicados en la página web del Instituto y bianualmente en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+El censo será público y se dividirá por actividad artesanal, por artesano, talleres, agrupaciones o empresas artesanales. Deberá llevarse a cabo en todo el Estado, los resultados serán publicados en la página web del Instituto y bianualmente en el Periódico Oficial del Gobierno del Estado de Durango y deberá indicar si la artesanía que se produce forma parte de una tradición indígena de la entidad.
 
 ### CAPÍTULO IV. DE LA PLANEACIÓN Y CAPACITACIÓN EN LA ACTIVIDAD ARTESANAL
 
@@ -227,6 +247,14 @@ El Instituto, a través del Programa, en coordinación con las dependencias y ay
 
 El Instituto a través del Programa, dependencias, instituciones, organismos públicos y privados, de conformidad con la legislación aplicable, establecerá centros de capacitación que se dediquen a promover el conocimiento de nuevas técnicas, diseños y procesos de producción, para mejorar la actividad artesanal en el Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 23 Bis.
+
+Los artesanos que se reconozcan como indígenas, deberán recibir una capacitación adicional, de acuerdo a las posibilidades del Instituto, que les permita recuperar las técnicas y materiales, usados de manera ancestral, a fin de fortalecer la identidad y la preservación de las culturas indígenas de la entidad.
+
+Las artesanías producidas por artesanos indígenas que hayan recuperado sus técnicas primigenias y el uso de materiales tradicionales, podrán recibir, a solicitud de ellos, la certificación del Instituto, de tratarse de una pieza artesanal tradicional.
+
 ### CAPÍTULO V. DE LA COMERCIALIZACIÓN
 
 #### Sección Única. De las acciones
@@ -235,9 +263,11 @@ El Instituto a través del Programa, dependencias, instituciones, organismos pú
 
 El Programa establecerá convenios con las dependencias correspondientes, en busca de exenciones fiscales y tarifas preferenciales en materias primas, para el desarrollo de la actividad artesanal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-El Instituto, con apoyo de las dependencias y entidades competentes de los diferentes niveles de gobierno y organizaciones de artesanos o artesanos particulares, realizará las siguientes acciones en materia de comercialización:
+El Instituto, con apoyo de las dependencias y entidades competentes de los diferentes niveles de gobierno y organizaciones de artesanos o artesanos particulares realizará, las siguientes acciones en materia de comercialización:
 
 I. Buscará la certificación de productos artesanales que permitan identificar su origen y calidad;
 
@@ -247,9 +277,17 @@ III. Diseñar y emitirá material publicitario sobre la actividad artesanal, en 
 
 IV. Organizará y promoverá concursos en exposiciones y ferias, sobre productos artesanales, otorgando estímulos y reconocimientos a los participantes;
 
-V. Promover la expansión y diversificación del mercado interno y de exportación, de la artesanía duranguense; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Desarrollará centros de artesanías en áreas de interés turístico, dedicados a impulsar la comercialización y distribución en el ámbito local, estatal, nacional e internacional.
+V. Promover la expansión y diversificación del mercado interno y de exportación de la artesanía duranguense;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Desarrollar centros de artesanía en áreas de interés turístico, dedicados a impulsar la comercialización y distribución en el ámbito local, estatal, nacional e internacional; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Establecer en la marca Durango, la caracterización de la artesanía indígena y tradicional.
 
 ###### Artículo 26.
 
@@ -348,3 +386,11 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
