@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-indulto-para-el-estado-de-durango-103859"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-16"
-last_updated: "2014-11-16"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE INDULTO PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de noviembre de 2014.
 
@@ -85,9 +85,17 @@ El indulto lo concederá el Titular del Poder Ejecutivo del Estado de oficio o a
 
 El Ejecutivo estudiará la solicitud, así como la documentación anexa, que deberá consistir en copia certificada de la sentencia, del auto que la declara ejecutoriada, del oficio en virtud del cual el Poder Judicial pone a disposición del Poder Ejecutivo al sentenciado solicitante, el certificado de antecedentes penales que haga constar que no existe registro de antecedentes y el Certificado del Centro de Readaptación Social que corresponda, sobre la conducta del interno, incluyendo su tiempo recluido y su tiempo trabajado en favor de la comunidad.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+En caso de que el sentenciado pertenezca a una comunidad indígena, se requerirá la constancia emitida por la autoridad tradicional de la comunidad de donde pertenezca.
+
 ###### ARTÍCULO 7.
 
 En todos los casos, para conceder el indulto el Titular del Ejecutivo deberá tomar en cuenta las circunstancias personales de las víctimas u ofendidos, las particularidades del sentenciado, su peligrosidad y situación socio-económica, la gravedad del delito; también se tomarán en cuenta la individualización de la persona según la sentencia dictada por el órgano jurisdiccional y el impacto del hecho ilícito en la comunidad donde fue realizado.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+Asimismo, cuando el sentenciado pertenezca a una comunidad indígena, se tomarán en cuenta sus tradiciones, cultura y demás circunstancias inherentes a su etnia.
 
 ###### ARTÍCULO 8.
 
@@ -134,3 +142,11 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
