@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-prevencion-y-eliminacion-de-la-72123"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2014-02-16"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "DUR"
 
 LEY ESTATAL DE PREVENCIÓN Y ELIMINACIÓN DE LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
-EL CIUDADANO CONTADOR PUBLlCO ISMAEL ALFREDO HERNANDEZ DERAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D:
+EL CIUDADANO CONTADOR PUBLICO ISMAEL ALFREDO HERNANDEZ DERAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D:
 
 QUE LA H. LEGIS (SIC)
 
@@ -135,11 +135,13 @@ VII. Las distinciones, exclusiones, restricciones o preferencias que se hagan en
 
 VIII. En general, todas las que no tengan el propósito ni produzcan el efecto de anular o menoscabar los derechos, y libertades o la igualdad de oportunidades de las personas ni de atentar contra la dignidad humana, ni la negación, distinción, menoscabo, impedimento o restricción de los derechos fundamentales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 15.
 
-La interpretación de esta ley, será con base al respeto, la protección, la universalidad, la indivisibilidad, la permanencia, la interdependencia, la progresividad y la expansión de los derechos de las personas.
+La interpretación de esta ley, será con base al respeto, la protección, la universalidad, la individualidad, la permanencia, la interdependencia, la progresividad y la expansión de los derechos de las personas.
 
-La actuación de toda autoridad o funcionario público, de cualquier nivel de gobierno estatal o municipal, así como las entidades de los poderes públicos fundamentarán y motivarán sus actos con sujeción al respeto al derecho fundamental de la no discriminación, será congruente con los instrumentos nacionales e internacionales aplicables en materia de discriminación de los que México sea parte y se apoyarán en los criterios jurisprudenciales que interprete la Constitución Política de los Estados Unidos Mexicanos en materia de derechos humanos y fundamentales, así como en la Declaración Universal de los Derechos Humanos; el Pacto Internacional de Derechos Civiles y Políticos; el Pacto Internacional de Derechos Económicos, Sociales y Culturales; la Convención Americana de Derechos Humanos; la Convención sobre los Derechos del Niño: la Convención para la Eliminación de todas las formas de Discriminación contra la Mujer; la Convención sobre los Derechos de las Personas con Discapacidad, así como con las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales, entre otros, las opiniones y observaciones generales de los Comités de Naciones Unidas, en relación al derecho a la no discriminación o los derechos humanos, la jurisprudencia consultiva o contenciosa de la Corte Interamericana de Derechos Humanos.
+La actuación de toda autoridad o funcionario público, de cualquier nivel de gobierno estatal o municipal, así como las entidades de los poderes públicos fundamentaran y motivarán sus actos con sujeción al respeto al derecho fundamental de la no discriminación, será congruente con los instrumentos nacionales e internacionales aplicables en materia de discriminación de los que México sea parte y se apoyarán en los criterios jurisprudenciales que interprete la Constitución Política de los Estados Unidos Mexicanos en materia de derechos humanos y fundamentales, así como en la Declaración Universal de los Derechos Humanos; el Pacto Internacional de Derechos Civiles y Políticos; el Pacto Internacional de Derechos Económicos, Sociales y Culturales; la Convención Americana de Derechos Humanos; la Convención sobre los Derechos del Niño: la Convención para la Eliminación de todas las formas de Discriminación contra la Mujer; la Convención sobre los Derechos de las Personas con Discapacidad, el Convenio 169 de la OIT sobre los Pueblos Indígenas y Tribales en Países Independientes, así como las recomendaciones y resoluciones adoptadas por los organismos multilaterales y regionales, entre otros, las opiniones y observaciones generales de los Comités de Naciones Unidas, en relación al derecho a la no discriminación o a los derechos humanos, la jurisprudencia consultiva o contenciosa de la Corte Interamericana de Derechos Humanos.
 
 ###### Artículo 16.
 
@@ -335,7 +337,9 @@ XII. Promover campañas de información en los medios de comunicación y otros, 
 
 Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, llevaran a cabo, entre otras, las siguientes medidas positivas y compensatorias a favor de la igualdad de oportunidades para la población étnica:
 
-I. Establecer programas educativos bilingües que promuevan el intercambio cultural;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+I. Establecer programas educativos bilingües que promuevan el intercambio cultural, así como avanzar en (sic) establecimiento del diseño y distribución de comunicaciones públicas en lenguas indígenas;
 
 II. Crear un sistema de becas que fomente la alfabetización, la conclusión de la educación en todos los niveles y la capacitación para el empleo;
 
@@ -359,6 +363,18 @@ X. Llevar acabo (sic) campañas permanentes de información en los medios de com
 
 Los órganos públicos y las autoridades estatales y municipales adoptarán las medidas tendientes a favorecer la igualdad real de oportunidades y a prevenir y eliminar las formas de discriminación de las personas a que se refiere esta Ley.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 27 Bis.
+
+Los órganos públicos y las autoridades estatales y municipales, en el ámbito de su competencia, adoptarán medidas de nivelación, medidas de inclusión y acciones afirmativas.
+
+Las medidas de nivelación son aquellas que buscan hacer efectivo el acceso de todas las personas a la igualdad real de oportunidades eliminando las barreras físicas, comunicacionales, normativas o de otro tipo, que obstaculizan el ejercicio de derechos y libertades prioritariamente a las mujeres y a los grupos en situación de discriminación o vulnerabilidad.
+
+Las medidas de inclusión son aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato.
+
+Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad. Estas medidas no serán consideradas discriminatorias.
+
 ### CAPÍTULO IV. DEL PROCEDIMIENTO
 
 ###### Artículo 28.
@@ -369,9 +385,11 @@ La persona o grupo de personas afectadas con motivo de un acto discriminatorio r
 
 En caso que los actos u omisiones de discriminación los realicen servidores públicos, el afectado podrá optar por acudir ante la Comisión Estatal de Derechos Humanos, para presentar la queja o demanda, según corresponda.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 30.
 
-El afectado por las conductas, actos u omisiones de discriminación que constituyan una conducta tipificada como delito, podrá optar por acudir al Centro de Justicia Restaurativa de la Procuraduría General de Justicia en el Estado o presentar una denuncia ante el Agente del Ministerio Público competente a fin de que se castigue al infractor.
+El afectado por las conductas, actos u omisiones de discriminación que constituyan una conducta tipificada como delito, podrá optar por acudir a la Dirección de Justicia Penal Restaurativa de la Fiscalía General del Estado o presentar una denuncia ante el Agente del Ministerio Publico competente.
 
 ###### Artículo 31.
 
@@ -381,17 +399,21 @@ La acción de pago por concepto de indemnización proveniente de daño moral, po
 
 Si el afectado opta por acudir ante el juez del orden civil, deberá iniciar el procedimiento establecido en el Código de Procedimientos Civiles para el Estado de Durango.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 33.
 
-En caso que el afectado decida acudir ante los organismos denominados Centro de Justicia Alternativa, del Tribunal Superior de Justicia del Estado; Centro de Justicia Restaurativa, de la Procuraduría de Justicia del Estado, o la Comisión Estatal de Derechos Humanos, deberá hacerlo de acuerdo a los procedimientos establecidos en los ordenamientos respectivos.
+En caso de que el afectado decida acudir ante los organismos denominados Centro de Justicia Alternativa, del Tribunal Superior de Justicia del Estado; Dirección de Justicia Penal Restaurativa de la Fiscalía General del Estado, o la Comisión Estatal de Derechos Humanos, deberá hacerlo de acuerdo a los procedimientos establecidos en los ordenamientos respectivos.
 
 ###### Artículo 34.
 
 En caso de que cualquiera de los organismos públicos nieguen la admisión o dar seguimiento a los escritos iniciales de demanda, denuncia, o queja, según corresponda, deberán fundar y motivar legalmente su decisión, misma que podrá ser recurrida mediante los recursos que se establezcan en cada ordenamiento jurídico aplicable.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-La Comisión Estatal de Derechos Humanos podrá conocer de las quejas que se presenten contra los actos u omisiones de servidores públicos que lesionen el derecho de igualdad de las personas, en cualquiera de los términos establecidos en el presente ordenamiento, para lo cual será aplicable la Ley Orgánica de dicha Comisión.
+La Comisión Estatal de Derechos Humanos podrá conocer de las quejas que se presenten contra los actos u omisiones de servidores públicos que lesionen el derecho de igualdad de las personas, en cualquiera de los términos establecidos en el presente ordenamiento, para lo cual será aplicable la Ley de dicha Comisión.
 
 ###### Artículo 36.
 
@@ -401,9 +423,11 @@ El organismo jurisdiccional, de Justicia Alternativa o Restaurativa o la Comisi�
 
 El Sistema para el Desarrollo Integral de la Familia en el Estado, podrá actuar de oficio, al advertir la existencia de actos u omisiones discriminatorios cometidos en perjuicio de una persona o grupo de personas, en detrimento del derecho de igualdad, preservado mediante esta Ley.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 38.
 
-Si el personal de los Centros de Justicia Alternativa del Tribunal Superior de Justicia, o de Justicia Restaurativa de la Procuraduría de Justicia del Estado, ante quien haya acudido el afectado, al advertir error en los planteamientos o en los fundamentos aplicados en el escrito inicial de que se trate, de manera oficiosa, deberán corregirlos para la continuación del procedimiento; en todo caso, brindará a la parte interesada la orientación necesaria para que acuda ante la instancia a quien compete su conocimiento.
+Si el personal de los Centros de Justicia Alternativa del Tribunal Superior de Justicia, o de la Dirección de Justicia Penal Restaurativa de la Fiscalía General del Estado, ante quien haya acudido el afectado, al advertir error en los planteamientos o en los fundamentos aplicados en el escrito inicial de que se trate, de manera oficiosa, deberán corregirlos para la continuación del procedimiento; en todo caso, brindara a la parte interesada la orientación necesaria para que acuda ante la instancia a quien compete su conocimiento.
 
 ###### Artículo 39.
 
@@ -427,7 +451,7 @@ Todas las personas, autoridades estatales y municipales, dependencias y entidade
 
 ###### Artículo 44.
 
-En los casos graves, a solicitud del afectado, desde el acuerdo de radicación o en cualquier momento, podrán emitirse las providencias precautorias o cautelares necesarias para evitar consecuencias de difícil e imposible reparación, en los términos que se establecen en el Código de Procedimientos Civiles para el Estado de Durango, o en el Código de Procedimientos Penales para el Estado Libre y Soberano de Durango, según corresponda.
+(DEROGADO, P.O. 6 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 45.
 
@@ -447,9 +471,11 @@ Cualquier persona, minoría, grupo colectivo, organizaciones de la sociedad civi
 
 Las reclamaciones y quejas que se presenten por presuntas conductas discriminatorias, sólo podrán hacerse valer dentro del plazo de un año, contado a partir de que se tuvo conocimiento de los actos realizados en violación del derecho de igualdad. En casos excepcionales y tratándose de actos graves o del lugar en que se hayan realizado dichos actos, se podrá ampliar el plazo mediante resolución motivada y fundada. Este artículo prevalecerá sobre los demás ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 49.
 
-En todo lo no previsto en esta Ley respecto a los procedimientos que la misma establece, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Durango, la ley aplicable al Centro de Justicia Alternativa o al Centro de Justicia Penal Restaurativa.
+En todo lo no previsto en esta Ley respecto a los procedimientos que la misma establece, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Durango, en la Ley de Justicia Alternativa del Estado de Durango o en la Ley de Justicia Penal Restaurativa del Estado de Durango.
 
 ###### Artículo 50.
 
@@ -481,7 +507,7 @@ I. La impartición de cursos o seminarios que promuevan la igualdad de oportunid
 
 II. La fijación de carteles en cualquier establecimiento, de quienes incumplan alguna disposición de esta Ley, en los que se promueva la modificación de conductas discriminatorias;
 
-Ill. La presencia del personal, de promover y verificar la adopción de medidas a favor de la igualdad de oportunidades; y la eliminación de toda forma de discriminación en cualquier establecimiento, de quienes sean objeto de una resolución, por el tiempo que disponga el organismo;
+III. La presencia del personal, de promover y verificar la adopción de medidas a favor de la igualdad de oportunidades; y la eliminación de toda forma de discriminación en cualquier establecimiento, de quienes sean objeto de una resolución, por el tiempo que disponga el organismo;
 
 IV. La publicación íntegra de la resolución emitida en el órgano de difusión; y
 
@@ -556,3 +582,13 @@ P.O. 16 DE FEBRERO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
