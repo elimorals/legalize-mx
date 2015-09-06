@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asistencia-social-10352"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-15"
-last_updated: "2014-05-22"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de septiembre de 1996.
 
@@ -275,13 +275,13 @@ VI.- Víctimas en estado de abandono;
 
 VII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
 
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+VIII.- Indígenas en situación de maltrato, explotación en cualquiera de sus modalidades, marginación, exclusión o pobreza alimentaria; o asentados en localidades con características socioeconómicas deficientes en forma permanente.
+
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
 
-VIII.- Indígenas en situación de maltrato, explotación en cualquiera de sus modalidades, marginación, exclusión o pobreza alimentaria;
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
-
-IX.- Enfermos terminales o adictas (sic);
+IX.- Enfermos terminales o adictas;
 
 > <small>(ADICIONADA, P.O. 22 DE MAYO DE 2014)</small>
 
@@ -332,6 +332,12 @@ Los órganos que se establezcan para la operación y ejecución de estas activid
 ###### Art. 18.
 
 El DIF Estatal, sin menoscabo de las atribuciones de otras dependencias, llevará asistencia social a los indígenas, buscando mejorar su dieta alimenticia y nutricional.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+Art. 18 bis
+
+El DIF Estatal se coordinará con el Estado, para impulsar y gestionar programas especialmente diseñados para el mejoramiento de vivienda, salud y educación que contribuyan a elevar la calidad de vida de la población indígena, con respeto a sus tradiciones y costumbres.
 
 ###### Art. 19.
 
@@ -798,3 +804,9 @@ El presente decreto entrará en vigor tres días después de su publicación en 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
