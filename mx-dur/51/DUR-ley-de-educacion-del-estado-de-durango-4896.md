@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2014-04-22"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -389,19 +389,19 @@ XI.- La infraestructura educativa.
 
 #### Sección 2. De los tipos y modalidades de educación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 17.
 
-El Sistema Educativo estatal comprende los tipos de educación básica, media superior y superior con sus respectivos niveles y grados, y en sus diversas adaptaciones y modalidades.
+El Sistema Educativo Estatal comprende los tipos de educación básica, media superior y superior con sus respectivos niveles y grados, y en sus diversas adaptaciones y modalidades.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-Comprende además, la educación inicial, la educación especial, la educación indígena, la educación para adultos, la educación física, la formación profesional y la capacitación para el trabajo, y la de cualquier otra forma, adaptación o modalidad que se imparta.
+Comprende además, la educación inicial, la educación especial, la educación indígena e intercultural, la educación para adultos, la educación física, la formación profesional y la capacitación para el trabajo, y la de cualquier otra forma, adaptación o modalidad que se imparta.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-I.- La Educación Básica está compuesta por los niveles de Preescolar, Primaria y Secundaria. La Educación Preescolar constituye antecedente obligatorio de la Primaria;
+I.- La Educación Básica está compuesta por los niveles de Preescolar, Primaria y Secundaria. La Educación Preescolar constituye antecedente obligatorio de la Primaria; la educación primaria y la secundaria responderán adecuadamente a las diferentes características lingüísticas de la población rural, urbana y grupos migrantes, así como de las culturas indígenas de la Entidad, debiendo ser, en el caso de las culturas indígenas, bilingüe a efecto de alentar la interculturalidad.
 
 II.- La Educación Media Superior comprende el Bachillerato y sus equivalentes; así como los estudios terminales de Técnico Profesional de Nivel Medio; y
 
@@ -589,6 +589,10 @@ XLIII.- Promover la transparencia en las escuelas públicas y particulares en la
 
 XLlV.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo.
 
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XLV.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
 La Secretaría de Salud, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Durango, realizará la vigilancia de las condiciones de higiene, del manejo y procesamiento de alimentos en los centros de distribución de alimentos ubicados en los centros de educación básica del Sistema Estatal de Educación y en los planteles incorporados al mismo.
@@ -673,7 +677,7 @@ V.- Proporcionar, en la medida de lo posible, a los docentes interesados, oportu
 
 VI.- Fomentar en los educadores, cualidades, aptitudes y capacidades que les permitan tener una comprensión crítica de los problemas locales, nacionales e internacionales; y
 
-VII.- Fomentar en los educadores, una educación cívica activa que comprenda no solo una visión local y nacional, sino una dimensión internacional de la sociedad; y (sic)
+VII.- Fomentar en los educadores, una educación cívica activa que comprenda no solo una visión local y nacional, sino una dimensión internacional de la sociedad; y
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1263,11 +1267,21 @@ La normatividad correspondiente establecerá el procedimiento y los requisitos p
 
 #### Sección 6. De la Educación Indígena
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 100.
 
-Es responsabilidad del Gobierno del Estado y los municipios, la prestación de los servicios de educación básica y media superior, en su adaptación denominada educación indígena, bilingüe y bicultural.
+Es responsabilidad del Gobierno del Estado y los municipios, la prestación de los servicios de educación básica y media superior indígena, la que deberá promover la enseñanza del español, así como proteger y promover el desarrollo de las lenguas indígenas, a través de un modelo de educación bilingüe que propicie la interculturalidad, para lo que los hablantes de lenguas indígenas tendrán acceso a la educación obligatoria en su propia lengua, y el español.
+
+Conforman la educación indígena: la educación inicial, educación preescolar, educación primaria y secundaria bilingües. En la medida de las posibilidades presupuestarias comprenderá asimismo, la educación media superior y superior bilingüe a efecto de materializar la interculturalidad. Igualmente, incluye los servicios de apoyo asistencial y de extensión educativa.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 100 bis. La educación que se imparta en poblaciones en donde se encuentren asentadas comunidades indígenas de las diferentes etnias del Estado, deberá ser bilingüe.
+
+Se entiende por educación bilingüe la educación que se imparte a los educandos, tanto en la lengua de la comunidad indígena de que se trate, como en idioma español, propiciando que, tanto los estudiantes indígenas, como los que no lo son pero concurren a la misma escuela, se interrelacionen mediante el estudio, comprensión y uso de ambas lenguas.
+
+La interculturalidad propicia la convivencia armónica entre la cultura indígena específica de una región y la cultura nacional, mediante el conocimiento, la exaltación y análisis de los elementos históricos y los valores de cada una de ellas, sin excluirse la una de otra, favoreciendo la horizontalidad, la equidad y la sinergia, mediante el enriquecimiento educativo con la interacción de elementos del multiculturalismo y el desarrollo y estudio sistemático de ambas culturas de manera complementaria.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -1277,15 +1291,31 @@ La educación indígena deberá contemplar en los planes y programas de estudio,
 
 Asimismo el Gobierno del Estado en coordinación con el Gobierno Federal, podrá establecer instituciones federalizadas de educación media superior y superior en la región indígena que permitan el acceso de los educandos indígenas a estos tipos educativos con el objeto de promover su preparación para una mayor integración y participación social
 
+> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 102.
 
-La Educación Indígena se apoyará con servicios asistenciales y de extensión educativa que faciliten la continuidad y permanencia del aprendizaje y aprovechamiento de los alumnos.
+La Educación Indígena se apoyará con servicios asistenciales y de extensión educativa que faciliten la continuidad y permanencia del aprendizaje y aprovechamiento de los alumnos. La autoridad educativa local, en coordinación con los demás programas federales, estatales y municipales, promoverá la implementación de un sistema de becas para estudiantes indígenas en todos los niveles educativos, cuidando siempre que los recursos lleguen a un mayor número de beneficiarios.
 
-Para lograr más eficiencia en la prestación de estos servicios educativos, se procurará la profesionalización del personal docente de Educación Básica, el que deberá ser bilingüe.
+Para lograr más eficiencia en la prestación de estos servicios educativos, se procurará la profesionalización del personal docente de Educación Básica, el que deberá ser bilingüe. Para ello deberán participar profesores capacitados en educación bilingüe y aquella que favorezca la interculturalidad, que hablen la lengua originaria, procurando que estos radiquen dentro de la propia comunidad y a fin de propiciar además, el cabal cumplimiento del calendario y horas de labor escolar aprobados por la autoridad educativa local.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
+En la elaboración de los planes y programas de estudio relativos a la educación indígena, se consultara a las comunidades indígenas a través de sus autoridades tradicionales, con el fin de incorporar sus propuestas; para tal efecto, las autoridades educativas podrán auxiliarse con el Catálogo de Comunidades Indígenas del Estado.
 
-La Secretaría, en coordinación con la delegación estatal de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, desarrollará proyectos de investigación de las culturas de los grupos indígenas que habitan en el Estado.
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 102 Bis.
+
+La Secretaría, en coordinación con la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, con Instituciones de Educación Superior y organismos de la sociedad civil, desarrollará proyectos de investigación de las culturas de los grupos indígenas que habitan en el Estado.
+
+Las autoridades educativas desarrollaran programas para el rescate, conocimiento y difusión de las tradiciones culturales de la Entidad; con la participación de las comunidades indígenas de manera especial, las de las culturas indígenas del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 102 Ter.
+
+La autoridad educativa alentará la pluriculturalidad, mediante el establecimiento de la Academia de las Lenguas y de Estudios Históricos de las Culturas Indígenas del Estado de Durango, integrando a la misma, a miembros originarios de las comunidades indígenas de las diferentes etnias, los integrantes de la misma tendrán carácter de honorarios.
+
+Además de ello fomentara la elaboración y difusión de libros y materiales didácticos escritos en las lenguas indígenas del estado o bilingües.
 
 #### Sección 7. De la Educación Especial
 
@@ -1833,7 +1863,7 @@ II.- Cumplir con los Planes y Programas de Estudio, que haya determinado la auto
 
 III.- Proporcionar un porcentaje mínimo del 5% de becas, en relación a la matrícula estudiantil, en los términos del Reglamento correspondiente;
 
-IV.- Cumplir los requisitos previstos en el artículo anterior; y (sic)
+IV.- Cumplir los requisitos previstos en el artículo anterior; y
 
 V.- Colaborar con toda diligencia en las actividades de información, evaluación y supervisión que las autoridades educativas competentes realicen u ordenen, en sus centros educativos;
 
@@ -2065,7 +2095,7 @@ III.- Participar en la aplicación de cooperaciones en numerario, bienes y servi
 
 IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores; e
 
-V.- Informar a las autoridades educativas y escolares, sobre cualquier irregularidad de que sean objeto los educandos; (sic)
+V.- Informar a las autoridades educativas y escolares, sobre cualquier irregularidad de que sean objeto los educandos;
 
 ###### ARTICULO 173.
 
@@ -2422,3 +2452,13 @@ P.O. 22 DE ABRIL DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
