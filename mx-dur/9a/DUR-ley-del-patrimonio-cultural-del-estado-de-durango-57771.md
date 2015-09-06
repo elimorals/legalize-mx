@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-patrimonio-cultural-del-estado-de-durango-57771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-11"
-last_updated: "2014-11-16"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 11 de noviembre de 2007.
 
@@ -35,7 +35,7 @@ Con fecha 17 de febrero del año 2004, el C. Diputado Jorge Herrera Delgado, int
 
 CONSIDERANDOS:
 
-.
+...
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -109,7 +109,7 @@ j) Pueblos y territorios indígenas: Territorios indígenas. Las regiones, puebl
 
 X. Zonas Urbanas: El conjunto de edificaciones y articulaciones que distinguen a una ciudad;
 
-XI Centro Urbano: El núcleo de población con espacio limitado que en ocasiones se ubica en el centro histórico y en el que se desarrollan de manera significativa las actividades administrativas de una ciudad;
+XI. Centro Urbano: El núcleo de población con espacio limitado que en ocasiones se ubica en el centro histórico y en el que se desarrollan de manera significativa las actividades administrativas de una ciudad;
 
 XII. Muebles: Los objetos de carácter natural, paleontológico, arqueológico, histórico, etnológico, artístico o de tecnología tradicional y otros asociados con un entorno, lugar específico y tiempo determinados;
 
@@ -161,7 +161,7 @@ XXIX. Estudio de Impactos Culturales: La evaluación realizada mediante metodolo
 
 XXX. Expediente Técnico: La antología documental integrada por diagnósticos, estudios técnicos y sus anexos;
 
-XXXI. Dictamen Técnico: El conjunto de normas, especificaciones técnicas y jurídicas y recomendaciones sobre la .conservación, rescate o restauración de un bien cultural;
+XXXI. Dictamen Técnico: El conjunto de normas, especificaciones técnicas y jurídicas y recomendaciones sobre la conservación, rescate o restauración de un bien cultural;
 
 XXXII. Diagnóstico: Descripción de un bien cultural desde el punto de vista social, cultural técnico y jurídico, que determina el estado actual del mismo.
 
@@ -171,9 +171,17 @@ XXXIV. Comisiones: Comisiones Municipales del Patrimonio Cultural;
 
 XXXV. Pueblos Indígenas: Aquellas comunidades que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas;
 
-XXXVI. Etnia: Comunidad que busca conservar su lengua, sistemas normativos, culturales, sociales, políticos y/o económicos o parte de ellos dentro del marco jurídico del Estado y la Nación; y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-XXXVII. Cronista Municipal: Es toda aquella persona o personas que son designadas por los ayuntamientos a fin de que registren la memoria histórica que genera la identidad de un pueblo y que realiza el registro puntual de la crónica y acontecer del municipio.
+XXXVI. Etnia: Comunidad que busca conservar su lengua, sistemas normativos, culturales, sociales, políticos y/o económicos o parte de ellos dentro del marco jurídico del Estado y la Nación;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVII. Cronista Municipal: Es toda aquella persona o personas que son designadas por los ayuntamientos a fin de que registren la memoria histórica que genera la identidad de un pueblo y que realiza el registro puntual de la crónica y acontecer del municipio; y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVIII. Bienes etnológicos: Es el conjunto de conocimientos trasmitidos generacionalmente, por los grupos indígenas que se asientan o transiten en el Estado, tales como organización política o social, medicina tradicional, lenguaje, festividades, cosmovisión o religiosidad.
 
 ###### ARTÍCULO 5.
 
@@ -575,6 +583,22 @@ II.- Desarrollar las condiciones para impulsar, posibilitar, promocionar, difund
 
 El patrimonio cultural intangible será documentado y protegido, mediante programas específicos de investigación, conservación, protección, fomento, capacitación, formación y difusión.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+Y está integrado por:
+
+l. Ceremonias, fiestas, tradiciones y costumbres de carácter público;
+
+II. Tradición oral;
+
+III. Tradiciones gastronómicas;
+
+IV. Técnica artesanal;
+
+V. Música y danza tradicional, y
+
+VI. Bienes etnológicos.
+
 ###### ARTÍCULO 32.
 
 Se apoyarán las labores de los organismos de la sociedad civil así como de las instituciones y personas que trabajen en las especialidades a que se refiere el artículo anterior.
@@ -594,6 +618,10 @@ Los municipios deberán designar al Cronista Municipal, para que sea coadyuvante
 ###### ARTÍCULO 35.
 
 La protección del patrimonio cultural intangible deberá contemplar acciones globales de conservación, tanto de los lugares físicos y objetos materiales en los cuales se manifiesta, como de los conocimientos en sí mismos. Esta acción global, incluirá la protección del medio ambiente natural, en el cual se desarrolla, así como de las actividades económicas tradicionales involucradas, con la participación de las comunidades directamente relacionadas.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 35 BIS. El Estado protegerá la libre expresión, manifestación cultural indígena, los sitios sagrados y el respeto a sus formas de gobierno tradicional; e instrumentará los programas y estrategias necesarias para apoyar la investigación, promoción, permanencia y difusión del patrimonio indígena del Estado.
 
 ###### ARTÍCULO 36.
 
@@ -1311,7 +1339,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. OLIVERIO REZA CUELLAR
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 16 DE MAYO DE 2010.
 
@@ -1324,6 +1352,16 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan todas las disposiciones legales que contravengan lo previsto en el presente decreto.
 
 P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
 
 ###### ARTÍCULO PRIMERO.
 
