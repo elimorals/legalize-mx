@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2014-11-16"
+last_updated: "2015-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -325,13 +325,21 @@ VII. Coadyuvar a la modificación de los patrones culturales que determinen háb
 
 VIII. Proporcionar orientación a la población respecto de la importancia de la alimentación correcta, y de cómo llevar una dieta equilibrada y la adecuada combinación de alimentos y su relación con la salud;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Impulsar campañas de difusión acerca del contenido nutricional de los diferentes alimentos; y
+IX. Impulsar campañas de difusión acerca del contenido nutricional de los diferentes alimentos;
 
-> <small>(ADICIONADA, P.O. 3 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
 
-X. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación.
+X. Diseñar y ejecutar políticas públicas que propicien adecuadas pautas de conducta alimentaria, garanticen un combate eficiente al sobrepeso, obesidad, desnutrición y trastornos de la conducta alimentaria y cuyos avances y resultados sean objeto de evaluación;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Impulsar en los pueblos y comunidades indígenas los servicios de salud, a fin de que puedan gozar del máximo nivel posible de salud física y mental, fomentando la nutrición de la población indígena Infantil; así como procurar que el personal de las instituciones de salud pública que prestan servicio en los pueblos y comunidades indígenas, cuenten con los conocimientos básicos sobre la lengua, cultura y costumbres de los mismos, a fin de que las respeten, asegurando el derecho de integrantes de los pueblos y comunidades indígenas a recibir la información necesaria en materia de salud en su propia lengua.
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Promover y apoyar el desarrollo y libre ejercicio de la medicina tradicional así como el uso de plantas para fines rituales y curativos, a fin de que se conserven y desarrollen en condiciones adecuadas como parte de la cultura y patrimonio de los pueblos y comunidades indígenas, impulsando su estudio y rescate, así como difundir el derecho de los mismos a participar en la planificación y ejecución de los programas de salud, debiendo tomar en cuenta sus necesidades prioritarias.
 
 ###### ARTÍCULO 10.
 
@@ -3482,6 +3490,16 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 16 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2015.
 
 ###### ARTÍCULO PRIMERO.
 
