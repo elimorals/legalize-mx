@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2015-07-21"
+last_updated: "2015-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,13 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2015, LAS REFERENCIAS QUE SE HAGAN EN CUALQUIER DISPOSICIÓN A LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN COMO SUPERIOR JERÁRQUICO DE LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL SE ENTENDERÁN HECHAS A LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS.</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES.
 
@@ -349,7 +351,9 @@ Las oficinas de correspondencia común, auxiliarán a las oficialías de partes 
 
 Con el fin de facilitar la recepción de los asuntos de término señalados en dicho precepto, en las localidades donde coincidan, por un lado, órganos jurisdiccionales únicos que operen con sus oficialías de partes y, por otro, oficinas de correspondencia común, éstas las apoyarán en la recepción de asuntos de término no urgentes fuera de su horario de labores y hasta las veinticuatro horas.
 
-La Comisión de Creación de Nuevos Órganos, a propuesta de la Dirección General de Estadística Judicial, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
+(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015).
+
+La Comisión de Creación de Nuevos Órganos, a propuesta que haga la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, determinará cuál de estas últimas será la encargada de brindar el auxilio correspondiente.
 
 El apoyo se limitará a la recepción del documento y su entrega al órgano jurisdiccional de inmediato o bien, a primera hora del día hábil siguiente a través del personal asignado, quien debe acudir a la oficina de correspondencia común respectiva para recibir las promociones. El control de estos documentos se realizará en un registro de promociones distinto del que corresponda al de turno de asuntos.
 
@@ -373,7 +377,9 @@ El horario de las oficinas de correspondencia común será de las ocho horas con
 
 Las oficinas de correspondencia común no laborarán durante los días de descanso o aquéllos en que los órganos jurisdiccionales a los que presta servicio suspendan sus labores, en este último supuesto el jefe de la oficina lo informará de inmediato a la Dirección General de Estadística Judicial.
 
-En aquellos casos que por alguna causa de carácter extraordinario se requiera que las oficinas de correspondencia común suspendan temporalmente funciones, la Dirección General de Estadística Judicial lo hará del conocimiento de la Comisión de Creación de Nuevos Órganos. El mismo procedimiento se seguirá para los casos de habilitación de los días de descanso de la oficina de correspondencia común.
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+En aquellos casos que por alguna causa de carácter extraordinario se requiera que las oficinas de correspondencia común suspendan temporalmente funciones, la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, lo hará del conocimiento de la Comisión de Creación de Nuevos Órganos. El mismo procedimiento se seguirá para los casos de habilitación de los días de descanso de la oficina de correspondencia común.
 
 Cuando por causas de fuerza mayor el Consejo estime que existe imposibilidad para que los interesados presenten sus demandas y promociones en las sedes ordinarias de las oficinas de correspondencia común, se podrán habilitar sedes alternas en aras de continuar prestando el servicio encomendado. En estos supuestos se publicarán los avisos correspondientes en el portal de Internet del Consejo.
 
@@ -413,33 +419,35 @@ La Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Pen
 
 #### SECCIÓN CUARTA. SISTEMA COMPUTARIZADO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 34.
 
-El registro y turno de asuntos se hará mediante el sistema computarizado que determine la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos.
+El registro y turno de asuntos se hará mediante el sistema computarizado que determine la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 Durante los periodos vacacionales, en los casos de licencias, renuncia o cualquier tipo de ausencia del personal de las oficinas de correspondencia común, el jefe de dicha unidad administrativa deberá comunicarlo a la Dirección General de Estadística Judicial, para que se proporcione la clave de acceso a la persona que ocupe el cargo, sin que en ningún caso pueda entregarse la clave personalizada de acceso a persona diferente al usuario.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 35.
 
-La Dirección General de Estadística Judicial determinará la diferencia máxima permitida en el turno global y por rubro o tipo de asuntos, previa aprobación de la Comisión de Creación de Nuevos Órganos.
-
-En caso de que se rebase la diferencia máxima, aquélla hará la revisión correspondiente y dictará las medidas necesarias para equilibrar las cargas de trabajo.
+La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, determinará la diferencia máxima permitida en el turno global y por rubro o tipo de asuntos, previa aprobación de la Comisión de Creación de Nuevos Órganos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
+En caso de que se rebase la diferencia máxima, aquélla hará la revisión correspondiente y dictará las medidas necesarias para equilibrar las cargas de trabajo.
+
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN EL D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 36.
 
-La Dirección General de Estadística Judicial propondrá a la Comisión de Creación de Nuevos Órganos las medidas necesarias que permitan el mejoramiento del sistema de distribución de asuntos.
+La Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, propondrá a la Comisión de Creación de Nuevos Órganos las medidas necesarias que permitan el mejoramiento del sistema de distribución de asuntos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -573,15 +581,21 @@ En dicho informe, en su caso, también se indicará cuántos asuntos y promocion
 
 #### SECCIÓN OCTAVA. SISTEMAS DE TURNO DE ASUNTOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 45.
 
-Los asuntos se turnarán mediante el sistema computarizado que determine la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos, de la siguiente manera:
+Los asuntos se turnarán mediante el sistema computarizado que determine la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, previa aprobación de la Comisión de Creación de Nuevos Órganos, de la siguiente manera:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 I. Forma Aleatoria: Una vez capturados los datos de registro del asunto que no cuente con antecedente alguno en el sistema computarizado, éste lo distribuirá aleatoriamente, y de manera equilibrada entre los órganos jurisdiccionales; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 II. Forma Relacionada: Si al capturar los datos de registro del asunto, el sistema computarizado arroja un antecedente que lo vincule con otro registrado con anterioridad, ya sea por disposición expresa de la ley o conforme a un criterio de relación, general o específico, de los contenidos en el propio sistema, se turnará al mismo órgano jurisdiccional que conoce o conoció de aquél.
 
@@ -801,13 +815,11 @@ En el caso de presentación de asuntos ante los buzones judiciales, estos se reg
 
 La boleta de turno del interesado la conservará el personal de la oficina de correspondencia común hasta en tanto éste acuda a recogerla y asiente en el ejemplar de la oficina la fecha, hora, así como su nombre y firma para constancia de su entrega.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 56.
 
-Los demás aspectos inherentes al funcionamiento de los buzones judiciales se regularán en un protocolo que al efecto emita la Dirección General de Estadística Judicial, con aprobación de la Comisión de Creación de Nuevos Órganos.
+Los demás aspectos inherentes al funcionamiento de los buzones judiciales se regularán en un protocolo que al efecto emita la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, con aprobación de la Comisión de Creación de Nuevos Órganos.
 
 #### SECCIÓN DÉCIMA SEGUNDA. TURNO DE ASUNTOS DURANTE LOS PERIODOS VACACIONALES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
@@ -881,7 +893,9 @@ V. No estar inhabilitado para desempeñar empleo, cargo o comisión en el servic
 
 La Dirección General de Estadística Judicial solicitará a la Dirección General de Recursos Humanos, a las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, según corresponda, la aplicación de los exámenes de conocimientos y psicométricos a los candidatos a ocupar las plazas en las oficinas de correspondencia común, así como su evaluación.
 
-Los exámenes serán los que determine la Comisión de Administración a propuesta de la Dirección General de Estadística Judicial la cual elaborará el proyecto de examen de conocimientos.
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+Los exámenes serán los que determine la Comisión de Administración a propuesta que haga la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos. Dicha Dirección General elaborará el proyecto de examen de conocimientos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -895,15 +909,21 @@ Las personas que hayan causado baja en los cargos de jefe de oficina de correspo
 
 #### SECCIÓN DÉCIMA CUARTA. NOMBRAMIENTO DEL PERSONAL Y OTORGAMIENTO DE LICENCIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN EL D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 62.
+
+La Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, propondrá los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
-###### Artículo 62.
-
-A fin de hacer más expedita la gestión de los recursos humanos, la Dirección General de Estadística Judicial propondrá en forma directa los nombramientos del personal de las oficinas de correspondencia común a la Comisión de Administración, de entre los aspirantes que hayan aprobado los exámenes respectivos y cumplan los requisitos del puesto previstos en el catálogo correspondiente; asimismo, autorizará las prórrogas de nombramientos.
-
 Las administraciones regionales y delegaciones administrativas de la Coordinación de Administración Regional, así como la Dirección General de Recursos Humanos, según corresponda, elaborarán y suscribirán los movimientos del personal de conformidad con las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
 
 La Dirección General de Recursos Humanos enviará a la Dirección General de Estadística Judicial copia del nombramiento y demás movimientos del personal y conservará a su disposición los expedientes que se integren.
 
@@ -925,13 +945,11 @@ En caso de ausencia menor de tres días, y durante los periodos vacacionales del
 
 Tratándose de la ausencia de un técnico de enlace administrativo OCC por un plazo igual al antes referido y durante los periodos vacacionales, sus funciones serán cubiertas por el propio jefe de la oficina y los demás técnicos de enlace administrativos OCC. En caso de que no los hubiere, los titulares de los órganos jurisdiccionales a los que presta servicio la unidad administrativa de que se trate, comisionarán provisionalmente, de entre su plantilla de personal, al servidor público que deberá auxiliar a la oficina de correspondencia común en sus labores, dando aviso a la Dirección General de Estadística Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 65.
 
-La Dirección General de Estadística Judicial autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
+La Dirección General de Estadística Judicial, previo visto bueno de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos autorizará las licencias del personal de las oficinas de correspondencia común de conformidad con las disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -941,9 +959,7 @@ La Dirección General de Estadística Judicial autorizará las licencias del per
 
 ###### Artículo 66.
 
-En caso de ausencia menor de tres días y durante los periodos vacacionales del Jefe de la Oficina de Correspondencia Común, este será suplido por el técnico de enlace administrativo OCC de mayor antigüedad en la oficina, quien se encargará de coordinar la recepción, registro y turno de asuntos e informará de ello a la Dirección General de Estadística Judicial.
-
-Tratándose de ausencia de un técnico de enlace administrativo OCC por un plazo igual al antes referido y durante los periodos vacacionales, sus funciones serán cubiertas por el Jefe de la Oficina de Correspondencia Común y los demás técnicos de enlace administrativos OCC. En caso de que no los hubiere, los titulares de los órganos jurisdiccionales a los que presta servicio la unidad administrativa de que se trate, comisionarán provisionalmente, de entre su plantilla de personal, al servidor público que deberá auxiliar a la Oficina de Correspondencia Común en sus labores, dando aviso a la Dirección General de Estadística Judicial.
+(DEROGADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -963,13 +979,11 @@ Si con motivo de la supervisión al funcionamiento de las oficinas de correspond
 
 Lo anterior con independencia de las responsabilidades que en materia penal, civil y laboral, se pudieran actualizar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 69.
 
-La remoción de los servidores públicos de las oficinas de correspondencia común corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Estadística Judicial, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
+La remoción de los servidores públicos de las oficinas de correspondencia común corresponde a la Comisión de Administración previo dictamen que para el efecto presente la Dirección General de Estadística Judicial, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, cuando se incumpla con las obligaciones inherentes al puesto en que se desempeña, de conformidad con las disposiciones aplicables.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -989,13 +1003,11 @@ Las convocatorias se acompañarán de campañas de difusión nacional y regional
 
 La Dirección General de Comunicación Social colaborará en el diseño de la campaña promocional de las convocatorias, empleando los medios de publicidad que se estimen pertinentes para asegurar su difusión. La Coordinación de Administración Regional, así como el Instituto de la Judicatura y sus extensiones apoyarán a la Dirección General de Estadística Judicial en la logística y trámites para su implementación en los diversos circuitos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 71.
 
-Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a los aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el protocolo que al efecto expida la propia Dirección General de Estadística Judicial con autorización de la Comisión de Administración.
+Los requisitos de las convocatorias, su calendario, etapas, las formas de identificar a los aspirantes, la vigencia de los resultados obtenidos, la instancia que aplicará los exámenes y resolverá las circunstancias no previstas, la comunicación de los resultados y demás elementos, se precisarán en el protocolo que al efecto expida la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, con autorización de la Comisión de Administración.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1041,13 +1053,11 @@ La Dirección General de Estadística Judicial deberá llevar un control de inci
 
 La Dirección General de Estadística Judicial coadyuvará en las gestiones que realicen las oficinas de correspondencia común, para la obtención de los servicios administrativos que en materia de recursos humanos, materiales, financieros, informáticos y de servicios requieran para su adecuada operación, los que serán suministrados por las unidades administrativas competentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, D.O.F. 21 DE MAYO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN EL D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 76.
 
-Corresponde a la Dirección General de Estadística Judicial elaborar los protocolos relativos al establecimiento de los buzones judiciales, nombramiento de personal, y las convocatorias para la selección de personal, así como los que se requieran para el cumplimiento de este Capítulo, previa aprobación de las Comisiones del Consejo que resulten competentes.
+Corresponde a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, por conducto de la Dirección General de Estadística Judicial, elaborar los protocolos relativos al establecimiento de los buzones judiciales, nombramiento de personal, y las convocatorias para la selección de personal, así como los que se requieran para el cumplimiento de este Capítulo, previa aprobación de las Comisiones del Consejo que resulten competentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3246,3 +3256,11 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 CUARTO. Los libros físicos que contengan la columna que se suprime con motivo de la entrada en vigor de este Acuerdo que tengan en existencia el Consejo de la Judicatura Federal o los órganos jurisdiccionales o, cuya impresión ya haya sido contratada, podrán seguirse utilizando sin requisitar el espacio.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos.
