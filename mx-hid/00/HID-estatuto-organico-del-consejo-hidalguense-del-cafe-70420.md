@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-consejo-hidalguense-del-cafe-70420"
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-09-28"
-last_updated: "2009-09-28"
+last_updated: "2015-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO HIDALGUENSE DEL CAFE
 
-ESTATUTO ORGANICO DEL CONSEJO HIDALGUENSE DEL CAFE
+ESTATUTO ORGÁNICO DEL CONSEJO HIDALGUENSE DEL CAFÉ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL ACUERDO QUE CONTIENE EL ESTATUTO ORGÁNICO DEL CONSEJO HIDALGUENSE DEL CAFÉ DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el viernes 18 de septiembre de 2009.
 
@@ -520,3 +522,19 @@ Secretario de Administración
 Lic. Gerardo González Espinola
 
 Secretario de Desarrollo Económico
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Estatuto Orgánico, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Consejo Hidalguense del Café, Publicado en el Periódico Oficial del Estado de Hidalgo, el 28 de septiembre del 2009, quedando sin efecto todas las disposiciones legales que se opongan al presente Estatuto Orgánico.
+
+TERCERO. Los aspectos no previstos en este Estatuto Orgánico, serán resueltos por los integrantes de la Junta de Gobierno del Consejo.
+
+CUARTO. Los acuerdos, circulares y demás disposiciones emitidas por la Dirección General, antes y durante la autorización de este Estatuto, tendrán plena validez, siempre y cuando no se opongan al presente Estatuto.
+
+QUINTO. En tanto se expiden los manuales de organización y de procedimientos, el Director General está facultado para resolver las cuestiones que dichos manuales deben regular.
+
+SEXTO. El presente Estatuto Orgánico, así como sus reformas y adiciones, deberán inscribirse en el Registro Público de Organismos Descentralizados en términos de lo que establezca la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
