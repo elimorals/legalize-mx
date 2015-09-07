@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-uso-y-preservacion-de-las-calzadas-23163"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-01-25"
-last_updated: "2011-02-02"
+last_updated: "2015-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA EL USO Y PRESERVACION DE LAS CALZADAS, PARQUES Y PLAZAS DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, N.L
 
-REGLAMENTO PARA EL USO Y PRESERVACION DE LAS CALZADAS, PARQUES Y PLAZAS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.
+REGLAMENTO PARA EL USO Y PRESERVACIÓN DE LAS CALZADAS, PARQUES Y PLAZAS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PARQUES, JARDINES Y CALZADAS DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del estado de Nuevo León, el viernes 25 de enero de 2002.
 
@@ -55,7 +57,7 @@ V. Secretaría, la Secretara de Servicios Públicos; y
 
 VI. Dependencias, las dependencias de la Administración Pública Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 3.
 
@@ -217,7 +219,7 @@ IX. Introducir a las Calzadas, Parques y Plazas, objetos o utensilios con los qu
 
 X. Transitar en las Calzadas, Parques y Plazas, en estado de ebriedad o bajo la influencia de estupefacientes o psicotrópicos;
 
-XI. El expendio y venta de alimentos y bebidas en las Calzadas, Parques y Plazas, sin previa autorización del municipio; y (sic)
+XI. El expendio y venta de alimentos y bebidas en las Calzadas, Parques y Plazas, sin previa autorización del municipio; y
 
 XII. Causar daños al Patrimonio Municipal, consistente en el alumbrado, jardineras, árboles, banquetas y demás accesorios con las Calzadas, Parques y Plazas; y,
 
@@ -297,10 +299,40 @@ LIC RICARDO MARTINEZ ELIZONDO
 
 SECRETARIO DEL R. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE FEBRERO DE 2011.
 
 PRIMERO.- Las presentes reformas por modificación, adición y derogación al Reglamento para el Uso y Preservación de las Calzadas, Parques y Plazas del municipio de San Pedro Garza García, Nuevo León, entrarán en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se deroga cualquier disposición que contravenga el presente reglamento.
+
+P.O. 7 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento para el Uso y Preservación de las Calzadas, Parques y Plazas del Municipio de San Pedro Garza García, Nuevo León, aprobado en sesión ordinaria del Republicano Ayuntamiento el 16 de enero del 2012.
+
+TERCERO.- Las solicitudes de los particulares y demás trámites previstos en el Reglamento objeto de abrogación, al que se refiere el artículo segundo transitorio de este Reglamento y que se encuentren en proceso, se resolverán de conformidad con el Reglamento vigente en el momento del inicio del trámite.
+
+CUARTO.- En tanto se reforma el artículo 36, inciso A), fracción V del Reglamento Orgánico de la Administración Pública Municipal de San Pedro Garza García, Nuevo León, disposiciones administrativas y circulares de carácter general, manuales, políticas, lineamientos internos y acuerdos, las referencias establecidas en el referido numeral, se entenderá que se hace referencia conforme a la siguiente tabla:
+
+REFERENCIA SE ENTENDERÁ QUE REFIERE A
+
+###### Artículo 36.
+
+(...) A. (...) V. Llevar a Artículo 36.- (...) A. (...) V. Llevar a
+
+cabo las inspecciones y en su caso, cabo las inspecciones y en su caso,
+
+aplicar las sanciones que correspondan, aplicar las sanciones que correspondan,
+
+por la vigilancia del Reglamento de por la vigilancia del Reglamento de
+
+Anuncios, del Reglamento de Limpia Anuncios, del Reglamento de Limpia
+
+y del Reglamento para el Uso y y del Reglamento de Parques, Jardines
+
+Preservación de Calzadas, Parques y Calzadas.
+
+y Plazas.
