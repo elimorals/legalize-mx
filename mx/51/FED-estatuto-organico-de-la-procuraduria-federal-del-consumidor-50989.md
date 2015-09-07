@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-509
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-07-10"
-last_updated: "2014-12-19"
+last_updated: "2015-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50989&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2015.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de julio de 2006.
 
@@ -66,6 +66,10 @@ I.- A la Subprocuraduría de Servicios estarán adscritas las Direcciones Genera
 II.- A la Subprocuraduría de Verificación estarán adscritas las Direcciones Generales de Verificación y Vigilancia, Verificación de Combustibles y el Laboratorio Nacional de Protección al Consumidor;
 
 III.- A la Subprocuraduría Jurídica estarán adscritas las Direcciones Generales Jurídica Consultiva y de lo Contencioso y de Recursos;
+
+> <small>(ADICIONADA, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+III Bis.- A la Subprocuraduría de Telecomunicaciones estarán adscritas las Direcciones Generales de Protección al Consumidor de Telecomunicaciones; la de Procedimientos y Análisis Publicitario de Telecomunicaciones; y la de Defensa Colectiva y Contratos de Adhesión de Telecomunicaciones;
 
 IV.- (DEROGADA, D.O.F. 21 DE JULIO DE 2010)
 
@@ -585,6 +589,148 @@ ARTICULO 13 BIS.- (DEROGADO, D.O.F. 19 DE DICIEMBRE DE 2014)
 
 ARTICULO 13 TER.- (DEROGADO, D.O.F. 19 DE DICIEMBRE DE 2014)
 
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 13 QUÁTER.- La Dirección General de Protección al Consumidor de Telecomunicaciones tendrá las siguientes atribuciones:
+
+I. Proponer difundir y aplicar, en materia de telecomunicaciones, la normativa y lineamientos para:
+
+a) La recepción de reclamaciones, la celebración de audiencias y convenios conciliatorios; aprobación de los convenios conciliatorios; calificación de actas, notificación e imposición de medidas de apremio que se realicen en los procedimientos conciliatorios y supervisar su cumplimiento;
+
+b) La formalización de los compromisos arbitrales entre consumidores y proveedores y para la conducción de juicios arbitrales y la emisión de laudos y supervisar su cumplimiento;
+
+c) La sustanciación y resolución de los recursos de revocación que se interpongan en contra de las resoluciones que se dicten durante el procedimiento arbitral en materia de telecomunicaciones y supervisar su cumplimiento, y
+
+d) La imposición de medidas de apremio en los procedimientos cuyo inicio, substanciación y resolución competa a la Procuraduría por disposición de otras leyes y que por razón de la materia le corresponda conocer y supervisar su cumplimiento.
+
+II. Proponer, difundir y aplicar las políticas y programas, criterios y lineamientos, en materia de telecomunicaciones, para:
+
+a) El ejercicio de las funciones de verificación y vigilancia que competen a la Procuraduría en términos de la Ley, la Ley Federal sobre Metrología y Normalización, y demás leyes y disposiciones aplicables en materia de telecomunicaciones y supervisar y evaluar su cumplimiento;
+
+b) La verificación que llevan a cabo las delegaciones y subdelegaciones, y supervisar y evaluar su cumplimiento;
+
+c) Supervisar y evaluar la aplicación de los programas de verificación, así como del levantamiento, calificación y dictaminación de actas de verificación, y
+
+d) La emisión de los criterios, respecto a la bonificación o compensación a que se refiere la Ley;
+
+III. Determinar y acordar acciones de protección al consumidor, así como acciones para solucionar en forma expedita las reclamaciones de los consumidores en materia de telecomunicaciones, con proveedores y sus organizaciones, y con instituciones de los sectores público, social y privado;
+
+IV. Procurar la solución de las diferencias entre consumidores y proveedores a que se refiere la Ley y otras disposiciones jurídicas aplicables, conforme a los procedimientos establecidos en la Secciones Segunda y Tercera del Capítulo XIII de la propia Ley, dentro de las unidades administrativas que se le adscriban;
+
+V. Recibir y sustanciar los recursos de revocación que se interpongan en contra de las resoluciones que se dicten durante el procedimiento arbitral en materia de telecomunicaciones;
+
+VI. Ordenar el aseguramiento de bienes y productos utilizados para la prestación de servicios en telecomunicaciones que se comercialicen cuando no cumplan con las disposiciones aplicables y hacerlo del conocimiento de las autoridades competentes;
+
+VII. Ordenar y substanciar la verificación y vigilancia, de oficio o a petición de parte, en los términos previstos en la Ley y, en el ámbito de su competencia de la Ley Federal sobre Metrología y Normalización, de las normas a que ésta se refiere y demás disposiciones legales, reglamentarias y normativas aplicables y supervisar su observancia, dentro de las unidades administrativas que se le adscriban;
+
+VIII. Comisionar a los servidores públicos que practicarán las visitas de verificación y vigilancia en materia de telecomunicaciones, a efecto de que actúen de manera individual o conjunta;
+
+IX. Dar vista a la Dirección General de Procedimientos y Análisis Publicitario de Telecomunicaciones o a la Dirección General de Defensa Colectiva y Contratos de Adhesión de Telecomunicaciones cuando los proveedores incurran en violaciones sistemáticas o recurrentes a los derechos de los usuarios o consumidores, para efecto de protección y restitución o en su caso que se impongan las sanciones por incumplimiento de obligaciones a los concesionarios;
+
+X. Expedir, en el ámbito de su competencia, credenciales a los servidores públicos de la Procuraduría que realicen funciones de verificación y vigilancia;
+
+XI. Ordenar al proveedor que suspenda la información y publicidad que se difunda en materia de telecomunicaciones cuando ésta afecte o pueda afectar la vida, la salud, la seguridad o la economía de una colectividad de consumidores;
+
+XII. Recibir, notificar al consignatario, endosar, entregar y transferir los billetes de depósito consignados por las partes durante el desahogo de los procedimientos de su competencia;
+
+XIII. Actuar como consultor en materia de verificación, información comercial y calidad de bienes y servicios en materia de telecomunicaciones;
+
+XIV. Informar, orientar, asesorar y resolver consultas de consumidores y proveedores, en el ámbito de su competencia, respecto de sus derechos y obligaciones;
+
+XV. Requerir la comparecencia de cualquier persona que tenga conocimiento de actos o hechos relacionados con los procedimientos de su competencia;
+
+XVI. Requerir, previo acuerdo con el Subprocurador de Telecomunicaciones, a los proveedores o autoridades competentes para que tomen las medidas necesarias para combatir, detener, modificar o evitar todo género de prácticas que lesionen los derechos e intereses de los consumidores de servicios de telecomunicaciones, así como para restituirlos en su pleno goce y ejercicio y, en su caso, publicar dicho requerimiento en periódicos de circulación nacional, regional o local, o en cualquier otro medio de difusión;
+
+XVII. Ordenar, en los términos de la Ley y en el ámbito de su competencia, la verificación y vigilancia de la publicidad e información relativas a bienes, productos y servicios que se difundan en aquellos lugares a que se refiere el artículo 96 de la Ley, en materia de telecomunicaciones y ordenar también, en su caso, la suspensión o corrección de dicha publicidad o información;
+
+XVIII. Ordenar y aplicar, en el ámbito de su competencia, las medidas precautorias y medidas de apremio, así como adoptar las medidas necesarias para su ejecución previstas en la Ley, la Ley Federal sobre Metrología y Normalización, y de las demás disposiciones jurídicas aplicables;
+
+XIX. Coordinar la atención que se brinde en las Delegaciones y Subdelegaciones, a las denuncias de los consumidores de telecomunicaciones;
+
+XX. Publicar, a través de cualquier medio, los productos y servicios que con motivo de sus verificaciones y los demás procedimientos previstos en las (sic) ordenamientos legales (sic) sean detectados como riesgosos o en incumplimiento a las disposiciones jurídicas aplicables, y
+
+XXI. Las señaladas en el artículo 17 del Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 13 QUINTUS.- La Dirección General de Procedimientos y Análisis Publicitario de Telecomunicaciones tendrá las siguientes atribuciones:
+
+I. Ejecutar y resolver los procedimientos por infracciones a la Ley, en materia de telecomunicaciones, y aplicar las sanciones a las infracciones a los derechos de los consumidores establecidos en la Ley Federal de Protección al Consumidor y en términos de la Ley Federal de Telecomunicaciones y Radiodifusión y otras disposiciones aplicables en materia de telecomunicaciones, cometidas por los proveedores;
+
+II. Proponer, difundir y aplicar, en materia de telecomunicaciones, la normatividad, para:
+
+a) La substanciación de los procedimientos por infracciones a la Ley y demás procedimientos sancionatorios en materia de telecomunicaciones, que le confieran a la Procuraduría otras leyes, y que por razón de la materia le corresponda conocer y supervisar su cumplimiento en las áreas administrativas que se le adscriban y en las delegaciones y subdelegaciones, y
+
+b) La imposición de medidas de apremio; imposición, notificación y ejecución de sanciones en los procedimientos por infracciones a la Ley, derivados de la Ley Federal sobre Metrología y Normalización, Ley Federal de Telecomunicaciones y Radiodifusión y demás disposiciones aplicables;
+
+III. Monitorear, analizar y evaluar el contenido de la publicidad o información relativa a bienes, productos y servicios en materia de telecomunicaciones que se difunda por cualquier medio y ordenar, en su caso, la suspensión o corrección de la misma;
+
+IV. Sustanciar los procedimientos por infracciones a la Ley relativos a publicidad e información respecto de bienes, productos y servicios en materia de telecomunicaciones que se difunda por cualquier medio de comunicación que viole las disposiciones de la misma y de otros ordenamientos legales que otorguen competencia a la Procuraduría; ordenar la suspensión o corrección de la misma, así como aplicar las sanciones correspondientes;
+
+V. Sustanciar los procedimientos por infracciones a la Ley relativos a publicidad e información respecto de bienes, productos y servicios en materia de telecomunicaciones que se difunda en aquellos lugares a que se refiere el artículo 96 de la Ley, que viole las disposiciones de la misma y de otros ordenamientos legales que otorguen competencia a la Procuraduría; ordenar la suspensión o corrección de la misma, así como aplicar las sanciones correspondientes;
+
+VI. Sustanciar los procedimientos por infracciones a la Ley cuando se presuman violaciones a los derechos de consumidores derivados de los procedimientos conciliatorios;
+
+VII. Atender y sustanciar los procedimientos por infracciones a la Ley derivados de denuncias en materia de publicidad y aquellos derivados de los actos de verificación;
+
+VIII. Ordenar la suspensión de la comercialización de bienes, productos o servicios en telecomunicaciones, sin perjuicio de la intervención que corresponda a otras unidades administrativas en términos de las disposiciones jurídicas aplicables;
+
+IX. Imponer sanciones por incumplimientos a convenios celebrados ante la Procuraduría y laudos arbitrales, en materia de telecomunicaciones, en términos del procedimiento establecido en el artículo 123 de la Ley;
+
+X. Tramitar y resolver las cancelaciones y, en su caso, ordenar la baja del registro de los contratos de adhesión en materia de telecomunicaciones a que se refiere el artículo 90 bis de la Ley, en términos del artículo 123 de la misma;
+
+XI. Acordar con proveedores, instituciones y organizaciones de los sectores público, social y privado, acciones de protección al consumidor en materia de publicidad e información relativa a bienes, productos y servicios en materia de telecomunicaciones que se difunda por cualquier medio;
+
+XII. Ordenar y aplicar, en el ámbito de su competencia, las medidas precautorias y medidas de apremio, así como adoptar las medidas necesarias para su ejecución previstas en la Ley y de las demás disposiciones jurídicas aplicables;
+
+XIII. Requerir la comparecencia de cualquier persona que tenga conocimiento de actos o hechos relacionados con los procedimientos de su competencia;
+
+XIV. Requerir, previo acuerdo con el Subprocurador de Telecomunicaciones, a los proveedores o autoridades competentes para que tomen las medidas necesarias para combatir, detener, modificar o evitar todo género de prácticas que lesionen los derechos e intereses de los consumidores de servicios de telecomunicaciones, así como para restituirlos en su pleno goce y ejercicio y, en su caso, publicar dicho requerimiento en periódicos de circulación nacional, regional o local, o en cualquier otro medio de difusión, y
+
+XV. Las señaladas en el artículo 17 del Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 13 SEXTUS.- La Dirección General de Defensa Colectiva y Contratos de Adhesión de Telecomunicaciones tendrá las siguientes atribuciones:
+
+I. Proponer y promover la adopción de modelos de contratos de adhesión en materia de telecomunicaciones a los proveedores y, en su caso, solicitar su publicación en el Diario Oficial de la Federación;
+
+II. Instrumentar y supervisar los procedimientos relativos a la revisión, modificación, registro, aviso de adopción, publicación, suspensión del uso, baja o cancelación de los contratos y sus modelos y de estados de cuenta en materia de telecomunicaciones, así como la suspensión de otras actividades, previstos en la Ley, la Ley Federal de Telecomunicaciones y Radiodifusión y en otros ordenamientos legales aplicables;
+
+III. Revisar los contratos de adhesión y sus modelos en materia de telecomunicaciones, de oficio o a petición de parte, para que se ajusten a lo dispuesto en las disposiciones aplicables y, en su caso, ordenar su modificación o la suspensión de su uso, respecto de nuevas operaciones mientras no sean modificados;
+
+IV. Proponer los parámetros de razonabilidad de las penas por terminación anticipada del contrato; por suspensión temporal del servicio a que se refiere el artículo 191 de la Ley Federal de Telecomunicaciones, así como los relativos a los mecanismos expeditos para celebrar y cancelar dichos contratos por parte de los consumidores;
+
+V. Proponer el contenido de la carta de derechos mínimos a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión y colaborar con el Instituto Federal de Telecomunicaciones para determinar de manera conjunta su contenido y realizar la difusión y actualización de la misma;
+
+VI. Representar, proteger y defender individualmente o colectivamente a los consumidores ante proveedores, autoridades administrativas y jurisdiccionales y ejercer las acciones que correspondan en los términos de los ordenamientos legales aplicables en materia de telecomunicaciones;
+
+VII. Ejercer las acciones colectivas en materia de telecomunicaciones en representación de los consumidores, en los términos del artículo 26 de la Ley;
+
+VIII. Representar los intereses de los consumidores mediante las acciones que procedan, cuando los contratos de adhesión contengan alguna de las cláusulas señaladas en el artículo 192 de la Ley Federal de Telecomunicaciones y Radiodifusión, para obtener la declaración judicial de nulidad de pleno derecho ante la autoridad competente;
+
+IX. Llevar un registro de las sanciones que hayan quedado firmes a proveedores o cuando éstos incurran en violaciones sistemáticas o recurrentes a los derechos de los consumidores previstos en la Ley y la Ley Federal de Telecomunicaciones y Radiodifusión y dar vista al Instituto Federal de Telecomunicaciones para su registro en el Registro Público de Concesiones;
+
+X. Intercambiar información con el Instituto Federal de Telecomunicaciones, así como analizar la que dicho Instituto le remita a la Procuraduría y enviarla al área correspondiente para la ejecución de las acciones que correspondan;
+
+XI. Realizar análisis, estudios e investigaciones en materia de telecomunicaciones, que permitan definir acciones de política pública en dicha materia;
+
+XII. Participar en los comités consultivos nacionales de normalización e institucionales en materia de telecomunicaciones;
+
+XIII. Proponer el contenido técnico de las campañas de difusión permanentes en materia de protección de los derechos del consumidor en el ámbito de su competencia a través de cualquier medio;
+
+XIV. Proponer la concertación y colaboración de acciones con dependencias y entidades públicas y organizaciones de la sociedad civil y con proveedores en materia de telecomunicaciones;
+
+XV. Requerir, previo acuerdo con el Subprocurador de Telecomunicaciones, a los proveedores o autoridades competentes para que detengan, modifiquen o eviten todo género de prácticas comerciales que lesionen los derechos e intereses de los usuarios de servicios de telecomunicaciones, así como para restituirlos en su pleno goce y ejercicio y, en su caso, publicar dicho requerimiento en periódicos de circulación nacional, regional o local, o en cualquier otro medio de difusión;
+
+XVI. Requerir la comparecencia de cualquier persona que tenga conocimiento de actos o hechos relacionados con los procedimientos de su competencia;
+
+XVII. Determinar y emitir el dictamen a que se refieren los artículos 114, 114 BIS y 114 TER de la Ley, en los procedimientos conciliatorios que versen en la materia de telecomunicaciones, así como proponer y difundir la normatividad correspondiente para ello;
+
+XVIII. Proponer los mecanismos necesarios para asegurar que los consumidores con discapacidad, conozcan las condiciones comerciales establecidas en los modelos de contratos de adhesión en materia de telecomunicaciones registrados ante la Procuraduría Federal del Consumidor, y
+
+XIX. Las señaladas en el artículo 17 del Reglamento.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
 
 ###### ARTICULO 14.
@@ -815,17 +961,11 @@ d) Delegación Poniente, con sede en el territorio de cualquiera de las Delegaci
 
 e) Delegación Oriente, con sede en el territorio de cualquiera de las Delegaciones Políticas de Iztacalco, Iztapalapa y Venustiano Carranza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 15.
 
-Las Direcciones Generales de Quejas y Conciliación; de Contratos de Adhesión, Registros y Autofinanciamiento; de Procedimientos; de Verificación y Vigilancia, y de Verificación de Combustibles, ejercerán sus atribuciones en todo el territorio nacional, pudiendo iniciar los procedimientos administrativos de su competencia y remitir los expedientes respectivos a las distintas delegaciones y subdelegaciones de la Procuraduría, de acuerdo a la circunscripción territorial que les corresponda, a efecto de que el Delegado, Subdelegado, Jefe de Departamento de Servicios o Jefe de Departamento de Verificación y Vigilancia, según corresponda, los sustancien y resuelvan, sin perjuicio del ejercicio de sus demás atribuciones.
-
-Asimismo, las Direcciones Generales mencionadas, en el ámbito de su competencia, podrán atraer para sustanciación y resolución aquellos procedimientos administrativos que, habiendo sido iniciados en alguna delegación o subdelegación, se consideren relevantes por su cuantía o afectación a una colectividad de consumidores.
-
-> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 2013)</small>
-
-En tal circunstancia, los Subprocuradores deberán conocer, sustanciar y resolver los recursos de revisión que presenten los particulares en contra de las resoluciones.
+Las Direcciones Generales de Quejas y Conciliación; de Contratos de Adhesión, Registros y Autofinanciamiento; de Procedimientos; de Verificación y Vigilancia, de Verificación de Combustibles, de Protección al Consumidor de Telecomunicaciones, de Procedimientos y Análisis Publicitario de Telecomunicaciones y de Defensa Colectiva y Contratos de Adhesión de Telecomunicaciones ejercerán sus atribuciones en todo el territorio nacional, pudiendo iniciar los procedimientos administrativos de su competencia y remitir los expedientes respectivos a las distintas delegaciones y subdelegaciones de la Procuraduría, de acuerdo a la circunscripción territorial que les corresponda, a efecto de que el Delegado, Subdelegado, Jefe de Departamento de Servicios, Jefe de Departamento de Verificación y Vigilancia o Jefe de Departamento de Telecomunicaciones según corresponda, los sustancien y resuelvan, sin perjuicio del ejercicio de sus demás atribuciones.
 
 ###### ARTICULO 16.
 
@@ -1270,3 +1410,11 @@ PRIMERO. Este Acuerdo entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. La Dirección General de Delegaciones, implementará las acciones necesarias para el cumplimiento del presente Acuerdo.
 
 TERCERO. Los ajustes a la estructura presentada en este Acuerdo, se realizarán con movimientos compensados, que no afectarán o aumentarán el presupuesto autorizado y los recursos financieros y materiales, los cuales serán administrados por la Coordinación General de Administración.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos, actos administrativos y asuntos en materia de Telecomunicaciones iniciados previo a la entrada en vigor del presente instrumento continuarán su substanciación en las áreas administrativas conforme a la normatividad vigente al momento de su inicio hasta su total conclusión.
+
+TERCERO.- La Procuraduría Federal del Consumidor realizará las actualizaciones correspondientes para ajustar su estructura orgánica, y actualizar sus Manuales de Organización y de Procedimientos dentro de los 120 días posteriores a la entrada en vigor del presente instrumento.
