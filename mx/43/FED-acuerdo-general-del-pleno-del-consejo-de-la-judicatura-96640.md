@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2015-09-03"
+last_updated: "2015-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2013-11-12"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE SEPTIEMBRE DE 2015 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -557,15 +555,15 @@ XXII. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federa
 
 XXIII. Proponer al Pleno, para su aprobación, el proyecto de creación de estructuras administrativas y plazas definitivas para la atención de nuevos programas;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos; la Visitaduría Judicial; y la Dirección General de Estadística Judicial;
+XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, y la Visitaduría Judicial, con la participación de la Dirección General de Estadística Judicial;
 
 XXV. Proponer para autorización del Pleno, las plazas definitivas de nueva creación de defensores públicos y su personal de apoyo, así como de oficinas de correspondencia común, que se requieran con motivo de la creación de nuevos órganos jurisdiccionales;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva creación cuando tengan por objeto homogeneizar plantillas de personal por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos; la Visitaduría Judicial; y la Dirección General de Estadística Judicial;
+XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva creación cuando tengan por objeto homogeneizar plantillas de personal por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, y la Visitaduría Judicial; con la participación de la Dirección General de Estadística Judicial;
 
 XXVII. Someter al Pleno para su autorización la creación de nuevas estructuras orgánicas o la modificación de las ya existentes, la adscripción definitiva, retabulación y transferencia de plazas; así como contrataciones temporales por honorarios;
 
@@ -577,7 +575,9 @@ XXX. Autorizar los programas específicos en materia de recursos humanos, relati
 
 XXXI. Aprobar el monto de la remuneración y honorarios de los peritos;
 
-XXXII. Determinar, a propuesta del Director General de Estadística Judicial, el nombramiento y remoción del personal de las oficinas de correspondencia común;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXXII. Determinar, a propuesta del Director General de Estadística Judicial, que haga por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, el nombramiento y remoción del personal de las oficinas de correspondencia común;
 
 XXXIII. Determinar el nombramiento y remoción del titular y demás empleados de las unidades de notificadores que se establezcan;
 
@@ -1381,11 +1381,13 @@ XLVIII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a l
 
 XLIX. Las demás que establezcan el Pleno, y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 80.
 
-La Secretaría Ejecutiva de Administración programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros, materiales, bienes muebles e inmuebles, servicios generales, tecnologías de la información y comunicaciones, arrendamientos, obra pública y servicios relacionados con la misma, bienes asegurados y decomisados, así como administración regional, estadística judicial, y planeación, de conformidad con la normatividad aplicable y los acuerdos del Pleno y de la Comisión de Administración.
+La Secretaría Ejecutiva de Administración programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros, materiales, bienes muebles e inmuebles, y servicios generales; tecnologías de la información y comunicaciones; arrendamientos, obra pública y servicios relacionados con la misma; bienes asegurados y decomisados; así como administración regional y planeación, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 El Secretario Ejecutivo de Administración es el responsable de proponer al Pleno y a la Comisión de Administración el establecimiento de los programas, sistemas y lineamientos generales para la administración eficaz, eficiente, económica, transparente y honrada de los recursos humanos, materiales y financieros a cargo del Consejo.
 
@@ -1457,9 +1459,9 @@ XXIV. Operar, con las áreas administrativas competentes, los mecanismos de coor
 
 XXV. Instrumentar acciones orientadas a la localización de inmuebles requeridos para la instalación de nuevos órganos jurisdiccionales y la ampliación de espacios físicos, de acuerdo a la normatividad aplicable;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-XXVI. Proponer a la Comisión de Administración y, en su caso, al Pleno, las políticas, directrices, normas y criterios en materia de recursos humanos, financieros, materiales, de servicios generales, tecnologías de la información y comunicaciones, estadística judicial y planeación, así como las demás acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
+XXVI. Proponer a la Comisión de Administración y, en su caso, al Pleno, las políticas, directrices, normas y criterios en materia de recursos humanos, financieros, materiales y de servicios generales; tecnologías de la información y comunicaciones; y planeación, así como las demás acciones necesarias para su manejo eficiente, eficaz, económico, transparente y honrado;
 
 > <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1473,9 +1475,9 @@ XXVIII. Conducir, coordinar, supervisar, controlar y evaluar el proceso de progr
 
 XXIX. Proponer a la instancia competente medidas de mejora continua de la gestión, organización y funcionamiento de las áreas administrativas de su adscripción;
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-XXX. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos humanos, financieros, materiales, servicios generales, tecnologías de la información y comunicaciones, estadística judicial, planeación, y bienes asegurados y decomisados, así como las demás que resulten de su competencia;
+XXX. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de recursos humanos, financieros, materiales, y de servicios generales; tecnologías de la información y comunicaciones; planeación; y bienes asegurados y decomisados, así como las demás que resulten de su competencia;
 
 > <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
@@ -1561,7 +1563,7 @@ La Secretaría Ejecutiva de Administración contará con las unidades administra
 
 I. Coordinación de Administración Regional;
 
-II. Dirección General de Estadística Judicial;
+II. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)
 
 III. Dirección General de Innovación, Planeación y Desarrollo Institucional;
 
@@ -1681,15 +1683,23 @@ XIX. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO
 
 XX. Analizar y evaluar las solicitudes de creación de nuevos órganos jurisdiccionales, a fin de determinar la prioridad de su creación, para someterlas a la consideración de la Comisión de Creación de Nuevos Órganos;
 
-XXI. Solicitar, analizar y evaluar los estudios estadísticos elaborados por la Dirección General de Estadística Judicial, con el propósito de ponderar la viabilidad y prioridad para la creación de un órgano nuevo o determinar la especialización, cambio de sede, competencia y sistema de turno de los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. Instruir a la Dirección General de Estadística Judicial la elaboración de estudios estadísticos, así como analizar y evaluar los mismos, con el propósito de ponderar la viabilidad y prioridad para la creación de un órgano nuevo o determinar la especialización, cambio de sede, competencia y sistema de turno de los órganos jurisdiccionales;
 
 XXII. Solicitar, analizar y evaluar los informes de órganos jurisdiccionales que sean necesarios para el desarrollo de las funciones de la Secretaría Ejecutiva;
 
-XXIII. Elaborar los proyectos de acuerdos relativos a la creación, competencia, jurisdicción, reglas de distribución de los asuntos y fecha de inicio de funciones de los nuevos órganos jurisdiccionales, que conforme a las cargas de trabajo analizadas por la secretaría ejecutiva o a la Dirección General de Estadística Judicial se consideren necesarios, con la finalidad de someterlos a la consideración de la Comisión de Creación de Nuevos Órganos;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-XXIV. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número y límites territoriales de los circuitos en que se divida el territorio de la República, y en su caso los cambios de residencia de los órganos jurisdiccionales, que conforme a las cargas de trabajo analizadas, por la secretaría ejecutiva o la Dirección General de Estadística Judicial se consideren convenientes;
+XXIII. Elaborar los proyectos de acuerdos relativos a la creación, competencia, jurisdicción, reglas de distribución de los asuntos y fecha de inicio de funciones de los nuevos órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios, con la finalidad de someterlos a la consideración de la Comisión de Creación de Nuevos Órganos;
 
-XXV. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número, límites territoriales y, en su caso, especialización por materia de los órganos jurisdiccionales en cada uno de los circuitos a que se refiere la fracción anterior, que conforme a las cargas de trabajo analizadas por la secretaría ejecutiva o a la Dirección General de Estadística Judicial se consideren necesarios;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número y límites territoriales de los circuitos en que se divida el territorio de la República y, en su caso, los cambios de residencia de los órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren convenientes;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXV. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número, límites territoriales y, en su caso, especialización por materia de los órganos jurisdiccionales en cada uno de los circuitos a que se refiere la fracción anterior, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios;
 
 XXVI. Proponer a la Comisión de Creación de Nuevos Órganos las disposiciones necesarias para regular el turno de los asuntos de la competencia de los órganos jurisdiccionales, cuando en un mismo lugar haya varios de ellos;
 
@@ -1711,9 +1721,31 @@ XXXIII. Someter a la consideración de las Comisiones, las disposiciones, reglas
 
 XXXIV. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XXXV. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-XXXVI. Las demás que establezcan el Pleno, y las Comisiones.
+XXXV. Programar, coordinar, supervisar y evaluar los sistemas de estadística judicial, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVI. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de estadística judicial;
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVIII. Las demás que establezcan el Pleno, y las Comisiones.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 84 Bis.
+
+La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, contará con las unidades administrativas siguientes:
+
+I. Dirección General de Estadística Judicial; y
+
+II. Las demás que determine el Pleno.
 
 ###### Artículo 85.
 
@@ -2721,7 +2753,9 @@ IV. Mantener actualizado el Sistema Integral de Seguimiento de Expedientes, a tr
 
 V. Revisar y validar la congruencia de la captura de datos de los expedientes que se tramitan en los órganos jurisdiccionales;
 
-VI. Proponer al Pleno la implantación de nuevos módulos, esquemas y normativa que deban agregarse al Sistema Integral de Seguimiento de Expedientes;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Proponer al Pleno, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, la implantación de nuevos módulos, esquemas y normativa que deban agregarse al Sistema Integral de Seguimiento de Expedientes;
 
 VII. Verificar físicamente y de manera aleatoria la coincidencia en la captura de datos en el Sistema Integral de Seguimiento de Expedientes, respecto de los diferentes tipos de asuntos del conocimiento de los órganos jurisdiccionales;
 
@@ -2729,11 +2763,13 @@ VIII. Mantener actualizado el padrón de analistas jurídicos encargados de la o
 
 IX. Informar a las áreas administrativas correspondientes, acerca del seguimiento de las observaciones y manifestaciones contenidas en las actas de visita de inspección practicadas e informes circunstanciados de los órganos jurisdiccionales, en relación con la supervisión de los reportes estadísticos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas; así como proponer a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
+X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas; así como proponer, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
 
-XI. Proponer a la Comisión de Administración a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común, cuya aprobación hará del conocimiento de la Dirección General de Recursos Humanos para la debida expedición de sus nombramientos, así como la remoción del personal adscrito a dichas oficinas, y determinar la prórroga de los nombramientos respectivos;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Proponer a la Comisión de Administración, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común, cuya aprobación hará del conocimiento de la Dirección General de Recursos Humanos para la debida expedición de sus nombramientos, así como la remoción del personal adscrito a dichas oficinas, y determinar la prórroga de los nombramientos respectivos;
 
 XII. Solicitar, concentrar, analizar y sistematizar la información administrativa de aplicación estadística que generen los órganos jurisdiccionales y áreas administrativas que integran el Poder Judicial de la Federación, para la elaboración de los estudios que las distintas áreas de éste le soliciten;
 
@@ -2755,9 +2791,17 @@ XIX. Fungir como unidad productora de información estadística judicial y geore
 
 XX. Revisar el contenido y alcance de la información, documentación, análisis y propuestas de los asuntos que someta a consideración del superior jerárquico al cual esté adscrito, y mantenerlo informado de aquellos relevantes que conozca en el ámbito de su competencia;
 
-XXI. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
-XXII. Las demás que establezcan el Pleno, y las Comisiones.
+XXI. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema Biométrico de Registro de Asistencia de Procesados en Libertad Provisional;
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Acordar con el titular de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, los asuntos que en ejercicio de sus atribuciones pretenda presentar a la consideración del Pleno y de las Comisiones; y
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII. Las demás que establezcan el Pleno, y las Comisiones.
 
 ###### Artículo 151.
 
@@ -5324,3 +5368,11 @@ D.O.F. 3 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos.
