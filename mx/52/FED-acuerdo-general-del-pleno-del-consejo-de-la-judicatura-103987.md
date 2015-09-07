@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-09-03"
+last_updated: "2015-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,15 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2015, LAS REFERENCIAS QUE SE HAGAN EN CUALQUIER DISPOSICIÓN A LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN COMO SUPERIOR JERÁRQUICO DE LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL SE ENTENDERÁN HECHAS A LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 23 DE JULIO DE 2015, LAS REFERENCIAS QUE CUALQUIER DISPOSICIÓN HAGA A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS Y DESARROLLO INFANTIL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN GENERAL DE SERVICIOS MÉDICOS, CON EXCEPCIÓN DE AQUELLAS QUE SE RELACIONEN CON SUS ATRIBUCIONES EN MATERIA DE DESARROLLO INFANTIL, MISMAS QUE SE ENTENDERÁN A LA DIRECCIÓN GENERAL DE SERVICIOS AL PERSONAL.</small>
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO.
 
@@ -2785,11 +2787,11 @@ La celebración será en forma directa siempre que de la investigación de merca
 
 Cuando por disposiciones normativas los entes públicos a que se refiere este artículo no estén obligados a otorgar garantías, pactar penas convencionales, o cubrir otras de la misma naturaleza, se hará constar dicha circunstancia en el instrumento jurídico correspondiente, sin perjuicio de salvaguardar los intereses del Consejo.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACION EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACIÓN EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
 
 Una vez aprobados los programas de formación, capacitación, actualización, investigación y desarrollo, el Instituto de la Judicatura podrá celebrar convenios de colaboración en materia de prestación de servicios académicos con instituciones públicas o privadas, a fin de cumplir los objetivos previstos en dicho Programa, para lo cual deberá privilegiar los criterios y principios establecidos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACION EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LAS FACULTADES DEL INSTITUTO DE LA JUDICATURA FEDERAL PARA CELEBRAR CONVENIOS DE COLABORACIÓN EN MATERIA DE PRESTACIÓN DE SERVICIOS ACADÉMICOS, D.O.F. 10 DE AGOSTO DE 2015)</small>
 
 Para la formalización de esos convenios, se requerirá de la firma de su Director General, el cual deberá rendir un informe semestral al Comité en el que se precisen el nombre de la institución con la que celebró el convenio, su objeto, vigencia, monto, y avance de cumplimiento, entre otros elementos que se consideren de importancia en la contratación efectuada.
 
@@ -3367,11 +3369,11 @@ Cuando se realicen obras públicas y servicios relacionados, el Consejo y los co
 
 El titular del área de obras, cuando sea el caso, previamente a la realización de los trabajos, deberá tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía, sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 286.
 
-Para la formulación de los Programas de Ejecución a que se refiere este Capítulo, se deberán tomar en cuenta prioritariamente, los requerimientos necesarios para la creación de nuevos órganos jurisdiccionales, en coordinación con las áreas administrativas competentes, tomando como base la información que proporcione la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos y la Dirección General de Estadística Judicial.
+Para la formulación de los Programas de Ejecución a que se refiere este Capítulo, se deberán tomar en cuenta prioritariamente, los requerimientos necesarios para la creación de nuevos órganos jurisdiccionales, en coordinación con las áreas administrativas competentes, tomando como base la información que proporcione la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos.
 
 ###### Artículo 287.
 
@@ -10973,9 +10975,11 @@ IX. Versión de tipos de certificados digitales de la FIREL.
 
 El certificado digital de la FIREL únicamente podrá ser solicitado y emitido a personas físicas con independencia de que éstas sean representantes de personas morales públicas o privadas, cuya solicitud se realizará exclusivamente por el interesado, sin que dicho trámite pueda efectuarse mediante apoderado o representante legal.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 987.
 
-Para obtener un certificado digital de la FIREL emitido por el Consejo, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/, disponible en el portal de Internet del Consejo y de la Dirección General de Estadística Judicial; accederá al vínculo denominado FIREL y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica, aprobadas por la Unidad.
+Para obtener un certificado digital de la FIREL emitido por el Consejo, el interesado ingresará a la dirección http://www.pjf.gob.mx/firel/, disponible en el portal de Internet del Consejo; accederá al vínculo denominado FIREL y completará el procedimiento establecido para tal efecto en las Políticas para la obtención y uso de la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL), así como para la operación de su infraestructura tecnológica, aprobadas por la Unidad.
 
 ### CAPÍTULO NOVENO. DEL RECONOCIMIENTO DE CERTIFICADOS DIGITALES Y DE LA CELEBRACIÓN DE CONVENIOS DE COORDINACIÓN
 
@@ -11037,9 +11041,11 @@ V. Revocar de inmediato su certificado digital de la FIREL cuando se ponga en ri
 
 Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en este Título, dará lugar al procedimiento y a las sanciones que correspondan en términos de lo previsto en la Ley Orgánica, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 996.
 
-Los servidores públicos de la Dirección General de Estadística Judicial, incluyendo los de la UNCOCEFI, deberán hacer del conocimiento de las autoridades competentes las conductas que pudieran constituir delitos o responsabilidad administrativa, de las que tengan conocimiento en ejercicio de sus funciones.
+Los servidores públicos deberán hacer del conocimiento de las autoridades competentes las conductas que pudieran constituir delitos o responsabilidad administrativa, de las que tengan conocimiento en ejercicio de sus funciones.
 
 ###### Artículo 997.
 
@@ -11444,3 +11450,11 @@ D.O.F. 3 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de internet del Consejo de la Judicatura Federal.
+
+D.O.F. 7 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos.
