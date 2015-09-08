@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2015-09-05"
+last_updated: "2015-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE SEPTIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE SAN LUIS POTOSÍ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE SEPTIEMBRE DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1171 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2015.</small>
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
