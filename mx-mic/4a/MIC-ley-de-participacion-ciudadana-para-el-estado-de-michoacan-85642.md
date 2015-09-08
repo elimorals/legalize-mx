@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-participacion-ciudadana-para-el-estado-de-michoacan-8564
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-24"
-last_updated: "2012-01-24"
+last_updated: "2015-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE MICHOACÁN DE OCAMPO.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 8 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 24 de enero de 2012.
 
@@ -606,3 +608,31 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 4 cuatro días del mes de Enero del año 2012 dos mil doce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- RAFAEL MELGOZA RADILLO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se abroga la Ley de Participación Ciudadana para el Estado de Michoacán de Ocampo, publicada en la Sexta Sección del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo con fecha 24 de enero de 2012.
+
+TERCERO. Los entes públicos contarán con 90 días para emitir la normatividad correspondiente a que les obligue esta Ley, así como para que, aquellos que no cuenten con un espacio determinado como Estrados, los creen, buscando lugares visibles y de fácil acceso, en el que sea su inmueble principal.
+
+CUARTO. Por única ocasión, a efecto de hacer la primera división del municipio por zonas, en términos del Capítulo Quinto del Título Tercero de la presente Ley, cada uno de los integrantes de Ayuntamiento podrá presentar propuestas de zonificación, las que se expondrán en una sesión que se convoque con ese único fin, dichas propuestas deberán someterse a votación, resultando definitiva la que logre aprobación por mayoría calificada de los presentes.
+
+En caso de que de las propuestas presentadas no se logre la votación requerida, podrá solicitarse el apoyo de alguna área o dependencia pública del Ayuntamiento, a efecto de que, en un término no menor a 20 días contados a partir de que se celebró la sesión primero convocada, se presente en sesión, propuesta que integre los proyectos presentados, la que deberá someterse a votación. De no tenerse la votación requerida en este proyecto, en esa misma sesión deberán someterse a votación los primeros proyectos presentados, resultando definitivo el que logre el mayor número de votos.
+
+En todo momento, las propuestas que sean consideradas y se sometan a votación, deberán cumplir con los lineamientos que se disponen en la presente Ley.
+
+QUINTO. Notifíquese el presente decreto:
+
+a) Al Gobernador del Estado, a efecto de que gire instrucciones a los titulares u órganos de gobierno de las dependencias y entidades de la administración pública centralizada, descentralizada, desconcentrada, y de participación estatal;
+
+b) A los 113 Ayuntamientos, a efecto de que giren instrucciones a los titulares u órganos de gobierno de las dependencias y entidades de la administración pública centralizada, descentralizada, desconcentrada, y de participación municipal; y,
+
+c) A los titulares de los Órganos Constitucionales Autónomos;
+
+Las anteriores, para efecto de que estén sabidos de sus obligaciones legales en términos del Capítulo Primero del Título Tercero de la presente Ley.
+
+Así también, como sujetos obligados en términos del Capítulo y Título referido en el párrafo anterior, por única ocasión, contarán con treinta días naturales contados a partir de iniciado el año calendario para emitir los acuerdos a que les obliga el artículo 69.
