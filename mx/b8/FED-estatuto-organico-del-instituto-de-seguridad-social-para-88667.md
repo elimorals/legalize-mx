@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-88667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-30"
-last_updated: "2012-08-07"
+last_updated: "2015-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2012-07-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 7 DE AGOSTO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de julio de 2012.
 
@@ -311,7 +309,9 @@ VII. Integrar los expedientes correspondientes a los haberes de retiro, pensione
 
 VIII. Expedir las tarjetas de filiación a los militares retirados, pensionistas y representantes legales, para que puedan ejercer su derecho, respecto al beneficio económico otorgado, con vigencia de cuatro años;
 
-IX. Realizar el estudio de los antecedentes y formular dictámenes sobre la procedencia y monto de las prestaciones relativas a los seguros: de vida militar, institucional, colectivo de retiro y devolución de aportaciones al fondo del seguro colectivo de retiro y someterlos a la consideración de la Junta Directiva para su resolución;
+> <small>(REFORMADA, D.O.F. 8 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Realizar el estudio de los antecedentes y formular dictámenes sobre la procedencia y monto de las prestaciones relativas a los seguros: de vida militar, institucional, colectivo de retiro y devolución de aportaciones al fondo del seguro colectivo de retiro y serán firmados por el Director de Área, quien deberá de informar de manera mensual a la Junta Directiva, la situación del pago de las prestaciones relativas de seguros.
 
 X. Remitir a la Dirección de Finanzas del Instituto, los trámites para el pago de los beneficios relativos a los seguros: de vida militar, institucional, colectivo de retiro, devolución de aportaciones al fondo del seguro colectivo de retiro; así como pagas de defunción y ayuda para gastos de sepelio;
 
@@ -673,7 +673,7 @@ ART. 26.- El Subdirector General sustituirá al Director General en sus ausencia
 
 ART. 27.- El Subdirector General será suplido en sus ausencias temporales por el Coordinador de Asesores de la Dirección General, con excepción del caso de la certificación de documentos que únicamente será suplido por el titular de la Dirección Administrativa.
 
-ART.28.- En las ausencias del Secretario de la Junta Directiva, asumirá sus funciones el Coordinador de Asesores de la Dirección General.
+ART. 28.- En las ausencias del Secretario de la Junta Directiva, asumirá sus funciones el Coordinador de Asesores de la Dirección General.
 
 ART. 29.- El Coordinador de Asesores de la Dirección General y el Coordinador Administrativo, serán suplidos en sus ausencias temporales por el Servidor Público que designe el Director General.
 
@@ -702,3 +702,9 @@ Lo que me permito hacer de su superior conocimiento para los efectos legales a q
 Sufragio Efectivo. No Reelección.
 
 México, D.F., a 23 de julio de 2012.- El presente lo signo en mi carácter de Coordinador de Asesores del Director General por ausencia temporal y en suplencia del Vicealmirante del Cuerpo General Diplomado de Estado Mayor Subdirector General y Secretario de la H. Junta Directiva del ISSFAM, de conformidad con el artículo 27 del Estatuto Orgánico de esta Entidad publicado en el Diario Oficial de la Federación el 21 de julio de 2010.- General de Brigada Diplomado de Estado Mayor Retirado, Jesús Alonso Valdez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
