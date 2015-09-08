@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bienes-del-estado-y-municipios-de-san-luis-potosi-48373"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2015-09-05"
+last_updated: "2015-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,693 +21,563 @@ state: "SLP"
 ---
 # LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE CHIAPAS.
+LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
 
-Ley publicada en el Periódico Oficial del Estado de Chiapas el 31 de Marzo de 2004.
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE SEPTIEMBRE DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 1171 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2015.</small>
 
-SECRETARIA DE GOBIERNO
+Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
-DIRECCION DE ASUNTOS JURIDICOS
+C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
-DEPARTAMENTO DE GOBERNACION
+DECRETO 404
 
-DECRETO NUMERO 153
+LA QUINCUAGESIMA SEPTIMA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA HONORABLE SEXAGESIMA PRIMERA LEGISLATURA DEL MISMO, SE HA SERVIDO DIRIGIR AL EJECUTIVO DE SU CARGO EL SIGUIENTE:
+EXPOSICION DE MOTIVOS
 
-DECRETO NUMERO 153
+Abandonado el concepto de propiedad heredado de los romanos, en el que quedaban comprendidas las facultades no sólo de usar y disfrutar de las cosas propias, sino también la de abusar de ellas, el Constituyente del 17 creyó oportuno dejar establecida la facultad del estado de imponer a la propiedad privada las modalidades que dicte el interés público; esto con el fin de darle a la propiedad el sentido social que le es consubstancial, inmersos como estamos en el tejido de derechos y obligaciones que dan como resultado el andamiaje que sustenta la existencia misma de la vida social.
 
-LA SEXAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN USO DE LAS FACULTADES QUE LE CONCEDE LA CONSTITUCION POLITICA LOCAL; Y,
+Si esos principios siguen siendo válidos para la propiedad de los particulares, por mayoría de razón lo son para la propiedad de los entes públicos, pues en este último caso, además de las razones que existen para darle a los bienes en general un uso y aprovechamiento con proyección social, está la circunstancia adicional de que la finalidad esencial de las entidades públicas es la realización del bien común, y al ser esto así, resulta que sus bienes no pueden estar dedicados sino al logro de ese bien colectivo. Por ende, se impone la necesidad de contar con disposiciones legales que normen el uso, aprovechamiento y explotación de los bienes del Estado de San Luis Potosí, a fin de obtener de tales bienes la máxima utilidad social.
 
-C O N S I D E R A N D O
+En consecuencia el patrimonio del Estado y los municipios, debe aplicarse fundamentalmente a la realización de las funciones de tales entidades públicas, básicamente, para la prestación de los servicios públicos que tienen encomendados; y aunque hubo épocas en que el pensamiento dominante era que los entes públicos debían prestar directamente dichos servicios públicos, hoy se sabe muy bien que esto no siempre es posible, y más aún, no siempre es conveniente.
 
-QUE CONFORME LO ESTABLECE EL NUMERAL 29, FRACCION I, DE LA CONSTITUCION POLITICA LOCAL, ES FACULTAD DEL CONGRESO DEL ESTADO LEGISLAR EN LAS MATERIAS QUE NO ESTEN RESERVADAS AL CONGRESO DE LA UNION, ASI COMO EN AQUELLAS EN QUE EXISTAN FACULTADES CONCURRENTES, CONFORME A LEYES FEDERALES.
+El estado puede contar con bienes para prestar un determinado servicio público, pero no con el financiamiento suficiente para prestar tal servicio de manera adecuada y eficiente, y de ser este el caso, los bienes en cuestión finalmente a nadie aprovechan. Otras veces no es el financiamiento el que falta, sino la organización empresarial adecuada, o bien la capacitación del personal; y por qué no hablar de los vaivenes políticos que impiden en ocasiones prestar un servicio de manera regular y eficiente.
 
-EL PLAN NACIONAL DE DESARROLLO Y EL PROGRAMA ESPECIAL DE CIENCIA Y TECNOLOGIA, RECONOCEN LA IMPORTANCIA QUE GUARDA LA CIENCIA Y LA TECNOLOGIA PARA MANTENER Y REFORZAR LA INDEPENDENCIA NACIONAL, Y LA NECESIDAD QUE EXISTE DE PLANEAR, ORGANIZAR Y VINCULAR CON EL SECTOR PRODUCTIVO, A FAVOR DE UNA MODERNIZACION QUE LE PERMITA ALCANZAR A MEDIANO Y CORTO PLAZO LA AUTO DETERMINACION ECONOMICA, CIENTIFICA Y TECNOLOGICA, EN LO GENERAL, Y EL FORTALECIMIENTO DEL DESARROLLO REGIONAL.
+Derivado de lo anterior, surge necesariamente el tema de las concesiones, que si bien se mira, es una de las formas de suplir deficiencias y complementar suficiencias del estado. Como que se trata de una figura jurídica que a todos beneficia: al ente público, porque mediante la concesión ahorra recursos, en tanto que no tiene que invertir en los elementos que se requieren para prestar el servicio de que se trate, como son equipo e instalaciones, amén de que adquiere ingresos adicionales al recibir el pago de los derechos correspondientes; el concesionario, porque mediante la prestación del servicio obtiene una utilidad legítima; y la comunidad, porque finalmente se le está prestando un servicio que requiere.
 
-EL PROGRAMA ESPECIAL DE CIENCIA Y TECNOLOGIA ESTABLECE ENTRE SUS OBJETIVOS, LA POLITICA DE DESCENTRALIZACION EN MATERIA DE CIENCIA Y TECNOLOGIA AL ESTABLECER "...TRANSFERIR A LAS ENTIDADES FEDERATIVAS LAS FUNCIONES ADMINISTRATIVAS PARA LA PROMOCION DE LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS, FORTALECER LOS SISTEMAS DE CIENCIA Y TECNOLOGIA DE LOS GOBIERNOS ESTATALES; PARA ELLO SE PROMOVERA LA CREACION DE CONSEJOS LOCALES DE CIENCIA Y TECNOLOGIA QUE DEFINIRAN Y EFECTUARAN SUS PROPIAS ACTIVIDADES EN ESTE TERRENO, ADEMAS PODRAN AYUDAR AL CONACYT EN LA PROMOCION DE LOS PROGRAMAS Y BECAS DE APOYO PARA LA ACTUALIZACION TECNOLOGICA Y LA INVESTIGACION CIENTIFICA".
+Es por todo eso que aunque por un tiempo la concesión perdió terreno ante una fuerte tendencia estatizadora de los servicios, luego vio devuelta su utilidad ante la corriente privatizadora. Ahora debe hacerse una acotación: en realidad las bondades de la concesión dependen en gran medida de su regulación legal; porque lo cierto es que el no contar con una adecuada normativa jurídica puede dar lugar a perniciosas acciones, que lo mismo benefician al funcionario venal, que al concesionario voraz, mientras que la comunidad sólo recibe beneficios marginales o incluso resulta damnificada. De ahí la importancia de regular en la ley el régimen de concesiones de los bienes de dominio público del estado. En el caso de los municipios, se establece que la aplicación de la presente Ley en el rubro de concesiones, será de orden supletorio, toda vez que éstos cuentan ya con la regulación correspondiente de esta materia en la Ley Orgánica del Municipio Libre.
 
-LA ESTRATEGIA DE DESARROLLO EN MEXICO SE ORIENTA A LA MODERNIZACION DE LA ECONOMIA Y LA SOCIEDAD. EN ESTE CONTEXTO, LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL PAIS PRESENTA GRANDES RETOS Y OFRECE, A SU VEZ, AMPLIAS OPORTUNIDADES PARA HACER AVANZAR A LA CIENCIA Y LA TECNOLOGIA NACIONALES Y ESTATALES HACIA LOS ALTOS NIVELES QUE RECLAMA EL NUEVO ENTORNO INTERNACIONAL. ASIMISMO, DE QUE DICHA ACTIVIDAD ES CONDICION NECESARIA PARA QUE MEXICO Y EN PARTICULAR CHIAPAS, ATRAVES (SIC) DEL CONSEJO LOCAL DE CIENCIA Y TECNOLOGIA EL CUAL SE DENOMINA COCYTECH CONTRIBUIRA A DESARROLLAR UN SISTEMA DE EDUCACION, FORMACION Y DE CAPACITACION DE RECURSOS DE CALIDAD Y ALTO NIVEL ACADEMICO IMPULSANDO, FORTALECIENDO E INNOVANDO LA INVESTIGACION CIENTIFICA Y EL DESARROLLO TECNOLOGICO PARA UNA CULTURA CIENTIFICA EN LA SOCIEDAD CHIAPANECA.
+Por otra parte, aunque es verdad que los bienes de dominio privado del Estado y municipios de San Luis Potosí deben en principio regularse por el derecho común, lo cierto es que el carácter público del titular de tales bienes le imponen la necesidad de una regulación especial, aunque sea en forma parcial, ya que finalmente son bienes de la comunidad, y ello hace que su regulación sea de interés público; sin embargo, esta circunstancia no hace menos importante reglamentar lo concerniente a los bienes del dominio privado de dichas entidades públicas.
 
-LA IMPORTANCIA QUE EL QUEHACER CIENTIFICO Y TECNOLOGICO TIENEN PARA EL DESARROLLO ECONOMICO Y EL MEJORAMIENTO DE LOS NIVELES DE BIENESTAR SOCIAL DE LOS PUEBLOS, CONVIENE EN INSOSLAYABLE LA OBLIGACION DE SU IMPULSO. POR ELLO, LA PROMOCION DE LA CIENCIA Y LA TECNOLOGIA REQUIERE DE LA CONJUGACION DE ESFUERZOS, REGULADA POR UNA NORMATIVIDAD ESPECIFICA.
+La Constitución Política del Estado consigna lo relativo a los bienes del dominio público y privado del Estado, específicamente en sus artículos 109, 110 y 114 fracción IV; sin embargo, se hace necesaria la expedición de la Ley Reglamentaria de Bienes del Estado de San Luis Potosí, toda vez que tales preceptos constitucionales, por su propia naturaleza, sólo establecen las bases generales sobre la materia, las que desde luego deben ser desarrolladas por la ley secundaria, a fin de que tengan efectividad en su aplicación y observancia, tal y como ha sido entendido en varios Estados de la República que ya cuentan con una ley que regula dicho tópico.
 
-POR LAS RAZONES ANTERIORES, ESTE HONORABLE CONGRESO HA TENIDO A BIEN EMITIR EL SIGUIENTE:
+Este nuevo ordenamiento de Ley de Bienes del Estado de San Luis Potosí, cuenta con el contenido y sistematización que a continuación se detalla:
 
-DECRETO DE LEY DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS.
+Se distribuye en nueve capítulos, a saber:
 
-## TITULO PRIMERO. DISPOSICIONES GENERALES
+El Capítulo I, abarca de los artículos 1° al 4°; está dedicado a disposiciones generales, en las que, por la naturaleza de la materia, se establece que dicha Ley es de orden público e interés social; y, por otra parte, además de dejar señalado que el Estado y los municipios tiene personalidad jurídica para adquirir y poseer bienes para la prestación de servicios públicos y el cumplimiento de sus fines, se previene expresamente la competencia de los tribunales del Estado para conocer de las controversias que se susciten en relación con tales bienes.
 
-### CAPITULO UNICO. OBJETO, DEFINICIONES Y FINALIDADES
+Si bien la Ley Orgánica del Municipio Libre ya contempla lo relativo al régimen de concesiones de los mismos, se establece también en estas disposiciones generales, que este ordenamiento será de aplicación supletoria para los municipios del Estado, en todo aquello que no se encuentre ya previsto en la citada ley municipal, a fin de que los ayuntamientos estén en aptitud de aplicar en forma complementaria esta normatividad en los casos en que fuere necesario, en beneficio de la administración municipal. Tratándose de todo lo relativo a bienes, será de aplicación obligatoria.
 
-###### ARTICULO 1.
+En el Capítulo II, integrado por los artículos 5° al 7°, tomando como base lo establecido por el numeral 110 de la Constitución Política del Estado, se establece la clasificación de los bienes del Estado y municipios en bienes del dominio público y bienes del dominio privado, y se precisa cuáles son los primeros y cuáles son los segundos.
 
-LA PRESENTE LEY ES DE ORDEN PUBLICO, INTERES SOCIAL Y DE OBSERVANCIA GENERAL EN EL ESTADO DE CHIAPAS Y TIENE POR OBJETO:
+El Capítulo III, integrado por los artículos 8° y 9° comprende disposiciones comunes a los dos capítulos que le anteceden. En él, además de proporcionarse el concepto general de los bienes de uso común y de los destinados a los servicios públicos del Estado y municipios, a fin de facilitar la interpretación y, como consecuencia la aplicación de la Ley, se señalan de manera ejemplificativa, que no limitativa, cuáles deben ser considerados como bienes de uso común y cuáles como destinados a los servicios públicos.
 
-I. LA PLANEACION Y EL DESARROLLO DE LA CIENCIA Y LA TECNOLOGIA EN EL ESTADO DE CHIAPAS;
+El Capítulo IV, constituido por los artículos del 10 al 28, tiene como materia el régimen jurídico de los bienes del dominio público, lo que sin duda viene a constituir lo que pudiéramos llamar el núcleo del ordenamiento que nos ocupa. Al respecto, incluye disposiciones que vienen a regular cuestiones medulares de tales bienes, las que hasta ahora se resuelven en gran parte con base en la legislación común, lo que desde luego no resulta conveniente dada la especial naturaleza de dichos bienes.
 
-II. LA POLITICA DEL GOBIERNO DEL ESTADO SUSTENTADA EN LA INTEGRACION, FORTALECIMIENTO Y CONSOLIDACION DEL SISTEMA DE CIENCIA Y TECNOLOGIA DEL ESTADO COMO INSTRUMENTO ESTRATEGICO PARA EL DESARROLLO DE LA ENTIDAD;
+Así, en este Capítulo IV se determina que los bienes del domino (sic) público son inalienables e imprescriptibles mientras no pierdan ese carácter; se prohíbe imponer servidumbres sobre los mismos; se dispone que será nulo de pleno derecho cualquier constitución e inscripción de gravámenes sobre dichos bienes; e incluso se establece que si un servidor público es el que comete tal acto, también será sancionado conforme a la Ley de Responsabilidades de los Servidores Públicos, desde luego, con independencia de cualquier otra sanción de diversa índole a que se haga acreedor; se previene que no pierden el carácter de bienes de dominio público los que estando destinados a un servicio público fueren aprovechados temporalmente con otro objeto, hasta en tanto la autoridad competente resuelva lo procedente.
 
-III. LA VINCULACION DE LA INVESTIGACION CIENTIFICA, EL DESARROLLO TECNOLOGICO Y LA INNOVACION, CON EL DESARROLLO SOCIOECONOMICO LOCAL, MUNICIPAL, ESTATAL, REGIONAL Y NACIONAL;
+Se regula también en este Capítulo IV el régimen a que estará sujeto el otorgamiento de concesiones, permisos y autorizaciones para el uso, aprovechamiento o explotación de los bienes de dominio público; también se prevén las causas de extinción de las concesiones y las que dan lugar a la revocación de las mismas; se deja asimismo plenamente establecido que las concesiones sobre inmuebles de dominio público no podrán ser objeto, en todo o en parte, de subconcesión, arrendamiento, comodato, gravamen o cualquier acto o contrato por virtud del cual una persona distinta al concesionario goce de los derechos derivados de tales concesiones, y en su caso, de las instalaciones o construcciones autorizadas en el título respectivo. En esta materia, como ya se ha señalado, la ley será de aplicación supletoria para los municipios.
 
-IV. LA OBTENCION, ADMINISTRACION RACIONAL, APLICACION CORRECTA Y EVALUACION TRANSPARENTE DE LOS RECURSOS QUE EL ESTADO, LOS MUNICIPIOS Y LOS PARTICULARES DESTINEN A LA CIENCIA Y LA TECNOLOGIA, ASI COMO LA CONCERTACION DE LOS QUE LA FEDERACION APORTE A LA ENTIDAD PARA ESE MISMO FIN;
+Asimismo, se dispone que a los órganos de los poderes públicos que tengan asignados bienes del servicio público, no les estará permitido realizar actos de disposición, desafectación, cambio de destino, ni conferir derechos de uso, aprovechamiento y explotación, sin contar con la autorización de la autoridad competente, y que el incumplimiento de lo anterior produce la nulidad de pleno derecho, por lo que la autoridad competente podrá proceder a la recuperación del bien respectivo siguiendo el procedimiento administrativo o judicial, según sea el caso.
 
-V. LA COORDINACION DE LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO Y LA INCORPORACION DE LOS AVANCES EN ESTA MATERIA PARA SU MODERNIZACION, OBSERVANDO Y APLICANDO LAS POLITICAS E INSTRUMENTOS PREVISTOS EN ESTE ORDENAMIENTO;
+El Capítulo V, que comprende los artículos del 29 al 43, se ocupa de regular el régimen jurídico de los bienes de dominio privado del Estado y los municipios. En él se establece que los bienes inmuebles de dominio privado son inembargables e imprescriptibles, no así los bienes muebles de tal dominio, pues éstos podrán ser materia de embargo y prescripción en los términos del Código Civil del Estado.
 
-VI. LA ORGANIZACION, ESTIMULO Y RECONOCIMIENTO DE LA COMUNIDAD CIENTIFICA;
+Se señala en este Capítulo V que los bienes inmuebles desafectados de un servicio público o de uso común, podrán ser enajenados previa autorización del Congreso, acorde con lo que previene al afecto la Constitución Política del Estado; se deja claramente previsto que no se pueden realizar operaciones con inmuebles de dominio privado, que impliquen su transmisión a favor de servidores públicos que intervengan en la operación de que se trate, ni de sus cónyuges o parientes, además de que en las operaciones traslativas de dominio el valor de los inmuebles, no podrá ser inferior al avalúo catastral que determine la dependencia respectiva.
 
-VII. LA INFORMACION CIENTIFICA Y TECNOLOGICA EN LA ENTIDAD, Y;
+De igual forma, se regulan en este apartado algunos aspectos de los contratos de permuta, donación y comodato que tengan como materia bienes del dominio privado, a fin de que con motivo de la celebración de los mismos no se vea perjudicado el interés social, y se deja establecido que los actos jurídicos, convenios o contratos que se realicen con violación a lo dispuesto en esta Ley, serán nulos de pleno derecho, sin perjuicio de las responsabilidades administrativas, civiles o penales en que incurran los servidores y notarios públicos que intervengan en tales actos, además de otras disposiciones no menos importantes, que en su conjunto seguramente darán como resultado que el régimen jurídico de los bienes que nos ocupan resulte adecuado a la naturaleza y finalidad de los mismos.
 
-VIII. LA CONSTRUCCION DE UNA SOCIEDAD DEL CONOCIMIENTO EN LA ENTIDAD.
+El Capítulo VI, que comprende de los artículos 44 al 51, se refiere al registro administrativo de inmuebles de dominio público y privado, y al efecto se señalan las dependencias estatales y municipales, a las que corresponderá llevar a cabo el registro de tales bienes, así como los actos, documentos o datos en general que serán materia de dicho registro, el que se denominará Registro Administrativo de la Propiedad Pública Estatal o Municipal, según se trate; se establecen además los casos de cancelación de las inscripciones respectivas, así como las obligaciones que contraen las instituciones privadas que utilizan, administran o tienen a su cuidado bienes de propiedad estatal o municipal, respecto de la actualización de su inventario y la rendición de los informes que al respecto se les soliciten.
 
-###### ARTICULO 2.
+Asimismo, se establece que los bienes del dominio público y privado del Estado, lo son por disposición expresa de la ley, independientemente de que no se encuentren registrados con tal carácter en el Registro Público de la Propiedad y del Comercio, razón por la que tal carácter surte efectos contra terceros atendiendo a su naturaleza y clasificación legal.
 
-LA INVESTIGACION CIENTIFICA, EL DESARROLLO TECNOLOGICO Y LA INNOVACION SON ACTIVIDADES PRIORITARIAS Y ESTRATEGICAS DEL GOBIERNO DEL ESTADO, DEL SISTEMA DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS, DE LOS SECTORES PRODUCTIVO Y SOCIAL Y, EN GENERAL, DE LOS PARTICULARES, COMO PARTE DEL QUE HACER FUNDAMENTAL PARA EL DESARROLLO INTEGRAL DE LA PERSONA, EL AVANCE DEL CONOCIMIENTO Y LA TRANSFORMACION ECONOMICA, SOCIAL Y CULTURAL DE LA SOCIEDAD EN SU CONJUNTO.
+El Capítulo VII, integrado con los artículos del 51 al 56, establece las sanciones administrativas, y precisa que las mismas se aplicarán con independencia de las penas que correspondan en el caso de que la conducta de que se trate constituya algún delito.
 
-###### ARTICULO 3.
+Por último, el Capítulo VIII incluye únicamente el artículo 57, en el que se señala que en contra de las resoluciones y actos administrativos que se dicten o ejecuten en aplicación de la presente Ley, se concede a las partes afectadas el derecho a interponer los recursos administrativos previstos en la Ley de Procedimientos Administrativos del Estado y Municipios.
 
-PARA LOS EFECTOS DE ESTA LEY SE ENTENDERA POR:
+LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-I. COCYTECH: AL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS;
+### CAPITULO I. Disposiciones Generales
 
-II. INVESTIGACION CIENTIFICA Y TECNOLOGICA: AL PROCESO SISTEMATICO DE PLANEACION, GENERACION, MEJORAMIENTO, DIVULGACION, DIFUSION, ENSEÑANZA Y APLICACION DE LOS CONOCIMIENTOS EN LAS DIVERSAS AREAS RELACIONADAS CON LA CIENCIA Y LA TECNOLOGIA, ORIENTADO A LA SATISFACCION DE LAS DEMANDAS Y EXPECTATIVAS SOCIALES, A LA PREVENCION Y ATENCION DE LAS NECESIDADES DEL DESARROLLO DE LA ENTIDAD, ASI COMO AL AVANCE DEL CONOCIMIENTO;
+###### ARTICULO 1°.
 
-III. DESARROLLO TECNOLOGICO: AL PROCESO DE APLICACION DEL CONOCIMIENTO PARA LA PRODUCCION DE BIENES O SERVICIOS;
+La presente Ley es reglamentaria de los artículos 109, 110 y 114 fracción II, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí. Sus disposiciones son de orden público e interés social. Su aplicación corresponde al Ejecutivo y a los ayuntamientos del Estado.
 
-IV. INNOVACION: LA TRANSFORMACION DE UNA IDEA EN UN PRODUCTO, PROCESO DE FABRICACION O ENFOQUE DE UN SERVICIO SOCIAL DETERMINADO, EN UNO NUEVO O MEJORADO, ASI COMO A LA TRANSFORMACION DE UNA TECNOLOGIA EN OTRA DE MAYOR UTILIDAD;
+Tratándose de concesiones que corresponda otorgar al Estado, se aplicará en todos los casos en que las leyes de la materia no prevengan un procedimiento específico, y será de aplicación supletoria para los municipios del Estado, en todo lo no previsto al respecto en la Ley Orgánica del Municipio Libre.
 
-V. VINCULACION: A LA RELACION FORMAL Y ESTRUCTURADA DE INTERCAMBIO Y COOPERACION DEL SISTEMA DE CIENCIA Y TECNOLOGIA DEL ESTADO CON LOS SECTORES PRODUCTIVO, GUBERNAMENTAL Y SOCIAL, QUE TIENE COMO OBJETIVO, PARA EL PRIMERO, AVANZAR EN EL DESARROLLO CIENTIFICO ACADEMICO Y, PARA LOS SEGUNDOS, LA SOLUCION DE PROBLEMAS CONCRETOS Y LA ATENCION DE LAS NECESIDADES Y EXPECTATIVAS DE DESARROLLO DE LA ENTIDAD. SE LLEVA A CABO MEDIANTE UNA MODALIDAD QUE A LOS INTERESADOS CONVENGA Y SE FORMALIZA EN CONTRATOS, CONVENIOS O PROGRAMAS; SE FAVORECE A TRAVES DE LA DIVULGACION, DIFUSION Y ENSEÑANZA DE LA CIENCIA Y LA TECNOLOGIA; SE GESTIONA PREFERENTEMENTE POR MEDIO DE ESTRUCTURAS ACADEMICO-ADMINISTRATIVAS ESPECIFICAS. ES OPERADO POR EL VINCULADOR O GESTOR CIENTIFICO Y TECNOLOGICO;
+###### ARTICULO 2°.
 
-VI. COMUNIDAD CIENTIFICA: AL CONJUNTO DE INVESTIGADORES, AYUDANTES DE INVESTIGACION, DOCUMENTALISTAS, VINCULADORES, DIVULGADORES, GESTORES Y ADMINISTRADORES CIENTIFICOS Y TECNOLOGICOS ADSCRITOS A LAS INSTITUCIONES Y EMPRESAS CIENTIFICAS Y TECNOLOGICAS LOCALIZADAS EN LA ENTIDAD;
+El Estado y los municipios tienen personalidad jurídica y, por tanto, y plena capacidad para adquirir y poseer bienes para la prestación de los servicios públicos y el cumplimiento de sus fines.
 
-VII. INVESTIGADOR: EL INVESTIGADOR EN CIENCIA Y TECNOLOGIA ES UN PROFESIONAL ADSCRITO A LAS INSTITUCIONES COMPRENDIDAS EN EL REGISTRO NACIONAL DE INSTITUCIONES Y EMPRESAS CIENTIFICAS Y TECNOLOGICAS, O EN EL PADRON QUE ESTABLEZCA EL COCYTECH QUE REPRESENTA LA CELULA BASICA DEL EDIFICIO DEL CONOCIMIENTO HUMANO, QUE A TRAVES DE UNA AMPLIA PREPARACION PROFESIONAL OSTENTA UN NIVEL ACADEMICO, RECONOCIDO NACIONALMENTE, DE LICENCIATURA, ESPECIALIDAD, MAESTRIA O DOCTORADO, QUE EJECUTA ACCIONES SISTEMATICAS ORIENTADAS A LA CREACION, APLICACION E INNOVACION DE CONOCIMIENTOS, PRODUCTOS, PROCESOS O METODOS Y PARTICIPA EN LA PROMOCION, GESTION, DIFUSION, DIVULGACION Y ENSEÑANZA, EN CUALQUIER AREA DE LA CIENCIA O LA TECNOLOGIA NECESARIAS PARA EL DESARROLLO DE LA SOCIEDAD DONDE SE ENCUENTRA INMERSO;
+###### ARTICULO 3°.
 
-VIII. AYUDANTE DE INVESTIGACION: AL PERSONAL TECNICO DE APOYO AL INVESTIGADOR EN EL DESARROLLO DE LOS PROYECTOS DE INVESTIGACION;
+Los bienes del dominio público y privado del Estado y municipios, estarán sujetos a las disposiciones de esta Ley y sometido a sus respectivas jurisdicciones.
 
-IX. DOCUMENTALISTA: PERSONAL DE APOYO AL INVESTIGADOR ENCARGADO DE LOCALIZAR, IDENTIFICAR, CATEGORIZAR Y SISTEMATIZAR LA INFORMACION NECESARIA PARA LA CONSTRUCCION ACTUALIZADA DEL ESTADO DEL CONOCIMIENTO CIENTIFICO Y TECNOLOGICO;
+###### ARTICULO 4°.
 
-X. VINCULADOR: PERSONAL QUE, A TRAVES DE LA DIVULGACION Y LA GESTION CIENTIFICA Y TECNOLOGICA INTERRELACIONA A LAS INSTITUCIONES PUBLICAS Y PRIVADAS EN LA APLICACION DEL CONOCIMIENTO EN LA PRODUCCION DE BIENES Y SERVICIOS;
+Los tribunales judiciales y administrativos del Estado de San Luis Potosí, en el ámbito de su competencia, conocerán de los juicios administrativos, civiles o penales, así como de los procedimientos judiciales no contenciosos, que se relacionen con bienes del dominio público o privado del Estado y municipios.
 
-XI. DIVULGADOR: AL PERSONAL DE APOYO AL INVESTIGADOR ESPECIALIZADO EN LAS TAREAS DE DIFUSION, DIVULGACION Y ENSEÑANZA DE LA CIENCIA Y LA TECNOLOGIA A TRAVES DE MEDIOS ESCRITOS, AUDIOVISUALES Y ELECTRONICOS, O LA ORGANIZACION DE FOROS, CONFERENCIAS, MESAS REDONDAS, DEMOSTRACIONES, CONGRESOS, ENTRE OTROS;
+### CAPITULO II. De los Bienes del Dominio Público y Privado del Estado y Municipios
 
-XII. GESTOR: AL PROMOTOR DE LA APLICACION DEL CONOCIMIENTO CIENTIFICO Y TECNOLOGICO, ASI COMO DE LOS INSTRUMENTOS DE GESTION PARA EL MEJORAMIENTO DE LA PRODUCTIVIDAD Y LA COMPETITIVIDAD DE LAS EMPRESAS PUBLICAS, PRIVADAS Y SOCIALES;
+###### ARTICULO 5°.
 
-XIII. ADMINISTRADOR: AL PERSONAL DE APOYO DEL INVESTIGADOR ENCARGADO DE LAS TAREAS DE GESTION Y ADMINISTRACION DE RECURSOS, NECESARIOS PARA EL DESARROLLO CIENTIFICO Y TECNOLOGICO;
+Los bienes del Estado y municipios de San Luis Potosí son:
 
-XIV. SISTEMA: AL SISTEMA DE CIENCIA Y TECNOLOGIA DEL ESTADO DEFINIDO COMO EL CONJUNTO DE SISTEMAS REGIONALES Y MUNICIPALES, INSTITUCIONES Y EMPRESAS CIENTIFICAS Y TECNOLOGICAS, PUBLICAS Y PRIVADAS, DIFERENCIADAS E INTERDEPENDIENTES, INTEGRADAS POR INVESTIGADORES, GRUPOS, CENTROS Y REDES DE INVESTIGACION Y DEMAS MIEMBROS DE LA COMUNIDAD CIENTIFICA, POR SU INFRAESTRUCTURA CIENTIFICA Y TECNOLOGICA, POR SUS PROGRAMAS DE POSGRADO Y POR SU ACERVO CIENTIFICO Y TECNOLOGICO, ACREDITADAS EN EL PADRON DEL REGISTRO NACIONAL DE INSTITUCIONES Y EMPRESAS CIENTIFICAS Y TECNOLOGICAS O EN EL PADRON QUE ESTABLEZCA EL COCYTECH, ASI COMO LOS ORGANISMOS LEGISLATIVOS, FINANCIEROS Y DE LA ADMINISTRACION PUBLICA FEDERAL, ESTATAL Y MUNICIPAL RELACIONADOS CON LA CIENCIA Y TECNOLOGIA EN LA ENTIDAD, QUE INTERACTUAN ORIENTADOS POR LA LEGISLACION, NORMATIVIDAD Y POLITICAS PUBLICAS EN LA MATERIA;
+l. Bienes del dominio público; y
 
-XV. AREAS PRIORITARIAS: A LAS AREAS DEL CONOCIMIENTO QUE POR SU IMPORTANCIA ESTRATEGICA PARA EL DESARROLLO DEL ESTADO, REQUIEREN DE ACCIONES DE GENERACION, APLICACION E INNOVACION CIENTIFICA Y TECNOLOGICA;
+II. Bienes del dominio privado.
 
-XVI. INFRAESTRUCTURA CIENTIFICA Y TECNOLOGICA: AL CONJUNTO DE BIENES MUEBLES E INMUEBLES, ASI COMO LOS RECURSOS MATERIALES NECESARIOS PARA LA REALIZACION DE LA INVESTIGACION CIENTIFICA Y TECNOLOGICA;
+###### ARTICULO 6°.
 
-XVII. PROGRAMA: AL PROGRAMA ESPECIAL DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS;
+Son bienes del dominio público del Estado y municipios, dentro de sus respectivas jurisdicciones:
 
-XVIII. INSTITUCION Y EMPRESA CIENTIFICA Y TECNOLOGICA: ORGANISMO PUBLICO O PRIVADO QUE DESARROLLA INVESTIGACION CIENTIFICA Y TECNOLOGICA, REGISTRADA EN EL REGISTRO NACIONAL DE INSTITUCIONES Y EMPRESAS CIENTIFICAS Y TECNOLOGICAS O EL PADRON DEL COCYTECH;
+l. Los de uso común;
 
-XIX. RED CIENTIFICA Y TECNOLOGICA: ASOCIACION FORMAL O INFORMAL ARTICULADA HORIZONTALMENTE DE INSTITUCIONES, INVESTIGADORES Y DEMAS INTEGRANTES DE LA COMUNIDAD CIENTIFICA, QUE INTERACTUAN ATENDIENDO A UN INTERES CIENTIFICO Y TECNOLOGICO COMUN;
+II. Los destinados a los servicios públicos y los equiparados a éstos conforme a la ley;
 
-XX. CONACYT: AL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA;
+III. Los inmuebles y muebles de valor histórico y cultural que se encuentren dentro de su territorio, y que no sean propiedad de la Federación o de particulares;
 
-XXI. JUNTA DIRECTIVA: A LA JUNTA DIRECTIVA DEL COCYTECH, Y;
+IV. Las aguas que corren dentro del territorio del Estado que no sean propiedad de la Nación, en los términos del artículo 27, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, y que se localicen en dos o más predios;
 
-XXII. CONSEJO CONSULTIVO: AL CONSEJO CONSULTIVO CIENTIFICO Y TECNOLOGICO.
+V. Los cauces, vasos y riberas de las corrientes de aguas;
 
-###### ARTICULO 4.
+VI. Los terrenos ganados natural o artificialmente a los ríos, arroyos o corrientes, lagos y lagunas;
 
-LA PRESENTE LEY TIENE COMO FINALIDAD ESTABLECER LAS NORMAS PARA:
+VII. Las servidumbres, cuando el predio dominante sea alguno de los anteriores;
 
-I. PLANEAR EL DESARROLLO DE LA CIENCIA Y LA TECNOLOGIA EN LA ENTIDAD Y PARA LA FORMULACION Y OPERACION DEL PROGRAMA, EN EL MARCO DEL SISTEMA ESTATAL DE PLANEACION, IDENTIFICANDO PRIORIDADES PARA EL DESARROLLO DEL ESTADO EN MATERIA CIENTIFICA, TECNOLOGICA Y DE INNOVACION, A FIN DE CONCRETAR Y FORTALECER LOS PROGRAMAS, ACCIONES Y RECURSOS QUE SE DESTINEN PARA TAL PROPOSITO;
+VIII. Los puentes, carreteras, caminos y vías públicas;
 
-II. INTEGRAR, INCREMENTAR Y CONSOLIDAR LA CAPACIDAD DEL SISTEMA DE CIENCIA Y TECNOLOGIA DEL ESTADO, MEDIANTE LA CREACION DE CENTROS, GRUPOS Y REDES DE INVESTIGACION, EL FORTALECIMIENTO DE SU INFRAESTRUCTURA, LA MULTIPLICACION DE PROYECTOS DE INVESTIGACION, EL IMPULSO A LA FORMACION E INTEGRACION DE CIENTIFICOS Y TECNOLOGOS DE ALTO NIVEL ACADEMICO, Y LA VINCULACION DE SUS RESULTADOS A FIN DE CONSTITUIRLE EN INSTRUMENTO PROMOTOR DEL DESARROLLO DE LA ENTIDAD;
+IX. Los montes, bosques y parques naturales de su propiedad, que se destinen a fines de interés público;
 
-III. GARANTIZAR LA VINCULACION DEL SISTEMA CON LAS INSTITUCIONES DE LOS SECTORES, GUBERNAMENTAL, PRODUCTIVO Y SOCIAL PARA QUE LA INVESTIGACION CIENTIFICA Y TECNOLOGICA CONTRIBUYA A LA PROMOCION DEL DESARROLLO, LA COMPETITIVIDAD ECONOMICA, LA TRANSFORMACION DEL SISTEMA EDUCATIVO, LA MEJORIA DE LA CALIDAD DE VIDA, EL AVANCE DEL CONOCIMIENTO Y LA TRANSFORMACION CULTURAL DE LA SOCIEDAD;
+X. Los muebles de su propiedad que no sean normalmente substituibles, como los documentos y expedientes de las oficinas, los manuscritos, incunables, ediciones, libros, mapas, planos, folletos y gravados importantes o raros, así como las colecciones de estos bienes; y
 
-IV. ESTABLECER Y REGULAR LA OBTENCION, APLICACION, CONTROL Y VIGILANCIA DE LOS RECURSOS PUBLICOS Y PRIVADOS NECESARIOS PARA EL DESARROLLO DEL SISTEMA DE CIENCIA Y TECNOLOGIA DEL ESTADO;
+XI. Los demás que señalen las leyes respectivas.
 
-V. PROMOVER E IMPULSAR LA INVERSION PUBLICA Y PRIVADA EN CIENCIA Y TECNOLOGIA COMO INVERSION PRIORITARIA, ESTRATEGICA Y TRASCENDENTE PARA EL DESARROLLO DE LA ENTIDAD;
+###### ARTICULO 7°.
 
-VI. (DEROGADA POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Son bienes del dominio privado del Estado y municipios:
 
-VII. PROMOVER LA COLABORACION INTERINSTITUCIONAL E INTERSECTORIAL EN LOS TRES NIVELES DE GOBIERNO QUE FAVOREZCA LA COORDINACION Y LA DESCENTRALIZACION DE LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS EN LA ENTIDAD;
+l. Los que ingresen a su patrimonio no comprendidos en el artículo anterior;
 
-VIII. RECONOCER Y ESTIMULAR EL QUEHACER DE LA COMUNIDAD CIENTIFICA DEL ESTADO DE CHIAPAS;
+II. Los inmuebles no comprendidos en el artículo 6° de esta Ley;
 
-IX. CREAR EL SISTEMA ESTATAL DE INVESTIGADORES;
+III. Aquellos que, de conformidad con las leyes, sean desafectados de un servicio público o del uso común;
 
-X. IDENTIFICAR, ORGANIZAR Y DIFUNDIR AMPLIAMENTE LA INFORMACION CIENTIFICA Y TECNOLOGICA;
+IV. Los que hayan formado parte de corporaciones u organismos de carácter estatal, que se extingan;
 
-XI. APOYAR LA DIFUSION, APLICACION, TRANSFERENCIA, DIVULGACION Y ENSEÑANZA DE LA CIENCIA Y LA TECNOLOGIA COMO ACCIONES FUNDAMENTALES PARA LOGRAR LA SOCIEDAD DEL CONOCIMIENTO;
+V. Los muebles al servicio de los poderes y las dependencias del Gobierno del Estado y municipios no comprendidos en la fracción X del artículo anterior; y
 
-XII. IDENTIFICAR, REVALORAR Y PRESERVAR LOS CONOCIMIENTOS TRADICIONALES DE LOS PUEBLOS INDIOS Y MESTIZOS DE CHIAPAS, ASI COMO COADYUVAR CON LAS INSTITUCIONES RESPONSABLES PARA EL RESGUARDO DE SUS DERECHOS, EN TERMINO DE LAS LEYES APLICABLES, Y;
+VI. Todas las tierras que estando situadas dentro de los límites de su territorio, carecen de otro dueño.
 
-XIII. PROMOVER EN LAS INSTITUCIONES EDUCATIVAS DE LA ENTIDAD LA INVESTIGACION CIENTIFICA Y TECNOLOGICA.
+### CAPITULO III. Disposiciones Comunes a los Capítulos I y II
 
-## TITULO SEGUNDO. DE LAS AUTORIDADES
+###### ARTICULO 8°.
 
-### CAPITULO UNICO. DEL PODER EJECUTIVO DEL ESTADO Y DE LOS MUNICIPIOS
+Son bienes de uso común, todos aquellos que pueden ser aprovechados por los habitantes del Estado y municipios, sin más limitaciones y restricciones que las establecidas por las leyes y los reglamentos administrativos, tales como:
 
-###### ARTICULO 5.
+l. Las vías terrestres de comunicación;
 
-SON AUTORIDADES COMPETENTES PARA APLICAR LA PRESENTE LEY:
+II. Los montes, bosques y aguas que no sean de la Federación, ni de propiedad particular;
 
-I.- EL EJECUTIVO DEL ESTADO;
+III. Las plazas, calles, avenidas, viaductos, paseos, jardines y parques públicos;
 
-II.- LOS AYUNTAMIENTOS; Y
+IV. Todos los inmuebles que por acuerdo del Ejecutivo del Estado, de los ayuntamientos, o decreto de la Legislatura, publicados en el Periódico Oficial del Estado, se destinen para mejorar y conservar el medio ambiente, al establecimiento de zonas de protección ecológica; de parques públicos; y centros de investigación y práctica agropecuaria o de recursos bióticos; y
 
-III.- EL COCYTECH.
+V. Los demás a los que las leyes les asignen este carácter.
 
-###### ARTICULO 6.
+Se concede acción popular para denunciar todo hecho que altere o tienda a modificar el uso, destino o aprovechamiento de los bienes de uso común.
 
-CORRESPONDE AL EJECUTIVO DEL ESTADO:
+###### ARTICULO 9°.
 
-I. PLANEAR, COORDINAR Y EVALUAR LA POLITICA GENERAL DE CIENCIA Y TECNOLOGIA ORIENTADA AL DESARROLLO DEL ESTADO;
+Son bienes destinados a un servicio público, aquéllos que utilicen los poderes del Estado y los municipios para el desarrollo de sus actividades, o los que de hecho se utilicen para la prestación de servicios públicos o actividades equiparables a ellos, tales como:
 
-II. ESTABLECER EN EL PLAN ESTATAL DE DESARROLLO Y EN LOS PROGRAMAS SECTORIALES LAS POLITICAS RELATIVAS AL FOMENTO DE LA CIENCIA Y LA TECNOLOGIA EN EL ESTADO, DE CONFORMIDAD CON LO PREVISTO EN ESTA LEY;
+l. Los destinados al servicio de los poderes públicos.
 
-III. FORMULAR, APROBAR, PUBLICAR, EJECUTAR Y EVALUAR EL PROGRAMA ESPECIAL DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS, EN EL MARCO DE LA LEY DE PLANEACION DEL ESTADO, CON LA MAS ALTA PARTICIPACION DE LA SOCIEDAD;
+II. Los inmuebles de su propiedad destinados al servicio de los gobiernos federal, estatal o municipal.
 
-IV. INTEGRAR, FORTALECER Y CONSOLIDAR EL SISTEMA, ORIENTANDO RECURSOS QUE INCREMENTEN SU CAPACIDAD MEDIANTE LA CREACION DE CENTROS, GRUPOS Y REDES DE INVESTIGACION, EL FORTALECIMIENTO DE SU INFRAESTRUCTURA, LA MULTIPLICACION DE PROYECTOS DE INVESTIGACION, EL IMPULSO A LA FORMACION E INTEGRACION DE CIENTIFICOS Y TECNOLOGOS DE ALTO NIVEL ACADEMICO, Y LA VINCULACION DE SUS RESULTADOS A FIN DE CONSTITUIRLE EN INSTRUMENTO PROMOTOR DEL DESARROLLO DE LA ENTIDAD;
+III. Los inmuebles del dominio público utilizados para la prestación de servicios públicos, como mercados, rastros, hospitales, panteones, zoológicos, jardines botánicos, museos, bibliotecas públicas, parques y los demás similares o análogos a ellos; y
 
-V. PROMOVER LA DESCENTRALIZACION DE LA CIENCIA Y LA TECNOLOGIA FOMENTANDO LA INTEGRACION Y EL FORTALECIMIENTO DE LOS SISTEMAS REGIONALES Y MUNICIPALES DE CIENCIA Y TECNOLOGIA;
+IV. Los demás a los que las leyes les asignen este carácter.
 
-VI. PROMOVER LA VINCULACION DE LA INVESTIGACION CIENTIFICA Y TECNOLOGICA CON LA EDUCACION;
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2009)</small>
 
-VII. CONSIDERAR DENTRO DE LOS PLANES, PROGRAMAS, PROYECTOS Y PRESUPUESTOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO, LAS ACCIONES Y LOS RECURSOS NECESARIOS PARA EL FORTALECIMIENTO DE LA CIENCIA, LA TECNOLOGIA Y LA INNOVACION EN GENERAL, Y EN PARTICULAR PARA EL EFICAZ CUMPLIMIENTO DEL OBJETO DE ESTA LEY;
+ARTICULO 9° BIS. Los bienes muebles destinados al servicio público, que por sus características físicas o mecánicas, sean considerados inservibles o inadecuados para la prestación del servicio correspondiente, sólo podrán enajenarse con fines de reciclaje.
 
-VIII. VIGILAR EL USO RACIONAL, EFICIENTE Y EFICAZ DE LOS RECURSOS DESTINADOS A LA CIENCIA Y LA TECNOLOGIA;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IX. LA CREACION, EL FINANCIAMIENTO Y LA OPERACION DE LOS FONDOS A QUE SE REFIERE LA PRESENTE LEY;
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-X. LA FORMULACION DE INICIATIVAS FISCALES PARA EL FINANCIAMIENTO Y PROMOCION DE LA CIENCIA Y LA TECNOLOGIA, ASI COMO EN MATERIA ADMINISTRATIVA E INDUSTRIAL, EN LOS TERMINOS DE LAS LEYES APLICABLES;
+ARTICULO 9° TER. El Ejecutivo del Estado, y los municipios, por conducto de la dependencia que corresponda, deberán llevar un padrón y registro de la propiedad inmobiliaria, con la finalidad de tener un control interno de los bienes del dominio público o privado que se encuentren dentro de su patrimonio, los que deberán ser organizados, clasificados y registrados en el Registro Público de la Propiedad y el Catastro del Estado.
 
-XI. COORDINAR E INTEGRAR LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS QUE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEL ESTADO REALICEN EN LOS TERMINOS DE LA PRESENTE LEY;
+La clasificación y registro de los bienes inmuebles del dominio público o privado se llevará de conformidad con lo que establece la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, y las demás disposiciones administrativas y contables aplicables.
 
-XII. CELEBRAR TODA CLASE DE ACTOS JURIDICOS NECESARIOS PARA EL CUMPLIMIENTO DEL OBJETO DE LA PRESENTE LEY;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XIII. EL OTORGAMIENTO DE ESTIMULOS Y RECONOCIMIENTOS A LA INVESTIGACION;
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. ORGANIZAR A LA COMUNIDAD CIENTIFICA;
+ARTICULO 9° QUÁTER. Se inscribirán en el padrón de la propiedad inmobiliaria, y deberán ser inscritos en el Registro Público de la Propiedad y el Catastro del Estado, los siguientes:
 
-XV. CONOCER, ORGANIZAR Y GARANTIZAR EL ACCESO A LA INFORMACION, EN TERMINO DE LAS LEYES APLICABLES, ACERCA DE LAS ACTIVIDADES DE INVESTIGACION CIENTIFICA Y TECNOLOGICA QUE LAS INSTITUCIONES Y EMPRESAS, PUBLICAS Y PRIVADAS, ASI COMO LOS PARTICULARES LLEVEN A CABO EN EL ESTADO;
+I. Los títulos por los cuales se adquiera, transmita, modifique o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Estado y a los municipios, sobre bienes inmuebles;
 
-XVI. LA PROMOCION Y DIVULGACION DE LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS, TENDIENTES AL FORTALECIMIENTO DE UNA SOCIEDAD DEL CONOCIMIENTO;
+II. Las resoluciones judiciales definitivas que produzcan alguno de los efectos de la fracción I de este artículo;
 
-XVII. GARANTIZAR LA PRESERVACION DE LOS CONOCIMIENTOS TRADICIONALES DE LOS PUEBLOS INDIOS Y MESTIZOS DE CHIAPAS, EN TERMINO DE LAS LEYES APLICABLES, Y;
+III. Las resoluciones expropiatorias que constituyan derechos a favor del Estado;
 
-XVIII. LAS DEMAS ATRIBUCIONES QUE SE ESTABLEZCAN EN LAS LEYES APLICABLES.
+IV. Los decretos que desafecten bienes inmuebles del dominio público del Estado y los municipios;
 
-###### ARTICULO 7.
+V. Los títulos por los que se otorgue la concesión de los bienes inmuebles del dominio público del Estado y municipios, así como la extinción de los mismos;
 
-CORRESPONDE A LOS AYUNTAMIENTOS, EN SU RESPECTIVO AMBITO MUNICIPAL:
+VI. Los bienes inmuebles que regresen al pleno dominio del Estado y municipios, con motivo de la reversión;
 
-I. ESTABLECER LAS NORMAS Y POLITICAS MUNICIPALES PARA LA PLANEACION Y EL DESARROLLO DE LA CIENCIA Y LA TECNOLOGIA;
+VII. Los bienes inmuebles del Estado y municipios que, por su naturaleza, se consideren inalienables, inembargables e imprescriptibles;
 
-II. CREAR, FINANCIAR Y OPERAR PROGRAMAS ORIENTADOS AL FORTALECIMIENTO DE LA CAPACIDAD DE SUS SISTEMAS DE CIENCIA Y TECNOLOGIA;
+VIII. Los contratos de arrendamiento de bienes inmuebles por más de seis años; y aquéllos en que haya anticipos de rentas por más de tres años, y
 
-III. ESTABLECER EN SUS PRESUPUESTOS CORRESPONDIENTES LOS RECURSOS NECESARIOS PARA LA REALIZACION DE LAS ACTIVIDADES RELACIONADAS CON LA CIENCIA Y LA TECNOLOGIA;
+IX. Los demás títulos que se equiparen a los anteriores.
 
-IV. REALIZAR LAS ACCIONES NECESARIAS PARA IMPULSAR LA CIENCIA Y LA TECNOLOGIA EN COORDINACION CON OTROS MUNICIPIOS, CON EL EJECUTIVO DEL ESTADO Y CON EL COCYTECH;
-
-V. CONOCER, ORGANIZAR Y DIFUNDIR, EN TERMINOS DE LAS LEYES APLICABLES, LA INFORMACION ACERCA DE LAS ACTIVIDADES DE INVESTIGACION CIENTIFICA Y TECNOLOGICA QUE LAS INSTITUCIONES Y EMPRESAS PUBLICAS Y PRIVADAS, ASI COMO LOS PARTICULARES LLEVEN A CABO EN EL MUNICIPIO;
-
-VI. IDENTIFICAR, REVALORAR Y PRESERVAR LOS CONOCIMIENTOS TRADICIONALES DE LOS HABITANTES DEL MUNICIPIO, ASI COMO COADYUVAR CON LAS INSTITUCIONES RESPONSABLES PARA EL RESGUARDO DE SUS DERECHOS, EN TERMINOS DE LAS LEYES APLICABLES;
-
-VII. PROMOVER LA INCORPORACION DE LOS AVANCES DE LA CIENCIA Y LA TECNOLOGIA EN EL DESARROLLO SOCIAL, URBANO, ECONOMICO, CULTURAL Y AMBIENTAL DEL MUNICIPIO, ASI COMO EN EL FORTALECIMIENTO DE SUS CAPACIDADES TECNICAS Y ADMINISTRATIVAS;
-
-VIII. PARTICIPAR EN LOS ORGANOS DE CONSULTA A QUE SE REFIERE ESTA LEY;
-
-IX. FOMENTAR LA REALIZACION DE ACTIVIDADES DE DIFUSION, DIVULGACION Y ENSEÑANZA DE LA CIENCIA Y LA TECNOLOGIA;
-
-X. APOYAR LA FORMACION DE RECURSOS HUMANOS DE ALTO NIVEL ACADEMICO, Y;
-
-XI. REALIZAR AQUELLAS OTRAS ACTIVIDADES QUE SE PREVEAN EN ESTA LEY O EN OTROS ORDENAMIENTOS Y QUE TENGAN COMO FINALIDAD ALCANZAR EL DESARROLLO MUNICIPAL A TRAVES DE LAS ACCIONES RELACIONADAS CON EL FORTALECIMIENTO Y LA PROMOCION DE LA CIENCIA Y LA TECNOLOGIA.
-
-LOS MUNICIPIOS PODRAN SOLICITAR AL COCYTECH LA ASESORIA TECNICA NECESARIA PARA LA FORMULACION, EJECUCION Y EVALUACION DE SUS POLITICAS Y ACCIONES EN MATERIA DE CIENCIA Y TECNOLOGIA Y PARA EL CUMPLIMIENTO DE LA PRESENTE LEY.
-
-### CAPITULO PRIMERO. DE SU NATURALEZA
-
-###### ARTICULO 8.
-
-COMPETE AL PODER EJECUTIVO DEL ESTADO, A TRAVES DEL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS, LA APLICACION Y VIGILANCIA GENERAL DE LA PRESENTE LEY, EN LOS TERMINOS QUE LA MISMA ESTABLECE, ASI COMO SU DIVULGACION ENTRE LA POBLACION.
-
-> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
-
-## TITULO TERCERO. DEL CONSEJO DE CIENCIA Y TECNOLOGIA
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
-
-###### ARTICULO 9.
-
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
-
-### CAPITULO SEGUNDO. DE SUS OBJETIVOS Y FUNCIONES
+### CAPITULO IV. Régimen Jurídico de los Bienes de Dominio Público del Estado y Municipios
 
 ###### ARTICULO 10.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
-
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
+Los bienes del dominio público son inalienables, imprescriptibles e inembargables, mientras no pierdan este carácter, y no podrán ser objeto de hipoteca, ni reportar en provecho de persona alguna, derechos de uso, usufructo, habitación o servidumbre pasiva en los términos del derecho común.
 
 ###### ARTICULO 11.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Los órganos de gobierno y los particulares sólo podrán adquirir sobre el uso, aprovechamiento y explotación de los bienes destinados a un servicio público, los derechos que la ley establezca.
 
 ###### ARTICULO 12.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
-
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
+No podrá imponerse servidumbre pasiva alguna sobre bienes del dominio público en los términos de la legislación civil. Los derechos de tránsito, de luz y otros semejantes, se regirán exclusivamente por las leyes y reglamentos administrativos.
 
 ###### ARTICULO 13.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Serán nulos de pleno derecho los actos por los que se constituyan o inscriban gravámenes sobre bienes de dominio público.
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
+La infracción a lo dispuesto en este artículo por parte de servidores públicos, será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 ###### ARTICULO 14.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
-
-#### SECCION SEGUNDA. DE LA JUNTA DIRECTIVA
+No pierden su carácter de bienes de dominio público los que, estando destinados a un servicio público, de hecho o por derecho fueren aprovechados temporalmente, en todo o en parte, en otro objeto que no pueda considerarse como servicio público, hasta en tanto la autoridad competente resuelva lo procedente.
 
 ###### ARTICULO 15.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Podrá otorgarse a los particulares el uso, aprovechamiento o explotación de los inmuebles del dominio público mediante concesión, autorización, permiso o licencia, según sea el caso, conforme las disposiciones y requisitos señalados en la ley.
+
+Sólo podrán otorgarse concesiones, permisos, licencias o autorizaciones, sobre bienes de dominio público, cuando concurran causas del interés público.
 
 ###### ARTICULO 16.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Las concesiones sobre bienes de dominio público no crean derechos reales; otorgan solamente frente a la administración y sin perjuicio de terceros, el derecho a realizar los usos, aprovechamientos o explotaciones de acuerdo con las reglas y condiciones que establezcan las leyes y el acto o título de la concesión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 17.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Salvo lo establecido en otras leyes, las concesiones sobre bienes inmuebles del dominio público podrán otorgarse hasta por un plazo de treinta años, el cual podrá ser prorrogado por un solo plazo de quince años como máximo, a juicio del Ejecutivo del Estado o de los ayuntamientos, según sea el caso, atendiendo tanto para el otorgamiento de la concesión, como para la prórroga, lo siguiente:
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
+l. Que se justifique que el Estado se encuentra impedido o imposibilitado para prestar el servicio por sí mismo;
 
-#### SECCION TERCERA. DEL CONSEJO CONSULTIVO Y DE LAS COMISIONES TECNICAS
+II. El monto de la inversión que el concesionario pretenda aplicar;
+
+III. El plazo de amortización de la inversión realizada;
+
+IV. El beneficio social y económico que se derive del servicio concesionado;
+
+V. La necesidad de la actividad o servicio materia de la concesión;
+
+VI. El cumplimiento de las obligaciones a cargo del concesionario; y
+
+VII. La reinversión que se haga para el mejoramiento de las instalaciones o del servicio concesionado.
+
+Al término del primer plazo de la concesión, las obras, instalaciones y los bienes dedicados a la explotación de la concesión revertirán a favor del Estado, según sea el caso. En caso de prórroga o de otorgamiento de una nueva concesión, tendrá preferencia el concesionario original, y para la fijación del monto de los derechos se deberán de considerar, además del terreno, las obras, instalaciones y demás bienes dedicados a la explotación de la concesión.
+
+El concesionario original tendrá la preferencia mencionada en el párrafo que antecede, siempre que haya cumplido con las obligaciones contenidas en el título de concesión.
 
 ###### ARTICULO 18.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Las concesiones sobre inmuebles de dominio público se extinguen por cualquiera de las causas siguientes:
+
+l. Vencimiento del término por el que se haya otorgado;
+
+II. Renuncia del concesionario;
+
+III. Desaparición de su finalidad o del bien objeto de la concesión;
+
+IV. Nulidad, revocación y caducidad;
+
+V. Declaratoria de rescate; y
+
+VI. Cualquiera otra prevista en las leyes, reglamentos, disposiciones administrativas o en la concesión misma que a juicio de la autoridad que la haya otorgado, haga imposible e inconveniente su continuación.
 
 ###### ARTICULO 19.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Las concesiones sobre inmuebles de dominio público podrán ser revocadas por cualquiera de las causas siguientes:
+
+l. Dejar de cumplir con el fin para el que fue otorgada la concesión, o dar al bien objeto de la misma un uso distinto al autorizado;
+
+II. Dejar de cumplir con las condiciones a que se refiere el otorgamiento de la concesión o infringir lo dispuesto en esta Ley y sus reglamentos;
+
+III. Dejar de pagar en forma oportuna la contraprestación que, en su caso, se haya fijado en la concesión;
+
+IV. Realizar obras no autorizadas; y
+
+V. Las demás previstas en esta Ley, en sus reglamentos o en las propias concesiones.
 
 ###### ARTICULO 20.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+La nulidad, la revocación y la caducidad de las concesiones sobre los bienes de dominio público, cuando procedan conforme a la ley, se dictarán por autoridad administrativa que las haya otorgado, previa garantía de audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga, en términos de la Ley de Procedimientos Administrativos del Estado.
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
-
-#### SECCION CUARTA. DE LA DIRECCION GENERAL
+Cuando la nulidad se funde en error, y no en la violación de la ley o en la falta de los supuestos para el otorgamiento de la concesión, ésta podrá ser confirmada por la autoridad administrativa competente, tan pronto como cese tal circunstancia. En los casos de nulidad de la concesión sobre bienes de dominio público, la autoridad queda facultada para limitar los efectos de la resolución, cuando, a su juicio, el concesionario haya procedido de buena fe.
 
 ###### ARTICULO 21.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+En el caso de que la autoridad declare la nulidad, revocación o caducidad de una concesión, por causa imputable al concesionario, los bienes materia de la concesión, sus mejoras y accesiones revertirán de pleno derecho, control y administración del gobierno estatal o municipal, según se trate, sin pago de indemnización alguna al concesionario. Si éstas declaraciones se producen antes del término previsto en las mismas, el derecho de reversión de los inmuebles afectos se ejercerá en la parte proporcional al tiempo transcurrido de la propia concesión.
 
 ###### ARTICULO 22.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Las concesiones sobre inmuebles de dominio público no podrán ser objeto, en todo o en parte, de subconcesión, arrendamiento, comodato, gravamen o cualquier acto o contrato por virtud del cual una persona distinta al concesionario, goce de los derechos derivados de tales concesiones y, en su caso, de las instalaciones o construcciones autorizadas en el título respectivo.
+
+Los derechos y obligaciones derivados de las concesiones sobre inmuebles de dominio público, sólo podrán cederse con la autorización previa y expresa de la autoridad que las hubiere otorgado, exigiendo al concesionario que reúna los mismos requisitos y condiciones que se tuvieron en cuenta para el otorgamiento de la concesión respectiva.
+
+Cualquier operación que se realice en contra de lo dispuesto en este artículo será nula de pleno derecho, y el concesionario perderá a favor del Estado, los derechos que deriven de la concesión y los bienes afectos a ella.
+
+Sin perjuicio de las sanciones a que se hagan acreedores los concesionarios por permitir que un tercero aproveche o explote los bienes de dominio público, las cantidades que éstos obtengan, se considerarán créditos fiscales.
 
 ###### ARTICULO 23.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Las concesiones sobre bienes de dominio público podrán rescatarse por causa de utilidad pública o interés público, mediante indemnización, cuyo monto será fijado por peritos legalmente registrados.
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
+La declaratoria de rescate hará que los bienes materia de la concesión vuelvan, de pleno derecho, desde la fecha de la declaratoria, a la posesión, control y administración del Gobierno del Estado, y que ingresen al patrimonio de éste los bienes, equipo e instalaciones destinados directa o inmediatamente a los fines de la concesión. Podrá autorizarse al concesionario a retirar y a disponer de los bienes, equipo e instalaciones de su propiedad afectos a la concesión, cuando los mismos no fueren útiles al Gobierno del Estado y puedan ser aprovechados por el concesionario; pero, en este caso, su valor real actual no se incluirá en el monto de la indemnización.
 
-#### SECCION QUINTA. DEL CONTROL Y VIGILANCIA
+En la declaratoria de rescate se establecerán las bases generales que servirán para fijar el monto de la indemnización que haya de cubrirse al concesionario; pero en ningún caso podrá tomarse como base para fijarlo, el valor intrínseco de los bienes concesionados.
+
+Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme, el importe de la indemnización se determinará por la autoridad judicial, observando en lo aplicable el procedimiento y términos previstos en el Capítulo IV de la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí.
 
 ###### ARTICULO 24.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Los bienes de dominio público que lo sean por disposición de la autoridad, podrán ser enajenados, previo decreto de desincorporación, cuando dejen de ser útiles para la prestación de servicios públicos. Para proceder a la desincorporación de un bien del dominio público, previamente deberán cumplirse las condiciones y seguirse el procedimiento establecido en esta Ley y en sus disposiciones reglamentarias.
 
 ###### ARTICULO 25.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Los órganos de los poderes públicos del Estado y de los municipios que tengan destinados o asignados bienes del dominio público, no podrán realizar ningún acto de disposición, desafectación, cambio de destino o usuario, ni conferir derechos de uso, aprovechamiento y explotación, sin contar con la autorización de la autoridad competente.
+
+El incumplimiento a lo dispuesto en el párrafo anterior, producirá la nulidad de pleno derecho del acto respectivo, y la autoridad competente podrá proceder a la recuperación del inmueble, siguiendo el procedimiento administrativo o judicial, según sea el caso.
+
+También procede la recuperación en los términos de este artículo, cuando quien use o se aproveche de los bienes del dominio público, estatales o municipales, no cuente con la concesión respectiva, o ésta se haya extinguido por cancelación, anulación, revocación o caducidad.
 
 ###### ARTICULO 26.
 
-(DEROGADO POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+Los servidores públicos y los particulares se abstendrán de ocupar y habitar para beneficio propio, los inmuebles destinados a un servicio público, del Estado o del municipio. Esta disposición no regirá cuando se trate de personas que por razón de la función del inmueble, deban habitarlo u ocuparlo, o de servidores públicos que con motivo del desempeño de su cargo, sea necesario que habiten el Inmueble en cuestión.
 
-## TITULO CUARTO. DEL FORTALECIMIENTO Y CONSOLIDACION
-
-DEL SISTEMA ESTATAL DE CIENCIA Y TECNOLOGIA
+Corresponde a las dependencias y entidades públicas que tengan destinados a su servicio los inmuebles, la observancia y aplicación de este precepto.
 
 ###### ARTICULO 27.
 
-CORRESPONDE AL EJECUTIVO DEL ESTADO APROBAR Y PUBLICAR EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO EL PROGRAMA ESTATAL DE CIENCIA Y TECNOLOGIA, EL CUAL TENDRA POR OBJETO FIJAR LAS POLITICAS ESTATALES PARA IMPULSAR Y FORTALECER LA GENERACION, DIFUSION, DIVULGACION Y APLICACION DE LA CIENCIA Y TECNOLOGIA EN LA ENTIDAD, ASI COMO SU REVISION ANUAL.
-
-EN LA ELABORACION DEL PROGRAMA SE PROMOVERA LA PARTICIPACION DE LOS DISTINTOS GRUPOS SOCIALES Y SECTORES DE LA ENTIDAD EN LOS TERMINOS DE LA LEGISLACION DE PLANEACION PARA EL ESTADO DE CHIAPAS.
+Pueden aprovecharse de los bienes de uso común todos los habitantes del Estado, con las restricciones establecidas por la ley; pero para aprovechamientos especiales, se necesita permiso otorgado con los requisitos que prevengan las leyes respectivas.
 
 ###### ARTICULO 28.
 
-EL PROGRAMA SERA ELABORADO POR LA DIRECCION GENERAL DEL COCYTECH, CON LA ASESORIA DE LA SECRETARIA DE PLANEACION Y DE ACUERDO CON LAS PROPUESTAS QUE LE PRESENTEN LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL QUE APOYEN O REALICEN INVESTIGACION CIENTIFICA Y TECNOLOGICA.
+Corresponde al Honorable Congreso del Estado, decretar la desafectación de bienes destinados al servicio público o al uso común, en los términos de la Constitución Política del Estado, la Ley Orgánica del Poder Legislativo, el Reglamento Interior del Congreso, y demás leyes aplicables.
 
-EN LA ELABORACION DEL PROGRAMA SE TOMARAN EN CUENTA, ADEMAS, LAS PROPUESTAS DE LAS COMUNIDADES CIENTIFICAS Y TECNOLOGICAS, LAS QUE FORMULEN LAS INSTITUCIONES DE EDUCACION SUPERIOR, ASI COMO AQUELLAS QUE SURJAN DE LOS ORGANOS DE GOBIERNO Y DE LOS ORGANOS CONSULTIVOS DE PARTICIPACION CIUDADANA DEL COCYTECH.
-
-### CAPITULO TERCERO. DEL PATRIMONIO
+### CAPITULO V. Régimen Jurídico de los Bienes de Dominio Privado del Estado y Municipios
 
 ###### ARTICULO 29.
 
-EL PROGRAMA DEBERA CONTENER, CUANDO MENOS, LOS SIGUIENTES ASPECTOS:
+Los bienes del dominio privado estarán sujetos a las disposiciones de este Capítulo, y serán utilizados por los poderes del Estado y los municipios para el desarrollo de sus actividades, en tanto no se declaren bienes de uso común o se destinen a un servicio público.
 
-I. EL ENTORNO Y LAS POLITICAS GENERALES DE CIENCIA Y LA TECNOLOGIA;
-
-II. EL DIAGNOSTICO, OBJETIVOS, POLITICAS, ESTRATEGIAS Y LA PROGRAMACION DE ACCIONES PRIORITARIAS CON SUS CORRESPONSABILIDADES EN MATERIA DE:
-
-a) LAS NECESIDADES ESENCIALES PARA EL DESARROLLO DEL ESTADO;
-
-b) LA INVESTIGACION CIENTIFICA Y TECNOLOGICA;
-
-c) LA VINCULACION;
-
-d) EL SISTEMA;
-
-e) LA FORMACION DE INVESTIGADORES, TECNOLOGOS Y PROFESIONALES DE ALTO NIVEL;
-
-f) LA INFRAESTRUCTURA CIENTIFICA Y TECNOLOGICA;
-
-g) LA DIFUSION Y FOMENTO DEL CONOCIMIENTO CIENTIFICO Y TECNOLOGICO;
-
-h) LA ADMINISTRACION DE LA CIENCIA Y LA TECNOLOGIA;
-
-i) EL FINANCIAMIENTO;
-
-j) EL SEGUIMIENTO Y EVALUACION.
-
-III. PRECISAR LOS INSTRUMENTOS JURIDICOS, ADMINISTRATIVOS, FINANCIEROS Y DE COORDINACION APLICABLES PARA SU EJECUCION.
+Los bienes del dominio privado pasarán a formar parte del dominio público cuando sean destinados al uso común, a un servicio público o a alguna de las actividades que se equiparan a los servicios públicos, o de hecho se utilicen en esos fines.
 
 ###### ARTICULO 30.
 
-LOS PRINCIPIOS QUE REGIRAN LOS APOYOS QUE EL EJECUTIVO DEL ESTADO OTORGUE PARA FORTALECER LA INVESTIGACION CIENTIFICA, EL DESARROLLO TECNOLOGICO Y LA INNOVACION EN GENERAL, ASI COMO EN PARTICULAR LOS PROYECTOS DE CIENCIA Y TECNOLOGIA, SERAN LOS SIGUIENTES:
-
-I. LOS PROYECTOS PROPUESTOS DEBERAN ATENDER LAS DEMANDAS Y LA PROBLEMATICA EN CIENCIA Y TECNOLOGIA DEL ESTADO Y SUS DIVERSOS SECTORES Y SE ORIENTARAN, EN SU CASO, HACIA LA GENERACION, INNOVACION, DIFUSION Y APLICACION DEL CONOCIMIENTO CIENTIFICO Y TECNOLOGICO;
-
-II. LOS APOYOS OTORGADOS DEBERAN PROCURAR LA COLABORACION INTERINSTITUCIONAL Y LA VINCULACION DE LAS INSTITUCIONES CIENTIFICAS Y TECNOLOGICAS CON LOS SECTORES DEL ESTADO, EL DESARROLLO ARMONICO DE LA PLANTA CIENTIFICA Y TECNOLOGICA DE LA ENTIDAD, Y ESTARAN ENCAMINADOS HACIA LA CONSOLIDACION Y EL CRECIMIENTO DE LAS COMUNIDADES CIENTIFICAS;
-
-III. SE PROMOVERA LA CONSERVACION, CONSOLIDACION, ACTUALIZACION Y DESARROLLO DE LA INFRAESTRUCTURA ESTATAL DE INVESTIGACION EXISTENTE, ASI COMO LA CREACION DE NUEVAS UNIDADES DE INVESTIGACION, CUANDO ESTO SEA NECESARIO;
-
-IV. LOS APOYOS A LAS ACTIVIDADES DE CIENCIA Y TECNOLOGIA DEBERAN SER OPORTUNOS Y SUFICIENTES PARA GARANTIZAR SU CONTINUIDAD EN BENEFICIO DE SUS RESULTADOS;
-
-V. SE PROCURARA QUE LOS PROYECTOS QUE RECIBAN APOYO, LOGREN EL MAYOR EFECTO BENEFICO EN LOS AMBITOS DE LA EDUCACION Y EL APRENDIZAJE DE LA CIENCIA Y LA TECNOLOGIA;
-
-VI. LOS INSTRUMENTOS DE APOYO NO AFECTARAN LA LIBRE INVESTIGACION CIENTIFICA Y TECNOLOGICA, SIN PERJUICIO DE LA REGULACION O LIMITACIONES QUE POR MOTIVOS DE SEGURIDAD, DE SALUD, DE ETICA O DE CUALQUIER OTRA CAUSA DE INTERES PUBLICO DETERMINEN LAS DISPOSICIONES LEGALES QUE RESULTEN APLICABLES;
-
-VII. LOS RESULTADOS DE LOS PROYECTOS QUE SEAN OBJETO DE LOS APOYOS A QUE SE REFIERE ESTA LEY SERAN EVALUADOS Y TOMADOS EN CUENTA PARA EL OTORGAMIENTO DE POSTERIORES APOYOS;
-
-VIII. SE PROCURARA LA CONCURRENCIA DE RECURSOS PUBLICOS Y PRIVADOS PARA LA GENERACION, LA EJECUCION Y DIFUSION DE LOS PROYECTOS DE INVESTIGACION CIENTIFICA Y TECNOLOGICA, ASI COMO DE FORMACION, PROMOCION Y CAPACITACION DE RECURSOS HUMANOS DE ALTO NIVEL ACADEMICO;
-
-IX. SE PROMOVERA A TRAVES DE LOS DIVULGADORES CIENTIFICOS, LA DIVULGACION Y DIFUSION DE LA CIENCIA Y LA TECNOLOGIA, TANTO EN LAS INSTITUCIONES EDUCATIVAS DEL ESTADO COMO EN LA SOCIEDAD, CON EL PROPOSITO DE AMPLIAR Y FORTALECER LA CULTURA CIENTIFICA Y TECNOLOGICA EN LA ENTIDAD;
-
-X. LAS PERSONAS Y ENTIDADES QUE REALICEN INVESTIGACION Y DESARROLLO TECNOLOGICO Y RECIBAN APOYOS POR PARTE DEL EJECUTIVO DEL ESTADO DEBERAN DIVULGAR Y DIFUNDIR EN LA SOCIEDAD CON APOYO DE LOS DIVULGADORES CIENTIFICOS SUS ACTIVIDADES Y LOS RESULTADOS DE SUS INVESTIGACIONES, SIN PERJUICIO DE LOS DERECHOS DE PROPIEDAD INDUSTRIAL O INTELECTUAL Y DE LA INFORMACION QUE POR RAZON DE SU NATURALEZA DEBA RESERVARSE;
-
-XI. PARA OTORGAR EL APOYO, EL EJECUTIVO DEL ESTADO CONVENDRA CON LAS PERSONAS FISICAS O MORALES QUE LLEVEN A CABO ACTIVIDADES DE INVESTIGACION Y EN SU CASO, CON QUIENES CONCURRAN EN EL FINANCIAMIENTO DE DICHAS ACTIVIDADES, LOS TERMINOS EN QUE SE EFECTUARA LA DISTRIBUCION DE LOS DERECHOS DE PROPIEDAD INDUSTRIAL O INTELECTUAL DERIVADOS DE LAS MISMAS, CUANDO ASI PROCEDA; Y
-
-XII. LAS ACTIVIDADES DE INVESTIGACION, DESARROLLO E INNOVACION QUE LLEVEN A CABO DIRECTAMENTE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA DEBERAN PROCURAR LA IDENTIFICACION Y SOLUCION DE PROBLEMAS Y RETOS DE INTERES GENERAL, CONTRIBUIR AL AVANCE DEL CONOCIMIENTO, PERMITIR MEJORAR LA CALIDAD DE VIDA DE LA POBLACION Y DEL MEDIO AMBIENTE Y APOYAR LA FORMACION DE RECURSOS HUMANOS ESPECIALIZADOS EN CIENCIA Y TECNOLOGIA, SIN PERJUICIO DE LA LIBERTAD DE INVESTIGACION DE LAS PERSONAS NI DE LA AUTONOMIA DE LAS INSTITUCIONES.
-
-### CAPITULO TERCERO. DE LA FORMACION DE RECURSOS HUMANOS
+Los inmuebles del dominio privado son inembargables e imprescriptibles. Los bienes muebles de dominio privado son embargables y prescriptibles en los términos del Código Civil.
 
 ###### ARTICULO 31.
 
-EL COCYTECH FORMULARA LAS NORMAS Y LOS CRITERIOS PARA LA ELABORACION DE PROGRAMAS QUE TENGAN POR OBJETO LA FORMACION DE RECURSOS HUMANOS DE ALTO NIVEL ACADEMICO EN LAS DIVERSAS AREAS DE LA CIENCIA Y LA TECNOLOGIA.
+Los bienes inmuebles del dominio privado podrán ser enajenados previa autorización del Honorable Congreso del Estado, mediante los requisitos que previene la Constitución Política del Estado y las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 32.
 
-PARA LA FORMACION DE RECURSOS HUMANOS ORIENTADOS A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA EL COCYTECH DEBERA:
+Los bienes muebles del domino privado que dejen de tener utilidad para la administración pública, o hayan sufrido menoscabo, o perdido las propiedades necesarias para prestar el servicio a que estén destinados, podrán ser enajenados por las autoridades que corresponda, mediante subasta pública. Para este caso, se deberá realizar un dictamen expedido por perito registrado, y fe notarial en la que se asiente el estado que guardan los bienes muebles objetos de la subasta, con las certificaciones de que los mismos carecen de valor artístico, y de que no forman parte del patrimonio histórico, conforme a la ley de la materia.
 
-I. PROMOVER EN LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA Y EN LOS SECTORES ACADEMICO, EMPLEADOR Y SOCIAL ACCIONES Y ESTRATEGIAS PARA LA FORMACION DE RECURSOS HUMANOS DE ALTO NIVEL ACADEMICO;
+En el caso de los municipios, para poder llevar a cabo la enajenación correspondiente, ésta deberá ser autorizada por cuando menos las dos terceras partes de los integrantes del Cabildo, y cuando se haya tomado el acuerdo correspondiente, por escrito deberá solicitar al Honorable Congreso del Estado, la autorización para la enajenación de los bienes muebles del dominio privado, debiendo la Legislatura expedir el decreto correspondiente, aprobando o negando la enajenación según se estime conveniente- además, deberán integrar al expediente que se constituya para tal efecto, lo siguiente:
 
-II. PROMOVER LA CREACION Y CONSOLIDACION DE PROGRAMAS DE POSGRADO DE ALTO NIVEL EN EL ESTADO;
+a) Factura o certificado de propiedad de cada uno de los bienes muebles del dominio privado que se pretendan enajenar. En caso de no contar con alguno de estos documentos, se podrá presentar una testimonial notariada de que los bienes muebles que se pretenden enajenar, son de propiedad municipal.
 
-III. PROMOVER PROGRAMAS DE APOYOS Y BECAS PARA LA REALIZACION DE ESTUDIOS DE POSGRADO ENCAMINADOS A LA FORMACION DE LOS RECURSOS HUMANOS QUE SATISFAGAN LAS NECESIDADES DEL CONOCIMIENTO Y LA INVESTIGACION EN LAS AREAS PRIORITARIAS DEL ESTADO; Y
+b) Avalúo de los bienes muebles del dominio privado que se pretendan enajenar con una antigüedad máxima de tres meses, expedido por perito inscrito en el Registro Estatal de Peritos.
 
-IV. APOYAR LA INTEGRACION DE LAS COMUNIDADES CIENTIFICA Y TECNOLOGICA DEL ESTADO.
+c) Copia certificada del registro vigente del perito que efectúo el avalúo de los bienes muebles del dominio privado.
 
-### CAPITULO CUARTO. DE LA DIVULGACION, DIFUSION Y FOMENTO DE LA CULTURA CIENTIFICA
+d) Certificación actual de que los bienes muebles del dominio privado que se pretenden enajenar, carecen de valor artístico.
+
+e) Certificación actual de que los bienes muebles del dominio privado que se pretenden enajenar, no forman parte del patrimonio histórico.
+
+f) Mínimo una fotografía reciente de cada uno de los bienes muebles del dominio privado que se pretenden enajenar.
+
+g) Copia certificada del acta de cabildo en donde se haya aprobado, por cuando menos las dos terceras partes de sus integrantes, la venta de los bienes muebles así como indicar el destino que se le dará a los recursos obtenidos por la venta de los mismos.
+
+h) Las demás que el Honorable Congreso del Estado solicite, para emitir el dictamen respectivo.
+
+En el caso de dependencias o entidades de los poderes del Estado, para poder llevar a cabo la enajenación correspondiente, ésta deberá ser autorizada por quienes tengan dicha competencia, conforme a sus propios ordenamientos, y cuando se haya tomado el acuerdo correspondiente, se deberá solicitar al Honorable Congreso del Estado la autorización para la enajenación de los bienes muebles del dominio privado, debiendo la Legislatura expedir el decreto correspondiente; además, deberán integrar al expediente que se constituya para tal efecto, lo siguiente:
+
+I. Factura o certificado de propiedad de cada uno de los bienes muebles del dominio privado que se pretendan enajenar. En caso de no contar con alguno de estos documentos, se podrá presentar una testimonial notariada de que los bienes muebles que se pretenden enajenar, son de propiedad estatal;
+
+II. Avalúo de los bienes muebles del dominio privado que se pretendan enajenar con una antigüedad máxima de tres meses, expedido por perito inscrito en el Registro Estatal de Peritos;
+
+III. Copia certificada del registro vigente del perito que efectúo el avalúo de los bienes muebles del dominio privado;
+
+IV. Certificación actual de que los bienes muebles del dominio privado que se pretenden enajenar, carecen de valor artístico.
+
+V. Certificación actual de que los bienes muebles del dominio privado que se pretenden enajenar, no forman parte del patrimonio histórico.
+
+VI. Mínimo una fotografía reciente de cada uno de los bienes muebles del dominio privado que se pretenden enajenar, y
+
+VII. Las demás que el Honorable Congreso del Estado solicite, para emitir el dictamen respectivo.
+
+Los procesos de subasta pública se llevarán a cabo con la participación y vigilancia de las contralorías internas de las autoridades respectivas; y se deberá informar a la ciudadanía cuando menos diez días hábiles anteriores a la celebración de las mismas, mediante dos publicaciones, en días consecutivos, en los dos diarios de mayor circulación en el Estado, indicando los bienes, el lugar, la fecha y hora de la subasta de los mismos.
 
 ###### ARTICULO 33.
 
-PARA DESARROLLAR, FORTALECER Y CONSOLIDAR UNA CULTURA CIENTIFICA EN LA SOCIEDAD, EL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS, EN SU CASO, PROMOVERAN LA PARTICIPACION DE LOS SECTORES GUBERNAMENTAL, ACADEMICO, EMPLEADOR Y SOCIAL EN LA DIVULGACION Y DIFUSION DE LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS.
-
-ASIMISMO, FOMENTARAN LA REALIZACION DE ACTIVIDADES ORIENTADAS A LA DIVULGACION DE LA CIENCIA Y LA TECNOLOGIA AL INTERIOR DE LAS DEPENDENCIAS Y ENTIDADES QUE CONFORMEN LA ADMINISTRACION PUBLICA. LA PARTICIPACION DE LOS DIVULGADORES CIENTIFICOS SERA FUNDAMENTAL EN ESTE PROPOSITO.
+En ningún caso podrán realizarse operaciones con inmuebles del dominio privado del Estado y municipios, que impliquen la transmisión del dominio en favor de servidores públicos que hayan intervenido directamente en el procedimiento u operación respectiva, de sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, o civiles, o de terceros con los que aquéllos tengan vínculos de negocios.
 
 ###### ARTICULO 34.
 
-EN EL AMBITO DE SUS RESPECTIVAS COMPETENCIAS Y DE ACUERDO CON LAS NECESIDADES DEL ESTADO, LA DEMANDA SOCIAL Y LOS RECURSOS DISPONIBLES, LOS SECTORES GUBERNAMENTAL, ACADEMICO, EMPLEADOR Y SOCIAL PROCURARAN:
-
-I. PROMOVER LA CONSERVACION, CONSOLIDACION, ACTUALIZACION Y DESARROLLO DE LA INFRAESTRUCTURA DESTINADA A LA DIVULGACION Y DIFUSION DE LA CIENCIA Y LA TECNOLOGIA EN GENERAL;
-
-II. FOMENTAR LA REALIZACION DE ACTIVIDADES QUE PROPICIEN EL INTERCAMBIO DE INFORMACION EN MATERIA DE CIENCIA Y TECNOLOGIA, EL INTERCAMBIO DE IDEAS Y EL DESARROLLO DEL CONOCIMIENTO;
-
-III. IMPULSAR LA CREACION DE PROGRAMAS Y ESPACIOS FORMATIVOS, RECREATIVOS E INTERACTIVOS, CON LA FINALIDAD DE DESARROLLAR EN LA POBLACION EN GENERAL EL INTERES POR LA FORMACION CIENTIFICA Y TECNOLOGICA; Y
-
-IV. PROMOVER LA PRODUCCION Y EMISION POR MEDIOS ESCRITOS, AUDIOVISUALES Y ELECTRONICOS DE MATERIALES CUYA FINALIDAD SEA LA DIVULGACION DEL CONOCIMIENTO CIENTIFICO Y TECNOLOGICO.
-
-### CAPITULO QUINTO. DE LA COORDINACION Y DESCENTRALIZACION
+En las operaciones traslativas de dominio, el valor de los inmuebles no podrá ser inferior al avalúo catastral que determine la autoridad competente en los términos de la ley de la materia.
 
 ###### ARTICULO 35.
 
-EL EJECUTIVO DEL ESTADO PODRA SUSCRIBIR CONVENIOS DE COORDINACION Y COLABORACION CON LOS MUNICIPIOS, CON EL GOBIERNO FEDERAL Y CON LOS GOBIERNOS DE OTROS ESTADOS O CON INSTITUCIONES PUBLICAS O PRIVADAS DE INVESTIGACION Y ENSEÑANZA A FIN DE ESTABLECER PROGRAMAS Y APOYOS ESPECIFICOS DE CARACTER LOCAL PARA IMPULSAR LA DESCENTRALIZACION DE LA INVESTIGACION CIENTIFICA Y TECNOLOGICA.
-
-EN LOS CONVENIOS A QUE SE REFIERE EL PARRAFO ANTERIOR SE DETERMINARAN LOS OBJETIVOS COMUNES Y LAS OBLIGACIONES DE LAS PARTES Y EN SU CASO, ADEMAS, LOS COMPROMISOS CONCRETOS DE FINANCIAMIENTO Y DE APLICACION DE LOS PRINCIPIOS QUE SE ESTABLECEN EN ESTA LEY.
+En los contratos de permuta celebrados .sobre inmuebles del dominio privado del Estado y municipios, deberá acreditarse fehacientemente la necesidad de la permuta y el beneficio social que ésta reporta.
 
 ###### ARTICULO 36.
 
-EL COCYTECH CONVENDRA CON LAS ENTIDADES Y DEPENDENCIAS DE LA ADMINISTRACION PUBLICA A EFECTO DE LOGRAR ACCIONES COORDINADAS QUE FOMENTEN LAS ACTIVIDADES EN CIENCIA Y TECNOLOGIA.
-
-### CAPITULO SEXTO. DE LA INFORMACION
+En los contratos de donación de bienes inmuebles del dominio privado del Estado y municipios, si el donatario no utiliza los bienes para el fin señalado dentro del plazo que determine el Congreso del Estado en el decreto respectivo, o si habiéndolo hecho diere a éste un uso distinto, o suspenda sus actividades por más de un año, la donación será revocada, y tanto el bien como sus mejoras, se revertirán de plano en favor de la autoridad donante, previo juicio tramitado ante la autoridad competente.
 
 ###### ARTICULO 37.
 
-EL SISTEMA ESTATAL DE INFORMACION Y COMUNICACION CIENTIFICA Y TECNOLOGICA ESTARA INTEGRADO POR LA INFORMACION, DATOS, ESTUDIOS E INVESTIGACIONES DESTINADAS A DIFUNDIR, DIVULGAR, PROMOVER Y FOMENTAR LA CIENCIA Y LA TECNOLOGIA EN GENERAL, COMO INSTRUMENTO PARA DESARROLLAR DE MANERA ARMONICA Y SUSTENTABLE LAS CAPACIDADES CIENTIFICAS Y TECNOLOGICAS DEL ESTADO.
+Los bienes del dominio privado del Estado y municipios sólo podrán ser donados a instituciones o asociaciones privadas, cuando éstas persigan fines no lucrativos; asimismo, podrán ser donados en forma condicionada y previo estudio que así lo justifique, a entidades o instituciones generadoras de empleo en regiones o zonas marginadas de la Entidad. En estos casos también procederá la revocación y reversión de los mismos al patrimonio del Estado o municipios en los términos del artículo que antecede, si aquéllas cambian la naturaleza de su objeto o su carácter no lucrativo, o bien dejan de cumplir sus objetivos o se extingue su personalidad jurídica.
 
-CORRESPONDE AL COCYTECH INTEGRAR, ADMINISTRAR Y ACTUALIZAR EL SISTEMA ESTATAL DE INFORMACION Y COMUNICACION CIENTIFICA Y TECNOLOGICA.
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2010)</small>
 
-EL SISTEMA SERA ACCESIBLE AL PUBLICO EN GENERAL, SIN PERJUICIO DE LOS DERECHOS DE PROPIEDAD INDUSTRIAL E INTELECTUAL Y LAS REGLAS DE CONFIDENCIALIDAD QUE AL EFECTO SE ESTABLEZCAN.
+Se exceptúa de lo señalado en el párrafo anterior, cuando se trate de regularización de asentamientos humanos, en cuyo caso el Estado podrá donar a favor de los particulares que habiten en la demarcación respectiva, sujetando la donación a lo siguiente:
+
+I. Se asignará únicamente un lote por beneficiario; en cuyo caso la superficie donada no excederá a la necesaria para vivienda de interés social;
+
+II. El beneficiario deberá exhibir constancia de no propiedad de bien inmueble, y
+
+III. El Gobierno del Estado informará al Congreso del Estado, a través del organismo competente, del listado final de beneficiarios, al que adjuntará los estudios socioeconómicos respectivos.
 
 ###### ARTICULO 38.
 
-LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL COLABORARAN CON EL COCYTECH EN LA INTEGRACION Y ACTUALIZACION DEL SISTEMA ESTATAL DE INFORMACION Y COMUNICACION CIENTIFICA Y TECNOLOGICA.
-
-EL EJECUTIVO DEL ESTADO PODRA CONVENIR CON LOS GOBIERNOS DE LA FEDERACION, DE LOS DEMAS ESTADOS Y DE LOS MUNICIPIOS, ASI COMO CON LAS INSTITUCIONES DE EDUCACION, SU COLABORACION PARA LA INTEGRACION Y ACTUALIZACION DEL SISTEMA.
-
-LAS PERSONAS O INSTITUCIONES PUBLICAS O PRIVADAS QUE RECIBAN APOYO POR PARTE DEL COCYTECH PARA LA REALIZACION DE ACTIVIDADES EN CIENCIA Y TECNOLOGIA PROVEERAN LA INFORMACION QUE SE LES REQUIERA, SEÑALANDO AQUELLA QUE POR DERECHOS DE PROPIEDAD O POR ALGUNA OTRA RAZON FUNDADA DEBA RESERVARSE.
-
-LAS PERSONAS O INSTITUCIONES DEL SECTOR PRIVADO QUE REALICEN ACTIVIDADES SOBRE CIENCIA Y TECNOLOGIA PODRAN COADYUVAR VOLUNTARIAMENTE CON EL SISTEMA.
+Los contratos de comodato que tengan como materia bienes del dominio privado, serán por tiempo determinado o indeterminado según lo determine la autoridad competente; en este último caso, podrán darse por terminados cuando se haya extinguido el interés público o la necesidad social que dio origen a su celebración o cuando así lo requiera por causa justificada la propia autoridad.
 
 ###### ARTICULO 39.
 
-EL COCYTECH FORMULARA LAS BASES DE ORGANIZACION Y FUNCIONAMIENTO DEL SISTEMA ESTATAL DE INFORMACION Y COMUNICACION CIENTIFICA Y TECNOLOGICA.
-
-LAS BASES PREVERAN LO NECESARIO PARA QUE EL SISTEMA FAVOREZCA LA VINCULACION ENTRE LA INVESTIGACION Y SUS FORMAS DE APLICACION Y GENERACION.
-
-## TITULO QUINTO. DE LA VINCULACION
-
-### CAPITULO PRIMERO. LA INVESTIGACION Y LA EDUCACION
+La enajenación a título oneroso de bienes inmuebles del dominio privado en favor de personas físicas o morales que requieran disponer de los mismos para la creación, fomento, ampliación o conservación de una empresa que beneficie a la colectividad, se hará siempre que las autoridades competentes en materia de desarrollo económico determinen la conveniencia de la operación.
 
 ###### ARTICULO 40.
 
-LA INVESTIGACION CIENTIFICA Y TECNOLOGICA QUE EL EJECUTIVO DEL ESTADO APOYE EN LOS TERMINOS DE ESTA LEY BUSCARA CONTRIBUIR A DESARROLLAR UN SISTEMA DE EDUCACION, DE FORMACION Y DE CAPACITACION DE RECURSOS HUMANOS DE CALIDAD Y ALTO NIVEL ACADEMICO.
+Los contratos que tengan como materia bienes del dominio privado del Estado y municipios, se regularán por lo dispuesto en esta Ley y, en lo conducente y aplicable, por la Ley de Adquisiciones del Estado y el Código Civil del Estado.
 
 ###### ARTICULO 41.
 
-LAS INSTITUCIONES PUBLICAS DE EDUCACION SUPERIOR COADYUVARAN A TRAVES DE SUS INVESTIGADORES Y DOCENTES EN ACTIVIDADES DE DIVULGACION Y ENSEÑANZA CIENTIFICA Y TECNOLOGICA, SIN PERJUICIO DE SUS AMBITOS DE AUTONOMIA, A FIN DE PROMOVER EL DESARROLLO SUSTENTABLE DEL ESTADO A TRAVES DE LA PROMOCION DE LA CULTURA CIENTIFICA.
-
-ASIMISMO, PROMOVERAN LA INCORPORACION DE CONTENIDOS CIENTIFICOS Y TECNOLOGICOS EN SUS DIFERENTES PROGRAMAS EDUCATIVOS Y FOMENTARAN LA REALIZACION DE ACCIONES DE DIVULGACION DE LA CIENCIA Y LA TECNOLOGIA EN EL ESTADO, A FIN DE SATISFACER LAS NECESIDADES DE LA POBLACION EN MATERIA DE EDUCACION CIENTIFICA Y TECNOLOGICA.
+Los actos jurídicos relacionados con inmuebles del dominio privado del Estado y municipios, que en términos de esta Ley requieran la intervención de notario, se celebrarán ante los notarios del Estado de San Luis Potosí.
 
 ###### ARTICULO 42.
 
-EL EJECUTIVO DEL ESTADO RECONOCERA LOS LOGROS SOBRESALIENTES DE QUIENES REALICEN INVESTIGACION CIENTIFICA Y TECNOLOGICA, Y PROMOVERA QUE SU ACTIVIDAD DE INVESTIGACION CONTRIBUYA A MANTENER Y FORTALECER LA CALIDAD DE LA EDUCACION, ASI COMO LA DIVULGACION DE LA CIENCIA Y LA TECNOLOGIA EN GENERAL, A TRAVES DE LOS PROGRAMAS QUE PARA TALES EFECTOS INSTRUMENTE EL EJECUTIVO DEL ESTADO.
+Ningún notario del Estado podrá autorizar definitivamente una escritura de adquisición o enajenación de bienes inmuebles del dominio privado del Estado y municipios, sin la aprobación previa del Honorable Congreso del Estado.
 
 ###### ARTICULO 43.
 
-EL EJECUTIVO DEL ESTADO PROMOVERA ANTE LA AUTORIDAD EDUCATIVA FEDERAL EL DISEÑO Y LA APLICACION DE METODOS Y PROGRAMAS PARA LA ENSEÑANZA Y FOMENTO DE LA CIENCIA Y TECNOLOGIA EN TODOS LOS NIVELES DE EDUCACION.
+Los actos jurídicos que se realicen con violación de lo dispuesto por esta Ley serán nulos de pleno derecho, sin perjuicio de las responsabilidades de carácter administrativo, civil o penal en que incurran los servidores y notarios públicos que intervengan en dichos actos.
 
-### CAPITULO SEGUNDO. DE LA VINCULACION CON LOS SECTORES PUBLICO Y PRIVADO
-
-### CAPITULO CUARTO. DE LOS ORGANOS DEL COCYTECH
-
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 026 POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS, P.O. 28 DE DICIEMBRE DE 2018)</small>
-
-#### SECCION PRIMERA. DE LA ESTRUCTURA ORGANICA
+### CAPITULO VI. Del Registro Administrativo de Inmuebles del Dominio Público y Privado
 
 ###### ARTICULO 44.
 
-LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA, ASI COMO LAS INSTITUCIONES PUBLICAS DE EDUCACION SUPERIOR, EN SUS RESPECTIVOS AMBITOS DE COMPETENCIA, PROMOVERAN LA INNOVACION Y EL DESARROLLO TECNOLOGICO; PARA TAL EFECTO, ESTABLECERAN INSTRUMENTOS O MECANISMOS DE VINCULACION CON LOS SECTORES PUBLICO Y PRIVADO DE LA ENTIDAD.
+El Ejecutivo del Estado, por conducto la Oficialía Mayor, y los municipios a través de su autoridad competente, llevarán un registro de la propiedad de bienes inmuebles del dominio público y del dominio privado, que se denominará Registro Administrativo de la Propiedad Pública.
 
 ###### ARTICULO 45.
 
-LA VINCULACION PROCURARA SER MULTIDISCIPLINARIA E INTERDISCIPLINARIA, Y BUSCARA LA COORDINACION DE ACCIONES EN MATERIA DE CIENCIA Y TECNOLOGIA, TOMANDO EN CUENTA LAS DEMANDAS Y NECESIDADES DE LOS SECTORES GUBERNAMENTAL, ACADEMICO, PRIVADO O SOCIAL DE LA ENTIDAD, Y LA ORIENTACION DEL TRABAJO DE LA INFRAESTRUCTURA ESTATAL HACIA LA GENERACION Y AVANCE DEL CONOCIMIENTO CIENTIFICO Y TECNOLOGICO.
+En el Registro Administrativo de la Propiedad Pública, se inscribirán:
 
-### CAPITULO TERCERO
+I. Los títulos y documentos por los cuales se adquiera, transmita, grave, modifique, afecte o extinga el dominio o la posesión y los demás derechos reales sobre los bienes inmuebles del Estado o municipios según se trate;
 
-INNOVACION TECNOLOGICA Y DESARROLLO.
+II. Los decretos por los que se determine la expropiación de bienes cuando éstos se incorporen al dominio público del Estado o municipios;
+
+III. Las adjudicaciones de inmuebles a favor del Estado o municipios dictadas en procedimientos administrativos de ejecución;
+
+IV. Los decomisos de inmuebles decretados por la autoridad judicial a favor del Estado o municipios;
+
+V. Las concesiones, autorizaciones, permisos o licencias sobre inmuebles de propiedad estatal o municipal, según se trate;
+
+VI. Las resoluciones o sentencias que pronuncien las autoridades jurisdiccionales relacionadas con inmuebles del Estado;
+
+VII. Los convenios administrativos que produzcan alguno de los efectos mencionados en la fracción I de este artículo;
+
+VIII. Los decretos que incorporen o desincorporen del dominio público bienes inmuebles;
+
+IX. El avalúo de los bienes inmuebles del dominio público y privado, mismo que deberá actualizarse en forma trianual;
+
+X. Los acuerdos por medio de los cuales se cambie o se sustituya a los usuarios de los bienes inmuebles del dominio público; y
+
+XI. Los demás actos que conforme a esta Ley deban ser registrados.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2012)</small>
 
 ###### ARTICULO 46.
 
-LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA ESTATAL, INSTITUCIONES PUBLICAS DE EDUCACION SUPERIOR, ASI COMO CENTROS DE INVESTIGACION, EN SUS RESPECTIVOS AMBITOS DE COMPETENCIA, PROMOVERAN LA INNOVACION Y EL DESARROLLO TECNOLOGICO. PARA TAL EFECTO DEBERAN ESTABLECER MECANISMOS EFICIENTES Y FUNCIONALES PARA VINCULARSE CON LOS SECTORES GUBERNAMENTAL, SOCIAL Y PRODUCTIVO.
+Los bienes del dominio público y privado del Estado y municipios, tienen tal carácter por disposición de la ley, independientemente de que no se encuentren inscritos con ese carácter en el Registro Público de la Propiedad del Estado.
 
 ###### ARTICULO 47.
 
-EL PROCESO DE INNOVACION DEBERA SER MULTIDISCIPLINARIO E INTERINSTITUCIONAL; EN EL SE BUSCARA LA COORDINACION DE ESFUERZOS CONJUNTOS EN MATERIA DE CIENCIA Y TECNOLOGIA, TOMANDO EN CUENTA LOS PROBLEMAS PREVALECIENTES EN EL ESTADO.
+Los bienes inmuebles estatales y municipales deberán actualizar periódicamente su valor catastral, mediante un avalúo que deberá actualizarse anualmente, debiendo reflejar éste en los informes financieros y contables que corresponda presentar al Congreso del Estado. En caso de que se solicite a éste la autorización para enajenar bienes inmuebles, deberá acompañarse necesariamente un avalúo comercial vigente.
 
 ###### ARTICULO 48.
 
-PARA LA CREACION Y LA OPERACION DE LOS INSTRUMENTOS DE FOMENTO A QUE SE REFIERE ESTA LEY, SE CONCEDERA PRIORIDAD A LOS PROYECTOS CUYO PROPOSITO SEA PROMOVER, LA INNOVACION Y EL DESARROLLO TECNOLOGICO VINCULADOS CON EMPRESAS O ENTIDADES USUARIAS DE LA TECNOLOGIA, QUE APORTEN MAYOR BENEFICIO SOCIAL.
-
-DE IGUAL FORMA, SERAN PRIORITARIOS LOS PROYECTOS QUE SE PROPONGAN LOGRAR UN USO RACIONAL, MAS EFICIENTE Y ECOLOGICAMENTE SUSTENTABLE DE LOS RECURSOS NATURALES, ASI COMO LAS ASOCIACIONES CUYO PROPOSITO SEA LA CREACION Y FUNCIONAMIENTO DE REDES CIENTIFICAS Y TECNOLOGICAS.
-
-PARA OTORGAR APOYO A LAS ACTIVIDADES DE INVESTIGACION TECNOLOGICA A QUE SE REFIERE ESTE ARTICULO, SE REQUERIRA QUE EL PROYECTO RESPECTIVO CUENTE CON UNA DECLARACION FORMAL DE INTERES EN LA APLICACION DE LA TECNOLOGIA, EXPRESADA POR EL O LOS POTENCIALES USUARIOS. ASIMISMO, SALVO CASOS DEBIDAMENTE JUSTIFICADOS, SE REQUERIRA QUE LOS BENEFICIARIOS DEL PROYECTO APORTEN RECURSOS PARA EL FINANCIAMIENTO CONJUNTO DEL MISMO.
-
-EN CADA CASO SE DETERMINARA LA FORMA Y CONDICIONES EN QUE LA DEPENDENCIA O ENTIDAD QUE APOYE EL PROYECTO TECNOLOGICO RECUPERARA TOTAL O PARCIALMENTE LOS RECURSOS QUE CANALICE, Y SE AJUSTARA A LA MODALIDAD CONFORME A LA CUAL PARTICIPARA DE LOS BENEFICIOS QUE RESULTEN DE LA EXPLOTACION DE LA TECNOLOGIA, DE CONFORMIDAD CON LO ESTABLECIDO EN LA LEY DE LA MATERIA.
+En las inscripciones del Registro Administrativo de la Propiedad Pública, se expresará la procedencia de los bienes inmuebles, su naturaleza, ubicación, medidas, linderos, nombre del inmueble si lo tuviera, así como los datos que sirvan para identificar la relación que pudieran tener con otros expedientes.
 
 ###### ARTICULO 49.
 
-LOS APOYOS A QUE SE REFIERE EL ARTICULO ANTERIOR SE OTORGARAN POR UN TIEMPO DETERMINADO, DE ACUERDO CON EL CONTENIDO Y LOS OBJETIVOS DEL PROYECTO; ESTOS APOYOS SE SOSTENDRAN HASTA EL MOMENTO EN QUE SE DEMUESTRE O NO LA VIABILIDAD TECNICA Y ECONOMICA DEL PROYECTO.
-
-## TITULO SEXTO. DEL FINANCIAMIENTO
-
-### CAPITULO UNICO. DEL FINANCIAMIENTO
+Las constancias del Registro Administrativo de la Propiedad Pública Estatal, comprobarán la autenticidad de los actos a que se refieren.
 
 ###### ARTICULO 50.
 
-EL FINANCIAMIENTO DEL SISTEMA ESTATAL DE CIENCIA Y TECNOLOGIA ES EL CONJUNTO DE RECURSOS ECONOMICOS PUBLICOS, PRIVADOS Y SOCIALES, NECESARIOS PARA EL ADECUADO DESARROLLO DE LA INVESTIGACION CIENTIFICA Y TECNOLOGICA.
+La cancelación de las inscripciones en el Registro Administrativo de la Propiedad Pública, procederá:
 
-PARA EL CUMPLIMIENTO DE LOS PROPOSITOS DE ESTA LEY Y DE LOS OBJETIVOS DEL PROGRAMA, EL EJECUTIVO DEL ESTADO, A TRAVES DE SUS DEPENDENCIAS Y ENTIDADES, PROGRAMARA DENTRO DEL PRESUPUESTO GENERAL DE EGRESOS DEL ESTADO, UN PORCENTAJE SUFICIENTE QUE PROVEA LOS RECURSOS NECESARIOS PARA EL FORTALECIMIENTO Y CONSOLIDACION DE LAS CAPACIDADES CIENTIFICAS Y TECNOLOGICAS DE LA ENTIDAD, MEDIANTE LA FORMACION DE RECURSOS HUMANOS PARA LA INVESTIGACION, LA ADQUISICION DE INFRAESTRUCTURA, LA REALIZACION DE PROYECTOS DE INVESTIGACION CIENTIFICA, INNOVACION Y DESARROLLO TECNOLOGICO Y DE VINCULACION Y GESTION CIENTIFICA Y TECNOLOGICA, LA DIFUSION, DIVULGACION Y ENSEÑANZA DE LA CIENCIA Y LA TECNOLOGIA, ASI COMO PARA EL FUNCIONAMIENTO DEL COCYTECH.
+l. Cuando el bien inscrito deje de formar parte del dominio público o privado del Estado;
 
-CON ESTE PROPOSITO, PODRA ESTABLECER LAS PARTIDAS PRESUPUESTALES Y FORMULAR LAS INICIATIVAS FISCALES QUE CONSIDERE NECESARIAS.
+II. Por resolución judicial o administrativa que ordene su cancelación; y
+
+III. Cuando se declare la nulidad del título que originó la inscripción.
+
+En la cancelación de las inscripciones se anotarán los datos necesarios para precisar la inscripción que se cancela y las causas de ello.
 
 ###### ARTICULO 51.
 
-ADEMAS DE LOS INSTRUMENTOS DEL GASTO CORRIENTE, EL EJECUTIVO PODRA ESTABLECER, FINANCIAR Y ADMINISTRAR DIVERSOS FONDOS, COMO EL FONDO MIXTO CONACYT – GOBIERNO DEL ESTADO DE CHIAPAS, PARA EL DESARROLLO DE LA INVESTIGACION CIENTIFICA Y TECNOLOGICA. LOS FONDOS QUE SE CONSTITUYAN SE SUJETARAN A LOS SIGUIENTES CRITERIOS, ADEMAS DE LAS DISPOSICIONES APLICABLES:
+Las instituciones privadas que por cualquier concepto utilicen, administren o tengan a su cuidado bienes de propiedad estatal o municipal, tendrán a su cargo la elaboración y actualización del inventario de estos bienes y estarán obligadas a proporcionar los datos e informes que les solicite la Oficialía Mayor de Gobierno del Estado o los municipios, según sea el caso.
 
-I. PRIORIDADES Y NECESIDADES ESTATALES;
+### CAPITULO VII. Sanciones
 
-II. VIABILIDAD Y PERTINENCIA;
-
-III. PERMANENCIA DE RECURSOS; Y
-
-IV. LEGALIDAD Y TRANSPARENCIA.
-
-### CAPITULO PRIMERO. DEL PROGRAMA ESTATAL DE CIENCIA Y TECNOLOGIA
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2008)</small>
 
 ###### ARTICULO 52.
 
-LOS FONDOS A QUE SE REFIERE ESTE CAPITULO DEBERAN CONSTITUIRSE ESPECIFICANDO EN CADA CASO EL INSTRUMENTO JURIDICO QUE LO CONSTITUYA, LAS REGLAS Y LOS MANUALES DE PROCEDIMIENTOS A LOS QUE SE SUJETARA LA OPERACION DE LOS RECURSOS DESTINADOS AL FONDO, ENTRE OTROS A TRAVES DE: FIDEICOMISOS, CONVENIOS DE COORDINACION O CONCERTACION; ASI COMO LOS DEMAS QUE LA LEGISLACION ADMINISTRATIVA O BANCARIA PREVEN.
+Se sancionará con multa de cien a ochocientos días de salario mínimo vigente al momento de los hechos, a quien concluido el plazo por el que se otorgó la concesión, licencia, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público, no lo devuelva a la autoridad competente, en un plazo de treinta días, previo requerimiento que se le haga.
 
 ###### ARTICULO 53.
 
-LOS FONDOS SE SUJETARAN A LAS SIGUIENTES DISPOSICIONES:
-
-I. LOS RECURSOS SE CANALIZARAN INVARIABLEMENTE A LA FINALIDAD A LA QUE HAYAN SIDO AFECTADOS, PROCURANDO MANTENERLOS A DISPOSICION EN INSTRUMENTOS DE INVERSION SIN RIESGO;
-
-II. LA CANALIZACION DE RECURSOS SE CONSIDERARA COMO EROGACIONES DEVENGADAS DEL PRESUPUESTO DE EGRESOS DE LA ADMINISTRACION PUBLICA ESTATAL; POR LO TANTO, EL EJERCICIO DE LOS RECURSOS DEBERA REALIZARSE CONFORME A LOS TERMINOS DE LOS CONTRATOS CORRESPONDIENTES Y A SUS REGLAS DE OPERACION; Y
-
-III. LOS BENEFICIARIOS PODRAN SER LAS PERSONAS FISICAS O MORALES QUE PREVIAMENTE HAYA SELECCIONADO LA INSTITUCION, DEPENDENCIA O ENTIDAD OTORGANTE.
+La sanción a que se refiere el artículo anterior, se impondrá a quien a sabiendas de que un bien es del dominio público estatal o municipal, lo explote, use o aproveche sin haber obtenido la concesión, autorización o permiso respectivo, o no hubiere celebrado el contrato correspondiente con la autoridad competente.
 
 ###### ARTICULO 54.
 
-LA CONCURRENCIA DE LOS RECURSOS PROVENIENTES DEL SECTOR PUBLICO O PRIVADO, DESTINADOS AL FINANCIAMIENTO DE LAS ACTIVIDADES DE CIENCIA Y TECNOLOGIA QUE SE REALICEN EN EL ESTADO, SERA INTRANSFERIBLE A OTRA ACTIVIDAD DISTINTA, POR LO QUE DEBERA APLICARSE EXCLUSIVA Y OBLIGATORIAMENTE AL FOMENTO DE LAS ACTIVIDADES DE DIVULGACION E INVESTIGACION CIENTIFICA Y DESARROLLO TECNOLOGICO.
+Las obras e instalaciones que se hagan en bienes inmuebles del dominio público o privado del Estado o municipios, sin contar con la concesión, licencia, permiso o autorización de la autoridad competente, se perderán en beneficio del Estado o del municipio según sea el caso.
 
 ###### ARTICULO 55.
 
-LAS ACTIVIDADES A QUE SE REFIERE EL ARTICULO ANTERIOR DEBERAN ESTAR ORIENTADAS A:
-
-I. PROMOVER E IMPULSAR LA INVESTIGACION CIENTIFICA Y EL APROVECHAMIENTO DE LOS RESULTADOS DE ESTA, EN APLICACIONES TECNOLOGICAS QUE AMPLIEN LOS HORIZONTES DE COMPETITIVIDAD Y GLOBALIZACION DE LA PLANTA PRODUCTIVA;
-
-II. PROMOVER LA FORMACION, Y ACTUALIZACION CONTINUA DE LOS RECURSOS HUMANOS DEL ESTADO, A FIN DE INTEGRAR CUADROS DE PRIMER NIVEL EN EL AREA CIENTIFICA Y TECNOLOGICA, CAPACES DE CONFORMAR O ENCABEZAR GRUPOS, CENTROS DE INVESTIGACION Y EMPRESAS, Y ORIENTANDO SU INCORPORACION HACIA LAS AREAS O DISCIPLINAS QUE MAS CONVENGAN AL DESARROLLO ECONOMICO Y SOCIAL EN EL ESTADO;
-
-III. PROMOVER LA CREACION, EQUIPAMIENTO, MANTENIMIENTO Y PRESERVACION DE LA INFRAESTRUCTURA DESTINADA A LA REALIZACION DE ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS;
-
-IV. LA CREACION DE CENTROS E INSTITUCIONES DE INVESTIGACION CIENTIFICA Y TECNOLOGICA;
-
-V. PROMOVER LA VINCULACION Y LA GESTION TECNOLOGICA, PARA CONTRIBUIR A LA COMPETITIVIDAD DE LAS EMPRESAS DE BIENES Y SERVICIOS, PUBLICAS Y PRIVADAS;
-
-VI. DEFINIR, CREAR E INSTRUMENTAR MECANISMOS DE PROMOCION Y DIVULGACION DE LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS, QUE CONSTITUYAN AL MISMO TIEMPO UN ELEMENTO DE APOYO PARA EL IMPULSO Y EL FORTALECIMIENTO DE LA INVESTIGACION CIENTIFICA, DESARROLLO TECNOLOGICO Y LA FORMACION DE UNA CULTURA CIENTIFICA, MEDIANTE LA GENERACION DE ESPACIOS PARA LA TRANSFERENCIA DE INFORMACION Y DIFUSION DE PRODUCTOS EDITORIALES CIENTIFICOS, ASI COMO ESPACIOS FORMATIVOS RECREATIVOS E INTERACTIVOS A FAVOR DE LAS NECESIDADES Y PRIORIDADES DEL ESTADO, Y;
-
-VII. CUBRIR LOS GASTOS DE OPERACION DE LOS FONDOS.
+Cuando las obras e instalaciones hechas sin concesión, permiso, o autorización impidan o estorben el aprovechamiento o uso razonable de los bienes inmuebles estatales o municipales, la autoridad respectiva ordenará la demolición a cargo del infractor, previo agotamiento del derecho de audiencia y procedimiento correspondiente.
 
 ###### ARTICULO 56.
 
-LA TRANSFERENCIA DE RECURSOS DE UN PROYECTO QUE POR NECESIDADES DEL SERVICIO REQUIERAN SER APLICADOS A OTRO, DEBERA REALIZARSE PREVIA APROBACION DEL COCYTECH, EN LOS TERMINOS DEL CODIGO DE LA HACIENDA PUBLICA PARA EL ESTADO DE CHIAPAS Y DEMAS DISPOSICIONES APLICABLES.
+Las sanciones que se establecen en este Capítulo, se aplicarán con independencia de las penas que correspondan en el caso de que la conducta respectiva sea constitutiva de algún delito en los términos del Código Penal.
 
-## TITULO SEPTIMO. DEL RECONOCIMIENTO Y ESTIMULO AL DESEMPEÑO CIENTIFICO Y TECNOLOGICO
-
-### CAPITULO PRIMERO. DEL SISTEMA ESTATAL DE INVESTIGADORES
-
-### CAPITULO SEGUNDO. DE LOS APOYOS A PROYECTOS
+### CAPITULO VIII. De los Medios de Defensa
 
 ###### ARTICULO 57.
 
-SE INTEGRA EL SISTEMA ESTATAL DE INVESTIGADORES DEL ESTADO, QUE TENDRA COMO OBJETIVOS:
-
-I. RECONOCER Y ESTIMULAR EL DESEMPEÑO DE LOS INTEGRANTES DE LA COMUNIDAD CIENTIFICA DE LA ENTIDAD;
-
-II. PROMOVER E IMPULSAR LAS ACTIVIDADES CIENTIFICAS Y TECNOLOGICAS DE LOS INTEGRANTES DE LA COMUNIDAD CIENTIFICA DE LA ENTIDAD, PROPICIANDO EL INCREMENTO DE LA PRODUCTIVIDAD, EL MEJORAMIENTO DE LA CALIDAD Y SU PARTICIPACION EN LA FORMACION DE NUEVOS INVESTIGADORES QUE COADYUVEN AL DESARROLLO DEL ESTADO, ASI COMO LA CONSOLIDACION DE LOS EXISTENTES;
-
-III. ESTABLECER Y ACTUALIZAR UN PADRON DE MIEMBROS DE LA COMUNIDAD CIENTIFICA;
-
-IV. FACILITAR A LOS MIEMBROS DE LA COMUNIDAD CIENTIFICA LA OBTENCION DE LOS MERITOS NECESARIOS PARA SU INCORPORACION EN LOS ESQUEMAS NACIONALES E INTERNACIONALES DE RECONOCIMIENTO A LA FUNCION DE INVESTIGACION Y DESARROLLO TECNOLOGICO;
-
-V. ORIENTAR LA INVESTIGACION QUE SE REALIZA EN EL ESTADO, DE ACUERDO CON LAS PRIORIDADES ESTABLECIDAS EN EL PLAN ESTATAL DE DESARROLLO Y EN EL PROGRAMA, Y;
-
-VI. APOYAR LA INTEGRACION DE GRUPOS DE INVESTIGADORES EN LA ENTIDAD, QUE PARTICIPEN EN EL PROCESO DE GENERACION DE CONOCIMIENTOS CIENTIFICOS Y TECNOLOGICOS, HASTA SU APLICACION EN LA PLANTA PRODUCTIVA DE BIENES Y SERVICIOS, DE LAS INSTITUCIONES DE LOS SECTORES PUBLICO, SOCIAL Y PRIVADO.
-
-###### ARTICULO 58.
-
-PODRAN FORMAR PARTE DEL SISTEMA ESTATAL DE INVESTIGADORES TODOS AQUELLOS MIEMBROS DE LA COMUNIDAD CIENTIFICA RECONOCIDOS COMO ACTIVOS POR EL CONSEJO, CUYA LABOR CIENTIFICA Y/O TECNOLOGICA CUMPLA CON LO ESTIPULADO EN EL REGLAMENTO INTERNO DEL PROPIO SISTEMA ESTATAL DE INVESTIGADORES Y LAS BASES QUE PARA EL OTORGAMIENTO DE LOS RECONOCIMIENTOS Y ESTIMULOS SE EMITAN.
-
-###### ARTICULO 59.
-
-EL COCYTECH SERA EL ENCARGADO DE INSTAURAR, DESARROLLAR Y ADMINISTRAR EL SISTEMA ESTATAL DE INVESTIGADORES Y EVALUAR SU FUNCIONAMIENTO, GARANTIZANDO EN EL PROCESO DE IMPLANTACION PRINCIPIOS DE TRANSPARENCIA, LEGALIDAD Y EQUIDAD, INVOLUCRANDO EN ESAS ACTIVIDADES A MIEMBROS RECONOCIDOS DE LA COMUNIDAD CIENTIFICA NACIONAL Y LOCAL Y DE LOS SECTORES PUBLICO, SOCIAL Y PRIVADO.
-
-### CAPITULO SEGUNDO. RECONOCIMIENTO AL MERITO ESTATAL DE INVESTIGACION
-
-###### ARTICULO 60
-
-SE CREA EL RECONOCIMIENTO AL MERITO ESTATAL DE INVESTIGACION CON EL OBJETO DE RECONOCER Y ESTIMULAR LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DE CALIDAD, SU PROMOCION Y DIFUSION, REALIZADA POR EL CIENTIFICO O TECNOLOGO, O EQUIPOS DE CIENTIFICOS O TECNOLOGOS CHIAPANECOS; O QUE RADIQUEN EN LA ENTIDAD, CUYA OBRA EN ESTOS CAMPOS SE HAGA ACREEDORA DE TAL DISTINCION.
-
-###### ARTICULO 61.
-
-EL PREMIO CONSISTIRA EN UN MONTO DE HASTA 3,000 SALARIOS MINIMOS VIGENTES EN EL ESTADO, MISMO QUE SERA ENTREGADO ANUALMENTE POR EL EJECUTIVO DEL ESTADO.
-
-###### ARTICULO 62.
-
-EL PREMIO SERA CONCEDIDO POR UN JURADO EXPRESAMENTE CONSTITUIDO PARA TAL FIN, BAJO LAS BASES Y TERMINOS QUE SEÑALE EL REGLAMENTO RESPECTIVO. EL JURADO SE INTEGRARA POR DISTINGUIDOS INVESTIGADORES Y TECNOLOGOS, PROPUESTOS POR EL CONSEJO CONSULTIVO Y RATIFICADOS POR LA JUNTA DIRECTIVA.
-
-T R A N S I T O R I O S
-
-###### ARTICULO PRIMERO.
-
-EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
-
-###### ARTICULO SEGUNDO.
-
-SE ABROGA EL DECRETO POR EL QUE SE CREA EL CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL PERIODICO OFICIAL NO. 11 DE FECHA 08 DE MARZO DE 2000 Y SE DEROGAN TODAS AQUELLAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.
-
-###### ARTICULO TERCERO.
-
-LA JUNTA DIRECTIVA EXPEDIRA EL REGLAMENTO DE LA PRESENTE LEY EN UN PLAZO NO MAYOR DE 90 NOVENTA DIAS, CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.
-
-###### ARTICULO CUARTO.
-
-EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS CONSERVA LOS BIENES, DERECHOS Y RECURSOS MATERIALES Y PRESUPUESTALES Y SUBSISTEN LOS COMPROMISOS Y OBLIGACIONES ADQUIRIDOS CON ANTERIORIDAD, ASI COMO LAS RELACIONES LABORALES ESTABLECIDAS CON SUS SERVIDORES PUBLICOS.
-
-###### ARTICULO QUINTO.
-
-EL EJECUTIVO DEL ESTADO EN UN PLAZO DE 180 CIENTO OCHENTA DIAS, CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, EXPEDIRA EL PROGRAMA ESPECIAL DE CIENCIA Y TECNOLOGIA DEL ESTADO DE CHIAPAS.
-
-EL EJECUTIVO DEL ESTADO DISPONDRA SE PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
-
-DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN LA CIUDAD DE TUXTLA GUTIERREZ, A LOS 10 DIAS DEL MES DE FEBRERO DEL AÑO DOS MIL CUATRO.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 28 DE DICIEMBRE DE 2018.
+Contra las resoluciones y actos administrativos que se dicten o ejecuten en la aplicación de la presente Ley, las partes afectadas podrán interponer los recursos administrativos previstos en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -778,6 +648,12 @@ P.O. 23 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones, ordenamientos legales y administrativos que se opongan al presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 026 DECRETO POR EL QUE SE CREA EL INSTITUTO DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE CHIAPAS”.]
 
