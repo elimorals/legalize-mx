@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2015-03-27"
+last_updated: "2015-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -1259,10 +1259,18 @@ Artículo Cuarto. Dentro de los 90 días naturales siguientes a la entrada en vi
 
 P.O. 27 DE MARZO DE 2015.
 
-Artículo Primero. La presente Ley entrará en vigor a partir del 1 de enero de 2016.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 1 de octubre de 2015.
 
 Artículo Segundo. Una vez que entre en vigor la presente Ley, el titular del Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia, deberán expedir las disposiciones reglamentarias correspondientes en un término de sesenta días.
 
 Artículo Tercero. El Consejo Consultivo Estatal para el Desarrollo Social deberá quedar integrado en un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley. En el mismo plazo deberá iniciar sus funciones el Sistema Estatal de Desarrollo Social y el Padrón Estatal de Beneficiarios de Programas de Desarrollo Social deberá integrarse dentro de los sesenta días siguientes al inicio de funciones del Sistema.
 
 Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan la presente Ley.
+
+P.O. 9 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. El Poder Ejecutivo del Estado de Querétaro, dispondrá las providencias presupuestales necesarias para garantizar que la nueva Secretaría de Desarrollo Social, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para iniciar sus funciones y desempeñar sus atribuciones a partir del 1 de octubre de 2015.
