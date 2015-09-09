@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-109680"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-09-03"
-last_updated: "2015-09-03"
+last_updated: "2015-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109680&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-08-26"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACION Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN MATERIA DE PORTALES DE INTRANET E INTERNET]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA LA PRIMERA SECCIÓN DEL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN MATERIA DE PORTALES DE INTRANET E INTERNET
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA PRIMERA SECCIÓN DEL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE SEPTIEMBRE DE 2015</small>
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 3 de septiembre de 2015.
 
@@ -45,9 +45,11 @@ QUINTO. El 20 de mayo de 2015 el Pleno del Consejo de la Judicatura Federal apro
 
 ACUERDO
 
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO ÚNICO.
 
-Se reforman los artículos 62, fracciones XVI y XVII; 68, fracciones XVI y XVII; 91, fracciones XI y XII; 95, fracciones XV y XVI; 98, fracciones VII y VIII; 143, fracciones XVIII y XIX; 156, fracciones VIII, XXX y XXXI; 162, fracciones I, XI, XXI y XXII; 176, fracciones XX y XXI; 186, fracciones XI y XII; y se adicionan el artículo 101 Bis, así como las fracciones XVIII al artículo 62; XVIII al artículo 68; XIII al artículo 91; XVII al artículo 95; IX al artículo 98; XX al artículo 143; XXXII al artículo 156; XXIII al artículo 162; XXII al artículo 176; y XIII al artículo 186, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, para quedar como sigue:
+Se reforman los artículos 62, fracciones XVI y XVII; 68, fracciones XVI y XVII; 91, fracciones XI y XII; 95, fracciones XV y XVI; 143, fracciones XVIII y XIX; 156, fracciones VIII, XXX y XXXI; 162, fracciones I, XI, XXI y XXII; 176, fracciones XX y XXI; 186, fracciones XI y XII; y se adicionan el artículo 101 Bis, así como las fracciones XVIII al artículo 62; XVIII al artículo 68; XIII al artículo 91; XVII al artículo 95; XX al artículo 143; XXXII al artículo 156; XXIII al artículo 162; XXII al artículo 176; y XIII al artículo 186, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, para quedar como sigue:
 
 “Artículo 62. …
 
@@ -83,6 +85,8 @@ XII. Definir, revisar y ser responsable de los contenidos e información, que se
 
 XIII. Las demás que establezcan el Pleno y las Comisiones.
 
+> <small>(F. DE E. D.O.F., 9 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 95.
 
 …
@@ -95,17 +99,7 @@ XVI. Definir, revisar y ser responsable de los contenidos e información, que se
 
 XVII. Las demás que le confiera la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo y las disposiciones aplicables.
 
-###### Artículo 98.
-
-…
-
-I. a VI. …
-
-VII. Coordinar acciones en materia de implementación de la Reforma Penal en el Poder Judicial de la Federación, con las diversas instancias relacionadas del Poder Ejecutivo y Poder Legislativo Federal, y con las entidades federativas;
-
-VIII. Definir, revisar y ser responsable de los contenidos e información, que sean de su competencia o de los Centros de Justicia Penal Federal, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
-
-IX. Las demás que le confieran el Pleno y las Comisiones.
+IX. Las demás que le confieran el Pleno y las Comisiones. (SIC)
 
 ###### Artículo 101 Bis.
 
