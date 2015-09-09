@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2014-12-31"
+last_updated: "2015-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1055,9 +1055,11 @@ XLIV.- Expedir leyes que instituyan el Tribunal Unitario de lo Contencioso Admin
 
 XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativo, de una terna de candidatos propuesta por el Ejecutivo Estatal, de los que será electo por mayoría simple de votos de los Diputados que integran la Legislatura, en un término improrrogable de diez días hábiles, y el que deberá reunir los mismos requisitos que el artículo 91 de esta Constitución exige para ser Magistrado del Tribunal Superior de Justicia, y solo podrá ser privado de su cargo, en los términos señalados en los artículos 93 y 101 de la Carta Fundamental del Estado; y
 
-> <small>(ADICIONADA, B.O. 6 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2015)</small>
 
-XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes propuesta por el Gobernador del Estado, el cual, previa comparecencia de las personas propuestas, elegirá a quien ocupará el cargo. La elección del Procurador se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de 10 días naturales para hacerlo; y en el caso de que, vencido ese plazo, aún no se haya realizado la elección, el Titular del Ejecutivo procederá a hacer la designación de entre los propuestos.
+XLVI.- Ratificar, con el voto de las dos terceras partes de los miembros que concurran a la sesión, en un plazo de cinco días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Procurador General de Justicia y del Contralor General. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+
+El Congreso del estado podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente;
 
 (ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 
@@ -1213,9 +1215,11 @@ III.- Nombrar y remover libremente a los Secretarios del Despacho, y demás func
 
 IV.- Presentar a consideración del Congreso del Estado, las ternas para la designación de los Magistrados que integrarán el Tribunal Superior de Justicia del Estado y someter sus licencias por mas de un mes o sus renuncias o remociones a la aprobación del propio Congreso.
 
-> <small>(ADICIONADA, B.O. 6 DE ABRIL DE 1999)</small>
+> <small>(REFORMADA, B.O. 9 DE SEPTIEMBRE DE 2015)</small>
 
-V.- Presentar a consideración del Congreso del Estado, la terna para la designación del Procurador General de Justicia y una vez elegido, expedir el nombramiento respectivo, pudiéndolo remover libremente por causa justificada.
+V.- Presentar a consideración del Congreso del Estado, las propuestas para la designación del Procurador General de Justicia y Contralor General, y una vez ratificados, expedir los nombramientos respectivos, pudiéndolos remover libremente por causa justificada.
+
+En el caso de que el Congreso del Estado resuelva no ratificar las propuestas de nombramiento efectuadas en dos ocasiones, podrá designarlos libremente;
 
 > <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
 
@@ -3328,3 +3332,9 @@ B.O. 31 DE DICIEMBRE DE 2014.
 DECRETO 2234, POR EL QUE SE ADICIONA UN NUMERAL 7 BIS, SE ADICIONA UN PÁRRAFO SÉPTIMO AL NUMERAL 11° Y SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 9 DE SEPTIEMBRE DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
