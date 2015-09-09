@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2015-04-25"
+last_updated: "2015-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -323,6 +323,12 @@ XIII. Planear, organizar, dirigir y controlar los recursos humanos, materiales y
 
 XIV. Las demás facultades que le confieran las leyes.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 5 Quáter.
+
+El Organismo público descentralizado Régimen Estatal de Protección Social en Salud de Jalisco, ejercerá las atribuciones que le confiere la Ley General de Salud, los acuerdos de coordinación y convenios que celebre el Gobierno del Estado con el Gobierno Federal en la materia, esta Ley y demás disposiciones legales aplicables.
+
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 6.
@@ -453,7 +459,7 @@ XI. Colaborar con las dependencias federales para la integración y coordinació
 
 XII. Apoyar la coordinación entre instituciones de salud y educativas del Estado en la planeación para la formación y capacitación de recursos humanos para la salud;
 
-XIII Coadyuvar a que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud;
+XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud;
 
 XIV. Promover e impulsar la participación de la población del Estado, en el cuidado de su salud;
 
@@ -1435,7 +1441,7 @@ VI. Propiciar debates sobre cuestiones bioéticas con la participación de los d
 
 VII. Fomentar la enseñanza de la bioética, particularmente en lo que toca a la atención médica y la investigación para la salud;
 
-IX. Promover que en los establecimientos de salud públicos y privados se organicen y funcionen comités hospitalarios de bioética y comités de ética en investigación, con las facultades que les otorguen la Ley General de Salud, esta ley y las disposiciones reglamentarias aplicables, así como apoyar la capacitación de los miembros de estos comités;
+IX (SIC). Promover que en los establecimientos de salud públicos y privados se organicen y funcionen comités hospitalarios de bioética y comités de ética en investigación, con las facultades que les otorguen la Ley General de Salud, esta ley y las disposiciones reglamentarias aplicables, así como apoyar la capacitación de los miembros de estos comités;
 
 X. Establecer y difundir criterios que deban considerar los comités hospitalarios de bioética y comités de ética en investigación para el desarrollo de sus actividades;
 
@@ -1993,7 +1999,7 @@ Cuando se otorgue, en los términos de la Ley General de Salud, consentimiento a
 
 Artículo 104-F. El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces para:
 
-I Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
+I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
 
 II. Promover que los establecimientos que realicen procesos de donación y de trasplantes debidamente acreditados y certificados legalmente para ello, realicen los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud; y
 
@@ -2205,7 +2211,7 @@ Es de interés público el promover la participación y colaboración de la soci
 
 ###### Art. 104-T.
 
-El Patronato para la Donación y el Transplante de Órganos y Tejidos tiene por objeto coordinar la participación y colaboración de la sociedad y de sus diversos sectores.
+El Patronato para la Donación y el Transplante (sic) de Órganos y Tejidos tiene por objeto coordinar la participación y colaboración de la sociedad y de sus diversos sectores.
 
 (ADICIONADO, P.O. 26 DE AGOSTO DE 2006) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -2539,7 +2545,7 @@ X. Supervisar a las instituciones públicas y privadas dedicadas a la prevenció
 
 XI. Fomentar la participación comunitaria y la coordinación con las autoridades federales y las instituciones públicas y privadas en la planeación, programación, ejecución y evaluación de los programas y acciones contra las adicciones;
 
-XII Promover la ampliación de la cobertura y el mejoramiento de la calidad en la prevención y tratamiento de las adicciones, con atención preferente en las zonas geográficas y grupos poblacionales de mayor riesgo;
+XII. Promover la ampliación de la cobertura y el mejoramiento de la calidad en la prevención y tratamiento de las adicciones, con atención preferente en las zonas geográficas y grupos poblacionales de mayor riesgo;
 
 XIII. Impulsar la participación comunitaria en la formación de hábitos y estilos de vida saludables, en la prevención de las adicciones;
 
@@ -4081,9 +4087,9 @@ P.O. 17 DE JUNIO DE 1999.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
 
-SEGUNDO.- Se autoriza al Titular del Poder Ejecutivo del Estado para que conforme con las disposiciones legales aplicables realice todas las gestiones y actos necesarios, para lograr la integración de la estructura y funcionamiento del Consejo Estatal de Transplantes de Organos y Tejidos.
+SEGUNDO.- Se autoriza al Titular del Poder Ejecutivo del Estado para que conforme con las disposiciones legales aplicables realice todas las gestiones y actos necesarios, para lograr la integración de la estructura y funcionamiento del Consejo Estatal de Transplantes (sic) de Organos y Tejidos.
 
-TERCERO.- El Consejo Estatal de Transplantes de Organos y Tejidos, aprobará su reglamento interior a más tardar dentro de los noventa días contados a partir de la entrada en vigor del presente decreto.
+TERCERO.- El Consejo Estatal de Transplantes (sic) de Organos y Tejidos, aprobará su reglamento interior a más tardar dentro de los noventa días contados a partir de la entrada en vigor del presente decreto.
 
 P.O. 12 DE AGOSTO DE 1999.
 
@@ -4358,3 +4364,21 @@ SEGUNDO. El Consejo deberá ser instalado a más tardar 60 días después de la 
 TERCERO. El Consejo contará con un plazo de 90 días contados a partir de su instalación, para aprobar su reglamento interno.
 
 CUARTO. Las acciones para el combate a la obesidad, el sobrepeso y los trastornos de la conducta alimenticia a que se refiere el artículo 5 fracción II de la ley que se expide a través del presente decreto, se ejecutarán de conformidad con los recursos aprobados en el Presupuesto de Egresos del ejercido fiscal que corresponda.
+
+P.O. 9 DE SEPTIEMBRE DE 2015.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. El organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco” se integrará con la estructura orgánica, recursos humanos, financieros y materiales de la Dirección General del Régimen Estatal de Protección Social en Salud dependiente del Organismo Público Descentralizado “Servicios de Salud Jalisco”, que previamente autorice su Junta de Gobierno; facultándose a la Secretaría de Planeación, Administración y Finanzas así como a la Junta de Gobierno de este último Organismo, para que lleve las acciones necesarias para el cumplimiento de este Decreto.
+
+Tercero. En el proceso de instalación del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco” a que se refiere este Decreto, serán respetados los derechos laborales del personal en los términos de ley, apegándose en lo procedente al Acuerdo de Coordinación para la Ejecución del Sistema de Protección Social en Salud en el Estado de Jalisco, celebrado entre la Federación y el Estado de Jalisco con fecha 10 de marzo de 2015.
+
+Cuarto. El organismo público descentralizado “Régimen Estatal de Protección Social en Salud de Jalisco” se subroga en todos los derechos y obligaciones que el Organismo Público Descentralizado “Servicios de Salud Jalisco”, por sí o por conducto de la Dirección General del Régimen Estatal de Protección Social, haya contraído en el marco del Sistema de Protección Social en Salud, con las excepciones previstas en materia laboral conforme al acuerdo de coordinación y a los transitorios segundo y tercero de este decreto.
+
+Quinto. Los asuntos que tenga en trámite el Organismo Publico Descentralizado “Servicios de Salud Jalisco”, por sí o por conducto de la Dirección General del Régimen Estatal de Protección Social, en el marco del Sistema de Protección Social en Salud, ante dependencias y entidades de la administración pública federal, estatal o municipal, personas físicas y jurídicas, públicas o privadas, serán continuadas hasta su conclusión por el organismo público descentralizado “Régimen Estatal de Protección Social en Salud de Jalisco”, facultando a su Junta de Gobierno o al Director General, según corresponda, a realizar los actos jurídicos y suscribir los documentos e instrumentos públicos inherentes, salvo aquellos tramites que por normatividad federal o acuerdo de coordinación deban seguirse tramitando por el Organismo Público Descentralizado “Servicios de Salud Jalisco”.
+
+Sexto. La Junta de Gobierno del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco” deberá ser instalada por su Presidente en un plazo no mayor de 60 sesenta días hábiles, contados a partir de la entrada en vigor del presente ordenamiento jurídico.
+
+Séptimo. La Junta de Gobierno aprobará el Reglamento de la Ley del Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Jalisco en un plazo no mayor a 120 ciento veinte días hábiles, contados a partir de la fecha de su instalación, y remitirlo al titular del Poder Ejecutivo del Estado para su expedición.
+
+Octavo. A partir de la entrada en vigor de este Decreto, el Director General del Régimen Estatal de Protección Social en Salud dependiente del Organismo Público Descentralizado “Servicios de Salud Jalisco”, quedará como encargado de despacho de la Dirección General del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco”, hasta en tanto el Gobernador del Estado realiza la designación del Director General.
