@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-social-del-estado-de-queretaro-107069"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-27"
-last_updated: "2015-03-27"
+last_updated: "2015-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL 1 DE ENERO DE 2016.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL 1 DE OCTUBRE DE 2015.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2015.
 
@@ -875,7 +875,9 @@ Para la resolución de las controversias que se susciten con motivo de la aplica
 
 ## TRANSITORIOS
 
-Artículo Primero. La presente Ley entrará en vigor a partir del 1 de enero de 2016.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Primero. La presente Ley entrará en vigor a partir del 1 de octubre de 2015.
 
 Artículo Segundo. Una vez que entre en vigor la presente Ley, el titular del Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia, deberán expedir las disposiciones reglamentarias correspondientes en un término de sesenta días.
 
@@ -922,3 +924,11 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. El Poder Ejecutivo del Estado de Querétaro, dispondrá las providencias presupuestales necesarias para garantizar que la nueva Secretaría de Desarrollo Social, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para iniciar sus funciones y desempeñar sus atribuciones a partir del 1 de octubre de 2015.
