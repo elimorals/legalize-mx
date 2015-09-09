@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-organismo-descentralizado-denominado-16857"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-21"
-last_updated: "2013-07-31"
+last_updated: "2015-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE"
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de julio de 1999.
 
@@ -267,6 +267,12 @@ XV. Las demás que le asignen otras Leyes, Reglamentos, Acuerdos y Disposiciones
 
 El Director General del "Hospital del Niño Morelense" tendrá además a su cargo la representación legal de éste último, que lo faculta para llevar a cabo el ejercicio de las facultades establecidas en el artículo 84 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 13 BIS.- El Director General debe remitir los informes que le soliciten las Secretarías de Hacienda y de Administración, en sus respectivos ámbitos de competencia, en un plazo no mayor a quince días hábiles contados a partir de la notificación de solicitud; el cual podrá prorrogarse en forma excepcional por otros quince días hábiles, dependiendo de la naturaleza y volumen de la información solicitada, caso en el cual resolverá sobre la prórroga la Secretaría de que se trate.
+
+En el supuesto de no rendirse el informe en los términos a que se refiere el párrafo anterior, se podrá iniciar el respectivo procedimiento de responsabilidad administrativa, de conformidad con lo dispuesto en la normatividad de la materia.
+
 ###### ARTÍCULO 14.
 
 La Junta Directiva tendrá el apoyo de un Secretario Técnico cuyas funciones serán las siguientes:
@@ -450,3 +456,11 @@ TERCERO.- El Estatuto Orgánico del "Hospital del Niño Morelense", deberá expe
 En tanto se expida el Estatuto Orgánico, se aplicarán las normas y disposiciones actualmente vigentes, en todo lo que no se opongan al presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor rango que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL CIENTO TREINTA Y SIETE.- POR EL QUE SE ADICIONA EL ARTÍCULO 18 BIS AL DECRETO NÚMERO MIL CIENTO OCHENTA Y TRES POR EL QUE SE CREA LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO; SE ADICIONA EL ARTÍCULO 9 BIS AL DECRETO NÚMERO OCHOCIENTOS VEINTICUATRO POR EL QUE SE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE MORELOS; Y SE ADICIONA EL ARTÍCULO 13 BIS A LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO HOSPITAL DEL NIÑO MORELENSE”.]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los fines que indica la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
