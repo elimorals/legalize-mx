@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-organismo-publico-descentralizado-servicios-de-15860"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-10"
-last_updated: "2010-12-09"
+last_updated: "2015-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
 
-LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
+LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 10 de abril de 1997.
 
@@ -57,9 +57,11 @@ Al Organismo se integran las instituciones de salud dependientes de la Secretar�
 
 El Organismo es considerado como paraestatal y forma parte de la Administración Pública del Estado, conforme al artículo 50 de la Ley Orgánica del Poder Ejecutivo de esta Entidad Federativa.
 
-###### Art. 3º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2015)</small>
 
-El Organismo tendrá por objeto prestar servicios de salud a la población en esta Entidad Federativa, en cumplimiento de lo dispuesto por las Leyes General y Estatal de Salud, y a lo relativo del Acuerdo de Coordinación.
+###### Art. 3°.
+
+El Organismo tendrá por objeto prestar servicios de salud a la población en esta Entidad Federativa, con excepción de lo que corresponde al Régimen Estatal de Protección Social en Salud, en cumplimiento de lo dispuesto por las Leyes General y Estatal de Salud, y a lo relativo del Acuerdo de Coordinación.
 
 El Organismo tendrá las siguientes atribuciones:
 
@@ -285,8 +287,26 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE DICIEMBRE DE 2010.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 9 DE SEPTIEMBRE DE 2015.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. El organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco” se integrará con la estructura orgánica, recursos humanos, financieros y materiales de la Dirección General del Régimen Estatal de Protección Social en Salud dependiente del Organismo Público Descentralizado “Servicios de Salud Jalisco”, que previamente autorice su Junta de Gobierno; facultándose a la Secretaría de Planeación, Administración y Finanzas así como a la Junta de Gobierno de este último Organismo, para que lleve las acciones necesarias para el cumplimiento de este Decreto.
+
+Tercero. En el proceso de instalación del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco” a que se refiere este Decreto, serán respetados los derechos laborales del personal en los términos de ley, apegándose en lo procedente al Acuerdo de Coordinación para la Ejecución del Sistema de Protección Social en Salud en el Estado de Jalisco, celebrado entre la Federación y el Estado de Jalisco con fecha 10 de marzo de 2015.
+
+Cuarto. El organismo público descentralizado “Régimen Estatal de Protección Social en Salud de Jalisco" se subroga en todos los derechos y obligaciones que el Organismo Público Descentralizado “Servicios de Salud Jalisco”, por sí o por conducto de la Dirección General del Régimen Estatal de Protección Social, haya contraído en el marco del Sistema de Protección Social en Salud, con las excepciones previstas en materia laboral conforme al acuerdo de coordinación y a los transitorios segundo y tercero de este decreto.
+
+Quinto. Los asuntos que tenga en trámite el Organismo Público Descentralizado “Servicios de Salud Jalisco”, por sí o por conducto de la Dirección General del Régimen Estatal de Protección Social, en el marco del Sistema de Protección Social en Salud, ante dependencias y entidades de la administración pública federal, estatal o municipal, personas físicas y jurídicas, públicas o privadas, serán continuadas (sic) hasta su conclusión por el organismo público descentralizado “Régimen Estatal de Protección Social en Salud de Jalisco”, facultando a su Junta de Gobierno o al Director General, según corresponda, a realizar los actos jurídicos y suscribir los documentos e instrumentos públicos inherentes, salvo aquellos trámites que por normatividad federal o acuerdo de coordinación deban seguirse tramitando por el Organismo Público Descentralizado “Servicios de Salud Jalisco”.
+
+Sexto. La Junta de Gobierno del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco”, deberá ser instalada por su Presidente en un plazo no mayor de 60 sesenta días hábiles, contados a partir de la entrada en vigor del presente ordenamiento jurídico.
+
+Séptimo. La Junta de Gobierno aprobará el Reglamento de la Ley del Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Jalisco en un plazo no mayor a 120 ciento veinte días hábiles, contados a partir de la fecha de su instalación, y remitirlo al titular del Poder Ejecutivo del Estado para su expedición.
+
+Octavo. A partir de la entrada en vigor de este Decreto, el Director General del Régimen Estatal de Protección Social en Salud dependiente del Organismo Público Descentralizado “Servicios de Salud Jalisco”, quedará como encargado de despacho de la Dirección General del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco”, hasta en tanto el Gobernador del Estado realiza la designación del Director General.
