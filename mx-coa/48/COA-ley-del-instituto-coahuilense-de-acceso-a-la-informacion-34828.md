@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-acceso-a-la-informacion-34828"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-04"
-last_updated: "2009-04-28"
+last_updated: "2015-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA
 
-LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 155, PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 4 de noviembre de 2003.
 
@@ -41,7 +43,7 @@ LEY DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ### CAPÍTULO PRIMERO. BASES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 1°.
 
@@ -109,7 +111,7 @@ LA AUTONOMÍA POLÍTICA. El Instituto es un organismo político autónomo frente
 
 La competencia del Instituto se ejercerá por sus órganos, conforme a esta ley y su reglamentación propia. En ningún caso, la autonomía podrá ser vulnerada o restringida por los gobiernos federal, estatal o municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 10.
 
@@ -517,7 +519,7 @@ III. En materia de relaciones intergubernamentales:
 
 5. Promover lo (sic) colaboración interinstitucional en la materia bajo los principios de fidelidad estatal y municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 IV. En materia de acceso a la información pública y transparencia:
 
@@ -539,7 +541,7 @@ IV. En materia de acceso a la información pública y transparencia:
 
 7. Ejercer las demás facultades previstas en la ley de la materia, para salvaguardar el acceso a la información pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 V. En materia de protección de datos personales:
 
@@ -563,9 +565,9 @@ REFORMADO, P.O. 28 DE ABRIL DE 2009)
 
 6. Ejercer las demás facultades previstas en la ley de la materia, para la protección de los datos personales.
 
-VI. (DEROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PUBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
+VI. (DEROGADA POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ARCHIVOS PÚBLICOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, P.O. 25 DE MAYO DE 2007)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 VII. En materia de cultura de la transparencia, acceso a la información y protección de datos personales:
 
@@ -687,7 +689,7 @@ LA INASISTENCIA CONSECUTIVA A SESIONES DEL CONSEJO GENERAL. Se considerará tamb
 
 #### SECCIÓN SEGUNDA. LA PRESIDENCIA DEL CONSEJO GENERAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 49.
 
@@ -697,7 +699,7 @@ En caso de ausencia definitiva del Presidente, los consejeros nombrarán de nuev
 
 La designación del Consejero Presidente se comunicará de inmediato para su conocimiento a los Poderes del Estado y a los organismos públicos autónomos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2009)</small>
 
 ###### ARTÍCULO 50.
 
@@ -749,7 +751,7 @@ XVI. Otorgar los nombramientos del personal del Instituto que el Consejo General
 
 XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ABRIL DE 2009)</small>
 
 #### SECCIÓN TERCERA. LAS COMISIONES DEL INSTITUTO
 
@@ -1109,7 +1111,7 @@ EL SECRETARIO DE FINANZAS.
 
 LIC. JAVIER GUERRERO GARCIA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE DICIEMBRE DE 2006.
 
@@ -1160,3 +1162,27 @@ CUARTO. El Consejo General elaborará y adecuará las disposiciones que reglamen
 QUINTO. El Congreso del Estado deberá considerar las partidas necesarias y suficientes, al momento de designar a los nuevos consejeros del Instituto para que éste, pueda llevar a cabo sus funciones de acuerdo a la estructura orgánica del Consejo General, prevista en este decreto.
 
 SEXTO. Se derogan las disposiciones que se opongan a lo previsto en el presente decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley del Instituto Coahuilense de Acceso a la Información Pública y todos aquellos ordenamientos secundarios que de ella emanen, que sean contrarios al presente Decreto y se derogan todas las disposiciones que se opongan al mismo.
+
+TERCERO. El instituto deberá de modificar y armonizar el Reglamento de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y su estructura, organización y funcionamiento en un plazo de 90 días naturales, a partir de la entrada en vigor del presente decreto.
+
+En tanto no entren en vigor las modificaciones y adecuaciones al Reglamento de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, se estará a lo dispuesto en el Reglamento Interior del Instituto Coahuilense de Acceso a la Información Pública y demás ordenamientos con los que cuenta el instituto que sean aplicables, en lo que no contravengan a las disposiciones establecidas en el presente Decreto o en la Ley General.
+
+CUARTO. Los procedimientos de acceso a la información pública, los recursos de revisión y los recursos de queja que se estén tramitando al momento en que entre en vigor el presente Decreto de reforma, se substanciarán de acuerdo a los procedimientos vigentes de la ley al día en que se iniciaron. Una vez que concluya la etapa en la que se encuentran, se deberán inmediatamente sujetar a los procedimientos que establece el presente Decreto.
+
+QUINTO. Los sujetos obligados, deberán de constituir los Comités de Transparencia en un plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto. Aquellos que ya cuenten con el Comité Interno de Revisión, sólo deberán de formalizar el cambio de denominación en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La obligación de difundir el Catálogo de Información Adicional, a que refiere la fracción XLIV del artículo 21, será aplicable de acuerdo a los plazos establecidos en los artículos transitorios de la Ley General para la implementación de la Plataforma Nacional de Transparencia.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Decreto de reforma, los consejeros del Instituto Coahuilense de Acceso a la Información Pública, serán identificados como comisionados y ya no existirán los consejeros suplentes.
+
+OCTAVO. Los comisionados del Instituto Coahuilense de Acceso a la Información Pública, que se encuentren en funciones a la entrada en vigor del presente Decreto, y conserven el derecho de ratificación ya adquirido al momento de su designación, podrán ser ratificados de acuerdo a lo siguiente: El Pleno del Congreso del Estado o la Diputación Permanente, en su caso, con el voto de por lo menos las dos terceras partes de los diputados presentes, podrá ratificar a uno o más consejeros, por una sola vez y con ciento veinte días naturales de anticipación a la fecha de conclusión del cargo, sin que por ello implique la ratificación del consejero suplente.
+
+El procedimiento de ratificación previsto en el párrafo anterior, procederá siempre y cuando lo solicite el Consejo General del Instituto ante el Congreso del Estado, por medio del acuerdo correspondiente. En caso de que este procedimiento no sea solicitado hasta un día antes de la fecha en que deba iniciar el mismo, se procederá al trámite de designación previsto en este Decreto.
+
+De ser ratificados los comisionados del Instituto Coahuilense de Acceso a la Información Pública, estarán sujetos a lo establecido por el presente Decreto.
