@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-organismo-descentralizado-de-la-26391"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2014-11-20"
+last_updated: "2015-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL ORGANISMO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO SERVICIOS DE SALUD DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 27 de octubre de 2001.
 
@@ -71,7 +71,9 @@ I. Dirección de Administración;
 
 II. Dirección de Planeación, Evaluación y Proyectos Especiales;
 
-III. Dirección del Régimen Estatal de Protección Social en Salud;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+III. (DEROGADA POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)
 
 IV. Dirección de Políticas y Calidad en Salud;
 
@@ -1433,7 +1435,7 @@ VII.- La Jurisdicción Sanitaria No. VII conoce de los Municipios de Tancanhuitz
 
 DIRECCIÓN DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 38.
 
@@ -1465,11 +1467,15 @@ Los Jefes de Departamento, durante sus ausencias menores de 15 días, serán sup
 
 ARTICULO 42 BIS.- En los casos de suplencia, los servidores públicos designados podrán suscribir todo tipo de documentos y oficios de la competencia del Organismo, de la Dirección, Subdirección y Jefatura de Departamento, según sea el caso y que no requieran la aprobación de la Junta de Gobierno.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ## TITULO QUINTO.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO DÉCIMO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPITULO SEGUNDO.
 
@@ -1481,31 +1487,7 @@ ARTICULO 43 (SIC).- (DEROGADO, P.O. 7 DE JULIO DE 2005)
 
 ###### ARTICULO 43.
 
-Para los efectos de este Reglamento se concibe a la Dirección del Régimen Estatal de Protección Social en Salud, como la estructura administrativa dependiente de los Servicios de Salud de San Luis Potosí en el Estado, encargado de garantizar las acciones de Protección Social en Salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los Servicios de Salud de San Luis Potosí a la persona en el Sistema de Protección, la cual deberá realizar su actividad de manera independiente a la provisión de los Servicios de Salud de San Luis Potosí.
-
-A la Dirección del Régimen Estatal de Protección Social en Salud, corresponden de manera enunciativa y no limitativa las siguientes funciones:
-
-I. Programar la difusión y promoción del Sistema de Protección Social en Salud en el Estado de San Luis Potosí;
-
-II. Vigilar la identificación e incorporación de beneficiarios al Sistema de Protección Social en Salud en el Estado, manteniendo el resguardo de los datos personales contenidos en el padrón de beneficiarios, bajo estricta confidencialidad;
-
-III. Controlar la administración y ejercicio de las cuotas familiares de los beneficiarios al Sistema de Protección Social en Salud en el Estado;
-
-IV. Fortalecer a los establecimientos para la atención médica de los Servicios Estatales de Salud y establecer criterios homogéneos y transparentes en la atención de los beneficiarios del sistema, las relaciones entre la Dirección del Régimen Estatal y los establecimientos para la atención médica acreditados, formalizándolos mediante acuerdos de gestión, que bajo la forma de acuerdo interno, precisen la cobertura de afiliados, condiciones de calidad, tutela de los derechos de los usuarios, la asignación de recursos, el establecimiento de criterios de evaluación y seguimiento de sus actividades;
-
-V. Realizar el seguimiento operativo de las acciones de Seguro Popular de Salud para optimizar resultados;
-
-VI. Promover la participación de los Municipios en el Régimen de Protección Social en Salud en el Estado;
-
-VII. Vigilar y coordinar los procesos de afiliación en los diversos municipios del Estado;
-
-VIII. Impulsar la creación de unidades de atención al beneficiario encargado de la tutela de sus derechos y el cumplimiento de sus obligaciones;
-
-IX. Evaluar periódicamente la opinión de los beneficiarios con mención expresa a la aplicación de los derechos, y
-
-X. Integrar los programas de combate a la pobreza para la población no asegurada.
-
-Al frente de la Dirección del Régimen Estatal de Protección Social en Salud habrá un Director que ejercerá las facultades y atribuciones dispuestas en el presente artículo, y estará auxiliado por los Subdirectores, Jefes de Departamento, Asesores, Responsables y demás Servidores Públicos que requieran las necesidades del servicio y autorice su presupuesto.
+(DEROGADO POR EL TRANSITORIO PRIMERO DEL DECRETO POR EL QUE SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 10 DE SEPTIEMBRE DE 2015)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JULIO DE 2005)</small>
 
@@ -1582,5 +1564,27 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo 
 P.O. 20 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado; en consecuencia, quedan derogadas todas aquellas disposiciones administrativas que se le opongan.
+
+P.O. 10 DE SEPTIEMBRE DE 2015.
+
+Primero. Se deroga del articulo 5 la fracción III, así como el Título Quinto, Capítulo I, artículo 43 del Reglamento Interior del Organismo Público Descentralizado de la Administración Pública Estatal denominado Servicios de Salud de San Luis Potosí, publicado en el Periódico Oficial del Estado el 28 de diciembre de 2010 (sic), mediante el cual se creó la estructura administrativa dependiente de los Servicios de Salud de San Luis Potosí en el Estado denominada Dirección del Régimen Estatal de Protección Social en Salud.
+
+Segundo. El patrimonio del Organismo se conformará con los recursos materiales y financieros del denominado Régimen Estatal de Protección Social en Salud, así como todos aquéllos que hayan adquirido o tengan inventariados corno propios, por lo que los Servicios de Salud de San Luis Potosí procederán a dar cumplimiento a lo establecido en la Ley de Entrega Recepción de los Recursos Públicos del Estado de San Luís Potosí.
+
+Tercero. La Secretaría de Finanzas efectuará las adecuaciones correspondientes para transferir al Organismo denominado Régimen Estatal de Protección Social en Salud los recursos que le correspondan para operar las acciones del Sistema de Protección Social en Salud en el Estado.
+
+Cuarto. Con motivo de la extinción de la Dirección del Régimen Estatal de Protección Social en Salud, las treinta y tres personas de base estatal que prestaban sus servicios en esta área, continuarán formando parte de los Servicios de Salud de San Luis Potosí, con todas las prestaciones y beneficios con que a la fecha cuentan, liberando de toda responsabilidad administrativa, civil o laboral al nuevo Organismo que se crea mediante el presente Decreto.
+
+Quinto. Los asuntos en trámite de la Dirección del Régimen Estatal de Protección Social en Salud, serán concluidos por el Organismo que se crea, asumiendo éste los derechos y obligaciones que conforme a ello le corresponden.
+
+Sexto. La comprobación de los recursos del Sistema de Protección Social en Salud que se recibieron hasta antes de la descentralización del Organismo que aquí se crea, quedará bajo la responsabilidad de los Servicios de Salud de San Luis Potosí.
+
+Séptimo. El Reglamento Interno que regule las funciones del Organismo denominado Régimen Estatal de Protección Social en Salud se expedirá en un término no mayor de ciento ochenta días contados a partir de la entrada en vigencia del presente Decreto.
+
+Octavo. A partir de la entrada en vigor del presente decreto, los Servicios de Salud de San Luis Potosí, contarán con un plazo de noventa días naturales para realizar las modificaciones a su Reglamento Interior, que resulten necesarias.
+
+Noveno. Hasta en tanto se lleven a cabo las modificaciones que procedan al Reglamento Interior de los Servicios de Salud de San Luis Potosí, se seguirán aplicando las disposiciones vigentes en lo conducente y en aquello que no contraríe el contenido del presente Decreto.
+
+Décimo. El presente Decreto entrará en vigor 90 días después de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 ### CAPÍTULO III. MEDIDAS CAUTELARES DE CARÁCTER REAL
