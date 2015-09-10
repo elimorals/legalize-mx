@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2009-05-28"
+last_updated: "2015-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -229,9 +229,21 @@ II.- Para los vehiculos con peso mayor al anterior, la distancia deberá ser de 
 
 Cuando las condiciones sean adversas, que limiten la visibilidad o hagan difícil la conducción de vehículos; se deberá aumentar esta distancia de acuerdo a las circunstancias. Todo accidente causado por no guardar la distancia será responsabilidad de quien no cumpla con este ordenamiento. Se exceptúa de lo anterior el caso en el que se compruebe que el vehiculo golpeado entró en forma repentina proveniente de otra calle o carril colocándose adelante del que lo golpea sin darle tiempo a guardar la distancia o bien que se encontraba con la marcha detenida sobre el carril de circulación de un desperfecto mecánico y no se cumplió con la obligación de señalizar tal situación a los demás conductores.
 
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 14.
 
-El Presidente Municipal en Coordinación con la Dirección General de Seguridad Pública expedirá permisos para el tránsito de vehículos de carga con peso bruto mayor a ocho mil kilogramos, los de tres o más ejes, los tractocamiones y los vehículos de tracción animal dentro de las zonas que por sus características habitacionales, comerciales o de servicios y por las condiciones físicas de la vía pública, así lo requieran.
+La Jefatura de Policía Preventiva y Tránsito Municipal, Dirección General de Seguridad Pública, expedirá permisos para el tránsito de vehículos de carga con peso bruto mayor a ocho mil kilogramos, los de tres o más ejes, los tracto camiones y los vehículos de tracción animal dentro de las zonas que por sus características habitacionales, comerciales o de servicios y por las condiciones físicas de la vía pública que así lo requieran.
+
+Se establece como área de uso restringido con prohibición total de circulación para el tránsito de vehículos de carga de largo itinerario, con las características contenidas en el párrafo anterior, dentro del polígono comprendido a partir del punto de intersección del kilómetro 251+100 al 252+800 ambos cuerpos periférico Sur del kilómetro 0+000 al 1+900 incluyendo el Distribuidor Vial a la Colorada y ambos cuerpos, y Periférico Oriente del kilómetro 0+000 al 4+500 incluyendo los puentes del vertedor de la Presa General Abelardo L. Rodríguez y ambos cuerpos que forman parte de la carretera federal número 15 México Nogales en el estado de Sonora.
+
+Los vehículos de carga con destino final o intermedio dentro de la ciudad de Hermosillo, Sonora, o su región poniente, deberán contar con guía o manifiesto de carga por escrito en el que se contenga el nombre y el domicilio del destinatario el cual deberá estar ubicado dentro del área indicada.
+
+Además, el tránsito de vehículos de carga, así como las maniobras de carga y descarga de los vehículos con las características contenidas en el párrafo primero deberán sujetarse a las restricciones de circulación de vialidades y horarios previstos en este y en otros ordenamientos legales.
+
+En todo caso, el tránsito por las vialidades de la ciudad de Hermosillo y la carga y descarga dentro del perímetro urbano de los vehículos con las características contenidas en el párrafo primero solo serán permitidas en el horario comprendido de las 21:00 horas a las 6:00 horas del día siguiente.
+
+El incumplimiento de lo dispuesto en este artículo será sancionado con multa de 10 a 15 veces el salario mínimo general vigente en el área geográfica que le corresponde al municipio de Hermosillo.
 
 ###### ARTÍCULO 15.
 
@@ -725,6 +737,10 @@ b) Conducir a exceso de velocidad.
 
 c) En caso de resultar responsable de un accidente.
 
+> <small>(ADICIONADO, B.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+d) En caso de que el operador de un vehículo de transporte de carga lo haga transitar por zonas restringidas o en contravención de lo dispuesto en las leyes de Tránsito y la de Transportes, ambas del Estado.
+
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS ATRIBUCIONES DE SEGURIDAD PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 59.
@@ -944,3 +960,23 @@ Se deroga la fracción X del artículo 157 del Bando de Policía y Gobierno para
 ###### ARTÍCULO TERCERO.
 
 Para hacer efectivas las multas que excedan de los cien días de salario mínimo diario general vigente en la ciudad de Hermosillo, deberán realizarse las modificaciones correspondientes a la Ley de Ingresos y Presupuesto de Ingresos del H. Ayuntamiento de Hermosillo, para el ejercicio fiscal 2009.
+
+B.O. 10 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA Y ADICIÓN DEL ARTÍCULO 14 Y ADICIÓN DEL INCISO D) AL ARTÍCULO 58 DEL REGLAMENTO DE TRÁNSITO MUNICIPAL PARA EL MUNICIPIO DE HERMOSILLO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma y adiciones al artículo 14 y adición del inciso d) al artículo 58 del Reglamento de Tránsito Municipal para el Municipio de Hermosillo, entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a las presentes reformas y adiciones.
+
+###### ARTICULO TERCERO.
+
+Las atribuciones para la aplicación de las sanciones previstas en la presente reforma y adición se ejecutarán a partir de la fecha en (sic) sea abierto a la circulación el libramiento oriente de Hermosillo.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Jefatura de Policía Preventiva y Tránsito Municipal, Dirección General de Seguridad Pública para que lleve a cabo un programa de divulgación y concientización a los destinatarios de las presentes reformas, a fin de facilitar su cumplimiento voluntario.
