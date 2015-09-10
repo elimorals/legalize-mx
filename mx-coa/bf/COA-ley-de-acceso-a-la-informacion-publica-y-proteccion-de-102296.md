@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-a-la-informacion-publica-y-proteccion-de-102296"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2014-08-26"
+last_updated: "2015-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, SIN PERJUICIO DE LO PREVISTO EN LOS TRANSITORIOS TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 26 de agosto de 2014.
 
@@ -43,17 +41,21 @@ LEY DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES PARA 
 
 #### SECCIÓN PRIMERA. OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y tiene por objeto establecer las bases para garantizar el derecho de cualquier persona al acceso a la información pública y la protección de datos personales, contenidos en los artículos 7 y 8 de la Constitución Política del Estado de Coahuila de Zaragoza, así como promover, mejorar, ampliar y consolidar la participación ciudadana en los asuntos públicos y de gobierno.
+La presente ley es de orden público y tiene por objeto establecer las bases para garantizar el derecho de cualquier persona al acceso a la información pública y la protección de datos personales, contenidos en el artículo 6, apartado A de la Constitución Política de los Estados Unidos Mexicanos, y los artículos 7 y 8 de la Constitución Política del Estado de Coahuila de Zaragoza, así como promover, mejorar, ampliar y consolidar la participación ciudadana en los asuntos públicos y de gobierno.
 
-El derecho fundamental a la información pública comprende la facultad de las personas para solicitar, difundir, investigar y recabar información pública.
+El derecho fundamental a la información pública, comprende la facultad de las personas para solicitar, difundir, investigar y recabar información pública, así como la obligación de los sujetos obligados de difundir, de manera proactiva, la información pública de oficio, las obligaciones de transparencia y en general toda aquella información que se considere de interés público.
 
 ###### Artículo 2.
 
 Para cumplir con su objeto, esta ley:
 
-I. Proveerá lo necesario para garantizar que toda persona tenga acceso a la información pública mediante procedimientos informales, sencillos, prontos, eficaces, expeditos y progresivos;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+I. Proveerá lo necesario para garantizar que toda persona tenga acceso a la información pública;
 
 II. Garantizará los mecanismos que permitan transparentar la gestión pública, mediante la difusión de la información que generen los sujetos obligados;
 
@@ -65,13 +67,17 @@ V. Contribuirá a la consolidación de la democracia, mediante el ejercicio del 
 
 VI. Garantizará la protección de los datos personales en poder de los sujetos obligados, los derechos de acceso, rectificación, cancelación, y oposición mediante procedimientos sencillos y expeditos; y
 
-VII. Deberá de interpretarse conforme al principio pro persona y las bases y principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y los instrumentos jurídicos internacionales ratificados por nuestro país.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Deberá de interpretarse conforme al principio pro persona y las bases y principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, la Ley General de Transparencia y Acceso a la Información Pública y los instrumentos jurídicos internacionales ratificados por nuestro país.
 
 #### SECCIÓN SEGUNDA. CATÁLOGO DE DEFINICIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-Para efectos de esta ley se entenderá por:
+Además de las definiciones contenidas en el artículo 3 de la Ley General de Transparencia y Acceso a la Información Pública, para efectos de esta ley, se entenderá por:
 
 I. Datos Personales: La información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo concerniente a una persona, identificada o identificable.
 
@@ -113,21 +119,27 @@ XVIII. Servidor público: Los representantes de elección popular, los miembros 
 
 XIX. Sistema de Datos Personales: El conjunto organizado de datos personales, que estén en posesión de un sujeto obligado, sea en formato escrito, impreso, digital, sonoro, visual, electrónico, informático, holográfico o cualquier otro medio.
 
-XX. Sistema Electrónico: Aquél validado por el instituto, mediante el cual se podrán realizar solicitudes de acceso a la información, protección de datos personales y recursos de revisión.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Sistema de Solicitudes de Acceso a la Información: Aquél que forma parte de la Plataforma Nacional de Transparencia, de conformidad con el artículo 50 fracción I de la Ley General.
 
 XXI. Sujetos obligados: Los señalados en el artículo 6 de esta ley.
 
 XXII. Sujetos obligados indirectos: Las personas físicas o morales que por su labor auxiliar en funciones de orden público, poseen obligaciones de transparentar información en términos de la Sección Tercera del Capítulo Tercero de la presente ley.
 
-XXIII. Entidad Pública: Los sujetos obligados a proporcionar información en los términos de esta ley y demás disposiciones aplicables, contenidos en el artículo 6 de esta ley, con excepción de los partidos políticos, las agrupaciones políticas, los sindicatos que reciban y ejerzan recursos públicos, las organizaciones de la sociedad civil que reciban y/o ejerzan recursos públicos en el ámbito estatal y municipal, a partir de 16,000 salarios mínimos generales vigentes en el Estado o aquellos que reciban un ingreso estatal que sea propuesto dentro de su presupuesto y las instituciones de beneficencia.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII. Entidad Pública: Los sujetos obligados a proporcionar información en los términos de la Ley General, esta ley y demás disposiciones aplicables, contenidos en el artículo 6 de esta ley, con excepción de las organizaciones de la sociedad civil que reciban y/o ejerzan recursos públicos en el ámbito estatal y municipal, a partir de 16,000 salarios mínimos generales vigentes en el Estado o aquellos que reciban un ingreso estatal, que sea propuesto dentro de su presupuesto y las instituciones de beneficencia.
 
 XXIV. Organizaciones de la Sociedad Civil: Asociaciones o Sociedades Civiles legalmente constituidas.
 
 XXV. Instituciones de Beneficencia: Toda institución, asociación, fundación o ente económico que realice actos de beneficencia, en términos de la ley de la materia.
 
-XXVI. Unidad Administrativa: Las que de acuerdo con la normatividad de cada uno de los sujetos obligados, tengan la información de conformidad con las facultades que les correspondan.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-XXVII. Unidad de Atención: Los órganos responsables de tramitar las solicitudes de acceso a la información, los recursos de revisión y publicar la información pública de oficio de los sujetos obligados de acuerdo con las disposiciones contenidas en el capítulo noveno de esta ley.
+XXVI. Estado: El Estado de Coahuila de Zaragoza.
+
+XXVII. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2015)
 
 XXVIII. Versiones Públicas: Documento en el que, para permitir su acceso, se testa u omite la información clasificada como reservada o la confidencial.
 
@@ -143,15 +155,31 @@ XXXIII. Redes sociales: Formas de comunicación electrónica por medio de comuni
 
 XXXIV. Interés Público: Valor agregado que posee la información producto de una actividad, que por su naturaleza resulta de importancia conocer para la comunidad para el debido respeto y ejercicio de los derechos humanos.
 
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXXV. Ley General: Ley General de Transparencia y Acceso a la Información Pública.
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVI. Organismo Garante Nacional: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVII. Persona que realiza actos de autoridad: Es toda aquella que, con independencia de su naturaleza formal, dicta, ordena, ejecuta o trata de ejecutar el acto que crea, modifique o extinga situaciones jurídicas en forma unilateral y obligatoria; u omita el acto que de realizarse crearía, modificaría o extinguiría dichas situaciones jurídicas.
+
 #### SECCIÓN TERCERA. LOS SUJETOS OBLIGADOS
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 4.
 
-Toda la información en posesión de cualquier autoridad es pública, en los términos de esta ley, excepto aquella que sea considerada como confidencial. Las personas tendrán acceso a ella en los términos y condiciones que establece esta ley.
+Toda la información generada, obtenida, adquirida, transformada o en posesión de cualquier sujeto obligado o autoridad, es pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, la Ley General y la presente ley, excepto aquella que sea considerada como confidencial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
 
-Los servidores públicos responsables de la aplicación de esta ley deberán de interpretarla bajo el principio de máxima publicidad, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, a los Tratados Internacionales y la interpretación que de los mismos hayan realizado los órganos internacionales respectivos.
+Los servidores públicos responsables de la aplicación de esta ley, deberán de interpretarla bajo el principio de máxima publicidad, conforme a la Constitución Política de los Estados Unidos Mexicanos, la Ley General, la Constitución Política del Estado de Coahuila de Zaragoza, los Tratados Internacionales y la interpretación que de los mismos hayan realizado los órganos internacionales respectivos.
 
 Conforme a este principio y en caso de duda razonable entre la publicidad y la reserva de la información, el servidor público deberá favorecer el principio de máxima publicidad de la misma, o bien, siempre que sea posible, elaborará versiones públicas de los documentos que contengan información clasificada como reservada o que sea confidencial.
 
@@ -195,17 +223,19 @@ Los sujetos obligados deberán documentar todo acto que se emita en ejercicio de
 
 Los actos de los sujetos obligados a que se refiere el párrafo anterior, incluyen no sólo las decisiones definitivas, también los procesos deliberativos, así como aquellas decisiones que permitan llegar a una conclusión final.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-Son obligaciones de los sujetos obligados en materia de acceso a la información las siguientes:
+Son obligaciones de los sujetos obligados en materia de acceso a la información, las siguientes:
 
 I. Constituir y mantener actualizados sus sistemas de archivo y gestión documental;
 
-II. Publicar, actualizar y mantener disponible, de manera proactiva, a través de medios electrónicos con que cuenten, la información a que se refiere el capítulo tercero de esta ley y en general toda aquella que sea de interés público;
+II. Publicar, actualizar y mantener disponible, de manera proactiva, a través de los medios electrónicos con que cuenten, la información a que se refiere la Ley General y el capítulo tercero de esta ley y en general toda aquella que sea de interés público;
 
 III. Asegurar la protección de los datos personales en su posesión, en términos de esta ley;
 
-IV. Dar acceso a la información pública que le sea requerida, en los términos de ésta ley y demás disposiciones aplicables;
+IV. Dar acceso a la información pública que le sea requerida, en los términos de la Ley General, esta ley y demás disposiciones aplicables;
 
 V. Elaborar, con auxilio del instituto, un programa de capacitación para los servidores públicos o sus integrantes, en temas de transparencia, acceso a la información, rendición de cuentas, datos personales y archivos;
 
@@ -213,29 +243,33 @@ VI. Cumplir cabalmente los acuerdos y las resoluciones del instituto y colaborar
 
 VII. Atender los requerimientos, observaciones, recomendaciones y criterios que en materia de transparencia y acceso a la información pública realice el instituto;
 
-VIII. Procurar condiciones de accesibilidad para que personas con capacidades diferentes ejerzan los derechos regulados en esta ley;
+VIII. Procurar condiciones de accesibilidad para que personas con algún tipo de discapacidad ejerzan los derechos regulados en esta ley;
 
 IX. Crear y hacer uso de sistemas de tecnología sistematizados y avanzados, y adoptar las nuevas herramientas para que los ciudadanos consulten información de manera directa, sencilla y rápida;
 
 X. Contar con el material y equipo de cómputo adecuado, así como la asistencia técnica necesaria, a disposición del público para facilitar las solicitudes de acceso a la información, así como la interposición de los recursos de revisión en términos de la presente ley;
 
-XI. Contar con la infraestructura y los medios tecnológicos necesarios para garantizar el efectivo acceso a la información de las personas con discapacidad, para lo cual podrá valerse de las diversas tecnologías disponibles para la difusión de la información pública;
+XI. Contar con la infraestructura y los medios tecnológicos necesarios para garantizar el efectivo acceso a la información de las personas con algún tipo de discapacidad, para lo cual podrá valerse de las diversas tecnologías disponibles para la difusión de la información pública;
 
 XII. Elaborar y publicar un informe anual de las acciones realizadas en la materia y de implementación de las bases y principios de la presente ley;
 
-XIII. Responder substancialmente las solicitudes de información que le sean presentadas en términos de la presente ley;
+XIII. Responder substancialmente las solicitudes de información que le sean presentadas;
 
 XIV. Fomentar la cultura de la transparencia y el respeto del derecho a la información pública y de acceso a la información pública;
 
-XV. Establecer un programa de formación y capacitación en materia de transparencia para los servidores públicos que laboran en él.
+XV. Establecer un programa de formación y capacitación en materia de transparencia para los servidores públicos que laboran en él;
 
-XVI. Generar la información en formatos abiertos que permitan su fácil acceso y contarán con bases de datos que permitan la búsqueda y extracción de información. Además las páginas deberán contar con buscadores temáticos y disponer de un respaldo con todos los registros electrónicos para cualquier persona que lo solicite;
+XVI. Contar con una página web con diseño adaptable a dispositivos móviles, que tenga cuando menos un buscador temático y un respaldo con todos los registros electrónico (sic) para cualquier persona que lo solicite;
 
-XVII. Contar con una unidad de documentación, debiendo el titular estar certificado y éste será evaluado semestralmente por el instituto; y
+XVII. Contar con un área de documentación, debiendo el titular estar certificado y éste será evaluado semestralmente por el instituto;
 
-XVIII. Las demás que determinan esta ley y otras disposiciones aplicables.
+XVIII. Generar la información que se pondrá a disposición de la población como datos abiertos, con el propósito de facilitar su acceso, uso, reutilización y redistribución para cualquier fin, conforme a los ordenamientos jurídicos aplicables;
 
-El Instituto establecerá los criterios que permitan homologar la presentación de la información en los portales de Internet y promoverá la presentación de la información pública de oficio desagregada por género, así como la creación de medios electrónicos para incorporar, localizar y facilitar el acceso a la información pública de oficio.
+XIX. Constituir el Comité de Transparencia, las Unidades de Transparencia, dando vista al instituto de su integración, y vigilar su correcto funcionamiento de acuerdo a su normatividad interna;
+
+XX. Designar a los titulares de las Unidades de Transparencia, quien dependerá directamente del titular del sujeto obligado; y
+
+XXI. Las demás que determinan esta ley y otras disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -313,15 +347,19 @@ El instituto instrumentará los mecanismos para la difusión, eficacia y vigenci
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-Con excepción de la información reservada o confidencial prevista en esta ley, los sujetos obligados deberán difundir, actualizar y poner a disposición del público de manera proactiva, la información pública a que se refiere este capítulo.
+Con excepción de la información reservada o confidencial prevista en la Ley General y en esta ley, los sujetos obligados deberán difundir, actualizar y poner a disposición del público de manera proactiva, de acuerdo con sus facultades, atribuciones, funciones u objeto social según corresponda, además de la establecida en la Ley General, la información pública a que se refiere este capítulo.
 
 ###### Artículo 18.
 
 Las páginas electrónicas utilizadas por los sujetos obligados para la difusión de información pública, observarán los siguientes lineamientos:
 
-I. La página de inicio tendrá un vínculo de acceso, fácilmente identificable y accesible que cumpla con los requerimientos de sistematización, comprensión y organización, directo a donde se encuentre la información pública a la que se refiere este capítulo;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+I. La página de inicio tendrá un vínculo de acceso, fácilmente identificable y accesible que cumpla con los requerimientos de sistematización, comprensión y organización, directo a la Plataforma Nacional de Transparencia y a la información pública a la que se refiere este capítulo;
 
 II. La información que se difunda en las páginas electrónicas deberá ser confiable, completa y oportuna;
 
@@ -337,31 +375,45 @@ El instituto establecerá los lineamientos necesarios para asegurar que la infor
 
 La información pública de oficio deberá de actualizarse en los medios electrónicos disponibles por lo menos una vez al mes. En todos los casos se deberá de indicar en el medio electrónico la fecha de actualización por cada rubro de información.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+La información publicada por los sujetos obligados en términos del presente ordenamiento no constituye propaganda gubernamental, por lo que deberá mantenerse accesible, incluso dentro de los procesos electorales.
+
 ###### Artículo 20.
 
 El sujeto obligado deberá difundir, dentro del primer mes de cada año, un calendario de actualización de la información, por cada contenido y área responsable.
 
-Para la publicación de la información pública de oficio, los sujetos obligados utilizarán formatos de fácil comprensión y deberá de tener disponible su traducción en lenguas indígenas.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+Para la publicación de la información pública de oficio, los sujetos obligados utilizarán formatos de fácil comprensión. Se procurará, en la medida de lo posible, la traducción a lenguas indígenas.
 
 #### SECCIÓN SEGUNDA. LA INFORMACIÓN PÚBLICA DE OFICIO SUJETA A PUBLICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-Las entidades públicas deberán mantener impresa para consulta directa y difundir, en su caso, a través de medios electrónicos la siguiente información:
+Los sujetos obligados, deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
 
 I. Su estructura orgánica en un formato que permita vincular por cada eslabón de la misma, nivel tabular, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables, y los puestos públicos vacantes de dicha estructura, así como los requisitos para poder acceder a los mismos;
 
 II. El marco normativo aplicable a los sujetos obligados, en el que deberá incluirse el periódico oficial, las leyes, códigos, reglamentos, decretos, reglas de operación, manuales administrativos, acuerdos, circulares, lineamientos y políticas emitidas aplicables en el ámbito de su competencia;
 
-III. El directorio de los servidores públicos, con nombre, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, con excepción de los miembros de las corporaciones policiacas;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+III. El directorio de los servidores públicos, con nombre, cargo o nombramiento asignado, nivel tabular, fecha de alta en el cargo, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, con excepción de los miembros de las corporaciones policiacas;
 
 IV. Los nombramientos, comisiones y licencias de los servidores públicos;
 
 V. La remuneración mensual por puesto de todos los servidores públicos por sueldo o por honorarios, incluyendo todas las percepciones, así como el tipo de seguridad social con el que cuentan;
 
-VI. Versión pública de la declaración patrimonial de los servidores públicos, que contenga: nombre, cargo, tipo de declaración, sueldo y bienes inmuebles, ubicados en territorio nacional y extranjero;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-VII. El importe por concepto de viáticos y gastos de representación del titular del sujeto obligado;
+VI. Versión pública de la declaración patrimonial de los servidores públicos, que contenga: nombre, cargo, tipo de declaración, sueldo y bienes inmuebles, ubicados en territorio nacional y extranjero; así como el listado de servidores públicos que no hayan rendido la declaración patrimonial;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VII. El importe por concepto de viáticos a partir del jefe de departamento y, en su caso, de gastos de representación;
 
 VIII. El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policiacas;
 
@@ -369,7 +421,9 @@ IX. La relativa a los convenios de colaboración que los sujetos obligados celeb
 
 X. Las condiciones generales de trabajo, o instrumentos que regulen las relaciones laborales del personal sindicalizado y de confianza que se encuentre adscrito a los sujetos obligados y los recursos económicos o en especie que por cualquier motivo se hayan entregado a los sindicatos, incluso los donativos y el monto global de las cuotas sindicales;
 
-XI. Los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño, por unidad responsable;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño por área;
 
 XII. Un listado con los servicios que ofrece, que incluya los trámites, tiempos de respuesta, requisitos, objetivo y formatos para acceder a ellos, así como información sobre la población o sector a quien vayan dirigidos;
 
@@ -377,7 +431,9 @@ XIII. Todo mecanismo de presentación directa de solicitudes, opiniones, quejas,
 
 XIV. Todo mecanismo de participación ciudadana que permita la toma de decisiones;
 
-XV. Los programas de subsidio, estímulos y apoyos que ofrece, incluyendo el diseño, ejecución, montos asignados, criterios y requisitos para acceder a éstos, en su caso, las reglas de operación, así como la unidad administrativa responsable de la entrega;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Los programas de subsidio, estímulo y apoyos que ofrece, incluyendo el diseño, ejecución, montos asignados, criterios y requisitos para acceder a éstos, en su caso, las reglas de operación, así como el área responsable de la entrega;
 
 XVI. Los nombres de los beneficiarios de los programas de subsidio, estímulo y/o apoyos otorgados;
 
@@ -391,11 +447,15 @@ XX. Para los últimos tres ejercicios fiscales, la relativa al presupuesto asign
 
 XXI. El calendario de las sesiones o reuniones públicas a que se convoquen, y en su caso, la minuta o acta correspondiente;
 
-XXII. Nombre, nombramiento, fotografía, domicilio y correo electrónico oficiales de los servidores públicos encargados de la unidad de atención;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Nombre, nombramiento, fotografía, domicilio y correo electrónico oficiales de los servidores públicos que integren la Unidad de Transparencia y el Comité de Transparencia;
 
 XXIII. Los catálogos documentales de sus archivos administrativos de conformidad con lo establecido en esta ley;
 
-XXIV. Las solicitudes de acceso a la información pública, las quejas presentadas y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema electrónico correspondiente;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV. Las solicitudes de acceso a la información pública, las quejas presentadas y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema de solicitudes de acceso a la información;
 
 XXV. Los informes de avances de gestión financiera trimestrales y la cuenta pública anual, una vez que se presenten ante el Congreso del Estado;
 
@@ -403,7 +463,9 @@ XXVI. La deuda pública, así como las instituciones a las que se adeuda;
 
 XXVII. El número, tipo y los resultados de las auditorías practicadas y concluidas al ejercicio presupuestal de cada una de las entidades públicas, con excepción de los que debe publicar la Auditoría Superior del Estado, de acuerdo a lo previsto en la fracción XI del artículo 26 de este ordenamiento;
 
-XXVIII. El padrón de proveedores y contratistas;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXVIII. El padrón de proveedores y contratistas, identificando el nombre de la persona física o moral, el número de identificación, el domicilio fiscal, el inicio de operaciones, la fecha de registro y de vigencia, así como la copia del acta constitutiva y sus posteriores modificaciones;
 
 XXIX. Los nombres de los inspectores o visitadores;
 
@@ -419,7 +481,9 @@ c. El nombre del ganador y las razones que lo justifican;
 
 d. La persona física responsable de vigilar la obra o el servicio contratado;
 
-e. La unidad administrativa solicitante y la responsable de su ejecución;
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+e. El área solicitante y la responsable de su ejecución;
 
 f. El número de contrato, la fecha, el monto y el plazo de entrega o de ejecución de los servicios u obra licitada;
 
@@ -437,7 +501,9 @@ b. En su caso, las cotizaciones consideradas, especificando los nombres de los p
 
 c. El nombre de la persona física o moral adjudicada;
 
-d. La unidad administrativa solicitante y la responsable de su ejecución;
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+d. El área solicitante y la responsable de su ejecución;
 
 e. El número, fecha, el monto del contrato y el plazo de entrega o de ejecución de los servicios u obra;
 
@@ -453,7 +519,9 @@ XXXIII. La georreferenciación e imagen de todas las obras públicas, señalando
 
 XXXIV. Los índices de expedientes clasificados como reservados elaborados semestralmente y por rubros temáticos;
 
-XXXV. Una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus unidades administrativas, así como datos del responsable del archivo;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXXV. Una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus áreas, así como datos del responsable del archivo;
 
 XXXVI. Respecto de las concesiones, licencias, permisos y autorizaciones: su objeto, el nombre o razón social del titular, el tipo y vigencia de las mismas; tratándose de licencias para el expendio, venta y consumo de bebidas alcohólicas, se deberá publicar además del número de licencia, nombre del titular, el nombre del usuario o comodatario de la licencia, nombre comercial, el giro, dirección y ubicación del local a través de planos georreferenciados, fotografía del mismo, los horarios de venta y/o consumo, número de multas y clausuras en su caso;
 
@@ -491,9 +559,41 @@ XLI. Estadísticas o indicadores sobre los ingresos derivados de impuestos, dere
 
 XLII. La información desclasificada, la cual deberá de permanecer dos años posteriores a partir de que perdió su clasificación;
 
-XLIII. Las preguntas más frecuentes y sus respectivas respuestas; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-XLIV. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
+XLIII. Las preguntas más frecuentes y sus respectivas respuestas;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XLIV. El Catálogo de Información Adicional;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XLV. Los sujetos obligados que participen o coadyuven en el auxilio de comunidades en emergencia o desastre, deberán de difundir un informe de acciones realizadas durante la contingencia, en un plazo no mayor a 30 días;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XLVI. La aportación en dinero o en especie que reciban de las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio o en las instituciones de crédito, para ayudar a los municipios o comunidades en emergencia o desastre;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XLVII. El listado de servidores públicos con sanciones definitivas, especificando la causa de sanción, la disposición y la sanción;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XLVIII. El listado del parque vehicular donde se identifique el modelo, año y número de placa;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XLIX. La información catastral, consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+L. El proceso catastral de valuación de los predios; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+LI. Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones (sic) responsabilidad del sujeto obligado.
 
 ###### Artículo 22.
 
@@ -525,9 +625,11 @@ Los sujetos obligados deberán informar al instituto, cuáles son los rubros del
 
 Los sujetos obligados contarán con un medio electrónico, en el cual puedan recibir quejas, sugerencias y propuestas, debiendo asignar un responsable de área para dar respuesta en un plazo menor a 15 días.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-Además de lo señalado en el artículo 21 de este ordenamiento, el Poder Ejecutivo y la Administración Pública Estatal, deberán publicar la siguiente información:
+Además de lo señalado en el artículo 71, fracción I de la Ley General y el artículo 21 del presente ordenamiento, el Poder Ejecutivo del Estado y la Administración Pública Estatal, deberán publicar la siguiente información:
 
 I. Los reglamentos de las leyes expedidos en ejercicio de sus atribuciones;
 
@@ -551,9 +653,35 @@ IV. Por conducto de la Secretaría de Gobierno, deberá publicar lo siguiente:
 
 7. Estadística de visitas realizadas a cada notaría, por tipo de visita, por distrito y por notario;
 
-8. Las sanciones aplicadas a los notarios y a quienes se aplicaron; y
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+8. Las sanciones aplicadas a los notarios y a quienes se aplicaron;
 
 9. Listado de licencias, suspensiones temporales, suplencias y renuncias, de los notarios;
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+10. El domicilio y la ubicación de los albergues y refugios, así como las rutas de evacuación. Durante la contingencia, esta información se deberá de difundir físicamente en lugares públicos de fácil acceso a la población afectada y por redes sociales;
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+11. Publicar el Plan Estatal y Programa Estatal de Protección Civil y demás programas específicos, sectoriales, regionales, de contingencias o acciones que de éstos se deriven;
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+12. Publicar un directorio internacional, nacional, estatal y municipal, de organismos públicos y privados, especialmente dedicados a la atención de la protección civil en caso de emergencias o desastres;
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+13. Informar y orientar oportunamente a la población sobre los riesgos y la implementación de medidas que deban adoptarse en caso de emergencias o desastres;
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+14. Difundir a través de infografías la información relativa a las medidas de protección civil en caso de emergencias o desastres; y
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+15. Publicar un listado de las constancias de factibilidad en materia de protección civil para la instalación de los establecimientos que, por su funcionamiento o naturaleza, representen riesgos para la población;
 
 V. Por conducto del Registro Público del Estado de Coahuila de Zaragoza, deberá publicar, por cada escritura inscrita:
 
@@ -585,9 +713,17 @@ VII. Por conducto de la Procuraduría General de Justicia del Estado de Coahuila
 
 2. Las estadísticas sobre denuncias y/o querellas presentadas y averiguaciones previas desestimadas, así como de las carpetas de investigación;
 
-3. La estadística de las averiguaciones previas consignadas; y
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-4. Las estadísticas de personas desaparecidas o no localizadas;
+3. La estadística de las averiguaciones previas consignadas;
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+4. Las estadísticas de personas desaparecidas o no localizadas; y
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+5. Publicar los lineamientos y criterios para la implementación de los planes de contingencia de disturbios dentro de centros educativos y de salud.
 
 VIII. Por conducto de la Secretaría de Educación:
 
@@ -687,17 +823,23 @@ XIII. Las Juntas de Conciliación y Arbitraje del Estado, deberán publicar:
 
 8. Estadísticas de amparos concedidos en contra de laudos emitidos por la autoridad;
 
-9. Las actas de las visitas de inspección o revisión por parte de la unidad administrativa competente para ello;
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+9. Las actas de las visitas de inspección o revisión por parte del área competente para ello;
 
 10. Calendario de días inhábiles; y
 
 11. Formatos de procedimientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
-Además de lo señalado en el artículo 21, el Poder Legislativo del Estado, deberá publicar la siguiente información:
+Además de lo señalado en el artículo 72 de la Ley General y el artículo 21 del presente ordenamiento, el Poder Legislativo del Estado, deberá publicar la siguiente información:
 
-I. Los nombres, fotografía y currículum de los Diputados electos, incluyendo los suplentes, así como, en su caso, las comisiones o comités a los que pertenecen y las funciones que realicen en los órganos legislativos;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+I. Una ficha técnica por cada Diputado, que contenga: los nombres, fotografía y currículum, nombres del suplente, así como, en su caso, las comisiones o comités a los que pertenece y las funciones que realice en los órganos legislativos; iniciativa y productos legislativos presentados; asistencia al Pleno y a comisiones; y asuntos recusados y excusados;
 
 II. La votación que recibieron para ser designados como diputados;
 
@@ -713,7 +855,9 @@ VII. Las leyes, decretos y acuerdos aprobados por el Congreso o la Diputación P
 
 VIII. El Diario de Debates y la Gaceta Parlamentaria;
 
-IX. Los montos de: las dietas, las partidas presupuestales y cualquier recurso asignado y ejercido a los Diputados, Grupos Parlamentarios, las Comisiones o Comités, la Mesa Directiva, la Junta de Gobierno, y los demás órganos del Congreso;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Los montos de: las dietas, las partidas presupuestales y cualquier recurso asignado y ejercido a los Diputados, Grupos Parlamentarios, las comisiones o comités, la Mesa Directiva, la Junta de Gobierno, los centros de investigación y estudio, y los demás órganos del Congreso del Estado;
 
 X. Las convocatorias, actas, acuerdos, minutas y listas de asistencia de cada una de las comisiones o comités, así como del Pleno;
 
@@ -725,17 +869,41 @@ XIII. La dirección donde se encuentre ubicado el módulo de orientación y, en 
 
 XIV. Los informes de actividades que presentan los Diputados, el lugar donde los realizan y el origen de los recursos que utilizan;
 
-XV. El monto asignado y ejercido de los recursos que reciben cada uno de los Diputados para realizar su informe anual de actividades; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Los demás informes que deban presentarse conforme a su ley orgánica.
+XV. El monto asignado y ejercido de los recursos que reciben cada uno de los Diputados para realizar su informe anual de actividades:
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Un mapa interactivo en el que se identifique el distrito que representa cada Diputado, señalando los límites de su circunscripción, incluyendo los municipios y colonias que represente;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Descripción del Proceso Legislativo;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Listado de integración de las comisiones y comités;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Un registro de los juicios políticos y de responsabilidad penal señalando: el número de expediente, fecha de ingreso, nombre y cargo del denunciado, estado procesal y en su caso, resolución final; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Los demás informes que deban presentarse conforme a su ley orgánica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 27.
 
-Además de lo señalado en el artículo 21, el Poder Judicial del Estado, deberá publicar la siguiente información:
+Además de lo señalado en el artículo 73 de la Ley General y el artículo 21 del presente ordenamiento, el Poder Judicial del Estado, deberá publicar la siguiente información:
 
 I. Su estructura jurisdiccional y administrativa;
 
-II. Las funciones de las unidades jurisdiccionales, así como de las unidades administrativas;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+II. Las funciones de las unidades jurisdiccionales, así como de las áreas administrativas;
 
 III. El directorio de los funcionarios judiciales y administrativos. En el caso de los primeros deberá incluir desde el nivel de actuario o equivalente; además de la forma en que le fue asignada la plaza;
 
@@ -775,15 +943,27 @@ XX. Las tesis aisladas y jurisprudenciales publicadas en el Boletín de Informac
 
 XXI. La lista de Peritos en los términos de la Ley Orgánica del Poder Judicial del Estado;
 
-XXII. El estado que guarda el sistema pensionario del Poder Judicial; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-XXIII. Cualquier otra información que se considere relevante a juicio del Pleno del Tribunal Superior de Justicia o del Consejo de la Judicatura del Poder Judicial del Estado.
+XXII. El estado que guarda el sistema pensionario del Poder Judicial del Estado;
 
-El Consejo de la Judicatura emitirá criterios y procedimientos institucionales, para proporcionar a los particulares acceso a la información, para la supresión de datos personales y protección de la privacidad e intimidad, de conformidad con lo previsto por la presente ley y en los demás acuerdos, lineamientos, y disposiciones en la materia.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII. Cualquier otra información que se considere relevante a juicio del Pleno del Tribunal Superior de Justicia o del Consejo de la Judicatura del Poder Judicial del Estado; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV. El proceso de selección de jueces y magistrados.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+El Consejo de la Judicatura emitirá criterios y procedimientos institucionales, para proporcionar a los particulares acceso a la información, para la supresión de datos personales y protección de la privacidad e intimidad, de conformidad con lo previsto por la Ley General y la presente ley y en los demás acuerdos, lineamientos, y disposiciones en la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-Además de lo señalado en el artículo 21, los Municipios deberán publicar la siguiente información:
+Además de lo señalado en el artículo 71 de la Ley General y el artículo 21 del presente ordenamiento, los municipios, deberán publicar la siguiente información:
 
 I. Estadística de los cuerpos de seguridad del municipio, incluyendo: estado de fuerza, resultado de certificación, programa de contratación, indicador de desempeño, y relación con los estudios internacionales;
 
@@ -791,7 +971,9 @@ II. Relación de programas de combate a la delincuencia;
 
 III. Informe sobre el sistema pensionario y de servicio médico que sirva a sus trabajadores;
 
-IV. Las cantidades recibidas por concepto de multas, así como en su caso, el uso o aplicación que se les da;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+IV. El catálogo de falta (sic) o infracciones que contengan los ordenamientos municipales, con las sanciones a que se pueden hacer acreedores quienes incurran en el supuesto, así como el monto mínimo y máximo de las multas que pudieran ser aplicadas en su caso. Las cantidades recabadas por concepto de multas, así como, en su caso, el uso o aplicación que se les da;
 
 V. Las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
@@ -805,7 +987,9 @@ IX. Las actas de sesiones de cabildo y de las comisiones municipales;
 
 X. La información que muestre el estado que guarda su situación patrimonial, incluyendo la relación de los bienes muebles e inmuebles y los inventarios relacionados con altas y bajas en el patrimonio del municipio;
 
-XI. Los empréstitos, deudas contraídas, así como la enajenación de bienes;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Los empréstitos, deudas contraídas a corto, mediano y largo plazo, así como la enajenación de bienes;
 
 XII. Respecto al ejercicio del presupuesto: un reporte trimestral sobre la ejecución de las aportaciones federales y estatales, pudiendo identificar el programa para el cual se destinaron y, en su caso, el monto del gasto asignado por el propio municipio;
 
@@ -821,9 +1005,25 @@ XVII. Rutas establecidas en planos y tarifas de transporte público en la págin
 
 XVIII. Calendario con horarios, número de unidad y teléfonos de servicio de recolección de basura;
 
-XIX. Listados de personas a quien se les aplicó multa o infracción; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-XX. Listado de personas que adeudan un crédito fiscal.
+XIX. Listados de personas a quien se les aplicó multa o infracción;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Listado de personas que adeudan un crédito fiscal;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. Un listado con el nombre de las personas físicas o morales y la ubicación del predio que cuenten con constancia de uso de suelo o licencia de funcionamiento donde se desarrollen actividades del sector energético y de exploración, explotación y beneficio de minerales o sustancias que en vetas, mantos, masas o yacimientos constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. El atlas municipal de riesgos; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII. El análisis mensual del ejercicio presupuestal de los ingresos y egresos.
 
 ###### Artículo 29.
 
@@ -843,11 +1043,15 @@ IV. Programa o lugar de explotación y el estado que guardan los pozos o fuentes
 
 V. Los estudios y sus resultados que, en su caso, se realicen de los mantos acuíferos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 31.
 
-Además de lo señalado en el artículo 21, el Instituto Electoral y de Participación Ciudadana de Coahuila, deberá publicar la siguiente información:
+Además de lo señalado en el artículo 74 fracción I de la Ley General y el artículo 21 del presente ordenamiento, el organismo electoral en el Estado, deberá publicar la siguiente información:
 
-I. Los informes que presenten los partidos políticos, asociaciones y las agrupaciones políticas;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+I. Los informes que presenten los partidos políticos, asociaciones, agrupaciones políticas y los ciudadanos registrados ante la autoridad electoral, así como los anexos, los comprobantes fiscales y, en general, los documentos que den soporte a dichos informes;
 
 II. Los expedientes sobre quejas resueltas por violaciones a la ley electoral;
 
@@ -859,11 +1063,15 @@ V. Los programas institucionales en materia de capacitación, educación cívica
 
 VI. La división del territorio que comprende el Estado en distritos electorales uninominales;
 
-VII. Los listados de partidos políticos y demás agrupaciones políticas registrados ante la autoridad electoral;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Los listados de partidos políticos, asociaciones, agrupaciones políticas y, en su caso, los ciudadanos registrados ante la autoridad electoral;
 
 VIII. El registro de candidatos a cargos de elección popular;
 
-IX. Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgadas a los partidos y demás agrupaciones políticas, así como el monto autorizado de financiamiento privado para campañas electorales;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgados a los partidos, asociaciones, agrupaciones políticas y, en su caso, a los ciudadanos, así como el monto autorizado de financiamiento privado para campañas electorales;
 
 X. Los cómputos totales de las elecciones y procesos de participación ciudadana llevados a cabo en el Estado;
 
@@ -871,9 +1079,11 @@ XI. Las auditorías concluidas a los partidos políticos; y
 
 XII. Los informes sobre sus demás actividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-Además de lo señalado en el artículo 21, la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza deberá publicar la siguiente información:
+Además de lo señalado en el artículo 74 fracción II de la Ley General y el artículo 21 del presente ordenamiento, el organismo protector de los derechos humanos en el Estado, deberá publicar la siguiente información:
 
 I. Las recomendaciones enviadas, y su destinatario; y si fueron aceptadas o no por este último;
 
@@ -885,11 +1095,15 @@ IV. Las estadísticas sobre las denuncias o quejas presentadas que permitan iden
 
 V. Los recursos de queja e impugnación concluidos, así como el concepto por el cual llegaron a ese estado.
 
-La Comisión deberá en todo momento cuidar estrictamente por no revelar, información confidencial o reservada contenida dentro de las obligaciones anteriores.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+El organismo protector de los derechos humanos en el Estado deberá en todo momento cuidar estrictamente por no revelar, información confidencial o reservada contenida dentro de las obligaciones anteriores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 33.
 
-Además de lo señalado en el artículo 21, las universidades públicas e instituciones de educación superior pública, deberán publicar la siguiente información:
+Además de lo señalado en el artículo 75 de la Ley General y el artículo 21 del presente ordenamiento, las universidades públicas e instituciones de educación superior pública, deberán publicar la siguiente información:
 
 I. Los planes y programas de estudio según el sistema que ofrecen, ya sea escolarizado o abierto, con las áreas de conocimiento, el perfil profesional requerido para cursar el plan de estudios, la duración del programa con las asignaturas por semestre, su valor en créditos y una descripción sintética para cada una de ellas;
 
@@ -907,15 +1121,19 @@ VII. El calendario del ciclo escolar; y
 
 VIII. Nombre de estudiantes admitidos por evaluaciones o certámenes. En su caso nombres de estudiantes admitidos por otra forma y los motivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 34.
 
-Además de lo señalado en el artículo 21, el Instituto deberá hacer pública la siguiente información:
+Además de lo señalado en el artículo 74 fracción III de la Ley General y el artículo 21 del presente ordenamiento, el instituto, deberá hacer pública la siguiente información:
 
 I. El resultado de los recursos de revisión interpuestos y las versiones públicas de las resoluciones emitidas;
 
 II. Los estudios que apoyan la resolución de los recursos de revisión;
 
-III. En su caso, los amparos, controversias constitucionales y acciones de inconstitucionalidad que existan en contra de sus resoluciones;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+III. En su caso, los amparos, las controversias constitucionales, acciones de inconstitucionalidad y los recursos de inconformidad, que existan en contra de sus resoluciones;
 
 IV. Las estadísticas sobre las solicitudes de información. En ellas, se deberá identificar: el sujeto obligado que la recibió, el perfil del solicitante, el tipo de respuesta, y la temática de las solicitudes;
 
@@ -927,57 +1145,37 @@ VII. Los resultados de la evaluación al cumplimiento de la ley por parte de los
 
 VIII. El informe sobre las acciones de promoción de la cultura de transparencia.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-Los partidos políticos y las agrupaciones políticas, tendrán las obligaciones previstas en las fracciones I, II, V y XXI del artículo 21 de la presente ley, así como:
+Además de lo señalado en el artículo 76 de la Ley General, la Ley General de Partidos Políticos y el artículo 21 del presente ordenamiento, los partidos políticos y las agrupaciones políticas, deberán hacer pública la siguiente información:
 
-I. El directorio del personal, con nombre, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, así como con el tipo de seguridad social con el que cuentan;
+I. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular, y en su caso, el registro correspondiente;
 
-II. Sus documentos básicos y su plataforma política;
+II. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña que se presentan ante la autoridad electoral;
 
-III. Los reglamentos, acuerdos y demás disposiciones de carácter general, aprobados por sus órganos de dirección, que regulen su vida interna, las obligaciones y derechos de sus afiliados, la elección de sus dirigentes y la postulación de sus candidatos a cargos de elección popular;
+III. Plantilla de personal y tipo de seguridad social que se ofrece a sus trabajadores; y
 
-IV. Las plataformas electorales y programas de gobierno que registren ante el Instituto Electoral y de Participación Ciudadana de Coahuila;
+IV. Las demás que señalen las disposiciones en materia electoral.
 
-V. Los convenios de fusión o de candidatura común que celebren, o de participación electoral que realicen con agrupaciones políticas;
-
-VI. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular, y en su caso el registro correspondiente;
-
-VII. Los montos de financiamiento público otorgados mensualmente, en cualquier modalidad, a sus órganos estatales y municipales, durante los últimos tres años y hasta el mes más reciente y, en su caso, los descuentos correspondientes por sanciones;
-
-VIII. Los informes, anuales o parciales, de ingresos y gastos, tanto ordinarios como de precampaña y campaña que se presentan ante la autoridad electoral; el estado de situación patrimonial; el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores; la relación de donantes y los montos aportados por cada uno, en términos de la legislación electoral;
-
-IX. Las resoluciones que emitan sus órganos disciplinarios de cualquier nivel, una vez que hayan causado estado;
-
-X. Los nombres de sus representantes ante los órganos del Instituto Electoral y de Participación Ciudadana de Coahuila;
-
-XI. El listado de las fundaciones, centros o institutos de investigación o capacitación, o cualquier otro, que reciban apoyo económico permanente del partido político;
-
-XII. Plantilla de personal y tipo de seguridad social que se ofrece a sus trabajadores; y
-
-XIII. Las demás que señalen las disposiciones en materia electoral.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 36.
 
-Además de lo señalado en el artículo 21, los fideicomisos y fondos públicos, deberán hacer público lo siguiente:
+Además de lo señalado en el artículo 77 de la Ley General y el artículo 21 del presente ordenamiento, los fideicomisos y fondos públicos, deberán hacer pública la siguiente información:
 
-I. Nombre del servidor público y de la persona física o moral que represente al Fideicomitente, al Fiduciario y al Fideicomisario;
+I. Monto total de remanentes de un ejercicio fiscal a otro;
 
-II. Sector de la Administración Pública al cual pertenecen;
+II. Las reglas de operación que los regulan: y
 
-III. El monto total, el uso y destino de los subsidios, donaciones, transferencias, aportaciones o subvenciones que reciban;
+III. Las demás que señalen las disposiciones en la materia.
 
-IV. Monto total de remanentes de un ejercicio fiscal a otro;
-
-V. Las modificaciones que en su caso sufran los contratos o decretos de creación del fideicomiso o del fondo público;
-
-VI. Causas y motivos por los que se inicia el proceso de extinción del fideicomiso o fondo público; y
-
-VII. Reglas de operación de los fideicomisos y fondos públicos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 37.
 
-Los sindicatos que reciban y/o ejerzan recursos públicos en el ámbito estatal o municipal, deberán difundir, a través de medios electrónicos la siguiente información:
+Los sindicatos que reciban y ejerzan recursos públicos en el ámbito estatal o municipal, además de lo señalado en el artículo 79 de la Ley General, deberán difundir, a través de medios electrónicos, la siguiente información:
 
 I. Su estructura orgánica en un formato que permita vincular, por cada eslabón de la misma, la remuneración mensual;
 
@@ -995,7 +1193,9 @@ VII. El currículum de los trabajadores dirigentes que aparezcan en la estructur
 
 VIII. Los convenios y contratos que celebre el sindicato con cualquier persona de derecho público o privado;
 
-IX. Nombre, domicilio laboral y, en su caso, dirección electrónica del responsable de la unidad de atención;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Nombre, domicilio laboral y, en su caso, dirección electrónica del responsable de la Unidad de Transparencia;
 
 X. Las solicitudes de acceso a la información pública y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema electrónico correspondiente;
 
@@ -1031,7 +1231,9 @@ V. El domicilio, número de teléfono y, en su caso, dirección electrónica y d
 
 VI. Los convenios y contratos que celebre la organización, con cualquier persona de derecho público o privado;
 
-VII. Nombre, domicilio laboral y, en su caso, dirección electrónica del responsable de la unidad de atención;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Nombre, domicilio laboral y, en su caso, dirección electrónica del responsable de la Unidad de Transparencia;
 
 VIII. Las solicitudes de acceso a la información pública y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema electrónico correspondiente;
 
@@ -1063,9 +1265,11 @@ III. Los datos de la obra, detallando fecha de inicio y de conclusión, monto y 
 
 El Instituto determinará las dimensiones del anuncio en el que la constructora publicará la información.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 42.
 
-Las Entidades Públicas que realicen obra púbica, deberán difundir físicamente en el lugar de la obra, una placa o inscripción que señale que fue hecha por el pueblo y el gobierno, así como el costo de la misma.
+Los sujetos obligados o autoridades que realicen obra púbica, deberán difundir físicamente en el lugar de la obra, una placa o inscripción que señale que fue hecha por el pueblo y el gobierno, así como el costo de la misma.
 
 #### SECCIÓN TERCERA. INFORMACIÓN PÚBLICA DE OFICIO DE LOS SUJETOS OBLIGADOS INDIRECTOS
 
@@ -1181,9 +1385,11 @@ Los sujetos obligados deben implementar medios de autenticación digital, para t
 
 Los sujetos obligados deberán establecer canales de comunicación con los ciudadanos, a través de las redes sociales y plataformas digitales que les permitan participar en la toma de decisiones.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 54.
 
-Se integrará un consejo consultivo de gobierno abierto, que proponga mejores prácticas de participación ciudadana y colaboración en la implementación y evaluación de la política digital del estado en materia de datos abiertos y la realización de indicadores específicos sobre temas relevantes, por cada sujeto obligado.
+Se integrará un secretariado técnico de gobierno abierto en el Estado, que proponga mejores prácticas de participación ciudadana y colaboración en la implementación y evaluación de la política digital del Estado en materia de datos abiertos y la realización de indicadores específicos sobre temas relevantes, el cual creará un programa de promoción de gobierno abierto.
 
 ###### Artículo 55.
 
@@ -1217,17 +1423,17 @@ V. Aquella cuya divulgación pueda causar un serio perjuicio a:
 
 1. Las actividades de prevención o persecución de los delitos;
 
-2. La gobernabilidad;
+2. (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2015);
 
 3. La administración de justicia o la seguridad de un denunciante, querellante o testigo, así como sus familias, en los términos de las disposiciones aplicables;
 
 4. La recaudación de las contribuciones; y
 
-5. Cualquier otra acción que tenga por objeto la aplicación de las leyes;
+5. (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2015);
 
 VI. La que contengan las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto sea adoptada la decisión definitiva, la cual deberá estar documentada. Se considera que se ha adoptado la decisión definitiva cuando el o los servidores públicos responsables de tomar la resolución resuelvan de manera concluyente una etapa, sea o no susceptible de ejecución; y
 
-VII. Cuando se trate de información sobre estudios y proyectos cuya divulgación pueda causar daños al interés del Estado o suponga un riesgo para su realización.
+VII. (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2015).
 
 ###### Artículo 59.
 
@@ -1241,21 +1447,27 @@ III. Los expedientes judiciales o de los procedimientos administrativos seguidos
 
 IV. Los expedientes de las denuncias y procedimientos de juicio político y de declaración de procedencia en materia de responsabilidad penal, que se tramiten ante el Congreso del Estado de Coahuila, sobre las responsabilidades de servidores públicos estatales y municipales. Una vez que se concluya con el trámite de estos expedientes, su contenido será público, salvo la información clasificada como reservada o aquella de carácter confidencial, en los términos de esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 60.
 
-La información clasificada como reservada podrá permanecer con tal carácter hasta por un periodo de dos años.
+La información clasificada como reservada en los términos de la Ley General o de la presente ley, podrá permanecer con tal carácter hasta por un periodo de dos años.
 
 Transcurrido el plazo señalado en el párrafo anterior, si aún subsistieren las causas que dieron origen a la clasificación de información reservada, los sujetos obligados podrán ampliar dicho plazo un año más, previa fundamentación y motivación en términos de esta ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 61.
 
-No podrá clasificarse como información reservada aquella relacionada con la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad.
+No podrá clasificarse como información reservada aquella relacionada con la investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad, o aquella que se trate de información relacionada con actos de corrupción, de acuerdo con las leyes aplicables.
 
 #### SECCIÓN SEGUNDA. REQUISITOS PARA LA CLASIFICACIÓN DE LA INFORMACIÓN RESERVADA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 62.
 
-El acuerdo de clasificación de la información como reservada, que emita el titular de la unidad administrativa deberá indicar:
+El acta de clasificación de la información como reservada, que emita el titular del área deberá indicar:
 
 I. La fuente y el archivo donde se encuentra la información;
 
@@ -1265,21 +1477,37 @@ III. La parte o las partes del documento que se reserva, o si este se reserva en
 
 IV. La fecha en que se clasifica el documento y el plazo de reserva;
 
-V. La unidad administrativa responsable de su custodia; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-VI. La firma digital o autógrafa de quien clasifica.
+V. El área responsable de su custodia;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VI. La firma digital o autógrafa de quien clasifica; y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VII. La justificación de la prueba del daño.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 63.
 
 La clasificación de la información deberá estar debidamente fundada y motivada y deberá demostrar la existencia de elementos objetivos a partir de los cuales se infiera que con el acceso a la información existe probabilidad de dañar el interés público.
 
-Cuando el sujeto obligado clasifique la información como reservada con fundamento en el artículo 59 de esta ley, sólo deberá cumplir con la debida fundamentación y motivación.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 64.
 
-La información deberá ser clasificada por el titular de la unidad administrativa en el momento en el que se reciba una solicitud de acceso a la información, en cuyo caso, deberá tomarse en consideración la fecha en que se generó el documento o expediente para efectos del periodo de su clasificación.
+La información deberá ser clasificada por el titular del área en el momento en el que se reciba una solicitud de acceso a la información, en cuyo caso, deberá tomarse en consideración la fecha en que se generó el documento o expediente para efectos del periodo de su clasificación.
 
 La reserva de información no necesariamente abarca la totalidad de un registro público; la información, contenida en un documento, que no esté expresamente reservada, se considerará pública para efectos de generar una versión pública.
+
+Previo a que se entregue el acta de clasificación a la Unidad de Transparencia como respuesta a una solicitud de acceso a la información, el titular del área deberá de remitirla al Comité de Transparencia, mismo que deberá de resolver, dentro del plazo para dar respuesta, a fin de:
+
+I. Confirmar la clasificación; o
+
+II. Revocar o modificar la clasificación, para que se conceda el acceso a la información.
 
 ###### Artículo 65.
 
@@ -1289,7 +1517,9 @@ I. Venza el plazo de reserva;
 
 II. Cesen las causas que dieron origen a su clasificación;
 
-III. Por resolución del comité interno de revisión de cada sujeto obligado; y/o
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+III. Por resolución del Comité de Transparencia de cada sujeto obligado; y/o
 
 IV. Por resolución del instituto que revoque o modifique la clasificación de reserva emitida por el sujeto obligado.
 
@@ -1301,9 +1531,13 @@ El instituto será el encargado de interpretar en la esfera administrativa, la d
 
 #### SECCIÓN PRIMERA. LA INFORMACIÓN CONFIDENCIAL
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 67.
 
-La información que se refiere a la vida privada y los datos personales mantendrá el carácter de confidencial de manera indefinida y sólo podrán tener acceso a ellas los titulares de la misma y los servidores públicos que requieran conocerla para el debido ejercicio de sus funciones.
+La información que se refiere a la vida privada y los datos personales mantendrá el carácter de confidencial de manera indefinida y sólo podrán tener acceso a ellas (sic) los titulares de la misma, o sus representantes legales, y los servidores públicos que requieran conocerla para el debido ejercicio de sus funciones.
+
+Los sujetos obligados deberán tomar las medidas pertinentes para proteger la información que refiere a la vida privada y los datos personales de menores de edad que obren en sus archivos.
 
 ###### Artículo 68.
 
@@ -1335,9 +1569,11 @@ Los sujetos obligados que se constituyan como fideicomitentes o fideicomisarios 
 
 La información relativa a los fideicomisos o mandatos, se entregará a través de sus fideicomitentes o mandantes.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 72.
 
-La información confidencial a que se refiere este capítulo, podrá divulgarse cuando, ante la presentación de un recurso de revisión y a juicio del instituto, existan razones de interés público relacionado con los objetivos de esta ley debidamente acreditadas. Para este efecto, el recurrente aportará los elementos de prueba que considere pertinentes, que justifiquen la divulgación de la información confidencial.
+La información confidencial a que se refiere este capítulo, podrá divulgarse cuando, ante la presentación de un recurso de revisión y a juicio del instituto, o en su caso el organismo garante nacional, existan razones de interés público relacionado con los objetivos de esta ley debidamente acreditadas. Para este efecto, el recurrente aportará los elementos de prueba que considere pertinentes, que justifiquen la divulgación de la información confidencial.
 
 ###### Artículo 73.
 
@@ -1365,7 +1601,9 @@ IV. Disociación: El procedimiento mediante el cual los datos personales no pued
 
 V. Encargado: El servidor público facultado por un instrumento jurídico o expresamente autorizado por el responsable para llevar a cabo el tratamiento físico o automatizado de los datos personales.
 
-VI. Responsable: El servidor público titular de la unidad administrativa responsable de las decisiones sobre el tratamiento físico o automatizado de datos personales, así como el contenido y finalidad de los sistemas de datos personales.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Responsable: El servidor público titular del área responsable de las decisiones sobre el tratamiento físico o automatizado de datos personales, así como el contenido y finalidad de los sistemas de datos personales.
 
 VII. Tercero: La persona física o moral, pública o privada, autoridad, entidad, órgano u organismo distinta del titular, del responsable del tratamiento, del responsable del sistema de datos personales, del encargado del tratamiento y de las personas autorizadas para tratar los datos bajo la autoridad directa del responsable del tratamiento o del encargado del tratamiento.
 
@@ -1381,7 +1619,9 @@ X. Tratamiento de datos personales: Cualquier operación o conjunto de operacion
 
 El tratamiento de los datos personales requerirá el consentimiento por escrito de su titular, salvo las excepciones señaladas en esta ley o en otra disposición legal. Tal consentimiento podrá ser revocado cuando exista causa justificada para ello sin que se le atribuyan efectos retroactivos.
 
-Al efecto, la unidad de atención contará con los formatos necesarios para recabar dicho consentimiento, pudiendo utilizarse, en su caso, medios electrónicos.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+Al efecto, la Unidad de Transparencia contará con los formatos necesarios para recabar dicho consentimiento, pudiendo utilizarse, en su caso, medios electrónicos.
 
 ###### Artículo 77.
 
@@ -1497,9 +1737,11 @@ Cuando los datos personales hubiesen sido transmitidos con anterioridad a la fec
 
 El titular tendrá derecho a oponerse al tratamiento de los datos personales que le conciernan, en el supuesto que los datos se hubiesen recabado sin su consentimiento, cuando existan motivos fundados para ello y la ley no disponga lo contrario. De actualizarse tal supuesto, el responsable del sistema deberá excluir del tratamiento los datos personales relativos al titular.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 95.
 
-Sin perjuicio de lo que dispongan otras leyes, sólo los titulares o sus representantes legales podrán solicitar a la unidad de atención que les otorgue acceso, rectifique, cancele o haga efectivo su derecho de oposición, respecto de los datos personales que le conciernen y que obren en un sistema de datos personales en posesión de los sujetos obligados.
+Sin perjuicio de lo que dispongan otras leyes, sólo los titulares o sus representantes legales podrán solicitar a la Unidad de Transparencia que les otorgue acceso, rectifique, cancele o haga efectivo su derecho de oposición, respecto de los datos personales que le conciernen y que obren en un sistema de datos personales en posesión de los sujetos obligados.
 
 ###### Artículo 96.
 
@@ -1515,25 +1757,33 @@ IV. Cuando se trate de una solicitud de rectificación de datos personales, debe
 
 V. Señalar la modalidad en la que el titular prefiere que se le otorgue el acceso personal a sus datos, la cual podrá ser verbalmente o mediante consulta directa, copias simples, certificadas o cualquier otra clase de medio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 97.
 
-La unidad de atención deberá notificar al solicitante en un plazo de veinte días contados desde la presentación de la solicitud de acceso, rectificación, cancelación u oposición, la determinación adoptada en relación a su solicitud.
+La Unidad de Transparencia deberá notificar al solicitante en un plazo de veinte días contados desde la presentación de la solicitud de acceso, rectificación, cancelación u oposición, la determinación adoptada en relación a su solicitud.
 
 De resultar procedente la solicitud de rectificación, cancelación u oposición, ésta se hará efectiva dentro de los quince días siguientes a la fecha de la notificación.
 
 Los plazos antes referidos podrán ser ampliados una sola vez por un periodo de diez días, siempre y cuando las acciones que se deban llevar a cabo con motivo de la procedencia, o por la localización de los datos, lo justifiquen.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 98.
 
-Si los detalles proporcionados por el solicitante no bastan o son erróneos, la unidad de atención podrá requerir, por una vez y dentro de los cinco días siguientes a la presentación de la solicitud de acceso, o diez días siguientes en el caso de solicitudes de rectificación, cancelación u oposición, que el titular indique otros elementos o corrija los datos. Este requerimiento interrumpirá los plazos establecidos en el artículo anterior.
+Si los detalles proporcionados por el solicitante no bastan o son erróneos, la Unidad de Transparencia podrá requerir, por una vez y dentro de los cinco días siguientes a la presentación de la solicitud de acceso, o diez días siguientes en el caso de solicitudes de rectificación, cancelación u oposición, que el titular indique otros elementos o corrija los datos. Este requerimiento interrumpirá los plazos establecidos en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 99.
 
-En el supuesto que los datos personales a que se refiere la solicitud obren en los sistemas de datos personales de los sujetos obligados y éstos consideren improcedente la solicitud de acceso, rectificación, cancelación u oposición, emitirán una respuesta fundada y motivada al respecto, la cual deberán notificar al solicitante a través de la unidad de atención en los términos de lo previsto en este capítulo.
+En el supuesto que los datos personales a que se refiere la solicitud obren en los sistemas de datos personales de los sujetos obligados y éstos consideren improcedente la solicitud de acceso, rectificación, cancelación u oposición, emitirán una respuesta fundada y motivada al respecto, la cual deberán notificar al solicitante a través de la Unidad de Transparencia en los términos de lo previsto en este capítulo.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
 
-Si los sistemas de datos personales con que cuente el sujeto obligado no contienen la información solicitada, se hará del conocimiento del solicitante por conducto de la unidad de atención.
+Si los sistemas de datos personales con que cuente el sujeto obligado no contienen la información solicitada, se hará del conocimiento del solicitante por conducto de la Unidad de Transparencia.
 
 ###### Artículo 101.
 
@@ -1601,9 +1851,11 @@ VI. Autorizar a los encargados y llevar una relación actualizada de las persona
 
 VII. Notificar al Instituto, a las autoridades competentes y a los titulares de los incidentes relacionados con la conservación o mantenimiento de los sistemas de datos personales previstos en las recomendaciones de medidas de seguridad de los mismos.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 111.
 
-A efecto de facilitar el ejercicio de los derechos previstos en el presente capítulo, los sujetos obligados deberán notificar al Instituto los sistemas de datos personales que posean, la categoría de datos de que se componen, su finalidad, la normatividad que les resulte aplicable; así como el responsable y las unidades administrativas en la (sic) que se encuentran dichos datos.
+A efecto de facilitar el ejercicio de los derechos previstos en el presente capítulo, los sujetos obligados deberán notificar al instituto los sistemas de datos personales que posean, la categoría de datos de que se componen, su finalidad, la normatividad que les resulte aplicable; así como el responsable y las áreas en la que se encuentran dichos datos.
 
 ### CAPÍTULO OCTAVO. LOS ARCHIVOS ADMINISTRATIVOS
 
@@ -1637,11 +1889,15 @@ Son competentes para regular en materia de archivos:
 
 I. Tratándose de dependencias y entidades del Poder Ejecutivo del Estado, corresponderá al Archivo General del Estado y demás entidades competentes, establecer los lineamientos específicos en materia de archivos administrativos, con base en la ley de la materia, en esta ley y demás disposiciones aplicables;
 
-II. Tratándose del Poder Judicial del Estado, contará con una unidad administrativa como responsable de la organización y regulación de su archivo administrativo;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+II. Tratándose del Poder Judicial del Estado, contará con un área como responsable de la organización y regulación de su archivo administrativo;
 
 III. Tratándose del resto de las entidades públicas estatales, corresponderá al Instituto en conjunto con cada una de ellas, establecer los lineamientos específicos en materia de archivos administrativos; y
 
-IV. Tratándose de los Ayuntamientos, corresponderá al archivo municipal de cada uno o la unidad administrativa que designe como responsable de la organización y regulación de sus archivos administrativos, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Tratándose de los Ayuntamientos, corresponderá al archivo municipal de cada uno o el área que designe como responsable de la organización y regulación de sus archivos administrativos, de conformidad con las disposiciones aplicables. La regulación en materia de archivos deberá tomar en consideración las normas archivísticas internacionalmente reconocidas así como las disposiciones vigentes en la materia.
 
 La regulación en materia de archivos deberá tomar en consideración las normas archivísticas internacionalmente reconocidas así como las disposiciones vigentes en la materia.
 
@@ -1649,9 +1905,11 @@ La regulación en materia de archivos deberá tomar en consideración las normas
 
 El cuadro general de clasificación deberá contener al menos los tres niveles de descripción siguientes: fondo, sección y serie documental, sin perjuicio de que existan niveles intermedios según se requiera.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 117.
 
-Las entidades públicas deberán elaborar y poner a disposición del público una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus unidades administrativas, así como datos del responsable del archivo.
+Los sujetos obligados deberán elaborar y poner a disposición del público una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus áreas, así como datos del responsable del archivo.
 
 ###### Artículo 118.
 
@@ -1671,87 +1929,121 @@ Los archivos históricos tendrán el carácter de públicos y su acceso proceder
 
 La autoridad en materia de archivos emitirá criterios respecto de la administración y resguardo de documentos electrónicos, a fin de asegurar su disponibilidad, integridad y autenticidad de conformidad con los estándares internacionales.
 
-### CAPÍTULO NOVENO. DE LAS UNIDADES DE ATENCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-#### SECCIÓN ÚNICA. FUNCIONAMIENTO Y OBLIGACIONES DE LAS UNIDADES DE ATENCIÓN
+### CAPÍTULO NOVENO. DE LAS UNIDADES DE TRANSPARENCIA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN ÚNICA. FUNCIONAMIENTO Y OBLIGACIONES DE LAS UNIDADES DE TRANSPARENCIA
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 122.
 
-Los sujetos obligados deberán contar con unidades de atención, en oficinas visibles y accesibles al público, en los siguientes términos:
+Los sujetos obligados deberán de contar con Unidades de Transparencia, en oficinas visibles y accesibles al público, en los siguientes términos:
 
-I. El Poder Judicial del Estado: Contará con una unidad de atención. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada uno de los distritos judiciales;
+I. El Poder Judicial del Estado: Contará con una Unidad de Transparencia. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada uno de los distritos judiciales;
 
-II. En el caso del Poder Legislativo del Estado: el Congreso contará con una unidad de atención. Por su parte, la Auditoría Superior del Estado contará con su propia unidad de atención;
+II. En el caso del Poder Legislativo del Estado: El Congreso del Estado contará con una Unidad de Transparencia. Por su parte, la Auditoría Superior del Estado contará con su propia Unidad de Transparencia;
 
-III. El Poder Ejecutivo del Estado y las entidades de la Administración Pública Estatal: Cada dependencia y entidad contará con su propia unidad de atención, sin perjuicio de que se instalen unidades de atención para los organismos descentralizados y desconcentrados que, por su tamaño, así lo ameriten. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada una de las oficinas que se encuentran en los municipios del Estado;
+III. El Poder Ejecutivo del Estado y las entidades de la Administración Pública Estatal: Cada dependencia y entidad contará con su propia Unidad de Transparencia, sin perjuicio de que se instalen Unidades de Transparencia para los organismos descentralizados y desconcentrados que, por su tamaño, así lo ameriten. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada una de las oficinas que se encuentran en los municipios del Estado;
 
-IV. Los Ayuntamientos y las entidades de la Administración Pública Municipal: Cada dependencia y entidad contará con su propia unidad de atención;
+IV. Los Ayuntamientos y las entidades de la Administración Pública Municipal: Cada dependencia y entidad contará con su propia Unidad de Transparencia;
 
-V. Los sistemas operadores de agua y saneamiento contarán con su propia unidad de atención;
+V. Los sistemas operadores de agua y saneamiento contarán con su propia Unidad de Transparencia;
 
-VI. Las universidades públicas e instituciones de educación superior, contarán con su propia unidad de atención;
+VI. Las universidades públicas e instituciones de educación superior, contarán con su propia Unidad de Trasparencia;
 
-VII. Los órganos constitucionales autónomos contarán con su propia unidad de atención. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada una de las oficinas que se encuentran en los municipios del Estado;
+VII. Los órganos constitucionales autónomos contarán con su propia Unidad de Transparencia. En caso de que se estime pertinente se podrá habilitar a servidores públicos para que reciban solicitudes en cada una de las oficinas que se encuentran en los municipios del Estado;
 
-VIII. Los partidos políticos y agrupaciones políticas contaran con su propia unidad de atención;
+VIII. Los partidos políticos y agrupaciones políticas contarán con su propia Unidad de Transparencia;
 
-IX. Los sindicatos contarán con su propia unidad de atención;
+IX. Los sindicatos contarán con su propia Unidad de Transparencia;
 
-X. Los fideicomisos y fondos públicos atenderán sus solicitudes de información a través de la unidad de atención de los sujetos obligados a quien estén sectorizados;
+X. Los fideicomisos y fondos públicos atenderán sus solicitudes de información a través de la Unidad de Transparencia de los sujetos obligados a quien estén sectorizados;
 
-XI. Las organizaciones de la sociedad civil que reciban y/o ejerzan recursos públicos en el ámbito estatal y municipal, a partir de 16,000 salarios mínimos generales vigentes en el Estado, contarán con su propia unidad de atención; y
+XI. Las organizaciones de la sociedad civil que reciban y/o ejerzan recursos públicos en el ámbito estatal y municipal, a partir de 16,000 salarios mínimos generales vigentes en el Estado, contarán con su propia Unidad de Transparencia; y
 
-XII. Las instituciones de beneficencia que sean constituidas conforme a la ley de la materia, contarán con su propia unidad de atención.
+XII. Las instituciones de beneficencia que sean constituidas conforme a la ley de la materia, contarán con su propia Unidad de Transparencia.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 123.
 
-Las unidades (sic) atención estarán integradas por un titular responsable y por el personal que para el efecto designe el titular del sujeto obligado. Los sujetos obligados harán del conocimiento del instituto la integración de las unidades de atención.
+Las Unidades de Transparencia dependerán del titular del sujeto obligado y estarán integradas por un responsable y por el personal que para el efecto se designe. Los sujetos obligados harán del conocimiento del instituto la integración de las Unidades de Transparencia.
+
+El responsable de la Unidad de Transparencia de cada sujeto obligado deberá de cumplir, cuando menos, los siguientes requisitos para su nombramiento:
+
+I. Contar con título profesional a nivel de licenciatura o superior; y
+
+II. Contar con experiencia mínima de un año en materias de transparencia, acceso a la información, archivos, protección de datos personales y gobierno abierto.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 124.
 
-Es competencia de la unidad de atención:
+Además de las funciones que refiere el artículo 45 de la Ley General, son competencia de la Unidad de Transparencia, las siguientes:
 
-I. Recabar, publicar y actualizar la información pública de oficio;
+I. Recabar, publicar y actualizar la información pública de oficio y las obligaciones de transparencia a las que refiere la Ley General;
 
-II. Administrar, sistematizar, archivar y resguardar la información pública así como los datos personales de los cuales disponga;
+II. Administrar, sistematizar, archivar y resguardar la información pública, así como los datos personales de los cuales dispongan;
 
-III. Auxiliar a las personas en la elaboración de solicitudes de información o para la protección de datos personales y, en su caso, orientarlos sobre las entidades públicas a quienes deban dirigirlas;
+III. Auxiliar a las personas en la elaboración de solicitudes de información o para la protección de datos personales y, en su caso, orientarlos sobre los sujetos obligados a quien deban de dirigirlas;
 
-IV. Formular un programa de capacitación en materia de acceso a la información y datos personales, que deberá ser instrumentado por la propia unidad;
+IV. Formular un programa de capacitación en materia de acceso a la información, protección de datos personales y gobierno abierto, que deberá de ser instrumentado por la propia unidad;
 
-V. Establecer los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
+V. Fomentar la cultura de la transparencia, el acceso a la información y la protección de los datos personales, así como promover políticas de transparencia proactiva, procurando su accesibilidad;
 
-VI. Recibir, dar trámite, y seguimiento hasta su conclusión, a las solicitudes de acceso a la información o para la protección de datos personales, cumpliendo con las formalidades y plazos señalados en esta ley y demás disposiciones aplicables;
+VI. Establecer los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
 
-VII. Remitir la solicitud de información a la unidad de atención del sujeto obligado competente, en los casos en que se determine la incompetencia;
+VII. Recibir, dar trámite y seguimiento hasta su conclusión, a las solicitudes de acceso a la información o para la protección de datos personales, cumpliendo con las formalidades y plazos señalados en esta ley y demás disposiciones aplicables;
 
-VIII. Operar, dentro del sujeto obligado correspondiente, el sistema electrónico;
+VIII. Operar, dentro del sujeto obligado correspondiente, los sistemas que integran la Plataforma Nacional de Transparencia;
 
-IX. Registrar las solicitudes de acceso a la información o de protección de datos personales que sean presentadas de manera escrita, dentro del sistema electrónico;
+IX. Registrar las solicitudes de acceso a la información o de protección de datos personales que sean presentadas de manera escrita, dentro del sistema de solicitudes de acceso a la información;
 
-X. Efectuar las notificaciones correspondientes;
+X. Efectuar las notificaciones que sean necesarias para el cumplimiento de sus obligaciones y recibir las notificaciones del instituto;
 
-XI. Realizar los trámites internos de cada sujeto obligado, necesarios para entregar la información solicitada o dar satisfacción a la acción para la protección de datos personales;
+XI. Realizar los trámites internos de cada sujeto obligado, necesarios para entregar la información solicitada, o requerida por el instituto, y dar satisfacción a la acción para la protección de datos personales;
 
-XII. Llevar un registro actualizado de las solicitudes de acceso a la información y de protección de datos y sus resultados;
+XII. Llevar un registro actualizado de las solicitudes de acceso a la información y de protección de datos personales y sus resultados;
 
 XIII. Establecer los procedimientos para asegurarse que, en el caso de datos personales, éstos se entreguen sólo a su titular o su representante;
 
-XIV. Confirmar la inexistencia de la información en los archivos del sujeto obligado, cuando haya sido documentado (sic) por las áreas la inexistencia en sus archivos; y
+XIV. Hacer del conocimiento del instituto y de los órganos de control interno, la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley General y la presente ley; y
 
-XV. Las demás previstas en esta ley.
+XV. Las demás previstas en la Ley General y en esta ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 125.
 
-Los sujetos obligados deberán de contar con un comité interno de revisión de la información, integrado de manera colegiada, nombrados por quien el titular del propio sujeto obligado determine, el cual tendrá las siguientes atribuciones:
+Los sujetos obligados deberán de contar con un Comité de Transparencia, integrado de manera colegiada y por un número impar, nombrados por quien el titular del propio sujeto obligado determine, sin que sus integrantes dependan jerárquicamente entre sí. No podrán reunirse dos o más de estos integrantes en una sola persona.
 
-I. Conocer en todo momento la información clasificada como reservada o la confidencial;
+El Comité de Transparencia adoptará sus resoluciones por mayoría de votos. En los casos de empate, el presidente tendrá voto de calidad. A sus sesiones podrán asistir como invitados aquellos que sus integrantes consideren necesarios, quienes tendrán voz pero no voto.
 
-II. Podrá confirmar, modificar o revocar la clasificación de la información hecha por las unidades administrativas;
+El Comité de Transparencia tendrá acceso a la información reservada para confirmar, modificar o revocar su clasificación, conforme a la normatividad previamente establecida por los sujetos obligados para el resguardo o salvaguarda de la información.
 
-III. Podrá instruir a los servidores públicos del sujeto obligado, que generen y documenten la información conforme a sus atribuciones y facultades; y
+El Comité de Transparencia tendrá las siguientes funciones:
 
-IV. Podrá declarar la inexistencia de la información.
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
+
+II. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información o declaración de inexistencia o incompetencia realicen los titulares de las áreas de los sujetos obligados;
+
+III. Ordenar, en su caso, a las áreas competentes que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión, o que previa acreditación de la imposibilidad de su generación, expongan, de forma fundada y motivada las razones por las cuales en el caso particular no ejercieron dichas facultades, competencias o funciones;
+
+IV. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
+
+V. Promover la capacitación y actualización de los servidores públicos o integrantes de las Unidades de Transparencia;
+
+VI. Establecer programas de capacitación en materia de transparencia, acceso a la información, protección de datos personales, archivos, accesibilidad y gobierno abierto para todos los servidores públicos o integrantes del sujeto obligado;
+
+VII. Recabar y enviar al instituto, de conformidad con los lineamientos que estos expidan, los datos necesarios para la elaboración del informe anual;
+
+VIII. Solicitar y autorizar la ampliación del plazo de reserva de la información; y
+
+IX. Las demás que se desprendan de la normatividad aplicable.
 
 ### CAPÍTULO DÉCIMO. DEL ACCESO A LA INFORMACIÓN PÚBLICA EN EL ESTADO
 
@@ -1769,21 +2061,25 @@ Los sujetos obligados no podrán establecer en los procedimientos de acceso a la
 
 Toda persona, sin necesidad de acreditar interés alguno, por sí o a través de su representante legal, tendrá acceso gratuito a la información pública y a sus datos personales en poder de los sujetos obligados, salvo los casos de excepción contemplados por esta ley.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 129.
 
-Para presentar una solicitud de acceso a la información o para iniciar otro de los procedimientos previstos en esta ley, las personas tienen el derecho de que el sujeto obligado le preste servicios de orientación y asesoría. Las unidades de atención auxiliarán a los particulares en la elaboración de solicitudes, especialmente cuando el solicitante no sepa leer ni escribir, hable una lengua indígena, o se trate de una persona que pertenezca a un grupo vulnerable.
+Para presentar una solicitud de acceso a la información o para iniciar otro de los procedimientos previstos en esta ley, las personas tienen el derecho de que el sujeto obligado le preste servicios de orientación y asesoría. Las Unidades de Transparencia auxiliarán a los particulares en la elaboración de solicitudes, especialmente cuando el solicitante no sepa leer ni escribir, hable una lengua indígena, o se trate de una persona que pertenezca a un grupo vulnerable.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 130.
 
 La solicitud de información podrá formularse:
 
-I. De manera verbal, ya sea presencial con la unidad de atención o vía telefónica;
+I. De manera verbal, ya sea presencial con la Unidad de Transparencia o vía telefónica;
 
-II. Mediante escrito libre o en los formatos que para el efecto apruebe el instituto, presentado en las oficinas del sujeto obligado o por correo electrónico oficial de la unidad de atención, por fax, por correo postal o telégrafo; o
+II. Mediante escrito libre o en los formatos que para el efecto apruebe el instituto, presentado en las oficinas del sujeto obligado o por correo electrónico oficial de la Unidad de Transparencia, por fax, por correo postal o telégrafo; o
 
-III. A través del sistema electrónico que el instituto valide para tal efecto.
+III. A través de la Plataforma Nacional de Transparencia, por medio de su sistema de solicitudes de acceso a la información.
 
-Cuando la solicitud se realice verbalmente, el encargado de la unidad de atención del sujeto obligado que se trate, registrará en un acta o formato la solicitud de información, que deberá cumplir con los requisitos del artículo siguiente, y entregará una copia de la misma al interesado. Cuando la solicitud se realice en escrito libre o mediante formatos, la unidad de atención registrará en el sistema electrónico la solicitud y le entregará al interesado el acuse de recibo.
+Cuando la solicitud se realice verbalmente, el encargado de la Unidad de Transparencia del sujeto obligado que se trate, registrará en un acta o formato la solicitud de información, que deberá cumplir con los requisitos del artículo siguiente, y entregará una copia de la misma al interesado. Cuando la solicitud se realice en escrito libre o mediante formatos, la Unidad de Transparencia registrará en el sistema de solicitudes de acceso a la información la solicitud y le entregará al interesado el acuse de recibo.
 
 ###### Artículo 131.
 
@@ -1793,27 +2089,45 @@ I. Los datos de identificación del sujeto obligado a quien se dirija;
 
 II. La descripción del o los documentos o la información que se solicita;
 
-III. El lugar o medio para recibir la información y las notificaciones. En el caso de que el solicitante no señale lugar o medio para recibir la información y las notificaciones, éstas se realizarán por lista que se fije en los estrados de la unidad de atención del sujeto obligado que corresponda; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+III. El lugar o medio para recibir la información y las notificaciones. En el caso de que el solicitante no señale lugar o medio para recibir la información y las notificaciones, éstas se realizarán por lista que se fije en los estrados de la Unidad de Transparencia del sujeto obligado que corresponda; y
 
 IV. La modalidad en la que prefiere se otorgue la información, la cual podrá ser mediante consulta directa, copias simples, certificadas, digitalizadas, u otro tipo de medio electrónico.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 132.
 
-Cuando la información solicitada no sea competencia del sujeto obligado ante el cual se presentó la solicitud de acceso, en razón de las atribuciones o funciones conferidas conforme a la normatividad aplicable, la unidad de atención, en un plazo máximo de cinco dias contados a partir de que se presentó la solicitud, remitirá a la unidad de atención del sujeto obligado que, de acuerdo a la normatividad aplicable, genere la información y lo hará del conocimiento del solicitante, orientándolo con la información de contacto de la unidad de atención a quien se remitió la solicitud.
+Cuando las Unidades de Transparencia determinen la notoria incompetencia por parte de los sujetos obligados dentro del ámbito de su aplicación, para atender la solicitud de acceso a la información, deberán de comunicarlo al solicitante, dentro de los tres días posteriores a la recepción de la solicitud y, en caso de poder determinarlo, señalarán al solicitante el o los sujetos obligados competentes.
 
-En estos casos, el plazo a que se refiere el artículo 136, para responder la solicitud, se computará a partir de que la unidad de atención competente la reciba.
+Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, deberá de dar respuesta respecto de dicha parte. Respecto de la información sobre la cual es incompetente se procederá conforme a lo señalado en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 133.
 
-Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con todos los requisitos señalados en la presente ley, el sujeto obligado mandará requerir dentro de los tres días, por escrito o vía electrónica, al solicitante, para que en un plazo de tres días contados a partir del día siguiente en que se efectuó la notificación, aclare y precise o complemente su solicitud de información. En caso de que el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 136 de esta ley. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir al solicitante para que subsane su solicitud.
+Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con todos los requisitos señalados en la presente ley, el sujeto obligado mandará requerir dentro de los tres días, por escrito o vía electrónica, al solicitante, para que en un plazo de diez días contados a partir del día siguiente en que se efectuó la notificación, aclare y precise o complemente su solicitud de información. En caso de que el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo establecido en el artículo 136 de esta ley. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir al solicitante para que subsane su solicitud.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 134.
 
-Admitida la solicitud de información por el sujeto obligado, la unidad de atención gestionará al interior la entrega de la información y la turnará a las unidades administrativas que correspondan.
+Admitida la solicitud de información por el sujeto obligado, la Unidad de Transparencia gestionará al interior la entrega de la información y la turnará al área competente.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 135.
 
-Cuando la información solicitada no se encuentre en los archivos de la unidad administrativa a la que se turnó la solicitud, ésta deberá remitir a la unidad de atención la solicitud de acceso a la información y un documento donde se exponga la inexistencia de la misma. La unidad de atención analizará el caso y tomará las medidas pertinentes para localizarla. En caso de no encontrarla, podrá remitir al comité interno de revisión de la información para que éste emita, en su caso, una respuesta que confirme su inexistencia en los términos de la presente ley, haciéndolo del conocimiento del órgano de control interno.
+Cuando la información solicitada no se encuentre en los archivos del área del sujeto obligado, se turnará al Comité de Transparencia, el cual:
+
+I. Analizará el caso y tomará las medidas necesarias para localizar la información;
+
+II. Expedirá una resolución que confirme la inexistencia del documento;
+
+III. Ordenará, siempre que sea materialmente posible, que se genere o se reponga la información en caso de que esta tuviera que existir en la medida que deriva del ejercicio de sus facultades, competencias o funciones; o bien, previa acreditación de la imposibilidad de su generación o reposición, exponga de forma fundada y motivada, las razones por las cuales en el caso particular no ejerció dichas facultades, competencias o funciones, lo cual notificará al solicitante a través de la Unidad de Transparencia; y
+
+IV. Notificará al órgano de control interno o equivalente del sujeto obligado quien, en su caso, deberá iniciar el procedimiento de responsabilidad administrativa que corresponda.
 
 ###### Artículo 136.
 
@@ -1825,27 +2139,41 @@ Excepcionalmente, este plazo podrá ampliarse hasta por cinco días más cuando 
 
 Cuando el sujeto obligado no entregue la respuesta a la solicitud de acceso dentro de los plazos previstos en esta ley, el solicitante podrá interponer el recurso de revisión, en los términos del artículo 146 de esta ley y demás disposiciones aplicables.
 
-En caso de que el instituto determine la publicidad de la información motivo de dicho recurso, y que se acredite debidamente que dicha omisión fue por negligencia, la autoridad queda obligada a otorgarle la información corriendo a costa del sujeto obligado los gastos correspondientes.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+En caso de que el instituto determine la publicidad de la información motivo de dicho recurso, la autoridad queda obligada a otorgarle la información corriendo a costa del sujeto obligado los gastos correspondientes.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 138.
 
-Una vez notificada la respuesta prevista en el artículo 136, la unidad de atención contará con un plazo que no excederá de cinco días para poner a disposición del solicitante la documentación requerida. En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, el plazo correrá a partir de la fecha en que el solicitante acredite haber cubierto el pago de los derechos correspondientes.
+En caso de que sea necesario cubrir costos para obtener la información en alguna modalidad de entrega, la Unidad de Transparencia contará con un plazo que no excederá de cinco días para poner a disposición del solicitante la documentación requerida, a partir de la fecha en que el solicitante acredite, haber cubierto el pago de los derechos correspondientes.
+
+La Unidad de Transparencia tendrá disponible la información solicitada durante un plazo mínimo de sesenta días, contados a partir de que el solicitante hubiere realizado el pago respectivo.
 
 ###### Artículo 139.
 
 La obligación de dar acceso a la información se tendrá por cumplida cuando la información se entregue al solicitante en medios electrónicos, ésta se ponga a su disposición para consulta en el sitio en que se encuentra, o bien mediante la expedición de copias simples o certificadas. El acceso a la información se dará solamente en la forma en que lo permita el documento de que se trate.
 
-En el caso de que la información ya esté disponible en medios electrónicos, la unidad de atención se lo indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida, y en la medida de sus posibilidades podrá proporcionarle una impresión de la misma.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-En el caso de que la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, informes, trípticos o en cualquier otro medio, se le hará saber al solicitante por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información.
+En el caso de que la información ya esté disponible en medios electrónicos, la Unidad de Transparencia se lo indicará al solicitante, precisando la dirección electrónica completa del sitio donde se encuentra la información requerida, y en la medida de sus posibilidades, podrá proporcionarle una impresión de la misma.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+En el caso de que la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, informes, trípticos o en cualquier otro medio, se le hará saber al solicitante por escrito la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información en un plazo no mayor a cinco días.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 140.
 
-Los sujetos obligados entregarán documentos que se encuentren en sus archivos. La obligación de proporcionar información no comprende el procesamiento de la misma, ni el presentarla conforme al interés particular del solicitante. Sin perjuicio de lo anterior, las entidades públicas deberán sistematizar la información.
+Los sujetos obligados entregarán documentos que se encuentren en sus archivos. La obligación de proporcionar información no comprende el procesamiento de la misma, ni el presentarla conforme al interés particular del solicitante. Sin perjuicio de lo anterior, los sujetos obligados deberán sistematizar la información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 141.
 
-El acceso a la información pública será gratuito. No obstante lo anterior, en caso de que la reproducción de la información exceda de 15 fojas, el sujeto obligado podrá cobrar, en términos de las disposiciones aplicables los siguientes conceptos:
+El acceso a la información pública será gratuito. No obstante lo anterior, en caso de que la reproducción de la información exceda de 20 fojas, el sujeto obligado podrá cobrar, en términos de las disposiciones aplicables, los siguientes conceptos:
 
 I. El costo de los insumos utilizados; y
 
@@ -1853,19 +2181,27 @@ II. El costo de su envío.
 
 El costo unitario de la reproducción no debe ser superior al costo de los materiales utilizados en la misma. Los sujetos obligados deberán reducir al máximo los tiempos y costos de entrega de información.
 
-En aquellos casos en que el solicitante señale que le es imposible materialmente cubrir con los costos de los insumos y los materiales, el sujeto obligado entregará la información en la medida de sus posibilidades presupuestales y en el menor tiempo posible o la pondrán a su disposición en la unidad de atención.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+En aquellos casos en que el solicitante señale que le es imposible materialmente cubrir con los costos de los insumos y los materiales, el sujeto obligado entregará la información en la medida de sus posibilidades presupuestales y en el menor tiempo posible o la pondrán a su disposición en la Unidad de Transparencia.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 142.
 
-Los solicitantes tendrán un plazo de veinte días a partir de que se les notifique la resolución de acceso a la información para realizar el pago a que se refiere el artículo 138 de esta ley y, en caso de no hacerlo, deberán realizar una nueva solicitud de información sin responsabilidad para el sujeto obligado.
+Los solicitantes tendrán un plazo de treinta días a partir de que se les notifique la respuesta de acceso a la información para realizar el pago a que se refiere el artículo 138 de esta ley y, en caso de no hacerlo, deberán realizar una nueva solicitud de información sin responsabilidad para el sujeto obligado.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 143.
 
-La certificación de documentos conforme a esta ley tiene por objeto establecer que en los archivos del sujeto obligado existe un documento en original, copia simple, digitalizada u otro medio electrónico, igual al que se entrega. En caso de que no hubiera un servidor público facultado para realizar las certificaciones, éstas podrán ser realizadas por el titular de la unidad administrativa en donde se encuentren los documentos o, en su defecto, por el titular de la unidad de atención del sujeto obligado correspondiente.
+La certificación de documentos conforme a esta ley tiene por objeto establecer que en los archivos del sujeto obligado existe un documento en original, copia simple, digitalizada u otro medio electrónico, igual al que se entrega. En caso de que no hubiera un servidor público facultado para realizar las certificaciones, éstas podrán ser realizadas por el titular del área en donde se encuentren los documentos o, en su defecto, por el titular de la Unidad de Transparencia del sujeto obligado correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 144.
 
-Cuando la información solicitada pueda obtenerse a través de un trámite, la unidad de atención del sujeto obligado orientará al solicitante sobre el procedimiento que corresponda, siempre que se cumplan los siguientes requisitos:
+Cuando la información solicitada pueda obtenerse a través de un trámite, la Unidad de Transparencia del sujeto obligado orientará al solicitante sobre el procedimiento que corresponda, siempre que se cumplan los siguientes requisitos:
 
 I. El fundamento del trámite se encuentre establecido en una ley o reglamento;
 
@@ -1873,57 +2209,79 @@ II. El acceso suponga el pago de una contraprestación en los términos de los o
 
 III. No se requiera acreditar interés alguno.
 
-En ese caso, la solicitud de información podrá desecharse por improcedente. Queda a salvo el derecho del particular de interponer el recurso de revisión.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 145.
 
-La unidad de atención no estará obligada a dar trámite a solicitudes de acceso ofensivas o cuando se haya entregado información sustancialmente idéntica como respuesta a una solicitud de la misma persona.
+La Unidad de Transparencia no estará obligada a dar trámite a solicitudes de acceso ofensivas, en estos casos, la Unidad de Transparencia deberá indicar al solicitante que su solicitud es ofensiva.
 
-En estos casos, la unidad de atención deberá indicar al solicitante que su solicitud es ofensiva o que ya se le ha entregado información pública sustancialmente idéntica.
+Excepcionalmente, cuando de forma fundada y motivada, así lo determine el sujeto obligado, en aquellos casos en que la información solicitada que ya se encuentre en su posesión implique análisis, estudio o procesamiento de documentos cuya entrega o reproducción sobrepase las capacidades técnicas del sujeto obligado para cumplir con la solicitud en los plazos establecidos para dichos efectos, se podrán poner a disposición del solicitante los documentos en consulta directa, salvo la información clasificada.
 
-Excepcionalmente, el superior jerárquico de la unidad de atención, a solicitud de ésta, podrá desechar solicitudes de información cuando su respuesta implique la elaboración o revisión de documentos o expedientes, en un número tal que cause un entorpecimiento extremo de las actividades del sujeto obligado. En estos casos, el desechamiento deberá fundar y motivar tal circunstancia. Asimismo, se procurará establecer contacto con el solicitante para orientarlo sobre maneras alternativas de presentar la solicitud para obtener la información que busca, o bien la forma y tiempo en que paulatinamente puede darse respuesta a su solicitud. Queda a salvo el derecho del particular de interponer el recurso de revisión, si no estuviere conforme.
+En todo caso se facilitará su copia simple o certificada, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado, que en su caso aporte el solicitante.
 
 ### CAPÍTULO DÉCIMO PRIMERO. EL RECURSO DE REVISIÓN
 
 #### SECCIÓN PRIMERA. PROCEDENCIA DEL RECURSO DE REVISIÓN
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 146.
 
 El recurso de revisión procede por cualquiera de las siguientes causas:
 
-I. La falta de acceso a la información:
+I. Por tratarse de información clasificada como:
 
-1. Por tratarse de información confidencial; o
+1. Información confidencial; o
 
-2. Por tratarse de información clasificada como reservada;
+2. Información reservada;
 
 II. La declaración de inexistencia de información;
 
-III. La entrega de información en una modalidad distinta a la solicitada, o en un formato incomprensible;
+III. La declaración de incompetencia del sujeto obligado;
 
-IV. La declaración de incompetencia de un sujeto obligado;
+IV. La entrega de información incompleta;
 
-V. La inconformidad con los costos o tiempos de entrega de la información;
+V. La entrega de información que no corresponda con lo solicitado;
 
-VI. La información que se entregó sea incompleta o no corresponda con la solicitud;
+VI. La falta de respuesta a una solicitud de acceso a la información o de datos personales dentro de los plazos establecidos;
 
-VII. La inconformidad con las razones que motivan una prórroga;
+VII. La notificación, entrega o puesta a disposición de información en una modalidad o formato distinto al solicitado;
 
-VIII. La negativa de acceso, rectificación, cancelación u oposición de datos personales;
+VIII. La entrega o puesta a disposición de información en un formato incomprensible y/o no accesible para el solicitante;
 
-IX. El tratamiento inadecuado de los datos personales; y
+IX. Los costos o tiempos de entrega de la información;
 
-X. La falta de respuesta a una solicitud de acceso a la información o de datos personales dentro de los plazos establecidos en esta ley.
+X. La falta de trámite a una solicitud;
+
+XI. La negativa a permitir la consulta directa de la información;
+
+XII. La falta, deficiencia o insuficiencia de la fundamentación y/o motivación en la respuesta;
+
+XIII. La orientación a un trámite específico;
+
+XIV. La inconformidad con las razones que motivan una prórroga;
+
+XV. La negativa de acceso, rectificación, cancelación u oposición de datos personales; y
+
+XVI. El tratamiento inadecuado de los datos personales.
+
+La respuesta que den los sujetos obligados derivada de la resolución a un recurso de revisión que proceda por las causales señaladas en las fracciones III, VI, VIII, IX, X y XI, es susceptible de ser impugnada de nueva cuenta mediante recurso de revisión ante el instituto.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 147.
 
-El recurso de revisión podrá interponerse, de manera directa, por correo certificado o por medios electrónicos, ante el Instituto. Para este efecto, la unidad de atención al momento de dar respuesta a una solicitud de acceso a la información o de datos personales, orientará al particular sobre su derecho de interponer la revisión y el modo de hacerlo.
+El recurso de revisión podrá interponerse, de manera directa, por correo certificado o por medios electrónicos, ante el instituto, o ante la Unidad de Transparencia del sujeto obligado que haya dado respuesta a la solicitud de acceso a la información. Para este efecto, la Unidad de Transparencia al momento de dar respuesta a una solicitud de acceso a la información o de datos personales, orientará al particular sobre su derecho de interponer el recurso de revisión y el modo de hacerlo.
 
-Cuando el recurso de revisión se presente por correo certificado, para el cómputo del plazo de presentación, se tomará la fecha en que el Instituto lo reciba.
+En el caso de que se interponga ante la Unidad de Transparencia, esta deberá de remitir el recurso de revisión al instituto a más tardar al día siguiente de haberlo recibido.
+
+Cuando el recurso de revisión se presente ante la Unidad de Transparencia o por correo certificado, para el cómputo de los plazos de presentación, se tomará la fecha en que el instituto lo reciba.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 148.
 
-Toda persona podrá interponer, por sí o a través de su representante legal, el recurso de revisión, mediante escrito libre o a través de los formatos establecidos por el instituto para tal efecto o por medio del sistema electrónico habilitado para tal fin, dentro de los veinte días siguientes contados a partir de:
+Toda persona podrá interponer, por sí o a través de su representante legal, el recurso de revisión, mediante escrito libre o a través de los formatos establecidos por el instituto para tal efecto o por medio del sistema de gestión de medios de impugnación habilitado para tal fin, dentro de los veinte días siguientes contados a partir de:
 
 I. La notificación de la respuesta a su solicitud de información; o
 
@@ -1941,23 +2299,35 @@ II. El sujeto obligado ante el cual se presentó la solicitud de acceso;
 
 III. El domicilio, medio electrónico para oír y recibir notificaciones, o la mención de que desea ser notificado por correo certificado; en caso de no haberlo señalado, aún las de carácter personal, se harán por estrados;
 
-IV. El acto o resolución que recurre y, en su caso, el número de expediente que identifique el mismo, o el documento con el que acredite la existencia de la solicitud o los datos que permitan su identificación en el sistema electrónico;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-V. La fecha en que se le notificó;
+IV. El acto o resolución que recurre y, en su caso, el número de folio de respuesta de solicitud de acceso, o el documento con el que acredite la existencia de la solicitud o los datos que permitan su identificación en el sistema de solicitudes de acceso a la información;
 
-VI. Los agravios; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Los puntos petitorios.
+V. La fecha en que se le notificó la respuesta al solicitante o tuvo conocimiento del acto reclamado, o de presentación de la solicitud en caso de falta de respuesta;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Las razones o motivos de inconformidad; y
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VII. La copia de la respuesta que se impugna, salvo en caso de falta de respuesta de solicitud.
 
 Adicionalmente se podrán anexar las pruebas y demás elementos que se consideren procedentes hacer del conocimiento del instituto.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 150.
 
-En el caso de que se omita alguno de los requisitos previstos en las fracciones I, IV y V del artículo anterior, el Instituto tendrá un plazo de tres días para prevenir al recurrente, a fin de que subsane las deficiencias del recurso de revisión. Para lo anterior, el recurrente tendrá un plazo de cinco días contados a partir del requerimiento por parte del instituto. Transcurrido este último plazo, sin que se hubiese cumplido la prevención, el recurso se tendrá por no interpuesto. La prevención suspende los plazos previstos en este capítulo.
+En el caso de que se omita alguno de los requisitos previstos en las fracciones I, IV y V del artículo anterior, el instituto tendrá un plazo de tres días para prevenir al recurrente, a fin de que subsane las deficiencias del recurso de revisión. Para lo anterior, el recurrente tendrá un plazo de cinco días contados a partir del requerimiento por parte del instituto. Transcurrido este último plazo, sin que se hubiese cumplido la prevención, el recurso se desechará en términos de la presente ley. La prevención suspende los plazos previstos en este capítulo.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 151.
 
-El instituto deberá suplir las deficiencias que presente el recurso de revisión, cuando se omita el cumplimiento de los requisitos previstos en las fracciones II, III, VI y VII del artículo 149 de esta ley, siempre y cuando no altere el contenido original de la solicitud de acceso o de datos personales.
+El comisionado ponente deberá suplir las deficiencias que presente el recurso de revisión, cuando se omita el cumplimiento de los requisitos previstos en las fracciones II, III, VI y VII del artículo 149 de esta ley, siempre y cuando no altere el contenido original de la solicitud de acceso o de datos personales.
 
 #### SECCIÓN TERCERA. LA SUBSTANCIACIÓN DEL RECURSO DE REVISIÓN
 
@@ -1965,7 +2335,9 @@ El instituto deberá suplir las deficiencias que presente el recurso de revisió
 
 Presentado el recurso ante el instituto, se estará a lo siguiente:
 
-I. El instituto designará de los miembros del consejo general un encargado de llevar a cabo el estudio del mismo, quien determinará la admisión o la improcedencia del recurso;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+I. El Comisionado Presidente del instituto, turnará el recurso de revisión a uno de los comisionados, para que funja como ponente y encargado de llevar a cabo el estudio del mismo, quien determinará la admisión o la improcedencia del recurso;
 
 II. El acuerdo de admisión o de improcedencia se dictará dentro de los tres días siguientes al de su presentación;
 
@@ -1973,25 +2345,35 @@ III. Admitido el recurso, se integrará un expediente y se notificará al sujeto
 
 IV. En el caso de existir tercero interesado se le hará la notificación para que en el mismo plazo acredite su carácter, alegue lo que a su derecho convenga y presente las pruebas que considere pertinentes;
 
-V. Si alguna de las partes ofrece medios de prueba que requieran de desahogo o de algún trámite para su perfeccionamiento, el instituto determinará las medidas necesarias dentro de los tres días hábiles siguientes a que se recibieron. Una vez desahogadas las pruebas se declarará cerrada la instrucción y el expediente pasará a resolución;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Excepcionalmente, el instituto podrá ampliar los plazos hasta por cinco días más, cuando la importancia y trascendencia del asunto así lo amerite;
+V. Si alguna de las partes ofrece medios de prueba que requieran de desahogo o de algún trámite para su perfeccionamiento, el comisionado ponente determinará las medidas necesarias dentro de los tres días hábiles siguientes a que se recibieron. Una vez desahogadas las pruebas, se declarará cerrada la instrucción y el expediente pasará a resolución;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Excepcionalmente, el comisionado ponente podrá ampliar los plazos hasta por cinco días más, cuando la importancia y trascendencia del asunto así lo amerite;
 
 VII. Cerrada la instrucción, se elaborará el proyecto de resolución que deberá ser presentado a consideración del consejo general;
 
-VIII. El instituto podrá determinar, cuando así lo considere necesario, audiencias con las partes en cualquier momento; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. El comisionado ponente podrá determinar, cuando así lo considere necesario, audiencias con las partes en cualquier momento; y
 
 IX. El consejo general del instituto, bajo su más estricta responsabilidad, deberá emitir la resolución debidamente fundada y motivada, en un término no mayor de veinte días, contados a partir de la interposición del recurso. Este plazo podrá, en casos excepcionales, ser ampliado hasta por otros diez días cuando existan razones que lo motiven y éstas se le notifiquen al recurrente y al sujeto obligado.
 
 #### SECCIÓN CUARTA. LA RESOLUCIÓN DEL RECURSO
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 153.
 
 Las resoluciones del instituto podrán:
 
-I. Sobreseer;
+I. Desechar o sobreseer;
 
-II. Confirmar, revocar o modificar la respuesta del sujeto obligado.
+II. Confirmar la respuesta del sujeto obligado; o
+
+III. Revocar o modificar la respuesta del sujeto obligado.
 
 ###### Artículo 154.
 
@@ -2003,13 +2385,19 @@ II. Los preceptos que la fundamenten y las consideraciones que la sustenten;
 
 III. Los alcances y efectos de la resolución, fijando los plazos y procedimientos necesarios para su cumplimiento;
 
-IV. El plazo otorgado para su cumplimiento, que no podrá ser mayor a diez días, a partir de que surta efectos la notificación;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-V. En su caso, la indicación de la existencia de una probable responsabilidad de los servidores públicos a los órganos internos de control de los sujetos obligados; y
+IV. El plazo otorgado para su cumplimiento, que no podrá ser mayor a diez días, a partir de que surta efectos la notificación. Excepcionalmente, previa fundamentación y motivación, se podrá ampliar este plazo cuando el asunto así lo requiera;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+V. En su caso, la indicación de la existencia de una probable responsabilidad de los servidores públicos a los órganos de control interno de los sujetos obligados, para que éste, en su caso, imponga o ejecute la sanción determinada, en términos de las disposiciones aplicables; y
 
 VI. Los puntos resolutivos.
 
 Tratándose del mal uso de los datos personales se dejarán a salvo los derechos al recurrente para que los haga valer en la vía y forma que corresponda conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 155.
 
@@ -2017,11 +2405,15 @@ El recurso será desechado por improcedente cuando:
 
 I. Sea extemporáneo;
 
-II. El instituto haya conocido anteriormente del recurso respectivo y resuelto en definitiva;
+II. Se esté tramitando, ante los tribunales competentes, algún recurso o medio de defensa interpuesta por el recurrente;
 
-III. Se recurra una resolución o acto que no hayan sido emitidos por el sujeto obligado; y/o
+III. No se actualice alguno de los supuestos previstos en el artículo 146 de la presente ley;
 
-IV. Se esté tramitando, ante los tribunales competentes, algún recurso o medio de defensa interpuesta por el recurrente.
+IV. No se haya desahogado la prevención en los términos establecidos en la presente ley;
+
+V. Se impugne la veracidad de la información proporcionada; o
+
+VI. El recurrente amplíe su solicitud en el recurso de revisión, únicamente respecto de los nuevos contenidos.
 
 ###### Artículo 156.
 
@@ -2033,13 +2425,17 @@ II. Cuando por cualquier motivo quede sin materia el recurso; y/o
 
 III. Cuando admitido el recurso sobrevenga una causal de improcedencia.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 157.
 
-El instituto podrá en cualquier momento del procedimiento buscar una conciliación entre el recurrente y el sujeto obligado. De llegarse a un acuerdo de conciliación entre ambos, ésta se hará constar por escrito y tendrá efectos vinculantes. El recurso quedará sin materia y el órgano garante verificará el cumplimiento del acuerdo respectivo.
+El comisionado ponente podrá en cualquier momento del procedimiento buscar una conciliación entre el recurrente y el sujeto obligado. De llegarse a un acuerdo de conciliación entre ambos, ésta se hará constar por escrito y tendrá efectos vinculantes. El recurso quedará sin materia y el instituto verificará el cumplimiento del acuerdo respectivo.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 158.
 
-El instituto, previo acuerdo del consejo general, podrá tener acceso a la información confidencial o reservada, siempre que sea indispensable para resolver el asunto. El instituto será responsable de mantener con ese carácter dicha información en los términos de las disposiciones aplicables.
+El comisionado ponente podrá tener acceso a la información confidencial o reservada, siempre que sea indispensable para resolver el asunto. El instituto y el comisionado ponente serán responsables de mantener con ese carácter dicha información en los términos de las disposiciones aplicables.
 
 ###### Artículo 159.
 
@@ -2049,19 +2445,23 @@ Asimismo, cuando se advierta del estudio del recurso de revisión, que el sujeto
 
 Salvo prueba en contrario, la falta de contestación del sujeto obligado al recurso dentro del plazo respectivo, hará presumir como ciertos los hechos que se hubieren señalado en él, siempre que éstos le sean directamente imputables.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 161.
 
-Interpuesto el recurso por la causal prevista en la fracción X del artículo 146 de esta ley, el Instituto dará vista, a más tardar al día siguiente de que se recibió la solicitud, al sujeto obligado para que alegue lo que a su derecho convenga en un plazo no mayor a cinco días. Recibida su contestación, el Instituto deberá emitir su resolución en un plazo no mayor a cinco días, requiriéndole al sujeto obligado que entregue la información solicitada, siempre y cuando la información no sea reservada o confidencial, en un plazo no mayor a diez días cubriendo, en su caso, los costos de reproducción del material.
+Interpuesto el recurso por la causal prevista en la fracción VI del artículo 146 de esta ley, el instituto dará vista, a más tardar al día siguiente de que se recibió la solicitud, al sujeto obligado para que alegue lo que a su derecho convenga en un plazo no mayor a cinco días. Recibida su contestación, el instituto deberá emitir su resolución en un plazo no mayor a cinco días, requiriéndole al sujeto obligado que entregue la información solicitada, siempre y cuando la información no sea reservada o confidencial, en un plazo no mayor a diez días cubriendo, en su caso, los costos de reproducción del material.
 
-En el caso de que el sujeto obligado clasifique la información como reservada o confidencial, se dejarán a salvo los derechos del solicitante para que los pueda impugnar en la vía y forma que establece la presente ley.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 162.
 
-Las actuaciones y resoluciones del instituto se notificarán, en el domicilio que al efecto señalen las partes o a través del sistema electrónico o en su defecto en los estrados. Las resoluciones deberán ser notificadas dentro de las 48 horas siguientes a que se dicten y surtirán efectos al día siguiente de que se efectúen.
+Las actuaciones y resoluciones del instituto se notificarán, en el domicilio que al efecto señalen las partes o a través del sistema de gestión de medios de impugnación, o en su defecto en los estrados. Las resoluciones deberán ser notificadas dentro de los dos días siguientes a que se dicten y surtirán efectos al día siguiente de que se efectúen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 163.
 
-Los sujetos obligados, en su caso, deberán informar al instituto del cumplimiento de sus resoluciones, en un plazo no mayor a diez días a partir de que sean cumplimentadas.
+Los sujetos obligados, en su caso, deberán informar al instituto del cumplimiento de sus resoluciones, en un plazo no mayor a tres días a partir de que sean cumplimentadas.
 
 En caso de incumplimiento de la resolución, el instituto conminará para que se cumpla en un plazo no mayor a cinco días, apercibido que de no hacerlo se iniciará procedimiento a fin de determinar si existe una causa de responsabilidad establecida en el artículo 173 de ésta ley.
 
@@ -2069,9 +2469,11 @@ En caso de reincidencia de un servidor público por la omisión total en la entr
 
 El instituto podrá hacer del conocimiento público los servidores públicos sancionados, siempre y cuando la determinación haya quedado firme.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 164.
 
-Cuando el instituto determine en una resolución derivada de la interposición de un recurso de revisión, que algún servidor público pudo haber incurrido en responsabilidad por violaciones a esta ley, deberá hacerlo del conocimiento del órgano interno de control de los sujetos obligados, para que éste inicie, en su caso, el procedimiento de responsabilidad correspondiente conforme a lo previsto en esta ley, la ley de la materia y demás disposiciones aplicables.
+Cuando el instituto determine en una resolución derivada de la interposición de un recurso de revisión, que algún servidor público pudo haber incurrido en responsabilidad por violaciones a esta ley, deberá hacerlo del conocimiento del órgano de control interno de los sujetos obligados, para que éste imponga o ejecute la sanción determinada, en términos de las disposiciones aplicables.
 
 ###### Artículo 165.
 
@@ -2083,41 +2485,41 @@ Las resoluciones del instituto serán definitivas e inimpugnables para los sujet
 
 De igual forma las resoluciones serán públicas, salvo cuando contengan información clasificada como reservada o que sea confidencial, en cuyo caso se elaborarán versiones públicas.
 
-El organismo garante de la federación, podrán (sic) conocer de los recursos que interpongan los particulares respecto a las resoluciones del Instituto.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+Tratándose de resoluciones de los recursos de revisión del instituto, los particulares podrán interponer el recurso de inconformidad ante el organismo garante nacional o ante el Poder Judicial de la Federación, cuando la resolución:
+
+I. Confirme o modifique la clasificación de la información; o
+
+II. Confirme la inexistencia o negativa de la información.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 167.
 
-Por el incumplimiento a las resoluciones del recurso de revisión el instituto contará con las siguientes medidas de apremio:
+El instituto podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos, agrupaciones políticas, persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
-I. Apercibimiento;
+I. Amonestación pública; y
 
-II. Amonestación privada;
+II. Multa de 150 a 1500 veces el salario mínimo general vigente en el Estado.
 
-III. Amonestación pública; y
-
-IV. Multa de 10 a 1000 veces el salario mínimo general vigente en el Estado de Coahuila de Zaragoza.
-
-Las multas se harán efectivas por conducto de la Secretaría de Finanzas del Gobierno del Estado y el monto recaudado se destinará a un fondo para el mejoramiento de la cultura de la transparencia y el acceso a la información pública.
+Las multas se harán efectivas por conducto de la Secretaría de Finanzas y el monto recaudado se destinará a un fondo para el mejoramiento de la cultura de la transparencia y el acceso a la información pública, ejecutado por el instituto, de acuerdo a su planeación presupuestal.
 
 Si la falta de cumplimiento llegare a implicar la comisión de un delito, se denunciarán los hechos a la autoridad competente.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. EL RECURSO DE QUEJA
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 168.
 
-Cualquier persona podrá presentar por escrito, personalmente o por correo electrónico y en formato libre, la queja en contra de los servidores públicos o sujetos obligados que incumplan con las obligaciones establecidas en la presente ley y demás ordenamientos aplicables en la materia.
+Cualquier persona podrá presentar por escrito, personalmente o por correo electrónico y en formato libre, la queja en contra de los servidores públicos o sujetos obligados que incumplan con las obligaciones establecidas en la Ley General, la presente ley y demás ordenamientos aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 169.
 
-Para el trámite de las quejas en materia de transparencia presentadas ante el instituto, se estará a lo siguiente:
-
-I. Recibida la queja ante el instituto, éste iniciará un proceso de documentación con el área responsable de vigilar el cumplimiento de las obligaciones en materia de información pública de oficio;
-
-II. Documentada la evaluación del sujeto obligado en contra de quien se presentó la queja, se remitirá al sujeto obligado para que manifieste lo que a su derecho convenga en un plazo de cinco días. Formado el expediente con la evaluación y la contestación del sujeto obligado, se remitirá al consejo general del Instituto, para que éste, en su caso, emita la recomendación al respecto; y
-
-III. Emitida la recomendación del consejo general del instituto, se remitirá copia del expediente al órgano de control interno del sujeto obligado, para que éste levante de inmediato el procedimiento administrativo correspondiente y resuelva en un plazo no mayor a veinte días.
-
-El órgano de control interno deberá de informar al Instituto la resolución definitiva dictada en el procedimiento administrativo a que se refiere el párrafo anterior.
+Para el trámite de las quejas por incumplimiento en la difusión de la información pública de oficio y las obligaciones de transparencia presentadas ante el instituto, se estará a los (sic) dispuesto por el procedimiento de la denuncia por incumplimiento a las obligaciones de transparencia determinado por la Ley General.
 
 ###### Artículo 170.
 
@@ -2155,9 +2557,13 @@ I. Negar intencionalmente información no clasificada como reservada ni consider
 
 II. Clasificar con dolo como reservada información que no cumple con las características señaladas para tal condición en esta ley. Esta causal sólo procederá cuando exista una resolución previa respecto del criterio de clasificación de ese tipo de información emitida por el instituto;
 
-III. Actuar con negligencia, dolo o mala fe en la substanciación de las solicitudes de acceso a la información o de datos personales, o bien, en la difusión de la información pública de oficio a que están obligados conforme a esta ley;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Declarar dolosamente la inexistencia de información o de datos personales, cuando esta exista total o parcialmente en los archivos en la unidad administrativa;
+III. Actuar con negligencia, dolo o mala fe en la substanciación de las solicitudes de acceso a la información o de datos personales, o bien, en la difusión de la información pública de oficio a que están obligados conforme a esta ley y las obligaciones de transparencia a que refiere la Ley General;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Declarar dolosamente la inexistencia de información o datos personales, cuando esta exista total o parcialmente en los archivos del área;
 
 V. Entregar información clasificada como reservada o que sea confidencial, conforme a lo dispuesto por esta ley;
 
@@ -2165,7 +2571,9 @@ VI. Omitir reiteradamente dar respuesta a las solicitudes de acceso a la informa
 
 VII. Usar, sustraer, destruir, ocultar, inutilizar, divulgar o alterar, total o parcialmente y de manera indebida, información que se encuentre bajo su custodia o a la cual tengan acceso o conocimiento con motivo de su empleo, cargo o comisión;
 
-VIII. Entregar intencionalmente de manera incompleta o falsa la información requerida en una solicitud de acceso a la información o de datos personales;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Entregar información incomprensible, incompleta, en un formato no accesible, una modalidad de entrega diferente a la solicitada previamente por el usuario en su solicitud de acceso a la información o de datos personales, al responder sin la debida motivación y fundamentación establecidas en esta ley;
 
 IX. Dar tratamiento a sistemas de datos personales en contravención a los principios establecidos en esta ley;
 
@@ -2177,23 +2585,61 @@ XII. Intimidar o amedrentar a los solicitantes o recurrentes, con la intención 
 
 XIII. No cesar en el uso ilícito de los tratamientos de datos personales cuando sea requerido para ello por el Instituto;
 
-XIV. No acatar por dolo o negligencia las resoluciones emitidas por el Instituto; y/o
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
-XV. Omitir el cumplimiento de los acuerdos dictados durante la substanciación del procedimiento del recurso de revisión.
+XIV. No acatar por dolo o negligencia las resoluciones emitidas por el instituto;
+
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Omitir el cumplimiento de los acuerdos dictados durante la substanciación del procedimiento del recurso de revisión;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. No documentar con dolo o negligencia el ejercicio de sus facultades, competencia, funciones o actos de autoridad de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. No desclasificar la información como reservada cuando los motivos que le dieron origen ya no existan o haya fenecido el plazo, cuando el instituto determine que existe una causa de interés público, que persiste la causa de reserva o no se solicite la prórroga al Comité de Transparencia;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Incumplir los plazos de atención de la presente ley;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. No actualizar la información correspondiente a las obligaciones de transparencia en los plazos previstos en la presente ley;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Declarar con dolo o negligencia la inexistencia de información cuando el sujeto obligado deba generarla, derivado del ejercicio de sus facultades, competencias o funciones;
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. No atender los requerimientos establecidos en la presente ley, emitidos por el instituto; y/o
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Ejecutar, autorizar o instruir que se lleven a cabo uno o más de los actos prohibidos por el artículo 9 de la presente ley.
 
 #### SECCIÓN SEGUNDA. APLICACIÓN DE SANCIÓNES
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 174.
 
-Las causas de responsabilidad previstas en las fracciones I, II, III, XI del artículo 173 serán sancionadas con apercibimiento público y, en caso de reincidencia, con suspensión del cargo de tres días a tres meses sin goce de sueldo.
+Las causas de responsabilidad previstas en las fracciones I, II, III, X, XVII, XVIII y XIX del artículo 173, serán sancionadas con apercibimiento público y, en caso de reincidencia, con suspensión del cargo de tres días a tres meses sin goce de sueldo.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 175.
 
-Las causas de responsabilidad previstas en las fracciones IV, V, VI, VIII, y IX del artículo 173, serán sancionadas con suspensión del cargo de tres días a tres meses sin goce de sueldo y, en caso de reincidencia, con la destitución del responsable.
+Las causas de responsabilidad previstas en las fracciones IV, VI, VIII, IX, XV, XVI, XX, XXI y XXII del artículo 173, serán sancionadas con suspensión del cargo de tres días a tres meses sin goce de sueldo y, en caso de reincidencia, con la destitución del o los responsables.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 176.
 
-Las causas de responsabilidad prevista (sic) en las fracciones VII, X, XII, XIII, XIV y XV del artículo 173, serán sancionadas con destitución del cargo y, atendiendo a la gravedad de la falta, podrá decretarse la inhabilitación del servidor público responsable.
+Las causas de responsabilidad prevista (sic) en las fracciones V, VII, XI, XII, XIII y XIV del artículo 173, serán sancionadas con destitución del cargo y, atendiendo a la gravedad de la falta, podrá decretarse la inhabilitación del servidor público responsable.
 
 ###### Artículo 177.
 
@@ -2213,11 +2659,13 @@ V. La reincidencia en el incumplimiento de las obligaciones en materia de inform
 
 Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere el artículo 173 de esta ley, son independientes de las de orden civil o penal que procedan.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 179.
 
-El instituto dará vista o denunciará ante las autoridades competentes, cuando se advierta de una posible conducta prevista en el artículo 173 y aportará las pruebas que considere pertinentes.
+El instituto sancionará las causales de responsabilidad a que se refiere el artículo 173 de esta ley y dará vista al órgano de control interno de cada sujeto obligado, o en su caso a la autoridad competente, para que éste imponga o ejecute la sanción determinada, en términos de las disposiciones aplicables. Para lo anterior, el instituto deberá de acompañar el expediente que contenga todos los elementos que sustenten la presunta responsabilidad administrativa.
 
-En el caso de dirigentes o funcionarios de partidos políticos y agrupaciones políticas, el Instituto dará vista a la autoridad electoral en el estado, para que determine lo que en derecho corresponda.
+En el caso de dirigentes o funcionarios de partidos políticos, asociaciones y agrupaciones políticas, el instituto dará vista a la autoridad electoral en el Estado, para que determine lo que en derecho corresponda.
 
 ###### Artículo 180.
 
@@ -2231,9 +2679,755 @@ Los servidores públicos que divulguen información reservada o confidencial en 
 
 #### SECCIÓN ÚNICA. LEY SUPLETORIA
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 182.
 
-La Ley de Procedimiento Administrativo del Estado de Coahuila de Zaragoza y demás disposiciones relacionadas con la materia, se aplicarán de manera supletoria en todo lo no previsto por esta ley.
+La Ley General, la Ley de Procedimiento Administrativo del Estado de Coahuila de Zaragoza y demás disposiciones relacionadas con la materia, se aplicarán de manera supletoria en todo lo no previsto por esta ley.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO DÉCIMO QUINTO. DEL INSTITUTO COAHUILENSE DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN PRIMERA. BASES GENERALES
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 183.
+
+El presente capítulo tiene por objeto establecer las bases, estructura, organización y funciones del instituto, como organismo autónomo rector y responsable de las materias de:
+
+I. Transparencia;
+
+II. Acceso a la información pública; y
+
+III. Protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 184.
+
+El instituto es un organismo público dotado de autonomía constitucional, especializado, independiente en sus decisiones y funcionamiento, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el ejercicio de los derechos de acceso a la información y la protección de datos personales, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, la Ley General y esta ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 185.
+
+El instituto podrá en todo momento, presentar iniciativas de leyes o decretos al Congreso del Estado en las materias de las cuales es autoridad rectora y responsable en el Estado.
+
+La facultad de los sujetos obligados de reglamentar en el ámbito de su competencia la materia que corresponda conforme a la ley, no limita ni restringe la facultad reglamentaria del instituto que vinculará a dichos sujetos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 186.
+
+El patrimonio del instituto estará constituido por:
+
+I. Los ingresos que perciba conforme a la partida que establezca su presupuesto anual de egresos, así como los que perciba por los servicios que preste en cumplimiento de su objeto o que le correspondan por cualquier otro título legal;
+
+II. Los bienes muebles e inmuebles y demás ingresos que los gobiernos federal, estatal y municipal, le aporten para la realización de su objeto;
+
+III. Los subsidios y aportaciones permanentes, periódicas o eventuales, que reciba de los gobiernos federal, estatal y municipal y, en general, los que obtenga de instituciones públicas, privadas o de particulares;
+
+IV. Las donaciones, herencias y legados que se hicieren a su favor; y
+
+V. Todos los demás bienes o ingresos que adquiera por cualquier otro medio legal.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 187.
+
+El instituto tiene la facultad de establecer la estructura, forma y modalidades de su organización y funcionamiento interno, en los términos que establece esta ley, bajo el principio de disponibilidad presupuestal.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 188.
+
+El instituto administrará su patrimonio conforme a las bases siguientes:
+
+I. Los recursos que integran su patrimonio, serán ejercidos en forma directa por los órganos del instituto; o bien, por quien ellos autoricen, conforme a esta ley y su reglamento;
+
+II. El Congreso del Estado revisará y fiscalizará la cuenta pública del instituto, en los términos de las disposiciones aplicables;
+
+III. El ejercicio presupuestal del instituto deberá ajustarse a los principios de honestidad, legalidad, optimización de recursos, racionalidad e interés público y social;
+
+IV. El instituto manejará su patrimonio prudentemente conforme a las disposiciones aplicables. En todo caso, el instituto requerirá el acuerdo del Consejo General, para dictar resoluciones que afecten el patrimonio inmobiliario o para celebrar actos o convenios que comprometan al instituto por un plazo mayor al período de su encargo, por lo que el instituto deberá observar las disposiciones aplicables a los órganos de gobierno de las entidades de la Administración Pública Estatal. El convenio siempre será por un tiempo determinado y con un objeto preciso;
+
+V. El instituto podrá celebrar acuerdos con las dependencias de los poderes ejecutivo o legislativo que correspondan, para que coadyuven, total o parcialmente, en las funciones relacionadas con la administración, control y fiscalización de su patrimonio; y
+
+VI. En todo lo relativo a la administración, control y fiscalización de su patrimonio, el instituto deberá observar las disposiciones aplicables a los órganos de gobierno de las entidades de la Administración Pública Estatal, según la materia de que se trate.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 189.
+
+El instituto elaborará su propio proyecto de presupuesto de egresos y lo remitirá al Poder Ejecutivo del Estado, a fin de que éste lo envíe en su oportunidad al Congreso del Estado, para su estudio, discusión y, en su caso, aprobación. El proyecto de presupuesto de egresos del instituto no podrá ser modificado por el Poder Ejecutivo del Estado.
+
+El proyecto de presupuesto de egresos del instituto, contemplará las partidas presupuestales necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 190.
+
+El instituto contará con los recursos humanos, financieros y materiales que autorice el presupuesto de egresos correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 191.
+
+El instituto gozará, respecto de su patrimonio, de las franquicias, exenciones y demás prerrogativas concedidas a los fondos y bienes del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 192.
+
+Todas las funciones y actividades del instituto, se regirán por los principios de constitucionalidad, legalidad, certeza, eficiencia, independencia, imparcialidad, transparencia, máxima publicidad, profesionalismo y objetividad.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 193.
+
+El instituto, a través de su Comisionado Presidente, deberá presentar, a más tardar el quince de diciembre de cada año, un informe por escrito ante el Congreso del Estado sobre los trabajos realizados.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE SU CONFORMACIÓN Y ATRIBUCIONES
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 194.
+
+Para el ejercicio de sus funciones, el instituto contará con órganos directivos, técnicos y de vigilancia, en los términos que establece esta ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 195.
+
+El Consejo General es el órgano superior del instituto y tiene por objeto:
+
+I. Vigilar el cumplimiento de las disposiciones en la materia, e interpretar y aplicar las mismas; y
+
+II. Garantizar que todo sujeto obligado por la presente ley, cumpla con los principios de constitucionalidad, legalidad, certeza, independencia, imparcialidad y objetividad.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 196.
+
+Los órganos directivos del instituto son:
+
+I. El Consejo General; y
+
+II. La Presidencia del Consejo General.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 197.
+
+Los órganos técnicos del instituto son:
+
+I. La Dirección General; y
+
+II. La Secretaría Técnica.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 198.
+
+Los órganos de vigilancia del instituto son:
+
+I. La Comisión de Vigilancia, Evaluación y Disciplina;
+
+II. La Comisión de Administración;
+
+III. La Comisión de Asuntos Jurídicos;
+
+IV. La Comisión de Datos Personales;
+
+V. La Comisión de Promoción de la Cultura de la Transparencia; y
+
+VI. Las demás comisiones que constituya el Consejo General de conformidad con la presente ley y demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 199.
+
+El Consejo General del instituto estará integrado por cinco comisionados, los cuales serán designados por el Congreso del Estado, en los términos de la presente ley y demás disposiciones aplicables. En su integración se procurará la equidad de género.
+
+Los comisionados durarán en su encargo hasta siete años de manera escalonada, para asegurar la autonomía del instituto y no podrán tener ningún otro empleo, cargo o comisión, con excepción de los no remunerados, en instituciones docentes, científicas o de beneficencia.
+
+Sólo podrán ser removidos de su cargo en los términos del Título Séptimo de la Constitución Política del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 200.
+
+La designación de los comisionados del instituto, se realizará bajo el siguiente procedimiento:
+
+I. El Congreso del Estado, por conducto de la Comisión de Transparencia y Acceso a la Información, emitirá una convocatoria pública para que cualquier ciudadano que aspire al cargo de comisionado, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma;
+
+II. Concluido el plazo para el registro de los aspirantes al cargo de comisionado, el Congreso del Estado, por conducto de la Comisión de Transparencia y Acceso a la Información, dentro de los cinco días naturales siguientes, emitirá un dictamen en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en la presente ley, mismos que continuarán con el procedimiento de selección;
+
+III. Los aspirantes que hayan acreditado los requisitos, deberán someterse a un examen escrito, teórico y práctico de conocimientos en la materia, el cual será aplicado por una universidad pública del Estado, la cual evaluará cada examen y remitirá los resultados a la Comisión de Transparencia y Acceso a la Información del Congreso del Estado.
+
+El examen se efectuará dentro de los diez días naturales siguientes a la fecha en que haya sido emitido el dictamen señalado en la fracción anterior. Una vez presentado el examen por los aspirantes, la universidad pública del Estado encargada de aplicar los mismos, los calificará y enviará a la Comisión de Transparencia y Acceso a la Información del Congreso del Estado para la publicación de los resultados en su página de internet oficial, junto con la versión pública del currículum de cada uno de los aspirantes;
+
+IV. Los aspirantes que hubieren aprobado el examen serán convocados a comparecer en audiencia pública ante la Comisión de Transparencia y Acceso a la Información, dentro de los siguientes diez días naturales;
+
+V. Concluido el periodo de comparecencias, la Comisión de Transparencia y Acceso a la Información realizará la propuesta de aquellos aspirantes que cumplan con el perfil necesario para ser designados como comisionados, mediante el dictamen correspondiente, y lo presentará al Pleno del Congreso del Estado, para su discusión y, en su caso, aprobación; y
+
+VI. Las dos terceras partes de los diputados presentes, aprobarán o rechazarán el dictamen que se les presente, en caso de no obtener la votación requerida, la Comisión de Transparencia y Acceso a la Información del Congreso del Estado, presentará otra propuesta hasta obtener la aprobación correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 201.
+
+Para ser designado comisionado del instituto, se deberán cumplir los requisitos siguientes:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Contar por lo menos con treinta años al día de la designación;
+
+III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, se inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+IV. Contar con título profesional a nivel de licenciatura;
+
+V. Haber residido en el Estado durante los dos años anteriores al día de la designación;
+
+VI. Tener conocimientos en materia de transparencia, acceso a la información, protección de datos personales o cualquier materia afín;
+
+VII. No haber desempeñado un cargo de elección popular federal, estatal o municipal, durante los últimos cinco años inmediatos a la fecha de su designación;
+
+VIII. No haber desempeñado el cargo de Secretario o Subsecretario de la Administración Pública Estatal, de Procurador o Subprocurador, o de Director General de una entidad paraestatal o paramunicipal durante los últimos cinco años inmediatos a la fecha de su designación;
+
+IX. No haber sido dirigente de un comité directivo, ejecutivo o equivalente de un partido político, en el ámbito nacional, estatal o municipal, ni ministro de ningún culto religioso, durante los últimos cinco años inmediatos a la fecha de su designación;
+
+X. No tener antecedentes de una militancia activa o pública y notoria en algún partido político, cuando menos cinco años antes de su designación; y
+
+XI. No haber desempeñado el cargo de Magistrado del Poder Judicial del Estado ni el de Director General del Instituto de Especialización Judicial durante los últimos cinco años inmediatos a la fecha de su designación.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 202.
+
+Los comisionados del instituto en funciones recibirán una remuneración adecuada e irrenunciable por el desempeño de su cargo, la cual no podrá ser disminuida durante su encargo.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 203.
+
+El Consejo General y el instituto serán presididos por un comisionado, quien tendrá la representación legal del mismo. Durará en su encargo un periodo de tres años, renovable por un período igual. En caso de que el periodo que le reste al comisionado sea menor de tres años, podrá ser elegido o ratificado, y durará como Presidente el tiempo que le reste como comisionado.
+
+El Comisionado Presidente será elegido mediante sistema de voto secreto y por mayoría de los integrantes del Consejo General presentes en la sesión de elección.
+
+En caso de ausencia definitiva del Comisionado Presidente, la Secretaría Técnica deberá de convocar a sesión extraordinaria de inmediato y el Consejo General deberá de elegir de entre sus miembros presentes a quien fungirá como Presidente del Consejo General y del instituto, para lo que se estará a lo dispuesto por el párrafo anterior.
+
+La designación del Comisionado Presidente, se comunicará de inmediato para su conocimiento a los Poderes del Estado y a los organismos públicos autónomos.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 204.
+
+El Consejo General celebrará sesiones públicas ordinarias por lo menos una vez al mes, sin perjuicio de celebrar, en cualquier tiempo, las sesiones extraordinarias que sean necesarias para la eficaz marcha del instituto, previa convocatoria del Comisionado Presidente o de al menos dos de los comisionados.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 205.
+
+Las sesiones del Consejo General se sujetarán a las reglas siguientes:
+
+I. Serán públicas, salvo aquellas en las que se ventilen asuntos que involucren la protección de datos personales, en cuyo caso, sólo deberán hacerse públicos los asuntos tratados cuando no contravengan las disposiciones en la materia;
+
+II. Serán válidas cuando se integre el quórum con la mayoría de los comisionados;
+
+III. Deberán de asistir, con voz pero sin voto, el Director General y el Secretario Técnico;
+
+IV. De toda sesión, se levantará el acta respectiva a través del Secretario Técnico. Las actas deberán contener una síntesis del asunto a tratar y el punto acordado y se resguardarán en el archivo del instituto, por conducto de la Secretaría Técnica;
+
+V. El Secretario Técnico, al inicio de cada sesión, leerá el acta de la sesión anterior para su aprobación. Una vez aprobada, deberá ser autorizada con las firmas del Comisionado Presidente o de quien legalmente deba suplirlo y del propio Secretario Técnico. El Consejo General podrá dispensar la lectura del acta, cuando ésta haya sido turnada previamente a los comisionados para su lectura;
+
+VI. Se dará curso a los asuntos listados en el orden del día o de aquellos que requieran la intervención del Consejo General;
+
+VII. El Comisionado Presidente o quien legalmente deba suplirlo, presidirá la sesión, dirigirá los debates, declarará cerrada la discusión cuando así lo estime y, finalmente, someterá a votación los asuntos correspondientes;
+
+VIII. Las votaciones del Consejo General se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Comisionado Presidente o quien legalmente deba suplirlo, tendrá voto de calidad;
+
+IX. El Comisionado Presidente por sí o a través del Secretario Técnico, deberá ejecutar los acuerdos sin demora. El Consejo General podrá corregir, subsanar o modificar el acuerdo ejecutado, cuando advierta un error esencial en el acta que se somete a su aprobación; y
+
+X. Se podrá invitar hasta tres expertos en la materia, profesores, investigadores o cualquier sector de la sociedad, para discutir en forma pública los temas de la agenda del instituto, los cuales tendrán derecho a voz en la sesión.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 206.
+
+Las atribuciones concedidas al instituto en esta u otras leyes, residen originalmente en el Consejo General. Los demás órganos del instituto creados por esta ley o su reglamento, podrán ejercer esas u otras facultades en los casos siguientes:
+
+I. Cuando la Ley General, esta ley u otras leyes y/o el reglamento de la ley, les otorguen expresamente las atribuciones; y
+
+II. Cuando por acuerdo del Consejo General se deleguen las atribuciones para el mejor funcionamiento del instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 207.
+
+El Consejo General tendrá las atribuciones siguientes:
+
+I. En materia de administración y gobierno interno:
+
+1. Dictar las medidas de administración y gobierno interno que resulten necesarias para la debida organización y funcionamiento del instituto;
+
+2. Establecer la estructura administrativa de los órganos del instituto y su jerarquización;
+
+3. Establecer la integración, organización, funcionamiento y atribuciones de las comisiones del instituto que establezca esta ley o que cree el Consejo General, para el debido funcionamiento del instituto;
+
+4. Aprobar el informe anual que deberá presentar por escrito el Comisionado Presidente ante el Congreso del Estado;
+
+5. Establecer un sistema interno de rendición de cuentas claras, transparentes y oportunas, así como garantizar el acceso a la información pública dentro del instituto en los términos de la ley;
+
+6. Requerir, recibir, analizar y sistematizar los informes que deberán enviarle los sujetos obligados sobre la materia:
+
+7. Dirimir cualquier tipo de conflicto competencial entre los órganos del instituto, resolviendo en definitiva:
+
+8. Aprobar el proyecto de presupuesto anual de egresos del instituto, a efecto de que el Comisionado Presidente lo envíe al Poder Ejecutivo del Estado para los efectos correspondientes;
+
+9. Instruir al Secretario Técnico para que remita al Periódico Oficial del Gobierno del Estado, los reglamentos, acuerdos y demás actos que de acuerdo a la ley o por su importancia requieran su publicación; y
+
+10. Las demás que resulten necesarias para la administración y gobierno interno del instituto.
+
+II. En materia normativa:
+
+1. Interpretar en el ámbito de sus atribuciones esta ley;
+
+2. Vigilar el cumplimiento de las disposiciones constitucionales y legales en la materia, así como dictar las normas y previsiones destinadas a hacer efectivas tales disposiciones;
+
+3. Aprobar, a propuesta del Presidente del Consejo General, de una Comisión, del Director General o del Secretario Técnico, los reglamentos, lineamientos, manuales de procedimiento, políticas y demás normas que resulten necesarias para el funcionamiento del instituto y que sean de su competencia en términos de la presente ley;
+
+4. Interponer acciones de inconstitucionalidad, en contra de leyes de carácter estatal y municipal, que vulnere el derecho de acceso a la información y la transparencia;
+
+5. Vigilar y evaluar el cumplimiento de la garantía de la información pública mínima y demás obligaciones de transparencia, así como emitir las recomendaciones en la materia;
+
+6. Establecer las garantías necesarias para el acceso a la información pública, la protección de los datos personales y demás atribuciones en la materia;
+
+7. Definir los grupos vulnerables para la protección de los datos personales especialmente protegidos;
+
+8. Aprobar las iniciativas de leyes o decretos en la materia, para después presentarlas al Congreso del Estado, por conducto de su Comisionado Presidente;
+
+9. Promover controversias y acciones constitucionales locales en la materia; y
+
+10. Establecer políticas de transparencia proactiva atendiendo las condiciones económicas sociales y culturales.
+
+III. En materia de relaciones intergubernamentales:
+
+1. Celebrar convenios de apoyo y colaboración con autoridades federales, estatales o municipales;
+
+2. Cooperar con el organismo garante nacional en el cumplimiento de las funciones de ambas entidades;
+
+3. Celebrar convenios de colaboración con los sujetos obligados, que propicien la publicación de información en marco de las políticas de la transparencia proactiva;
+
+4. Suscribir convenios de colaboración con particulares o sectores de la sociedad cuando sus actividades o productos resulten de interés público o relevancia social;
+
+5. Promover la rendición de cuentas de los poderes públicos entre sí, y la transparencia y rendición de cuentas hacia los ciudadanos y la sociedad;
+
+6. Promover la colaboración interinstitucional en la materia bajo los principios de fidelidad estatal y municipal;
+
+7. Coordinarse con las autoridades competentes para que en los procedimientos de acceso a la información, así como los medios de impugnación, se contemple contar con la información necesaria en lenguas indígenas y formatos accesibles, para que sean sustanciados y atendidos en la misma lengua, y en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad; y
+
+8. Remitir al órgano garante nacional los recursos de revisión que a juicio del Consejo General, puedan ser del conocimiento de dicho órgano, para que éste, en su caso, ejerza la facultad de atracción.
+
+IV. En materia de acceso a la información pública y transparencia:
+
+1. Dictar las providencias y medidas necesarias para salvaguardar el derecho de acceso a la información pública;
+
+2. Promover la regulación e instrumentación del principio de publicidad de los actos y decisiones, así como el libre acceso a las reuniones de los poderes públicos estatales, municipales y organismos públicos autónomos;
+
+3. Cumplir y hacer cumplir los principios en la materia;
+
+4. Conocer y resolver los recursos de revisión interpuestos por las personas en contra de los sujetos obligados;
+
+5. Excusar a los comisionados del estudio, o votación en la resolución, de los recursos de revisión, cuando alguna de las partes lo haya solicitado y acreditado el conflicto de interés;
+
+6. Establecer y ejecutar las medidas de apremio y/o sanciones, según corresponda conforme a lo establecido en la Ley General y esta ley;
+
+7. Emitir las recomendaciones a los sujetos obligados para diseñar, implementar y evaluar acciones de apertura gubernamental que permitan orientar las políticas internas en la materia;
+
+8. Conocer y resolver las quejas, denuncias y procedimiento de verificación que marca esta ley;
+
+9. Elaborar los formatos utilizados para el ejercicio del derecho de acceso a la información;
+
+10. Determinar y hacer del conocimiento de la instancia competente la probable responsabilidad por incumplimiento de las obligaciones previstas en la Ley General, esta ley y demás disposiciones aplicables;
+
+11. Garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho de acceso a la información; y
+
+12. Ejercer las demás facultades previstas en la Ley General y esta ley, para salvaguardar el acceso a la información pública y la transparencia.
+
+V. En materia de protección de datos personales:
+
+1. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales en posesión de los sujetos obligados;
+
+2. Cumplir y hacer cumplir los principios y normas en la materia;
+
+3. Elaborar los formatos utilizados para el ejercicio de los derechos de acceso, rectificación, cancelación u oposición:
+
+4. Emitir las reglas, criterios o lineamientos necesarios para el adecuado tratamiento de los datos personales;
+
+5. Resolver los recursos de revisión en materia de protección de datos personales; y
+
+6. Ejercer las demás facultades previstas en la ley de la materia, para la protección de los datos personales.
+
+VI. En materia de cultura de la transparencia, acceso a la información, protección de datos personales y gobierno abierto:
+
+1. Promover de manera permanente la cultura de la transparencia, el acceso a la información pública, el gobierno abierto, la rendición de cuentas, la participación ciudadana, la accesibilidad y la innovación tecnológica;
+
+2. Promover la capacitación, actualización y habilitación de los servidores públicos en materia de transparencia, acceso a la información pública, protección de los datos personales y gobierno abierto;
+
+3. Elaborar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la ley de la materia, tengan que realizarse ante los sujetos obligados y el instituto;
+
+4. Promover que en los programas y planes de estudio, libros y materiales que se utilicen en las instituciones educativas de todos los niveles y modalidades, se incluyan contenidos y referencias a los derechos tutelados en la materia;
+
+5. Promover la igualdad sustantiva;
+
+6. Elaborar y publicar estudios, investigaciones y, en general, cualquier tipo de edición, que difunda y socialice el conocimiento de la materia;
+
+7. Orientar y auxiliar a las personas para ejercer los derechos en la materia; y
+
+8. Las demás que resulten necesarias para fomentar la cultura de la transparencia, del acceso a la información pública y de la protección de datos personales.
+
+VII. En materia de participación comunitaria y ciudadana:
+
+1. Diseñar e instrumentar políticas de gobierno abierto, participación ciudadana y comunitaria en la materia;
+
+2. Establecer la organización y el funcionamiento del Consejo Consultivo;
+
+3. Fomentar, promover e incentivar los principios de gobierno abierto y la participación ciudadana y comunitaria en la materia; y
+
+4. Las demás necesarias para garantizar la participación ciudadana y comunitaria en la materia.
+
+VIII. Las demás que le confiera esta ley u otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 208.
+
+Los comisionados tendrán las siguientes atribuciones:
+
+I. Velar por la efectividad del derecho de acceso a la información pública y el de la protección de los datos personales;
+
+II. Promover, supervisar y participar en los programas de cultura de la transparencia, del acceso a la información pública y de la protección de datos personales;
+
+III. Orientar a los ciudadanos en el ejercicio de sus derechos en la materia;
+
+IV. Representar al instituto en los asuntos que el Consejo General determine;
+
+V. Desempeñar las tareas que el propio Consejo General les encomiende;
+
+VI. Llevar a cabo actividades de promoción, difusión e investigación de los derechos de acceso a la información, transparencia, protección de datos personales y archivos;
+
+VII. Formar parte de las comisiones y subcomisiones que acuerde el Consejo General;
+
+VIII. Suscribir los acuerdos, actas, resoluciones y decisiones del Consejo General, que requieran de firma del Consejo General;
+
+IX. Presentar al Consejo General proyectos de acuerdos y resoluciones;
+
+X. Excusarse en el estudio de los recursos de revisión que les sean turnados, cuando exista conflicto de interés, el cual deberá de ser comunicado al Comisionado Presidente para que turne de nueva cuenta el recurso de revisión en términos de ley; y
+
+XI. Las demás que esta ley u otras disposiciones aplicables les confieran.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 209.
+
+Los comisionados desempeñan una función pública. En todo caso, la función de los comisionados se sujetará a los principios de autonomía, independencia, legalidad, excelencia, profesionalismo, imparcialidad, objetividad, probidad y honestidad.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 210.
+
+Las ausencias temporales del Comisionado Presidente las suplirá el comisionado en funciones que designe el Consejo General, de conformidad con esta ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 211.
+
+Se considerará ausencia definitiva, la inasistencia consecutiva y sin causa justificada, de algún comisionado a tres sesiones agendadas y previamente notificadas personalmente.
+
+En caso de ausencia de uno o más de los comisionados, el Secretario Técnico deberá de hacerlo del conocimiento del Congreso del Estado, para que éste inicie en un plazo no mayor a 15 días el procedimiento de designación de comisionados.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 212.
+
+La Presidencia del Consejo General tendrá las atribuciones siguientes:
+
+I. Representar legalmente al instituto ante cualquier entidad pública o privada;
+
+II. Velar por la unidad de las actividades de los órganos del instituto;
+
+III. Establecer los vínculos necesarios entre el instituto y el órgano garante nacional y las demás autoridades federales, estatales y municipales, para lograr su apoyo, colaboración y auxilio, en sus respectivos ámbitos de competencia;
+
+IV. Representar al instituto ante el Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+V. Conducir las sesiones del Consejo General;
+
+VI. Vigilar, por conducto de la Secretaría Técnica, que los asuntos, procedimientos y recursos de la competencia del Consejo General, se tramiten hasta ponerlos en estado de resolución en los términos de las leyes respectivas;
+
+VII. Dictar las medidas de salvaguarda para proteger los datos personales, en caso de extrema urgencia;
+
+VIII. Vigilar, con auxilio de la Secretaría Técnica, el cumplimiento de los acuerdos adoptados por el Consejo General;
+
+IX. Proponer anualmente al Consejo General, el proyecto de presupuesto de egresos del instituto para su aprobación;
+
+X. Remitir al titular del Poder Ejecutivo del Estado, el proyecto de presupuesto de egresos del instituto aprobado por el Consejo General, en los términos de la ley de la materia;
+
+XI. Ejercer las partidas presupuestales aprobadas;
+
+XII. Ejercer, previo acuerdo del Consejo General, actos de dominio;
+
+XIII. Rendir los informes ante las autoridades competentes, en representación del Consejo General o del instituto;
+
+XIV. Otorgar poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades generales y especiales, incluso las que requieran cláusula especial conforme a la ley. Para el otorgamiento de poderes generales o especiales para actos de dominio y con facultades cambiarias, deberá contar con la autorización del Consejo General del instituto;
+
+XV. Emitir los acuerdos que sean necesarios para la rápida y eficaz realización y desarrollo de sus atribuciones;
+
+XVI. Otorgar los nombramientos del personal del instituto; y
+
+XVII. Las demás que le confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. DE LOS ÓRGANOS TÉCNICOS DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 213.
+
+El titular de la Dirección General será nombrado y removido libremente por el Consejo General del instituto por mayoría de votos, en términos de esta ley, a propuesta de cualquiera de los miembros del Consejo General del instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 214.
+
+La Dirección General tendrá las facultades siguientes:
+
+I. Asistir y participar con voz, pero sin voto en las sesiones del Consejo General;
+
+II. Cumplir y hacer cumplir los acuerdos del Consejo General;
+
+III. Someter al conocimiento y, en su caso, a la aprobación del Consejo General, informes periódicos sobre los asuntos de su competencia;
+
+IV. Ejecutar e implementar las providencias necesarias para la atención de aquellos asuntos del instituto que, por su naturaleza o urgencia, así lo requieran, en ausencia temporal o definitiva del Comisionado Presidente;
+
+V. Proponer la designación o nombramiento de los servidores públicos de las áreas a su cargo;
+
+VI. Proponer la estructura de los órganos administrativos de las áreas a su cargo, conforme a las necesidades del servicio y los recursos presupuestales autorizados;
+
+VII. Formular y presentar al Consejo General para su aprobación, los proyectos de reglamentos y demás disposiciones generales o particulares que considere necesarias para la buena administración del instituto;
+
+VIII. Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal profesional del instituto;
+
+IX. Aplicar las políticas, normas y procedimientos para la administración de los recursos humanos, financieros y materiales del instituto;
+
+X. Fijar, previo acuerdo con el Comisionado Presidente, las directrices que le permitan a las áreas a su cargo, cumplir con las funciones y atribuciones que les fueron conferidas de conformidad con lo establecido por el reglamento interior del instituto;
+
+XI. Proveer a los órganos del instituto, los elementos necesarios para el cumplimiento de sus funciones de acuerdo a la capacidad presupuestal del mismo;
+
+XII. Elaborar, de conformidad con las disposiciones aplicables, el proyecto del presupuesto anual de egresos del instituto, a fin de que el Comisionado Presidente, una vez que lo haya autorizado el Consejo General, lo presente al titular del Poder Ejecutivo del Estado, para que éste lo someta a la consideración y, en su caso, aprobación del Congreso del Estado;
+
+XIII. Ejercer, en coordinación con el Comisionado Presidente y las áreas internas del instituto encargadas de la administración, las partidas presupuestales aprobadas;
+
+XIV. Auxiliar al Comisionado Presidente, a los comisionados, a las comisiones y al Secretario Técnico, en el despacho de los asuntos a su cargo; y
+
+XV. Las demás que le confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 215.
+
+El titular de la Secretaría Técnica será nombrado y removido libremente por el Consejo General por mayoría de votos, en términos de esta ley, a propuesta de cualquiera de los miembros del Consejo General del instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 216.
+
+La Secretaría Técnica tendrá las atribuciones siguientes:
+
+I. Asistir y participar con voz, pero sin voto en las sesiones celebradas por el Consejo General;
+
+II. Ejecutar, cumplir y verificar el cumplimiento de los acuerdos del Consejo General informando de ello al Comisionado Presidente;
+
+III. Convocar a las sesiones del Consejo General, elaborar el orden del día de dichas sesiones y declarar la existencia del quórum legal necesario para sesionar;
+
+IV. Dar fe de lo actuado en las sesiones, o de las actuaciones de los comisionados u otras áreas del instituto, cuando le sea requerido y levantar las actas correspondientes;
+
+V. Proponer la designación o nombramiento de los servidores públicos de las áreas a su cargo;
+
+VI. Proponer la estructura de los órganos administrativos de las áreas a su cargo, conforme a las necesidades del servicio y los recursos presupuestales autorizados;
+
+VII. Fijar, previo acuerdo con el Comisionado Presidente, las directrices que le permitan a las áreas a su cargo, cumplir con las funciones y atribuciones que les fueron conferidas de conformidad con lo establecido por el reglamento interior del instituto;
+
+VIII. Gestionar, tramitar y dar cuenta de la correspondencia recibida y despachada por el instituto;
+
+IX. Firmar junto con el Comisionado Presidente, todos los acuerdos y resoluciones que emita el Consejo General;
+
+X. Notificar a los interesados, los acuerdos, resoluciones, recomendaciones y demás actuaciones del Consejo General;
+
+XI. Instrumentar, tramitar y dar fe de los procedimientos que se instruyan por el Consejo General;
+
+XII. Informar al Consejo General sobre el cumplimiento de los acuerdos que haya dictado;
+
+XIII. Llevar el archivo del instituto;
+
+XIV. Expedir certificaciones de las constancias que obren en los archivos del instituto, siempre que no contravengan las disposiciones en materia de protección de datos personales;
+
+XV. Proveer lo necesario a fin de que se hagan oportunamente las publicaciones que ordena la ley correspondiente u otras disposiciones aplicables, así como las que disponga el Consejo General;
+
+XVI. Auxiliar al Comisionado Presidente, a los comisionados, a las comisiones y al Director General, en el despacho de los asuntos a su cargo;
+
+XVII. Elaborar los proyectos de dictámenes que la ley aplicable, el Consejo General o las comisiones le encomienden;
+
+XVIII. Recibir y tramitar en los términos de la Ley General, la presente ley y demás disposiciones aplicables, los medios de impugnación que se interpongan en contra de los actos o resoluciones que emita el instituto;
+
+XIX. Recibir, tramitar y dar causa a las promociones, quejas o recursos presentados ante el instituto en los términos establecidos en la ley de la materia;
+
+XX. Formular y presentar a la aprobación del Consejo General, los proyectos de reglamentos y demás disposiciones generales o particulares que considere necesarias para la buena administración del instituto; y
+
+XXI. Las demás que le confiera esta ley u otras disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN CUARTA. DE LAS COMISIONES DEL INSTITUTO
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 217.
+
+El objeto de las comisiones radica en la función dictaminadora y de evaluación y vigilancia de los asuntos de su competencia, a efecto de someter su proyecto de dictamen al Consejo General, para que éste decida lo que proceda.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 218.
+
+Las comisiones se integrarán de la siguiente manera:
+
+I. Dos comisionados;
+
+II. El titular de la Dirección General o el Secretario Técnico, según lo acuerde el Consejo General; y
+
+III. El titular del área correspondiente, según la comisión de que se trate.
+
+Cada comisión contará con un Presidente, que será uno de los comisionados que la integre, el cual tendrá voto de calidad. En el caso de la Comisión de Administración, el Presidente del Consejo General del instituto deberá ocupar el cargo de Presidente de dicha comisión.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 219.
+
+Por ser el órgano de control interno del instituto, la Comisión de Vigilancia, Evaluación y Disciplina, será la encargada de inspeccionar, supervisar, evaluar y sancionar la función de todo el personal del instituto.
+
+La Comisión de Vigilancia, Evaluación y Disciplina se integrará con:
+
+I. Dos comisionados;
+
+II. El titular de la Dirección General o el Secretario Técnico, según lo acuerde el Consejo General; y
+
+III. Un servidor público del instituto designado por el Consejo General.
+
+El Comisionado Presidente no podrá, por ningún motivo, formar parte de esta comisión.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 220.
+
+La Comisión de Vigilancia, Evaluación y Disciplina tendrá las atribuciones siguientes:
+
+I. Dictar las medidas necesarias para supervisar y corregir la función en la materia;
+
+II. Ordenar y practicar visitas ordinarias y extraordinarias a los órganos del instituto, para verificar el debido cumplimiento de sus funciones;
+
+III. Proponer al Consejo General, los criterios de evaluación de la función en la materia para su discusión y, en su caso, aprobación;
+
+IV. Aplicar los criterios de evaluación de la función en la materia, al personal del instituto, para medir su desempeño conforme a los principios previstos en esta ley; y
+
+V. Conocer, tramitar y, en su caso, resolver los procedimientos disciplinarios en los términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 221.
+
+El Consejo General del instituto podrá crear y desintegrar las comisiones que juzgue conveniente para el eficaz cumplimiento de los objetivos del instituto, dotándolas de las atribuciones que resulten necesarias.
+
+El Consejo General determinará la integración, organización y competencia de cada comisión, sujetándose en todo momento a las reglas básicas que señala el presente ordenamiento para las comisiones del instituto.
+
+Las comisiones contarán con el auxilio del personal necesario para cumplir su función, previo acuerdo del Consejo General, y con arreglo a la disponibilidad presupuestal del instituto. En todo caso, el personal que integre cada una de las comisiones deberá ser profesional y especializado en la materia u objeto de la comisión.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN QUINTA. DEL CONSEJO CONSULTIVO
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 222.
+
+El instituto tendrá un Consejo Consultivo, integrado de forma colegiada y por un número impar, los cuales serán designados como consejeros honoríficos y por un plazo que no exceda de siete años, sin posibilidad de reelección.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 223.
+
+El Consejo General nombrará a los integrantes del Consejo Consultivo, previa realización de una amplia consulta a la sociedad, por mayoría de votos.
+
+En su integración se deberá garantizar la igualdad de género y la inclusión de personas con experiencia en las materias de esta ley y derechos humanos, provenientes de la sociedad civil y la academia.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 224.
+
+El Consejo Consultivo tendrá las siguientes atribuciones:
+
+I. Opinar sobre el programa anual de trabajo y su cumplimiento;
+
+II. Opinar sobre el proyecto de presupuesto para el ejercicio del año siguiente;
+
+III. Conocer el informe del instituto sobre el presupuesto asignado a programas y el ejercicio presupuestal y emitir las observaciones correspondientes;
+
+IV. Emitir opiniones no vinculantes, a petición del instituto o por iniciativa propia sobre temas relevantes en las materias de transparencia, acceso a la información y protección de datos personales;
+
+V. Emitir opiniones técnicas para la mejora continua en el ejercicio de las funciones sustantivas del instituto;
+
+VI. Opinar sobre la adopción de criterios generales en materia sustantiva; y
+
+VII. Analizar y proponer la ejecución de programas, proyectos y acciones relacionadas con las materias de transparencia, acceso a la información y protección de datos personales.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEXTA. DISPOSICIONES FINALES
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 225.
+
+Son sujetos de responsabilidad administrativa, todos los servidores públicos del instituto, cualquiera que sea su jerarquía.
+
+Los comisionados serán sujetos de responsabilidad administrativa en los términos que establece esta ley, pero en todo caso, la sanción de destitución o inhabilitación de su cargo, se hará sólo mediante juicio político que se tramite ante el Congreso del Estado, en términos de las disposiciones aplicables.
+
+La Comisión de Vigilancia, Evaluación y Disciplina aplicará la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza de manera supletoria en todo lo no previsto por esta ley.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 226.
+
+Toda persona podrá presentar la queja correspondiente, por escrito, bajo su más estricta responsabilidad y mediante la presentación de elementos objetivos de prueba, respecto de las conductas de responsabilidad administrativa en las que presuntamente incurran servidores públicos del instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 227.
+
+En cada uno de sus órganos, el instituto contará, para el desempeño de sus funciones, con el apoyo de funcionarios integrados en un cuerpo denominado Servicio Profesional de Carrera Garantes de los Derechos a la Información Pública y Protección de Datos Personales.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 228.
+
+Las relaciones laborales entre el instituto y sus trabajadores se regirán por el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila, el reglamento de la ley y las Condiciones Generales de Trabajo del instituto, así como, en lo conducente, por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado de Coahuila.
 
 T R A N S I T O R I O S
 
@@ -2330,3 +3524,29 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley del Instituto Coahuilense de Acceso a la Información Pública y todos aquellos ordenamientos secundarios que de ella emanen, que sean contrarios al presente Decreto y se derogan todas las disposiciones que se opongan al mismo.
+
+TERCERO. El instituto deberá de modificar y armonizar el Reglamento de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y su estructura, organización y funcionamiento en un plazo de 90 días naturales, a partir de la entrada en vigor del presente decreto.
+
+En tanto no entren en vigor las modificaciones y adecuaciones al Reglamento de la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza, se estará a lo dispuesto en el Reglamento Interior del Instituto Coahuilense de Acceso a la Información Pública y demás ordenamientos con los que cuenta el instituto que sean aplicables, en lo que no contravengan a las disposiciones establecidas en el presente Decreto o en la Ley General.
+
+CUARTO. Los procedimientos de acceso a la información pública, los recursos de revisión y los recursos de queja que se estén tramitando al momento en que entre en vigor el presente Decreto de reforma, se substanciarán de acuerdo a los procedimientos vigentes de la ley al día en que se iniciaron. Una vez que concluya la etapa en la que se encuentran, se deberán inmediatamente sujetar a los procedimientos que establece el presente Decreto.
+
+QUINTO. Los sujetos obligados, deberán de constituir los Comités de Transparencia en un plazo de 60 días naturales contados a partir de la entrada en vigor del presente Decreto. Aquellos que ya cuenten con el Comité Interno de Revisión, sólo deberán de formalizar el cambio de denominación en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. La obligación de difundir el Catálogo de Información Adicional, a que refiere la fracción XLIV del artículo 21, será aplicable de acuerdo a los plazos establecidos en los artículos transitorios de la Ley General para la implementación de la Plataforma Nacional de Transparencia.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Decreto de reforma, los consejeros del Instituto Coahuilense de Acceso a la Información Pública, serán identificados como comisionados y ya no existirán los consejeros suplentes.
+
+OCTAVO. Los comisionados del Instituto Coahuilense de Acceso a la Información Pública, que se encuentren en funciones a la entrada en vigor del presente Decreto, y conserven el derecho de ratificación ya adquirido al momento de su designación, podrán ser ratificados de acuerdo a lo siguiente: El Pleno del Congreso del Estado o la Diputación Permanente, en su caso, con el voto de por lo menos las dos terceras partes de los diputados presentes, podrá ratificar a uno o más consejeros, por una sola vez y con ciento veinte días naturales de anticipación a la fecha de conclusión del cargo, sin que por ello implique la ratificación del consejero suplente.
+
+El procedimiento de ratificación previsto en el párrafo anterior, procederá siempre y cuando lo solicite el Consejo General del Instituto ante el Congreso del Estado, por medio del acuerdo correspondiente. En caso de que este procedimiento no sea solicitado hasta un día antes de la fecha en que deba iniciar el mismo, se procederá al trámite de designación previsto en este Decreto.
+
+De ser ratificados los comisionados del Instituto Coahuilense de Acceso a la Información Pública, estarán sujetos a lo establecido por el presente Decreto.
