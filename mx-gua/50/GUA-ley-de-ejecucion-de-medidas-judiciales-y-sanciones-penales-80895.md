@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales-8089
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2013-06-07"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y 2 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de abril de 2011.
 
@@ -116,6 +118,12 @@ Los Poderes Judicial y Ejecutivo del Estado vigilarán, en el ámbito de sus res
 Los ayuntamientos tendrán la intervención que señala la presente Ley.
 
 En el cumplimiento de las penas, medidas de seguridad, medidas cautelares y de las condiciones impuestas, dictadas durante el proceso o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el órgano jurisdiccional, en su caso, remitirá sus resoluciones a la Secretaría; la que de conformidad a la naturaleza de aquéllas, en el ámbito de su competencia, las ejecutará o, en su caso, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o de las personas e instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+De igual forma, garantizarán el derecho de niñas, niños y adolescentes a convivir con sus familiares cuando estos se encuentren privados de su libertad, en los términos establecidos por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
 
 Derechos y obligaciones del inculpado o sentenciado
 
@@ -529,7 +537,7 @@ La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre 
 
 Prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares
 
-###### Articulo 36.
+###### Artículo 36.
 
 La resolución que imponga al inculpado la prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares se comunicará a la Secretaría o a otras Instituciones policiales en el estado, en su caso, en la que se indicarán específicamente las restricciones impuestas al inculpado para el cumplimiento de esa determinación, con la finalidad de que sea ejercida la vigilancia pertinente.
 
@@ -751,7 +759,7 @@ Cuando así lo disponga el Juez de Control, la comunicación entre éste y las a
 
 Procedimiento para la venta de instrumentos u objetos de lícito comercio asegurados pero no decomisados
 
-###### Articulo 61.
+###### Artículo 61.
 
 Los instrumentos u objetos de lícito comercio asegurados, que no hubieren sido o no pudieren ser decomisados, y que en el plazo de seis meses contados a partir de que la sentencia quede firme, no sean recogidos por quien tenga derecho a ello, se venderán siguiendo el procedimiento establecido en el artículo 545 del Código de Procedimientos Civiles, y su producto, previa deducción de los gastos ocasionados con motivo de la venta, ingresará al Fondo para la Atención y Apoyo a las Víctimas y a los Ofendidos del Delito.
 
@@ -835,7 +843,7 @@ Previo al disfrute de la semilibertad condicionada, el sentenciado señalará do
 
 Externación durante la semana de trabajo, educativa o de capacitación con reclusión de fin de semana
 
-###### Articulo 69.
+###### Artículo 69.
 
 El internamiento de fin de semana quedará sujeto a las siguientes reglas:
 
@@ -1459,7 +1467,7 @@ Estos derechos quedan a salvo, aún cuando el Juez de Ejecución no tome las med
 
 Tratamiento de inimputables
 
-###### Articulo 134.
+###### Artículo 134.
 
 En caso de que la sentencia pronunciada en el procedimiento especial para inimputables haya establecido como medida de seguridad el tratamiento de inimputables en internación, el Juez de Control que la haya pronunciado, pondrá al inimputable a disposición del Ejecutivo, por conducto de la Secretaría, para que determine el lugar idóneo para su atención, el cual deberá estar separado e independiente de los espacios destinados para la medida cautelar de prisión preventiva o para el cumplimiento de la pena privativa de libertad.
 
@@ -1539,7 +1547,7 @@ El contenido del presente Título se aplicara a los sentenciados y en lo conduce
 
 Bases del procedimiento
 
-###### Articulo 143.
+###### Artículo 143.
 
 La Secretaría organizará los Centros y Centros de Prevención y Reinserción Social, vigilando que el procedimiento de reinserción social de los internos esté basado en el trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
 
@@ -1589,7 +1597,7 @@ Emitida la sentencia condenatoria, se completará la información anterior con u
 
 Reclasificación del sentenciado
 
-###### Articulo 148.
+###### Artículo 148.
 
 La evolución en la aceptación o renuencia a los programas laborales, de capacitación para el trabajo, educación, deporte y salud, determinará una nueva clasificación del interno, con la consiguiente propuesta de traslado al establecimiento del régimen que corresponda, o dentro del mismo régimen, el pase de una sección a otra. La reclasificación estará sujeta a las siguientes reglas:
 
@@ -1655,7 +1663,7 @@ Todos los sentenciados tendrán la obligación de trabajar conforme a sus prefer
 
 Los sentenciados que se nieguen a trabajar sin causa justificada, serán considerados como renuentes al tratamiento de reinserción social y tal circunstancia será considerada en la determinación para la concesión o negación de los beneficios de libertad.
 
-Quedan exceptuados de la obligación de trabajar los sentenciados que acrediten que se encuentran en cualquiera.de las siguientes circunstancias:
+Quedan exceptuados de la obligación de trabajar los sentenciados que acrediten que se encuentran en cualquiera de las siguientes circunstancias:
 
 I. Padecer de incapacidad permanente para toda clase de trabajos;
 
@@ -1719,7 +1727,7 @@ Están exceptuados de tal obligación, los sentenciados que por motivo de salud,
 
 Fomento de la lectura y establecimiento de bibliotecas
 
-###### Articulo 161.
+###### Artículo 161.
 
 En todo Centro y Centro de Prevención y Reinserción Social se fomentara el interés de los internos por la lectura y el estudio; para ello, deberá contar con una biblioteca provista de bibliografía adecuada para esos fines y para respaldar los niveles de educación obligatorios.
 
@@ -1929,7 +1937,7 @@ Sección abierta
 
 ###### Artículo 185.
 
-La sección abierta es la destinada para el cumplimiento de la semilibertad condicionada decretada en sentencia ejecutoria y para los internos en favor de los cuales se haya otorgando un beneficio de libertad.
+La sección abierta es la destinada para el cumplimiento de la semilibertad condicionada decretada en sentencia ejecutoria y para los internos en favor de los cuales se haya otorgando (sic) un beneficio de libertad.
 
 Reclusión de internos de alto riesgo
 
@@ -1949,7 +1957,7 @@ La sección de inimputables o con incapacidad sobrevenida es la destinada para l
 
 Ubicación y permanencia de los internos en cada sección
 
-###### Articulo 188.
+###### Artículo 188.
 
 El Consejo de cada Centro y Centro de Prevención y Reinserción Social decidirá conforme a los estudios de personalidad practicados a cada interno, la ubicación y tiempo de permanencia en cada una de las secciones y áreas de los mismos.
 
@@ -2154,3 +2162,47 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
