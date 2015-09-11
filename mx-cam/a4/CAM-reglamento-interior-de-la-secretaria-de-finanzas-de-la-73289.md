@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-secretaria-de-finanzas-de-la-73289"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-04"
-last_updated: "2015-05-07"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Campeche, el jueves 4 de febrero del 2010.
 
@@ -1229,111 +1227,29 @@ VI. Atender y, en su caso, distribuir para su solventación la correspondencia d
 
 VII. Las demás que le sean conferidas por las leyes y reglamentos vigentes.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO NOVENO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VI. DE LA COMISIÓN PARA LA EVALUACIÓN DE LA INVERSIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
-
 ###### ARTÍCULO 27.
 
-La Comisión para la Evaluación de la Inversión Pública del Estado de Campeche es el órgano administrativo desconcentrado, subordinado jerárquicamente a esta Secretaría, que tiene por objeto contribuir a elevar la calidad del gasto de inversión del Estado por medio de la elaboración, asesoría técnica y capacitación de la evaluación de la rentabilidad social de los proyectos de inversión Pública y de la conformación de la Cartera Estatal de Programas y Proyectos de Inversión Pública de Alta Rentabilidad Social.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO POR ARTÍCULO NOVENO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, P.O. 11 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 28.
 
-Para los efectos del presente capítulo, se entenderá por:
-
-I. COMEVIP: Comisión para la Evaluación de la Inversión Pública del Estado de Campeche.
-
-II. CEPPIARS: Cartera Estatal de Programas y Proyectos de Inversión de Alta Rentabilidad Social.
-
-III. PPI: Programas y Proyectos de Inversión.
-
-IV. UI: Unidad de Inversión.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO POR ARTÍCULO NOVENO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, P.O. 11 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 29.
 
-La Cartera Estatal de Programas y Proyectos de Inversión Pública de Alta Rentabilidad Social es el registro estatal de todos los programas y proyectos de inversión que las dependencias y entidades de la administración pública pretendan realizar y estará regulada bajo los lineamientos que la COMEVIP establezca.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO POR ARTÍCULO NOVENO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, P.O. 11 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 30.
 
-La COMEVIP contará con autonomía técnica y operativa y tendrá las siguientes atribuciones:
-
-I. Integrar y administrar la CEPPIARS con aquellos PPI que cumplan los requisitos de rentabilidad social y con los objetivos contenidos en los principales instrumentos de planeación del Estado;
-
-II. Ingresar y evaluar, conforme a las políticas, normas y procedimientos correspondientes, los PPI que las dependencias y entidades pretendan inscribir en la CEPPIARS;
-
-III. Evaluar la rentabilidad social de los PPI propuestos por las dependencias y entidades de la administración pública estatal y revisar que su fuente de financiamiento, en parte o en su totalidad, sean los recursos públicos estatales con las políticas, normas y lineamientos correspondientes;
-
-IV. Determinar la interdependencia, colisión, sinergia y complementariedad de los PPI como criterio de jerarquización dentro de la CEPPIARS;
-
-V. Otorgar, retirar o cancelar los certificados de registro en la CEPPIARS según su cumplimiento con las disposiciones correspondientes;
-
-VI. Promover y colaborar para que los PPI, independientemente de la fuente de financiamiento, cuenten con la evaluación de rentabilidad social, criterio primario para su integración y jerarquización en la CEPPIARS;
-
-VII. Detectar dentro de la CEPPIARS, los PPI que se ajustan a las necesidades estatales de inversión;
-
-VIII. Analizar y reportar el equilibrio en la distribución sectorial, institucional y regional de programas y proyectos de inversión, de acuerdo con los objetivos del Plan Estatal de Desarrollo y demás disposiciones aplicables;
-
-IX. Detectar las necesidades complementarias y faltantes en la CEPPIARS para cumplir con los objetivos del Plan Estatal de Desarrollo y demás disposiciones aplicables;
-
-X. Sugerir a las dependencias y entidades de la administración pública estatal, la elaboración de PPI detectados como necesidades complementarias y faltantes, para cumplir con los objetivos del Plan Estatal de Desarrollo y demás disposiciones aplicables;
-
-XI. Elaborar la prospectiva de las necesidades estatales de inversión a mediano y largo plazo con base en la proyección económica del Estado y acorde a los objetivos contenidos en los principales instrumentos de planeación;
-
-XII. Sugerir, con base en los dictámenes realizados por la UI, las fuentes de financiamiento más adecuadas a la naturaleza de los PPI y a las condiciones financieras y jurídicas del Estado;
-
-XIII. Evaluar, asesorar y sugerir los mecanismos de financiamiento de los PPI;
-
-XIV. Integrar un registro de contratos y convenios que generen fuentes de financiamiento de los PPI;
-
-XV. Analizar, proponer y promover, en coordinación con las instancias competentes, esquemas de inversión con la participación de los sectores público, privado y social, así como coadyuvar, en el ámbito de su competencia, en la revisión de la normatividad que incida en el desarrollo de los PPI, que incluyan los proyectos de infraestructura productiva de largo plazo, los proyectos para prestación de servicios, los contratos de colaboración público-privada y otras modalidades de inversión impulsada por el sector público;
-
-XVI. Calcular la rentabilidad social de los PPI ejecutados y en operación, en coordinación con las unidades administrativas competentes, y darle seguimiento a los mismos;
-
-XVII. Proponer al Secretario y al Gobernador del Estado, las políticas, normas y procedimientos relativos a:
-
-a) La evaluación de rentabilidad social de los PPI;
-
-b) El registro de los PPI a la CEPPIARS; y,
-
-c) Los criterios de clasificación y jerarquización de la CEPPIARS.
-
-XVIII. Proponer al Secretario y al Gobernador del Estado, las políticas y lineamientos relativos a la contratación de expertos técnicos, jurídicos, ambientales, financieros y de evaluación de rentabilidad social para la elaboración de proyectos ejecutivos y de evaluación que serán propuestos para el registro en la CEPPIARS;
-
-XIX. Proponer al Secretario y al Gobernador del Estado, los criterios y lineamientos para la inclusión de los PPI en el Programa Estatal de Inversión y en el proyecto de Presupuesto de Egresos del Estado y, en su caso, a través de los conductos competentes, en el Proyecto de Presupuesto de Egresos de la Federación.
-
-XX. Prestar la asesoría que soliciten las dependencias y entidades de la administración pública estatal respecto de la formulación y evaluación de PPI;
-
-XXI. Asesorar a las entidades y dependencias de la administración pública para el cumplimiento de las políticas, normas y procedimientos a que se refieren las fracciones XVII, XVIII y XIX del presente artículo;
-
-XXII. Expedir, actualizar y ejecutar el programa de capacitación para la formulación y evaluación de los PPI;
-
-XXIII. Actualizar permanentemente las nuevas técnicas y métodos de la evaluación social de proyectos de inversión;
-
-XXIV. Analizar la experiencia internacional en el diseño y aplicación de normas y metodologías en materia de inversión, así como participar en foros y organismos nacionales e internacionales en temas relacionados con el ámbito de su competencia.
-
-XXV. Administrar, en coordinación con las unidades administrativas competentes, los sistemas de información que requiera para el cumplimiento de sus atribuciones; y
-
-XXVI. Requerir a las dependencias y entidades de la administración pública estatal, la información que considere necesaria para el ejercicio de sus facultades.
-
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO POR ARTÍCULO NOVENO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, P.O. 11 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 31.
 
-La Comisión tendrá un Director, quien será designado por el Gobernador a propuesta del titular de la Secretaría, y deberá cumplir los siguientes requisitos:
-
-I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos; y
-
-II. Contar con un grado académico a nivel licenciatura en alguna carrera afín a las atribuciones de la COMEVIP.
-
-Además, la COMEVIP estará integrada por el personal necesario para el cumplimiento de sus objetivos.
+(DEROGADO POR ARTÍCULO NOVENO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, P.O. 11 DE SEPTIEMBRE DE 2015)
 
 T R A N S I T O R I O S:
 
@@ -1378,3 +1294,33 @@ Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o
 Tercero.- Las referencias que se hagan y las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones aplicables, a las unidades administrativas de la Secretaría de Finanzas que cambien de denominación por virtud del presente Acuerdo, se entenderán conferidas a las unidades administrativas que resulten competentes conforme al mismo.
 
 Cuarto.- Los asuntos en trámite que son atendidos por unidades administrativas que modifican sus atribuciones en virtud de la entrada en vigor del presente Acuerdo, serán atendidos y resueltos por las unidades administrativas a las que se les da la competencia correspondiente en este instrumento.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente decreto entrará en vigor el día 16 de septiembre de 2015, previa su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Se faculta al Ejecutivo del Estado para que en un plazo de noventa días posteriores a la entrada en vigor de este decreto, expida los reglamentos interiores de la (sic) nuevas Secretarías y modifique los de aquellas que cambian de denominación.
+
+Hasta en tanto se expidan los Reglamentos Interiores de las dependencias que se crean en la presente Ley, y se hacen las adecuaciones correspondientes a los Reglamentos Interiores de las dependencias que modifican su denominación y a las unidades de la Oficina del Gobernador cuyas atribuciones se redefinen, se continuarán aplicando, en lo conducente, las disposiciones de los Reglamentos Interiores en vigor.
+
+Cuarto.- El Gobernador del Estado, a través de la Secretaría de Finanzas, por esta ocasión, realizará las transferencias correspondientes en el Presupuesto de Egresos para el ejercicio fiscal 2015, a fin de tomar las previsiones presupuestales necesarias para el debido cumplimiento de lo dispuesto por este decreto.
+
+Quinto.- Los recursos humanos y materiales, incluida la documentación, mobiliario y equipo de las dependencias existentes que, por razón de las competencias establecidas en este decreto, deban transferirse a las nuevas dependencias correspondientes, serán remitidos y puestos a disposición de éstas por los responsables de su trámite y custodia con la asistencia de, la Secretaría de Administración e Innovación Gubernamental y de la Secretaría de la Contraloría. Las transferencias se realizarán de la siguiente forma:
+
+I. En el caso de la Secretaría de Desarrollo Enérgetico Sustentable, le serán transferidos todos los recursos humanos y materiales adscritos a la Coordinación General de Enlace del Estado de Campeche - PEMEX de la Secretaría de Desarrollo Industrial y Comercial, que por este decreto cambia de denominación.
+
+II. En el caso de la Secretaría de Trabajo y Previsión Social, le serán transferidos todos los recursos humanos y materiales adscritos a las direcciones correspondientes de la Secretarías (sic) de Gobierno y de la Secretaría de Desarrollo Industrial y Comercial, que por este decreto cambia de denominación.
+
+III. En el caso de la Secretaría de Protección Civil, le serán transferidos todos los recursos humanos y materiales adscritos al Centro Estatal de Emergencias de Campeche, CENECAM, al igual que los recursos humanos y materiales del área de bomberos de la Secretaría de Seguridad Pública y Protección a la Comunidad, que por este decreto cambian de denominación.
+
+Sexto.- Las referencias hechas en las diversas leyes, reglamentos, acuerdos y demás instrumentos jurídicos vigentes en el Estado a la Secretaría de Desarrollo Social y Regional, a la Secretaría de Desarrollo Industrial y Comercial, a la Secretaría de Medio Ambiente y Aprovechamiento Sustentable y a la Secretaría de Desarrollo Urbano y Obras Públicas se entenderán hechas a la Secretaría de Desarrollo Social y Humano, a la Secretaría de Desarrollo Económico, a la Secretaría de Medio Ambiente y Recursos Naturales y a la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura, respectivamente.
+
+Séptimo.- La Secretaría de Desarrollo Energético Sustentable deberá realizar todas las gestiones necesarias con las autoridades correspondientes, para lograr los acuerdos y convenios señalados en el presente decreto para el debido cumplimiento de sus atribuciones.
+
+Octavo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demás asuntos jurídicos, contractuales, administrativos, contenciosos, litigiosos, jurisdiccionales y resolutivos a cargo de las dependencias que se reestructuran y de las que sin reestructurarse fueron afectadas en sus atribuciones o en su denominación, que se encontraren en curso, trámite, procedimiento, proceso o pendientes de su resolución en el momento de iniciar su vigencia el presente decreto, se continuarán y serán despachados por las dependencias a las que corresponda ahora el conocimiento de las materias sobre los cuales aquellos versen.
+
+Noveno.- Se suprime el Órgano Administrativo Desconcentrado subordinado jerárquicamente a la Secretaría de Finanzas denominado Comisión para la Evaluación de la Inversión Pública del Estado de Campeche y, en consecuencia, queda sin efecto el Capítulo VI que comprende los artículos 27, 28, 29, 30 Y 31 del Reglamento Interior de la Secretaría de Finanzas de la Administración Pública del Estado de Campeche y demás incisos, fracciones o artículos del marco jurídico estatal que la contemplen. Los bienes que en la actualidad tiene a su servicio esta Comisión quedarán asignados a la nueva Unidad de Programas y Proyectos de Inversión Pública. Respecto al personal de base que conforma la plantilla actual de servidores públicos de la precitada Comisión, podrán ser incorporados a la nueva Unidad que se crea o transferidos a otras Dependencias a través de la Secretaría de Administración e Innovación Gubernamental, respetando sus derechos laborales.
+
+Décimo.- El Gobernador del Estado promoverá las iniciativas correspondientes a las modificaciones de la Ley de Planeación del Estado de Campeche; la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche, y a las demás leyes estatales que se requieran armonizar con el contenido del presente decreto.
