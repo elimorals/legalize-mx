@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-04-24"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -539,6 +539,10 @@ g. Unidad Municipal Concentradora de Transparencia y Acceso a la Información P�
 
 h. Unidad Municipal de Gestión Empresarial y Mejora Regulatoria.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+i. Dirección General de Pesca y Acuacultura Sustentable.
+
 II. Instruir al Coordinador Administrativo para la realización del presupuesto, así como supervisar que la aplicación del mismo se efectúe en las actividades propias de la Oficina del Presidente Municipal, tomando en cuenta las actividades de la agenda temática anual, y apegándose a las políticas que (sic) en materia de egresos.
 
 III. Asegurar que las actividades de la Ayudantía del Gobierno Municipal sean llevadas a cabo con eficiencia y, que su intervención en eventos se maneje de forma coordinada.
@@ -716,6 +720,100 @@ XII.- Planear, elaborar, instrumentar y promover, conjuntamente con la Tesorerí
 XIII.- Desarrollar los programas y proyectos para el fomento de las actividades productivas, sectoriales y delegacionales, conservando un balance equilibrado con el desarrollo urbano y el bienestar de la comunidad; y
 
 XIV.- Las demás obligaciones que señalen leyes y reglamentos de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 40 CUARTER.- La Dirección General de Pesca y Acuacultura Sustentable Municipal para el ejercicio de sus atribuciones estará integrada por un Director, asistente del Director y Coordinador Administrativo, funcionando de la siguiente manera;
+
+I.- El Director que promoverá mediante convenios y acuerdos la realización de las actividades siguientes:
+
+a) De Regulación;
+
+b) De inspección y Vigilancia;
+
+c) De Fomento y Ordenamiento Pesquero;
+
+d) De Planeación e Inversión;
+
+e) De Promoción y Comercialización Pesquera;
+
+f) De apoyo a la Pesca Deportiva;
+
+g) De apoyo y coordinación en Sanidad e Inocuidad;
+
+h) De Fomento Acuícola.
+
+II.- El Coordinador Administrativo, ejecutara las disposiciones legales correspondientes, así como las instrucciones del director, siendo responsable de las siguientes funciones generales:
+
+a) Elaborar presupuesto de egresos e ingresos de la Dirección y gestionar la obtención de presupuesto.
+
+b) Llevar un control efectivo del personal a cargo de la Dirección.
+
+c) Establecer mecanismos administrativos de los trámites y servicios a cargo de la Dirección con base a manuales de organización, procedimientos y de servicios al público.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 40 QUINQUER.- La dirección de Pesca y Acuacultura Sustentable, para el cumplimiento tendrá las siguientes atribuciones:
+
+I. Promover el desarrollo de las actividades pesqueras y acuícolas en las aguas marinas, costeras e interiores, del Municipio, proponiendo, formulando, conduciendo y ejecutando las políticas públicas Municipales correspondientes;
+
+II. Regular y garantizar la conservación, preservación y el control de los recursos pesqueros y acuícolas en el Municipio, y fomentar su aprovechamiento sustentable;
+
+III. Promover, en coordinación con la dirección de planeación y gestión financiera y la Dirección de Desarrollo Social Municipal, la producción y comercialización para el consumo interno de productos pesqueros y acuícolas; así como la industrialización y mejoramiento de la calidad en los productos finales, para competir en los mercados externos;
+
+IV. Participar en los programas de descentralización del gobierno federal, Estatal y Municipal en materia pesquera y acuícola, y apoyar las actividades de dicho sector, en cuya tarea podrán participar en coordinación con los gobiernos municipales.
+
+V. Coordinar acciones en los diferentes niveles de gobierno, en la ejecución de proyectos de construcción, rehabilitación y conservación de las obras de infraestructura pesquera y acuícola que demanda el sector.
+
+VI. Participar, en coordinación con el gobierno Federal y Estatal, en medidas de prevención y control en materia de sanidad pesquera acuícola, con el objeto de garantizar el cabal aprovechamiento de estos recursos;
+
+VII. Proporcionar servicios de asesoría, asistencia técnica y capacitación a los pescadores y organizaciones sociales pesqueras y acuícolas, incluidas las ejidales y comunales, que se encuentres (sic) constituidas en el sector.
+
+VIII. Establecer mecanismos de concertación con los sectores social y privado, y promover su participación en la actividad pesquera y acuícola, para el desarrollo de dicha actividad;
+
+IX. Promover la investigación científica y tecnológica aplicada en los centros educativos, así como el desarrollo de proyectos operativos en materia pesquera y acuícola, y recopilar información estadística del sector;
+
+X. Gestionar la obtención de recursos económicos de organismos nacionales e internaciones para el desarrollo de proyectos productivos en materia de pesca y acuacultura sustentable;
+
+XI. Representar al Ejecutivo Municipal en foros nacionales, estatales e internacionales sobre materias de competencia de esta dirección;
+
+XII. Promover la celebración de convenios o acuerdos de colaboración con el gobierno Federal y Estatal, en los términos del artículo 11 de la ley general de pesca y acuacultura sustentables.
+
+XIII. Dar respuesta a las solicitudes que le sean planteadas en los términos de la ley de acceso a la información pública del estado;
+
+XIV. Promover la utilización de energías alternativas que protejan el medio ambiente y que sean más rentables a mediano y a largo plazo;
+
+XV. Representar a la dirección en los consejos o comités que se integren con instituciones públicas, organizaciones privadas y sociales, e instituciones educativas, para el cumplimiento de objetivos con planes y programas de los que forme parte la dirección en el ámbito de su competencia;
+
+XVI. Representar a la dirección ante cualquier otra autoridad y nombrar delegados o apoderados para que representen a la dirección o a sus unidades ante cualquier autoridad, cuando tengan el carácter de parte actora demandada, tercerista o coadyuvante; la autorización o el poder será limitado al asunto del que se trate en términos de las disposiciones aplicables;
+
+XVII. Suscribir las ordenes de visitas que se consideren pertinentes, en la ejecución de operativos y puntos de revisión, en labores de inspección y vigilancia pesquera y acuícola, de acuerdo a la normatividad aplicable en coadyuvancia con la Dirección de Seguridad Publica, Recaudación de Rentas Municipal y con las dependencias Estatales y Federales reguladoras del ámbito pesquero afines a esta dirección;
+
+XVIII. Asistir a las juntas convocadas por el ejecutivo municipal;
+
+XIX. Proponer al ejecutivo municipal, atreves (sic) de la secretaria general del ayuntamiento la celebración de convenios, acuerdos y contratos con los sectores público, privado y social, que incluyan materias competencia de la Dirección;
+
+XX. Elaborar los anteproyectos de ley , reglamentos decretos y acuerdos, cuya materia corresponda a sus atribuciones y funciones, y proponerlos al ejecutivo municipal, a través de la secretaria general del ayuntamiento;
+
+XXI. Presentar ante la Dirección de planeación y Gestión financiera, el anteproyecto de presupuesto anual de ingresos y egresos de la dirección, para su aprobación y consideración en la respectiva ley de ingresos, y presupuesto de egresos del Gobierno Municipal;
+
+XXII. Proponer al ejecutivo municipal, por conducto de la secretaria general del ayuntamiento la expropiación de bienes por causa de utilidad pública, que sean indispensables para el desarrollo de los programas de infraestructura pesquera y acuícola;
+
+XXIII. Acordar con el ejecutivo municipal la política pesquera y acuícola en el municipio atendiendo las estrategias, objetivos y prioridades que en la materia le señale el plan municipal de desarrollo y acordar en el mismo, los asuntos competentes de la dirección;
+
+XXIV. Designar y remover libremente al personal que integra la dirección;
+
+XXV. Aprobar la organización y funcionamiento de la dirección y adscribir orgánicamente a las unidades administrativas a que se refiere el artículo cuarto de este reglamento;
+
+XXVI. Expedir y mantener actualizados los manuales de organización, procedimientos y de servicios al público, así como todos aquellos manuales que se consideren necesarios;
+
+XXVII. Expedir, en el ámbito de su competencia, los acuerdos, circulares e instructivos que se requieren para el adecuado funcionamiento de la dirección;
+
+XXVIII. Suscribir las ordenes de visita acuerdos, oficios de comisión y demás documentos que forman parte de los procedimientos administrativos de inspección y vigilancia y, en general, los procedimientos que la dirección implemente en contra de los particulares, y los que estos promuevan en los términos de las leyes, reglamentos, acuerdos y decretos aplicables;
+
+XXIX. Emitir resolución sobre los recursos administrativos que se interpongan, con motivo de la actuación de la dirección en cumplimiento a los convenios de coordinación que se celebren con la federación, derivados de la ley de pesca y acuacultura sustentable para el estado de baja california, de la ley general de pesca y acuacultura sustentables y las normas oficiales mexicanas;
+
+XXX. Establecer los planes de trabajo y política interna que empleara la dirección para el cumplimiento de sus atribuciones; y las demás que le sean encomendadas por ejecutivo municipal, y aquellas que se establezcan en las leyes, reglamentos y demás disposiciones aplicables.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -2620,3 +2718,11 @@ P.O. 20 DE MARZO DE 2015.
 P.O. 24 DE ABRIL DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B.C.
+
+SEGUNDO.- Una vez siendo aprobada la presente reforma, la Dirección funcionará con los recursos humanos de acuerdo a la estructura establecida en el artículo 40 Cuarter del presente reglamento.
+
+TERCERO.- La persona designada por el Presidente Municipal para ocupar el cargo Director, deberá contar con experiencia en el sector pesquero, así como en la administración y gestión de recursos.
