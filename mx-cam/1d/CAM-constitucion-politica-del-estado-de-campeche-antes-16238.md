@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2015-08-07"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -361,7 +361,9 @@ IV.- Desempeñar las funciones electorales y las de jurado. Las funciones electo
 
 V.- Inscribirse en el Catastro, manifestando la propiedad que el mismo ciudadano tenga, así como la industria, profesión o trabajo de que subsista, e inscribirse en los Padrones Electorales del Municipio en que resida;
 
-VI.- Hacer que sus hijos o pupilos menores de 15 años concurran a las escuelas públicas o privadas, para obtener la instrucción primaria elemental durante el tiempo que marquen las leyes relativas;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+VI.- Hacer que sus hijos o pupilos menores de edad concurran a las escuelas públicas o privadas, para que ingresen, cursen y concluyan la educación preescolar, la educación primaria, la educación secundaria y la educación media superior durante el tiempo que marquen las leyes relativas;
 
 VII.- Contribuír para los gastos públicos del Estado y Municipio en que residan, en la forma proporcional y equitativa que establezcan las leyes;
 
@@ -2824,3 +2826,7 @@ DECRETO NÚMERO 280, POR EL QUE SE REFORMAN LAS FRACCIONES II Y V DEL ARTÍCULO 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en este decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
