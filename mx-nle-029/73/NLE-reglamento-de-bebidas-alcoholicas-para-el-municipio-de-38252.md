@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-bebidas-alcoholicas-para-el-municipio-de-38252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-06"
-last_updated: "2004-02-06"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE BEBIDAS ALCOHOLICAS PARA EL MUNICIPIO DE HUALAHUISES, NUEVO LEON
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS QUE SE DEDICAN A EXPENDIO, VENTA O CONSUMO DE BEBIDAS ALCOHÓLICAS, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2004.
 
@@ -341,7 +343,7 @@ V.- La violación a cualquier otra disposición por acción u omisión contenida
 
 ###### ARTICULO 32.
 
-Recibida un acta de visita de inspección por el C. Tesorero Municipal, y si de la misma se presume infracción al presente reglamento, a fin de determinar la comisión de una o varias infracciones, se citará al propietario o representante legal de la negociación inspeccionada. Para lo anterior, se fijará fecha y hora a fin de que tenga verificativo una audiencia de pruebas y alegatos; debiendo el interesado dirigirse al (sic) la Tesorería Municipal por escrito, audiencia en la cual se desahogarán todas las pruebas ofrecidas y que tengan relación inmediata y tendientes a desvirtuar los hechos consignados en el acta de visita de inspección y se recibirán por escrito los alegatos que se realicen.
+Recibida un acta de visita de inspección por el C. Tesorero Municipal, y si de la misma se presume infracción al presente reglamento, a fin de determinar la comisión de una o varias infracciones, se citará al propietario o representante legal de la negociación inspeccionada. Para lo anterior, se fijará fecha y hora a fin de que tenga verificativo una audiencia de pruebas y alegatos; debiendo el interesado dirigirse al la Tesorería Municipal por escrito, audiencia en la cual se desahogarán todas las pruebas ofrecidas y que tengan relación inmediata y tendientes a desvirtuar los hechos consignados en el acta de visita de inspección y se recibirán por escrito los alegatos que se realicen.
 
 En la citada audiencia se admitirán toda clase de pruebas excepto la de confesión de las autoridades mediante absolución de posesiones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
@@ -530,3 +532,21 @@ PRESIDENTE MUNICIPAL
 C. P. ROBERTO JAVIER PARÁS ADAME
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE “EL REGLAMENTO QUE REGULA EL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS QUE SE DEDICAN A EXPENDIO, VENTA O CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE NUEVO LEON”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogara el Reglamento de Bebidas Alcohólicas publicado el 06 de Febrero del 2004, así como todas las disposiciones sobre esta materia que se opongan al cumplimiento de este ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+A todo lo no previsto en el presente Reglamento, se aplicara supletoriamente la Ley para la Prevención y Combate al Abuso del Alcohol y de regulación para su Venta y Consumo para el Estado de Nuevo León.
