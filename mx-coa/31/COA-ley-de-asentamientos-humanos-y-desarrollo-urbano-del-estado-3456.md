@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "2015-07-17"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE SEPTIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 11 DE SEPTIEMBRE DE 2015 .</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -309,15 +309,15 @@ VIII.- Presentar la aprobación emitida por la autoridad federal de aeronáutica
 
 Para efectos de la presente fracción, los terrenos adyacentes e inmediatos a los aeropuertos civiles, dentro de las zonas de protección de los mismos serán los señalados en el artículo 264-bis del presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1996)</small>
+(REFORMADO, P.O. 21 DE JUNIO DE 1996) (F. DE E., P.O. 11 DE SEPTIEMBRE DE 2015)
 
 Las autorizaciones, permisos, licencias, constancias y documentos a que se refiere este artículo, deberán estar vigentes conforme a las normas que regulan su expedición a la fecha de presentación de la solicitud. Tratándose de aquellos referidos en las fracciones III y V, la fecha de expedición de los mismos no deberá ser mayor de 90 días.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2011)</small>
+(ADICIONADO, P.O. 24 DE JUNIO DE 2011) (F. DE E., P.O. 11 DE SEPTIEMBRE DE 2015)
 
 La autorización a que se refiere la fracción III Bis de este artículo no será exigible tratándose de solicitudes de constancias de uso del suelo.
 
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014) (F. DE E., P.O. 11 DE SEPTIEMBRE DE 2015)
 
 No se otorgará constancia de uso de suelo o licencia de funcionamiento sin cubrir los requisitos a que se refieren las fracciones VI y VII, para los solicitantes que ejerzan o pretendan ejercer actividad minera.
 
