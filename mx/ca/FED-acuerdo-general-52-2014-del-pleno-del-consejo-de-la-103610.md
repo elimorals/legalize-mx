@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2014-del-pleno-del-consejo-de-la-103610"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-20"
-last_updated: "2015-06-01"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 52/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 20 de noviembre de 2014.
 
@@ -191,11 +191,15 @@ III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrit
 
 Tratándose del Tribunal de Alzada del Centro la sustitución recaerá en el Tribunal Unitario del Vigésimo Quinto Circuito, para lo cual en este caso se habilita a dicho Tribunal para conocer como Tribunal de Alzada respecto de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 39/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
-El personal de los juzgados de Distrito del Centro junto con su titular disfrutará de los periodos vacacionales durante la segunda quincena del mes de julio, el mes de agosto y la primera quincena de septiembre, en el caso del primer período. Y durante la segunda quincena del mes de diciembre y el mes de enero tratándose del segundo período, en el orden que los titulares de dichos órganos jurisdiccionales consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine.
+El personal de los juzgados de Distrito del Centro junto con su titular disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los titulares de dichos órganos jurisdiccionales consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso deberán de permanecer dos jueces de Distrito en el Centro, para lo cual deberá contabilizarse al que funja como Administrador, supuesto en el cual se deberá observar lo previsto en el artículo 8, fracción I, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-El personal del Tribunal de Alzada del Centro disfrutará de los períodos vacacionales durante la segunda quincena de los meses de julio y diciembre, así como la primera quincena de los meses de agosto y enero. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
+El personal del Tribunal de Alzada del Centro disfrutará de los períodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
+
+La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
 ###### Artículo 19.
 
@@ -222,6 +226,12 @@ EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE L
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 11 DE SEPTIEMBRE DE 2015.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
