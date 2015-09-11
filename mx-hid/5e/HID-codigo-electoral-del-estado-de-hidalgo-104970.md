@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2015-07-14"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -289,7 +289,9 @@ III. Cualquier forma de afiliación corporativa.
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y buscarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
 
-Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Diputados Locales. Éstos, deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Cada partido político determinará y hará públicos los criterios para garantizar la paridad de género en las candidaturas a Diputadas y Diputados Locales y Ayuntamientos. Éstos, deberán ser objetivos y asegurar condiciones de igualdad entre géneros.
 
 En ningún caso se admitirán criterios que tengan como resultado que alguno de los géneros le sean asignados exclusivamente aquellos distritos electorales locales en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral local anterior.
 
@@ -511,9 +513,7 @@ b. Autofinanciamiento: Se integra con los ingresos que los partidos políticos o
 
 II. No podrán realizar aportaciones o donativos a los partidos políticos, sea en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia:
 
-a. Los poderes Ejecutivo, Legislativo y Judicial de la Federación y del Estado, así
-
-como los Ayuntamientos;
+a. Los poderes Ejecutivo, Legislativo y Judicial de la Federación y del Estado, así como los Ayuntamientos;
 
 b. Las dependencias, entidades, organismos descentralizados o empresas de participación y fideicomisos de la federación, de los Estados o de los municipios;
 
@@ -1387,7 +1387,9 @@ i. Vigilar el cumplimiento del acuerdo relativo al proceso de insaculación salv
 
 j. Diseñar, promover estrategias y proveer lo necesario para la integración de Mesas Directivas de Casilla, así como la capacitación electoral cuando el Instituto Nacional Electoral delegue esta atribución;
 
-k. Diseñar y proponer campañas de educación cívica en coordinación con la Subprocuraduría de Delitos Electorales para la prevención de delitos electorales;
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+k. Diseñar y proponer campañas de educación cívica en coordinación con la Subprocuraduría de Asuntos Electorales para la prevención de delitos electorales;
 
 l. Promover la suscripción de convenios en materia de educación cívica con el Instituto Nacional Electoral para la articulación de políticas nacionales orientadas a la promoción de la cultura político-democrática y la construcción de ciudadanía;
 
@@ -1831,7 +1833,9 @@ La propaganda electoral colocada en la vía pública, deberá ser retirada por l
 
 Los plazos y órganos competentes para el registro de las candidaturas en el año de la elección son los siguientes:
 
-I. En el año de la elección en que se renueven el Poder Ejecutivo y/o el Poder Legislativo del Estado, los candidatos serán registrados entre el septuagésimo tercer día al sexagésimo noveno, por los siguientes órganos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+I. En el año de la elección en que se renueven el Poder Ejecutivo y/o el Poder Legislativo del Estado, los candidatos serán registrados entre el septuagésimo tercer al sexagésimo noveno día anterior al de la celebración de la jornada electoral, por los siguientes órganos:
 
 a. Los candidatos a Diputados de mayoría relativa, por los consejos distritales o supletoriamente ante el Consejo General;
 
@@ -1839,7 +1843,9 @@ b. Los candidatos a Diputados electos por el principio de representación propor
 
 c. Los candidatos a Gobernador, por el Consejo General.
 
-II. En el año de la elección en que se renueve los Ayuntamientos, las planillas de candidatos serán registrados entre el quincuagésimo quinto al quincuagésimo día, por los consejos municipales o supletoriamente ante el Consejo General.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+II. En el año de la elección en que se renueven los Ayuntamientos, las planillas de candidatos serán registrados entre el quincuagésimo quinto al quincuagésimo día anterior al de la celebración de la jornada electoral, por los consejos municipales o supletoriamente ante el Consejo General.
 
 El Instituto Estatal Electoral dará amplia difusión a la apertura del registro de las candidaturas y a los plazos a que se refiere el presente artículo.
 
@@ -1869,11 +1875,15 @@ En la totalidad de las solicitudes de registro de las candidaturas a Diputados, 
 
 Las listas de representación proporcional para Diputados se integrarán por candidaturas de género distinto, alternadamente. Las candidaturas deberán integrarse por fórmulas de propietarios y suplentes del mismo género.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 119.
 
-Las planillas para Ayuntamientos serán integradas por candidatos a Presidente Municipal, Síndico y una lista de regidores, en número igual al previsto para ese Municipio en este Código.
+Las planillas para Ayuntamientos serán integradas por candidatos a Presidente Municipal, Síndico y una lista de regidores, en número igual al previsto para ese Municipio en este Código, siendo la candidatura a Presidente Municipal quien encabece la lista de la planilla.
 
-Cada planilla que se registre, se integrará por un propietario y un suplente del mismo género. Sólo en la lista de regidores, se atenderá la paridad de género, por consiguiente se alternarán las fórmulas de distinto género hasta agotar la lista correspondiente.
+De la totalidad de las solicitudes de registro de planillas para Ayuntamientos que los partidos políticos presenten, el 50% deberá estar encabezada (sic) por mujeres y el otro 50% por hombres.
+
+Toda planilla que se registre, se integrará por un propietario y un suplente del mismo género, atendiendo siempre la paridad de género, por consiguiente se alternarán las fórmulas de distinto género hasta agotar la lista correspondiente.
 
 ###### Artículo 120.
 
@@ -1905,9 +1915,17 @@ Para el registro de candidatos de coalición deberá acreditarse que se cumplió
 
 Si de la verificación realizada se advierte que se omitió el cumplimiento de uno o varios requisitos, se notificará de inmediato al partido político correspondiente o Candidatos Independientes para que dentro de las 72 horas siguientes subsane el o los requisitos omitidos o sustituya la candidatura, siempre y cuando ello pueda realizarse dentro del plazo establecido para el registro de candidatos, formulas o planillas.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 121.
 
-El día previo al del inicio de las campañas de la elección de que se trate, el órgano electoral que corresponda concederá o negará el registro de candidatos a Gobernador del Estado, de Diputados y de planillas de Ayuntamientos. Toda resolución será debidamente notificada.
+El órgano electoral correspondiente deberá otorgar o negar el registro de candidaturas en los siguientes plazos:
+
+I. Gobernador del Estado, el sexagésimo sexto día anterior a la celebración de la jornada electoral;
+
+II. Diputados al Congreso del Estado de Hidalgo, el sexagésimo cuarto día anterior a la celebración de la jornada electoral; y
+
+III. Integrantes de los Ayuntamientos, el cuadragésimo cuarto día anterior al de la celebración de la jornada comicial.
 
 ###### Artículo 122.
 
@@ -2559,6 +2577,10 @@ II. Un ejemplar del acta final de escrutinio y cómputo; y
 
 III. Los escritos de protesta que se hubieren recibido.
 
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+IV. En el caso de las casillas especiales, un ejemplar del acta final de escrutinio y cómputo de Representación Proporcional.
+
 Se remitirán también, en sobres por separado, las boletas sobrantes inutilizadas y las que contengan los votos válidos y los votos nulos para cada elección.
 
 La lista nominal de electores se remitirá en sobre por separado.
@@ -3133,9 +3155,13 @@ IX. Las demás establecidas por este Código.
 
 Los ciudadanos que aspiren a participar como Candidatos Independientes en la elección local de que se trate, deberán satisfacer, además de los requisitos señalados por la Constitución Política del Estado de Hidalgo, los señalados en este Código.
 
+(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 106/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, CON LA SALVEDAD DE LA PORCIÓN NORMATIVA PRECISADA EN EL RESOLUTIVO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 247.
 
-Los dirigentes de los partidos políticos no podrán solicitar su registro como Candidatos Independientes, a menos que se hayan separado de su cargo partidista con tres años de anticipación al momento de solicitar su registro.
+Los dirigentes de los partidos políticos no podrán solicitar su registro como Candidatos Independientes, a menos que se hayan separado de su cargo partidista con tres años de anticipación al momento de solicitar su registro; ASIMISMO, NO PODRÁN SOLICITAR SU REGISTRO COMO CANDIDATOS INDEPENDIENTES LOS CIUDADANOS QUE PARTICIPARON EN ALGÚN PROCEDIMIENTO INTERNO DE SELECCIÓN DE CANDIDATOS DE ALGÚN PARTIDO POLÍTICO, DENTRO DE LOS DOS PROCESOS LOCALES ELECTORALES INMEDIATOS ANTERIORES Y QUE EN EL PROCESO ACTUAL ASPIREN A OBTENER UNA CANDIDATURA INDEPENDIENTE.
 
 ### CAPÍTULO VIII. DE LA SOLICITUD DE REGISTRO
 
@@ -5078,3 +5104,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 P.O. 14 DE JULIO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas y adiciones del Código Electoral del Estado de Hidalgo.
