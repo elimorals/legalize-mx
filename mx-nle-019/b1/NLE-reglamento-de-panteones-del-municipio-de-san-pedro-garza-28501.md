@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-panteones-del-municipio-de-san-pedro-garza-28501"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-13"
-last_updated: "2003-01-13"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE PANTEONES DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO DE PANTEONES DEL MUNICIPIO DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO DE PANTEONES DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PANTEONES PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 13 de enero de 2003.
 
@@ -199,7 +201,7 @@ VI.- Realizar las visitas de Inspección ordenadas por la Secretaría del R. Ayu
 
 VII.- Informar y remitir para su registro y/o ejecución a la Secretaría de Finanzas y Tesorería Municipal, de las licencias y/o títulos y multas que se han decretado;
 
-VIII.- Solicitar el auxilio de la fuerza pública en caso de que el propietario, encargado, personal que labora en el establecimiento o cualquier otra persona, obstruya las labores de inspección, imposición de clausura temporal o definitiva, levantamiento de sellos o notificación, según corresponda, emitida por la autoridad municipal; y (sic)
+VIII.- Solicitar el auxilio de la fuerza pública en caso de que el propietario, encargado, personal que labora en el establecimiento o cualquier otra persona, obstruya las labores de inspección, imposición de clausura temporal o definitiva, levantamiento de sellos o notificación, según corresponda, emitida por la autoridad municipal; y
 
 IX.- Llevar registro de todos los tramites, inventario de fosas que se realicen; y
 
@@ -642,3 +644,21 @@ PRESIDENTE MUNICIPAL
 LIC. RICARDO MARTÍNEZ ELIZONDO
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DICTAMEN RELATIVO AL REGLAMENTO DE PANTEONES PARA EL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Municipal de Panteones para el Municipio de San Pedro Garza García, Nuevo León, aprobado por el Republicano Ayuntamiento en Sesión Ordinaria celebrada el 20 de diciembre de 2002 y publicado en el Periódico Oficial del Estado el 13 de enero de 2003.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría del Republicano Ayuntamiento difundirá entre los ciudadanos del Municipio las disposiciones contenidas en el presente Reglamento.
