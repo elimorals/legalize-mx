@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2014-12-16"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y 2 DE OCTUBRE DE 2015 RESPECTIVAMENTE, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -201,9 +203,13 @@ Las autoridades educativas establecerán las condiciones que permitan a cada ind
 
 Fines de la educación
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
-La educación que se imparta en la entidad tendrá, además de los fines establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Educación, los siguientes:
+La educación que se imparta en la entidad tendrá, además de los fines establecidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Educación, y en la Ley General de los Derechos de Niñas, Niños y Adolescentes, los siguientes:
 
 I. Acrecentar en las personas que integran el Sistema Educativo Estatal el amor a la patria, así como la unión, la solidaridad y la igualdad;
 
@@ -227,7 +233,11 @@ X. Desarrollar en los educandos la capacidad de hacer análisis crítico, objeti
 
 XI. Desarrollar la capacidad creativa hacia la innovación, la expresión y las habilidades del pensamiento;
 
-XII. Fomentar una conciencia de respeto a los derechos humanos de la persona y de la sociedad como medio de conservar la paz y la convivencia humana;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Fomentar una conciencia de respeto a los derechos humanos de la persona y de la sociedad como medio de conservar la paz y la convivencia humana; así como la difusión de los derechos humanos de las niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
 
 XIII. Desarrollar en la conciencia del educando que sobre la base de la justicia, del respeto a los derechos humanos, la democracia y la libertad, se darán las condiciones para reducir las desigualdades sociales; contribuyendo a construir, formar y desarrollar una sociedad con mejores condiciones de vida;
 
@@ -245,7 +255,19 @@ XIX. Fomentar en los educandos una cultura de respeto a las normas de vialidad;
 
 XX. Fomentar en los educandos la cultura de respeto a la no violencia y del acceso de las mujeres a una vida libre de violencia; y
 
-XXI. Fomentar la lectura de comprensión, el acceso al libro y el uso de bibliotecas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. Apoyar a las niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para las Niñas, Niños y Adolescentes; y
+
+XXIII. Fomentar la lectura de comprensión, el acceso al libro y el uso de bibliotecas.
 
 Principios del proceso educativo
 
@@ -1093,11 +1115,13 @@ De conformidad con dichos convenios, el Ejecutivo Estatal por conducto de la Sec
 
 Atribuciones de la Secretaría
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 77.
 
-Corresponde a la Secretaría, además de las atribuciones previstas en la Ley General de Educación, en la Ley del Instituto Nacional para la Evaluación de la Educación y en la Ley General del Servicio Profesional Docente, las siguientes:
+Corresponde a la Secretaría, además de las atribuciones previstas en la Ley General de Educación, en la Ley del Instituto Nacional para la Evaluación de la Educación, en la Ley General del Servicio Profesional Docente, la Ley General de los Derechos de Niñas, Niños y Adolescentes, y en Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, las siguientes:
 
 I. Prestar los servicios educativos en la entidad en los términos de esta Ley;
 
@@ -1463,9 +1487,11 @@ Las autoridades educativas, atendiendo a la demanda de estos servicios, establec
 
 Comprenderá los servicios y programas que brinden orientación y apliquen recursos financieros, materiales, técnicos y educativos para garantizar la inclusión educativa.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La prestación de la educación a las personas con discapacidad atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por la Ley General de las Personas con Discapacidad, la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato y demás normativa.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+La prestación de la educación a las personas con discapacidad atenderá además de lo dispuesto por la legislación en materia educativa, a lo señalado por la Ley General para la Inclusión de las Personas con Discapacidad, la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato, Ley General de Derechos de Niñas, Niños y Adolescentes, Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, y demás normativa.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -2368,3 +2394,47 @@ Las erogaciones que se generen con motivo de la entrada en vigor del presente De
 P.O. 16 DE DICIEMBRE DE 2014.
 
 Único. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
