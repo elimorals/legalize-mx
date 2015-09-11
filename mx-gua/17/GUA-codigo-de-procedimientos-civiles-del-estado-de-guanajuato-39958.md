@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2013-05-17"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y 2 DE OCTUBRE DE 2015 RESPECTIVAMENTE, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -60,6 +62,18 @@ Puede intervenir en un procedimiento judicial toda persona que tenga interés di
 ###### Art. 3°.
 
 Las personas de que habla el artículo anterior intervendrán por sí o por medio de las personas que las representen de acuerdo con la Ley Civil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+En todos los asuntos donde se ventilen cuestiones relacionadas con menores de edad, se dará de oficio intervención a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato para que se constituya como representante coadyuvante, con el fin de garantizar su interés superior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+A petición del Ministerio Público, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, o de oficio, cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria, o de éstos con sus representados menores de edad o por una representación deficiente o dolosa, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato ejercerá su representación en suplencia, previo incidente de restricción, suspensión o revocación de la representación originaria.
 
 ###### Art. 4°.
 
@@ -536,6 +550,14 @@ Si fuere insuficiente el apremio, se procederá contra el rebelde por el delito 
 ###### Art. 61.
 
 Todo juez y magistrado, actuará con secretario en funciones o con el que sea habilitado en autos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 61-A.
+
+En la sustanciación de procedimientos que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, todo juzgador estará obligado a proporcionarles información clara, sencilla y comprensible sobre el procedimiento de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión para niñas, niños y adolescentes con discapacidad; a mantenerlos apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, antes y durante la realización de audiencias o comparecencias; a ajustarse al tiempo de participación máximo para la intervención de éstos durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal; implementar medidas para protegerlos de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales; y a escucharlos y tomarlos en cuenta cuando se diriman controversias que les afecten.
 
 #### SECCION SEGUNDA.
 
@@ -2775,6 +2797,12 @@ III.- Custodia de menores; y
 
 IV.- Separación de cónyuges.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+V. La suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
+
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
 ###### Art. 402.
@@ -2823,7 +2851,11 @@ Para decretar la custodia de un menor que se encuentre en poder de sus progenito
 
 Cuando la medida sea solicitada por un ascendiente que no sea un progenitor o por el Ministerio Público, se citará para la diligencia a los demás ascendientes y en su caso, a quien tenga la custodia material o jurídica del menor y se procederá en la misma forma señalada para el caso del párrafo anterior.
 
-En la diligencia se escucharán los motivos por los cuales los interesados solicitan o se oponen a la medida y se decidirá en la forma más conveniente para el menor. Cuando los menores tengan catorce años o más, siempre serán citados a la audiencia, para que si lo desean, manifiesten las razones y su opinión de con quien de las personas que disputan su custodia prefieren vivir. Los menores que aún no hayan cumplido catorce años también podrán ser citados y escuchados, a juicio del juez; éste siempre deberá decidir la cuestión buscando lo más conveniente para los menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+En la diligencia se escucharán los motivos por los cuales los interesados solicitan o se oponen a la medida y se decidirá en la forma más conveniente para el menor. Cuando los menores tengan catorce años o más, siempre serán citados a la audiencia, para que si lo desean, manifiesten las razones y su opinión de con quien de las personas que disputan su custodia prefieren vivir. Los menores que aún no hayan cumplido catorce años también serán escuchados conforme a los medios adecuados con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, a juicio del juez; éste siempre deberá decidir la cuestión buscando lo más conveniente para los menores.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -2857,11 +2889,21 @@ La resolución de separación es irrecurrible, pero el cónyuge que no la haya p
 
 Si al vencimiento del término concedido no se acredita ante el juzgador que se hubiere presentado la demanda, denuncia o querella, cesarán los efectos de la separación decretada, sin necesidad de declaración judicial.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 410-D.
+
+En el caso de la medida autorizada en la fracción V del artículo 401, el órgano jurisdiccional, con base en las disposiciones aplicables, requerirá a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para su cumplimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 411.
 
-Las medidas autorizadas en las fracciones I, II y IV del artículo 401, se decretarán sin audiencia de la contraparte y se ejecutarán sin notificación previa.
+Las medidas autorizadas en las fracciones I, II, IV y V del artículo 401, se decretarán sin audiencia de la contraparte y se ejecutarán sin notificación previa.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2004)</small>
 
@@ -5353,7 +5395,7 @@ Se tramitarán en la vía sumaria:
 
 I.- Los juicios de rectificación de las actas del estado civil;
 
-II.- La consignación ordenada por el artículo 1592 del Código Civil; y (sic)
+II.- La consignación ordenada por el artículo 1592 del Código Civil; y
 
 III.- Los juicios en materia de arrendamiento inmobiliario;
 
@@ -6811,7 +6853,11 @@ En el auto de radicación el juez ordenará citar a la audiencia de juicio a qui
 
 A la audiencia podrá citarse a un representante del órgano colegiado del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato establecido para atender el tema de adopción.
 
-El juez citará a la audiencia al adolescente a adoptar si tuviere más de catorce años, para recabar su consentimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+El juez citará a la audiencia al adolescente a adoptar si tuviere más de catorce años, para recabar su consentimiento. Los menores que aún no hayan cumplido catorce años serán escuchados conforme a los medios adecuados con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, a juicio del juez.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6973,7 +7019,11 @@ IV.- Alegatos; y
 
 V.- Sentencia.
 
-En esta audiencia el juez deberá escuchar la opinión del menor con edad y grado de madurez suficiente para tener en cuenta su opinión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Los menores serán escuchados conforme a los medios adecuados con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez. En la audiencia el juez deberá escuchar al menor con edad y grado de madurez suficiente para tener en cuenta su opinión.
 
 La audiencia se celebrará con o sin la asistencia de los interesados. La ausencia del Ministerio Público, no implicará el diferimiento o suspensión de la misma.
 
@@ -7480,3 +7530,47 @@ P.O. 17 DE MAYO DE 2013.
 DECRETO NÚMERO 72, POR EL SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 770, EL ARTÍCULO 847-A DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera (sic) actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
