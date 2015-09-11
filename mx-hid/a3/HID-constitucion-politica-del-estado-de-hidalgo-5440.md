@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2015-02-16"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -683,9 +683,9 @@ De los partidos políticos:
 
 I.- Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su intervención en el proceso electoral y los derechos, obligaciones y prerrogativas que les corresponden.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en candidaturas a diputadas y diputados locales.
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en la postulación de candidaturas a diputaciones locales y de candidaturas para ayuntamientos, atendiendo los criterios de verticalidad y horizontalidad.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
 
@@ -3708,3 +3708,7 @@ P.O. 16 DE FEBRERO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
