@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimiento-y-justicia-administrativa-para-el-56710
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-17"
-last_updated: "2015-05-15"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y EL 2 DE OCTUBRE DE 2015 RESPECTIVAMENTE EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTO Y JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Código Publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2007.
 
@@ -147,7 +149,13 @@ XII. Guardar absoluta reserva de las declaraciones y datos suministrados por los
 
 XIII. Dar a conocer la identidad de la autoridad y personal al servicio del órgano administrativo bajo cuya responsabilidad se tramiten los expedientes; y
 
-XIV. Las demás que señale este Código u otras disposiciones jurídicas aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. En la sustanciación de procedimientos en que estén relacionados niñas, niños y adolescentes, están obligados a atender los principios de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+XV. Las demás que señale este Código u otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO TERCERO. DE LOS INTERESADOS
 
@@ -2836,3 +2844,47 @@ Artículo Séptimo. Los juicios que se encuentren en trámite ante el Tribunal d
 Artículo Octavo. El Tribunal de lo Contencioso Administrativo llevará a cabo las acciones necesarias a efecto de integrar el módulo de juicio en línea al Sistema Informático del Tribunal.
 
 Artículo Noveno. Para la promoción, substanciación y resolución del proceso administrativo a través del juicio en línea, prevalecerán las disposiciones contenidas en el capítulo noveno, título tercero, libro tercero del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato, respecto de otra que se contraponga a lo señalado a ese capítulo tratándose del juicio en línea.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
