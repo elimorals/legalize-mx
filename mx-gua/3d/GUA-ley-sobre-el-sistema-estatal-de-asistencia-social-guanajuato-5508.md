@@ -4,7 +4,7 @@ identifier: "GUA-ley-sobre-el-sistema-estatal-de-asistencia-social-guanajuato-55
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-19"
-last_updated: "2013-06-07"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y EL 2 DE OCTUBRE DE 2015 RESPECTIVAMENTE EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de septiembre de 1986.
 
@@ -54,6 +56,12 @@ I.- Crear y establecer las bases y procedimientos del Sistema Estatal de Asisten
 II.- La promoción y prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Guanajuato, de acuerdo a lo dispuesto por la Ley General de Salud; y
 
 III.- Coordinar el acceso a los servicios de asistencia social, garantizando a través de los convenios respectivos, la concurrencia y colaboración de los Gobiernos Federal, Estatal y Municipal, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Establecer las bases de creación, organización y funcionamiento del Sistema Estatal y de los Sistemas Municipales de Protección de los derechos de Niñas, Niños y Adolescentes, en términos de los que dispone la Ley General de Protección de los Derechos de Niñas, Niños y Adolescentes, y esta Ley.
 
 ###### ARTICULO 2o.
 
@@ -112,6 +120,12 @@ XII.- Habitantes del medio rural, suburbano y urbano, marginados que carezcan de
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
 XIII.- Personas afectadas por desastres.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Asimismo, en términos de la Ley sobre los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes ejercerá las atribuciones que le mandata.
 
 ###### ARTICULO 5o.
 
@@ -225,7 +239,7 @@ XIV.- El establecimiento y manejo del Sistema Estatal de Información Básica en
 
 XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral aplicable a los menores;
 
-XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y (sic)
+XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y mental; y
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2006)</small>
 
@@ -235,9 +249,17 @@ XVII.- Los servicios de previsión, prevención, atención, promoción, protecci
 
 XVIII.- Intervenir en la aplicación de las medidas, con excepción de la de internamiento, que se impongan a los adolescentes por las autoridades competentes, previstas en la Ley de Justicia para Adolescentes; y
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIX.- Los demás que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XIX.- Los servicios que se presten en los centros de asistencia social, a través de lugares o espacios de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XX.- Las demás que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
 
 ###### ARTICULO 14.
 
@@ -253,7 +275,13 @@ III.- La prestación de servicios municipales que revisten características de A
 
 IV.- Aquellos servicios que por sus características requieran de atención especial en la localidad; y
 
-V.- Las demás que las disposiciones generales le otorguen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+V.- La supervisión de los servicios que se presten en los centros de asistencia social; y
+
+VI.- Las demás que las disposiciones generales le otorguen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -569,75 +597,181 @@ Las relaciones de trabajo entre el Organismo y sus trabajadores se sujetarán a 
 
 Los trabajadores del Organismo estarán incorporados al régimen de Seguridad Social que corresponda a los trabajadores al servicio del Gobierno del Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPITULO TERCERO. De la Procuraduría en Materia de Asistencia Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
+### CAPITULO TERCERO. De la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 39.
 
-Para los efectos de la fracción V del artículo 13 de esta Ley, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, contará con una Procuraduría que tendrá por objeto la prestación de servicios jurídicos en favor de las personas a que se refiere el artículo 4º., de este ordenamiento, con excepción de las señaladas en la Ley de Justicia para Adolescentes.
+Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Sistema Estatal para el Desarrollo Integral de la Familia, cuenta con una Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, la cual además, para los efectos de la fracción V del artículo 13 de esta ley, presta servicios jurídicos en favor de las personas a que se refiere el artículo 4 de este ordenamiento, con excepción de las señaladas en la Ley de Justicia para Adolescentes.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 40.
 
-La Procuraduría en Materia de Asistencia Social estará a cargo de un Procurador General designado por la Junta de Gobierno, a propuesta del Director General.
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, tiene las atribuciones siguientes:
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política para el Estado de Guanajuato, esta Ley y demás disposiciones aplicables.
+
+Dicha protección integral deberá abarcar, por lo menos:
+
+a) Atención médica y psicológica;
+
+b) Seguimiento a las actividades académicas y entorno social y cultural; y
+
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
+
+II. Establecer contacto y trabajar conjuntamente para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, con las autoridades administrativas y judiciales correspondientes para garantizar los derechos de éstos;
+
+III. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, en los casos en donde falte la representación originaria o así lo determine el órgano jurisdiccional, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente con representación coadyuvante en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
+
+IV. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
+
+V. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
+
+VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+
+VII. Solicitar al Ministerio Público la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes tres horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en (sic) Normatividad Procesal Penal del Estado y en su caso, del Código Nacional de Procedimientos Penales Único, las siguientes:
+
+a) El ingreso de una niña, niño o adolescente a un centro de asistencia social; y
+
+b) La atención médica inmediata por parte de alguna institución del Sistema Nacional de Salud.
+
+Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+VIII. Ordenar fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público y a la autoridad jurisdiccional competente.
+
+Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+Para la imposición de las medidas urgentes de protección el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
+
+En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente.
+
+IX. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+X. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+XI. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
+
+XII. Coadyuvar con el Sistema Estatal para el Desarrollo Integral de la Familia en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
+
+XIII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+
+XIV. Supervisar en coordinación con la Procuraduría Federal de Protección a niñas, niños y adolescentes, el debido funcionamiento de los Centros de Asistencia Social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables;
+
+XV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+
+XVI. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
+
+XVII. Recibir las solicitudes de adopción de las niñas, niños y adolescentes que se encuentren bajo su tutela;
+
+XVIII. Realizar las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por esta ley, el Código Civil para el Estado de Guanajuato, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+
+XIX. Emitir certificados de idoneidad;
+
+XX. Autorizar, registrar y supervisar los Centros de Asistencia Social;
+
+XXI. Reportar semestralmente a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes;
+
+XXII. Solicitar el auxilio de autoridades federales, estatales y municipales, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables;
+
+XXIII. Promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece esta Ley y demás disposiciones aplicables;
+
+XXIV. Promover acciones colectivas ante el órgano jurisdiccional competente, con objeto de que éste ordene a los medios de comunicación locales que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar; y
+
+XXV. Las demás que le otorgue esta Ley u otros ordenamientos legales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 41.
 
-La Procuraduría en Materia de Asistencia Social, contará con los Procuradores Auxiliares que sean necesarios para el cumplimiento de sus funciones, los cuales serán designados por el Procurador General.
+Para ser Procurador Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes, se requiere:
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener cuando menos treinta y cinco años cumplidos al día de su designación;
+
+III. Contar con título de Licenciado en Derecho o su equivalente, así como con la correspondiente cédula profesional, expedidos y registrados legalmente;
+
+IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia, asistencia social o defensa de niñas, niños y adolescentes;
+
+V. No haber sido sentenciado por delito doloso, ni estar sujeto a proceso penal por delito doloso; y
+
+VI. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público; ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables
+
+El nombramiento de Procurador de Protección lo realizará la Junta de Gobierno del Sistema Estatal, a propuesta del Gobernador del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 42.
 
-Los requisitos para ser Procurador General y Procurador Auxiliar, así como sus funciones, se establecerán en el reglamento interior que para el efecto apruebe la Junta de Gobierno.
+En materia de asistencia social, la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+I. Otorgar la asistencia jurídica que soliciten las personas a que se refiere el artículo 4 de esta ley; de conformidad con la legislación aplicable y en los términos del reglamento interior;
+
+II. Dar seguimiento a las asesorías y orientaciones jurídicas para evaluar resultados e incrementar la eficiencia del servicio;
+
+III. Atender con oportunidad y eficacia los juicios en los cuales tengan la representación del interés jurídico de las personas referidas en la fracción (sic) de este artículo;
+
+IV. Recibir, investigar y atender, o en su caso, canalizar ante las autoridades competentes las quejas y denuncias de la ciudadanía en materia de asistencia social;
+
+V. Promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y de las acciones en materia de asistencia social;
+
+VI. Coadyuvar con las autoridades federales, estatales o municipales, en el ámbito de su competencia, respecto de los programas de asistencia jurídica en favor de los beneficiarios de la asistencia social;
+
+VII. Resolver sobre las consultas planteadas por la ciudadanía, en asuntos de su competencia;
+
+VIII. Promover y procurar, cuando esto sea posible, la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos que de acuerdo con esta ley le competan;
+
+IX. Denunciar ante el Ministerio Público los actos, omisiones o hechos ilícitos que impliquen la comisión de delitos de los que tenga conocimiento en el cumplimiento de sus funciones, así como coadyuvar y representar, en su caso, los intereses de las personas presuntas víctimas de los delitos;
+
+X. Denunciar ante la Procuraduría de los Derechos Humanos del Estado de Guanajuato, los actos, omisiones o hechos que pudieran significar violación a los derechos humanos de las personas tuteladas por esta ley y de los cuales tengan conocimiento;
+
+XI. Coadyuvar, en los términos que se convenga, con la Dirección de Atención a las Víctimas del Delito de la Procuraduría General de Justicia del Estado, para eficientar el servicio respecto de las personas beneficiarias de la asistencia social, que requieran del mismo; y
+
+XII. Las demás que le otorgue el reglamento interior y otras disposiciones jurídicas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 43.
 
-La Procuraduría en Materia de Asistencia Social, tendrá las siguientes atribuciones:
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, contará (sic) el personal que sea necesario para el cumplimiento de sus funciones, los cuales serán designados por el procurador.
 
-I.- Otorgar la asistencia jurídica que soliciten las personas a que se refiere el Artículo 4 de esta Ley; de conformidad con la legislación aplicable y en los términos del reglamento interior;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II.- Dar seguimiento a las asesorías y orientaciones jurídicas para evaluar resultados e incrementar la eficiencia del servicio;
-
-III.- Atender con oportunidad y eficacia los juicios en los cuales tengan la representación del interés jurídico de las personas referidas en la fracción I de este Artículo;
-
-IV.- Recibir, investigar y atender, o en su caso, canalizar ante las autoridades competentes las quejas y denuncias de la ciudadanía en materia de asistencia social;
-
-V.- Promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y de las acciones en materia de asistencia social;
-
-VI.- Coadyuvar con las autoridades federales, estatales o municipales, en el ámbito de su competencia, respecto de los programas de asistencia jurídica en favor de los beneficiarios de la asistencia social;
-
-VII.- Resolver sobre las consultas planteadas por la ciudadanía, en asuntos de su competencia;
-
-VIII.- Promover y procurar, cuando esto sea posible, la conciliación de intereses entre particulares y en sus relaciones con las autoridades, en asuntos que de acuerdo con esta Ley le competan;
-
-IX.- Denunciar ante el Ministerio Público los actos, omisiones o hechos ilícitos que impliquen la comisión de delitos de los que tenga conocimiento en el cumplimiento de sus funciones, así como coadyuvar y representar, en su caso, los intereses de las personas presuntas víctimas de los delitos;
-
-X.- Denunciar ante la Procuraduría de los Derechos Humanos del Estado de Guanajuato, los actos, omisiones o hechos que pudieran significar violación a los derechos humanos de las personas tuteladas por esta Ley y de los cuales tengan conocimiento;
-
-XI.- Coadyuvar, en los términos que se convenga, con la Dirección de Atención a las Víctimas del Delito de la Procuraduría General de Justicia del Estado, para eficientar el servicio respecto de las personas beneficiarias de la asistencia social, que requieran del mismo; y
-
-XII.- Las demás que le otorgue el Reglamento Interior y otras disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 44.
 
-La Procuraduría en Materia de Asistencia Social, contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, en los términos del Reglamento Interior.
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, contará con las unidades administrativas necesarias para el cumplimiento de sus atribuciones, en los términos del reglamento interior.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1994)</small>
+En su reglamento se establecerán, además, las disposiciones generales, los mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de las atribuciones que le señala este capítulo y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 45.
 
-En el Reglamento Interior de la Procuraduría en Materia de Asistencia Social, se establecerán, además, las disposiciones generales, los mecanismos, instancias y procedimientos administrativos que procuren el cumplimiento de las atribuciones que le señala este capítulo y demás disposiciones aplicables.
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría Estatal de Protección.
+
+Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1994)</small>
 
@@ -858,3 +992,47 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
