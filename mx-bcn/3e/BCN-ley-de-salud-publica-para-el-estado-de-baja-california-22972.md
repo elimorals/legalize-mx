@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2015-07-31"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -197,9 +197,13 @@ XXVIII.- Elaborar, dar seguimiento y hacer público, los estudios epidemiológic
 
 XXIX.- El programa para la atención médica de neoplasias; y
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-XXX.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
+XXX.- Los cuidados paliativos, y
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XXXI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -333,7 +337,7 @@ II.- Elaborar el programa de salud para el Estado, tomando en cuenta las priorid
 
 > <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-II bis.- Promover que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
+II BIS.- Promover que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde a la edad, sexo y factores de riesgo de las personas;
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -653,7 +657,9 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 La planificación familiar tiene carácter prioritario; los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
 
-Las actividades de planificación familiar deberán incluir la información y orientación educativa para los adolescentes y jóvenes.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Las actividades de planificación familiar deberán incluir la información y orientación educativa para los adolescentes y jóvenes, así como las medidas no abortivas tendientes a prevenir, informar, orientar, atender, controlar y vigilar el embarazo precoz.
 
 Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal o civil en que incurran.
 
@@ -861,9 +867,11 @@ VI.- Comunicar a las Autoridades competentes de las irregularidades o deficienci
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 48.
 
-La Secretaría de Salud del Estado y demás instituciones de salud en la Entidad, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva; en la prevención de enfermedades y accidentes, y en la rehabilitación de personas con discapacidad.
+La Secretaría de Salud del Estado y demás instituciones de salud en la Entidad, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, en la prevención de enfermedades y accidentes, y en la rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
 
 ###### ARTÍCULO 49.
 
@@ -967,7 +975,7 @@ XII.- Realizar las demás acciones que directa o indirectamente contribuyan al f
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
-ARTÍCULO 50 TER 3.- Para el logro operativo de sus fines, se deberá conformar la Unidad Coordinadora de Procuración de Órganos y Tejidos de Seres Humanos, que será parte integrante del Centro de Trasplantes y Procuración de Órganos y Tejidos y estará subordinada a esta última, en el entendido de que el objetivo principal de dicho grupo operativo, es facilitar y gestionar los procesos para la obtención de órganos y tejidos de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud en el estado, que expresamente lo soliciten y con estricto apego a los lineamientos aplicables en esta materia.
+ARTÍCULO 50 TER 3.- Para el logro operativo de sus fines, se deberá conformar la Unidad Coordinadora de Procuración de Órganos y Tejidos de Seres Humanos, qué será parte integrante del Centro de Trasplantes y Procuración de Órganos y Tejidos y estará subordinada a esta última, en el entendido de que el objetivo principal de dicho grupo operativo, es facilitar y gestionar los procesos para la obtención de órganos y tejidos de seres humanos con fines de trasplantes, dentro de las diferentes instituciones de salud en el estado, que expresamente lo soliciten y con estricto apego a los lineamientos aplicables en esta materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1067,7 +1075,7 @@ IV.- Desarrollar y aplicar acciones de prevención, tratamiento y rehabilitació
 
 > <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-ARTÍCULO 50 QUINQUES (SIC).- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Publica en el Estado.
+ARTÍCULO 50 QUINQUES.- El Banco Estatal de Sangre, será el establecimiento autorizado a cargo de la Secretaria de Salud Pública del Estado; para obtener, analizar, fraccionar, preparar, conservar, aplicar y proveer sangre humana y sus componentes sanguíneos. El cual tendrá una sede en cada uno de los municipios del Estado; pudiendo abastecer a otros bancos de sangre de Instituciones de Salud Pública en el Estado.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -1253,9 +1261,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-III.- Orientar y capacitar a la población y al sector educativo preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, así como en la prestación de los primeros auxilios.
+III.- Orientar y capacitar a la población y al sector educativo preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos de auto medicación, prevención de la farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, cuidados paliativos, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, así como en la prestación de los primeros auxilios.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -1433,9 +1441,51 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud rendirán los informes que la Autoridad Sanitaria del Estado requiera acerca de las enfermedades no transmisibles, en los términos de las disposiciones aplicables.
 
-#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+#### SECCION I. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS.- Corresponde a la (sic) Sistema Estatal de Salud como parte del Sistema Nacional de Salud garantizar el pleno, libre e informado ejercicio de los derechos que señalan la Ley General del (sic) Salud, esta Ley y demás ordenamientos aplicables, a los enfermos en situación terminal.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 1.- El presente Capítulo tiene por objeto:
+
+I. Salvaguardar la dignidad de los enfermos en situación terminal, para garantizar una vida de calidad a través de los cuidados y atenciones médicas, necesarios para ello;
+
+II. Garantizar una muerte natural en condiciones dignas a los enfermos en situación terminal;
+
+III. Establecer y garantizar los derechos del enfermo en situación terminal en relación con su tratamiento;
+
+IV. Dar a conocer los límites entre el tratamiento curativo y el paliativo;
+
+V. Determinar los medios ordinarios y extraordinarios en los tratamientos; y
+
+VI. Establecer los límites entre la defensa de la vida del enfermo en situación terminal y la obstinación terapéutica.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 2.- Para los efectos de este Capítulo, se entenderá por:
+
+I. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+
+II. Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+III. Cuidados Paliativos. Es el cuidado activo y total de aquéllas enfermedades que no responden a tratamiento curativo. El control del dolor, y de otros síntomas, así como la atención de aspectos psicológicos, sociales y espirituales;
+
+IV. Enfermo en situación terminal. Es la persona que tiene una enfermedad incurable e irreversible y que tiene un pronóstico de vida inferior a seis meses;
+
+V. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+
+VI. Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+VII. Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+VIII. Muerte natural. El proceso de fallecimiento natural de un enfermo en situación terminal, contando con asistencia física, psicológica y en su caso, espiritual; y
+
+IX. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir el sufrimiento físico y emocional producto de una enfermedad terminal, destinadas a mejorar la calidad de vida.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 92.
 
@@ -1457,71 +1507,169 @@ V.- La atención de los padecimientos que se produzcan como consecuencia de ello
 
 VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO SEPTIMO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCION II. DE LOS DERECHOS DE LOS ENFERMOS EN SITUACIÓN TERMINAL
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 3.- Los pacientes enfermos en situación terminal tienen los siguientes derechos:
+
+I. Recibir atención médica integral;
+
+II. Ingresar a las instituciones de salud cuando requiera atención médica;
+
+III. Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+IV. Recibir un trato digno, respetuoso y profesional procurando preservar su calidad de vida;
+
+V. Recibir información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+VI. Dar su consentimiento informado por escrito para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida;
+
+VII. Solicitar al médico que le administre medicamentos que mitiguen el dolor;
+
+VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
+
+IX. Optar por recibir los cuidados paliativos en un domicilio particular;
+
+X. Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad, lo haga en su representación;
+
+XI. A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza; y
+
+XII. Los demás que las leyes señalen.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 4.- El paciente en situación terminal, mayor de edad y en pleno uso de sus facultades mentales, tiene derecho a la suspensión voluntaria del tratamiento curativo y como consecuencia al inicio de tratamiento estrictamente paliativo en la forma y términos previstos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 5.- La suspensión voluntaria del tratamiento curativo supone la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal del paciente y el inicio de tratamientos enfocados de manera exclusiva a la disminución del dolor o malestar del paciente.
+
+En este caso, el médico especialista en el padecimiento del paciente terminal interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de la vida del paciente en situación terminal dejando que su padecimiento evolucione naturalmente.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 6.- El paciente en situación terminal que esté recibiendo los cuidados paliativos, podrá solicitar recibir nuevamente el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 7.- Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este Capítulo, serán asumidos por los padres o el tutor y a falta de estos por su representante legal, persona de su confianza mayor de edad o juez de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 8.- Los cuidados paliativos se proporcionarán desde el momento en que se diagnostica el estado terminal de la enfermedad, por el médico especialista.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 9.- Los familiares del enfermo en situación terminal tienen la obligación de respetar la decisión que de manera voluntaria tome el enfermo en los términos de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 10.- En casos de urgencia médica, y que exista incapacidad del enfermo en situación terminal para expresar su consentimiento, y en ausencia de familiares, representante legal, tutor o persona de confianza, la decisión de aplicar un procedimiento médico quirúrgico o tratamiento necesario, será tomada por el médico especialista y/o por el Comité de Bioética de la institución.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 11.- Todos los documentos a que se refiere este Capítulo se regirán de acuerdo a lo que se establezca la Ley General, su reglamento, esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCION III. DE LAS FACULTADES Y OBLIGACIONES DE LAS INSTITUCIONES DE SALUD
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 12.- Las Instituciones del Sistema Estatal de Salud:
+
+I. Ofrecerán el servicio para la atención debida a los enfermos en situación terminal;
+
+II. Proporcionarán los servicios de orientación, asesoría y seguimiento al enfermo en situación terminal, o sus familiares o persona de confianza en el caso de que los cuidados paliativos se realicen en el domicilio particular;
+
+III. De igual manera, en el caso de que los cuidados paliativos se realicen en el domicilio particular, la Secretaría pondrá en operación una línea telefónica de acceso gratuito para que se le oriente, asesore y dé seguimiento al enfermo en situación terminal, a sus familiares o persona de su confianza;
+
+IV. Proporcionarán los cuidados paliativos correspondientes al tipo y grado de enfermedad, desde el momento del diagnóstico de la enfermedad terminal hasta el último momento;
+
+V. Fomentarán la creación de áreas especializadas que presten atención a los enfermos en situación terminal; y
+
+VI. Garantizarán la capacitación y actualización permanente de los recursos humanos para la salud, en materia de cuidados paliativos y atención a enfermos en situación terminal.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+#### SECCIÓN IV. DE LOS DERECHOS, FACULTADES Y OBLIGACIONES DE LOS MÉDICOS Y PERSONAL SANITARIO
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 13.- Los médicos tratantes y el equipo sanitario que preste los cuidados paliativos, para el mejor desempeño de sus servicios, deberán estar debidamente capacitados humana y técnicamente, por instituciones autorizadas para ello.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 14.- Los médicos especialistas, tendrán las siguientes obligaciones:
+
+I. Proporcionar toda la información que el paciente requiera, así como la que el médico considere necesaria para que el enfermo en situación terminal pueda tomar una decisión libre e informada sobre su atención, tratamiento y cuidados;
+
+II. Pedir el consentimiento informado del enfermo en situación terminal, por escrito ante dos testigos, para los tratamientos o medidas a tomar respecto de la enfermedad terminal;
+
+III. Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+
+IV. Informar al enfermo en situación terminal, sobre las opciones que existan de cuidados paliativos;
+
+V. Respetar la decisión del enfermo en situación terminal en cuanto al tratamiento curativo y cuidados paliativos, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+VI. Garantizar que se brinden los cuidados básicos o tratamiento al paciente en todo momento;
+
+VII. Procurar las medidas mínimas necesaria (sic) para preservar la calidad de vida de los enfermos en situación terminal;
+
+VIII. Respetar y aplicar todas y cada una de las medidas y procedimientos para los casos que señala esta ley;
+
+IX. Hacer saber al enfermo, de inmediato y antes de su aplicación, si el tratamiento a seguir para aliviar el dolor y los síntomas de su enfermedad tenga como posibles efectos secundarios disminuir el tiempo de vida;
+
+X. Solicitar una segunda opinión a otro médico especialista, cuando su diagnóstico sea una enfermedad terminal; y
+
+XI. Las demás que le señalen la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 15.- Los médicos tratantes podrán suministrar fármacos paliativos a un enfermo en situación terminal, aun cuando con ello se pierda estado de alerta o se acorte la vida del paciente, siempre y cuando se suministren dichos fármacos paliativos con el objeto de aliviar el dolor del paciente.
+
+Podrán hacer uso, de ser necesario de acuerdo con lo estipulado en la Ley General de Salud, de analgésicos del grupo de los opioides. En estos casos será necesario el consentimiento del enfermo.
+
+En ningún caso se suministrarán tales fármacos con la finalidad de acortar o terminar la vida del paciente, en tal caso se estará sujeto a las disposiciones penales aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 16.- Los médicos tratantes, en ningún caso y por ningún motivo implementaran medios extraordinarios al enfermo en situación terminal, sin su consentimiento.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 17.- Para garantizar una vida de calidad y el respeto a la dignidad del enfermo en situación terminal, el personal médico no deberá aplicar tratamientos o medidas consideradas como obstinación terapéutica ni medios extraordinarios.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 18.- El personal médico que deje de proporcionar los cuidados básicos a los enfermos en situación terminal, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 19.- El personal médico que, por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, o en caso que esté impedido para expresar su voluntad, el de su familia o persona de confianza, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 20.- Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta ley. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+
+#### SECCION I. DE LOS PROGRAMAS CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+
+#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
 
 ### CAPITULO OCTAVO. DE LA PREVENCIÓN Y REHABILITACIÓN DE PERSONAS CON DISCAPACIDAD
 
 > <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-#### SECCION II. DEL PROGRAMA CONTRA EL TABAQUISMO
-
-#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
-
-#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
-
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
-
-ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
-
-I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
-
-II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
-
-ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
-
-I.- La detección y tratamiento de la ludopatía; y
-
-II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
-
-De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
-
-#### SECCION V. DEL PROGRAMA DE PREVENCION, ATENCION Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISION SEXUAL
-
-> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
-
-ARTÍCULO 106 QUATER.- Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables y atendiendo a la disponibilidad presupuestal, se coordinarán con las Autoridades Federales en la ejecución en la entidad del Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual, que comprenderá entre otras, las siguientes acciones:
-
-I.- Prestar servicios de atención médica integral, detección y tratamiento para los enfermos del VIH/SIDA y otras infecciones de transmisión sexual, así como apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las unidades médicas o centros de salud del Estado;
-
-II.- Difundir información sobre los efectos del VIH/SIDA y otras infecciones de transmisión sexual en la salud, sus formas de transmisión y las medidas de prevención, dirigida prioritariamente a los adolescentes, indígenas y grupos de alto riesgo de vulnerabilidad en el Estado, a través de técnicas individuales, grupales o de comunicación masiva;
-
-III.- Coordinar acciones con las Autoridades Educativas del Estado para fortalecer la educación integral en sexualidad y la promoción de la salud sexual, así como apoyar la investigación en el campo de la sexualidad humana para prevenir el VIH/SIDA y otras infecciones de transmisión sexual;
-
-IV.- Promover el uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer VIH/SIDA y otras infecciones de transmisión sexual, de conformidad con las políticas que determinen las Autoridades Sanitarias competentes;
-
-V.- Fomentar la cultura del respeto, igualdad de derechos y la erradicación del estigma, la discriminación, la homofobia y la violación de los derechos fundamentales de las personas que padecen del VIH/SIDA y otras infecciones de transmisión sexual;
-
-VI.- Impulsar el desarrollo de estrategias de prevención perinatal del VIH/SIDA, así como medidas de prevención sexual, desde la atención materno-infantil, para incrementar la detección oportuna y el tratamiento médico eficaz de las mujeres embarazadas y de los niños que viven con VIH/SIDA;
-
-VII.- Organizar en coordinación con los grupos y organismos de la sociedad civil interesados, actividades específicas para reducir los riesgos de transmisión del VIH/SIDA y otras infecciones de transmisión sexual, permitiendo su plena y total participación en todos los niveles;
-
-VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de VIH/SIDA y otras infecciones de transmisión sexual en los centros penitenciarios del Estado, así como diseñar estrategias fronterizas, atendiendo a la (sic) condiciones de movilidad de los migrantes que transitan por la entidad, para prevenir, atender y controlar la propagación del VIH/SIDA y otras infecciones de transmisión sexual en el Estado, y
-
-IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
-
-#### SECCION I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
-
-### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
 ###### ARTÍCULO 94.
 
@@ -1575,9 +1723,13 @@ V.- Recabar cualquier otra información que se estime necesaria para la prevenci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
 
-### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
+### CAPITULO NOVENO. DE LAS ADICCIONES Y DE LOS PROGRAMAS PERMANENTES DE SALUD
 
-#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+#### SECCION III. DE LA PREVENCION, ATENCION Y COMBATE A LA FARMACODEPENDENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO NÚMERO 446 QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 99.
 
@@ -1605,7 +1757,27 @@ IV.- Efectos del abuso de bebidas alcohólicas en el ambiente familiar, social, 
 
 Queda estrictamente prohibido vender bebidas alcohólicas a menores de edad, a la persona que infrinja esta norma se le sancionará en términos de lo dispuesto por la normatividad aplicable.
 
-#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
+#### SECCION IV. DEL PROGRAMA CONTRA ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES
+
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2009)</small>
+
+ARTÍCULO 106 BIS.- Las autoridades sanitarias, promoverán en el Estado, el programa contra las enfermedades cardiovasculares, la obesidad y la diabetes que comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención de las enfermedades cardiovasculares, obesidad y diabetes, mediante la facilitación de indicadores de las medidas básicas a toda persona interesada.
+
+II.- La detección y tratamiento de las enfermedades cardiovasculares, obesidad y diabetes.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2011)</small>
+
+ARTÍCULO 106 TER.- Las autoridades sanitarias, promoverán en el Estado, programas contra la ludopatía que comprenderá, entre otras, las siguientes acciones:
+
+I.- La detección y tratamiento de la ludopatía; y
+
+II.- La prevención de la ludopatía mediante la implementación de campañas permanentes dirigidas a los diversos sectores de la sociedad.
+
+De igual forma las autoridades sanitarias celebrarán convenios con los diversos entes de los sectores públicos y privados, para realizar conjuntamente acciones de prevención y tratamiento de la ludopatía.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE ABRIL DE 2012)</small>
 
 ###### ARTÍCULO 102.
 
@@ -1637,7 +1809,29 @@ A quienes infrinjan lo dispuesto en este artículo, se le sancionará en términ
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-#### SECCION IV. DE LA LIMPIEZA PUBLICA
+#### SECCION V. DEL PROGRAMA DE PREVENCION, ATENCION Y CONTROL DEL VIH/SIDA E INFECCIONES DE TRANSMISION SEXUAL
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
+
+ARTÍCULO 106 QUATER.- Las Autoridades Sanitarias del Estado, sin detrimento de la observancia de las normas que resulten aplicables y atendiendo a la disponibilidad presupuestal, se coordinarán con las Autoridades Federales en la ejecución en la entidad del Programa Nacional de Prevención, Atención y Control del VIH/SIDA e Infecciones de Transmisión Sexual, que comprenderá entre otras, las siguientes acciones:
+
+I.- Prestar servicios de atención médica integral, detección y tratamiento para los enfermos del VIH/SIDA y otras infecciones de transmisión sexual, así como apoyo y orientación psicológica a los familiares, en los niveles y la capacidad que corresponda a las unidades médicas o centros de salud del Estado;
+
+II.- Difundir información sobre los efectos del VIH/SIDA y otras infecciones de transmisión sexual en la salud, sus formas de transmisión y las medidas de prevención, dirigida prioritariamente a los adolescentes, indígenas y grupos de alto riesgo de vulnerabilidad en el Estado, a través de técnicas individuales, grupales o de comunicación masiva;
+
+III.- Coordinar acciones con las Autoridades Educativas del Estado para fortalecer la educación integral en sexualidad y la promoción de la salud sexual, así como apoyar la investigación en el campo de la sexualidad humana para prevenir el VIH/SIDA y otras infecciones de transmisión sexual;
+
+IV.- Promover el uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer VIH/SIDA y otras infecciones de transmisión sexual, de conformidad con las políticas que determinen las Autoridades Sanitarias competentes;
+
+V.- Fomentar la cultura del respeto, igualdad de derechos y la erradicación del estigma, la discriminación, la homofobia y la violación de los derechos fundamentales de las personas que padecen del VIH/SIDA y otras infecciones de transmisión sexual;
+
+VI.- Impulsar el desarrollo de estrategias de prevención perinatal del VIH/SIDA, así como medidas de prevención sexual, desde la atención materno-infantil, para incrementar la detección oportuna y el tratamiento médico eficaz de las mujeres embarazadas y de los niños que viven con VIH/SIDA;
+
+VII.- Organizar en coordinación con los grupos y organismos de la sociedad civil interesados, actividades específicas para reducir los riesgos de transmisión del VIH/SIDA y otras infecciones de transmisión sexual, permitiendo su plena y total participación en todos los niveles;
+
+VIII.- Desarrollar acciones para detectar y atender oportunamente los casos de VIH/SIDA y otras infecciones de transmisión sexual en los centros penitenciarios del Estado, así como diseñar estrategias fronterizas, atendiendo a la (sic) condiciones de movilidad de los migrantes que transitan por la entidad, para prevenir, atender y controlar la propagación del VIH/SIDA y otras infecciones de transmisión sexual en el Estado, y
+
+IX.- Las demás acciones, políticas y estrategias que determinen las autoridades competentes.
 
 ###### ARTÍCULO 105.
 
@@ -1665,13 +1859,15 @@ A los establecimientos, así como a los responsables de los mismos que vendan o 
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE AGOSTO DE 2009)</small>
 
-#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
+#### SECCION I. DISPOSICIONES COMUNES
 
-#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
+#### SECCION II. DE LOS ESTABLECIMIENTOS DEDICADOS AL EXPENDIO DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
-#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO DECIMO. DE LA SALUBRIDAD LOCAL
+
+#### SECCION III. DE LAS FUNERARIAS Y PANTEONES
 
 ###### ARTÍCULO 107.
 
@@ -1693,7 +1889,7 @@ Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, 
 
 Todo cambio de propietario, de razón o denominación social o domicilio de un establecimiento, deberá ser comunicado a la Autoridad que otorgó la autorización sanitaria o a quien se le haya dado el aviso de funcionamiento, en un plazo no mayor de treinta días a partir de la fecha en que se hubiese realizado, sujetándose el trámite correspondiente a las disposiciones reglamentarias aplicables.
 
-#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
+#### SECCION IV. DE LA LIMPIEZA PUBLICA
 
 ###### ARTÍCULO 112.
 
@@ -1713,9 +1909,7 @@ V.- Establecimiento: Local donde se desarrolla una actividad comercial en la cua
 
 La regulación y control de los establecimientos dedicados al expendio o suministro al público de alimentos y bebidas no alcohólicas y los vendedores ambulantes, se dará conforme a lo que disponga esta Ley y la normatividad que les sea aplicable.
 
-#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+#### SECCION V. DEL AGUA POTABLE PARA USO Y CONSUMO HUMANO Y ALCANTARILLADO
 
 ###### ARTÍCULO 114.
 
@@ -1779,43 +1973,7 @@ Para establecer un nuevo panteón, se necesita licencia expedida por el Ayuntami
 
 El funcionamiento de los panteones, estará sujeto a la Ley General de Salud, a lo dispuesto en esta Ley, a los Reglamentos Municipales correspondientes y a la normatividad aplicable.
 
-#### SECCIÓN IX BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 144 QUÁTER.- Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren, además de lo previsto en el artículo 52 de esta Ley, lo siguiente:
-
-I. Cédula de especialista legalmente expedida por la autoridad educativa competente.
-
-II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, expedido por el Consejo de la especialidad, según corresponda, de conformidad con el artículo 272 BIS de la Ley General de Salud.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Para acreditar capacidad y experiencia en la práctica de los procedimientos y técnicas el Consejo podrá considerar entre los elementos a evaluar, estudios de Posgrado de instituciones de educación superior que cuenten con el reconocimiento de las autoridades educativas competentes de validez oficial de estudios de sus planes y programas del tipo superior.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Los médicos especialistas podrán pertenecer a una agrupación médica cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad. Tales agrupaciones se encargarán de garantizar el profesionalismo y ética de los expertos en esta práctica de la Medicina.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 144 QUINQUIES.- Para la expedición de la cédula de médico especialista, la Secretaría de Educación y Bienestar Social solicitará la opinión del Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación en Salud, órgano consultivo de la Administración Pública Estatal, creado por Decreto publicado en el Periódico Oficial de fecha 12 de julio de 2013.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 144 SEXIES.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 52 y 144 QUÁTER de esta Ley.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 144 SEPTIES.- Los profesionistas a que refiere la presente sección tienen la obligación de dar aviso a la Secretaría de Salud del Estado antes de iniciar el ejercicio de los procedimientos especializados de cirugía.
-
-Dicha obligación también la tienen quienes administren clínicas privadas cuyas instalaciones sean utilizadas por profesionistas que pretendan llevar a cabo este tipo de procedimientos.
-
-Esta información servirá de base para que la Secretaría de Salud del Estado integre y actualice su propio Registro de profesionistas con especialidad en cirugía que operen en el Estado.
-
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior, así como a lo previsto en el artículo 144 QUATER, dará lugar a que Secretaría (sic) de Salud del Estado aplique medidas de seguridad y/o sanciones a que refiere esta Ley.
+#### SECCION VI. DE LAS ALBERCAS Y BAÑOS PUBLICOS
 
 ###### ARTÍCULO 120.
 
@@ -1829,7 +1987,7 @@ La basura deberá ser manejada en su destino final como relleno sanitario o dest
 
 El manejo, recolección, transporte, tratamiento y disposición final de basura se realizará en los términos que señalen la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California, sus reglamentos y demás disposiciones que resulten aplicables.
 
-#### SECCION X. DE LOS TRANSPORTES DE CARGA
+#### SECCION VII. DE LOS CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTÍCULO 123.
 
@@ -1869,11 +2027,7 @@ Queda prohibida la descarga de aguas residuales o de contaminantes en cualquier 
 
 Los usuarios que aprovechen en su servicio aguas que posteriormente serán utilizadas para uso o consumo humano, están obligados a darles el tratamiento correspondiente a fin de evitar riesgos para la salud humana, de conformidad con las disposiciones aplicables.
 
-#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+#### SECCION VIII. DE LOS ESTABLECIMIENTOS DE HOSPEDAJE
 
 ###### ARTÍCULO 132.
 
@@ -1901,9 +2055,9 @@ Para abrir los servicios al público, los establecimientos señalados en el art�
 
 La actividad de los establecimientos señalados en la presente sección está sujeta a lo dispuesto por esta Ley y la normatividad aplicable.
 
-#### SECCION I. DE LAS AUTORIZACIONES
+#### SECCION IX. DE LOS ESTABLECIMIENTOS DEDICADOS AL EMBELLECIMIENTO FISICO Y MEDICINA ESTETICA
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 138.
 
@@ -1913,9 +2067,43 @@ Para los efectos de esta Ley, se entiende por centros de reunión, todas aquella
 
 La Autoridad Sanitaria competente una vez terminada la edificación del centro de reunión y antes de abrirse al público hará la inspección sanitaria y declaración correspondiente. Asimismo, podrá en cualquier momento ordenar la clausura de los centros públicos de reunión que no reúnan las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran, en los términos de esta Ley. Dicha clausura prevalecerá entre tanto no sean corregidas las causas que la motivaron.
 
-#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+#### SECCIÓN IX BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 QUÁTER.- Para la realización de cualquier procedimiento médico quirúrgico de especialidad, los profesionales que lo ejerzan requieren, además de lo previsto en el artículo 52 de esta Ley, lo siguiente:
+
+I. Cédula de especialista legalmente expedida por la autoridad educativa competente.
+
+II. Certificado vigente de especialista que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes en la materia, expedido por el Consejo de la especialidad, según corresponda, de conformidad con el artículo 272 BIS de la Ley General de Salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Para acreditar capacidad y experiencia en la práctica de los procedimientos y técnicas el Consejo podrá considerar entre los elementos a evaluar, estudios de Posgrado de instituciones de educación superior que cuenten con el reconocimiento de las autoridades educativas competentes de validez oficial de estudios de sus planes y programas del tipo superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
+
+Los médicos especialistas podrán pertenecer a una agrupación médica cuyas bases de organización y funcionamiento estarán a cargo de las asociaciones, sociedades, colegios o federaciones de profesionales de su especialidad. Tales agrupaciones se encargarán de garantizar el profesionalismo y ética de los expertos en esta práctica de la Medicina.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 QUINQUIES.- Para la expedición de la cédula de médico especialista, la Secretaría de Educación y Bienestar Social solicitará la opinión del Comité Estatal Interinstitucional para la Formación y Capacitación de Recursos Humanos e Investigación en Salud, órgano consultivo de la Administración Pública Estatal, creado por Decreto publicado en el Periódico Oficial de fecha 12 de julio de 2013.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 SEXIES.- La cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, deberá efectuarse en establecimientos o unidades médicas con licencia sanitaria vigente, atendidos por profesionales de la salud especializados en dichas materias, de conformidad con lo que establece el artículo 52 y 144 QUÁTER de esta Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 SEPTIES.- Los profesionistas a que refiere la presente sección tienen la obligación de dar aviso a la Secretaría de Salud del Estado antes de iniciar el ejercicio de los procedimientos especializados de cirugía.
+
+Dicha obligación también la tienen quienes administren clínicas privadas cuyas instalaciones sean utilizadas por profesionistas que pretendan llevar a cabo este tipo de procedimientos.
+
+Esta información servirá de base para que la Secretaría de Salud del Estado integre y actualice su propio Registro de profesionistas con especialidad en cirugía que operen en el Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2014)</small>
+
+ARTÍCULO 144 OCTIES.- El incumplimiento a lo previsto en el artículo anterior, así como a lo previsto en el artículo 144 QUATER, dará lugar a que (sic) Secretaría de Salud del Estado aplique medidas de seguridad y/o sanciones a que refiere esta Ley.
 
 ###### ARTÍCULO 140.
 
@@ -1929,7 +2117,7 @@ La Autoridad Sanitaria del Estado realizará las inspecciones sanitarias que con
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2012)</small>
 
-#### SECCION III. DE LOS CERTIFICADOS
+#### SECCION X. DE LOS TRANSPORTES DE CARGA
 
 ###### ARTÍCULO 142.
 
@@ -1955,6 +2143,16 @@ ARTÍCULO 144 TER.- Los establecimientos señalados en el artículo anterior, ti
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE OCTUBRE DE 2014)</small>
 
+#### SECCION XI. DE LOS CENTROS DE DESARROLLO INFANTIL Y ESTANCIAS INFANTILES FAMILIARES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2015)</small>
+
+#### SECCION I. DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 ###### ARTÍCULO 145.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga con artículos perecederos, sea cual fuere su medio de propulsión.
@@ -1964,6 +2162,10 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 Los transportes de carga señalados en el artículo anterior que circulen por el territorio estatal, deberán contar con la autorización sanitaria expedida por la Autoridad Sanitaria correspondiente, una vez cubiertos los requisitos que marca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
+#### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 147.
 
@@ -2109,7 +2311,9 @@ III.- Conformar grupos de trabajo para la realización y seguimiento de tareas e
 
 IV.- Las demás que le establezca el Reglamento Interno.
 
-### CAPITULO DECIMO SEGUNDO. DE LA VIGILANCIA SANITARIA
+#### SECCION III. DE LOS CERTIFICADOS
+
+### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
 ###### ARTÍCULO 149.
 
@@ -2125,9 +2329,7 @@ Las autorizaciones sanitarias serán expedidas cuando el solicitante hubiese sat
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
-### CAPITULO DECIMO TERCERO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+### CAPITULO DECIMO SEGUNDO. DE LA VIGILANCIA SANITARIA
 
 ###### ARTÍCULO 151.
 
@@ -2283,9 +2485,9 @@ Los certificados a que se refiere este Capítulo se extenderán por las Autorida
 
 Las Autoridades Judiciales o Administrativas, sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-### CAPITULO DECIMO CUARTO. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO DECIMO TERCERO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ###### ARTÍCULO 168.
 
@@ -2333,7 +2535,9 @@ IV.- Al concluir la visita sanitaria, se dará oportunidad al propietario, respo
 
 V.- La recolección de muestra se efectuará conforme a lo señalado en la Ley General de Salud; el procedimiento de muestreo no impide que la Autoridad Sanitaria correspondiente ejecute las medidas de seguridad sanitaria que procedan.
 
-### CAPITULO DECIMO QUINTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO DECIMO CUARTO. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 176.
 
@@ -2385,7 +2589,7 @@ IX.- Desocupación o desalojo de casas, edificios, establecimientos y en general
 
 X.- Las demás de carácter sanitario que determine la Secretaría de Salud del Estado tendientes a evitar se causen o continúen causando riesgos o daños a la salud.
 
-### CAPITULO DECIMO SEXTO. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO DECIMO QUINTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 179.
 
@@ -2457,7 +2661,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que la ejecute.
 
-### CAPITULO DECIMO SEPTIMO. DE LA PRESCRIPCION
+### CAPITULO DECIMO SEXTO. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 188.
 
@@ -2506,6 +2710,8 @@ En los casos de suspensión de trabajos o de servicios, de clausura temporal o d
 ###### ARTÍCULO 196.
 
 Cuando del contenido de un acta de visita sanitaria se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPITULO DECIMO SEPTIMO. DE LA PRESCRIPCION
 
 ###### ARTÍCULO 197.
 
@@ -2934,3 +3140,15 @@ PRIMERO: La presente reforma entrará en vigor a los 120 días siguientes a su p
 SEGUNDO: El Ejecutivo del Estado y los Ayuntamientos tendrán un plazo de noventa días contados a partir de la entrada en vigor de la presente Ley, para adecuar su normatividad en el ámbito de su competencia.
 
 TERCERO: El Poder Ejecutivo del Estado de Baja California, deberá realizar las Políticas Públicas que se estimen necesarias, a efecto de que los Centros de Desarrollo infantil se cuente (sic) con personal técnico capacitado, así como equipo y medidas requeridas en los Centros de Desarrollo Infantil, para la inclusión de menores con discapacidad cualquiera que sea su denominación.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+DECRETO No. 316, POR EL QUE SE APRUEBAN LAS REFORMAS A LA FRACCIÓN XXX Y SE ADICIONA UNA FRACCIÓN XXXI, AMBAS DEL ARTÍCULO 4, EL ARTÍCULO 48, Y ARTÍCULO 69 FRACCIÓN III, ASÍ COMO LA ADICIÓN DEL CAPÍTULO SÉPTIMO BIS DENOMINADO "DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN SITUACIÓN TERMINAL" CON IV SECCIONES, TODOS DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+DECRETO No. 317, POR EL QUE SE APRUEBA LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 26 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
