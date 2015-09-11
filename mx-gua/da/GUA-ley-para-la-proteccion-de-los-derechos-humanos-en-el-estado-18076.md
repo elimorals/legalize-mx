@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2012-09-14"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015, NÚMERO 154, DÉCIMA TERCERA PARTE, PÁGINA 93 Y EL 2 DE OCTUBRE DE 2015, NÚMERO 158, CUARTA PARTE, PÁGINA 3, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -133,11 +135,17 @@ XVII.- Solicitar al Poder Legislativo que haga comparecer a las autoridades o se
 
 XVIII.- Previo análisis jurídico, promover las acciones de inconstitucionalidad en contra de las leyes expedidas por el Congreso del Estado que contravengan derechos humanos, en términos de lo dispuesto en el artículo 105, fracción II, inciso g, de la Constitución Política de los Estados Unidos Mexicanos, y en el párrafo noveno del artículo 4 de la Constitución Política para el Estado de Guanajuato; y
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+XIX.- Establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes;
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
 
-XIX.- Las demás que le otorgue la presente Ley u otras disposiciones jurídicas aplicables.
+XX.- Las demás que le otorgue la presente Ley u otras disposiciones jurídicas aplicables.
 
 ###### Artículo 9o.
 
@@ -828,3 +836,49 @@ Artículo Primero. El presente Decreto entrará en vigencia en la misma fecha en
 Artículo Segundo. El Procurador de los Derechos Humanos del Estado en funciones podrá ser ratificado para un segundo periodo, de conformidad con las disposiciones vigentes antes de la entrada en vigencia del presente Decreto.
 
 Artículo Tercero. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera (sic) actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
