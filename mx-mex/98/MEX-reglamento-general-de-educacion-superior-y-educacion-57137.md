@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-general-de-educacion-superior-y-educacion-57137"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-17"
-last_updated: "2007-09-17"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO GENERAL DE EDUCACION SUPERIOR Y EDUCACION CONTINUA DE SEIEM
 
-REGLAMENTO GENERAL DE EDUCACION SUPERIOR Y EDUCACION CONTINUA DE SEIEM
+REGLAMENTO GENERAL DE EDUCACIÓN SUPERIOR Y EDUCACIÓN CONTINUA DE SEIEM
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO GENERAL DE EDUCACIÓN SUPERIOR Y EDUCACIÓN CONTINUA DE SERVICIOS EDUCATIVOS INTEGRADOS AL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DEL 11 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2007.
 
@@ -826,3 +828,17 @@ LIC. ROGELIO TINOCO GARCÍA
 DIRECTOR GENERAL Y SECRETARIO DEL CONSEJO DIRECTIVO DE "SEIEM"
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 11 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO. Se abroga el Reglamento General de Educación Superior y Educación Continua de SEIEM, publicado en el Periódico Oficial Gaceta del Gobierno, de fecha 17 de septiembre de 2007.
+
+CUARTO. La Escuela Normal Rural "Lázaro Cárdenas del Río" continuará rigiéndose por las normas académicas y administrativas expedidas por la Secretaría de Educación Pública, respecto a la Educación Normal.
+
+QUINTO. Lo no previsto en el presente Reglamento será resuelto por las Autoridades de SEIEM, en términos de la Ley de creación de este Organismo, su Reglamento Interior y demás ordenamientos jurídicos aplicables.
