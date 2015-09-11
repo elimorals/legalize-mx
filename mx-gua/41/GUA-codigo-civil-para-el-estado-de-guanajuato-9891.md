@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2015-04-21"
+last_updated: "2015-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y 2 DE OCTUBRE DE 2015 RESPECTIVAMENTE, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -477,11 +479,13 @@ Las declaraciones de nacimiento se harán presentando a la persona a registrar a
 
 Todos los registros de nacimiento llevados a cabo en la Oficialía del Registro Civil, serán gratuitos. El Oficial del Registro Civil expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 63.
 
-Tienen obligación de declarar el nacimiento, el padre o la madre, los abuelos o cualquiera que tenga bajo su cuidado a una persona, dentro de los noventa días siguientes de ocurrido aquél.
+Tienen obligación de declarar el nacimiento, el padre o la madre, los abuelos o cualquiera que tenga bajo su cuidado a una persona, dentro de los sesenta días siguientes de ocurrido aquél.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -529,7 +533,11 @@ IX. El nombre, domicilio y nacionalidad de los abuelos, según proceda; y
 
 X. El nombre, edad, domicilio y, en su caso, parentesco con el registrado, si la presentación la realiza una persona distinta a los padres.
 
-Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellido, considerando los datos contenidos en las actuaciones de la Procuraduría en materia de Asistencia Social, en cumplimiento a lo señalado en el artículo 73 de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellido, considerando los datos contenidos en las actuaciones de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, en cumplimiento a lo señalado en el artículo 73 de este Código.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -589,11 +597,13 @@ La madre no puede dejar de reconocer a su hijo, la filiación con respecto a és
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testará de oficio por el Oficial del Registro Civil que la tenga a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 73.
 
-Toda persona que encontrase a un menor, ya sea que éste estuviere extraviado o abandonado, o en cuya casa, propiedad o lugar de trabajo fuera expuesto alguno, deberá presentarlo ante la Procuraduría en Materia de Asistencia Social en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, para que ésta proceda a lo siguiente:
+Toda persona que encontrase a un menor, ya sea que éste estuviere extraviado o abandonado, o en cuya casa, propiedad o lugar de trabajo fuera expuesto alguno, deberá presentarlo ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato en forma inmediata, con todos los objetos encontrados con él, y declarará el día, mes, año y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, para que ésta proceda a lo siguiente:
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -603,9 +613,11 @@ I. Denunciar los hechos inmediatamente ante el Ministerio Público;
 
 II. Presentarlo ante el Oficial del Registro Civil para que se levante el acta correspondiente, si procede cuando se haya definido la situación jurídica del menor;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Entregar la custodia temporal del menor a una institución de asistencia social que pueda atenderlo adecuadamente;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+III. Entregar la custodia temporal del menor a una institución de asistencia social o a una Familia de Acogida que pueda atenderlo adecuadamente;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2008)</small>
 
@@ -615,25 +627,31 @@ IV. Promover y tramitar la adopción pronta del menor que resulte expósito; y
 
 V. Promover y tramitar el juicio de pérdida de la patria potestad contra quienes hayan abandonado al menor; así como la adopción del mismo a falta de sucesores idóneos para el ejercicio de la patria potestad; o según el caso, asegurarse de la reincorporación o incorporación del menor con el o los familiares que correspondan legalmente.
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Para los efectos de la fracción III, el Procurador en materia de Asistencia Social o los Procuradores Auxiliares, en su caso, tendrán la tutela del menor.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2005)</small>
+Para los efectos de la fracción III, el Procurador de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato o los procuradores auxiliares, en su caso, tendrán la tutela del menor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 74.
 
-La misma obligación de recurrir a la Procuraduría en Materia de Asistencia Social, la tienen los jefes, directores o administradores de los centros de reclusión y de cualquier casa de comunidad, hospitales, casas de maternidad e inclusas, respecto de los niños nacidos, abandonados o expuestos a ellas.
+La misma obligación de recurrir a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la tienen los jefes, directores o administradores de los centros de reclusión y de cualquier casa de comunidad, hospitales, casas de maternidad e inclusas, respecto de los niños nacidos, abandonados o expuestos en ellas.
 
 > <small>(REFORMADO, P.O. 29 DE ENERO DE 1982)</small>
 
 Cuando se encuentren menores internos en asilos o establecimientos educativos públicos o privados, cuyo nacimiento no haya sido registrado, los jefes, directores o administradores de esas instituciones estarán obligados a registrarlos; en estos casos el Oficial del Registro Civil asentará los datos que para el caso les sean proporcionados y de los que quienes registran tengan pleno conocimiento. No se asentarán hechos producto de especulaciones ni aquellos expresamente prohibidos por otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 75.
 
-En las actas que se levanten en estos casos, se expresará la edad aparente del niño, su sexo y el nombre y apellidos que se le pongan, de acuerdo a las actuaciones realizadas por la Procuraduría en materia de Asistencia Social, en cumplimiento de lo señalado por el artículo 73 de este Código.
+En las actas que se levanten en estos casos, se expresará la edad aparente del niño, su sexo y el nombre y apellidos que se le pongan, de acuerdo a las actuaciones realizadas por la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, en cumplimiento de lo señalado por el artículo 73 de este Código.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1144,6 +1162,12 @@ Cuando se recobre la capacidad legal para administrar, se presente la persona de
 Las modificaciones a las actas del estado civil, solamente se podrán realizar a través de aclaración administrativa o rectificación.
 
 La rectificación podrá ser administrativa o judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -2989,13 +3013,19 @@ El término para contradecir el reconocimiento será el de sesenta días, contad
 
 La madre que hubiere reconocido a su hijo podrá contradecir el reconocimiento hecho sin su consentimiento por un tercero; en tal caso quedará éste sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio por ella iniciado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 436.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cual de los dos ejercerá sobre él la patria potestad, y en caso de que no lo hicieren, el Juez de Primera Instancia de lo Civil, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto o el reconocimiento se efectúe sucesivamente, ejercerán la patria potestad y darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa; en caso de que no lo hicieren, el Juez de Primera Instancia de lo Civil, oyendo a los padres, resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 437.
 
-En caso de que el reconocimiento se efectúe sucesivamente por padres que no vivan juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia de lo Civil no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+(DEROGADO, P.O. 11 DE SEPTIEMBRE DE 2015)
 
 ###### Art. 438.
 
@@ -3130,6 +3160,12 @@ El certificado de idoneidad deberá ser tramitado con antelación al inicio del 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato emitirá el certificado de idoneidad por conducto del órgano colegiado establecido para atender el tema de adopción y unificar los programas que se apliquen en el Estado, el que contendrá su conformidad con la adopción y determinará su vigencia. El certificado de idoneidad tendrá su base en el expediente técnico integrado para verificar que se cumplen los supuestos de los incisos previstos en la presente fracción. La integración de los expedientes técnicos respectivos podrá realizarse mediante el apoyo de instituciones públicas o asociaciones civiles autorizadas por el mismo órgano colegiado, conforme a la normatividad que para ello emita, sin menoscabo de que éste pueda repetir de manera directa todos aquellos estudios correspondientes y necesarios para verificar la correcta integración del expediente técnico.
 
 El órgano colegiado en materia de adopción podrá autorizar a otras instituciones públicas y a asociaciones civiles constituidas legalmente, a que tengan en custodia a menores susceptibles de ser adoptados, a realizar la preparación psicológica para adoptar y a colaborar en la integración del expediente para emitir el certificado de idoneidad previa conformidad que aquél manifieste con la adopción correspondiente, cuando satisfagan los requisitos contemplados en la normativa que establezca el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la que al menos incluirá: la exigencia del cumplimiento de todas las disposiciones legales y normativas aplicable para su apertura y funcionamiento; contar con un programa de adopciones; las características y forma de comprobación de la solvencia patrimonial y técnica de las instituciones a autorizar, así como moral para el caso de instituciones privadas, incluyendo de quienes las conforman y de sus directivos; y las condiciones adecuadas que deben guardar su personal, al igual que instalaciones y servicios para el modelo de atención. Dicha normativa también contemplará la temporalidad de la autorización; las características, periodicidad y modalidades de las verificaciones obligatorias a las organizaciones autorizadas, para renovar la autorización; la periodicidad de los registros e informe de las niñas, niños y adolescentes susceptibles de adopción;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Durante el procedimiento para la adopción ante el Sistema Estatal para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá autorizar familias de acogimiento pre-adoptivo para que acoja provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, conforme a los procedimientos que prevea su reglamento; la que asumirá todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez. Asimismo se preverá en el Reglamento el procedimiento de reincorporación de los menores al sistema que corresponda.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -3343,13 +3379,29 @@ VII. Constatar por todos los medios legales e idóneos, que los futuros padres s
 
 En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Quienes ejerzan la patria potestad de niñas, niños y adolescentes, deberán cuidarlos y atenderlos; protegerlos contra toda forma de abuso; tratarlos con respeto a su dignidad y orientarlos, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Quienes ejerzan la patria potestad deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
+
 ###### Art. 466.
 
 Los hijos menores de edad no emancipados están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Art. 467.
 
-La patria potestad se ejerce sobre la persona y bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes aplicables.
+La patria potestad se ejerce sobre la persona y bienes de los hijos. Quienes ejerzan la patria potestad darán cumplimiento a su cargo de manera coordinada y respetuosa. Su ejercicio queda sujeto, en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -3379,21 +3431,39 @@ IV. Si de la valoración que haga el juez de los abuelos del o los menores, resu
 
 Cuando los dos progenitores han reconocido al hijo nacido fuera de matrimonio y viven juntos, ejercerán ambos la patria potestad.
 
-Si viven separados se observará en su caso lo dispuesto en los artículos 436 y 437.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Si viven separados se observará en su caso lo dispuesto en el artículo 436.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 470.
 
-En los casos previstos en los artículos 436 y 437, cuando por cualquiera circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
+En los casos previstos en el artículo 436, cuando por cualquiera circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 471.
 
-Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el Juez, teniendo siempre en cuenta los intereses del hijo.
+Quienes ejerzan la patria potestad, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa. En caso de que no lo hicieren, el juez, oyendo a los padres, resolverá lo que creyere más conveniente a los intereses del menor.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Art. 472.
 
 A falta de padres, ejercerán la patria potestad sobre el hijo reconocido los ascendientes a los que se refiere el artículo 468, siguiendo las disposiciones establecidas en ese mismo artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional competente con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
@@ -3429,11 +3499,17 @@ El juez aplicará las medidas previstas en el Código de Procedimientos Civiles 
 
 Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen sin permiso de ellos o decreto de la autoridad competente.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 476.
 
-A las personas que tienen al hijo bajo su patria potestad incumbe la obligación de educarlo convenientemente. Cuando llegue a conocimiento del Agente del Ministerio Público o, en su caso, de la Procuraduría en Materia de Asistencia Social, que las personas de que se trata no cumplen con esta obligación, promoverá lo que corresponda.
+A las personas que tienen al hijo bajo su patria potestad incumbe la obligación de educarlo convenientemente. Cuando llegue a conocimiento del Agente del Ministerio Público o, en su caso, de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, que las personas de que se trata no cumplen con esta obligación, promoverá lo que corresponda.
+
+Las niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial, deberán ser sujetos de medida especial de protección subsidiaria y priorizando las opciones de cuidado en un entorno familiar, se les podrá ubicar con su familia extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior; o que sean recibidos por una familia de acogida, en los casos en los cuales ni los progenitores, ni la familia extensa pudiera hacerse cargo; o bien, ubicarlos, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+
+Para ello la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá otorgar certificación como familia de acogida a aquellas que reúnan los requisitos de acuerdo a la reglamentación de esa institución, para que brinde cuidado, protección, crianza positiva y la promoción del bienestar social, de niñas niños y adolescentes por un tiempo limitado, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3587,6 +3663,12 @@ V. (DEROGADA, P.O. 30 DE JULIO DE 1996)
 
 VI. El incumplimiento de la obligación alimentaria por más de noventa días, sin causa justificada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+No serán considerados supuestos de abandono para los efectos de éste artículo, cuando por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia de los menores, las personas que ejerzan la patria potestad tengan dificultades para atenderlos de manera permanente, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
+
 ###### Art. 498.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
@@ -3636,6 +3718,12 @@ El ascendiente que renuncie a la patria potestad o se excuse de desempeñarla, n
 El objeto de la tutela es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señala la ley.
 
 En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades que le impongan las leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+Quienes ejerzan la tutela de niñas, niños y adolescentes, deberán cuidarlos y atenderlos; protegerlos contra toda forma de abuso; tratarlos con respeto a su dignidad y orientarlos, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas. Asimismo, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
 
 ###### Art. 503.
 
@@ -3825,7 +3913,9 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 ### Capítulo V. De la tutela legítima de los menores expósitos o abandonados
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 540.
 
@@ -3857,7 +3947,15 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 ###### Art. 546.
 
-Los menores expósitos o abandonados quedan legalmente bajo la tutela del Procurador o Procuradores Auxiliares en materia de asistencia social, quienes tendrán las obligaciones, facultades y restricciones establecidas para los demás tutores.
+Los menores expósitos o abandonados quedan legalmente bajo la tutela de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 546 Bis.
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá otorgar certificación como familia de acogida a aquellas que reúnan los requisitos de acuerdo a la reglamentación de esa institución, para que brinde cuidado, protección, crianza positiva y la promoción del bienestar social, de niñas niños y adolescentes que se encuentran en la situación prevista en el artículo 546 de este ordenamiento, por un tiempo limitado, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
 
 ###### Art. 547.
 
@@ -6989,7 +7087,7 @@ El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta eda
 
 ###### Art. 1139.
 
-Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; mas si estuviere constituido sobre una hacienda, quinta o rancho de que sólo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
+Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; mas si estuviere constituido sobre una hacienda, quinta o rancho de que solo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
 
 ###### Art. 1140.
 
@@ -17000,3 +17098,47 @@ Artículo Único. El presente Decreto entrará en vigencia al siguiente día de 
 P.O. 21 DE ABRIL DE 2015.
 
 Artículo Único. El presente Decreto entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
