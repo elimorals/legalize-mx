@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-general-del-h-tribunal-superior-de-3664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-08-30"
-last_updated: "2014-07-22"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR GENERAL DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, DE LOS JUZGADOS DE PRIMERA INSTANCIA, MENORES Y DE CONCILIACIÓN Y DE LAS DEMÁS DEPENDENCIAS DEL PROPIO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR GENERAL DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Campeche, el viernes 30 de agosto de 1991.
 
@@ -1470,3 +1472,15 @@ P.O. 22 DE JULIO DE 2014.
 PRIMERO: Las derogaciones y reformas al Reglamento Interior General del Honorable Tribunal Superior de Justicia del Estado, de los Juzgados de Primera Instancia, Menores y de Conciliación y de las demás dependencias del propio Tribunal, entrarán en vigor en los términos y plazo establecidos en el artículo 3 del Código Civil vigente en el Estado.
 
 SEGUNDO: Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche y en el Portal de Transparencia del Poder Judicial.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Con fundamento en los Artículos 3 y 4 del Código Civil vigente en el Estado y para los efectos previstos en dichas disposiciones remítase un ejemplar al Periódico Oficial del Gobierno del Estado para su publicación por una sola vez.
+
+SEGUNDO.- Se abroga el Reglamento Interior General del Honorable Tribunal Superior de Justicia del Estado, publicado en el Periódico Oficial del Estado el día treinta de agosto de mil novecientos noventa y uno.
+
+TERCERO.- Quedan insubsistentes todas las disposiciones y acuerdos generales emitidos por el Tribunal Pleno con anterioridad a este Reglamento, que se opongan al mismo.
+
+CUARTO.- Las disposiciones relativas a los Jueces de control y Tribunales de enjuiciamiento entrarán en vigor en los términos de la declaratoria que establece en el Estado de Campeche el Sistema de Justicia Penal Acusatorio y Oral y una vez que haya entrado en vigor el Código Nacional de Procedimientos Penales. Entretanto, los actuales Jueces de Primera Instancia del Ramo Penal continuarán ejerciendo sus atribuciones de conformidad con el sistema penal vigente.
+
+QUINTO.- El Pleno del Tribunal Superior de Justicia del Estado, expedirá los Reglamentos internos en los casos en que se requiera, para los órganos y áreas administrativas que se han incorporado al presente Reglamento, así como los acuerdos y disposiciones legales o, en su caso, modificaciones legales que sean necesarias para la correcta implementación del presente Decreto, en un plazo no mayor a noventa días.- Cúmplase.- Así lo acordó el Pleno del Honorable Tribunal Superior de Justicia del Estado.-
