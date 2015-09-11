@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-de-lo-contencioso-61354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-29"
-last_updated: "2014-07-25"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 29 de abril de 2008.
 
@@ -669,11 +669,57 @@ VIII. Administrar los recursos tecnológicos del Tribunal para su mejor aprovech
 
 IX. Las demás que le encomienden las disposiciones legales y administrativas y las que le encomiende el Consejo, el Presidente o la Dirección Administrativa.
 
-### CAPÍTULO OCTAVO. DEL INSTITUTO DE LA JUSTICIA ADMINISTRATIVA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO OCTAVO. DE LA COORDINACIÓN DE ACTUARIOS
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 42 Bis.
+
+La Coordinación de Actuarios se integrará por un Coordinador, los Actuarios y el Personal Administrativo necesario para el cumplimiento de su función que determine el Consejo Administrativo.
+
+El Coordinador de Actuarios deberá satisfacer los requisitos del artículo 22 de la Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 42 Ter.
+
+La Coordinación de Actuarios tendrá las siguientes atribuciones:
+
+I. Coordinar, dirigir y organizar las actividades necesarias para el mejor desempeño en la práctica de las notificaciones y diligencias que le sean encomendadas por el Secretario General de Acuerdos y los Secretarios de Estudio y Cuenta, conforme al Código;
+
+II. Registrar y distribuir en forma equitativa y sistematizada entre los actuarios, la práctica de las notificaciones, citaciones, emplazamientos y demás diligencias que dispongan, de acuerdo a la carga de actividades jurisdiccionales, de tal manera que se prioricen los tiempos disponibles;
+
+III. Llevar los libros de registro por cada una de las Salas y de la Secretaría General de Acuerdos, en coordinación con los actuarios;
+
+IV. Recibir y verificar que los acuerdos y resoluciones estén integradas por la Secretaría General de Acuerdos y las Salas del Tribunal, para la práctica de las notificaciones o diligencias, con la finalidad de que los Actuarios puedan cumplir debidamente su función;
+
+V. Recibir y verificar que las constancias materia de notificación o diligencias practicadas por los Actuarios estén completas, en orden y hayan sido realizadas dentro del término que para tal efecto señala el Código;
+
+VI. Entregar a la brevedad al Secretario General de Acuerdos y a los Secretarios de Estudio y Cuenta, en forma ordenada y progresiva, las notificaciones y diligencias practicadas por los Actuarios, recabando el acuse respectivo;
+
+VII. Conocer para su atención y solución, de las dificultades operativas, administrativas y de cualquier otra circunstancia que impida el desarrollo ordinario de la función, que le sea informada por los Actuarios y el personal auxiliar;
+
+VIII. Proponer al Consejo Administrativo el rol de guardias durante los periodos vacacionales, el cual se formulará en forma equitativa y aleatoria;
+
+IX. Guardar y hacer guardar el orden y respeto en el área de actuaría;
+
+X. Controlar los vehículos asignados a la Coordinación de Actuarios y reportar al Consejo Administrativo, para su oportuna atención, las incidencias relacionadas con aquéllos;
+
+XI. Procurar una comunicación constante con el Secretario General de Acuerdos y los Secretarios de Estudio y Cuenta, para subsanar los errores u omisiones involuntarios que se generen durante el desarrollo de su función;
+
+XII. Generar las propuestas que se consideren necesarias para establecer medidas de mejora y productividad;
+
+XIII. Rendir mensualmente, un informe de actividades al Presidente del Tribunal; y
+
+XIV. Las demás que le confieran la Ley, el Reglamento y disposiciones generales que emita el Pleno o el Consejo.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO OCTAVO], P.O. 11 DE SEPTIEMBRE DE 2015)
+
+### CAPÍTULO NOVENO. DEL INSTITUTO DE LA JUSTICIA ADMINISTRATIVA
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2011)</small>
-
-### CAPÍTULO NOVENO. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 43.
 
@@ -789,13 +835,17 @@ d) Analizar y formular propuestas para el desarrollo del Servicio Administrativo
 
 IV. Las demás que le encomiende, el Consejo, el Presidente o el Director del Instituto.
 
-### CAPÍTULO DÉCIMO. DE LA UNIDAD DE CONTROL INTERNO
+(REUBICADO [N. DE E. ANTES CAPÍTULO NOVENO], P.O. 11 DE SEPTIEMBRE DE 2015)
+
+### CAPÍTULO DÉCIMO. DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA
 
 ###### Artículo 48.
 
 La Unidad de Acceso a la Información Pública será el vínculo entre el solicitante de Información y el Tribunal y contará con un titular que se denominará Coordinador de la Unidad de Acceso a la Información quien será designado por el Consejo a propuesta del Presidente y contará con las atribuciones establecidas en la Ley y el Reglamento correspondientes.
 
-### CAPÍTULO UNICO
+(REUBICADO [N. DE E. ANTES CAPÍTULO DÉCIMO], P.O. 11 DE SEPTIEMBRE DE 2015)
+
+### CAPÍTULO UNDÉCIMO. DE LA UNIDAD DE CONTROL INTERNO
 
 ###### Artículo 49.
 
@@ -843,7 +893,7 @@ XII. Las demás que le confieran las leyes y los reglamentos, así como los acue
 
 ## TÍTULO TERCERO. DE LAS LICENCIAS Y PERMISOS
 
-### CAPÍTULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 54], P.O. 11 DE FEBRERO DE 2011)
+### CAPÍTULO UNICO
 
 ###### Artículo 52.
 
@@ -860,6 +910,8 @@ Los permisos con goce de sueldo que no excedan de tres días en un mes podrán s
 Las ausencias del personal por licencias por maternidad, incapacidades por enfermedad general y riesgos de trabajo, se podrán suplir mediante acuerdo del Consejo.
 
 ## TÍTULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPÍTULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 54], P.O. 11 DE FEBRERO DE 2011)
 
 ###### Artículo 55.
 
@@ -916,3 +968,9 @@ P.O. 25 DE OCTUBRE DE 2013.
 P.O. 25 DE JULIO DE 2014.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
