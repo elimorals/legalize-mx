@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-adolescentes-del-estado-de-guanajuato-5137
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2013-06-07"
+last_updated: "2015-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015, NÚMERO 154, DÉCIMA TERCERA PARTE, PÁGINA 93 Y EL 2 DE OCTUBRE DE 2015, NÚMERO 158, CUARTA PARTE, PAGINA 3, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -49,7 +51,7 @@ LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
 La presente Ley es de orden público, interés general y observancia obligatoria en el Estado de Guanajuato; establece el Sistema Integral de Justicia para Adolescentes previsto por los artículos 18 de la Constitución General de la República y 13 de la Constitución Política para el Estado, y tiene por objeto:
 
-l. Establecer las bases del Sistema Integral de Justicia para Adolescentes en el Estado de Guanajuato, integrado por instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes y en la ejecución de las medidas dictadas;
+I. Establecer las bases del Sistema Integral de Justicia para Adolescentes en el Estado de Guanajuato, integrado por instituciones, tribunales y autoridades especializadas en la procuración e impartición de justicia para adolescentes y en la ejecución de las medidas dictadas;
 
 II. Garantizar los derechos del adolescente a quien se atribuya o declare ser autor o partícipe de una conducta tipificada como delito en las leyes del Estado;
 
@@ -103,7 +105,7 @@ XII. Policía Especializada: el órgano auxiliar en el ejercicio de las atribuci
 
 Son principios rectores de la presente Ley:
 
-l. La protección integral y el interés superior del adolescente, reflejado en el reconocimiento a su calidad de persona, sujeto de derechos y responsabilidades;
+I. La protección integral y el interés superior del adolescente, reflejado en el reconocimiento a su calidad de persona, sujeto de derechos y responsabilidades;
 
 II. El respeto a los derechos humanos, garantías individuales y derechos específicos del adolescente;
 
@@ -115,9 +117,11 @@ V. La protección de los derechos de la víctima u ofendido.
 
 Las autoridades encargadas de la aplicación de la presente Ley, en el ámbito de su competencia y en coordinación con otras instituciones del sector público, así como con los sectores social y privado, promoverán los programas orientados a esos fines, y a la prevención de las conductas antisociales.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
 
-La interpretación y aplicación de las disposiciones de esta Ley, deberán hacerse en armonía con sus principios rectores, los principios generales del derecho, particularmente del derecho penal y procesal penal, y con la doctrina en materia de adolescentes, en la forma que mejor garanticen los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella se deriven, en los instrumentos internacionales suscritos y ratificados por el Estado Mexicano y en la Constitución Política para el Estado de Guanajuato.
+La interpretación y aplicación de las disposiciones de esta ley, deberán hacerse en armonía con sus principios rectores, los principios generales del derecho, particularmente del derecho penal y procesal penal, así como con la Ley General de los Derechos de Niñas, Niños y Adolescentes, Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato y con la doctrina en materia de adolescentes, en la forma que mejor garanticen los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella se deriven, en los instrumentos internacionales suscritos y ratificados por el Estado Mexicano y en la Constitución Política para el Estado de Guanajuato.
 
 ## TÍTULO SEGUNDO. SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES
 
@@ -127,7 +131,7 @@ La interpretación y aplicación de las disposiciones de esta Ley, deberán hace
 
 Son autoridades competentes para la aplicación de esta Ley:
 
-l. La Procuraduría General de Justicia del Estado, por conducto del Ministerio Público Especializado, en lo que corresponde a la investigación de las conductas tipificadas como delitos en las leyes del Estado atribuidas a los adolescentes, así como a promover la incoación del proceso ante el Juez para Adolescentes competente.
+I. La Procuraduría General de Justicia del Estado, por conducto del Ministerio Público Especializado, en lo que corresponde a la investigación de las conductas tipificadas como delitos en las leyes del Estado atribuidas a los adolescentes, así como a promover la incoación del proceso ante el Juez para Adolescentes competente.
 
 En la investigación de las conductas atribuidas al adolescente, el Ministerio Público Especializado se auxiliará de una Policía Especializada;
 
@@ -209,7 +213,7 @@ La Defensoría de Oficio Especializada contará con el número de defensores de 
 
 Para ser defensor de oficio especializado, además de reunir los requisitos previstos por la Ley de la Defensoría Pública Penal del Estado de Guanajuato, se requiere cumplir con los siguientes:
 
-l. Contar con capacitación en materia de adolescentes; y
+I. Contar con capacitación en materia de adolescentes; y
 
 II. No haber sido condenado por delito de carácter intencional.
 
@@ -219,7 +223,7 @@ II. No haber sido condenado por delito de carácter intencional.
 
 Los defensores de oficio especializados tendrán adicionalmente a las facultades y obligaciones previstas en la Ley de la Defensoría Pública Penal del Estado de Guanajuato para los defensores de oficio, las siguientes:
 
-l. En cualquier fase del procedimiento:
+I. En cualquier fase del procedimiento:
 
 a) Apegarse en el ejercicio de sus funciones a los lineamientos previstos en esta Ley;
 
@@ -301,7 +305,7 @@ Para el cumplimiento de sus funciones la Defensoría de Oficio Especializada se 
 
 Corresponde exclusivamente al Juez para Adolescentes, en primera instancia:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 I. Declarar en la forma y términos que esta Ley establece, cuando la conducta atribuida esté o no tipificada como delito en las leyes del Estado o en otras leyes que deban aplicar los tribunales del Estado;
 
@@ -325,7 +329,7 @@ Al Juez de Impugnación le corresponde, en segunda instancia, conocer y resolver
 
 El Juez de Ejecución será el encargado de conocer y resolver lo relativo a la ejecución de las medidas previstas en las fracciones III a VII del artículo 101 de esta Ley, para lo cual tendrá las siguientes facultades:
 
-l. Resolver lo relativo a la suspensión, cumplimiento y variación de las condiciones de ejecución de las medidas impuestas por el Juez para Adolescentes en los términos de esta Ley;
+I. Resolver lo relativo a la suspensión, cumplimiento y variación de las condiciones de ejecución de las medidas impuestas por el Juez para Adolescentes en los términos de esta Ley;
 
 II. Aprobar el cumplimiento de los Programas Personalizados de Ejecución que al efecto se elaboren respecto de las medidas dictadas por el Juez para Adolescentes y, en su caso, velar por que se lleven a cabo;
 
@@ -693,7 +697,7 @@ El Ministerio Público Especializado o el Juez para Adolescentes podrán otorgar
 
 Para los efectos de la libertad provisional bajo caución se considerarán conductas sobre las que no procede este beneficio, en virtud de su gravedad, las siguientes previstas en el Código Penal:
 
-l. Homicidio previsto por el artículo 138, con relación a los artículos 139, 140 y 153, así corno en grado de tentativa con relación al artículo 18;
+I. Homicidio previsto por el artículo 138, con relación a los artículos 139, 140 y 153, así como en grado de tentativa con relación al artículo 18;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -743,7 +747,7 @@ La corrección disciplinaria y el medio de apremio se aplicarán de acuerdo a la
 
 En cualquier etapa de la investigación o del proceso, previa vista y consentimiento, requerirá a los padres, tutores o quienes ejerzan la patria potestad o la custodia del adolescente a colaborar con el cumplimiento de las siguientes actividades:
 
-l. Asistir a programas públicos, sociales o privados de protección y orientación individual y familiar;
+I. Asistir a programas públicos, sociales o privados de protección y orientación individual y familiar;
 
 II. Inclusión en programas públicos, sociales o privados de auxilio, orientación y tratamiento a alcohólicos, neuróticos y toxicómanos;
 
@@ -967,7 +971,7 @@ En casos urgentes el Ministerio Público Especializado podrá, bajo su responsab
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-l. Que el adolescente haya intervenido en cualquier forma en la comisión de alguna conducta señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado;
+I. Que el adolescente haya intervenido en cualquier forma en la comisión de alguna conducta señalada como grave en el artículo 26 A de esta Ley o en otras leyes que deban aplicar los tribunales del Estado;
 
 II. Que exista riesgo fundado de que el adolescente pueda sustraerse a la acción de la justicia; y
 
@@ -987,7 +991,7 @@ Si la integración de la investigación requiere mayor tiempo del señalado, el 
 
 La remisión que haga el Ministerio Público Especializado, deberá contener lo siguiente:
 
-l. Datos del adolescente;
+I. Datos del adolescente;
 
 II. Tipificación fundada y motivada de la conducta realizada;
 
@@ -1087,7 +1091,7 @@ De la información proporcionada al adolescente sobre las circunstancias mencion
 
 La resolución que determine provisionalmente la situación jurídica del adolescente, que se dictará dentro del plazo de setenta y dos horas de haber sido puesto a disposición del Juez para Adolescentes o de ciento cuarenta y cuatro horas en caso de que el adolescente o su defensor así lo soliciten para aportar pruebas, contendrá los siguientes requisitos:
 
-l. Lugar, fecha y hora en que se emita;
+I. Lugar, fecha y hora en que se emita;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1123,7 +1127,7 @@ Cuando se trate de conductas consideradas como graves en el artículo 26 A de es
 
 En los casos de conductas consideradas como delitos no graves en el Código Penal o en otras leyes que deban aplicar los tribunales del Estado, o que siéndolo se realicen por un adolescente que tenga entre doce y catorce años de edad, se pronunciará sólo auto de sujeción a proceso y se dictarán una o algunas de las siguientes medidas cautelares, según resulte pertinente:
 
-l. Prohibición de acercarse a la víctima o a otras personas, de concurrir a determinados lugares, o de tener contacto con personas determinadas; y
+I. Prohibición de acercarse a la víctima o a otras personas, de concurrir a determinados lugares, o de tener contacto con personas determinadas; y
 
 II. Obligación de concurrir periódicamente ante el Juez para Adolescentes o ante la autoridad que éste determine, para su sometimiento al proceso.
 
@@ -1187,7 +1191,7 @@ Recibidas las conclusiones y desahogada la opinión del Comité Auxiliar Técnic
 
 La sentencia, además de ser pronunciada en lenguaje claro para el adolescente, deberá reunir los siguientes requisitos:
 
-l. Lugar, fecha y hora en que se emita;
+I. Lugar, fecha y hora en que se emita;
 
 II. Datos personales del adolescente;
 
@@ -1211,11 +1215,11 @@ VII. El nombre y la firma del Juez para Adolescentes que la emita y la del secre
 
 Las resoluciones que no admitan apelación podrán impugnarse mediante la revocación, que sólo podrá ser interpuesta por las partes dentro de los tres días siguientes al de la notificación de la resolución recurrida, expresando los conceptos de agravio.
 
-###### Articulo 92.
+###### Artículo 92.
 
 Interpuesta la revocación, el Juez para Adolescentes determinará si la admite, en cuyo caso podrá resolverla de plano o bien, dará vista a la contraparte y señalará fecha y hora para la celebración de una audiencia en la que las partes podrán expresar lo que a su interés convenga. Una vez desahogada se emitirá la resolución en el plazo de tres días, en la que se podrá confirmar, modificar o revocar la determinación impugnada. Contra el fallo de la revocación no podrá interponerse ningún recurso.
 
-###### Articulo 93.
+###### Artículo 93.
 
 La revocación interpuesta en contra de las decisiones asumidas en el desahogo de diligencias o audiencias de derecho, se interpondrá en forma verbal inmediatamente después de haber tenido conocimiento de la decisión que se impugne; al interponerla, se expresarán los conceptos de agravio. La decisión de este recurso se asumirá de plano en la misma diligencia.
 
@@ -1225,7 +1229,7 @@ La revocación interpuesta en contra de las decisiones asumidas en el desahogo d
 
 Son apelables las siguientes resoluciones:
 
-l. La que niegue una orden de cateo, detención o comparecencia;
+I. La que niegue una orden de cateo, detención o comparecencia;
 
 II. La que califique como legalmente efectuada la detención o retención de un adolescente decretada por el Ministerio Público Especializado;
 
@@ -1383,7 +1387,7 @@ En las condiciones señaladas, las jornadas de servicios a la comunidad deberán
 
 La libertad asistida consiste, alternativamente, en integrar al adolescente, involucrando a su familia, a:
 
-l. Programas de atención, orientación, información y formación referentes a problemas de conducta, introyección de normas y valores familiares, sociales y jurídicos; problemática de jóvenes, farmacodependencia, sexualidad, faltas cívicas, equidad de género, comunicación efectiva y uso del tiempo libre;
+I. Programas de atención, orientación, información y formación referentes a problemas de conducta, introyección de normas y valores familiares, sociales y jurídicos; problemática de jóvenes, farmacodependencia, sexualidad, faltas cívicas, equidad de género, comunicación efectiva y uso del tiempo libre;
 
 II. Obtener la matrícula y asistir con regularidad a un centro de educación formal u otro cuyo objetivo sea enseñarle alguna profesión u oficio;
 
@@ -1401,7 +1405,7 @@ Esta medida tendrá una duración de hasta dos años, salvo cuando el tratamient
 
 La observación de reglas de conducta consiste en la imposición de obligaciones y prohibiciones a cargo del adolescente y consistirán en:
 
-l. Residir en determinado lugar o cambiarse de él;
+I. Residir en determinado lugar o cambiarse de él;
 
 II. No acudir a determinados domicilios, lugares o establecimientos en que se encuentre la víctima u ofendido o que resulten inconvenientes para el sano desarrollo de aquél;
 
@@ -1489,7 +1493,7 @@ Una vez que el Juez para Adolescentes aplique la medida, remitirá copia certifi
 
 Durante la ejecución de las medidas, el adolescente tendrá, como mínimo, los siguientes derechos:
 
-l. A que se le aplique un Programa Personalizado de Ejecución. Sus padres, tutores o quienes ejerzan la patria potestad o la custodia conocerán su contenido y podrán darle seguimiento;
+I. A que se le aplique un Programa Personalizado de Ejecución. Sus padres, tutores o quienes ejerzan la patria potestad o la custodia conocerán su contenido y podrán darle seguimiento;
 
 II. A ser informado desde el inicio de la ejecución de la medida de internamiento, sobre:
 
@@ -1591,7 +1595,7 @@ I. Haber cubierto al menos el sesenta por ciento de la medida impuesta;
 
 II. Que no se le hayan aplicado reiteradamente correcciones disciplinarias durante su internamiento;
 
-III. En su caso, carta compromiso de los padres, tutores o quienes ejerzan la patria potestad o la custodia, en la que se responsabilicen de que el adolescente cumplirá con las obligaciones que le sean impuestas; y (sic)
+III. En su caso, carta compromiso de los padres, tutores o quienes ejerzan la patria potestad o la custodia, en la que se responsabilicen de que el adolescente cumplirá con las obligaciones que le sean impuestas; y
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1609,7 +1613,7 @@ El beneficiado con la suspensión de la medida deberá residir en el lugar que s
 
 Las obligaciones a que se refiere la fracción III del artículo anterior y que se cumplirán durante el tiempo de la medida que faltaba por cumplir, son:
 
-l. Presentarse ante el Juez de Ejecución con la periodicidad que se le indique;
+I. Presentarse ante el Juez de Ejecución con la periodicidad que se le indique;
 
 II. Continuar en externación con el tratamiento derivado de la medida que se le haya impuesto en la sentencia;
 
@@ -1836,3 +1840,47 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+
+Plazos para ajustar reglamentos y decretos
+
+Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Plazo para establecer un área especializada
+
+Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
+
+Término para adecuar la normatividad estatal
+
+Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
+
+Término para adecuar la normatividad municipal
+
+Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
+
+Constitución de la Procuraduría Estatal de Protección
+
+Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
+
+Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
+
+Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
+
+Adecuaciones de los Centros de Asistencia Social
+
+Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
+
+Designación de representantes de la sociedad civil ante el Sistema
+
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
