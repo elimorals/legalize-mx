@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-crea-el-instituto-de-atencion-a-migrantes-del-44548"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-13"
-last_updated: "2012-09-11"
+last_updated: "2015-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY QUE CREA EL INSTITUTO DE ATENCIÓN A MIGRANTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MIGRACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, Edición Extraordinaria, el 13 de Julio de 2004.
 
@@ -432,3 +434,19 @@ P.O. 11 DE SEPTIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la entrada en vigor de esta Ley se ABROGA la Ley que Crea el Instituto de Atención a Migrantes, publicada en el Periódico Oficial del Estado el 13 de julio de 2004.
+
+TERCERO. El Instituto de Atención a Migrantes del Estado de San Luis Potosí, creado en la Ley que se ABROGA, en virtud de este Decreto pasa a ser el Instituto de Migración y Enlace Internacional del Estado de San Luis Potosí; su patrimonio, recursos humanos y materiales, presupuesto asignado, obligaciones contraídas, y demás bienes que lo constituyen, pasan de manera íntegra al Instituto que se crea mediante la presente Ley.
+
+CUARTO. Se autoriza al Poder Ejecutivo del Estado realizar los ajustes y/o ampliaciones presupuestales que se hagan necesarias, para que el Instituto pueda reestructurarse y dar cumplimiento a las atribuciones que le asigna la presente Ley.
+
+QUINTO. Los trabajadores de base, de confianza, o contratados por régimen de honorarios en el Instituto de Atención a Migrantes del Estado de San Luis Potosí, pasan a formar parte de la plantilla laboral del Instituto de Migrantes y Enlace Internacional del Estado de San Luis Potosí, conservando su antigüedad, salarios, derechos adquiridos y demás derechos concedidos, en su caso, en los contratos colectivos que se hayan celebrado con sus respectivos sindicatos.
+
+SEXTO. La armonización de la legislación del Estado en materia de, salud; educación; trabajo; actos del Registro Civil; procuración e impartición de justicia; derechos electorales; y el derecho a la identidad de las personas migrantes y sus familias, se realizará durante los ciento ochenta días hábiles siguientes a la entrada en vigor de esta Ley.
+
+SÉPTIMO. El Ejecutivo del Estado deberá emitir el Reglamento de esta Ley; y el Instituto su Reglamento Interior, dentro de los noventas días hábiles siguientes a la entrada en vigor del presente Ordenamiento.
