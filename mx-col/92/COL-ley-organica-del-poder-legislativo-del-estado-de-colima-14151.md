@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2014-02-22"
+last_updated: "2015-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -445,11 +445,11 @@ El Presidente del Congreso puesto de pie, al igual que los demás Diputados y el
 
 El Gobernador del Estado y el Presidente del Supremo Tribunal de Justicia, asistirán como invitados de honor a las sesiones solemnes de instalación de la Legislatura y a la apertura del primer período ordinario de sesiones de cada año de ejercicio constitucional de la misma.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 36.
 
-El sexto informe de gobierno que corresponda al período constitucional del Gobernador, se rendirá el primero de octubre de ese año.
+- El Gobernador del Estado presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la Entidad y el cumplimiento del Plan Estatal de Desarrollo, el 1° de octubre de cada año, con motivo de la apertura de sesiones ordinarias del primer periodo de cada año de ejercicio del Congreso, en términos de lo dispuesto por el artículo 31 de la Constitución.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2008)</small>
 
@@ -563,7 +563,7 @@ XXI.- Firmar, junto con los Secretarios, la remisión al Titular del Poder Ejecu
 
 XXII.- Llevar la representación del Congreso en ceremonias y, en general, en todos los actos públicos. Designar comisiones de entre los Diputados para ostentar la representación del Congreso en los actos a los que él no pudiera concurrir;
 
-XXIII.- Motivar a las comisiones para que presenten sus dictámenes en los tiempos reglamentarios; y (sic)
+XXIII.- Motivar a las comisiones para que presenten sus dictámenes en los tiempos reglamentarios; y
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -1470,3 +1470,7 @@ P.O. 12 DE OCTUBRE DE 2013.
 P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 12 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial “El Estado de Colima”.
