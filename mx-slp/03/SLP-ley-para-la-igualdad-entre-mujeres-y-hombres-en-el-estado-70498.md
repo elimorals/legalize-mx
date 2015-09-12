@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-70498
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2009-09-19"
+last_updated: "2015-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE SAN LUIS POTOSI
 
-LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE SAN LUIS POTOSI
+LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 12 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL UNO DE OCTUBRE DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -37,7 +39,7 @@ EXPOSICION DE MOTIVOS.
 
 Es así como, para el gobierno y la sociedad de San Luis Potosí, el respeto a la dignidad de los seres humanos y la igualdad entre mujeres y hombres, son condiciones indispensables para el pleno disfrute de todos los derechos humanos, al tiempo que son condiciones previas para el desarrollo sustentable centrado en las personas.
 
-LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE SAN·LUIS POTOSI
+LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE SAN LUIS POTOSI
 
 TlTULO PRlMERO
 
@@ -51,7 +53,7 @@ Las disposiciones de la presente Ley son de orden público, interés social y de
 
 l. Garantizar la igualdad entre mujeres y hombres;
 
-Il Regular la coordinación institucional bajo los principios de igualdad y no discriminación;
+II. Regular la coordinación institucional bajo los principios de igualdad y no discriminación;
 
 III. Establecer los lineamientos y mecanismos institucionales que orienten al Estado de San Luis Potosí, hacia el cumplimiento de la igualdad entre mujeres y hombres en todos los ámbitos, y
 
@@ -131,7 +133,7 @@ VI. Proponer iniciativas y políticas de cooperación para el desarrollo de meca
 
 Para hacer efectivo el cumplimiento de la presente Ley, la o el titular del Ejecutivo, en los términos del artículo 80 fracción VII de la Constitución Política del Estado, deberá incluir en la Ley del Presupuesto de Egresos que presente al Congreso del Estado, los recursos necesarios para la ejecución de las acciones derivadas de la misma, así como para el desarrollo del Programa Estatal y los propósitos del Sistema Estatal; al efecto, las diversas dependencias y entidades que conforman el mismo, propondrán oportunamente al Gobernador o Gobernadora del Estado, en sus respectivas partidas, los recursos qué deban etiquetarse para esos fines.
 
-En la celebración de convenios o acuerdos de coordinación, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos necesarios par el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa y presupuestaria correspondiente.
+En la celebración de convenios o acuerdos de coordinación, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos necesarios para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa y presupuestaria correspondiente.
 
 ###### ARTICULO 10.
 
@@ -165,11 +167,13 @@ X. Crear en cada una de las dependencias y entidades que conforman la administra
 
 XI. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
-ARTICULO12. Corresponde al Congreso del Estado:
+###### ARTICULO 12.
+
+Corresponde al Congreso del Estado:
 
 I. Vigilar que el marco jurídico estatal esté debidamente armonizado con los compromisos internacionales suscritos por México, en materia de igualdad y no discriminación, así como con las normas federales en la materia;
 
-II. Promover las iniciativas correspondientes para dar cumplimento a lo previsto en dichos ordenamientos y en la presente Ley;
+II. Promover las iniciativas correspondientes para dar cumplimiento a lo previsto en dichos ordenamientos y en la presente Ley;
 
 III. Garantizar que las disposiciones legales necesarias para promover los principios, políticas y objetivos que sobre la igualdad entre mujeres y hombres se expidan, se consideren las acciones presupuestales necesarias para garantizar su ejecución, y
 
@@ -179,7 +183,7 @@ IV. Capacitar, a través del Instituto de Investigaciones Legislativas, en coord
 
 El Poder Judicial del Estado, con base en los principios y disposiciones de esta Ley:
 
-I. Implementará mecanismos y acciones encaminadas a promover y garantizar la igualdad en el acceso y promoción de las y los funcionarios judiciales, en la carera judicial;
+I. Implementará mecanismos y acciones encaminadas a promover y garantizar la igualdad en el acceso y promoción de las y los funcionarios judiciales, en la carrera judicial;
 
 II. Capacitará a las y los jueces, y al personal judicial, en materia de derechos humanos, derechos específicos de personas y grupos considerados vulnerables, en teoría de género, y en los mecanismos de administración de justicia con perspectiva de género, y
 
@@ -552,3 +556,13 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Esta Ley entrará en vigor a partir del uno de octubre de 2015, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. A la entrada en vigor de este Decreto, se abroga la Ley para la Igualdad entre Mujeres y Hombres en el Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 19 de septiembre de 2009.
+
+TERCERO. Se deroga cualquier disposición que se oponga al presente Decreto.
