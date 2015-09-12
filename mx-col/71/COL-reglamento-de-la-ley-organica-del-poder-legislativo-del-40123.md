@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2014-02-22"
+last_updated: "2015-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -447,7 +447,7 @@ IV.- Vigilar que la Oficialía Mayor del Congreso, a través de la dependencia c
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2013)</small>
 
-V.- Cuidar que los dictámenes se entreguen oportunamente por medio electrónico a los Diputados, en los términos del artículo 135 de este Reglamento; y (sic)
+V.- Cuidar que los dictámenes se entreguen oportunamente por medio electrónico a los Diputados, en los términos del artículo 135 de este Reglamento; y
 
 > <small>(ADICIONADA, P.O. 21 DE JULIO DE 2007)</small>
 
@@ -799,7 +799,7 @@ II.- Los que se refieran a las observaciones que se estimen pertinentes al Plan 
 
 III.- Los relacionados con los programas y acciones encaminados a la consolidación y promoción de las actividades económicas del Estado;
 
-IV.- Participar como representante del Poder Legislativo en los consejos y comités de apoyo de las Secretarías de Planeación, de Turismo y de Fomento Económico, en los términos de la legislación aplicable; y (sic)
+IV.- Participar como representante del Poder Legislativo en los consejos y comités de apoyo de las Secretarías de Planeación, de Turismo y de Fomento Económico, en los términos de la legislación aplicable; y
 
 V.- Dictaminar conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales, iniciativas en materia de Fomento Económico y Turismo;
 
@@ -893,7 +893,7 @@ IX.- Asimismo deberá conocer de todos los mecanismos jurídicos de desarrollo d
 
 X.- Desde el ámbito legislativo, promoverá estudios y análisis del marco jurídico estatal en materia social, con el propósito de valorar, justa, imparcial y técnicamente, el impacto de los programas institucionales que se lleven a cabo por las dependencias del sector publico de los tres órdenes de gobierno, relacionados a la atención y combate a la pobreza, el desempleo, la inseguridad, entre otros problemas sociales, así como la eficacia del ejercicio de sus derechos constitucionales fundamentales, como los derechos relacionados con la salud, la educación, vivienda, así como del mejoramiento de los centros de población, su entorno urbano-vecinal, que impactan notablemente en el desarrollo o el rezago de las comunidades;
 
-XI.- Conocerá también de los asuntos relacionados con la aplicación justa de la Ley de Desarrollo Social, local y nacional, así como de la aplicación justa y equitativa, de los programas instituciones (sic) que las dependencias de la administración pública del sector, de los tres niveles de gobierno, lleven a cabo; y (sic)
+XI.- Conocerá también de los asuntos relacionados con la aplicación justa de la Ley de Desarrollo Social, local y nacional, así como de la aplicación justa y equitativa, de los programas instituciones (sic) que las dependencias de la administración pública del sector, de los tres niveles de gobierno, lleven a cabo; y
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2013)</small>
 
@@ -2169,13 +2169,15 @@ Al momento de rendir la protesta el Gobernador, los Diputados y demás asistente
 
 Cuando se trate de la sesión en que deban rendir la protesta constitucional algún Diputado, Magistrado del Poder Judicial o cualquier otro funcionario que esté obligado a rendirla ante el Congreso, la Asamblea, a propuesta del Presidente, designará una comisión de cortesía que lo introduzca y acompañe a salir del Recinto Legislativo.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 193.
 
-El informe que el Titular del Poder Ejecutivo rinde al Congreso del Estado, sobre el estado que guarda la Administración Pública de la Entidad, deberá llevarse a cabo el día 18 de diciembre de cada año en Sesión Solemne, que deberá celebrarse en la Sede del Poder Legislativo o en el lugar en que apruebe la Asamblea, a la que asistirán el Presidente del Supremo Tribunal de Justicia y los integrantes de la Legislatura, de conformidad al procedimiento establecido en el artículo 31 de la Constitución; con excepción del sexto Informe de Gobierno que deberá rendirse el primero de octubre de ese año.
+El informe que el Titular del Poder Ejecutivo presenta al Congreso del Estado, sobre el estado que guarda la Administración Pública de la Entidad, lo entregará por escrito en la sede del Poder Legislativo dirigido al Presidente de la Mesa Directiva del Congreso, de conformidad al procedimiento establecido en el artículo 31 de la Constitución.
 
-Después de haber rendido el Gobernador del Estado el informe, en sesiones subsecuentes comparecerán los Secretarios de la Administración Pública, el Procurador General de Justicia y funcionarios que sean requeridos de las mismas dependencias, y podrá hacerlo el Ejecutivo Estatal junto con el funcionario, para explicar, ampliar y dar contestación a las interrogantes que les formulen los Legisladores bajo el siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2015)</small>
+
+Después de haber presentado el Gobernador del Estado el informe, en sesiones subsecuentes comparecerán los Secretarios de la Administración Pública, el Procurador General de Justicia y funcionarios que sean requeridos de las mismas dependencias, y podrá hacerlo el Ejecutivo Estatal junto con el funcionario, para explicar, ampliar y dar contestación a las interrogantes que les formulen los Legisladores bajo el siguiente procedimiento:
 
 I.- La Comisión de Gobierno Interno y Acuerdos Parlamentarios, en cumplimiento a los artículos 8° y 9° de la Ley Orgánica del Poder Legislativo mediante acuerdo aprobado por la mayoría de la Asamblea, establecerá la fecha de la sesión y la agenda de comparecencias de los titulares de las Secretarías del Ejecutivo del Estado, y del Procurador General de Justicia del Estado con motivo de la glosa del informe del Gobernador;
 
@@ -2724,3 +2726,7 @@ P.O. 12 DE OCTUBRE DE 2013.
 P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
