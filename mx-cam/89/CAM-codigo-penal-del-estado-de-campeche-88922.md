@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2015-08-03"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -3511,17 +3511,21 @@ II. A quien se le hubiere prohibido ir a determinado lugar o a residir en él y 
 
 Al que esté suspendido o inhabilitado para ejercer su empleo, cargo, comisión, profesión u oficio, y quebrante su condena, se le impondrá multa de doscientos a cuatrocientos días de salario.
 
-### CAPÍTULO II. PELIGRO DE CONTAGIO Y PROPAGACION DE ENFERMEDADES
+### CAPÍTULO I BIS. DE LOS DELITOS COMETIDOS POR MOTIVO DE LA VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 331.
 
 Con independencia de las responsabilidades civiles y administrativas que pudieren corresponder, al que revele información relacionada con las medidas de protección acordadas para algún sujeto en situación de riesgo, y comprometa con ello la vida, la integridad corporal o la seguridad de la persona protegida, se le impondrán de uno a tres años de prisión y multa de cien a doscientos cincuenta días de salario. En caso de tratarse de un servidor público, la sanción se incrementará en una tercera parte, y se impondrá destitución del cargo e inhabilitación para ejercer empleo, cargo o comisión por un tiempo igual al de la sanción de prisión.
 
-### CAPÍTULO III. ALTERACIÓN Y DAÑOS AL AMBIENTE
+### CAPÍTULO II. PELIGRO DE CONTAGIO Y PROPAGACION DE ENFERMEDADES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 332.
 
@@ -3551,13 +3555,13 @@ Si el responsable de los delitos previstos en este Capítulo fuere defensor part
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA VERACIDAD NECESARIA PARA LA ADECUADA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. ALTERACIÓN Y DAÑOS AL AMBIENTE
 
 ###### Artículo 334.
 
 Al que sin ser abogado, defensor o litigante, simule un acto jurídico o escrito judicial, altere algún elemento de prueba o realice cualquier otro acto tendiente a inducir a error a la autoridad para obtener una resolución judicial o administrativa de la que derive algún perjuicio o beneficio indebido, se le impondrá de seis meses a cuatro años de prisión y multa de cien a quinientos días de salario.
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 335.
 
@@ -3567,7 +3571,7 @@ Al que rinda protesta, ante cualquier autoridad, de que en sus declaraciones se 
 
 Si antes de la resolución correspondiente, la persona se retracta espontáneamente de sus declaraciones falsas, se reducirán en un tercio las sanciones previstas en el artículo anterior.
 
-### CAPÍTULO II. SABOTAJE
+### CAPÍTULO I. REBELIÓN
 
 ###### Artículo 337.
 
@@ -3575,7 +3579,7 @@ Se impondrá de tres meses a un año de prisión, o de cincuenta a ciento veinte
 
 ## TÍTULO DÉCIMO NOVENO. DELITOS CONTRA EL EJERCICIO LEGÍTIMO DE LA AUTORIDAD
 
-### CAPÍTULO III. MOTÍN
+### CAPÍTULO II. SABOTAJE
 
 ###### Artículo 338.
 
@@ -3583,9 +3587,7 @@ Se impondrán de uno a cuatro años de prisión y multa de ochenta a ciento sese
 
 Cuando el delito se cometiere por grupo o grupos de tres o más personas, a los instigadores, dirigentes o autores intelectuales se les aumentará en una mitad las sanciones señaladas en el párrafo anterior.
 
-### CAPÍTULO I. NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS Y DELITOS ELECTORALES
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+### CAPÍTULO III. MOTÍN
 
 ###### Artículo 339.
 
@@ -3603,7 +3605,9 @@ El que cuando esté obligado a declarar ante la autoridad u otorgar la protesta 
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares se producirá en el momento en que se agote el empleo de tales medidas de apremio.
 
-### CAPÍTULO II. PROTECCIÓN CIVIL
+### CAPÍTULO I. NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS Y DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 343.
 
@@ -3611,13 +3615,15 @@ Al que con actos materiales, y empleando violencia, trate de impedir la ejecuci�
 
 Cuando este delito se cometa de común acuerdo por varias personas, se impondrá de dos a cuatro años de prisión y multa de ciento veinte a doscientos cincuenta días de salario, sin perjuicio de las sanciones aplicables por la comisión de otros delitos.
 
-### CAPÍTULO II. PELIGRO DE CONTAGIO Y PROPAGACION DE ENFERMEDADES
+### CAPÍTULO II. PROTECCIÓN CIVIL
 
 ###### Artículo 344.
 
 Al que quebrante los sellos puestos por orden de la autoridad, se le impondrá de veinticuatro a setenta y dos jornadas de trabajo a favor de la comunidad y multa de cincuenta a ciento cincuenta días de salario.
 
-### CAPÍTULO III. ALTERACIÓN Y DAÑOS AL AMBIENTE
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 345.
 
@@ -3689,7 +3695,27 @@ II. Sin cumplir con las disposiciones sanitarias, sitúe dentro de las zonas urb
 
 Al que fabrique, venda, suministre o distribuya bebidas adulteradas con sustancias que pongan en riesgo la salud o produzcan la muerte, se le impondrán de uno a cinco años de prisión, multa de trescientos a ochocientos días de salario y decomiso del producto del delito, sin perjuicio de las sanciones que sean aplicables por la comisión de otros delitos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ### CAPÍTULO I. NARCOMENUDEO, SECUESTRO Y TRATA DE PERSONAS
+
+###### Artículo 352 Bis.
+
+Se impondrá sanción de prisión de uno a cuatro años, multa de cuarenta a quinientos días de salario y decomiso de las bebidas alcohólicas, al que en forma ilícita permita, auspicie, induzca o realice la venta de bebidas alcohólicas en casa-habitación o en cualquier otro lugar, sin contar con la licencia o permiso respectivo.
+
+La misma sanción se aplicará a los representantes legales, gerentes, encargados o repartidores de las distribuidoras de bebidas alcohólicas cuando comercialicen sus productos con negocios o personas que no cuenten con licencia o permiso para la venta de las citadas bebidas. Igual sanción será aplicable a los titulares de licencias o permisos para la venta de bebidas alcohólicas que permitan, auspicien, induzcan ordenen o realicen la venta o la distribución de bebidas alcohólicas a quienes en forma clandestina realicen la venta de dichas bebidas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 352 Ter.
+
+Procederá el decomiso de las bebidas alcohólicas, siempre que éstas no hayan sido aseguradas por la autoridad administrativa competente, caso en el cual, el acta circunstanciada levantada por tal motivo, hará prueba de la preexistencia de dichas bebidas, cuyo documento en copia certificada, deberá ser puesto a disposición del agente investigador del Ministerio Público, a solicitud de éste.
+
+Una vez decretada la sentencia condenatoria y la misma haya causado ejecutoria, la autoridad jurisdiccional competente deberá poner de inmediato a disposición de la Secretaría de Finanzas, las bebidas alcohólicas y los envases decomisados para que ésta proceda a su destrucción o remate.
 
 ### CAPÍTULO II. PROTECCIÓN CIVIL
 
@@ -3853,6 +3879,60 @@ En los casos de Narcomenudeo, Secuestro, Trata de Personas y Delitos Electorales
 
 Se impondrán de dos a ocho años de prisión y multa de mil a cinco mil días de salario al que incurra en alguna de las conductas contenidas en el artículo 84 de la Ley General de Protección Civil.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+## TÍTULO VIGÉSIMO SEXTO. DELITOS EN CONTRA DE LOS ANIMALES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 381.
+
+Al que mediante acción u omisión, realice actos de maltrato o crueldad en contra de cualquier animal con la intención de ocasionarle dolor, sufrimiento o afectar su bienestar, de manera ilícita o sin causa justificada, provocándole lesiones que no pongan en peligro la vida, se le impondrán de tres meses a un año de prisión y multa de cincuenta a cien días de salario.
+
+Las penas se incrementarán en una mitad en los siguientes supuestos:
+
+I. Si las lesiones ponen en peligro la vida del animal;
+
+II. Si se utilizan métodos de extrema crueldad; y
+
+III. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los fotografía o videograba para hacerlos públicos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 382.
+
+Para efectos de este capítulo se considera animal, toda especie de mamíferos no humanos, aves, reptiles, anfibios o peces.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 383.
+
+Para efectos de este capítulo se consideran actos de maltrato o crueldad en contra de los animales, las conductas humanas activas u omisivas que les causen cualquier mutilación, alteración de la integridad física o modificación negativa de sus instintos naturales sin fines médicos justificados; la privación de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos y alojamiento adecuado; el abandono en cualquier vía; su desatención por períodos prolongados; y todo acto u omisión que les pueda ocasionar dolor o sufrimiento físico, instintivo o emocional.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 384.
+
+Se impondrán de seis meses a dos años de prisión y multa de doscientos cincuenta a quinientos días de salario si los actos de maltrato o crueldad derivan en zoofilia, provocan la muerte, o si se prolonga intencionalmente la agonía del animal.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 385.
+
+Se impondrá de uno a dos años de prisión y multa de quinientos a mil días de salario a quien realice, patrocine, promueva, difunda o permita la realización de actos de maltrato animal que deriven en zoofilia o peleas de perros u otros animales, en predios de su propiedad o posesión o en cualquier otro lugar, establecimiento, inmueble sea público o privado incluidas las vías de comunicación y demás lugares públicos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 386.
+
+La autoridad judicial o ministerial deberá asegurar y resguardar los animales en depositaría o enviarlos a los lugares destinados a tales efectos por los Municipios, el Estado o la Federación, previendo la debida atención a los animales de que se trate.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 387.
+
+Se exceptúan de las disposiciones anteriores, los espectáculos tradicionales de fiestas mexicanas consistentes en charrería, tauromaquia, peleas de gallos, carreras de caballos y otros animales, las actividades cinegéticas y las de pesca, autorizadas por las instancias legales.
+
 ## TRANSITORIOS
 
 Primero.- El presente decreto entrará en vigor a los treinta días hábiles de su publicación en el Periódico Oficial del Estado.
@@ -3914,3 +3994,39 @@ P.O. 3 DE AGOSTO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 292, POR EL QUE SE ADICIONA UN TÍTULO VIGÉSIMO SEXTO "DELITOS EN CONTRA DE LOS ANIMALES" Y UN CAPÍTULO ÚNICO CON LOS ARTÍCULOS 381, 382, 383, 384, 385, 386, 387 AL CÓDIGO PENAL DEL ESTADO DE CAMPECHE.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1 de enero de 2016, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades estatales competentes tomarán las previsiones presupuestales necesarias para el debido cumplimiento de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 286, POR EL QUE SE ADICIONA UN CAPÍTULO I BIS AL TÍTULO VIGÉSIMO SEGUNDO "DELITOS CONTRA LA SALUD PÚBLICA, EL AMBIENTE Y LOS ECOSISTEMAS", DENOMINADO "DE LOS DELITOS COMETIDOS POR MOTIVO DE LA VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS" CON LOS ARTÍCULOS 352 BIS Y 352 TER, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE.
+
+PRIMERO.- El presente decreto entrará en vigor a los 10 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Se abroga la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche publicada en el Periódico Oficial del Estado de Campeche con fecha 30 de mayo de 1996
+
+CUARTO.- Quedan sin efectos los Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos, relativo a la Coordinación de Acciones de Inspección y Vigilancia, y Delegación de Facultades del cumplimiento de la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas celebrados por el Gobierno del Estado de Campeche con los Ayuntamientos de los Municipios de Calakmúl, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo suscritos bajo la vigencia de la Ley que se abroga.
+
+QUINTO.- Aquellas personas físicas o morales que al 31 de diciembre de 2015 ostenten la titularidad de licencia vigente que hubieren efectuado su renovación para el ejercicio fiscal 2015, estarán exentas, por única ocasión, en el pago de derechos por la obtención de la nueva licencia con vigencia de 15 años; concluida la vigencia de la primera licencia por 15 años, las subsecuentes sí causarán los derechos que por su expedición establece la Ley de Hacienda del Estado de Campeche. Esta excepción no será aplicable para aquellas personas físicas y morales que a partir de la vigencia de esta Ley soliciten licencia para nuevo establecimiento o, que habiendo tenido licencia, ésta no haya sido renovada dentro del plazo de la Ley que se abroga.
+
+SEXTO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley en un término de noventa días naturales a partir de la entrada en vigor de la misma.
+
+SÉPTIMO.- Los licenciatarios, permisionarios, franquiciatarios, administradores, responsables o encargados de los establecimientos contarán con sesenta días naturales contados a partir de la publicación de la presente Ley, para llevar a cabo la regularización de la situación de sus giros y establecimientos, de conformidad con lo establecido en esta Ley.
+
+OCTAVO.- Las licencias expedidas bajo la Ley que se abroga, mantendrán su vigencia solamente durante el ejercicio fiscal 2015, no obstante, les serán aplicables toda la regulación que esta nueva Ley establece. Para el ejercicio fiscal 2016 todas las licencias tendrán el tratamiento de esta nueva Ley y se regirán conforme a ésta.
+
+NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábiles siguientes a partir de la entrada en vigor de esta Ley. En el caso de cambio de gobierno la instalación será dentro de los 45 días naturales siguientes al cambio del mismo.
+
+DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
+
+UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
