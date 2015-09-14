@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-08-10"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -203,9 +203,9 @@ Así como Prevenir, investigar y sancionar las violaciones a los derechos humano
 
 BIS.- Toda mujer que se encuentre en el Municipio de Aguascalientes tiene derecho al reconocimiento, goce, ejercicio y protección de todos sus derechos humanos. Estos derechos comprenden, entre otros:
 
-l. El derecho a que se respete su vida.
+I. El derecho a que se respete su vida.
 
-ll. El derecho a que se respete su integridad física, psíquica y moral.
+II. El derecho a que se respete su integridad física, psíquica y moral.
 
 III. El derecho a su libertad y seguridad personales.
 
@@ -421,9 +421,11 @@ XXXII. Aquellos Comités o Consejos Ciudadanos que el Cabildo apruebe establecer
 
 ### CAPÍTULO II. De las Funciones de las Autoridades Municipales
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 16.
 
-El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamiento y el encargado de realizar la administración del Municipio, con base en los criterios y políticas establecidas por el H. Ayuntamiento, así como las demás atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, y la Ley que en materia municipal expida el Poder Legislativo del Estado.
+El Presidente Municipal es el ejecutor de las determinaciones del H. Ayuntamiento y el encargado de realizar la administración del Municipio, con base en los criterios y políticas establecidas por el H. Ayuntamiento, así como las demás atribuciones que le concede la Constitución Política de los Estados Unidos Mexicanos, Los Tratados Internacionales que México sea parte, la Constitución Política del Estado, y la Ley Municipal para el Estado de Aguascalientes que expida el Poder Legislativo del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
 
@@ -443,7 +445,9 @@ III. Implementar cursos y talleres de prevención y protección contra la violen
 
 IV. Proporcionar a las víctimas de violencia la asesoría necesaria para conocer su situación jurídica y sus derechos y de ser necesario la psicoterapia que disminuya el impacto de la violencia vivida;
 
-V. Promover la cultura de respeto a los derechos fundamentales de las mujeres.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+V. Promover la cultura de respeto a los derechos humanos.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -1781,6 +1785,10 @@ El Comité Municipal para el Desarrollo Integral de la Familia y el Voluntariado
 
 I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida del individuo, la familia y la sociedad en general.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+Asimismo, sensibilizar al núcleo familiar y a la población, a través de campañas de educación encaminadas a eliminar prejuicios, estereotipos y otras actitudes que atentan contra el derecho de las personas a ser iguales, propiciando de esta forma el respeto y la convivencia con las personas con discapacidad.
+
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
 II. Realizar estudios e investigaciones sobre los problemas de la familia, de las y los menores, de las personas adultas mayores, considerando a las mujeres y su problemática en especial en esta etapa de su ciclo de vida, de las personas con discapacidad y proponer soluciones adecuadas.
@@ -1791,7 +1799,9 @@ IV. Fomentar la educación para la integración social, a través de la enseñan
 
 V. Promover el desarrollo de la comunidad en el territorio del Municipio.
 
-VI. Prestar servicios de asistencia jurídica y de orientación social a los menores, senectos, personas con discapacidad y en general a toda la población que no cuente con recursos o se encuentre socialmente desprotegida.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Brindar servicios de asistencia jurídica y de orientación social a los menores, senectos, personas con discapacidad y en general a toda la población que no cuente con recursos o se encuentre socialmente desprotegida.
 
 VII. Intervenir en el ejercicio de la tutela de menores, que corresponda al Estado en términos de la Ley, y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que les afecten de acuerdo a la Ley.
 
@@ -1818,6 +1828,38 @@ ARTÍCULO 100 BIS.- El Comité Municipal para el Desarrollo Integral de la Famil
 I. No impondrán procedimientos de conciliación ni de mediación entre pareja, y en los casos de que existan menores en la familia, atenderán en todo momento al interés superior de éstos.
 
 II. Se abstendrán de imponer así como recomendar psicoterapia de pareja y de familia.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 100 TER.- El Sistema Municipal de Protección de los Derechos de las Niñas, Niños y Adolescentes de Aguascalientes para el fortalecimiento familiar con el fin de proteger de forma integral los derechos de las niñas, niños y adolescentes, contará con las siguientes atribuciones:
+
+I. Elaborar un programa municipal y participar en el diseño del Programa Local del Estado;
+
+II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
+
+III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio;
+
+IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
+
+V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección Local, sin perjuicio que ésta pueda recibirla directamente;
+
+VI. Auxiliar a la Procuraduría Local de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+
+VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
+
+VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la Federación y del Estado de Aguascalientes;
+
+IX. Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes;
+
+X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
+
+XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales;
+
+XII. Contar con un programa de atención y con un área o con servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
+
+La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de las niñas, niños y adolescentes, contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección Local de forma inmediata; y
+
+XIII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
 
 APARTADO TERCERO
 
@@ -1879,7 +1921,7 @@ VII. Gestionar acciones encomendadas por el Consejo y la Comisión Permanente, a
 
 VIII. Llevar el control y distribución de la correspondencia y dar cuenta al Consejo de la Ciudad de los asuntos de su competencia.
 
-X. Acordar con el Presidente Municipal y la Presidencia de la Comisión Permanente el despacho de los asuntos que le corresponden;
+X (SIC). Acordar con el Presidente Municipal y la Presidencia de la Comisión Permanente el despacho de los asuntos que le corresponden;
 
 XI. Rendir informe mensual de las actividades desempeñadas a la Comisión permanente del Consejo de la Ciudad y al Presidente Municipal, y cuando así se lo requiera, al Regidor o Sindico del ramo;
 
@@ -2477,7 +2519,9 @@ VIII. Coordinar la prestación de los servicios de educación, deporte y recreac
 
 IX. Fortalecer los valores cívicos y humanos a través de programas en los niveles de educación básica y media dentro del Municipio, así como realizar actividades en apoyo a niños y jóvenes dentro de la red de bibliotecas públicas municipales.
 
-X. (DEROGADA, P.O. 23 DE FEBRERO DE 2009)
+> <small>(REFORMADA [N. DE E. ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+X. Así como fomentar la sensibilización y cultura de la población, a través de campañas de educación encaminadas a eliminar prejuicios, estereotipos y otras actitudes que atentan contra el derecho de las personas a ser iguales, propiciando de esta forma el respeto y la convivencia con las personas con discapacidad.
 
 XI. Organizar, difundir y realizar anualmente los festejos relativos al Aniversario de la Fundación de la Ciudad.
 
@@ -2777,27 +2821,41 @@ APARTADO DÉCIMO QUINTO
 
 De La Secretaría de Seguridad Pública
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 114.
 
-Con el objeto de garantizar la protección de los derechos humanos de la sociedad, corresponde a la Secretaría de Seguridad Pública lo siguiente:
+Con el objeto de garantizar y respetar la protección de los derechos humanos de las personas, corresponde a la Secretaría de Seguridad Pública lo siguiente:
 
-I. Proteger la integridad física de las personas y preservar sus bienes ante situaciones de peligro y cualquier amenaza o disturbio que implique violencia o riesgo inminente, así como garantizar, mantener y restablecer la paz y el orden público dentro del territorio del Municipio, asimismo deberá apoyar en sus funciones a los Delegados y Comisarios Municipales y efectuar una estrecha vigilancia en los poblados y rancherías;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+I. Proteger la integridad física de las personas sin hacer discriminación alguna por motivo de su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas y preservar sus bienes ante situaciones de peligro y cualquier amenaza o disturbio que implique violencia o riesgo inminente, así como garantizar, mantener y restablecer la paz y el orden público dentro del territorio del Municipio, asimismo deberá apoyar en sus funciones a los Delegados y Comisarios Municipales y efectuar una estrecha vigilancia en los poblados y rancherías;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II. Coordinar y colaborar con las autoridades federales, estatales y municipales en el ejercicio de sus funciones de investigación, prevención y reacción. Así como en los casos en que se requiera el uso de la fuerza pública;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 III. Prevenir la comisión de delitos e infracciones a las leyes y reglamentos a través de disposiciones y acciones concretas para preservar la paz social;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 IV. Colaborar en la investigación y persecución de los delitos, siendo auxiliar del Ministerio Público, del Poder Ejecutivo y del Poder Judicial, tanto federales como del Estado, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 V. Vigilar, aplicar y hacer cumplir, en el ámbito de su competencia, las disposiciones contenidas en la Ley de Vialidad del Estado de Aguascalientes y en el Reglamento de Tránsito del Municipio de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VI. Practicar detenciones de personas y el aseguramiento de bienes en los casos previstos en el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, así como los responsables por la presunta comisión de faltas administrativas o hechos delictivos en los términos de ley;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
 VII. Poner a disposición de las autoridades competentes, en forma inmediata, a las personas detenidas y los bienes que en su caso se hayan asegurado, incluyendo los casos de violencia familiar; absteniéndose en todo momento de prácticas de conciliación, negociación y mediación entre los involucrados;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VIII. Vigilar e inspeccionar, para fines de Seguridad Pública, la zona terrestre de las vías generales de comunicación y los medios de transporte que operen en el Municipio de Aguascalientes;
 
@@ -3151,9 +3209,9 @@ ARTÍCULO 138 BIS.- El Consejo para la Igualdad sustantiva en materia Laboral ti
 
 ARTÍCULO 138 TER.- El Consejo para la Igualdad sustantiva en materia Laboral tendrá como atribuciones las siguientes:
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de sus derechos fundamentales;
+I. Implementar políticas sociales, laborales y culturales que justifiquen y alienten las relaciones humanas basadas en el respeto de los derechos humanos y sus garantías para su protección;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -3179,9 +3237,9 @@ VI. Establecer políticas y lineamientos en materia de igualdad laboral entre mu
 
 VII. Garantizar la igualdad de oportunidades para mujeres y hombres dentro del ámbito laboral, mediante proyectos e instrumentos compensatorios como acciones afirmativas, que aceleren la igualdad de las mujeres en relación con los hombres, mismas que no se consideraran discriminatorias;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación en términos del ámbito laboral;
+VIII. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación en términos del ámbito laboral sin importar su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -3365,6 +3423,10 @@ a) Hostigamiento sexual: El ejercicio del poder en una relación de subordinaci�
 
 b) Acoso Sexual: La forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+c) Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel,, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o cualquier otro motivo, tal y como lo establece el artículo primero de la Ley Federal para prevenir y eliminar la Discriminación.
+
 > <small>(REFORMADO, P.O. 12 DE ENERO DE 2015)</small>
 
 ARTÍCULO 138 NOVIES.- Las conductas de las servidoras y servidores públicos del H. Ayuntamiento del Municipio de Aguascalientes contrarias al presente Código, el Código de Ética y al Reglamento Interior de Trabajo del Municipio de Aguascalientes, deberán ser denunciadas a la Comisión para la Erradicación de la Violencia Laboral por conducto de laCoordinación (sic) de Prevención y Atención Integral de la Violencia de Género del Instituto Municipal de la Mujer de Aguascalientes.
@@ -3387,9 +3449,9 @@ I. Pagar los salarios pactados y prestaciones a que tienen derecho.
 
 II. Proporcionar los útiles, instrumentos, materiales y equipo de trabajo para la ejecución eficiente de su trabajo contratado.
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-III. Tener a los trabajadores la debida consideración, absteniéndose de mal trato de palabra y obra. Impedir la inequidad del pago salarial, el examen de no gravidez, el despido por embarazo, así como por preferencia u orientación sexual, por condición de salud y cualquier otro tipo de maltrato psíquico, social, económico, físico y sexual. Los mismos se consideran como actos u omisiones que dañan la autoestima, la integridad, la libertad y la dignidad de las personas; por lo que es imprescindible, informar, prevenir, sancionar y erradicar la discriminación y violencia laboral y en general las violencias existentes entre las trabajadoras y trabajadores del Municipio sin importar la relación jerárquica;
+III. Tener a los trabajadores la debida consideración, absteniéndose de mal trato de palabra y obra. Impedir la inequidad del pago salarial, el examen de no gravidez, el despido por embarazo, así como por preferencia u orientación sexual, por discapacidad, por condición de salud y cualquier otro tipo de maltrato psíquico, social, económico, físico y sexual. Los mismos se consideran como actos u omisiones que dañan la autoestima, la integridad, la libertad y la dignidad de las personas; por lo que es imprescindible, informar, prevenir, sancionar y erradicar la discriminación y violencia laboral y en general las violencias existentes entre las trabajadoras y trabajadores del Municipio sin importar la relación jerárquica.
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -3415,9 +3477,11 @@ X. Adoptar modelos de trabajo que involucren la utilización de los avances elec
 
 XI. Las demás establecidas y que le imponen las leyes y reglamentos en la materia.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 140.
 
-Son días de descanso para los trabajadores del Municipio los siguientes: 1° de enero, 5 de febrero, jueves y viernes santos, 21 de marzo, 25 de abril, 1° de mayo, 23 de junio, 16 de septiembre, 2 de noviembre, 20 de noviembre, 12 y 25 de diciembre, así como el primero de diciembre cada seis años que sea toma de posesión del Ejecutivo Federal.
+Son días de descanso para los trabajadores del Municipio los siguientes: 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, jueves y viernes santos, el tercer lunes de marzo en conmemoración del 21 de marzo, 25 de abril, 1° de mayo; 23 de junio, 16 de septiembre, 2 de noviembre, el tercer lunes de noviembre en conmemoración del 20 de noviembre, 12 y 25 de diciembre, así como el primero (sic) diciembre de cada seis años que sea toma de posesión del Ejecutivo Federal.
 
 ### CAPÍTULO III. De la Entrega y Recepción de la Administración Pública Municipal
 
@@ -5273,9 +5337,9 @@ X. Ingerir bebidas embriagantes en la vía pública.
 
 XI. Realizar actos de violencia contra las mujeres de conformidad con los ordenamientos aplicables a la materia que regulan las formas y tipos de violencia de género.
 
-> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Realizar actos de violencia contra cualquier habitante que pertenezca a cualquier minoría social o grupo en situación de vulnerabilidad.
+XII. Realizar actos de violencia y discriminación contra cualquier persona, en los términos señalados por el artículo primero de la Constitución Política de los Estados Unidos Mexicanos.
 
 APARTADO TERCERO
 
@@ -5377,7 +5441,9 @@ III. Hacer manifestaciones ruidosas en forma tal que produzcan disturbio o grave
 
 IV. Exigir gratificaciones por protección de automóviles estacionados en la vía pública.
 
-V. Ocupar un cajón de estacionamiento destinado a personas con capacidades diferentes sin serlo u obstruir las rampas especiales para ellos.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+V. Ocupar un cajón de estacionamiento destinado a personas con discapacidad, sin serlo u obstruir las rampas especiales para ellos.
 
 VI. Alterar el orden, arrojar cojines, líquidos o cualquier objeto, prender fuego o provocar altercados en los espectáculos o en la entrada de ellos.
 
@@ -5393,9 +5459,9 @@ X. Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas ne
 
 XI. Obstaculizar un sentido de circulación o la totalidad de cualquier vialidad primaria, secundaria o carretera, durante cualquier manifestación de los habitantes del Municipio.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Realizar acoso, con palabras sea cual sea su contenido, ademanes sexuales o acciones físicas de seguimiento en contra de la niñez, la adolescencia, mujeres, hombres, adultos mayores, independientemente de su identidad sexo-genérica, siempre y cuando no constituya algún delito.
+XII. Realizar acoso, con palabras sea cual sea su contenido, ademanes sexuales o acciones físicas de seguimiento en contra de la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica, siempre y cuando no constituya algún delito.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -5409,9 +5475,9 @@ XIV. Efectuar actos de discriminación o de violencia de cualquier tipo por razo
 
 XV. Efectuar trato diferenciado entre mujeres y hombres, así como cualquier persona por su origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, las orientaciones sexuales, la identidad de género, el estado civil o cualquier otra en la prestación de cualquier servicio o en el otorgamiento de algún derecho.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Discriminar de cualquier forma a la niñez, la adolescencia, mujeres, hombres, adultos mayores, independientemente de su identidad sexo-genérica mediante la negativa de la prestación de algún servicio y/o venta de algún bien, con las excepciones que se señalan y regulan en los ordenamientos jurídicos aplicables.
+XVI. Discriminar de cualquier forma a la niñez, la adolescencia, mujeres, hombres, adultos mayores, personas con discapacidad, independientemente de su identidad sexo-genérica mediante la negativa de la prestación de algún servicio y/o venta de algún bien, con las excepciones que se señalan y regulan en los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2015)</small>
 
@@ -5431,7 +5497,9 @@ I. Provocar a cualquier animal para que ataque a una persona.
 
 II. Causar molestias por cualquier medio, que impida el legítimo uso o disfrute de un inmueble.
 
-III. Dejar el encargado de la guarda o custodia de un enfermo mental que éste deambule libremente en la vía pública cuando con ello se ponga en peligro su vida o la de otros.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+III. Dejar en descuido quien ejerza la guarda y custodia de una persona que padezca de una enfermedad mental y que éste deambule libremente en la vía pública cuando con ello se ponga en peligro su vida o la de otros.
 
 IV. Arrojar contra una persona líquidos, polvos u otras sustancias, que puedan mojarla, ensuciarla, mancharla, o causarle malestar.
 
@@ -5449,13 +5517,15 @@ IX. Maltratar, rayar, pintar o ensuciar los vehículos automotores o cualquier o
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
 
-X.- Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos.
+X. Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos.
 
 XI. (DEROGADA, P.O. 3 DE NOVIEMBRE DE 2008)
 
 XII. Comunicar dolosamente a una o más personas de la imputación que se hace a otra persona física de un hecho cierto o falso, que le cause deshonra, descrédito o afecte su reputación.
 
-XIII. Formular toda clase de expresiones o realización de acciones destinadas a manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Formular toda clase de expresiones o realización de acciones destinadas a discriminar y manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
 
 APARTADO OCTAVO
 
@@ -5529,9 +5599,11 @@ La vigilancia sobre la comisión de faltas administrativas queda a cargo de las 
 
 Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsito y Movilidad y el personal de la Dirección de Reglamentación, así como de la Coordinación Municipal de Protección Civil en el ámbito de su competencia, deberán poner a disposición inmediatamente ante el Juez Municipal competente al infractor. Si las circunstancias así lo ameritan, solicitarán el auxilio de los servicios médicos.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 351.
 
-Los invidentes, sordos, mudos y personas con capacidades diferentes, serán sancionados por las faltas que cometan, siempre que su impedimento no haya influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecen circunstancias que ameriten dicho tratamiento.
+Toda persona que tenga una discapacidad, serán sancionados por las faltas que cometan, siempre que su impedimento no haya influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecen circunstancias que ameriten dicho tratamiento.
 
 APARTADO DÉCIMO
 
@@ -6245,6 +6317,8 @@ En caso de violación al precepto indicado, los animales podrán ser asegurados 
 
 ### CAPÍTULO III. De los Parques y Jardines
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 445.
 
 El presente capítulo regula el establecimiento, operación, funcionamiento, y vigilancia de las inhumaciones, exhumaciones, traslados y cremaciones que se realicen en el Municipio de Aguascalientes.
@@ -6465,159 +6539,97 @@ Se aplicarán las sanciones que previene este Código, a las personas que infrin
 
 Las áreas verdes públicas municipales representan sitios de esparcimiento, recreación, imagen urbana y equilibrio ecológico. Comprenden lo siguiente:
 
-I. Los parques urbanos y rurales.
+I. Los parques, parques de cuota, jardines vecinales, jardines tradicionales y bosques urbanos;
 
-II. Los jardines, plazas y fuentes públicas.
+II. Las plazas, monumentos y fuentes públicas;
 
-III. Camellones, triángulos y glorietas.
+III. Los camellones, triángulos y glorietas;
 
-IV. Banquetas y andadores arbolados.
+IV. La vegetación ubicada en la franja de equipamiento de las banquetas;
+
+V. Los andadores arbolados; y
+
+VI. La zona federal adyacente a los arroyos que estén dentro de la mancha urbana, y cuya administración, custodia, conservación y mantenimiento haya sido transferida al Municipio a través de acuerdos o convenios.
+
+La Secretaría de Servicios Públicos por conducto de la Dirección de Parques y Jardines es la instancia encargada de llevar a cabo el mantenimiento y conservación de las áreas verdes, que comprende la producción, propagación y plantación de especies vegetales, así como el riego, poda, fertilización, prevención y control de plagas y enfermedades, y demás actividades necesarias para el buen desarrollo de dichas áreas.
+
+También es la responsable, en coordinación con la Secretaría de Medio Ambiente y Desarrollo Sustentable y otras autoridades, en el ámbito de sus respectivas competencias, de promover y regular entre los distintos sectores de la población, la participación en los programas de forestación, reforestación y plantación, vigilancia y conservación de las áreas verdes públicas.
+
+Las áreas verdes públicas y privadas, incluyéndose las de casas habitación cuando existiera la intención e interés de afectar especies vegetales, serán objeto de vigilancia y control del municipio, por lo que cualquier acción como creación, manejo, derribo, poda, reubicación de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados por la autoridad municipal correspondiente.
+
+Los criterios diseño, construcción, modificación, manejo, mantenimiento, conservación, protección y restauración de los parques, jardines y áreas verdes del Municipio de Aguascalientes, se regularán conforme lo establece el Reglamento de Parques, Jardines y Áreas Verdes del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 477.
 
-La Dirección de Parques y Jardines es la instancia encargada de construir, contratar o concesionar la construcción de las áreas verdes públicas, en coordinación con la Secretaría de Obras Públicas, así como el mantenimiento de las mismas. Lo anterior comprende la selección de especies, su propagación, plantación, riego, poda, fertilización, control de plagas y demás actividades necesarias para el buen desarrollo de las especies vegetales de dichas áreas verdes.
-
-También es la responsable de promover y regular entre los distintos sectores de la población y autoridades, la participación en los programas de forestación y reforestación, vigilancia y conservación de las áreas verdes públicas.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 478.
 
-Las áreas verdes urbanas y semi-urbanas, públicas y privadas, incluyéndose las de casas habitación cuando existiera la intención e interés de afectar especies vegetales, serán objeto de vigilancia y control del Municipio, a través de la Dirección de Parques y Jardines, por lo que cualquier acción como creación, manejo, cambio de uso del suelo, derribe, poda y reubicación de árboles y remoción de la cubierta vegetal, tendrán que ser previamente autorizados por el Municipio, por conducto de la Dirección de Parques y Jardines.
-
-Las acciones de derribo, poda, reubicación y remoción de vegetación, así como la disposición de los residuos vegetales producto de éstas, deberán autorizarse por el municipio, y una vez realizadas, será responsabilidad del Municipio su recolección, traslado y disposición final.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 479.
 
-La adecuada forestación de banquetas, camellones y aquellas áreas de donación que el Municipio determine en el proceso de autorización de fraccionamientos de nueva creación, deberá ser por cuenta del fraccionador quien se apegará a lo siguiente:
-
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
-
-I. Utilizar sólo especies adecuadas según el Manual de Forestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes que emita la Secretaría de Medio Ambiente y Desarrollo Sustentable;
-
-II. La planta utilizada deberá cumplir las características en cuanto a tamaño, salud y estado físico, que marca el mencionado Manual de Forestación y Manejo de Áreas Verdes; y
-
-III. Las dimensiones y distancia entre las cepas, la preparación de las mismas, y la tierra a utilizar deberá ser según lo marca dicho Manual de Forestación y Manejo de Áreas Verdes, deberán apegarse a las Normas Técnicas Complementarias para Obras de Urbanización.
-
-Para tal efecto, el fraccionador, deberá entregar en las instalaciones del vivero municipal las plantas y árboles que serán utilizadas para la forestación del mismo fraccionamiento, lo anterior para efectuar prácticas fitosanitarias y garantizar el cumplimiento de las características y condiciones de calidad de las especies vegetales, así como la cantidad requerida en base a la fórmula "Donación de Áreas Verdes y Forestación Sustentable", de conformidad con lo dispuesto por este ordenamiento. La fórmula "Donación de Área (sic) Verdes y Forestación Sustentable", que se menciona en el párrafo anterior es la siguiente:
-
-AREA DE DONACION
-
-NUMERO DE LOTES
-
-AREA VERDE = 30% del área de donación
-
-AREA JARDINADA = área verde entre 3
-
-TOTAL PLANTA DE ORNATO = área verde por 3
-
-TOTAL ÁRBOLES = número de lotes más C/15MTS.2 DE AREA VERDE
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 480.
 
-El derribo, poda, extracción para reubicación de árboles o remoción de vegetación de un área verde pública podrá efectuarse, previa autorización de la Dirección competente, y sin cobro por compensación sólo en los siguientes casos:
-
-I. Cuando se ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana.
-
-II. Cuando se compruebe que el vegetal está muerto, esté enfermo o tenga plaga severa y con riesgos de contagio.
-
-III. Cuando la imagen urbana se vea afectada significativamente.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 481.
 
-Para efectos de la autorización a que se refiere el Artículo anterior, los interesados deberán presentar solicitud ya sea por escrito, vía telefónica o electrónicamente, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Parques y Jardines, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 481
 
-1.- Siempre que se hubiese otorgado una autorización para el derribo, extracción para reubicación de árboles o remoción de vegetación, y no se encuentren mencionados en el artículo 480, quedarán condicionados al pago conforme el Tabulador de Daños a Especies Vegetales, que maneja la Secretaría de Medio Ambiente y Desarrollo Sustentable, mismo que se encuentra contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes.
-
-A toda persona física o moral que se le detecte ocasionando daños en forma parcial o total a las especies vegetales, ya sean árboles, arbustos o herbáceas se le aplicarán las multas que establece igualmente el Tabulador de referencia.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+1.- (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 481
 
-2.- En el caso de derribo, extracción para reubicación de árboles o remoción de arbustos (setos), la compensación quedará condicionada a la reposición con la misma especie vegetal afectada, a razón del triple de individuos dañados, dicha compensación deberán ser entregada en las instalaciones del Vivero Municipal previo a la extracción o remoción de los individuos.
-
-Así mismo, para la remoción de herbáceas, la reposición se hará en razón al triple de m2 extraídos.
-
-> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+2.- (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 481
 
-3.- Cuando se pretenda llevar a cabo la extracción para reubicación de árboles que sea en espacios públicos y en predios urbanos y semi-urbanos de propiedad particular, se realizará de la siguiente manera:
-
-1. Valoración de la especie a reubicar, esta se hará por medio de una inspección por parte de la Dirección de Parques y Jardines, para determinar si procede o no la reubicación.
-
-2. Si es procedente la reubicación, se deberá compensar con el 50% del valor del o los árboles, según lo establecido en el Tabulador de Daños a Especies Vegetales.
-
-3. Se llevará a cabo el seguimiento de las especies reubicadas por parte de personal de la Dirección de Parques y Jardines para asegurar su sobrevivencia, en caso de que el individuo arbóreo reubicado muera, se deberá realizar el pago del 50% restante de la compensación marcada en el párrafo anterior.
-
-En el caso de que la reubicación no proceda, se realizará el pago del 100% de la compensación establecida en el Tabulador de Daños a Especies Vegetales.
+3.- (DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 482.
 
-No se permitirá plantar árboles o arbustos en banquetas menores de ochenta centímetros de ancho, ni en camellones menores de 60 centímetros de ancho, a excepción de pastos. Tampoco se permitirá la plantación de especies que por la raíz que desarrollen puedan dañar las redes de conducción de agua potable y alcantarillado, o de banquetas y guarniciones.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 483.
 
-Tratándose de una misma vialidad, con la finalidad de facilitar el mantenimiento, que las especies mantengan una altura uniforme y que no se afecten los cableados aéreos en dicha calle, siempre se deberá plantar como máximo tres diferentes especies o variedades de plantas y en un estado de desarrollo similar, en ambas aceras.
-
-En el camellón de las avenidas sólo deberá plantarse de una a tres especies, preferentemente perennifolias y que demanden poco mantenimiento. Lo anterior como lo indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 484.
 
-La distancia entre los árboles no deberá ser menor que la anchura de sus copas en estado de madurez, excepto en el caso de setos o cortinas rompevientos, para lo cual deberá consultarse el Manual de Forestación, Reforestación y Manejo de Áreas Verdes.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 485.
 
-La Dirección de Parques y Jardines autorizará y supervisará el derribo, desrame y reubicación de árboles en espacios públicos y en predios urbanos y semi-urbanos de propiedad particular, condicionando la autorización al pago de la reposición de la cobertura vegetal perdida, según lo establecido en el Tabulador de Daños a Especies Vegetales, en la forma y modo que indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes, que emite la Secretaría de Medio Ambiente y Desarrollo Sustentable.
-
-La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en el Manual mencionado en el párrafo anterior.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 486.
 
-El personal que participe en el manejo y mantenimiento de las áreas verdes públicas, deberá recibir su capacitación respectiva que asegure su adecuado desempeño y la conservación de las áreas verdes públicas.
-
-Toda persona física o moral que se dedique en forma privada a ofrecer servicios de manejo y mantenimiento de las áreas verdes públicas, deberá estar inscrito en el censo elaborado para tal efecto por la Dirección de Parques y Jardines.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 487.
 
-Dentro de los programas de forestación preferentemente deberán utilizarse especies propias de la región o que se ha comprobado su adaptación y con bajo requerimiento de agua, tomando como base las reportadas en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 488.
 
-Toda persona que solicite un árbol para el frente de su propiedad será responsable de su cuidado y mantenimiento, de lo contrario la Dirección de Parques y Jardines efectuará el mantenimiento para conservar la imagen urbana, debiendo el propietario del inmueble realizar el pago correspondiente de conformidad al Tabulador de Daños a Especies Vegetales contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 489.
 
-Para la autorización de funcionamiento de viveros, centros reproductores y comercializadoras de plantas, se exigirá la autorización de la Secretaría del Medio Ambiente, Recursos Naturales y Pesca, y deberá sujetarse a las especies reportadas en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes antes citado. En caso de comercializar otras especies deberá comprobar su adaptación a las características ambientales del Municipio de Aguascalientes. Queda estrictamente prohibido, con base en lo dispuesto por la Secretaría del Medio Ambiente, Recursos Naturales y Pesca, la reproducción, reforestación y comercialización del alamillo ó Populus Canadensis, del olmo chino ó Ulmus parvifolia y de las especies que en futuro presente problemática similar a los anteriores.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 490.
 
-Bajo líneas de alta tensión, sólo deberán plantarse árboles de poca altura, arbustos y herbáceas, en base a lo ordenado por el Manual de Forestación, Reforestación y Manejo Áreas Verdes, emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 ###### ARTÍCULO 491.
 
-La Dirección de Parques y Jardines podrá nombrar como inspectores honorarios a vecinos de este Municipio que coadyuven a la conservación de las áreas verdes públicas, los cuales tendrán las siguientes facultades:
-
-I. Participar en las campañas de concientización, forestación y mantenimiento de las áreas verdes públicas.
-
-II. Fomentar la participación de los vecinos en el cuidado y creación de áreas verdes.
-
-III. Informar a las autoridades municipales, o en su caso a las estatales y/o federales sobre cualquier uso inadecuado o daño a las áreas verdes, proporcionando los datos de las personas, vehículos o cualquier otro agente que atente contra dichas áreas verdes.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -9719,19 +9731,19 @@ Para los efectos de este artículo en el caso de instalaciones, serán los perit
 
 La intervención de dichas unidades estarán sujetas a lo estipulado en las Leyes y Reglamentos de cada materia.
 
-> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Peritos Especializados en Urbanismo para los siguientes casos:
+VII.- Peritos Especializados en Urbanismo para los siguientes casos:
 
-1.- Estudios de Impacto Urbano Significativo para aquellos proyectos que señala el Código De Ordenamiento Territorial, Desarrollo Urbano Y Vivienda Para El Estado De Aguascalientes.
+a).- Estudios de Impacto Urbano Significativo para aquellos proyectos que señala el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes.
 
-2.- Estudios de Impacto Vial.
+b).- Estudios de Impacto Vial.
 
-3.- Consultoría de proyectos de fraccionamientos y/o Condóminos.
+c).- Consultaría (sic) de proyectos de Fraccionamientos y/o Condominios.
 
-4.- Proyectos Urbanos.
+d).- Proyectos Urbanos.
 
-5.- Estudios de Movilidad.
+e).- Estudios de Movilidad.
 
 ###### ARTÍCULO 638.
 
@@ -9797,9 +9809,9 @@ i) Que se emita dictamen favorable para su registro por la Comisión de Admisió
 
 La Secretaría presidirá una Comisión de Peritos, que dictaminará sobre la admisión de Peritos; para lo cual realizará el examen previo de los documentos y evaluaciones que presenten los postulantes a obtener el registro de Peritos y el Titular de la Secretaría dictará la resolución que corresponda tomando en cuenta el dictamen de la Comisión, misma que tendrá a su vez la responsabilidad de emitir opinión técnica de la actuación de los Peritos.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Esta comisión se integrará con un representante del Colegio de Arquitectos del Estado de Aguascalientes A. C., del Colegio de Ingenieros Civiles de Aguascalientes A.C., del Colegio de Urbanistas de Aguascalientes A.C., de la Cámara Mexicana de la Industria de la Construcción Delegación Aguascalientes, del Jefe del Departamento de Desarrollo Urbano de las Delegaciones Urbanas y Rurales, Jefe del Departamento de Supervisión de la Secretaría, del representante de los peritos por especialidad, cuando se traten asuntos relacionados con las respectivas especialidades, así como de la Secretaría, todos ellos con sus respectivos suplentes. Así mismo, fungirán como asesores, un representante de cada una de las especialidades de los Peritos contemplados en este Título, cuando se traten asuntos relacionados con las respectivas especialidades.
+Esta comisión se integrará con un representante del Colegio de Arquitectos del Estado de Aguascalientes A. C., del Colegio de Ingenieros Civiles de Aguascalientes A.C., de la Cámara Mexicana de la Industria de la Construcción Delegación Aguascalientes, del Jefe del Departamento de Desarrollo Urbano de las Delegaciones Urbanas y Rurales, Jefe del Departamento de Supervisión de la Secretaría, del representante de los peritos por especialidad, cuando se traten asuntos relacionados con las respectivas especialidades, así como de la Secretaría, todos ellos con sus respectivos suplentes. Así mismo, fungirán como asesores, un representante de cada una de las especialidades de los Peritos contemplados en este Título, cuando se traten asuntos relacionados con las respectivas especialidades.
 
 La Secretaría, en el mes de enero de cada año, solicitará a cada una de las asociaciones ó instituciones mencionadas el nombramiento de sus representantes ante la Comisión.
 
@@ -11283,9 +11295,13 @@ Serán aceptables índices menores en caso de comensales en barras o de pie cuan
 
 Deberán proveerse las facilidades que requieran las personas que utilicen sillas de ruedas, siendo los requisitos mínimos indispensables, los siguientes:
 
-I. Toda edificación deberá destinar por lo menos un cajón de estacionamiento para uso exclusivo de personas con capacidades diferentes.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-II. Toda edificación deberá destinar un cajón por cada treinta cajones o fracción de estacionamiento, a partir de quince cajones, para uso exclusivo de personas con capacidades diferentes, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros. Estas áreas de cajones estarán señalizadas con el Símbolo internacional de Accesibilidad y la prohibición de estacionar en las mismas a personas sin discapacidad;
+I. Toda edificación deberá destinar por lo menos un cajón de estacionamiento para uso exclusivo de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+II. Toda edificación deberá destinar un cajón por cada treinta cajones o fracción de estacionamiento, a partir de quince cajones, para uso exclusivo de personas con discapacidad, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros. Estas áreas de cajones estarán señalizadas con el Símbolo internacional de Accesibilidad y la prohibición de estacionar en las mismas a personas sin discapacidad;
 
 III. Los Centros de Reunión, Edificios para Comercio, Educación, Oficinas, Espectáculos y Templos que se localicen en planta baja y cuenten con una superficie construida mayor de trescientos metros cuadrados, deberán contar con rampas que cumplan con las condiciones que a continuación se indican:
 
@@ -11313,13 +11329,21 @@ g) Siempre que sea posible, las rampas se localizarán junto a las escaleras y e
 
 h) La sección del pasamanos será circular, de unos 5 centímetros de diámetro, o cualquier otra que sea de un diseño anatómico que facilite el asimiento.
 
-IV. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas con capacidades diferentes, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación. Los espacios reservados estarán debidamente señalizados;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-V. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a personas con capacidades diferentes a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta, que cumplan con la pendiente máxima y ancho que se indica en este Libro;
+IV. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas con discapacidad, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación. Los espacios reservados estarán debidamente señalizados;
 
-VI. Las puertas de acceso a los edificios, para ser utilizadas por personas con capacidades diferentes en sillas de ruedas deben tener un claro totalmente libre mínimo de 90 centímetros;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Cuando menos uno de cada 20 teléfonos de servicio público que se instalen, deben contar con el aparato a no más de 120 centímetros de altura sobre el nivel del piso terminado para facilitar su uso, tanto a personas con capacidades diferentes que utilicen sillas de ruedas, personas afectadas de enanismo, como a los niños. Asimismo la impresión de la numeración para marcar deberá ser en relieve a fin de facilitar su uso a invidentes y débiles visuales;
+V. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a personas con discapacidad a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta, que cumplan con la pendiente máxima y ancho que se indica en este Libro;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Las puertas de acceso a los edificios, para ser utilizadas por personas con discapacidad que utilicen sillas de ruedas deben tener un claro totalmente libre mínimo de 90 centímetros;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Cuando menos uno de cada 20 teléfonos de servicio público que se instalen, deben contar con el aparato a no más de 120 centímetros de altura sobre el nivel del piso terminado para facilitar su uso, tanto a personas con discapacidad que utilicen sillas de ruedas, personas de baja estatura o talla baja y niños. Asimismo la impresión de la numeración para marcar deberá ser en relieve a fin de facilitar su uso a personas con discapacidad visual;
 
 VIII. Los inmuebles que cuenten con escaleras en su acceso desde la calle, deberán de contar con una rampa para dar servicio a personas en sillas de ruedas, con muletas o con aparatos ortopédicos. Las superficies de las rampas deben ser antiderrapantes y en aquellos casos en que estas cuenten con una longitud mayor de 10 metros deben ser provistas de una plataforma horizontal de descanso, de cuando menos 150 centímetros de longitud por cada 10 metros. Cuando la altura por salvar sobrepase 2 metros, deberá solucionarse el acceso a personas con capacidades diferentes por medios mecánicos o por medio de elevador especial. Cuando una rampa tenga más de 2 metros de longitud, ésta debe dotarse de un pasamanos continuo de 80 centímetros de altura, para auxilio de personas con prótesis o muletas;
 
@@ -11333,13 +11357,21 @@ XII. Los pasamanos deben contar con una protuberancia al final de la escalera pa
 
 XIII. Las puertas corredizas, las de doble abatimiento principalmente de cristal con vista a ambos lados, se recomiendan fabricadas con vidrio inastillable, plástico, acrílico o policarbonato;
 
-XIV. En las cabinas sanitarias para personas con capacidades diferentes, la puerta debe tener 90 centímetros de ancho completamente libres y se debe abatir hacia afuera. El asiento de la taza debe encontrarse a 55 centímetros de altura del nivel de piso terminando y es de preferirse un mueble empotrado a la pared o de base remetida para facilitar el acercamiento de una silla de ruedas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XV. En beneficio de las personas con capacidades diferentes con lesiones musculoesqueléticas o del sistema nervioso, todas las cabinas sanitarias deben encontrarse equipadas con una barra horizontal sólidamente fijada en cada una de sus paredes laterales colocada a una altura de 82 centímetros separada de la pared y de un diámetro no mayor de media pulgada;
+XIV. En las cabinas sanitarias para personas con discapacidad, la puerta debe tener 90 centímetros de ancho completamente libres y se debe abatir hacia afuera. El asiento de la taza debe encontrarse a 55 centímetros de altura del nivel de piso terminando y es de preferirse un mueble empotrado a la pared o de base remetida para facilitar el acercamiento de una silla de ruedas;
 
-XVI. Los lavamanos para personas con capacidades diferentes en los sanitarios públicos, deben tener una altura máxima de 80 centímetros para permitir el acceso fácil desde una silla de ruedas y tener aislados los tubos interiores de agua caliente con el fin de evitar quemaduras en personas que carecen de sensibilidad en las piernas;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XVII. Las bibliotecas de estantería abierta deben contar con una separación mínima de 120 centímetros entre los anaqueles para que facilite el uso a personas con capacidades diferentes en sillas de ruedas o muletas;
+XV. En beneficio de las personas con discapacidad con lesiones musculoesqueléticas o del sistema nervioso, todas las cabinas sanitarias deben encontrarse equipadas con una barra horizontal sólidamente fijada en cada una de sus paredes laterales colocada a una altura de 82 centímetros separada de la pared y de un diámetro no mayor de media pulgada;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Los lavamanos para personas con discapacidad en los sanitarios públicos, deben tener una altura máxima de 80 centímetros para permitir el acceso fácil desde una silla de ruedas y tener aislados los tubos interiores de agua caliente con el fin de evitar quemaduras en personas que carecen de sensibilidad en las piernas;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Las bibliotecas de estantería abierta deben contar con una separación mínima de 120 centímetros entre los anaqueles para que facilite el uso a personas con discapacidad que utilicen silla de ruedas o muletas;
 
 XVIII. Las bibliotecas, en la medida de las posibilidades, deberán contar con áreas para invidentes o débiles visuales, donde se instalen cubículos que permitan hacer uso de grabadoras con audífonos así como libros en sistema «braille»; y
 
@@ -15839,9 +15871,11 @@ VI.- VIALIDAD CERRADA: Son las vías públicas municipales que no tienen una con
 
 VII.- ANDADORES: Son aquellos que servirán exclusivamente para el tránsito de peatones.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1126.
 
-Todas las vías públicas que se construyan deberán contar con el diseño apropiado para facilitar la circulación de personas con discapacidad.
+Todas las vías públicas que se construyan deberán contar con el diseño apropiado para facilitar el acceso y uso para las personas con discapacidad.
 
 ### CAPÍTULO VI. De los Usos del Suelo Permitidos, Condicionados o Prohibidos
 
@@ -17501,7 +17535,7 @@ d) Por no colocar el medio de identificación en la parte inferior de los anunci
 
 e) Por no registrarse o renovar el mismo, los fabricantes, arrendatarios o rotulistas ante la Secretaría.
 
-II. A las siguientes infracciones se les aplicará lo previsto por el artículo anterior en su fracción II.
+II (SIC). A las siguientes infracciones se les aplicará lo previsto por el artículo anterior en su fracción II.
 
 a) Por instalar, colocar o ubicar anuncios catalogados como permanentes, sin permiso expedido por la Secretaría;
 
@@ -23232,3 +23266,41 @@ P.O. 10 DE AGOSTO DE 2015.
 REFORMAS, ADICIONES Y DEROGACIÓN A DIVERSOS PRECEPTOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
 
 ÚNICO.- Las reformas, adiciones y derogación que anteceden entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+SE REFORMAN Y DEROGAN DIVERSOS ARTÍCULOS DEL CAPÍTULO TERCERO DENOMINADO "DE LOS PARQUES Y JARDINES" DEL LIBRO TERCERO DENOMINADO “DE LOS SERVICIOS PÚBLICOS MUNICIPALES” TÍTULO ÚNICO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, QUE CONSISTEN EN: LA REFORMA AL ARTÍCULO 476 Y LA DEROGACIÓN DE LOS ARTÍCULOS 477, 478, 479, 480, 481, 481-1, 481-2, 481-3, 482, 483, 484, 485, 486, 487, 488, 489, 490 Y 491 DEL CAPÍTULO TERCERO DENOMINADO "DE LOS PARQUES Y JARDINES", DEL LIBRO TERCERO DENOMINADO “DE LOS SERVICIOS PÚBLICOS MUNICIPALES”, TÍTULO ÚNICO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+Primero.- Las reformas al artículo 476 y derogación de los artículos 477, 478, 479, 480, 481, 481-1, 481-2, 481-3, 482, 483, 484, 485, 486, 487, 488, 489, 490 y 491 del capítulo tercero denominado "DE LOS PARQUES Y JARDINES" del LIBRO TERCERO TÍTULO ÚNICO del Código Municipal de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Segundo.- El presente "Reglamento de Parques, Jardines y Áreas Verdes del Municipio de Aguascalientes" entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+Cuarto.- A partir de la entrada en vigor del presente Reglamento, el Vivero Municipal adscrito a la Secretaría de Servicios Públicos, contará con un año para producir las plantas nativas de la región que serán utilizadas en la forestación, reforestación y plantación de las áreas verdes del Municipio de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 100 TER DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 140 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+Único.- Las disposiciones del presente Decreto entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 16; SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 16 BIS; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 100 Y SE REFORMA SU FRACCIÓN VI; SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 111; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 114 Y SE REFORMA SU FRACCIÓN I; SE REFORMAN LAS FRACCIONES I Y VIII DEL ARTÍCULO 138 TER; SE ADICIONA UN INCISO C) AL ARTÍCULO 138 OCTIES; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 139; SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 338;, SE REFORMAN LAS FRACCIONES V, XII Y XVI DEL ARTÍCULO 342; SE REFORMAN LAS FRACCIONES III Y XIII DEL ARTÍCULO 343; SE REFORMA EL ARTÍCULO 351; SE REFORMAN LAS FRACCIONES I, II, IV, V, VI, VII, XIV, XV, XVI Y XVII DEL ARTÍCULO 677; ASÍ COMO LA REFORMA AL ARTÍCULO 1126.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 637 EN SU FRACCIÓN VII Y 639 EN SU SEGUNDO PÁRRAFO DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES.
+
+PRIMERO.- La presente reforma al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La exigencia de responsiva de Perito Especializado para obtener las Licencias en los casos señalados en los incisos a) al e) de la fracción VII del Artículo 637 del Código Municipal de Aguascalientes, iniciará hasta en tanto exista Registro de Peritos Especializados en Urbanismo, para lo cual, la Secretaría de Desarrollo Urbano y la Comisión de Peritos realizarán las acciones conducentes para el proceso de selección, evaluación, y registro de dichos peritos.
