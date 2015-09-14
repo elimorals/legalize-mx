@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-57379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2013-06-28"
+last_updated: "2015-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de octubre de 2007.
 
@@ -35,513 +35,1017 @@ EXPOSICIÓN DE MOTIVOS.
 
 Por lo anteriormente expuesto y fundando, nos permitimos poner a su consideración, y en su caso, aprobación, el:
 
+> <small>[N. DE E. EL ACUERDO PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.
 
-## TÍTULO PRIMERO. DE LA INSTALACIÓN Y ORGANIZACIÓN DEL R. AYUNTAMIENTO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 1.
+## Título Primero. Del Gobierno Municipal
 
-El presente Reglamento tiene por objeto establecer las bases, para la integración, organización, y funcionamiento del Gobierno Municipal de General Escobedo, Nuevo León y regular el ejercicio de las atribuciones y obligaciones de los integrantes del R. Ayuntamiento, de conformidad con lo establecido en la Constitución Federal y Local, la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y las demás disposiciones legales aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 2.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-El Ayuntamiento es un órgano colegiado de pleno carácter democrático, ya que todo y cada uno de sus miembros son electos por el pueblo para ejercer las funciones inherentes al Gobierno Municipal, al que se le podrá denominar de manera económica Cabildo. El Ayuntamiento, es por lo tanto, el órgano principal y máximo del Gobierno Municipal. En cuanto a órgano de gobierno, es la autoridad más inmediata y cercana al pueblo, al cual representa y es de quien emana el mandato.
+### Capítulo I. Disposiciones Generales
 
-###### ARTÍCULO 3.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El Gobierno Municipal se deposita en el órgano colegiado que se integra por el pleno del Ayuntamiento, es decir, por el titular de la Presidencia Municipal, los Regidores y Síndicos.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Este órgano colegiado de gobierno, funciona en forma de Ayuntamiento, es decir, en reuniones donde ejerce su autoridad, donde decide y acuerda sobre los asuntos colectivos y encarga al C. Presidente Municipal que ejecute sus acuerdos.
+###### Artículo 1.
 
-### CAPÍTULO II. DE LA RESIDENCIA E INSTALACIÓN
+El presente Reglamento tiene por objeto establecer las bases, para la integración, organización, y funcionamiento del Gobierno Municipal de General Escobedo, Nuevo León y regular el ejercicio de las atribuciones y obligaciones de los integrantes del Ayuntamiento, de conformidad con lo establecido en las Constituciones Federal y Local, la Ley de Gobierno Municipal del Estado de Nuevo León y las demás disposiciones legales aplicables.
 
-###### ARTÍCULO 4.
+El presente Reglamento se rige por los principios de solidaridad, subsidiariedad, coordinación, colaboración y respeto a la autonomía municipal. Las normas contenidas en el mismo se interpretarán de conformidad con los Tratados Internacionales de Derechos Humanos de los que México sea parte, además de aquellos contenidos en las Constituciones federal y local.
 
-El Ayuntamiento se compondrá de acuerdo a lo establecido en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León, por un Presidente Municipal, regidores de mayoría relativa, regidores de representación proporcional y Síndicos. En caso de ausencia o licencia de los síndicos o regidores, serán llamados los respectivos suplentes, previa convocatoria que les dirija el C. Presidente Municipal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 5.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-El R. Ayuntamiento es la autoridad superior del gobierno y tiene competencia plena y exclusiva, sobre su territorio, población, organización política y administrativa, en los términos que fijan las leyes.
+###### Artículo 2.
 
-###### ARTÍCULO 6.
+El pleno del Ayuntamiento es la autoridad superior de gobierno, es un órgano colegiado y deliberativo que se integra por: el titular de la Presidencia Municipal, Regidores y Síndicos que determine la Constitución del Estado y la Ley.
 
-El Titular de la Presidencia Municipal será el Presidente(a) del Ayuntamiento y Jefe(a) de la Administración Pública Municipal.
+Este órgano colegiado de gobierno, funciona en forma de Ayuntamiento, es decir, en reuniones donde ejerce su autoridad, decide y acuerda sobre los asuntos colectivos y encarga al C. Presidente Municipal que ejecute sus acuerdos.
 
-###### ARTÍCULO 7.
+Los integrantes de este órgano colegiado durarán en su cargo lo que determine (sic) las Constituciones federal y Local, ejerciendo sus funciones de acuerdo a lo que estipule la Ley y el presente Reglamento.
 
-El Presidente Municipal es el representante del Ayuntamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 8.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Los Regidores y Síndicos son representantes de la Comunidad en el Ayuntamiento.
+###### Artículo 3.
 
-###### ARTÍCULO 9.
+Para los efectos del presente Reglamento se entenderá por:
 
-El R. Ayuntamiento se integra, por un Presidente Municipal, Regidores y Síndicos electos y designados de conformidad con la Ley de la materia que se encuentre vigente en el Estado de Nuevo León, estas autoridades durarán tres años en sus funciones, y no podrán ser reelectos para el periodo inmediato, entraran en funciones el 31 de octubre del año que corresponda a la celebración de las elecciones para la renovación de Ayuntamientos, y ejercerán sus funciones hasta el 30 de octubre del tercer año siguiente.
+Cabildo: el Ayuntamiento de General Escobedo, Nuevo León.
 
-###### ARTÍCULO 10.
+Constitución Federal: Constitución Política de los Estados Unidos Mexicanos.
 
-En caso, de que el R. Ayuntamiento incurriera en alguna de las faltas graves que son señaladas por la Ley de la materia como tales, se deberán de informar al H. Congreso del Estado quien podrá decretar la desaparición o suspensión del R. Ayuntamiento y en su caso la suspensión o revocación del mandato de algunos de sus integrantes. Notificando de esto al R. Ayuntamiento, en términos de Ley.
+Constitución Local: Constitución Política del Estado Libre y Soberano de Nuevo León.
 
-###### ARTÍCULO 11.
+Ley: Ley de Gobierno Municipal del Estado de Nuevo León.
 
-El R. Ayuntamiento residirá en la Cabecera del Municipio de General Escobedo, Nuevo León y será su domicilio oficial, el lugar que ocupe el edificio que se destine al Palacio del Gobierno Municipal, en donde sesionarán los integrantes del mismo.
+Reglamento: el presente Reglamento.
 
-###### ARTÍCULO 12.
+Republicano Ayuntamiento: el órgano colegiado integrado por el Presidente Municipal, regidores y Síndicos.
 
-El Palacio del Gobierno Municipal deberá contar con un área suficientemente amplia y apropiada para celebrar las sesiones del R. Ayuntamiento, lugar que será considerado como recinto oficial.
+Sesión: todas aquellas reuniones ordinarias, extraordinarias o solemnes en las cuales el Ayuntamiento convoque oportunamente de acuerdo con este reglamento para deliberar sobre un asunto concerniente al mismo.
 
-###### ARTÍCULO 13.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El Presidente Municipal en funciones previo acuerdo con la mayoría relativa del R. Ayuntamiento, con al menos 5 días de anticipación, convocará por escrito a cada uno de los integrantes del R. Ayuntamiento electo, oficialmente a concurrir y participar en una Sesión Solemne, el día 30 de octubre del año que corresponde a la celebración de elecciones para la renovación de Ayuntamientos, en la que entre otros puntos rendirán su protesta de ley estos últimos.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 14.
+### Capítulo II. Del proceso de entrega, recepción e instalación de la administración pública municipal
 
-La convocatoria a la que se hace referencia en el Artículo anterior deberá contener lugar, día y hora a celebrarse la sesión solemne incluyendo además el orden del día correspondiente a la sesión, y haciéndoles la recomendación de que se deberá usar vestimenta formal y de preferencia en color oscuro.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 15.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-El desarrollo de esta sesión solemne a que se hace referencia en los artículos anteriores, se sujetará a lo establecido en el presente Reglamento debiéndose agregar además, la lista con los nombres de todos los integrantes del R. Ayuntamiento entrante, a quienes se les pasará lista de asistencia por parte del Secretario del Ayuntamiento y encontrándose presente la mayoría de los integrantes de ambos Ayuntamientos se declarará el quórum legal y se iniciará con el desarrollo de la sesión, respetando el orden del día señalado.
+###### Artículo 4.
 
-###### ARTÍCULO 16.
+Validada la elección, se constituirá una Comisión Especial de Transición que tendrá carácter informativo respecto al estado que guardan los programas, obras, acciones, proyectos, asuntos y recursos de toda la Administración Pública municipal, y estará integrada por las siguientes personas:
 
-El Presidente Municipal saliente, o en su caso el Representante designado por el Congreso del Estado, dentro del desarrollo de la sesión solemne tomará la protesta de ley a los integrantes del R. Ayuntamiento entrante, quienes para tal efecto deberán ponerse de pie y extender y mantener su brazo derecho al frente, mencionando el Presidente Municipal saliente, lo siguiente:
+I. Presidente Municipal en funciones y electo;
 
-“Protestan cumplir leal y patrióticamente al cargo que el pueblo en ejercicio de su soberanía les ha conferido a través del voto, guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Nuevo León y las Leyes y Reglamentos que de ellas emanen, buscando en todo momento el bien común del Municipio y su prosperidad en general.”
+II. Síndico Primero en funciones y electo;
 
-A lo que los integrantes del R. Ayuntamiento entrante deberán contestar en la posición en la que se encuentran:
+III. Síndico Segundo en funciones y electo;
 
-“Sí protesto”
+IV. Secretario del Ayuntamiento;
 
-Continuando el Presidente Municipal saliente con la siguiente mención:
+V. Tesorero Municipal; y
 
-“Si no lo hicieran así, que la comunidad escobedense se los demande”
+VI. Cuatro asesores designados por el Presidente Municipal electo.
 
-Concluyendo de esta manera con la toma de protesta a los integrantes del R. Ayuntamiento entrante a quienes se les invitará a que ocupen de nuevo sus lugares y se continuará con el desarrollo de la sesión.
+El Presidente Municipal en funciones solicitará al Ayuntamiento la autorización de un presupuesto especial destinado a proveer los recursos económicos, humanos y materiales necesarios para que la Comisión cumpla con su responsabilidad. En ningún caso este presupuesto se destinará al pago de honorarios por concepto de servicios profesionales de las personas previstas en el presente artículo.
 
-###### ARTÍCULO 17.
+Una vez validada la elección respectiva en un plazo posterior a 15 días naturales, se emitirá la Convocatoria a la sesión de constitución de la Comisión; en la misma sesión el Presidente Municipal electo propondrá al resto de los integrantes para su aprobación un cronograma, acciones y funciones, las que en ningún caso podrán ser delegadas.
 
-Antes de decretar la clausura de la sesión solemne a la que se hace referencia en los artículos anteriores, se hará la declaratoria que a partir de las 00:00 horas del día 31 de octubre queda oficial y legítimamente instalado el R. Ayuntamiento electo del Municipio de General Escobedo, Nuevo León.
+La Comisión podrá requerir la presencia de cualquier Titular de Dependencia o Unidad Administrativa o información bajo su responsabilidad, únicamente con propósitos informativos, por lo que en ningún caso implicará la entrega de recursos o documentación alguna, ni la interferencia en el continuo y normal desarrollo de las funciones oficiales de los mismos.
 
-###### ARTÍCULO 18.
+Al ejercicio del presupuesto destinado a las labores de la Comisión, así como a sus sesiones, planes de trabajo y conclusiones, se les dará máxima difusión y publicidad, a través de la Gaceta Municipal y en el Portal de Internet del Municipio.
 
-El Ayuntamiento entrante celebrará, lo antes posible, la primera sesión ordinaria en la que entre otros asuntos, se designará al Secretario del Ayuntamiento y al Tesorero Municipal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 19.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-El Presidente Municipal saliente ante la presencia de los síndicos municipales salientes y entrantes entregará al Presidente Municipal entrante un informe por escrito de la cuenta pública municipal, el inventario de bienes muebles e inmuebles propiedad del municipio, los programas de trabajo desarrollados y los libros de las actas de las sesiones del R. Ayuntamiento, y demás informes que considere pertinentes, debiéndose firmar por los presentes una acta de entrega-recepción. Sujetándose al reglamento de entrega-recepción del Gobierno Municipal.
+###### Artículo 5.
 
-###### ARTÍCULO 20.
+Una vez emitida la declaración de Instalación formal del Ayuntamiento en la sesión solemne, se celebrará el acto protocolario de entrega-recepción, en el que el Presidente saliente entregará al entrante el Expediente que contenga la situación que guarda el Gobierno y la Administración Pública Municipal, el cual se acompañará con los Anexos a que se refiere el artículo 28 de la Ley.
 
-Para el caso de que en el día, lugar y hora señalados para la realización de la sesión solemne de toma de protesta del Ayuntamiento entrante, no concurriera alguno de los integrantes del Ayuntamiento entrante, se le tomará protesta posteriormente en sesión del R. Ayuntamiento por el Presidente Municipal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 21.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Son atribuciones y responsabilidades del R. Ayuntamiento:
+###### Artículo 6.
 
-I. Actualizar y difundir los Reglamentos Municipales, y aprobar planes y programas de gobierno en el ámbito de sus atribuciones;
+Con motivo del acto protocolario de entrega-recepción se levantará un acta circunstanciada por duplicado, debidamente firmada por las siguientes personas:
 
-II. Procurar que la prestación de los servicios públicos generales sea de la más alta calidad y acordes con las necesidades de los ciudadanos, dictando las medidas adecuadas para tal fin;
+I. Los miembros del Ayuntamiento cuyo ejercicio haya concluido: Presidente Municipal, Síndico Primero y Contralor Municipal; y
 
-III. Promover entre los ciudadanos la conservación del patrimonio histórico y cultural así como exhortar a los mismos a su conservación y mantenimiento;
+II. Miembros del Ayuntamiento electos: Presidente Municipal y Síndico Primero.
 
-IV. Fomentar que entre los Ayuntamientos del área metropolitana, exista la cooperación recíproca para el fortalecimiento de la Administración Pública Municipal;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V. Fomentar la participación ciudadana en los programas que lleve a efecto la Administración Municipal;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Contemplar dentro del Presupuesto de Egresos el fomento y creación de programas tanto de educación como de salud, cultura, deporte y esparcimiento, para elevar el nivel de vida de los ciudadanos;
+###### Artículo 7.
 
-VII. Las demás que contemplen los ordenamientos legales aplicables.
+El acta a que se refiere el artículo anterior deberá ser acompañada por sendos Expedientes y sus respectivos Anexos, los cuales se entregarán a cada uno de los respectivos Ayuntamientos; la misma deberá contener cuando menos lo siguiente:
 
-FACULTADES Y OBLIGACIONES
+I. Lugar, fecha y hora en que da inicio el acto de entrega-recepción;
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES Y RESPONSABILIDADES DEL R. AYUNTAMIENTO
+II. Nombre, empleo o cargo de las personas que intervienen así como su identificación;
 
-###### ARTÍCULO 22.
+III. Especificar por escrito y a detalle el conjunto de hechos que el evento de entrega-recepción comprende así como las situaciones que se presenten durante su desarrollo, situación que deberá manifestarse bajo protesta de decir verdad;
 
-El Presidente Municipal para fortalecer el desempeño de sus funciones, se apoyará en las dependencias y entidades que conforman el ejercicio administrativo del Gobierno Municipal, así como en las autoridades auxiliares.
+IV. Especificar el número, tipo y contenido de los documentos que se anexan y complementan en el acta;
 
-Los Secretarios, directores, así como los titulares de los órganos auxiliares del Gobierno Municipal serán nombrados y removidos libremente por el Presidente Municipal, excepción hecha de los nombramientos de Secretario del Ayuntamiento, y el Tesorero Municipal, que requieren del voto de la mayoría simple del Ayuntamiento.
+V. El acta se formulará en 3-tres tantos, en papel oficial, con firma autógrafa de los involucrados, y la misma no debe contener tachaduras, enmendaduras o borraduras; cualquier error debe corregirse mediante testado, antes del cierre del acta;
 
-Los Secretarios y directores de las diferentes dependencias municipales deberán rendir trimestralmente un informe ejecutivo del avance de planes y programas.
+VI. Cualquier espacio o renglón no utilizado debe ser cancelado con guiones;
 
-###### ARTÍCULO 23.
+VII. Todas y cada una de las hojas que integran el acta circunstanciada deberán ser firmadas por las personas que intervinieron, y en caso de negativa, deberá asentarse la negativa de hacerlo;
 
-El Presidente Municipal tiene a su cargo la ejecución correcta de las determinaciones, acuerdos, planes y programas de obras y servicios municipales aprobados por el R. Ayuntamiento y es el responsable directo de la Administración Pública Municipal, que para tal fin, tendrá las funciones y atribuciones que le señala la Ley de la materia y el Reglamento de la Administración Pública Municipal.
+VIII. Cualquier cantidad deberá ser asentada en número y letra;
 
-### CAPÍTULO IV. DEL PRESIDENTE MUNICIPAL
+IX. Las hojas que integren el Acta Circunstanciada así como sus anexos, deben foliarse en forma consecutiva.
 
-###### ARTÍCULO 24.
+Al acta circunstanciada, así como al expediente y anexos se les dará máxima difusión y publicidad, a través de la Gaceta Municipal y el Portal de Internet del Municipio.
 
-Son atribuciones del Presidente Municipal, además de las dispuestas en la Ley de la materia aplicable:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I. Convocar a las sesiones del R. Ayuntamiento;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-II. Asistir puntualmente a las sesiones que celebre el R. Ayuntamiento, para los efectos de presidirlas y dirigirlas, asistido del Secretario del R. Ayuntamiento;
+###### Artículo 8.
 
-III. Establecer el orden de los asuntos que deben ponerse a discusión en las sesiones, atendiéndose preferentemente aquellos que sean de interés público, a no ser que por mayoría de votos de los integrantes del R. Ayuntamiento se decida por otro orden;
+En caso de ausencia de alguno de los servidores públicos obligados a asistir al acto protocolario de entrega-recepción, se dejará constancia en el acta circunstanciada de la situación, dándose vista de ello al Congreso del Estado.
 
-IV. Conceder el uso de la palabra a los miembros del R. Ayuntamiento en el orden que lo soliciten cuando se ponga a discusión un tema, para que la intervención de cada uno no exceda de dos veces sobre un mismo tema, y el tiempo máximo de exposición no podrá exceder los 3-tres minutos, cada intervención;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V. Hacer uso de la palabra en las sesiones del R. Ayuntamiento para emitir su criterio sobre el asunto de que se trate, teniendo voto de calidad en caso de empate de alguna votación a la que sean sometidas las decisiones que tome el R. Ayuntamiento;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Observar y hacer que los demás miembros del R. Ayuntamiento guarden el orden debido durante el desarrollo de las sesiones;
+###### Artículo 9.
 
-VII. Planear, programar, presupuestar, coordinar y evaluar el desempeño de las unidades administrativas de la administración pública municipal que se creen por acuerdo del Ayuntamiento.
+En el proceso de entrega-recepción que se realice con motivo de la ausencia definitiva del Presidente Municipal, cuando se declare la desaparición o suspensión del Ayuntamiento, o cuando se declare la suspensión o revocación del mandato del Presidente Municipal, se garantizarán absolutamente las formalidades previstas en el artículo anterior.
 
-VIII. Informar a la población anualmente, en sesión pública y solemne del R. Ayuntamiento, sobre el estado que guarda la administración pública y el avance del plan y programas municipales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IX. Proponer al R. Ayuntamiento las comisiones en que debe integrarse los regidores y síndicos municipales.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-X. Promover la organización y participación de la comunidad en los programas de desarrollo municipal.
+###### Artículo 10.
 
-XI. Promover la formación de los organismos municipales de planeación y presidir sus reuniones de trabajo.
+Los Servidores Públicos involucrados en la ejecución de los trabajos de la entrega-recepción deberán atender los principios de legalidad, honradez, transparencia, lealtad, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones, debiendo mantener permanentemente actualizados sus registros, controles y demás documentación relativa a su empleo, cargo o comisión.
 
-XII. Vigilar la correcta administración del patrimonio municipal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XIII. Exhortar a instancia propia o a solicitud de alguno de los miembros del R. Ayuntamiento, al integrante que no observe la conducta adecuada durante el desarrollo de la sesión respectiva; a fin de que guarde el orden y respeto que el R. Ayuntamiento merece;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Suspender la sesión respectiva cuando rebase las tres horas que fija el Reglamento, a no ser que por mayoría de votos se decida por los miembros del R. Ayuntamiento continuarla, hasta agotar los asuntos a tratar; o los que decidan por mayoría de votos los miembros del R. Ayuntamiento;
+###### Artículo 11.
 
-XV. Cumplir y ejercer adecuadamente, todas y cada una de las obligaciones y facultades que le fijen o concedan las leyes, reglamentos o el propio Ayuntamiento, así como aquellas que resulten inherentes al cargo que desempeña;
+El Contralor Municipal propondrá al Ayuntamiento para su aprobación los lineamientos, criterios y formatos de libros de anexos del expediente de entrega-recepción, así como el sistema electrónico de información, los cuales se integrarán al Manual de Políticas y Procedimientos; en los mismos se especificará la forma, términos y alcances de la información contenida en dicho expediente, debiéndose garantizar que la misma esté debidamente referenciada y guarde congruencia con el Reglamento Interior de la Administración Pública del Municipio, el Plan Municipal de Desarrollo y los correspondientes Programas Operativos Anuales.
 
-XVI. Exhortar a los integrantes del R. Ayuntamiento, para que cumplan adecuadamente con sus obligaciones, y con las comisiones que les hayan sido encomendadas;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVII. Auxiliarse de los demás integrantes del R. Ayuntamiento, para el cumplimiento de sus funciones, proponiendo al R. Ayuntamiento para tal caso comisiones permanentes o transitorias especiales, en las que propondrá a los ediles que la integrarán;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XVIII. Firmar los acuerdos, las actas de las sesiones y la correspondencia oficial;
+###### Artículo 12.
 
-XIX. Decretar un receso durante las sesiones cuando lo estime conveniente;
+Los Titulares de las Dependencias o Unidades Administrativas serán directamente responsables de preparar y revisar los libros de anexos a que se refiere el artículo 28 de la Ley, así como autorizarlos con su firma, mismos que serán consignados en dispositivos de almacenamiento magnético, óptico, magneto-óptico, tarjetas de memoria u otro análogo permitido por la Contraloría, de acuerdo a los datos generados por el sistema electrónico de información autorizado por el Contralor, quien verificará el contenido del mismo, y tendrá como fecha de corte la comprendida en un periodo no mayor de 15 días naturales antes de la fecha que se celebre el acto de entrega-recepción.
 
-XX. Representar al R. Ayuntamiento en los actos solemnes y en las ceremonias oficiales;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXI. Proponer al R. Ayuntamiento la expedición, reforma, modificación y derogación de Reglamentos; y emitirá los acuerdos, circulares y demás disposiciones administrativas que tiendan a regular el funcionamiento de las Dependencias;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XXII. Proponer al R. Ayuntamiento la firma de acuerdo de declaratoria de hermanamiento con otras ciudades del Estado o del país, o de otras ciudades extranjeras, así como para la participación con agrupaciones locales, nacionales e internacionales;
+###### Artículo 13.
 
-XXIII. Proponer al R. Ayuntamiento la firma de convenios de coordinación con otros Ayuntamientos o instancias de gobierno;
+Los Titulares de las Dependencias, Unidades Administrativas, Organismos descentralizados y desconcentrados determinarán al inicio de su gestión y en el ámbito de sus respectivas competencias, el servidor público con nivel de Director de área que será responsable de las obligaciones derivadas del presente reglamento. Dichos servidores públicos estarán obligados a actualizar mensualmente el sistema electrónico de información a que se refiere el presente artículo, así como contar con los documentos y archivos relativos al cargo que les corresponda, con la finalidad de hacer posible y de manera oportuna, el relevo de funciones de los servidores públicos.
 
-XXIV. Celebrar, en apego a la normatividad aplicable, los actos jurídicos necesarios para el despacho de los asuntos administrativos y la atención del desarrollo urbano y de los servicios públicos municipales;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXV. Proponer al R. Ayuntamiento las personas a ocupar los cargos de Secretario del Ayuntamiento y de Tesorero Municipal;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XXVI. Podrá notificar, si lo considera pertinente, en la siguiente sesión ordinaria de Ayuntamiento a sus integrantes, de los nombramientos y remociones de los Secretarios y Directores;
+###### Artículo 14.
 
-XXVII. Turnar a las comisiones del Ayuntamiento los asuntos que corresponda resolver al Ayuntamiento y aquellos de interés público que considere pertinentes;
+Tratándose de información relacionada con los asuntos y recursos asignados a los Regidores y Síndicos, será el Contralor Municipal el responsable de su debida integración en los mismos términos del artículo anterior.
 
-XXVIII. Las demás que señalen las Leyes, reglamentos y acuerdos del R. Ayuntamiento.
+Con la finalidad de garantizar la continuidad de los Programas de Trabajo y Proyectos de las Comisiones del Ayuntamiento, el Presidente de cada Comisión en coordinación con los demás integrantes, prepararán un informe detallado correspondiente al último año de gestión, el cual deberá ser integrado al Libro de Anexos de la Secretaría del Ayuntamiento, para que sea entregado por su Titular entrante a quienes ocuparán el cargo de Presidente en cada Comisión en la sesión en las que se integren las mismas.
 
-### CAPÍTULO V. DE LOS REGIDORES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 25.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Los Regidores representan a la comunidad y su misión es participar de manera colegiada en conjunto con los demás integrantes del R. Ayuntamiento en la definición de políticas que deban observarse en los asuntos del Municipio, velando por que el ejercicio de la Administración Municipal se desarrolle conforme a la legislación aplicable.
+###### Artículo 15.
 
-### CAPÍTULO VI. DE LOS SÍNDICOS
+El Contralor Municipal es el servidor público responsable de coordinar el proceso de entrega-recepción en todas las áreas de la administración pública municipal saliente, lo que llevará a cabo cuando menos seis meses antes del término constitucional del Ayuntamiento, auxiliándose para tal efecto por el Síndico Primero y los Titulares de cada Dependencia o Unidad Administrativa, y podrá solicitar en cualquier momento a los responsables la información necesaria para cumplir con su responsabilidad.
 
-###### ARTÍCULO 26.
+Para tal efecto, el Contralor instrumentará y operará mediante ensayos previos un sistema de seguimiento, verificación y solventación de observaciones detectadas en las diferentes revisiones practicadas por la Dependencia a su cargo respecto a la información contenida en el sistema electrónico de información. Una vez que a juicio del Contralor el expediente esté debidamente integrado, éste lo presentará al Presidente Municipal para su revisión, validación y firma.
 
-Los Regidores además de las atribuciones, facultades y obligaciones que le confiera la ley de la materia, tendrán las siguientes:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I. Asistir puntualmente a las sesiones que sean convocados, teniendo derecho a participar en las mismas con voz y voto; y debiendo permanecer en ellas hasta en tanto no se decrete su clausura y sujetarse y vigilar el cumplimiento de sus acuerdos;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-II. Solicitar al Presidente Municipal el uso de la palabra, esperando el turno que les corresponda para su intervención, la que no podrá exceder de dos veces sobre el mismo tema;
+###### Artículo 16.
 
-III. Observar la conducta adecuada para el desarrollo de la sesión respectiva, y asistir con vestimenta formal;
+El proceso de entrega-recepción de los Titulares Salientes de las Dependencias, Unidades Administrativas, Organismos Descentralizados o Desconcentrados que sean removidos o se separen del cargo al mismo tiempo que el cambio constitucional del Ayuntamiento, deberá llevarse a cabo una vez que los Titulares entrantes hayan recibido sus nombramientos en tiempo y forma y tomada la Protesta de Ley. Dicho acto se llevará a cabo en presencia de cuando menos dos testigos en el despacho de la Dependencia, Unidad Administrativa u Organismos descentralizados o desconcentrados y ante el Titular de la Contraloría o del representante que este último designe, quien dará fe del desarrollo de esta diligencia y levantará un acta administrativa por parte de éste último.
 
-IV. Proponer al Ayuntamiento o al Presidente Municipal, proyectos, programas o acciones que deban ejecutar las dependencias, que resulten necesarios para la solución de los problemas del Municipio o para el mejoramiento de la administración pública;
+Cualquier situación no prevista durante el desarrollo del proceso de entrega-recepción el Contralor deberá dejar constancia de la misma en un acta circunstanciada. El servidor público que incumpla las disposiciones relacionadas con el proceso de entrega-recepción será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-V. Solicitar que continúe la sesión cuando ésta haya excedido de las tres horas de su inicio, a fin de agotar los temas a tratar; o los que por mayoría de votos acuerden los miembros del R. Ayuntamiento;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI. Auxiliar adecuadamente al Presidente Municipal en sus actividades a través de la comisión o comisiones que le sean encomendadas;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Desempeñar las comisiones que les encomiende el R. Ayuntamiento, e informar con la periodicidad que le señale, sobre las gestiones realizadas;
+###### Artículo 17.
 
-VIII. Promover la participación ciudadana en apoyo a los programas del R. Ayuntamiento;
+En relación a los hechos que sucedan entre la fecha oficial de corte de información y el Acto protocolario de Entrega-Recepción, los Servidores Públicos salientes y entrantes, deberán elaborar un Acta Circunstanciada en la que se detalle la situación de los asuntos y Recursos Financieros, Humanos, Materiales, Obras, Programas Jurídicos, Plan Municipal de Desarrollo y Programas Operativos Anuales que hayan presentado movimientos, en presencia de los testigos y la representación de la Contraloría Municipal.
 
-IX. Vigilar que el R. Ayuntamiento cumpla con las disposiciones que establecen las leyes y con los planes y programas establecidos, y en su caso, supervisar el buen funcionamiento de los ramos de la administración que les encomiende y proponer las modificaciones a la organización y a los sistemas de trabajo respectivos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-X. Promover la expedición, reforma o abrogación de reglamentos municipales y demás disposiciones administrativas;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XI. Sujetarse a los acuerdos que tome el R. Ayuntamiento, de conformidad a las disposiciones legales y vigilar su cumplimiento;
+###### Artículo 18.
 
-XII. Analizar, discutir y votar los asuntos que se traten en las sesiones;
+En la sesión posterior al acto protocolario de entrega-recepción, el Ayuntamiento nombrará la Comisión Especial encargada de la elaboración del Dictamen de análisis del expediente y sus anexos. Dicha Comisión a propuesta del Presidente Municipal se integrará por tres miembros del Ayuntamiento, presidida por el Síndico Primero y contará con el auxilio del Contralor Municipal, en caso de que así lo requiera, por mayoría de votos de dicha Comisión.
 
-XIII. Solicitar por escrito, la información que se requiera para el mejor desempeño de su función y del trabajo de las Comisiones a las que pertenece, a los Secretarios y/o Directores de la Administración Pública Municipal;
+El dictamen de la Comisión será sometido a consideración del Ayuntamiento en un plazo que no excederá de 60 días naturales. El Ayuntamiento, al conocer el dictamen de la Comisión, podrá convocar a los servidores públicos que hayan formado parte del Ayuntamiento saliente, siempre que considere necesario precisar alguna información. La aprobación del dictamen no podrá exceder de un plazo de 90 días naturales computados a partir del acto protocolario de entrega-recepción.
 
-XIV. Atender las indicaciones que el Presidente Municipal les haga para el mejor desarrollo de las comisiones;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XV. Participar en las ceremonias cívicas, sociales y de esparcimiento que se lleven a cabo en el Gobierno Municipal;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Las demás que señale las Leyes, reglamentos y acuerdos del R. Ayuntamiento.
+###### Artículo 19.
 
-###### ARTÍCULO 27.
+El Ayuntamiento inicia su ejercicio a las cero horas del día 31 de octubre del año que corresponda y tomará protesta a las 23 horas del día anterior a su ejercicio.
 
-Los Síndicos son los encargados de vigilar, defender y procurar los intereses municipales, correspondiéndole al Síndico Segundo representar al R. Ayuntamiento en los casos señalados por la ley de la materia, representarán a la comunidad y participarán de manera colegiada en conjunto con los demás integrantes del R. Ayuntamiento en la definición de políticas que deban observarse en los asuntos del Municipio, también son responsables de vigilar la debida administración del Erario Público y del Patrimonio Municipal.
+La instalación se realizará en sesión solemne de acuerdo con lo establecido por la Ley y este Reglamento.
 
-### CAPÍTULO I. ACUERDOS Y RESOLUCIONES DEL AYUNTAMIENTO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 28.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Los Síndicos, tendrán las atribuciones, facultades y obligaciones que les confiere la ley de la materia, así como las que se les confieren a los Regidores en el artículo 26 de este ordenamiento y, además, las siguientes:
+###### Artículo 20.
 
-a) Son obligaciones del Síndico Primero:
+El protocolo para la instalación del Ayuntamiento a que se refiere el artículo 23 de la Ley seguirá el siguiente orden:
 
-I. Presidirá la Comisión de Hacienda Municipal y junto con ésta, vigilará el debido uso y aplicación de los recursos que integran la Hacienda Pública Municipal;
+I. Toma de protesta por el Presidente Municipal saliente al Presidente Municipal Electo;
 
-II. Vigilar y cuidar de que se realicen las presentaciones en tiempo y forma de glosas, informes trimestrales y cuenta pública anual ante este R. Ayuntamiento, al H. Congreso del Estado o la autoridad competente;
+II. Toma de protesta por el Presidente Municipal de los dos Síndicos Electos;
 
-III. Analizar y firmar los estados de origen y aplicación de fondos, la cuenta pública municipal anual y los estados financieros.
+III. Toma de protesta por el Presidente Municipal de los Regidores Electos; y
 
-b) Son obligaciones del Síndico Segundo:
+IV. El Presidente Municipal declarará formalmente instalado el Ayuntamiento entrante.
 
-I. Intervenir en los actos jurídicos que realice el R. Ayuntamiento en materia de pleitos y cobranzas y ejercer la personalidad jurídica que corresponde al Municipio juntamente con el Presidente Municipal en los actos jurídicos que celebre el mismo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Vigilar que los servidores públicos municipales que señala la ley de la materia presenten oportunamente su declaración patrimonial en los tiempos requeridos;
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-III. Presidir la Comisión de Gobernación y Reglamentación.
+###### Artículo 21.
 
-###### ARTÍCULO 29.
+En dicha ceremonia se convocará a todos los integrantes del Ayuntamiento para la primera sesión ordinaria donde el principal punto del día a tratar serán los nombramientos propuestos por el Presidente Municipal de los siguientes cargos:
 
-Los acuerdos y resoluciones del Ayuntamiento podrán ser:
+I. Secretario del Ayuntamiento;
 
-I. Reglamentos Gubernativos.
+II. Tesorero Municipal;
 
-II. Plan Municipal de Desarrollo.
+III. Contralor Municipal; y
 
-III. Presupuesto de Egresos.
+IV. Secretario de Seguridad Pública y Vialidad.
 
-IV. Iniciativas de Leyes o Decretos.
+Además del punto anterior y a propuesta del Presidente Municipal se designará a la Comisión de entrega-recepción que será encargada de revisar y analizar el acta respectiva.
 
-V. Disposiciones Administrativas de observancia general.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI. Disposiciones Administrativas de alcance particular.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Acuerdos generales.
+### Capítulo III. Atribuciones y responsabilidades del Gobierno Municipal
 
-###### ARTÍCULO 30.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Son reglamentos gubernativos las resoluciones del Ayuntamiento que consisten en normas de carácter general, abstractas, impersonales, permanentes, obligatorias y coercibles, que están encaminadas al cumplimiento, ejecución y aplicación de las disposiciones en materia municipal, salvaguardar el orden público y promover el bien común de la comunidad y para la mejor prestación de los servicios públicos.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 31.
+###### Artículo 22.
 
-El Plan Municipal de Desarrollo es el documento que contiene la definición de los programas que el Gobierno Municipal deberá ejecutar en el periodo constitucional del Ayuntamiento.
+La personalidad jurídica del Municipio deriva en dos supuestos:
 
-###### ARTÍCULO 32.
+I. La representación del Ayuntamiento se ejerce por conducto del Presidente Municipal y el Síndico. Dicha representación puede delegarse por acuerdo de mayoría de votos de los miembros del Ayuntamiento a propuesta del Presidente Municipal.
 
-El Presupuesto de Egresos es el destinado para sufragar el ejercicio anual del 1º de enero al 31 de diciembre de cada año, las actividades, obras y servicios públicos previstos en los programas a cargo de las dependencias y organismos descentralizados del Gobierno Municipal.
+II. La representación de la administración pública consiste en la representación legal del Ayuntamiento que se ejerce por el Presidente Municipal y la misma es delegable a propuesta del mismo, previo acuerdo por mayoría de votos de los miembros del Ayuntamiento.
 
-###### ARTÍCULO 33.
+En el ejercicio de ambas representaciones deberá rendirse cuenta trimestral al Ayuntamiento en los términos que señale este Reglamento.
 
-Tienen el carácter de Iniciativa de Leyes o Decretos las resoluciones del Ayuntamiento que sean emitidas para plantear al Congreso del Estado, en ejercicio de su facultad de iniciativa que consagra la Constitución Local, las modificaciones legales o la expedición de Decreto sobre determinado asunto. Tiene el carácter de iniciativa de decreto el anteproyecto de presupuesto de ingresos que cada año por disposición de ley envía el Ayuntamiento al Congreso del Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 34.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Son Disposiciones Administrativas de observancia general, las resoluciones del Ayuntamiento que teniendo los caracteres de generales, abstractos, impersonales, obligatorios y coercibles, en atención del interés social.
+###### Artículo 23.
 
-###### ARTÍCULO 35.
+Son atribuciones y responsabilidades del Ayuntamiento aquellas que estipula la Ley, y para su estricta observancia se deberá:
 
-Son Disposiciones Administrativas de alcance particular, las resoluciones del Ayuntamiento que teniendo el carácter de concretas, personales, se dictan en congruencia con el interés social y en concordancia con las disposiciones legales aplicables.
+I. En materia de Gobierno y Régimen Interior:
 
-###### ARTÍCULO 36.
+a) Aprobar el Plan Municipal de Desarrollo dentro de los primeros tres meses desde la fecha de instalación del Ayuntamiento, así como su correspondiente difusión a la ciudadanía;
 
-Son Acuerdos Generales las resoluciones del Ayuntamiento que sin incidir directa o indirectamente en la esfera jurídica de los particulares, y sin modificar el esquema de competencias de la autoridad municipal, fijen posiciones respecto a asuntos de interés público.
+b) Aprobar la constitución, transformación o extinción de órganos desconcentrados;
 
-###### ARTÍCULO 37.
+c) Aprobar la transformación o extinción de órganos descentralizados;
 
-La Secretaría del Ayuntamiento dispondrá la compilación de los acuerdos y resoluciones del Ayuntamiento, en orden progresivo y temático mediante los instrumentos y mecanismos que considere convenientes, a fin de brindar a sus integrantes el servicio de consulta y actualización que requieran para el ejercicio de sus funciones.
+d) Aprobar la constitución de órganos descentralizados con la aprobación del Congreso del Estado;
 
-La compilación a que se refiere el presente artículo deberá ponerse a disposición de la ciudadanía conforme lo establece la Ley de Acceso a la Información Pública del Estado, además de la Gaceta Municipal publicada por la Dirección de Comunicación Social.
+e) Aprobar la celebración de Convenios o Contratos que comprometan al Municipio durante un plazo mayor al período de duración del Ayuntamiento;
 
-###### ARTÍCULO 38.
+f) Solicitar al Ejecutivo Estatal o Federal la expropiación de bienes por causa de utilidad pública;
 
-Los dictámenes deberán ser propuestas o iniciativas que se propongan al pleno del Ayuntamiento, exponiendo ordenada, clara y concisamente las razones por las que dicho asunto en cuestión se aprueben, desechen o modifiquen.
+g) Ordenar a las Secretarías y demás dependencias internas la expedición de manuales complementarios de control administrativo;
 
-###### ARTÍCULO 39.
+h) Deliberar y decidir en Pleno sobre los asuntos que se sometan a su consideración y emitir los acuerdos correspondientes conforme a las reglas de votación que establece este Reglamento;
 
-Todo documento presentado en sesión, deberá ser dirigido al pleno del Ayuntamiento de la Ciudad de General Escobedo, Nuevo León, que contengan la leyenda de la Comisión o en su caso, la de las Comisiones Unidas de las cuales se forme parte.
+i) Dar difusión a los Reglamentos Municipales por conducto de la Gaceta Municipal;
 
-###### ARTÍCULO 40.
+j) Designar a los integrantes de las Comisiones del Ayuntamiento conforme con las propuestas del Presidente Municipal;
 
-Todo dictamen estará compuesto de cuatro partes fundamentales: un preámbulo, los antecedentes, los considerandos y los puntos resolutivos. Deberá estar debidamente fundado y motivado en el que se expresen las razones en que se funde, las modificaciones que en su caso se hayan realizado, concluyendo en todo caso, con proposiciones claras y sencillas que puedan someterse a votación.
+k) Citar a comparecer a los servidores públicos municipales para efectos de informar sobre los asuntos a su cargo;
 
-###### ARTÍCULO 41.
+l) Conceder licencias sobre faltas temporales o definitivas de los miembros del Ayuntamiento.
 
-El preámbulo deberá contener la mención del asunto en estudio, el emisor del mismo, así como la fundamentación legal de la competencia de la Comisión para conocer del asunto.
+II. En materia de Servicios Públicos:
 
-###### ARTÍCULO 42.
+a) Expedir los lineamientos para la prestación de servicios públicos que están a su cargo de acuerdo con la Ley;
 
-Los antecedentes deberán contener los hechos, situaciones o acciones que causan u originan el asunto en dictamen.
+b) Acordar el otorgamiento de concesión de servicios públicos con excepción de los de Seguridad Pública, Transporte Colectivo y Tránsito Municipal.
 
-### CAPÍTULO II. DE LAS SESIONES
+III. En materia de Hacienda Pública Municipal
 
-###### ARTÍCULO 43.
+a) Expedir los lineamientos para el correcto ejercicio de los recursos que integran la Hacienda Pública;
 
-Los considerandos deberán contener la exposición clara, ordenada y concisa de los argumentos por los cuales se aprueba, desecha o modifica la proposición o iniciativa. Así como la fundamentación y motivación de los mismos, en las leyes aplicables.
+b) Aprobar el presupuesto de ingresos por mayoría simple a propuesta del Presidente Municipal. El ayuntamiento deberá remitirlo al Congreso antes del día quince del mes de noviembre del año anterior al que surta sus efectos; y en caso de que corresponda la instalación del Ayuntamiento ese año a más tardar el 30 de noviembre;
 
-###### ARTÍCULO 44.
+c) Aprobar por mayoría simple a más tardar el 31 de diciembre de cada año el Presupuesto Anual de Egresos a propuesta del Presidente Municipal;
 
-Los puntos resolutivos deberán expresar el sentido del dictamen, mediante proposiciones claras y sencillas que puedan sujetarse a votación.
+d) Informar al Congreso del Estado antes del 31 de marzo de cada año, por conducto de su Tesorero Municipal, la cuenta pública municipal correspondiente al año anterior;
 
-###### ARTÍCULO 45.
+e) Informar al Congreso del Estado antes del 29 de enero del año siguiente al que se trate de la instalación de un nuevo Ayuntamiento sobre la glosa de cuentas de la administración anterior;
 
-Los dictámenes deberán contar con la firma de la mayoría de los integrantes de la comisión. Los regidores y/o síndicos que disientan del contenido pueden suscribir el dictamen agregando la leyenda “en contra” o “en abstención”. De igual forma, podrán expresar la reserva de artículos que así consideren o bien podrán anunciar la presentación de un voto particular.
+IV. En materia de Patrimonio Municipal
 
-## TÍTULO SEGUNDO. DEL FUNCIONAMIENTO DEL AYUNTAMIENTO
+a) Establecer lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obras públicas de acuerdo con las leyes de la materia;
 
-### CAPÍTULO III. DE LAS DISCUSIONES EN LAS SESIONES
+b) Otorgar o revocar la concesión de bienes de dominio público o privado municipales cuando la vigencia de los contratos haya fenecido;
 
-###### ARTÍCULO 46.
+c) Aprobar la desafectación mediante declaratoria en la Gaceta Municipal de los bienes de dominio público municipal;
 
-Respecto de los asuntos no dictaminados por el pleno del Ayuntamiento al finalizar la gestión, se entenderán que son desechados.
+d) Aprobar la incorporación de bienes de dominio público al patrimonio municipal;
 
-###### ARTÍCULO 47.
+e) Aprobar la realización de actos de dominio y la creación de gravámenes sobre bienes inmuebles de dominio privado;
 
-Para informar del avance de los planes y programas de la Administración y resolver los asuntos de interés común que les corresponden, el R. Ayuntamiento celebrará sesiones a través de las cuales se podrán tomar decisiones colegiadas vía acuerdo sobre las políticas generales de promoción del desarrollo y bienestar social de la población del Municipio.
+f) Aprobar la enajenación de bienes inmuebles para satisfacer las necesidades del Municipio;
 
-###### ARTÍCULO 48.
+g) Preservar los archivos históricos municipales.
 
-Las sesiones del R. Ayuntamiento serán:
+V. En materia de Trabajo y Previsión Social
 
-I. Ordinarias.
+a) Promover y apoyar, en coordinación con los demás niveles de Gobierno, programas de capacitación y organización para el trabajo;
 
-II. Extraordinarias.
+b) Procurar la prestación gratuita de servicios de colocación laboral o profesional con el fin de promover el empleo.
+
+VI. En materia de Desarrollo Económico y Social
+
+a) Desarrollar protocolos de actuación para prevenir emergencias y contingencias en el ámbito de su competencia;
+
+b) Promover el desarrollo económico sustentable y social a través de programas económicos, culturales y cívicos que fortalezcan la calidad de vida de los habitantes.
+
+V (SIC). En materia de Participación Ciudadana y Cultura Municipal
+
+a) Emitir el Reglamento de Participación Ciudadana y Cultura Municipal que incluya los mecanismos y procedimientos para la participación cívica de los habitantes en los programas sociales y de desarrollo municipal;
+
+b) Establecer políticas públicas que promuevan la cultura y las artes en el ámbito municipal además de la identidad de la comunidad.
+
+VI. En materia de Derechos Humanos
+
+a) Fomentar, garantizar y procurar en el ámbito de su competencia el respeto a los Derechos Humanos así como sus garantías en la creación de Reglamentos así como en todos los actos de Gobierno;
+
+b) Fomentar, garantizar y procurar en el ámbito de su competencia los derechos de minorías especialmente vulnerables como las mujeres, niños, indígenas y personas de la tercera edad.
+
+VII. En materia de Transparencia, Fiscalización y Contabilidad Gubernamental
+
+a) Crear la Dirección de Información, Transparencia y Fiscalización de la Cuenta Pública;
+
+b) Emitir el Reglamento de Derecho a la Información, Transparencia y Fiscalización de la Cuenta Pública que establezca mecanismos sencillos, efectivos e idóneos para el acceso a la información así como de rendición de cuentas y protección de datos personales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo IV. Facultades y Obligaciones del Presidente Municipal
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 24.
+
+Las facultades y obligaciones del Presidente Municipal se clasifican en indelegables y delegables. Las primeras no pueden ser ejercidas por otra persona distinta al Titular del Ayuntamiento en tanto se encuentre presente, mientras que las segundas pueden ser ejercidas por los miembros que la Ley o los Reglamentos municipales dispongan.
+
+I. Son facultades indelegables además de las que señala la Ley:
+
+a) Encabezar la Administración Pública Municipal;
+
+b) Presidir las Sesiones del Ayuntamiento;
+
+c) Rendir un informe anual de (sic) Gobierno Municipal en sesión solemne el día del mes de octubre que el mismo proponga, conforme a los requisitos indicados en la Ley;
+
+d) Proponer la integración de las Comisiones en que deban organizarse los Regidores y Síndicos;
+
+e) Proponer al Ayuntamiento el nombramiento y remoción del Secretario del Ayuntamiento, Tesorero Municipal, Titular del Área de Seguridad Pública y Contralor Municipal;
+
+f) Ordenar la publicación en la Gaceta Municipal y Periódico Oficial del Estado los Reglamentos y demás Acuerdos expedidos por el Ayuntamiento;
+
+g) Nombrar y remover libremente al personal a su cargo cuya designación no se encuentre expresamente prevista en la Ley o Reglamentos municipales;
+
+h) Firmar los acuerdos, las actas de las sesiones y la correspondencia oficial.
+
+II. Son delegables además de las que señala la Ley:
+
+a) Planear, programar, presupuestar, coordinar y evaluar el desempeño de las unidades administrativas de la administración pública municipal que se creen por acuerdo del Ayuntamiento;
+
+b) Celebrar todos los actos, convenios y contratos necesarios para el despacho de los asuntos administrativos y la atención de los servicios públicos municipales;
+
+c) Todas aquellas facultades que determine la Ley que sean delegables así como los Reglamentos municipales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo V. Facultades y Obligaciones de los Regidores
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 25.
+
+Los Regidores tienen las facultades y obligaciones, además de las que señala la Ley, las siguientes:
+
+I. Cumplir con las disposiciones constitucionales, legales y reglamentarias;
+
+II. Iniciar o realizar propuestas sobre los asuntos que son competencia del Ayuntamiento;
+
+III. Asistir puntualmente a las sesiones en las que sean convocados, pudiendo participar en las mismas de acuerdo al Reglamento y debiendo permanecer en ellas, además de vigilar el cumplimiento de sus acuerdos;
+
+IV. Desempeñar las Comisiones que le encomiende el Ayuntamiento e informar sobre los avances y gestiones realizados en las mismas;
+
+V. Vigilar el adecuado desempeño de la administración pública municipal de acuerdo a su cargo o la Comisión en la que esté designado;
+
+VI. Proponer al Pleno del Ayuntamiento la formulación, expedición, modificación o reforma de los Reglamentos Municipales, Lineamientos, Circulares y Acuerdos del Ayuntamiento y vigilar su debido cumplimiento;
+
+VII. Analizar, discutir y votar los asuntos que se traten en las sesiones;
+
+VIII. Solicitar por escrito, la información que se requiera para el mejor desempeño de su función y del trabajo de las Comisiones a las que pertenece, a los Secretarios y/o Directores de la Administración Pública Municipal;
+
+IX. Atender las indicaciones que el Presidente Municipal les haga para el mejor desarrollo de las Comisiones;
+
+X. Las demás que señale la Ley, Reglamentos y Acuerdos del Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo VI. Facultades y Obligaciones de los Síndicos
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 26.
+
+Las facultades y obligaciones de los Síndicos Municipales, además de las que señala la Ley, las siguientes:
+
+I. Respecto del Síndico Primero:
+
+a) Coordinar y presidir la Comisión de Hacienda Municipal y junto con ésta, vigilará el debido uso y aplicación de los recursos que integran la Hacienda Pública Municipal;
+
+b) Tener acceso directo al sistema de contabilidad, incluyendo el Libro Auxiliar del mayor;
+
+c) Asistir a los remates, subastas y licitaciones públicas en los que tenga interés el Municipio, para que se adjudiquen al mejor postor o licitante;
+
+d) Analizar y firmar los estados de origen y aplicación de fondos, la cuenta pública municipal anual y los estados financieros;
+
+e) Vigilar y cuidar que se realicen las presentaciones sobre el informe mensual elaborado por el Tesorero Municipal;
+
+f) Vigilar que la Cuenta Pública se remita al Congreso del Estado en la forma y términos previstos legalmente;
+
+g) Intervenir en la formulación y actualización de inventarios de bienes del municipio;
+
+III (SIC). Respecto del Síndico Segundo:
+
+a) Vigilar que todos los servidores públicos municipales de representación popular y nivel directivo o superior presenten su declaración patrimonial;
+
+b) Estar informado del estado financiero y patrimonial del Municipio y de la situación general del Ayuntamiento;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 27.
+
+Son atribuciones y obligaciones comunes de ambos Síndicos, además de las que señala la Ley, las siguientes:
+
+I. Iniciar o realizar propuestas sobre asuntos que son competencia del Ayuntamiento;
+
+II. Proponer la formulación, expedición, modificación o reforma de los Reglamentos Municipales, Disposiciones Administrativas y Acuerdos del Ayuntamiento;
+
+III. Participar en las sesiones del Ayuntamiento, teniendo voz en las deliberaciones y voto en las resoluciones;
+
+IV. Examinar la documentación relacionada con el patrimonio municipal, ejercicio presupuestario y en general la administración pública;
+
+V. Participar en las ceremonias cívicas que se lleven a cabo en el Ayuntamiento;
+
+VI. Las demás que señale la Ley y los Reglamentos Municipales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo VII. Faltas y licencias
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 28.
+
+La aprobación de licencias y renuncias son otorgadas por el Ayuntamiento en Pleno por mayoría de votos. No podrán concederse tal número de licencias que afecten el quórum para declarar válidamente instalada la sesión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 29.
+
+Para efectos del normal funcionamiento del Cabildo las faltas temporales de los integrantes del Ayuntamiento que no excedan de 15 días naturales, no requieren solicitud de licencia, pero deberán hacerse del conocimiento del ayuntamiento con 3 días hábiles de anticipación de la ausencia del integrante respectivo.
+
+En caso de no dar aviso a que se refiere el párrafo anterior la ausencia del integrante se computará como una falta temporal de más de 15 días naturales.
+
+Las reglas anteriores no son aplicables al Secretario del Ayuntamiento, el Tesorero Municipal, el Titular del Área de Seguridad Pública y el Contralor Municipal, quienes deberán sujetarse a las bases del artículo siguiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 30.
+
+El Secretario del Ayuntamiento, el Tesorero Municipal, el Titular del Área de Seguridad Pública y el Contralor Municipal, requieren de licencia otorgada por el Ayuntamiento para separarse temporalmente del ejercicio de sus funciones, hasta por 15 días naturales consecutivos. El otorgamiento de licencia será sin remuneración económica alguna y no deberá exceder de dos veces por año de gestión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 31.
+
+Las faltas temporales que duren más de 15 días naturales deberán ser aprobadas por mayoría simple de los integrantes del ayuntamiento siempre y cuando exista una causa justificada para ello.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 32.
+
+Las faltas injustificadas consecutivas a tres o más sesiones ordinarias del Ayuntamiento, se entenderá que el integrante del Ayuntamiento ha incumplido con sus funciones, por lo que deberá iniciarse el procedimiento de suspensión del mandato de acuerdo a lo que estipule la Ley.
+
+Las faltas injustificadas consecutivas a cinco o más sesiones ordinarias del Ayuntamiento, se entenderá que el integrante del Ayuntamiento ha abandonado su cargo y se considerará falta absoluta, por lo que deberá iniciarse el procedimiento de revocación del mandato de acuerdo a lo que estipule la Ley.
+
+Decretada la suspensión o revocación, tanto de Síndicos como de Regidores propietarios se cubrirán con los respectivos suplentes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 33.
+
+La renuncia de los integrantes del Ayuntamiento sólo podrá ser por causa justificada.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 34.
+
+El ayuntamiento calificará como causa justificada las siguientes:
+
+I. Ser llamado para ejercer un empleo, cargo o comisión de la administración pública municipal, estatal o federal o en organismos autónomos, desconcentrados o descentralizados de cualquier de los tres órdenes de Gobierno;
+
+II. Para enfrentar un proceso penal;
+
+III. Por imposibilidad física o mental; o
+
+IV. Aquellas que sean consideradas por el Ayuntamiento como incompatibles al cargo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 35.
+
+Para efectos de calificar la causa justificada el Ayuntamiento valorará y resolverá en sesión pública las pruebas aportadas por el solicitante, en un plazo de 5 días hábiles a partir de su presentación y resolverá la negativa o aprobación de la solicitud respectiva.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 36.
+
+Además de los requisitos anteriores, para efectos de valorar una causa justificada incompatible al cargo, el Ayuntamiento tomará en cuenta las pruebas aportadas por el solicitante así como las probables responsabilidades en las que podría incurrir el mismo en caso de no ser aceptada la licencia o renuncia respectiva de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 37.
+
+En caso de renuncia, el Ayuntamiento deberá llamar a su suplente para que rinda protesta de ley y se incorpore a los trabajos y Comisiones de las que formaba parte el propietario.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 38.
+
+La falta temporal del Secretario del Ayuntamiento, Tesorero Municipal, del Titular del área de Seguridad Pública y del Contralor Municipal serán cubiertas por quien designe el Presidente Municipal, excepto en el caso del Contralor Municipal que será el propio Ayuntamiento a propuesta del Presidente Municipal.
+
+La falta absoluta de los servidores públicos municipales referidos en el párrafo anterior, serán cubiertas en la forma dispuesta para la propuesta y nombramiento de los mismos, en los términos de la Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 39.
+
+El Presidente Municipal podrá ausentarse del municipio hasta por 30 días naturales sin perder su carácter, por razones de enfermedad, vacaciones, o las contempladas por la Ley.
+
+En caso que la ausencia sea por más de 30 y menos de 60 días naturales únicamente será para atender cuestiones de salud personal.
+
+En todo caso, el aviso al Ayuntamiento para efectos de aprobar la licencia será en un término máximo de cinco días.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 40.
+
+Las licencias a que se refiere el artículo anterior seguirán las reglas siguientes:
+
+I. Cuando las faltas que no excedan de 15 días naturales, los asuntos de mero trámite serán atendidos por el Secretario del Ayuntamiento, cumpliendo en todo momento las instrucciones del Presidente Municipal, sin tener derecho de voto en las sesiones del Ayuntamiento.
+
+II. Si la ausencia es mayor de quince días pero menor de treinta días naturales, el Presidente Municipal deberá recabar el permiso del Ayuntamiento quien decidirá por mayoría simple la aceptación o negativa respectiva.
+
+Dicha ausencia será suplida por el integrante que acuerde el propio Ayuntamiento a propuesta del Presidente Municipal, quien quedará como encargado del Despacho con todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 41.
+
+La licencia temporal por más de 30 y menos de 60 días naturales del titular de la Presidencia municipal, únicamente procederá para atender cuestiones de salud personal, en cuyo caso será suplido por un encargado de despacho mismo que será designado por el Cabildo por mayoría de votos a propuesta del Presidente municipal, quien además contará con todas las atribuciones que las disposiciones jurídicas dispongan para el mismo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 42.
+
+En caso de renuncia del Presidente Municipal, el Ayuntamiento por acuerdo de la mayoría absoluta de sus integrantes y respetando en todo momento el origen partidista del Presidente electo, designará de entre sus miembros un encargado de despacho quién se encargará de la Presidencia Municipal, el cual tendrá todas las atribuciones que las disposiciones jurídicas dispongan para el Presidente Municipal hasta en tanto no rinda protesta el Presidente Municipal sustituto.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo VIII. De la Participación Ciudadana en el Gobierno Municipal
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 43.
+
+La participación ciudadana es una forma de democracia entre los ciudadanos y la administración pública municipal para la toma de decisiones en los actos de gobierno, que se rige por los principios de transparencia, coordinación, autonomía, responsabilidad, objetividad, legalidad, imparcialidad, participación, igualdad, tolerancia, eficacia, eficiencia, equidad, competitividad y respeto a los acuerdos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 44.
+
+Son instrumentos de participación ciudadana la iniciativa ciudadana, participación en consejos ciudadanos, presupuesto participativo, participación en la contraloría social, consulta ciudadana, y audiencia pública.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 45.
+
+El Reglamento de Participación Ciudadana y Cultura Municipal regulará cada una de las figuras descritas en el artículo que antecede y tendrá como propósito cumplir con los fines del trabajo y solidaridad en el desarrollo vecinal, cívico y el beneficio colectivo del municipio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+## Título Segundo. Del funcionamiento del Gobierno Municipal
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo I. De las Sesiones
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 46.
+
+Para resolver los asuntos de interés común que le corresponden, el Ayuntamiento celebrará sesiones a través de las cuales se podrán tomar decisiones, vía acuerdos del mismo órgano; dichas sesiones podrán ser:
+
+I. Ordinarias;
+
+II. Extraordinarias; y
 
 III. Solemnes.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 49.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Se deberán celebrar dos sesiones ordinarias por mes, las que podrán celebrarse cualesquier día de la semana, teniendo una duración de 3-tres horas como máximo, pudiendo ser ampliado este horario cuando así lo determine la mayoría de los integrantes del R. Ayuntamiento, para agotar los asuntos acordados.
+###### Artículo 47.
 
-Se deberán publicar las convocatorias de todas las sesiones en la página electrónica del municipio.
+Las sesiones ordinarias, tendrán por objeto atender los asuntos de Gobierno y de la Administración Pública Municipal y deberán celebrarse dos veces por mes, cualquier día de la semana, teniendo una duración de 3 horas como máximo, misma que podrá ser ampliada cuando así lo determine la mayoría de los integrantes del Ayuntamiento, a propuesta del Presidente Municipal.
 
-###### ARTÍCULO 50.
+La convocatoria a las sesiones ordinarias correrá a cargo del Presidente Municipal o el Secretario del Ayuntamiento a petición del primero, y deberá realizarse por escrito enviado a las oficinas de cada uno de los integrantes del Ayuntamiento con un mínimo de 48 horas de anticipación; corresponderá al Secretario del Ayuntamiento cerciorarse de la recepción de dichos escritos, realizando todas las diligencias necesarias para el cumplimiento de dicho encargo; adicionalmente la convocatoria a la sesión deberá ser publicada en la Página Oficial del Municipio por lo menos 24 horas antes del inicio de la sesión.
 
-Serán sesiones extraordinarias las que se celebren cuando algún asunto así lo requiera y las que les den este carácter los integrantes del R. Ayuntamiento. Para ello, basta con la solicitud de cuando menos con las dos terceras parte de los miembros del R. Ayuntamiento y/o cuando el Presidente Municipal lo estime pertinente, las cuales se celebrarán en el horario y fecha que sea acordado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Debiendo tener preferentemente el siguiente orden del día:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-I. Lista de Asistencia y Declaratoria de Quórum.
+###### Artículo 48.
 
-II. Lectura del acta de la sesión anterior para en su caso aprobación o corrección.
+Las sesiones extraordinarias se realizarán cuantas veces sean necesarias, para resolver situaciones de urgencia y su objeto será atender exclusivamente aquellos asuntos para los cuales fue convocada.
 
-III. Seguimiento de acuerdos
+La convocatoria a las sesiones extraordinarias correrá a cargo del Presidente Municipal o el Secretario del Ayuntamiento y deberá realizarse por escrito que consigne las situaciones de urgencia que la motivan, el cual será enviado a las oficinas de cada uno de los integrantes del Ayuntamiento con un mínimo de 24 horas de anticipación, correspondiendo al Secretario del Ayuntamiento cerciorarse de la recepción de dichos escritos realizando todas las diligencias necesarias para el cumplimiento de dicho encargo; adicionalmente dicha convocatoria deberá enviarse al correo electrónico que para tal efecto hayan señalado los integrantes del Ayuntamiento.
 
-IV. Temas a tratar.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V. Clausura de la sesión.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 51.
+###### Artículo 49.
 
-Serán Sesiones Solemnes aquellas a las que el R. Ayuntamiento les dé este carácter, por la importancia del asunto de que se trate, debiendo preferentemente presentarse en estas sesiones solemnes con vestimenta formal y de color obscuro.
+Serán sesiones solemnes aquellas a las que el Ayuntamiento les dé este carácter, por la importancia del asunto de que se trate; siempre serán sesiones solemnes las siguientes:
 
-Debiendo ser siempre Sesiones Solemnes:
+I. En las que se entregue el Reconocimiento Público Presea “Capitán José de Treviño” y “Presea General Mariano Escobedo”;
 
-I. Cuando se haga la toma de protesta del R. Ayuntamiento.
+II. En las que se haga entrega de las llaves de la Ciudad, se formalice algún hermanamiento y algún otro premio o reconocimiento que el Ayuntamiento determine otorgar en ese tipo de sesiones; y
 
-II. Las sesiones en las que se de la lectura del informe anual de la Administración por conducto del Presidente Municipal a la ciudadanía.
+III. Las señaladas expresamente en la Ley y este Reglamento.
 
-III. Las sesiones a las que concurra el Presidente de la República o el Gobernador del Estado.
+La convocatoria a las sesiones solemnes se hará siguiendo el procedimiento previsto para las sesiones ordinarias.
 
-IV. Las sesiones a las concurran algún miembro de los poderes públicos federales, estatales o de otros municipios, siempre que el R. Ayuntamiento así lo decida.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V. Las sesiones en las que se entregue El Reconocimiento Público Presea “Capitán José de Treviño” y “Presea General Mariano Escobedo”.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-VI. En las que se haga entrega de las llaves de la Ciudad, se formalice algún hermanamiento, y algún otro premio o reconocimiento que el R. Ayuntamiento determine otorgar en ese tipo de Sesiones.
+###### Artículo 50.
 
-###### ARTÍCULO 52.
+En todo caso, las convocatorias a que se refiere el presente capítulo deberán incluir cuando menos la siguiente información:
 
-Las Sesiones Ordinarias, las Sesiones Extraordinarias y Sesiones Solemnes se celebrarán en el recinto oficial del R. Ayuntamiento o en el que para tal efecto acuerde el propio Ayuntamiento, mediante declaratoria oficial.
+I. La fecha y la hora en la que se llevará a cabo la sesión;
 
-###### ARTÍCULO 53.
+II. El lugar donde se llevará a cabo la sesión;
 
-Las Sesiones del Ayuntamiento serán públicas, salvo los siguientes casos:
+III. El tipo de sesión para la cual fueron convocados;
 
-I. Cuando se traten asuntos de responsabilidad de la función de algún servidor público de la administración o de algún organismo descentralizado y/o de algún miembro del R. Ayuntamiento, y los que por su naturaleza a juicio del R. Ayuntamiento conviniere la presencia exclusiva de sus integrantes.
+IV. En el caso de sesiones extraordinarias y solemnes, las razones que las motiven.
 
-II. Cuando el público asistente no guarde el orden debido, en cuyo caso el Presidente Municipal los invitará a abandonar el recinto y reanudará la sesión únicamente con los integrantes del R. Ayuntamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-### CAPÍTULO IV. DE LAS COMISIONES
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 54.
+###### Artículo 51.
 
-Para que las Sesiones del Ayuntamiento sean válidas se necesita como requisito previo que se haya citado, por conducto del Presidente Municipal, por escrito o en otra forma indubitable a la totalidad de los integrantes del R. Ayuntamiento, con una anticipación cuando menos de 24-veinticuatro horas antes de la celebración de las sesiones ordinarias y solemnes; y en el menor tiempo posible cuando se trate de sesiones extraordinarias.
+Las sesiones ordinarias y extraordinarias se celebrarán en el recinto oficial del Ayuntamiento, mientras que las sesiones solemnes se celebrarán en el recinto que para tal efecto acuerde el propio Ayuntamiento, mediante declaratoria oficial.
 
-###### ARTÍCULO 55.
+En casos especiales y previo acuerdo del propio Ayuntamiento, las sesiones ordinarias y extraordinarias podrán celebrarse en otro lugar que previamente sea declarado por el propio Ayuntamiento como lugar oficial para la celebración de dichas sesiones.
 
-Para declarar legalmente iniciados los trabajos de la sesión del R. Ayuntamiento, se requiere de que estén presentes al pase de lista, la mitad más uno de los integrantes del R. Ayuntamiento quienes para el caso de los Regidores ocuparán un lugar en la mesa de sesiones de acuerdo a la numeración que les corresponda quedando del lado derecho de la mesa de la Sala de Sesiones los números nones y del lado izquierdo los números pares, el Presidente Municipal se sentará al centro de la mesa de sesiones, el Secretario del R. Ayuntamiento a su lado izquierdo y el Tesorero Municipal a su lado derecho. A la derecha del Secretario del Ayuntamiento se sentará el Síndico Segundo y a la izquierda del Tesorero Municipal se sentará el Síndico Primero.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 56.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-El integrante del R. Ayuntamiento que no hubiere asistido a una Sesión, podrá solicitar al Secretario del R. Ayuntamiento dentro de las 24 horas siguientes a la realización de la sesión se le informe de los acuerdos ahí tomados.
+###### Artículo 52.
 
-###### ARTÍCULO 57.
+Las sesiones del Ayuntamiento serán públicas con excepción de aquellas que señale expresamente la Ley y el presente Reglamento, y deberán ser difundidas a través de la Gaceta Municipal y la página oficial del Gobierno.
 
-Para el desarrollo de la Sesión el Secretario del Ayuntamiento podrá listar como mínimo los asuntos en el orden siguiente:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I. Lista de Asistencia y Declaratoria de Quórum.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-II. Lectura del acta de la sesión anterior para en su caso aprobación o corrección.
+###### Artículo 53.
 
-III. Seguimiento de acuerdos
+Para la validez de las sesiones, se requerirá:
 
-IV. Temas a tratar.
+I. Que la convocatoria a las sesiones se haya realizado siguiendo las formalidades previstas en el presente Reglamento. No serán invalidas aquellas sesiones en las que no obstante no haber cumplido con las citadas formalidades de las convocatorias, haya concurrido la totalidad de los miembros del Ayuntamiento; y
 
-V. Asuntos Generales.
+II. Que se encuentren presentes, por lo menos, la mitad más uno de los miembros del Ayuntamiento.
 
-VI. Clausura de la sesión.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 58.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-En el caso de causa justificada de inasistencia del Presidente Municipal a una sesión del R. Ayuntamiento, el Secretario del Ayuntamiento conducirá el desarrollo de la sesión, quien solamente tendrá la facultad de dirigir la sesión.
+### Capítulo II. Desarrollo de las sesiones
 
-###### ARTÍCULO 59.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-En relación al artículo anterior, para el caso de la inasistencia del Secretario del R. Ayuntamiento a una sesión este será sustituido en sus funciones por el Síndico Segundo conservando, sus prerrogativas este integrante del R. Ayuntamiento y este mismo procedimiento se aplicará para el caso de que durante el desarrollo de una sesión del R. Ayuntamiento se tengan que ausentar de la misma.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 60.
+###### Artículo 54.
 
-El R. Ayuntamiento podrá citar a cualquier funcionario de la Administración Municipal a comparecer dentro de una sesión de Ayuntamiento cuando se discuta algún asunto de su competencia, siempre que así lo apruebe la mayoría de los integrantes del R. Ayuntamiento.
+Corresponde al Presidente Municipal presidir las sesiones del Ayuntamiento, dirigiendo las mismas conforme al orden del día establecido, proporcionando la información necesaria para una eficaz deliberación de los asuntos sometidos a su conocimiento.
 
-###### ARTÍCULO 61.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El Presidente Municipal presidirá y dirigirá las sesiones pudiendo delegar esta facultad al Secretario del Ayuntamiento y proporcionará la información necesaria para el mejor conocimiento de los asuntos a tratar a los demás integrantes del R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 62.
+###### Artículo 55.
 
-Llegada la hora de la discusión se leerá el dictamen de la comisión a cuyo examen se remitió el asunto.
+El Presidente Municipal, se sentará al centro de la mesa de sesiones, el Secretario del Ayuntamiento a su lado izquierdo y el Tesorero Municipal a su lado derecho; a la izquierda del Secretario del Ayuntamiento se sentará el Síndico Segundo; y a la derecha del Tesorero Municipal se sentará el Síndico Primero. Los regidores ocuparán un lugar en la mesa de sesiones de acuerdo a la numeración que les corresponda quedando del lado derecho de la mesa de la Sala de Sesiones los números nones y del lado izquierdo los números pares.
 
-###### ARTÍCULO 63.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Siempre que al principio de la discusión lo pida algún integrante del R. Ayuntamiento la comisión dictaminadora, deberá explicar los fundamentos de su dictamen y leer constancias del expediente si fuera necesario, acto seguido continuará el debate.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Al someterse a discusión un dictamen o proposición, se otorgará la palabra alternativamente hasta tres oradores en contra y tres a favor, otorgándose la palabra al primer orador en contra luego a uno a favor, y así en lo sucesivo.
+###### Artículo 56.
 
-Terminada la ronda de oradores, si hay más miembros del Ayuntamiento que deseen hacer uso de la palabra, se someterá a votación si se encuentra suficientemente discutido el asunto, si así es, se votará de inmediato el dictamen o proposición, si no, se abrirá una última ronda de hasta tres oradores en contra y tres a favor del dictamen o proposición.
+Las sesiones del Ayuntamiento iniciarán con la verificación del quórum, la aprobación del orden del día, así como del acta de la sesión anterior, sometiéndose a la rectificación de quienes intervinieron en la misma. Inmediatamente después, el Secretario del Ayuntamiento informará sobre el cumplimiento o el seguimiento de los acuerdos de la sesión anterior.
 
-###### ARTÍCULO 64.
+Una vez realizado lo anterior, se deliberarán los asuntos restantes del orden del día en el orden siguiente:
 
-Si al ponerse a discusión una propuesta o dictamen ninguno de los integrantes del R. Ayuntamiento hace uso de la palabra en contra de ésta, la misma se someterá a votación de inmediato por el Presidente Municipal.
+I. Iniciativas propuestas por los integrantes del Ayuntamiento
 
-###### ARTÍCULO 65.
+II. Asuntos específicos a tratar por las Comisiones.
 
-Cuando en una sesión de Ayuntamiento se presente para aprobación un Reglamento, dictamen o una propuesta que constare de más de un artículo, se podrá votar en lo general y en lo particular, o primero en lo general y luego en lo particular, según sea acordado por los integrantes del Ayuntamiento. Los artículos reservados para votarse en lo particular, se discutirán y se someterán a votación consecutivamente en orden progresivo.
+III. Asuntos generales.
 
-###### ARTÍCULO 66.
+IV. Clausura
 
-Todo miembro del R. Ayuntamiento tiene facultad para formular en la Sesión las proposiciones que juzgue de interés, debiendo presentarlas por escrito con anticipación a la celebración de la sesión al Secretario del Ayuntamiento, o bien presentarlas durante el desarrollo de la sesión en la que podrá ampliarlas, motivarlas y fundarlas con el uso de la palabra.
+Los asuntos generales a que se refiere la fracción III del presente artículo deberán ser inscritos al principio de la sesión y comprenden además, las solicitudes de revocación de los Acuerdos del Ayuntamiento, siempre que éstas se encuentren respaldadas por al menos seis miembros del Ayuntamiento e incluyan las razones de interés público, plenamente justificadas y motivadas que la justifiquen.
 
-###### ARTÍCULO 67.
+La revocación de Acuerdos del Ayuntamiento requiere para su aprobación de por lo menos el número de votos requerido para su aprobación.
 
-Cuando los miembros del Ayuntamiento hagan uso de la palabra, deberán conducirse con sobriedad y respeto, no se permitirá la formación de diálogos distintos al tema de discusión, y se dirigirán a los demás integrantes sin referirse a ninguno en particular.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 68.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Los Integrantes del Ayuntamiento que estén en el uso de la palabra sólo podrán ser interrumpidos en sus intervenciones, por el Presidente Municipal en los siguientes casos:
+###### Artículo 57.
+
+Tratándose de asuntos específicos de las Comisiones a que se refiere la fracción II del artículo anterior, corresponderá a un miembro de la comisión a la que se le haya turnado el asunto exponer un dictamen que en todo caso deberá contener como mínimo propuestas de acuerdo y puntos resolutivos, previamente circulado entre los miembros del Ayuntamiento.
+
+La lectura del dictamen podrá ser dispensada previa solicitud, cuando así lo apruebe la mayoría de los miembros del Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 58.
+
+Concluida la lectura del dictamen que presente la Comisión o dispensado la misma en términos del artículo anterior, el Presidente Municipal someterá el asunto al Ayuntamiento para su discusión y posterior aprobación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 59.
+
+En caso de que algún miembro del Ayuntamiento solicite la aclaración de algún Dictamen, el Vocal de la comisión dictaminadora deberá explicar los fundamentos de su dictamen y leer constancias del expediente si fuese necesario; acto seguido continuará el debate.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 60.
+
+Durante la discusión de un tema en el cual apareciere que un miembro del Ayuntamiento, tuviere interés personal, familiar o de negocio, se abstendrá de participar en la discusión indicándolo así, desde el momento en que se pone a consideración del Ayuntamiento el asunto correspondiente.
+
+Se considerará que existe interés de los miembros del Ayuntamiento en los siguientes casos:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados en el asunto a tratar en la sesión o sus representantes;
+
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo;
+
+IV. Haber presentado querella o denuncia el miembro del Ayuntamiento, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguno de los interesados en el asunto a tratar en la sesión;
+
+V. Tener pendiente el miembro del Ayuntamiento, su cónyuge o sus parientes, en los grados que expresa la fracción I, un juicio contra alguno de los interesados en el asunto a tratar en la sesión o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
+
+VI. Haber sido procesado el miembro del Ayuntamiento, su cónyuge o parientes, en los grados expresados en la misma fracción I, en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes o mandatarios;
+
+VII. Asistir, durante la tramitación del asunto, a convite que le diere o costeare alguno de los interesados, tener mucha familiaridad o vivir en familia con alguno de ellos,
+
+VIII. Aceptar presentes o servicios de alguno de los interesados;
+
+IX. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
+
+X. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes o mandatarios
+
+XI. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XIII. Haber sido, apoderado de alguno de los interesados en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto a tratar en favor o en contra de alguno de los interesados.
+
+XIV. Cualquier otra análoga a las anteriores.
+
+En los casos en que alguno de los integrantes del Ayuntamiento manifieste tener interés en el asunto en los términos del presente artículo, deberá salir del recinto oficial hasta en tanto el asunto no haya sido votado.
+
+Cuando se advierta que alguno de los integrantes del Ayuntamiento omitió excusarse, no obstante encontrarse impedido para participar en la discusión, será sancionado por la autoridad competente en los términos establecidos en (sic) Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 61.
+
+Las sesiones del Ayuntamiento serán públicas salvo por los siguientes casos:
+
+I. Cuando el asunto a tratar sea relativo a lo previsto en el artículo 33, fracción I, inciso f) de la Ley y en general a la materia de seguridad, con excepción del nombramiento del Titular de la Seguridad Pública Municipal.
+
+II. Cuando derivado de los asuntos a tratar se vea afectado el derecho a la privacidad de algún tercero.
+
+III. Cuando por la naturaleza de los asuntos materia de la sesión, a juicio del Ayuntamiento conviniere la presencia exclusiva de sus integrantes.
+
+IV. Cuando así lo prevea expresamente la Ley.
+
+Tanto las causas que a juicio del Ayuntamiento justificaron la celebración de la sesión privada como la parte resolutiva de los acuerdos tomados en dichas sesiones deberán publicarse en la publicación inmediata siguiente de la Gaceta Municipal.
+
+Los acuerdos tomados en las sesiones privadas se registrarán en el Libro de Actas del Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 62.
+
+Al someterse a discusión un dictamen, se otorgará la palabra alternativamente hasta a tres oradores en contra y tres a favor, otorgándose la palabra al primer orador en contra luego a uno a favor, y así en lo sucesivo. Terminada la ronda de oradores, si hay más miembros del Ayuntamiento que deseen hacer uso de la palabra, se someterá a votación si se encuentra suficientemente discutido el asunto; en caso afirmativo se votará de inmediato el dictamen o proposición; caso contrario, se abrirá una última ronda de hasta a dos oradores en contra y dos a favor del dictamen o proposición, los cuales en todo caso deberán ser distintos a los que participaron en la primera ronda.
+
+Todas las intervenciones serán ininterrumpidas y tendrán un tiempo límite de hasta tres minutos, el cual será verificado por el Secretario del Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 63.
+
+Si al someterse a discusión un dictamen, ninguno de los miembros del Ayuntamiento hace uso de la palabra, se someterá a votación de inmediato.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 64.
+
+Cuando en una sesión de Ayuntamiento se presente para aprobación un Reglamento, circular o disposición administrativa de carácter general que constare de más de un artículo, se discutirá primero en lo general y se declarará que ha lugar a votación, pudiendo reservarse a solicitud de alguno de sus integrantes, la votación del (los) artículo (s) propuestos para su discusión en lo particular. De no haberse reservado artículo alguno para su discusión en lo particular, se tendrá por aprobado tanto en lo general como en lo particular.
+
+Para efecto de la discusión de la parte general, se seguirá el mismo formato previsto en el artículo 62 y las intervenciones tendrán un tiempo límite de hasta 5 minutos.
+
+Los artículos reservados para votarse en lo particular, se discutirán y se someterán a votación consecutivamente, otorgándose alternadamente el uso de la voz hasta a dos oradores en contra y dos a favor, sin que dichas intervenciones excedan de 3 minutos.
+
+Cuando así lo apruebe la mayoría de los miembros presentes, la votación en lo general y en lo particular, podrá realizarse en diferentes días, siendo la continuidad de la sesión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 65.
+
+En los asuntos generales inscritos al inicio de la sesión en términos del artículo del artículo (sic) anterior, se le otorgará el uso de la voz por una sola vez hasta por tres minutos al miembro del Ayuntamiento que haya inscrito dicho asunto para efectos de ampliar su propuesta y exponer sus fundamentos y motivos.
+
+Una vez realizado lo anterior, se dará el uso de la voz hasta por tres minutos a un miembro de cada una (sic) las fracciones que integren el Ayuntamiento para efectos de fijar su posición en relación con el asunto propuesto, para posteriormente proceder a su votación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 66.
+
+El Presidente Municipal velará en todo momento por la libertad de los miembros del Ayuntamiento en la expresión de sus ideas; por su parte, todo aquél que haga uso de la palabra deberá conducirse con sobriedad y respeto, no permitiéndose la formación de diálogos y dirigiéndose a los demás integrantes sin referirse a ninguno en particular.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 67.
+
+Los integrantes del Ayuntamiento que estén en el uso de la palabra sólo podrán ser interrumpidos en sus intervenciones por el Presidente Municipal en los siguientes casos:
 
 I. Cuando el orador falte al orden o viole las disposiciones del presente Reglamento;
 
@@ -549,669 +1053,1017 @@ II. Cuando se le exhorte a que se atenga al tema de discusión;
 
 III. Cuando se le pregunte si acepta contestar alguna interpelación que formule otro miembro del Ayuntamiento;
 
-IV. Cuando se le pida a cualquiera de los presentes en las instalaciones del Recinto de sesiones que guarde el orden necesario para el desarrollo de la sesión;
+IV. Cuando se le pida a cualquiera de los presente (sic) en las instalaciones del Recinto de sesiones que guarde el orden necesario para el desarrollo de la sesión;
 
-V. Cuando algún integrante del ayuntamiento solicite una moción de orden o moción de procedimiento; y
+V. Cuando algún integrante del Ayuntamiento solicite una moción de orden o moción de procedimiento; y,
 
 VI. Cuando no haya quórum para continuar la sesión.
 
-En el supuesto de la fracción III y V de este artículo, las interpelaciones que se formulen a los miembros del Ayuntamiento que estén en uso de la palabra, y las mociones de orden o procedimiento se realizarán con el propósito de esclarecer la intervención o para pedir que ilustre la discusión con la lectura de algún documento y deberán ser solicitadas al Presidente Municipal. Quien solicite la interpelación o moción, tendrá una intervención que podrá ser de hasta tres minutos. En el supuesto de que el orador decida aceptar la interpelación que se le solicite, su respuesta deberá ser otorgada en un término que no podrá exceder de tres minutos, quedan prohibidas las discusiones en forma de diálogo, sobre temas ajenos al asunto en discusión.
+En el supuesto de la fracción III y V de este artículo, las interpelaciones que se formulen a los miembros del Ayuntamiento que estén en uso de la palabra, y las mociones de orden o procedimiento se realizarán con el propósito de esclarecer la intervención o para pedir que ilustre la discusión con la lectura de algún documento y deberán ser solicitadas al Presidente Municipal. Quien solicita la interpelación o moción tendrá una intervención que podrá ser de hasta dos minutos. En el supuesto que el orador decida aceptar la interpelación que se le solicite su respuesta deberá ser otorgada en un término que no podrá exceder de tres minutos, quedando prohibidas las discusiones en forma de diálogo.
 
-En el caso de que los supuestos previstos por las fracciones II, III y V del presente artículo sean motivados por la solicitud de algún miembro del Ayuntamiento, el Presidente Municipal podrá otorgar a éste una intervención de hasta tres minutos, para que funde la solicitud.
+En el caso de que los supuestos previstos por las fracciones II, III y V del presente artículo sean motivados por la solicitud de algún miembro del Ayuntamiento, el Presidente Municipal podrá otorgar a éste una intervención de hasta dos minutos, para que funde la solicitud. El Presidente Municipal, por iniciativa propia o a solicitud de algún integrante del Ayuntamiento, podrá exhortar a los oradores a que se ajusten al tema que se está discutiendo.
 
-El presidente municipal, por iniciativa propia o a solicitud de algún integrante del Ayuntamiento, podrá exhortar a los oradores a que se ajusten al tema que se esté discutiendo.
+En el supuesto a que se refiere la fracción IV, se suspenderá el tiempo que se le haya otorgado al orador para hacer uso de la palabra, el cual reanudará una vez que el Presidente Municipal le indique que puede continuar.
 
-Una vez terminada las discusiones deberán preguntarse quien se manifiesta a favor, quien en contra y quien en abstención.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-### CAPÍTULO V. DE LAS VOTACIONES
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 69.
+###### Artículo 68.
 
-Para estudiar, examinar y proponer alternativas de solución a los asuntos municipales y vigilar que se ejecuten las disposiciones y acuerdos del R. Ayuntamiento, este órgano colegiado se organizará a su interior en comisiones que podrán ser permanentes o transitorias especiales.
+Una vez terminadas las discusiones, cuando las hubiere, el Presidente someterá los asuntos a votación.
 
-###### ARTÍCULO 70.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Las comisiones permanentes tienen las siguientes atribuciones de tipo general:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-I. Recibir, estudiar, analizar, discutir y dictaminar los asuntos turnados por el
+### Capítulo III. De las votaciones en las sesiones
 
-Presidente Municipal o el Ayuntamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Presentar al Ayuntamiento, los dictámenes e informes, resultados de sus trabajos e investigaciones relativos a las atribuciones de su comisión.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 69.
+
+Las resoluciones o acuerdos del Ayuntamiento se tomarán con el voto de la mayoría de los presentes, salvo por aquellos casos en que la Constitución Federal, la Constitución Local o la Ley expresamente establezcan una mayoría absoluta o calificada. Para que una votación sea válida se requiere un quórum de instalación de la mayoría de sus integrantes.
+
+Cuando algún integrante del Ayuntamiento tuviere interés personal, familiar o de negocios en el asunto a resolver, deberá excusarse de participar en la votación correspondiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 70.
+
+Se considerará que existe interés de los miembros del Ayuntamiento en los siguientes casos:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado y en la colateral por afinidad hasta el segundo, con alguno de los interesados en el asunto a tratar en la sesión o sus representantes;
+
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes, en los grados que expresa la fracción I de este artículo;
+
+IV. Haber presentado querella o denuncia el miembro del Ayuntamiento, su cónyuge o sus parientes, en los grados que expresa la fracción I, en contra de alguno de los interesados en el asunto a tratar en la sesión;
+
+V. Tener pendiente el miembro del Ayuntamiento, su cónyuge o sus parientes, en los grados que expresa la fracción I, un juicio contra alguno de los interesados en el asunto a tratar en la sesión o no haber transcurrido más de un año desde la fecha de la terminación del que hayan seguido hasta la fecha en que tome conocimiento del asunto;
+
+VI. Haber sido procesado el miembro del Ayuntamiento, su cónyuge o parientes, en los grados expresados en la misma fracción I, en virtud de querella o denuncia presentada ante las autoridades, por alguno de los interesados, sus representantes o mandatarios;
+
+VII. Asistir, durante la tramitación del asunto, a convite que le diere o costeare alguno de los interesados, tener mucha familiaridad o vivir en familia con alguno de ellos;
+
+VIII. Aceptar presentes o servicios de alguno de los interesados;
+
+IX. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
+
+X. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes o mandatarios
+
+XI. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
+
+XII. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el servidor público ha aceptado la herencia o el legado o ha hecho alguna manifestación en este sentido;
+
+XIII. Haber sido, apoderado de alguno de los interesados en el asunto de que se trata, o haber gestionado o recomendado anteriormente el asunto a tratar en favor o en contra de alguno de los interesados.
+
+XIV. Cualquier otra análoga a las anteriores.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 71.
+
+Antes de comenzar la votación, el Presidente Municipal dará lectura sintetizada de la propuesta hecha y hará la siguiente declaración: "Se somete a votación de los presentes". Seguidamente el Secretario del Ayuntamiento procederá a recogerla en los términos previstos por este reglamento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 72.
+
+Habrá dos formas de ejercer el voto en las sesiones del Ayuntamiento, atendiendo a los principios de transparencia y máxima publicidad:
+
+I. Nominales
+
+II. Económicas
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 73.
+
+La votación nominal se llevará a cabo atendiendo a lo siguiente:
+
+I. El Secretario del Ayuntamiento dirá en voz alta el nombre y apellido de cada integrante del Ayuntamiento y este dirá el sentido de su voto, mismo que podrá ser a favor, en contra o abstención;
+
+II. Posteriormente, el mismo Secretario del Ayuntamiento tomará nota de los que voten afirmativamente, así como quienes lo hagan en sentido afirmativo o en abstención;
+
+III. Concluida la votación, el Secretario del Ayuntamiento procederá a efectuar el cómputo y dará el resultado de la misma.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 74.
+
+Se requerirá votación nominal en los siguientes casos:
+
+I. Para la designación de Secretario del Ayuntamiento y Tesorero Municipal;
+
+II. En los casos que por disposición expresa de la Constitución Federal, Constitución Local o de la Ley se requiera de una mayoría calificada;
+
+III. En aquellos casos que a solicitud de cuando menos una tercera parte de los miembros del Ayuntamiento sean acordados por éste;
+
+IV. Para elegir o designar personas; y
+
+V. En los demás previstos por este Reglamento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 75.
+
+Las demás votaciones sobre resoluciones o acuerdos del Ayuntamiento se efectuarán en forma económica. La votación económica se practicará levantando la mano primero los miembros del Ayuntamiento que estén a favor del asunto; después los que estén en contra.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 76.
+
+El Presidente Municipal tendrá voto individual en las resoluciones del Ayuntamiento, y en caso de empate voto de calidad, cuando ejerza el mismo expresará las razones que motivaron su voto, en aquellos casos en que se requiera de una mayoría calificada y se trate de un número fraccionado el Presidente Municipal tendrá voto de calidad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 77.
+
+Las votaciones se resolverán y quedarán registradas de la siguiente forma:
+
+I. Por mayoría absoluta: cuando se integren con el mismo sentido del voto por la mitad más uno de los miembros del Ayuntamiento.
+
+II. Por mayoría simple: cuando se integren con el mismo sentido del voto por la mitad más uno de los miembros del Ayuntamiento presentes en la sesión.
+
+III. Por mayoría calificada: cuando para su aprobación se requiere de por lo menos dos terceras partes de los integrantes del Ayuntamiento.
+
+IV. Por unanimidad: cuando sea el resultado de la totalidad de los asistentes a la sesión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo IV. De las Comisiones
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 78.
+
+Para estudiar y proponer proyectos de solución a los asuntos municipales y vigilar que se ejecuten las disposiciones y acuerdos del Ayuntamiento, este órgano colegiado se organizará en Comisiones que podrán ser permanentes o transitorias especiales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 79.
+
+Las Comisiones permanentes tienen las siguientes atribuciones de tipo general:
+
+I. Recibir, estudiar, analizar, discutir y dictaminar los asuntos turnados por el Presidente Municipal o el Ayuntamiento.
+
+II. Presentar al Ayuntamiento los dictámenes e informes, resultados de sus trabajos e investigaciones relativos a las atribuciones de su comisión.
 
 III. Participar del control y evaluación de los ramos del Gobierno Municipal que correspondan a sus atribuciones, mediante la presentación de informes y propuestas.
 
-IV. Evaluar los trabajos de las dependencias y entidades municipales en la materia que le corresponda a sus atribuciones y con base en los resultados y las necesidades, proponer las medidas pertinentes para orientar los trabajos de la administración pública.
+IV. Evaluar los trabajos de las dependencias y entidades municipales en la materia que le corresponda a sus atribuciones y con base en los resultados y las necesidades existentes, proponer las medidas pertinentes para orientar los trabajos de la administración pública.
 
 V. Citar a los titulares de las dependencias y entidades de la administración pública municipal, en los casos en que su comparecencia sea necesaria para que brinde el apoyo técnico necesario para el adecuado desempeño de sus atribuciones por medio de la Comisión.
 
-VI. Estudiar y, en su caso, proponer la celebración de convenios o contratos con la Federación, el Estado, los Municipios o los particulares respecto de la materia que le corresponda en virtud de sus atribuciones.
+VI. Estudiar, y en su caso, proponer la celebración de convenios o contratos con la Federación, el Estado, los Municipios o los particulares respecto de la materia que le corresponda en virtud de sus atribuciones.
 
-###### ARTÍCULO 71.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El Presidente Municipal propondrá a los integrantes de las Comisiones las cuáles deberán contar cuando menos de tres miembros como: Presidente, Secretario y Vocal; siendo obligatorio incluir a un Regidor de representación proporcional en cada una de ellas, pudiendo ser presidente de estas comisiones cualquier integrante del R. Ayuntamiento con excepción del Presidente Municipal quién no podrá integrar comisión alguna.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 72.
+###### Artículo 80.
 
-Una vez nombradas las comisiones permanentes durarán en su encargo un año, a excepción de las transitorias o salvo que el Ayuntamiento determine lo contrario a propuesta del C. Presidente Municipal.
+El Presidente Municipal propondrá a los integrantes de las comisiones, las cuales se integrarán por al menos tres miembros del Ayuntamiento que ocuparan los cargos de Presidente, Secretario y Vocal; cuando menos, uno de ellos Regidor de representación proporcional.
 
-###### ARTÍCULO 73.
+En el caso de la Comisión de Hacienda Municipal, el cargo de Presidente lo ocupará el Síndico Primero; mientras que en la Comisión de Seguimiento del Plan Municipal de Desarrollo dicho cargo lo ocupará el Regidor de la primera minoría. En todo caso, la determinación de la primera minoría será en base al resultado electoral correspondiente.
 
-Las Comisiones permanentes se nombrarán en la primera Sesión Ordinaria del año de gestión y serán de carácter obligatorio las siguientes:
+Cualquiera que sea el asunto de su competencia, el Ayuntamiento, previa propuesta del Presidente Municipal, podrá acordar la participación en comisiones de miembros de la comunidad para que puedan aportar sus experiencias u opiniones.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-1.- Gobernación, Reglamentación y Mejora Regulatoria.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-2.- Hacienda Municipal.
+###### Artículo 81.
 
-3.- Seguridad Pública y Tránsito.
+Una vez nombradas, las comisiones permanentes deberán ser renovadas cada año, a excepción de las transitorias especiales, o en los casos que el Ayuntamiento determine lo contrario, a propuesta del Presidente Municipal.
 
-4.- Protección Civil.
+Lo previsto en el párrafo anterior no será aplicable a las comisiones de Hacienda Municipal y Seguimiento del Plan Municipal de Desarrollo, las cuales serán presididas en todo momento por los funcionarios referidos en el artículo anterior.
 
-5.- Transporte.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-6.- Asistencia Social.
+###### Artículo 82.
 
-7.- Juventud y Deporte.
+Las comisiones permanentes se nombrarán en la primera sesión posterior a la de instalación, ya sea ordinaria o extraordinaria, y serán de carácter obligatorio las siguientes:
 
-8.- Educación y Actividades, Cívicas y Culturales.
+I. Gobernación;
 
-9.- Obras Públicas.
+II. Reglamentación;
 
-10.- Desarrollo Urbano.
+III. Hacienda Municipal;
 
-11.- Protección al Medio Ambiente.
+IV. Seguridad Pública Municipal;
 
-12.- Nomenclatura.
+V. Tránsito y Vialidad;
 
-13.- Comercio, Mercados, Limpia y Rastro.
+VI. Seguimiento del Plan Municipal de Desarrollo;
 
-14.- Agua Potable y Alcantarillado.
+VII. Salud Pública;
 
-15.- Patrimonio Municipal, Panteones y Espectáculos.
+VIII. Asistencia Social;
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2013)</small>
+IX. Desarrollo Urbano;
 
-16.- Participación Ciudadana.
+X. Obras Públicas;
 
-Así mismo, y en base a las necesidades de la administración pública municipal, el Ayuntamiento, en cualquier momento podrá aprobar la creación, supresión o unión de las demás Comisiones que estime pertinentes para el buen ejercicio de sus atribuciones y eficaz despacho de los asuntos Municipales.
+XI. Servicios Públicos Municipales; y
 
-###### ARTÍCULO 74.
+XII. Derechos Humanos.
 
-Son atribuciones de las Comisiones Permanentes de carácter obligatorio mencionadas en el artículo anterior, las siguientes:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-I.- GOBERNACIÓN, REGLAMENTACIÓN Y MEJORA REGULATORIA:
+###### Artículo 83.
 
-A) Vigilar el cumplimiento de los preceptos de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen, el presente Reglamento y demás ordenamientos legales y reglamentarios que normen la vida jurídica del municipio.
+Son atribuciones de la Comisión de Gobernación las siguientes:
 
-B) Proponer al R. Ayuntamiento las iniciativas de nuevos Reglamentos o de reforma a los existentes, que formule la propia comisión.
+I. Vigilar el cumplimiento de los preceptos de la Constitución Federal, la particular del Estado, las leyes que de ellas emanen, el presente Reglamento y demás ordenamientos legales y reglamentarios que normen la organización y funcionamiento del municipio y la relación entre este último y sus habitantes;
 
-C) Elaborar proyectos de iniciativas de ley a fin de que el Ayuntamiento acuerde enviarlas al Congreso del Estado.
+II. Elaborar proyectos de iniciativas de ley, a fin de que el Ayuntamiento acuerde enviarlas al Congreso del Estado;
 
-D) Analizar y dictaminar las iniciativas de nuevos reglamentos o de su reforma, en unión de la comisión correspondiente con el fin primordial de garantizar su redacción acorde a una adecuada técnica legislativa, que cumplan con el marco jurídico correspondiente y por consiguiente no contradigan disposiciones de carácter Federal, Estatal y otros Ordenamientos Jurídicos.
+III. Proponer, y en su caso, establecer en unión de la comisión correspondiente, los términos para la coordinación con otros Municipios y con el Poder Ejecutivo Estatal para la prestación de servicios públicos, planeación urbana y del desarrollo; y
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2013)</small>
+IV. Las demás que le confiera el Ayuntamiento previo Acuerdo.
 
-E) Proponer estrategias y acciones tendientes a mejorar el marco regulatorio municipal de la materia.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-F) Opinar sobre programas y/o acciones para mejorar la regulación en actividades o sectores específicos.
+###### Artículo 84.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2013)</small>
+Son atribuciones de la Comisión de Reglamentación las siguientes
 
-G) Las demás que le confiera el R. Ayuntamiento.
+I. Proponer al Ayuntamiento las iniciativas de nuevos reglamentos o de reforma a los existentes que formule la propia comisión;
 
-II.- DE HACIENDA MUNICIPAL:
+II. Analizar y dictaminar las iniciativas de nuevos reglamentos o de su reforma en unión de la comisión correspondiente con el fin primordial de garantizar su redacción acorde a una adecuada técnica legislativa, que cumplan con el marco jurídico correspondiente y no contradigan disposiciones de carácter Internacional, Federal, Estatal y otros ordenamientos jurídicos; y
 
-A) Proponer al R. Ayuntamiento proyectos de Reglamentos, acuerdos y demás disposiciones administrativas para el buen manejo de los asuntos hacendarios.
+III. Las demás que le confiera el Ayuntamiento previo Acuerdo.
 
-B) Proponer sistemas de recaudación de impuestos, derechos, productos, aprovechamientos y demás ingresos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-C) Proponer programas, acciones y mecanismos de control para el correcto cumplimiento de Leyes, Reglamentos y demás disposiciones de carácter fiscal, presupuestario y de cuenta pública.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-D) Vigilar que el ejercicio del gasto público se realice conforme al presupuesto de egresos aprobado.
+###### Artículo 85.
 
-E) Realizar estudios, análisis, informes y presentar dictamen sobre presupuesto de ingresos, presupuesto de egresos, informes financieros trimestrales y de cuenta pública anual.
+Son atribuciones de (sic) Hacienda Municipal las siguientes:
 
-F) Las demás que le confiera el Ayuntamiento.
+I. Proponer al Ayuntamiento proyectos de reglamentos, acuerdos y demás disposiciones administrativas para el buen manejo de los asuntos hacendarios;
 
-III.- DE SEGURIDAD PÚBLICA Y TRÁNSITO:
+II. Proponer sistemas de recaudación de impuestos, derechos, productos, aprovechamientos y demás ingresos que le correspondan;
 
-A) Fomentar entre los ciudadanos medidas de orden público, y proponer el uso de alta tecnología para la prevención de delitos y faltas administrativas.
+III. Proponer programas, acciones y mecanismos de control para el correcto cumplimiento de leyes, reglamentos y demás disposiciones de carácter fiscal, presupuestario y de cuenta pública;
 
-B) Proponer la coordinación con dependencias análogas para la impartición de cursos y campañas de prevención de delitos y faltas administrativas.
+IV. Vigilar que el ejercicio del gasto público se realice conforme al presupuesto de egresos aprobado;
 
-C) Proponer, analizar, estudiar y dictaminar las iniciativas en materia de Seguridad Pública, incluida en esta, lo relativo a la prevención de delitos y faltas administrativas.
+V. Realizar estudios, análisis, informes y presentar dictamen sobre presupuesto de ingresos, presupuesto de egresos, informes financieros trimestrales y cuenta pública anual; y
 
-D) Evaluar los trabajos de las dependencias municipales con funciones en la seguridad pública, así como la actuación de los elementos de la corporación de seguridad Pública y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el Gobierno Municipal, el Estado u otros Municipios respecto del servicio de seguridad pública.
+VI. Las demás que le confiera el Ayuntamiento.
 
-E) Llevar a cabo los estudios pertinentes para establecer la situación que opera los centros o lugares destinados para los detenidos, a efecto de proponer su mejoramiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-F) Vigilar el buen funcionamiento de la corporación de tránsito.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-G) Proponer medidas de solución para mejorar la vialidad del Municipio, así como las adecuaciones que sean pertinentes.
+###### Artículo 86.
 
-H) Proponer medidas para reducir los accidentes de tránsito.
+Son atribuciones de la Comisión de Seguridad Pública Municipal las siguientes:
 
-I) Estudiar y, en su caso, proponer la celebración de convenios de coordinación con la Federación, el Estado u otros municipios respecto del servicio de tránsito.
+I. Fomentar entre los ciudadanos medidas de orden público, y proponer el uso de alta tecnología para la prevención de delitos y faltas administrativas;
 
-J) Gestionar ante las autoridades municipales reportes de vecinos en materia de seguridad pública, vialidad y tránsito.
+II. Proponer la coordinación con dependencias análogas para la impartición de cursos y campañas de prevención de delitos y faltas administrativas;
 
-K) Las demás que determine el R. Ayuntamiento.
+III. Proponer, analizar, estudiar y dictaminar las iniciativas en materia de Seguridad Pública, incluida en ésta lo relativo a la prevención de delitos y faltas administrativas;
 
-IV.- DE PROTECCIÓN CIVIL:
+IV. Evaluar los trabajos de las dependencias municipales con funciones en la seguridad pública, así como la actuación de los elementos de la corporación de seguridad pública y, en base en sus resultados y necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el Gobierno Municipal respecto del servicio de seguridad pública;
 
-A) Vigilar la aplicación de las normas de protección civil por parte de las autoridades municipales.
+V. Llevar a cabo los estudios pertinentes para establecer la situación en que operan los centros o lugares destinados para los detenidos a efecto de proponer su mejoramiento;
 
-B) Evaluar los trabajos de las dependencias municipales con funciones y atribuciones en la materia y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el municipio.
+VI. Gestionar ante las autoridades municipales reportes de vecinos en materia de seguridad pública; y
 
-C) Proponer normas y políticas de protección civil al Ayuntamiento y a las dependencias con funciones en la materia.
+VI (SIC). Las demás que determine el Ayuntamiento.
 
-D) Gestionar ante las autoridades municipales reportes de vecinos en materia de protección civil.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-E) Las demás que le confiera el Reglamento de Protección Civil y el propio Ayuntamiento.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-V.- DE TRANSPORTE:
+###### Artículo 87.
 
-A) Proponer medidas para mejorar las condiciones y las rutas de transporte urbano, para presentarlas a la autoridad competente.
+Son atribuciones de la Comisión de Tránsito y Vialidad las siguientes:
 
-B) Proponer a la autoridad municipal correspondiente, intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando se afecte el ámbito territorial del municipio.
+I. Vigilar el buen funcionamiento de la corporación de tránsito;
 
-C) Realizar estudios y proponer alternativas para mejorar las rutas de transporte público.
+II. Proponer medidas de solución para mejorar la vialidad del Municipio, así como las adecuaciones que sean pertinentes;
 
-D) Las demás que determine el Ayuntamiento.
+III. Proponer medidas para reducir los accidentes de tránsito;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2013)</small>
+IV. Estudiar, y en su caso proponer la celebración de convenios de coordinación con la Federación, el Estado u otros municipios respecto del servicio de tránsito;
 
-VI.- ASISTENCIA SOCIAL.
+V. Gestionar ante las autoridades municipales reportes de vecinos en materia de vialidad y tránsito; y
 
-A) Proponer, analizar, estudiar y dictaminar las iniciativas concernientes a la participación ciudadana y vecinal.
+XI (SIC). Las demás que determine el Ayuntamiento.
 
-B) Evaluar los trabajos de las dependencias municipales con funciones y atribuciones en la materia y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el municipio.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-C) Presentar al Ayuntamiento las propuestas de dictamen, los informes, resultados de los trabajos de investigación y demás documentos relativos a los asuntos que les son turnados en torno a la participación ciudadana y vecinal.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-D) Las demás que le confiera el Ayuntamiento.
+###### Artículo 88.
 
-VII.- JUVENTUD Y DEPORTES:
+Son atribuciones de la Comisión de Seguimiento al Plan Municipal de Desarrollo las siguientes:
 
-A) Proponer, analizar, estudiar y dictaminar iniciativas en materia de desarrollo y atención a la juventud del Municipio.
+I. Revisar el cumplimiento e implementación del Plan Municipal de Desarrollo y promover la evaluación, revisión y modificación en su caso;
 
-B) Proponer medidas y políticas que promuevan la participación activa de las y los jóvenes en proyectos de beneficio a la comunidad.
+II. Establecer los lineamientos para la evaluación del cumplimiento del Plan Municipal de Desarrollo;
 
-C) Analizar la conveniencia de la realización de estudios, encuestas e informes respecto de la situación que se presente en el Municipio en materia de situación de vida de las y los jóvenes.
+III. Elaborar, revisar y reformar en conjunto con la Comisión de Gobernación y Reglamentación el Reglamento del Plan Municipal de Desarrollo; y
 
-D) Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la práctica del deporte en el municipio especialmente de los niños y jóvenes.
+IV. Las demás que determine el Ayuntamiento;
 
-E) Proponer al Ayuntamiento la ejecución de obras y programas para el uso óptimo de las unidades deportivas y gimnasios municipales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-F) Proponer los programas que tiendan a fomentar los deportes en el municipio.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-G) Las demás que le confiera el R. Ayuntamiento.
+###### Artículo 89.
 
-VIII.- EDUCACIÓN Y ACTIVIDADES CÍVICAS Y CULTURALES.
+Son atribuciones de la Comisión de Salud Pública las siguientes:
 
-A) Proponer al Ayuntamiento la adopción de políticas y programas para optimizar los recursos municipales en materia de desarrollo educativo y cultural, supervisando el funcionamiento de las instalaciones y vigilando el cumplimiento de los programas aprobados.
+I. Proponer, analizar, estudiar y dictaminar las iniciativas concernientes a la salud pública;
 
-B) Vigilar el funcionamiento del sistema municipal de bibliotecas públicas, proponiendo al Ayuntamiento la implementación de programas para su mejoramiento y equipamiento.
+II. Evaluar los trabajos de las dependencias municipales con funciones en esta materia y con base en los resultados y las necesidades imperantes, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el Municipio;
 
-C) Evaluar los trabajos de las dependencias municipales con funciones y atribuciones en la materia y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el municipio.
+III. Realizar los estudios y análisis necesarios para determinar el grado de consumo de sustancias que causan adicción en la población, a fin de proponer soluciones en esta materia;
 
-D) Gestionar ante las autoridades municipales reportes de vecinos en materia de educación, cultura y bibliotecas.
+IV. Gestionar ante las autoridades municipales los reportes de vecinos en materia de salud pública y combate a las adicciones; y
 
-E) Las demás que le confiera el Ayuntamiento.
+IX (SIC). Las demás que determine el Ayuntamiento, previo acuerdo.
 
-IX.- OBRAS PÚBLICAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-A) Vigilar que la Obra Pública se realice conforme a los acuerdos que el R. Ayuntamiento emita; así como conforme a la Ley de Obras Públicas del Estado y demás aplicables.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-B) Proponer al Ayuntamiento y al Presidente Municipal la realización de obras públicas prioritarias en beneficio de la población del Municipio.
+###### Artículo 90.
 
-C) Participar en el Consejo de Desarrollo Municipal.
+Son atribuciones de la Comisión de Asistencia Social las siguientes:
 
-D) Las demás que le confiera el Ayuntamiento.
+I. Revisar, evaluar y proponer el mejoramiento de las instalaciones de los organismos municipales de asistencia social;
 
-X.- DESARROLLO URBANO:
+II. Solicitar información de los proyectos a realizar por los organismos municipales de asistencia social;
 
-A) Proponer acciones, programas, normas y políticas en materia de desarrollo urbano.
+III. Realizar estudios sobre programas de asistencia social y si no se tienen contemplados, proponerlos como sugerencia a las dependencias correspondientes;
 
-B) Fomentar la participación ciudadana en la revisión de programas, planes y proyectos de ordenamiento urbano.
+IV. Promover la colaboración con los organismos que proporcionen asistencia social en el Estado; y
 
-C) Proponer medidas, acciones, programas y políticas en materia de desarrollo urbano.
+V. Las demás que determine el Ayuntamiento.
 
-D) Las demás que le confiera el Ayuntamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XI.- DE PROTECCIÓN AL AMBIENTE:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-A) Proponer al R. Ayuntamiento disposiciones legales y administrativas, normas y procedimientos tendientes a mejorar y proteger el ambiente.
+###### Artículo 91.
 
-B) Asesorarse para establecer el diagnóstico sobre la problemática ambiental en el Municipio.
+Son atribuciones de la Comisión de Desarrollo Urbano las siguientes:
 
-C) Proponer la instrumentación, evaluación y actualización del Programa Municipal de Ecología, orientándolo hacia el ordenamiento ecológico del territorio.
+I. Proponer acciones, programas, normas y políticas en materia de desarrollo urbano;
 
-D) Proponer al Ayuntamiento la suscripción de convenios de colaboración, asesoría y servicio social en materia ambiental con instituciones de educación superior.
+II. Fomentar la participación ciudadana en la revisión de programas, planes y proyectos de ordenamiento urbano;
 
-E) Proponer y organizar estudios o investigaciones que conduzcan al conocimiento de la ecología y hábitat de la flora y fauna silvestre.
+III. Proponer medidas, acciones, programas y políticas en materia de desarrollo urbano;
 
-F) Solicitar la modificación o cancelación de concesiones que pongan en riesgo de extinción de la flora y fauna silvestre.
+IV. Promover los proyectos de solución a la demanda de vivienda;
 
-G) Promover políticas para la educación y participación ciudadana para lograr el respeto, mantenimiento y acrecentamiento de cinturones verdes y el respeto y protección a la flora y fauna silvestre, acuática y doméstica.
+V. Emitir opinión en torno a la instalación de monumentos y estatuas que deban colocarse en lugares públicos y colaborar en el cumplimiento de las disposiciones que se tomen para la conservación de monumentos arquitectónicos y patrimonio histórico; y
 
-H) Proponer al Ayuntamiento las áreas a considerar como reservas protegidas.
+VI. Las demás que le confiera el Ayuntamiento.
 
-I) Gestionar ante las autoridades municipales reportes de vecinos en materia de protección al ambiente.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-J) Las demás que les confiera el R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XII.- NOMENCLATURA.
+###### Artículo 92.
 
-A) Recibir y dar seguimiento a las solicitudes relativas a las propuestas de nomenclatura, y modificación de nomenclatura de acuerdo al Reglamento aplicable.
+Son atribuciones de la Comisión de Obras Públicas las siguientes:
 
-B) Llevar a cabo las inspecciones que sea necesarias para el buen desempeño de sus funciones, de acuerdo al Reglamento aplicable.
+I. Vigilar que la obra pública se realice conforme a los acuerdos que el Ayuntamiento emita; así como conforme a la legislación aplicable, los planes y contratos que le hubieren originado;
 
-C) Elaborar los dictámenes en relación a la asignación de nombres relativos a bienes de uso común.
+II. Proponer al Ayuntamiento la realización de obras públicas prioritarias en beneficio de la población del municipio;
 
-D) Las demás que les confiera el R. Ayuntamiento.
+III. Revisar la planeación y ejecución de las obras públicas municipales, acorde al Plan Municipal de Desarrollo;
 
-XIII.- COMERCIO, MERCADOS, LIMPIA Y RASTRO.
+IV. Emitir dictamen sobre ornato, alineamiento, conservación y apertura de vías públicas;
 
-A) Dictaminar sobre las solicitudes de licencias para la venta o consumo de bebidas alcohólicas, en los términos del Reglamento respectivo.
+V. Proponer medidas suficientes para la conservación del sistema de desagüe, drenaje y colectores del Municipio;
 
-B) Proponer políticas, medidas y programas para combatir el abuso en el consumo de bebidas alcohólicas.
+VI. Vigilar que se integre y actualice el padrón de contratistas de la obra pública; y
 
-C) Evaluar los trabajos de las dependencias municipales con funciones y atribuciones en la materia y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el municipio.
+VII. Las demás que le confiera el Ayuntamiento.
 
-D) Proponer al Ayuntamiento políticas, normas y lineamientos en materia de comercio en la vía pública.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-E) Atender los asuntos referentes a mercados rodantes.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-F) Vigilar que el servicio público de limpia que se brinda a la ciudadanía sea eficiente, oportuno y de la más alta calidad.
+###### Artículo 93.
 
-G) Gestionar ante las autoridades municipales reportes de vecinos en materia de limpia, parques y jardines.
+Son atribuciones de la Comisión de Servicios Públicos Municipales las siguientes:
 
-H) Proponer ante el Ayuntamiento y las autoridades municipales competentes la realización de obras, proyectos y labores de mantenimiento en materia de limpia, parques y jardines.
+I. Vigilar que se cumplan los acuerdos del Ayuntamiento en materia de servicios públicos;
 
-I) Las demás que le confiera el Ayuntamiento.
+II. Fomentar la cultura de la limpieza y conservación del alumbrado público, calles y banquetas;
 
-XIV.- AGUA POTABLE Y ALCANTARILLADO.
+III. Vigilar que las quejas presentadas por los ciudadanos respecto a servicios públicos sean debidamente atendidas;
 
-A) Estar en coordinación con la Secretaría de Servicios Públicos a fin de dar seguimiento a los reportes de los vecinos en cuanto al agua potable o alcantarillas municipales.
+IV. Vigilar que el servicio de limpia que se brinda a la ciudadanía sea eficiente y oportuno;
 
-B) Las demás que le confiera el Ayuntamiento.
+V. Vigilar que los parques, panteones, plazas públicas y jardines del municipio se conserven en buen Estado y que la Administración Pública Municipal realice los servicios de limpieza y conservación que resulten necesarios;
 
-XV.- PATRIMONIO MUNICIPAL, PANTEONES Y ESPECTÁCULOS.
+VI. Revisar la observancia de los ordenamientos federales, estatales y municipales aplicables al ramo de panteones;
 
-A) Dictaminar los proyectos que tengan que ver con la incorporación, desincorporación, venta o gravamen de bienes muebles e inmuebles propiedad del municipio.
+VII. Proponer las medidas concernientes al alineamiento y plantación de árboles o vegetación en los cementerios y las características que deben tener las criptas y mausoleos y al desagüe pluvial y cualquier servicio propio de los panteones;
 
-B) Proponer medidas y políticas para el debido y eficiente uso, resguardo y destino de los bienes muebles e inmuebles del patrimonio municipal.
+VIII. Revisar la administración de los panteones municipales;
 
-C) Evaluar los trabajos de las dependencias municipales con funciones y atribuciones en la materia y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el municipio.
+IX. Proponer el precio de venta o arrendamiento de los terrenos destinados a utilización de fosas;
 
-D) Vigilar que los bienes inmuebles del municipio sean incorporados al dominio público en los términos de ley, mediante el acuerdo de incorporación correspondiente debidamente publicado en el Periódico Oficial del Estado.
+X. Sugerir las medidas adecuadas para la conservación de los cementerios;
 
-E) Las demás que le confiera el Ayuntamiento.
+XI. Estudiar las características que deban reunir los nuevos cementerios y proponer su apropiada ubicación;
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2013)</small>
+XII. Gestionar ante las autoridades municipales los reportes de vecinos en materia de limpia, parques y jardines;
 
-XVI.- PARTICIPACIÓN CIUDADANA.
+XIII. Proponer ante el Ayuntamiento y las autoridades municipales competentes la realización de obras, proyectos y labores de mantenimiento en materia de limpia, parques y jardines;
 
-A) Proponer, analizar, estudiar y dictaminar las iniciativas concernientes a la participación ciudadana y vecinal.
+XIV. Vigilar que el servicio de alumbrado que se brinda a la ciudadanía sea eficiente y oportuno;
 
-B) Evaluar los trabajos de las dependencias municipales con funciones y atribuciones en la materia y, en base en sus resultados y las necesidades, proponer las medidas pertinentes para orientar la política que al respecto deba emprender el municipio.
+XV. Gestionar ante las autoridades municipales los reportes de vecinos en materia de alumbrado público;
 
-C) Presentar al Ayuntamiento las propuestas de dictamen, los informes, resultados de los trabajos de investigación y demás documentos relativos a los asuntos que les son turnados en torno a la participación ciudadana y vecinal.
+XVI. Realizar estudios tendientes a la localización de áreas convenientes para el depósito, recolección y transferencia de basura, desechos recolectados y las posibilidades de su industrialización;
 
-D) Las demás que le confiera el Ayuntamiento.
+XVII. Colaborar con la evaluación administrativa de la industrialización de basura y proponer medidas suficientes para optimizar su servicio;
 
-###### ARTÍCULO 75.
+XVIII. Estar en coordinación con la Secretaría de Servicios Públicos a fin de dar seguimiento a los reportes de los vecinos en cuanto al agua potable o alcantarillas municipales; y
 
-Las Comisiones transitorias o especiales serán las que se organicen para la solución o el estudio de temas de interés municipal, sus facultades deberán ser precisadas en acuerdo del R. Ayuntamiento y por tiempo determinado.
+XIX. Las demás que le confiera el Ayuntamiento.
 
-###### ARTÍCULO 76.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para el desempeño de sus funciones, los integrantes de las comisiones contarán con el apoyo documental y administrativo requerido por parte de los funcionarios de la administración municipal y en caso de negativa o negligencia de algunos de estos funcionarios, la comisión elevará recurso de queja al Presidente Municipal a través del Secretario del Ayuntamiento, para que active el apoyo o se apliquen las sanciones correspondientes.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 77.
+###### Artículo 94.
+
+Son atribuciones de la Comisión de Derechos Humanos las siguientes:
+
+I. Supervisar que los Derechos Humanos sean respetados en el Municipio por los funcionarios y empleados;
+
+II. Iniciar procedimientos para conocer si hay violación de derechos humanos, ya sea de oficio o por queja presentada ante la propia Comisión;
+
+III. Emitir recomendaciones a las autoridades Municipales para evitar daños por violación de derechos humanos, así como para la reparación de los causados;
+
+IV. Visitar los lugares donde se presuma la existencia de constates (sic) violaciones de derechos humanos, como cárceles, hospitales, escuelas, centros de trabajo, entre otros;
+
+V. Emitir informes públicos sobre violación de derechos humanos y hacer propuestas legislativas para que sean respetados esos derechos;
+
+VI. Elaborar programas preventivos en materia de derechos humanos y difundirlos entre la población del municipio;
+
+VII. Elaborar, revisar y reformar en conjunto con la Comisión de Gobernación y Reglamentación el Reglamento Municipal de Derechos Humanos;
+
+VIII. Los que le sean encomendadas (sic) por el Ayuntamiento o por el Presidente Municipal;
+
+IX. Promover acciones coordinadas con los organismos públicos y sociales protectores de los derechos humanos para el estudio y la difusión de los mismos en el Municipio; y
+
+X. Las demás que le confiera el Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 95.
+
+Las comisiones transitorias o especiales serán las que se organicen para la solución o el estudio de temas de interés municipal; su composición, organización y funcionamiento, así como el plazo de finalización de sus trabajos deberán ser precisadas mediante acuerdo expedido por el Ayuntamiento.
+
+Una vez cumplido su objetivo o finalizado el plazo para su cumplimiento, el Ayuntamiento decretará la disolución de la comisión y resolverá sobre los resultados de la encomienda para la cual fue creada.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 96.
+
+Para el desempeño de sus funciones los miembros de las comisiones contarán con el apoyo documental y administrativo requerido. En caso de negativa injustificada o negligencia por parte del personal adscrito a la Administración Municipal, la Comisión o alguno de sus integrantes, podrá interponer el recurso de queja ante el Presidente Municipal para que se desahogue el procedimiento por responsabilidad administrativa y en su caso se apliquen las sanciones respectivas.
+
+Las solicitudes de información deberán ser consignadas (sic) escrito, firmadas por el presidente de la comisión, o el secretario de ésta si el presidente estuviese inhabilitado para hacerlo, con copia para el Secretario del Ayuntamiento, quien tendrá la obligación de dar cauce y seguimiento a la solicitud.
+
+El titular de la dependencia a quien se le formule la solicitud de información, estará obligado a contestar en un término que no exceda de 7 días naturales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 97.
 
 Las comisiones deberán sesionar ordinariamente una vez al mes y extraordinariamente las veces que sea necesario, por acuerdo del propio presidente, o a solicitud de la mayoría de sus integrantes.
 
-### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO DE REGLAMENTACIÓN MUNICIPAL
+Las comisiones se reunirán para tratar los asuntos de su competencia, previa convocatoria por escrito de su Presidente, en el que se indique el lugar, fecha y hora de la sesión. La convocatoria se le dará a conocer a los demás miembros de la comisión, con mínimo 24-veinticuatro horas de anticipación en sus respectivas oficinas.
 
-###### ARTÍCULO 78.
+En caso de urgencia, el Presidente de la comisión podrá convocar de forma verbal y de manera inmediata. En el caso en que el Presidente no convoque en 30-treinta días y existan asuntos pendientes de despacho, el Secretario de la comisión o la mayoría de los integrantes de la comisión podrán convocar para la celebración de la sesión de comisión en los mismos términos (sic) los establecidos en el segundo párrafo.
 
-Las Comisiones despacharán los asuntos que les encomienden en un plazo no mayor de treinta días, salvo que existan circunstancias que ameriten prorrogar dicho plazo. La propuesta de prórroga se hará ante los integrantes de la misma Comisión.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 79.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 98.
+
+Cuando sean convocados en tiempo y forma de acuerdo a este Reglamento y alguno o algunos de los miembros de la Comisión no se presentaran en el lugar, día y hora de la junta, el convocante esperará por un lapso de quince minutos, posteriormente iniciará la reunión con quienes se encuentren presentes, siendo válidos los acuerdos que se tomen.
+
+Los miembros de la Comisión tendrán derecho a conocer lo tratado en la sesión a la que no asistieron, y el Presidente de la misma tendrá obligación de informarles.
+
+Si sólo estuviese presente el convocante después de los quince minutos, suspenderá la sesión. Este hecho deberá constar en el informe de la comisión que se presente al Ayuntamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 99.
+
+Las comisiones permanentes despacharán los asuntos que les encomienden en un plazo no mayor a treinta días, salvo que existan circunstancias que ameriten prorrogar dicho plazo. La propuesta de prórroga se hará ante los integrantes de la misma comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 100.
 
 Los miembros de las Comisiones no tendrán ninguna retribución extraordinaria por el desempeño de las mismas.
 
-###### ARTÍCULO 80.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los Presidentes de las comisiones tienen las siguientes obligaciones:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-I. Dar a conocer a los demás miembros, los asuntos turnados a la Comisión.
+###### Artículo 101.
 
-II. Convocar a los integrantes, a las sesiones de la Comisión.
+Los Presidentes de las comisiones tendrán las siguientes obligaciones:
 
-III. Presidir y dirigir los debates de las sesiones de la Comisión.
+I. Dar a conocer a los demás miembros, los asuntos turnados a la Comisión;
 
-IV. Promover las visitas, entrevistas y acciones necesarias para el estudio y dictamen de los asuntos turnados.
+II. Convocar a los integrantes, a las sesiones de la Comisión;
 
-V. Ser el encargado de la formulación de los proyectos de dictamen, para lo cual contará con el auxilio de los servidores públicos del municipio que correspondan.
+III. Presidir y dirigir los debates de las sesiones de la Comisión;
 
-VI. Asistir puntualmente a las sesiones de la Comisión.
+IV. Promover las visitas, entrevistas y acciones necesarias para el estudio y dictamen de los asuntos turnados;
 
-###### ARTÍCULO 81.
+V. Ser el encargado de la formulación de los proyectos de dictamen, para lo cual contará con el auxilio de los servidores públicos del municipio;
 
-Los Secretarios de las comisiones tienen las siguientes obligaciones:
-
-I. Convocar, en ausencia del Presidente, previo conocimiento y consentimiento del mismo, a los miembros de la Comisión para celebrar sesiones de comisión.
-
-II. Presidir las sesiones de las comisiones en ausencia del Presidente.
-
-III. Tomar lista de asistencia y declarar la existencia del quórum legal para sesionar.
-
-IV. Fungir en su caso como secretario de actas de las sesiones de la Comisión.
-
-V. Coadyuvar para el cumplimiento de los objetivos de la Comisión y para la dictaminación de los asuntos turnados.
-
-VI. Participar con sus aportaciones en los asuntos turnados a la Comisión y en el cumplimiento de las atribuciones de la misma.
+VI. Participar con voz y voto en las deliberaciones y votaciones que se realicen en las sesiones, siendo su voto de calidad en caso de empate; y
 
 VII. Asistir puntualmente a las sesiones de la Comisión.
 
-###### ARTÍCULO 82.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los Vocales de las comisiones tienen las siguientes obligaciones:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-I. Coadyuvar para el cumplimiento de los objetivos de la Comisión y para la dictaminación de los asuntos turnados.
+###### Artículo 102.
 
-II. Participar con sus aportaciones en los asuntos turnados a la Comisión y en el cumplimiento de las atribuciones de la misma.
+Los Secretarios de las comisiones tendrán las siguientes obligaciones:
 
-III. Asistir puntualmente a las sesiones de la Comisión.
+I. Convocar, en ausencia del Presidente, previo conocimiento y consentimiento del mismo, a los miembros de la Comisión para celebrar sesiones de comisión;
 
-###### ARTÍCULO 83.
+II. Presidir las sesiones de las comisiones en ausencia del Presidente;
+
+III. Tomar lista de asistencia y declarar la existencia del quórum legal para sesionar;
+
+IV. Fungir en su caso como secretario de actas de las sesiones de la Comisión;
+
+V. Coadyuvar para el cumplimiento de los objetivos de la Comisión y para dictaminar los asuntos turnados;
+
+VI. Participar con sus aportaciones en los asuntos turnados a la Comisión y en el cumplimiento de las atribuciones de la misma; y
+
+VII. Asistir puntualmente a las sesiones de la Comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 103.
+
+Los Vocales de las comisiones tendrán las siguientes obligaciones:
+
+I. Coadyuvar para el cumplimiento de los objetivos de la Comisión y para dictaminar los asuntos turnados;
+
+II. Participar con sus aportaciones en los asuntos turnados a la Comisión y en el cumplimiento de las atribuciones de la misma;
+
+III. Fungir en caso de ausencia del Secretario y a propuesta del Presidente como Secretario de la Comisión; y
+
+IV. Asistir puntualmente a las sesiones de la Comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 104.
 
 Los miembros del Ayuntamiento que no sean miembros de la Comisión podrán asistir a las sesiones de la misma con voz pero sin voto.
 
-###### ARTÍCULO 84.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Podrán comparecer ante la misma, los servidores públicos del Gobierno Municipal que se considere pertinente y en su caso, invitar a los ciudadanos interesados en el asunto de que se trate. En todo caso deberán asistir los servidores públicos que apoyen a las comisiones en el estudio y formulación de los dictámenes correspondientes.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-DE LAS COMISIONES UNIDAS
+###### Artículo 105.
 
-###### ARTÍCULO 85.
+Podrán comparecer a las sesiones de las comisiones, los servidores públicos del Gobierno Municipal que se considere pertinente y en su caso, invitar a los ciudadanos interesados en el asunto de que se trate. En todo caso deberán asistir los servidores públicos que apoyen a las comisiones en el estudio y formulación de los dictámenes correspondientes.
 
-Las Comisiones podrán reunirse con otras cuando el asunto en estudio o la recepción de información se encuentre vinculado con la competencia de esas. Lo anterior requiere el acuerdo mayoritario de los integrantes de la Comisión.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 86.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 106.
+
+Las comisiones, por conducto de su Presidente, recibirán los asuntos que les sean turnados por acuerdo del Ayuntamiento y se darán a la tarea de analizarlos, discutirlos y emitir dictamen y/o recomendaciones en forma expedita.
+
+Las dependencias administrativas turnarán sus peticiones a través del Secretario del Ayuntamiento, quien las pondrá a consideración del Ayuntamiento para que por acuerdo se designe a la Comisión encargada para conocer el mismo.
+
+Cualquier ciudadano o miembro del Ayuntamiento podrá presentar asuntos a la comisión que le corresponda, mediante simple oficio dirigido al Presidente de ésta, quien lo pondrá a consideración de los demás integrantes en la sesión de la comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 107.
+
+Una vez verificada la existencia del quórum de votación, el Presidente de la comisión hará del conocimiento de los asistentes los asuntos que le hayan sido turnados para posteriormente otorgar el uso de la voz a los funcionarios de la Administración Pública Municipal y ciudadanos interesados en los asuntos materia de la convocatoria.
+
+Los miembros del Ayuntamiento que no sean integrantes de la comisión en turno y que pretendan emitir alguna opinión, deberán solicitar el uso de la palabra al Presidente de la comisión.
+
+Terminada la participación referida en los párrafos precedentes y si el asunto se considera suficientemente discutido se someterá a votación económica el tema.
+
+El Secretario de la comisión llevará un acta donde asentará quienes asistieron, los asuntos que se trataron, las votaciones (especificando nombre del participante y sentido de su voto), las decisiones y acuerdos que se tomen; así como las observaciones que hagan los miembros de la comisión y que soliciten que se asiente en el acta. El acta será firmada por los que hayan intervenido y quieran hacerlo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 108.
+
+Como respuesta a los asuntos que les hayan sido turnados, las comisiones podrán tomar acuerdos y emitir dictámenes que tendrán el carácter de propuestas para el Ayuntamiento, cuando dichos asuntos sean discutidos en la sesión correspondiente.
+
+Las Comisiones fundarán y motivarán por escrito sus dictámenes y concluirán las partes resolutivas con propuestas claras y precisas que permitan orientar la consecución de acuerdos y resoluciones; su contenido se ajustará a lo siguiente:
+
+I. Se expresará el nombre de la Comisión o Comisiones que lo presentan; la identificación clara del asunto de que se trate; la fecha en que le fue turnado dicho asunto, y el nombre del o los promoventes;
+
+II. Bajo la palabra ANTECEDENTES, se consignará de una manera concisa y clara, lo conducente a la cronología y motivación del asunto;
+
+III. A continuación, bajo la palabra CONSIDERACIONES, se consignarán clara y concisamente las razones y fundamentos de orden jurídico en que se basen los integrantes de la Comisión para la procedencia, modificación a la solicitud original o el rechazo de ésta;
+
+IV. Bajo la palabra ACUERDOS, se incluirá la parte resolutiva que contendrá la propuesta concreta para ser sometida a consideración del Republicano Ayuntamiento;
+
+V. La fecha y la mayoría de las firmas de los miembros de la Comisión, especificando el sentido de su voto;
+
+VI. Los que hayan rechazado el dictamen podrán adherir al mismo sus votos particulares.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 109.
+
+Las comisiones podrán reunirse con otras cuando el asunto en estudio o la recepción de información se encuentre vinculado con la competencia de esas. Lo anterior requiere el acuerdo mayoritario de los integrantes de la comisión.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 110.
 
 Las Presidencias de las Comisiones Unidas deberán coordinarse para la elaboración del proyecto de dictamen, considerando las opiniones, argumentos o estudios que presenten los integrantes de las mismas.
 
-###### ARTÍCULO 87.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El dictamen de Comisiones Unidas deberá estar firmado por todos los integrantes presentes. Los que lo hayan rechazado podrán adherir al dictamen sus votos particulares.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 88.
+###### Artículo 111.
+
+El dictamen de Comisiones Unidas deberá estar firmado por todos los integrantes presentes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 112.
 
 Habrá quórum en Comisiones Unidas estando presentes la mitad más uno de los miembros de las Comisiones.
 
-###### ARTÍCULO 89.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 113.
 
 El dictamen que aprueben las Comisiones Unidas deberá ser uno sólo, aprobado por el voto mayoritario de los regidores y/o síndicos presentes.
 
-###### ARTÍCULO 90.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Las resoluciones o acuerdos del R. Ayuntamiento se tomarán con el voto de la mayoría de los presentes. Sólo tratándose de la aprobación de iniciativas de reformas a la Constitución Política del Estado, reformas a los reglamentos municipales y emisión de éstos, así como la revocación de acuerdos o resoluciones tomadas, se requerirá el voto de las dos terceras partes de los integrantes del R. Ayuntamiento; de igual manera se requerirá dicha votación para acciones de afectación al patrimonio inmobiliario o para la celebración de actos o convenios que se vea comprometido al Municipio por un lapso mayor al período constitucional del R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 91.
+###### Artículo 114.
 
-Antes de comenzar la votación, el Presidente Municipal dará lectura sintetizada de la propuesta hecha y hará la siguiente aclaración: “Se somete a votación de los presentes“. Seguidamente el Secretario del Ayuntamiento procederá a recoger la votación en los términos previstos por este Reglamento.
+Las comisiones que establezca el Ayuntamiento tienen la obligación de rendir un informe anual de las actividades que hayan desarrollado en el ejercicio de sus facultades, a fin de que éste sea considerado para el informe anual que el Presidente Municipal formule.
 
-Si algún miembro del Ayuntamiento, tuviera interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles hasta el segundo grado, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte; deberá excusarse de intervenir en la atención y resolución del asunto.
+El informe deberá constar por escrito y corresponde al Presidente de cada comisión darle lectura en la última sesión ordinaria del mes de septiembre de cada año.
 
-Si algún miembro del Ayuntamiento no quiere participar en la votación de algún asunto, deberá manifestarlo expresamente antes de que se someta a votación el asunto del cual se quiere abstener o excusarse de votar.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 92.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Habrá tres formas de ejercer el voto en las sesiones del Ayuntamiento:
+### Capítulo V. Procedimiento de reglamentación
 
-I. Nominales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Económicas.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-III. Por Cédula.
+###### Artículo 115.
 
-###### ARTÍCULO 93.
+Corresponde al R. Ayuntamiento la creación, modificación y derogación de los Reglamentos Municipales respectivos.
 
-La Votación Nominal se efectuará en la siguiente forma:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I. El Secretario del Ayuntamiento dirá en voz alta su nombre y apellido de cada integrante del Ayuntamiento y este dirá el sentido de su voto: A favor, en Contra o Abstención.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-II. El Secretario del Ayuntamiento, tomará nota de los que voten afirmativamente, así como quienes lo hagan en sentido negativo o en abstención.
+###### Artículo 116.
 
-III. Concluida la votación, el Secretario del Ayuntamiento, procederá a efectuar el cómputo y dará el resultado de las mismas.
+Previo a todo proceso de iniciativa de Reglamento Municipal deberá publicarse en la Gaceta Municipal una convocatoria pública dirigida a la ciudadanía para que ésta exponga sus comentarios y propuestas al Reglamento respectivo.
 
-###### ARTÍCULO 94.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Serán Votaciones Nominales:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-I. Para la designación de Secretario del Ayuntamiento y Tesorero Municipal.
+###### Artículo 117.
 
-II. En lo demás previsto por este Reglamento y aquellos casos, que a solicitud de cuando menos una tercera parte de los miembros del Ayuntamiento, sean acordados por éste.
+El derecho de iniciativa para modificar Reglamentos Municipales corresponde a:
 
-###### ARTÍCULO 95.
+I. Presidente Municipal;
 
-Las demás votaciones sobre resoluciones o acuerdos del Ayuntamiento serán económicas. La votación económica consistirá en preguntar a los integrantes del Ayuntamiento quienes están a favor, para lo cual deberán levantar la mano; posteriormente, se preguntará a los integrantes del Ayuntamiento quienes están en contra, para lo cual deberán levantar la mano.
+II. Regidores y Síndicos; y
 
-###### ARTÍCULO 96.
+III. Ciudadanos en general.
 
-Las votaciones para elegir o designar personas se harán por cédula impersonal, asegurando el secreto del voto, se depositará en un ánfora. El Secretario del Ayuntamiento procederá al recuento de la votación y manifestará en voz alta el resultado.
+ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]
 
-###### ARTÍCULO 97.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-En caso de empate, independientemente de la forma de ejercer el voto empleado, el Presidente Municipal resolverá el asunto en cuestión en ejercicio de su voto de calidad.
+###### Artículo 118.
 
-###### ARTÍCULO 98.
+Las iniciativas del Presidente Municipal, Regidores, Síndicos y (sic), serán turnadas a la comisión o comisiones respectivas.
 
-Resultado de las votaciones deberá registrase de la siguiente forma
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-a) Aprobación por Mayoría Simple: Es cuando una proposición es aprobada por la mitad más uno de los asistentes a la sesión.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-b) Aprobación por Mayoría Absoluta: Es cuando una proposición es aprobada por la mitad más uno de los integrantes del ayuntamiento.
+###### Artículo 119.
 
-c) Aprobación por Mayoría Calificada. Es cuando una proposición es aprobada por las dos terceras partes o más de los integrantes del ayuntamiento.
+Las propuestas ciudadanas de iniciativa o reforma a las disposiciones reglamentarias municipales deberán presentarse por escrito ante la Secretaría del Ayuntamiento, mismas que contendrán lo siguiente:
 
-d) Aprobación por Unanimidad. Es cuando una proposición es aprobada por la totalidad de los asistentes a la sesión.
+I. Nombre de la propuesta;
 
-###### ARTÍCULO 99.
+II. Nombre del que presenta la propuesta;
 
-Los acuerdos del Ayuntamiento únicamente podrán revocarse o modificarse mediante Sesión a la que ocurra más de las dos terceras partes de los integrantes del Ayuntamiento, y sólo cuando éstos consideren que el acuerdo causa grave perjuicio o redunda en beneficio del Municipio.
+III. Domicilio del que presenta la propuesta;
 
-###### ARTÍCULO 100.
+IV. Firma de quien propone;
 
-La resolución de las proposiciones o dictámenes en que se solicite la revocación o modificación de un acuerdo, no podrá hacerse en la misma Sesión en que se originó, sino que se resolverá en sesión posterior expresándose en la Convocatoria el acuerdo que se trate de revocar o modificar.
+V. Exposición de motivos; y
 
-###### ARTÍCULO 101.
+VI. Texto del Reglamento.
 
-Corresponde al R. Ayuntamiento la creación, modificación y derogación de los Reglamentos Municipales respectivos, de conformidad con lo que establezca la ley de la materia.
+Las propuestas ciudadanas tendrán que hacerse del conocimiento del pleno del Ayuntamiento y tendrán que ser aprobadas para poder ser turnadas a la Comisión correspondiente para su estudio y emisión del dictamen correspondiente.
 
-###### ARTÍCULO 102.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Corresponde el derecho de iniciativa para modificar Reglamentos Municipales a las siguientes personas:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-A) Al Presidente Municipal.
+###### Artículo 120.
 
-B) A Los Regidores y Síndicos.
+La discusión y aprobación de las iniciativas de Reglamentos Municipales, deberá realizarse en Sesión del Ayuntamiento, con tal objeto, el Presidente Municipal, las hará del conocimiento de los integrantes del mismo, procediéndose a la votación respectiva.
 
-C) A los Ciudadanos en general.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 103.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Las iniciativas del Presidente Municipal, Regidores, Síndicos y, serán turnadas a la comisión o comisiones respectivas.
+###### Artículo 121.
 
-###### ARTÍCULO 104.
+Aprobada la iniciativa de Reglamento o su modificación, el Secretario del Ayuntamiento refrendará el acta respectiva, enviando un tanto de la misma en lo relacionado para su publicación en el Periódico Oficial del Estado.
 
-Los Ciudadanos, presentarán sus propuestas de iniciativa o reformas a las Disposiciones Reglamentarias Municipales por escrito ante la Secretaría del Ayuntamiento, debiendo contener lo siguiente:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-A) Nombre del que presenta la propuesta.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-B) Domicilio del que presenta la propuesta.
+###### Artículo 122.
 
-C) Firma de quien propone.
+El Presidente Municipal ordenará una vez que sean aprobadas por el Ayuntamiento las publicaciones de los Reglamentos, Reformas o Adiciones en el Periódico Oficial del Estado y en la Gaceta Municipal. La publicación en fecha distinta en la Faceta de las reformas, modificaciones o adiciones no afecta su entrada en vigor.
 
-D) Exposición de motivos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-E) Texto del Reglamento.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Las propuestas ciudadanas tendrán que hacerse del conocimiento del pleno del Ayuntamiento, antes de ser turnadas a la Comisión correspondiente para su estudio y emisión del dictamen correspondiente.
+###### Artículo 123.
 
-###### ARTÍCULO 105.
+La Gaceta Municipal es el medio de comunicación oficial del Gobierno y su publicación ordinaria será el día viernes de cada semana, a través de la página electrónica del Municipio, y en forma impresa cuando así lo estime a propuesta del Presidente Municipal.
 
-La discusión y aprobación de las iniciativas de Reglamentos Municipales, deberá realizarse en Sesión del R. Ayuntamiento, con tal objeto, el Presidente Municipal, las hará del conocimiento de los integrantes del Ayuntamiento, al momento de hacer la cita respectiva, la cual se hará con las formalidades que marca el artículo 54.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 106.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Aprobado que fuere la iniciativa de Reglamento o su modificación, el Secretario del Ayuntamiento refrendará el acta respectiva, enviando un tanto de la misma en lo relacionado para su publicación en el Periódico Oficial del Estado.
+###### Artículo 124.
 
-###### ARTÍCULO 107.
+Para dotar de validez formal a los actos de Gobierno se requiere su publicación en la Gaceta Municipal, con excepción de aquellos relacionados con las reformas a los Reglamentos y todos aquellos supuestos expresos que indique la Ley, en cuyo caso se requerirá adicionalmente su publicación en el Periódico Oficial del Estado.
 
-El Presidente Municipal ordenará una vez que sean aprobadas por el R. Ayuntamiento las publicaciones de los Reglamentos, Reformas o Adiciones en el Periódico Oficial del Estado y en la Gaceta Municipal.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 108.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Previo a todo proceso de Iniciativa de Reglamento Municipal, deberán establecerse los medios idóneos para garantizar la participación de los habitantes del Municipio con relación a la elaboración de éstos, y en los casos que así lo señale el Ayuntamiento, convocar públicamente a la población para que exponga sus comentarios a la propuesta de reglamento.
+###### Artículo 125.
 
-###### ARTÍCULO 109.
+Son materia de publicación en la Gaceta Municipal:
 
-El Secretario será designado por el Ayuntamiento en su primer Sesión a propuesta del Presidente Municipal, cumpliendo con los requisitos que establece la Ley Orgánica de la Administración Pública Municipal. En caso de oposición esta deberá ser razonada y apoyada en derecho.
+I. El Plan Municipal de Desarrollo correspondiente al período constitucional de Gobierno;
 
-###### ARTÍCULO 110.
+II. Las disposiciones administrativas y circulares de carácter general;
 
-El Secretario del R. Ayuntamiento, tendrá además de las facultades y obligaciones otorgadas por la Ley de la materia y los Reglamentos Municipales, los siguientes:
+III. La publicación trimestral correspondiente al estado de origen y aplicación de los recursos;
 
-I. Presentarse treinta minutos antes de la hora señalada para que dé inicio la Sesión del R. Ayuntamiento, a fin de corroborar que el local respectivo se encuentre en condiciones adecuadas, para llevarse a cabo la reunión correspondiente;
+IV. La aprobación de los presupuestos anuales de egresos, los que deberán establecer sus partidas anuales y plurianuales, consideradas en relación con el Plan Municipal de Desarrollo, así como las modificaciones a este;
 
-II. Pasar lista de asistencia en las sesiones de Ayuntamiento y dar cuenta de todos los asuntos y acuerdos que se les haya dado seguimiento;
+V. La publicación trimestral del estado de origen y aplicación de los recursos;
 
-III. Asistir al Presidente Municipal en la celebración de las Sesiones del R. Ayuntamiento;
+VI. La aprobación de la desafectación, de bienes del dominio público municipal, en la forma y términos que determine la Ley;
 
-IV. Elaborar las actas de las Sesiones de Ayuntamiento, y difundirlas entre los ediles, cuidando que contengan las horas de apertura y clausura, observaciones, correcciones y aprobación del acta anterior, una relación nominal de los Munícipes presentes y ausentes, con permiso o sin él, así como una relación sucinta, ordenada y clara de cuanto se hubiere tratado y resuelto en la Sesión;
+VII. La convocatoria para concesionar los servicios públicos establecidos en esta Ley;
 
-V. Certificar los Reglamentos, acuerdos y demás disposiciones y documentos que expida el Ayuntamiento;
+VIII. La resolución que conceda la concesión de servicios públicos;
 
-VI. Llevar los libros siguientes:
+IX. La resolución que declare la extinción de organismos descentralizados;
 
-A) El de actas de las Sesiones del R. Ayuntamiento en dos originales, donde se asienten todos los asuntos tratados y acuerdos tomados por este R. Ayuntamiento.
+X. Las modificaciones al Plan Municipal de Desarrollo;
 
-B) El libro de acuerdos y resoluciones del Ayuntamiento.
+XI. La declaratoria de incorporación al dominio público de bien inmueble propiedad del Municipio, en los casos que sea procedente;
 
-C) El Libro de visitantes distinguidos del Gobierno Municipal.
+XII. La enajenación o gravamen de los bienes muebles del dominio privado del Municipio;
 
-D) El Libro de debates, que será un documento de carácter histórico en el que se registrará textualmente lo expresado por los miembros del Ayuntamiento, durante las sesiones y no requerirá de la aprobación por parte del Ayuntamiento.
+XIII. La convocatoria a subasta pública para la enajenación onerosa de bienes muebles e inmuebles propiedad del Municipio;
 
-VII. Conservar el archivo del Ayuntamiento, ordenándolo por expedientes numerados, haciendo cada año un índice de los correspondientes a él, coleccionando todos los del año en uno o más legajos y formar los libros respectivos;
+XIV. Un resumen del presupuesto de egresos;
 
-VIII. Llevar un archivo sobre citatorios, órdenes del día y cualquier material informativo relativo a las Sesiones del R. Ayuntamiento, que ayude a facilitar su identificación;
+XV. Los actos o resoluciones que así determine el Ayuntamiento por su importancia o trascendencia; y
 
-IX. Dar a conocer a todas las Dependencias Administrativas Municipales, los acuerdos tomados por el R. Ayuntamiento y las decisiones del Presidente Municipal dados en las sesiones de Ayuntamiento;
+XVI. Los actos o resoluciones que así determine el Ayuntamiento por su importancia o trascendencia determine el Presidente Municipal.
 
-X. Facilitar a los miembros del R. Ayuntamiento para su consulta en el lugar en el que se encuentren sin poderlos retirar de este sitio, los libros, documentos y expedientes del archivo municipal, para el ejercicio de sus funciones;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XI. No permitir la extracción de ningún documento de la Secretaría o del archivo municipal, sin autorización del Presidente Municipal. La consulta de algún documento de archivo, se hará solo en el local de la Secretaría;
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Expedir copia certificada de los documentos que se le soliciten por escrito, en forma gratuita para los integrantes del R. Ayuntamiento y con pago de derechos para el particular;
+###### Artículo 126.
 
-XIII. Guardar la debida reserva de los asuntos que se refieren al desarrollo de sus funciones, como aquellos que se le encomienden, así como los que se le encomienden por el R. Ayuntamiento;
+En caso de que la publicación coincida con un día feriado señalado así por la Ley, la publicación se correrá al día hábil inmediato anterior.
 
-XIV. Recibir las iniciativas relativas a modificaciones de los Reglamentos Municipales que se presenten y solicitar al presidente municipal sean turnados a la comisión o comisiones respectivas para su estudio y dictamen;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XV. Refrendar con el Presidente Municipal los acuerdos que emita el R. Ayuntamiento;
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Revisar que las propuestas ciudadanas cumplan con los requisitos que establece este Reglamento, en caso contrario invitar al ciudadano a subsanar las deficiencias.
+###### Artículo 127.
 
-XVII. Las demás que le sean conferidas por acuerdo del R. Ayuntamiento.
+Podrán existir publicaciones extraordinarias en la Gaceta cuando así lo determine el Ayuntamiento, por situaciones excepcionales y casos de necesidad de dar publicitación a los actos de gobierno.
 
-###### ARTÍCULO 111.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El Tesorero Municipal será designado por el Ayuntamiento en su primera Sesión, a propuesta del Presidente Municipal y debe reunir los requisitos estipulados por la Ley Orgánica de la Administración Pública Municipal. En caso de oposición, ésta deberá ser razonada y apoyada en derecho.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 112.
+###### Artículo 128.
 
-El Tesorero Municipal, será responsable de la recaudación de los ingresos municipales, recibirá las participaciones en el rendimiento de impuestos federales y estatales, dará cumplimiento a los convenidos (sic) de coordinación fiscal, autorizará las erogaciones que por concepto de gastos o inversión haga el Municipio y vigilará la administración de fondos para obras por cooperación. Además será responsable de Hacienda y Patrimonios Municipales.
+La Gaceta Municipal deberá contener por lo menos los siguientes datos:
 
-###### ARTÍCULO 113.
+I. La leyenda impresa de “Gobierno del Municipio de General Escobedo, Nuevo León”;
 
-El Tesorero Municipal formulará el proyecto de presupuesto de ingresos y el presupuesto de egresos de la Hacienda Pública, sometiéndolo a la aprobación del Ayuntamiento una vez aprobada y firmada por el Presidente Municipal y el Síndico comisionado en Hacienda será enviado al Congreso del Estado para los efectos que establecen los artículos 128 de la Constitución Política del Estado y 127 de la Ley Orgánica de la Administración Pública Municipal.
+II. Fecha y número de publicación de la Gaceta Municipal;
 
-###### ARTÍCULO 114.
+III. Indicar si se trata de un número ordinario o extraordinario;
 
-El Tesorero Municipal, formulará el pronóstico anual de ingresos y egresos desglosados por partidas y lo presentará al Ayuntamiento.
+IV. Un sumario de su contenido.
 
-### CAPÍTULO VI. DEL SECRETARIO DEL R. AYUNTAMIENTO Y TESORERO MUNICIPAL
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 115.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Corresponde al Tesorero Municipal en materia de deuda pública.
+###### Artículo 129.
 
-A) Elaborar el programa financiero con base en el cual se manejará la Deuda Pública Municipal.
+La Gaceta Municipal será difundida en la página oficial del Gobierno Municipal para efectos de dotar de máxima publicidad los actos de Gobierno.
 
-B) Consignar en el presupuesto anual las amortizaciones de capital y las cantidades que deban pagarse por concepto de intereses.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-## TÍTULO TERCERO
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 116.
+###### Artículo 130.
 
-La Gaceta Municipal es el instrumento por medio del cual el R. Ayuntamiento mantiene informados a las Dependencias, y Órganos Auxiliares de la Administración Pública Municipal, así como a la ciudadanía, respecto a las leyes, decretos, reglamentos, circulares, síntesis de los presupuestos anuales, resoluciones tomadas en sus sesiones ordinaria y extraordinaria, así como las disposiciones administrativas de observancia general dentro del Municipio.
+Cualquier acto de Gobierno por el sólo hecho de aparecer publicado en la Gaceta Municipal, con excepción de aquellos que requieran de publicitación en el Periódico Oficial del Estado, comenzarán a correr a partir de dicho momento su vigencia para cualquiera de sus efectos legales.
 
-###### ARTÍCULO 117.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El Secretario del R. Ayuntamiento será el responsable de proporcionar la información que se publicará en la Gaceta.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 118.
+###### Artículo 131.
 
-La edición, publicación y distribución de la Gaceta estará a cargo de la Dirección de Comunicación Social, la cual editará y publicará la información que le proporcione el Secretario del R. Ayuntamiento.
+La Secretaría del Ayuntamiento es la entidad responsable de dirigir y ordenar la edición y publicación de la Gaceta Municipal, así como de la organización, difusión y administración de la misma en la página electrónica del Ayuntamiento.
 
-###### ARTÍCULO 119.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-La publicación de la Gaceta será en forma mensual y se distribuirá en todas las Dependencias y Órganos auxiliares de la Administración Pública Municipal, con el propósito de mantener a la Administración Municipal estrechamente coordinada entre sí.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-## TITULO CUARTO
+### CAPÍTULO VI. Asistencia a las sesiones públicas
 
-DEL PÚBLICO EN LAS SESIONES.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-### CAPÍTULO ÚNICO.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-DISPOSICIONES GENERALES.
+###### Artículo 132.
 
-###### ARTÍCULO 120.
+Las sesiones del Ayuntamiento serán públicas salvo por los siguientes casos:
+
+I. Cuando el asunto a tratar sea relativo a lo previsto en el artículo 33, fracción I, inciso f) de la Ley y en general a la materia de seguridad, con excepción del nombramiento del Titular de la Seguridad Pública Municipal;
+
+II. Cuando derivado de los asuntos a tratar se vea afectado el derecho a la privacidad de algún tercero; y
+
+III. Cuando así lo prevea expresamente la Ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 133.
 
 Cuando una sesión del Ayuntamiento sea pública, los asistentes e invitados están obligados a guardar el orden debido y mantenerse en silencio, absteniéndose de participar en el desarrollo de la sesión.
 
-###### ARTÍCULO 121.
+Los ciudadanos asistentes a las sesiones del Ayuntamiento podrán hacer uso de la voz únicamente en los casos y bajo las condiciones que expresamente establezca el Ayuntamiento a través de éste reglamento y el diverso de Participación Ciudadana y Cultura Municipal.
 
-En aquellos casos en que una sesión, por resolución del pleno del Ayuntamiento, conforme al artículo 53, pase a tener el carácter de privada, se les exhortará los (sic) invitados a desalojar el recinto oficial.
+En el recinto oficial donde se lleve a cabo la sesión habrá un lugar destinado al público que concurra a presenciar las sesiones. Asimismo, se designará un lugar para los representantes de la prensa.
 
-###### ARTÍCULO 122.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los asistentes e invitados a una sesión del Ayuntamiento, deberán permanecer sentados en el lugar que para tal efecto se disponga.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 123.
+###### Artículo 134.
 
-Los asistentes e invitados a la sesión, se abstendrán de introducir objetos punzo cortantes, armas de fuego, armas blancas, y en general cualesquier objeto que represente un riesgo a la seguridad de las personas, carteles, mantas o anuncios publicitarios; por lo que se deberán de presentar en estado conveniente, respetando las normas sociales y de buena conducta.
+Para permitir el ingreso a la sesión del Ayuntamiento se requerirá la inscripción en un registro y la observancia de los requisitos y condiciones que sean establecidos para salvaguardar la integridad física de los asistentes y la seguridad del recinto.
 
-###### ARTÍCULO 124.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El caso en que se altere el orden, durante las sesiones, el Presidente Municipal amonestará a los asistentes o invitados, a que guarden el orden, y en caso de incumplimiento, se ordenará expulsarlo de la sesión.
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-Si los asistentes o invitados cometieran alguna falta grave o importante, el Ayuntamiento podrá solicitar el uso de la fuerza pública.
+###### Artículo 135.
 
-### CAPÍTULO ÚNICO. DE LA GACETA MUNICIPAL
+Los asistentes a las sesiones se presentarán con el decoro que exige el lugar al que asisten, no podrán portar armas, y en general cualquier objeto que represente un riesgo a la seguridad de las personas. Tampoco podrán introducir cualquier tipo de material publicitario o que pueda poner en riesgo la integridad física de los asistentes.
+
+Queda prohibido fumar e ingresar con cualquier tipo de alimentos, bebidas y/o goma de mascar. Tampoco se permitirá el acceso al recinto oficial donde se lleve a cabo la sesión a personas con sombrero, gorra, lentes obscuros y ropa inapropiada.
+
+Durante el desarrollo de la sesión, queda prohibido el uso de teléfonos celulares o cualquier aparato de radiocomunicación. Los representantes de la prensa, podrán grabar, video grabar o fotografiar la sesión, previo registro al inicio de la sesión para efectos del archivo y memoria de las mismas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 136.
+
+En caso de que se altere el orden durante las sesiones, el Presidente Municipal amonestará a los asistentes o invitados para que guarden el orden y en caso de incumplimiento, se ordenará expulsarlo de la sesión.
+
+Si los asistentes o invitados cometieran alguna falta grave o importante, el Presidente Municipal podrá solicitar el uso de la fuerza pública.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 137.
+
+En aquellos casos en que una sesión, por resolución del pleno del Ayuntamiento, conforme al artículo XX (sic) del presente reglamento adquiera el carácter de privada, se exhortará a los presentes a desalojar el recinto oficial.
 
 ## TRANSITORIOS
 
@@ -1266,3 +2118,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Periódico Oficial del Estado, h
 P.O. 28 DE JUNIO DE 2013.
 
 > <small>[N. DE E. LA “REFORMA POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.]</small>
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 10 DE SEPTIEMBRE DE 2015: POR EL QUE “SE APRUEBA LA REFORMA POR MODIFICACIÓN Y ADICIÓN DEL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”.]
+
+Primero.- La presente reforma será publicada en el Periódico Oficial del Estado después de su aprobación y entrará en vigor el día 31 de octubre de 2015.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
