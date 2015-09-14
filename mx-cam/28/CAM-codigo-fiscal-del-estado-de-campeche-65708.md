@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2012-12-27"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -2499,25 +2499,31 @@ Una vez transcurridos dos años contados a partir de la fecha en que los exceden
 
 En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelven las autoridades competentes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 194.
 
-Causarán abandono en favor del fisco estatal los bienes embargados por las autoridades fiscales, en los siguientes casos:
+Causarán abandono en favor del fisco estatal los bienes, en los siguientes casos:
 
-I. Cuando habiendo sido enajenados o adjudicados los bienes al adquirente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición;
+I. Cuando, una vez que hayan sido enajenados o adjudicados los bienes al adquirente, no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición;
 
 II. Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa, antes de que se hubieran rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado;
 
 III. Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa; y
 
-IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios o autoridades administrativas y jurisdiccionales que los hayan depositado no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
 
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
-Cuando los bienes embargados hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los gastos de almacenaje causados. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los gastos de almacenaje causados.
+
+En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
 
 Los bienes que pasen a propiedad del fisco estatal conforme a este artículo, podrán ser enajenados en los términos del artículo 189 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia o a los municipios.
 
-El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes.
+El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes, en el caso de aquellos que hayan sido depositados por una autoridad judicial o administrativa el saldo restante que resulte una vez aplicados los cargos se pondrá a disposición de esta.
 
 ###### Artículo 195.
 
@@ -2996,3 +3002,27 @@ P.O. 27 DE DICIEMBRE DE 2012.
 Primero.- El presente decreto entrará en vigor el día primero de enero del año dos mil trece, previa publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los 10 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Se abroga la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche publicada en el Periódico Oficial del Estado de Campeche con fecha 30 de mayo de 1996
+
+CUARTO.- Quedan sin efectos los Convenios de Colaboración Administrativa en Materia Hacendaría de Ingresos, relativo a la Coordinación de Acciones de Inspección y Vigilancia, y Delegación de Facultades del cumplimiento de la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas celebrados por el Gobierno del Estado de Campeche con los Ayuntamientos de los Municipios de Calakmúl, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo suscritos bajo la vigencia de la Ley que se abroga.
+
+QUINTO.- Aquellas personas físicas o morales que al 31 de diciembre de 2015 ostenten la titularidad de licencia vigente que hubieren efectuado su renovación para el ejercicio fiscal 2015, estarán exentas, por única ocasión, en el pago de derechos por la obtención de la nueva licencia con vigencia de 15 años; concluida la vigencia de la primera licencia por 15 años, las subsecuentes sí causarán los derechos que por su expedición establece la Ley de Hacienda del Estado de Campeche. Esta excepción no será aplicable para aquellas personas físicas y morales que a partir de la vigencia de esta Ley soliciten licencia para nuevo establecimiento o, que habiendo tenido licencia, ésta no haya sido renovada dentro del plazo de la Ley que se abroga.
+
+SEXTO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley en un término de noventa días naturales a partir de la entrada en vigor de la misma.
+
+SÉPTIMO.- Los licenciatarios, permisionarios, franquiciatarios, administradores, responsables o encargados de los establecimientos contarán con sesenta días naturales contados a partir de la publicación de la presente Ley, para llevar a cabo la regularización de la situación de sus giros y establecimientos, de conformidad con lo establecido en esta Ley.
+
+OCTAVO.- Las licencias expedidas bajo la Ley que se abroga, mantendrán su vigencia solamente durante el ejercicio fiscal 2015, no obstante, les serán aplicables toda la regulación que esta nueva Ley establece. Para el ejercicio fiscal 2016 todas las licencias tendrán el tratamiento de esta nueva Ley y se regirán conforme a ésta.
+
+NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábiles siguientes a partir de la entrada en vigor de esta Ley. En el caso de cambio de gobierno la instalación será dentro de los 45 días naturales siguientes al cambio del mismo.
+
+DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
+
+UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
