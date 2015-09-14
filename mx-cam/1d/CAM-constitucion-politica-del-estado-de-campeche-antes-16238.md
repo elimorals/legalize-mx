@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2015-09-11"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -84,6 +84,14 @@ La Bandera, el Himno y el Escudo Nacionales, así como el Himno y el Escudo prop
 ###### ARTICULO 6.
 
 Además de lo que la Constitución Política de los Estados Unidos Mexicanos prescribe sobre derechos garantizados para toda personas (sic) que se encuentra en territorio nacional, las que estén en territorio campechano gozarán de los demás derechos humanos que la presente Constitución reconoce y garantiza en su ejercicio, así como los que surjan de los convenios internacionales suscritos por el Estado Mexicano y de las leyes que emita el Congreso de la Unión emanadas de la Carta Federal.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+Toda persona que sufra un daño o lesión en sus bienes y derechos, con motivo de la actividad administrativa irregular del Estado y de los Municipios, tendrá derecho a ser indemnizada conforme lo establece el artículo 101 bis de esta Constitución. En todas las decisiones y actuaciones de las autoridades administrativas, jurisdiccionales y legislativas, así como de las demás instituciones públicas o privadas de bienestar social, se velará y observará el principio del interés superior de la niñez y de la adolescencia, garantizando en la máxima medida posible el ejercicio pleno de sus derechos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+Atendiendo a este principio, el ejercicio de los derechos de los adultos no podrá en ningún momento, ni en ninguna circunstancia, condicionarse o anteponerse a los derechos de la niñez y de la adolescencia.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -1619,7 +1627,7 @@ X.- Crear nuevas salas, y ampliar o suprimir las ya existentes, en términos de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE JUNIO DE 2014)</small>
 
-### CAPITULO XVII. De las Responsabilidades de los Servidores Públicos
+### CAPITULO XVII. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS Y PATRIMONIAL DEL ESTADO Y DE LOS MUNICIPIOS
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1673,7 +1681,7 @@ Sólo podrán ser privados de sus cargos en los términos del Título Cuarto de 
 
 La Autoridad Electoral Jurisdiccional del Estado de Campeche contará con el personal técnico, de asesoría y apoyo que necesite para el ejercicio de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 1983)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
@@ -1780,6 +1788,10 @@ En demandas del orden civil que se entablen contra cualquier servidor público, 
 ###### ARTICULO 101.
 
 Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos idóneos de prueba, podrá formular denuncia ante el Congreso respecto de las conductas a las que se refiere el presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 101 bis.- El Estado y los Municipios incurrirán en responsabilidad objetiva y directa cuando, con motivo de su actividad administrativa irregular, causen daño o lesión a los particulares en sus bienes o derechos, debiendo indemnizarlos en forma proporcional y equitativa, conforme a las bases, límites y procedimientos que establezca la ley.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2830,3 +2842,11 @@ SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administr
 P.O. 11 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente decreto entrará en vigor el día 1° de enero del año siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de lo referente a la observancia por las autoridades del principio de interés superior de la niñez y de la adolescencia que entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso del Estado, contará con un plazo de un año a partir de la entrada en vigor del presente decreto para expedir la correspondiente ley de responsabilidad patrimonial, así como para adecuar la legislación estatal en lo conducente. El Estado y los Municipios incluirán en sus respectivos presupuestos de egresos, en sus casos, una partida específica para hacer frente a su responsabilidad patrimonial a partir del ejercicio fiscal que corresponda.
+
+Tercero.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al presente decreto.
