@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2013-09-10"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 286, PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2015, LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS 10 DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -209,7 +211,7 @@ XII. Apoyar la coordinación entre las instituciones de salud y educativas del E
 
 XIII. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Estatal de Salud;
 
-XIV. Promover e impulsar la participación de la comunidad en el cuidado de la salud e impulsar la permanente actualización de las disposiciones legales en materia de salud; y (sic)
+XIV. Promover e impulsar la participación de la comunidad en el cuidado de la salud e impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1535,7 +1537,9 @@ La Secretaría Estatal, en coordinación con otras dependencias y entidades, pro
 
 En el marco de los Sistemas Nacional y Estatal de Salud, la Secretaría Estatal se coordinará con la Secretaría Federal para la ejecución en el Estado del Programa Contra el Alcoholismo y el abuso en el consumo de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
-I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+I. La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos. Para concientizar el consumo de alcohol los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan o consuman bebidas alcohólicas, elaborarán materiales preventivos mismos que colocarán en lugares visibles al consumidor.
 
 II. La educación sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a menores de edad, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
 
@@ -1879,7 +1883,7 @@ XXI. Hospitales, sanatorios y establecimientos similares: Los establecimientos p
 
 XXII. Venta de alimentos en la vía pública: Actividad que se realiza en calles, plazas públicas, en concentraciones por festividades populares y por comerciantes ambulantes; y
 
-XXIII. Establecimientos industriales, comerciales y de prestación de servicios: Aquellas edificaciones en las que se realiza la extracción, conservación, procesamiento, maquila y transformación de materias primas, acabado de productos y elaboración de satisfactores; aquellas en donde se efectúan actividades lucrativas consistentes en la intermediación directa o indirecta entre productores y consumidores de bienes; así como las edificaciones o instalaciones en general, en las que se ofrezcan y comercien servicios de cualquier tipo; (sic)
+XXIII. Establecimientos industriales, comerciales y de prestación de servicios: Aquellas edificaciones en las que se realiza la extracción, conservación, procesamiento, maquila y transformación de materias primas, acabado de productos y elaboración de satisfactores; aquellas en donde se efectúan actividades lucrativas consistentes en la intermediación directa o indirecta entre productores y consumidores de bienes; así como las edificaciones o instalaciones en general, en las que se ofrezcan y comercien servicios de cualquier tipo;
 
 ###### Artículo 187.
 
@@ -2588,3 +2592,27 @@ P.O. 10 DE SEPTIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los 10 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Se abroga la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche publicada en el Periódico Oficial del Estado de Campeche con fecha 30 de mayo de 1996
+
+CUARTO.- Quedan sin efectos los Convenios de Colaboración Administrativa en Materia Hacendaria de Ingresos, relativo a la Coordinación de Acciones de Inspección y Vigilancia, y Delegación de Facultades del cumplimiento de la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas celebrados por el Gobierno del Estado de Campeche con los Ayuntamientos de los Municipios de Calakmúl, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo suscritos bajo la vigencia de la Ley que se abroga.
+
+QUINTO.- Aquellas personas físicas o morales que al 31 de diciembre de 2015 ostenten la titularidad de licencia vigente que hubieren efectuado su renovación para el ejercicio fiscal 2015, estarán exentas, por única ocasión, en el pago de derechos por la obtención de la nueva licencia con vigencia de 15 años; concluida la vigencia de la primera licencia por 15 años, las subsecuentes sí causarán los derechos que por su expedición establece la Ley de Hacienda del Estado de Campeche. Esta excepción no será aplicable para aquellas personas físicas y morales que a partir de la vigencia de esta Ley soliciten licencia para nuevo establecimiento o, que habiendo tenido licencia, ésta no haya sido renovada dentro del plazo de la Ley que se abroga.
+
+SEXTO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley en un término de noventa días naturales a partir de la entrada en vigor de la misma.
+
+SÉPTIMO.- Los licenciatarios, permisionarios, franquiciatarios, administradores, responsables o encargados de los establecimientos contarán con sesenta días naturales contados a partir de la publicación de la presente Ley, para llevar a cabo la regularización de la situación de sus giros y establecimientos, de conformidad con lo establecido en esta Ley.
+
+OCTAVO.- Las licencias expedidas bajo la Ley que se abroga, mantendrán su vigencia solamente durante el ejercicio fiscal 2015, no obstante, les serán aplicables toda la regulación que esta nueva Ley establece. Para el ejercicio fiscal 2016 todas las licencias tendrán el tratamiento de esta nueva Ley y se regirán conforme a ésta.
+
+NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábiles siguientes a partir de la entrada en vigor de esta Ley. En el caso de cambio de gobierno la instalación será dentro de los 45 días naturales siguientes al cambio del mismo.
+
+DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
+
+UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
