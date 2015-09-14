@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-derechos-cultura-y-organizacion-de-los-pueblos-y-16660"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2012-03-14"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 15 de junio de 2000.
 
@@ -105,25 +105,49 @@ Es indígena la persona que así lo reivindique, aunque por diversas razones no 
 
 Para los efectos de esta Ley, se reconocen como comunidades indígenas del Estado de Campeche las siguientes:
 
-En el Municipio de Calkiní las comunidades de: Bacabchén, Becal, Calkiní, Concepción, Dzitbalché, Santa Cruz Ex-Hacienda, Isla Arena (Punta Arena), La Fátima (Cocbilín), Nunkiní, Pucnachén, San Agustín Chunhuás, San Antonio Sahcabchén, San Antonio, Sihó, San Nicolás, Santa Cruz Pueblo, Santa María, Hacienda Tankuché, Tepakán y Xkakoch.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-En el Municipio de Carmen las comunidades de: Abelardo L. Rodríguez (El Jobal), Chicbul, Calax, Colonia Emiliano Zapata, Independencia, Chekubul, La Cristalina, Nicolás Bravo, Centauro del Norte, Adolfo López Mateos, La Nueva Esperanza, Los Manantiales, Oxcabal, Generalísimo Morelos, San Isidro Dos, Juan de la Cabada Vera, Conquista Campesina, Felipe Ángeles, Francisco Villa (Mamantel), Pital Viejo, San Isidro y Venustiano Carranza.
+En el Municipio de Calkiní las comunidades de: Bacabchén, Becal, Calkiní, Concepción, Dzitbalché, Santa Cruz Ex-Hacienda, Isla Arena, Nunkiní, Pucnachén, San Agustín Chunhuás, San Antonio Sahcabchén, San Nicolás, Santa Cruz Pueblo, Santa María, Tankuché, Tepakán y Xkakoch.
 
-En el Municipio de Campeche las comunidades de: Adolfo Ruiz Cortines, Alfredo V. Bonfil, Bethania, Bolonchéncahuich, Carlos Cano Cruz (Los Tlaxcaltecas), Castamay, Crucero Oxá, Chemblás, Chiná, Hobomó, Kicab, Los Laureles, N.C.P. Melchor Ocampo, Xcampeu (Miguel Alemán), Mucuychakán, Nilchí, Uzahzil-Edzná o Nohyaxché, Nohakal, Hontún, Pénjamo, Pich, Pocyaxum, Pueblo Nuevo de Cayal, Quetzal Edzná, La Libertad, Olá (San Agustín), San Antonio Xkix, Bobolá, Cayal, San Camilo, Chencollí, San Francisco Kobén, San Luciano, Tikinmul, Tixmucuy, Uayamón, Nuevo San Antonio Ebulá y El Paraíso.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-En el Municipio de Champotón las comunidades de: Ah-Kim-Pech, Aquiles Serdán (Chuiná), Arellano, Canasayab, Cinco de Febrero, Ciudad Sol, Chac Chaito, Chilam Balam, Dzacabuchén, Dzitbalché Castellot Módulo Tres, El Porvenir, El Saraguato, Carrillo Puerto, Haltunchén, Hool, José María Morelos y Pavón (El Cerrito), El Ingenio “La Joya”, Ley Federal de Reforma Agraria, López Mateos (La Desconfianza), Carlos Salinas de Gortari (Módulo Uno), López Portillo No. 2, Nilún, Maya Tecún I, Maya Tecún II, Miguel Colorado, Moquel, Nayarit Castellot (Xnohá), Nueva Esperanza, Nuevo Michoacán, Nuevo San Luis, Pixoyal, Profesor Graciano Sánchez (Cantemó), La Providencia, Pustunich, Revolución, San Agustín, San Antonio del Río, San Antonio Yacasay, San José Carpizo Uno, San José Carpizo Dos, San Fernando, San Juan Carpizo, San Pablo Pixtún, Santo Domingo Kesté, Sihochac, Valle de Quetzalcóatl, Vicente Guerrero, Villa de Guadalupe, Villa Madero, Villamar, Xkeulil, Xbacab, Yohaltún, Kilómetro 67 (Venustiano Carranza), Módulo Nuevo Paraíso, Santa Cruz de Rovira y General Ortiz Ávila.
+En el Municipio de Carmen las comunidades de: Abelardo L. Rodríguez, Chicbul, Calax, Colonia Emiliano Zapata, Independencia, Checubul, La Cristalina, Nicolás Bravo, Centauro del Norte, Adolfo López Mateos, La Nueva Esperanza, Los Manantiales, Oxcabal, Generalísimo Morelos, San Isidro Dos, Santa Rita, José María Pino Suárez, Juan de la Cabada Vera, Conquista Campesina, Felipe Ángeles, Mamantel (Pancho Villa), Pital Viejo, Plan de Ayala, Sabancuy, San Isidro y Venustiano Carranza.
 
-En el Municipio de Hecelchakán las comunidades de: Blanca Flor, Chunkanán, Dzitnup, Dzohchén, Hecelchakán, Monte Bello, Nohalal, Pocboc, Pomuch, San Vicente Cumpich, Santa Cruz y Zodzil.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-En el Municipio de Hopelchén las comunidades de: Bilincox, Bolonchén de Rejón, Cancabchén, Crucero San Luis, Chanchén, Chencoh, Chun-Ek, Chunchintok, Chunhuay-mil, Chunyaxnic, Dzibalchén, El Poste, Francisco J. Mújica (Los Ucanes), Hopelchén, Ich-Ek, Katab, Konchén, Pac-Chén, Pach-Uitz, Ramón Corona (Laguna Volpoch), Rancho Sosa, San Juan Bautista Sahcabchén, San Antonio Yaxché, San Francisco Suc-Tuc, Becanchén, Xtampak, Tres Valles (Can Akal), Ukúm, Vicente Guerrero (Iturbide), Xcanjá, Xcalot-Akal, Xcanahaltún, Xculoc, Xcupil, Xkix, Xmabén, Xmejía y Yaxché-Akal.
+En el Municipio de Campeche las comunidades de: Adolfo Ruiz Cortines, Alfredo V. Bonfil, Bethania, Bolonchén cahuich, Carlos Cano Cruz (Los Tlaxcaltecas), Castamay, Crucero de Oxá, Chemblás, Chiná, Hobomó, Hampolol, Imí, Kikab, Lerma, Los Laureles, Melchor Ocampo, Miguel Alemán (X-campeu), Mucuychakán, Nilchí, Usahzil-Edzná (Nohyaxché), Nohakal, Nuevo Pénjamo, Pich, Pocyaxum, Pueblo Nuevo, Quetzal Edzná, La Libertad, San Agustín Olá, San Miguel Allende, Bobolá, Cayal, San Camilo (Chencollí), San Francisco Kobén, San Luciano, Tikinmul, Tixmucuy, Uayamón, Nuevo San Antonio Ebulá y El Paraíso.
 
-En el Municipio de Tenabo las comunidades de: Emiliano Zapata, Kankí, San Pedro, Santa Rita, Santa Rosa, Tenabo, Tinún y Xkuncheil.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-En el Municipio de Escárcega las comunidades de: Altamira de Zináparo (Nuevo Zináparo), Belén, Benito Juárez No. 2 (La Polla), Centenario, Chan Laguna, División del Norte, Don Samuel, Lechugal, La Flor de Chiapas, Rodolfo Fierros, Haro, José de la Cruz Blanco, Justicia Social, Kilómetro 74, Kilómetro 36, La Chiquita, La Libertad, La Victoria, Laguna Grande, Las Golondrinas, Benito Juárez No. 3, José López Portillo, Miguel de la Madrid, Luna, Matamoros, Hidalgo (Caracol), Nuevo Progreso No. 2 y Silvituc.
+En el Municipio de Champotón las comunidades de: Ah-Kim-Pech, Aquiles Serdán (Chuiná), Arellano, Buenaventura, Canasayab, Cinco de Febrero, Ciudad del Sol, Chac Cheito, Chilam Balam, Dzacabuchén, Dzitbalché de Castellot, El Porvenir, Felipe Carrillo Puerto, Haltunchén, Hool, Ignacio López Rayón, José María Morelos y Pavón, Kukulkán, La Joya, La Noria, Lázaro Cárdenas, Ley Federal de Reforma Agraria, López Mateos (La Desconfianza), Carlos Salinas de Gortari, López Portillo Número 2, Maya Tecún I, Maya Tecún II, Miguel Allende, Miguel Colorado, Moch Cohuo, Moquel, Nayarit de Castellot, Nueva Esperanza Número 2 (Santo Domingo), Nuevo Michoacán, Pixoyal, Profesor Graciano Sánchez, La Providencia, Pustunich, Revolución, San Antonio del Río, San Antonio Yacasay, San José Carpizo Uno (San Fernando), San José Carpizo Dos, San Juan Carpizo, San Pablo Pixtún, Santo Domingo Kesté, Seybaplaya, Sihochac, Ulumal, Valle de Quetzalcóatl, Vicente Guerrero, Villa de Guadalupe, Villa Madero, Villamar, Xkeulil, Xbacab, Yohaltún, Kilómetro Sesenta y Siete (Venustiano Carranza), Módulo Nuevo Paraíso, Santa Cruz de Rovira y General Ortiz Ávila.
 
-En el Municipio de Calakmul las comunidades de: Xpujil, Dieciséis de Septiembre (Laguna Alvarado), Los Alacranes, Los Ángeles, Arroyo Negro, Becán, Bel-Há, Bella Unión Veracruz (Los Chinos), Blaisillo, La Amapola, Santo Domingo (El Sacrificio), El Carmen II (Las Carmelas), Caña Brava, Centauro del Norte, Cerro de las Flores, El Chichonal, Concepción, Constitución (El Setenta), Cristóbal Colón, Dos Lagunas, Dos Lagunas (sic), Dos Naciones, Emiliano Zapata, N.C.P.E. Felipe Ángeles, Felipe Ángeles II, La Guadalupe, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Heriberto Jara Corona, Hermenegildo Galeana, Ing. Eugenio Echeverría Castellot, E. Echeverría Castellot (El Carrizal), Ing. Ricardo Payro Jene (Polo Norte), José María Morelos y Pavón (Civalito), Josefa Ortíz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas No. 2 (Ojo de Agua), Ley de Fomento Agropecuario (La Misteriosa), La Lucha, El Manantial, Manuel Castilla Brito (El Diecisiete), Lic. Manuel Crescencio Rejón (Frontera Sur), Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Pablo García, Pioneros del Río Xnohá, Plan de Ayala (5 de Mayo), Plan de San Luis, El Porvenir, Puebla de Morelia, Quiché de las Pailas, El Refugio, Ricardo Flores Magón (Laguna Cooxli), Kilómetro 120 (San José), San Miguel, Santa Lucía, Los Tambores de Emiliano Zapata, El Tepeyac, El Tesoro, Tomás Aznar Barbachano (La Moza), Unidad Habitacional, Unidad y Trabajo, Unión 20 de Junio (Mancolona), N.C.P.E. Valentín Gómez Farías, Veinte de Noviembre, Veintiuno de Mayo (Lechugal), La Victoria, La Virgencita de la Candelaria, Xbonil, Zoh-Laguna (Álvaro Obregón) y Las Tres Huastecas (El Vergel).
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-En el Municipio de Candelaria las comunidades de: Arroyo de Cuba, Arroyo del Julubal, Benito Juárez, El Desengaño, El Machetazo, El Mamey, El Naranjo, Corte Pajaral, El Porvenir, El Tablón, El Tulipán (El Imposible), Emiliano Zapata, Entronque Estado de México, General Francisco J. Mújica, La Esperanza, La Lucha, Las Delicias, Las Golondrinas, El Luinal, Nueva Esperanza, Nuevo Progreso, Pejelagarto, Arroyo San Juan (Las Golondrinas), Nuevo Canutillo (San Manuel), San Martín (El Abalanzadero), San Serapio, Solidaridad, Venustiano Carranza y Vicente Lombardo Toledano (Las Conchas).
+En el Municipio de Hecelchakán las comunidades de: Blanca Flor, Chunkanán, Dzitnup, Dzohchén, Hecelchakán, Montebello, Nohalal, Poc boc, Pomuch, Cumpich, Santa Cruz y Zodzil.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+En el Municipio de Hopelchén las comunidades de: Bolonchén de Rejón, Cancabchén, Crucero San Luis, Chan chén, Chencoh, Chun-Ek, Chunchintok, Chunyaxnic, Dzibalchén, El Poste, Francisco J. Mújica (Los Ucan), Hopelchén, Ich-Ek, Katab, Komchén, Pak-Chén, Pach-Huitz, Ramón Corona, Rancho Sosa, San Juan Bautista Sahcabchén, San Antonio Yaxché, Suc-Tuc, Becanchén, Ukúm, Vicente Guerrero (Iturbide), X-canhá, Xcalot-Akal, Xcanahaltún, Huechil Unidos, Xculoc, Xcupil, Xmabén, Xmejía, Yaxché-Akal y El Pedregal.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+En el Municipio de Tenabo las comunidades de: Emiliano Zapata, Kankí, Santa Rosa, Tenabo, Tinún y Xkuncheil.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+En el Municipio de Escárcega las comunidades de: Altamira de Zináparo, Belén, Benito Juárez (La Polla), Centenario, Chan Laguna, División del Norte, Don Samuel, El Lechugal, La Flor de Chiapas, General Rodolfo Fierros, Haro, José de la Cruz Blanco, Justicia Social, Kilómetro Setenta y Cuatro, Kilómetro Treinta y Seis, La Chiquita, La Libertad, La Victoria, Laguna Grande, Benito Juárez 3, José López Portillo, Miguel de la Madrid, Luna, Matamoros, Miguel Hidalgo (Caracol), Nuevo Progreso Dos y Silvituc, La Esperanza, Francisco I. Madero, El Gallo, El Huiro, Adolfo López Mateos, San José y Miguel Hidalgo y Costilla.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+En el Municipio de Calakmul las comunidades de: Xpujil, Dieciséis de Septiembre (Laguna Alvarado), Los Alacranes, Los Ángeles, Arroyo Negro, Becán, Bel-Há, Bella Unión Veracruz (Los Chinos), Blaisillo, Santo Domingo, El Carmen II (Las Carmelas), Caña Brava, Centauro del Norte, Cerro de las Flores, El Chichonal, Concepción, Constitución, Cristóbal Colón, Dos Lagunas, Dos Lagunas Sur, Dos Naciones, Emiliano Zapata, Felipe Ángeles, Felipe Ángeles II, La Guadalupe, Guillermo Prieto, Gustavo Díaz Ordaz (San Antonio Soda), Heriberto Jara Corona, Hermenegildo Galeana, Ingeniero Eugenio Echeverría Castellot, Eugenio Echeverría Castellot (El Carrizal), Ingeniero Ricardo Payro Jene (Polo Norte), José María Morelos y Pavón (Civalito), Josefa Ortíz de Domínguez (Icaiché), Justo Sierra Méndez, Lázaro Cárdenas Número dos (Ojo de Agua), Ley de Fomento Agropecuario (La Misteriosa), La Lucha, El Manantial, Manuel Castilla Brito, Manuel Crescencio Rejón, Narciso Mendoza, Niños Héroes, Nueva Vida, Nuevo Bécal (El 19), Nuevo Campanario, Nuevo Conhuás, Nuevo Paraíso, Nuevo Progreso, Nuevo San José, Nuevo Veracruz, Once de Mayo, Pablo García, Pioneros del Río Xnohá, Cinco de Mayo (Plan de Ayala), Puebla de Morelia, Quiché de las Pailas, El Refugio, Ricardo Flores Magón (Laguna Cooxli), Kilómetro Ciento Veinte, San Miguel, Santa Lucía, Los Tambores de Emiliano Zapata, El Tesoro, Tomás Aznar Barbachano (La Moza), Unidad y Trabajo, Unión 20 de Junio (Mancolona), Valentín Gómez Farías, Veinte de Noviembre, Veintiuno de Mayo (Lechugal), La Victoria, La Virgencita de la Candelaria, Xbonil y Zoh-Laguna (Álvaro Obregón).
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+En el Municipio de Candelaria las comunidades de: Arroyo de Cuba, Arroyo del Julubal, Benito Juárez Uno, El Desengaño, El Machetazo, El Mamey, El Naranjo, Corte Pajaral, El Porvenir, El Tablón, El Tulipán (El Imposible), Emiliano Zapata, Estado de México, General Francisco J. Mújica, Esperanza, La Lucha, Las Delicias, Las Golondrinas, Luinal, Nueva Esperanza, Nuevo Progreso, Pejelagarto, Arroyo San Juan (Las Golondrinas), San Manuel Nuevo Canutillo, Solidaridad, Venustiano Carranza, Carlos Sansores P. (La Paz), Flor de Chiapas, Francisco I. Madero, Laguna La Perdida, Miguel de la Madrid (El Pañuelo), Miguel Hidalgo y Costilla, El Mirador Primero, Narciso Mendoza, Nuevas Delicias II, La Nueva Lucha, Nueva Rosita, Nuevo Comalcalco, Pablo Torres Burgos, San Román, El Pedregal, El Ramonal, El Pimental Dos, San Dimás (Alianza II), San José de las Montañas, San Miguel, Santa Lucía, Santa Rosa, Santo Domingo, Primer Presidente de México (Guadalupe Victoria), La Peregrina y Emiliano Zapata.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+En el Municipio de Palizada las comunidades de: Ribera de la Corriente (Santa Isabel), Puerto Arturo, Santa Isabel, San Juan y San Agustín.
 
 Asimismo, todos aquellos asentamientos humanos que tengan identidad común de lengua, usos, costumbres y tradiciones, así como cualquier expresión cultural identificada con un pueblo indígena, serán considerados comunidades indígenas.
 
@@ -451,7 +475,7 @@ Salón de Sesiones del Palacio Legislativo, Campeche, Cam., a 13 de junio del 20
 
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
-Dado en el Palacio de Gobierno del Estado, en Campeche, a los catorce días del mes de junio del año dos mil.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LA. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
+Dado en el Palacio de Gobierno del Estado, en Campeche, a los catorce días del mes de junio del año dos mil.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.- RUBRICAS.
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
@@ -466,3 +490,9 @@ P.O. 14 DE MARZO DE 2012.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo dispuesto en este decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
