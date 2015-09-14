@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2014-12-24"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -1855,7 +1853,11 @@ Autobuses de más de 30 pasajeros 60.00
 
 El cobro de los derechos señalados aplicarán en los términos, tramos, modalidades y condiciones que señala la Ley que Establece Disposiciones para el Tránsito en el Camino de Acceso a la Zona Arqueológica de Calakmul, publicada en el Periódico Oficial del Estado, en fecha 29 de diciembre de 1994.
 
-### CAPÍTULO VIII. POR AUTORIZACIÓN PARA EL FUNCIONAMIENTO, EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHÓLICAS
+### CAPÍTULO VIII. EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS EN MATERIA DE BEBIDAS ALCOHÓLICAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 72.
 
@@ -2325,11 +2327,15 @@ público o especial de transporte, en cualquiera de
 
 sus modalidades. 10
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
 ### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ###### ARTÍCULO 73.
 
-Por la expedición de licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, a personas físicas o morales, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por la expedición de licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
 T A R I F A
 
@@ -2339,57 +2345,39 @@ General Diario
 
 Vigente
 
-I.- Cabaret, o Centro Nocturno, Bar, Cantina, Restaurant con
+I.- Cabaret, o Centro Nocturno, Bar, Cantina,
 
-venta de bebidas alcohólicas, Discoteca, Hotel, Motel,
+Restaurant, Discoteca, Hotel y Motel, Distribuidora,
 
-Distribuidora, Bodega, Almacén y Supermercado. 2,522
+Bodega, Almacén y Supermercado, Casino,
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+Franquicia, Fábrica de Bebidas Alcohólicas. 2,522
 
-II.- Centros recreativos y deportivos y Club Social 2240
+II.- Charrería 2,240
 
-III.- Salón Cerveza, Salón de Baile, Salón Billar, Boliche,
+III.- Salón Cerveza, Salón (sic) Baile, Billar o Boliche,
 
-Vinatería, Licorería, Minisuper, Agencia y Subagencia 1,965
+Licorería, Tienda de Conveniencia, Minisúper,
 
-IV.- Depósito, Expendio, Botanero, Tienda de Abarrotes,
+Agencias y Subagencias 1,965
 
-Lonchería, Coctelería, Taquería 1,620
+IV.- Depósito, Minisúper Local, Expendio y Botanero,
+
+Tienda de Abarrotes, Lonchería y Coctelería. 1,620
+
+Por la expedición de licencias especiales en materia de bebidas alcohólicas en Polígonos Turísticos con vigencia de un año, se pagarán derechos a razón de 1500 salarios mínimos generales diarios vigentes en el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 74.
 
-Por la autorización de permisos eventuales para el funcionamiento de giros de prestación de servicios, que incluyan el expendio de bebidas alcohólicas, así como permisos eventuales para expendio de bebidas alcohólicas en giros establecidos, se causarán y pagarán derechos por cada día, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por la expedición de permisos eventuales en materia de bebidas alcohólicas, se causarán y pagarán derechos por cada día, a razón de 22 salarios mínimos generales diarios vigentes en el Estado.
 
-T A R I F A
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Salario Mínimo
-
-General Diario
-
-Vigente
-
-I.- Cabaret o Centro Nocturno, Bar, Cantina 48
-
-II.- Discoteca, Salón Cerveza, Salón de Baile,
-
-Restaurant con venta de bebidas alcohólicas,
-
-Distribuidora, Bodega Almacén, Hotel, Motel,
-
-Salón de Billar, Boliche 41
-
-III.- Vinatería, Licorería, Supermercado, Minisuper,
-
-Tienda de Abarrotes, Agencia, Subagencia, Depósito,
-
-Expendio, Botanero 34
-
-IV.- Lonchería, Coctelería, Taquería 28
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-V.- Centro Recreativo y Deportivo y Club Social 22
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 75.
 
@@ -2403,39 +2391,37 @@ General Diario
 
 Vigente
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+I.- Cabaret o Centro Nocturno, Bar, Cantina,
 
-I.- Cabaret o Centro Nocturno, Bar, Cantina 22
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+Casino 22
 
 II.- Discoteca, Salón Cerveza, Salón de Baile,
 
-Restaurant con venta de bebidas alcohólicas,
+Restaurant, Distribuidora, Bodega, Almacén,
 
-Distribuidora, Bodega, Almacén, Hotel, Motel,
+Hotel y Motel, Billar o Boliche, Supermercados,
 
-Salón de Billar, Boliche y Supermercados 20
+Franquicia 20
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+III.- Licorería, Minisúper, Tienda de Conveniencia,
 
-III.- Vinatería, Licorería, Minisuper, Agencia,
+Agencias o Subagencias, Depósito, Expendio y
 
-Subagencia, Depósito, Expendio, Botanero 14
+Botanero, Fábrica de Bebidas Alcohólicas 14
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+IV.- Lonchería, Coctelería, Minisúper Local y Tienda
 
-IV.- Lonchería, Coctelería, Taquería, Tienda de
+de Abarrotes 10
 
-Abarrotes 10
+V.- Charrería 6
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V.- Centro Recreativo y Deportivo y Club Social 6
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 76.
 
-Las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas en sus diversos giros, deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por revalidación de licencias en materia de bebidas alcohólicas que deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
 T A R I F A
 
@@ -2445,35 +2431,43 @@ General Diario
 
 Vigente
 
-I.- Cabaret o Centro Nocturno, Bar, Cantina 76
+I.- Cabaret o Centro Nocturno, Bar, Cantina,
+
+Casino 76
 
 II.- Discoteca, Salón Cerveza, Salón de Baile,
 
-Restaurant con venta de Bebidas alcohólicas,
+Restaurant, Distribuidora, Bodega, Almacén,
 
-Distribuidora, Bodega, Almacén, Hotel, Motel,
+Hotel y Motel, Billar o Boliche, Franquicia,
 
-Salón de Billar, Boliche 63
+Fábrica de Bebidas Alcohólicas 63
 
-III.- Vinatería, Licorería, Supermercado, Minisuper,
+III.- Licorería, Supermercado o Minisúper, Tienda
 
-Tienda de Abarrotes, Agencia, Subagencia, Depósito,
+de Conveniencia, Tienda de Abarrotes, Agencia y
 
-Expendio, Botanero 53
+Subagencia, Depósito, Expendio y Botanero 53
 
-IV.- Lonchería, Coctelería, Taquería 44
+IV.- Lonchería, Coctelería y Minisúper Local 44
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+V.- Charrería 34
 
-V.- Centro Recreativo y Deportivo y Club Social 34
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 77.
 
-En los casos de sucesión testamentaria o intestamentaria, la cesión o transferencia de los derechos de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, no causará ninguna cuota.
+En los casos de sucesión testamentaria o intestamentaria, la cesión o transferencia de los derechos de las licencias en materia de bebidas alcohólicas, no causará ninguna cuota.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 78.
 
-Por la autorización de modificaciones, como son cambio de domicilio, cambio de giro, reposiciones o duplicados de las licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por la autorización de modificaciones tales como: cambio de domicilio, cambio de giro, arrendamiento, comodato, reposiciones o duplicados de las licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
 
 T A R I F A
 
@@ -2485,19 +2479,25 @@ Vigente
 
 I.- Por cambio de domicilio de la licencia 778
 
-II.- Por cambio de giro de la licencia 1,296
+II.- Por cambio o ampliación de giro de la licencia 1,296
 
 III.- Por reposición de una licencia 39
 
 IV.- Por duplicado de la licencia 13
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
 V.- Por cambio de razón social 700
+
+VI.- Por arrendamiento anualmente 1,296
+
+VII.- Por comodato anualmente 1,296
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 79.
 
-Las autoridades estatales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de estas licencias para el funcionamiento, distribución y comercialización de bebidas alcohólicas.
+Las autoridades estatales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de estas licencias o permisos en materia de bebidas alcohólicas.
 
 ### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
@@ -2942,3 +2942,27 @@ P.O. 24 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente decreto entrará en vigor el 1 de enero de 2015, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.-Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los 10 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Se abroga la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche publicada en el Periódico Oficial del Estado de Campeche con fecha 30 de mayo de 1996
+
+CUARTO.- Quedan sin efectos los Convenios de Colaboración Administrativa en Materia Hacendaría de Ingresos, relativo a la Coordinación de Acciones de Inspección y Vigilancia, y Delegación de Facultades del cumplimiento de la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas celebrados por el Gobierno del Estado de Campeche con los Ayuntamientos de los Municipios de Calakmúl, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo suscritos bajo la vigencia de la Ley que se abroga.
+
+QUINTO.- Aquellas personas físicas o morales que al 31 de diciembre de 2015 ostenten la titularidad de licencia vigente que hubieren efectuado su renovación para el ejercicio fiscal 2015, estarán exentas, por única ocasión, en el pago de derechos por la obtención de la nueva licencia con vigencia de 15 años; concluida la vigencia de la primera licencia por 15 años, las subsecuentes sí causarán los derechos que por su expedición establece la Ley de Hacienda del Estado de Campeche. Esta excepción no será aplicable para aquellas personas físicas y morales que a partir de la vigencia de esta Ley soliciten licencia para nuevo establecimiento o, que habiendo tenido licencia, ésta no haya sido renovada dentro del plazo de la Ley que se abroga.
+
+SEXTO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley en un término de noventa días naturales a partir de la entrada en vigor de la misma.
+
+SÉPTIMO.- Los licenciatarios, permisionarios, franquiciatarios, administradores, responsables o encargados de los establecimientos contarán con sesenta días naturales contados a partir de la publicación de la presente Ley, para llevar a cabo la regularización de la situación de sus giros y establecimientos, de conformidad con lo establecido en esta Ley.
+
+OCTAVO.- Las licencias expedidas bajo la Ley que se abroga, mantendrán su vigencia solamente durante el ejercicio fiscal 2015, no obstante, les serán aplicables toda la regulación que esta nueva Ley establece. Para el ejercicio fiscal 2016 todas las licencias tendrán el tratamiento de esta nueva Ley y se regirán conforme a ésta.
+
+NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábiles siguientes a partir de la entrada en vigor de esta Ley. En el caso de cambio de gobierno la instalación será dentro de los 45 días naturales siguientes al cambio del mismo.
+
+DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
+
+UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
