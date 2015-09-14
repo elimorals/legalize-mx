@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-salud-del-estado-de-mexico-25202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2013-10-11"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE SALUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -2289,7 +2289,7 @@ Para la prestación de los servicios de atención médica a su cargo, los organi
 
 Los organismos públicos descentralizados prestarán los servicios de atención médica, preferentemente a la población que no se encuentre en algún régimen de seguridad social.
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+> <small>(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ## TÍTULO DÉCIMO OCTAVO. DEL CONSEJO RECTOR DE IMPACTO SANITARIO
 
@@ -2297,315 +2297,89 @@ Los organismos públicos descentralizados prestarán los servicios de atención 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
-
 ###### Artículo 311.
 
-El Consejo Rector de Impacto Sanitario es la autoridad encargada de emitir el Dictamen de Factibilidad de Impacto Sanitario para la solicitud y refrendo que realice el ayuntamiento para la licencia de funcionamiento que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas para el consumo inmediato o al copeo.
-
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 312.
 
-Para el cumplimiento de sus fines, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
-
-I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, necesario para que los ayuntamientos de la entidad, expidan y refrenden, dentro de sus atribuciones y competencias, las licencias que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas, para el consumo inmediato o al copeo para su debido funcionamiento.
-
-II. Elaborar el diagnóstico de la situación que prevalece en materia del funcionamiento de establecimientos mercantiles con venta o suministro de bebidas alcohólicas en la entidad, y su impacto sanitario en la comunidad, debiéndose allegar de la información correspondiente.
-
-III. Proponer programas y acciones tendientes a combatir el alcoholismo, su adicción y la violencia, que su consumo genera principalmente entre jóvenes y menores de edad, y apoyar su ejecución.
-
-IV. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal y de los sectores social y privado, para el fomento de una nueva cultura para combatir al alcoholismo y sus efectos sociales.
-
-V. Proponer la actualización del marco jurídico de la materia.
-
-VI. Adoptar las medidas administrativas necesarias para favorecer el acceso de la ciudadanía a los servicios que brinda.
-
-VII. Crear oficinas regionales para la expedición del Dictamen de Factibilidad de Impacto Sanitario.
-
-VIII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
-
-IX. Adoptar las demás acciones necesarias para el cumplimiento de su objeto.
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO II. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
-
 ###### Artículo 313.
 
-El Consejo se integrará de conformidad en lo establecido en el artículo 2.48 Ter del Código.
-
-La designación de los vocales descritos en la fracción III del artículo señalado en el párrafo que antecede, será realizada por los Secretarios de Seguridad Ciudadana, Educación, Desarrollo Económico, Medio Ambiente y por el Director del Instituto Mexiquense contra las Adicciones, respectivamente. Para lo cual, el Presidente del Consejo, a través del Secretario Técnico enviará un oficio solicitando se realice la designación correspondiente.
-
-Para seleccionar a los invitados que integren el Consejo, el Secretario Técnico a propuesta del Secretario de Salud, invitará a un representante:
-
-a) De la sociedad civil.
-
-b) Del sector empresarial y de las cámaras de comercio.
-
-c) De las asociaciones de colonos.
-
-d) De la Comisión de Derechos Humanos del Estado de México o de la Defensoría Municipal de Derechos Humanos.
-
-e) De las asociaciones de padres de familia del sector educativo.
-
-Las invitaciones que se realicen a los representantes enlistados en los incisos que anteceden, se realizarán vía oficio.
-
-En tanto, la invitación que se realice al representante del ayuntamiento de cuyo territorio se pretenda emitir el Dictamen de Factibilidad de Impacto Sanitario, se realizará por conducto del Secretario Técnico a través de la publicación que se realice en el periódico oficial "Gaceta del Gobierno" diario de mayor circulación, vía oficio o por el sistema informático que establezca el Consejo para tal efecto.
-
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 314.
 
-El Consejo sesionará de manera ordinaria y extraordinaria, previa convocatoria emitida para tal efecto, cuando se tenga quórum legal, encontrándose presentes, necesariamente, el Presidente y el Secretario o sus suplentes y que además, exista mayoría simple de sus integrantes.
-
-Para el caso de que en la sesión ordinaria o extraordinaria de que se trate, no exista el Quórum a que alude el párrafo que antecede, el Presidente, por conducto del Secretario, realizará un receso para que se reanude la celebración pasado el término de una hora, considerándose legalmente instalada la sesión.
-
-La convocatoria a las sesiones ordinarias la realizará el Presidente por conducto del Secretario, debiendo éste adjuntar a la convocatoria la carpeta que contenga el orden del día y en su caso la documentación necesaria que apoye los puntos a tratar, cuando menos con tres días naturales de anticipación.
-
-Tratándose de sesiones extraordinarias, la convocatoria la realizará el Presidente, a través del Secretario, adjuntando el orden del día y la carpeta de los puntos a tratar.
-
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 315.
 
-La carpeta de la sesión ordinaria o extraordinaria según el caso, se integrará con lo siguiente:
-
-I. Indicación del número de la sesión ordinaria o extraordinaria a realizarse.
-
-II. Fecha, lugar y hora en que se realizará la sesión.
-
-III. Orden del día.
-
-IV. Lista de asistencia y declaración de quórum.
-
-V. Acta de la sesión anterior.
-
-VI. Asuntos a tratar.
-
-VII. Asuntos en cartera.
-
-VIII. Asuntos generales.
-
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 316.
 
-En el desarrollo de las sesiones se observará:
-
-I. Iniciar con la lista de asistencia y la declaración del quórum legal, hecho lo cual se procederá al desahogo del orden del día.
-
-II. Los debates se ajustarán a los asuntos previstos en el orden del día. Los integrantes del Consejo podrán analizar o discutir cualquier asunto no especificado en la convocatoria cuando así lo aprueben.
-
-III. El Secretario redactará el acta de cada sesión.
-
-El acta de sesión deberá contener:
-
-I. El lugar, fecha y hora de su inicio.
-
-II. El desahogo de los puntos del orden del día y los acuerdos tomados, señalando si fueron tomados por mayoría de votos o por unanimidad.
-
-III. La hora de conclusión.
-
-IV. Los nombres, cargos y firmas de los integrantes titulares o suplentes que hayan asistido a la sesión de que se trate.
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO III. DE LAS FUNCIONES DE LOS INTEGRANTES DEL CONSEJO RECTOR DE IMPACTO SANITARIO
 
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
-
 ###### Artículo 317.
 
-El Presidente tendrá como funciones:
-
-I. Representar al Consejo.
-
-II. Presidir y conducir las sesiones ordinarias y extraordinarias.
-
-III. Concertar y celebrar convenios y acuerdos con los sectores públicos del Estado y municipios, y con los del sector social y privado.
-
-IV. Rendir ante el Consejo, informe por escrito de sus actividades al término de su gestión.
-
-V. Conocer de los nombramientos de los suplentes integrantes del Consejo.
-
-VI. Convocar a los integrantes e invitados del Consejo, a las sesiones ordinarias y extraordinarias.
-
-VII. Delegar al Secretario Técnico la atribución de firmar los dictámenes de factibilidad de impacto sanitario emitidos por el Consejo.
-
-VIII. Validar el contenido de las carpetas de las sesiones, que le sean presentadas para su consideración por parte de (sic) Secretario Técnico.
-
-IX. Recibir las mociones de orden planteadas por los integrantes del Consejo y decidir la procedencia o no de las mismas.
-
-X. Resolver las diferencias de opinión que se presenten entre los integrantes del Consejo.
-
-XI. Emitir voto de calidad en caso de empate, en los asuntos sometidos a la aprobación del Consejo.
-
-XII. Verificar que el Secretario Técnico dé cabal cumplimiento de los acuerdos tomados por el Consejo.
-
-XIII. Declarar la existencia del quórum legal en las sesiones ordinarias y extraordinarias.
-
-XIV. Firmar las actas de cada sesión.
-
-XV. Informar de manera trimestral o cuando se considere necesario, al Secretario de Salud, de las actividades realizadas por el Consejo.
-
-XVI. Comunicar al solicitante la resolución del Dictamen de Factibilidad de Impacto Sanitario o en su caso delegar dicha función.
-
-XVII. Ordenar visitas de verificación para vigilar el debido cumplimiento del Dictamen de Factibilidad de Impacto Sanitario.
-
-XVIII. Las demás que estén relacionadas con los fines y objetivos del Consejo y que le confieran otros ordenamientos legales.
-
-> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 318.
 
-Los Vocales del Consejo tendrán como funciones:
-
-I. Asistir a las sesiones ordinarias y extraordinarias que convoque el Presidente.
-
-II. Proponer al Secretario aquellos asuntos que consideren deban incluirse en el orden del día de las sesiones del Consejo.
-
-III. Participar con voz y voto en las sesiones del Órgano.
-
-IV. Proponer al Presidente, los lineamientos y procedimientos que consideren necesarios para el adecuado funcionamiento del Órgano.
-
-V. Dar cumplimiento a los acuerdos tomados en las sesiones e informar sobre los mismos al Presidente.
-
-VI. Firmar las actas de las sesiones correspondientes, validando el otorgamiento o rechazo del Dictamen de Factibilidad de Impacto Sanitario y demás acuerdos que se hayan tomado.
-
-VII. Las demás que estén relacionadas con los fines y objetivos del Consejo y que, en tal caso, les confieran otros ordenamientos legales.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 319.
 
-El Secretario Técnico tendrá como atribuciones:
-
-I. Ejecutar las acciones que le instruya el Presidente para el adecuado funcionamiento del Consejo.
-
-II. Integrar y entregar las carpetas de la sesión correspondiente a los integrantes del Consejo.
-
-III. Asistir a las sesiones ordinarias y extraordinarias.
-
-IV. Verificar la lista de asistencia e informar al Presidente la existencia de quórum.
-
-V. Realizar el escrutinio de votos durante las sesiones.
-
-VI. Elaborar el acta de cada sesión.
-
-VII. Dar seguimiento a los acuerdos generados en las sesiones ordinarias y extraordinarias del Consejo, para verificar su cumplimiento.
-
-VIII. Presentar al Consejo, para su aprobación, en la última sesión del ejercicio, el calendario para la celebración de las sesiones ordinarias del ejercicio siguiente.
-
-IX. Diseñar y establecer un sistema que permita alimentar la información generada por los integrantes del Consejo, informando de los resultados obtenidos al Presidente.
-
-X. Crear y mantener actualizado el directorio de los integrantes titulares y suplentes del Consejo.
-
-XI. Brindar asesoría técnica a los Integrantes del Consejo que así lo requieran.
-
-XII. Resguardar las actas de las sesiones y de toda la documentación inherente a las actividades que realice el Consejo.
-
-XIII. Firmar por instrucción del Presidente, los dictámenes de factibilidad de impacto sanitario y demás documentos relacionados con los fines y objetivos, que le sean delegados.
-
-XIV. Las demás que estén relacionadas con sus fines y objetivos, y que le confieran otros ordenamientos legales.
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 11 DE OCTUBRE DE 2013)</small>
 
 ### CAPITULO IV. DE LA TRAMITACIÓN DEL DICTAMEN DE FACTIBILIDAD DE IMPACTO SANITARIO
 
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
-
 ###### Artículo 320.
 
-Las solicitudes de Dictamen de Factibilidad de Impacto Sanitario, contendrán los datos siguientes:
-
-a) Datos del interesado y del establecimiento.
-
-b) Denominación o razón social del establecimiento.
-
-c) Registro Federal de Contribuyentes.
-
-d) Nombre del propietario, apoderado o representante legal.
-
-e) Domicilio comercial (calle, número, colonia, municipio, código postal y entre que calles se encuentra ubicado).
-
-f) Giro comercial.
-
-g) Actividad (es) preponderante (s) y en su caso, actividad (es) complementaria (s).
-
-h) Días y horario de funcionamiento.
-
-i) Número de mesas.
-
-j) Número de trabajadores.
-
-k) Número de baños.
-
-1) Número de cajones de estacionamiento.
-
-m) Número telefónico.
-
-n) Correo electrónico.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 321.
 
-Los trámites dirigidos al Consejo deberán presentarse ante la oficina regional denominada Comité Municipal de Protección contra Riesgos Sanitarios del Ayuntamiento donde se ubique o pretenda ubicar el establecimiento mercantil con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato o al copeo, sirviendo como ventanilla la oficina que al efecto designen las autoridades municipales o en su caso a través del sistema informático que para tal efecto establezca el Consejo.
-
-Dicho Comité, para su mejor funcionamiento, podrá formar subcomités encargados de recibir, revisar, validar y remitir al Consejo, los trámites de solicitud para la obtención del Dictamen de Factibilidad de Impacto Sanitario, para lo cual, los presidentes municipales correspondientes, podrán designar a un representante que dirija dicho subcomité, además deberán contar con un representante de regulación sanitaria o de la Comisión para la Protección contra Riesgos Sanitarios, un representante Municipal de Derechos Humanos y un representante de las asociaciones de colonos o consejos de participación ciudadana.
-
-Para el caso de que la solicitud se presente a través del sistema informático respectivo, los usuarios deberán apersonarse ante la oficina designada por las autoridades municipales con la finalidad de que se realice el cotejo de los documentos presentados en forma electrónica y se le genere un identificador que le permita continuar con su trámite, previa cita que para tal efecto se genere, misma que no excederá de los 5 días hábiles siguientes al ingreso de su solicitud, si en este lapso el usuario no acude, se tendrá por no presentada.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 322.
 
-Las solicitudes de trámites que ingresen a través del Sistema Único de Gestión Empresarial serán remitidas al Comité Municipal para la Protección Contra Riesgos Sanitarios del ayuntamiento competente.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 323.
 
-Los comités o subcomités municipales para la Protección contra Riesgos Sanitarios, sesionarán a más tardar el segundo miércoles del mes corriente o hábil siguiente con la finalidad de analizar, revisar e integrar las solicitudes y los documentos necesarios que hayan sido recibidos en el mes próximo anterior a la sesión de dicho Comité, debiendo remitir las solicitudes al Consejo en un término no mayor de 48 horas siguientes a la celebración de la sesión respectiva, previa validación de que cumple con los requisitos necesarios.
-
-En caso de no cumplir con los requisitos, los Comités Municipales para la Protección contra Riesgos Sanitarios podrán prevenir al usuario para que subsane la solicitud o exhiba los documentos necesarios dentro del término de 3 días hábiles, si en este lapso el usuario no subsana dichas inconsistencias, la solicitud se tendrá por no presentada.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 324.
 
-Los comités o subcomités podrán realizar observaciones referentes a la pertinencia del otorgamiento o no del Dictamen de Factibilidad de Impacto Sanitario.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 325.
 
-El Consejo sesionará a más tardar el último viernes del mes corriente o hábil siguiente, para lo cual una vez convocado e instalada la sesión, procederá a dictaminar las solicitudes remitidas por las oficinas de apoyo regional correspondientes al mes próximo anterior al de la celebración de la sesión correspondiente.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 326.
 
-En un plazo no mayor de quince días hábiles posteriores a la sesión descrita en el artículo que antecede, se procederá a notificar al interesado la determinación a que haya lugar, a través de las oficinas regionales o del sistema informático que establezca el Consejo para tal efecto, según corresponda.
-
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2013)</small>
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 327.
 
-Los dictámenes de factibilidad de impacto sanitario que se concedan pueden ser revocados a juicio del Consejo por las siguientes causas:
-
-I. Se compruebe que la información proporcionada para su expedición sea falsa, carezca de alguno de los requisitos o bien que alguno de los documentos sea apócrifo.
-
-II. Porque se entiende como un riesgo para la tranquilidad, seguridad o salud de los usuarios, dependientes o personal ocupacionalmente expuesto.
-
-III. Por incumplir con el horario autorizado previsto en el artículo 2.47 Bis del Código, contraten vendan o suministren bebidas alcohólicas a menores de edad o incapaces, independientemente de la responsabilidad administrativa o penal que pudiera generarse.
+(DEROGADO, G.G. 14 DE SEPTIEMBRE DE 2015)
 
 T R A N S I T O R I O S
 
-PRIMERO. Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Reglamento entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
 
@@ -2684,3 +2458,21 @@ QUINTO. Las solicitudes de trámite y demás asuntos relacionados con la materia
 SEXTO. Los dictámenes que se otorguen en el último trimestre del año corriente, tendientes a la solicitud o refrendo de la licencia de funcionamiento tendrán la validez para acreditar el del año próximo siguiente.
 
 SÉPTIMO. Las solicitudes del Dictamen de Factibilidad de Impacto Sanitario tendientes al refrendo de la licencia de funcionamiento deberán ingresarse dentro del último trimestre del año próximo anterior al periodo de refrendo correspondiente.
+
+G.G. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Reglamento de la Ley que regula a las Casas de Empeño en el Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 15 de octubre de 2013.
+
+CUARTO. Se abroga el Reglamento Interior del Consejo Rector de Factibilidad Comercial Automotriz publicado el 22 de octubre de 2013 en el Periódico Oficial “Gaceta del Gobierno”.
+
+QUINTO. Se abroga el Reglamento Interno del Consejo Rector de Transformación Forestal publicado el 05 de diciembre de 2014 en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEXTO. Las autoridades estatales y municipales, en el ámbito de su competencia, deberán emitir los manuales de operación respectivos en un plazo de noventa días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+SÉPTIMO. El Ejecutivo Estatal proveerá lo necesario para cumplimiento del presente Acuerdo.
+
+OCTAVO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
