@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-que-regula-las-casas-de-empeno-en-el-96418
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-15"
-last_updated: "2013-10-15"
+last_updated: "2015-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE MEXICO
 
-REGLAMENTO DE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE MÉXICO
+REGLAMENTO DE LA LEY QUE REGULA A LAS CASAS DE EMPEÑO EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, PUBLICADA EN LA G.G. DE 14 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el martes 15 de octubre de 2013.
 
@@ -372,3 +374,23 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento de la Ley que regula a las Casas de Empeño en el Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 15 de octubre de 2013.
+
+CUARTO. Se abroga el Reglamento Interior del Consejo Rector de Factibilidad Comercial Automotriz publicado el 22 de octubre de 2013 en el Periódico Oficial "Gaceta del Gobierno".
+
+QUINTO. Se abroga el Reglamento Interno del Consejo Rector de Transformación Forestal publicado el 05 de diciembre de 2014 en el Periódico Oficial "Gaceta del Gobierno".
+
+SEXTO. Las autoridades estatales y municipales, en el ámbito de su competencia, deberán emitir los manuales de operación respectivos en un plazo de noventa días naturales siguientes a la entrada en vigor del presente Reglamento.
+
+SÉPTIMO. El Ejecutivo Estatal proveerá lo necesario para cumplimiento del presente Acuerdo.
+
+OCTAVO. Se derogan las disposiciones de igualo menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
