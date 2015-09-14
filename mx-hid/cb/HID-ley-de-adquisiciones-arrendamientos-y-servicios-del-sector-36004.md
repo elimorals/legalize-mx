@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-3600
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2015-02-09"
+last_updated: "2015-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 454 QUE CONTIENE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 14 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE FEBRERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2003.
 
@@ -1702,3 +1702,33 @@ La forma y términos en que las Dependencias, Entidades, Ayuntamientos y los Org
 Los Ayuntamientos harán lo propio, dentro de sus respectivos ámbitos de competencia.
 
 En tanto se implemente el sistema electrónico a que se refiere el presente Artículo transitorio, se utilizarán los medios electrónicos que mediante resoluciones de carácter administrativo establezca la Contraloría.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. La presente Ley, entrará en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo, publicada en Alcance al Periódico Oficial del Estado el 31 de diciembre de 2003.
+
+TERCERO. Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO. El Reglamento de esta Ley deberá ser expedido dentro de los sesenta días siguientes a la publicación del presente Decreto.
+
+QUINTO. Los procedimientos de contratación que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión conforme a las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo vigentes al momento de su inicio.
+
+SEXTO. Los contratos celebrados antes de la entrada en vigor del presente Decreto, continuarán regulándose hasta su terminación por las disposiciones de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo vigentes al momento de su celebración.
+
+SÉPTIMO. Los procedimientos de conciliación, de inconformidad y de sanción que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Decreto, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de haberse iniciado tales procedimientos.
+
+OCTAVO. Se creará un sistema electrónico de información pública gubernamental sobre adquisiciones, arrendamientos y servicios, integrado entre otra información, por los programas anuales en la materia, de los convocantes; el Padrón de Proveedores de la Administración Pública Estatal; el padrón de testigos sociales y sus testimonios; el registro de proveedores sancionados; las convocatorias a la licitación y sus modificaciones; análisis de precios e investigaciones de mercado; las invitaciones a cuando menos tres personas; las actas de las juntas de aclaraciones, del acto de presentación y apertura de proposiciones y de fallo; los datos de los contratos y los convenios modificatorios; las adjudicaciones directas; las resoluciones de la inconformidad que hayan causado estado, y las notificaciones y avisos correspondientes. Dicho sistema será de consulta gratuita y constituirá un medio por el cual se desarrollarán procedimientos de contratación.
+
+El sistema estará supervisado por la Contraloría y a cargo de la Secretaría, a través de la unidad administrativa que se determine en su Reglamento Interior, la que establecerá los controles necesarios para garantizar la inalterabilidad y conservación de la información que contenga.
+
+El sistema a que se refiere el párrafo anterior, tendrá los siguientes fines:
+
+I. Contribuir a la generación de una política general en la Administración Pública Estatal en materia de contrataciones;
+
+II. Propiciar la transparencia y seguimiento de las adquisiciones, arrendamientos y servicios del sector público del Estado de Hidalgo; y
+
+III. Generar la información necesaria que permita la adecuada planeación, programación y presupuestación de las contrataciones públicas, así como su evaluación integral.
+
+En tanto se implemente el sistema electrónico a que se refiere el presente transitorio, se utilizarán los medios electrónicos que mediante resoluciones de carácter administrativo establezca la Contraloría.
