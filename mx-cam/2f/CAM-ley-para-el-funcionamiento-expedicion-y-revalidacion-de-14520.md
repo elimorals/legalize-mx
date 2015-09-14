@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-funcionamiento-expedicion-y-revalidacion-de-14520"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-30"
-last_updated: "2012-07-19"
+last_updated: "2015-09-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 LEY PARA EL FUNCIONAMIENTO, EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS A DISTRIBUIDORES Y COMERCIALIZADORES DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DE LA LEY PARA LA VENTA ORDENADA Y CONSUMO RESPONSABLE DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 14 DE SEPTIEMBRE DE 2015; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS 10 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 30 de mayo de 1996.
 
@@ -363,7 +365,7 @@ IX.- Bares de 13:00 horas a 1:00 horas, y bares anexos a hoteles de 13:00 horas 
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 1998)</small>
 
-X.- Salón de billar o boliche de lunes a domingo de 10:00 horas a 22:00 horas, y (sic)
+X.- Salón de billar o boliche de lunes a domingo de 10:00 horas a 22:00 horas, y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -1124,3 +1126,27 @@ P.O. 19 DE JULIO DE 2012.
 Primero.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los 10 días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Se abroga la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche publicada en el Periódico Oficial del Estado de Campeche con fecha 30 de mayo de 1996
+
+CUARTO.-. Quedan sin efectos los Convenios de Colaboración Administrativa en Materia Hacendaría de Ingresos, relativo a la Coordinación de Acciones de Inspección y Vigilancia, y Delegación de Facultades del cumplimiento de la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas celebrados por el Gobierno del Estado de Campeche con los Ayuntamientos de los Municipios de Calakmúl, Calkiní, Campeche, Candelaria, Carmen, Champotón, Escárcega, Hecelchakán, Hopelchén, Palizada y Tenabo suscritos bajo la vigencia de la Ley que se abroga.
+
+QUINTO.- Aquellas personas físicas o morales que al 31 de diciembre de 2015 ostenten la titularidad de licencia vigente que hubieren efectuado su renovación para el ejercicio fiscal 2015, estarán exentas, por única ocasión, en el pago de derechos por la obtención de la nueva licencia con vigencia de 15 años; concluida la vigencia de la primera licencia por 15 años, las subsecuentes sí causarán los derechos que por su expedición establece la Ley de Hacienda del Estado de Campeche. Esta excepción no será aplicable para aquellas personas físicas y morales que a partir de la vigencia de esta Ley soliciten licencia para nuevo establecimiento o, que habiendo tenido licencia, ésta no haya sido renovada dentro del plazo de la Ley que se abroga.
+
+SEXTO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley en un término de noventa días naturales a partir de la entrada en vigor de la misma.
+
+SÉPTIMO.- Los licenciatarios, permisionarios, franquiciatarios, administradores, responsables o encargados de los establecimientos contarán con sesenta días naturales contados a partir de la publicación de la presente Ley, para llevar a cabo la regularización de la situación de sus giros y establecimientos, de conformidad con lo establecido en esta Ley.
+
+OCTAVO.- Las licencias expedidas bajo la Ley que se abroga, mantendrán su vigencia solamente durante el ejercicio fiscal 2015, no obstante, les serán aplicables toda la regulación que esta nueva Ley establece. Para el ejercicio fiscal 2016 todas las licencias tendrán el tratamiento de esta nueva Ley y se regirán conforme a ésta.
+
+NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábiles siguientes a partir de la entrada en vigor de esta Ley. En el caso de cambio de gobierno la instalación será dentro de los 45 días naturales siguientes al cambio del mismo.
+
+DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
+
+UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
