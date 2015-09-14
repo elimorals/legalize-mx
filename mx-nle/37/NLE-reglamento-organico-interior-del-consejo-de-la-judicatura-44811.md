@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-interior-del-consejo-de-la-judicatura-44811
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-02"
-last_updated: "2014-05-30"
+last_updated: "2015-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 2 de mayo de 2005.
 
@@ -193,7 +193,7 @@ IV.- La Secretaría General;
 
 V.- Los Órganos Auxiliares de:
 
-a) Visitaduría Judicial, e (sic)
+a) Visitaduría Judicial, e
 
 b) Instituto de la Judicatura.
 
@@ -1215,7 +1215,7 @@ XIV.- Aplicar las medidas administrativas aprobadas por el Pleno que permitan el
 
 XV.- Opinar sobre el diseño de la política informática e información estadística, en el ámbito de su competencia;
 
-XVI.- Supervisar la correcta administración, mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles del Poder Judicial del Estado, y (sic)
+XVI.- Supervisar la correcta administración, mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles del Poder Judicial del Estado, y
 
 > <small>(ADICIONADA, P.O. 11 DE OCTUBRE DE 2006)</small>
 
@@ -1267,7 +1267,7 @@ I. Director de Administración y Tesorería del Consejo de la Judicatura;
 
 II. Coordinador de Adquisiciones, Servicios y Obras;
 
-III. Coordinador de Finanzas; y, (sic)
+III. Coordinador de Finanzas; y,
 
 IV. Contralor Interno;
 
@@ -1387,7 +1387,7 @@ XV.- Apoyar al Instituto de la Judicatura en la elaboración de los programas de
 
 XVI.- Definir los estándares de tecnología por utilizar apoyándose en los estándares de Gobierno del Estado;
 
-XVII.- Proponer soluciones apoyadas en la tecnología que acerquen los servicios del Poder Judicial, y (sic)
+XVII.- Proponer soluciones apoyadas en la tecnología que acerquen los servicios del Poder Judicial, y
 
 XVIII.- Elaborar y presentar al Pleno el informe estadístico trimestral del Poder Judicial, para que por conducto del Presidente se haga su envío al Congreso del Estado;
 
@@ -1397,15 +1397,59 @@ XIX.- Las demás que se deriven de la Ley u otras disposiciones de carácter gen
 
 Artículo 65 bis.- La Dirección de Informática estará a cargo de un Director, que deberá ser profesionista en ingeniería de sistemas, o carrera afín, y deberá satisfacer los siguientes requisitos: ser ciudadano mexicano en pleno ejercicio de sus derechos político y civiles; tener experiencia mínima de tres años al día de su nombramiento, y no haber sido condenado por la comisión de algún delito, excepto culposo por tránsito de vehículos, salvo que se haya cometido bajo los influjos del alcohol, o de alguna droga enervante. Será designado por el Pleno, a propuesta del Presidente.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO X. DEL ENLACE DE INFORMACIÓN
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo 65 bis I.- Para garantizar el adecuado ejercicio de las atribuciones en materia de transparencia y acceso a la información pública en el Poder Judicial del Estado, el Consejo de la Judicatura contará con un Enlace de Información, en los términos de la legislación respectiva, cuya labor estará encomendada a la Contraloría Interna.
+
+La Contraloría Interna, como Enlace de Información, tendrá las siguientes atribuciones:
+
+I.- Recibir, capturar, ordenar, analizar y tramitar hasta su conclusión o cuando cause estado, conforme corresponda, las solicitudes de acceso a la información pública, en los términos de la ley de la materia;
+
+II.- Recibir, analizar, tramitar y resolver las solicitudes de datos en los términos de la normatividad aplicable;
+
+III.- Auxiliar a los solicitantes en los trámites relacionados con las solicitudes de información pública y de datos, o bien, en la localización de información en los portales oficiales;
+
+IV.- Orientar a los particulares sobre la autoridad competente para atender las solicitudes de acceso a la información pública, conforme a la normatividad aplicable, en caso de que la información solicitada no sea competencia del Poder Judicial;
+
+V.- Determinar la procedencia del trámite relacionado con el examen de algún objeto, documento o cualquier otra forma de registro y verificar los términos de su desahogo, designando, en su caso, al personal comisionado para tal efecto;
+
+VI.- Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información pública;
+
+VII.- Comisionar al servidor público responsable de llevar a cabo la notificación de las determinaciones relacionadas con el trámite de las solicitudes y demás actos previstos en la ley de la materia;
+
+VIII.- Proponer al Comité de Transparencia y Acceso a la Información los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información pública, conforme a la normatividad aplicable;
+
+IX.- Formar y mantener actualizado el archivo de los expedientes de las solicitudes de acceso a la información pública, que comprenda respuestas, resultados, costos de reproducción y envío, así como las resoluciones y seguimiento correspondientes;
+
+X.- A solicitud del Presidente o del Pleno, dar seguimiento a los planes y programas implementados por el Consejo de la Judicatura en materia de transparencia y acceso a la información pública;
+
+XI.- Entregar la información requerida por el solicitante, previa presentación del medio derivado de los avances de la tecnología, o del recibo oficial del pago del derecho respectivo, cuando corresponda;
+
+XII.- Expedir las certificaciones de la información que obre en su poder, o solicitarlas al área respectiva;
+
+XIII.- Elaborar los acuerdos mediante los cuales se determine la clasificación de información como reservada, confidencial o inexistente, conforme a la normatividad de la materia y a los criterios que fije el Comité de Transparencia y Acceso a la Información;
+
+XIV.- Llevar un registro de los acuerdos mencionados en la fracción anterior e informar a la Dirección de Transparencia del Tribunal Superior de Justicia para los efectos conducentes.
+
+XV.- Representar al Poder Judicial del Estado ante las instancias competentes en los procedimientos derivados y relacionados con las solicitudes de información pública y de datos, a menos que se nombre un representante especial por el Comité o por el Pleno del Consejo de la Judicatura para tal efecto;
+
+XVI.- Promover acciones al interior de la institución para fortalecer la cultura de la transparencia judicial.
+
+XVII.- En coordinación con el Instituto de la Judicatura, organizar cursos, talleres, seminarios, diplomados de actualización y difusión en materia de transparencia, acceso a la información y protección de datos personales.
+
+XVIII.- Las demás que determine la Presidencia o el Pleno del Consejo de la Judicatura del Estado.
+
+## TITULO TERCERO. FUNCIONES DE VIGILANCIA, DISCIPLINA Y CARRERA JUDICIAL
+
 ### CAPITULO I. DE LA FUNCION DE VIGILANCIA
 
 Sección 1ª.
 
 GENERALIDADES DE LAS VISITAS DE INSPECCIÓN
-
-## TITULO TERCERO. FUNCIONES DE VIGILANCIA, DISCIPLINA Y CARRERA JUDICIAL
-
-### CAPITULO II. DE LA FUNCION DE DISCIPLINA
 
 ###### Artículo 66.
 
@@ -1707,11 +1751,7 @@ Previamente a la remisión del acta, el Secretario General expedirá copias cert
 
 El contenido del acta de visita podrá ser capturado en el programa de computación que el Visitador General determine y respaldado en un disquete, el cual será remitido al Pleno, junto con el tanto a que se refiere el artículo anterior.
 
-### CAPITULO III. DE LA CARRERA JUDICIAL
-
-Sección 1ª.
-
-DEL INGRESO Y PROMOCIÓN
+### CAPITULO II. DE LA FUNCION DE DISCIPLINA
 
 ###### Artículo 95.
 
@@ -1775,7 +1815,11 @@ Las quejas o denuncias contra uno de los Consejeros serán instruidas y resuelta
 
 El Pleno del Consejo ordenará agregar al expediente administrativo del servidor público copia de la queja o denuncia y de la resolución recaída a la misma, en los casos en que sea procedente la responsabilidad administrativa. Igual determinación tomará cuando la resolución derive de un procedimiento de responsabilidad administrativa instaurado de oficio.
 
-### CAPITULO IV. De los Estímulos
+### CAPITULO III. DE LA CARRERA JUDICIAL
+
+Sección 1ª.
+
+DEL INGRESO Y PROMOCIÓN
 
 ###### Artículo 110.
 
@@ -2034,6 +2078,8 @@ De ser procedente el inicio del procedimiento de confirmación, el Pleno solicit
 Sección 5ª.
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2014)</small>
+
+### CAPITULO IV. De los Estímulos
 
 ###### Artículo 143.
 
@@ -2364,3 +2410,7 @@ P.O. 30 DE MAYO DE 2014.
 Primero: Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Poder Judicial del Estado, para su mayor difusión publíquese en el Periódico Oficial del Estado.
 
 Segundo: El Consejo de la Judicatura, establecerá, mediante Acuerdos Generales, el funcionamiento de las unidades administrativas dependientes de la Dirección de Gestión Judicial.
+
+P.O. 14 DE SEPTIEMBRE DE 2015.
+
+Primero.- Vigencia. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Judicial del Poder Judicial del Estado, para su mayor difusión publíquese en el Periódico Oficial del Estado.
