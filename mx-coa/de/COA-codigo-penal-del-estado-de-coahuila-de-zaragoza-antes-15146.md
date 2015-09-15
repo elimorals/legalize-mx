@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2015-09-01"
+last_updated: "2015-09-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -5141,27 +5141,25 @@ SANCIONES PARA EL HOMICIDIO CALIFICADO. Se aplicará prisión de dieciocho a cin
 
 ARTÍCULO 336 BIS.- SANCIONES Y FIGURA TÍPICA EQUIPARADA AL DELITO DE HOMICIDIO CALIFICADO. Se aplicarán las mismas penas previstas para el homicidio calificado a quien prive de la vida a una persona en función de su actividad dentro del periodismo o a miembros del ejército, de los cuerpos policiacos y de seguridad en el ejercicio de sus funciones.
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
-ARTÍCULO 336 BIS 1. FEMINICIDIO. Se aplicará prisión de dieciocho a cincuenta años y multa, al que prive de la vida a una mujer cuando concurra cualquiera de las siguientes circunstancias:
+ARTÍCULO 336 BIS 1. FEMINICIDIO. Se aplicará prisión de veinte a cincuenta años y multa, al que prive de la vida a una mujer por razón de género. Se considera que existe razón de género cuando concurra cualquiera de las siguientes circunstancias:
 
-I. Presente signos de violencia sexual de cualquier tipo;
+I. Presente signos de violencia sexual de cualquier tipo, previa o posterior a la privación de la vida de la víctima infligida por el sujeto activo;
 
-II. Se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previa o posteriormente a la privación de la vida;
+II. Se le haya infligido por el sujeto activo una o más lesiones o mutilaciones infamantes o degradantes en zonas genitales o en cualquier otra, previa o posteriormente a la privación de la vida;
 
-III. Existan antecedentes de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, producidas en el ámbito familiar; o cuando tengan o hayan tenido una relación de parentesco en línea recta o colateral hasta el cuarto grado; de matrimonio; civil; concubinato, noviazgo o pareja; laborales; de vecindad; de madrinazgo o padrinazgo o cualquier otra que implique amistad o relación de confianza;
+III. Existan antecedentes o datos de cualquier tipo de violencia o discriminación por género en el ámbito familiar, laboral, o escolar, del sujeto activo contra la víctima;
 
-IV. Existan datos que establezcan que se cometieron amenazas, acoso o lesiones;
+IV. Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza;
 
-V. Haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento, o
+V. El cuerpo sea expuesto, depositado o arrojado en un lugar público, en circunstancias que degraden o menosprecien a la víctima.
 
-VI. El cuerpo sea expuesto, depositado o arrojado en un lugar público.
-
-Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación al ofendido, incluidos los de carácter sucesorio.
+Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
-Al servidor público que con motivo de sus funciones y atribuciones conozca del delito de feminicidio y por acción u omisión realice practicas dilatorias en la procuración y administración de justicia se le impondrán de cinco a diez años de prisión, de quinientos a mil días multa e inhabilitación del cargo o comisión que desempeñe de cinco a diez años.
+Al servidor público que con motivo de sus funciones y atribuciones conozca del delito de feminicidio y por acción u omisión realice prácticas dilatorias en la procuración y administración de justicia se le impondrán de cinco a diez años de prisión, de quinientos a mil días multa e inhabilitación del cargo o comisión que desempeñe de cinco a diez años.
 
 ### CAPÍTULO SÉPTIMO. ADULTERIO
 
@@ -6952,3 +6950,7 @@ SEGUNDO.- Las licencias de conducir para menores expedidas antes de la entrada e
 TERCERO.- No se aplicarán las sanciones del tipo penal previsto en esta reforma, a las personas que faciliten un vehículo a un menor de edad que cuente con licencia vigente expedida por autoridad competente, antes de la fecha de la entrada en vigor del presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 15 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
