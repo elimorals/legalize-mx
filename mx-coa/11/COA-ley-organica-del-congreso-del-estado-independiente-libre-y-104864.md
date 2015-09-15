@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2014-12-30"
+last_updated: "2015-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -447,6 +447,34 @@ El Pleno Legislativo del Congreso del Estado sólo podrá ejercer sus funciones 
 
 El Pleno Legislativo del Congreso, para el despacho oportuno de sus asuntos, deberá sesionar cuando menos dos veces por semana.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+En las sesiones, preferentemente se dará cuenta de los asuntos a tratar en las mismas, en el siguiente orden:
+
+I. Orden del Día;
+
+II. Minuta de la sesión anterior;
+
+III. Informe de correspondencia y documentación recibida por el Congreso del Estado;
+
+IV. Trámite relacionado con los acuerdos aprobados en la sesión anterior;
+
+V. Iniciativas presentadas;
+
+VI. Dictámenes listados para lectura, discusión y aprobación, en su caso;
+
+VII. Proposiciones de Diputadas y Diputados y/o Grupos Parlamentarios;
+
+VIII. Agenda Política.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Para estos efectos se entenderá por Agenda Política los pronunciamientos que presenten al Pleno o la Diputación Permanente las Diputadas y Diputados, Grupos Parlamentarios, Fracciones Parlamentarias o la Junta de Gobierno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+A petición de la Presidencia de la Mesa Directiva del Pleno o de la Diputación Permanente, así como de alguna Diputada o Diputado, podrá dispensarse la lectura del orden del día, la minuta de la sesión anterior, el informe del trámite relacionado con los acuerdos aprobados y los resultandos y considerandos de los dictámenes y acuerdos listados. Para ello se requerirá el voto de más de la mitad de las Diputadas y Diputados presentes y que los documentos motivo de la dispensa hubieren sido difundidos, vía electrónica, a más tardar el día anterior a la sesión.
+
 ### CAPÍTULO III. De la Mesa Directiva
 
 #### Sección Primera. De su Integración, Elección y Atribuciones
@@ -623,7 +651,9 @@ VI. Cuidar que se convoque oportunamente a las y los diputados a las sesiones; y
 
 VII. Las demás que le señalen esta ley y la Presidencia de la Mesa Directiva.
 
-### CAPÍTULO IV. De los Grupos Parlamentarios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO IV. De los Grupos Parlamentarios y las Fracciones Parlamentarias
 
 ###### ARTÍCULO 55.
 
@@ -631,7 +661,9 @@ Un Grupo Parlamentario es la forma de organización que podrán adoptar las o lo
 
 El Grupo Parlamentario se integrará con un mínimo de dos Diputados o Diputadas y sólo podrá haber uno por cada partido político que cuente con Diputados o Diputadas en el Congreso del Estado.
 
-Cuando algún partido político cuente con tan solo una o un diputado, estos podrán optar por formar una fracción parlamentaria, la que tendrá los derechos y prerrogativas de grupo parlamentario.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Cuando algún partido político cuente con tan solo una o un diputado, estos podrán optar por formar una Fracción Parlamentaria, la que tendrá los derechos y prerrogativas de grupo parlamentario.
 
 ###### ARTÍCULO 56.
 
@@ -933,6 +965,10 @@ XXIII. De Transparencia y Acceso a la Información;
 
 XXIV. Instructora de Juicio Político y de Declaración de Procedencia en Materia de Responsabilidad Penal.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+XXV. Contra la Trata de Personas.
+
 ###### ARTÍCULO 89.
 
 La Comisión de Reglamentos y Prácticas Parlamentarias se integrará con los miembros Diputados y Diputadas con mayor experiencia legislativa y todos los Grupos Parlamentarios y fracciones estarán representados en la misma, integrándose por tres de la primera fuerza política, dos de la segunda fuerza política y una o un Diputado de cada uno de los partidos políticos representados en la Legislatura. Le corresponde el estudio y Dictamen de los siguientes asuntos:
@@ -1025,7 +1061,9 @@ La Comisión de Hacienda conocerá de los asuntos relacionados con:
 
 I. Hacienda Pública del Estado y de los Municipios, con excepción de la revisión de cuentas públicas.
 
-II. Leyes de Ingresos del Estado y de los Municipios;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+II. Leyes de Ingresos del Estado y de los Municipios, así como las tablas de valores unitarios de suelo y construcciones, enviadas por los Municipios;
 
 III. Creación de impuestos extraordinarios o especiales, estatales o municipales;
 
@@ -1427,6 +1465,16 @@ VII. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
 La Comisión Instructora de Juicio Político y de Declaración de Procedencia en Materia de Responsabilidad Penal, conocerá de los asuntos relacionados con las responsabilidades de los servidores públicos estatales y municipales, en los casos y conforme a los procedimientos que se establecen en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en otros ordenamientos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 112 BIS.- La Comisión Contra la Trata de Personas conocerá de los asuntos relacionados con:
+
+I.- La implementación de acciones para la prevención protección, atención y asistencia a las víctimas, posibles víctimas y ofendidos de los delitos de trata de personas.
+
+II.- El establecimiento de mecanismos efectivos para tutelar la vida, la dignidad, la libertad, la integridad y la seguridad de las personas, así como el libre desarrollo de niñas, niños y adolescentes, cuando sean amenazados o lesionados por la comisión de los delitos de trata de personas.
+
+III.- La actualización de la Ley para la Prevención, Protección, Atención y Asistencia a las Víctimas y Ofendidos de los Delitos en Materia de Trata de Personas del Estado de Coahuila de Zaragoza.
+
 ###### ARTÍCULO 113.
 
 El Pleno del Congreso podrá aumentar o disminuir el número de comisiones permanentes, según lo exija el despacho de los asuntos, al inicio o durante el ejercicio constitucional.
@@ -1471,7 +1519,9 @@ En estos casos, la comisión que se mencione en primer término será la encarga
 
 Para el despacho de los asuntos que les hayan sido turnados por el Pleno del Congreso o la Diputación Permanente, las comisiones se reunirán a convocatoria de su coordinador, donde se señalará lugar, fecha y hora de la sesión o cuando lo acuerden las dos terceras partes de sus integrantes.
 
-Las comisiones deberán sesionar cuando menos una vez por mes para despachar lo (sic) asuntos de su competencia aún cuando el Congreso se encuentre en receso.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Las comisiones deberán sesionar cuando menos una vez por mes para despachar lo asuntos de su competencia aún cuando el Congreso se encuentre en periodos de la Diputación Permanente.
 
 El coordinador de la comisión, informará lo anterior a la Oficialía Mayor para la programación y realización de estas reuniones.
 
@@ -1518,6 +1568,18 @@ Cuando alguna comisión juzgase necesario disponer de mayor tiempo, deberá soli
 Sin perjuicio de la sanción que resulte aplicable a los integrantes de la Comisión por el incumplimiento injustificado de su deber de dictaminar, la que se determinara en los términos de esta ley.
 
 Tratándose de iniciativas de ley, si se agotó el plazo y su prorroga sin haber sido dictaminadas, en consecuencia al día hábil siguiente al vencimiento del plazo o de la prorroga en su caso, quien presida la comisión bajo su responsabilidad, deberá remitirlas en sus términos a la mesa directiva del pleno, para que se programe su discusión por el propio Pleno.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+El plazo a que se refiere este artículo, no será aplicable para las leyes de ingresos de los Municipios y tablas de valores unitarios de suelo y construcciones, debiéndose dictaminar oportunamente para que se someta a consideración y votación del Pleno del Congreso del Estado, a más tardar el primero de diciembre del año anterior al nuevo ejercicio fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Tratándose de dictámenes de iniciativas de reforma parcial a una ley, en estos deberán incluirse todas las propuestas que en tiempo y forma hayan presentado las diputadas y los diputados, el Gobernador del Estado, los ciudadanos y las demás entidades facultadas para presentar iniciativas de ley, cuando versen sobre un mismo tema o asunto de fondo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Tratándose de iniciativas para crear leyes nuevas, si existen dos o más sobre el mismo rubro o materia, se tomará de cada una lo que se considere, previo estudio, análisis y acuerdo de la o las comisiones correspondientes, más apropiado para elaborar el dictamen final, incluyendo en este las menciones y aclaraciones a que haya lugar.
 
 ###### ARTÍCULO 130.
 
@@ -1621,7 +1683,9 @@ VI. Supervisar la elaboración e integración de los inventarios de los muebles 
 
 VII. Participar en las tareas para enriquecer el patrimonio del Congreso del Estado y de incrementar sus recursos financieros;
 
-VIII. Informar al Pleno en la segunda sesión del periodo ordinario de sesiones siguiente, sobre la administración de los recursos económicos del Congreso del Estado durante los periodos de receso; y
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Informar al Pleno en la segunda sesión del periodo ordinario de sesiones siguiente, sobre la administración de los recursos económicos del Congreso del Estado durante los periodos de la Diputación Permanente; y
 
 IX. Otros asuntos que tengan que ver con la administración del personal y los recursos económicos del Congreso del Estado, y que sean materia de este Comité.
 
@@ -1693,7 +1757,9 @@ VII. Resolver los asuntos que quedaren pendientes de resolución por el Pleno y 
 
 VIII. Recibir y remitir a la Comisión de Hacienda y Auditoría Gubernamental, las cuentas públicas anuales estatales, municipales y de los organismos públicos autónomos, en los términos que marca la ley.
 
-IX. Resolver los asuntos para que fuere autorizada por el Pleno del Congreso, según la fracción XXXV del artículo 67 de la Constitución Local y lo previsto en el artículo 14 de la presente ley.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Resolver los asuntos para que fuere autorizada por el Pleno del Congreso, según la fracción XXXV del artículo 67 de la Constitución Local y lo previsto en el artículo 12 de la presente ley.
 
 X. Las demás que señalen la Constitución Política del Estado, esta Ley y otros ordenamientos.
 
@@ -1815,9 +1881,11 @@ Al concluir su intervención, el Gobernador del Estado entregará a la o el Pres
 
 Por otra parte, cuando la o el Gobernador del Estado acuda a una sesión del Congreso del Estado, para presentar personalmente iniciativas de Ley o Decreto ante el Pleno de la Legislatura, la Presidencia de la Mesa Directiva dispondrá que se forme una Comisión de Protocolo para recibir y despedir al Ejecutivo Estatal, al arribar y retirarse del Recinto Oficial.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 155.
 
-Las iniciativas presentadas por los sujetos a que se refiere la fracción VI del artículo 151 de esta ley, se dictaminarán por la comisión correspondiente.
+Las iniciativas presentadas por los sujetos a que se refiere la fracción VI del artículo 152 de esta ley, se dictaminarán por la comisión correspondiente.
 
 ###### ARTÍCULO 156.
 
@@ -1873,9 +1941,25 @@ Cuando un Ayuntamiento presente una ley o decreto en materia municipal, el Congr
 
 Las normas fiscales o presupuestales que deban ser aprobadas para el ejercicio fiscal del año siguiente no estarán sujetas al trámite previsto en este artículo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+El objeto de las leyes o decretos a que se refiere el primer párrafo de este Artículo, será lo relacionado con:
+
+a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de imparcialidad, igualdad, publicidad, inmediatez, gratuidad, audiencia y legalidad;
+
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
+
+c) Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, como el segundo párrafo de la fracción VII del artículo 116 de la Constitución Política local;
+
+d) El procedimiento y condiciones para que el Gobierno Estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+
+e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 162.
 
-En el proceso legislativo, solamente las iniciativas de ley o de decreto, presentadas por las y los diputados y las relativas a reformas constitucionales, serán objeto de lectura ante el Pleno del Congreso, conforme a lo previsto por la Constitución Local y esta Ley.
+En el proceso legislativo, solamente las iniciativas de ley o de decreto, presentadas por las y los diputados y las relativas a reformas constitucionales, serán objeto de lectura ante el Pleno del Congreso, conforme a lo previsto por la Constitución Local y esta Ley, debiendo observarse lo dispuesto en el artículo 168 de la presente ley.
 
 ###### ARTÍCULO 163.
 
@@ -2127,29 +2211,29 @@ Declarado un proyecto suficientemente discutido en lo general, se procederá a v
 
 En caso de que el proyecto se vote en lo general en sentido negativo se preguntará al Pleno, en votación económica, si vuelve o no todo el proyecto a la Comisión. Si la resolución fuere afirmativa, volverá, en efecto, para que lo reforme, mas si fuere negativa, se tendrá por desechado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 204.
 
 La discusión de los dictámenes con proyectos de ley o decreto en lo particular, implica la reserva de artículos determinados para su análisis.
 
 Las reservas son propuestas de modificación, adición o eliminación de uno o varios artículos incluidos en el proyecto y tendrán que presentarse por escrito durante la discusión del dictamen.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 Las reservas se discutirán de la siguiente forma:
 
 I. La o el legislador que hubiere presentado la reserva intervendrá en principio para exponer las razones que la sustenten;
 
-II. Quien presida consultará a la asamblea en votación económica si se admite a discusión.
+II. La o el Presidente formulará una lista de oradores a favor y en contra, quienes podrán intervenir hasta por cinco minutos cada uno;
 
-III. Si no se admite a discusión, se desechará la reserva.
+III. Después de que hubiesen intervenido hasta tres oradores de la lista, la o el Presidente preguntará al pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión, solo si hubieran oradores inscritos, pero la o el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo;
 
-IV. Si la reserva se admite a discusión, la o el Presidente formulará una lista de oradores a favor y en contra, quienes podrán intervenir hasta por cinco minutos cada uno;
+IV. Cuando no hubieran oradores en contra, podrán hablar hasta dos oradores a favor;
 
-V. Después de que hubiesen intervenido hasta tres oradores de cada la lista, el Presidente preguntará al Pleno si el asunto se encuentra suficientemente discutido; en caso negativo continuará la discusión, sólo si hubieran oradores inscritos, pero el Presidente repetirá la pregunta cuando hubiera intervenido un orador más de cada lista y así en lo sucesivo;
+V. Cuando no hubiera oradores a favor del artículo incluido en el proyecto podrán hablar hasta dos oradores en contra, y
 
-VI. Cuando no hubieran oradores en contra, podrán hablar hasta dos oradores a favor;
-
-VII. Cuando no hubiera oradores a favor del artículo incluido en el proyecto podrán hablar hasta dos oradores en contra, y
-
-VIII. Concluida la discusión de un artículo en lo particular, la o el Presidente lo pondrá a votación; de ser aprobada, se procederá a realizar la modificación correspondiente, y en caso contrario, se tendrá por aprobado en los términos consignados en el proyecto de ley o decreto contenido en el dictamen.
+VI. Concluida la discusión de un artículo en lo particular, la o el Presidente lo pondrá a votación; de ser aprobada, se procederá a realizar la modificación correspondiente, y en caso contrario, la presidencia someterá a votación de nueva cuenta el artículo revisado en lo particular, en los términos consignados en el proyecto de ley o Decreto, con la finalidad de que quede constancia del sentido de la votación de cada legislador, respecto a dicho artículo.
 
 Se podrán reservar, discutir y votar varios artículos al mismo tiempo, cuando quien haya hecho la reserva lo solicite a la o el Presidente.
 
@@ -2243,9 +2327,11 @@ I. Iniciativas de leyes o decretos en materia:
 
 II. Las demás previstas en la Constitución Política del Estado de Coahuila de Zaragoza y en esta ley.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 213.
 
-Para calificar los casos en que los asuntos son de urgente u obvia resolución, se requiere el voto de la mayoría de los diputados del Congreso que estén presentes, de conformidad con el artículo 165 de este ordenamiento.
+Para calificar los casos en que los asuntos son de urgente u obvia resolución, se requiere el voto de la mayoría de los diputados del Congreso que estén presentes, de conformidad con el artículo 166 de este ordenamiento.
 
 ###### ARTÍCULO 214.
 
@@ -2261,9 +2347,11 @@ Los trámites a que se refiere este capítulo no son dispensables.
 
 ### CAPÍTULO IV. Del Voto de Confianza
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 216.
 
-Para dar trámite a la solicitud que se establece en la fracción XVII, del artículo 9 de la Ley Orgánica de la Administración Pública, el Congreso se sujetará al siguiente procedimiento:
+Para dar trámite a la solicitud que se establece en la fracción XVII, del artículo 9 apartado A de la Ley Orgánica de la Administración Pública, el Congreso se sujetará al siguiente procedimiento:
 
 Una vez que el Gobernador del Estado hubiere remitido la solicitud de voto de confianza al Congreso, éste último deberá determinar la fecha para una sesión del Pleno del Congreso, en la que se realizará un debate en el que intervendrán el Ejecutivo del Estado, los Grupos y fracciones Parlamentarios y las y los diputados representantes de partidos políticos, que integren la legislatura respectiva.
 
@@ -2283,7 +2371,9 @@ Las extraordinarias son aquellas que celebre el Pleno dentro de la Diputación P
 
 Las sesiones extraordinarias deberán cerrarse precisamente antes del día en que deban iniciarse las ordinarias, aún cuando no hayan sido despachados los asuntos que motivaron la convocatoria para la celebración de las sesiones extraordinarias. El trámite de los asuntos que hubieran quedado pendientes, se pasará al período ordinario para su desahogo.
 
-Las solemnes son aquellas a que se refiere el artículo 220 del presente ordenamiento y en ellas no podrá haber deliberaciones, ni participación de oradores distintos a los que señale el orden del día respectivo, por lo que será omitida la lectura de la minuta de la sesión anterior. En estas sesiones se podrán rendir honores a la Bandera y entonarse el Himno Nacional, así como el Himno Coahuilense.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Las solemnes son aquellas a que se refiere el artículo 221 del presente ordenamiento y en ellas no podrá haber deliberaciones, ni participación de oradores distintos a los que señale el orden del día respectivo, por lo que será omitida la lectura de la minuta de la sesión anterior. En estas sesiones se podrán rendir honores a la Bandera y entonarse el Himno Nacional, así como el Himno Coahuilense.
 
 La Diputación Permanente podrá convocar a sesiones solemnes, en las que participarán los demás diputados integrantes de la legislatura. En estos casos, corresponderá a la o el Presidente de la Diputación Permanente la conducción de la sesión, salvo propuesta diversa de la Junta de Gobierno.
 
@@ -2379,7 +2469,9 @@ Las y los diputados no podrán ingresar al Salón de Sesiones armados y la o el 
 
 Al término de las sesiones, la o el Presidente de la Mesa Directiva del Congreso hará el citatorio correspondiente a la siguiente sesión, en el que se especificará el día y la hora en la que se llevará a cabo.
 
-Cuando la Presidencia del Pleno del Congreso lo considere necesario, podrán celebrarse más de cuatro sesiones al mes, en cuyo caso se informará lo correspondiente desde la sesión anterior o en comunicación por escrito que se haga oportunamente o el mismo día de la sesión cuando exista una causa de fuerza mayor que lo justifique plenamente.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Cuando la Presidencia del Pleno del Congreso lo considere necesario, podrán celebrarse más de ocho sesiones al mes, en cuyo caso se informará lo correspondiente desde la sesión anterior o en comunicación por escrito que se haga oportunamente o el mismo día de la sesión cuando exista una causa de fuerza mayor que lo justifique plenamente.
 
 ###### ARTÍCULO 232.
 
@@ -2469,9 +2561,11 @@ El Congreso contará con un órgano oficial de difusión denominado "Diario de l
 
 No se publicará en el Diario de los Debates lo relacionado con las sesiones privadas, ni las expresiones ofensivas que se hagan, cuando la o el Presidente pregunte a quien las profiera si desea retirarlas y éste acceda a que sean omitidas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 250.
 
-El contenido de la base de datos correspondiente al Diario de los Debates, deberá ser recopilado al término de cada período ordinario o de receso, para que se determine lo correspondiente a la edición de una publicación integral de dicha información.
+El contenido de la base de datos correspondiente al Diario de los Debates, deberá ser recopilado al término de cada período ordinario de sesiones o de la Diputación Permanente, para que se determine lo correspondiente a la edición de una publicación integral de dicha información.
 
 La publicación de esta información, estará a cargo del Comité Editorial, que para este efecto contará con el auxilio de la Oficialía Mayor.
 
@@ -2553,6 +2647,8 @@ El Congreso del Estado nombrará al gobernador interino o elegirá al Gobernador
 
 Corresponde a la Diputación Permanente designar Gobernador provisional o interino, según lo dispone la Constitución Política del Estado.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 259.
 
 En caso de falta absoluta del Gobernador del Estado que ocurra dentro de los tres primeros años del ejercicio constitucional, el Congreso del Estado se constituirá en Colegio Electoral, y con la concurrencia de por lo menos las dos terceras partes de sus integrantes, nombrará en escrutinio secreto y por mayoría absoluta de votos, Gobernador interino del estado de Coahuila.
@@ -2561,21 +2657,27 @@ Si no se obtiene la mayoría de votos señalada, deberán presentarse nuevas pro
 
 La propuesta para nombrar gobernador interino del estado de Coahuila, será presentada por el Grupo Parlamentario del partido político que postuló a quien venía desempeñando el cargo de Gobernador.
 
-Una vez que se haga el nombramiento, se notificará al Instituto Electoral y de Participación Ciudadana de Coahuila, con el fin de que se emita la convocatoria para la elección del Gobernador que deba concluir el período constitucional correspondiente, en un plazo no mayor de noventa días naturales, contados a partir del siguiente al de la designación del Gobernador interino.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Una vez que se haga el nombramiento, se notificará al Instituto Electoral de Coahuila, con el fin de que se emita la convocatoria para la elección del Gobernador que deba concluir el período constitucional correspondiente, en un plazo no mayor de noventa días naturales, contados a partir del siguiente al de la designación del Gobernador interino.
 
 La convocatoria que se expida para el efecto no podrá ser vetada por el Gobernador interino.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 260.
 
-Si el Congreso no estuviera en sesiones al ocurrir la falta absoluta del Gobernador, la Diputación Permanente nombrará gobernador provisional, a propuesta del Grupo Parlamentario del partido político que postuló a quien venía desempeñando el cargo de Gobernador y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe a un gobernador interino conforme a lo que se dispone en lo conducente (sic) el artículo anterior, procediéndose, asimismo a notificar al Instituto Electoral y de Participación ciudadana para que proceda a convocar a elecciones extraordinarias que deberán celebrarse en un plazo no mayor a los noventa días a partir de que se haya nombrado al Gobernador interino.
+Si el Congreso no estuviera en sesiones al ocurrir la falta absoluta del Gobernador, la Diputación Permanente nombrará gobernador provisional, a propuesta del Grupo Parlamentario del partido político que postuló a quien venía desempeñando el cargo de Gobernador y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe a un gobernador interino conforme a lo que se dispone en lo conducente el artículo anterior, procediéndose, asimismo a notificar al Instituto Electoral de Coahuila para que proceda a convocar a elecciones extraordinarias que deberán celebrarse en un plazo no mayor a los noventa días a partir de que se haya nombrado al Gobernador interino.
 
 ###### ARTÍCULO 261.
 
 Para los efectos del artículo anterior, la Diputación Permanente se reputará convocada a las nueve horas del día siguiente de aquél en que se produzca la falta absoluta del Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 262.
 
-En el caso de que llegada la fecha en que deba renovarse el Poder Ejecutivo, no se presentase el Gobernador electo o la elección correspondiente no estuviere hecha y declarada, ocupará el cargo con carácter de interino el ciudadano que para tal fin designe el Congreso o, si está en receso, el que designe con carácter de provisional la Diputación Permanente,
+En el caso de que llegada la fecha en que deba renovarse el Poder Ejecutivo, no se presentase el Gobernador electo o la elección correspondiente no estuviere hecha y declarada, ocupará el cargo con carácter de interino el ciudadano que para tal fin designe el Congreso o, en su caso, el que designe con carácter de provisional la Diputación Permanente.
 
 Para el cumplimiento de lo anteriormente señalado, se procederá conforme a lo dispuesto en los artículos precedentes de este capítulo.
 
@@ -2589,9 +2691,11 @@ Cuando la falta sea por licencia de más de treinta días, el Congreso resolver�
 
 De igual forma se procederá en el caso de que la falta temporal se convierta en absoluta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 265.
 
-Cuando la falta de Gobernador ocurra en los tres últimos años del período constitucional correspondiente y si se encuentra en receso el Congreso, la Diputación Permanente designará un Gobernador provisional y en la misma sesión resolverá convocar al Congreso a un periodo extraordinario de sesiones, para el efecto de que se elija al Gobernador sustituto. La convocatoria no podrá ser vetada por el Gobernador provisional.
+Cuando la falta de Gobernador ocurra en los tres últimos años del período constitucional correspondiente y si se encuentra en funciones la Diputación Permanente designará un Gobernador provisional y en la misma sesión resolverá convocar al Congreso a un periodo extraordinario de sesiones, para el efecto de que se elija al Gobernador sustituto. La convocatoria no podrá ser vetada por el Gobernador provisional.
 
 En este caso también se procederá en todos los aspectos conforme a lo que se dispone en los artículos 256, 257, 258, 259 y 260 de esta ley.
 
@@ -2637,7 +2741,9 @@ Cuando el Gobernador asista al Congreso, a la apertura de las sesiones, tomará 
 
 A las y los diputados que se presenten a rendir protesta después de abiertas las sesiones, saldrán a recibirlos hasta la puerta interior del salón dos legisladores del Congreso.
 
-Durante los recesos la protesta se rendirá ante la Diputación Permanente, según lo previsto en esta ley.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Durante los periodos de la Diputación Permanente la protesta se rendirá ante este órgano legislativo, según lo previsto en esta ley.
 
 ###### ARTÍCULO 274.
 
@@ -2910,3 +3016,19 @@ DIPUTADO SECRETARIO
 FERNANDO DE LA FUENTE VILLARREAL
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
