@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2015-09-03"
+last_updated: "2015-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE SEPTIEMBRE DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 15 DE SEPTIEMBRE DE 2015.</small>
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -131,11 +131,11 @@ El Estado garantizará a todas las personas el acceso a la ciencia y a la tecnol
 
 La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley.
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015) (F. DE E., G.G. 15 DE SEPTIEMBRE DE 2015)
 
 En el Estado de México toda persona tiene derecho a la libertad de convicciones éticas, de conciencia y de religión, y a tener o adoptar, en su caso, la de su agrado, conforme a lo establecido en el Artículo 24 de la Constitución Federal.
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2015) (F. DE E., G.G. 15 DE SEPTIEMBRE DE 2015)
 
 La Legislatura del Estado en ningún momento podrá dictar leyes que establezcan o prohíban religión alguna.
 
@@ -4077,7 +4077,7 @@ TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
 
 G.G. 3 DE SEPTIEMBRE DE 2015.
 
-DECRETO NÚMERO. 513, POR EL QUE SE ADICIONAN LOS PÁRRAFOS DÉCIMO QUINTO Y DÉCIMO SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES, DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+DECRETO NÚMERO 513, POR EL QUE SE ADICIONAN LOS PÁRRAFOS DÉCIMO QUINTO Y DÉCIMO SEXTO, RECORRIÉNDOSE LOS SUBSECUENTES, DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
