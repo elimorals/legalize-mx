@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-sistema-estatal-de-seguridad-publica-nayarit-68777"
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-23"
-last_updated: "2011-07-20"
+last_updated: "2015-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA, NAYARIT
 
-LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de mayo de 2009.
 
@@ -41,35 +41,49 @@ LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 1°.
 
-La presente Ley regula la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, y establece las competencias y esquemas de coordinación entre las diversas autoridades de seguridad en el Estado.
+La presente Ley regula la integración, organización y funcionamiento del Sistema Estatal de Seguridad Pública, y establece las competencias y esquemas de coordinación entre las diversas autoridades de seguridad en el Estado conforme a la Constitución Política de los Estados Unidos Mexicanos.
 
 Sus disposiciones son de orden público y observancia general en toda la entidad.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 2°.
 
-La seguridad pública es una función a cargo de la Federación, el Estado y los Municipios en el ámbito de su competencia, que tiene como fin salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, la investigación de los delitos y la persecución de quienes los cometen, así como la reinserción social del individuo, en términos de esta Ley, atendiendo al sistema de competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
+La seguridad pública es una función a cargo de la Federación, el Estado y los Municipios en el ámbito de su competencia, que tiene como fin salvaguardar la integridad y derechos de las personas, así como preservar las libertades, el orden y la paz públicos y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la sanción de las infracciones administrativas, la investigación de los delitos y la persecución de quienes los cometen, así como la reinserción social del individuo y el tratamiento de adolescentes a quienes se les atribuya la realización o participación de una conducta tipificada como delito, en términos de esta Ley y demás disposiciones aplicables, atendiendo al sistema de competencias establecidas en la Constitución Política de los Estados Unidos Mexicanos.
 
-El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2011)</small>
+El Estado desarrollará políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas y grupos vulnerables.
 
-La Secretaría de Seguridad Pública Estatal en el ámbito de su competencia, atenderá las políticas de seguridad pública y coadyuvará en el desarrollo de los programas institucionales que tengan por finalidad, preservar la tranquilidad y la paz social del estado, con la prevención y combate del delito, en concurrencia con los municipios en la prestación del servicio de seguridad pública.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+La Fiscalía General del Estado y la Secretaría de Seguridad Pública Estatal en el ámbito de sus respectivas competencias, atenderán las políticas de seguridad pública y coadyuvarán en el desarrollo de los programas institucionales que tengan por finalidad, preservar la tranquilidad y la paz social del estado, con la prevención y combate del delito, en concurrencia con la Federación y los municipios en la prestación del servicio de seguridad pública.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2011)</small>
 
 Para la designación del titular de la Secretaría de Seguridad Pública, el Gobernador remitirá a la Cámara de Diputados la propuesta para su ratificación, acompañando los datos y documentos curriculares con los cuales se demuestre el cumplimiento de los requisitos constitucionales. La ratificación en su caso, se hará dentro del plazo de diez días naturales, contados a partir de la presentación de la propuesta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 3°.
 
-La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de las Instituciones Policiales, del Ministerio Público, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+La función de Seguridad Pública se realizará en los diversos ámbitos de competencia por conducto de la Fiscalía General del estado, de las Instituciones Policiales tanto estatales como municipales, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes, así como por las demás autoridades e instancias que en razón de sus atribuciones deban contribuir directa o indirectamente al objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+Las autoridades del Estado y de los Municipios en el ámbito de sus respectivas competencias, desarrollarán programas para la prevención del delito y la participación de la comunidad, la promoción, atención de la denuncia ciudadana y la denuncia anónima, la investigación, persecución y sanción de las infracciones y los delitos, así como la reinserción social del delincuente y el tratamiento de adolescentes a quienes se les atribuya la realización o participación de una conducta tipificada como delito; así como para promover el respeto y protección de los pueblos y comunidades indígenas y grupos vulnerables.
 
 ###### Artículo 4º.
 
 El Sistema Estatal de Seguridad Pública contará para su funcionamiento y operación con las instancias, instrumentos, políticas, acciones y servicios previstos en la presente Ley, tendientes a cumplir los fines de la Seguridad Pública.
 
-La coordinación en un marco de respeto a las atribuciones entre las diversas instancias, será el eje del Sistema de Seguridad Pública.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+La coordinación y el respeto a los derechos humanos y sus garantías e igualdad de género, en un marco de respeto a las atribuciones entre las diversas instancias, será el eje del Sistema de Seguridad Pública.
 
 ###### Artículo 5º.
 
@@ -113,11 +127,11 @@ XVII.- Secretario Ejecutivo: el Titular del Secretariado Ejecutivo del Consejo e
 
 XVIII.- Sistema: al Sistema Estatal de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 6°.
 
-Las Instituciones de Seguridad Pública tendrán carácter civil, disciplinado y profesional, su actuación se regirá por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
-
-Deberán promover la participación ciudadana y rendir cuentas en términos de ley.
+Las Instituciones de Seguridad Pública tendrán carácter civil, disciplinado y profesional, su actuación se regirá por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos y sus garantías e igualdad de género, reconocidos por la Constitución Política de los Estados Unidos Mexicanos. Deberán promover la participación ciudadana y rendir cuentas en términos de Ley.
 
 ###### Artículo 7°.
 
@@ -149,7 +163,9 @@ XII.- Aplicar mecanismos de evaluación en la aplicación de los fondos de ayuda
 
 XIII.- Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos; y
 
-XIV.- Las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+XIV.- Las demás acciones que conforme a la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública.
 
 ## TÍTULO SEGUNDO. DE LAS INSTANCIAS DE COORDINACIÓN Y LA DISTRIBUCIÓN DE COMPETENCIAS DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -167,7 +183,9 @@ III.- Los Consejos Municipales, y
 
 IV.- El Secretariado Ejecutivo del Sistema.
 
-El Poder Judicial contribuirá con las instancias que integran el sistema, en la formulación de estudios, lineamientos e implementación de acciones que permitan alcanzar los fines de la seguridad pública.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+El Poder Judicial contribuirá con las instancias que integran el sistema, en la formulación de estudios, lineamientos e implementación de acciones que permitan alcanzar los fines de la seguridad pública en congruencia con los principios del sistema acusatorio plasmados en la legislación nacional aplicable.
 
 ###### Artículo 9°.
 
@@ -189,7 +207,9 @@ I.- El Gobernador del Estado, quien lo presidirá;
 
 II.- El Secretario de Seguridad Pública;
 
-III.- El Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+III.- El Fiscal General del Estado;
 
 IV.- Los Presidentes Municipales;
 
@@ -201,9 +221,9 @@ VII.- Un representante de la Secretaria de Marina;
 
 VIII.- Un representante de la Procuraduría General de la República;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
-IX.- Un representante de la Secretaría de Seguridad Pública del Gobierno Federal, y
+IX.- Un representante del Sistema Nacional de Seguridad Pública, y
 
 X.- Un Representante Ciudadano.
 
@@ -235,7 +255,9 @@ III.- Establecer las comisiones de trabajo que considere necesarias para el desa
 
 IV.- Establecer los lineamientos para la formulación de políticas generales en materia de Seguridad Pública;
 
-V. Promover la implementación de políticas en materia de atención a víctimas del delito;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+V.- Promover la implementación de políticas en materia de atención a víctimas del delito conforme a las leyes de la materia;
 
 VI.- Promover la efectiva coordinación de las instancias que integran el Sistema y dar seguimiento de las acciones que para tal efecto se establezcan;
 
@@ -369,7 +391,9 @@ El Centro Estatal de Prevención del Delito y Participación Ciudadana tendrá, 
 
 I.- Proponer al Consejo Estatal lineamientos de prevención social del delito, a través del diseño transversal de políticas de prevención, cuyas acciones tendrán el carácter de permanentes y estratégicas;
 
-II.- Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, la participación ciudadana y una vida libre de violencia;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+II.- Promover la cultura de la paz, la legalidad, el respeto a los derechos humanos, y sus garantías, la participación ciudadana y una vida libre de violencia y el respeto a los grupos vulnerables;
 
 III.- Emitir opiniones y recomendaciones, dar seguimiento y evaluar los programas implementados por las Instituciones de Seguridad Pública del Estado para:
 
@@ -379,7 +403,9 @@ b).- Promover la erradicación de la violencia especialmente la ejercida contra 
 
 c).- Prevenir la violencia generada por el uso de armas, el abuso de drogas y alcohol, y
 
-d).- Garantizar la atención integral a las víctimas.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+d).- Garantizar la atención integral a las víctimas en términos de las leyes aplicables.
 
 IV.- Realizar, por sí o por terceros, estudios sobre las causas estructurales del delito, su distribución geodelictiva, estadísticas de conductas ilícitas no denunciadas, tendencias históricas y patrones de comportamiento que permitan actualizar y perfeccionar la política criminal y de seguridad pública estatal y nacional;
 
@@ -397,7 +423,7 @@ X.- Las demás que establezcan otras disposiciones, el Consejo Estatal y su Pres
 
 ### CAPÍTULO IV. De la Conferencia Estatal de Seguridad Pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2011)</small>
 
 ###### Artículo 19.
 
@@ -441,7 +467,9 @@ XIII.- Desarrollar instrumentos que permitan aplicar el Certificado Único Polic
 
 XIV.- Recopilar, sistematizar y concentrar la información por parte de las Instituciones Policiales;
 
-XV.- Desarrollar bases de datos criminalísticos y de personal de las Instituciones Policiales y para el manejo de información;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+XV.- Desarrollar bases de datos criminalísticos y de personal de las Instituciones Policiales y para el manejo de información, así como protocolos de actuación en el ámbito del sistema acusatorio;
 
 XVI.- Proponer mecanismos de coordinación, en materia de investigación de delitos, y
 
@@ -481,9 +509,11 @@ Los consejeros señalados en el presente artículo fungirán de manera honorific
 
 ### CAPÍTULO VI. De la distribución de competencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-Atendiendo a lo dispuesto por la Ley General del Sistema de Seguridad Nacional, corresponde a la Federación, el Estado y los Municipios, en el ámbito de sus respectivas competencias:
+Atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y Ley General del Sistema de Seguridad Nacional, corresponde a la Federación, el Estado y los Municipios, en el ámbito de sus respectivas competencias:
 
 I.- Garantizar el cumplimiento de la presente Ley y demás disposiciones que deriven de ésta;
 
@@ -519,11 +549,15 @@ El Estado y los Municipios podrán coordinarse para hacer efectivo lo previsto e
 
 ### CAPÍTULO I. De las obligaciones y sanciones de los integrantes de las Instituciones de Seguridad Pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 24.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública están obligados a lo siguiente:
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y sus garantías e igualdad de género, los integrantes de las Instituciones de Seguridad Pública están obligados a lo siguiente:
 
-I.- Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+I.- Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a los derechos humanos y sus garantías e igualdad de género, reconocidos en la Constitución;
 
 II.- Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
 
@@ -545,11 +579,15 @@ IX.- Velar por la vida e integridad física de las personas detenidas;
 
 X.- Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de evidencias;
 
-XI.- Utilizar los protocolos de investigación y de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+XI.- Utilizar los protocolos de investigación, de cadena de custodia y otros adoptados por las Instituciones de Seguridad Pública;
 
 XII.- Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
 
-XIII.- Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+XIII.- Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o de faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente, respetando la cadena de custodia y demás procedimientos conforme a la legislación procedimental aplicable;
 
 XIV.- Abstenerse de disponer de los bienes asegurados para beneficio propio o de terceros;
 
@@ -589,7 +627,9 @@ I.- Registrar en el Informe Policial Homologado los datos de las actividades e i
 
 II.- Remitir a la instancia que corresponda la información recopilada, en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes;
 
-III.- Apoyar a las autoridades que así se lo soliciten en la investigación de los delitos y en la persecución de los probables responsables, o en aquellos casos en que existan situaciones de grave riesgo, catástrofes o desastres;
+> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+III.- Apoyar a las autoridades que así se lo soliciten en la investigación de los delitos y en la persecución de los probables responsables bajo la conducción y mando del Ministerio Público, o en aquellos casos en que existan situaciones de grave riesgo, catástrofes o desastres;
 
 IV.- Ejecutar los mandamientos judiciales y ministeriales;
 
@@ -723,23 +763,29 @@ XVII.- Las demás que establezcan las disposiciones legales aplicables.
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 34.
 
-El Servicio de Carrera en la Institución de Procuración de Justicia, comprenderá lo relativo al Ministerio Público y a los peritos.
+El Servicio de Carrera en la Institución comprenderá lo relativo a agentes del Ministerio Público, elementos de la Policía Nayarit y peritos.
 
-La Ley Orgánica de la Procuraduría General de Justicia, se sujetará a lo dispuesto en esta ley para la implementación del servicio de carrera y desarrollará las reglas y procesos que se describen o sean necesarios, para el cumplimiento de su objeto.
+La Ley Orgánica de la Fiscalía General del Estado, se sujetará a lo dispuesto en esta ley para la implementación del servicio de carrera y desarrollará las reglas y procesos que se describen o sean necesarios, para el cumplimiento de su objeto.
 
 ###### Artículo 35.
 
 Los servidores públicos que tengan bajo su mando a agentes del Ministerio Público o peritos no formarán parte del Servicio de Carrera por ese hecho; serán nombrados y removidos conforme a los ordenamientos legales aplicables; se considerarán trabajadores de confianza, y los efectos de su nombramiento se podrán dar por terminados en cualquier momento.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 36.
 
-La Policía Estatal, se sujetará a lo dispuesto en esta ley para las Instituciones Policiales en materia de carrera policial.
+Los agentes del Ministerio Público, elementos de la Policía Nayarit y peritos, se sujetarán a lo dispuesto en la Ley Orgánica de la Fiscalía General del Estado en materia de Carrera de Procuración de Justicia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 37.
 
-El Servicio de Carrera Ministerial y Pericial comprenderá las etapas de ingreso, desarrollo y terminación del servicio, conforme a lo siguiente:
+El Servicio de Carrera de Procuración de Justicia comprenderá las etapas de ingreso, desarrollo y terminación del servicio, conforme a lo siguiente:
 
 I.- El ingreso comprende los requisitos y procedimientos de selección, formación y certificación inicial, así como registro;
 
@@ -747,9 +793,11 @@ II.- El desarrollo comprenderá los requisitos y procedimientos de formación co
 
 III.- La terminación comprenderá las causas ordinarias y extraordinarias de separación del Servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 38.
 
-El Servicio de Carrera se organizará de conformidad con las bases siguientes:
+El Servicio de Carrera de Procuración de Justicia se organizará de conformidad con las bases siguientes:
 
 I.- Tendrá carácter obligatorio y permanente; abarcará los planes, programas, cursos, evaluaciones, exámenes y concursos correspondientes a las diversas etapas que comprende;
 
@@ -783,11 +831,13 @@ Los planes de estudios se integrarán por el conjunto de contenidos teóricos y 
 
 ### CAPÍTULO III. De la Certificación
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 41.
 
-Los aspirantes a ingresar a la Procuraduría General de Justicia, deberán contar con el Certificado y registro correspondientes, de conformidad con lo establecido por esta Ley o su Ley Orgánica.
+Los aspirantes a ingresar a la Fiscalía General del Estado, deberán contar con el Certificado y registro correspondientes, de conformidad con lo establecido por esta Ley o su Ley Orgánica.
 
-Ninguna persona podrá ingresar o permanecer en la Procuraduría General de Justicia sin contar con el Certificado y registro vigentes.
+Ninguna persona podrá ingresar o permanecer en la Fiscalía General del Estado sin contar con el Certificado y registro vigentes.
 
 ###### Artículo 42.
 
@@ -811,13 +861,17 @@ La certificación que otorguen los centros de evaluación y control de confianza
 
 Los servidores públicos que deseen prestar sus servicios en otra institución de seguridad pública, deberán presentar el Certificado que les haya sido expedido previamente.
 
-La Procuraduría General de Justicia reconocerá la vigencia de los certificados debidamente expedidos y registrados, conforme a las disposiciones legales aplicables. En caso contrario, previo a su ingreso, el servidor público deberá someterse a los procesos de evaluación.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+La Fiscalía General del Estado reconocerá la vigencia de los certificados debidamente expedidos y registrados, conforme a las disposiciones legales aplicables. En caso contrario, previo a su ingreso, el servidor público deberá someterse a los procesos de evaluación.
 
 En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 46.
 
-La cancelación del certificado de los Servidores Públicos de la Procuraduría General de Justicia procederá:
+La cancelación del certificado de los Servidores Públicos de la Fiscalía General del Estado procederá:
 
 I.- Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
 
@@ -827,9 +881,11 @@ III.- Por no obtener la revalidación de su Certificado, y
 
 IV.- Por las demás causas que establezcan las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 47.
 
-Cuando la Procuraduría General de Justicia cancele algún certificado deberá hacer la anotación respectiva en el Registro Nacional correspondiente.
+Cuando la Fiscalía General del Estado cancele algún certificado deberá hacer la anotación respectiva en el Registro Nacional correspondiente.
 
 ## TÍTULO QUINTO. De la Carrera Policial
 
@@ -845,7 +901,7 @@ Los fines de la Carrera Policial son:
 
 I.- Garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las Instituciones Policiales;
 
-II.- Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones yen la óptima utilización de los recursos de las Instituciones;
+II.- Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones;
 
 III.- Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento de los integrantes de las Instituciones Policiales;
 
@@ -909,7 +965,9 @@ II.- Investigación; y
 
 III.- Reacción.
 
-La Policía Estatal realizará las funciones de investigación, prevención y reacción, excepcionalmente, las demás instituciones policiales podrán realizar funciones de investigación como auxiliares del Ministerio Público, a petición expresa de éste.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+La Fiscalía General del Estado realizará las funciones de investigación, prevención y reacción, así como de inspección, vigilancia y vialidad, excepcionalmente, las demás instituciones policiales podrán realizar funciones de investigación como auxiliares del Ministerio Público, a petición expresa de éste y bajo su conducción y mando.
 
 ###### Artículo 54.
 
@@ -1573,7 +1631,9 @@ El Estado y los municipios, suministrarán, intercambiarán, sistematizarán, co
 
 El Presidente del Consejo Estatal dictará las medidas necesarias, además de las ya previstas en la Ley, para la integración y preservación de la información administrada y sistematizada mediante los instrumentos de información sobre Seguridad Pública.
 
-Las Procuraduría General de Justicia tendrán acceso a la información contenida en las bases de datos criminalísticos y de personal, en el ámbito de su función de investigación de los delitos y persecución de los probables responsables.
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
+La Fiscalía General del Estado tendrá acceso a la información contenida en las bases de datos criminalísticos y de personal, en el ámbito de su función de investigación de los delitos y persecución de los probables responsables.
 
 La información sobre administración de justicia, podrá ser integrada a las bases de datos criminalísticos y de personal, a través de convenios con el Poder Judicial, en sus respectivos ámbitos de competencia y con estricto apego a las disposiciones legales aplicables.
 
@@ -1657,9 +1717,11 @@ Dentro del sistema único de información criminal se integrará una base de dat
 
 Esta base de datos deberá de actualizarse permanentemente y se conformará con la información que aporten las Instituciones de Seguridad Pública, relativa a las investigaciones, procedimientos penales, órdenes de detención y aprehensión, procesos penales, sentencias o ejecución de penas.
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 130.
 
-La Procuraduría General de Justicia podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones legales aplicables, pero la proporcionarán al sistema único de información criminal inmediatamente después que deje de existir tal condición.
+La Fiscalía General del Estado podrá reservarse la información que ponga en riesgo alguna investigación, conforme a las disposiciones legales aplicables, pero la proporcionarán al sistema único de información criminal inmediatamente después que deje de existir tal condición.
 
 ###### Artículo 131.
 
@@ -1835,7 +1897,7 @@ VII.- Cualquier actividad distinta a las anteriores, relacionada y vinculada dir
 
 Los particulares que deseen prestar estos servicios deberán ajustarse a lo establecido en esta ley y el reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2011)</small>
 
 ###### Artículo 152.
 
@@ -1893,7 +1955,7 @@ IX.- Deberán cumplir todas y cada una de las obligaciones que le imponga el reg
 
 X.- Responderán solidariamente de los daños y perjuicios que causen su personal al prestar los servicios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2011)</small>
 
 ###### Artículo 154.
 
@@ -1969,8 +2031,12 @@ Dip. Rodolfo Coronado Montaño, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramí
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintidós días del mes de mayo del año dos mil nueve.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JULIO DE 2011.
 
 Artículo único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE SEPTIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
