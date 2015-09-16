@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-general-de-gobierno-73165"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-10"
-last_updated: "2015-09-04"
+last_updated: "2015-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NLE"
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE SEPTIEMBRE DE 2015.</small>
 
 Reglamento publicado la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 10 de febrero del 2010.
 
@@ -181,7 +183,9 @@ c. Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal (SIJUPE);
 
 d. Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza (CISEC); y
 
-e. Comisión Ejecutiva Estatal para la Atención a Víctimas.
+> <small>(F. DE E., P.O. 16 DE SEPTIEMBRE DE 2015)</small>
+
+e. Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 ###### Artículo 6.
 
@@ -1371,7 +1375,9 @@ III. Comisión Ejecutiva para la Reforma del Sistema de Justicia Penal, SIJUPE;
 
 IV. Centro de Información para la Seguridad de Estado, de Evaluación y Control de Confianza, CISEC; y
 
-V. Comisión Ejecutiva Estatal para la Atención a Víctimas.
+> <small>(F. DE E., P.O. 16 DE SEPTIEMBRE DE 2015)</small>
+
+V. Comisión Ejecutiva Estatal de Atención a Víctimas.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1511,15 +1517,15 @@ Las atribuciones del Director General serán las contenidas por el Decreto bajo 
 
 Las acciones, atribuciones del CISEC, así como la estructura orgánica mínima realizará acciones de carácter estratégico son las ordenadas por el Decreto bajo el cual se crea el Centro de Información para la Seguridad de estado, de Evaluación y Control de Confianza.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 16 DE SEPTIEMBRE DE 2015)
 
-#### Sección 6. De la Comisión Ejecutiva Estatal para la Atención a Víctimas
+#### Sección 6. Comisión Ejecutiva Estatal de Atención a Víctimas
 
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 16 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 62.
 
-La Comisión Ejecutiva Estatal para la Atención a Víctimas, tiene por objeto ser la instancia de colaboración y coordinación entre el Sistema Nacional de Atención a Víctimas y la Comisión Ejecutiva Nacional. Además será responsable de la ejecución de los instrumentos, políticas, servicios y acciones estatales en materia de ayuda, asistencia, atención y reparación a las víctimas.
+La Comisión Ejecutiva Estatal de Atención a Víctimas, tiene por objeto ser la instancia de colaboración y coordinación entre el Sistema Nacional de Atención a Víctimas y la Comisión Ejecutiva Nacional. Además será responsable de la ejecución de los instrumentos, políticas, servicios y acciones estatales en materia de ayuda, asistencia, atención y reparación a las víctimas.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
