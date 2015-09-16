@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-de-defensoria-publica-para-el-estado-79637
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-16"
-last_updated: "2011-02-16"
+last_updated: "2015-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON
 
-REGLAMENTO DE LA LEY DE DEFENSORIA PUBLICA PARA EL ESTADO DE NUEVO LEON
+REGLAMENTO DE LA LEY DE DEFENSORÍA PUBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 16 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el miércoles 16 de febrero de 2011.
 
@@ -884,3 +886,13 @@ RODRIGO MEDINA DE LA CRUZ
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 JAVIER TREVIÑO CANTÚ
+
+P.O. 16 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las Unidades Administrativas que se crean al amparo del presente Reglamento, serán habilitadas con personal y recursos materiales una vez que se cuente con la autorización de suficiencia presupuestal emitida por la Secretaría de Finanzas y Tesorería General del Estado. Mientras no se expida la autorización de suficiencia presupuestal para la contratación de personal y equipamiento, el Director General facultará a los servidores públicos actualmente adscritos al Instituto de Defensoría Pública de Nuevo León, para que en forma honoraria ejerzan las atribuciones conferidas a las referidas unidades administrativas.
+
+Artículo Tercero.- Una vez iniciada la vigencia del presente Reglamento, se abroga el "REGLAMENTO DE LA LEY DE DEFENSORÍA PÚBLICA PARA EL ESTADO DE NUEVO, LEÓN" publicado en el Periódico Oficial del Estado, el día 16 de Febrero de 2011.
+
+Artículo Cuarto.- Previamente a la total entrada en vigor del Nuevo Sistema de Justicia Penal, los Defensores Públicos adscritos a esta materia, deberán presentar un examen teórico y práctico que evaluará su desempeño, aptitud y destrezas litigiosas. El Director General determinará las fechas de su celebración. La evaluación tendrá como efectos, determinar según sea el caso, la incorporación, promoción, permanencia o separación del cargo, en los términos de las exigencias que se contienen en el nuevo sistema de justicia penal.
