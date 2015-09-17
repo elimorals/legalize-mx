@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-adquisiciones-para-el-distrito-federal-12307"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-28"
-last_updated: "2014-06-10"
+last_updated: "2015-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12307&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "1998-09-18"
 
 LEY DE ADQUISICIONES PARA EL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 10 DE JUNIO DE 2014, LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS TREINTA DÍAS POSTERIORES A LOS DE SU PUBLICACIÓN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 28 de septiembre de 1998.
 
@@ -168,7 +166,7 @@ XXV.- Empresa Local: Las personas físicas o morales que realicen sus actividade
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XXVI.- Micro, pequeña y mediana empresa: Las unidades económicas así definidas por la Secretaría de Economía del Gobierno Federal; y (sic)
+XXVI.- Micro, pequeña y mediana empresa: Las unidades económicas así definidas por la Secretaría de Economía del Gobierno Federal; y
 
 > <small>(ADICIONADA, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -193,6 +191,10 @@ XXXI. Contrato de Prestación de Servicios a Largo Plazo: Es el contrato multian
 > <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 XXXII. Proyecto de Prestación de Servicios a Largo Plazo: Las acciones que se requieren para que una dependencia, órgano desconcentrado, delegación o entidad reciba un conjunto de servicios a largo plazo por parte de un proveedor, que podrán consistir, de manera enunciativa más no limitativa, en la disponibilidad de servicios para crear infraestructura pública, diseño, mantenimiento, equipamiento, ampliación, administración, operación, conservación, explotación, construcción, arrendamiento o financiamiento de bienes muebles o inmuebles, incluyendo el acceso a los activos que se construyan o provean.
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+XXXIII. Proveedores Salarialmente Responsables: Los proveedores que hayan comprobado fehacientemente, a través de mecanismos y/o la documentación idónea, que sus trabajadores y trabajadores de terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta de la Ciudad de México o en su caso el salario mínimo vigente, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
 
 ###### ARTICULO 3o.
 
@@ -382,13 +384,19 @@ III. Declaración escrita bajo protesta de decir verdad, de no encontrarse en al
 
 IV. Manifestación por escrito y bajo protesta de decir verdad, el nombre, denominación o razón social de aquellas personas físicas o morales de las que forman parte, o sus representantes, socios, empleados, apoderados, administradores o cualquier persona que se vincule con el licitante.
 
-La Oficialía podrá solicitar la documentación complementaria que juzgue conveniente, para comprobar la información que presenten los interesados, en el trámite de inscripción o modificación del registro de inscripción en el padrón.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
+La Oficialía podrá solicitar la documentación complementaria que juzgue conveniente, para comprobar la información que presenten los interesados, en el trámite de inscripción o modificación del registro de inscripción en el padrón. Para el caso de la inscripción en el padrón de Proveedores y determinar si es Salarialmente Responsable, el interesado podrá presentar constancias de Declaraciones Informativas Anuales de naturaleza fiscal, de movimiento de alta y/o de modificación de sueldo en materia de seguridad social, de pago del impuesto Sobre la Renta, entre otros.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Además de la revisión documental, la autoridad podrá realizar las consultas que se consideren necesarias ante las instancias competentes para corroborar la información.
+
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 14 Quater.
 
-Llevado a cabo el trámite, y de haberse cumplido con los requisitos anteriores, el interesado recibirá dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud, una constancia de registro de proveedor, con la que podrá participar en licitaciones públicas, concursos por invitación restringida y adjudicación directa.
+Llevado a cabo el trámite, y de haberse cumplido con los requisitos anteriores, el interesado recibirá dentro de los quince días hábiles siguientes a la fecha de recepción de la solicitud, una constancia de registro de proveedor y en su caso, con una anotación que lo identifique como Proveedor Salarialmente Responsable, con la que podrá participar en licitaciones públicas, concursos por invitación restringida y adjudicación directa.
 
 > <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -401,6 +409,18 @@ En el mes de enero de cada año, la Oficialía publicará en su portal de Intern
 ###### ARTICULO 14 Sexies.
 
 Las personas físicas o morales inscritas en el padrón de proveedores, deberán comunicar por escrito a la Oficialía, dentro de los quince días hábiles siguientes, cualquier cambio a la información proporcionada.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Será la responsabilidad única y exclusiva de los proveedores registrados, el mantener la condición de "Salarialmente Responsable" por lo que en caso de ya no cumplir con esta condición, deberá dar aviso por escrito a la Oficialía Mayor a efecto de que se actualice su registro; dicho aviso deberá hacerlo en un plazo de 30 días posteriores a que haya dejado de tener la calidad de Proveedor Salarialmente Responsable.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+En caso de ser omiso en la presentación de éste aviso, se dará parte a la Contraloría General del Distrito Federal para que con base en los procedimientos que correspondan, se determine la procedencia de inhabilitado como proveedor del Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+En el supuesto de que el Proveedor Salarialmente Responsable deje de tener este carácter teniendo vigentes contratos y/o asignaciones con cualquier Unidad de Gasto que ejerza presupuesto del erario público del Distrito Federal, se procederá a solicitar la inhabilitación inmediata a la Contraloría General, y al mismo tiempo la aplicación de todas las sanciones y penalizaciones que esos contratos contengan en los supuestos que involucren a ese proveedor.
 
 > <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -564,7 +584,7 @@ X.- (DEROGADA, G.O. 11 DE JULIO DE 2002)
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1998)</small>
 
-XI.- Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley y demás disposiciones aplicables; y (sic)
+XI.- Aplicar, difundir, vigilar y coadyuvar al debido cumplimiento de esta Ley y demás disposiciones aplicables; y
 
 > <small>(REFORMADA, G.O. 17 DE MAYO DE 2004)</small>
 
@@ -762,7 +782,11 @@ III.- Fecha, hora y lugar para la presentación y apertura del sobre que conteng
 
 IV.- El idioma o idiomas en que podrán presentarse las propuestas;
 
-V.- Requisitos legales y administrativos que deberán cumplir los participantes;
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+V.- Requisitos legales y administrativos que deberán cumplir los participantes; que en el caso de los Proveedores Salarialmente Responsables, estos deberán agregar la constancia de su registro en el padrón; documento que se considerará como un factor que determinará la adjudicación al que ofrezca las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+
+Se deberá señalar que la autoridad convocante podrá realizar las consultas que considere necesarias ante las instancias competentes para corroborar si las personas físicas o morales cuentan con la anotación vigente como proveedor salarialmente responsable, en el padrón de proveedores.
 
 VI.- Descripción completa de los bienes o Servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato, especificaciones y normas que, en su caso, sean aplicables, dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas, y periodo de garantía y, en su caso, otras opciones de cotización;
 
@@ -946,7 +970,7 @@ XII.- Aquellas personas físicas, socios de personas morales, sus administradore
 
 > <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
-XIII.- Aquellas que presenten garantías, que no resulte posible hacerlas efectivas por causas no imputables a la Administración Pública del Distrito Federal; y (sic)
+XIII.- Aquellas que presenten garantías, que no resulte posible hacerlas efectivas por causas no imputables a la Administración Pública del Distrito Federal; y
 
 > <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -1066,13 +1090,13 @@ Los participantes estarán en posibilidades de proponer precios más bajos en di
 
 Si como resultado de la evaluación a las propuestas a que se refiere el párrafo anterior, existieran dos o más propuestas en igualdad de precio, la convocante aplicará los siguientes criterios para el desempate:
 
-> <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
-a) Se adjudicara al licitante que hubiere ofrecido mejores condiciones en su propuesta, adicionales a las mismas establecidas en las bases, con relación a los bienes, arrendamientos o servicios a contratar;
+a) Se adjudicará al licitante que hubiere ofrecido mejores condiciones en su propuesta, adicionales a las mismas establecidas en las bases, con relación a los bienes, arrendamientos o servicios a contratar; y en su caso, se encuentre inscrito en el padrón de Proveedores con la anotación que lo identifique como Proveedor Salarialmente Responsable.
 
-> <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
-b) Se adjudicará proporcionalmente en partes iguales, a las propuestas que reúnan las mismas condiciones y en igualdad de precio.
+b) Se adjudicará proporcionalmente en partes iguales, a las propuestas que reúnan las mismas condiciones y en igualdad de precio, y en su caso, se encuentre inscrito en el padrón de Proveedores con la anotación que lo identifique como Proveedor Salarialmente Responsable.
 
 > <small>(REFORMADO, G.O. 10 DE JUNIO DE 2014)</small>
 
@@ -1130,11 +1154,11 @@ c) Fallo hasta antes de su emisión, la convocante deberá proporcionar el forma
 
 (DEROGADO, G.O. 11 DE JULIO DE 2002)
 
-> <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 49.
 
-Para hacer el análisis cualitativo de las propuestas, la convocante deberá verificar que las mismas incluyan toda la información, documentos y requisitos solicitados en las bases de la licitación, una vez hecha la valoración de las propuestas, se elaborará un dictamen que servirá de fundamento para emitir el fallo, el cual indicará la propuesta que, de entre los licitantes, haya cumplido con todos los requisitos legales y administrativos, técnicos, de menor impacto ambiental y económicos requeridos por la convocante, que haya reunido las mejores condiciones para la Administración Pública del Distrito Federal, y que haya garantizado satisfactoriamente el cumplimiento de las obligaciones respectivas y haya presentado el precio más bajo.
+Para hacer el análisis cualitativo de las propuestas, la convocante deberá verificar que las mismas incluyan toda la información, documentos y requisitos solicitados en las bases de la licitación, una vez hecha la valoración de las propuestas, se elaborará un dictamen que servirá de fundamento para emitir el fallo, el cual indicará la propuesta que, de entre los licitantes, haya cumplido con todos los requisitos legales y administrativos, técnicos, de menor impacto ambiental y económicos requeridos por la convocante, que haya reunido las mejores condiciones para la Administración Pública del Distrito Federal, que haya acreditado ser proveedor salarialmente responsable, que haya garantizado satisfactoriamente el cumplimiento de las obligaciones respectivas y haya presentado el precio más bajo.
 
 > <small>(REFORMADO, G.O. 17 DE MAYO DE 2004)</small>
 
@@ -1164,7 +1188,9 @@ Una vez que se declare desierta la licitación o alguna de sus partidas, la conv
 
 En los supuestos y con sujeción a las formalidades que prevén los artículos 54 y 55 de esta Ley, las dependencias, órganos desconcentrados, delegaciones y entidades, bajo su responsabilidad, tendrán preferencia para no llevar a cabo el procedimiento de licitación pública y celebrar contratos de adquisiciones, arrendamiento y prestación de servicios, a través de optar por un procedimiento de invitación restringida a cuando menos tres proveedores o de adjudicación directa.
 
-La facultad preferente que las dependencias, órganos desconcentrados, delegaciones y entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de eficacia, eficiencia, economía, imparcialidad y honradez que aseguren para la Administración Pública del Distrito Federal las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y demás circunstancias pertinentes.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+La facultad preferente que las dependencias, órganos desconcentrados, delegaciones y entidades ejerzan, deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de eficacia, eficiencia, economía, imparcialidad y honradez que aseguren para la Administración Pública del Distrito Federal las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento, promoción de Proveedores Salarialmente Responsables, y demás circunstancias pertinentes.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1230,7 +1256,7 @@ X.- Se trate de la prestación de servicios de aseguramiento, mantenimiento, con
 
 > <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
 
-XI.- Se trate de adquisiciones provenientes de personas físicas o morales que, sin ser proveedores habituales y en razón de encontrarse en estado de liquidación o disolución o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables; y (sic)
+XI.- Se trate de adquisiciones provenientes de personas físicas o morales que, sin ser proveedores habituales y en razón de encontrarse en estado de liquidación o disolución o bien, bajo intervención judicial, ofrezcan bienes en condiciones excepcionalmente favorables; y
 
 XII.- Se trate de Servicios profesionales prestados por personas físicas;
 
@@ -1248,7 +1274,7 @@ XV.- Medicamentos, material de curación, y equipo especial para los hospitales,
 
 > <small>(ADICIONADA, G.O. 17 DE MAYO DE 2004)</small>
 
-XVI.- Bienes o servicios cuyo costo esté sujeto a precio oficial y en la contratación no exista un gasto adicional para la Administración Pública del Distrito Federal; y (sic)
+XVI.- Bienes o servicios cuyo costo esté sujeto a precio oficial y en la contratación no exista un gasto adicional para la Administración Pública del Distrito Federal; y
 
 > <small>(REFORMADA, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -1304,9 +1330,9 @@ IV.- Los plazos para la presentación de las propuestas se fijarán en cada proc
 
 V.- En el procedimiento de invitación a cuando menos tres proveedores se aplicara en lo conducente el procedimiento de la licitación pública.
 
-> <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
-En el supuesto de que un procedimiento de invitación restringida a cuando menos tres proveedores haya sido declarado desierto, el titular del área responsable de la contratación podrá optar por adjudicar directamente el contrato, prefiriendo a aquellos que no hubieren tenido incumplimientos durante el ejercicio fiscal en curso en la Administración Pública del Distrito Federal, conforme a la información publicada por las áreas mencionadas.
+En el supuesto de que un procedimiento de invitación restringida a cuando menos tres proveedores haya sido declarado desierto, el titular del área responsable de la contratación podrá optar por adjudicar directamente el contrato, prefiriendo a aquellas personas físicas o morales que además de no haber tenido incumplimientos durante el ejercicio fiscal en curso en la Administración Pública del Distrito Federal, conforme a la información publicada por las áreas mencionadas, se encuentren identificadas en el padrón de proveedores como Proveedores Salarialmente Responsables.
 
 > <small>(REFORMADO, G.O. 11 DE JULIO DE 2002)</small>
 
@@ -1333,6 +1359,10 @@ Para el caso de que no hubiere propuestas cuyo diferencial se encuentren dentro 
 Los contratos deberán formalizarse de conformidad con lo establecido en las bases de licitación pública o, invitación restringida a cuando menos tres proveedores, correspondiente, aun en el supuesto de la fracción V del artículo 54 de esta Ley, en un término no mayor de 15 días hábiles contados a partir de la fecha en que se hubiere notificado al proveedor el fallo correspondiente.
 
 Tratándose de adjudicaciones directas, el contrato deberá suscribirse previo a la adquisición, inicio del arrendamiento o prestación del servicio.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+En los contratos que se celebren para la adjudicación de bienes o la prestación de servicios, deberá establecerse la obligación de la persona física o moral de mantenerse como Proveedor Salarialmente Responsable, en tanto dure el contrato, cuando éste sea el factor que determinó la adjudicación.
 
 > <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -1761,3 +1791,13 @@ G.O. 10 DE JUNIO DE 2014.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Decreto entrara en vigor a los treinta días posteriores a los de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno tendrá 30 días para establecer el proceso o mecanismo y/o condiciones adicionales para habilitar el Registro de Proveedores Salarialmente Responsables de la Ciudad de México.
+
+CUARTO.- Se abrirá un plazo inicial de 90 días para los proveedores que opten por obtener la condición de salarialmente responsable y con ello sean potencialmente beneficiados en los procesos de adjudicación y contratación que ejecuta la administración pública.
