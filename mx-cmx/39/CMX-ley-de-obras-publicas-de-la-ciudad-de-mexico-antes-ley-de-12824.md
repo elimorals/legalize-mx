@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-obras-publicas-de-la-ciudad-de-mexico-antes-ley-de-12824
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-29"
-last_updated: "2014-10-08"
+last_updated: "2015-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-18"
 
 LEY DE OBRAS PÚBLICAS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -165,6 +165,10 @@ XXVIII. Normas de Construcción: Son los libros de Normas de Construcción de la
 > <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 XXIX. Contrato Multianual: Un contrato cuya vigencia comprenda más de un ejercicio presupuestal.
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+XXX. Proveedores Salarialmente Responsables: Los proveedores que hayan comprobado fehacientemente, a través de mecanismos y/o la documentación idónea, que sus trabajadores y trabajadores de terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta de la Ciudad de México o en su caso el salario mínimo vigente, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
 
 > <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
@@ -516,7 +520,7 @@ Cuando por caso fortuito o por motivos de fuerza mayor no imputable al contratis
 
 > <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
-En estos casos, siempre deberá atenderse al criterio de oportunidad para el beneficio a la población usuaria de la obra que se trate, (sic)
+En estos casos, siempre deberá atenderse al criterio de oportunidad para el beneficio a la población usuaria de la obra que se trate,
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
@@ -606,6 +610,18 @@ d. De utilización del personal profesional técnico, administrativo y de servic
 
 La relación de documentos antecedentes que proporcionará la dependencia, órgano desconcentrado, delegación o entidad como apoyo a los estudios que deba realizar el concursante en el proyecto integral, aclarando que lo no proporcionado en las bases, y que sea necesario, será responsabilidad del concursante obtenerla, con la acreditación y el apoyo oficial que proceda para fines de trámites.
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Los participantes adicionalmente deberán agregar a la documentación general, la constancia que permita a la convocante corroborar que son Proveedores Salarialmente Responsables.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Se deberá señalar que para corroborar la calidad de Proveedor Salarialmente Responsable, además de la revisión documental, la autoridad convocante podrá realizar las consultas que considere necesarias ante las instancias competentes.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Se indicará la obligación de la persona física o moral que fungirá como contratista, de mantenerse como Proveedor Salarialmente Responsable, en tanto dure el contrato, cuando éste sea el factor que determinó la adjudicación, mediante la entrega periódica de los documentos emitidos por la autoridad competente que permitan a la convocante corroborarlo.
+
 VII. El origen de los fondos para realizar la obra pública y el importe autorizado para el primer ejercicio del contrato, en el caso de que rebase un ejercicio presupuestal;
 
 VIII. La descripción pormenorizada de los requisitos en cuanto a la experiencia técnica y financiera, y capacidad técnica y financiera, y demás requisitos que deberán cumplir los interesados, quienes aportarán los documentos que así lo comprueben;
@@ -652,6 +668,10 @@ b) Que en el caso de servicios relacionados con la obra pública, se podrán uti
 
 c) Que en el caso de proyecto integral, se deberá utilizar el criterio de cumple o no cumple, y
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Que en igualdad de condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes se preferirá a la persona física o moral que haya acreditado ser Proveedor Salarialmente Responsable, siendo este un factor para determinar la adjudicación.
+
 XVIII. Cualquier otra indicación que se considere conveniente.
 
 Tanto en las licitaciones nacionales como internacionales, los requisitos y condiciones que contengan las bases del concurso deberán ser los mismos para todos los participantes, en especial en lo que se refiere a plazos para la ejecución de los trabajos, la normalización, forma y plazo de pago, penas convencionales, anticipos y garantías.
@@ -688,11 +708,11 @@ La Contraloría deberá intervenir en cualquier acto que contravenga las disposi
 
 ### Capítulo III. De la Presentación, Apertura y Evaluación de Propuestas de Obras Públicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 33.
 
-En las licitaciones públicas, las propuestas completas se harán por escrito y se entregarán en un sobre único firmado de manera que demuestren que no ha sido violado antes de su apertura, el que contendrá por separado, la propuesta técnica y la propuesta económica.
+En las licitaciones públicas, las propuestas completas se harán por escrito y se entregarán en un sobre único firmado de manera que demuestren que no ha sido violado antes de su apertura, el que contendrá por separado, la propuesta técnica y la propuesta económica, y en su caso, la constancia que acrediten a las personas físicas o morales participantes ser Proveedores Salarialmente Responsables, de conformidad a lo señalado en el presente ordenamiento.
 
 A. El sobre relativo a la propuesta técnica, con todos los documentos que la integran firmados por el representante legal y foliados, contendrá:
 
@@ -876,11 +896,11 @@ XIII. Las demás que por cualquier causa se encuentren impedidas para ello, por 
 
 En los supuestos mencionados en las Fracciones de la III a la VI, la dependencia, órgano desconcentrado, delegación o entidad deberá dar aviso a la Contraloría para que lo haga del conocimiento del Sector Obras del Distrito Federal. Cuando la dependencia, órgano desconcentrado, delegación o entidad tenga conocimiento de aquellas personas físicas o morales que hayan incurrido en las fracciones I, II y de la IX a la XIII, deberán comunicarlo a la Contraloría.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 38.
 
-En los procedimientos para la contratación de obras públicas, las dependencias, órganos desconcentrados, delegaciones y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país, por sociedades cooperativas y por la utilización de materiales, equipos e innovaciones y desarrollos tecnológicos de procedencia nacional, siempre y cuando cumplan con las especificaciones del proyecto.
+En los procedimientos para la contratación de obras públicas, las dependencias, órganos desconcentrados, delegaciones y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país, por sociedades cooperativas, proveedores salarialmente responsables y por la utilización de materiales, equipos e innovaciones y desarrollos tecnológicos de procedencia nacional, siempre y cuando cumplan con las especificaciones del proyecto.
 
 > <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
@@ -956,11 +976,13 @@ II. En el caso de servicios relacionados con la obra pública, presente el indic
 
 III. En el caso de proyecto integral, presente el índice más conveniente producto del análisis económico correspondiente para cada uno de los proyectos, o en su caso el resultado más favorable entre las propuestas. En las bases se especificará, en el caso de los proyectos integrales de obra, que deben incluirse los costos de inversión así como los de operación y mantenimiento.
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+En cualquiera de los supuestos descritos en las fracciones que anteceden, se preferirá, a la persona física o moral que haya acreditado ser Proveedor Salarialmente Responsable, siendo este un factor para determinar la adjudicación.
+
 > <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 La dependencia, órgano desconcentrado, delegación o entidad emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las propuestas admitidas y se hará mención de las desechadas.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 42.
 
@@ -1053,6 +1075,10 @@ XI. El señalamiento de que el contrato, sus anexos y, en el caso de obra, la bi
 XII. Los plazos para la verificación de terminación y recepción de la obra;
 
 XIII. Los procedimientos mediante los cuales las partes entre sí resolverán controversias futuras que pudieran versar sobre problemas específicos de carácter técnico o administrativo.
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. La obligación de la persona física o moral que fungirá como contratista, de mantenerse como Proveedor Salarialmente Responsable, en tanto dure el contrato, cuando éste haya sido el factor que determinó la adjudicación.
 
 > <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
@@ -1254,7 +1280,7 @@ Las dependencias, órganos desconcentrados, delegaciones y entidades, podrá (si
 
 De Diferimiento: Cuando el contratista haya presentado la documentación suficiente para la firma del contrato y el anticipo no se otorgue en el tiempo señalado en las bases. La Contratante diferirá el inicio de los trabajos en igual número de días naturales al del retraso de la entrega del anticipo, en este caso no se modificara el plazo de ejecución pactado en el contrato;
 
-Modificatorio de Plazo: Cuando las dependencias, órganos desconcentrados, delegaciones y entidades autoricen un nuevo programa que modifique la duración total del periodo contratado de ejecución de los servicios en un porcentaje que no disminuya o rebase el veinticinco por ciento de su duración.; (sic)
+Modificatorio de Plazo: Cuando las dependencias, órganos desconcentrados, delegaciones y entidades autoricen un nuevo programa que modifique la duración total del periodo contratado de ejecución de los servicios en un porcentaje que no disminuya o rebase el veinticinco por ciento de su duración.;
 
 Modificatorio de Importe: Cuando las dependencias, órganos desconcentrados, delegaciones y entidades autoricen la modificación de las cantidades de servicio por ejecutar o la del catalogo de conceptos, sin variar sustancialmente el objeto y el proyecto ejecutivo del contrato y estas modificaciones causen una variación en el importe del contrato hasta por el veinticinco por ciento;
 
@@ -1462,17 +1488,23 @@ V. Para llevar a cabo la evaluación económica, se deberá contar con un mínim
 
 VI. Los plazos para la presentación de propuestas se fijarán por cada caso atendiendo el monto, características, especialidad, condiciones y complejidad de los trabajos.
 
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Cuando los concursantes satisfagan la totalidad de los requerimientos de la convocante y reúnan las condiciones legales, técnicas, económicas, financieras y administrativas y por lo tanto se presente igualdad de condiciones, se preferirá, con base en la revisión de los documentos aportados, a la persona física o moral que haya acreditado ser un Proveedor Salarialmente Responsable en términos de lo establecido en la presente ley.
+
 > <small>(ADICIONADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 64 Bis.
 
-Las dependencias, órganos desconcentrados, delegaciones y entidades en la adjudicación directa, asignará los contratos conforme el siguiente procedimiento:
+Las dependencias, órganos desconcentrados, delegaciones y entidades en la adjudicación directa, asignará (sic) los contratos conforme el siguiente procedimiento:
 
 I. Entregar la documentación que corresponda conforme al tipo de obra pública a realizar, según se indica en el capítulo relativo a licitaciones públicas de la Ley;
 
 II. Elaborar el catalogo de conceptos aplicando los precios unitarios contenidos en los Tabuladores o sus condiciones de aplicación, que anualmente emita la Secretaría, conforme se estipule en las Políticas;
 
-Las dependencias, órganos desconcentrados, delegaciones y entidades, podrán optar por un procedimiento de presentación de cotizaciones para seleccionar, entre ellas la que asegure las mejores condiciones para la Administración Pública del Distrito Federal, con base en criterios de economía, eficacia, eficiencia y honradez; aceptándose la evaluación y ajuste del presupuesto de dichas cotizaciones para asegurar lo anterior.
+> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Las dependencias, órganos desconcentrados, delegaciones y entidades, podrán optar por un procedimiento de presentación de cotizaciones para seleccionar, entre ellas la que asegure las mejores condiciones para la Administración Pública del Distrito Federal, con base en criterios de economía, eficacia, eficiencia y honradez; aceptándose la evaluación y ajuste del presupuesto de dichas cotizaciones para asegurar lo anterior y, adicionalmente, a la persona física o moral que haya acreditado ser Proveedor Salarialmente Responsable.
 
 ## TÍTULO QUINTO. De la Información y de la Verificación
 
@@ -1751,3 +1783,11 @@ G.O. 8 DE OCTUBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 17 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno tendrá 30 días para establecer el proceso o mecanismo y/o condiciones adicionales para habilitar el Registro de Proveedores Salarialmente Responsables de la Ciudad de México.
