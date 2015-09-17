@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-seguridad-escolar-del-estado-y-96420"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2015-05-16"
+last_updated: "2015-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y SEGURIDAD ESCOLAR DEL ESTADO Y MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el sábado 12 de octubre de 2013.
 
@@ -153,13 +153,19 @@ V. Fortalecer los valores, como parte de la formación educativa entre los alumn
 
 VI. Detectar, diagnosticar, y atender las conductas, hechos y circunstancias específicas que en cada plantel educativo constituyen focos de atención que deban ser resueltos de forma inmediata para prevenir la generación de riesgos en la comunidad escolar, y
 
-VII. Considerar tres niveles de prevención dirigidos a la población en general; niñas, niños y jóvenes en riesgo elevado de violencia y a quienes ya han participado de actividades consideradas como violentas.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
-###### Artículo 6º.
+VII. Considerar cuatro niveles de prevención dirigidos a la población en general; niñas, niños, adolescentes y jóvenes en riesgo elevado de violencia, y a quienes ya han participado de actividades consideradas como violentas.
 
-Además de las leyes federales y convenciones internacionales ratificadas por México, relacionadas con los derechos humanos de los jóvenes, adolescentes y niños, en lo no previsto por esta Ley, serán de aplicación supletoria:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
-I. La Ley Sobre los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí;
+###### Artículo 6°.
+
+Además de las leyes federales y convenciones internacionales ratificadas por México, relacionadas con los derechos humanos de los jóvenes, adolescentes, niñas y niños, en lo no previsto por esta Ley, serán de aplicación supletoria:
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+I. La Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí;
 
 II. La Ley de Educación del Estado de San Luis Potosí;
 
@@ -191,13 +197,13 @@ XV. La Ley Reglamentaria del Artículo 9° de la Constitución Política del Est
 
 XVI. Ley de Prevención y Atención de la Violencia Familiar del Estado de San Luis Potosí;
 
-XVII. La Convención sobre los Derechos del Niño;
+XVII. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2015)
 
-XVIII. La Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer;
+XVIII. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2015)
 
-XIX. La Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer;
+XIX. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2015)
 
-XX. El Convenio Internacional del Trabajo Núm. 169 sobre Pueblos Indígenas y Tribales en Países Independientes;
+XX. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2015)
 
 XXI. La Convención sobre los Derechos de las Personas con Discapacidad, y
 
@@ -221,7 +227,9 @@ II. El Secretario de Seguridad Pública en el Estado;
 
 III. El Procurador General de Justicia del Estado;
 
-IV. El Procurador de la Defensa del Menor, la Mujer, la Familia y el Adulto Mayor;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Procurador de Protección de la Familia, Niñas, Niños, Adolescentes, y la Mujer;
 
 V. El Secretario de Educación de Gobierno del Estado;
 
@@ -229,7 +237,9 @@ VI. El Secretario de Cultura del Estado;
 
 VII. El Secretario de Salud del Estado;
 
-VIII. El Director General de Protección Civil del Estado;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. El Director General de la Coordinación Estatal de Protección Civil;
 
 IX. Los ayuntamientos del Estado;
 
@@ -271,9 +281,11 @@ II. Coordinarse y auxiliarse de las autoridades y entidades auxiliares previstas
 
 III. Ejercer las demás atribuciones que conforme a esta Ley y demás disposiciones legales aplicables le competan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
-Corresponde al Procurador de la Defensa del Menor, la Mujer, la Familia y el Adulto Mayor:
+Corresponde al Procurador de Protección de la Familia, Niñas, Niños, Adolescentes, y la Mujer:
 
 l. Dar seguimiento a problemas de acoso escolar que se susciten en los planteles escolares;
 
@@ -351,9 +363,11 @@ V. Procurar, en materia de prevención de la farmacodependencia, la coordinació
 
 VI. Ejercer las demás atribuciones que esta Ley y demás disposiciones legales aplicables le competan, de manera coordinada con las dependencias idóneas de los órdenes de gobierno estatal y municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-Corresponde al Director General de Protección Civil del Estado:
+Corresponde al Director General de la Coordinación Estatal de Protección Civil:
 
 I. Promover la cultura de protección civil, organizar y desarrollar acciones, observando los aspectos normativos de operación, coordinación y participación con las autoridades señaladas en esta Ley, y procurando la extensión de la educación y capacitación entre las comunidades escolares;
 
@@ -377,7 +391,9 @@ II. Aplicar los programas de prevención social del delito en coordinación con 
 
 III. Propiciar la organización de eventos en los que se destaque y estimule la participación de los miembros de la comunidad a favor de la prevención y seguridad escolar;
 
-IV. Coordinarse permanentemente con la Secretaría de Educación y la Dirección General de Protección Civil, para aplicar en la comunidad escolar los programas existentes relativos a la disminución de factores de riesgo;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Coordinarse permanentemente con la Secretaría de Educación y la Dirección General de la Coordinación Estatal de Protección Civil, para aplicar en la comunidad escolar los programas existentes relativos a la disminución de factores de riesgo;
 
 V. Promover y fomentar la utilización de mecanismos alternativos de solución de controversias relacionadas en el ámbito escolar;
 
@@ -443,7 +459,9 @@ V. El Secretario de Cultura;
 
 VI. El Procurador General de Justicia del Estado;
 
-VII. El Director General de Protección Civil;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+VII. El Director General de la Coordinación Estatal (sic) Protección Civil;
 
 VIII. Un representante de los padres de familia;
 
@@ -812,3 +830,9 @@ SEGUNDO. Las Instituciones de educación integrantes del Sistema Educativo Estat
 TERCERO. La Comisión Estatal de Derechos Humanos, dentro de los cuarenta y cinco días naturales siguientes a la fecha de entrada en vigor de este Decreto, expedirá mediante acuerdo, las bases, lineamientos y requisitos que deberán observarse para la tramitación y otorgamiento de la certificación de institución educativa libre de violencia escolar.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
