@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2015-01-27"
+last_updated: "2015-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-12-10"
 
 LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -71,6 +71,10 @@ E) Aprovechamiento, y
 F) Administración, utilización, conservación y mantenimiento.
 
 II. Los servicios públicos.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+Los procesos para el otorgamiento de concesiones de proyectos de coinversión, de bienes de dominio público del Distrito Federal o la prestación de servicios públicos, en los que intervengan las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, se llevarán a cabo bajo los principios de eficiencia, eficacia, economía, transparencia y honradez. Así mismo, en las adjudicaciones u otorgamientos se deberá asegurar para las Unidades de Gasto que ejerzan presupuesto del erario público del Distrito Federal las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y las demás circunstancias pertinentes.
 
 ###### Artículo 3o.
 
@@ -133,6 +137,10 @@ XII. Oficialía, la Oficialía Mayor del Distrito Federal;
 > <small>(ADICIONADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 XIII. Dependencia Auxiliar, las dependencias de la Administración Pública del Distrito Federal que apoyen en el ejercicio de las facultades del Jefe de Gobierno del Distrito Federal en materia de concesiones teniendo a su cargo el otorgamiento, la regulación, supervisión y vigilancia de las mismas.
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Proveedores Salarialmente Responsables: Los proveedores que hayan comprobado fehacientemente, a través de mecanismos y/o la documentación idónea, que sus trabajadores y trabajadores de terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta de la Ciudad de México o en su caso el salario mínimo vigente, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
 
 ###### Artículo 7o.
 
@@ -814,9 +822,13 @@ II. Poderes que deberán acreditarse; fecha, hora y lugar de la junta de aclarac
 
 III. Señalamiento de los requisitos cuyo incumplimiento podrá ser causa de descalificación;
 
-> <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Los requisitos mínimos para acreditar solvencia técnica y económica y los criterios para desechar posturas y para seleccionar al ganador de la licitación;
+IV. Los requisitos mínimos para acreditar solvencia técnica y económica y los criterios para desechar posturas y para seleccionar al ganador de la licitación.
+
+Señalar que los participantes adicionalmente podrán agregar a la documentación general, la Constancia que permita a la convocante corroborar que son Proveedores Salarialmente Responsables.
+
+Indicar que para corroborar la calidad de Proveedor Salarialmente Responsable, además de la revisión documental, la autoridad convocante podrá realizar las consultas que considere necesarias ante las instancias competentes.
 
 V. Las características técnicas mínimas del servicio público a prestar, o, en su caso, la descripción del bien a concesionar;
 
@@ -883,6 +895,10 @@ VII. La evaluación económica deberá considerar la viabilidad financiera de la
 > <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
 
 VIII. El licitante ganador será elegido de acuerdo a lo establecido en las bases de la licitación las cuales asegurarán las mejores condiciones para la Administración.
+
+> <small>(ADICIONADO, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+En igualdad de condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, se preferirá a las personas físicas o morales que hayan acreditado ser Proveedores Salarialmente Responsables, como factor para determinar la adjudicación.
 
 ###### Artículo 82.
 
@@ -1003,6 +1019,10 @@ VII. Condiciones de entrega a la autoridad competente de los bienes o servicios 
 VIII. Causas de revocación y de caducidad de la concesión, y
 
 IX. Los seguros o fianzas de concurso y desempeño que, en su caso, sea necesario contratar.
+
+> <small>(ADICIONADA, G.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+X. La obligación de la persona física o moral que fungirá como concesionario, de mantenerse como Proveedor Salarialmente Responsable, en tanto dure el contrato, cuando este sea el factor que determinó la adjudicación, mediante la entrega periódica de los documentos emitidos por la autoridad competente que permitan a la convocante corroborarlo.
 
 ###### Artículo 90.
 
@@ -1529,3 +1549,13 @@ G.O. 27 DE ENERO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Remítase el (sic) Jefe de Gobierno del Distrito Federal para su promulgación y publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 17 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Jefe de Gobierno tendrá 30 días para establecer el proceso o mecanismo y/o condiciones adicionales para habilitar el Registro de Proveedores Salarialmente Responsables de la Ciudad de México.
+
+CUARTO.- Se abrirá un plazo inicial de 90 días para los proveedores que opten por obtener la condición de salarialmente responsable y con ello sean potencialmente beneficiados en los procesos de adjudicación y contratación que ejecuta la administración pública.
