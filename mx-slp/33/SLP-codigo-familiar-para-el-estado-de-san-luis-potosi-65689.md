@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2014-11-18"
+last_updated: "2015-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -153,7 +153,9 @@ Serán requisitos para contraer matrimonio:
 
 I. Celebrarse ante el Oficial del Registro Civil, habiendo satisfecho las formalidades exigidas por la ley;
 
-II. La edad legal para contraer matrimonio es de dieciocho años cumplidos, salvo dispensa y autorización legalmente otorgada por quienes ejerzan la patria potestad o la tutela, a los mayores de dieciséis años y menores de dieciocho;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+II. La edad legal para contraer matrimonio es de dieciocho años cumplidos;
 
 III. Expresar la voluntad para unirse en matrimonio;
 
@@ -173,21 +175,23 @@ III. Por nulidad judicialmente declarada.
 
 ###### ARTICULO 19.
 
-La o el ascendiente o la o el tutor que ha otorgado su consentimiento, firmando la solicitud respectiva y ratificándola ante la o el Oficial del Registro Civil, no puede revocarlo después, a menos que haya causa justa para ello.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2015)
 
 ###### ARTICULO 20.
 
-Si la o el ascendiente o la o el tutor, que ha firmado o ratificado la solicitud del matrimonio, falleciere antes de que este se celebre, su consentimiento no puede ser revocado por la persona que en su defecto tiene el derecho de otorgarlo, con tal que el matrimonio se verifique dentro de los seis meses siguientes a la ratificación del consentimiento.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2015)
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 21.
 
-Bajo ninguna circunstancia se celebrarán matrimonios de menores de dieciséis años.
+Bajo ninguna circunstancia se celebrarán matrimonios de menores de dieciocho años.
 
 ###### ARTICULO 22.
 
 Son impedimentos para celebrar el matrimonio civil:
 
-I. La falta de consentimiento de quien o quienes ejerzan la patria potestad, o la tutela en el caso de los matrimonios de menores de edad;
+I. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2015)
 
 II. El parentesco por consanguinidad sin limitación del grado en línea recta ascendente o descendente. En línea colateral hasta el tercer grado;
 
@@ -273,13 +277,15 @@ El cuidado de las hijas o hijos y la dirección del hogar estarán a cargo de lo
 
 Los cónyuges tendrán autoridad y consideraciones iguales, por lo tanto, resolverán de común acuerdo todo lo relativo a la educación de las hijas o hijos, y de los bienes que a éstos les pertenezcan. En caso de controversia, la autoridad judicial competente resolverá lo conducente.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 35.
 
-Los cónyuges mayores de edad tienen capacidad para administrar, contratar o disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, siempre y cuando se hayan casado bajo el régimen de separación de bienes.
+Los cónyuges tienen capacidad para administrar, contratar o disponer de sus bienes propios, ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél, siempre y cuando se hayan casado bajo el régimen de separación de bienes.
 
 ###### ARTICULO 36.
 
-Los cónyuges menores de edad tendrán la administración de sus bienes en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos, y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2015)
 
 ###### ARTICULO 37.
 
@@ -401,7 +407,7 @@ Tampoco se revocarán por ingratitud, a no ser que el donante fuere un tercero y
 
 ###### ARTICULO 61.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores y con aprobación judicial.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2015)
 
 ###### ARTICULO 62.
 
@@ -455,7 +461,9 @@ I. La licitud en el objeto;
 
 II. La ausencia de vicios del consentimiento, y
 
-III. La mayoría de edad, salvo dispensa y autorización legalmente otorgada a los mayores de dieciséis años y menores de dieciocho.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+III. La mayoría de edad.
 
 ### Capítulo IX. De la Nulidad del Matrimonio
 
@@ -479,7 +487,9 @@ La acción para demandar la nulidad absoluta del matrimonio corresponde a cualqu
 
 Son causa de nulidad relativa:
 
-I. Cuando los contrayentes sean menores de dieciocho años y no se haya otorgado el consentimiento para ese matrimonio, por parte de las personas que ejerzan la patria potestad o la tutela sobre alguno de ellos, y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+I. Cuando los contrayentes sean menores de dieciocho años;
 
 II. Los vicios del consentimiento.
 
@@ -489,9 +499,9 @@ La acción de nulidad relativa se extingue:
 
 I. Cuando haya habido hijas o hijos entre los consortes;
 
-II. Cuando la o el consorte, o los consortes menores de edad cumplan dieciocho años de edad y no se hubiera intentado la acción de nulidad, y
+II. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2015)
 
-III. Cuando la o el ascendiente, en forma expresa o tácita, haya consentido sobre el matrimonio aún cuando no haya sido en el momento de la celebración del mismo, sino por los actos posteriores. Se considera manifestación tácita cuando se hace donación a las hijas o hijos en consideración del matrimonio; se permite a los consortes vivir en su casa o cualquier otro acto que, a juicio de la autoridad judicial, hagan presumir ese consentimiento.
+III. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2015)
 
 Si no se ejercita la acción dentro de los sesenta días siguientes a la fecha de la celebración del matrimonio, o de la fecha en la cual el interesado tuvo conocimiento de la nulidad.
 
@@ -629,7 +639,7 @@ XVI. El uso de métodos de esterilización permanente sin el consentimiento de l
 
 ###### ARTÍCULO 88.
 
-El cónyuge que administre o cuide los bienes del otro y cuyos frutos se destinen a satisfacer las necesidades de la familia, tendrá derecho al cincuenta por ciento de la utilidad o ganancial neta que resulte.
+El cónyuge que administre o cuide los bienes del otro y cuyos frutos se destinen a satisfacer las necesidades de la familia, tendrá derecho al cincuenta por ciento de la utilidad o ganancial (sic) neta que resulte.
 
 Para el caso que, además de que ese cónyuge administre esos bienes, se ocupe de la atención del hogar, tendrá derecho a una indemnización mayor a la que se refiere el párrafo anterior. En caso de que uno de los cónyuges se ocupe al cuidado del hogar, tendrá derecho al cincuenta por ciento de la propiedad de los inmuebles y muebles destinados a satisfacer las necesidades de la familia, cuando éstos sean propiedad exclusiva de la o el otro cónyuge.
 
@@ -1743,6 +1753,10 @@ La patria potestad es el conjunto de derechos y deberes reconocidos y otorgados 
 
 Quienes estén sujetos a la patria potestad tendrán derecho a vivir con el ascendiente que tenga su custodia, a convivir con sus ascendientes, aún en el caso de que éstos no vivan juntos, por lo que la autoridad judicial deberá tomar siempre las medidas necesarias para proteger los derechos de convivencia.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 269 BIS. Al ostentador de la custodia que reiterada e injustificadamente incurra en desacato de un mandato judicial que lo obligue a permitir la convivencia del menor con el no custodio, o bien con los demás parientes que tengan derecho a ello; en aras del interés superior del menor, le será suspendido de inmediato el ejercicio de la custodia, para poner al menor bajo el cuidado de la persona a quien se esté negando el derecho de convivencia, previa aceptación y compromiso ante la autoridad judicial, de cumplir con las obligaciones que implica el ejercicio de la custodia.
+
 ###### ARTICULO 270.
 
 Cuando por cualquier circunstancia la madre o el padre deje de ejercer la patria potestad, corresponderá su ejercicio al otro, así como la custodia.
@@ -1779,9 +1793,11 @@ Cuando los progenitores hayan reconocido a la hija o el hijo nacido fuera del ma
 
 Cuando los progenitores de la hija o hijo nacido fuera del matrimonio se separen, a falta de acuerdo respecto a su custodia, la autoridad judicial determinará las medidas que mayormente beneficien a la o el menor.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 276.
 
-Quienes ejercen la patria potestad, aún cuando no tengan la custodia o guarda, conservan los derechos de vigilancia y convivencia con sus descendientes, salvo que la autoridad judicial suspenda o extinga esos derechos, por considerar que existe peligro para las o los menores.
+Quienes ejercen la patria potestad, aún cuando no tengan la custodia o guarda, conservan los derechos de vigilancia y convivencia con sus descendientes, salvo que la autoridad judicial suspenda o extinga esos derechos por considerar que existe peligro para las o los menores. En caso de reiterada e injustificada negativa por el ostentador de la custodia de permitir ese derecho, se aplicará lo previsto por el artículo 269 BIS de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -2145,7 +2161,7 @@ Si las o los pupilos indigentes no tienen personas que estén obligadas a alimen
 
 ###### ARTICULO 325.
 
-La persona tutora de la persona incapaz a que se refiere la fracción II del artículo 318 de este Código, está obligada a presentar ante la autoridad judicial, en el mes de enero de cada año un certificado de dos médicos que declaren acerca del estado de salud de la persona sujeta a interdicción, a quien para ese efecto reconocerán en presencia de quien ejerza la curatela.
+La persona tutora de la persona incapaz a que se refiere la fracción II del artículo 318 de este Código, está obligada a presentar ante la autoridad judicial, en el mes de enero de cada año, un certificado de dos médicos que declaren acerca del estado de salud de la persona sujeta a interdicción, a quien para ese efecto reconocerán en presencia de quien ejerza la curatela.
 
 La autoridad judicial se cerciorará del estado que guarde la persona incapaz y tomará todas las medidas que estime convenientes para mejorar su condición.
 
@@ -3434,6 +3450,24 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2015.
+
+DECRETO 1196, POR EL QUE SE REFORMA LOS ARTÍCULOS, 17 EN SU FRACCIÓN II, 21, 22 EN SU FRACCIÓN I, 35, 69 EN SU FRACCIÓN III, Y 72 EN SU FRACCIÓN I; Y DEROGA LOS ARTÍCULOS, 19, 20, 36, 61, Y DEL 73 LAS FRACCIONES II, Y III, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Para los matrimonios que se hayan celebrado entre menores en términos del artículo 36 que se deroga en virtud del presente Decreto, hasta antes de su entrada en vigor, les serán aplicables las disposiciones del mismo.
+
+TERCERO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2015.
+
+DECRETO 1197, POR EL QUE SE REFORMA EL ARTÍCULO 276; Y ADICIONA EL ARTÍCULO 269 BIS, DE Y AL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
