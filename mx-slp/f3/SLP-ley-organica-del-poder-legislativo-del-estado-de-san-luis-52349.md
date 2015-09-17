@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2015-07-11"
+last_updated: "2015-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -211,7 +211,7 @@ IV. Recibir, en los términos que establece esta Ley y el Reglamento, el informe
 
 V. Otorgar al gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública, las que quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;
 
-VI Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
+VI. Ratificar con el voto de por lo menos la mitad más uno de sus miembros, el nombramiento de Procurador General de Justicia del Estado, que le someta el titular del Ejecutivo;
 
 VII. Trasladar, a solicitud del Ejecutivo, la residencia de los poderes del Estado, cuando sea necesario por circunstancias extraordinarias;
 
@@ -247,7 +247,7 @@ XIX. Las demás que establezcan las leyes.
 
 ### Capítulo III. De las Atribuciones en Relación con el Poder Judicial
 
-###### Artículo 17.
+###### ARTICULO 17.
 
 Las atribuciones del Congreso del Estado en su relación con el Poder Judicial son:
 
@@ -525,7 +525,7 @@ La apertura y la clausura de los periodos ordinarios o extraordinarios de sesion
 
 ### Capítulo IV. Del Quórum
 
-###### Artículo 44.
+###### ARTICULO 44.
 
 El Pleno no puede sesionar, ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Tratándose de la sesión de instalación se procederá conforme lo establece el tercer párrafo del artículo 50 de la Constitución; en las demás sesiones cuando transcurrida una hora posterior a la en que haya sido convocada, sin que el quórum se haya reunido, el Presidente convocará a una nueva sesión que deberá verificarse dentro de las siguientes veinticuatro horas.
 
@@ -709,7 +709,7 @@ El Congreso del Estado a efecto de iniciar su actividad Legislativa en los perio
 
 ###### ARTICULO 63.
 
-La Directiva es el órgano de dirección del Pleno y será responsable de la conducción de las sesiones del mismo; tendrá las atribuciones señaladas en la presente Ley y en el Reglamento. Se integrará por un Presidente, que sera él Presidente del Congreso; dos vicepresidentes; dos secretarios; y dos prosecretarios.
+La Directiva es el órgano de dirección del Pleno y será responsable de la conducción de las sesiones del mismo; tendrá las atribuciones señaladas en la presente Ley y en el Reglamento. Se integrará por un Presidente, que será el Presidente del Congreso; dos vicepresidentes; dos secretarios; y dos prosecretarios.
 
 ###### ARTICULO 64.
 
@@ -955,9 +955,11 @@ IV. Especiales: las que por acuerdo del Congreso se constituyan con carácter tr
 
 Las comisiones permanentes serán constituidas durante la primera semana del primer periodo ordinario de sesiones de la Legislatura, y funcionarán durante el ejercicio constitucional de la misma.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 86.
 
-Ningún diputado puede formar parte de más de cuatro comisiones permanentes.
+Ningún diputado puede presidir más de una, ni formar parte de más de cuatro comisiones permanentes.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
 
@@ -2025,7 +2027,7 @@ SEGUNDO. Se abroga la Ley Orgánica del Poder Legislativo del Estado Libre y Sob
 
 TERCERO. Por única vez, los grupos parlamentarios de la Quincuagésima Séptima Legislatura, se inscribirán ante la Directiva del Congreso, en la siguiente sesión a la que entre en vigor la presente Ley; asimismo, en esa sesión se integrará la Junta de Coordinación Política, así como las comisiones y comités, conforme lo dispone la presente Ley.
 
-CUARTO. Los diputados que a la fecha de entrada en vigor de la presente Ley integren la Gran Comisión pasarán a formar parte de la Junta de Coordinación Política, debiendo además integrar a la misma, a los demás coordinadores de los grupos parlamentarios y representaciones parlamentarias.
+CUARTO. Los diputados que a la fecha de entrada en vigor de la presente Ley integren la Gran Comisión, pasarán a formar parte de la Junta de Coordinación Política, debiendo además integrar a la misma, a los demás coordinadores de los grupos parlamentarios y representaciones parlamentarias.
 
 Por única ocasión, en la integración de la Junta de Coordinación Política, no se aplicarán las normas relativas a la forma de presidir a la misma, que establece esta Ley; y ésta será presidida hasta el término de la LVII Legislatura, por el diputado que presida la Gran Comisión.
 
@@ -2041,7 +2043,7 @@ OCTAVO. La transferencia de unidades administrativas de una dependencia a otra, 
 
 NOVENO. Los derechos laborales del personal que en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
 
-DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas en la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
+DECIMO. Hasta en tanto entre en vigor la ley de la materia, las referencias que en esta Ley se hacen a la "Auditoría Superior del Estado", se entenderán hechas a la "Contaduría Mayor de Hacienda del Estado"; y las que se hacen al "Auditor Superior", al Contador Mayor de Hacienda.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -2049,7 +2051,7 @@ DECIMO PRIMERO. El Reglamento Interior del Congreso del Estado seguirá vigente 
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
-DECIMO SEGUNDO. El Reglamento del Instituto de Investigaciones Legislativas deberá adecuarse en lo conducente a lo dispuesto en la presente Ley, en un plazo que no exceda del 31 de enero de 207; en tanto, seguirá vigente en lo que no se oponga a este Decreto.
+DECIMO SEGUNDO. El Reglamento del Instituto de Investigaciones Legislativas deberá adecuarse en lo conducente a lo dispuesto en la presente Ley, en un plazo que no exceda del 31 de enero de 2007; en tanto, seguirá vigente en lo que no se oponga a este Decreto.
 
 DECIMO TERCERO. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
 
@@ -2330,5 +2332,11 @@ P.O. 13 DE JUNIO DE 2015.
 P.O. 11 DE JULIO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
