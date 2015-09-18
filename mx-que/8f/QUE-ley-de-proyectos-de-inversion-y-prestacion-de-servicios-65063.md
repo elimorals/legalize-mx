@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-proyectos-de-inversion-y-prestacion-de-servicios-65063"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2014-01-13"
+last_updated: "2015-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE PROYECTOS DE INVERSIÓN Y PRESTACIÓN DE SERVICIOS PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 18 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -232,3 +234,13 @@ P.O. 13 DE ENERO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", con excepción de la Ley Orgánica del Poder Legislativo del Estado de Querétaro y del Reglamento del Poder Legislativo para la aplicación de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Estado de Querétaro, cuya aprobación iniciará a partir del día de su aprobación por el Pleno de la Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 18 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Quedan derogadas todas las disposiciones que se opongan a la presente Ley.
+
+Artículo Tercero. Se abroga la Ley de Proyectos de Inversión y Prestación de Servicios para el Estado de Querétaro.
+
+Artículo Cuarto. El Gobernador del Estado deberá expedir y publicar el Reglamento de la Ley de Asociaciones Público Privadas para el Estado de Querétaro, en un plazo que no excederá de 180 días, contados a partir del día siguiente al inicio de su vigencia.
