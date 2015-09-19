@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-urbano-del-estado-de-san-luis-potosi-21373"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-07"
-last_updated: "2014-12-26"
+last_updated: "2015-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de octubre de 2000.
 
@@ -2413,7 +2413,7 @@ La vigencia de la licencia de uso del suelo se sujetará a lo siguiente:
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
-I. La primera licencia que otorgue el ayuntamiento tendrá el carácter de previa y será válida durante doce meses contados a partir de su expedición lapso en el cual si fuere el caso, el propietario llevará a cabo la construcción o adecuación del inmueble de que se trate; si no concluyera dentro de ese término, dicha licencia podrá prorrogarse por doce meses más. Concluida la construcción o adecuación respectiva, se otorgará una licencia indefinida que quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y al pago anual de derechos correspondientes;
+I. La primera licencia que otorgue el ayuntamiento tendrá el carácter de previa y será válida durante doce meses contados a partir de su expedición, lapso en el cual si fuere el caso, el propietario llevará a cabo la construcción o adecuación del inmueble de que se trate; si no concluyera dentro de ese término, dicha licencia podrá prorrogarse por doce meses más. Concluida la construcción o adecuación respectiva, se otorgará una licencia indefinida que quedará sujeta al mantenimiento de las características y cumplimiento de las condiciones de su otorgamiento y al pago anual de derechos correspondientes;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2767,7 +2767,13 @@ II. Se sujetarán a las superficies edificables, áreas libres y número de piso
 
 III. Se ajustarán a las restricciones correspondientes;
 
-IV. Dispondrán de lugares de estacionamiento de vehículos en la cantidad que señalen tanto los Planes de Desarrollo Urbano como el Reglamento de ésta Ley;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Dispondrán de lugares de estacionamiento de vehículos en la cantidad que señalen tanto los Planes de Desarrollo Urbano, como el Reglamento de esta Ley.
+
+Tratándose de actividades comerciales, el uso de los cajones de estacionamiento a que se refiere el párrafo anterior, deberá ser sin costo para el usuario, a excepción de las (sic) que su actividad directa sea exclusivo de ese servicio. Se podrá efectuar el cobro de una contraprestación, a las personas que no acrediten haber realizado la compra de un producto o pago de un servicio, en algún establecimiento integrante del centro determinado.
+
+El incumplimiento de esta disposición será considerado infracción administrativa sancionada por el Bando de Policía y Gobierno, cuyo monto se fijará en las leyes de ingresos de los municipios;
 
 V. Los locales deberán tener iluminación y ventilación natural por medio de ventanas que den directamente a la vía pública, patios interiores o espacios abiertos, excepto los no habitables permanentemente, para los cuales deberán utilizarse ductos con elementos electromecánicos completos;
 
@@ -4146,3 +4152,11 @@ P.O. 26 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los cincuenta y ocho municipios que integran el Estado Libre y Soberano de San Luis Potosí deberán, en un plazo no mayor a noventa días hábiles a partir de la publicación de este Decreto, reformar su Bando de Policía y Gobierno y, posteriormente, deberán modificar sus leyes de Ingresos en los términos de lo dispuesto por este Decreto.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
