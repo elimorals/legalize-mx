@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2014-08-30"
+last_updated: "2015-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 30 DE AGOSTO DE 2014, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 24952/LX/14 PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -447,7 +445,9 @@ II. Expedir constancias o certificaciones relativos a:
 
 a) Inscripción o no inscripción;
 
-b) Gravamen o libertad de gravamen y limitaciones de dominio;
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+
+b) Gravamen o libertad de gravamen, limitaciones de dominio; y en su caso que contenga las medidas provisionales o cautelares que en materia de extinción de dominio se hayan dictado.
 
 c) Bienes o personas jurídicas;
 
@@ -677,13 +677,19 @@ XIII. Los títulos que se devuelvan sin registrar, si se trata de fincas inscrit
 
 XIV. Los avisos cautelar y preventivo a que se refiere el capítulo VIII del Título III de esta Ley;
 
-XV. Los actos, que siendo materia de inscripción preventiva o definitiva, no deba ésta realizarse, por existir de acuerdo al orden de prelación un aviso cautelar que lo impida; y
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Cualquier otro documento relacionado con la propiedad inmueble, que sea anotable preventivamente, de acuerdo con esta Ley y otras leyes aplicables.
+XV. Las medidas provisionales o cautelares que en materia de extinción de dominio se hayan dictado.
+
+XVI. Los actos, que siendo materia de inscripción preventiva o definitiva, no deba ésta realizarse, por existir de acuerdo al orden de prelación un aviso cautelar que lo impida; y
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Cualquier otro documento relacionado con la propiedad inmueble, que sea anotable preventivamente, de acuerdo con esta Ley y otras leyes aplicables.
 
 Los registros preventivos se realizarán a través de una anotación dentro del folio correspondiente al inmueble de que se trate.
 
-El registro preventivo perjudicará a cualquier adquirente del inmueble o derecho real a que se refiere dicha anotación cuando la adquisición sea posterior a la fecha de aquella y, en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la inscripción.
+El registro preventivo perjudicará a cualquier adquirente del inmueble o derecho real a que se refiere dicha anotación, cuando la adquisición sea posterior a la fecha de aquella y, en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la inscripción.
 
 ###### Artículo 41.
 
@@ -1566,3 +1572,15 @@ CUARTO. La Secretaría contará con un término de ciento ochenta días hábiles
 QUINTO. La Secretaría de Cultura contará con un término de noventa días para instituir un Centro de Información del Patrimonio Cultural del Estado.
 
 SEXTO. Los bienes que se encuentren protegidos por la Ley (sic) Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios o, por cualquier otro instrumento legal o convencional, seguirán contando con la protección de la que gozan actualmente, hasta en tanto sean integrados al inventario del Patrimonio Cultural, en los términos de la presente ley.
+
+P.O. 19 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Extinción de Dominio del Estado de Jalisco, publicada en el periódico oficial El Estado de Jalisco, el 13 de agosto de 2011.
+
+TERCERO. Los procedimientos de extinción de dominio comenzados antes de la entrada en vigor de este decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento de su iniciación.
+
+CUARTO. Hasta en tanto no inicien sus funciones los jueces especializados en extinción de dominio, los jueces civiles de primera instancia o mixtos serán competentes para conocer de la aplicación de la Ley de Extinción de Dominio del Estado de Jalisco que se expide a través del presente Decreto.
+
+QUINTO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento de este decreto.
