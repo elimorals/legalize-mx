@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-extincion-de-dominio-para-el-estado-de-jalisco-82489"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-13"
-last_updated: "2011-08-13"
+last_updated: "2015-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE JALISCO
 
-LEY DE EXTINCION DE DOMINIO DEL ESTADO DE JALISCO
+LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 19 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 13 de agosto de 2011.
 
@@ -558,3 +560,17 @@ El Secretario General de Gobierno
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Extinción de Dominio del Estado de Jalisco, publicada en el periódico oficial El Estado de Jalisco, el 13 de agosto de 2011.
+
+TERCERO. Los procedimientos de extinción de dominio comenzados antes de la entrada en vigor de este decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento de su iniciación.
+
+CUARTO. Hasta en tanto no inicien sus funciones los jueces especializados en extinción de dominio, los jueces civiles de primera instancia o mixtos serán competentes para conocer de la aplicación de la Ley de Extinción de Dominio del Estado de Jalisco que se expide a través del presente Decreto.
+
+QUINTO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento de este decreto.
