@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2015-09-05"
+last_updated: "2015-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -7156,15 +7156,17 @@ IV.- Semovientes;
 
 V.- Frutos;
 
-VI. Muebles;
+VI.- Muebles;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
 
-VII.- Bienes inmuebles, determinando su ubicación, extensión superficial, medidas y colindancias, antecedentes de propiedad y del Registro Público de la Propiedad o en su defecto en el Catastro correspondiente, puntualizando todas las características identificatorias existentes de modo que no puedan ser confundidos con otros, agregando un plano o croquis de los mismos;
+VII.- Bienes inmuebles, determinando su ubicación, extensión superficial, medidas y colindancias, antecedentes de propiedad y del Registro Público de la Propiedad o en su defecto en el Catastro correspondiente, puntualizando todas las características identificatorias existentes de modo que no puedan ser confundidos con otros, agregando un plano o croquis de los mismos, así como certificado expedido por el Registro Público de la Propiedad, de cada inmueble, o certificado catastral en caso de no estar inscritos en el mismo que corresponda, con una fecha (sic) expedición mínima de diez días naturales a su presentación;
 
-VIII.- Créditos;
+VIII.- Créditos; y
 
-IX.- Los documentos, escrituras y papeles de importancia que se encuentren.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+
+IX.- Los documentos, escrituras y papeles de importancia que se encuentren. Cuando se refiera a títulos accionarios o títulos valor, certificado expedido por el Registro Público del Comercio.
 
 ###### ARTICULO 861.
 
@@ -8006,11 +8008,11 @@ En las entrevistas el Juez se hará asistir de un médico que certificará que l
 
 ARTICULO 970 TER.- Hecho lo anterior, dentro de un término que en ningún caso excederá de quince días, el Juez citará a junta, en la cual, si estuvieren conformes el tutor interino, el Agente de la Procuraduría Social y el incapaz en caso de que pueda manifestar su voluntad por cualquier medio, dictará su resolución declarando o no el estado de interdicción, y en su caso, el grado de la misma, según el sentido que arrojen las constancias y dictámenes. Si hubiere oposición, se substanciará el respectivo juicio ordinario entre el que pide la interdicción y el opositor u opositores. En el juicio será oído el presunto incapaz si lo pidiere, y durante la tramitación subsistirá la designación de tutor y curador interinos.
 
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 971.
 
-Derogado.
+En ningún caso se aprobará el proyecto de partición respecto de los bienes que estén afectados por alguna medida provisional o cautelar en términos de la Ley de Extinción de Dominio del Estado de Jalisco.
 
 ###### ARTICULO 971
 
@@ -9471,3 +9473,15 @@ Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales 
 DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
 
 DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
+
+P.O. 19 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se abroga la Ley de Extinción de Dominio del Estado de Jalisco, publicada en el periódico oficial El Estado de Jalisco, el 13 de agosto de 2011.
+
+TERCERO. Los procedimientos de extinción de dominio comenzados antes de la entrada en vigor de este decreto, se sustanciarán y resolverán conforme a las disposiciones vigentes al momento de su iniciación.
+
+CUARTO. Hasta en tanto no inicien sus funciones los jueces especializados en extinción de dominio, los jueces civiles de primera instancia o mixtos serán competentes para conocer de la aplicación de la Ley de Extinción de Dominio del Estado de Jalisco que se expide a través del presente Decreto.
+
+QUINTO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento de este decreto.
