@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-persona-joven-para-el-estado-y-municipios-de-san-9004
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-20"
-last_updated: "2015-06-09"
+last_updated: "2015-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA PERSONA JOVEN PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de octubre de 2012.
 
@@ -263,7 +263,7 @@ Las personas jóvenes tienen el derecho de asociarse libremente en defensa de su
 
 El Ejecutivo del Estado garantizará que este derecho no sea coartado y no sufra menoscabo alguno, en términos de las leyes respectivas y, en su caso previo procedimiento legal correspondiente, sancionará a los servidores públicos que intenten menoscabar, o inhibir, el libre ejercicio de éste derecho.
 
-### CAPITULO V. DERECHO A LA PARTICIPACION POLlTICA Y SOCIAL
+### CAPITULO V. DERECHO A LA PARTICIPACION POLITICA Y SOCIAL
 
 ###### ARTICULO 18.
 
@@ -783,9 +783,9 @@ III. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
 
 En materia de juventud, a la Comisión Estatal de Derechos Humanos corresponde:
 
-I. En el ámbito de sus funciones, proteger y promover los derechos de las personas jóvenes contenidos en esta Ley, y
+I. En el ámbito de sus funciones, proteger y promover los derechos de las personas jóvenes contenidos en esta ley, y
 
-II. Las demás que le otorgue esta ley y demás ordenamientos aplicables.
+II. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
 
 ###### ARTICULO 64.
 
@@ -885,7 +885,11 @@ XV. Fungir como representante del Ejecutivo del Estado en materia de la juventud
 
 XVI. Promover campañas para la difusión de los derechos de las personas jóvenes en el Estado de San Luis Potosí, y
 
-XVII. Las demás que señalen otras disposiciones legales y el Reglamento.
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Concertar acuerdos y convenios de colaboración y coordinación con la Dirección General de Ejecución de Medidas para Menores, adscrita a la Secretaría de Seguridad Pública del Estado, para la implementación de los mecanismos de ejecución de medidas de orientación y protección de los jóvenes menores, y
+
+XVIII. Las demás que señalen otras disposiciones legales y el Reglamento.
 
 ### CAPITULO II. DE LA ESTRUCTURA ORGANICA DEL INSTITUTO
 
@@ -1258,6 +1262,12 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 P.O. 9 DE JUNIO DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
