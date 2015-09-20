@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-justicia-fiscal-y-administrativa-del-estado-de-78586"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-23"
-last_updated: "2015-02-01"
+last_updated: "2015-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 2010.
 
@@ -47,9 +47,11 @@ LEY DE JUSTICIA FISCAL Y ADMINISTRATIVA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público e interés general, y tienen por objeto regular los actos y procedimientos de la Administración Pública Estatal y Municipal y el proceso para la impartición de justicia fiscal y administrativa del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
+Las disposiciones de esta Ley son de orden público e interés general, y tienen por objeto regular los actos y procedimientos de la Administración Pública Estatal y Municipal, de los órganos constitucionales autónomos y el proceso para la impartición de justicia fiscal y administrativa del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
 
 El presente ordenamiento también se aplicará a los Organismos Públicos Descentralizados de la Administración Pública Estatal y Municipal respecto a sus actos de autoridad, a los servicios que el Estado y los Municipios presten de manera exclusiva y a los contratos y convenios que los particulares sólo puedan celebrar con los mismos.
 
@@ -85,7 +87,7 @@ I.- Acto Administrativo: Toda declaración unilateral de voluntad dictada por la
 
 II.- Medidas de Seguridad: Las disposiciones que dicte la autoridad competente para proteger la salud y la seguridad pública. Las medidas de seguridad se establecerán en cada caso por las leyes administrativas;
 
-IIl.- Autoridad Administrativa: Aquélla que dicte, ordene, ejecute, omita o trate de ejecutar un acto administrativo;
+III.- Autoridad Administrativa: Aquélla que dicte, ordene, ejecute, omita o trate de ejecutar un acto administrativo;
 
 IV.- Interesado: Aquella persona que tiene un interés legítimo y jurídico por ostentar un derecho legalmente tutelado, respecto de un acto o procedimiento administrativo;
 
@@ -97,7 +99,9 @@ VII.- Negativa Ficta.- Es la resolución que deberá entenderse en sentido negat
 
 VIII.- Positiva Ficta.- Opera cuando el particular acuda ante la Autoridad Fiscal, a cerciorase que la forma de contribuir es la correcta, y ésta no le responde dentro del término que marca la Ley; misma que tiene por objeto que la Autoridad no pueda cobrarle al particular los accesorios de la contribución, sólo la diferencia del principal, en su caso;
 
-IX.- Lesividad.- Son aquellos juicios promovidos por la autoridad, para que se decrete la nulidad de las resoluciones administrativas o fiscales favorables a los particulares, que causen una lesión a la Administración Pública Estatal o Municipal y sus Organismos Públicos Descentralizados, por contravenir alguna disposición de los ordenamientos locales vigentes;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+IX.- Lesividad.- Son aquellos juicios promovidos por la autoridad, para que se decrete la nulidad de las resoluciones administrativas o fiscales favorables a los particulares, que causen una lesión a la Administración Pública Estatal o Municipal o de los órganos constitucionales autónomos por contravenir alguna disposición de los ordenamientos locales vigentes;
 
 X.- Interés Jurídico.- Es el que tienen los titulares de un derecho subjetivo público;
 
@@ -129,11 +133,11 @@ VI.- Expedirse de conformidad con el procedimiento administrativo y formalidades
 
 VII.- Ser expedido sin que medie error sobre el objeto, causa o motivo, o sobre el fin del acto;
 
-VllI.- Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documento o nombre completo de las personas;
+VIII.- Ser expedido sin que medie error respecto a la referencia específica de identificación del expediente, documento o nombre completo de las personas;
 
 IX.- Ser expedido, sin que medie dolo o violencia en su emisión;
 
-X.- Ser expedido decidiendo expresamente todos los puntos propuestos por las partes, o establecidos en la Iey de la materia o por esta ley;
+X.- Ser expedido decidiendo expresamente todos los puntos propuestos por las partes, o establecidos en la ley de la materia o por esta ley;
 
 XI.- Mencionar la autoridad de la cual emana;
 
@@ -147,9 +151,11 @@ XIV.- Ser expedido, señalando lugar y fecha de emisión.
 
 Los actos administrativos de carácter general, tales como decretos, reglamentos, acuerdos, circulares y cualesquier otros de la misma naturaleza, deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado, y en su caso en las Gacetas Municipales para que produzcan efectos jurídicos; y los de carácter individual deberán publicarse en dichos órganos informativos cuando así lo establezcan las leyes.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 9.
 
-Los instructivos, manuales y formatos que expidan las Entidades y Organismos de la Administración Pública Estatal y Municipal y los Organismos Públicos Descentralizados, deberán publicarse previamente a su aplicación en el Periódico Oficial del Gobierno Constitucional del Estado, y en su caso, en las Gacetas Municipales.
+Los instructivos, manuales y formatos que expidan las Entidades y Organismos de la Administración Pública Estatal y Municipal o de los órganos constitucionales autónomos, deberán publicarse previamente a su aplicación en el Periódico Oficial del Gobierno Constitucional del Estado, y en su caso, en las Gacetas Municipales.
 
 ### CAPÍTULO IV. DE LA EFICACIA DEL ACTO ADMINISTRATIVO
 
@@ -195,9 +201,11 @@ IX.- Por nulidad, declarada en la sentencia de un procedimiento jurisdiccional.
 
 #### SECCIÓN PRIMERA. DE LAS GENERALIDADES
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 14.
 
-Las disposiciones de este Título son aplicables a los actos a través de los cuales se realiza la función administrativa estatal, municipal y sus Organismos Públicos Descentralizados, cuando dichos actos produzcan efectos en la esfera jurídica de los particulares.
+Las disposiciones de este Título son aplicables a los actos a través de los cuales se realiza la función administrativa estatal, municipal o de los órganos constitucionales autónomos, cuando dichos actos produzcan efectos en la esfera jurídica de los particulares.
 
 ###### ARTÍCULO 15.
 
@@ -235,7 +243,7 @@ V.- Abstenerse de requerir documentos o solicitar información que no sean exigi
 
 VI.- Proporcionarles información y orientar acerca de los requisitos jurídicos o técnicos que las disposiciones legales y vigentes impongan a los proyectos, actuaciones o solicitudes que se propongan realizar;
 
-VIl.- Permitirles el acceso a sus registros y archivos en los términos previstos en este ordenamiento, la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango y otros ordenamientos legales;
+VII.- Permitirles el acceso a sus registros y archivos en los términos previstos en este ordenamiento, la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango y otros ordenamientos legales;
 
 VIII.- Tratar con respeto a los particulares y facilitar el ejercicio de sus derechos y el cumplimiento de sus obligaciones; y
 
@@ -917,7 +925,9 @@ II.- El demandado. Tendrá ese carácter:
 
 a). La autoridad que dicte, ordene, ejecute o trate de ejecutar el acto impugnado, o que omita dar respuesta a las peticiones o instancias de los particulares;
 
-b). La persona o institución que funja como autoridad administrativa o fiscal en el ámbito estatal o municipal o en los Organismos Públicos Descentralizados, que dicte, ordene, ejecute o trate de ejecutar el acto o resolución impugnados; y
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+b). La persona o institución que funja como autoridad administrativa o fiscal en el ámbito estatal o municipal, o en los órganos constitucionales autónomos, que dicte, ordene, ejecute o trate de ejecutar el acto o resolución impugnados; y
 
 c). El particular a quien favorezca la resolución cuya modificación o nulidad demande la autoridad administrativa, estatal o municipal.
 
@@ -1053,7 +1063,9 @@ La demanda deberá formularse por escrito y presentarse directamente ante la Sal
 
 I.- Cuando se impugne la Negativa Ficta o se demande la declarativa de configuración de la Positiva Ficta, el interesado podrá presentar la demanda en cualquier tiempo, mientras no se notifique la resolución expresa y siempre que haya transcurrido el término previsto en la disposición legal aplicable, para que la autoridad dicte resolución, o a falta de éste, después de treinta días naturales contados a partir de la fecha en que se hizo la petición;
 
-II.- En el juicio de responsabilidad patrimonial objetiva y directa reclamada al Estado, a los Municipios o a sus Organismos Públicos Descentralizados, la demanda deberá interponerse dentro de los tres meses siguientes a la fecha en que se originó la causa de responsabilidad;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+II.- En el juicio de responsabilidad patrimonial objetiva y directa reclamada al Estado, a los Municipios, o a los órganos constitucionales autónomos, la demanda deberá interponerse dentro de los tres meses siguientes a la fecha en que se originó la causa de responsabilidad;
 
 III.- En el juicio de lesividad, las autoridades para ejercitar su acción, gozarán del término de un año, siguiente a la fecha en que sea emitida la resolución que pretenden nulificar, salvo que haya producido efectos de tracto sucesivo, caso en que se podrá demandar la nulidad en cualquier época, sin exceder de un año a partir del último efecto;
 
@@ -1079,7 +1091,7 @@ V.- El nombre y domicilio del particular demandado y la resolución cuya modific
 
 VI.- La manifestación bajo protesta de decir verdad, de los hechos que constituyen los antecedentes del acto impugnado y de la fecha en que fue notificado, o se tuvo conocimiento de él o de su ejecución;
 
-VIl.- La expresión de los conceptos de nulidad e invalidez en que se funde la pretensión;
+VII.- La expresión de los conceptos de nulidad e invalidez en que se funde la pretensión;
 
 VIII.- Las pretensiones que se deducen;
 
@@ -1199,7 +1211,7 @@ Las autoridades podrán enviar su contestación de demanda mediante correo certi
 
 ###### ARTÍCULO 148.
 
-EI tercero que tenga un derecho incompatible con la pretensión del actor, dentro de los quince días siguientes a aquel en que se corra traslado de la demanda, podrá comparecer al juicio mediante escrito que contendrá los requisitos de la contestación de la demanda. Transcurrido el plazo, podrá apersonarse a juicio a más tardar en la audiencia, formulando alegatos y presentando pruebas.
+El tercero que tenga un derecho incompatible con la pretensión del actor, dentro de los quince días siguientes a aquel en que se corra traslado de la demanda, podrá comparecer al juicio mediante escrito que contendrá los requisitos de la contestación de la demanda. Transcurrido el plazo, podrá apersonarse a juicio a más tardar en la audiencia, formulando alegatos y presentando pruebas.
 
 Deberá adjuntar a su escrito el documento con el que acredite su personalidad, cuando no gestione en nombre propio o en el que conste que le fue reconocida por la autoridad demandada.
 
@@ -1365,7 +1377,7 @@ V.- Que no afecten los intereses del actor;
 
 VI.- Que se hayan consentido expresamente por el actor, mediante manifestaciones escritas de carácter indubitable;
 
-VIl.- Que se hayan consentido tácitamente, entendiéndose por tales aquellos contra los que no se promueva algún recurso o juicio contencioso administrativo en los plazos señalados por esta ley;
+VII.- Que se hayan consentido tácitamente, entendiéndose por tales aquellos contra los que no se promueva algún recurso o juicio contencioso administrativo en los plazos señalados por esta ley;
 
 VIII.- Que hayan sido materia de sentencia pronunciada por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, siempre que hubiere identidad de las partes y se trate del mismo acto impugnado, aunque los conceptos de impugnación sean diversos;
 
@@ -1379,7 +1391,7 @@ XI.- Que no existan, cuando de las constancias de autos apareciera claramente es
 
 XII.- Que no puedan surtir efecto alguno, legal o materialmente, por haber dejado de existir el objeto o materia del mismo;
 
-Xlll.- Consumados de manera irreparable;
+XIII.- Consumados de manera irreparable;
 
 XIV.- De emisión de reglamentos;
 
@@ -1511,7 +1523,7 @@ VI. Cuando figuren como parte en un juicio similar, pendiente de resolución por
 
 VII. Cuando estén en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas;
 
-VIIl. Por haber emitido la resolución o instruido el procedimiento combatido;
+VIII. Por haber emitido la resolución o instruido el procedimiento combatido;
 
 IX. Asistir durante la tramitación del asunto a convite que le diere o costeare alguno de los interesados;
 
@@ -1797,13 +1809,17 @@ Si dentro del término a que se refiere el artículo anterior, la autoridad no c
 
 Cuando no exista superior jerárquico, el requerimiento se hará directamente a la demandada.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 216.
 
-Si a pesar de los requerimientos y sanciones previstas en el artículo anterior, no se da cumplimiento a la sentencia o su cumplimiento es excesivo o defectuoso, el Presidente a petición de parte, podrá solicitar al superior jerárquico la destitución del servidor público responsable del incumplimiento, excepto de aquellos contemplados en los artículos 118 y 119 de la Constitución Política del Estado Libre y Soberano de Durango.
+Si a pesar de los requerimientos y sanciones previstas en el artículo anterior, no se da cumplimiento a la sentencia o su cumplimiento es excesivo o defectuoso, el Presidente a petición de parte, podrá solicitar al superior jerárquico la destitución del servidor público responsable del incumplimiento, excepto de aquellos contemplados en los artículos 176 y 177 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 217.
 
-Si la autoridad demandada es uno de los servidores públicos previstos en el artículo 119 de la Constitución Política del Estado Libre y Soberano de Durango, el Presidente acompañando las constancias respectivas lo hará del conocimiento del Ministerio Publico para que previo el cumplimiento de los requisitos para el ejercicio de la acción penal formule el pedimento de declaración de procedencia ante el Honorable Congreso del Estado, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+Si la autoridad demandada es uno de los servidores públicos previstos en el artículo 176 de la Constitución Política del Estado Libre y Soberano de Durango, el Presidente acompañando las constancias respectivas lo hará del conocimiento del Ministerio Público para que previo el cumplimiento de los requisitos para el ejercicio de la acción penal formule el pedimento de declaración de procedencia ante el Honorable Congreso del Estado, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
 ###### ARTÍCULO 218.
 
@@ -1949,9 +1965,11 @@ La Justicia Fiscal y Administrativa en el Estado de Durango, se impartirá por u
 
 El Tribunal residirá en la Capital del Estado y podrá contar con Salas Regionales, que tengan la ubicación que el Pleno les otorgue.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 235.
 
-El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, dirimirá las controversias de carácter administrativo y fiscal que se susciten entre los particulares y la Administración Pública Estatal y Municipal y Organismos Públicos Descentralizados y conocerá además de las impugnaciones que se promuevan en contra de las resoluciones definitivas que dicten las autoridades mencionadas en aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, conocerá de las controversias que se susciten en relación a la legalidad, interpretación, cumplimiento, procedimientos y resoluciones de naturaleza administrativa y fiscal, que emitan, ejecuten o traten de ejecutar las autoridades de la administración pública del Estado, de los municipios y de los órganos constitucionales autónomos, cuya actuación afecte a los particulares, así como las que surjan entre dos o más entidades públicas, en los términos que determine esta Ley.
 
 ###### ARTÍCULO 236.
 
@@ -1963,19 +1981,31 @@ El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado es
 
 El Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado, será competente para conocer y resolver de los juicios:
 
-I. Que se ventilen por las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa o fiscal que emitan las autoridades Estatales, Municipales y Organismos Públicos Descentralizados cuya actuación afecte la esfera jurídica de los particulares;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-II. Que se presenten contra actos en materia administrativa o fiscal, que configuren negativa ficta de las autoridades del Estado, de los Municipios y de los Organismos Públicos Descentralizados;
+I. Que se ventilen por las controversias que se susciten en relación con la legalidad, interpretación, cumplimiento y efectos de actos, procedimientos y resoluciones de naturaleza administrativa o fiscal que emitan, ejecuten o traten de ejecutar las autoridades de la administración pública del Estado, de los municipios y de los órganos constitucionales autónomos cuya actuación afecte a los particulares, así como las que surjan entre dos o más entidades públicas;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+II. Que se presenten contra actos en materia administrativa o fiscal, que configuren negativa ficta de las autoridades del Estado, de los Municipios y de los órganos constitucionales autónomos;
 
 III. De lesividad, cuando sean promovidos por la autoridad;
 
-IV. En los que se reclame responsabilidad patrimonial, objetiva y directa al Estado, a los Municipios o a sus Organismos Públicos Descentralizados;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-V. Que se interponga en contra de las resoluciones definitivas en materia de responsabilidad administrativa impuestas a los servidores públicos a que se refiere el artículo 116 de la Constitución Política del Estado Libre y Soberano de Durango;
+IV. En los que se reclame responsabilidad patrimonial, objetiva y directa al Estado, a los Municipios o a los órganos constitucionales autónomos;
 
-VI. Que se refieran a la interpretación y cumplimiento de contratos, convenios u otros acuerdos de naturaleza administrativa en que sean parte el Estado, los Municipios y sus Organismos Públicos Descentralizados;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Que se promuevan en materia fiscal con el objeto de que se declare la configuración de la Positiva Ficta en que incurran las autoridades del Estado, del Municipio o de sus Organismos Públicos Descentralizados, cuando esta figura legal se prevea en las leyes aplicables;
+V. Que se interponga en contra de las resoluciones definitivas en materia de responsabilidad administrativa impuestas a los servidores públicos a que se refiere el artículo 175 de la Constitución Política del Estado Libre y Soberano de Durango;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Que se refieran a la interpretación y cumplimiento de contratos, convenios u otros acuerdos de naturaleza administrativa en que sean parte el Estado, los Municipios o los órganos constitucionales autónomos;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Que se promuevan en materia fiscal con el objeto de que se declare la configuración de la Positiva Ficta en que incurran las autoridades del Estado, del Municipio o de los órganos constitucionales autónomos, cuando esta figura legal se prevea en las leyes aplicables;
 
 VIII. Que se inicien en los términos de la fracción I del presente artículo y que se dicten, ordenen, ejecuten o traten de ejecutar por personas o instituciones que funjan como autoridades administrativas o fiscales y cuya actuación afecte la esfera jurídica de los particulares;
 
@@ -2188,3 +2218,9 @@ P.O. 1 DE FEBRERO DE 2015.
 PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
