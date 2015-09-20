@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-109762"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-01"
-last_updated: "2015-09-01"
+last_updated: "2015-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE SEPTIEMBRE DE 2015 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 20 DE SEPTIEMBRE DE 2015.</small>
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 1 de septiembre de 2015.
 
@@ -1153,7 +1153,9 @@ Los Jueces Menores deberán residir en la población designada y no podrán sali
 
 Corresponde a los Jueces Menores:
 
-I. n (sic) materia Penal siempre y cuando los asuntos no correspondan al sistema acusatorio, conocer de los delitos que ocurran dentro de su jurisdicción que tengan una o más de las siguientes sanciones: apercibimiento, caución de no ofender, suspensión de derechos, pena privativa de libertad que no exceda del término medio aritmético de tres años y nueve meses como máximo y multa. No podrán conocer de los delitos de fraude y abuso de confianza, sino en el caso de las cuantías previstas en la fracción II de este artículo.
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+I. En materia Penal siempre y cuando los asuntos no correspondan al sistema acusatorio, conocer de los delitos que ocurran dentro de su jurisdicción que tengan una o más de las siguientes sanciones: apercibimiento, caución de no ofender, suspensión de derechos, pena privativa de libertad que no exceda del término medio aritmético de tres años y nueve meses como máximo y multa. No podrán conocer de los delitos de fraude y abuso de confianza, sino en el caso de las cuantías previstas en la fracción II de este artículo.
 
 Conocer siempre y cuando los asuntos no correspondan al sistema acusatorio, de delitos culposos cometidos con motivo del tránsito de vehículos que causen lesiones o daño en las cosas, o ambas, siempre que el imputado no se encontrare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares;
 
@@ -1205,7 +1207,9 @@ I. En materia Penal del sistema tradicional, conocer de los delitos que ocurran 
 
 II. Conocer preventivamente dentro del sistema penal tradicional, de los demás delitos cuando hubiere detenido; una vez desahogadas las primeras diligencias y resuelta la situación jurídica, remitirán lo actuado al Juez competente;
 
-III. En materia civil, conocer de todos los asuntos cuyo interés no exceda de treinta días e (sic) salario mínimo general en la zona económica de su ubicación;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+III. En materia civil, conocer de todos los asuntos cuyo interés no exceda de treinta días de salario mínimo general en la zona económica de su ubicación;
 
 IV. En materia familiar, conocer en jurisdicción voluntaria respecto del domicilio y la dependencia económica de las personas;
 
@@ -1305,19 +1309,33 @@ El perito es un auxiliar de la actividad de la impartición de justicia que pose
 
 Para ser perito se requiere:
 
-- Ser ciudadana o ciudadano mexicano;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-- Ser de notoria honradez y conducta ética;
+I.- Ser ciudadana o ciudadano mexicano;
 
-- No haber sido condenado por delito doloso, ni tener la calidad de imputado, procesado o acusado, con motivo de un delito de la misma naturaleza;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-- Tener conocimiento en la profesión, ciencia, técnica, arte u oficio sobre la que vaya a versar la peritación;
+II.- Ser de notoria honradez y conducta ética;
 
-- Contar con título debidamente registrado y cédula profesional en los casos que la profesión, ciencia, técnica, arte u oficio requieren título para ejercerla de acuerdo con la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-- Pertenecer preferentemente, a cualquiera de los Colegios o Asociaciones de profesionistas, en caso de que en la localidad se encuentren legalmente constituidos, acreditando su certificación; y
+III.- No haber sido condenado por delito doloso, ni tener la calidad de imputado, procesado o acusado, con motivo de un delito de la misma naturaleza;
 
-VII. (SIC) Contar con la certificación para desempeñarse como perito, que acredite que posee los conocimientos y habilidades para la rama o especialidad para la cual desea registrarse, la cual deberá ser expedida por institución autorizada para ello; o comprobar la actualización de sus conocimientos técnicos a través de respaldos académicos o capacitación recibida, o en su caso comprobar la actualización de respaldos académicos, debiendo además acreditar contar con experiencia mínima de 5 años en la rama o especialidad para el cual se solicita el registro.
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+IV.- Tener conocimiento en la profesión, ciencia, técnica, arte u oficio sobre la que vaya a versar la peritación;
+
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+V.- Contar con título debidamente registrado y cédula profesional en los casos que la profesión, ciencia, técnica, arte u oficio requieren título para ejercerla de acuerdo con la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur;
+
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VI.- Pertenecer preferentemente, a cualquiera de los Colegios o Asociaciones de profesionistas, en caso de que en la localidad se encuentren legalmente constituidos, acreditando su certificación; y
+
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VII.- Contar con la certificación para desempeñarse como perito, que acredite que posee los conocimientos y habilidades para la rama o especialidad para la cual desea registrarse, la cual deberá ser expedida por institución autorizada para ello; o comprobar la actualización de sus conocimientos técnicos a través de respaldos académicos o capacitación recibida, o en su caso comprobar la actualización de respaldos académicos, debiendo además acreditar contar con experiencia mínima de 5 años en la rama o especialidad para el cual se solicita el registro.
 
 En el caso del requisito a que se refiere la fracción I del presente Artículo, podrá dispensarse en los casos que el Pleno así lo acuerde.
 
@@ -1351,7 +1369,9 @@ En los asuntos penales, Los honorarios de los peritos designados por el órgano 
 
 Para los efectos de esta Ley, los peritos se clasifican en las siguientes ramas, con sus respectivas especialidades, en su caso:
 
-- Profesional en:
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+I. Profesional en:
 
 a) Ingenierías;
 
@@ -1389,7 +1409,7 @@ p) Trabajo Social; y
 
 q) Las demás que considere el Tribunal Pleno.
 
-II (SIC). Ciencia en:
+II. Ciencia en:
 
 a) Balística;
 
@@ -1469,7 +1489,9 @@ VI. Elaborar por lo menos una vez al año un peritaje gratuito para las partes c
 
 Abstenerse de entrevistarse con las partes, salvo que el peritaje lo requiera, para evitar algún acto que pudiera ser considerado a favor de alguna de ellas;
 
-II. (SIC) Exhibir recibo de honorarios con los requisitos fiscales correspondientes para que les sean cubiertos;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Exhibir recibo de honorarios con los requisitos fiscales correspondientes para que les sean cubiertos;
 
 VIII. Acreditar su actualización en los conocimientos para ofrecer servicios profesionales de alta calidad;
 
@@ -1477,11 +1499,17 @@ IX. Acudir ante el Órgano Jurisdiccional y participar en las audiencias a las q
 
 X. Excusarse de su función cuando tenga alguno de los impedimentos establecidos en el artículo 100 de la presente Ley;
 
-- Guardar secreto de los asuntos que con motivo de sus actividades tenga conocimiento;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-- Conservar los requisitos exigidos para su autorización como perito; y
+XI. Guardar secreto de los asuntos que con motivo de sus actividades tenga conocimiento;
 
-- Conducirse con verdad ante toda clase de informes, dictámenes o audiencias en las que intervengan.
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Conservar los requisitos exigidos para su autorización como perito; y
+
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Conducirse con verdad ante toda clase de informes, dictámenes o audiencias en las que intervengan.
 
 ###### Artículo 100.
 
@@ -1501,15 +1529,25 @@ V. Ser servidor público del Poder Judicial del Estado.
 
 Son faltas de los peritos y auxiliares, además de las previstas en el título octavo de la presente Ley, las siguientes:
 
-- Incumplir las actividades que le son encomendadas dentro del plazo concedido;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-- Provocar el retraso innecesario de procedimientos en los que se solicite su participación;
+I. Incumplir las actividades que le son encomendadas dentro del plazo concedido;
 
-- Incumplir con el servicio social a que se refiere esta Ley y su Reglamento;
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-- Ostentarse como miembro del Poder Judicial; y
+II. Provocar el retraso innecesario de procedimientos en los que se solicite su participación;
 
-- Las demás que prevén las Leyes, o determine el Tribunal Pleno mediante Acuerdo que se haga del conocimiento general.
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+III. Incumplir con el servicio social a que se refiere esta Ley y su Reglamento;
+
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Ostentarse como miembro del Poder Judicial; y
+
+> <small>(F. DE E., B.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+V. Las demás que prevén las Leyes, o determine el Tribunal Pleno mediante Acuerdo que se haga del conocimiento general.
 
 ###### Artículo 102.
 
