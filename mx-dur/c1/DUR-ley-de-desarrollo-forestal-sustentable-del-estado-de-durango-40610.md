@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-forestal-sustentable-del-estado-de-durango-40
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-13"
-last_updated: "2004-06-13"
+last_updated: "2015-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de junio de 2004.
 
@@ -49,23 +49,45 @@ La presente Ley es de orden público, interés social y observancia general en e
 
 La presente Ley tiene por objeto:
 
-I. Normar e implementar la política forestal del Estado, promoviendo la coordinación entre los distintos órdenes de gobierno y la concertación con los sectores social y privado para lograr el desarrollo sustentable de los recursos forestales y sus asociados;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-II. Respetar el derecho al uso y disfrute de los recursos forestales de los lugares que ocupan y habitan las comunidades indígenas, en los términos del artículo 2, apartado A, fracción VI de la Constitución Política de los Estados Unidos Mexicanos y artículo 2, apartado A, fracción VI de la Constitución Política del Estado Libre y Soberano de Durango, así como demás ordenamientos aplicables;
+I. Fomentar la actividad forestal en los términos del artículo 40 de la Constitución Política del Estado Libre y Soberano de Durango;
 
-III. Elaborar, coordinar y aplicar los programas relativos al sector forestal de la entidad, con proyección sexenal y con visión de largo plazo, vinculándolos con los programas nacionales y regionales, así como con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Impulsar la silvicultura y el aprovechamiento sustentable de los recursos forestales mediante el manejo integral y el concepto de cuencas hidrológicas, para asegurar los bienes y servicios suficientes y elevar la calidad de vida de los habitantes de los bosques y las zonas áridas;
+II. Normar e implementar la política forestal del Estado, promoviendo la coordinación entre los distintos órdenes de gobierno y la concertación con los sectores social y privado para lograr el desarrollo sustentable de los recursos forestales y sus asociados;
 
-V. Recuperar y fomentar el potencial productivo de los recursos forestales mediante las labores de protección, restauración y conservación, propiciar en la sociedad la cultura forestal, el desarrollo tecnológico y la investigación forestal;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Promover los bienes y servicios ambientales para contribuir a la fijación de carbono, la protección y conservación de los recursos hídricos y mantener la biodiversidad y belleza escénica de los ecosistemas forestales;.
+III. Respetar el derecho al uso y disfrute de los recursos forestales de los lugares que ocupan y habitan las comunidades indígenas, en los términos del artículo 2, apartado A, fracción VI de la Constitución Política de los Estados Unidos Mexicanos y los artículos 39 y 42 de la Constitución Política del Estado Libre y Soberano de Durango, así como demás ordenamientos aplicables;
 
-VII. Crear las condiciones para la capitalización y modernización del sector forestal de la entidad, propiciando la productividad en toda la cadena productiva forestal, a fin de asegurar una oferta de productos con el máximo valor agregado que contribuya a generar fuentes de empleo sin deterioro de la conservación de los recursos naturales;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Estimular las certificaciones forestales y de bienes y servicios ambientales; y
+IV. Elaborar, coordinar y aplicar los programas relativos al sector forestal de la entidad, con proyección sexenal y con visión de largo plazo, vinculándolos con los programas nacionales y regionales, así como con el Plan Estatal de Desarrollo;
 
-IX. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda la Ley General de Desarrollo Forestal Sustentable u otros ordenamientos.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+V. Impulsar la silvicultura y el aprovechamiento sustentable de los recursos forestales mediante el manejo integral y el concepto de cuencas hidrológicas, para asegurar los bienes y servicios suficientes y elevar la calidad de vida de los habitantes de los bosques y las zonas áridas;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Recuperar y fomentar el potencial productivo de los recursos forestales mediante las labores de protección, restauración y conservación, propiciar en la sociedad la cultura forestal, el desarrollo tecnológico y la investigación forestal;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Promover los bienes y servicios ambientales para contribuir a la fijación de carbono, la protección y conservación de los recursos hídricos y mantener la biodiversidad y belleza escénica de los ecosistemas forestales;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Crear las condiciones para la capitalización y modernización del sector forestal de la entidad, propiciando la productividad en toda la cadena productiva forestal, a fin de asegurar una oferta de productos con el máximo valor agregado que contribuya a generar fuentes de empleo sin deterioro de la conservación de los recursos naturales;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Estimular las certificaciones forestales y de bienes y servicios ambientales, y
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+X. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda la Ley General de Desarrollo Forestal Sustentable u otros ordenamientos.
 
 ###### ARTÍCULO 3.
 
@@ -87,7 +109,9 @@ I. La Ley General de Desarrollo Forestal Sustentable;
 
 II. La Ley General del Equilibrio Ecológico y Protección al Ambiente; y
 
-III. La Ley Estatal de Equilibrio Ecológico y Protección al Ambiente.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+III. La Ley de Gestión Ambiental Sustentable para el Estado de Durango.
 
 ### CAPÍTULO II. DE LAS DEFINICIONES
 
@@ -183,6 +207,8 @@ La aplicación de la presente Ley corresponderá al Ejecutivo Estatal por conduc
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DEL ESTADO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS, PUBLICADO EN EL P.O. DE 20 DE SEPTIEMBRE DE 2015, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE VEINTIOCHO A VEINTISIETE FRACCIONES.</small>
+
 ###### ARTÍCULO 12.
 
 Corresponde al Estado, a través de la Secretaría y de conformidad con lo dispuesto en la presente Ley, las siguientes atribuciones:
@@ -201,7 +227,9 @@ VI. Impulsar, en el ámbito de su jurisdicción, el establecimiento de sistemas 
 
 VII. Elaborar, monitorear y mantener actualizado el Inventario Estatal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Nacional Forestal y de Suelos;
 
-VIII. Llevar a cabo la zonificación estatal, bajo el concepto de cuencas y las unidades de manejo forestal;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Llevar a cabo la zonificación estatal, de acuerdo a los lineamientos que marca la Ley General;
 
 IX. Promover, integrar y operar el Consejo Estatal Forestal y de Suelos;
 
@@ -243,25 +271,41 @@ XXVII. Realizar, de conformidad con los acuerdos y convenios que se celebren con
 
 XXVIII. De conformidad con los acuerdos y convenios que se celebren con la Federación, expedir Las autorizaciones para el aprovechamiento de los recursos forestales, de las plantaciones forestales comerciales y por excepción las autorizaciones de cambio de uso del suelo de los terrenos forestales;
 
-XXIX. Regular el transporte de materias primas, productos y subproductos forestales;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-XXX. Otorgar, prorrogar, modificar, revocar, suspender o anular todos los permisos, autorizaciones, certificados y licencias, así como recibir los avisos de plantaciones forestales comerciales y para el aprovechamiento de recursos forestales no maderables;
+XXIX. Otorgar, prorrogar, modificar, revocar, suspender o anular todos los permisos, autorizaciones, certificados y licencias, así como recibir los avisos de plantaciones forestales comerciales y para el aprovechamiento de recursos forestales no maderables;
 
-XXXI. Ejercer todos los actos de autoridad relativos a la aplicación de la política de aprovechamiento sustentable, conservación, protección y restauración de los recursos forestales y de los suelos que esta Ley provea;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-XXXII. Imponer medidas de seguridad y sancionar las infracciones que se cometan en materia forestal, así como hacer del conocimiento y en su caso denunciar los delitos en la materia forestal a las autoridades competentes;
+XXX. Ejercer todos los actos de autoridad relativos a la aplicación de la política de aprovechamiento sustentable, conservación, protección y restauración de los recursos forestales y de los suelos que esta Ley provea;
 
-XXXIII. Apoyar a los municipios en la integración de la normatividad que tenga por objeto, expedir los permisos o licencias para el establecimiento de los almacenes y centros de transformación de materias primas forestales, productos y subproductos forestales;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-XXXIV. Elaborar estudios, para en su caso, recomendar al Ejecutivo Federal, a través de la Secretaría, el establecimiento, modificación o levantamiento de vedas;
+XXXI. Imponer medidas de seguridad y sancionar las infracciones que se cometan en materia forestal, así como hacer del conocimiento y en su caso denunciar los delitos en la materia forestal a las autoridades competentes;
 
-XXXV. Hacer del conocimiento de las autoridades competentes, los delitos en materia forestal que pudieran configurarse;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-XXXVI. Elaborar estudios, para en su caso, recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio;
+XXXII. Apoyar a los municipios en la integración de la normatividad que tenga por objeto, expedir los permisos o licencias para el establecimiento de los almacenes y centros de transformación de materias primas forestales, productos y subproductos forestales;
 
-XXXVII. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la política nacional forestal; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-XXXVIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos que no estén expresamente otorgados a la Federación o a los municipios.
+XXXIII. Elaborar estudios, para en su caso, recomendar al Ejecutivo Federal, a través de la Secretaría, el establecimiento, modificación o levantamiento de vedas;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+XXXIV. Hacer del conocimiento de las autoridades competentes, los delitos en materia forestal que pudieran configurarse;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+XXXV. Elaborar estudios, para en su caso, recomendar a la Federación el establecimiento de restricciones a la forestación y reforestación en su territorio;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVI. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta Ley y la política nacional forestal, y
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos que no estén expresamente otorgados a la Federación o a los municipios.
 
 #### SECCIÓN TERCERA. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -281,7 +325,9 @@ V. Participar en el ámbito de sus atribuciones, en el establecimiento de sistem
 
 VI. Coadyuvar con el Estado, en la realización y actualización del Inventario Estatal Forestal y de Suelos;
 
-VII. Participar, en coordinación con el Estado, en la zonificación estatal bajo el concepto de cuencas y las unidades de manejo forestal;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Participar, en coordinación con el Estado y la Federación, en la zonificación forestal, de acuerdo a lo establecido en esta Ley y en la Ley General;
 
 VIII. Promover programas y proyectos de educación, capacitación, investigación y cultura forestal;
 
@@ -343,7 +389,9 @@ II. La elaboración, aplicación y seguimiento del Programa Sectorial en Materia
 
 III. El establecimiento de un sistema de ventanilla única donde se dé atención a los diferentes sectores de población en asuntos relacionados con los diversos programas del sector forestal.
 
-Los programas estratégicos de largo plazo, institucionales, regionales y, en su caso, especiales, deberán ser revisados y actualizados cada dos años.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Los programas institucionales, regionales y, en su caso, especiales, deberán ser revisados y actualizados en términos de lo establecido en la Ley de Planeación del Estado de Durango. Los programas estratégicos de largo plazo, se revisarán y actualizarán cada dos años.
 
 ###### ARTÍCULO 16.
 
@@ -401,9 +449,7 @@ En congruencia con el Inventario Nacional Forestal y de Suelos, la Secretaría e
 
 I. La superficie y localización a nivel regional y municipal de terrenos forestales o de aptitud preferentemente forestal y temporalmente forestales, que se sitúan en el territorio estatal, con el propósito de integrar su información estadística y elaborar su cartografía, en sus distintos niveles de ordenación y manejo;
 
-II. Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas
-
-naturales protegidas;
+II. Los tipos de vegetación forestal y de suelos, su localización, formaciones y clases, con tendencias y proyecciones que permitan clasificar y delimitar el estado actual de la degradación, así como las zonas de conservación, protección, restauración y producción forestal, en relación con las cuencas hidrológicas-forestales, las regiones ecológicas, las áreas forestales permanentes y las áreas naturales protegidas;
 
 III. La dinámica de cambio de la vegetación forestal del Estado, que permita conocer y evaluar las tasas de deforestación y las tasas de degradación y disturbio, registrando sus causas principales;
 
@@ -445,9 +491,11 @@ La Secretaría, con la participación de los municipios y en su caso, con los de
 
 #### SECCIÓN CUARTA. DE LA ZONIFICACIÓN FORESTAL
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 26.
 
-Con base al inventario forestal y de suelos y tomando en cuenta el ordenamiento ecológico del territorio, la Secretaría, en coordinación con la ONAFOR, llevará a cabo la zonificación forestal, instrumento mediante el cual se identifican, agrupan y ordenan terrenos forestales y preferentemente forestales dentro de las cuencas, subcuencas y microcuencas hidrológico-forestales, donde se incluyan las actividades biológicas, ambientales y socioeconómicas con el objeto de facilitar su administración y aplicación de políticas enmarcadas en el Programa Sectorial.
+Con base al inventario forestal y de suelos y tomando en cuenta el ordenamiento ecológico del territorio, la Secretaría, en coordinación con las autoridades competentes, llevará a cabo la zonificación forestal, instrumento mediante el cual se identifican, agrupan y ordenan terrenos forestales y preferentemente forestales dentro de las cuencas, subcuencas y microcuencas hidrológico-forestales, donde se incluyan las actividades biológicas, ambientales y socioeconómicas con el objeto de facilitar su administración y aplicación de políticas enmarcadas en el Programa Sectorial.
 
 ###### ARTÍCULO 27.
 
@@ -483,9 +531,11 @@ IX. Las autorizaciones de funcionamiento e instalación de centros de almacenami
 
 X. Los demás actos y documentos que se señalen en el reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 29.
 
-Es obligatorio proporcionar a todo solicitante la información que se encuentre registrada en el Sistema Estatal de Información Forestal, Inventario Forestal y de Suelos, Zonificación Forestal y en el Registro Forestal Estatal, sin más exigencia que su previa identificación y el pago de los derechos que correspondan, en los términos de las disposiciones legales aplicables en esta Ley y en la Ley de Acceso a la Información Pública del Estado de Durango.
+Las autoridades locales en materia forestal, deberán poner a disposición de todo solicitante, la información forestal pública con que cuenten, en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango.
 
 ## TÍTULO CUARTO. DEL MANEJO Y APROVECHAMIENTO SUSTENTABLE DE LOS RECURSOS FORESTALES
 
@@ -777,6 +827,16 @@ La Secretaría de Finanzas y de Administración y la Secretaría diseñarán, pr
 
 La Secretaría promoverá y difundirá a nivel regional y local, las medidas, programas e instrumentos económicos a que se refiere este Capitulo, con el propósito que se canalicen de manera oportuna a los interesados. De igual forma, deberá establecer los mecanismos de asesoría necesarios.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Las medidas, programas e instrumentos económicos a que se refiere este artículo, se otorgaran preferentemente, a los:
+
+I. Propietarios o poseedores de terrenos forestales que durante cinco años hayan adoptado y aplicado todos los programas de prevención y combate de incendios forestales, así como, los referentes al control de plagas y sanidad forestal establecidos por la Secretaría;
+
+II. Miembros de comunidades y pueblos indígenas que realicen actividades de aprovechamiento, así como de restauración de recursos forestales, y
+
+III. Propietarios o poseedores de predios forestales que realicen acciones de forestación y reforestación conforme a lo establecido en el programa estatal.
+
 #### SECCIÓN SEGUNDA. DEL FONDO FORESTAL ESTATAL
 
 ###### ARTÍCULO 69.
@@ -840,6 +900,10 @@ La Secretaría, conjuntamente con la Secretaría de Comunicaciones y Obras Públ
 ###### ARTÍCULO 74.
 
 La Secretaría, con el propósito de coadyuvar en el desarrollo industrial de la entidad, promoverá programas de apoyo a los dueños de los terrenos forestales y del sector privado tendientes a la modernización industrial y a la constitución de asociaciones en participación entre productores y el sector privado así como para el otorgamiento de incentivos de carácter económico y fiscal, en coordinación con las dependencias federales y estatales con ingerencia en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+En la elaboración de los programas y el desarrollo de incentivos de carácter económico e industrial, se considerarán las propuestas del Comité de Planeación para el Desarrollo del Estado, ayuntamientos, dependencias, institutos, sectores productivo e industrial, así como las instituciones de educación superior.
 
 ### CAPÍTULO IV. DE LA CULTURA, EDUCACIÓN, CAPACITACIÓN E INVESTIGACIÓN FORESTAL
 
@@ -955,9 +1019,11 @@ La Secretaría, por conducto del personal autorizado, realizará las visitas de 
 
 Los propietarios y poseedores de terrenos forestales o de aptitud preferentemente forestal, los titulares de autorizaciones de aprovechamiento de recursos forestales maderables, quienes realicen actividades de forestación y de reforestación, así como las personas que transporten, almacenen, transformen o comercialicen materias primas forestales, deberán dar facilidades al personal autorizado de la Secretaría, para la realización de visitas u operativos de inspección. En caso contrario, se aplicarán las medidas de seguridad y sanciones previstas en la presente Ley y en las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 86.
 
-La Secretaría deberá observar en el desarrollo de los procedimientos de inspección, las formalidades que para la materia se señalan en el reglamento de esta Ley y el Código de Justicia Administrativa del Estado de Durango.
+La Secretaría deberá observar en el desarrollo de los procedimientos de inspección, las formalidades que para la materia se señalan en el reglamento de esta Ley y la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
 ### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
@@ -1123,9 +1189,11 @@ Son responsables mancomunados de las infracciones, quienes intervienen en su pre
 
 ### CAPÍTULO VI. DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 101.
 
-En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento y normas oficiales mexicanas, se estará a lo dispuesto por el Código de Justicia Administrativa del Estado de Durango.
+En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su reglamento y normas oficiales mexicanas, se estará a lo dispuesto por la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
 
 TRANSITORIOS:
 
@@ -1184,3 +1252,15 @@ LIC. ANGEL SERGIO GUERRERO MIER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
