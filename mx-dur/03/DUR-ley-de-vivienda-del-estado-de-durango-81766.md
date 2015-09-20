@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-vivienda-del-estado-de-durango-81766"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-22"
-last_updated: "2012-07-15"
+last_updated: "2015-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE VIVIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 22 de mayo de 2011.
 
@@ -57,15 +57,21 @@ LEY DE VIVIENDA DEL ESTADO DE DURANGO
 
 Objeto de la Ley y Declaratoria de Orden Público e Interés Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente ley es reglamentaria del artículo 3° de la Constitución Política del Estado Libre y Soberano de Durango en materia de Vivienda. Sus disposiciones son de orden público e interés social y tienen por objeto lo siguiente:
+La presente Ley es reglamentaria del artículo 25° de la Constitución Política del Estado Libre y Soberano de Durango en materia de Vivienda. Sus disposiciones son de orden público e interés social y tienen por objeto lo siguiente:
 
-I. Establecer y regular la política de vivienda y las acciones habitacionales del Gobierno del Estado de Durango en congruencia con las diversas disposiciones económicas, sociales y urbanas para el desarrollo integral y sustentable del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+I.- Sentar las bases para la planeación, construcción y ejecución de políticas públicas estatales de vivienda, así como la estructuración de programas y acciones habitacionales dentro de las respectivas competencias de los gobiernos estatales, y municipales, para el desarrollo integral y sustentable del Estado en materia de vivienda;
 
 II. Definir los lineamientos generales de la política de vivienda, así como de sus programas, instrumentos y apoyos para la producción de vivienda en la entidad, que garanticen que toda familia pueda contar con una vivienda digna y decorosa;
 
-III. Regular y promover las acciones de los sectores público, privado y social dirigidas a garantizar el derecho a una vivienda adecuada, digna y decorosa para todas las familias;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+III.- Fomentar la participación de los sectores público, privado y social para la producción, mejora, financiamiento de la vivienda digna, adecuada y decorosa para todos los duranguenses;
 
 IV. Establecer los criterios de protección y apoyo para la población en situación de pobreza, riesgo o vulnerabilidad, así como al (sic) apoyo a la producción social de vivienda en el Estado, y
 
@@ -83,15 +89,67 @@ Principios Generales
 
 La vivienda es un factor prioritario para el desarrollo económico y un elemento básico para el bienestar de los habitantes del Estado de Durango, esta ley reconoce el derecho universal a una vivienda adecuada, digna y decorosa.
 
-Las disposiciones de la presente Ley y sus disposiciones reglamentarias deberán aplicarse bajo los principios de equidad, inclusión social y no discriminación que permitan a todos los habitantes del Estado, sin importar su origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, religión, situación migratoria, opinión o estado civil; disfrutar del derecho a una vivienda digna y decorosa, entendiéndose por ésta: el lugar seguro, salubre y habitable; que cumpla con las disposiciones jurídicas y normativas aplicables en materia de asentamientos humanos y construcción; contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos; que permita el disfrute de la intimidad y la integración económica, cultural, social y urbana; y sobre la cual sus ocupantes tengan la seguridad jurídica de su propiedad o legítima posesión.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
-Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, así como a desincentivar el fraccionamiento ilegal, así como, el despojo de bienes inmuebles y al crecimiento irregular de las ciudades.
+Las disposiciones de la presente Ley y sus reglamentos, deberán aplicarse bajo los principios de equidad, inclusión social, no discriminación y con perspectiva de género, de manera que toda persona sin importar su origen étnico, edad, discapacidad, condición social, estado de salud, religión, opiniones, preferencia sexual, o estado civil, o cualquier otra pueda disfrutar del derecho a una vivienda digna y decorosa, entendiéndose por ésta: el lugar seguro, salubre y habitable; que cumpla con las disposiciones jurídicas y normativas aplicables en materia de asentamientos humanos y construcción; contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos; que permita el disfrute de la intimidad y la integración económica, cultural, social y urbana; y sobre la cual sus ocupantes tengan la seguridad jurídica de su propiedad o legítima posesión.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y protección jurídica a la legítima tenencia, y se orientarán a desincentivar el fraccionamiento ilegal, y el despojo de bienes inmuebles, propiciando además la erradicación del crecimiento irregular de las ciudades.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Definiciones
+
+Artículo 3 bis. Para los efectos de la presente Ley, se establece el siguiente catálogo de definiciones:
+
+I.- Autoconstrucción de vivienda: Proceso de construcción o edificación de vivienda, realizada directamente por sus beneficiarios, de forma individual, familiar o colectiva;
+
+II.- Autoproducción de vivienda: Al proceso de gestión, uso de suelo, construcción y distribución de vivienda bajo el control directo de los beneficiarios, sea de forma individual o colectiva, la cual puede llevarse a cabo mediante procesos de autoconstrucción;
+
+III.- Comisión Estatal: Comisión Estatal de Suelo y Vivienda de Durango;
+
+IV.- Junta de Gobierno: Autoridad Suprema, de la Comisión Estatal de Suelo y Vivienda de Durango;
+
+V.- Consejo Estatal: Instancia de consulta y asesoría del Ejecutivo del Estado, el cual propondrá el seguimiento de las políticas públicas en lo que respecta al Programa Estatal de Vivienda;
+
+VI.- Desarrollo Urbano Integral Sustentable: Proyecto urbanístico y habitacional de escala regional, que dentro de su planeación y ejecución contempla todos los elementos de carácter ambiental, urbano, económico, financiero, jurídico y social, que garanticen su adecuada y plena inserción al territorio;
+
+VII.- Estímulos: Medidas de carácter jurídico, administrativo, fiscal o financiero que establecerán los diferentes órdenes de gobierno para promover la participación de los sectores social y privado, en la ejecución de las acciones, procesos y programas habitacionales;
+
+VIII.- Mejoramiento de Vivienda: Acciones tendientes a renovar y consolidar las viviendas en deterioro físico o de funcionalidad, ejecutando acciones de ampliación, reparación, reforzamiento estructural o rehabilitación que promueva una vivienda digna y decorosa;
+
+IX.- Política Estatal de Vivienda: Conjunto de acciones, disposiciones, criterios, lineamientos, así como las medidas de carácter general tendientes a construir el proceso habitacional que ejecuten las autoridades del Estado, así como la coordinación con los municipios y su concertación con los sectores público, privado y social, con el fin de cumplir lo preceptuado en la Constitución Política de los Estados Unidos Mexicanos, y la propia del Estado en materia del derecho social a la vivienda;
+
+X.- Privacidad: Ámbito de la vida personal reservada de los individuos, en específico de las familias, desarrollando un espacio en dónde se procure, respete y preserve la intimidad de sus miembros;
+
+XI.- Proceso habitacional: Conjunto de acciones tendientes a la construcción, fomento, distribución, uso y aprovechamiento de viviendas, así como a su equipamiento e infraestructura de los servicios urbanos de las mismas;
+
+XII.- Producción Social de Vivienda: Acción que se realiza bajo el control de autoproductores que operan sin fin de lucro y se orienta primordialmente a atender las necesidades habitacionales de la población de menores ingresos, incluye la que se efectúa a través de procedimientos solidarios que priorizan el valor de uso de la vivienda sobre la definición mercantil, con la mezcla de recursos, procedimientos de construcción, así como el uso de tecnologías tomando como base sus propias necesidades, su capacidad de gestión y la toma de decisiones;
+
+XIII.- Productor Social de Vivienda: Persona física o moral, que en forma individual o colectiva produce viviendas sin fines de lucro;
+
+XIV.- Sector Privado: Persona física o moral que produce bienes o servicios relacionados con la vivienda, para fines preponderantemente de lucro;
+
+XV.- Sector Público: Las dependencias, organismos y entidades de la administración pública central y paraestatal, entre cuyas actividades comprendan el financiamiento y gestión dentro del proceso habitacional a la ordenación del territorio que incluya a la vivienda;
+
+XVI.- Sector Social: Persona física o moral, familia, o agrupación social que, sin tener fines de lucro, realicen acciones o procesos habitacionales en beneficio de las personas de igual o menor ingreso que el requerido para la adquisición de una vivienda;
+
+XVII.- Sistema de Información: Es el Sistema Estatal de Información e Indicadores de Suelo y Vivienda, como el conjunto de datos producidos por los sectores público, social y privado, el cual se organiza bajo una estructura conceptual predeterminada, que permita mostrar la situación de mercado de la vivienda, así como detectar qué efectos se tienen en materia habitacional, respecto a las políticas públicas que se apliquen para atender ésta demanda social;
+
+XVIII.- Subsidio: Lo constituye el apoyo de carácter económico que otorgan las diversas instituciones gubernamentales sean federales, estatales o municipales, a los solicitantes para solventar necesidades habitacionales;
+
+XIX.- Suelo: La porción o porciones de terreno que cuando se cumplan todos los requerimientos legales, instruya la autoridad correspondiente para el uso habitacional; y
+
+XX.- Vivienda en alto riesgo: Inmueble que derivado de sus condiciones de ubicación o deterioro, inseguridad física o social, se encuentre en inminente amenaza de sufrir colapso o siniestro, que ponga en peligro a quienes la habiten.
 
 Principios Generales (sic)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-La Política de Vivienda en el Estado se orientará por los siguientes principios y líneas generales:
+La Política de Vivienda en el Estado se orientará por los siguientes principios, líneas generales y acciones:
 
 I. Reconocimiento de la corresponsabilidad del Estado, en todos sus ámbitos, y la sociedad, en la satisfacción progresiva del derecho a la vivienda que consigna nuestra Constitución Política del Estado Libre y Soberano de Durango;
 
@@ -113,7 +171,9 @@ IX. Fomentar la asesoría y asistencia integral en materia de gestión social, f
 
 X. Destinar recursos a la investigación tecnológica, a la innovación y promoción de sistemas constructivos socialmente apropiados;
 
-XI. Promover y estimular la producción y distribución de materiales y elementos para la construcción de vivienda de carácter innovador, a efecto de reducir costos, y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+XI.- Promover y estimular la producción y distribución de materiales y elementos de carácter innovador y sustentable para la construcción de vivienda, a efecto de reducir costos y preservar el medio ambiente; y
 
 XII. La difusión y la información de los programas públicos de vivienda, con objeto de un mejor conocimiento por los beneficiarios.
 
@@ -193,13 +253,27 @@ XVI. Las demás que le otorgue la presente Ley y otras disposiciones legales apl
 
 Objeto de la Comisión Estatal
 
+> <small>(REFORMADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Comisión Estatal de Suelo y Vivienda
+
 ###### Artículo 9.
 
 Se crea un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, que se denominará Comisión Estatal de Suelo y Vivienda de Durango, sectorizado bajo la coordinación de la Secretaría de Desarrollo Social.
 
+> <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Domicilio
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-El domicilio legal de la Comisión Estatal de Suelo y Vivienda de Durango, será la ciudad de Victoria de Durango, Durango, contando con la facultad previa autorización de la Junta de gobierno para instalar unidades administrativas en otras localidades del Estado, cuando así sea necesario.
+El domicilio legal de la Comisión Estatal de Suelo y Vivienda de Durango, será la ciudad de Victoria de Durango, Durango, contando con la facultad, previa autorización de la Junta de Gobierno, para instalar unidades administrativas en otras localidades del Estado, cuando así sea necesario, atendiéndose además a la disponibilidad de carácter presupuestal con la que se cuente.
+
+> <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Objeto de la Comisión Estatal de Suelo y Vivienda
 
 ###### Artículo 11.
 
@@ -278,6 +352,10 @@ Integración del Órgano de Gobierno de la Comisión Estatal
 ###### Artículo 14.
 
 Para su operación, administración y funcionamiento, la Comisión Estatal de Suelo y Vivienda de Durango contará con una Junta (sic) Gobierno y un Director General, así como con las unidades administrativas necesarias para cumplir con su objeto.
+
+> <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Conformación de la Junta de Gobierno
 
 ###### Artículo 15.
 
@@ -367,17 +445,27 @@ VIII. Proponer a la Junta de Gobierno, las condiciones generales de trabajo de l
 
 IX. Las demás que determine la presente Ley, la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior de la Comisión Estatal de Suelo y Vivienda de Durango, y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Órgano de Vigilancia
+
+Artículo 18 bis. Las funciones de control, evaluación y vigilancia de la gestión pública de la Comisión, estarán a cargo de un órgano de vigilancia integrado por un Comisario Público y su suplente, mismos que serán nombrados por la Secretaría de Contraloría del Estado, el cual participará en las sesiones que se celebren, con derecho a voz pero no a voto.
+
 Régimen Laboral de los Servidores Públicos
 
 ###### Artículo 19.
 
 Los trabajadores de la Comisión Estatal de Suelo y Vivienda de Durango se regirán conforme a lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Órgano de Vigilancia y de Control Interno de la Comisión Estatal
+> <small>(REFORMADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Control Interno de la Comisión Estatal
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-La Comisión Estatal de Suelo y Vivienda de Durango, contará con un órgano de vigilancia que estará integrado por un Comisario Público Propietario y un Suplente, designados por la Secretaría de la Contraloría y Modernización Administrativa. Asimismo, contará con un órgano de control interno que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita dicha dependencia.
+La Comisión Estatal de Suelo y Vivienda de Durango, además del órgano de vigilancia, tendrá un órgano de control interno que será parte integrante de su estructura y desarrollará sus funciones conforme a los lineamientos que emita dicha dependencia.
 
 Órganos Auxiliares
 
@@ -444,6 +532,10 @@ La realización de acciones, obras e inversiones, tanto del Estado como de los m
 El Reglamento de esta Ley determinará los contenidos mínimos, metodología y demás elementos para la formulación, consulta, aprobación, registro y difusión del Programa Estatal de Vivienda, de los programas municipales en la materia, así como del Programa Operativo Anual de Vivienda a cargo de la Comisión Estatal de Suelo y Vivienda de Durango.
 
 ### CAPÍTULO CUARTO. DE LA PROMOCIÓN Y CONCERTACIÓN CON LOS SECTORES SOCIAL Y PRIVADO
+
+> <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Celebración de convenios
 
 ###### Artículo 28.
 
@@ -633,6 +725,10 @@ VI. Ninguna persona podrá regularizar más de un lote o predio, y
 
 VII. No se podrá regularizar lote o predio alguno que exceda de la extensión determinada en el programa de regularización correspondiente.
 
+> <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Regularización territorial
+
 > <small>(ADICIONADO, P.O. 15 DE JULIO DE 2012)</small>
 
 ###### Artículo 47 Bis.
@@ -662,6 +758,10 @@ I. Las áreas o predios deben estar contemplados en el Programa Estatal Sectoria
 II. Las áreas o predios que se incorporen no podrán comprender terrenos de alto valor agropecuario o forestal, dedicados a la preservación o protección ecológica, o que pongan en riesgo a los asentamientos humanos, y
 
 III. Deben contar con los esquemas financieros para su aprovechamiento y para la dotación de infraestructura, equipamiento y servicios urbanos, así como para la construcción de vivienda.
+
+> <small>(ADICIONADO SU ACÁPITE, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Reglamentación
 
 ###### Artículo 51.
 
@@ -775,6 +875,74 @@ Las personas físicas y morales que produzcan o financien acciones habitacionale
 
 En la generación de la información de vivienda deberá promoverse la utilización de los datos catastrales geo-referenciados de los predios o viviendas de que se trate, que permitan su fácil identificación y proceso. La Comisión Estatal de Suelo y Vivienda de Durango promoverá la expedición de los lineamientos en la materia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LAS RESPONSABILIDADES, SANCIONES Y MEDIDAS DE SEGURIDAD
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Competencia para imponer medidas de seguridad
+
+###### Artículo 65.
+
+La Comisión, así como las autoridades municipales en el ámbito de sus respectivas competencias, impondrán las medidas de seguridad y las sanciones de carácter administrativo por las infracciones cometidas a la presente Ley, su reglamentación y a los programas de vivienda vigentes.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Sanción a beneficiarlos
+
+###### Artículo 66.
+
+A quien adquiera una vivienda, de las que rige la presente Ley, fuera de la normatividad y los lineamientos que la misma establece, se le impondrá la sanción que corresponda, y se atenderá si fuera el caso, a las determinaciones de responsabilidades de tipo administrativo, civil o penal.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Prohibición de la transmisión de la propiedad
+
+###### Artículo 67.
+
+No surtirá efectos jurídicos la transmisión de la propiedad de una vivienda de las que se regulan por la presente Ley, si el crédito utilizado está insoluto, y que no haya sido antes aprobado por la Comisión.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Recuperación de la vivienda a favor de la Comisión
+
+###### Artículo 68.
+
+Son causas para la recuperación de las viviendas a favor de la Comisión, mismas que deberán quedar estipuladas en el contrato respectivo, las siguientes:
+
+I.- El incumplimiento por parte del beneficiario en las cláusulas del contrato que al efecto se establezca;
+
+II.- Que el beneficiario no habite de manera personal, ordinaria y directa, la vivienda que se le haya otorgado;
+
+III.- Que se compruebe que el beneficiario, al momento en que se le otorgue la vivienda por parte de la Comisión, cuenta previamente con una vivienda, y que por lo tanto se condujo con falsedad al proporcionar sus datos en la solicitud; y
+
+IV.- Que el beneficiario ceda sus derechos sobre la vivienda a un tercero, sin la autorización de la Comisión.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Negativa de vivienda al beneficiario
+
+###### Artículo 69.
+
+El Gobierno del Estado, a través de la Comisión, no podrá otorgar vivienda, a un beneficiario solicitante, si ya le hubiese sido otorgado una, por cualquier otra vía.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Dolo para recuperación de la vivienda
+
+###### Artículo 70.
+
+Será causa también, de recuperación de la vivienda, por parte de la Comisión, si se llega a demostrar que el beneficiario hizo uso doloso de información falsa, con el propósito de simular su situación económica para acceder a los beneficios y apoyos que otorga la Comisión.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2015)</small>
+
+Responsabilidad de los servidores públicos
+
+###### Artículo 71.
+
+Los servidores públicos que intervengan en los programas de vivienda del Estado, o bien de los municipios, en sus respectivas competencias, que hagan uso indebido de su cargo o posición, para beneficio propio o favorecer a terceros en los que tenga interés por cuestión de parentesco consanguíneo, amistad, o cualquier otro, dentro de los procesos de producción, distribución, construcción de obras de infraestructura, adquisición de vivienda, o en operaciones inmobiliarias, serán sancionados conforme a lo que estipula la Ley de la materia.
+
 ## TRANSITORIOS
 
 Entrada en Vigor
@@ -862,3 +1030,9 @@ P.O. 15 DE JULIO DE 2012.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
