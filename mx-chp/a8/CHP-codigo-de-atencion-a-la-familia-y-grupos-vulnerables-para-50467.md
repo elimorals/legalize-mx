@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-atencion-a-la-familia-y-grupos-vulnerables-para-50467
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-02"
-last_updated: "2015-06-17"
+last_updated: "2015-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -1467,905 +1467,305 @@ IV. Desarrollar programas que impulsen una cultura de paz, a través de la promo
 
 (DEROGADO, P.O. 27 DE NOVIEMBRE DE 2014)
 
-# Libro Cuarto. De las Personas con Discapacidad
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-## Título Primero. Principios Normativos
+# Libro Cuarto
 
-### Capítulo I. Principios
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+## Título Primero
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo I
 
 ###### Artículo 172.
 
-El presente Código tiene por objeto normar las medidas y acciones que contribuyan al desarrollo integral de las personas con discapacidad en el Estado.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 173.
 
-Constituye una prioridad para el desarrollo integral de las personas con discapacidad, promover e impulsar:
-
-I. Los programas de prevención y sensibilización;
-
-II. La asistencia médica, física y psicológica;
-
-III. La orientación y gestión para la obtención de prótesis, órtesis y ayudas técnicas para su rehabilitación e integración;
-
-IV. La orientación y rehabilitación sexual;
-
-V. La orientación y capacitación a las familias o a terceras personas que apoyan a la población con discapacidad;
-
-VI. La educación especial;
-
-VII. El fomento del empleo y la capacitación para el trabajo;
-
-VIII. Las bolsas de trabajo;
-
-IX. La promoción, protección y defensa de los derechos de las personas con discapacidad;
-
-X. Las facilidades urbanísticas y arquitectónicas, así como la eliminación de las barreras físicas;
-
-XI. Los servicios de transporte público y medios de comunicación adecuados;
-
-XII. Los programas de vialidad;
-
-XIII. Las guarderías para menores con discapacidad;
-
-XIV. Los servicios de turismo;
-
-XV. La asesoría para la construcción de vivienda;
-
-XVI. Las actividades deportivas, recreativas y culturales;
-
-XVII. La creación de servicios de medicina de rehabilitación en las unidades hospitalarias; y,
-
-XVIII. La integración de las mujeres con discapacidad, a los diversos programas con una política transversal de equidad y género.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 174.
 
-Corresponde al Gobernador del Estado, a través de las Dependencias y Entidades, como lo son la Secretaría de Salud, Secretaría de Educación, Secretaría de Infraestructura, Secretaría de Hacienda, Secretaría de Desarrollo y Participación Social y el DIF Chiapas, la aplicación de este Código, en el ámbito de sus respectivas competencias.
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-Asimismo, llevarán a cabo estudios, investigaciones y exámenes que estimen convenientes, utilizando los equipos necesarios y los medios que la ciencia y la tecnología emplean, para identificar y valorar las posibles causas de discapacidades y para determinar las alteraciones de salud en las personas; a fin de promover mediante la expedición de las disposiciones correspondientes, el establecimiento de medidas de prevención, rehabilitación integral, e integración social.
-
-Las personas con discapacidad, tendrán acceso a los programas de prevención de riesgos, accidentes o enfermedades que se relacionen con la causa o los efectos que originaron la misma, que para tal efecto se implementen, en los ámbitos Federal, Estatal y Municipal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 175.
 
-Las Dependencias y Entidades a que se refiere el artículo anterior, así como los Ayuntamientos; en el ámbito de sus respectivas competencias:
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-I. Implementarán los sistemas o las formas de prevenir la discapacidad;
-
-II. Orientarán la forma de prevenir los riesgos, accidentes o enfermedades que tengan relación con la discapacidad que atraviesan;
-
-III. Proporcionarán la rehabilitación integral, a fin de disminuir el proceso de discapacidad; y,
-
-IV. Favorecerán la integración social, para la vida productiva de las personas con algún tipo de discapacidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 176.
 
-Corresponde a la Secretaría de Salud, promover e impulsar las siguientes actividades:
-
-I. Asistencia médica, física y psicológica;
-
-II. La orientación y gestión para la obtención de prótesis, órtesis y ayudas técnicas para su rehabilitación e integración;
-
-III. Los programas de prevención;
-
-IV. La orientación y rehabilitación sexual;
-
-V. La orientación y capacitación a las familias o a terceras personas que apoyan a la población con discapacidad; y,
-
-VI. Coordinar las acciones y actividades del sector salud, bienestar y seguridad social;
-
-VII. Implementar programas de promoción a la salud y prevención de la discapacidad, mismos que contemplen aspectos fundamentales para disminuir los índices de las enfermedades discapacitantes, tales como:
-
-a) Ceguera;
-
-b) Defectos al nacimiento y secuelas de partos mal atendidos;
-
-c) Diabetes mellitus;
-
-d) Enfermedad articular degenerativa;
-
-e) Enfermedad coronaria;
-
-f) Enfermedad vascular cerebral;
-
-g) Hipoacusia y sordera;
-
-h) Osteoporosis;
-
-i) Enfermedad metabólica en recién nacido;
-
-j) Discapacidades provocadas por accidentes.
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-VIII. Proporcionar en todo el Estado la información sobre prevención de la discapacidad, así como realizar los estudios e investigaciones de detección temprana de los problemas generadores de discapacidad, brindando los cuidados preventivos que proporcione la rehabilitación;
-
-IX. Proporcionar, a través de los centros hospitalarios y clínicas de las instituciones de salud del Estado, la asesoría y orientación física y psicológica, a quienes presenten una discapacidad, así como a los familiares de los mismos;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-X. Gestionar los recursos necesarios, para impulsar los programas de adquisición de lentes a bajo costo y cirugías extramuros, así como para la obtención de órtesis, prótesis y ayudas técnicas para la rehabilitación de las personas con discapacidad;
-
-XI. Brindar a través de todas sus unidades de servicio en el Estado, la asistencia médica;
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XII. Detectar y canalizar al centro de rehabilitación, unidades básicas y simplificadas dependientes del DIF-Chiapas, a todas las personas con cualquier tipo de discapacidad como son:
-
-a) Ciegos y débiles visuales;
-
-b) Silentes;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-c) Deficiencias intelectuales;
-
-d) Neuromotores;
-
-e) Niños con alto riesgo a daño neurológico.
-
-XIII. Implementar programas de orientación y rehabilitación sexual, que permitan a las personas con discapacidad, integrarse a una vida sexual plena, que favorezca la integración familiar, previendo cuando menos la:
-
-a) Orientación sexual para personas ciegas, sordas y con problemas neuromotores;
-
-b) Rehabilitación sexual para lesionados medulares;
-
-c) Orientación sexual para padres de familia con hijos con discapacidad intelectual, parálisis cerebral y ciegos.
-
-XIV. Promover la capacitación de psicólogos, psiquiatras, maestros y demás profesionales técnicos de la salud, a efecto de lograr la eficacia, de lo previsto en la fracción anterior;
-
-XV. Promover ante las instituciones de salud del Estado, la creación de comités internos, encargados del desarrollo, aplicación, seguimiento y evaluación de los programas y acciones de prevención, detección temprana, atención adecuada y rehabilitación de discapacitados;
-
-XVI. Expedir a través de sus unidades de atención medica, a las personas con discapacidad que lo soliciten, la credencial que facilite los trámites para recibir atención;
-
-XVII. Realizar campañas permanentes para la detección de personas con discapacidad;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XVIII. Promover la capacitación de los propios profesionales de la salud, así como de los maestros, funcionarios públicos, empresarios, asociaciones y clubes de servicio o bien de aquellos miembros de la comunidad que realizan actividades de apoyo a la salud, como son los parteros empíricos o promotores voluntarios;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XIX. Fomentar entre las Dependencias Estatales y Municipales, las acciones necesarias encaminadas a permitir a las personas con discapacidad visual, el acceso de mascotas domésticas en este caso tratándose de perros guías certificados, en todos los inmuebles públicos, así como en lugares donde se presten servicios al público y establecimientos mercantiles;
-
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XX. Las demás que las leyes y la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, le encomienden.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 177.
 
-Corresponde a la Secretaría de Educación, promover e impulsar las siguientes actividades:
-
-I. La educación especial a personas con discapacidad, así como su incorporación al sistema de educación ordinario en los casos que proceda, sin que medie por parte del personal docente discriminación alguna;
-
-II. La difusión de programas y campañas de sensibilización que pugne por una cultura de respeto a la discapacidad, incluyéndolos dentro de los planes y programas de estudio que se lleven a cabo;
-
-III. Impulsar ante el sistema educativo estatal, la aplicación de criterios específicos, para salvaguardar el derecho a la educación y el ingreso de los alumnos con discapacidad, a las instituciones de educación regular, mismo que contempla la Ley General de Educación y este Código;
-
-IV. Promover en las instituciones de educación superior y en las de investigación científica de la Entidad, la realización de estudios, a través de las áreas: Clínica, educativa y social; de los diferentes signos de discapacidad: visual, auditiva, motora e intelectual, entre otras más específicas o menos generales, así como la solución de las necesidades educativas especiales que se presentan en Chiapas, partiendo de la práctica docente y de los requerimientos de apoyo al mismo, procurando aplicar los resultados en las políticas y acciones programadas anualmente en el contexto educativo;
-
-V. Promover la difusión y la sensibilización permanente, en la población estudiantil de todos los niveles académicos y en la sociedad en general, de aspectos de prevención, detección e integración social y laboral de la población con discapacidad, así como de necesidades educativas especiales;
-
-VI. Impulsar la ampliación de la cobertura de educación especial, tomando en cuenta el origen étnico y las condiciones socioeconómicas de las comunidades de la Entidad;
-
-VII. Promover en las instituciones formadoras de docentes y demás instituciones de educación superior, públicas y privadas, la actualización de los planes y programas de estudio, privilegiando contenidos referentes a la atención de las personas con discapacidad, así como tomar en cuenta en los cursos de actualización, capacitación y formación docente, las necesidades educativas especiales con o sin algún signo de discapacidad, en los diferentes niveles y tipos de la educación;
-
-VIII. Impulsar la dotación oportuna y suficiente de libros de texto y material didáctico, para garantizar el acceso a la educación básica de los menores con necesidades educativas especiales, con o sin algún signo de discapacidad;
-
-IX. Promover la modificación de los criterios de asignación de becas, en instituciones públicas y privadas incorporadas, para asegurar espacios a menores y jóvenes con discapacidad; y,
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-X. Las demás que las leyes y la Comisión, le encomienden.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 178.
 
-Corresponde a la Secretaría de Infraestructura, promover e impulsar las siguientes actividades:
-
-I. Las facilidades urbanísticas y arquitectónicas;
-
-II. La construcción de accesos de vialidad;
-
-III. La asesoría en construcción de vivienda para personas con discapacidad;
-
-IV. En los términos de la Ley Orgánica de la Administración Pública del Estado, sugerir a las dependencias y entidades de la administración pública estatal, en materia de construcciones y vialidad, como deberán prevenir, cumplir y coadyuvar, en la observancia de este Código;
-
-V. Proponer modificaciones a los reglamentos de construcción municipal, así como efectuar las acciones correspondientes en el ámbito estatal; estableciendo estrategias permanentes en la actualización de los reglamentos vigentes, para lo cual se formarán las comisiones mixtas que sean necesarias, a efecto de cumplir con los lineamientos previstos en este Código;
-
-VI. Proponer a las dependencias y entidades de la administración pública estatal, que en la construcción de edificios públicos, así como de parques y jardines, se establezcan facilidades urbanísticas y arquitectónicas, que permitan a las personas con discapacidad, el libre tránsito y acceso a esos espacios; para lo cual deberán acondicionar puertas, pasillos, pisos, escaleras, rampas, sanitarios, regaderas, vestidores, lavabos, elevadores; de igual forma, que los ya existentes realicen las modificaciones o adaptaciones que se requieran;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-VII. Tratándose de construcciones privadas, en coordinación con los municipios, cuidarán que se cumpla con lo señalado en esta fracción; asimismo, en los cines, teatros y auditorios, se adaptarán espacios exclusivos para personas con discapacidad; las medidas serán aquellas que técnicamente se requieran y se localicen cerca de las salidas de emergencia;
-
-VIII. Verificar en coordinación con las autoridades municipales, que los planes y programas de desarrollo urbano, cumplan con las disposiciones urbanísticas y arquitectónicas; acorde a las necesidades de las personas con discapacidad;
-
-IX. Vigilar que en las terminales de transporte de servicio público, en sus diversas modalidades y en las que sea competente, se eliminen las barreras físicas que impidan el libre desplazamiento de las personas con discapacidad;
-
-X. Promover que en los estacionamientos públicos y privados, se destine por lo menos un cajón por cada veinticinco o fracción, a partir de doce; para uso exclusivo de personas con discapacidad, siendo ubicados lo más cerca posible de la entrada a la edificación; mismos que tendrán las especificaciones técnicas requeridas;
-
-XI. Verificar que en los cambios de nivel de los espacios exteriores públicos, cuando se requiera el uso de circulaciones verticales, se provea de escaleras con pasamanos, rampas y escalinatas; las que tendrán las especificaciones técnicas que determinen las técnicas de construcción, emitidas por la autoridad correspondiente;
-
-XII. En coordinación con las autoridades municipales, vigilar que las vías públicas de todo el Estado y los municipios, no existan obstrucciones o barreras arquitectónicas, que limiten el libre tránsito de las personas con discapacidad;
-
-XIII. Sugerir a los municipios, que en todas las rutas o senderos peatonales, banquetas, andadores o pasajes; se cuente en los puntos de cruce, con los arroyos vehiculares, y rampas especiales para sillas de ruedas; mismas que tendrán las medidas que técnicamente se requieran;
-
-XIV. Promover ante las dependencias y entidades, así como ante los sectores público o privado y los municipios de Chiapas; que en los centros comerciales, oficinas públicas, aeropuertos, terminales de autobuses, gasolineras y similares; se instale al menos un sanitario con un inodoro especial para sillas de ruedas, considerando los siguientes lineamientos:
-
-a) Ubicarlos en unidades separadas para ambos sexos, o estar integrados a los núcleos públicos de hombres y mujeres;
-
-b) El acceso a estos sanitarios, procurara evitar los escalones, facilitando el libre desplazamiento en sillas de ruedas;
-
-c) Los muebles deberán ser especiales; más altos de la altura standard y contar con pasamanos;
-
-d) Contar con puertas y pasillos, con las especificaciones técnicas requeridas;
-
-e) Los sanitarios se apeguen a las características de instalación, de las normas de construcción para personas con discapacidad, que emita la autoridad competente;
-
-f) La señalización se ubique en lugares adecuados, usando el símbolo internacional de acceso, con tipografía clara y grande; asimismo, la señalización para ciegos deberá encontrarse a la misma altura y en sistema braile para facilitar su localización;
-
-g) Incluir cambios de textura en los pisos de los sanitarios, con el objeto de alertar a los ciegos, acerca de peligros tales como bordes, escaleras, rampas y banquetas;
-
-XV. Promover ante las empresas competentes, que los teléfonos públicos se instalen a una altura tal, que permitan a cualquier persona utilizarlos, aún desde una silla de ruedas;
-
-XVI. Proponer ante la autoridad correspondiente, que la instalación de alarmas de evacuación sea audibles y visuales, a efecto de que los sordos, puedan saber que existe una situación de peligro; asimismo, que las salidas de emergencia estén marcadas por señales audibles y visuales, para poder ser encontradas tanto por ciegos como por sordos; y,
-
-XVII. Las demás que el Ejecutivo del Estado y la Comisión acuerden.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 179.
 
-Corresponde a la Secretaría de Hacienda, promover e impulsar las siguientes actividades:
-
-I. Establecer las normas sobre los subsidios u otro tipo de apoyo que conceda el Gobierno del Estado a favor de entidades, instituciones públicas y privadas, organismos de y para personas con discapacidad;
-
-II. En los términos del Código de la Hacienda Pública del Estado de Chiapas, recaudar las multas que por infracciones a este Código haya determinado la dependencia correspondiente para ser aplicados a programas de personas con discapacidad;
-
-III. Elaborar en colaboración con las Dependencias y Entidades de la Administración Pública, programas institucionales y especiales en el Estado, que permitan el Desarrollo integral de las personas con discapacidad;
-
-IV. Establecer las normas y mecanismos de programación, ejercicio, control, evaluación y seguimiento de proyectos y acciones a fin de aprovechar y aplicar los recursos que al efecto se asignen dentro del presupuesto; y,
-
-V. Las demás que le competan y le encomiende el Ejecutivo del Estado y la Comisión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 180.
 
-Corresponde a la Secretaría de Hacienda, constituir un fondo con las recaudaciones provenientes de las multas, que por violación a este Código se impongan; con la finalidad de integrarlos a la partida presupuestal destinada a los subsidios que conforme a la normatividad vigente, el Gobierno del Estado otorgue a los organismos y/o instituciones en beneficio de las personas con discapacidad.
-
-La Secretaría, deberá reglamentar lo relativo a la recaudación de las multas que sean impuestas por infracción al Código.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 181.
 
-La Secretaría de Hacienda, promoverá los subsidios necesarios, a efecto de impulsar programas de integración social, a favor de las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 182.
 
-La Secretaría de Hacienda, ejecutará además de las facultades señaladas en este Libro, los acuerdos que la Comisión para la Integración al Desarrollo de las Personas con Discapacidad convenga.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 183.
 
-Corresponde al DIF-Chiapas las siguientes atribuciones:
-
-I. Definir y establecer políticas que garanticen la igualdad de derechos impulsando las acciones necesarias en el Estado, cuyo objetivo sea el desarrollo humano de las personas con discapacidad;
-
-II. Establecer los criterios metodológicos para la planeación, diseño y aplicación de políticas encaminadas a identificar, registrar y atender los distintos tipos de discapacidad;
-
-III. Promover la difusión y la defensa de los derechos de las personas con discapacidad, así como las disposiciones legales que las contemplan, a fin de garantizar su efectiva aplicación con perspectiva de equidad y género;
-
-IV. Dictar los lineamientos generales para la prestación de servicios de prevención, rehabilitación, equiparación de oportunidades y asistencia social;
-
-V. Difundir los programas que contribuyan al desarrollo integral de las personas con discapacidad del Estado;
-
-VI. Promover la captación de recursos que sean destinados al desarrollo de actividades y programas en beneficio de las personas con discapacidad;
-
-VII. Coordinar, concertar, supervisar y evaluar el cumplimiento de los programas y técnicas con la participación de instituciones públicas, privadas y sociales, relacionadas con las personas con discapacidad;
-
-VIII. Recibir y canalizar ante las instancias competentes, las quejas sobre la atención que brinden las autoridades y empresas privadas a las personas con discapacidad;
-
-IX. Realizar censo o padrón de personas con discapacidad, para contar con una base de datos que permita elaborar estrategias de atención;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-X. Promover la enseñanza, el manejo y la difusión de los lenguajes de señas, Braille y otras formas de comunicación, para la atención y tratamiento de las personas con discapacidad;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-XI. Expedir los instructivos que considere necesarios para desarrollar, hacer explicitas y determinar la forma en que deben cumplirse las disposiciones en materia de discapacidad; para su obligatoriedad y general observancia, debiendo ser publicados en el Periódico Oficial del Estado;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XII. Promover ante el DIF-Chiapas o DIF Municipales, diseños metodológicos que permitan conocer la población total de personas con discapacidad, sus necesidades y medidas de prevención de la discapacidad, actualizando sistemáticamente los registros;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-XIII. Celebrar convenios de coordinación, con el Instituto Nacional de Estadística, Geografía e Informática, con el objeto de diseñar e implementar un sistema de cómputo, que permita integrar un directorio estatal de personas con discapacidad y conocer sistemática y objetivamente a este sector de la población;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-XIV. Establecer el seguimiento, control y evaluación, de todas las acciones que se realicen dentro de La Comisión, para su análisis y difusión correspondiente;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-XV. Solicitar el programa operativo anual de actividades, a la Comisión, mismo que servirá para establecer e impulsar acciones necesarias, para el desarrollo integral de las personas con discapacidad;
-
-XVI. Brindar atención oportuna, mediante el programa de estimulación múltiple temprana, a todos los niños con discapacidad, detectados y canalizados por las instituciones de salud públicas y privadas; en centros de rehabilitación y unidades básicas de rehabilitación del Estado;
-
-XVII. Gestionar ante la Secretaría de Educación, la creación de guarderías debidamente equipadas, que proporcionen atención especializada a los menores con discapacidad, para favorecer su integración educativa;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-XVIII. Impartir cursos de capacitación para el manejo de la rehabilitación integral de las personas con discapacidad, a los familiares de éstas; así como a terceras personas;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-XIX. Celebrar convenios de concertación y colaboración, con instancias propiciadoras del cambio científico, para la estructuración, producción y fabricación de órtesis, prótesis y ayudas técnicas, susceptibles de generar para la población con discapacidad;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XX. El DIF-Chiapas, en coordinación con la Secretaría de Educación y la Secretaría de Salud, brindarán atención oportuna a menores de todas las edades con alteraciones en su desarrollo, a fin de detectar oportunamente cualquier tipo de discapacidad, a través de los programas de promoción a la salud, prevención de la discapacidad, estimulación múltiple temprana y escuelas de educación especial;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XXI. El DIF-Chiapas, a través de su centro de desarrollo infantil, brindará cursos de sensibilización en materia de discapacidad, que permita mantener informados a los padres de familia sobre riesgos y atención oportuna ante cualquier problema de discapacidad;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XXII. El DIF-Chiapas, en coordinación con la Secretaría de Educación y la Secretaría de Salud, vigorizará el mecanismo de referencia y contrarreferencia que permita retroalimentar los servicios de salud, apoyo psicológico y atención educativa;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-XXIII. El DIF-Chiapas promoverá ante el Instituto Nacional para las Personas Adultas Mayores, la implementación de programas de promoción y prevención a la discapacidad, rehabilitación, capacitación y trabajo, cultura, recreación, deporte y educación, que permitan brindar atención y apoyo a las personas adultas mayores que tengan algún tipo de discapacidad;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-XXIV. Las demás que las leyes y La Comisión, le encomienden.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 184.
 
-Corresponde a la Secretaría de Desarrollo y Participación Social promover e impulsar las siguientes actividades:
-
-I. Promover Capacitación técnico-práctica a personas con discapacidad con la finalidad de integrarlos a fuentes productivas para el desarrollo familiar y social, a través de los Centros de Desarrollo Comunitarios;
-
-II. Captar, asesorar y canalizar proyectos productivos de personas con discapacidad, buscando el desarrollo comunitario y el bienestar familiar;
-
-III. Proponer con la participación de los tres niveles de gobierno, y de los sectores social y privado, programas especiales para personas con discapacidad;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-IV. Establecer lineamientos específicos, impulsando ante la Comisión, la proyección y ejecución de programas de desarrollo social, en beneficio de las personas con discapacidad;
-
-V. Las demás que el Ejecutivo del Estado y la Comisión acuerden.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 185.
 
-El Gobernador del Estado constituirá la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, con el objeto de establecer acciones específicas de concertación, coordinación, planeación y promoción de los trabajos necesarios, a fin de garantizar condiciones favorables a las personas con discapacidad. En esta Comisión, participarán representantes de las organizaciones de personas con discapacidad, del Sistema Estatal de Salud, del Sistema Estatal de Seguridad Pública, del Consejo Estatal para las Culturas y las Artes de Chiapas, del Instituto del Deporte, del Sector Educativo Estatal, de las asociaciones políticas, filantrópicas, religiosas, así como todos los organismos privados que tengan relación con el presente Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-### Capítulo II. De la Salud y Rehabilitación
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo II
 
 ###### Artículo 186.
 
-En los servicios de salud del Estado de Chiapas se impulsará y promoverá:
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-I. El desarrollo de programas de la prevención, detección temprana, atención adecuada y rehabilitación de los diferentes tipos de discapacidad;
-
-II. El establecimiento de centros de orientación, diagnóstico y atención temprana a las personas con discapacidad; y,
-
-III. Los programas especializados de capacitación, orientación y rehabilitación sexual para las personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 187.
 
-El DIF-Chiapas, establecerá acciones de coordinación con instituciones públicas y privadas para impulsar la investigación y la producción de ayudas técnicas con el propósito de facilitar su adquisición.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 188.
 
-El DIF-Chiapas, promoverá el otorgamiento de estímulos fiscales, subsidios, y otros apoyos a favor de entidades, instituciones públicas y privadas, organismos de y para personas con discapacidad, cuyo objeto sea la producción y adquisición de bienes de procedencia nacional o extranjera o la prestación de servicios para las personas con discapacidad, entre los que se podrán considerar los siguientes:
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-I. Artículos o accesorios de uso personal;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-II. Medicamentos y accesorios o dispositivos de carácter médico;
-
-III. Prótesis, órtesis, sillas de ruedas, elevadores para automóviles y casas-habitación, regletas para ciegos, máquinas de escribir, bastones, andaderas, aparatos para sordera y otras ayudas técnicas;
-
-IV. Implementos y materiales educativos;
-
-V. Implementos y materiales deportivos;
-
-VI. Equipos computarizados;
-
-VII. Servicios hospitalarios o médicos;
-
-VIII. Vehículos automotores; y,
-
-IX. Otros bienes y servicios análogos de conformidad con la legislación aplicable.
-
-Los medicamentos, accesorios, dispositivos, implementos y demás bienes y servicios a que se refieren las fracciones que anteceden, deberán ser inherentes y propios a las personas que sufran cualquier tipo de discapacidad.
-
-### Capítulo III. Del Empleo y de la Capacitación
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo III
 
 ###### Artículo 189.
 
-El DIF-Chiapas, promoverá la integración de las personas con discapacidad, en el sistema ordinario de trabajo, o en su caso, su incorporación a sistemas de trabajo protegido, en condiciones salubres, dignas y de mínimo riesgo para su seguridad. Al efecto, impulsará entre los sectores públicos y privados, la creación y desarrollo de una bolsa de trabajo. Asimismo, vigilará y recomendará que las condiciones en que se desempeñe su trabajo, sean acordes a su discapacidad personal.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 190.
 
-El DIF-Chiapas, recompensará a la instancia competente, el otorgamiento de incentivos para aquellas personas físicas o morales que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminación de barreras físicas o rediseño de sus áreas de trabajo.
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 191.
 
-El DIF-Chiapas, coadyuvará al desarrollo de programas de capacitación y autoempleo, para las personas con discapacidad con la finalidad de integrarlos a la convivencia familiar y social, procurando su desarrollo personal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-### Capítulo IV. De la Promoción y Defensa de los Derechos de las Personas con Discapacidad
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+### Capítulo IV
 
 ###### Artículo 192.
 
-Sin perjuicio de lo que consagran la Constitución Política de los Estados Unidos Mexicanos y otras disposiciones legales, el DIF-Chiapas, impulsará con las autoridades competentes, la promoción y defensa de los derechos de las personas con discapacidad, conforme a este Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-Al efecto, se integrará un cuerpo de especialistas que asista, oriente y defienda a las personas con discapacidad.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-### Capítulo V. De las Medidas, Facilidades Urbanísticas y Arquitectónicas
+### Capítulo V
 
 ###### Artículo 193.
 
-Las nuevas construcciones y las modificaciones que se hagan a las ya existentes, deberán contemplar facilidades urbanísticas y arquitectónicas, adecuadas a las necesidades de las personas con discapacidad, de conformidad con las disposiciones aplicables en la materia.
-
-Las autoridades estatales y municipales correspondientes observarán lo anterior en la planificación y urbanización de las vías, parques y jardines públicos, a fin de facilitar el tránsito, desplazamiento y uso de estos espacios por las personas con discapacidad y tendrán la responsabilidad de vigilar el cumplimiento del presente Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 194.
 
-Las autoridades estatales y municipales, están obligadas a contemplar en los programas de desarrollo urbano del Estado, la adecuación de facilidades urbanísticas y arquitectónicas acorde a las necesidades de las personas con discapacidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 195.
 
-Los propietarios, administradores u organizadores de auditorios, cines, teatros, salas de concierto y de conferencias, centros recreativos, deportivos y en general, cualquier recinto en que se presenten espectáculos públicos, están obligados a establecer, preferentemente, espacios reservados para personas con discapacidad, que no puedan ocupar las butacas o asientos ordinarios, de conformidad con la legislación aplicable, para el giro o evento; asimismo, procurarán que las instalaciones, accesos, baños, puertas y demás, sean las adecuadas para el uso de personas con discapacidad. No será causa de tarifas mayores, la obligatoriedad de proporcionar espacios especiales a los discapacitados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-### Capítulo VI. De las Preferencias para el Libre Desplazamiento y el Transporte
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo VI
 
 ###### Artículo 196.
 
-Sin perjuicio de lo dispuesto en otros ordenamientos legales, las personas con discapacidad tienen derecho a contar con preferencias que les permitan su transportación y libre desplazamiento, para el efectivo ejercicio de este derecho se contemplan las siguientes:
-
-I. El transporte público en el Estado, deberá cumplir con las especificaciones técnicas y especiales que permitan el acceso y uso a las personas con discapacidad, en los términos de la legislación aplicable;
-
-II. Las personas con discapacidad, podrán hacer uso de los servicios, los asientos y espacios preferenciales que para tal efecto sean destinados en los diversos medios de transporte público;
-
-III. Las autoridades estatales y municipales correspondientes, contribuirán a garantizar el uso adecuado de zonas preferenciales para estacionamiento de vehículos, en los que viajen personas con discapacidad, tanto en la vía pública como en lugares de acceso al público, a efecto de facilitar el estacionamiento de vehículos, de los cuales tengan que descender o ascender personas con discapacidad. La autoridad correspondiente dispondrá las medidas necesarias, que inclusive podrán aplicarse en zonas de estacionamiento restringido, siempre y cuando no afecte el libre tránsito de vehículos y peatones; y,
-
-IV. Las personas con discapacidad, podrán incorporarse, previa solicitud y autorización de la autoridad administrativa correspondiente, a las excepciones contempladas en los programas de restricción a la circulación vehicular.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 197.
 
-El DIF-Chiapas, impulsará el diseño e instrumentación permanente con la autoridad competente, de programas y campañas de educación vial y cortesía urbana, encaminados a motivar los hábitos de respeto hacia las personas con discapacidad, en su tránsito por la vía pública y en lugares de acceso público, de conformidad con la legislación aplicable.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 198.
 
-Las personas invidentes, que requieren para su desplazamiento de perros guía o instrumentos mecánicos, tendrán libre acceso sin restricción alguna, a todos los servicios públicos y privados.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-## Título Segundo. Del Desarrollo Social
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-### Capítulo I. De la Coordinación
+## Título Segundo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo I
 
 ###### Artículo 199.
 
-El DIF-Chiapas, en coordinación con las Dependencias y Entidades del Ejecutivo, promoverá en los centros públicos de desarrollo infantil del Estado:
-
-I. La admisión y atención de menores con discapacidad;
-
-II. La implementación de programas de capacitación para la atención de menores con discapacidad;
-
-III. El establecimiento de programas de asesoría y orientación, dirigidos a propiciar la comprensión y respeto hacia los menores con discapacidad, así como el apoyo psicológico que requieran los padres y familiares; y,
-
-IV. El establecimiento de mecanismos que permitan la adecuada canalización y atención de los menores en el sistema de educación especial, así como su incorporación al sistema de educación ordinario.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 200.
 
-El DIF-Chiapas, impulsará los programas de capacitación que existan en los tres niveles de Gobierno, para la atención de las personas con discapacidad, promoviendo su admisión y atención en las Instituciones Públicas y Privadas del Estado, y canalización médica, que para el caso se requiera.
-
-Asimismo, proporcionará asesorías para procurar estimular en el seno familiar, el conocimiento, manejo y respeto de los derechos de las personas con discapacidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 201.
 
-Las bibliotecas públicas, procurarán contar con áreas determinadas y equipamiento apropiado para brindar atención a las personas con discapacidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-## Título Tercero. De los Sectores para la Atención de Personas con Discapacidad
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-### Capítulo I. De su Integración
+## Título Tercero
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo I
 
 ###### Artículo 202.
 
-Para la atención de personas con discapacidad, las Dependencias y Entidades de la Administración Pública Estatal, se organizarán por sectores, siendo para los efectos de este Código, los siguientes: Sector Salud, Bienestar y Seguridad Social, la Secretaría de Salud; Sector Educativo, la Secretaría de Educación; Sector Capacitación y Trabajo, la Secretaría del Trabajo; Sector de Comunicación Social, El Instituto de Comunicación Social e Información Pública; Sector Recreación y Deporte, el Instituto del Deporte; Sector Cultural, el Consejo Estatal para las Culturas y las Artes de Chiapas; Sector de Desarrollo Urbano, la Secretaría de Infraestructura y Sector Proyectos Legislativos, Secretaría General de Gobierno.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 203.
 
-Los sectores para la atención de personas con discapacidad, estarán integrados de la manera siguiente:
-
-I. Sector salud, bienestar y seguridad social:
-
-a) Secretaría de Salud;
-
-b) Instituto de Salud del Estado de Chiapas;
-
-c) Instituto de Seguridad Social al Servicio de los Trabajadores del Estado de Chiapas;
-
-d) DIF-Chiapas, a través de la oficina correspondiente;
-
-II. Sector Educativo:
-
-a) Secretaría de Educación;
-
-b) Universidad Autónoma de Chiapas;
-
-c) DIF-Chiapas, a través de la oficina correspondiente.
-
-III. Sector capacitación y trabajo:
-
-a) Secretaría del Trabajo;
-
-b) Secretaría de Hacienda;
-
-c) Secretaría General de Gobierno;
-
-d) Secretaría de Economía;
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-e) Secretaría de Desarrollo y Participación Social;
-
-f) Secretaría de Pueblos Indios;
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-g) Secretaría para el Desarrollo y Empoderamiento de las Mujeres;
-
-h) DIF-Chiapas, a través de la oficina correspondiente;
-
-IV. Sector Comunicación Social:
-
-a) Instituto de Comunicación Social e Información Pública;
-
-b) Sistema Chiapaneco de Radio, Televisión y Cinematografía;
-
-c) DIF-Chiapas, a través de la oficina correspondiente.
-
-V. Sector recreación y deporte:
-
-a) Instituto del Deporte;
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-b) Secretaría de Turismo;
-
-c) DIF-Chiapas, a través de la oficina correspondiente.
-
-VI. Sector cultural:
-
-a) Consejo Estatal para las Culturas y las Artes de Chiapas;
-
-b) Secretaría de Pueblos Indios;
-
-c) DIF-Chiapas, a través de la oficina correspondiente.
-
-VII. Sector desarrollo urbano:
-
-a) Secretaría de Infraestructura.
-
-b) Secretaría de Seguridad y Protección Ciudadana;
-
-c) DIF-Chiapas, a través de la oficina correspondiente.
-
-VIII. Sector proyectos legislativos:
-
-a) Secretaría General de Gobierno;
-
-b) Procuraduría General de Justicia del Estado;
-
-c) Secretaría de Hacienda;
-
-d) DIF-Chiapas, a través de la oficina correspondiente.
-
-Será invitado permanente a las sesiones de la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, el Instituto de la Consejería Jurídica y de Asistencia Legal y la Comisión de los Derechos Humanos y cuando se considere pertinente, las instituciones del ámbito federal.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 204.
 
-Los sectores a que se refiere el Artículo anterior, tendrán un representante que será el titular de la Dependencia o Entidad coordinadora; quienes podrán designar un representante, por el sector a que pertenezcan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 205.
 
-Los sectores mencionados tendrán las siguientes funciones:
-
-I. Observar y cumplir lo dispuesto en este Libro y demás disposiciones;
-
-II. Ejecutar en el ámbito de sus respectivas competencias, las atribuciones que les han sido conferidas por este Libro;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-III. Acreditar al representante de su sector, ante la Comisión;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-IV. Ejecutar los acuerdos que dicte la Comisión;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-V. Celebrar los convenios de coordinación o concertación con las Dependencias y Entidades de la Federación, Estados, Municipios, Sectores social o privado, así como con las personas físicas o morales. Para el cumplimiento de los objetivos del Código, así como para el mejor funcionamiento de los sectores que componen la Comisión; y,
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-VI. Las demás, que por acuerdo de la Comisión le correspondan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 206.
 
-Al sector salud, bienestar y seguridad social, le corresponde impulsar las acciones de promoción a la salud y prevención de la discapacidad; así como la protección específica del individuo y la rehabilitación integral.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 207.
 
-Al sector educativo le corresponde, promover acciones que permitan la integración de las personas con discapacidad, al sistema de educación regular, en los casos que así proceda; así como una cultura de respeto a su dignidad y a sus derechos humanos, políticos y sociales.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 208.
 
-Al sector capacitación y trabajo le corresponde, promover acciones que permitan a las personas con discapacidad, el acceso a la rehabilitación laboral; así como la equiparación de oportunidades de capacitación y trabajo, asimismo, vincular el establecimiento de carreras técnicas adaptadas a los perfiles de capacitación y el autoempleo, a través de microempresas y de empresas familiares.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 209.
 
-El sector comunicación social, difundirá información a efecto de formar la cultura de integración y respeto a las personas con discapacidad y les facilitará su acceso a los medios de comunicación, para difundir dicha cultura; así mismo, promoverá la transmisión de información, que resuelva las necesidades de las personas con discapacidad y la de sus familiares.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 210.
 
-El sector recreación y deporte, garantizará a las personas con discapacidad, la accesibilidad al deporte y a la recreación, ampliando sus opciones de participación deportiva y su acceso a los centros recreativos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 211.
 
-Al sector cultural le corresponde, promover e impulsar la capacidad creadora, artística e intelectual de las personas con discapacidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 212.
 
-El sector desarrollo urbano, promoverá la transformación y adaptación de la infraestructura urbana, a efecto de garantizar a las personas con discapacidad, el libre tránsito y acceso a todos los espacios y edificios públicos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 213.
 
-Al sector proyectos legislativos, le corresponde promover la actualización del marco jurídico, con el propósito de garantizar el pleno ejercicio de los derechos humanos, políticos y sociales de las personas con discapacidad; impulsar la igualdad de oportunidades y la equidad en el acceso a los recursos y servicios que todo ser humano requiere para su bienestar y calidad de vida, protegiendo la dignidad de su condición.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-## Título Cuarto. De la Comisión para la Integración al Desarrollo de las Personas con Discapacidad
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-### Capítulo I. De su Integración
+## Título Cuarto
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo I
 
 ###### Artículo 214.
 
-La Comisión para las personas con discapacidad del Estado de Chiapas, queda integrada de la siguiente manera:
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-I. Un presidente, que será el Director General del DIF-Chiapas;
-
-II. Un Secretario Técnico, que será el Secretario de Salud;
-
-III. Fungirán como vocales:
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-a) Los representantes de las organizaciones de Personas con discapacidad;
-
-b) El representante del Sistema Estatal de Salud;
-
-c) El representante del Sistema Estatal de Seguridad Pública;
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-d) El representante del Consejo Estatal para las Culturas y las Artes de Chiapas;
-
-e) El representante del Instituto del Deporte;
-
-f) El representante del Sector Educativo Estatal;
-
-g) Los representantes de las asociaciones políticas, filantrópicas y religiosas, debidamente constituidas conforme a la legislación aplicable;
-
-h) Los representantes de los organismos privados que tengan relación con la materia;
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-i) El representante de la Procuraduría General de Justicia del Estado;
-
-j) Los representantes de cada una de las Dependencias y Entidades de la Administración Pública Estatal, que tengan relación con el objeto de la Ley de la materia; y,
-
-k) Los representantes de los Ayuntamientos, previo acuerdo con la Comisión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 215.
 
-La Comisión deberá elaborar un programa global de acciones encaminadas a la prevención de los factores que inciden en la discapacidad, asimismo, generar las acciones que permitan la atención oportuna de las personas con discapacidad, con perspectiva de desarrollo humano.
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 216.
 
-Son facultades del Presidente de La Comisión:
-
-I. Representar a la Comisión;
-
-II. Presidir las sesiones ordinarias y extraordinarias;
-
-III. Suscribir previa autorización de la Comisión aludida, los acuerdos y convenios de coordinación y colaboración, con las Dependencias y Entidades federales, estatales y municipales, así como, con los organismos sociales o privados en beneficio de las personas con discapacidad; y,
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-IV. Las demás que por acuerdo de La Comisión le correspondan.
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 217.
 
-Son facultades del Secretario Técnico de La Comisión:
-
-I. Convocar a reunión ordinaria o extraordinaria, en el último caso, previa solicitud del Presidente;
-
-II. Elaborar el orden del día de los asuntos que deben tratarse en la sesión;
-
-III. Ejecutar los acuerdos generales de la citada Comisión;
-
-IV. Elaborar las actas correspondientes, las que presentará a los integrantes de la Comisión aludida, para que en su caso, sean aprobadas y firmadas por los mismos; y,
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-V. Las demás que le encomiende la Comisión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 218.
 
-Son facultades de los vocales:
-
-I. Participar activamente en el Sector que les corresponda, contribuyendo a la solución de las demandas y necesidades de las personas con discapacidad;
-
-II. Impulsar la participación del Sector que representan, en beneficio de las personas con discapacidad;
-
-III. Informar a la Comisión, sobre el trabajo que realiza su Sector, al interior de las organizaciones de discapacitados y para la comunidad en general;
-
-IV. Promover y difundir las acciones y actividades de la citada Comisión, en coordinación con su sector, ante las organizaciones de discapacitados y la sociedad en general; y,
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-V. Las demás que le encomiende La Comisión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 219.
 
-De conformidad a lo previsto en el Artículo 175, de este Código y sujetándose a lo dispuesto por la Ley Orgánica Municipal del Estado de Chiapas, los Ayuntamientos, en el ámbito de sus respectivas competencias, integrarán la Comisión Municipal para la Integración al Desarrollo de las Personas con Discapacidad.
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 220.
 
-Una vez integrada la Comisión aludida en el Artículo anterior, se promoverá ante los Ayuntamientos, para que designen a la personas (sic) que los representará ante La Comisión.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 221.
 
-Son facultades de los representantes de los Ayuntamientos:
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-I. Representar a su Municipio, ante La Comisión;
-
-II. Informar a la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, de los trabajos realizados al interior de las organizaciones de personas con discapacidad de su Municipio;
-
-III. Coordinar las actividades atribuidas a la Comisión del Municipio que representan, en las sesiones de la Comisión para la Integración al Desarrollo de las Personas con Discapacidad;
-
-IV. Ejecutar las acciones específicas, que por acuerdo de la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, le hayan sido asignadas al Ayuntamiento que representa, para el desarrollo del programa de prevención;
-
-> <small>(F. DE E., P.O. 27 DE SEPTIEMBRE DE 2006)</small>
-
-V. Promover y difundir las acciones y actividades de La Comisión, en coordinación con la Comisión Municipal, ante las organizaciones de personas con discapacidad y la sociedad en general;
-
-VI. Promover la participación de la Comisión Municipal que representan, en las actividades del programa de prevención, así como en la solución de las demandas y necesidades de las personas con discapacidad;
-
-VII. Someter a consideración de su Ayuntamiento, las disposiciones jurídicas en beneficio de las personas con discapacidad; a efecto de que éstas se sometan a consideración del H. Congreso del Estado, para adicionarlas a los Bandos de Policía y Buen Gobierno del Municipio que representan.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 222.
 
-La Comisión celebrará sesiones ordinarias trimestralmente y extraordinarias cuando la situación lo amerite.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-Los integrantes de la Comisión, tendrán voz y voto, y quienes sean invitados, únicamente participarán con voz.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-Los cargos de la Comisión serán honoríficos.
-
-### Capítulo II. De la Promoción y Defensa de los Derechos de las Personas con Discapacidad
+### Capítulo II
 
 ###### Artículo 223.
 
-Las instituciones públicas, privadas, asociaciones civiles, clubes de servicio, organizaciones o grupos voluntarios, constituidas en favor de las personas con discapacidad, deberán registrarse ante la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, ésta emitirá un certificado, en el que se incluirá:
-
-I. Número de registro;
-
-II. Nombre del organismo;
-
-III. Actividades a las que se dedica;
-
-IV. Adscripción y nombre del representante legal; y,
-
-V. Nombre de la persona, que fungirá como representante ante la Comisión para la Integración al Desarrollo de las Personas con Discapacidad.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 224.
 
-El certificado a que se refiere el Artículo anterior, deberá presentarse anualmente, ante la Comisión para la Integración al Desarrollo de las Personas con Discapacidad, a efecto de refrendar el registro otorgado y adquirir representatividad ante la citada Comisión.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 225.
 
-El DIF-Chiapas, según sea el caso, a través de la Procuraduría, actuando como instancia conciliatoria, atenderá las controversias que involucren los derechos de las personas con discapacidad, incluyendo menores de edad o los casos de violencia familiar que padezcan, para dar la solución correspondiente. De advertir, que se trate de posibles violaciones a los derechos humanos, procederá a tramitar la queja ante las Comisiones Nacional o Estatal de los Derechos Humanos.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-## Título Tercero (sic). De la Vigilancia, Infracciones, Sanciones y los Recursos
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
-### Capítulo I. De la Vigilancia
+## Título Tercero (sic)
 
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo I
 
 ###### Artículo 226.
 
-El DIF-Chiapas, promoverá e impulsará que las autoridades competentes del Estado, vigilen los derechos de las personas con discapacidad e impongan las sanciones por las violaciones al presente Código, y demás disposiciones que de ella emanen, en el ámbito de sus respectivas competencias.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 227.
 
-Para los efectos del presente Código, las autoridades estatales o municipales en el ámbito de sus respectivas competencias, aplicarán a petición de parte o de oficio, independientemente de lo dispuesto por otras disposiciones legales, las siguientes sanciones:
-
-I. Multa equivalente de 180 a 240 veces el salario mínimo vigente en el Estado, a los empresarios, administradores y organizadores de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso para personas con discapacidad. En caso de incurrir tres ocasiones en la misma falta, se procederá a la clausura temporal del local por cinco días;
-
-II. Multa equivalente de 100 a 150 veces el salario mínimo vigente en el Estado, por obstruir las vías de acceso destinadas en forma exclusiva a las personas con discapacidad;
-
-III. Multa equivalente de 50 a 100 veces el salario mínimo vigente en el Estado, a quienes menoscaben la integridad física o moral de una persona con discapacidad y aquellos que encubran este tipo de conductas; y,
-
-IV. Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa será equivalente a un día de su jornal, salario o ingreso diario, tratándose de personas desempleadas sin ingresos, la multa máxima será el equivalente a un día de salario mínimo.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-Será competencia exclusiva de la Secretaría de Hacienda, la recaudación de las multas que sean impuestas por infracción a la inobservancia del presente Código.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 228.
 
-Para la imposición de sanciones se observará lo dispuesto en las leyes hacendarías del Estado, considerándose crédito fiscal toda sanción económica, impuesta por infracciones al presente Código y demás disposiciones que de ella emanen.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 229.
 
-Contra las resoluciones en las que se impongan sanciones contenidas en este Código, procederá el recurso de revisión previsto por la Ley de Procedimientos Administrativos para el Estado de Chiapas.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
 # Libro Quinto. De los Derechos de las Personas Adultas Mayores en el Estado
 
@@ -3107,7 +2507,7 @@ P.O. 23 DE SEPTIEMBRE DE 2009.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Artículo Segundo.- El DIF-Chiapas y cada uno de los DIF municipales, en el ámbito de su competencia, realizará las acciones necesarias para que .los órganos colegiados previstos en este ordenamiento queden instalados a más tardar en noventa días contados a partir de la entrada en vigor del presente Decreto.
+Artículo Segundo.- El DIF-Chiapas y cada uno de los DIF municipales, en el ámbito de su competencia, realizará las acciones necesarias para que los órganos colegiados previstos en este ordenamiento queden instalados a más tardar en noventa días contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3152,3 +2552,15 @@ Artículo Décimo.- Los Municipios del Estado, deberán asignar las partidas pre
 Así mismo, deberán prever dentro de su presupuesto, la creación de las Procuradurías Municipales de Protección de los Derechos de las Niñas, Niños, Adolescentes y la Familia, las cuales deberán contar con al menos, un procurador, un psicólogo y un trabajador social.
 
 Artículo Décimo Primero.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se deroga con el presente Decreto, lo relativo al Libro Cuarto denominado "De las Personas con Discapacidad", que comprende de los artículos 172 al 229, todos del Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas.
+
+Artículo Tercero.- El Presidente del Consejo Estatal para la Atención e Inclusión de las Personas con Discapacidad, deberá convocar a sus miembros dentro de los treinta días naturales siguientes a la publicación del presente Decreto, para la instalación del Consejo Estatal.
+
+Artículo Cuarto.- Las disposiciones reglamentarias derivadas de esta Ley, deberán ser expedidas por el Ejecutivo del Estado en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
