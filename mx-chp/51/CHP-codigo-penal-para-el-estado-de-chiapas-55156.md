@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2015-07-01"
+last_updated: "2015-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -111,11 +111,27 @@ II. La de mayor alcance absorberá a la de menor amplitud, y;
 
 III. La principal excluirá a la subsidiaria.
 
-### Capítulo I. Concepto y Formas del Delito
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo VI. De la competencia del Juez
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 8 Bis.
+
+Es Juez competente para juzgar los hechos delictuosos y para aplicar la sanción correspondiente:
+
+I. El del lugar donde se cometió el delito.
+
+II. El del lugar donde el probable responsable sea internado derivado de razones de seguridad, circunstancias personales del sujeto activo u otras que impida garantizar el desarrollo adecuado del proceso en el lugar en donde se cometió el delito. Para ello, el Ministerio Público deberá contar con la ratificación por escrito del Procurador General de Justicia del Estado;
+
+III. En aquellos casos en que instaurado el proceso, el inculpado sea trasladado a otro Centro de Reinserción Social, como consecuencia de que se hubiere actualizado alguna de las razones o circunstancias a que se refiere la fracciónanterior (sic), será competente el Juez del lugar a donde haya sido trasladado, quien continuara la secuela procesal hasta dictar la sentencia definitiva.
+
+En este supuesto, también será necesaria la petición del Ministerio Público y la ratificación del Procurador General de Justicia del Estado.
 
 ## Título Segundo. El Delito
 
-### Capítulo II. Reglas Generales Sobre la Responsabilidad
+### Capítulo I. Concepto y Formas del Delito
 
 ###### Artículo 9.
 
@@ -179,7 +195,179 @@ Obra con culpa sin representación, el activo que produce el resultado típico q
 
 Incumpliendo el activo en ambos casos un deber de cuidado que personal y objetivamente le era exigible observar.
 
-### Capítulo III. Autoría y Participación
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 15 Bis.
+
+Se calificarán como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en:
+
+A) EL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS:
+
+1. Homicidio por culpa grave, previsto en el artículo 89.
+
+2. Homicidio, previsto en los artículos 160, 163, 164 y 171.
+
+3. Feminicidio, previsto en el artículo 164 bis.
+
+4. Procreación asistida, previsto y sancionado en el artículo 185.
+
+5. Inseminación artificial, previsto y sancionado en el artículo 186.
+
+6. Manipulación genética, previsto en el artículo 189.
+
+7. El delito previsto y sancionado en el artículo 207, párrafo primero.
+
+8. Tráfico de menores de edad y de los que no tengan capacidad para entender el significado del hecho, previsto en el artículo 208, primer párrafo.
+
+9. Sustracción de menores y los que no tengan capacidad para entender el significado del hecho, previsto en los artículos 223, segundo párrafo y 224.
+
+10. Asalto, previsto en los artículos 231 y 232.
+
+11. Violación, previsto en los artículos 233, 234 y 235.
+
+12. Abuso sexual, previsto en el último párrafo del artículo 242.
+
+13. Robo, previsto en los artículos 270, con relación al 274, 275 y 276, fracciones IV, VII, VIII, IX, X, XII, XIV, XV, XVI y XVII.
+
+14. Delitos previstos y sancionados en los artículos 277, 278, 279, 281, con independencia de que sean ejecutados con violencia y/o agravados.
+
+15. Encubrimiento por receptación, previsto en el artículo 287.
+
+16. Comercialización de objetos robados, previsto en el artículo 290.
+
+17. Abigeato, previsto y sancionado en los artículos 291 y 295.
+
+18. Extorsión, previsto y sancionado en los artículos 300 y 301.
+
+19. Fraude, previsto y sancionado en el artículo 304, fracción XVII, con excepción de su último párrafo y de las fracciones XXIII y XXIV.
+
+20. Despojo, previsto y sancionado en el artículo 305, fracción IV, y penúltimo y último párrafos de dicho numeral, 306, 307, 308 y 309.
+
+21. Delito contra la seguridad en la adquisición de inmuebles y en el ejercicio de derechos reales sobre los mismos, previsto en el artículo 317.
+
+22. Corrupción de menores e incapaces, previsto y sancionado en el artículo 327.
+
+23. Pornografía infantil, previsto y sancionado por los artículos 333, 334 y 337.
+
+24. Lenocinio, previsto en los artículos 339, 340, 341, 342 y 343.
+
+25. Delitos contra el orden constitucional y la seguridad del estado, previstos en los artículos 344, 346, 347, 348 y 349.
+
+26. Sedición, previsto y sancionado en el artículo 352.
+
+27. Motín, previsto y sancionado en el artículo 353.
+
+28. Conspiración, previsto y sancionado en el artículo 354.
+
+29. Atentados contra la paz y la integridad corporal y patrimonial de la colectividad del Estado, previsto y sancionado en el artículo 369, párrafo primero.
+
+30. Evasión de presos, previsto y sancionado en el artículo 357, segunda parte del primer párrafo.
+
+31. Asociación delictuosa, prevista y sancionada en el artículo 370.
+
+32. Pandillerismo, previsto y sancionado en los artículos 371, 372, 373, 374 y 375.
+
+33. Ataques a las vías de comunicación, previsto en los artículos 379 al 382, con relación al 383.
+
+34. Abuso de autoridad, previsto y sancionado en el artículo 420, fracciones VIII, IX y XI.
+
+35. Delitos cometidos por servidores públicos durante la ejecución de la pena, previsto y sancionado en el artículo 423, fracciones I y III.
+
+36. Delitos comunes que pueden ser cometidos por servidores públicos tanto en contra de la procuración o administración de justicia como durante la ejecución de la pena, previsto y sancionado en el artículo 424, fracciones VII y IX.
+
+37. Delitos de falsedad cometidos por servidores públicos en el ejercicio de sus funciones, previsto y sancionado en el artículo 425.
+
+38. Intimidación, previsto y sancionado en el artículo 427.
+
+39. Revelación de secretos, previsto y sancionado en el artículo 437.
+
+40. Delitos en materia sanitaria, previstos y sancionados en los artículos 447 y 448, tercer párrafo.
+
+41. Delitos contra el saneamiento del ambiente y la ecología del estado, previstos y sancionados en los artículos 456, 457, fracción I, II, III, IV, VI, VIII, X y XI, 458, fracciones I, X y XI, y 459.
+
+42. Operaciones con recursos de procedencia ilícita, previsto y sancionado por el artículo 478.
+
+43. Usura, previsto y sancionado en los artículos 320 bis, 320 ter, 320 quater y 320 quintus.
+
+En su caso, la comisión de los delitos mencionados en grado de tentativa como lo establece este Código.
+
+B) EL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS Y OTRAS DISPOSICIONES LEGALES:
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DEL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+1. TORTURA, PREVISTO Y SANCIONADO EN EL ARTÍCULO 426 DEL CÓDIGO PENAL Y EN LOS ARTÍCULOS 4° Y 5° DE LA LEY ESTATAL PARA PREVENIR Y SANCIONAR LA TORTURA.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DEL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+2. DESAPARICIÓN FORZADA DE PERSONAS, PREVISTO Y SANCIONADO EN LA LEY PARA LA PREVENCIÓN Y SANCIÓN DE LA DESAPARICIÓN FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 3 DEL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+3. TRATA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DEL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+4. DELITOS CONTRA LA SALUD, PREVISTOS Y SANCIONADOS EN LOS ARTÍCULOS 475 Y 476, EN RELACIÓN A LA TABLA CONTEMPLADA EN EL ARTÍCULO 479 DE LA LEY GENERAL DE SALUD.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 5 DEL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+5. SECUESTRO, PREVISTO Y SANCIONADO EN LOS ARTÍCULOS 9, 10, 11, 17 Y 18 DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO ÚLTIMO DEL INCISO B) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+EN SU CASO, LA COMISIÓN DE LOS DELITOS MENCIONADOS EN GRADO DE TENTATIVA, ASÍ COMO LOS ESTABLECIDOS EN LAS LEYES ESPECIALES Y LOS CONSIDERADOS COMO GRAVES POR LAS LEYES GENERALES QUE SEAN COMPETENCIA DEL ESTADO.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 15 Ter.
+
+Se clasifican como delitos que ameritan prisión preventiva oficiosa los previstos en los siguientes artículos:
+
+1. Homicidio doloso, previsto en los artículos 160, 163, 164 y 171 del Código Penal del Estado.
+
+2. Feminicidio, previsto en el artículo 164 bis del Código Penal del Estado.
+
+3. Violación, previsto en los artículos 233, 234 y 235 del Código Penal del Estado.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+4. SECUESTRO, PREVISTO Y SANCIONADO EN LOS ARTÍCULOS 9, 10, 11, 17 Y 18 DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+5. DESAPARICIÓN FORZADA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA LA PREVENCIÓN Y SANCIÓN DE LA DESAPARICIÓN FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+6. TORTURA, PREVISTO Y SANCIONADO EN EL ARTÍCULO 426 DEL CÓDIGO PENAL Y EN LOS ARTÍCULOS 4 Y 5 DE LA LEY ESTATAL PARA PREVENIR Y SANCIONAR LA TORTURA.
+
+7. Asociación delictuosa, previsto y sancionado en el artículo 370 del Código Penal del Estado.
+
+8. Delitos cometidos con medios violentos como armas y explosivos.
+
+Con independencia de la violencia con que se pudieran ejecutar los delitos reseñados en los incisos 1) al 7) del presente Decreto, se considerarán como delitos cometidos con medios violentos como armas y explosivos, los siguientes: a) Robo con violencia, previsto en el artículo 270, con relación al 274, 275, fracción IV, 276, fracciones VII, IX, X, XV, XVI y XVII del Código Penal del Estado y b) Ataques a las vías de comunicación, previsto en los artículos 379 al 382, con relación al 383 del Código Penal del Estado.
+
+9. Delitos graves que determine la Ley en Contra del Libre Desarrollo de la Personalidad.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO a) DEL NUMERAL 9 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Se consideran como delitos contra el libre desarrollo de la personalidad, los siguientes: a) TRATA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS; b) Pornografía infantil, previsto y sancionado en los artículos 333, 334 y 337 del Código Penal del Estado; c) Lenocinio, previsto en los artículos 339, 340, 341, 342 y 343 del Código Penal del Estado y d) Corrupción de menores e incapaces, previsto y sancionado en el artículo 327 del Código Penal del Estado; siempre y cuando sean cometidos en agravio de menores de 18 años o personas que no tengan la capacidad de entender el significado del hecho.
+
+10. Delitos graves que determine la Ley en Contra de la Seguridad del Estado.
+
+Se consideran como delitos contra la seguridad del Estado, los siguientes: a) Delitos contra el orden constitucional y la seguridad del Estado, previsto en los artículos 344, 346, 347, 348 y 349 del Código Penal del Estado; b) Sedición, previsto y sancionado en el artículo 352 del Código Penal del Estado; c) Motín, previsto y sancionado en el artículo 353 del Código Penal del Estado; d) Conspiración, previsto y sancionado en el artículo 354 del Código Penal del Estado y e) Atentados contra la paz y la integridad corporal y patrimonial de la colectividad del Estado, previsto y sancionado en el artículo 369, párrafo primero del Código Penal del Estado.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL NUMERAL 11 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+11. DELITOS GRAVES QUE DETERMINE LA LEY EN CONTRA DE LA SALUD.
+
+(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+SE CONSIDERAN COMO DELITOS CONTRA LA SALUD, LOS SIGUIENTES: CONTRA LA SALUD, PREVISTOS Y SANCIONADOS EN LOS ARTÍCULOS 475 Y 476, EN RELACIÓN A LA TABLA CONTEMPLADA EN EL ARTÍCULO 479 DE LA LEY GENERAL DE SALUD.
+
+Además, en su caso, la comisión de los delitos mencionados en grado de tentativa.
+
+### Capítulo II. Reglas Generales Sobre la Responsabilidad
 
 ###### Artículo 16.
 
@@ -197,7 +385,7 @@ Principio de Legalidad.- No podrá imponerse pena o medida de seguridad sino por
 
 Responsabilidad de Personas jurídicas.- Para los efectos de este Código únicamente pueden ser penalmente responsables las personas físicas. Cuando algún o algunos miembros o representantes de una persona jurídica, cualquiera que sea su naturaleza, con excepción de las dependencias e instituciones del Estado, cometa un delito con los medios que para tal objeto le proporciona la persona jurídica, de manera que el delito resulte cometido a su nombre, bajo el amparo o en beneficio de dicha entidad, independientemente de la responsabilidad que recaiga sobre cada uno de los que tomen parte en el hecho delictuoso, la autoridad judicial podrá decretar en la sentencia, las punibilidades previstas por este Código para las personas jurídicas.
 
-### Capítulo IV. Tentativa
+### Capítulo III. Autoría y Participación
 
 ###### Artículo 19.
 
@@ -235,7 +423,7 @@ III.- Que los responsables hayan sabido con anterioridad a su realización, que 
 
 No será necesario acreditar los requisitos anteriores para establecer la responsabilidad por el delito emergente de quienes participen en el delito acordado, si se demuestra que estuvieron presentes en la ejecución de aquél y no hicieron cuanto a su alcance estaba para impedirlo.
 
-### Capítulo V. Concurso de Delitos
+### Capítulo IV. Tentativa
 
 ###### Artículo 21.
 
@@ -249,9 +437,7 @@ Desistimiento Voluntario y Arrepentimiento Activo.- Cuando el sujeto activo desi
 
 Tentativa Inidónea y Delito Imposible.- No será punible la tentativa cuando se pretenda llevar a cabo el delito con medios inidóneos para su consumación; tampoco será punible cuando el bien jurídico tutelado que se pretende afectar ya no exista por cualquier causa.
 
-### Capítulo VI. Causas de Exclusión del Delito
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+### Capítulo V. Concurso de Delitos
 
 ###### Artículo 24.
 
@@ -261,9 +447,9 @@ Existe concurso ideal de delitos, cuando con una sola acción o con una sola omi
 
 No habrá concurso real de delitos, cuando las acciones o las omisiones reúnan los requisitos establecidos en la ley para el delito continuado.
 
-### Capítulo I. Penas y Medidas de Seguridad
+### Capítulo VI. Causas de Exclusión del Delito
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 25.
 
@@ -343,9 +529,9 @@ Excusa Absolutoria por Urgencia.- No es punible la impericia de quien, sin profe
 
 ## Título Tercero. Consecuencias Jurídicas del Delito
 
-### Capítulo II. Prisión
+### Capítulo I. Penas y Medidas de Seguridad
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 29.
 
@@ -405,11 +591,9 @@ Las medidas u órdenes a que se refiere el artículo 70 Ter del presente Código
 
 Para su emisión, bastará únicamente la declaración de la víctima, posteriormente peritos legalmente acreditados, corroborarán el riesgo o peligro en que se encontraba la víctima.
 
-### Capítulo III. Confinamiento
+### Capítulo II. Prisión
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 31.
 
@@ -427,13 +611,17 @@ Las penas de prisión que se impongan al sentenciado, se compurgarán de manera 
 
 Los procesados sujetos a prisión preventiva, serán recluidos en establecimientos especiales.
 
-### Capítulo IV. Sanción Pecuniaria
+### Capítulo III. Confinamiento
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 34.
 
 El confinamiento, consiste en la obligación de residir en un determinado lugar y no salir de él. El Ejecutivo hará la designación del lugar, tomando en cuenta las exigencias de la tranquilidad pública, la salud y las necesidades del sentenciado.
 
-### Capítulo V. Decomiso de Instrumentos, Objetos y Productos del Delito
+### Capítulo IV. Sanción Pecuniaria
 
 ###### Artículo 35.
 
@@ -539,9 +727,7 @@ Cuando el sujeto activo se sustraiga de la acción de la justicia, se harán efe
 
 Cuando en los artículos de este Código se haga referencia a salarios, se entenderá por éste al salario mínimo general diario vigente en la capital del Estado al momento de cometerse el delito.
 
-### Capítulo V Bis. Decomiso por Valor Equivalente
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+### Capítulo V. Decomiso de Instrumentos, Objetos y Productos del Delito
 
 ###### Artículo 50.
 
@@ -591,13 +777,15 @@ Procederá la devolución de los bienes asegurados, cuando se acredite legalment
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-### Capítulo VI. Suspensión o Privación de Derechos
+### Capítulo V Bis. Decomiso por Valor Equivalente
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 51 Bis.
 
 Procederá el decomiso de instrumentos, objetos y productos del delito, o de bienes del inculpado cuyo valor sea equivalente, cuando aquellos se hayan perdido, consumido o extinguido, no sea posible localizarlos, o se trate de bienes que constituyan garantías de créditos preferentes.
 
-### Capítulo VII. Inhabilitación, Destitución o Suspensión de Cargos o Empleos Públicos o Ejercicio de Profesiones, Actividades Técnicas u Oficios
+### Capítulo VI. Suspensión o Privación de Derechos
 
 ###### Artículo 52.
 
@@ -625,7 +813,7 @@ La pena de prisión produce la suspensión de derechos políticos y los de tutel
 
 La privación surtirá efectos, desde el momento en que cause ejecutoria la sentencia.
 
-### Capítulo VIII. Intervención, Remoción, Prohibición de Realizar Determinadas Operaciones, Suspensión y Disolución de las Personas Jurídicas
+### Capítulo VII. Inhabilitación, Destitución o Suspensión de Cargos o Empleos Públicos o Ejercicio de Profesiones, Actividades Técnicas u Oficios
 
 ###### Artículo 54.
 
@@ -643,11 +831,7 @@ La suspensión de empleo o cargo, se entiende siempre con privación de sueldo.
 
 La suspensión en el ejercicio de profesiones, actividades u oficios se regirá, en cuanto sea aplicable, por las disposiciones del capítulo que precede.
 
-### Capítulo IX. Tratamiento en Libertad
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo VIII. Intervención, Remoción, Prohibición de Realizar Determinadas Operaciones, Suspensión y Disolución de las Personas Jurídicas
 
 ###### Artículo 58.
 
@@ -675,13 +859,17 @@ Al imponer las sanciones previstas en el artículo anterior, el Juez tomará las
 
 La imposición de las sanciones del artículo anterior, será comunicada por el Juez al Registro Público respectivo, para la anotación que corresponda.
 
-### Capítulo X. Semilibertad
+### Capítulo IX. Tratamiento en Libertad
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 61.
 
 El tratamiento en libertad de imputables consiste en la aplicación de medidas laborales, educativas y curativas, en su caso autorizadas por la ley y conducentes a la reinserción social del sentenciado, bajo la orientación y cuidado de la autoridad ejecutora, su duración no podrá exceder de la correspondiente a la pena de prisión sustituida.
 
-### Capítulo XI. Trabajos en Favor de la Comunidad
+### Capítulo X. Semilibertad
 
 ###### Artículo 62.
 
@@ -699,7 +887,7 @@ La semilibertad, podrá imponerse como pena autónoma o como sustitutiva de la p
 
 En todo caso, la semilibertad se cumplirá bajo el cuidado de la autoridad competente.
 
-### Capítulo XII. Prohibición de ir a Lugar Determinado o de Residir en él
+### Capítulo XI. Trabajos en Favor de la Comunidad
 
 ###### Artículo 63.
 
@@ -721,17 +909,17 @@ Por ningún concepto se desarrollará este trabajo en forma que resulte degradan
 
 Tratándose de delitos de violencia familiar, el trabajo a favor de la comunidad deberá de llevarse a cabo en lugares destinados a atender casos de víctimas a este delito. Asimismo, deberá aplicarse, de forma conjunta, por lo que corresponde a dicho delito, el trabajo a favor de la comunidad y la multa a que se haga acreedor.
 
-### Capítulo XIII. Vigilancia de la Policía o Supervisión de la o Autoridad Competente
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo XII. Prohibición de ir a Lugar Determinado o de Residir en él
 
 ###### Artículo 64.
 
 El juzgador podrá imponer al sentenciado la prohibición de ir a un lugar determinado o de residir en él, tomando en consideración las exigencias de la tranquilidad pública, la seguridad y la tranquilidad del ofendido y de sus familiares. Estas medidas no podrán exceder en su duración del término de la pena impuesta.
 
-### Capítulo XIV. Tratamiento de Inimputables o de Personas con Imputabilidad Disminuida
+### Capítulo XIII. Vigilancia de la Policía o Supervisión de la o Autoridad Competente
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 65.
 
@@ -739,9 +927,7 @@ La vigilancia y la supervisión consistirán en la observación y en su caso en 
 
 Estas medidas se decretarán, según el caso, cuando en la sentencia se imponga una sanción que restrinja la libertad o derechos, sustituya la privación de libertad por otra sanción o conceda la suspensión condicional de la ejecución de la sentencia, así como en los demás casos que la ley disponga. Su duración será fijada por el juzgador, pero en los casos en que el sentenciado haya obtenido su libertad, no podrá exceder de tres años.
 
-### Capítulo XV. Tratamiento contra adicciones, de desintoxicación, medidas reeducativas, tratamiento psicoterapéutico integral y protección de la dignidad humana
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+### Capítulo XIV. Tratamiento de Inimputables o de Personas con Imputabilidad Disminuida
 
 ###### Artículo 66.
 
@@ -785,9 +971,9 @@ Concluido el tiempo de tratamiento, la autoridad competente entregará al inimpu
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo XVI. De las órdenes de protección en casos de violencia contra las mujeres
+### Capítulo XV. Tratamiento contra adicciones, de desintoxicación, medidas reeducativas, tratamiento psicoterapéutico integral y protección de la dignidad humana
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 70.
 
@@ -803,9 +989,9 @@ Los tratamientos señalados en el presente artículo, no podrán exceder en su d
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo I. Reglas Generales
+### Capítulo XVI. De las órdenes de protección en casos de violencia contra las mujeres
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 70 Bis.
 
@@ -875,7 +1061,9 @@ Estas medidas serán tramitadas ante los órganos jurisdiccionales competentes.
 
 ## Título Cuarto. Aplicación de Penas y Medidas de Seguridad
 
-### Capítulo II. Punibilidad para los Casos de Participación y Autoría Indeterminada o Complicidad Correspectiva
+### Capítulo I. Reglas Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 71.
 
@@ -961,15 +1149,13 @@ Cuando una ley quite a una conducta el carácter de delictiva que la ley anterio
 
 Cuando un servidor o ex servidor público de una institución de procuración o de administración de justicia, o de una corporación policial, participe dolosamente en la comisión de alguno de los delitos señalados en los artículos 160, 214, 231, 233, 267, 278, 288 y 297 de este Código, la pena podrá aumentarse a juicio del juzgador hasta en una mitad más de las previstas para cada uno de ellos, a menos que en las disposiciones relativas a la sanción del delito ya se tome en consideración esta circunstancia.
 
-### Capítulo III. Punibilidad para los Casos de Concurso Real y Concurso Ideal de Delitos
+### Capítulo II. Punibilidad para los Casos de Participación y Autoría Indeterminada o Complicidad Correspectiva
 
 ###### Artículo 78.
 
 Para los casos a que se refieren las fracciones IV, V y VI del artículo 19 de este Código, se impondrá como pena, de las tres cuartas partes del mínimo a las tres cuartas partes del máximo correspondiente al delito de que se trate, y en su caso, de acuerdo con la modalidad respectiva.
 
-### Capítulo IV. Punibilidad en el Caso de Tentativa
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+### Capítulo III. Punibilidad para los Casos de Concurso Real y Concurso Ideal de Delitos
 
 ###### Artículo 79.
 
@@ -983,7 +1169,7 @@ En caso de concurso ideal, se aplicará la pena del delito que merezca la mayor,
 
 En ningún, caso la pena establecida para el concurso real o el concurso ideal, podrá exceder de la pena máxima señalada en el artículo 31 de este Código.
 
-### Capítulo V. Punibilidad de los Delitos Culposos
+### Capítulo IV. Punibilidad en el Caso de Tentativa
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -1001,7 +1187,9 @@ No será punible la tentativa, cuando el delito no pudiera consumarse por inidon
 
 Cuando no se pueda establecer el daño que el sujeto activo pretendió causar, se impondrán de tres meses a cinco años de prisión y hasta cincuenta días multa.
 
-### Capítulo VI. Punibilidad en Caso de Delito Continuado
+### Capítulo V. Punibilidad de los Delitos Culposos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 85.
 
@@ -1071,15 +1259,15 @@ Lo dispuesto en las dos fracciones anteriores, se aplicará siempre que dicho su
 
 Al propietario, poseedor, administrador o encargado de una finca rústica o urbana que permita que los semovientes a su cuidado permanezcan o transiten en las arterias de circulación ubicadas dentro del Estado se le impondrán de uno a tres años de prisión, independientemente de la reparación de los daños que se ocasionen.
 
-### Capítulo VII. Punibilidad para los Casos de Error
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+### Capítulo VI. Punibilidad en Caso de Delito Continuado
 
 ###### Artículo 92.
 
 En caso de delito continuado, se aumentará desde una mitad hasta las dos terceras partes de la pena máxima que la ley prevea para el delito cometido, sin que el total de la pena pueda exceder del término máximo señalado en este Código.
 
-### Capítulo VIII. Punibilidad en los Casos de Exceso en las Causas de Justificación
+### Capítulo VII. Punibilidad para los Casos de Error
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 93.
 
@@ -1091,13 +1279,13 @@ En caso de que el error de tipo señalado en el artículo 25, fracción IV, apar
 
 En caso de que el error de prohibición señalado en el artículo 25, fracción I, apartado C, de este Código sea vencible, la pena se atenuará y se aplicará del mínimo hasta una tercera parte de la pena máxima establecida para el delito de que se trate.
 
-### Capítulo IX. Sustitución y Conmutación de Penas
+### Capítulo VIII. Punibilidad en los Casos de Exceso en las Causas de Justificación
 
 ###### Artículo 95.
 
 Al que incurra en exceso en la legítima defensa, estado de necesidad justificante, en el cumplimiento de un deber o en el ejercicio de un derecho, se le impondrá del mínimo hasta la mitad de la pena máxima o medidas de seguridad que correspondan al delito de que se trate.
 
-### Capítulo I. Ejecución de la Sentencia
+### Capítulo IX. Sustitución y Conmutación de Penas
 
 ###### Artículo 96.
 
@@ -1187,7 +1375,7 @@ El Juez de ejecución tendrá la facultad de valorar y en su caso modificar medi
 
 ## Título Quinto. De la Aplicación de Sentencias
 
-### Capítulo II. Libertad Preparatoria
+### Capítulo I. Ejecución de la Sentencia
 
 ###### Artículo 103.
 
@@ -1199,13 +1387,13 @@ Cuando el sentenciado falleciere al estar cumpliendo una sanción privativa de l
 
 > <small>(F. DE E., P.O. 2 DE MAYO DE 2007)</small>
 
-### Capítulo III. Condena Condicional
+### Capítulo II. Libertad Preparatoria
 
 ###### Artículo 105.
 
 El beneficio de la libertad preparatoria al sentenciado, se concederá en la forma y términos que establece la ley respectiva.
 
-### Capítulo I. Reglas Generales
+### Capítulo III. Condena Condicional
 
 ###### Artículo 106.
 
@@ -1287,7 +1475,7 @@ El beneficio de la condena condicional, se concederá aun cuando la sentencia no
 
 ## Título Sexto. Extinción de la Responsabilidad Penal
 
-### Capítulo II. Muerte del Sujeto Activo
+### Capítulo I. Reglas Generales
 
 ###### Artículo 114.
 
@@ -1333,17 +1521,13 @@ XII.- Existencia de una sentencia anterior dictada en proceso seguido por los mi
 
 La resolución sobre la extinción de la acción penal, se dictará de oficio o a petición de parte; la resolución que haya ordenado el decomiso de los instrumentos, objetos o productos del delito, así como la relativa a la reparación del daño, no serán afectadas por la extinción de la acción penal, salvo que exista una expresa disposición legal en otro sentido.
 
-### Capítulo III. Amnistía
+### Capítulo II. Muerte del Sujeto Activo
 
 ###### Artículo 116.
 
 La muerte del procesado o sentenciado, extingue la acción penal del Estado y su potestad para ejecutar penas y medidas de seguridad, respectivamente, con excepción del decomiso de los instrumentos, objetos y productos del delito y la reparación del daño.
 
-### Capítulo IV. Perdón del Ofendido o del Legitimado para Otorgarlo
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo III. Amnistía
 
 ###### Artículo 117.
 
@@ -1351,7 +1535,11 @@ La amnistía extingue la acción penal y en su caso las sanciones que se hubiere
 
 La amnistía beneficiará a todos los responsables del delito.
 
-### Capítulo V. Amnistía y Libertad con Suspensión de Procedimiento o Sentencia
+### Capítulo IV. Perdón del Ofendido o del Legitimado para Otorgarlo
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 118.
 
@@ -1411,7 +1599,7 @@ Para que el perdón otorgado surta sus efectos legales, será indispensable en t
 
 El Gobernador del Estado, sujetándose a lo dispuesto en el Código de Procedimientos Penales aplicable, podrá conceder el beneficio del perdón en todos los delitos.
 
-### Capítulo VI. Rehabilitación
+### Capítulo V. Amnistía y Libertad con Suspensión de Procedimiento o Sentencia
 
 ###### Artículo 127.
 
@@ -1433,7 +1621,7 @@ Sin perjuicio de lo que dispongan las leyes aplicables, en los delitos político
 
 Los beneficios derivados de los artículos de este capítulo, en ningún caso extinguirán la obligación de reparar el daño causado.
 
-### Capítulo VII. Prescripción
+### Capítulo VI. Rehabilitación
 
 ###### Artículo 131.
 
@@ -1445,7 +1633,7 @@ La rehabilitación no extingue la acción penal, sino sólo la potestad de ejecu
 
 En todo caso la rehabilitación deberá decretarse judicialmente.
 
-### Capítulo VIII. Reconocimiento de la Inocencia del Sentenciado y Anulación de la Sentencia Ejecutoria
+### Capítulo VII. Prescripción
 
 ###### Artículo 133.
 
@@ -1577,7 +1765,7 @@ Corresponde al órgano jurisdiccional, declarar la extinción de la potestad del
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo IX. Indulto
+### Capítulo VIII. Reconocimiento de la Inocencia del Sentenciado y Anulación de la Sentencia Ejecutoria
 
 ###### Artículo 149.
 
@@ -1593,7 +1781,7 @@ El reconocimiento de inocencia y anulación de sentencia ejecutoria extingue la 
 
 Si la condena anulada obedeció a descuido, negligencia o inexperiencia de los Órganos del Estado, el Ejecutivo cubrirá el daño causado a quien habiendo sido condenado indebidamente, haya obtenido el reconocimiento de su inocencia. Si la causa de la condena anulada lo fue la fabricación, simulación, o la falsificación de pruebas, o el contubernio de autoridades con particulares, se dará vista inmediata al Ministerio Público para que proceda conforme con sus atribuciones.
 
-### Capítulo X. Conclusión del Tratamiento de Inimputables
+### Capítulo IX. Indulto
 
 ###### Artículo 151.
 
@@ -1619,11 +1807,17 @@ No podrá otorgarse el indulto a los sentenciados por los delitos de violación,
 
 El indulto no extingue la obligación de reparar el daño causado ni el decomiso que se haya decretado de los instrumentos, objetos o productos del delito.
 
-### Capítulo XI. Cumplimiento de la Pena o Medida de Seguridad
+### Capítulo X. Conclusión del Tratamiento de Inimputables
 
 ###### Artículo 155.
 
 La potestad para la ejecución de medidas de tratamiento a inimputables, se considerará extinguida si se acredita pericialmente y de manera incontrovertible que el sujeto ya no requiere tratamiento. Esta disposición será aplicable aún en los casos en que el inimputable haya sido aprehendido después de encontrarse prófugo.
+
+### Capítulo XI. Cumplimiento de la Pena o Medida de Seguridad
+
+###### Artículo 156.
+
+La potestad para ejecutar la pena o la medida de seguridad impuesta, se extingue por el cumplimiento de las mismas o en su caso de las sanciones por las que se hubiesen sustituido o conmutado. Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos al otorgar la suspensión, en los términos y dentro de los plazos legalmente aplicables.
 
 ### Capítulo XII. Supresión del Tipo Penal
 
@@ -1631,21 +1825,13 @@ La potestad para la ejecución de medidas de tratamiento a inimputables, se cons
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
 
-###### Artículo 156.
-
-La potestad para ejecutar la pena o la medida de seguridad impuesta, se extingue por el cumplimiento de las mismas o en su caso de las sanciones por las que se hubiesen sustituido o conmutado. Asimismo, la sanción que se hubiese suspendido se extinguirá por el cumplimiento de los requisitos establecidos al otorgar la suspensión, en los términos y dentro de los plazos legalmente aplicables.
-
-### Capítulo XIII. Existencia de una Sentencia Anterior Dictada en Proceso Seguido por los mismos Hechos
-
 ###### Artículo 157.
 
 Cuando un tipo penal sea suprimido por una nueva ley, se extinguirá la facultad del Estado para ejecutar la pena o medida de seguridad impuesta y en su caso la acción penal, poniéndose en absoluta libertad al imputado o al sentenciado, cesando de pleno derecho todos los efectos del procedimiento penal o de la sentencia.
 
 En estos casos, la parte de la sentencia que se hubiese ejecutado o cumplido, no serán devueltos al sentenciado por tratarse de hechos consumados y agotados al amparo de la ley anterior. Por esta razón, no procederá demanda alguna contra el Estado por concepto de daños ni procederá la devolución del pago de multas o de reparación del daño que se hubiesen efectuado.
 
-### Capítulo XIV. Cumplimiento de Criterio de Oportunidad, Acuerdo Reparatorio en Justicia Restaurativa, o de las Condiciones Decretadas en la Suspensión Condicional del Proceso
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
+### Capítulo XIII. Existencia de una Sentencia Anterior Dictada en Proceso Seguido por los mismos Hechos
 
 ###### Artículo 158.
 
@@ -1661,7 +1847,9 @@ III.- Dos sentencias, dictadas en procesos distintos, se aplicará la sentencia 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo Único. De los Menores
+### Capítulo XIV. Cumplimiento de Criterio de Oportunidad, Acuerdo Reparatorio en Justicia Restaurativa, o de las Condiciones Decretadas en la Suspensión Condicional del Proceso
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 158 Bis.
 
@@ -1669,7 +1857,7 @@ La potestad para ejercer la acción penal, se extingue en estos casos en los sup
 
 ## Título Séptimo. Delincuencia de Menores
 
-### Capítulo I. Homicidio
+### Capítulo Único. De los Menores
 
 ###### Artículo 159.
 
@@ -1681,7 +1869,7 @@ A los menores que de acuerdo con las disposiciones aplicables de este Código ha
 
 ## Título Primero. Delitos contra la vida, la integridad corporal, la dignidad humana de las mujeres y contra el derecho a una vida libre de violencia
 
-### Capítulo II. Lesiones
+### Capítulo I. Homicidio
 
 ###### Artículo 160.
 
@@ -1719,7 +1907,7 @@ El juzgador tomará en cuenta para los efectos de la sanción las modalidades ca
 
 > <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2012)</small>
 
-### Capítulo III. Calificativas y Atenuantes Comunes Para los Delitos de Homicidio, Muerte Cerebral y Lesiones
+### Capítulo II. Lesiones
 
 ###### Artículo 164 Bis.
 
@@ -1743,7 +1931,7 @@ VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a l
 
 En el caso de la fracción I se impondrá además de la pena, la pérdida de derechos con respecto a la víctima y ofendidos, incluidos los de carácter sucesorio.
 
-### Capítulo IV. Reglas Comunes para los Delitos de Homicidio, Muerte Cerebral y Lesiones
+### Capítulo III. Calificativas y Atenuantes Comunes Para los Delitos de Homicidio, Muerte Cerebral y Lesiones
 
 ###### Artículo 165.
 
@@ -1801,13 +1989,13 @@ Al responsable de una lesión calificada se le aumentará la sanción hasta el d
 
 Tratándose de las lesiones referidas en el artículo 168, la autoridad jurisdiccional decretará las órdenes de protección en favor de las víctimas, así como las penas y medidas de seguridad procedentes.
 
+### Capítulo IV. Reglas Comunes para los Delitos de Homicidio, Muerte Cerebral y Lesiones
+
 ### Capítulo V. Instigación o Ayuda al Suicidio
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
-
-### Capítulo VI. Aborto
 
 ###### Artículo 170.
 
@@ -1867,9 +2055,7 @@ Al responsable del delito de lesiones en estado de emoción violenta, se le impo
 
 No se aplicará la atenuante relativa al estado de emoción violenta establecida en los párrafos segundo y tercero del artículo 172 en los delitos de feminicidio; violencia familiar; violencia psicológica; violencia física; lesiones dolosas que se causen a un ascendiente, descendiente, cónyuge, concubina o concubinario o cualquier otra relación de pareja del sujeto activo, o en la comisión de delitos en los que se presenten elementos de violencia contra las mujeres.
 
-### Capítulo VII Bis (SIC). Violencia sobre los derechos reproductivos
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+### Capítulo VI. Aborto
 
 ###### Artículo 173.
 
@@ -1901,7 +2087,7 @@ Para decretar la muerte cerebral, deberá descartarse pericialmente que los sign
 
 El Ministerio Público podrá no ejercitar la acción penal y el juzgador podrá abstenerse de aplicar pena alguna a quien por culpa ocasione lesiones u homicidio en agravio de un ascendiente o descendiente consanguíneo en línea recta, hermano, adoptante o adoptado, cónyuge, concubina, concubinario o cuando exista entre el agente y el pasivo una relación de pareja permanente, salvo que al momento de los hechos el sujeto activo se encuentre bajo el efecto de bebidas embriagantes, estupefacientes o psicotrópicos sin mediar prescripción médica o bien se haya dado a la fuga y no haya auxiliado a la víctima.
 
-### Capítulo VII Ter. Violencia Obstétrica
+### Capítulo VII Bis (SIC). Violencia sobre los derechos reproductivos
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -1919,7 +2105,9 @@ No se aplicará pena alguna si quien ayudó o indujo el suicidio frustra su cons
 
 Si la persona a quien se instiga o se ayuda fuere un menor de edad o no tenga la capacidad de comprender el hecho o de resistirlo, se impondrá al responsable la pena correspondiente a las lesiones o al homicidio calificado.
 
-### Capítulo I. Procreación Asistida e Inseminación Artificial
+### Capítulo VII Ter. Violencia Obstétrica
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 178.
 
@@ -1953,7 +2141,7 @@ A la mujer que voluntariamente practique o consienta que se le practique un abor
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo II. Manipulación Genética
+### Capítulo I. Procreación Asistida e Inseminación Artificial
 
 ###### Artículo 183 Bis.
 
@@ -1961,7 +2149,7 @@ A quien limite o vulnere el derecho de las mujeres a decidir libre y voluntariam
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo I. Incumplimiento de Obligaciones de Asistencia Familiar
+### Capítulo II. Manipulación Genética
 
 ###### Artículo 183 Ter.
 
@@ -1985,9 +2173,7 @@ IV. Practique una cesárea, existiendo condiciones para el parto natural.
 
 ## Título Segundo. Procreación Asistida, Inseminación Artificial y Manipulación Genética
 
-### Capítulo II. Violencia Familiar
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
+### Capítulo I. Incumplimiento de Obligaciones de Asistencia Familiar
 
 ###### Artículo 184.
 
@@ -2021,7 +2207,9 @@ Además de las penas previstas en este capítulo, la autoridad jurisdiccional po
 
 Cuando entre el activo y la pasivo exista relación de matrimonio, concubinato o relación de pareja, los delitos previstos en este capítulo se perseguirán por querella.
 
-### Capítulo I. Abandono de Personas
+### Capítulo II. Violencia Familiar
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2011)</small>
 
 ###### Artículo 189.
 
@@ -2043,7 +2231,7 @@ Si resultaren hijos a consecuencia de la comisión de alguno de los delitos prev
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo II. Tráfico de Menores de Edad y los que no Tengan Capacidad de Entender el Significado del Hecho
+### Capítulo I. Abandono de Personas
 
 ###### Artículo 191.
 
@@ -2111,7 +2299,7 @@ Esta agravación de la pena, no tendrá lugar cuando se haya decretado la extinc
 
 Tratándose de los delitos previstos en los artículos 191 y 193, el Juez deberá de ordenar el registro del Deudor Alimentario Moroso, en el Registro de Deudores Alimentarios del Estado de Chiapas.
 
-### Capítulo I
+### Capítulo II. Tráfico de Menores de Edad y los que no Tengan Capacidad de Entender el Significado del Hecho
 
 ###### Artículo 198.
 
@@ -2165,7 +2353,7 @@ Si de la comisión de los delitos establecidos en este capítulo resultare la ac
 
 ## Título Cuarto. Delitos de Peligro contra la Vida o la Integridad de las Personas
 
-### Capítulo II. Retención y Sustracción de Menores y los que no Tengan Capacidad de Entender el Significado del Hecho
+### Capítulo I
 
 ###### Artículo 204.
 
@@ -2193,7 +2381,7 @@ Los ascendientes o tutores que entreguen en un establecimiento de beneficencia o
 
 No se impondrá pena alguna cuando la entrega o el abandono del menor o del incapaz se realice por su padre con anuencia de la madre, por la madre o por ambos por notoria ignorancia, extrema pobreza o cuando el menor sea producto de una violación o inseminación artificial delictiva.
 
-### Capítulo I. Amenazas
+### Capítulo II. Retención y Sustracción de Menores y los que no Tengan Capacidad de Entender el Significado del Hecho
 
 ###### Artículo 208.
 
@@ -2231,9 +2419,7 @@ Si la recuperación de la víctima se logra por datos proporcionados por el impu
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JULIO DE 2015)</small>
 
-### Capítulo I Bis. Engaño
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2014)</small>
+### Capítulo I. Amenazas
 
 ###### Artículo 211.
 
@@ -2287,7 +2473,9 @@ Si la recuperación de la víctima se logra por datos proporcionados por el impu
 
 (DEROGADO, P.O. 1 DE JULIO DE 2015)
 
-### Capítulo II. Allanamiento
+### Capítulo I Bis. Engaño
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2014)</small>
 
 ###### Artículo 223.
 
@@ -2307,15 +2495,13 @@ Si el sujeto activo de la sustracción del menor o del incapaz no tiene la final
 
 Cuando el sujeto activo devuelva espontáneamente al menor o al incapaz dentro de las veinticuatro horas siguientes a la comisión del delito de retención o sustracción de menores o incapaces, sólo se le impondrá hasta una tercera parte de las sanciones señaladas para esos delitos, sin perjuicio de las penas que correspondan por la comisión de otros delitos durante el tiempo que haya durado la sustracción o retención.
 
+### Capítulo II. Allanamiento
+
 ### Capítulo III. Asalto
-
-### Capítulo I. Violación
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ## Título Sexto. Delitos Contra la Paz y la Seguridad de las Personas
 
-### Capítulo II. Hostigamiento Sexual
+### Capítulo I. Violación
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2331,7 +2517,7 @@ El delito de amenazas, sólo se perseguirá por querella del ofendido.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE AGOSTO DE 2014)</small>
 
-### Capítulo III. Estupro
+### Capítulo II. Hostigamiento Sexual
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2341,9 +2527,9 @@ Se aplicará pena de dos a ocho años de prisión y multa de quinientos a mil d�
 
 Cuando el delito previsto en el párrafo anterior sea cometido por un servidor o ex servidor público de una institución de seguridad pública, de procuración o de administración de justicia, la pena aplicable será de cuatro a doce años de prisión y multa de quinientos a mil días de salario mínimo. Además de la pena de prisión y multa prevista, el servidor público será destituido y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos hasta por un término igual a la pena impuesta.
 
-### Capítulo IV. Abuso Sexual
+### Capítulo III. Estupro
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 229.
 
@@ -2359,9 +2545,9 @@ Se impondrán de tres días a seis meses de prisión y de tres a cincuenta días
 
 Los delitos previstos en este capítulo se perseguirán por querella de parte ofendida.
 
-### Capítulo V. Rapto
+### Capítulo IV. Abuso Sexual
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 231.
 
@@ -2377,7 +2563,7 @@ Si el asalto se cometiera en contra de una población, cualquiera que sean sus c
 
 ## Título Séptimo. Delitos Contra la Libertad Sexual y el Normal Desarrollo Psicosexual
 
-### Capítulo VI. Incesto
+### Capítulo V. Rapto
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2393,7 +2579,9 @@ Al responsable del delito de violación se le sancionará con pena de ocho a vei
 
 Se equipara al delito de violación y se sancionará con las mismas penas al que, por medio de la violencia física o moral, introduzca en el cuerpo del sujeto pasivo por vía vaginal o anal cualquier elemento, instrumento, objeto o parte del cuerpo humano distinto del miembro viril.
 
-### Capítulo VII. Disposiciones Comunes Para los Delitos Contenidos en este Título
+### Capítulo VI. Incesto
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 235.
 
@@ -2411,7 +2599,7 @@ En estos casos, si se hiciere uso de la violencia física o moral, la pena podr�
 
 Las penas señaladas para el delito de violación, se aplicarán aunque se demuestre que el sujeto pasivo sea o haya sido esposa, concubina o pareja permanente del sujeto activo, pero en estos casos el delito se perseguirá por querella de parte ofendida.
 
-### Capítulo I. Difamación
+### Capítulo VII. Disposiciones Comunes Para los Delitos Contenidos en este Título
 
 ###### Artículo 237.
 
@@ -2431,9 +2619,9 @@ Las mismas penas se aplicarán al servidor público que obligue a una persona a 
 
 Sólo se procederá contra el responsable del delito de hostigamiento sexual por querella de parte ofendida.
 
-### Capítulo II. Calumnia
+### Capítulo I. Difamación
 
-### Capítulo III. Disposiciones Comunes Para los Delitos Comprendidos en este Título
+### Capítulo II. Calumnia
 
 ###### Artículo 239.
 
@@ -2445,7 +2633,7 @@ Al responsable del delito de estupro, se le sancionará con pena de prisión de 
 
 (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
-### Capítulo I. Delitos Contra el Estado Civil
+### Capítulo III. Disposiciones Comunes Para los Delitos Comprendidos en este Título
 
 ###### Artículo 241.
 
@@ -2491,7 +2679,7 @@ En todos los casos, cuando la víctima sea menor de catorce años, el delito se 
 
 Cuando se presente la intervención activa de un tercero en estos casos, sólo se procederá contra él si se demuestra que conocía las circunstancias en las que se lleva a cabo la cópula o el acto sexual, o cuando el sujeto pasivo sea menor de catorce años.
 
-### Capítulo II. Bigamia
+### Capítulo I. Delitos Contra el Estado Civil
 
 ###### Artículo 244.
 
@@ -2511,7 +2699,7 @@ Las penas dispuestas se aplicarán con independencia de las que correspondan por
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
 
-### Capítulo I. Robo
+### Capítulo II. Bigamia
 
 ###### Artículo 246.
 
@@ -2521,9 +2709,7 @@ A los responsables del delito de incesto, se les impondrá la pena de cinco a di
 
 Cuando el sujeto pasivo sea un menor de dieciocho años, se aumentará la pena hasta en una mitad de su mínimo y de su máximo.
 
-### Capítulo II. Abigeato
-
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
+### Capítulo I. Robo
 
 ###### Artículo 247.
 
@@ -2559,7 +2745,9 @@ Si en los delitos mencionados en el presente título participa algún servidor p
 
 ## Título Octavo. Delitos Contra el Honor
 
-### Capítulo III. Abuso de Confianza
+### Capítulo II. Abigeato
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2014)</small>
 
 ###### Artículo 251.
 
@@ -2573,7 +2761,7 @@ Si en los delitos mencionados en el presente título participa algún servidor p
 
 (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
-### Capítulo IV. Extorsión
+### Capítulo III. Abuso de Confianza
 
 ###### Artículo 254.
 
@@ -2595,7 +2783,7 @@ Si en los delitos mencionados en el presente título participa algún servidor p
 
 (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2007)
 
-### Capítulo V. Fraude
+### Capítulo IV. Extorsión
 
 ###### Artículo 259.
 
@@ -2627,7 +2815,7 @@ Si en los delitos mencionados en el presente título participa algún servidor p
 
 ## Título Noveno. Delitos Contra el Estado Civil y el Matrimonio
 
-### Capítulo VI. Despojo
+### Capítulo V. Fraude
 
 ###### Artículo 266.
 
@@ -2653,7 +2841,7 @@ VIII.- Inscriba o haga inscribir un divorcio o nulidad de matrimonio inexistente
 
 El que incurra en la comisión de alguno de los delitos señalados en este capítulo, perderá los derechos que tenga con respecto al ofendido, incluidos los de carácter sucesorio y de familia.
 
-### Capítulo VII. Daños
+### Capítulo VI. Despojo
 
 ###### Artículo 268.
 
@@ -2669,9 +2857,7 @@ Los delitos comprendidos en este capítulo, sólo se perseguirá por querella de
 
 ## Título Décimo. Delitos en Contra de las Personas en su Patrimonio
 
-### Capítulo VII Bis. Violencia Patrimonial y/o Económica y Fraude Familiar
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+### Capítulo VII. Daños
 
 ###### Artículo 270.
 
@@ -2875,7 +3061,9 @@ I. Si el valor intrínseco de los objetos es superior a quinientas veces el sala
 
 II. Si el valor intrínseco de los objetos no es superior a quinientas veces el salario, se aplicará una pena de prisión de uno a cuatro años y multa de cincuenta a quinientos días multa.
 
-### Capítulo VIII. Delitos Contra la Seguridad en la Adquisición de Inmuebles y en el Ejercicio de Derechos Reales Sobre los Mismos
+### Capítulo VII Bis. Violencia Patrimonial y/o Económica y Fraude Familiar
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 291.
 
@@ -2959,9 +3147,7 @@ XII.- Reciba, ministre, aproveche, o realice actos de intermediario en el comerc
 
 XIII.- Legalice o intervenga en la realización, de documentos para acreditar la propiedad o posesión de animales producto del abigeato.
 
-### Capítulo IX. Usura
-
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2009)</small>
+### Capítulo VIII. Delitos Contra la Seguridad en la Adquisición de Inmuebles y en el Ejercicio de Derechos Reales Sobre los Mismos
 
 ###### Artículo 296.
 
@@ -2995,7 +3181,9 @@ Se equipara al abuso de confianza y se sancionará con las mismas penas la reten
 
 El abuso de confianza, sólo se perseguirá a petición del ofendido en cualquier caso.
 
-### Capítulo Único. Delitos Contra la Legal Demarcación de Centros de Población
+### Capítulo IX. Usura
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2009)</small>
 
 ###### Artículo 300.
 
@@ -3037,7 +3225,7 @@ En los casos correspondientes, se impondrá, además, al servidor o ex servidor 
 
 Si se tratare de un miembro de las fuerzas armadas mexicanas en situación de retiro, se le inhabilitará de uno a cinco años para desempeñar cargo o comisión pública, respecto de los miembros de las fuerzas armadas en situación de reserva o en activo, se dará aviso e intervención mediante el desglose respectivo que lleve a cabo la autoridad investigadora, a la institución armada a que pertenezca el imputado para los efectos legales respectivos.
 
-### Capítulo I. Delitos Contra la Moral Pública
+### Capítulo Único. Delitos Contra la Legal Demarcación de Centros de Población
 
 ###### Artículo 302.
 
@@ -3143,11 +3331,11 @@ Salvo disposición en contrario, este delito se perseguirá a petición del suje
 
 El delito de fraude, se perseguirá por querella del ofendido, excepto la hipótesis contenida en la fracción XXI de este artículo.
 
+### Capítulo I. Delitos Contra la Moral Pública
+
 ### Capítulo II. Discriminación
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-### Capítulo III. Corrupción de Menores e Incapaces
 
 ###### Artículo 305.
 
@@ -3237,7 +3425,7 @@ El Juez que conozca del asunto, y determine que de ejecutarse la sentencia se af
 
 Una vez que el Tribunal Constitucional del Tribunal Superior de Justicia del Estado, resuelva la procedencia del cumplimiento de la sentencia y de la restitución de los derechos del ofendido por medio de la reparación del daño, remitirá los autos al Juez de Ejecución que haya conocido de la causa penal, para que, incidentalmente resuelva el modo o cuantía de la reparación del daño.
 
-### Capítulo IV. Lenocinio
+### Capítulo III. Corrupción de Menores e Incapaces
 
 ###### Artículo 312.
 
@@ -3287,11 +3475,7 @@ Si antes de dictarse sentencia ejecutoriada el sujeto activo repone, repara o re
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo I. Delitos Contra el Orden Constitucional
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
+### Capítulo IV. Lenocinio
 
 ###### Artículo 316 Bis.
 
@@ -3305,7 +3489,11 @@ Se aplicará sanción de uno a cinco años de prisión y hasta trescientos días
 
 Los delitos comprendidos en este Capítulo se perseguirán por querella de parte ofendida.
 
-### Capítulo II. Rebelión
+### Capítulo I. Delitos Contra el Orden Constitucional
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 317.
 
@@ -3331,7 +3519,7 @@ II.- Cuando se trate de donaciones y compraventas realizadas entre parientes, en
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE MAYO DE 2009)</small>
 
-### Capítulo III. Sedición
+### Capítulo II. Rebelión
 
 ###### Artículo 320 Bis.
 
@@ -3367,11 +3555,11 @@ Artículo 320 Sextus.- Para la persecución de los delitos previstos en el prese
 
 ## Título Undécimo. Delitos Contra las Facultades del Estado Para Fijar los Límites de Crecimiento y Linderos de los Centros de Población
 
-### Capítulo IV. Motín
+### Capítulo III. Sedición
 
 ## Título Décimo Segundo. Delitos Contra la Moral y la Dignidad de las Personas
 
-### Capítulo V. Conspiración
+### Capítulo IV. Motín
 
 ###### Artículo 321.
 
@@ -3383,7 +3571,7 @@ Se impondrán de seis meses a dos años de prisión y de cien a quinientos días
 
 ## Título Décimo Tercero. Delitos Contra el Orden Constitucional y la Seguridad del Estado
 
-### Capítulo VI. Disposiciones Comunes a los Delitos Contenidos en este Título
+### Capítulo V. Conspiración
 
 ###### Artículo 323.
 
@@ -3397,7 +3585,7 @@ III.- Al que de modo escandaloso, invite a otro al comercio carnal. Por modo esc
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### Capítulo I. Evasión de Presos
+### Capítulo VI. Disposiciones Comunes a los Delitos Contenidos en este Título
 
 ###### Artículo 324.
 
@@ -3425,9 +3613,9 @@ No se considerarán discriminación, aquellas medidas de gobierno o de grupos pr
 
 Los delitos establecidos en los artículos 324 y 325, sólo se perseguirán por querella de parte ofendida o de su legítimo representante.
 
-### Capítulo II. Quebrantamiento de Sanción
+### Capítulo I. Evasión de Presos
 
-### Capítulo III. Armas Prohibidas
+### Capítulo II. Quebrantamiento de Sanción
 
 ###### Artículo 327.
 
@@ -3491,7 +3679,7 @@ Asimismo, cuando se presente alguna de las hipótesis contenidas en el presente 
 
 Cuando los delitos a que se refiere este capítulo se ejecuten o toleren a cambio de retribución dada, prometida o comprometida, las sanciones establecidas para tales delitos podrán aumentarse en su caso, a consideración del juzgador hasta llegar a quince años de prisión y multa de cien a quinientos días de salario.
 
-### Capítulo IV. Atentados Contra la Paz y la Integridad Corporal y Patrimonial de la Colectividad y del Estado
+### Capítulo III. Armas Prohibidas
 
 ###### Artículo 339.
 
@@ -3521,13 +3709,11 @@ Si el sujeto activo fuere ascendiente, descendiente, cónyuge, concubina o concu
 
 Al que promueva, facilite, consiga, entregue o pacte la entrega de una persona para que ejerza la prostitución dentro o fuera del país, se le impondrá prisión de dos a nueve años y de cien a quinientos días multa. Si se empleare violencia o el agente siendo servidor público se valiera de su función, la pena se agravará hasta en una mitad más.
 
-### Capítulo V. Asociación Delictuosa, Pandillerismo y Delincuencia Organizada
+### Capítulo IV. Atentados Contra la Paz y la Integridad Corporal y Patrimonial de la Colectividad y del Estado
 
 ## Título Décimo Cuarto. Delitos Contra la Seguridad Pública
 
-### Capítulo VI. Incitación a la Violencia
-
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2008)</small>
+### Capítulo V. Asociación Delictuosa, Pandillerismo y Delincuencia Organizada
 
 ###### Artículo 344.
 
@@ -3557,9 +3743,9 @@ VIII.- Impedir a las autoridades administrativas, legislativas, jurisdiccionales
 
 Al que en público o en privado incite, invite o convoque a la desobediencia total o parcial de la Constitución Política del Estado, se le impondrán de seis meses a dos años de prisión. Si el responsable es un servidor público estatal o municipal, será condenado además a la destitución de su cargo, empleo o comisión y a la inhabilitación para obtener otro por un término de por lo menos cinco años.
 
-### Capítulo VII. Uso Indebido de los Servicios de Emergencia
+### Capítulo VI. Incitación a la Violencia
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2008)</small>
 
 ###### Artículo 346.
 
@@ -3613,7 +3799,9 @@ Cuando para hacer triunfar la rebelión, se pusieren en ejercicio el homicidio, 
 
 Las sanciones a que se refiere este capítulo, sólo dejarán de aplicarse en el caso de que, interviniendo los Poderes de la Unión en la forma que prescribe el artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, con motivo de la rebelión, los rebeldes adquieran el carácter imputados de delitos del orden federal y sean juzgados y sancionados como tales.
 
-### Capítulo I. Ataques a las Vías de Comunicación
+### Capítulo VII. Uso Indebido de los Servicios de Emergencia
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2010)</small>
 
 ###### Artículo 352.
 
@@ -3621,7 +3809,7 @@ Cometen el delito de sedición, quienes reunidos tumultuariamente pero sin armas
 
 A los autores intelectuales o a quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de sedición, se les impondrá de cuatro a doce años de prisión y de cien a mil días multa.
 
-### Capítulo II. Violación de Correspondencia
+### Capítulo I. Ataques a las Vías de Comunicación
 
 ###### Artículo 353.
 
@@ -3637,13 +3825,13 @@ El motín se sancionará, con prisión de dos a nueve años y de cincuenta a qui
 
 A los autores intelectuales, a quienes dirijan, realicen, inciten, compelan o patrocinen económicamente a otros, para cometer el delito de motín, se les impondrán de cuatro a doce años de prisión y de cien a mil días multa.
 
-### Capítulo III. Intervención Ilegal de Comunicaciones Privadas
+### Capítulo II. Violación de Correspondencia
 
 ###### Artículo 354.
 
 Incurrirán en el delito de conspiración, dos o más personas que acuerden previamente cometer alguno de los delitos mencionados en este título y acuerden los medios para llevar a efecto su determinación, siempre que hayan dado inicio a cualquier clase de ejecución o exteriorización de su plan. La conspiración se sancionará con prisión de cuatro a doce años y de cien a mil días multa.
 
-### Capítulo I. Desobediencia y Resistencia de Particulares
+### Capítulo III. Intervención Ilegal de Comunicaciones Privadas
 
 ###### Artículo 355.
 
@@ -3657,7 +3845,7 @@ Para todos los efectos legales, sólo se considerarán como de carácter políti
 
 ## Título Décimo Quinto. Delitos en Materia de Vías de Comunicación y Correspondencia
 
-### Capítulo II. Oposición a que se Efectúe Alguna Obra o Trabajo Público
+### Capítulo I. Desobediencia y Resistencia de Particulares
 
 ###### Artículo 357.
 
@@ -3687,7 +3875,7 @@ Se impondrá de uno a tres años de prisión, a quien estando sujeto a arraigo d
 
 En este caso, al ser localizado el evasor del arraigo, el término de duración de dicha medida cautelar, se empezará a computar de nueva cuenta sin necesidad de declaración judicial al respecto, bastando para ello el aviso que el Ministerio Público dé al Juez correspondiente dentro de las veinticuatro horas de la redetención.
 
-### Capítulo III. Quebrantamiento de Sellos
+### Capítulo II. Oposición a que se Efectúe Alguna Obra o Trabajo Público
 
 ###### Artículo 363.
 
@@ -3709,7 +3897,7 @@ Al sentenciado a confinamiento que salga del lugar que se le haya fijado para su
 
 El sentenciado suspendido en su profesión u oficio o inhabilitación para ejercerlo, que quebrante la sanción, pagará una multa de cincuenta días de salario. En caso de reincidencia se duplicará la multa y además se le aplicará prisión de uno a seis años.
 
-### Capítulo IV. Delitos Cometidos Contra Servidores Públicos
+### Capítulo III. Quebrantamiento de Sellos
 
 ###### Artículo 367.
 
@@ -3723,7 +3911,7 @@ A quien sea detenido con un disfraz y con armas, ganzúas, silenciadores de arma
 
 Si el sujeto activo sorprendido en posesión de los instrumentos a que se refiere el párrafo anterior, cometiere además un delito relacionado o no relacionado con el uso de tales instrumentos, se aplicarán las reglas del concurso según el caso.
 
-### Capítulo I. Falsificación de Sellos, Llaves, Cuños, Troqueles, Marcas y otros Objetos
+### Capítulo IV. Delitos Cometidos Contra Servidores Públicos
 
 ###### Artículo 369.
 
@@ -3731,9 +3919,7 @@ Se impondrá de diez a cuarenta años de prisión y multa hasta de cien días de
 
 Se aplicará de dos a ocho años de prisión y hasta sesenta días multa, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
-### Capítulo II. Falsificación de Documentos en General
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+### Capítulo I. Falsificación de Sellos, Llaves, Cuños, Troqueles, Marcas y otros Objetos
 
 #### Sección Primera. Asociación Delictuosa
 
@@ -3807,9 +3993,9 @@ Los plazos para la prescripción de la pretensión punitiva y de la potestad de 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE FEBRERO DE 2008)</small>
 
-### Capítulo III. Falsedad en Declaraciones y en Informes Dados a una Autoridad
+### Capítulo II. Falsificación de Documentos en General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 378 Bis.
 
@@ -3819,7 +4005,9 @@ Si el responsable de la conducta delictuosa, es o ha sido servidor público, la 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2010)</small>
 
-### Capítulo IV. Usurpación de Funciones Públicas o de Profesión y uso Indebido de Condecoraciones, Uniformes e Insignias
+### Capítulo III. Falsedad en Declaraciones y en Informes Dados a una Autoridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 378 Ter.
 
@@ -3829,7 +4017,7 @@ Se impondrá pena de dos meses a dos años de prisión y multa de diez a cien d�
 
 ## Título Décimo Sexto. Delitos Contra la Autoridad
 
-### Capítulo V. Disposiciones Comunes a los Capítulos Precedentes
+### Capítulo IV. Usurpación de Funciones Públicas o de Profesión y uso Indebido de Condecoraciones, Uniformes e Insignias
 
 ###### Artículo 379.
 
@@ -3889,9 +4077,7 @@ Si este delito se comete por conductores de vehículos de transporte escolar o d
 
 Las penas previstas en este artículo a juicio del Juez, podrán ser conmutadas por trabajos en favor de la comunidad por un término igual a la pena impuesta.
 
-### Capítulo VI. Fraude Procesal
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
+### Capítulo V. Disposiciones Comunes a los Capítulos Precedentes
 
 ###### Artículo 386.
 
@@ -3911,7 +4097,9 @@ La disposición del artículo 386 no comprende la correspondencia que circula po
 
 Al empleado de una oficina o estación radio-telefónica que conscientemente dejare de transmitir un mensaje que se entregue con ese objeto o de comunicar al destinatario el que recibiera de otra oficina o estación, se le impondrá de quince días a un año de prisión y multa de cinco a quince días de salario. Si resultare perjuicio, se estará al delito que en este caso se hubiere cometido aplicándose la sanción correspondiente.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo VI. Fraude Procesal
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 390.
 
@@ -3921,11 +4109,11 @@ Al responsable de este delito, se le impondrán de dos a ocho años de prisión 
 
 Si el responsable de una intervención de comunicación privada, haya sido ésta realizada de manera legal o ilegal, revela, divulga, o utilice ilegalmente o en perjuicio de tercero la información o imágenes obtenidas en tal intervención de comunicación privada, se le impondrán de tres a doce años de prisión y de doscientos a mil días multa.
 
-### Capítulo II. Desaparición Forzada de Personas
+### Capítulo I. Disposiciones Generales
 
 ## Título Décimo Séptimo. Falsedad
 
-### Capítulo III. Ejercicio Ilegal y Abandono de Funciones Públicas
+### Capítulo II. Desaparición Forzada de Personas
 
 ###### Artículo 391.
 
@@ -3953,7 +4141,7 @@ Al que debiendo ser examinado en juicio y sin que le aprovechen las excepciones 
 
 Cuando la ley autorice el empleo de apremio para hacer efectivas las determinaciones de la autoridad, se consumará el delito de desobediencia cuando se hubiere agotado uno de los medios de apremio.
 
-### Capítulo IV. Coalición de Servidores Públicos
+### Capítulo III. Ejercicio Ilegal y Abandono de Funciones Públicas
 
 ###### Artículo 396.
 
@@ -3961,7 +4149,7 @@ Al que procure con actos materiales impedir la ejecución de una obra o trabajo 
 
 Si el delito se comete por varios sujetos, la sanción será de tres meses a un año de prisión si sólo se hiciere una simple oposición; pero si mediare violencia, podrá aumentarse la sanción hasta por dos años de prisión y multa hasta de quince días de salario.
 
-### Capítulo V. Abuso de Autoridad
+### Capítulo IV. Coalición de Servidores Públicos
 
 ###### Artículo 397.
 
@@ -3969,7 +4157,7 @@ Al que ilícitamente retire, destruya o de cualquier modo quebrante los sellos p
 
 Se equipara al delito de quebramiento de sellos y se sancionará con la misma pena, al titular, propietario o responsable de un establecimiento mercantil o de la construcción de obra que haya sido clausurada y que realice actos de comercio, construcción o prestación de un servicio, aún cuando los sellos permanezcan sin violación alguna.
 
-### Capítulo VI. Delitos Cometidos Contra la Procuración de Justicia
+### Capítulo V. Abuso de Autoridad
 
 ###### Artículo 398.
 
@@ -3993,7 +4181,7 @@ Asimismo, se entenderá por información confidencial o reservada aquella que es
 
 ## Título Décimo Octavo. Delitos Cometidos por Servidores Públicos
 
-### Capítulo VII. Delitos Contra la Administración de Justicia
+### Capítulo VI. Delitos Cometidos Contra la Procuración de Justicia
 
 ###### Artículo 399.
 
@@ -4003,7 +4191,7 @@ Si los objetos falsificados o alterados son propiedad de un particular sea perso
 
 Al que use indebidamente cualquiera de los objetos arriba señalados, se le aplicará las penas previstas en el párrafo anterior.
 
-### Capítulo VIII. Delitos Cometidos por Servidores Públicos Durante la Ejecución de la Pena
+### Capítulo VII. Delitos Contra la Administración de Justicia
 
 ###### Artículo 400.
 
@@ -4079,9 +4267,7 @@ Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumenta
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo, se aplicarán las reglas del concurso.
 
-### Capítulo IX
-
-Delitos Comunes que Pueden ser Cometidos por Servidores Públicos tanto en Contra de la Procuración o Administración de Justicia como Durante la Ejecución de la Pena
+### Capítulo VIII. Delitos Cometidos por Servidores Públicos Durante la Ejecución de la Pena
 
 ###### Artículo 406.
 
@@ -4117,7 +4303,9 @@ I.- Al que oculte su nombre o apellido o tome otro imaginario o el de otra perso
 
 II.- Al que para eludir la práctica de una diligencia o notificación de cualquier clase o la citación de una autoridad, oculte su domicilio, designe otro distinto o niegue de cualquier modo el verdadero.
 
-### Capítulo X. Delitos de Falsedad Cometidos por Servidores Públicos en el Ejercicio de sus Funciones
+### Capítulo IX
+
+Delitos Comunes que Pueden ser Cometidos por Servidores Públicos tanto en Contra de la Procuración o Administración de Justicia como Durante la Ejecución de la Pena
 
 ###### Artículo 409.
 
@@ -4135,7 +4323,7 @@ Al que usare uniformes oficiales, condecoraciones, grados jerárquicos distintos
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
-### Capítulo XI. Tortura e Incomunicación
+### Capítulo X. Delitos de Falsedad Cometidos por Servidores Públicos en el Ejercicio de sus Funciones
 
 ###### Artículo 412.
 
@@ -4147,7 +4335,7 @@ Las disposiciones contenidas en este título, sólo se aplicarán en lo que no e
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE ABRIL DE 2015)</small>
 
-### Capítulo XII. Intimidación
+### Capítulo XI. Tortura e Incomunicación
 
 ###### Artículo 413 Bis.
 
@@ -4159,7 +4347,7 @@ Cuando en la comisión de este delito intervengan en forma directa o Indirecta u
 
 ## Título Décimo Noveno. Delitos de Revelación de Secretos y de Acceso Ilícito a Sistemas y Equipos de Informática
 
-### Capítulo XIII. Cohecho
+### Capítulo XII. Intimidación
 
 ###### Artículo 414.
 
@@ -4175,13 +4363,13 @@ Cuando los delitos a que se refieren los artículos 422 y 428 del presente códi
 
 > <small>(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
 
-### Capítulo XIV. Peculado
+### Capítulo XIII. Cohecho
 
 ###### Artículo 416.
 
 (DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2009)
 
-### Capítulo XV. Concusión
+### Capítulo XIV. Peculado
 
 ###### Artículo 417.
 
@@ -4209,7 +4397,7 @@ Al infractor de las fracciones III al VII, se le impondrán de tres a ocho años
 
 Comete el delito de abandono de funciones públicas y se le impondrá pena de un mes a un año de prisión y de uno a treinta días multa, al servidor público que sin causa justificada abandone sus funciones sin haber presentado su renuncia, o sin que se le haya aceptado o al que habiéndole sido aceptada dicha renuncia, no entregue todo aquello que haya sido objeto de su responsabilidad a la persona autorizada para recibirlo.
 
-### Capítulo XVI. Abuso de Funciones Públicas
+### Capítulo XV. Concusión
 
 ###### Artículo 419.
 
@@ -4217,7 +4405,7 @@ Cometen el delito de coalición de servidores públicos, los que teniendo tal ca
 
 Al que cometa el delito de coalición de servidores públicos, se le impondrán de tres a ocho años de prisión, multa de cincuenta a quinientos días de salario y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
 
-### Capítulo XVII. Tráfico de Influencia
+### Capítulo XVI. Abuso de Funciones Públicas
 
 ###### Artículo 420.
 
@@ -4257,7 +4445,7 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 Al que cometa el delito de abuso de autoridad en los términos previstos por las fracciones VIII a XIII, se le impondrá de dos a nueve años de prisión, de sesenta hasta cuatrocientos días multa y destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-### Capítulo XVIII. Enriquecimiento Ilícito
+### Capítulo XVII. Tráfico de Influencia
 
 ###### Artículo 421.
 
@@ -4283,7 +4471,7 @@ A quien cometa los delitos previstos en las fracciones I, III y IV, se le impond
 
 A quien cometa el delito previsto en la fracción II, se le impondrá la pena de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
 
-### Capítulo I. Revelación de Secretos
+### Capítulo XVIII. Enriquecimiento Ilícito
 
 ###### Artículo 422.
 
@@ -4335,7 +4523,7 @@ A quien cometa el delito previsto en la fracción IV, V, VI y VII, se le impondr
 
 En todos los delitos previstos en este Capítulo, además de las penas de prisión y multa previstas, el servidor público será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
-### Capítulo II. Acceso Ilícito a Sistemas de Informática
+### Capítulo I. Revelación de Secretos
 
 ###### Artículo 423.
 
@@ -4351,9 +4539,7 @@ IV.- Permitir, fuera de los casos previstos por la Ley, la salida temporal de la
 
 A quien cometa los delitos previstos en este artículo, se le impondrá la pena de cuatro a diez años de prisión y de mil a dos mil días multa.
 
-### Capítulo I. Peligro de Contagio y Propagación de Enfermedades
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+### Capítulo II. Acceso Ilícito a Sistemas de Informática
 
 ###### Artículo 424.
 
@@ -4411,7 +4597,9 @@ A quien cometa los delitos previstos en las fracciones VII, VIII, IX, XI, XII, X
 
 A quien cometa el delito previsto en la fracción I, II, III, IV, V, VI, X y XIII, se le impondrá la pena de tres a ocho años de prisión y de quinientos a mil quinientos días multa.
 
-### Capítulo II. Delitos en Materia Sanitaria
+### Capítulo I. Peligro de Contagio y Propagación de Enfermedades
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 425.
 
@@ -4427,7 +4615,7 @@ III.- Rinda a sabiendas informe falso ante cualquier autoridad, afirmando falsed
 
 Al responsable de cualquiera de las conductas antes señaladas, se aplicará sanción de dos meses a tres años de prisión y multa de cinco a veinticinco días de salario, además según el daño causado inhabilitación por el término de la sanción de prisión impuesta, suspensión o destitución del empleo, cargo o comisión.
 
-### Capítulo I. Atentados Contra el Saneamiento del Ambiente y la Ecología del Estado
+### Capítulo II. Delitos en Materia Sanitaria
 
 ###### Artículo 426.
 
@@ -4443,7 +4631,7 @@ IV.- Ordenen como superiores jerárquicos de los responsables las conductas señ
 
 A los responsables del delito de tortura, se les aplicará, en orden a la gravedad, daños y consecuencias de las conductas desplegadas, la pena de cinco a diez años de prisión y multa de veinte a doscientos días de salario, además de destitución del cargo, empleo o comisión y nulidad absoluta de la confesión que se hubiese obtenido.
 
-### Capítulo II. Ecocidio
+### Capítulo I. Atentados Contra el Saneamiento del Ambiente y la Ecología del Estado
 
 ###### Artículo 427.
 
@@ -4459,7 +4647,7 @@ II.- El servidor público que con motivo de la querella, denuncia o información
 
 Al que cometa el delito de intimidación, se le impondrán de dos a nueve años de prisión, multa por un monto de cincuenta a trescientos días de salario, destitución e inhabilitación de dos a nueve años para desempeñar otro empleo cargo o comisión públicos.
 
-### Capítulo I. Responsabilidad Médica y Técnica
+### Capítulo II. Ecocidio
 
 ###### Artículo 428.
 
@@ -4471,9 +4659,7 @@ Iguales sanciones se impondrán al particular que espontáneamente dé u ofrezca
 
 En ningún caso se devolverá a los sujetos activos, el dinero o dádivas entregados, el importe de los cuales se aplicará al Fondo Auxiliar para la Administración de Justicia.
 
-### Capítulo II. Delitos de Licenciados en Derecho, Defensores y. Litigantes
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
+### Capítulo I. Responsabilidad Médica y Técnica
 
 ###### Artículo 429.
 
@@ -4489,7 +4675,9 @@ La sanción será de seis meses a dos años de prisión si dentro de los diez d�
 
 Cuando el monto de lo distraído no exceda de quinientos días de salario o no sea valuable, se le impondrán de tres meses a dos años de prisión; si el valor de lo sustraído o dispuesto excede de quinientos días de salario, se impondrán de tres a diez años de prisión, y en todo caso, al responsable del delito se le destituirá e inhabilitará hasta por el tiempo de la sanción impuesta, para desempeñar otro empleo, cargo o comisión, además de una sanción pecuniaria hasta por quinientos días de salario atendiendo a la gravedad del delito.
 
-### Capítulo Único. Violación a las Leyes Sobre Inhumaciones y Exhumaciones
+### Capítulo II. Delitos de Licenciados en Derecho, Defensores y. Litigantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2015)</small>
 
 ###### Artículo 431.
 
@@ -4497,7 +4685,7 @@ Comete el delito de concusión, el servidor público que con el carácter de tal
 
 Al responsable del delito de concusión, se le impondrán de tres meses a dos años de prisión cuando el valor de lo entregado no exceda de quinientos días de salario; cuando exceda de quinientos días se le impondrá de uno a diez años de prisión, y en ambos casos, además de la destitución e inhabilitación por el tiempo de la sanción impuesta para el desempeño de la comisión, cargo o empleo, se le aplicará al activo, una sanción pecuniaria hasta por trescientos días de salario atendiendo a la gravedad del delito.
 
-### Capítulo Único
+### Capítulo Único. Violación a las Leyes Sobre Inhumaciones y Exhumaciones
 
 ###### Artículo 432.
 
@@ -4511,9 +4699,7 @@ El abuso de funciones públicas se sancionará de la siguiente manera:
 
 Cuando la cuantía del beneficio ilícito obtenido o concedido a que se refiere este artículo no exceda de mil días de salario, se impondrá prisión de dos a cinco años y multa de treinta a trescientos días de salario. Si la cuantía excede de mil días de salario se impondrá al sujeto activo, prisión de dos a diez años y multa de trescientos a quinientos días de salario, destitución e inhabilitación para el desempeño de otro cargo o comisión hasta por el tiempo de la sanción impuesta.
 
-### Capítulo Único. Operaciones con Recursos de Procedencia Ilícita
-
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+### Capítulo Único
 
 ###### Artículo 433.
 
@@ -4545,7 +4731,9 @@ d) Otorgar o prometer más de una concesión o permiso para la prestación del s
 
 Al que cometa el delito de tráfico de influencia, se le impondrán de tres a ocho años de prisión, multa de cincuenta a trescientos días de salario y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
-### Capítulo I. Generalidades
+### Capítulo Único. Operaciones con Recursos de Procedencia Ilícita
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 434.
 
@@ -4573,7 +4761,7 @@ Para la persecución de los delitos previstos en el presente Título, en lo cond
 
 ## Título Vigésimo. Delitos Contra la Salud
 
-### Capítulo II. Delitos Electorales Cometidos por Cualquier Persona
+### Capítulo I. Generalidades
 
 ###### Artículo 435.
 
@@ -4591,7 +4779,7 @@ A quien revele, divulgue o utilice ilícitamente o en perjuicio de otro, informa
 
 Cuando el sujeto activo de los delitos contemplados en este capítulo sea un servidor público, además de las penas establecidas se le impondrá destitución e inhabilitación para ejercer otro cargo, empleo o comisión públicos de seis meses a tres años.
 
-### Capítulo III. Delitos Electorales Cometidos por Funcionarios Electorales
+### Capítulo II. Delitos Electorales Cometidos por Cualquier Persona
 
 ###### Artículo 439.
 
@@ -4617,7 +4805,7 @@ Los delitos previstos en este título serán sancionados por querella de parte o
 
 ## Título Vigésimo Primero. Delitos Ambientales
 
-### Capítulo IV. Delitos Electorales Cometidos por Funcionarios Partidistas o Candidatos
+### Capítulo III. Delitos Electorales Cometidos por Funcionarios Electorales
 
 ###### Artículo 444.
 
@@ -4637,7 +4825,7 @@ Las penas establecidas en este artículo, se aplicarán aun cuando el sujeto act
 
 Se presume el conocimiento de la enfermedad, cuando el sujeto activo presenta lesiones o manifestaciones externas provocadas por la misma, fácilmente perceptibles, o cuando, conocedor de su padecimiento está siendo tratado médicamente.
 
-### Capítulo V. Delitos Electorales Cometidos por Precandidatos
+### Capítulo IV. Delitos Electorales Cometidos por Funcionarios Partidistas o Candidatos
 
 ###### Artículo 445.
 
@@ -4719,7 +4907,7 @@ En caso de que se produzca la muerte o la alteración de la salud, se acumulará
 
 ## Título Vigésimo Segundo. Responsabilidad Profesional
 
-### Capítulo VI. Delitos Electorales Cometidos por Servidores Públicos
+### Capítulo V. Delitos Electorales Cometidos por Precandidatos
 
 ###### Artículo 453.
 
@@ -4745,7 +4933,7 @@ Las mismas sanciones se impondrán al que sin contar con autorización de la aut
 
 Este delito se perseguirá por querella de la autoridad Estatal o Municipal que sea competente para conocer del asunto en los términos de la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado, la autoridad podrá otorgar el perdón, cuando se acredite haber realizado la reparación del daño y cubierto las multas impuestas.
 
-### Capítulo Único. Delitos en Contra de los Símbolos Patrios o Valores Históricos del Estado
+### Capítulo VI. Delitos Electorales Cometidos por Servidores Públicos
 
 ###### Artículo 457.
 
@@ -4904,6 +5092,8 @@ II.- La reincorporación de los elementos naturales, ejemplares o especies de fl
 Los delitos previstos en este capítulo, serán aplicables siempre que se cometan en el ámbito de la actividad propia del Estado de Chiapas y no sean competencia de la Federación.
 
 ## Título Vigésimo Tercero. Delitos en Materia de Inhumaciones y Exhumaciones
+
+### Capítulo Único. Delitos en Contra de los Símbolos Patrios o Valores Históricos del Estado
 
 ###### Artículo 466.
 
@@ -5550,3 +5740,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los delitos a que se refieren los artículos derogados por este Decreto, serán competencia de las autoridades ministeriales y judiciales de la Entidad, de conformidad con lo dispuesto en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Artículo Tercero.- Las disposiciones relativas a los delitos a que se refieren los artículos derogados por este Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+P.O. 21 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado, para los Distritos Judiciales en los que se encuentra implementado el sistema procesal penal acusatorio y oral, y para el resto de los Distritos Judiciales conforme a los Acuerdos Generales que emita el Consejo de la Judicatura del Poder Judicial del Estado respecto a la creación y puesta en función de los Juzgados de Control y Tribunales de Enjuiciamiento, en coordinación con las áreas encargadas de la procuración de justicia y seguridad y protección ciudadana.
+
+Artículo Segundo. Se derogan todas las disposiciones legales que dentro del estado de Chiapas hagan alusión al catálogo de delitos graves y/o de prisión preventiva oficiosa.
+
+Artículo Tercero. Todos los procedimientos penales que se hayan iniciado antes de la vigencia del presente Decreto, se substanciarán por las normas procesales aplicables al momento de la comisión del delito de que se trate.
