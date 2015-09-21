@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2015-09-11"
+last_updated: "2015-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -963,6 +963,10 @@ VI.- Las erogaciones determinadas en cantidad específica, porcentajes o fórmul
 
 Las obligaciones de pago que se establecen en las fracciones I, II y III anteriores que no sean cubiertas en un ejercicio fiscal, tendrán preferencia respecto de otras previsiones de gasto público para ser incluidos en los presupuestos de egresos del Estado, de los ejercicios fiscales siguientes, hasta que sean pagados en su totalidad.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+Los Poderes Estatales Legislativo, Ejecutivo y Judicial, incluyendo las entidades paraestatales, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.
+
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 43.
@@ -1738,6 +1742,10 @@ En el desarrollo estatal concurrirán con responsabilidad, los sectores público
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
 Serán consideradas como áreas prioritarias del estado, la inversión y fortalecimiento permanente y sostenido de las actividades científicas, tecnológicas y de innovación, con el objeto de contribuir al desarrollo económico del Estado, elevar la competitividad Estatal en el plano Nacional e Internacional, y promover la formación de capital humano especializado en estas materias.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+Se reconoce al turismo como una actividad prioritaria para el desarrollo económico de la entidad, cuyos procesos representan la base para la generación de empleos, la reducción de la pobreza, el impulso de la infraestructura, el desarrollo de la pequeña y mediana empresa, la productividad y competitividad y el acceso al aprovechamiento sustentable de los recursos naturales, así como por su impacto social en la promoción de las tradiciones y costumbres de los hidalguenses y de la gran diversidad natural y cultural con que cuenta el Estado.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
@@ -2687,7 +2695,7 @@ XIX. Las demás que le concedan la Constitución Política de los Estados Unidos
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 142.
 
@@ -2719,7 +2727,9 @@ V. Rendir anualmente al Ayuntamiento el día cinco de septiembre de cada año, u
 
 VI. Proponer al Ayuntamiento la designación de Comisiones de Gobierno y Administración entre los Regidores;
 
-VII. Presentar al Ayuntamiento el proyecto de Ley de Ingresos y de Presupuesto de Egresos del Municipio para cada ejercicio fiscal, para los efectos previstos por esta Constitución y las leyes, así como la cuenta mensual de egresos;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Presentar al Ayuntamiento el proyecto de Ley de Ingresos y de Presupuesto de Egresos del Municipio para cada ejercicio fiscal, para los efectos previstos por esta Constitución y las leyes, así como la cuenta mensual de egresos. El proyecto de Presupuesto de Egresos del Municipio deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 157 de esta Constitución;
 
 VIII. Nombrar y remover libremente a los directores de las dependencias y entidades de la administración pública municipal, a los delegados y subdelegados y demás personal administrativo, de acuerdo con las disposiciones aplicables;
 
@@ -2799,11 +2809,9 @@ Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán p
 
 ###### Artículo 149.
 
-Para los efectos de la responsabilidad se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial, a los presidentes municipales, a los funcionarios y empleados, así como a los servidores del Instituto Estatal Electoral y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal y municipal y a todos aquellos que manejen o apliquen recursos económicos estatales o municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para efectos de la responsabilidad se reputarán como servidores públicos a los representantes de elección popular, a los miembros del poder Judicial, a los presidentes municipales, a los funcionarios y empleados, así como a los servidores de los organismos autónomos y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal y municipal y a todos aquellos que manejen o apliquen recursos económicos estatales o municipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones; además serán responsables por el manejo indebido de recursos públicos y de la deuda pública.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
+El Gobernador del Estado, los Diputados Locales, los Magistrados del Tribunal Superior de Justicia, los Consejeros del Consejo de la Judicatura, los integrantes de los ayuntamientos, así como los miembros de los organismos autónomos, serán responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos, a esta Constitución y a las leyes federales y locales, así como por el manejo indebido de fondos y recursos federales.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012) (F. DE E., P.O. 3 DE MARZO DE 2014)
 
@@ -2893,23 +2901,31 @@ Nadie puede a la vez ejercer en el Estado dos o más cargos de elección popular
 
 Todo cargo o empleo público de la Entidad es incompatible con cualquiera otro del Estado, cuando por ambos se perciba sueldo, excepto en el caso de que se trate de los ramos de la docencia o de la beneficencia.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 157.
 
-Todo servidor público tendrá derecho a percibir el emolumento que la ley respectiva señale.
+Los servidores públicos del Estado de Hidalgo y sus municipios, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
+
+l. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida en el presupuesto correspondiente para el Gobernador del Estado y la de éste no podrá ser mayor a la del Presidente de la República.
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+
+IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
+
+VI. El Congreso del Estado expedirá las leyes para sancionar penal y administrativamente las conductas que impliquen el incumplimiento a lo establecido en este artículo.
 
 Los servidores públicos del Estado y Municipios tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+La propaganda, bajo cualquier modalidad de comunicación social que difundan como tales los poderes públicos, los órganos autónomos, los ayuntamientos, las dependencias y cualquier otro ente de la administración pública estatal y municipal del Estado de Hidalgo, deberá tener carácter institucional y fines informativos, educativos o de orientación social.
 
-La propaganda, bajo cualquier modalidad de comunicación social que difundan como tales los poderes públicos, los órganos autónomos, los Ayuntamientos, las Dependencias y cualquier otro ente de la Administración Pública Estatal y Municipal del Estado de Hidalgo, deberá tener carácter institucional y fines informativos, educativos o de orientación social. En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público.
-
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2009)</small>
-
-La infracción a las disposiciones previstas en este Título será sancionada conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público. La infracción a las disposiciones previstas en este Título será sancionada conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -3712,3 +3728,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 11 DE SEPTIEMBRE DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 455, POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 83 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Para los efectos del artículo 158 de la Constitución Política del Estado de Hidalgo, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+P.O. 21 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 456, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 144, EL ARTÍCULO 149 Y EL ARTÍCULO 157; Y ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 42, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas y adiciones de la Constitución Política del Estado de Hidalgo.
