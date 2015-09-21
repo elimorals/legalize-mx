@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-los-juzgados-de-ejecucion-de-sanciones-88182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-08"
-last_updated: "2012-06-08"
+last_updated: "2015-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO DE LOS JUZGADOS DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el viernes 8 de junio de 2012.
 
@@ -98,6 +98,14 @@ XXIV. Subsecretaría: La Subsecretaría de Prevención y Reinserción Social, de
 XXV. Tratados internacionales: Los tratados e instrumentos internacionales en materia de derechos humanos, celebrados y ratificados por el Estado Mexicano; y,
 
 XXVI. Víctima: La persona que, individual o colectivamente, haya sufrido indirectamente un daño físico, psicológico, patrimonial o menoscabo sustancial de sus derechos humanos a consecuencia de conductas consideradas como delitos en la legislación vigente.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+XXVI. (SIC) Dirección de Gestión: La Dirección de Gestión del Sistema de Justicia Penal Acusatorio y Oral del Poder Judicial del Estado.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+XXVII. Unidades Regionales: Las Unidades Regionales de Gestión para los Juzgados de Ejecución de Sanciones Penales, dependientes de la Dirección del Sistema de Justicia Penal Acusatorio y Oral del Poder Judicial del Estado.
 
 ###### Artículo 3.
 
@@ -251,9 +259,11 @@ En cada una de dichas regiones, existirá cuando menos un juez de ejecución; en
 
 Los jueces de ejecución serán fedatarios de sus actos y resoluciones.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 20.
 
-Integración. El juez de ejecución será auxiliado en el desarrollo de sus funciones, por el personal administrativo que determine el Consejo del Poder Judicial, atendiendo a las necesidades del servicio y a la posibilidad presupuestal.
+Unidades Regionales de Gestión. En cada región judicial en donde exista designado un juez de ejecución de sanciones, existirá también una Unidad Regional de Gestión, integrada por personal administrativo que tendrá a su cargo la coordinación logística, distribución de asuntos, reparto y programación de trabajo, fijación de audiencias, práctica de notificaciones y, en general, la realización de todas las actividades administrativas necesarias para auxiliar al juez de ejecución en la realización de sus funciones.
 
 #### Sección Primera. Juez de ejecución
 
@@ -265,47 +275,183 @@ I. Resolver, en audiencia en la que se observen los principios del proceso acusa
 
 II. Efectuar las visitas de verificación a los Centros, en los términos que señala la Ley de Ejecución;
 
-III. Dictar las instrucciones necesarias sobre los sistemas que resulten necesarios para la debida integración de los expedientes de ejecución y verificar que ello se realice de conformidad con este Reglamento;
+III. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-IV. Instruir a los servidores públicos que corresponda sobre los sistemas que resulten necesarios para el debido seguimiento de los sentenciados, y verificar que ello se realice conforme a las disposiciones de este Reglamento;
+IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-V. Verificar que se forme el expediente personal a cada sentenciado desde que reciba la sentencia ejecutoria por parte del Juez de la causa, para darle seguimiento hasta que se extinga la sanción impuesta;
+V. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2015)
 
-VI. Firmar los decretos y exhortos que correspondan al trámite cotidiano, así como los autos que dicte; en caso de existir dos o más jueces de ejecución en una misma circunscripción territorial, tal actividad será desarrollada en forma alternada, en los términos que fije el Consejo del Poder Judicial;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Firmar los decretos y exhortos relativos al trámite de los asuntos que le corresponda conocer; en caso de existir dos o más jueces de ejecución en una misma circunscripción territorial, la distribución de asuntos se realizará conforme al sistema de turno que determine la Dirección de Gestión; y,
 
 VII. Las demás que les encomienden las disposiciones normativas aplicables.
 
-#### Sección Segunda. Personal administrativo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección Segunda. UNIDADES REGIONALES
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-Personal. El personal administrativo será determinado, en cuanto a su número y funciones específicas, por el Consejo del Poder Judicial.
+Integración. Las Unidades Regionales serán dependientes de la Dirección de Gestión y estarán conformadas por el número de servidores públicos que determine el Consejo del Poder Judicial, atendiendo a las necesidades de servicio y a la posibilidad presupuestal.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
 
-Funciones. Las funciones y actividades del personal serán de carácter administrativo, pues la función jurisdiccional dentro del mismo corresponde exclusivamente al Juez de Ejecución.
+Jefe de Unidad. Cada Unidad Regional estará a cargo y bajo la responsabilidad directa de un Jefe de Unidad, el cual tendrá las siguientes facultades y obligaciones:
 
-El servidor público encargado de practicar las notificaciones a que se refiere este reglamento, será fedatario de sus actuaciones.
+I. Coordinar y dirigir administrativamente las labores de la Unidad Regional para el correcto desarrollo de las audiencias, con las formalidades que señala la ley;
+
+II. Cuidar el buen desempeño del personal a su cargo, informando al Consejo de las irregularidades que advierta;
+
+III. Definir los roles, funciones y guardias del personal, de conformidad con lo dispuesto en el presente acuerdo, distribuyendo las cargas de trabajo de manera proporcional, equitativa y racional, en atención a las necesidades de servicio;
+
+IV. Administrar, organizar y vigilar la agenda de los asuntos en materia de ejecución de sanciones, así como programar la asignación y uso de las salas de audiencia;
+
+V. Llevar el manejo administrativo y la custodia de las salas de audiencias e instalaciones, así como de los bienes muebles asignados, a fin de que se encuentren en condiciones óptimas de uso y funcionalidad;
+
+VI. Supervisar la distribución de los asuntos entre los jueces de ejecución, en los casos en que existan dos o más en una misma circunscripción territorial, de conformidad con el sistema de turno que establezca la Dirección de Gestión;
+
+VII. Remitir al tribunal de alzada los testimonios relativos a los medios de impugnación que se hagan valer, anexando las constancias necesarias;
+
+VIII. Coordinar y verificar que las actuaciones procesales se integren adecuadamente en los expedientes personales de los sentenciados y los expedientes de ejecución, según corresponda;
+
+IX. Revisar la correspondencia recibida y distribuir las promociones y oficios recibidos conforme corresponda;
+
+X. Tener a su cargo y bajo su responsabilidad el archivo de expedientes personales de los sentenciados y expedientes de ejecución, así como los sellos oficiales;
+
+XI. Coordinar el trabajo de los notificadores, verificando y fijando las rutas óptimas para la realización de sus funciones, de conformidad con los lineamientos técnicos que establezca la Dirección de Gestión;
+
+XII. Verificar que los plazos y términos procesales se cumplan adecuadamente, así como que se realicen las notificaciones y citaciones que se hubieren ordenado, informando de las irregularidades que advierta al Consejo del Poder Judicial;
+
+XIII. Remitir al archivo los expedientes que se encuentren concluidos;
+
+XIV. Elaborar y remitir los informes estadísticos mensuales, anuales y aquéllos que solicite el Consejo del Poder Judicial o la Dirección de Gestión;
+
+XV. Solicitar a las autoridades correspondientes el traslado de los sentenciados y cualquier otro apoyo de seguridad que se requiere para la celebración de la audiencia;
+
+XVI. Coordinar la videograbación sistemática de todas las audiencias y administrar el archivo de las mismas;
+
+XVII. Atender los requerimientos que formule el Departamento de Acceso a la Información Pública y la Coordinación de Comunicación Social;
+
+XVIII. Cuando las necesidades de trabajo así lo requieran, auxiliar materialmente en el desahogo de las audiencias, cumpliendo con las instrucciones que emita el juez durante su desarrollo; y,
+
+XIX. Las demás que determinen la legislación y regulación aplicable, así como los acuerdos del Consejo y lo que le encomiende el Director de Gestión.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 24.
 
-Actividades generales. El Consejo del Poder Judicial determinará, en el manual correspondiente, las funciones y actividades que deba llevar a cabo el personal administrativo en la oficina judicial a la que se encuentre adscrito.
+Principio de separación de cargas administrativas de las jurisdiccionales. Las funciones y actividades del personal serán de carácter administrativo, pues la función jurisdiccional dentro del mismo corresponde exclusivamente al Juez de Ejecución.
 
-#### Sección Tercera. Unidades
+Los Jueces de Ejecución se abstendrán de interferir en el funcionamiento de las Unidades Regionales; cualquier observación que tengan sobre su desempeño, la comunicarán por escrito al Jefe de Unidad, quien a su vez la deberá hacer del conocimiento de la Dirección de Gestión y, en el caso de que se refiera a la existencia de posibles responsabilidades administrativas, del Consejo del Poder Judicial.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección Tercera. Personal de las Unidades Regionales
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 25.
 
-Unidades. Para el desarrollo de las actividades administrativas dentro de la oficina judicial, se implementarán las siguientes unidades:
+Funciones del personal integrante de las Unidades Regionales. Para el desarrollo de las actividades administrativas dentro de cada Unidad Regional de Gestión, estas se integrarán, además de por el Jefe de Unidad, por los siguientes servidores públicos:
 
-I. Unidad de atención al público, archivo y estadística;
+I. Auxiliar de Causa, que cumplirá con las siguientes funciones:
 
-II. Unidad de causa; y,
+a. Elaborar los oficios, exhortos y demás medios de comunicación procesal que se requieran, en cumplimiento a los acuerdos emitidos por los jueces;
 
-III. Unidad de sala.
+b. Redactar los proyectos de mandatos judiciales y acuerdos de trámite que se generen en audiencia, así como los proyectos de actas que le sean encomendados;
+
+c. Efectuar las transcripciones de las audiencias que le sean asignadas, así como las certificaciones de las copias de las resoluciones y demás documentos cuya expedición autorice el juez de ejecución;
+
+d. Agregar los oficios, promociones y demás documentos al expediente o carpeta respectivo;
+
+e. Verificar que estén debidamente integrados los expedientes de ejecución y personales de los sentenciados;
+
+f. Digitalizar las promociones y demás constancias para integrarlas a la carpeta digital;
+
+g. Capturar diariamente los datos que sean necesarios para la actualización de la base de datos;
+
+h. Llevar el control físico y electrónico de los documentos; y,
+
+i. Las demás que le encomienden las leyes, los acuerdos del Consejo del Poder Judicial y lo que le instruya el Jefe de Unidad y la Dirección de Gestión.
+
+II. Auxiliar de Sala, de (sic) deberá llevar a cabo las actividades que a continuación se detallan:
+
+a. Revisar que la sala de audiencia reúna las condiciones para el desarrollo de la misma, con tiempo suficiente previo a su realización;
+
+b. Comprobar la asistencia de las partes intervinientes en las audiencias;
+
+c. Supervisar y conducir el ingreso a la sala, de las partes intervinientes, peritos, testigos y público, explicando las reglas a seguir durante el desarrollo de las audiencias, de conformidad con el protocolo respectivo y atendiendo a las medidas de seguridad establecidas al efecto;
+
+d. Verificar que los intervinientes en las audiencias se encuentren ubicados en sus respectivos lugares;
+
+e. Informar al juez si se encuentra presente algún representante de medios de comunicación, previo al inicio de la audiencia o durante su desarrollo;
+
+f. Proporcionar al juez los elementos necesarios para el desarrollo óptimo de las audiencias;
+
+g. Realizar el protocolo de inicio y término de las audiencias;
+
+h. Asistir al juez durante el desarrollo de las audiencias;
+
+i. Vigilar el cumplimiento del protocolo de audiencia y comunicar al juez cualquier incidencia;
+
+j. Registrar en una bitácora las incidencias que acontezcan en las audiencias, para facilitar el control y evaluación administrativa;
+
+k. Adoptar las medidas necesarias a fin de instalar a los testigos, peritos y demás intervinientes en las áreas destinadas, a fin de garantizar su adecuada separación para evitar la comunicación entre éstos, antes y durante las audiencias;
+
+l. Coordinar y facilitar la presentación de testigos, peritos y demás intervinientes, de manera oportuna a las audiencias;
+
+m. Corroborar, previo a la realización de las audiencias, que las partes, peritos y testigos se encuentren debidamente notificadas, informando al juez la falta de alguna de ellas;
+
+n. Coadyuvar en la presentación y exposición de los medios (sic) prueba durante el desarrollo de las audiencias;
+
+o. Verificar que se realicen adecuadamente las grabaciones de audio y video de las audiencias;
+
+p. Coordinar las funciones del personal de seguridad durante el desarrollo de las audiencias; y,
+
+q. Las demás que le encomienden las leyes, los acuerdos del Consejo del Poder Judicial y lo que le instruya el Jefe de Unidad y la Dirección de Gestión.
+
+III. Notificador, el cual será fedatario de sus propios actos y tendrá a su cargo las siguientes funciones:
+
+a. Practicar con estricto apego a lo dispuesto en las normas procesales aplicables, las notificaciones y diligencias que sean ordenadas, dentro del término que le fuere señalado, apegándose a las rutas que al efecto les asigne el Jefe de Unidad.
+
+b. Devolver los expedientes o actuaciones que les sean entregados para la realización de las notificaciones, a más tardar al día siguiente de haber practicado las notificaciones o diligencias ordenadas;
+
+c. Llevar un control diario de las notificaciones realizadas;
+
+d. Elaborar la síntesis de acuerdos y fallos para publicarse en los medios correspondientes; y,
+
+e. Las demás que le encomienden las leyes, los acuerdos del Consejo del Poder Judicial y lo que le instruya el Jefe de Unidad y la Dirección de Gestión.
+
+IV. Auxiliar de Atención al Público, Archivo y Estadística, que tendrá a su cargo la realización de las siguientes tareas:
+
+a. Brindar una adecuada atención y asesoría al público;
+
+b. Recibir, registrar y distribuir adecuadamente la correspondencia, escritos y solicitudes que se reciban;
+
+c. Resguardar las copias de las resoluciones y de los registros electrónicos que se autorice expedir, así como entregarlas a las personas autorizadas, recabando el correspondiente acuse de recibo;
+
+d. Llevar el registro de cédulas profesionales de abogados defensores particulares, así como de los funcionarios adscritos a la Defensoría Pública y de la Procuraduría General de Justicia del Estado;
+
+e. Facilitar y supervisar la consulta de los expedientes, grabaciones y de la carpeta digital;
+
+f. Recopilar y recolectar los datos estadísticos y demás información necesaria para elaborar los reportes que se requieran, entregándola oportunamente al Jefe de Unidad; y,
+
+g. Las demás que le encomienden las leyes, los acuerdos del Consejo del Poder Judicial y lo que le instruya el Jefe de Unidad y la Dirección de Gestión.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 26.
 
-Áreas. El Consejo del Poder Judicial definirá las áreas que integrarán las unidades a que se refiere el artículo anterior, así como las actividades que deberán desarrollarse en cada una de ellas.
+Disposiciones Generales. Cuando las necesidades de trabajo así lo requieran, el Jefe de Unidad podrá determinar y autorizar, sin mayor trámite, que cualquier servidor público adscrito a la Unidad Regional se haga cargo de las funciones propias de cualquiera de los cargos señalados en el artículo anterior.
+
+El registro de las diversas actividades de los servidores públicos adscritos a la Unidad Regional se realizará en los formatos oficiales que al efecto expida la Dirección de Gestión.
+
+El Consejo del Poder Judicial practicará, por lo menos una por año, visitas ordinarias de inspección a fin de vigilar el funcionamiento de las Unidades Regionales, con independencia de las que también realice para supervisar el desempeño de los jueces de ejecución.
 
 #### Sección Cuarta. Vigilancia
 
@@ -1218,3 +1364,19 @@ Francisco Javier Bedolla Espino
 Secretario Ejecutivo
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL CONSEJO DEL PODER JUDICIAL DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO DE LOS JUZGADOS DE EJECUCIÓN DE SANCIONES PENALES EN EL ESTADO, A FIN DE CREAR E IMPLEMENTAR LAS UNIDADES REGIONALES DE GESTIÓN PARA LOS JUZGADOS DE EJECUCIÓN DE SANCIONES PENALES, DEPENDIENTES DE LA DIRECCIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL DEL PODER JUDICIAL DEL ESTADO”.]
+
+Primero. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en la página de Internet del Poder Judicial del Estado.
+
+Segundo. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Tercero. Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
+
+Cuarto. La Secretaría de Administración del Consejo del Poder Judicial del Estado deberá elaborar los tabuladores para las categorías previstas para integrar las Unidades Regionales de Gestión para los Juzgados de Ejecución de Sanciones Penales y presentarlo a consideración del Pleno de dicho cuerpo colegiado.
+
+Quinto. La Dirección de Gestión, a la brevedad posible, deberá formular el proyecto del Manual de Organización y Procedimientos Administrativos de Unidades Regionales de Gestión para los Juzgados de Ejecución de Sanciones Penales y presentarlo a consideración del Pleno de este Consejo.
