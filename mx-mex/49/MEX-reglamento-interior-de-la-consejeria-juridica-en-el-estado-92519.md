@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-consejeria-juridica-en-el-estado-9251
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-18"
-last_updated: "2013-07-11"
+last_updated: "2015-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 11 DE JULIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 18 de febrero de 2013.
 
@@ -297,7 +295,9 @@ III. Proporcionar información referente a las leyes, decretos y demás disposic
 
 IV. Coordinar la celebración de los exámenes y tramitar los nombramientos para el ejercicio de la función notarial; misma que debe supervisar. Recibir, procesar y resolver dentro del marco legal, las quejas interpuestas en contra de los notarios, imponiendo e implementando las sanciones que se deriven de ellas; autorizar los volúmenes del protocolo que utilizan los notarios públicos para su actuación.
 
-V. Llevar el registro de las firmas autógrafas y de los sellos oficiales de los funcionarios estatales y municipales en el banco de datos del sistema de legalizaciones; legalizar y certificar la autenticidad de las firmas autógrafas y sellos oficiales que se encuentren en un documento público expedido por servidores públicos del Estado de México, así como a las y los servidores públicos con cargos de elección popular y demás profesionales, que se encuentren investidos de fe pública.
+> <small>(REFORMADA, G.G. 21 DE SEPTIEMBRE DE 2015)</small>
+
+V. Registrar, certificar, legalizar y apostillar las firmas autógrafas y electrónicas, los sellos oficiales y electrónicos de los funcionarios estatales, presidentes y secretarios municipales y de los demás funcionarios a quienes esté encomendada la fe pública.
 
 VI. Las demás que le señalen otros ordenamientos legales y las que le encomiende el o la titular de la Consejería.
 
@@ -510,3 +510,11 @@ G.G. 9 DE JULIO DE 2013.
 PRIMERO. Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno" de Estado de México.
 
 SEGUNDO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 21 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
