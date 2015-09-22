@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2015-09-04"
+last_updated: "2015-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -2199,11 +2199,35 @@ II. Cuando se trate de personas cuyo domicilio se ignora.
 
 III. En todos los demás casos previstos por la ley.
 
-En los casos de las fracciones I y II, los edictos se publicarán por tres veces de tres en tres días, en el Periódico Oficial y otro periódico de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no será menor de quince ni excederá de sesenta días.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+En los casos de las fracciones I y II, los edictos se publicarán por tres veces de tres en tres días, en el Periódico Oficial y en el portal electrónico destinado para ello, haciéndose saber que debe presentarse el citado dentro de un término que no será menor de quince ni excederá de sesenta días.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 Tratándose de juicio de pérdida de patria potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de quince días.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 221 BIS.
+
+Publicación electrónica de edictos.
+
+Los edictos que deban publicarse de manera electrónica deberán ser elaborados por la autoridad judicial que los autorizó quien será la responsable de comunicar su contenido y términos de publicación al área de informática del Poder Judicial para que ésta última proceda a realizar su difusión, a más tardar al día hábil siguiente, en el portal electrónico destinado para ello.
+
+Efectuada la publicación de los edictos, el área de informática deberá expedir la constancia respectiva y remitirla de inmediato al órgano jurisdiccional requirente para que éste, en su caso, se encuentre en aptitud de computar los términos judiciales que correspondan.
+
+En los supuestos en los cuales un notario deba realizar publicaciones de conformidad con lo previsto en el Código Civil o este ordenamiento, comunicará el contenido y términos de su publicación al área de informática del Poder Judicial para su difusión, a más tardar al día hábil siguiente, en el portal electrónico destinado para ello. Una vez efectuada la publicación, el área de informática deberá expedir la constancia correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 221 BIS 1.
+
+Portal electrónico.
+
+El portal electrónico deberá contener y ofrecer a los usuarios criterios de búsqueda sencillos y accesibles, que faciliten su localización y consulta. Para ello, el área de informática deberá establecer, por lo menos, los campos de búsqueda siguientes: por tipo de edicto, por número de expediente, por juzgado, por rango de fecha, por nombre de las partes o de los interesados.
+
+El contenido de los edictos que se publiquen de manera electrónica deberá permanecer visible en portal electrónico destinado para ello.
 
 ###### ARTÍCULO 222.
 
@@ -5501,7 +5525,9 @@ En los casos a que se refiere este artículo, no obstante el allanamiento, la se
 
 Publicación de las sentencias.
 
-En los casos en que la publicidad de la decisión de fondo pueda contribuir en la reparación del daño, el juzgador, a solicitud de parte, podrá ordenarla a cargo y a costa del vencido, mediante la inserción por una sola vez de un extracto de la misma en el diario de la localidad de mayor circulación, independientemente de que se haga lo propio en algún otro medio de comunicación, si a través de él se manejó información sobre el asunto resuelto que le haya causado descrédito. Si el obligado no cumpliere con hacer la publicación, podrá hacerla la contraparte, teniendo derecho de exigirle el reembolso de su costo.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+En los casos en que la publicidad de la decisión de fondo pueda contribuir en la reparación del daño, el juzgador, a solicitud de parte, podrá ordenarla a cargo y a costa del vencido, mediante la inserción por una sola vez de un extracto de la misma en el diario de la localidad de mayor circulación, así como en el portal electrónico destinado para ello, independientemente de que se haga lo propio en algún otro medio de comunicación, si a través de él se manejó información sobre el asunto resuelto que le haya causado descrédito. Si el obligado no cumpliere con hacer la publicación, podrá hacerla la contraparte, teniendo derecho de exigirle el reembolso de su costo.
 
 ###### ARTÍCULO 527.
 
@@ -5841,7 +5867,9 @@ Rectificación en juicio especial.
 
 El juicio de rectificación de actas del estado civil a que se refiere el Código Civil, se tramitará en juicio especial y en él se oirá al Oficial del Registro Civil que tenga asignada la Oficialía en que se levantó el acta de que se trate y al Ministerio Público.
 
-El juzgador podrá, atendiendo a las circunstancias del caso, citar a los interesados que fueren conocidos o que intervinieron en el acta. Asimismo, publicará un extracto de la demanda por una sola vez, en el Periódico Oficial del Estado y en otro de los de mayor circulación del lugar en el que se encuentre ubicado el domicilio del promovente, mandándose fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera, que teniendo interés, se presente dentro de un término que no exceda de diez días a partir de la fijación.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+El juzgador podrá, atendiendo a las circunstancias del caso, citar a los interesados que fueren conocidos o que intervinieron en el acta. Asimismo, publicará un extracto de la demanda por una sola vez, en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, mandándose fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera, que teniendo interés, se presente dentro de un término que no exceda de diez días a partir de la fijación.
 
 En los juicios de rectificación se observarán las reglas siguientes:
 
@@ -7027,7 +7055,9 @@ La autorización judicial que soliciten los emancipados o habilitados de edad pa
 
 Medidas preventivas en los casos de desaparición de personas.
 
-A petición de parte o del Ministerio Público, cuando una persona haya desaparecido sin dejar apoderado y se ignore el lugar donde se halle, el juzgador dictará las medidas conservativas indispensables, nombrando un administrador de sus bienes, el cual, además de custodiar éstos representará al ausente en juicio y fuera de él; además, mandará citar al ausente por edictos publicados en el Periódico Oficial del Estado y en dos de los periódicos de mayor circulación de su domicilio, remitiendo en su caso copia de los edictos a los cónsules mexicanos de aquellos lugares del extranjero en que se presume que se encuentra o se tenga noticia de él. Al hacer la citación, se fijará al ausente un plazo no menor de tres meses ni mayor de seis para que se presente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+A petición de parte o del Ministerio Público, cuando una persona haya desaparecido sin dejar apoderado y se ignore el lugar donde se halle, el juzgador dictará las medidas conservativas indispensables, nombrando un administrador de sus bienes, el cual, además de custodiar éstos representará al ausente en juicio y fuera de él; además, mandará citar al ausente por edictos publicados en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, remitiendo en su caso copia de los edictos a los cónsules mexicanos de aquellos lugares del extranjero en que se presume que se encuentra o se tenga noticia de él. Al hacer la citación, se fijará al ausente un plazo no menor de tres meses ni mayor de seis para que se presente.
 
 Podrá ser designado administrador representante:
 
@@ -7055,9 +7085,13 @@ Procedimiento de declaración de ausencia.
 
 El juzgador en el mismo auto por el que abre el procedimiento, mandará requerir al solicitante para que mediante la declaración de dos testigos y con la asistencia del representante del desaparecido justifique los supuestos previstos por el Código Civil para declarar en forma la ausencia.
 
-Si el juzgador encuentra fundada la solicitud, dispondrá que ésta se publique durante tres meses, con intervalos de quince días en el Periódico Oficial del Estado y en dos de los periódicos de mayor circulación en el último domicilio del ausente y, en su caso, remitirá copia de los escritos a los cónsules mexicanos, como se indica en el artículo 655 de este código.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Pasados cuatro meses de la fecha de la última publicación, si no hubiere noticia del ausente ni oposición del representante o de algún interesado, el juzgador declarará en forma la ausencia; ratificará en su cargo al administrador representante, si no hubiere motivo para sustituirlo y mandará publicar la declaración por tres veces de siete en siete días en el Periódico Oficial del Estado y en dos de los periódicos de mayor circulación en el último domicilio del ausente, en la capital del Estado y en la capital de la República.
+Si el juzgador encuentra fundada la solicitud, dispondrá que ésta se publique durante tres meses, con intervalos de quince días en el Periódico Oficial del Estado y en el portal electrónico destinado para ello y, en su caso, remitirá copia de los escritos a los cónsules mexicanos, como se indica en el artículo 655 de este código.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Pasados cuatro meses de la fecha de la última publicación, si no hubiere noticia del ausente ni oposición del representante o de algún interesado, el juzgador declarará en forma la ausencia; ratificará en su cargo al administrador representante, si no hubiere motivo para sustituirlo y mandará publicar la declaración por tres veces de siete en siete días en el Periódico Oficial del Estado y en el portal electrónico destinado para ello.
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, será apelable en el efecto devolutivo.
 
@@ -7439,7 +7473,9 @@ El que tenga una posesión apta para usucapir bienes inmuebles no inscritos en e
 
 Para obtener esta determinación, se formulará petición escrita con los datos que sirvan para identificar el inmueble y el hecho o hechos que acreditan la posesión. A la petición se acompañará precisamente certificado del Registro Público que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en las oficinas catastrales y del impuesto predial. La petición se ventilará conforme a las reglas de los procedimientos no contenciosos, recibiéndose información de testigos, y las demás pruebas que se ofrezcan, con citación del Ministerio Público, del Registrador de la Propiedad y de los colindantes. Los testigos deberán ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere. Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que debe tener para servir de base a la usucapión y sobre su origen.
 
-No se recibirá la información sin que previamente se haya dado una amplia difusión a la petición, mediante edictos que se publicarán por tres veces consecutivas, de siete en siete días, en el Periódico Oficial del Estado y en uno de los de mayor circulación en el lugar de la ubicación del bien, y cuyo texto se fijará en lugares de fácil acceso al público en las oficinas de bienes raíces.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+No se recibirá la información sin que previamente se haya dado una amplia difusión a la petición, mediante edictos que se publicarán por tres veces consecutivas, de siete en siete días, en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, y cuyo texto se fijará en lugares de fácil acceso al público en las oficinas de bienes raíces.
 
 Si el juzgador estima comprobada debidamente la posesión, lo declarará así por resolución judicial que se inscribirá en el Registro Público. Transcurridos cinco años, contados desde la misma inscripción, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, el poseedor tiene derecho, comprobado este hecho mediante el certificado respectivo, a que el juzgador declare que se ha convertido en propietario en virtud de la prescripción adquisitiva, y ordene que se haga en el Registro la inscripción de dominio correspondiente.
 
@@ -7479,7 +7515,9 @@ c) El nombre y domicilio de cada uno de los colindantes.
 
 d) La ubicación, medidas y colindancias del predio o predios de que se trate.
 
-III. Se convocará a las personas que puedan considerarse afectadas, mediante edictos que se publicarán por tres veces consecutivas, de siete en siete días, en el Periódico Oficial del Estado, y en el de mayor circulación en el lugar de la ubicación del bien; además, los edictos se fijarán, en lugares de fácil acceso al público en las oficinas de bienes raíces.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+III. Se convocará a las personas que puedan considerarse afectadas, mediante edictos que se publicarán por tres veces consecutivas, de siete en siete días, en el Periódico Oficial del Estado, y en el portal electrónico destinado para ello; además, los edictos se fijarán, en lugares de fácil acceso al público en las oficinas de bienes raíces.
 
 IV. La información se recibirá con citación del Ministerio Público, del Jefe de la Oficina del Registro Público y de los colindantes.
 
@@ -7665,7 +7703,9 @@ En caso de resolución adversa a los accionantes, tratándose de los servicios c
 
 La autorización a la que hace referencia esta fracción no prejuzga de manera definitiva sobre el fondo de litigio colectivo.
 
-VI. En los procedimientos que puedan ejercerse colectivamente según este capítulo que requieran la publicación de la solicitud en el Periódico Oficial del Estado y en los periódicos de mayor circulación, esta se hará colectivamente. De igual forma, en los mismos procesos que requieran avisos o citación de autoridades, estas se harán a nombre de la colectividad.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+VI. En los procedimientos que puedan ejercerse colectivamente según este capítulo que requieran la publicación de la solicitud en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, esta se hará colectivamente. De igual forma, en los mismos procesos que requieran avisos o citación de autoridades, estas se harán a nombre de la colectividad.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2014)</small>
 
@@ -8525,15 +8565,19 @@ El embargo preventivo practicado a consecuencia de la declaración de rebeldía,
 
 Notificación de la sentencia al rebelde.
 
-La sentencia definitiva se notificará personalmente al rebelde, si fuere conocido su domicilio, o en caso contrario, mediante publicación por una sola vez de los puntos resolutivos en el Periódico Oficial del Estado y en uno de los de mayor circulación del lugar del juicio.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-En el caso de que el emplazamiento al rebelde se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Periódico Oficial del Estado y en el periódico de mayor circulación del lugar, a no ser que el actor otorgue fianza bastante para restituir las cosas al estado en que se encontraban antes de la ejecución.
+La sentencia definitiva se notificará personalmente al rebelde, si fuere conocido su domicilio, o en caso contrario, mediante publicación por una sola vez de los puntos resolutivos en el Periódico Oficial del Estado y en el portal electrónico destinado para ello.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+En el caso de que el emplazamiento al rebelde se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, a no ser que el actor otorgue fianza bastante para restituir las cosas al estado en que se encontraban antes de la ejecución.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
 
 En los casos de rebeldía tratándose de juicios de pérdida de patria potestad, podrá ejecutarse inmediatamente, sin la posibilidad de exhibir fianza a que se refiere el mismo.
 
-### CAPÍTULO SEGUNDO. Personación (sic) tardía del rebelde
+### CAPÍTULO SEGUNDO. Personación tardía del rebelde
 
 ###### ARTÍCULO 782.
 
@@ -10405,7 +10449,9 @@ IX. Cualquier dificultad que surja en la práctica de la diligencia de embargo, 
 
 X. El ejecutor, sin que para ello se necesite determinación del juzgador, deberá realizar con la mayor diligencia los actos complementarios del embargo, como dar posesión al depositario de bienes, aunque no estén en el lugar donde se práctica la diligencia, si se encuentran dentro de la jurisdicción; notificar a deudores o a instituciones de crédito en general, si se han embargado créditos; dar aviso preventivo al Registro Público, si se trata de bienes registrados y, en general, tomar todas las medidas y realizar los actos que tiendan a hacer más efectivo el aseguramiento, de todo lo cual levantará acta debidamente circunstanciada y dará cuenta al titular del juzgado de su adscripción el mismo día en que se practiquen dichos actos, si la hora lo permite.
 
-XI. Si no se supiera el paradero del deudor o no hubiere señalado casa en el lugar del juicio, se le hará el requerimiento de pago mediante publicación por dos veces consecutivas en un periódico de los de mayor circulación en el lugar en que se lleve el juicio, y una vez en el Periódico Oficial del Estado, fijándose, además, cédula en la tabla de avisos. En la publicación, se le conminara a que se presente ante el tribunal que dictó el mandamiento a verificar el pago dentro de los tres días siguientes al de la última publicación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Si no se supiera el paradero del deudor o no hubiere señalado casa en el lugar del juicio, se le hará el requerimiento de pago mediante publicación por dos veces consecutivas en el portal electrónico destinado para ello, y una vez en el Periódico Oficial del Estado, fijándose, además, cédula en la tabla de avisos. En la publicación, se le conminara a que se presente ante el tribunal que dictó el mandamiento a verificar el pago dentro de los tres días siguientes al de la última publicación.
 
 Transcurrido dicho plazo sin cumplimiento del obligado, el ejecutante tendrá derecho a hacer el señalamiento de embargo correspondiente.
 
@@ -10953,7 +10999,9 @@ b) Para intervenir en el acto de remate y hacer al juzgador las observaciones qu
 
 c) Para recurrir la resolución que apruebe o desapruebe el remate o la adjudicación.
 
-IV. Hecho el avalúo, a petición de parte, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial y en uno de los periódicos de mayor circulación. Además cualquiera de las partes, y a su costa, podrá solicitar del juzgador el empleo de cualquier otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de mil veces el salario mínimo general, para anunciar el remate bastará que se publicite en la tabla de avisos del juzgado y en el sitio que al efecto tengan las autoridades fiscales del Municipio en donde se sustancia el juicio.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Hecho el avalúo, a petición de parte, se sacarán los bienes a pública subasta, convocándose postores por medio de la publicación de edictos por dos veces de siete en siete días, en el Periódico Oficial y en el portal electrónico destinado para ello. Además cualquiera de las partes, y a su costa, podrá solicitar del juzgador el empleo de cualquier otro medio de publicidad para convocar postores. Si el valor del inmueble no excede de mil veces el salario mínimo general, para anunciar el remate bastará que se publicite en la tabla de avisos del juzgado y en el sitio que al efecto tengan las autoridades fiscales del Municipio en donde se sustancia el juicio.
 
 V. Si los bienes raíces estuvieren ubicados en diversos lugares, además de las publicaciones ordenadas en la fracción anterior, se librará exhorto para el efecto de que se fijen los edictos en la tabla de avisos del juzgado de cada localidad y en la de las oficinas fiscales municipales respectivas. En este caso, se ampliará el plazo para la publicación de los edictos concediéndose un día más por cada cincuenta kilómetros o fracción y se señalará el plazo tomando en cuenta la distancia mayor a que se hallen los bienes. Si el juzgador lo estima oportuno, podrá ordenar que se hagan también publicaciones en algún periódico del lugar en que se encuentren ubicados los bienes.
 
@@ -11461,7 +11509,9 @@ En los casos de concurso necesario o voluntario, el juzgador examinará la docum
 
 I. Notificará al deudor, personalmente o por cédula, la formación de su concurso necesario, y por el Periódico Oficial del Estado y cédula la del concurso voluntario.
 
-II. Mandará que se haga saber a los acreedores la formación del concurso. La notificación se hará en general, por edictos que se publicarán en el Periódico Oficial del Estado y en el periódico de información diaria que designe el juzgador, por dos veces de diez en diez días. Si hubiere acreedores en el lugar del juicio, se les citará por medio de cédula que se puede enviar por correo o telégrafo, si fuere necesario.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+II. Mandará que se haga saber a los acreedores la formación del concurso. La notificación se hará en general, por edictos que se publicarán en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, por dos veces de diez en diez días. Si hubiere acreedores en el lugar del juicio, se les citará por medio de cédula que se puede enviar por correo o telégrafo, si fuere necesario.
 
 III. Designará sindico provisional y dará intervención al Ministerio Público.
 
@@ -12071,7 +12121,9 @@ Las secciones tercera y cuarta podrán omitirse cuando el heredero sea único y 
 
 Publicidad del juicio sucesorio.
 
-Una vez radicado un juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, con un intervalo de diez días, mediante el cual se convocará a todos los que se consideren con derecho a la herencia y a los acreedores del difunto, para que se presenten en el juicio a deducirlos según corresponda. Los edictos se publicarán en la tabla de avisos del juzgado, en el Periódico Oficial del Estado y en uno de los de mayor circulación en el lugar del juicio. El juzgador ordenará la publicación en otros medios de difusión, cuando lo estime conveniente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Una vez radicado un juicio sucesorio, sea testamentario o intestado, se publicarán edictos por dos veces, con un intervalo de diez días, mediante el cual se convocará a todos los que se consideren con derecho a la herencia y a los acreedores del difunto, para que se presenten en el juicio a deducirlos según corresponda. Los edictos se publicarán en la tabla de avisos del juzgado, en el Periódico Oficial del Estado y en el portal electrónico destinado para ello. El juzgador ordenará la publicación en otros medios de difusión, cuando lo estime conveniente.
 
 Si el juicio esta radicado en un lugar distinto al cual estaba ubicado el último domicilio del finado, también se publicarán en él los edictos.
 
@@ -12773,7 +12825,9 @@ Cuando todos los herederos o legatarios sean mayores de edad, con plena capacida
 
 I. Todos los herederos o legatarios instituidos comparecerán ante el notario, exhibiendo la partida de defunción del autor de la herencia y el testimonio del testamento o de su protocolización, declarando que son conformes con la disposición testamentaria, que aceptan la herencia o el legado y que se reconocen recíprocamente sus derechos hereditarios. El albacea designado por el testador o por los herederos, según sea el caso, quien también deberá estar presente, aceptará el cargo, protestará desempeñarlo fiel y legalmente, caucionará su manejo, conforme a las bases acordadas con los herederos, si no está exento de ello y manifestará que va a proceder a formar el inventario de los bienes de la herencia. Para constancia de lo anterior, el notario levantará acta circunstanciada fuera de protocolo, que deberán firmar todos los comparecientes y en la cual fijará día y hora para que tenga lugar la junta de herederos.
 
-II. El notario dará a conocer los hechos a que se refiere la fracción que antecede, por medio de dos publicaciones, que se harán de diez en diez días en un periódico de los de mayor circulación en el lugar donde se tramita la testamentaría. En el texto del aviso se consignará el hecho de haberse promovido el procedimiento sucesorio testamentario extrajudicial; la fecha de su iniciación; el nombre y apellido de los herederos o legatarios instituidos; el nombre, el apellido y el domicilio del albacea; el nombre y apellido del notario, con expresión del número y el Distrito de la notaría a su cargo, y el domicilio de su despacho. A criterio del notario los avisos podrán contener más elementos que los anteriores, y ser publicados con mayor difusión.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+II. El notario dará a conocer los hechos a que se refiere la fracción que antecede, por medio de dos publicaciones, que se harán de diez en diez días en el portal electrónico destinado para ello. En el texto del aviso se consignará el hecho de haberse promovido el procedimiento sucesorio testamentario extrajudicial; la fecha de su iniciación; el nombre y apellido de los herederos o legatarios instituidos; el nombre, el apellido y el domicilio del albacea; el nombre y apellido del notario, con expresión del número y el Distrito de la notaría a su cargo, y el domicilio de su despacho. A criterio del notario los avisos podrán contener más elementos que los anteriores, y ser publicados con mayor difusión.
 
 III. El notario solicitará al Registro Público del Distrito de su adscripción, y a la Dirección General de Notarías, información para verificar si el que exhibieron ante él los interesados, es el último testamento otorgado por el autor de la herencia. Conforme a su criterio, podrá recabar información en otros Distritos del Estado o en otras entidades federativas.
 
@@ -13730,3 +13784,13 @@ SEGUNDO.- Los matrimonios celebrados antes de la entrada en vigor del presente D
 TERCERO.- Las solicitudes de matrimonio o trámites de dispensa de edad, que se encuentren pendientes se resolverán de conformidad a lo previsto por las disposiciones vigentes al momento en que fueron presentadas o iniciados.
 
 CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Coahuila de Zaragoza deberá realizar las acciones necesarias para la implementación de la presente reforma en un plazo que no excederá de treinta días a partir de la entrada en vigor del presente Decreto, en tanto no se realicen dichas adecuaciones, la publicación de edictos a que se refiere el mismo continuarán realizándose en los periódicos o diarios de mayor circulación.
