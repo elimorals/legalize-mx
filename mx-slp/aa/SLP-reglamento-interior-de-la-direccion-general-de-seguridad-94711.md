@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-direccion-general-de-seguridad-94711"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-06"
-last_updated: "2014-04-24"
+last_updated: "2015-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Edición Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 6 de junio de 2013.
 
@@ -53,7 +53,7 @@ V. Elemento: Los integrantes de la Dirección General de Seguridad Pública del 
 
 VI. Ley: Ley del Sistema de Seguridad Pública del Estado;
 
-VII. Necesidades del servicio se entiende: el conjunto de circunstancias o condiciones por las cuales, para cumplir con un deber legal y satisfacer el interés público, se justifica disponer en cualquier momento de recursos humanos, materiales y financieros con la finalidad de hacer frente de manera oportuna, contundente, eficaz y eficiente a los objetivos de la Dirección, y (sic)
+VII. Necesidades del servicio se entiende: el conjunto de circunstancias o condiciones por las cuales, para cumplir con un deber legal y satisfacer el interés público, se justifica disponer en cualquier momento de recursos humanos, materiales y financieros con la finalidad de hacer frente de manera oportuna, contundente, eficaz y eficiente a los objetivos de la Dirección, y
 
 VIII. Reglamento: Reglamento Interior de la Secretaría de Seguridad Pública del Estado;
 
@@ -1549,9 +1549,11 @@ Cuando un integrante no pudiere hacer uso de sus vacaciones en los períodos se�
 
 Las vacaciones no serán acumulables entre períodos, con licencias o días de descanso obligatorio. El personal que no las disfrute por causas imputables a él, perderá el derecho a éstas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 74.
 
-Por cada seis días de trabajo el integrante disfrutará de un día de descanso cuando menos, con goce de salario íntegro que se sujetará a las necesidades del servicio.
+Los elementos operativos de la Dirección, deberán cubrir un horario laboral de doce horas con un descanso de veinticuatro horas, con goce de salario integro que se sujetará a las necesidades del servicio.
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día de media hora cada uno para amamantar a sus hijos por un período de cuatro meses, al término de la licencia correspondiente.
 
@@ -2532,3 +2534,11 @@ MTRO. JOEL MELGAR ARREDONDO
 P.O. 24 DE ABRIL DE 2014.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO ADMINISTRATIVO QUE REFORMA EL REGLAMENTO INTERIOR DE LA DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA DEL ESTADO”.]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones que se opongan al presente decreto.
