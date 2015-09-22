@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2014-11-11"
+last_updated: "2015-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,13 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -376,6 +380,16 @@ El derecho de solicitar el registro de candidatos a cargos de elección popular 
 
 Las candidaturas independientes se sujetarán a los requisitos, condiciones y términos que determine esta Constitución, la legislación electoral del Estado y los acuerdos de las autoridades electorales, en especial para garantizar la transparencia, legalidad y fiscalización en el origen y ejercicio de los recursos. En todo caso, las disposiciones relativas a los partidos políticos, en los procesos electorales, serán aplicables a las candidaturas independientes con las modalidades específicas que la ley señale.
 
+> <small>N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL CONTENIDO DEL PÁRRAFO PRECEDENTE.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Las candidaturas independientes se sujetarán a los requisitos, condiciones y términos que determine esta Constitución y la legislación electoral del Estado, en especial para garantizar la transparencia, legalidad y fiscalización en el origen y ejercicio de los recursos. En todo caso, las disposiciones relativas a los partidos políticos, en los procesos electorales, serán aplicables a las candidaturas independientes con las modalidades específicas que la ley señale.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Los coahuilenses podrán ejercer su derecho a votar, aún estando en territorio extranjero, acorde a las disposiciones legales en la materia.
+
 II. Asociarse pacíficamente para tratar de asuntos políticos del Estado y ejercer en ellos los derechos que las leyes les conceden.
 
 > <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2001)</small>
@@ -456,13 +470,17 @@ El pueblo, en quien reside esencial y originariamente la soberanía que deposita
 
 La renovación de los poderes Ejecutivo y Legislativo del Estado, así como de los ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
-1. Las elecciones ordinarias se celebrarán el primer domingo de julio del año que corresponda.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+1. Las elecciones ordinarias se celebrarán el primer domingo de junio del año que corresponda.
 
 2. Toda propaganda gubernamental deberá suspenderse durante el tiempo que comprendan las precampañas y campañas electorales y hasta la conclusión de la jornada electoral. Se exceptúa de lo anterior la difusión de campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
 3. Los partidos políticos son entidades de interés público y se regirán por lo siguiente:
 
-a) La ley determinará las normas y requisitos para su registro legal, o para la inscripción del mismo ante la autoridad electoral estatal, así como las formas específicas de su intervención en el proceso electoral;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+a) La ley determinará las normas y requisitos para su registro legal, o para la inscripción del mismo ante la autoridad electoral estatal, las formas específicas de su intervención en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden;
 
 b) Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señale la ley;
 
@@ -472,37 +490,57 @@ d) La ley fijará los criterios para determinar los límites a las erogaciones q
 
 e) De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos con registro estatal que lo pierdan y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado;
 
-f) Los partidos políticos tendrán derecho al uso permanente de los medios de comunicación social; su acceso a radio y televisión, durante los procesos electorales, se realizará en los términos establecidos por el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y el Código federal en la materia;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+f) Los partidos políticos tendrán derecho al uso permanente de los medios de comunicación social; su acceso a radio y televisión, durante los procesos electorales, se realizará en los términos establecidos por el artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y las Leyes Generales en la materia.
 
 g) En la propaganda política o electoral que difundan, los partidos deberán abstenerse de expresiones que denigren a las instituciones y a los propios partidos, o que calumnien a las personas.
 
-h) La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y campañas electorales, y
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-i) En la postulación y registro de candidatos a diputados del Congreso del Estado y a integrantes de los ayuntamientos, los partidos políticos garantizarán la equidad de género, en los términos que fije la ley;
+h) La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y campañas electorales;
 
-(NOTA: EL 25 DE OCTUBRE DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO Y EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 14/2010 Y SUS ACUMULADAS 15/2010, 16/2010 Y 17/2010, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE OCTUBRE DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-4. LOS CIUDADANOS COAHUILENSES DE MANERA INDEPENDIENTE, PODRÁN EJERCER SU DERECHO CONSTITUCIONAL A SER VOTADOS EN LAS ELECCIONES ESTATALES, PREVIO CUMPLIMIENTO DE LOS REQUISITOS ESTABLECIDOS EN LA LEY.
+i) En la postulación y registro de candidatos a diputados del Congreso del Estado, los partidos garantizarán la paridad. Las autoridades electorales realizarán las acciones a efecto (sic) procurar la paridad en la integración del Congreso al realizar la asignación de los diputados de representación proporcional.
 
-5. La organización de las elecciones, plebiscitos y referendos, es una función estatal encomendada a un organismo público autónomo denominado Instituto Electoral y de Participación Ciudadana del Estado de Coahuila, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo, los partidos políticos y los ciudadanos. El Instituto se regirá por las siguientes normas y lo que establezca la ley:
+En la postulación y registro de los candidatos a integrar los ayuntamientos, los partidos políticos garantizarán la paridad horizontal y vertical, para el registro de candidatos de mayoría y representación proporcional. Las autoridades electorales realizarán las acciones a efecto de salvaguardar la paridad en la integración del Ayuntamiento al realizar la asignación de representación proporcional.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+j) Los Partidos Políticos tienen derecho a participar en las elecciones estatales y municipales. Los Partidos Políticos Locales que no alcancen el 3 % del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo y Legislativo les será cancelado su registro.
+
+4. (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2015)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+5. La organización de las elecciones, plebiscitos y referendos, es una función estatal encomendada a un Organismo público Local Electoral denominado Instituto Electoral de Coahuila dotado de personalidad jurídica y patrimonio propios, en cuya integración participan los partidos políticos y los ciudadanos. El Instituto se regirá por las siguientes normas y lo que establezca la ley;
 
 a) Será autoridad en la materia, independiente en sus decisiones y funcionamiento y profesional en su desempeño; tendrá autonomía presupuestal;
 
-b) La certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores de su desempeño;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por un consejero presidente y seis consejeros electorales; concurrirán con voz y sin voto los representantes de los partidos políticos y el Secretario Ejecutivo. La ley determinará las reglas y el procedimiento para la elección por el Congreso del Estado de los consejeros electorales y sus suplentes, mediante el voto de las dos terceras partes de los diputados presentes, durarán en su encargo siete años, pudiendo ser ratificados por una sola vez en los términos que disponga la ley;
+b) La certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores de su desempeño;
 
-d) Tendrá a su cargo, de manera integral y directa, todas las actividades relativas a la organización y desarrollo de los procesos electorales locales, de los plebiscitos y referendos; los cómputos, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y ayuntamientos; la fiscalización de los recursos de los partidos políticos, el seguimiento de los compromisos de campaña de los candidatos mediante la emisión de informes anuales con fines meramente informativos y sin efecto vinculatorio alguno, y las demás que señale la ley;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-e) Tendrá un Contralor interno con autonomía de gestión; designado por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo siete años y podrá ser ratificado por una sola vez;
+c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por un consejero presidente y seis consejeros electorales; concurrirán con voz y sin voto los representantes de los partidos políticos y el Secretario Ejecutivo. El Secretario Ejecutivo será designado por el voto de las dos terceras partes de los diputados presentes del Pleno del Congreso a propuesta del Consejo General, durará en su encargo seis años y podrá ser ratificado por una sola vez en los términos que disponga la ley; Tendrá un Contralor interno con autonomía de gestión; designado por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo seis años y podrá ser ratificado por una sola vez.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+d) Tendrá a su cargo, de manera integral y directa, todas las actividades relativas a la organización y desarrollo de los procesos electorales locales, de los plebiscitos y referendos; los cómputos, declaración de validez y otorgamiento de constancias en las elecciones de Gobernador, diputados y ayuntamientos; la fiscalización de los recursos de los partidos políticos, cuando el Instituto Nacional le delegue esta función, el seguimiento de los compromisos de campaña de los candidatos mediante la emisión de informes anuales con fines meramente informativos y sin efecto vinculatorio alguno, y las demás que señale la ley;
+
+e) (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2015)
 
 f) La vigilancia y fiscalización de los recursos de los partidos políticos estará a cargo del Instituto, a través de una unidad técnica cuyo titular será nombrado por el Consejo General, a propuesta de su presidente, por dos terceras partes de los consejeros con derecho a voto. La unidad contará con autonomía de gestión y desarrollará sus actividades conforme a la ley, y
 
-g) El Instituto contará para su funcionamiento permanente con un servicio profesional electoral;
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-6. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y los relativos a plebiscitos y referendos, la ley establecerá un sistema de medios de impugnación del que conocerá el Poder Judicial del Estado. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto reclamado.
+g) El Instituto Electoral de Coahuila contará con una oficialía electoral investida de fe pública, para actos de naturaleza electoral cuyas atribuciones y funciones serán reguladas por las leyes generales en la materia y las demás disposiciones aplicables. El Instituto contará para su funcionamiento permanente con un servicio profesional electoral. El Instituto Nacional Electoral regulará la organización y funcionamiento de este Servicio, el cual comprende la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, de los servidores públicos de los órganos ejecutivos y técnicos del Instituto.
 
-El Tribunal Electoral será, con excepción de lo dispuesto en las fracciones I y II del artículo 158 de esta Constitución, la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial, en los términos que establece el artículo 136 de esta Constitución y demás leyes aplicables.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+6. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales y los relativos a plebiscitos y referendos, la ley establecerá un sistema de medios de impugnación del que conocerá el Tribunal Electoral del Estado de Coahuila de Zaragoza. En materia electoral la interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto reclamado. El Tribunal Electoral será órgano permanente, autónomo y máxima autoridad jurisdiccional electoral. Se integrará por tres Magistrados, que durarán en su encargo 7 años y cuya designación se realizará de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y las Leyes en la Materia.
 
 7. La ley determinará las infracciones y responsabilidades en materia electoral; igualmente establecerá las conductas tipificadas como delitos electorales, así como las sanciones que deban imponerse en ambos casos.
 
@@ -513,6 +551,10 @@ El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecuti
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 El Poder Público del Municipio Libre que emana del pueblo, se deposita para su ejercicio en el Ayuntamiento o, en su caso, en el Concejo Municipal. El Ayuntamiento o el Concejo Municipal se constituirá, dentro del régimen interior del Estado, en un orden constitucional de gobierno municipal, libre, democrático, republicano, representativo y popular.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Para garantizar la paridad de género, las listas de candidatos a integrantes de los ayuntamientos que presenten los Partidos Políticos, se registrarán en segmentos conformados por los municipios en los términos que señale la ley. La lista alternará los candidatos de distinto género, hasta agotar la lista correspondiente iniciando en el candidato o candidata a presidente municipal.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -528,11 +570,13 @@ El Gobernador del Estado, cuyo origen sea la elección popular ordinaria o extra
 
 Nunca podrán ser electos para el período inmediato, el Gobernador substituto o el designado para concluir el período en caso de falta absoluta del constitucional, independientemente de la denominación que se le dé; así como el Gobernador interino, el provisional o el ciudadano que bajo cualquiera denominación, sea nombrado para cubrir faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
-Los Diputados al Congreso del Estado, no podrán ser reelectos para el período inmediato. Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Diputados Propietarios no podrán ser electos para el periodo inmediato con el carácter de suplente.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+Los Diputados del Congreso del Estado, podrán ser electos hasta por cuatro periodos consecutivos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, por nombramiento o por designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé o las que integren un Concejo Municipal, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que, conforme a la ley, tengan el carácter de suplentes, sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Los presidentes municipales, regidores y síndicos de los Ayuntamientos, electos popularmente por elección directa, así como las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé o las que integren un Concejo Municipal, podrán ser electas para el período inmediato.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -560,13 +604,17 @@ Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominar�
 
 El Congreso del Estado se renovará en su totalidad cada tres años y se integrará con dieciséis diputados electos según el principio de mayoría relativa mediante el sistema de distritos electorales, y con nueve diputados electos por el principio de representación proporcional, los cuales serán asignados en los términos que establezca la ley entre aquellos partidos políticos que obtengan cuando menos el 2% de la votación válida emitida en el Estado para la elección de Diputados.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Por cada diputado propietario, deberá elegirse un suplente en los términos que establezca la ley.
+Por cada diputado propietario, deberá elegirse un suplente en los términos que establezca la ley. Las fórmulas para Diputados al Congreso del Estado que registren los Partidos Políticos, tanto en el caso de mayoría relativa, como de representación proporcional, estarán compuestas cada una por un Propietario y un Suplente ambos del mismo género. La Lista de Representación Proporcional de Diputados al Congreso del Estado, se integrarán alternando las fórmulas de distinto género para garantizar el principio de paridad hasta agotar la lista.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Los diputados de mayoría relativa o de representación proporcional, siendo todos representantes populares, tendrán los mismos derechos y obligaciones.
+En el caso de candidatos de mayoría relativa al Congreso del Estado, y con objeto de garantizar la paridad de género, la mitad de los distritos se integrará con candidatos de un género diferente. En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos en los que el partido haya obtenido los porcentajes de votación más bajos en el proceso electoral anterior.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+En el caso de candidatos independientes que se registren para contender por el principio de mayoría relativa, la fórmula de propietario y suplente, deberá estar integrada por el mismo género.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -600,6 +648,18 @@ V. El orden de asignación de los candidatos que aparezcan en las listas o fórm
 
 VI. El tope máximo de Diputados que puede alcanzar un partido por ambos principios, no excederá de dieciséis Diputados en los términos que disponga la ley.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 1994)</small>
 
 ###### Artículo 36.
@@ -616,9 +676,9 @@ II. Tener 21 años cumplidos el día de la elección.
 
 III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-IV. No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral y de Participación Ciudadana, ni secretario del Tribunal Electoral del Poder Judicial de Estado, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
+IV. No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia del Estado, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero, o integrante del órgano de dirección de los organismos públicos autónomos, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral de Coahuila, ni Magistrado o Secretario del Tribunal Electoral del Estado de Coahuila de Zaragoza, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -658,11 +718,11 @@ Los Diputados recibirán una remuneración por el desempeño de su cargo, la cua
 
 Los Diputados, en funciones, sólo desempeñarán cargos de la Federación, del Estado o del Municipio, con licencia de la Legislatura o de la Diputación Permanente, pero entonces cesarán en su cargo, mientras dure la nueva comisión.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 44.
 
-Para que los diputados se consideren legalmente electos, al declararse válidas las elecciones, deberán recibir del Instituto Electoral y de Participación Ciudadana de Coahuila, el documento oficial que los acredite con esa calidad.
+Para que los diputados se consideren legalmente electos, al declararse válidas las elecciones, deberán recibir del Instituto Electoral de Coahuila, el documento oficial que los acredite con esa calidad.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -716,9 +776,9 @@ La clausura de las sesiones tendrá lugar por un acuerdo que se comunicará al E
 
 El Congreso no puede abrir sus Períodos de Sesiones ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Los diputados electos que concurran a la instalación del Congreso del Estado, exhortarán a los ausentes para que en un plazo de tres días se presenten, con la advertencia de que, si no lo hiciesen sin causa justificada, se entenderá por ese sólo hecho que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual y si tampoco lo hiciesen, se declarará vacante el cargo. En este último caso, el Instituto Electoral y de Participación Ciudadana de Coahuila convocará a nuevas elecciones, cuando así proceda.
+Los diputados electos que concurran a la instalación del Congreso del Estado, exhortarán a los ausentes para que en un plazo de tres días se presenten, con la advertencia de que, si no lo hiciesen sin causa justificada, se entenderá por ese sólo hecho que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual y si tampoco lo hiciesen, se declarará vacante el cargo. En este último caso, el Instituto Electoral de Coahuila convocará a nuevas elecciones, cuando así proceda.
 
 Se entiende también que los Diputados que falten a tres Sesiones consecutivas, sin causa justificada o sin previa licencia del Presidente del Congreso, con la cual se dará conocimiento a éste, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
@@ -954,13 +1014,9 @@ III. Reclamar ante el Congreso de la Unión cuando alguna ley general constituya
 
 IV. Adicionar y reformar esta Constitución en los términos que la misma prescribe.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-V. Nombrar y, en su caso, ratificar a los funcionarios electorales que por ley le corresponda designar al Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
-
-Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7º de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado en los términos y conforme al procedimiento que disponga la ley.
+V. Designar a los integrantes del organismo público autónomo a que se refiere la fracción VII del artículo 7° de esta Constitución, con el voto de cuando menos las dos terceras partes de los miembros del Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley.
 
 VI. Facultar al Ejecutivo del Estado para que por sí o por medio de una comisión, celebre arreglos con los Estados vecinos sobre sus límites territoriales; reservándose el mismo Congreso la facultad de aprobar o no dichos convenios, los que en el primer caso, serán sometidos al Congreso de la Unión, para los efectos que establece la Constitución General.
 
@@ -1004,25 +1060,23 @@ XIII. Cambiar provisionalmente la residencia de los Poderes del Estado por la mi
 
 XIV. Establecer, mediante una ley, las bases conforme a las cuales el Estado, los Municipios y las entidades paraestatales y paramunicipales, podrán contraer obligaciones y empréstitos, así como autorizar los conceptos y montos de los mismos, con observancia de lo dispuesto en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-XV. Recibir para su conocimiento las declaratorias de validez de las elecciones de gobernador, diputados y miembros de los Ayuntamientos, que emita el Instituto Electoral y de Participación Ciudadana de Coahuila.
+XV. Recibir para su conocimiento las declaratorias de validez de las elecciones de gobernador, diputados y miembros de los Ayuntamientos, que emita el Instituto Electoral de Coahuila.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir al Gobernador del Estado, en los términos de los artículos 78 y 79 de esta Constitución.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007) (F. DE E., P.O. 19 DE JUNIO DE 2007)
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
+XVII. Otorgar o negar su aprobación a los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de esta Constitución y las leyes.
 
 Igualmente, ratificar, el nombramiento que el titular del ejecutivo haga del Procurador General de Justicia del Estado y, en su caso, acordar su remoción, siempre que concurra alguna de las causales de procedencia previstas en esta Constitución y leyes aplicables.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-XVIII. Conocer de las renuncias y de las licencias de los diputados, del Gobernador, de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, así como de los miembros de los Ayuntamientos y Concejos Municipales.
+XVIII. Conocer de las renuncias y de las licencias de los diputados, del Gobernador, de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso- Administrativo y del Tribunal de Conciliación y Arbitraje, así como de los miembros de los Ayuntamientos y Concejos Municipales;
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1214,9 +1268,7 @@ Son atribuciones de la Diputación Permanente:
 
 I. Llevar la correspondencia con los Poderes de la Federación y con los de los Estados.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
-
-II. Recibir los expedientes de las elecciones de Gobernador y ayuntamientos, en su caso, mismos que deberá presentar cerrados al Congreso cuando éste se reúna. Asimismo, recibir y registrar las declaratorias de validez de las elecciones de diputados y comunicarlas al Congreso cuando éste se reúna.
+II. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
 
 III. Acordar por sí o a petición del Ejecutivo la convocatoria de la Legislatura a sesiones extraordinarias
 
@@ -1332,15 +1384,15 @@ VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, fal
 
 La elección de Gobernador será directa y en los términos que señale la Ley de la materia. El Gobernador del Estado tomará posesión el día primero de diciembre posterior a la elección, y no podrá durar en el cargo más de seis años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 78.
 
-En caso de falta absoluta del Gobernador del Estado, que ocurra durante los tres primeros años del período constitucional correspondiente, el Congreso del Estado se constituirá inmediatamente en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del total de sus miembros nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino. El Instituto Electoral y de Participación Ciudadana de Coahuila, dentro de los noventa días siguientes al de la designación del Gobernador Interino, expedirá la convocatoria para la elección del Gobernador que deba concluir el período, debiendo precisar en la misma, la fecha en que habrá de celebrarse dicha elección.
+En caso de falta absoluta del Gobernador del Estado, que ocurra durante los tres primeros años del período constitucional correspondiente, el Congreso del Estado se constituirá inmediatamente en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del total de sus miembros nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino. El Instituto Electoral de Coahuila, dentro de los noventa días siguientes al de la designación del Gobernador Interino, expedirá la convocatoria para la elección del Gobernador que deba concluir el período, debiendo precisar en la misma, la fecha en que habrá de celebrarse dicha elección.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe al Gobernador Interino. El Instituto Electoral y de Participación Ciudadana de Coahuila deberá convocar a elecciones en los términos del párrafo anterior.
+Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso, para que éste, a su vez, designe al Gobernador Interino. El Instituto Electoral de Coahuila deberá convocar a elecciones en los términos del párrafo anterior.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2132,23 +2184,21 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 De la Organización y Atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 135.
 
-El poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal Electoral, en el Tribunal de lo Contencioso-Administrativo, en el Tribunal de Conciliación y Arbitraje, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes.
+El poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal de lo Contencioso-Administrativo, en el Tribunal de Conciliación y Arbitraje, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
 El período constitucional de los integrantes del Poder Judicial será:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 I.- De quince años, para los Magistrados del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2007)</small>
-
-II.- De diez años, para los Magistrados del Tribunal Electoral;
+II.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2007)</small>
 
@@ -2168,67 +2218,15 @@ La competencia, organización y atribuciones del Tribunal Superior de Justicia, 
 
 El Tribunal Superior de Justicia se compondrá por catorce Magistrados y funcionará en Pleno o en Salas. Se establecerá una Sala Auxiliar del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Viesca y San Pedro y tendrá la competencia que determine la propia ley. Esta Sala Auxiliar se integrará por tres Magistrados numerarios y tres Magistrados supernumerarios. El Presidente de la Sala Auxiliar será integrante del Pleno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Los Magistrados del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito no integrarán el Pleno.
+Los Magistrados del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito no integrarán el Pleno.
 
-(REFORMADO, P.O. 22 DE JUNIO DE 2007) (F. DE E., P.O. 31 DE JULIO DE 2007)
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-La competencia, procedimientos, organización del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo, del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
+La competencia, procedimientos, organización del Tribunal de lo Contencioso Administrativo, del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 21 DE JUNIO DE 2005)</small>
-
-A. El Tribunal Electoral es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y de plena jurisdicción, y funcionará conforme a las bases generales siguientes:
-
-> <small>(F. DE E., P.O. 31 DE JULIO DE 2007)</small>
-
-I. Se integrará por tres magistrados que durarán en su cargo el tiempo que señala la fracción II del artículo 135 de esta Constitución, y funcionará en pleno en los términos que disponga la Ley.
-
-II. La designación de los magistrados del Tribunal Electoral deberá contar con la aprobación de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado en la sesión de que se trate. El procedimiento de designación se sujetará a lo dispuesto por el artículo 146 de esta Constitución y demás leyes aplicables.
-
-En todo caso, se designarán tres magistrados numerarios y tres magistrados supernumerarios. Estos últimos suplirán las ausencias temporales o definitivas de los numerarios, en el orden que establezca el Tribunal Electoral.
-
-III. Los magistrados del Tribunal Electoral no podrán ser postulados para cargos de elección popular, estatales o municipales, durante el tiempo de su encargo o para el período de elección inmediato a la separación del mismo.
-
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
-
-IV. Para ser Magistrado del Tribunal Electoral deberán cumplirse los requisitos establecidos en el Artículo 138 de esta Constitución.
-
-V. El presidente del Tribunal Electoral será elegido, de entre sus miembros, para ejercer el cargo por tres años y podrá ser reelecto por igual período.
-
-VI. Las sesiones serán públicas en los términos que disponga la ley. Las resoluciones del Tribunal Electoral serán definitivas e inatacables y, por tanto, no estarán sujetas a la controversia constitucional prevista en el artículo 158 de esta Constitución, sin perjuicio de lo previsto en la Constitución Política de los Estados Unidos Mexicanos.
-
-VII. El Tribunal Electoral será competente para resolver, en única instancia y en los términos de esta Constitución y según lo disponga la ley, sobre:
-
-1. Las impugnaciones de las elecciones para gobernador, diputados y miembros de los Ayuntamientos del estado.
-
-2. Las impugnaciones en contra de omisiones, actos, acuerdos o resoluciones del Instituto Electoral y de Participación Ciudadana de Coahuila, que violen normas constitucionales o legales.
-
-3. Las impugnaciones en contra de omisiones, actos y resoluciones que violen los derechos políticos de los ciudadanos de votar, ser votados, de asociarse libre y pacíficamente y de participar en la vida pública, en los términos que señale esta Constitución y demás leyes aplicables.
-
-4. Las impugnaciones de omisiones, actos o resoluciones del Poder Ejecutivo, del Congreso del Estado o de los Ayuntamientos, que violen los resultados vinculatorios del plebiscito, del referendo o el trámite de la iniciativa popular.
-
-5. La determinación e imposición de sanciones en la materia.
-
-6. Las demás que señale la ley.
-
-VIII. Las impugnaciones en materia electoral sólo procederán cuando lo solicitado sea material y jurídicamente posible dentro de los plazos electorales y sea factible antes de la fecha constitucional o de la legalmente fijada para la instalación de los órganos de gobierno de que se trate o de la correspondiente a la de la toma de posesión de los funcionarios elegidos.
-
-En materia electoral, la interposición de los medios de impugnación constitucionales o legales no suspenderá los efectos de la resolución o el acto impugnado.
-
-IX. En caso de que el Tribunal Electoral sustente un criterio sobre un precepto constitucional, cuya interpretación pueda ser contradictoria con el criterio sostenido por el Pleno o las Salas del Tribunal Superior de Justicia, se podrá denunciar ante el Pleno del Tribunal Superior de Justicia la contradicción en los términos que señale la ley. La jurisprudencia por contradicción no se aplicará a los asuntos ya resueltos.
-
-X. No se requerirá declaración de apertura o instalación para iniciar la función jurisdiccional electoral; en todo caso, el Tribunal Electoral al iniciar el proceso correspondiente lo comunicará a las autoridades federales, estatales y municipales.
-
-El Tribunal Electoral comunicará la conclusión del proceso electoral a las autoridades a que se refiere el párrafo anterior.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 2 DE AGOSTO DE 2007)</small>
-
-XI. El Pleno del Tribunal Electoral emitirá su opinión sobre la acción de inconstitucionalidad de que conozca el Tribunal Superior de Justicia en materia electoral, sistema de partidos o de participación ciudadana. La ley regulará el procedimiento de la opinión jurisdiccional.
-
-XII. La administración, vigilancia y disciplina del Tribunal Electoral corresponderán, en los términos que señale la ley, al Consejo de la Judicatura del Estado. El presidente del Tribunal Electoral formará parte del Consejo de la Judicatura con voz y voto únicamente en los asuntos que le competan al Tribunal que preside.
+A. (DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2006)</small>
 
@@ -2292,11 +2290,11 @@ VII. La administración, vigilancia y disciplina del Tribunal de Conciliación y
 
 El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal Electoral, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Conciliación y Arbitraje y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia local en los términos que establezca la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 138.
 
-Para ser nombrado Magistrado del Tribunal Superior de Justicia, del Tribunal Electoral del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje se requiere:
+Para ser nombrado Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje se requiere:
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2006)</small>
 
@@ -2322,9 +2320,9 @@ V. Haber residido en el Estado durante los dos años anteriores al día de la de
 
 VI. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, de Procurador General de Justicia en el Estado, de Diputado local, de Presidente Municipal o alguno de los cargos a que se refiere el artículo 95, fracción VI de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de su nombramiento.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Los nombramientos de los Magistrados del Tribunal Superior de Justicia, del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -2356,9 +2354,9 @@ Es obligatorio para toda autoridad, cumplir las sentencias y demás resoluciones
 
 El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, que tendrá como funciones la administración, vigilancia y disciplina de los órganos jurisdiccionales. La administración de las dependencias del Pleno, la Presidencia y las Salas, estará a cargo del Presidente del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. Los Presidentes del Tribunal Electoral, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje formarán parte siempre del Consejo con voz, pero sólo tendrán voto cuando se trate de asuntos relativos a los Tribunales que presiden.
+El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. Los Presidentes del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje, formarán parte siempre del Consejo con voz, pero sólo tendrán voto cuando se trate de asuntos relativos a los Tribunales que presiden.
 
 Los consejeros deberán reunir los requisitos para ser magistrados y durarán tres años en su cargo, salvo su Presidente. Por cada uno de los consejeros, habrá un suplente.
 
@@ -2388,11 +2386,11 @@ La formación y actualización de los servidores públicos judiciales, estará a
 
 Los nombramientos de los Magistrados y Jueces, integrantes del Poder Judicial, serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 146.
 
-Los nombramientos de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
+Los nombramientos de los magistrados del Tribunal Superior de Justicia, y del Tribunal de lo Contencioso-Administrativo, serán hechos por el Gobernador del Estado de la lista de candidatos que le presente el Consejo de la Judicatura y sometidos a la aprobación del Congreso, o en su caso, de la Diputación Permanente, cuando proceda, el que la otorgará o negará dentro del improrrogable término de cinco días.
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MAYO DE 2007) (F. DE E., P.O. 19 DE JUNIO DE 2007)
 
@@ -2934,11 +2932,13 @@ El Ayuntamiento se conformará de acuerdo con las bases siguientes:
 
 I. Sus integrantes serán electos en la forma que establezca la ley de la materia.
 
-II. Se prohibe la reelección en los términos del último párrafo del artículo 30 de esta Constitución.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)</small>
+II. La elección consecutiva será permitida en los términos del artículo 30 de esta Constitución por un período adicional.
 
-III. Se renovará en su totalidad cada cuatro años.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+III. Se renovará en su totalidad cada tres años.
 
 IV. Iniciará sus funciones el primero de enero del año inmediato siguiente al de la elección y concluirá el día anterior a aquel en que inicie funciones el que lo sucederá.
 
@@ -3790,9 +3790,9 @@ Cuando hayan desaparecido los Poderes Legislativo y Ejecutivo del Estado, el Tri
 
 Cuando el Tribunal Superior de Justicia no hubiere podido reunirse en la forma prevista en el párrafo anterior, o hubieren desaparecido los tres Poderes, asumirá provisionalmente el mando del Gobierno el último Presidente del Tribunal que haya sido en el período Constitucional anterior, y a falta de éste los demás Magistrados en orden a su antigüedad y si esta es igual para todos, conforme a su designación.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-El Instituto Electoral y de Participación Ciudadana de Coahuila, convocará a elecciones dentro de los noventa días siguientes al que asumió el cargo el gobernador provisional conforme al párrafo que antecede. En todo caso, el gobernador provisional no podrá ser electo para el período para el cual haya convocado el Instituto conforme a este párrafo.
+El Instituto Electoral de Coahuila, convocará a elecciones dentro de los noventa días siguientes al que asumió el cargo el gobernador provisional conforme al párrafo que antecede. En todo caso, el gobernador provisional no podrá ser electo para el período para el cual haya convocado el Instituto conforme a este párrafo.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -3866,11 +3866,13 @@ La Comisión de Derechos Humanos del Estado de Coahuila, se constituirá conform
 
 La Ley Suprema Coahuilense puede ser adicionada o reformada por el Congreso del Estado. Para que las adiciones o reformas lleguen a ser parte del bloque de la constitucionalidad local, deben observarse los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-I. Iniciativa suscrita por el Gobernador del Estado o por uno o varios Diputados, a la que se le darán dos lecturas con un intervalo de diez días.
+I. Iniciativa suscrita por el Gobernador o por uno o varios Diputados, a la que se le darán dos lecturas con un intervalo de diez días naturales.
 
-II. Dictamen de la Comisión respectiva al que se darán dos lecturas con un intervalo de seis días.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+II. Dictamen de la Comisión respectiva al que se darán dos lecturas con un intervalo de seis días naturales.
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1994)</small>
 
@@ -3884,11 +3886,13 @@ VI. Discusión del nuevo dictamen, que formará con vista del sentir de los Ayun
 
 VII. Declaración del Congreso, con vista y discusión del dictamen de la comisión.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 197.
 
-Para cumplir con lo que se previene en la fracción V del artículo que precede, el Congreso después de haber cumplido los requisitos que consignan las fracciones anteriores a la citada, mandará a cada Ayuntamiento del Estado, una copia del expediente a que se refiere la fracción IV de esta misma disposición, señalándoles, asimismo, que dentro del término de treinta días deberán emitir su voto, para los efectos legales correspondientes, y que, de no hacerlo, se entenderá que aceptan la reforma.
+Para cumplir con lo que se previene en la fracción V del artículo que precede, el Congreso después de haber cumplido los requisitos que consignan las fracciones anteriores a la citada, mandará a cada Ayuntamiento del Estado, una copia del expediente a que se refiere la fracción IV de esta misma disposición, señalándoles, asimismo, que deberán emitir su voto, para los efectos legales correspondientes.
+
+Una vez que se reciba el voto favorable de la mayoría absoluta de los Ayuntamientos de los Municipios, se podrá proceder a la formulación y presentación del dictamen a que se refiere la fracción VI del artículo anterior, así como a hacer la declaración que se señala en la fracción VII de la misma disposición.
 
 ###### Artículo 198.
 
@@ -4871,3 +4875,29 @@ CUARTO.- Dentro de los ciento sesenta días siguientes a la entrada en vigor de 
 P.O. 11 DE NOVIEMBRE DE 2014.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO.- Los ayuntamientos que se elijan el primer domingo de junio de 2017 durarán en su encargo del 1 de enero al 31 de diciembre de 2018.
+
+TERCERO.- Con la entrada en funciones de los Consejeros Electorales nombrados por el INE, se extingue el Instituto Electoral y de Participación Ciudadana de Coahuila, sustituyéndose por el Instituto Electoral de Coahuila. Los recursos humanos, financieros y materiales pasarán a la Secretaría de Finanzas, quien dotará al nuevo organismo el presupuesto necesario para el desempeño de sus funciones. La extinción no tendrá efecto alguno sobre los trámites o procedimientos que se encuentren pendientes ante el Instituto.
+
+Para efectos de lo dispuesto en el párrafo anterior, a la entrada en vigor del presente Decreto, el Instituto Electoral y de Participación Ciudadana de Coahuila realizará los trámites necesarios para la entrega de los recursos humanos financieros y materiales a las instancias correspondientes.
+
+CUARTO.- Todas las referencias que, en disposiciones legales o administrativas, se hagan al Instituto Electoral y de Participación Ciudadana de Coahuila, se entenderán hechas al Instituto Electoral de Coahuila.
+
+QUINTO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 27 numeral 6; 67 fracciones XVII y XVIII, 135, 136 párrafos cuarto y quinto, así como el apartado A del mismo artículo, y a los artículos 138, 143 y 146 de la Constitución Política del Estado de Coahuila de Zaragoza, serán aplicables en la misma fecha en que entren en funciones los magistrados electorales locales designados por el Senado de la República. Los magistrados del Tribunal Electoral del Estado continuarán en funciones hasta en tanto el Senado de la República realice los nombramientos. La mencionada designación deberá hacerse de manera escalonada, de tal forma que, el primero de los magistrados dure en el encargo siete años, el segundo de ellos cinco y el último tres.
+
+Los recursos humanos financieros y materiales del Tribunal Electoral del Poder Judicial pasarán a la Secretaría de Finanzas del Estado, ésta proveerá al nuevo tribunal electoral del presupuesto necesario para su funcionamiento de conformidad con esta Constitución y las demás disposiciones aplicables. La extinción del Tribunal no tendrá efecto alguno sobre los juicios y trámites que se encuentren pendientes ante el Tribunal.
+
+Para efectos de lo dispuesto en el párrafo anterior, a la entrada en vigor del presente Decreto, el Tribunal Electoral del Poder Judicial de Coahuila realizará los trámites necesarios para la entrega de los recursos humanos financieros y materiales a las instancias correspondientes.
+
+SEXTO.- Las modificaciones a la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y demás disposiciones relacionadas con el Tribunal Electoral se realizarán en un plazo no mayor a 60 días contados a partir de la designación de los magistrados en la materia.
+
+SÉPTIMO.- Las modificaciones al Código Municipal para el Estado de Coahuila de Zaragoza, se realizarán en un plazo no mayor a 60 días contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO.- El Congreso del Estado contará con un plazo de 120 días a partir de la entrada en vigor del Presente Decreto para emitir la Ley que sustituirá la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial el viernes 16 de noviembre de 2001.
+
+NOVENO.- Se derogan todas las disposiciones que se opongan al Presente Decreto.
