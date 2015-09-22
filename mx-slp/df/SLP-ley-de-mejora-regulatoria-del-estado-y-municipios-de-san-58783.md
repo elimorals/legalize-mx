@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mejora-regulatoria-del-estado-y-municipios-de-san-58783"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-01"
-last_updated: "2011-10-29"
+last_updated: "2015-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 1 de noviembre de 2007.
 
@@ -35,21 +35,25 @@ LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO D
 
 EXPOSICION DE MOTIVOS
 
-.
+...
 
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
 ### CAPITULO I. De las Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 1°.
 
 La presente Ley es de orden público; y observancia general para las dependencias y organismos descentralizados de la administración pública estatal, así como para los municipios y los organismos paramunicipales e intermunicipales; tiene por objeto la mejora continua, integral y permanente de la regulación en actividades o sectores económicos del Estado.
 
-Las disposiciones de esta Ley se aplicarán a los actos de autoridad, procedimientos y resoluciones administrativas de los sujetos de esta Ley, así como a los servicios que presten de manera exclusiva estos entes, y a los contratos que los particulares puedan celebrar con los mismos, con motivo de la prestación de servicios públicos, que incidan en la actividad empresarial y en los servicios de atención a la ciudadanía.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-Este Ordenamiento no será aplicable a las materias de carácter fiscal y de ejercicio presupuestario; responsabilidades de los servidores públicos; en materia laboral o agraria; en materia electoral; seguridad pública; protección civil; ni al ministerio público en el ejercicio de sus funciones constitucionales; de policía y buen gobierno; participación ciudadana; del notariado; así como de justicia cívica, derechos humanos y derechos de los pueblos indígenas.
+Las disposiciones de esta Ley se aplicarán a los actos de autoridad, procedimientos y resoluciones administrativas de las dependencias estatales y municipales; respecto de los organismos descentralizados estatales y municipales, aplicarán a sus actos de autoridad, servicios que presten de manera exclusiva y contratos que los particulares puedan celebrar con los mismos.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+Este Ordenamiento no será aplicable a las materias de carácter fiscal y de ejercicio presupuestario, responsabilidades de los servidores públicos, laboral, ministerio público en el ejercicio de sus funciones constitucionales, de policía y buen gobierno, participación ciudadana, justicia cívica y derechos de los pueblos indígenas.
 
 ###### ARTICULO 2º.
 
@@ -85,39 +89,57 @@ III. Los organismos paramunicipales e intermunicipales.
 
 Para los efectos de la aplicación de la presente Ley, se entiende por:
 
-l. Afirmativa ficta: a la figura jurídica por virtud de la cual, ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por esta Ley, o los ordenamientos jurídicos aplicables al caso concreto, se entiende que se resuelve en sentido afirmativo lo solicitado por el particular;
+I. Afirmativa ficta: a la figura jurídica por virtud de la cual, ante la omisión de la autoridad de emitir una resolución de manera expresa, dentro de los plazos previstos por esta Ley, o los ordenamientos jurídicos aplicables al caso concreto, se entiende que se resuelve en sentido afirmativo lo solicitado por el particular;
 
-II. Consejos para la mejora regulatoria: a los órganos de consulta y vinculación con todos los sectores, en el ámbito estatal y municipal;
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-III. Dependencias: a las instancias de gobierno de la administración pública estatal centralizada;
+II. Anteproyecto: a la propuesta de regulación que generan las dependencias y organismos descentralizados de la administración pública estatal, así como los municipios, organismos paramunicipales e intermunicipales;
 
-IV. Ejecutivo Estatal: al titular del Poder Ejecutivo del Estado;
+III. Consejos para la mejora regulatoria: a los órganos de consulta y vinculación con todos los sectores, en el ámbito estatal y municipal;
 
-V. Manifestación de impacto regulatorio: al documento público mediante el cual se miden los costos, y los beneficios sociales y económicos de los anteproyectos que señala esta Ley;
+IV. Dependencias: a las instancias de gobierno de la administración pública estatal centralizada;
 
-VI. Medios de comunicación electrónica: a los dispositivos tecnológicos para efectuar transmisión de datos e información a través de computadoras, líneas telefónicas y similares que pongan a su disposición para fines específicos, las dependencias y organismos descentralizados estatales, los municipios y organismos paramunicipales e intermunicipales;
+V. Ejecutivo Estatal: al titular del Poder Ejecutivo del Estado;
 
-VII. Mejora regulatoria: a la política pública que genera un proceso continúo, sistemático y transparente de análisis, revisión y modificación de la normatividad vigente, para brindar certeza jurídica a la sociedad;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Municipios: a las instancias de gobierno de las administraciones públicas municipales centralizadas y a los cabildos;
+VI. Medios de comunicación electrónica: a los dispositivos tecnológicos para efectuar transmisión de datos e información a través de computadoras, líneas telefónicas y similares que pongan a su disposición para fines específicos, las dependencias y organismos descentralizados, los municipios y organismos paramunicipales e intermunicipales;
 
-IX. Organismos descentralizados: a las instancias de gobierno de la administración pública paraestatal;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-X. Organismos paramunicipales: a las instancias de gobierno de la administración pública municipal descentralizada;
+VII. Mejora regulatoria: a la política pública que genera un proceso continuo, sistemático y transparente de análisis, revisión y modificación de la normatividad vigente, para brindar certeza jurídica a la sociedad;
 
-XI. Organismos intermunicipales: a aquéllos que se crean por convenio entre los municipios, con la aprobación del Congreso del Estado;
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Reglamento: al Reglamento de la presente Ley;
+VIII. MIR: a la Manifestación de Impacto Regulatorio;
 
-XIII. Regulación: a los instrumentos jurídicos que emplea el Estado, los municipios y los organismos paramunicipales e intermunicipales, para establecer obligaciones y derechos, con el fin de normar la conducta de los particulares y del gobierno para la protección de intereses sociales legítimamente aprobados;
+IX. Municipios: a las instancias de gobierno de las administraciones públicas municipales centralizadas y a los cabildos;
 
-XIV. Requisito: a la obligación de dar o hacer que debe cumplir el ciudadano, para acceder a la realización de un trámite o servicio, de acuerdo con las disposiciones legales o administrativas correspondientes;
+X. Organismos descentralizados: a las instancias de gobierno de la administración pública paraestatal;
 
-XV. Secretaría: a la Secretaría de Desarrollo Económico de Gobierno del Estado;
+XI. Organismos paramunicipales: a las instancias de gobierno de la administración pública municipal descentralizada;
 
-XVI. Servicio: a las gestiones en las que algún ordenamiento jurídico faculta a la autoridad, para otorgar un beneficio a los particulares, las cuales deben cumplir con la entrega de documentación o información determinada, y
+XII. Organismos intermunicipales: a aquéllos que se crean por convenio entre los municipios, con la aprobación del Congreso del Estado;
 
-XVII. Trámite: a las gestiones establecidas en un ordenamiento jurídico que obligan a los particulares, a realizar una solicitud o a entregar información ante las instancias de gobierno correspondientes, o a conservar cierta documentación o información.
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Particulares: a las personas físicas o morales que interactúan con las autoridades estatales y municipales, de forma personal como titular o mediante la autorización otorgada a un tercero, conforme a lo dispuesto en las disposiciones jurídicas aplicables;
+
+XIV. Reglamento: al Reglamento de la presente Ley;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Regulación: a las leyes, reglamentos, decretos, acuerdos, órdenes, normas técnicas, circulares, formatos, lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales y cualquier otra disposición de naturaleza análoga que rijan en el Estado o el Municipio, según corresponda;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XVII (SIC). Requisito: a la obligación de dar o hacer, que debe cumplir el ciudadano, para acceder a la realización de un trámite o servicio, de acuerdo con las disposiciones legales o administrativas correspondientes;
+
+XVIII. Secretaría: a la Secretaría de Desarrollo Económico de (sic) Gobierno del Estado;
+
+XIX. Servicio: a las gestiones en las que algún ordenamiento jurídico faculta a la autoridad, para otorgar un beneficio a los particulares, las cuales deben cumplir con la entrega de documentación o información determinada, y
+
+XX. Trámite: a las gestiones establecidas en un ordenamiento jurídico que obligan a los particulares, a realizar una solicitud o a entregar información ante las instancias de gobierno correspondientes, o a conservar cierta documentación o información.
 
 ###### ARTICULO 5°.
 
@@ -131,9 +153,11 @@ En los convenios a que se refiere el párrafo anterior de este artículo, se pre
 
 Se propiciará la celebración de acuerdos interinstitucionales con uno o varios organismos internacionales.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 7°.
 
-Los actos administrativos de carácter general, tales como reglamentos, decretos, acuerdos, órdenes, circulares, formatos, así como los lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales y cualquier otra disposición de naturaleza análoga, que expidan las dependencias y organismos descentralizados estatales, los municipios y los organismos paramunicipales e intermunicipales, deberán publicarse en el Periódico Oficial del Estado, para que produzcan efectos jurídicos.
+Los actos administrativos de carácter general, tales como reglamentos, decretos, acuerdos, órdenes, normas técnicas, circulares, formatos, lineamientos, criterios, metodologías, instructivos, directivas, reglas, manuales y cualquier otra disposición de naturaleza análoga, que expidan las dependencias y organismos descentralizados, o en su caso, los municipios y los organismos paramunicipales e intermunicipales, deberán publicarse en el Periódico Oficial del Estado o en el medio de difusión municipal equivalente, para que produzcan efectos jurídicos.
 
 ### CAPITULO II. De las Atribuciones de la Secretaría, y de las Direcciones de Desarrollo Económico Municipales o su Equivalente, en Materia de Mejora Regulatoria
 
@@ -177,13 +201,37 @@ XVI. Opinar respecto de los trámites y servicios que hayan registrado en el por
 
 XVII. Proporcionar la guía para la elaboración de la manifestación de impacto regulatorio, de acuerdo a lo establecido en el Reglamento de esta Ley;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-XVIII. Proponer y promover las medidas para la mejora continua del proceso de mejora regulatoria en el Estado, así como las que se requieran para el cumplimiento de lo dispuesto en esta Ley, su reglamento y otras disposiciones legales, y
+XVIII. Proponer y promover las medidas para la mejora continua del proceso de mejora regulatoria en el Estado, así como las que se requieran para el cumplimiento de lo dispuesto en esta Ley, su reglamento y otras disposiciones legales;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-XIX. Establecer indicadores de desempeño, eficiencia y eficacia en materia de mejora regulatoria.
+XIX. Establecer indicadores de desempeño, eficiencia y eficacia en materia de mejora regulatoria;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Promover la calidad de la regulación a través de los procedimientos de evaluación correspondientes mediante la implementación de la MIR;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. Realizar un proceso continuo de revisión de la regulación y los mecanismos que permitan medir periódicamente su implementación, a través de los diagnósticos correspondientes;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Desarrollar los mecanismos de consulta y participación ciudadana dentro de los procedimientos de diseño y evaluación de la regulación, así como de otras herramientas de mejora regulatoria;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII. Supervisar y evaluar el efecto de las regulaciones y los procedimientos regulatorios de la MIR;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV. Hacer públicos los dictámenes de las MIR que emita la Secretaría, las opiniones de los particulares y del Consejo Estatal para la Mejora Regulatoria dentro del proceso de emisión de regulación, y
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XXV. Emitir acuerdos, lineamientos, criterios, guías y procedimientos en materia de mejora regulatoria.
 
 ###### ARTICULO 9º.
 
@@ -217,15 +265,25 @@ XIII. Desarrollar acciones de capacitación para las direcciones o áreas admini
 
 XIV. Apoyar y asesorar a las direcciones o áreas administrativas, respecto de los trámites y servicios que ofrecen, con el fin de mejorar su prestación en términos de calidad, tiempos y costos que impliquen para el particular;
 
-XV. Proporcionar la guía para la elaboración de la manifestación de impacto regulatorio, de acuerdo a lo establecido en el Reglamento de esta Ley, y
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Proponer y promover las medidas para la mejora continua del proceso de mejora regulatoria en el municipio, organismo paramunicipal e intermunicipal respectivo, así como las que se requieran para el cumplimiento de lo dispuesto en esta Ley, su Reglamento y otras disposiciones legales.
+XV. Proporcionar la guía para la elaboración de la manifestación de impacto regulatorio, de acuerdo a lo establecido en el Reglamento de esta Ley;
+
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Proponer y promover las medidas para la mejora contínua del proceso de mejora regulatoria en el municipio, organismo paramunicipal e intermunicipal respectivo, así como las que se requieran para el cumplimiento de lo dispuesto en esta Ley, su Reglamento y otras disposiciones legales, y
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Hacer públicos los dictámenes de las MIR que emita la Dirección de Desarrollo Económico municipal o su equivalente, las opiniones de los particulares y de los Consejos Municipales para la Mejora Regulatoria dentro del proceso de emisión de regulación.
 
 ### CAPITULO III. De las Atribuciones de los Sujetos de esta Ley, y de los Responsables en Materia de Mejora Regulatoria
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 10.
 
-Son atribuciones de las dependencias y organismos descentralizados de la administración pública estatal, en materia de mejora regulatoria, las siguientes:
+Son atribuciones de las dependencias y organismos descentralizados, en materia de mejora regulatoria, las siguientes:
 
 I. Designar a un servidor público de nivel de director o subdirector, como responsable de la mejora regulatoria; que sirva de vínculo entre la dependencia u organismo descentralizado con la Secretaría;
 
@@ -237,9 +295,9 @@ IV. Desarrollar y presentar a la Secretaría, las actividades y acciones a reali
 
 V. Registrar la información en materia de trámites y servicios, de la dependencia u organismo descentralizado, en el portal de internet del Registro Único de Trámites y Servicios;
 
-VI. Enviar a la Secretaría, en los plazos previstos en esta Ley, la manifestación de impacto regulatorio de los anteproyectos;
+VI. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
 
-VII. Hacer públicos los reportes, así como los dictámenes de las manifestaciones de impacto regulatorio, que emita al respecto la Secretaría;
+VII. (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
 
 VIII. Procurar establecer en el Registro Único de Trámites y Servicios, o en sus manuales administrativos, siempre que fuera posible, plazos de respuesta menor, dentro de los máximos previstos en las leyes, reglamentos o decretos;
 
@@ -249,9 +307,11 @@ X. Entregar trimestralmente a la Secretaría, la información respecto al númer
 
 XI. Las demás que esta Ley y otras disposiciones legales les señalen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 11.
 
-Son atribuciones de los responsables en materia de mejora regulatoria, de las dependencias y organismos descentralizados de la administración pública estatal, las siguientes:
+Son atribuciones de los responsables en materia de mejora regulatoria, de las dependencias y organismos descentralizados, las siguientes:
 
 I. Integrar las acciones y estrategias que su dependencia u organismo descentralizado pretenda incorporar al Programa Estatal de Mejora Regulatoria;
 
@@ -259,13 +319,29 @@ II. Plantear al titular de la dependencia o al director general o su equivalente
 
 III. Integrar los expedientes de la manifestación de impacto regulatorio del anteproyecto respectivo, cuando sea el caso;
 
-IV. Recabar y consolidar la información en materia de trámites y servicios de su dependencia u organismo descentralizado;
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-V. Elaborar e integrar los informes y reportes que debe entregar el titular de su dependencia, el director general o su equivalente del organismo descentralizado a la Secretaría;
+IV. Enviar a la Secretaría, en los plazos previstos en esta Ley, los anteproyectos y sus respectivas MIR;
 
-VI. Coordinar las acciones que se implementen en materia de mejora regulatoria en su ámbito competencial, y
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Las demás que esta Ley y otras disposiciones legales les señalen.
+V. Solicitar la baja de los anteproyectos y sus respectivas MIR cuando decidan finalizar el procedimiento o pretendan enviar una nueva versión, ya sea del anteproyecto o su MIR;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Atender los dictámenes de la Secretaría emitidos durante el procedimiento de evaluación de los anteproyectos;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Informar a la Secretaría la fecha de publicación en el Periódico Oficial del Estado de la regulación que fue sometida al procedimiento de evaluación, y entregar copia de la misma, dentro de los diez días hábiles siguientes a dicha publicación;
+
+VIII. Recabar y consolidar la información en materia de trámites y servicios de su dependencia u organismo descentralizado;
+
+IX. Elaborar e integrar los informes y reportes que debe entregar el titular de su dependencia, el director general o su equivalente del organismo descentralizado a la Secretaría;
+
+X. Coordinar las acciones que se implementen en materia de mejora regulatoria en su ámbito competencial, y
+
+XI. Las demás que esta Ley y otras disposiciones legales les señalen.
 
 ###### ARTICULO 12.
 
@@ -299,15 +375,25 @@ IV. Enviar a la Dirección de Desarrollo Económico municipal o su equivalente, 
 
 V. Enviar a la Dirección de Desarrollo Económico municipal o su equivalente, en los plazos previstos en esta Ley, la manifestación de impacto regulatorio de los anteproyectos;
 
-VI. Hacer públicos los reportes, así como los dictámenes de las manifestaciones de impacto regulatorio, que emita la Dirección de Desarrollo Económico municipal o su equivalente;
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Procurar establecer en el Registro Único de Trámites y Servicios, o en sus manuales administrativos, siempre que fuera posible, plazos de respuesta menores, dentro de los máximos previstos en las leyes, reglamentos o decretos;
+VI. Solicitar la baja de los anteproyectos y sus respectivas MIR cuando decidan finalizar el procedimiento o pretendan enviar una nueva versión, ya sea del anteproyecto o su MIR;
 
-VIII. Establecer los formatos de solicitud de los trámites y servicios que realice o preste, que deberán contar como mínimo, con la regulación que lo fundamenta, requisitos, tiempos de respuesta y la unidad responsable del mismo;
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Entregar trimestralmente a la Dirección de Desarrollo Económico municipal o su equivalente, la información respecto al número de solicitudes de trámites y servicios recibidos, el sentido afirmativo o negativo de las mismas, y los casos de aplicación de la afirmativa o negativa ficta, para su evaluación en la revisión sistemática de trámites y servicios, y
+VII. Atender los dictámenes de la Dirección de Desarrollo Económico municipal o su equivalente emitidos durante el procedimiento de evaluación de los anteproyectos;
 
-X. Las demás que esta Ley y otras disposiciones legales les señalen.
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Informar a la Dirección de Desarrollo Económico municipal o su equivalente la fecha de publicación en el Periódico Oficial del Estado o en el medio de difusión municipal equivalente, de la regulación que fue sometida al procedimiento de evaluación, y entregar copia de la misma, dentro de los diez días hábiles siguientes a dicha publicación;
+
+IX. Procurar establecer en el Registro Único de Trámites y Servicios, o en sus manuales administrativos, siempre que fuera posible, plazos de respuesta menores, dentro de los máximos previstos en las leyes, reglamentos o decretos;
+
+X. Establecer los formatos de solicitud de los trámites y servicios que realice o preste, que deberán contar como mínimo, con la regulación que lo fundamenta, requisitos, tiempos de respuesta y la unidad responsable del mismo;
+
+XI. Entregar trimestralmente a la Dirección de Desarrollo Económico municipal o su equivalente, la información respecto al número de solicitudes de trámites y servicios recibidos, el sentido afirmativo o negativo de las mismas, y los casos de aplicación de la afirmativa o negativa ficta, para su evaluación en la revisión sistemática de trámites y servicios, y
+
+XII. Las demás que esta Ley y otras disposiciones legales les señalen.
 
 ###### ARTICULO 14.
 
@@ -371,7 +457,15 @@ II. Ser el vínculo entre las autoridades estatales y municipales, con los difer
 
 III. Crear grupos de trabajo que recaben, analicen y transmitan las opiniones de los sectores involucrados, en relación con los anteproyectos susceptibles de la manifestación de impacto regulatorio, y
 
-IV. Las demás que le otorguen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Opinar sobre los anteproyectos y sus respectivas MIR dentro del procedimiento de consulta que establezca la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente;
+
+> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+V. Solicitar a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, la evaluación de regulación vigente de las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales y
+
+VI. Las demás que le otorguen las disposiciones legales aplicables.
 
 ###### ARTICULO 19.
 
@@ -385,9 +479,23 @@ Las sesiones serán presididas por los presidentes de los consejos o quien ésto
 
 Las recomendaciones, criterios, opiniones y demás documentos que emanen de los consejos, deberán constar por escrito, dentro de las actas correspondientes a la sesión en que haya recaído; éstas serán turnadas por el Secretario Técnico, a las instancias de gobierno involucradas en el tema, así como a los integrantes del Consejo respectivo.
 
-### CAPITULO V. De los Programas de Mejora Regulatoria
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPITULO VI. De la Manifestación de Impacto Regulatorio
+### CAPITULO V. De los Sistemas Electrónicos
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 20 BIS. La Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, adoptará el uso de sistemas electrónicos en la implementación y el desarrollo de las herramientas de mejora regulatoria. Asimismo, promoverá que las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, implementen los mecanismos electrónicos para el desarrollo de los trámites y servicios de su competencia.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 20 TER. Con el objeto de simplificar, facilitar y agilizar la gestión y resolución de los trámites en el Estado, los cuales podrán llevarse a cabo a través de medios electrónicos y desarrollarse en línea. La Secretaría o a (sic) la Dirección de Desarrollo Económico municipal o su equivalente, establece como prioridad desarrollar los trámites en línea relacionados con las actividades económicas, entre otros, el establecimiento de un padrón de proveedores.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 20 QUÁTER. Las comunicaciones que se generen entre los sujetos obligados de esta Ley y su Reglamento, con motivo de los procedimientos de las herramientas de mejora regulatoria, podrán ser por medios electrónicos y de conformidad con los términos que la Secretaría o a (sic) la Dirección de Desarrollo Económico municipal o su equivalente establezca,
+
+### CAPITULO VI. De los Programas de Mejora Regulatoria
 
 ###### ARTICULO 21.
 
@@ -433,29 +541,57 @@ Para la evaluación y actualización de los programas de mejora regulatoria del 
 
 En el caso de los organismos paramunicipales e intermunicipales, la evaluación y actualización de su Programa de Mejora Regulatoria, se realizará cuando menos cada año.
 
-### CAPITULO VII. Del Registro Único de Trámites y Servicios
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO VII. De la MIR
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 27.
 
-Las dependencias y los organismos descentralizados de la administración pública estatal, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, solamente estarán obligadas a elaborar la manifestación de impacto regulatorio de los anteproyectos, en los que se presente alguna de las condiciones siguientes:
+La MIR es un formulario que deberán llenar las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, cuando pretendan crear o modificar (sic) regulación, o evaluar la regulación vigente.
 
-l. Se pretendan establecer nuevas obligaciones en los trámites o servicios para los particulares, o si se hacen más estrictas las existentes;
+La MIR y su anteproyecto, o en su caso, el ordenamiento jurídico vigente, serán remitidos a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, para su análisis y dictaminación.
 
-II. Se aumenten los costos y tiempos de respuesta de los trámites o servicios;
+El objeto de la MIR es analizar el diseño de las regulaciones y evaluar sus objetivos e impactos potenciales, a fin de asegurar que los beneficios de éstas sean superiores a sus costos, involucrando, mediante la consulta pública, a los actores implicados en el proceso regulatorio.
 
-III. Se reduzcan, restrinjan o eliminen, derechos o prestaciones de los particulares, y
-
-IV. Se indiquen definiciones, clasificaciones o cualquier otro término de referencia que, conjuntamente con otra disposición estatal o municipal vigente, afecte los derechos, obligaciones, prestaciones en los trámites o servicios de los particulares.
-
-Se exceptúa de la presentación de la manifestación de impacto regulatorio, en los casos previstos por el párrafo tercero del artículo 1º de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 28.
 
-Las dependencias y los organismos descentralizados de la administración pública estatal o, en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, en la elaboración de la manifestación de impacto regulatorio, tomarán en cuenta los siguientes aspectos del anteproyecto, que:
+El contenido de la MIR será determinado por la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente en los lineamientos correspondientes, y deberá incluir, entre otros aspectos, los siguientes:
+
+I. Definición del problema y objetivos generales de la regulación;
+
+II. Identificación de posibles alternativas a la regulación;
+
+III. Impacto de la regulación:
+
+a. Análisis de trámites por crear, modificar o eliminar.
+
+b. Análisis de obligaciones a crear o modificar.
+
+c. Análisis de derechos o prestaciones a reducir o restringir.
+
+d. Análisis costo-beneficio de las medidas regulatorias propuestas;
+
+IV. Cumplimiento y aplicación de la regulación;
+
+V. Evaluación del anteproyecto, y
+
+VI. Consulta pública.
+
+En dichos lineamientos, la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, podrá detallar los procedimientos de evaluación de la regulación y la MIR.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 29.
+
+En la elaboración de la MIR, las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, tomarán en cuenta los siguientes aspectos del anteproyecto, que:
 
 I. Surjan de la necesidad de resolver una situación que cause o pueda causar un perjuicio público, de riesgo ambiental, de salud o de insuficiencia de información a los particulares, o de mejorar la calidad y eficiencia de los servicios que se prestan a la ciudadanía, de tal manera que se justifique su creación o modificación;
 
-II. No puedan ser reemplazados por otras alternativas, incluidas las no obligatorias, que logren los mismos objetivos sobre los particulares a un menor costo;
+II. No puedan ser reemplazados por otras alternativas, incluidas las no regulatorias, que logren los mismos objetivos sobre los particulares a un menor costo;
 
 III. Sean transparentes, claros, sencillos y precisos;
 
@@ -471,75 +607,107 @@ VIII. Exista viabilidad para la adopción de la afirmativa ficta, de los trámit
 
 IX. Establezcan con claridad las razones o causas que originan el anteproyecto, su finalidad y objeto a regular;
 
-X. Exista congruencia con los tratados internacionales de comercio e inversión;
+X. Exista congruencia con los tratados internacionales de comercio e inversión, así como de los marcos jurídicos nacional, estatal y municipal;
 
 XI. Busquen asociar trámites o gravámenes para incorporarse a alguno ya existente, y
 
 XII. Señalen con claridad los gravámenes o derechos para evitar la discrecionalidad, indicando cantidades definidas que no queden sujetas a juicios subjetivos.
 
-###### ARTICULO 29.
-
-Cuando se dé alguno de los supuestos previstos en el artículo 27 de esta Ley, las dependencias y los organismos descentralizados de la administración pública estatal, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, presentarán la manifestación de impacto regulatorio del anteproyecto correspondiente, a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, cuando menos treinta días hábiles antes, de la fecha en que se pretenda emitir el acto o someterlo a la consideración del Ejecutivo Estatal, o del cabildo u Órgano de Gobierno, según sea el caso.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 30.
 
-La Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, en la revisión y análisis de la manifestación de impacto regulatorio del anteproyecto, estudiará los siguientes aspectos:
+Las dependencias y organismos descentralizados o, en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, que pretendan emitir regulación, modificar o eliminar la ya existente, deberán determinar si la regulación genera o no costos de cumplimiento, a los particulares; si produce impactos sociales o económicos potencialmente moderados o altos; si produce impactos sobre la competencia; si es de actualización periódica o si pretende atender una emergencia. Una vez hecha esta determinación, deberán elaborar la MIR que corresponda.
 
-l. La justificación de expedir una determinada regulación, identificando la problemática o situación que el anteproyecto pretende atender o resolver;
+Si la regulación genera costos de cumplimiento para los particulares y no se pretenda atender una emergencia, las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, deberán determinar los impactos sociales, económicos y sobre la competencia de los anteproyectos mediante el mecanismo que la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente determine, el cual podrá ser a través de un sistema informático.
 
-II. La identificación y descripción de los trámites y servicios en su caso;
+El mecanismo deberá considerar el impacto potencial de la regulación cuyo resultado determinará el formulario que deberán presentar las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, al momento de enviar sus anteproyectos a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente.
 
-III. Analizar los riesgos que implicaría no emitir la regulación;
+La Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, tendrá la atribución de reconsiderar el impacto de la regulación y solicitar a las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, el cambio de formulario en los dictámenes de ampliaciones y correcciones.
 
-IV. Identificar las alternativas posibles del anteproyecto que pudieran atender o resolver la situación en cuestión, de alguna otra forma;
-
-V. Estimar los costos y beneficios sociales, y económicos que el anteproyecto, en caso de aprobarse, genere a la ciudadanía y a la administración pública correspondiente, y
-
-VI. El método para asegurar la regulación y el proceso de consulta realizada.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
-Como excepción al plazo previsto en el artículo 29 de esta Ley, se establece la posibilidad para que la manifestación de impacto regulatorio, se presente hasta veinte días hábiles después de dicho plazo, cuando el anteproyecto del que se derive la misma, pretenda resolver o prevenir una situación de emergencia, como evitar un daño inminente, o bien atenuar o eliminar un daño existente a la salud o bienestar de la población, al medio ambiente o a la economía.
+Se entenderá que una regulación genera costos de cumplimiento a los particulares en cualquiera de los siguientes supuestos:
+
+I. Crea nuevas obligaciones para los particulares o hace más estrictas las obligaciones existentes;
+
+II. Crea o modifica trámites, excepto cuando la modificación simplifica y facilita el cumplimiento del particular;
+
+III. Reduce o restringe derechos o prestaciones para los particulares, y
+
+IV. Establece definiciones, clasificaciones, caracterizaciones o cualquier otro término de referencia, que conjuntamente con otra disposición en vigor o con una disposición futura, afecten o puedan afectar los derechos, obligaciones, prestaciones o trámites de los particulares.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 32.
 
-Al recibir la manifestación de impacto regulatorio, la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, según sea el caso, realizará una revisión inicial para verificar que todos los aspectos de forma hayan sido observados, y notificará a la dependencia u organismo descentralizado estatal, o a la dirección o área administrativa municipal, paramunicipal o intermunicipal correspondiente, en un plazo máximo de tres días hábiles, el incumplimiento de alguno de los requisitos siguientes:
+Las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, remitirán a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, los anteproyectos que generen costos de cumplimiento para los particulares y tengan un impacto social y/o económico potencialmente moderado o alto, así como los que tengan impactos sobre la competencia.
 
-l. Que no se haya entregado el texto completo del anteproyecto;
+Cuando la MIR de un anteproyecto con un impacto social y/o económico potencialmente alto, con o sin efectos sobre la competencia, esté incompleta, la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, podrá solicitar la opinión de un experto con cargo al presupuesto de las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales para su revisión.
 
-II. Que la manifestación de impacto regulatorio no haya sido signada por el titular de la dependencia, o el director general o su equivalente del organismo estatal, o por el director o responsable del área administrativa municipal, paramunicipal o intermunicipal;
+En los anteproyectos con impacto sobre la competencia y derivado de la evaluación que se realice, se determina que la regulación propuesta pueda tener efectos contrarios al proceso de libre concurrencia y competencia económica, la Secretaría podrá solicitar la opinión de la Comisión Federal de Competencia Económica para los efectos jurídicos a que haya lugar.
 
-III. Que exista omisión flagrante de información básica requerida, en la manifestación de impacto regulatorio, y
-
-IV. Que el formulario de la manifestación de impacto regulatorio no sea el apropiado para el anteproyecto en cuestión.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 33.
 
-Revisada la manifestación de impacto regulatorio por la Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, y ésta, según el caso, a su juicio no justifique claramente las propuestas contenidas en el anteproyecto, o las explicaciones sean insuficientes, o no sean satisfactorias, podrá solicitar a la dependencia u organismo descentralizado estatal, o la dirección o área administrativa municipal, paramunicipal o intermunicipal que, dentro del plazo que al efecto establezca el Reglamento, realice las ampliaciones o correcciones a que haya lugar.
+Cuando no se cumpla ninguno de los supuestos establecidos en el artículo 34 de esta Ley, se entenderá que la regulación no genera costos de cumplimiento para los particulares, por lo que las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, presentarán el anteproyecto junto con el formulario correspondiente para que la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, emita su dictamen.
 
-Si la manifestación de impacto regulatorio sigue siendo insatisfactoria, y el anteproyecto de que se trate pudiera tener un amplio impacto en la economía, o un efecto sustancial sobre un sector específico, la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, podrá solicitar a la instancia de gobierno respectiva, que con cargo al presupuesto de ésta última, designe a un experto en la materia de que se trate.
-
-El experto deberá revisar la manifestación de impacto regulatorio y entregar los comentarios, tanto a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, según el caso, como a la propia instancia de gobierno correspondiente, dentro del plazo que al efecto establezca el Reglamento.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 34.
 
-La Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, según el caso, podrá emitir y entregar a la instancia de gobierno correspondiente, el dictamen parcial o total de la manifestación de impacto regulatorio del anteproyecto correspondiente, de las ampliaciones o correcciones de la misma, o de los comentarios de los expertos a que se refiere el artículo anterior, según corresponda, dentro del plazo que al efecto establezca el Reglamento.
+La regulación que tiende a actualizarse periódicamente sin imponer obligaciones adicionales a las ya existentes, es la que renueva, modifica o amplía la vigencia de un ordenamiento jurídico. La presentación de este formulario está condicionada a la existencia de una MIR ordinaria previa.
 
-El dictamen considerará las opiniones que, en su caso, reciba la Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, de acuerdo al ámbito competencial, de los sectores interesados y, comprenderá, entre otros aspectos, una valoración sobre la justificación de las acciones propuestas en la manifestación de impacto regulatorio.
-
-Cuando la dependencia u organismo descentralizado estatal, o la dirección, o área Administrativa municipal, paramunicipal o intermunicipal promotora de la manifestación del impacto regulatorio, no se ajuste al dictamen mencionado, deberá comunicar por escrito las razones respectivas, a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, de acuerdo al caso, a fin de que ésta emita un dictamen final al respecto, dentro del plazo que al efecto establezca el Reglamento, aportando recomendaciones para la mejora de dicho anteproyecto.
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, según el caso, podrán hacer públicos en los medios de comunicación impresa y/o electrónica, las manifestaciones de impacto regulatorio, así como los dictámenes que recaigan a los mismos.
+La regulación recibirá el tratamiento de emergencia si cumple con todos los criterios que a continuación se enlistan:
 
-Los anteproyectos podrán someterse a consulta pública, en medios de comunicación impresa y/o electrónica, por la dependencia u organismo descentralizado estatal, o de la dirección o área administrativa municipal, paramunicipal o intermunicipal que los elabore.
+I. Si las medidas propuestas en el anteproyecto tienen una vigencia no mayor a seis meses;
+
+II. Si el objeto del anteproyecto es evitar un daño inminente, atenuar o eliminar un daño existente, a la salud, bienestar de la población, medio ambiente, recursos naturales o la economía, y
+
+III. Si no se ha solicitado previamente trato de emergencia para un anteproyecto con contenido equivalente.
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 36.
 
-Una vez que hayan recibido el dictamen de la manifestación de impacto regulatorio, por parte de la Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, según su ámbito competencial, la dependencia u organismo descentralizado estatal, o la dirección o área administrativa municipal, paramunicipal o intermunicipal, deberá enviarlo junto con el anteproyecto, a la Secretaría General de Gobierno del Estado, o a la secretaría del ayuntamiento, o su similar del organismo paramunicipal e intermunicipal, para los efectos legales correspondientes, de acuerdo con el caso, y su posterior publicación en el Periódico Oficial del Estado.
+La Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, podrá solicitar por iniciativa propia o, en su caso, a petición del Consejo, la evaluación de regulación vigente a las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, a través del procedimiento que al efecto determine. De igual forma, las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales podrán elaborar una MIR que evalúe la regulación vigente, sin que medie solicitud de por medio.
 
-### CAPITULO VIII. De los Sistemas Municipales de Apertura Rápida de Empresas
+Lo anterior, con el objeto de evaluar los resultados de las regulaciones que se encuentren vigentes y comprobar el logro de sus objetivos, eficiencia, eficacia, impacto y permanencia.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 36 BIS. Las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, remitirán a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, los anteproyectos para que ésta emita los dictámenes que correspondan. El procedimiento de evaluación al que deberán sujetarse, será determinado en el Reglamento de esta Ley.
+
+Cuando la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, reciba un anteproyecto, dará vista al consejo para la mejora regulatoria que corresponda, para que sea difundido a los sectores interesados, y en su caso, presenten opiniones dentro del procedimiento de evaluación establecido por las citadas autoridades.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 36 TER. La Secretaría o a (sic) la Dirección de Desarrollo Económico municipal o su equivalente, hará públicos los anteproyectos, las MIR, los dictámenes que emita y las opiniones que reciba de los sectores interesados a través de su portal de internet.
+
+En caso de que las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, consideren que la publicidad de los anteproyectos pueda comprometer los efectos que se pretenda lograr con la regulación, podrán solicitar a la Secretaría o a la Dirección de Desarrollo Económico municipal o su equivalente, omita la publicidad del anteproyecto, su MIR y su envío a los consejos para la mejora regulatoria, motivando y fundamentando su escrito.
+
+Si la Secretaría o a (sic) la Dirección de Desarrollo Económico municipal o su equivalente, determina procedente la solicitud, los dará a conocer hasta que la regulación propuesta se publique en el Periódico Oficial del Estado o en el medio de difusión municipal equivalente. Si la solicitud es improcedente, la Secretaría o a (sic) la Dirección de Desarrollo Económico municipal o su equivalente, publicará el anteproyecto y su MIR a través de su portal de internet y dará vista a los consejos para la mejora regulatoria.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 36 QUÁTER. Para que la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, publique los comentarios de los sectores interesados respecto de los anteproyectos, éstos deberán expresar su opinión de manera pacífica y respetuosa, y referirse a los anteproyectos que se encuentren en el portal de internet.
+
+El periodo de consulta será a partir de (sic) las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, presenten el anteproyecto y la MIR, hasta que la Secretaría o a (sic) la Dirección de Desarrollo Económico municipal o su equivalente, emita su dictamen final.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+ARTICULO 36 QUINQUE. Los dictámenes finales emitidos por la Secretaría o a (sic) la Dirección de Desarrollo Económico municipal o su equivalente, son de observancia obligatoria para las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales; y los anteproyectos no podrán ser publicados en el Periódico Oficial del Estado, y en su caso, continuar con el proceso emisión y publicación de la regulación, si no cuenten (sic) con un dictamen final favorable de la Secretaría o de la Dirección de Desarrollo Económico municipal o su equivalente.
+
+En caso de que la Secretaría o la Dirección de Desarrollo Económico municipal o su equivalente, omita emitir los dictámenes finales en los plazos previstos en el Reglamento, las dependencias y organismos descentralizados, o en su caso, las direcciones o áreas administrativas de los municipios u organismos paramunicipales o intermunicipales, podrán continuar con el procedimiento de emisión y publicación del anteproyecto.
+
+### CAPITULO VIII. Del Registro Único de Trámites y Servicios
 
 ###### ARTICULO 37.
 
@@ -603,7 +771,7 @@ IV. Los que por su falta de cumplimiento puedan causar un grave perjuicio.
 
 Los municipios y los organismos paramunicipales e intermunicipales, podrán contar con su propio registro de trámites y servicios cuando así lo determinen, y cuando cuenten con la capacidad humana, administrativa y financiera, sujetándose para tal efecto, a los lineamientos de este capítulo.
 
-### CAPITULO IX. De la Afirmativa Ficta
+### CAPITULO IX. De los Sistemas Municipales de Apertura Rápida de Empresas
 
 ###### ARTICULO 42.
 
@@ -627,11 +795,13 @@ IV. Las direcciones de Desarrollo Económico municipal o su equivalente en los m
 
 Los municipios enviarán a la Secretaría, las estadísticas de las acciones realizadas en el Sistema de Apertura Rápida de Empresas, según lo acordado en el convenio correspondiente.
 
-### CAPITULO X. De las Infracciones, Sanciones y Recursos Administrativos
+### CAPITULO X. De la Afirmativa Ficta
+
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 44.
 
-Con el fin de agilizar y simplificar la gestión gubernamental, la Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, realizará propuestas para la reforma, eliminación o adición a la normatividad vigente, a efecto de adoptar, cuando sea conveniente, la figura de la afirmativa ficta, para mejorar la regulación y evitar la discrecionalidad a las dependencias y organismos descentralizados estatales, o en su caso, a las direcciones o áreas administrativas municipales, paramunicipales o intermunicipales.
+Con el fin de agilizar y simplificar la gestión gubernamental, la Secretaría, o la Dirección de Desarrollo Económico municipal o su equivalente, realizará propuestas para la reforma, eliminación o adición a la regulación vigente, a efecto de adoptar, sea (sic) conveniente, la figura de la afirmativa ficta, para mejorar la regulación y evitar la discrecionalidad a las dependencias y organismos descentralizados estatales, o en su caso, a las direcciones o áreas administrativas municipales, paramunicipales o intermunicipales.
 
 ###### ARTICULO 45.
 
@@ -660,6 +830,8 @@ V. En caso de operar la afirmativa ficta, una vez cumplido el plazo de otorgar r
 La certificación de la afirmativa ficta producirá todos los efectos legales de resolución favorable, y es deber de todas las personas y autoridades reconocerla así.
 
 Si la certificación no fuese emitida en el plazo que refiere la fracción V de este artículo, la afirmativa ficta será eficaz y se podrá acreditar mediante la exhibición de la solicitud del trámite o servicio respectivo y, en su caso, de la petición que se hizo de la certificación ante la autoridad responsable. Dicha omisión será considerada como una falta grave que deberá ser sancionada por la Contraloría que corresponda.
+
+### CAPITULO XI. De las Infracciones, Sanciones y Recursos Administrativos
 
 ###### ARTICULO 47.
 
@@ -719,10 +891,16 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE OCTUBRE DE 2011.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
