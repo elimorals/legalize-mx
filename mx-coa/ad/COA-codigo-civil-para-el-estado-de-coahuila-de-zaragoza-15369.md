@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2015-09-04"
+last_updated: "2015-09-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -707,9 +707,11 @@ En el caso de que el ausente haya dejado apoderado general para la administraci�
 
 Lo dispuesto en el artículo anterior se observará aun cuando el poder se hubiere conferido por más de tres años.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 112.
 
-El juez, en el mismo auto por el que abra el procedimiento, mandará requerir al solicitante para que mediante la declaración de dos testigos, justifique los extremos de los artículos 109 y 110, y rendida esta prueba, el juez dictará sentencia en la que se declare la ausencia, nombre administrador de los bienes del ausente, el cual, además de custodiar éstos, representará al ausente en juicio y fuera de él, y mande publicar los puntos resolutivos de la misma sentencia, por tres veces de siete en siete días, en uno de los diarios de mayor circulación de la capital de la República, de la capital del Estado, del domicilio del ausente y del lugar donde se tuvo la última noticia de éste. Además, remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se presuma que se encuentra el ausente.
+El juez, en el mismo auto por el que abra el procedimiento, mandará requerir al solicitante para que mediante la declaración de dos testigos, justifique los extremos de los artículos 109 y 110, y rendida esta prueba, el juez dictará sentencia en la que se declare la ausencia, nombre administrador de los bienes del ausente, el cual, además de custodiar éstos, representará al ausente en juicio y fuera de él, y mande publicar los puntos resolutivos de la misma sentencia, por tres veces de siete en siete días, en el portal electrónico destinado para ello. Además, remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se presuma que se encuentra el ausente.
 
 ###### ARTÍCULO 113.
 
@@ -6609,7 +6611,9 @@ Para la titulación notarial de la adquisición por los legatarios instituidos e
 
 I. Los legatarios o sus representantes, exhibirán al notario la copia certificada del acta de defunción del testador y testimonio del testamento público simplificado.
 
-II. El notario dará a conocer, por medio de una publicación en un periódico de los de mayor circulación en el último domicilio del testador, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador y de los legatarios y, en su caso, su parentesco.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+II. El notario dará a conocer, por medio de una publicación en el portal electrónico destinado para ello, que ante él se está tramitando la titulación notarial de la adquisición derivada del testamento público simplificado, los nombres del testador y de los legatarios y, en su caso, su parentesco.
 
 III. El notario recabará del Archivo de Notarias, y del Registro Público del último domicilio del autor de la sucesión, las constancias relativas a la existencia o inexistencia de testamento. En el caso de que el testamento público simplificado presentado sea el último otorgado, el notario podrá continuar con los trámites relativos, siempre que no existiere oposición.
 
@@ -10571,7 +10575,9 @@ c). El nombre y domicilio de cada uno de los colindantes.
 
 d). La ubicación, medidas y colindancias del predio o predios de que se trate.
 
-III. Se convocará a las personas que puedan considerarse afectadas, mediante edictos que se publicarán por tres veces consecutivas, de siete en siete días, en el Periódico Oficial del Estado y en el de mayor circulación en el lugar de la ubicación del bien y lo (sic) edictos se fijarán, además en los lugares públicos de la misma localidad.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+III. Se convocará a las personas que puedan considerarse afectadas, mediante edictos que se publicarán por tres veces consecutivas, de siete en siete días, en el Periódico Oficial del Estado y en el portal electrónico destinado para ello y los edictos se fijarán, además en los lugares públicos de la ubicación del bien.
 
 IV. La información se recibirá con citación del Ministerio Público, del Registrador y de los colindantes.
 
@@ -14265,7 +14271,7 @@ Sólo pueden ser objeto de prescripción, las obligaciones y derechos que están
 
 ###### ARTÍCULO 2512.
 
-La prescripción se verifica por el sólo transcurso del tiempo fijado pr (sic)la ley.
+La prescripción se verifica por el sólo transcurso del tiempo fijado pr (sic) la ley.
 
 ###### ARTÍCULO 2513.
 
@@ -20341,7 +20347,9 @@ d). Un informe de la oficina del impuesto sobre la propiedad raíz, en el que co
 
 II. Que en tal promoción manifieste bajo protesta de decir verdad si está poseyendo el bien o el nombre del poseedor en su caso.
 
-III. Que se publique la solicitud de inscripción en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación del lugar, por tres veces, con intervalos de diez días.
+> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+III. Que se publique la solicitud de inscripción en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, por tres veces, con intervalos de diez días.
 
 IV. Que se cite a la autoridad municipal correspondiente, a los colindantes, a las personas que figuren en los padrones de las oficinas del impuesto sobre la propiedad raíz y del catastro, así como al poseedor cuando sea el caso.
 
@@ -21314,3 +21322,13 @@ SEGUNDO.- Los matrimonios celebrados antes de la entrada en vigor del presente D
 TERCERO.- Las solicitudes de matrimonio o trámites de dispensa de edad, que se encuentren pendientes se resolverán de conformidad a lo previsto por las disposiciones vigentes al momento en que fueron presentadas o iniciados.
 
 CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 22 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Coahuila de Zaragoza deberá realizar las acciones necesarias para la implementación de la presente reforma en un plazo que no excederá de treinta días a partir de la entrada en vigor del presente Decreto, en tanto no se realicen dichas adecuaciones, la publicación de edictos a que se refiere el mismo continuarán realizándose en los periódicos o diarios de mayor circulación.
