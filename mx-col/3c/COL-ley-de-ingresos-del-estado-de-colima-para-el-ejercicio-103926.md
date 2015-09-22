@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ingresos-del-estado-de-colima-para-el-ejercicio-103926"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-11-29"
-last_updated: "2015-07-11"
+last_updated: "2015-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INGRESOS DEL ESTADO DE COLIMA PARA EL EJERCICIO FISCAL 2015
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2014.
 
@@ -53,7 +53,7 @@ En el ejercicio fiscal 2015, la Hacienda Pública del Estado Libre y Soberano de
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 29 DE NOVIEMBRE DE 2014, PÁGINAS DE LA 6 A LA 9.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO No. 4 DEL P.O. DE 11 DE JULIO DE 2015, PÁGINAS DE LA 8 A LA 9.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO No. 4 DEL P.O. DE 11 DE JULIO DE 2015, PÁGINAS DE LA 8 A LA 9; EDICIÓN ESPECIAL EXTRAORDINARIA DE 22 DE SEPTIEMBRE DE 2015, PÁGINA 1834.</small>
 
 Transferencias, Asignaciones, Subsidios y Otras Ayudas, para efectos de la presentación se acumula al rubro contemplado en la fracción VI, correspondiente a Participaciones, Aportaciones y Convenios, atendiendo a las recomendaciones del CONAC en materia de armonización contable.
 
@@ -155,6 +155,26 @@ Se autoriza a la Secretaría de Finanzas y Administración del Estado a recibir 
 
 Las participaciones recibidas de la federación y sus propios ingresos, se constituyen como obligaciones de garantía, susceptibles de afectarse en términos de la legislación aplicable, como fuente de pago de la deuda pública estatal y, de requerirse, en lo concerniente a la municipal.
 
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 11.
+
+Se autoriza al Gobierno del Estado de Colima para que, por conducto del Poder Ejecutivo del Estado, contrate con Instituciones de Crédito de Banca Múltiple o Banca de Desarrollo de nacionalidad mexicana, uno o varios créditos, hasta por la cantidad de $1,728,000,000.00 (Un mil setecientos veintiocho millones de pesos 00/100 M.N.), a un plazo máximo de 25 (veinticinco) años.
+
+Los recursos señalados, deberán destinarse a:
+
+I.- Refinanciar, con la o las Instituciones de Crédito de Banca de Desarrollo o Banca Múltiple de Nacionalidad Mexicana, que ofrezcan las mejores condiciones de mercado, las obligaciones financieras de corto plazo que hubiere contratado con anterioridad y que se encuentren vigentes, siempre que el destino de las mismas hubiera sido inversión pública productiva, hasta por un importe de $638,000,000.00 (Seiscientos treinta y ocho millones de pesos 00/100 M.N.); incluidos los impuestos, comisiones, constitución de fondos de reserva, coberturas, pagar asesorías y honorarios profesionales que se relacionen con la estructuración, negociación y formalización del o los créditos que se celebren con base en la presente autorización y el o los mecanismos que se requieran para formalizar la fuente de pago y/o la garantía de los mismos, calificaciones de la estructura y cualquier otro gasto asociado a la correcta concreción de las operaciones; y
+
+II.- Contratar con Instituciones de Crédito de Banca de Desarrollo o Banca Múltiple de Nacionalidad Mexicana, que ofrezcan las mejores condiciones de mercado, uno o varios créditos hasta por la cantidad de $1,090,000,000.00 (Un mil noventa millones de pesos 00/100 M.N.), incluidos los impuestos, comisiones, constitución de fondos de reserva, coberturas, pagar asesorías y honorarios profesionales que se relacionen con la estructuración, negociación y formalización del o los créditos que se celebren con base en la presente autorización y el o los mecanismos que se requieran para formalizar la fuente de pago y/o la garantía de los mismos, calificaciones de la estructura y cualquier otro gasto asociado a la correcta concreción de las operaciones.
+
+El o los créditos que contrate el Gobierno del Estado de Colima por conducto del Poder Ejecutivo del Estado, con base en la presente autorización, deberán destinarse al financiamiento de inversiones públicas productivas, de manera enunciativa y no limitativa, en los sectores de: conectividad, educación, deporte, seguridad, impartición de justicia, salud e infraestructura carretera y/o al refinanciamiento de obra ejecutada y pagada por el Gobierno del Estado de Colima o por pagos de principal efectuados a otros financiamientos en el presente año y ejercicios fiscales anteriores, siempre que su destino haya sido inversión pública productiva.
+
+Se autoriza al Gobierno del Estado de Colima, a través del Poder Ejecutivo, para que, por conducto de sus funcionarios legalmente facultados, afecte en favor de la o las instituciones acreedoras, como garantía y/o fuente de pago y/o fuente alterna de pago para cumplir con las obligaciones asociadas al o a los créditos que contrate con motivo de las operaciones de refinanciamiento y financiamiento, con base en la presente autorización, los flujos de recursos derivados de las participaciones presentes y futuras que en ingresos federales correspondan, sin perjuicio de afectaciones anteriores ni de aquellos derechos o ingresos que las sustituyan y/o complementen total o parcialmente, pudiendo celebrar los mecanismos que resulten necesarios o convenientes para instrumentar la afectación señalada.
+
+Se podrán celebrar y suscribir todos los documentos, títulos de créditos, contratos, convenios, mecanismos, notificaciones, instrucciones o cualquier instrumento legal que se requiera para formalizar el o los créditos autorizados en el presente Artículo, con las características, montos, condiciones, modalidades y términos que constan en el mismo, así como las que se requieran para la mejor concreción de estos, pudiendo contratar coberturas de tasa de interés y evaluaciones de Agencias Calificadoras.
+
+Dichas autorizaciones se otorgan sin perjuicio de las demás que hubiere dado la Legislatura del Estado de Colima, y que resulten afines o complementarias a las previstas en este Artículo.
+
 T R A N S I T O R I O
 
 ###### ARTÍCULO ÚNICO.
@@ -186,3 +206,13 @@ P.O. 11 DE JULIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Colima”.
+
+P.O. 22 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Para los efectos del presente Decreto, se deroga todo aquello que en la legislación local se oponga al mismo.
