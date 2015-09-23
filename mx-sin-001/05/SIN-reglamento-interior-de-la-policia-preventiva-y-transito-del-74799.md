@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2015-06-19"
+last_updated: "2015-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -325,6 +325,10 @@ XIII. Departamento Jurídico.
 
 XIV. Departamento de prensa.
 
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Departamento de Ingeniería de Tráfico
+
 ###### ARTÍCULO 18.
 
 La Dirección General de Seguridad Pública y Tránsito Municipal estará integrada, en función de sus niveles operativos, por:
@@ -486,6 +490,32 @@ I. Plasmar las transgresiones a la ley de Tránsito y Transportes del Estado de 
 II. Será la encargada de mantener debidamente señalizadas todas las áreas que lo requieran en materia de vialidad.
 
 III. Se coordinará con la Unidad Técnica Especializada en Hechos de Tránsito para establecer las medidas de prevención en materia de Hechos de Tránsito.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 24 BIS.- Corresponde al Departamento de Ingeniería de Tráfico, las siguientes acciones:
+
+I.- Planificación de tráfico y transporte
+
+II.- Señalización y regulación semafórica
+
+III.- Dirección e ingeniería de tráfico
+
+IV.- Evaluación y asesoramiento del impacto de tráfico
+
+V.- Planificación de eventos especiales
+
+VI.- Política y planificación de estacionamientos
+
+VII.- Proyectos de peatonalización y ciclovías
+
+VIII.- Sistemas de transporte inteligentes
+
+IX.- Seguridad vial
+
+X.- Análisis financiero y económico de transporte
+
+XI. - Encuestas e investigación de transporte
 
 ###### ARTÍCULO 25.
 
@@ -2520,3 +2550,7 @@ P.O. 1 DE DICIEMBRE DE 2014.
 P.O. 19 DE JUNIO DE 2015.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el “Órgano Oficial del Gobierno del Estado".
+
+P.O. 23 DE SEPTIEMBRE DE 2015.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el “Órgano Oficial del Gobierno del Estado”.
