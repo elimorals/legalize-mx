@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-sistema-chiapaneco-de-radio-89503"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-22"
-last_updated: "2012-08-22"
+last_updated: "2015-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL SISTEMA CHIAPANECO DE RADIO, TELEVISIÓN Y CINEMATOGRAFÍA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL SISTEMA CHIAPANECO DE RADIO, TELEVISIÓN Y CINEMATOGRAFÍA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de agosto de 2012.
 
@@ -574,3 +576,21 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el Artículo 8, de la Ley O
 Dado en la Sala de Sesiones de la Junta de Gobierno del Organismo Público descentralizado denominado Sistema Chiapaneco de Radio, Televisión y Cinematografía, en la Ciudad de Tuxtla Gutiérrez, Chiapas; el diecinueve de julio de dos mil doce.
 
 Presidente: Lic. Mariela Fabiola Fuentes Campos, Jefa del Área Jurídica en Representación del Lic. Jaime Ricardo Culebro Guillén, Director General del Instituto de Comunicación Social del Estado de Chiapas.- Secretario Técnico: Lic. Rafael Gómez Aguilar, Director de Radio del Sistema Chiapaneco de Radio, Televisión y Cinematografía.- Vocales: Lic. Reynol Farrera Hernández, Asesor en Representación de la Mtra. Dora del Carmen Pérez Salís, Secretaria de Turismo.- Lic. Pacífico Hugo Orantes Montes, Director de Organismos y Empresas Públicas en Representación del Lic. Carlos Jair Jiménez Bolaños Cacho, Secretario de Hacienda.- Rúbricas.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 23 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior del Sistema Chiapaneco de Radio, Televisión y Cinematografía publicado en el Periódico Oficial No. 384, Tomo III, Publicación No. 3414-A-2012, de fecha 22 de agosto de 2012; y se derogan todas las disposiciones de igual o menor jerarquía al presente Reglamento Interior y se opongan al mismo.
+
+Artículo Tercero.- Para las cuestiones no previstas en el presente Reglamento Interior, y en las que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Director General resolverá lo conducente.
+
+Artículo Cuarto.- El Manual de Organización del Sistema Chiapaneco deberá expedirse en un plazo no mayor a noventa días hábiles, posteriores a la publicación del presente Reglamento Interior.
+
+Artículo Quinto.- En tanto se expide el Manual de Organización respectivo, el Director General resolverá las incidencias de operación que se originen por la aplicación del presente ordenamiento legal.
+
+Artículo Sexto.- El Sistema Chiapaneco deberá establecer, controlar y evaluar el programa interno de protección civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación, desarrollo y vigilancia establecidas en la Ley de Protección Civil del Estado de Chiapas.
+
+Artículo Séptimo.- En términos (sic) lo dispuesto en el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, remítase el presente Reglamento Interior al Ejecutivo del Estado para su correspondiente publicación en el Periódico Oficial.
