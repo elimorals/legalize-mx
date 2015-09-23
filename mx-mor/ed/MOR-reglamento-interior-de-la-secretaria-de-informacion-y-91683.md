@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-informacion-y-91683"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-23"
-last_updated: "2013-10-02"
+last_updated: "2015-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91683&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFORMACIÓN Y COMUNICACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR LA DISPOSICIÓN TRANSITORIA TERCERA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFORMACIÓN Y COMUNICACIÓN, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2015, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS DIEZ DÍAS HÁBILES SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 23 de enero del 2013.
 
@@ -604,3 +606,19 @@ PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que contravengan lo establecido en el presente Decreto.
 
 TERCERA. La Secretaría de Información y Comunicación tendrá un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto para elaborar los Manuales de Organización, y de Políticas y Procedimientos, en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente ordenamiento. La persona titular de la Secretaría resolverá las cuestiones de interpretación, procedimiento y operación que se originen por la aplicación de este Decreto.
+
+P.O. 23 DE SEPTIEMBRE DE 2015.
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Información y Comunicación deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás Instrumentos Administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de Información y Comunicación publicado en el Periódico Oficial “Tierra y Libertad”, número 5061, el veintitrés, de enero de 2013, así como se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos, 6, fracción XXXV, y 24, fracción I, del Reglamento Interior de la Secretaría de Gobierno; la Secretaría de Información y Comunicación, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la diversa Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquella, sufridos en virtud de este Reglamento; así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y Servidores Públicos Titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Información y Comunicación deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la Autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por el Secretario de Información y Comunicación.
