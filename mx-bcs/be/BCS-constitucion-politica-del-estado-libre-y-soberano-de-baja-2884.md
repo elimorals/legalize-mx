@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2015-09-09"
+last_updated: "2015-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE SEPTIEMBRE DE 2015.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1361,13 +1361,13 @@ XLVIII.- Las demás que señalen esta Constitución y sus leyes.
 
 Tratándose de Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
 
-82.- Para ser Secretario del Despacho se requiere:
+82.- Para ser Secretario de Despacho, se requiere:
 
-> <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
 
-I.- Ser Ciudadano Sudcaliforniano.
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
 > <small>(REFORMADA, B.O. 20 DE MAYO DE 1987)</small>
 
@@ -1401,7 +1401,9 @@ VI.- Las demás que les confieran las Leyes.
 
 84.- Para ser Procurador General de Justicia del Estado, se requiere:
 
-I.- Ser Ciudadano Sudcaliforniano en pleno ejercicio de sus derechos políticos y civiles, o contar con una residencia efectiva en el Estado no menor de tres años anteriores al día de la designación.
+> <small>(REFORMADA, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
+
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
 
 II.- Tener 35 años cumplidos el día de la designación;
 
@@ -1791,6 +1793,20 @@ El Municipio posee personalidad jurídica y patrimonio propio y goza de plena au
 
 118.- Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta; misma que se celebrará el primer domingo de junio de cada tres años en los términos de la Ley Electoral del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
+> <small>(ADICIONADO, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
+
+Los ayuntamientos iniciarán el ejercicio de sus periodos de conformidad al siguiente calendario:
+
+I.- El ayuntamiento de Mulegé, iniciará su periodo el 25 de Septiembre del año de la elección.
+
+II.- El ayuntamiento de Loreto, iniciará su periodo el 26 de Septiembre del año de la elección.
+
+III.- El ayuntamiento de Comondú, iniciará su periodo el 27 de Septiembre del año de la elección.
+
+IV.- El ayuntamiento de La Paz, iniciará su periodo el 28 de Septiembre del año de la elección.
+
+V.- El ayuntamiento de Los Cabos, iniciará su periodo el 29 de Septiembre del año de la elección.
+
 > <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
 
 119.- Los Municipios podrán tener representación en los Organismos Federales y Estatales que actúen dentro de su jurisdicción.
@@ -2019,7 +2035,9 @@ Cuando la desaparición de poderes se dé en el último año del período de gob
 
 ### CAPITULO VII. DE LA INSTALACION DEL AYUNTAMIENTO
 
-145.- Los ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de ley y a continuación la tomará a los demás integrantes del ayuntamiento que estuvieren presentes.
+> <small>(REFORMADO, B.O. 23 DE SEPTIEMBRE DE 2015)</small>
+
+145.- El día anterior al inicio de su periodo constitucional, los Ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de Ley y, a continuación, la tomará a los demás integrantes del Ayuntamiento, que estuvieren presentes.
 
 146.- Si en el acto de instalación no estuviere presente el Presidente Municipal, el ayuntamiento se instalará con el Primer Regidor, quien rendirá la protesta y a continuación la tomará a los demás miembros que estén presentes.
 
@@ -3338,3 +3356,23 @@ B.O. 9 DE SEPTIEMBRE DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 23 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 2295, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 118 Y SE REFORMA EL ARTÍCULO 145, AMBOS, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+Primero.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Segundo.- La sesión solemne de instalación a la que se alude en el artículo 145 constitucional deberá ser convocada por el ayuntamiento saliente. El presidente entrante rendirá la protesta de ley y a continuación, la tomara a los demás integrantes del ayuntamiento que estuvieren presentes.
+
+Tercero.- En tanto se armonizan los artículos 20 al 29 de la Ley Orgánica del Gobierno Municipal, por única ocasión el acto de entrega recepción de la administración pública municipal, se llevará a cabo en la primera sesión ordinaria que celebre el ayuntamiento entrante que deberá verificarse el primer día del inicio de su periodo constitucional.
+
+Cuarto.- El acto de entrega recepción se hará en los términos y formalidades que establecen los artículos 30 al 33 de la Ley Orgánica del Gobierno Municipal del Estado de Baja California Sur.
+
+Quinto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 23 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 2296, POR EL QUE SE REFORMAN LAS FRACCIONES I DEL ARTÍCULO 82 Y I DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
