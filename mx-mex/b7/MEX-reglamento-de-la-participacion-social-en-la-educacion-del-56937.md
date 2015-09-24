@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-participacion-social-en-la-educacion-del-56937
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-03"
-last_updated: "2014-07-04"
+last_updated: "2015-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56937&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN DEL SUBSISTEMA EDUCATIVO FEDERALIZADO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 3 de septiembre de 2007.
 
@@ -218,6 +218,52 @@ VIII. Conocer y, en su caso, aprobar los informes financieros que rinda la mesa 
 IX. Elegir a los integrantes del comité responsable del programa de seguridad escolar, conforme a las disposiciones del presente reglamento; y
 
 X. Resolver los demás asuntos que, de acuerdo con sus estatutos, sometan a su consideración sus integrantes.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo 18 A.- El comité responsable del programa de seguridad escolar se integrará por:
+
+I. Un Presidente quien será el primer vocal de la mesa directiva de la Asociación de Padres de Familia de la institución educativa que corresponda:
+
+II. Un Secretario;
+
+III. Un vocal de enlace social;
+
+IV. Un vocal de seguridad;
+
+V. Un vocal de protección civil; y
+
+VI. Un vocal de protección vial.
+
+Los integrantes del comité responsable del programa de Seguridad Escolar serán electos por la Asamblea General de la Asociación de Padres de Familia, conforme lo establecen los artículos 18 fracción IX y 29 de este Reglamento.
+
+Los integrantes del comité responsable del programa de Seguridad Escolar serán distintos a los del Consejo Escolar de Participación Social y a los de la Mesa Directiva de la Asociación de Padres de Familia, con excepción del Presidente.
+
+En ningún caso los servidores públicos de la propia institución educativa podrán formar parte del comité responsable del programa de Seguridad Escolar.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo 18 B.- Los integrantes del comité responsable del programa de Seguridad Escolar durarán en su encargo un año y no podrán ser reelectos para el mismo cargo en el ciclo escolar inmediato.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo 18 C.- Son funciones del comité responsable del programa de Seguridad Escolar, las siguientes:
+
+I. Elaborar el programa anual de trabajo de Seguridad Escolar;
+
+II. Representar ante las autoridades escolares, municipales y estatales a la comunidad escolar para la elaboración e implementación de planes, programas y acciones relacionados con la seguridad escolar;
+
+III. Asistir a las reuniones a las que les convoquen las autoridades escolares, municipales y estatales, cuando se trate de asuntos relacionados con la seguridad escolar;
+
+IV. Hacer del conocimiento de las autoridades escolares, municipales y estatales, hechos o conductas que pudieran poner en riesgo la seguridad escolar o que contribuyan a la realización de conductas o prácticas antisociales;
+
+V. Rendir un informe anual de actividades realizadas ante el Consejo Escolar de Participación Social de la institución educativa que corresponda;
+
+VI. Promover la impartición de cursos o pláticas para la comunidad escolar, en materia de prevención de adicciones, violencia y protección civil;
+
+VII. Fomentar la cultura de la seguridad personal y la denuncia; y
+
+VIII. Las demás que sean necesarias para llevar a cabo sus funciones.
 
 ###### Artículo 19.
 
@@ -549,6 +595,10 @@ IV. Por llegar a su término el ciclo escolar para el cual fueron registradas.
 
 Los Consejos Escolares son instancias de participación social en la educación, de consulta, orientación, colaboración, apoyo e información, con el propósito de participar en actividades tendientes a fortalecer, ampliar la cobertura y a elevar la calidad y la equidad en la educación básica, en los respectivos establecimientos educativos.
 
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+El Consejo Escolar de Participación Social estará integrado por padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical quienes acudirán como representantes de los intereses laborales de los trabajadores, directivos de las escuelas, ex alumnos, así como con los demás miembros del a (sic) comunidad interesados en el desarrollo de la propia escuela. Los miembros del Consejo deberán identificarse plenamente con identificación oficial y proporcionar su Clave Única de Registro de Población.
+
 > <small>(REFORMADO, G.G. 4 DE JULIO DE 2014)</small>
 
 ###### Artículo 52.
@@ -617,11 +667,25 @@ IV.- Hasta doce vocales, que serán: dos miembros de la Mesa Directiva de la Aso
 
 Los miembros del Consejo Escolar acreditarán mediante la certificación que expida el director escolar o la constancia de inscripción, que cuentan con al menos un hijo inscrito en la escuela. Los miembros del Consejo Escolar designarán un nuevo Presidente, en caso de que, quien presida el Consejo deje de reunir este requisito.
 
-En las escuelas de integración incompleta, unitarias o bidocentes, el Consejo Escolar se conformará por un padre de familia y el maestro.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+En escuelas de organización incompleta, unitarias o bidocentes, el Consejo Escolar se conformará por dos padres de familia y el Director.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+Los Consejos Escolares de Participación Social, en escuelas con más de tres grupos, podrán designar a un Secretario Técnico, quien será el director de la escuela o, según la estructura ocupacional autorizada, el subdirector que tenga encomendada la tarea de apoyar la organización y operación del citado Consejo de Participación Social.
 
 Una vez integrado el referido Consejo, su Presidente o el Secretario Técnico, levantará el acta constitutiva correspondiente, misma que se inscribirá en el Registro de Consejos Escolares de Participación Social en la Educación de SEIEM, a cargo de la Coordinación Académica y de Operación Educativa.
 
 Si el Consejo Escolar maneja recursos económicos deberá de proceder a abrir una cuenta bancaria específica en aquellas comunidades en que esto sea posible.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+El Presidente de la Asociación de Padres de Familia no podrá ejercer al mismo tiempo el cargo de presidente del Consejo.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+El Secretario Técnico del Consejo, deberá operar la plataforma electrónica para enviar y recibir información relativa al consejo, a través de la red de internet.
 
 > <small>(REFORMADO, G.G. 4 DE JULIO DE 2014)</small>
 
@@ -847,7 +911,13 @@ Para dar cumplimiento a la trasparencia en el manejo de los recursos públicos, 
 
 Para el manejo de los recursos financieros, se deberá abrir una cuenta bancaria específica en una institución de crédito lo más próxima a la escuela, en la cual deberán firmar de forma mancomunada el Presidente del Consejo Escolar, el tesorero y el director de la escuela o su equivalente.
 
-En los casos en que no se cuente con institución bancaria en la comunidad, los recursos serán administrados por el director de la escuela o su equivalente y por el Presidente del Consejo Escolar con la aprobación y firma de por lo menos dos integrantes del mismo y deberán rendir cuentas a la comunidad cada tres meses sobre el origen y destino de todos los recursos de que disponga el Consejo.
+> <small>(REFORMADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+Cuando la normatividad de los programas específicos establezca procedimientos diferentes respecto del manejo de los recursos, se estará a lo que en cada caso dispongan esas normas.
+
+> <small>(ADICIONADO, G.G. 24 DE SEPTIEMBRE DE 2015)</small>
+
+En los casos en que no se cuente con institución bancaria en la comunidad, los recursos serán administrados por el director de la escuela o su equivalente, por el Tesorero y por el Presidente del Consejo Escolar con la aprobación y firma de por lo menos dos integrantes del mismo y deberán rendir cuentas a la comunidad cada tres meses sobre el origen y destino de todos los recursos de que disponga el Consejo.
 
 > <small>(REFORMADO, G.G. 4 DE JULIO DE 2014)</small>
 
@@ -928,3 +998,11 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente en el Periódico Ofic
 TERCERO.- La Coordinación Académica y de Operación Educativa gestionará lo necesario para que el Registro de Consejos Escolares de Participación Social en la Educación de SEIEM, inicie funciones a más tardar en la primera semana del ciclo escolar 2014-2015.
 
 CUARTO.- Se derogan las disposiciones normativas de igual o menor rango que se opongan al presente Acuerdo.
+
+G.G. 24 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial Gaceta del Gobierno.
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO.- Se derogan las disposiciones normativas de igual o menor rango que se opongan al presente Acuerdo.
