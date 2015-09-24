@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2011-06-04"
+last_updated: "2015-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSI
+LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -77,7 +77,9 @@ II. DIF: el Sistema para el Desarrollo Integral de la Familia del Estado;
 
 III. Organizaciones sociales: las instituciones legalmente constituidas y registradas, que se ocupan de la materia de esta Ley;
 
-IV. PRODEM: la Procuraduría de la Defensa del Menor, la Mujer y la Familia, y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Procuraduría de Protección: la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor; y
 
 V. Unidades de Atención: las unidades de la administración pública municipal, encargadas de dar atención a las personas receptoras y generadoras de violencia familiar, conforme a la presente Ley; así como de llevar a cabo, el procedimiento de conciliación y la ejecución, en su caso, de las medidas requeridas para hacer cesar y erradicar la violencia familiar.
 
@@ -143,13 +145,17 @@ d) La Secretaría de Salud del Estado.
 
 e) Los Servicios de Salud de San Luis Potosí.
 
-f) La Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+f) La Procuraduría General de Justicia del Estado, o la Fiscalía General del Estado.
 
 g) La Dirección de Prevención y Readaptación Social.
 
 h) El Sistema para el Desarrollo Integral de la Familia del Estado.
 
-i) La Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+i) La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor.
 
 j) El Instituto de las Mujeres del Estado de San Luis Potosí.
 
@@ -239,29 +245,41 @@ f). Sensibilizar a la comunidad del área de influencia de los hospitales region
 
 g) Las demás que establezcan los ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 12.
 
-Además de las que le señalen los ordenamientos legales aplicables, en materia de prevención de la violencia familiar, la Procuraduría General de Justicia del Estado, deberá coadyuvar con las autoridades competentes, instituciones y organizaciones de la sociedad civil, y ejecutar las acciones que le sean propias, a través de las áreas correspondientes.
+Además de las que le señalen los ordenamientos legales aplicables, en materia de prevención de la violencia familiar, la Procuraduría General de Justicia del Estado o la Fiscalía General del Estado, deberá coadyuvar con las autoridades competentes, instituciones y organizaciones de la sociedad civil, y ejecutar las acciones que le sean propias, a través de las áreas correspondientes.
 
 Asimismo, proporcionará al Consejo Estatal, la información estadística sobre casos de violencia familiar de los que tenga conocimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 13.
 
-Corresponden a la PRODEM, las siguientes atribuciones:
+Corresponde a la Procuraduría de Protección, las siguientes atribuciones:
 
 I. Otorgar asistencia jurídica en materia de violencia familiar, que soliciten los receptores de la misma, así como la asistencia psicológica o social dirigida a los distintos miembros de la familia involucrados en la violencia;
 
-II. Recibir quejas, reportes o informes sobre cualquier conducta que atente contra los menores, realizar las investigaciones correspondientes y hacer valer los derechos de los mismos ante la autoridad que corresponda;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
-III. Investigar sobre la existencia de cualquier manifestación de violencia en agravio de menores, personas aludidas con o sin discapacidad y senectos; en su caso, lo hará del conocimiento del Ministerio Público;
+II. Recibir quejas, reportes o informes sobre cualquier conducta que atente contra las niñas, niños y adolescentes; realizar las investigaciones correspondientes y hacer valer los derechos de los mismos ante la autoridad que corresponda;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+III. Investigar sobre la existencia de cualquier manifestación de violencia en agravio de niñas, niños y adolescentes, personas adultas con o sin discapacidad y senectos; en su caso, lo hará del conocimiento del Ministerio Público;
 
 IV. Recabar el registro estadístico acerca de la violencia familiar que se genere, en las instancias involucradas en materia de violencia familiar;
 
 V. Actuar como coadyuvante del Ministerio Público, en los casos en que se vea involucrado cualquier integrante del núcleo familiar, como persona receptora;
 
-VI. Solicitar al Agente del Ministerio Público o a la autoridad jurisdiccional competente, su intervención en aquéllos asuntos en los que por ejercicio de la patria potestad de los padres o de quien la ejerza, se ponga en peligro la vida, la salud, la seguridad o la integridad de los menores sujetos a ella, debiendo en casos urgentes, dictar las medidas necesarias para preservar la vida, la salud física y mental, así como la seguridad e integridad de las personas receptoras de violencia familiar;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Velar porque los menores u otras personas receptoras de violencia familiar, obtengan provisional o definitivamente, albergue seguro;
+VI. Solicitar al Agente del Ministerio Público o a la autoridad jurisdiccional competente, su intervención en aquéllos asuntos en los que por el ejercicio de la patria potestad de los padres o de quien la ejerza, se ponga en peligro la vida, la salud, la seguridad o la integridad de niñas, niños y adolescentes sujetos a ella, debiendo, en casos urgentes, dictar las medidas necesarias para preservar la vida, la salud física y mental, así como la seguridad o integridad de las personas receptoras de violencia familiar;
+
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Velar porque las niñas, niños y adolescentes u otras personas receptoras de violencia familiar, obtengan provisional o definitivamente, albergue seguro;
 
 VIII. Realizar investigaciones para detectar las causas de violencia familiar y generar los esquemas de atención pertinentes, a través de diversos mecanismos de difusión comunitaria;
 
@@ -315,7 +333,9 @@ I. El Titular del Poder Ejecutivo, o quien designe, lo presidirá;
 
 II. El Supremo Tribunal de Justicia en el Estado;
 
-III. La procuraduría de la Defensa del Menor, la Mujer y la Familia;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+III. La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor;
 
 IV. Los Servicios de Salud en el Estado;
 
@@ -329,9 +349,11 @@ VIII. El Instituto de las Mujeres del Estado de San Luis Potosí, y
 
 IX. Una persona representante de las asociaciones civiles, cuyo fin sea la prevención y atención de la violencia familiar; la cual será designada entre ellas mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 19.
 
-El Consejo Estatal contará con un Secretario Técnico, que será el Procurador de la Defensa del Menor, la Mujer y la Familia, quien tendrá a su cargo la organización interna del mismo, de acuerdo con las siguientes atribuciones:
+El Consejo Estatal contará con un Secretario Técnico, que será el Procurador de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y Adulto Mayor quien tendrá a su cargo la organización interna del mismo, de acuerdo con las siguientes atribuciones:
 
 I. Suplir las ausencias temporales del Presidente;
 
@@ -411,9 +433,11 @@ El Programa Estatal para la Prevención y Atención de la Violencia Familiar, se
 
 ### CAPITULO III. De las Unidades de Atención
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 26.
 
-Los ayuntamientos, a través del Sistema Municipal para el Desarrollo Integral de la Familia, contarán al menos con una Unidad de Atención, como órgano especializado para desarrollar los esquemas y modelos preventivos y de atención, que permitan sensibilizar a la comunidad para erradicar conductas violentas al interior del núcleo familiar, que perjudiquen la integridad de cualquiera de sus miembros. Dichas unidades de atención se ajustarán normativamente, a los lineamientos que en materia de violencia familiar, señalen el Consejo Estatal, y la PRODEM.
+Los ayuntamientos, a través del Sistema Municipal para el Desarrollo Integral de la Familia, contarán al menos con una Unidad de Atención, como órgano especializado, para desarrollar los esquemas y modelos preventivos y de atención, que permitan sensibilizar a la comunidad para erradicar conductas violentas al interior del núcleo familiar, que perjudiquen la integridad de cualquiera de sus miembros. Dichas unidades de atención se ajustarán normativamente a los lineamientos que, en materia de violencia familiar, señalen el Consejo Estatal, y la Procuraduría de Protección.
 
 ###### ARTICULO 27.
 
@@ -509,7 +533,7 @@ La facilitación de servicios de atención, no exime al padre, a la madre, o a l
 
 ###### ARTICULO 38.
 
-En la tramitación del procedimiento en materia de violencia familiar, rigen los principios de, legalidad, imparcialidad, gratuidad, reserva, breve trámite y oralidad; privilegiando el principio de conciliación.
+En la tramitación del procedimiento en materia de violencia familiar, rigen los principios de legalidad, imparcialidad, gratuidad, reserva, breve trámite y oralidad; privilegiando el principio de conciliación.
 
 El procedimiento se iniciará inmediatamente, cuando por cualquier medio se tenga conocimiento de un hecho constitutivo de violencia familiar.
 
@@ -525,7 +549,13 @@ Estas evidencias también podrán ser utilizadas para iniciar, en su caso, proce
 
 Quienes tienen a su cargo la investigación o estén conociendo de un proceso de violencia familiar, podrán entrevistar directamente a las personas de las que tengan conocimiento, o sospechen que han sido receptoras de violencia familiar, previa su autorización, en el lugar en que éstas se encuentren, siempre y cuando esté garantizada su seguridad.
 
-Los menores de edad podrán ser citados a fin de recabar su opinión; en caso de ser necesario, la Unidad de Atención solicitará el apoyo de la autoridad competente, con la debida intervención del Ministerio Público.
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+Las niñas, niños y adolescentes podrán ser citados a fin de recabar su opinión; en caso de ser necesario, la Unidad de Atención solicitará el apoyo de la autoridad competente, con la debida intervención del Ministerio Público.
+
+> <small>N. DE E. DEL ANÁLISIS DE LA DEROGACIÓN AL PÁRRAFO TERCERO PUBLICADO EN EL P.O. EL 24 DE SEPTIEMBRE DE 2015, SE ADVIERTE QUE EL PRESENTE ARTÍCULO SOLO CONSTABA DE DOS PÁRRAFOS.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 41.
 
@@ -549,7 +579,7 @@ a) Auxilio policiaco de reacción inmediata a favor de la víctima, con autoriza
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
-b) El depósito de la persona receptora de de la violencia familiar en un albergue o domicilio que garantice su integridad personal, en cuyo caso deberá contarse con la anuencia de la persona que asuma tal responsabilidad.
+b) El depósito de la persona receptora de la violencia familiar en un albergue o domicilio que garantice su integridad personal, en cuyo caso deberá contarse con la anuencia de la persona que asuma tal responsabilidad.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2007)</small>
 
@@ -583,13 +613,17 @@ e) La obligación de proporcionar alimentos de manera provisional e inmediata.
 
 Las medidas cautelares serán tramitadas ante los juzgados de lo Familiar; y en los lugares en que no los hubiere, ante los juzgados civiles de Primera Instancia, Mixtos o Menores.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 44.
 
-Los juzgados competentes, la Procuraduría General de Justicia del Estado, la PRODEM, y las Unidades de Atención, (sic) fin de prevenir la recepción de los hechos, deberá canalizar a las personas receptoras de violencia familiar, a los organismos competentes, para que reciban atención psicoterapéutica y de rehabilitación.
+Los juzgados competentes, la Procuraduría General de Justicia del Estado o la Fiscalía General del Estado, la Procuraduría de Protección, y las Unidades de Atención, a fin de prevenir la repetición de los hechos, deberán canalizar a las personas receptoras de violencia familiar, a los organismos competentes, para que reciban atención psicoterapéutica y de rehabilitación.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 45.
 
-Las Unidades de Atención proveerán de servicios de protección, directamente a los menores, mujeres, personas con capacidades diferentes o de la tercera edad, que estén en riesgo inminente de ser víctimas de la violencia familiar, y no tengan domicilio o persona que se haga cargo de su ciudad, o promoverán contratos, o acuerdos con organismos e instituciones que los presten.
+Las Unidades de Atención proveerán de servicios de protección, directamente a las niñas, niños, adolescentes, mujeres, personas con discapacidad o de la tercera edad, que estén en riesgo inminente de ser víctimas de la violencia familiar, y no tengan domicilio o persona que se haga cargo de su cuidado, o promoverán contratos, o acuerdos con organismos e instituciones que los presten.
 
 ### CAPITULO III. Del Procedimiento ante las Unidades de Atención
 
@@ -601,9 +635,11 @@ Las Unidades de Atención son las encargadas de canalizar a las personas recepto
 
 Cuando la Unidad de Atención tenga conocimiento de un caso de violencia familiar, ya sea en forma anónima o directa, deberá canalizarlo a trabajo social, donde se determinará si se requiere apoyo jurídico o psicológico. En los casos que resulten procedentes, se brindará asesoría al receptor de la violencia familiar, para promover la denuncia ante el Ministerio Público.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 48.
 
-Tratándose de menores, se realizarán las investigaciones de trabajo social necesarias, y una vez que se acrediten elementos que hagan presumir la existencia de la violencia familiar, se turnará de inmediato al Ministerio Público, por la presunta comisión del delito.
+Tratándose de niñas, niños y adolescentes, se realizarán las investigaciones de trabajo social necesarias, y una vez que se acrediten elementos que hagan presumir la existencia de la violencia familiar, se turnará de inmediato al Ministerio Público, por la presunta comisión del delito.
 
 ###### ARTICULO 49.
 
@@ -734,6 +770,12 @@ Así mismo, verificará que en los presupuestos de egresos para el ejercicio del
 Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 4 DE JUNIO DE 2011.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
