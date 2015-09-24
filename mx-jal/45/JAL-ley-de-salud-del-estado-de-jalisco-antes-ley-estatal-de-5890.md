@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2015-09-09"
+last_updated: "2015-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -1117,17 +1117,23 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I. La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+II. La atención del niño, la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna, la prevención, detección de las condiciones de enfermedades hereditarias, congénitas y atención que incluya la aplicación de la prueba del tamiz ampliado;
 
 III. La promoción de la integración y el bienestar familiar;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
-IV. La información a la mujer sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH), haciendo de su conocimiento las ventajas de una detección oportuna, para lo cual se informará a la mujer embarazada que puede practicarse gratuitamente examen de VIH en las instituciones del Sector Salud, a fin de prevenir la salud de los infantes desde su gestación, siendo el resultado del examen confidencial, y
+IV. La información a la mujer sobre la infección por el Virus de la Inmunodeficiencia Humana (VIH) haciendo de su conocimiento las ventajas de una detección oportuna, para lo cual se informará a la mujer embarazada que puede practicarse gratuitamente examen de VIH en las instituciones del Sector Salud, a fin de prevenir la salud de los infantes desde su gestación, siendo el resultado del examen confidencial;
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
-V. La atención médica de las mujeres embarazadas y de los niños que viven con VIH.
+V. El diagnóstico oportuno de condiciones de salud del neonato y detección de enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado y su salud visual; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+VI. La prevención, detección oportuna y, en su caso, tratamiento de enfermedades en los neonatos prematuros, para prevenir la ceguera por retinopatía y la sordera; para lo cual se realizarán la revisión de la retina y la aplicación del tamiz auditivo; el tamiz oftalmológico se practicará a la cuarta semana del nacimiento.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1161,7 +1167,11 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 
 IV. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención;
 
-V. Las demás que coadyuven a la protección de la salud materno-infantil.
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+V. La generación de políticas públicas para la disminución de embarazos de alto riesgo, de nacimientos prematuros y de ceguera por retinopatía del prematuro; y
+
+VII (SIC). Las demás que coadyuven a la protección de la salud materno-infantil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2001)</small>
 
@@ -1174,6 +1184,32 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
 Las autoridades educativas y sanitarias promoverán el establecimiento de módulos de salud en los centros escolares de educación básica y media básica para la prestación del paquete básico de servicios de salud.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 67 Bis.
+
+Es interés del Estado otorgar a los niños y niñas una atención oportuna y especializada y, en particular, prevenir la ceguera por retinopatía del prematuro, así como la prevención, diagnóstico y atención de la misma.
+
+Las autoridades estatales sanitarias dictarán las políticas públicas para prevenir y, en su caso, reducir los embarazos de alto riesgo y nacimientos prematuros, para lo cual garantizarán el acceso de éstos a un servicio integral de salud.
+
+La Secretaría de Salud y los organismos públicos descentralizados y desconcentrados, en coordinación con el sector público federal y el privado, revisarán anualmente la política pública a que se refiere al (sic) párrafo anterior y realizarán un programa estatal para la prevención de la ceguera por retinopatía del prematuro.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 67 Ter.
+
+El Centro Estatal para la Prevención de Ceguera por Retinopatía del Prematuro será el responsable del programa rector y regulador de la atención al neonato para la revisión de la retina, la detección oportuna de malformaciones que puedan causar ceguera y el tratamiento de la retinopatía, a que se refieren las fracciones VI y VII del artículo 62, para lo cual:
+
+I. Emitirá los protocolos para el diagnóstico, tratamiento, expediente clínico, procesos de ingreso, egreso y seguimiento individualizado de los pacientes prematuros con riesgo de ceguera por retinopatía en el Estado de Jalisco;
+
+II. Determinará las características mínimas del acervo de información y documentación que facilite a las autoridades e instituciones competentes la investigación, estudio y análisis de la retinopatía neonatal;
+
+III. Fomentará las actividades de investigación científica y docencia para la prevención, detección y tratamiento de la retinopatía, y la capacitación a los profesionales, especialistas y técnicos, y
+
+IV. Propondrá a las autoridades sanitarias, las acciones de promoción de la salud que deban realizarse en coordinación con los Sistemas para el Desarrollo Integral de la Familia, Estatal y Municipales, como campañas y programas para la prevención de embarazos de adolescentes y nacimientos prematuros; de sensibilización y capacitación a profesionales de primer contacto con los recién nacidos y el personal técnico y auxiliares para la salud, así como a los padres y su familia, sobre las medidas de protección a la salud para la prevención de la retinopatía y de la importancia del tamizaje.
+
+El Centro Estatal para la Prevención de Ceguera por Retinopatía del Prematuro enviará los protocolos a que se refiere la fracción I al titular de la Secretaría de Salud, para su publicación en el Periódico Oficial El Estado de Jalisco, para su debida observancia por el Sector Salud y la población en general.
 
 ### CAPITULO VI. De los servicios de planificación familiar
 
@@ -4382,3 +4418,13 @@ Sexto. La Junta de Gobierno del organismo público descentralizado denominado �
 Séptimo. La Junta de Gobierno aprobará el Reglamento de la Ley del Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Jalisco en un plazo no mayor a 120 ciento veinte días hábiles, contados a partir de la fecha de su instalación, y remitirlo al titular del Poder Ejecutivo del Estado para su expedición.
 
 Octavo. A partir de la entrada en vigor de este Decreto, el Director General del Régimen Estatal de Protección Social en Salud dependiente del Organismo Público Descentralizado “Servicios de Salud Jalisco”, quedará como encargado de despacho de la Dirección General del organismo público descentralizado denominado “Régimen Estatal de Protección Social en Salud de Jalisco”, hasta en tanto el Gobernador del Estado realiza la designación del Director General.
+
+P.O. 24 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El Centro Estatal para la Prevención de Ceguera por Retinopatía del Prematuro, será operado por el Organismo Público Descentralizado Hospital Civil de Guadalajara, dentro de los 90 días posteriores a la publicación del presente decreto, y emitirá el manual de organización correspondiente; éste especificará la forma en que se prestará la atención médico quirúrgica para el tratamiento de la retinopatía directamente por el Centro; las bases para expedir protocolos y la temporalidad para su revisión; desarrollará un banco de información con las características socioeconómicas de los pacientes y sus familiares directos, y todos aquellos lineamientos que sean necesarios para el cumplimiento de lo que establece el Artículo 67 ter.
+
+TERCERO. El Centro para la Prevención de Ceguera por Retinopatía del Prematuro expedirá los protocolos para la prevención y detección oportuna de malformaciones que puedan causar ceguera en los prematuros en el Estado de Jalisco, dentro de los 180 días a la fecha de su entrada en operación, y los enviará al titular de la Secretaría de Salud para su debida publicación en el periódico oficial El Estado de Jalisco.
+
+CUARTO. La Secretaría de Salud diseñará y ejecutará la política conforme a lo previsto en el artículo 67 bis, dentro del primer año a partir de la entrada en vigor del presente decreto.
