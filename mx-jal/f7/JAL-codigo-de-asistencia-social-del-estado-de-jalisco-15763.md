@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2015-09-05"
+last_updated: "2015-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -559,9 +559,11 @@ X. Expedir el reglamento del Consejo Estatal para la Prevención y Atención de 
 
 XI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-La Junta de Gobierno celebrará por lo menos una sesión ordinaria al mes y extraordinaria cuando se requiera; previa convocatoria por el Presidente de la misma. Sesionará válidamente con la asistencia de la mitad más uno de sus integrantes y las resoluciones se tomarán por mayoría de votos, teniendo la Presidencia voto de calidad en caso de empate.
+La Junta de Gobierno sesionará cuantas veces sea necesario para el desahogo de los asuntos de su competencia y por lo menos una vez por trimestre.
 
 #### Sección Segunda. De la Presidencia de la Junta de Gobierno
 
@@ -3390,3 +3392,7 @@ Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales 
 DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
 
 DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
+
+P.O. 24 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
