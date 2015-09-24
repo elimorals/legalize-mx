@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2014-11-19"
+last_updated: "2015-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -138,7 +138,7 @@ B) La Subsecretaría de Sistema Penitenciario, a la que quedan adscritas:
 
 C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la que quedan adscritas:
 
-1. Dirección General de Regularización Territorial;
+1. (DEROGADO, G.O. 24 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
 
@@ -706,9 +706,15 @@ XV. A la Consejería Jurídica y de Servicios Legales:
 
 3. Dirección General del Registro Público de la Propiedad y de Comercio;
 
-4. Dirección General del Registro Civil del Distrito Federal; y
+> <small>(REFORMADO, G.O. 24 DE SEPTIEMBRE DE 2015)</small>
 
-5. Dirección Ejecutiva de Justicia Cívica.
+4. Dirección General del Registro Civil del Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+5.- Dirección General de Regularización Territorial; y
+
+6.- Dirección Ejecutiva de Justicia Cívica.
 
 > <small>(ADICIONADA, G.O. 28 DE FEBRERO DE 2007)</small>
 
@@ -1366,7 +1372,7 @@ IV. Atender, tramitar y resolver las solicitudes de audiencia con el titular de 
 
 V. Auxiliar en la conducción de la política interior que compete al Jefe de Gobierno y que no se atribuya expresamente a otra Unidad Administrativa;
 
-VI. apoyar (sic) las gestiones en materia de limites;
+VI. apoyar las gestiones en materia de limites;
 
 VII. Coadyuvar en la conducción de las relaciones con los grupos políticos y sociales;
 
@@ -2808,29 +2814,7 @@ XIV. Realizar acciones de coordinación con el Instituto para la Atención y Pre
 
 ###### Artículo 42.
 
-Corresponde a la Dirección General de Regularización Territorial:
-
-I. Promover y apoyar las acciones de regularización de la tenencia de la tierra en el Distrito Federal, así como ejecutar los programas que se deriven, con la colaboración de los Órganos Político-Administrativos y los habitantes de las demarcaciones territoriales;
-
-II. Asesorar a los habitantes en materia de regularización de la tenencia de la tierra en el Distrito Federal, para la resolución de los problemas relacionados con la misma;
-
-III. Proporcionar, a solicitud de los titulares de los Órganos Político-Administrativos, los elementos técnicos disponibles, para evitar la invasión de los predios y para que obtengan su desalojo, mediante el ejercicio de las acciones judiciales o administrativas que procedan;
-
-IV. Llevar el registro de las colonias y zonas urbanas populares susceptibles de incorporarse a los programas de regularización;
-
-V. Ser el conducto de la Administración Pública ante la Secretaría de la Reforma Agraria y la Comisión para la Regularización de la Tenencia de la Tierra, en los asuntos de su competencia;
-
-VI. Intervenir, dentro del ámbito de su competencia, en el otorgamiento y firma de escrituras públicas de los convenios y contratos que lo requieran;
-
-VII. Actuar cuando lo estime conveniente o a solicitud de parte interesada, como árbitro y conciliador en los conflictos inmobiliarios que se presenten en las colonias y zonas urbanas populares;
-
-VIII. Diagnosticar la factibilidad de los programas de regularización de la tenencia de la tierra;
-
-IX. Elaborar y proponer el proyecto técnico e integrar el expediente de expropiación por causa de utilidad pública, de aquellos predios donde se encuentren asentamientos humanos irregulares, salvo aquellos que sean de origen ejidal o comunal;
-
-X. Asesorar y coordinar la instrumentación del pago de las escrituras públicas, para coadyuvar al cumplimiento de los programas de regularización; y
-
-XI. Coadyuvar en la tramitación ante instancias judiciales, cuando se trate de asuntos de su competencia.
+(DEROGADO, G.O. 24 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 43.
 
@@ -4916,7 +4900,7 @@ XV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
 > <small>N. DE E. LA PRESENTE FRACCIÓN NO FUE CONSIDERADA EN LA REFORMA PUBLICADA EN LA G.O. DE 28 DE FEBRERO DE 2007, MOTIVO POR EL CUAL SE DEJA EL TEXTO DE LA MISMA.</small>
 
-XVI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia. (sic)
+XVI. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 ###### Artículo 72.
 
@@ -7078,7 +7062,7 @@ XVIII. Intervenir en la entrega-recepción de los inmuebles que incidan en el pa
 
 XIX. Determinar e imponer las sanciones contenidas en la ley de Régimen Patrimonial y del Servicio Público;
 
-XX. Analizar y, en su caso promover la utilización de sistemas de información georeferencial (sic) para la administración de los bienes inmuebles propiedad del Gobierno del Distrito Federal, así como de aquellos bienes inmuebles en los que el Gobierno del Distrito Federal tenga el carácter de poseedor;
+XX. Analizar y, en su caso promover la utilización de sistemas de información georeferencial para la administración de los bienes inmuebles propiedad del Gobierno del Distrito Federal, así como de aquellos bienes inmuebles en los que el Gobierno del Distrito Federal tenga el carácter de poseedor;
 
 XXI. Practicar el avalúo de los inmuebles que adquieran, graven o enajenen las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y entidades de la Administración Pública;
 
@@ -9596,7 +9580,7 @@ VII. Dar un seguimiento sistemático a la ejecución del Programa Anual de Audit
 
 VIII. Coordinar la formulación de observaciones por parte de sus unidades administrativas derivadas de las auditorias y revisiones cibernéticas.
 
-IX. Emitir las recomendaciones correspondientes, que contribuyan a la entrega oportuna, eficaz y eficiente de proyectos en materia de tecnologías de la información y comunicaciones de la Contraloría General de conformidad con las disposiciones jurídica y administrativa (sic).
+IX. Emitir las recomendaciones correspondientes, que contribuyan a la entrega oportuna, eficaz y eficiente de proyectos en materia de tecnologías de la información y comunicaciones de la Contraloría General de conformidad con las disposiciones jurídica y administrativa.
 
 X. Proponer los criterios de evaluación del Programa Anual de Auditoría Cibernética con el fin de verificar su orientación al proceso de mejora continua.
 
@@ -10431,6 +10415,34 @@ XIV. Coordinar el buen funcionamiento de los Juzgados del Registro Civil;
 XV. Sancionar las faltas u omisiones de los jueces del Registro Civil, y
 
 XVI. Rotar a los Jueces del Registro Civil de adscripción.
+
+> <small>(ADICIONADO, G.O. 24 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 118 Bis.
+
+Corresponde a la Dirección General de Regularización Territorial:
+
+I. Promover y apoyar las acciones de regularización de la tenencia de la tierra en el Distrito Federal, así como ejecutar los programas que se deriven, con la colaboración de los Órganos Político-Administrativos y los habitantes de las demarcaciones territoriales;
+
+II. Asesorar a los habitantes en materia de regularización de la tenencia de la tierra en el Distrito Federal, para la resolución de los problemas relacionados con la misma;
+
+III. Proporcionar, a solicitud de los titulares de los Órganos Político-Administrativos, los elementos técnicos disponibles, para evitar la invasión de los predios y para que obtengan su desalojo, mediante el ejercicio de las acciones judiciales o administrativas que procedan;
+
+IV. Llevar el registro de las colonias y zonas urbanas populares susceptibles de incorporarse a los programas de regularización;
+
+V. Ser el conducto de la Administración Pública ante la Secretaría de la Reforma Agraria y la Comisión para la Regularización de la Tenencia de la Tierra, en los asuntos de su competencia;
+
+VI. Intervenir, dentro del ámbito de su competencia, en el otorgamiento y firma de escrituras públicas de los convenios y contratos que lo requieran;
+
+VII. Actuar cuando lo estime conveniente o a solicitud de parte interesada, como árbitro y conciliador en los conflictos inmobiliarios que se presenten en las colonias y zonas urbanas populares;
+
+VIII. Diagnosticar la factibilidad de los programas de regularización de la tenencia de la tierra;
+
+IX. Elaborar y proponer el proyecto técnico e integrar el expediente de expropiación por causa de utilidad pública, de aquellos predios donde se encuentren asentamientos humanos irregulares, salvo aquellos que sean de origen ejidal o comunal;
+
+X. Asesorar y coordinar la instrumentación del pago de las escrituras públicas, para coadyuvar al cumplimiento de los programas de regularización; y
+
+XI. Coadyuvar en la tramitación ante instancias judiciales, cuando se trate de asuntos de su competencia.
 
 ###### Artículo 119.
 
@@ -17627,3 +17639,13 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- La Secretaría de Desarrollo Económico del Distrito Federal deberá actualizar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+G.O. 24 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- A la Consejería Jurídica y de Servicios Legales, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de las atribuciones de la Dirección General de Regularización Territorial.
+
+CUARTO.- La Consejería Jurídica y de Servicios Legales, deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que establezca la Contraloría General.
