@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-las-zonas-62595"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-09-03"
-last_updated: "2008-09-03"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62595&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-06-02"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL DE LAS ZONAS ARIDAS
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL DE LAS ZONAS ARIDAS
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LAS ZONAS ÁRIDAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LAS ZONAS ÁRIDAS, PUBLICADO EN EL D.O.F. DE 25 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 3 de septiembre de 2008.
 
@@ -440,3 +442,17 @@ SEGUNDO.- Se abroga el Estatuto anterior aprobado por el H. Consejo Directivo en
 TERCERO.- En lo relativo a los procedimientos y trámites administrativos que se encuentren vigentes, continuarán conforme al Estatuto vigente al inicio del trámite correspondiente.
 
 Dado en la ciudad de Saltillo, Coahuila, a los dos días del mes de junio de dos mil ocho.- El Director General de la Comisión Nacional de las Zonas Aridas, Felipe Flores Guajardo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Comisión Nacional de las Zonas Áridas anterior aprobado por su Consejo Directivo en su Sesión Ordinaria número 105, mediante el acuerdo No. 105.06.07, celebrada el 6 de diciembre de 2007 y publicado en el Diario Oficial de la Federación del día 3 de septiembre de 2008.
+
+Así mismo se derogan todas las disposiciones administrativas internas que se opongan al presente Estatuto.
+
+TERCERO.- Los asuntos que se encuentren en trámite en las unidades administrativas establecidas en el Estatuto que se abroga, serán atendidos y resueltos por las unidades administrativas establecidas en el presente Estatuto, de acuerdo a sus respectivas facultades.
+
+CUARTO.- La CONAZA dentro del plazo de seis meses contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá expedir el Manual de Organización de la Comisión Nacional de las Zonas Áridas.
