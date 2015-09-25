@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proteccion-de-datos-personales-para-el-estado-y-los-5054
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-19"
-last_updated: "2015-09-11"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,7 @@ state: "GUA"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE SEPTIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
@@ -363,7 +363,7 @@ Ante la negación de la existencia del acto recurrido por parte de la unidad de 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
-###### Articulo 30.
+###### Artículo 30.
 
 Rendido el informe justificado o transcurrido el plazo señalado en el segundo párrafo del artículo anterior, el Consejo General del Instituto resolverá el recurso de queja dentro de los diez días hábiles siguientes, confirmando, modificando o revocando el acto recurrido.
 
@@ -503,6 +503,8 @@ Adecuaciones de los Centros de Asistencia Social
 
 Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
 
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 Designación de representantes de la sociedad civil ante el Sistema
 
-Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
