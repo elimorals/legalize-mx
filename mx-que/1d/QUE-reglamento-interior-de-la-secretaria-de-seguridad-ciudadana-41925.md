@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-419
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2007-05-04"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41925&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SEGURIDAD CIUDADANA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2007.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 3 de diciembre de 2004.
 
@@ -584,3 +586,25 @@ P.O. 4 DE MAYO DE 2007.
 Artículo primero.- Este acuerdo entrará en vigor el día de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo segundo.- Quedan sin efecto las disposiciones que se opongan al presente.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Seguridad Ciudadana, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" de fecha 3 de diciembre de 2004 y sus reformas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente reglamento interior.
+
+###### ARTÍCULO CUARTO.
+
+De conformidad con lo establecido en el artículo 82 de la Ley General del Sistema Nacional de Seguridad Pública; 121 y 122 de la Ley del Sistema de Seguridad Ciudadana del Estado de Querétaro, a efecto de dar cumplimiento a una organización de la Corporación de la Policía Estatal bajo un esquema de jerarquización terciaria, será a través de la Comisión de Carrera Policial, a más tardar a los seis meses de la entrada en vigor del presente reglamento, la que ejecutará el proceso y ajuste de los grados policiales que operen a la fecha hacia el interior de la corporación, pudiendo disponer que los policías, durante ese tiempo, asciendan a grados no continuos en la estructura orgánica.
+
+La Comisión de Carrera Policial, será el órgano facultado para conocer, tramitar y resolver lo relativo al proceso de migración de la estructura terciaria, tomando en cuenta la antigüedad, trayectoria, capacitación, nivel académico y experiencia, entre otros.
