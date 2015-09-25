@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-administracion-fiscal-general-del-estado-de-87715"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-08"
-last_updated: "2012-05-08"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LA ADMINISTRACIÓN FISCAL GENERAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 8 de mayo de 2012.
 
@@ -359,19 +359,35 @@ IV. Las demás que establezcan la presente ley y otras disposiciones aplicables.
 
 El Comité Estatal de Vinculación Hacendaria estará integrado de la siguiente (sic) por:
 
-I El Secretario de Finanzas, quien fungirá como presidente;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-II El Administrador Fiscal del Estado, quien fungirá como Secretario Técnico;
+I.- El Secretario de Fiscalización y Rendición de Cuentas, quien fungirá como presidente;
 
-III El Secretario de Desarrollo Económico;
+II.- El Administrador Fiscal del Estado, quien fungirá como Secretario Técnico;
 
-IV El Subsecretario de Ingresos de la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-V Empresarios y ciudadanos distinguidos del Estado, invitados directamente por el Gobernador del Estado o a través del titular de la Secretaría de Finanzas, y
+III.- El Secretario de Desarrollo Económico, Competitividad y Turismo;
 
-VI Tres municipios del Estado, invitados directamente por el Titular del Ejecutivo o a través del Titular de la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-Adicionalmente, podrán asistir a las sesiones los funcionarios que determinen el Secretario de Finanzas o el Administrador Fiscal General.
+IV.- El Secretario de Finanzas
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+V.- El Subsecretario de Ingresos de la Secretaria de Finanzas
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VI.- Empresarios y ciudadanos distinguidos del Estado, invitados directamente por el Gobernador del Estado o a través del titular de la Secretaria de Fiscalización y Rendición de Cuentas, y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VII.- Tres municipios del Estado, invitados directamente por el Titular del Ejecutivo o a través del Titular de la Secretaría de Fiscalización y Rendición de Cuentas.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Adicionalmente, podrán asistir a las sesiones los funcionarios que determinen el Secretario de Fiscalización y Rendición de Cuentas o el Administrador Fiscal General.
 
 Cada uno de los integrantes del Comité Estatal de Vinculación Hacendaria, deberá nombrar un suplente para efecto de cubrir sus ausencias dentro de las sesiones correspondientes.
 
@@ -530,3 +546,11 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
