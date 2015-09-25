@@ -4,7 +4,7 @@ identifier: "COA-ley-de-adquisiciones-arrendamientos-y-contratacion-de-66143"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2013-04-19"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2012.
-
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -98,6 +96,10 @@ XII. Unidad: Aquellas áreas de la administración pública del Estado que tenga
 (ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
 
 XIII. CompraNet: Sistema electrónico de contrataciones gubernamentales.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Proveedores Salarialmente Responsables: Los proveedores que hayan comprobado fehacientemente, a través de la documentación o cualquier otra prueba idónea, que sus trabajadores y los que laboren para terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta del Estado de Coahuila de Zaragoza o en su caso el salario mínimo general vigente en la capital del estado, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
 
 ###### Artículo 3.
 
@@ -305,9 +307,9 @@ VI. Baja o destino.
 
 El Órgano de Control establecerá y mantendrá actualizado el Padrón de Proveedores de la Administración Pública Estatal y será exigible únicamente en los procesos de contratación de las adquisiciones, arrendamientos y servicios, que lleven a cabo las dependencias y entidades de la administración pública estatal, y cuando el financiamiento de las acciones de administración u operación de los municipios y organismos paramunicipales sean financiadas total o parcialmente con recursos del estado.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-El Órgano de Control hará del conocimiento de las dependencias, entidades y del público en general, las personas físicas y morales registradas en el padrón a través de los medios de difusión electrónica que establezca, a la cual deberán acceder las dependencias, entidades y municipios para verificar la inscripción y vigencia de los Certificados de Aptitud.
+El Órgano de Control hará del conocimiento de las dependencias, entidades y del público en general, las personas físicas y morales registradas en el padrón, así como aquellas que cuenten con la calidad de Proveedores Salarialmente Responsables, a través de los medios de difusión electrónica que establezca, a los cuales, deberán acceder las dependencias, entidades y municipios para verificar la inscripción y vigencia de los Certificados de Aptitud y en su caso la anotación que lo identifique como Proveedor Salarialmente Responsable.
 
 Para toda adquisición o contratación de los servicios definidos en esta Ley, que se realicen en total o parte con fondos estatales, las dependencias, entidades y municipios, sólo podrán aceptar proposiciones y celebrar contrato, con las personas físicas y morales inscritas en el Padrón cuyo Certificado de Aptitud esté vigente en la fecha de presentación y apertura de las proposiciones. En el caso de Invitación a cuando menos tres personas se vigilará que los licitantes que se encuentren inscritos y vigentes a la fecha de la presentación de sus proposiciones, así mismo para el caso de adjudicación directa se solicitará el Certificado antes de la firma del contrato o la asignación del pedido.
 
@@ -341,49 +343,65 @@ VIII. Los demás documentos e información que el Órgano de Control considere p
 
 Las personas físicas deberán acreditarse con su acta de nacimiento, debiendo cumplir con los requisitos de este Artículo, excepto los de las fracciones II y III.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-El Órgano de Control podrá verificar en cualquier tiempo la veracidad de la información a que se refiere este artículo.
+Las personas interesadas en acreditar su calidad de Proveedor Salarialmente Responsable, deberán presentar constancias de declaraciones informativas anuales de naturaleza fiscal, de movimiento de alta o de modificación de sueldo en materia de seguridad social y de pago del Impuesto Sobre la Renta.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+El Órgano de Control a fin de verificar en cualquier tiempo la veracidad de la información que presenten los interesados y podrá solicitar la documentación complementaria que juzgue conveniente.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Además de la revisión documental, se podrán realizar las consultas que se consideren necesarias ante las instancias competentes para corroborar la información.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 Las personas interesadas en inscribirse vía electrónica en el padrón, deberán atender los lineamientos que al efecto emita el Órgano de Control.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 24.
 
-Los interesados presentarán su solicitud ante el Órgano de Control la cual, dentro de un término de veinte días hábiles siguientes al de la presentación de la solicitud, resolverá sobre la inscripción en el padrón. Transcurrido este plazo sin que haya respuesta, se tendrá por inscrito al solicitante, debiendo expedir el Órgano de Control, en ese caso, el Certificado de Aptitud.
+Los interesados presentarán su solicitud ante el Órgano de Control el cual, dentro de un término de veinte días hábiles siguientes a su presentación, resolverá sobre la inscripción en el padrón. Transcurrido este plazo sin que haya respuesta, se tendrá por inscrito al solicitante, debiendo expedir el Órgano de Control, el Certificado de Aptitud.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 El Órgano de Control expedirá al interesado el Certificado de Aptitud, que servirá para acreditar su calidad de productor o comerciante legalmente establecido, su existencia si es persona moral y su solvencia económica y capacidad para suministrar las mercancías en los procedimientos de adquisición, arrendamientos y prestación de servicios en que comparezca.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+En el caso de que el interesado hubiere acompañado esta solicitud de los documentos mencionados en el párrafo tercero del artículo 23 de la presente ley, el certificado de aptitud contará con una anotación con la que se acreditará la calidad de Salarialmente Responsable.
+
 El Certificado de Aptitud deberá estar vigente y será requisito indispensable para que comparezca el interesado en cualquier procedimiento de los previstos por este ordenamiento.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 25.
 
-El Certificado de Aptitud en el Padrón de Proveedores de la Administración Pública Estatal, tendrá una vigencia anual y podrá revalidarse anualmente siempre y cuando no se incurra en alguna de las causales de suspensión o cancelación.
+El Certificado de Aptitud, y en su caso, la calidad de Salarialmente Responsable, en el Padrón de Proveedores de la Administración Pública Estatal, tendrá una vigencia anual y podrá revalidarse anualmente siempre y cuando no se incurra en alguna de las causales de suspensión o cancelación.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
-
-Los proveedores que tengan interés en continuar inscritos en el Padrón, podrán presentar su solicitud de refrendo ante el Órgano de control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos complementarios que procedan, en los términos del artículo anterior.
-
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+Los proveedores que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsable, podrán presentar su solicitud de refrendo ante el Órgano de control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos complementarios que procedan, en los términos del artículo anterior.
 
 La inscripción y la revalidación causarán los derechos que establezca la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
-
 Así mismo deberán comunicar por escrito al Órgano de Control dentro de un plazo de sesenta días naturales a partir de que suceda cualquier situación que se presente en su empresa y que modifique los datos proporcionados para obtener su Certificado de Aptitud o revalidación.
 
-(REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+En caso de que se requiera solventar alguna observación dentro del procedimiento de trámite del Certificado de Aptitud, de acreditación de la calidad de Salarialmente Responsable o revalidación de éstos, el Órgano de Control lo hará del conocimiento del solicitante a través de los medios electrónicos establecidos para ello, para que éste presente las aclaraciones y documentos pertinentes en un plazo que no exceda de quince días hábiles contados a partir de la fecha en que reciba la comunicación; en caso de no ser atendida la solventación en este plazo, la solicitud se dará por cancelada, turnando la documentación para su devolución al interesado.
 
-En caso de que se requiera solventar alguna observación dentro del procedimiento de trámite del Certificado de Aptitud o revalidación, el Órgano de Control lo hará del conocimiento del solicitante a través de los medios electrónicos establecidos para ello, para que éste presente las aclaraciones y documentos pertinentes en un plazo que no exceda de quince días hábiles contados a partir de la fecha en que reciba la comunicación; en caso de no ser atendida la solventación en este plazo, la solicitud se dará por cancelada, turnando la documentación para su devolución al interesado.
+Cuando el Proveedor dejase de revalidar su Certificado de Aptitud y en su caso la calidad de Salarialmente Responsable, por un período de treinta y seis meses consecutivos contados a partir de la fecha de su vencimiento, deberá iniciar los trámites para su inscripción en los términos del Artículo 23 de este ordenamiento jurídico.
 
-Cuando el Proveedor dejase de revalidar su Certificado de Aptitud por un período de treinta y seis meses consecutivos contados a partir de la fecha de su vencimiento, deberá iniciar los trámites para su inscripción en los términos del Artículo 23 de este ordenamiento jurídico.
+La omisión de la solicitud de revalidación o de su negación, traerá como consecuencia la cancelación del Certificado de Aptitud y en su caso, de su calidad de Salarialmente Responsable, a su vencimiento, sin perjuicio del derecho del interesado para formular nueva solicitud.
 
-La omisión de la solicitud de revalidación o de su negación, traerá como consecuencia la cancelación del Certificado de Aptitud a su vencimiento, sin perjuicio del derecho del interesado para formular nueva solicitud.
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 25-A.
+
+Será responsabilidad única y exclusiva de los proveedores registrados, mantener la calidad de Salarialmente Responsable, por lo que en caso de ya no cumplir con esta condición, deberá dar aviso por escrito al Órgano de Control a efecto de que este actualice la anotación en el registro, dicho aviso deberá hacerlo en un plazo de 30 días posteriores a que haya dejado de tener la calidad de Proveedor Salarialmente Responsable.
+
+En caso de ser omiso en la presentación de éste aviso, se dará parte al Órgano de Control para que con base en los procedimientos que correspondan, se determine la cancelación de su calidad de Salarialmente Responsable.
+
+En el supuesto de que el Proveedor Salarialmente Responsable deje de tener esta calidad y que tenga vigentes contratos y asignaciones con cualquier dependencia, entidad o municipio que ejerza presupuesto del erario público del Estado de Coahuila de Zaragoza, se procederá a la inhabilitación en términos de la presente ley por el Órgano de Control.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -408,6 +426,10 @@ V. Cuando como resultado de la revisión de la solicitud de las personas morales
 (ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
 
 VI. Cuando como resultado de la revisión de la solicitud de las personas morales, se detecte que en su capital social participan personas en cuyo capital social a su vez participen personas físicas o morales que se encuentren inhabilitadas por el Órgano de Control, en los términos de esta Ley y la Ley de Obras Públicas y Servicios Relacionados con las Mismas para el Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Se negará la calidad de Salarialmente Responsable a todos aquellos proveedores que incumplan con los requisitos contemplados en la presente ley.
 
 B).- Suspender temporalmente el registro hasta por el término de su vigencia, cuando el proveedor incurra en alguna de las siguientes faltas:
 
@@ -439,7 +461,13 @@ VI. Tenga de conocimiento propio o por parte de terceros de que los bienes adqui
 
 VII. Cualquier otra circunstancia que evidencie hechos de falta de probidad ética o profesional.
 
-Contra las resoluciones que nieguen las solicitudes de inscripción o revalidación o determinen la suspensión o la cancelación del Certificado de Aptitud, el interesado podrá interponer recurso de inconformidad, en los términos de esta Ley.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Se cancelará la calidad de Salarialmente Responsable, a todos aquellos proveedores que incumplan con los requisitos contemplados en la presente ley.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Contra las resoluciones que nieguen las solicitudes de inscripción o revalidación o determinen la suspensión o la cancelación del Certificado de Aptitud, o en su caso de la calidad de Salarialmente Responsable, el interesado podrá interponer recurso de inconformidad, en los términos de esta Ley.
 
 ###### Artículo 27.
 
@@ -739,6 +767,10 @@ XII. La indicación de que cualquier persona podrá asistir a los diferentes act
 
 XIII. Los criterios generales conforme a los cuales se adjudicará el contrato.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+En igualdad de condiciones en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, se preferirá a las personas físicas o morales que hayan acreditado ser Proveedores Salarialmente Responsables, como factor para determinar la adjudicación.
+
 (REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 ###### Artículo 52.
@@ -779,9 +811,9 @@ X. Plazo de entrega, el cual se fijará de acuerdo a las necesidades o premura d
 
 Cuando se trate de diferentes lugares de entrega, podrá establecerse que se propongan precios para cada uno de éstos o uno solo para todos ellos;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XI. Presentar el registro vigente en el padrón de proveedores otorgado por el Órgano de Control;
+XI. Presentar el registro vigente en el padrón de proveedores otorgado por el Órgano de Control, que en su caso, contendrá la anotación que acredita la calidad de Proveedores Salarialmente Responsables.
 
 XII. Requisitos que deberán cumplir quienes deseen participar;
 
@@ -799,7 +831,7 @@ XVII. En el caso de contratos abiertos, la información a que alude el artículo
 
 XVIII. Las penas convencionales que serán aplicables por atraso en la entrega de los bienes o en la prestación de los servicios, en los términos señalados en el artículo 76 de esta Ley;
 
-XIX. Instrucciones para elaborar y entregar las proposiciones y garantías; y (sic)
+XIX. Instrucciones para elaborar y entregar las proposiciones y garantías; y
 
 XX. La indicación de que, en los casos de licitación internacional, en la que la convocante determine que los pagos se harán en moneda extranjera, los proveedores nacionales, exclusivamente para fines de comparación, podrán presentar la parte del contenido importado de sus proposiciones en la moneda extranjera que determine la Convocante, pero el pago se efectuará en moneda nacional al tipo de cambio vigente en la fecha en que se haga el pago de los bienes.
 
@@ -909,13 +941,19 @@ Las Dependencias y Entidades para hacer la evaluación de las proposiciones, deb
 
 No serán objeto de evaluación, las condiciones establecidas por las convocantes que tengan como propósito facilitar la presentación de las proposiciones y agilizar la conducción de los actos de la licitación. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus propuestas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 59.
 
-Una vez hecha la evaluación de las proposiciones, y atendiendo, en su caso, la opinión y dictamen del Comité, el contrato se adjudicará a aquel cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+Una vez hecha la evaluación de las proposiciones, y atendiendo, en su caso, la opinión y dictamen del Comité, el contrato se adjudicará a aquel cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas, y que en su caso haya acreditado ser proveedor Salarialmente Responsable.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, incluyendo, en su caso, el porcentaje previsto por el artículo 17 de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Si las propuestas a que se refiere el párrafo anterior, existieran dos o más propuestas en igualdad de precio, la convocante adjudicará al licitante que hubiere ofrecido mejores condiciones en su propuesta, adicionales a las mismas establecidas en las bases, con relación a los bienes, arrendamientos o servicios a contratar; y en su caso, se encuentre inscrito en el padrón de Proveedores con la anotación que lo identifique como Proveedor Salarialmente Responsable.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -931,7 +969,7 @@ Contra la resolución que contenga el fallo no procederá recurso alguno; sin em
 
 Las Dependencias y Entidades procederán a declarar desierta una licitación y deberán expedir una segunda convocatoria cuando:
 
-a) Las propuestas presentadas no reúnan los requisitos de las bases de la licitación o sus precios, conforme a la investigación que en su caso se realice por la convocante (sic) no fueren aceptables y, volverán a expedir una nueva convocatoria.
+a) Las propuestas presentadas no reúnan los requisitos de las bases de la licitación o sus precios, conforme a la investigación que en su caso se realice por la convocante no fueren aceptables y, volverán a expedir una nueva convocatoria.
 
 b) Los resultados de la investigación a que se refiere el párrafo anterior, por los que se determine que los precios no son aceptables, se incluirán en el dictamen a que alude el artículo 59 de esta Ley. Dicha determinación se hará del conocimiento de los licitantes en el fallo correspondiente.
 
@@ -955,9 +993,9 @@ En este caso, los precios de los bienes o servicios contenidos en una misma part
 
 La Unidad, la Secretaría y las Dependencias y Entidades, en los supuestos a que se refiere el presente capítulo, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos (sic) adquisiciones, arrendamientos y de servicios a través de los procedimientos de invitación a cuando menos tres personas o adjudicación directa.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-La selección del procedimiento que realicen las dependencias y entidades, se hará constar en un dictamen, el cual deberá ser firmado por el titular del área usuaria y el funcionario responsable de la unidad adquirente de los bienes o servicios, el dictamen deberá contener la justificación de las razones para el ejercicio de la opción y estar fundado en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el estado según las circunstancias que concurran en cada caso; además dicho dictamen contendrá:
+La selección del procedimiento que realicen las dependencias y entidades, se hará constar en un dictamen, el cual deberá ser firmado por el titular del área usuaria y el funcionario responsable de la unidad adquirente de los bienes o servicios, el dictamen deberá contener la justificación de las razones para el ejercicio de la opción y estar fundado en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren al Estado las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y promoción de Proveedores Salarialmente Responsables, según las circunstancias que concurran en cada caso; además dicho dictamen contendrá:
 
 I. El valor del contrato;
 
@@ -1043,7 +1081,9 @@ La suma de los montos de los contratos que se realicen al amparo de este artícu
 
 En estos casos, únicamente se invitará a personas cuyas actividades comerciales o profesionales estén relacionadas con los bienes o servicios objeto del contrato a celebrarse.
 
-En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la Dependencia o Entidad podrá adjudicar directamente el contrato, previa autorización escrita de su superior jerárquico.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+En el supuesto de que dos procedimientos de invitación a cuando menos tres personas hayan sido declarados desiertos, el titular del área responsable de la contratación en la Dependencia o Entidad podrá adjudicar directamente el contrato, previa autorización escrita de su superior jerárquico, prefiriendo a aquellas personas físicas o morales que además de no haber tenido incumplimientos durante el ejercicio fiscal en curso en la Administración Pública Estatal, conforme a la información publicada por la áreas mencionadas, se encuentren identificadas en el padrón de Proveedores como Salarialmente Responsables.
 
 Para fomentar el desarrollo y la participación de las empresas estatales, micro, pequeñas y medianas, las Dependencias y Entidades procurarán que en las operaciones comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo, se invite a empresas con domicilio fiscal en el Estado.
 
@@ -1146,6 +1186,10 @@ El licitante a quien se hubiere adjudicado el contrato no estará obligado a sum
 El atraso de la Convocante en la formalización de los contratos respectivos, o en la entrega de anticipos, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
 
 Los derechos y obligaciones que se deriven de los contratos, no podrán cederse en forma parcial ni total en favor de cualquier otra persona, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento de la Convocante de que se trate.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+En los contratos que se celebren para la adjudicación de bienes o la prestación de servicios, deberá establecerse la obligación de la persona física o moral de mantenerse como Proveedor Salarialmente Responsable, en tanto dure el contrato, cuando éste sea el factor que determinó la adjudicación.
 
 ###### Artículo 70.
 
@@ -1287,7 +1331,7 @@ IV. Cuando se rescinda el contrato se formulará el finiquito correspondiente, a
 
 Si previamente a la determinación de dar por rescindido el contrato, se hiciere entrega de los bienes o se prestaren los servicios, el procedimiento iniciado quedará sin efecto, previa aceptación y verificación de la Dependencia o Entidad de que continúa vigente la necesidad de los mismos, aplicando, en su caso, las penas convencionales correspondientes.
 
-La Convocante podrá determinar no dar por rescindido el contrato, cuando durante el procedimiento advierta que la rescisión del contrato pudiera ocasionar algún daño o afectación a las funciones que tiene encomendadas. En este supuesto, deberá elaborar un dictamen en el cual justifique que venientes los impactos económicos o de operación que se ocasionarían con la rescisión del contrato resultarían más inconvenientes.
+La Convocante podrá determinar no dar por rescindido el contrato, cuando durante el procedimiento advierta que la rescisión del contrato pudiera ocasionar algún daño o afectación a las funciones que tiene encomendadas. En este supuesto, deberá elaborar un dictamen en el cual justifique que los impactos económicos o de operación que se ocasionarían con la rescisión del contrato resultarían más inconvenientes.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -1295,11 +1339,11 @@ Al no dar por rescindido el contrato, la convocante establecerá con el proveedo
 
 Las Dependencias y Entidades podrán establecer en las bases de licitación, invitaciones y contratos, deducciones al pago de bienes o servicios con motivo del incumplimiento parcial o deficiente en que pudiera incurrir el proveedor respecto a las partidas o conceptos que integran el contrato. En estos casos, establecerán el límite de incumplimiento a partir del cual podrán cancelar total o parcialmente las partidas o conceptos no entregados, o bien rescindir el contrato en los términos de este artículo.
 
-Cuando por motivo del atraso en la entrega de los bienes o la prestación de los servicios, o el procedimiento de rescisión se ubique en un ejercicio fiscal diferente a aquél en que hubiere sido adjudicado el contrato, la Dependencia o Entidad convocante podrá recibir los bienes o servicios, previa verificación de que continúa vigente la necesidad de los mismos y se cuenta con partida y disponibilidad presupuestaria del ejercicio fiscal vigente, debiendo modificarse la vigencia del contrato con los precios originalmente pactados. Cualquier pacto en contrarío a lo dispuesto en este artículo se considerará nulo.
+Cuando por motivo del atraso en la entrega de los bienes o la prestación de los servicios, o el procedimiento de rescisión se ubique en un ejercicio fiscal diferente a aquél en que hubiere sido adjudicado el contrato, la Dependencia o Entidad convocante podrá recibir los bienes o servicios, previa verificación de que continúa vigente la necesidad de los mismos y se cuenta con partida y disponibilidad presupuestaria del ejercicio fiscal vigente, debiendo modificarse la vigencia del contrato con los precios originalmente pactados. Cualquier pacto en contrario a lo dispuesto en este artículo se considerará nulo.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
-Así mismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al estado, o se determine la nulidad total o parcial de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad emitida por el Órgano de Control En (sic) estos supuestos la dependencia o entidad reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
+Así mismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al estado, o se determine la nulidad total o parcial de los actos que dieron origen al contrato, con motivo de la resolución de una inconformidad emitida por el Órgano de Control En estos supuestos la dependencia o entidad reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
 
 ###### Artículo 78.
 
@@ -1313,7 +1357,7 @@ Cuando en la prestación del servicio se presente caso fortuito o de fuerza mayo
 
 Cuando la suspensión obedezca a causas imputables a la Convocante, en las bases de la licitación y el contrato, deberá preverse la forma de pagar al proveedor los gastos no recuperables durante el tiempo que dure esta suspensión.
 
-En cualquiera de los casos previstos en este articulo, se pactará por las partes el plazo de suspensión, a cuyo término podrá iniciarse la terminación anticipada del contrato.
+En cualquiera de los casos previstos en este artículo, se pactará por las partes el plazo de suspensión, a cuyo término podrá iniciarse la terminación anticipada del contrato.
 
 ## TÍTULO CUARTO. DE LA VERIFICACIÓN Y CONTROL DOCUMENTAL
 
@@ -1710,3 +1754,19 @@ P.O. 19 DE ABRIL DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- El Ejecutivo a través de la Secretaría de Fiscalización y Rendición de Cuentas, tendrá 30 días, contados a partir de la entrada en vigor, para establecer el proceso o mecanismo y condiciones técnicas necesarias para habilitar y adecuar los Padrones de Contratistas de Obra Pública del Gobierno del Estado y el de Proveedores de la Administración Pública del Estado, a fin de dar cumplimiento al presente decreto.
+
+TERCERO.- Se abrirá un plazo inicial de 90 días contados a partir de que se habilite el registro de Proveedores y Contratistas Salarialmente Responsables, para los proveedores que opten por obtener la condición de Salarialmente Responsable y con ello sean potencialmente beneficiados en los procesos de adjudicación y contratación que ejecuta la administración pública estatal.
+
+CUARTO.- Para los proveedores y contratistas que ya se encuentren inscritos en el padrón y que estos acrediten su calidad de Salarialmente Responsables dentro del plazo del artículo anterior, se entenderá que ésta se renovará conjuntamente con su certificado de aptitud.
+
+QUINTO.- Las disposiciones correspondientes a la Unidad de Cuenta serán aplicables una vez que haya entrado en vigor la Ley de la Unidad de Cuenta del Estado de Coahuila de Zaragoza.
+
+SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
