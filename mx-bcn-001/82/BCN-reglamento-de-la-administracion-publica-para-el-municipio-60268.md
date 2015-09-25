@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-09-11"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -1641,7 +1641,9 @@ La Dirección de Administración de Bienes Patrimoniales tendrá a su cargo el c
 
 La Dirección de Catastro y Control Urbano tendrá como función, integrar y administrar el catastro inmobiliario municipal, que se estructura con el conjunto de registros, padrones y documentos que permitan la identificación, localización, descripción, deslinde, cartografía, y valuación de todos los bienes inmuebles ubicados en el territorio municipal; conducir los procedimientos y emitir la autorización de acciones de urbanización, de acciones para la ejecución de edificaciones, la implementación del régimen de propiedad en condominio, y las que deriven en materia de uso de suelo e imagen urbana, ejerciendo las funciones de que en lo indicado se confieren al Ayuntamiento en la Ley de Desarrollo Urbano del Estado de Baja California, y las Leyes, Reglamentos y normatividad que de ella emanen, los acuerdos y convenios que al respecto suscriba el Gobierno municipal, así como las que le instruya el Presidente Municipal, ejerciendo las atribuciones que se confieren al Ayuntamiento en la Ley de Catastro Inmobiliario del Estado de Baja California, así como las que le establece el reglamento municipal de la materia.
 
-Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro, Control Urbano tendrá bajo su cargo las siguientes áreas; una Subdirección y siete departamentos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Para el cumplimiento de lo señalado en el párrafo anterior, la Dirección de Catastro, Control Urbano tendrá bajo su cargo las siguientes áreas; una sub dirección y ocho departamentos:
 
 I. Subdirección
 
@@ -1658,6 +1660,10 @@ VI. Fraccionamientos;
 VII. Licencias de construcción;
 
 VIII. Inspecciones y Denuncias; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Ingeniería de Tránsito.
 
 La Dirección de Catastro y Control Urbano, contará con una oficina de despacho en la Zona Sur del Municipio.
 
@@ -1678,6 +1684,38 @@ IV.- Proponer al Director de Catastro y Control Urbano a los Profesionistas o pe
 V.- Proponer al Directo (sic) de Catastro y Control Urbano las medidas preventivas que la dependencia estime necesarias para la buena administración de los bienes del municipio, y así como el correcto ejercicio del gasto público municipal;
 
 VI.- Las demás que el Director de Catastro y Control Urbano le asigne.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 72 TER.- Corresponde al Departamento de Ingeniería de Tránsito:
+
+I. Instrumentación de programas y acciones de movilidad en vialidades.
+
+II. Señalamiento vial y semaforización, en coordinación con la Dirección de Servicios Públicos Municipales.
+
+III. Promoción, control y vigilancia de las ciclovías y áreas peatonales.
+
+IV. Promover la solución de cruceros y tramos viales conflictivos, (sic) coordinación con las instancias que correspondan.
+
+V. Diseñar campañas de educación vial.
+
+VI. Llevar las estadísticas en materia de accidentalidad, diseñando operativos y dispositivos para su prevención.
+
+VII. Recepción, revisión y seguimiento de las peticiones ciudadanas que involucren cuestiones viales, en coordinación con la Dirección de Servicios Público (sic) Municipales.
+
+VIII. Revisión y opinión de los estudios de impacto vial, solicitados por la Dirección de Catastro y Control Urbano.
+
+IX. Revisión y autorización de los lineamientos viales de los nuevos desarrollos, para que éstos cumplan con las normas establecidas, asegurando la continuidad de las vialidades.
+
+X. Revisión y autorización de las integraciones viales de los nuevos desarrollos, para que éstos cumplan con las normas establecidas, asegurando el funcionamiento correcto interno y externo de éstas.
+
+XI. Revisión y autorización de los proyectos que involucren modificaciones viales, ya sean municipales o estatales para que estos cumplan con las normas establecidas, asegurando el funcionamiento correcto interno y externo de éstas.
+
+XII. Autorización de espacios exclusivos comerciales y residenciales, asegurando que éstos cumplan con el espacio mínimo según la normatividad aplicable.
+
+XIII. Revisión de espacios exclusivos residenciales para personas con discapacidad, asegurando que éstos cumplan con el espacio mínimo según la normatividad aplicable.
+
+XIV. Las demás que le confiera la normatividad municipal o le encomiende su superior jerárquico.
 
 ###### ARTÍCULO 73.
 
@@ -2726,3 +2764,7 @@ PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta 
 SEGUNDO.- Una vez siendo aprobada la presente reforma, la Dirección funcionará con los recursos humanos de acuerdo a la estructura establecida en el artículo 40 Cuarter del presente reglamento.
 
 TERCERO.- La persona designada por el Presidente Municipal para ocupar el cargo Director, deberá contar con experiencia en el sector pesquero, así como en la administración y gestión de recursos.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
