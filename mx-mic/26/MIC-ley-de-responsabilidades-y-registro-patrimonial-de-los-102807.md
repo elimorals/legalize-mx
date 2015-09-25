@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-y-registro-patrimonial-de-los-102807"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-14"
-last_updated: "2015-04-30"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2014.
 
@@ -747,7 +747,19 @@ Se considerarán entre los bienes de los servidores públicos aquellos a su nomb
 
 Faltas a la verdad. El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que es obligatorio declarar, o cuyos bienes no guarden congruencia con sus ingresos, será sancionado con suspensión no menor de tres días ni mayor a un año, conforme el procedimiento de responsabilidad establecido en esta ley. Cuando la falta lo amerite, el servidor público podrá ser destituido e inhabilitado de uno a tres años.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 54.
+
+Serán sancionados en los términos que disponga el Artículo 240 del Código Penal para el Estado de Michoacán, los servidores públicos que incurran en enriquecimiento ilícito.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 55.
+
+Para efectos de la aplicación de esta Ley y del Código Penal para el Estado de Michoacán, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos salvo que se acredite que estos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
+
+###### Artículo 56.
 
 Publicidad. La publicitación de la información relativa a la situación patrimonial se hará siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate.
 
@@ -800,3 +812,7 @@ Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, par
 ###### ARTÍCULO TERCERO.
 
 Notifíquese el presente Decreto al Poder Judicial y Consejo del Poder Judicial del Estado, a la Auditoría Superior de Michoacán, y a los Ayuntamientos del Estado de Michoacán, para los efectos legales.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
