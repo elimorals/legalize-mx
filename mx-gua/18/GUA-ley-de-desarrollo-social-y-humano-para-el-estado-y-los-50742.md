@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-social-y-humano-para-el-estado-y-los-50742"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-02"
-last_updated: "2013-06-07"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50742&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DESARROLLO SOCIAL Y HUMANO PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de junio de 2006.
 
@@ -185,7 +185,7 @@ IX. Implementar los mecanismos de coordinación para ejercer los fondos y recurs
 
 X. Informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el ejercicio de los fondos y recursos federales que los ayuntamientos realicen en los términos de los convenios específicos;
 
-XI. Informar a la sociedad sobre las acciones en torno al desarrollo social, y (sic)
+XI. Informar a la sociedad sobre las acciones en torno al desarrollo social, y
 
 > <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -241,13 +241,13 @@ XI. Informar a la sociedad sobre las acciones en torno al desarrollo social y hu
 
 XII. Las demás que les señalen esta Ley y las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ## TÍTULO SEGUNDO. De las políticas públicas estatal y municipales para el desarrollo social y humano
 
 ### CAPÍTULO I. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 9.
 
@@ -273,7 +273,9 @@ VII. Respeto a la diversidad: Reconocimiento a las personas sin importar su orig
 
 VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a los recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
 
-IX. Transparencia: Toda la información que surja de los planes, programas, presupuestos y acciones de desarrollo social será pública, con las salvedades que señala la Ley de Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Transparencia: Toda la información que surja de los planes, programas, presupuestos y acciones de desarrollo social será pública, con las salvedades que señala la Ley General de la Trasparencia y Acceso a la Información y la de Ley (sic) Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, y
 
 X. Subsidiaridad: Reconocimiento, aprovechamiento y complementación de las capacidades individuales y colectivas existentes en la comunidad, con el propósito de que las personas y comunidades reduzcan sus niveles de dependencia hacia los agentes externos y aumenten así el grado de control sobre las decisiones que les afectan para su desarrollo integral.
 
@@ -317,9 +319,9 @@ VI. Desarrollo sustentable;
 
 VII. Atención a grupos vulnerables, y
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Equidad de género.
+VIII. Para la Igualdad de género.
 
 ###### Artículo 12.
 
@@ -372,6 +374,10 @@ IX. Los programas y fondos públicos que promuevan la generación y conservació
 X. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación y equipamiento urbano, y
 
 XI. Los programas para la protección al ambiente y preservación de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Las limitantes señaladas en el artículo 32 fracción I de la Ley de Fomento a las Actividades de las Organizaciones de la Sociedad Civil en el Estado de Guanajuato, no aplicarán en los programas señalados en este artículo, cuando así se consigne en las convocatorias respectivas.
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -459,7 +465,7 @@ El Gobierno del Estado y los ayuntamientos, cada año, harán del conocimiento p
 
 La publicidad e información relativa a los programas de desarrollo social y humano deberán identificarse perfectamente incluyendo la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO IV. Del sector social de la economía
 
@@ -605,11 +611,9 @@ El Padrón Estatal de Beneficiarios de Programas de Desarrollo Social y Humano s
 
 ## TÍTULO CUARTO. De la participación social
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO UNICO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. Del Registro Estatal de Organizaciones de la Sociedad
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 32.
 
@@ -617,7 +621,7 @@ El Gobierno del Estado y los ayuntamientos garantizarán el derecho de la socied
 
 ###### Artículo 33.
 
-El Gobierno del Estado y los ayuntamientos deberán promover la participación organizada amplia, plural y democrática de la población a través de figuras asociativas.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 34.
 
@@ -625,15 +629,7 @@ El Gobierno del Estado y los ayuntamientos estimularán la organización de pers
 
 ###### Artículo 35.
 
-Las organizaciones que tengan por objeto impulsar el bienestar y el desarrollo social y humano en el Estado, podrán participar en la elaboración, promoción, ejecución y evaluación de los programas en los términos de la Ley de planeación para el Estado de Guanajuato.
-
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
-
-El Gobierno del Estado podrá realizar acciones e inversiones conjuntas con diferentes organizaciones. Las organizaciones podrán participar corresponsablemente en la ejecución de programas y acciones en materia de desarrollo social.
-
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
-
-Las organizaciones podrán recibir recursos o fondos públicos para operar proyectos para el desarrollo social, quedando sujetas a la supervisión, control y vigilancia de las autoridades competentes, conforme a las disposiciones jurídicas aplicables.
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
@@ -643,41 +639,17 @@ Las organizaciones podrán recibir recursos o fondos públicos para operar proye
 
 ###### Artículo 36.
 
-La Secretaría constituirá y mantendrá actualizado el Registro Estatal de Organizaciones de la Sociedad, con el objeto de asentar los datos de las organizaciones que contribuyan con sus acciones al desarrollo social de la entidad.
-
-El Registro tendrá las finalidades siguientes:
-
-I. Contar con bases de datos fidedignas que permitan medir el impacto de la promoción y participación social para el desarrollo social;
-
-II. Reconocer las acciones que lleven a cabo las organizaciones, para el otorgamiento de apoyos y estímulos públicos;
-
-III. Mantener un control sobre los recursos asignados a las organizaciones registradas, para dar transparencia en su aplicación;
-
-IV. Dar seguimiento al cumplimiento de las acciones contempladas en el convenio suscrito con la autoridad correspondiente, y
-
-V. Garantizar la transparencia e imparcialidad.
-
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 37.
 
-Las organizaciones inscritas en el Registro Estatal de Organizaciones de la Sociedad, tendrá (sic) las obligaciones siguientes:
+(DEROGADO, P.O. 25 DE SEPTIEMBRE DE 2015)
 
-I. Informar a la Secretaría, cualquier modificación a su objeto, domicilio, representación legal o estatutos en un plazo máximo de quince días hábiles contados a partir de la misma;
-
-II. Mantener a disposición de las autoridades competentes, la información relativa a las actividades que realicen, así como las facilidades para la supervisión correspondiente;
-
-III. Destinar la totalidad de los recursos programados al cumplimiento de las acciones concertadas o respecto de las cuales se expida la constancia de objeto social;
-
-IV. Abstenerse de efectuar actividades, proselitismo o propaganda con fines políticos, y
-
-V. Las demás que se establezcan en el convenio que suscriban con la autoridad correspondiente.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ## TÍTULO QUINTO. De la evaluación
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO ÚNICO. De las Sanciones
 
@@ -705,11 +677,11 @@ Con base en los resultados de las evaluaciones se deberán formular las observac
 
 La evaluación será interna o externa, misma que se le deberá dar publicidad.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ## TÍTULO SEXTO. De las Responsabilidades
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 41.
 
@@ -760,3 +732,9 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Único. El Artículo Segundo de este Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
