@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidades-administrativas-de-los-servidores-4483
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-10"
-last_updated: "2013-10-18"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley Publicada en el Periódico Oficial del Estado de Guanajuato, el martes 10 de mayo de 2005.
 
@@ -311,11 +311,11 @@ VI.- Realizar por sí o inducir a otro servidor público para que anticipe, retr
 
 VII.- Dirigir, administrar, asesorar, patrocinar, representar o prestar servicios remunerados a personas físicas o morales que gestionen o exploten contratos, convenios o concesiones con algunas de las autoridades señaladas en el artículo 3 de esta Ley, o que fueren proveedores o contratistas de las mismas, que implique intereses en conflicto;
 
-VIII.- Causar con su actuar daños a los particulares que se traduzcan en responsabilidad patrimonial en los términos de la Ley de Responsabilidad Patrimonial del Estado y los Municipios de Guanajuato, y (sic)
+VIII.- Causar con su actuar daños a los particulares que se traduzcan en responsabilidad patrimonial en los términos de la Ley de Responsabilidad Patrimonial del Estado y los Municipios de Guanajuato, y
 
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-IX.- Realizar cualquier conducta de coacción psicológica, física o verbal, que atente contra la integridad física o psicológica de una persona; y (sic)
+IX.- Realizar cualquier conducta de coacción psicológica, física o verbal, que atente contra la integridad física o psicológica de una persona; y
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -409,15 +409,19 @@ II.- La jerarquía del servidor público y su antigüedad en el puesto, así com
 
 III.- La condición económica del servidor público;
 
-IV.- El monto del beneficio obtenido y el daño o perjuicio ocasionado con la falta, y (sic)
+IV.- El monto del beneficio obtenido y el daño o perjuicio ocasionado con la falta, y
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-V.- La afectación en la prestación al desarrollo del servicio público, y
+V.- La afectación en la prestación al desarrollo del servicio público;
 
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VI.- Las circunstancias de ejecución de la falta.
+VI.- Las circunstancias de ejecución de la falta; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VII.- La reincidencia de la conducta.
 
 ###### Artículo 21.
 
@@ -446,6 +450,10 @@ a) Se aplicará una sanción económica de un tanto un tercio hasta un tanto un 
 b) Se aplicará una sanción económica mayor a un tanto un medio hasta dos tantos un medio del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a 500 salarios mínimos pero que no rebase los 1000 salarios mínimos vigentes en el Estado.
 
 c) Se aplicará una sanción económica mayor a dos tantos un medio hasta tres tantos del monto del lucro, beneficio o ventaja obtenida o del daño o perjuicio causado, cuando éste sea superior a los 1000 salarios mínimos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+La reincidencia de la conducta cometida por el infractor, agravará la sanción impuesta hasta el doble de la correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1061,7 +1069,7 @@ VI.- Los que realicen funciones de líder de proyecto, promotor, supervisor, ver
 
 VII.- Los que desempeñen servicios de atención o resolución de trámites directos o indirectos con el público;
 
-VIII.- Los que realicen adquisiciones o comercialicen bienes y servicios, y (sic)
+VIII.- Los que realicen adquisiciones o comercialicen bienes y servicios, y
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1218,3 +1226,7 @@ Artículo Primero. El presente decreto entrará en vigencia noventa días siguie
 Artículo Segundo. Las responsabilidades y sanciones administrativas por conductas cometidas con anterioridad a la vigencia del presente decreto, prescribirán de conformidad con las reglas vigentes al momento de la comisión de la conducta.
 
 Artículo Tercero. Los procedimientos de responsabilidad administrativa por conductas cometidas con anterioridad a la vigencia del presente decreto, continuarán su trámite con la normativa con la que se iniciaron, hasta su conclusión.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
