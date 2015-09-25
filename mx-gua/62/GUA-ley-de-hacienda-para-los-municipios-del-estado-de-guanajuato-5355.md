@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2015-07-07"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -759,7 +759,9 @@ II.- Las comprendidas en las fracciones II, IV y VII la cantidad que represente 
 
 Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros públicos, Notarios, Corredores y, en general, a los funcionarios que lleven la fe pública, la que a continuación se indica:
 
-I.- Cuando se consignen en las declaraciones para el pago del Impuesto sobre Traslación de dominio, datos diversos a los que constan en la escritura correspondiente.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+I.- Cuando se consignen en las declaraciones para el pago del impuesto sobre adquisición de bienes inmuebles, datos diversos a los que constan en la escritura correspondiente.
 
 II.- No hacer la manifestación de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales.
 
@@ -1697,11 +1699,15 @@ Si los ocupantes se opusieran en cualquier forma a la inspección del perito des
 
 En estos casos la valuación se hará con base en los elementos de que se disponga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 178.
 
-Los derechos por la práctica de avalúos serán cubiertos de acuerdo con las cuotas que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, en los casos siguientes:
+Los derechos por la práctica de avalúos serán cubiertos de acuerdo con las cuotas que se establezcan anualmente en las leyes de ingresos para los municipios del estado de Guanajuato, en los casos siguientes:
 
-I.- No se haya aprobado el presentado, para determinar la base del Impuesto sobre Traslación de Dominio;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+I.- No se haya aprobado el presentado, para determinar la base del impuesto sobre adquisición de bienes inmuebles;
 
 II.- Medie solicitud del interesado;
 
@@ -1709,29 +1715,53 @@ III.- Se realicen construcciones o mejoras; y
 
 IV.- Existan inmuebles ocultos a la acción fiscal.
 
-### CAPITULO SEGUNDO. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO II. DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 179.
 
-Están obligados al pago de este Impuesto las personas físicas o morales que transmiten o adquieren por cualquier título o causa, bienes inmuebles ubicados en el Estado, así como los derechos reales vinculados a los mismos.
+Están obligadas al pago del impuesto sobre adquisición de bienes inmuebles, las personas físicas o morales que adquieran por cualquier título o causa, bienes inmuebles ubicados en el Estado, así como los derechos reales vinculados a los mismos.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan realizado la Federación, el Estado o los Municipios para formar parte del dominio público y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+ARTICULO 179 BIS.- El objeto de este impuesto es la adquisición de bienes inmuebles. Para efectos de este artículo, se entiende por adquisición de bienes inmuebles lo siguiente:
 
-> <small>(ADICIONADO, P. O. 22 DE DICIEMBRE DE 1998)</small>
+I.- Todo acto por el que se adquiera la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades de cualquier naturaleza;
 
-En fideicomisos se estará sujeto al pago de este impuesto, en los siguientes supuestos:
+II.- La compraventa en la que el vendedor se reserva los derechos de dominio, aun cuando la transferencia de éstos opere con posterioridad;
 
-I.- Cuando el fideicomitente, designa o se obliga a designar fideicomisario diverso de él, siempre que no tenga derecho a readquirir del fiduciario el o los bienes inmuebles;
+III.- La cesión de derechos al comprador o al futuro comprador, en el caso de la fracción II de este artículo;
 
-II.- Cuando el fideicomitente pierda el derecho a readquirir los bienes inmuebles del fiduciario, si se hubiera reservado tal derecho;
+IV.- La fusión y escisión de sociedades;
 
-III.- La cesión de los derechos que se tengan, sobre los bienes inmuebles afectos al fideicomiso, en cualquiera de los siguientes casos:
+V.- El pago en especie, independientemente del acto jurídico que lo origine;
 
-a).- Cuando el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad del o los bienes a un tercero; y
+VI.- La adquisición de inmuebles por prescripción;
 
-b).- Cuando el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor.
+VII.- La adquisición por medio de fideicomiso en los siguientes casos:
+
+a) En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él, siempre que no tenga derecho a readquirir del fiduciario los bienes; y
+
+b) El acto en el que el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho;
+
+VIII.- La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+a) En el acto en que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos, se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones; y
+
+b) En el acto en que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se transmitan a su favor;
+
+IX.- La adquisición, a través de permuta, caso en el que se considerará que se efectúan dos adquisiciones;
+
+X.- La adjudicación que derive de procedimientos judiciales o administrativos;
+
+XI.- La devolución de la propiedad de bienes a consecuencia de la rescisión o terminación del contrato que le da origen, por mutuo acuerdo o la reversión en caso de expropiaciones, así como por procedimientos judiciales o administrativos; y
+
+XII.- Cualquier otro acto o contrato por el que se adquieran bienes inmuebles o derechos sobre los mismos.
+
+No se causará este impuesto tratándose de adquisiciones de inmuebles que haya realizado la Federación, el Estado o los municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo, en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos de los contratos de arrendamiento financiero.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
@@ -1773,7 +1803,7 @@ III.- La cantidad que represente veinte veces el salario mínimo general elevado
 
 La reducción a que se refieren las fracciones II y III se aplicará siempre y cuando sea la única propiedad o posesión del contribuyente, en caso contrario, se estará a lo dispuesto por la fracción I de este artículo.
 
-Para los efectos de este impuesto y se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 182.
 
@@ -1781,7 +1811,7 @@ La reducción a que se refiere el Artículo anterior, se otorgará por unidad u 
 
 Tratándose de inmuebles que estén constituidos por departamentos habitacionales, la reducción a que se refiere el artículo anterior, se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
-Cuando se transmita el usufructo o la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 183.
 
@@ -1833,9 +1863,11 @@ Este Impuesto se causará y liquidará de acuerdo con las tasas y cuotas que est
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 1996)
 
-###### Artículo 191.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-Para la recaudación y control del impuesto serán aplicables las normas y plazos que para el pago del impuesto sobre Traslación de Dominio establecen la presente Ley.
+###### ARTICULO 191.
+
+Para la recaudación y control del impuesto serán aplicables las normas y plazos que para el pago del impuesto sobre adquisición de bienes inmuebles establecen la presente Ley.
 
 ### CAPITULO CUARTO. DEL IMPUESTO DE FRACCIONAMIENTOS
 
@@ -2610,3 +2642,9 @@ Artículo Tercero. Para efectos del artículo anterior, el Ejecutivo del Estado,
 P.O. 7 DE JULIO DE 2015.
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Para los efectos de la legislación aplicable que refiera al impuesto sobre traslación de dominio se entenderá en lo sucesivo el impuesto sobre adquisición de bienes inmuebles.
