@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2015-09-11"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y 2 DE OCTUBRE DE 2015 RESPECTIVAMENTE, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1647,7 +1647,7 @@ Al iniciarse el procedimiento de terminación de la sociedad conyugal cesarán i
 
 Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
 
-I. La lista detallada de los bienes muebles e inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
+I. La lista detallada de los bienes |muebles e inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
 
 II. La nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
 
@@ -7087,7 +7087,7 @@ El usufructo concedido por el tiempo que tarde un tercero en llegar a cierta eda
 
 ###### Art. 1139.
 
-Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; mas si estuviere constituido sobre una hacienda, quinta o rancho de que solo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
+Si el usufructo está constituido sobre un edificio, y éste se arruina por incendio, por vetustez o por algún otro accidente, el usufructuario no tiene derecho de gozar el solar ni de los materiales; mas si estuviere constituido sobre una hacienda, quinta o rancho de que sólo forme parte el edificio arruinado, el usufructuario podrá continuar usufructuando el solar y los materiales.
 
 ###### Art. 1140.
 
@@ -14001,7 +14001,7 @@ Cuando se trate de fincas no inscritas, la inscripción primaria sólo podrá ha
 
 ###### Art. 2506.
 
-La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por notario que haya autorizado la escritura de que se trate.
 
 ###### Art. 2507.
 
@@ -14277,7 +14277,7 @@ Cuando toda la herencia se distribuyere en legados, los legatarios serán consid
 
 ###### Art. 2543.
 
-Si el autor de la herencia y sus herederos o legatarios perecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+Si el autor de la herencia y sus herederos o legatarios parecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
 
 ###### Art. 2544.
 
@@ -15251,7 +15251,7 @@ II. Público cerrado;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-III. Público simplificado y
+III. Público simplificado;
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -15451,11 +15451,11 @@ El testamento cerrado que carezca de alguna de las formalidades sobredichas, que
 
 ###### Art. 2790.
 
-Cerrado y autorizado el testamento, se entregará al testador, y el notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
+Cerrado y autorizado el testamento, se entregará al testador, y notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
 
 ###### Art. 2791.
 
-Por la infracción del artículo anterior no se anulará el testamento, pero el notario incurrirá en la sanción de suspensión hasta por seis meses.
+Por la infracción del artículo anterior no se anulará el testamento, pero notario incurrirá en la sanción de suspensión hasta por seis meses.
 
 ###### Art. 2792.
 
@@ -17139,6 +17139,8 @@ Adecuaciones de los Centros de Asistencia Social
 
 Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
 
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 Designación de representantes de la sociedad civil ante el Sistema
 
-Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
