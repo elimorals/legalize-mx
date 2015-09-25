@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-instituto-de-capacitacion-para-el-90374
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-21"
-last_updated: "2012-11-21"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 21 de noviembre de 2012.
 
@@ -269,7 +269,13 @@ X. Crear e impulsar los mecanismos que garanticen la transparencia y rendición 
 
 XI. Aplicar las sanciones que señale la reglamentación de ICATSIN; y,
 
-XII. Las demás que le otorguen las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Certificar los documentos que contengan los archivos del Instituto.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Las demás que le otorguen las disposiciones jurídicas aplicables.
 
 ###### Artículo 15.
 
@@ -531,6 +537,8 @@ XVIII. Desarrollar e impulsar modelos de gestión de las competencias del person
 
 XIX. Las demás que le confieran las leyes, decretos, reglamentos y acuerdos, o que expresamente le encomiende el Director General.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
 Al titular de esta unidad administrativa se le denominará Director Técnico Académico, quien para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas siguientes:
@@ -538,6 +546,8 @@ Al titular de esta unidad administrativa se le denominará Director Técnico Aca
 Departamento de Planes y Programas de Estudio
 
 Departamento de Apoyo a Docentes
+
+Departamento de Certificación y Evaluación de Competencias
 
 #### Sección VII. De la Dirección de Vinculación
 
@@ -882,3 +892,11 @@ Es dado en la ciudad de Culiacán Rosales, Sinaloa, a los 15 días del mes de no
 DR. FRANCISCO C. FRÍAS CASTRO
 
 Secretario de Educación Pública y Cultura y Presidente de la Junta Directiva del Instituto de Capacitación para el Trabajo del Estado de Sinaloa.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero.- La presente modificación al Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo.- El Instituto formulará la modificación a su manual de organización, dentro de un plazo de sesenta días, contados a partir de la entrada en vigor de este Reglamento.
