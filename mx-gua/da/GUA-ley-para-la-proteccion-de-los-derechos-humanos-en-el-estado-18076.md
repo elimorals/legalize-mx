@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2015-09-11"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015, NÚMERO 154, DÉCIMA TERCERA PARTE, PÁGINA 93 Y EL 2 DE OCTUBRE DE 2015, NÚMERO 158, CUARTA PARTE, PÁGINA 3, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2015.</small>
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
