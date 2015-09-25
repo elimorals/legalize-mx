@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2012-del-pleno-del-consejo-de-la-88462"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-07-03"
-last_updated: "2012-07-03"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88462&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-27"
 
 ACUERDO GENERAL 21/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELACIONADO CON "EL PROGRAMA DE PRÁCTICAS JUDICIALES EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL CONSEJO DE LA JUDICATURA FEDERAL"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 3 de julio de 2012.
 
@@ -59,23 +59,31 @@ Artículo Primero. El Consejo de la Judicatura Federal aprueba la aplicación de
 
 Queda prohibida la ocupación de meritorios y personas que presten servicios o realicen actividades propias del servicio judicial, sin recibir remuneración o apoyo económico alguno procedente del Consejo de la Judicatura Federal. Los que deseen realizar prácticas judiciales, deberán incluirse en el Programa materia de este Acuerdo General.
 
-Artículo Segundo. El citado Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares. Se distribuirán 3 participantes por Tribunal Colegiado de Circuito; 1 por Tribunal Unitario y 2 por Juzgado de Distrito. El pago de este apoyo económico se hará por quincena, según lo determinen las normas respectivas del propio Consejo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo Tercero. Para implementar este Programa y facilitar la capacitación integral en el desarrollo profesional, individual y social de los estudiantes beneficiados, se dispone lo siguiente:
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-a) Convocatoria. La Comisión de Administración publicará la Convocatoria a fin de que los aspirantes se registren y cumplan con los requisitos establecidos en ella.
+Artículo Segundo. El Programa se aplicará en todos los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal, tanto ordinarios como auxiliares. Se distribuirá 1 participante por cada ponencia de los tribunales Colegiados de Circuito; 1 por tribunal Unitario, 2 por juzgado de Distrito, incluyendo a los jueces de Distrito y tribunales unitarios adscritos a los Centros de Justicia Penal Federal. El pago de este apoyo económico se hará a mes vencido, según lo determinen las normas respectivas del Consejo.
 
-Las subsecuentes Convocatorias se publicarán a solicitud de los órganos jurisdiccionales.
+Corresponde al Instituto de la Judicatura la coordinación del Programa de Prácticas Judiciales.
 
-b) Elección de los beneficiarios. Es facultad de los titulares de los órganos jurisdiccionales, la elección de los beneficiarios dentro de los candidatos que se postulen para incluirse en el Programa, de acuerdo con la Convocatoria correspondiente que emita la Comisión de Administración, cada vez que sea necesario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c) Recepción de Documentos. Cada órgano jurisdiccional señalará la fecha y lugar de recepción de documentos y solicitudes, así como los resultados de la selección.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-d) Duración del apoyo económico. doce meses, sin posibilidad de prórroga, y en tanto que el estudiante se mantenga dentro del promedio exigido o su equivalente (artículo cuarto, inciso e).
+Artículo Tercero. La implementación del Programa se sujetará a lo siguiente:
 
-e) Formalización. A través de suscripción de la Carta Compromiso, elaborada por la Dirección General de Asuntos Jurídicos.
+a) Elección de los beneficiarios: Los magistrados de Circuito y los jueces de Distrito serán los encargados de reclutar, elegir y postular al estudiante beneficiario que realizará las Prácticas Judiciales en su propia adscripción.
 
-f) Horario para el desarrollo de las actividades. No será mayor a cuatro horas por día; se determinará por el titular del órgano jurisdiccional, de conformidad con las necesidades de éste y el horario académico del beneficiado.
+El Instituto de la Judicatura podrá llevar a cabo el reclutamiento y selección de los candidatos a solicitud de los magistrados de Circuito y jueces de Distrito;
+
+b) Recepción de Documentos: Cada magistrado de Circuito o juez de Distrito señalará la fecha y lugar de recepción de documentos y solicitudes, así como los resultados de la selección;
+
+c) Duración del apoyo económico: Doce meses, sin posibilidad de prórroga, y en tanto que el alumno se mantenga como estudiante activo y dentro del promedio exigido o su equivalente previsto en el artículo cuarto, inciso e) de este Acuerdo;
+
+d) Formalización: A través de suscripción de la Carta Compromiso, elaborada por la Dirección General de Asuntos Jurídicos y de la validación documental del área encargada de coordinar el Programa de Prácticas Judiciales en el Instituto de la Judicatura, quien publicará mensualmente en su página de Internet, la relación de alumnos incorporados al Programa, y generará la identificación de manera centralizada para ser enviada al estudiante para iniciar sus prácticas; y
+
+e) Horario para el desarrollo de las actividades: No será mayor a cuatro horas por día; y lo determinarán los magistrados de Circuito y los jueces de Distrito, según corresponda, de conformidad con las necesidades y el horario académico del beneficiado.
 
 Artículo Cuarto. En el disfrute de los apoyos económicos otorgados, los beneficiarios se obligan a:
 
@@ -83,7 +91,11 @@ a) Suscribir la Carta Compromiso;
 
 b) Observar buena conducta dentro y fuera del órgano jurisdiccional;
 
-c) Acreditar haber aprobado cuando menos el 60% de los créditos de la Licenciatura en Derecho y haber obtenido un promedio general no menor de 80 en una escala de cero a cien;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+c) Acreditar haber aprobado cuando menos el 60% y hasta el 80% de los créditos de la Licenciatura en Derecho o su equivalente y haber obtenido un promedio general no menor de 80 en una escala de cero a cien. Siempre y cuando, conforme al plan de estudios respectivo, la conclusión de los estudios se lleve a cabo de forma posterior a los doce meses del Programa;
 
 d) Ser alumno regular del ciclo escolar respectivo;
 
@@ -95,7 +107,11 @@ g) Preservar la secrecía y sigilo respecto de los expedientes o información de
 
 h) Observar las normas de ética prevalecientes en el Poder Judicial de la Federación, así como las buenas prácticas que le sean imbuidas en el desempeño de sus actividades.
 
-Artículo Quinto. Son obligaciones de los titulares de los Organos Jurisdiccionales:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Quinto. Son obligaciones de los magistrados de Circuito y de los jueces de Distrito:
 
 a) Respetar y dar trato digno a los participantes del Programa;
 
@@ -105,7 +121,9 @@ c) Asignar a los beneficiados del Programa, actividades conducentes a su prepara
 
 d) Remitir la evaluación cuatrimestral de los participantes a su encomienda, conforme al artículo séptimo de este Acuerdo;
 
-e) Otorgar gafete de acceso con fotografía, para efectos de control de ingreso a las instalaciones, sin que este documento constituya identificación oficial ni acredite relación laboral entre el órgano jurisdiccional y la persona.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+e) (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)
 
 Artículo Sexto. En el ejercicio de las actividades encomendadas, los participantes del Programa gozarán:
 
@@ -119,7 +137,11 @@ d) Respetar su horario académico;
 
 e) De obtener el documento de acceso al órgano jurisdiccional.
 
-Artículo Séptimo. En cuanto al control y evaluación de las actividades asignadas a los participantes del Programa, se levantará un control de evaluación cuatrimestral, que será remitido a la Dirección General de Servicios al Personal con atención a la Dirección de Capacitación, para que se integre al expediente del participante.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Séptimo. De las actividades asignadas a los participantes del Programa, se levantará un control de evaluación cuatrimestral, que será remitido al Instituto de la Judicatura, mediante el Formato de Reporte Múltiple y una constancia de estudios original actualizada, para que se integre al expediente del participante.
 
 Artículo Octavo. Recibo de pago. Se presentará en forma mensual, de conformidad con los términos que establezca la Dirección General de Programación y Presupuesto, y por conducto de las Administraciones Regionales de cada entidad.
 
@@ -127,13 +149,49 @@ Artículo Noveno. Causas de Terminación:
 
 a) Cumplimiento de término;
 
-b) Por causa debidamente justificada por parte del titular del órgano jurisdiccional;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+b) Por causa debidamente justificada por parte de los magistrados de Circuito y de los jueces de Distrito;
 
 c) Abandono de los estudios del participante;
 
 d) Incumplimiento de las obligaciones del beneficiario;
 
 e) Retiro voluntario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Décimo. Los estudiantes beneficiados podrán cubrir las licencias que se lleguen a presentar en el órgano jurisdiccional en el que realicen las prácticas judiciales, siempre que no se afecte su desempeño académico, previa notificación al Instituto de la Judicatura de la sustitución.
+
+El apoyo económico al que hace referencia el artículo tercero, inciso c) de este Acuerdo, será suspendido mientras el estudiante cubra la licencia por sustitución.
+
+El tiempo que dure la sustitución por licencia no será computado como parte del tiempo de la práctica judicial, por lo cual, la fecha de conclusión de las prácticas judiciales será al cumplir el plazo de doce meses que comprende el Programa de Prácticas Judiciales.
+
+No obstante lo dispuesto en los párrafos anteriores, si el estudiante tiene un promedio menor a 80 en una escala de cero a cien o culmine sus estudios no podrá reintegrarse al Programa de Prácticas Judiciales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Décimo Primero. En caso de que un participante cause baja del Programa de manera anticipada, se podrá postular a un nuevo estudiante que cumpla con los requisitos quien, de ser aceptado, podrá participar en el Programa hasta por doce meses.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Décimo Segundo. Los magistrados de Circuito y los jueces de Distrito, según corresponda, podrán determinar, en los periodos vacacionales, un receso para los participantes en el Programa de quince días naturales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL SIMILAR 21/2012, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Décimo Tercero. En caso de inasistencias, los participantes en el Programa deberán solicitar autorización previa o presentar la justificación correspondiente, de lo cual el magistrado de Circuito o el juez de Distrito darán aviso al Instituto de la Judicatura.
+
+Las inasistencias podrán compensarse con horas adicionales para cubrir el número de la totalidad del Programa. Si las ausencias exceden cinco días durante el mes, se realizará el descuento correspondiente o se suspenderá el apoyo económico hasta la reincorporación.
 
 ## TRANSITORIOS
 
@@ -144,3 +202,13 @@ SEGUNDO. Publíquese este acuerdo general en el Diario Oficial de la Federación
 TERCERO. La Comisión de Administración deberá publicar la Convocatoria a que se refiere el artículo Tercero, inciso b), dentro de los 30 días naturales a partir de su publicación, con el objeto de que el Programa sea aplicado en el mes de agosto del año en curso.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 21/2012, del Pleno del Consejo de la Judicatura Federal, relacionado con "el Programa de prácticas judiciales en los órganos jurisdiccionales a cargo del Consejo de la Judicatura Federal", fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de seis de junio de dos mil doce, por mayoría de seis votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, César Alejandro Jáuregui Robles, Jorge Moreno Collado y Manuel Ernesto Saloma Vera, en contra del voto del señor Consejero Juan Carlos Cruz Razo, quien formuló voto particular.- México, Distrito Federal, a veintisiete de junio de dos mil doce.- Conste.- Rúbrica.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+D.O.F. 25 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor a los 30 días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
