@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-inclusion-para-las-personas-con-discapacidad-en-el-89412
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2015-09-11"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE INCLUSION PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015 Y EL 2 DE OCTUBRE DE 2015 RESPECTIVAMENTE EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INCLUSIÓN PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE SEPTIEMBRE DE 2015.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 14 de septiembre de 2012.
 
@@ -755,6 +755,8 @@ Adecuaciones de los Centros de Asistencia Social
 
 Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
 
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 Designación de representantes de la sociedad civil ante el Sistema
 
-Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
