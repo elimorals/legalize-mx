@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-adolescentes-del-estado-de-guanajuato-5137
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2015-09-11"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS ERRATAS PUBLICADAS EL 25 DE SEPTIEMBRE DE 2015, NÚMERO 154, DÉCIMA TERCERA PARTE, PÁGINA 93 Y EL 2 DE OCTUBRE DE 2015, NÚMERO 158, CUARTA PARTE, PAGINA 3, EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2015.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -639,7 +639,7 @@ Igualmente el Código de Procedimientos Penales tratándose de formalidades, int
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
-También será aplicables en lo conducente las prevenciones que se contengan en otras leyes que deban aplicar los tribunales del Estado.
+También serán aplicables en lo conducente las prevenciones que se contengan en otras leyes que deban aplicar los tribunales del Estado.
 
 Tratándose de requisitorias y exhortos, serán autoridades auxiliares las que residan en el lugar en que deban practicarse las diligencias si no hubiere especializadas en materia de adolescentes.
 
@@ -697,7 +697,7 @@ El Ministerio Público Especializado o el Juez para Adolescentes podrán otorgar
 
 Para los efectos de la libertad provisional bajo caución se considerarán conductas sobre las que no procede este beneficio, en virtud de su gravedad, las siguientes previstas en el Código Penal:
 
-I. Homicidio previsto por el artículo 138, con relación a los artículos 139, 140 y 153, así como en grado de tentativa con relación al artículo 18;
+I. Homicidio previsto por el artículo 138, con relación a los artículos 139, 140 y 153, así corno en grado de tentativa con relación al artículo 18;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1881,6 +1881,8 @@ Adecuaciones de los Centros de Asistencia Social
 
 Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
 
+> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 Designación de representantes de la sociedad civil ante el Sistema
 
-Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 89.
+Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
