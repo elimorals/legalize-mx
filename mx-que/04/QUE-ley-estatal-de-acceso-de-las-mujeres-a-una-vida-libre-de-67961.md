@@ -4,7 +4,7 @@ identifier: "QUE-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-67961"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2009-03-27"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2009.
 
@@ -43,47 +43,105 @@ LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-Las disposiciones contenidas en la presente Ley son de orden público, interés social y observancia obligatoria en el Estado, y tienen por objeto establecer las bases para las atribuciones, competencias de los órganos e instituciones públicas que presten los servicios y las políticas públicas para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, velando por la protección de sus derechos contemplados en la Constitución Política de los Estados Unidos Mexicanos, tratados internacionales ratificados por México, la Constitución Política del Estado de Querétaro y las demás disposiciones legales aplicables.
+Las disposiciones contenidas en la presente Ley son de orden público, interés social y observancia obligatoria en el Estado y tienen por objeto establecer las bases para prevenir la presencia e incidencia de violencia contra las mujeres, atender sus consecuencias, sancionar a quienes la infligen y erradicarla, generando las condiciones para su pleno desarrollo social y humano, favoreciendo su participación en todas las esferas de la vida, conforme a los principios de no discriminación e igualdad, tanto formal como sustantiva.
 
-Establece además los principios y modalidades para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo integral, bienestar, y plena participación en todas las esferas de la vida, conforme a los principios de no discriminación e igualdad de genero, tutelando la integridad física, psicológica y sexual con el fin de otorgar protección a las mujeres del Estado.
+Son sujetos de los derechos que establece esta Ley, las mujeres que se encuentren dentro del territorio del Estado, en los términos que señala la Ley General de la materia.
+
+Consecuentemente se establecen las bases para la coordinación de los órganos e instituciones públicas que presten los servicios y las políticas públicas para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, velando por la protección de sus derechos contemplados en la Constitución Política de los Estados Unidos Mexicanos, tratados internacionales ratificados por México, la Constitución Política del Estado de Querétaro y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 2.
 
-Son principios rectores para la aplicación e interpretación de esta Ley, el respeto a la dignidad humana de las mujeres, la equidad, igualdad, seguridad jurídica, no discriminación, libertad y autonomía de las mujeres, la justicia social y el interés superior de la víctima.
+Son principios rectores para la aplicación e interpretación de esta Ley, el respeto a la dignidad humana de las mujeres, la igualdad formal y sustantiva, seguridad jurídica, no discriminación, libertad y autonomía de las mujeres, la justicia social y el interés superior de la víctima.
 
-El Poder Ejecutivo del Estado y los municipios, por medio de sus dependencias garantizarán el respeto a los derechos humanos e instrumentarán políticas sociales de prevención y promoción que favorezcan el desarrollo de la mujer, procurando su sano desarrollo físico, psicológico, sexual y social.
+El Poder Ejecutivo del Estado, sus dependencias y los municipios, por medio de sus acciones promoverán, respetarán, protegerán y garantizarán los derechos humanos de las mujeres, debiendo al efecto instrumentar políticas públicas que protejan y procuren el sano desarrollo de las mujeres en las esferas física, psicológica, económica, sexual y social.
+
+Para lo cual, se establecerán modelos de intervención o abordaje por cada uno de los ejes que establece la política pública en el Estado, considerando las modalidades y tipos de violencia que afectan a las mujeres, de conformidad con las diferentes etapas de su ciclo de vida.
+
+La inobservancia de la presente ley será motivo de sanción, conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-El Poder Ejecutivo del Estado y los municipios, conforme a su competencia, emitirán las normas legales e implementarán las acciones, programas y medidas administrativas necesarios a efecto de dar cumplimiento a esta Ley.
+El Poder Ejecutivo del Estado y los municipios, conforme a su competencia, emitirán las normas legales e implementarán las acciones necesarias, a efecto de dar cumplimiento a esta Ley.
 
-Asimismo tomarán las medidas presupuestales correspondientes a efecto de garantizar el cumplimiento oportuno de los planes y programas derivados de esta Ley, su debido funcionamiento, los derechos en ella establecidos y el derecho de las mujeres a una vida libre de violencia.
+Asimismo diseñarán las medidas presupuestales con perspectiva de género, estableciéndose las mismas en la ley de egresos, a efecto de garantizar el debido y cabal cumplimiento de esta Ley y de los planes y programas que de ella deriven.
 
 ###### Artículo 4.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Acciones afirmativas: Las medidas especiales y temporales encaminadas a impulsar la equidad para lograr erradicar la violencia y la discriminación contra las mujeres;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+I. Acciones afirmativas: Las medidas específicas de carácter temporal, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres, eliminando las causas de discriminación contra mujeres, para corregir la distribución desigual de oportunidades y beneficios y erradicar la violencia infligida en su contra;
 
 II. Agresor: Persona que inflige la violencia contra la mujer;
 
-III. Interés superior de la víctima: Pauta de decisión ante un conflicto de intereses y criterio para la intervención institucional destinada a proteger por medio de la priorización de la victima;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Ley: La Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia;
+III. Alerta de género: El conjunto de acciones gubernamentales de emergencia, para enfrentar y erradicar la violencia feminicida en un territorio determinado;
 
-V. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+IV. Daño: Es la afectación o menoscabo que sufre una persona en su integridad física, psicoemocional, sexual, patrimonial o de cualquier naturaleza, como consecuencia de la violencia contra las mujeres;
 
-VII. Sexualidad: Es una forma de expresión de los seres humanos asociado a los procesos biológicos, psicológicos, sociales y culturales del sexo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+V. Empoderamiento de las mujeres: Proceso mediante el cual las mujeres adquieren herramientas para la toma de decisiones, autodeterminación y autonomía, el cual se manifiesta en el ejercicio y el pleno goce de sus derechos y libertades;
 
-IX. Víctima: La mujer que sufre cualquier tipo de violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-X. Violencia contra las mujeres: Aquellas acciones u omisiones, basadas en su género, que produzcan un daño o afectación física, psicológica, patrimonial, económica o sexual.
+VI. Estado de riesgo: Es la situación transitoria que implica la probabilidad de sufrir una agresión social, sexual, delictiva, o de cualquier tipo, en forma individual o colectiva, que genera miedo, intimidación, incertidumbre o ansiedad ante la posibilidad de tal agresión;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Interés superior de la víctima: Pauta de decisión ante un conflicto de intereses y criterio para la intervención institucional destinada a proteger los derechos y la integridad de las víctimas por medio de su priorización, atendiendo a la relación de desigualdad en que se encuentran frente al agresor;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Ley: La Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+X. Modalidades de violencia: Los ámbitos de ocurrencia en los cuales acontece la violencia contra las mujeres, ya sea conforme al espacio físico o situación estructural en el cual se presente, tales como la violencia familiar, laboral, en la comunidad, cometida por servidores públicos, feminicida, hostigamiento y acoso sexual, docente, en el noviazgo u obstétrica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Sexualidad: son las manifestaciones comportamentales y actitudinales de los seres humanos asociados a los procesos biológicos, psicológicos, sociales y culturales del sexo y de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Tipos de violencia: Son las formas en que se inflige la violencia contra las mujeres, tales como psicológica, física, patrimonial, económica o sexual.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Víctima: La mujer que sufre cualquier tipo de violencia contra las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Violencia contra las mujeres: Aquellas acciones u omisiones, basadas en su género, que produzcan un daño o afectación física, psicológica, patrimonial, económica o sexual.
 
 ###### Artículo 5.
 
@@ -95,7 +153,9 @@ La Legislatura del Estado expedirá las normas que se deriven de los preceptos d
 
 Para efectos de la presente Ley, son considerados tipos de violencia contra la mujer los siguientes:
 
-I. Violencia psicológica: Es cualquier acto u omisión que daña la estabilidad emocional, menoscaba la autoestima o altera la salud mental de la mujer y atenta contra su dignidad;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+I. Violencia Psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
 II. Violencia física: Acto que inflige daño no accidental, en el que se utiliza alguna parte del cuerpo, objeto o arma que pueda provocar lesiones internas, externas, o ambas;
 
@@ -103,79 +163,155 @@ III. Violencia patrimonial: Actos u omisiones que afectan el patrimonio de la v�
 
 IV. Violencia económica: Acciones u omisiones del victimario que afectan el equilibrio económico de la víctima; se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. Violencia sexual: Actos que degradan o dañan la sexualidad de la víctima y que por tanto atentan contra su libertad, dignidad e integridad física, representando una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto. También puede consistir en prácticas de celotipia para el control, manipulación o dominio de la pareja; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+V. Violencia Sexual: Actos de poder que degradan, controlan o dañan el cuerpo y/o la sexualidad de la víctima y atentan contra la libertad, autonomía, seguridad, dignidad e integridad física y psicológica de la mujer, al denigrarla y concebirla como objeto; y
 
 VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-En lo no previsto por la presente Ley, se aplicará supletoriamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y las leyes estatales aplicables, a efecto de tutelar la protección de las mujeres en la entidad federativa.
+En lo no previsto por la presente Ley, se aplicarán supletoriamente la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y las leyes estatales aplicables, a efecto de tutelar la protección de las mujeres en la entidad federativa.
 
 ## Título Segundo. Modalidades de la violencia contra las mujeres
 
 ### Capítulo Primero. De la violencia familiar
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-Por violencia familiar se considera todo acto de poder u omisión intencional, único, recurrente o cíclico, dirigido a dominar, someter, controlar o agredir física, verbal, psico-emocional, patrimonial o sexualmente a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por afinidad, civil, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+Por violencia familiar se considera todo acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir física, verbal, psico-emocional, patrimonial o sexualmente a las mujeres, cuyo agresor tenga parentesco por consanguineidad hasta el cuarto grado, tenga o haya tenido relación de parentesco por afinidad, civil, mantengan o hayan mantenido una relación de matrimonio, concubinato o de hecho.
+
+Dicho acto u omisión puede ser único, recurrente o cíclico, cometido dentro o fuera del domicilio familiar, conyugal o particular.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 9.
 
-Para la implementación de modelos de atención, prevención y sanción que se establezcan en el Estado y municipios, en materia de violencia familiar, se atenderá a lo previsto por el Código Civil y Código Penal del Estado de Querétaro y las medidas establecidas por el Sistema Estatal, a efecto de implementar las acciones para la atención, protección y reparación del daño de las víctimas.
+Para la implementación de modelos de atención, prevención y sanción que se establezcan en el Estado y municipios, en materia de violencia familiar, se atenderá a lo previsto en los instrumentos internacionales suscritos y ratificados por México y en las medidas establecidas por el Sistema Estatal.
 
-En materia de violencia familiar, no se realizarán procedimientos de mediación o conciliación por ser inviables en una relación de sometimiento entre el agresor y la víctima, tampoco serán atendidos por el mismo terapeuta.
+En materia de violencia familiar, quedan prohibidos, e incurrirán en responsabilidad, quienes efectúen:
+
+I. Procedimientos de conciliación, negociación o mediación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
+
+II. Psicoterapias de pareja o familia o el mismo terapeuta atienda a la víctima y al agresor, aun cuando sea proporcionada en forma individual;
+
+III. Asignación de tutores para mujeres de la tercera edad, o con alguna discapacidad, sin una determinación judicial de interdicción;
+
+IV. La proporción de datos al agresor que permitan la ubicación de la víctima; y
+
+V. La autorización para la práctica de cualquier procedimiento médico o intervención quirúrgica, salvo en caso de urgencia médica, o cualquier otro en el que la mujer no pueda manifestar por algún medio su voluntad o suscribir por sí cualquier autorización, aun tratándose de adultas mayores. Dicho estado de urgencia deberá quedar debidamente acreditado en el expediente clínico correspondiente.
 
 ### Capítulo Segundo. De la violencia laboral
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-Se entiende por violencia laboral, la que se ejerce por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión en abuso de poder que pretende dañar la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide su desarrollo y atenta contra la igualdad.
+Se entiende por violencia laboral, todo acto u omisión ejercidos por la persona o personas que tienen un vínculo laboral o análogo con la mujer, mediante los cuales pretende impedir u obstaculizar sus derechos, dañar la o las diferentes dimensiones de la autoestima, salud, integridad, libertad y seguridad de la víctima, limitar o impedir su desarrollo y atentar contra la igualdad.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 11.
 
-Constituye violencia laboral, la negativa injustificada a contratar a la víctima, respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+Constituye violencia laboral, la negativa injustificada a contratar a la víctima, incluyendo por embarazo, no respetar su permanencia o condiciones generales de trabajo; la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género.
+
+Consecuentemente no se impedirá el periodo de lactancia en cuanto a tiempo y espacio, ni se solicitará información sobre el estado civil y/o embarazo de ninguna mujer.
 
 ### Capítulo Tercero. De la violencia en la comunidad
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
-La violencia en la comunidad, son actos que transgreden derechos fundamentales de la mujer, propiciando denigración, discriminación, marginación o exclusión en el ámbito público.
+Se entiende por violencia en la comunidad, los actos u omisiones individuales o colectivas ejercidos en el ámbito social dirigido a anular, obstaculizar o menoscabar los derechos de las mujeres, propiciando denigración, discriminación, marginación o exclusión, y que pueden generar daño.
+
+Por ámbito social se entenderá, el conjunto de personas que comparten costumbres, valores, idiomas o lengua, ubicación geográfica u otros elementos.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
-Las entidades públicas estatales y municipales, en el ámbito de su competencia debe garantizar a las mujeres la erradicación de la violencia en la comunidad, a través de:
+Las entidades públicas estatales y municipales, en el ámbito de su competencia deberán garantizar a las mujeres la eliminación de la violencia en la comunidad, a través de:
 
-I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+I. La reeducación libre de estereotipos, en los diferentes niveles educativos formales que se presten en el Estado, ya sean públicos o privados;
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres; y
+II. El diseño e implementación de un sistema de monitoreo de patrones de comportamiento violento, en regiones, comunidades u (sic) áreas determinadas o situaciones que impliquen un estado de riesgo contra la mujer, favoreciendo la publicidad e información sobre dicho estado y los factores que lo acrediten. A tal efecto, se deberá crear un observatorio, proveyendo el presupuesto necesario para su funcionamiento;
 
-III. El establecimiento de un banco de datos sobre las medidas de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
+III. El establecimiento de un registro de órdenes de protección a favor de las mujeres y de personas sujetas a ellas, que faciliten el intercambio de información entre las instancias y las acciones de política criminal; y
+
+IV. La delimitación georreferenciada de zonas que sufren violencia comunitaria, que permitan elaborar diagnósticos, análisis estadísticos, y el plan de acción para su acotamiento y adopción de medidas para la disminución de la misma.
 
 ### Capítulo Cuarto. De la violencia cometida por servidores públicos
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 14.
 
-La violencia cometida por servidores públicos, es la relativa a los actos u omisiones de los funcionarios de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+La violencia cometida por servidores públicos, es la relativa a los actos u omisiones que realicen en ejercicio de sus funciones, que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 14 Bis.
+
+Se considerarán formas análogas de violencia cometida por servidores públicos:
+
+I. Impedir las denuncias de actos de violencia, el inicio o la tramitación de indagatoria o carpeta de investigación;
+
+II. Negar injustificadamente la tramitación de la reparación del daño u obstaculizar la tramitación de las órdenes de protección;
+
+III. Realizar expresiones de incapacidad, y menosprecio, vinculadas a su maternidad, o rol estereotipado de género, incluyendo el uso de expresiones con el fin de minimizar a la mujer;
+
+IV. Condicionar su autonomía e independencia a la decisión de otros miembros del núcleo familiar;
+
+V. Negar injustificadamente la representación jurídica en cualquier materia que corresponda conforme a las leyes aplicables;
+
+VI. Someter a procedimientos de conciliación, negociación, mediación o acuerdo entre las partes, existiendo la presunción de alguna modalidad o tipo de violencia;
+
+VII. Proporcionar psicoterapia de agresores de violencia familiar sin la validación del Instituto Queretano de las Mujeres o sin supervisión clínica y registro del modelo terapéutico que haya probado su eficacia; y
+
+VIII. Proporcionar a las víctimas psicoterapia de pareja o familiar sin estar debidamente acreditado para ello.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-El Poder Ejecutivo del Estado y los municipios en el ámbito de su competencia, establecerán mecanismos y acciones de capacitación con perspectiva de género para los servidores públicos, con la finalidad que dentro del ejercicio de sus funciones puedan garantizar el derecho de las mujeres a una vida libre de violencia dentro de su ámbito.
+El Poder Ejecutivo del Estado y los municipios en el ámbito de su competencia, establecerán mecanismos y acciones de capacitación y sensibilización con perspectiva de género para los servidores públicos, con la finalidad que dentro del ejercicio de sus funciones puedan garantizar el derecho de las mujeres a una vida libre de violencia dentro de su ámbito.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
-El Poder Ejecutivo del Estado y los municipios en su respectivo ámbito de competencia, implementarán programas de prevención, atención, investigación y reparación de los daños generados a las víctimas causados por los servidores públicos.
+Los Poderes del Estado y los municipios en su respectivo ámbito de competencia, implementarán programas de prevención, atención, sanción, e investigación, asumiendo en su caso la reparación de los daños generados a las víctimas causados por los servidores públicos en ejercicio de sus funciones, en términos de la legislación aplicable.
+
+Consecuentemente los poderes del Estado contarán con manuales para la institucionalización de la perspectiva de género. Se entiende por institucionalización la reorganización de las prácticas sociales e institucionales en función de la igualdad jurídica y la equidad de género.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 16 Bis.
+
+Tratándose de actos u omisiones cometidos por particulares, posiblemente constitutivos de violencia en contra de la mujer en términos de la presente ley, las autoridades que con motivo de sus funciones tengan conocimiento de las mismas, deberán:
+
+I. Si los hechos pudieren constituir un delito que en su caso fuere perseguible por querella, informar a la mujer víctima de los mismos para que si es su voluntad, ocurra ante la autoridad competente; y
+
+II. Si los hechos o abstenciones pudiesen constituir el delito de discriminación o cualquier otro delito perseguible de oficio, formular denuncia penal, ya sea ante el Ministerio Público, o a falta de éste, ante cualquier agente de policía de la localidad, poniéndole a disposición a los probables responsables en caso de flagrancia.
 
 ### Capítulo Quinto. De la violencia feminicida
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-La violencia feminicida es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social.
+Se entiende por violencia feminicida la conducta o conjunto de conductas de violencia extrema y sistemática, cometida en los ámbitos público o privado, que expresan misoginia y que pueden atentar contra su integridad, salud, libertades o vida, pudiendo traer aparejada impunidad social.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-El Poder Ejecutivo del Estado y los municipios en su respectivo ámbito de competencia, para atender la violencia de género, implementarán acciones y programas con la finalidad de cesar la violencia contra las mujeres en todas sus manifestaciones.
-
-Coadyuvarán con la Federación en la implementación de las medidas y acciones que se determinen y participarán en los grupos interinstitucionales y multidisciplinarios que se integren para dar seguimiento a éstas.
+Los Poderes del Estado y los municipios, en su respectivo ámbito de competencia, para eliminar la desigualdad estructural, entre mujeres y hombres y eliminar las causas de la violencia de género, deberán implementar acciones y programas dirigidos a la transformación social de los estereotipos y roles que reproducen y proporcionan conductas misóginas o violatorias de los derechos humanos de las mujeres.
 
 ### Capítulo Sexto. Del hostigamiento y acoso sexual
 
@@ -183,19 +319,69 @@ Coadyuvarán con la Federación en la implementación de las medidas y acciones 
 
 El hostigamiento sexual es el ejercicio abusivo del poder, en una relación de subordinación real de la víctima frente al agresor. Se expresa en conductas verbales, físicas y visuales, relacionadas con la sexualidad de la víctima de connotación lasciva e independientemente de que se realice en uno o varios eventos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Los Poderes del Estado y los Municipios deberán contar con protocolos que prevean los mecanismos necesarios para la acreditación, investigación y sanción de estas conductas, para el caso de que sean cometidas por servidores públicos, debiendo indefectiblemente el superior jerárquico dar vista al órgano de control respectivo.
+
 ###### Artículo 20.
 
 El acoso sexual es una forma de violencia en la que, sin existir una relación de subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima. Se expresa en conductas verbales, físicas y visuales relacionadas con la sexualidad de la víctima, de connotación lasciva e independientemente de que se realice en uno o varios eventos.
 
-### Capítulo Primero. Del Sistema Estatal y su integración
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+### Capítulo Séptimo. De las modalidades análogas de violencia contra las mujeres
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 20. Bis.
+
+Constituyen violencia docente: aquellas conductas que dañan las diferentes dimensiones de la autoestima de las alumnas mediante la discriminación por razones de sexo, edad, condición social, académica, limitaciones o características físicas, que les infligen docentes, personal directivo o personal administrativo de la institución académica a la cual asistan, pudiendo ejecutarse dentro o fuera del recinto escolar.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 20. Ter.
+
+Constituye violencia en el noviazgo, cualquier tipo de violencia de las previstas en la presente ley, que se ejerza en una relación amorosa entre dos personas, con o sin intención de casarse o de cohabitar.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 20. Quater.
+
+Se considera violencia obstétrica, toda conducta, acción u omisión que ejerza el personal de salud de forma directa o indirecta, en contra de las mujeres durante el embarazo, parto o puerperio o posterior a estos y relacionado con la maternidad, que en forma intencional y sin existir necesidad terapéutica, les causen la muerte, daño, dolor, incomodidad de cualquier tipo o se realice negligentemente, sin respeto por sus decisiones o las discrimine en función de la edad, origen, raza, condición social o cualquier otra circunstancia análoga.
+
+Dicha violencia puede expresarse en las siguientes conductas, entre otras:
+
+I. Dar un trato deshumanizado, insensible, despectivo o que tienda a estigmatizarle, estereotiparle o denigrarle;
+
+II. Realizar prácticas que no cuenten con el consentimiento consciente e informado de la mujer, como la esterilización forzada o la introducción de dispositivos intrauterinos contraceptivos;
+
+III. Omitir proporcionar atención oportuna y eficaz en urgencias obstétricas o atenderlas sin el debido cuidado e información amplia y veraz a la mujer;
+
+IV. Practicar procedimientos innecesarios tales como cortes, revisiones, u obligar a la mujer a parir en posición supina y con las piernas levantadas, existiendo los medios necesarios para la realización del parto vertical;
+
+V. Omitir proporcionar información sobre los padecimientos médicos, etiología y tratamiento, o habiendo sido requerida por la mujer, no brindar información completa y veraz respecto de los métodos de anticoncepción;
+
+VI. Alterar innecesariamente el proceso natural del parto de bajo riesgo, mediante su patologización, abuso de medicación, o el uso de técnicas que aceleren el nacimiento;
+
+VII. Realizar en forma innecesaria el parto vía cesárea, existiendo las condiciones requeridas para el parto natural;
+
+VIII. Proporcionar los servicios médicos sin perspectiva de género, o sin respeto por la autonomía reproductiva, independencia, pudor o dignidad de las mujeres, mediante prácticas tales como solicitar sin existir necesidad urgente, la autorización de terceras personas para la realización de procedimientos médicos o permitir que éstas decidan respecto de los derechos sexuales y reproductivos de la mujer;
+
+IX. Usar el parto como recurso didáctico formativo, sin el consentimiento consciente, informado y expreso de la mujer; y
+
+X. No propiciar el apego precoz del niño o niña con la madre, negándole la posibilidad de cargarlo o de amamantarlo inmediatamente después de nacer sin causa médica justificada.
+
+Al efecto, la Secretaría de Salud del Estado deberá emitir el protocolo conducente para la acreditación e investigación de estas conductas ejecutadas por personas o instituciones sanitarias de carácter público o de índole privado, debiendo para el caso de que las conductas u omisiones sean realizadas por quienes pertenezcan al servicio público, incluir los mecanismos para dar vista al órgano interno de control.
 
 ## Título Tercero. Del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
-### Capítulo Segundo. Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
+### Capítulo Primero. Del Sistema Estatal y su integración
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-El Poder Ejecutivo del Estado y los municipios se coordinarán para establecer el Sistema Estatal, el cual tiene por objeto el enlace de esfuerzos, instrumentos, políticas, servicios, aplicación de acciones afirmativas y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+El Sistema Estatal tiene por objeto el enlace de esfuerzos, instrumentos, políticas, servicios, aplicación de acciones afirmativas y acciones interinstitucionales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, a tal efecto los Poderes del Estado y los Municipios se coordinarán para su instalación y operación.
 
 ###### Artículo 22.
 
@@ -217,29 +403,49 @@ VII. El Titular de la Procuraduría General de Justicia del Estado;
 
 VIII. El Titular de la Secretaría del Trabajo del Estado;
 
-IX. El Presidente del Tribunal Superior de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-X. El Presidente de la Comisión de Equidad de Género y Grupos Vulnerables de la Legislatura del Estado;
+IX. El titular de la Secretaría de la Juventud del Estado;
 
-XI. Un representante designado por cada grupo de Municipios que correspondan a los distritos judiciales del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Tres representantes de organizaciones civiles especializadas, con probado currículo en trabajo relativo a los derechos humanos y un mínimo de experiencia de cinco años, designadas por la Legislatura del Estado a propuesta del Instituto Queretano de la Mujer;
+X. El Presidente del Tribunal Superior de Justicia del Estado;
 
-XIII. Dos representantes de universidades o instituciones de educación superior e investigación; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Quienes a invitación expresa del Sistema Estatal se incorporen para formar parte del mismo, participando únicamente con voz.
+XI. El Presidente de la Comisión de la Legislatura del Estado que sea el encargado de los asuntos materia de igualdad de género o de las mujeres como parte de un grupo en situación de vulnerabilidad y discriminación;
 
-En caso de ausencia de los titulares integrantes del Sistema Estatal, serán suplidos por su inmediato inferior jerárquico.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Un representante designado por cada grupo de los Municipios que correspondan a los Distritos Judiciales del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Tres representantes de Organizaciones Civiles especializadas, con un probado currículo en trabajo relativo a los derechos humanos y un minino (sic) de experiencia de cinco años, designados por la Legislatura del Estado a propuesta del Instituto Queretano de las Mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Dos representantes de Universidades o Instituciones de Educación Superior e Investigación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Quienes a invitación expresa del Sistema Estatal se incorporen para formar parte del mismo participando únicamente con voz.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+En caso de ausencia de los titulares integrantes del Sistema Estatal, podrán ser suplidos por las personas que ellos designen.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
 
-Los integrantes del Sistema Estatal realizarán en el ámbito de sus competencias, los estudios e investigaciones necesarias, para conformar y sistematizar la información que deberá ser proporcionada a las autoridades responsables de integrar el Diagnóstico Estatal y el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+Los integrantes del Sistema Estatal registrarán y proporcionarán la información relativa a los casos de violencia contra las mujeres que conozcan según el ámbito de sus competencias, a las autoridades responsables de integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 ###### Artículo 24.
 
 Además de lo dispuesto por la presente Ley, el Sistema Estatal funcionará con las disposiciones administrativas y de operación que señale su reglamento.
 
-### Capítulo Tercero. De los modelos y ejes de acción
+### Capítulo Segundo. Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
 ###### Artículo 25.
 
@@ -249,21 +455,33 @@ La aprobación, desarrollo y ejecución del Programa Estatal estará a cargo de 
 
 El Programa Estatal deberá contener acciones con perspectiva de género, para:
 
-I. Garantizar el respeto a los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-II. Transformar los modelos socioculturales con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten y fomentan la violencia contra las mujeres;
+I. Promover, respetar, proteger y garantizar los derechos humanos de las mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+II. Transformar los modelos socioculturales con la finalidad de prevenir, y erradicar los estereotipos de género y las conductas que originan, promueven y fomentan la violencia contra las mujeres;
 
 III. Implementar campañas en los medios de comunicación para la atención y protección de la violencia contra las mujeres;
 
-IV. Garantizar la investigación y elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-V. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres, para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+IV. Garantizar la investigación y elaboración de diagnósticos y estadística sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres;
 
-VI. Diseñar un modelo integral de atención para las victimas y agresores de la violencia en contra de las mujeres, que contenga los lineamientos establecidos en esta Ley, y que deberán instrumentar las instituciones, los centros de atención y los refugios;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+V. Recabar y compilar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres, para integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, para rendir un informe semestral al Sistema Estatal;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Diseñar e implementar un modelo integral de atención para las mujeres víctimas de la violencia y medidas reeducativas para los agresores, que contenga los lineamientos establecidos en esta Ley, y que deberán instrumentar las instituciones, los centros de atención y los refugios que contempla esta Ley;
 
 VII. Fomentar y apoyar programas de educación pública y privada destinados a concienciar a los jóvenes y sociedad en general, sobre las causas y consecuencias de la violencia contra las mujeres;
 
-VIII. Capacitar en materia de los principios y derechos establecidos por esta Ley, al personal encargado de las políticas de prevención, atención, sanción y erradicación de la violencia en contra de las mujeres;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Capacitar en materia de igualdad de género y derechos humanos de las mujeres, al personal encargado de las políticas de prevención, atención, sanción y erradicación de la violencia en contra de las mujeres, así como de procuración y administración de justicia;
 
 IX. Educar y capacitar en materia de los principios y derechos establecidos por esta Ley, al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permitan juzgar con perspectiva de género;
 
@@ -271,27 +489,49 @@ X. Brindar los servicios especializados y gratuitos para la atención y protecci
 
 XI. Diseñar programas de atención y capacitación a víctimas, que les permita participar plenamente en todos los ámbitos de la vida;
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres, para garantizar su seguridad y su integridad; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Las demás que consideren importantes para el objetivo de la presente Ley.
+XII. Promover la cultura de denuncia de la violencia contra las mujeres, para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Establecer procesos de evaluación de la eficacia de las acciones desarrolladas para prevenir, atender, sancionar y erradicar la violencia contra las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Las demás que consideren importantes para el objetivo de la presente Ley.
 
 ###### Artículo 27.
 
 Los integrantes del Sistema Estatal presentarán al Gobernador del Estado un proyecto de presupuesto para garantizar la aplicación del Programa Estatal.
 
-### Capítulo Primero. Del Poder Ejecutivo del Estado
+### Capítulo Tercero. De los modelos y ejes de acción
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-Los modelos y acciones que se implementen serán considerados en la integración del Sistema Estatal, procurando en todo momento la prevención, atención, rehabilitación, sanción y erradicación de la violencia en contra de la mujer.
+Los modelos y acciones que se implementen serán considerados en la integración del Sistema Estatal, procurando en todo momento operar en función a los ejes de acción de la prevención, atención, sanción y erradicación de la violencia en contra de la mujer.
 
-La rehabilitación del agresor será dirigida a erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y los patrones que generaron su violencia.
+Consecuentemente, los modelos se implementarán en función de dichos ejes de acción, considerando los niveles de intervención que cada eje contempla.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 28 Bis.
+
+Las actividades a favor de la prevención y atención a la violencia contra las mujeres, que proporcionen los miembros del Sistema Estatal, como parte de la prevención y la atención a la violencia contra las mujeres, serán gratuitas.
+
+La rehabilitación o reeducación del agresor son una sanción o medida de seguridad, realizadas exclusivamente a solicitud de la autoridad jurisdiccional o ministerial, y serán dirigidas a erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y los patrones que generaron la violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 29.
 
-El Sistema Estatal definirá los ejes de acción necesarios conforme a las modalidades de la violencia, atendiendo los aspectos terapéuticos, asistencia jurídica, reparación de daño y atención especializada a las víctimas, los cuales se abordarán conforme a lo previsto en el reglamento de la presente Ley.
+El Sistema Estatal definirá los ejes de acción necesarios conforme a las modalidades de la violencia, atendiendo los aspectos psicoterapéuticos, asistencia jurídica, reparación de daño y atención especializada a las víctimas, los cuales se abordarán conforme a lo previsto en el reglamento de la presente Ley.
 
-Los servicios de prevención, atención, rehabilitación y albergue que el Poder Ejecutivo del Estado y los municipios brinden a las víctimas en materia jurídica, médica, psicológica, trabajo social y terapeuta serán gratuitos.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Los servicios de prevención, atención, y refugio de primer y segundo nivel que el Poder Ejecutivo del Estado y los municipios brinden a las víctimas en materia jurídica, médica, psicológica, trabajo social serán gratuitos.
 
 Los modelos deberán contener su metodología, estrategias, acciones a implementar y mecanismos de evaluación; el Sistema Estatal definirá los elementos necesarios en atención a las modalidades de violencia contra la mujer.
 
@@ -301,7 +541,7 @@ El Sistema Estatal aplicará los modelos y podrá realizar los convenios necesar
 
 ## Título Cuarto. De la distribución de competencias
 
-### Capítulo Segundo. De los Municipios
+### Capítulo Primero. Del Poder Ejecutivo del Estado
 
 ###### Artículo 31.
 
@@ -309,9 +549,11 @@ Para cumplir los objetivos de la presente Ley, el Poder Ejecutivo del Estado a t
 
 Las demás autoridades y dependencias, así como las instituciones privadas, serán auxiliares en la observación de la presente Ley, conforme a los mecanismos de coordinación que al efecto se establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-Las acciones adoptadas en materia de violencia contra las mujeres por las dependencias e instituciones públicas o privadas, tendrá como principal objetivo la protección y rehabilitación de la víctima, así como la rehabilitación del agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y los patrones que generaron su violencia.
+Las acciones adoptadas en materia de violencia contra las mujeres por las dependencias e instituciones públicas o privadas, tendrá como principal objetivo la protección, disminución del impacto de la violencia y la restitución de los derechos de la víctima, así como la rehabilitación o reeducación del agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y los patrones que generaron su violencia.
 
 Las acciones deberán ser libres de prejuicios basados en el origen étnico o nacional, raza, condición socioeconómica, religión o cualquier otro tipo, y no contarán entre sus criterios con patrones estereotipados de comportamiento de prácticas sociales o culturales basadas en conceptos de superioridad.
 
@@ -325,9 +567,21 @@ La atención de la violencia contra la mujer, se realizará por medio de accione
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas y acciones necesarias para brindar protección, atención médica, psicológica o jurídica.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 34 Bis.
+
+La atención que se proporcione al agresor en todas y cada una de las dependencias de la administración pública estatal y sus municipios será apegada a los siguientes parámetros:
+
+I. Se diferenciarán los talleres reeducativos de formación que se imparten a hombres en general, incluyendo a aquellos que asumen su violencia, pero que no la han ejercido, de los programas de rehabilitación o reeducación de agresores; y
+
+II. La atención a agresores se proporcionará con la supervisión del Instituto Queretano de las Mujeres, con la supervisión clínica respectiva, de conformidad a lo señalado en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-El Poder Ejecutivo del Estado implementará las acciones necesarias para garantizar la equidad de género dentro de su ámbito territorial.
+El Poder Ejecutivo del Estado implementará las acciones necesarias para garantizar la igualdad sustantiva de las mujeres respecto de los hombres, dentro de su ámbito territorial.
 
 ###### Artículo 36.
 
@@ -343,15 +597,21 @@ IV. Incluir en la iniciativa de Presupuesto de Egresos del Estado, los recursos 
 
 V. Las demás facultades y obligaciones que le confieran esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-Corresponde al Instituto Queretano de la Mujer:
+Corresponde al Instituto Queretano de las Mujeres:
 
 I. Elaborar y ejecutar programas y acciones tendientes a la atención, protección y canalización de las mujeres receptoras de violencia;
 
-II. Difundir permanentemente los derechos y protección de la mujer dentro de la familia y sociedad, fomentando el desarrollo de prácticas de respeto y equidad permanentes;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-III. Impulsar dentro de su programa de trabajo esquemas para modificar los patrones socioculturales y conductas de géneros, a efecto de contrarrestar prejuicios, costumbres y todo tipo de prácticas basadas en la desigualdad de los géneros que promueven o exacerban la violencia;
+II. Difundir permanentemente los derechos y protección de la mujer dentro de la familia y sociedad, fomentando el desarrollo de prácticas de respeto e igualdad permanentes;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+III. Impulsar dentro de su ámbito de competencia, acciones para modificar los patrones socioculturales, roles y estereotipos de género, a efecto de contrarrestar todo tipo de prácticas basadas en la desigualdad y discriminación que dan origen a la violencia;
 
 IV. Promover el estudio e investigación de las causas y efectos sociales de la violencia contra la mujer;
 
@@ -365,71 +625,141 @@ VIII. Celebrar convenios de colaboración con dependencias, a efecto de capacita
 
 IX. Acceder a la información contenida dentro del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
-X. Participar en las comisiones que el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres establezca en los rubros de su competencia; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XI. Las demás facultades y obligaciones que establece la presente Ley.
+X. Participar en las comisiones que el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres establezca en los rubros de su competencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Emitir las valoraciones diagnósticas que le sean solicitadas para acreditar la existencia de violencia familiar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Establecer un registro de profesionales en psicología, que puedan elaborar valoraciones psicológicas en materia de violencia de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Proporcionar representación legal a mujeres que manifiesten ser receptoras de violencia familiar, que se encuentren en situación de riesgo, vulnerabilidad económica y no cuenten con la posibilidad de pagar por estos servicios jurídicos a profesionales del derecho del ejercicio privado, debiendo auxiliarles en la tramitación de medidas de protección; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Las demás facultades y obligaciones que establece la presente Ley.
 
 ###### Artículo 38.
 
 En materia de violencia contra la mujer, corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
 
-I. Brindar atención y tratamiento psicológico a la víctima y al agresor;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-II. Promover programas de intervención temprana en los núcleos sociales de más alto riesgo para prevenir la violencia contra la mujer, incorporando a la población en la operación de dichos programas;
+I. Brindar atención y tratamiento psicológico a las niñas y adolescentes institucionalizadas;
 
-III. Diseñar programas de detección de violencia contra la mujer, así como de atención a la víctima y al agresor, en las instituciones de salud del Estado, fomentando la coordinación con instituciones públicas o privadas y la realización de investigaciones sobre la violencia contra la mujer, con el propósito de diseñar nuevos modelos para su prevención y atención;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Proporcionar orientación y asistencia jurídica a las mujeres que sean víctimas de violencia y, dar seguimiento a los juicios correspondientes;
+II. Remitir a las niñas o adolescentes que no sean institucionalizadas, así como los padres agresores de éstas, a la Secretaría de Salud para la atención y tratamiento psicológico respectivo;
 
-V. Gestionar ante las autoridades competentes las medidas de protección a favor de las víctimas de violencia, a fin de que éstas no sigan expuestas a esa situación y reciban oportunamente la atención y tratamiento requerido;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Fomentar, en coordinación con las instancias competentes, la instalación de centros de atención a mujeres víctimas de violencia en los términos previstos por esta Ley;
+III. Promover programas para prevenir la violencia contra las niñas y los adolescentes;
 
-VII. Capacitar a su personal operativo para detectar, atender y canalizar a víctimas y agresores de violencia, impulsando la formación de promotores comunitarios, cuya función básica será difundir los programas de prevención de la violencia contra la mujer en comunidades alejadas; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Las demás facultades y obligaciones que establece esta Ley y demás disposiciones legales aplicables.
+IV. Diseñar programas de detección, y atención de violencia contra las niñas y adolescentes, con el apoyo de las instituciones de salud del Estado, fomentando la coordinación con instituciones públicas o privadas y la realización de investigaciones sobre las niñas y adolescentes, con el propósito de diseñar nuevos modelos para su prevención;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+V. Representar en los juicios a las niñas y adolescentes víctimas de violencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Gestionar como tutores ante las autoridades competentes, las medidas de protección a favor de las niñas y adolescentes víctimas de violencia, a fin de que éstas no sigan expuestas a esa situación y reciban oportunamente la atención y tratamiento requerido;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Fomentar, en coordinación con las instancias competentes, la instalación de centros de atención para las niñas y adolescentes víctimas de violencia, en los términos previstos por la ley de la materia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Capacitar a su personal operativo para detectar y atender a las niñas y adolescentes víctimas de violencia, impulsando la formación de promotorías comunitarias, cuya función básica será difundir los programas de prevención de la violencia contra las niñas y adolescentes en comunidades alejadas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Las demás facultades y obligaciones que establece esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 39.
 
 En materia de violencia contra la mujer, corresponde a la Secretaría de Educación del Estado:
 
-I. Implementar campañas de prevención y orientación de violencia contra la mujer en sus programas educativos, incorporando la enseñanza de los derechos humanos;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-II. Implementar en los centros educativos de secundarias, media superior y superior, campañas de prevención y erradicación de la violencia que sufren las mujeres en el noviazgo así como el respeto y goce de sus derechos sexuales y reproductivos;
+I. Implementar campañas de prevención de violencia contra las mujeres, niñas o adolescentes en sus programas educativos, incorporando la enseñanza de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+II. Implementar en los centros educativos de primarias, secundarias, media superior y superior, campañas de prevención y erradicación de la violencia que sufren las mujeres en el noviazgo así como el respeto y goce de sus derechos sexuales y reproductivos;
 
 III. Detectar en los centros educativos, casos concretos de violencia contra la mujer y canalizarlos a la dependencia correspondiente, la cual brindará el tratamiento que corresponda;
 
-IV. Apoyar la investigación sobre la violencia contra la mujer dentro y fuera del proceso educativo, cuyos resultados servirán para diseñar estrategias para su prevención;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Apoyar la investigación sobre la violencia contra niñas, adolescentes y la mujer, dentro y fuera del proceso educativo, cuyos resultados servirán para diseñar estrategias para su prevención;
 
 V. Implementar dentro de los programas de educación básica, media y superior, temas de perspectiva de género, destinados a educar sobre las causas y consecuencias de la violencia contra las mujeres, inculcando los principios establecidos por esta Ley;
 
-VI. Implementar cursos de sensibilización en materia de violencia de género para los trabajadores del sector educativo, preferentemente a quienes tengan a su cargo grupos de alumnos, a fin de fomentar una cultura de equidad de género;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Difundir permanentemente programas para prevenir la violencia contra la mujer, involucrando a estudiantes y padres de familia;
+VI. Implementar cursos de sensibilización en materia de violencia de género para los trabajadores del sector educativo, preferentemente a quienes tengan a su cargo grupos de alumnos, a fin de fomentar una cultura de igualdad de género;
 
-VIII. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Las demás facultades y obligaciones que establece esta Ley y demás disposiciones legales aplicables.
+VII. Capacitar a su personal operativo para detectar, atender y canalizar a víctimas y agresores de violencia, impulsando la formación de promotores comunitarios, cuya función básica será difundir los programas de prevención de la violencia contra la mujer en comunidades alejadas;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Brindar servicios reeducativos integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina y los patrones machistas que generaron su violencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Establecer programas desde la educación básica, de prevención y erradicación del embarazo adolescente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+X. Las demás facultades y obligaciones que establece esta Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 40.
 
 Corresponde a la Secretaría de Salud del Estado:
 
-I. Establecer en el ámbito de sus atribuciones, lineamientos generales y programas públicos de prevención y atención a víctimas y agresores de violencia contra la mujer, en el marco de la política de salud integral de las mujeres;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-II. Incentivar la formación de áreas especializadas para el tratamiento, diagnóstico y terapias de las víctimas y agresores de violencia contra la mujer;
+I. Establecer en el ámbito de sus atribuciones, lineamientos generales y programas públicos de prevención y atención a mujeres víctimas de violencia de género y reeducativos a los agresores que la ejercen, en el marco de la política de salud integral de las mujeres;
 
-III. Celebrar convenios con instituciones públicas y privadas, a fin de otorgar a los receptores o generadores de violencia contra la mujer, los servicios de atención médica, psicológica o de cualquier otro tipo que sea necesaria para combatir la fuente de violencia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Realizar promoción, protección y restauración de la salud física y mental tanto de las victimas de violencia contra la mujer, como de las personas que requieran atención médica urgente derivada de los mismos actos, a través del tratamiento integral e interdisciplinario, rehabilitación o referencia a instancias especializadas, información de medidas médicas alternativas si el caso lo requiere, así como la promoción y restauración de la salud física y mental del agresor, evitando que la atención psicológica que reciba la víctima y el agresor sean proporcionados por la misma persona y en el mismo lugar. Además deberán dar conocimiento de los hechos a las dependencias correspondientes;
+II. Incentivar la formación de áreas especializadas para el tratamiento, diagnóstico y terapias de las mujeres víctimas de violencia de género y servicios de reeducación y rehabilitación a los agresores que la ejercen;
+
+En el caso de los agresores de violencia familiar, no serán atendidos en los mismos lugares que las víctimas, ni por el mismo personal psicoterapéutico.
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+III. Coadyuvar con la federación y los poderes del estado, así como celebrar convenios con instituciones públicas y privadas, a fin de otorgar a los receptores o generadores de violencia contra la mujer, los servicios de atención médica, psicológica o de cualquier otro tipo que sea necesaria para combatir la fuente de violencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Proporcionar atención médica urgente, así como promocionar, proteger y restaurar la salud física de las mujeres víctimas de violencia de género, a través del tratamiento integral e interdisciplinario, en coordinación con el Instituto Queretano de las Mujeres, la rehabilitación o referencia a instancias especializadas, información de medidas médicas alternativas si el caso lo requiere, teniendo la inexcusable obligación de dar oportuno aviso de los hechos a las instancias correspondientes;
 
 V. Coordinar sus acciones con las demás instituciones competentes en la materia, a fin de alcanzar los objetivos planteados en esta Ley;
 
-VI. Brindar atención médica y hospitalaria gratuita a los usuarios de los refugios;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Implementar programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y su derecho a la salud sexual reproductiva, garantizando la atención a las víctimas;
+VI. Brindar atención médica y hospitalaria gratuita a las usuarias de los refugios y a las mujeres víctimas de violencia de género atendidas a través de los diversos Centros de Atención a Mujeres creados para tal efecto;
 
-VIII. Diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Capacitar y certificar al personal del sector salud, respecto de la violencia contra las mujeres, incluyendo la violencia obstétrica, sus formas análogas así como su derecho a la salud sexual y reproductiva, garantizando la no discriminación;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en el ámbito de su competencia, y colaborando en el diseño e implementación de las acciones de sanción a la discriminación, trato inadecuado y violencia obstétrica ejercida en contra de las mujeres; y
 
 IX. Las demás facultades y obligaciones que le confiere esta Ley y otras disposiciones legales aplicables en la materia.
 
@@ -449,35 +779,63 @@ V. Auxiliar a las demás autoridades competentes en materia de violencia contra 
 
 VI. Recibir de las organizaciones no gubernamentales, civiles y sociales propuestas y recomendaciones sobre la prevención, atención, sanción y erradicación de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
 
-VII. Integrar las investigaciones promovidas por las dependencias del Poder Ejecutivo del Estado y organismos descentralizados, organizaciones no gubernamentales, civiles y sociales, universidades e instituciones de educación superior e investigación, sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención, sanción y erradicación, y la información derivada de cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en el Estado, los municipios y; dar a conocer públicamente los resultados;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Realizar un diagnóstico estatal y otros estudios complementarios de manera periódica con perspectiva de género sobre las formas de violencia contra las mujeres, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+VII. El Centro Estatal de Prevención Social, como parte de las acciones de prevención social del delito diseñará la política en materia de atención a las víctimas de delitos vinculados con la violencia de género, las estrategias de proximidad policial a favor de quienes tramiten órdenes de protección, la seguridad atendiendo a las necesidades diferenciadas de las mujeres y la construcción del liderazgo comunitario de mujeres de acuerdo con lo señalado en el reglamento de la ley;
 
-IX. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-X. Las demás facultades y obligaciones que le confieren la presente Ley y demás disposiciones legales aplicables.
+VIII. Realizar un diagnóstico estatal sobre el estado de riesgo de las mujeres en las diferentes comunidades, con motivo del ejercicio de la violencia comunitaria y sexual, determinando las medidas de prevención respectivas;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Integrar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+X. Diseñar y establecer en los casos de violencia de género, un plan de seguridad con la víctima de los casos que atienda, así como las estrategias de proximidad policial a que haya lugar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Auxiliar en el seguimiento de las medidas cautelares o de protección otorgada, a cuyo efecto las autoridades emisoras deberán informarle oportunamente de las medidas concedidas a fin de que se encuentre en aptitud de implementar las medidas necesarias para su cabal cumplimiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Las demás facultades y obligaciones que le confieren la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 42.
 
 Corresponde a la Procuraduría General de Justicia del Estado:
 
-I. Diseñar con perspectiva de género, la política de prevención, atención y erradicación de la violencia en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-II. Brindar asistencia integral a los receptores de violencia contra la mujer, remitiendo a las instancias competentes los casos en que de la averiguación previa se determine que no hay delito que perseguir; ordenando cuando se lo soliciten, los exámenes necesarios para determinar las alteraciones a la integridad física o daño psico-emocional que sufra la víctima, así como su causa probable;
+I. Diseñar con perspectiva de género, la política de atención y sanción de la violencia en el ámbito de su competencia;
 
-III. Crear unidades especializadas para la atención de mujeres víctimas de delitos sexuales, violentos y de violencia familiar, atendiendo el tipo de victimización sin prácticas de mediación o conciliación;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+II. Brindar asistencia integral a las víctimas directas e indirectas de delitos de género que previamente hayan iniciado una averiguación previa o carpeta de investigación;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+III. Crear unidades especializadas para la atención de mujeres víctimas de delitos sexuales y de violencia familiar, atendiendo al tipo de victimización sin prácticas de mediación o conciliación;
 
 IV. Dictar en el ámbito de su competencia, las medidas de protección a favor de las víctimas de violencia, a fin de que éstas no sigan expuestas a esa situación y reciban oportunamente la atención y tratamiento requerido. En caso de víctimas menores de edad y personas que no tengan capacidad para comprender la dimensión del hecho, las órdenes serán expedidas de oficio;
 
-V. Capacitar en materia de derechos humanos de las mujeres, al personal ministerial encargado de la prevención y trato a los receptores de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+V. Capacitar en materia de derechos humanos de las mujeres, al personal ministerial, peritos y policía de investigación encargados de la atención e investigación de hechos vinculados con violencia contra las mujeres;
 
 VI. Proporcionar orientación y asistencia jurídica a las mujeres que sean víctimas de violencia;
 
-VII. Promover la cultura de respeto a los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Cuando la conducta sea prevista como delito, la Procuraduría a través del Ministerio Público procederá conforme a la Ley aplicable;
+VII. Establecer protocolos de investigación de los delitos de violación, desaparición de mujeres, violencia familiar, trata de personas, feminicidio y secuestro;
 
-IX. Dictar las medidas necesarias para que la víctima de violencia contra la mujer reciba atención medica de emergencia y, se garantice su seguridad y la de sus hijos tratándose de violencia familiar; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Coordinar los servicios del Centro de Justicia para las Mujeres, conforme a la normatividad que regula sus funciones, y gestionar ante las instancias correspondientes, el presupuesto que permita dotarlo de personal y recursos para responder a la demanda de atención;
+
+IX. (DEROGADA, P.O. 25 DE SEPTIEMBRE DE 2015); y
 
 X. Las demás facultades y obligaciones que le confieren la presente Ley y demás disposiciones legales aplicables.
 
@@ -489,21 +847,69 @@ I. Establecer programas y acciones que impidan las prácticas discriminatorias e
 
 II. Establecer programas y acciones que fomenten la igualdad de salarios para hombres y mujeres, cuando realizan el mismo trabajo;
 
-III. Erradicar tanto en el sector público, social y privado la imposición de certificado de gravidez como requisito para solicitar u obtener un trabajo;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+III. Eliminar tanto en el sector público, social y privado la imposición de certificado de gravidez como requisito para solicitar u obtener un trabajo;
 
 IV. Establecer programas y acciones que fomenten la participación de las mujeres en todas las áreas laborales;
 
 V. Impulsar programas y acciones de gobierno para prevenir y erradicar el hostigamiento y acoso sexual de las mujeres en los centros de trabajo;
 
-VI. Canalizar a las mujeres trabajadoras víctimas de violencia laboral, a las instituciones que prestan atención y protección a las víctimas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Promover dentro de los reglamentos la implementación de sanciones administrativas para los agresores, en los cuales se tendrá que establecer los procedimientos con observancia de los principios consagrados en esta Ley;
+VI. Asesorar jurídicamente a las mujeres que vivan hostigamiento u acoso sexual para el ejercicio de sus derechos independientemente de canalizar a las mujeres trabajadoras víctimas de violencia laboral, a las instituciones que prestan atención y protección a las víctimas;
 
-VIII. Capacitar al personal de la Secretaría en materia perspectiva de género y derecho de las mujeres a una vida libre de violencia, con apego a los principios establecidos en esta Ley; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Las demás previstas para el cumplimiento de la presente Ley.
+VII. Promover dentro de los reglamentos interiores de sindicatos y empresas, la implementación de sanciones administrativas para quienes ejerzan violencia contra las mujeres en su sitio de labores, como consecuencia de sus funciones, o aprovechándose de su cargo, relación jerárquica o relación laboral, estableciéndose los procedimientos con observancia de los principios consagrados en esta Ley;
 
-### Capítulo Primero. De la alerta de género
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Capacitar al personal de la Secretaría en materia de perspectiva de género y derechos de las mujeres a una vida libre de violencia, con apego a los principios establecidos en esta Ley;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Dar a conocer las disposiciones de la Ley Federal del Trabajo en materia de igualdad sustantiva y de obligaciones de los patrones en los casos de acoso y hostigamiento sexual a las pequeñas y medianas empresas del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+X. Establecer un comité conjunto con el Instituto Queretano de las Mujeres, para la elaboración de valoraciones e impresiones diagnósticas, que establezcan el impacto en las víctimas del acoso y hostigamiento sexual, para los efectos de los despidos y separaciones por causa justificada, previstos en la Ley Federal de la materia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 43 Bis.
+
+Corresponde a la Secretaría de la Juventud:
+
+I. Diseñar y ejecutar políticas públicas con perspectiva de género, a efecto de promover el pleno acceso de las mujeres a sus derechos y su incorporación al desarrollo del Estado en condiciones de igualdad;
+
+II. Diseñar y ejecutar políticas públicas que promuevan el autoempleo y una cultura emprendedora entre las mujeres jóvenes, que tienda a su empoderamiento económico;
+
+III. Implementar campañas permanentes entre la juventud que les permita el conocimiento de las acciones necesarias para el fomento y acceso a la salud reproductiva y desalienten el embarazo precoz;
+
+IV. Diseñar y ejecutar políticas públicas de apoyo a las madres y padres juveniles, a efecto de alentar la continuación de sus estudios, incrementar su poder adquisitivo y sus posibilidades de desarrollo económico;
+
+V. Gestionar apoyos económicos y materiales dirigidos a las jóvenes, que promuevan la oferta educativa libre de estereotipos, coadyuvando a su superación académica y desarrollo integral en condiciones de igualdad;
+
+VI. Diseñar acciones que fomenten el liderazgo femenino y el desarrollo de proyectos que impulsen las potencialidades de las jóvenes;
+
+VII. Colaborar en la realización y difusión de estudios e investigaciones que permitan visualizar las causas y consecuencias de la violencia de género entre el sector juvenil y las acciones necesarias para su erradicación;
+
+VIII. Implementar campañas de prevención y orientación de la violencia contra la mujer entre la población juvenil, que tiendan a la eliminación de estereotipos que fomenten la discriminación y la violencia y promuevan la formación de nuevas masculinidades;
+
+IX. Implementar entre la población de adolescentes y jóvenes campañas permanentes de prevención y erradicación de la violencia que sufren las mujeres en el noviazgo, así como el respeto de sus derechos sexuales y reproductivos;
+
+X. Colaborar en la detección de casos de violencia contra la mujer y canalizarlos a la dependencia correspondiente;
+
+XI. Implementar cursos de sensibilización en materia de violencia de género entre su personal a fin de fomentar una cultura de igualdad de género; y
+
+XII. Las demás facultades y obligaciones que establece esta Ley y demás disposiciones legales aplicables.
+
+### Capítulo Segundo. De los Municipios
 
 ###### Artículo 44.
 
@@ -511,7 +917,9 @@ Los Municipios dentro del ámbito de su competencia, deberán:
 
 I. Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal con perspectiva de género, orientada a la prevención, atención y erradicación de la violencia contra las mujeres;
 
-II. Promover en el ámbito de su competencia, programas de prevención comunitaria e intervención temprana con el objeto de garantizar el acceso de las mujeres a una vida libre de violencia, de acuerdo con los principios establecidos en esta Ley;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+II. Diseñar, promover, difundir e instrumentar, en el ámbito de su competencia, programas de prevención comunitaria y erradicación de estereotipos de género, con el objeto de garantizar el acceso a una vida libre de violencia de acuerdo a los principios establecidos en esta Ley;
 
 III. Coadyuvar con la Federación y el Poder Ejecutivo del Estado, en la adopción y consolidación del Sistema Integral para Prevenir, Atender, Sancionar y Erradicar la violencia contra las mujeres;
 
@@ -531,29 +939,49 @@ X. Crear en el ámbito de su competencia, centros de atención a las mujeres ví
 
 XI. Gestionar y promover la creación de refugios municipales que cumplan con las normas establecidas por esta Ley;
 
-XII. Implementar las acciones afirmativas necesarias para garantizar la equidad de género dentro de su ámbito territorial;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Recabar a través de las dependencias municipales competentes, la información y estadísticas necesarias para la integración del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres; y
+XII. Implementar las acciones afirmativas necesarias para garantizar la igualdad de género dentro de su ámbito territorial;
 
-XIV. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Recabar a través de las dependencias municipales competentes, la información y estadísticas necesarias para la integración del Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Dotar de estructura y de suficiencia presupuestal a los Institutos Municipales de las Mujeres, así como de la normatividad conducente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Auxiliar en el seguimiento de las medidas cautelares o de protección otorgada, a cuyo efecto las autoridades emisoras deberán informarle oportunamente de las medidas concedidas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley y demás disposiciones legales aplicables.
 
 ## Título Quinto. Alerta de género, agravio comparado y medidas de protección
 
-### Capítulo Segundo. Del agravio comparado
+### Capítulo Primero. De la alerta de género
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 45.
 
-En lo referente a la declaratoria de alerta de género, se estará a lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+Para los efectos de que se solicite una declaratoria de alerta de género, contra el Estado de Querétaro, se estará a lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 46.
 
-Emitida la alerta de género y notificado al Sistema Estatal, se deberá establecer un grupo interinstitucional en coordinación con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres con la finalidad de realizar acciones preventivas, de seguridad y justicia; reportes especiales sobre la zona y los demás que se establezcan en el reglamento, así como en otras disposiciones legales aplicables.
+Emitida la alerta de género y notificado al Sistema Estatal, se deberá establecer un grupo interinstitucional en coordinación con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres con la finalidad de realizar acciones preventivas, de seguridad y justicia; reportes especiales sobre la zona y los demás que se establezcan en el reglamento, así como en otras disposiciones legales aplicables. Estableciéndose para tales efectos una partida presupuestal que permita solventar la alerta de género determinada.
 
-### Capítulo Tercero. De las medidas de protección
+### Capítulo Segundo. Del agravio comparado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 47.
 
-El agravio comparado tiene por objeto lograr la armonización y homogenización de los derechos de las mujeres en todo el territorio del Estado.
+La declaratoria de alerta de violencia de género por agravio comparado tiene por objeto lograr la armonización y homogenización de los derechos de las mujeres en todo el territorio del Estado.
 
 Existe agravio comparado en caso de que un cuerpo normativo vigente contenga alguno de los siguientes supuestos que trasgredan los derechos humanos de las mujeres:
 
@@ -565,11 +993,17 @@ III. Se genere una aplicación inequitativa de la ley, lesionándose los derecho
 
 Cuando se actualice este tipo de agravio comparado, se estará a lo dispuesto en los ordenamientos generales.
 
-### Capítulo Primero. De la atención a las víctimas de violencia
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Cuando se presente una solicitud de declaratoria de alerta de género por agravio comparado, en términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y su Reglamento, se deberá establecer un grupo interinstitucional en coordinación con el Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, con la finalidad de realizar los estudios legislativos pertinentes para determinar si existe el agravio comparado aducido, considerando los datos de procuración e impartición de justicia relacionados con la violencia contra las mujeres, y determinar las medidas necesarias a fin de eliminar las desigualdades producidas por el ordenamiento jurídico o las políticas públicas que impidan el reconocimiento o el ejercicio pleno de los derechos humanos de las mujeres protegidos en todos aquellos instrumentos internacionales reconocidos y ratificados por el Estado Mexicano.
+
+### Capítulo Tercero. De las medidas de protección
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 48.
 
-Las medidas de protección son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Las medidas de protección deberán otorgarse por las autoridades jurisdiccionales competentes, inmediatamente que conozcan de hechos en los que se presente violencia contra la mujer.
+Las medidas de protección son actos de protección y de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares. Las medidas de protección deberán otorgarse por las autoridades jurisdiccionales y administrativas competentes, inmediatamente que conozcan de hechos en los que se presente violencia contra la mujer.
 
 ###### Artículo 49.
 
@@ -579,7 +1013,9 @@ I. De emergencia;
 
 II. Preventivas; y
 
-III. De naturaleza civil.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+III. De naturaleza civil y familiar.
 
 Las medidas de protección de emergencia y preventivas tendrán una temporalidad no mayor de setenta y dos horas y deberán expedirse dentro de las veinticuatro horas siguientes al conocimiento de los hechos que las generan.
 
@@ -623,6 +1059,10 @@ VI. Los demás mecanismos que establezcan otros ordenamientos legales aplicables
 
 Corresponderá a las autoridades jurisdiccionales competentes otorgar las medidas emergentes y preventivas de la presente Ley, quienes tomarán en consideración el riesgo o peligro existente y la seguridad de la víctima.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Al efecto, no podrán exigir mayores requisitos que los previstos por la ley, como denuncia previa, lesiones, o informes psicológicos, bastando para su otorgamiento con acreditar el riesgo o peligro situacional de la solicitante.
+
 ###### Artículo 53.
 
 Son medidas de naturaleza civil las siguientes:
@@ -645,11 +1085,13 @@ Corresponde a las autoridades jurisdiccionales competentes valorar las medidas y
 
 ## Título Sexto. De las víctimas de violencia en contra de la mujer
 
-### Capítulo Segundo. Del Refugio para Mujeres Víctimas de Violencia
+### Capítulo Primero. De la atención a las víctimas de violencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 55.
 
-Las autoridades en el ámbito de sus respectivas competencias deberán presentar atención a las víctimas, consistente en:
+Las autoridades en el ámbito de sus respectivas competencias deberán prestar atención a las mujeres víctimas de violencia de género, consistente en:
 
 I. Fomentar la adopción y aplicación de acciones y programas, por medio de los cuales se les brinde protección;
 
@@ -657,9 +1099,17 @@ II. Promover la atención a víctimas por parte de las diversas instituciones de
 
 III. Proporcionar a las víctimas la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
 
-IV. Proporcionar un refugio seguro a las víctimas; e
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-V. Informar a la autoridad competente en los casos de violencia que ocurran en los centros educativos.
+IV. Proporcionar un refugio seguro a las mujeres víctimas de violencia;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+V. Informar a la autoridad competente en los casos de violencia que ocurran en los centros educativos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Auxiliar a las mujeres receptoras de violencia de género que atienda según su competencia, en el diseño de un plan de seguridad que les permita disminuir su estado de riesgo.
 
 La atención a las víctimas de violencia en contra de la mujer deberá ser proporcionada a través de los centros de atención y el refugio previstos en esta Ley.
 
@@ -679,13 +1129,25 @@ V. Contar con atención médica, psicológica o jurídica especializada que favo
 
 VI. Contar con un refugio en los términos previstos por esta Ley;
 
-VII. En los casos de violencia familiar, las mujeres que tengan hijas o hijos menores de edad podrán acudir a los refugios con éstos; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. Los demás previstos en esta Ley.
+VII. En los casos de violencia familiar, las mujeres que tengan hijas o hijos menores de edad podrán acudir a los refugios con éstos;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. No ser sometida a procedimientos de conciliación, mediación o negociación en procedimientos de investigación de delitos, procedimiento o procesos jurisdiccionales, psicoterapias de pareja o familia cuando exista indicio de cualquier tipo de existencia de violencia de género; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Los demás previstos en esta Ley.
+
+### Capítulo Segundo. Del Refugio para Mujeres Víctimas de Violencia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 57.
 
-Las autoridades que conozcan de los actos de violencia contra las mujeres previstos en esta Ley, deberán considerar la situación de vulnerabilidad en que se encuentre la víctima, por lo que de ser necesario, deberán canalizarla al Instituto Queretano de la Mujer para ser remitidas al Refugio para Mujeres del Estado.
+Las autoridades que conozcan de los actos de violencia contra las mujeres previstos en esta Ley, deberán considerar el estado de riesgo en que se encuentre la víctima, por lo que de ser necesario, deberán canalizarla al Instituto Queretano de las Mujeres para ser remitidas al Refugio para Mujeres del Estado.
 
 El Poder Ejecutivo del Estado y los municipios, podrán celebrar convenios de colaboración con los diversos sectores social y privado con el objeto de impulsar el establecimiento, operación y permanencia de refugios destinados a este fin.
 
@@ -719,7 +1181,9 @@ IX. Las demás que confiera su decreto de creación.
 
 La permanencia de las víctimas en el refugio no podrá ser mayor a 3 meses, a menos de que persista la inestabilidad física, psicológica o la situación en riesgo de la víctima.
 
-Los servicios proporcionados por el refugio serán conforme a las necesidades persistentes de las mujeres que se encuentren en ellos.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Los servicios proporcionados por el refugio serán conforme a las necesidades persistentes de las mujeres que se encuentren en ellos, ya sea que se trate de refugios de primer o segundo nivel, en cuyo caso se privilegiará la independencia y autonomía de las mujeres.
 
 ###### Artículo 61.
 
@@ -790,3 +1254,13 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las demás disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento.
+
+Artículo Tercero. Dentro de los siguientes 120 días naturales posteriores a la publicación de la presente Ley, el titular del Poder Ejecutivo del Estado expedirá la reglamentación correspondiente.
