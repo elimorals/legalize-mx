@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-y-servicios-relacionados-con-las-66144"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2014-12-09"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -97,9 +97,17 @@ XII. Órganos ejecutores: Los contemplados en las fracciones I al V del artícul
 
 XIII. Padrón de Contratistas: Registro administrativo en el que se inscribe a las personas físicas y morales que han satisfecho los requisitos establecidos por el Órgano de Control para celebrar contratos de obra pública y servicios relacionados con el gobierno del estado;
 
-XIV. Secretaría: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza, y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XV. Sobre cerrado: Cualquier medio que contenga la proposición del licitante cuyo contenido solo puede ser conocido en el acto de presentación y apertura de proposiciones en los términos de la Ley.
+XIV. Contratistas Salarialmente Responsables: Los Contratistas que hayan comprobado fehacientemente, a través de la documentación o cualquier otra prueba idónea, que sus trabajadores y los que laboren para terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta del Estado de Coahuila de Zaragoza o en su caso el salario mínimo general vigente en la capital del estado, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Secretaría: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza, y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Sobre cerrado: Cualquier medio que contenga la proposición del licitante cuyo contenido solo puede ser conocido en el acto de presentación y apertura de proposiciones en los términos de la Ley.
 
 ###### Artículo 3.
 
@@ -405,9 +413,11 @@ El Órgano de Control operará y se encargará del sistema de certificación de 
 
 El Órgano de Control deberá aceptar la certificación de medios de identificación electrónica que realicen las dependencias y entidades, así como terceros facultados por autoridad competente en la materia, cuando los sistemas de certificación empleados se ajusten a las disposiciones que emita el Órgano de Control.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-En los procedimientos de contratación de obras públicas y de servicios relacionados con las mismas, los órganos ejecutores optarán, en igualdad de condiciones, por el empleo de los recursos humanos del Estado y por la utilización de bienes o servicios de procedencia nacional y los propios de la región, sin perjuicio de lo dispuesto en los convenios o tratados.
+En los procedimientos de contratación de obras públicas y de servicios relacionados con las mismas, los órganos ejecutores optarán, en igualdad de condiciones, por el empleo de los recursos humanos del Estado, por Contratistas Salarialmente Responsables y por la utilización de bienes o servicios de procedencia nacional y los propios de la región, sin perjuicio de lo dispuesto en los convenios o tratados.
 
 ###### Artículo 28.
 
@@ -453,7 +463,9 @@ I. El nombre, denominación o razón social de la dependencia o entidad convocan
 
 II. El numero de Oficio de Autorización de Liberación de Recursos emitido por la Secretaría;
 
-III. La indicación de que se deberá contar con el registro en el padrón de contratistas ante el Órgano de Control, vigente a la fecha de presentación de propuestas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+III. La indicación de que se deberá contar con el registro en el padrón de contratistas ante el Órgano de Control vigente a la fecha de presentación de propuestas y que en su caso este contenga la anotación con la que acredite la calidad de Contratistas (sic) Salarialmente Responsable.
 
 IV. La forma en que los licitantes deberán acreditar su existencia legal, la experiencia y capacidad técnica en obras similares y capacidad financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
@@ -577,9 +589,13 @@ En caso de omisión en la entrega del escrito a que se refiere esta fracción, o
 
 XXXI. Tratándose de propuestas conjuntas en los términos del artículo 35 presente ordenamiento jurídico, la indicación del porcentaje mínimo de capital contable que deberá comprobar el licitante local y la proporción de la obra que obligadamente tiene que llevar a cabo el mismo licitante local, que en ambos casos deberá ser al menos del 50 por ciento. Para esto último deberá comprobar a satisfacción de la convocante, que cuenta con suficientes recursos financieros y técnicos;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XXXII. La relación de documentos que los licitante s (sic) deberán integrar a sus proposiciones;
+XXXII. La relación de documentos que los licitantes deberán integrar a sus proposiciones;
+
+Se deberá señalar que para corroborar la calidad de Contratista Salarialmente Responsable, además de la revisión documental, la autoridad convocante podrá realizar las consultas que considere necesarias ante las instancias competentes.
+
+Se indicará la obligación de la persona física o moral que fungirá como contratista, de mantenerse como Contratista Salarialmente Responsable, en tanto dure el contrato, cuando éste sea el factor que determinó la adjudicación, mediante la entrega periódica de los documentos emitidos por la autoridad competente que permitan a la convocante corroborarlo.
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
@@ -633,13 +649,13 @@ En las juntas de aclaraciones, las convocantes resolverán en forma clara precis
 
 Cualquier modificación a las bases de la licitación, derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de las propias bases de licitación.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 35.
 
-La entrega de las propuestas presenciales se hará en sobre cerrado, en los términos solicitados en las bases de la licitación y acompañada, cuando así se disponga en las bases de licitación, de un dispositivo magnético, preferentemente disco compacto, introducido en el sobre que contenga fielmente reproducida la información de la propuesta y de los anexos indicados. La documentación distinta a la propuesta técnica y económica que específicamente señale la convocante en las bases de la licitación, podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+La entrega de las propuestas presenciales se hará en sobre cerrado, en los términos solicitados en las bases de la licitación y acompañada, cuando así se disponga en las bases de licitación, de un dispositivo magnético, preferentemente disco compacto, introducido en el sobre que contenga fielmente reproducida la información de la propuesta y de los anexos indicados, y en su caso, la anotación correspondiente que acredite a las personas físicas o morales participantes ser Contratistas Salarialmente Responsables, de conformidad a lo señalado en el presente ordenamiento. La documentación distinta a la propuesta técnica y económica que específicamente señale la convocante en las bases de la licitación, podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
 
-Dos o más personas podrán presentar conjuntamente propuestas sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas.
+Dos o más personas podrán presentar conjuntamente propuestas sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta y en el contrato se establezcan con precisión y a satisfacción de la dependencia o entidad, las partes de los trabajos que cada persona se obligará a ejecutar, así como la manera en que se exigiría el cumplimiento de las obligaciones. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto haya sido designado por el grupo de personas. En caso de que participen contratistas en conjunto, todos estos deberán acreditar la calidad de Salarialmente Responsable.
 
 En todos los casos, se deberá preferir la especialidad, experiencia en obras similares o servicios similares y capacidad técnica de los interesados, así como a aquellos contratistas que, en su caso, hayan ejecutado obras con contratos terminados en costo y tiempo.
 
@@ -675,7 +691,9 @@ No serán objeto de evaluación las condiciones establecidas por las convocantes
 
 Una vez hecha la evaluación de las propuestas, se determinará cuál o cuáles reúnen las condiciones legales, técnicas y económicas requeridas por la convocante y garantizan satisfactoriamente el cumplimiento de las obligaciones respectivas y en consecuencia serán consideradas solventes conforme a los criterios de evaluación establecidos.
 
-La convocante emitirá un dictamen que servirá como base para el fallo, en el que se harán constar los criterios utilizados para la evaluación de las propuestas; una reseña cronológica de los actos del procedimiento; el análisis de las proposiciones y las razones técnicas o económicas para admitirlas o desecharlas; el nombre de los licitantes cuyas propuestas fueron aceptadas por haber cumplido con los requisitos solicitados; el nombre de los licitantes cuyas propuestas fueron desechadas como resultado del análisis cualitativo; la relación de los licitantes cuyas propuestas calificaron como solventes de menor a mayor de acuerdo a sus montos; asimismo se asentará la fecha y lugar de elaboración así como el nombre, firma y cargo de de (sic) los servidores públicos encargados de su elaboración y aprobación.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+La convocante emitirá un dictamen que servirá como base para el fallo, en el que se harán constar los criterios utilizados para la evaluación de las propuestas; una reseña cronológica de los actos del procedimiento; el análisis de las proposiciones y las razones técnicas o económicas para admitirlas o desecharlas; el nombre de los licitantes cuyas propuestas fueron aceptadas por haber cumplido con los requisitos solicitados, y en su caso, si estos son Contratistas Salarialmente Responsables debidamente acreditados; el nombre de los licitantes cuyas propuestas fueron desechadas como resultado del análisis cualitativo; la relación de los licitantes cuyas propuestas calificaron como solventes de menor a mayor de acuerdo a sus montos; asimismo se asentará la fecha y lugar de elaboración así como el nombre, firma y cargo de los servidores públicos encargados de su elaboración y aprobación.
 
 Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición que resulte económicamente más conveniente para el Estado.
 
@@ -705,7 +723,9 @@ Las dependencias y entidades podrán cancelar una licitación por caso fortuito 
 
 Las dependencias y entidades, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación a cuando menos tres personas o de adjudicación directa.
 
-La selección de licitantes que realicen las dependencias y entidades deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren las mejores condiciones para el Estado.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+La selección de licitantes que realicen las dependencias y entidades deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que aseguren al Estado o sus municipios las mejores condiciones de oferta, oportunidad, precio, calidad, financiamiento y promoción de Contratistas Salarialmente Responsables.
 
 El acreditamiento del o de los criterios a que se refiere el párrafo anterior, así como la justificación para el ejercicio de la opción, deberá constar en un dictamen por escrito, firmado por el titular del área responsable de la ejecución de los trabajos, que contenga el lugar y fecha de su emisión, la descripción general de los trabajos, el procedimiento de contratación seleccionado, la fundamentación del supuesto de excepción, los criterios o razones que se tienen para justificar el ejercicio de la opción, fecha probable de inicio de los trabajos y el plazo de ejecución de los mismos.
 
@@ -756,6 +776,10 @@ XII. Se trate de servicios de consultorías, asesorías, estudios, investigacion
 (ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
 
 XIII. Se hayan declarado desiertos dos procedimientos de invitación a cuando menos tres personas, en este caso, la dependencia o entidad podrá adjudicar directamente el contrato.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Cuando los concursantes satisfagan la totalidad de los requerimientos de la convocante y reúnan las condiciones legales, técnicas, económicas, financieras y administrativas y por lo tanto se presente en igualdad de condiciones, se preferirá, con base en la revisión de los documentos aportados, a la persona física o moral que haya acreditado ser un Contratista Salarialmente Responsable en términos de lo establecido en la presente ley.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
 
@@ -884,6 +908,10 @@ XVI. La manifestación de que las obras públicas sólo serán recibidas cuando 
 XVII. La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar como parte integrante del contrato, en el caso de las obras, los proyectos, planos, especificaciones, normas de calidad, programas y presupuestos; tratándose de servicios, los términos de referencia, y
 
 XVIII. Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo que, de ninguna manera, impliquen una audiencia de conciliación.
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. La obligación de la persona física o moral que fungirá como contratista, de mantenerse como Contratista Salarialmente Responsable, en tanto dure el contrato, cuando éste haya sido el factor que determinó la adjudicación.
 
 Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en las bases de licitación.
 
@@ -1405,7 +1433,7 @@ IV. Los actos y omisiones por parte de la convocante que impidan la formalizaci�
 
 En esta hipótesis, la inconformidad sólo podrá presentarse por quien haya resultado adjudicado, dentro de los diez días hábiles siguientes a aquél en que se hubiere vencido el plazo para la formalización del contrato.
 
-EI Órgano de Control desechará las inconformidades que se presenten en contra de actos o en momentos distintos a los establecidos en las fracciones anteriores; igualmente, desechará las inconformidades a que se refiere la fracción I de este artículo, cuando de las constancias se desprenda que el inconforme no hubiere asistido a la junta de aclaraciones o cuando, habiendo asistido, no hubiere manifestado su objeción y los argumentos y razones jurídicas que la funden respecto de aquellos actos que presuntamente contravengan las disposiciones que rigen las materias objeto de esta Ley.
+El Órgano de Control desechará las inconformidades que se presenten en contra de actos o en momentos distintos a los establecidos en las fracciones anteriores; igualmente, desechará las inconformidades a que se refiere la fracción I de este artículo, cuando de las constancias se desprenda que el inconforme no hubiere asistido a la junta de aclaraciones o cuando, habiendo asistido, no hubiere manifestado su objeción y los argumentos y razones jurídicas que la funden respecto de aquellos actos que presuntamente contravengan las disposiciones que rigen las materias objeto de esta Ley.
 
 Toda inconformidad será presentada por escrito, o a través de los medios de comunicación electrónica que al efecto establezca el Órgano de Control.
 
@@ -1499,7 +1527,9 @@ En el supuesto de que las partes lleguen a una conciliación, el convenio respec
 
 El Órgano de Control, establecerá y mantendrá actualizado el Padrón de Contratistas de la Administración Pública Estatal, clasificando a las personas físicas y morales que soliciten su inscripción en dicho padrón, de acuerdo con su actividad preponderante registrada en el Registro Federal de Contribuyentes, clase de riesgo registrado ante el Instituto Mexicano del Seguro Social, especialidad, experiencia, capacidad técnica, capacidad económica y su ubicación en el estado.
 
-El Órgano de Control, hará del conocimiento de las dependencias, entidades y del público en general, las personas físicas y morales registradas en el Padrón a través de los medios de difusión electrónica que establezca, a la cual deberán acceder las dependencias, entidades y municipios para verificar la inscripción y vigencia de los Certificados de Aptitud.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+El Órgano de Control hará del conocimiento de las dependencias, entidades y del público en general, las personas físicas y morales registradas en el padrón, así como aquellas que cuenten con la calidad de Proveedores Salarialmente Responsables, a través de los medios de difusión electrónica que establezca, a los cuales deberán acceder las dependencias, entidades y municipios para verificar la inscripción y vigencia de los Certificados de Aptitud y en su caso la anotación que lo identifique como Proveedor Salarialmente Responsable.
 
 Para toda obra pública o de servicios relacionados con las mismas que se realicen en total o parte con fondos estatales, las dependencias, entidades y municipios, sólo podrán aceptar proposiciones y celebrar contrato, con las personas físicas y morales inscritas en el Padrón cuyo Certificado de Aptitud esté vigente en la fecha de presentación y apertura de las proposiciones. En el caso de Invitación a cuando menos tres personas solo se invitará a los licitantes que se encuentren inscritos y vigentes a la fecha de inicio del procedimiento de contratación, así mismo en el caso de adjudicación directa.
 
@@ -1523,7 +1553,19 @@ VI. Pagar previamente los derechos establecidos en el ordenamiento correspondien
 
 VII. Los demás documentos e información que el Órgano de Control considere pertinentes. Las personas físicas deberán acreditarse con su acta de nacimiento, debiendo cumplir con los requisitos de este Artículo, excepto los de las fracciones II y III.
 
-El Órgano de Control, podrá verificar en cualquier tiempo la veracidad de la información a que se refiere este artículo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Las personas interesadas en acreditar su calidad de Contratista Salarialmente Responsable, deberán presentar constancias de declaraciones informativas anuales de naturaleza fiscal, de movimiento de alta o de modificación de sueldo en materia de seguridad social y de pago del Impuesto Sobre la Renta.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+El Órgano de Control, podrá verificar en cualquier tiempo la veracidad de la información a que se refiere este artículo y podrá solicitar la documentación que juzgue conveniente.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Además de la revisión documental, la autoridad podrá realizar las consultas que se consideren necesarias ante las instancias competentes para corroborar la información.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 Las personas interesadas en inscribirse vía electrónica en el padrón, deberán atender los lineamientos que al efecto emita el Órgano de Control.
 
@@ -1533,23 +1575,39 @@ Los interesados presentarán su solicitud ante el Órgano de Control, el cual, d
 
 El Órgano de Control, expedirá al interesado el Certificado de Aptitud que servirá para acreditar su calidad de Contratista o Prestador de Servicios relacionados con la obra pública, legalmente establecido, su existencia si es persona moral y su solvencia económica y capacidad para contratar con las dependencias y entidades de la Administración Pública Estatal, los trabajos de obra pública y los servicios relacionados con las Mismas, en los procesos de contratación en que comparezca.
 
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+En el caso de que el interesado hubiere acompañado esta solicitud de los documentos mencionados en el párrafo tercero del artículo 94 de la presente ley, el certificado de aptitud contará con una anotación con la que se acreditará la calidad de Salarialmente Responsable.
+
 El Certificado de Aptitud deberá estar vigente y será requisito indispensable para que comparezca el interesado en cualquier procedimiento de los previstos por este ordenamiento.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 96.
 
-El Registro en el Padrón de Contratistas de la Administración Pública Estatal, tendrá una vigencia anual y podrá revalidarse anualmente siempre y cuando no se incurra en alguna de las causales de suspensión o cancelación.
+El Registro en el Padrón de Contratistas de la Administración Pública Estatal, y en su caso, la calidad de Contratistas Salarialmente Responsables, tendrá una vigencia anual y podrá revalidarse anualmente siempre y cuando no se incurra en alguna de las causales de suspensión o cancelación.
 
-Los contratistas que tengan interés en continuar inscritos en el Padrón, podrán presentar su solicitud de refrendo ante el Órgano de Control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos complementarios que procedan, en los términos del artículo anterior.
+Los contratistas que tengan interés en continuar inscritos en el Padrón, y en su caso, conservar la calidad de Salarialmente Responsables podrán presentar su solicitud de refrendo ante el Órgano de Control, dentro de los treinta días hábiles anteriores al vencimiento de su Certificado de Aptitud, la cual deberá ser acompañada con la información y documentos complementarios que procedan, en los términos del artículo anterior.
 
-La inscripción y la revalidación causarán los derechos que establezca la Ley de Hacienda del Estado.
+La inscripción y la revalidación causarán los derechos que establezca la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
 
 Así mismo deberán comunicar por escrito al Órgano de Control dentro de un plazo de sesenta días naturales a partir de que suceda cualquier situación que se presente en su empresa y que modifique los datos proporcionados para obtener su Certificado de Aptitud o revalidación.
 
-En caso de que se requiera solventar alguna observación dentro del procedimiento de trámite del Certificado de Aptitud o revalidación, el Órgano de Control lo hará del conocimiento del solicitante a través de los medios electrónicos establecidos para ello, para que éste presente las aclaraciones y documentos pertinentes en un plazo que no exceda de quince días hábiles contados a partir de la fecha en que reciba la comunicación; en caso de no ser atendida la solventación en este plazo, la solicitud se dará por cancelada, turnando la documentación para su devolución al interesado.
+En caso de que se requiera solventar alguna observación dentro del procedimiento de trámite del Certificado de Aptitud, y en su caso, la acreditación de la calidad de Salarialmente Responsable, o revalidación de éstos, el Órgano de Control lo hará del conocimiento del solicitante a través de los medios electrónicos establecidos para ello, para que éste presente las aclaraciones y documentos pertinentes en un plazo que no exceda de quince días hábiles contados a partir de la fecha en que reciba la comunicación; en caso de no ser atendida la solventación en este plazo, la solicitud se dará por cancelada, turnando la documentación para su devolución al interesado.
 
-Cuando el Contratista dejase de revalidar su Certificado de Aptitud por un periodo de treinta y seis meses consecutivos contados a partir de la fecha de vencimiento; deberá iniciar los trámites para su inscripción en los términos del Artículo 94 de este ordenamiento jurídico.
+Cuando el Contratista dejase de revalidar su Certificado de Aptitud y en su caso la calidad de Salarialmente Responsable, por un período de treinta y seis meses consecutivos contados a partir de la fecha de vencimiento; deberá iniciar los trámites para su inscripción en los términos del Artículo 94 de este ordenamiento jurídico.
 
 La omisión de la solicitud de revalidación o de su negación, traerá como consecuencia la cancelación del Certificado de Aptitud a su vencimiento, sin perjuicio del derecho del interesado para formular nueva solicitud.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 96-A.
+
+Será responsabilidad única y exclusiva de los proveedores registrados, mantener la calidad de Salarialmente Responsable, por lo que en caso de ya no cumplir con esta condición, deberá dar aviso por escrito al Órgano de Control a efecto de que este actualice la anotación en el registro, dicho aviso deberá hacerlo en un plazo de 30 días posteriores a que haya dejado de tener la calidad de Contratista Salarialmente Responsable.
+
+En caso de ser omiso en la presentación de éste aviso, se dará parte al Órgano de Control para que con base en los procedimientos que correspondan, se determine la cancelación de su calidad de Salarialmente Responsable.
+
+En el supuesto de que el Contratista Salarialmente Responsable deje de tener esta calidad y tenga vigentes contratos y asignaciones con cualquier dependencia, entidad o municipio que ejerza presupuesto del erario público del Estado de Coahuila de Zaragoza, se procederá a la inhabilitación en los términos de la presente ley por el Órgano de Control.
 
 ###### Artículo 97.
 
@@ -1582,6 +1640,10 @@ VIII. Cuando como resultado de la revisión de la solicitud de las personas mora
 (ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
 
 IX. Cuando como resultado de la revisión de la solicitud de las personas morales, se detecte que en su capital social participan personas en cuyo capital social a su vez participen personas físicas o morales que se encuentren inhabilitadas por la Secretaría de la Función Pública Federal, en los términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y esta Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Se negará la calidad de Salarialmente Responsable, a todos aquellos contratistas que incumplan con los requisitos contemplados en la presente ley.
 
 ###### Artículo 98.
 
@@ -1630,6 +1692,10 @@ V. Se les declare incapacitados legalmente para contratar;
 VI. Tenga de conocimiento propio o por parte de terceros de que los trabajos contratados se realicen con deficiente calidad y estos no correspondan a la contratada, y
 
 VII. Cualquier otra circunstancia que evidencie hechos de falta de probidad ética o profesional.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
+Se cancelará la calidad de Salarialmente Responsable, a todos aquellos contratistas que incumplan con los requisitos contemplados en la presente ley.
 
 (ADICIONADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -1754,3 +1820,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de la fecha de su Publicación en el Periódico oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- El Ejecutivo a través de la Secretaría de Fiscalización y Rendición de Cuentas, tendrá 30 días, contados a partir de la entrada en vigor, para establecer el proceso o mecanismo y condiciones técnicas necesarias para habilitar y adecuar los Padrones de Contratistas de Obra Pública del Gobierno del Estado y el de Proveedores de la Administración Pública del Estado, a fin de dar cumplimiento al presente decreto.
+
+TERCERO.- Se abrirá un plazo inicial de 90 días contados a partir de que se habilite el registro de Proveedores y Contratistas Salarialmente Responsables, para los proveedores que opten por obtener la condición de Salarialmente Responsable y con ello sean potencialmente beneficiados en los procesos de adjudicación y contratación que ejecuta la administración pública estatal.
+
+CUARTO.- Para los proveedores y contratistas que ya se encuentren inscritos en el padrón y que estos acrediten su calidad de Salarialmente Responsables dentro del plazo del artículo anterior, se entenderá que ésta se renovará conjuntamente con su certificado de aptitud.
+
+QUINTO.- Las disposiciones correspondientes a la Unidad de Cuenta serán aplicables una vez que haya entrado en vigor la Ley de la Unidad de Cuenta del Estado de Coahuila de Zaragoza.
+
+SEXTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
