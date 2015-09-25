@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2014-12-17"
+last_updated: "2015-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # CODIGO PENAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN
+CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EN LA FECHA QUE SEÑALA LA DECLARATORIA QUE AL EFECTO EXPIDA EL CONGRESO DEL ESTADO DE MICHOACÁN, PARA LA ENTRADA DEL NUEVO SISTEMA DE JUSTICIA PENAL.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2531,6 +2531,8 @@ Reglas especiales para la individualización de la pena
 
 Para la individualización de las consecuencias jurídicas prevista en este Título, se considerará si el servidor público es trabajador de base o de confianza, su antigüedad en el empleo, cargo o comisión, su nivel jerárquico, antecedentes de servicio, percepciones y situación económica, grado de instrucción, las circunstancias especiales de comisión del delito, así como el monto del beneficio obtenido o del daño causado.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 240.
 
 Consecuencias jurídicas del delito
@@ -2539,9 +2541,11 @@ Además de las penas previstas en este Código, se impondrá a los sujetos activ
 
 I. Destitución del empleo, cargo o comisión en el servicio público;
 
-II. Inhabilitación de dos a ocho años para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público; y
+II. Inhabilitación de dos a ocho años para obtener y desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público;
 
-III. Decomiso de los instrumentos, objetos y productos del delito.
+III. Decomiso de los instrumentos, objetos y productos del delito; y,
+
+IV. La pena de prisión se aumentará hasta en una mitad de la máxima en caso de enriquecimiento ilícito. Existe ésta circunstancia, cuando al sujeto activo se le acredite el ilegítimo aumento de su patrimonio o la ilegítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios. Incurre en responsabilidad penal, asimismo, quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma Ley, a sabiendas de esta circunstancia.
 
 ### CAPÍTULO VIII. TRÁFICO DE INFLUENCIA
 
@@ -3422,3 +3426,9 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 17 diecisiete días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
