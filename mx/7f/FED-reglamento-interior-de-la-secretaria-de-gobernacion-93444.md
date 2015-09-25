@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-gobernacion-93444"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2014-01-15"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-04-01"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -96,6 +96,10 @@ XVI. Comisión para el Diálogo con los Pueblos Indígenas de México;
 XVII. Dirección General de Análisis y Prospectiva para la Política Interior;
 
 XVIII. Dirección General de Juegos y Sorteos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII-A. Dirección General de Delegaciones;
 
 XIX. Dirección General de Estudios Legislativos;
 
@@ -197,9 +201,17 @@ XI. Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
 XII. Policía Federal;
 
-XIII. Servicio de Protección Federal, y
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Prevención y Readaptación Social.
+XIII. Servicio de Protección Federal;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Prevención y Readaptación Social, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
 
 La Secretaría contará con un Órgano Interno de Control que se organizará conforme a lo previsto en el artículo 129 de este Reglamento.
 
@@ -213,9 +225,13 @@ La Secretaría de Gobernación planeará y conducirá sus actividades con sujeci
 
 ### Capítulo II. Del Secretario
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-La representación, trámite y resolución de los asuntos que competen a la Secretaría de Gobernación corresponde originalmente al Secretario, quien sin perjuicio de su ejercicio directo, podrá delegar sus facultades en servidores públicos subalternos, salvo aquellas que las disposiciones aplicables señalen como indelegables.
+Corresponde originalmente al Secretario la representación, trámite y resolución de los asuntos que competen a la Secretaría de Gobernación, así como la supervisión de las facultades que ejerzan los servidores públicos, unidades administrativas y órganos administrativos desconcentrados de la Secretaría.
+
+Para la mejor organización del trabajo, el Secretario podrá delegar sus facultades en servidores públicos subalternos, salvo aquéllas que las disposiciones jurídicas aplicables señalen como indelegables, sin perjuicio de su ejercicio directo.
 
 ###### Artículo 5.
 
@@ -298,6 +314,10 @@ XXXVII. Presidir la Conferencia Nacional de Secretarios de Seguridad Pública, y
 XXXVIII. Designar al Presidente de la Conferencia Nacional del Sistema Penitenciario, y nombrar y remover al Secretario Técnico de la misma;
 
 XXXIX. Establecer un sistema de investigación e información, que contribuya a preservar la integridad, estabilidad y permanencia del Estado Mexicano;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XXXIX Bis. Determinar la circunscripción territorial de las Direcciones Generales Adjuntas Regionales y de las Delegaciones Estatales de la Secretaría mediante acuerdo publicado en el Diario Oficial de la Federación;
 
 XL. Acordar con el Presidente de la República la designación del responsable de la Unidad de Asuntos Internos de la Policía Federal, y
 
@@ -419,9 +439,11 @@ XXX. Las demás que le señalen otras disposiciones legales o reglamentarias o l
 
 El Coordinador Nacional de Protección Civil, los titulares de Unidad General, el Comisionado para el Diálogo con los Pueblos Indígenas de México, los titulares de Unidad y los Directores Generales podrán auxiliarse por los directores generales adjuntos, directores y subdirectores de área, jefes de departamento o sus similares y demás servidores públicos que se requieran para cubrir las necesidades del servicio y figuren en su estructura autorizada, conforme a las disposiciones normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 9.
 
-El Coordinador Nacional de Protección Civil; los titulares de Unidad General; el Comisionado para el Diálogo con los Pueblos Indígenas de México; los titulares de Unidad y los Directores Generales tendrán las siguientes facultades genéricas:
+El Coordinador Nacional de Protección Civil; el titular de la Unidad General de Asuntos Jurídicos; el Comisionado para el Diálogo con los Pueblos Indígenas de México; los titulares de Unidad y los Directores Generales tendrán las siguientes facultades genéricas:
 
 I. Acordar con su superior jerárquico la resolución de los asuntos a su cargo;
 
@@ -519,27 +541,103 @@ XXIII. Editar, distribuir y difundir el Diario Oficial de la Federación de conf
 
 Sin perjuicio de lo dispuesto por otras disposiciones de este Reglamento, para el eficaz despacho de los asuntos a su cargo y para un mejor desempeño en el ejercicio de sus atribuciones, el titular de la Unidad de Gobierno podrá auxiliarse, entre otros, por el Director General Adjunto del Diario Oficial de la Federación y por el Director de Coordinación Política con los Poderes de la Unión.
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
 La Unidad de Enlace Federal y Coordinación con Entidades Federativas tendrá las siguientes atribuciones:
 
-I. Auxiliar al Secretario en la conducción de las relaciones del Poder Ejecutivo Federal con los gobiernos de los estados y de los municipios, con los organismos electorales, partidos y agrupaciones políticas en las entidades federativas, así como con las demás autoridades federales y locales, salvo aquellas que correspondan a otra unidad administrativa de la Secretaría;
+I. Contribuir con el Secretario, en el ámbito de su competencia, en la conducción de las relaciones del Poder Ejecutivo Federal con las autoridades de los gobiernos de las entidades federativas y de los municipios, con los organismos electorales, partidos y agrupaciones políticas en las entidades federativas, así como con las demás autoridades federales, de las entidades federativas y de los municipios;
 
-II. Atender los asuntos que planteen las entidades federativas;
+II. Conducir las estrategias para la atención de los asuntos que planteen las autoridades de las entidades federativas, en el ámbito de su competencia;
 
-III. Determinar e instrumentar las acciones necesarias para la coordinación, organización y funcionamiento de las representaciones de la Subsecretaría de Gobierno en las entidades federativas;
+III. Participar, en el ámbito de su competencia, en las acciones de coordinación con delegados o representantes de otras dependencias y entidades de la Administración Pública Federal en las entidades federativas, en los términos del artículo 27, fracción I de la Ley Orgánica de la Administración Pública Federal;
 
-IV. Coordinar y dar seguimiento a las actividades que lleven a cabo las representaciones de la Subsecretaría de Gobierno en las entidades federativas;
+IV. Definir y conducir las actividades que lleven a cabo las áreas bajo su adscripción;
 
-V. Supervisar que las representaciones de la Subsecretaría de Gobierno en las entidades federativas brinden la debida atención y apoyo a las unidades administrativas u órganos administrativos desconcentrados de la Secretaría cuando así les sea requerido o bien, cuando así lo determine el Secretario para el debido ejercicio de sus atribuciones, fungiendo como ventanilla única de trámites en los casos en que así se disponga;
+V. Colaborar, en el ámbito de sus atribuciones, con las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, cuando así lo requieran o por determinación del Secretario;
 
-VI. Estudiar y analizar, en el ámbito de competencia de la Secretaría, los fenómenos sociales, políticos y económicos de las entidades federativas, municipios o de regiones del país, a fin de coadyuvar en la detección, prevención, canalización, colaboración o solución de las problemáticas consecuencia de dichos fenómenos;
+VI. Coordinar la elaboración de estudios, en el ámbito de competencia de la Secretaría, sobre los fenómenos sociales, políticos y económicos de las entidades federativas, municipios o de regiones del país, a fin de coadyuvar en la detección, prevención, canalización, colaboración o solución de las problemáticas consecuencia de dichos fenómenos;
 
 VII. Participar y dar seguimiento, en el ámbito de competencia de la Secretaría, a las acciones de coordinación entre la Federación y las entidades federativas, sin perjuicio de la competencia que en materia de coordinación corresponda a otras unidades administrativas de la dependencia;
 
-VIII. Coadyuvar, a través de las representaciones de la Subsecretaría de Gobierno, al fomento de vínculos institucionales y de coordinación con las delegaciones federales en las entidades federativas; con las dependencias y entidades estatales y municipales, y
+VIII. Determinar las acciones tendientes a fortalecer vínculos de coordinación y cooperación con autoridades federales, de las entidades federativas y de los municipios;
 
-IX. Auxiliar en la interlocución y coordinación de la Secretaría con la Conferencia Nacional de Gobernadores y otras reuniones de gobernadores.
+IX. Colaborar en la interlocución y coordinación de la Secretaría con la Conferencia Nacional de Gobernadores y otras reuniones de gobernadores, y
+
+X. Proponer al Secretario la circunscripción territorial de las Direcciones Generales Adjuntas Regionales y de las Delegaciones Estatales de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 12-A.
+
+La Dirección General de Delegaciones tendrá las siguientes atribuciones:
+
+I. Dirigir las acciones tendientes a fortalecer y desarrollar las relaciones del Poder Ejecutivo Federal con otras autoridades federales, de las entidades federativas y municipales, así como con organizaciones políticas en las entidades federativas;
+
+II. Establecer y coordinar la implementación de mecanismos para la participación de las Direcciones Generales Adjuntas Regionales en la atención de los asuntos que planteen las autoridades de las entidades federativas;
+
+III. Coadyuvar con la Unidad de Enlace Federal y Coordinación con Entidades Federativas, en las acciones de coordinación con delegados o representantes de otras dependencias y entidades de la Administración Pública Federal en las entidades federativas, en los términos del artículo 27, fracción I de la Ley Orgánica de la Administración Pública Federal;
+
+IV. Dirigir el funcionamiento de las Direcciones Generales Adjuntas Regionales;
+
+V. Determinar las acciones de las Delegaciones Estatales de la Secretaría, tendientes a brindar la atención y el apoyo que prestan a las unidades administrativas u órganos administrativos desconcentrados de la Secretaría, cuando así le instruya su superior jerárquico;
+
+VI. Participar, conforme lo determine la Unidad de Enlace Federal y Coordinación con Entidades Federativas, en la ejecución de las acciones de coordinación entre la Federación y las entidades federativas;
+
+VII. Instrumentar las acciones destinadas al fomento de vínculos institucionales y de coordinación con las delegaciones de otras dependencias y entidades de la Administración Pública Federal en las entidades federativas; así como con las dependencias y organismos de las entidades federativas y de los municipios;
+
+VIII. Solicitar y evaluar los informes que elaboren las Direcciones Generales Adjuntas Regionales, en el ámbito de sus atribuciones;
+
+IX. Establecer las actividades que deberán realizar las Direcciones Generales Adjuntas Regionales en materia de coordinación informativa, y de análisis político-administrativo, socio-político, socio-económico, concertación política y comportamiento de las entidades federativas y de los municipios;
+
+X. Dirigir la participación de las Direcciones Generales Adjuntas Regionales en las reuniones que realicen las unidades administrativas de la Secretaría con los gobiernos de las entidades federativas y de los municipios, así como conocer los resultados sobre el seguimiento a los acuerdos alcanzados, y
+
+XI. Evaluar el desempeño de las Direcciones Generales Adjuntas Regionales, a través de reuniones periódicas.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 12-B.
+
+Las Direcciones Generales Adjuntas Regionales, dentro de su circunscripción territorial, tienen las siguientes atribuciones:
+
+I. Coordinar las acciones que realizan las Delegaciones Estatales de la Secretaría para fortalecer y desarrollar las relaciones del Poder Ejecutivo Federal con otras autoridades federales, de las entidades federativas y municipales, así como con organizaciones políticas en las entidades federativas;
+
+II. Participar en la atención de los asuntos que planteen las autoridades de las entidades federativas;
+
+III. Contribuir en el seguimiento a las acciones de coordinación con delegados o representantes de otras dependencias y entidades de la Administración Pública Federal en las entidades federativas, en los términos del artículo 27, fracción I de la Ley Orgánica de la Administración Pública Federal;
+
+IV. Coordinar las actividades que lleven a cabo las Delegaciones Estatales de la Secretaría, en el ámbito de su competencia;
+
+V. Coordinar las acciones de las Delegaciones Estatales de la Secretaría tendientes a brindar la atención y el apoyo que prestan a las unidades administrativas u órganos administrativos desconcentrados de la Secretaría cuando así les instruya su superior jerárquico;
+
+VI. Implementar las acciones destinadas a fomentar los vínculos institucionales y de coordinación con las delegaciones de otras dependencias y entidades de la Administración Pública Federal en las entidades federativas; así como con las dependencias y organismos de las entidades federativas y de los municipios;
+
+VII. Presentar a la Dirección General de Delegaciones, los informes que se generen con la información aportada por las Delegaciones Estatales de la Secretaría;
+
+VIII. Coordinar las actividades de las Delegaciones Estatales de la Secretaría en sus tareas de naturaleza informativa, y de análisis político-administrativo, socio-político, socio-económico, concertación política y comportamiento de las entidades federativas y de los municipios;
+
+IX. Participar en las reuniones que realicen las unidades administrativas de la Secretaría con autoridades de los gobiernos de las entidades federativas y de los municipios;
+
+X. Evaluar el desempeño de las Delegaciones Estatales de la Secretaría, a través de reuniones periódicas, e informar los resultados a la Dirección General de Delegaciones;
+
+XI. Solicitar información, opinión o apoyo técnico, observando las disposiciones jurídicas aplicables, a las dependencias y entidades de la Administración Pública Federal, a las autoridades de las entidades federativas y de los municipios, o a cualquier institución pública, así como a las Delegaciones Estatales de la Secretaría, para el ejercicio de sus funciones, y
+
+XII. Las demás que otras disposiciones normativas les atribuyan, así como las que les confiera el Secretario o les instruya su superior jerárquico, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 12-C.
+
+Las Delegaciones Estatales de la Secretaría, dentro de su circunscripción territorial, tienen las siguientes atribuciones:
+
+I. Implementar las acciones que le instruya la Dirección General Adjunta Regional que corresponda;
+
+II. Fungir como ventanilla única de recepción de trámites de la Secretaría, así como apoyar en la atención de las peticiones de las autoridades de las entidades federativas y de los municipios, así como de las unidades administrativas u órganos administrativos desconcentrados de la Secretaría, cuando así les instruya su superior jerárquico;
+
+III. Elaborar los dictámenes, anteproyectos, opiniones e informes que les sean solicitados por la Dirección General Adjunta Regional que corresponda, y
+
+IV. Las demás que otras disposiciones normativas les atribuyan, así como las que les confiera el Secretario, dentro de la esfera de sus atribuciones.
 
 ###### Artículo 13.
 
@@ -609,9 +707,89 @@ IV. Auxiliar al titular de la Unidad de Gobierno en la coordinación con las aut
 
 V. Imponer sanciones administrativas por infracciones a la Ley Federal de Juegos y Sorteos y su Reglamento;
 
-VI. Presentar denuncias ante la autoridad competente por la posible comisión de conductas constitutivas de delitos en materia de juegos con apuestas y sorteos, en coordinación con la Unidad General de Asuntos Jurídicos, y
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VII. Auxiliar al titular de la Unidad de Gobierno, en el ámbito de sus atribuciones.
+VI. Delegar, previo acuerdo con el Subsecretario de Gobierno y autorización del Secretario, las funciones que tiene encomendadas mediante acuerdo publicado en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Presentar denuncias ante la autoridad competente por la posible comisión de conductas constitutivas de delitos en materia de juegos con apuestas y sorteos, en coordinación con la Unidad General de Asuntos Jurídicos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Coadyuvar con el titular de la Unidad de Gobierno en el ejercicio de sus atribuciones en materia de juegos y sorteos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Resolver los procedimientos de finiquito de permisos otorgados en materia de sorteos, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+X. Administrar y mantener actualizada la base de datos sobre juegos y sorteos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Establecer mecanismos de control sobre los ingresos que los permisionarios enteren ante las autoridades competentes, en términos de la Ley Federal de Juegos y Sorteos y de su Reglamento, sin perjuicio de las atribuciones que correspondan a otras dependencias, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Fortalecer los vínculos de colaboración y de coordinación con las autoridades de los diferentes niveles de gobierno en materia de prevención y combate del juego ilegal, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 16-A.
+
+La Dirección General Adjunta de Análisis y Dictamen tendrá las siguientes atribuciones:
+
+I. Someter a consideración de la Dirección General de Juegos y Sorteos, proyectos de criterios claros y precisos para la resolución de las solicitudes de expedición de permisos en materia de juegos y sorteos, de conformidad con las disposiciones jurídicas aplicables;
+
+II. Someter a consideración de la Dirección General de Juegos y Sorteos, los proyectos de resolución de las solicitudes de permisos en materia de juegos y sorteos;
+
+III. Coadyuvar con la Unidad General de Asuntos Jurídicos para determinar las estrategias jurídicas en los procedimientos contenciosos y constitucionales en materia de juegos y sorteos;
+
+IV. Someter a consideración de la Dirección General de Juegos y Sorteos, los proyectos de acuerdos o de resolución para la imposición de sanciones administrativas por infracciones a las disposiciones jurídicas aplicables en materia de juegos y sorteos;
+
+V. Integrar la información que generen las áreas bajo su adscripción, para su registro y control en la base de datos sobre juegos con apuestas y sorteos;
+
+VI. Emitir opiniones jurídicas que coadyuven en la interpretación y aplicación de las disposiciones normativas aplicables en materia de juegos y sorteos, así como evaluar aquéllas que emitan órganos auxiliares y consultivos en el ámbito de su competencia;
+
+VII. Someter a consideración de la Dirección General de Juegos y Sorteos, los proyectos de resolución de los procedimientos de finiquito de permisos otorgados en materia de sorteos, de conformidad con las disposiciones jurídicas aplicables;
+
+VIII. Informar a la Dirección General de Juegos y Sorteos sobre la posible comisión de conductas constitutivas de delitos de las que tenga conocimiento en el ámbito de sus atribuciones;
+
+IX. Establecer los mecanismos de control y reglas para la operación de los centros de apuestas remotas y salas de sorteos de números y símbolos, de conformidad con las disposiciones jurídicas aplicables;
+
+X. Proponer a la Dirección General de Juegos y Sorteos, criterios claros y precisos para dictaminar y evaluar el cumplimiento de las condiciones previstas en los permisos otorgados para realizar juegos con apuestas y sorteos, en el ámbito de sus atribuciones, y
+
+XI. Las demás que otras disposiciones normativas le atribuyan, así como las que les confiera el Secretario o le instruya su superior jerárquico, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 16-B.
+
+La Dirección General Adjunta de Regulación y Verificación tendrá las siguientes atribuciones:
+
+I. Coadyuvar en la supervisión y vigilancia para garantizar el cumplimiento de la Ley Federal de Juegos y Sorteos y de su Reglamento;
+
+II. Someter a consideración de la Dirección General de Juegos y Sorteos, los mecanismos y disposiciones administrativas para planear y organizar el programa anual de capacitación en materia de juegos y sorteos;
+
+III. Proponer a la Dirección General de Juegos y Sorteos los mecanismos de control sobre los ingresos por concepto de aprovechamientos que garanticen su adecuado registro y análisis, sin perjuicio de las atribuciones que correspondan a otras dependencias;
+
+IV. Informar a la Dirección General de Juegos y Sorteos sobre la posible comisión de conductas constitutivas de delitos en materia de juegos con apuestas y sorteos;
+
+V. Cooperar con la Dirección General de Juegos y Sorteos en la administración y actualización de la base de datos sobre juegos y sorteos;
+
+VI. Proponer a la Dirección General de Juegos y Sorteos las directrices y mecanismos de implementación de programas de inspección y vigilancia de los juegos con apuestas y sorteos y demás actividades reguladas en la Ley Federal de Juegos y Sorteos;
+
+VII. Proponer a la Dirección General de Juegos y Sorteos, criterios claros y precisos para dictaminar y evaluar el cumplimiento de las condiciones previstas en los permisos otorgados para realizar juegos con apuestas y sorteos, de acuerdo con las inspecciones practicadas en el ámbito de sus atribuciones;
+
+VIII. Proponer a la Dirección General de Juegos y Sorteos las directrices para orientar y dar asesoría técnica a los permisionarios de juegos con apuestas, sorteos, centros de apuestas remotas y salas de sorteos de números o símbolos;
+
+IX. Presentar informes a la Dirección General Adjunta de Análisis y Dictamen, sobre la detección de establecimientos que celebren juegos ilegales o actividades no permitidas o cualquier otra que se considere una infracción a la normatividad aplicable, para dar inicio a los procedimientos administrativos que correspondan;
+
+X. Informar el listado de los premios no reclamados al Comité Interno de Asignación y Destino Final de Bienes en Especie no Reclamados o no Adjudicados, Provenientes de Juegos y Sorteos, y
+
+XI. Las demás que otras disposiciones normativas le atribuyan, así como las que le confiera el Secretario o le instruya su superior jerárquico, dentro de la esfera de sus atribuciones.
 
 ### Capítulo VII. De las unidades administrativas adscritas al Subsecretario de Enlace Legislativo y Acuerdos Políticos
 
@@ -2233,7 +2411,9 @@ XI. Apoyar a la Oficialía Mayor en la revisión de las Condiciones Generales de
 
 XII. Representar al Presidente de la República en los juicios de amparo de conformidad con la Ley de Amparo; así como intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en los que se le otorgue al Secretario la representación del Presidente de la República;
 
-XIII. Representar a la Secretaría ante los Tribunales Federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Unidad y los representantes que acredite, en cada uno de los casos en que intervengan;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Representar a la Secretaría o a su Titular ante los Tribunales Federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repreguntar y tachar de falsos a testigos o ratificantes, articular y absolver posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Unidad y los representantes que acredite, en cada uno de los casos en que intervengan;
 
 XIV. Supervisar la representación del Secretario en los juicios de amparo;
 
@@ -2245,7 +2425,9 @@ XVII. Delegar, previo acuerdo del Secretario, las atribuciones indispensables pa
 
 XVIII. Coordinar la relación jurídica de la Secretaría con las dependencias y entidades de la Administración Pública Federal, así como con los gobiernos de las entidades federativas y de los municipios o delegaciones;
 
-XIX. Formar parte y ocupar la secretaría técnica del Comité Jurídico Interno de la Secretaría, que será instancia de consulta, exposición y análisis de los asuntos de naturaleza jurídica que inciden en la competencia de la Secretaría y del sector coordinado por ella, cuyo funcionamiento se establecerá en el acuerdo que para tal efecto expida el Secretario;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Formar parte y presidir el Comité Jurídico Interno de la Secretaría, que será instancia de consulta, exposición y análisis de los asuntos de naturaleza jurídica que inciden en la competencia de la Secretaría y del sector coordinado por ella, cuyo funcionamiento se establecerá en el acuerdo que para tal efecto expida el Secretario;
 
 XX. Dirigir las acciones que en materia jurídica lleva a cabo la Secretaría, a fin de prevenir y atender posibles conflictos normativos;
 
@@ -2259,17 +2441,29 @@ XXIV. Delegar en la Dirección General de Apoyo Jurídico del Comisionado Nacion
 
 XXV. Requerir a la Dirección General de Apoyo Jurídico del Comisionado Nacional de Seguridad todo tipo de información, colaboración y apoyo para el ejercicio de sus atribuciones;
 
-XXVI. Supervisar la compilación, sistematización, actualización y certificación de las leyes, tratados internacionales, reglamentos, decretos, acuerdos y disposiciones federales, estatales y municipales, así como de las normas que impongan modalidades a la propiedad privada dictadas por el interés público, e información de naturaleza jurídica que envíen las entidades federativas en el marco de los acuerdos y convenios de coordinación y colaboración respectivos para conformar el orden jurídico nacional;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XXVII. Certificar el texto de las leyes, decretos y demás disposiciones jurídicas federales, previa solicitud fundada y motivada de las autoridades y personas interesadas;
+XXVI. Supervisar la compilación, conformación y difusión del acervo jurídico nacional integrado por leyes, tratados internacionales, reglamentos, decretos, acuerdos y disposiciones federales, de las entidades federativas y municipales;
 
-XXVIII. Supervisar y coordinar el registro nacional de avisos de testamento de conformidad con los convenios y las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XXIX. Promover la capacitación y actualización de los servidores públicos y del público en general, para el aprovechamiento óptimo del banco de datos relativo al orden jurídico nacional;
+XXVII. Coordinar la expedición de certificaciones de texto de leyes, decretos y demás disposiciones jurídicas federales publicadas en el Diario Oficial de la Federación, que realice la Dirección General de lo Consultivo y de Contratos y Convenios;
 
-XXX. Coordinar la realización e impulso de las publicaciones, estudios e investigaciones relativos al orden jurídico nacional y su consulta, dentro de las atribuciones de la Secretaría y su sector coordinado, así como coordinar, realizar y participar en estudios, investigaciones, cursos y demás eventos destinados a difundir la informática aplicada a las ciencias jurídicas;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XXXI. Realizar estudios de derecho comparado, con la finalidad de proponer proyectos y estrategias en asuntos competencia de la Secretaría; así como recopilar y difundir información científica y académica en materia jurídica sobre gobernabilidad y seguridad pública, de índole nacional e internacional;
+XXVIII. Coordinar el funcionamiento del Registro Nacional de Avisos de Testamento y del Registro Nacional de Avisos de Poderes Notariales, de conformidad con los convenios y las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XXIX. Fomentar la cultura de la legalidad, a través del acervo jurídico nacional, mediante su difusión entre el público en general, así como la capacitación y actualización de los servidores públicos de la Secretaría, en coordinación con la autoridad competente;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XXX. Impulsar publicaciones, estudios, grupos de trabajo y eventos orientados a difundir y promover la cultura de la legalidad, a través del acervo jurídico nacional;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XXXI. Planear la realización de estudios de derecho comparado con la finalidad de proponer proyectos y estrategias en asuntos competencia de la Secretaría;
 
 XXXII. Ejercer, cuando lo estime conveniente, las atribuciones de sus unidades administrativas adscritas, y
 
@@ -2309,9 +2503,37 @@ XIII. Representar a la Unidad General de Asuntos Jurídicos en las reuniones de 
 
 XIV. Analizar las consultas que formule el Comité de Información de la Secretaría y la Unidad de Enlace en materia de transparencia y acceso a la información, así como recabar la información de las unidades administrativas adscritas a la Unidad General de Asuntos Jurídicos;
 
-XV. Resolver y responder las solicitudes de información y documentación realizadas por las autoridades judiciales y ministeriales, con la finalidad de que la Unidad General de Asuntos Jurídicos o la Secretaría estén en aptitud de dar cumplimiento a los diversos mandamientos ministeriales y jurisdiccionales, y
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Llevar a cabo las tareas asignadas por el Titular de la Unidad General de Asuntos Jurídicos, conforme a sus atribuciones.
+XV. Resolver y responder las solicitudes de información y documentación realizadas por las autoridades judiciales y ministeriales, con la finalidad de que la Unidad General de Asuntos Jurídicos o la Secretaría estén en aptitud de dar cumplimiento a los diversos mandamientos ministeriales y jurisdiccionales;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Compilar, sistematizar y difundir el acervo jurídico nacional;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Certificar el texto de leyes, decretos y demás disposiciones jurídicas federales publicadas en el Diario Oficial de la Federación, previa solicitud fundada y motivada de las autoridades interesadas;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Administrar el Registro Nacional de Avisos de Testamento y el Registro Nacional de Avisos de Poderes Notariales, de conformidad con los convenios y las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Implementar acciones de capacitación y actualización de los servidores públicos y del público en general, para el fomento de la cultura de la legalidad, a través del acervo jurídico nacional;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Realizar publicaciones, estudios y eventos relacionados con el análisis y promoción del derecho, con la finalidad de difundir y promover la cultura de la legalidad, a través del acervo jurídico nacional;
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. Realizar estudios de derecho comparado, así como recopilar y difundir información científica y académica en materia jurídica sobre gobernabilidad y seguridad pública, y
+
+> <small>(ADICIONADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Llevar a cabo las tareas asignadas por el Titular de la Unidad General de Asuntos Jurídicos, conforme a sus atribuciones.
 
 ###### Artículo 65.
 
@@ -2327,7 +2549,9 @@ IV. Sustanciar, conforme a las disposiciones legales aplicables, los recursos qu
 
 V. Apoyar en la revisión de las condiciones generales de trabajo, así como en la conducción de las relaciones de la Secretaría con su sindicato;
 
-VI. Representar a la Secretaría ante los Tribunales Federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Dirección General y los representantes que acredite, en cada uno de los casos en que intervengan;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Representar a la Secretaría o a su Titular ante los Tribunales Federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repreguntar y tachar de falsos a testigos o ratificantes, articular y absolver posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia, y en general, promover o realizar todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, o el ejercicio de sus atribuciones, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Dirección General y los representantes que acredite, en cada uno de los casos en que intervengan;
 
 VII. Auxiliar al titular de la Unidad General de Asuntos Jurídicos en los trámites relativos a la representación del Presidente de la República en los juicios de amparo de conformidad con el acuerdo general previsto en la Ley de Amparo; representar al Secretario en los juicios de amparo e intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en que sea parte la Secretaría; así como emitir opiniones sobre las actuaciones que otras unidades administrativas de la Secretaría realicen en los juicios, acciones y procedimientos referidos;
 
@@ -2355,9 +2579,13 @@ III. Participar en los procesos de modernización y adecuación del orden normat
 
 IV. Auxiliar al titular de la Unidad General de Asuntos Jurídicos en los trámites relativos a la representación del Presidente de la República en los juicios de amparo de conformidad con la Ley de Amparo; así como intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en los que se le otorgue al Secretario la representación del Presidente de la República;
 
-V. Representar, de conformidad con las disposiciones jurídicas aplicables, a la Secretaría ante los Tribunales Federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repregunten y tachen de falsos a testigos o ratificantes, articulen y absuelvan posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Dirección General y los representantes que acredite, en cada uno de los casos en que intervengan;
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Representar al Secretario en los juicios de amparo; intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en que sea parte la Secretaría; así como emitir opiniones sobre las actuaciones que otras unidades administrativas de la Secretaría realicen en los juicios, acciones y procedimientos referidos;
+V. Representar, de conformidad con las disposiciones jurídicas aplicables, a la Secretaría ante los Tribunales Federales y del fuero común y ante toda autoridad en los trámites jurisdiccionales y cualquier otro asunto de carácter legal en que tenga interés e injerencia la Secretaría, sin perjuicio de las atribuciones que correspondan a la Procuraduría General de la República, con todos los derechos procesales que las leyes reconocen a las personas físicas y morales, tanto para presentar demandas como para contestarlas y reconvenir a la contraparte, ejercitar acciones y oponer excepciones, nombrar peritos, reconocer firmas y documentos, redargüir de falsos a los que presente la contraparte, repreguntar y tachar de falsos a testigos o ratificantes, articular y absolver posiciones, formular denuncias y querellas, desistirse, otorgar perdón, ofrecer y rendir toda clase de pruebas; recusar jueces inferiores y superiores, apelar, interponer juicio de amparo y los recursos previstos por la ley de la materia y, en general, para que promueva o realice todos los actos permitidos por las leyes, que favorezcan a los derechos de la Secretaría, así como para sustituir poder en términos de ley a los representantes que para el efecto señale. Por virtud de esta disposición, se entenderá ratificado por el titular de la misma todo lo que se haga, en los términos de ley, por esta Dirección General y los representantes que acredite, en cada uno de los casos en que intervengan;
+
+> <small>(REFORMADA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Representar a la Secretaría o a su Titular en los juicios de amparo; intervenir en las controversias constitucionales, en las acciones de inconstitucionalidad y en los demás procedimientos constitucionales en que sea parte la Secretaría; así como emitir opiniones sobre las actuaciones que otras unidades administrativas de la Secretaría realicen en los juicios, acciones y procedimientos referidos;
 
 VII. Suscribir, en ausencia del Secretario, subsecretarios, Comisionado Nacional de Seguridad, Oficial Mayor y Titular de la Unidad General de Asuntos Jurídicos, escritos y desahogar los trámites que correspondan a los casos urgentes relativos a términos, interposición de recursos y recepción de toda clase de notificaciones y toda clase de actuaciones, incluyendo lo relacionado con la fracción XI del artículo 5 de este Reglamento;
 
@@ -3109,15 +3337,17 @@ IV. Aprobar los proyectos de manuales de organización, procedimientos y servici
 
 V. Evaluar y, en su caso, aprobar los informes periódicos que rinda el titular del Centro de Producción de Programas Informativos y Especiales sobre su gestión al frente de ese Órgano.
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 106.
 
-El Centro de Producción de Programas Informativos y Especiales estará a cargo de un Director, quien será nombrado y removido libremente por el Presidente de la República, a propuesta del Secretario.
+El Centro de Producción de Programas Informativos y Especiales estará a cargo de un Titular, quien será nombrado y removido libremente por el Presidente de la República, a propuesta del Secretario. Dicho órgano desconcentrado contará con la estructura orgánica que autoricen las instancias competentes, de conformidad con la normativa aplicable.
 
-El Director del Centro de Producción de Programas Informativos y Especiales será sujeto de supervisión, por lo que toca a su funcionamiento, por el Secretario, quien ejercerá dicha facultad por conducto del Director General de Radio, Televisión y Cinematografía.
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 107.
 
-El Centro de Producción de Programas Informativos y Especiales tendrá una dirección, una subdirección de Seguimiento Presidencial, una subdirección de Producción, una subdirección Técnica y una subdirección Administrativa.
+El Titular del Centro de Producción de Programas Informativos y Especiales será sujeto de supervisión, por lo que toca a su funcionamiento, por el Secretario, quien ejercerá dicha facultad por conducto del Subsecretario de Normatividad de Medios.
 
 #### Sección VIII. Del Centro Nacional de Prevención de Desastres
 
@@ -3289,6 +3519,18 @@ Prevención y Readaptación Social es un órgano administrativo desconcentrado d
 
 El Órgano Administrativo Desconcentrado Prevención y Readaptación Social tendrá la organización y las atribuciones que se establecen en el Decreto por el que se expiden los Reglamentos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, publicado en el Diario Oficial de la Federación el 6 de mayo de 2002.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección XV. De la Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 128-A.
+
+La Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes es un órgano administrativo desconcentrado de la Secretaría.
+
+La Secretaría Ejecutiva del Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes tendrá las atribuciones que se establecen en la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás disposiciones administrativas que deriven de ésta, así como la organización y funcionamiento que establezcan las demás disposiciones jurídicas aplicables.
+
 ### CAPITULO XVI. Del Órgano Interno de Control
 
 ###### Artículo 129.
@@ -3307,13 +3549,15 @@ La Secretaría y sus órganos administrativos desconcentrados proporcionarán al
 
 El Secretario será suplido en sus ausencias por los subsecretarios de Gobierno; de Enlace Legislativo y Acuerdos Políticos; de Población, Migración y Asuntos Religiosos; de Derechos Humanos; de Prevención y Participación Ciudadana; el Comisionado Nacional de Seguridad, y de Normatividad de Medios en el orden mencionado, y por el Oficial Mayor en ausencia de éstos.
 
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 131.
 
-Las ausencias de los subsecretarios, del Comisionado Nacional de Seguridad y del Oficial Mayor serán suplidas por los jefes de Unidad y directores generales que de ellos dependan, en los asuntos de sus respectivas competencias.
+Las ausencias temporales, e incluso las definitivas por la falta de designación, de los subsecretarios, del Comisionado Nacional de Seguridad y del Oficial Mayor serán suplidas por los jefes de Unidad y directores generales que de ellos dependan, en los asuntos de sus respectivas competencias.
 
-###### Artículo 132.
+> <small>(REFORMADO, D.O.F. 25 DE SEPTIEMBRE DE 2015)</small>
 
-Las ausencias de los titulares de la Coordinación Nacional de Protección Civil, de las unidades generales, del Comisionado para el Diálogo con los Pueblos Indígenas de México, de las unidades, direcciones generales, órganos administrativos desconcentrados, direcciones generales adjuntas, direcciones y subdirecciones de área, así como jefaturas de departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
+Artículos 132.- Las ausencias temporales, e incluso las definitivas por la falta de designación, de los titulares de la Coordinación Nacional de Protección Civil, de la Unidad General de Asuntos Jurídicos, del Comisionado para el Diálogo con los Pueblos Indígenas de México, de las unidades, direcciones generales, órganos administrativos desconcentrados, direcciones generales adjuntas, delegaciones estatales, direcciones y subdirecciones de área, así como jefaturas de departamento, serán suplidas por los servidores públicos de nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ###### Artículo 133.
 
@@ -3352,3 +3596,13 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 D.O.F. 15 DE ENERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 25 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- El Secretario de Gobernación expedirá el acuerdo a que se refiere el Artículo 5, fracción XXXIX Bis, en un plazo de 90 días hábiles, contados a partir del inicio de vigencia del presente Decreto.
+
+TERCERO.- Se abroga el Acuerdo por el que se reglamentan las funciones de las Coordinaciones Regionales y las Representaciones Estatales de la Subsecretaría de Gobierno de la Secretaría de Gobernación, publicado el 8 de febrero de 1994 en el Diario Oficial de la Federación.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado a la Secretaría de Gobernación, por lo que no requerirán de recursos adicionales para tal efecto y no incrementarán su presupuesto regularizable en el presente ejercicio fiscal, ni en los subsecuentes. La Secretaría de Gobernación realizará las modificaciones a su estructura orgánica mediante movimientos compensados, conforme a las disposiciones aplicables.
