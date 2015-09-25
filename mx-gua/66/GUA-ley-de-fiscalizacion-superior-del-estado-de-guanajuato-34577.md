@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-34577"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-11"
-last_updated: "2013-03-01"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 25 DE SEPTIEMBRE DE 2015; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS NOVENTA DÍAS NATURALES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 11 de noviembre de 2003.
 
@@ -34,6 +36,8 @@ QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA 
 DECRETO NÚMERO 2.
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO CUARTO DEL DECRETO NÚMERO 320, PUBLICADO EN LA TERCERA PARTE DEL P.O. DE 25 DE AGOSTO DE 2015, EN TODAS LAS DISPOSICIONES LEGALES O ADMINISTRATIVAS, RESOLUCIONES, CONTRATOS, CONVENIOS, NOMBRAMIENTOS O ACTOS EXPEDIDOS O CELEBRADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DE LA PRESENTE LEY, EN QUE SE HAGA REFERENCIA AL AUDITOR GENERAL Y ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL CONGRESO DEL ESTADO, SE ENTENDERÁN REFERIDOS AL AUDITOR SUPERIOR Y A LA AUDITORÍA SUPERIOR DEL ESTADO DE GUANAJUATO, RESPECTIVAMENTE. ASIMISMO, CUANDO EN DICHAS DISPOSICIONES, RESOLUCIONES, CONTRATOS, CONVENIOS, NOMBRAMIENTOS O ACTOS SE MENCIONE AL DIRECTOR GENERAL DE AUDITORÍA Y REVISIÓN DE CUENTA PÚBLICA, ASÍ COMO AL DIRECTOR GENERAL DE PLANEACIÓN, PROGRAMACIÓN, CONTROL Y SEGUIMIENTO, AMBOS DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR, SE ENTENDERÁ QUE SE HACE REFERENCIA AL AUDITOR ESPECIAL DE CUMPLIMIENTO FINANCIERO, Y AL AUDITOR ESPECIAL DE EVALUACIÓN Y DESEMPEÑO, RESPECTIVAMENTE.</small>
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
@@ -171,7 +175,7 @@ XX.- Rendir al Congreso del Estado, los informes derivados del ejercicio de la f
 
 XXI.- Presentar al Congreso del Estado, su proyecto de presupuesto anual;
 
-XXII.- Expedir su reglamento interior y emitir las disposiciones administrativas conducentes al ejercicio de sus atribuciones, así como el manual de criterios, procedimientos y métodos relativos al proceso de fiscalización, debiendo publicarlos en el Periódico Oficial del Gobierno del Estado; y (sic)
+XXII.- Expedir su reglamento interior y emitir las disposiciones administrativas conducentes al ejercicio de sus atribuciones, así como el manual de criterios, procedimientos y métodos relativos al proceso de fiscalización, debiendo publicarlos en el Periódico Oficial del Gobierno del Estado; y
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -641,7 +645,7 @@ VI.- El señalamiento, en su caso, de las irregularidades detectadas;
 
 VII.- Las observaciones y comentarios del Auditor General, derivados del proceso de fiscalización;
 
-VIII.- El dictamen que establezca la cuantía de los daños y perjuicios a la hacienda pública o al patrimonio de los sujetos de fiscalización que se probaron durante el proceso, los hechos de los que derivan, los bienes, derechos, programas, objetivos, actos jurídicos o partidas afectadas, los probables ilícitos y la determinación en lo posible de los presuntos responsables; y (sic)
+VIII.- El dictamen que establezca la cuantía de los daños y perjuicios a la hacienda pública o al patrimonio de los sujetos de fiscalización que se probaron durante el proceso, los hechos de los que derivan, los bienes, derechos, programas, objetivos, actos jurídicos o partidas afectadas, los probables ilícitos y la determinación en lo posible de los presuntos responsables; y
 
 IX.- El dictamen técnico jurídico que precise las acciones que deberán promoverse, los hechos en que se fundan, las autoridades que resultan competentes para conocer de dichas acciones y los presuntos responsables de los hechos.
 
@@ -855,7 +859,7 @@ I.- Actualizarse alguno de los supuestos previstos en el artículo anterior;
 
 II.- Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta Ley;
 
-III.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia; y (sic)
+III.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia; y
 
 IV.- Conducirse con parcialidad en los procedimientos de fiscalización, así como en el cumplimiento de las disposiciones de esta Ley.
 
@@ -931,7 +935,7 @@ XII.- Formular los proyectos de informes de resultados;
 
 XIII.- Coadyuvar con el Auditor General, en la elaboración de los manuales en que se contengan los criterios, procedimientos y métodos relativos al programa anual de auditoría y a los procedimientos de fiscalización;
 
-XIV.- Coadyuvar con el Auditor General, en la elaboración del proyecto de presupuesto de egresos; y (sic)
+XIV.- Coadyuvar con el Auditor General, en la elaboración del proyecto de presupuesto de egresos; y
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1090,3 +1094,47 @@ Artículo Cuarto. El término de siete años en el encargo del titular del Órga
 P.O. 1 DE MARZO DE 2013.
 
 Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor a los noventa días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga la Ley de Fiscalización Superior del Estado de Guanajuato, publicada en el Periódico Oficial del Gobierno del Estado número 180, tercera parte, de fecha 11 de noviembre de 2003; así como cualquier otra disposición que se oponga a la presente ley.
+
+Asuntos en trámite
+
+Artículo Tercero. Los asuntos que se encuentran en trámite o en proceso a cargo del Órgano de Fiscalización Superior a la entrada en vigor de la presente ley, continuarán tramitándose, por la Auditoría Superior, en los términos de la ley abrogada.
+
+Referencias
+
+Artículo Cuarto. En todas las disposiciones legales o administrativas, resoluciones, contratos, convenios, nombramientos o actos expedidos o celebrados con anterioridad a la entrada en vigor de la presente ley, en que se haga referencia al Auditor General y Órgano de Fiscalización Superior del Congreso del Estado, se entenderán referidos al Auditor Superior y a la Auditoría Superior del Estado de Guanajuato, respectivamente.
+
+Asimismo, cuando en dichas disposiciones, resoluciones, contratos, convenios, nombramientos o actos se mencione al Director General de Auditoría y Revisión de Cuenta Pública, así como al Director General de Planeación, Programación, Control y Seguimiento, ambos del Órgano de Fiscalización Superior, se entenderá que se hace referencia al Auditor Especial de Cumplimiento Financiero, y al Auditor Especial de Evaluación y Desempeño, respectivamente.
+
+Comisionados del Instituto
+
+Artículo Quinto. Cuando en la fracción I del artículo 89 de la presente ley se menciona al Comisionado del Instituto de Acceso a la Información Pública para el Estado de Guanajuato, se entiende hecha la referencia a los consejeros previstos en la vigente Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato.
+
+Lo anterior, atendiendo a lo establecido en el artículo 38, párrafo primero de la Ley General de Transparencia y Acceso a la Información Pública.
+
+Procedimiento de fiscalización
+
+Artículo Sexto. El plazo de seis meses para concluir el procedimiento de fiscalización a que se refiere el artículo 35 de la presente ley, computará a partir de la revisión de las cuentas públicas del ejercicio fiscal 2016.
+
+La revisión de las cuentas públicas anuales conforme a las disposiciones de esta ley, se efectuará sobre las que se presenten, correspondientes al ejercicio fiscal 2016. Lo anterior, sin perjuicio de que los informes trimestrales se presenten a partir de ese año.
+
+Plazos
+
+Artículo Séptimo. Los plazos previstos en el artículo 37, fracción V de la presente ley, serán aplicables para la revisión de la cuenta pública anual del ejercicio fiscal 2016.
+
+Plazo para expedir el Reglamento de la ley
+
+Artículo Octavo. El Poder Legislativo del Estado, dentro del término de noventa días naturales, contado a partir de la entrada en vigor del presente decreto, expedirá el Reglamento de la Ley de Fiscalización Superior del Estado de Guanajuato.
+
+Plazo para expedir el Reglamento Interior
+
+Artículo Noveno. La Auditoría Superior, contará con un término de noventa días naturales, contado a partir de la entrada en vigor del presente decreto, para expedir su Reglamento Interior; en tanto, seguirán vigentes su actual Reglamento Interior, así como sus manuales, lineamientos y guías, en lo que no se opongan a la presente Ley.
