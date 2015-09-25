@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-funcionamiento-de-las-juntas-de-mejoras-13099"
 country: "mx"
 rank: "ley"
 publication_date: "1949-03-12"
-last_updated: "1998-10-27"
+last_updated: "2015-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY PARA EL FUNCIONAMIENTO DE LAS JUNTAS DE MEJORAS MATERIALES EN EL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1998.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 145, PUBLICADO EN EL P.O. DE 25 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 12 de marzo de 1949.
 
@@ -292,3 +294,37 @@ P.O. 27 DE OCTUBRE DE 1998.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 145.</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley para el funcionamiento de las Juntas de Mejoras Materiales en el Estado, publicada en el Periódico Oficial, el 12 de marzo de 1949.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se extingue el Organismo Público Descentralizado denominado Junta de Mejoras Materiales de Torreón.
+
+###### ARTÍCULO TERCERO.
+
+La Junta de Mejoras Materiales de Torreón, proveerá lo necesario para la liquidación del personal a su cargo y realizará las acciones legales que correspondan, respetando en todo momento los derechos laborales adquiridos por los trabajadores.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor del correspondiente Decreto de Extinción y Liquidación del organismo público descentralizado denominado Junta de Mejoras Materiales de Torreón; ésta transferirá, previo inventario de los mismos y en un plazo no mayor de 30 días al Ayuntamiento de Torreón, todos los recursos financieros y materiales con que cuente, con la finalidad de que los servicios públicos que presta no queden suspendidos.
+
+###### ARTÍCULO QUINTO.
+
+La Tesorería Municipal de Torreón a través de las áreas competentes de su adscripción, será responsable de la cobranza pendiente, así como de la que derive en función del Impuesto Destinado para la Conservación del Pavimento.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
