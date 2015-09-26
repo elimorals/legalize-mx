@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2015-08-05"
+last_updated: "2015-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LOS DECRETOS 493/2015 II P.O. Y 494/2015 II P.O. POR LOS QUE SE EXPIDEN EL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA Y EL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA, PUBLICADOS EN EL P.O. DEL 23 DE JULIO DE 2014 Y SU REFORMA MEDIANTE EL DECRETO N°. 934/2015 VIII P.E. PUBLICADO EN EL P.O. DE 5 DE AGOSTO 2015, DICHOS CÓDIGOS ENTRAN EN VIGOR EN EL DISTRITO JUDICIAL MORELOS: EL VEINTIOCHO DE SEPTIEMBRE DE DOS MIL QUINCE; EN EL DISTRITO JUDICIAL BRAVOS: EL CATORCE DE DICIEMBRE DE DOS MIL QUINCE; EN EL RESTO DE LOS DISTRITOS JUDICIALES: EL VEINTICINCO DE ENERO DE DOS MIL DIECISÉIS; ASÍ COMO EL CÓDIGO DE PROCEDIMIENTOS CIVILES DE 1974 SEGUIRÁ RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DE LOS NUEVOS CÓDIGOS.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LOS DECRETOS 493/2015 II P.O. Y 494/2015 II P.O. POR LOS QUE SE EXPIDEN EL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA Y EL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA, PUBLICADOS EN EL P.O. DEL 23 DE JULIO DE 2014 Y SUS REFORMAS MEDIANTE LOS DECRETOS N°. 934/2015 VIII P.E. Y 967/2015 XI P.E. PUBLICADOS EN EL P.O. DE 5 DE AGOSTO 2015 Y P.O. DE 26 DE SEPTIEMBRE DE 2015, RESPECTIVAMENTE, DICHOS CÓDIGOS ENTRAN EN VIGOR EN EL DISTRITO JUDICIAL MORELOS EL VEINTIOCHO DE OCTUBRE DE DOS MIL QUINCE; Y EN EL RESTO DE LOS DISTRITOS JUDICIALES: EL VEINTICUATRO DE FEBRERO DE DOS MIL DIECISÉIS; ASÍ COMO EL CÓDIGO DE PROCEDIMIENTOS CIVILES DE 1974 SEGUIRÁ RIGIENDO EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DE LOS NUEVOS CÓDIGOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -5159,15 +5159,13 @@ P.O. 23 DE JULIO DE 2014.
 
 DECRETO No. 493/2014 II P.O., POR EL QUE SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
 
 Artículo Primero. El presente Código iniciará su vigencia, previa publicación en el Periódico Oficial del Estado, según el o los distritos judiciales de que se trate, de la manera siguiente:
 
-En el Distrito Judicial Morelos: el veintiocho de septiembre de dos mil quince.
+En el Distrito Judicial Morelos: el veintiocho de octubre de dos mil quince.
 
-En el Distrito Judicial Bravos: el catorce de diciembre de dos mil quince.
-
-En el resto de los distritos judiciales: el veinticinco de enero de dos mil dieciséis.
+Y en el resto de los Distritos Judiciales: el veinticuatro de febrero de dos mil dieciséis.
 
 Artículo Segundo. El Código de Procedimientos Civiles de 1974 seguirá rigiendo en lo conducente, en los procedimientos iniciados con anterioridad a la aplicación del nuevo código y hasta la total solución de los mismos.
 
@@ -5177,17 +5175,15 @@ P.O. 23 DE JULIO DE 2014.
 
 DECRETO No. 494/2014 II P.O., POR EL QUE SE EXPIDE EL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO PRIMERO.
 
 El presente Código iniciará su vigencia, previa publicación en el Periódico Oficial del Estado, según el o los distritos judiciales de que se trate, de la manera siguiente:
 
-En el Distrito Judicial Morelos: el veintiocho de septiembre de dos mil quince.
+En el Distrito Judicial Morelos: el veintiocho de octubre de dos mil quince.
 
-En el Distrito Judicial Bravos: el catorce de diciembre de dos mil quince.
-
-En el resto de los distritos judiciales: el veinticinco de enero de dos mil dieciséis.
+Y en el resto de los Distritos Judiciales: el veinticuatro de febrero de dos mil dieciséis.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -5198,6 +5194,12 @@ El Código de Procedimientos Civiles de 1974 seguirá rigiendo en lo conducente,
 No procederá la acumulación de procesos, cuando alguno de ellos esté sometido al Código anterior y otro a este Código.
 
 P.O. 5 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
