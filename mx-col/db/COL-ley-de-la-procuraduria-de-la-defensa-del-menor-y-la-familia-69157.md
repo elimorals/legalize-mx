@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-691
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-20"
-last_updated: "2009-06-20"
+last_updated: "2015-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
-LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE COLIMA
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 26 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE COLIMA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 20 de junio de 2009.
 
@@ -328,3 +330,21 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 15 del mes de junio del año dos mil nueve.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. LA SECRETARIA GENERAL DE GOBIERNO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica. EL DIRECTOR DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, C. JULIO IGNACIO MARTÍNEZ DE LA ROSA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 569 ES DE APROBARSE Y SE APRUEBA CREAR LA LEY DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA; ASÍ MISMO, SE APRUEBA REFORMAR Y DEROGAR DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL PARA EL ESTADO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "el Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia, aprobada en el Decreto 568, publicado en el Periódico Oficial El Estado de Colima el 20 de junio de 2009. Así como las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede al Poder Ejecutivo del Estado un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto, para que emita el Reglamento de la Ley que se contiene en el ARTÍCULO PRIMERO del mismo.
+
+CUARTO.- La Procuraduría de la Defensa del Menor y la Familia, pasa a llamarse Procuraduría de Protección de Niñas, Niños y Adolescentes, sin modificación en su plantilla laboral.
+
+QUINTO.- Los expedientes jurisdiccionales vigentes a cargo de la Procuraduría de la Defensa del Menor y la Familia, continuarán su curso normal a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, prevista en esta Ley.
+
+SEXTO.- Los servidores públicos a que se refiere el artículo 7° de la Ley contenida en el ARTÍCULO PRIMERO de este Decreto conservarán la categoría con la que actualmente desempeñan sus labores.
