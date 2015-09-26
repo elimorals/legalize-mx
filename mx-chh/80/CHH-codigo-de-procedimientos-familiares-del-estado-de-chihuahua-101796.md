@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-familiares-del-estado-de-chihuahua-101
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-23"
-last_updated: "2015-08-05"
+last_updated: "2015-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO N°. 934/2015 VIII P.E. PUBLICADO EN EL P.O. DE 5 DE AGOSTO 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL DISTRITO JUDICIAL MORELOS: EL VEINTIOCHO DE SEPTIEMBRE DE DOS MIL QUINCE; EN EL DISTRITO JUDICIAL BRAVOS: EL CATORCE DE DICIEMBRE DE DOS MIL QUINCE; EN EL RESTO DE LOS DISTRITOS JUDICIALES: EL VEINTICINCO DE ENERO DE DOS MIL DIECISÉIS, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO N°. 967/2015 XI P.E. PUBLICADO EN EL P.O. DE 26 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL DISTRITO JUDICIAL MORELOS: EL VEINTIOCHO DE OCTUBRE DE DOS MIL QUINCE; Y EN EL RESTO DE LOS DISTRITOS JUDICIALES: EL VEINTICUATRO DE FEBRERO DE DOS MIL DIECISÉIS, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
 
 Código publicado en el folleto anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de julio de 2014.
 
@@ -3895,7 +3895,7 @@ El Oficial del Registro Civil, previa identificación de los consortes, levantar
 
 T R A N S I T O R I O S
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 544.
 
@@ -3909,11 +3909,9 @@ El que dolosamente promueva las diligencias de jurisdicción voluntaria para la 
 
 El presente Código iniciará su vigencia, previa publicación en el Periódico Oficial del Estado, según el o los distritos judiciales de que se trate, de la manera siguiente:
 
-En el Distrito Judicial Morelos: el veintiocho de septiembre de dos mil quince.
+En el Distrito Judicial Morelos: el veintiocho de octubre de dos mil quince.
 
-En el Distrito Judicial Bravos: el catorce de diciembre de dos mil quince.
-
-En el resto de los distritos judiciales: el veinticinco de enero de dos mil dieciséis.
+Y en el resto de los Distritos Judiciales: el veinticuatro de febrero de dos mil dieciséis.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3936,6 +3934,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rú
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE SEPTIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
