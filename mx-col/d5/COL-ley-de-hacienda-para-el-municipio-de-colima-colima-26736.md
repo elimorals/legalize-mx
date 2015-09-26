@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-07-11"
+last_updated: "2015-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -458,6 +458,18 @@ IV. En los casos en que el sujeto del impuesto sea madre soltera, jefa de famili
 Los contribuyentes calcularán el impuesto aplicando a la base que resulte conforme a lo dispuesto por los artículos 25, 26 y 27 de esta Ley, según el caso, la siguiente:
 
 (VÉASE ARCHIVO ANEXO)
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+Las personas morales que generen cuando menos 50 empleos formales, y que adquieran algún inmueble con fines empresariales, cuyo valor base para efectos del impuesto establecido en este capítulo, sea superior a $300,000.00, pagarán una tasa para aplicarse al excedente del límite inferior de la tarifa antes señalada, del 0.0100.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+Los incentivos fiscales señalados en el presente artículo se otorgarán únicamente respecto del inmueble que adquieran con la finalidad de establecer una empresa y siempre que éste se destine a fines comerciales e industriales del contribuyente y dichos fines se asienten por el fedatario en el instrumento público presentado para su transmisión, por lo tanto se excluyen todos aquellos inmuebles que se destinen a la enajenación o a la construcción con fines habitacionales.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+La Tesorería Municipal verificará cuando lo estime conveniente, el cumplimiento de los requisitos que se señalan en los párrafos anteriores. De encontrarse irregularidades o determinar que hubo engaño por parte de la persona moral para evadir el pago del impuesto, se procederá en los términos del Código Fiscal Municipal.
 
 El pago del impuesto deberá efectuarse dentro de los quince días siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
 
@@ -1590,3 +1602,7 @@ P.O. 27 DE JUNIO DE 2015.
 P.O. 11 DE JULIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, el cual deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 26 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
