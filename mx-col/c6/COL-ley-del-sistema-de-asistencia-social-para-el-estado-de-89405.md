@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-asistencia-social-para-el-estado-de-89405"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-01"
-last_updated: "2012-09-01"
+last_updated: "2015-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE ASISTENCIA SOCIAL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Suplemento No. 25 del Periódico Oficial del Estado de Colima, el sábado 01 de Septiembre de 2012.
 
@@ -109,7 +109,9 @@ XV. Patronato: Al Patronato del DIF Estatal;
 
 XVI. Patrono: A la persona que funge como miembro del Patronato;
 
-XVII. Procuraduría: A la Procuraduría de la Defensa del Menor y la Familia, dependiente de la Dirección de Asistencia Jurídica del DIF Estatal;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Procuraduría de Protección: A la Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
 XVIII. Persona con Discapacidad: A toda persona que presente una deficiencia física, mental, intelectual o sensorial a largo plazo, o un trastorno de talla y peso congénito o adquirido, que al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
@@ -217,7 +219,9 @@ XIV. La colaboración y auxilio a las autoridades laborales competentes, en la v
 
 XV. El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las personas menores de edad a la satisfacción de sus necesidades y a la salud física y mental;
 
-XVI. La representación legal a través de la Procuraduría, en todas las controversias judiciales en las que sean parte interesada los sujetos de asistencia social y en especial las personas menores de edad, los adultos en plenitud y las personas con discapacidad, siempre y cuando las prestaciones demandadas, no contravengan los objetivos del DIF Estatal; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. La Representación Coadyuvante oficiosa, a través de la Procuraduría de Protección en todos los procedimientos jurisdiccionales o administrativas (sic) en los que estén involucrados Niñas, Niños y Adolescentes, de conformidad con la Ley de los Derechos de las Niñas, Niños y Adolescentes, la Ley de la Procuraduría de Protección de Niñas, Niños y Adolescentes, y demás disposiciones aplicables; y
 
 XVII. Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
@@ -601,9 +605,13 @@ Los servicios de asistencia social que se otorguen a las personas que lo solicit
 
 La prestación de los servicios de Asistencia Social a las personas que marca esta ley, se otorgará previa valoración de la asistencia que requiera, canalizándose cada caso a la respectiva institución, para su atención.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 44.
 
-Tratándose de personas menores de edad en estado de abandono y de conformidad con la Ley de la Procuraduría de la Defensa del Menor y la Familia, se promoverán atendiendo el Interés Superior del Niño, Niña y Adolescente las medidas provisionales y acciones legales pertinentes, de conformidad con lo establecido por los Códigos Civil y de Procedimientos Civiles vigentes en nuestro Estado.
+Tratándose de Niñas, Niños y Adolescentes cuyos derechos hayan sido vulnerados o se encuentren en riesgo de serlo, se realizarán las acciones pertinentes para la protección y, en su caso, la restitución integral de los derechos de las Niñas, Niños o Adolescentes.
+
+Para efectos de lo anterior, la Procuraduría de Protección, establecerá contacto con las autoridades competentes, quienes están obligadas a colaborar conjuntamente de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Colima, Ley de la Procuraduría de Protección y en atención al Interés Superior de la Niñez.
 
 ###### ARTÍCULO 45.
 
@@ -747,7 +755,9 @@ XXVI. Promover en toda la Entidad la creación de instituciones de asistencia pr
 
 XXVII. Operar establecimientos de asistencia social en beneficio de personas menores de edad en estado de abandono o expósitos, personas que no tengan la capacidad para comprender el significado del hecho, adultos en plenitud en estado de abandono y de personas con alguna discapacidad;
 
-XXVIII. Proteger el Interés Superior del Niño, Niña y Adolescente, de conformidad a lo establecido en la Ley de Procuraduría de la Defensa del Menor y la Familia en vigor y demás legislación aplicable;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+XXVIII. Salvaguardar el Interés Superior de la Niñez, garantizando la protección integral y, en su caso, la restitución de los derechos de las Niñas, Niños y Adolescentes, mediante la coordinación y seguimiento de los procedimientos implementados para el efecto por las autoridades competentes, de conformidad a lo dispuesto por la Ley de la Procuraduría de Protección de Niñas, Niños y Adolescentes y demás legislación aplicable;
 
 XXIX. Tramitar ante los tribunales competentes, la adopción de personas menores de edad en estado de abandono y expósitos en los términos de las leyes respectivas;
 
@@ -867,7 +877,9 @@ III. Dirección de Sistemas Municipales, Alimentación y Desarrollo Comunitario;
 
 IV. Dirección de Desarrollo Humano; y
 
-V. Procuraduría de la Defensa del Menor y de la Familia.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+V. Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### ARTÍCULO 66.
 
@@ -1083,11 +1095,11 @@ XXXIV. Realizar las demás que sean necesarias para el adecuado ejercicio de las
 
 #### SECCIÓN IV. DE LA DIRECCIÓN DE ASISTENCIA JURÍDICA
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 74.
 
-La Dirección de Asistencia Jurídica, tiene como objetivo brindarle al DIF Estatal, seguridad jurídica en cualquier actividad inherente a la consecución de sus objetivos; y de igual manera, por conducto de la Procuraduría de la Defensa del Menor y la Familia, brindará orientación, asesoría y apoyo jurídico confidencial, a los sectores vulnerables de la población, dando prioridad en todo caso, al interés superior de los niños, niñas y adolescentes.
-
-En cuanto a la forma de organización de la Dirección de Asistencia Jurídica, se estará a lo dispuesto por el Reglamento Interior.
+La Dirección de Asistencia Jurídica, tiene como objetivo brindarle al DIF Estatal, seguridad jurídica en cualquier actividad inherente a la consecución de sus objetivos. En cuanto a la forma de organización de la Dirección de Asistencia Jurídica, se estará a lo dispuesto por el Reglamento Interior.
 
 ###### ARTÍCULO 75.
 
@@ -1105,7 +1117,9 @@ V. Realizar los dictámenes, informes y opiniones legales que le sean solicitado
 
 VI. Establecer convenios de colaboración y de participación, así como pláticas o reuniones con las autoridades y funcionarios federales, estatales o municipales, que sean necesarias para que de acuerdo a sus funciones y responsabilidades, colaboren con el DIF Estatal, cuando así se requiera;
 
-VII. Establecer convenios y acuerdos con la Procuraduría General de Justicia del Estado, para coadyuvar a la aplicación de las leyes vigentes en materia familiar, y hacer expeditos los trámites de todos los asuntos que se incluyan en la atención de los niños, las niñas y los adolescentes en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Establecer convenios y acuerdos con la Procuraduría General de Justicia del Estado, para coadyuvar a la aplicación de las leyes vigentes en materia familiar y de asistencia social, y hacer expeditos los trámites de todos los asuntos que se incluyan en la atención de los niños, las niñas y los adolescentes en situación de vulnerabilidad;
 
 VIII. Se encargará del despacho de la Dirección General, en las ausencias temporales de su titular, y en el supuesto de no contar con un titular del despacho, asumirá plenamente las facultades de la Dirección General, en tanto no se nombre nuevo Titular;
 
@@ -1117,7 +1131,9 @@ XI. Brindar asesoría a las distintas Direcciones y Coordinaciones del DIF Estat
 
 XII. Instrumentar las denuncias o demandas presentadas por DIF Estatal, la contestación de aquellas que fueran presentadas en contra de éste, así como dar el seguimiento de los procedimientos respectivos ante las autoridades correspondientes;
 
-XIII. Asesorar legalmente a todos los niveles de las distintas Direcciones y Coordinaciones del DIF Estatal, para que su actuación sea apegada a la Ley;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Asesorar legalmente a todos los niveles de las distintas Direcciones, Coordinaciones y demás áreas y departamentos del DIF Estatal, para que su actuación sea apegada a la Ley;
 
 XIV. Instrumentar los convenios y contratos de diversas modalidades, como son: compraventa, comodato, prestación de servicios, honorarios, entre otros, de acuerdo a las necesidades de la Institución;
 
@@ -1133,29 +1149,37 @@ XIX. Participar conforme a la normatividad aplicable, en la sustanciación de lo
 
 XX. Cumplir con lo establecido por esta Ley, la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima y demás normatividad aplicable en la materia;
 
-XXI. Supervisar el plan de trabajo anual y la programación anual de eventos, así como elaborar en tiempo y forma los reportes mensuales de las actividades correspondientes del personal adscrito a la Procuraduría de la Defensa del Menor y la Familia;
+XXI. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2015)
 
-XXII. Proteger y hacer valer los derechos de los menores que se encuentran en la casa hogar infantil y albergues para adolescentes, así como vigilar el seguimiento del proceso legal de los mismos;
+XXII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2015)
 
 XXIII. Coordinar las actividades que se realizan en las diferentes áreas adscritas a la Dirección, con el propósito de cumplir con lo establecido por las mismas;
 
-XXIV. Establecer las políticas para la implementación de los programas y acciones en materia de la defensa del menor;
+XXIV. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2015)
 
 XXV. Promover y realizar programas de capacitación orientados principalmente a la actualización de los conocimientos y procesos jurídicos;
 
-XXVI. Coordinar las actividades que se realicen a través del departamento de trabajo social y psicología;
+XXVI. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2015)
 
-XXVII. Supervisar los programas adscritos a la Dirección de Asistencia Jurídica, con el fin de proteger a personas afectadas, mujeres y personas menores de edad, a favor de la integración familiar;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
 
-XXVIII. Coordinar las actividades que realce la Procuraduría de la Defensa del Menor y la Familia, con el objetivo de garantizar las acciones hacia el restablecimiento y reincorporación al núcleo familiar;
+XXVII. Supervisar los programas adscritos a la Dirección de Asistencia Jurídica, con el fin de garantizar los derechos humanos de las Niñas, Niños y Adolescentes;
 
-XXIX. Coordinar programas preventivos y de atención contra la violencia intrafamiliar;
+XXVIII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2015)
+
+XXIX. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2015)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE SEPTIEMBRE DE 2015)</small>
 
 XXX. Coordinar las acciones que realiza el Programa para la Atención de Niñas, Niños y Adolescentes en Riesgo, PANNAR, con la finalidad de vigilar que cumplan con los lineamientos establecidos;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
 XXXI. Coordinar, orientar y apoyar las actividades del personal adscrito al área de su competencia;
 
-XXXII. Supervisar el plan de trabajo anual y la programación anual de eventos, así como elaborar en tiempo y forma los reportes mensuales de las actividades correspondientes del personal adscrito a la Procuraduría de la Defensa del Menor y la Familia; y
+XXXII. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2015)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 26 DE SEPTIEMBRE DE 2015)</small>
 
 XXXIII. Realizar las demás que sean necesarias para el adecuado ejercicio de las anteriores, que establezca esta Ley, el Reglamento Interior y demás leyes aplicables.
 
@@ -1441,9 +1465,11 @@ V. Talleres protegidos; y
 
 VI. Rehabilitación física.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 91.
 
-Corresponde al estado, a través del Sistema, brindar atención a las niñas, niños y adolescentes en situación de vulnerabilidad, entendiendo como tal, los supuestos siguientes:
+Corresponde al Estado, a través del Sistema, brindar atención a las niñas, niños y adolescentes en situación de vulnerabilidad, entendiendo como tal, los supuestos siguientes:
 
 I. Se encuentren físicamente abandonados por estar separados ocasional o definitivamente del seno familiar o, cuando aún sin estarlo, se hallen desamparados o sin un adecuado sostén por la indiferencia, negligencia o falta de recursos económicos de sus padres, tutores o de quienes ejercen la patria potestad;
 
@@ -1469,7 +1495,9 @@ XI. Presente el síndrome del niño maltratado a causa de lesiones orgánicas o 
 
 XII. Padezcan desnutrición en tercer grado, según el dictamen de las autoridades sanitarias competentes; y
 
-XIII. Presenten otra situación análoga por determinación de la Procuraduría.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Presenten otra situación análoga por determinación de la Procuraduría de Protección.
 
 ###### ARTÍCULO 92.
 
@@ -1487,9 +1515,11 @@ Es obligación de los padres o tutores, velar por la seguridad, alimentación, s
 
 Los abusos o desviaciones que los representantes legales o terceros, cometan al amparo de la debilidad de las personas señaladas y afecten su integridad física o moral, serán sancionados conforme a lo previsto por las leyes aplicables al respecto.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 96.
 
-Los directores y/o los administradores de hospitales públicos o privados, médicos particulares, maestros o cualquier otra persona u organismo que tenga conocimiento de hechos relacionados con personas menores de edad en situación extraordinaria, tendrán la obligación de comunicarlo a la Procuraduría de la Defensa del Menor y la Familia, dependiente de la Dirección de Asistencia Jurídica del DIF Estatal.
+Los directores y/o los administradores de hospitales públicos o privados, médicos particulares, maestros o cualquier otra persona u organismo que tenga conocimiento de hechos relacionados con personas menores de edad en situación extraordinaria, tendrán la obligación de comunicarlo a la Procuraduría de Protección, dependiente del DIF Estatal.
 
 ### CAPÍTULO V. DE LA ORIENTACIÓN FAMILIAR
 
@@ -1860,3 +1890,19 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 31 treinta y uno del mes de agosto del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica. EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTÍN LARA ESQUEDA. Rúbrica. EL SECRETARIO DE DESARROLLO SOCIAL, LIC. OSCAR CARLOS ZURROZA BARRERA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "el Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia, aprobada en el Decreto 568, publicado en el Periódico Oficial El Estado de Colima el 20 de junio de 2009. Así como las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede al Poder Ejecutivo del Estado un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto, para que emita el Reglamento de la Ley que se contiene en el ARTÍCULO PRIMERO del mismo.
+
+CUARTO.- La Procuraduría de la Defensa del Menor y la Familia, pasa a llamarse Procuraduría de Protección de Niñas, Niños y Adolescentes, sin modificación en su plantilla laboral.
+
+QUINTO.- Los expedientes jurisdiccionales vigentes a cargo de la Procuraduría de la Defensa del Menor y la Familia, continuarán su curso normal a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, prevista en esta Ley.
+
+SEXTO.- Los servidores públicos a que se refiere el artículo 7° de la Ley contenida en el ARTÍCULO PRIMERO de este Decreto conservarán la categoría con la que actualmente desempeñan sus labores.
