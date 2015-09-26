@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2015-06-13"
+last_updated: "2015-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -3721,6 +3721,18 @@ b).- Establecimientos comerciales, industriales, de servicio y similares, por me
 
 c).- Fraccionamientos, por metro cuadrado 0.100
 
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+La cuota señalada en el inciso b) no aplica cuando la nueva construcción sea para fines empresariales y la empresa de que se trate sea una persona moral, que genere por lo menos 50 empleos formales y cumpla con todos los requisitos de ley.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+Será el Municipio, durante el trámite de la licencia de construcción, la instancia que verificará el cumplimiento de los requisitos anteriores, quien enviará los planos correspondientes a la Secretaría de Salud y Bienestar Social para su posterior verificación.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+
+La dependencia señalada en el párrafo anterior realizará, cuando lo estime conveniente, la visita para verificar que se cumpla con lo señalado en el segundo párrafo de esta fracción. De encontrar irregularidades o determinar que hubo engaño por parte de la persona moral con el propósito de evadir el pago del derecho, se notificará a la Secretaría de Finanzas y Administración para que se proceda de conformidad con lo dispuesto en las Leyes Fiscales del Estado.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
@@ -5716,3 +5728,7 @@ P.O. 13 DE JUNIO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Las oficinas de depósitos y consignaciones del Poder Judicial serán las autorizadas para recaudar los derechos por los servicios que preste el mencionado Poder, con base en los procedimientos establecidos en (sic) ley.
+
+P.O. 26 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
