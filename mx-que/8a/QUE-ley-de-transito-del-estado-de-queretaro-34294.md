@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transito-del-estado-de-queretaro-34294"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-03"
-last_updated: "2012-06-22"
+last_updated: "2015-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE TRÁNSITO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 3 de octubre de 2003.
 
@@ -1101,11 +1101,19 @@ ARTÍCULO 74 BIS. En caso de que las infracciones contempladas en el inciso A) f
 
 Para efectos de la cuantificación de las sanciones que se establecen en el artículo que antecede, se estará a lo dispuesto en el reglamento de tránsito que corresponda.
 
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+Tratándose de la infracción prevista en el inciso A), fracción I, del artículo 74, la sanción será de 50 a 80 días de salario mínimo vigente en el Estado.
+
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 76.
 
 El infractor que pague la multa dentro de los diez días hábiles siguientes a la fecha de la infracción tendrá derecho a un descuento del cincuenta por ciento del costo total de la misma.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+Se exceptúa de lo anterior, la infracción a que se refiere el inciso A), fracción I, del artículo 74, la cual deberá ser pagada en su totalidad.
 
 ###### ARTÍCULO 77.
 
@@ -1333,4 +1341,12 @@ P.O. 22 DE JUNIO DE 2012.
 
 Artículo Primero. Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-Artículo Segundo. Remítase·al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+Artículo Segundo. Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 28 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga''.
+
+Artículo Segundo. Los municipios del Estado de Querétaro, deberán actualizar sus respectivos reglamentos de tránsito, en un plazo no mayor a 60 días, contados a partir de la entrada en vigor de esta Ley.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
