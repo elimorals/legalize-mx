@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-tecnologico-de-estudios-superiores-4603
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-08-23"
-last_updated: "2015-09-15"
+last_updated: "2015-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE SEPTIEMBRE DE 2015 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VILLA GUERRERO, PUBLICADO EN LA G.G. DE 15 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE SEPTIEMBRE DE 2015 (ABROGADO).
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 28 DE SEPTIEMBRE DE 2015.</small>
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 23 de agosto de 2005.
 
@@ -457,6 +457,8 @@ PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial “Gaceta 
 
 SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Villa Guerrero, publicado en el Periódico Oficial “Gaceta del Gobierno” el 18 de noviembre de 2011 (sic).
+> <small>(F. DE E., G.G. 28 DE SEPTIEMBRE DE 2015)</small>
+
+TERCERO.- Se abroga el Reglamento Interior del Tecnológico de Estudios Superiores de Villa Guerrero, publicado en el Periódico Oficial “Gaceta del Gobierno” el 23 de agosto de 2005.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
