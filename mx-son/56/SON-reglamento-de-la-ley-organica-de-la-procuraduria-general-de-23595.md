@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-235
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-26"
-last_updated: "2009-03-26"
+last_updated: "2015-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado Sonora, el lunes 26 de noviembre de 2001.
 
@@ -81,11 +81,15 @@ I.- Unidades Administrativas:
 
 - Unidad Central de Agentes Especiales del Ministerio Público.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+- Fiscalía Especializada para investigar hechos de Corrupción.
+
 II.- Órganos Desconcentrados.
 
--Delegaciones Regionales de la Procuraduría General de Justicia del Estado.
+- Delegaciones Regionales de la Procuraduría General de Justicia del Estado.
 
--Unidad Especializada en Procuración de Justicia para Adolescentes.
+- Unidad Especializada en Procuración de Justicia para Adolescentes.
 
 Se anexa organigrama estructural
 
@@ -191,11 +195,11 @@ XXVIII.- Definir, en el marco de las acciones de desarrollo administrativo y mej
 
 XXIX.- Las demás que con este carácter le confieran este ordenamiento y otras disposiciones legales, así como aquellas otras que le encomiende el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 7o.
 
-Serán también atribuciones del Procurador General de Justicia del Estado, mismas que por acuerdo podrá delegar en los Subprocuradores de Averiguaciones Previas y de Control de Procesos, Delegados Regionales, así como en el titular de la Unidad Especializada en Procuración de Justicia para Adolescentes, las siguientes:
+Serán también atribuciones del Procurador General de Justicia del Estado, mismas que por acuerdo podrá delegar en los Subprocuradores de Averiguaciones Previas y de Control de Procesos, Fiscales Especiales, Delegados Regionales, así como en el titular de la Unidad Especializada en Procuración de Justicia para Adolescentes, las siguientes:
 
 I.- Definir, en el marco de las acciones de modernización y simplificación administrativa, las medidas técnicas y administrativas que estime convenientes, para la mejor organización y funcionamiento de la Procuraduría;
 
@@ -237,7 +241,9 @@ XI.- Definir e implementar políticas de control tendientes a vigilar que la act
 
 XII.- Las demás que le confieran las disposiciones legales y no se encuentren en los supuestos señalados en el artículo anterior.
 
-### CAPITULO III. DE LAS ATRIBUCIONES DE LOS SUBPROCURADORES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPITULO III. DE LAS ATRIBUCIONES DE LOS SUBPROCURADORES Y DE LA FISCALÍA ESPECIALIZADA PARA INVESTIGAR HECHOS DE CORRUPCIÓN
 
 ###### ARTICULO 8o.
 
@@ -299,7 +305,209 @@ XX.- Las demás que le confieran otras disposiciones legales o el Procurador.
 
 ###### ARTICULO 9o.
 
-(DEROGADO, B.O. 17 DE NOVIEMBRE DE 2005)
+(REFORMADO [N. DE E. DEROGADO], B.O. 28 DE SEPTIEMBRE DE 2015)
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis.
+
+La Fiscalía Especializada para investigar Hechos de Corrupción es una unidad administrativa adscrita a la Oficina del Procurador General de Justicia del Estado de Sonora, con autonomía funcional, técnica y de gestión conforme las facultades previstas constitucionalmente al ministerio público, la cual tendrá por objeto planear y conducir las acciones encaminadas a la atención investigación, persecución y prosecución de delitos relacionados con hechos de corrupción de competencia Estatal.
+
+Los delitos relacionados con hechos de corrupción comprende los tipos penales que establece el Código Penal para el Estado de Sonora en el Título Séptimo, que lleva por rubro “Delitos cometidos por servidores públicos”, y el Título Octavo, que se denomina “Delitos cometidos contra la Procuración y administración de justicia, así como cualquier otro delito cometido por un servidor público del Estado en el desempeño de un empleo, cargo o comisión.
+
+La Fiscalía Especializada conocerá de los delitos conexos a los de su competencia, cuando existan indicios suficientes sobre la conexidad, entre el delito competencia de la Unidad Especializada y el diverso.
+
+En caso de delitos de competencia federal relacionados con actos de corrupción, en los que intervengan servidores públicos del Estado, así como miembros de la delincuencia organizada, la Fiscalía Especializada conocerá únicamente del delito relacionado con corrupción que se actualice de su competencia, debiendo remitir la averiguación a la Unidad correspondiente de la Procuraduría General de la República.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 1.
+
+Al frente de la Fiscalía Especializada para investigar Hechos de Corrupción, habrá un Fiscal General, el cual tendrá la calidad de Agente del Ministerio Público.
+
+El Fiscal será designado por el titular del Poder Ejecutivo del Estado.
+
+La Fiscalía Especializada, contará con por lo menos tres Agentes del Ministerio Público especializados en la materia nombrados por el titular del Poder Ejecutivo Estatal, a propuesta del Procurador General de Justicia.
+
+La Fiscalía Especializada para investigar Hechos de Corrupción contará con los recursos humanos, materiales y financieros que resulten necesarios para su óptima operación y funcionamiento, en términos de la normatividad aplicable y la disponibilidad presupuestaria.
+
+Asimismo, la Fiscalía Especializada contará adscrito a ella con un Órgano Especializado en materia de Auditoría Forense; a cuyo titular corresponden las siguientes atribuciones:
+
+I. Emitir Dictámenes Periciales en Materia de Auditorías Forenses a Petición del Ministerio Público y de las Autoridades Judiciales del Fuero Común, considerando que ésta tiene como objeto la revisión de los procesos, hechos y evidencias para la detección o investigación de actos u omisiones que impliquen la comisión de alguno de los Delitos relacionados con Hechos de Corrupción, con el propósito de documentar con pruebas válidas y suficientes las conclusiones derivadas de los hallazgos e irregularidades detectadas, apoyándose cuando así se requiera, con la tecnología y herramienta forense para el desarrollo de sus investigaciones;
+
+II. Atender las solicitudes de servicios de otras autoridades e instituciones, previo acuerdo del Procurador General de Justicia del Estado, o del Fiscal Especial, sin perjuicio de la atención preferente que deba darse a las solicitudes formuladas por la Fiscalía Especializada;
+
+III. Para efectos de realizar el dictamen correspondiente, podrá practicar las revisiones en los registros, documentos, o archivos, y en general en cualesquier otro documento o documentos físicos o digitales, que la autoridad así le solicite y proporcione, a fin de comprobar que las operaciones referentes a la recaudación, obtención y captación de los ingresos; el movimiento de fondos; las operaciones relacionadas con la deuda pública en su contratación, registro, renegociación, administración y pago; los egresos, incluyendo subsidios, transferencias y donativos, y que los recursos y obligaciones, se hayan realizado, administrado, registrado y aplicado de acuerdo con las leyes correspondientes y al fin establecido; así como, evaluar el cumplimiento de metas y objetivos previstos, conforme a las disposiciones jurídicas aplicables;
+
+IV. Dentro de las auditorías que practique, deberá verificar que los recursos que a título de subsidios o por cualquier otro concepto, los Poderes del Estado y entes públicos estatales hayan otorgado con cargo a su presupuesto a entidades federativas, municipios, particulares, y en general a cualquier entidad pública o privada, para verificar su aplicación al objeto autorizado, en cumplimiento de las disposiciones jurídicas aplicables;
+
+V. Deberá verificar que las operaciones que realicen las entidades fiscalizadas sean acordes con la Ley de Ingresos y al Decreto del Presupuesto de Egresos del Estado de Sonora; se efectúen con apego a las disposiciones respectivas del Código Fiscal del Estado de Sonora, el Código Fiscal de la Federación y leyes fiscales sustantivas; las leyes General de Deuda Pública, Federal de Presupuesto y Responsabilidad Hacendaria; orgánicas del Congreso, del Ejecutivo, y del Poder Judicial Estatal y demás disposiciones jurídicas y administrativas aplicables;
+
+VI. Practicar auditorías a efecto de constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizadas, de los fideicomisos, fondos y mandatos o cualquier otra figura análoga, para verificar la razonabilidad de las cifras mostradas, en los estados financieros consolidados y particulares de la Cuenta Pública;
+
+VII. Practicar auditorías sobre el desempeño a las entidades fiscalizadas, en los términos previstos en la Ley de Fiscalización y Rendición de Cuentas de la Federación o la Legislación Estatal Aplicable;
+
+VIII. Recabar a través de la Autoridad, la información que requiera para su análisis y procesamiento, para el ejercicio de sus atribuciones, incluyendo aquella información contenida en los diversos medios de almacenamiento y bases de datos, para lo cual podrá utilizar herramientas tecnológicas e informáticas especializadas;
+
+IX. Identificar, señalar e informar a la Autoridad, los documentos y evidencias de hechos, actos u omisiones que impliquen alguna irregularidad o conducta ilícita, y cuando así se requiera, solicitar al Fiscal Especial el apoyo de especialistas externos;
+
+X. Informar la conclusión de las auditorías forenses en el momento en que, derivado de los hallazgos y conclusiones obtenidas durante el proceso de investigación, se determine que no existen los elementos suficientes para presumir alguna irregularidad;
+
+XI. Proponer al Fiscal Especial programas de capacitación, especialización y certificación para el personal auditor, orientados a desarrollar y fortalecer las habilidades y capacidad técnica en materia de auditoría forense;
+
+XII. Proponer al Fiscal Especial la celebración de convenios, bases de colaboración o acuerdos interinstitucionales con organizaciones nacionales e internacionales en materia forense, y
+
+XIII. Las demás que en el ámbito de su competencia le confieran las disposiciones jurídicas aplicables.
+
+Las atribuciones previstas en este Artículo podrán ser ejercidas indistintamente por el personal adscrito al Órgano Auxiliar de Auditoría, salvo las previstas en las fracciones X, XI, XII, que son de ejercicio directo de su titular.
+
+El titular de este Órgano Auxiliar será nombrado por el titular del Poder Ejecutivo a propuesta del Fiscal Especial.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 2.
+
+El Fiscal Especial deberá reunir los siguientes requisitos:
+
+I. Poseer título de Licenciado en Derecho con una antigüedad mínima de cinco años en la fecha de solicitud de ingreso, expedido por la autoridad facultada para ello y debidamente registrado;
+
+II. No ser farmacodependiente, ni consumir estupefacientes o psicotrópicos, ni padecer alcoholismo. Se garantizará lo anterior, mediante examen que se practique por la Dirección General de Servicios Periciales;
+
+III. Gozar de buena salud, acreditándolo con certificado de salud expedido por institución de carácter oficial;
+
+IV. Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales o culposos graves, ni estar sujeto a proceso por delitos de la misma naturaleza;
+
+V. Ser ciudadano mexicano y estar en pleno goce de sus derechos civiles y políticos;
+
+VI. No tener menos de treinta años el día de la solicitud;
+
+VII. Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en servicio de la República, por un tiempo menor de seis meses;
+
+VIII. Acreditar, en su caso, haber cumplido con el Servicio Militar Nacional;
+
+IX. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 3.
+
+El Fiscal Especial, respecto de los asuntos materia de su competencia, por sí o por conducto de los servidores públicos con jerarquía inmediata inferior a éste que al efecto designe, ejercerá las facultades siguientes:
+
+I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada para investigar Hechos de Corrupción;
+
+II. Ejercer las atribuciones que la Constitución Política del Estado Libre y Soberano de Sonora, los instrumentos internacionales en la materia, las leyes, los Reglamentos y demás disposiciones jurídicas confieren a los Agentes del Ministerio Público;
+
+III. Coordinar su actuar con las unidades administrativas y órganos desconcentrados de la Procuraduría General de Justicia del Estado de Sonora;
+
+IV. Recibir quejas y denuncias sobre posibles irregularidades o conductas ilícitas de servidores públicos o terceros en la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos federales y, en caso de existir elementos que acrediten su intervención, proponer la revisión correspondiente;
+
+V. Citar a los quejosos o denunciantes, en su caso, para que ratifiquen o amplíen la información proporcionada, y con ello contar con mayores elementos de prueba;
+
+VI. Requerir a las instancias de control competentes y a las entidades de fiscalización superior de las entidades federativas, los informes, resultados o demás información que se requiera para el ejercicio de sus funciones;
+
+VII. Obtener copia de los documentos que tenga a la vista y previo cotejo, certificarlos cuando así se requiera. Igualmente podrá expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan las disposiciones jurídicas en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
+
+VIII. Dirigir, coordinar y realizar la investigación de los hechos que probablemente constituyan uno de los delitos del fuero común materia de su competencia;
+
+IX. Formular los requerimientos de información y de documentos relativos al sistema financiero o de naturaleza fiscal, conforme lo dispone el Artículo 173 del Código de Procedimientos Penales para el Estado de Sonora y el Artículo 7 de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora;
+
+X. Solicitar información a las instituciones públicas federales, estatales o municipales;
+
+XI. Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación del daño;
+
+XII. Autorizar la consulta de reserva, incompetencia, acumulación, y separación de averiguaciones previas, que propongan los agentes del Ministerio Público de su adscripción;
+
+XIII. Autorizar en definitiva el no ejercicio de la acción penal, previo dictamen del agente del Ministerio Público auxiliar del Procurador General, respecto de las consultas planteadas por los agentes del Ministerio Público de su adscripción;
+
+XIV. Previo acuerdo del Procurador General de Justicia, autorizar la formulación de conclusiones no acusatorias en los procesos penales;
+
+XV. Resolver en definitiva las consultas que agentes del Ministerio Público formulen a las prevenciones que la autoridad judicial acuerde en los términos que la ley disponga, respecto de la omisión de formular conclusiones en el plazo legal, de conclusiones presentadas en un proceso penal, o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia, de cancelación o reclasificación de órdenes de aprehensión;
+
+XVI. Establecer mecanismos de cooperación y colaboración con autoridades federales, del Distrito Federal, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
+
+XVII. Proponer la celebración de convenios con instituciones u organismos públicos o privados, nacionales o extranjeros, en el ámbito de su competencia, donde se privilegie el intercambio de experiencias conocimientos y avances tecnológicos;
+
+XVIII. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de delitos relacionados con hechos de corrupción;
+
+XIX. Emitir o suscribir los instrumentos jurídicos que faciliten el funcionamiento y operación de conformidad con el artículo 8 del Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Sonora;
+
+XX. Participar con las unidades administrativas y órganos desconcentrados competentes de la Procuraduría General de Justicia del Estado, en el diseño de esquemas de capacitación, actualización y especialización en la materia de prevención y combate a la corrupción;
+
+XXI. Supervisar y ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas, sin perjuicio de que sean desempeñadas por sus respectivos titulares, y
+
+XXII. Las demás que en su caso le confieran otras disposiciones.
+
+Las facultades establecidas en las fracciones XIII a XXIII de la presente disposición sólo podrán ser realizadas por el Fiscal Especial.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 4.
+
+La Fiscalía Especializada se coordinará con las Delegaciones de la Institución, así como las diversas unidades de la misma, para realizar las investigaciones y diligencias materia de su competencia, que se practiquen en el ámbito territorial de la Delegación respectiva.
+
+En caso de discrepancia sobre la Unidad u Órgano que debe conocer del asunto en términos del artículo 9 BIS, y 9 Bis 1, lo resolverá el Procurador General.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 5.
+
+Para los efectos de la coordinación que se menciona en el artículo que antecede, los Agentes del Ministerio Público adscritos a las Delegaciones, o diversas unidades de la Institución, realizarán lo siguiente:
+
+I. Informar al titular de la Delegación, para que este lo haga del conocimiento de la Fiscalía Especializada correspondiente.
+
+II. En la información que remita el Delegado se deberán incluir los datos siguientes:
+
+- Número de Averiguación Previa o Control Interno;
+
+- Lugar, fecha y hora de inicio;
+
+- Nombre de (los) denunciante(s) o querellante(s);
+
+- Nombre y nacionalidad de (los) inculpado(s) o, en su caso, indicación del inicio de la Averiguación Previa en contra de quien resulte responsable;
+
+- Delito(s).
+
+- Narración sucinta de los hechos;
+
+- Indicación del inicio de la Averiguación Previa con o sin detenido;
+
+- Objetos e instrumentos asegurados, y
+
+- Estado actual de la indagatoria.
+
+III. El Procurador General, el Subprocurador de Averiguaciones Previas, o los Delegados Regionales correspondientes, podrán instruir la remisión inmediata de las actuaciones a la Fiscalía Especializada.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 6.
+
+Cuando el agente del Ministerio Público de la Fiscalía Especializada ejerza acción penal, el agente del Ministerio Público adscrito al juzgado, deberá informar a ésta la radicación del asunto consignado y le mantendrá informado del estado que guarde.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 7.
+
+Los agentes del Ministerio Público adscritos a la Fiscalía Especializada, así como el Fiscal Especial, podrán intervenir directamente en los procesos penales derivados de las consignaciones de averiguaciones previas que hayan sido integradas en dicha Fiscalía, caso en el cual realizarán los trámites administrativos y judiciales conducentes.
+
+También podrán participar en el proceso por conducto del agente del Ministerio Público adscrito, en cuyo caso, proporcionarán la información y apoyo técnico jurídico en sus actuaciones procesales, a través de la remisión de proyectos de pedimentos, sin que esto releve al agente del Ministerio Público, adscrito al tribunal de su responsabilidad de promover. Lo anterior, en coordinación con la Subprocuraduría de Control de Procesos.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 8.
+
+El agente del Ministerio Público adscrito al Juzgado, por conducto del titular de la Subprocuraduría de Control de Procesos o en su caso de la Delegación Regional, hará del conocimiento a la Fiscalía Especializada las sentencias que se dicten en los casos señalados en los artículos anteriores.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 9.
+
+Cuando la intervención en el proceso sea a través del agente del Ministerio Público adscrito a los Juzgados y Tribunales, la Fiscalía Especializada opinará sobre el proceder respecto de las sentencias que se emitan y, proporcionarán la información y el apoyo técnico jurídico en las actuaciones procesales a realizar por los agentes adscritos referidos. Lo anterior, en coordinación con la Subprocuraduría de Control de Procesos.
+
+> <small>(ADICIONADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 9 Bis 10.
+
+Cuando se interponga un juicio de amparo en contra de acto de autoridad emitido por el personal ministerial de la Fiscalía Especializada o del órgano jurisdiccional que conozca de asuntos competencia de la Fiscalía Especializada, el Agente del Ministerio Público adscrito a la Unidad Especializada mantendrá informado de su desarrollo y resolución, al Fiscal Especial, así como al titular de la Subprocuraduría de Control de Procesos, sin perjuicio de los demás informes que deba rendir.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES GENERICAS DE LAS DIRECCIONES GENERALES Y DE LA VISITADURIA GENERAL
 
@@ -1811,13 +2019,13 @@ El titular de la Visitaduría General en cualquier momento del procedimiento y s
 
 Concluido el procedimiento de referencia y al advertirse de los medios probatorios la existencia de conductas generadoras de Responsabilidad Administrativa a cargo de los servidores públicos encausados, se turnará el expediente al Procurador General de Justicia, para que éste emita la resolución correspondiente, o bien por quien éste determine, según sea el caso. En contra de dicha resolución no procede medio de impugnación o juicio ordinario alguno.
 
-> <small>(REFORMADO, B.O. 17 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 97.
 
 En caso de que la conducta indebida sea realizada por un servidor público diverso a los que integran el Servicio Civil de Carrera de la Procuraduría General de Justicia, la Visitaduría General elaborará opinión técnico-jurídica y la remitirá a la Secretaría de la Contraloría General, para que ésta resuelva lo procedente.
 
-De las determinaciones que se tomen conforme al artículo anterior y del presente se informará al Procurador General de Justicia. Asimismo, cuando de dichas conductas se advierta la comisión de un delito se dará vista al Agente del Ministerio Público para que inicie la averiguación previa correspondiente.
+De las determinaciones que se tomen conforme al artículo anterior y del presente se informará al Procurador General de Justicia. Asimismo, cuando de dichas conductas se advierta la comisión de un delito se dará vista a la Fiscalía Especializada para que inicie la averiguación previa correspondiente.
 
 ### CAPITULO XIV. DE LAS SUPLENCIAS
 
@@ -1827,9 +2035,11 @@ De las determinaciones que se tomen conforme al artículo anterior y del present
 
 Durante las ausencias del Procurador, el despacho y resolución de los asuntos de la dependencia estarán a cargo del Subprocurador de Control de Procesos y, a falta de éste, del Subprocurador de Averiguaciones Previas.
 
+> <small>(REFORMADO, B.O. 28 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 99.
 
-Las faltas temporales de los Subprocuradores, Delegados Regionales y de los Directores Generales se suplirán por quien determine el Procurador, y las de los Agentes del Ministerio Público en los términos que previene la Ley Orgánica de la Institución.
+Las licencias temporales del Fiscal Especial, Delegados Regionales y de los Directores Generales se suplirán por quien determine el Procurador, y las de los Agentes del Ministerio Público en los términos que previene la Ley Orgánica de la Institución.
 
 ###### ARTICULO 100.
 
@@ -1876,3 +2086,27 @@ B.O. 26 DE MARZO DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 28 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- En el plazo de diez días a partir de la entrada en vigor de este Decreto, el Titular del Poder Ejecutivo del Estado de Sonora nombrará al Fiscal Especial en términos del artículo 9 Bis 1 del presente decreto.
+
+El Procurador General del Estado de Sonora, entregará al titular del Poder Ejecutivo la propuesta de Agentes del Ministerio Público especializados, en el plazo de cinco días de la entrada en vigor de este Decreto.
+
+Al día siguiente hábil de su nombramiento, el Fiscal Especial entregará al titular del Poder Ejecutivo la propuesta para titular del Órgano Especializado en materia de Auditoría Forense. El Titular del Poder Ejecutivo realizará la designación respectiva en el plazo de tres días a partir de recibida la propuesta.
+
+TERCERO.- En lo no previsto en el presente Decreto y en aquellos asuntos que requieran normas para su aplicación, el Fiscal Especial para la investigación de Hechos de Corrupción, formulará y dictará los criterios y lineamientos conducentes.
+
+CUARTO.- Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría General de Justicia del Estado, y que sean indispensables para el funcionamiento de la Fiscalía Especializada para la investigación de hechos de corrupción, serán transferidos y pasarán a formar parte de la Fiscalía Especializada. El Procurador General, determinará los ajustes que correspondan a su presupuesto para cumplir con los objetivos de la fiscalía.
+
+QUINTO.- Las denuncias y averiguaciones previas, procesos penales, y demás expedientes vigentes y relativos a delitos relacionados con hechos de corrupción, así como cualquier otro delito cometido por un servidor público en el desempeño de un empleo, cargo o comisión, que hayan sido presentados o iniciados con anterioridad a la entrada en vigor del presente Decreto deberán remitirse a la Fiscalía Especializada en un término no mayor a sesenta días naturales, contados a partir de la designación del Fiscal Especial.
+
+Asimismo, adjunto deberá remitirse al Fiscal Especial, un informe mediante oficio, en el que se detallen los hechos y datos generales de cada expediente en el cual se detalle, cuando menos, la información contenida en el artículo 9 Bis 5.
+
+SEXTO.- Se instruye a los titulares de las diferentes unidades administrativas y órganos desconcentrados de la Procuraduría General de Justicia del Estado de Sonora a efecto de que se instrumenten las medidas pertinentes y necesarias para dar el debido cumplimiento a lo establecido en el presente Decreto.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Decreto.
+
+OCTAVO.- Publíquese este Decreto en el Boletín Oficial del Gobierno del Estado.
