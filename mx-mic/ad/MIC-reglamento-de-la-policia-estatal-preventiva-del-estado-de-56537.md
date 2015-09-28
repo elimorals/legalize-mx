@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-policia-estatal-preventiva-del-estado-de-56537
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-16"
-last_updated: "2007-07-16"
+last_updated: "2015-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO DE LA POLICIA ESTATAL PREVENTIVA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE LA POLICÍA ESTATAL PREVENTIVA DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 28 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 16 de julio de 2007.
 
@@ -199,7 +201,7 @@ VII. Promover en el ámbito de su competencia, la participación ciudadana en pr
 
 VIII. Auxiliar previa solicitud, a Agentes del Ministerio Público y órganos jurisdiccionales en el desempeño de sus funciones;
 
-IX. Coordinarse con las dependencias y entidades de seguridad pública de las Entidades Federativas y de la Federación, para llevar acabo operativos y programas tendientes a la prevención del delito, previo acuerdo con el Secretario;
+IX. Coordinarse con las dependencias y entidades de seguridad pública de las Entidades Federativas y de la Federación, para llevar acabo (sic) operativos y programas tendientes a la prevención del delito, previo acuerdo con el Secretario;
 
 X. Establecer las líneas de coordinación con los municipios a fin de cuidar de la seguridad y el orden públicos, prevenir la Comisión de delitos, proteger a los habitantes en su persona, propiedades y derechos, así como coadyuvar en la prestación del servicio de seguridad pública;
 
@@ -866,3 +868,19 @@ JORGE ADOLFO REZA MAQUEO
 SECRETARIO DE SEGURIDAD PÚBLICA
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA POLICÍA ESTATAL PREVENTIVA DE MICHOACÁN DE OCAMPO”.]
+
+Primero. Publíquese el presente Reglamento en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El presente Reglamento entrará en vigor, al día siguiente de su publicación.
+
+Tercero. Todo lo no previsto en el presente Reglamento quedará sujeto al acuerdo que, respecto a la naturaleza de cada caso, emita el pleno de la Comisión por mayoría de votos de sus integrantes.
+
+Cuarto. Se abroga el Reglamento de la Policía Estatal Preventiva del Estado de Michoacán de Ocampo publicado en el tomo CXLI, Tercera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 16 de julio de 2007 y demás disposiciones administrativas en lo que se opongan al presente Reglamento.
+
+Quinto. Quedan sin efecto todas las disposiciones de la misma naturaleza que contravengan al presente ordenamiento.
