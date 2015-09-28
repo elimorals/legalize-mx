@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-operacion-de-oficinas-estatales-y-8652"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-12"
-last_updated: "1996-09-12"
+last_updated: "2015-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8652&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1996-09-06"
 ---
 # REGLAMENTO PARA LA OPERACION DE OFICINAS ESTATALES Y MUNICIPALES DE ENLACE CON LA SECRETARIA DE RELACIONES EXTERIORES
 
-REGLAMENTO PARA LA OPERACION DE OFICINAS ESTATALES Y MUNICIPALES DE ENLACE CON LA SECRETARIA DE RELACIONES EXTERIORES
+REGLAMENTO PARA LA OPERACIÓN DE OFICINAS ESTATALES Y MUNICIPALES DE ENLACE CON LA SECRETARÍA DE RELACIONES EXTERIORES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE DAN A CONOCER LOS LINEAMIENTOS PARA EL ESTABLECIMIENTO Y OPERACIÓN DE OFICINAS ESTATALES Y MUNICIPALES DE ENLACE AUTORIZADAS POR LA SECRETARÍA DE RELACIONES EXTERIORES, PUBLICADO EN EL D.O.F. DE 28 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de septiembre de 1996.
 
@@ -192,3 +194,23 @@ Se deroga el Reglamento para la Operación de Ventanillas Estatales y Municipale
 En apego al acuerdo por el que la Secretaría de Relaciones Exteriores establece oficinas estatales y municipales de enlace, se entenderá revocada la autorización de aquellas oficinas cuyo convenio de colaboración correspondiente no sea suscrito antes del 31 de diciembre del año en curso.
 
 México, D.F., a 6 de septiembre de 1996.- El Secretario de Relaciones Exteriores, José Angel Gurría.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 28 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el "Acuerdo por el que se autoriza la operación de oficinas estatales y municipales de enlace con la Secretaría de Relaciones Exteriores para la recepción de documentos y entrega de pasaportes ordinarios, así como de otros servicios que presta dicha dependencia", así como el "Reglamento para la operación de oficinas estatales y municipales de enlace con la Secretaría de Relaciones Exteriores", ambos publicados en el Diario Oficial de la Federación el 12 de septiembre de 1996.
+
+TERCERO.- Las Oficinas Estatales y Municipales de Enlace deberán apegarse al cumplimiento del presente Acuerdo y demás normativa relativa a su operación, que determine la Secretaría de Relaciones Exteriores, a más tardar el 30 de septiembre de 2015.
+
+Las Oficinas de Enlace que al 31 de julio de 2015 hubieran manifestado su interés para mantener su funcionamiento de conformidad con los estándares y los lineamientos de operación establecidos por la Secretaría, deberán iniciar sus operaciones el 1 de octubre de 2015.
+
+La operación de las Oficinas de Enlace que no cumplan con lo anterior será suspendida, conforme a lo siguiente:
+
+a) Se suspenderá su operación y funcionamiento durante el periodo correspondiente del 1 de octubre y hasta el 31 de diciembre de 2015, a las Oficinas de Enlace, que hayan manifestado su interés en cumplir los estándares establecidos y los manuales de operación determinados por la Secretaría, pero que al 1 de octubre de 2015 no se encuentren listas para operar con base en el esquema determinado por dicha Dependencia, en el entendido de que una vez que cumplan con los requerimientos establecidos podrán iniciar su operación.
+
+Terminado el periodo a que hace referencia el párrafo anterior, las Oficinas de Enlace que no hayan cumplido los estándares establecidos y los manuales de operación determinados por la Secretaría, serán cerradas definitiva y automáticamente a partir del 1 de enero de 2016.
+
+b) Las Oficinas de Enlace que no manifiesten interés en cumplir con los estándares y los lineamientos de operación determinados por la Secretaría serán cerradas de manera definitiva, mediante la publicación del Acuerdo correspondiente en el Diario Oficial de la Federación.
