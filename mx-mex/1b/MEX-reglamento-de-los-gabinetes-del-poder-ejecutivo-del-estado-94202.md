@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-gabinetes-del-poder-ejecutivo-del-estado-9420
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-23"
-last_updated: "2013-09-13"
+last_updated: "2015-09-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS GABINETES DEL PODER EJECUTIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el martes 23 de abril de 2013.
 
@@ -411,7 +411,13 @@ XV. Articular la participación y la atención de las dependencias participantes
 
 XVI. Instrumentar mecanismos de coordinación para la realización de las acciones de gobierno.
 
-XVII. Las demás que instruya el titular del Poder Ejecutivo.
+> <small>(REFORMADA, G.G. 28 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Promover la organización, integración y funcionamiento de los comités comunitarios de desarrollo social.
+
+> <small>(ADICIONADA, G.G. 28 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Las demás que instruya el titular del Poder Ejecutivo.
 
 ### CAPÍTULO SEGUNDO. DE LAS SESIONES
 
@@ -552,3 +558,9 @@ QUINTO. Los gabinetes especializados instalados reorientarán sus acciones apeg�
 SEXTO. Las demás disposiciones del Acuerdo del Ejecutivo del Estado por el que se expide el Reglamento de los Gabinetes del Poder Ejecutivo del Estado de México, publicado en el periódico oficial "Gaceta del Gobierno", el 23 de abril de 2013, quedan vigentes en los términos originalmente establecidos.
 
 SÉPTIMO. Lo no previsto en el presente Acuerdo, para la implementación de los gabinetes especializados, será resuelto por los secretarios técnicos.
+
+G.G. 28 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
