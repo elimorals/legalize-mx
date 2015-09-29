@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2015-09-24"
+last_updated: "2015-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -625,9 +625,23 @@ I. La educación para la salud;
 
 II. La nutrición y el combate a la obesidad, sobrepeso y trastornos de la conducta alimenticia;
 
-III. Los efectos del ambiente en la salud, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. La salud ocupacional.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Los efectos del ambiente en la salud;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. La salud ocupacional; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. De la Prestación del servicio de cuidados paliativos.
 
 #### SECCION SEGUNDA. De la educación para la salud
 
@@ -753,45 +767,415 @@ La Comisión para la Protección contra Riesgos Sanitarios, como órgano adminis
 
 El Gobierno del Estado, por conducto de la Secretaría del Trabajo y Previsión Social, en coordinación con las autoridades federales e instituciones competentes, promoverá y desarrollará investigación multidisciplinaria, que permita prevenir, controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características de la persona que los utiliza.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-#### SECCION SEXTA. De la prevención y control del dolor
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+#### SECCIÓN SEXTA. De la Prestación del Servicio de Cuidados Paliativos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 37-A.
 
-La Secretaría de Salud Jalisco, sin perjuicio de la competencia que sobre la materia corresponda a las autoridades educativas y en coordinación con ellas, así como con la participación de las instituciones de salud públicas y privadas, elaborará y desarrollará programas de capacitación y actualización de los recursos humanos para la salud en materia de prevención y control del dolor y medicina paliativa.
+La presente sección tiene por objeto:
 
-La capacitación al personal sanitario deberá favorecer la corrección de actitudes negativas, tales como de antemano considerar como intratables o inevitables las manifestaciones de dolor o menospreciar su intensidad; fomentará el conocimiento de los fármacos disponibles y la valoración de su eficacia; y promoverá el suministro de apoyos psicológicos y afectivos al enfermo.
+I. Regular el funcionamiento del Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+II. Salvaguardar la dignidad de los enfermos en situación terminal, para garantizar una vida de calidad a través de los cuidados y atenciones médicas, necesarios para ello hasta el momento de su muerte;
+
+III. Establecer los procedimientos generales para la prestación de cuidados paliativos a los usuarios de cualquier edad que cursan una enfermedad en estado terminal;
+
+IV. Determinar los medios de atención para una muerte natural en condiciones dignas a los enfermos en situación terminal;
+
+V. Establecer y garantizar los derechos del enfermo en situación terminal en relación con su tratamiento;
+
+VI. Dar a conocer los límites entre el tratamiento curativo y el paliativo;
+
+VII. Determinar los medios ordinarios y extraordinarios en los tratamientos, respetando en todo momento la dignidad de la persona;
+
+VIII. Establecer los límites entre la defensa de la vida del enfermo en situación terminal, el abandono o la obstinación terapéutica;
+
+IX. Proporcionar alivio del dolor y otros síntomas severos asociados a las enfermedades en estado terminal;
+
+X. Proporcionar al enfermo los apoyos físicos, psicológicos, sociales y espirituales que se requieran, a fin de brindarle la mejor calidad de vida posible; y
+
+XI. Dar apoyo a la familia o a la persona de su confianza para ayudarla a sobrellevar la enfermedad del paciente y, en su caso, el duelo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 37-B.
 
-La prevención y control del dolor tiene como objeto establecer las condiciones para evitar, suprimir o paliar el sufrimiento innecesario de los pacientes y propiciar en el individuo las actitudes, valores y conductas adecuadas para enfrentar su padecimiento dentro del tratamiento médico previsto.
+La Secretaría de Salud Jalisco, a través del Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, y demás autoridades en el Estado en materia de salud, será la responsable de evitar, suprimir o paliar el dolor innecesario y evitable a los enfermos en el Estado, así como de elaborar y desarrollar programas de capacitación y actualización de los recursos humanos para la salud en materia de prevención y control del dolor y medicina paliativa.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+El Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, cómo órgano administrativamente desconcentrado de la Secretaría de Salud, y presupuestalmente subordinado al organismo público descentralizado Servicios de Salud Jalisco, tendrá las funciones que le sean otorgadas por esta Ley y las demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 37-C.
 
-El control integral del dolor deberá considerar el apoyo farmacológico, psicológico, y afectivo al enfermo por parte del personal sanitario, familiares y de quienes tengan la capacitación adecuada para otorgarlo. Además, deberá incluir la información necesaria a enfermos y familiares propiciando en ellos la aceptación razonada y su colaboración en la aplicación de los fármacos y tratamientos prescritos.
+El Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos tendrá las siguientes atribuciones:
 
-Como parte de la atención integral del dolor, también deberá facilitarse el acceso a aquellas personas dedicadas a otorgar apoyo espiritual.
+I. Elaborar, conforme a las políticas dictadas por la Secretaría de Salud Jalisco, y dentro del marco de los sistemas nacional y estatal de salud, su programa anual de trabajo;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+II. Organizar y operar la prestación de los servicios de atención médica especializada en materia de alivio al dolor y cuidados paliativos, en cumplimiento a lo dispuesto por la Ley Estatal de Salud, la Ley General de Salud, las Normas Oficiales Mexicanas, y las demás disposiciones jurídicas aplicables en la materia;
+
+III. Mantener en operación las unidades médicas y administrativas con que cuenta el Instituto y las que en el futuro se le integren;
+
+IV. Coadyuvar en el ámbito de su competencia a la coordinación con los organismos de los sectores público, privado y social en materia de alivio del dolor y cuidados paliativos;
+
+V. Coadyuvar en la coordinación, en el ámbito de su competencia, del sistema de referencia y contrarreferencia de usuarios con dolor crónico refractario o de difícil tratamiento;
+
+VI. Fomentar la participación activa de los sectores público, social y privado en la atención y tratamiento de los usuarios que sufren de dolor crónico, refractario o de difícil tratamiento y sus síntomas asociados;
+
+VII. Gestionar, en coordinación con las autoridades competentes, el establecimiento de las normas y criterios técnicos sobre el uso de estupefacientes, sedantes e hipnóticos en el tratamiento del dolor;
+
+VIII. Formar y capacitar recursos humanos en el área de alivio del dolor y cuidados paliativos, en estrecha vinculación académica con las instituciones educativas en el Estado que puedan contribuir en esta tarea y así lo determine el Instituto;
+
+IX. Realizar investigación científica tendiente al conocimiento de los factores preventivos, condicionantes y paliativos del dolor, para su adecuada y oportuna atención y tratamiento, en estrecha vinculación académica con las instituciones educativas en el Estado que puedan contribuir en esta tarea, así como con las autoridades e instituciones de educación que al efecto se determinen por el Instituto;
+
+X. Integrar un acervo de información y documentación que facilite a las autoridades e instituciones competentes, la investigación, estudio y análisis de los distintos aspectos del dolor;
+
+XI. Fomentar una cultura de prevención, comprensión y adecuado tratamiento del dolor crónico, refractario o de difícil tratamiento;
+
+XII. Difundir los criterios bioéticos, científicos y legales que rigen la vida y la calidad de vida de los enfermos terminales; y
+
+XIII. Las demás que esta Ley y otras disposiciones jurídicas y administrativas le confieran para el cumplimiento de su objeto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 37-D.
 
-En todos los casos el control del dolor deberá ser compatible con los tratamientos de curación indicados.
+El Instituto estará integrado por:
 
-En caso de síndrome de enfermedad terminal, el control del dolor, además del alivio del paciente, procurará dominar sus expresiones de ansiedad, depresión, temor e insomnio, facilitándole periodos de vigilia y lucidez mental para su comunicación y desempeño de sus actividades.
+I. Un Director que deberá ser médico con especialidad en oncología, neurología, anestesiología o algología, con entrenamiento en terapéutica del dolor o cuidados paliativos y preferentemente con experiencia en administración hospitalaria;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+II. El personal de la salud y administrativo que permita su plantilla de personal y con aquel que le sea transferido o comisionado de conformidad con los convenios de colaboración que celebre;
+
+III. Un Patronato que gestionará la obtención de recursos y coordinará la participación de la comunidad en la realización de los programas autorizados;
+
+Además, podrá contar con un Consejo Técnico multidisciplinario, integrado por profesionistas, especialistas y personas con experiencia en alivio del dolor y cuidados paliativos, que tendrá la función de asesorar al Director en asuntos de carácter técnico y proponerle la adopción de medidas de carácter general tendientes al mejoramiento operacional del Instituto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Art. 37-E.
 
-Las instituciones públicas y privadas cuya línea de acción sea la tanatología, el alivio al dolor y cuidados paliativos, deberán observar en lo conducente lo previsto en la presente sección. Atendiendo el derecho preferentemente a la niñez de acuerdo a los principios establecidos en el Código Civil del Estado de Jalisco.
+El Director del Instituto tendrá las siguientes atribuciones:
+
+I. Representar al Instituto en todos los asuntos propios de su objeto;
+
+II. Dirigir técnica y administrativamente la actividad del Instituto;
+
+III. Ser parte del patronato;
+
+IV. Elaborar y presentar para su aprobación por la autoridad sanitaria, el programa anual de trabajo del Instituto; y
+
+V. Las demás que esta Ley y otras disposiciones jurídicas y administrativas le confieran para el cumplimiento de su objeto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-F.
+
+La prevención y control del dolor tiene como objeto establecer las condiciones para evitar, suprimir o paliar el sufrimiento innecesario de los pacientes y propiciar en el individuo las actitudes, valores y conductas adecuadas para enfrentar su padecimiento.
+
+El control integral del dolor deberá considerar el apoyo psicológico, social, físico y espiritual al enfermo y a sus familiares.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-G.
+
+Las instituciones públicas y privadas cuya línea de acción sea la tanatología, el alivio al dolor y cuidados paliativos, deberán:
+
+I. Observar en lo conducente lo previsto en la Ley General de Salud, en las Normas Oficiales Mexicanas, esta Ley y demás disposiciones aplicables;
+
+II. Coordinarse con la Secretaría de Salud Jalisco para recibir capacitación e información sobre cuidados paliativos; y
+
+III. Atender el derecho preferentemente a la niñez de acuerdo a los principios establecidos en el Código Civil del Estado de Jalisco.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-H.
+
+Las dependencias y entidades del sector salud del Estado y sus municipios, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de cuidados paliativos, de conformidad a esta Ley (sic) demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-I.
+
+Para los efectos de esta Sección, se entenderá por:
+
+I. Cuidados básicos. La higiene, alimentación e hidratación, y en su caso el manejo de la vía aérea permeable;
+
+II. Cuidados Paliativos. Es el control del dolor, y de otros síntomas así como la atención de las necesidades psicológicas, sociales y espirituales del enfermo, así como el cuidado activo y total de aquellas enfermedades que no responden a tratamiento curativo;
+
+III. Directrices anticipadas: El documento que cualquier paciente mayor de edad, diagnosticado con una enfermedad en estado terminal, en pleno uso de sus facultades mentales, elabore ante dos testigos en el que exprese si es su deseo recibir o no cualquier tratamiento, para el caso de no le sea posible manifestarlo más adelante en razón de la enfermedad;
+
+IV. Dolor: Es la experiencia sensorial de sufrimiento físico y emocional, de intensidad variable, que puede presentarse acompañada de daño real o potencial de tejido del paciente;
+
+V. Enfermedad en estado terminal. A todo padecimiento reconocido, irreversible, progresivo e incurable que se encuentra en estado avanzado y cuyo pronóstico de vida para el paciente sea menor a 6 meses;
+
+VI. Equipo multidisciplinario: Personal profesional, técnico y auxiliar de diversas disciplinas del área de la salud, que intervienen en la atención médica integral del enfermo en situación terminal;
+
+VII. Médico tratante: El profesional de la salud responsable de la atención y seguimiento del plan de cuidados paliativos;
+
+VIII. Medios extraordinarios. Los que constituyen una carga demasiado grave para el enfermo y cuyo perjuicio es mayor que los beneficios; en cuyo caso, se podrán valorar estos medios en comparación al tipo de terapia, el grado de dificultad y de riesgo que comporta, los gastos necesarios y las posibilidades de aplicación respecto del resultado que se puede esperar de todo ello;
+
+IX. Medios ordinarios. Los que son útiles para conservar la vida del enfermo en situación terminal o para curarlo y que no constituyen, para él una carga grave o desproporcionada a los beneficios que se pueden obtener;
+
+X. Muerte natural. El proceso de fallecimiento de un enfermo sin la aplicación de medios extraordinarios para evitarlo, contando con asistencia física, psicológica y en su caso, espiritual;
+
+XI. Obstinación terapéutica. La adopción de medidas desproporcionadas o inútiles con el objeto de alargar la vida en situación de agonía;
+
+XII. Plan de cuidados paliativos: El conjunto de acciones indicadas, programadas y organizadas por el médico tratante, complementadas y supervisadas por el equipo multidisciplinario, las cuales deben proporcionarse en función del padecimiento específico del enfermo, otorgando de manera completa y permanente la posibilidad del control de los síntomas asociados a su padecimiento. Puede incluir la participación de familiares y personal voluntario;
+
+XIII. Tratamiento Curativo: Todas las medidas sustentadas en la evidencia científica y principios éticos encaminadas a ofrecer posibilidades de curación de una enfermedad; y
+
+XIV. Tratamiento del dolor. Todas aquellas medidas proporcionadas por profesionales de la salud, orientadas a reducir los sufrimientos físico y emocional del paciente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-J.
+
+En su caso, el paciente tiene derecho a que se le informe de manera oportuna, comprensible y suficiente:
+
+I. Acerca del éxito o fracaso del tratamiento curativo;
+
+II. Del diagnóstico de enfermedad en estado terminal;
+
+III. De las opciones de cuidados paliativos disponibles;
+
+IV. A solicitar una segunda opinión; y
+
+V. Acerca del alcance de los cuidados domiciliarios.
+
+El diagnóstico de enfermedad en estado terminal también podrá hacerse saber a los familiares y demás personas que el paciente autorice
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-K.
+
+A partir de que se diagnostique la situación terminal de la enfermedad por el médico tratante, éste deberá proceder conforme al artículo anterior y aplicar el plan de cuidados paliativos.
+
+No se podrán proporcionar estos cuidados si no se cuenta con el plan correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-L.
+
+Los pacientes enfermos en situación terminal tienen los siguientes derechos:
+
+I. Recibir atención médica integral;
+
+II. Ingresar a las instituciones de salud cuando requiera atención médica;
+
+III. Dejar voluntariamente la institución de salud en que esté hospitalizado, de conformidad a las disposiciones aplicables;
+
+IV. Recibir un trato digno, respetuoso y profesional procurando preservar su calidad de vida;
+
+V. Recibir él, y en su caso, su familia, persona de su confianza, sus padres, tutor o representante legal información clara, oportuna y suficiente sobre las condiciones y efectos de su enfermedad y los tipos de tratamientos por los cuales puede optar según la enfermedad que padezca;
+
+VI. Dar su consentimiento informado por escrito, cuando sea posible, para la aplicación o no de tratamientos, medicamentos y cuidados paliativos adecuados a su enfermedad, necesidades y calidad de vida, o en su caso, a través del documento de directrices anticipadas;
+
+VII. Solicitar al médico que le administre medicamentos que mitiguen el dolor;
+
+VIII. Renunciar, abandonar o negarse en cualquier momento a recibir o continuar el tratamiento que considere extraordinario;
+
+IX. Recibir atención de cuidados paliativos de manera ambulatoria, hospitalaria o cuando sea posible en un domicilio particular;
+
+X. Designar, a algún familiar, representante legal o a una persona de su confianza, para el caso de que, con el avance de la enfermedad, esté impedido a expresar su voluntad y aquel lo haga en su representación, siempre que no exista escrito de directrices anticipadas;
+
+XI. A recibir los servicios espirituales, cuando lo solicite él, su familia, representante legal o persona de su confianza;
+
+XII. A recibir tratamientos paliativos que le faciliten periodos de vigilia y lucidez para su comunicación y desempeño de sus actividades; y
+
+XIII. Los demás que señalen las normas aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-M.
+
+Toda persona mayor de edad, en pleno uso de sus facultades mentales, puede, en cualquier momento e independientemente de su estado de salud, expresar su voluntad por escrito ante dos testigos, de recibir o no cualquier tratamiento, para el caso de que no le sea posible manifestarla más adelante en razón de la misma enfermedad.
+
+Las directrices anticipadas podrán ser revocadas en cualquier momento únicamente por la persona que las suscribió.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-N.
+
+Cuando por el avance de la medicina surgieran tratamientos curativos nuevos o en fase de experimentación que pudieran aplicarse al enfermo en situación terminal, se le informará de ese hecho, a efecto de que pueda ratificar por escrito su voluntad de no recibir cuidados paliativos o de revocarla por escrito para someterse a dichos tratamientos.
+
+Si el estado de salud del enfermo en situación terminal le impide estar consciente o en pleno uso de sus facultades mentales, y no haya expresado su voluntad en el documento de directrices anticipadas, la decisión a que se refiere el párrafo anterior podrá ser tomada por su cónyuge, familiar, sus padres, tutor, representante legal o persona de su confianza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37
+
+Ñ. Si el enfermo en situación terminal es menor de edad, o se encuentra incapacitado para expresar su voluntad, las decisiones derivadas de los derechos señalados en este (sic) sección, serán asumidos por los padres o el tutor y a falta de estos por su representante legal, persona de su confianza mayor de edad o juez de conformidad con las disposiciones aplicables.
+
+Sin menoscabo de lo anterior, a los menores de edad se les,proporcionará (sic) la información completa y veraz que por su edad, madurez y circunstancias especiales, requieran acerca de su enfermedad en situación terminal y los cuidados paliativos correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-O.
+
+La suspensión voluntaria del tratamiento curativo supone la cancelación de todo medicamento que busque contrarrestar la enfermedad terminal del paciente y el inicio de tratamientos enfocados de manera exclusiva a la disminución del dolor o malestar del paciente.
+
+En este caso, el médico especialista en el padecimiento del paciente terminal interrumpe, suspende o no inicia el tratamiento, la administración de medicamentos, el uso de instrumentos o cualquier procedimiento que contribuya a la prolongación de la vida del paciente en situación terminal dejando que su padecimiento evolucione naturalmente.
+
+El paciente en situación terminal que esté recibiendo los cuidados paliativos, y que voluntariamente haya solicitado la suspensión del tratamiento curativo, podrá solicitar recibir nuevamente éste, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-P.
+
+Los médicos tratantes en cuidados paliativos del sector público y privado, tendrán las siguientes obligaciones:
+
+I. Informar oportunamente al enfermo en situación terminal, cuando el tratamiento curativo no dé resultados;
+
+II. Prescribir el plan de cuidados paliativos, atendiendo a las características y necesidades específicas de cada enfermo en situación terminal;
+
+III. Respetar la decisión del enfermo en situación terminal en cuanto al tratamiento curativo y cuidados paliativos, una vez que se le haya explicado en términos sencillos las consecuencias de su decisión;
+
+IV. Cumplir con las directrices anticipadas;
+
+V. Derivar a las instancias competentes para que se otorgue apoyo psicológico, social y espiritual a sus padres, tutor, representante legal, familia o persona de su confianza para afrontar la enfermedad del paciente y, en su caso, sobrellevar el duelo;
+
+VI. Auxiliar, capacitar en su caso, y supervisar al paciente para fomentar el autocuidado de su salud, así como a sus padres, tutor, representante legal, familia o persona de su confianza, preservando la dignidad de la persona enferma y favoreciendo su autoestima y autonomía;
+
+VII. Prescribir los fármacos que requiera la condición del enfermo en situación terminal sujeto al plan y protocolo de tratamiento de cuidados paliativos; y
+
+VIII. Las demás que señalen las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-Q.
+
+Es responsabilidad del médico tratante y del equipo multidisciplinario identificar, valorar y atender en forma oportuna, el dolor y síntomas asociados que el usuario refiera, sin importar las distintas localizaciones o grados de intensidad de los mismos, indicar el tratamiento adecuado a cada síntoma según las mejores evidencias médicas, con apego a los principios científicos y éticos que orientan la práctica médica, sin incurrir en ningún momento en acciones o conductas consideradas como obstinación terapéutica ni que tengan como finalidad terminar con la vida del paciente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-R.
+
+El plan de cuidados paliativos deberá considerar aquellas acciones que se deban llevar a cabo en el domicilio del enfermo en situación terminal cuando esto sea posible, por parte de los familiares, cuidadores o personal voluntario, tomando en cuenta los siguientes criterios:
+
+I. Deberán ser indicados por el médico tratante, de acuerdo con las características específicas y condición del usuario. Este hecho deberá ser registrado en el expediente clínico del enfermo en situación terminal;
+
+II. Se deberá involucrar al equipo multidisciplinario de la institución o establecimiento de atención médica que proporciona los cuidados paliativos;
+
+III. El equipo multidisciplinario brindará la capacitación que corresponda en los distintos ámbitos de competencia profesional, a los familiares, cuidadores o personal voluntario, que tendrá a su cargo la atención y cuidados básicos domiciliarios del enfermo en situación terminal;
+
+IV. El equipo multidisciplinario supervisará el cumplimiento de las acciones y cuidados básicos domiciliarios indicados por el médico tratante, dentro del plan de cuidados paliativos. Los hallazgos deberán ser reportados al médico tratante y registrados en el expediente clínico del enfermo en situación terminal; y
+
+V. Los demás que determinen las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-S.
+
+Todo aquel establecimiento que preste servicios de cuidados paliativos a enfermos en situación terminal deberá contar con los recursos humanos y materiales necesarios para la protección, seguridad y atención con calidad de los usuarios, de conformidad con las disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-T.
+
+Además del médico tratante, el equipo multidisciplinario estará integrado, cuando sea posible por personal de:
+
+I. Enfermería;
+
+II. Fisioterapeutas;
+
+III. Trabajo Social o su equivalente;
+
+IV. Psicología;
+
+VI (SIC). Algología o Anestesiología; y
+
+VII. Nutriología.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-U.
+
+El personal médico que, por decisión propia, deje de proporcionar cualquier tratamiento o cuidado sin el consentimiento del enfermo en situación terminal, será sancionado conforme lo establecido por las leyes aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-V.
+
+Las instituciones públicas y privadas de salud deberán observar la voluntad expresada en las directrices anticipadas, en caso contrario se aplicarán las sanciones que establezcan las disposiciones que correspondan.
+
+Se exceptúa de lo previsto en el párrafo anterior aquellas disposiciones que sean contrarias al orden jurídico mexicano, particularmente lo que equivale a la eutanasia y al suicidio asistido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37
+
+X (SIC). El documento de directrices anticipadas solo podrá ser emitido por mayores de edad y deberá contar con los siguientes requisitos:
+
+I. Realizarse por escrito, con el nombre, edad, firma o huella digital del suscriptor y de dos testigos;
+
+II. Señalar que la voluntad se ha manifestado de manera personal y libre;
+
+III. Expresar su voluntad respecto a la disposición de órganos susceptibles de ser donados;
+
+IV. Manifestar la indicación de recibir o no cualquier tratamiento, en caso de padecer una enfermedad en situación terminal; y
+
+V. Nombrar, en su caso, a uno o varios representantes para que éste vigile que se cumpla la voluntad del enfermo en situación terminal, el representante deberá aceptar dicho cargo en el mismo escrito mediante su firma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Art. 37-Y.
+
+En caso de que el enfermo en situación terminal decida revocar o modificar las directrices anticipadas, deberá cumplir con las mismas formalidades y requisitos que se exigieron para su suscripción.
 
 ### CAPITULO III. Prevención y control de enfermedades y accidentes
 
@@ -1475,7 +1859,11 @@ V. Coadyuvar para que el derecho a la protección de la salud se haga efectivo e
 
 VI. Propiciar debates sobre cuestiones bioéticas con la participación de los diversos sectores de la sociedad;
 
-VII. Fomentar la enseñanza de la bioética, particularmente en lo que toca a la atención médica y la investigación para la salud;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Fomentar la enseñanza de la bioética, particularmente en lo que toca a la atención médica, cuidados paliativos y la investigación para la salud;
 
 IX (SIC). Promover que en los establecimientos de salud públicos y privados se organicen y funcionen comités hospitalarios de bioética y comités de ética en investigación, con las facultades que les otorguen la Ley General de Salud, esta ley y las disposiciones reglamentarias aplicables, así como apoyar la capacitación de los miembros de estos comités;
 
@@ -4428,3 +4816,13 @@ SEGUNDO. El Centro Estatal para la Prevención de Ceguera por Retinopatía del P
 TERCERO. El Centro para la Prevención de Ceguera por Retinopatía del Prematuro expedirá los protocolos para la prevención y detección oportuna de malformaciones que puedan causar ceguera en los prematuros en el Estado de Jalisco, dentro de los 180 días a la fecha de su entrada en operación, y los enviará al titular de la Secretaría de Salud para su debida publicación en el periódico oficial El Estado de Jalisco.
 
 CUARTO. La Secretaría de Salud diseñará y ejecutará la política conforme a lo previsto en el artículo 67 bis, dentro del primer año a partir de la entrada en vigor del presente decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Se abroga el Acuerdo del Ejecutivo Estatal de fecha 5 de enero de 2000, mediante el cual crea el Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos y se estará a lo previsto en la presente reforma.
+
+SEGUNDO. Los recursos humanos, financieros y materiales con que cuente el Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, creado por acuerdo del Ejecutivo Estatal de fecha 5 de enero de 2000, permanecerán en las mismas condiciones y términos en el Instituto de acuerdo a la presente reforma.
+
+TERCERO. La presente reforma entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+CUARTO. El Ejecutivo Estatal deberá prever y proveer, de acuerdo a la disposición financiera existente, de mayores recursos al Organismo Público Descentralizado Servicios de Salud Jalisco para que éste incremente el presupuesto al Instituto Jalisciense de Alivio al Dolor y Cuidados Paliativos para el ejercicio fiscal 2016, y en la medida de lo posible, fortalezca el que tiene para 2015.
