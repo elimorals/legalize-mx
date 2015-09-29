@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-universidad-virtual-del-estado-de-861
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-07"
-last_updated: "2012-02-07"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el martes 7 de febrero de 2012.
 
@@ -43,9 +43,11 @@ El Reglamento Interior de la Universidad Virtual del Estado de Michoacán, es de
 
 La Universidad Virtual del Estado de Michoacán, se encuentra sectorizada a la Secretaría de Educación en el Estado.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 2°.
 
-Al frente de la Universidad Virtual del Estado de Michoacán, habrá un Rector, designado y removido libremente por el titular del Poder Ejecutivo del Estado, quien conducirá sus actividades conforme a las políticas que emita la Junta Directiva de la Universidad Virtual del Estado de Michoacán y las disposiciones normativas aplicables, y se auxiliará del personal técnico y administrativo necesario para el ejercicio de sus facultades.
+Al frente de la Universidad Virtual del Estado de Michoacán habrá un Rector, designado por el titular del Poder Ejecutivo del Estado y durará en su cargo un periodo de cuatro años, con la posibilidad de ser ratificado únicamente para otro periodo igual. El Rector será la máxima autoridad administrativa y académica de la Universidad, y conducirá sus actividades conforme a las políticas que emita la Junta Directiva de la Universidad y las disposiciones normativas aplicables, auxiliándose del personal técnico y administrativo necesario para el ejercicio de sus facultades.
 
 ###### Artículo 3°.
 
@@ -105,7 +107,9 @@ II. Presentar a la Junta los proyectos de presupuesto de ingresos y egresos y lo
 
 III. Vigilar el cumplimiento de las disposiciones normativas que regulan la estructura y funcionamiento de la Universidad;
 
-IV. Suscribir los convenios, contratos y acuerdos de colaboración, para el cumplimiento del objeto de la Universidad, de acuerdo con los lineamientos que determine la Junta y en términos de la normativa aplicable;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Suscribir convenios, contratos, acuerdos y esquemas de colaboración con instituciones públicas y privadas de educación media-superior y superior para fortalecer la oferta educativa de la Universidad, así como con las autoridades de los municipios, tenencias y comunidades michoacanas, con el fin de llevar programas de educación a distancia a la población menos favorecida del Estado;
 
 V. Representar legalmente a la Universidad, con todas las facultades generales para pleitos y cobranzas, actos de dominio, de administración y demás que requieran cláusula especial, en términos de la normativa aplicable;
 
@@ -113,11 +117,21 @@ VI. Dirigir las actividades de las Unidades Administrativas a su cargo, en la ej
 
 VII. Supervisar y conducir el funcionamiento de la Universidad, así como vigilar el cumplimiento de los objetivos y metas de los planes y programas de estudios aprobados;
 
-VIII. Coordinar y supervisar que se cumplan los planes y programas académicos de la Universidad;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-IX. Coordinar sus actividades con las autoridades de la Administración Pública Federal, Estatal y Municipal, así como con los sectores social y privado nacional e internacional, y con instituciones educativas del nivel superior, para llevar a cabo la ejecución de los programas y proyectos de la Universidad;
+VIII. Impulsar los programas de posgrado, la investigación científica y tecnológica, la difusión de la cultura, vinculación y extensión universitaria, con el propósito de incrementar la cobertura de servicios de educación media-superior y superior a la juventud michoacana y a la sociedad en general, así como supervisar y coordinar que se cumplan los planes y programas académicos de la Universidad;
 
-X. Expedir constancias, reconocimientos y certificados de estudios realizados por los alumnos, así como diplomas, títulos y grados académicos otorgados por la Universidad;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IX. Coordinar sus actividades con las autoridades de la Administración Pública federal, estatal y municipal, así como con los sectores social y privado nacional e internacional, y con instituciones educativas del nivel medio superior y superior, para llevar a cabo la ejecución de los programas y proyectos de la Universidad;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+X. Expedir títulos, certificados, diplomas, grados académicos, constancias, reconocimientos, certificados de revalidación de estudios y equivalencias de educación media-superior y superior, y podrá establecer en el Estado, de acuerdo con las necesidades de la población y su disponibilidad presupuestal, los servicios educativos en todos sus tipos y modalidades, en el nivel medio-superior y superior, la investigación científica, la difusión de la cultura y la extensión universitaria;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+X Bis. Someter a la Junta la propuesta de personas que sean acreedoras para recibir las distinciones académicas que otorgue la Universidad, conforme a la normativa aplicable;
 
 XI. Proponer a la Junta los nombramientos de los servidores públicos de la Universidad, así como del personal que se requiera para el funcionamiento de las Unidades Administrativas a su cargo;
 
@@ -207,11 +221,17 @@ Al Director Académico le corresponde el ejercicio de las facultades siguientes:
 
 I. Proponer los proyectos estratégicos para la gestión y evaluación de la educación que atiende la Universidad, en el marco del modelo educativo institucional;
 
-II. Coordinar el diseño, estructuración, evaluación y actualización de los planes y programas de estudio de la Universidad, cuidando la correspondencia del modelo académico con las necesidades productivas y de desarrollo educativo, científico y tecnológico del Estado;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-III. Coordinar, supervisar y evaluar los esfuerzos institucionales para la operación y desarrollo de la oferta educativa en las diferentes modalidades que se proporcionen en la Universidad;
+II. Coordinar el diseño y desarrollo de materiales especializados en educación virtual, la estructuración, evaluación y actualización de los planes y programas de estudio de la Universidad, cuidando la correspondencia del modelo académico con las necesidades productivas y de desarrollo educativo, científico y tecnológico del Estado;
 
-IV. Proponer y ejecutar las políticas que regulen la oferta educativa en concordancia con las condiciones de desarrollo estatal, nacional e internacional, proponiendo los cambios, supresión o modificación de las licenciaturas y programas académicos que la Universidad imparta;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Coordinar, supervisar y evaluar los esfuerzos institucionales para la creación, operación y el desarrollo de la oferta educativa en el nivel medio-superior y superior en las diferentes modalidades que se proporcionen en la Universidad;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Proponer y ejecutar las políticas que regulen la oferta educativa en concordancia con las condiciones de desarrollo estatal, nacional e internacional, proponiendo los cambios, supresión o modificación de los programas académicos que la Universidad imparta;
 
 V. Coordinar y evaluar la conformación de las distintas licenciaturas que imparte la Universidad para armonizar los contenidos programáticos y métodos de enseñanza, aprendizaje e investigación;
 
@@ -225,7 +245,9 @@ IX. Instrumentar acciones que fortalezcan las academias para armonizar y mejorar
 
 X. Establecer lineamientos y criterios para el diseño, elaboración y uso de tecnologías educativas de apoyo para los procesos académicos;
 
-XI. Impulsar, en coordinación con la Dirección de Desarrollo Tecnológico, la aplicación de tecnologías de información y comunicaciones que permitan presentar en ambientes virtuales los programas académicos, de investigación, extensión y gestión de los servicios institucionales;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Impulsar, en coordinación con la Dirección de Desarrollo Tecnológico, el desarrollo de plataformas tecnológicas que fortalezcan los sistemas de educación a distancia para sus propios servicios o en apoyo a otras instituciones públicas de educación media-superior y superior en el Estado que lo soliciten, así como para llevar a cabo la aplicación de tecnologías de la información y comunicaciones para presentar en ambientes virtuales los programas académicos, de investigación, extensión y gestión de los servicios institucionales;
 
 XII. Proponer, supervisar y evaluar las acciones de movilidad académica intra e interinstitucional;
 
@@ -251,7 +273,9 @@ XXII. Proponer, controlar y evaluar la organización y funcionamiento de los nod
 
 XXIII. Atender las solicitudes de reconocimiento de validez oficial y equivalencia de estudios, así como aprobar el dictamen académico y proponer la expedición de los acuerdos respectivos, en los términos de las disposiciones normativas aplicables;
 
-XXIV. Cuidar y vigilar que en todos los trabajos o material didáctico elaborado por el personal de la Universidad, se respete el derecho de autor; y,
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV. Producir, editar, explotar y difundir obras impresas, digitales, audiovisuales y de cualquier otro tipo, que contribuyan a la divulgación del conocimiento científico, tecnológico, humanístico y de la cultura; así como cuidar y vigilar que en todos los trabajos o material didáctico elaborado por el personal de la Universidad, se respete el derecho de autor; y,
 
 XXV. Las demás que le señale el Rector y otras disposiciones normativas aplicables.
 
@@ -261,7 +285,9 @@ XXV. Las demás que le señale el Rector y otras disposiciones normativas aplica
 
 Al Director de Desarrollo Tecnológico le corresponde el ejercicio de las facultades siguientes:
 
-I. Diseñar y elaborar en coordinación con la Dirección Académica y la Dirección de Planeación y Vinculación, la plataforma de tecnologías de información para implantar y mantener actualizado el sistema de educación virtual de la Universidad;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+I. Diseñar y desarrollar en coordinación con la Dirección Académica y la Dirección de Planeación y Vinculación, las plataformas tecnológicas que fortalezcan los sistemas de educación a distancia para sus propios servicios o en apoyo a otras instituciones de educación media-superior y superior en el Estado que lo soliciten, de acuerdo a los lineamientos y políticas establecidas en sus reglamentos, manteniendo actualizado el sistema de educación virtual de la Universidad;
 
 II. Diseñar, desarrollar e implementar aplicaciones web con alta interactividad para administrar y actualizar el portal web de la Universidad favoreciendo la publicación de información y servicios a través de Internet;
 
@@ -327,7 +353,9 @@ IX. Instaurar y operar en beneficio de los egresados una bolsa de trabajo, así 
 
 X. Representar por instrucciones del Rector a la Universidad en los ámbitos estatal y nacional para la coordinación de esfuerzos institucionales en materia de planeación, difusión y evaluación de la educación superior en sus diferentes modalidades;
 
-XI. Promover la celebración de convenios con dependencias y entidades federales, estatales y municipales, organismos del sector público, social y privado, nacional e internacional, así como las instituciones educativas del nivel superior para el cumplimiento de los objetivos de la Universidad;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XI. Impulsar convenios, contratos, acuerdos y esquemas de colaboración con instituciones públicas y privadas de educación media-superior y superior, así como con dependencias y entidades federales, estatales y municipales, y otros organismos del sector público, social y privado, nacionales e internacionales, para fortalecer la oferta educativa de la Universidad. Asimismo, con las autoridades de municipios, tenencias y comunidades del estado para llevar programas de educación a distancia a la población menos favorecida, con el fin de ampliar la cobertura de servicios de educación media-superior y superior de la Universidad;
 
 XII. Ejecutar estrategias de participación y concertación con los sectores público, privado y social para la realización de actividades productivas, con los más altos niveles de eficiencia, pertinencia y sentido social;
 
@@ -488,3 +516,13 @@ La Secretaria de Educación
 Graciela Carmina Andrade García Peláez
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL ARTÍCULO 2°; ASÍ COMO LAS FRACCIONES IV, VIII, IX Y X DEL ARTÍCULO 6°; FRACCIONES II, III, IV, XI Y XXIV DEL ARTÍCULO 10; FRACCIÓN I DEL ARTÍCULO 11; Y LA FRACCIÓN XI DEL ARTÍCULO 12; Y SE ADICIONA LA FRACCIÓN X BIS DEL ARTÍCULO 6°; TODOS DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD VIRTUAL DEL ESTADO DE MICHOACÁN”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se dejan sin efecto las demás disposiciones de carácter administrativo que se opongan al presente Decreto.
