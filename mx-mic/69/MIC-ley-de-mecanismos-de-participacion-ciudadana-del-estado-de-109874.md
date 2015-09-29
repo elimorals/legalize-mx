@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-mecanismos-de-participacion-ciudadana-del-estado-de-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-08"
-last_updated: "2015-09-08"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MECANISMOS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 8 de septiembre de 2015.
 
@@ -73,7 +73,9 @@ V. Estado: Estado de Michoacán de Ocampo;
 
 VI. Información Pública: aquella que se encuentre en poder de los sujetos obligados, incluyendo aquella que, aun no encontrándose en poder de éstos, haya sido elaborada, generada o producida, o esté relacionada directa o indirectamente a fondos públicos, salvo aquella exceptuada en la Constitución Federal y en la Constitución Local;
 
-VII. Instituto: Instituto Electoral de Michoacán;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Instituto o Autoridad Autónoma: Instituto Electoral de Michoacán;
 
 VIII. Órganos Constitucionales Autónomos: órganos con autonomía plena, creados por la Constitución Local, a los que se les otorga personalidad jurídica y patrimonio propios, y que tienen a su cargo una función del Estado;
 
@@ -845,25 +847,37 @@ IV. Incumplir directa o indirectamente las obligaciones que esta Ley les determi
 
 ### CAPÍTULO SEGUNDO. DE LA CONSULTA CIUDADANA A COMUNIDADES INDIGENAS
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 73.
 
-La Consulta Ciudadana a las comunidades indígenas estará regulada en los términos del presente capítulo y, en lo que no contravenga éste, le aplicará lo dispuesto en el Capítulo Tercero del Título Segundo de esta Ley.
+La consulta previa, libre e informada es un derecho derivado de la libre determinación de las comunidades y pueblos indígenas, en tanto sujetos de derecho público, y será regulada en los términos del presente capítulo y, en lo que no contemple éste, le aplicará lo dispuesto en los instrumentos internacionales de los derechos humanos de los pueblos indígenas, atendiendo a los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
-Las consultas deberán efectuarse de buena fe y de manera apropiada a las circunstancias, con la finalidad de llegar a un acuerdo, a lograr el consentimiento acerca de las medidas propuestas a fin de obtener su consentimiento libre, previo e informado.
+La autoridad autónoma deberá consultar a las comunidades y pueblos indígenas mediante procedimientos apropiados y, en particular, a través de sus instituciones y órganos representativos propios teniendo en consideración además su cosmovisión.
 
-La autoridad deberá consultar a las comunidades indígenas mediante procedimientos apropiados y, en particular, a través de instituciones u órganos representativos.
+La autoridad autónoma en corresponsabilidad con la comunidad o pueblo indígena deberá realizar la consulta en todas sus etapas. Si así lo acuerda la comunidad, la consulta se realizará en su lengua.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 74.
 
-El Instituto a solicitud de cualquier ciudadano u Órgano del Estado, podrá realizar una consulta ciudadana a una comunidad indígena a efecto de conocer su opinión sobre algún tema en particular, sin que el resultado sea vinculatorio para tales autoridades, constituyendo sólo un elemento de juicio para el ejercicio de las funciones de los Órganos del Estado correspondientes, salvo que ésta tenga como finalidad un tema electoral, en tal caso, el procedimiento y los efectos de la consulta ciudadana estarán a lo dispuesto en la ley de la materia correspondiente.
+La autoridad autónoma a solicitud de algún integrante de una comunidad indígena u órgano del Estado, podrá realizar una consulta previa, libre e informada a una comunidad o pueblo indígena a efecto de conocer su decisión sobre algún asunto en particular que afecte sus derechos.
+
+Las consultas deberán efectuarse de buena fe y de manera apropiada de acuerdo con los usos y costumbres o sistemas normativos de las comunidades y pueblos indígenas con la finalidad de llegar a un acuerdo acerca de las medidas propuestas a través de su consentimiento libre e informado. De llevarse adecuadamente la consulta, sus resultados tendrán efectos vinculatorios.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 75.
 
-Para la celebración de este procedimiento, la comunidad indígena puede proponer, además de los medios que esta Ley contempla, alguno otro que, derivado de sus sistemas normativos y de gobierno interno resulten más convenientes y eficaces para los efectos requeridos, siempre que el Instituto garantice contar con elementos humanos, físicos y materiales necesarios para celebrarlo; en caso contrario, la comunidad indígena y el Instituto deberán buscar mecanismo alterno para tal fin.
+Para la celebración de la consulta previa, libre e informada, la comunidad indígena puede proponer, además de los medios que este capítulo contempla, algún otro que, derivado de sus usos y costumbres o sistemas normativos y de gobierno interno resulten más convenientes para los efectos requeridos.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 76.
 
-En la realización de cualquier consulta ciudadana en esta materia el Instituto deberá observar los principios endógeno, libre, pacífico, informado, democrático, equitativo, socialmente responsable y autogestionado, garantizando en todo momento los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitucional (sic) Local y los Instrumentos Internacionales. Quedan excluidas aquellas costumbres e instituciones que sean incompatibles con los derechos fundamentales consagrados por el sistema jurídico nacional y con los derechos humanos internacionalmente reconocidos.
+En la realización de cualquier consulta previa, libre e informada la autoridad autónoma deberá observar los principios endógeno, libre, pacifico, informado, democrático, equitativo y autogestionado, garantizando en todo momento los derechos humanos de los pueblos indígenas consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del estado Libre y Soberano de Michoacán de Ocampo y los instrumentos internacionales.
+
+Quedan excluidas aquellas costumbres e instituciones que sean incompatibles con los derechos humanos internacionalmente reconocidos.
 
 ## TÍTULO CUARTO. DE LOS RECURSOS Y DEL SISTEMA DE RESPONSABILIDADES
 
@@ -889,9 +903,13 @@ SEGUNDO. Se abroga la Ley de Participación Ciudadana para el Estado de Michoac�
 
 TERCERO. Los entes públicos contarán con 90 días para emitir la normatividad correspondiente a que les obligue esta Ley, así como para que, aquellos que no cuenten con un espacio determinado como Estrados, los creen, buscando lugares visibles y de fácil acceso, en el que sea su inmueble principal.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+A los entes públicos que deban emitir normas relacionadas con lo dispuesto en el Capítulo Segundo del Título Tercero de la presente Ley no les es aplicable la temporalidad señalada en el párrafo anterior, considerando deben consultar a la población indígena previo a su emisión, contarán con un plazo de un año a partir de la entrada en vigor del presente decreto.
+
 CUARTO. Por única ocasión, a efecto de hacer la primera división del municipio por zonas, en términos del Capítulo Quinto del Título Tercero de la presente Ley, cada uno de los integrantes de Ayuntamiento podrá presentar propuestas de zonificación, las que se expondrán en una sesión que se convoque con ese único fin, dichas propuestas deberán someterse a votación, resultando definitiva la que logre aprobación por mayoría calificada de los presentes.
 
-En caso de que de las propuestas presentadas no se (sic) logre la votación requerida, podrá solicitarse el apoyo de alguna área o dependencia pública del Ayuntamiento, a efecto de que, en un término no menor a 20 días contados a partir de que se celebró la sesión primero (sic) convocada, se presente en sesión, propuesta que integre los proyectos presentados, la que deberá someterse a votación. De no tenerse la votación requerida en este proyecto, en esa misma sesión deberán someterse a votación los primeros proyectos presentados, resultando definitivo el que logre el mayor número de votos.
+En caso de que de las propuestas presentadas no se logre la votación requerida, podrá solicitarse el apoyo de alguna área o dependencia pública del Ayuntamiento, a efecto de que, en un término no menor a 20 días contados a partir de que se celebró la sesión primero convocada, se presente en sesión, propuesta que integre los proyectos presentados, la que deberá someterse a votación. De no tenerse la votación requerida en este proyecto, en esa misma sesión deberán someterse a votación los primeros proyectos presentados, resultando definitivo el que logre el mayor número de votos.
 
 En todo momento, las propuestas que sean consideradas y se sometan a votación, deberán cumplir con los lineamientos que se disponen en la presente Ley.
 
@@ -916,3 +934,9 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 28 veintiocho días del mes de agosto del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZOTL ESPARZA CORTINA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
