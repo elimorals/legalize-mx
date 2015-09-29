@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-antes-ley-23560"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-05-25"
-last_updated: "2014-12-20"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 25 de mayo del 2001.
 
@@ -61,11 +61,11 @@ Cada Municipio será gobernado por un Ayuntamiento de elección popular directa.
 
 Dentro de los límites de su territorio tiene la potestad para normar las materias, procedimientos, funciones y servicios públicos de su competencia, así como para establecer las autoridades y sus órganos de gobierno de conformidad con el orden constitucional y la presente Ley.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 3.
 
-Los municipios están investidos de personalidad jurídica y dotados de patrimonio propio. La representación legal corresponde al Ayuntamiento, quien la ejercerá a través del síndico o delegándola a favor de terceros, mediante acuerdo expreso del Ayuntamiento. La representación también podrá delegarse para asuntos de carácter legal o jurisdiccional. El reglamento o acuerdo mediante el cual se haga la delegación de representación tendrá naturaleza de documento público y hará prueba plena en cualquier procedimiento de carácter administrativo o jurisdiccional, sin necesidad de ser inscrito en el Registro Público de la Propiedad y del Comercio.
+Los municipios están investidos de personalidad jurídica y dotados de patrimonio propio. La representación legal corresponde al Ayuntamiento, quien la ejercerá a través de los síndicos, de terceros o de la dependencia jurídica especializada, que mediante acuerdo expreso del Ayuntamiento se determine. La representación también podrá delegarse para asuntos de carácter legal o jurisdiccional. El reglamento o acuerdo mediante el cual se haga la delegación de representación tendrá naturaleza de documento público y hará prueba plena en cualquier procedimiento de carácter administrativo o jurisdiccional, sin necesidad de ser inscrito en el Registro Público de la Propiedad y del Comercio.
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN TERRITORIAL
 
@@ -123,33 +123,13 @@ La residencia de los ayuntamientos será en las cabeceras municipales.
 
 De forma temporal y de manera extraordinaria, mediante acuerdo de las dos terceras partes del total de los miembros del Ayuntamiento podrá habilitarse un lugar distinto, dentro de su territorio, para actos concretos o funciones determinadas en dicho acuerdo.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+El recinto donde sesione el Ayuntamiento es inviolable; toda fuerza pública que no esté a cargo del propio Ayuntamiento está impedida para tener acceso a él, salvo que se otorgue permiso previo por el Presidente Municipal o por el Ayuntamiento, quien deberá levantar constancia de ello.
+
 ###### ARTICULO 7.
 
-Los centros de población de los municipios podrán tener las denominaciones de ciudad, villa, pueblo, ranchería y caserío, según el grado de concentración demográfica e importancia y eficiencia de los servicios públicos de los mismos.
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-I.- Se entenderá por Ciudad, aquel centro de población que sea cabecera municipal o aquél cuyo censo arroje un número mayor a treinta mil habitantes y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, limpia y recolección de basura, mercados, panteones, rastros, calles pavimentadas, parques y jardines, autoridad de seguridad pública, tránsito y transporte, unidad deportiva, servicios de salud, hospital, servicios asistenciales públicos, cárcel, planteles educativos de educación básica y media superior;
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-II.- Se denominará Villa, a aquel centro de población que tenga más de siete mil y hasta treinta mil habitantes, así como los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, calles pavimentadas, servicios médicos, mercado, panteón, lugar de recreo y para la práctica del deporte, cárcel y planteles educativos de educación básica y media superior;
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-III.- Se denominará Pueblo, al centro de población cuyo censo arroje un número mayor de dos mil habitantes y hasta siete mil, y tenga los servicios de agua potable y alcantarillado, energía eléctrica y alumbrado público, mercados, panteones, policía, lugares de recreo y para la práctica del deporte y centros de educación básica;
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-IV.- Se denominará Ranchería, al centro de población cuyo censo arroje un número superior a quinientos y hasta dos mil habitantes y cuente con servicios de agua potable y/o alcantarillado, energía eléctrica, camino vecinal y escuela primaria; y
-
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
-
-V.- Se denominará Caserío, al centro de población de hasta quinientos habitantes en zona rural.
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
-
-El Ayuntamiento de cada municipio reglamentará el procedimiento para las declaratorias de las categorías políticas a que se refiere este artículo, debiendo publicar la resolución correspondiente en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+(DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2015)
 
 ### CAPÍTULO TERCERO. DE LA POBLACIÓN
 
@@ -455,15 +435,23 @@ II. Cuando se advierta un peligro para la seguridad, tranquilidad o la salud pú
 
 III. Cuando no existan condiciones propicias para celebrar las sesiones en orden.
 
-El Ayuntamiento sesionará de manera ordinaria, extraordinaria y solemne, debiendo estar presentes la mayoría absoluta de sus miembros. Las sesiones ordinarias del Ayuntamiento tendrán lugar por lo menos dos veces por mes y las extraordinarias cuantas veces se considere necesario; Estas podrán ser convocadas por el Presidente Municipal o bien por escrito en que conste la firma de la mayoría de los miembros del Ayuntamiento.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-La ocasión en que la sesión sea solemne será definida por el Ayuntamiento y por esta Ley.
+El Ayuntamiento sesionará de manera ordinaria, extraordinaria y solemne, debiendo estar presentes la mayoría absoluta de sus miembros. Las sesiones ordinarias del Ayuntamiento tendrán lugar por lo menos dos veces por mes y las extraordinarias cuantas veces se considere necesario; estas serán convocadas por el Presidente Municipal, o bien a solicitud de las dos terceras partes de los integrantes del Ayuntamiento, por conducto del Secretario del Ayuntamiento.
 
-Sus resoluciones se tomarán por el voto de la mayoría absoluta de sus integrantes, salvo cuando se requiera votación calificada por el reglamento respectivo a las leyes. En todo caso, los acuerdos que se tomen siempre se harán públicos.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+La ocasión en que la sesión sea solemne será definida por el Presidente Municipal y convocada por conducto del Secretario del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Sus resoluciones se tomarán por el voto de la mayoría simple de sus integrantes, salvo cuando se requiera votación calificada por el reglamento respectivo o las leyes. En todo caso, los acuerdos que se tomen siempre se harán públicos.
 
 Para los efectos de esta Ley se entenderá por mayoría absoluta aquella que implique más de la mitad de los integrantes del cuerpo colegiado; mayoría calificada la que requiere cuando menos el voto de las dos terceras partes de los integrantes del cuerpo colegiado en un mismo sentido; y mayoría simple la que alcance el mayor número de votos pero no los suficientes para llegar a la mayoría absoluta antes mencionada.
 
-Para la abrogación o derogación de cualquier proveído del Ayuntamiento se requerirá el mismo tipo de votación que para su aprobación.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Para la abrogación o derogación de cualquier proveído del Ayuntamiento se requerirá el voto de la mayoría calificada, a excepción de los reglamentos municipales, en los que bastará con mayoría simple.
 
 ###### ARTICULO 28.
 
@@ -509,7 +497,9 @@ VI. Crear y suprimir las delegaciones y subdelegaciones municipales necesarias p
 
 VII. Aprobar y evaluar el cumplimiento de los planes y programas, municipales;
 
-VIII. Solicitar a través del Presidente Municipal la comparecencia de los servidores públicos de la administración municipal, así como la información necesaria para el proceso de evaluación y seguimiento de los planes y programas;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Solicitar a través del Presidente Municipal la información necesaria para el proceso de evaluación y seguimiento de los planes y programas;
 
 IX. Solicitar al Ejecutivo del Estado la expropiación de bienes por causa de utilidad pública.
 
@@ -571,15 +561,25 @@ XXX. Promover la participación de los habitantes del municipio en el ejercicio 
 
 XXXI. Proponer y coordinar la celebración de consultas a la población cuando lo juzgue necesario para tomar decisiones que por su naturaleza afecten el interés de la comunidad;
 
-XXXII. Nombrar y remover a los Titulares de las Dependencias administrativas previstas en el Artículo 44 de la presente; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XXXIII. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado y en las leyes que de ambas se deriven.
+XXXII. Aprobar a quien habrá de ocupar la titularidad de la Dependencia Encargada de la Prestación de Servicios Públicos Municipales y la Secretaría del Ayuntamiento, en caso de que esta no sea aprobada, el presidente municipal propondrá una terna al ayuntamiento, de la cual se designará al titular;
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-Los acuerdos, bandos, circulares y reglamentos municipales, deberán ser aprobados por mayoría absoluta de los miembros del Ayuntamiento, de conformidad con el reglamento respectivo. Para su entrada en vigor y respectiva difusión, deberán ser publicados en la gaceta municipal correspondiente; en caso de que el Municipio no cuente con ella, se dará cumplimiento a esta disposición a través del Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+XXXIII. Aprobar y delegar el ejercicio de la representación legal del Ayuntamiento y Municipio, a través de los Síndicos, a favor de terceros o dependencia jurídica especializada, con las facultades y atribuciones necesarias para la debida defensa de los intereses del Municipio; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXXIV. Las demás previstas en la Constitución Política de los Estados Unidos Mexicanos en la del Estado y en las leyes que de ambas se deriven.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Los acuerdos, bandos y circulares, deberán ser aprobados por mayoría absoluta de los miembros del Ayuntamiento, en el caso de los reglamentos municipales deberán ser aprobados por mayoría simple, para su entrada en vigor y respectiva difusión, deberán ser publicados en la gaceta municipal correspondiente; en caso de que el Municipio no cuente con ella, se dará cumplimiento a esta disposición a través del Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 En su caso, si el ayuntamiento lo juzga conveniente para informar a la población y fomentar la participación de los ciudadanos, podrán publicarse también los proyectos de reglamentos, una vez que éstos le hayan sido presentados y existan condiciones para recibir las opiniones que vierta la ciudadanía.
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, PÁGINA 21055.</small>
 
 ###### ARTICULO 31.
 
@@ -621,7 +621,9 @@ XV. Comunicar a los Poderes del Estado la legal instalación del ayuntamiento;
 
 XVI. Disponer de la fuerza pública municipal para preservar, mantener y restablecer la tranquilidad, la seguridad y la salubridad públicas;
 
-XVII. Avisar al Ayuntamiento su ausencia por mas de tres días consecutivos del territorio del municipio y solicitar al mismo su autorización para hacerlo por más de quince;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Avisar al Ayuntamiento su ausencia por más de tres días consecutivos del territorio del municipio y solicitar al mismo su autorización para hacerlo por más de treinta;
 
 XVIII. Ejercer el control y vigilancia sobre los servidores públicos de su administración, denunciando aquellas conductas que pudieren constituir un delito o desprender otras responsabilidades, así como aplicar o en su caso ejecutar las sanciones que deriven de ellas;
 
@@ -629,11 +631,31 @@ XIX. Participar en las sesiones del ayuntamiento, votar en las mismas y en caso 
 
 XX. Coadyuvar con las autoridades federales y estatales en el ejercicio de su (sic) atribuciones;
 
-XXI. Proponer al Ayuntamiento la persona o la terna en su caso, que habrá de ocupar la titularidad de las dependencias administrativas previstas en el Artículo 44 de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XXII. Integrar y promover los Consejos Municipales de Participación Social; y
+XXI. Nombrar y remover a los titulares de la Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal, de la Administración de Servicios Internos, Recursos Humanos, Materiales y Técnicos del Municipio, de la Encargada de la Ejecución y Administración de Obras Públicas, así como la Encargada de las Finanzas Públicas Municipales.
 
-Las demás que señalan esta Ley y las demás disposiciones aplicables.
+Asimismo podrá remover a los titulares de la Dependencia Encargada de la Prestación de Servicios Públicos Municipales y de la Secretaría del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Proponer al Ayuntamiento a la persona que habrá de ocupar la titularidad de la Dependencia Encargada de la Prestación de los Servicios Públicos Municipales y la Secretaría del Ayuntamiento; en caso de que esta no sea aprobada, el presidente municipal propondrá una terna al ayuntamiento, de la cual se designará al titular.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXIII. Integrar y promover los Consejos Municipales de Participación Social;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXIV. Integrar y presidir las Comisiones de Gobernación, Hacienda, Patrimonio y Cuenta Pública, Obras y Servicios Públicos, Seguridad Pública, Tránsito y Policía Preventiva y Desarrollo Urbano y Ecología, que se encuentran señaladas en el artículo 38, fracciones I, II, III, IV y VIII de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXV. Nombrar a los delegados y subdelegados, así como señalar y decidir el método para su nombramiento, en los términos establecidos por el artículo 52 de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXVI. Las demás que señale esta Ley y las demás disposiciones aplicables.
 
 ###### ARTICULO 32.
 
@@ -647,7 +669,9 @@ III. Vigilar y evaluar el ramo de la administración municipal que les haya sido
 
 IV. Informar a éste de los resultados de sus trabajos y proponer las medidas que estime pertinentes;
 
-V. Solicitar y obtener de los titulares de las dependencias y organismos municipales, la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. Solicitar, por conducto del Secretario del Ayuntamiento, la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones;
 
 VI. Concurrir a las ceremonias cívicas y demás actos oficiales;
 
@@ -655,45 +679,81 @@ VII. Abstenerse de realizar funciones ejecutivas en la administración municipal
 
 VIII. Las demás establecidas por el presente ordenamiento y reglamento respectivos.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 33.
 
-El Síndico tendrá las siguientes facultades y atribuciones:
+Los Síndicos tendrán las siguientes facultades y atribuciones:
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 I.- Asistir puntualmente a las sesiones que celebre el Ayuntamiento, con voz y voto;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 II.- Informar a éste de los resultados de sus trabajos y proponer las medidas que estime pertinentes;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 III.- Concurrir a las ceremonias cívicas y demás actos oficiales;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 IV.- Abstenerse de aceptar cargo, empleo o comisión del gobierno federal o de los estados, a excepción de los académicos, honorarios y asistenciales;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 V.- Procurar la defensa y promoción de los intereses municipales;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 VI.- Representar legalmente al municipio ante toda clase de tribunales federales y estatales y delegar esta representación, por acuerdo del Ayuntamiento en los casos en que el municipio tenga un interés;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 VII.- Asistir con la representación del Ayuntamiento a los remates públicos en los que tenga interés el municipio;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 VIII.- Vigilar que la cuenta pública municipal se integre en la forma y términos previstos en las disposiciones aplicables y se remita en tiempo a la Entidad Superior de Fiscalización;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 IX.- Realizar visitas de inspección a las dependencias y entidades municipales y, en caso, proponer al Ayuntamiento las medidas necesarias para su mejor funcionamiento;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 X.- Intervenir, cada vez que el Ayuntamiento lo juzgue conveniente, en la formulación y verificación del inventario general de los bienes muebles e inmuebles propiedad del municipio;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 XI.- Promover la regularización de la propiedad de los bienes municipales;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 XII.- Vigilar que los actos del Presidente Municipal y del Ayuntamiento se ejecuten en términos de estricta legalidad;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 XIII.- Presentar al Ayuntamiento, para su autorización y sellado, en un plazo no mayor de quince días, contados a partir del inicio de su administración, los libros o registros electrónicos en donde se consignen los movimientos contables de la propia administración;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 XIV.- Verificar que los servidores públicos obligados a ello, presenten sus respectivas declaraciones patrimoniales de manera oportuna y vigilar la ejecución de las sanciones correspondientes;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 XV.- Exigir al titular de la dependencia encargada de las finanzas públicas y demás servidores públicos municipales que manejen fondos, el otorgamiento de fianzas previamente al inicio del desempeño de sus funciones;
 
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+
 XVI.- Asumir las funciones auxiliares de Ministerio Público, en los términos de la ley de la materia;
 
-XVII.- Solicitar y obtener de los titulares de las dependencias y organismos municipales la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVII.- Solicitar por conducto del Secretario del Ayuntamiento, la información y demás documentación relativa a la gestión municipal, necesaria para el cumplimiento de sus funciones; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
 
 XVIII.- Las demás que le señalen la Ley, los reglamentos municipales y el propio Ayuntamiento.
 
@@ -703,23 +763,15 @@ XVIII.- Las demás que le señalen la Ley, los reglamentos municipales y el prop
 
 La representación conferida a los Síndicos, se entiende sin más limitaciones que las consignadas en esta Ley y las que resulten de considerar dicha representación legal sólo con las facultades del mandatario general para pleitos y cobranzas, con cláusula para absolver posiciones e interponer o desistirse del juicio de amparo, en los términos del Código Civil del Estado de Querétaro, la Ley de Amparo y demás disposiciones legales vigentes. Los Síndicos no pueden desistirse, transigir, comprometer en árbitros ni hacer cesión de bienes municipales, salvo autorización expresa que en cada caso otorgue el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 35.
 
-Una vez instalado el Ayuntamiento, los regidores propietarios integrarán grupos o fracciones con el objeto de conformar unidades de representación, actuar en forma organizada y coordinada en los trabajos municipales y realizar las tareas administrativas y de gestión que les correspondan, así como presentar de manera consolidada las iniciativas que correspondan en materia reglamentaria municipal. El acreditamiento del grupo o fracción se hará en sesión del ayuntamiento, a más tardar una semana posterior a su instalación, mediante escrito firmado por cada uno de los integrantes del grupo o fracción, en dicho documento se acreditará a su coordinador, el cual realizará funciones de representación y podrá tomar decisiones a nombre de quienes integren su grupo. La mecánica de elección o sustitución de cada coordinador corresponde a cada Grupo.
+Una vez instalado el Ayuntamiento, los síndicos y regidores propietarios integrarán grupos o fracciones con el objeto de conformar unidades de representación, actuar en forma organizada y coordinada en los trabajos municipales y realizar las tareas administrativas y de gestión que les correspondan, así como presentar de manera consolidada las iniciativas que correspondan en materia reglamentaria municipal. El acreditamiento del grupo o fracción se hará en sesión del Ayuntamiento, a más tardar una semana posterior a su instalación, mediante escrito firmado por cada uno de los integrantes del grupo o fracción, en dicho documento se acreditará a su coordinador, el cual realizará funciones de representación y podrá tomar decisiones a nombre de quienes integren su grupo. La mecánica de elección o sustitución de cada coordinador corresponde a cada Grupo.
 
-El Conjunto de dos o más regidores por cada partido político constituirán un grupo al interior del Ayuntamiento, son fracciones aquellas constituidas por un solo regidor.
+El conjunto de dos o más síndicos y/o regidores por cada partido político constituirán un grupo al interior del Ayuntamiento, son fracciones aquellas constituidas por un solo Síndico o regidor.
 
-Los grupos y fracciones gozarán de personalidad jurídica siendo el coordinador quien tendrá la representación legal del mismo ante las instancias que correspondan. En todo tiempo se abstendrán los coordinadores de grupos o fracciones de celebrar convenios con contenido patrimonial a nombre del Ayuntamiento o ejercer la representación legal del mismo excepto cuando éste lo acuerde.
-
-Los grupos y fracciones gozarán de los recursos aprobados por el ayuntamiento y que se determinen en el presupuesto, en forma proporcional al número de integrantes que los constituyan, pudiendo, incluso, contratar personal con los recursos de que dispongan, en cuyo caso quedarán bajo la responsabilidad laboral de los grupos y fracciones, sin presumirse vínculo laboral o de cualquier especie con el ayuntamiento.
-
-Del recurso ejercido, se informará al ayuntamiento en la modalidad y temporalidad que el mismo acuerde.
-
-Los recursos que reciban los regidores por conducto de sus grupos o fracciones serán idénticos para todos sin distinción de partido político. Los regidores que se consideren independientes recibirán los recursos que correspondan a aquellos adscritos a algún grupo o fracción.
-
-Cuando se acredite que algún regidor ha dejado de pertenecer a algún partido político por cualquier causa, dejará de pertenecer al grupo o fracción y conservarán la asignación de recursos aprobada.
+El coordinador de cada grupo o fracción, tendrá la personalidad del mismo ante las instancias que correspondan. En todo tiempo se abstendrán los coordinadores de grupos o fracciones de celebrar convenios con contenido patrimonial, laboral, económico, jurídico o de cualquier otra índole a nombre del Ayuntamiento o ejercer la representación legal del mismo.
 
 ### CAPÍTULO TERCERO. DE LAS COMISIONES PERMANENTES DE DICTAMEN
 
@@ -727,13 +779,17 @@ Cuando se acredite que algún regidor ha dejado de pertenecer a algún partido p
 
 Dentro de los primeros treinta días siguientes a la instalación del Ayuntamiento, sus miembros se constituirán en comisiones permanentes para el estudio, examen y resolución de los asuntos municipales, así como para vigilar la ejecución de las disposiciones y acuerdos del Ayuntamiento y para atender permanentemente los asuntos concernientes a la administración municipal. En caso de que uno o más de ellos incumplieren con sus obligaciones, podrán ser sustituidos por el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 37.
 
-Las comisiones permanentes de dictamen, mencionadas en el artículo precedente, se integrarán con el número de miembros que determine el propio Ayuntamiento, siempre su número será impar. La elección de las personas que habrán de constituirlas se hará por votación nominal; uno de los miembros de cada comisión será designado como Presidente de la misma.
+Las comisiones permanentes de dictamen, mencionadas en el artículo precedente, se integrarán por tres miembros del Ayuntamiento, uno de los miembros de cada comisión presidirá la misma en calidad de Presidente de la Comisión. La calidad de Presidente de las Comisiones descritas en las fracciones I, II, III, IV y VIII del Artículo 38 de la presente Ley, será conferida al Presidente Municipal; el resto de las comisiones permanentes de Dictamen, serán presididas por quien el Ayuntamiento designe para tales efectos. La elección de las personas que han de constituir las comisiones permanentes de Dictamen, a excepción de lo especificado para el Presidente Municipal, se harán por votación económica del propio Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 38.
 
-Las comisiones permanentes de dictamen, son cuerpos consultivos y de evaluación respecto a los distintos ramos de la administración pública municipal. En cada Municipio se deberán constituir como mínimo las siguientes:
+Las comisiones permanentes de dictamen, son cuerpos consultivos y de evaluación respecto a los distintos ramos de la administración pública municipal. En cada Municipio se podrán constituir como mínimo las siguientes:
 
 I. DE GOBERNACIÓN.- Cuya competencia será: garantizar la seguridad y tranquilidad de las personas y de sus bienes dentro de su territorio; elecciones municipales; estadística municipal; legalización de firmas de servidores públicos municipales; registro civil; aplicación de sanciones por infracciones previstas en los reglamentos municipales; inspectoría municipal; asociaciones religiosas y culto público; supervisión de funciones, desarrollo y desempeño del cuerpo de protección civil y el otorgamiento de auxilios extraordinarios en casos de incendios, terremotos, inundaciones, escasez de víveres y demás sucesos de emergencia y rescate; y los demás asuntos que señalen las leyes y los reglamentos municipales.
 
@@ -749,9 +805,9 @@ V. DE DESARROLLO AGROPECUARIO Y ECONÓMICO.- Cuya competencia será: coadyuvar c
 
 VI. DE SALUD PÚBLICA.- Cuya competencia será la higiene y la salubridad en el municipio, así como las demás que establezcan las leyes.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-VII. DE DESARROLLO SOCIAL Y DERECHOS HUMANOS.- Cuya competencia será coadyuvar con las autoridades competentes en la regulación y protección de los derechos humanos, la equidad de género, los grupos vulnerables y, en general, las demás obligaciones que les señalen las leyes y los reglamentos.
+VII. DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS.- Cuya competencia será coadyuvar con las autoridades competentes en la regulación y protección de los derechos humanos, la no discriminación, la igualdad sustantiva de género, los grupos en situación de vulnerabilidad y, en general, las demás obligaciones que les señalen las leyes y los reglamentos;
 
 VIII. DE DESARROLLO URBANO Y ECOLOGÍA.- Cuya competencia será: la formulación del Plan de Desarrollo Urbano Municipal; la zonificación y determinación de las reservas territoriales y áreas de protección ecológica, arqueológica, arquitectónica e histórica; y, en general, las facultades derivadas de lo previsto en la fracción V del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -765,9 +821,17 @@ XI. DE ASUNTOS INDÍGENAS.- En aquellos municipios en que existan pueblos o comu
 
 XII. DE TRABAJADORES MIGRANTES.- Tendrá a su cargo fomentar, contribuir e impulsar a los trabajadores migrantes; la participación de las actividades políticas, sociales y los servicios de información en materia de derechos de los trabajadores migrantes; procurará establecer garantías y mecanismos para que se respeten sus derechos para entrar y salir del país, garantizando y promoviendo su reintegración y contacto con sus familias, acciones para el empleo e incorporación al mercado laboral, así como los envíos de dinero que realicen; actividades científicas y tecnológicas; el sano esparcimiento; la realización de actividades tendientes a su formación y capacitación; y demás acciones encaminadas a lograr la superación y desarrollo integral de los trabajadores migrantes.
 
-> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Las demás permanentes o transitorias que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
+XIII. DE LA MUJER.- Su competencia será la de conocer de todos los asuntos relativos a la mujer que le sean encomendados, dentro del ámbito municipal; diseñar, fomentar y proponer al Ayuntamiento, políticas públicas que promuevan la igualdad sustantiva entre mujeres y hombres, la no discriminación hacia las mujeres y garantizar su participación equitativa en la vida social, política, cultural y económica en el municipio, de manera que permitan el pleno y legitimo desarrollo de la mujer en el ámbito educativo, profesional y social, bajo los principios de tolerancia, respeto e igualdad; así como el reconocimiento de las diferencias e igualdad de oportunidades;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. DE LA FAMILIA.- Le corresponde coadyuvar con las autoridades e interactuar con la sociedad, en la regulación y protección de los derechos de los integrantes de las familias; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Las demás, permanentes o transitorias, que a juicio del Ayuntamiento resulten necesarias para el buen desempeño de sus funciones.
 
 ###### ARTICULO 39.
 
@@ -837,6 +901,10 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 
 Para el caso de que la desaparición haya sido motivada por la ausencia de los integrantes, propietarios o suplentes, del Ayuntamiento Electo a la sesión de instalación, la designación del Concejo Municipal deberá incorporar entre sus concejales a los que sí cumplieron con la instalación, en el cargo que les corresponda de conformidad con la elección de que trate.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Si llegada la fecha de su renovación, no existiera Ayuntamiento electo por cualquier causa, la Legislatura designará, por el voto favorable de cuando menos quince de sus integrantes, un Concejo Municipal integrado por el mismo número de miembros que corresponderían al Ayuntamiento, quienes deberán ser vecinos del propio municipio. Dicho Concejo ejercerá provisionalmente el gobierno de la demarcación, con todas las atribuciones inherentes al Ayuntamiento; pero concluirá sus funciones al quedar definitivamente integrado y electo el Ayuntamiento que surja de la elección extraordinaria respectiva, debiendo el Presidente Municipal, síndicos y regidores electos, protestar sus cargos ante el propio Concejo, quien cesará inmediatamente en sus funciones.
+
 ## TÍTULO IV. DE LA ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
 ### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN ADMINISTRATIVA DE LOS MUNICIPIOS
@@ -847,11 +915,13 @@ Cada Municipio tendrá como estructura administrativa la que determinen sus regl
 
 La Dependencia Encargada de la Prestación de los Servicios Públicos Municipales así como la de Ejecución y Administración de Obras Públicas, tendrán las competencias que establecen el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; el Artículo 85 de la Constitución Local, esta Ley, así como las que señalen los reglamentos que de ella deriven.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 45.
 
-El nombramiento de los titulares de la (sic) estructuras administrativas enunciadas en el artículo anterior, recaerá en la persona que el Presidente proponga al Ayuntamiento y este por mayoría absoluta de votos ratifique. Si la propuesta no fuera aceptada, el Presidente presentará una terna de la cual deberá elegirse a uno de sus integrantes.
+El nombramiento de los titulares de la Secretaría del Ayuntamiento y la Dependencia Encargada de la Prestación de Servicios Públicos Municipales, recaerá en la persona que el Presidente proponga al Ayuntamiento y este por mayoría simple de votos ratifique. Si la propuesta no fuera aceptada, el Presidente presentará una terna de la cual deberá elegirse a uno de sus integrantes.
 
-El titular de la Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal, será nombrado y removido libremente por el Presidente Municipal.
+El titular de la Dependencia Encargada de la Seguridad Pública, Policía Preventiva y el Tránsito Municipal, el titular de la Dependencia Encargada de la Administración de Servicios Internos, Recursos Humanos, Materiales y Técnicos del Municipio, el titular de la Dependencia Encargada de la Ejecución y Administración de Obras Públicas así como el titular de la Dependencia Encargada de las Finanzas Públicas Municipales, serán nombrados y removidos libremente por el Presidente Municipal.
 
 ###### ARTICULO 46.
 
@@ -859,7 +929,7 @@ Para ser titular de la Secretaría del Ayuntamiento o titular de cualquiera de l
 
 I. Ser ciudadano en pleno goce de sus derechos civiles y políticos;
 
-II. Ser originario del municipio o vecino del lugar con residencia efectiva de tres años anteriores a la fecha de su designación, cuando menos;
+II. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2015)
 
 III. Acreditar los conocimientos y capacidad para poder desempeñar el cargo;
 
@@ -935,11 +1005,29 @@ XIII. Realizar oportunamente y en unión con el síndico, la gestión de los asu
 
 XIV. Establecer y ejecutar las medidas de control y vigilancia administrativa, contable y financiera de los organismos descentralizados, fideicomisos públicos y empresas de participación municipal;
 
-XV. Intervenir en las operaciones de crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico para el municipio;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XVI. Garantizar, antes del inicio de sus responsabilidades, el buen desempeño de su cargo mediante la fianza o la manera en que juzgue conveniente el Ayuntamiento; y
+XV. Intervenir en las operaciones de crédito público municipal y en los actos y contratos de los que resulten derechos y obligaciones de carácter económico para el Municipio; este último, a través de la autorización de la suficiencia presupuestal que se otorgue a la Dependencia que realice el acto o contratación respectiva;
 
-XVII. Las demás señaladas por las leyes y reglamentos correspondientes.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Realizar las modificaciones necesarias al Presupuesto de Egresos del ejercicio, del recurso financiero existente, resultado de ejercicios anteriores en la hacienda pública municipal, previa autorización expresa del Presidente Municipal, debiendo constar por escrito, informando al Ayuntamiento a través de la Cuenta Pública;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Realizar las modificaciones necesarias al Presupuesto de Egresos, siempre y cuando no rebase el 10% de los puntos porcentuales del presupuesto autorizado entre el gasto administrativo y gasto social aprobado, informando al Ayuntamiento a través de la Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Realizar la afectación a la cuenta de resultados de ejercicios anteriores, informando al Ayuntamiento a través de la cuenta pública;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Garantizar al inicio de sus responsabilidades, el buen desempeño de su cargo mediante la fianza o la manera en que juzgue conveniente el Ayuntamiento; y
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Las demás señaladas por las leyes y reglamentos correspondientes.
 
 ### CAPÍTULO CUARTO. DE LA DEPENDENCIA ENCARGADA DE LA ADMINISTRACIÓN DE SERVICIOS INTERNOS, RECURSOS HUMANOS, MATERIALES Y TÉCNICOS DEL MUNICIPIO
 
@@ -1013,15 +1101,23 @@ Cuando la realidad socioeconómica de un municipio lo haga necesario se podrán 
 
 ### CAPÍTULO SEXTO. DE LAS AUTORIDADES MUNICIPALES AUXILIARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 52.
 
-Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial que se les asigne. Durarán en su encargo tres años y podrán realizar la función por un periodo más.
+Los delegados y subdelegados municipales son autoridades auxiliares del Ayuntamiento y del Presidente Municipal, en la demarcación territorial que se les asigne. Durarán en su encargo por un periodo de tres años y podrán realizar la función por un periodo más.
 
-Dentro de los primeros treinta días siguientes a la instalación del Ayuntamiento los delegados y subdelegados serán nombrados por éste a propuesta del Presidente Municipal o por elección directa si así lo acordara el Ayuntamiento mediante el voto de las dos terceras partes de sus miembros.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-La organización de la elección de delegados y subdelegados que en su caso se decidiera, se realizará por una Comisión Especial integrada por regidores en los términos que ordene el reglamento o los acuerdos dictados al efecto. Cualquier imprevisto será resuelto en el Ayuntamiento respectivo, solicitando el informe correspondiente a la Comisión Especial designada para tal efecto y sus resoluciones serán irrevocables.
+Dentro de los primeros treinta días siguientes a la instalación del Ayuntamiento los delegados y subdelegados serán nombrados por el Presidente Municipal. En caso de que así lo estime pertinente, el Presidente Municipal tendrá la facultad discrecional de indicar método diverso a la designación directa de los delegados y subdelegados debiendo señalar los requisitos así como el método elegido, en el mismo plazo de los treinta días siguientes a la instalación del Ayuntamiento.
 
-La Comisión deberá informar al Ayuntamiento de las personas que hayan logrado la mayoría absoluta de votos.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Para efectos del párrafo que antecede, el Presidente podrá indicar como procedimiento de elección la elección directa mediante el voto de las dos terceras partes de los miembros del Ayuntamiento, que se realice por medio de una Comisión Especial integrada por regidores en los términos que ordene el reglamento o los acuerdos dictados al efecto. Cualquier imprevisto será resuelto por el Presidente Municipal y sus resoluciones serán irrevocables.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+La Comisión deberá de informar al Presidente Municipal de las personas que hayan logrado la mayoría absoluta de votos.
 
 Una vez concluido el procedimiento de elección, entrarán en funciones previa protesta de ley ante el Ayuntamiento respectivo, dentro del plazo de siete días.
 
@@ -1033,7 +1129,9 @@ Para ser delegado o subdelegado municipal se requiere:
 
 I. No ser integrante del Ayuntamiento;
 
-II. Tener residencia efectiva de 5 años anteriores en la demarcación territorial de que se trate; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+II. Tener residencia efectiva de 3 años anteriores en la demarcación territorial de que se trate; y
 
 III. Cumplir con los demás requisitos establecidos para ser miembro del ayuntamiento de conformidad con lo establecido en el Artículo 81 de la Constitución del Estado.
 
@@ -1639,73 +1737,127 @@ El Ayuntamiento deberá formular anualmente la iniciativa de Ley de ingresos cor
 
 La Legislatura del Estado resolverá lo conducente, a más tardar el quince de diciembre.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 109.
 
-La estructura de la iniciativa de Ley de Ingresos para el municipio, contendrá:
+La iniciativa de Ley de Ingresos del municipio, contendrá:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+I. La estimación de los ingresos por los rubros específicos que se consideran para el ejercicio fiscal correspondiente de impuestos, derechos, productos y aprovechamientos, clasificados de conformidad con la Ley de Hacienda de los Municipios del Estado de Querétaro;
 
-I. Clasificación de los ingresos municipales, siguiendo lo previsto en la Ley de Hacienda de los Municipios del Estado de Querétaro;
+II. Las participaciones, aportaciones federales y otras transferencias a que se tenga derecho y hayan sido presupuestadas a favor del Municipio;
 
-II. La determinación de la estimación de los ingresos por cada rubro y concepto en forma global;
+III. Los ingresos extraordinarios que se prevean por la enajenación de bienes que pretendan efectuarse durante el ejercicio;
 
-III. El sistema de clasificación decimal para los diversos rubros;
+IV. Los ingresos extraordinarios que se prevean por endeudamiento que pretendan realizarse durante el ejercicio;
 
-IV. Los supuestos, claros y específicos de las fuentes de ingresos, y
+V. Las normas de tasación flexibles entre un mínimo y un máximo; y
 
-V. Las normas de tasación flexibles entre un mínimo y un máximo.
+VI. Cualquier otro concepto contenido en la Ley de Hacienda de los Municipios del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 110.
 
-Las diferentes dependencias y oficinas del gobierno municipal, previa solicitud de la dependencia encargada de las finanzas públicas, deberán turnar a ésta sus propuestas del Proyecto de Presupuesto de Egresos, a más tardar el día quince de noviembre. El titular de la dependencia aludida, presentará al ayuntamiento, a más tardar el día primero de diciembre, el Proyecto de Presupuesto de Egresos para su estudio, y en su caso aprobación con base en la estimación de los ingresos contenidos en la iniciativa de Ley de Ingresos.
+El Presupuesto de Egresos de cada Municipio, constituye la expresión económica de la política gubernamental y será el aprobado por los ayuntamientos; se integra con los presupuestos de las dependencias y organismos municipales y en la conformación del mismo y en las modificaciones que se le hagan, se guardará el equilibrio presupuestal en su relación con los ingresos aprobados en la Ley de Ingresos del Municipio.
+
+Para la elaboración del Presupuesto de Egresos las diferentes dependencias administrativas del gobierno municipal, deberán turnar a la dependencia encargada de las finanzas públicas, una propuesta que contenga el monto de los recursos que requiera para el cumplimiento de los programas que se le hayan asignado y los planes de trabajo necesarios para el cumplimiento de sus funciones.
+
+Con base en las propuestas antes mencionadas, los ingresos proyectados y la priorización de programas y acciones que determine el Ayuntamiento y el Presidente Municipal, el titular de la dependencia encargada de las finanzas, elaborará y presentará al Presidente Municipal, un proyecto de iniciativa de Presupuesto de Egresos del Municipio. Recibida la iniciativa el Ayuntamiento resolverá de conformidad con lo que al efecto disponga su reglamento.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 111.
 
-El ayuntamiento por conducto de su Secretario, tan pronto reciba el Proyecto de Presupuesto de Egresos, lo turnará a la Comisión de Hacienda Patrimonio y Cuenta Pública para que, en un plazo de ocho días, lo estudie y emita el dictamen respectivo.
+El Presupuesto de Egresos contendrá los apartados siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+I. Exposición de motivos, en la que se describan:
+
+a) Las condiciones económicas, financieras y hacendarias actuales, así como las que se prevén para el futuro del Estado.
+
+b) Situación de la deuda pública al término del último ejercicio fiscal presupuestal y estimación de la que se tendrá al concluir el ejercicio fiscal en curso e inmediato siguiente.
+
+c) Ingresos y gastos reales del primero de octubre del año anterior al treinta de septiembre del año en curso;
+
+II. La integración de las partidas por objeto del gasto y por conceptos globales de gasto social y gasto administrativo que ejercerán sus dependencias y entidades;
+
+III. Las prioridades de gasto, programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, así como cualquier otro que establezcan las disposiciones aplicables;
+
+IV. El listado de los programas, así como sus indicadores estratégicos y de gestión aprobados;
+
+V. La asignación de recursos, de acuerdo a las normas, metodologías y clasificadores que correspondan conforme a la Ley General respectiva;
+
+VI. Reportes de saldos en cuentas bancarias al treinta de septiembre del año en curso y dinero en efectivo, especificando su origen y, en su caso, destino;
+
+VII. Los tabuladores que contengan las remuneraciones, sean fijas o variables, en efectivo o en especie, de los servidores públicos, determinados en los términos del Título Tercero de esta Ley;
+
+VIII. Resumen ejecutivo del presupuesto que refleje la suma del total presupuestado;
+
+IX. El endeudamiento neto;
+
+X. Los intereses de la deuda; y
+
+XI. La demás información que, en su caso, señalen las disposiciones generales aplicables a los sujetos de la Ley.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 112.
 
-En la formulación del Presupuesto de Egresos deberá observarse lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, así como los lineamientos siguientes:
+En la formulación del Presupuesto de Egresos deberán observarse los lineamientos siguientes:
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+I. La presupuestación del gasto público municipal deberá sujetarse a los objetivos y prioridades que señale el Plan de Desarrollo Municipal y sus programas, atendiendo a los principios de eficiencia, eficacia, economía, transparencia, honradez y austeridad;
 
-I. La presupuestación del gasto público municipal deberá sujetarse a los objetivos y prioridades que señale el Plan de Desarrollo Municipal y sus programas, atendiendo a los principios de eficiencia, eficacia, economía, transparencia, honradez y sobre todo austeridad, para satisfacer los objetivos a los que deben destinarse los recursos públicos;
+II. Sólo habrá un Presupuesto, las partidas podrán ser modificadas con posterioridad:
 
-II. Sólo habrá un Presupuesto, las modificaciones de partidas, una vez aprobado aquél, deberán sujetarse a la aprobación del Ayuntamiento;
+a) Cuando existan ingresos extraordinarios o adicionales, para lo cual el titular de la dependencia encargada de las finanzas públicas, lo hará del conocimiento del Ayuntamiento dentro del mes siguiente al que ingresaron, manifestando de manera detallada la fuente de ingresos y el destino que se propone.
+
+b) Cuando resulten necesarias transferencias entre partidas, para ajustarlas a las necesidades de las dependencias.
+
+c) En ambos casos se deberá señalar el origen y destino de los recursos y se procederá conforme a lo dispuesto por la ley;
 
 III. Todos los gastos públicos deberán consignarse en el Presupuesto o en modificaciones al mismo;
 
 IV. Las autorizaciones presupuestales del gasto no se formularán en forma general, sino por partidas detalladas y específicas, sin perjuicio de agruparlas en partidas globales;
 
-V. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2012)
+V. No podrá contener, ni podrán existir, partidas presupuestales secretas o confidenciales o cuyo fin no sea claro y específico;
 
-VI. (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2012)
-
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2012)</small>
+VI. Se incluirán las partidas necesarias para solventar obligaciones que constituyan deuda pública del Municipio y de las demás entidades paramunicipales que cuenten con la garantía del Municipio;
 
 VII. El gasto previsto en el Presupuesto de Egresos, para la realización de todas las festividades públicas en un ejercicio fiscal, se desglosará mediante un anexo al presupuesto, que constituirá información pública y deberá especificar:
 
-a) La fecha o período de la festividad que corresponda, así como su denominación más popular o usual con la que sea identificada;
+a) La fecha o período de la festividad que corresponda, así como su denominación más popular o usual con la que sea identificada.
 
-b) El importe de recursos públicos totales que será asignado a cada festividad, por separado y por cada rubro de gasto; y
+b) El importe de recursos públicos totales que será asignado a cada festividad, por separado y por cada rubro de gasto.
 
-c) En su caso, la descripción general de las estrategias de recuperación del gasto, que contribuyan paulatinamente el autofinanciamiento total o parcial del evento; o bien, a disminuir las cargas sobre el presupuesto público.
+c) En su caso, la descripción general de las estrategias de recuperación del gasto, que contribuyan paulatinamente el autofinanciamiento total o parcial del evento; o bien, a disminuir las cargas sobre el presupuesto público;
 
-VIII. Clasificará como grupos fundamentales de la autorización del gasto público los capítulos de servicios personales y generales; materiales y suministros; maquinaria, mobiliario y equipo; adquisición de muebles e inmuebles; construcciones; transferencias; deuda pública, y asignaciones globales suplementarias. Estos capítulos se agruparán en forma de gasto corriente, de inversión y deuda pública.
+VIII. Clasificará como grupos fundamentales de la autorización del gasto público los capítulos de servicios personales y generales; materiales y suministros; maquinaria, mobiliario y equipo; adquisición de muebles e inmuebles; construcciones; transferencias; deuda pública, y asignaciones globales suplementarias. Estos capítulos se agruparán en forma de gasto corriente, de inversión y deuda pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2012)</small>
+IX. De conformidad con lo dispuesto por el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, se incluirán los tabuladores anuales que contengan las remuneraciones de los servidores públicos al servicio del Municipio, de sus entidades y dependencias y de su administración paramunicipal, en los términos que señala la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro. El total de sueldos, salarios y prestaciones al personal del Municipio que se prevean en el Presupuesto de Egresos, no excederán del cuarenta por ciento del total del mismo y la inversión de obra pública será de por lo menos el equivalente al treinta por ciento;
 
-IX. Incluirá los tabuladores que contengan las remuneraciones, sean fijas o variables, en efectivo o en especie, de los servidores públicos, en los términos que señala la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro.
+X. En el correspondiente al último año del periodo de ejercicio de la administración municipal, se establecerá una partida destinada a gastos de transición, que será del uno por ciento del presupuesto del gasto corriente mensual promedio del periodo correspondiente a los primeros seis meses del año de que se trate, sin incluir las partidas de servicios personales. Los recursos de esta partida deberán utilizarse únicamente para gastos de capacitación y para pagos de gastos administrativos del proceso de entrega recepción, no podrán destinarse a cubrir remuneraciones a los que serán empleados o funcionarios en la administración entrante; y
+
+XI. No se podrán aprobar partidas para el otorgamiento de bonos, compensaciones especiales o cualquier otro pago adicional a las prestaciones a que se tienen derecho por ley o convenio los servidores públicos, por término de la administración municipal.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 113.
 
-Aprobada la Ley de Ingresos por la Legislatura, el Ayuntamiento aprobará su Presupuesto de Egresos, el cual será publicado en los términos de la Presente Ley. Cuando por cualquier causa no se haya aprobado la Ley de Ingresos o el Presupuesto de Egresos que corresponda, continuará en vigor lo que se encuentre vigente en ese momento, hasta en tanto se aprueben los que correspondan a ese ejercicio fiscal.
+Aprobada la Ley de Ingresos por la Legislatura, el Ayuntamiento aprobará su Presupuesto de Egresos, el cual será publicado en los términos de la Presente Ley. Cuando por cualquier causa no se haya aprobado la Ley de Ingresos o el Presupuesto de Egresos que corresponda, entrará en vigor uno en iguales términos del que se encuentre vigente en ese momento, hasta en tanto se apruebe los que correspondan a ese ejercicio fiscal.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 114.
 
-Corresponde al presidente y al titular de la Dependencia Encargada de las Finanzas Públicas del municipio, la ejecución (sic) su Presupuesto de Egresos.
+Corresponde al Presidente Municipal y a los titulares de las Dependencias, la ejecución de las partidas que se les hubieren asignado del Presupuesto de Egresos y no podrán autorizarse, ni ejercerse erogación alguna si no se encuentra prevista en el Presupuesto de Egresos una partida presupuestal específica para ello, o si esta se ha agotado; aun cuando se haya solicitado transferencia de recursos de otra partida presupuestal para lograr la suficiencia y ésta aún no se ha aprobado en los términos previstos por la presente Ley y el Reglamento correspondiente.
+
+Por lo anterior en la ejecución del gasto público, las dependencias y organismos municipales, deberán:
+
+I. Realizar sus actividades con sujeción a los objetivos y metas de los programas contemplados en el Presupuesto de Egresos; y
+
+II. Registrar y controlar su ejercicio presupuestal, sujetándose a los compromisos reales de pago.
+
+La dependencia encargada de las finanzas públicas, en los términos que establezcan los reglamentos municipales, es el responsable de la supervisión del ejercicio presupuestal y del avance de los programas operativos de las dependencias y organismos municipales, debiendo informar periódicamente al Ayuntamiento de los resultados obtenidos.
 
 ###### ARTICULO 115.
 
@@ -1921,6 +2073,8 @@ Las obligaciones de los jueces cívicos y el funcionamiento interno de sus ofici
 
 ### CAPÍTULO PRIMERO. DE LA FACULTAD REGLAMENTARIA
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 135.
 
 Los actos administrativos del Presidente Municipal u otras autoridades municipales, podrán ser impugnados mediante el recurso de revisión.
@@ -2067,19 +2221,37 @@ La tramitación de lo anterior no constituirá recurso, ni suspenderá el plazo 
 
 ###### ARTICULO 146.
 
-Los ayuntamientos están facultados para organizar su funcionamiento y estructura, así como regulación sustantiva y adjetiva de las materias de su competencia, a través de bandos, reglamentos, decretos, acuerdos, circulares y demás documentos que contengan disposiciones administrativas de observancia general y obligatoria en el municipio.
+Los ayuntamientos están facultados para organizar su funcionamiento y estructura, así como regulación sustantiva y adjetiva de las materias de su competencia, a través de instrumentos normativos que contengan disposiciones administrativas de observancia general y obligatoria en el municipio.
+
+Para el cumplimiento de sus responsabilidades el Ayuntamiento resolverá mediante los instrumentos jurídicos siguientes:
+
+I. Reglamentos. Norma jurídica de carácter general que se emite para la ejecución de una ley, para la organización de la administración pública municipal o para el régimen de una materia cuya competencia corresponde al Municipio;
+
+II. Decretos. Resolución que crea situaciones jurídicas concretas que se refieren a un asunto específico relativo a determinado tiempo, lugar, dependencia o individuo, creando situaciones jurídicas concretas;
+
+III. Acuerdos. Resolución del órgano colegiado mediante el cual define una disposición que será obligatoria para todos los que se encuentren en el supuesto que contiene, generando en consecuencia derechos y obligaciones;
+
+IV. Circulares. Comunicación interna del Ayuntamiento que no produce efectos respecto de terceros, expedida para dar a conocer la interpretación de una disposición administrativa de carácter específico, de observación obligatoria para los servidores públicos del Municipio de forma permanente o por la temporalidad que especifique;
+
+V. Declaraciones. Manifestación pública que establece la opinión o posición del Ayuntamiento para un caso específico.
+
+Manteniéndose una compilación actualizada de los Reglamentos e instrumentos normativos vigentes en el Municipio, con la observación de las fechas y gacetas donde se hubieren publicado las reformas que se hubieren aprobado, disponibles en medios electrónicos en la página web del Municipio.
 
 ###### ARTICULO 147.
 
 Para la aprobación y expedición de los reglamentos, decretos, acuerdos, y demás documentos que contengan disposiciones administrativas de observancia general, los Ayuntamientos deben sujetarse a las disposiciones del presente Título y a las siguientes Bases Generales:
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-I. Que los ordenamientos respeten las garantías individuales y sociales consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la Constitución Política del Estado de Querétaro;
+I.- Que los ordenamientos respeten los derechos humanos y sus garantías, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, las leyes federales, la Constitución Política del Estado de Querétaro, y las leyes que de ella emanen;
 
-II. Que los ordenamientos sean congruentes y no contravengan o invadan disposiciones o competencias federales y estatales;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-III. Que tengan como propósito fundamental la seguridad, el bienestar y la tranquilidad de la población;
+II.- Que los ordenamientos sean congruentes y no contravengan o invadan disposiciones de competencia internacional, federal y estatal;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III.- Que tengan como propósito fundamental el respeto y garantía de los derechos humanos, la seguridad, el bienestar y la tranquilidad de la población;
 
 IV. Que su aplicación fortalezca al municipio libre;
 
@@ -2141,13 +2313,21 @@ En las sesiones del ayuntamiento en que se aprueben las modificaciones o reforma
 
 La ignorancia de las disposiciones normativas de la administración pública municipal a nadie exime de su cumplimiento y responsabilidad.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 154.
 
-Las circulares administrativas servirán para aclarar o interpretar con precisión las disposiciones reglamentarias respectivas o el criterio de la autoridad que las emitió y el señalamiento de las aplicaciones tanto internamente como a los particulares.
+El Presidente Municipal podrá expedir circulares administrativas que sirvan para aclarar o interpretar con precisión las disposiciones reglamentarias respectivas o el criterio del Ayuntamiento para emitirlas y el señalamiento de las aplicaciones tanto internamente como a los particulares. Dichas circulares no deberán ser de naturaleza legislativa autónoma, ni desvirtuar, modificar o alterar el contenido de la disposición de observancia general que interpretan.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 155.
 
-Las circulares administrativas no deberán ser de naturaleza legislativa autónoma, ni desvirtuar, modificar o alterar el contenido de una disposición de observancia general.
+Los reglamentos se constituirán con artículos, como su división natural, de forma tal que cada uno de ellos contendrá una disposición normativa específica.
+
+Cuando resulte indispensable y para mayor claridad de su contenido, un artículo podrá dividirse en fracciones e incisos. Se podrán agrupar aquellos artículos que correspondan a un mismo tema en Capítulos, cuando resulte necesario, los Capítulos en Títulos, Secciones y Libros.
+
+En todo caso deberá motivarse la emisión de un reglamento y deberá fundamentarse en cuanto a la competencia del Ayuntamiento para su aprobación.
 
 ### CAPÍTULO PRIMERO. DE LAS FALTAS Y LICENCIAS DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
@@ -2193,11 +2373,11 @@ La aplicación de las sanciones corresponderá al Presidente Municipal y a las a
 
 Los servidores públicos municipales podrán solicitar licencia al ayuntamiento para separarse temporal o definitivamente del ejercicio de sus funciones, siendo en el primer caso por un lapso no mayor de 90 días.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 160.
 
-Las faltas temporales o absolutas del Presidente Municipal, serán suplidas por el regidor propietario que nombre el Ayuntamiento.
+Las faltas temporales o absolutas del Presidente Municipal, serán suplidas por el Regidor o Síndico propietarios que nombre el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2009)</small>
 
@@ -2295,11 +2475,35 @@ Los municipios están obligados a conservar los documentos históricos y monumen
 
 El Presidente Municipal nombrará al responsable del Archivo Histórico Municipal, para la custodia, guarda, conservación y difusión del acervo documental.
 
+### CAPÍTULO ÚNICO. DE LA GACETA MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTICULO 179.
 
 En cada Municipio existirá un Cronista Municipal nombrado por el Ayuntamiento de conformidad con las disposiciones reglamentarias, quien tendrá como función la recopilación, custodia y difusión de la memoria histórica y cultural del municipio. Durará en su cargo tres años y podrá ser reelecto a juicio del ayuntamiento.
 
 La designación del Cronista Municipal deberá recaer en una persona destacada por sus méritos y aportaciones a la cultura municipal.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+## TÍTULO XIII
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 180.
+
+Los Municipios, para publicitar y transparentar el ejercicio de gobierno de los Ayuntamientos, contarán con una Gaceta Municipal que será el órgano de publicación oficial del Ayuntamiento, de carácter permanente e interés público.
+
+Los efectos generales de la publicación en la Gaceta Municipal son la publicidad y vigencia legal de los ordenamientos mencionados en la presente Ley. Lo anterior, sin perjuicio de la publicación que deba hacerse en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, cuando así lo señalen las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 181.
+
+La publicación y administración de la Gaceta Municipal corresponde al Secretario del Ayuntamiento, quien deberá integrar y conservar el archivo de las gacetas publicadas, los originales de los documentos publicados y publicar de oficio o por instrucciones del Ayuntamiento, la fe de erratas que en cada caso proceda.
+
+Se publicará cuando menos cada vez que sesione ordinariamente el Ayuntamiento con los días de anticipación a la misma que los reglamentos municipales señalen. También se contará con una versión electrónica en la página web del Municipio, dicha publicación se hará únicamente con fines de divulgación, por lo que su publicidad no afectaré (sic) la entrada en vigor ni el contenido oficial de los materiales publicados en el formato impreso. Su consulta será bajo la responsabilidad del usuario, por lo que no habrá responsabilidad por la fidelidad de los textos divulgados.
 
 ## TRANSITORIOS
 
@@ -2614,3 +2818,9 @@ P.O. 20 DE DICIEMBRE DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
