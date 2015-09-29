@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-desarrollo-social-del-estado-de-michoacan-93705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-11"
-last_updated: "2013-04-11"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de abril de 2013.
 
@@ -783,9 +783,11 @@ El Gobernador del Estado expedirá y modificará en su caso en un plazo de 180 d
 
 Por única ocasión el Consejo Consultivo será instalado durante el mes de marzo del año 2013.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO CUARTO.
 
-Por única ocasión los miembros del Consejo Consultivo durarán en su encargo hasta el 31 de agosto del 2015.
+Por única ocasión los miembros del Consejo Consultivo continuarán en su encargo hasta ser nombrado un nuevo Consejo Consultivo en los términos señalados por la presente Ley, en su artículo 20 fracción X. Y por única ocasión podrá ser ratificado en su encargo el actual Consejo Consultivo.
 
 ###### ARTÍCULO QUINTO.
 
@@ -800,3 +802,15 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".-PRESIDENTE DE LA MESA DIRECTI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 19 diecinueve días del mes de marzo del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones administrativas que se opongan al Decreto.
+
+TERCERO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+CUARTO. Remítase el presente Decreto al Titular de la Secretaría de Política Social del Estado de Michoacán de Ocampo.
