@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2014-12-18"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2015.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1938,11 +1938,13 @@ Al que sin tener relación de parentesco, a que se refiere el artículo 173 de e
 
 A quien bajo los mismos supuestos del párrafo anterior los sustraiga de su custodia legítima o su guarda, se le impondrá de cinco a quince años de prisión y de doscientos a mil días multa.
 
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 172.
 
 Si la retención o sustracción se realiza en contra de una persona menor de doce años de edad, las penas previstas en el artículo anterior se incrementarán en una mitad.
 
-Si la sustracción tiene como propósito incorporar a la persona a círculos de corrupción de menores o traficar con sus órganos, las penas se aumentarán en un tanto.
+Si la sustracción tiene como propósito incorporar a la persona a círculos de corrupción de menores, la mendicidad o traficar con sus órganos, las penas se aumentarán en un tanto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -1971,10 +1973,6 @@ La pena señalada en el primer párrafo se aumentará en una mitad al cónyuge q
 ### CAPÍTULO I
 
 CORRUPCIÓN DE PERSONAS MENORES DE EDAD O PERSONAS QUE NO TENGAN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TENGAN CAPACIDAD DE RESISTIR LA CONDUCTA
-
-> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
-
-ARTÍCULO 183 Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter lascivo o sexual, reales o simulados, sea de manera física, o a través de cualquier medio, se le impondrá de uno a cinco años de prisión y de quinientos a mil días multa.
 
 > <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
 
@@ -2142,25 +2140,27 @@ DELITOS CONTRA EL LIBRE DESARROLLO DE LA PERSONALIDAD COMETIDOS EN CONTRA DE LAS
 
 ###### ARTÍCULO 183.
 
-Al que por cualquier medio, procure, induzca o facilite el que una persona menor de edad o quien no tenga la capacidad para comprender el significado del hecho, realice actos de exhibicionismo corporal, lascivos o sexuales, prostitución, ebriedad, consumo de drogas o enervantes, prácticas sexuales o a cometer hechos delictuosos, se le impondrán de seis a diez años de prisión y de trescientos a mil días multa.
+Al que comercie, distribuya, exponga, haga circular u oferte, a menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, libros, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter lascivo o sexual, reales o simulados, sea de manera física, o a través de cualquier medio, se le impondrá de uno a cinco años de prisión y de quinientos a mil días multa.
 
-Cuando de la práctica reiterada de los actos de corrupción, el menor o incapaz adquiera los hábitos del alcoholismo, farmacodependencia, se dedique a la prostitución, práctica de actos sexuales, a formar parte de una asociación delictuosa o de la delincuencia organizada, las penas serán de siete a doce años de prisión y de quinientos a mil quinientos días multa.
-
-Al que procure o facilite la práctica de la mendicidad, se le impondrán de tres a ocho años de prisión y de cincuenta a trescientos días multa.
-
-Cuando los actos de corrupción a los que se refiere este artículo, se realicen reiteradamente sobre el mismo menor o incapaz o éstos incurran en la comisión de algún delito, la prisión se aumentará de dos a cinco años.
-
-No se entenderá por corrupción de menores los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 184.
 
-Al que por cualquier medio, obligue, procure, induzca o facilite a una persona menor de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, a realizar actos de exhibicionismo corporal, lascivos o sexuales, simulados o no, con fin lascivo o sexual, prostitución, ebriedad, consumo de drogas o enervantes, prácticas sexuales o a cometer hechos delictuosos, se le impondrán de siete a doce años de prisión y de mil a dos mil quinientos días multa.
+Al que por cualquier medio, obligue, procure, induzca o facilite a una persona menor de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, a realizar actos de exhibicionismo corporal, lascivos o sexuales, simulados o no, con fin lascivo o sexual, prostitución, ebriedad, consumo de drogas o enervantes, consumo de solventes o inhalantes, prácticas sexuales o a cometer hechos delictuosos, se le impondrán de siete a doce años de prisión y de mil a dos mil quinientos días multa.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
 
 Cuando de la práctica reiterada de los actos de corrupción, la persona menor de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, adquiera los hábitos del alcoholismo, fármaco dependencia, se dedique a la prostitución, práctica de actos sexuales, a formar parte de una asociación delictuosa o de la delincuencia organizada, las penas serán de diez a quince años de prisión y de mil a dos mil quinientos días multa.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
+
 Al que procure o facilite la práctica de la mendicidad, se le impondrán de cuatro a nueve años de prisión y de quinientos a mil días multa.
 
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
+
 Cuando los actos de corrupción a los que se refiere este artículo, se realicen reiteradamente contra menores de dieciocho años de edad o personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad de resistir la conducta, o éstos incurran en la comisión de algún delito, la prisión se aumentará de tres a seis años.
+
+> <small>(REFORMADO, G.O. 16 DE AGOSTO DE 2007)</small>
 
 No constituye corrupción el empleo de los programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
@@ -2784,11 +2784,11 @@ IX. En contra de persona con discapacidad o de más de sesenta años de edad; o
 
 X. Respecto de vales de papel, o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para canjear bienes y servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 224.
 
-Además de la (sic) penas previstas en el artículo 220 de este Código, se impondrá de dos a seis años de prisión, cuando el robo se cometa:
+Además de las penas previstas en el artículo 220 de este Código, se impondrá de dos a seis años de prisión, cuando el robo se cometa:
 
 I. En lugar habitado o destinado para habitación, o en sus dependencias, incluidos los movibles;
 
@@ -2813,6 +2813,10 @@ VIII. Respecto de vehículo automotriz o parte de éste; o
 > <small>(REFORMADA, G.O. 4 DE JUNIO DE 2004)</small>
 
 IX. En contra de transeúnte, entendiéndose por éste a quien se encuentre en la vía pública o en espacios abiertos que permitan el acceso público.
+
+> <small>(ADICIONADO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Tratándose de la fracción II de este artículo, además de las penas previstas en el artículo 220 de este Código, se impondrá de cinco a nueve años de prisión.
 
 ###### ARTÍCULO 225.
 
@@ -5475,3 +5479,29 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 29 DE SEPTIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 224 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación
+
+G.O. 29 DE SEPTIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL PRIMERO PÁRRAFO DEL ARTÍCULO 184 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 29 DE SEPTIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 172 DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL.
+
+PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su promulgación y publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
