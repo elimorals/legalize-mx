@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2015-09-09"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -61,7 +63,9 @@ Para el despacho de los asuntos que competan al Poder Ejecutivo, el Gobernador d
 
 El Gobernador del Estado podrá contar, además, con las unidades administrativas necesarias para realizar programas prioritarios; atender los aspectos de comunicación social, coordinar los planes y programas tendientes a procurar el desarrollo justo, armónico y equilibrado del Estado; y el apoyo técnico necesario que requiera. Dichas unidades serán denominadas órganos adscritos; podrán depender directamente del Gobernador o, por acuerdo, quedar atribuidas a una dependencia del Poder Ejecutivo.
 
-Ejercerán sus atribuciones con tal carácter y serán las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+La Oficina de la Gubernatura es la dependencia que brinda servicios de apoyo directo a los requerimientos del titular del Poder Ejecutivo; y será coordinada por un Jefe de la Oficina, teniendo a su cargo la coordinación de los órganos adscritos siguientes:
 
 I. Secretaría Particular;
 
@@ -69,7 +73,7 @@ II. Secretaría Privada;
 
 III. Secretaría Técnica;
 
-IV. Coordinación de Planeación para el Desarrollo;
+IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2015)
 
 V. Coordinación de Asesores;
 
@@ -77,11 +81,15 @@ VI. Coordinación de Relaciones Públicas;
 
 VII. Coordinación de Comunicación Social;
 
-VIII. Coordinación de Salud en el Estado; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Consejería Jurídica; y
 
 IX. Las demás a las que se les atribuya tal carácter en esta Ley, los reglamentos o acuerdos administrativos que correspondan.
 
-Su funcionamiento será regulado por la presente Ley, el Reglamento Interior y los acuerdos administrativos del Gobernador del Estado, mismos que tendrán el carácter de obligatorio para toda la administración pública central.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+A dicha Oficina le corresponderá el despacho de los asuntos previstos en el Capítulo Décimo Quinto de esta Ley.
 
 ###### Artículo 5.
 
@@ -145,9 +153,11 @@ Las dependencias están obligadas a coordinar entre sí sus actividades y a prop
 
 Los titulares de las dependencias a que se refiere esta Ley, podrán delegar, mediante acuerdos administrativos, en sus subalternos cualesquiera de sus facultades, salvo aquellas que las leyes y reglamentos dispongan que deban ser ejercidas directamente por ellos.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-Como titular de cada dependencia habrá un Secretario, salvo el caso de la Oficialía Mayor, cuyo titular se denominará Oficial Mayor, quienes, para el despacho de los asuntos de su competencia, se auxiliarán por los subsecretarios, directores generales, directores, coordinadores, subdirectores, jefes de departamento y por los demás servidores públicos que se establezcan en el Reglamento Interior respectivo y otras disposiciones legales aplicables.
+Como titular de cada dependencia habrá un Secretario, salvo el caso de la Oficialía Mayor cuyo titular se denominará Oficial Mayor y de la Oficina de la Gubernatura cuyo titular se denominará Jefe de la Oficina de la Gubernatura, quienes, para el despacho de los asuntos de su competencia, se auxiliarán por los subsecretarios, directores generales, directores, coordinadores, subdirectores, jefes de departamento y por los demás servidores públicos que se establezcan en el Reglamento Interior respectivo y otras disposiciones legales aplicables
 
 ###### Artículo 18.
 
@@ -181,29 +191,21 @@ X. La Secretaría de Salud;
 
 XI. La Oficialía Mayor;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 XII. La Procuraduría General de Justicia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 XIII. La Secretaría de Seguridad Ciudadana;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 XIV. La Secretaría de la Juventud; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2015)</small>
-
-XV. La Secretaría de Desarrollo Social.
+XV. La Oficina de la Gubernatura.
 
 ###### Artículo 20.
 
@@ -989,49 +991,43 @@ XIX. Generar la información estadística desagregada del sector juvenil, corres
 
 XX. Las demás que le confieran otras leyes o reglamentos, sin perjuicio de las atribuciones de otras dependencias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA [N. DE E. REFORMADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE MARZO DE 2015)</small>
+### Capítulo Décimo Quinto. De la Oficina de la Gubernatura
 
-### Capítulo Décimo Quinto. De la Secretaría de Desarrollo Social
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 35.
 
-La Secretaría de Desarrollo Social es la dependencia encargada de coordinar, por delegación del Gobernador del Estado, las políticas, programas y acciones del desarrollo social. Le corresponde el despacho de los siguientes asuntos:
+La Oficina de la Gubernatura es la dependencia que coordinará a los órganos adscritos previstos en el artículo 4 de esta Ley, y tendrá por atribuciones las siguientes:
 
-I. Proponer al titular del Poder Ejecutivo del Estado, los lineamientos generales de las políticas públicas estatales, así como los programas y acciones en materia de desarrollo social;
+I. Ejercer la coordinación general del gabinete, entendido como el conjunto de las dependencias que forman la administración pública central;
 
-II. Elaborar los programas de desarrollo social en el Estado, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia, de conformidad con lo establecido en la Ley de Planeación del Estado de Querétaro;
+II. Dar seguimiento y facilitar la ejecución de las instrucciones de coordinación y colaboración que dicte el Gobernador del Estado, en las materias que corresponda, así como a las políticas y programas transversales e intersectoriales en los que participen dos o más dependencias;
 
-III. Promover la celebración de convenios y mecanismos de coordinación con dependencias y entidades del Poder Ejecutivo federal y estatal, así como con las organizaciones legalmente constituidas con el propósito de realizar actividades relacionadas con el bienestar y desarrollo social de la población, sin fines de lucro; y con el sector social de la economía, para la realización de los programas relacionados con el desarrollo social;
+III. Proponer la integración de comisiones intersecretariales u otras formas de organización administrativa que faciliten el trabajo coordinado del gabinete;
 
-IV. Coordinar con la federación y los ayuntamientos, los programas y acciones en materia de desarrollo social;
+IV. Convocar a sesiones de trabajo del gabinete, por instrucción del Gobernador del Estado;
 
-V. Diseñar las reglas de operación para la ejecución anual de los programas, en el ámbito de su competencia;
+V. Coadyuvar en la conducción de la política gubernamental con otras entidades u organismos estatales, federales o municipales;
 
-VI. Promover y fomentar la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de la política pública estatal, de las metas y de los objetivos de los programas de desarrollo social;
+VI. Proponer, ejecutar y dar seguimiento a un sistema de evaluación de indicadores de gestión, a nivel de gabinete, con el apoyo de la Secretaría de la Contraloría;
 
-VII. Proporcionar la información que requiera el Consejo Consultivo Estatal para el Desarrollo Social, para el cumplimiento de sus atribuciones;
+VII. Tener a su cargo la política de relaciones públicas y protocolo del Poder Ejecutivo del Estado;
 
-VIII. Generar, promover y apoyar instrumentos de financiamiento popular y de apoyos a proyectos productivos para el desarrollo social;
+VIII. Coordinar los servicios de asesoría del Poder Ejecutivo del Estado;
 
-IX. Promover y apoyar procesos de educación participativa que faciliten el involucramiento corresponsable de la población en el desarrollo social;
+IX. Brindar el servicio de consejería jurídica para el Gobernador;
 
-X. Implementar los mecanismos de coordinación para ejercer los fondos y recursos federales transferidos o convenidos en materia social, en los términos de las leyes respectivas; así como informar a la Secretaría de Desarrollo Social del Gobierno Federal, sobre el avance y resultados generados con los mismos;
+X. Coordinar las actividades de comunicación social y ejercer la función de vocería en los temas específicos que el Gobernador del Estado determine;
 
-XI. Informar a la Secretaría de Desarrollo Social del Gobierno Federal sobre el ejercicio de los fondos y recursos federales que los ayuntamientos realicen, en los términos de los convenios específicos;
+XI. Atender los asuntos internacionales que indique el titular del Poder Ejecutivo del Estado, con pleno respeto de las atribuciones que correspondan a las autoridades federales en la materia;
 
-XII. Informar a la sociedad sobre las acciones en torno al desarrollo social de la Entidad;
+XII. Fungir como responsable de las oficinas de representación del Estado fuera del territorio de la Entidad; y
 
-XIII. Definir los mecanismos de evaluación de los programas y acciones de desarrollo social;
+XIII. Las demás que el Gobernador del Estado determine, dentro del marco de sus atribuciones constitucionales y legales.
 
-XIV. Promover y fomentar la organización y participación social para acercar programas, servicios y acciones en torno al desarrollo social; y
-
-XV. Las demás que le señalen esta Ley y las disposiciones jurídicas aplicables.
+El funcionamiento de la Oficina de la Gubernatura y de los órganos adscritos a que se refiere el presente artículo, será regulado por la presente Ley, el Reglamento Interior y los acuerdos administrativos que expida el titular del Poder Ejecutivo del Estado, los que tendrán el carácter de obligatorio para toda la administración pública central.
 
 ## TRANSITORIOS
 
@@ -1273,4 +1269,14 @@ P.O. 9 DE SEPTIEMBRE DE 2015.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
-Artículo Segundo. El Poder Ejecutivo del Estado de Querétaro, dispondrá las providencias presupuestales necesarias para garantizar que la nueva Secretaría de Desarrollo Social, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para iniciar sus funciones y desempeñar sus atribuciones a partir del 1 de octubre de 2015.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Segundo. Se autoriza al Poder Ejecutivo del Estado de Querétaro para que, a través de la Secretaría de Planeación y Finanzas, realice los ajustes pertinentes al Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2015, para garantizar que la nueva Secretaría de Desarrollo Social, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para el inicio de sus funciones y el desempeño de sus atribuciones, a partir del 1 de octubre de 2015.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día 1 de octubre de 2015, previa publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se autoriza al titular del Poder Ejecutivo del Estado de Querétaro para que, a través de la Secretaría de Planeación y Finanzas, realice los ajustes pertinentes que garanticen que la Oficina de la Gubernatura, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para el inicio de sus funciones y el desempeño de sus atribuciones, a partir del 1 de octubre de 2015.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
