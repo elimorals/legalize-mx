@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-08-03"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -797,9 +797,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares.
 
-> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 40/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2015)</small>
 
-5. El Centro Auxiliar de la Quinta Región, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa, y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y ocho juzgados de Distrito Auxiliares, siete con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
+5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de Distrito Auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
 
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 1/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE FEBRERO DE 2014)</small>
 
@@ -1870,3 +1870,47 @@ IV. Juzgado Cuarto de Distrito del Centro Auxiliar de la Novena Región.
 V. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
 
 VI. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.”
+
+D.O.F. 29 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se faculta a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, para suspender con toda oportunidad el envío de asuntos a los órganos jurisdiccionales auxiliares que concluyen funciones, así como determinar el returno de los que tengan en existencia, a efecto de que en la fecha señalada para el fin de sus actividades, no cuenten con expedientes pendientes de resolución.
+
+CUARTO. Se reforma el numeral QUINTO, número 5 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“QUINTO. Centros Auxiliares Regionales:
+
+1. a 4. …
+
+5. El Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de Distrito Auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
+
+6. a 11. …
+
+…”.
+
+QUINTO. Se reforma el numeral PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Del Acuerdo General 52/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Quinta Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+“PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Quinta Región, conformado por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno con sede en Los Mochis, Sinaloa, y uno con residencia en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y seis juzgados de distrito auxiliares, cinco con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación será la siguiente:
+
+…
+
+Los juzgados de Distrito se denominarán:
+
+Juzgado Primero de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Segundo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán Sinaloa.
+
+Juzgado Tercero de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Cuarto de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Quinto de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa.
+
+El Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, tendrá competencia mixta y jurisdicción territorial en el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+
+…”.
