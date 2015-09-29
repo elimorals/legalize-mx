@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-social-del-estado-de-queretaro-107069"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-27"
-last_updated: "2015-09-09"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERETARO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL 1 DE OCTUBRE DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2015.
 
@@ -879,7 +879,9 @@ Para la resolución de las controversias que se susciten con motivo de la aplica
 
 Artículo Primero. La presente Ley entrará en vigor a partir del 1 de octubre de 2015.
 
-Artículo Segundo. Una vez que entre en vigor la presente Ley, el titular del Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia, deberán expedir las disposiciones reglamentarias correspondientes en un término de sesenta días.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Artículo Segundo. Se autoriza al Poder Ejecutivo del Estado de Querétaro para que, a través de la Secretaría de Planeación y Finanzas, realice los ajustes pertinentes al Decreto de Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2015, para garantizar que la nueva Secretaría de Desarrollo Social, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para el inicio de sus funciones y el desempeño de sus atribuciones, a partir del 1 de octubre de 2015.
 
 Artículo Tercero. El Consejo Consultivo Estatal para el Desarrollo Social deberá quedar integrado en un plazo de noventa días, contados a partir de la entrada en vigor de esta Ley. En el mismo plazo deberá iniciar sus funciones el Sistema Estatal de Desarrollo Social y el Padrón Estatal de Beneficiarios de Programas de Desarrollo Social deberá integrarse dentro de los sesenta días siguientes al inicio de funciones del Sistema.
 
@@ -932,3 +934,11 @@ P.O. 9 DE SEPTIEMBRE DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. El Poder Ejecutivo del Estado de Querétaro, dispondrá las providencias presupuestales necesarias para garantizar que la nueva Secretaría de Desarrollo Social, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para iniciar sus funciones y desempeñar sus atribuciones a partir del 1 de octubre de 2015.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día 1 de octubre de 2015, previa publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se autoriza al titular del Poder Ejecutivo del Estado de Querétaro para que, a través de la Secretaría de Planeación y Finanzas, realice los ajustes pertinentes que garanticen que la Oficina de la Gubernatura, cuente con los recursos humanos, materiales y financieros necesarios y suficientes para el inicio de sus funciones y el desempeño de sus atribuciones, a partir del 1 de octubre de 2015.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
