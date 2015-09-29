@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-migrantes-y-sus-familias-del-estado-de-michoacan-815
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2013-01-28"
+last_updated: "2015-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sexta Sección al Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -173,6 +173,50 @@ X. Promocionar la inversión de los migrantes y sus familias en proyectos y prog
 
 XI. Los demás que contribuyan al mejoramiento de las mismas en beneficio de los migrantes y sus familias.
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Considerar en el Plan Estatal de Desarrollo las políticas públicas enfocadas en la migración de retorno;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Generar las condiciones para la reintegración social, laboral, educativa y cultural de los migrantes en retorno, que les permitan realizarse como individuos, y contribuir al mejoramiento de las condiciones de vida de sus familiares y comunidades de origen;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. Dar acceso a la población migrante en retorno a los servicios básicos de salud, educación, seguridad, y demás servicios necesarios para garantizar su vida, dignidad humana y desarrollo social;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XV. Garantizar la reinserción escolar de menores, jóvenes y adultos migrantes en retorno en la educación básica y media superior de manera gratuita;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Garantizar el acceso a la identidad, a la documentación de la población del Estado que reside en el exterior, así como facilitar y acercar los servicios de registro civil a los migrantes en retorno en el extranjero;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Proveer protección y apoyo con documentación, traslado, alimentación, albergue, salud, reinserción educativa, atención psicológica, seguridad y protección a su integridad física, a los menores que emigran por causas de pérdidas de sus progenitores, violencia intrafamiliar, violencia en su comunidad, agresión y explotación sexual;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Promover mecanismos de reunificación familiar y procesos de custodia para aquellos menores cuyos padres hayan emigrado indocumentadamente a los Estados Unidos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Garantizar y apoyar el retorno de los migrantes que regresan de forma forzada, estableciendo módulos de repatriación o recepción de migrantes que regresan en zonas con alto volumen de retorno en el Estado;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XX. Capacitar, otorgar becas de capacitación a los migrantes en retorno en los diferentes programas que ofrece el Estado para generar empleos;
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXI. Garantizar la reintegración exitosa de los migrantes de retorno a la vida laboral del Estado; y,
+
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXII. Las demás que contribuyan al mejoramiento de las condiciones de vida de los migrantes y sus familias en retorno.
+
 ###### ARTÍCULO 7.
 
 Los poderes públicos deberán planear, operar y dar seguimiento de las acciones encaminadas a garantizar los derechos de los migrantes y sus familias.
@@ -213,6 +257,10 @@ I. Promover y garantizar los derechos humanos de los migrantes y sus familias de
 
 II. Generar, promover, implementar y evaluar las políticas públicas para los migrantes y sus familias a fin de garantizar su desarrollo humano con dignidad, particularmente de aquellos en condición de vulnerabilidad y el impulso a una nueva valoración y respeto a la condición de migrante;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+II Bis. Crear programas que tengan como finalidad la desmitificación criminal del migrante en retorno, así como grupos de apoyo para facilitar su acceso a psicólogos y otros especialistas en su proceso de readaptación a sus comunidades;
+
 III. Reconocer, promover y difundir en coordinación con las instancias competentes, el conocimiento de la historia y tradiciones dentro y fuera del Estado, a efecto de que se fortalezcan las relaciones culturales y de arraigo entre los migrantes y sus familias;
 
 IV. Promover, ejecutar y apoyar, en coordinación con las autoridades competentes, programas y proyectos de inversión, que coadyuven a la seguridad y estabilidad económica, a la generación de empleos bien remunerados, para el desarrollo sustentable de los migrantes y sus familias;
@@ -229,9 +277,9 @@ IX. Promover y mejorar los vínculos con los michoacanos radicados fuera del Est
 
 X. Elaborar y mantener actualizada una relación de las organizaciones de migrantes michoacanos en el extranjero, así como establecer un sistema de información y estudios, que permitan la identificación de las necesidades del fenómeno migratorio, en coordinación con las autoridades competentes;
 
-> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-X Bis. Integrar y actualizar el Registro de Migrantes en el Estado de Michoacán de Ocampo;
+X Bis. Integrar y actualizar el Registro de Migrantes, migrantes en retorno y repatriados en el Estado de Michoacán de Ocampo;
 
 XI. Proponer al Gobernador las iniciativas de ley o los ordenamientos normativos secundarios, relativos a los migrantes y a sus derechos, a fin de promover condiciones regulatorias propicias para impulsar políticas públicas en la materia;
 
@@ -804,3 +852,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento, efectos conducentes y publicación respectiva.
 
 TERCERO. Para efecto de su conocimiento y cumplimiento comuníquese a los 113 ciento trece ayuntamientos del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá adecuar el Reglamento de la Ley de los Migrantes y sus Familias del Estado de Michoacán de Ocampo, a las presentes reformas y adiciones en un plazo de sesenta días naturales.
