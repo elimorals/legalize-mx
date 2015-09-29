@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-social-para-el-estado-de-jalisco-42228"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-25"
-last_updated: "2015-04-21"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE ABRIL DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Jalisco, el sábado 25 de diciembre de 2004.
 
@@ -49,13 +47,17 @@ LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE JALISCO
 
 La presente ley es de interés social, orden público y observancia general en el Estado de Jalisco y tiene por objeto:
 
-I. Fomentar el desarrollo humano, reconocer los derechos sociales y crear los mecanismos necesarios para lograr su cabal cumplimiento;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+I. Fomentar el desarrollo social, reconocer los derechos sociales y crear los mecanismos necesarios para lograr su cabal cumplimiento;
 
 II. Coordinar y armonizar la política estatal y municipal de desarrollo social, en el marco de la Política Nacional de Desarrollo Social;
 
 III. Establecer las bases y principios generales para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social;
 
-IV. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a la equidad y la justicia;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los municipios, así como su eficiente aplicación con apego a los principios de las políticas públicas de desarrollo social contenidos en la Ley General de Desarrollo Social y esta Ley;
 
 V. Impulsar la participación ciudadana, abriendo espacios para que la sociedad coadyuve con la Política Estatal en materia de Desarrollo Social;
 
@@ -63,7 +65,9 @@ VI. Establecer los criterios de coordinación de las acciones que se realicen en
 
 VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado;
 
-VIII. Crear y regular el Consejo Estatal para el Desarrollo Social y la Comisión de Desarrollo Social;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VIII. Crear y regular el Consejo Estatal para el Desarrollo Social y la Comisión para el Desarrollo Social;
 
 IX. Regular las atribuciones del Gobierno del Estado y los Municipios que en materia de desarrollo social otorga la Ley General de Desarrollo Social; y
 
@@ -73,27 +77,37 @@ X. Crear mecanismos de evaluación y seguimiento para vigilar que los recursos p
 
 La aplicación de la presente ley corresponde a las dependencias, organismos y entidades del Gobierno del Estado y de los Municipios en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria, en lo conducente y en el siguiente orden:
+Para los efectos previstos en esta ley, se aplicará en forma supletoria:
 
 I. La Ley General de Desarrollo Social;
 
-II. La Ley la de Planeación para el Estado de Jalisco y sus Municipios;
+II. La Ley de Planeación para el Estado de Jalisco y sus Municipios;
 
 III. El Código de Asistencia Social del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
-
 IV. El Código Civil para el Estado de Jalisco;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+V. La Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
 
-V. La Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios; y
+VI. Legislación general y estatal de los derechos de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+VII. Ley Estatal para la Igualdad entre Mujeres y Hombres;
 
-VI. las demás leyes aplicables.
+VIII. Ley para el Desarrollo Integral del Adulto Mayor;
+
+IX. Legislación para la inclusión y desarrollo integral de las personas con discapacidad;
+
+X. Ley sobre los Derechos y el Desarrollo de los Pueblos y las Comunidades Indígenas;
+
+XI. La legislación general y estatal en materia de discriminación; y
+
+XII. Las demás leyes aplicables.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 4.
 
@@ -105,43 +119,47 @@ II. Consejo: El Consejo Estatal para el Desarrollo Social;
 
 III. Comisión: La Comisión para el Desarrollo Social;
 
-IV. Desarrollo Social: Es un proceso de crecimiento integral, para el mejoramiento de las condiciones de vida de la población a través de la obtención (sic) habilidades y virtudes, así como la creación de oportunidades sociales, la erradicación de la desigualdad, la exclusión e inequidad social entre los individuos y grupos, con el fin de lograr su incorporación plena a la vida económica, social y cultural.
+IV. Desarrollo Social: Es el proceso mediante el cual se amplían las capacidades de las personas para elegir y desarrollar libremente sus proyectos de vida; permitiendo a cada persona extender sus potencialidades en el marco de igualdad de oportunidades sociales para todos. Las personas son concebidas como actores del desarrollo, dado que el ejercicio de su libertad implica la participación activa en la mejora de su calidad de vida en lo individual y de su grupo social, en un pleno ejercicio de su voluntad;
 
-V. Grupos Sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impide alcanzar mejores niveles de vida, por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar;
+V. Grupos sociales en condición de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan condiciones de riesgo, discriminación o exclusión social que les impide alcanzar mejores niveles de vida, a quienes deberá garantizarse la atención e inversión del Gobierno para lograr su bienestar conforme a la Política Estatal de Desarrollo Social;
 
-> <small>(REFORMADA [POR DECRETO 24933/LX/14], P.O. 9 DE AGOSTO DE 2014)</small>
+VI. Formato de padrón único: Cuestionario que se utiliza como instrumento de recolección de datos de los beneficiarios de programas de desarrollo social;
 
-VI. Secretaría: La Secretaría de Desarrollo e Integración Social del Gobierno del Estado de Jalisco; y
+VII. Organizaciones: Agrupaciones civiles, sociales y asistenciales, legalmente constituidas, en las que participen personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social;
 
-VII. Organizaciones: Agrupaciones civiles, sociales y asistenciales, legalmente constituidas, en las que participen personas o grupos sociales con el propósito de realizar actividades relacionadas con el desarrollo social.
+VIII. Padrón único de beneficiarios: Sistema de información que integra y organiza datos sobre los beneficiarios o personas que reciben apoyos de programas de desarrollo social, a cargo de las diferentes dependencias y organismos de la administración estatal y municipal;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+IX. Programa de desarrollo social: Es la intervención pública directa que, mediante un conjunto sistemático y articulado de acciones vinculados a las políticas de desarrollo social, busca contribuir a la materialización y goce progresivo de los derechos sociales o el bienestar económico de las personas y grupos sociales en condición de vulnerabilidad, mediante la distribución de recursos, la provisión de servicios, el otorgamiento de subsidios y la construcción y operación de infraestructura social;
 
-VIII. Padrón Único de Beneficiarios: Sistema de información que integra y organiza datos sobre los beneficiarios o personas que reciben apoyos de programas de desarrollo social, a cargo de las diferentes dependencias y organismos de la administración estatal o municipal; y
+X. Reglas de operación: Son las normas, lineamientos y mecanismos, establecidos por las secretarías, que rigen a cada uno de los programas de desarrollo social, mediante los cuales se organizan sus distintas etapas o fases de instrumentación en el corto plazo; así como su difusión, y que resumen la planificación anual de los medios, acciones y metas, así como los indicadores correspondientes, para avanzar en el cumplimiento de los objetivos estratégicos de dichos programas; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+XI. Secretaría: La Secretaría de Desarrollo e Integración Social del Gobierno del Estado de Jalisco.
 
-IX. Formato de Padrón Único: Cuestionario que se utiliza como instrumento de recolección de datos de los beneficiarios de programas de desarrollo social.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
 
-Todos los programas de desarrollo humano que implementen u operen el Gobierno del Estado o los Municipios y que impulsen el cumplimiento de los derechos sociales, se considerarán como de desarrollo social. De igual forma, los fondos, recursos, partidas, rubros o presupuesto, cuyo fin sea generar desarrollo humano y garantizar el cumplimiento de los derechos sociales en el Estado, se tendrán como de desarrollo social.
+Todos los programas de desarrollo que implementen u operen el Gobierno del Estado o los Municipios con el fin de garantizar los derechos sociales, se considerarán de desarrollo social.
 
 ### Capítulo II. De los Principios Rectores
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-Además de los previstos en el artículo 3 de la Ley General de Desarrollo Social, serán principios rectores en la observancia, interpretación y aplicación de esta ley, los siguientes:
+Son principios rectores en la observancia, interpretación y aplicación de la política de desarrollo social, además de los contenidos en el artículo 3 de la Ley General, los siguientes:
 
-I. El desarrollo integral del ser humano, por lo que las políticas públicas en materia de desarrollo social, brindarán las oportunidades necesarias a fin de que el ciudadano despliegue sus habilidades y virtudes para acceder a una mejor calidad de vida;
+I. Desarrollo integral de la persona: a través de políticas públicas de desarrollo social se le brindarán las oportunidades necesarias a fin de que ésta despliegue sus potencialidades y capacidades para acceder a una mejor calidad de vida;
 
-II. La Subsidiariedad, que es un valor que permite a una entidad o ciudadano en mejores circunstancias que otro, ayudar a que este último supere su situación y pueda encontrar desarrollo integral;
+II. Igualdad y el respeto a la dignidad de la persona;
 
-III. La igualdad y el respeto a la dignidad de la persona, en razón de las cuales los programas de desarrollo social se aplicarán con equidad, justicia e igualdad;
+III. Respeto por la familia: fomentará el desarrollo armónico de la familia, procurando que ésta, en conjunto con todos sus miembros, supere su situación y acceda a mejores condiciones de vida;
 
-IV. El respeto por la familia, se fomentará el desarrollo armónico de la familia, procurando que ésta, en conjunto con todos sus miembros, supere su situación y acceda a mejores condiciones de vida; y
+IV. Corresponsabilidad: responsabilidad compartida entre gobierno y sociedad, para que los beneficiarios se asuman como sujetos de su propia transformación, a través de la participación activa y permanente en actividades vinculadas a los programas de desarrollo social, que coadyuven al fortalecimiento de sus capacidades y el desarrollo de nuevas habilidades;
 
-V. La Corresponsabilidad, es la responsabilidad compartida entre gobierno y sociedad.
+V. Buena fe: la información y documentación que aportan las personas para acreditar que cumplen con los requisitos y criterios necesarios para acreditar su condición de vulnerabilidad y ser beneficiarios de los programas de desarrollo social; y
+
+VI. Transversalidad: en el ejercicio de las políticas públicas de las instituciones públicas con la participación de los tres órdenes de gobierno.
 
 ## TITULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
@@ -157,21 +175,39 @@ II. El derecho a la educación;
 
 III. El derecho a la alimentación y nutrición adecuada;
 
-IV. El derecho a vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. El derecho a vivienda digna y decorosa y, el acceso a los servicios básicos;
 
 V. El derecho a un medio ambiente sano;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 VI. El derecho al trabajo y la seguridad social;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-VII. El derecho a la equidad y la igualdad; y
+VII. El derecho a la no discriminación;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-VIII. El derecho a recibir apoyo al transporte para estudiantes de los niveles de educación secundaria, media superior y superior, adultos mayores y personas con discapacidad.
+VIII. El derecho a recibir apoyo al transporte para estudiantes de los niveles de educación secundaria, media superior y superior, adultos mayores y personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IX. El derecho a la cultura;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+X. El derecho a la recreación y el esparcimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XI. El derecho a la cohesión social y la vida comunitaria; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XII. El derecho a la libre determinación de los pueblos indígenas y sus comunidades.
 
 ###### Artículo 8.
 
@@ -183,9 +219,11 @@ El Gobierno del Estado y los Gobiernos Municipales, deberán cumplir y hacer cum
 
 Toda persona tiene derecho a ser beneficiada por los programas de desarrollo social y formar parte en los consejos de participación ciudadana que tenga que ver con el desarrollo social, siempre y cuando cumpla con los requisitos que para el caso se señalen en las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-Los ciudadanos que formen parte de algún grupo social en situación de vulnerabilidad tienen derecho a recibir los apoyos necesarios para superar su situación y contar con mejor calidad de vida.
+Las personas que formen parte de algún grupo social en condición de vulnerabilidad tienen derecho a recibir los apoyos necesarios para superar su situación y contar con mejor calidad de vida.
 
 ###### Artículo 11.
 
@@ -197,7 +235,9 @@ II. Ser tratados con respeto, dignidad y atendidos con calidad;
 
 III. Contar con la información necesaria de los programas, y conocer sus reglas de operación y forma de acceder a los mismos;
 
-IV. A la reserva de los datos e información de carácter personal que proporcionen;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Al tratamiento de los datos e información de carácter personal que proporcionen, en términos de la Ley de Transparencia y Acceso a la Información Publica del Estado de Jalisco y sus Municipios y demás disposiciones aplicables.
 
 V. Recibir asesoría para alcanzar su desarrollo integral;
 
@@ -207,9 +247,17 @@ VII. Denunciar ante la Secretaría cualquier incumplimiento de los objetivos y l
 
 VIII. Las demás que establezcan los planes y programas de desarrollo social, así como otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 11 Bis.
+
+Los beneficiarios de los programas de desarrollo social tienen la obligación de cumplir con los requisitos y procesos que se establezcan en las reglas de operación que se emitan para la ejecución de cada programa de desarrollo social, y las autoridades son responsables de la vigilancia del cumplimiento de dicha obligación.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
-Los beneficiarios deberán proporcionar la información socioeconómica y general que les soliciten las autoridades, de conformidad con las reglas de operación de los programas sociales y cumplir con las (sic) normatividad que se señale.
+Para ser beneficiario de los programas de desarrollo social, los solicitantes, deberán proporcionar de forma veraz y oportuna, la documentación e información que les soliciten las autoridades, bajo el principio de buena fe, de conformidad con las reglas de operación de los programas de desarrollo social.
 
 ## TITULO TERCERO. DE LAS AUTORIDADES RESPONSABLES
 
@@ -227,7 +275,9 @@ I. Coordinar el Sistema de Desarrollo Social del Estado;
 
 II. Operar y coordinar los trabajos del Consejo y de la Comisión;
 
-III. Formular y ejecutar el programa estatal de desarrollo social como parte de Plan Estatal de Desarrollo y cumpliendo con las disposiciones que esta ley señala;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Formular y ejecutar el programa sectorial de desarrollo e integración social como parte del Plan Estatal de Desarrollo y cumpliendo con las disposiciones que esta ley señala;
 
 IV. Participar en el Sistema Nacional de Desarrollo Social, en los términos que señala la Ley General de Desarrollo Social;
 
@@ -243,21 +293,33 @@ IX. Ejercer fondos y recursos federales descentralizados o convenidos en materia
 
 X. Informar a la sociedad sobre las acciones en torno al desarrollo social;
 
-XI. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Fomentar la participación de instituciones académicas y de investigación en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
+XI. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, oportunidad, transparencia y equidad;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XII. Fomentar la participación de instituciones académicas, sociales y de investigación, en la planeación, ejecución, supervisión y evaluación de la Política Estatal de Desarrollo Social;
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
 XIII. Incluir anualmente en el Proyecto de Presupuesto de Egresos del Estado, los recursos necesarios para la ejecución y cumplimiento de las metas y objetivos del Programa Estatal de Desarrollo Social;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XIV. Integrar, supervisar y coordinar el Padrón Único de Beneficiarios; y
+XIV. Integrar, supervisar y coordinar el Padrón Único de Beneficiarios;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XV. La (sic) demás que señalen la ley y las disposiciones legales aplicables.
+XV. Formar parte de la Comisión Nacional de Desarrollo Social, en los términos de la Ley General de Desarrollo Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. Promover el intercambio de información y acciones de coordinación con los funcionarios responsables del desarrollo social en los municipios, para la creación e implementación de programas de desarrollo social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Las demás que señalen la ley y las disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -291,21 +353,31 @@ XII. Impulsar prioritariamente la prestación de servicios públicos en las comu
 
 ### Capítulo I. De la Política Estatal de Desarrollo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-La Política Estatal de Desarrollo Social comprende los programas, acciones, directrices, líneas de acción y convenios que establezca el Gobierno del Estado por medio de la Secretaría, encaminados a impulsar el desarrollo social en el Estado y tendrá los siguientes objetivos:
+La Política Estatal de Desarrollo Social comprende los programas, acciones, directrices, líneas de acción y convenios que establezca bajo los criterios de integralidad y transversalidad el Gobierno del Estado por medio de la Secretaría, encaminados a impulsar el desarrollo social en el Estado y tendrá los siguientes objetivos:
 
 I. Generar oportunidades de desarrollo integral, con equidad y procurando las mejores condiciones de vida para los habitantes del Estado;
 
-II. Implementar los programas que sean necesarios para garantizar el respeto de los derechos sociales;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-III. Impulsar esquemas que fomenten el empleo, el auto empleo, el cooperativismo y las empresas sociales;
+II. Implementar de manera transversal los programas que sean necesarios para la ejecución de las políticas públicas de desarrollo social para garantizar el respeto de los derechos económicos y sociales, individuales o colectivos;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Impulsar esquemas que fomenten el empleo y la conservación del mismo, el auto empleo, el cooperativismo y las empresas sociales, los cuales eleven el nivel de ingreso y mejore su distribución;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 IV. Fomentar el desarrollo regional, de las micro-regiones y de las cadenas productivas, así como el de las Zonas de Atención Prioritaria;
 
-V. Establecer programas especializados para atender todos los grupos sociales en situación de vulnerabilidad; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-VI Asegurar y fomentar la participación ciudadana en la planeación, instrumentación y evaluación de la Política Estatal de Desarrollo Social.
+V. Diseñar y ejecutar programas transversales de desarrollo social con enfoque antidiscriminatorio, a los cuales puedan acceder en igualdad de oportunidades las personas pertenecientes a los grupos sociales en condición de vulnerabilidad que les permita la inclusión e integración social, así como la superación de la condición de riesgo, discriminación y la exclusión social; y
+
+VI. Asegurar y fomentar la participación ciudadana en la planeación, instrumentación y evaluación de la Política Estatal de Desarrollo Social.
 
 ### Capítulo II. De la Política Municipal de Desarrollo Social
 
@@ -317,6 +389,10 @@ La Política Municipal de Desarrollo Social tendrá los mismos objetivos que se 
 
 El Gobierno del Estado y los Municipios deberán convenir acciones y destinar recursos para la ejecución de programas de desarrollo social en las áreas o regiones que sean declarados Zonas de Atención Prioritaria por la Cámara de Diputados del Congreso de la Unión, contando siempre con la intervención que, en su caso, corresponda a la Secretaría de Desarrollo Social del Gobierno Federal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+La Secretaría promoverá la suscripción de convenios de coordinación con los municipios, a fin de coordinar sus acciones de desarrollo social, compartiendo la información relevante para la eficiencia en la creación e implementación de los programas de desarrollo social de ambos niveles de gobierno.
+
 ## TITULO QUINTO. DE LA PLANEACION DEL DESARROLLO SOCIAL EN EL ESTADO
 
 ### Capítulo Único. De la Planeación del Desarrollo Social en el Estado
@@ -325,9 +401,11 @@ El Gobierno del Estado y los Municipios deberán convenir acciones y destinar re
 
 La planeación es el proceso por el cual se fijarán los objetivos, estrategias, metas, indicadores y evaluaciones mediante las cuales se llevará el adecuado funcionamiento de la Política Estatal de Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 20.
 
-La planeación del desarrollo social en el Estado, estará a cargo del Poder Ejecutivo del Estado a través de la Comisión de Planeación para el Desarrollo del Estado de Jalisco, y de la Secretaría y deberá estar en concordancia con la Política Nacional de Desarrollo Social y, de conformidad con las disposiciones contenidas en la Ley de Planeación para el Estado de Jalisco y sus Municipios y se establecerá dentro del Plan Estatal de Desarrollo.
+La planeación del desarrollo social en el Estado, estará a cargo del Poder Ejecutivo del Estado a través de la (sic) Comité de Planeación para el Desarrollo del Estado de Jalisco, y de la Secretaría y deberá estar en concordancia con la Política Nacional de Desarrollo Social y, de conformidad con las disposiciones contenidas en la Ley de Planeación para el Estado de Jalisco y sus Municipios y se establecerá dentro del Plan Estatal de Desarrollo.
 
 ###### Artículo 21.
 
@@ -343,15 +421,19 @@ La planeación se concretará a través del Programa Estatal de Desarrollo Socia
 
 En la planeación del Desarrollo Social Estatal y Municipal, deberán tomarse en cuenta los datos e indicadores que se contengan en el Sistema de Investigación e Información para el Desarrollo Social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-Dentro del Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo existirá un apartado para el plan sectorial para el desarrollo social que contendrá, lo siguiente:
+Dentro del Plan Estatal de Desarrollo y los planes municipales de desarrollo existirá un apartado para el programa sectorial de desarrollo e integración social que contendrá lo siguiente:
 
 I. El diagnóstico del desarrollo social y de la situación económica así como de los índices de pobreza en el Estado o en el municipio, considerando factores de sexo, edad y entorno socioeconómico;
 
 II. Los programas de desarrollo social que se tiene planeado implementar;
 
-III. Los programas operativos anuales, en lo (sic) cuales quedarán asentados los métodos, formas y líneas de acción para la aplicación de los programas de desarrollo social;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+III. Las matrices de indicadores de resultados, en las cuales se especificará el nombre del programa, su contribución a los fines del Plan Estatal de Desarrollo y a los Planes Sectoriales, los componentes que harán posible cumplir con el propósito del programa, las actividades, así como los indicadores, supuestos de cada uno de ellos y los recursos asignados para el ejercicio respectivo;
 
 IV. Los esquemas de atención para los grupos sociales en situación de vulnerabilidad;
 
@@ -359,9 +441,21 @@ V. Las metas y objetivos que se pretende alcanzar en el corto, mediano y largo p
 
 VI. Los criterios y estrategias de colaboración y corresponsabilidad con la sociedad y las organizaciones;
 
-VII. Las prioridades en materia de Desarrollo Social, así como, las condiciones mínimas aceptables en las áreas de educación, salud, nutrición e infraestructura social básica, que requieren los habitantes del Estado; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VII. Las prioridades en materia de desarrollo social, así como las condiciones mínimas aceptables en las áreas de educación, salud, seguridad alimentaria e infraestructura social básica, que requieren los habitantes del Estado; y
 
 VIII. Los demás puntos que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 23 Bis.
+
+La creación de programas de desarrollo social en la entidad, así como el rediseño de los ya existentes, estarán sujetos al diagnóstico y justificación de su creación o, en su caso, modificación, si esta última fuere significativa.
+
+La integración del diagnóstico y la justificación, así como otros elementos técnicos que se consideren necesarios, deberán regirse por los lineamientos que para tal efecto emita la Secretaría.
+
+Para efectos de la expedición de los lineamientos previstos en este artículo, la Secretaría se coordinará con la Secretaría de Planeación, Administración y Finanzas.
 
 ###### Artículo 24.
 
@@ -375,17 +469,69 @@ En los Planes Regionales de Desarrollo que se formulen, siempre deberán incluir
 
 ### Capítulo Único. De la Difusión de los Programas de Desarrollo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
-El Gobierno del Estado en un plazo máximo de 30 días a partir de la aprobación de su presupuesto de egresos, deberá elaborar y publicar en el Diario Oficial "El Estado de Jalisco", así como en su pagina electrónica, las reglas de operación de los programas de desarrollo social estatales, así como, la distribución que se haga de los recursos federales a Municipios para el desarrollo social.
+El Gobierno del Estado a más tardar el 31 de marzo de cada año, deberá elaborar y publicar en el Periódico Oficial "El Estado de Jalisco", así como en el sitio oficial en internet, las reglas de operación de los programas de desarrollo social estatales, así como, la distribución que se haga de los recursos federales a Municipios para el desarrollo social.
 
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2008)</small>
 
 En un plazo de cinco días a partir de la publicación, la Secretaría deberá remitir a los ayuntamientos los documentos que contengan la información citada en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-Los Municipios en el mismo plazo que señala el artículo anterior, deberán publicar en su gaceta municipal u órgano oficial de difusión, los programas de desarrollo social de los que puedan ser beneficiados sus habitantes, así como el monto y la distribución de los recursos que les fueron entregados para la implementación de estos programas. En caso de que no se cuente con gaceta municipal, la publicación se hará en los estrados de la Presidencia Municipal.
+Los municipios, en el mismo plazo al señalado en el segundo párrafo del artículo anterior, deberán elaborar y publicar en su gaceta municipal u órgano oficial de difusión, las reglas de operación de los programas de desarrollo social municipales que vayan a implementar, así como los programas de desarrollo social estatales y federales de los que puedan ser beneficiados sus habitantes y los montos y distribución de los recursos que les fueron entregados para la implementación de estos programas. En caso de que no se cuente con gaceta municipal, la publicación se hará en los estrados de la Presidencia Municipal.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 27 Bis.
+
+Además de lo que se señale en el decreto de presupuesto de egresos de cada ejercicio fiscal, las reglas de operación que formule el Gobierno del Estado y, en su caso, los municipios, deberán contener cuando menos:
+
+I. Nombre del programa;
+
+II. Marco jurídico;
+
+III. Dependencia responsable;
+
+IV. Presupuesto a ejercer;
+
+V. Objetivos;
+
+VI. Problema público que atiende;
+
+VII. Cobertura geográfica;
+
+VIII. Población o grupo objetivo;
+
+IX. Tipos de apoyo;
+
+X. Montos y topes máximos;
+
+XI. Criterios de elegibilidad y requisitos;
+
+XII. Criterios de selección;
+
+XIII. Derechos y obligaciones de los beneficiarios;
+
+XIV. Causales de baja y procedimiento de baja;
+
+XV. Instrumentación del programa;
+
+XVI. Medidas de comprobación del gasto del recurso;
+
+XVII. Mecanismos de verificación de resultados;
+
+XVIII. Indicadores de seguimiento;
+
+XIX. Medidas de transparencia y rendición de cuentas;
+
+XX. Difusión del padrón único de beneficiarios; y
+
+XXI. Mecanismos de participación social y ciudadana.
 
 ###### Artículo 28.
 
@@ -395,9 +541,11 @@ Además de las obligaciones que señalan los artículos anteriores, el Gobierno 
 
 La publicidad e información relativa a los programas de desarrollo social federales, estatales o municipales deberán identificarse con el Escudo Nacional en los términos que señala la ley en la materia y tendrá la siguiente leyenda: "Este programa es público, ajeno a cualquier partido político. Queda prohibido el uso para fines distintos al desarrollo social".
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 30.
 
-Cuando en un municipio exista población indígena, las autoridades municipales deberán difundir en la lengua o dialecto que hablen este grupo de la población, el contenido, las reglas de operación y los beneficios de los programas de desarrollo social que se estén implementando en el Municipio.
+Cuando en un municipio exista población indígena las autoridades municipales deberán difundir el contenido, las reglas de operación y los beneficios de los programas de desarrollo social que se estén implementando en el municipio, en la lengua materna o lenguas indígenas conforme a sus variantes lingüísticas, según el catálogo de lenguas nacionales expedido de conformidad a la Ley General de Derechos Lingüísticos de los Pueblos Indígenas.
 
 ###### Artículo 31.
 
@@ -427,55 +575,23 @@ V. Articular las políticas públicas bajo criterios de complementariedad, integ
 
 VI. Generar información estratégica para el diagnostico, planeación, evaluación, seguimiento y toma de decisiones en materia de políticas públicas para el desarrollo social.
 
-(ADICIONADO, P.O. 9 DE AGOSTO DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 31 Ter.
 
 El Padrón Único de Beneficiarios de Programas Gubernamentales, se implementará a partir de la aplicación del formato de padrón único estandarizado y de aplicación sistemática, que permitirá:
 
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+I. Recabar datos generales e información de los beneficiarios, incluyendo:
 
-I. Recabar datos generales e información de los beneficiarios, tales como:
+a) Nombre;
 
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+b) Domicilio;
 
-a) Perfil socio-demográfico;
+c) Clave única de Registro de Población; y
 
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
+d) Lugar y fecha de nacimiento; y
 
-b) Estructura familiar;
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-c) Salud;
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-d) Ingresos;
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-e) Seguridad alimentaria;
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-f) Condiciones de la vivienda;
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-g) Equipamiento del hogar;
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-h) Redes de apoyo; y
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-í) Uso y acceso a otros apoyos sociales de cada persona que recibe beneficios de programas gubernamentales.
-
-> <small>(F. DE E., P.O. 21 DE ABRIL DE 2015)</small>
-
-Para el desarrollo del formato del padrón único, podrán elegir aquellas variables relacionadas con los aspectos antes mencionados, que resulten pertinentes según las características de sus programas y en la medida de sus posibilidades de integración, cumpliendo con los datos exigidos de transparencia y debiendo incluir en todos los casos la Clave Única de Registro de Población del beneficiario.
+II. Recabar otros datos según se establezca en el formato de padrón único de los programas sociales de la secretaría.
 
 (ADICIONADO, P.O. 9 DE AGOSTO DE 2014) (F. DE E., P.O. 21 DE ABRIL DE 2015)
 
@@ -515,9 +631,13 @@ La información del Padrón Único de Beneficiarios de Programas de Desarrollo S
 
 Las políticas públicas y recursos destinados al desarrollo social son de interés público, y se sujetarán a las disposiciones contenidas en la presente ley.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 33.
 
-El presupuesto estatal y municipal que se destine al gasto social no podrá ser inferior al del año fiscal anterior y deberá incrementarse cuando menos, en la misma proporción en el que se proyecte el crecimiento del producto interno bruto en los Criterios Generales de Política Económica y en congruencia con la disponibilidad de recurso de los ingresos que autorice el Congreso del Estado.
+El presupuesto estatal y municipal que se destine al gasto social se procurará que no sea inferior al del año fiscal anterior y que se incremente conforme al crecimiento del producto interno bruto según los Criterios Generales de Política Económica y en congruencia con la disponibilidad de recursos autorizados por el Congreso del Estado y los ayuntamientos.
+
+Los programas sociales previstos en esta ley o en otros ordenamientos legales, están sujetos a la disponibilidad presupuestal y se ejercerán conforme a lo establecido en las reglas de operación correspondientes para cada ejercicio fiscal.
 
 ###### Artículo 34.
 
@@ -583,9 +703,11 @@ La Secretaría coordinará al Sistema Estatal de Desarrollo Social.
 
 ### Capítulo II. Del Consejo Estatal para el Desarrollo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 42.
 
-El Consejo es un órgano consultivo del Gobierno del Estado, de participación ciudadana y que coadyuvará en la planeación, instrumentación y evaluación de la Política Estatal de Desarrollo Social, será permanente y estará integrado por los siguientes miembros:
+El Consejo es un órgano consultivo del Gobierno del Estado, de participación ciudadana y que coadyuvará en la planeación participativa de la Política Estatal de Desarrollo Social, será permanente y estará integrado por los siguientes miembros:
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
@@ -621,7 +743,7 @@ II. Realizar estudios sobre los niveles de desarrollo social en el Estado, detec
 
 III. Proponer los criterios, bases y principios para la planeación y articulación de la política estatal en materia de desarrollo social;
 
-IV. Realizar la evaluación anual de la Política Estatal de Desarrollo Social;
+IV. (DEROGADA, P.O. 29 DE SEPTIEMBRE DE 2015)
 
 V. Verificar que se esté cumpliendo con las (sic) objetivos y metas fijadas en los programas de desarrollo social en los que participe el Gobierno del Estado y los Municipios;
 
@@ -661,9 +783,11 @@ Los Municipios podrán constituir Consejos Municipales de Desarrollo Social de a
 
 ### Capítulo III. De la Comisión para el Desarrollo Social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 49.
 
-La Comisión de Desarrollo Social es un organismo interinstitucional de coordinación, apoyo y vinculación entre las distintas dependencias y entidades de la administración pública estatal que tengan atribuciones relacionadas con el desarrollo social.
+La Comisión para el Desarrollo Social es un organismo interinstitucional de coordinación, apoyo y vinculación entre las distintas dependencias y entidades de la administración pública estatal que tengan atribuciones relacionadas con el desarrollo social.
 
 Será presidido por el Titular del Poder Ejecutivo del Estado y se integrará con:
 
@@ -691,13 +815,33 @@ g) Cultura;
 
 h) Sistema Estatal para el Desarrollo Integral de la Familia;
 
-i) Comité de Planeación para el Desarrollo del Estado; y
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-j) Instituto Estatal de las Mujeres;
+i) Secretaría de Planeación, Administración y Finanzas;
 
-k) Instituto Jalisciense de la Juventud; e
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+j) Instituto Jalisciense de las Mujeres;
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+k) Instituto Jalisciense de la Juventud;
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 l) Instituto Jalisciense de Asistencia Social;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+m) Instituto Jalisciense del Adulto Mayor;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+n) Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+ñ) Comisión Estatal Indígena.
 
 III. Tres presidentes municipales de distintas regiones del Estado, elegidos por el titular del Poder Ejecutivo del Estado.
 
@@ -715,7 +859,13 @@ III. Recomendar medidas para que la Política Estatal en materia de desarrollo s
 
 IV. Dar alternativas para tener una mejor coordinación con el Gobierno Federal, Estatal y los Municipios;
 
-V. Presentar propuestas de partidas y montos que se pueden destinar a los programas de Desarrollo Social.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. Presentar propuestas de partidas y montos que se pueden destinar a los programas de desarrollo social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Articular la transversalidad de las políticas públicas de desarrollo social.
 
 ###### Artículo 51.
 
@@ -733,9 +883,17 @@ I. Establecer las formas y requisitos para participar en los consejos consultivo
 
 II. Realizar consultas públicas periódicas para verificar la calidad de los servicios y programas de desarrollo social, así como para captar las propuestas y sugerencias;
 
-III. Establecer programas tendientes a incentivar la participación ciudadana en la Política Estatal de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Los demás que considere necesarios para la promoción de la participación ciudadana.
+III. Establecer programas tendientes a incentivar la participación ciudadana en la Política Estatal de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. Incluir en las reglas de operación que se emitan para cada programa de desarrollo social, la obligación de conformar contralorías sociales en las que participen los ejecutores de los programas y beneficiarios de los mismos, cuyos cargos no serán remunerados, para efectos de retroalimentación y compartir las acciones y resultados alcanzados, así como emitir propuestas orientadas a mejorar los programas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. Lo demás que considere necesario para la promoción de la participación ciudadana.
 
 ###### Artículo 53.
 
@@ -757,71 +915,103 @@ Toda denuncia siempre tendrá una respuesta por escrito. La forma en la que se p
 
 En caso de que la Secretaría reciba una denuncia sobre hechos que no sean de su competencia, esta deberá de remitirla a la autoridad competente para su conocimiento.
 
-## TITULO DECIMO. DEL PROGRAMA DE INVESTIGACION E INFORMACION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-PARA EL DESARROLLO SOCIAL
+## TITULO DECIMO. DEL SISTEMA ESTATAL DE INFORMACION PARA EL DESARROLLO SOCIAL
 
-### Capítulo I. De la Organización del Programa de Investigación e
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-Información para el Desarrollo Social
+### Capítulo I. Del Sistema Estatal de Información para el Desarrollo Social
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 57.
 
-El Programa de Investigación e Información para el Desarrollo Social, es un programa de la Secretaría que tiene por objeto generar los indicadores de desarrollo social, los parámetros de efectividad de los programas estatales en la materia y los estudios necesarios para tener las bases e instrumentos para planear y aplicar eficazmente la Política Estatal de Desarrollo Social.
+El Sistema Estatal de Información para el Desarrollo Social, tiene por objeto generar desde la Secretaría información relevante para el desarrollo social, así como los parámetros de efectividad de los programas estatales en la materia y los estudios necesarios para tener las bases e instrumentos para planear y aplicar eficazmente la Política Estatal de Desarrollo Social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 58.
 
-El Programa de Investigación e Información para el Desarrollo Social deberá contener lo siguiente:
+El Sistema Estatal de Información para el Desarrollo Social deberá contener como mínimo lo siguiente:
 
 I. Los niveles estatales de desarrollo social por municipio y región;
 
 II. Indicadores del desarrollo social nacionales e internacionales que tengan relación con los estatales;
 
-III. Los índices de pobreza y marginación tomando en cuenta factores de sexo, edad y entorno socioeconómico;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-IV. Los resultados de los sondeos de opinión o consultas públicas que tengan relación con el Desarrollo Social;
+III. Los índices de medición multidimensional de la pobreza tomando en cuenta por lo menos los siguientes factores:
 
-V. Los resultados de la evaluación anual que realice el Consejo de los programas de desarrollo social en los que participe el Gobierno del Estado o los Municipios; y
+a) Ingreso corriente per cápita;
+
+b) Rezago educativo promedio en el hogar;
+
+c) Acceso a los servicios de salud;
+
+d) Acceso a la seguridad social;
+
+e) Calidad y espacios de la vivienda;
+
+f) Acceso a los servicios básicos en la vivienda;
+
+g) Acceso a la alimentación;
+
+h) Grado de cohesión social; y
+
+i) Grado de Accesibilidad a carretera pavimentada.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+IV. La retroalimentación y las propuestas de las contralorías sociales o consultas públicas en relación con los programas de desarrollo social;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+V. Los resultados de las evaluaciones que se realicen de los programas de desarrollo social en los que participe el Gobierno del Estado o los Municipios; y
 
 VI. Estudios e investigaciones sobre el desarrollo social en el Estado.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 59.
 
-La información contenida en el Sistema de Investigación e Información para el Desarrollo Social será pública y deberá estar sistematizada.
+La información contenida en el Sistema Estatal de Información para el Desarrollo Social será pública, de fácil acceso para su consulta y análisis, y deberá ser sistematizada.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 60.
 
-La Secretaría realizará las mediciones de la evolución de la pobreza y el desarrollo social en el Estado con una periodicidad anual, con la finalidad de implementar políticas sociales con nuevos conceptos de sustentabilidad y equidad.
+La Secretaría atenderá las mediciones de la evaluación de la pobreza y el desarrollo social en el Estado, que al efecto realice la Secretaría de Planeación, Administración y Finanzas con la finalidad de implementar políticas sociales con nuevos conceptos de sustentabilidad y equidad.
 
 ### Capítulo II. De la Evaluación
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 61.
 
-El Consejo realizará una evaluación anual de la Política Estatal de Desarrollo Social y del funcionamiento del Sistema Estatal de Desarrollo Social. Los resultados de la evaluación deberán darse a conocer en el periódico oficial "El Estado de Jalisco", así como, en la página electrónica del Poder Ejecutivo del Estado de Jalisco.
+Corresponde a la Secretaría de Planeación, Administración y Finanzas, emitir lineamientos respecto a la elaboración, seguimiento y evaluación de las matrices de indicadores para resultados y sus indicadores, para normar la ejecución de las acciones específicas de seguimiento y evaluación de la Política Estatal de Desarrollo Social, de las políticas públicas y de los programas de desarrollo social, en coordinación con los integrantes de la Comisión.
 
-Los Municipios deberán realizar una evaluación anual de los resultados de la política municipal de desarrollo social, debiendo publicar los resultados en su gaceta oficial o en los estrados de la presidencia municipal.
+Para el cumplimiento de este artículo las funciones de monitoreo y evaluación se regirán de conformidad a lo previsto por la Ley General de Desarrollo Social, esta Ley y la Ley de Planeación del Estado de Jalisco y sus Municipios.
+
+La evaluación de la Política Estatal, de las políticas públicas y de los programas de desarrollo social será anual, y se observará lo siguiente:
+
+I. La Secretaría de Planeación, Administración y Finanzas, en coordinación con la Secretaría, deberá presentar ante la Comisión una propuesta de los programas de desarrollo social a evaluarse durante el siguiente ejercicio anual; misma que deberá contemplar nombres de los programas, tipo de evaluación a realizar conforme a los Lineamientos Generales de Monitoreo y Evaluación, y dependencia o entidad que será responsable de coordinar y financiar la realización de cada evaluación;
+
+II. La Comisión podrá emitir sugerencias y recomendaciones al Programa Anual de Evaluación del ejercicio anual que corresponda;
+
+III. Una vez concluidas las evaluaciones, las dependencias y entidades deberán presentar los resultados ante la Comisión, así como las agendas de los aspectos susceptibles de mejora que de esos resultados deriven;
+
+IV. Los resultados de la evaluación y el seguimiento a la agenda de los aspectos susceptibles de mejora derivados de ejercicios de evaluación, deberán estar disponibles públicamente en los sitios oficiales de internet de las dependencias y entidades evaluadas.
+
+Dichas publicaciones deberán incluir los datos del responsable de la ejecución del programa evaluado y del evaluador, así como el costo, el objetivo, la metodología y las recomendaciones derivadas de la evaluación; y
+
+V. Las dependencias y entidades que cuenten con agenda de aspectos susceptibles de mejora derivadas de evaluaciones, deberán informar ante la Comisión los avances en su cumplimiento al menos una vez al año.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 62.
 
-Para realizar la evaluación deberá tomarse en cuenta lo siguiente:
-
-I. Cobertura y número de beneficiarios;
-
-II. Calidad en los servicios;
-
-III. Conocimiento de la población de los programas;
-
-IV. Mejoras en la calidad de vida de las familias;
-
-V. Oportunidad de acceso a los programas;
-
-VI. Disminución de los índices de marginación;
-
-VII. Opinión de los beneficiados; y
-
-VIII. Los que correspondan a los criterios generales del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
-
-Los resultados de la evaluación formarán parte del Programa de Investigación e Información para el Desarrollo Social, se harán públicos y se presentarán ante el Congreso del Estado de Jalisco y la Secretaría de Desarrollo Social del Gobierno Federal.
+Los Lineamientos Generales de Monitoreo y Evaluación previstos en este capítulo, deberán ajustarse a los criterios de evaluación emitidos por el Consejo Nacional de Evaluación de la Política de Desarrollo Social, de conformidad a la Ley General de Desarrollo Social.
 
 ## TITULO DECIMO PRIMERO. DEL INCUMPLIMIENTO
 
@@ -896,3 +1086,7 @@ DECRETO NÚMERO 2933/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4, 42 Y 49 DE L
 P.O. 28 DE MARZO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
