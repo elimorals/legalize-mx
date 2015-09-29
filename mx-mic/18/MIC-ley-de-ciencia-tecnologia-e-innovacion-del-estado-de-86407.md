@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-86407"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-07"
-last_updated: "2012-09-06"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO NÚMERO 557, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, TODAS LAS MENCIONES QUE SE REFIEREN AL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGÍA E INNOVACIÓN, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y DESARROLLO TECNOLÓGICO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 7 de febrero de 2012.
 
@@ -229,7 +231,11 @@ VII. Las organizaciones no gubernamentales, cuyas actividades se relacionen con 
 
 ## TÍTULO III. CONSEJO ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
-### CAPÍTULO I. OBJETIVOS Y ATRIBUCIONES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO POR EL ARTÍCULO OCTAVO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+### CAPÍTULO I
 
 ###### ARTÍCULO 7.
 
@@ -849,7 +855,7 @@ IV. Se dará preferencia a los proyectos que tengan una vocación productiva y d
 
 ###### ARTÍCULO 49.
 
-Una vez que el Consejo defina las líneas de acción en que deberán ser enmarcados los proyectos a ser financiados, el Director General lanzará una convocatoria por cada problemática propuesta que haya sido aprobada por el Consejo, misma que será turnada a los CI e lES, la cual contendrá en sus bases al menos:
+Una vez que el Consejo defina las líneas de acción en que deberán ser enmarcados los proyectos a ser financiados, el Director General lanzará una convocatoria por cada problemática propuesta que haya sido aprobada por el Consejo, misma que será turnada a los CI e IES, la cual contendrá en sus bases al menos:
 
 I. Descripción del Problema a resolver;
 
@@ -911,7 +917,7 @@ j. El proyecto de presupuesto del proyecto.
 
 ###### ARTÍCULO 52.
 
-En caso de que más de un CI o lES se interese por resolver alguna problemática enunciada en las Convocatorias, el Consejo definirá al ganador del proyecto con base en las siguientes preferencias:
+En caso de que más de un CI o IES se interese por resolver alguna problemática enunciada en las Convocatorias, el Consejo definirá al ganador del proyecto con base en las siguientes preferencias:
 
 I. A los CI o IES que tengan su domicilio en el Estado;
 
@@ -1352,3 +1358,73 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LE
 P.O. 6 DE SEPTIEMBRE DE 2012.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Gobernador del Estado para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día 1 de octubre del año 2015, con excepción del artículo 28.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 9 de enero de 2008, con excepción de los artículos 30, 36 y 38 que mantendrán su vigencia hasta el 31 de diciembre de 2015.
+
+Los recursos humanos, materiales y financieros correspondientes a las Secretarías de la Mujer y de los Jóvenes, se transferirán a los organismos que creará el Gobernador del Estado para estos sectores.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado emitirá el Decreto de creación de los organismos rectores de la política pública para la Igualdad Sustantiva y de la Juventud, así como los lineamientos para su operación, en un periodo no mayor a noventa días, contado a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Coordinación de Contraloría se transforma en la Secretaría de Contraloría, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Coordinación de Contraloría, se entenderán referidas a la Secretaría de Contraloría.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Urbanismo y Medio Ambiente, en lo que corresponde a la materia de Urbanismo, pasará a formar parte de la Secretaría de Desarrollo Territorial, Urbano y Movilidad. Por lo que respecta a Medio Ambiente, pasará a la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, por lo que todos sus recursos humanos, materiales y financieros se transferirán a las mencionadas Secretarías, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo, a partir del 1 de enero de 2016.
+
+A partir del 1 de enero de 2016, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Secretaría de Urbanismo y Medio Ambiente, se entenderán referidas a las Secretarías creadas por este Decreto, en el ámbito de sus competencias y atribuciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Desarrollo Rural se transforma en la Secretaría de Desarrollo Rural y Agroalimentario, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Secretaría de Desarrollo Rural, se entenderán referidas a la Secretaría de Desarrollo Rural y Agroalimentario.
+
+###### ARTÍCULO OCTAVO.
+
+Se abroga el Capítulo I del Título III de la Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán y todas las menciones que en ella se refieren al Consejo Estatal de Ciencia y Tecnología e Innovación, se entenderán referidas a la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico.
+
+El Consejo Estatal de Ciencia y Tecnología e Innovación, que hace referencia la Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán se transforma en la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+El Congreso del Estado realizará en un lapso no mayor a ciento veinte días las modificaciones legales en la materia.
+
+###### ARTÍCULO NOVENO.
+
+El Gobernador del Estado cuenta con ciento cincuenta días, contados a partir de la entrada del presente Decreto para que emita el Reglamento respectivo. En tanto, las dependencias y entidades de la Administración Pública Estatal, seguirán aplicando la reglamentación vigente, siempre y cuando no se contraponga a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+En lo correspondiente a lo establecido por el artículo 19 fracción XI de este Decreto, entrará en vigor a partir del 1 de enero de 2017.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las transferencias que por motivo de esta Ley deba realizar el Ejecutivo del Estado de una dependencia o entidad de la Administración Pública Estatal a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a las estructuras organizacionales, programáticas y financieras, a los calendarios financieros y de metas.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, los demás que la dependencia o entidad haya utilizado para los asuntos a su cargo, pasarán a formar parte de la nueva dependencia o entidad, conforme lo previsto en este Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los asuntos que con motivo de esta Ley, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que los venían despachando.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Gobernador del Estado, por conducto de la Secretaría de Gobierno, Secretaría de Finanzas y Administración y la Secretaría de Contraloría, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como activos patrimoniales, en un plazo no mayor de ciento cincuenta días, a partir de la entrada en vigor del presente Decreto.
