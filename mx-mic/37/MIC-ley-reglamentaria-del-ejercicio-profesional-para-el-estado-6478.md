@@ -4,7 +4,7 @@ identifier: "MIC-ley-reglamentaria-del-ejercicio-profesional-para-el-estado-6478
 country: "mx"
 rank: "ley"
 publication_date: "1953-07-13"
-last_updated: "1953-07-13"
+last_updated: "2015-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE MICHOACAN
 
-LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE MICHOACAN
+LEY REGLAMENTARIA DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY PARA EL EJERCICIO PROFESIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado, el 13 de julio de 1953.
 
@@ -646,3 +648,39 @@ Por tanto mando se imprima, publique, circule y observe.
 PALACIO DEL PODER EJECUTIVO. Morelia, Mich., a 13 de julio de 1953.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- GRAL. DAMASO CARDENAS.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. EMILIO ROMERO ESPINOSA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley Reglamentaria del Ejercicio Profesional para el Estado de Michoacán publicada en el Periódico Oficial del Estado el 13 de julio de 1953 y todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado, a través la Dirección de Profesiones del Estado y los colegios de profesionistas reconocidos, tendrán, a partir de la publicación del presente Decreto sesenta días hábiles para la armonización del Reglamento de la presente Ley.
+
+###### ARTICULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado a través de la Secretaría de Educación en el Estado, tendrá, a partir de la publicación del presente Decreto treinta días hábiles a efecto de notificar la presente Ley a todas las instituciones educativas del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Los colegios de profesionistas contemplados en esta Ley tendrán noventas días a partir de la publicación de la misma, para adecuar su Reglamento o estatutos de conformidad con lo estipulado en el presente ordenamiento.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Educación en el Estado tendrá treinta días hábiles a partir de la publicación de la presente Ley, para elevar su Departamento de Profesiones a Dirección de Profesiones.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las autorizaciones otorgadas y vigentes a la fecha de la publicación de esta Ley serán respetadas, y podrán renovarse siempre y cuando cumplan con los requisitos que determine la Dirección.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado, a través de la Dirección, precisará en el presupuesto de egresos en la Unidad Programática Presupuestal correspondiente a cada año fiscal, los recursos necesarios para el fortalecimiento y adecuado funcionamiento de la Dirección. Éste jamás podrá ser menor al presupuesto anterior anual correspondiente, ni reasignado a otras partidas presupuestarias, sin la autorización del Congreso del Estado.
