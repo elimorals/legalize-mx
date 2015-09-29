@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2015-07-31"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -375,7 +375,9 @@ El edificio que alberga al Congreso se denomina Palacio del Poder Legislativo, c
 
 En los actos solemnes se podrá sesionar transitoriamente en lugar distinto a la sede del mismo, previa aprobación de las dos terceras partes de los diputados presentes del Congreso.
 
-Si a juicio de las dos terceras partes de los diputados al Congreso existe imposibilidad de sesionar en el Recinto, por causa grave, se podrá sesionar en un lugar distinto, solicitándolo por escrito al Presidente del Congreso al menos un día antes de que se cite a sesión.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Si a juicio de las dos terceras partes de los diputados asistentes existe imposibilidad de sesionar en el Recinto, por causa grave, se podrá sesionar en un lugar distinto, solicitándolo por escrito al Presidente del Congreso.
 
 ###### ARTÍCULO 26.
 
@@ -1255,6 +1257,10 @@ X. Participar, en representación del Congreso del Estado, cuando así correspon
 
 XI. Analizar las condiciones de discriminación y violencia contra las mujeres, con la finalidad de sustentar el desarrollo de iniciativas y proyectos legislativos tendientes a erradicar las desigualdades de género;
 
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XI bis. Emitir convocatoria pública para el otorgamiento de la condecoración «Michoacanas por Michoacán».
+
 XII. Los que se refieran a iniciativas de leyes de seguridad social, de salud, civiles y penales, para regular derechos y responsabilidades familiares, particularmente con relación a la paternidad; y,
 
 XIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
@@ -1887,7 +1893,9 @@ Para el nombramiento de los titulares de los órganos técnicos, se deben satisf
 
 I. Ser mexicano por nacimiento, y estar en pleno goce de sus derechos;
 
-II. Haber cumplido treinta años de edad;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+II. Haber cumplido veinticinco años de edad, con excepción del Auditor Superior quien deberá tener treinta años cumplidos al inicio de su gestión, conforme lo establece la Ley de Fiscalización Superior para el Estado de Michoacán de Ocampo;
 
 III. Contar con título profesional legalmente expedido en el área afín y acreditar experiencia en la misma; y,
 
@@ -2693,7 +2701,17 @@ Las sesiones que celebra el Congreso son:
 
 I. Ordinarias: las que se efectúen en los días que determine la Ley; y,
 
-II. Extraordinarias: las que se realicen cuando así lo demanden los asuntos a tratar por su urgencia o gravedad, a juicio de la Junta de Coordinación Política, la Mesa Directiva o a petición del Ejecutivo. En estas sesiones el Presidente del Congreso convocará con al menos doce horas de anticipación, y se tratarán exclusivamente las cuestiones señaladas en la convocatoria respectiva teniendo la duración necesaria para desahogarlas.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+II. Extraordinarias: Las que se realicen cuando así lo demanden los asuntos a tratar por su urgencia o gravedad, a juicio de la Junta de Coordinación Política, la Mesa Directiva o a petición del Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+El Presidente del Congreso convocará a sesión extraordinaria con al menos doce horas de anticipación, salvo que la convocatoria se haga en el Pleno antes de la conclusión de otra sesión, en cuyo caso se podrá sesionar al término de la misma.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+En estas sesiones se tratarán exclusivamente las cuestiones señaladas en la convocatoria respectiva teniendo la duración necesaria.
 
 ###### ARTÍCULO 218.
 
@@ -3742,3 +3760,25 @@ Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estad
 Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación, en los términos del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 565 POR EL QUE “SE ADICIONA LA FRACCIÓN XI BIS AL ARTÍCULO 77 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado y al Magistrado Presidente del Supremo Tribunal de Justicia y del Consejo del Poder Judicial del Estado de Michoacán de Ocampo, para su conocimiento y efectos conducentes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los artículos primero, segundo, tercero, cuarto y quinto del presente Decreto entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El artículo sexto del presente Decreto entrará en vigor al momento de su aprobación.
