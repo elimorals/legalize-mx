@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-58641"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-09"
-last_updated: "2012-12-14"
+last_updated: "2015-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCIÓN DE LOS ARTÍCULOS 30, 36 Y 38 QUE MANTENDRÁN SU VIGENCIA HASTA EL 31 DE DICIEMBRE DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el miércoles 9 de enero de 2008.
 
@@ -265,7 +267,7 @@ I. Elaborar y proponer al Gobernador del Estado, los proyectos de leyes, reglame
 
 II. Dictar las políticas, normas y lineamientos relacionados con el manejo de fondos y valores de la Administración Pública Estatal, y custodiar los documentos que constituyan valores, acciones y demás derechos que formen parte del patrimonio del Estado;
 
-IIl. Formular, establecer y actualizar el sistema para el ejercicio presupuestal; asesorar y apoyar a las dependencias y entidades de la Administración Pública Estatal y organismos autónomos, en la integración de sus programas específicos, con base en las políticas, objetivos y lineamientos que emita el Gobernador del Estado;
+III. Formular, establecer y actualizar el sistema para el ejercicio presupuestal; asesorar y apoyar a las dependencias y entidades de la Administración Pública Estatal y organismos autónomos, en la integración de sus programas específicos, con base en las políticas, objetivos y lineamientos que emita el Gobernador del Estado;
 
 IV. Ejecutar y controlar el ejercicio del presupuesto del Gobierno del Estado, con base en los programas, para cada una de las dependencias y entidades de la Administración Pública Estatal, de conformidad con las políticas, objetivos y lineamientos establecidos por el Gobernador del Estado;
 
@@ -791,7 +793,7 @@ V. Promover, coordinar y realizar la evaluación de programas y servicios de sal
 
 VI. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades paraestatales de salud del Estado;
 
-VIl. Coordinar el proceso de programación y ejecución de las actividades en materia de salud en el Estado;
+VII. Coordinar el proceso de programación y ejecución de las actividades en materia de salud en el Estado;
 
 VIII. Proponer a las dependencias competentes la asignación de los recursos que requieran los programas de salud;
 
@@ -951,9 +953,9 @@ A la Secretaría del Migrante, le corresponde el ejercicio de las atribuciones s
 
 I. Formular, promover, instrumentar y evaluar las políticas públicas para los migrantes michoacanos, a fin de fomentar integralmente su desarrollo económico, social, cultural y político;
 
-ll. Promover, con la participación de los migrantes, el respeto de los derechos de los migrantes reconocidos por tratados, organismos internacionales y acuerdos o convenios celebrados por el Estado Mexicano;
+II. Promover, con la participación de los migrantes, el respeto de los derechos de los migrantes reconocidos por tratados, organismos internacionales y acuerdos o convenios celebrados por el Estado Mexicano;
 
-lll. Formular, promover, convenir, instrumentar, ejecutar, dar seguimiento y evaluar planes, programas, proyectos y acciones para los migrantes michoacanos, sus familias y comunidades de origen;
+III. Formular, promover, convenir, instrumentar, ejecutar, dar seguimiento y evaluar planes, programas, proyectos y acciones para los migrantes michoacanos, sus familias y comunidades de origen;
 
 IV. Reconocer, promover y difundir, en coordinación con las instancias competentes, el conocimiento de la historia, cultura y tradiciones de los michoacanos dentro y fuera del Estado, a efecto de que se fortalezcan las relaciones culturales y de arraigo entre los migrantes michoacanos y sus familiares;
 
@@ -1005,7 +1007,7 @@ VI. Impulsar programas de fomento a la salud y educación en la juventud y reins
 
 VII. Proponer al Gobernador del Estado, las iniciativas de ley para promover e impulsar los mecanismos democráticos en los que se considera a la juventud en las diferentes instancias de participación política y de la gestión pública;
 
-VIll. Fomentar y apoyar la consolidación de las organizaciones juveniles y promover su formación, participación y proyección comunitaria, a través de actividades diversas que propicien la superación física, intelectual, cultural, profesional y económica de la juventud;
+VIII. Fomentar y apoyar la consolidación de las organizaciones juveniles y promover su formación, participación y proyección comunitaria, a través de actividades diversas que propicien la superación física, intelectual, cultural, profesional y económica de la juventud;
 
 IX. Formular, organizar, dirigir y promover toda forma de expresión política y cultural de la juventud del Estado, con respeto a las tradiciones, la diversidad, la cultura, los valores cívicos y las costumbres de la juventud;
 
@@ -1061,7 +1063,7 @@ V. Establecer los lineamientos aplicables para la elaboración de proyectos de i
 
 VI. Coordinarse con la Secretaría de Finanzas y Administración y las demás dependencias y entidades de la Administración Pública Estatal, para determinar y dar seguimiento al proceso de programación y presupuestación;
 
-VIl. Desarrollar, establecer, difundir y aplicar un sistema de seguimiento y evaluación del desempeño e impacto socioeconómico de los programas estatales;
+VII. Desarrollar, establecer, difundir y aplicar un sistema de seguimiento y evaluación del desempeño e impacto socioeconómico de los programas estatales;
 
 VIII. Orientar a las dependencias y entidades de la Administración Pública Estatal, para que sus programas y acciones concurran al cumplimiento de los objetivos y metas contenidos en el Plan Estatal de Desarrollo;
 
@@ -1107,7 +1109,7 @@ V. Vigilar el debido ejercicio del gasto público y su congruencia con el presup
 
 VI. Comprobar el cumplimiento por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores al cuidado del Gobierno del Estado;
 
-VIl. Vigilar que los servidores públicos del Estado, que manejen fondos públicos, otorguen fianza que garantice debidamente su manejo;
+VII. Vigilar que los servidores públicos del Estado, que manejen fondos públicos, otorguen fianza que garantice debidamente su manejo;
 
 VIII. Vigilar y supervisar directamente, que las dependencias y entidades de la Administración Pública Estatal, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
@@ -1237,7 +1239,7 @@ El presente Decreto entrará en vigor el día 16 de febrero del año 2008 previa
 
 Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado, de fecha 12 de abril de 2002.
 
-###### ARTICULO TERCERO.
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales y administrativas en lo que se opongan a la presente Ley.
 
@@ -1290,3 +1292,73 @@ P.O. 14 DE DICIEMBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para que el Registro Único de Personas Acreditadas en Michoacán comience a operar en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Gobernador del Estado para los efectos constitucionales correspondientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día 1 de octubre del año 2015, con excepción del artículo 28.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el día 9 de enero de 2008, con excepción de los artículos 30, 36 y 38 que mantendrán su vigencia hasta el 31 de diciembre de 2015.
+
+Los recursos humanos, materiales y financieros correspondientes a las Secretarías de la Mujer y de los Jóvenes, se transferirán a los organismos que creará el Gobernador del Estado para estos sectores.
+
+###### ARTÍCULO CUARTO.
+
+El Gobernador del Estado emitirá el Decreto de creación de los organismos rectores de la política pública para la Igualdad Sustantiva y de la Juventud, así como los lineamientos para su operación, en un periodo no mayor a noventa días, contado a partir de la entrada en vigor del presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Coordinación de Contraloría se transforma en la Secretaría de Contraloría, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Coordinación de Contraloría, se entenderán referidas a la Secretaría de Contraloría.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Urbanismo y Medio Ambiente, en lo que corresponde a la materia de Urbanismo, pasará a formar parte de la Secretaría de Desarrollo Territorial, Urbano y Movilidad. Por lo que respecta a Medio Ambiente, pasará a la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, por lo que todos sus recursos humanos, materiales y financieros se transferirán a las mencionadas Secretarías, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo, a partir del 1 de enero de 2016.
+
+A partir del 1 de enero de 2016, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Secretaría de Urbanismo y Medio Ambiente, se entenderán referidas a las Secretarías creadas por este Decreto, en el ámbito de sus competencias y atribuciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Desarrollo Rural se transforma en la Secretaría de Desarrollo Rural y Agroalimentario, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la Secretaría de Desarrollo Rural, se entenderán referidas a la Secretaría de Desarrollo Rural y Agroalimentario.
+
+###### ARTÍCULO OCTAVO.
+
+Se abroga el Capítulo I del Título III de la Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán y todas las menciones que en ella se refieren al Consejo Estatal de Ciencia y Tecnología e Innovación, se entenderán referidas a la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico.
+
+El Consejo Estatal de Ciencia y Tecnología e Innovación, que hace referencia la Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán se transforma en la Secretaría de Innovación, Ciencia y Desarrollo Tecnológico, por lo que todos sus recursos humanos, materiales y financieros se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación en cualquier formato que se encuentre bajo su resguardo.
+
+El Congreso del Estado realizará en un lapso no mayor a ciento veinte días las modificaciones legales en la materia.
+
+###### ARTÍCULO NOVENO.
+
+El Gobernador del Estado cuenta con ciento cincuenta días, contados a partir de la entrada del presente Decreto para que emita el Reglamento respectivo. En tanto, las dependencias y entidades de la Administración Pública Estatal, seguirán aplicando la reglamentación vigente, siempre y cuando no se contraponga a lo dispuesto en la presente Ley.
+
+###### ARTÍCULO DÉCIMO.
+
+En lo correspondiente a lo establecido por el artículo 19 fracción XI de este Decreto, entrará en vigor a partir del 1 de enero de 2017.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Las transferencias que por motivo de esta Ley deba realizar el Ejecutivo del Estado de una dependencia o entidad de la Administración Pública Estatal a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a las estructuras organizacionales, programáticas y financieras, a los calendarios financieros y de metas.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, los demás que la dependencia o entidad haya utilizado para los asuntos a su cargo, pasarán a formar parte de la nueva dependencia o entidad, conforme lo previsto en este Decreto.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los asuntos que con motivo de esta Ley, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señale el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que los venían despachando.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Gobernador del Estado, por conducto de la Secretaría de Gobierno, Secretaría de Finanzas y Administración y la Secretaría de Contraloría, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como activos patrimoniales, en un plazo no mayor de ciento cincuenta días, a partir de la entrada en vigor del presente Decreto.
