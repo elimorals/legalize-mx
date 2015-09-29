@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2015-09-24"
+last_updated: "2015-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -11784,13 +11784,11 @@ D) Dirección General de Servicios Urbanos;
 
 E) Dirección General de Desarrollo Social;
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-F) Dirección General de Participación Ciudadana; y
+F) Dirección General de Desarrollo Delegacional;
 
-> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
-
-G) Dirección General de Seguridad Ciudadana y Prevención del Delito.
+G) (DEROGADO, G.O. 29 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -14338,7 +14336,53 @@ XXXVI. Presidir el Consejo Delegacional de Protección Civil en la demarcación,
 
 XXXVII. Establecer las medidas necesarias para garantizar el cumplimiento de la Ley del Sistema de Protección Civil del Distrito Federal en lo que corresponde al Órgano Político-Administrativo; y
 
-XXXVIII. Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXXVIIII (SIC). Establecer, analizar, sugerir y cumplimentar el o los Programas de Seguridad Ciudadana de la demarcación, en coordinación con las áreas del Órgano Político-Administrativo que tengan relación con éstos;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XXXIX. Convocar a sesión al Comité de Seguridad Pública como instancia colegiada de participación ciudadana en los términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XL. Canalizar la opinión que emita el Jefe Delegacional con respecto al nombramiento del Jefe de Sector de Policía que corresponda en su respectiva jurisdicción;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLI. Presentar ante el Jefe Delegacional los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad, respecto de actos que presuntamente contravengan las disposiciones, para iniciar los procedimientos que legalmente correspondan;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLII. Proponer a la Secretaría de Movilidad, la aplicación de las acciones preventivas o correctivas con objeto de mejorar la vialidad, circulación y seguridad del tránsito vehicular y de peatones en las vialidades de la Delegación;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLIII. Colaborar con la Secretaría de Protección Civil, Secretaría de Seguridad Pública, Procuraduría General de Justicia, Heroico Cuerpo de Bomberos, Secretaría de Salud y otras instituciones en acciones conjuntas enfocadas a la prevención o atención de contingencias o cualesquier agente perturbador que pongan en peligro la integridad física o patrimonial de la ciudadanía que habita o visita la Delegación;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLIV. Dirigir, controlar y evaluar campañas de información y orientación sobre temas de seguridad, en coordinación con las autoridades federales, locales, instituciones públicas o privadas y con particulares en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLV. Participar y colaborar con todas las Dependencias en la formulación, planeación y ejecución de los Programas correspondientes a la Seguridad Ciudadana y Prevención del Delito;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLVI. Coadyuvar con las Dependencias de la Administración Pública que resulten competentes, en las tareas de seguridad pública en la Delegación;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLVII. Participar en la concertación y coordinación con los sectores público, social y privado en las acciones en apoyo a la seguridad de la ciudadanía, además de representar al Jefe Delegacional en giras y recorridos en el territorio delegacional;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLVIII. Determinar y establecer las estrategias de los servicios de seguridad necesarios para el control de accesos y resguardo de bienes muebles e inmuebles del Órgano Político-Administrativo en coordinación con la Dependencia competente;
+
+> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XLIX. Las demás que de manera directa le asigne el Jefe Delegacional así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
 
 > <small>(REFORMADO, G.O. 30 DE ABRIL DE 2010)</small>
 
@@ -14384,47 +14428,47 @@ IV. Impulsar el desarrollo de programas encaminados a la realización de activid
 
 V. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados al patrimonio cultural de la demarcación territorial del Órgano Político-Administrativo y del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 159.
 
-Corresponde a la Dirección General de Participación Ciudadana:
+La Dirección General de Desarrollo Delegacional tendrá las siguientes atribuciones:
 
-I. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+I. Coordinar el diseño y elaboración de bases de datos, que permitan conocer las características de quienes habitan y trabajan en la demarcación con la finalidad de que contribuyan en la realización de los planes y programas delegacionales;
 
-II. Las señaladas en la Ley de Participación Ciudadana; y
+II. Analizar las actividades desarrolladas por las distintas Unidades Administrativas de Apoyo Técnico-Operativo de la Dirección General;
 
-III. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo.
+III. Revisar y formular los planes y programas tendientes a hacer más eficiente y eficaz los procesos delegacionales;
 
-> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+IV. Proponer proyectos de mejora organizacional del Órgano Político-Administrativo;
+
+V. Desarrollar y analizar los indicadores de servicio, satisfacción y desempeño;
+
+VI. Diseñar e implementar acciones orientadas a la modernización administrativa del Órgano Político-Administrativo de conformidad con la normatividad aplicable;
+
+VII. Coadyuvar en la promoción y conducción de las políticas económicas en el Órgano Político-Administrativo dentro de su competencia;
+
+VIII. Fomentar la creación y desarrollo de empresas para la generación de nuevas oportunidades de negocios en el Órgano Político-Administrativo;
+
+IX. Coadyuvar en la promoción turística de la demarcación territorial;
+
+X. Sistematizar el tratamiento de la demanda ciudadana, e instrumentar acciones que respondan a las problemáticas planteadas por los particulares dentro de la demarcación;
+
+XI. Coordinar el funcionamiento de las Unidades de Atención Ciudadana del Órgano Político-Administrativo, dentro del marco jurídico aplicable;
+
+XII. Dar seguimiento a las demandas ciudadanas captadas durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+XIII. Coordinar las acciones en materia de transparencia, acceso a la información y protección de datos personales que deba realizar el Órgano Político-Administrativo;
+
+XIV. Establecer mecanismos para la mejora y funcionamiento de los sistemas informáticos del Órgano Político-Administrativo;
+
+XV. Coadyuvar en la implementación y consolidación de las nuevas tecnologías de la información y comunicaciones en el Órgano Político-Administrativo, y
+
+XVI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los Manuales Administrativos.
 
 ###### Artículo 159 Bis.
 
-Corresponde a la Dirección General de Seguridad Ciudadana y Prevención del Delito:
-
-I. Establecer, analizar, sugerir y cumplimentar el o los Programas de Seguridad Ciudadana de la demarcación, en coordinación con las áreas de la Delegación que tengan relación con éstos;
-
-II. Convocar a sesión al Comité de Seguridad Pública como instancia colegiada de participación ciudadana en los términos de las disposiciones jurídicas aplicables;
-
-III. Canalizar la opinión que emita el Jefe Delegacional con respecto al nombramiento del Jefe de Sector de Policía que corresponda en su respectiva jurisdicción;
-
-IV. Presentar ante el Jefe Delegacional los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad, respecto de actos que presuntamente contravengan las disposiciones, para iniciar los procedimientos que legalmente correspondan;
-
-V. Proponer a la Secretaría de Transportes y Vialidad, la aplicación de las acciones preventivas o correctivas con objeto de mejorar la vialidad, circulación y seguridad del tránsito vehicular y peatones en las vialidades de la Delegación;
-
-VI. Colaborar con la Secretaría de Protección Civil, Secretaría de Seguridad Pública, Procuraduría General de Justicia, Heroico Cuerpo de Bomberos, Secretaría de Salud y otras instituciones en acciones conjuntas enfocadas a la prevención o atención de contingencias o cualesquier agente perturbador que pongan en peligro la integridad física o patrimonial de la ciudadanía que habita o visita la Delegación;
-
-VII. Dirigir, controlar y evaluar campañas de información y orientación sobre temas de seguridad, en coordinación con las autoridades federales, locales, instituciones públicas o privadas y con particulares en el ámbito de su competencia;
-
-VIII. Participar y colaborar con todas las dependencias en la formulación, planeación y ejecución de los Programas correspondientes a la Seguridad Ciudadana y Prevención del Delito;
-
-IX. Coadyuvar con las dependencias de la administración pública que resulten competentes, en las tareas de seguridad pública en la Delegación;
-
-X. Participar en la concertación y coordinación con los sectores público, social y privado en las acciones en apoyo a la seguridad de la ciudadanía, además de representar al Jefe Delegacional en giras y recorridos en el territorio delegacional;
-
-XI. Determinar y establecer las estrategias de los servicios de seguridad necesarios para el control de accesos y resguardo de bienes muebles e inmuebles de la Delegación en coordinación con la dependencia competente;
-
-XII. Las demás que de manera directa le asigne el Jefe Delegacional así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
+(DEROGADO, G.O. 29 DE SEPTIEMBRE DE 2015)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -17649,3 +17693,19 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- A la Consejería Jurídica y de Servicios Legales, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de las atribuciones de la Dirección General de Regularización Territorial.
 
 CUARTO.- La Consejería Jurídica y de Servicios Legales, deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que establezca la Contraloría General.
+
+G.O. 29 DE SEPTIEMBRE DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor el primero de octubre del dos mil quince.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgánica y elaborar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
