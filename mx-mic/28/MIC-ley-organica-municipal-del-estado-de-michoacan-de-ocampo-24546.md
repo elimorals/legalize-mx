@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2015-07-31"
+last_updated: "2015-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -437,7 +437,9 @@ III. Un Síndico responsable de vigilar la debida administración del erario pú
 
 Los ayuntamientos de los municipios de Apatzingán, Hidalgo, La Piedad, Lázaro Cárdenas, Morelia, Uruapan, Zacapu, Zamora y Zitácuaro se integrarán con siete regidores electos por mayoría relativa y hasta cinco regidores de representación proporcional.
 
-Los ayuntamientos de los municipios cabecera de distrito a que no se refiere el párrafo anterior, así como los de Jacona, Sahuayo y Zinapécuaro se integrarán con seis Regidores electos por mayoría relativa y hasta cuatro Regidores de representación proporcional.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Los ayuntamientos de los municipios cabecera de distrito a que no se refiere el párrafo anterior, así como los de Jacona, Sahuayo, Zinapécuaro y Tarímbaro, se integrarán con seis regidores electos por mayoría relativa y hasta cuatro regidores de representación proporcional.
 
 El resto de los Ayuntamientos de los Municipios del Estado, se integrarán con cuatro Regidores por mayoría relativa y hasta tres Regidores de representación proporcional.
 
@@ -2273,11 +2275,15 @@ En lo no previsto en esta Ley, se aplicará supletoriamente lo establecido en la
 
 La Hacienda Pública Municipal se constituirá por los ingresos que señale la Ley de Hacienda Municipal y la Ley de Ingresos que apruebe el Congreso del Estado. Además, con aquellos ingresos que determinen las Leyes y decretos federales y estatales y los convenios respectivos.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 142.
 
-Las iniciativas de Ley de ingresos municipales deberán presentarse para su aprobación, en su caso, ante el Congreso del Estado, a más tardar el treinta y uno de agosto del año anterior al que correspondan. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del uno de enero y hasta el treinta y uno de diciembre del año al que correspondan.
+Las iniciativas de Ley de ingresos municipales deberán presentarse para su aprobación, ante el Congreso del Estado, a más tardar el treinta y uno de agosto del año anterior al que se ejercerán. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del uno de enero y hasta el treinta y uno de diciembre del año al que correspondan.
+
+> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+En el caso de las administraciones que concluyen su periodo constitucional no presentaren la Iniciativa de Ley de Ingresos Municipal para el ejercicio fiscal siguiente, las administraciones municipales que inicien su periodo constitucional, deberán presentarla para su aprobación, ante el Congreso del Estado en un plazo no mayor a treinta días contados a partir de la toma de posesión.
 
 ###### Artículo 143.
 
@@ -2866,3 +2872,43 @@ Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estad
 Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 566 POR EL QUE SE REFORMA EL ARTÍCULO 14 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto al Instituto Nacional Electoral, para su conocimiento y efectos legales procedentes.
+
+###### ARTÍCULO TERCERO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su debida publicación.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese el presente Decreto al H. Ayuntamiento de Tarímbaro, Michoacán, para conocimiento y efectos procedentes.
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+DECRETO NÚMERO 570 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 142 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión para aquellos municipios que a la fecha no han presentado Iniciativa de Ley de Ingresos Municipal para su aprobación, ante el Congreso del Estado, los Ayuntamientos actuales, deberán presentarla a más tardar el quince del mes de octubre de 2015.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese el presente Decreto a los municipios del Estado de Michoacán, que no han presentado Iniciativa de Ley de Ingresos Municipal para el ejercicio fiscal del año 2016.
+
+###### ARTÍCULO CUARTO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y a la Auditoría Superior de Michoacán, para su conocimiento y fines conducentes.
