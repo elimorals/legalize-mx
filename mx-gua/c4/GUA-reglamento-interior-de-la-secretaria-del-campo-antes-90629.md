@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-del-campo-antes-90629"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-21"
-last_updated: "2012-12-21"
+last_updated: "2015-09-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL CAMPO -- ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROALIMENTARIO Y RURAL DEL ESTADO DE GUANAJUATO --. ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO DEL ESTADO DE GUANAJUATO --
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO DEL ESTADO DE GUANAJUATO
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROALIMENTARIO Y RURAL DEL ESTADO DE GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -35,27 +37,35 @@ Por lo anteriormente expuesto y con fundamento en las disposiciones legales prev
 
 DECRETO GUBERNATIVO NÚMERO 18
 
-Artículo Único. Se expide el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, para quedar en los siguientes términos:
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
+Artículo Único. Se expide el Reglamento Interior de la Secretaría de Desarrollo Agroalimentario y Rural, para quedar en los siguientes términos:
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROALIMENTARIO Y RURAL
 
 ## Título Primero. Disposiciones Generales
 
 ### Capítulo Único. Competencia y organización
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 Objeto
 
 ###### Artículo 1.
 
-El presente Reglamento tiene por objeto regular la organización, funcionamiento y facultades de las unidades administrativas que integran la Secretaría de Desarrollo Agropecuario.
+El presente Reglamento tiene por objeto regular la organización, funcionamiento y facultades de las unidades administrativas que integran la Secretaría de Desarrollo Agroalimentario y Rural.
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
 Competencia
 
 ###### Artículo 2.
 
-La Secretaría de Desarrollo Agropecuario tiene a su cargo el despacho de los asuntos que le encomiendan la Constitución Política para el Estado de Guanajuato, la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y las demás disposiciones aplicables, así como los decretos, reglamentos y acuerdos que expida el Gobernador del Estado.
+La Secretaría de Desarrollo Agroalimentario y Rural tiene a su cargo el despacho de los asuntos que le encomiendan la Constitución Política para el Estado de Guanajuato, la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y las demás disposiciones aplicables, así como los decretos, reglamentos y acuerdos que expida el Gobernador del Estado.
 
-Para los efectos del presente Reglamento se identificará a la Secretaría de Desarrollo Agropecuario como la Secretaría y como Secretario a su Titular.
+Para los efectos del presente Reglamento se identificará a la Secretaría de Desarrollo Agroalimentario y Rural como la Secretaría y como Secretario a su Titular.
 
 Estructura administrativa
 
@@ -83,7 +93,9 @@ b) Dirección General de Microcuencas;
 
 III. Subsecretaría de Fomento y Desarrollo de la Sociedad Rural:
 
-a) Dirección General de Desarrollo y Promoción de la Empresa Rural;
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+a) Dirección de Fomento y Empresa Rural;
 
 b) Dirección de Enlace y Desarrollo de Programas en Municipios; y
 
@@ -97,7 +109,9 @@ b) Dirección General de Ganadería;
 
 c) Coordinación de Comercialización, Seguros y Financiamiento;
 
-d) Coordinación de Programas Concurrentes para la Competitividad; y
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+d) Dirección de Promoción y Difusión de Mercados; y
 
 e) Coordinación de Capacitación Técnica.
 
@@ -173,19 +187,25 @@ Igualdad de jerarquía entre las subsecretarías
 
 Las subsecretarías de Administración y Eficiencia de los Recursos Naturales Agropecuarios; de Fomento y Desarrollo de la Sociedad Rural y la Subsecretaría para el Desarrollo y Competitividad Agroalimentaria tendrán igual jerarquía y entre ellas no habrá preeminencia alguna.
 
-### Capítulo III. Facultades generales de las direcciones generales y coordinaciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-Titular de las direcciones generales y coordinaciones
+### Capítulo III. Facultades generales de las direcciones generales, de las direcciones de área y de las coordinaciones
+
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+Titulares de las direcciones generales, de área y de las coordinaciones
 
 ###### Artículo 9.
 
-Al frente de las direcciones generales habrá un Director General, así como al frente de las coordinaciones habrá un Coordinador, quienes podrán auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto.
+Al frente de las direcciones generales habrá un Director General. Al frente de las Direcciones de Área, habrá un Director y al frente de las coordinaciones, un coordinador. Estas unidades podrán auxiliarse del personal que requieran las necesidades del servicio y permita el presupuesto.
 
 Facultades generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-Los directores generales y coordinadores tendrán las siguientes facultades generales:
+Los directores generales, los directores de área y los coordinadores tendrán las siguientes facultades generales:
 
 I. Planear, presupuestar y dirigir las funciones correspondientes a la Dirección General a su cargo, con la participación de las direcciones de Área que la integran;
 
@@ -211,9 +231,13 @@ Facultades
 
 La Coordinación de Comunicación Social tendrá las siguientes facultades:
 
-I. Planear, organizar, coordinar y ejecutar los programas de comunicación social y de relaciones públicas de conformidad con los lineamientos que establezca el Secretario;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-II. Dirigir y coordinar las actividades de difusión, comunicación, prensa y relaciones públicas de la Secretaría;
+I. Planear, organizar, coordinar y ejecutar los programas de comunicación social de la Secretaría, de conformidad con los lineamientos que establezca el Secretario y con observancia de las directrices y políticas de carácter técnico emitidas por la Coordinación General de Comunicación Social del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+II. Dirigir y coordinar las actividades de relaciones públicas de la Secretaría de acuerdo con los lineamientos que dicte el Secretario;
 
 III. Mantener y fortalecer las relaciones con los medios de comunicación, informando de las acciones que realiza la Secretaría;
 
@@ -221,7 +245,9 @@ IV. Proponer al Secretario para su aprobación, lineamientos internos de caráct
 
 V. Compilar, analizar y procesar la información de los medios de comunicación referente a los acontecimientos de interés para la Secretaría;
 
-VI. Elaborar y ejecutar previo acuerdo del Secretario el programa editorial de la Secretaría mediante el diseño, producción y distribución de los libros, folletos, revistas y demás material documental y didáctico;
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Elaborar y ejecutar, con previo acuerdo del Secretario, el programa editorial de la Secretaría mediante el diseño, producción y distribución de los libros, folletos, revistas y demás material documental y didáctico, los cuales deberán observar, además, los lineamientos emitidos por la Coordinación General de Comunicación Social del Gobierno del Estado;
 
 VII. Coordinar, con las demás unidades administrativas, la difusión de la información, publicaciones y publicidad de la Secretaría;
 
@@ -233,9 +259,13 @@ X. Realizar campañas de radio y televisión, en coordinación con los líderes 
 
 XI. Preparar la información de los videos y guión técnico que se realiza por las demás unidades administrativas;
 
-XII. Diseñar y desarrollar un programa anual de trabajo y comunicación a través de medios alternativos, que coadyuven a difundir los programas y acciones de la Secretaría, del Gobierno Estatal y del Gobierno Federal, a través de medios electrónicos de vanguardia y otros mecanismos de comunicación directa con sus principales audiencias; y
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. Las demás que señalen las disposiciones legales aplicables, así como aquéllas que le confiera el Secretario.
+XII. Diseñar y desarrollar un programa anual de trabajo y comunicación a través de medios alternativos y en medios electrónicos, que coadyuven a difundir los programas y acciones de la Secretaría, del Gobierno Estatal y del Gobierno Federal, observando lo dispuesto en la fracción I de este artículo; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Las demás que señalen las disposiciones legales aplicables, las que les confiera el Secretario y las que deriven de los lineamientos y políticas generales que en la materia emita la Coordinación General de Comunicación Social del Gobierno del Estado.
 
 ### Capítulo II. Secretaría Particular
 
@@ -429,7 +459,9 @@ IV. Coadyuvar en la creación y fortalecimiento de organizaciones de productores
 
 V. Propiciar la incubación y creación de agencias de desarrollo o similares, para promover e impulsar acciones de desarrollo en el ámbito microregional y de subcuenca que permita una mayor cobertura en la puesta en marcha de programas y proyectos productivos, y de conservación de recursos naturales; y
 
-VI. Dar cumplimiento, con la participación de la Dirección de Recursos Forestales, a las facultades y actividades que le corresponden a la Secretaría conforme a lo estipulado en la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Dar cumplimiento a las facultades y actividades que le corresponden a la Secretaría, de conformidad con las disposiciones de la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato.
 
 ## Título Quinto. Subsecretaría de Fomento y Desarrollo de la Sociedad Rural y de sus Unidades Administrativas
 
@@ -455,13 +487,17 @@ VI. Promover en el ámbito estatal y municipal la conservación y la preservaci�
 
 VII. Instrumentar políticas públicas orientadas a respetar de manera preponderante la vocación productiva de los espacios rurales de la entidad, adecuando los espacios que se destinaran para vivienda, recreación y servicios entre otros.
 
-#### Sección Primera. Dirección General de Desarrollo y Promoción de la Empresa Rural
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección Primera. Dirección de Fomento y Empresa Rural
 
 Facultades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-La Dirección General de Desarrollo y Promoción de la Empresa Rural tendrá las siguientes facultades:
+La Dirección de Fomento y Empresa Rural tendrá las siguientes facultades:
 
 I. Elaborar y coordinar la ejecución de los programas tendientes a la integración de actividades económicas que generen empleos productivos a los habitantes del medio rural;
 
@@ -497,13 +533,17 @@ V. Asesorar a los Municipios en la elaboración de planes de desarrollo rural in
 
 VI. Impulsar en coordinación con los Municipios e instancias correspondientes, la aplicación coordinada de recursos y programas institucionales orientados al desarrollo rural.
 
-#### Sección Tercera. Coordinación de Programas Concurrentes para la Sociedad Rural
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
+#### Sección Tercera. Dirección de Promoción y Difusión de Mercados
 
 Facultades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-La Coordinación de Programas Concurrentes para la Sociedad Rural tendrá las siguientes facultades:
+La Dirección de Promoción y Difusión de Mercados tendrá las siguientes facultades:
 
 I. Realizar las acciones tendientes a la aplicación de recursos presupuestales de los tres niveles de gobierno en los programas de apoyo a los consejos municipales y regionales de desarrollo rural sustentable;
 
@@ -645,7 +685,7 @@ IV. Proponer para la autorización correspondiente las bases, acuerdos y conveni
 
 V. Mantener una estrecha vinculación y seguimiento de los sistemas, programas e instituciones de los sectores público, social y privado a fin de garantizar su participación en los programas de apoyo rural; y
 
-VI. Difundir los lineamientos de los programas en que la Secretaría sea parte; (sic)
+VI. Difundir los lineamientos de los programas en que la Secretaría sea parte;
 
 #### Sección Quinta. Coordinación de Capacitación Técnica
 
@@ -728,3 +768,13 @@ Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artí
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 JAVIER BERNARDO USABIAGA ARROYO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 124, MEDIANTE EL CUAL, SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO”.]
+
+Inicio de Vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
