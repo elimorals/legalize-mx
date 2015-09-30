@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-fondo-revolvente-del-instituto-de-seguridad-622
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-19"
-last_updated: "2008-07-19"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO PARA FONDO REVOLVENTE DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR PARA FONDOS REVOLVENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DE ZACATECAS, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, PÁG. 17, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO (REIMPRESIÓN, P.O. DE 30 DE SEPTIEMBRE DE 2015, PÁG. 19)]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de julio de 2008.
 
@@ -142,3 +144,17 @@ SUBDIRECTOR DE PRESTACIONES ECONÓMICAS
 LIC. SERGIO DÍAZ DE LA TORRE
 
 SUBDIRECTOR DE FILIALES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2015, PÁG. 17.
+
+(REIMPRESIÓN, P.O. DE 30 DE SEPTIEMBRE DE 2015, PÁG. 19)
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR PARA FONDOS REVOLVENTES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DE ZACATECAS ".]
+
+Primero.- El presente Reglamento Interior para Fondos Revolventes del ISSSTEZAC, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El presente Reglamento abroga el Reglamento abroga el Reglamento (sic) para Fondos Revolventes de ISSSTEZAC, aprobado mediante sesión ordinaria de la Junta Directiva número 249/2008 acuerdo número 2100/249/2008 de fecha 16 de junio de 2008, y publicado en el suplemento número 58 del Periódico Oficial del Estado, correspondiente al día 19 de julio del año 2008.
+
+Tercero.- El presente Reglamento considera en su redacción un lenguaje incluyente de Género.
