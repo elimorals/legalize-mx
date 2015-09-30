@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2013-01-28"
+last_updated: "2015-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -580,6 +580,10 @@ Queda estrictamente prohibida la práctica en seres humanos de técnicas de inve
 ###### ARTÍCULO 39.
 
 Es obligación denunciar ante las autoridades sanitarias del Estado todo hecho, acto u omisión que represente un riesgo o provoque un daño a la salud de la población, debiendo proporcionar los datos que permitan identificar la causa del riesgo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 39 BIS. Se concede acción pública para denunciar ante autoridades administrativas, ministeriales o judiciales, las practicas no autorizadas de cirugía plástica y reconstructiva.
 
 ### CAPÍTULO V. MEDICINA TRADICIONAL Y HERBOLARIA
 
@@ -1286,6 +1290,14 @@ Los procedimientos de embellecimiento del cuerpo humano son aquellos que se util
 ###### ARTÍCULO 143.
 
 Para los efectos señalados en el artículo anterior, queda prohibido utilizar productos, insumos o procedimientos que no estén autorizados o notificados por la Secretaría de Salud.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 143 BIS. Queda prohibido realizar procedimientos de medicina o cirugía estética y reconstructiva en peluquerías, salones de belleza, estéticas u otras similares. La infracción a esta norma será vigilada por autoridades sanitarias quienes podrán denunciar ante autoridades administrativas, ministeriales o judiciales.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 143 TER. Para el ejercicio de los procedimientos médicos o de cirugía reconstructiva, estética plástica se estará a lo dispuesto por los artículos 81, 83, 271, 272, 272 bis 1, 272 bis 2 y 272 bis 3 de la Ley General de Salud.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
@@ -2282,3 +2294,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Salud para los efectos correspondientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
