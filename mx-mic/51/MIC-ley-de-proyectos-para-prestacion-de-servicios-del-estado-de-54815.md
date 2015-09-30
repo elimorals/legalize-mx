@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proyectos-para-prestacion-de-servicios-del-estado-de-548
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-12"
-last_updated: "2007-03-12"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS DEL ESTADO DE MICHOACAN DE OCAMPO Y SUS MUNICIPIOS
 
-LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS DEL ESTADO DE MICHOACAN DE OCAMPO Y SUS MUNICIPIOS
+LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS DEL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADA EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 12 de marzo de 2007.
 
@@ -178,3 +180,29 @@ PRESIDENTE.- DIP. DAVID GARIBAY TENA.- PRIMER SECRETARIO.- DIP. JUAN ANTONIO IXT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 7 siete días del mes de marzo del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, deberá de emitir el Reglamento respectivo de la presente Ley en un periodo no mayor a 180 días, a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaria de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Proyectos para Prestación de Servicios del Estado de Michoacán de Ocampo y sus Municipios. Se dejan sin efectos todas las disposiciones en la materia que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado de Michoacán de Ocampo, deberá en un término de 90 días contados a partir de la entrada en vigor del presente Decreto, reformar la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles e Inmueble (sic) del Estado de Michoacán de Ocampo y la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado de Michoacán de Ocampo y sus Municipios.
+
+Lo previsto en el segundo párrafo del artículo 17 del presente Decreto, entrará en vigor cuando se dé cabal cumplimiento al párrafo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. Para su conocimiento y efectos legales conducentes.
