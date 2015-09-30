@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-adquisiciones-del-instituto-de-93228"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-06"
-last_updated: "2013-02-06"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE ADQUISICIONES DEL ISSSTEZAC DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE ADQUISICIONES DEL ISSSTEZAC DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el miércoles 6 de febrero de 2013.
 
@@ -71,7 +73,7 @@ XV. Ley de Obras: A la Ley de Obras Públicas y Servicios Relacionados con las M
 
 XVI. Manual de Organización: Al Manual de Organización del ISSSTEZAC; y
 
-XVII. Servidores Públicos: A las y los trabajadores del ISSSTEZAC, establecidos en su Ley; (sic)
+XVII. Servidores Públicos: A las y los trabajadores del ISSSTEZAC, establecidos en su Ley;
 
 ###### Artículo 3.
 
@@ -189,7 +191,7 @@ XVI. Las demás que le designen el presente Reglamento y demás disposiciones le
 
 El Secretario Ejecutivo tendrá las siguientes funciones:
 
-I. Elaborar el orden del día de cáda sesión, de conformidad con las instrucciones del Presidente, así como levantar las actas correspondientes de cada sesión;
+I. Elaborar el orden del día de cada sesión, de conformidad con las instrucciones del Presidente, así como levantar las actas correspondientes de cada sesión;
 
 II. Convocar a las sesiones por acuerdo de la Presidencia;
 
@@ -724,3 +726,13 @@ Segundo.- Se abroga el Reglamento Interior de Adquisiciones del ISSSTEZAC, publi
 Tercero.- El presente Reglamento considera en su redacción un lenguaje incluyente de género.
 
 APROBADO POR LA JUNTA DIRECTIVA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS, EN SESIÓN ORDINARIA NÚMERO 3356/262/2012, CELEBRADA EN LA CIUDAD DE GUADALUPE, ZACATECAS, A LOS 20 DÍAS DEL MES DE DICIEMBRE DEL 2012.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente Reglamento Interior de Adquisiciones del ISSSTEZAC entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El presente Reglamento abroga al Reglamento Interior de Adquisiciones del ISSSTEZAC aprobado mediante sesión ordinaria de la Junta Directiva número 262/2012, acuerdo número 3356/262/2012 de fecha 20 de diciembre de 2012, y publicado en el suplemento número 11 del Periódico Oficial, del Estado de Zacatecas, correspondiente al día 6 de febrero del año 2013.
+
+Tercero.- El presente Reglamento considera en su redacción un lenguaje incluyente de Género.
