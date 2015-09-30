@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-86407"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-07"
-last_updated: "2015-09-29"
+last_updated: "2015-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE MICHOACÁN
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO NÚMERO 557, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, TODAS LAS MENCIONES QUE SE REFIEREN AL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGÍA E INNOVACIÓN, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y DESARROLLO TECNOLÓGICO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el martes 7 de febrero de 2012.
 
@@ -42,6 +40,8 @@ NÚMERO 378
 ###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán, para quedar de la forma siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO NÚMERO 557, PUBLICADO EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015, TODAS LAS MENCIONES QUE SE REFIEREN AL CONSEJO ESTATAL DE CIENCIA Y TECNOLOGÍA E INNOVACIÓN, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y DESARROLLO TECNOLÓGICO.</small>
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE MICHOACÁN
 
@@ -121,7 +121,7 @@ XIV. Estado: El Estado de Michoacán de Ocampo;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
-XV: Fideicomiso: El Fideicomiso Estatal de Ciencia, Tecnología e Innovación del Estado de Michoacán;
+XV. Fideicomiso: El Fideicomiso Estatal de Ciencia, Tecnología e Innovación del Estado de Michoacán;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
@@ -653,7 +653,7 @@ I. Los acervos científicos, tecnológicos y de innovación que constituya el CE
 
 II. Las partidas presupuestales que le asigne el Gobierno del Estado, comprendidas dentro de su presupuesto de egresos.
 
-El CECTl procurará basar su administración con un sentido de racionalidad presupuestal y destinará la mayor parte de su presupuesto para nutrir tanto al Fideicomiso como a los demás fondos que se hayan convenido para el desarrollo de la Ciencia, la Tecnología y la Innovación;
+El CECTI procurará basar su administración con un sentido de racionalidad presupuestal y destinará la mayor parte de su presupuesto para nutrir tanto al Fideicomiso como a los demás fondos que se hayan convenido para el desarrollo de la Ciencia, la Tecnología y la Innovación;
 
 III. Las aportaciones, subsidios y apoyos que le otorguen los gobiernos federal y municipales;
 
@@ -765,7 +765,7 @@ II. Consultar con la debida anticipación a la fiduciaria, sobre los asuntos que
 
 III. Presentar a la fiduciaria la información contable requerida para precisar la situación financiera del fideicomiso; y,
 
-IV. Cumplir con los demás requerimientos que de común acuerdo (sic) el Comité Técnico del Fideicomiso, le fije la fiduciaria.
+IV. Cumplir con los demás requerimientos que de común acuerdo el Comité Técnico del Fideicomiso, le fije la fiduciaria.
 
 ### CAPÍTULO II. ÓRGANO DE VIGILANCIA DEL FIDEICOMISO
 
@@ -1131,6 +1131,20 @@ Estos registros deberán publicarse una vez aprobados por el Consejo.
 
 El Consejo tomará en consideración de los investigadores o empresas, su registro para el otorgamiento de becas, recursos y estímulos fiscales.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 73 BIS. El CECTI, en el ámbito de su competencia, coadyuvará con el CONACYT en la estrategia nacional que tiene como finalidad ampliar, consolidar y facilitar el acceso a la información científica, tecnológica y de innovación nacional e internacional a texto completo, en formatos digitales.
+
+El CECTI impulsará la estrategia estatal, con el fin de fortalecer las capacidades del Estado para que el conocimiento universal esté disponible a los educandos, educadores, académicos, investigadores, científicos y población en general, a través de un acceso abierto.
+
+Por acceso abierto se entenderá el acceso a través de una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
+
+Corresponderá al CECTI establecer los lineamientos para garantizar el acceso a la información científica, tecnológica y de innovación, en los términos del presente capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 73 TER. Los investigadores, tecnólogos, académicos y estudiantes de maestría, doctorado y posdoctorado, cuya actividad de investigación sea financiada con recursos públicos estatales o que hayan utilizado infraestructura pública en su realización, por decisión personal podrán autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en acceso abierto, comprobando que han cumplido con el proceso de aprobación respectivo, lo anterior bajo los términos que al efecto establezca el CECTI.
+
 ### CAPÍTULO III. SERVICIO DE INFORMACIÓN Y DOCUMENTACIÓN CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN
 
 ###### ARTÍCULO 74.
@@ -1209,19 +1223,47 @@ Con el objeto de vincular la investigación con la educación, los CI e IES, pro
 
 La investigación apoyará el desarrollo económico integral del Estado en beneficio de su población en general. Para este objeto, el CECTI promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con los procesos productivos, comerciales y financieros del Estado, mediante la gestión de recursos para apoyar la modernización, innovación y desarrollo tecnológico de dichos procesos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 86.
 
-El CECTI promoverá la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con el sector productivo del Estado, bajo diversos mecanismos y acciones que sean pertinentes, a través de figuras como las Unidades de Vinculación, Transferencia de Tecnología y Conocimiento, de igual manera apoyará mediante asesoría, la creación de micro, pequeña y mediana empresa de base tecnológica entre otras.
+El CECTI, las instituciones de educación superior y las entidades de la administración pública estatal que de acuerdo con su instrumento de creación tengan como objeto predominante realizar actividades de investigación científica y tecnológica y efectivamente lo realicen, promoverán la vinculación permanente de las instituciones que desarrollan investigación científica y tecnológica con el sector productivo del Estado, bajo diversos mecanismos y acciones que sean pertinentes, a través de figuras como las Unidades de Vinculación, Transferencia de Tecnología y Conocimiento, de igual manera apoyará mediante asesoría, la creación de micro, pequeña y mediana empresa de base tecnológica entre otras.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Estas Unidades de Vinculación, Transferencia de Tecnología y Conocimiento podrán constituirse mediante la figura jurídica que mejor convenga a sus objetivos, en los términos de las disposiciones aplicables, siempre y cuando no se constituyan como entidades paraestatales y podrán contratar por proyecto a personal académico de dichas entidades e instituciones sujeto a lo dispuesto en el artículo 86 bis de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Las unidades a que se refiere este artículo, en ningún caso podrán financiar su gasto de operación con recursos públicos. Los recursos públicos que, en términos de esta Ley, reciban las unidades deberán destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+ARTÍCULO 86 BIS. Los centros públicos de investigación, las instituciones de educación superior y las entidades de la administración pública del Estado que de acuerdo con su instrumento de creación tengan como objeto predominante realizar actividades de investigación científica y tecnológica y efectivamente lo realicen, promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica, y redes regionales de innovación en las cuales se procurará la incorporación de desarrollos tecnológicos e innovaciones realizadas en dichos centros, entidades e instituciones, así como de los investigadores, académicos y personal especializado adscritos al centro, institución o entidad, que participen en la parte sustantiva del proyecto.
+
+Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones, centros y entidades aprobarán y establecerán lo siguiente:
+
+I. Los lineamientos y condiciones básicas de las asociaciones, alianzas, consorcios, unidades, redes o nuevas empresas que conlleven la participación de instituciones, centros y entidades, con o sin aportación en el capital social en las empresas de que se trate; y,
+
+II. Los términos y requisitos para la incorporación y participación del personal de instituciones, centros y entidades en las asociaciones, alianzas, consorcios, unidades, redes o nuevas empresas de que se trate.
+
+Asimismo, los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación de empresas tecnológicas de innovación en coordinación con la propia institución, centro o entidad, según corresponda y, en su caso, con terceros.
+
+Los términos, requisitos y criterios a que se refiere la fracción II y el párrafo anterior serán establecidos por los órganos de gobierno o equivalente de las instituciones, centros y entidades mediante normas generales que deberán expedir al efecto y que consistirán en medidas de carácter preventivo orientadas a evitar que su personal incurra en el conflicto de intereses al que hace referencia el artículo 8 de la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán. Previo a su expedición, estas normas deberán contar con la opinión favorable emitida por el respectivo órgano interno de control.
+
+Los órganos de gobierno o equivalente también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan a instituciones, centros y entidades en relación a lo dispuesto en este artículo.
+
+Para promover la comercialización de los derechos de propiedad intelectual e industrial de las instituciones, centros y entidades, los órganos de gobierno o equivalente aprobarán los lineamientos que permitan otorgar a los investigadores, académicos y personal especializado, que los haya generado hasta setenta por ciento de las regalías que se generen.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 87.
 
 Para la creación y operación de los instrumentos de apoyo a que se refiere esta Ley, se dará prioridad a los proyectos cuyo propósito sea promover la modernización e innovación tecnológica, vinculados con empresas o entidades usuarias de la tecnología, con especial atención a la micro, pequeña y mediana empresa o vinculados con el sector social.
 
-Se promoverá la creación e integración de Centros de Gestión Empresarial y Servicios Tecnológicos, así como de Redes, Parques de Base Tecnológica, Distritos Industriales y un Sistema de Extensión en Innovación Tecnológica con la finalidad de incrementar la productividad y competitividad del sector productivo, con especial atención a las micro, pequeñas y medianas empresas para constituir una economía basada en el conocimiento.
+Se promoverá la vinculación entre academia y empresa que favorezca la transferencia y apropiación de conocimiento y tecnología con los sectores más desprotegidos.
 
-Se promoverá la vinculación entre academia y empresa que favorezca la transferencia y apropiación de conocimiento y tecnologías con los sectores más desprotegidos.
-
-También se consideran prioritarios los proyectos que tengan como fin lograr un uso racional, eficiente y sustentable de los recursos naturales; así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
+Se considerarán prioritarios los proyectos que tengan como fin lograr un uso racional, eficiente y sustentable de los recursos naturales; así como las asociaciones cuyo propósito sea la creación y funcionamiento de redes científicas y tecnológicas.
 
 ### CAPÍTULO III. DIVULGACIÓN Y DIFUSIÓN DE LA INVESTIGACIÓN
 
@@ -1428,3 +1470,9 @@ Los asuntos que con motivo de esta Ley, deban pasar de una Secretaría a otra, p
 ###### ARTÍCULO DÉCIMO CUARTO.
 
 El Gobernador del Estado, por conducto de la Secretaría de Gobierno, Secretaría de Finanzas y Administración y la Secretaría de Contraloría, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, serán responsables directos y deberán concluir aquellas adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como activos patrimoniales, en un plazo no mayor de ciento cincuenta días, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Túrnese el presente Decreto al titular del Poder Ejecutivo para su promulgación y publicación correspondiente.
