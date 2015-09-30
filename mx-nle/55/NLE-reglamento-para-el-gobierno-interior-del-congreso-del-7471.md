@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2015-08-19"
+last_updated: "2015-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE AGOSTO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -579,7 +577,7 @@ e) La aprobación para la designación del Procurador General de Justicia del Es
 
 f) Los casos relativos a la concesión de amnistía por delitos políticos;
 
-g) Actuar como Comisión Jurisdiccional en los casos de Juicio Político y Declaratoria de Procedencia, cuando no se nombre una temporal;
+g) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
 
 h) Las iniciativas relativas al orden público, la seguridad y la tranquilidad de las personas;
 
@@ -943,6 +941,14 @@ a) Lo relativo a las leyes hacendarias y de ingresos de los municipios, así com
 
 b) Los demás asuntos e iniciativas que el Pleno del Congreso le encomiende.
 
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XXI.- Comisión Anticorrupción:
+
+a) Dictaminar los asuntos en matéria de Juicio Político o Declaración de Procedencia, cuando no se nombre una Comisión Jurisdiccional; y
+
+b) Los demás asuntos e iniciativas que el Pleno del Congreso encomiende.
+
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
 ###### Artículo 40.
@@ -987,9 +993,9 @@ Cuando algún miembro de cualquiera de las Comisiones tuviere interés en el asu
 
 El Presidente de cada Comisión es responsable de los expedientes turnados a ella para su estudio y a este efecto, deberá firmar el recibo de ellos en el libro de turno que llevará la Oficialía Mayor, cesando aquélla responsabilidad cuando los mismos sean devueltos a este órgano de soporte técnico.
 
-> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-Los expedientes que tengan el carácter de exhortos, que no sean dictaminados en el lapso de 365 días naturales podrán ser dados de baja mediante acuerdo emitido por la Comisión a la que fueron turnados y serán dados de baja por la Oficialía Mayor del listado de asuntos pendientes.
+Los expedientes que tengan el carácter de exhortos, Puntos de Acuerdo, de denuncias o solicitudes al Congreso que no tengan el carácter de declaración de procedencia o juicio político; que no hayan sido dictaminados en el lapso de seis meses a partir de haber sido turnados a comisiones, serán dados de baja del listado de asuntos pendientes, sin más trámite, por la Oficialia Mayor.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2007)</small>
 
@@ -2526,3 +2532,11 @@ P.O. 17 DE DICIEMBRE DE 2014.
 P.O. 16 DE MARZO DE 2015.
 
 Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día de su aprobación.
+
+Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Tercero.- Para efectos de los expedientes que a la fecha se encuentren turnados a las Comisiones Permanentes de Dictamen Legislativo, el plazo referido en el párrafo segundo del Artículo 46 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, empezará a correr a partir del día siguiente de la entrada en vigor del presente Decreto.
