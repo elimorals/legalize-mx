@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-59731"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2014-08-19"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO Y TERCERO DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO DE FORMA GRADUAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -6386,3 +6388,27 @@ P.O. 19 DE AGOSTO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. La presente reforma será aplicable a las comunicaciones procesales en los juicios y procedimientos familiares que se encuentren sustanciándose al momento de entrar y no se hallan aún girado o entregado a las partes conforme al anterior artículo 780.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Código iniciará su vigencia, en la forma y términos que a continuación se precisan:
+
+a) El día hábil siguiente a los sesenta días naturales al de su publicación, en los distritos judiciales de Ario, Arteaga, Coahuayana, Coalcomán, Huetamo y Tanhuato;
+
+b) El día hábil siguiente a los ciento veinte días naturales al de su publicación, en los distritos judiciales de Hidalgo, Jiquilpan, Puruándiro, Sahuayo, Tacámbaro, Zacapu y Zinapécuaro;
+
+c) El día hábil siguiente a los ciento ochenta días naturales al de su publicación, en los distritos judiciales de Apatzingán, La Piedad, Lázaro Cárdenas, Los Reyes, Maravatío, Pátzcuaro y Zitácuaro;
+
+d) El día hábil siguiente a los doscientos cuarenta días naturales al de su publicación, en el distrito judicial de Uruapan;
+
+e) El día hábil siguiente a los trescientos días naturales al de su publicación, en el distrito judicial de Zamora; y,
+
+f) El día hábil siguiente a los trescientos sesenta días naturales al de su publicación, en el distrito judicial de Morelia.
+
+TERCERO. En los términos del artículo que precede, de la misma forma gradual se abroga el Código Familiar para el Estado de Michoacán, aprobado mediante Decreto Legislativo número 316, de fecha 11 once de enero de 2008 dos mil ocho, publicado en el Periódico Oficial del Estado, el 11 once de febrero del mismo año.
+
+CUARTO. Los asuntos en que la demanda o solicitud se hubiere presentado ante la Oficialía de Partes y tumo o ante el Juzgado, en los distritos judiciales en donde no exista oficialía, antes de la iniciación de vigencia de este Código, se sustanciarán y decidirán conforme al Código vigente en la fecha de su presentación.
+
+QUINTO. En los distritos judiciales en donde no existan jueces de instrucción y orales, el o los existentes con competencia en materia familiar conocerán de todo el procedimiento, comprendiendo tanto la etapa escrita como la oral, hasta en tanto el Consejo del Poder Judicial los designe.
