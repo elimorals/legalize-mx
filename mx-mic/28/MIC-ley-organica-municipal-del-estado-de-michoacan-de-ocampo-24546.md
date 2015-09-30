@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-de-ocampo-24546"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-12-31"
-last_updated: "2015-09-29"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
 
@@ -732,6 +732,10 @@ II. Aprobar, en su caso, el proyecto de Ley de Ingresos que le presente el Tesor
 III. Presentar al Congreso del Estado para su aprobación, en su caso, la Ley de Ingresos Municipal;
 
 IV. Aprobar, en su caso, el Presupuesto de Egresos que le presente el Tesorero Municipal y remitirlo al Congreso del Estado para la vigilancia de su ejercicio;
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Los Ayuntamientos deberán aprobar en los Presupuestos de Egresos las erogaciones plurianuales necesarias y suficientes para cubrir el pago de las obligaciones derivadas de los contratos de proyectos para prestación de servicios que hayan sido celebrados por entidades públicas municipales para la implementación de proyectos de infraestructura o servicios públicos de conformidad con lo previsto en la Ley de Asociaciones Público Privadas para el Estado de Michoacán de Ocampo durante la vigencia de los mismos.
 
 V. Someter anualmente para examen y en su caso aprobación del Congreso del Estado, la cuenta pública Municipal correspondiente al año anterior, de conformidad con las disposiciones aplicables;
 
@@ -2385,7 +2389,7 @@ XXII. Anuncios, Espectáculos y Diversiones Públicos; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
 
-XXIII. de (sic) acceso a la información pública; y,
+XXIII. de acceso a la información pública; y,
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2007)</small>
 
@@ -2912,3 +2916,27 @@ Notifíquese el presente Decreto a los municipios del Estado de Michoacán, que 
 ###### ARTÍCULO CUARTO.
 
 Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y a la Auditoría Superior de Michoacán, para su conocimiento y fines conducentes.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, deberá de emitir el Reglamento respectivo de la presente Ley en un periodo no mayor a 180 días, a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaria de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Proyectos para Prestación de Servicios del Estado de Michoacán de Ocampo y sus Municipios. Se dejan sin efectos todas las disposiciones en la materia que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado de Michoacán de Ocampo, deberá en un término de 90 días contados a partir de la entrada en vigor del presente Decreto, reformar la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles e Inmueble (sic) del Estado de Michoacán de Ocampo y la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado de Michoacán de Ocampo y sus Municipios.
+
+Lo previsto en el segundo párrafo del artículo 17 del presente Decreto, entrará en vigor cuando se dé cabal cumplimiento al párrafo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. Para su conocimiento y efectos legales conducentes.
