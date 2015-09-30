@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-viaticos-y-pasajes-del-instituto-de-seguridad-622
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-19"
-last_updated: "2008-07-19"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DE VIATICOS Y PASAJES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-REGLAMENTO DE VIATICOS Y PASAJES
+REGLAMENTO DE VIÁTICOS Y PASAJES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL MANEJO DE VIÁTICOS, PASAJES Y COMBUSTIBLES DEL ISSSTEZAC, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 19 de julio de 2008.
 
@@ -257,7 +259,7 @@ La interpretación administrativa y la vigilancia del cumplimiento del presente 
 
 ANEXOS Y FORMATOS DE VIÁTICOS
 
-> <small>N. DE E. VEASE ANEXOS Y FORMATOS EN EL SUPLEMENTO DEL P. O. DE 19 DE JULIO DE 2008, PAGINAS DE LA 86 A LA 99.</small>
+> <small>N. DE E. VÉASE ANEXOS Y FORMATOS EN EL SUPLEMENTO DEL P. O. DE 19 DE JULIO DE 2008, PAGINAS DE LA 86 A LA 99.</small>
 
 ## TRANSITORIOS
 
@@ -306,3 +308,15 @@ SUBDIRECTOR DE PRESTACIONES ECONÓMICAS
 LIC. SERGIO DÍAZ DE LA TORRE
 
 SUBDIRECTOR DE FILIALES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente Reglamento para el Manejo de Viáticos, Pasajes y Combustibles del ISSSTEZAC entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El presente Reglamento abroga al Reglamento de Viáticos y Pasajes aprobado mediante sesión ordinaria de la Junta Directiva número 249/2008, acuerdo número 2100/249/2008 de fecha 16 de junio de 2008, y publicado en el suplemento número 58 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 19 de julio del año 2008.
+
+Tercero.- El presente Reglamento abroga al Reglamento de Combustibles de ISSSTEZAC aprobado mediante sesión ordinaria de la Junta Directiva número 249/2008, acuerdo número 2100/249/2008 de fecha 16 de junio del mismo año, y publicado en el suplemento número 58 del Periódico Oficial del Estado de Zacatecas, correspondiente al día19 (sic) de julio del año 2008. Y cualquier disposición que contravenga lo aquí estipulado.
+
+Cuarto.- El presente Reglamento considera en su redacción un lenguaje incluyente de Género.
