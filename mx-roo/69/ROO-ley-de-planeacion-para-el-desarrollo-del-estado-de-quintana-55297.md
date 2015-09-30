@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-planeacion-para-el-desarrollo-del-estado-de-quintana-552
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-30"
-last_updated: "2013-08-19"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL NOVENO, DÉCIMO SEGUNDO, DÉCIMO SEXTO Y DÉCIMO NOVENO TRANSITORIOS DEL DECRETO NÚMERO 306 DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES O REFERENCIAS QUE SE HAGAN AL INSTITUTO FORESTAL DE QUINTANA ROO; A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA; A LA COMISIÓN PARA EL DESARROLLO DE LA ETNIA MAYA Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUINTANA ROO, Y AL INSTITUTO DE FOMENTO A LA VIVIENDA Y REGULARIZACIÓN DE LA PROPIEDAD DEL ESTADO, SE ENTENDERÁN HECHAS A LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE; A LA SECRETARÍA DE LA GESTIÓN PÚBLICA; A LA SECRETARÍA DE DESARROLLO SOCIAL E INDÍGENA, Y A LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA RESPECTIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de marzo de 2007.
 
@@ -43,9 +43,11 @@ LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular la planeación para el desarrollo de la entidad, así como establecer las normas, principios y bases para la integración y funcionamiento del Sistema de Planeación Democrática del Estado de Quintana Roo, como un mecanismo permanente, racional y sistemático de acciones, para la transformación de la realidad del Estado en lo político, social, ambiental, cultural y económico.
+La presente Ley es de orden público e interés social y tiene por objeto regular la planeación para el desarrollo de la entidad, contemplando las condiciones especiales de desventaja en las regiones insulares, así como establecer las normas, principios y bases para la integración y funcionamiento del Sistema de Planeación Democrática del Estado de Quintana Roo, como un mecanismo permanente, racional y sistemático de acciones, para la transformación de la realidad del Estado en lo político, social, ambiental, cultural, económico, educativo y deportivo.
 
 ###### Artículo 2.
 
@@ -59,49 +61,55 @@ b).- Los Ayuntamientos;
 
 c).- Los Órganos Autónomos.
 
-II.- Órganos:
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-a).- El Comité de Planeación para el Desarrollo del Estado (COPLADE); y
+II. Órganos:
 
-b).- El Comité de Planeación para el Desarrollo que se instituya en cada Municipio del Estado de Quintana Roo (COPLADEMUN).
+a) El Comité de Planeación para el Desarrollo del Estado (COPLADE);
+
+b) El Comité de Planeación para el Desarrollo que se instituya en cada Municipio del Estado de Quintana Roo (COPLADEMUN), y
+
+c) El Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo.
 
 La participación de los representantes de las Dependencias y Entidades Federales en el Estado, se hará de acuerdo a lo previsto en los convenios que al efecto se celebren entre las Autoridades y Órganos antes señalados y el Gobierno Federal.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta Ley se entenderá por:
+Para los efectos de esta ley se entiende por:
 
-l. Congreso. El Congreso del Estado de Quintana Roo.
+I. Congreso: El Congreso del Estado de Quintana Roo;
 
-II. Consejo Estatal. El Consejo Estatal de Participación Social para la Planeación Democrática de Quintana Roo;
+II. Consejo Estatal: El Consejo Estatal de Participación Social para la Planeación Democrática de Quintana Roo;
 
-III. Consejo Municipal. El Consejo Municipal de Participación Social para la Planeación Democrática, que se instituya en cada Municipio del Estado de Quintana Roo;
+III. Consejo Municipal: El Consejo Municipal de Participación Social para la Planeación Democrática, que se instituya en cada Municipio del Estado de Quintana Roo;
 
-IV. COPLADE. El Comité de Planeación para el Desarrollo del Estado de Quintana Roo;
+IV. COPLADE: El Comité de Planeación para el Desarrollo del Estado de Quintana Roo;
 
-V. COPLADEMUN. El Comité de Planeación para el Desarrollo que se instituya en cada Municipio del Estado de Quintana Roo;
+V. COPLADEMUN: El Comité de Planeación para el Desarrollo que se instituya en cada Municipio del Estado de Quintana Roo;
 
-VI. Ley. La Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
+VI. Consejo Insular: El Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo;
 
-VII. Ley de Planeación. La Ley de Planeación en el ámbito Federal;
+VII. Ley: La Ley de Planeación para el Desarrollo del Estado de Quintana Roo;
 
-VIII. Plan Estatal. El Plan Estatal de Desarrollo;
+VIII. Ley de Planeación: La Ley de Planeación en el ámbito Federal;
 
-IX. Plan Nacional. El Plan Nacional de Desarrollo.
+IX. Plan Estatal: El Plan Estatal de Desarrollo;
 
-X. Planes Municipales. El Plan Municipal de Desarrollo de cada Municipio;
+X. Plan Nacional: El Plan Nacional de Desarrollo;
 
-XI. Programas. Los Programas Regionales, Sectoriales, Institucionales, Especiales y Operativos Anuales;
+XI. Planes Municipales: El Plan Municipal de Desarrollo de cada Municipio;
 
-XII. Registro Estatal. El Registro de Planes y Programas de Desarrollo del Estado de Quintana Roo;
+XII. Programas: Los Programas Regionales, Sectoriales, Institucionales, Especiales y Operativos Anuales;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+XIII. Registro Estatal: El Registro de Planes y Programas de Desarrollo del Estado de Quintana Roo;
 
-XIII. Secretaría: La Secretaría de Planeación y finanzas;
+XIV. Secretaría: La Secretaría de Finanzas y Planeación;
 
-XIV. Sistema de Información. El Sistema de Información para la Planeación del Desarrollo del Estado de Quintana Roo; y
+XV. Sistema de Información: El Sistema de Información para la Planeación del Desarrollo del Estado de Quintana Roo, y
 
-XV. Sistema Estatal. El Sistema de Planeación Democrática del Estado de Quintana Roo.
+XVI. Sistema Estatal: El Sistema de Planeación Democrática del Estado de Quintana Roo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -143,35 +151,45 @@ XI. Las bases para la integración y funcionamiento del Registro Estatal; y
 
 XII. Las bases para la integración y funcionamiento del Sistema de Información.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-Para la mejor comprensión e interpretación de este ordenamiento se establecen las siguientes definiciones:
+Para la mejor comprensión e interpretación de esta ley se establecen las siguientes definiciones:
 
-l. Diagnóstico estratégico. Es la descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, política, social y cultural del estado, que coadyuve a definir las grandes líneas de acción contenidas en las políticas públicas estatales;
+I. Desarrollo sustentable. El proceso evaluable mediante criterios e indicadores del carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-II. Estrategia de desarrollo. Son los principios y directrices para orientar el proceso de planeación del desarrollo para alcanzar los objetivos a los que se desea llegar. Es el camino a seguir en las grandes líneas de acción contenidas en las políticas de desarrollo estatal para alcanzar los propósitos, objetivos y metas formulados en el corto, mediano y largo plazo;
+II. Diagnóstico estratégico. Es la descripción, evaluación y análisis de la situación actual y la trayectoria histórica de la realidad económica, política, social, cultural, educativa y deportiva del Estado, que coadyuve a definir las grandes líneas de acción contenidas en las políticas públicas estatales;
 
-III. Indicadores para la planeación. Es el parámetro utilizado para medir o comparar los resultados efectivamente obtenidos en la ejecución de un programa, proyecto o actividad, para monitorear y evaluar la ejecución de las tareas gubernamentales;
+III. Estrategia de desarrollo. Son los principios y directrices para orientar el proceso de planeación del desarrollo para alcanzar los objetivos a los que se desea llegar. Es el camino a seguir en las grandes líneas de acción contenidas en las políticas de desarrollo estatal para alcanzar los propósitos, objetivos y metas formulados en el corto, mediano y largo plazo;
 
-IV. Planeación democrática. Es el proceso mediante el cual se llevan a cabo, de manera permanente y sistemática, los mecanismos de participación social para la planeación, orientados a promover la participación activa de la ciudadanía en las decisiones para definir objetivos, estrategias, metas y prioridades de desarrollo. Tiene como propósito fundamental generar nuevas, formas de vinculación, corresponsabilidad, gestión y trabajo entre sociedad y gobierno, a fin de mejorar los efectos de las acciones del sector público;
+IV. Indicadores para la planeación. Es el parámetro utilizado para medir o comparar los resultados efectivamente obtenidos en la ejecución de un programa, proyecto o actividad, para monitorear y evaluar la ejecución de las tareas gubernamentales;
 
-V. Planeación estatal del desarrollo. Es el proceso continuo, permanente e integral, evaluable mediante criterios e indicadores, por medio del cual se regulan, dirigen, articulan, ordenan y sistematizan las acciones de la actividad colectiva de carácter político, ambiental, cultural, económico y social que corresponden a las autoridades y órganos responsables de la planeación, con la participación efectiva de la sociedad, orientadas a lograr el perfeccionamiento paulatino de la calidad de vida y bienestar de todos y cada uno de los individuos que conforman la sociedad quintanarroense y de sus generaciones futuras, de acuerdo con las normas, principios y objetivos establecidos por la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Quintana Roo, los Planes estatal y Municipales, los programas que de éstos se deriven y las demás disposiciones legales aplicables;
+V. Islas. Extensión natural de tierra rodeada de agua, que se encuentra sobre el nivel de ésta en pleamar. Incluye pequeñas porciones de tierra rodeadas de agua de manera permanente, así como estructuras masivas escarpadas que se encuentran emergidas permanentemente. Dentro de este término se incluyen a los arrecifes y cayos;
 
-VI. Política pública. Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad; y
+VI. Planeación democrática. Es el proceso mediante el cual se llevan a cabo, de manera permanente y sistemática, los mecanismos de participación social para la planeación, orientados a promover la participación activa de la ciudadanía en las decisiones para definir objetivos, estrategias, metas y prioridades de desarrollo. Tiene como propósito fundamental generar nuevas formas de vinculación, corresponsabilidad, gestión y trabajo entre sociedad y gobierno, a fin de mejorar los efectos de las acciones del sector público;
 
-VII. Vertiente. Es el conjunto de acciones que en un mismo sentido llevarán a cabo las autoridades y órganos responsables de la planeación, sus relaciones entre sí y con los sectores social y privado que en ella participan, para la instrumentación del proceso de planeación.
+VII. Planeación estatal del desarrollo. Es el proceso continuo, permanente e integral, evaluable mediante criterios e indicadores, por medio del cual se regulan, dirigen, articulan, ordenan y sistematizan las acciones de la actividad colectiva de carácter político, ambiental, cultural, económico, social, educativo y deportivo que corresponden a las autoridades y órganos responsables de la planeación, con la participación efectiva de la sociedad, orientadas a lograr el perfeccionamiento paulatino de la calidad de vida y bienestar de todos y cada uno de los individuos que conforman la sociedad quintanarroense y de sus generaciones futuras, de acuerdo con las normas, principios y objetivos establecidos por la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Quintana Roo, los Planes Estatal y Municipales, los programas que de éstos se deriven y las demás disposiciones legales aplicables;
+
+VIII. Política pública. Conjunto de estrategias, programas y acciones de gobierno y de la sociedad que, de manera integral y con una visión común, articulan procesos que potencien y garanticen el bienestar y calidad de vida para la sociedad, y
+
+IX. Vertiente. Es el conjunto de acciones que en un mismo sentido llevarán a cabo las autoridades y órganos responsables de la planeación, sus relaciones entre sí y con los sectores social y privado que en ella participan, para la instrumentación del proceso de planeación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 8.
 
-La planeación deberá llevarse a cabo como un medio para el eficaz y eficiente desempeño de la responsabilidad de las autoridades y órganos encargados de la planeación, con relación al desarrollo integral y sustentable de la entidad y deberá tender a la consecución de los fines y objetivos políticos, ambientales, culturales, económicos y sociales contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Quintana Roo, guardando congruencia con los lineamientos generales en materia de planeación que rijan al país.
+La planeación deberá llevarse a cabo como un medio para el eficaz y eficiente desempeño de la responsabilidad de las autoridades y órganos encargados de la planeación, con relación al desarrollo integral y sustentable de la entidad y deberá tender a la consecución de los fines y objetivos políticos, ambientales, culturales, económicos, sociales, educativos y deportivos contenidos en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado de Quintana Roo, guardando congruencia con los lineamientos generales en materia de planeación que rijan al país. Para ello, estará basada en los siguientes principios rectores:
 
-Para ello, estará basada en los siguientes principios rectores:
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-l. La consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento de las condiciones de vida del pueblo en lo político, ambiental, cultural, económico y social, impulsando su participación activa y comprometida tanto en la planeación como en la ejecución de las actividades del Gobierno contempladas en los Planes Estatal y Municipales y en los programas;
+I. La consolidación de la democracia como sistema de vida, fundado en el constante mejoramiento de las condiciones de vida del pueblo en lo político, ambiental, cultural, económico, social, educativo y deportivo, impulsando su participación activa y comprometida tanto en la planeación como en la ejecución de las actividades del Gobierno contempladas en los Planes Estatal y Municipales y en los programas;
 
 II. El fortalecimiento del pacto federal y del municipio libre, para lograr un desarrollo equilibrado del estado y la consolidación de su soberanía política y económica, congruente con los objetivos del país;
 
-III. El respeto irrestricto de las garantías individuales y de las libertades y derechos humanos, sociales y políticos; así como también a las manifestaciones culturales de los pueblos y comunidades indígenas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+III. El respeto irrestricto de las libertades y derechos humanos, sociales y políticos; así como también a las manifestaciones culturales de los pueblos y comunidades indígenas;
 
 IV. La participación en el proceso de descentralización del desarrollo económico nacional, aprovechando la ubicación estratégica de Quintana Roo, proyectando hacia el exterior la potencialidad productiva del Estado para fortalecer la integración nacional, incorporando la actividad económica local a la del resto del país;
 
@@ -181,17 +199,45 @@ VI. Como Estado fronterizo, la preservación de la cultura nacional, su defensa 
 
 VII. El uso y aprovechamiento óptimo y racional de los recursos naturales, técnicos, financieros y humanos con que cuenta el estado y sus municipios, con el fin de alcanzar su desarrollo sustentable;
 
-VIII. La continuidad de los programas derivados de los planes estatal y municipales vigentes, entendiendo por esto, que para la modificación de los mismos deberá de realizarse necesariamente un estudio político, ambiental, cultural, económico y social que justifique dicha modificación;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-IX. La universalidad de la planeación del desarrollo, que deberá contemplar las diferentes fases o etapas del proceso político, ambiental, cultural, económico y social y prever las consecuencias que producirá la instrumentación de sus acciones, en el entorno sociopolítico del Estado;
+VIII. La continuidad de los programas derivados de los Planes Estatal y Municipales vigentes, entendiendo por esto, que para la modificación de los mismos deberá de realizarse necesariamente un estudio político, ambiental, cultural, económico, social, educativo y deportivo que justifique dicha modificación;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+IX. La universalidad de la planeación del desarrollo, que deberá contemplar las diferentes fases o etapas del proceso político, ambiental, cultural, económico, social, educativo y deportivo previendo las consecuencias que producirá la instrumentación de sus acciones, en el entorno sociopolítico del Estado;
 
 X. La unidad y coordinación de los programas regionales, sectoriales, institucionales, especiales y operativos anuales, que emanen de los Planes Estatal y Municipales, formando en su conjunto un todo orgánico, funcional y compatible;
 
 XI. La integralidad en el desarrollo de las tres regiones del Estado, a través del fortalecimiento a las microrregiones identificadas por sus centros de intercambio económico y de servicios, el perfil productivo, el sistema de comunicaciones y la división geopolítica;
 
-XII. El reforzamiento de la cohesión social a nivel local, para que los valores y aspiraciones compartidos entre los individuos de las comunidades, la confianza entre ellos mismos, los lazos de reciprocidad y ayuda mutua, les faciliten construir soluciones y propuestas conjuntas de desarrollo aplicables al ámbito local en que viven o trabajan; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-XIII. El equilibrio de los factores de la producción, que proteja y promueva el empleo y refuerce la competitividad de las diferentes regiones y microrregiones, como vía para incrementar los empleos y los ingresos de sus habitantes, en un marco de estabilidad económica y social.
+XII. El reforzamiento de la cohesión social a nivel local, para que los valores y aspiraciones compartidos entre los individuos de las comunidades, la confianza entre ellos mismos, los lazos de reciprocidad y ayuda mutua, les faciliten construir soluciones y propuestas conjuntas de desarrollo aplicables al ámbito local en que viven o trabajan;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. El equilibrio de los factores de la producción, que proteja y promueva el empleo y refuerce la competitividad de las diferentes regiones y microrregiones, como vía para incrementar los empleos y los ingresos de sus habitantes, en un marco de estabilidad económica y social;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XIV. El desarrollo de una política educativa en todos los niveles, que promueva los principios y prácticas de conservación y desarrollo sustentable de los recursos naturales, elaborando programas de cultura ambiental con dimensión paralela a las áreas de formación del pensamiento y el comportamiento del ser humano como conceptos básicos de una política de formación ambiental;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XV. La coordinación y el fomento de acciones de educación y cultura ambiental en todo el Estado, considerando los criterios regionales pertinentes, e intensificando los esfuerzos para proteger y mejorar el estado actual del entorno, a fin de ampliar la cobertura de la educación ambiental a todos sus habitantes;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XVI. La coordinación con las instituciones de educación superior en el Estado y los organismos dedicados a la investigación científica y tecnológica, para que desarrollen programas de investigación y difusión de las causas y efectos de los fenómenos ambientales, así como de la diversidad biológica de la entidad;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. El desarrollo de una política educativa para fortalecer el aprecio por la historia, los símbolos patrios, así como la valoración de las tradiciones y particularidades culturales del Estado, elaborando para ello planes y programas que fortalezcan un mejor conocimiento de estos, y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. La igualdad de oportunidades de los habitantes de las islas y la aplicación de medidas específicas para lograr la integración de los territorios insulares al desarrollo del Estado.
 
 ###### Artículo 9.
 
@@ -345,11 +391,15 @@ a).- Autoridades:
 
 3.- Los Órganos Autónomos.
 
-b).- Órganos:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-1. COPLADE; y
+b) Órganos:
 
-2. COPLADEMUN.
+1. COPLADE;
+
+2. COPLADEMUN, y
+
+3. Consejo Insular.
 
 III.- Proceso de planeación:
 
@@ -857,11 +907,11 @@ Apartado Primero
 
 De las Disposiciones Comunes
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-El Plan Estatal y los programas a que se refiere esta Ley, especificarán, en su caso, las acciones que serán objeto de coordinación entre el Gobierno del Estado y los Gobiernos Federal y Municipal de otros Estados, en términos del artículo 94 de (sic) 26 de esta Ley y de concertación o inducción con los particulares, organismos, instituciones y representantes del sector social y privado.
-
-El Plan Municipal y los Programas que se deriven de este último, especificarán las acciones que serán objeto de coordinación entre el Gobierno Municipal y los Gobiernos Federal, estatal, de otros Estados y Municipios de otros Estados, en términos del artículo 94 de esta Ley y de concertación o inducción con los particulares, organismos, instituciones y representantes del sector social y privado.
+El Plan Estatal y los programas a que se refiere esta ley, especificarán, en su caso, las acciones que serán objeto de coordinación entre el gobierno del Estado y los gobiernos federal y municipal de otros Estados, y de concertación o inducción con los particulares, organismos, instituciones y representantes del sector social y privado. El Plan Municipal y los programas que se deriven de este último, especificarán las acciones que serán objeto de coordinación entre el gobierno municipal y los gobiernos federal, estatal, de otros Estados y Municipios de otros Estados, de esta ley y de concertación o inducción con los particulares, organismos, instituciones y representantes del sector social y privado. Lo anterior en términos a los artículo 94 y 104 de esta ley respectivamente.
 
 ###### Artículo 45.
 
@@ -879,13 +929,17 @@ Apartado Segundo
 
 De los Planes Estatal y Municipales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 48.
 
-El Plan Estatal es el instrumento normativo de largo plazo, rector del proceso de planeación para el desarrollo del Estado que expresa claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia política, ambiental, cultural, económica, social e indígena del Estado, para promover y fomentar el desarrollo integral sustentable y el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y la sociedad hacia ese fin. En su elaboración e integración quedarán incluidas las propuestas planteadas por los particulares, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de participación social para la planeación democrática instituidos dentro del Sistema Estatal.
+El Plan Estatal es el instrumento normativo de largo plazo, rector del proceso de planeación para el desarrollo del Estado que expresa claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia política, ambiental, cultural, económica, social, indígena, educativa y deportiva del Estado, para promover y fomentar el desarrollo integral sustentable y el mejoramiento en la calidad de vida de la población y orientar la acción de gobierno y la sociedad hacia ese fin. En su elaboración e integración quedarán incluidas las propuestas planteadas por los particulares, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de participación social para la planeación democrática instituidos dentro del Sistema Estatal.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 49.
 
-El Plan Municipal es el instrumento normativo de largo plazo, rector del proceso de planeación para el desarrollo municipal que expresa claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia política, ambiental, cultural, económica y social del Municipio, para promover y fomentar el desarrollo integral y el mejoramiento en la calidad de vida de la población y orientar la acción de este orden de gobierno y los grupos sociales de los Municipios hacia ese fin. En su elaboración e integración quedarán incluidas las propuestas planteadas por los particulares, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de participación social para la planeación democrática instituidos dentro del Sistema Estatal.
+El Plan Municipal es el instrumento normativo de largo plazo, rector del proceso de planeación para el desarrollo municipal que expresa claramente las prioridades, objetivos, estrategias y líneas generales de acción en materia política, ambiental, cultural, económica, social, educativa y deportiva del Municipio, para promover y fomentar el desarrollo integral y el mejoramiento en la calidad de vida de la población y orientar la acción de este orden de gobierno y los grupos sociales de los Municipios hacia ese fin. En su elaboración e integración quedarán incluidas las propuestas planteadas por los particulares, organismos, instituciones y representantes del sector social y privado, a través de los mecanismos de participación social para la planeación democrática instituidos dentro del Sistema Estatal.
 
 ###### Artículo 50.
 
@@ -1005,9 +1059,11 @@ Los Programas Estatales y Municipales que se deriven de los Planes Estatal y Mun
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 66.
 
-El Proceso de Planeación es el conjunto de etapas en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos generales, políticos, ambientales, culturales, económicos y sociales, tomando en consideración la disponibilidad de recursos reales y potenciales.
+El Proceso de Planeación es el conjunto de etapas en las que se establecen directrices, se definen estrategias y se seleccionan alternativas y cursos de acción en función de objetivos generales, políticos, ambientales, culturales, económicos, sociales, educativos y deportivos, tomando en consideración la disponibilidad de recursos reales y potenciales.
 
 ###### Artículo 67.
 
@@ -1021,9 +1077,11 @@ III. Control, seguimiento, evaluación y actualización.
 
 #### Sección Segunda. De la Formulación
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 68.
 
-La Formulación es el conjunto de actividades que se desarrollan para la elaboración, validación, aprobación y publicación de los Planes Estatal y Municipales y de sus programas respectivos. Comprende la preparación y diagnóstico político, social, ambiental, cultural y económico de carácter global, regional, sectorial e institucional; la definición de los objetivos y las prioridades del desarrollo, considerando las propuestas de los particulares, organismos, instituciones y representantes del sector social y privado, el señalamiento de estrategias y políticas congruentes entre sí.
+La formulación es el conjunto de actividades que se desarrollan para la elaboración, validación, aprobación y publicación de los Planes Estatal y Municipales y de sus programas respectivos. Comprende la preparación y diagnóstico político, social, ambiental, cultural, económico, educativo y deportivo de carácter global, regional, sectorial e institucional; la definición de los objetivos y las prioridades del desarrollo, considerando las propuestas de los particulares, organismos, instituciones y representantes del sector social y privado, el señalamiento de estrategias y políticas congruentes entre sí.
 
 ###### Artículo 69.
 
@@ -1283,9 +1341,11 @@ Los convenios que se celebren conforme a esta sección, se considerarán de dere
 
 Los convenios de concertación sobre la planeación del desarrollo, que se celebren en los términos de esta sección deberán publicarse en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 107.
 
-La vertiente de inducción comprende los actos que realizan las Dependencias y Entidades de la Administración Pública Estatal y Municipal y los Órganos Autónomos, en la ejecución de aquellos instrumentos y acciones políticos, ambientales, culturales, económicos y sociales, para fomentar, promover, regular, restringir, orientar, prohibir y, en general, inducir las acciones de los particulares, organismos, instituciones y representantes del sector social y privado en materia económica y social, ajustándose a los objetivos y prioridades de los Planes Estatal y Municipales y de los Programas respectivos que de éstos se deriven.
+La vertiente de inducción comprende los actos que realizan las Dependencias y Entidades de la Administración Pública Estatal y Municipal y los Órganos Autónomos, en la ejecución de aquellos instrumentos y acciones políticos, ambientales, culturales, económicos, sociales, educativos y deportivos para fomentar, promover, regular, restringir, orientar, prohibir y, en general, inducir las acciones de los particulares, organismos, instituciones y representantes del sector social y privado en materia económica y social, ajustándose a los objetivos y prioridades de los Planes Estatal y Municipales y de los Programas respectivos que de éstos se deriven.
 
 ###### Artículo 108.
 
@@ -1305,9 +1365,11 @@ La fase de control y seguimiento tiene como finalidad vigilar que se logren los 
 
 La fase de evaluación, de acuerdo a los resultados de la fase anterior, tiene como finalidad obtener conclusiones cualitativas y cuantitativas sobre el cumplimiento de los objetivos de los Planes Estatal y Municipales y de los Programas que de ellos se deriven, mediante el cotejo de previsiones y resultados, alcances e impacto, de los programas, políticas y estrategias.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
 ###### Artículo 112.
 
-En la fase de actualización se adecuarán los Planes Estatal y Municipales y los Programas que de ellos se deriven a las transformaciones del entorno político, social, ambiental, cultural y económico del Estado y Municipios, según corresponda.
+En la fase de actualización se adecuarán los Planes Estatal y Municipales y los programas que de ellos se deriven a las transformaciones del entorno político, social, ambiental, cultural, económico, educativo y deportivo del Estado y Municipios, según corresponda.
 
 ###### Artículo 113.
 
@@ -1431,21 +1493,31 @@ III. Los Programas de Desarrollo Urbano Estatal y Municipales;
 
 IV. Los Programas de Ordenamiento Ecológico Estatales y Municipales;
 
-V. Dictámenes de actualizaciones;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Avances y resultados de las evaluaciones de los Planes Estatal y Municipales y de sus respectivos programas;
+V. Los programas de desarrollo sustentable;
 
-VII. Los presupuestos por programas;
+VI. Dictámenes de actualizaciones;
 
-VIII. Las modificaciones a proyectos y objetivos de los programas;
+VII. Avances y resultados de las evaluaciones de los Planes Estatal y Municipales y de sus respectivos programas;
 
-IX. El Convenio de Desarrollo Social y Humano, sus convenios de coordinación y anexos de ejecución;
+VIII. Los presupuestos por programas;
 
-X. Los convenios de coordinación y de concertación que señala esta Ley;
+IX. Las modificaciones a proyectos y objetivos de los programas;
 
-XI. Los instrumentos normativos de control y evaluación que se señalan en el artículo 24 de esta Ley; y
+X. El Convenio de Desarrollo Social y Humano, sus convenios de coordinación y anexos de ejecución;
 
-XII. Los demás de similar naturaleza, que no contravengan las disposiciones de esta Ley.
+XI. Los convenios de coordinación y de concertación que señala esta Ley;
+
+XII. Los instrumentos normativos de control y evaluación que se señalan en el artículo 24 de esta Ley, y
+
+XIII. Los demás de similar naturaleza, que no contravengan las disposiciones de esta Ley.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+###### Artículo 125 Bis.
+
+El Consejo Insular deberá registrar ante la Secretaría los resultados de los estudios que sustenten las bases que permitan definir las políticas, en apoyo al desarrollo integral de las regiones insulares y al mejoramiento de las condiciones de vida de sus habitantes, a que se refiere el artículo 5 de la Ley que crea el Consejo para el Desarrollo Insular del Estado Libre y Soberano de Quintana Roo.
 
 ###### Artículo 126.
 
@@ -1628,3 +1700,7 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
