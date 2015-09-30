@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-y-registro-patrimonial-de-los-102807"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-14"
-last_updated: "2015-09-25"
+last_updated: "2015-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102807&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2014.
 
@@ -214,6 +214,14 @@ XLII. Si se es servidor público de un órgano de control, de forma inmediata da
 XLIII. Los demás que impongan las leyes, reglamentos y demás disposiciones.
 
 Los servidores públicos que se hayan desempeñado en cargos de dirección, consejeros o magistrados en materia electoral, no podrán desempeñar empleo, cargo o comisión públicos por designación de quien haya ganado la elección que ellos organizaron o calificaron.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Las instituciones de educación superior estatales, los centros públicos de investigación estatales y las entidades de la administración pública estatal a que se refiere el artículo 86 Bis de la Ley de Ciencia, Tecnología e Innovación del Estado de Michoacán, que con tal carácter y de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica y tecnológica podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios. Dichas actividades podrán ser, además de las previstas en el citado artículo, la participación en investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas de base tecnológica, o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual, según corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Los servidores públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o cualquier otro concepto, sin respetar la normatividad institucional. El órgano de control interno respectivo verificará el cumplimiento de dicha normatividad, respetando la autonomía de la que goce, en su caso, la institución, centro o entidad.
 
 ###### Artículo 9.
 
@@ -816,3 +824,9 @@ Notifíquese el presente Decreto al Poder Judicial y Consejo del Poder Judicial 
 P.O. 25 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Túrnese el presente Decreto al titular del Poder Ejecutivo para su promulgación y publicación correspondiente.
