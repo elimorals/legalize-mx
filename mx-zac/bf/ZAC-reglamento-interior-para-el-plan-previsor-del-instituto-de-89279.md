@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-para-el-plan-previsor-del-instituto-de-8927
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-01"
-last_updated: "2012-08-01"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR PARA EL PLAN PREVISOR DEL ISSSTEZAC DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL PLAN PREVISOR ISSSTEZAC, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de agosto de 2012.
 
@@ -282,3 +284,17 @@ Segundo.- Se abroga el Reglamento para el Plan Previsor ISSSTEZAC, publicado en 
 Tercero.- El presente Reglamento considera en su redacción un lenguaje incluyente de género.
 
 APROBADO POR LA JUNTA DIRECTIVA EN SESIÓN ORDINARIA CON NÚMERO DE ACUERDO 3074/259/2011 DE FECHA 08 DE JULIO DEL AÑO 2011.- EN FECHA 6 DE JULIO DEL 2012, SE EXPIDE EL PRESENTE REGLAMENTO.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL PLAN PREVISOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS”.]
+
+Primero.- El presente Reglamento para el Plan Previsor ISSSTEZAC, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El presente Reglamento abroga el Reglamento Interior para el Plan Previsor del ISSSTEZAC, aprobado por la Junta Directiva en sesión ordinaria 259/2011 con número de acuerdo 3074/259/2011, de fecha 8 de julio del 2011, publicado en el suplemento número 61 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 1 de agosto del año 2012.
+
+Tercero.- Publíquese en el Periódico Oficial del Gobierno del Estado de Zacatecas, para los efectos legales a que haya lugar.
+
+Cuarto.- El presente Reglamento considera en su redacción un lenguaje incluyente de género.
