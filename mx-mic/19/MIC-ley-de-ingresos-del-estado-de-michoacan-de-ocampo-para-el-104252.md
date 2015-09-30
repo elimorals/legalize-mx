@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-10425
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-29"
-last_updated: "2015-01-23"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el lunes 29 de diciembre de 2014.
 
@@ -829,7 +827,9 @@ Por la inscripción de documentos constitutivos de asociaciones de carácter civ
 
 Por cada inmueble afectado por la anotación. $ 296.00
 
-Por lo que corresponde a los testimonios notariales, en los que se rectifica el registro anterior, y los avisos preventivos con vigencia de 30 días naturales que remite el Notario Público al Registro Público de la Propiedad, al firmase una escritura en la que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, se cobrará la misma cantidad referida en el párrafo anterior, y por cada antecedente registral establecido en el testimonio que se rectifica. Este mismo criterio se aplicará para las demandas o sentencias.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Por lo que corresponde a los testimonios notariales, en los que se rectifica el registro anterior, y los avisos preventivos con vigencia de treinta días naturales que remite el Notario Público al Registro Público de la Propiedad Raíz en el Estado, al firmarse una escritura en la que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces, o en la que se haga constar un crédito que tenga preferencia desde que se ha registrado, se cobrará la misma cantidad referida en el párrafo anterior, con excepción del primer aviso preventivo a que se refiere el artículo 1558 bis del Código Civil para el Estado de Michoacán de Ocampo, y por cada antecedente registral establecido en el testimonio que se rectifique. Este mismo criterio se aplicará para las demandas o sentencias.
 
 Tratándose de testimonios notariales que provengan de otras entidades federativas, además de cubrir los derechos causados conforme a lo dispuesto en la presente Sección, se cubrirá por cada uno, la cantidad de: $ 1,196.00
 
@@ -1694,3 +1694,15 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 29 veintinueve días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo; para sus efectos conducentes.
