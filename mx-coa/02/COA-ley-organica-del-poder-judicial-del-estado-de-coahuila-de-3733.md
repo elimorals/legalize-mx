@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2014-07-11"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -81,11 +81,9 @@ d) Penales;
 
 e) Mixtos, cuando deban conocer de dos o más materias;
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+f) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
 
-f) De Adolescentes; y
-
-g) (DEROGADO, P.O. 26 DE ABRIL DE 2013)
+g) (DEROGADO, P.O. 26 DE ABRIL DE 2013) (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
 
 V.- Juzgados Letrados, que en razón de la materia serán:
 
@@ -223,11 +221,13 @@ Los magistrados supernumerarios del Tribunal Superior de Justicia durarán en su
 
 ### CAPITULO II. DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 8o.
 
-El Pleno del Tribunal Superior de Justicia, se integra por el Presidente electo en los términos del artículo 13 de esta ley, los diez Magistrados Numerarios de las Salas que residan en la capital del Estado y con el Presidente de la Sala Auxiliar con jurisdicción en los Distritos Judiciales de Viesca y San Pedro.
+El Pleno del Tribunal Superior de Justicia, se integra por el Presidente electo en los términos del artículo 13 de esta ley, los diez Magistrados Numerarios de las Salas que residan en la capital del Estado y con el Presidente de la Sala Auxiliar con jurisdicción en los Distritos Judiciales de Torreón y San Pedro de las Colonias.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Las faltas temporales que ocurran en el Pleno, serán suplidas por los Magistrados supernumerarios adscritos a las Salas a que se refieren los artículos 22 y 23 de esta ley.
 
@@ -487,7 +487,7 @@ XXXIII.- Expedir oportunamente los nombramientos que acuerden el Tribunal Pleno 
 
 XXXIV.- Integrar comisiones entre los magistrados del Tribunal Superior, para llevar a cabo estudios especiales, organizar seminarios y conferencias para la capacitación de los miembros del Poder Judicial e integrar secciones editoriales de la Revista de Información Judicial o de otras publicaciones;
 
-XXXV.- Ejercer la jurisdicción disciplinaria que le corresponda, en los términos del Título Décimo de esta Ley; y (sic)
+XXXV.- Ejercer la jurisdicción disciplinaria que le corresponda, en los términos del Título Décimo de esta Ley; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 1997)</small>
 
@@ -507,15 +507,19 @@ La Presidencia del Tribunal Superior de Justicia dispondrá del número de emple
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 16.
 
-El Tribunal Superior de Justicia tendrá cuando menos dos Salas con residencia en la capital del Estado y con jurisdicción en todos los Distritos Judiciales, excepción hecha de los de Viesca y San Pedro, en donde contará con una Sala Auxiliar que tendrá como sede la ciudad de Torreón, Coahuila; en uno y otro caso, con la competencia que les asigne el Pleno, quien podrá determinar la creación de nuevas Salas, en atención a las necesidades del servicio y conforme al presupuesto anual de egresos.
+El Tribunal Superior de Justicia tendrá cuando menos dos Salas con residencia en la capital del Estado y con jurisdicción en todos los Distritos Judiciales, excepción hecha de los de Torreón y San Pedro de las Colonias, en donde contará con una Sala Auxiliar que tendrá como sede la ciudad de Torreón, Coahuila; en uno y otro caso, con la competencia que les asigne el Pleno, quien podrá determinar la creación de nuevas Salas, en atención a las necesidades del servicio y conforme al presupuesto anual de egresos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 Las Salas del Tribunal Superior de Justicia con residencia en la capital del Estado se integrarán con los magistrados numerarios y supernumerarios que determine el Pleno conforme a las necesidades del servicio.
 
-La Sala Auxiliar con jurisdicción en los distritos de Viesca y San Pedro estará conformada por tres magistrados numerarios y tres supernumerarios designados para tal efecto.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+La Sala Auxiliar con jurisdicción en los distritos de Torreón y San Pedro de las Colonias estará conformada por tres magistrados numerarios y tres supernumerarios designados para tal efecto.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
 
@@ -613,11 +617,11 @@ Toda solicitud de licencia requiere causa justificada y las de los secretarios d
 
 VIII.- Las demás que les confieran las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTICULO 22.
+###### ARTÍCULO 22.
 
-La Sala en Materia Civil y Familiar, conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Auxiliar con jurisdicción en los distritos judiciales de Viesca y San Pedro:
+La Sala en Materia Civil y Familiar, conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Auxiliar con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias:
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -637,11 +641,11 @@ IV.- En única instancia, de las demandas de responsabilidad civil presentadas c
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
-V.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y (sic)
+V.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 1996)</small>
 
-VI.- De las revisiones forzosas en materia familiar; y (sic),
+VI.- De las revisiones forzosas en materia familiar; y,
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 1999)</small>
 
@@ -651,43 +655,69 @@ VII.- Fijar jurisprudencia por contradicción, reiteración o por declaración e
 
 VIII.- De los demás asuntos que le encomiende la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 23.
 
-La Sala en Materia Penal conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Auxiliar con jurisdicción en los distritos judiciales de Viesca y San Pedro:
+La Sala en Materia Penal conocerá de los siguientes asuntos, siempre que no correspondan a la Sala Auxiliar con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias:
 
 I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los jueces de Primera Instancia, en Materia Penal;
 
 II.- En única instancia, de las demandas de responsabilidad civil presentadas en contra de los magistrados de los Tribunales Unitarios de Distrito y jueces, derivadas de su actuación en procesos penales;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-III.- De los negocios que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y (sic)
+III.- De los negocios que deba conocer el Tribunal de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 1999)</small>
 
 IV.- Fijar jurisprudencia por contradicción, reiteración o por declaración en los términos que establezca esta ley;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-V.- De los demás asuntos que le encomiende la ley.
+V.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Tribunales Distritales, cuando funcionen como órganos de primera instancia en materia de narcomenudeo;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-###### ARTICULO 24.
+VI.- De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias en materia de narcomenudeo, cuando todos los Tribunales Distritales competentes para conocer estuvieran impedidos; y
 
-La Sala Auxiliar con jurisdicción en los distritos judiciales de Viesca y San Pedro tendrá competencia en materia civil, mercantil, familiar y penal y conocerá de:
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+VII.- De los demás asuntos que le encomiende la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 24.
+
+La Sala Auxiliar con jurisdicción en los distritos judiciales de Torreón y San Pedro de las Colonias tendrá competencia en materia civil, mercantil, familiar, penal y de narcomenudeo y conocerá de:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 I.- Los recursos de apelación contra sentencias definitivas pronunciadas por los Jueces de Primera Instancia con residencia en los distritos de su jurisdicción;
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 II.- Los recursos de apelación contra resoluciones que se dicten en los asuntos a que se refiere la fracción anterior, que de ser revocadas deban tener como consecuencia que el Tribunal ad quem decida sobre el fondo del negocio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 III.- Las revisiones forzosas en materia familiar;
 
-IV.- Los procedimientos para fijar jurisprudencia por reiteración o por declaración en los términos que establezca esta ley; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-V.- De los demás asuntos que le encomiende la ley.
+IV.- Los procedimientos para fijar jurisprudencia por reiteración o por declaración en los términos que establezca esta ley;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+V.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Tribunales Distritales con residencia en los distritos de su jurisdicción, cuando funcionen como órganos auxiliares de primera instancia en materia de narcomenudeo;
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+VI.- De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias en materia de narcomenudeo cuando los Tribunales Distritales con residencia en los distritos de su jurisdicción competentes para conocer, estuvieran impedidos; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+VII.- De los demás asuntos que le encomiende la ley.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1187,13 +1217,17 @@ I. Conocer y resolver de los asuntos de su competencia en los términos previsto
 
 II. Dictar, en la esfera de su competencia, las providencias necesarias para que la administración de la justicia en materia de adolescentes sea eficaz, pronta y expedita.
 
-III. Calificar los impedimentos, las recusaciones y las excusas de los Jueces de Primera Instancia en materia de Adolescentes, en los asuntos de su respectiva competencia y, en su caso, designar a los Jueces que deban sustituirlos.
+III. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2015)
 
-IV. De los conflictos de competencia que se susciten entre los Jueces de Instancia en materia de Adolescentes.
+IV. (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2015)
 
-V. Resolver de manera definitiva e inatacable los recursos que se presenten en contra de las resoluciones que dicten los Jueces de Primera Instancia en materia de Adolescentes, en los términos que para el efecto determine la ley de la materia.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-VI. Compilar los criterios que emanen de las resoluciones que dicte en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas por otra en contrario se sostenga el mismo criterio constituirán jurisprudencia obligatoria para los Jueces de Primera Instancia en materia de Adolescentes.
+V. Resolver de manera definitiva e inatacable los recursos que se presenten en contra de las resoluciones que dicten los Jueces de Primera Instancia en materia Penal, cuando actúen como órganos auxiliares en materia de adolescentes, en los términos que para el efecto determine la ley de la materia.
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+VI. Compilar los criterios que emanen de las resoluciones que dicte en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas por otra en contrario se sostenga el mismo criterio constituirán jurisprudencia obligatoria para los Jueces de Primera Instancia en materia Penal, cuando actúen como órganos auxiliares en materia de adolescentes
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1265,7 +1299,9 @@ Los Tribunales Distritales, tendrán la jurisdicción y competencia que esta Ley
 
 I.- Primer Tribunal Distrital, con residencia en la Capital del Estado y con jurisdicción en los Distritos Judiciales de Saltillo y Parras de la Fuente;
 
-II.- Segundo Tribunal Distrital, con residencia en la ciudad de Torreón y con jurisdicción en los Distritos Judiciales de Viesca y San Pedro;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+II.- Segundo Tribunal Distrital, con residencia en la ciudad de Torreón y con jurisdicción en los Distritos Judiciales de Torreón y San Pedro de las Colonias;
 
 III.-Tercer Tribunal Distrital, con residencia en la ciudad de Monclova y con jurisdicción en los Distritos Judiciales de Monclova y Sabinas; y
 
@@ -1273,47 +1309,35 @@ IV.- Cuarto Tribunal Distrital, con residencia en la ciudad de Piedras Negras y 
 
 A los Tribunales Distritales, quedarán adscritos, para los asuntos de su competencia, los demás órganos subalternos comprendidos dentro de la circunscripción territorial que esta Ley les tiene asignada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 27.
 
 Corresponde a los Tribunales Distritales, el conocimiento de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+I. De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias dictadas por los jueces de primera instancia y letrados, que estén adscritos a su circunscripción territorial, en asuntos civiles, mercantiles, familiares y penales; así como del recurso de apelación extraordinaria en todos los casos previstos por la ley;
 
-I.- De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias dictadas por los jueces de primera instancia y letrados, que estén adscritos a su circunscripción territorial, en asuntos civiles, mercantiles, familiares, penales y en materia de narcomenudeo; así como del recurso de apelación extraordinaria en todos los casos previstos por la ley;
+II. De los recursos de apelación contra sentencias definitivas dictadas por los jueces letrados en materia civil de su circunscripción territorial, así como de las dictadas por los Jueces de Primera Instancia en la misma materia cuando la cuantía del negocio no exceda de 500 veces el salario mínimo general vigente en el lugar del juicio al momento de la presentación de la demanda en el principal;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+III. De los recursos de apelación contra sentencias definitivas dictadas por los jueces mercantiles o mixtos de primera instancia, en aquellos negocios cuya cuantía sea mayor de 182 y hasta de 500 veces el salario mínimo general vigente en el lugar del juicio a la fecha de la presentación de la demanda en el principal;
 
-II.- De los recursos de apelación contra sentencias definitivas dictadas por los jueces letrados en materia civil de su circunscripción territorial, así como de las dictadas por los Jueces de Primera Instancia en la misma materia cuando la cuantía del negocio no exceda de 500 veces el salario mínimo general vigente en el lugar del juicio al momento de la presentación de la demanda en el principal;
+IV. De los delitos contra la salud en su modalidad de narcomenudeo, en primera instancia, en los términos que señalen las disposiciones legales aplicables, que les corresponda conocer de acuerdo a su circunscripción territorial;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+V. De los recursos de apelación y de queja en contra de autos y sentencias interlocutorias en materia de narcomenudeo dictadas por el Tribunal Distrital del distrito judicial más próximo territorialmente.
 
-III.- De los recursos de apelación contra sentencias definitivas dictadas por los jueces mercantiles o mixtos de primera instancia, en aquellos negocios cuya cuantía sea mayor de 182 y hasta de 500 veces el salario mínimo general vigente en el lugar del juicio a la fecha de la presentación de la demanda en el principal;
+Si éste último estuviera impedido para conocer y resolver, pasarán al siguiente tribunal distrital del distrito judicial más próximo territorialmente.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+Si todos los tribunales distritales competentes para conocer de los recursos de apelación y de queja en contra de autos y sentencias interlocutorias en materia de narcomenudeo estuvieran impedidos, conocerá unitariamente un magistrado de la Sala Colegiada Penal o de la Sala Auxiliar del Tribunal Superior de Justicia del Estado, según corresponda, asignado de acuerdo al orden secuencial fijado por el Presidente de la Sala respectivo, quien al mismo tiempo deberá incluirse en el orden de asignación de asuntos;
 
-IV.- Del recurso de apelación interpuesto ante los juzgados letrados en materia penal, en aquellos casos en que sea procedente;
+VI. De los impedimentos, excusas y recusaciones de los Jueces de Primera Instancia y Jueces Letrados de su adscripción;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+VII. De los conflictos de competencia que se susciten entre los diversos órganos judiciales de su adscripción;
 
-V.- De los impedimentos, excusas y recusaciones de los Jueces de Primera Instancia y Jueces Letrados de su adscripción;
+VIII. De la resolución de las denuncias, quejas y acusaciones por faltas administrativas que se presenten en contra del personal del Tribunal Unitario;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+IX. De la compilación de los criterios que emanen de las resoluciones que dicten en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas sostengan el mismo criterio, deberán enviar la tesis a la Sala que corresponda para que ésta fije la jurisprudencia por declaración, que confirmará o modificará el criterio; y
 
-VI.- De los conflictos de competencia que se susciten entre los diversos órganos judiciales de su adscripción;
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-VII.- De la resolución de las denuncias, quejas y acusaciones por faltas administrativas que se presenten en contra del personal del Tribunal Unitario;
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
-
-VIII.- De la compilación de los criterios que emanen de las resoluciones que dicten en asuntos de su conocimiento. Cuando en tres resoluciones ininterrumpidas sostengan el mismo criterio, deberán enviar la tesis a la Sala que corresponda para que ésta fije la jurisprudencia por declaración, que confirmará o modificará el criterio; y
-
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
-
-IX.- De los demás asuntos que le señalen esta ley y demás disposiciones legales.
+X. De los demás asuntos que le señalen esta ley y demás disposiciones legales.
 
 ###### ARTICULO 28.
 
@@ -1349,13 +1373,13 @@ En los distritos judiciales del Estado habrá los Juzgados de Primera Instancia 
 
 Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Consejo.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
-Cuando funcionen en un mismo lugar varios Juzgados de Primera Instancia en Materia Civil, Mercantil o de lo Familiar, el Pleno del Tribunal Superior de Justicia acordará el sistema de recepción, turnos y distribución de demandas entre los mismos.
+Cuando funcionen en un mismo lugar varios Juzgados de Primera Instancia en materia Civil, Mercantil o de lo Familiar, el Consejo de la Judicatura acordará el sistema de recepción, turnos y distribución de demandas entre los mismos.
 
-Tratándose de Juzgados Penales y de Narcomenudeo, éstos conocerán por riguroso turno semanal.
+Los Juzgados Penales conocerán por riguroso turno semanal, con excepción de aquéllos a los que en forma auxiliar se les asigne el conocimiento de diversa materia, en los que se observará lo dispuesto en el primer párrafo del presente artículo.
 
 ###### ARTICULO 32.
 
@@ -1421,13 +1445,21 @@ Cuando se trate de delitos conexos que por su gravedad diversa, sean competentes
 
 II.- De los asuntos de lo familiar por incompetencia subjetiva del juez de esa materia, los jueces penales solamente conocerán si también el juez civil del mismo lugar está impedido;
 
-III.- De la diligenciación de exhortos, requisitorias, rogatorias, suplicatorias y despachos, relacionadas con asuntos penales; y
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-IV.- De los demás asuntos que les competan de acuerdo con las leyes.
+III.- De la diligenciación de exhortos, requisitorias, rogatorias, suplicatorias y despachos, relacionadas con asuntos penales.
 
-(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012) (F. DE E., P.O. 24 DE MAYO DE 2013)
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-El Consejo de la Judicatura autorizará, con atención a las necesidades del servicio y a la disponibilidad presupuestal, la creación de una instancia única especializada para conocer, de manera concurrente con la Federación, de los delitos o conductas tipificadas como delitos contra la salud, en su modalidad de narcomenudeo, en términos de lo dispuesto en el artículo 474 de la Ley General de Salud y los correlativos del Título Cuarto, Libro Segundo, del Código Penal de Coahuila.
+IV.- Como órganos auxiliares, de las conductas tipificadas como delitos por las leyes penales que se atribuya a personas mayores de doce y menores de dieciocho años de edad, conforme al ordenamiento que regule esa materia.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+V.- De los demás asuntos que les competan de acuerdo con las leyes
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Los juzgados de primera instancia en materia penal que funcionen como órganos auxiliares en materia de adolescentes, deberán contar con personal especializado en la impartición de justicia en esa materia.
 
 (ADICIONADO, P.O. 26 DE ABRIL DE 2013) (F. DE E., P.O. 24 DE MAYO DE 2013)
 
@@ -1453,31 +1485,19 @@ V.- De la diligenciación de los exhortos, requisitorias y despachos, relacionad
 
 VI.- De las cuestiones que afecten en sus derechos de personas a los menores e incapacitados y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 36.
 
-Los Jueces Mixtos de Primera Instancia conocerán de las causas civiles, mercantiles, penales y de lo familiar, con las facultades y atribuciones que establecen los artículos 33, 33 BIS, 34 y 35 de esta Ley.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
+Los jueces mixtos de primera instancia conocerán de las causas civiles, mercantiles, penales, de lo familiar y de adolescentes con las facultades y atribuciones que establecen los artículos 33, 33 BIS, 34 y 35 de esta Ley.
 
 ###### ARTICULO 37.
 
-Los Jueces de Primera Instancia en materia de Adolescentes conocerán:
-
-l. De las conductas tipificadas como delitos por las leyes penales que se atribuya a personas mayores de doce y menores de dieciocho años de edad, conforme a la ley que regule la materia de justicia para adolescentes.
-
-II. De los demás asuntos que le competan de acuerdo con las leyes.
-
-Cada Juzgado de Primera Instancia en materia de Adolescentes, contará con un Juez Supernumerario designado por el Consejo de la Judicatura, que conocerá de los asuntos de esta materia en caso de procedencia de los recursos de inconformidad previstos en la Ley de Justicia para Adolescentes del Estado de Coahuila; además de los casos de excusas y recusaciones de los jueces de la materia una vez calificadas por la autoridad competente.
-
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
 
 ###### ARTICULO 37
 
-BIS.- Los jueces de primera instancia en materia de Narcomenudeo conocerán de los Delitos contra la salud, en su modalidad de Narcomenudeo, en los términos que señale la Ley General de Salud, LA LEY ESTATAL DE SALUD Y EL CÓDIGO PENAL DEL ESTADO.
+BIS.- (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -1781,7 +1801,13 @@ XV.- Dictar las bases generales de organización y funcionamiento del Instituto 
 
 XVI.- Nombrar, a propuesta de su Presidente, al director, subdirectores, delegados y defensores de oficio de la Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
 
-XVII.- Las demás que le asigne esta ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XVII. Crear y, en su caso, suprimir los órganos jurisdiccionales que en el ámbito de su competencia le corresponda, en atención a las necesidades del servicio y a la disponibilidad presupuestal.
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XVIII. Las demás que le asigne esta ley y demás disposiciones aplicables.
 
 El Consejo de Judicatura sesionará cuando menos una vez al mes, y cuando se convoque por su Presidente o por más de tres de sus miembros.
 
@@ -2107,7 +2133,7 @@ III. Poseer el día de la designación, con antigüedad mínima de diez años, t
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y (sic)
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2433,7 +2459,7 @@ II.- Mantener la igualdad de las partes en el proceso;
 
 III.- Prevenir, remediar y sancionar, en su caso, los actos contrarios a la administración de justicia, así como la buena fé que debe presidir el desarrollo del proceso, denunciando al Ministerio Público todo hecho que pueda constituir un delito;
 
-IV.- Guardar reserva sobre las decisiones que se proponga dictar en el proceso; y (sic)
+IV.- Guardar reserva sobre las decisiones que se proponga dictar en el proceso; y
 
 V.- Dictar las resoluciones que procedan dentro de los términos legales;
 
@@ -2703,9 +2729,7 @@ En caso de que los jueces civiles estuvieren impedidos, pasará al conocimiento 
 
 IV.- Cuando se trate de jueces penales, los asuntos que dejaren de conocer pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-V. Cuando se trate de jueces en materia de narcomenudeo, los asuntos en los cuales estuvieren impedidos para conocer, pasarán al juzgado de la misma materia en el propio distrito judicial, atendiendo a su número ordinal.
+V.- (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -3037,15 +3061,11 @@ Las faltas temporales y absolutas de los Magistrados del Tribunal Superior de Ju
 
 Las faltas absolutas y temporales del Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes serán suplidas conforme al ordenamiento que regula la justicia para adolescentes.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTICULO 167.
 
 Las faltas temporales de los Magistrados de los Tribunales Unitarios de Distrito, de los Jueces de Primera Instancia y de los Jueces Letrados, serán suplidas por los respectivos Secretarios de Acuerdo y Trámite que corresponda. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación interina o definitiva, según el caso.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2006)</small>
-
-Los Jueces de Primera Instancia en materia de Adolescentes serán suplidos en sus ausencias temporales, que no excedan de un mes, en la forma que para el efecto determine el Magistrado del Tribunal de Apelación Especializado en materia de Adolescentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -4191,11 +4211,11 @@ La Presidencia del Tribunal depurará y compilará las tesis, los criterios o ac
 
 La Presidencia del Tribunal publicará semestralmente en el Boletín de Información Judicial del Estado los criterios enviados, así como las tesis de jurisprudencia por reiteración, contradicción o declaración.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DEL SISTEMA DE JUSTICIA PROCESAL PENAL ACUSATORIO
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
 
 ### CAPÍTULO I. DE LA FUNCIÓN JURISDICCIONAL
 
@@ -4487,7 +4507,25 @@ Para el desempeño de las atribuciones a su cargo, el administrador contará con
 
 La organización, funcionamiento, administración, vigilancia y disciplina de los jueces y tribunales penales serán regulados por los acuerdos que emita el Consejo de la Judicatura.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+###### ARTICULO 299.
+
+En la impartición de justicia para adolescentes, se observará el sistema procesal acusatorio previsto en el presente título, atendiendo los ordenamientos especializados aplicables en la materia.
+
+Los órganos jurisdiccionales de primera y segunda instancia competentes para conocer de la materia penal en el sistema acusatorio y oral, podrán hacerlo también para la materia de adolescentes.
+
+Por lo anterior, corresponderá a la Sala Penal y a la Sala Auxiliar, en el ámbito de sus competencias, conocer de manera definitiva e inatacable, los recursos de casación y revisión en los términos de la ley de la materia, para lo cual actuarán en forma colegiada.
+
+El recurso de casación deberá ser conocido por magistrados que no hubieren intervenido en el mismo asunto en revisión; y del recurso de revisión deberán conocerlo magistrados que no hubieren intervenido en el mismo asunto en casación.
+
+Los tribunales distritales conocerán, en forma unitaria, de las excusas y recusaciones en contra de los jueces de primera instancia del sistema acusatorio y oral competentes en materia de adolescentes adscritos a su circunscripción territorial, así como de los recursos de apelación y queja previstos en la ley de la materia.
+
+El Tribunal Distrital resolverá los recursos de apelación contra resoluciones dictadas por los jueces de control adscritos a su circunscripción territorial.
+
+El Consejo de la Judicatura podrá emitir los acuerdos generales que procedan, a fin de determinar los mecanismos y órganos jurisdiccionales competentes que se requieran para la implementación del sistema de justicia procesal acusatorio en materia de adolescentes.
+
+T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
 
@@ -4852,3 +4890,43 @@ P.O. 11 DE JULIO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de los que se encuentren conociendo los juzgados especializados en materia de adolescentes, se turnarán a los juzgados de primera instancia en materia penal que determine el Consejo de la Judicatura, los que fungirán como órganos auxiliares especializados en la impartición de justicia para adolescentes.
+
+Para tales efectos, el Consejo de la Judicatura emitirá los acuerdos generales para determinar los órganos competentes, así como la distribución de los asuntos en materia de adolescentes.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de primera instancia en materia penal y mixtos que funcionen como órganos auxiliares en materia de justicia para adolescentes, deberán contar con personal especializado en la impartición de justicia en esa materia, designado por el Consejo de la Judicatura.
+
+###### ARTÍCULO CUARTO.
+
+Los tribunales distritales asumirán la competencia en materia de narcomenudeo respecto de aquellas consignaciones o solicitudes que se presenten dentro de su circunscripción territorial, a partir de la entrada en vigor del presente Decreto.
+
+Los juzgados de primera instancia que conozcan de la materia de narcomenudeo hasta antes de la entrada en vigor del presente Decreto, remitirán los expedientes al tribunal distrital que corresponda, conforme al acuerdo que emita el Consejo de la Judicatura para esos efectos.
+
+###### ARTÍCULO QUINTO.
+
+Los tribunales distritales que a la entrada en vigor del presente Decreto se encuentren conociendo de las apelaciones y quejas interpuestas en contra de autos y sentencias interlocutorias dictadas por los jueces de primera instancia que estén adscritos a su circunscripción territorial en materia de narcomenudeo, remitirán los expedientes al tribunal distrital que corresponda, conforme al contenido del decreto de la presente reforma.
+
+###### ARTÍCULO SEXTO.
+
+En la materia de narcomenudeo y en la especializada de adolescentes se implementará el sistema procesal penal acusatorio hasta en tanto lo determine el Consejo de la Judicatura, sin exceder el plazo fijado para ello que prevé la Constitución Política de los Estados Unidos Mexicanos.
+
+Para tales efectos, el Consejo de la Judicatura y el Pleno del Tribunal Superior de Justicia, en el ámbito su competencia, a través de acuerdos generales, podrán dictar las medidas necesarias en materia de reorganización, asignar las competencias que este ley prevé a uno o varios órganos que funcionarán en forma auxiliar hasta la conclusión de los asuntos que se les encomienden, designar interinamente al personal adscrito a los órganos de la materia penal, de adolescentes y de narcomenudeo que sean necesarios para el desahogo de los asuntos bajo el sistema penal anterior a la reforma constitucional de junio 2008, y determinar la conclusión de sus nombramientos conforme a la necesidades del servicio, sin perjuicio de los derechos adquiridos de aquellos servidores públicos que fueron designados en forma definitiva; así como las demás que sean pertinentes para la implementación del nuevo sistema de justicia penal y el desahogo del sistema anterior.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Tribunal de Apelación Especializado en Materia de Adolescentes del Estado de Coahuila de Zaragoza, continuará resolviendo los asuntos de su competencia que se encuentren en trámite a la entrada en vigor de este decreto, así como de aquellos recursos que se interpongan en contra de las resoluciones que emitan los juzgados de primera instancia en materia penal, que funcionen como órganos auxiliares en materia de adolescentes, conforme a lo previsto en los ordenamientos legales aplicables; y continuará ejerciendo sus atribuciones con las modificaciones contenidas en el presente decreto, hasta en tanto el Consejo de la Judicatura lo determine a través del acuerdo que para el efecto emita.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
