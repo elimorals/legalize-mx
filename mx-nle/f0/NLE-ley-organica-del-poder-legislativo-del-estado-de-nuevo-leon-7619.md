@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2015-03-16"
+last_updated: "2015-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -1129,13 +1129,17 @@ XVII.- Segunda de Hacienda y Desarrollo Municipal;
 
 XVIII.- Tercera de Hacienda y Desarrollo Municipal;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-XIX.- Cuarta de Hacienda y Desarrollo Municipal; y
+XIX.- Cuarta de Hacienda y Desarrollo Municipal;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-XX.- Quinta de Hacienda y Desarrollo Municipal.
+XX.- Quinta de Hacienda y Desarrollo Municipal; y
+
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XXI.- Anticorrupción.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
 
@@ -1407,7 +1411,7 @@ Al concluír el Período de Receso, de conformidad con lo establecido por el Art
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 2010)</small>
 
-En el caso del año de la elección, el Presidente de la Diputación Permanente, deberá rendir su último informe el día 31 de agosto, en sesión que se cite para tal efecto cuando no se encuentre reunido pleno (sic).
+En el caso del año de la elección, el Presidente de la Diputación Permanente, deberá rendir su último informe el día 31 de agosto, en sesión que se cite para tal efecto cuando no se encuentre reunido (sic)pleno.
 
 ###### Artículo 88.
 
@@ -1728,6 +1732,14 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 16 DE MARZO DE 2015.
 
 Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día de su aprobación.
+
+Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+Tercero.- Para efectos de los expedientes que a la fecha se encuentren turnados a las Comisiones Permanentes de Dictamen Legislativo, el plazo referido en el párrafo segundo del Artículo 46 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, empezará a correr a partir del día siguiente de la entrada en vigor del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
