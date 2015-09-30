@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2015-09-29"
+last_updated: "2015-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1769,31 +1769,45 @@ Corresponde al Comité de Comunicación Social:
 
 I. Supervisar el desempeño de la Coordinación de Comunicación Social;
 
-II. Ser vínculo entre la Coordinación de Comunicación Social y los demás órganos del Congreso;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-III. Aprobar las acreditaciones que la Coordinación de Comunicación Social deba entregar a los representantes de los medios de comunicación que cubran la fuente del Congreso, para su acceso al Pleno;
+II. Diseñar y ejecutar el programa de comunicación social del Congreso, para dar a conocer las actividades legislativas;
 
-IV. Analizar, estudiar y aprobar las estrategias y políticas de comunicación del Congreso;
+III. Ser vínculo entre la Coordinación de Comunicación Social y los demás órganos del Congreso;
 
-V. Proponer su respectivo presupuesto y el Plan Operativo Anual de la Coordinación de Comunicación Social;
+IV. Aprobar las acreditaciones que la Coordinación de Comunicación Social deba entregar a los representantes de los medios de comunicación que cubran la fuente del Congreso, para su acceso al Pleno;
 
-VI. Coordinar y aprobar las campañas de difusión de actividades del Congreso;
+V. Analizar, estudiar y aprobar las estrategias y políticas de comunicación del Congreso;
 
-VII. Coordinar y vigilar la buena y efectiva comunicación entre el congreso y la ciudadanía;
+VI. Proponer su respectivo presupuesto y el Plan Operativo Anual de la Coordinación de Comunicación Social;
+
+VII. Coordinar y aprobar las campañas de difusión de actividades del Congreso;
+
+VIII. Coordinar y vigilar la buena y efectiva comunicación entre el congreso y la ciudadanía;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
 
-VIII. Administrar, diseñar, operar y garantizar el funcionamiento, determinando y actualizando los contenidos del Portal de internet, así como en los medios de comunicación que utiliza el Congreso, para la difusión de sus actividades, a través de la Coordinación de Comunicación Social, vigilando en todo momento que no contenga propaganda, publicidad o información comercial ni de proselitismo político;
+IX. Administrar, diseñar, operar y garantizar el funcionamiento, determinando y actualizando los contenidos del Portal de internet, así como en los medios de comunicación que utiliza el Congreso, para la difusión de sus actividades, a través de la Coordinación de Comunicación Social, vigilando en todo momento que no contenga propaganda, publicidad o información comercial ni de proselitismo político;
 
-IX. Asignar de manera proporcional a los diputados los espacios físicos para la difusión de sus actividades, como lo son las mamparas, pizarras y demás mobiliario destinado para tal fin; en caso de integrar un grupo parlamentario, al número de sus integrantes, en caso de ser diputado que no integra grupo parlamentario, deberá asignarse conforme lo determine el Comité;
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-X. Proponer a la Junta las políticas de comunicación y difusión del Congreso;
+X. Establecer en coordinación con la Junta de Coordinación Política, el convenio con el Sistema Michoacano de Radio y Televisión para la transmisión en vivo de las sesiones ordinarias y extraordinarias del Congreso del Estado. Así como las sesiones de comisiones cuando se trate algún asunto relevante relativo a los recursos públicos, a los derechos humanos y a las reformas a la Constitución del Estado.
 
-XI. Diseñar y emitir al inicio de cada Legislatura un Manual de Identidad Gráfica que deberá ser aprobado de igual forma por la Junta; y,
+> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
-XII. Las demás que señale su Reglamento y las disposiciones aplicables.
+XI. Tener bajo su responsabilidad, la administración de la Videoteca, difundiendo su contenido de forma oportuna y actualizada en el Portal de internet del Congreso;
+
+XII. Asignar de manera proporcional a los diputados los espacios físicos para la difusión de sus actividades, como lo son las mamparas, pizarras y demás mobiliario destinado para tal fin; en caso de integrar un grupo parlamentario, al número de sus integrantes, en caso de ser diputado que no integra grupo parlamentario, deberá asignarse conforme lo determine el Comité;
+
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+XIII. Proponer a la Junta de Coordinación Política las políticas de comunicación y difusión del Congreso;
+
+XIV. Diseñar y emitir al inicio de cada Legislatura un Manual de Identidad Gráfica que deberá ser aprobado de igual forma por la Junta; y,
+
+XV. Las demás que señale su Reglamento y las disposiciones aplicables.
 
 ###### ARTÍCULO 102.
 
@@ -2057,9 +2071,19 @@ Para el cumplimiento de la función de control y vigilancia que le confiere la C
 
 La Coordinación de Comunicación Social depende del Comité de Comunicación Social, es el enlace con los medios de comunicación y tendrá a su cargo la difusión de las actividades institucionales del Congreso mediante estrategias y políticas de comunicación que serán estudiadas, analizadas y propuestas para su aprobación al Comité de Comunicación, mismas que deberán atender y ejecutar buscando la optimización permanente, razonable y organizada de la información. Esta difusión se hará por todas las formas que apruebe el Comité.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+La Coordinación de Comunicación Social transmitirá en vivo las sesiones ordinarias y extraordinarias del Congreso, a través de su Portal de Internet, con la finalidad de difundir el trabajo legislativo, bajo los principios de transparencia y equidad. También realizará la videograbación de las sesiones del Pleno, comisiones, comités, reuniones de trabajo, foros, comparecencias, conferencias de prensa y otras actividades legislativas.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Para integrar el acervo histórico de la Videoteca del Congreso, la Coordinación de Comunicación Social, captará, analizará y enviará de manera oportuna, a los diputados la información generada por los medios de comunicación locales, nacionales e internacionales, referente a los acontecimientos de interés para el Congreso, e integrar y preservar el material de videograbación, para su consulta interna y externa. Además atenderá las atribuciones que le señale (sic) las demás leyes y reglamentos.
+
 La integración, organización, funciones y demás atribuciones, se regirán por lo dispuesto en su reglamento y manual de procedimientos.
 
-Tendrá un titular que será nombrado y removido por el Pleno mediante propuesta emitida por la Junta, previa opinión del Comité de Comunicación, pero durará en su encargo en tanto no sea designado un sucesor. Para ser candidato a titular, deberá reunir como mínimo los siguientes requisitos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Tendrá un titular que será nombrado y removido por el Pleno mediante propuesta emitida por la Junta de Coordinación Política, previa opinión del Comité de Comunicación, pero durará en su encargo en tanto no sea designado un sucesor. Para ser candidato a titular, deberá reunir como mínimo los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -3782,3 +3806,15 @@ Los artículos primero, segundo, tercero, cuarto y quinto del presente Decreto e
 ###### ARTÍCULO TERCERO.
 
 El artículo sexto del presente Decreto entrará en vigor al momento de su aprobación.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero. El presente Decreto entrara en vigor al día de su aprobación.
+
+Segundo. Para los efectos de la transmisión en vivo de las sesiones, el Congreso del Estado, celebrará el convenio con el Sistema Michoacano de Radio y Televisión, dentro de un término de ciento ochenta días naturales, a la entrada en vigor del presente Decreto.
+
+Tercero. La Coordinación de Comunicación Social iniciará las transmisiones en vivo de las sesiones del Congreso, a través de su Portal de Internet, dentro de los ciento ochenta días naturales a la aprobación del presente decreto.
+
+Cuarto. El Comité de Comunicación Social del Congreso del Estado, elaborará los manuales de organización necesarios para el cumplimiento del presente Decreto, en un término de 30 días naturales a partir de la entrada en vigor del mismo.
+
+Quinto. Remítase el presente Decreto al Gobernador del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
