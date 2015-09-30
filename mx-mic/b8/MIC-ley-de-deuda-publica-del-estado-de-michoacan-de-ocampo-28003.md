@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-deuda-publica-del-estado-de-michoacan-de-ocampo-28003"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-17"
-last_updated: "2012-10-02"
+last_updated: "2015-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 17 de enero del 2003.
 
@@ -35,7 +35,7 @@ DECRETO
 
 EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
 
-NÚMER0 258
+NÚMERO 258
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
@@ -65,14 +65,6 @@ El Congreso, podrá autorizar el ejercicio de montos y conceptos de endeudamient
 
 La contratación de deuda pública por parte de las entidades se sujetará a los montos de endeudamiento neto aprobados por el Congreso y a lo establecido en la presente Ley.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 2 DE OCTUBRE DE 2012)</small>
-
-I. (DEROGADA, P.O. 2 DE OCTUBRE DE 2012)
-
-II. (DEROGADA, P.O. 2 DE OCTUBRE DE 2012)
-
-III. (DEROGADA, P.O. 2 DE OCTUBRE DE 2012)
-
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2012)</small>
 
 Los conceptos, montos y, en su caso, las afectaciones de participaciones o aportaciones federales, relativos a la deuda, serán fijados en las leyes de ingresos y en los respectivos presupuestos, o en los decretos mediante los cuales se autoricen endeudamientos netos adicionales conforme a la presente Ley, según corresponda.
@@ -85,7 +77,15 @@ Además, en caso de que las obligaciones contraídas con motivo del endeudamient
 
 Igualmente, en los casos de contratación de deuda que responda a una emergencia en materia de protección civil y de reestructuración o refinanciamiento, se deberá contar con la aprobación del Congreso mediante Decreto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+No constituyen deuda pública estatal ni municipal, las obligaciones derivadas de contratos de proyectos para prestación de servicios, previstos en el artículo 44, fracción XI, de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
+
+Tampoco constituirá deuda la afectación de ingresos ni los mecanismos de afectación para cubrir las obligaciones contraídas a través de contratos para prestación de servicios a largo plazo, previstos en el artículo 44 fracción XI de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 3°.
 
@@ -169,7 +169,7 @@ Sólo se podrá contraer deuda pública cuando se destine a inversiones pública
 
 La deuda pública podrá ser reestructurada o refinanciada, previa autorización del Congreso, cuando dichas operaciones tengan como objeto mejorar la tasa de interés, plazo, perfil de amortización, garantías u otras de las condiciones originalmente pactadas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ### CAPITULO SEGUNDO. DE LA APROBACIÓN Y CONTRATACIÓN DE LA DEUDA PÚBLICA
 
@@ -179,7 +179,7 @@ La deuda pública podrá ser reestructurada o refinanciada, previa autorización
 
 El Gobierno del Estado y los Ayuntamientos, tendrán las siguientes obligaciones y facultades en materia de deuda pública:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 A. Corresponde al Gobierno del Estado, por conducto de la Secretaría de Finanzas y Administración:
 
@@ -283,7 +283,7 @@ El monto correspondiente al pago del servicio de deuda, en ningún caso podrá s
 
 El Congreso podrá autorizar a las entidades a que se refiere el artículo 3° de esta Ley, la contratación de deuda en montos superiores a los señalados en el párrafo anterior, cuando se acredite la capacidad financiera para pagarlos, considerando la naturaleza, objeto y destino del empréstito, la viabilidad y autosuficiencia financiera del proyecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2007)</small>
 
 ###### Artículo 9º.
 
@@ -297,7 +297,7 @@ Las entidades paraestatales y paramunicipales sólo podrán contratar deuda si c
 
 Los municipios deberán atender a lo dispuesto por el artículo 7° de esta Ley, cuando previa autorización del cabildo otorguen aval o responsabilidad solidaria a los organismos públicos descentralizados o empresas de participación municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 10.
 
@@ -325,7 +325,7 @@ Sujeto a lo establecido en el presente artículo, se requerirá la autorización
 
 Asimismo, se requerirá la autorización previa del Congreso para que el Estado se constituya en garante, avalista o deudor solidario de deuda de cualquiera de las otras entidades y para que los municipios se constituyan en garantes, avalistas o deudores solidarios de deuda de las entidades paramunicipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
 ###### Artículo 12.
 
@@ -373,9 +373,9 @@ En caso de incumplimiento por parte de los Municipios a sus obligaciones de pago
 
 El procedimiento a que se refiere el párrafo anterior, podrá aplicarse respecto del pago de otros conceptos a los que puedan destinarse los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, siempre y cuando las entidades federativas correspondientes cumplan los requisitos que para tales efectos prevean las leyes federales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
-###### Articulo 14.
+###### Artículo 14.
 
 El Gobernador del Estado, podrá considerar la contratación de deuda para la ejecución de obras y acciones de inversión pública productiva, con base en la propuesta que mediante el acuerdo correspondiente expida el Comité de Deuda Pública, considerando el programa financiero que elaboren coordinadamente la Secretaría de Finanzas y Administración y la Coordinación de Planeación para el Desarrollo.
 
@@ -389,7 +389,7 @@ El Comité de Deuda Pública estará integrado por los titulares de la Secretar�
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
-###### Articulo 15.
+###### Artículo 15.
 
 El Comité de Deuda Pública, adicionalmente al acuerdo a que se refiere el artículo 14 de esta Ley, expedirá los acuerdos mediante los cuales se autorice a la Secretaria de Finanzas y Administración para que otorgue el aval o responsabilidad solidaria a entidades paraestatales, así como a municipios y entidades paramunicipales, con base en los dictámenes técnicos relativos a la capacidad de endeudamiento de los mismos, que emita la propia Secretaría de Finanzas y Administración.
 
@@ -415,7 +415,7 @@ Para los efectos a que se refiere el artículo anterior, la Secretaría de Finan
 
 ### CAPITULO TERCERO. DEL REGISTRO ÚNICO DE OBLIGACIONES Y EMPRÉSTITOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
 ###### Artículo 19.
 
@@ -441,9 +441,9 @@ IV. En caso de afectaciones conforme al artículo 11 de la presente Ley, descrip
 
 La Secretaría de Finanzas y Administración, una vez cumplidos los requisitos a que se refiere el artículo anterior, procederá a la inscripción solicitada y notificará a la entidad solicitante lo conducente. Si no se cumplen los requisitos para la inscripción, la propia Secretada de Finanzas y Administración lo notificará a la entidad solicitante para que, en su caso, subsane la omisión en un término no mayor de diez días hábiles contados a partir de la recepción de la notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2009)</small>
 
-###### Articulo 20.
+###### Artículo 20.
 
 El Registro de Obligaciones y Empréstitos, estará a cargo de la Secretaría de Finanzas y Administración, clasificándose según se asuman las obligaciones por:
 
@@ -535,7 +535,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ANTROPÓLOGO LÁZARO CÁRDENAS BATEL- EL SECRETARIO DE GOBIERNO.- MAESTRO LEONEL GODOY RANGEL. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 18 DE AGOSTO DE 2003.
 
@@ -598,3 +598,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Finanzas y Administración remitirá a este Poder Legislativo la información referida en el Artículo 25 del presente Decreto dentro de los treinta días naturales siguientes a la entrada en vigor del mismo.
 
 TERCERO. Comuníquese para su conocimiento al Titular del Poder Ejecutivo y a los 113 Ayuntamientos del Estado de Michoacán de Ocampo.
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, deberá de emitir el Reglamento respectivo de la presente Ley en un periodo no mayor a 180 días, a partir de la entrada en vigor del presente Decreto. La preparación e inicio de los proyectos a que se refiere la presente ley, quedará sujeta a la expedición de los lineamientos correspondientes por parte de la Secretaría de Finanzas y Administración del Gobierno del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Proyectos para Prestación de Servicios del Estado de Michoacán de Ocampo y sus Municipios. Se dejan sin efectos todas las disposiciones en la materia que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado de Michoacán de Ocampo, deberá en un término de 90 días contados a partir de la entrada en vigor del presente Decreto, reformar la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles e Inmueble (sic) del Estado de Michoacán de Ocampo y la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado de Michoacán de Ocampo y sus Municipios.
+
+Lo previsto en el segundo párrafo del artículo 17 del presente Decreto, entrará en vigor cuando se dé cabal cumplimiento al párrafo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado. Para su conocimiento y efectos legales conducentes.
