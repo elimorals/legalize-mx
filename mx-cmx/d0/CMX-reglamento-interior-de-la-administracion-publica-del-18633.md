@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2015-09-29"
+last_updated: "2015-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -11928,23 +11928,21 @@ D) Dirección General de Servicios Urbanos;
 
 E) Dirección General de Desarrollo Social;
 
-F) Dirección General de Ecología y Desarrollo Sustentable; y
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+F) Dirección General de Medio Ambiente y Desarrollo Sustentable;
 
-G) Dirección General de Cultura;
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+G) Dirección General de Cultura; y
 
-H) Dirección General de Participación y Concertación Ciudadana;
+> <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+H) Dirección General de Participación y Gestión Ciudadana;
 
-I) Dirección General de Desarrollo Económico y Fomento Cooperativo; e
+I) (DEROGADO, G.O. 1 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
-
-J) Dirección Ejecutiva de Mejora Comunitaria.
+J) (DEROGADO, G.O. 1 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -15522,17 +15520,31 @@ XIII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formul
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN TLALPAN.
 
-> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 182.
 
-La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, la siguiente atribución:
+La Dirección General Jurídica y de Gobierno tendrá además de las señaladas en el artículo 124, las siguientes atribuciones:
 
-I. Promover, dentro del ámbito de competencia y de conformidad con las disposiciones jurídicas y administrativas aplicables y con las directrices que fije el titular del Órgano Político-Administrativo, acciones de promoción de inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2012)</small>
+I. Establecer, analizar, sugerir y cumplimentar el o los Programas de Seguridad Ciudadana de la demarcación territorial, en coordinación con las áreas del Órgano Político-Administrativo que tengan relación con éstos;
 
-II. Coordinar las actividades en materia de seguridad pública, ejerciendo las atribuciones del Órgano Político-Administrativo en esta materia.
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+II. Coordinar las acciones necesarias para la defensa jurídica de los intereses de la Delegación;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+III. Coordinar actividades conjuntas con Dependencias, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades en materia jurídica;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+IV. Intervenir en el ámbito de sus atribuciones, en el desahogo de los requerimientos formulados por el Ministerio Público y los Jueces; y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+V. Conceder audiencia a los ciudadanos de la demarcación territorial, así como acordar y resolver los asuntos de la competencia de las áreas a su cargo.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -15544,13 +15556,51 @@ I. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de
 
 II. Dar mantenimiento a los mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
 
-III. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+III. Prestar en la demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
 
 IV. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias;
 
-> <small>(ADICIONADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-V. Prestar en su demarcación territorial los servicios de suministro de agua potable en pipas.
+V. Prestar en la demarcación territorial los servicios de suministro de agua potable en colaboración con las instancias competentes;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VI. Organizar, controlar y dar seguimiento a los concursos y contratos relacionados con las Obras y Desarrollo Urbano;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como dictámenes, justificaciones, celebrar contratos, convenios, declarar la rescisión y terminación anticipada de estos, y demás actos jurídicos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con las leyes locales y federales aplicables en la materia;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VIII. Participar con las autoridades competentes, en el proceso de solicitud de modificaciones y cambios de uso de suelo de conformidad con la normatividad que resulte aplicable;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+IX. Participar en las comisiones, comités, consejos y eventos interinstitucionales sobre temas del suelo urbano y su normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+X. Emitir opiniones técnicas sobre la naturaleza, uso y destino de los usos de suelo y proyectos urbanos de medio y alto impacto en la demarcación, en relación con los permisos de aprovechamiento del orden local, así como las actividades que requieren autorización de impacto urbano, vial y en general todas las que sobre la materia se soliciten;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XI. Proponer proyectos para declarar Áreas de Gestión Estratégica, Planes Maestros y demás instrumentos de desarrollo urbano previstos en la legislación aplicable en la materia;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XII. Coadyuvar con las autoridades federales y locales en la implementación de proyectos para abastecer de agua potable a la demarcación territorial, ya sea de fuentes existentes o nuevas;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XIII. Coadyuvar en el ámbito de sus atribuciones, con autoridades federales y locales en la implementación de proyectos para el tratamiento y reúso de aguas residuales, así como el saneamiento de cauces nacionales; y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XIV. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las áreas a su cargo.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -15566,47 +15616,89 @@ I. Dar mantenimiento preventivo, correctivo y de emergencia al equipo de la red 
 
 II. Mantener limpias y en buen estado las áreas verdes urbanas, como parques y jardines públicos, así como plazas jardinadas, jardineras y camellones de vías públicas secundarias, de conformidad con los programas establecidos y la normatividad aplicable en la materia.
 
-III. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, G.O. 21 DE MAYO DE 2002)</small>
+III. Colaborar con las áreas competentes en los proyectos de recuperación y restauración de áreas verdes urbanas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 1 DE OCTUBRE DE 2015)</small>
+
+IV. Proponer métodos para la verificación de planes, proyectos, programas y acciones de mantenimiento preventivo y correctivo menor de infraestructura y equipamiento urbano;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+V. Coadyuvar en la coordinación y ejecución de las políticas de la Administración Pública del Distrito Federal, en materia de Servicios Urbanos;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VI. Participar con otras áreas del Órgano Político-Administrativo, en el marco de sus atribuciones, en la planeación urbana de la demarcación territorial, considerando la rehabilitación de la infraestructura y los servicios urbanos;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VII. Proponer acuerdos con las diferentes instancias de Gobierno del Distrito Federal y/o Federal, para la aplicación de programas sociales y/o actividades institucionales que se encuentren dentro del ámbito de sus atribuciones, en beneficio del Órgano Político-Administrativo; y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VIII. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las áreas a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 185.
 
-Corresponde a la Dirección General de Ecología y Desarrollo Sustentable:
+Corresponde a la Dirección General de Medio Ambiente y Desarrollo Sustentable:
 
-I. Colaborar con las autoridades competentes en la conservación y manejo de las Áreas Naturales Protegidas y Suelo de Conservación y en el control del aprovechamiento sustentable de los recursos naturales que están dentro de la demarcación territorial;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-II. Coadyuvar con las autoridades federales y locales competentes en la vigilancia del Suelo de Conservación y Áreas Naturales Protegidas y opinar y proponer sobre el desarrollo y alcance de los programas;
+I. Colaborar con las autoridades competentes en la conservación, restauración, manejo y aprovechamiento sustentable de las áreas naturales protegidas, suelo de conservación, áreas verdes urbanas, áreas de valor ambiental y en general de los recursos naturales de la demarcación territorial;
 
-III. Opinar sobre el establecimiento de Áreas Naturales Protegidas, sus límites y condiciones de manejo;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+II. Contribuir en el ámbito de sus atribuciones, con las autoridades federales y locales competentes, en vigilar el cumplimiento de la normatividad ambiental en las áreas naturales protegidas, el suelo de conservación, áreas verdes urbanas, áreas de valor ambiental y suelo urbano de la demarcación territorial;
 
-IV. Administrar y preservar las áreas naturales protegidas, asignadas a la Unidad Administrativa;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-V. Implementar acciones de protección y restauración del Suelo de Conservación y Áreas Naturales Protegidas y asumir la administración de éstas, cuando lo determine la autoridad competente;
+III. Contribuir al desarrollo y alcance de los programas mediante la elaboración de propuestas orientadas a la conservación y establecimiento de áreas naturales protegidas y áreas de valor ambiental, sus límites y condiciones de manejo, así como sobre el desarrollo y alcance de los programas que ahí se promuevan o realicen;
 
-VI. Promover la participación de las comunidades y ejidos en la protección, conservación, uso y aprovechamiento sustentable de los recursos naturales de los territorios que ocupan;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-VII. Colaborar con las autoridades competentes en la elaboración de planes de saneamiento forestal, planes productivos terrarios, pecuarios o agrícolas, plantaciones forestales o proyectos ecoturísticos de manera integral y sustentable;
+IV. Administrar y preservar las áreas naturales protegidas del Órgano Político-Administrativo;
 
-VIII. Impulsar conjuntamente con las autoridades federales y locales competentes, un proyecto de restauración ecológica permanente que combata el deterioro de los recursos edafológicos, faunísticos y florísticos de esta área;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+V. Impulsar la generación de programas y planes de conservación para la restauración de los recursos naturales y servicios ambientales en el suelo de conservación y áreas naturales protegidas de la demarcación territorial, en coordinación con las autoridades competentes;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VI. Promover la participación de las comunidades y ejidos en la protección, conservación, restauración, uso y aprovechamiento sustentable de los recursos naturales de los territorios que ocupan;
+
+VII. (DEROGADA, G.O. 1 DE OCTUBRE DE 2015)
+
+VIII. (DEROGADA, G.O. 1 DE OCTUBRE DE 2015)
+
+> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
 
 IX. Difundir la información ambiental y orientar a los ciudadanos sobre las prácticas sustentables que les permitan participar en la conservación y mejora del ambiente y en la protección de los recursos naturales;
 
+> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+
 X. Implementar permanentemente programas de educación ambiental en apoyo a escuelas, asociaciones vecinales, comunidades, ejidos, entre otros;
 
-XI. Observar y vigilar el cumplimiento de la normatividad aplicable en materia ambiental;
+XI. (DEROGADA, G.O. 1 DE OCTUBRE DE 2015)
 
-XII. Participar en las comisiones, comités, consejos y eventos interinstitucionales sobre temas del Suelo de Conservación, Áreas Naturales Protegidas, Desarrollo Sustentable y Protección al Ambiente;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-XIII. Elaborar opiniones técnicas sobre la naturaleza, uso y destino de los recursos naturales en la demarcación, en relación con los permisos de aprovechamiento del orden federal y local, así como sobre las actividades que requieren autorización de impacto ambiental y en general todas las que sobre la materia se soliciten;
+XII. Participar en las comisiones, comités, consejos y eventos interinstitucionales relacionados con el suelo de conservación, áreas naturales protegidas, desarrollo rural, desarrollo sustentable, impacto ambiental, educación y cultura ambiental, y protección al ambiente, entre otros;
 
-XIV. Resolver sobre la procedencia de la presentación del informe preventivo en los términos de lo que indican las disposiciones legales y administrativas aplicables y extender en su caso, la autorización en materia de impacto ambiental;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+XIII. Generar instrumentos que permitan identificar la naturaleza, uso y destino del suelo y aprovechamiento de los recursos naturales en la demarcación territorial, en relación con los permisos y autorizaciones de jurisdicción federal y local; así como sobre las actividades que requieren de autorización de impacto ambiental, riesgo ambiental y en general todas las que sobre la materia se soliciten;
 
-XV. Evaluar y autorizar cuando proceda la poda, derribo o trasplante de árboles en la zona urbana de los centros de población y poblados rurales localizados en suelo de conservación y emitir opinión en su caso, en suelo de conservación;
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XIV. Resolver sobre la procedencia de la presentación del informe preventivo en concordancia con las disposiciones legales y administrativas aplicables y expedir, en su caso, la autorización en materia de impacto ambiental correspondiente; así como de aquellas otras modalidades de estudios de impacto ambiental que se determinen en coordinación con la autoridad local en la materia;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XV. Dictaminar la procedencia de la poda, derribo o trasplante de árboles en la zona urbana de los centros de población y emitir la opinión técnica respectiva cuando se trate de poblados rurales localizados en el suelo de conservación;
 
 > <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -15620,9 +15712,9 @@ XIX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
 XX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADA, G.O. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-XXI. Proponer al Jefe Delegacional los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo en actividades ecológicamente sustentables;
+XXI. Proponer al titular del Órgano Político-Administrativo los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo sustentable en la demarcación territorial;
 
 XXII. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
@@ -15646,39 +15738,139 @@ XXX. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
 XXXI. (DEROGADA, G.O. 15 DE OCTUBRE DE 2012)
 
-> <small>(REFORMADA, G.O. 6 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-XXXII. Ordenar la ejecución de visitas domiciliarias y actos de inspección, así como la imposición de medidas de seguridad, correctivas o de urgente aplicación, dentro de la demarcación territorial, en los términos y condiciones establecidos en la Ley Ambiental del Distrito Federal;
+XXXII. Solicitar a la autoridad competente la realización de visitas domiciliarias y actos de inspección, así como la imposición de medidas de seguridad, correctivas o de urgente aplicación, dentro de la demarcación territorial, en los términos y condiciones establecidos en la normatividad ambiental;
 
-> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2005)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-XXXIII. Substanciar el procedimiento administrativo de visitas domiciliarias y actos de inspección, emitir las resoluciones e imponer las sanciones que correspondan, y
+XXXIII. Substanciar los procedimientos administrativos derivados de visitas domiciliarias y actos de inspección en materia ambiental y de cambio de uso del suelo que se realicen en la demarcación territorial;
 
-> <small>(REFORMADA, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-XXXIV. Intervenir en el ámbito de su competencia, en los procesos de aplicación de modelos de ordenamiento territorial y regularización de la tenencia de la tierra.
+XXXIV. Impulsar el diseño de procesos de gestión en modelos de ordenamiento ecológico y territorial de la demarcación territorial, y en los procesos relacionados con la elaboración del Programa General de Desarrollo del Distrito Federal y los Programas Delegacionales y Parciales;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XXXV. Impulsar estrategias orientadas a la regularización territorial en la demarcación;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XXXVI. Proponer programas ambientales tendientes a la protección y mejoramiento de la calidad ambiental y el aprovechamiento sustentable de los recursos naturales;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XXXVII. Establecer, desarrollar y administrar bases de datos y sistemas de información geográfica destinados a apoyar las acciones de vigilancia ambiental y ordenamiento ecológico, así como la instrumentación de los programas y proyectos del Órgano Político-Administrativo;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XXXVIII. Promover, impulsar o programar actividades que fomenten el desarrollo económico a través del aprovechamiento sustentable;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XXXIX. Proponer políticas y programas generales en materia de desarrollo, promoción y fomento económico sustentable, así como formular, conducir, coordinar y evaluar dichos programas en el ámbito de su demarcación;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XL. Impulsar los proyectos y programas específicos en materia agropecuaria, industrial, de comercio, abasto, servicios, desregulación económica y desarrollo tecnológico sustentable en el ámbito de la demarcación territorial en coordinación con la Secretaría competente;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLI. Promover en coordinación con los sectores público, social y privado la creación de empleos y la adopción de medidas de simplificación, fomento e incentivos a la actividad productiva sustentable, incluyendo el establecimiento de sociedades cooperativas, parques y zonas industriales, comerciales y de servicios;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLII. Proponer al titular del Órgano Político-Administrativo los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo y la inversión en actividades económica y ambientalmente sustentables;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLIII. Impulsar y coordinar los programas de promoción del comercio e inversión en los distintos sectores de la economía de la demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLIV. Coordinar con las instancias correspondientes los mecanismos de apoyo al sector empresarial, incluyendo el respaldo financiero, asesorías y asistencia técnica;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLV. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico en la demarcación;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLVI. Coordinar la realización de estudios y programas especiales, sobre la simplificación y desregulación administrativa de la actividad económica;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLVII. Coadyuvar a establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia y canalizar apoyos hacia los productores rurales de la demarcación;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLVIII. Realizar acciones tendientes a la promoción turística de la demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XLIX. Promover y coordinar la realización de ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculados a la promoción del empleo y de las actividades económicas sustentables;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+L. Promover, orientar y estimular el desarrollo y la modernización del sector empresarial de la demarcación;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+LI. Conceder audiencia al público así como acordar y resolver los asuntos de la competencia de las áreas a su cargo; y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+LII. Las demás que de manera directa les asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 186.
 
-Corresponde a la Dirección General de de (sic) Participación y Concertación Ciudadana las siguientes atribuciones:
+Corresponde a la Dirección General de Participación y Gestión Ciudadana las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-I. Coordinar la instrumentación de las políticas de participación ciudadana, individual y colectiva, en el marco de la cultura de la corresponsablidad (sic) entre gobierno y sociedad de conformidad con las disposiciones jurídicas y administrativas aplicables;
+I. Coordinar la instrumentación de las políticas de participación ciudadana, individual y colectiva, en un marco de corresponsabilidad entre gobierno y sociedad, siempre de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-II. Promover una política de concertación con las instituciones políticas y organizaciones sociales, para impulsar los programas de gobierno;
+II. Promover políticas de coordinación con instituciones políticas y de concertación con organizaciones sociales, bajo un esquema de corresponsabilidad, en las que participen las dependencias involucradas de los distintos órdenes de gobierno, para impulsar programas gubernamentales, resolver problemas específicos y atender demandas comunitarias;
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-III. Coordinarse con los Comités Vecinales de la demarcación territorial, para apoyar la ejecución de los programas delegacionales, así como para atender sus necesidades de capacitación y asesoría; y
+III. Coordinarse con los Comités Ciudadanos y Consejos de los Pueblos de la demarcación territorial, para apoyar la ejecución de los programas delegacionales, así como para atender sus necesidades de formación, capacitación y asesoría;
 
-> <small>(REFORMADA, G.O. 26 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-IV. Promover la celebración de convenios con instituciones públicas y privadas, y la relación con organismos civiles y sociales que permitan fortalecer los programas y acciones delegacionales.
+IV. Promover la celebración de convenios con instituciones públicas y privadas, así como con organismos civiles y sociales, que permitan fortalecer los programas y acciones delegacionales;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+V. Propiciar espacios descentralizados de concertación para la solución de conflictos vecinales a través de la construcción de consensos;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VI. Realizar acciones de información, divulgación, capacitación y presupuestario en materia de Participación Ciudadana en concordancia con lo establecido en las disposiciones normativas;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VII. Promover en el marco de sus atribuciones, la participación activa de los vecinos, habitantes y ciudadanos de la demarcación territorial en la ejecución y seguimiento de obras, acciones y tareas de beneficio comunitario;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+VIII. Colaborar en la planeación, organización y coordinación de audiencias públicas y recorridos de la Jefatura Delegacional, conjuntamente con las Direcciones Generales involucradas, y dar seguimiento a las acciones que éstas deban realizar a fin de que las demandas de los ciudadanos y habitantes sean oportunamente atendidas;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+IX. Intervenir en el seguimiento a las gestiones que realicen los Comités Ciudadanos y Consejos de los Pueblos ante la Jefatura Delegacional y las demás Direcciones Generales;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+X. Conceder audiencia al público así como acordar y resolver los asuntos de la competencia de las áreas a su cargo; y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+XI. Las demás que de manera directa les asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
 > <small>(REFORMADO, G.O. 29 DE SEPTIEMBRE DE 2006)</small>
 
@@ -15688,77 +15880,47 @@ Corresponde a la Dirección General de Cultura:
 
 I. Promover y difundir la cultura y las artes en el territorio delegacional;
 
-II. Procurar y concertar acuerdos con otras instituciones de cultura públicas y privadas, nacionales y extranjeras, para ampliar la oferta de las acciones culturales y artísticas; y
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-III. Promover, apoyar e impulsar las tareas de preservación del patrimonio cultural, artístico e histórico ubicado en la demarcación territorial, de conformidad con la legislación aplicable.
+II. Procurar y concertar acuerdos con otras instituciones de cultura públicas y privadas, nacionales y extranjeras, para ampliar la oferta de las acciones culturales y artísticas;
+
+> <small>(REFORMADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+III. Promover, apoyar e impulsar las tareas de preservación del patrimonio cultural, artístico e histórico ubicado en la demarcación territorial, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+IV. Conceder audiencia al público así como acordar y resolver los asuntos de la competencia de las áreas a su cargo; y
+
+> <small>(ADICIONADA, G.O. 1 DE OCTUBRE DE 2015)</small>
+
+V. Las demás que de manera directa les asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
 
 ###### Artículo 188.
 
 (DEROGADO, G.O. 21 DE MAYO DE 2002)
 
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
-
 ###### Artículo 188 Bis.
 
-Corresponde a la Dirección General de Desarrollo Económico y Fomento Cooperativo las siguientes atribuciones:
-
-I. Promover y apoyar actividades económicas que tengan un sustento ambiental sólido y que reditúen en un desarrollo económico viable;
-
-II. Apoyar las políticas y programas generales en materia de desarrollo, promoción y fomento económico sustentable, así como formular, conducir, coordinar y evaluar dichos programas en el ámbito de la demarcación;
-
-III. Proponer y ejecutar, en coordinación con la Secretaría de Desarrollo Económico, los programas específicos en materia agropecuaria, industrial, de comercio, abasto, servicios, desregulación económica y desarrollo tecnológico sustentable en el ámbito de la demarcación;
-
-IV. Promover en coordinación con los sectores público, social y privado la creación de empleos y la adopción de medidas de simplificación, fomento e incentivos a la actividad productiva sustentable, incluyendo el establecimiento de parques y zonas industriales, comerciales y de servicios;
-
-V. Proponer al Jefe Delegacional los mecanismos de coordinación interinstitucional, que permitan incentivar el desarrollo y la inversión productiva en actividades económicamente viables;
-
-VI. Impulsar y coordinar los programas de promoción del comercio e inversión en los distintos sectores de la economía de la demarcación territorial;
-
-VII. Ejecutar las acciones del Programa de Fomento y Desarrollo Económico en la demarcación territorial;
-
-VIII. Coordinar con las instancias correspondientes los mecanismos de apoyo al sector empresarial, incluyendo el respaldo financiero, asesorías y asistencia técnica;
-
-IX. Presidir los comités técnicos, comisiones y órganos de fomento establecidos para el desarrollo económico en la demarcación;
-
-X. Observar la normatividad que regule, coordine y dé seguimiento a los subcomités de promoción y fomento económico delegacional;
-
-XII. Coordinar la realización de estudios y programas especiales, sobre la simplificación y desregulación administrativa de la actividad económica;
-
-XII (SIC). Coadyuvar a establecer y coordinar los programas de abasto y comercialización de productos básicos, promoviendo la modernización y optimización en la materia y canalizar apoyos en este sentido hacia los productores rurales de la demarcación;
-
-XII (SIC). Realizar acciones tendientes a la promoción turística de la demarcación territorial y del Distrito Federal;
-
-XIV. Promover la realización de ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculados a la promoción de actividades industriales, comerciales y económicas en el marco del desarrollo sustentable;
-
-XV. (DEROGADA, G.O. 16 DE ABRIL DE 2014)
-
-XVI. Promover, orientar y estimular el desarrollo y la modernización del sector empresarial de la demarcación territorial.
-
-> <small>(ADICIONADO, G.O. 15 DE OCTUBRE DE 2012)</small>
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2015)
 
 ###### Artículo 188 Ter.
 
-Corresponde a la Dirección Ejecutiva de Mejora Comunitaria las siguientes atribuciones:
+(DEROGADO, G.O. 1 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2015)</small>
 
-I. Coordinar la atención territorial de los servicios de mantenimiento preventivo y correctivo de la infraestructura urbana realizada con recursos propios de la Delegación, dando atención oportuna a escuelas, lecherías, centros comunitarios y de salud, distintas a las que correspondan a la Dirección General de Obras y Desarrollo Urbano y Dirección General de Servicios Urbanos;
+###### Artículo 188 Quater.
 
-II. Ejecutar las acciones de mantenimiento correctivo menor a la infraestructura urbana de la Delegación;
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
 
-> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
+I. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades sociales y recreativas dentro de la demarcación territorial del Órgano Político-Administrativo;
 
-III. Proponer los proyectos de mantenimiento menor preventivo de la infraestructura urbana de la Delegación;
+II. Establecer vínculos interinstitucionales tendientes al desarrollo de programas y proyectos en materia de fomento al bienestar social;
 
-IV. Coordinar los estudios y proyectos de obras de mantenimiento menor, preventivo y correctivo, del equipamiento e infraestructura de vialidades secundarias y demás instalaciones de orden público responsabilidad de la Delegación;
+III. Proponer en el marco de sus atribuciones, acciones de apoyo a las mujeres, población juvenil, infantil, personas adultas mayores y grupos en condición de vulnerabilidad social en los diversos ámbitos del desarrollo, mediante el diseño y ejecución de programas de conformidad con la normalidad aplicable; y
 
-V. Disponer de los métodos de verificación para el cumplimiento de planes, proyectos, programas y acciones de mantenimiento preventivo y correctivo menor de infraestructura y equipamiento urbano;
-
-VI. Coordinar la atención inmediata de las acciones de obra, mantenimiento y rehabilitación de vialidades secundarias, guarniciones y banquetas en la demarcación; y
-
-> <small>(REFORMADA, G.O. 16 DE ABRIL DE 2014)</small>
-
-VII. Establecer con la comunidad de la Delegación Tlalpan, planes y programas de mantenimiento menor de la infraestructura urbana.
+IV. Conceder audiencia al público así como acordar y resolver los asuntos de la competencia de las áreas a su cargo.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -17699,6 +17861,24 @@ G.O. 29 DE SEPTIEMBRE DE 2015.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor el primero de octubre del dos mil quince.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgánica y elaborar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
+
+G.O. 1 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
 
 TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
 
