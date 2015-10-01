@@ -4,7 +4,7 @@ identifier: "COL-declaratoria-de-incorporacion-del-sistema-procesal-penal-102247
 country: "mx"
 rank: "otro"
 publication_date: "2014-08-30"
-last_updated: "2015-04-04"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE COLIMA, Y DE ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN SU ORDEN JURÍDICO INTERNO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Declaratoria publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 30 de agosto de 2014.
 
@@ -297,25 +297,27 @@ En cumplimiento a lo previsto en el Artículo Segundo Transitorio del Código Na
 
 De conformidad con la Constitución Política para el Estado de Colima y el Código Nacional de Procedimientos Penales, vigente para el Estado de Colima, en los términos del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, el sistema procesal penal acusatorio entrará en vigencia para todos los delitos previstos y sancionados en el Código Penal en vigor para el Estado, así como el Código Nacional de Procedimientos Penales, en la fecha, en las regiones y mediante las modalidades siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+I. El 31 de diciembre del año 2014 en los Municipios de: Colima y Villa de Álvarez, correspondientes al Primer Partido Judicial;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
+II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al Primer Partido Judicial;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-III. El 29 de septiembre del año 2015; En el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+III. El 1 de marzo del año 2016, En el Municipio de Manzanillo, correspondiente al tercer Partido Judicial; y
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-IV. El 29 de septiembre del año 2015 en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+IV. El 1 de marzo del año 2016, en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 En consecuencia, comenzarán a regular la forma y términos en que se substanciarán los procedimientos penales en la Entidad Federativa.
 
-Los procedimientos penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en esta Entidad Federativa, se regirán por las disposiciones vigentes al momento de su inicio.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+Los Procedimientos Penales iniciados con antelación a la entrada en vigor del Código Nacional de Procedimientos Penales en esta Entidad Federativa, se regirán por las disposiciones vigentes al momento de su inicio.
 
 ###### ARTÍCULO TERCERO.
 
@@ -323,11 +325,11 @@ Que de conformidad a lo establecido en el artículo cuarto transitorio del Decre
 
 Quedarán derogados, de manera progresiva y gradual, los preceptos del Código de Procedimientos Penales para el Estado de Colima, contenido en el Decreto Número 308 publicado en el Periódico Oficial "El Estado de Colima" el 2 de agosto de 1997, así como sus reformas, esto conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos de este Decreto, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO CUARTO.
 
-Que el Sistema Procesal Penal Acusatorio se adoptará en la Ley de Justicia Penal para Adolescentes y se incorporará a los ordenamientos enunciados, misma que entrarán (sic) en vigor a las cero horas del día 29 de septiembre del año 2015 en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal vigente.
+Que el Sistema Procesal Penal Acusatorio se adoptara en materia de Justicia Penal para Adolecentes, en los términos y condiciones señaladas en el Segundo Transitorio, del Decreto por el que se reforman los párrafos cuarto y sexto del artículo 18 y el inciso c) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 02 de febrero del año en curso, el cual establece el compromiso y obligación legal para que el Congreso de la Unión, dentro de los 180 días naturales siguientes a la publicación del Decreto ya mencionado en el Diario Oficial de la Federación, para expedir la legislación nacional en materia de justicia para adolescentes, previendo las disposiciones transitorias necesarias para diferenciar el inicio de su vigencia, en función de la etapa del proceso de implementación del Sistema Procesal Penal Acusatorio en que se encuentren y con motivo de las infracciones que se cometan al Código Penal vigente.
 
 ###### ARTÍCULO QUINTO.
 
@@ -370,3 +372,7 @@ P.O. 4 DE ABRIL DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
