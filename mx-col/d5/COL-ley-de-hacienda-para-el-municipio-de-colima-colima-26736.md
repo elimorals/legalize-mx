@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2015-09-26"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1355,21 +1355,9 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
 ###### ARTICULO QUINTO.
 
-En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
-
-En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.10 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
-
-Lo previsto en este artículo, no será aplicable en los siguientes casos:
-
-a) Cuando cambie la base del impuesto predial en los términos del Artículo 9 de este ordenamiento.
-
-b) Los que sean objeto de transmisión patrimonial.
-
-c) Los que tengan un adeudo en el pago del impuesto predial de cinco años o más.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2015)
 
 ###### ARTICULO SEXTO.
 
@@ -1606,3 +1594,7 @@ P.O. 11 DE JULIO DE 2015.
 P.O. 26 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
