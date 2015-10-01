@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2015-09-12"
+last_updated: "2015-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -249,15 +249,23 @@ b).- Solicitará a la Oficialía Mayor, la elaboración del inventario de instal
 
 c).- Solicitará por escrito al Presidente del Instituto Electoral del Estado, le informe el orden que hayan obtenido los Diputados electos por el principio de mayoría para los efectos previstos en los artículos 31, segundo párrafo y 41, de la Ley, así como el domicilio de todos los Diputados electos;
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-d).- Comunicará de manera fehaciente a los Diputados electos, la documentación que deberán exhibir para que se les haga entrega de su identificación provisional y pase de acceso al Recinto Legislativo, en los términos de la fracción II del artículo 28 de la Ley.
+d).- Comunicará de manera fehaciente a los Diputados electos, la documentación que deberán exhibir para que se les haga entrega de su identificación provisional y pase de acceso al Recinto Legislativo, en los términos de la fracción IV del artículo 28 de la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 Dicha documentación consistirá en:
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 1.- Constancia de mayoría o de asignación;
 
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+
 2.- Dos fotografías a color tamaño credencial; y
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 3.- Copia fotostática de la credencial para votar con fotografía.
 
@@ -265,7 +273,9 @@ Dicha documentación consistirá en:
 
 e).- Invitará a los diputados electos al seminario de capacitación que señala el artículo 28 de la Ley; y
 
-f).- Citará de manera fehaciente, cuando menos con 48 horas de anticipación, a cada uno de los Diputados electos en el domicilio señalado para el efecto, a la junta previa que se verificará el día y hora señalados por la fracción III del artículo 28 de la Ley.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+f).- Citará de manera fehaciente, cuando menos con 48 horas de anticipación, a cada uno de los Diputados electos en el domicilio señalado para el efecto, a la junta previa que se verificará el día y hora señalados por la fracción IV del artículo 28 de la Ley.
 
 ###### Artículo 23.
 
@@ -459,17 +469,21 @@ VII.- Las demás que determine este Reglamento o los acuerdos que internamente e
 
 DE LA COMISION DE GOBIERNO INTERNO Y ACUERDOS PARLAMENTARIOS.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 38.
 
-En la primera sesión ordinaria de cada Legislatura, se instalará la Comisión de Gobierno que funcionará por todo el período constitucional de la misma.
+La Comisión de Gobierno será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria de la Legislatura.
+
+La Comisión de Gobierno se integrará por los coordinadores de los grupos parlamentarios acreditados y se formará con un Presidente, dos Secretarios y vocales, en su caso, quienes tendrán derecho a voz y voto. El Diputado único de un partido político y el Diputado independiente que, por esa razón, no integren grupo parlamentario, también formarán parte de la Comisión de Gobierno en calidad de vocales.
+
+La presidencia de la Comisión de Gobierno será ejercida por el Coordinador del Grupo Parlamentario, Diputado único de partido político o Diputado independiente que obtenga la mayoría de votos de los integrantes de la misma, quien ejercerá la presidencia durante el ejercicio constitucional de la Legislatura.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-La Comisión de Gobierno será presidida por el Coordinador del Grupo parlamentario que por sí solo represente la mayoría absoluta y en caso de que ningún coordinador de grupo parlamentario por si solo la represente, recaerá en el coordinador del grupo parlamentario que tenga el mayor número de diputados en los términos del último párrafo del artículo 47 de la Ley. Las Secretarías serán ocupadas por los Coordinadores de los grupos parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados; los demás coordinadores y los diputados únicos de un partido tendrán el carácter de vocales.
-
-En caso de que varios Grupos Parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que haya obtenido mayor número de votos en la elección de Diputados.
-
-> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+Las Secretarías serán ocupadas por los coordinadores de los grupos parlamentarios que representen el mayor número de diputados, exceptuando a quien la presida o haya sido electo para presidir la Comisión de Gobierno; los demás coordinadores y los diputados únicos de un partido tendrán el carácter de vocales.
 
 En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisión, una vez efectuado éste, se emitirá acuerdo parlamentario reconociéndolo como Presidente de la misma, debiendo comunicarlo a las autoridades e instituciones correspondientes.
 
@@ -484,6 +498,12 @@ Independientemente de las reuniones ordinarias, la Comisión de Gobierno podrá 
 ###### Artículo 41.
 
 Las reuniones de la Comisión de Gobierno se desarrollarán de acuerdo al orden del día que sea aprobado al inicio de las mismas por los asistentes. El análisis de los asuntos se hará en los términos previstos en el Capítulo relativo a las Comisiones Legislativas y las resoluciones se aprobarán por mayoría, en los términos del artículo 48 de la Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 41 Bis.
+
+La Comisión de Gobierno se auxiliará de una Secretaría Técnica, cuyo titular será nombrado por la mayoría de los integrantes de ésta a propuesta de su Presidente. Dependerá directamente de la Comisión de Gobierno, para auxiliar a ésta en las sesiones, reuniones, minutas, acuerdos y demás atribuciones que expresamente se le encomienden.
 
 ###### Artículo 42.
 
@@ -513,9 +533,11 @@ V.- Coadyuvar con el Presidente en la elaboración del Plan de Trabajo Legislati
 
 ### CAPITULO VII. DE LAS COMISIONES LEGISLATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-Para el oportuno despacho de los asuntos que le corresponde conocer, el Congreso contará con las Comisiones Permanentes a que se refiere el artículo 56 de la Ley, cuya finalidad será examinar, estudiar y dictaminar sobre los asuntos que le sean turnados. Se asignarán, a propuesta de la Comisión de Gobierno, por votación nominal y mayoría simple, en cualquiera de las sesiones ordinarias que se celebren en el primer mes de la nueva Legislatura.
+Para el oportuno despacho de los asuntos que le corresponde conocer, el Congreso contará con las Comisiones Permanentes a que se refiere el artículo 56 de la Ley, cuya finalidad será examinar, estudiar y dictaminar sobre los asuntos que le sean turnados. Se asignarán, a propuesta de la Comisión de Gobierno, por votación nominal y mayoría calificada, en cualquiera de las sesiones ordinarias que se celebren en el primer mes de la nueva Legislatura.
 
 Las comisiones se encargarán de estudiar y analizar los asuntos de su competencia o los que, sin serlo, les sean turnados por acuerdo de la Asamblea, debiendo presentar sus dictámenes por escrito, a más tardar en un plazo no mayor de 30 días hábiles contados a partir del día siguiente de recibir los expedientes respectivos.
 
@@ -523,11 +545,11 @@ Las comisiones se encargarán de estudiar y analizar los asuntos de su competenc
 
 El Presidente de cada Comisión presentará en el mes de noviembre de cada año el programa de trabajo que dicha Comisión pretenda llevar a cabo en el siguiente ejercicio. En él detallará programas, acciones y metas por alcanzar, así como el costo financiero que deberá coincidir con la solicitud que al efecto haya presentado a la Comisión de Gobierno, en los términos del artículo 10 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 46.
 
-Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos y Atención al Migrante, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
+Las Comisiones del Congreso serán colegiadas, integradas por tres Diputados, quedando el primero de los nombrados como Presidente y los dos siguientes como Secretarios, a excepción de las Comisiones de Responsabilidades, de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, de Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado y de Derechos Humanos, Asuntos Indígenas y Atención al Migrante, las que estarán integradas por cinco Diputados las tres primeras y siete la última; en éstas, los Diputados restantes tendrán el carácter de vocales.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1133,13 +1155,15 @@ SECCIÓN B
 
 DE LA OFICIALÍA MAYOR
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 84.
 
-Para el adecuado desempeño de las actividades legislativas, administrativas y jurisdiccionales del Congreso, contará con el apoyo profesional técnico de la Oficialía Mayor, que estará a cargo de un funcionario llamado Oficial Mayor, que dependerá jerárquicamente de la Comisión de Gobierno.
+Para el adecuado desempeño de las actividades legislativas, administrativas y jurisdiccionales del Congreso, contará con el apoyo profesional, técnico, y administrativo de la Oficialía Mayor, que estará a cargo de un funcionario llamado Oficial Mayor, que dependerá jerárquicamente de la Comisión de Gobierno.
 
-La designación y remoción del Oficial Mayor corresponde a la Asamblea, a propuesta de la Comisión de Gobierno. El nombramiento de los responsables de área de la Oficialía Mayor, serán hechos por la Comisión de Gobierno.
+La designación y remoción del Oficial Mayor será propuesta por la Comisión de Gobierno y sometida a consideración de la Asamblea, quien decidirá por mayoría absoluta de sus integrantes.
+
+El nombramiento de los responsables de área de la Oficialía Mayor, serán hechos por la Comisión de Gobierno con el voto de la mayoría de sus integrantes.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2730,3 +2754,7 @@ P.O. 22 DE FEBRERO DE 2014.
 P.O. 12 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
