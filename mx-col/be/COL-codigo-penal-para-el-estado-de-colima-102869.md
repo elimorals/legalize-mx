@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2015-07-04"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -3243,17 +3243,17 @@ I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álv
 
 II. El 1 de septiembre del año 2015, en los municipios de: Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al primer partido judicial;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-III. En materia de Justicia Penal para Adolescentes entrará en vigor el 29 de septiembre del año 2015, en todo el territorio del Estado y con motivo de las infracciones que se cometan al Código Penal para el Estado de Colima;
+III. En materia de Justicia Penal para Adolescentes entrará en los términos y condiciones señaladas en el Segundo Transitorio, del Decreto por el que se reforman los párrafos cuarto y sexto del artículo 18 y el inciso c) de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación, el 02 de febrero del año en curso, el cual establece el compromiso y obligación legal para que el Congreso de la Unión, dentro de los 180 días naturales siguientes a la publicación del Decreto ya mencionad (sic) en el Diario Oficial de la Federación, para expedir la legislación nacional en materia de justicia para adolescentes, previendo las disposiciones transitorias necesarias para diferenciar el inicio de su vigencia, en función de la etapa del proceso de implementación del Sistema Procesal Penal Acusatorio en que se encuentren y con motivo de las infracciones que se cometan (sic) este Código Penal para el Estado de Colima.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-IV. El 29 de septiembre del año 2015: En el municipio de Manzanillo, correspondiente al tercer partido judicial; y
+IV. El 1 de marzo del año 2016, en el municipio de Manzanillo, correspondiente al tercer partido judicial; y
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-V. El 29 de septiembre del año 2015 en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+V. El 1 de marzo del año 2016, en los municipios de: Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -3300,3 +3300,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al pres
 P.O. 4 DE JULIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "EI Estado de Colima".
