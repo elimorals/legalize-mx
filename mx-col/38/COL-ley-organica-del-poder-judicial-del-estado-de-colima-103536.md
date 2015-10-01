@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2015-04-04"
+last_updated: "2015-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -1512,6 +1512,8 @@ La sujeción a la mediación o conciliación son voluntarias; y el procedimiento
 Árbitros Judiciales
 
 Los árbitros conocerán de los asuntos que les encomienden los interesados, conforme a los términos de los compromisos respectivos y observarán en su trámite las formas y restricciones que fijen la Ley de Medios Alternativos y el Código de Procedimientos Civiles. Se podrán establecer cláusulas compromisorias y arbitrales para dirimir las controversias, sin necesidad de agotar la instancia jurisdiccional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE COLIMA, VÉASE ARTÍCULO SEXTO DEL DECRETO NÚMERO 575, PUBLICADO EN EL P.O. DE 1 DE OCTUBRE DE 2015.</small>
 
 ### Capítulo IV. Del Sistema Penal Acusatorio
 
@@ -3011,7 +3013,7 @@ IV. No haber sido condenado por delito doloso y tener buena conducta.
 
 Publicación en la Página de Internet
 
-El Supremo Tribunal de Justicia, como resultado de sus actividades y ámbito de responsabilidad deberá poner a disposición del público en el portal de internet, la información señalada por las leyes de la materia, así como cumplir con los lineamientos de que (sic) las mismas emanen.
+El Supremo Tribunal de Justicia, como resultado de sus actividades y ámbito de responsabilidad deberá poner a disposición del público en el portal de internet, la información señalada por las leyes de la materia, así como cumplir con los lineamientos de (sic) que las mismas emanen.
 
 ###### Artículo 170.
 
@@ -4202,3 +4204,27 @@ P.O. 4 DE ABRIL DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+DECRETO NÚMERO 575
+
+###### ARTÍCULO SEXTO
+
+Se reforman las disposiciones previstas en el capítulo IV denominado "Del Sistema Penal Acusatorio", del título segundo y las demás relativas a dicho sistema, de la presente Ley Orgánica del Poder Judicial, son de orden público y de interés general que derivan de un mandato constitucional, y entrarán en vigor en los plazos previstos por la declaratoria emitida por el Congreso del Estado mediante Decreto 372, publicado en el Periódico Oficial del Estado el día 30 de agosto del año 2014, para quedar como sigue:
+
+I. El 31 de diciembre del año 2014, en los municipios de Colima y Villa de Álvarez, correspondientes al primer partido judicial;
+
+II. El 1 de septiembre del año 2015, en los municipios de Cuauhtémoc, Comala, Coquimatlán y Minatitlán, correspondientes al Primer Partido Judicial;
+
+III. El 1 de marzo del año 2016, en el Municipio de Manzanillo, correspondiente al Tercer Partido Judicial; y
+
+IV. El 1 de marzo del año 2016, en los municipios de Tecomán, Armería e Ixtlahuacán, correspondientes al segundo partido judicial.
+
+Así como de conformidad con lo dispuesto por el artículo SEGUNDO TRANSITORIO del Código Nacional de Procedimientos Penales, debiendo atenderse en los términos del Código Penal para el Estado de Colima; por lo que no podrán suspenderse ni prorrogarse las acciones tendientes a los nombramientos de los operadores y demás personal necesario para su debida implementación.
+
+## TRANSITORIO
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de publicación en el Periódico Oficial "El Estado de Colima".
