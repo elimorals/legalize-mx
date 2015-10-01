@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2015-02-25"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -49,11 +49,17 @@ III. Comunicar y dar seguimiento a los acuerdos de la Junta;
 
 IV. Recibir todas las propuestas y documentos dirigidos a la Junta, y
 
-V. Certificar los extractos o copias de las actas de las sesiones, con la previa autorización de la Junta.
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2013)</small>
+V. Certificar los extractos o copias de las actas de las sesiones, con la previa autorización de la Junta;
 
-VI. Proporcionar asesoría jurídica a los miembros de la Junta que así lo soliciten en los asuntos materia de la competencia de ese órgano colegiado.
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+VI. Proporcionar a la Unidad de Transparencia la información de la Junta con la que cuente para el desahogo de solicitudes de información, y
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+VII. Proporcionar asesoría jurídica a los miembros de la Junta de Gobierno que así lo soliciten en los asuntos materia de la competencia de ese órgano colegiado.
 
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -69,9 +75,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 4o.
 
@@ -159,13 +163,15 @@ Dirección de Vinculación Institucional
 
 Dirección Jurídica
 
+Unidad de Transparencia
+
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Secretaría de la Junta y una Dirección de Auditoría que dependerán de la propia Junta.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-Los Directores Generales, el Secretario de la Junta y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+Los Directores Generales, el Secretario de la Junta, los Directores y el titular de la Unidad de Transparencia, se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, las Direcciones y la Unidad de Transparencia, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -183,13 +189,13 @@ La creación y extinción de los comités deberá hacerse del conocimiento de la
 
 En el caso de que el Gobernador acuerde la creación de un comité, podrá invitar a sus sesiones a un miembro de la Junta de Gobierno, quien participará únicamente con voz.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-El Banco contará con un Comité de Información para los efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el Director de Vinculación Institucional, el Director de Coordinación de la Información y el Director de Disposiciones de Banca Central. No habrá miembros suplentes y podrá sesionar con la asistencia de dos de sus integrantes, debiendo reunirse cuando menos dos veces al año.
+El Banco contará con un Comité de Transparencia para los efectos de la Ley General de Transparencia y Acceso a la Información Pública, la Ley Federal de Archivos y demás disposiciones aplicables al Banco en esas materias. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el titular de la Unidad de Transparencia, el Director de Coordinación de la Información y el Director Jurídico. Serán suplentes de los integrantes mencionados, los funcionarios que designen los titulares de las unidades administrativas a las que estén adscritos los miembros propietarios, excepto por el suplente del titular de la Unidad de Transparencia, quien será designado por el Gobernador.
 
-> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-El Comité a que se refiere el párrafo anterior, será coordinado por el Director de Disposiciones de Banca Central, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con un asesor permanente que será el Director de Sistemas y con una Secretaría que llevará la Dirección de Disposiciones de Banca Central.
+El Comité a que se refiere el párrafo anterior, deberá resolver por mayoría de votos y será presidido por el titular de la Unidad de Transparencia, quien tendrá voto de calidad en caso de empate. Dicho Comité contará con invitados permanentes con voz, pero sin voto, quienes serán el Director de Vinculación Institucional y el Director de Administración de Riesgos. Asimismo, contará con una Secretaría que llevará el titular de la Gerencia de Análisis y Promoción de Transparencia.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -253,19 +259,19 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 8o.
 
-Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Secretaría de la Junta y Direcciones, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a éstos y se encuentren subordinados al Director General, al Secretario de la Junta o al Director según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación, el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
+Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Secretaría de la Junta, Direcciones y Unidad de Transparencia, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a estos y se encuentren subordinados al Director General, al Secretario de la Junta, al Director o al titular de la Unidad de Transparencia, según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Secretario de la Junta y Directores, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
+La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Secretario de la Junta, Directores y titular de la Unidad de Transparencia, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Secretaría de la Junta y Direcciones, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras Unidades Administrativas, conforme a este Reglamento.
+Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Secretaría de la Junta, Direcciones y Unidad de Transparencia, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras unidades administrativas, conforme a este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -349,15 +355,15 @@ La firma electrónica a que se refiere el párrafo anterior se utilizará cuando
 
 Para efectos de este Reglamento se entenderá por firma electrónica la información agregada o adjuntada a un mensaje de datos que esté asociada en forma lógica al propio mensaje, la cual se utilizará para identificar al autor de la firma e indicar que éste aprueba los datos contenidos en el mensaje y a su vez para asegurar que el mensaje no fue alterado y conservó su carácter confidencial.
 
-> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 11.
 
-Los Directores Generales y Directores podrán delegar las facultades que les hayan sido conferidas conforme al presente Reglamento, en empleados adscritos a las respectivas Unidades Administrativas de las que sean titulares que ocupen puestos inferiores al de Subgerente.
+Los Directores Generales y Directores, así como el titular de la Unidad de Transparencia, podrán delegar las facultades que les hayan sido conferidas conforme al presente Reglamento, en empleados adscritos a las respectivas unidades administrativas de las que sean titulares, y que ocupen puestos inferiores al de Subgerente.
 
-Las resoluciones por las que se deleguen facultades deberán ser firmadas por el Director General o Director de que se trate, conjuntamente con el Director General Jurídico o, en su caso, el Director Jurídico y se publicarán en el Diario Oficial de la Federación.
+Las resoluciones por las que se deleguen facultades deberán ser firmadas por el Director General, Director de que se trate, o titular de la Unidad de Transparencia, conjuntamente con el Director General Jurídico o, en su caso, el Director Jurídico, y se publicarán en el Diario Oficial de la Federación.
 
-Sin perjuicio de lo anterior, los Directores Generales y Directores que lleven a cabo la delegación de facultades referida en el presente artículo deberán informar de ello al Gobernador a más tardar tres días hábiles antes de la fecha en que la resolución respectiva se envíe al Diario Oficial de la Federación para su publicación.
+Sin perjuicio de lo anterior, los Directores Generales y Directores, así como el titular de la Unidad de Transparencia, que lleven a cabo la delegación de facultades referida en el presente artículo, deberán informar de ello al Gobernador a más tardar tres días hábiles antes de la fecha en que la resolución respectiva se envíe al Diario Oficial de la Federación para su publicación.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -629,9 +635,9 @@ I. Promover la generación eficaz de la información en las diferentes unidades 
 
 II. Evaluar, coordinar y opinar sobre la contribución de las diferentes áreas del Banco a los sistemas de información;
 
-> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-III. Proponer normas y lineamientos para la organización, administración y publicación de la información institucional y apoyar la supervisión y verificación de su cumplimiento;
+III. Elaborar y someter a autorización del Comité de Transparencia, por una parte, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco y, por otra parte, los criterios específicos en materia de organización y conservación de archivos, así como de los expedientes que contengan información y documentación clasificada como reservada y confidencial, de conformidad con lo dispuesto por la Ley Federal de Archivos y cualquier otra normatividad aplicable en la materia;
 
 > <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
 
@@ -653,21 +659,29 @@ VIII. Administrar los archivos de concentración e históricos del Banco;
 
 IX. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los servicios de apoyo para la organización y administración de la información;
 
-> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-X. Tener a su cargo la Unidad de Enlace a que se refiere la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. La citada Unidad de Enlace tendrá las atribuciones que señala el artículo 31 Bis de este Reglamento;
+X. Elaborar, en coordinación con los responsables de los archivos de trámite, de concentración y, en su caso, histórico, el cuadro general de clasificación archivística, el catálogo de disposición documental, el inventario general, así como los demás instrumentos descriptivos y de control archivístico;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-XI. Suscribir con los demás sujetos obligados señalados en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, acuerdos o programas con fines de cooperación respecto de la materia de dicha Ley y del Reglamento que al efecto expida la Junta de Gobierno;
+XI. Coordinar normativa y operativamente las acciones de los archivos de trámite, concentración y, en su caso, histórico;
 
-> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-XII. Administrar los servicios de la biblioteca y hemeroteca del Banco, y
+XII. Establecer y desarrollar un programa de capacitación y asesoría archivística para el Banco;
 
-> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-XIII. Comercializar publicaciones, reportes y demás instrumentos de divulgación.
+XIII. Elaborar y presentar al Comité de Transparencia el Plan Anual de Desarrollo Archivístico, en el que se contemplen las acciones a emprender a escala institucional para la modernización y mejoramiento continuo de los servicios documentales y archivísticos, de conformidad con la Ley Federal de Archivos y demás normatividad en la materia;
+
+> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+XIV. Coordinar los procedimientos de valoración y destino final de la documentación, con base en la normatividad aplicable;
+
+XV. Administrar los servicios de la biblioteca y hemeroteca del Banco, y
+
+XVI. Comercializar publicaciones, reportes y demás instrumentos de divulgación.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1417,7 +1431,9 @@ III. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
 IV. (DEROGADA, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
-V. Recibir, conocer, sustanciar y proveer lo necesario para la debida resolución de los recursos de revisión y reconsideración, así como del procedimiento para subsanar el incumplimiento de entrega de información por parte del Banco, en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento del Banco de México relativo a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental. Corresponderá al titular de la Gerencia de Control Normativo resolver los referidos recursos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+V. (DEROGADA, D.O.F. 1 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADA, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
 
@@ -1435,9 +1451,11 @@ VIII. Recibir, conocer, sustanciar y proveer lo necesario para la debida resoluc
 
 IX. Conocer, sustanciar y proveer lo necesario para el trámite del procedimiento administrativo sancionador; imponer las medidas de apremio durante dicho procedimiento y, en su caso, las sanciones administrativas, conforme a la Ley Federal Anticorrupción en Contrataciones Públicas.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En las ausencias del titular de la Gerencia de Control Normativo, las atribuciones previstas en las fracciones I, V, VI, VII, VIII y IX de este artículo, serán ejercidas de forma individual por el titular de la Subgerencia de Control de Procedimientos Administrativos y de Legalidad Interna.
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+En las ausencias del titular de la Gerencia de Control Normativo, las atribuciones previstas en las fracciones I, VI, VII, VIII y IX de este artículo, serán ejercidas de forma individual por el titular de la Subgerencia de Control de Procedimientos Administrativos y de Legalidad Interna.
 
 ARTICULO 30 BIS 2.- (DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2012)
 
@@ -1451,57 +1469,93 @@ La Dirección de Control Interno y la Gerencia de Control Normativo, en el ámbi
 
 ARTICULO 30 BIS 4.- (DEROGADO, D.O.F. 5 DE OCTUBRE DE 2010)
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
-El Comité de Información tendrá las atribuciones siguientes:
+El Comité de Transparencia tendrá las atribuciones siguientes:
 
-I. Coordinar las acciones del Banco tendientes a proporcionar un correcto acceso a la información de que trata la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
 
-II. Establecer los criterios en materia de clasificación y desclasificación de la información;
+II. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia, realicen los titulares de las unidades administrativas del Banco, así como notificar a dichos titulares las resoluciones adoptadas para esos efectos;
 
-III. Emitir las medidas, lineamientos o procedimientos internos que procuren la mayor eficiencia y eficacia en la gestión de las solicitudes de acceso a la información;
+III. De conformidad con la normatividad aplicable en materia de transparencia de la información, ordenar, en su caso, a las unidades administrativas del Banco que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, expongan, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones;
 
-IV. Establecer los criterios en materia de organización de archivos, según lo establecido en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+IV. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
 
-V. Confirmar, modificar o revocar la clasificación de la información hecha por las Unidades Administrativas del Banco;
+V. Promover la capacitación y actualización de los trabajadores adscritos a la Unidad de Transparencia;
 
-VI. Aprobar los formatos de solicitudes de acceso a la información que elabore la Unidad de Enlace;
+VI. Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para los servidores públicos del Banco;
 
-VII. Elaborar una guía para el fácil acceso a la información pública que genere el Banco;
+VII. Recabar y enviar al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con los lineamientos que este expida, los datos necesarios para la elaboración del informe anual que este deba presentar conforme a las disposiciones legales aplicables;
 
-VIII. Establecer los costos a que se refiere el artículo 27 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental;
+VIII. Solicitar y autorizar la ampliación del plazo de reserva de la información en términos de la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable;
 
-IX. Promover y, en su caso, instrumentar la capacitación de los trabajadores del Banco en materia de acceso a la información y protección de datos personales;
+IX. Establecer a propuesta de la Dirección de Coordinación de la Información, por una parte, los procedimientos y métodos para administrar y mejorar el funcionamiento y operación de los archivos del Banco y, por otra parte, los criterios específicos en materia de organización y conservación de archivos, así como de los expedientes que contengan información y documentación clasificada como reservada y confidencial, de conformidad con lo dispuesto por la Ley Federal de Archivos y cualquier otra normatividad aplicable en la materia;
 
-X. Elaborar las reglas necesarias para su operación, y
+X. Aprobar los formatos de solicitudes de acceso a la información que elabore la Unidad de Transparencia;
 
-XI. Invitar a sus sesiones a aquellos funcionarios del Banco que pudieran auxiliarle en el desahogo de los asuntos que en las mismas se traten.
+XI. Establecer los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables en esa materia;
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
+XII. Elaborar las reglas necesarias para su operación;
 
-ARTICULO 31 BIS.- La Unidad de Enlace tendrá las atribuciones siguientes:
+XIII. Invitar a sus sesiones a aquellos funcionarios del Banco que pudieran auxiliarle en el desahogo de los asuntos que en las mismas se traten, y
 
-I. Recibir y dar trámite a las solicitudes de acceso a la información que presente el público interesado, relativas a la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno;
+XIV. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública y de la Ley Federal de Archivos, así como de cualquier otra normatividad aplicable en materia de transparencia y acceso a la información pública, protección de datos personales y archivos.
 
-II. Poner a disposición del público, de manera gratuita, los formatos para solicitar información, así como equipo de cómputo en las instalaciones que indique el propio Banco, con objeto de que los interesados puedan obtener la información pública que se requiera;
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-III. Promover ante la Dirección de Coordinación de la Información del Banco, la actualización permanente y periódica de la información pública que posea el propio Banco, así como de la que con base en la información estadística, responda a las preguntas hechas con más frecuencia por el público;
+ARTICULO 31 BIS.- La Unidad de Transparencia tendrá las atribuciones siguientes:
 
-IV. Elaborar un registro de las solicitudes de acceso a la información, sus resultados y costos;
+I. Recabar y difundir la información pública que debe darse a conocer en medios electrónicos a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y demás normatividad aplicable en la materia, así como propiciar que las unidades administrativas correspondientes la actualicen periódicamente;
 
-V. Proponer al Comité de Información, las medidas, lineamientos o procedimientos internos que procuren la mayor eficiencia y eficacia en la gestión de las solicitudes de acceso a la información;
+II. Recibir y dar trámite a las solicitudes de acceso a la información, de conformidad con las disposiciones aplicables;
 
-VI. Proponer al Comité de Información, la aprobación de los formatos de solicitudes de acceso a la información que al efecto elabore;
+III. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable;
 
-VII. Certificar los extractos o copias que contengan la información solicitada por el interesado, cuando este último así lo solicite, y
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-VIII. Las demás que sean necesarias para garantizar y agilizar el acceso de la información al público en general.
+V. Efectuar las notificaciones a los solicitantes;
 
-> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+VI. Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
 
-El titular de la Unidad de Enlace podrá suscribir individualmente los actos vinculados con sus atribuciones. Será el Subgerente de Coordinación de la Información quien cubra sus ausencias, pudiendo también suscribir de la forma citada los referidos actos.
+VII. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII. Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, y costos de reproducción y envío;
+
+IX. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X. Fomentar la transparencia y accesibilidad al interior del Banco;
+
+XI. Hacer del conocimiento de la autoridad competente, la probable responsabilidad de trabajadores del Banco por el incumplimiento de las obligaciones previstas en la Ley General de Transparencia y Acceso a la Información Pública y en las demás disposiciones aplicables en la materia;
+
+XII. Promover acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente;
+
+XIII. Suscribir con los demás sujetos obligados de conformidad con las disposiciones aplicables en materia de transparencia y acceso a la información pública, acuerdos o programas con fines de cooperación respecto de dicha materia;
+
+XIV. Recibir y dar respuesta a los requerimientos, observaciones, recomendaciones y criterios que realice el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables en la materia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, D.O.F. 1 DE OCTUBRE DE 2015.</small>
+
+XV. Recibir las denuncias sobre el incumplimiento a las obligaciones de transparencia a que se refiere la normatividad aplicable en materia de transparencia y acceso a la información pública, y remitirla al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en términos de las disposiciones aplicables;
+
+XVI. Realizar todos los actos necesarios para dar cumplimiento a las resoluciones que emita el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, y emitir el informe correspondiente en términos de las disposiciones en la materia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, D.O.F. 1 DE OCTUBRE DE 2015.</small>
+
+XVII. Recibir los recursos de revisión que presenten los particulares y remitirlos al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con la normatividad aplicable en materia de transparencia y acceso a la información pública;
+
+XVIII. Solicitar, de manera fundada y motivada, al Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la ampliación del plazo para dar cumplimiento a la resolución de que se trate emitida por el citado Instituto, de conformidad con la normatividad aplicable en materia de transparencia y acceso a la información pública;
+
+XIX. Proponer al Comité de Transparencia los costos de reproducción y envío a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables;
+
+XX. Poner a disposición del público, de manera gratuita, los formatos para solicitar información, así como equipo de cómputo en las instalaciones que indique el propio Banco, con objeto de que los interesados puedan obtener la información pública que se requiera;
+
+XXI. Proponer al Comité de Transparencia, la aprobación de los formatos de las solicitudes de acceso a la información que al efecto elabore;
+
+XXII. Certificar los extractos o copias que contengan la información solicitada por el interesado, cuando éste último así lo solicite, y
+
+XXIII. Las demás que deriven de la Ley General de Transparencia y Acceso a la Información Pública y de cualquier otra normatividad aplicable en materia de transparencia y acceso a la información pública, así como de protección de datos personales.
 
 ### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
 
@@ -1849,27 +1903,31 @@ En la sustanciación y resolución del recurso de revisión se aplicará supleto
 
 En contra de la resolución del recurso de revisión procederá el juicio de amparo, en términos del artículo 107, fracción IV, de la Constitución Política de los Estados Unidos Mexicanos y la ley reglamentaria respectiva.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTRGRAN, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 30 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 65.
 
 Cuando en el presente Reglamento se usen los términos Ley, Banco, Junta y Gobernador deberán entenderse referidos a la Ley del Banco de México, al Banco de México, a su Junta de Gobierno y Gobernador, respectivamente.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 66.
 
-Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias de los Directores Generales, Directores, Gerentes y Cajeros Regionales, estos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo. Esta disposición no es aplicable al artículo 4o. Bis de este Reglamento.
-
-Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el Director General de Sistemas de Pagos y Servicios Corporativos. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
-
-En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales o Directores, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+Sin perjuicio de lo señalado en el artículo 45 de la Ley del Banco de México, durante las ausencias de los Directores Generales, Directores, Gerentes, Cajeros Regionales y titular de la Unidad de Transparencia, estos podrán ser substituidos por el funcionario de la jerarquía inmediata inferior a la del ausente, que desempeñe funciones relacionadas con el asunto de que se trate. El funcionario que ejercite la facultad aquí señalada deberá indicar que actúa en los términos de este artículo. Esta disposición no es aplicable al artículo 4o. Bis de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
+Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposiciones aplicables, deban ser suscritas por el titular de la Dirección de Recursos Materiales, en su ausencia aquéllas serán firmadas por el Director General de Sistemas de Pagos y Servicios Corporativos. En ausencia de ambos, las adjudicaciones señaladas deberán ser firmadas por dos funcionarios que actúen en forma mancomunada y que ocupen puestos de Gerente, adscritos a la propia Dirección de Recursos Materiales.
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales, Directores o el titular de la Unidad de Transparencia, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, podrán firmar el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 67.
 
-El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta y los Directores, podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Secretario de la Junta, los Directores y el titular de la Unidad de Transparencia, podrán ser representados en el juicio de amparo, en las controversias constitucionales o en cualquier otro proceso de carácter constitucional, según corresponda, por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
 
 ## TRANSITORIOS
 
@@ -2244,3 +2302,13 @@ D.O.F. 25 DE FEBRERO DE 2015.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legal.
+
+D.O.F. 1 DE OCTUBRE DE 2015.
+
+PRIMERO. Las presentes reformas al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el Segundo Transitorio.
+
+SEGUNDO. Las reformas a los artículos 30 Bis 1, fracción V, y último párrafo, y 31 Bis, fracciones XV y XVII, del presente Reglamento Interior del Banco de México, entrarán en vigor el 5 de mayo de 2016. Hasta en tanto entren en vigor las citadas reformas, la Gerencia de Control Normativo seguirá llevando a cabo la atribución prevista en la fracción V del artículo 30 Bis 1, en los términos señalados en dicha fracción, así como en aquellos aplicables de la Ley General de Transparencia y Acceso a la Información Pública.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+CUARTO. Todas las referencias al Comité de Información y a la Unidad de Enlace, que se encuentren contenidas en cualquier otro instrumento o acto jurídico, deberán entenderse hechas al Comité de Transparencia y a la Unidad de Transparencia, respectivamente.
