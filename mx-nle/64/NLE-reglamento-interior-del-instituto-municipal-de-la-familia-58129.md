@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-instituto-municipal-de-la-familia-58129
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-19"
-last_updated: "2007-12-19"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE LA FAMILIA DE SAN PEDRO GARZA GARCIA, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE LA FAMILIA DE SAN PEDRO GARZA GARCIA, NUEVO LEON
+REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE LA FAMILIA DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 19 de diciembre de 2007.
 
@@ -71,6 +71,8 @@ Para el desarrollo de las actividades del Instituto, son días hábiles todos lo
 
 El horario de oficina del Instituto será de lunes a viernes, de las 8-ocho a las 17-diecisiete horas.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 7.
 
 Para el cumplimiento de su objetivo fundamental, objetivos específicos, atribuciones y responsabilidades, el Instituto contará con las siguientes unidades administrativas:
@@ -79,9 +81,11 @@ I.- Coordinación de Políticas Públicas;
 
 II.- Coordinación de Comunicación y Relaciones Públicas;
 
-III.- Coordinación de Administración y Finanzas; y,
+III.- Coordinación de Administración y Finanzas;
 
-IV.- Coordinación Jurídica.
+IV.- Coordinación Jurídica; y,
+
+V.- Coordinación de Asuntos de las Mujeres y para la Igualdad entre Mujeres y Hombres.
 
 ###### Artículo 8.
 
@@ -527,6 +531,12 @@ Corresponde a la Coordinación de Administración y Finanzas ejercer las atribuc
 
 Corresponde a la Coordinación Jurídica ejercer las atribuciones que le otorguen la Junta de Gobierno, el Reglamento Orgánico, este Reglamento, otras disposiciones jurídicas aplicables y la Directora General, dentro de la esfera de sus atribuciones.
 
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 63 Bis.
+
+Corresponde a la Coordinación de Asuntos de las Mujeres y para la Igualdad entre Mujeres y Hombres efectuar las atribuciones que le otorguen al Instituto y, al Sistema Municipal para la Igualdad entre Mujeres y Hombres, en el Reglamento para la Igualdad entre Mujeres y Hombres, además de las atribuciones que le otorguen la Junta de Gobierno, el Reglamento Orgánico, este Reglamento, otras disposiciones jurídicas aplicables y la Directora General, dentro de la esfera de sus atribuciones.
+
 ### CAPITULO IX. OBLIGACIONES Y PROHIBICIONES DE LOS SERVIDORES PÚBLICOS MUNICIPALES
 
 ###### Artículo 64.
@@ -564,3 +574,13 @@ PRESIDENTE MUNICIPAL
 LIC. MA. EMILDA ORTIZ CABALLERO
 
 SECRETARIO DEL REPUBLICANO AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 22 DE SEPTIEMBRE DE 2015, SE APRUEBAN LAS REFORMAS AL REGLAMENTO ORGÁNICO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO “INSTITUTO MUNICIPAL DE LA FAMILIA DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.” Y REFORMA POR MODIFICACIÓN Y ADICIÓN AL REGLAMENTO INTERIOR DEL INSTITUTO MUNICIPAL DE LA FAMILIA DEL MUNICIPIO DE SAN PEDRO GARZA GARCÍA, N.L.”.]
+
+###### ARTICULO UNICO.
+
+Las reformas al Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
