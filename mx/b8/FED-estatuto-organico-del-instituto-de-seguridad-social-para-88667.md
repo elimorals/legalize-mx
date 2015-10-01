@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-social-para-88667"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-07-30"
-last_updated: "2015-09-08"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-07-23"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD SOCIAL PARA LAS FUERZAS ARMADAS MEXICANAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de julio de 2012.
 
@@ -429,7 +429,9 @@ XXXIX. Las demás que le asignen las Leyes, Reglamentos, normatividad aplicable,
 
 ART. 19.- La Dirección de Vivienda tendrá las siguientes funciones y facultades:
 
-I. Realizar el estudio de los antecedentes y formular dictámenes sobre la procedencia y monto de la prestación relativa a la devolución del fondo de la vivienda militar y someterlos a consideración de la Junta Directiva para su resolución;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+I. Realizar el estudio de los antecedentes y formular dictámenes sobre la procedencia y monto de la prestación relativa a la devolución del fondo de la vivienda militar, los cuales serán firmados por el Director de Vivienda, quien deberá informar de manera mensual a la Junta Directiva, la situación del pago de los mismos.
 
 II. Remitir a la Dirección de Finanzas del Instituto, la documentación necesaria para el pago de la devolución del fondo de la vivienda militar;
 
@@ -706,5 +708,9 @@ México, D.F., a 23 de julio de 2012.- El presente lo signo en mi carácter de C
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 8 DE SEPTIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE OCTUBRE DE 2015.
 
 ÚNICO.- La presente reforma al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
