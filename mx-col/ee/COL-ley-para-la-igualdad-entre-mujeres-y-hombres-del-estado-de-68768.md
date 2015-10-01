@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6876
 country: "mx"
 rank: "ley"
 publication_date: "2009-05-09"
-last_updated: "2014-12-06"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 9 de mayo de 2009.
 
@@ -65,21 +63,27 @@ La presente Ley es de orden público, interés social y de observancia general, 
 
 Son principios rectores de la presente Ley: la igualdad, la no discriminación, la equidad y todos aquellos contenidos en los tratados internacionales de los que el Estado mexicano sea parte, la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su género, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o capacidades diferentes, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
+Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en territorio estatal, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+La trasgresión a los principios y programas que se prevén en la presente Ley, será motivo de sanción, de acuerdo a lo dispuesto por la Ley Estatal de Responsabilidades de los Servidores Públicos.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria la Convención para la Eliminación de toda forma de Discriminación contra la Mujer, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, y en lo conducente, las disposiciones de la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Colima, de la Ley del Instituto Colimense de las Mujeres y los demás Ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicará en forma supletoria la Convención para la Eliminación de toda forma de Discriminación contra la Mujer, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, Ley que Previene, Combate y Elimina la Discriminación en el Estado de Colima, y en lo conducente, las disposiciones de la Ley Orgánica de la Comisión de Derechos Humanos del Estado de Colima, de la Ley del Instituto Colimense de las Mujeres y los demás Ordenamientos aplicables en la materia.
 
 ###### Artículo 5.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+I. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal correctivo, compensatorio y/o de promoción, encaminadas a acelerar la igualdad sustantiva entre mujeres y hombres;
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
@@ -257,9 +261,9 @@ IV. Promover la igualdad de acceso y el pleno disfrute de los derechos sociales 
 
 V. Promover la igualdad entre mujeres y hombres en la vida civil;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-VI. Promover la eliminación de estereotipos establecidos en función del género;
+VI. Promover la eliminación de estereotipos establecidos en función del sexo;
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
@@ -295,9 +299,9 @@ I. El Sistema Estatal para la Igualdad entre Mujeres y Hombres;
 
 II. El Programa Estatal para la Igualdad entre Mujeres y Hombres; y
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-III. La observancia.
+III. La observancia en materia de igualdad entre Mujeres y Hombres.
 
 ###### Artículo 18.
 
@@ -529,15 +533,23 @@ IX. Promover programas de formación y capacitación laboral para las mujeres, s
 
 X. Establecer medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 31.
 
-Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el artículo anterior, las autoridades correspondientes garantizarán el principio de igualdad sustantiva entre mujeres y hombres en el ámbito del empleo, así como el derecho fundamental a la no discriminación de aquellas en las ofertas laborales, en la formación y promoción profesional, en las condiciones de trabajo, incluidas las retributivas, y en la afiliación y participación en las organizaciones sindicales, empresariales o en cualquier organización cuyos miembros ejerzan una profesión concreta, para lo cual desarrollarán las siguientes acciones:
 
-I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su género;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-II. Fomentar la incorporación a la educación y formación de las personas que en razón de su género están relegadas;
+I. Promover la revisión de los sistemas fiscales para reducir los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo;
 
-III. Fomentar el acceso al trabajo de las personas que en razón de su género están relegadas de puestos directivos, especialmente;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+II. Fomentar la incorporación a la educación y formación de las personas que en razón de su sexo están relegadas;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+III. Fomentar el acceso al trabajo de las personas que en razón de su sexo están relegadas de puestos directivos, especialmente;
 
 IV. Apoyar el perfeccionamiento y la coordinación de los sistemas estadísticos estatales, para un mejor conocimiento de las cuestiones relativas a la igualdad entre mujeres y hombres en la estrategia estatal laboral;
 
@@ -547,7 +559,9 @@ VI. Financiar las acciones de información y concientización destinadas a fomen
 
 VII. Vincular todas las acciones financiadas para el adelanto de las mujeres;
 
-VIII. Evitar la segregación de las personas por razón de su género, del mercado de trabajo;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
+
+VIII. Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo;
 
 IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
@@ -555,9 +569,17 @@ IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación
 
 X. Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia; y
+XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
+
+a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
+
+b) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos.
+
+c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
+
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral, y;
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2014)</small>
 
@@ -577,9 +599,9 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
 II. Garantizar que la educación en todos sus niveles se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la necesidad de eliminar toda forma de discriminación;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-III. Promover la participación y representación equitativa entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas, en el servicio civil de carrera de los Poderes Ejecutivo, Legislativo y Judicial del Estado de Colima, en las estructuras de los sindicatos y, en los Municipios;
+III. Promover la participación equitativa de mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas, en el servicio civil de carrera, así como en altos cargos públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado de Colima, en las estructuras de los sindicatos y, en los Municipios;
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
@@ -589,9 +611,9 @@ IV. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos 
 
 V. Implementar acciones afirmativas a fin de impulsar la participación equitativa de mujeres y hombres en cargos públicos; y
 
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
 
-VI. Fomentar la participación igualitaria en los procesos de selección, contratación y ascensos en el servicio civil de carrera.
+VI. Fomentar la participación equilibrada y sin discriminación de mujeres y hombres en los procesos de selección, contratación y ascensos en el servicios (sic) civil de carrera de los poderes Ejecutivo, Legislativo y Judicial.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -842,3 +864,7 @@ P.O. 22 DE FEBRERO DE 2014.
 P.O. 22 DE NOVIEMBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
