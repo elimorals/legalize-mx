@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2015-04-30"
+last_updated: "2015-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-03-27"
 
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -67,9 +67,13 @@ I. Jefatura de la Oficina de la Presidencia;
 
 II. Secretaría Particular del Presidente;
 
-III. Coordinación de Asesores del Presidente;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-IV. Coordinación de Comunicación Social y Vocería del Gobierno de la República, y
+III. Coordinación General de Política y Gobierno;
+
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+IV. Coordinación General de Comunicación Social y Vocería del Gobierno de la República, y
 
 V. Secretaría Técnica del Consejo de Seguridad Nacional.
 
@@ -101,83 +105,73 @@ V. Brindar asesoría al Presidente en los asuntos que éste le encomiende;
 
 VI. Dar seguimiento a los avances y al cumplimiento de los programas, proyectos y demás responsabilidades a cargo de las dependencias y entidades de la Administración Pública Federal, que le encomiende el Presidente;
 
-VII. Mantener, en coordinación con las áreas competentes, las relaciones interinstitucionales de la Oficina de la Presidencia con los sectores público, social y privado;
+> <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+VII. Promover, en coordinación con las áreas competentes, las relaciones interinstitucionales de la Oficina de la Presidencia con los sectores público, social y privado.
 
 VIII. Dirigir y organizar las unidades de apoyo técnico a su cargo y establecer sistemas de coordinación y colaboración de éstas con las dependencias y entidades de la Administración Pública Federal para el debido ejercicio de sus funciones, y
 
 IX. Las demás inherentes a sus funciones y las que le encomiende el Presidente.
 
-Artículo 4 bis. (DEROGADO, D.O.F. 30 DE ABRIL DE 2015)
+###### Artículo 4 Bis.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+(DEROGADO, D.O.F. 30 DE ABRIL DE 2015)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 5.
 
 Para el despacho de los asuntos de la Jefatura de la Oficina de la Presidencia, ésta contará con las unidades de apoyo técnico siguientes:
 
-I. Coordinación General;
+I. Subjefatura de la Oficina de la Presidencia;
 
-II. Secretaría Técnica del Gabinete;
+II. Coordinación de Asesores del Presidente;
 
 III. Coordinación de Opinión Pública;
 
-IV. Coordinación de Estrategia Digital Nacional;
+IV. Coordinación de Estrategia Digital Nacional, y
 
-V. Coordinación de Ciencia, Tecnología e Innovación;
+V. Coordinación de Marca País y Medios Internacionales.
 
-VI. Coordinación de Crónica Presidencial, y
-
-VII. Coordinación de Marca País y Medios Internacionales.
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 Al frente de cada una de las unidades de apoyo técnico habrá un titular que será nombrado y removido libremente por el Presidente.
 
+> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 Las unidades de apoyo técnico se auxiliarán del personal que requieran para el eficaz despacho de sus asuntos, de conformidad con las disposiciones aplicables.
 
-> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 5 Bis.
 
-Corresponde a la Coordinación General:
+Corresponde a la Subjefatura de la Oficina de la Presidencia:
 
-I. Apoyar al Jefe de la Oficina de la Presidencia en la atención de las relaciones interinstitucionales con los sectores público, social y privado;
+I. Apoyar al Jefe de la Oficina de la Presidencia en la coordinación y organización de las unidades de apoyo técnico de la Jefatura de la Oficina de la Presidencia;
 
-II. Apoyar al Jefe de la Oficina de la Presidencia en la coordinación y organización de las unidades de apoyo técnico de la Jefatura de la Oficina de la Presidencia, y
+II. Brindar asesoría y apoyo técnico al Jefe de la Oficina de la Presidencia en los asuntos que éste le encomiende, y
 
 III. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
 
-> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 6.
 
-Corresponde a la Secretaría Técnica del Gabinete:
+Corresponde a la Coordinación de Asesores del Presidente:
 
-I. Atender las acciones de apoyo técnico que le encomiende el Jefe de la Oficina de la Presidencia;
+I. Asesorar y apoyar al Presidente y al Jefe de la Oficina de la Presidencia en los asuntos que le encomienden y formular los estudios, análisis, opiniones y recomendaciones que resulten procedentes;
 
-II. Dar seguimiento al cumplimiento de los acuerdos e instrucciones dictados por el Presidente en las sesiones de gabinete y, en su caso, apoyar al Secretario de Gobernación en la convocatoria a éstas, de conformidad con las normas aplicables;
+II. Solicitar a las dependencias y entidades de la Administración Pública Federal la información y datos que resulten necesarios para el debido cumplimiento de sus funciones;
 
-III. Mantener informado al Jefe de la Oficina de la Presidencia de la situación que guarde el cumplimiento de los compromisos, acuerdos e instrucciones dictados en las sesiones de gabinete, así como de las órdenes y directrices cuyo seguimiento se le encomiende;
+III. Establecer mecanismos de coordinación con las demás unidades de la Oficina de la Presidencia para el cumplimiento de sus funciones;
 
-IV. Emitir opinión sobre la mejor operación y funcionamiento de los gabinetes que instruya el Presidente;
+IV. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que le encomienden el Presidente y el Jefe de la Oficina de la Presidencia, y formular los estudios y análisis correspondientes;
 
-V. Orientar las acciones de los gabinetes de acuerdo con las políticas, lineamientos y prioridades que fije el Presidente y, en términos de las normas aplicables, en colaboración y apoyo del Secretario de Gobernación;
+V. Proveer al Presidente y al Jefe de la Oficina de la Presidencia la información y datos necesarios para sus actividades, toma de decisiones y formulación de mensajes;
 
-VI. Proponer al Jefe de la Oficina de la Presidencia temas de interés sustantivo que puedan ser abordados en las reuniones de gabinete y, en su caso, sugerir se convoque a las sesiones respectivas;
+VI. Asistir a las reuniones de gabinete a las que sea convocado por el Presidente o el Secretario de Gobernación, y
 
-VII. Verificar el cumplimiento de los programas e instrucciones que expresamente señale el Presidente y que no estén encomendados a otras áreas;
-
-VIII. Registrar y verificar el cumplimiento de los acuerdos del Presidente con los titulares de los otros Poderes de la Unión, de los órganos con autonomía constitucional y de las dependencias y entidades de la Administración Pública Federal, así como con servidores públicos de las entidades federativas y de los municipios, de conformidad con lo que instruya el Jefe de la Oficina de la Presidencia, o cuando no estén encomendados a otras áreas;
-
-IX. Identificar, dar seguimiento y verificar el cumplimiento de la agenda política y de gestión gubernamental sobre temas relevantes y estratégicos del quehacer público que deban ser considerados en las sesiones de gabinete;
-
-X. Realizar el registro y seguimiento de los compromisos asumidos por el Presidente;
-
-XI. Dar seguimiento a los programas de alto impacto social que promuevan las dependencias de la Administración Pública Federal e informar de los resultados obtenidos al Jefe de la Oficina de la Presidencia;
-
-XII. Elaborar estudios y análisis especializados que permitan anticipar escenarios o situaciones específicas de orden económico, social y político, en coordinación con las unidades competentes y, sugerir al Jefe de la Oficina de la Presidencia, estrategias y políticas alternativas para su atención oportuna;
-
-XIII. Proporcionar al Jefe de la Oficina de la Presidencia y a los miembros del gabinete información de naturaleza económica, social y política que permita apoyar la oportuna y adecuada toma de decisiones, y
-
-XIV. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
+VII. Las demás inherentes a las funciones anteriores y las que le encomiende expresamente el Presidente o el Jefe de la Oficina de la Presidencia.
 
 ###### Artículo 7.
 
@@ -227,51 +221,11 @@ VIII. Las demás inherentes a sus funciones y las que le encomiende el President
 
 ###### Artículo 11.
 
-Corresponde a la Coordinación de Ciencia, Tecnología e Innovación:
-
-I. Coadyuvar en la elaboración de diagnósticos e informes sobre la situación que guarda el sector de ciencia, tecnología e innovación en el país;
-
-II. Analizar, con el apoyo del Consejo Nacional de Ciencia y Tecnología, el marco jurídico en materia de ciencia, tecnología e innovación y proponer, por conducto de las instancias competentes, las modificaciones que se estimen pertinentes para la mejor organización y funcionamiento del sector;
-
-III. Participar, en coordinación con las instancias competentes, en la formulación del análisis global del sector ciencia, tecnología e innovación, y formular, conjuntamente con el Consejo Nacional de Ciencia y Tecnología, las recomendaciones pertinentes sobre la relación del mismo con el Ejecutivo Federal;
-
-IV. Impulsar acciones para que la ciencia, tecnología e innovación se conviertan en palanca real del desarrollo económico y social del país;
-
-V. Coadyuvar con las instancias competentes en materia de ciencia, tecnología e innovación en el ejercicio de sus funciones;
-
-VI. Presentar al Jefe de la Oficina de la Presidencia, conjuntamente con el Consejo Nacional de Ciencia y Tecnología, los informes de los avances de las acciones acordadas y someter a su consideración el impulso de estrategias en dicho sector;
-
-VII. Solicitar información y datos a las dependencias y entidades de la Administración Pública Federal, así como a las instancias competentes de las entidades federativas y de los municipios, para la formulación de estudios, diagnósticos, análisis y opiniones, en el ámbito de su competencia;
-
-VIII. Formular los análisis, opiniones y recomendaciones que el Presidente o el Jefe de la Oficina de la Presidencia le encomienden, en el ámbito de sus atribuciones y, en su caso, solicitar el apoyo de expertos, según la naturaleza de los temas respectivos;
-
-IX. Propiciar la vinculación del Ejecutivo Federal con instancias públicas y privadas de desarrollo tecnológico, investigación científica e innovación;
-
-X. Recomendar al Jefe de la Oficina de la Presidencia la realización de estudios especializados por instituciones de investigación científica, desarrollo tecnológico e innovación, públicas y privadas, así como la integración de expertos en proyectos específicos, y
-
-XI. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2015)
 
 ###### Artículo 12.
 
-Corresponde a la Coordinación de Crónica Presidencial:
-
-I. Dar puntual seguimiento a las actividades del Presidente para recopilar los materiales y generar los contenidos para la integración de las publicaciones y las crónicas respectivas;
-
-II. Compilar el acervo documental, bibliográfico, hemerográfico, audiovisual y de medios electrónicos que dé cuenta de las políticas, programas, obras y acciones para construir la memoria histórica de la Presidencia de la República, sin perjuicio de las atribuciones que correspondan a las dependencias y entidades de la Administración Pública Federal;
-
-III. Poner a disposición de la ciudadanía el acervo presidencial, mediante un sistema de consulta digital;
-
-IV. Publicar y actualizar el Diccionario Biográfico del Gobierno Mexicano, así como los directorios correspondientes;
-
-V. Elaborar y actualizar, en el ámbito de su competencia, un catálogo de referencias de las publicaciones editadas por la Oficina de la Presidencia, de conformidad con las disposiciones aplicables;
-
-VI. Difundir la narrativa histórica presidencial, así como de las obras y acciones del Gobierno de la República para fines informativos, educativos y de orientación social, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y disposiciones legales aplicables;
-
-VII. Participar, en el ámbito de su competencia, en las políticas sobre la custodia del acervo histórico e historiográfico, tanto impreso como gráfico, audiovisual, sonoro, electrónico, informático, magnético o de índole diversa, de la Oficina de la Presidencia;
-
-VIII. Establecer mecanismos de coordinación con las unidades de la Oficina de la Presidencia, así como con las dependencias y entidades de la Administración Pública Federal y demás instancias competentes, para recabar, ordenar y clasificar la información necesaria para el debido ejercicio de sus funciones, y
-
-IX. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Jefe de la Oficina de la Presidencia.
+(DEROGADO, D.O.F. 1 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2015)</small>
 
@@ -319,9 +273,9 @@ La Coordinación General de Administración estará adscrita a la Secretaría Pa
 
 A la Coordinación General de Administración le corresponderá llevar la administración de los recursos humanos, financieros y materiales de la Oficina de la Presidencia, incluyendo las unidades de apoyo que establece el presente Reglamento, de conformidad con la normatividad aplicable. Para tales efectos, podrá suscribir toda clase de convenios, contratos y demás instrumentos jurídicos.
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-Las funciones de la Coordinación General de Administración serán ejercidas por el Coordinador General, por sí o por conducto de los titulares de las unidades a cargo de la programación, presupuestación y finanzas; administración de recursos humanos; administración de recursos materiales, adquisiciones y servicios generales; tecnologías de la información, así como de administración de instalaciones, de conformidad con lo dispuesto en las disposiciones aplicables.
+Las funciones de la Coordinación General de Administración serán ejercidas por el Coordinador General de Administración, por sí o por conducto de los titulares de las unidades a cargo de la programación, presupuestación y finanzas; administración de recursos humanos; administración de recursos materiales, adquisiciones y servicios generales; tecnologías de la información, así como de administración de instalaciones, de conformidad con lo dispuesto en las disposiciones aplicables.
 
 ###### Artículo 15.
 
@@ -333,87 +287,265 @@ Para el ejercicio de las funciones que en materia de transparencia y acceso a la
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 2013)
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN DE ASESORES DEL PRESIDENTE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN GENERAL DE POLÍTICA Y GOBIERNO
+
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 17.
 
-Corresponde a la Coordinación de Asesores del Presidente:
+Corresponde a la Coordinación General de Política y Gobierno:
 
-I. Asistir a las reuniones de gabinete a las que sea convocado por el Presidente o el Secretario de Gobernación;
+I. Acordar con el Presidente los asuntos de su competencia y los que estén encomendados a sus unidades de apoyo técnico;
 
-II. Asesorar y apoyar al Presidente en los asuntos que le encomiende y formular los estudios, análisis, opiniones y recomendaciones que resulten procedentes;
+II. Mantener, en coordinación con las áreas competentes, las relaciones interinstitucionales de la Oficina de la Presidencia con los sectores público, político, social y privado;
 
-III. Solicitar a las dependencias y entidades de la Administración Pública Federal la información y datos que resulten necesarios para el debido cumplimiento de sus funciones;
+III. Mantener comunicación con las dependencias y entidades de la Administración Pública Federal para el seguimiento y atención de los acuerdos e instrucciones del Presidente;
 
-IV. Establecer mecanismos de coordinación con las demás unidades de la Oficina de la Presidencia para el cumplimiento de sus funciones;
+IV. Informar al Presidente sobre el cumplimiento de los acuerdos e instrucciones dictados por él en las sesiones de gabinete;
 
-V. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que le encomiende el Presidente, y formular los estudios y análisis correspondientes;
+V. Brindar asesoría y apoyo técnico al Presidente en los asuntos que éste le encomiende;
 
-VI. Proveer al Presidente la información y datos necesarios para sus actividades, toma de decisiones y formulación de mensajes, y
+VI. Asistir a las reuniones de gabinete a las que sea convocado por el Presidente o el Secretario de Gobernación, y
 
-VII. Las demás inherentes a las funciones anteriores y las que le encomiende expresamente el Presidente.
+VII. Las demás inherentes a sus funciones y las que le encomiende el Presidente.
 
-### CAPÍTULO QUINTO. DE LA COORDINACIÓN DE COMUNICACIÓN SOCIAL
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 2015)</small>
+###### Artículo 17 Bis.
+
+La Coordinación General de Política y Gobierno contará con el apoyo técnico de las siguientes unidades:
+
+I. Secretaría Técnica del Gabinete;
+
+II. Coordinación de Enlace Institucional, y
+
+III. Coordinación de Ciencia, Tecnología e Innovación.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 17 Ter.
+
+Corresponde a la Secretaría Técnica del Gabinete:
+
+I. Atender las acciones de apoyo técnico que le encomiende el Coordinador General de Política y Gobierno;
+
+II. Dar seguimiento al cumplimiento de los acuerdos e instrucciones dictados por el Presidente en las sesiones de gabinete y, en su caso, apoyar al Secretario de Gobernación en la convocatoria a éstas, de conformidad con las normas aplicables;
+
+III. Mantener informado al Coordinador General de Política y Gobierno de la situación que guarde el cumplimiento de los compromisos, acuerdos e instrucciones dictados en las sesiones de gabinete, así como de las órdenes y directrices cuyo seguimiento se le encomiende;
+
+IV. Emitir opinión al Coordinador General de Política y Gobierno sobre la mejor operación y funcionamiento de los gabinetes que instruya el Presidente;
+
+V. Orientar las acciones de los gabinetes de acuerdo con las políticas, lineamientos y prioridades que fije el Presidente o el Coordinador General de Política y Gobierno y, en términos de las normas aplicables, en colaboración y apoyo del Secretario de Gobernación;
+
+VI. Proponer al Coordinador General de Política y Gobierno temas de interés sustantivo que puedan ser abordados en las reuniones de gabinete y, en su caso, sugerir se convoque a las sesiones respectivas;
+
+VII. Verificar el cumplimiento de los programas e instrucciones que expresamente señale el Presidente y que no estén encomendados a otras áreas;
+
+VIII. Registrar y verificar el cumplimiento de los acuerdos del Presidente con los titulares de los otros Poderes de la Unión, de los órganos con autonomía constitucional y de las dependencias y entidades de la Administración Pública Federal, así como con servidores públicos de las entidades federativas y de los municipios, de conformidad con lo que instruya el Coordinador General de Política y Gobierno, o cuando no estén encomendados a otras áreas;
+
+IX. Identificar, dar seguimiento y verificar el cumplimiento de la agenda política y de gestión gubernamental sobre temas relevantes y estratégicos del quehacer público que deban ser considerados en las sesiones de gabinete;
+
+X. Realizar el registro y seguimiento de los compromisos asumidos por el Presidente;
+
+XI. Dar seguimiento a los programas de alto impacto social que promuevan las dependencias de la Administración Pública Federal e informar de los resultados obtenidos al Coordinador General de Política y Gobierno;
+
+XII. Elaborar estudios y análisis especializados que permitan anticipar escenarios o situaciones específicas de orden económico, social y político, en coordinación con las unidades competentes y, sugerir al Coordinador General de Política y Gobierno, estrategias y políticas alternativas para su atención oportuna;
+
+XIII. Proporcionar al Coordinador General de Política y Gobierno y a los miembros del gabinete información de naturaleza económica, social y política que permita apoyar la oportuna y adecuada toma de decisiones, y
+
+XIV. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Coordinador General de Política y Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 17 Quáter.
+
+Corresponde a la Coordinación de Enlace Institucional:
+
+I. Apoyar al Coordinador General de Política y Gobierno en la atención de las relaciones interinstitucionales con los sectores público, político, social y privado;
+
+II. Proveer al Coordinador General de Política y Gobierno información y datos necesarios sobre los asuntos que éste le solicite;
+
+III. Brindar asesoría y apoyo técnico al Coordinador General de Política y Gobierno en los asuntos de su competencia;
+
+IV. Establecer mecanismos de coordinación con las demás unidades de la Oficina de la Presidencia para el cumplimiento de sus funciones, y
+
+V. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Coordinador General de Política y Gobierno.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+Artículo 17 Quintus. Corresponde a la Coordinación de Ciencia, Tecnología e Innovación:
+
+I. Coadyuvar en la elaboración de diagnósticos e informes sobre la situación que guarda el sector de ciencia, tecnología e innovación en el país;
+
+II. Analizar, con el apoyo del Consejo Nacional de Ciencia y Tecnología, el marco jurídico en materia de ciencia, tecnología e innovación y proponer, por conducto de las instancias competentes, las modificaciones que se estimen pertinentes para la mejor organización y funcionamiento del sector;
+
+III. Participar, en coordinación con las instancias competentes, en la formulación del análisis global del sector ciencia, tecnología e innovación, y formular, conjuntamente con el Consejo Nacional de Ciencia y Tecnología, las recomendaciones pertinentes sobre la relación del mismo con el Ejecutivo Federal;
+
+IV. Impulsar acciones para que la ciencia, tecnología e innovación se conviertan en palanca real del desarrollo económico y social del país;
+
+V. Coadyuvar con las instancias competentes en materia de ciencia, tecnología e innovación en el ejercicio de sus funciones;
+
+VI. Presentar al Coordinador General de Política y Gobierno, conjuntamente con el Consejo Nacional de Ciencia y Tecnología, los informes de los avances de las acciones acordadas y someter a su consideración el impulso de estrategias en dicho sector;
+
+VII. Solicitar información y datos a las dependencias y entidades de la Administración Pública Federal, así como a las instancias competentes de las entidades federativas y de los municipios, para la formulación de estudios, diagnósticos, análisis y opiniones, en el ámbito de su competencia;
+
+VIII. Formular los análisis, opiniones y recomendaciones que el Presidente o el Coordinador General de Política y Gobierno le encomienden, en el ámbito de sus atribuciones y, en su caso, solicitar el apoyo de expertos, según la naturaleza de los temas respectivos;
+
+IX. Propiciar la vinculación del Ejecutivo Federal con instancias públicas y privadas de desarrollo tecnológico, investigación científica e innovación;
+
+X. Recomendar al Coordinador General de Política y Gobierno la realización de estudios especializados por instituciones de investigación científica, desarrollo tecnológico e innovación, públicas y privadas, así como la integración de expertos en proyectos específicos, y
+
+XI. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Coordinador General de Política y Gobierno.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO QUINTO. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL Y VOCERÍA DEL GOBIERNO DE LA REPÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-Corresponde a la Coordinación de Comunicación Social y Vocería del Gobierno de la República:
+Corresponde a la Coordinación General de Comunicación Social y Vocería del Gobierno de la República:
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 I. Proponer y aplicar los programas de comunicación social del Presidente y de la Oficina de la Presidencia, de conformidad con las políticas, lineamientos y demás disposiciones jurídicas aplicables;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 II. Coordinar, con el apoyo de las unidades administrativas de comunicación social de las dependencias y entidades de la Administración Pública Federal, la realización de programas o campañas específicas de comunicación social, o información gubernamental, en términos de las disposiciones jurídicas aplicables, así como para la emisión de boletines y comunicados a los medios de comunicación;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 III. Coordinar a las unidades administrativas de comunicación social de las dependencias y entidades de la Administración Pública Federal, para dar congruencia a la información que el Gobierno Federal difunda a la población;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 IV. Convocar a reuniones de trabajo a los titulares de las unidades administrativas de comunicación social de las dependencias y entidades de la Administración Pública Federal, con objeto de diseñar y coordinar la estrategia de información gubernamental;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 V. Supervisar las acciones para la ejecución de la estrategia de información gubernamental, a que se refiere la fracción anterior;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 VI. Informar a la opinión pública y a los medios de comunicación acerca de los asuntos competencia del Presidente y de la Oficina de la Presidencia, así como difundir sus objetivos, programas y acciones;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 VII. Ampliar y, en su caso, precisar la información relacionada con los posicionamientos del Gobierno Federal;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 VIII. Coordinar y atender las actividades de relaciones públicas del Presidente y de la Oficina de la Presidencia con los medios de comunicación, en coordinación con las dependencias de la Administración Pública Federal competentes;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 IX. Establecer relaciones interinstitucionales con las áreas de comunicación social de los sectores público, social y privado;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 X. Intervenir, en coordinación con la Secretaría de Gobernación, en la formulación, regulación y conducción de la política de comunicación social del Gobierno Federal y en la relación con los medios masivos de información, así como participar en la orientación, supervisión y evaluación de los programas de comunicación social de las dependencias y entidades de la Administración Pública Federal;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XI. Suscribir acuerdos y convenios con los sectores público, social y privado en las materias de su competencia y disponer las acciones para su ejecución, en coordinación con las dependencias y entidades de la Administración Pública Federal competentes;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XII. Analizar, en coordinación con las unidades administrativas de la Oficina de la Presidencia, la información que difunden los medios de comunicación sobre el Presidente y la Oficina de la Presidencia;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XIII. Establecer criterios respecto a las publicaciones periódicas de la Oficina de la Presidencia de carácter informativo y de difusión;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XIV. Compilar y distribuir entre los servidores públicos de la Oficina de la Presidencia la información publicada y difundida en los medios de comunicación del país;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XV. Cubrir los eventos institucionales del Presidente y de la Oficina de la Presidencia, así como diseñar y producir los materiales informativos y de difusión de dichos eventos para radio, televisión y medios impresos, en coordinación con las instancias competentes;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XVI. Enviar, en términos de las disposiciones jurídicas aplicables, para su transmisión por radio, televisión y publicación en medios impresos, los materiales informativos y de difusión de las actividades del Presidente y de la Oficina de la Presidencia, en coordinación con las instancias competentes;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XVII. Coordinar las entrevistas y conferencias de prensa del Presidente y de los servidores públicos de la Oficina de la Presidencia;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XVIII. Promover la coordinación y colaboración del Poder Ejecutivo Federal con los medios de comunicación del país y del extranjero, en coordinación con la Secretaría de Gobernación y demás dependencias y entidades de la Administración Pública Federal competentes;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XIX. Atender los requerimientos de información de las actividades del Presidente y de la Oficina de la Presidencia que formulen los medios de comunicación del país;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XX. Integrar y administrar el acervo documental y audiovisual de las actividades del Presidente que fueron objeto de difusión a través de los medios de comunicación del país;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XXI. Participar en reuniones del Gabinete y de los gabinetes especializados a los que se le convoque;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XXII. Promover la modernización administrativa, mejora regulatoria, gestión de la calidad y transparencia de los trámites y servicios en los asuntos de su competencia;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XXIII. Conducir la política de identidad institucional de la Oficina de la Presidencia y de la Administración Pública Federal, con la participación que corresponda a la Secretaría de Gobernación;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XXIV. Coordinar el diseño y difusión de las campañas y publicaciones institucionales de la Oficina de la Presidencia, con la participación de las demás unidades competentes, así como orientar a las dependencias y entidades de la Administración Pública Federal para que el contenido de sus campañas y publicaciones sea acorde con el mensaje y estrategia de comunicación social que determine el Presidente;
+
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
 
 XXV. Coordinar las acciones y estrategias para posicionar el mensaje gubernamental, con la participación que corresponda de las demás unidades competentes de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal;
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XXVI. Supervisar el uso de la imagen institucional, así como coadyuvar en la producción y transmisión de los actos y eventos en los que participe el Presidente, en coordinación con las demás unidades de la Oficina de la Presidencia, así como de las dependencias y entidades de la Administración Pública Federal competentes, y
 
+> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 2015)</small>
+
 XXVII. Las demás inherentes a las funciones anteriores y las que le encomiende el Presidente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 18 Bis.
+
+La Coordinación de Crónica Presidencial estará adscrita a la Coordinación General de Comunicación Social y Vocería del Gobierno de la República. Su titular será nombrado y removido libremente por el Presidente.
+
+> <small>(ADICIONADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 18 Ter.
+
+Corresponde a la Coordinación de Crónica Presidencial:
+
+I. Dar puntual seguimiento a las actividades del Presidente para recopilar los materiales y generar los contenidos para la integración de las publicaciones y las crónicas respectivas;
+
+II. Compilar el acervo documental, bibliográfico, hemerográfico, audiovisual y de medios electrónicos que dé cuenta de las políticas, programas, obras y acciones para construir la memoria histórica de la Presidencia de la República, sin perjuicio de las atribuciones que correspondan a las dependencias y entidades de la Administración Pública Federal;
+
+III. Poner a disposición de la ciudadanía el acervo presidencial, mediante un sistema de consulta digital;
+
+IV. Publicar y actualizar los diccionarios y directorios del Gobierno Mexicano que le sean instruidos;
+
+V. Elaborar y actualizar, en el ámbito de su competencia, un catálogo de referencias de las publicaciones editadas por la Oficina de la Presidencia, de conformidad con las disposiciones aplicables;
+
+VI. Difundir la narrativa histórica presidencial, así como de las obras y acciones del Gobierno de la República para fines informativos, educativos y de orientación social, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y disposiciones legales aplicables;
+
+VII. Participar, en el ámbito de su competencia, en las políticas sobre la custodia del acervo histórico e historiográfico, tanto impreso como gráfico, audiovisual, sonoro, electrónico, informático, magnético o de índole diversa, de la Oficina de la Presidencia;
+
+VIII. Establecer mecanismos de coordinación con las unidades de la Oficina de la Presidencia, así como con las dependencias y entidades de la Administración Pública Federal y demás instancias competentes, para recabar, ordenar y clasificar la información necesaria para el debido ejercicio de sus funciones, y
+
+IX. Las demás inherentes a sus funciones y las que le encomiende el Presidente o el Coordinador General de Comunicación Social y Vocero del Gobierno de la República.
 
 ### CAPÍTULO SEXTO. DE LA SECRETARÍA TÉCNICA DEL CONSEJO DE SEGURIDAD NACIONAL
 
@@ -484,3 +616,9 @@ SEXTO. Las referencias que se hagan a la Coordinación de Estrategia y Mensaje G
 SÉPTIMO. La Coordinación General de Administración de la Presidencia de la República proveerá lo necesario para que los recursos humanos, presupuestales, financieros y materiales que estén asignados a la Vocería del Gobierno de la República, sean reasignados a la Coordinación de Comunicación Social y Vocería del Gobierno de la República, sin menoscabo de los derechos laborales, conforme a las disposiciones legales aplicables.
 
 OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para tal fin a la Oficina de la Presidencia de la República y a la Consejería Jurídica del Ejecutivo Federal, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 1 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para tal fin a la Oficina de la Presidencia de la República, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
