@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2015-07-16"
+last_updated: "2015-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -723,7 +723,7 @@ Las comisiones que designe el presidente del Congreso del Estado para dar cumpli
 
 El pleno del Congreso del Estado podrá acordar, por el voto de las dos terceras partes de sus integrantes, la constitución de comisiones especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, los diputados integrantes que la conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto, concluirán con sus funciones.
 
-> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 92.
 
@@ -739,11 +739,11 @@ IV.- De Presupuestos y Asuntos Municipales;
 
 V.- De Educación y Cultura;
 
-VI.- De Deporte y Juventud;
+VI.- De Deporte;
 
 VII.- De Justicia y Derechos Humanos;
 
-VIIII (SIC).- De Seguridad Pública;
+VIII.- De Seguridad Pública;
 
 IX.- De Fomento Agrícola y Ganadero;
 
@@ -759,11 +759,11 @@ XIV.- De Asuntos Fronterizos;
 
 XV.- De Fomento Económico y Turismo;
 
-XVI.- De Energía y Medio Ambiente;
+XVI.- De Energía, Medio Ambiente y Cambio Climático;
 
-XVII. De Salud;
+XVII.- De Salud;
 
-XVIII.- De Transparencia, Comunicación y Enlace Social;
+XVIII.- De Comunicación y Enlace Social;
 
 XIX.- De Asuntos de Equidad y Género;
 
@@ -771,45 +771,29 @@ XX.- De Asuntos Indígenas;
 
 XXI.- De Atención a Grupos Vulnerables de la Sociedad;
 
-> <small>(ADICIONADA, B.O. 8 DE DICIEMBRE DE 2011)</small>
+XXII.- De Ciencia y Tecnología;
 
-XXI BIS.- De Ciencia y Tecnología;
+XXIII.- De Examen Previo y Procedencia Legislativa;
 
-> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+XXIV.- Del Agua;
 
-XXII.- De Examen Previo y Procedencia Legislativa;
+XXV.- De Transporte y Movilidad;
 
-> <small>(REFORMADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+XXVI.- De Minería;
 
-XXIII.- Del Agua;
+XXVII.- De Vivienda;
 
-> <small>(REFORMADA, B.O. 4 DE NOVIEMBRE DE 2013)</small>
+XXVIII.- De Protección Civil;
 
-XXIV.- De Transporte y Movilidad;
+XXIX.- De los Derechos de la Niñez y la Adolescencia;
 
-> <small>(ADICIONADA, B.O. 20 DE SEPTIEMBRE DE 2012)</small>
+XXX.- Desarrollo Urbano;
 
-XXV.- De Minería;
+XXXI.- Transparencia;
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
+XXXII.- Anticorrupción; y
 
-XXVI.- De Vivienda;
-
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2014)</small>
-
-XXVII.- De Protección Civil;
-
-> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
-
-XXVIII.- De los Derechos de la Niñez y la Adolescencia;
-
-> <small>(REFORMADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
-
-XXIX.- Desarrollo Urbano; y
-
-> <small>(ADICIONADA, B.O. 4 DE DICIEMBRE DE 2014)</small>
-
-XXX.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
+XXXIII.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
 
 ###### ARTÍCULO 93.
 
@@ -937,7 +921,9 @@ VII.- Acordar los asuntos a tratar en el orden del día de las sesiones, debiend
 
 VIII.- Autorizar, a solicitud de la Comisión de Administración, la contratación de asesorías externas o de especialistas para el trabajo de las comisiones, atendiendo a la naturaleza del asunto de que se trate, a la conveniencia y oportunidad de la asesoría; así como la celebración de reuniones de comisiones fuera del recinto oficial o la celebración de congresos, seminarios y eventos similares, atendiendo a la disponibilidad presupuestaria;
 
-IX.- Autorizar, a propuesta de la Comisión de Transparencia, Comunicación y Enlace Social, el programa anual de comunicación social del Congreso del Estado;
+> <small>(REFORMADA, B.O. 1 DE OCTUBRE DE 2015)</small>
+
+IX.- Autorizar, a propuesta de la Comisión de Comunicación y Enlace Social, el programa anual de comunicación social del Congreso del Estado;
 
 X.- Evaluar las funciones de las dependencias del Congreso del Estado;
 
@@ -954,6 +940,8 @@ XIV.- Las demás que le confiera esta ley, el pleno del Congreso del Estado y la
 La Comisión de Régimen Interno y Concertación Política dispondrá del personal y equipo necesarios para el cumplimiento de sus atribuciones, así como de los recursos económicos en los términos que señale el presupuesto de egresos del Congreso del Estado.
 
 ### CAPÍTULO I. DE LAS SESIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 111.
 
@@ -1007,9 +995,11 @@ XI.- Otros análogos que a juicio del Presidente del Congreso del Estado, de la 
 
 ###### ARTÍCULO 115.
 
-El Congreso del Estado tendrá cada año dos periodos constitucionales de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias comprenderán, el primero, del día 16 de septiembre al 15 de diciembre y, el segundo, desde el 1o. de abril hasta el día último de junio, en ambos casos considerando cada año de ejercicio legal de la legislatura. Estos periodos pueden ser prorrogables en términos del artículo 41 de la Constitución Política del Estado.
+El Congreso del Estado tendrá cada año dos periodos constitucionales de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los periodos de sesiones ordinarias comprenderán, el primero, del día 16 de septiembre al 15 de diciembre y, el segundo, desde el 1o. de marzo hasta el día último de junio, en ambos casos considerando cada año de ejercicio legal de la legislatura. Estos periodos pueden ser prorrogables en términos del artículo 41 de la Constitución Política del Estado.
 
-El primer periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el primer periodo de sesiones ordinarias o su prórroga y hasta el 31 de marzo de cada año de ejercicio de la legislatura; a su vez, el segundo periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el segundo periodo de sesiones ordinarias o su prórroga y hasta el 15 de septiembre de cada año de ejercicio de la legislatura.
+> <small>(REFORMADO B.O. 1 DE OCTUBRE DE 2015)</small>
+
+El primer periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el primer periodo de sesiones ordinarias o su prórroga y hasta el último día de febrero de cada año de ejercicio de la legislatura; a su vez, el segundo periodo de sesiones extraordinarias iniciará desde la fecha en que concluya el segundo periodo de sesiones ordinarias o su prórroga y hasta el 15 de septiembre de cada año de ejercicio de la legislatura.
 
 El Congreso del Estado podrá ser convocado a sesiones extraordinarias de conformidad a lo que establecen los artículos 43 y 66 de la Constitución Política del Estado para desahogar únicamente los asuntos para los que fue convocado.
 
@@ -1075,7 +1065,7 @@ Las iniciativas de ley, de decreto y acuerdo, se sujetarán a los siguientes tr�
 
 I.- Las iniciativas presentadas por el Ejecutivo y por el Supremo Tribunal de Justicia pasarán desde luego a comisión;
 
-II. Las iniciativas ciudadanas en los términos del artículo 53 de la Constitución Política del Estado y los acuerdos del Congreso de la Unión para los que se solicite la aprobación de esta legislatura, invariablemente se turnarán a comisión;
+II.- Las iniciativas ciudadanas en los términos del artículo 53 de la Constitución Política del Estado y los acuerdos del Congreso de la Unión para los que se solicite la aprobación de esta legislatura, invariablemente se turnarán a comisión;
 
 III.- Las iniciativas de los diputados y de los ayuntamientos se presentarán por escrito y oportunamente se turnarán a comisión. A estas proposiciones les podrá ser dispensado el trámite de comisión y aún discutir y resolver desde luego el asunto de que se trate, siempre que el pleno del Congreso del Estado las declare como de urgente u obvia resolución y se hayan publicado en la Gaceta Parlamentaria cuando menos el día anterior al de la sesión de que se trate; y
 
@@ -1531,6 +1521,8 @@ El Comité Ciudadano evaluará anualmente al Congreso del Estado en los término
 
 ### CAPÍTULO I. DE LA ORGANIZACIÓN INTERNA
 
+> <small>(REFORMADO, B.O. 1 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 176.
 
 Cuando en los casos previstos en la Constitución Política del Estado, el Gobernador y el Presidente del Supremo Tribunal de Justicia deban presentarse ante el Congreso del Estado, sendas comisiones protocolarias nombradas por la Presidencia, los recibirán a la entrada del salón de sesiones. Asimismo, los acompañarán al retirarse.
@@ -1575,13 +1567,11 @@ De la misma manera, deberá entonarse el Himno Nacional al inicio de aquellas se
 
 Para su funcionamiento, el Congreso del Estado tendrá las siguientes dependencias:
 
-I.- Instituto Superior de Auditoria y Fiscalización;
+I.- Instituto Superior de Auditoría y Fiscalización;
 
-II.- Instituto de Transparencia Informativa;
+II.- Oficialía Mayor; y
 
-III.- Oficialía Mayor; y
-
-IV.- Contraloría Interna.
+III.- Contraloría Interna.
 
 ###### ARTÍCULO 184.
 
@@ -1595,17 +1585,19 @@ Los titulares de la Oficialía Mayor, de las Direcciones Generales y de Contralo
 
 Queda prohibido acordar la entrega de numerario o bienes en especie a diputados o servidores públicos de confianza de primer nivel del Poder Legislativo, a título de bono, indemnización, compensación o cualquier otro concepto semejante o análogo, por motivo de la conclusión anticipada u ordinaria de sus funciones en el Congreso del Estado.
 
-### CAPÍTULO III. DEL INSTITUTO DE TRANSPARENCIA INFORMATIVA
+### CAPÍTULO III
 
 ###### ARTÍCULO 187.
 
 El Instituto Superior de Auditoría y Fiscalización tendrá la organización y atribuciones que le establezca la Constitución Política del Estado y la ley de la materia.
 
+> <small>(DEROGADA SU DENOMINACIÓN, B.O. 1 DE OCTUBRE DE 2015)</small>
+
 ### CAPÍTULO IV. DE LA OFICIALÍA MAYOR
 
 ###### ARTÍCULO 188.
 
-El Instituto de Transparencia Informativa tendrá la organización y atribuciones que le establezca la Constitución Política del Estado y la ley de la materia.
+(DEROGADO, B.O. 1 DE OCTUBRE DE 2015)
 
 ### CAPÍTULO V. DE LA CONTRALORÍA INTERNA
 
@@ -2144,3 +2136,9 @@ DECRETO NÚMERO 189 POR EL QUE SE REFORMAN LOS ARTÍCULOS 136, 137, 138, 139 Y S
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día 16 de septiembre de 2015, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
