@@ -4,7 +4,7 @@ identifier: "COL-ley-de-periodico-oficial-del-estado-de-colima-41416"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-16"
-last_updated: "2004-10-16"
+last_updated: "2015-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DE PERIODICO OFICIAL DEL ESTADO DE COLIMA
 
-LEY DEL PERIODICO OFICIAL DEL ESTADO DE COLIMA
+LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 1 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 16 de octubre del año 2004.
 
@@ -184,3 +186,23 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, al día 13 del mes de octubre del año dos mil cuatro.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, PROFR. GUSTAVO ALBERTO VÁZQUEZ MONTES. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, C. ARNOLDO OCHOA GONZÁLEZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+###### ARTÍCULO SEGUNDO.
+
+Queda sin efecto, toda disposición que contravenga ésta nueva Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley del Periódico Oficial del Estado de Colima, publicada en fecha 16 de Octubre de 2004.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento que se prevé en la presente, deberá ser expedido por el Titular del Poder Ejecutivo del Estado dentro de los noventa días naturales a partir de la entrada en vigor de esta Ley y deberá publicarse en el Periódico Oficial.
