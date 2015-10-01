@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-administracion-publica-del-estado-de-3931"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-11-16"
-last_updated: "2012-07-07"
+last_updated: "2015-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA, PUBLICADA EN EL P.O. DE 1 DE OCTUBRE DE 2015; ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE NOVIEMBRE DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015. (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 1985.
 
@@ -1224,3 +1226,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El titular del Ejecutivo del Estado deberá expedir las adecuaciones necesarias al Reglamento Interior de la Secretaría de Finanzas y Administración.
 
 TERCERO.- La Secretaría de Finanzas y Administración del Gobierno del Estado, asignará los recursos humanos, financieros y materiales para cubrir los requerimientos de operación de la unidad administrativa que ejercerá las atribuciones derivadas de lo dispuesto en la fracción XXI, apartado A), del artículo 21, de la Ley Orgánica de la Administración Pública del Estado de Colima, facultando a dicha dependencia para que realice las transferencias o ampliaciones presupuestarias que se requieran.
+
+P.O. 1 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor el día 1° de noviembre del año 2015, previa publicación que se haga en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública del Estado de Colima publicada en el Periódico Oficial "El Estado de Colima" el día 16 de noviembre del año 1985, con sus consecuentes adiciones y reformas, y se derogan las demás disposiciones legales que se opongan a lo establecido en el presente Decreto.
+
+TERCERO.- En el caso de que esta Ley establezca una denominación nueva o distinta a alguna Dependencia o Secretaría cuyas atribuciones estén conferidas por otras leyes, reglamentos y en general en cualquier disposición normativa vigente anterior a la expedición del presente decreto, dichas atribuciones se entenderán concedidas a la Dependencia o Secretaría que observe tales funciones en términos de la presente Ley.
+
+CUARTO.- En el caso de que alguna Dependencia o Secretaría de las establecidas en la ley que se abroga pase a otra Dependencia o Secretaría contemplada en el presente ordenamiento que se expide, el traspaso se hará incluyendo todos los recursos humanos, financieros y materiales que tenga asignados para el ejercicio de sus atribuciones.
+
+El Titular del Poder Ejecutivo autorizara las transferencias y adecuaciones presupuestales y programáticas para proveer los recursos necesarios a las nuevas dependencias que se crean mediante este Decreto, con las provisiones presupuestales ya existentes en el Presupuesto de Egresos del Estado vigente por todo el resto del ejercicio fiscal.
+
+QUINTO.- Los trabajadores que con motivo de la aplicación de la presente Ley deban quedar adscritos a una Dependencia o Secretaría diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
+
+SEXTO.- Los asuntos en trámite que por motivo de esta Ley deban pasar de una Dependencia o Secretaría a otra, permanecerán en el estado en que se encuentren hasta que las unidades administrativas que los deban recibir tomen conocimiento de ellos a excepción de los asuntos sujetos a plazos improrrogables.
+
+SEPTIMO.- El Gobernador dentro de los noventa días siguientes a partir de la entrada en vigor del presente Decreto, expedirá los reglamentos interiores correspondientes a las Dependencias y Secretarías que se crearon o reestructuraron.
