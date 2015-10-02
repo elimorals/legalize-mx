@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "2008-10-24"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -149,9 +149,11 @@ Cada una de las Salas y oficinas auxiliares llevarán un libro para anotar el es
 
 Los Magistrados de las Salas informarán oportunamente al Presidente al fin de cada mes y del año, los datos estadísticos de los asuntos de su competencia y las ejecutorias importantes que hubieren emitido. Lo propio informarán los Secretarios Adscritos a las oficinas auxiliares correspondientes, al Magistrado de la Sala respectiva.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 23.
 
-Las Salas del Tribunal llevarán por duplicado los expedientes de los juicios de su competencia.
+El Pleno y las Salas del Tribunal llevarán por duplicado los expedientes de los juicios de su competencia, cuando el Magistrado Presidente o el Magistrado Titular estime necesario, el cual podrá realizarse en forma impresa o digital.
 
 ### CAPITULO QUINTO
 
@@ -454,3 +456,9 @@ UNICO.- La presente adición y modificación entrará en vigor a partir del día
 P.O. 24 DE OCTUBRE DE 2008.
 
 UNICO.- la presente adición entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+> <small>[N. DE E. SE TRANSCRIBE EL PUNTO DE “ACUERDO DEL PLENO, QUE REFORMA EL ARTÍCULO 23 DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA”.]</small>
+
+SEGUNDO. La presente reforma surtirá efectos a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
