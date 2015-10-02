@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-seguridad-publica-94913
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-05"
-last_updated: "2013-06-07"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE JUNIO DE 2013.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de junio de 2013.
 
@@ -73,9 +71,21 @@ X. Sistema Penitenciario.- El Sistema Penitenciario y de Reinserción Social est
 
 XI. Subsecretaría.- La Subsecretaría de Prevención y Participación Ciudadana;
 
-XII. Titular del Ejecutivo.- El Titular del Poder Ejecutivo del Estado, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XIII. Universidad.- la Universidad de Ciencias de la Seguridad del Estado.
+XII.- Titular del Ejecutivo.- El Titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIII.- Universidad.- La Universidad de Ciencias de la Seguridad del Estado;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIV.- Unidad.- Unidad de Medidas Cautelares y Suspensión Condicional del Proceso, y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XV.- SISPE.- Sistema Informático de la Secretaría de Seguridad Pública.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
@@ -169,6 +179,18 @@ a) Dirección General del Centro, que comprende:
 
 4. Dirección de Tecnología de Información y Comunicaciones (TIC).
 
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IV.- Unidad de Medidas Cautelares y Suspensión Condicional del Proceso; integrada por:
+
+a) Titular de la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso, que comprende:
+
+1. Dirección de Evaluación de Riesgo;
+
+2. Dirección de Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso; y
+
+3. Dirección de Vinculación y Gestión de Servicios.
+
 E. COMISIONES AUTÓNOMAS:
 
 I. Comisión de Honor y Justicia; y
@@ -183,9 +205,11 @@ Asimismo, para el despacho de los asuntos de su competencia, cada una de éstas,
 
 De manera previa a la toma de posesión de sus cargos, los servidores públicos designados como titulares de las áreas antes mencionadas, rendirán la protesta de ley correspondiente ante el Secretario.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 6°.
 
-Mando de las Instituciones: Corresponde al Gobernador Constitucional del Estado el mando supremo de las fuerzas de policía e Instituciones de Seguridad, el mando directo sobre éstas corresponde al Secretario.
+Mando de las Instituciones: Corresponde al Gobernador Constitucional del Estado el mando supremo de las fuerzas de policía e Instituciones de Seguridad, el mando superior sobre éstas corresponde al Secretario.
 
 ###### ARTÍCULO 7°.
 
@@ -559,9 +583,17 @@ XXI. Vigilar el seguimiento relativo a las bajas, daño, robo y extravío de arm
 
 XXII. Elaborar el plan anual de adquisiciones de la Secretaría;
 
-XXIII. Coordinar el proceso de entrega recepción con la Contraloría y Transparencia Gubernamental, en los cambios de titular de las unidades administrativas de la Secretaria, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XXIV. Las demás que le asigne el Secretario, en ejercicio de sus atribuciones.
+XXIII.- Coordinar el proceso de entrega-recepción con la Contraloría y Transparencia Gubernamental, en los cambios de titular de las unidades administrativas de la Secretaria;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXIV.- Establecer y dirigir las políticas públicas, planes y programas en materia de Igualdad entre Mujeres y Hombres y supervisar el avance de cada uno de ellos a través de la Unidad de Igualdad de Género y de conformidad con los procedimientos establecidos en los ordenamientos jurídicos aplicables, y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXV.- Las demás que le asigne el Secretario, en ejercicio de sus atribuciones.
 
 ###### ARTÍCULO 20.
 
@@ -889,9 +921,17 @@ De los Órganos Desconcentrados: Para la mejor atención y eficiente despacho de
 
 I. Agencia de Administración Penitenciaria;
 
-II. Institución Policial Estatal Fuerza Civil, y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-III. Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo del Estado (C-5).
+II.- Institución Policial Estatal Fuerza Civil;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+III.- Centro de Coordinación Integral, de Control, Comando, Comunicaciones y Cómputo del Estado (C-5), y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IV.- Unidad de Medidas Cautelares y Suspensión Condicional del Proceso.
 
 ###### ARTÍCULO 33.
 
@@ -1123,7 +1163,9 @@ X. Las demás atribuciones que le confieran las disposiciones jurídicas aplicab
 
 De la Fuerza Civil: La organización y funcionamiento de la Fuerza Civil, órgano desconcentrado de la Secretaría de Seguridad Pública, se regulará por el ordenamiento jurídico correspondiente.
 
-#### Sección Primera. De la Comisión de Honor y Justicia
+#### Sección Quinta. De la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 40.
 
@@ -1307,9 +1349,143 @@ XIII. Proponer, instalar, poner en funcionamiento y mantener en condiciones oper
 
 XIV. Las demás que establezcan los ordenamientos jurídicos aplicables.
 
-#### Sección Segunda. De la Comisión de Carrera Policial
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+#### Sección Primera. De la Comisión de Honor y Justicia
+
+###### ARTÍCULO 44 Bis.
+
+Atribuciones del Titular de la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso. El Titular de la Unidad tiene las siguientes atribuciones:
+
+I.- Realizar la evaluación y supervisión de medidas cautelares distintas a la prisión preventiva y la suspensión condicional del proceso de conformidad con los principios de neutralidad, objetividad, imparcialidad y confidencialidad;
+
+II.- Proporcionar a las partes la información recabada con motivo de la evaluación de riesgo antes de la audiencia de determinación de la medida cautelar, para efecto de que la autoridad jurisdiccional establezca la medida correspondiente;
+
+III.- Coordinarse con las áreas competentes, para tener acceso a los sistemas y bases de datos del Sistema Nacional de Información, registros públicos y demás relativas;
+
+IV.- Recopilar, sistematizar, resguardar y retrasmitir a través de una base de datos el seguimiento al cumplimiento de las medidas cautelares distintas a la prisión preventiva y la suspensión condicional del proceso;
+
+V.- Informar a las partes el cambio de las circunstancias originales, las violaciones a las medidas y obligaciones impuestas que estén debidamente verificadas, y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes;
+
+VI.- Mantener actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión;
+
+VII. Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de Entidades Federativas dentro de sus respectivos ámbitos de competencia;
+
+VIII.- Ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de las Entidades Federativas en sus respectivos ámbitos de competencia;
+
+XI.- Canalizar al imputado a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+X.- Proponer convenios de colaboración y coordinación con instituciones públicas, privadas, académicas nacionales e internacionales, de investigación y otras especialidades en materia de medidas cautelares y suspensión condicional del proceso;
+
+XI.- Observar y aplicar lo establecido por el Código Nacional de Procedimientos Penales y las demás normatividad aplicable en la materia;
+
+XII.- Expedir certificaciones de los documentos existentes en el archivo a su cargo; y
+
+XIII.- Las demás que establezca este Reglamento e instrumentos normativos aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 44 Bis 1.
+
+Atribuciones de la Dirección de Evaluación de Riesgo. El Director de Evaluación de Riesgo, tiene las siguientes atribuciones:
+
+I.- Entrevistar al imputado o adolescente previamente a la realización de cualquier audiencia sobre medidas cautelares, para obtener información relevante que contribuya a la determinación de la medida cautelar por la autoridad judicial;
+
+II.- Recabar la información del imputado o adolescente, correspondiente a la historia personal, lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales y cualquier otra información pertinente relacionada para determinar el riesgo procesal;
+
+III.- Verificar la información proporcionada por el imputado o adolescente, a través de diversas formas, que incluyen la revisión documental, bases de datos, entrevistas, llamadas, visitas domiciliarias, comunitarias y fuentes laborales y escolares;
+
+IV.- Elaborar la evaluación de riesgo procesal y vínculos comunitarios de acuerdo a la información recabada y verificada del imputado o adolescente;
+
+V.- Elaborar reportes que contengan la información recabada en sus indagaciones y su evaluación de riesgo;
+
+VI.- Entregar a las partes en su oportunidad los reportes y evaluaciones de riesgo correspondientes a los imputados o adolescentes entrevistados;
+
+VII.- Diseñar, modificar y evaluar los formatos e instrumentos de trabajo cuando así lo ameriten de acuerdo a estándares objetivos;
+
+VIII.- Entregar al área de supervisión la información sobre la evaluación de riesgos de los imputados o adolescentes;
+
+IX.- Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de los Estados; y
+
+X.- Las demás que establezca este Reglamento e instrumentos normativos aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 44 Bis 2.
+
+Atribuciones de la Dirección de Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso. El Director de Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso, tiene las siguientes atribuciones:
+
+I.- Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva, y las condiciones a cargo del imputado en caso de suspensión condicional del proceso, vigilar el estricto cumplimiento por parte del imputado o adolescente de las obligaciones impuestas y hacer recomendaciones sobre cualquier cambio que amerite alguna modificación de las medidas;
+
+II.- Entrevistar al imputado o adolescente después de la audiencia para corroborar datos, recabar información adicional e informarle sobre las medidas o condiciones impuestas, los beneficios de cumplimiento y las consecuencias de incumplimiento;
+
+III.- Entrevistar periódicamente a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso y canalizarlos, en su caso, a la autoridad correspondiente;
+
+IV.- Establecer una estrategia o plan de supervisión a mediano y largo plazo, donde se establezcan las acciones de supervisión; además, cuando así lo requiera la autoridad judicial, establecer las condiciones y la periodicidad en que los imputados o adolescentes deben reportarse;
+
+V.- Realizar entrevistas así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado o adolescente;
+
+VI.- Verificar la localización del imputado o adolescente en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+VII.- Requerir que el imputado o adolescente proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas, o el resultado del examen de las mismas en su caso, cuando la modalidad de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+VIII.- Dar seguimiento y canalizar al imputado o adolescente a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+IX.- Supervisar que las personas e instituciones públicas y privadas a las que la autoridad judicial o la Unidad encargue el cuidado del imputado o adolescente, cumplan las obligaciones contraídas;
+
+X.- Solicitar al imputado o adolescente la información que sea necesaria para verificar el cumplimiento de las medidas y obligaciones impuestas;
+
+XI.- Revisar y sugerir el cambio de las condiciones de las medidas impuestas al imputado o adolescente, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida o condición;
+
+XII.- Revisar las bases de datos y documentos para verificar el cumplimiento de las medidas o condiciones impuestas, cuando así lo amerite;
+
+XIII.- Informar a las partes los incumplimientos de las medidas cautelares y obligaciones impuestas que estén debidamente verificadas, y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes;
+
+XIV.- Continuar con la supervisión de las medidas cautelares y de la suspensión condicional del proceso hasta que la autoridad judicial informe sobre la conclusión de las mismas;
+
+XV.- Mantener actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión;
+
+XVI.- Diseñar, modificar y evaluar los formatos e instrumentos de trabajo cuando así lo ameriten de acuerdo a estándares objetivos;
+
+XVII.- Proporcionar y solicitar información a las oficinas con funciones similares de la Federación o de Entidades Federativas dentro de sus respectivos ámbitos de competencia;
+
+XVIII.- Supervisar y ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de Entidades Federativas dentro de sus respectivos ámbitos de competencia; y
+
+XIX.- Las demás que establezca este Reglamento e instrumentos normativos aplicables.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 44 Bis 3.
+
+Atribuciones de la Dirección de Vinculación y Gestión de Servicios. El Director de Vinculación y Gestión de Servicios, tiene las siguientes atribuciones:
+
+I.- Proponer y diseñar convenios de colaboración con dependencias del Gobierno Federal, Estatal y Municipal, así como con las organizaciones de la sociedad civil, universidades e instituciones especializadas, de conformidad con la legislación aplicable;
+
+II.- Diseñar y establecer procesos de colaboración con dependencias del Gobierno Federal, Estatal y Municipal para la supervisión de las medidas cautelares y suspensión condicional del proceso;
+
+III.- Diseñar y establecer procesos de colaboración con las organizaciones de la sociedad civil, así como de universidades e instituciones especializadas para la supervisión de las medidas cautelares y suspensión condicional del proceso;
+
+IV.- Proponer programas de capacitación continua con las instituciones públicas, privadas, organizaciones no gubernamentales, universidades e instituciones especializadas en materia de medidas cautelares y suspensión condicional del proceso;
+
+V.- Gestionar con el área competente de la Secretaría, las necesidades y requerimientos específicos para el funcionamiento de la Unidad;
+
+VI.- Coordinar al personal de soporte técnico para el buen funcionamiento del sistema de gestión de la ejecución, supervisión, vinculación y administración de la Unidad;
+
+VII.- Supervisar la administración de los recursos de tecnología de información y telecomunicaciones dedicada a apoyar las funciones de la Unidad;
+
+VIII.- Proponer e implementar las políticas, normas, programas y proyectos de sistemas computacionales, localizadores electrónicos, capacitación informática, seguridad e integridad de la información, telecomunicaciones, equipo de cómputo y prestación de servicios informáticos de la Unidad;
+
+IX.- Proponer e implementar las políticas y lineamientos para proteger los recursos de tecnología de información y telecomunicaciones de la Unidad, así como efectuar revisiones, verificaciones y evaluaciones internas respecto a su uso y aprovechamiento adecuado;
+
+X.- Proponer e implementar las políticas y procedimientos para el registro, control, seguimiento, consolidación e intercambio de información por medios electrónicos entre la Unidad y otras dependencias públicas y privadas;
+
+XI.- Proponer e implementar las acciones, políticas, planes, programas, lineamientos y criterios que sean necesarios para modernizar los procesos, sistemas de control y verificación, de legalidad y transparencia; y
+
+XII.- Las demás que establezca este Reglamento e instrumentos normativos aplicables.
 
 ### CAPÍTULO XI. DE LA SUPLENCIA DE LOS TITULARES
+
+#### Sección Segunda. De la Comisión de Carrera Policial
 
 ###### ARTÍCULO 45.
 
@@ -1327,6 +1503,10 @@ De la Comisión de Carrera Policial: La Comisión de Carrera Policial es un órg
 
 De la Organización: La organización, integración, funcionamiento y demás facultades de la Comisión serán establecidas en el reglamento correspondiente.
 
+### CAPÍTULO XII. DEL SISTEMA INFORMÁTICO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 49.
 
 Suplencia del Secretario: El Secretario, sólo puede ausentarse previa autorización del Titular del Poder Ejecutivo; en sus ausencias temporales menores de quince días será suplido por el Comisario General de Protección Institucional. Cuando la ausencia sea mayor o definitiva, el Gobernador del Estado designará al servidor público que lo suplirá en tanto nombra a un Secretario.
@@ -1334,6 +1514,48 @@ Suplencia del Secretario: El Secretario, sólo puede ausentarse previa autorizac
 ###### ARTÍCULO 50.
 
 Ausencia de los titulares: Las ausencias temporales de los demás titulares de las Unidades Administrativas, Dirección General, Subsecretaría, Comisaría y Órganos Desconcentrados señalados en el presente Reglamento Interior, serán suplidas por el servidor público que designe el superior jerárquico, previo acuerdo con el Secretario.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XIII. DE LOS INSTRUMENTOS NORMATIVOS INTERNOS
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 51.
+
+SISPE: Los diversos procedimientos del Sistema Informático de la Secretaría de Seguridad Pública del Estado así como la información que corresponda a los sistemas, equipos para el control de activos, personal, operaciones y recursos de la Institución, se organizarán y documentarán de forma electrónica y física en un sistema de información oficial que se denominará Sistema Informático de la Secretaría de Seguridad Pública del Estado, identificado por las siglas: SISPE.
+
+Los Titulares de las Unidades Administrativas, Dirección General, Subsecretaría, Comisaría y Órganos Desconcentrados establecidos en el presente Reglamento Interior, serán los responsables del uso, mantenimiento y actualización de datos para el SISPE, respecto al área de su competencia.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 52.
+
+Se denominan Instrumentos Normativos Internos a toda aquella regulación que generan las diversas áreas de la Secretaría de Seguridad Pública de conformidad con su competencia. Las cuales tienen la finalidad de establecer el comportamiento, funcionamiento o para normar temas específicos de dicha Institución.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 53.
+
+La Tipología de los Instrumentos Normativos es la siguiente:
+
+I.- Los Instrumentos Normativos que facultan y obligan son:
+
+a. Protocolo.- Es el instrumento normativo que alude al comportamiento y habilidades que se requieren en el desarrollo de actividades detalladas y precisas para realizar de forma ordenada y sistemática las funciones, procedimientos y atribuciones necesarias en las operaciones de la actividad policial. Son formulados por los Titulares de las Instituciones Policiales y autorizados por el Secretario.
+
+b. Manual de Procedimientos.- Es el instrumento normativo que establece instrucciones detalladas y precisas para realizar de forma ordenada y sistemática las funciones, procedimientos y atribuciones conforme a operaciones administrativas concretas de las áreas de la Secretaría. Son formulados por el Titular del área respectiva y autorizadas por el Secretario.
+
+II.- Los Instrumentos Normativos que obligan y prohíben son:
+
+a. Directivas.- Es el documento unilateral de carácter vertical, que dicta órdenes de carácter general y obligatorio para los subalternos en cuestiones operativas y administrativas de las áreas de la Secretaría. Son formuladas por los Titulares de las áreas respectivas, previa autorización del Secretario.
+
+b. Lineamientos.- Es el instrumento que establece términos, límites y características para ordenar y regular actividades y operaciones específicas sobre cuestiones operativas y administrativas de las áreas de la Secretaría. Los cuales son generadas (sic) por los Titulares de las diversas áreas de la Secretaría.
+
+III.- Los Instrumentos Normativos que informan son:
+
+a. Circular.- Son comunicaciones de carácter general dentro de la institución para cuestiones operativas y administrativas, mediante las cuales regulan actividades específicas del área de la Secretaría, son emitidas por los Titulares de las Unidades Operativas y Administrativas de las diversas áreas de la Secretaría.
+
+b. Oficio.- Son comunicaciones que en lo particular se utilizan para el desahogo de asuntos que llevan a cabo las Unidades Operativas y Administrativas de las áreas de la Secretaría, emitidas por los Titulares y las partes involucradas en su caso.
 
 ## TRANSITORIOS
 
@@ -1364,3 +1586,21 @@ GRAL. DIV. D.E.M. RET
 > <small>(F. DE E., P.O. 7 DE JUNIO DE 2013)</small>
 
 ALFREDO FLORES GÓMEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE OCTUBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La implementación de la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso, iniciará su vigencia, en la fecha en que entre en vigor en el Estado de Nuevo León, el Código Nacional de Procedimientos Penales.
+
+TERCERO.- Se instruye a la Secretaría de Finanzas y Tesorería General del Estado, para que disponga las medidas financieras para la debida implementación de la Unidad de Medidas Cautelares y Suspensión Condicional del Proceso prevista en la (sic) presente Reglamento.
+
+Las Unidades Administrativas que se crean al amparo del presente Reglamento, serán habilitadas con personal y recursos materiales una vez que se cuente con la autorización de suficiencia presupuestal emitida por la Secretaría de Finanzas y Tesorería General del Estado. Mientras no se expida la autorización de suficiencia presupuestal para la contratación de personal y equipamiento, el Titular de la Secretaría de Seguridad Pública facultará a los servidores públicos actualmente adscritos a la propia Secretaría, para que en forma honoraria ejerzan las atribuciones conferidas a las referidas unidades administrativas.
+
+CUARTO.- De conformidad con el artículo segundo transitorio del Acuerdo por el que se instruye la creación de la Unidad de Igualdad de Género en cada una de las Dependencias y Entidades de la Administración Pública del Estado de Nuevo León, dicha Unidad de Género se conformará de acuerdo con el presupuesto que tenga autorizado la Secretaría, sin que implique incremento presupuestal y considerando la estructura indispensable para su funcionamiento.
+
+QUINTO.- En un término de 90 días se expedirán las reglas generales que determinen la estructura, contenido y procedimiento de emisión para los instrumentos normativos establecidos en el Capítulo XIII del presente Reglamento.
