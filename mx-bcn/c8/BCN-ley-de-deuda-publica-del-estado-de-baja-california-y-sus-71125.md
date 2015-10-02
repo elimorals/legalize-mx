@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-deuda-publica-del-estado-de-baja-california-y-sus-71125"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-01"
-last_updated: "2014-10-10"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 1 de diciembre de 2009.
 
@@ -59,9 +59,9 @@ VI.- Entidades Paramunicipales: Las constituidas en los municipios de conformida
 
 VII.- Programa Financiero: Documento que contiene la información necesaria y suficiente para sustentar la solicitud de autorización para la contratación de Deuda Pública;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VIII.- Inversiones Públicas Productivas: Las destinadas a la ejecución de obras de infraestructura y a la adquisición o manufactura de bienes muebles e inmuebles, siempre que en forma directa o indirecta generen Ingresos públicos y/o ahorros en el gasto corriente y/o produzcan elevar el nivel de vida de la ciudadanía; asimismo, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales, antropogénicos o contingencias climatológicas declaradas por la autoridad competente que de no ser atendidas oportunamente generarían mayores contingencias; y aquellas destinadas al saneamiento financiero a través del cual se reduzca el saldo de los adeudos que se tengan con instituciones públicas o financieras, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas de los sujetos de esta Ley.
+VIII.- Inversiones Públicas Productivas: Las destinadas a la ejecución de obras de infraestructura y a la adquisición o manufactura de bienes muebles e inmuebles, siempre que en forma directa o indirecta generen ingresos públicos y/o ahorros en el gasto corriente y/o produzcan elevar el nivel de vida de la ciudadanía; asimismo, las que se destinen a la atención de situaciones de emergencia derivadas de desastres naturales, antropogénicos o contingencias climatológicas declaradas por la autoridad competente que de no ser atendidas oportunamente generarían mayores contingencias.
 
 IX.- Refinanciamiento de Deuda Pública: Los actos que impliquen la contratación de nuevos créditos para mejorar las condiciones del crédito, como pueden ser la tasa de interés, plazo, amortización, garantías y otras condiciones originalmente pactadas de uno o varios financiamientos, sustituyendo las obligaciones del financiamiento original por uno o varios financiamientos con el mismo o con diferente acreedor. El refinanciamiento no deberá incrementar la Deuda Pública base del mismo;
 
@@ -544,5 +544,13 @@ P.O. 10 DE OCTUBRE DE 2014.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Las operaciones de financiamiento temporal a que se refiere la presente reforma, contratadas antes de la fecha de entrada en vigor de la presente, serán reguladas por las disposiciones vigentes al momento de su contratación.
+
+TERCERO.- Remítase al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las operaciones de financiamiento contratadas antes de la fecha de entrada en vigor de la presente reforma, serán reguladas por las disposiciones vigentes al momento de su contratación.
 
 TERCERO.- Remítase al Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado de Baja California.
