@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-justicia-para-adolescentes-del-estado-de-guanajuato-5137
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-01"
-last_updated: "2015-09-25"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51378&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 25 DE SEPTIEMBRE DE 2015.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2015.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 1 de agosto de 2006.
 
@@ -697,7 +697,7 @@ El Ministerio Público Especializado o el Juez para Adolescentes podrán otorgar
 
 Para los efectos de la libertad provisional bajo caución se considerarán conductas sobre las que no procede este beneficio, en virtud de su gravedad, las siguientes previstas en el Código Penal:
 
-I. Homicidio previsto por el artículo 138, con relación a los artículos 139, 140 y 153, así corno en grado de tentativa con relación al artículo 18;
+I. Homicidio previsto por el artículo 138, con relación a los artículos 139, 140 y 153, así como en grado de tentativa con relación al artículo 18;
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1847,9 +1847,11 @@ Inicio de vigencia
 
 Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
 
+> <small>(F. DE E., P.O. 2 DE OCTUBRE DE 2015)</small>
+
 Abrogación
 
-Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+Artículo Segundo. Se abroga la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, segunda parte, de fecha 19 de noviembre de 2010.
 
 Plazos para ajustar reglamentos y decretos
 
