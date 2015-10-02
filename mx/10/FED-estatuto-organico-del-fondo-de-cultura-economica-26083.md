@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-fondo-de-cultura-economica-26083"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-10-15"
-last_updated: "2013-01-15"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26083&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-11"
 
 ESTATUTO ORGÁNICO DEL FONDO DE CULTURA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 15 de octubre de 2002.
 
@@ -123,11 +123,17 @@ V. Coordinaciones Generales:
 
 2. De Comercio Internacional;
 
-3. (DEROGADO, D.O.F. 15 DE ENERO DE 2013)
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.fondode culturaeconomica.com/Institucional/normateca.asp?sec=Disposiciones&subseccion=General/Jur%C3%ADdico.</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE OCTUBRE DE 2015)</small>
 
-4. Unidad de Planeación Editorial y Proyectos Estratégicos.
+3. De Comunicación; y
+
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.fondode culturaeconomica.com/Institucional/normateca.asp?sec=Disposiciones&subseccion=General/Jur%C3%ADdico.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2015)</small>
+
+4. De Obras para Niños y Jóvenes.
 
 VI. Organos de Vigilancia y Control:
 
@@ -323,9 +329,11 @@ I. Ejercer las facultades, realizar los actos y celebrar los contratos relativos
 
 II. Apoyar al Director General en la correcta aplicación, por parte de las gerencias y coordinaciones generales, de las políticas, estrategias, disposiciones legales y manuales establecidos en materia de edición, producción, publicación, registro, promoción y comercialización de las obras de que se ocupe el Fondo de Cultura Económica;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.fondode culturaeconomica.com/Institucional/normateca.asp?sec=Disposiciones&subseccion=General/Jur%C3%ADdico.</small>
 
-III. Apoyar al Director General en la evaluación de las actividades realizadas por las gerencias, coordinaciones generales y la Unidad de Planeación Editorial y Proyectos Estratégicos, mediante el establecimiento de indicadores de gestión y calidad y en general en el correcto funcionamiento del Fondo de Cultura Económica;
+> <small>(REFORMADA, D.O.F. 2 DE OCTUBRE DE 2015)</small>
+
+III. Apoyar al Director General en la evaluación de las actividades realizadas por las gerencias y coordinaciones generales, mediante el establecimiento de indicadores de gestión y calidad y en general en el correcto funcionamiento del Fondo de Cultura Económica;
 
 > <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
 
@@ -441,7 +449,7 @@ IV. Determinar los criterios para el diseño de las diferentes colecciones, de a
 
 V. Coordinar la impresión y publicación de los catálogos;
 
-VI. Administrar los almacenes y la logística de distribución de las obras editadas por el Fondo de Cultura Económica, y (sic)
+VI. Administrar los almacenes y la logística de distribución de las obras editadas por el Fondo de Cultura Económica, y
 
 VII. (DEROGADA, D.O.F. 15 DE ENERO DE 2013)
 
@@ -615,31 +623,55 @@ XII. Dar seguimiento a los programas editoriales de las subsidiarias y coordinar
 
 XIII. Actuar como enlace entre el Fondo de Cultura Económica y las áreas internacionales de dependencias gubernamentales y académicas en México y en el extranjero.
 
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.fondode culturaeconomica.com/Institucional/normateca.asp?sec=Disposiciones&subseccion=General/Jur%C3%ADdico.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 2 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-(DEROGADO, D.O.F. 15 DE ENERO DE 2013)
+El Coordinador General de Comunicación tiene las siguientes facultades y obligaciones:
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2013)</small>
+I. Planear y establecer las políticas en materia de comunicación social, mercadotecnia, publicidad, difusión e imagen corporativa del Fondo de Cultura Económica, con el propósito de que sean observadas por las áreas involucradas;
+
+II. Proponer el programa anual de actividades culturales, presentaciones de libros y autores, así como de exposiciones y actos académicos de consumo con la Gerencia Editorial y la Coordinación General de Obras para Niños y Jóvenes;
+
+III. Determinar el plan anual de medios y cubrir los espacios culturales para dar a conocer el acervo editorial del Fondo de Cultura Económica;
+
+IV. Instrumentar estrategias, políticas y programas de comunicación, mercadotecnia y publicidad, con el objeto de fortalecer la imagen de la entidad;
+
+V. Representar a la Dirección General en actividades de comunicación social, y por acuerdo expreso en las de carácter académico y editorial;
+
+VI. Instrumentar mecanismos y campañas que permitan informar a la sociedad sobre las actividades de la entidad, así como recabar información de la opinión pública;
+
+VII. Determinar el perfil de los segmentos de mercado y los medios publicitarios a utilizar para dar a conocer los títulos, autores y actividades del Fondo de Cultura Económica, y
+
+VIII. Dictaminar sobre la viabilidad comercial de las obras susceptibles de ser editadas con base en los criterios mercadológicos.
+
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.fondode culturaeconomica.com/Institucional/normateca.asp?sec=Disposiciones&subseccion=General/Jur%C3%ADdico.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-El Titular de la Unidad de Planeación Editorial y Proyectos Estratégicos tiene las siguientes facultades y obligaciones:
+El Coordinador General de Obras para Niños y Jóvenes tiene las siguientes facultades y obligaciones:
 
-I. Proponer la reestructuración o recomposición de colecciones y obras que puedan incorporarse al Programa Editorial;
+I. Programar, organizar y dirigir las fases de registro, selección, dictaminación, contratación y traducción del material de obras para niños y jóvenes que se publicará, apegándose estrictamente a lo señalado en la Ley Federal del Derecho de Autor y en los convenios y tratados internacionales en los que México es signatario;
 
-II. Evaluar ediciones realizadas por las subsidiarias en el extranjero, susceptibles de ser editadas en Casa Matriz;
+II. Establecer los lineamientos de los proyectos de promoción a la lectura, en especial en el ámbito escolar, que sean congruentes con los objetivos del Fondo de Cultura Económica;
 
-III. Opinar sobre la elaboración de las publicaciones periódicas que edite la entidad;
+III. Supervisar que la calidad editorial y el contenido de los títulos para niños y jóvenes respondan a los criterios y políticas del Fondo de Cultura Económica;
 
-IV. Emitir los documentos en que se asienten los objetivos, estratégicos de la entidad;
+IV. Someter a la autorización del Director General la reimpresión de las obras para niños y jóvenes que deban realizarse a criterio de la Gerencia General, de Comercialización, de la Coordinación General Comercio Internacional y del Comité Interno de Selección de Obras;
 
-V. Proponer proyectos estratégicos que involucren a las gerencias o coordinaciones generales;
+V. Colaborar en la publicación de los catálogos de obras para niños y jóvenes publicadas por el Fondo de Cultura Económica, manteniéndolos actualizados y organizando su distribución;
 
-VI. Propiciar un acercamiento con autores y negociar la publicación de sus obras;
+VI. Elaborar los programas de promoción lectora y participar en la elaboración de los programas de ventas, promoción y difusión en materia de obras para niños y jóvenes;
 
-VII. Realizar estudios estadísticos del desempeño comercial y de producción de la entidad; y
+VII. Coordinar la participación del área en el programa de ferias, exposiciones, talleres y eventos, para la promoción de las obras para niños y jóvenes;
 
-VIII. Desarrollar herramientas gremiales y programas de capacitación dirigidos a la industria editorial
+VIII. Proponer políticas para fijación de precios de obras para niños y jóvenes, y
+
+IX. Dirigir y coordinar las licencias de uso de las obras para niños y jóvenes editadas por el Fondo de Cultura Económica, para su difusión en el extranjero conforme a la Ley Federal del Derecho de Autor.
 
 ### Capítulo Séptimo. DE LOS ORGANOS DE VIGILANCIA Y DE CONTROL INTERNO
 
@@ -733,15 +765,13 @@ V. Las demás funciones que se requieran para cumplir con las anteriores y las q
 
 El Comité Interno de Selección de Obras es un órgano colegiado que permite al Fondo de Cultura Económica una adecuada evaluación de las obras susceptibles de publicación, con base en criterios de pertinencia cultural, grado de complejidad de producción de cada obra, capacidad presupuestal y diagnóstico comercial, con el fin de estructurar y actualizar los programas; editorial, de producción, promoción y comercialización del Fondo de Cultura Económica y de sus empresas subsidiarias extranjeras.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.fondode culturaeconomica.com/Institucional/normateca.asp?sec=Disposiciones&subseccion=General/Jur%C3%ADdico.</small>
+
+> <small>(REFORMADO, D.O.F. 2 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-El Comité Interno de Selección de Obras lo integran el Director General, quien fungirá como Presidente; el Gerente General y los Titulares de las Gerencias Editorial, de Producción, de Comercialización, de Administración y Finanzas, la Unidad de Planeación Editorial y Proyectos Estratégicos y la Subgerencia de Comunicación y Relaciones Públicas, quienes fungirán como Vocales; el Coordinador General de Asuntos Jurídicos como Asesor, y el Secretario de Actas y Acuerdos como Secretario.
-
-> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 2010)</small>
-
-El Director General podrá convocar a otros miembros como invitados.
+El Comité Interno de Selección de Obras lo integran el Director General, quien fungirá como Presidente; el Gerente General, los titulares de las gerencias Editorial, de Producción, de Comercialización, de Administración y Finanzas, y los titulares de las coordinaciones generales de Obras para Niños y Jóvenes, y de Comunicación, quienes fungirán como Vocales; el Coordinador General de Asuntos Jurídicos como Asesor, y el Secretario de Actas y Acuerdos como Secretario.
 
 ###### Artículo 42.
 
@@ -930,3 +960,7 @@ D.O.F. 15 DE ENERO DE 2013.
 PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Fondo de Cultura Económica entrarán en vigor al día siguiente de su aprobación por su Junta Directiva, debiéndose publicar en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan las demás disposiciones internas de carácter administrativo que se opongan a lo previsto en las presentes modificaciones.
+
+D.O.F. 2 DE OCTUBRE DE 2015.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
