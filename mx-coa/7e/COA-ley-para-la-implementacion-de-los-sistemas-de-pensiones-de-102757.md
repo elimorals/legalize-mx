@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-implementacion-de-los-sistemas-de-pensiones-de-1027
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-03"
-last_updated: "2014-10-03"
+last_updated: "2015-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA IMPLEMENTACIÓN DE LOS SISTEMAS DE PENSIONES DE LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 3 de octubre de 2014.
 
@@ -109,9 +109,11 @@ Las acciones previstas en esta Ley, los ordenamientos y demás disposiciones que
 
 ### CAPÍTULO II. DEL CONSEJO DE COORDINACIÓN Y SEGUIMIENTO PARA LA IMPLEMENTACIÓN DE LOS SISTEMAS DE PENSIONES EN LOS MUNICIPIOS DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-El Consejo es el órgano de coordinación y seguimiento para la implementación de los sistemas de pensiones de los Municipios y tiene por objeto el control y la emisión de las normas y lineamientos para el establecimiento de sistemas de pensiones bajo esquemas adecuados y financieramente sostenibles, que garanticen a los trabajadores el acceso al derecho humano a la seguridad social. El Consejo, deberá emitir dichas normas y lineamientos particulares apegándose a lo que establece el Capítulo III de esta Ley.
+El Consejo es el órgano permanente de coordinación y seguimiento para la implementación de los sistemas de pensiones de los Municipios y tiene por objeto el control y la emisión de las normas y lineamientos para el establecimiento de sistemas de pensiones bajo esquemas adecuados y financieramente sostenibles, que garanticen a los trabajadores el acceso al derecho humano a la seguridad social. El Consejo, deberá emitir dichas normas y lineamientos particulares apegándose a lo que establece el Capítulo III de esta Ley.
 
 Los miembros del Consejo no recibirán remuneración alguna por su participación en los mismos.
 
@@ -319,15 +321,23 @@ V. Pensión por Muerte por Causas de Trabajo;
 
 VI. Pensión por Muerte por Causas Ajenas al Trabajo;
 
-VII. Préstamos quirografarios a corto plazo;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VIII. Créditos para la adquisición de propiedades de casa o terrenos, y construcción de las mismas destinadas a la habitación familiar del trabajador con garantía hipotecaria.
+VII. Devolución de las Cuotas enteradas exclusivamente por el trabajador.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VIII. Préstamos quirografarios a corto plazo;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IX. Créditos para la adquisición de propiedades de casa o terrenos, y construcción de las mismas destinadas a la habitación familiar del trabajador con garantía hipotecaria.
 
 Los Municipios cumplirán con la prestación de los beneficios señalados en este artículo mediante alguno de los instrumentos y modalidades señalados en el artículo 19 de esta Ley.
 
 Para los efectos del otorgamiento de las pensiones que esta Ley y otras disposiciones establezcan, el cómputo de los años de servicio se hará siempre basado en años naturales completos.
 
-Los Municipios obligados no podrán otorgar otros beneficios sociales adicionales por concepto (sic) pensiones a los dispuestos en esta Ley.
+Los Municipios obligados no podrán otorgar otros beneficios sociales adicionales por concepto (sic) pensiones a los (sic) dispuestos en esta Ley.
 
 ###### Artículo 17.
 
@@ -397,31 +407,55 @@ Las leyes que se señalan en la fracción I del artículo 19 establecerán los c
 
 Tratándose de los trabajadores de nueva generación, los beneficios que establezcan las leyes señaladas en la fracción I del artículo 19, cuando el esquema a implementar sea de Beneficio Definido a que se refiere la fracción I del artículo 21, deberán ajustarse a los siguientes requisitos, montos y condiciones:
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 I. El sueldo máximo de cotización será el que se integrará con el sueldo presupuestal, sobresueldo y quinquenio, excluyéndose cualquier otra prestación que el trabajador perciba con motivo de su trabajo. En ningún caso, el sueldo de cotización podrá ser menor que un salario mínimo ni mayor a 15 salarios mínimos generales vigentes en la capital del estado.
 
 II. En todas las pensiones descritas en el artículo 16 de la presente Ley, el sueldo pensionable será el promedio de los sueldos de cotización de toda la vida activa del trabajador, previa actualización con el Índice Nacional de Precios al Consumidor. El sueldo pensionable en ningún caso podrá ser superior al último sueldo neto percibido por el trabajador ni mayor a 15 salarios mínimos generales vigentes en la capital del estado.
 
-III. En el caso de la pensión de retiro por edad y antigüedad en el servicio, para recibir el 100% del sueldo pensionable la edad requerida no podrá ser menor a 65 años y la antigüedad mínima será de 30 años de servicio. El trabajador podrá retirarse con una antigüedad de 15 años de servicio y la edad mínima establecida en este inciso, sin embargo, el sueldo pensionable se reducirá en por lo menos 4% por cada año que le falte al trabajador para cumplir los 30 años de servicio.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+III. En el caso de la pensión de retiro por edad y antigüedad en el servicio, para recibir el 100% del sueldo pensionable la edad requerida no podrá ser menor a 65 años y la antigüedad mínima será de 30 años de servicio. El trabajador podrá retirarse con una antigüedad de 15 años de servicio y la edad mínima establecida en este inciso, sin embargo, el beneficio no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINA 13.</small>
 
 IV. Tratándose de la pensión anticipada, la edad requerida no podrá ser menor de 60 años. El sueldo pensionable se reducirá en por lo menos 5% por cada año que le falte al trabajador para cumplir la edad establecida en la pensión de retiro por edad y antigüedad en el servicio.
 
-V. Para acceder a las pensiones por invalidez o muerte por causas ajenas al trabajo se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión será el equivalente al sueldo pensionable reducido en por lo menos 4% por cada año que le falte al trabajador para cumplir los 30 años de servicio sin que en ningún caso la pensión pueda ser menor al 45% del sueldo pensionable.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VI. Las pensiones por incapacidad o muerte por causas de trabajo o enfermedades profesionales se otorgarán independientemente de la edad o la antigüedad del trabajador al ocurrir el siniestro. El monto no podrá ser superior al 100% del sueldo pensionable.
+V. Para acceder a las pensiones por invalidez por causas ajenas al trabajo se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
 
-VII. Para recibir las pensiones de incapacidad o de invalidez, deberán ser calificados técnicamente por un médico designado por el Comité, de conformidad con la Ley Federal del Trabajo, reglamentos respectivos y demás disposiciones aplicables.
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINAS DE LA 13 A LA 14.</small>
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VI. Para acceder a las pensiones por muerte por causas ajenas al trabajo se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINA 14.</small>
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VII. Las pensiones por incapacidad o muerte por causas de trabajo o enfermedades profesionales se otorgarán independientemente de la edad o la antigüedad del trabajador al ocurrir el siniestro. El monto no podrá ser superior al 100% del sueldo pensionable.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VIII. Para recibir las pensiones de incapacidad o de invalidez, deberán ser calificados técnicamente por un médico designado por el Comité, de conformidad con la Ley Federal del Trabajo, reglamentos respectivos y demás disposiciones aplicables.
 
 Los pensionados por incapacidad o invalidez, estarán obligados a someterse a los reconocimientos y tratamientos que el Municipio, les prescriba y proporcione en cualquier tiempo, con el fin de confirmar la vigencia de la incapacidad o invalidez y en su caso revocar la misma en virtud del estado físico que goce el Pensionado, así como a las investigaciones y evaluaciones necesarias para verificar la vigencia de sus derechos por este concepto y, en caso de no hacerlo, no se tramitará su solicitud o se le suspenderá el goce de la Pensión.
 
-VIII. Al fallecimiento de un pensionado titular, la pensión podrá ser transmitida a sus beneficiarios, sin que su monto total pueda exceder el 90% de la pensión que recibía el titular fallecido.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-IX. Los beneficiarios de pensiones por muerte por causas ajenas al trabajo, muerte por causas de trabajo y fallecimiento de un pensionado titular deberán atenerse a las siguientes reglas
+IX. Al fallecimiento de un pensionado titular, la pensión podrá ser transmitida a sus beneficiarios, sin que su monto total pueda exceder el 90% de la pensión que recibía el titular fallecido.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+X. Los beneficiarios de pensiones por muerte por causas ajenas al trabajo, muerte por causas de trabajo y fallecimiento de un pensionado titular deberán atenerse a las siguientes reglas:
 
 a) El orden para gozar de las pensiones descritas en ésta fracción será:
 
 1. El cónyuge supérstite e hijos menores de 18 años, de hasta 25 años en caso de que acrediten estar estudiando o incapaces durante el tiempo que dure la incapacidad;
 
-2. A falta de cónyuge, la persona con quien haya vivido en concubinato siempre que el servidor o pensionado hubiera tenido hijos o vivido en su compañía durante el tiempo que señala la ley. Si al morir el trabajador o pensionado, tuviere varias concubinas, ninguna tendrá derecho a pensión; y
+2. A falta de cónyuge, la persona con quien haya vivido en concubinato siempre que el servidor o pensionado hubiera tenido hijos o vivido en su compañía durante el tiempo que señala la ley. Si al morir el trabajador o pensionado, tuviere varias concubinas o concubinos, ninguno tendrá derecho a pensión; en razón de lo dispuesto en el artículo 376 del Código Civil del Estado de Coahuila de Zaragoza; o en su caso se estará a la resolución judicial que corresponda; y
 
 3. A falta de cónyuge, hijos o persona en concubinato, la pensión por muerte se entregará a los ascendientes del trabajador, por grado sucesivo, en caso de que hubieran dependido económicamente del trabajador o pensionado.
 
@@ -445,15 +479,39 @@ g) Los derechos a percibir pensión se pierden por las causas siguientes:
 
 4. Por fallecimiento del beneficiario.
 
-X. El incremento anual a las pensiones en ningún caso deberá ser mayor al aumento registrado en el mismo período por el Índice Nacional de Precios al Consumidor.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XI. En ningún caso, el monto de las pensiones podrá ser superior al 100% del sueldo pensionable, ni inferior a un salario mínimo general vigente en la capital del estado.
+XI. El incremento anual a las pensiones en ningún caso deberá ser mayor al aumento registrado en el mismo período por el Índice Nacional de Precios al Consumidor.
 
-XII. Las cuotas del trabajador deberán ser al menos iguales a las aportaciones realizadas por el patrón, mismas que deberá (sic) ser calculadas actuarialmente de manera que exista equilibrio entre los ingresos y egresos futuros del fondo de pensiones. Los cálculos actuariales deberán realizarse al menos una vez cada 4 años.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XIII. Los intereses de los préstamos quirografarios a corto plazo no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales anuales y se cobrarán sobre saldos insolutos. El plazo máximo de amortización será de 2 años. La existencia de ésta prestación dependerá de la liquidez en las reservas para el pago de las pensiones. Los préstamos quirografarios se podrán otorgar a partir de que el trabajador cuente con 2 años de servicio.
+XII. En ningún caso, el monto de las pensiones podrá ser superior al 100% del sueldo pensionable, ni inferior a un salario mínimo general vigente en la capital del estado.
 
-XIV. Los gastos de administración del organismo descentralizado de pensiones no podrán ser mayores al 1.5% de la nómina de cotización.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIII. Las cuotas del trabajador deberán ser al menos iguales a las aportaciones realizadas por el patrón, mismas que deberá (sic) ser calculadas actuarialmente de manera que exista equilibrio entre los ingresos y egresos futuros del fondo de pensiones. Los cálculos actuariales deberán realizarse al menos una vez cada 4 años.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIV. Los intereses de los préstamos quirografarios a corto plazo no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales anuales y se cobrarán sobre saldos insolutos. El plazo máximo de amortización será de 2 años.
+
+La existencia de ésta prestación dependerá de la liquidez en las reservas para el pago de las pensiones. Los préstamos quirografarios se podrán otorgar a partir de que el trabajador cuente con 2 años de servicio.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XV. Los gastos de administración del organismo descentralizado de pensiones no podrán ser mayores al 1.5% de la nómina de cotización.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVI. El trabajador que sin tener derecho a pensión se separe o sea separado del servicio por cualquier causa, podrá optar por una de las dos opciones siguientes:
+
+a) La devolución de hasta el 50% de las cuotas que realizó, de acuerdo con la fracción XIII este artículo, sin incluir los intereses generados por las mismas, los cuales seguirán formando parte del Fondo de Pensiones.
+
+b) Dejar en el Fondo sus cuotas aportadas de acuerdo con la fracción XIII de este artículo, para conservar así su derecho a la acumulación de años de cotización en el caso de que reingresara al servicio del municipio, siempre y cuando hubiere acumulado al menos 1 año de servicio a partir del reingreso.
+
+El trabajador tendrá un plazo de 12 meses a partir de la separación del cargo, para determinar cuál de las dos opciones anteriores seleccionó.
+
+En caso de que el trabajador fallezca sin tener derecho a una pensión, los beneficiarios recibirán el beneficio descrito en el inciso a) de esta fracción.
 
 #### SECCIÓN TERCERA. DE LA FORMA DE CUMPLIR LAS OBLIGACIONES E IMPLEMENTAR LAS PRESTACIONES PARA LOS TRABAJADORES DE NUEVA GENERACIÓN EN EL ESQUEMA DE CONTRIBUCIÓN DEFINIDA
 
@@ -471,29 +529,59 @@ IV. En el caso de la pensión de retiro por edad y antigüedad en el servicio, l
 
 V. Se tendrá derecho a la Pensión Anticipada por Retiro cuando el monto acumulado en la cuenta individual del trabajador alcance para contratar una renta vitalicia de por lo menos el 130% de la pensión garantizada descrita en la fracción III de este artículo.
 
-VI. Para acceder a las pensiones por invalidez o muerte por causas ajenas al trabajo se requiere de al menos 5 años de antigüedad en el servicio. El monto de la pensión será el máximo entre la renta vitalicia y la pensión garantizada equivalente al sueldo pensionable reducido en por lo menos 4% por cada año que le falte al trabajador para cumplir los 30 años de servicio sin que en ningún caso la pensión garantizada de invalidez o muerte por causas ajenas al trabajo pueda ser menor al 45% del sueldo pensionable.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VII. Las pensiones por incapacidad o muerte por causas de trabajo o enfermedades profesionales se otorgarán independientemente de la edad o la antigüedad del trabajador al ocurrir el siniestro. El monto de la pensión será el máximo entre la renta vitalicia y el 100% del sueldo pensionable.
+VI. Para acceder a las pensiones por invalidez por causas ajenas al trabajo se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión será el máximo entre la renta vitalicia y la pensión garantizada que no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
 
-VIII. Para recibir las pensiones de incapacidad o de invalidez, deberán ser calificados técnicamente por un médico designado por el Municipio, de conformidad con la Ley Federal del Trabajo, reglamentos respectivos y demás disposiciones aplicables.
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINA 16.</small>
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VII. Para acceder a las pensiones por muerte por causas ajenas al trabajo se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión será el máximo entre la renta vitalicia y la pensión garantizada que no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINA 16.</small>
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VIII. Las pensiones por incapacidad o muerte por causas de trabajo o enfermedades profesionales se otorgarán independientemente de la edad o la antigüedad del trabajador al ocurrir el siniestro. El monto de la pensión será el máximo entre la renta vitalicia y el 100% del sueldo pensionable.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IX. Para recibir las pensiones de incapacidad o de invalidez, deberán ser calificados técnicamente por un médico designado por el Municipio, de conformidad con la Ley Federal del Trabajo, reglamentos respectivos y demás disposiciones aplicables.
 
 Los pensionados por incapacidad o invalidez, estarán obligados a someterse a los reconocimientos y tratamientos que el Municipio les prescriba y proporcione en cualquier tiempo, con el fin de confirmar la vigencia de la incapacidad o invalidez y en su caso revocar la misma en virtud del estado físico que goce el Pensionado, así como a las investigaciones y evaluaciones necesarias para verificar la vigencia de sus derechos por este concepto y, en caso de no hacerlo, no se tramitará su solicitud o se le suspenderá el goce de la Pensión.
 
-IX. Para el cálculo de la renta vitalicia se deberá considerar un seguro de sobrevivencia de manera que, al fallecimiento de un pensionado titular, la pensión sea transmitida a sus beneficiarios, sin que su monto total pueda exceder el 90% de la pensión que recibía el titular fallecido.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-X. Los beneficiarios de pensiones por muerte por causas ajenas al trabajo, muerte por causas de trabajo y fallecimiento de un pensionado titular deberán atenerse a las reglas descritas en el artículo 25 fracción IX.
+X. Para el cálculo de la renta vitalicia se deberá considerar un seguro de sobrevivencia de manera que, al fallecimiento de un pensionado titular, la pensión sea transmitida a sus beneficiarios, sin que su monto total pueda exceder el 90% de la pensión que recibía el titular fallecido.
 
-XI. El incremento anual a las pensiones en ningún caso deberá ser mayor al aumento registrado en el mismo período por el Índice Nacional de Precios al Consumidor.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XII. En ningún caso, el monto de todas las pensiones garantizadas podrá ser superior al 100% del sueldo pensionable, ni inferior a un salario mínimo general vigente en la capital del estado.
+XI. Los beneficiarios de pensiones por muerte por causas ajenas al trabajo, muerte por causas de trabajo y fallecimiento de un pensionado titular deberán atenerse a las reglas descritas en el artículo 25 fracción X.
 
-XIII. Para la cuenta individual las cuotas del trabajador deberán ser al menos iguales a las aportaciones realizadas por el patrón, mismas que en conjunto no podrán ser menores al 10%, ni mayores al 25% sobre el sueldo de cotización. Adicionalmente, las cuotas y aportaciones para el fondo global de pensiones garantizadas deberán ser calculadas actuarialmente de manera que exista equilibrio entre los ingresos y egresos futuros del fondo de pensiones. Los cálculos actuariales deberán realizarse al menos una vez cada 4 años.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XIV. Los intereses de los préstamos quirografarios a corto plazo no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales anuales y se cobrarán sobre saldos insolutos. El plazo máximo de amortización será de 2 años. La existencia de ésta prestación dependerá de la liquidez en las reservas para el pago de las pensiones. Los préstamos quirografarios se podrán otorgar a partir de que el trabajador cuente con 2 años de servicio.
+XII. El incremento anual a las pensiones en ningún caso deberá ser mayor al aumento registrado en el mismo período por el Índice Nacional de Precios al Consumidor.
 
-XV. Los gastos de administración del organismo descentralizado de pensiones no podrán ser mayores al 1.5% de la nómina de cotización.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XVI. Las reservas de las cuentas individuales podrán ser utilizadas para el pago de las pensiones de la generación en transición y de las pensiones en curso, siempre que se garantice el pago de las cuentas individuales cuando estas sean exigibles con un interés superior a la inflación sin que pueda exceder del 2% de tasa real anual.
+XIII. En ningún caso, el monto de todas las pensiones garantizadas podrá ser superior al 100% del sueldo pensionable, ni inferior a un salario mínimo general vigente en la capital del estado.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIV. Para la cuenta individual las cuotas del trabajador deberán ser al menos iguales a las aportaciones realizadas por el patrón, mismas que en conjunto no podrán ser menores al 10%, ni mayores al 25% sobre el sueldo de cotización. Adicionalmente, las cuotas y aportaciones para el fondo global de pensiones garantizadas deberán ser calculadas actuarialmente de manera que exista equilibrio entre los ingresos y egresos futuros del fondo de pensiones. Los cálculos actuariales deberán realizarse al menos una vez cada 4 años.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XV. Los intereses de los préstamos quirografarios a corto plazo no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales anuales y se cobrarán sobre saldos insolutos. El plazo máximo de amortización será de 2 años. La existencia de ésta prestación dependerá de la liquidez en las reservas para el pago de las pensiones. Los préstamos quirografarios se podrán otorgar a partir de que el trabajador cuente con 2 años de servicio.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVI. Los gastos de administración del organismo descentralizado de pensiones no podrán ser mayores al 1.5% de la nómina de cotización.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVII. Las reservas de las cuentas individuales podrán ser utilizadas para el pago de las pensiones de la generación en transición y de las pensiones en curso, siempre que se garantice el pago de las cuentas individuales cuando estas sean exigibles con un interés superior a la inflación sin que pueda exceder del 2% de tasa real anual.
 
 #### SECCIÓN CUARTA
 
@@ -539,63 +627,85 @@ El sueldo pensionable en ningún caso podrá ser superior al último sueldo neto
 
 El sueldo pensionable no podrá ser mayor al calculado conforme a la normatividad de pensiones que aplica en el Municipio a la fecha de entrada en vigor de esta Ley.
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 III. En el caso de la pensión de retiro por edad y antigüedad en el servicio, para recibir el 100% del sueldo pensionable se requerirá de una edad mínima y de al menos una antigüedad dependiendo del año en que alcance los requisitos para jubilarse por retiro con el porcentaje máximo de pensión en el plan de pensiones que opere en el Municipio a la fecha de entrada en vigor de la presente Ley, de acuerdo a la siguiente tabla:
 
-Año en que adquiere Edad mínima Antigüedad mínima
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINA 17.</small>
 
-el derecho a la jubilación requerida requerida
+El trabajador podrá retirarse con una antigüedad de 15 años de servicio y la edad mínima establecida en esta fracción, sin embargo, el beneficio no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
 
-al máximo
-
-2014 y 2015 55 25
-
-2016 y 2017 56 26
-
-2018 y 2019 57 27
-
-2020 y 2021 58 28
-
-2022 y 2023 59 29
-
-2024 y 2025 60 30
-
-2026 y 2027 61 30
-
-2028 y 2029 62 30
-
-2030 y posterior 63 30
-
-El trabajador podrá retirarse con una antigüedad de 15 años de servicio y la edad mínima establecida en esta fracción, sin embargo, el sueldo pensionable se reducirá en por lo menos 4% por cada año que le falte al trabajador para cumplir los 30 años de servicio.
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINA 17.</small>
 
 En ningún caso el monto de la pensión por edad y antigüedad en el servicio, podrá ser mayor al calculado conforme a la normatividad de pensiones que aplica en el Municipio, así mismo, la edad mínima requerida y la antigüedad mínima requerida no podrán ser inferiores a las que establece la normatividad de pensiones que aplique en el Municipio.
 
 IV. Tratándose de la pensión anticipada, la edad requerida no podrá ser menor de 60 años. El sueldo pensionable se reducirá en por lo menos 5% por cada año que le falte al trabajador para cumplir la edad establecida en la pensión de retiro por edad y la antigüedad en el servicio mencionada en el inciso anterior, cuando dicha edad sea superior a los 60 años.
 
-V. Para acceder a las pensiones por invalidez o muerte por causas ajenas al trabajo se requiere de al menos 5 años de antigüedad en el servicio. El monto de la pensión será el equivalente al sueldo pensionable reducido en por lo menos 4% por cada año que le falte al trabajador para cumplir los 30 años de servicio sin que en ningún caso la pensión pueda ser menor al 45% del sueldo pensionable.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VI. Las pensiones por incapacidad o muerte por causas de trabajo o enfermedades profesionales se otorgarán independientemente de la edad o la antigüedad del trabajador al ocurrir el siniestro. El monto no podrá ser superior al 100% del sueldo pensionable.
+V. Para acceder a las pensiones por invalidez por causas ajenas al trabajo se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
 
-VII. Para recibir las pensiones de incapacidad o de invalidez, deberán ser calificados técnicamente por un médico designado por el Municipio de conformidad con la Ley Federal del Trabajo, reglamentos respectivos y demás disposiciones aplicables.
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINAS DE LA 17 A LA 18.</small>
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VI. Para acceder a las pensiones por muerte por causas ajenas al trabajo se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 2 DE OCTUBRE DE 2015, PÁGINA 18.</small>
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VII. Las pensiones por incapacidad o muerte por causas de trabajo o enfermedades profesionales se otorgarán independientemente de la edad o la antigüedad del trabajador al ocurrir el siniestro. El monto no podrá ser superior al 100% del sueldo pensionable.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VIII. Para recibir las pensiones de incapacidad o de invalidez, deberán ser calificados técnicamente por un médico designado por el Municipio de conformidad con la Ley Federal del Trabajo, reglamentos respectivos y demás disposiciones aplicables.
 
 Los pensionados por incapacidad o invalidez, estarán obligados a someterse a los reconocimientos y tratamientos que el Municipio les prescriba y proporcione en cualquier tiempo, con el fin de confirmar la vigencia de la incapacidad o invalidez y en su caso revocar la misma en virtud del estado físico que goce el Pensionado, así como a las investigaciones y evaluaciones necesarias para verificar la vigencia de sus derechos por este concepto y, en caso de no hacerlo, no se tramitará su solicitud o se le suspenderá el goce de la Pensión.
 
-VIII. Al fallecimiento de un pensionado titular, la pensión podrá ser transmitida a sus beneficiarios, sin que su monto total pueda exceder el 90% de la pensión que recibía el titular fallecido.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-IX. Los beneficiarios de pensiones por muerte por causas ajenas al trabajo, muerte por causas de trabajo y fallecimiento de un pensionado titular deberán atenerse a las reglas descritas en el artículo 25 fracción IX.
+IX. Al fallecimiento de un pensionado titular, la pensión podrá ser transmitida a sus beneficiarios, sin que su monto total pueda exceder el 90% de la pensión que recibía el titular fallecido.
 
-X. El incremento anual a las pensiones en ningún caso deberá ser mayor al aumento registrado en el mismo período por el Índice Nacional de Precios al Consumidor.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XI. En ningún caso, el monto de las pensiones podrá ser superior al 100% del sueldo pensionable, ni inferior a un salario mínimo general vigente en la capital del estado.
+X. Los beneficiarios de pensiones por muerte por causas ajenas al trabajo, muerte por causas de trabajo y fallecimiento de un pensionado titular deberán atenerse a las reglas descritas en el artículo 25 fracción X.
 
-XII. Las cuotas del trabajador deberán ser por lo menos de una tercera parte de las aportaciones realizadas por el patrón. Éstas serán calculadas en porcentaje de la nómina de cotización del personal activo, a efecto de guardar equilibrio entre los ingresos y egresos futuros del fondo de pensiones. Los cálculos se realizarán en forma actuarial cuando menos una vez cada 4 años.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-Para alcanzar las cuotas de los trabajadores y las aportaciones de los Municipios se establecerán cotizaciones iniciales, que en suma, alcancen para cubrir la nómina del personal pensionado a la fecha de entrada en vigor de la presente Ley. Para alcanzar estas cotizaciones de acuerdo al párrafo anterior, el trabajador aportará de manera gradual, con incrementos de 0.5% anuales la parte que le corresponda, en tanto que el Municipio, lo hará con incrementos del 1.0% anual hasta alcanzar la cantidad que falte para cubrir las aportaciones calculadas actuarialmente.
+XI. El incremento anual a las pensiones en ningún caso deberá ser mayor al aumento registrado en el mismo período por el Índice Nacional de Precios al Consumidor.
 
-Para los municipios que a la entrada en vigor de la presente Ley tengan definidas cuotas y aportaciones en su normatividad, el trabajador aportará de manera gradual, con incrementos de 0.5% anuales la parte que le corresponda, en tanto que el Municipio, lo hará con incrementos del 1.0% anual hasta alcanzar la cantidad que falte para cubrir las aportaciones calculadas actuarialmente.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XIII. Los intereses de los préstamos quirografarios a corto plazo no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales anuales y se cobrarán sobre saldos insolutos. El plazo máximo de amortización será de 2 años. La existencia de ésta prestación dependerá de la liquidez en las reservas para el pago de las pensiones. Los préstamos quirografarios se podrán otorgar a partir de que el trabajador cuente con 2 años de servicio.
+XII. En ningún caso, el monto de las pensiones podrá ser superior al 100% del sueldo pensionable, ni inferior a un salario mínimo general vigente en la capital del estado.
 
-XIV. Los gastos de administración del organismo descentralizado de pensiones no podrán ser mayores al 1.5% de la nómina de cotización.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIII. Las cuotas del trabajador deberán ser por lo menos de una tercera parte de las aportaciones realizadas por el patrón. Éstas serán calculadas en porcentaje de la nómina de cotización del personal activo, a efecto de guardar equilibrio entre los ingresos y egresos futuros del fondo de pensiones. Los cálculos se realizarán en forma actuarial cuando menos una vez cada 4 años.
+
+Para alcanzar las cuotas de los trabajadores y las aportaciones de los Municipios se establecerán cotizaciones iniciales, que en suma, alcancen para cubrir la nómina del personal pensionado a la fecha de entrada en vigor de la presente Ley. Para alcanzar estas cotizaciones de acuerdo al párrafo anterior, el trabajador aportará de manera gradual, con incrementos mínimos de 0.5% anuales la parte que le corresponda, en tanto que el Municipio, lo hará con incrementos del 1.0% anual hasta alcanzar la cantidad que falte para cubrir las aportaciones calculadas actuarialmente.
+
+Para los municipios que a la entrada en vigor de la presente Ley tengan definidas cuotas y aportaciones en su normatividad, el trabajador aportará de manera gradual, con incrementos mínimos de 0.5% anuales la parte que le corresponda, en tanto que el Municipio, lo hará con incrementos del 1.0% anual hasta alcanzar la cantidad que falte para cubrir las aportaciones calculadas actuarialmente.
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIV. Los intereses de los préstamos quirografarios a corto plazo no podrán ser inferiores a la tasa de inflación más 3 puntos porcentuales anuales y se cobrarán sobre saldos insolutos. El plazo máximo de amortización será de 2 años. La existencia de ésta prestación dependerá de la liquidez en las reservas para el pago de las pensiones. Los préstamos quirografarios se podrán otorgar a partir de que el trabajador cuente con 2 años de servicio.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XV. Los gastos de administración del organismo descentralizado de pensiones no podrán ser mayores al 1.5% de la nómina de cotización.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVI. El trabajador que sin tener derecho a pensión se separe o sea separado del servicio por cualquier causa, podrá optar por una de las dos opciones siguientes:
+
+a) La devolución de hasta el 50% de las cuotas que realizó, de acuerdo con la fracción XIII este artículo, sin incluir los intereses generados por las mismas, los cuales seguirán formando parte del Fondo de Pensiones.
+
+b) Dejar en el Fondo sus cuotas aportadas de acuerdo con la fracción XIII de este artículo, para conservar así su derecho a la acumulación de años de cotización en el caso de que reingresara al servicio del municipio, siempre y cuando hubiere acumulado al menos 1 año de servicio a partir del reingreso.
+
+El trabajador tendrá un plazo de 12 meses a partir de la separación del cargo, para determinar cuál de las dos opciones anteriores seleccionó. En caso de que el trabajador no realice ninguna selección, las cuotas que aportó permanecerán en el fondo, pudiendo solicitar la devolución de los mismos, cuando así lo considere.
+
+En caso de que el trabajador fallezca sin tener derecho a una pensión, los beneficiarios recibirán el beneficio descrito en el inciso a) de esta fracción.
 
 ###### Artículo 28.
 
@@ -603,9 +713,11 @@ A los trabajadores en transición con derechos adquiridos y las personas que se 
 
 ### CAPÍTULO V. DE LOS COMITÉS DE COORDINACIÓN Y SEGUIMIENTO PARA LA IMPLEMENTACIÓN DE LOS SISTEMAS DE PENSIONES DE LOS MUNICIPIOS DEL ESTADO
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 29.
 
-En cada Municipio deberá constituirse un Comité de Coordinación y Seguimiento para la Implementación de los Sistemas de Pensiones, en los términos que establezca la ley, mismo que tendrá por objeto coadyuvar en la implementación y vigilancia de los lineamientos, acuerdos y normatividad que derive de la Ley y la que emita el Consejo.
+En cada Municipio deberá constituirse un Comité de Coordinación y Seguimiento para la Implementación de los Sistemas de Pensiones, en los términos que establezca la ley, órgano permanente, que tendrá por objeto, coadyuvar en la implementación y vigilancia de los lineamientos, acuerdos y normatividad que derive de la Ley y la que emita el Consejo.
 
 ###### Artículo 30.
 
@@ -731,9 +843,11 @@ Los Organismos Públicos Descentralizados Municipales, que tengan por objeto la 
 
 El Consejo y los Comités quedarán extinguidos el 31 de diciembre del año 2017.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO SÉPTIMO.
 
-Los Municipios que a la entrada en vigor de la presente Ley, cuenten con un sistema de pensiones que sea viable y se encuentre sustentado en estudios actuariales especializados en la materia, únicamente adecuarán su Fondo de Pensiones a los lineamientos establecidos en esta Ley, siempre que beneficie financieramente a dicho fondo.
+Los Municipios que a la entrada en vigor de la presente Ley, cuenten con un Organismo o dirección para la administración del fondo de pensiones, únicamente adecuarán su Fondo de Pensiones a los lineamientos establecidos en esta Ley, siempre que beneficie financieramente a dicho fondo y que ello se encuentre sustentado en estudios actuariales especializados en la materia.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -792,3 +906,21 @@ EL SECRETARIO DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS
 JORGE EDUARDO VERÁSTEGUI SAUCEDO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Organismos Públicos Descentralizados Municipales, que tengan por objeto la prestación de pensiones y otros beneficios sociales, constituidos con anterioridad a la entrada en vigor del presente Decreto, contarán con un plazo de 100 días contados a partir de la entrada en vigor del mismo, para adecuar su legislación de conformidad con el presente Decreto.
+
+La implementación o ajuste de las cuotas y aportaciones a las que hacen referencia las fracciones XIII del artículo 25 y XIII del artículo 27 del presente Decreto se empezará a aplicar en la primera quincena del mes de enero del 2016.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
