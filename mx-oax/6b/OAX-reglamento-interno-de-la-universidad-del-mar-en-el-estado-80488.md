@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-universidad-del-mar-en-el-estado-80488
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-19"
-last_updated: "2011-03-19"
+last_updated: "2015-10-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA UNIVERSIDAD DEL MAR DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA UNIVERSIDAD DEL MAR, PUBLICADO EN EL P.O. DE 2 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015 (SIN EFECTO).
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 19 de marzo de 2011.
 
@@ -2669,3 +2671,13 @@ TERCERO.- El presente reglamento tiene vigencia indefinida a partir de su public
 Así lo acordaron y firman los integrantes del H. Consejo Académico de la Universidad integrado por:
 
 El Dr. Modesto Seara Vázquez en su calidad de Presidente de ese órgano Colegiado, M. en C. Gerardo Esteban Leyte Morales en su calidad de Vice-Rector Académico, L.C.E. José Luis Ramos Espinoza en su calidad de Vice-Rector Administrativo y de Secretario de Actas, los Jefes de Carrera, los Directores de Instituto y demás miembros que integren el Consejo Académico de acuerdo al Decreto de Creación. Aprobándose el citado reglamento por ese órgano Colegiado con fundamento en los Artículos I, II, III, 4° Fracción I, 6°, 9°, X Fracción II y demás relativos aplicables en el Decreto de Creación. CONSTE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Reglamento, prevalecerán por encima de las disposiciones normativas, de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Queda sin efecto el Reglamento Interno aprobado por el Consejo Académico el día 13 de Julio de 2009, publicado en el Periódico Oficial del Gobierno del Estado el 19 de marzo de 2011.
