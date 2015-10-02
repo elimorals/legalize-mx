@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2015-06-12"
+last_updated: "2015-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -37,7 +37,9 @@ NUMERO 5.- La H. Primera Legislatura del Estado Libre y Soberano de Baja Califor
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA.
 
-Disposiciones Preliminares
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 1.
 
@@ -209,7 +211,13 @@ La entrega de la Tesorería Municipal se hará con intervención de funcionario 
 
 En el mes de octubre de los años pares, los Jefes de Oficinas en general formularán y remitirán a la Tesorería Municipal, un inventario justipreciado de los bienes de muebles e inmuebles pertenecientes al Municipio que se hallen a su cargo.
 
-DE LA EXIGIBILIDAD DEL CREDITO FISCAL
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 30 BIS.- El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los causantes o por terceros con ellos relacionados. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales municipales, a las autoridades municipales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO II. DE LA EXIGIBILIDAD DEL CRÉDITO FISCAL
 
 ###### ARTICULO 31.
 
@@ -367,21 +375,37 @@ Las garantías se extinguirán al cumplir el deudor con las obligaciones que le 
 
 Las garantías aceptadas por el Ayuntamiento responderán en primer término de las prestaciones fiscales con preferencia sobre cualquier otra reclamación.
 
-DE LAS NOTIFICACIONES
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO III. DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 49.
 
-Las notificaciones se harán:
+Las notificaciones de los actos administrativos se harán:
 
-I.- A las autoridades por medio de oficio, y excepcionalmente por la vía telegráfica cuando se trate de resoluciones o acuerdos que exigen cumplimiento inmediato.
+I. Personalmente o por correo certificado, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-II.- A los particulares:
+II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
 
-a).- Personalmente, los requerimientos de pago.
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado ante la autoridad municipal, no hubiere señalado domicilio alguno, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia o desocupe sin previo aviso el domicilio en el cual se estuvieren ejerciendo las facultades de comprobación.
 
-b).- Por edictos que se publiquen por tres veces consecutivas en el Periódico Oficial del Estado, en los casos del inciso anterior, cuando el notificado haya desaparecido, no tenga domicilio fijo, se ignore donde reside, se encuentre en el extranjero, sin haber dejado representante legal autorizado ante las autoridades fiscales municipales, o hubiere fallecido y no se conozca el albacea de la sucesión. En los dos últimos casos, en los edictos se dará un plazo de treinta días para hacer el pago de crédito fiscal.
+Se fijará el documento que se pretenda notificar, durante cinco días hábiles, en sitio visible al público, de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo.
 
-c).- En los demás casos, por medio de oficio o telegrama.
+En este caso, se tendrá como fecha de notificación el sexto día siguiente al en que se hubiere fijado el documento.
+
+IV. Por edictos, en el caso en que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión. Se hará mediante tres publicaciones consecutivas en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación en la Entidad y contendrá un resumen de los actos que se notifican.
+
+V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del Artículo 114 de esta Ley.
+
+En todo caso, las notificaciones surtirán efectos al día siguiente hábil al en que fuere (sic) realizadas, salvo en los casos en que esta Ley expresamente disponga lo contrario.
+
+La Tesorería Municipal del gobierno municipal respectivo, podrá habilitar a terceros para que realicen las notificaciones previstas en este artículo, cumpliendo con las formalidades establecidas en esta Ley.
+
+La habilitación a terceros se dará a conocer a través de la página de Internet del gobierno municipal correspondiente.
+
+Los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para este fin, observando en todo momento los convenios de confidencialidad suscritos entre los terceros y el titular de la Tesorería Municipal. Lo anterior en términos del Artículo 30 Bis de esta Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -441,6 +465,10 @@ Sólo cuando estén abiertas al público las oficinas fiscales se efectuarán ac
 
 Es obligación de los causantes señalar en los avisos, manifestaciones, o precedimiento (sic) que inicien, domicilio, ubicado dentro de la jurisdicción de la oficina a que se dirijan, para que se les hagan las notificaciones correspondientes y se practiquen las diligencias que sean necesarias, y mientras no cumplan con esta obligación las notificaciones y diligencias se harán en el local de la oficina.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO IV. DE LAS CONTRIBUCIONES MUNICIPALES
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
 ###### ARTICULO 57.
@@ -453,9 +481,7 @@ Toda actividad mercantil o industrial deberá ejercerse con licencia del Ayuntam
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
 
-###### ARTICULO 57 Bis.
-
-Se establece el Impuesto Sobre Giros Especializados. Son causantes del mismo las personas físicas o Jurídicas, que se dediquen a las actividades señaladas en las Leyes de Ingresos Municipales. Las tazas (sic) y plazos para su pago, se establecerán por las Leyes de Ingresos respectivos.
+ARTICULO 57 BIS.- Se establece el Impuesto Sobre Giros Especializados. Son causantes del mismo las personas físicas o Jurídicas, que se dediquen a las actividades señaladas en las Leyes de Ingresos Municipales. Las tazas (sic) y plazos para su pago, se establecerán por las Leyes de Ingresos respectivos.
 
 ###### ARTICULO 58.
 
@@ -535,9 +561,7 @@ La venta de boletos y los ingresos serán supervisados por un interventor que de
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
-###### ARTICULO 66 Bis.
-
-Se establece un Impuesto sobre Asistencia a Diversiones y Espectáculos Públicos en los que se cause o cobre una cuota de admisión. Son causantes de este Impuesto las personas asistentes a los espectáculos o diversiones donde se cause o cobre cuota de admisión. El impuesto se causará sobre el monto de la cuota de entrada, admisión o asistencia al espectáculo o diversión.
+ARTICULO 66 BIS.- Se establece un Impuesto sobre Asistencia a Diversiones y Espectáculos Públicos en los que se cause o cobre una cuota de admisión. Son causantes de este Impuesto las personas asistentes a los espectáculos o diversiones donde se cause o cobre cuota de admisión. El impuesto se causará sobre el monto de la cuota de entrada, admisión o asistencia al espectáculo o diversión.
 
 El monto del impuesto lo recibirán y retendrán los comerciantes administradores de las diversiones y espectáculos públicos, para ser enterados en las Tesorerías Municipales correspodientes (sic), siendo solidariamente responsables con el causante del pago del impuesto.
 
@@ -565,9 +589,7 @@ Ninguna de las actividades que señala el artículo 66 aunque sean en forma even
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1954)</small>
 
-###### ARTICULO 69 Bis.
-
-El impuesto sobre producción ganadera, será pagado por los propietarios o poseedores de ganado y se causará en la forma y términos que al efecto establezca la Ley de Ingresos correspondiente.
+ARTICULO 69 BIS.- El impuesto sobre producción ganadera, será pagado por los propietarios o poseedores de ganado y se causará en la forma y términos que al efecto establezca la Ley de Ingresos correspondiente.
 
 Son solidarios obligados del pago del impuesto sobre la producción ganadera, las personas físicas o morales que sacrifiquen ganado de cualquier especie, en rastros o sitios autorizados para ese efecto y, además, están obligadas a comprobar, previamente al sacrificio del ganado, el pago del impuesto. En caso de que no hay a (sic) sido cubierto, deberá retenerlo con una sobretasa de 100% sobre la tarifa establecida en la Ley de Ingresos respectiva, a fin de que quede garantizado el pago de los recargos correspondientes, enterándolo dentro de los tres días siguientes al en que lo haya retenido, en la Tesorería Municipal o en la Recaudación de Rentas de su jurisdicción.
 
@@ -579,9 +601,7 @@ Para la ocupación de la vía pública se requerirán permisos de la Presidencia
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1954)</small>
 
-###### ARTICULO 70 Bis.
-
-Para el señalamiento de sitios de estacionamiento exclusivo en la vía pública, se requerirán permisos del Departamento de Tránsito Municipal, debiendo cubrir los interesados el importe de las cuotas que al efecto fija la Ley de Ingresos correspondiente.
+ARTICULO 70 BIS.- Para el señalamiento de sitios de estacionamiento exclusivo en la vía pública, se requerirán permisos del Departamento de Tránsito Municipal, debiendo cubrir los interesados el importe de las cuotas que al efecto fija la Ley de Ingresos correspondiente.
 
 ###### ARTICULO 71.
 
@@ -623,7 +643,7 @@ La obligación de cubrir los derechos que establece este artículo nace desde el
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
-ARTICULO 75 Bis A.- Se establece el Impuesto Predial:
+ARTICULO 75 BIS A.- Se establece el Impuesto Predial:
 
 I.- Es objeto del Impuesto Predial:
 
@@ -687,9 +707,11 @@ V.- La tasa del Impuesto que corresponda pagar, será la que se determine en la 
 
 VI.- La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del mes siguiente a la fecha en que éstos se hayan notificado.
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VII.- El pago del Impuesto deberá cubrirse anualmente en los plazos previstos por las leyes de ingresos municipales respectivas, en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal. El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios en las bases gravables o variación de las cuotas del Impuesto.
+VII.- El pago del Impuesto deberá cubrirse anualmente en los plazos previstos por las leyes de ingresos municipales respectivas, en la Oficina Recaudadora Municipal que corresponda, mediante declaración obligatoria que deberá presentar el contribuyente utilizando las formas que al efecto apruebe la Tesorería Municipal.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2011)</small>
 
 Las leyes de ingresos municipales podrán prever el otorgamiento de estímulos a aquellos contribuyentes del Impuesto Predial que lo enteren oportunamente.
 
@@ -739,7 +761,7 @@ XV.- Para los efectos de este Impuesto se tomarán en cuenta la (sic) definicion
 
 > <small>(REFORMADO, P.O. 30 DE ABRIL DE 2010)</small>
 
-ARTICULO 75 Bis B.- Se establece el Impuesto sobre adquisición de inmuebles, el cual se regirá de la siguiente forma:
+ARTICULO 75 BIS B.- Se establece el Impuesto sobre adquisición de inmuebles, el cual se regirá de la siguiente forma:
 
 A.- Son sujetos del Impuesto previsto en este artículo, las personas físicas y morales que adquieran bienes inmuebles consistentes en el suelo, o en el suelo y las construcciones adheridas a él, ubicados en los Municipios del Estado, así como la adquisición de derechos reales o posesorios sobre los bienes inmuebles.
 
@@ -985,7 +1007,9 @@ Las rentas provenientes del arrendamiento de puestos de los mercados, deberán c
 
 Los productos que dé al Ayuntamiento la explotación de establecimientos o empresas que dependan de él se regirá por lo dispuesto en las leyes o disposiciones administrativas que las regulen.
 
-DE LAS INFRACCIONES Y SANCIONES
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO V. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 82.
 
@@ -1507,7 +1531,9 @@ La declaración espontánea de infracciones a la presente Ley hecha por el infra
 
 Los beneficios que concede el párrafo anterior no serán aplicables a los recargos los que, salvo disposición en contrario, serán causados íntegramente.
 
-DE LOS RECARGOS
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO VI. DE LOS RECARGOS
 
 ###### ARTICULO 107.
 
@@ -1543,7 +1569,9 @@ Excepcionalmente, el Presidente Municipal podrá otorgar la condonación total o
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO VII. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN
 
 ###### ARTICULO 112.
 
@@ -1555,13 +1583,13 @@ No cubierto un crédito a favor del Fisco en los términos del emplazamiento o s
 
 En el mandamiento de ejecución se designará el ejecutor que deba practicar el requerimiento y el secuestro administrativo, para el caso de que el deudor no hiciere pago liso y llano en el plazo de tres días.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 114.
 
-De no encontrarse el deudor en la primera búsqueda, el ejecutor lo citará para una hora del día siguiente, dejándole citatorio especial con la persona que se encuentre en el domicilio del deudor y si no hubiere, con el vecino más inmediato o con el agente de policía en punto.
+De no encontrarse al deudor en la primera búsqueda, el ejecutor lo citará para una hora del día siguiente, dejándole citatorio especial con la persona que se encuentre en el domicilio del deudor y si no hubiere, con el vecino más inmediato.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
-
-Si no espera el deudor al ejecutor a la hora señalada, la diligencia del requerimiento se practicará con cualquier persona que se encuentre en la casa, o bien con cualquiera de las personas a que se refiere la parte final del párrafo anterior, dejándole original del mandamiento de ejecución y del acta pormenorizada de la diligencia, las cuales deberán satisfacer los requisitos a que se refiere el artículo 49 bis de este ordenamiento.
+Si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio. En caso de que esta última persona, se negase a recibir la notificación, esta se hará por medio de instructivo que se fijará en el lugar visible de dicho domicilio, debiendo el notificador-ejecutor asentar razón de tal circunstancia para dar cuenta al titular de la oficina exactora.
 
 ###### ARTICULO 115.
 
@@ -1609,11 +1637,15 @@ I.- Precisamente con el deudor si se trata de secuestro convencional.
 
 II.- En los demás casos con el deudor, o en su ausencia, con alguna de las personas a que se refiere el artículo 114. Si se le pidiera, el ejecutor entregará un tanto en original de acta de embargo a la persona con quien se entendiere la diligencia, la cual deberá satisfacer los requisitos a que se refiere el artículo 49 bis de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 122.
 
-En los casos en que se ignore el domicilio del deudor, se encuentre fuera del Municipio respectivo sin haber dejado representante legal acreditado ante las autoridades fiscales correspondientes, hubiere fallecido y no tenga representante legal de su sucesión, o se ignore quien es o donde tenga su domicilio, el requerimiento y, en su caso, el embargo, se entenderá con el vecino mas cercano o con la autoridad municipal del lugar. Esto sin perjuicio de las notificaciones que deban hacerse en los términos que disponen los artículos 49, 50 y 51.
+La notificación del requerimiento y, en su caso, el embargo, se realizarán de la siguiente manera:
+
+I.- Por edictos y estrados: En los casos en que se ignore el domicilio del deudor, se encuentre fuera del Municipio respectivo sin haber dejado representante legal acreditado ante las autoridades fiscales correspondientes, o se tenga conocimiento de quién es el albacea designado en la sucesión del deudor que hubiere fallecido, pero se ignore su domicilio, y;
+
+II.- Por conducto del albacea judicial respectivo: en los casos en que el deudor hubiere fallecido y no exista albacea designado por no haberse aperturado la sucesión legalmente.
 
 ###### ARTICULO 123.
 
@@ -2015,7 +2047,9 @@ La adjudicación que decrete la oficina rematante, en cualquiera de los casos pr
 
 El excedente de las cantidades en que se hayan rematado, adjudicado en remate o vendido fuera de éste, los bienes secuestrados administrativamente, se entregará al deudor, salvo lo dispuesto por el artículo 141.
 
-DE LOS GASTOS DE EJECUCION
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO VIII. DE LOS GASTOS DE EJECUCIÓN
 
 ###### ARTICULO 172.
 
@@ -2061,7 +2095,9 @@ b).- Si un ejecutor notificara un adeudo y otro ejecutor hiciera el requerimient
 
 c).- El ejecutor que practique la diligencia de embargo tendrán (sic) derecho, independientemente de los honorarios que devengue por otros conceptos, al cuatro por ciento sobre el valor de los bienes secuestrados que sirvieron de base a la adjudicación en remate, a la venta de remate, o de no efectuarse una ni otra, sobre el monto de crédito fiscal a esa fecha.
 
-d).- En ningún expediente administrativo de ejecución los gastos serán menores de $10.00, ni excederán de $800.00 los honorarios del ejecutor o ejecutores que intervengan, cualquiera que sea el número, la naturaleza y la importancia de las diligencias que practiquen. Las oficinas exactoras bajo la revisión de la Tesorería Municipal, determinarán la proporción que corresponda a cada Ejecutor, siempre que en un mismo expediente hubieren actuado varios.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+d).- En ningún expediente administrativo de ejecución los gastos serán menores del equivalente a 0.25 veces el salario mínimo vigente en el estado, ni excederán del equivalente a 20 veces del referido salario, los honorarios del ejecutor o ejecutores que intervengan, cualquiera que sea el número, la naturaleza y la importancia de las diligencias que practiquen. Las oficinas exactoras bajo la revisión de la Tesorería Municipal, determinarán la proporción que corresponda a cada Ejecutor, siempre que en un mismo expediente hubieren actuado varios;
 
 II.- Para el Personal Administrativo:
 
@@ -2111,7 +2147,9 @@ Se observarán las reglas establecidas en este capítulo cuando los bienes embar
 
 Las diferencias entre el monto de los gastos de ejecución y el precio total de la adjudicación al Fisco, se aplicarán en pago de los recargos y de la suerte principal. Si hubiere remanente, se estará a las prevenciones de esta Ley, y de quedar insoluta alguna parte del crédito fiscal, se reanudará el procedimiento administrativo de ejecución.
 
-DEL RECURSO DE REVISION
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO IX. DEL RECURSO DE REVISIÓN
 
 ###### ARTICULO 183.
 
@@ -2137,7 +2175,9 @@ Cuando se pida la suspensión del procedimiento de ejecución, el interesado deb
 
 La interposición del recurso de revisión suspenderá los efectos del acto recurrido hasta en tanto se dicte la resolución.
 
-DE LA PRESCRIPCION
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO X. DE LA PRESCRIPCIÓN
 
 ###### ARTICULO 188.
 
@@ -2207,7 +2247,9 @@ La prescripción en favor del Fisco del Municipio de la acción de los particula
 
 El término de la prescripción de los créditos se suspenderá durante las prórrogas concedidas para el pago o facilidades, en estos casos comenzará a correr el término de la prescripción el día siguiente al en que venzan los plazos respectivos.
 
-DE LA CANCELACION POR INCOBRABILIDAD E INCOSTEABILIDAD DEL COBRO
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XI. DE LA INCOBRABILIDAD
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1967)</small>
 
@@ -2227,9 +2269,9 @@ La multas que la Tesorería y sus dependencias impongan por infracciones a las d
 
 Si se intnerpone (sic) el recurso de condonación no podrá hacer uso del recurso de revisión.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE OCTUBRE DE 2015)</small>
 
-DE LA APLICACION DEL REDONDEO
+### CAPÍTULO XII. DE LA APLICACIÓN DEL REDONDEO
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2008)</small>
 
@@ -2508,3 +2550,11 @@ P.O. 12 DE JUNIO DE 2015.
 DECRETO NÚMERO 258, POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 73 DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La habilitación a terceros a que hace referencia la presente reforma, podrá autorizarse para efecto de que todas las diligencias de notificación respecto de un área determinada de las autoridades fiscales, se realicen por conducto de éstos.
+
+TERCERO.- Cuando en las disposiciones fiscales municipales se haga referencia a los notificadores o ejecutores, se considerarán incluidos para efectos de las facultades que se indiquen, a los terceros habilitados.
