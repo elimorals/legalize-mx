@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-ninas-ninos-y-adolescentes-del-77621"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-19"
-last_updated: "2015-09-25"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,792 +21,494 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-LEY PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO PARA LA PRODUCCION, MANTENIMIENTO, GESTION Y USO DE SERVICIOS Y BIENES INFORMATICOS
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 11 DE SEPTIEMBRE DE 2015; ORDENAMIENTO ÚLTIMO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2016.</small>
+TEXTO ORIGINAL.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015 (ABROGADA).
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de diciembre de 2000.
 
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE SEPTIEMBRE DE 2015.
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Federal Electoral.- Consejo General.- CG199/2000.
 
-Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de noviembre de 2010.
+ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBA EL REGLAMENTO PARA LA PRODUCCION, MANTENIMIENTO, GESTION Y USO DE SERVICIOS Y BIENES INFORMATICOS.
 
-JUAN MANUEL OLIVA RAMÍREZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, A LOS HABITANTES DEL MISMO SABED:
+CONSIDERANDO
 
-QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA TENIDO A BIEN DIRIGIRME EL SIGUIENTE:
+I. Que de conformidad con el artículo 41, párrafo segundo, fracción III de la Constitución Política de los Estados Unidos Mexicanos, la organización de las elecciones federales es una función estatal que se realiza a través de un organismo público autónomo denominado Instituto Federal Electoral, dotado de personalidad jurídica y patrimonio propios, en cuya integración participan el Poder Legislativo de la Unión, los partidos políticos nacionales y los ciudadanos, en los términos que ordena la ley. En el ejercicio de esa función estatal, la certeza, legalidad, independencia, imparcialidad y objetividad son principios rectores.
 
-DECRETO NÚMERO 91
+II. Que de conformidad con el propio artículo 41 de la Constitución y 73 del Código Federal de Instituciones y Procedimientos Electorales, el Consejo General es el órgano superior de dirección del Instituto Federal Electoral, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral.
 
-LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+III. Que el artículo 70, párrafo 3 del Código Federal de Instituciones y Procedimientos Electorales señala que el Instituto se regirá para su organización, funcionamiento y control, por las disposiciones constitucionales relativas y las del propio Código.
 
-###### ARTÍCULO ÚNICO
+IV. Que el artículo 80, párrafo 1 del Código de la materia otorga facultades al Consejo General del Instituto Federal Electoral para integrar las comisiones que considere necesarias para el desempeño de sus atribuciones.
 
-Se expide la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, para quedar como sigue:
+V. Que el artículo 82, párrafo 1, inciso a) del Código Comicial Federal otorga facultades al Consejo General del Instituto Federal Electoral para expedir los reglamentos interiores necesarios para su buen funcionamiento.
 
-LEY PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
+VI. Que de conformidad con el artículo 82, párrafo 1, inciso z) del Código de la materia, el Consejo General tiene la atribución de dictar los acuerdos necesarios para hacer efectivas las anteriores atribuciones y las demás señaladas en el mismo ordenamiento legal.
 
-### Capítulo I. Disposiciones generales
+VII. Que en sesión extraordinaria del Consejo General del Instituto Federal Electoral, celebrada el 30 de junio de 1998, se acordó la creación de la Unidad Técnica de Servicios de Informática.
 
-Naturaleza y objeto
+VIII. Que en sesión ordinaria del Consejo General, celebrada el 13 de octubre de 1998, se acordó la creación de la Comisión de Reglamentos del Consejo General con el objeto de planear, supervisar y vigilar la preparación de los proyectos de reglamentos del Instituto Federal Electoral.
 
-###### Artículo 1.
+IX. Que en el acuerdo del Consejo General citado en el considerando anterior, se le encomendó a la Comisión de Reglamentos la función de “elaborar el proyecto de Reglamento para la Producción, Mantenimiento y Gestión de Sistemas Informáticos, en coordinación con la Unidad Técnica de Servicios de Informática y con la Comisión respectiva del Consejo General”.
 
-La presente Ley es de orden público e interés social y de observancia general en el Estado de Guanajuato. Tiene por objeto establecer el marco jurídico y los lineamientos de las políticas públicas para la protección integral de niñas, niños y adolescentes; así como los principios que regulen la participación de instituciones públicas y privadas en su defensa y protección.
+X. Que dentro de las funciones de la Unidad Técnica de Servicios de Informática está la de proponer al Secretario Ejecutivo los procedimientos, normas y reglamentos que deban regir el desarrollo, operación y mantenimiento de la infraestructura informática y de comunicaciones del Instituto Federal Electoral.
 
-Los beneficios que se deriven de esta Ley, serán aplicables a todas las niñas, niños y adolescentes que se encuentren en el estado de Guanajuato, sin distinción alguna.
+XI. Que dada la importancia de los aspectos informáticos para el Instituto Federal Electoral era necesaria una unidad técnica permanente encargada de los trabajos relativos a la materia, en virtud de que fortalecería y modernizaría la estructura informática de todo el organismo electoral federal, agrupando integralmente la información generada por y para sus actividades, con la finalidad de producir, recolectar, procesar, trasladar y difundir los grandes volúmenes de información del Instituto con seguridad, precisión y rapidez.
 
-Supletoriedad
+XII. Que desde su creación, la autoridad electoral federal no ha contado con un reglamento que rija la producción, mantenimiento, gestión y uso de servicios y bienes informáticos para los órganos que lo conforman, y que uno de los objetivos centrales del Instituto lo constituye el perfeccionamiento de la normatividad que conlleve al mejor cumplimiento de los fines que se le han encomendado.
 
-###### Artículo 2.
+XIII. Que por lo expuesto, resulta necesario que el Consejo General del Instituto Federal Electoral norme lo referente a los sistemas informáticos.
 
-A falta de disposición expresa en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política para el Estado de Guanajuato, en esta Ley o en los tratados internacionales, se estará a las disposiciones que deriven de dichos ordenamientos y a falta de éstas, a los principios generales del derecho.
+De conformidad con los considerandos vertidos y con fundamento en los artículos 41, párrafo segundo, fracción III de la Constitución Política de los Estados Unidos Mexicanos y 70, párrafo 3; 73; 80, párrafo 1; y 82, párrafo 1, incisos a) y z) del Código Federal de Instituciones y Procedimientos Electorales, este Consejo General expide el siguiente:
 
-Respeto a principios y derechos
+ACUERDO
 
-###### Artículo 3.
+UNICO.- Se aprueba el Reglamento para la Producción, Mantenimiento, Gestión y Uso de Servicios y Bienes Informáticos, en los términos siguientes:
 
-Las autoridades estatales y municipales respetarán los principios y derechos de niñas, niños y adolescentes y, en el ámbito de sus respectivas competencias, velarán por su aplicación, defensa y protección.
+ANTEPROYECTO DE REGLAMENTO PARA LA PRODUCCION, MANTENIMIENTO, GESTION Y USO DE SERVICIOS Y BIENES INFORMATICOS
+
+I. DISPOSICIONES GENERALES
+
+Artículo 1
+
+Objeto y ámbito de aplicación
+
+1. El presente reglamento tiene por objeto establecer las normas conforme a las cuales se regula la producción, mantenimiento, gestión y uso de servicios y bienes informáticos del Instituto Federal Electoral.
+
+2. El presente reglamento es de observancia general para todo el personal, áreas usuarias del Instituto y representaciones de los partidos políticos, Consejeros Electorales y del poder legislativo ante el Consejo General.
+
+3. Serán corresponsables de la estricta observancia del presente reglamento todas las áreas usuarias del Instituto y representaciones de los partidos políticos, Consejeros Electorales y del poder legislativo ante el Consejo General.
+
+4. El Consejo General vigilará el estricto cumplimiento del presente reglamento a través de la Comisión de Informática y de la Unidad Técnica de Servicios de Informática, la cual, dentro del ámbito de su competencia y en su calidad de ente especializado en la materia, velará para que las disposiciones contenidas en el mismo se cumplan, debiendo informar al órgano superior de dirección sobre su aplicación.
+
+Artículo 2
+
+Criterios de interpretación
+
+1. Para la interpretación de las disposiciones de este reglamento, se estará a los principios establecidos en el párrafo 2, del artículo 3 del Código Federal de Instituciones y Procedimientos Electorales.
+
+2. Lo no previsto en el presente reglamento será resuelto por la Comisión de Informática.
+
+Artículo 3
 
 Glosario
 
-###### Artículo 4.
+1. Para efectos de este reglamento se entenderá:
 
-Para los efectos de esta Ley se entenderá por:
+a) Por lo que se refiere a los ordenamientos jurídicos:
 
-I. Abandono: la situación de desamparo que viven niñas, niños y adolescentes cuando sus progenitores o quienes ejercen la patria potestad, tutores o responsables de su cuidado, guarda y custodia, dejan de proporcionar los medios de subsistencia y cuidados necesarios para su desarrollo integral;
+I. Código: El Código Federal de Instituciones y Procedimientos Electorales;
 
-II. Adolescentes: las personas que tengan entre doce años cumplidos y menos de dieciocho años de edad;
+II. Reglamento Interior: El Reglamento Interior del Instituto Federal Electoral;
 
-III. Consejo: el Consejo Estatal de Protección de Niñas, Niños y Adolescentes;
+III. Estatuto: El Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral; y
 
-IV. Ley: la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato;
+IV. Reglamento: El Reglamento para la Producción, Mantenimiento, Gestión y Uso de Servicios y Bienes Informáticos.
 
-V. Niña o niño: la persona menor de 12 años de edad;
+b) Por lo que hace a los organismos y órganos:
 
-VI. Principio del interés superior de niñas, niños y adolescentes: el conjunto de acciones y procesos tendientes a garantizar el bienestar, el desarrollo integral y la vida digna de niñas, niños y adolescentes;
+I. Instituto: El Instituto Federal Electoral;
 
-VII. Procuraduría: la Procuraduría en Materia de Asistencia Social;
+II. Consejo General: El Organo superior de dirección del Instituto Federal Electoral;
 
-VIII. Programa: el Programa a favor de niñas, niños y adolescentes; y
+III. Junta General Ejecutiva: El Organo colegiado integrado por el Presidente del Consejo General, el Secretario Ejecutivo y los Directores Ejecutivos;
 
-IX. Sistema: el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato.
+IV. Comisión de Informática: La Comisión del Consejo General especializada en la materia;
 
-### Capítulo II. Principios rectores
+V. Comisiones: Las comisiones del Consejo General; y
 
-Principios rectores
+VI. Unidad: La Unidad Técnica de Servicios de Informática.
 
-###### Artículo 5.
+c) Por lo que hace a los sujetos:
 
-Son principios rectores en la observancia, interpretación y aplicación de esta Ley, los siguientes:
+I. Usuario: Persona física que haga uso de los servicios y bienes informáticos del Instituto;
 
-I. El interés superior de niñas, niños y adolescentes;
+II. Responsable de Sistema: Persona física asignada por el área o la Unidad que se encargará del mantenimiento del sistema, tanto del área operativa como en el área de desarrollo; y
 
-II. El de prioridad;
+III. Responsable del Equipo: Persona física que firma el resguardo de cada equipo y que queda registrado como responsable del mismo ante la Dirección Ejecutiva de Administración.
 
-III. La no discriminación;
+d) Por lo que hace a la terminología:
 
-IV. El de vivir en familia como espacio primordial de desarrollo;
+I. Area usuaria: Unidad de trabajo beneficiaria de un servicio o bien informático común;
 
-V. El de tener una vida libre de violencia;
+II. Bienes Informáticos: Bienes materiales que sirven para satisfacer las necesidades en materia de procesamiento, almacenamiento, comunicación o distribución de información digital;
 
-VI. El de corresponsabilidad de los integrantes de la familia, Estado y sociedad;
+III. Bitácora: Registro de los procesos de la computadora; una bitácora de computadora es un archivo en el que se almacenan las estadísticas de todas las operaciones de máquina realizadas. Las bitácoras se utilizan con fines estadísticos de respaldo y restauración;
 
-VII. El de la tutela plena e igualitaria de los derechos humanos; y
+IV. Centro de cómputo: Lugar físico donde se concentran los servidores, equipo de comunicaciones y las unidades de almacenamiento de datos;
 
-VIII. El que niñas, niños y adolescentes tienen diversas etapas de desarrollo y necesidades que deben llevar a la elaboración de respuestas gubernamentales especiales y políticas públicas específicas, dependiendo de la etapa de desarrollo en la que se encuentren.
+V. Documentación del Sistema: Conjunto de documentos que facilitan la operación y mantenimiento de los sistemas de información, como código fuente de programa, estructura de bases de datos, diagramas de entidad/relación, manual de usuario y mensajes de error;
 
-Principio del interés superior de niñas, niños y adolescentes
+VI. Internet: Red de cómputo a nivel mundial que agrupa a distintos tipos de redes usando un mismo protocolo de comunicación. Los usuarios en Internet pueden compartir datos, recursos y servicios;
 
-###### Artículo 6.
+VII. Intranet: Red digital de información para uso interno del Instituto;
 
-De conformidad con el principio del interés superior de niñas, niños y adolescentes, las normas aplicables a éstos, se entenderán dirigidas a procurarles, primordialmente, los cuidados y la asistencia que requieran para lograr un crecimiento y un desarrollo integral dentro de un ambiente de bienestar familiar y social.
+VIII. Código de acceso: Clave confidencial que tiene como finalidad restringir el acceso a un servicio o bien informático;
 
-Atendiendo a este principio, el ejercicio de los derechos de los adultos no podrá, en ningún momento o circunstancia, condicionar el ejercicio de los derechos de niñas, niños y adolescentes.
+IX. Red: Agrupación tanto de equipos como de programas que comparten recursos entre sí, a partir del uso de un lenguaje y medios de transmisión comunes;
 
-Principio de prioridad
+X. REdIFE: La red interna del Instituto;
 
-###### Artículo 7.
+XI. Respaldos: Copia de seguridad con toda la información contenida en las unidades de almacenamiento del usuario;
 
-A niñas, niños y adolescentes se les garantizará el ejercicio prioritario de todos sus derechos, especialmente en:
+XII. Sistemas informáticos: Programas que rigen la forma de funcionamiento u operación de los sistemas de información, equipo de cómputo y de comunicaciones;
 
-I. La protección y el socorro en cualquier circunstancia y con la debida oportunidad;
+XIII. Servicios Informáticos: Sistemas e Infraestructura de cómputo y de telecomunicaciones destinados a la satisfacción de necesidades informáticas de las áreas del Instituto;
 
-II. La atención en todos los servicios;
+XIV. Software: Conjunto de programas relacionados que interactúan entre sí para ejecutar tareas específicas;
 
-III. El diseño y ejecución de políticas públicas para la protección de sus derechos;
+XV. Software antivirus: Programas diseñados para proteger los componentes lógicos y físicos de un sistema, así como eliminar los virus informáticos y restaurar, en lo posible, los elementos dañados;
 
-IV. La resolución con celeridad y prontitud, de los procedimientos en los que se vean involucrados; y
+XVI. Técnicas de criptografía: Proceso basado en operaciones lógicas binarias para proteger un dato y evitar que sea leído por un destinatario no autorizado; y
 
-V. La asignación de recursos presupuestales a las instituciones encargadas de proteger sus derechos.
+XVII. Virus informático: Programa que se duplica a sí mismo en un sistema informático incorporándose a otros programas que son utilizados por varios sistemas.
 
-### Capítulo III. Autoridades y sus atribuciones
+II. ATRIBUCIONES DE LA COMISION DE INFORMATICA Y RESPONSABILIDADES Y ATRIBUCIONES DE LA UNIDAD TECNICA DE SERVICIOS DE INFORMATICA
 
-Autoridades
+Artículo 4
 
-###### Artículo 8.
+Atribuciones de la Comisión de Informática
 
-Son autoridades en materia de protección de niñas, niños y adolescentes, en el ámbito de sus respectivas competencias, las siguientes:
+1. Sesionar en los términos establecidos en el Reglamento Interior del Instituto.
 
-I. En el ámbito estatal:
+2. Llevar a cabo los asuntos que le encomiende el Consejo General en materia de Informática.
 
-a) El titular del Poder Ejecutivo;
+3. Conocer oportunamente y dar seguimiento a las actividades de la Unidad Técnica de Servicios de Informática.
 
-b) El Consejo;
+4. Presentar al Consejo General los informes, dictámenes o resoluciones de los asuntos que en materia de informática le hayan sido encomendados.
 
-c) La Secretaría de Salud;
+5. Solicitar la colaboración del Secretario del Consejo General para el adecuado y oportuno cumplimiento de los asuntos que le encomiende.
 
-d) La Secretaría de Educación;
+6. Procurar, en el ámbito de sus atribuciones, el logro de los fines del Instituto.
 
-e) La Secretaría de Desarrollo Social y Humano; y
+7. Proponer al Secretario Ejecutivo y/o a los órganos competentes del Instituto la instrumentación de acciones y mecanismos que permitan:
 
-f) El Sistema.
+a) Que el instituto cuente con sistemas de informática y de comunicación para un adecuado y oportuno flujo de información y de enlace con todos los órganos centrales y desconcentrados;
 
-II. En el ámbito municipal:
+b) Homogeneidad y compatibilidad de la información que se genere en el Instituto;
 
-a) Los ayuntamientos; y
+c) La distribución y consulta de la información en el Instituto o a través del “Internet” abierta, salvo en los casos que por disposición legal deba ser confidencial o reservada; y
 
-b) Los organismos municipales encargados de la ejecución de los programas y acciones a favor de niñas, niños y adolescentes.
+d) La seguridad, el fortalecimiento y la modernización de la estructura informática del Instituto.
 
-Atribuciones del Gobernador
+8. Proponer al Secretario Ejecutivo la práctica de auditorías informáticas a la Unidad, por conducto del órgano competente.
 
-###### Artículo 9.
+9. Recibir y turnar a las áreas competentes, en su caso, las solicitudes u observaciones de los miembros del Consejo General respecto a la capacitación o elaboración de proyectos en materia de informática.
 
-El titular del Poder Ejecutivo tendrá las siguientes atribuciones:
+Artículo 5
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+Responsabilidades de la Unidad
 
-I. Incluir en el Plan Estatal de Desarrollo y en el Programa de Gobierno los objetivos, las metas, las estrategias y las acciones que garanticen dar protección a niñas, niños y adolescentes en el Estado;
+1. En su calidad de órgano especializado en materia de informática, la Unidad es responsable de:
 
-II. Emitir el Programa a favor de niñas, niños y adolescentes;
+a) Brindar asesoría a todas las áreas usuarias que lo soliciten;
 
-III. Incluir en la propuesta de presupuesto anual de egresos, las partidas para la difusión, promoción, ejecución, supervisión y evaluación del Programa y acciones a favor de niñas, niños y adolescentes en el Estado;
+b) Vigilar el correcto funcionamiento de los sistemas, uso de los servicios y bienes informáticos del Instituto;
 
-IV. Presidir el Consejo;
+c) Desarrollar los sistemas de información necesarios para las actividades de las áreas usuarias del Instituto, así como verificar su adecuada implementación y mantenimiento;
 
-V. Acordar la suscripción de acuerdos o convenios de coordinación con la Federación, otros estados, u organismos sociales o privados, para concertar acciones que tengan por objeto la protección de niñas, niños y adolescentes; y
+d) Llevar un registro de los responsables del sistema de cada área y vigilar que éstos lleven a cabo el resguardo de los sistemas, de la información a su cargo y la actualización de la documentación de los mismos, de conformidad con las especificaciones que establezca la misma unidad.
 
-VI. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+2. La administración de la RedIFE no accederá al contenido de la información residente en ella, excepto cuando exista autorización explícita del usuario o del área usuaria; y
 
-Atribuciones de la Secretaría de Salud
+3. La Unidad se hará responsable de los daños causados a los equipos o información de los usuarios, imputables a quienes la administren directamente.
 
-###### Artículo 10.
+Artículo 6
 
-La Secretaría de Salud tendrá las siguientes atribuciones:
+Atribuciones de la Unidad
 
-I. Realizar las acciones para garantizar la salud integral de niñas, niños y adolescentes;
+1. Son atribuciones de la Unidad para la mejor observancia del presente reglamento las siguientes:
 
-II. Garantizar que la hospitalización de niñas, niños y adolescentes se realice con respeto a los principios establecidos en esta Ley;
+a) Coadyuvar con el Secretario Ejecutivo en la coordinación de la aplicación de las políticas y programas generales aprobados por el Consejo General del Instituto Federal Electoral, en materia de informática;
 
-III. Promover campañas para brindar atención odontológica y detectar y atender problemas visuales y auditivos en niñas, niños y adolescentes;
+b) Realizar estudios, análisis, diseños, desarrollos, actualizaciones, implementaciones, mantenimiento y expansiones para los servicios y bienes informáticos de las distintas áreas del Instituto que le soliciten, incluyendo el Programa de Resultados Electorales Preliminares;
 
-IV. Promover programas de educación sexual respetando en todo momento la integridad de niñas, niños y adolescentes;
+c) Investigar y analizar de manera permanente, nuevas tecnologías en materia de informática y comunicaciones, que puedan ser aplicadas en las tareas del Instituto;
 
-V. Desarrollar campañas para una adecuada alimentación con la finalidad de combatir la desnutrición, el sobrepeso y la obesidad;
+d) Desarrollar, administrar y mantener la RedIFE, para interconectar a los órganos directivos y ejecutivos centrales, locales y distritales;
 
-VI. Impulsar acciones encaminadas a la prevención, atención y erradicación de las adicciones en niñas, niños y adolescentes; y
+e) Mantener actualizado el inventario de recursos informáticos del Instituto en coordinación con la Dirección Ejecutiva de Administración;
 
-VII. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+f) Coordinar, apoyar y atender las acciones de todas las áreas del Instituto, en materia de informática y cómputo, como una oficina de servicio institucional;
 
-Atribuciones de la Secretaría de Educación
+g) Identificar y determinar los distintos perfiles de los usuarios del Instituto con la finalidad de atender las necesidades de capacitación y asesoría en materia de sistemas de informática;
 
-###### Artículo 11.
+h) Identificar conjuntamente con el área usuaria las necesidades de servicios y bienes informáticos con la finalidad de plantear las adquisiciones que se necesiten para permitir el correcto funcionamiento de las mismas;
 
-La Secretaría de Educación tendrá las siguientes atribuciones:
+i) Resguardar los sistemas y la información a cargo de la Unidad, implementando sistemas de seguridad a nivel de los servidores y de la red del Instituto, y asegurando que se realicen los respaldos necesarios de la información de las bases de datos;
 
-I. Garantizar que niñas, niños y adolescentes cuenten con una educación de calidad bajo los principios que regula esta Ley;
+j) Elaborar los manuales o procedimientos, que incluyan los criterios a través de los cuales los responsables de los equipos solicitarán al área administrativa correspondiente: los Antivirus, los reguladores de corriente, los servicios anuales a los equipos, así como las actualizaciones de software que requieran, entre otras;
 
-II. Implementar acciones para que las instituciones sean lugares dignos y seguros para niñas, niños y adolescentes;
+k) Sistematizar y/o contar con copia de todos los manuales de los equipos, así como mantenerlos accesibles a los responsables de sistema y de equipo para su consulta;
 
-III. Implementar acciones a fin de evitar la deserción escolar;
+l) Elaborar y actualizar periódicamente las especificaciones y normas de calidad que debe cumplir la documentación de los sistemas y bases de datos del Instituto y vigilar que dicha documentación cumpla con lo que se establezca;
 
-IV. Impulsar el acceso a espacios culturales, bibliotecas y centros educativos con la finalidad de desarrollar acciones de educación a través de actividades culturales y científicas; y
+m) Establecer un archivo con la documentación de cada uno de los sistemas y bases de datos del Instituto, actualizándolo conforme se modifique la documentación referida;
 
-V. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+n) Coadyuvar con la Contraloría Interna del Instituto en la realización de auditorías informáticas; y
 
-Atribuciones de la Secretaría de Desarrollo Social y Humano
+o) Dictaminar la procedencia técnica de los proyectos de desarrollo informático del Instituto.
 
-###### Artículo 12.
+III. PRODUCCION, DESARROLLO Y MANTENIMIENTO DE LOS SISTEMAS DE INFORMACION
 
-La Secretaría de Desarrollo Social y Humano tendrá las siguientes atribuciones:
+Artículo 7
 
-I. Impulsar acciones que brinden a niñas, niños y adolescentes mejores condiciones de desarrollo e integración social, destinando los recursos presupuestales;
+Especificación de los requerimientos del usuario
 
-II. Brindar atención y protección a niñas, niños y adolescentes que se encuentren en circunstancia de pobreza, coadyuvando para mejorar su desarrollo integral;
+1. Los proyectos de producción y desarrollo de sistemas de información que requieran las áreas usuarias del Instituto deben ser presentados ante la Comisión de Informática y comisiones relacionadas con la información manejada por los mismos, para atender sus observaciones.
 
-III. Generar acciones para que las familias en el Estado cuenten con un adecuado desarrollo social; y
+2. Para el inicio del desarrollo de un sistema el área usuaria solicitante deberá proporcionar la documentación correspondiente con las especificaciones y normas de calidad que establezca la Unidad con la colaboración de la Unidad Técnica de Contraloría Interna.
 
-IV. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
+Artículo 8
 
-Atribuciones de los ayuntamientos
+Análisis y plan de desarrollo
 
-###### Artículo 13.
+1. El análisis y el plan de desarrollo serán acordados por la Unidad y el área usuaria solicitante atendiendo las observaciones de la Comisión de Informática y comisiones relacionadas con el sistema, cubriendo los siguientes aspectos:
 
-Los ayuntamientos tendrán las siguientes atribuciones:
+a) Definición del proyecto, sus objetivos y su relación con otros proyectos o sistemas;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+b) Definición de recursos materiales, de información y humanos;
 
-I. Establecer en el Plan Municipal de Desarrollo y en el Programa de Gobierno los objetivos, las metas, las estrategias y las acciones para garantizar la protección de niñas, niños y adolescentes en el Municipio;
+c) Definición detallada de la información que contendrá el sistema y qué información específica se obtendrá del mismo;
 
-II. Aprobar los programas y acciones en materia de protección de niñas, niños y adolescentes en el Municipio;
+d) Determinación de usuarios y sus niveles de acceso;
 
-III. Emitir los reglamentos y disposiciones administrativas de observancia general, para regular lo relativo a la protección de niñas, niños y adolescentes;
+e) Definición de herramientas, documentación y metodología que se utilizará en el desarrollo; y
 
-IV. Incluir en la propuesta de presupuesto anual de egresos, las partidas para la difusión, promoción, ejecución, supervisión y evaluación del Programa y acciones a favor de niñas, niños y adolescentes en el Municipio;
+f) Cronograma de desarrollo, capacitación y pruebas.
 
-V. Acordar la suscripción de acuerdos o convenios de coordinación con el Estado, otros ayuntamientos u organismos sociales o privados, para el cumplimiento del objeto de esta Ley; y
+Artículo 9
 
-VI. Las demás que les otorgue esta Ley, u otros ordenamientos aplicables.
+Pruebas y validación
 
-Organismo municipal
+1. Las pruebas y validación deberán requerirse e instrumentarse en diferentes niveles, desde el módulo individual hasta el sistema integrado. Previo a la entrega y aceptación del área usuaria, se validará el funcionamiento del sistema, incluyendo la documentación pertinente, en el ambiente en el cual se va a implementar el sistema.
 
-###### Artículo 14.
+2. Las pruebas deben incluir:
 
-Los ayuntamientos, para el aprovechamiento de los programas y recursos federales y estatales, deberán contar, en sus respectivos municipios, con la dependencia, órgano desconcentrado o entidad paramunicipal que consideren pertinente para el cumplimiento del objeto de la presente Ley.
+a) Casos de prueba, datos de prueba y resultados esperados;
 
-Atribuciones del organismo municipal
+b) Ambiente de prueba;
 
-###### Artículo 15.
+c) Criterio sobre el cual se va a basar la terminación de la prueba;
 
-Los organismos municipales encargados de la ejecución de los programas y acciones a favor de niñas, niños y adolescentes tendrán las siguientes atribuciones:
+d) Guía de prueba y documentación para el usuario; y
 
-I. Proponer al Ayuntamiento las metas, estrategias y acciones para garantizar la protección de niñas, niños y adolescentes en el Municipio, en los términos del Programa;
+e) Capacitación.
 
-II. Establecer mecanismos de vinculación con organismos públicos y privados para la protección de niñas, niños y adolescentes;
+Artículo 10
 
-III. Difundir los derechos y deberes de niñas, niños y adolescentes, así como las obligaciones de los adultos para con éstos;
+Mantenimiento
 
-IV. Integrar en sus programas y anteproyecto de presupuesto, las acciones y recursos para el cumplimiento de sus atribuciones;
+1. Al inicio del desarrollo o adquisición de un sistema, deberá determinarse:
 
-V. Presentar al Ayuntamiento un proyecto anual de actividades en materia de cultura de protección de niñas, niños y adolescentes, en función del diagnóstico de la situación de este sector de la población en el Municipio; y
+a) Los procedimientos de mantenimiento;
 
-VI. Las demás que les otorgue esta Ley u otros ordenamientos aplicables.
+b) El responsable por parte del Instituto; y
 
-### Capítulo IV. Consejo Estatal de Protección de Niñas, Niños y Adolescentes
+c) El área responsable de la actualización de la información.
 
-Naturaleza del Consejo
+2. Todas las actividades de mantenimiento deben llevarse a cabo de conformidad con un plan definido entre el área usuaria y el responsable del sistema.
 
-###### Artículo 16.
+3. El responsable del sistema deberá:
 
-Las estrategias que desarrollen los organismos y dependencias se estructurarán a través del Consejo que se establecerá como un órgano de apoyo y consulta, así como de promoción y concertación de acciones entre los sectores público y social, que favorezcan la plena protección de niñas, niños y adolescentes.
+a) Realizar respaldos de información frecuentes;
 
-Integración del Consejo
+b) Garantizar que dicho respaldo se encuentre protegido;
 
-###### Artículo 17.
+c) Generar y mantener actualizada la documentación del sistema;
 
-El Consejo está integrado por:
+d) Mantener el sistema en condiciones óptimas de servicio aplicando las actualizaciones de funcionalidad y de seguridad necesarias; y
 
-I. El titular del Poder Ejecutivo del Estado, quien fungirá como Presidente;
+e) Registrar todas las actividades de mantenimiento.
 
-II. El titular de la Secretaría de Educación;
+IV. NORMAS APLICABLES AL USO DE EQUIPOS PERSONALES
 
-III. El titular de la Secretaría de Salud;
+Artículo 11
 
-IV. El titular de la Secretaría de Seguridad Pública;
+Responsabilidades del área usuaria
 
-V. El titular del Instituto de la Juventud Guanajuatense;
+1. El área usuaria deberá:
 
-VI. El titular de la Procuraduría;
+a) Definir las responsabilidades sobre seguridad de datos y programas;
 
-VII. Cuatro representantes del sector privado;
+b) Garantizar, en el caso de software comercial, la existencia de licencias de utilización y, en su caso, los manuales de operación y discos fuente correspondientes; y
 
-VIII. El Director General del Sistema, quien fungirá como Secretario Técnico;
+c) Supervisar la no instalación ni utilización de juegos en el equipo.
 
-IX. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato; y
+2. Las áreas ejecutivas deberán garantizar la adecuada utilización del equipo asignado a las mismas en las actividades sustantivas del Instituto, incluso apoyando las actividades de otras áreas, respetando en todo momento los equipos asignados a los Consejeros Electorales y a los Representantes de los Partidos Políticos.
 
-X. El diputado o la diputada que presida la Comisión de Derechos Humanos y Atención a Grupos Vulnerables del Congreso del Estado de Guanajuato.
+Artículo 12
 
-Por cada integrante del Consejo habrá un suplente quien lo cubrirá en sus ausencias. El Gobernador será suplido por el vocal que para tal efecto designe. Los representantes del sector privado serán nombrados por el Gobernador del Estado.
+1. Para cada equipo debe haber una persona responsable. Por razones de seguridad de la información, deben existir al menos dos personas con conocimiento y acceso a ésta.
 
-El reglamento determinará los criterios conforme a los cuales se emitirá la convocatoria para la designación de los representantes del sector privado.
+Artículo 13
 
-Los representantes del sector privado durarán en sus funciones dos años, quienes podrán ser ratificados hasta por un segundo periodo.
+1. El responsable del equipo debe realizar, con base en los procedimientos que establezca la Unidad, las siguientes actividades:
 
-Se podrá invitar a las sesiones del Consejo a representantes de los sectores público, social y privado, atendiendo al tema que se tratará en las mismas, quienes tendrán derecho a voz pero no a voto.
+a) Cuidar la no proliferación de virus informáticos;
 
-Carácter honorífico de los consejeros
+b) Proteger el equipo adecuadamente contra variaciones de corriente; y
 
-###### Artículo 18.
+c) Solicitar ayuda y/o asesoría en caso de falla del equipo.
 
-El cargo de los integrantes del Consejo será de naturaleza honorífica, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
+Artículo 14
 
-Periodicidad de las sesiones
+Conservación y uso del equipo de cómputo
 
-###### Artículo 19.
+1. El usuario de cualquier equipo de cómputo, debe observar lo siguiente:
 
-El Consejo celebrará cuatro sesiones ordinarias al año, además de las sesiones extraordinarias que proponga el titular del Poder Ejecutivo.
+a) Atender las indicaciones del manual del fabricante;
 
-Regulación del Consejo
+b) No desarmar el equipo ni abrir las cubiertas que lo protejan, ni extraer ni sustituir componentes de los equipos, salvo que lo autorice la Unidad;
 
-###### Artículo 20.
+c) No instalar ni utilizar en el equipo juegos, programas o archivos de dudosa procedencia por medios magnéticos o de red, para evitar la desconfiguración o las infecciones por virus, que afecten o dañen la información contenida en el equipo o la configuración del mismo;
 
-El Consejo se regirá en lo que hace a su organización, estructura y funcionamiento, además de lo dispuesto por esta Ley, por lo que establezca el reglamento que se expida para tal efecto.
+d) Apagar todos los componentes del equipo de cómputo personal al finalizar las tareas diarias, excepción hecha de los equipos que funcionen como servidores y equipos de telecomunicaciones; y
 
-Atribuciones del Consejo
+e) Solicitar el servicio preventivo del equipo por lo menos una vez al año.
 
-###### Artículo 21.
+V. NORMAS APLICABLES AL USO DE INTRANET Y ACCESO A INTERNET
 
-El Consejo tendrá las siguientes atribuciones:
+Artículo 15
 
-I. Establecer las estrategias interinstitucionales y de vinculación con la sociedad que permitan dar cumplimiento a los principios y disposiciones establecidos en la presente Ley;
+Usos y recursos
 
-II. Diseñar políticas públicas, que articulen los recursos humanos, materiales y operativos de las instituciones públicas que integran el Consejo, para brindar atención y prevención a la problemática que enfrentan niñas, niños y adolescentes en el Estado y que limitan su adecuado desarrollo;
+1. Todos los usuarios deberán utilizar los recursos del Instituto, única y exclusivamente para fines institucionales.
 
-III. Fomentar y fortalecer la colaboración, concertación, coordinación, y participación corresponsable de instituciones públicas, privadas y organizaciones sociales en la realización de acciones para garantizar el ejercicio de los derechos de niñas, niños y adolescentes en el Estado;
+2. En el uso de los recursos se deberán guardar las medidas de seguridad que garanticen la integridad de los sistemas de cómputo ya instalados y su accesibilidad por otros, para hacer el trabajo eficiente y productivo.
 
-IV. Propiciar que los principios establecidos en la presente Ley, sean considerados en los procesos de toma de decisiones y en la formulación e instrumentación de las políticas públicas, programas y presupuestos, que tengan impacto directo en las acciones a favor de niñas, niños y adolescentes;
+3. Los servicios de acceso a Internet se proveerán para facilitar las labores, la investigación, capacitación y comunicación del personal.
 
-V. Evaluar los logros y avances del Programa, proponiendo las medidas idóneas para su optimización;
+Artículo 16
 
-VI. Apoyar las acciones que emprendan las estructuras a nivel municipal;
+Derechos
 
-VII. Colaborar en el diseño y ejecución de los programas de acción a favor de niñas, niños y adolescentes a nivel estatal y municipal;
+1. Los derechos de los usuarios de la red son los siguientes:
 
-VIII. Analizar y proponer a las instancias competentes, modelos de atención para niñas, niños y adolescentes;
+a) La comunicación entre las personas relacionadas con las labores propias del Instituto.
 
-IX. Contribuir a la difusión de los principios, derechos y deberes de niñas, niños y adolescentes en la Entidad; y
+b) La comunicación e intercambio con las autoridades electorales, universitarias u otras organizaciones, con el fin de tener acceso a los últimos avances relacionados con la especialidad del personal; y
 
-X. Las demás que le otorguen esta Ley y su reglamento.
+c) Usar la red para los anuncios o servicios de apoyo a la población relacionados con los diferentes procesos electorales.
 
-### Capítulo V. Coordinación interinstitucional
+Artículo 17
 
-Coordinación interinstitucional
+Obligaciones
 
-###### Artículo 22.
+1. Son obligaciones de los usuarios en el uso de la RedIFE las siguientes:
 
-El titular del Poder Ejecutivo y los ayuntamientos podrán convenir entre ellos, así como con el Poder Ejecutivo federal y con la sociedad organizada, la coordinación que se requiera, a efecto de que participen en la realización de acciones previstas en esta Ley.
+a) Conocer y observar las políticas que establecen el acceso a sistemas y redes, así como acatar las reglas propias de las redes nacionales o internacionales cuando accedan por medio de la red informática del Instituto;
 
-### Capítulo VI. Programas a favor de niñas, niños y adolescentes
+b) Basar en la racionalidad y la responsabilidad individual los mensajes que se envíen vía la red informática y en ningún momento emplearlos en contra de los intereses de personas o instituciones;
 
-Contenido mínimo de los programas
+c) Respetar los derechos de otras personas, incluyendo las políticas que rigen a los usuarios que estén fuera del Instituto, tanto en los derechos de propiedad intelectual como de equipo informático;
 
-###### Artículo 23.
+d) Utilizar únicamente la cuenta que les ha sido asignada para tener acceso a sistemas y recursos;
 
-Los programas señalarán las acciones a las que deberán sujetarse las autoridades contempladas en esta Ley.
+e) Proteger la seguridad de los códigos de acceso. Estos son personales e intransferibles, así como cambiarlos periódicamente siempre y cuando sea necesario para salvaguardar la seguridad de los datos; y
 
-Ejecución de políticas públicas
+f) Realizar respaldos frecuentes.
 
-###### Artículo 24.
+Artículo 18
 
-El Gobernador del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, determinarán las políticas públicas, las estrategias, las acciones y los objetivos a que deberán sujetarse las dependencias y entidades de la administración pública estatal o municipal, con la participación que corresponda a los sectores privado y social, para la atención integral de niñas, niños y adolescentes en el Estado de Guanajuato.
+Políticas
 
-Aprobación y ejecución de programas
+1. Las políticas para los usuarios de la RedIFE son las siguientes:
 
-###### Artículo 25.
+a) La administración de RedIFE tiene la autoridad para controlar y negar el acceso a cualquiera que viole las políticas o interfiera con los derechos de otros usuarios. También tiene la responsabilidad de notificar a aquellas personas que se vean afectadas por las decisiones tomadas.
 
-El Programa será aprobado por el Gobernador del Estado o el Ayuntamiento según corresponda. Su ejecución quedará a cargo de las dependencias y entidades de la administración pública estatal y municipal, en el ámbito de sus respectivas competencias.
+b) La demanda de servicios puede ocasionalmente exceder la disponibilidad, por lo que serán establecidas las prioridades, dando la más alta a las actividades consideradas como esenciales para llevar a cabo las atribuciones del Instituto.
 
-Congruencia con la planeación
+Artículo 19
 
-###### Artículo 26.
+Prohibiciones
 
-El Programa que apruebe el Ayuntamiento, deberá estar en concordancia con el Programa Estatal, en términos de la Ley de Planeación para el Estado de Guanajuato.
+1. Son prohibiciones para los usuarios de la RedIFE:
 
-### Capítulo VII. Derechos de niñas, niños y adolescentes
+a) Realizar cualquier actividad que sea lucrativa, así como distribuir archivos o software para fines de propaganda o reproducción ilegal;
 
-#### Sección Primera. Derecho a la vida
+b) Utilizar los recursos del Instituto para ganar acceso no autorizado a redes y sistemas remotos;
 
-Derecho a la vida
+c) Provocar deliberadamente el mal funcionamiento de computadoras, estaciones o terminales periféricas de redes y sistemas;
 
-###### Artículo 27.
+d) Utilizar la red en perjuicio de los derechos de los demás;
 
-Niñas, niños y adolescentes tienen derecho a la vida. Se garantizará su supervivencia y su desarrollo integral.
+e) Utilizar los servicios de red para juegos;
 
-#### Sección Segunda. Derecho a la no discriminación
+f) La transmisión de materiales en violación de cualquier regulación aplicable; y
 
-No discriminación
+g) Enviar archivos confidenciales en términos de ley, a través de la red, a menos de que se utilicen técnicas o sistemas con criptografía.
 
-###### Artículo 28.
+Artículo 20
 
-Niñas, niños y adolescentes tienen reconocidos sus derechos y no serán sujetos de discriminación en razón de su origen étnico, nacionalidad, género, edad, discapacidad, condición social, de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Responsabilidades
 
-Trato igualitario
+1. Son responsabilidades de los usuarios:
 
-###### Artículo 29.
+a) Los mensajes que se envíen vía internet;
 
-Es deber de las autoridades, ascendientes, tutores e integrantes de la sociedad, promover e impulsar un desarrollo igualitario entre niñas, niños y adolescentes.
+b) Cualquier daño que el usuario sufra causado por negligencia propia, errores u omisiones; y
 
-#### Sección Tercera. Derecho a vivir en condiciones de bienestar
+c) Cualquier información obtenida por medio del servicio de comunicaciones del nodo de Internet del Instituto.
 
-Bienestar
+VI. NORMAS APLICABLES EN LOS CENTROS DE COMPUTO
 
-###### Artículo 30.
+Artículo 21
 
-Niñas, niños y adolescentes tienen derecho a vivir en condiciones que permitan su desarrollo integral en un medio ambiente sano y armonioso, tanto biológico, físico, mental, material, espiritual, moral y social.
+Sistemas
 
-#### Sección Cuarta. Derecho a ser protegidos en su integridad
+1. En relación con los sistemas, en los centros de cómputo se deberá:
 
-Protección a la integridad física
+a) Controlar el acceso al área;
 
-###### Artículo 31.
+b) Establecer procedimientos de seguridad para la manipulación de información confidencial;
 
-Niñas, niños y adolescentes tienen el derecho a ser protegidos, especialmente cuando se vean afectados por:
+c) Establecer procedimientos para protección y control de programas y datos;
 
-I. El descuido, la negligencia, el abandono, el maltrato o el abuso emocional, físico o sexual;
+d) Mantener actualizado un manual de procedimientos de los sistemas;
 
-II. La explotación, el uso de drogas y enervantes, el secuestro y la trata de personas; o
+e) Controlar que lo que se encuentre almacenado en los medios magnéticos sea útil y se elimine la información o los datos residuales;
 
-III. Desastres naturales, situaciones de refugio o desplazamiento.
+f) Mantener en buen estado y actualizados los archivos de respaldo;
 
-#### Sección Quinta. Derecho a la identidad
+g) Revisar periódicamente los archivos de respaldo;
 
-Identidad
+h) Tener un procedimiento para recuperación de información de los archivos de respaldo;
 
-###### Artículo 32.
+i) Detectar cualquier violación a los sistemas, llevando una bitácora de los accesos;
 
-Niñas, niños y adolescentes tienen derecho a la identidad, conformada por:
+j) Mantener y respetar la confidencialidad de los mensajes entre los sistemas de cómputo y entre los usuarios;
 
-I. El nombre propio;
+k) Establecer procedimientos de seguridad en caso de emergencia; y
 
-II. La nacionalidad;
+l) Utilizar los planes de contingencia para verificar si son efectivos.
 
-III. La historia filial y genealógica; y
+Artículo 22
 
-IV. El reconocimiento de la personalidad jurídica.
+Cada Dirección Ejecutiva, Unidad Técnica o área del Instituto que cuente con un centro de cómputo deberá elaborar el manual de operación del mismo en coordinación con la unidad.
 
-Identidad grupal
+VII. DE LAS SANCIONES
 
-###### Artículo 33.
+Artículo 23
 
-Niñas, niños y adolescentes tienen derecho a pertenecer a un grupo cultural y compartir con sus integrantes: costumbres, religión, idioma o lengua.
+Sanciones
 
-#### Sección Sexta. Derecho a vivir en familia
+El incumplimiento del presente reglamento será sancionado en los términos del Estatuto, de las atribuciones de la Contraloría Interna del Instituto, y sin perjuicio de las demás acciones legales que el Instituto pueda ejercer en contra del responsable.
 
-Derecho a vivir en familia
+## ARTICULOS TRANSITORIOS
 
-###### Artículo 34.
+PRIMERO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
 
-Niñas, niños y adolescentes tienen derecho a vivir en familia.
+SEGUNDO.- El presente reglamento entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
-Excepción al derecho a vivir en familia
+TERCERO.- El Secretario Ejecutivo ordenará la edición a la brevedad posible, del número de ejemplares de este reglamento que se estimen necesarios, para su debida difusión entre el personal del Instituto Federal Electoral.
 
-###### Artículo 35.
+CUARTO.- El Acuerdo del Consejo General por el cual se Aprueban las Bases del Proyecto Integral en materia de Informática, aprobado el 17 de septiembre de 1998, seguirá vigente para todo aquello que no contemple el presente reglamento, hasta en tanto, se formule el Reglamento de Adquisición de Servicios y Bienes Informáticos.
 
-Niñas, niños y adolescentes no serán separados de sus padres, excepto cuando ello sea establecido en determinación emitida por la autoridad competente, de conformidad con las leyes aplicables.
+QUINTO.- La Unidad, en colaboración con la Unidad Técnica de Contraloría Interna, previo conocimiento de la Comisión de Informática, deberá emitir especificaciones y normas de calidad que debe cumplir la documentación soporte de los sistemas del Instituto en un plazo máximo de 6 meses a partir de la entrada en vigencia del presente reglamento.
 
-La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres, familiares, tutores y custodios con los que convivan, ni causa de la pérdida de la patria potestad.
+SEXTO.- Para los sistemas existentes en el Instituto, deberá elaborarse o actualizarse en un plazo máximo de un año a partir de la entrada en vigor del presente reglamento, la documentación soporte de los mismos, bajo las especificaciones y normas de calidad que establezca la Unidad con la colaboración de la Unidad Técnica de Contraloría Interna.
 
-Justificación para no vivir en familia
+SEPTIMO.- El manual de operación de cada centro de cómputo del Instituto, deberá estar elaborado en un plazo máximo de 6 meses a partir de la entrada en vigencia del presente reglamento.
 
-###### Artículo 36.
-
-Niñas, niños y adolescentes no se considerarán como expósitos o en estado de abandono, en los casos que los padres, por extrema pobreza o porque tengan necesidad de ganarse el sustento lejos de su lugar de residencia, tengan dificultades para atenderlos de manera permanente; siempre y cuando responsablemente los mantengan al cuidado de otras personas, los traten sin violencia y provean lo necesario para su subsistencia.
-
-Asistencia del Sistema
-
-###### Artículo 37.
-
-El Sistema implementará los mecanismos a fin de que, siempre que un niño, niña o adolescente se vea privado de su familia de origen, se procure su reencuentro con ella.
-
-De no ser posible la reintegración familiar, el Estado brindará la atención y cuidados asistenciales a través del Sistema o de las instituciones privadas que cumplan con los lineamientos en la materia.
-
-#### Sección Séptima. Derecho a la salud
-
-Salud
-
-###### Artículo 38.
-
-Niñas, niños y adolescentes tienen derecho a la salud.
-
-Obligación de la Secretaría de Salud
-
-###### Artículo 39.
-
-La Secretaría de Salud adoptará las medidas para que todos los sectores de la sociedad, y en particular los padres y los hijos, conozcan los principios básicos de la salud y la nutrición de niñas, niños y adolescentes, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes.
-
-Asimismo, se establecerán las medidas tendientes a prevenir embarazos tempranos.
-
-Apoyo a madres adolescentes
-
-###### Artículo 40.
-
-Las madres adolescentes tienen derecho a la atención pre y post natal.
-
-#### Sección Octava. Derecho a la educación
-
-Educación
-
-###### Artículo 41.
-
-Niñas, niños y adolescentes tienen derecho a la educación.
-
-Trato adecuado
-
-###### Artículo 42.
-
-Niñas, niños y adolescentes tienen derecho al buen trato y al desarrollo de sus competencias.
-
-Prohibición de maltrato
-
-###### Artículo 43.
-
-En las instituciones educativas, los educadores o maestros, el personal de apoyo y directivo, son responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños y adolescentes.
-
-Abstención de medidas disciplinarias que atenten contra la dignidad
-
-###### Artículo 44.
-
-Las personas e instituciones que forman parte del Sistema Educativo Estatal, se abstendrán de utilizar, promover o autorizar medidas disciplinarias contrarias a la dignidad de niñas, niños y adolescentes.
-
-La Secretaría de Educación del Estado, supervisará el cumplimiento de esta disposición.
-
-#### Sección Novena. Derecho al descanso, al juego y a participar en la vida cultural
-
-Descanso, juego y actividades recreativas
-
-###### Artículo 45.
-
-Niñas, niños y adolescentes tienen derecho al descanso y el esparcimiento, al juego y a las actividades recreativas propias de su edad y a participar libremente en la vida cultural y en las artes, los cuales se promoverán y serán respetados como factores en su desarrollo y crecimiento.
-
-Obligación de crear infraestructura
-
-###### Artículo 46.
-
-El Ejecutivo del Estado y los ayuntamientos, garantizarán la promoción de la creación de la infraestructura necesaria para el desarrollo de las actividades de juego y esparcimiento de niñas, niños y adolescentes.
-
-###### Artículo 47.
-
-Por ninguna razón ni circunstancia, se les podrá imponer a niñas, niños y adolescentes regímenes de vida, estudio, trabajo o reglas de disciplina que impliquen la renuncia o limitación de sus derechos.
-
-#### Sección Décima. Derecho a la libertad de pensamiento
-
-Libertad de pensamiento
-
-###### Artículo 48.
-
-Niñas, niños y adolescentes gozarán de libertad de pensamiento.
-
-#### Sección Undécima. Derecho a la libertad de expresión y a la participación
-
-Libertad de expresión
-
-###### Artículo 49.
-
-Niñas, niños y adolescentes tienen derecho a la libertad de expresión; la cual incluye sus opiniones y a ser informado. Dichas libertades se ejercerán sin más límite que lo previsto por la Constitución Política de los Estados Unidos Mexicanos.
-
-Referencia al límite constitucional
-
-###### Artículo 50.
-
-Niñas, niños y adolescentes tienen derecho a la participación, a ejercer sus capacidades de opinión, análisis, crítica y a presentar propuestas y realizar actividades en todos los ámbitos en los que viven, sin más limitaciones que las que establezca la Constitución Política de los Estados Unidos Mexicanos.
-
-Obligación de escuchar a niñas, niños y adolescentes
-
-###### Artículo 51.
-
-El derecho de niñas, niños y adolescentes a expresar su opinión implica que se les tome su parecer respecto de:
-
-I. Los asuntos que les afecten y el contenido de las resoluciones que les conciernen; y
-
-II. Que se escuchen y tomen en cuenta sus opiniones y propuestas respecto a los asuntos de su familia o comunidad.
-
-#### Sección Duodécima. Derecho de asociación
-
-Asociación
-
-###### Artículo 52.
-
-Niñas, niños y adolescentes tienen derecho a reunirse y asociarse, sin más limitaciones que las que establezca la Constitución Política de los Estados Unidos Mexicanos.
-
-### Capítulo VIII. Deberes de niñas, niños y adolescentes
-
-Ejercicio responsable de la libertad de asociación
-
-###### Artículo 53.
-
-Es deber de niñas, niños y adolescentes el respeto a todas las personas, el cuidado a los bienes propios, de la familia y de la comunidad, así como el adecuado aprovechamiento de los recursos que se dispongan para su desarrollo, y contribuir al cuidado del medio ambiente y de su propia salud, cuando su edad y desarrollo cognitivo se lo permitan.
-
-### Capítulo IX. Niñas, niños y adolescentes en situación de desventaja social
-
-Concepto de desventaja social
-
-###### Artículo 54.
-
-Se entenderá que un niño, niña o adolescente se encuentra en situación de desventaja social, cuando circunstancias extraordinarias, dentro o fuera del ámbito familiar, ponen en riesgo o impiden su desarrollo integral; lo que implica la falta de oportunidad de formarse física, mental, emocional, social y moralmente en condiciones de igualdad.
-
-Obligación de apoyo en casos de desventaja social
-
-###### Artículo 55.
-
-Toda persona que tenga conocimiento de que alguna niña, niño o adolescente, se encuentra en situación de desventaja social, podrá pedir la intervención de las autoridades competentes, para que apliquen de inmediato las medidas para su protección y atención, tendientes a prevenir que realicen actividades marginales, e integrarlos a programas o acciones, cuyo propósito sea protegerlos.
-
-Apoyo psicológico
-
-###### Artículo 56.
-
-Las instituciones públicas o privadas que atiendan a niñas niños y adolescentes en situación de desventaja social, vigilarán que reciban atención psicológica especializada de manera adecuada y oportuna, independientemente de que lo soliciten las personas que los tengan bajo su custodia.
-
-### Capítulo X. Obligaciones de ascendientes, tutores, custodios o quienes ejerzan autoridad
-
-Responsabilidad de los padres
-
-###### Artículo 57.
-
-La madre y el padre son igualmente responsables del desarrollo sano e integral de sus hijos, y de garantizar lo necesario para su subsistencia, protección, salud, educación y los elementos que favorezcan su incorporación al medio ambiente.
-
-Obligaciones con niñas, niños y adolescentes
-
-###### Artículo 58.
-
-Son obligaciones de los padres, tutores, y de todas las personas que tengan a su cuidado o ejerzan autoridad sobre niñas, niños y adolescentes:
-
-I. Proporcionarles una vida digna, garantizarles la satisfacción de su alimentación, así como el pleno y armónico desarrollo de su personalidad en el seno de la familia, la escuela, la sociedad y las instituciones;
-
-II. Protegerlos y evitar toda forma de maltrato, prejuicio, daño, agresión, abuso, trata de personas y explotación. Lo anterior implica que la facultad que tienen quienes ejercen la patria potestad, la tutela o la custodia de niñas, niños y adolescentes no podrá atentar contra su integridad física o mental ni actuar en menoscabo de su desarrollo; y
-
-III. Registrar su nacimiento, de conformidad con lo establecido en el Código Civil para el Estado de Guanajuato.
-
-### Capítulo XI. Defensa y protección de niñas, niños y adolescentes
-
-Atribuciones del Sistema
-
-###### Artículo 59.
-
-El Sistema, además de las atribuciones previstas en la Ley sobre el Sistema Estatal de Asistencia Social, tendrá las siguientes:
-
-I. Representar legalmente los intereses de niñas, niños y adolescentes ante las autoridades judiciales o administrativas, sin contravenir las disposiciones legales aplicables;
-
-II. Conciliar en los casos de conflicto en el núcleo familiar cuando se vulneren los derechos y garantías de niñas, niños y adolescentes;
-
-III. Realizar, promover y difundir estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de los derechos de las personas a las que se refiere esta Ley, y hacerlos llegar a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
-
-IV. Denunciar ante el Ministerio Público todos aquellos hechos que se presuman constitutivos de delito, coadyuvando en la averiguación previa;
-
-V. Proporcionar, en forma gratuita, los servicios de asistencia jurídica y de orientación social a niñas, niños y adolescentes, a sus ascendientes, tutores o quienes ejerzan la patria potestad, en los trámites o procedimientos relacionados a éstos;
-
-VI. Derivado de los procedimientos o procesos que afecten o pueden afectar a niñas, niños y adolescentes, poner a disposición del Ministerio Público o de cualquier órgano jurisdiccional, los elementos a su alcance en la protección de las personas a que se refiere esta Ley;
-
-VII. Proponer al titular del Poder Ejecutivo del Estado las políticas públicas y mecanismos que garanticen la protección de las personas a las que se refiere esta Ley;
-
-VIII. Promover la participación de los sectores público, social y privado en la planificación, ejecución y evaluación de las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes;
-
-IX. Realizar visitas de inspección, vigilancia y evaluación a los particulares que presten servicios asistenciales a favor de niñas, niños y adolescentes;
-
-X. Asesorar a las autoridades competentes y a los sectores social y privado en lo relativo a la protección de los derechos de niñas, niños y adolescentes;
-
-XI. Definir, instrumentar y ejecutar políticas públicas y mecanismos que garanticen la protección de los derechos de niñas, niños y adolescentes; y
-
-XII. Las demás que le confieran expresamente las disposiciones legales aplicables.
-
-Obligación de la Procuraduría
-
-###### Artículo 60.
-
-La Procuraduría estará facultada para recibir y tramitar, conforme al procedimiento señalado en su reglamentación, denuncias sobre descuido, negligencia, abandono, maltrato y abuso emocional, físico o sexual de niñas, niños y adolescentes, las cuales podrán ser presentadas por cualquier persona que tenga conocimiento del hecho.
-
-Procedimiento de investigación
-
-###### Artículo 61.
-
-Una vez que la Procuraduría tenga conocimiento del hecho o reciba la denuncia señalada en el artículo anterior, procederá a la verificación del domicilio señalado por el denunciante y realizará las investigaciones a efecto de constatar la veracidad del hecho denunciado.
-
-La investigación respecto de la denuncia comprenderá el análisis del entorno familiar de la niña, niño o adolescente.
-
-La Procuraduría dictará las medidas que aseguren la estabilidad emocional y el desarrollo de niñas, niños y adolescentes.
-
-Si de la denuncia se desprende la probable comisión de algún delito, la Procuraduría, de inmediato, deberá hacerlo del conocimiento del Ministerio Público.
-
-Cuando la integridad de niñas, niños y adolescentes se encuentre en riesgo, la Procuraduría solicitará la custodia, el depósito ante las autoridades competentes u otorgará asistencia a la víctima, con la finalidad de brindarles seguridad y protección física.
-
-### Capítulo XII. Difusión de los derechos de niñas, niños y adolescentes
-
-Promoción de derechos
-
-###### Artículo 62.
-
-Las autoridades estatales y municipales, en el ámbito de su competencia, promoverán la difusión, la defensa y la aplicación de los derechos de niñas, niños y adolescentes, así como de las disposiciones legales que se relacionen con ellos con el fin de propiciar su efectiva observancia.
-
-### Capítulo XIII. De las Responsabilidades
-
-Responsabilidad administrativa
-
-###### Artículo 63.
-
-Las autoridades estatales y municipales, y en general cualquier servidor público que no actúe con la diligencia debida en el cumplimiento de las obligaciones que esta Ley impone, serán sancionados de acuerdo con la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, sin menoscabo de las responsabilidades penales, civiles o cualquier otra que se derive de su incumplimiento.
-
-Responsabilidad de particulares
-
-###### Artículo 64.
-
-Los particulares que infrinjan las disposiciones de esta Ley, se harán acreedores a las sanciones previstas en las leyes que resulten aplicables a la conducta.
-
-T r a n s i t o r i o s
-
-Inicio de vigencia
-
-Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Término para adecuar la normatividad municipal
-
-Artículo Segundo. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar noventa días después de su entrada en vigencia.
-
-Término para adecuar la normatividad estatal
-
-Artículo Tercero. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de noventa días, contados a partir del inicio de la vigencia del presente decreto.
-
-Artículo Cuarto. El Ejecutivo del Estado instalará el Consejo Estatal de Protección de Niñas, Niños y Adolescentes en un término de sesenta días, contados a partir del inicio de la vigencia del presente decreto.
-
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 4 DE NOVIEMBRE DE 2010.- JUAN CARLOS ACOSTA RODRÍGUEZ.- DIPUTADO PRESIDENTE.- ALICIA MUÑOZ OLIVARES.- DIPUTADA SCRETARIA.- MOISÉS GERARDO MURILLO RAMOS.- DIPUTADO SECRETARIO.- RÚBRICAS.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
-
-Dado en la residencia del Poder Ejecutivo, en la ciudad de Guanajuato, Gto., a 5 de noviembre del año 2010.
-
-JUAN MANUEL OLIVA RAMÍREZ
-
-EL SECRETARIO DE GOBIERNO
-
-HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 7 DE JUNIO DE 2013.
-
-Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
-
-P.O. 11 DE SEPTIEMBRE DE 2015.
-
-Inicio de vigencia
-
-Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
-
-Abrogación
-
-Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
-
-Plazos para ajustar reglamentos y decretos
-
-Artículo Tercero. El Ejecutivo del Estado deberá realizar los ajustes a los reglamentos y decretos que se opongan a la presente Ley y armonizará las disposiciones normativas para el cumplimiento de su objeto y finalidades en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
-
-Plazo para establecer un área especializada
-
-Artículo Cuarto. La Procuraduría de los Derechos Humanos del Estado de Guanajuato deberá realizar los ajustes presupuestales, a fin de establecer un área especializada para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, en los términos del presente Decreto en un plazo de ciento ochenta días contados a partir de que ésta inicie su vigencia.
-
-Término para adecuar la normatividad estatal
-
-Artículo Quinto. El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término de ciento ochenta días, contados a partir del inicio de la vigencia del presente decreto.
-
-Término para adecuar la normatividad municipal
-
-Artículo Sexto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, a más tardar ciento ochenta días después de su entrada en vigencia.
-
-Constitución de la Procuraduría Estatal de Protección
-
-Artículo Séptimo. El Ejecutivo del Estado en un plazo no mayor a sesenta días a partir de la entrada en vigencia de ésta Ley, deberá adecuar la estructura orgánica para el funcionamiento de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, a partir de la estructura de la Procuraduría en Materia de Asistencia Social.
-
-Cualquier referencia a la Procuraduría en Materia de Asistencia Social, contenida en otra disposición jurídica, se entenderá realizada a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
-
-La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, deberá cumplir íntegramente con las obligaciones y compromisos asumidos por la Procuraduría en Materia de Asistencia Social.
-
-Los derechos y obligaciones derivados de las relaciones laborales del personal actualmente adscrito a la Procuraduría en Materia de Asistencia Social, estarán a cargo de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato.
-
-Adecuaciones de los Centros de Asistencia Social
-
-Artículo Octavo. Las organizaciones de asistencia social que realicen cualquiera (sic) actividades propias de los Centros de Asistencia Social a los que hace referencia ésta Ley, y que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir del inicio de la vigencia del presente Decreto para realizar las adecuaciones conducentes en términos de la normatividad aplicable.
-
-> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2015)</small>
-
-Designación de representantes de la sociedad civil ante el Sistema
-
-Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebrada el 14 de noviembre de 2000.- EL CONSEJERO PRESIDENTE DEL CONSEJO GENERAL, JOSE WOLDENBERG KARAKOWSKY.- RUBRICA.- EL SECRETARIO DEL CONSEJO GENERAL, FERNANDO ZERTUCHE MUÑOZ.- RUBRICA.
