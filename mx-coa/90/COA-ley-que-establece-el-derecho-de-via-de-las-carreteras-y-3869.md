@@ -4,7 +4,7 @@ identifier: "COA-ley-que-establece-el-derecho-de-via-de-las-carreteras-y-3869"
 country: "mx"
 rank: "ley"
 publication_date: "1984-07-27"
-last_updated: "1984-07-27"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY QUE ESTABLECE EL DERECHO DE VIA DE LAS CARRETERAS Y CAMINOS LOCALES
 
-LEY QUE ESTABLECE EL DERECHO DE VIA DE LAS CARRETERAS Y CAMINOS LOCALES
+LEY QUE ESTABLECE EL DERECHO DE VÍA DE LAS CARRETERAS Y CAMINOS LOCALES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY QUE ESTABLECE EL DERECHO DE VÍA DE LAS CARRETERAS Y CAMINOS LOCALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de julio de 1984.
 
@@ -120,3 +122,15 @@ LIC. JOSE DE LAS FUENTES RODRIGUEZ. (Rúbrica)
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. ENRIQUE MARTINEZ Y MARTINEZ. (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley que Establece el Derecho de Vía de las Carreteras y Caminos Locales, expedida por el Congreso del Estado el 20 de julio de 1984 y publicada en el Periódico Oficial del Gobierno del Estado el 27 de julio de 1984.
+
+TERCERO.- Se abroga el Decreto que Establece las Bases para la Construcción de Obras e Instalación de Anuncios dentro del Derecho de Vía de Las Carreteras de Jurisdicción Local y en Áreas Aledañas, expedida por el Congreso del Estado el 20 de julio de 1984 y publicada en el Periódico Oficial del Gobierno del Estado el 27 de julio de 1984.
+
+CUARTO.- Se derogan las disposiciones que se opongan a lo previsto en esta Ley.
