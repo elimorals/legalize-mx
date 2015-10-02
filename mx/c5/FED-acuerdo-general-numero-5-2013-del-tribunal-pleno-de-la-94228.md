@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-5-2013-del-tribunal-pleno-de-la-94228"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-05-21"
-last_updated: "2013-09-17"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94228&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-05-16"
 
 ACUERDO GENERAL NÚMERO 5/2013, DE TRECE DE MAYO DE DOS MIL TRECE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE EL PLENO CONSERVARÁ PARA SU RESOLUCIÓN, Y EL ENVÍO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE OCTUBRE DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de mayo de 2013.
 
@@ -124,6 +124,10 @@ C) Habiéndose planteado la inconstitucionalidad de leyes federales, subsista la
 D) Los amparos en revisión en los que, sobre el tema debatido, se integre, aunque no se haya publicado, jurisprudencia del Pleno o de las Salas; o cuando existan tres precedentes emitidos indistintamente por el Pleno o las Salas, en forma ininterrumpida y en el mismo sentido, y no se hubiere alcanzado votación idónea para integrar jurisprudencia;
 
 II. Los conflictos de competencia, con excepción de los que se susciten entre los Tribunales Colegiados de Circuito;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIOCHO DE SEPTIEMBRE DE DOS MIL QUINCE, D.O.F. 2 DE OCTUBRE DE 2015)</small>
+
+Tampoco se delega a los Tribunales Colegiados de Circuito la competencia para resolver los conflictos competenciales que se reciban en la Suprema Corte de Justicia de la Nación cuando resulten notoriamente improcedentes, los que podrán desecharse por su Presidente en ejercicio de la facultad prevista en el artículo 14, fracción II, de la Ley Orgánica del Poder Judicial de la Federación.
 
 III. Los reconocimientos de inocencia, y
 
@@ -240,3 +244,9 @@ D.O.F. 17 DE SEPTIEMBRE DE 2013.
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo por lo que se refiere a los recursos de inconformidad previstos en las fracciones I y III del artículo 201 de la Ley de Amparo que se hubieren recibido en la Suprema Corte de Justicia de la Nación antes de su entrada en vigor, los que se resolverán por ésta. Sólo los que se reciban con posterioridad en este Alto Tribunal se remitirán por la Secretaría General de Acuerdos a la oficina de correspondencia común de los Tribunales Colegiados de Circuito a los que corresponda su conocimiento.
 
 SEGUNDO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2013 en dichos medios electrónicos.
+
+D.O.F. 2 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y, en su momento, en el diverso 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2013 en dichos medios electrónicos.
