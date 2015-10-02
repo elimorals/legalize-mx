@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2015-09-25"
+last_updated: "2015-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
 
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE SEPTIEMBRE DE 2015.
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1647,7 +1647,7 @@ Al iniciarse el procedimiento de terminación de la sociedad conyugal cesarán i
 
 Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
 
-I. La lista detallada de los bienes |muebles e inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
+I. La lista detallada de los bienes muebles e inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
 
 II. La nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
 
@@ -14001,7 +14001,7 @@ Cuando se trate de fincas no inscritas, la inscripción primaria sólo podrá ha
 
 ###### Art. 2506.
 
-La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por notario que haya autorizado la escritura de que se trate.
+La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
 
 ###### Art. 2507.
 
@@ -14277,7 +14277,7 @@ Cuando toda la herencia se distribuyere en legados, los legatarios serán consid
 
 ###### Art. 2543.
 
-Si el autor de la herencia y sus herederos o legatarios parecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+Si el autor de la herencia y sus herederos o legatarios perecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
 
 ###### Art. 2544.
 
@@ -15415,7 +15415,7 @@ El testador, al hacer la presentación, declarará que en aquel pliego está con
 
 ###### Art. 2781.
 
-El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, y ser firmada por el testador, los testigos y el notario, quien además pondrá su sello.
+El notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, y ser firmada por el testador, los testigos y notario, quien además pondrá su sello.
 
 ###### Art. 2782.
 
@@ -15451,11 +15451,11 @@ El testamento cerrado que carezca de alguna de las formalidades sobredichas, que
 
 ###### Art. 2790.
 
-Cerrado y autorizado el testamento, se entregará al testador, y notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
+Cerrado y autorizado el testamento, se entregará al testador, y el notario pondrá razón en el protocolo, del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
 
 ###### Art. 2791.
 
-Por la infracción del artículo anterior no se anulará el testamento, pero notario incurrirá en la sanción de suspensión hasta por seis meses.
+Por la infracción del artículo anterior no se anulará el testamento, pero el notario incurrirá en la sanción de suspensión hasta por seis meses.
 
 ###### Art. 2792.
 
@@ -17107,7 +17107,9 @@ Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 201
 
 Abrogación
 
-Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+> <small>(F. DE E., P.O. 2 DE OCTUBRE DE 2015)</small>
+
+Artículo Segundo. Se abroga la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, segunda parte, de fecha 19 de noviembre de 2010.
 
 Plazos para ajustar reglamentos y decretos
 
