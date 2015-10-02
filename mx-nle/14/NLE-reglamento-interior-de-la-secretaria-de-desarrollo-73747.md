@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-desarrollo-73747"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-02-26"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SUSTENTABLE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SUSTENTABLE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -65,13 +65,15 @@ I. Oficina del Secretario, que comprende:
 
 a) Secretaría Técnica, integrada por:
 
-1. Coordinación de Pavimentos
+1. (DEROGADO, P.O. 2 DE OCTUBRE DE 2015)
 
 2. Coordinación de Estadística e indicadores
 
 3. Coordinación de Normatividad
 
-b) Dirección de Planeación, integrada por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+b) Dirección de Planeación e Imagen y Educación Ecológica, integrada por:
 
 1. Coordinación de Organismos Sectorizados.
 
@@ -80,6 +82,10 @@ b) Dirección de Planeación, integrada por:
 3. Coordinación de Planeación Transversal.
 
 4. Coordinación de Análisis y Seguimiento de Prensa.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+5. Coordinación de Imagen y Educación Ecológica.
 
 c) Dirección del Centro de Colaboración Geoespacial, integrada por:
 
@@ -109,6 +115,18 @@ e) Dirección Jurídica:
 
 4. Coordinación Jurídica Contenciosa.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+f) Dirección Intersectorial, integrada por:
+
+1. Coordinación Técnica.
+
+2. Coordinación de Apoyo Legal.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+g) Coordinación de Pavimentos.
+
 II. Subsecretaría de Desarrollo Urbano, que comprende:
 
 a) Dirección de Proyectos de Urbanismo Social, integrada por:
@@ -128,6 +146,14 @@ b) Dirección de Planeamiento Territorial:
 c) Dirección de Cultura Urbana:
 
 1. Coordinación de Cultura Urbana.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+d) Dirección de Proyectos Estratégicos:
+
+1. Coordinación de Proyectos y Suelo Urbano.
+
+2. Coordinación de Movilidad Multimodal y Vialidad.
 
 III. Subsecretaría de Protección al Medio Ambiente y Recursos Naturales, que comprende:
 
@@ -159,15 +185,25 @@ b) Dirección de Planeación y Programas Especiales:
 
 3. Coordinación de Programas Gubernamentales.
 
-c) Dirección de Imagen y Educación Ecológica:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-1. Coordinación de Educación Básica.
+c) Dirección de Calidad del Aire y Registro de Emisiones y Transferencia de Contaminantes (RECT);
 
-2. Coordinación de Educación Media y Superior.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-3. Coordinación de Educación Ambiental a Industrias y Entidades Gubernamentales.
+1. Coordinación de Calidad del Aire y Registro de Emisiones y Transferencia de Contaminantes (RETC);
 
-4. Coordinación Técnica.
+2. (DEROGADO, P.O. 2 DE OCTUBRE DE 2015)
+
+3. (DEROGADO, P.O. 2 DE OCTUBRE DE 2015)
+
+4. (DEROGADO, P.O. 2 DE OCTUBRE DE 2015)
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+d) Dirección de Cambio Climático:
+
+1. Coordinación de Cambio Climático.
 
 Las Subsecretarías y Direcciones estarán integradas por los coordinadores que señala este Reglamento y las jefaturas, órganos y demás servidores públicos que las necesidades del servicio público requiera para el cumplimiento oportuno de las atribuciones de la dependencia, conforme a las disponibilidades del presupuesto de egresos.
 
@@ -243,23 +279,45 @@ La Secretaría Técnica depende directamente del Secretario de Desarrollo Susten
 
 I. Atender las diversas necesidades técnicas y administrativas del Secretario;
 
-II. Expedir las certificaciones a las personas morales interesadas en realizar las funciones reservadas para laboratorios acreditados, en los términos que señale la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León;
+II. (DEROGADA, P.O. 2 DE OCTUBRE DE 2015)
 
-III. Expedir las certificaciones a las personas interesadas en realizar las funciones reservadas para profesionales responsables, en los términos que señale la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León;
+III. (DEROGADA, P.O. 2 DE OCTUBRE DE 2015)
 
 IV. Intervenir en la elaboración y actualización permanente del diagnóstico de la situación del desarrollo sustentable a nivel, local, regional, nacional y binacional;
 
 V. Informar al Secretario respecto al avance y resultados de las auditorias, así como las acciones correctivas y preventivas en proceso o realizadas;
 
-VI. Elaborar y realizar estudios para la creación, actualización o modificación de las Normas Técnicas Estatales de competencia de la Secretaría; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VII. Las demás que le sean conferidas por el Secretario o por las disposiciones legales aplicables.
+VI. Apoyar a las unidades administrativas de la Secretaría para alcanzar las metas de los programas sectoriales;
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PLANEACIÓN
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VII. Elaborar y realizar estudios para la creación, actualización o modificación de las Normas Técnicas Estatales de competencia de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+VIII. Elaborar los informes de los indicadores de gestión de los programas sectoriales, así como para las Matrices de Indicadores para Resultados (MIR);
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IX. Recabar de las unidades de la Secretaría toda la información necesaria para elaborar los informes de los indicadores de gestión de los programas sectoriales, así como para las Matrices de Indicadores para Resultados (MIR); y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+X. Las demás que le sean conferidas por el Secretario o por las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO TERCERO
+
+DE LA DIRECCIÓN DE PLANEACIÓN E IMAGEN Y EDUCACIÓN ECOLÓGICA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 10.
 
-La Dirección de Planeación tendrá las siguientes funciones:
+La Dirección de Planeación e Imagen y Educación Ecológica tendrá las siguientes funciones:
 
 I. Asistir al Secretario en la formulación e implementación de una política estatal de desarrollo sustentable;
 
@@ -291,9 +349,29 @@ XIV. Atender los asuntos relativos a comunicación social, prensa, propaganda, m
 
 XV. Promover y proponer, sistemas que permitan la difusión pública de la actuación institucional de la Secretaría, en coordinación con las unidades administrativas que la integran;
 
-XVI. Coordinar en conjunto con las demás unidades administrativas de la Secretaría los servicios de logística de eventos, producción gráfica, vídeos, audio y cualquier otro instrumento de comunicación; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XVII. Las demás que le sean conferidas por el Secretario o por las disposiciones legales aplicables.
+XVI. Determinar la información y estudios técnicos, económicos, financieros y fiscales que se requieran, así como los dictámenes que contemplen la factibilidad de la acción o proyecto de que se trate;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVII. Fomentar la concientización y la participación de la sociedad en la temática del desarrollo sustentable;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVIII. Fomentar políticas de preservación, conservación y aprovechamiento sustentable de la flora y la fauna silvestres, suelo, agua y otros recursos naturales, a través de la vinculación con todos los niveles de gobierno, instituciones educativas y con los diversos sectores de la sociedad;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIX. Diseñar programas que promuevan o faciliten la regulación y auditoría ambiental en entidades gubernamentales, industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XX. Emitir recomendaciones a las autoridades federales y municipales, con el propósito de promover el cumplimiento de la normatividad ambiental; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXI. Las demás que le sean conferidas por el Secretario o por las disposiciones legales aplicables.
 
 ### CAPÍTULO CUARTO. DE LA DIRECCIÓN DEL CENTRO DE COLABORACIÓN GEOESPACIAL
 
@@ -401,17 +479,79 @@ VI. Formular los acuerdos y resoluciones que sean necesarias en la substanciaci�
 
 VII. Formular los acuerdos y resoluciones de los recursos que se interpongan en contra de actos de la Secretaría o de sus unidades administrativas;
 
-VIII. Expedir las certificaciones de los documentos que consten en los archivos de la Secretaría; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-IX. Las demás que le confieran las disposiciones legales aplicables y el Secretario.
+VIII. Expedir las certificaciones de los documentos que consten en los archivos de la Secretaría;
 
-### CAPÍTULO PRIMERO. DE LOS TITULARES DE LAS SUBSECRETARIAS
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO SEGUNDO. DE LOS DIRECTORES Y COORDINADORES
+IX. Tener a su cargo el archivo general de la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+X. Las demás que le confieran las disposiciones legales aplicables y el Secretario.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN INTERSECTORIAL
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+Artículo 13 bis.- La Dirección Intersectorial tendrá las siguientes funciones:
+
+I. Coordinar el seguimiento de la ejecución de los programas estratégicos de la Secretaría, así como establecer coordinación para tal efecto con las dependencias y entidades federales, estatales y municipales involucradas;
+
+II. Proponer al Secretario los criterios a seguir para la coordinación con las dependencias federales, estatales, municipales y las entidades del sector paraestatal en el desarrollo de proyectos estratégicos de la Secretaría;
+
+III. Previo acuerdo con el Secretario, emitir opinión respecto a los términos establecidos en los convenios de coordinación, colaboración o concertación, así como acuerdos, decretos y cualquier instrumento jurídico que celebre la Secretaría con las autoridades federales, estatales o municipales involucradas, así como con entidades paraestatales para el debido cumplimiento de las funciones de la Secretaría o de las dependencias sectorizadas a ésta;
+
+IV. Apoyar, asesorar y orientar en el ámbito de su competencia, a las dependencias sectorizadas a la Secretaría, para la planeación, desarrollo, ejecución y operación de proyectos estratégicos coordinados por la Secretaría;
+
+V. Vigilar el cumplimiento de las disposiciones acordadas en convenios de coordinación, colaboración o concertación celebrados entre la Secretaría y las dependencias y entidades de la Administración Pública del Estado para la ejecución de proyectos estratégicos;
+
+VI. Previo acuerdo con el Secretario, coordinar la vinculación de la Secretaría con dependencias y organizaciones de los sectores público, privado y social;
+
+VII. Auxiliar al Secretario en la coordinación y atención de los asuntos relacionados con las dependencias sectorizadas a la Secretaría;
+
+VIII. Coordinar acciones con las dependencias federales, estatales o municipales, en sus relaciones con la Secretaría, y previo acuerdo con el Secretario, atender, y en su caso, canalizar los asuntos encomendados a la Secretaría en el ámbito de su competencia; y
+
+IX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO OCTAVO. DE LA COORDINACIÓN DE PAVIMENTOS
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+Artículo 13 bis 1.- La Coordinación de Pavimentos tendrá las siguientes funciones:
+
+I. Tramitar las solicitudes para la certificación de profesionales responsables y laboratorios certificados, así sus correspondientes renovaciones;
+
+II. Organizar los cursos, talleres o diplomados necesarios para la certificación de los profesionales responsables y su constante capacitación;
+
+III. Organizar y preparar la documentación necesaria que se someta al análisis del Consejo Técnico de la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León;
+
+IV. Coordinar y apoyar las sesiones de trabajo del Consejo Técnico de la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León;
+
+V. Elaborar las actas de las sesiones de trabajo del Consejo Técnico de la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León, así como dar seguimiento y realizar las acciones necesarias para el debido cumplimiento de los acuerdos tomados por dicho consejo;
+
+VI. Elaborar para firma del Secretario las certificaciones a las personas morales interesadas en realizar las funciones reservadas para laboratorios acreditados, en los términos que señale la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León y sus normas técnicas;
+
+VII. Elaborar para firma del Secretario las certificaciones a las personas interesadas en realizar las funciones reservadas para profesionales responsables, en los términos que señale la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León y sus normas técnicas;
+
+VIII. Mantener vigente el padrón de profesionales responsables y laboratorios acreditados;
+
+IX. Requerir a los profesionales responsables y laboratorios certificados la información necesaria para para (sic) el cumplimiento de la Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León, y sus normas técnicas correspondientes;
+
+X. Emitir órdenes de inspección para la visita de laboratorios acreditados, así como en aquellas obras de pavimentación que cuenten con profesional responsable en las que se podrán recabar muestras, para verificar el cumplimiento de Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León, y sus normas técnicas correspondientes;
+
+XI. Tramitar los procedimientos administrativos seguidos en contra de profesionales responsables y laboratorios acreditados para verificar el cumplimiento de Ley para la Construcción y Rehabilitación de Pavimentos del Estado de Nuevo León, y sus normas técnicas correspondientes; y en su caso imponer las sanciones correspondientes; y
+
+XII. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
 
 ## TÍTULO TERCERO. DISPOSICIONES COMUNES DE LAS UNIDADES ADMINISTRATIVAS DE LA SECRETARÍA
 
-### CAPÍTULO PRIMERO. DEL SUBSECRETARIO DE DESARROLLO URBANO
+### CAPÍTULO PRIMERO. DE LOS TITULARES DE LAS SUBSECRETARIAS
 
 ###### Artículo 14.
 
@@ -465,7 +605,7 @@ XXIII. Celebrar por acuerdo del Titular de la Secretaría, los documentos necesa
 
 XXIV. Las demás atribuciones que les sean conferidas por las leyes, decretos, reglamentos, acuerdos, convenios, o directamente por el Secretario.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE PROYECTOS DE URBANISMO SOCIAL
+### CAPÍTULO SEGUNDO. DE LOS DIRECTORES Y COORDINADORES
 
 ###### Artículo 15.
 
@@ -493,7 +633,7 @@ X. Las demás que les sean conferidas por el Secretario, el Subsecretario o por 
 
 ## TITULO CUARTO. DE LA SUBSECRETARÍA DE DESARROLLO URBANO
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PLANEAMIENTO TERRITORIAL
+### CAPÍTULO PRIMERO. DEL SUBSECRETARIO DE DESARROLLO URBANO
 
 ###### Artículo 16.
 
@@ -577,11 +717,19 @@ Para el cumplimiento de las funciones que le son encomendadas, a la Subsecretar�
 
 I. Dirección de Proyectos de Urbanismo Social;
 
-II. Dirección de Planeamiento Territorial; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-III. Dirección de Cultura Urbana.
+II. Dirección de Planeamiento Territorial;
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE CULTURA URBANA
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+III. Dirección de Cultura Urbana; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IV. Dirección de Proyectos Estratégicos.
+
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE PROYECTOS DE URBANISMO SOCIAL
 
 ###### Artículo 18.
 
@@ -651,7 +799,7 @@ c). Las demás que le sean conferidas por el Secretario, por el Subsecretario o 
 
 XVIII. Las demás que le sean conferidas por el Secretario, por el Subsecretario o por las disposiciones legales aplicables.
 
-### CAPÍTULO PRIMERO. DEL SUBSECRETARIO DE PROTECCIÓN AL MEDIO AMBIENTE Y RECURSOS NATURALES
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PLANEAMIENTO TERRITORIAL
 
 ###### Artículo 19.
 
@@ -705,7 +853,7 @@ XXIII. Participar por instrucciones del Subsecretario en los programas y accione
 
 XXIV. Las demás que le sean conferidas por el Secretario, por el Subsecretario y/o por las disposiciones legales aplicables.
 
-### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE MEJORAMIENTO AMBIENTAL
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE CULTURA URBANA
 
 ###### Artículo 20.
 
@@ -719,19 +867,43 @@ III. Fomentar los proyectos estratégicos de cultura urbana;
 
 IV. Previa solicitud de los municipios, emitir opinión respecto de las solicitudes de reagrupamiento parcelario, así como brindar asistencia y asesoría técnica a los municipios que se lo soliciten;
 
-V. Llevar el archivo general de la documentación en materia de planeación, administración y control del desarrollo urbano y regional;
+V. (DEROGADA, P.O. 2 DE OCTUBRE DE 2015)
 
-VI. Colaborar con la Dirección Jurídica en la certificación de documentación en materia de administración y control del desarrollo urbano;
+VI. (DEROGADA, P.O. 2 DE OCTUBRE DE 2015)
 
 VII. En coordinación con otras áreas de la Secretaría, participar en el desempeño de las funciones técnicas y administrativas que le correspondan a los Municipios cuando éstos así lo hayan convenido expresamente con el Titular del Ejecutivo; y
 
 VIII. Las demás que le sean conferidas por el Secretario, por el Subsecretario o por las disposiciones legales aplicables.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PLANEACIÓN Y PROGRAMAS ESPECIALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO QUINTO
+
+DE LA DIRECCIÓN DE PROYECTOS ESTRATÉGICOS.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+Artículo 20 bis. La Dirección de Proyectos Estratégicos tendrá las siguientes funciones:
+
+I. Planear, administrar, coordinar, ejecutar y/o controlar los proyectos estratégicos de la Secretaría de Desarrollo Sustentable;
+
+II. Definir de los objetivos e indicadores claves de desempeño de cada uno de los proyectos estratégicos de la Secretaría;
+
+III. Llevar el seguimiento de avances de los proyectos estratégicos de la Secretaría con el fin de que se cumpla lo establecido en los programas de control de obras;
+
+IV. Supervisar el cumplimiento de las condicionantes y especificaciones establecidas en cada uno de los proyectos estratégicos de la Secretaría;
+
+V. Administrar los problemas y cambios que cada proyecto exija durante su desarrollo de manera que se tomen las decisiones de manera oportuna para cumplir con los compromisos establecidos;
+
+VI. Coordinar con los diferentes participantes de cada proyecto, los asuntos relacionados con el mismo, de tal manera que se puedan cumplir los objetivos establecidos en el mismo;
+
+VII. Mantener informado sobre el desarrollo y ejecución de los proyectos estratégicos al Subsecretario y al Secretario de Desarrollo Sustentable; y
+
+VIII. Las demás que le sean conferidas por el Secretario, por el Subsecretario o por las disposiciones legales aplicables.
 
 ## TÍTULO QUINTO. DE LA SUBSECRETARÍA DE PROTECCIÓN AL MEDIO AMBIENTE Y RECURSOS NATURALES
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE IMAGEN Y EDUCACIÓN ECOLÓGICA
+### CAPÍTULO PRIMERO. DEL SUBSECRETARIO DE PROTECCIÓN AL MEDIO AMBIENTE Y RECURSOS NATURALES
 
 ###### Artículo 21.
 
@@ -807,9 +979,19 @@ Para el cumplimiento de las funciones que le son encomendadas, a la Subsecretar�
 
 I. Dirección de Mejoramiento Ambiental;
 
-II. Dirección de planeación y Programas Especiales; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-III. Dirección de Imagen y Educación Ecológica.
+II. Dirección de planeación y Programas Especiales;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+III. Dirección de Calidad del Aire y Registro de Emisiones y Transferencia de Contaminantes (RETC); y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IV. Dirección de Cambio Climático.
+
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE MEJORAMIENTO AMBIENTAL
 
 ###### Artículo 23.
 
@@ -913,6 +1095,8 @@ XLVIII. Notificar mediante los inspectores autorizados los documentos mediante e
 
 XLIX. Las demás que le encomiende el Secretario, el Subsecretario, así como las disposiciones legales aplicables.
 
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE PLANEACIÓN Y PROGRAMAS ESPECIALES
+
 ###### Artículo 24.
 
 La Dirección de Planeación y Programas Especiales tendrá las siguientes funciones:
@@ -935,45 +1119,197 @@ VIII. Diseñar programas para el desarrollo y uso de tecnologías para aprovecha
 
 IX. Dar seguimiento a los planes y programas que contengan políticas generales en materia de reciclaje y disposición final de residuos;
 
-X. Dar seguimiento y crea programas que promuevan o faciliten la regulación y auditoría ambiental en industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XI. Las demás que le encomiende el Secretario, el Subsecretario, o las disposiciones legales aplicables.
+X. Dar seguimiento y crear programas que promuevan o faciliten la regulación y auditoria ambiental en industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XI. Fortalecer la cultura ecológica mediante programas de educación ambiental;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XII. Proponer, desarrollar e implementar políticas de Educación y Capacitación, para promover el fortalecimiento de una sociedad sustentable, con justicia social, equidad, respeto a la diversidad cultural y biológica en el marco de una participación ciudadana activa;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIII. Impulsar y participar en campañas y programas educativos permanentes de protección ambiental y fomento de una cultura ecológica;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIV. Realizar las acciones que le competan a fin de preservar y restaurar el equilibrio ecológico y la protección al ambiente en la entidad, coordinando en su caso, la participación de las demás dependencias de la administración pública estatal en la materia, según sus respectivas competencias;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XV. Promover y realizar programas para el desarrollo de tecnologías limpias y procedimientos que permitan prevenir y controlar la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales, la conservación de los ecosistemas, y el desarrollo de procesos tecnológicos sustentables, con instituciones de educación superior, centros de investigación, instituciones públicas o privadas, organizaciones de la sociedad civil, organismos y cámaras empresariales, así como con otras entidades y dependencias de los tres niveles de gobierno;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVI. Participar en grupos de trabajo a nivel regional, nacional e internacional para incidir en el establecimiento y desarrollo de políticas públicas orientadas al desarrollo sustentable;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVII. Elaborar y coordinar campañas de educación, formación y difusión, orientadas a crear una cultura de responsabilidad ambiental sustentables (sic);
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVIII. Impulsar y desarrollar, en coordinación con otras instancias de gobierno, campañas y programas de educación ambiental, que permitan generar actitudes en beneficio del cuidado y la protección del medio ambiente y los recursos naturales, fomentando una cultura ecológica;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIX. Promover la creación de espacios, foros y eventos de divulgación de comunicación, educación y capacitación para el desarrollo urbano y sustentable, que permita establecer las bases para la toma de acuerdos en materia de educación ambiental;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XX. Crear el centro de Información y documentación ambiental;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXI. Facilitar la participación y la coordinación con los diferentes sectores de la sociedad en el ámbito de su competencia y favorecer la concientización y participación activa de la comunidad en la temática del desarrollo sustentable; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXII. Las demás que le encomiende el Secretario, el Subsecretario, o las disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO CUARTO
+
+DE LA DIRECCIÓN DE CALIDAD DEL AIRE Y REGISTRO DE EMISIONES Y TRANSFERENCIA DE CONTAMINANTES (RETC).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 25.
 
-La Dirección de Imagen y Educación Ecológica tendrá las siguientes funciones:
+La Dirección de Calidad del Aire y Registro de Emisiones y Transferencia de Contaminantes (RETC), tendrá las siguientes funciones:
 
-I. Fortalecer la cultura ecológica mediante programas de educación ambiental;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-II. Fomentar la concientización y la participación de la sociedad en la temática del desarrollo sustentable;
+I. Asesorar técnicamente a la Secretaría y a la Subsecretaría, así como a las demás unidades de la Secretaría en materia de calidad del aire y contaminación atmosférica, sus impactos, riesgos a la salud y los beneficios de su control;
 
-III. Fomentar políticas de preservación, conservación y aprovechamiento sustentable de la flora y la fauna silvestres, suelo, agua y otros recursos naturales, a través de la vinculación con todos los niveles de gobierno, instituciones educativas y con los diversos sectores de la sociedad;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-IV. Diseñar programas que promuevan o faciliten la regulación y auditoria ambiental en entidades gubernamentales, industrias, comercios y establecimientos de servicio, en el ámbito de la competencia estatal;
+II. Medir la contaminación a la atmósfera en el territorio del Estado, generada por fuentes fijas o móviles;
 
-V. Proponer, desarrollar e implementar políticas de Educación y Capacitación, para promover el fortalecimiento de una sociedad sustentable, con justicia social, equidad, respeto a la diversidad cultural y biológica en el marco de una participación ciudadana activa;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VI. Impulsar y participar en campañas y programas educativos permanentes de protección ambiental y fomento de una cultura ecológica;
+III. Programar, organizar, dar seguimiento y documentar las acciones de prevención, control y mitigación de emisión de gases contaminantes contenidas en el Programa de Gestión para mejorar la Calidad del Aire en el Área Metropolitana de Monterrey, junto con las autoridades ambientales federales y municipales;
 
-VII. Realizar las acciones que le competan a fin de preservar y restaurar el equilibrio ecológico y la protección al ambiente en la entidad, coordinando en su caso, la participación de las demás dependencias de la administración pública estatal en la materia, según sus respectivas competencias;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-VIII. Promover y realizar programas para el desarrollo de tecnologías limpias y procedimientos que permitan prevenir y controlar la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales, la conservación de los ecosistemas, y el desarrollo de procesos tecnológicos sustentables, con instituciones de educación superior, centros de investigación, instituciones públicas o privadas, organizaciones de la sociedad civil, organismos y cámaras empresariales, así como con otras entidades y dependencias de los tres niveles de gobierno;
+IV. Elaborar propuestas de reglamentación en materia de emisiones a la atmósfera, que permitan prevenir controlar y mitigar la contaminación del aire;
 
-IX. Emitir recomendaciones a las autoridades federales y municipales, con el propósito de promover el cumplimiento de la normatividad ambiental;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-X. Participar en grupos de trabajo a nivel regional, nacional e internacional para incidir en el establecimiento y desarrollo de políticas públicas orientadas al desarrollo sustentable;
+V. Buscar apoyo de universidades, institutos de investigación superior y fundaciones nacionales e internacionales en materia de calidad del aire y contaminación atmosférica, que permitan cumplir las acciones propuestas en los programas ambientales del Estado para reducir riesgos a la población por exposición a la contaminación del aire;
 
-XI. Elaborar y coordinar campañas de educación, formación y difusión, orientadas a crear una cultura de responsabilidad ambiental sustentables;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XII. Impulsar y desarrollar, en coordinación con otras instancias de gobierno, campañas y programas de educación ambiental, que permitan generar actitudes en beneficio del cuidado y la protección del medio ambiente y los recursos naturales, fomentando una cultura ecológica;
+VI. Vigilar la correcta operación de los equipos de medición de contaminantes y de parámetros meteorológicos de las estaciones de monitoreo de la calidad de aire del Sistema Integral de Monitoreo Ambiental (SIMA);
 
-XIII. Promover la creación de espacios, foros y eventos de divulgación de comunicación, educación y capacitación para el desarrollo urbano y sustentable, que permita establecer las bases para la toma de acuerdos en materia de educación ambiental;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XIV. Crear el centro de Información y documentación ambiental;
+VII. Asegurar la correcta operación de la red de monitoreo, el cumplimiento de los estándares de calidad de los datos adquiridos así como su suficiencia y su validación;
 
-XIV. Facilitar la participación y la coordinación con los diferentes sectores de la sociedad en el ámbito de su competencia y favorecer la concientización y participación activa de la comunidad en la temática del desarrollo sustentable; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-XV. Las demás que le confiera el Secretario, el Subsecretario o las disposiciones legales aplicables.
+VIII. Revisar continuamente la operación de los sistemas de captura de datos del Sistema Integral de Monitoreo Ambiental (SIMA) para asegurar el análisis eficiente de la información y la generación de estadísticas que permita tener un diagnóstico claro en las tendencias que se tienen en la calidad del aire en el Área Metropolitana de Monterrey así como la transferencia adecuada y oportuna de la información a otras unidades administrativas que necesiten los datos para el adecuado cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+IX. Preparar reportes mensuales y anuales de calidad del aire y asegurar su difusión;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+X. Atender solicitudes de información de la sociedad sobre datos de calidad del aire obtenidos con las estaciones de monitoreo del Sistema Integral de Monitoreo Ambiental;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XI. Preparar y mantener actualizada información histórica que permita evaluar avances en calidad del aire así como revisar el Programa de Respuesta a Contingencias Ambientales para proponer ajustes fundamentados técnicamente en los niveles de precontingencia y contingencia;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XII. Detectar oportunamente eventos extraordinarios de contaminación del aire, documentar sus orígenes y posibles tendencias y preparar notas para que el Secretario o el Subsecretario informen a la sociedad según la pertinencia del caso;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIII. Proponer al Subsecretario y al Secretario la declaratoria de contingencias ambientales, auxiliando a ambos en las acciones de coordinación con las dependencias y entidades competentes de la Administración Pública Estatal y los Municipios, para la aplicación de medidas orientadas a la prevención y control de contingencias ambientales, cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente no rebasen el territorio de la entidad, y no sea necesaria la acción exclusiva de la Federación;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIV. Promover y realizar mediciones de calidad del aire en el Estado, ya sea por solicitud municipal o grupos o asociaciones de vecinos, acordando sitios y fechas con las autoridades ambientales o con quién corresponda de acuerdo al programa de monitoreo municipal, preparar los reportes respectivos y publicarlos en la página Web de la Secretaría;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XV. Recibir los formatos de las Cédulas de Operación Anual (COA) de las empresas de jurisdicción estatal, revisar la información, solicitar correcciones y aclaraciones en casos de duda, actualizar la información reportada para generar una base de datos de las cédulas;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVI. Coordinarse con otras unidades administrativas de la Secretaría en el manejo, análisis, uso y publicación del Registro de Emisiones y Transferencia de Contaminantes (RETC), y de otra información contenida en las Cédulas de Operación Anual (COA) relativo a descargas al aire, agua, y suelos, así como al manejo de residuos, buscando mejorar los procesos de manejo, transferencia, uso y reporte de los datos que permitan trabajar a las demás unidades administrativas que usan la información en una forma más eficiente para integrar el registro de aguas residuales que se vierten a los sistemas de drenaje y alcantarillado o a cuerpos receptores de competencia estatal, y la información para los registros de generadores de residuos de manejo especial e inherente a la gestión integral de estos;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVII. Coordinarse con la Secretaría de Salud para realizar las evaluaciones que sean pertinentes para evaluar el riesgo a la salud por exposición a contaminantes tóxicos, así como preparar propuestas de reglamentación en emisiones y descargas de estos compuestos tóxicos;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XVIII. Proponer, revisar y evaluar la información desplegada por medio de un sistema georreferenciado de la información sobre emisiones de contaminantes criterio, Gases de Efecto Invernadero (GEI) y sustancias del Registro de Emisiones y Transferencia de Contaminantes (RETC) para su uso en estudios de calidad del aire y de evaluación de riesgo por exposición;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XIX. Promover el desarrollo de sistemas de evaluación de impactos en la calidad del aire que tengan las acciones que se implementen para reducir emisiones, o bien para evaluar el impacto del desarrollo urbano, así como los costos y beneficios esperados estimados mediante modelos de calidad del aire, económicos y de evaluación del riesgo por exposición de la población;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XX. Aplicar, en el ámbito estatal y dentro de la esfera de su competencia, así como las atribuciones que la Federación le transfiera al Estado a través de la Ley General, en el marco de las disposiciones que las mismas establecen en materia de calidad del aire;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXI. Proponer las medidas para hacer efectivas la reducción o eliminación de emisiones contaminantes de cualquier índole que rebasen los niveles máximos permisibles contenidos en la Ley General, la Ley Ambiental, reglamentos, Normas Oficiales Mexicanas Normas Ambientales Estatales y demás disposiciones en materia de contaminantes criterio, gases de efecto invernadero y compuestos tóxicos, salvo en los casos reservados a la Federación;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXII. Gestionar recursos para capacitar y mantener actualizado al personal de la dirección en temas de calidad del aire, compuestos tóxicos y llenado de las Cédulas de Operación Anual (COA), así como promover cursos de capacitación para la industria y sistemas de información para la sociedad en los mismos temas; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+XXIII. Las demás que le encomiende el Secretario, el Subsecretario, así como las disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO QUINTO
+
+DE LA DIRECCIÓN DE CAMBIO CLIMÁTICO.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+Artículo 25 bis. La Dirección de Cambio Climático, tendrá las siguientes funciones:
+
+I. Asesorar técnicamente a la Secretaría y a la Subsecretaría, así como a las demás unidades de la Secretaría en materia de cambio climático, sus impactos, riesgos y los beneficios de su control;
+
+II. Formular y evaluar la política estatal en materia de cambio climático en concordancia con la política nacional;
+
+III. Elaborar y someter a la aprobación del Secretario el Programa de Acción ante el Cambio Climático para el Estado de Nuevo León, promoviendo la participación social, escuchando y atendiendo a los sectores público, privado y sociedad en general;
+
+IV. Dar seguimiento y documentar las acciones de prevención, control y mitigación de emisiones de gases de efecto invernadero contenidas en el Programa de Acción ante el Cambio Climático para el Estado de Nuevo León, en coordinación con otras dependencias estatales, así como con las autoridades federales y municipales competentes;
+
+V. Establecer criterios y procedimientos para evaluar y vigilar el cumplimiento del programa estatal en la materia y establecer metas e indicadores de efectividad e impacto de las acciones de mitigación y adaptación que implementen;
+
+VI. Buscar apoyo de universidades, institutos de investigación superior y fundaciones nacionales e internacionales en materia de cambio climático, que permitan cumplir las acciones propuestas en los programas ambientales del Estado para la vulnerabilidad ante el cambio climático;
+
+VII. Requerir y generar la información que permita elaborar y dar seguimiento a inventarios de emisiones de gases de efecto invernadero;
+
+VIII. Evaluar el impacto de los proyectos que realiza el estado y que tengan impacto en emisiones de Gases de Efecto Invernadero (GEI) o su captura para valorar el avance en reducción de emisiones de Bióxido de Carbono equivalente (CO2eq), así como el impacto en emisiones de contaminantes criterio y tóxicos de los proyectos de urbanización, transporte, energía, y servicios;
+
+IX. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero para impulsar el transporte eficiente y sustentable, público y privado;
+
+X. Elaborar las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales para enfrentar al cambio climático;
+
+XI. Fomentar el uso de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático;
+
+XII. Promover cursos de capacitación para la industria y sistemas de información para la sociedad en el tema de cambio climático; y
+
+XIII. Las demás que le encomiende el Secretario, el Subsecretario, así como las disposiciones legales aplicables.
 
 ## TÍTULO SEXTO. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS
 
@@ -1010,3 +1346,13 @@ ALFREDO GERARDO GARZA DE LA GARZA
 EL C. SECRETARIO DE DESARROLLO SUSTENTABLE
 
 FERNANDO GUTIÉRREZ MORENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE”.]
+
+PRIMERO.- Las reformas al presente Reglamento Interior entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las unidades administrativas que se crean al amparo del presente Reglamento, serán habilitadas con personal y recursos materiales una vez que se cuente con la autorización de suficiencia presupuestal emitida por la Secretaría de Finanzas y Tesorería General del Estado. Mientras no se expida la autorización de suficiencia presupuestal para la contratación de personal y equipamiento, el Secretario facultará a los servidores públicos actualmente adscritos a la Secretaría de Desarrollo Sustentable, para que en forma honoraria ejerzan las atribuciones conferidas a las referidas unidades administrativas.
