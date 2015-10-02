@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2015-04-10"
+last_updated: "2015-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE ABRIL DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -675,15 +673,23 @@ La Defensoría de los Derechos Humanos de Querétaro, es un organismo público, 
 
 El Presidente de la Defensoría de los Derechos Humanos de Querétaro, durará en su encargo cinco años, pudiendo ser reelecto por un periodo igual y sólo podrá ser removido por las causas graves que la ley señale y con la misma votación requerida para su nombramiento.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
 Apartado B
 
-La Comisión Estatal de Información Gubernamental, es un organismo especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
+La Comisión Estatal de Información Gubernamental, es un organismo autónomo colegiado, especializado e imparcial, con autonomía operativa, de gestión y de decisión, que se encargará de garantizar el ejercicio, disfrute, promoción, difusión e investigación del derecho de los gobernados para acceder a la información pública, en los términos de la Constitución Política de los Estados Unidos Mexicanos y demás leyes aplicables.
 
-La Comisión se integrará por cuatro comisionados electos por las dos terceras partes de los integrantes de la Legislatura del Estado.
+La Comisión se integrará por tres Comisionados electos por las dos terceras partes de los integrantes de la Legislatura del Estado, durarán siete años en el ejercicio del cargo y sólo podrán ser removidos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y serán sujetos de juicio político.
 
-Los Comisionados durarán cuatro años en el ejercicio del cargo; podrán ser reelectos para un periodo inmediato siguiente y sólo podrán ser removidos por las causas graves que la ley señale y con la misma votación requerida que para su nombramiento.
+En su funcionamiento, la Comisión se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+El organismo garante tendrá un Consejo Consultivo, integrado por tres consejeros, que serán electos en los términos que establezca la Ley de la materia.
+
+Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
 
 > <small>(ADICIONADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -1548,3 +1554,15 @@ Artículo Séptimo. Conforme al Artículo Noveno Transitorio del Decreto por el 
 La liquidación del Instituto Electoral de Querétaro, se sujetará a las leyes que resulten aplicables en la materia.
 
 Artículo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor el 1 de febrero de 2016.
+
+Artículo Segundo. Con la finalidad de garantizar el escalonamiento en el nombramiento de los Comisionados, se amplia por 5 años el periodo del Comisionado Presidente de la Comisión Estatal de Información Gubernamental, a partir de la entrada en vigencia de la presente reforma, quien se desempeñará como Presidente durante el periódo de su encargo.
+
+Artículo Tercero. La Legislatura del Estado nombrará, antes de la entrada en vigencia de la presente reforma, a dos Comisionados que conformarán, junto con el Presidente, el Pleno de la Comisión. Uno de los Comisionados será electo por 6 años y otro por 7 años, para garantizar el escalonamiento en la renovación de la Comisión.
+
+Artículo Cuarto. La Legislatura del Estado proveerá, en el Presupuesto de Egresos para el ejercicio del año 2016, lo necesario para garantizar el adecuado funcionamiento de Comisión Estatal de Información Gubernamental, atendiendo al incremento en sus atribuciones y estructura.
+
+Artículo Quinto. Los actuales Comisionados Honorarios de la Comisión Estatal de Información Gubernamental serán Consejeros del Órgano Consultivo y permanecerán en el mismo por el periodo que fueron electos.
