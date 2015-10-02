@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-proteccion-de-datos-personales-para-el-estado-y-los-5054
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-19"
-last_updated: "2015-09-25"
+last_updated: "2015-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GUA"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 14 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 19 de mayo de 2006.
 
@@ -469,9 +471,11 @@ Inicio de vigencia
 
 Artículo Primero. El presente Decreto entrará en vigencia el 1 de enero de 2016.
 
+> <small>(F. DE E., P.O. 2 DE OCTUBRE DE 2015)</small>
+
 Abrogación
 
-Artículo Segundo. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, Segunda Parte, de fecha 19 de noviembre de 2010.
+Artículo Segundo. Se abroga la Ley para la Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, contenida en el Decreto Legislativo número 91, publicado en el Periódico Oficial del Gobierno del Estado número 185, segunda parte, de fecha 19 de noviembre de 2010.
 
 Plazos para ajustar reglamentos y decretos
 
