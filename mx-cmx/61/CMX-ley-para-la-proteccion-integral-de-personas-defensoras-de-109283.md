@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-proteccion-integral-de-personas-defensoras-de-10928
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-10"
-last_updated: "2015-08-10"
+last_updated: "2015-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109283&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2015-08-07"
 ---
 # LEY PARA LA PROTECCION INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE OCTUBRE DE 2015 EN LA G.O. DEL DISTRITO FEDERAL SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA LA PROTECCIÓN INTEGRAL DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL DISTRITO FEDERAL
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 2 DE OCTUBRE DE 2015.]</small>
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 10 de agosto de 2015.
 
@@ -190,25 +190,27 @@ Las resoluciones que emita serán obligatorias para las autoridades y Entidades 
 
 La Junta de Gobierno estará integrada por las personas titulares de las siguientes dependencias:
 
-I. Secretaría de Gobierno del Distrito Federal
+I. Secretaría de Gobierno del Distrito Federal.
 
-II. Secretaría de Seguridad Pública del Distrito Federal
+II. Secretaría de Seguridad Pública del Distrito Federal.
 
-III. Procuraduría General de Justicia del Distrito Federal
+III. Procuraduría General de Justicia del Distrito Federal.
 
-IV. Secretaría del Trabajo y Fomento al Empleo del Distrito Federal
+IV. Secretaría del Trabajo y Fomento al Empleo del Distrito Federal.
 
-V. Secretaría de Desarrollo Social del Distrito Federal
+V. Secretaría de Desarrollo Social del Distrito Federal.
 
-VI. Secretaría de Salud del Distrito Federal
+VI. Secretaría de Salud del Distrito Federal.
 
-VII. Sistema para el Desarrollo Integral de la Familia del Distrito Federal
+VII. Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
 
-VIII. Secretaría de Finanzas del Distrito Federal
+VIII. Secretaría de Finanzas del Distrito Federal.
 
-IX. Contraloría General del Distrito Federal
+IX. Contraloría General del Distrito Federal.
 
-X. Dos personas representantes de la Sociedad Civil integrantes del Consejo Consultivo; dos periodistas, una persona vinculada con la libertad de expresión y una con el derecho a defender derechos humanos.
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
+
+X. Dos personas representantes de la Sociedad Civil integrantes del Consejo Consultivo; una persona vinculada con la libertad de expresión, una persona periodista, una persona con el derecho a defender derechos humanos, una persona vinculada con la libertad de expresión o periodistas.
 
 Las y los titulares integrantes de la Junta de Gobierno, podrán nombrar como suplentes a personas con cargo mínimo de Director o Directora General o su homólogo. La Junta de Gobierno estará integrada por personas titulares y suplentes, quienes podrán suplir las ausencias de la propietaria.
 
@@ -234,7 +236,9 @@ Para la adopción de acuerdos en la Junta de Gobierno se privilegiará el consen
 
 Las facultades de la Junta de Gobierno, además de las atribuciones a que se refiere el artículo 70 de la Ley Orgánica de la Administración Pública del Distrito Federal, son las siguientes:
 
-I. Facilitar la coordinación, a través de la Dirección, entre las autoridades competentes, según corresponda, así como con personas y organizaciones sociales y privadas que se relacionen con los objetivos del Mecanismo. En el caso de ausencia de convenio con autoridades federales u otras entidades, no priva que la Junta de Gobierno pueda coordinar acciones de manera directa con las autoridades responsables de implementación de medidas.
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
+
+I. Facilitar la coordinación, a través de la Dirección, entre las autoridades competentes, según corresponda, así como con personas y organizaciones sociales y privadas que se relacionen con los objetivos del Mecanismo. En el caso de ausencia de convenio con autoridades federales u otras entidades no priva que la Junta de Gobierno pueda coordinar acciones de manera directa con las autoridades responsables de implementación de medidas.
 
 II. Coordinar acciones de apoyo con la Dirección para cumplir con sus facultades.
 
@@ -248,7 +252,9 @@ VI. Aprobar el plan de trabajo del Mecanismo.
 
 VII. Analizar y, en su caso aprobar, los informes periódicos y estados financieros que presente la Dirección.
 
-VIII. Elegir mediante convocatoria pública a las personas que establece la fracción X del artículo 10 del presente ordenamiento.
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
+
+VIII. Validar la elección de las personas que establece la fracción X del artículo 10 del presente ordenamiento.
 
 IX. Las demás que se otorguen por acuerdo del Jefe de Gobierno o por los ordenamientos aplicables.
 
@@ -372,15 +378,17 @@ VI. Elaborar y aprobar las guías o protocolos de procedimientos vinculados a su
 
 El Consejo de Evaluación de Medidas está integrado por los representantes de:
 
-I. Secretaría de Gobierno del Distrito Federal
+I. Secretaría de Gobierno del Distrito Federal.
 
-II. Secretaría de Seguridad Pública del Distrito Federal
+II. Secretaría de Seguridad Pública del Distrito Federal.
 
-III. Procuraduría General de Justicia del Distrito Federal
+III. Procuraduría General de Justicia del Distrito Federal.
 
-IV. Secretaría de Desarrollo Social del Distrito Federal
+IV. Secretaría de Desarrollo Social del Distrito Federal.
 
-Cuatro representantes de (sic) sociedad civil, integrantes del Consejo Consultivo; dos personas vinculadas con la libertad de expresión y dos con el derecho a defender derechos humanos y dos periodistas.
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
+
+V. Cuatro representantes de (sic) Sociedad Civil, integrantes del Consejo Consultivo; dos personas vinculadas con la libertad de expresión o el periodismo y dos con el derecho a defender derechos humanos.
 
 Las sesiones de este órgano se llevarán a cabo ordinariamente como mínimo una vez al mes, hasta agotar todos los temas programados en cada sesión y deberá contar con un quórum de la mitad más uno de sus integrantes. Esto no priva que se puedan celebrar sesiones extraordinarias cuando algún asunto así lo requiera.
 
@@ -430,11 +438,15 @@ Las Medidas acordadas deberán comunicarse por escrito a la, el o los beneficiar
 
 El Consejo Consultivo es un órgano civil de consulta, opinión, asesoría y monitoreo de la aplicación de los planes de trabajo de la Junta de Gobierno, participación en la planeación anual del Mecanismo, colaboración en el diseño de los programas preventivos y, en su caso, emitir opiniones sobre el funcionamiento general de la Junta de Gobierno o por quejas de personas beneficiarias.
 
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-El Consejo Consultivo elegirá a sus integrantes a través de una convocatoria pública emitida por la Junta de Gobierno, que será integrada por nueve personas consejeras.
+El Consejo Consultivo elegirá a sus representantes a través de una convocatoria pública emitida por la Junta de Gobierno, que será integrada por seis personas consejeras.
 
-De las cuales tres serán personas expertas en la defensa de los derechos humanos, tres en libertad de expresión y tres periodistas. En la integración del Consejo Consultivo se asegurará un equilibrio de género.
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
+
+Tres serán personas expertas en la defensa de los derechos humanos, tres en el ejercicio del periodismo o la libertad de expresión. En la integración del Consejo Consultivo se asegurará un equilibrio de género.
 
 ###### Artículo 28.
 
@@ -850,9 +862,13 @@ SEXTO.- La primera sesión de la Junta de Gobierno se instalará en el término 
 
 SÉPTIMO.- Una vez instalada la primera sesión de la Junta de Gobierno tendrá como término diez días hábiles para emitir la convocatoria pública a organizaciones de la sociedad civil involucradas en la defensa y protección de los derechos humanos, así como en el ejercicio del periodismo y la libertad de expresión para conformar el primer Consejo Consultivo.
 
-OCTAVO.- Una vez emitida la convocatoria a que se refiere el Artículo Séptimo Transitorio, las organizaciones de la sociedad civil involucradas en la defensa y promoción de los derechos humanos y en el ejercicio del periodismo y la libertad de expresión, se registrarán ante la Junta de Gobierno y entre ellas elegirán a los nueve integrantes del primer Consejo Consultivo, en un término de un mes contados (sic) a partir del cierre del registro. Una vez proporcionada la lista de las personas integrantes del Consejo Consultivo a la primera sesión de la Junta de Gobierno, éste se instalará en un término de diez días hábiles.
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
 
-NOVENO.- En la conformación del primer Consejo Consultivo y por única vez, sus nueve integrantes realizarán un sorteo para definir la permanencia de 4 años de tres de sus integrantes que además se integrarán a la Junta de Gobierno por ese lapso; en el mismo sorteo se decidirá la permanencia de 3 años para otros tres integrantes y de 2 años para las tres personas restantes. Estos seis integrantes del Consejo Consultivo se incorporarán al Consejo de Evaluación de Medidas. En todos los casos, como lo marca la presente ley, al término del plazo de permanencia respectiva podrán postularse para ser reelectos por una sola ocasión como consejeros o consejeras por cuatro años.
+OCTAVO.- Una vez emitida la convocatoria a que se refiere el Artículo Séptimo Transitorio, las organizaciones de la Sociedad Civil involucradas en la defensa y promoción de los derechos humanos y en el ejercicio del periodismo y la libertad de expresión, se registrarán ante la Junta de Gobierno y entre ellas elegirán a los seis integrantes del Primer Consejo Consultivo, en un término de un mes contados (sic) a partir del cierre del registro. Una vez proporcionada la lista de las personas integrantes del Consejo Consultivo, a la Primera Sesión de la Junta de Gobierno éste se instalará en un término de diez días hábiles.
+
+> <small>(F. DE E., G.O. 2 DE OCTUBRE DE 2015)</small>
+
+NOVENO.- En la conformación del Primer Consejo Consultivo y por única vez, sus nueve integrantes realizarán un sorteo para definir la permanencia de 4 años de tres de sus integrantes que además se integrarán a la Junta de Gobierno por ese lapso; en el mismo sorteo se decidirá la permanencia de 3 años para otros tres integrantes y de 2 años para las tres personas restantes. Estos seis integrantes del Consejo Consultivo se incorporarán al Consejo de Evaluación de Medidas. En todos los casos, como lo marca la presente ley, al término del plazo de permanencia respectiva podrán postularse para ser reelectos por una sola ocasión como Consejeros o Consejeras por cuatro años.
 
 DÉCIMO.- La Dirección deberá realizar las gestiones necesarias para formar la estructura necesaria para cumplir con las obligaciones establecidas en la presente Ley y garantizará contar con los recursos humanos, técnicos, materiales y financieros para estos objetivos.
 
