@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2012-11-07"
+last_updated: "2015-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -411,7 +411,9 @@ III. Pactar colectivamente mediante convenios suscritos con los Sindicatos; revi
 
 IV. Cumplir con todos los servicios de higiene y prevención de accidentes, creando Comisiones Mixtas, mismas que reglamentarán esta actividad de acuerdo con las disposiciones legales vigentes y las necesidades propias de los centros de trabajo;
 
-V. Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado injustificadamente, y hacer el pago de los salarios vencidos y demás prestaciones a que fueren condenadas por laudo ejecutoriado, o a la elección del Trabajador a indemnizarlo con tres meses de salario y salarios caídos;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+V. Reinstalar a los trabajadores en las plazas de las cuales los hubieren separado injustificadamente, y hacer el pago de los salarios vencidos y demás prestaciones a que fueren condenadas por laudo ejecutoriado, o a la elección del Trabajador a indemnizarlo en los términos del artículo 175 Bis de la presente Ley;
 
 En los casos de supresión de plazas, plenamente justificadas, los trabajadores afectados tendrán derecho a que se le otorgue otra equivalente en categoría y sueldo, o a elección del trabajador a que se le indemnice en los términos del párrafo anterior.
 
@@ -573,9 +575,11 @@ IV. Las análogas a las establecidas en las fracciones anteriores y que sean de 
 
 V. Despedir a las mujeres trabajadoras por el hecho de estar embarazadas, pertenecer a un estado civil determinado, o estar al cuidado de hijos menores.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 59.
 
-En los casos a que se refiere el artículo anterior se deberán pagar los salarios vencidos en su caso, las demás prestaciones que establece esta Ley, tres meses de salario, veinte días por cada año de servicio y la prima de antigüedad independientemente del tiempo de servicio.
+En los casos a que se refiere el artículo anterior, se deberán pagar, en su caso, los salarios vencidos en los términos del artículo 175 Bis y las demás prestaciones que establece esta Ley; tres meses de salario; veinte días por cada año de servicio; y la prima de antigüedad, independientemente del tiempo de servicio.
 
 ## Título Quinto
 
@@ -1425,9 +1429,13 @@ El Presidente del Tribunal percibirá las remuneraciones y percepciones que esta
 
 El Tribunal de Conciliación y Arbitraje será competente:
 
-I. Para conocer y resolver los conflictos individuales que se susciten entre los titulares de las entidades públicas del Estado y municipios y sus Trabajadores;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
 
-II. Para conocer y resolver los conflictos colectivos que surjan entre las entidades públicas del Estado y municipios y las Organizaciones Sindicales de Trabajadores;
+I. Para conocer y resolver, en el plazo máximo de doce meses, los conflictos individuales que se susciten entre las entidades públicas y sus trabajadores;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+II. Para conocer y resolver, en el plazo máximo de doce meses, los conflictos colectivos que surjan entre las entidades públicas y las organizaciones sindicales de trabajadores;
 
 III. Para conocer de los conflictos sindicales, intersindicales o intrasindicales a petición de éstos;
 
@@ -1533,6 +1541,16 @@ Los titulares de las Entidades Públicas del Estado y municipios, podrán hacers
 
 Antes de pronunciarse el laudo, los integrantes del Tribunal podrán solicitar mayor información y ordenar la práctica de cuantas diligencias estime necesarias para el debido esclarecimiento de la verdad y obtener mayores elementos de juicio.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 175 Bis.
+
+Cuando proceda, el trabajador será indemnizado con salarios vencidos que se calcularán desde la fecha del despido hasta por un máximo de doce meses, a razón del que le corresponda en la fecha en que el trabajador fuera despedido.
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, también se pagarán al trabajador los intereses que se generen sobre el importe de doce meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
+
 ###### Artículo 176.
 
 Se tendrá por desistida de la acción y de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. El Tribunal de oficio o a petición de la otra parte, una vez transcurrido este término, declarará la extinción de la acción intentada previa audiencia con las partes.
@@ -1556,6 +1574,14 @@ Cualquier incidente que se suscite sobre personalidad, competencia, nulidad de a
 ###### Artículo 180.
 
 El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquier otra forma. Las sanciones consistirán en amonestación o multa; ésta no excederá de ocho días de salario mínimo vigente diario general de la zona.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+También sancionará a los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral; se les impondrá una multa de 100 a 1000 veces el Salario Mínimo General Diario Vigente en la Zona.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2015)</small>
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días, sin pago de salario y, en caso de reincidencia, la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la administración de justicia.
 
 ###### Artículo 181.
 
@@ -1732,3 +1758,9 @@ P.O. 7 DE NOVIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 2 DE OCTUBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
