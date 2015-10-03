@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2014-12-05"
+last_updated: "2015-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -295,9 +295,9 @@ V. Secretaría de Educación
 
 VI. Secretaría de la Contraloría General;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-VII. Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+VII. Secretaría de Desarrollo Rural y Medio Ambiente;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -315,9 +315,7 @@ IX. Secretaría de Turismo;
 
 X. Secretaría de Salud;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2007)</small>
-
-XI. Secretaría del Medio Ambiente;
+XI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -337,9 +335,7 @@ XIV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2014)
 
 XV. Secretaría de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
-
-XVI. Secretaría de Desarrollo Social; y
+XVI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2015)
 
 XVII. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2012)
 
@@ -749,13 +745,33 @@ XIX. Asesorar y apoyar técnicamente a los Ayuntamientos en la elaboración de s
 
 XX. Participar en coordinación con la Secretaría de Administración y Finanzas en la elaboración y actualización de los programas estatales de gasto e inversión pública;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XXI. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a la planeación, programación y presupuestación, y
+XXI. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a la planeación, programación y presupuestación;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XXII. Las demás que le atribuyan las leyes, reglamentos y convenios, y las que le confiera el Gobernador del Estado.
+XXII. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida de la gente, propiciando la celebración de convenios con los gobiernos federal y municipales, así como con los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXIII. Elaborar los programas regionales y especiales que le señale el Titular del Poder Ejecutivo, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales, así como autorizar las acciones e inversiones establecidas en el Presupuesto de Egresos;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXIV. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas indígenas, de las áreas rurales, así como de los colonos de la áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Estatal que correspondan y de los gobiernos municipales, así como con la participación de los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXV. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Estatal que correspondan, de los gobiernos federal y municipales, así como de las instituciones de crédito y diversos grupos sociales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXVI. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos federal y municipales, así como con la participación de los sectores social y privado, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXVII. Las demás que le atribuyan las leyes, reglamentos, convenios, y las que le confiera el Gobernador del Estado.
 
 ###### Artículo 35.
 
@@ -957,9 +973,9 @@ VI. Solicitar a las dependencias o entidades de la Administración Pública Esta
 
 VII. Organizar, coordinar y promover el desarrollo administrativo integral de la Administración Pública Estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de las mismas, sean aprovechados y aplicados con criterios de eficiencia, austeridad y racionalidad, buscando en todo momento la eficacia, descentralización, desconcentración y simplificación administrativa. Para ello podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las entidades de la Administración Pública Estatal;
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-VIII. Implementar los procedimientos de modernización, reestructuración o simplificación administrativa en coordinación con la Secretaría de Administración;
+VIII. Implementar los procedimientos de modernización, reestructuración o simplificación administrativa en coordinación con la Secretaría de Administración y Finanzas;
 
 IX. Efectuar la vigilancia de las subvenciones otorgadas, cuidando su correcta aplicación para alcanzar los fines que originaron su otorgamiento;
 
@@ -1027,11 +1043,11 @@ XXXVII. Vigilar el cumplimiento de las normas internas de la Secretaría, fincan
 
 XXXVIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 38.
 
-A la Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca le corresponden las siguientes atribuciones:
+A la Secretaría de Desarrollo Rural y Medio Ambiente le corresponden las siguientes atribuciones:
 
 I. Proponer al Gobernador del Estado la política de desarrollo rural y planear, fomentar y promover el desarrollo agrícola, ganadero, forestal, pesquero, hidráulico y agroindustrial del estado, con la participación de los sectores social y privado, conforme a las leyes y convenios de la materia; así como intervenir en la atención y solución de los problemas agrarios en el estado;
 
@@ -1049,7 +1065,9 @@ VII. Vigilar que los programas que se realicen en materia agropecuaria, pesquera
 
 VIII. Establecer programas y acciones que tiendan a incrementar la productividad y la rentabilidad de las actividades rurales en la entidad;
 
-IX. Participar con las autoridades federales y estatales competentes, en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento de la producción rural, así como para evaluar sus resultados;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+IX. Participar, colaborar, coordinar y gestionar con las autoridades federales, estatales y municipales competentes, la celebración de convenios en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento a la producción rural en la entidad a que pertenezcan, así como para evaluar sus resultados;
 
 X. Coadyuvar en la organización y promoción de congresos, ferias, exposiciones, y concursos agrícolas ganaderos, forestales y pesqueros en el estado, así como promover la participación de productores del estado en eventos de carácter nacional e internacional;
 
@@ -1061,7 +1079,9 @@ XIII. Elaborar y mantener actualizados los inventarios de los recursos agrícola
 
 XIV. Mantener actualizados los directorios de productores agrícolas, ganaderos, forestales y pesqueros del estado, así como el padrón de agroindustrias;
 
-XV. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura hidráulica necesaria para apoyar las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales en el estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XV. Realizar estudios y proyectos para la construcción o reconstrucción de la infraestructura necesaria para apoyar las actividades agrícolas, ganaderas, forestales, pesqueras y agroindustriales en el Estado, ya sea en forma directa o a través de la contratación o subcontratación de los servicios de empresas públicas o privadas;
 
 XVI. Conservar y fomentar el desarrollo de la flora y la fauna fluvial y lacustre en el estado;
 
@@ -1073,9 +1093,121 @@ XIX. Promover la creación de proyectos bilaterales de investigación, capacitac
 
 XX. Concertar con instituciones de investigación y enseñanza, consultores, técnicos, productores e industriales, el desarrollo, validación e introducción de tecnologías de punta en las actividades agrícolas, ganaderas, forestales y pesqueras del estado;
 
-XXI. Coordinar con el gobierno federal y con las entidades federativas los programas de sanidad animal y vegetal, así como atender, supervisar y evaluar las campañas de sanidad del estado, con la participación de los gobiernos municipales y del sector privado; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XXII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+XXI. Coordinar con el gobierno federal y con las entidades federativas los programas de sanidad animal y vegetal, así como atender, supervisar y evaluar las campañas de sanidad del Estado, con la participación de los gobiernos municipales y del sector privado;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXII. Establecer centros de rendimiento agropecuario y pesquero en el territorio del Estado, que permitan acercar los programas y acciones a los productores, para incrementar la productividad y la rentabilidad de las actividades rurales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXIII. Participar en la elaboración del Plan Estatal de Desarrollo, definiendo las políticas de protección, restauración y conservación de los recursos naturales de la entidad, así como de mitigación y adaptación al cambio climático, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, la prevención y disminución de la contaminación ambiental e impulsar la educación ambiental y reducir la vulnerabilidad ante el cambio climático, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXIV. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXV. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente, con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias en la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXVI. Promover y certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales, así como de prevención y disminución de la contaminación ambiental;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXVII. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXVIII. Participar en coordinación con los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXIX. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXX. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXI. Asegurar el exacto cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y, en su caso, las sanciones procedentes;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXII. Promover en coordinación con la Secretaría de Educación, la incorporación de contenidos ambientales y de cambio climático en la política educativa del Estado, y en los planes y programas de estudios; así como la formación de actitudes y valores de protección y conservación del patrimonio natural, concertando institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXIII. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXIV. Fomentar ante los particulares la realización de procesos voluntarios de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXV. En coordinación con autoridades federales, estatales y municipales, y otorgando la participación que corresponda a las universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico, protección al ambiente, y las demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXVI. Conformar y planear la operación del Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXVII. Participar con las autoridades federales, estatales y municipales que correspondan, de conformidad a la distribución de competencias que establecen las leyes en materia de equilibrio ecológico y protección al ambiente y de cambio climático, en la formulación y desarrollo de programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad, prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas, así como acciones de mitigación y adaptación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXVIII. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y de educación superior;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXIX. Promover la participación social y de la comunidad científica en la formulación y aplicación de la política ambiental y de cambio climático;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XL. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente y resolver los recursos de revisión que formulen los particulares de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLI. Ejercer por acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia ambiental contengan los convenios celebrados con la federación y los gobiernos municipales;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLII. Formular, regular, dirigir e instrumentar acciones de mitigación y adaptación al cambio climático, en el ámbito de competencia del Estado conforme a la Ley General de la materia;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLIII. Elaborar e instrumentar su programa en materia de cambio climático, promoviendo la participación social, escuchando y atendiendo a los sectores público, privado y sociedad en general, estableciendo metas e indicadores de efectividad e impacto de las acciones de mitigación y adaptación que se implementen;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLIV. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLV. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero, para impulsar el transporte eficiente y sustentable, público y privado;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLVI. Elaborar e integrar la información de las categorías de fuentes emisoras en el Estado e integrar el inventario estatal de emisiones;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLVII. Establecer las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales, para enfrentar al cambio climático;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLVIII. Gestionar y administrar fondos estatales para apoyar e implementar las acciones de mitigación y adaptación al cambio climático, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XLIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1483,49 +1615,7 @@ XVIII. Asesorar a los Ayuntamientos de la entidad en materia de salud pública; 
 
 XIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 40 A.- A la Secretaria del Medio Ambiente le corresponde (sic) las siguientes atribuciones:
-
-I. Participar en la elaboración del Plan Estatal de Desarrollo, definiendo las políticas de protección, restauración y conservación de los recursos naturales de la entidad, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, la prevención y disminución de la contaminación ambiental e impulsar la educación ambiental, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
-
-II. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
-
-III. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias existente;
-
-IV. Promover y certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental;
-
-V. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, según les corresponda, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
-
-VI. Participar en coordinación con los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
-
-VII. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
-
-VIII. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
-
-IX. Asegurar el exacto cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y sanciones procedentes;
-
-X. Promover en coordinación con la Secretaría de Educación, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural, así como concertar institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
-
-XI. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
-
-XII. Fomentar ante los particulares la realización de procesos voluntarios de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
-
-XIII. En coordinación con las autoridades federales, estatales y municipales y otorgando la participación que corresponda a las universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico y protección al ambiente y las demás disposiciones aplicables;
-
-XIV. Conformar y planear la operación del Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
-
-XV. Participar con las autoridades federales, estatales y municipales que correspondan, de conformidad a la distribución de competencias que establecen las leyes en materia de equilibrio ecológico y protección al ambiente, en la formulación y desarrollo de programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad y prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas;
-
-XVI. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y educación superior;
-
-XVII. Promover la participación social y de la comunidad científica en la formulación y aplicación de la política ambiental;
-
-XVIII. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente, y resolver los recursos de revisión que formulen los particulares de conformidad a las disposiciones aplicables;
-
-XIX. Ejercer, por Acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia ambiental, contengan los convenios celebrados con la Administración Pública Federal y los gobiernos municipales; y
-
-XX. Las demás que le confieran esta Ley y otras disposiciones legales aplicables.
+Artículo 40 A.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
 
@@ -1677,51 +1767,9 @@ XXIV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le
 
 (DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
-
 ###### Artículo 41 Ter.
 
-A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
-
-I. Formular, conducir y evaluar la política general de desarrollo social para el combate efectivo a la pobreza; en particular, la de asentamientos humanos, desarrollo urbano y vivienda;
-
-II. Proyectar y coordinar, con la participación que corresponda a los gobiernos federal y municipales, la planeación regional;
-
-III. Coordinar las acciones que incidan en el combate a la pobreza fomentando un mejor nivel de vida de la gente, propiciando la celebración de convenios con los gobiernos federal, municipales y los sectores social y privado;
-
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
-
-IV. Elaborar los programas regionales y especiales que le señale el Titular del Poder Ejecutivo tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales, así como autorizar las acciones e inversiones establecidas en el Presupuesto de Egresos en coordinación con la Secretaría de Planeación, Programación y Presupuesto;
-
-V. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas indígenas, de las áreas rurales, así como de los colonos de las áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública estatal correspondientes y de los gobiernos municipales y, con la participación de los sectores social y privado;
-
-VI. Elaborar el Programa Estatal de Desarrollo Social y someterlo a consideración del Ejecutivo para su aprobación;
-
-VII. Coordinar las acciones en materia de atención a migrantes, en coordinación con los gobiernos federal y municipales y fomentando la participación de las organizaciones sociales de la materia;
-
-VIII. Proyectar la distribución de la población y la ordenación territorial de los centros de población, conjuntamente con las dependencias y entidades de la Administración Pública que corresponda, así como coordinar las acciones que el Ejecutivo convenga con los gobiernos federal y municipales para la realización de acciones coincidentes en esta materia, con la participación de los sectores social y privado;
-
-IX. Elaborar, apoyar y ejecutar programas para satisfacer las necesidades de suelo urbano y el establecimiento de provisiones y reservas territoriales para el adecuado desarrollo de los centros de población, en coordinación con las dependencias y entidades de la Administración Pública Estatal correspondientes y los gobiernos federal y municipales, y con la participación de los sectores social y privados;
-
-X. Promover y concertar programas de vivienda y de desarrollo urbano, y apoyar su ejecución, con la participación de los gobiernos estatales y municipales, y los sectores social y privado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2014)</small>
-
-XI. Fomentar la organización de sociedades cooperativas de vivienda y materiales de construcción, en coordinación con la Secretaría del Trabajo, Productividad y Desarrollo Económico;
-
-XII. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Estatal correspondientes, de los gobiernos federal y municipales, de las instituciones de crédito y de los diversos grupos sociales;
-
-XIII. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos estatales y municipales y con la participación de los sectores social y privado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADA, P.O. 24 DE OCTUBRE DE 2014) (F. DE E., P.O. 5 DE DICIEMBRE DE 2014)
-
-XIV. Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a las Secretarías del Trabajo, Productividad y Desarrollo Económico y de Agricultura, Ganadería, Desarrollo Rural y Pesca; bajo principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales, y
-
-XV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2015)
 
 ###### Artículo 41 Quater.
 
@@ -2141,7 +2189,7 @@ Tercero.- A la entrada en vigor del presente decreto, se iniciará el traspaso d
 
 Cuarto.- En la transferencia de los recursos humanos se deberán respetar los derechos laborales de los trabajadores.
 
-Quinto.- Dentro del plazo tres (sic) meses contados a partir de la entrada en vigor del presente decreto, se deberán realizar los cambios conducentes al Presupuesto de Egresos, de conformidad al Programa de Transferencia de Recursos a que se refiere el artículo anterior.
+Quinto.- Dentro del plazo (sic) tres meses contados a partir de la entrada en vigor del presente decreto, se deberán realizar los cambios conducentes al Presupuesto de Egresos, de conformidad al Programa de Transferencia de Recursos a que se refiere el artículo anterior.
 
 Sexto.- En razón de la redistribución de competencias, cuando la ley haga referencia a alguna atribución conferida a alguna de las secretarías que han sido modificadas en su denominación, se entenderá que estas deben ser ejercidas por cada una de las Secretarías creadas en el presente Decreto, atendiendo a la naturaleza y ramo de que se trate.
 
@@ -2184,3 +2232,15 @@ Segundo.- Una vez publicado el presente Decreto y para los efectos conducentes, 
 Tercero.- A la entrada en vigor del presente Decreto se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros, de conformidad con los acuerdos de transferencia que al efecto disponga el Titular del Poder Ejecutivo.
 
 Cuarto.- Los servidores públicos adscritos a la Secretaría del Trabajo y a la Secretaría de Desarrollo Económico no resultarán afectados en sus derechos laborales adquiridos, al incorporarse a la Secretaría del Trabajo, Productividad y Desarrollo Económico.
+
+P.O. 3 DE OCTUBRE DE 2015.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Una vez publicado el presente Decreto, la Secretaría de Administración y Finanzas, deberá contemplar las adecuaciones correspondientes en el proyecto de Presupuesto de Egresos del Estado para el ejercicio fiscal 2016.
+
+Tercero.- Dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse y en su caso expedirse los reglamentos interiores de la Secretaría de Planeación, Programación y Presupuesto y de la Secretaría de Desarrollo Rural y Medio Ambiente.
+
+Cuarto.- A la entrada en vigor el (sic) presente Decreto, se realizará el traspaso de los recursos humanos, materiales, técnicos y financieros de la Secretaría de Desarrollo Social a la Secretaría de Planeación, Programación y Presupuesto; y de la Secretaría del Medio Ambiente y la Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca, a la Secretaría de Desarrollo Rural y Medio Ambiente, de conformidad con los Acuerdos de transferencia que al efecto disponga el Titular del Poder Ejecutivo.
+
+Quinto.- Los servidores públicos adscritos a la Secretaría de Desarrollo Social, Secretaría del Medio Ambiente y Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca, no resultarán afectados en sus derechos laborales adquiridos.
