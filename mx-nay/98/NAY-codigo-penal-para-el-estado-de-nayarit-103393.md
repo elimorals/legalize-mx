@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2015-05-28"
+last_updated: "2015-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "NAY"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE NOVIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
 > <small>N. DE E. LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -317,7 +319,9 @@ XVI. Filicidio, previsto por el artículo 367;
 
 XVII. Los delitos de amenazas previsto en el artículo 316, asalto tipificado en los artículos 321 y 322, extorsión reconocido en el artículo 328, lesiones en cualquiera de sus modalidades, robo previsto en el artículo 376, abigeato reconocido en el artículo 388, despojo en términos del artículo 405, daño en las cosas, previsto en los artículos 406, 407 y 409, fraccionamiento ilegal de inmuebles previsto en el artículo 413, en todos los casos siempre y cuando los delitos se cometan con medios violentos como armas o explosivos, y
 
-XVIII. Tentativa de los delitos de violación, previsto por los artículos 293 al 295; homicidio doloso, previsto en el artículo 353, así como el relacionado con los artículos 357, 358, 359, 361 fracción IX y 362; parricidio, previsto en el artículo 366; filicidio previsto en el artículo 367; terrorismo previsto en el artículo 174; tortura, previsto en el artículo 245; y asalto, previsto en los artículos 321 y 322 este último delito siempre y cuando se haya pretendido cometer con medios violentos como armas o explosivos.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XVIII. Tentativa de los delitos de violación, previsto (sic) por los artículos 293 al 295; homicidio doloso, previsto en el artículo 353, así como el relacionado con los artículos 357, 358, 359, 361, fracción IX, y 362; parricidio, previsto en el artículo 366; filicidio previsto en el artículo 367; terrorismo previsto en el artículo 174; tortura, previsto en el artículo 245; y asalto, previsto en los artículos 321 y 322 este último delito siempre y cuando se haya pretendido cometer con medios violentos como armas o explosivos, así como el encubrimiento de los anteriores o los previstos en el tercer párrafo del artículo 417.
 
 ###### ARTÍCULO 37.
 
@@ -455,7 +459,9 @@ VII. Injurias;
 
 VIII. Difamación;
 
-IX. Calumnias;
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+IX. CALUMNIAS;
 
 X. Abuso de confianza;
 
@@ -921,7 +927,15 @@ Cuando se causare lesiones a consecuencia de culpa que pongan en peligro la vida
 
 Cuando se cometan lesiones previstas en los artículos 343, 344, 345 y 346 imputables a personas que conduzcan en estado de ebriedad o bajo los efectos de algún narcótico, la pena correspondiente a la lesión dolosa de que se trate podrá aumentarse hasta en una mitad más.
 
-Cuando se causare homicidio o lesiones que pongan en peligro la vida, a consecuencia de actos u omisiones culposos que sean imputables a las personas que conduzcan en estado de ebriedad o bajo el influjo de algún narcótico o de cualquier otra sustancia que produzca efectos similares; o bien transportando personas en servicio público o al público; la sanción será de tres a doce años de prisión e inhabilitación hasta por el término de duración de la pena privativa de libertad.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+Se impondrá de tres a doce años de prisión e inhabilitación para conducir vehículos de motor hasta por el término de duración de la pena privativa de libertad, a quien causare homicidio o lesiones que pongan en peligro la vida, a consecuencia de actos u omisiones culposos que se cometan bajo alguna de las modalidades siguientes:
+
+I. Que sean imputables a personas que conduzcan en estado de ebriedad o bajo el influjo de algún narcótico o de cualquier otra sustancia que produzca efectos similares;
+
+II. El hecho se genere porque el sujeto transgredió alguna disposición legal en materia de tránsito, transporte o vialidad, o
+
+III. Transportando personas en servicio público o al público.
 
 No se impondrá pena alguna a quien por culpa y con motivo de la conducción o tránsito de vehículos ocasione lesiones u homicidio a su cónyuge, concubino, ascendientes, descendientes o hermanos, siempre que no se encuentre en estado de ebriedad o bajo el influjo de algún narcótico o de cualquiera otra sustancia que produzca efectos similares, plenamente comprobado.
 
@@ -1008,6 +1022,10 @@ En el caso del artículo anterior, la multa será el equivalente al diez por cie
 ###### ARTÍCULO 110.
 
 Una vez pagada la multa que sustituya la prisión, la autoridad que conmutó la sanción ordenará la libertad del sentenciado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+La conmutación de la pena de prisión no libera de la suspensión de la licencia para conducir vehículos, en caso de que se haya impuesto.
 
 ###### ARTÍCULO 111.
 
@@ -1475,9 +1493,11 @@ Se aplicará prisión de cuatro a doce años al que proporcione al mismo tiempo 
 
 Si la reaprehensión del prófugo se lograse por gestiones del responsable de la evasión, sólo se aplicará a éste de tres meses a un año de prisión, según la gravedad del delito o falta imputados al preso o detenido.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 179.
 
-No se aplicará sanción al preso que se fugue, sino cuando obre de acuerdo con otro u otros presos y se fugue alguno de ellos o cuando ejerza violencia en las personas, en cuyo caso será de seis meses a tres años de prisión la sanción aplicable.
+Al detenido, procesado o condenado que se fugue del centro donde se ejecute su pena privativa de libertad o prisión preventiva, se le impondrá de cuatro a ocho años de prisión y de cincuenta a trescientos días multa, independientemente de los delitos que cometa en su evasión.
 
 ###### ARTÍCULO 180.
 
@@ -1551,9 +1571,17 @@ I. Uno o más equipos de comunicación que permitan la intervención, escucha o 
 
 II. Una o más identificaciones oficiales alteradas o falsas, independientemente de la sanción que pudiera corresponderle como autor del delito de falsificación de documentos;
 
-III. Uno o más uniformes, insignias, distintivos, equipos o condecoraciones correspondientes a instituciones policiales o militares de cualquier índole o que simulen la apariencia de los utilizados por éstas, sin estar facultado para ello, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-IV. Uno o más accesorios u objetos que se utilizan en los vehículos oficiales de instituciones policiales, de tránsito, militares de cualquier índole o a quien utilice en aquéllos las particularidades que de cualquier forma igualen la apariencia de los vehículos oficiales.
+III. Uno o más uniformes, insignias, distintivos, equipos o condecoraciones correspondientes a instituciones policiales o militares de cualquier índole o que simulen la apariencia de los utilizados por éstas, sin estar facultado para ello;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+IV. Uno o más accesorios u objetos que se utilizan en los vehículos oficiales de instituciones policiales, de tránsito, militares de cualquier índole o a quien utilice en aquéllos las particularidades que de cualquier forma igualen la apariencia de los vehículos oficiales, o
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+V. Cualquier aparato tecnológico de comunicación de voz o datos, dentro del centro o lugar donde se ejecuten sanciones penales privativas de libertad o prisión preventiva, sin la autorización previa del director o autoridad titular del mismo.
 
 Las penas a las que se refiere el presente artículo, se aumentarán hasta en una mitad más de la que corresponda por el delito cometido, cuando para su perpetración se utilicen uno o más menores de edad.
 
@@ -1562,6 +1590,10 @@ Las penas a las que se refiere el presente artículo, se aumentarán hasta en un
 ###### ARTÍCULO 191.
 
 Se impondrá prisión de uno a tres años y multa de veinte a cien días de salario y suspensión de la licencia para manejar por igual término, al que conduzca un vehículo de motor en estado de ebriedad plenamente comprobado, o bajo la influencia de narcóticos o sustancias tóxicas.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+Para efectos de este Código, se considera que una persona se encuentra en estado de ebriedad, si tiene en su cuerpo, al menos cualquiera de las cantidades siguientes o su equivalente: En la sangre 0.8 gramos de alcohol por litro, en la orina 1.3 miligramos de alcohol por mililitro, o en el aire exhalado 0.4 miligramos de alcohol por litro.
 
 ###### ARTÍCULO 192.
 
@@ -1641,9 +1673,15 @@ Las disposiciones del artículo 202 no comprenden la correspondencia que circule
 
 Se aplicarán de uno a tres años de prisión y multa de uno a diez días de salario mínimo, al que empleando la fuerza, el amago o la amenaza, se oponga a que la autoridad pública o sus agentes ejerzan alguna de sus funciones, o resista al cumplimiento de un mandato legítimo ejecutado en forma legal.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 206.
 
-Se equiparará a la resistencia y se impondrá la misma sanción que a ésta, la coacción hecha a la autoridad pública por medio de la violencia física o moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones.
+Se equiparará a la resistencia y se impondrá la misma sanción que a ésta, las siguientes modalidades:
+
+I. La coacción hecha a la autoridad pública por medio de la violencia física o moral, para obligarla a que ejecute un acto oficial, sin los requisitos legales u otro que no esté en sus atribuciones, o
+
+II. Quien se oponga, obstruya, impida total o parcialmente que se cumpla la función de investigación de los delitos.
 
 ###### ARTÍCULO 207.
 
@@ -2025,9 +2063,11 @@ Esta disposición se entiende sin perjuicio de la destitución, de la inhabilita
 
 Comete el delito de concusión, el encargado de un servicio público que con tal carácter y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa indebida o en mayor cantidad que la señalada por la ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 252.
 
-A los servidores públicos que cometan el delito de concusión, se les aplicará destitución de empleo o inhabilitación para obtener otro por un término de dos a seis años, y pagarán una multa igual al duplo de la cantidad que hubieren exigido indebidamente. Si esta pasare del importe de diez días de salario, se les impondrá además de tres meses a dos años de prisión.
+A los servidores públicos que cometan el delito de concusión, se les aplicará de uno a cinco años de prisión e inhabilitación inconmutable por el término de la pena impuesta.
 
 ###### ARTÍCULO 253.
 
@@ -2805,6 +2845,10 @@ Las penas señaladas en el artículo anterior se incrementarán hasta en una mit
 
 ### CAPÍTULO IV. CALUMNIA
 
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 328.
 
 Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de tres a nueve años de prisión y de cien a quinientos días multa.
@@ -2816,6 +2860,8 @@ Si en la comisión de este delito participa algún miembro de una corporación p
 Se impondrá además, una pena de dos a cinco años de prisión, cuando el sujeto activo del delito se haya ostentado como miembro de una asociación o grupo delictuoso.
 
 ### CAPÍTULO V. DISPOSICIONES COMUNES A LAS INJURIAS, DIFAMACIÓN Y CALUMNIAS
+
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ### CAPÍTULO I. LESIONES
 
@@ -2877,7 +2923,9 @@ II. Si el hecho imputado está declarado cierto, por sentencia irrevocable y el 
 
 ###### ARTÍCULO 335.
 
-Se aplicará de seis meses a dos años o multa de tres a quince días de salario al que impute falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se le imputa.
+Se aplicará de seis meses a dos años de prisión o multa de tres a quince días de salario al que impute falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se le imputa.
+
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### ARTÍCULO 336.
 
@@ -2887,15 +2935,19 @@ Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien
 
 ###### ARTÍCULO 337.
 
-No se procederá contra los autores de injurias, difamación o calumnia, sino por querella de los ofendidos o de sus legítimos representantes.
+No se procederá contra los autores de injurias, difamación O CALUMNIA, sino por querella de los ofendidos o de sus legítimos representantes.
 
-Si la injuria, difamación o calumnia son posteriores al fallecimiento del ofendido, sólo se procederá en virtud de querella de sus familiares o representantes legítimos.
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+Si la injuria, difamación O CALUMNIA son posteriores al fallecimiento del ofendido, sólo se procederá en virtud de querella de sus familiares o representantes legítimos.
 
 Si esos mismos delitos se cometen con anterioridad al fallecimiento del ofendido y éste hubiere perdonado la ofensa, o sabiendo que se había inferido, no hubiere presentado su querella pudiendo hacerlo, ni manifestado que lo hicieran sus herederos, se extinguirá la sanción penal de esos delitos.
 
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 ###### ARTÍCULO 338.
 
-Cualquier objeto que hubiere servido de medio para cometer los delitos de injurias, difamación o calumnia se inutilizará, a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En éste caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa si no cupiere.
+Cualquier objeto que hubiere servido de medio para cometer los delitos de injurias, difamación O CALUMNIA se inutilizará, a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En éste caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa si no cupiere.
 
 ###### ARTÍCULO 339.
 
@@ -2913,9 +2965,11 @@ III. Al autor de un escrito presentado o de un discurso pronunciado en los Tribu
 
 Lo prevenido en esta fracción, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata.
 
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 ###### ARTÍCULO 341.
 
-No servirá de excusa de la difamación, ni de la calumnia, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+No servirá de excusa de la difamación, NI DE LA CALUMNIA, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
@@ -3395,17 +3449,23 @@ XIV. Al que para eludir todo o parcialmente el pago de un impuesto, contribució
 
 XV. Al que obtenga de cualquier persona o institución una suma de dinero o cosas determinadas en concepto de refacción, habilitación o avío y no los aplique al objeto u obras convenidos. Cuando el dinero o cosas hayan sido recibidos por una persona moral, los responsables del delito serán las personas físicas que suscriban los documentos relativos, sin perjuicio de decretar la suspensión de la persona jurídica en sus actividades, hasta por un año;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
+XVI. El que habiéndose obligado con otro de manera verbal o escrita, a la comercialización primaria de productos agropecuarios, pesqueros o forestales, y utilizando engaños, artificios, maquinaciones, después de recibida la cosa pactada, incumpla con la obligación del pago en los términos fijados;
 
-XVI. El que habiéndose obligado con otro de manera verbal o escrita, a la comercialización primaria de productos agropecuarios, pesqueros o forestales, y utilizando engaños, artificios, maquinaciones, después de recibida la cosa pactada, incumpla con la obligación del pago en los términos fijados, o
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVII. A quien en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, oculte, transfiera o adquiera bienes a nombre de terceros;
 
-> <small>(ADICIONADA, P.O. 28 DE MAYO DE 2015)</small>
+(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-XVII. A quien en detrimento de la sociedad conyugal o patrimonio común generado durante el matrimonio, oculte, transfiera o adquiera bienes a nombre de terceros.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XVIII. AL QUE INCUMPLA UN ACUERDO DE VOLUNTADES CELEBRADO ANTE AUTORIDAD COMPETENTE EN MATERIA DE SOLUCIONES ALTERNATIVAS DE CONTROVERSIAS PENALES DEL FUERO COMÚN, O
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XIX. Al que hubiere obtenido dinero o lucro mediante la obligación de proporcionar servicios profesionales de educación superior y que estos prescindan de reconocimiento de validez oficial emitido por la autoridad competente.
 
 ###### ARTÍCULO 402.
 
@@ -3563,7 +3623,9 @@ Se impondrá de tres a siete años de prisión y multa hasta el equivalentes (si
 
 Igual sanción se aplicará a quien no procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa va a cometerse o se estén cometiendo si son de los que se persiguen de oficio.
 
-Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente de cien días de salario, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio, parricidio, filicidio u homicidio contra la mujer por razón de misoginia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente de cien días de salario, cuando el encubrimiento sea respecto de delitos de asalto, secuestro, violación, homicidio doloso, parricidio, filicidio u homicidio contra la mujer por razón de misoginia.
 
 ###### ARTÍCULO 418.
 
@@ -3718,3 +3780,7 @@ P.O. 28 DE MAYO DE 2015.
 DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 46, Y SE ADICIONA EL ARTÍCULO 316 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT.
 
 Único.- El presente Decreto entrará en vigor en los términos previstos en la Declaratoria para la Implementación del Sistema de Justicia Penal Acusatorio que mediante Bando Solemne emita el Congreso del Estado de Nayarit, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 3 DE OCTUBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
