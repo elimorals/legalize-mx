@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-precampanas-para-el-estado-de-zacatecas-91252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-19"
-last_updated: "2012-12-19"
+last_updated: "2015-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE PRECAMPAÑAS PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE PRECAMPAÑAS PARA EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2015. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE SE HAYA APROBADO EL NUEVO REGLAMENTO DE PRECAMPAÑAS PARA EL ESTADO DE ZACATECAS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 19 de diciembre de 2012.
 
@@ -464,3 +466,13 @@ Artículo 41
 Primero.- Este Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se abroga el Reglamento de Precampañas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, el dos de diciembre del dos mil nueve, mediante Acuerdo ACG-IEEZ-058/IV/2009.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE OCTUBRE DE 2015.
+
+PRIMERO.- Se abroga el Reglamento de Precampañas para el Instituto Electoral del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral del Estado de Zacatecas, el catorce de diciembre de dos mil doce.
+
+SEGUNDO.- El presente Reglamento entrará en vigor y surtirá sus efectos a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de Zacatecas.
+
+TERCERO.- Lo no previsto en este Reglamento será resuelto por la Comisión de Precampañas en uso de sus atribuciones.
