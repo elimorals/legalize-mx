@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2015-08-01"
+last_updated: "2015-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -643,41 +643,47 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 ### CAPITULO I. FORMACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 12.
 
-El Poder Legislativo se deposita en un Congreso integrado por una Cámara de Diputados.
+El Poder Legislativo se deposita en un Congreso integrado por la Cámara de Diputados. El Pleno de los Diputados es el órgano supremo de decisión del Congreso.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+El Congreso se compone por 35 diputados electos cada tres años, 21 por el principio de mayoría relativa y 14 por el principio de representación proporcional; durante su gestión constituyen una Legislatura. Las elecciones serán directas y se apegarán a lo que disponen esta Constitución y las leyes aplicables.
 
-El Congreso se compone por 35 representantes populares del Estado de Tabasco, de los cuales 21 Diputados son electos por el principio de mayoría relativa y 14 por el principio de representación proporcional, cada tres años que constituirán, en cada caso, la Legislatura correspondiente; las elecciones serán directas y se apegarán a lo que dispone la ley.
+El Congreso distribuye su trabajo en el Pleno y en comisiones ordinarias y especiales. Contará también con una Mesa Directiva, una Junta de Coordinación Política, la Comisión Permanente y los órganos auxiliares y administrativos necesarios para el desempeño de sus funciones.
 
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+La ley determinará las formas y procedimientos para la agrupación de los diputados, según su filiación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Cámara de Diputados. Las fracciones parlamentarias se constituyen al inicio de cada Legislatura. Los diputados cuyo origen haya sido una candidatura independiente, podrán optar por integrarse a una fracción parlamentaria previamente constituida.
 
-La ley determinará las formas y procedimientos para la agrupación de los diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en la Cámara de Diputados.
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 13.
 
-Se elegirá un diputado propietario y un suplente por cada uno de los Distritos Electorales Uninominales, que corresponde a la demarcación territorial que en términos de la ley reglamentaria se determine, según el principio de votación mayoritaria relativa.
+Se elegirá un diputado propietario y un suplente, según el principio de mayoría relativa, en cada uno de los veintiún Distritos Electorales Uninominales, que correspondan a la demarcación territorial que en términos de la ley se determine.
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 14.
 
-Para la elección de los Diputados según el principio de representación proporcional y el sistema de listas regionales, se constituirán dos circunscripciones electorales plurinominales.
+Para la elección de diputados, propietarios y suplentes, según el principio de representación proporcional y el sistema de listas regionales, se constituirán dos circunscripciones electorales plurinominales.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
 
 La Legislación Electoral del Estado, determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
 
 La elección de esos Diputados se sujetará a las bases Generales siguientes, y a lo que en particular disponga la Legislación Electoral:
 
 I.- Para obtener el registro de sus listas regionales, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-II. Todo partido político que alcance por lo menos el tres por ciento del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que se le asigne un Diputado según el principio de representación proporcional;
+II.- Todo partido político que alcance por lo menos el tres por ciento de la votación válida emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a participar en la asignación de diputados según el principio de representación proporcional, mediante la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
+
+a) Cociente natural, y
+
+b) Resto mayor.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -689,13 +695,11 @@ IV.- En ningún caso, un partido político podrá contar con más de 21 diputado
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
 
-V. Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido Político no será menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; y
+V.- Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Cámara que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Cámara, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento; asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido Político no será menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; y
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-VI.- En los términos de lo establecido en las fracciones II, III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con la respectiva votación estatal efectiva de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
-
-VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1996) (F. DE E., P.O. 8 DE MARZO DE 1997)
+VI.- En los términos de lo establecido en las fracciones II, III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con la respectiva votación estatal emitida de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -707,9 +711,9 @@ VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 1996) (F. DE E., P.O. 8 DE MARZO DE 199
 
 Para ser diputado se requiere:
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-I.- Ser ciudadano mexicano, nativo de la entidad o con residencia efectiva en ella no menor de dos años;
+I.- Ser ciudadano mexicano y tabasqueño, en pleno ejercicio de sus derechos. En todo caso, se deberá contar con residencia efectiva en el Estado por un período no menor de dos años anteriores al día de la elección.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -721,7 +725,7 @@ III.- No estar en servicio activo en el Ejército ni tener mando de algún cuerp
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
 
-IV. No ser titular de alguna dependencia de la Administración Pública Estatal, ni Fiscal General del Estado de Tabasco; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, o del Tribunal de Conciliación y Arbitraje; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales, ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
+IV.- No ser titular de alguna dependencia de la Administración Pública Estatal, ni Fiscal General del Estado de Tabasco; ni Magistrado del Tribunal Superior de Justicia, del Tribunal de lo Contencioso Administrativo, o del Tribunal de Conciliación y Arbitraje; ni Presidente Municipal, regidor, secretario de ayuntamiento o titular de alguna dirección en las administraciones municipales, ni servidor público federal con rango de Director General o superior, a menos que permanezca separado definitivamente de sus funciones desde noventa días naturales antes de la fecha de la elección;
 
 > <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
@@ -751,15 +755,13 @@ Los Diputados al Congreso del Estado podrán ser electos en forma consecutiva ha
 
 Los diputados que se hayan postulado en forma independiente, podrán ser reelectos del mismo modo, cumpliendo con los requisitos establecidos en la ley; podrán ser postulados por un partido o coalición para ser reelectos en forma consecutiva, siempre y cuando se hayan afiliado, antes de la mitad de su mandato, al partido que les postule o a un partido de los que integren la coalición, en su caso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 17.
 
-Los Diputados propietarios, durante el período de su encargo, no podrán desempeñar, con excepción de los docentes, ninguna comisión, cargo ni empleo de la Federación, del Estado o de algún Municipio, por los cuales se disfrute sueldo, sin previa licencia de la Cámara, en cuyo caso cesarán en sus funciones, mientras dure la nueva ocupación. La misma regla se usará con los Diputados suplentes cuando éstos sean llamados al ejercicio.
+Los Diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión, cargo, ni empleo de la Federación, Estados o Municipios, con excepción de los docentes, por los cuales se perciba alguna remuneración, sin previa licencia de la Cámara, pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación. El incumplimiento de este precepto se sancionará con la pérdida del cargo de Diputado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
-La infracción de este precepto se castigará con la pérdida del cargo de Diputado.
+La misma regla se aplicará para los Diputados suplentes cuando sean llamados a ejercer el cargo.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -787,53 +789,51 @@ La Cámara de Diputados se renovará en su totalidad cada tres años, iniciando 
 
 (DEROGADO, P.O. 21 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 21.
 
-Los presuntos miembros de la Cámara declarados electos, tanto por el principio de votación de mayoría relativa, como por el de representación proporcional, se reunirán en el salón de Sesiones del Poder Legislativo a las once horas del veinte de agosto del año de la elección, para constituirse, presente la mayoría, en Junta Preparatoria. Si no se reuniese la mayoría de los presuntos diputados, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran dentro de los cinco días siguientes, con la advertencia de que si no lo hiciesen se entenderá por ese hecho que no aceptan su cargo, llamándose a los suplentes que deberán presentarse en un plazo igual, y si tampoco lo hiciesen se declarará vacante el cargo y se convocará a nuevas elecciones en los distritos respectivos, pudiéndose instalar la legislatura con los diputados que asistieron a la Junta Previa. La convocatoria a elecciones la hará el Congreso si se encontrare reunido, o la Comisión Permanente.
+Los presuntos miembros de la Cámara declarados electos, tanto por el principio de mayoría relativa como por el de representación proporcional, se reunirán en el salón de Sesiones del Poder Legislativo a las once horas del veinte de agosto del año de la elección, para constituirse, presente la mayoría, en Junta Preparatoria. Si no se reuniese la mayoría de los presuntos diputados, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran dentro de los cinco días siguientes, con la advertencia que si no lo hiciesen se entenderá por ese hecho que no aceptan su cargo, llamándose a los suplentes que deberán presentarse en un plazo igual, y si tampoco lo hiciesen se declarará vacante el cargo y se convocará a elecciones extraordinarias en los distritos respectivos, pudiéndose instalar la legislatura con los diputados que asistieron a la Junta Previa. La convocatoria a elecciones la hará el Congreso si se encontrare reunido o, en su caso, la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-En el caso de las vacantes de los presuntos miembros de la Cámara electos por el principio de representación proporcional, y una vez agotado el procedimiento de prelación por fórmula, estos deberán ser cubiertos por aquellos candidatos propietarios del mismo Partido o Coalición que sigan en el orden de la lista regional respectiva, después de habérseles asignado los Diputados que le hubieren correspondido.
+En el caso de no presentarse un presunto miembro de la Cámara electo como propietario por el principio de representación proporcional, se llamará al respectivo suplente; si este tampoco se presentase, la vacante deberá ser cubierta por el candidato propietario o suplente del mismo Partido que sigan en el orden de la lista regional respectiva, después de habérseles asignado los Diputados que le hubieren correspondido. En todo caso, la fórmula que sea llamada a cubrir la vacante deberá ser la siguiente en el orden de la lista, integrada por personas del mismo género de la que deba ser sustituida. Del mismo modo se procederá cuando la vacante se produzca una vez iniciada la Legislatura.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
 
 Los diputados que sin causa justificada o sin previa licencia del Presidente del Congreso, falten a cinco sesiones consecutivas o diez discontinuas dentro de un período ordinario, o tres sean continuas o discontinuas en un periodo extraordinario, no tendrán derecho a asistir a sesiones por el tiempo que dure ese período y lo harán hasta el inmediato siguiente, llamándose a la brevedad al suplente quien asumirá sus funciones.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados no se presenten, sin causa justificada a juicio de la Cámara, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo. También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que, habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
+Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley aplicable señale, quienes habiendo sido electos diputados no se presenten, sin causa justificada a juicio de la Cámara, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo. También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que, habiendo postulado candidatos en una elección para diputados, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 22.
 
-Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cámara y habiendo quórum, otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, el Presidente de la Junta Preparatoria, quien la tomará después a los otros Diputados. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su período de sesiones ordinarias.
+Una vez concluido el proceso electoral y agotados los procedimientos señalados en el artículo anterior, en su caso, los Diputados integrantes de la Cámara otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, el Presidente de la Junta Preparatoria, quien la tomará después a los otros Diputados. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su primer período de sesiones ordinarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 23.
 
-El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año, el primero, del cinco de septiembre al quince de diciembre y el segundo, del uno de febrero al quince de mayo, excepto cuando el Gobernador del Estado inicie su mandato en la fecha prevista en el artículo 45, primer párrafo, en cuyo caso el primer período ordinario podrá extenderse hasta el 31 de diciembre, previo acuerdo de la mayoría de los integrantes del Congreso.
+El Congreso del Estado tendrá dos períodos ordinarios de sesiones al año: el primero, del cinco de septiembre al quince de diciembre; y el segundo, del uno de febrero al quince de mayo, excepto cuando el Gobernador del Estado inicie su mandato en la fecha prevista en el artículo 45, primer párrafo, de esta Constitución, en cuyo caso el primer período ordinario podrá extenderse hasta el 31 de diciembre, previo acuerdo de la mayoría de los integrantes del Congreso.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+Durante los recesos del Congreso funcionará una Comisión Permanente; tanto los órganos directivos como las distintas comisiones del propio Congreso continuarán cumpliendo sus atribuciones.
 
-Durante los recesos funcionará una Comisión Permanente; sin embargo, las distintas comisiones orgánicas que integran el Congreso, continuarán cumpliendo sus atribuciones.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 24.
 
-El Congreso funcionará con la asistencia de la mitad más uno del total de sus componentes. A falta de quórum para iniciar algún periodo de sesiones, se procederá de acuerdo con el artículo 21, convocando a elecciones en su caso, la Comisión Permanente o la Junta Previa si aquella hubiese concluido su ejercicio constitucional.
+El Congreso funcionará con la asistencia de la mitad más uno de sus integrantes. A falta de quórum para iniciar algún periodo de sesiones, se procederá de acuerdo con el artículo 21.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
+Las inasistencias de los diputados a las sesiones del Pleno o de comisiones, sin causa justificada, serán sancionadas en términos de la Ley Orgánica del Poder Legislativo.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 25.
 
-En los períodos ordinarios de sesiones el Congreso se ocupará preferentemente de expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, así como revisar y calificar la cuenta pública.
+En los períodos ordinarios de sesiones el Congreso se ocupará de expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, sin perjuicio de las demás atribuciones que constitucional y legalmente le correspondan.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 1998)</small>
 
@@ -857,19 +857,21 @@ Durante el primer período ordinario, el Congreso se ocupará preferentemente, d
 
 Si iniciado el año fiscal, no está aprobado el Presupuesto General de Egresos enviado por el titular del Ejecutivo del Estado para dicho período, transitoriamente, se utilizarán los parámetros aprobados para el ejercicio fiscal inmediato anterior, en los términos que señale la ley de la materia, hasta en tanto la Legislatura aprueba el nuevo Presupuesto.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 28.
 
-Toda resolución que al respecto expida el Congreso tendrá el carácter de ley, decreto, acuerdo, e iniciativa ante el Congreso de la Unión. Las dos primeras, cumplido el proceso legal, una vez firmadas por el Presidente y el Secretario se remitirán al titular del Poder Ejecutivo para su sanción y promulgación.
+Toda resolución que apruebe el Congreso tendrá el carácter de ley, decreto o acuerdo. Las leyes o decretos, una vez firmadas por el Presidente y el Secretario, se remitirán al titular del Poder Ejecutivo para su promulgación y publicación. De igual modo, el Congreso podrá ordenar la publicación en el Periódico Oficial del Estado, de los instrumentos legales que resulten procedentes conforme a esta Constitución y las leyes aplicables.
 
-Asimismo, en los términos que se establezcan en la ley orgánica se podrán emitir acuerdos parlamentarios, puntos de acuerdo y acuerdos de Comisión.
+Asimismo, en los términos que establezcan las leyes, se podrán emitir acuerdos parlamentarios, puntos de acuerdo y acuerdos de Comisión.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 29.
 
-El Congreso se reunirá en sesiones extraordinarias cada vez que lo convoque para este objeto la Comisión Permanente por sí, o a solicitud del Ejecutivo y sólo se ocupará del asunto o asuntos que la propia Comisión someta a su conocimiento, expresados en la convocatoria respectiva. En la apertura de las sesiones extraordinarias a que fuera convocado el Congreso, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
+El Congreso se reunirá en períodos o en sesiones extraordinarias cada vez que lo convoque para este objeto la Comisión Permanente por sí, o a solicitud del Ejecutivo y sólo se ocupará del asunto o asuntos que la propia Comisión someta a su conocimiento, expresados en la convocatoria respectiva. En la apertura de los periodos o las sesiones extraordinarias a que fuera convocado el Congreso, el Presidente de la Comisión Permanente informará acerca de los motivos o razones que originaron la convocatoria.
+
+La Ley reglamentará los procedimientos para el desarrollo de dichos períodos o sesiones extraordinarias, a efecto de garantizar la mayor productividad y eficacia en el trabajo legislativo y parlamentario.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -883,11 +885,11 @@ Si las sesiones extraordinarias se prolongan hasta que deban comenzar las ordina
 
 La Legislatura del Estado celebrará sus sesiones en la ciudad de Villahermosa y no podrá trasladarse a otro sitio sin el acuerdo de las dos terceras partes de sus miembros.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 32.
 
-Las sesiones serán públicas, excepto cuando el Reglamento o la índole del asunto de que se trate exija el secreto.
+Las sesiones del Pleno serán públicas, excepto cuando los ordenamientos respectivos o la índole del asunto de que se trate establezcan o recomienden que se traten en sesión privada. La Ley y el Reglamento regularán lo relativo a las sesiones de los órganos directivos y de las Comisiones del Congreso.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -903,21 +905,29 @@ I.- Al Gobernador del Estado;
 
 II.- A los Diputados;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-III.- Al Poder Judicial del Estado, por conducto del Tribunal Superior de Justicia, en asuntos de su Ramo;
+III.- Al Poder Judicial, por conducto del Tribunal Superior de Justicia, en asuntos relativos a su organización y funcionamiento;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-IV.- A los Ayuntamientos en asuntos del Ramo Municipal;
+IV.- A los Ayuntamientos en asuntos de competencia municipal;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
 V.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes; y
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-VI.- A la Comisión Estatal de los Derechos Humanos, en materia de los derechos humanos.
+VI.- A la Comisión Estatal de los Derechos Humanos, en la materia de su competencia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+El día de la apertura de cada periodo ordinario de sesiones, el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores cuando estén pendientes de dictamen. Cada iniciativa deberá ser dictaminada, discutida y votada por el Pleno de la Cámara en un plazo máximo de treinta días naturales a partir de su presentación o señalamiento. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -931,13 +941,17 @@ Ningún proyecto de ley o decreto que fuere desechado en el Congreso podrá ser 
 
 Las leyes o decretos aprobados por el Congreso se enviarán al Ejecutivo, quien si no tuviere observaciones que hacer los promulgará inmediatamente. Se considerará aprobado por el Poder Ejecutivo todo proyecto no devuelto con observaciones al Congreso dentro de los veinte días naturales siguientes a su recepción; vencido este plazo, el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto. Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente del Congreso ordenará dentro de los diez días naturales siguientes su publicación en el Periódico Oficial del Estado, sin que se requiera refrendo. Los plazos a que se refiere este artículo no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-El proyecto de ley o decreto desechado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso, quien deberá discutirlo de nuevo y de aprobarlo, lo enviará para su promulgación.
+El proyecto de ley o decreto observado total o parcialmente por el Ejecutivo será devuelto al Congreso, quien deberá discutir las observaciones realizadas y, una vez aprobado lo conducente, lo enviará para su promulgación.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados presentes, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
+Si el Congreso no aceptare las observaciones del Ejecutivo por las dos terceras partes de los Diputados integrantes de la legislatura, el proyecto tendrá el carácter de ley o decreto y será devuelto al Ejecutivo para su inmediata promulgación.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando se declare la procedencia de juicio político o que ha lugar a proceder penalmente en contra de servidores públicos o haber sido aprobadas las adiciones o reformas a la Constitución General de la República, a la del Estado, a la Ley Orgánica del Poder Legislativo o su Reglamento Interno, ni a la convocatoria a sesiones extraordinarias que expida la Comisión Permanente. Tampoco podrá hacer observaciones cuando el Congreso ejerza funciones de Colegio Electoral.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -953,39 +967,45 @@ Son facultades del Congreso:
 
 I.- Expedir, reformar, adicionar, derogar y abrogar las Leyes y Decretos para la mejor Administración del Estado, planeando su desarrollo económico y social;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-II.- Determinar los fundos de ciudades, villas, pueblos y rancherías;
+II.- Determinar los fundos legales de las ciudades, villas, pueblos y rancherías;
 
-III.- Crear nuevos poblados de cualesquiera de las categorías establecidas por la Ley Orgánica Municipal;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+III.- Crear nuevos poblados de cualquiera de las categorías establecidas por la Ley Orgánica de los Municipios del Estado de Tabasco;
 
 IV.- Legislar sobre expropiación por causa de utilidad pública;
 
-V.- Legislar sobre materia electoral con base en el sufragio universal y directo;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+V.- Legislar en materia electoral, con base en el sufragio universal, libre, secreto, directo, personal e intransferible;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
 VI.- Legislar en la forma que proceda sobre Educación, Instrucción y seguridad pública;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-VII.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios aprobando anualmente los ingresos que fueren necesarios para cubrir los presupuestos de Egresos del Estado y los Ayuntamientos, en sus respectivos ámbitos.
+VII.- Imponer las contribuciones que deban corresponder al Estado y a los municipios, aprobando anualmente los ingresos que fueren necesarios para cubrir los presupuestos de Egresos de los poderes del Estado, órganos autónomos y los Ayuntamientos, en sus respectivos ámbitos.
 
-Asimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para los proyectos y contratos a los que se refiere la fracción XLIV de este mismo artículo; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado;
+Asimismo, podrá autorizar en el presupuesto de Egresos de los poderes del Estado y órganos autónomos las erogaciones plurianuales para los proyectos y contratos a los que se refiere la fracción XLIV de este mismo artículo; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos;
 
-VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2003)</small>
+VIII.- Expedir la ley reglamentaria de las fracciones I, II y IV, del Artículo 61 de esta Constitución;
 
-IX.- Legislar sobre Administración de Justicia, Sanidad Pública Estatal, Materia Indígena y vías de comunicaciones estatales y municipales; expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente en lo referente al abasto y otras que tengan como finalidad la producción suficiente y oportuna de bienes y servicios socialmente necesarios en la entidad;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+IX.- Legislar sobre Administración de Justicia, Salud Pública Estatal, Materia Indígena y vías de comunicaciones estatales y municipales; expedir leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente en lo referente al abasto y otras que tengan como finalidad la producción suficiente y oportuna de bienes y servicios socialmente necesarios en la entidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2008)</small>
 
 X.- Determinar, conforme a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y demás disposiciones aplicables las participaciones que correspondan a los Municipios en los impuestos federales y estatales; y legislar sobre la integración del patrimonio del Estado y de los municipios;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XI.- Autorizar al Ejecutivo para que celebre contratos con los demás Estados o con la Federación sobre asuntos relacionados con la Administración y aprobar o nó esos contratos;
+XI.- Autorizar al Ejecutivo, cuando así lo dispongan las leyes respectivas, para que celebre los instrumentos jurídicos necesarios con la Federación, otros estados y los municipios de la entidad, sobre asuntos relacionados con la administración;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
 
@@ -1017,13 +1037,13 @@ Adicionalmente el Ejecutivo y los Municipios se sujetaran a las bases que al efe
 
 No se entenderá como deuda pública las obligaciones económicas o financieras plurianuales derivadas del ejercicio de la facultad consagrada en la fracción XLIV de este mismo artículo;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XIII.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano Superior de Fiscalización del Estado y expedir la Ley que regule su organización y atribuciones. Designar y remover al titular de dicho Órgano, al Oficial Mayor del Congreso, y a los demás servidores públicos al servicio del Poder Legislativo, en los términos que señalen las leyes aplicables;
+XIII.- Supervisar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión, al Órgano Superior de Fiscalización del Estado y expedir la Ley que regule su organización y atribuciones. Designar y remover al titular de dicho Órgano, en los términos que señalen las leyes aplicables;
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna Ley o acto del Gobierno Federal constituya una violación a la Soberanía del Estado o a la Constitución General de la República;
+XIV.- Reclamar ante la Suprema Corte de Justicia de la Nación, o ante la Sala Especial Constitucional del Tribunal Superior de Justicia, cuando así resulte procedente, en los supuestos y conforme a lo señalado en los artículos 105 de la Constitución general de la República y 61 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -1037,15 +1057,19 @@ XVI.- Legislar de acuerdo con las facultades concedidas por la Constitución Pol
 
 XVII.- Aprobar el Plan Estatal de Desarrollo que proponga el Titular del Ejecutivo en el plazo que disponga la ley. En caso de que la Cámara de Diputados no se pronuncie en dicho plazo, el Plan se entenderá aprobado;
 
-XVIII.- Conceder al Ejecutivo por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que necesite en casos de invasión, alteración del orden o peligro público;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVIII.- Conceder al Ejecutivo, por tiempo limitado y por el voto de las dos terceras partes de los Diputados presentes, las facultades extraordinarias que se requieran para hacer frente a situaciones de sublevación o trastorno interior grave. De estar en periodo de receso, se convocará de inmediato al Congreso para que acuerde lo conducente.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2014)</small>
+En caso de ser necesario y de encontrarse reunido el Congreso, se solicitará la intervención de los Poderes de la Unión, en términos del artículo 119 de la Constitución general;
 
-XIX.- Designar al Fiscal General del Estado y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, así como al Presidente del Tribunal de Conciliación y Arbitraje, propuestos por el Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XX.- Dirimir los conflictos políticos y de límites entre el Municipio y el Estado y de los Municipios entre sí;
+XIX.- Designar al Fiscal General del Estado y al Contralor General del Instituto Electoral y de Participación Ciudadana de Tabasco. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Tribunal de lo Contencioso Administrativo, que realice el Gobernador; y nombrar al Presidente del Tribunal de Conciliación y Arbitraje, de una terna propuesta por el mismo Gobernador. Designar a los Magistrados del Tribunal Superior de Justicia, así como a los Consejeros del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, en los términos de ley;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XX.- Dirimir los conflictos políticos entre uno o más municipios con el Estado o de los municipios entre sí; o de límites territoriales, tratándose de estos últimos;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
@@ -1053,21 +1077,27 @@ XXI.- Resolver acerca de las renuncias y licencias de Gobernador y diputados; as
 
 La licencia otorgada a los magistrados no podrá exceder el término de un año, salvo la que se conceda a quien integre el Consejo de la Judicatura en los términos señalados en el artículo 55 Bis de esta Constitución. En todo caso, el tiempo que dure la licencia se computará como parte del periodo para el que fue designado Magistrado;
 
-XXII.- Convocar a elecciones para cubrir las vacantes definitivas de sus miembros por el período respectivo, si la falta ocurriere antes de los últimos seis meses del período constitucional;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+XXII.- Convocar a elecciones extraordinarias para cubrir las vacantes definitivas de sus miembros por el período respectivo, electos por el principio de mayoría relativa, salvo que la vacante ocurra dentro del año final del ejercicio del legislador correspondiente.
 
-XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos cuando resulte procedente según esta Constitución;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos, en los términos de la legislación aplicable.
 
 XXIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2015)
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XXV.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubiesen incurrido en delito en los términos del artículo 69 de esta constitución.
+XXV.- Declarar si ha lugar o no a proceder penalmente contra los servidores públicos en los términos referidos en el Artículo 69 de esta Constitución.
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 1983)</small>
 
 Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 68 de esta Constitución y fungir como órgano de acusación en los Juicios Políticos que contra éstos se instauren;
 
-XXVI.- Resolver los conflictos de límites del Estado mediante convenios amistosos, con aprobación del Congreso de la Unión;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXVI.- Aprobar los convenios amistosos por los que se resuelvan conflictos de límites del Estado con otra entidad federativa y someterlos a la consideración de la Cámara de Senadores, en términos del artículo 46 de la Constitución federal;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -1087,17 +1117,17 @@ XXX.- Recibir la protesta constitucional a los diputados, al gobernador, a los m
 
 XXXI.- Crear y suprimir empleos públicos del Estado según los requerimientos del servicio público y señalar, aumentar o disminuir las respectivas partidas presupuestarias atendiendo a las circunstancias del Erario;
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XXXII.- Suspender, por acuerdo de las dos terceras partes de sus integrantes, a los Ayuntamientos, declarar que éstos han desaparecidos (sic) y suspender o revocar el mando o alguno de sus miembros por causa (sic) graves, siempre y cuando los afectados hayan tenido la oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+XXXII.- Suspender, por acuerdo de las dos terceras partes de sus integrantes, a los Ayuntamientos o declarar que éstos han desaparecido; asimismo, suspender o revocar el mandato a alguno o algunos de sus miembros por causas graves, siempre y cuando los afectados hayan tenido la oportunidad para rendir las pruebas y alegarlo (sic) que a su juicio convenga.
 
-Se consideran causas graves las previstas en el Artículo 66 reformado en esta propia Constitución.
+Se consideran causas graves las previstas como tales en los artículos 66 y 67 de esta Constitución y en las leyes aplicables, según corresponda;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 1992)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XXXIII.- En caso de declarar desaparecido un Ayuntamiento por renuncia o por falta absoluta de sus miembros y que conforme a la ley no proceda que entren en funciones los suplentes o nulas las elecciones, nombrar un consejo municipal integrado por tres personas que se harán cargo de la administración municipal temporalmente hasta que conforme a la ley de la materia se realicen nuevas elecciones.
+XXXIII.- En caso de declarar desaparecido un Ayuntamiento por renuncia o por falta absoluta de sus miembros y conforme a la Ley no proceda que entren en funciones los suplentes o se declaren nulas las elecciones por la autoridad competente, nombrar un Concejo Municipal integrado por tres personas, el cual se hará cargo de la administración municipal temporalmente hasta que conforme a la ley de la materia se realicen nuevas elecciones y tomen posesión quienes resulten electos.
 
-Cuando a juicio de la Legislatura, no sea posible celebrar dichas elecciones, el Concejo concluirá el período constitucional respectivo.
+Cuando la declaratoria de desaparición de un ayuntamiento se produzca en su tercer año de ejercicio, el Concejo que se designe concluirá el período constitucional respectivo.
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -1109,11 +1139,13 @@ XXXV.- Cambiar provisional o definitivamente la residencia de los Poderes del Es
 
 XXXVI.- Conceder licencia a los Diputados para separarse del cargo, en los términos establecidos en esta Constitución y en la Ley Orgánica del Congreso;
 
-> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XXXVII.- Crear nuevos Municipios, modificar o suprimir algunos de los existentes, y decretar la erección de pueblos, villas, ciudades y rancherías;
+XXXVII.- Crear nuevos Municipios y modificar o suprimir algunos de los existentes;
 
-XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesiones ordinarias, la Comisión Permanente que ha de funcionar en los recesos del Congreso; y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+XXXVIII.- Designar, previo a la clausura de los períodos de sesiones ordinarias del Congreso, la Comisión Permanente que ha de funcionar en sus recesos;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2010)</small>
 
@@ -1123,9 +1155,9 @@ XXXIX.- Legislar sobre la forma en que los poderes del Estado, órganos autónom
 
 XL.- Legislar en materia de Justicia Administrativa, determinando la organización, competencia, funcionamiento y procedimientos para la defensa de los derechos de los Gobernados frente a los actos de las Autoridades Estatales, Municipales o de sus Organismos Descentralizados;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XLI.- Revisar, fiscalizar y calificar las cuentas públicas de los tres Poderes del Estado, de los Municipios y de los demás entes fiscalizables, sin perjuicio de las evaluaciones trimestrales, por períodos anuales, a mas tardar en el segundo período de sesiones ordinario siguiente, con base en los informes técnicos, financieros y los demás soportes documentales suficientes, que en términos de Ley, presente el Órgano Superior de Fiscalización del Estado.
+XLI.- Revisar, fiscalizar y calificar las cuentas públicas de los tres Poderes del Estado, de los Municipios y de los demás entes fiscalizables, por períodos anuales, sin perjuicio de las evaluaciones trimestrales, a más tardar en el período de sesiones ordinario siguiente al de la entrega del informe de resultados, con base en los reportes técnicos, financieros y los demás soportes documentales suficientes, que en términos de Ley presente el Órgano Superior de Fiscalización del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1137,13 +1169,15 @@ Cuando el Congreso se encuentre en receso, la calificación podrá realizarse de
 
 XLII.- Legislar en materia de participación ciudadana, estableciendo las normas para la presentación de las iniciativas ciudadanas; y la procedencia, aplicación y ejecución de las consultas populares;
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XLIII.- Aprobar, en su caso, los puntos de acuerdos legislativos o acuerdos económicos que propongan a la Legislatura los diputados o las fracciones parlamentarias, para gestionar ante las instancias competentes apoyo a la población o que busquen el beneficio de la ciudadanía tabasqueña;
+XLIII.- Aprobar, en su caso, los acuerdos parlamentarios o acuerdos económicos que propongan a la Legislatura la Junta de Coordinación Política, la Mesa Directiva, las fracciones parlamentarias o los diputados en lo individual, para gestionar ante las instancias competentes, apoyo a la población o que busquen el beneficio de la ciudadanía tabasqueña; o para el mejor ejercicio de las atribuciones del propio Congreso;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XLIV.- Legislar en materia de proyectos y contratos para prestación de servicios, obra pública, adquisiciones y arrendamientos contraídos por el Estado y, en su caso, por los Municipios cuyas obligaciones tengan una vigencia plurianual. Estos contratos plurianuales deben ser presentados al Congreso del Estado para su autorización; y
+XLIV.- Legislar en materia de proyectos y contratos relativos a la asociación o colaboración entre las personas físicas o jurídicas colectivas y las entidades de la administración pública estatal, así como lo referido a obra pública, adquisiciones y arrendamiento contraídos por el Estado y en su caso, por los municipios, cuyas obligaciones tienen una vigencia plurianual.
+
+Los contratos plurianuales deben ser autorizados por el Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1157,23 +1191,23 @@ XLVI.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue
 
 XLVII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las demás conferidas por la Constitución Política de los Estados Unidos Mexicanos, las leyes generales y por esta Constitución.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 37.
 
-Corresponde al Congreso con asistencia de no menos de las dos terceras partes del total de Diputados, resolver acerca de la solicitud de Licencia temporal o permanente que de su cargo haga el Gobernador del Estado.
+Corresponde al Congreso, con la asistencia de cuando menos las dos terceras partes del total de Diputados, resolver acerca de la renuncia que de su cargo haga el Gobernador del Estado. En su caso, las licencias temporales que solicite el Gobernador serán aprobadas con la asistencia de cuando menos la mayoría de los integrantes del Congreso.
 
-Sólo podrá aceptarse la licencia permanente, cuando a juicio del Congreso hubiere causa grave y suficiente, libre de toda coacción o violencia. En tal caso, se procederá de acuerdo con lo establecido en el artículo 47 de esta Constitución.
+Solo podrá aceptarse la renuncia del Gobernador, cuando a juicio del Congreso hubiere causa grave y suficiente, libre de toda coacción o violencia. En tal caso, se procederá de acuerdo a lo establecido en el artículo 47 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO VI. COMISION PERMANENTE Y SUS ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 38.
 
-La Comisión Permanente se integrará con seis Diputados y no podrá celebrar sesiones sin la concurrencia cuando menos de cuatro de sus miembros. La Ley Orgánica del Poder Legislativo establecerá la forma de elegir a sus miembros y las suplencias que correspondan.
+La Comisión Permanente se integrará con siete Diputados con el carácter de propietarios y tres suplentes y no podrá celebrar sesiones sin la concurrencia cuando menos de cuatro de sus miembros. Los suplentes solo entrarán en funciones cuando falten temporal o definitivamente los propietarios. La Ley Orgánica del Poder Legislativo establecerá la forma de elegir a sus miembros y las suplencias que correspondan.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1181,31 +1215,39 @@ La Comisión Permanente se integrará con seis Diputados y no podrá celebrar se
 
 Son obligaciones de la Comisión Permanente:
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-I.- Acordar por sí, cuando a su juicio lo exija el bien o la seguridad del Estado, o a solicitud del Poder Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias, señalando el objeto u objetos de esas sesiones, no pudiendo el Congreso atender más asuntos que aquellos para los que fue convocado;
+I.- Acordar, cuando a su juicio lo exija el bien o la seguridad del Estado, o a solicitud del Poder Ejecutivo, la convocatoria a la Legislatura para periodos o sesiones extraordinarias, señalando los asuntos a tratarse en los mismos, sin que se puedan atender otros diversos a aquellos para los que fuese convocada;
 
-II.- Recibir la protesta de ley a los Funcionarios que deban presentarlas ante el Congreso;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+II.- Recibir la protesta de ley a los servidores públicos que deban rendirla ante el Congreso;
 
-III.- Conceder las licencias que sean competencia del Congreso a los funcionarios que la soliciten, hasta por quince días;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+III.- Conceder las licencias que sean competencia del Congreso a los servidores públicos que la soliciten en los términos establecidos por las leyes aplicables;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
 IV.- Aprobar o no, con carácter provisional, los nombramientos de magistrados del Tribunal Superior de Justicia que someta a su consideración el Gobernador del Estado, con la sola excepción de los Interinos, según lo previsto en el artículo 56 de esta Constitución;
 
-V.- Nombrar con carácter provisional a todos los Funcionarios y empleados cuya designación compete al Congreso del Estado;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+V.- Nombrar con carácter provisional a todos los servidores públicos cuya designación compete al Congreso del Estado;
 
-VI.- Resolver los asuntos de su competencia y recibir durante los recesos del Congreso las iniciativas de ley y proposiciones; así como las observaciones a los proyectos de ley o decreto que envíe el Titular del Poder Ejecutivo, turnándolas para dictamen a las comisiones respectivas, a fin de que se despachen en el inmediato período de sesiones;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-VII.- Convocar a elecciones extraordinarias de Ayuntamientos conforme a la ley respectiva; y
+VI.- Recibir durante los recesos del Congreso las iniciativas de ley y las proposiciones de acuerdo; así como las observaciones a los proyectos de ley o decreto que envíe el Titular del Poder Ejecutivo, turnándolas a las comisiones respectivas, para los efectos correspondientes;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-VIII.- Las que le imponga esta Constitución y las demás disposiciones legales.
+VII.- Convocar a elecciones extraordinarias de Ayuntamientos, conforme a la ley respectiva;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
+
+VIII.- Resolver los asuntos de mero trámite parlamentario o de gestoría, que no impliquen reforma, adición, derogación o abrogación de leyes o decretos; y
+
+IX. Las demás que le otorguen esta Constitución y otras disposiciones legales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2002)</small>
 
@@ -1427,11 +1469,11 @@ Si la falta temporal se convierte en absoluta, se procederá como dispone el art
 
 El Gobernador no podrá ausentarse del territorio del Estado ni separarse del ejercicio de sus funciones por más de sesenta días, sin permiso de la Legislatura.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 50.
 
-El Gobernador Constitucional del Estado sólo podrá solicitar licencia permanente por causa grave que calificará la Legislatura en los términos del artículo 37.
+El Gobernador Constitucional del Estado sólo podrá presentar renuncia por causa grave que calificará y, en su caso, aceptará la Legislatura en los términos del artículo 37.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1505,9 +1547,9 @@ XVII.- Presentar un informe escrito al Congreso del Estado, el segundo domingo d
 
 XVIII.- Acordar que concurra a las sesiones de la Legislatura el Secretario del ramo que corresponde, cuando sea citado por el Congreso para informar acerca de alguna iniciativa de Ley, presentada por el Ejecutivo, o tratar temas relevantes de interés para el Congreso, relacionados con su ramo.
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
-XIX.- Pedir la protección de los Poderes de la Unión, en caso de sublevación o trastorno interior;
+XIX.- Pedir al Congreso del Estado, le conceda las facultades extraordinarias que necesite en situaciones de sublevación o trastorno interior. De ser necesario, si no estuviere reunido el Congreso del Estado, solicitar la protección de los poderes de la Unión, en caso de sublevación o trastorno interior.
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3454,3 +3496,11 @@ NOVENO. El Titular del Poder Ejecutivo, por conducto de las instancias competent
 Del mismo modo, el Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura, según sus respectivas competencias, dictarán las medidas administrativas necesarias al interior del Poder Judicial, que resulten necesarias para el adecuado cumplimiento de lo establecido en el presente Decreto y garantizar la continuidad en el desempeño de las funciones que le competen.
 
 DÉCIMO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Sexagésima Primera Legislatura deberá expedir la nueva Ley que norme su integración y procedimientos, antes de la conclusión del tercer año de su ejercicio constitucional.
+
+TERCERO.- En tanto se expiden las nuevas disposiciones legales y reglamentarias seguirán aplicándose, en lo conducente, las disposiciones de la Ley Orgánica del Poder Legislativo y del Reglamento Interior del Congreso, en todo lo que no se opongan a este Decreto.
