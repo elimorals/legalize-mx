@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-721
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2014-06-19"
+last_updated: "2015-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA PARA EL ESTADO DE DURANGO -- ANTES LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO --
 
-LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO
+LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -41,13 +41,19 @@ DECRETO No. 422
 
 LA HONORABLE SEXAGÉSIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 FRACCIÓN VI DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, DECRETA:
 
-LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA PARA EL ESTADO DE DURANGO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA
 
 ### CAPÍTULO I. DE SU OBJETO Y ESTRUCTURA
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, interés social y tiene como objeto regular la organización y funcionamiento de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, como órgano especializado del Sistema para el Desarrollo Integral de la Familia del Estado de Durango, la cual tiene como objetivos prestar asesoría jurídica, orientación, protección y defensa de manera gratuita a las niñas, los niños, adolescentes, mujeres, hombres y adultos mayores de bajos recursos económicos, o en situación de desamparo.
+Las disposiciones de esta ley son de orden público, interés social y tienen como objeto regular la organización y funcionamiento de la Procuraduría de la Defensa del Menor y la Familia, como órgano especializado del Sistema para el Desarrollo Integral de la Familia del Estado de Durango, la cual tiene como objetivos prestar asesoría jurídica, orientación, protección y defensa de manera gratuita a las niñas, los niños, adolescentes, mujeres, hombres y adultos mayores de bajos recursos económicos, o en situación de desamparo.
+
+La presente disposición se rige bajo los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en materia de protección de los derechos humanos de los menores y los inherentes a la familia, además de los estipulados por la Constitución Política del Estado Libre y Soberano de Durango y leyes secundarias.
 
 ###### Artículo 2.
 
@@ -65,7 +71,9 @@ V. Familia Sustituta: Es el grupo de individuos que va a sustituir provisional o
 
 VI. Interés Superior del Menor: Es la prioridad que ha de otorgarse a los derechos de las niñas, los niños y adolescentes, respecto de los derechos de cualquier otra persona, procurando garantizar, lo siguiente:
 
-a) El niño debe ser criado por su familia de origen o su familia extensa siempre que sea posible. Si esto no es posible o viable, entonces deberán ser consideradas otras formas de cuidado familiar permanente, tal como la adopción;
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+a) El niño debe ser criado por su familia de origen o su familia extensa o sustituta, siempre que sea posible. Si esto no es posible o viable, entonces deberán ser consideradas otras formas de cuidado familiar permanente, tal como la adopción;
 
 b) La adopción de las niñas, los niños o adolescentes sólo será autorizada por los jueces familiares de la entidad, los que determinarán, con arreglo a las leyes y a los procedimientos aplicables;
 
@@ -79,7 +87,9 @@ f) Fomentar la responsabilidad personal y social, así como la toma de decisione
 
 g) Garantizar los derechos que a favor de las niñas, los niños y adolescentes reconocen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, Tratados Internacionales y demás leyes aplicables.
 
-VII. Ley: A la presente Ley de la Procuraduría de la Defensa del Menor, la Mujer y la Familia para el Estado de Durango;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+VII. Ley. A la presente Ley de la Procuraduría de la Defensa del Menor y la Familia para el Estado de Durango;
 
 VIII. Niña o niño: A la persona hasta los doce años de edad, de acuerdo a la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes reglamentaria del Artículo 4 de la Constitución Política de los Estados Unidos Mexicanos;
 
@@ -89,13 +99,19 @@ X. Protección: Aquéllas acciones que deben realizarse a fin de proporcionar bi
 
 XI. Vulnerabilidad social: Se entiende como la condición de riesgo que padece un individuo, una familia o una comunidad, resultado de la acumulación de desventajas sociales e individuales, de tal manera que esta situación no pueda ser superada en forma autónoma y quedan limitados para incorporarse a las oportunidades de desarrollo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia estará integrada por:
+La Procuraduría de la Defensa del Menor y la Familia estará integrada por:
 
-I. Procurador de la Defensa del Menor, la Mujer y la Familia;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
 
-II. Subprocurador de la Defensa del Menor, la Mujer y la Familia;
+I. Procurador de la Defensa del Menor y la Familia;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+II. Subprocurador de la Defensa del Menor y la Familia;
 
 III. Subdirector de Asistencia Jurídica;
 
@@ -105,9 +121,11 @@ V. Delegado Municipal por cada cabecera Distrital Judicial; y
 
 VI. Por el demás personal que se determine administrativamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-Para ser Procurador o Subprocurador de la Defensa del Menor, la Mujer y la Familia se requiere:
+Para ser Procurador o Subprocurador de la Defensa del Menor y la Familia se requiere:
 
 I. Ser ciudadano duranguense, en pleno goce de sus derechos civiles y políticos;
 
@@ -141,13 +159,15 @@ Para el logro de los objetivos de la presente Ley, el Titular de la Procuradurí
 
 I. Vigilar el respeto a los derechos de las personas señaladas en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales en la materia ratificados por nuestro País, la Constitución Política del Estado Libre y Soberano de Durango, los artículos 3 y 11 de esta Ley, y demás legislación aplicable;
 
-II. Asesorar y en su caso representar legalmente los intereses de las niñas, niños o adolescentes ante las autoridades judiciales o administrativas;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+II. Asesorar y en su caso representar legalmente los intereses de las niñas, niños o adolescentes y los inherentes a la familia ante las autoridades judiciales o administrativas;
 
 III. Recibir toda denuncia de abuso, maltrato, abandono, violencia familiar o de cualquier otra circunstancia, que ponga en peligro la seguridad, el bienestar, la integridad física, psicológica, sexual o la dignidad de las niñas, niños o adolescentes; debiendo realizar las indagatorias necesarias tendientes a levantar las constancias administrativas respectivas y en su caso, denunciar ante el Agente del Ministerio Público los actos, hechos u omisiones que puedan considerarse constitutivos de delito, así como coadyuvar con el mismo en la integración de la averiguación previa y en su oportunidad en el proceso;
 
 IV. Establecer los procedimientos administrativos e implementar programas tendientes a prevenir, atender y erradicar la violencia familiar, conforme a las atribuciones que le confiere las Leyes en la materia en el Estado;
 
-V. Supervisar las instituciones de asistencia públicas o privadas debidamente registradas en el Sistema para el Desarrollo Integral de la Familia, a fin de cerciorarse que las personas que se encuentren en estado de vulnerabilidad, reciban los cuidados y atenciones necesarias para la satisfacción de sus necesidades primarias;
+V. (DEROGADA, P.O. 4 DE OCTUBRE DE 2015)
 
 VI. Determinar de manera provisional en los casos considerados como urgentes, el ingreso de menores sujetos de asistencia social a instituciones públicas o privadas más convenientes, como medida de protección y asistencia, hasta en tanto sea resuelta en definitiva su situación legal, dando aviso inmediato al Ministerio Público y a quien corresponda el ejercicio de la patria potestad;
 
@@ -175,7 +195,7 @@ XVII. Emplear para hacer cumplir sus determinaciones, cualquiera de los medios d
 
 XVIII. Gestionar ante el Oficial del Registro Civil la elaboración del acta de nacimiento de las niñas o niños abandonados o expósitos, así como la realización de campañas con la finalidad de regular el estado civil de las personas, mediante el registro de nacimientos de las niñas o niños, reconocimiento de hijos y matrimonios, siempre y cuando se acredite que son personas de escasos recursos económicos o en situación de vulnerabilidad;
 
-XIX. Fungir como enlace ante las instancias correspondientes del Sistema Nacional para el Desarrollo Integral de la Familia, a fin de supervisar las instituciones públicas o privadas dedicadas a la asistencia social;
+XIX. (DEROGADA, P.O. 4 DE OCTUBRE DE 2015)
 
 XX. Fomentar la participación de la sociedad en el diseño e instrumentación de las políticas y programas relacionados con los fines de esta Procuraduría;
 
@@ -195,23 +215,29 @@ XXVII. Designar delegados para que funjan como tutores ante las autoridades judi
 
 XXVIII. Elaborar el proyecto de presupuesto anual de la Procuraduría, y turnarlo al Director General del Sistema para el Desarrollo Integral de la Familia en el Estado;
 
-XXIX. Celebrar convenios relacionados con asuntos de menores, la mujer y la familia, previa autorización del Director General del Sistema para el Desarrollo Integral de la Familia en el Estado, con autoridades municipales de la entidad;
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
+XXIX. Celebrar convenios relacionados con asuntos de menores y la familia, previa autorización del Director General del Sistema para el Desarrollo Integral de la Familia en el Estado, con autoridades municipales de la entidad;
 
-XXX. Cuando las niñas, los niños o adolescentes que se van a adoptar no tiene (sic) padres, tutor o quien ejerza sobre ellos la patria potestad, podrá consentir en ella; así mismo, también en aquellos casos en que el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia tenga la custodia definitiva de una niña, niño o adolescente, ejerza la patria potestad del mismo, o bien si se tratare de una entrega voluntaria con el propósito de adopción, tomando en consideración que en la adopción prevalezca en todo momento el interés superior del mismo; y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+XXX. Cuando las niñas, niños o adolescentes que se van a adoptar no tiene (sic) padres, tutor o quien ejerza sobre ellos la patria potestad, podrá consentir en ella; así mismo, también en aquellos casos en que el Titular de la Procuraduría de la Defensa del Menor y la Familia tenga la custodia definitiva de una niña, niño o adolescente, ejerza la patria potestad del mismo, o bien si se tratare de una entrega voluntaria con el propósito de adopción, tomando en consideración que en la adopción prevalezca en todo momento el interés superior del mismo; y
 
 XXXI. Las demás que le confiera esta Ley, el Director General y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-El Subprocurador de la Defensa del Menor, la Mujer y la Familia, tiene las siguientes obligaciones y atribuciones:
+El Subprocurador de la Defensa del Menor y la Familia, tiene las siguientes obligaciones y atribuciones:
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2010)</small>
 
 I. Las señaladas en las fracciones I, II, III, IV, V, VI, VIII, IX, XV, XVII y XVIII del artículo 6 de la presente Ley; y
 
-II. Las demás que le sean encomendadas por el Procurador de la Defensa del Menor, la Mujer y la Familia y demás leyes aplicables.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+II. Las demás que le sean encomendadas por el Procurador de la Defensa del Menor y la Familia y demás leyes aplicables.
 
 ###### Artículo 8.
 
@@ -221,11 +247,15 @@ Los Delegados Municipales tienen las siguientes obligaciones y atribuciones:
 
 I. Las señaladas en las fracciones I, II, III, IV, V, VI, y IX del artículo 6 de la presente Ley; y
 
-II. Las demás que le sean encomendadas por el Procurador de la Defensa del Menor, la Mujer y la Familia y demás leyes aplicables.
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+II. Las demás que le sean encomendadas por el Procurador de la Defensa del Menor y la Familia y demás leyes aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 9.
 
-El Procurador y Subprocurador de la Defensa del Menor, la Mujer y la Familia serán designados por el Titular del Poder Ejecutivo del Estado, de una terna que al efecto presente el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado.
+El Procurador y Subprocurador de la Defensa del Menor y la Familia serán designados por el Titular del Poder Ejecutivo del Estado, de una terna que al efecto presente el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado.
 
 En todo momento estos podrán ser removidos de su cargo por el Titular del Poder Ejecutivo.
 
@@ -235,9 +265,11 @@ Los Delegados Municipales serán nombrados libremente por el Director General de
 
 ### CAPÍTULO II. DISPOSICIONES GENERALES APLICABLES A PROCEDIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-En el ejercicio de sus funciones la Procuraduría de la Defensa del Menor, la Mujer y la Familia, tiene como finalidad garantizar la justicia en la aplicación del derecho y resolver el conflicto surgido para contribuir a la restauración de la armonía social entre sus protagonistas, en un marco de respeto irrestricto a los derechos fundamentales de las personas.
+En el ejercicio de sus funciones la Procuraduría de la Defensa del Menor y la Familia, tiene como finalidad garantizar la justicia en la aplicación del derecho y resolver el conflicto surgido para contribuir a la restauración de la armonía social entre sus protagonistas, en un marco de respeto irrestricto a los derechos fundamentales de las personas.
 
 Se entenderá por derechos fundamentales a los reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Durango y en las leyes aplicables de la materia.
 
@@ -245,51 +277,71 @@ Se entenderá por derechos fundamentales a los reconocidos en la Constitución P
 
 Esta Procuraduría prestará sus servicios de manera gratuita y se regirá por los principios de oralidad, protección integral, Interés Superior del Menor, transversalidad y celeridad procesal.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 13.
 
-Todas las actuaciones de la Procuraduría de la Defensa del Menor, la Mujer y la Familia deberán realizarse en español. Cuando una persona no comprenda o no se exprese con facilidad en este idioma, se le brindará la ayuda necesaria para que el acto se pueda desarrollar de manera que lo comprenda, mediante la provisión de un intérprete o traductor.
+Todas las actuaciones de la Procuraduría de la Defensa del Menor y la Familia deberán realizarse en español. Cuando una persona no comprenda o no se exprese con facilidad en este idioma, se le brindará la ayuda necesaria para que el acto se pueda desarrollar de manera que lo comprenda, mediante la provisión de un intérprete o traductor.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 14.
 
-La Procuraduría de la Defesa (sic) del Menor, la Mujer y la Familia, deberá conocer de los hechos que pongan en riesgo la tranquilidad, la seguridad, dignidad, integridad física, psicológica o sexual de algún integrante de la familia o cualquiera de los sujetos protegidos por las leyes correspondientes.
+La Procuraduría de la Defesa (sic) del Menor y la Familia, deberá conocer de los hechos que pongan en riesgo la tranquilidad, la seguridad, dignidad, integridad física, psicológica o sexual de algún integrante de la familia o cualquiera de los sujetos protegidos por las leyes correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-Para la solicitud de los servicios que presta la Procuraduría de la Defensa del Menor, la Mujer y la Familia, se deberá:
+Para lasolicitud (sic) de los servicios que presta la Procuraduría de la Defensa del Menor y la Familia, se deberá:
 
 I. Acudir a las oficinas de esta Institución, para llenar los formatos correspondientes; o
 
 II. Presentar la denuncia o reporte hecha por cualquier persona que tenga conocimiento de estos sucesos, esta denuncia podrá ser presentada por cualquier medio.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-Una vez que se tenga conocimiento de los hechos que competen a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, se procederá a realizar las indagatorias respectivas mediante visitas domiciliarias, las cuales estarán a cargo del Departamento de Trabajo Social.
+Una vez que se tenga conocimiento de los hechos que competen a la Procuraduría de la Defensa del Menor y la Familia, se procederá a realizar las indagatorias respectivas mediante visitas domiciliarias, las cuales estarán a cargo del Departamento de Trabajo Social.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 17.
 
-Aunado a las actividades establecidas en el artículo anterior, para determinar si la persona sufre de maltrato, abandono, desamparo o desnutrición, la Procuraduría de la Defensa del Menor, la Mujer y la Familia, practicará a través del personal especializado los exámenes necesarios. En caso de no contar con expertos en la materia, esta Procuraduría podrá solicitar el apoyo de otras instituciones públicas para obtener resultados fidedignos.
+Aunado a las actividades establecidas en el artículo anterior, para determinar si la persona sufre de maltrato, abandono, desamparo o desnutrición, la Procuraduría de la Defensa del Menor y la Familia, practicará a través del personal especializado los exámenes necesarios. En caso de no contar con expertos en la materia, esta Procuraduría podrá solicitar el apoyo de otras instituciones públicas para obtener resultados fidedignos.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia, deberá iniciar un expediente con las constancias de las diligencias de investigación realizadas y actas circunstanciadas y en su oportunidad se hará allegar de los medios probatorios pertinentes para dar cumplimiento a lo estipulado por esta Ley.
+La Procuraduría de la Defensa del Menor y la Familia, deberá iniciar un expediente con las constancias de las diligencias de investigación realizadas y actas circunstanciadas y en su oportunidad se hará allegar de los medios probatorios pertinentes para dar cumplimiento a lo estipulado por esta Ley.
+
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia, dejará de conocer en los asuntos que se le presenten, cuando de las constancias aparezca que ésta no es competente para conocer del mismo; en éste caso, se indicará al solicitante la autoridad o institución competente, el trámite a seguir y en su oportunidad se canalizará a dicha autoridad mediante oficio.
+La Procuraduría de la Defensa del Menor y la Familia, dejará de conocer en los asuntos que se le presenten, cuando de las constancias aparezca que ésta no es competente para conocer del mismo; en éste caso, se indicará al solicitante la autoridad o institución competente, el trámite a seguir y en su oportunidad se canalizará a dicha autoridad mediante oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-En la guarda y cuidado temporal, así como en la custodia judicial otorgada por autoridad competente, de las niñas, niños o adolescentes que sean ingresados en los albergues del Sistema para el Desarrollo Integral de la Familia en el Estado, Instituciones de Asistencia Privada o en hogares sustitutos estarán a cargo de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, hasta en tanto se resuelva su situación jurídica.
+En la guarda y cuidado temporal, así como en la custodia judicial otorgada por autoridad competente, de las niñas, niños o adolescentes que sean ingresados en los albergues del Sistema para el Desarrollo Integral de la Familia en el Estado, Instituciones de Asistencia Privada o en hogares sustitutos estarán a cargo de la Procuraduría de la Defensa del Menor y la Familia, hasta en tanto se resuelva su situación jurídica.
 
 Al respecto el personal que esté al cuidado de las niñas, niños o adolescentes deberán presentarlos a las diligencias respectivas.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-En los casos en que los padres o quienes ejercen la patria potestad no muestren interés alguno por mejorar la situación familiar en un término que no podrá ser menor de dos ni exceder de seis meses, el Titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia emitirá el acuerdo de no reintegración para posteriormente iniciar el juicio de pérdida de patria potestad.
+En los casos en que los padres o quienes ejercen la patria potestad no muestren interés alguno por mejorar la situación familiar en un término que no podrá ser menor de dos ni exceder de seis meses, el Titular de la Procuraduría de la Defensa del Menor y la Familia emitirá el acuerdo de no reintegración para posteriormente iniciar el juicio de pérdida de patria potestad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia, podrá hacer cumplir sus determinaciones en el ejercicio de sus funciones, mediante la aplicación de los siguientes medios de apremio, en orden de prelación:
+La Procuraduría de la Defensa del Menor y la Familia, podrá hacer cumplir sus determinaciones en el ejercicio de sus funciones, mediante la aplicación de los siguientes medios de apremio, en orden de prelación:
 
 I. Apercibimiento;
 
@@ -360,3 +412,9 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 4 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
