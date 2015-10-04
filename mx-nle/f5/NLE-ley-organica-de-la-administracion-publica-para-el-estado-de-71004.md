@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-710
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-10-02"
-last_updated: "2011-12-26"
+last_updated: "2015-10-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 2 de octubre de 2009.
 
@@ -45,7 +45,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
 La presente Ley tiene por objeto organizar y regular el funcionamiento de la Administración Pública del Estado de Nuevo León, que se integra por la Administración Pública Central y la Paraestatal.
 
-La Administración Pública Central está conformada por las secretarías del ramo, la Procuraduría General de Justicia, la Oficina Ejecutiva del Gobernador, la Contraloría y Transparencia Gubernamental, la Consejería Jurídica del Gobernador y demás dependencias y unidades administrativas de coordinación, asesoría o consulta, cualesquiera que sea su denominación.
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+La Administración Pública Central está conformada por las secretarías del ramo, la Coordinación Ejecutiva de la Administración Pública del Estado, la Procuraduría General de Justicia, la Oficina Ejecutiva del Gobernador, la Contraloría y Transparencia Gubernamental, la Consejería Jurídica del Gobernador y demás dependencias y unidades administrativas de coordinación, asesoría o consulta, cualesquiera que sea su denominación.
 
 La Administración Pública Paraestatal está conformada por los organismos públicos descentralizados, organismos públicos descentralizados de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás entidades, cualquiera que sea su denominación.
 
@@ -131,37 +133,41 @@ Una Ley Orgánica y su reglamento, determinarán la organización y funcionamien
 
 ## TÍTULO TERCERO. DE LA COMPETENCIA DE LAS DEPENDENCIAS DEL EJECUTIVO
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 18.
 
 Para el estudio y despacho de los asuntos de la Administración Pública del Estado, auxiliarán al Titular del Ejecutivo las siguientes dependencias:
 
-I. Secretaría General de Gobierno;
+I. Coordinación Ejecutiva de la Administración Pública del Estado;
 
-II. Secretaría de Finanzas y Tesorería General del Estado;
+II. Secretaría General de Gobierno;
 
-III. Procuraduría General de Justicia;
+III. Secretaría de Finanzas y Tesorería General del Estado;
 
-IV. Oficina Ejecutiva del Gobernador;
+IV. Procuraduría General de Justicia;
 
-V. Secretaría de Seguridad Pública;
+V. Oficina Ejecutiva del Gobernador;
 
-VI. Secretaría de Educación;
+VI. Secretaría de Seguridad Pública;
 
-VII. Secretaría de Salud;
+VII. Secretaría de Educación;
 
-VIII. Secretaría de Desarrollo Económico;
+VIII. Secretaría de Salud;
 
-IX. Secretaría de Obras Públicas;
+IX. Secretaría de Desarrollo Económico;
 
-X. Secretaría de Desarrollo Social;
+X. Secretaría de Obras Públicas;
 
-XI. Secretaría del Trabajo;
+XI. Secretaría de Desarrollo Social;
 
-XII. Secretaría de Desarrollo Sustentable;
+XII. Secretaría del Trabajo;
 
-XIII. Contraloría y Transparencia Gubernamental; y
+XIII. Secretaría de Desarrollo Sustentable;
 
-XIV. Consejería Jurídica del Gobernador.
+XIV. Contraloría y Transparencia Gubernamental; y
+
+XV. Consejería Jurídica del Gobernador.
 
 ###### Artículo 19.
 
@@ -184,6 +190,54 @@ VI. Integrar y procesar la información del área del gabinete respectivo, a fin
 VII. Informar al Gobernador del Estado de los avances y resultados de los planes, programas y acciones desarrollados; y
 
 VIII. Las demás que señalen las leyes o decretos, reglamentos, acuerdos y resoluciones del Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 19 Bis.
+
+La Coordinación Ejecutiva de la Administración Pública del Estado, tendrá como función coordinar la integración y operación del gabinete de gobierno, servir de enlace con la sociedad civil y orientar las políticas, planes, programas y acciones de la administración pública.
+
+Su titular será propuesto al Congreso del Estado, por el Ejecutivo del Estado, la aprobación se hará previa comparecencia de la persona propuesta, por el voto secreto de cuando menos las dos terceras partes de los integrantes del Congreso, dentro de los cinco días siguientes a la fecha de la comparecencia. Si el Congreso, no se encontrase reunido la Diputación Permanente convocará a un Período Extraordinario de Sesiones, para tal efecto.
+
+En caso de que, transcurrido el plazo de cinco días, el Congreso, rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver, o no se alcance la votación de cuando menos las dos terceras partes de sus integrantes, el Ejecutivo del Estado, en un plazo de diez días, propondrá a otra persona y la aprobación se efectuará en los términos del párrafo anterior.
+
+Si presentada la segunda propuesta, el Congreso la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mitad más uno de los diputados asistentes a la sesión; de no reunirse esta votación, el Ejecutivo del Estado, dentro de los diez días posteriores a la celebración de la sesión, realizará la designación, la cual no podrá recaer en ninguna de las personas que en ese mismo procedimiento ya hubieran sido propuestas al Congreso, para ocupar dicho cargo.
+
+La Coordinación Ejecutiva de la Administración Pública del Estado, tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar la formulación del Plan Estatal de Desarrollo;
+
+II. Formular y proponer al Gobernador políticas públicas, planes, programas y acciones, generales o para cada ramo;
+
+III. Dar seguimiento a las políticas, planes, programas y acciones de gobierno y evaluar sus resultados presupuestales, económicos y sociales, informando al Gobernador de ellos;
+
+IV. Proponer al Gobernador la organización del gobierno, la creación o eliminación de dependencias, unidades administrativas y organismos, para lograr la máxima eficacia, eficiencia y austeridad;
+
+V. Coordinar la formulación de las iniciativas de ley de Ingresos, Ley de Egresos y demás normas que integren el paquete fiscal, en participación con la Secretaría de Finanzas y Tesorería General del Estado y demás dependencias, y proponerlas al Gobernador;
+
+VI. Coordinar las acciones de las diversas Secretarías y organismos en los programas y acciones plurisectoriales, organizando y controlando Unidades de Entrega encargadas de lograr sus resultados;
+
+VII. Coordinar reuniones de gabinete general y de gabinetes funcionales y presidirlas en ausencia del Gobernador;
+
+VIII. Propiciar y facilitar la comunicación y coordinación entre las dependencias y entidades de gobierno;
+
+IX. Integrar y procesar la información de gobierno, a fin de facilitar el diagnóstico, la evaluación y el seguimiento de los planes y programas que se establezcan;
+
+X. Establecer los criterios y estándares a que deben ajustarse los sistemas informáticos del gobierno;
+
+XI. Coordinar la elaboración de los informes de gobierno;
+
+XII. Servir como enlace, apoyo y conducto de comunicación del Gobernador con las organizaciones de la sociedad civil;
+
+XIII. Fomentar, formular y proponer al Gobernador mecanismos de participación ciudadana;
+
+XIV. Diseñar y supervisar sistemas de atención y quejas de ciudadanos;
+
+XV. Comparecer ante el Congreso del Estado de Nuevo León, previa autorización del Gobernador del Estado, para informar sobre los asuntos de sus (sic) ramo; y
+
+XVI. Las demás que señalen las leyes o decretos, reglamentos, acuerdos y resoluciones del Ejecutivo Estatal.
+
+El Coordinador Ejecutivo tendrá rango organizacional y remuneración intermedios entre Gobernador y Secretario. Contará con las unidades que sean necesarias para el eficaz desempeño de sus funciones, las cuales se autorizarán en los términos que indique el Gobernador. Sus órdenes y directrices deberán ser acatadas por las dependencias y organismos de la administración estatal siempre que no estén en conflicto con las órdenes y determinaciones del Gobernador.
 
 ###### Artículo 20.
 
@@ -389,9 +443,11 @@ XVIII. Coordinar, supervisar y evaluar las actividades y resultados de las entid
 
 XIX. Los demás que le señalen las leyes, reglamentos y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-La Oficina Ejecutiva del Gobernador, que contará con un Jefe de la Oficina, es la dependencia encargada de coordinar funcionalmente a las unidades responsables de apoyar al Ejecutivo en el desarrollo de las siguientes actividades: Coordinación Técnica de Gabinete; Secretaría Particular del Gobernador; Representación del Gobierno del Estado en el Distrito Federal; Planeación, Evaluación e Innovación Gubernamental; Relaciones Públicas Institucionales y demás actividades que defina el titular del Ejecutivo; lo anterior con el objeto de apoyarlo en el despacho funcional y eficaz de los asuntos que le correspondan.
+La Oficina Ejecutiva del Gobernador contará con un Jefe de la Oficina, tendrá a su cargo la Secretaría Particular del Gobernador, la Representación del Gobierno del Estado en el Distrito Federal, Relaciones Públicas Institucionales, las actividades de Agenda, Protocolo y demás actividades que defina el titular del Ejecutivo; lo anterior con el objeto de apoyarlo en el despacho funcional y eficaz de los asuntos que le correspondan.
 
 ###### Artículo 24.
 
@@ -1132,3 +1188,9 @@ Octavo.- Los Ayuntamientos de los Municipios del Estado deberán de expedir o mo
 P.O. 26 DE DICIEMBRE DE 2011.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 4 DE OCTUBRE DE 2015.
+
+Primero.- El presente Decreto entrará en vigor a partir del día 4 de octubre de 2015, una vez publicado en el Periódico Oficial del Estado, y una vez que entre en funciones el Gobernador Electo para el periodo 2015-2021.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
