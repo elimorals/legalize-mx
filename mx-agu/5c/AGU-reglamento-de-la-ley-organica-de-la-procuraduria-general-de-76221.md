@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-762
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-23"
-last_updated: "2015-04-13"
+last_updated: "2015-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 5 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de agosto de 2010.
 
@@ -762,3 +764,11 @@ PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.
 P.O. 13 DE ABRIL DE 2015.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
+
+P.O. 5 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES."]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Aguascalientes de fecha veintiocho de julio de dos mil diez, publicado en el Periódico Oficial del Estado de Aguascalientes el veintitrés de agosto de dos mil diez.
