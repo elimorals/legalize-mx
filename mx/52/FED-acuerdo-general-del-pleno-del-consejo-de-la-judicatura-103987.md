@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-09-07"
+last_updated: "2015-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -85,7 +85,7 @@ f) Los lineamientos generales para la operación del registro automatizado de en
 
 g) La regulación de premios que se otorgan a los servidores públicos del Poder Judicial de la Federación;
 
-h) Las bases de funcionamiento del Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, considerado como parte de las condiciones generales de trabajo establecidas a favor de dichos servidores públicos y en pro de la independencia de la judicatura;
+h) (DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 i) Las bases del funcionamiento de la prestación denominada Fondo de Reserva Individualizado para los servidores públicos de nivel operativo del Poder Judicial de la Federación, que se incorporen a dicho programa; así como regular en el ámbito administrativo la forma, condiciones y especificaciones para su instrumentación;
 
@@ -207,33 +207,7 @@ III. Unidad de Registro y Control de Asistencia: Encargada de la implementación
 
 ###### Artículo 4.
 
-Para efectos del Capítulo Segundo, del Título Segundo del Libro Segundo de este Acuerdo, se entenderá por:
-
-I. Comité Técnico del Fideicomiso: Órgano creado por el Consejo como fideicomitente en el contrato de fideicomiso de inversión constituido para tal efecto;
-
-II. Fondo: La cantidad de dinero del que se dispone para el financiamiento del Plan, mediante el fideicomiso de inversión constituido para tal efecto y de existir, la partida presupuestal correspondiente;
-
-III. Jubilación: Retiro del servicio activo otorgado a los servidores públicos del Poder Judicial de la Federación por haber cumplido la edad y los años de servicio determinados en este acuerdo, para tener derecho a gozar de la pensión complementaria en él regulada. La jubilación puede ser de dos tipos, a saber:
-
-a) Jubilación forzosa: se presenta cuando el magistrado de Circuito o juez de Distrito cumple la edad límite de 75 años y necesariamente debe retirarse de su cargo; y
-
-b) Jubilación anticipada: es la posibilidad que tienen los magistrados de Circuito o jueces de Distrito para solicitar su retiro voluntario cuando hayan cumplido 65 años de edad y, por lo menos, 25 años de servicio.
-
-Se considera que para efectos del cálculo de la antigüedad de los magistrados de Circuito y jueces de Distrito, se debe atender a lo dispuesto en el artículo 94 de la Constitución que dispone que el ejercicio del Poder Judicial de la Federación se deposita en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y Juzgados de Distrito;
-
-IV. Pensión Complementaria: Retribución mensual vitalicia que otorga el Consejo a aquellos que cumplan con los requisitos que para tal efecto se prevén en este Acuerdo;
-
-V. Pensión del ISSSTE: Es la retribución mensual que otorga el ISSSTE a los trabajadores que se jubilen, de conformidad con lo previsto en la Ley del ISSSTE.
-
-Para efectos del Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación, se considera como pensión del ISSSTE, el monto señalado como concepto “01 Pensión” del recibo de pago expedido por el propio Instituto;
-
-VI. Pensión total por jubilación: Retribución mensual que se integra con la pensión del ISSSTE más la pensión complementaria;
-
-VII. Plan: Plan de Pensiones Complementarias de Magistrados de Circuito y Jueces de Distrito del Poder Judicial de la Federación;
-
-VIII. Salario Neto: Retribución que se paga al trabajador por el ejercicio de su empleo, cargo o comisión, en cantidad líquida, por nómina, una vez descontadas todas las deducciones legales; y
-
-IX. Sueldo Pensionable: Salario mensual neto vigente, percibido por el servidor público respectivo, a la fecha de su baja en el cargo correspondiente.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 5.
 
@@ -1021,15 +995,15 @@ Los procedimientos administrativos de imposición de sanciones como la destituci
 
 ### CAPÍTULO OCTAVO. REGISTRO AUTOMATIZADO DE ENTRADA Y SALIDA
 
-#### SECCIÓN PRIMERA. BENEFICIARIOS DE LA PENSIÓN COMPLEMENTARIA
+#### SECCIÓN PRIMERA
 
-#### SECCIÓN SEGUNDA. CUANTÍA DE LA PENSIÓN POR JUBILACIÓN
+#### SECCIÓN SEGUNDA
 
-#### SECCIÓN TERCERA. PROCEDENCIA DE LA PENSIÓN COMPLEMENTARIA
+#### SECCIÓN TERCERA
 
-#### SECCIÓN CUARTA. MONTO DE LA PENSIÓN POR JUBILACIÓN O RETIRO ANTICIPADO
+#### SECCIÓN CUARTA
 
-#### SECCIÓN QUINTA. PROCEDIMIENTO DE SOLICITUD DE LA PENSIÓN COMPLEMENTARIA
+#### SECCIÓN QUINTA
 
 ### CAPÍTULO PRIMERO. PREMIO SILVESTRE MORENO CORA
 
@@ -1073,7 +1047,9 @@ Para la operación y funcionamiento del registro automatizado de entrada y salid
 
 En la implementación, operación y funcionamiento del registro automatizado deberán observarse los lineamientos previstos en este Acuerdo, los ordenamientos respectivos en materia de transparencia, acceso a la información, resguardo de la misma y protección de datos personales, y demás disposiciones aplicables.
 
-### CAPÍTULO SEGUNDO. PENSIONES COMPLEMENTARIAS
+### CAPÍTULO SEGUNDO
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
 ### CAPÍTULO TERCERO. FONDO DE RESERVA INDIVIDUALIZADO
 
@@ -1159,7 +1135,9 @@ La interpretación de este Capítulo corresponde a la Comisión de Administraci�
 
 La Comisión de Administración podrá emitir disposiciones administrativas para la operación del Registro.
 
-## TÍTULO SEGUNDO. DE LOS PREMIOS, PENSIONES, PRESTACIONES Y LICENCIAS
+> <small>(REFORMADA SU DENOMINACIÓN, POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
+
+## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
 
 ### CAPÍTULO CUARTO. CENTROS DE DESARROLLO INFANTIL
 
@@ -1189,377 +1167,153 @@ La Comisión de Administración realizará el análisis de los candidatos que re
 
 El premio se entregará en ceremonia especial, con motivo del Día del Servidor Público del Poder Judicial de la Federación.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
+
 ### CAPÍTULO QUINTO. LICENCIAS
 
-#### SECCIÓN SEXTA. RECURSO DE RECONSIDERACIÓN
+#### SECCIÓN SEXTA
 
 ###### Artículo 74.
 
-Los beneficiarios de la pensión complementaria son:
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
-I. El servidor público que se retire del cargo de magistrado de Circuito o juez de Distrito, siempre que reúna los requisitos previstos en los artículos 80 y 81 de este Acuerdo;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
-II. El cónyuge o concubinario supérstite del servidor público mencionado en la fracción anterior, siempre y cuando no contraiga nuevo matrimonio, entre en concubinato o dependa económicamente de otra persona; circunstancias que podrán ser verificadas en cualquier momento por la Dirección General de Servicios al Personal; y
-
-III. Los hijos menores de edad o incapaces de los servidores públicos mencionados en la fracción I de este artículo, hasta cumplir la mayoría de edad, excepto los incapaces.
-
-La cantidad total a que tengan derecho los beneficiarios señalados en las fracciones II y III de este artículo, se dividirá en partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y alguno de ellos perdiese el derecho a percibirla, la parte que le corresponda será repartida proporcionalmente entre los restantes.
-
-El Pleno podrá autorizar el otorgamiento de una pensión complementaria a los beneficiarios a que se refiere este artículo, aun cuando no satisfagan los requisitos que para tal efecto se prevén en este Capítulo, cuando por causas debidamente justificadas, y previo estudio socioeconómico, se advierta que carecen de ingresos suficientes que les permitan vivir con decoro.
-
-El monto de la pensión complementaria se deberá calcular conforme a las reglas previstas en la normativa vigente al momento en que cause baja el magistrado de Circuito o juez de Distrito respecto del cual se tramite la solicitud de pensión complementaria respectiva.
-
-El régimen de pensiones complementarias a que se refiere este Acuerdo se financiará con los fondos del fideicomiso de inversión que para tal efecto se haya constituido y, previa autorización del Pleno, con recursos presupuestales a través de la partida presupuestal correspondiente al Presupuesto de Egresos del Poder Judicial de la Federación.
-
-#### SECCIÓN SÉPTIMA. PAGO DE LA PENSIÓN COMPLEMENTARIA
+#### SECCIÓN SÉPTIMA
 
 ###### Artículo 75.
 
-La pensión total por jubilación que reciban los beneficiarios a que se refiere la fracción I del artículo anterior, ya sea por retiro forzoso o anticipado, podrá alcanzar hasta un 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban los magistrados de Circuito y jueces de Distrito en activo, y se integrará de la siguiente manera:
-
-I. Tratándose de los servidores públicos que se hubieran jubilado conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de veintisiete de diciembre de mil novecientos ochenta y tres, o que hayan optado por el sistema previsto en el artículo décimo transitorio de la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por la que otorgue el ISSSTE conforme a la normatividad aplicable y la asignada por el Consejo como pensión complementaria.
-
-Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas anualmente por la Dirección General de Servicios al Personal, conforme al incremento de la pensión del ISSSTE, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo; y
-
-II. Tratándose de los servidores públicos que se jubilen conforme al régimen previsto en la Ley del ISSSTE, publicada en el Diario Oficial de la Federación de treinta y uno de marzo de dos mil siete, la pensión total por jubilación estará integrada por una aportación base de diez veces el salario mínimo general mensual vigente para el Distrito Federal el día de su retiro y la asignada como pensión complementaria.
-
-Las pensiones complementarias calculadas conforme a esta fracción deberán ser ajustadas en el momento en que se conozca el monto máximo alcanzado por concepto de bono de pensión que haya correspondido al servidor público a través del PENSIONISSSTE o de la institución que maneje su cuenta individual y se le pagarán o retendrán, por la Dirección General de Servicios al Personal, las diferencias que resulten según sea el caso, entre la cantidad total asignada conforme a este sistema y el sueldo pensionable, que podrá ser de hasta el 80% sin que en ningún caso la pensión complementaria sea menor al 25% del salario neto que perciban los magistrados de Circuito o jueces de Distrito en activo, según las reglas de este Capítulo.
-
-Estas pensiones deberán asimismo ajustarse anualmente por la Dirección General de Servicios al Personal, conforme a las actualizaciones fijadas por la Comisión Nacional de Salarios Mínimos mediante publicación en el Diario Oficial de la Federación, para que el monto de la pensión total por jubilación no exceda del porcentaje del sueldo pensionable que le hubiera correspondido al beneficiario de que se trate, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito.
-
-Sobre el importe de la pensión complementaria que otorgue el Consejo, en términos de la fracción I o de la fracción II de este artículo, según proceda, se aplicará la retención del impuesto sobre la renta, observando lo previsto en la Ley del Impuesto Sobre la Renta, sin que para el cálculo de la aludida retención se considere el importe de la pensión otorgada por el ISSSTE, ya que dicho Instituto respecto de la pensión que otorgue, de proceder conforme a la mencionada ley, hará lo propio.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 76.
 
-Los montos de las pensiones complementarias serán determinados conforme a las reglas de este Capítulo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 77.
 
-La Comisión de Administración deberá ordenar, por lo menos una vez cada año, la práctica de estudios actuariales profesionales con el fin de disponer de elementos suficientes para la toma de decisiones que aseguren la suficiencia del Fondo y la supervivencia indefinida del Plan, teniendo siempre como objetivo, observar lo establecido en los artículos 75 y 76 de este Acuerdo.
-
-Se podrán recibir de cualquier persona donativos que permitan financiar el Plan.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 78.
 
-Para calcular cada pensión en particular, el Director General de Servicios al Personal deberá considerar el sueldo pensionable de cada servidor público y la pensión que debiera recibir del ISSSTE, conforme a la Ley del ISSSTE.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 79.
 
-Podrá negarse el otorgamiento de las pensiones complementarias a que se refiere este Capítulo, o, en cualquier momento, dejarse de otorgar o modificarse en cantidad o en el lapso durante el cual se otorgaron, por decisión del Pleno, aun cuando se cumplan todas las condiciones previstas en dicho Capítulo, atendiendo a las circunstancias especiales de cada caso en particular o a las generales que obliguen a ello.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE JUNIO DE 2015)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
-En el supuesto de que los servidores públicos que con antelación a su jubilación o durante ésta, con motivo de algún procedimiento de responsabilidad, sean sancionados con destitución del puesto o inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público, mediante resolución firme, se cancelará la pensión complementaria.
-
-#### SECCIÓN OCTAVA. SUSPENSIÓN Y CANCELACIÓN DE LA PENSIÓN COMPLEMENTARIA
+#### SECCIÓN OCTAVA
 
 ###### Artículo 80.
 
-El pago de las pensiones complementarias, tomando en consideración que su naturaleza constituye una condición general de trabajo, deberá condicionarse al cumplimiento de los siguientes requisitos de edad y antigüedad en el servicio:
-
-I. Para tener derecho al total de la pensión complementaria por jubilación forzosa, los magistrados de Circuito y jueces de Distrito deberán haber cumplido 75 años de edad; y
-
-II. Para tener derecho a solicitar la pensión complementaria por jubilación anticipada, los magistrados de Circuito y jueces de Distrito deberán haber cumplido, cuando menos, 65 años de edad y 25 años de servicio en el Poder Judicial de la Federación; en cuyo caso, la pensión complementaria sufrirá un descuento proporcional por cada año que falte para que se cumplan los 75 años de edad, en los términos de la fracción II del artículo 84 de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 81.
 
-Los magistrados de Circuito y jueces de Distrito a los que el ISSSTE, diagnostique una incapacidad física o mental permanente, de conformidad con la Ley del ISSSTE, tendrán derecho a una pensión total del 80% del sueldo pensionable, sin que en ningún caso la pensión complementaria sea menor al 25% del salario mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
-
-Los beneficiarios de los servidores públicos que reciban esta pensión se regirán por lo previsto en los artículos 74 y 85 de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 82.
 
-En caso de que un magistrado de Circuito o juez de Distrito fallezca durante el ejercicio de su cargo, se equiparará al caso de jubilación forzosa a que se refiere la fracción I del artículo 80 de este Acuerdo, por lo que sus beneficiarios tendrán derecho a recibir la pensión complementaria prevista en el artículo 84 del mismo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 83.
 
-No procederá el otorgamiento de la pensión complementaria cuando no se reúnan los requisitos previstos en el artículo 80 de este Acuerdo y demás aplicables de este Capítulo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 84.
 
-Los montos de las pensiones complementarias a que se refiere este Acuerdo se sujetarán a lo siguiente:
-
-I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual neto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial de la Federación y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión total por jubilación podrá exceder de tal porcentaje, ni la pensión complementaria podrá ser menor al 25% del salario neto que perciban magistrados de Circuito o jueces de Distrito en activo; y
-
-II. La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad en una línea oblicua. Así, la pensión total por jubilación anticipada, deberá ser tal que, integrada por la que otorgue el ISSSTE y la asignada como pensión complementaria, dé por resultado el porcentaje que se establece a continuación sin que éste en ningún caso llegue a exceder los porcentajes a que se refiere la fracción anterior:
-
-a) A los 65 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
-
-5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
-
-6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
-
-7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
-
-8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-b) A los 66 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
-
-5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
-
-6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
-
-7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-10. 34 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-c) A los 67 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
-
-5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
-
-6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-9. 33 años de servicios efectivos en el Poder Judicial o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-d) A los 68 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
-
-5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-8. 32 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-e) A los 69 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-7. 31 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-f) A los 70 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-6. 30 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-g) A los 71 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-5. 29 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-h) A los 72 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-4. 28 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
-
-i) A los 73 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-3. 27 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
-
-j) A los 74 años de edad y:
-
-1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
-
-2. 26 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
-
-La información anterior se representa gráficamente en la siguiente tabla:
-
-Edad Antigüedad
-
-% 25 26 27 28 29 30 31 32 33 34 35
-
-65 45 47.5 50 52.5 55 57.5 69 73 76 78 80
-
-66 47.5 50 52.5 55 57.5 69 73 76 78 80 80
-
-67 50 52.5 55 57.5 69 73 76 78 80 80 80
-
-68 52.5 55 57.5 69 73 76 78 80 80 80 80
-
-69 55 57.5 69 73 76 78 80 80 80 80 80
-
-70 57.5 69 73 76 78 80 80 80 80 80 80
-
-71 69 73 76 78 80 80 80 80 80 80 80
-
-72 73 76 78 80 80 80 80 80 80 80 80
-
-73 76 78 80 80 80 80 80 80 80 80 80
-
-74 78 80 80 80 80 80 80 80 80 80 80
-
-75 80 80 80 80 80 80 80 80 80 80 80
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 85.
 
-La pensión total por jubilación para los beneficiarios a que se refiere el artículo 74, fracciones II y III de este Acuerdo, deberá representar el 50% de la que correspondiera a los servidores públicos jubilados beneficiados por el Plan y, en ningún caso, la pensión complementaria podrá ser menor al 25% del salario mensual neto que perciban magistrados de Circuito o Jueces de Distrito en activo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 86.
 
-No obstante lo previsto en los artículos 75 y 76 de este Acuerdo, el Pleno podrá incrementar las pensiones complementarias otorgadas, siempre y cuando los recursos del Plan lo permitan y tal incremento no ponga en riesgo la solidez financiera del mismo, previo estudio actuarial y señalando los criterios que se hayan tomado en cuenta para determinar el incremento.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
-En ejercicio de dichas atribuciones, el Pleno podrá revisar el monto de las pensiones por jubilación, a fin de que la pensión total se mantenga dentro del 80% del sueldo pensionable, y que la pensión complementaria no resulte menor al 25% del sueldo mensual neto que perciban magistrados de Circuito o jueces de Distrito en activo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. DEL FONDO
 
 ###### Artículo 87.
 
-Para recibir la pensión complementaria a que se refiere este Acuerdo, será necesario que el beneficiario interesado lo solicite mediante escrito dirigido a la Comisión de Administración, el que deberá ser presentado en la Oficialía de Partes y Certificación del Edificio Sede del Consejo, directamente o por correo certificado.
-
-El plazo para solicitar las pensiones complementarias generadas y no reclamadas prescribirá en un año, contado a partir de la fecha en que se genere el derecho a recibir la pensión complementaria.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 88.
 
-Una vez presentada la solicitud de pensión complementaria, la Dirección General de Servicios al Personal deberá recabar la información necesaria para integrar el expediente respectivo y, con base en éste, elaborar un proyecto de resolución en el que proponga a la Comisión de Administración el sentido de la resolución que determine sobre la procedencia o no de la pensión solicitada, en un plazo que no deberá exceder de treinta días siguientes a la integración del citado expediente.
-
-La Comisión de Administración deberá rendir un informe mensual al Pleno de las resoluciones que emita, mediante una relación de asuntos autorizados, en la que se señale el nombre del solicitante, el sentido de la resolución y, en su caso, el monto otorgado. A dicho informe se anexará el documento que acredite la situación financiera del Fondo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 89.
 
-Las resoluciones serán firmadas por el presidente de la Comisión de Administración, por el titular de la Dirección General de Servicios al Personal y por el secretario técnico de la citada Comisión, quien autorizará y dará fe de éstas.
-
-Las resoluciones que determinen sobre la procedencia de la pensión complementaria deberán notificarse al peticionario correspondiente, a más tardar dentro de los quince días hábiles siguientes a su emisión, mediante el servidor público que al efecto se habilite, entregándole copia certificada de la resolución. Asimismo, se deberá remitir una copia certificada de dicha resolución a la Dirección General de Recursos Humanos para que sea agregada al expediente personal respectivo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 90.
 
-El titular de la Dirección General de Servicios al Personal deberá instrumentar los mecanismos para la implementación de un programa de revisión de supervivencia, que se llevará a cabo dos veces al año.
-
-De los resultados que se obtengan se elaborará un informe, el cual deberá ser presentado a la Comisión de Administración.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 91.
 
-La Contraloría, en el ámbito de su competencia, vigilará el cumplimiento de las disposiciones aplicables al Plan.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
 #### SECCIÓN TERCERA. DE LA INCORPORACIÓN, RETIRO Y PRÉSTAMO DEL FONDO
 
 ###### Artículo 92.
 
-Las resoluciones por las que la Comisión de Administración determine negar la pensión complementaria solicitada, así como los términos en que se hubiere otorgado, podrán ser impugnadas por el interesado ante el Pleno mediante recurso de reconsideración.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 93.
 
-El plazo para interponer el recurso de reconsideración será de treinta días hábiles siguientes al en que surta efectos la notificación de la resolución respectiva.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 94.
 
-El recurso de reconsideración deberá interponerse por el interesado, mediante escrito dirigido al Pleno, el que deberá ser presentado en la Oficialía de Partes y Certificación del Edificio Sede del Consejo, directamente o por correo certificado.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 95.
 
-El recurso de reconsideración se substanciará de plano por el Pleno, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 96.
 
-En contra de la resolución que decida sobre el recurso de reconsideración no procederá medio de impugnación alguno.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 97.
 
-El derecho a recibir la pensión complementaria, para los beneficiarios a que se refiere el artículo 74, fracción I, de este Acuerdo, se origina a partir del día siguiente a la fecha de baja en el cargo del que se retire el servidor público de que se trate, siempre y cuando la solicitud de pensión complementaria sea procedente.
-
-El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará dentro de los últimos tres días del mes vencido; tratándose del primer pago, éste se hará retroactivo a partir del día siguiente de la baja del servidor público, salvo lo dispuesto en el segundo párrafo del artículo 87 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 98.
 
-En caso de que cualquiera de los beneficiarios de la pensión complementaria, a que se refiere el artículo 74 de este Acuerdo, no cuente oportunamente con el documento que determine el monto de la pensión del ISSSTE, la Comisión de Administración podrá autorizar, previa solicitud por escrito, el pago anticipado de una cantidad equivalente al 50% de la pensión complementaria que aproximadamente se calcule le habrá de corresponder.
-
-El pago de este anticipo se realizará, según corresponda, conforme a lo previsto en este Capítulo.
-
-Cuando el ISSSTE cuantifique la pensión a su cargo, la Dirección General de Servicios al Personal realizará los ajustes pertinentes al monto definitivo de la pensión complementaria y pagará, en su caso, los remanentes en favor del beneficiario, lo cual deberá informarse a la Comisión de Administración.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 99.
 
-Tratándose de los beneficiarios a que se refieren las fracciones II y III del artículo 74 de este Acuerdo, el derecho a recibir la pensión complementaria se origina a partir del día siguiente a la fecha de fallecimiento del servidor público beneficiado por el Plan, salvo lo dispuesto en el segundo párrafo del artículo 87 de este Acuerdo, en cuyo caso el pago se hará a partir de la fecha de presentación de la solicitud.
-
-En los casos en que el fallecimiento del titular de la pensión complementaria ocurra antes de que transcurra el periodo por el cual ya se hubiese realizado el pago, el excedente será compensado del monto de la pensión que corresponda al beneficiario.
-
-El pago de las pensiones complementarias que sean procedentes, en su caso, se realizará de conformidad con lo previsto en el párrafo segundo del artículo 97 de este Acuerdo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 100.
 
-En caso de fallecimiento de un beneficiario de la pensión complementaria la devolución del excedente que, en su caso, se hubiera pagado, será resuelta por la Comisión de Administración, previo informe que al respecto rinda el titular de la Dirección General de Servicios al Personal.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 101.
 
-Una vez otorgada la pensión complementaria por la Comisión de Administración o el Pleno, en su caso, se girarán instrucciones conducentes al Comité Técnico del Fideicomiso para la autorización del pago correspondiente.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 102.
 
-El titular de la Dirección General de Servicios al Personal informará mensualmente a la Comisión de Administración, de lo que se hubiera realizado de conformidad con lo dispuesto en este Capítulo.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. PRESTACIÓN DE SERVICIOS
 
@@ -1567,29 +1321,19 @@ El titular de la Dirección General de Servicios al Personal informará mensualm
 
 ###### Artículo 103.
 
-Se suspenderá el pago de la pensión complementaria cuando el magistrado de Circuito o juez de Distrito jubilado que la estuviere recibiendo, por cualquier causa, regresare al servicio activo en cualquier cargo dentro del Poder Judicial de la Federación.
-
-La suspensión surtirá efectos a partir de la fecha de reinicio de actividades; sin embargo, la pensión podrá ser reiniciada a partir de la fecha en que el beneficiario señalado en el párrafo anterior se retire del servicio activo del Poder Judicial de la Federación, siempre y cuando no reciba alguna otra pensión en el Poder Judicial de la Federación.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 104.
 
-Se cancelará la pensión complementaria a que se refiere este Capítulo cuando, para obtenerla, cualquiera de los beneficiarios hubiese proporcionado datos falsos que induzcan al error o se aprovechen de aquél en que la Dirección General de Servicios al Personal hubiese incurrido.
-
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE JUNIO DE 2015)</small>
-
-También procede la cancelación de la pensión cuando, por resolución firme, se determine que el beneficiario que la esté disfrutando ha sido sancionado con destitución del puesto o inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público; o cuando incumpla la prohibición contenida en el párrafo segundo del artículo 101 de la Constitución.
-
-La resolución que determine la cancelación de la pensión complementaria será emitida por el Pleno, previo dictamen de la Comisión de Administración.
-
-Tratándose del supuesto previsto en la fracción III del artículo 74 de este Acuerdo, la cancelación de la pensión procederá de pleno derecho, sin substanciación de procedimiento alguno, cuando los beneficiarios cumplan la mayoría de edad, excepto los incapaces.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 105.
 
-Para efectos de lo dispuesto en el artículo 12 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, se publicará trimestralmente la información del fideicomiso constituido por el Consejo para financiar el Plan, y se remitirá a las autoridades que conforme a la ley corresponda.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ###### Artículo 106.
 
-La Comisión de Administración es el órgano encargado de interpretar las disposiciones de este Capítulo, así como de resolver las situaciones no previstas en el mismo para lo cual, en su caso, podrá solicitar la opinión de las áreas administrativas correspondientes.
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 ### CAPÍTULO PRIMERO. ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA
 
@@ -9173,15 +8917,7 @@ Artículo 835 Septdecies. La tarifa de viáticos sin pernocta se aplicará cuand
 
 La tarifa total unificada se aplicará por los días que pernocta el servidor público comisionado en el lugar de la comisión, siendo ésta, la que incluye las tarifas de viáticos sin pernocta más la correspondiente al hospedaje; pudiendo el servidor público comisionado adecuar de manera indistinta el ejercicio del gasto entre viáticos y hospedaje, siempre y cuando no se rebase el monto resultante de la suma de ambos conceptos por el total de días que dure la comisión.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Octodecies. Cuando sea necesario que un servidor público acompañe a un superior jerárquico a una comisión en la cual se requiera la homologación de las tarifas de viáticos, se deberán observar las siguientes disposiciones:
-
-I. Los servidores públicos que en razón de sus atribuciones deban acompañar directamente a los Consejeros para el desempeño de sus comisiones, se les podrán homologar a las tarifas del Grupo 1, siempre y cuando exista la autorización expresa del Consejero o la persona designada por éste;
-
-II. En los Grupos 2 y 3 la homologación para los servidores públicos, podrá ser hasta por las tarifas correspondientes al titular del área solicitante; y
-
-III. El Pleno o una de las Comisiones podrán designar a los servidores públicos que asistan en representación de un Consejero, y solicitar que se les otorguen las tarifas homologadas a Grupo 1.
+Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10347,6 +10083,8 @@ Todas las instalaciones deberán contar con un análisis de riesgo.
 
 En las instalaciones, la Administración de Inmuebles deberá colocar en lugar visible, las medidas de acceso, estancia y salida de las mismas, con el propósito de orientar a servidores públicos y visitantes, así como transparentar las mismas.
 
+#### SECCIÓN PRIMERA. DEROGADA
+
 ###### Artículo 922.
 
 La Coordinación de Seguridad presentará al Pleno para su consideración y, en su caso, aprobación, el Plan Estratégico de Seguridad Institucional, el cual se mantendrá actualizado en todo momento.
@@ -10378,6 +10116,8 @@ II. Gestionar y proveer los servicios de mantenimiento para la correcta operaci�
 ###### Artículo 926.
 
 La Coordinación de Seguridad atenderá los requerimientos que en materia de seguridad le soliciten las áreas administrativas, órganos jurisdiccionales y servidores públicos y, en su caso, atenderá en forma oportuna a las llamadas urgentes que se reciban en esta materia.
+
+#### SECCIÓN SEGUNDA. DEROGADA
 
 ###### Artículo 927.
 
@@ -10449,6 +10189,8 @@ En la aplicación de los acuerdos generales y demás disposiciones del Consejo r
 
 El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social o del Administrador del Centro de Justicia Penal quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.
 
+#### SECCIÓN TERCERA. DEROGADA
+
 ###### Artículo 934.
 
 Las instalaciones deberán contar con medidas de control de ingreso y salida, centros de control y monitoreo y otros instrumentos tecnológicos de seguridad que sean necesarios para preservar la seguridad de los servidores públicos, visitantes, instalaciones, equipos y demás bienes del Poder Judicial de la Federación.
@@ -10471,6 +10213,8 @@ La información que se genere por el uso de los equipos mencionados en el artíc
 
 El manejo, resguardo y entrega de la información generada por dichos sistemas, se regulará por los manuales, procedimientos y sistemas establecidos por la Coordinación de Seguridad, en ellos se privilegiará en todo momento la protección de los datos personales, con las excepciones que las leyes determinen. El mal uso de dicha información quedará bajo la responsabilidad de quien la controle y divulgue.
 
+#### SECCIÓN CUARTA. DEROGADA
+
 ###### Artículo 938.
 
 El procedimiento de contratación del personal de vigilancia será responsabilidad de las áreas administrativas competentes en términos de los acuerdos generales que dicte el Consejo. La Coordinación de Seguridad determinará los requerimientos técnicos y será la encargada de determinar el número y distribución de las personas contratadas para el servicio de vigilancia, con base en el análisis de riesgos de cada una de las instalaciones.
@@ -10478,6 +10222,8 @@ El procedimiento de contratación del personal de vigilancia será responsabilid
 Asimismo, y a través del personal de seguridad, evaluará la prestación de los servicios de seguridad y vigilancia en coordinación con la Administración de Inmuebles y, en su caso, reportará los incumplimientos para que el área competente determine las penalizaciones o demás medidas que en términos contractuales correspondan.
 
 La administración de Inmuebles deberá reportar al área de contratación de que se trate, cualquier situación que contravenga las obligaciones contractuales.
+
+#### SECCIÓN QUINTA. DEROGADA
 
 ###### Artículo 939.
 
@@ -11037,6 +10783,8 @@ IV. Hacer uso debido de su certificado digital de la FIREL; y
 
 V. Revocar de inmediato su certificado digital de la FIREL cuando se ponga en riesgo la confidencialidad de la llave privada o de las claves referidas en la fracción II de este artículo.
 
+### CAPÍTULO SEGUNDO. DEROGADO
+
 ###### Artículo 995.
 
 Las conductas de los servidores públicos que impliquen el incumplimiento a los preceptos establecidos en este Título, dará lugar al procedimiento y a las sanciones que correspondan en términos de lo previsto en la Ley Orgánica, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables.
@@ -11458,3 +11206,181 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Administración como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos.
+
+D.O.F. 5 DE OCTUBRE DE 2015.
+
+ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
+
+CUARTO. Se reforma la denominación del Título Segundo, del Libro Segundo; y se derogan el inciso h) del artículo 1; el artículo 4; así como el Capítulo Segundo, del Título Segundo del Libro Segundo, con todas sus Secciones y los artículos 74 a 106 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo, para quedar como sigue:
+
+“Artículo 1. …
+
+I. …
+
+a) a g) …
+
+h) Derogado;
+
+i) a k) …
+
+II. a VIII. …
+
+###### Artículo 4.
+
+Derogado.
+
+## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
+
+#### SECCIÓN SEXTA. DEROGADA
+
+###### Artículo 74.
+
+Derogado.
+
+#### SECCIÓN SÉPTIMA. DEROGADA
+
+###### Artículo 75.
+
+Derogado.
+
+###### Artículo 76.
+
+Derogado.
+
+###### Artículo 77.
+
+Derogado.
+
+###### Artículo 78.
+
+Derogado.
+
+###### Artículo 79.
+
+Derogado.
+
+#### SECCIÓN OCTAVA. DEROGADA
+
+###### Artículo 80.
+
+Derogado.
+
+###### Artículo 81.
+
+Derogado.
+
+###### Artículo 82.
+
+Derogado.
+
+###### Artículo 83.
+
+Derogado.
+
+###### Artículo 84.
+
+Derogado.
+
+###### Artículo 85.
+
+Derogado.
+
+###### Artículo 86.
+
+Derogado.
+
+###### Artículo 87.
+
+Derogado.
+
+###### Artículo 88.
+
+Derogado.
+
+###### Artículo 89.
+
+Derogado.
+
+###### Artículo 90.
+
+Derogado.
+
+###### Artículo 91.
+
+Derogado.
+
+###### Artículo 92.
+
+Derogado.
+
+###### Artículo 93.
+
+Derogado.
+
+###### Artículo 94.
+
+Derogado.
+
+###### Artículo 95.
+
+Derogado.
+
+###### Artículo 96.
+
+Derogado.
+
+###### Artículo 97.
+
+Derogado.
+
+###### Artículo 98.
+
+Derogado.
+
+###### Artículo 99.
+
+Derogado.
+
+###### Artículo 100.
+
+Derogado.
+
+###### Artículo 101.
+
+Derogado.
+
+###### Artículo 102.
+
+Derogado.
+
+###### Artículo 103.
+
+Derogado.
+
+###### Artículo 104.
+
+Derogado.
+
+###### Artículo 105.
+
+Derogado.
+
+###### Artículo 106.
+
+Derogado.
+
+D.O.F. 5 DE OCTUBRE DE 2015.
+
+ACUERDO GENERAL POR EL QUE SE DEROGA EL ARTÍCULO 835 OCTODECIES DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se derogan todas aquellas disposiciones, acuerdos o lineamientos que establezcan la posibilidad de que el funcionario al que se encomienda una comisión oficial pueda ser acompañado por otro servidor público o por alguien ajeno al Consejo de la Judicatura Federal.
