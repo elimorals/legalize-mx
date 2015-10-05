@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-la-mujer-de-san-38247"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-04"
-last_updated: "2013-05-31"
+last_updated: "2015-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE LA MUJER DE SAN NICOLÁS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO DÉCIMO SÉPTIMO TRANSITORIO DEL ACUERDO DE REFORMA AL REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN, PUBLICADO EN EL PERIÓDICO OFICIAL EL 5 DE OCTUBRE DE 2015, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 01 PRIMERO DE NOVIEMBRE DE 2015.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE OCTUBRE DE 2015. (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial de Estado de Nuevo León, el viernes 6 de febrero de 2004.
 
@@ -560,3 +562,45 @@ La presente reforma entrará en vigor el día de su publicación en el Periódic
 P.O. 31 DE MAYO DE 2013.
 
 PRIMERO (SIC): La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE OCTUBRE DE 2015.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMA EL REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]</small>
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día 01-primero de noviembre de 2015.
+
+SEGUNDO.- El presente Reglamento deroga todos los acuerdos o disposiciones que se opongan al mismo.
+
+TERCERO.- Los Trámites y Recursos Administrativos iniciados antes de la entrada en vigor del presente Reglamento, se regirán según las disposiciones vigentes al momento de emitirse el acto de autoridad que se impugna.
+
+CUARTO.- Para todos los efectos legales y reglamentarios publíquese en el Periódico Oficial del Estado; en la Gaceta Municipal, así como en el portal electrónico de Internet del Municipio de conformidad con el artículo 9 de la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+QUINTO.- Las facultades, atribuciones, y responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas en materia de Inspección, Vigilancia, Procedimiento y Sanción que corresponde actualmente a cada una de las Secretarías, a través de sus distintas direcciones o áreas competentes, será competencia a partir de la entrada en vigor del presente ordenamiento de la Secretaría del Ayuntamiento, a través de la Dirección General de Inspección.
+
+SEXTO.- Las facultades, atribuciones, y responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas en materia de Anuncios, que corresponde actualmente a la Secretaría de Obras Publicas, Desarrollo Urbano y Medio Ambiente, a través de sus distintas direcciones o áreas competentes, será competencia a partir de la entrada en vigor del presente ordenamiento, de la Secretaría del Ayuntamiento, a través de la Dirección General de Gobierno, a excepción de Inspección y Vigilancia en materia de anuncios, que corresponderá a la Secretaría del Ayuntamiento en términos del transitorio Quinto de la presente reforma.
+
+SEPTIMO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas a la Secretarla de Administración, se entenderán referidas a la Secretaría de Finanzas y Tesorería. Para todos los efectos legales y reglamentarios cuando se haga mención de la Secretaría de Administración en normas jurídicas vigentes se entenderá referida a la Secretaría de Finanzas y Tesorería.
+
+OCTAVO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas a la Secretaría de Seguridad, se entenderán referidas a la Secretaría de de Seguridad y Movilidad. Para todos los efectos legales y reglamentarios cuando se haga mención de la Secretaría de Seguridad en normas jurídicas vigentes se entenderá referida a la Secretaria de Seguridad y Movilidad.
+
+NOVENO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas a la Dirección de Seguridad Vial, o Dirección de Tránsito, se entenderán referidas a la Dirección de Movilidad. Para todos los efectos legales y reglamentarios cuando se haga mención de la Dirección de Seguridad Vial o Dirección de Tránsito, se entenderá referida a la Dirección de Movilidad.
+
+DECIMO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas relativas a la Dirección Operativa, se entenderán referidas a la Dirección de Policía Comunitaria. Para todos los efectos legales y reglamentarios cuando se haga mención de la Dirección Operativa, se entenderá referida a la Dirección de Policía Comunitaria.
+
+DÉCIMO PRIMERO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas a la Dirección de Protección Civil, se entenderán referidas a la Dirección de Bomberos y Protección Civil. Para todos los efectos legales y reglamentarios cuando se haga mención de la Dirección de Protección Civil, se entenderá referida a la Dirección de Bomberos y Protección Civil.
+
+DÉCIMO SEGUNDO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas a la Dirección de Limpia, se entenderán referidas a la Dirección de Mantenimiento Urbano. Para todos los efectos legales y reglamentarios cuando se haga mención de la Dirección de Limpia, se entenderá referida a la Dirección de Mantenimiento Urbano.
+
+DÉCIMO TERCERO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas en materia de participación ciudadana serán referidas a la Secretaría de Participación Ciudadana.
+
+DÉCIMO CUARTO.- Las facultades, atribuciones, responsabilidades establecidas en los demás reglamentos, acuerdos, circulares, manuales de procedimiento y demás disposiciones administrativas en materia de Calidad, Evaluación, Planeación y Seguimiento serán referidas al Instituto de Planeación y Desarrollo Municipal IMPLADEM, y se establece un término de 30-treinta días naturales a fin de que se lleven a cabo las actualizaciones correspondientes dentro del ordenamiento correspondiente.
+
+DECIMO QUINTO.- La Dirección General de Gobierno, se integra con las Coordinaciones de Jueces Calificadores, Pasaportes, Anuncios, Comercio, Reglamentación y Seguimiento de Actas.
+
+DECIMO SEXTO.- Se abroga el Reglamento del Instituto Municipal de la Juventud de San Nicolás, publicado en el Periódico Oficial del Estado Núm. 20 de fecha 06 de febrero de 2004.
+
+DECIMO SEPTIMO.- Se abroga el Reglamento del Instituto de la Mujer de San Nicolás, publicado en el Periódico Oficial del Estado Núm. 20 de fecha 06 de febrero de 2004.
+
+DECIMO OCTAVO.- Se abroga el Reglamento del Instituto Municipal del Deporte Nicolaíta, publicado en el Periódico Oficial del Estado Núm. 36 de fecha 09 de marzo de 2007.
+
+DECIMO NOVENO.- Se abroga el Reglamento del Instituto Municipal de la Familia del Municipio de San Nicolás de los Garza; Nuevo León, publicado en el Periódico Oficial del Estado Núm. 105 en fecha 21 de agosto de 2013.
