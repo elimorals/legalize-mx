@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2015-08-10"
+last_updated: "2015-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2015.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1851,7 +1851,13 @@ XIV. Acordar con el Presidente Municipal y con el Secretario del H. Ayuntamiento
 
 XV. Compilar leyes, decretos reglamentos, periódicos oficiales del Estado, circulares y órdenes relativas a los distintos sectores de la Administración Pública Municipal; y
 
-XVI. Las demás que le confieran el Presidente Municipal, el Secretario del H. Ayuntamiento y Director General de Gobierno, el presente Código y demás normatividad.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2015)</small>
+
+XVI. Auxiliar al Síndico Municipal, en la Gestión Jurídica de la población, mediante asesorías, elaboración de documentos, canalización a Instancias especializadas y en la Conciliación entre particulares, siempre y cuando exista la voluntad expresa de los ciudadanos involucrados; apegándose en todo momento a lo establecido en el artículo 20, párrafo segundo del presente Código.
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2015)</small>
+
+XVII. Las demás que le confieran el Presidente Municipal, el Secretario del Ayuntamiento y Director General de Gobierno, el presente Código y demás normatividad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -20962,5 +20968,9 @@ P.O. 1 DE DICIEMBRE DE 2014.
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 P.O. 10 DE AGOSTO DE 2015.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
+
+P.O. 5 DE OCTUBRE DE 2015.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE AGUASCALIENTES VIGENTE.
