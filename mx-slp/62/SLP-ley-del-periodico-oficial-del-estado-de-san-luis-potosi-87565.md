@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-periodico-oficial-del-estado-de-san-luis-potosi-87565"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-10"
-last_updated: "2012-01-10"
+last_updated: "2015-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de enero de 2012.
 
@@ -53,7 +53,9 @@ Esta Ley es reglamentaria de las atribuciones que en la materia otorga la Consti
 
 Para efectos de esta Ley se entiende por:
 
-I. Periódico: al Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+I. Periódico: al Periódico Oficial del Gobierno del Estado, “Plan de San Luis”;
 
 II. Dirección: a la Dirección del Periódico Oficial del Estado;
 
@@ -61,7 +63,9 @@ III. Director: al titular de la Dirección del Periódico Oficial del Estado;
 
 IV. Edición: a la organización, clasificación y autorización del contenido de las publicaciones, de conformidad con lo establecido en esta Ley y demás disposiciones legales aplicables;
 
-V. Ley: a la Ley del Periódico Oficial del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+V. Ley: a la Ley del Periódico Oficial del Gobierno del Estado, “Plan de San Luis”;
 
 VI. Secretaría: a la Secretaría General de Gobierno, y
 
@@ -107,17 +111,41 @@ La conformación de la portada del periódico deberá contener los siguientes da
 
 l. El Escudo Nacional;
 
-II. El nombre de "Periódico Oficial del Estado Libre y Soberano de San Luis Potosí";
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-III. La designación de la Secretaría como responsable de la publicación;
+II. El Escudo Oficial que representa al Estado Libre y Soberano de San Luis Potosí;
 
-IV. El nombre del director o responsable de la edición;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-V. El lugar y fecha de la impresión;
+III. El nombre de: Periódico Oficial del Gobierno del Estado, “Plan de San Luis”;
 
-VI. El número progresivo y sección de la edición, y
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-VII. Sumario del contenido de cada publicación, en el que se especifique su título, la autoridad responsable de la misma y el orden de gobierno al que pertenece.
+IV. La designación de la Secretaría como responsable de la publicación;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+V. El nombre del Director y el domicilio de las oficinas del Periódico;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+VI. Índice, en la portada, de cada sección, con la descripción general del contenido en el que se especifique su título, la autoridad responsable de la misma, el orden de gobierno al que pertenece, y número de páginas que la integran;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+VII. La leyenda “Las leyes y demás disposiciones son de observancia obligatoria por el solo hecho de publicarse en este periódico”;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+VIII. El lugar y fecha de la impresión;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+IX. El precio al público del ejemplar; el número consecutivo de la edición; y el tomo anual al que corresponda, y
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+X. El tiraje correspondiente de la edición.
 
 ###### ARTICULO 9°.
 
@@ -215,7 +243,9 @@ X. Distribuir oportunamente el periódico a las dependencias y entidades estatal
 
 XI. Determinar los mecanismos para la distribución de los ejemplares del periódico;
 
-XII. Vigilar que se difunda por la vía electrónica disponible, el ejemplar del periódico correspondiente al día de su publicación;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XII. Ordenar y vigilar que se difunda, de manera inmediata, el ejemplar del periódico correspondiente al día de su publicación, por la vía electrónica disponible;
 
 XIII. Disponer que el responsable de la hemeroteca del periódico mantenga bajo resguardo los ejemplares impresos, conforme lo establecido por esta Ley;
 
@@ -261,9 +291,11 @@ El periódico tendrá una versión electrónica que se difundirá vía internet,
 
 El director administrará la página electrónica del periódico en internet.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 29.
 
-Cada ejemplar del periódico será reproducido en la página electrónica de la dirección en internet, dentro de los siguientes diez días posteriores a su publicación impresa.
+Cada ejemplar del periódico será reproducido en la página electrónica de la dirección en Internet, inmediatamente a su publicación impresa.
 
 ###### ARTICULO 30.
 
@@ -308,3 +340,11 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
