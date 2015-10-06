@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2014-08-22"
+last_updated: "2015-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,11 @@ issue_date: "1931-08-26"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DE LA DECLARATORIA, PUBLICADA EN LA G.O. DE 20 DE AGOSTO DE 2014, EL DISTRITO FEDERAL INCORPORA A SU RÉGIMEN JURÍDICO PENAL EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, INSTRUMENTO JURÍDICO QUE REGULARÁ LA FORMA Y TÉRMINOS EN QUE SE SUBSTANCIARÁN LOS PROCEDIMIENTOS PENALES.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DE LA DECLARATORIA, PUBLICADA EN LA G.O. DE 20 DE AGOSTO DE 2014 Y SU REFORMA DE 6 DE OCTUBRE DE 2015, EL DISTRITO FEDERAL INCORPORA A SU RÉGIMEN JURÍDICO PENAL EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, INSTRUMENTO JURÍDICO QUE REGULARÁ LA FORMA Y TÉRMINOS EN QUE SE SUBSTANCIARÁN LOS PROCEDIMIENTOS PENALES.</small>
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 22 DE JULIO DE 2013, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA GRADUAL Y PROGRESIVA A PARTIR DEL 1 DE ENERO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 22 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE OCTUBRE DE 2015.
 
 Código publicado en el Diario Oficial de la Federación, el sábado 29 de agosto de 1931.
 
@@ -6312,9 +6310,241 @@ Así como, con fundamento en los Artículos Primero y Segundo Transitorios del C
 
 1. Las cero horas del día dieciséis de enero de 2015 para los delitos culposos y aquellos que se persiguen por querella o acto equivalente de parte ofendida, así como los actos de investigación que requieran autorización previa del Juez de Control, inherentes a estos delitos.
 
-2. Las cero horas del día dieciséis de junio de 2016 para todos los demás delitos que son competencia de los Jueces del Distrito Federal, así como la aplicación de los actos de investigación que requieran autorización previa del Juez.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2015)</small>
 
-En ese sentido, los procedimientos penales iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales se substanciarán de acuerdo al Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de 1931, si se cometieron al momento de inicio de los mismos, como lo establece el Artículo Transitorio Tercero de dicho ordenamiento.
+2. En sesenta días naturales, a partir de día siguiente a la publicación de este Decreto para los siguientes delitos, así como para la aplicación de los actos de investigación que requiera autorización previa del Juez:
+
+Lesiones Previsto en el artículo 130, fracción
+
+II, III, IV y V del Código Penal
+
+para el Distrito Federal.
+
+Ayuda al Suicidio Previsto en el artículo 142 párrafo
+
+primero del Código Penal para el
+
+Distrito Federal.
+
+Aborto Previsto en el artículo 144 en relación al
+
+145 del Código Penal para el Distrito Federal.
+
+Omisión de Auxilio Previsto en los artículos 156, 157, 157 Bis y
+
+o de Cuidado 158 del Código Penal para el Distrito Federal.
+
+Tráfico de Menores (sin la Previsto en el artículo 169, párrafos
+
+finalidad de obtener lucro 6° y 7° del Código Penal para el Distrito
+
+para incorporarlo al núcleo Federal.
+
+familiar)
+
+Retención de Menores Previsto en el artículo 171 párrafo primero y
+
+o Incapaces 173 del Código Penal para el Distrito Federal.
+
+Corrupción de personas Previsto en el artículo 183 del Código Penal
+
+menores de edad o para el Distrito Federal.
+
+personas que no tengan
+
+capacidad para comprender
+
+el significado del hecho o
+
+de personas que no tengan
+
+capacidad de resistir la
+
+conducta
+
+Bigamia Previsto en el artículo 205 del Código
+
+Penal para el Distrito Federal.
+
+Delito de Cobranza Previsto en el artículo 209 Bis del Código
+
+Ilegítima Penal para el Distrito Federal.
+
+Usurpación de Previsto en el artículo 211 Bis, párrafo
+
+Identidad primero del Código Penal para el Distrito
+
+Federal.
+
+Disparo de Arma Previsto en el artículo 211 Ter del Código
+
+de Fuego Penal para el Distrito Federal.
+
+Revelación de Previsto en el artículo 213 del Código Penal
+
+Secretos para el Distrito Federal.
+
+Abuso de Confianza Previsto en el artículo 227, fracciones I, II y III
+
+(cometido en contra del Código Penal para el Distrito Federal;
+
+de 2 ó más víctimas) en relación a las hipótesis del párrafo
+
+cuarto del artículo 246 del Código Penal
+
+para el Distrito Federal.
+
+Fraude (cometido en Previsto en el artículo 230, fracciones I, II y III
+
+contra de 2 ó más del Código Penal para el Distrito Federal;
+
+víctimas) en relación a las hipótesis del párrafo
+
+cuarto del artículo 246 del Código Penal
+
+para el Distrito Federal.
+
+Administración Fraudulenta Previsto en el artículo 234 del Código Penal
+
+(cometido en contra de 2 ó para el Distrito Federal, en relación
+
+más víctimas) a las hipótesis del párrafo cuarto del artículo
+
+246 del Código Penal para el Distrito Federal.
+
+Insolvencia Fraudulenta en Previsto en el artículo 235 del Código Penal
+
+Perjuicio de Acreedores para el Distrito Federal, en relación a las
+
+(cometido en contra de 2 ó hipótesis del párrafo cuarto del artículo 246
+
+más víctimas) del Código Penal para el Distrito Federal.
+
+Cohecho Previsto en el artículo 272, fracción I, del
+
+Código Penal para el Distrito Federal.
+
+Peculado Previsto en el artículo 273 párrafo primero
+
+del Código Penal para el Distrito
+
+Federal. Cuando el monto o valor no exceda
+
+las quinientas veces la unidad de cuenta
+
+de la Ciudad de México.
+
+Enriquecimiento Ilícito Previsto en el artículo 275 párrafos primero
+
+al cuarto del Código Penal para el Distrito
+
+Federal. Cuando el monto o valor no
+
+exceda las cinco mil veces la unidad de
+
+cuenta de la Ciudad de México.
+
+Denegación o Retardo de Previsto en los artículos 291 y 292 del Código
+
+Justicia y Prevaricación Penal para el Distrito Federal.
+
+Omisión de Informes Previsto en los artículos 301 y 302 del Código
+
+Médico Forenses Penal para el Distrito Federal.
+
+Variación del Nombre o Previsto en el artículo 317 del Código
+
+Domicilio Penal para el Distrito Federal.
+
+Simulación de Pruebas Previsto en el artículo 318 del Código Penal
+
+para el Distrito Federal.
+
+Delitos de Abogados, Previsto en el artículo 319 del Código Penal para
+
+Patronos y Litigantes el Distrito Federal.
+
+Encubrimiento por Previsto en el artículo 320 del Código Penal
+
+Favorecimiento para el Distrito Federal.
+
+Abandono, Negación y Previsto en los artículos 324 y 325 del Código
+
+Práctica Indebida del Penal para el Distrito Federal.
+
+Servicio Médico
+
+Responsabilidad de Previsto en el artículo 327 del Código Penal
+
+Directores, Encargados, para el Distrito Federal.
+
+Administradores o
+
+Empleados de Centros de
+
+Salud y Agencias
+
+Funerarias, por
+
+Requerimiento Arbitrario
+
+de la Contraprestación
+
+Suministro de Medicinas Previsto en los artículos 328 y 329 del Código
+
+nocivas o Inapropiadas Penal para el Distrito Federal.
+
+Ataques a las Vías de Previsto en los artículos 330 y 331 del
+
+Comunicación y a Código Penal para el Distrito Federal.
+
+los Medios de Transporte
+
+Delitos contra la Seguridad Previsto en el artículo 332 del Código
+
+del Tránsito de Vehículos Penal para el Distrito Federal.
+
+Falsificación de Sellos, Previsto en el artículo 337 del Código
+
+Marcas, Llaves, Cuños, Penal para el Distrito Federal.
+
+Troqueles, Contraseñas
+
+y Otros
+
+Falsificación o Alteración Previsto en el artículo 342 del Código
+
+y Uso Indebido de Penal para el Distrito Federal.
+
+Documentos
+
+Delitos Contra el Ambiente Previsto en los artículos 344, párrafo
+
+primero; 344 Bis; 345; y 345 Bis del
+
+Código Penal para el Distrito Federal.
+
+Delitos contra la Gestión Previsto en los artículos 347; 347 Ter;
+
+Ambiental 347 Quater; y 347 Quintus del Código
+
+Penal para el Distrito Federal.
+
+Delitos cometidos por Previsto en los artículos 350 Bis y 350
+
+Actos de Maltrato o Ter del Código Penal para el Distrito
+
+Crueldad en contra de Federal
+
+Animales no Humanos
+
+(por causar la muerte)
+
+> <small>(ADICIONADO, G.O. 6 DE OCTUBRE DE 2015)</small>
+
+3. Las cero horas del día dieciséis de junio de 2016 para todos los demás delitos que son competencia de los jueces del Distrito Federal, así como la aplicación de los actos de investigación que requieran autorización previa del Juez.
+
+En ese sentido, los procedimientos penales iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales se substanciarán de acuerdo al Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de 1931, si se cometieron al momento de inicio de los mismos, como lo establece el artículo Transitorio Tercero de dicho ordenamiento.
 
 No procederá la acumulación de procesos por hechos que la ley señale como delito, cuando el procedimiento ya esté iniciado o se esté tramitando un juicio conforme al Código de Procedimientos Penales para el Distrito Federal publicado en el Diario Oficial de la Federación el veintinueve de agosto de 1931, y con posterioridad se denuncien hechos que deban ser investigados bajo la vigencia del Código Nacional de Procedimientos Penales, atendiendo a lo expuesto en el Artículo Sexto Transitorio del Código Nacional de Procedimientos Penales.
 
@@ -6335,3 +6565,13 @@ Hasta antes de que concluya la implementación del Sistema Procesal Penal Acusat
 ###### ARTÍCULO CUARTO.
 
 La Secretaría de Finanzas del Distrito Federal deberá contemplar en el Presupuesto de Egresos del ejercicio fiscal 2015 y subsecuentes, con base en los recursos solicitados por los operadores del Sistema, las previsiones de gasto y partidas presupuestales respectivas para la ejecución de los programas y acciones dirigidas a implementar y operar el nuevo Sistema Procesal Penal Acusatorio en la Ciudad de México.
+
+G.O. 6 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA LA DECLARATORIA SEGUNDA DEL DECRETO POR EL QUE SE DECLARA LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 20 DE AGOSTO DE 2014”.]
+
+PRIMERO. Remítase al Jefe de Gobierno del Distrito Federal para su promulgación y publicación.
+
+SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
