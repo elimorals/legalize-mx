@@ -4,7 +4,7 @@ identifier: "GRO-declaratoria-de-incorporacion-del-sistema-procesal-penal-101884
 country: "mx"
 rank: "otro"
 publication_date: "2014-07-31"
-last_updated: "2014-07-31"
+last_updated: "2015-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN ESTA ENTIDAD.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
 
 Declaratoria publicada en número extraordinario del Periódico Oficial del Estado de Guerrero, el jueves 31 de julio de 2014.
 
@@ -109,7 +109,9 @@ IV. 3 de Mayo de 2015, en los Distritos Judiciales de ABASOLO, ALLENDE, y ALTAMI
 
 V. 5 de agosto de 2015: en los Distritos Judiciales de MORELOS, LA MONTAÑA y ZARAGOZA, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de TLAPA DE COMONFORT.
 
-VI. 8 de octubre de 2015: en los Distritos Judiciales DE LOS BRAVO, ÁLVAREZ y GUERRERO, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de CHILPANCINGO DE LOS BRAVO.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+VI. 20 de mayo de 2016: en los Distritos Judiciales DE LOS BRAVO, ÁLVAREZ y GUERRERO, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de CHILPANCINGO DE LOS BRAVO.
 
 VII. 20 de mayo de 2016: en los Distritos Judiciales de MINA y CUAUHTÉMOC, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de ARCÉLIA.
 
@@ -168,3 +170,21 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. JESÚS MARTÍNEZ GARNELO.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 03 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 503 MEDIANTE EL CUAL LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN ESTA ENTIDAD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Guerrero; Legislativo, Ejecutivo y Judicial de las Entidades Federativas y del Distrito Federal, y a todas aquellas que le resulte de observancia obligatoria, así como a los Ayuntamientos del Estado de Guerrero, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
