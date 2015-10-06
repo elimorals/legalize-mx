@@ -4,7 +4,7 @@ identifier: "GRO-codigo-de-procedimientos-penales-para-el-estado-de-guerrero-510
 country: "mx"
 rank: "codigo"
 publication_date: "1993-02-05"
-last_updated: "2014-07-31"
+last_updated: "2015-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUERRERO, NÚMERO 357
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 503 QUE EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTRADO DE GUERRERO, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2014, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO SEGUNDO DE DICHA DECLARATORIA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 5 de febrero de 1993.
 
@@ -1893,7 +1893,9 @@ IV. 3 de Mayo de 2015, en los Distritos Judiciales de ABASOLO, ALLENDE, y ALTAMI
 
 V. 5 de agosto de 2015: en los Distritos Judiciales de MORELOS, LA MONTAÑA y ZARAGOZA, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de TLAPA DE COMONFORT.
 
-VI. 8 de octubre de 2015: en los Distritos Judiciales de LOS BRAVO, ÁLVAREZ y GUERRERO, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de CHILPANCINGO DE LOS BRAVO.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+VI. 20 de mayo de 2016: en los Distritos Judiciales DE LOS BRAVO, ÁLVAREZ y GUERRERO, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de CHILPANCINGO DE LOS BRAVO.
 
 VII. 20 de mayo de 2016: en los Distritos Judiciales de MINA y CUAUHTÉMOC, siendo sede para el desahogo de las audiencias procedimentales, la ciudad de ARCÉLIA.
 
@@ -1920,3 +1922,19 @@ Comuníquese el presente Decreto a los Poderes Legislativo, Ejecutivo y Judicial
 ###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
+
+P.O. 6 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 03 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 503 MEDIANTE EL CUAL LA SEXAGÉSIMA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO AL MARCO JURÍDICO DEL ESTADO DE GUERRERO Y DECLARA EL INICIO GRADUAL DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN ESTA ENTIDAD.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Guerrero; Legislativo, Ejecutivo y Judicial de las Entidades Federativas y del Distrito Federal, y a todas aquellas que le resulte de observancia obligatoria, así como a los Ayuntamientos del Estado de Guerrero, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
