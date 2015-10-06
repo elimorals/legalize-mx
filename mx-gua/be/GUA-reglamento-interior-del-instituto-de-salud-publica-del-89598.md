@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-instituto-de-salud-publica-del-89598"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2012-09-25"
+last_updated: "2015-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre del 2012.
 
@@ -115,15 +115,9 @@ b) Dirección General de Protección contra Riesgos Sanitarios:
 
 b.1) Dirección de Regulación y Fomento Sanitario.
 
-c) Dirección General del Régimen Estatal de Protección Social en Salud:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-c.1) Dirección de Afiliación y Operación;
-
-c.2) Dirección de Gestión de Servicios de Salud;
-
-c.3) Dirección de Administración y Control; y
-
-c.4) Dirección de Planeación, Evaluación y Desarrollo.
+c) (DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 III. Coordinación General de Administración y Finanzas:
 
@@ -679,7 +673,9 @@ I. Dirección General de Servicios de Salud;
 
 II. Dirección General de Protección contra Riesgos Sanitarios; y
 
-III. Dirección General del Régimen Estatal de Protección Social en Salud.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+III. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 Facultades del Titular de la Coordinación General de Salud Pública
 
@@ -693,7 +689,9 @@ II. Conducir, coordinar y promover la integración de los programas en materia d
 
 III. Dirigir el Sistema Estatal de Vigilancia Epidemiológica;
 
-IV. Colaborar, en el ámbito de su competencia, en la definición y desarrollo de políticas y estrategias para el Sistema de Protección Social en Salud en la entidad, en coordinación con las dependencias y unidades administrativas competentes; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+IV. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 V. Promover mecanismos para fomentar la participación en materia de salud pública, de la sociedad civil, así como de los sectores público, privado y social.
 
@@ -737,7 +735,9 @@ VI. Propiciar la participación de las áreas e instituciones en materia de ense
 
 VII. Promover actividades de investigación y desarrollo tecnológico en materia de salud pública, propiciando la participación de las áreas e instituciones competentes;
 
-VIII. Fomentar la participación corresponsable de los afiliados al Sistema de Protección Social en Salud, en el cumplimiento de sus obligaciones y la exigencia de sus derechos; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VIII. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 IX. Vigilar el cumplimiento del Modelo de Atención en Salud por parte de las unidades prestadoras de servicios médicos.
 
@@ -833,9 +833,13 @@ III. Promover la actualización y validación de la micro-regionalización ante 
 
 IV. Revisar y validar las rutas definidas para la ejecución de los programas de desarrollo social en salud, conjuntamente con las unidades administrativas competentes del ISAPEG;
 
-V. Participar en la coordinación de las instituciones de salud prestadoras de servicios a los beneficiarios del Sistema de Protección Social en Salud;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Participar en la gestión de financiamiento del Sistema de Protección Social en Salud y de los programas de desarrollo social en salud;
+V. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VI. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 VII. Coadyuvar en la elaboración del Programa Operativo Anual, los programas de desarrollo social en salud y supervisar su operación;
 
@@ -953,193 +957,49 @@ XXXIII. Las demás que le señalen las disposiciones legales y reglamentarias ap
 
 #### Sección Primera. Integración y facultades
 
-Unidades Adscritas a la Dirección General del Régimen Estatal de Protección Social en Salud
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 34.
 
-La Dirección General del Régimen Estatal de Protección Social en Salud deberá planear, apoyar, coordinar y supervisar el trabajo de las siguientes direcciones de área:
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
-I. Dirección de Afiliación y Operación;
-
-II. Dirección de Gestión de Servicios de Salud;
-
-III. Dirección de Administración y Control; y
-
-IV. Dirección de Planeación, Evaluación y Desarrollo.
-
-Facultades del titular de la Dirección General del Régimen Estatal de Protección Social en Salud
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 35.
 
-El titular de la Dirección General del Régimen Estatal de Protección Social en Salud tendrá, además de las facultades genéricas, las siguientes:
-
-I. Planear, coordinar, supervisar y evaluar el Sistema de Protección Social en Salud, así como difundir y promover la afiliación a este Sistema;
-
-II. Identificar en coordinación con la Dirección General de Planeación y Desarrollo a las familias a beneficiar en materia de protección social en salud;
-
-III. Incorporar a las familias y personas susceptibles que reúnan los requisitos, al Sistema de Protección Social en Salud;
-
-IV. Integrar, administrar y actualizar el padrón de beneficiarios al Sistema de Protección Social en Salud, conforme a la normatividad y lineamientos aplicables;
-
-V. Tutelar los derechos de los beneficiarios al Sistema Estatal de Protección Social en Salud;
-
-VI. Participar en el proceso de administración y en la definición del ejercicio de las cuotas familiares de los beneficiarios del Sistema de Protección Social en Salud;
-
-VII. Coadyuvar en la recepción de los recursos asignados a la ejecución de las acciones del Sistema Estatal de Protección Social en Salud en el Estado, en base a la normatividad y lineamientos aplicables, conforme a los acuerdos o convenios que se celebren al efecto;
-
-VIII. Promover la participación de los sectores público, social y privado del Estado y los municipios en el Sistema Estatal de Protección Social en Salud;
-
-IX. Promover la mejora, modernización y acreditación de los prestadores de los servicios inscritos al Sistema Estatal de Protección Social en Salud;
-
-X. Impulsar el desarrollo de los acuerdos de gestión con los establecimientos de atención médica acreditados para la atención a los beneficiarios del Sistema Estatal de Protección Social en Salud;
-
-XI. Coordinar y gestionar ante el Fideicomiso del Sistema Nacional de Protección Social en Salud, la participación del Estado en el Fondo de Protección contra Gastos Catastróficos y el de Previsión Presupuestal; y
-
-XII. Coadyuvar con las unidades administrativas correspondientes en el planteamiento de recomendaciones a las unidades adscritas al ISAPEG, para la mejora en la operación de los programas.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 #### Sección Segunda. Dirección de Afiliación y Operación
 
-Facultades del titular de la Dirección de Afiliación y Operación
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 36.
 
-El titular de la Dirección de Afiliación y Operación tendrá las siguientes facultades:
-
-I. Promover, afiliar e incorporar beneficiarios al Sistema de Protección Social en Salud, así como coordinar y dar seguimiento al proceso, conforme a la normatividad y lineamientos aplicables;
-
-II. Fomentar el cumplimiento de las obligaciones de los afiliados al Sistema de Protección Social en Salud;
-
-III. Realizar el diagnóstico, evaluación y supervisión de los procesos de afiliación, realizados por los Módulos de Afiliación y Orientación;
-
-IV. Capacitar al personal adscrito a los Módulos de Afiliación y Orientación en cuanto a los procesos de afiliación;
-
-V. Vigilar el proceso de monitoreo, validación y actualización del padrón de beneficiarios al Sistema de Protección Social en Salud;
-
-VI. Coordinar y supervisar la debida integración de los expedientes de los beneficiarios al Sistema de Protección Social en Salud;
-
-VII. Instrumentar normas de operación y procedimientos para la afiliación y reafiliación de familias al Sistema;
-
-VIII. Proponer, impulsar y coordinar estrategias para el desarrollo de campañas de difusión del Sistema en el ámbito local;
-
-IX. Coordinar el diseño, elaboración y reproducción de materiales para la promoción de las distintas carteras del Sistema;
-
-X. Planear operativos de campo para la promoción y afiliación de familias al Sistema de Protección Social en Salud;
-
-XI. Convenir la instalación de módulos de afiliación en instituciones proveedoras de servicios de salud;
-
-XII. Coordinar y evaluar el funcionamiento de los módulos de afiliación en instituciones proveedoras de servicios de salud;
-
-XIII. Promover la capacitación del recurso humano en materia de promoción y afiliación que aseguren el cumplimiento de los metas y objetivos establecidos por la DGREPSS;
-
-XIV. Coordinar y atender las actividades de relaciones públicas relacionadas con los procesos de afiliación de la DGREPSS, de acuerdo a objetivos y programas señalados por la Dirección General;
-
-XV. Identificar causas de cancelación o suspensión de servicios a los afiliados del Régimen y promover las medidas correctivas correspondientes;
-
-XVI. Identificar y determinar la población susceptible de afiliación al Sistema; y
-
-XVII. Las demás que le confiera el Director General del Régimen Estatal de Protección Social en Salud, así como aquellas que le señalen las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 #### Sección Tercera. Dirección de Gestión de Servicios de Salud
 
-Facultades del titular de la Dirección de Gestión de Servicios de Salud
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 37.
 
-El titular de la Dirección de Gestión de Servicios de Salud tendrá las siguientes facultades:
-
-I. Coadyuvar con el área correspondiente del ISAPEG en la promoción y fomento de la acreditación de unidades prestadoras de servicios de salud;
-
-II. Vigilar la tutela de los derechos de los afiliados al Sistema de Protección Social en Salud conforme a las carteras de servicios vigentes;
-
-III. Participar en las actividades que favorezcan la identificación e integración al Sistema de Protección Social en Salud de los ciudadanos susceptibles;
-
-IV. Vigilar y coadyuvar en la adecuada aplicación de recursos destinados a servicios de salud subrogados y brindados a los afiliados al Sistema de Protección Social en Salud;
-
-V. Coadyuvar en la supervisión de los mecanismos de referencia de afiliados a los servicios de salud;
-
-VI. Dar seguimiento a los mecanismos de atención y surtimiento de medicamentos;
-
-VII. Realizar la supervisión de la alineación de los servicios incluidos en las carteras del Sistema de Protección Social en Salud.
-
-VIII. Vigilar la oportuna entrega de los servicios establecidos en las Carteras de Servicios vigentes emitidos por el Ejecutivo Federal;
-
-IX. Vigilar el cumplimiento de la gratuidad de los servicios contemplados en las diferentes carteras de servicio vigentes del Sistema de Protección Social en Salud, en apego a lo descrito en las guías clínicas y/o protocolos de manejo autorizados, así como la entrega de medicamentos asociados;
-
-X. Coadyuvar en la mejora de la calidad en la prestación de servicios a los afiliados al Sistema de Protección Social en Salud;
-
-XI. Participar en la elaboración de los criterios e instrumentos que permitan conocer el estado de salud de la población antes y durante su afiliación al sistema, así como los factores de riesgo a que están sujetos los afiliados;
-
-XII. Diseñar y coordinar la capacitación del prestador de servicios y gestor de salud sobre la cartera de servicios vigentes en cuanto a su mecanismo de aplicación y registro;
-
-XIII. Participar en el diseño de estudios de investigación relativos a las condiciones de salud e impacto del sistema entre los afiliados al mismo;
-
-XIV. Coadyuvar con las unidades administrativas correspondientes del ISAPEG, en los procesos de contratación de personal financiado con recursos del Sistema de Protección Social en Salud, en términos de los instrumentos jurídicos que al efecto se suscriban y demás lineamientos y normatividad aplicable; y
-
-XV. Las demás que le confiera el Director General del Régimen Estatal de Protección Social en Salud, así como aquellas que le señalen las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 #### Sección Cuarta. Dirección de Administración y Control
 
-Facultades del Titular de la Dirección de Administración y Control
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 38.
 
-El titular de la Dirección de Administración y Control tendrá las siguientes facultades:
-
-I. Coordinar la vigilancia de los recursos humanos, materiales y financieros asignados al Régimen Estatal de Protección Social en Salud;
-
-II. Coadyuvar en la vigilancia del ejercicio del gasto de los recursos del Sistema de Protección Social en Salud;
-
-III. Coadyuvar en la vigilancia de la evaluación trimestral del estado financiero de los recursos del Sistema de Protección Social en Salud;
-
-IV. Vigilar el ingreso de cuotas de aportación familiar al Sistema de Protección Social en Salud;
-
-V. Vigilar la integración de la información financiera solicitada por los órdenes federal y estatal;
-
-VI. Vigilar las transferencias de los recursos captados por concepto de cuotas familiares de afiliaciones y reafiliaciones al Sistema de Protección Social en Salud;
-
-VII. Verificar la oportuna y correcta aplicación de los recursos destinados a la prestación de servicios dentro del Sistema de Protección Social en Salud; así como los recursos financieros destinados a la ejecución de las acciones del Sistema Estatal de Protección Social en Salud, en base a la normatividad y lineamientos aplicables y conforme a los acuerdos o convenios que se celebren al efecto;
-
-VIII. Participar en el proceso de administración y en la definición del ejercicio de las cuotas familiares de los beneficiarios del Sistema de Protección Social en Salud;
-
-IX. Coadyuvar en la recepción y ejercicio de los recursos financieros del Sistema Estatal de Protección Social en Salud;
-
-X. Coadyuvar con las unidades administrativas correspondientes del ISAPEG, en los procesos de contratación de personal financiado con recursos del Sistema de Protección Social en Salud, en términos de los instrumentos jurídicos que al efecto se suscriban y demás lineamientos y normatividad aplicable; y
-
-XI. Las demás que le confiera el Director General del Régimen Estatal de Protección Social en Salud, así como aquellas que le señalen las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 #### Sección Quinta. Dirección de Planeación, Evaluación y Desarrollo
 
-Facultades del titular de la Dirección de Planeación, Evaluación y Desarrollo
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 39.
 
-El titular de la Dirección de Planeación, Evaluación y Desarrollo tendrá las siguientes facultades:
-
-I. Integrar el Plan de Trabajo de la Dirección General del Régimen Estatal de Protección Social en Salud;
-
-II. Integrar y actualizar la agenda estadística de la Dirección General del Régimen Estatal de Protección Social en Salud;
-
-III. Integrar y evaluar las políticas y líneas estratégicas a seguir en la organización del Sistema de Protección Social en Salud en el Estado, en congruencia con los planes, programas, y normatividad aplicable.
-
-IV. Mantener actualizado el inventario de las tecnologías de información de la Dirección General del Régimen Estatal de Protección Social en Salud;
-
-V. Elaborar el programa de mantenimiento preventivo anual de las tecnologías de información y de telecomunicaciones de la Dirección General del Régimen Estatal de Protección Social en Salud, y darle seguimiento;
-
-VI. Integrar el programa operativo anual de bienes informáticos y de telecomunicaciones de la Dirección General del Régimen Estatal de Protección Social en Salud;
-
-VII. Desarrollar aplicaciones internas y/o programas informáticos con el objeto de optimizar los procesos y servicios ofertados por la Dirección General del Régimen Estatal de Protección Social en Salud, en apego a los lineamientos establecidos;
-
-VIII. Dar seguimiento al sistema escalonado de atención a los afiliados del Sistema de Protección Social en Salud en las diferentes redes prestadoras de servicios;
-
-IX. Participar en el análisis de datos estadísticos, procesos y sistemas de atención a los afiliados del Sistema de Protección Social en Salud, y elaborar propuestas de mejora;
-
-X. Desarrollar, establecer y participar en el establecimiento de estrategias de levantamiento de encuestas para la medición del funcionamiento del Sistema de Protección Social en Salud en el Estado, con base en los indicadores de evaluación del mismo;
-
-XI. Participar en el seguimiento del desarrollo de los Sistemas de Información en Salud, propuestos para el Sistema de Protección Social en Salud en el Estado;
-
-XII. Participar en la revisión de los diversos planes y programas, relativos al Sistema de Protección Social en Salud, vigilando la aplicación de la normatividad aplicable; y
-
-XIII. Las demás que le confiera el Director General del Régimen Estatal de Protección Social en Salud, así como aquellas que le señalen las disposiciones legales y reglamentarias aplicables.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 ## Título Sexto. De la Coordinación General de Administración y Finanzas
 
@@ -1499,7 +1359,11 @@ I. Operar, coordinar y evaluar el registro de los sistemas de contabilidad de ac
 
 II. Coordinar la elaboración de la información contable para la integración y entrega de la cuenta de la hacienda pública estatal respectiva;
 
-III. Implementar mecanismos de supervisión y control que contribuyan a asegurar la aplicación de la legislación correspondiente en las erogaciones que realice el ISAPEG de aquellos recursos provenientes del Sistema de Protección Social en Salud y de los programas de desarrollo social en salud, así como mecanismos que permitan dar a conocer la normatividad aplicable a las áreas involucradas en el ejercicio de recursos correspondientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+III. Implementar mecanismos de supervisión y control que contribuyan a asegurar la aplicación de la legislación correspondiente en las erogaciones que realice el ISAPEG de aquellos recursos provenientes de los programas de desarrollo social en salud, así como mecanismos que permitan dar a conocer la normatividad aplicable a las áreas involucradas en el ejercicio de recursos correspondientes;
 
 IV. Coordinar y controlar la integración y emisión de la información contable;
 
@@ -1511,7 +1375,11 @@ VII. Coordinar el manejo de las cuentas bancarias respectivas atendiendo para el
 
 VIII. Coordinación atender y entregar la información correspondiente a los distintos órganos de control; así como el seguimiento y atención en las respuestas de las auditorias practicadas al ISAPEG.
 
-IX. Enviar los reportes financieros a las diversas instituciones de los recursos asignados al ISAPEG, relativos al Sistema de Protección Social en Salud y de los Programas de Desarrollo Social en Salud dentro de las atribuciones de la Dirección General de Administración; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+IX. Enviar los reportes financieros a las diversas instituciones de los recursos asignados al ISAPEG, provenientes de los programas de desarrollo social en salud dentro de las atribuciones de la Dirección General de Administración; y
 
 X. Las demás que le confiera el Director General de Administración, así como aquéllas que le señalen las disposiciones legales y reglamentarias aplicables.
 
@@ -2484,3 +2352,15 @@ ROMÁN CIFUENTES NEGRETE
 EL SECRETARIO DE SALUD
 
 JUAN LUIS MOSQUEDA GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL ARTÍCULO SEGUNDO DEL “DECRETO GUBERNATIVO NÚMERO 126, MEDIANTE EL CUAL, SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO “RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE GUANAJUATO”, Y SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 154, QUINTA PARTE, DE FECHA 25 DE SEPTIEMBRE DE 2012”.]
+
+Artículo Único. El Artículo Segundo del presente Decreto Gubernativo cobrará vigencia en la misma fecha en que quede constituido el organismo público descentralizado de la administración pública estatal denominado Régimen de Protección Social en Salud del Estado de Guanajuato, en los términos del Artículo Sexto Transitorio contenido en el Artículo Primero.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 126, MEDIANTE EL CUAL, SE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADO “RÉGIMEN DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE GUANAJUATO”, Y SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SALUD PÚBLICA DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 154, QUINTA PARTE, DE FECHA 25 DE SEPTIEMBRE DE 2012”.]
+
+Artículo Único.- El presente Decreto Gubernativo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
