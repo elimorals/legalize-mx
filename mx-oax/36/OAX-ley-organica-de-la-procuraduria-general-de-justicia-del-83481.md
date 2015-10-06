@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-procuraduria-general-de-justicia-del-83481"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-09-20"
-last_updated: "2015-05-07"
+last_updated: "2015-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 6 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del año 2011.
 
@@ -1254,3 +1256,47 @@ PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y
 SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Reglamento y el Reglamento del Servicio de la Fiscalía General, deberán expedirse por el Fiscal General dentro de los treinta días naturales siguientes al de la entrada en vigor de la presente Ley, debiendo publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+En tanto se emitan la normatividad indispensable para el correcto funcionamiento de la Fiscalía General, se seguirán aplicando las disposiciones vigentes de la Procuraduría General de Justicia del Estado de Oaxaca al momento de la entrada en vigor de la presente Ley, en lo que no se opongan a la misma.
+
+TERCERO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Oaxaca, expedida por Decreto número 641, de fecha 10 de agosto del 2011, publicada en el Periódico Oficial Extra del 20 de septiembre del 2011, y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Cualquier mención que se haga de la Procuraduría General de Justicia del Estado en otras disposiciones, se entenderán hechas a la Fiscalía General, y cualquier mención que se haga al Procurador General del Estado, se entenderá hecha al Fiscal General a partir de la vigencia de las reformas en cita.
+
+QUINTO. En virtud de la coexistencia de los Códigos de Procedimientos Penales de 1979 y Procesal Penal de Oaxaca de 2006, en las Regiones del Estado que éste último ordenamiento se continúe implementando, el Fiscal General, tendrá las facultades para adecuar la estructura de la Institución conforme a las necesidades del servicio para atender dicha situación.
+
+SEXTO. Para el trámite y desahogo de los casos relativos al Sistema Mixto Tradicional, en lo conducente continuará vigente la Ley Orgánica de la Procuraduría General de Justicia, aprobada con fecha 29 de junio de 1983 hasta la conclusión del último asunto.
+
+Los asuntos, procedimientos penales y de responsabilidad administrativa, que se encuentren en trámite ante la Procuraduría General de Justicia del Estado de Oaxaca, se substanciarán y resolverán ante la Fiscalía General del Estado de Oaxaca, de conformidad con las disposiciones vigentes al momento de su inicio.
+
+SÉPTIMO. Para efectos del otorgamiento operativo de la autonomía constitucional de la Fiscalía General, esta Institución celebrará convenios con las secretarías de Administración, de Finanzas, de Contraloría y Transparencia Gubernamental, así como con las demás instancias competentes, para que dentro del plazo de tres años a partir de la entrada en vigor del presente Decreto, se puedan generar los mecanismos necesarios para que la Fiscalía General pueda implementar su autonomía constitucional administrando sus recursos humanos, materiales, su patrimonio y presupuesto, su Fondo de Procuración de Justicia, la adquisición, arrendamiento y contratación de manera independiente de bienes y servicios, así como de obra pública, entre otras acciones inherentes a su autonomía.
+
+OCTAVO. Para efectos de la adquisición, arrendamiento y contratación de bienes y servicios, la Fiscalía General deberá instalar en 2015 un Comité de Adquisiciones, Arrendamientos y Servicios, el cual deberá estar integrado, por lo menos, con el Titular de la Contraloría Interna de la Institución, con el objeto de que dicho Comité pueda ejercer todas las acciones inherentes a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento a partir del ejercicio fiscal de 2016, en aras de su autonomía constitucional.
+
+NOVENO. Conforme a los dos artículos transitorios anteriores, en tanto se emiten las reformas legislativas y demás normatividad aplicable dentro de los 180 días siguientes a la entrada en vigor del presente Decreto se continuarán aplicando en lo conducente las disposiciones jurídicas relativas a obra pública, administración, adquisición, control, arrendamiento, enajenación de bienes y contratación de servicios, se seguirán aplicando conforme a lo dispuesto en la Ley de Obras Públicas y Servicios relacionados con las mismas y su Reglamento; Ley de Obras Públicas y Servicios relacionados del Estado de Oaxaca; la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y su Reglamento, la Ley para Adquisiciones, Arrendamientos y Servicios del Estado de Oaxaca, así como las disposiciones aplicables en la materia.
+
+La Fiscalía General, deberá observar las disposiciones generales que se emitan en la Ley Federal de Presupuesto y Responsabilidad Hacendaria y su Reglamento, en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y su Reglamento.
+
+DÉCIMO. Se instruye a la Secretaría de Finanzas y la Secretaria de Administración del Ejecutivo Estatal, para que realice las adecuaciones presupuestarias que sean necesarias para la implementación de la presente Ley.
+
+DÉCIMO PRIMERO. El Titular del Ejecutivo proveerá lo necesario para que a la entrada en vigor de las reformas constitucionales y legales la Fiscalía General, cuente con los recursos humanos, materiales y financieros necesarios para el desempeño de su función. El personal de confianza y los miembros del Servicio, así como los recursos materiales y financieros de la Procuraduría General del Estado se transferirán a la Fiscalía General.
+
+DECIMO SEGUNDO. La situación presupuestal y laboral del personal de confianza que no forme parte del Servicio y que formaron parte de la Procuraduría General de Justicia en el Estado, será regulada en el Reglamento, sin menoscabo de sus derechos laborales adquiridos.
+
+DÉCIMO TERCERO. Los recursos materiales, muebles, inmuebles, activos, pasivos y presupuestales así como el acervo documental que formaron parte de la Procuraduría General de Justicia del Estado de Oaxaca, se integrarán a la Fiscalía General del Estado de Oaxaca, hasta la conclusión del ejercicio fiscal 2017.
+
+DECIMO CUARTO. El personal de confianza y los miembros del Servicio que con anterioridad a la entrada en vigor del presente Decreto se encontraban prestando sus servicios en la Procuraduría General de Justicia del Estado seguirán conservando su misma calidad, sus derechos laborales y de seguridad social que les corresponden ante la Fiscalía General.
+
+Las condiciones generales de trabajo y demás disposiciones que se encontraban vigentes antes de la fecha de entrada en vigor del presente Decreto, continuarán aplicándose para el personal mencionado en el párrafo anterior.
+
+DÉCIMO QUINTO. El personal de base que con anterioridad a la entrada en vigor del presente Decreto se encontraban prestando sus servicios en la Procuraduría General de Justicia del Estado de Oaxaca seguirá conservando su misma calidad, sus derechos laborales y de seguridad social que les corresponden ante la Fiscalía General. No obstante, serán reacomodados dentro de la Institución conforme a las necesidades del servicio.
+
+Las condiciones generales de trabajo y demás disposiciones que se encontraban vigentes antes de la fecha de entrada en vigor del presente Decreto, continuarán aplicándose para el personal de base.
+
+DÉCIMO SEXTO. Para efectos de lo previsto en el artículo 45, fracción I, inciso b) de la Ley Orgánica, los policías de investigación contarán con el plazo de dos años a partir de la entrada en vigor del presente Decreto para acreditar dicho requisito.
