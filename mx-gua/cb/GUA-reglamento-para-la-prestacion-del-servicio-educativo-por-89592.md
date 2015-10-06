@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-para-la-prestacion-del-servicio-educativo-por-89592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2012-12-21"
+last_updated: "2015-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -1081,25 +1079,119 @@ Sanciones a particulares
 
 Las sanciones que se impondrán por la comisión de las infracciones señaladas en el artículo anterior, son las previstas en el artículo 161 de la Ley.
 
-Parámetros para imposición de sanciones
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Límites mínimos y máximos de las multas aplicables
 
 ###### Artículo 81.
 
 Por incurrir en las infracciones previstas en la Ley, se impondrán las sanciones establecidas en el artículo 161 de la Ley. Tratándose de multas se atenderá a los siguientes parámetros:
 
-I. De 1 a 1,700 salarios mínimos en los casos de cometer las infracciones previstas en las fracciones III, IV, V, VIII y X del artículo 159 de la Ley;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-II. De 1,701 a 3,000 salarios mínimos en los casos de cometer las infracciones previstas en las fracciones I, VI, XI, XII, XIV y XVI del artículo 159 de la Ley; y
+I. De 1 a 1,700 salarios mínimos en los casos de la comisión de las infracciones previstas en las fracciones III, IV, V, VIII y X del artículo 159 de la Ley;
 
-III. De 3,001 a 5,000 salarios mínimos en los casos de cometer las infracciones previstas en las fracciones II, VII, IX, XIII, y XV del artículo 159 de la Ley.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-Las obligaciones y prohibiciones establecidas en los artículos 41 y 42 del Reglamento que no encuadren en los supuestos de infracción previstos en el artículo 159 de la Ley, se les impondrá de 1,701 a 3,000 salarios mínimos.
+II. De 1 a 3,000 salarios mínimos en los casos de la comisión de las infracciones previstas en las fracciones I, VI, XI, XII, XIV, XVI y XVIII del artículo 159 de la Ley; y
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+III. De 1 a 5,000 salarios mínimos en los casos de la comisión de las infracciones previstas en las fracciones II, VII, IX, XIII, XV y XVII del artículo 159 de la Ley.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Las infracciones por la contravención a las obligaciones y prohibiciones establecidas en los artículos 41 y 42 del Reglamento, que no encuadren en los supuestos de infracción previstos en el artículo 159 de la Ley, serán sancionadas con multa de 1 a 3,000 salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Parámetros para la determinación de las multas aplicables
+
+Artículo 81 bis. Para la determinación del monto de las multas a aplicar, se considerarán las circunstancias señaladas en el artículo 163 de la Ley, mediante la aplicación de la fórmula prevista en este artículo, a partir de los siguientes factores:
+
+I. Condición socioeconómica del infractor (factor Ingreso FI): Para determinar este factor, se considerará:
+
+a) La totalidad de ingresos de cobro percibidos por la prestación del servicio educativo durante el o los periodos escolares en que se cometió la infracción. En el caso de que el infractor no proporcione tal información, la autoridad considerará la omisión como causa para la imposición de sanciones en los términos de la normativa aplicable;
+
+b) Los ingresos percibidos se dividirán entre los días que conforman el periodo escolar determinado, ya sea anual, semestral, cuatrimestral, trimestral o bimestral, según el caso;
+
+c) El resultado de la operación referida en el inciso anterior, se dividirá entre el monto del salario mínimo vigente aplicable al año en que se cometió la infracción; y
+
+d) Una vez obtenido el dato a que se refiere el inciso c), se atenderá a la siguiente tabla:
+
+1) 1 - 25 smd = FI 50
+
+2) 26 - 50 smd = FI 75
+
+3) 51 - en adelante smd = FI 100
+
+II. Tiempo de comisión de la infracción (factor Tiempo o FT): Para determinar las condiciones en las que se cometió la infracción, se considerará el tiempo que duró la comisión de la infracción de acuerdo con los siguientes parámetros:
+
+a) Menos de un periodo
+
+escolar: FT 3
+
+b) Un periodo escolar: FT 6
+
+c) Comisión continua, sin que
+
+sea posible determinar la
+
+temporalidad: FT 9
+
+III. Número de educandos (factor Alumnos o FA): Como un elemento a tomar en cuenta para la determinación de la multa en proporción a los daños y perjuicios que se hayan producido o puedan producirse a los educandos, se considerarán los siguientes valores, atendiendo al número de alumnos con que cuente la institución educativa o el infractor:
+
+a) 1 – 50 alumnos = FA 10
+
+b) 51 – 100 alumnos = FA 20
+
+c) 101 – 500 alumnos = FA 30
+
+d) Más de 500 alumnos = FA 40
+
+IV. Gravedad e intencionalidad de la infracción (Proporción de la Multa a aplicar o PM): De conformidad con los parámetros establecidos en el artículo 81, se aplicarán los siguientes factores:
+
+a) Fracción I PM 1 = 0.33
+
+b) Fracción II PM 2 = 0.66
+
+c) Fracción III PM3 = 1.00
+
+d) Párrafo segundo PM 4 = 0.66
+
+Tratándose de las infracciones a las que se refiere el artículo 82 del Reglamento, se aplicará el factor PM 1.00.
+
+V. Fórmula: Una vez que se hayan obtenido los valores que correspondan a las fracciones I a III, se aplicará la siguiente fórmula:
+
+(FI) * (FT + FA) = Valor determinado
+
+VI. Individualización del importe de la multa: Para la fijación del importe individualizado de la multa en salarios mínimos, el resultado obtenido mediante la operación descrita en la fracción anterior, se multiplicará por el factor PM señalado en la fracción IV que corresponda, de la siguiente manera:
+
+Importe individualizado de la multa en salarios mínimos:
+
+a) Multa aplicable por las infracciones previstas en la fracción I del artículo 81 del Reglamento: (Valor determinado) * (0.33) = Multa en salarios mínimos.
+
+b) Multa aplicable por las infracciones previstas en la fracción II del artículo 81 del Reglamento: (Valor determinado) * (0.66) = Multa en salarios mínimos.
+
+c) Multa aplicable por las infracciones previstas en la fracción III del artículo 81 del Reglamento: (Valor determinado) * (1.00) = Multa en salarios mínimos.
+
+d) Multa aplicable por las infracciones previstas en el párrafo segundo del artículo 81 del Reglamento: (Valor determinado) * (0.66) = Multa en salarios mínimos.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Multa en caso de reincidencia
+
+Artículo 81 ter. En caso de reincidencia, se podrá duplicar el monto de la multa aplicable al infractor.
 
 Multa y clausura
 
 ###### Artículo 82.
 
 Cuando se incurra en alguna de las infracciones previstas en el artículo 162 de la Ley se impondrá una sanción consistente en multa de dos a diez mil veces el salario mínimo vigente en la entidad y en la fecha en que se cometa la infracción; y, en su caso, la clausura de la institución educativa.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Para la determinación del importe de la multa a imponer al interesado, al particular o al que preste el servicio educativo sin contar con autorización o reconocimiento de validez oficial de estudios, se aplicarán los parámetros contenidos en los artículos 81 bis y 81 ter del Reglamento.
 
 Cuando se declare por parte de la DGPSEI la clausura, el particular no podrá hacer uso de papelería oficial, sellos, formatos y demás documentación oficial que hagan mención al número de Acuerdo Secretarial o clave de centro de trabajo.
 
@@ -1184,3 +1276,13 @@ ROMÁN CIFUENTES NEGRETE
 EL SECRETARIO DE EDUCACIÓN
 
 ALBERTO DEL L. S. DIOSDADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 6 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 125, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO PARA LA PRESTACIÓN DEL SERVICIO EDUCATIVO POR LOS PARTICULARES DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL NÚMERO 154, TERCERA PARTE, DE FECHA 25 DE SEPTIEMBRE DE 2012”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
