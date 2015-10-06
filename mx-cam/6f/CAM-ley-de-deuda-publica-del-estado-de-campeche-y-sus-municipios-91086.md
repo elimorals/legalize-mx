@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-deuda-publica-del-estado-de-campeche-y-sus-municipios-91
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2012-12-26"
+last_updated: "2015-10-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 26 de diciembre de 2012.
 
@@ -481,6 +481,10 @@ En el caso de afectación de participaciones o aportaciones federales, el Estado
 
 La modificación de la notificación e instrucción irrevocable a que se refiere el párrafo anterior no requerirá de la previa autorización del Congreso del Estado, cuando la misma tenga por objeto desafectar o disminuir las participaciones o aportaciones federales afectadas al mecanismo de fuente de pago o garantía, siempre y cuando no se genere un perjuicio a los derechos adquiridos de los acreedores, mientras existan obligaciones pendientes de pago a cargo del Estado respecto de los financiamientos para las cuales las mismas fueron afectadas.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+No requerirá autorización de la legislatura el trámite correspondiente a la afectación de fondos de aportaciones federales que correspondan al Estado que sean susceptibles de afectación para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de obligaciones, cuando no esté expresamente establecido como requisito en la Ley de Coordinación Fiscal o cualquier otro ordenamiento del marco jurídico federal. La afectación de estos fondos tampoco será constitutiva de deuda si las precitadas normativas federales no consideran su configuración como tal.
+
 ###### Artículo 29.
 
 El Municipio podrá afectar sus ingresos provenientes de impuestos, derechos, contribuciones de mejoras, productos o aprovechamientos, así como el derecho y/o los ingresos a las aportaciones federales susceptibles de afectación, a las participaciones federales y estatales y/o cualquier otro ingreso que le corresponda, como fuente de pago o garantía de las obligaciones a su cargo, a través fideicomisos, mandatos o cualquier otro acto jurídico análogo.
@@ -494,6 +498,10 @@ En el caso de que dos o más Municipios hayan constituido un fideicomiso de admi
 En el caso de afectación de aportaciones federales y/o participaciones federales o estatales, el Municipio deberá notificar dicha afectación a la Secretaría, instruyéndola a efecto que, en cada ministración o entrega de las mismas, los ingresos correspondientes a las participaciones o aportaciones federales afectadas sean entregados al mecanismo de fuente de pago o garantía correspondiente con carácter irrevocable.
 
 La modificación de la notificación e instrucción irrevocable a que se refiere el párrafo anterior no requerirá de la previa autorización del Congreso del Estado, cuando la misma tenga por objeto desafectar o disminuir las participaciones o aportaciones federales afectadas al mecanismo de fuente de pago o garantía, siempre y cuando no se genere un perjuicio a los derechos adquiridos de los acreedores, mientras existan obligaciones pendientes de pago a cargo del Municipio respecto de los financiamientos para las cuales las mismas fueron afectadas.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+No requerirá autorización de la legislatura el trámite correspondiente a la afectación de fondos de aportaciones federales que correspondan a los municipios que sean susceptibles de afectación para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de obligaciones, cuando no esté expresamente establecido como requisito en la Ley de Coordinación Fiscal o cualquier otro ordenamiento del marco jurídico federal. La afectación de estos fondos tampoco será constitutiva de deuda si las precitadas normativas federales no consideran su configuración como tal.
 
 ###### Artículo 30.
 
@@ -652,3 +660,11 @@ Dado en el Salón de Sesiones del Palacio Legislativo, en la Ciudad de San Franc
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia;
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los dieciocho días del mes de septiembre del año dos mil doce.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- LA SUBSECRETARIA "A" DE GOBIERNO ENCARGADA DEL DESPACHO DE LA SECRETARIA DE GOBIERNO, MTRA. PERLA KARINA CASTRO FARIAS.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango del marco jurídico estatal en lo que se opongan al presente Decreto.
