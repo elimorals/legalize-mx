@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-rehabilitacion-8644
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-03-02"
-last_updated: "2015-04-06"
+last_updated: "2015-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86444&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-03-03"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE REHABILITACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE OCTUBRE DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 2 de marzo de 2012.
 
@@ -125,23 +125,21 @@ b. Consejo Asesor Externo
 
 c. Consejo Técnico de Administración y Programación.
 
+> <small>(REFORMADA, D.O.F. 6 DE OCTUBRE DE 2015)</small>
+
 III.- UNIDADES ADMINISTRATIVAS Y SUSTANTIVAS:
 
 a. Direcciones:
 
-> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 2015)</small>
-
-- Dirección de Educación en Salud.
-
 - Dirección Quirúrgica
+
+- Dirección Médica
 
 - Dirección de Investigación
 
-- Dirección de Enseñanza
+- Dirección de Educación en Salud
 
 - Dirección de Administración
-
-El Instituto contará asimismo con las subdirecciones y demás unidades subalternas necesarias para el ejercicio de sus funciones, previa autorización de su Junta de Gobierno y de las secretarías de la Función Pública y de Hacienda y Crédito Publico, en el marco de sus atribuciones, de acuerdo a la normatividad aplicable.
 
 IV.- COMITES Y COMISIONES:
 
@@ -251,7 +249,7 @@ La Junta de Gobierno celebrará sesiones ordinarias, por lo menos dos veces cada
 
 Cuando se hubiere convocado a una reunión y ésta no pudiere llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes a la fecha original, previo aviso a los miembros de la Junta de Gobierno.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría del los asistentes sean representantes de la Administración Pública Federal. Los acuerdos se tomarán por mayoría de los miembros presentes y el Presidente tendrá voto de calidad, en caso de empate.
+La Junta de Gobierno sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría del (sic) los asistentes sean representantes de la Administración Pública Federal. Los acuerdos se tomarán por mayoría de los miembros presentes y el Presidente tendrá voto de calidad, en caso de empate.
 
 A las sesiones de la Junta de Gobierno asistirán, con voz pero sin voto, el Secretario, el Prosecretario y el Comisario.
 
@@ -495,7 +493,7 @@ XIII. Asistir a las sesiones de los comités y comisiones institucionales en los
 
 XIV. Participar en la elaboración de manuales de organización, de procedimientos, de servicios al público e instructivos del área de su competencia;
 
-XV. Dirigir acciones para el óptimo aprovechamiento de Ios equipos, insumos, materiales y recursos con que cuente esta Dirección; y
+XV. Dirigir acciones para el óptimo aprovechamiento de los equipos, insumos, materiales y recursos con que cuente esta Dirección; y
 
 XVI. Las demás que le señale el Director General, necesaria para el cumplimiento de sus funciones.
 
@@ -665,6 +663,10 @@ El Organo Interno de Control forma parte de la estructura del Instituto y tiene 
 
 Las ausencias del Director General del Instituto serán suplidas por el servidor público de la jerarquía inmediata inferior, según la naturaleza de los asuntos y la preeminencia de las unidades administrativas señaladas en el artículo 4 de este Estatuto Orgánico.
 
+> <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2015)</small>
+
+En caso de falta absoluta del Director General del Instituto, en tanto se lleva a cabo el proceso de selección correspondiente, en los términos de las disposiciones jurídicas aplicables, la Junta de Gobierno determinará, de entre los servidores públicos del Instituto con el nivel inmediato inferior, al que deba encargarse del despacho de los asuntos de dicho Instituto.
+
 ###### ARTICULO 43.
 
 Las ausencias de los titulares de las unidades administrativas y sustantivas, serán cubiertas por los servidores públicos de la jerarquía inmediata inferior, según la naturaleza de los asuntos.
@@ -734,3 +736,11 @@ El Director General del Instituto Nacional de Rehabilitación deberá inscribir 
 ###### ARTÍCULO TERCERO.
 
 Con fundamento en el artículo 33, fracción XI del Estatuto del Instituto Nacional de Rehabilitación, la Dirección de Administración será la encargada de llevar a cabo la modificación y la actualización del Manual de Organización del Instituto Nacional de Rehabilitación con motivo de los cambios de denominación aprobados en la presente reforma.
+
+D.O.F. 6 DE OCTUBRE DE 2015.
+
+PRIMERO. Las presentes reformas al Estatuto Orgánico del Instituto Nacional de Rehabilitación, Luis Guillermo Ibarra Ibarra, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Directora de Administración del Instituto Nacional de Rehabilitación, Luis Guillermo Ibarra Ibarra, deberá inscribir la presente modificación en el Registro Público de Organismos Descentralizados en términos del artículo 24 de la Ley Federal de las Entidades Paraestatales.
+
+TERCERO. Con fundamento en el artículo 33, fracción XI del Estatuto Orgánico del Instituto Nacional de Rehabilitación, la Dirección de Administración será la encargada de llevar a cabo la modificación y la actualización del Manual de Organización del Instituto Nacional de Rehabilitación con motivo de las reformas y adiciones aprobadas en la presente reforma.
