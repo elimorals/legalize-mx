@@ -4,7 +4,7 @@ identifier: "GUA-codigo-reglamentario-de-desarrollo-urbano-para-el-municipio-758
 country: "mx"
 rank: "codigo"
 publication_date: "2010-08-06"
-last_updated: "2015-08-11"
+last_updated: "2015-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO REGLAMENTARIO DE DESARROLLO URBANO PARA EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
 
 Código publicado en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el viernes 6 de agosto de 2010.
 
@@ -59,7 +59,9 @@ III. Regular la planeación y la ejecución de las obras de construcción nuevas
 
 IV. Regular los procedimientos para revisar, proponer, asignar y modificar la nomenclatura de los bienes de uso común destinados a la vialidad, así como de las colonias, fraccionamientos, barrios, parques y jardines; así mismo definir las normas técnicas para la revisión, asignación y modificación de la numeración oficial;
 
-V. Normar y regular la zonificación y los usos del suelo del territorio municipal, promoviendo así, el adecuado ordenamiento de los mismos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+V. Normar y regular la zonificación, los usos y destinos del suelo del territorio municipal, promoviendo así, el adecuado ordenamiento de los mismos;
 
 VI. Establecer las normas técnicas para clasificar la utilización del suelo; y,
 
@@ -219,6 +221,10 @@ L. Estructura de Construcción: Toda construcción destinada a soportar su propi
 
 LI. Estudio de Compatibilidad: Estudio presentado por el solicitante a la Dirección en el que se señalan los efectos que la modificación propuesta a la zonificación producirá en el ambiente, los recursos naturales, el equipamiento urbano, la infraestructura pública, los servicios públicos, la imagen urbana, el paisaje, el patrimonio cultural urbano y arquitectónico, la movilidad urbana y la seguridad de las personas y sus bienes, en la zona en que se pretende un uso de suelo diferente a lo señalado en el POTE;
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+LI-A. Estudio de Densidad y criterios bioclimáticos en la ciudad de León: Documento en el que se establecen una serie de criterios, que deberá de ser elaborado y entregado a la Dirección por el promovente de proyectos, que conforme al presente Código así se requieran;
+
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
 LII. Estudio de Riesgo: Estudio presentado por los interesados en obtener un permiso de uso de suelo en el que deberán indicarse las medidas de seguridad a efecto de mitigar los impactos que se pudieran generar. Estudio que se dictamina por las instancias federales, estatales y municipales en el ámbito de su respectiva competencia;
@@ -321,11 +327,21 @@ XCIII. Obras Nuevas: Es la edificación que se realiza en un lote, terreno o pre
 
 XCIV. Paramento: Sucesión de fachadas exteriores de los edificios, a lo largo de una calle;
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XCIV-A. Parque Lineal: espacios verdes dentro de la zona urbana que permiten la rehabilitación y conservación de la naturaleza, para la recreación, con infraestructura para la movilidad no motorizada. Determinados en su mayoría por el recorrido de la continuidad de un río o arroyo;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XCIV-B. Parque Metropolitano: Son áreas libres que cubren una superficie superior a 4 hectáreas, destinadas al desarrollo de actividades recreativas activas y/o pasivas, cuya área de influencia abarca todo el territorio de la ciudad pudiendo tener una influencia regional;
+
 XCV. Patrimonio Histórico Cultural: Los bienes inmuebles catalogados por el INAH, o los considerados por las leyes o reglamentos en la materia;
 
 XCVI. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
-XCVII. Plano de Zonificación: Carta del territorio municipal en la que se establecen las zonas y corredores de uso de suelo, sobre las que norma el presente Código;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XCVII. Plano de Zonificación: Carta del territorio municipal en la que se establecen las zonas y corredores de uso y destino de suelo, sobre las que norma el presente Código;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -389,11 +405,15 @@ CXXI. Sistema Vial Terciario: El conjunto de vías locales y calles cerradas;
 
 CXXII. Traza: Estructura vial básica y geométrica de los centros de población o parte de ella, consistente en la delimitación de manzanas o predios;
 
-CXXIII. UGA: Unidad de Gestión Ambiental, la cual constituye los lineamientos de manejo para el modelo de Ordenamiento Territorial y Ecológico, en donde se considera la aptitud principal y objetivos respecto al escenario posible, determinando las políticas para cada una de ellas, metas e indicadores de cumplimiento;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+CXXIII. UGAT: Unidad de Gestión Ambiental y Territorial para el modelo de Ordenamiento Ecológico y Territorial, en donde se considera la aptitud principal, objetivo general, política y criterios de ordenamiento ecológico y territorial;
 
 CXXIV. Urbanización: La instalación de los ductos e infraestructura necesaria para la conducción de agua potable, drenaje y alcantarillado, ya sea sanitario o pluvial, la instalación de las líneas e infraestructura necesarias para la conducción de energía eléctrica y alumbrado público, así como la construcción de guarniciones, banquetas y pavimento de arroyos vehiculares;
 
-CXXV. Uso del Suelo: Los usos, destinos, o las actividades y giros existentes de una zona, lote o predio, o la fracción de los mismos;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+CXXV. Usos y destinos del suelo: Los usos, destinos o las actividades y giros existentes de una zona, lote o predio, o la fracción de los mismos;
 
 CXXVI. Uso Mixto: La combinación de varios usos del suelo compatibles entre si;
 
@@ -419,11 +439,15 @@ CXXXIII. Zonas Patrimoniales: Las identificadas como zonas A, B y C en el Reglam
 
 CXXXIV. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento de los mismos centros de población;
 
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+CXXXIV-A. ZCU: Zonas de Consolidación Urbana. Baldíos al interior de la zona urbana que por su ubicación cuentan con infraestructura y servicios para la aplicación de políticas de consolidación y mejoramiento urbano con criterios de densificación;
+
 CXXXV. ZRC: Zonas de reserva para el crecimiento que tienen destino para usos mixtos compatibles y densidades de acuerdo a los tipos de vías, en las que las compatibilidades, se irán marcando de acuerdo a los usos que vayan siendo desarrollados.
 
 Estas zonas se presentan al oriente y poniente, las cuales deberán respetar los usos actuales y las políticas de uso de las zonas de preservación; y serán destino para la adquisición de reservas territoriales para el sistema vial, el equipamiento y parques urbanos así como para la vivienda popular a largo plazo; y,
 
-CXXXVI. ZRC-C: Zonas de reserva para el crecimiento condicionada, cuyo desarrollo estará condicionado a estudios de impactos urbanos, económicos y ambientales del mismo o a su beneficio social. Los nuevos proyectos de desarrollo propuestos en esta zona, deberán asegurar la infraestructura y servicios en esquemas de respeto ambiental y una nueva cultura para el tratamiento y utilización del agua; su incorporación al desarrollo urbano deberá de igual forma otorgar ventajas sociales y económicas.
+CXXXVI. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
 ###### Artículo 3.
 
@@ -487,9 +511,9 @@ La Dirección y el H. Ayuntamiento promoverán la participación ciudadana para 
 
 El H. Ayuntamiento, en materia de desarrollo urbano, además de las atribuciones previstas en la Ley Orgánica Municipal y el Código Territorial, tiene las siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-I. Controlar y vigilar, a través de la Dirección, la zonificación y los usos del suelo que se deriven del POTE y de los mecanismos para su instrumentación;
+I. Controlar y vigilar, a través de la Dirección, la zonificación, los usos y destinos del suelo que se deriven del POTE y de los mecanismos para su instrumentación;
 
 II. Aprobar y expedir las declaratorias sobre usos, destinos y reservas territoriales en los términos de este ordenamiento;
 
@@ -621,23 +645,27 @@ XII. Establecer y dictaminar los requisitos técnicos indispensables dispuestos 
 
 XIII. Establecer de acuerdo al Código Territorial, al POTE, al presente Código y demás disposiciones aplicables, los lineamientos a seguir para el uso del suelo, estableciendo los tipos de construcciones y predios afines de conformidad a las características y normas a seguir para su autorización;
 
-XIV. Clasificar los usos del suelo de acuerdo a las características y normas del presente ordenamiento y del Manual Técnico de Usos del Suelo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XIV. Clasificar los usos y destinos del suelo de acuerdo a las características y normas del presente ordenamiento y del Manual Técnico de Usos del Suelo;
 
 XV. Ejecutar las medidas necesarias a que deban sujetarse los usos en los predios o zonas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, reservas ecológicas o especiales o de protección del patrimonio cultural por tratarse de áreas sujetas a conservación y mejoramiento, en apego a lo que dispongan las autoridades competentes en la materia;
 
 XVI. Aplicar en el ámbito de su competencia las diferentes restricciones que marquen las Leyes y Reglamentos aplicables, así como las especificaciones técnicas y normativas que dicten la Comisión Nacional del Agua, la CFE, el SAPAL y todos los demás aplicables, para evitar el mal uso del suelo;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-XVII. Clasificar y reclasificar las vías colectoras y locales, previa opinión del IMPLAN y en base al planteamiento del proyecto de los desarrollos; así como coadyuvar con dicho instituto en las propuestas de usos del suelo.
+XVII. Clasificar y reclasificar las vías colectoras y locales, en base al planteamiento del proyecto de los desarrollos; así como coadyuvar con el IMPLAN en las propuestas de usos y destinos del suelo.
 
-En el caso de la clasificación y reclasificación de las vialidades que se actualice al amparo de esta fracción, deberán integrarse al plano de zonificación del Municipio y los que de éste se deriven;
+Para la clasificación de las vías colectoras el IMPLAN emitirá su opinión técnica.
 
 XVIII. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
 XIX. Crear el sistema de información sobre uso del suelo y Banco de Datos para control urbano;
 
-XX. Autorizar los usos o actividades consideradas como de riesgo conforme al Grupo de Usos XXII establecido en el presente Código;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XX. Autorizar los usos o actividades consideradas como de riesgo conforme al Grupo de Usos XIX establecido en el presente Código;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -807,7 +835,9 @@ LXVII. Las demás que se deriven del presente Código y de otras disposiciones l
 
 Son atribuciones del IMPLAN las siguientes:
 
-I. Promover la participación ciudadana a través del Consejo Directivo de Planeación, organismos o dependencias, por medio de consultas públicas en el proceso de elaboración de estudios, programas y proyectos en materia de zonificación y usos del suelo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+I. Promover la participación ciudadana a través del Consejo Directivo de Planeación, organismos o dependencias, por medio de consultas públicas en el proceso de elaboración de estudios, programas y proyectos en materia de zonificación, usos y destinos del suelo;
 
 II. Proponer al H. Ayuntamiento las acciones a tomar, para promover el uso eficiente del suelo urbano y evitar el crecimiento descontrolado;
 
@@ -817,9 +847,9 @@ III. Auxiliar, como asesor técnico, al H. Ayuntamiento en cambios a la zonifica
 
 III- A. Clasificar, reclasificar y asignar los usos del suelo en los Ejes Metropolitanos, Vías Primarias e Interbarrios, de manera conjunta y coordinada con la Dirección General de Desarrollo Urbano, dicho procedimiento, deberá estar soportado en un estudio técnico que avale su procedencia;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE y al Plano de Zonificación Municipal, incluyendo las asignaciones de uso del suelo en zonas de reserva para el crecimiento (ZRC y ZRC-C) y en zonas de reserva agrícola (RA);
+IV. Proponer al Ayuntamiento, a través de la Comisión del Instituto Municipal de Planeación, las propuestas de actualización y modificación al POTE y al Plano de Zonificación Municipal, incluyendo las asignaciones de uso del suelo en zonas de reserva para el crecimiento (ZRC); Zona de Consolidación Urbana (ZCU) y en zona agrícola (A);
 
 V. (DEROGADA, P.O. 6 DE MAYO DE 2014)
 
@@ -845,9 +875,17 @@ XI. Apoyar al Presidente Municipal en la gestión de la inscripción del POTE y 
 
 XII. Substanciar el procedimiento de evaluación de compatibilidad urbanística y presentar al Ayuntamiento la propuesta de acuerdo respectivo; y,
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-XIII. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
+XIII. Emitir opinión técnica del estudio de densidad y criterios bioclimáticos a la Dirección;
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XIV. Elaborar los términos de referencia de los criterios bioclimáticos para el estudio de densidad y criterios bioclimáticos; y,
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+XV. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
 #### SECCIÓN SEGUNDA. DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO
 
@@ -895,7 +933,9 @@ III. Autorizar o negar, de acuerdo con este ordenamiento, la ocupación o el uso
 
 IV. Las demás que se deriven del presente Código y de otras disposiciones legales y reglamentarias.
 
-## TÍTULO SEGUNDO. DE LA ZONIFICACIÓN Y USOS DEL SUELO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+## TÍTULO SEGUNDO. DE LA ZONIFICACIÓN, USOS Y DESTINOS DEL SUELO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -903,7 +943,9 @@ IV. Las demás que se deriven del presente Código y de otras disposiciones lega
 
 Además de los objetivos generales previstos en este Código, son objetivos específicos del presente Título, los siguientes:
 
-I. Normar sobre las modificaciones de la zonificación y los usos del suelo del territorio municipal;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+I. Normar sobre las modificaciones de la zonificación, los usos y destinos del suelo del territorio municipal;
 
 II. Normar sobre las densidades de población del territorio municipal;
 
@@ -913,75 +955,95 @@ III. Regular los procedimientos para expedir trámites en materia de gestión ur
 
 IV. Normar los procedimientos de gestión urbana para lograr un desarrollo sustentable del Municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 18.
 
-Los estudios, dictámenes o acuerdos para autorizar los diferentes usos del suelo en zonas, predios y lotes, deberán ser compatibles con lo dispuesto en el POTE vigente y cumplir con los requisitos y procedimientos que se señalan en este Código, demás leyes, reglamentos y manuales técnicos aplicables en materia urbana.
+Los estudios, dictámenes o acuerdos para autorizar los diferentes usos y destinos del suelo en zonas, predios y lotes, deberán ser compatibles con lo dispuesto en el POTE vigente y cumplir con los requisitos y procedimientos que se señalan en este Código, demás leyes, reglamentos y manuales técnicos aplicables en materia urbana.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Ningún inmueble podrá ser ocupado o utilizados (sic) sin que previamente se obtenga el permiso de uso de suelo y, en su caso, la autorización de uso y ocupación correspondientes, debiendo de cumplir los requisitos señalados en el Código Territorial, el presente Código y demás normativa aplicables.
 
-### CAPÍTULO II. DE LOS GRUPOS DE USOS DEL SUELO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO II. DE LOS GRUPOS DE USOS Y DESTINOS DEL SUELO
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-Para los efectos de este Código los diferentes Usos del Suelo se agrupan de acuerdo a la intensidad de los mismos, los cuales estarán sujetos a compatibilidad dentro de las zonas marcadas por el Plano de Zonificación Municipal, dichos grupos son los siguientes:
+Para los efectos de este Código los diferentes usos y destinos del suelo son los siguientes:
 
-Grupo de usos I: Habitacional densidad mínima;
+I. De los usos del suelo:
 
-Grupo de usos II: Habitacional densidad baja;
+a) Grupo de usos I: Habitacional densidad mínima;
 
-Grupo de usos III: Habitacional densidad media;
+b) Grupo de usos II: Habitacional densidad baja;
 
-Grupo de usos IV: Habitacional densidad alta;
+c) Grupo de usos III: Habitacional densidad media;
 
-Grupo de usos V: Habitacional densidad libre;
+d) Grupo de usos IV: Habitacional densidad alta;
 
-Grupo de usos VI: Equipamiento urbano Vecinal;
+e) Grupo de usos V: Habitacional densidad libre;
 
-Grupo de usos VII: Equipamiento urbano Zonal;
+f) Grupo de usos VI: Comercio de Intensidad Mínima;
 
-Grupo de usos VIII: Equipamiento urbano Especializado;
+g) Grupo de usos VII: Comercio de Intensidad Baja;
 
-Grupo de usos IX: Comercio de Intensidad Mínima;
+h) Grupo de usos VIII: Comercio de Intensidad Media;
 
-Grupo de usos X: Comercio de Intensidad Baja;
+i) Grupo de usos IX: Comercio de Intensidad Alta;
 
-Grupo de usos XI: Comercio de Intensidad Media;
+j) Grupo de usos X: Servicios de Intensidad Mínima;
 
-Grupo de usos XII: Comercio de Intensidad Alta;
+k) Grupo de usos XI: Servicios de Intensidad Baja;
 
-Grupo de usos XIII: Servicios de Intensidad Mínima;
+l) Grupo de usos XII: Servicios de Intensidad Media;
 
-Grupo de usos XIV: Servicios de Intensidad Baja;
+m) Grupo de usos XIII: Servicios de Intensidad Alta;
 
-Grupo de usos XV: Servicios de Intensidad Media;
+n) Grupo de usos XIV: Servicios Carreteros;
 
-Grupo de usos XVI: Servicios de Intensidad Alta;
+o) Grupo de usos XV; Taller Familiar;
 
-Grupo de usos XVII: Servicios Carreteros;
+p) Grupo de usos XVI: Industria de intensidad baja;
 
-Grupo de usos XVIII: Taller Familiar;
+q) Grupo de usos XVII: Industria de intensidad media;
 
-Grupo de usos XIX: Industria de intensidad baja;
+r) Grupo de usos XVIII: Industria de intensidad alta;
 
-Grupo de usos XX: Industria de intensidad media;
+s) Grupo de usos XIX: Actividades de Riesgo;
 
-Grupo de usos XXI: Industria de intensidad alta;
+t) Grupo de usos XX: Uso Agrícola;
 
-Grupo de usos XXII: Actividades de Riesgo;
+u) Grupo de usos XXI: Uso Pecuario;
 
-Grupo de usos XXIII: Uso Ecológico;
+v) Grupo de usos XXII: Servicios de Alojamiento Temporal;
 
-Grupo de usos XXIV: Uso Agrícola;
+w) Grupo de usos XXIII: Turístico o recreativo; y,
 
-Grupo de usos XXV: Uso Forestal; y,
+x) Grupo de usos XXIV: Actividades extractivas
 
-Grupo de usos XXVI: Uso Pecuario.
+II. De los destinos del suelo:
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
+a) EQ. Equipamiento urbano Vecinal;
 
-Grupo de usos XXVII: Servicios de Alojamiento Temporal, en zonas de reserva forestal y ecológica.
+b) EQ. Equipamiento urbano Zonal;
+
+c) EQ. Equipamiento urbano Especializado;
+
+d) CE. Conservación ecológica;
+
+e) IP. Infraestructura pública;
+
+f) AV. Área verde: PU. Parque urbano y JP. jardín público;
+
+g) PL. Parque lineal; y,
+
+h) PM. Parque metropolitano.
+
+Los diferentes usos y destinos del suelo se agrupan de acuerdo a la intensidad de los mismos, los cuales estarán sujetos a compatibilidad dentro de las zonas marcadas por el Plano de Zonificación Municipal, hecha excepción de los destinos a que se refieren los incisos d), e), f), g) y h) de la fracción II del presente artículo.
 
 ###### Artículo 20.
 
@@ -1047,31 +1109,21 @@ Norma de Intensidad: Más de 900 habitantes/hectárea.
 
 ###### Artículo 25.
 
-Grupo de uso VI
-
-Equipamiento urbano vecinal:
-
-Norma de Intensidad: hasta 10,000 habitantes por radio de influencia.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 ###### Artículo 26.
 
-Grupo de usos VII
-
-Equipamiento urbano zonal:
-
-Norma de Intensidad: hasta 100,000 habitantes por radio de influencia.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 ###### Artículo 27.
 
-Grupo de usos VIII
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
-Equipamiento urbano especializado:
-
-Norma de Intensidad: Más de 100,000 habitantes por radio de influencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-Grupo de usos IX
+Grupo de usos VI
 
 Comercio de Intensidad Mínima:
 
@@ -1081,9 +1133,11 @@ Comercio de Intensidad Mínima:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 1 tonelada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 29.
 
-Grupo de usos X
+Grupo de usos VII
 
 Comercio de Intensidad Baja:
 
@@ -1095,9 +1149,11 @@ Comercio de Intensidad Baja:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 30.
 
-Grupo de usos XI
+Grupo de usos VIII
 
 Comercio de Intensidad Media:
 
@@ -1107,9 +1163,11 @@ Comercio de Intensidad Media:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 31.
 
-Grupo de usos XII
+Grupo de usos IX
 
 Comercio de Intensidad Alta:
 
@@ -1119,9 +1177,11 @@ Comercio de Intensidad Alta:
 
 3.- Servicio de carga y descarga: Trailer (Transporte Pesado).
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-Grupo de usos XIII
+Grupo de usos X
 
 Servicio de Intensidad Mínima:
 
@@ -1131,9 +1191,11 @@ Servicio de Intensidad Mínima:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 1 tonelada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 33.
 
-Grupo de usos XIV
+. Grupo de usos XI
 
 Servicio de Intensidad Baja:
 
@@ -1145,9 +1207,11 @@ Servicio de Intensidad Baja:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 34.
 
-Grupo de usos XV
+Grupo de usos XII
 
 Servicio de Intensidad Media:
 
@@ -1157,9 +1221,11 @@ Servicio de Intensidad Media:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-Grupo de usos XVI
+Grupo de usos XIII
 
 Servicio de Intensidad Alta:
 
@@ -1171,9 +1237,11 @@ Servicio de Intensidad Alta:
 
 3.- Servicio de carga y descarga: Hasta Trailer.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 36.
 
-Grupo de usos XVII
+Grupo de usos XIV
 
 Servicios Carreteros:
 
@@ -1183,9 +1251,11 @@ Servicios Carreteros:
 
 3.- Servicio de carga y descarga: Hasta Trailer.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-Grupo de usos XVIII
+Grupo de usos XV
 
 Taller familiar:
 
@@ -1195,9 +1265,11 @@ Taller familiar:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 38.
 
-Grupo de usos XIX
+Grupo de usos XVI
 
 Industria de Intensidad Baja:
 
@@ -1207,11 +1279,13 @@ Industria de Intensidad Baja:
 
 3.- Servicio de carga y descarga: Hasta camioneta de 3 toneladas.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-Grupo de usos XX
+Grupo de usos XVII
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Industria de Intensidad Media:
 
@@ -1221,11 +1295,13 @@ Industria de Intensidad Media:
 
 3.- Servicio de carga y descarga: Hasta tráiler.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-Grupo de usos XXI
+Grupo de usos XVIII
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 Industria de Intensidad Alta:
 
@@ -1235,9 +1311,11 @@ Industria de Intensidad Alta:
 
 3.- Servicio de carga y descarga: Hasta tráiler.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 41.
 
-Grupo de usos XXII
+Grupo de usos XIX
 
 Actividades de Riesgo:
 
@@ -1245,13 +1323,13 @@ Norma de Intensidad: Manejo de materiales, procesos o residuos: corrosivos, reac
 
 ###### Artículo 42.
 
-Grupo de usos XXIII
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
-Uso Ecológico: Norma de Intensidad: Áreas verdes urbanas, públicas o privadas y áreas naturales protegidas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 43.
 
-Grupo de usos XXIV
+Grupo de usos XX
 
 Uso Agrícola:
 
@@ -1259,23 +1337,57 @@ Norma de Intensidad: Actividades rurales dedicadas a la siembra, cosecha y almac
 
 ###### Artículo 44.
 
-Grupo de usos XXV
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
-Uso Forestal: Norma de Intensidad: Actividades rurales dedicadas al manejo y aprovechamiento de los bosques.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 45.
 
-Grupo de usos XXVI
+Grupo de usos XXI
 
 Uso Pecuario: Norma de Intensidad: Actividades rurales dedicadas a la ganadería, piscicultura y avicultura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 45-A.
+
+Grupo de usos XXII
+
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 2012)</small>
 
-###### Artículo 45 - A.
-
-Grupo de usos XXVII
-
 Servicio de Alojamiento Temporal: Norma de Intensidad: Actividades con fines de ocio y recreación, por lo que no se permitirá el establecimiento de asentamientos humanos y/o centros de población.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 45-B.
+
+Grupo de usos XXIII
+
+Uso Turístico o recreativo: Norma de intensidad: Actividades recreativas de apreciación y conocimiento de la naturaleza, a través de la interacción con la misma, mediante el desarrollo de infraestructura ecoturística.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 45-C.
+
+Equipamiento urbano vecinal
+
+Norma de intensidad: hasta 10,000 habitantes por radio de influencia.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 45-D.
+
+Equipamiento urbano zonal
+
+Norma de Intensidad: hasta 100,000 habitantes por radio de influencia.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 45-E.
+
+Equipamiento urbano especializado
+
+Norma de Intensidad: Más de 100,000 habitantes por radio de influencia.
 
 ###### Artículo 46.
 
@@ -1333,6 +1445,12 @@ De igual forma tratándose de cualquier solicitud que implique el nuevo desarrol
 
 Para la Instalación de cualquier uso comercial, de servicios o industrial que contemple dos ó más locales individuales, el predio en su conjunto habrá de reunir las normas de intensidad, dimensiones y parámetros para el servicio de carga y descarga, que estatuye el presente Código para cada grupo de uso del suelo.
 
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 51-A.
+
+Sufijo - A, zonas de amortiguamiento, que se encuentran establecidas en el Plano de Zonificación y en el POTE y pueden comprender de manera parcial o total predios sujetos a cualquier régimen de propiedad, por lo que dichas zonas se sujetarán a lo establecido por el Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato y al propio POTE, en estas zonas no se permitirá el uso habitacional.
+
 > <small>(REFORMADA SE DENOMINACIÓN, P.O. 6 DE MAYO DE 2014)</small>
 
 ### CAPÍTULO III. ACTIVIDADES O GIROS ESPECIALES
@@ -1351,89 +1469,101 @@ Tratándose de los giros y actividades especiales relativos a estaciones de serv
 
 ### CAPÍTULO IV. DE LAS NORMAS TÉCNICAS DE ZONIFICACIÓN MUNICIPAL
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 54.
 
-Para los efectos de este Código, los tipos de zonas ubicadas en el Municipio, se clasifican e identifican en forma ascendente de intensidad, excluyendo las zonas de reserva y parques, siendo las siguientes:
+Para los efectos de este Código, los tipos de zonas ubicadas en el Municipio se clasifican e identifican en forma ascendente de intensidad, excluyendo las zonas de reserva, siendo las siguientes:
 
-Zonas habitacionales (H):
+I. Zonas habitacionales (H):
 
-HR Habitacional campestre rústico;
+a) HR Habitacional campestre rústico;
 
-H1 Habitacional campestre residencial;
+b) H1 Habitacional campestre residencial;
 
-H2 Habitacional residencial de densidad baja;
+c) H2 Habitacional residencial de densidad baja;
 
-H3 Habitacional residencial de densidad baja y usos mixtos condicionados;
+d) H3 Habitacional residencial de densidad baja y usos mixtos condicionados;
 
-H4 Habitacional de densidad media;
+e) H4 Habitacional de densidad media;
 
-H5 Habitacional de densidad media y usos mixtos de comercio y servicio de intensidad media;
+f) H5 Habitacional de densidad media y usos mixtos de comercio y servicio de intensidad media;
 
-H6 Usos mixtos de comercio y servicio de intensidad media, industria ligera y mediana con Habitacional de densidad media;
+g) H6 Usos mixtos de comercio y servicio de intensidad media, industria ligera y mediana con Habitacional de densidad media;
 
-H6-E Habitacional de densidad media y usos mixtos de comercio, servicio e industria dentro de las Zonas de Protección de Monumentos;
+h) H6-E Habitacional de densidad media y usos mixtos de comercio, servicio e industria dentro de las Zonas de Protección de Monumentos;
 
-H7 Habitacional de densidad alta; y,
+i) H7 Habitacional de densidad alta; y,
 
-H8 Habitacional de densidad alta con usos mixtos de comercio y servicio de intensidad media e industria ligera y mediana.
+j) H8 Habitacional de densidad alta con usos mixtos de comercio y servicio de intensidad media e industria ligera y mediana.
 
-Tratándose de nuevos desarrollos la Dirección, a petición del desarrollador podrá clasificar para las zonas habitacionales, una sub-clasificación exclusivamente de Uso Habitacional, que se identificará con el sufijo - F; de dicha sub -clasificación, la Dirección deberá informar al IMPLAN dentro de un término de 10 días hábiles.
+Tratándose de nuevos desarrollos la Dirección, a petición del desarrollador podrá clasificar para las zonas habitacionales una sub-clasificación exclusivamente de Uso Habitacional, que se identificará con el sufijo - F; de dicha sub-clasificación, la Dirección deberá informar al IMPLAN dentro de un término de 10 días hábiles.
 
 Para los casos no previstos en el párrafo anterior, el Ayuntamiento podrá autorizar la misma sub-clasificación, previo análisis del IMPLAN y a petición del Comité de Colonos registrado en la Dirección General de Desarrollo Social.
 
-Zonas de comercio (C):
+II. Zonas de comercio (C):
 
-C1 Comercios de intensidad baja;
+a) C1 Comercios de intensidad baja;
 
-C2 Comercios de intensidad media; y,
+b) C2 Comercios de intensidad media; y,
 
-C3 Comercios de intensidad alta.
+c) C3 Comercios de intensidad alta;
 
-Zonas de servicio (S):
+III. Zonas de servicio (S):
 
-S1 Servicios de intensidad baja;
+a) S1 Servicios de intensidad baja;
 
-S2 Servicios de intensidad media;
+b) S2 Servicios de intensidad media;
 
-S3 Servicios de intensidad alta;
+c) S3 Servicios de intensidad alta; y,
 
-S4 Servicios carreteros; y,
+d) S4 Servicios carreteros;
 
-EQ Equipamiento.
+IV. Zonas de industria (I):
 
-Zonas de industria (I):
+a) I1 Industria de intensidad baja;
 
-I1 Industria de intensidad baja;
+b) I2 Industria de intensidad media;
 
-I2 Industria de intensidad media;
+c) I3 Industria de intensidad alta; y,
 
-I3 Industria de intensidad alta; y,
+d) I4 Industria de alto riesgo.
 
-I4 Industria de alto riesgo.
+V. Zona agrícola (A);
 
-Zonas de reserva (R):
+VI. Zona forestal (F);
 
-RE Reserva ecológica;
+VII. Zona pecuaria (P);
 
-RA Reserva agrícola;
+VIII. Zonas de Crecimiento (Z):
 
-RF Reserva forestal;
+a) ZRC Zona de reserva para el crecimiento; y,
 
-RP Reserva pecuaria; y,
+b) ZCU Zona de Consolidación Urbana;
 
-RQ Reserva arqueológica.
+IX. SQ Zona de sitios arqueológicos;
 
-Zonas de Parque (P):
+X. De los destinos.
 
-PD Parque Distrital; y,
+a) EQ. Equipamiento urbano Vecinal;
 
-PM Parque metropolitano.
+b) EQ. Equipamiento urbano Zonal;
 
-Zonas de Crecimiento (Z):
+c) EQ. Equipamiento urbano Especializado;
 
-ZRC Zona de reserva para el crecimiento; y,
+d) IP. Infraestructura pública;
 
-ZRC-C Zona de reserva para el crecimiento condicionada.
+e) CE. Conservación ecológica;
+
+f) PM Parque metropolitano;
+
+g) PL Parque lineal;
+
+h) PU Parque urbano;
+
+i) JP Jardín público; y
+
+j) AV Área verde
 
 ###### Artículo 55.
 
@@ -1452,6 +1582,12 @@ II. Establecer los usos predominantes, compatibles, condicionados e incompatible
 ###### Artículo 57.
 
 Las Compatibilidades de los Grupos de Uso dentro de las Zonas y corredores serán los marcados en la Tabla de Compatibilidades y en el Manual Técnico de Usos de suelo.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 57-A.
+
+Las Compatibilidades de los usos y destinos de las Zonas forestales serán las marcadas en la Tabla de Compatibilidades y en el Manual Técnico de Usos de suelo.
 
 ###### Artículo 58.
 
@@ -1473,63 +1609,55 @@ IV. Los Usos Incompatibles son aquellos que no pueden coexistir bajo ningún sup
 
 (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 60.
 
-De acuerdo a la ubicación del lote o predio, se autorizará el número de niveles de construcción, considerando el tipo de vía y la densidad de la zona, en base a la siguiente tabla:
+De acuerdo a la ubicación del lote o predio, se autorizará el número de niveles de construcción, considerando el tipo de vía y/o sección, la densidad de la zona, en base a la siguiente tabla:
 
 TIPO DE SEC DENSIDAD HABITACIONAL DENSIDAD
 
-VIA DE DENSIDAD BAJA
+VÍA DE DENSIDAD BAJA Y ZONA
 
-MEDIA Y Y ZONA
+MEDIA Y ALTA DE PROTECCIÓN
 
-ALTA DE
+COMERCIOS Y DE
 
-COMERCIOS PROTEC-
-
-Y SERVICIOS CION DE
-
-MONUMEN-
-
-TOS
+SERVICIOS MONUMENTOS
 
 Ejes
 
-Metropo- +40 Libre Libre Libre
+Metropo-
 
-litanos
+litanos +40 Libre Libre Libre
 
 Vías
 
-Primarias 30-40 900 Hasta 15 niveles Hasta 10 niveles
+Primarias 30-40 900 Hasta Hasta
 
-En
+15 niveles 10 niveles
 
-Plano
+Interbarrios 20-30 En plano 8 niveles 4 niveles
 
-Interbarrios 20-30 de 5 niveles 4 niveles
-
-Zonifi-
+de Zonifi-
 
 cación
 
-En
+Colectoras 15-20 En plano 5 niveles 2 niveles
 
-Plano
+de Zonifi-
 
-Colectoras 15-20 de 5 niveles 2 niveles
+cación
 
-Zonifi-
+Locales 11-15 En plano 4 niveles 2 niveles
 
-Cación
+de Zonifi-
 
-En
+cación
 
-Plano
+Calles -11 En plano 3 niveles 2 niveles
 
-Locales -15 de 3 niveles 2 niveles
-
-Zonifi-
+de Zonifi-
 
 cación
 
@@ -1553,37 +1681,65 @@ El rango de densidad se sujetará a lo dispuesto por el Título de Fraccionamien
 
 (DEROGADO, P.O. 31 DE ENERO DE 2012)
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 63.
 
-La Dirección podrá autorizar más niveles de lo establecido en el Manual Técnico de Usos de Suelo y/o COS mayores, mediante un estudio de densidad y que SAPAL otorgue la factibilidad de servicios.
+La Dirección podrá autorizar más niveles de lo establecido en el Manual Técnico de Usos de Suelo mediante un estudio de densidad y criterios bioclimáticos y que SAPAL otorgue la factibilidad de servicios.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 63-A.
 
-El estudio de densidad previsto en el artículo 63 del presente Código, deberá contener:
+El estudio de densidad y criterios bioclimáticos previsto en el artículo que antecede, deberá contener:
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
 I. Datos generales del proyecto y del poseedor del inmueble;
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
 II. Nombre y registro del DRO, en caso (sic) relacionados con construcción;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
 III. Descripción general del proyecto, indicando actividades y procesos, apoyada en diagramas de flujo donde se incluya claramente el contenido de su solicitud;
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
 IV. Evaluación del proyecto que incluya las normas aplicables al proyecto solicitado, la topografía del terreno, el tipo de suelo, los usos de suelo existentes en la zona;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
 V. Plano de localización (con norte) en el que se indiquen vías importantes de acceso al predio; dimensiones y colindancias del predio, ancho de calle de paramento a paramento (arroyo vehicular y banquetas), indicar tipo de paramento de la vía pública, postes, líneas de alta tensión sobre la vialidad en la que se ubica el predio;
 
-VI. Fotografías de la zona y del inmueble, las cuales deberán incluir vista de las vialidades de la zona, construcciones, usos existentes e infraestructura;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+VI. Descripción del entorno inmediato (500 m de radio), con fotografías de la zona y del inmueble, las cuales deberán incluir vista de las vialidades de la zona, construcciones, usos existentes, identificación de lotes baldíos, áreas verdes, infraestructura y movilidad;
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
 VII. Proyecto arquitectónico, excepto en casos relacionados con construcción;
 
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+
 VIII. Para revisar el impacto sobre la densidad de población en la zona, es necesario presentar una imagen aérea de la misma, en la cual se indique el área correspondiente a una hectárea, estableciendo como centro el predio en el cual se desarrolla el proyecto; y,
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
 
 IX. Señalar las consecuencias positivas y negativos (sic), así como las medidas de mitigación de estos conforme a los impactos visual, ambiental, de riesgo, vial, social y económico.
 
-Una vez ingresado el estudio la Dirección solicitará al SAPAL la factibilidad de servicios, previo a la resolución de la autorización de más niveles COS mayores a los previstos en el Manual de Usos del Suelo.
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+X. Cumplir con los términos de referencia para criterios bioclimáticos que la Dirección entregará al particular atendiendo a lo establecido en el POTE.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Una vez ingresado el estudio, la Dirección solicitará al IMPLAN su opinión y al SAPAL la factibilidad de servicios, previo a la resolución de la autorización de más niveles de los previstos en el Manual de Usos del Suelo.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Artículo 63 B.- La Dirección podrá autorizar un COS mayor mediante el cumplimiento de los requisitos señalados en las fracciones I, II, III, IV, V, VI VII, VIII y IX del artículo anterior.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 2012)</small>
 
@@ -1645,95 +1801,75 @@ V. Cuando los locales equipados para estacionamiento público o privado con serv
 
 Para la construcción de estacionamientos que se ubiquen dentro de las Zonas de Protección de Monumentos "B" y "C" consideradas (H6-E) y delimitadas dentro del Reglamento de la Imagen Urbana se deberá contar con el correspondiente permiso de uso del suelo y, en su caso, el permiso de demolición correspondientes.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 71.
 
-Los usos en las zonas de Reserva Ecológica (RE), se sujetarán a las normas siguientes:
+Los destinos de conservación ecológica (CE), se sujetarán al programa de manejo aplicable.
 
-I. La densidad máxima será de 50 hab/Ha;
-
-II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y,
-
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
-
-III. Los usos compatibles con la zona de Reserva Ecológica (RE), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código; y
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
-
-IV. Los usos sujetos a normas especiales con la zona de reserva ecológica (RE), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 72.
 
-Los usos en las Zonas de Reserva Agrícola (RA), se sujetarán a las normas siguientes:
+Los usos en las Zonas Agrícola (A), se sujetarán a las normas siguientes:
 
 I. La densidad máxima será de 50 hab/Ha;
 
 II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL); y,
 
-III. Los usos compatibles con la Zona de Reserva Agrícola (RA), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente Código.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+III. Los usos compatibles con la Zona Agrícola (A), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente Código.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 73.
 
-Las zonas de Reserva Forestal (RF) por sus características y vocación natural, deberán de protegerse y preservarse.
+Las zonas Forestales (F) por sus características y vocación natural, deberán de protegerse y preservarse.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 74.
 
-Para el otorgamiento de los usos en las Zonas de Reserva Forestal (RF), se deberán observar las siguientes disposiciones:
+Para el otorgamiento de los usos en las Zonas de Forestal (F), se deberán observar las siguientes disposiciones:
 
-I. La densidad máxima será de 50 hab/Ha;
+I. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
-II. Las edificaciones de equipamiento urbano que se construyan en estas zonas deberán sujetarse a lo dispuesto por el Sistema Normativo de Equipamiento Urbano, expedido por la Secretaría de Desarrollo Social (SEDESOL);
+II. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
-III. Los usos compatibles con la zona de Reserva Forestal (RF), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código; y,
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-IV. Para el caso de usos habitacionales, los mismos deberán ser verificados de conformidad con los Decretos Gubernativos que declaren áreas naturales protegidas, así como con sus respectivos Programas de Manejo y demás normativa aplicable.
+III. Los usos compatibles con la zona de Forestal (F), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código;
+
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+IV. Los usos compatibles deberán ser verificados de conformidad con los Decretos Gubernativos que declaren áreas naturales protegidas, así como con sus respectivos Programas de Manejo y demás normativa aplicable;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2012)</small>
 
 V. Se fomentaran actividades rurales dedicadas al manejo y aprovechamiento de las áreas naturales; y,
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-VI. Estas zonas estarán dedicadas al fomento de actividades eco - turísticas como una alternativa para la promoción del desarrollo sustentable y económico para los campesinos-; y
+VI. En estas zonas se fomentarán las actividades relacionadas al turismo alternativo como una alternativa para la promoción del desarrollo sustentable y económico; y,
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+VII. (DEROGADA, P.O. 6 DE OCTUBRE DE 2015)
 
-VII. Los usos sujetos a normas especiales con la zona de reserva forestal (RF), son aquellos que se localizan en la Tabla de Compatibilidades, localizada en el Anexo 3 del presente código
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 75.
 
-Los predios identificados como sitios arqueológicos (RQ) en el Reglamento de la Imagen Urbana, se sujetará a las normas que disponga el INAH en cuanto a su área de aprovechamiento y al uso de sus edificaciones.
+Los predios identificados como zonas de sitios arqueológicos (SQ), se sujetará a las normas que disponga el INAH en cuanto a su área de aprovechamiento y al uso de sus edificaciones.
 
 ###### Artículo 76.
 
-Los lotes y edificaciones que se construyan en las Zonas de Parque Metropolitano (PM) y Parque Distrital (PD), se sujetarán a las normas siguientes:
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
-I. La clasificación del tipo de parque estará en función de la cobertura de servicio que se pretenda dar al mismo;
-
-II. Se deberán dejar áreas para estacionamientos vehiculares, de acuerdo a las normas de estacionamientos que se mencionan en la Tabla de Requerimiento de Estacionamientos, localizada en el Anexo 4 de este Código;
-
-III. Las edificaciones destinadas a equipamiento urbano, deberán de respetar las normas establecidas por el Sistema Normativo de Equipamiento Urbano expedido por la Secretaria de Desarrollo Social (SEDESOL); y,
-
-IV. Cuando se pretenda desarrollar con usos urbanos, un predio en el cual se designe la política de ubicación de un parque urbano, se seguirán los siguientes criterios:
-
-a) Cuando el área de donación sea mayor a una hectárea, ésta se deberá diseñar de forma concentrada y con frente a una vía primaria o secundaria;
-
-b) Cuando el área de donación sea menor a una hectárea y el predio a desarrollar colinde con otros predios con posibilidad de desarrollo futuro, ésta deberá diseñarse de forma concentrada, con frente a una vía primaria o secundaria, y colindancia de forma que puede ser complementada por otro u otros desarrollo futuros;
-
-c) Cuando el Uso del Suelo propuesto en un Parque Metropolitano (PM) y/o Parque Distrital (PD), no implique el desarrollo de un fraccionamiento, la edificación deberá respetar en su proyecto un área perimetral mínima de 1.50 metros, destinada a forestación, para mantener la imagen urbana del lugar además de lo normado por cada grupo de usos y zona, así como lo mencionado por el Título de Fraccionamientos y Desarrollos en Condominio de este Código; y,
-
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
-
-d) Cuando dentro del predio o lote existan elementos naturales de foresta, la edificación deberá respetarlas dentro del proyecto; y
-
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
-
-V. Cuando se pretenda desarrollar en usos sujetos a normas especiales con las Zonas de Parque Metropolitano (PM) y Parque Distrital (PD), se tomará en consideración la Tabla de Compatibilidades, localizada en el Anexo 3 del presente Código.
-
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 76-A.
 
-Los usos sujetos a normas especiales con las Zonas de Reserva Ecológica (RE), Reserva Forestal (RF), Parque Metropolitano (PM) y Parque Distrital (PD), y para el caso de que por la naturaleza del proyecto, se requiera de información adicional a la presentada con la solicitud de permiso de uso de suelo, la Dirección podrá requerir a los particulares la realización de estudios adicionales, notificándole en un término no mayor a diez días siguientes a la recepción de los documentos.
+Para los usos sujetos a normas especiales en las Zonas Forestales (F) y para el caso de que por la naturaleza del proyecto, se requiera de información adicional a la presentada con la solicitud de permiso de uso de suelo, la Dirección podrá requerir a los particulares la realización de estudios adicionales, notificándole en un término no mayor a diez días siguientes a la recepción de los documentos.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1747,31 +1883,39 @@ Una vez concluido el análisis preliminar o, en su caso, recibidos los estudios 
 
 Recibida la opinión del IMPLAN, la factibilidad de servicios por parte del SAPAL y concluido el análisis respectivo, la Dirección deberá de someter a aprobación del Ayuntamiento, por conducto de la comisión respectiva, la autorización para otorgar el permiso de uso del suelo. Una vez aprobada la autorización la Dirección deberá emitir el permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 77.
 
-Dentro de las zonas de crecimiento se consideran las etapas para el desarrollo de mediano y largo plazo que son las zonas de reserva para el crecimiento (ZRC) y la Zona de Reserva para el Crecimiento Condicionada (ZRC-C).
+Dentro de las zonas de crecimiento se consideran las etapas para el desarrollo de mediano y largo plazo que son las zonas de reserva para el crecimiento (ZRC).
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 77 -A.
+
+Las Zonas de Consolidación Urbana se consideran las etapas para el desarrollo a corto plazo.
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 78.
 
-Para los inmuebles ubicados en las zonas de reserva para el crecimiento (ZRC), zonas de reserva para el crecimiento condicionada (ZRC-C), y zonas de reserva agrícola (RA), previo a la obtención del permiso de uso de suelo, se deberá realizar la asignación de uso de suelo por parte del H. Ayuntamiento.
+Para los inmuebles ubicados en las zonas de reserva para el crecimiento (ZRC), y Zona de Consolidación Urbana (ZCU), y zonas agrícolas (A), previo a la obtención del permiso de uso de suelo, se deberá realizar la asignación de uso de suelo por parte del H. Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 79.
 
-Tomando en cuenta las características topográficas de la ciudad, el crecimiento de la ciudad se realizará en etapas progresivas de crecimiento, por lo que se mantiene la zona de reserva para el crecimiento (ZRC) y, otra más denominada zona de reserva para el crecimiento condicionada (ZRC-C), teniendo como objetivo un crecimiento ordenado y sustentable, respetando los lineamientos establecidos en el POTE.
+Tomando en cuenta las características topográficas de la ciudad, el crecimiento de la ciudad se realizará en etapas progresivas de crecimiento, por lo que se mantiene la zona de reserva para el crecimiento (ZRC) y, otra más denominada Zona de Consolidación Urbana (ZCU), teniendo como objetivo un crecimiento ordenado y sustentable, respetando los lineamientos establecidos en el POTE.
 
 ###### Artículo 80.
 
 (DEROGADO, P.O. 6 DE MAYO DE 2014)
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 81.
 
-Las zonas de reserva para el crecimiento (ZRC y ZRC-C), no tienen usos predeterminados, éstos deberán de ajustarse a las compatibilidades urbanas que se vayan definiendo entre los diferentes desarrollos; las compatibilidades y densidades estarán establecidas para lograr un desarrollo de usos mixtos de forma estratificada, de acuerdo a la clasificación de vialidad, al diseño del fraccionamiento y a la asignación de uso de suelo correspondiente.
+Las zonas de reserva para el crecimiento (ZRC) y Zona de Consolidación Urbana (ZCU), no tienen usos predeterminados, éstos deberán de ajustarse a las compatibilidades urbanas que se vayan definiendo entre los diferentes desarrollos; las compatibilidades y densidades estarán establecidas para lograr un desarrollo de usos mixtos de forma estratificada, de acuerdo a la clasificación de vialidad, al diseño del fraccionamiento y a la asignación de uso de suelo correspondiente.
 
 ###### Artículo 82.
 
@@ -1787,9 +1931,11 @@ Los desarrollos inmobiliarios en esta zona, en el resolutivo correspondiente deb
 
 En las propuestas de nuevos desarrollos, el IMPLAN analizará el estudio correspondiente para determinar la compatibilidad urbanística, quien lo turnará al H. Ayuntamiento para análisis y en su caso la aprobación de la asignación de uso de suelo.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 85.
 
-En la zona de reserva para el crecimiento (ZRC) y en las Zonas de reserva para el crecimiento condicionada (ZRC-C) no se permitirá la industria pesada y de riesgo.
+En las Zonas de Consolidación Urbana (ZCU) no se permitirán usos con actividades de riesgo.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -1837,11 +1983,19 @@ Cuando los lotes formen parte de un desarrollo habitacional previamente autoriza
 
 Para los nuevos fraccionamientos en los cuales se contemplen ejes metropolitanos o vialidades primarias en los mismos, se podrán considerar usos de suelo distintos al habitacional en aquellos lotes que colinden con las vialidades mencionadas.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 95-A.
 
-El uso de suelo podrá otorgase de acuerdo a la ubicación del predio por la zona en la que se encuentra, en caso de que el predio tenga frente a una vialidad con uso por corredor, se podrá otorgar el uso de suelo por el mismo corredor.
+El uso y destino de suelo en predios podrá otorgarse de acuerdo a la ubicación del predio por la zona en la que se encuentra, en caso de que el predio tenga frente a una vialidad con uso por corredor, se podrá otorgar el uso de suelo por el mismo corredor.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 95-B.
+
+El uso y destino de suelo en predios con una superficie de hasta 1600 m2 que se encuentren en Zonas de Reserva para el Crecimiento ZRC, Zonas de Consolidación Urbana ZCU y Zona Agrícola A que tengan frente a una vialidad con uso por corredor, se deberá otorgar el uso de suelo por el mismo corredor.
+
+Para este caso en concreto no se deberá de otorgar la asignación de uso de suelo.
 
 ###### Artículo 96.
 
@@ -1877,7 +2031,33 @@ IV. No se autorizará la ampliación de usos del suelo en los límites de zonas,
 
 Para las zonas en donde existan usos de suelo diferentes a los señalados en el mapa de zonificación, se tomará en cuenta la consolidación de la manzana y el frente de ésta o incluso de la zona, según el caso, en relación con los usos existentes, se podrá autorizar por parte de la Dirección el uso de suelo predominante o compatible.
 
-### CAPÍTULO V. DE LAS AUTORIZACIONES EN MATERIA DE GESTIÓN URBANA PARA LA ZONIFICACIÓN Y USOS DEL SUELO
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 100-A.
+
+Las zonas del Municipio consideradas áreas naturales protegidas Municipales, quedarán sujetas a lo establecido por el Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato y las demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 100-B.
+
+El Área Natural Protegida Sierra de Lobos, deberá de sujetarse a las disposiciones jurídicas aplicables, y al Programa de Manejo que para tal efecto emita la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 100-C.
+
+En el polígono de protección de instalaciones penitenciarias o de seguridad nacional únicamente se podrán establecer los siguientes usos y destinos del suelo:
+
+I. Agrícola;
+
+II. Forestal; y,
+
+III. Equipamiento: El equipamiento a que se refieren los artículos 18 fracción X, 19 fracción IX inciso a) y 20 fracción X inciso e) del Manual Técnico de Usos del Suelo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO V. DE LAS AUTORIZACIONES EN MATERIA DE GESTIÓN URBANA PARA LA ZONIFICACIÓN, USOS Y DESTINOS DEL SUELO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES COMUNES
 
@@ -2113,9 +2293,13 @@ La Dirección podrá solicitar cuando así se requiera para la exacta identifica
 
 VI. Los dictámenes y autorizaciones de impacto que conforme al presente ordenamiento y al Manual Técnico de Usos del Suelo, correspondan al uso solicitado; y,
 
-> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-VII. Acreditar mediante escritura pública el acceso para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial, para el caso de los predios que no se encuentren dentro de la mancha urbana.
+VII. Acreditar mediante escritura pública el acceso de acuerdo a las secciones mínimas que establece el propio Código, para conectar una obra, construcción, instalación, fraccionamiento o desarrollo en condominio con la red de comunicación vial de algún centro de población, en los términos del Código Territorial, para el caso de los predios que no se encuentren dentro de la mancha urbana; y,
+
+> <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+VIII. Presentar el estudio de densidad y criterios bioclimáticos a que se refiere el artículo 63-A del presente Código, en caso de los usos de suelo de comercio y servicio con una superficie mayor de una hectárea y cuando se trate de usos de suelo por corredor que estén condicionados por patrimonio cultural.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2143,31 +2327,29 @@ Los requerimientos de estacionamiento para los giros mencionados en la Tabla rel
 
 El permiso de uso de suelo que ampara la actividad o giro a realizar dentro de un inmueble deberá estar a la vista del público y deberá mostrarse cuando así lo solicite cualquier autoridad competente, excepto en los inmuebles destinados a usos habitaciones (sic).
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 128-A.
 
-En las zonas (sic) preservación, sólo se autorizarán los usos del suelo de acuerdo a lo previsto en este Código, el POTE y demás disposiciones legales federales, estatales y municipales en la materia.
+En las zonas de preservación, sólo se autorizarán los usos y destinos del suelo de acuerdo a lo previsto en este Código, el POTE y demás disposiciones legales federales, estatales y municipales en la materia.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2015)</small>
 
 Así mismo los usos de suelo en los inmuebles ubicados dentro de la zona de patrimonio histórico y corredor turístico, además de lo establecido en el presente ordenamiento deberán apegarse a lo previsto en el Reglamento de la Imagen Urbana, así como al anexo 7 de este Código.
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
-
 ###### Artículo 128-B.
 
-En las zonas de reserva para el crecimiento (ZRC) y zonas de reserva para el crecimiento condicionada (ZRC-C) no se permitirá la industria de riesgo.
+(DEROGADO, P.O. 6 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE MAYO DE 2014)</small>
 
 #### SECCIÓN SÉPTIMA. DE LA ASIGNACIÓN DE USO DE SUELO
 
-> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 128-C.
 
-Si el inmueble sobre el cual se está solicitando el uso de suelo se encuentra dentro de una zona de reserva para el crecimiento (ZRC), una zona de reserva para el crecimiento condicionada (ZRC-C), o una zona de reserva agrícola (RA), la Dirección remitirá al IMPLAN en un plazo no mayor de diez días hábiles siguientes a la presentación de la solicitud respectiva, copia de las documentales requeridas para la obtención del permiso de uso de suelo, así como una constancia donde se señalen los alineamientos, modalidades, limitaciones y restricciones que presenta el inmueble con base en el POTE. Lo anterior a efecto de que el IMPLAN substancie el procedimiento de asignación de uso de suelo.
+Si el inmueble sobre el cual se está solicitando el uso de suelo se encuentra dentro de una zona de reserva para el crecimiento (ZRC), una Zona de Consolidación Urbana (ZCU), o una zona agrícola (A), el interesado ingresará al IMPLAN, copia de las documentales requeridas para la obtención del permiso de uso de suelo, así como una constancia donde se señalen los alineamientos, modalidades, limitaciones y restricciones que presenta el inmueble con base en el POTE y el anteproyecto arquitectónico. Lo anterior a efecto de que el IMPLAN substancie el procedimiento de asignación de uso de suelo.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2407,7 +2589,9 @@ Tratándose de inmuebles ejidales sobre los que se haya adquirido el dominio ple
 
 Para la autorización de la división de inmuebles ubicados en comunidades rurales que no se deriven de un fraccionamiento, se tendrá que considerar, en los lotes resultantes, la tipología de la comunidad rural, además de contar con un acceso independiente.
 
-Para la autorización de la división de inmuebles en zonas de reserva para el crecimiento (ZRC y ZRC-C) que no se deriven de un fraccionamiento se tendrá que considerar en los lotes la tipología que predomine en la zona, aun cuando no cumplan con las superficies mínimas establecidas en la tabla de compatibilidades.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+Para la autorización de la división de inmuebles en zonas de reserva para el crecimiento (ZRC y ZCU) que no se deriven de un fraccionamiento se tendrá que considerar en los lotes la tipología que predomine en la zona, aun cuando no cumplan con las superficies mínimas establecidas en la tabla de compatibilidades.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2518,6 +2702,12 @@ Cuando se trate de área de donación asignada como área verde, ésta deberá e
 Asimismo cuando el fraccionamiento se desarrolle en una superficie de hasta una hectárea, el área de donación será en una sola porción. Cuando la superficie en la que se lleve a cabo el fraccionamiento sea mayor a una hectárea, la Dirección determinará, las porciones en que el desarrollador entregará dicha área de donación.
 
 La Dirección podrá autorizar que las áreas de equipamiento urbano se ubiquen fuera del fraccionamiento, siempre y cuando en la zona en que éste se localice, se encuentre satisfecho ese requerimiento. En este caso, la superficie a recibir por parte del Municipio deberá ser equivalente al valor comercial incluyendo dotación de servicios y obras de urbanización del inmueble que, por dicho concepto, debería entregarle el desarrollador.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 149-A.
+
+Para los predios que de acuerdo al Plano de Zonificación se encuentren en Uso forestal de conservación (F4), la Dirección, conforme a lo establecido en los artículos 416 y 417 del Código Territorial determinará el porcentaje que podrá considerar como área verde, ello de acuerdo a las características del desarrollo y al proyecto de diseño urbano que presente el desarrollador.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -2833,11 +3023,11 @@ El desarrollador deberá plantar en el área del proyecto, un árbol por cada un
 
 La plantación de los árboles deberá efectuase (sic) con las especies, y conforme a los términos, condiciones y especificaciones establecidos en el Reglamento para la Gestión Ambiental en el Municipio de León, Guanajuato, así como en los programas y manuales que se expidan para tal efecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 171.
 
-Para la construcción de los fraccionamientos a que se refiere el Código Territorial, se aplicarán en lo conducente los parámetros establecidos en el título de zonificación y usos del suelo de este Código clasificándose los diferentes tipos de desarrollos conforme a su densidad, en los siguientes:
+Para la construcción de los fraccionamientos a que se refiere el Código Territorial, se aplicarán en lo conducente los parámetros establecidos en el Título de Zonificación, Usos y Destinos del Suelo de este Código clasificándose los diferentes tipos de desarrollos conforme a su densidad, en los siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -2891,13 +3081,15 @@ XII. Agropecuario; y,
 
 XIII. Comerciales.
 
-En los proyectos de diseño urbano de los fraccionamientos, se podrán prever diferentes tipos de uso considerando las disposiciones que establezca el Título de la Zonificación y usos del suelo de este Código, para la zona en que aquellos se ubiquen.
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+En los proyectos de diseño urbano de los fraccionamientos, se podrán prever diferentes tipos de uso considerando las disposiciones que establezca el Título de la Zonificación, Usos y Destinos del Suelo de este Código, para la zona en que aquellos se ubiquen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 172.
 
-En la construcción de los desarrollos en condominio a que se refiere el Código Territorial, se aplicarán en lo conducente los parámetros establecidos en el título de zonificación y usos del suelo del presente ordenamiento, clasificándose los diferentes tipos de desarrollos en condominio conforme a su densidad, en los siguientes:
+En la construcción de los desarrollos en condominio a que se refiere el Código Territorial, se aplicarán en lo conducente los parámetros establecidos en el Título de Zonificación, Usos y Destinos del Suelo del presente ordenamiento, clasificándose los diferentes tipos de desarrollos en condominio conforme a su densidad, en los siguientes:
 
 I. Habitacional: H1, H2, H3, H4, H5, H6;
 
@@ -2917,9 +3109,11 @@ En los desarrollos en condominio horizontal de uso habitacional, se estará aten
 
 Bajo esta modalidad no se podrá autorizar en zonas habitacionales cuyo uso sea para vivienda popular o de interés social.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 174.
 
-En los desarrollos mixtos deberán respetarse los parámetros de densidad a que se refieren los artículos anteriores, pero deberán ser compatibles en cuanto al uso y especificaciones técnicas establecidas en el Título de Zonificación y usos del suelo de este Código, según corresponda a cada tipo de desarrollo.
+En los desarrollos mixtos deberán respetarse los parámetros de densidad a que se refieren los artículos anteriores, pero deberán ser compatibles en cuanto al uso y especificaciones técnicas establecidas en el Título de Zonificación, Usos y Destinos del Suelo de este Código, según corresponda a cada tipo de desarrollo.
 
 ###### Artículo 175.
 
@@ -2946,6 +3140,22 @@ No se requerirá urbanizar vialidades fuera del proyecto a desarrollar, ni prese
 ###### Artículo 177.
 
 La aprobación que emitan las dependencias y entidades públicas con respecto a la factibilidad de servicios y su infraestructura, no constituye autorización alguna para la realización de un fraccionamiento o desarrollo en condominio.
+
+> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 177 -A.
+
+Las comunidades rurales son asentamientos ubicados fuera de la zona urbana, cuyos lotes se destinan a uso habitacional unifamiliar, dentro del fundo legal que se haya determinado para el asentamiento humano, en donde su economía se basa principalmente en actividades del sector primario. Su traza se desarrolla de acuerdo a la topografía del terreno y al crecimiento natural de la población, el tamaño de los predios es variable derivado a la tipología y características propias de la comunidad.
+
+Los usos compatibles en las comunidades rurales son los siguientes:
+
+I. Comercio y servicio de intensidad mínima y baja,
+
+II. Taller familiar;
+
+III. Industria de intensidad baja; y,
+
+IV. Equipamiento urbano vecinal y zonal.
 
 ### CAPÍTULO II. DE LOS FRACCIONAMIENTOS
 
@@ -3063,7 +3273,7 @@ Se consideran fraccionamientos habitacionales de tipo campestres, aquellos que s
 
 Este tipo de fraccionamientos deberán estar ubicados dentro de la zona de crecimiento de la ciudad, señalada en el POTE y sus lotes tendrán como mínimo un frente de 20 metros, con una superficie no menor de 800 metros cuadrados; y cumplir con las obras de urbanización señaladas en el presente ordenamiento.
 
-Los fraccionamientos campestres señalados en el POTE en la UGA 1, 2 y 4 sus lotes tendrán como mínimo una superficie de 2,500 metros cuadrados.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 Este tipo de fraccionamientos contarán además con lo siguiente:
 
@@ -3121,7 +3331,9 @@ Los fraccionamientos agropecuarios son aquellos que se ubican fuera de las área
 
 I. Las actividades predominantes para el uso y destino del suelo serán las agropecuarias además de la vivienda unifamiliar;
 
-II. Si se ubican en zona de reserva agrícola (RA) sus lotes tendrán como mínimo un frente de 50 metros y una superficie no menor de 5,000 metros cuadrados;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+II. Si se ubican en zona agrícola (A) sus lotes tendrán como mínimo un frente de 50 metros y una superficie no menor de 5,000 metros cuadrados;
 
 III. Los fraccionamientos que queden ubicados en área de reserva ecológica (RE) tendrán como mínimo un frente de 50 metros y una superficie no menor de 3,500 metros cuadrados;
 
@@ -3149,7 +3361,9 @@ Fraccionamientos Turístico, Recreativo-Deportivos: Aquellos que se destinarán 
 
 I. Áreas necesarias para el adecuado desplazamiento peatonal y vehicular que permitan el acceso a las instalaciones recreativas y a cada uno de los lotes del predio; y,
 
-II. La distribución de las calles internas será de conformidad con la MIV y, las áreas de estacionamiento, deberán cumplir con la norma de dotación especificada en el Título de Zonificación y usos del suelo de este ordenamiento.
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+II. La distribución de las calles internas será de conformidad con la MIV y, las áreas de estacionamiento, deberán cumplir con la norma de dotación especificada en el Título de Zonificación y usos y destinos del suelo de este ordenamiento.
 
 #### SECCIÓN SÉPTIMA. DE LOS FRACCIONAMIENTOS COMERCIALES
 
@@ -3223,11 +3437,11 @@ II. Condominio vertical: Es aquel en el que cada condómino es propietario exclu
 
 III. Condominio Mixto. Es aquel formado por condominios verticales y horizontales, que pueden estar constituidos en grupos de unidades de propiedad exclusiva como: Edificios, cuerpos, torres, manzanas, secciones o zonas.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 197.
 
-Los desarrollos en condominio, cualquiera que sea su tipo, conforme al número de viviendas, lotes, locales, departamentos o unidades que los integren, deberán contar con los espacios para área de estacionamiento requeridos para las unidades privativas, de conformidad con el título de zonificación y usos del suelo de este Código.
+Los desarrollos en condominio, cualquiera que sea su tipo, conforme al número de viviendas, lotes, locales, departamentos o unidades que los integren, deberán contar con los espacios para área de estacionamiento requeridos para las unidades privativas, de conformidad con el Título de Zonificación y Usos y Destinos del Suelo de este Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -3239,9 +3453,11 @@ Las áreas verdes deberán estar jardinadas y arboladas de conformidad con lo es
 
 El mobiliario urbano para estas áreas será propuesto por el desarrollador y aprobado por la Dirección General de Gestión Ambiental.
 
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 199.
 
-En los desarrollos en condominio habitacionales, no se podrán edificar un número de departamentos o viviendas que exceda la densidad de población establecida en el Título de Zonificación y usos del suelo del presente ordenamiento, de acuerdo a la zona de su ubicación, y al número de habitantes por vivienda conforme al Instituto Nacional de Estadística y Geografía - INEGI.
+En los desarrollos en condominio habitacionales, no se podrán edificar un número de departamentos o viviendas que exceda la densidad de población establecida en el Título de Zonificación y Usos y Destinos del Suelo del presente ordenamiento, de acuerdo a la zona de su ubicación, y al número de habitantes por vivienda conforme al Instituto Nacional de Estadística y Geografía INEGI.
 
 ###### Artículo 200.
 
@@ -3279,7 +3495,9 @@ Los desarrollos en condominio, además de las características señaladas en el 
 
 I. Las vialidades internas deberán tener el tipo de sección que determine la Dirección;
 
-II. Los desarrollos en condominio contarán con áreas de estacionamiento de acuerdo a la proporción establecida en el Título de Zonificación y usos del suelo de este Código;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+II. Los desarrollos en condominio contarán con áreas de estacionamiento de acuerdo a la proporción establecida en el Título de Zonificación y Usos y Destinos del Suelo de este Código;
 
 III. En los desarrollos en condominio para uso comercial, se deberán instalar servicios sanitarios públicos;
 
@@ -7169,7 +7387,9 @@ Para los requisitos, formalidades, seguimiento y culminación en la atención de
 
 Corresponde a la Dirección, vigilar el cumplimiento del presente Código en las materias siguientes:
 
-I. Zonificación y usos de suelo;
+> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2015)</small>
+
+I. Zonificación, usos y destinos de suelo;
 
 II. Fraccionamientos y Desarrollos en Condominio;
 
@@ -7257,13 +7477,15 @@ Para los efectos del artículo anterior, se considerarán medidas de seguridad, 
 
 Las medidas de seguridad son de inmediata ejecución, tienen carácter preventivo y se aplicarán de conformidad con el presente Código y el Código del Procedimiento Administrativo, ello sin perjuicio de las sanciones que en su caso correspondan.
 
-#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+#### SECCIÓN SEGUNDA. DE LAS MEDIDAS DE SEGURIDAD EN MATERIA DE ZONIFICACIÓN, USOS Y DESTINOS DEL SUELO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 537.
 
-La Dirección en materia de zonificación y usos del suelo podrá decretar las siguientes medidas de seguridad:
+La Dirección en materia de zonificación, usos y destinos del suelo podrá decretar las siguientes medidas de seguridad:
 
 I. Clausura temporal, total o parcial, de las instalaciones, de los predios y de los servicios;
 
@@ -7531,9 +7753,9 @@ La Dirección podrá imponer las medidas de seguridad previstas en el Código de
 
 ### CAPÍTULO VI. DE LAS INFRACCIONES Y SANCIONES
 
-#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN Y USOS DEL SUELO
+#### SECCIÓN SEGUNDA. DE LAS SANCIONES EN MATERIA DE ZONIFICACIÓN, USOS Y DESTINOS DEL SUELO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 555.
 
@@ -7559,13 +7781,15 @@ La imposición de cualquiera de las sanciones administrativas contenidas en este
 
 Para la aplicación, determinación, imposición y caducidad de las sanciones previstas en este Código, se estará a lo dispuesto por el Código del Procedimiento Administrativo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE OCTUBRE DE 2015)</small>
+
 #### SECCIÓN TERCERA. DE LAS SANCIONES EN MATERIA DE FRACCIONAMIENTOS Y DESARROLLOS EN CONDOMINIO
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
 
 ###### Artículo 561.
 
-La Dirección, en materia de zonificación y usos del suelo podrá imponer las siguientes sanciones:
+La Dirección, en materia de zonificación, usos y destinos del suelo podrá imponer las siguientes sanciones:
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2014)</small>
 
@@ -7633,7 +7857,7 @@ V. Cuando el interesado incumpla las condiciones impuestas en el permiso otorgad
 
 #### SECCIÓN CUARTA. DE LAS SANCIONES EN MATERIA DE CONSTRUCCIONES
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 6 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 567.
 
@@ -7947,15 +8171,15 @@ En contra de los actos y resoluciones de las autoridades competentes en la aplic
 
 ANEXOS
 
-> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146; P.O. 16 DE ENERO DE 2015, PÁGINA 94; P.O. 11 DE AGOSTO DE 2015, PÁGINAS DE LA 101 A LA 102.</small>
+> <small>N. DE E. VÉASE ANEXO 1: MANUAL TÉCNICO DE USOS DEL SUELO, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 163 A LA 194. REFORMAS EN EL P.O. 3 DE DICIEMBRE DE 2010, PÁGINAS 53 A LA 54; P.O. 24 DE DICIEMBRE DE 2010, PÁGINAS 21 A LA 22; P.O. 2 DE AGOSTO DE 2011, PÁGINAS 66 A LA 67; P.O. 16 DE SEPTIEMBRE DE 2011, PÁGINAS 26 A LA 27; P.O. 31 DE ENERO DE 2012, PÁGINAS 65 A LA 69; P.O. 13 DE JULIO DE 2012, PÁGINAS 52 A LA 54; P.O. 23 DE OCTUBRE DE 2012, PÁGINA 62; P.O. 25 DE ENERO DE 2013, PÁGINAS 71 A LA 73; P.O. 6 DE MAYO DE 2014, PÁGINAS 130 A LA 146; P.O. 16 DE ENERO DE 2015, PÁGINA 94; P.O. 11 DE AGOSTO DE 2015, PÁGINAS DE LA 101 A LA 102; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 140 A 144;</small>
 
-> <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201; P.O. 6 DE MAYO DE 2014, PÁGINAS 146 A LA 147.</small>
+> <small>N. DE E. VÉASE ANEXO 2: TABLA DE GIROS DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS CON ACTIVIDADES DE INTENSIDAD MÍNIMA, BAJA Y MEDIA, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 194 A LA 201; P.O. 6 DE MAYO DE 2014, PÁGINAS 146 A LA 147; P.O. 6 DE OCTUBRE DE 2015, PÁGINA 144;</small>
 
-> <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 52 A LA 53; P.O. 25 DE ENERO DE 2013, PÁGINA 74; P.O. 6 DE MAYO DE 2014, PÁGINAS 147 A LA 148.</small>
+> <small>N. DE E. VÉASE ANEXO 3: TABLA DE COMPATIBILIDADES, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 202. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 52 A LA 53; P.O. 25 DE ENERO DE 2013, PÁGINA 74; P.O. 6 DE MAYO DE 2014, PÁGINAS 147 A LA 148; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 144 Y 145;</small>
 
 > <small>N. DE E. VÉASE ANEXO 4: TABLA DE REQUERIMIENTO DE ESTACIONAMIENTOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 203 A LA 208; P.O. 31 DE ENERO DE 2012, PÁGINA 70; P.O. 6 DE MAYO DE 2014, PÁGINA 149; P.O. 16 DE ENERO DE 2015, PÁGINAS 94 A LA 95.</small>
 
-> <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 54 A LA 55; P.O. 25 DE ENERO DE 2013, PÁGINA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 149 A LA 150.</small>
+> <small>N. DE E. VÉASE ANEXO 5: TABLA DE NORMAS PARA LAS ZONAS Y TABLA DE NORMAS PARA USOS CONDICIONADOS, EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 208 A LA 209. REFORMAS EN EL P.O. 14 DE ENERO DE 2011, PÁGINAS 54 A LA 55; P.O. 25 DE ENERO DE 2013, PÁGINA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 149 A LA 150; P.O. 6 DE OCTUBRE DE 2015, PÁGINAS 145 Y 146;</small>
 
 > <small>N. DE E. VÉASE ANEXO 6: MANUAL TÉCNICO DE LAS CONSTRUCCIONES, CON ANEXOS I Y II EN EL P.O. 6 DE AGOSTO DE 2010, PÁGINAS 209 A LA 228; P.O. 12 DE ABRIL DE 2011, PÁGINAS 34 A LA 35; P.O. 31 DE ENERO DE 2012, PÁGINAS 70 A LA 75; P.O. 6 DE MAYO DE 2014, PÁGINAS 151 A LA 155.</small>
 
@@ -8198,5 +8422,9 @@ Segundo. Todos aquellos comercios que se encuentren instalados en el corredor tu
 Tercero. Se deroga el acuerdo del H. Ayuntamiento de fecha 10 de junio de 2014 mediante el cual se aprueba la restricción de usos de suelo en la zona centro de este Municipio.
 
 P.O. 11 DE AGOSTO DE 2015.
+
+Artículo único. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 6 DE OCTUBRE DE 2015.
 
 Artículo único. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
