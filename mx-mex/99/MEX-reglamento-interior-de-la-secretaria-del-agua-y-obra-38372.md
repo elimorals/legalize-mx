@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-del-agua-y-obra-38372"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-16"
-last_updated: "2008-05-16"
+last_updated: "2015-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA -ANTES AGUA, OBRA PUBLICA E INFRAESTRUCTURA PARA EL DESARROLLO-
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL AGUA Y OBRA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN GACETA DEL GOBIERNO: 16 DE MAYO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, PUBLICADO EN LA G.G. DE 7 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el martes 16 de marzo de 2004.
 
@@ -33,7 +35,7 @@ C O N S I D E R A N D O.
 
 En mérito de lo anterior, he tenido a bien expedir el siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE MAYO DE 2008)</small>
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DEL AGUA Y OBRA PUBLICA
 
@@ -151,7 +153,7 @@ XXIV. Las demás que le confieren otras disposiciones legales y el titular del P
 
 ### CAPITULO III. DE LAS ATRIBUCIONES DEL SUBSECRETARIO Y DE LA ADSCRIPCION DE LAS DIRECCIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE MAYO DE 2008)</small>
 
 ###### Artículo 7.
 
@@ -185,7 +187,7 @@ XII. Desempeñar las comisiones que el Secretario le encomiende, e informarle re
 
 XIII. Las demás que le confieran otras disposiciones legales y el Secretario.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE MAYO DE 2008)</small>
 
 ###### Artículo 8.
 
@@ -245,11 +247,11 @@ XIV. Expedir constancias o certificar copias de los documentos existentes en sus
 
 XV. Las demás que les encomienden otros ordenamientos legales y las que les señalen el Secretario y el Subsecretario.
 
-> <small>(REFORMADA SU DENOMINACION, G.G. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE MAYO DE 2008)</small>
 
 ### CAPITULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES GENERALES, COORDINACIONES Y CONTRALORIA INTERNA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 16 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE MAYO DE 2008)</small>
 
 ###### Artículo 11.
 
@@ -555,7 +557,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
 
 G.G. 16 DE MAYO DE 2008.
 
@@ -566,3 +568,15 @@ SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en
 TERCERO.- A partir de la entrada en vigor del presente Acuerdo, cuando en otros ordenamientos legales y administrativos, papelería y demás documentos se haga referencia a la Subsecretaría del ramo y a la Dirección General de Programación, Control y Normatividad de Obra Pública, se entenderá a la Subsecretaría del Agua y Obra Pública y a la Dirección General de Administración de Obra Pública, respectivamente.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las contenidas en el presente Acuerdo.
+
+G.G. 7 DE OCTUBRE DE 2015.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría de Comunicaciones publicado en el Periódico Oficial "Gaceta del Gobierno" el 29 de noviembre de 2004.
+
+CUARTO. Se abroga el Reglamento Interior de la Secretaría del Agua y Obra Pública publicado en el Periódico Oficial "Gaceta del Gobierno" el 16 de marzo de 2004.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
