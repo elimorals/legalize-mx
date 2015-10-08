@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-publico-de-la-propiedad-y-del-catastro-101426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-05"
-last_updated: "2015-09-08"
+last_updated: "2015-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL CATASTRO PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE SEPTIEMBRE DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NO. 1171 PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 05 de junio de 2014.
 
@@ -729,7 +727,13 @@ II. Validar y aprobar las normas técnicas y administrativas aplicables a la eje
 
 III. Proponer al Congreso del Estado a más tardar el quince de octubre de cada año, los proyectos de las tablas de valores unitarios de suelo y construcción.
 
-En caso de no presentarlos en los términos referidos en el párrafo anterior, el Congreso autorizará como tales, los valores unitarios de suelo y construcción que hayan regido durante el año inmediato anterior;
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2015)</small>
+
+En caso de no presentarlos en los términos referidos en el párrafo anterior, el Congreso autorizará como tales, los valores unitarios de suelo y construcción que hayan regido durante el año inmediato anterior.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2015)</small>
+
+Empero, cuando inicie la gestión de los ayuntamientos, los proyectos de valores unitarios de suelo y construcción se entregarán a más tardar el treinta y uno de octubre del año que corresponda;
 
 IV. Suscribir acuerdos de coordinación con otros ayuntamientos y con el Instituto;
 
@@ -1750,3 +1754,9 @@ P.O. 5 DE SEPTIEMBRE DE 2015.
 PRIMERO. Este Decreto entrará en vigor seis meses después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
