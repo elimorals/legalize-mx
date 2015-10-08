@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-sobre-la-renta-34243"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-17"
-last_updated: "2006-12-04"
+last_updated: "2015-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34243&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2003-10-13"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA, PUBLICADO EN EL D.O.F. DE 8 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de octubre de 2003.
 
@@ -97,7 +99,7 @@ Para que los residentes en México, que perciban ingresos por dividendos proveni
 
 Se calculará hasta el diezmilésimo el coeficiente de utilidad a que se refiere la fracción I del artículo 14 de la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 10.
 
@@ -663,7 +665,7 @@ Las inversiones a que se refiere la fracción III del artículo 42 de la Ley, s�
 
 Una vez otorgada la autorización, para efectuar la deducción en ejercicios posteriores, el contribuyente deberá conservar por cada ejercicio de que se trate, la documentación señalada en el artículo 52 de este Reglamento, durante el plazo a que se refiere el artículo 30 del Código Fiscal de la Federación.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 #### SECCIÓN III. Del Costo de lo Vendido
 
@@ -1255,7 +1257,7 @@ Para los efectos del artículo 108 de la Ley, tratándose de ingresos que derive
 
 Para los efectos del párrafo anterior, cada contribuyente podrá deducir la parte proporcional de las deducciones relativas al periodo por el que se presenta la declaración.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 124.
 
@@ -1993,7 +1995,7 @@ V. La fecha en que, en su caso hubiera efectuado la reactivación fiscal de la m
 
 VI. Nombre de los técnicos responsables de cada centro de servicio, así como las altas y bajas registradas.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 #### SECCIÓN III. Del Régimen de Pequeños Contribuyentes
 
@@ -2469,7 +2471,7 @@ Tratándose de los intereses provenientes de los depósitos, créditos o présta
 
 Para que de conformidad con el artículo 163 de la Ley, no se efectúe la retención del impuesto a que se refiere el penúltimo párrafo de dicho precepto, las personas morales que tributen en los términos del Título II de la Ley estarán obligadas a exhibir copia sellada o copia del acuse de recibo electrónico con sello digital de la última declaración del ejercicio presentada para el pago del impuesto. Tratándose del primer ejercicio o de personas morales con fines no lucrativos a que se refiere el artículo 102 de la Ley, deberá presentarse copia de la solicitud de inscripción en el Registro Federal de Contribuyentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 217.
 
@@ -2749,7 +2751,7 @@ Para los efectos del penúltimo párrafo de artículo 178 de la Ley, se consider
 
 Los residentes en el extranjero que liquiden en especie una operación financiera derivada, entregando los bienes o títulos a que estaba referida la operación a un residente en México, o a un residente en el extranjero con establecimiento permanente en México, causarán impuesto por el ingreso que obtengan por la enajenación de dichos bienes o títulos, conforme a lo establecido en el Título V de la Ley. Si tal operación se liquida en efectivo, el residente en el extranjero será sujeto de retención del impuesto por el monto en que la prima actualizada a la fecha de liquidación de la operación supere a la cantidad que el residente en el extranjero pague para liquidarla. En el caso que no exista tal pago, se entiende que la retención deberá de calcularse sobre la totalidad de la prima actualizada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 248.
 
@@ -2847,7 +2849,7 @@ Para los efectos de lo dispuesto por el artículo 5o. y séptimo párrafo del ar
 
 Para los efectos de la opción prevista en el sexto párrafo del artículo 190 de la Ley, la fecha de designación del representante en el país que reúna los requisitos establecidos en el artículo 208 de la Ley, deberá realizarse a más tardar en la fecha en que se presente o deba presentarse la declaración correspondiente al impuesto causado con motivo de la enajenación de acciones efectuada por el residente en el extranjero.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 260.
 
@@ -2867,7 +2869,7 @@ Para los efectos del artículo 190 de la Ley, en los casos de reestructuraciones
 
 Para los efectos de la emisión de la autorización de diferimiento del impuesto generado con motivo de una reestructuración, los contribuyentes deberán presentar un dictamen formulado por contador público registrado ante las autoridades fiscales en los términos previstos en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 262.
 
@@ -2881,7 +2883,7 @@ III. Los certificados de residencia de las sociedades enajenantes y adquirentes 
 
 IV. Declaratoria del representante legal de la sociedad emisora de las acciones objeto de la autorización a que se refiere dicho artículo en el que asuma la obligación de informar, a la autoridad fiscal, de cualquier cambio en su libro de accionistas, obligación que deberá cumplirse dentro de los treinta días siguientes a la fecha de inscripción de dicho cambio, siempre que éste se efectúe dentro de un plazo de doce meses siguientes a la fecha de la autorización para diferir el impuesto, en los términos del citado artículo, y, en caso de no haberlo, así señalarlo, bajo protesta de decir verdad, dentro del citado término de doce meses.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 263.
 
@@ -2949,7 +2951,7 @@ Para los efectos del último párrafo del artículo 190 de la Ley, el residente 
 
 En los casos de reorganización o reestructura, así como de fusión, escisión u operación similar que sean parte de dichas reestructuraciones o reorganizaciones, se deberá anexar al citado aviso, la documentación a la que se refieren las fracciones I, II y III del artículo 262 de este Reglamento. Tratándose de fusiones o escisiones u operaciones similares que no impliquen una reestructuración o reorganización, únicamente se deberá anexar la documentación a que se refiere la fracción III del artículo citado.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ## TÍTULO VI. De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales
 
@@ -2981,7 +2983,7 @@ Para los efectos del párrafo décimo quinto del artículo 213 de la Ley, los co
 
 (DEROGADO, D.O.F. 4 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 274.
 
@@ -2991,7 +2993,7 @@ I. Únicamente se podrán considerar como conceptos deducibles, los donativos ot
 
 II. Las deducciones deberán soportarse con documentación comprobatoria que contenga la información a que se refieren las fracciones I, III, IV, V y VI del artículo 29-A del Código Fiscal de la Federación, incluyendo la clave del Registro Federal de Contribuyentes o número de identificación fiscal, cuando se cuente con él.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2006)</small>
 
 III. Que los pagos que se pretendan deducir incluyan la clave del Registro Federal de Contribuyentes o el número de identificación fiscal de la persona beneficiaria del pago, cuando esté obligada a contar con dicho registro o número.
 
@@ -3273,7 +3275,7 @@ DÉCIMO PRIMERO. Para los efectos del artículo 277 de este Reglamento, las empr
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de octubre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 4 DE DICIEMBRE DE 2006.
 
@@ -3302,3 +3304,39 @@ I. Considerarán como ingresos por adquisición de bienes, la diferencia que res
 II. Considerarán como ingresos por salarios o por la prestación de un servicio personal subordinado, conforme se establece en los artículos 110, fracción VII y 110-A, de la Ley del Impuesto sobre la Renta, la diferencia que resulte de restar al valor de mercado de las acciones o títulos valor sujetos a la opción, al momento en el que los contribuyentes ejerzan la misma, el valor de mercado que dichas acciones o títulos tengan al 31 de diciembre de 2004.
 
 Los contribuyentes a los que se refiere este transitorio podrán considerar como ingresos por salarios o por la prestación de un servicio personal subordinado, la diferencia que resulte de restar al valor de mercado al 31 de diciembre de 2004 de las acciones o títulos valor a los que esté referida la opción, el precio de compra de dichas acciones o títulos establecido en la opción que se les otorgó, siempre que el valor de mercado de las acciones o títulos valor a los que se encuentre referida la opción, no hayan tenido una variación superior al 10% durante el periodo comprendido desde la fecha en la que se otorgó dicha opción y hasta el 31 de diciembre de 2004.
+
+D.O.F. 8 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Ley del Impuesto sobre la Renta, publicado el 17 de octubre de 2003 en el Diario Oficial de la Federación y se derogan en lo que se opongan a este Reglamento las disposiciones de carácter administrativo, reglas, consultas e interpretaciones de carácter general contenidas en circulares o publicadas en el Diario Oficial de la Federación en materia del Impuesto Sobre la Renta.
+
+TERCERO. Para efectos de lo dispuesto en el artículo 28, fracción XXII de la Ley del Impuesto sobre la Renta, tratándose de operaciones de comercio exterior en las que participen como mandatarios o consignatarios los apoderados aduanales, en términos del Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Aduanera, publicado el 9 de diciembre de 2013 en el Diario Oficial de la Federación, se podrán deducir para efectos del Impuesto los gastos amparados con comprobantes fiscales expedidos por los prestadores de servicios relacionados con estas operaciones a nombre del importador, aun cuando la erogación hubiere sido efectuada por conducto del propio apoderado aduanal.
+
+CUARTO. Para efectos de lo previsto en el Artículo Noveno, fracción X del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado; de la Ley del Impuesto Especial sobre Producción y Servicios; de la Ley Federal de Derechos, se expide la Ley del Impuesto sobre la Renta, y se abrogan la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo publicado el 11 de diciembre de 2013 en el Diario Oficial de la Federación, se seguirán aplicando en lo conducente, los artículos 86, 150, 154, 155, fracción II y 162, fracción II del Reglamento de la Ley del Impuesto sobre la Renta que se abroga.
+
+QUINTO. Para efectos del artículo 126, párrafo cuarto de la Ley del Impuesto sobre la Renta, el análisis del costo promedio por acción, a que se refiere el inciso c) de la fracción II del artículo 215 de este Reglamento, deberá contener, en su caso, la determinación del saldo de la cuenta de utilidad fiscal neta reinvertida a la fecha de adquisición y de enajenación de las acciones, en la proporción que corresponda al enajenante por las acciones adquiridas en la misma fecha, con base en las constancias que deben emitir las sociedades emisoras de las acciones, así como, la determinación de la diferencia de los saldos de la cuenta de utilidad fiscal neta reinvertida a la fecha de adquisición y de enajenación y los factores de actualización aplicados.
+
+SEXTO. Las empresas maquiladoras que optaron por aplicar lo dispuesto en el artículo 277 del Reglamento que se abroga, deberán a partir de 2014, continuar adicionando cada año al Impuesto del ejercicio causado correspondiente a su utilidad fiscal, la cantidad pendiente por adicionar en los términos y condiciones de las fracciones II y III, según se trate, de dicho artículo.
+
+Para efectos de este artículo, las referencias que se hagan en las fracciones mencionadas al artículo 216 Bis de la Ley del Impuesto sobre la Renta vigente hasta 2013, se entenderán realizadas al artículo 182 de la Ley del Impuesto sobre la Renta vigente a partir de 2014.
+
+Las empresas maquiladoras deberán aplicar lo dispuesto en el artículo 277, párrafos antepenúltimo, penúltimo y último del Reglamento de la Ley del Impuesto sobre la Renta que se abroga.
+
+SÉPTIMO. Para fines del artículo 291, párrafo segundo de este Reglamento, los establecimientos permanentes de personas morales extranjeras a la oficina central de la sociedad o a otro establecimiento de ésta en el extranjero que con anterioridad a la entrada en vigor de la Ley del Impuesto sobre la Renta, hubieren optado por efectuar la deducción inmediata de bienes nuevos de activo fijo, conforme al Título VII, Capítulo II de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 2013, podrán disminuir de la cuenta de remesas la cantidad que resulte en términos del artículo 221, fracción III de dicha Ley abrogada, según sea el caso.
+
+OCTAVO. Para efectos del Artículo Segundo, fracción XLV del Decreto por el que se expide la Ley del Impuesto sobre la Renta, publicado el 1 de enero de 2002 en el Diario Oficial de la Federación, los artículos 22 y 23 de la Ley vigente a partir de 2014 y del Artículo Segundo, fracción I de las Disposiciones Transitorias de 2003, los contribuyentes del Impuesto que optaron por diferir parte de dicho gravamen conforme a lo dispuesto en el artículo 10 de la Ley vigente hasta el 31 de diciembre de 2001, podrán actualizar el saldo de la cuenta de utilidad fiscal neta reinvertida, que se determine aplicando el siguiente procedimiento:
+
+I. Determinarán las utilidades fiscales netas reinvertidas correspondientes a los ejercicios comprendidos desde el 1 de enero de 1999 o bien, desde el ejercicio de inicio de operaciones cuando éste haya ocurrido después del año citado, y hasta el 31 de diciembre de 2001, conforme a las disposiciones de la Ley vigente en el mismo ejercicio. A la utilidad fiscal neta reinvertida determinada en el ejercicio de que se trate, se le restará el importe de los dividendos o utilidades distribuidos durante dicho ejercicio, conforme a lo dispuesto por la Ley vigente en el ejercicio de que se trate, cuando dichos dividendos provengan del saldo de dicha cuenta;
+
+II. El saldo de la cuenta al último día de cada ejercicio, determinado conforme a la fracción anterior, sin incluir la utilidad fiscal neta reinvertida del ejercicio de que se trate, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el último mes del ejercicio de que se trate. Cuando se hayan distribuido dividendos o utilidades con posterioridad a la actualización prevista en este párrafo, el saldo de la cuenta que se tenga a la fecha de la distribución, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el mes en el que se hayan distribuido dichos dividendos o utilidades. El saldo determinado se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el 31 de diciembre de 2001, y
+
+III. Cuando la suma del Impuesto pagado en el ejercicio de que se trate, en términos de la Ley vigente en el mismo ejercicio, más las partidas no deducibles para efectos del Impuesto y, en su caso, la participación de los trabajadores en las utilidades de las empresas, correspondientes al ejercicio citado, sean mayores que el resultado fiscal de dicho ejercicio, la diferencia se restará del saldo de la cuenta de utilidad fiscal neta reinvertida actualizada conforme a la fracción anterior, que se tenga al 31 de diciembre de 2001. Para estos efectos la diferencia que se determine se actualizará por el periodo comprendido desde el último mes del ejercicio en el que se determinó y hasta el 31 de diciembre de 2001.
+
+El saldo de la cuenta de utilidad fiscal neta reinvertida que se tenga al 31 de diciembre de 2001, disminuido de la diferencia que, en su caso, se determine conforme al párrafo anterior, se actualizará por el periodo comprendido desde dicho mes y hasta el 31 de diciembre de 2002.
+
+Dicho saldo se disminuirá con el monto de los dividendos o utilidades, actualizados, que se hayan distribuido durante el ejercicio de 2002. Los dividendos o utilidades se actualizarán desde el mes en el que se distribuyeron y hasta el 31 de diciembre de 2002.
+
+El saldo de la cuenta de utilidad fiscal neta reinvertida que se tenga al 31 de diciembre de 2002 determinado conforme a este artículo, se actualizará por el periodo comprendido desde el mes en el que se efectuó la última actualización y hasta el mes en el que se disminuya dicha cuenta por la distribución de dividendos o utilidades provenientes de la misma, que efectúen los contribuyentes a partir de 2003.
+
+NOVENO. Las referencias que en la Ley del Impuesto sobre la Renta se hagan a la Ley de Sociedades de Inversión, a las sociedades de inversión, a las sociedades operadoras de sociedades de inversión, a las sociedades distribuidoras de acciones de sociedades de inversión y a las sociedades valuadoras de acciones de sociedades de inversión se entenderán realizadas a la Ley de Fondos de Inversión, a los fondos de inversión, a las sociedades operadoras de fondos de inversión, a las sociedades distribuidoras de acciones de fondos de inversión, y a las sociedades valuadoras de acciones de fondos de inversión, respectivamente, conforme al artículo Trigésimo Octavo, fracción X del Decreto por el que se reforman, adicionan y derogan diversas disposiciones en materia financiera y se expide la Ley para Regular las Agrupaciones Financieras, publicado el 10 de enero de 2014 en el Diario Oficial de la Federación.
