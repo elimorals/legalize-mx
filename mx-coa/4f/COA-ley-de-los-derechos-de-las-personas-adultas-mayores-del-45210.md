@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2014-12-23"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -148,6 +148,10 @@ Los integrantes de grupos u organizaciones sociales y privadas tienen la obligac
 Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su edad, género, Estado físico, creencia religiosa o condición social, entre otras circunstancias.
 
 La Comisión Estatal de los Derechos Humanos, en el ámbito de su competencia, promoverá y difundirá la cultura de respeto a los derechos de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+Artículo 8 bis.- Todas las instituciones de orden público y privado del Estado, procuraran que sus instalaciones existan las condiciones de infraestructura necesarias para el fácil acceso de los adultos mayores, otorgándoles por lo menos sillas de espera, y una fila preferencial para que se les dé a los Adultos Mayores un trato digno, especial y primordial al momento de realizar un trámite personal.
 
 ### CAPÍTULO SEGUNDO. LOS PRINCIPIOS, DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
@@ -1256,3 +1260,13 @@ P.O. 29 DE JULIO DE 2014.
 P.O. 23 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Así mismo comuníquese lo anterior al Ejecutivo del Estado para los efectos procedentes.
