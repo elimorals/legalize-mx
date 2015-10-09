@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-para-la-proteccion-al-ahorro-87401"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-24"
-last_updated: "2012-04-24"
+last_updated: "2015-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87401&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-04-19"
 
 REGLAMENTO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL INSTITUTO PARA LA PROTECCIÓN AL AHORRO BANCARIO EN MATERIA DE REQUERIMIENTOS DE INFORMACIÓN, VISITAS DE INSPECCIÓN E IMPOSICIÓN DE SANCIONES, PUBLICADO EN EL D.O.F. DE 9 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 24 de abril de 2012.
 
@@ -262,3 +264,17 @@ SEXTO.- El personal, expedientes en trámite, archivo, mobiliario y, en general,
 En los movimientos de personal que se realicen con motivo de lo anterior, se respetarán los derechos laborales, en términos de las disposiciones legales aplicables.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a diecinueve de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto para la Protección al Ahorro Bancario, publicado el 24 de abril de 2012 en el Diario Oficial de la Federación.
+
+TERCERO.- El Instituto para la Protección al Ahorro Bancario realizará las acciones necesarias para que la implementación del presente Reglamento, se realice con los recursos aprobados a dicho organismo público descentralizado, mediante movimientos compensados para el ejercicio fiscal que corresponda, por lo que no requerirá recursos adicionales para tales efectos y no incrementará su presupuesto regularizable.
+
+CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en lineamientos, acuerdos, reglas y demás disposiciones administrativas a las unidades administrativas del Instituto para la Protección al Ahorro Bancario que cambian de denominación o ajustan sus atribuciones, por virtud de la expedición del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que asuman dichas atribuciones conforme a lo establecido en este ordenamiento. Sin perjuicio de lo anterior, los lineamientos, acuerdos, reglas y demás disposiciones administrativas expedidas por el Instituto para la Protección al Ahorro Bancario deberán ajustarse, en lo conducente, a lo dispuesto en el presente Reglamento.
+
+QUINTO.- Los asuntos relacionados con las facultades para imponer las sanciones previstas en la Ley de Instituciones de Crédito, y en el Título Quinto de la Ley de Protección al Ahorro Bancario, así como para requerir información a las Instituciones y a los terceros especializados, que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor del presente Reglamento y que, conforme a éste, deban ser atendidos por una unidad administrativa diversa a la que haya correspondido su atención conforme a las disposiciones abrogadas, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este Reglamento.
