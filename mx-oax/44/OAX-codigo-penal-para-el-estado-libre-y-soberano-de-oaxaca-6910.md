@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2015-08-31"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
 
@@ -3331,7 +3331,7 @@ El Juez de la causa podrá interrumpir la prescripción del delito a petición d
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2012)</small>
 
-134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la víctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
+134.- Los reos de homicidio intencional, feminicidio, lesiones o violencia graves, a quienes se hubiere impuesto la prohibición de ir a determinado lugar, y cuya sanción corporal haya prescrito, no podrán residir en el mismo lugar que la vÍctima u ofendido o sus descendientes, ascendientes, cónyuge o hermanos, sino transcurrido después de consumada la prescripción, un tiempo igual al que debiera durar la sanción.
 
 135.- (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
@@ -4693,19 +4693,39 @@ Se impondrán de 70 a 105 años de prisión, cuando el sujeto pasivo haya sido s
 
 Cuando el sujeto pasivo fuera prestador del servicio público de transporte en cualquiera de sus modalidades y el homicida utilice los instrumentos de trabajo, medios o circunstancias propias de la prestación del servicio para cometer el delito, se impondrá de 40 a 50 años de prisión y cuando este sea el sujeto activo la pena se aumentara un tercio de la pena mínima.
 
-292.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2015)</small>
+
+292.- Al que prive de la vida a otro, por la petición expresa, libre, reiterada, seria e inequívoca de éste, siempre que medien razones humanitarias y la víctima padeciere una enfermedad no curable o en situación terminal, se le impondrá prisión de cuatro a doce años.
+
+Los supuestos previstos en el párrafo anterior no integran los elementos del cuerpo del delito de homicidio, así como tampoco las conductas realizadas por el personal de salud correspondiente, para los efectos del cumplimiento de las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca.
+
+Tampoco integran los elementos del cuerpo del delito previsto en el párrafo primero del presente artículo, las conductas realizadas conforme a las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca, suscritas y realizadas por el solicitante o representante, en el documento de voluntad anticipada para los efectos legales a que haya lugar
 
 ### CAPITULO IV.
 
 Reglas comunes para lesiones y homicidio.
 
-293.- (DEROGADO, P.O. 18 DE MARZO DE 2006)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2015)</small>
 
-294.- Se impondrán de tres días a tres años de prisión al ascendiente que mate o lesione al corruptor de su hija o de su nieta que estén bajo de su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él; pero si lo hiciere después, sufrirá de cuatro a seis años de prisión, no mediando alevosía, ventaja o traición, en cuyo caso se le impondrá la pena correspondiente.
+293.- Se impondrán de tres días a tres años de prisión al ascendiente que mate o lesione al corruptor de su hija o de su nieta que estén bajo de su potestad, si lo hiciere en el momento de hallarlos en el acto carnal o en uno próximo a él; pero si lo hiciere después, sufrirá de cuatro a seis años de prisión, no mediando alevosía, ventaja o traición, en cuyo caso se le impondrá la pena correspondiente
 
-295.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2015)</small>
 
-296.- Al que prestare auxilio o indujere a otro para que se suicide, se le aplicará prisión de uno a cinco años; si se lo prestare hasta el punto de ejecutar él mismo la muerte, la prisión será de cuatro a doce años. Si el occiso o suicida fuera menor de edad o padeciera alguna de las formas de enajenación mental, se aplicarán al homicida o instigador las penas señaladas al homicidio calificado o a las lesiones calificadas.
+294.- Al que ayude a otro para que se prive de la vida, se le impondrá prisión de uno a cinco años, si el suicidio se consuma. Si el agente prestare el auxilio hasta el punto de ejecutar él mismo la muerte, la pena aplicable será de cuatro a doce años de prisión.
+
+Al que induzca a otro para que se prive de la vida, se le impondrá prisión de tres a ocho años, si el suicidio se consuma
+
+Si el suicidio no se consuma, por causas ajenas a la voluntad del que induce o ayuda, pero si se causan lesiones, se impondrá las dos terceras partes de la pena anterior, sin que exceda de la pena que corresponda a las lesiones de que se trate. Si no se causan éstas, la pena será de una cuarta parte de las señaladas en este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2015)</small>
+
+295.- Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o determinarse de acuerdo con esa comprensión, se impondrán al homicida o inductor las sanciones señaladas al homicidio calificado o a las lesiones calificadas.
+
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+296.- En los supuestos previstos en los dos artículos anteriores no integran los elementos del cuerpo del delito de ayuda o inducción al suicidio, las conductas realizadas por el personal de salud correspondiente para los efectos del cumplimiento de las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca.
+
+Tampoco integran los elementos del cuerpo del delito previstos en el párrafo anterior, las conductas realizadas conforme a las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca, suscritas y realizadas por el solicitante o representante, en el documento de voluntad anticipada para los efectos legales a que haya lugar
 
 297.- Por riña se entiende, para todos los efectos penales: la contienda de obra y no de palabra, entre dos o más personas.
 
@@ -4822,6 +4842,12 @@ Se equipara al abandono cuando el deudor alimentista simule o abandone su centro
 322.- Al que encuentre abandono o perdido en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera, y no diera aviso inmediato a la autoridad u omitiera prestarle el auxilio necesario, cuando pudiera hacerlo sin riesgo personal, se le aplicarán de uno a dos meses de prisión y multa de cien a quinientos pesos.
 
 323.- El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que deje en estado de abandono, sin prestar o facilitar asistencia a la persona a quien atropelló, por culpa o accidente, se le aplicará prisión de tres meses a dos años, y multa de cien a mil pesos, sin perjuicio de las penas que correspondan si resulta cometido otro delito.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+323 BIS.- En los supuestos previstos en el artículo 317; y 322, primer párrafo, no integran los elementos del cuerpo del delito de omisión de auxilio o de cuidado, las conductas señaladas por el personal de salud para los efectos del cumplimiento de las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca.
+
+Tampoco integran los elementos del cuerpo del delito previstos en el párrafo anterior, las conductas realizadas conforme a las disposiciones establecidas en la Ley de los Cuidados Paliativos para los Enfermos no Curables o en Situación Terminal del Estado de Oaxaca y la Ley de Voluntad Anticipada para el Estado de Oaxaca, suscritas y realizadas por el solicitante o representante, en el documento de voluntad anticipada para los efectos legales a que haya lugar.
 
 324.- Al que exponga en una casa de expósitos a un niño menor de siete años que se le hubiere confiado o lo entregue en otro establecimiento de beneficencia o a cualquiera persona, sin anuencia de la que se lo confió o de la autoridad en su defecto, se le aplicarán de un mes a un año de prisión y multa de cien a mil pesos.
 
@@ -6254,6 +6280,12 @@ P.O. 19 DE MAYO DE 2015.
 P.O. 31 DE AGOSTO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Remítase para su publicación correspondiente en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ###### Artículo 10.
 
