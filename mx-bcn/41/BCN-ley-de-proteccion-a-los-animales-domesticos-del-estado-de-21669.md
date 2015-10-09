@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2015-06-12"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -171,9 +171,9 @@ Toda persona física o moral que dedique sus actividades a la cría de animales,
 
 Las actividades de cría de animales deberán desarrollarse en instalaciones o predios, cuyo suelo no esté destinado para casa-habitación, industria, comercio o actividades similares.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO IV. DE LOS ANIMALES PARA EXHIBICION O ESPECTACULOS
+### CAPÍTULO IV. DEL TRATO DIGNO Y RESPETUOSO DE LOS ANIMALES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -195,11 +195,15 @@ Será obligación de los responsables de animales que se encuentren en exhibici�
 
 Los dueños o responsables de los espectáculos circenses que infrinjan el presente ordenamiento, serán sancionados en los términos del reglamento respectivo y sin perjuicio de lo que impongan las leyes aplicables en esta materia.
 
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 20.
 
-Queda prohibido ofrecer a los animales que permanezcan en cautiverio en circos, ferias y jardines zoológicos, cualquier clase de alimento u objetos cuya ingestión o presencia pueda causarles daños o enfermedades.
+Las condiciones de cautiverio, exhibición, transporte, alimentación, explotación, entrenamiento, manutención y sacrificio de los animales, así como la vigilancia de su cumplimiento, se ajustaran a lo establecido por la normas oficiales mexicanas expedidas por el Gobierno Federal, en las cuales se determinan los principios básicos de trato digno a los animales.
 
-Asimismo, estos centros deberán mantener a los animales en locales con una extensión de espacio tal, que les permita libertad y amplitud de movimientos, y durante su traslado; no podrán ser inmovilizados en una posición que les ocasione lesiones o sufrimientos. En todo momento o circunstancia, se observarán condiciones razonables de higiene y seguridad pública.
+Hasta en tanto se emitan por parte del Gobierno Federal las normas oficiales a que se refiere el párrafo anterior, se seguirán aplicando en lo conducente los principios que se prevén en la presente Ley y demás disposiciones que resulten aplicables.
+
+El Gobierno del Estado y los Municipios en el ámbito de sus respectivas competencias regularan el trato digno y respetuoso que deberá darse a los animales.
 
 ### CAPITULO V. INVESTIGACION CIENTIFICA CON ANIMALES
 
@@ -543,7 +547,7 @@ DIPUTADO SECRETARIO
 
 DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA Y PUBLIQUE.
 
-MEXICALI, BAJA CALIFORNIA, A LOS VEINTICINCO DIAL DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA YSIETE.
+MEXICALI, BAJA CALIFORNIA, A LOS VEINTICINCO DIAL DEL MES DE NOVIEMBRE DE MIL NOVECIENTOS NOVENTA Y SIETE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
@@ -590,5 +594,9 @@ SEGUNDO.- Los Municipios del Estado, a través de sus Ayuntamientos, emitirán l
 P.O. 12 DE JUNIO DE 2015.
 
 DECRETO NÚMERO 254, POR EL QUE SE APRUEBA LA REFORMA A LOS ARTÍCULOS 1 Y 48 DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE OCTUBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
