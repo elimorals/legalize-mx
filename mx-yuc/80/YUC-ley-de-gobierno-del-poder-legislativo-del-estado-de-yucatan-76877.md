@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2015-02-20"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -561,9 +561,17 @@ e) Solicitudes ciudadanas de aquellos asuntos que por su trascendencia social se
 
 f) Iniciativas presentadas por los ciudadanos con base en la Ley en materia de participación ciudadana del Estado;
 
-g) Los asuntos de límites territoriales de los municipios, y
+> <small>(REFORMADO, D.O. 9 DE OCTUBRE DE 2015)</small>
 
-h) Los procedimientos para fincar responsabilidades a los servidores públicos.
+g) Los asuntos de límites territoriales de los municipios;
+
+> <small>(REFORMADO, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+h) Los procedimientos para fincar responsabilidades a los servidores públicos, e
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+i) Las iniciativas de reformas a la normatividad del Poder Legislativo.
 
 II.- VIGILANCIA DE LA CUENTA PÚBLICA Y TRANSPARENCIA. Tendrá por objeto estudiar, analizar y dictaminar, sobre las atribuciones que le otorga la Ley de Fiscalización de la Cuenta Pública del Estado de Yucatán; los asuntos relacionados con la cuenta pública estatal y municipal; lo relacionado con la normatividad de transparencia y acceso a la información pública, y en general, todo asunto relacionado con la materia y las demás que le turne la Mesa Directiva.
 
@@ -629,21 +637,19 @@ f) El tratamiento de aguas residuales de plantas industriales, y
 
 g) Protección de los animales y especies en peligro de extinción.
 
-VIII.- EDUCACIÓN, CIENCIA, TECNOLOGÍA, ARTE, CULTURA Y DEPORTE. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+> <small>(REFORMADA, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+VIII.- EDUCACIÓN, CIENCIA Y TECNOLOGÍA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
 
 a) La educación que se imparta en el Estado en todos sus niveles y modalidades;
 
 b) Las normas que se refieran a las actividades que lleven a cabo las universidades e instituciones de Educación Superior en el Estado, o en aquéllos que les sean solicitados por dichas instituciones;
 
-c) La investigación, innovación, ciencia y la tecnología;
+c) Los relacionados con las acciones que realice el Poder Ejecutivo y los municipios en materia de educación, ciencia y tecnología;
 
-d) La protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y sus municipios;
+d) La participación en forma oportuna de las actividades que realice el Poder Ejecutivo en materia de educación, ciencia y tecnología, y
 
-e) Los temas en materia cultural;
-
-f) La educación física y la práctica del deporte, los hábitos de vida sana y buena alimentación, y
-
-g) La formación integral de los ciudadanos que contribuya a su desarrollo físico, psicológico, social y cultural, así como su vinculación y participación activa en la vida nacional, social, económica y política.
+e) Todo lo relacionado con la investigación, innovación, ciencia y la tecnología.
 
 IX.- SALUD Y SEGURIDAD SOCIAL. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con el derecho a la salud y la seguridad social de los trabajadores del Estado, en lo referente a:
 
@@ -752,6 +758,36 @@ f) La vigilancia del cumplimiento de la política estatal en materia de respeto 
 g) Los que se refieran a la expedición de reformas, adiciones y derogaciones de la legislación estatal de la materia, y
 
 h) Implementar las reformas constitucionales en materia de derechos humanos; desarrollar acciones para prevenir violaciones a los derechos humanos; proponer acciones para el fortalecimiento de las políticas públicas del Estado en materia de derechos humanos.
+
+> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+XV.- ARTE Y CULTURA. Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+
+a) La protección del patrimonio cultural, artístico, documental y arquitectónico e histórico que sean de la competencia del Estado y sus municipios;
+
+b) Los temas en materia cultural;
+
+c) La promoción de las bellas artes, manifestaciones artísticas y culturales, así como de patrimonio cultural;
+
+d) El fomento y estímulo de las manifestaciones de creatividad artística e intelectual en el Estado;
+
+e) Lo relativo al fomento y desarrollo de las actividades artesanales de las distintas regiones de la entidad;
+
+> <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+XVI.- CULTURA FÍSICA Y DEPORTE.- Tendrá por objeto estudiar, analizar y dictaminar, sobre los asuntos relacionados con:
+
+a) Los temas relativos al deporte;
+
+b) La educación física y la práctica del deporte, los hábitos de vida sana y buena alimentación;
+
+c) Realización de actividades que promuevan y fortalezcan la cultura física en el Estado, y
+
+d) La formación integral de los ciudadanos que contribuya a su desarrollo físico, psicológico, social y cultural, así como su vinculación y participación activa en la vida nacional, social, económica y política.
+
+> <small>(ADICIONADO, D.O. 9 DE OCTUBRE DE 2015)</small>
+
+Los asuntos que no estén descritos en las fracciones que anteceden, pero que guardan relación con los temas competencia de las Comisiones, serán turnados para su estudio, análisis y dictamen a la Comisión correspondiente.
 
 ###### Artículo 44.
 
@@ -1386,3 +1422,9 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 Segundo. Derogación Tácita.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 9 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
