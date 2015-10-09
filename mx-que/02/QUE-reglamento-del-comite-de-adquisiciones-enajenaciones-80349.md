@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-del-comite-de-adquisiciones-enajenaciones-80349"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-11"
-last_updated: "2015-01-23"
+last_updated: "2015-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del estado de Querétaro, el viernes 11 de marzo de 2011.
 
@@ -517,11 +517,13 @@ Cuando se trate de la preparación (sic) dictámenes que versen sobre adjudicaci
 
 En la sesión correspondiente se deberá poner a disposición del Comité, las requisiciones que presenten las áreas del Instituto, así como el número de cotizaciones necesarias.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-El Comité intervendrá en operaciones cuyo monto exceda de 150 veces el salario mínimo vigente en el Estado.
+El Comité intervendrá en operaciones cuyo monto exceda de 1,000 veces el salario mínimo vigente en el Estado.
+
+Lo anterior implicaría que el Comité sesione para autorizar las adquisiciones a partir de $68,280.00 (Sesenta y ocho mil doscientos ochenta pesos 00/100 MN), de acuerdo al salario mínimo vigente en la zona; lo que agilizaría los procedimientos administrativos e impondría menores cargas al Comité, sin que se dejen de atender las adquisiciones por montos más razonables.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2015)</small>
 
@@ -650,3 +652,19 @@ Primero. Las modificaciones a este Reglamento entrarán en vigor a partir de su 
 Segundo. Se ratifican los actos del Comité ejecutados a partir de la publicación del Reglamento Interior del Instituto Electoral del Estado de Querétaro, en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga, el 24 de octubre de 2014.
 
 Tercero. Publíquese en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO, RELATIVO AL DICTAMEN MEDIANTE EL CUAL LA COMISIÓN JURÍDICA SOMETE A LA CONSIDERACIÓN DEL CONSEJO GENERAL DIVERSAS MODIFICACIONES AL REGLAMENTO DEL COMITÉ DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ELECTORAL DEL ESTADO DE QUERÉTARO" QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. El Consejo General del Instituto Electoral del Estado de Querétaro, de conformidad con los considerandos primero y cuarto de este Acuerdo, es competente para conocer, y en su caso, aprobar el Dictamen mediante el cual la Comisión Jurídica somete a la consideración del Consejo General diversas modificaciones al Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral del Estado de Querétaro.
+
+SEGUNDO. En términos de los considerandos primero y cuarto de este Acuerdo, se aprueba el Dictamen mediante el cual la Comisión Jurídica somete a la consideración del Consejo General diversas modificaciones al Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral del Estado de Querétaro, el cual se tiene por reproducido en la presente determinación como si a la letra se insertase, para que surta todos sus efectos legales.
+
+TERCERO. El Consejo General del Instituto Electoral del Estado de Querétaro modifica el Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral del Estado de Querétaro, en su artículo 39, en términos de lo establecido en el considerando cuarto de este Acuerdo. Dicha modificación entrará en vigor una vez que sea publicada en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga.
+
+CUARTO. Se instruye a la Secretaría Ejecutiva integre en el texto vigente del Reglamento del Comité de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Instituto Electoral del Estado de Querétaro, las modificaciones Establecidas en el punto de acuerdo anterior, y publique en el sitio de Internet Oficial del Instituto, el Reglamento correspondiente.
+
+QUINTO. Se ordena a la Secretaría Ejecutiva publique las modificaciones al Reglamento materia del presente Acuerdo, en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga.
+
+SEXTO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de Querétaro La Sombra de Arteaga.
