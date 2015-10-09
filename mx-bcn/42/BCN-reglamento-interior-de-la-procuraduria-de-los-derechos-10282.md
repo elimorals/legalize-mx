@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-procuraduria-de-los-derechos-10282"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-06-20"
-last_updated: "1991-06-20"
+last_updated: "2015-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA PROCURADURIA DE LOS DERECHOS HUMANOS Y PROTECCION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DE LA PROCURADURIA DE LOS DERECHOS HUMANOS Y PROTECCION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERIOR DE LA PROCURADURÍA DE LOS DERECHOS HUMANOS Y PROTECCIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el jueves 20 de junio de 1991.
 
@@ -376,3 +378,21 @@ FORTUNATO ALVAREZ ENRIQUEZ.
 SECRETARIO GENERAL DE GOBIERNO,
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO CONSULTIVO POR EL QUE SE APRUEBA EL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA”.]
+
+Primero. (Entrada en vigor del Reglamento Interno).
+
+El presente Reglamento Interno entrará en vigor al día siguiente de su publicación.
+
+Segundo. (Abrogación del Reglamento Interno de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California).
+
+Se abroga el Reglamento Interno de la Procuraduría de los Derechos Humanos y Protección Ciudadana de Baja California, publicado en el Periódico Oficial número 17 el veinte de junio de 1991 y se derogan todas las disposiciones reglamentarias y administrativas de la Comisión Estatal que se opongan a lo establecido en este Reglamento.
+
+Tercero. (Sustanciación de los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento).
+
+Las quejas y recursos que a la fecha de entrada en vigor del presente Reglamento se encuentren en trámite, se sustanciarán de conformidad con lo que establece este Reglamento.
