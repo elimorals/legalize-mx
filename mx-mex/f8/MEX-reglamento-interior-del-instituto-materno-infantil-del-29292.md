@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-materno-infantil-del-29292"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-25"
-last_updated: "2015-01-12"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,13 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 25 de febrero de 2003.
 
 EL CONSEJO INTERNO DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MEXICO, DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO 2.14 DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO, EN SESION ORDINARIA CELEBRADA EL VEINTIDOS DE ENERO DE DOS MIL TRES; Y
 
 C O N S I D E R A N D O
-
-.
 
 En razón de lo anterior, ha tenido a bien expedir el siguiente:
 
@@ -53,7 +51,7 @@ II. Instituto u Organismo, al Instituto Materno Infantil del Estado de México.
 
 III. Consejo, al Consejo Interno del Instituto Materno Infantil del Estado de México.
 
-IV. Director General, al Director General de l Instituto Materno Infantil del Estado de México.
+IV. Director General, al Director General del Instituto Materno Infantil del Estado de México.
 
 V. Unidades Médico-Administrativas, a las Unidades de Apoyo, Direcciones, Subdirecciones y Jefaturas de Departamento que integran la estructura organizacional del Instituto Materno Infantil del Estado de México.
 
@@ -65,7 +63,7 @@ El Instituto es un organismo público descentralizado con personalidad jurídica
 
 > <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
-###### Articulo 4.
+###### Artículo 4.
 
 El Instituto se sujetará a lo dispuesto por el Código, por la Ley de Planeación del Estado de México y Municipios, por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su Reglamento, y por las demás disposiciones aplicables; asimismo, conducirá sus actividades en forma programada, con base en el Plan de Desarrollo del Estado de México y en los programas a su cargo o en los que participe en razón de sus atribuciones.
 
@@ -97,21 +95,37 @@ II. Un Secretario, quien será nombrado por el Consejo a propuesta de su Preside
 
 III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
 
-> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE OCTUBRE DE 2015)</small>
 
-IV. Cinco Vocales, quienes serán:
+IV. Seis Vocales, quienes serán:
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
 a) Un representante de la Secretaria de Finanzas.
 
-b) Un representante de la Secretaría de Educación.
+> <small>(REFORMADO, G.G. 9 DE OCTUBRE DE 2015)</small>
 
-c) Un representante del Sistema para el Desarrollo Integral de la Familia del Estado de México.
+b) Un representante del Consejo de Salud del Estado de México.
 
-d) Un representante de la Junta de Asistencia Privada del Estado de México.
+> <small>(REFORMADO, G.G. 9 DE OCTUBRE DE 2015)</small>
+
+c) Un representante del Instituto de Salud del Estado de México.
+
+> <small>(REFORMADO, G.G. 9 DE OCTUBRE DE 2015)</small>
+
+d) Un representante del Instituto de Seguridad Social del Estado de México y Municipios.
+
+> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2008)</small>
 
 A invitación del Presidente:
 
-e) Un representante de la Universidad Autónoma del Estado de México.
+> <small>(REFORMADO, G.G. 9 DE OCTUBRE DE 2015)</small>
+
+e) Un representante de la Delegación Estado de México del Instituto Mexicano del Seguro Social.
+
+> <small>(ADICIONADO, G.G. 9 DE OCTUBRE DE 2015)</small>
+
+f) Un representante de la Delegación Estado de México del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 Por cada uno de los integrantes del Consejo habrá un suplente propuesto por el propietario, quien fungirá con voz y voto, a excepción de aquellos a los que se refieren las fracciones II y III del presente artículo, quienes sólo tendrán voz. El cargo de integrante del Consejo será honorífico.
 
@@ -237,7 +251,7 @@ XXI. Disponer en el ámbito de su competencia, las acciones necesarias para el c
 
 XXII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
-Quedan excluidos de esta disposición los Directores de Hospitales y del Centro de Especialidades.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 9 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO V. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES Y UNIDADES
 
@@ -427,7 +441,9 @@ II. Dirección del Hospital de Ginecología y Obstetricia.
 
 III. Dirección del Centro de Especialidades Odontológicas.
 
-### CAPITULO VI. DE LAS ATRIBUCIONES DE LAS DIRECCIONES DE LOS HOSPITALES Y DEL CENTRO DE ESPECIALIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 9 DE OCTUBRE DE 2015)</small>
+
+### CAPITULO VI. DE LAS ATRIBUCIONES DE LAS DIRECCIONES DE LOS HOSPITALES Y DEL CENTRO DE ESPECIALIDADES ODONTOLÓGICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE ENERO DE 2015)</small>
 
@@ -546,3 +562,13 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+G.G. 9 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO MATERNO INFANTIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
