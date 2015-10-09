@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-sistema-para-el-desarrollo-integral-de-la-52123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-06"
-last_updated: "2012-01-27"
+last_updated: "2015-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL MUNICIPIO DE LEÓN, GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2012.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN EL MUNICIPIO DE LEÓN, GTO., PUBLICADO EN EL P.O. DE 9 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de octubre de 2006.
 
@@ -363,7 +365,7 @@ XII.- Autorizar conjuntamente con el Director Administrativo las erogaciones que
 
 XIII.- Resolver sobre los expedientes que remita la Contraloría Municipal con motivo de los procedimientos de responsabilidad administrativa que se instauren a los servidores públicos del Sistema DIF León;
 
-XIV.- Informar mensualmente al Consejo sobre el estado financiero del Sistema DIF León; y, (sic)
+XIV.- Informar mensualmente al Consejo sobre el estado financiero del Sistema DIF León; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2009)</small>
 
@@ -647,7 +649,7 @@ FELIPE DE JESÚS LÓPEZ GÓMEZ
 
 SECRETARIO DEL H. AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE DICIEMBRE DE 2009.
 
@@ -670,3 +672,19 @@ P.O. 27 DE ENERO DE 2012.
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones normativas que se opongan a las presentes modificaciones.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, DEL MUNICIPIO DE LEÓN, GTO.”.]
+
+Vigencia
+
+Artículo primero. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Reglamento
+
+Artículo segundo. Se abroga el Reglamento del Sistema para el Desarrollo Integral de la Familia en el Municipio de León, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 160, segunda parte, de fecha 06 de octubre de 2006.
+
+Subsistencia del Sistema DIF León
+
+Artículo tercero. El organismo público a que se refiere el Reglamento que se abroga en el artículo anterior, subsiste con la personalidad jurídica y patrimonio propio que actualmente tiene, manteniendo todos los derechos y responsabilidades contractuales y jurídicas desde su creación.
