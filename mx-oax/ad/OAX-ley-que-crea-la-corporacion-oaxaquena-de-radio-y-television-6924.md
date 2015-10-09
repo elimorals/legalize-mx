@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-corporacion-oaxaquena-de-radio-y-television-692
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-20"
-last_updated: "2005-03-22"
+last_updated: "2015-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY QUE CREA LA CORPORACION OAXAQUEÑA DE RADIO Y TELEVISION Y ESTABLECE SUS FUNCIONES
 
-LEY QUE CREA LA " CORPORACION OAXAQUEÑA DE RADIO Y TELEVISION " Y ESTABLECE SUS FUNCIONES
+LEY QUE CREA LA " CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN " Y ESTABLECE SUS FUNCIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN, PUBLICADA EN EL P.O. DE 9 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 20 de noviembre de 1993.
 
@@ -311,7 +313,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. AGUSTIN MARQUEZ URIBE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 17 DE MAYO DE 2003.
 
@@ -322,3 +324,17 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente ordenamiento.
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga la Ley que crea la “Corporación Oaxaqueña de Radio y Televisión” y establece sus funciones, publicada en el Periódico Oficial del Gobierno del Estado el 20 de noviembre de 1993.
+
+TERCERO. Los recursos humanos, materiales y financieros de la Corporación Oaxaqueña de Radio y Televisión, seguirán formando parte de la misma Corporación, por no sufrir cambios estructurales dicha Corporación, derivado de la entrada en vigor de la presente Ley.
+
+CUARTO. Los derechos laborales creados por los trabajadores de la actual Corporación Oaxaqueña de Radio y Televisión, seguirán respetándose en los términos adquiridos y conforme al apartado A del Artículo 123 de la Ley Federal del Trabajo.
+
+QUINTO. La Junta Directiva de la Corporación Oaxaqueña de Radio y Televisión, deberá sesionar para la toma de protesta de sus nuevos integrantes, dentro de un plazo de 60 días hábiles, contados a partir de la entrada en vigor de esta Ley.
+
+SEXTO. La Corporación Oaxaqueña de Radio y Televisión, en el ámbito de sus respectivas competencias, dentro del plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, emitirá la reglamentación o actualizaciones respectivas, que deriven de esta Ley.
