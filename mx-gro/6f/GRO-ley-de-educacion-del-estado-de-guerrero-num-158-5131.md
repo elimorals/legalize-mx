@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2015-03-06"
+last_updated: "2015-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NÚM. 158
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -512,6 +512,10 @@ El otorgamiento de los reconocimientos, distinciones, estímulos y recompensas q
 ###### ARTICULO 22.
 
 Las autoridades educativas del Estado, revisarán permanentemente las disposiciones, los trámites y procedimientos, con objeto de simplificarlos, de reducir las cargas administrativas de los maestros, de alcanzar el desempeño de más horas efectivas de clase y, en general, de lograr la prestación del servicio educativo con mayor pertinencia y de manera más eficiente.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+Para el cumplimiento de lo dispuesto en el párrafo anterior, las autoridades educativas deberán integrar en la estructura de las instituciones educativas una área que se encargará de elaborar y cumplimentar todos los requerimientos administrativos, con el objetivo de no distraer a los docentes en sus tareas sustanciales pedagógicas, de planeación y material didáctico, en el llenado de formatearía.
 
 En las actividades de supervisión, las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente.
 
@@ -1463,7 +1467,9 @@ Para la determinación de los perfiles, parámetros e indicadores, en el ámbito
 
 Las escuelas en las que el Estado y sus Organismos Descentralizados impartan la Educación Básica y Media Superior, deberán contar con una estructura ocupacional debidamente autorizada, de conformidad con las reglas que al efecto expida la Secretaría de Educación Pública en consulta con las Autoridades Educativas Locales para las particularidades regionales.
 
-En la estructura ocupacional de cada Escuela deberá precisarse el número y tipos de puestos de trabajo requeridos, atendiendo al número de aulas y espacios disponibles, al alumnado inscrito y al plan de estudio de que se trate.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+En la estructura ocupacional de cada Escuela deberá precisarse el número y tipos de puestos de trabajo requeridos, atendiendo al número de aulas y espacios disponibles, al alumnado inscrito y al plan de estudio de que se trate; así como un área específica para auxiliar a los maestros frente a clases en las actividades administrativas de informes que se tengan que remitir a las autoridades educativas.
 
 Las estructuras ocupacionales deberán ser revisadas y en su caso, ajustadas por lo menos una vez al año de conformidad con las reglas que determine la Secretaría de Educación Pública.
 
@@ -1992,3 +1998,13 @@ QUINTO. El Ejecutivo Estatal, con base en la disponibilidad presupuestal, procur
 SEXTO. El Titular del Poder Ejecutivo del Estado de Guerrero, deberá expedir el Reglamento de la presente Ley, dentro de los noventa días naturales a la entrada en vigor de este ordenamiento.
 
 SÉPTIMO. El presente decreto surtirá sus efectos el día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado, a través de la Secretaría de Educación Guerrero, deberá establecer los mecanismos necesarios que permitan dar cumplimiento a las presentes reformas, en un término no mayor a doce meses de entrada en vigor de la presente reforma.
+
+TERCERO.- Remítase al Ejecutivo del Estado y al titular de la Secretaría de Educación Guerrero, para los efectos legales conducentes.
+
+CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
