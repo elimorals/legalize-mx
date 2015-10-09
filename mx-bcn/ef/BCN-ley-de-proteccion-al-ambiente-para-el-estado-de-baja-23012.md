@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2015-06-12"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -497,11 +497,15 @@ XIX. El principio de subsidiariedad, que permita a las estructuras municipales d
 
 ###### ARTÍCULO 15.
 
-En la planeación del desarrollo estatal y municipal deberá incorporarse lo ambiental como una de sus dimensiones, considerar los principios e instrumentos de la política ambiental, la educación ambiental, los programas de ordenamiento ecológico y programas derivados de este y así como las demás disposiciones aplicables sobre la materia.
+En la planeación del desarrollo estatal y municipal deberá incorporarse lo ambiental como una de sus dimensiones, considerar los principios e instrumentos de la política ambiental, la educación ambiental, los programas de ordenamiento ecológico y programas derivados de este y así corno las demás disposiciones aplicables sobre la materia.
 
 En la planeación y la realización de los actos de las dependencias y entidades de la Administración Pública Estatal y Municipal, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno Estatal y los municipios para regular, promover, restringir, prohibir, orientar, y en general, inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental establecidos el Plan Estatal de Desarrollo y los planes y programas ambientales a que se refiere la presente Ley.
 
 En la formulación, ejecución y evaluación de la política ambiental se considerará la participación de los tres niveles de gobierno y los distintos sectores de la sociedad.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 15 BIS.- Los Poderes Legislativo, Judicial y Ejecutivo, así como los Municipios del Estado de Baja California, expedirán sus manuales de sistemas de manejo ambiental, que tendrán por objeto ser una herramienta que guíe a la optimización de los recursos materiales y energéticos que se utilizan en sus actividades administrativas y operativas diarias, con el fin de reducir costos ambientales y financieros.
 
 ###### ARTÍCULO 16.
 
@@ -2904,3 +2908,9 @@ P.O. 12 DE JUNIO DE 2015.
 DECRETO NÚMERO 252, POR EL QUE SE ADICIONA UN ARTÍCULO 141 BIS A LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Poderes Legislativo, Judicial y Ejecutivo, así como los Municipios del Estado, contarán con 120 días contados a partir de la entrada en vigor de la reforma, para expedir sus manuales de sistemas de manejo ambiental.
