@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-10-05"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3303,9 +3303,9 @@ Para los efectos de este artículo, deberá obtenerse previamente la autorizaci�
 
 La aprobación de los certificados de necesidad corresponde, de forma conjunta, a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos cuando se trate de procedimientos de contratación necesarios para la implementación del sistema procesal penal acusatorio; y solo a la Secretaría Ejecutiva de Administración en los demás casos.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 296 BIS, PÁRRAFO SEGUNDO, DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 9 DE OCTUBRE DE 2015)</small>
 
-Para efectos del supuesto de la implementación del sistema procesal penal acusatorio, el área operativa que corresponda presentará, por escrito, a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos, la propuesta de certificado de necesidad a su consideración y, en su caso, aprobación.
+Para efectos del supuesto de la implementación del sistema procesal penal acusatorio, el área operativa que corresponda presentará, por escrito, a la Secretaría Ejecutiva de Administración, a la Unidad para la Implementación de la Reforma Penal y a la Dirección General de Asuntos Jurídicos, la propuesta debidamente justificada de certificado de necesidad a su consideración y, en su caso, aprobación.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE CERTIFICADOS DE NECESIDAD, D.O.F. 28 DE AGOSTO DE 2015)</small>
 
@@ -11384,3 +11384,9 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se derogan todas aquellas disposiciones, acuerdos o lineamientos que establezcan la posibilidad de que el funcionario al que se encomienda una comisión oficial pueda ser acompañado por otro servidor público o por alguien ajeno al Consejo de la Judicatura Federal.
+
+D.O.F. 9 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
