@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2015-05-19"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -711,7 +711,7 @@ Se concede acción popular para denunciar ante las autoridades sanitarias del Es
 
 La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO IV. ATENCION INFANTIL
 
@@ -771,7 +771,7 @@ V.- Las demás que coadyuven a la salud infantil.
 
 En materia de higiene escolar, corresponde a las autoridades sanitarias federales y estatales, establecer las normas oficiales para proteger la salud del educando y de la comunidad escolar de los centros educativos dependientes del Estado. Las autoridades educativas y sanitarias estatales se coordinarán para la aplicación de las mismas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ### CAPITULO V. SERVICIOS DE SALUD REPRODUCTIVA
 
@@ -1237,7 +1237,21 @@ Para la mayor eficacia de las acciones para la prevención y control de enfermed
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 125 BIS.- Se le llama Cuidados paliativos a los cuidados activos y totales de aquellas enfermedades que no responden a tratamiento curativo, e incluyen el control del dolor y otros síntomas, así como la atención psicológica, social y espiritual del paciente.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 125 TER.- Los cuidados paliativos tienen como objeto salvaguardar la dignidad del enfermo al final de la vida, o enfermo incurable que hubiese perdido la capacidad para consentir por sí mismo a causa de su enfermedad, garantizando una vida de calidad y su muerte natural en condiciones dignas.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 125 QUATER.- El paciente en etapa terminal, tiene derecho a solicitar la suspensión del tratamiento curativo y solicitar el tratamiento paliativo en términos de ésta Ley, la Ley de los Cuidados Paliativos para los Enfermos No Curables o en Situación Terminal del Estado de Oaxaca y la Ley General de Salud.
+
+El enfermo no curable o en situación terminal que reciba los cuidados paliativos, en cualquier momento podrá solicitar nuevamente le sea administrado el tratamiento curativo, ratificando su decisión por escrito ante el personal médico correspondiente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
 ###### ARTICULO 107.
 
@@ -1375,15 +1389,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO PRIMERO. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
-
-ARTICULO 149 BIS.- Se crea el Consejo Estatal Contra las Adicciones como órgano colegiado de participación interinstitucional, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones y que se regulan en este título, así como proponer y evaluar los programas a que se refieren los artículos 150, 152, y 154 de esta Ley. Dicho consejo estará integrado por el Gobernador del Estado quien lo presidirá; el Secretario de Salud del Estado que tendrá el carácter de coordinador del consejo; por los titulares de las dependencias y entidades de la administración pública estatal y las representaciones de las dependencias y entidades de la administración pública federal, cuyas atribuciones tengan relación con el objeto del consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud.
-
-El Secretario de Salud del Estado, en su carácter de coordinador, dispondrá los lineamientos y bases para en su caso, crear consejos regionales y municipales contra las adicciones en la Entidad. Las autoridades municipales podrán ser invitadas a las sesiones del Consejo Estatal.
-
-La organización y funcionamiento del Consejo se regirá por las disposiciones reglamentarias que expida para tal efecto, el Ejecutivo Estatal.
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1413,7 +1419,15 @@ V.- Las demás que sean necesarias para la prevención tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO PRIMERO. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+
+ARTICULO 149 BIS.- Se crea el Consejo Estatal Contra las Adicciones como órgano colegiado de participación interinstitucional, que tendrá por objeto promover y apoyar las acciones de los sectores público, social y privado tendientes a la prevención y combate de los problemas de salud pública causados por las adicciones y que se regulan en este título, así como proponer y evaluar los programas a que se refieren los artículos 150, 152, y 154 de esta Ley. Dicho consejo estará integrado por el Gobernador del Estado quien lo presidirá; el Secretario de Salud del Estado que tendrá el carácter de coordinador del consejo; por los titulares de las dependencias y entidades de la administración pública estatal y las representaciones de las dependencias y entidades de la administración pública federal, cuyas atribuciones tengan relación con el objeto del consejo y por representantes de organizaciones sociales y privadas relacionadas con la salud.
+
+El Secretario de Salud del Estado, en su carácter de coordinador, dispondrá los lineamientos y bases para en su caso, crear consejos regionales y municipales contra las adicciones en la Entidad. Las autoridades municipales podrán ser invitadas a las sesiones del Consejo Estatal.
+
+La organización y funcionamiento del Consejo se regirá por las disposiciones reglamentarias que expida para tal efecto, el Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1441,19 +1455,19 @@ VI.- La promoción de la participación de la comunidad en la prevención de acc
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Estatal para la prevención de accidentes, del que formarán parte representantes de los sectores públicos, social y privado del Estado. Dicho Consejo se coordinará con el Consejo Nacional para la prevención de accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+## TITULO OCTAVO BIS. DE LOS CUIDADOS PALIATIVOS A LOS ENFERMOS EN ETAPA TERMINAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION E INVALIDEZ Y REHABILITACION DE DISCAPACITADOS
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
-
-## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES Y OTRAS CONDUCTAS DAÑINAS A LA SALUD
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
-
-### CAPITULO IV. PROGRAMAS CONTRA LA VIOLENCIA INTRAFAMILIAR
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1637,11 +1651,13 @@ El Gobierno del Estado, a través del organismo a que se refiere el artículo 13
 
 El organismo del Gobierno Estatal previsto en el artículo 131 de esta Ley tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez o discapacidad y participar en programas de rehabilitación y educación especial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES Y OTRAS CONDUCTAS DAÑINAS A LA SALUD
 
-### CAPITULO UNICO
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+
+### CAPITULO IV. PROGRAMAS CONTRA LA VIOLENCIA INTRAFAMILIAR
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1669,7 +1685,7 @@ III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO PRIMERO. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1695,7 +1711,7 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 III,- Los propietarios o encargados de establecimientos en donde se expendan cigarrillos o similares, en ningún caso y de ninguna manera lo expenderán a menores de edad.
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO PRIMERO. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1717,9 +1733,9 @@ III.- Brindarán la atención médica que se requiera, a las personas que realic
 
 IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO III. DE LAS CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1733,9 +1749,9 @@ II.- Organizar campañas educativas tendientes a erradicar la violencia intrafam
 
 III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
-## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. DE LAS CONSTRUCCIONES
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1761,9 +1777,9 @@ Para determinar la ubicación y horario de los establecimientos dedicados a la v
 
 Los propietarios o encargados de los establecimientos en donde se expendan o suministren bebidas alcohólicas, en ningún caso y de ninguna forma las expenderán o suministrarán a menores de edad.
 
-## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
+## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1815,7 +1831,7 @@ La autoridad sanitaria competente publicará en el Periódico Oficial, las norma
 
 Las notificaciones que conforme a esta Ley deban aplicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1839,7 +1855,7 @@ La Secretaría de Salud del Estado, verificará que los mercados y centros de ab
 
 Los vendedores, locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y en el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas oficiales correspondientes.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1895,7 +1911,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1939,7 +1955,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad que al efecto expida la autoridad sanitaria competente, así como a las normas que dicte la Secretaría de Salud de Gobierno Federal.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1991,7 +2007,7 @@ El Gobierno del Estado, por conducto de sus Municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con éste capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
+### CAPITULO IX. PROSTITUCION
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2043,7 +2059,7 @@ Las normas oficiales correspondientes, establecerán los requisitos sanitarios y
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2101,7 +2117,7 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2131,7 +2147,7 @@ Los establos, granjas avícolas, porcícolas, apiarios y otros similares, no pod
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que se refiere el artículo 208 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas oficiales correspondientes.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2175,9 +2191,7 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio de la prostitución, para lo cual podrá solicitar la opinión de la Secretaría de Salud del Estado, de conformidad con las disposiciones legales reglamentarias aplicables.
 
-### CAPITULO XIV
-
-TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS.
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2207,7 +2221,9 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios y centros de readaptación deberán, a partir de que tengan conocimiento de alguna enfermedad transmisible, proceder a adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación, así como informar en un plazo no mayor de veinticuatro horas a la Autoridad Sanitaria correspondiente.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV
+
+TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2227,7 +2243,7 @@ Para abrir al servicio público estos establecimientos, deberán sujetarse a la 
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas oficiales que dicte la Secretaría de Salud del Estado.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2247,7 +2263,7 @@ La Secretaría de Salud del Estado, una vez terminada la edificación del centro
 
 El funcionamiento de los establecimientos a que se refiere el artículo 225 de esta Ley, deberá acatarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2261,11 +2277,11 @@ Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior, deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y las normas oficiales correspondientes.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2285,7 +2301,7 @@ III.- Lavadero público, el establecimiento al cual acuden los interesados para 
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2305,7 +2321,7 @@ La Secretaría de Salud del Estado realizará la verificación sanitaria que con
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar a establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar cumplimiento a lo establecido en el artículo anterior.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2319,7 +2335,9 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más municipios del Estado de Oaxaca no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales que para tal efecto se emitan.
 
-### CAPITULO PRIMERO
+### CAPITULO III. CERTIFICADOS
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 237.
 
@@ -2331,7 +2349,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad y de tipo sanitario que establezcan las disposiciones legales aplicables, así como los preceptos reglamentarios y las normas oficiales correspondientes.
 
-### CAPITULO SEGUNDO
+### CAPITULO PRIMERO
 
 ###### ARTICULO 239.
 
@@ -2371,11 +2389,9 @@ Los propietarios de los animales a que se refiere el artículo anterior estarán
 
 El Sistema Estatal de Salud, mantendrá campañas de orientación a la población, enfocadas a la vacunación y control de animales domésticos, susceptibles de contraer la rabia.
 
-## TITULO DECIMO CUARTO
+## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
-
-### CAPITULO TERCERO
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 243.
 
@@ -2431,7 +2447,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la Legislación Fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO CUARTO
+### CAPITULO TERCERO
 
 ###### ARTICULO 251.
 
@@ -2505,9 +2521,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+### CAPITULO CUARTO
 
 ###### ARTICULO 259.
 
@@ -2565,11 +2579,11 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
+## TITULO DECIMO CUARTO
 
-> <small>(REFORMADA SU NUMERACION, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2603,7 +2617,7 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2649,11 +2663,9 @@ Las autoridades judiciales o administrativas solo admitirán como válidas (sic)
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
-DE SEGURIDAD Y SANCIONES
-
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 281.
 
@@ -2701,7 +2713,9 @@ DE SEGURIDAD Y SANCIONES
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO OCTAVO DE LA LEY PARA LA DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS HUMANAS PARA EL ESTADO DE OAXACA, P.O. 19 DE MAYO DE 2015)</small>
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS
+
+DE SEGURIDAD Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2719,11 +2733,11 @@ DE SEGURIDAD Y SANCIONES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2004)</small>
 
-## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE ABRIL DE 2004)</small>
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -2840,6 +2854,14 @@ Transcurrido este plazo, sin que se haya impugnado el resultado del análisis of
 En el caso de que los productos recogidos en procedimientos de muestreo o verificación, sólo los laboratorios autorizados o habilitados por la autoridad sanitaria competente en el Estado determinarán por medio de los análisis practicados, si tales productos reúnen o no sus especificaciones.
 
 (ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2004) (F. DE E., P.O. 26 DE JUNIO DE 2004)
+
+## TITULO DECIMO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
+
+### CAPITULO V. PRESCRIPCION
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 307.
 
@@ -3398,3 +3420,9 @@ Sexto. El Titular del Poder Ejecutivo del Estado, deberá incluir dentro del Pre
 Séptimo. El Reglamento Interno del Consejo de Trasplantes del Estado de Oaxaca, regulado en esta Ley deberá ser elaborado dentro de los 120 días siguientes a la aprobación del presente Decreto.
 
 Octavo. Se deroga el Título Décimo Cuarto de la Ley Estatal de Salud, así como todas aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Remítase para su publicación correspondiente en el Periódico Oficial del Gobierno del Estado de Oaxaca.
