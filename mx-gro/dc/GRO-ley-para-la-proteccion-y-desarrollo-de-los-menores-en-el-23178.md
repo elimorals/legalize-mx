@@ -4,7 +4,7 @@ identifier: "GRO-ley-para-la-proteccion-y-desarrollo-de-los-menores-en-el-23178"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-15"
-last_updated: "2013-11-26"
+last_updated: "2015-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY PARA LA PROTECCIÓN Y DESARROLLO DE LOS MENORES EN EL ESTADO DE GUERRERO, NÚMERO 415
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NUMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 9 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 15 de enero de 2002.
 
@@ -1168,3 +1170,41 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 812 PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley para la Protección y Desarrollo de los Menores en el Estado de Guerrero, número 415, publicada en el Periódico Oficial del Estado de Guerrero número 5 de fecha 15 de enero de 2012 (sic), Ley de Casas Asistenciales para las Niñas, Niños y Adolescentes del Estado de Guerrero, número 363, publicada en el Periódico Oficial del Estado de Guerrero número 49 de fecha 18 de junio de 2010 y se derogan todas las demás disposiciones jurídicas que se opongan a la presente Ley.
+
+TERCERO. El H. Congreso del Estado contará con un plazo de ciento ochenta días naturales para hacer las modificaciones respectivas a otras leyes del Estado que sean necesarias para la armonización con esta ley.
+
+CUARTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo del Estado en un plazo no mayor a los noventa días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado y las Procuradurías de Protección Regionales deberán constituirse a partir del siguiente ejercicio presupuestal a la publicación de la presente Ley.
+
+SEXTO. Para efectos del párrafo anterior, el Sistema Estatal del DIF deberá reformar su Reglamento Interior, a fin de que en un plazo no mayor a noventa días naturales a partir de la entrada en vigor de este ordenamiento jurídico, se formalice la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guerrero y las Procuradurías de Protección Regionales con sus respectivas unidades administrativas.
+
+SÉPTIMO. El Sistema Estatal de Protección Integral y los Sistemas de Protección Integral Municipales deberán integrarse a más tardar dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+En su primera sesión, el Presidente del Sistema Estatal y de cada uno de los Sistemas Municipales de Protección Integral someterán a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento así como la designación del Titular de la Secretaría Ejecutiva de los Sistemas, el cual se ajustara a las necesidades y disponibilidad presupuestal con que se cuente.
+
+OCTAVO. El Titular de la Secretaria Ejecutiva, una vez instalado el Sistema de Protección Integral del Estado o cada uno de los Sistemas Municipales, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes de los mismos, el proyecto de lineamientos a que se refiere el artículo 130 de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Guerrero.
+
+NOVENO. El Presidente del Sistema de Protección Integral del Estado realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema de Protección Integral del Estado.
+
+DÉCIMO. El Gobierno del Estado y de los Municipios celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
+
+DÉCIMO PRIMERO. Para efectos de lo dispuesto en la fracción VI del artículo 120 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal del Estado de Guerrero.
+
+DÉCIMO SEGUNDO. Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor de la presente Ley, contarán con un plazo de ciento ochenta días a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero para realizar las adecuaciones conducentes.
+
+DÉCIMO TERCERO. El H. Congreso del Estado de Guerrero, a propuesta del Poder Ejecutivo del Estado, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
+
+DÉCIMO CUARTO. Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
+
+DÉCIMO QUINTO. Remítase la presente Ley a la Titular del Sistema Estatal del DIF Guerrero, para su conocimiento.
+
+DÉCIMO SEXTO. Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, en la página web del Honorable Congreso del Estado de Guerrero y en dos diarios de mayor circulación en la entidad para su divulgación.
