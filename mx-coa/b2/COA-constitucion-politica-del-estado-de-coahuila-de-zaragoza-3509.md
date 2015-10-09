@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2015-09-22"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,13 +20,11 @@ state: "COA"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1132,9 +1130,11 @@ XXXI. A petición de más de la mitad de sus miembros, integrar comisiones para 
 
 XXXII. Expedir las Leyes que establezcan la concurrencia del Gobierno del Estado y los Municipios, en materia de protección al ambiente, preservación y restauración del equilibrio ecológico.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2015)</small>
 
-XXXIII. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, discutiendo primero los ingresos que deben decretarse para cubrir el ejercicio presupuestal, tomando en cuenta, entre otros elementos, los informes de la entidad de fiscalización superior.
+XXXIII. Examinar, discutir y aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, los cuales deben estar armonizados con la Ley General de Contabilidad Gubernamental, discutiendo primero los ingresos que deben decretarse para cubrir el ejercicio presupuestal, tomando en cuenta, entre otros elementos, los informes de la entidad de fiscalización superior.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
 El Congreso deberá aprobar en el Presupuesto de Egresos del Estado, las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderos en dicho ejercicio:
 
@@ -1142,9 +1142,15 @@ a) Que constituyan deuda pública del Estado o de las entidades paraestatales qu
 
 b) Que se deriven de contratos para proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+
 Asimismo, examinar, discutir y aprobar anualmente las leyes de ingresos de los Municipios, tomando en cuenta, entre otros elementos, los informes de la entidad de fiscalización superior, así como determinar, también anualmente, las bases, montos y plazos que habrán de observarse conforme a los principios que establece el artículo 158-T de esta Constitución, para que los Municipios reciban de inmediato y sin demora las participaciones y aportaciones federales o estatales que les correspondan.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
+
 En el caso de no aprobarse la Ley de Ingresos o el Presupuesto de Egresos del Estado, continuarán en vigor las del año inmediato anterior, con las actualizaciones que sean pertinentes de acuerdo al índice de precios al consumidor.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2014)</small>
 
 Las leyes garantizarán la gratuidad de la información pública bajo el principio de disponibilidad presupuestal, sin perjuicio de los derechos o cuotas proporcionales, equitativas y mínimas por la reproducción, gastos de envío, servicio o trámite público, conforme a las leyes fiscales.
 
@@ -1562,9 +1568,13 @@ XXVIII. Auxiliar y colaborar estrechamente con el Gobierno Municipal, para el me
 
 XXVIII. A. Promover ante el Pleno del Tribunal Superior de Justicia, las controversias constitucionales o acciones de inconstitucionalidad locales que estime procedentes, de conformidad con el artículo 158 de esta Constitución; y,
 
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2015)</small>
 
-XXIX. Las demás que expresamente le concedan las Leyes.
+XXIX. Emitir lineamientos y normatividad aplicable a la contabilidad gubernamental.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+XXX. Las demás que expresamente le concedan las Leyes.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2012)</small>
 
@@ -4901,3 +4911,9 @@ SÉPTIMO.- Las modificaciones al Código Municipal para el Estado de Coahuila de
 OCTAVO.- El Congreso del Estado contará con un plazo de 120 días a partir de la entrada en vigor del Presente Decreto para emitir la Ley que sustituirá la Ley de Participación Ciudadana para el Estado de Coahuila de Zaragoza publicada en el Periódico Oficial el viernes 16 de noviembre de 2001.
 
 NOVENO.- Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
