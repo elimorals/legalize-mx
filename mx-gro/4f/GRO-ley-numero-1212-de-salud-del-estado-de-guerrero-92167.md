@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2015-08-28"
+last_updated: "2015-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -629,6 +629,10 @@ VI. La planificación familiar;
 
 VII. La salud mental;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+VII BIS.- La salud visual.
+
 VIII. La prevención y el control de las enfermedades bucodentales;
 
 IX. La disponibilidad de medicamentos y otros insumos esenciales para la salud;
@@ -905,7 +909,23 @@ El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones
 
 ### CAPITULO VIII. SALUD MENTAL
 
-### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+### CAPITULO VIII BIS
+
+SALUD VISUAL.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 93 BIS. La prevención de la Salud Visual, los vicios de refracción y las enfermedades oculares, tienen carácter prioritario, se basará en el conocimiento de los factores que afectan la salud visual, las causas de las alteraciones de la visión, los métodos de prevención y control de las enfermedades oculares, así como otros aspectos relacionados con la salud visual.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 1. Para la promoción de la Salud Visual, la Secretaría de Salud y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+
+I. El desarrollo de actividades de orientación, información y difusión de medidas de prevención, detección, diagnóstico y atención de los vicios de refracción y enfermedades oculares, a población abierta, poniendo especial énfasis en la población infantil y juvenil, para la detección temprana y oportuna de padecimientos visuales.
+
+II. La realización de campañas de salud visual, para la prevención y diagnóstico oportuno de vicios de refracción, enfermedades oculares, especialmente en la población en edad escolar.
+
+III. Las demás acciones que directa o indirectamente contribuyan al fomento y atención de la salud visual de la población.
 
 ###### ARTICULO 89.
 
@@ -941,11 +961,13 @@ Las autoridades sanitarias deberán proporcionarles la orientación y asesoría 
 
 La Secretaría de Salud, conforme a las normas oficiales mexicanas la Ley General de Salud, prestará atención a los enfermos mentales y las personas que consuman drogas o sustancias psicotrópicas, que se encuentren en Centros de Reinserción Social del Estado. Estableciendo la coordinación entre las autoridades que tengan relación con el caso concreto.
 
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTICULO 94.
 
@@ -959,11 +981,11 @@ III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 95.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, optometría, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, optometría, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología, y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
@@ -975,7 +997,7 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPITULO UNICO
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### ARTICULO 98.
 
@@ -1043,7 +1065,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 108.
 
@@ -1101,7 +1123,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 115.
 
@@ -1121,7 +1143,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO III. NUTRICION
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### ARTICULO 117.
 
@@ -1141,7 +1163,7 @@ IV. Salud ocupacional, y
 
 V. Fomento sanitario.
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 119.
 
@@ -1161,7 +1183,7 @@ Las autoridades sanitarias estatales en coordinación con las autoridades federa
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán ser consultados y consensuados con aquéllas y difundirse en español y la lengua o lenguas indígenas que correspondan.
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 121.
 
@@ -1187,7 +1209,7 @@ IV. Recomendar los lineamientos y los procedimientos que conduzcan al consumo m�
 
 V. Difundir los productos alimenticios y bebidas que han sido procesados, su contenido en altas, medias o bajas cantidades de azúcares, grasas totales, grasas saturadas, grasas trans y sal, señalando la cantidad específica de cada una de estas concentraciones, de acuerdo a las normas establecidas por la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO VI. DE LA MEDICINA TRADICIONAL
+### CAPITULO V. SALUD OCUPACIONAL
 
 ###### ARTICULO 124.
 
@@ -1225,7 +1247,7 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 La Secretaría de Salud, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO VI. DE LA MEDICINA TRADICIONAL
 
 ###### ARTICULO 129.
 
@@ -1235,7 +1257,7 @@ La Secretaría de Salud, tendrá a su cargo el control sanitario de los establec
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 131.
 
@@ -1255,13 +1277,13 @@ La Secretaría de Salud, reconocerá y certificara, a través de programas de ca
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 134.
 
 Corresponde a la Secretaría de Salud en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 135.
 
@@ -1375,7 +1397,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinsectación (sic) u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO UNICO
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 149.
 
@@ -1399,7 +1421,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 152.
 
@@ -1427,11 +1449,11 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 Dicho consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los Sistemas Nacional y Estatal de Salud.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 154.
 
@@ -1573,7 +1595,7 @@ El organismo del Gobierno del Estado previsto en el artículo 159 de ésta Ley t
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO UNICO
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 178.
 
@@ -1595,7 +1617,7 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 180.
 
@@ -1613,7 +1635,7 @@ I. La investigación de las causas del tabaquismo y de las acciones para control
 
 II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 182.
 
@@ -1635,7 +1657,7 @@ A los establecimientos que vendan o utilicen substancias e inhalantes con efecto
 
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO III. CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 184.
 
@@ -1655,7 +1677,7 @@ Los propietarios o encargados de los establecimientos en que se expendan o sumin
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. CONSTRUCCIONES
 
 ###### ARTICULO 188.
 
@@ -1713,7 +1735,7 @@ El organismo publicará en el Periódico Oficial del Estado, las normas en mater
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 195.
 
@@ -1735,7 +1757,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 La Secretaría de Salud realizará periódicamente una supervisión en las centrales de abasto para determinar el contenido de agroquímicos en los alimentos perecederos o la presencia de coliformes, si se cultivan con aguas negras.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 199.
 
@@ -1773,7 +1795,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estimen de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 208.
 
@@ -1805,7 +1827,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida el organismo y las normas que dicte la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 214.
 
@@ -1845,7 +1867,7 @@ El Gobierno del Estado, por conducto de sus municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 220.
 
@@ -1883,7 +1905,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuarán en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE REINSERCION SOCIAL
+### CAPITULO IX. PROSTITUCION
 
 ###### ARTICULO 228.
 
@@ -1923,7 +1945,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en los ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las normas oficiales mexicanas en materia de contaminación.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE REINSERCION SOCIAL
 
 ###### ARTICULO 237.
 
@@ -1947,7 +1969,7 @@ Los establecimientos a que se refiere este capítulo, no podrán ser ubicados en
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que de (sic) refiere el artículo 220 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 240.
 
@@ -1973,7 +1995,7 @@ El ejercicio de esta actividad estará sujeto a lo que dispone esta Ley y otras 
 
 Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas en donde se autorice el ejercicio de la prostitución.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 246.
 
@@ -1993,7 +2015,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios o centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el artículo 119 de esta Ley.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 250.
 
@@ -2007,7 +2029,7 @@ Para abrir al servicio público estos establecimientos, deberá notificarse a la
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las normas oficiales mexicanas en materia de salubridad local correspondientes que dicte la Secretaría de Salud.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 253.
 
@@ -2020,6 +2042,16 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 ###### ARTICULO 255.
 
 El funcionamiento de los establecimientos a que se refiere el artículo 237 de esta Ley, deberá acatar lo expuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
+
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+
+###### ARTICULO 256.
+
+Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas de manos y pies o a la aplicación de tratamientos de belleza en general al público.
+
+###### ARTICULO 257.
+
+El funcionamiento y personal de los establecimientos señalados en el artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y a las normas técnicas correspondientes.
 
 ### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS A LA CIRUGÍA PLÁSTICA Y RECONSTRUCTIVA
 
@@ -2039,15 +2071,7 @@ ARTICULO 262 BIS 3. El funcionamiento de los establecimientos señalados en este
 
 ARTICULO 262 BIS 4. La oferta de servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica y reconstructiva; así como, los establecimientos o unidades medicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su nombre, título que ostenta y numero de cedula del especialista, numero de certificación otorgado por el Consejo Mexicano correspondiente y el nombre y datos de la institución y/o Instituciones educativas, que avalen su ejercicio profesional así como el nombre del establecimiento o unidad médica con licencia vigente.
 
-###### ARTICULO 256.
-
-Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, al arreglo estético de uñas de manos y pies o a la aplicación de tratamientos de belleza en general al público.
-
-###### ARTICULO 257.
-
-El funcionamiento y personal de los establecimientos señalados en el artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y a las normas técnicas correspondientes.
-
-### CAPITULO XVI (SIC). TRANSPORTE ESTATAL Y MUNICIPAL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 258.
 
@@ -2063,7 +2087,33 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPITULO XVII. GASOLINERIAS
+### CAPITULO XVI BIS
+
+ESTABLECIMIENTOS DEDICADOS A LA REALIZACIÓN DE EXÁMENES DE LA VISTA Y ATENCIÓN A LA SALUD VISUAL.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 262 BIS 5. Los exámenes de la vista, deberán realizarse en establecimientos especializados, clínicas, consultorios optométricos, consultorios oftalmológicos y ópticas, por Optometristas titulados con cédula profesional, expedida legalmente y registrados autoridades educativas competentes.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 262 BIS 6. Los establecimientos especializados, clínicas, consultorios optométricos, consultorios oftalmológicos y ópticas, deberán contar con el equipamiento mínimo de aparatos e instrumentos necesarios para la realización de los exámenes de la vista; contarán con la infraestructura sanitaria y se ajustarán a las normas técnicas que establezca ésta Ley.
+
+Los exámenes de la vista, no podrán realizarse en locales no aptos, como parques, mercados, espacios públicos y otros espacios que carezcan de la infraestructura y equipamiento necesarios; así como la venta de lentes graduados para la corrección de vicios de refracción, ametropías, lentes de contacto y protección.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 262 BIS 7. La publicidad y difusión que se realice a través de los diferentes de (sic) información, impresos, electrónicos u otros, así como los establecimientos especializados donde se realicen los exámenes de la vista, deberán especificar el nombre, título, número de cédula profesional, institución o instituciones educativas que respaldan el ejercicio profesional y la licencia sanitaria correspondiente.
+
+Además, deberán informar de los riesgos de la adquisición de lentes pregraduados o de sol, económicos o muy baratos, que se expenden sin prescripción; que pueden causar severos daños en el sentido de la vista.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 262 BIS 8. Las asociaciones, colegios y o federaciones de optometristas, informarán a la Secretaria de Salud, del registro de sus agremiados, en listado conteniendo los nombres, dirección de trabajo, título y cédula profesional.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 262 BIS 9. El ejercicio de la optometría y la prescripción de anteojos por personal no autorizado, será sancionado en términos del Título Décimo, capítulo único de la Ley Reglamentaria del Ejercicio Profesional para el Estado Libre y Soberano el (sic) del Estado de Guerrero número 286 en vigor.
 
 ###### ARTICULO 260.
 
@@ -2079,11 +2129,11 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2015)</small>
 
+### CAPITULO XVI (SIC). TRANSPORTE ESTATAL Y MUNICIPAL
+
+### CAPITULO XVII. GASOLINERIAS
+
 ### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
-
-### CAPITULO I. AUTORIZACIONES
-
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 263.
 
@@ -2093,7 +2143,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más Municipios del Estado, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que para tal efecto se emitan.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 265.
 
@@ -2103,7 +2153,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 267.
 
@@ -2139,7 +2189,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 271.
 
@@ -2183,7 +2233,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO UNICO
 
 ###### ARTICULO 279.
 
@@ -2243,7 +2293,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 287.
 
@@ -2277,7 +2327,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 292.
 
@@ -2373,7 +2423,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO (SIC). MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 304.
 
@@ -2469,6 +2519,8 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
+
 ###### ARTICULO 317.
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposiciones que emanen de ella, serán sancionadas administrativamente por las autoridades sanitarias del Estado, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
@@ -2548,6 +2600,8 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este capítulo.
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 329.
 
@@ -2796,3 +2850,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 9 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 856 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD EN EL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes
