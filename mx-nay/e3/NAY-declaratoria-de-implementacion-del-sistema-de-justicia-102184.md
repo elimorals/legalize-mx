@@ -4,7 +4,7 @@ identifier: "NAY-declaratoria-de-implementacion-del-sistema-de-justicia-102184"
 country: "mx"
 rank: "otro"
 publication_date: "2014-08-18"
-last_updated: "2014-08-18"
+last_updated: "2015-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014 Y SU AMPLIACIÓN DE 10 DE OCTUBRE DE 2015, PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
 
 Declaratoria publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el lunes 18 de agosto de 2014.
 
@@ -80,3 +82,45 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" del Honorable Congr
 Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.- Dip. Miguel Angel Mú Rivera, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los dieciséis días del mes de Agosto del año dos mil catorce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+Ampliación de Declaratoria publicada en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 10 de octubre de 2015.
+
+Artículo Primero.- El Honorable Congreso del Estado de Nayarit representado por su Trigésima Primera Legislatura, de conformidad a lo dispuesto por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos, y el artículo segundo transitorio del Código Nacional de Procedimientos Penales publicados con fecha 18 de junio de 2008 y 05 de marzo de 2014, respectivamente, en el Diario Oficial de la Federación, emite la presente Ampliación a la Declaratoria de entrada en vigor del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit, publicada el 18 de agosto de 2014 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y que entró en vigor a partir del día 15 de diciembre de 2014, en los siguientes términos:
+
+I. Con fecha 31 de diciembre de 2015 entrarán en vigor:
+
+a) En los municipios de Santa María del Oro, Tepic y Xalisco, Nayarit, la totalidad de los delitos que no ameritan prisión preventiva oficiosa.
+
+b) En todo el territorio del Estado los delitos de homicidio, secuestro, extorsión, narcomenudeo y abigeato.
+
+Estos delitos se juzgarán conforme lo determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
+
+II. Con fecha 30 de abril de 2016 entrarán en vigor:
+
+a) En los municipios de Bahía de Banderas, Compostela y San Pedro Lagunillas, Nayarit, la totalidad de los delitos que no ameritan prisión preventiva oficiosa.
+
+b) En todo el territorio del Estado los delitos de fraude, abuso de confianza y robo calificado.
+
+Estos delitos se juzgarán conforme lo determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
+
+III. Con fecha 31 de mayo de 2016 entrarán en vigor en todo el territorio del Estado el resto de los delitos contemplados en el Código Penal para el Estado de Nayarit y aquellos en los cuales los tribunales del Estado sean competentes.
+
+Artículo Segundo.- Cuando se actualice algún concurso de delitos y alguno o algunos de ellos ya se encuentren incorporados al nuevo sistema de justicia penal conforme a la presente Declaratoria, el proceso se substanciará conforme a éste.
+
+Artículo Tercero.- Para efectos del artículo segundo transitorio, párrafo segundo, del Código Nacional de Procedimientos Penales, dicho ordenamiento entrará en vigor en los mismos términos que se señalan en el Artículo Primero de la presente Ampliación de Declaratoria.
+
+## Artículos Transitorios
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- La presente Declaratoria deberá difundirse mediante Bando Solemne en el Estado de Nayarit.
+
+Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las Legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
+
+Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaria Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
+
+Dado en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del Honorable Congreso del Estado de Nayarit, en Tepic, su capital, a los seis días del mes de octubre del año dos mil quince.
+
+Dip. Jorge Humberto Segura López, Presidente.- Rúbrica.- Dip. María Angélica Sánchez Cervantes, Secretaria.- Rúbrica.- Dip. José Ángel Martínez Inurriaga, Secretario.- Rúbrica.
+
+Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los nueve días del mes de Octubre del año dos mil quince.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
