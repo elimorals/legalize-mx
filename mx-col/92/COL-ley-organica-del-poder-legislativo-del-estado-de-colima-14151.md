@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2015-10-01"
+last_updated: "2015-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -645,21 +645,27 @@ Los Secretarios gozan de fe pública en todo lo relativo al ejercicio de sus fun
 
 DE LA COMISION DE GOBIERNO INTERNO Y ACUERDOS PARLAMENTARIOS.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
-
 ###### ARTICULO 47.
 
-La Comisión de Gobierno será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria de la Legislatura.
+La Comisión de Gobierno, será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria y durará en su ejercicio todo el período constitucional de la Legislatura.
 
-La Comisión de Gobierno se integrará por los coordinadores de los grupos parlamentarios acreditados y se formará con un Presidente, dos Secretarios y vocales, en su caso, quienes tendrán derecho a voz y voto. El Diputado único de un partido político y el Diputado independiente que, por esa razón, no integren grupo parlamentario, también formarán parte de la Comisión de Gobierno en calidad de vocales.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2015)</small>
 
-La Presidencia de la Comisión de Gobierno será ejercida por el Coordinador del Grupo Parlamentario, Diputado único de partido político o Diputado independiente que obtenga la mayoría de votos de los integrantes de la misma, quien ejercerá la presidencia durante el ejercicio constitucional de la Legislatura.
+La Comisión de Gobierno se integrará por los Coordinadores de los grupos parlamentarios acreditados y se formará con un Presidente, uno o dos Secretarios y vocales, en su caso.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2015)</small>
+
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2003)</small>
+
+La Presidencia de la Comisión de Gobierno será electa por voto ponderado de los Coordinadores, de conformidad con el artículo siguiente. En caso de que ningún Coordinador de grupo parlamentario, por sí sólo, represente la mayoría absoluta, la presidencia recaerá en el Coordinador del grupo parlamentario que tenga el mayor número de Diputados. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de mayoría relativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 48.
 
-Las resoluciones de la Comisión de Gobierno serán tomadas por mayoría de sus integrantes.
+Las resoluciones de la Comisión de Gobierno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al porcentaje que represente el número de Diputados que formen parte de su grupo parlamentario en relación al total que integren el Congreso.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -685,9 +691,7 @@ III.- Aprobar el nombramiento y remoción de los directores, servidores público
 
 IV.- Proponer a la Asamblea, la integración de las comisiones permanentes y especiales y, en su caso, a quienes deban sustituirlos cuando proceda;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2015)</small>
-
-V.- Elaborar, conjuntamente con la Comisión de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, el anteproyecto de presupuesto anual de egresos del Congreso y presentarlo a la Asamblea para su aprobación;
+V.- Elaborar, conjuntamente con la Comisión de Hacienda y Presupuesto, el anteproyecto de presupuesto anual de egresos del Congreso y presentarlo a la Asamblea para su aprobación;
 
 VI.- Ejercer el presupuesto de egresos del Poder Legislativo e informar por escrito trimestralmente a la Asamblea;
 
@@ -739,37 +743,9 @@ Es atribución de la Comisión de Gobierno, llevar a cabo los acuerdos parlament
 
 Corresponde a la Comisión de Gobierno así como al Oficial Mayor, el control y la vigilancia de los servidores públicos del Poder Legislativo, así como la aplicación de sanciones a que se hagan acreedores en el desempeño de sus labores, en los términos de la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+### CAPITULO VI
 
-ARTICULO 54 BIS.- La Comisión de Gobierno se auxiliará de una Secretaría Técnica, cuyo titular será nombrado por la mayoría de sus integrantes, a propuesta del Presidente.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE OCTUBRE DE 2015)</small>
-
-### CAPITULO V BIS. DE LA UNIDAD DE IGUALDAD DE GÉNERO
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2015)</small>
-
-ARTICULO 54 TER.- La Comisión de Gobierno instalará, como uno de los órganos de apoyo de la Oficialía Mayor, una Unidad de Igualdad de Género, quien estará encargada de institucionalizar y transversalizar el tema de la equidad entre mujeres y hombres, en el Congreso.
-
-Las funciones de esta Unidad, de manera enunciativa y no limitativa, serán:
-
-I. Coordinar esfuerzos con la Comisión de Equidad de Género, para auxiliar a ésta en sus funciones;
-
-II. Verificar la incorporación y transversalidad de la perspectiva de género en la planeación, programación y presupuestación del Congreso;
-
-III. Coordinar la formación, capacitación y certificación del personal en materia de género e igualdad;
-
-IV. Establecer y concretar acuerdos con el Congreso para ejecutar las políticas, acciones y programas de su competencia;
-
-V. Promover y coordinar la elaboración de un Plan de Acción para la Igualdad en el Congreso;
-
-VI. Coordinar con el Instituto Nacional de las Mujeres y con organismos locales, acciones que el Congreso realice en materia de política pública;
-
-VII. Planificar y promover estudios e investigaciones para crear un sistema informativo, de registro, seguimiento y evaluación de la situación de mujeres y hombres en el ámbito de la competencia del Congreso; y
-
-VIII. Elaborar y difundir informes de evaluación periódica, que den cuenta de los resultados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por el Congreso en el cumplimiento de las medidas de igualdad.
-
-El Titular de la Unidad de Igualdad de Género, y el personal necesario para su funcionamiento, serán designados de entre el personal adscrito al Congreso, y no percibirán remuneración adicional a la que corresponde al cargo que desempeñan.
+DE LAS COMISIONES LEGISLATIVAS.
 
 ###### ARTICULO 55.
 
@@ -843,23 +819,31 @@ Estas comisiones permanentes serán por todo el ejercicio constitucional. A peti
 
 Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas y demás asuntos que les sean turnados por la Directiva o la Asamblea y presentarán por escrito su dictamen en los plazos previstos por el artículo 92 del presente ordenamiento que iniciaran a partir del día siguiente de recibir los expedientes respectivos. Las comisiones dispondrán de recursos económicos para el desempeño de sus programas, de conformidad con las disponibilidades presupuestales del Congreso; el Presidente de cada comisión presentará anualmente el programa de trabajo correspondiente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTICULO 58.
 
-Las Comisiones serán electas por mayoría calificada y estarán integradas por tres diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios.
+Las comisiones serán electas por mayoría simple y estarán integradas por tres Diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios.
 
-Las Comisiones de Responsabilidades, de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos y de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, se integrarán por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo. La Comisión de Derechos Humanos, Asuntos Indígenas y Atención al Migrante estará integrada por siete Diputados.
+En caso de no lograrse la mayoría simple, las comisiones serán asignadas entre los grupos parlamentarios en proporción al número de Diputados que los integran en relación con el total de los que conforman al Congreso.
 
-El grupo parlamentario que presida una Comisión tendrá mayoría al interior de la misma y, en el caso de que quien presida la Comisión sea Diputado Único de un partido político o independiente, aquélla se integrará en forma plural sin preeminencia alguna. El grupo parlamentario que tenga mayor número de Diputados será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y si varios coinciden en éste, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada.
+Las Comisiones de Responsabilidades y de Hacienda, Presupuesto y Fiscalización de los Recursos Públicos, respectivamente, se integrarán por cinco Diputados, de conformidad con los términos que señale el Reglamento respectivo.
+
+La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado estará integrará por cinco Diputados y será asignada la presidencia de la misma al grupo parlamentario que represente la primera minoría. En caso de que el titular del Poder Ejecutivo pertenezca al partido político de primera minoría esta responsabilidad recaerá a la segunda minoría.
+
+La Comisión de Vigilancia del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, tendrá las facultades previstas en la Ley de la materia. La Comisión de Derechos Humanos, Asuntos Indígenas y Atención al Migrante estará integrada por siete Diputados.
+
+El grupo parlamentario que presida una Comisión tendrá mayoría al interior de la misma y en el caso de que quien presida la Comisión sea Diputado Único de un partido político, aquella se integrará en forma plural sin preeminencia alguna. El grupo parlamentario que tenga mayor número de Diputados será el primero en seleccionar. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que tenga mayor número de curules de mayoría relativa y si varios coinciden en éste, la tendrá el que hubiere obtenido el mayor número de votos en la elección correspondiente. Los integrantes de las Comisiones podrán ser removidos por incumplimiento de sus funciones, que será decidida por la Asamblea por mayoría calificada.
 
 ###### ARTICULO 59.
 
 Las comisiones especiales tendrán la competencia que se les atribuya en el acto de su designación, mismas que contarán con el número de miembros que la Asamblea determine y fungirán por el tiempo que se requiera para el despacho de los asuntos que les dieron origen.
 
-### CAPITULO VI
+### CAPITULO VI (SIC)
 
-DE LAS COMISIONES LEGISLATIVAS.
+DE LOS ORGANOS DE FISCALIZACION Y ADMINISTRACION DEL CONGRESO.
 
 ###### ARTICULO 60.
 
@@ -887,11 +871,9 @@ Para elegir al Auditor Superior del Estado el Congreso emitirá la convocatoria 
 
 Las facultades, atribuciones y organización del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, se regulan conforme a lo establecido en su Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2015)</small>
+###### ARTICULO 63.
 
-###### ARTÍCULO 63.
-
-La Oficialía Mayor es el órgano técnico administrativo dependiente y auxiliar del Congreso, que se encarga de la coordinación, supervisión y ejecución de las tareas que permitan el mejor cumplimiento de las funciones legislativas, jurisdiccionales y la atención eficiente de las necesidades administrativas y financieras. Tendrá las atribuciones que le señale el Reglamento.
+La Oficialía Mayor es el órgano técnico administrativo dependiente y auxiliar del Congreso, para la atención y realización de los asuntos legislativos del mismo. Tendrá las funciones que le señale el Reglamento.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -899,9 +881,9 @@ Será aprobado por el Congreso, a propuesta de la Comisión de Gobierno y por ma
 
 Para ser Oficial Mayor se requiere: ser mexicano por nacimiento, mayor de 25 años, estar en pleno ejercicio de sus derechos, profesionista titulado, preferentemente Licenciado en Derecho y ser de reconocida capacidad y probidad en el ejercicio de su profesión.
 
-### CAPITULO VI (SIC)
+### CAPITULO VIII
 
-DE LOS ORGANOS DE FISCALIZACION Y ADMINISTRACION DEL CONGRESO.
+DE LOS GRUPOS PARLAMENTARIOS.
 
 ###### ARTICULO 64.
 
@@ -955,15 +937,13 @@ Cuando un Diputado sea el único acreditado por un partido político o se haya d
 
 Los grupos parlamentarios están obligados a destinar los recursos que se les otorguen exclusivamente para el cumplimiento de sus funciones, y deberán rendir un informe anual de su aplicación y manejo al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, para los efectos de la Cuenta Pública.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2015)</small>
-
 ## TITULO TERCERO
 
 DEL PROCEDIMIENTO Y PRACTICAS PARLAMENTARIAS.
 
-### CAPITULO VIII
+### CAPITULO I
 
-DE LOS GRUPOS PARLAMENTARIOS.
+DE LAS SESIONES.
 
 ###### ARTICULO 71.
 
@@ -1097,31 +1077,9 @@ Para que puedan instalarse válidamente las sesiones del Congreso, será necesar
 
 Durante el desarrollo de las sesiones a propuesta de uno o más Diputados o por iniciativa propia, el Presidente podrá decretar recesos en las mismas, siempre y cuando sea para concertar un acuerdo parlamentario, integrar debidamente un expediente, modificar un dictamen de comisiones o cuando por la importancia de algún asunto que surja en la discusión o debate, así se considere conveniente.
 
-### CAPITULO IX. DE LA EVALUACIÓN Y DEL INFORME ANUAL DEL CONGRESO
+### CAPITULO II
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2015)</small>
-
-ARTICULO 70 BIS.- El Congreso del Estado, a través de su Presidente, deberá rendir cada año, en sesión solemne a la que se invite al Gobernador del Estado y al representante del Poder Judicial del Estado, un informe de actividades.
-
-Este informe debe contener, al menos:
-
-I. La descripción de los trabajos legislativos más relevantes realizados durante el año de que se trate por parte del Pleno, las Comisiones Legislativas y los Grupos Parlamentarios;
-
-II. Los avances en el área de fiscalización y transparencia de los recursos públicos;
-
-III. Los avances en el cumplimiento de la agenda legislativa; y
-
-IV. Un apartado derivado de la aplicación del modelo de evaluación del desempeño legislativo.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2015)</small>
-
-ARTICULO 70 TER.- El modelo de evaluación del desempeño legislativo es el documento previamente aprobado por el Pleno del Congreso, que correrá a cargo de la Comisión de Gobierno, en el cual se establecerá el sistema de evaluación del trabajo legislativo cada año. Dicho modelo contendrá, por lo menos, los siguientes índices:
-
-I. Índice de eficiencia y transparencia legislativa;
-
-II. Índice de control y fiscalización gubernamental; y
-
-III. Índice de impacto social y logro de la agenda legislativa, por grupo parlamentario y comisión legislativa.
+DE LAS INICIATIVAS.
 
 ###### ARTICULO 83.
 
@@ -1185,9 +1143,9 @@ Desechada una iniciativa en su discusión en lo general, no podrá volver a pres
 
 En la reforma, derogación o abrogación de leyes, decretos y acuerdos del Congreso, se observarán los mismos trámites establecidos para su formación.
 
-### CAPITULO I
+### CAPITULO III
 
-DE LAS SESIONES.
+DE LOS DICTAMENES.
 
 ###### ARTICULO 90.
 
@@ -1229,9 +1187,9 @@ Las comisiones procederán a estudiar, analizar y dictaminar las iniciativas de 
 
 Presentados los dictámenes se les dará lectura y concluida la misma, el Congreso acordará si se procede a la discusión y votación o se produce una segunda lectura, en cuyo caso ésta se remitirá a la siguiente sesión. Las discusiones y los trámites se sujetarán a lo que disponga el Reglamento.
 
-### CAPITULO II
+### CAPITULO IV
 
-DE LAS INICIATIVAS.
+DE LAS VOTACIONES.
 
 ###### ARTICULO 94.
 
@@ -1277,9 +1235,11 @@ Una vez discutidos los dictámenes serán calificados por el Congreso mediante v
 
 DE LAS FACULTADES DEL CONGRESO.
 
-### CAPITULO III
+### CAPITULO I
 
-DE LOS DICTAMENES.
+DE LAS FACULTADES DEL CONGRESO EN LA ELECCION O NOMBRAMIENTO DE GOBERNADOR.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 99.
 
@@ -1305,10 +1265,6 @@ En los supuestos del presente artículo, quien venga fungiendo como Secretario G
 
 EN MATERIA DE RESPONSABILIDADES.
 
-### CAPITULO IV
-
-DE LAS VOTACIONES.
-
 ###### ARTICULO 101.
 
 Para conocer sobre la responsabilidad de los funcionarios públicos, a que se refiere el capítulo único del título XI de la Constitución, en materia de juicio político, el Congreso deber (sic) erigirse previamente en jurado de acusación, siguiendo el procedimiento establecido en la Ley Estatal de Responsabilidades de los Servidores Públicos.
@@ -1332,12 +1288,6 @@ DE LA DIPUTACION PERMANENTE.
 DE SU INTEGRACION Y FACULTADES.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
-
-### CAPITULO I
-
-DE LAS FACULTADES DEL CONGRESO EN LA ELECCION O NOMBRAMIENTO DE GOBERNADOR.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 104.
 
@@ -1511,7 +1461,7 @@ P.O. 27 DE JULIO DE 2013.
 
 DECRETO No. 132, POR EL QUE SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 66 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " (sic )El Estado de Colima.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " (sic ) El Estado de Colima.
 
 P.O. 12 DE OCTUBRE DE 2013.
 
@@ -1527,4 +1477,12 @@ P.O. 12 DE SEPTIEMBRE DE 2015.
 
 P.O. 1 DE OCTUBRE DE 2015.
 
+> <small>N. DE E. POR DECRETO No. 02 PUBLICADO EN EL P.O. DE 10 DE OCTUBRE DE 2015, SE ABROGA EL DECRETO NÚMERO 599 APROBADO EL DÍA 30 DE SEPTIEMBRE DE 2015, MEDIANTE EL CUAL SE MODIFICARON DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO.</small>
+
 ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Al momento de la aprobación del presente, se deberá nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
