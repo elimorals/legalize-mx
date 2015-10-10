@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2015-10-01"
+last_updated: "2015-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -479,11 +479,11 @@ La Comisión de Gobierno se integrará por los coordinadores de los grupos parla
 
 La presidencia de la Comisión de Gobierno será ejercida por el Coordinador del Grupo Parlamentario, Diputado único de partido político o Diputado independiente que obtenga la mayoría de votos de los integrantes de la misma, quien ejercerá la presidencia durante el ejercicio constitucional de la Legislatura.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-Las Secretarías serán ocupadas por los coordinadores de los grupos parlamentarios que representen el mayor número de diputados, exceptuando a quien la presida o haya sido electo para presidir la Comisión de Gobierno; los demás coordinadores y los diputados únicos de un partido tendrán el carácter de vocales.
+La Comisión de Gobierno será presidida por el Coordinador del Grupo parlamentario que por sí solo represente la mayoría absoluta y en caso de que ningún coordinador de grupo parlamentario por si solo la represente, recaerá en el coordinador del grupo parlamentario que tenga el mayor número de diputados en los términos del último párrafo del artículo 47 de la Ley. Cuando según la conformación de la legislatura existan dos grupos parlamentarios solo se elegirá una Secretaria, cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los grupos parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados que representen; los demás coordinadores tendrán el carácter de vocales.
 
 En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisión, una vez efectuado éste, se emitirá acuerdo parlamentario reconociéndolo como Presidente de la misma, debiendo comunicarlo a las autoridades e instituciones correspondientes.
 
@@ -2758,3 +2758,9 @@ P.O. 12 DE SEPTIEMBRE DE 2015.
 P.O. 1 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 10 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Al momento de la aprobación del presente, se deberá nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
