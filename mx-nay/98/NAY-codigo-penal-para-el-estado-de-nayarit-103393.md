@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2015-10-03"
+last_updated: "2015-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,13 @@ state: "NAY"
 ---
 # CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE NOVIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.</small>
+NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE MEDIANTE BANDO SOLEMNE EMITA EL CONGRESO DEL ESTADO DE NAYARIT, PREVIA SOLICITUD DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN DE COORDINACIÓN INTERINSTITUCIONAL PARA LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO; LA VIGENCIA TOTAL DEL PRESENTE CÓDIGO NO PODRÁ EXCEDER DEL 18 DE JUNIO DE 2016.
 
-> <small>N. DE E. LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014.</small>
+NOTA 2: LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014 Y SU AMPLIACIÓN DE 10 DE OCTUBRE DE 2015, PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -3623,9 +3621,9 @@ Se impondrá de tres a siete años de prisión y multa hasta el equivalentes (si
 
 Igual sanción se aplicará a quien no procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa va a cometerse o se estén cometiendo si son de los que se persiguen de oficio.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2015)</small>
+(REFORMADO, P.O. 3 DE OCTUBRE DE 2015) (F. DE E., P.O. 7 DE NOVIEMBRE DE 2015)
 
-Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente de cien días de salario, cuando el encubrimiento sea respecto de delitos de asalto, secuestro, violación, homicidio doloso, parricidio, filicidio u homicidio contra la mujer por razón de misoginia.
+Se impondrá de cuatro a diez años de prisión y multa hasta el equivalente de cien días de salario, cuando el encubrimiento sea respecto de delitos de asalto, violación, homicidio doloso, parricidio, filicidio u homicidio contra la mujer por razón de misoginia.
 
 ###### ARTÍCULO 418.
 
@@ -3784,3 +3782,47 @@ DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 46, Y SE ADICIONA 
 P.O. 3 DE OCTUBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 10 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL DECRETO QUE SE RELACIONA CON EL ORDENAMIENTO.</small>
+
+DECRETO
+
+El Congreso del Estado Libre y Soberano de Nayarit representado por su XXXI Legislatura, decreta:
+
+Ampliación a la Declaratoria de Implementación del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit
+
+Artículo Primero.- El Honorable Congreso del Estado de Nayarit representado por su Trigésima Primera Legislatura, de conformidad a lo dispuesto por el artículo segundo transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos, y el artículo segundo transitorio del Código Nacional de Procedimientos Penales publicados con fecha 18 de junio de 2008 y 05 de marzo de 2014, respectivamente, en el Diario Oficial de la Federación, emite la presente Ampliación a la Declaratoria de entrada en vigor del Sistema de Justicia Penal Acusatorio en el Estado de Nayarit, publicada el 18 de agosto de 2014 en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, y que entró en vigor a partir del día 15 de diciembre de 2014, en los siguientes términos:
+
+I. Con fecha 31 de diciembre de 2015 entrarán en vigor:
+
+a) En los municipios de Santa María del Oro, Tepic y Xalisco, Nayarit, la totalidad de los delitos que no ameritan prisión preventiva oficiosa.
+
+b) En todo el territorio del Estado los delitos de homicidio, secuestro, extorsión, narcomenudeo y abigeato.
+
+Estos delitos se juzgarán conforme lo determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
+
+II. Con fecha 30 de abril de 2016 entrarán en vigor:
+
+a) En los municipios de Bahía de Banderas, Compostela y San Pedro Lagunillas, Nayarit, la totalidad de los delitos que no ameritan prisión preventiva oficiosa.
+
+b) En todo el territorio del Estado los delitos de fraude, abuso de confianza y robo calificado.
+
+Estos delitos se juzgarán conforme lo determine el Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Nayarit.
+
+III. Con fecha 31 de mayo de 2016 entrarán en vigor en todo el territorio del Estado el resto de los delitos contemplados en el Código Penal para el Estado de Nayarit y aquellos en los cuales los tribunales del Estado sean competentes.
+
+Artículo Segundo.- Cuando se actualice algún concurso de delitos y alguno o algunos de ellos ya se encuentren incorporados al nuevo sistema de justicia penal conforme a la presente Declaratoria, el proceso se substanciará conforme a éste.
+
+Artículo Tercero.- Para efectos del artículo segundo transitorio, párrafo segundo, del Código Nacional de Procedimientos Penales, dicho ordenamiento entrará en vigor en los mismos términos que se señalan en el Artículo Primero de la presente Ampliación de Declaratoria.
+
+## Artículos Transitorios
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- La presente Declaratoria deberá difundirse mediante Bando Solemne en el Estado de Nayarit.
+
+Tercero.- Para su conocimiento y efectos conducentes, remítase el presente Decreto a las Cámaras que componen el Honorable Congreso de la Unión, a las Legislaturas estatales y a la Asamblea Legislativa del Distrito Federal.
+
+Cuarto.- Comuníquese el presente Decreto a la Secretaría de Gobernación del Gobierno de la República, por conducto de la Secretaría Técnica del Consejo de Coordinación para la Implementación del Sistema de Justicia Penal.
