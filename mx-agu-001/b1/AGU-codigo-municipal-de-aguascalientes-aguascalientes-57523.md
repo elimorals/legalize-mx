@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-09-14"
+last_updated: "2015-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -893,9 +893,13 @@ Cuando se rechace por el Cabildo la iniciativa de una norma municipal no podrá 
 
 Para que un proyecto de norma municipal se entienda aprobado, es preciso el voto en sentido afirmativo, tanto en lo general como en lo particular de la mayoría del Cabildo.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 77.
 
-Aprobado por el Cabildo, en los términos del artículo que antecede, el Secretario del H. Ayuntamiento deberá realizar las gestiones necesarias para el efecto llevar a cabo la publicación de la misma en el Periódico Oficial del Estado.
+Aprobado por el Cabildo, en términos del artículo que antecede, el Secretario del H. Ayuntamiento y Director General de Gobierno deberá realizar, en un plazo máximo de quince días hábiles contados a partir de la Sesión en que se apruebe la disposición jurídica, las gestiones necesarias para el efecto de llevar a cabo la publicación de la misma en el Periódico Oficial del Estado.
+
+En caso de incumplimiento, el servidor público aludido será amonestado públicamente en Sesión de Cabildo. En caso de reincidencia, procederá su remoción inmediata.
 
 ###### ARTÍCULO 78.
 
@@ -23304,3 +23308,7 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 637 EN SU FRACCIÓN VII Y 639 EN S
 PRIMERO.- La presente reforma al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La exigencia de responsiva de Perito Especializado para obtener las Licencias en los casos señalados en los incisos a) al e) de la fracción VII del Artículo 637 del Código Municipal de Aguascalientes, iniciará hasta en tanto exista Registro de Peritos Especializados en Urbanismo, para lo cual, la Secretaría de Desarrollo Urbano y la Comisión de Peritos realizarán las acciones conducentes para el proceso de selección, evaluación, y registro de dichos peritos.
+
+P.O. 12 DE OCTUBRE DE 2015.
+
+ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
