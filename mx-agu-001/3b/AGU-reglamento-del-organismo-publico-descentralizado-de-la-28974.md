@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-organismo-publico-descentralizado-de-la-28974"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-04-11"
-last_updated: "1999-04-11"
+last_updated: "2015-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DEL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO COMISION CIUDADANA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 11 de abril de 1999.
 
@@ -417,11 +417,39 @@ El Director General elaborará formatos que serán utilizados para que los conce
 
 Los actos jurídicos por los que se adquieran bienes o servicios se celebrarán conforme a los siguientes procedimientos:
 
-I.- Por adjudicación directa cuando se trate de artículos o bienes de fabricación exclusiva para distintos fines o cuando su monto sea menor a trescientos días de salario mínimo general vigente en el Estado a la fecha de compra;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
 
-II.- Por invitación a los proveedores principales de la Comisión en el giro a que corresponda la operación, que ofrezcan los mejores precios y calidad, por un monto entre trescientos y cinco mil días de salario mínimo general vigente en el Estado a la fecha de compra; y
+I. Por adjudicación directa cuando se trate de artículos o bienes de fabricación exclusiva para distintos fines o cuando su monto sea de uno hasta cien mil pesos a la fecha de compra incluido el impuesto;
 
-III.- Por licitación pública en operaciones con valor superior al equivalente a cinco mil días de salario mínimo general vigente en el Estado a la fecha de compra.
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+
+II. Por invitación a los proveedores principales de la Comisión en el giro a que corresponda la operación, que ofrezcan los mejores precios y calidad con valor superior a ciento un mil pesos y hasta un quinientos mil pesos a la fecha de compra incluido el impuesto; y
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2015)</small>
+
+III. Por licitación pública en operaciones con valor superior a quinientos un mil pesos a la fecha de compra incluido el impuesto.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 24 BIS.- Se crea el Comité Interno de Adquisiciones de la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes, mismo que atenderá todas las adquisiciones del organismo con excepción de aquellas relacionadas con la Obra Pública, y se conformara con los siguientes integrantes:
+
+I.- Un Presidente, que será el Titular de la Dirección General de CCAPAMA, con voz y voto.
+
+II.- Un Secretario Ejecutivo, que será el Titular de la Dirección Administrativa de CCAPAMA, con voz y voto.
+
+III.- Tres vocales con voz y voto que serán:
+
+a) Un representante de la Secretaria de Finanzas del Municipio de Aguascalientes con puesto no menor a dirección.
+
+b) Un representante del Instituto Municipal de Planeación con puesto no menor a Jefe de Departamento.
+
+c) Un representante de los Regidores que deberá ser el titular de la Presidencia de la Comisión Permanente de Agua Potable, Alcantarillado y Saneamiento del Municipio de Aguascalientes.
+
+IV.- Dos vocales con voz pero sin voto que serán:
+
+a) Un representante de la Contraloría Interna del Municipio de Aguascalientes; y
+
+b) Un representante de la Dirección Técnica de CCAPAMA.
 
 ###### ARTICULO 25.
 
@@ -528,3 +556,13 @@ Sergio Molina Contreras.
 LIC. JORGE MAURICIO MARTINEZ ESTEBANEZ,
 
 Secretario del H. Ayuntamiento y Director General de Gobierno.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA REFORMA AL "ARTÍCULO 24 Y SE ADICIONA EL ARTÍCULO 24 BIS DEL REGLAMENTO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO COMISIÓN CIUDADANA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE AGUASCALIENTES (CCAPAMA)”.]
+
+PRIMERO.- Dentro de los 90 días naturales a la entrada en vigor de la presente reforma, la Comisión Permanente de Agua Potable, Alcantarillado y Saneamiento del Municipio de Aguascalientes, previo estudio creara el Reglamento del Comité Interno de Adquisiciones de la Comisión Ciudadana de Agua Potable y Alcantarillado del Municipio de Aguascalientes; señalando que si durante este lapso dicho Organismo Público Descentralizado se encontrara en alguna condición no prevista para su desarrollo, deberá aplicar de manera supletoria el Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes.
+
+SEGUNDO.-La presente reforma entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes con fundamento en el Artículo 94 de la Ley Municipal para el Estado de Aguascalientes, y el Artículo 78 del Código Municipal de Aguascalientes.
