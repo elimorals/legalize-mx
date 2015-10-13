@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-08-26"
+last_updated: "2015-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2015 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -1609,9 +1611,13 @@ X. Cualquier informe que la Sala Superior, el Presidente o los Magistrados visit
 
 La Junta evaluará el Sistema de Control y Seguimiento de Juicios así como el Sistema de Justicia en Línea y, en su caso, autorizará las propuestas de adecuaciones necesarias para optimizar su operación.
 
-> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2015)</small>
 
-En caso de ser necesario corregir la información contenida en los Sistemas del Tribunal, las Salas Regionales deberán solicitarlo a la Contraloría Interna, para que por conducto de la Unidad de Seguimiento de Visitas, someta la solicitud a consideración de la Junta, y una vez autorizada, la Dirección General del Sistema de Justicia en Línea podrá efectuar la corrección.
+En caso de que exista la necesidad de corregir la información contenida en los Sistemas del Tribunal, las Salas deberán solicitarlo conforme a los procedimientos autorizados por la Junta para que, en su caso, la Dirección General del Sistema de Justicia en Línea proceda a implementar las adecuaciones respectivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE OCTUBRE DE 2015)</small>
+
+Para tal efecto, la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones implementará un mecanismo eficiente de captura, control y estadística de las solicitudes de corrección al SICSEJ y/o SJL, de las acciones que se lleven a cabo para ese efecto, y de las causas que originaron las correcciones.
 
 ### Capítulo XIII. Del Sistema de Justicia en Línea
 
@@ -1913,13 +1919,25 @@ XIII. Coadyuvar en la preparación de la memoria anual de funcionamiento del Tri
 
 XIV. Supervisar el correcto funcionamiento de las Unidades de Peritos y de Enlace, y
 
-> <small>(REFORMADA, D.O.F. 18 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 13 DE OCTUBRE DE 2015)</small>
 
-XV. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que competan a las unidades administrativas que tenga adscritas.
+XV. Llevar la estadística de las observaciones o recomendaciones definitivas formuladas al término del proceso de visita y conservar los archivos electrónicos en formato .PDF generados por los magistrados visitadores durante dicho proceso;
 
-> <small>(ADICIONADO, D.O.F. 21 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 2015)</small>
 
-Sin perjuicio del ejercicio directo de las atribuciones establecidas en el presente artículo por parte del Secretario Auxiliar, a los Directores de Area adscritos a la Secretaría Auxiliar de la Junta corresponderá el ejercicio de las atribuciones previstas en las fracciones I, II, VII, IX, X y XIII de este artículo, y a los Actuarios adscritos a dicha unidad corresponderá el ejercicio de la atribución prevista en la fracción XII del presente artículo.
+XVI. Gestionar las solicitudes de corrección a la información contenida en los Sistemas del Tribunal, presentadas por las Salas, y llevar el control y la estadística de dichas solicitudes, registrando las acciones que se lleven a cabo para ese efecto y las causas que originaron las correcciones;
+
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 2015)</small>
+
+XVII. Someter a consideración de la Junta las propuestas de modificación a los Lineamientos sobre el proceso de visita, que elaboren los magistrados visitadores, y
+
+> <small>(ADICIONADA, D.O.F. 13 DE OCTUBRE DE 2015)</small>
+
+XVIII. Las demás que le confieran las disposiciones jurídicas y la Junta, así como las que competan a las unidades administrativas que tenga adscritas.
+
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2015)</small>
+
+Sin perjuicio del ejercicio directo de las atribuciones establecidas en el presente artículo por parte del titular de la Secretaría Auxiliar, corresponderá a los Directores de Área adscritos a la misma el ejercicio de las previstas en las fracciones I, II, VII, IX, X, XIII, XV, XVI y XVII, mientras que a los Actuarios el ejercicio de la atribución prevista en la fracción XII.
 
 ### Capítulo XVII. De las Unidades Administrativas de la Junta
 
@@ -2443,7 +2461,7 @@ X. Realizar auditorías de desempeño y promover las medidas preventivas que cor
 
 XI. Expedir y certificar las copias de documentos o constancias que existan en sus archivos, cuando proceda o a petición de autoridad competente;
 
-XII. Coadyuvar con la Junta, en el seguimiento de las recomendaciones u observaciones resultado de las visitas realizadas a las Salas Regionales por los Magistrados integrantes de la Junta, así como en la integración, clasificación y conservación de la documentación e información que le proporcionen con motivo de las visitas, y
+XII. (DEROGADA, D.O.F. 13 DE OCTUBRE DE 2015)
 
 > <small>(REFORMADA, D.O.F. 26 DE AGOSTO DE 2015)</small>
 
@@ -2461,31 +2479,13 @@ XV. Intervenir, por conducto de la Coordinación General de Control Interno y Au
 
 XVI. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias, así como las que competan a las unidades administrativas que tenga adscritas.
 
-> <small>(REFORMADO, D.O.F. 26 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 13 DE OCTUBRE DE 2015)</small>
 
-Para el desempeño de sus funciones, la Contraloría Interna contará y tendrá adscritas a las Coordinaciones Generales de Auditoría; la de Quejas, Denuncias, Responsabilidades y Registro Patrimonial y la de Control Interno y Auditoría del Desempeño, y para el ejercicio de las atribuciones previstas en la fracción XII de este artículo contará con la Unidad de Seguimiento de Visitas.
-
-> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
+Para el desempeño de sus funciones, la Contraloría Interna contará y tendrá adscritas a las Coordinaciones Generales de Auditoría; la de Quejas, Denuncias, Responsabilidades y Registro Patrimonial y la de Control Interno y Auditoría del Desempeño.
 
 ###### Artículo 95.
 
-A la Unidad de Seguimiento de Visitas corresponde:
-
-I. Apoyar a la Contraloría Interna, en el registro, control y seguimiento de las visitas efectuadas por los Magistrados Integrantes de la Junta a las Salas Regionales, incluyendo el seguimiento de las recomendaciones u observaciones resultado de dichas visitas, así como rendir los informes relativos a su cumplimiento, conforme a las instrucciones de la Contraloría Interna y los lineamientos jurídicos emitidos para tal efecto;
-
-II. Compilar y difundir las normas y lineamientos que se dicten para la realización de las visitas, así como los estándares o procedimientos internos de las Salas Regionales que regulen las actividades materia de revisión y evaluación por parte de la Junta;
-
-III. Coadyuvar con la Dirección General del Sistema de Justicia en Línea, en la verificación aleatoria de la autenticidad de los datos que proporcionen las Salas Regionales en los informes estadísticos mensuales, informando de ello a la Junta por conducto de la Contraloría Interna;
-
-IV. Recibir y analizar las solicitudes de corrección a la información contenida en el Sistema de Control y Seguimiento de Juicios, sometiéndolas por conducto de la Contraloría Interna a la autorización de la Junta y en su caso, remitirlas a la Dirección General del Sistema de Justicia en Línea para su corrección;
-
-V. Verificar que la Dirección General del Sistema de Justicia en Línea, realice las correcciones a la información contenida en el Sistema de Control y Seguimiento de Juicios, autorizadas por la Junta;
-
-VI. Proponer a la Contraloría Interna, para su presentación a la Junta, políticas y procedimientos para el seguimiento de las visitas, con el fin de asegurar la correcta administración y la disponibilidad inmediata de la información relativa al cumplimiento de las observaciones y recomendaciones realizadas por los Magistrados integrantes de la Junta, y
-
-> <small>(F. DE E., D.O.F. 15 DE ABRIL DE 2014)</small>
-
-VII. Las demás que le confieran las disposiciones jurídicas aplicables y los acuerdos que expida el Pleno Jurisdiccional de la Sala Superior y la Junta, en el ámbito de sus respectivas competencias.
+(DEROGADO, D.O.F. 13 DE OCTUBRE DE 2015)
 
 ###### Artículo 96.
 
@@ -2507,7 +2507,9 @@ IV. Verificar que se cumplan las observaciones formuladas por actos de fiscaliza
 
 V. Formular, en su caso, los manuales, guías, instructivos y procedimientos necesarios para la práctica de las auditorías;
 
-VI. Turnar a la Dirección de Quejas, Denuncias y Responsabilidades los expedientes, dictámenes técnicos y contables relativos a las investigaciones y auditorías que se hubieran practicado, cuando de las mismas se deriven presuntas responsabilidades;
+> <small>(REFORMADA, D.O.F. 13 DE OCTUBRE DE 2015)</small>
+
+VI. Turnar a la Coordinación General de Quejas, Denuncias, Responsabilidades y Registro Patrimonial los expedientes, dictámenes técnicos y contables relativos a las investigaciones y auditorías que se hubieran practicado, cuando de las mismas se deriven presuntas responsabilidades.
 
 > <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2011)</small>
 
@@ -3176,3 +3178,11 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Contraloría Interna por conducto de la Coordinación General de Quejas, Denuncias, Responsabilidades y Registro Patrimonial, será la encargada de dar cumplimiento al Convenio de Colaboración celebrado entre la Secretaría de la Función Pública y el Tribunal Federal de Justicia Fiscal y Administrativa en materia de registro y seguimiento de la evolución patrimonial de los servidores públicos de éste, de fecha 29 de abril de 2008, modificado mediante el diverso de fecha 27 de abril de 2009, y será la encargada de solicitar a esa Secretaría toda la información que requiera respecto de las declaraciones de situación patrimonial, hasta en tanto se mantenga vigente el citado Convenio.
 
 TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE OCTUBRE DE 2015.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
+
+Tercero. Los asuntos que a la entrada en vigor del presente Acuerdo se encuentren en trámite en la Unidad de Seguimiento de Visitas que desaparece, continuarán su sustanciación en la Secretaría Auxiliar de la Junta de Gobierno y Administración.
