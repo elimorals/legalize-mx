@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-legislativo-del-estado-de-colima-14151"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-30"
-last_updated: "2015-10-10"
+last_updated: "2015-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2015.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 30 de enero de 1999.
 
@@ -645,19 +645,17 @@ Los Secretarios gozan de fe pública en todo lo relativo al ejercicio de sus fun
 
 DE LA COMISION DE GOBIERNO INTERNO Y ACUERDOS PARLAMENTARIOS.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 47.
 
-La Comisión de Gobierno, será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria y durará en su ejercicio todo el período constitucional de la Legislatura.
+La Comisión de Gobierno será una comisión permanente, de integración plural, dotada de atribuciones político administrativas para el funcionamiento del Poder Legislativo. Será instalada en la primera sesión ordinaria y durará en su ejercicio todo el período constitucional de la Legislatura.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2015)</small>
+La Comisión de Gobierno se integrará por los Coordinadores de los Grupos Parlamentarios acreditados y por los diputados únicos de un partido político o diputados independientes; se formará con un Presidente, uno o dos Secretarios, y vocales en su caso.
 
-La Comisión de Gobierno se integrará por los Coordinadores de los grupos parlamentarios acreditados y se formará con un Presidente, uno o dos Secretarios y vocales, en su caso.
+Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes, tendrán exclusivamente derecho a voz.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2015)</small>
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2003)</small>
-
-La Presidencia de la Comisión de Gobierno será electa por voto ponderado de los Coordinadores, de conformidad con el artículo siguiente. En caso de que ningún Coordinador de grupo parlamentario, por sí sólo, represente la mayoría absoluta, la presidencia recaerá en el Coordinador del grupo parlamentario que tenga el mayor número de Diputados. En el caso de que varios grupos parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de mayoría relativa.
+La Presidencia de la Comisión de Gobierno recaerá en el Coordinador del Grupo Parlamentario que por sí sólo, represente la mayoría absoluta. En caso de que ningún Coordinador de Grupo Parlamentario, por sí sólo, represente la mayoría absoluta, la presidencia recaerá en el Coordinador del Grupo Parlamentario que tenga el mayor número de Diputados. En el caso de que dos o más Grupos Parlamentarios tengan igual número de Diputados, la presidencia la tendrá el del partido político que haya obtenido mayor número de diputaciones de Mayoría Relativa. Si tuvieran el mismo número de diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -667,13 +665,11 @@ La Presidencia de la Comisión de Gobierno será electa por voto ponderado de lo
 
 Las resoluciones de la Comisión de Gobierno serán tomadas por mayoría. Cada Coordinador tendrá los votos que correspondan al porcentaje que represente el número de Diputados que formen parte de su grupo parlamentario en relación al total que integren el Congreso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 49.
 
-La Comisión de Gobierno deberá reunirse cuando menos dos veces por mes durante los períodos ordinarios y, fuera de éstos, cuando menos una. Las reuniones serán convocadas por el Presidente de la Comisión. Sus trabajos los desarrollará de conformidad a lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
+La Comisión de Gobierno deberá reunirse cuando menos una vez por semana durante los períodos ordinarios y, fuera de éstos, cuando sea necesario. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión. Sus trabajos los desarrollará de conformidad a lo establecido por esta Ley y su Reglamento en lo relativo a las comisiones legislativas.
 
 ###### ARTICULO 50.
 
@@ -771,13 +767,17 @@ III.- Educación y Cultura;
 
 IV.- Ciencia, Tecnología e Innovación Gubernamental;
 
-V.- Salud, Deporte y Fomento del Sano Esparcimiento;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+V.- Salud y Bienestar Social;
 
 VI.- Estudios Legislativos y Puntos Constitucionales;
 
 VII.- Hacienda, Presupuesto y Fiscalización de los Recursos Públicos;
 
-VIII.- Seguridad Pública y Protección Civil;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+VIII.- Seguridad Pública;
 
 IX.- Prevención y Reinserción Social;
 
@@ -805,11 +805,25 @@ XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
 
 XIX.- Participación Ciudadana y Peticiones;
 
-XX.- Trabajo y Previsión Social; y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
 
-XXI.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
+XX.- Trabajo y Previsión Social;
 
-Estas comisiones permanentes serán por todo el ejercicio constitucional. A petición de uno de sus miembros o de un grupo parlamentario, podrán proponerse cambios en su conformación.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+XXI.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+XXII.- Deporte y Fomento del Sano Esparcimiento; y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+XXIII.- Protección Civil.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+Estas comisiones permanentes serán por todo el ejercicio constitucional. A petición de uno de sus miembros o de un Grupo Parlamentario, podrán proponerse cambios en su conformación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1486,3 +1500,9 @@ P.O. 10 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Al momento de la aprobación del presente, se deberá nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
+
+P.O. 13 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación. Deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Al momento de la aprobación del presente, se deberán nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
