@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2015-10-10"
+last_updated: "2015-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -479,25 +479,33 @@ La Comisión de Gobierno se integrará por los coordinadores de los grupos parla
 
 La presidencia de la Comisión de Gobierno será ejercida por el Coordinador del Grupo Parlamentario, Diputado único de partido político o Diputado independiente que obtenga la mayoría de votos de los integrantes de la misma, quien ejercerá la presidencia durante el ejercicio constitucional de la Legislatura.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-La Comisión de Gobierno será presidida por el Coordinador del Grupo parlamentario que por sí solo represente la mayoría absoluta y en caso de que ningún coordinador de grupo parlamentario por si solo la represente, recaerá en el coordinador del grupo parlamentario que tenga el mayor número de diputados en los términos del último párrafo del artículo 47 de la Ley. Cuando según la conformación de la legislatura existan dos grupos parlamentarios solo se elegirá una Secretaria, cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los grupos parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados que representen; los demás coordinadores tendrán el carácter de vocales.
+La Comisión de Gobierno será presidida por el Coordinador del Grupo Parlamentario que por sí solo represente la mayoría absoluta y, en caso de que ningún coordinador de Grupo Parlamentario, por sí solo la represente, recaerá en el Coordinador del Grupo Parlamentario que tenga el mayor número de diputados en los términos del artículo 47 de la Ley. Cuando según la conformación de la legislatura existan dos Grupos Parlamentarios, sólo se elegirá una secretaría, cuando existan tres o más grupos parlamentarios se elegirán dos secretarias y las vocalías necesarias. Las Secretarías serán ocupadas por los Coordinadores de los Grupos Parlamentarios que ocupen el segundo y tercer lugar por el número de Diputados que representen; los demás coordinadores tendrán el carácter de vocales.
 
-En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisión, una vez efectuado éste, se emitirá acuerdo parlamentario reconociéndolo como Presidente de la misma, debiendo comunicarlo a las autoridades e instituciones correspondientes.
+En caso de que varios Grupos Parlamentarios tengan igual número de Diputados, la preeminencia la tendrá el del partido político que haya obtenido mayor número de diputados de mayoría relativa, si tuvieran el mismo número de diputados de mayoría, la preeminencia la tendrá el que tuviera mayor cantidad de votos en la elección de Diputados.
+
+En caso de cambio del Coordinador del Grupo Parlamentario que presida la Comisión de Gobierno, una vez efectuado éste, se emitirá acuerdo parlamentario reconociéndolo como Presidente de la misma, debiendo comunicarlo a las autoridades e instituciones correspondientes.
+
+Tendrán derecho a voz y voto los coordinadores de los Grupos Parlamentarios acreditados; los diputados únicos de un partido político o diputados independientes, tendrán exclusivamente derecho a voz.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-La Comisión de Gobierno Interno se reunirá una vez por quincena, durante los períodos ordinarios de sesiones; y en la segunda quincena de cada mes, durante los recesos. Para estas reuniones no será necesaria convocatoria expresa.
+La Comisión de Gobierno se reunirá por lo menos una vez por semana, durante los períodos ordinarios de sesiones; y fuera de éstos las veces que sean necesarias. Las reuniones serán convocadas, por escrito, con 24 horas de anticipación, por el Presidente de la Comisión y contendrán la propuesta de asuntos a tratar en la orden del día.
 
-Independientemente de las reuniones ordinarias, la Comisión de Gobierno podrá celebrar extraordinarias cuantas veces sea necesario o existan asuntos que lo ameriten a juicio del Presidente o a solicitud de uno de sus miembros, previa convocatoria enviada, por lo menos, con veinticuatro horas de anticipación.
+Independientemente de las reuniones ordinarias, la Comisión de Gobierno podrá celebrar extraordinarias cuantas veces sea necesario o existan asuntos que lo ameriten a juicio del Presidente o de alguno de los Secretarios, previa convocatoria enviada, por lo menos, con veinticuatro horas de anticipación.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+El presidente de la Comisión de Gobierno instalará las reuniones descritas en los párrafos anteriores, si se encontraran presentes los diputados que representan las dos terceras partes de los legisladores que integran el Congreso. Si no hubiera quórum en la reunión convocada, se esperará un lapso de 30 minutos, transcurrido el cual se instalará con quien o quienes tengan la representación de la mayoría absoluta de los diputados que integran el Congreso.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-Las reuniones de la Comisión de Gobierno se desarrollarán de acuerdo al orden del día que sea aprobado al inicio de las mismas por los asistentes. El análisis de los asuntos se hará en los términos previstos en el Capítulo relativo a las Comisiones Legislativas y las resoluciones se aprobarán por mayoría, en los términos del artículo 48 de la Ley.
+Las reuniones de la Comisión de Gobierno se desarrollarán de acuerdo al orden del día que sea aprobado. El análisis de los asuntos se hará en los términos previstos en el Capítulo relativo a las Comisiones Legislativas y las resoluciones se aprobarán por mayoría, en los términos del artículo 48 de la Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2015)</small>
 
@@ -509,7 +517,9 @@ La Comisión de Gobierno se auxiliará de una Secretaría Técnica, cuyo titular
 
 Además de las facultades que al Presidente de la Comisión de Gobierno le confiere el artículo 51 de la Ley, tendrá las siguientes:
 
-I.- Convocar a la comisión a reuniones extraordinarias;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+I.- Convocar a la comisión a reuniones ordinarias y extraordinarias;
 
 II.- Presidir las reuniones ordinarias y extraordinarias que celebre la Comisión;
 
@@ -565,13 +575,17 @@ III.- Educación y Cultura;
 
 IV.- Ciencia, Tecnología e Innovación Gubernamental;
 
-V.- Salud, Deporte y Fomento del Sano Esparcimiento;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+V.- Salud y Bienestar Social;
 
 VI.- Estudios Legislativos y Puntos Constitucionales;
 
 VII.- Hacienda, Presupuesto y Fiscalización de los Recursos Públicos;
 
-VIII.- Seguridad Pública y Protección Civil;
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+VIII.- Seguridad Pública;
 
 IX.- Prevención y Reinserción Social;
 
@@ -599,9 +613,21 @@ XVIII.- Desarrollo Municipal y Zonas Metropolitanas;
 
 XIX.- Participación Ciudadana y Peticiones;
 
-XX.- Trabajo y Previsión Social; y
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
 
-XXI.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
+XX.- Trabajo y Previsión Social;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+XXI.- Vigilancia del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+XXII.- Deporte y Fomento del Sano Esparcimiento; y
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+XXIII.- Protección Civil.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -711,11 +737,11 @@ XI. Impulsar el diseño y puesta en operación de un sistema de evaluación y se
 
 XII. Las demás que le otorguen la Ley este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 52.
 
-Corresponde a la Comisión de Salud, Deporte y Fomento del Sano Esparcimiento, conocer de los siguientes asuntos:
+Corresponde a la Comisión de Salud y Bienestar Social conocer de los siguientes asuntos:
 
 I.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales las iniciativas de reforma, adición o derogación de las leyes estatales sobre salud;
 
@@ -723,19 +749,9 @@ II.- Los programas y acciones encaminados al mejoramiento de la salud y el biene
 
 III.- Los programas y acciones encaminados al mejoramiento de la calidad de vida de los grupos marginados, especialmente del medio rural y de aquellas comunidades que carecen de servicios de salud, formulando las propuestas que considere convenientes;
 
-IV.- Conocer de los asuntos que se refieran a la creación, organización y funcionamiento de Instituciones encargadas de impulsar el Deporte en todas sus ramas, así como el fomento, estimulo y promoción del Deporte, la Recreación, el sano esparcimiento, la activación y la Educación Física;
+IV.- Conocer de los asuntos que en materia normativa o financiera, requieran las instituciones del Estado de salud; y
 
-V.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento y estimulo de personas o instituciones públicas privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
-
-VI.- Legislar en materia deportiva, con el propósito de contribuir con las dependencias de la administración pública estatal y los municipios, a la consolidación del sistema estatal del deporte, en la visión de que la práctica del deporte y la activación fisca (sic), son el componente sustancial del mejoramiento de la salud y la calidad de vida de la población;
-
-VII.- Realizar los estudios legislativos pertinentes, que permitan valorar las posibilidades de la institucionalización de programas deportivos específicos y de activación fisca (sic), para la población en general, que garanticen continuidad y generen, entre los diferentes sectores la (sic) sociedad, una cultura y una necesidad conveniente, en términos de mejoramiento de la salud;
-
-VIII.- Conocer de los asuntos que en materia legislativa requieran las instituciones públicas, a fin (sic) cumplir con eficacia su encomienda de promoción continua de la práctica del deporte y la activación fisca (sic) de la población en general, así como para que se mejoren las expectativas del gobierno del estado, respecto al mejoramiento de la salud pública de la sociedad;
-
-IX.- Conocer de los asuntos que en materia normativa o financiera, requieran las instituciones del Estado para la promoción del deporte y la activación fisca ,(sic) en el afán de contribuir a la realización de las gestiones institucionales necesarias, orientadas al mejoramiento de la infraestructura deportiva y la creación y rehabilitación de espacios públicos que le permita a las familias colimenses contar con dichas áreas que alienten la convivencia familiar y generacional, que unan y consoliden sus lazos familiares; y
-
-X.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -775,23 +791,21 @@ VII.- Dictaminar, conjuntamente con la Comisión de Planeación del Desarrollo U
 
 VIII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 55.
 
-Corresponde a la Comisión de Seguridad Pública y Protección Civil conocer de los siguientes asuntos:
+Corresponde a la Comisión de Seguridad Pública conocer de los siguientes asuntos:
 
-I.- Dictaminar, en coordinación con la Comisión de Estudios Legislativos y Puntos Constitucionales, sobre la legislación que establezca y regule el funcionamiento y estructura de los cuerpos de seguridad pública;
+I.- Dictaminar, conjuntamente con la Comisión de Estudios Legislativos y Puntos Constitucionales las iniciativas relacionadas a establecer y regular el funcionamiento y estructura de los cuerpos de seguridad pública;
 
 II.- Formar parte de los Planes y Programas que se establezcan en materia de Seguridad Pública del Estado;
 
-III.- Conocer de todas las iniciativas relacionadas con la legislación establecida o que se establezca dentro del Sistema Estatal de Protección Civil;
+III.- Participar en los Planes y Programas que se establezcan dentro del Sistema Estatal de Seguridad Pública;
 
-IV.- Participar en los Planes y Programas que se establezcan dentro del Sistema Estatal de Protección Civil;
+IV.- Proponer acciones y políticas que se consideren deben ajustarse en el marco de Sistema Estatal de Seguridad Pública; y
 
-V.- Proponer acciones y políticas que se consideren deben ajustarse en el marco de Sistema Estatal de Protección Civil; y
-
-VI.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1042,6 +1056,40 @@ III.- Impulsar ante las instancias federales respectivas el diseño y control ef
 IV.- Promover la participación de la Comisión, en los trabajos de formulación del Plan Estatal de Desarrollo del Gobierno del Estado, así como en la formulación, seguimiento y evaluación del Programa Sectorial en la materia, ante el Subcomité Sectorial de Trabajo y Previsión Social del Comité de Planeación para el Desarrollo del Estado de Colima; y
 
 V.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 67 Bis.
+
+Corresponde a la Comisión de Deporte y Sano Esparcimiento conocer de los siguientes asuntos:
+
+I.- Conocer de los asuntos que se refieran a la creación, organización y funcionamiento de Instituciones encargadas de impulsar el Deporte en todas sus ramas, así como el fomento, estimulo y promoción del Deporte, la Recreación, el sano esparcimiento, la activación y la Educación Física;
+
+II.- Conocer de los asuntos que en materia legislativa requieran las instituciones públicas, a fin de cumplir con eficacia su encomienda de promoción continua de la práctica del deporte y la activación física de la población en general
+
+III.- Conocer de los asuntos que en materia normativa o financiera, requieran las instituciones del Estado para la promoción del deporte y la activación física, en el afán de contribuir a la realización de las gestiones institucionales necesarias, orientadas al mejoramiento de la infraestructura deportiva y la creación y rehabilitación de espacios públicos que le permita a las familias colimenses contar con dichas áreas que alienten la convivencia familiar y generacional, que unan y consoliden sus lazos familiares;
+
+IV.- Analizar y dictaminar las propuestas que se hagan al Congreso para el reconocimiento y estimulo de personas o instituciones públicas privadas o sociales que se hayan destacado por ser ejemplo en la promoción o práctica del deporte;
+
+V.- Legislar en materia deportiva, con el propósito de contribuir con las dependencias de la administración pública estatal y los municipios, a la consolidación del sistema estatal del deporte, en la visión de que la práctica del deporte y la activación física, son el componente sustancial del mejoramiento de la calidad de vida de la población;
+
+VI.- Realizar los estudios legislativos pertinentes, que permitan valorar las posibilidades de la institucionalización de programas deportivos específicos y de activación física, para la población en general, que garanticen continuidad y generen, entre los diferentes sectores de la sociedad, una cultura y una necesidad conveniente; y
+
+VII.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 67 Ter.
+
+Corresponde a la Comisión de Protección Civil conocer de los siguientes asuntos:
+
+I.- Conocer de todas las iniciativas relacionadas con la legislación establecida o que se establezca dentro del Sistema Estatal de Protección Civil;
+
+II.- Participar en los Planes y Programas que se establezcan dentro del Sistema Estatal de Protección Civil;
+
+III.- Proponer acciones y políticas que se consideren deben ajustarse en el marco de Sistema Estatal de Protección Civil; y
+
+IV.- Las demás que le otorguen la Ley, este ordenamiento o los acuerdos y disposiciones internas aprobadas por el Congreso.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2764,3 +2812,11 @@ P.O. 10 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Al momento de la aprobación del presente, se deberá nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
+
+P.O. 13 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 03 POR EL QUE SE REFORMAN LOS ARTÍCULOS 47, 49, 56 FRACCIONES V, VIII, XX Y XXI, ASÍ COMO SU ÚLTIMO PÁRRAFO; SE ADICIONAN LAS FRACCIONES XXII Y XXIII DEL ARTICULO 56, TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE COLIMA, ASÍ MISMO SE REFORMAN LOS ARTÍCULOS 39, 40, 41, 42 FRACCIÓN I, 47 FRACCIONES V, VIII, XX Y XXI, 52, 55; Y SE ADICIONAN LOS ARTÍCULOS 67 BIS Y 67 TER, TODOS DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación. Deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Al momento de la aprobación del presente, se deberán nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
