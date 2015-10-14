@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-agentes-de-pronosticos-para-la-asistencia-51088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-01"
-last_updated: "2011-07-19"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-06-23"
 ---
 # REGLAMENTO DE AGENTES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-REGLAMENTO DE AGENTES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DE AGENTES DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE JULIO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL REGLAMENTO DE COMERCIALIZADORES Y/O AGENTES DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA, PUBLICADO EN EL D.O.F. DE 14 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección en el Diario Oficial de la Federación, el martes 1 de agosto de 2006.
 
@@ -115,7 +117,7 @@ XV. Terminal.- Al aparato cuya función consiste en captar los datos de la parti
 
 XVI. Canales Alternos de Distribución.- Son todos aquellos Agentes autorizados que operen la comercialización masiva de los productos de Pronósticos a través de puntos de venta propios, o bien, ajenos; es decir, propiedad de los proveedores, equipos o terminales y medios de comunicación, debidamente enlazados con el Sistema de Cómputo Central de Pronósticos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE NOVIEMBRE DE 2009)</small>
 
 ###### Artículo 3o.
 
@@ -125,11 +127,11 @@ La autorización de la solicitud de agencia, a que se refiere el párrafo anteri
 
 Son causales de negativa de otorgamiento de agencia, las siguientes:
 
-I. Pronósticos no cuenta (sic) con equipo disponible;
+I. Pronósticos no cuenta con equipo disponible;
 
 II. El lugar donde solicitan la colocación de la agencia no recibe señal para su funcionamiento;
 
-III. Por estrategia comercial, y (sic)
+III. Por estrategia comercial, y
 
 > <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
@@ -257,7 +259,7 @@ El agente que no efectúe el entero de las ventas de los concursos, sorteos, pro
 
 El agente deberá pagar, previa validación en la terminal, aquellos boletos premiados que se le presenten para su cobro hasta por un monto de $9,999.99 (nueve mil novecientos noventa y nueve pesos 99/100 M.N.). El pago lo efectuará únicamente contra la presentación y entrega material del boleto correspondiente a la combinación que hubiere resultado ganadora, asimismo deberá entregar a Pronósticos dichos boletos, dentro de los plazos que le sean previamente comunicados en el contrato de comisión mercantil.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 22o.
 
@@ -285,7 +287,7 @@ El agente será directamente responsable del cumplimiento de las obligaciones de
 
 El Contrato de Comisión Mercantil que celebre el agente con Pronósticos tendrá una vigencia de un año contado a partir de la fecha de su firma, transcurrido este plazo automáticamente queda renovado por tiempo indefinido, siempre y cuando no exista manifestación en contra de alguna de las partes. Pronósticos se reserva el derecho de reconsiderar la renovación automática cuando hubiere duda del cabal cumplimiento de las obligaciones contraídas, evaluando los siguientes aspectos: ventas, pagos oportunos, entrega de boletos cancelados o boletos premiados pagados y no adeudos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE NOVIEMBRE DE 2008)</small>
 
 ###### Artículo 24o.
 
@@ -343,7 +345,7 @@ d) En el caso de que se compruebe una mala Atención y Servicio a los consumidor
 
 e) El agente se niegue a participar en los programas de capacitación.
 
-(REFORMADO Y REUBICADO [N. DE E. ANTES SEGUNDO PARRAFO DEL INCISO C)], D.O.F. 26 DE NOVIEMBRE DE 2009)
+(REFORMADO Y REUBICADO [N. DE E. ANTES SEGUNDO PÁRRAFO DEL INCISO C)], D.O.F. 26 DE NOVIEMBRE DE 2009)
 
 En caso de que el agente o el personal subordinado incurra en tres ocasiones en las conductas referidas en los incisos anteriores en un periodo de seis meses, contados a partir de la fecha de la primera amonestación, Pronósticos podrá dar por terminado de manera unilateral y sin incurrir en responsabilidad alguna el contrato de comisión mercantil.
 
@@ -377,7 +379,7 @@ México, D.F., a 23 de junio de 2006.
 
 Presidente del Consejo Directivo C. Alonso Pascual García Tamés Rúbrica. Secretario del Consejo Directivo Lic. Sergio Eduardo Huacuja Betancourt. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 4 DE NOVIEMBRE DE 2008.
 
@@ -396,3 +398,17 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las estableci
 D.O.F. 19 DE JULIO DE 2011.
 
 PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE OCTUBRE DE 2015.
+
+Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Hasta en tanto se realicen las reformas pertinentes a los Reglamentos de los Sorteos y Concursos de Pronósticos, así como a los Manuales, Instructivos y Procedimientos en todo lo que se refieran a agentes, deberá entenderse también como comercializador.
+
+Tercero.- Se abrogan los “Criterios emitidos por la Subdirección General de Ventas de Pronósticos para la Asistencia Pública para otorgar seguridad y certeza jurídica a los particulares que quisieran obtener y operar una agencia”, publicados en el Diario Oficial de la Federación el día 17 de agosto de 2011.
+
+Cuarto.- Se abroga el Reglamento de Agentes de Pronósticos para la Asistencia Pública, así como sus diversas reformas publicadas en el Diario Oficial de la Federación.
+
+Quinto.- Se abroga el Reglamento de Comercializadores de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el día 29 de septiembre de 2010.
+
+Sexto.- Se deroga cualquier disposición que contravenga el presente Reglamento de Comercializadores y/o agentes.
