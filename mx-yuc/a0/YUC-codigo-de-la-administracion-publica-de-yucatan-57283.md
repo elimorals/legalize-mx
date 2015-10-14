@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2012-12-05"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2015.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -85,7 +85,7 @@ Las relaciones del Poder Ejecutivo con las autoridades e instancias administrati
 
 La Administración Pública Estatal conducirá sus actividades en forma planeada y programada, con base en:
 
-l.- Las políticas de planeación que establezca el Titular del Poder Ejecutivo del Estado para el logro de los objetivos y prioridades de desarrollo;
+I.- Las políticas de planeación que establezca el Titular del Poder Ejecutivo del Estado para el logro de los objetivos y prioridades de desarrollo;
 
 II.- Los términos que fijen los convenios de coordinación respectivos para la ejecución de los planes Nacional y Estatal de Desarrollo, y
 
@@ -403,9 +403,9 @@ XVI.- Secretaría de Desarrollo Urbano y Medio Ambiente;
 
 XVII.- Secretaría de la Contraloría General;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XVIII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2012)
+XVIII.- Secretaría de Investigación, Innovación y Educación Superior;
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1013,39 +1013,43 @@ XXIII.- Fomentar en la población del Estado, mediante programas o acciones una 
 
 A la Secretaría de Educación le corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-I.- Coordinar las políticas públicas y actividades de la Administración Pública relativas al fomento y servicios de educación, deporte y el desarrollo científico y tecnológico;
+I.- Coordinar las políticas públicas y actividades de la Administración Pública relativas al fomento y servicios de educación, básica y media superior, y deporte;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-II.- Proponer al Gobernador del Estado las políticas y programas generales relativos a la educación pública, al desarrollo científico y tecnológico, y la promoción del deporte y la vinculación entre el sector educativo y los diversos sectores productivos de la economía estatal;
+II.- Proponer al Gobernador del Estado las políticas y programas generales relativos a la educación pública, de los tipos básica y media superior, y la promoción del deporte y la vinculación entre estos tipos educativos y los diversos sectores productivos de la economía estatal;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
 III.- Procurar el cumplimiento de la Ley de Educación Pública del Estado y en lo que le competa, la Ley General de Educación, así como las relativas en materia de cultura, deporte y demás disposiciones legales aplicables;
 
-IV.- Fomentar y orientar la educación que se imparte en las escuelas estatales en sus diversos grados, vigilando el funcionamiento de los establecimientos respectivos y el desarrollo de los planes pedagógicos, fundados en los valores de la ciencia, de la historia nacional y del Estado y en los principios rectores de la educación cívica;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-V.- Coordinar con las universidades e institutos de educación superior, lo referente a la prestación del servicio social, la orientación vocacional y otros aspectos educativos que se acuerden con dichas instituciones, con respeto a las políticas educativas de las mismas;
+IV.- Fomentar y orientar la educación básica y media superior que se imparte en las escuelas estatales, vigilando el funcionamiento de los establecimientos respectivos y el desarrollo de los planes pedagógicos, fundados en los valores de la ciencia, de la historia nacional y del Estado y en los principios rectores de la educación cívica;
+
+V.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
 VI.- Someter a la consideración del Gobernador del Estado, la documentación de los maestros y empleados de su dependencia para la expedición de los nombramientos o bajas respectivas;
 
 VII.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
-VIII.- Autorizar los exámenes de grado y la expedición de los títulos de Licenciados en Educación Primaria y de educadores normalistas de Educación Preescolar;
+VIII.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
 IX.- Otorgar becas en términos de la reglamentación correspondiente;
 
 X.- Vigilar el funcionamiento de la Comisión Estatal de Escalafón, de conformidad con las disposiciones legales aplicables;
 
-XI.- Llevar el registro de profesiones, colegios, asociaciones profesionales, títulos y certificados, conforme a la reglamentación correspondiente;
+XI.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XII.- Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter educativo;
+XII.- Promover la realización de congresos, asambleas, reuniones, competencias y concursos de carácter educativo para los tipos de educación básica y media superior;
 
-XIII.- Fomentar las relaciones en materia educativa con otras entidades de la República;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XIII.- Fomentar las relaciones en materia educativa de los tipos básica y media superior con otras entidades de la república;
 
 XIV.- Instituir, por acuerdo del Ejecutivo las escuelas oficiales;
 
@@ -1055,9 +1059,13 @@ XV.- Dirigir a través de los directores de cada ramo: la educación preescolar,
 
 XVI.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas, hemerotecas, pinacotecas y filmotecas integradas al sistema educativo estatal;
 
-XVII.- Diseñar y formular los programas relativos a la educación y la recreación con base en la normatividad;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XVIII.- Organizar y desarrollar la educación artística que se imparta en las escuelas e instituciones oficiales e incorporadas para la enseñanza y difusión de las bellas artes y de las artes populares;
+XVII.- Diseñar y formular los programas relativos a la educación básica y media superior y la recreación con base en la normatividad;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XVIII.- Organizar y desarrollar la educación artística que se imparta en las escuelas e instituciones oficiales e incorporadas para la enseñanza y difusión de las bellas artes y de las artes populares, en el ámbito de su competencia;
 
 XIX.- Impartir la educación física de conformidad con los métodos modernos en los medios escolares y extraescolares;
 
@@ -1069,9 +1077,9 @@ XX.- Organizar exposiciones artísticas, ferias, certámenes, concursos, audicio
 
 XXI.- Fomentar e intervenir en la celebración de actividades artísticas y culturales, en el ámbito de su competencia;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XXII.- Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal referentes a la educación;
+XXII.- Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal referentes a la educación básica y media superior;
 
 XXIII.- Crear y organizar sistemas de enseñanza especial incorporándolos al sistema educativo;
 
@@ -1083,11 +1091,17 @@ XXVI.- Actualizar los programas de estudio, sus contenidos, materiales y método
 
 XXVII.- Promover la alfabetización de adultos y los programas de enseñanza básica abierta y a distancia para abatir el rezago educativo;
 
-XXVIII.- Promover la vinculación del Sistema Educativo Básico, Medio Superior y Superior con el sector productivo para mejorar la calidad de la educación y elevar los índices de productividad en el ámbito laboral;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XXIX.- Crear mecanismos sistemáticos de evaluación que permitan conocer los niveles de aprovechamiento de los alumnos, del desempeño magisterial, y de los diversos niveles de dirección, supervisión y demás funciones que se desarrollan en el sistema educativo estatal;
+XXVIII.- Promover la vinculación del Sistema Educativo Básico y Medio Superior con el sector productivo para mejorar la calidad de la educación y elevar los índices de productividad en el ámbito laboral;
 
-XXX.- Dotar a los planteles del sistema educativo estatal con plataformas tecnológicas y equipos informáticos para facilitar el proceso educativo, de acuerdo con la disponibilidad presupuestal de la Secretaría;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XXIX.- Crear mecanismos sistemáticos de evaluación que permitan conocer los niveles de aprovechamiento de los alumnos de educación básica y media superior, del desempeño magisterial, y de los diversos niveles de dirección, supervisión y demás funciones que se desarrollan en el sistema educativo estatal;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XXX.- Dotar a los planteles del sistema educativo estatal básico y medio superior con plataformas tecnológicas y equipos informáticos para facilitar el proceso educativo, de acuerdo con la disponibilidad presupuestal de la Secretaría;
 
 > <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1101,9 +1115,9 @@ XXXIV.- (DEROGADA, D.O. 30 DE SEPTIEMBRE DE 2011)
 
 XXXV.- Inculcar el hábito de la lectura entre los educandos, mediante concursos, eventos culturales, conferencias y otros medios;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XXXVI.- Vigilar que los servicios educativos impartidos por las instituciones privadas, en los diferentes niveles y modalidades cumplan con los programas y con las disposiciones aplicables;
+XXXVI.- Vigilar que los servicios educativos de educación básica y media superior impartidos por las instituciones privadas, cumplan con los programas y con las disposiciones aplicables;
 
 XXXVII.- Formular y ejecutar programas educativos en comunidades indígenas en coordinación con otras instancias competentes;
 
@@ -1121,9 +1135,9 @@ XLI.- Formular y promover la celebración de convenios de concertación con los 
 
 XLII.- Elaborar el programa anual de construcción de obra pública destinada a la educación y la recreación, así como el de mantenimiento y conservación de estos inmuebles e instalaciones, en coordinación con la Secretaría de Obras Públicas;
 
-> <small>(REFORMADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XLIII.- Establecer los mecanismos para que los ciudadanos en general, padres de familia y maestros participen en la definición de las políticas educativas que deban aplicarse en el Estado, y
+XLIII.- Establecer los mecanismos para que los ciudadanos en general, padres de familia y maestros participen en la definición de las políticas educativas para la educación básica y media superior que deban aplicarse en el Estado, y
 
 > <small>(ADICIONADA, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1807,17 +1821,95 @@ XXIV.- Interpretar y difundir en el ámbito de su competencia, la aplicación de
 
 XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], D.O. 14 DE OCTUBRE DE 2015)</small>
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO XVIII. De la Secretaría de Investigación, Innovación y Educación Superior
 
-### CAPÍTULO XVIII. De la Coordinación General de Comunicación Social
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 47.
 
-(DEROGADO, D.O. 5 DE DICIEMBRE DE 2012)
+A la Secretaría de Investigación, Innovación y Educación Superior le corresponde el despacho de los siguientes asuntos:
+
+I.- Impulsar la aplicación de políticas y programas que propicien que la educación superior, el desarrollo científico, tecnológico, la innovación y la vinculación, se encuentren plenamente incorporadas al desarrollo social, económico y cultural de Yucatán y que contribuyan, con oportunidad, con los mejores estándares de pertinencia y calidad, al desarrollo humano de la sociedad;
+
+II.- Promover que las instituciones de educación superior en el Estado, conformen una oferta educativa amplia, diversificada, con los mejores estándares de pertinencia y calidad, para ampliar con equidad, las oportunidades de acceso a la educación superior;
+
+III.- Impulsar el diseño e implementación de programas educativos en áreas científicas y tecnológicas, para articular y potenciar las capacidades existentes y optimizar el uso de la infraestructura y equipamiento disponible;
+
+IV.- Fomentar la mejora continua de los niveles de aprendizaje alcanzados por los estudiantes;
+
+V.- Fomentar la evaluación interna y externa, y la acreditación de los programas y procesos educativos que ofrecen las instituciones de educación superior en el Estado, así como los niveles de aprendizaje alcanzados por los estudiantes y atender las recomendaciones que, en su caso, se formulen para asegurar una educación superior de reconocida buena calidad;
+
+VI.- Implementar programas, en coordinación con la Secretaría de Educación, para la detección de talentos en las escuelas de educación básica y media superior y apoyar sus trayectorias educativas para lograr su incorporación en programas de técnico superior universitario, licenciatura y posgrado, orientados a formar personal especializado que coadyuve a fortalecer las capacidades del Estado para el desarrollo científico y tecnológico, la innovación y la vinculación;
+
+VII.- Otorgar becas para la realización de estudios de técnico superior universitario, profesional asociado, licenciatura y posgrado en programas educativos de buena calidad, conforme a las necesidades de los sectores público y privado en el Estado;
+
+VIII.- Estimular la formación, capacitación, atracción y permanencia de investigadores, tecnólogos y vinculadores de alto nivel en el Estado, coordinando sus acciones con los organismos públicos o privados que tengan esta misma función;
+
+IX.- Establecer las directrices que deberá seguir la impartición de la educación normal en la entidad, procurando que incluya una perspectiva social y de respeto a los derechos humanos;
+
+X.- Coordinar la educación normal en el Estado para promover la formación de profesores preparados;
+
+XI.- Coordinar con las universidades e institutos de educación superior, lo referente a la prestación del servicio social, la orientación vocacional y otros aspectos educativos que se acuerden con dichas instituciones, con respeto a sus políticas educativas;
+
+XII.- Promover la mejora continua y la calidad de la educación superior a través del fomento de la investigación educativa;
+
+XIII.- Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas de educación superior y de ciencia, tecnología, innovación y vinculación;
+
+XIV.- Autorizar los exámenes profesionales y de grado, así como expedir los títulos correspondientes a los programas educativos que oferten las escuelas normales del Estado;
+
+XV.- Llevar el registro de profesiones, colegios, asociaciones profesionales, títulos y certificados, conforme a la reglamentación correspondiente;
+
+XVI.- Vigilar que los servicios educativos del tipo superior, impartidos por las instituciones privadas, en los diferentes niveles y modalidades, cumplan con los programas y con las disposiciones aplicables;
+
+XVII.- Ampliar, articular y potenciar las capacidades existentes en el Estado para la educación superior, el desarrollo científico y tecnológico; la innovación y la vinculación mediante esquemas efectivos de colaboración e intercambio académico;
+
+XVIII.- Proponer, evaluar y actualizar periódicamente las políticas y estrategias estatales en materia de desarrollo científico y tecnológico, la innovación y la vinculación, verificando su alineación al Plan Estatal de Desarrollo;
+
+XIX.- Fortalecer las capacidades y la formación de recursos humanos de alto nivel académico de las instituciones de educación superior, centros de investigación, empresas de base tecnológica, entidades y dependencias de la Administración Pública del Estado, para el desarrollo científico y tecnológico, la innovación y la vinculación;
+
+XX.- Coordinarse con las autoridades federales y municipales competentes para el establecimiento de mecanismos que impulsen la educación superior, el desarrollo científico y tecnológico, la innovación y la vinculación;
+
+XXI. Asesorar a las dependencias y entidades de los tres órdenes de gobierno y a las personas físicas o morales que lo soliciten, sobre asuntos relacionados con la ciencia, la tecnología, la innovación y la vinculación;
+
+XXII. Fomentar la generación, divulgación y difusión de estudios, avances y logros científicos, en materia de ciencia, tecnología, innovación y vinculación en el Estado;
+
+XXIII. Promover la participación de las comunidades científica y tecnológica del Estado, en la toma de decisiones relativas al impulso y al desarrollo científico y tecnológico, la innovación y la vinculación;
+
+XXIV. Impulsar y otorgar apoyos para la realización de proyectos de corto, mediano y largo plazo en materia de ciencia, tecnología e innovación;
+
+XXV. Fomentar la colaboración y vinculación entre las instituciones de educación superior y los centros de investigación, con los sectores productivos y las empresas de base tecnológica en el Estado, así como con dependencias y entidades de la Administración Pública del Estado;
+
+XXVI. Promover la divulgación del conocimiento científico y tecnológico en la población del Estado, a través del impulso de congresos, conferencias, exposiciones, ferias de ciencia, concursos, museos e incluso en espacios públicos como parques, centros comunitarios, entre otros;
+
+XXVII. Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de formación y las de desarrollo científico y tecnológico, innovación y vinculación;
+
+XXVIII. Promover el intercambio y la movilidad de profesores-investigadores y tecnólogos entre instituciones de educación superior, centros de investigación y empresas de base tecnológica;
+
+XXIX. Promover la creación de instituciones de educación superior y de centros de investigación en el marco de los objetivos de la política científica, tecnológica, de innovación y de vinculación del Estado y en áreas estratégicas para impulsar su desarrollo;
+
+XXX. Impulsar el desarrollo de la infraestructura relacionada con las tecnologías de la información en el Estado así como su uso y aplicación en todos los órdenes de gobierno, las instituciones educativas y la población del Estado;
+
+XXXI. Fomentar el respeto y la protección de la propiedad intelectual, así como el registro, licenciamiento y aprovechamiento de patentes;
+
+XXXII. Impulsar la aplicación de las tecnologías de la información y la comunicación para acercar los servicios públicos a la ciudadanía;
+
+XXXIII. Identificar las necesidades del Estado en materia de desarrollo de tecnologías de la información y la comunicación, especialmente del área productiva, para fomentar el desarrollo económico y social del Estado;
+
+XXXIV. Promover el establecimiento de estímulos y exenciones para las empresas o instituciones privadas dedicadas al desarrollo tecnológico;
+
+XXXV. Ejecutar los convenios que celebre el Ejecutivo del Estado con la Administración Pública Federal, referentes a la educación superior, ciencia, tecnología, innovación y vinculación;
+
+XXXVI. Fomentar las relaciones en materia de educación superior, ciencia, tecnología, innovación y vinculación con otras entidades de la república;
+
+XXXVII. Ejercer las atribuciones que le otorga la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación y la Ley de Profesiones, ambas del Estado de Yucatán;
+
+XXXVIII. Evaluar, autorizar y acordar las solicitudes que hagan las personas físicas o morales para el otorgamiento del reconocimiento de validez oficial, de conformidad con lo establecido en la normatividad correspondiente;
+
+XXXIX. Supervisar, evaluar y establecer las directrices a las que deberán someterse las instituciones de educación superior a las que se les haya otorgado reconocimiento de validez oficial, de conformidad con lo establecido en la normatividad correspondiente, y
+
+XL. Fomentar y desarrollar programas educativos que con visión incluyente y equitativa propicien el desarrollo profesional y humano, el fomento y práctica de la investigación, así como el desarrollo de la ciencia y tecnología de la población en situación de vulnerabilidad, sobre todo, aquella perteneciente a la comunidad maya.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 25 DE NOVIEMBRE DE 2008)</small>
 
@@ -2966,3 +3058,53 @@ Se faculta al Gobernador del Estado para resolver las cuestiones que puedan susc
 ###### ARTÍCULO VIGÉSIMO SEGUNDO.
 
 El Gobernador del Estado, en la elaboración del proyecto de Presupuesto de Egresos, deberá considerar las adecuaciones estructurales, administrativas y normativas, así como de recursos materiales y humanos, para el debido funcionamiento de las dependencias y entidades a las que se refiere este Decreto.
+
+D.O. 14 DE OCTUBRE DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el diario oficial del Estado.
+
+Segundo. Obligación normativa
+
+El titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los noventa días naturales siguientes contados a partir de su entrada en vigor.
+
+Tercero. Relaciones laborales
+
+El personal de base que preste sus servicios en el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán pasará a formar parte de la Secretaría de Investigación, Innovación y Educación Superior y se estará a lo que señalen las disposiciones legales aplicables.
+
+Cuarto. Ajustes presupuestales
+
+El Gobernador del Estado, por medio de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales, financieros y materiales asignados a la Secretaría de Educación para prestar los servicios que, mediante este decreto, se atribuirán a la Secretaría de Investigación, Innovación y Educación Superior, para su debido funcionamiento.
+
+Quinto. Transferencia de recursos
+
+Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas al Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán se transferirán a la Secretaría de Investigación, Innovación y Educación Superior.
+
+Sexto. Asuntos pendientes
+
+Los convenios, actos jurídicos, asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, y que por su naturaleza subsistan, a partir de la entrada en vigor de este decreto, quedarán a cargo de la Secretaría de Investigación, Innovación y Educación Superior.
+
+Séptimo. Referencias al consejo
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, se entenderán referidas a la Secretaría de Investigación, Innovación y Educación Superior.
+
+Octavo. Obligación normativa de la junta de gobierno
+
+La Junta de Gobierno del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán deberá publicar en el Diario Oficial del Gobierno (sic) Estado, los lineamientos para llevar a cabo la liquidación del consejo, dentro de los treinta días naturales siguientes a la entrada en vigor de este decreto.
+
+Noveno. Obligación de la dependencia coordinadora de sector
+
+La Secretaría de Educación del Gobierno del Estado, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Décimo. Derogación tacita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+Décimo Primero. Informe trimestral
+
+La Secretaría de Administración y Finanzas, una vez concluidos los movimientos y ajustes presupuestales, deberá enviar un informe financiero de éstos al Congreso del Estado.
+
+Décimo Segundo. Plan estratégico
+
+A partir de la entrada en vigor de las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, se dará un plazo máximo de 60 días para que se establezca un plan estratégico que atienda proyectos de investigación de alto impacto en las condiciones de vida de la población. Asimismo, para este propósito se destinará un porcentaje de al menos el 20% del incremento en gasto público de la nueva Secretaría para actividades destinadas a la investigación científica de impacto social.
