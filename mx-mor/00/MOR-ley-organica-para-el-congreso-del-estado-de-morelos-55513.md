@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2015-04-01"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -775,7 +775,7 @@ Las comisiones especiales son aquellas de carácter temporal que acuerde el plen
 
 Artículo 54 BIS.- Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 54 Bis.
 
@@ -783,11 +783,11 @@ Para el análisis y dictaminación de las autorizaciones relativas a los contrat
 
 ###### Artículo 55.
 
-Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las Comisiones Legislativas habrá un Presidente, los Secretarios y Vocales. Ningún diputado podrá participar en más de siete comisiones ordinarias. La Junta Política y de Gobierno cuidará siempre que en la integración de cada Comisión Legislativa que corresponda, no exista una sobre representación de un partido político.
+Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, los secretarios y vocales. Los diputados podrán participar como Presidente de una Comisión, ser Secretarios y participar hasta en ocho vocalías en las comisiones ordinarias. La Junta Política y de Gobierno cuidará siempre que en la integración de cada Comisión Legislativa que corresponda, no exista una sobre representación de un partido político.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2015)</small>
 
-Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, Presupuesto y Cuenta Pública, y Gobernación y Gran Jurado, estarán conformadas al menos por un diputado de cada uno de los grupos parlamentarios y/o fracciones parlamentarias que integren la legislatura.
+Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, Presupuesto y Cuenta Pública, y Gobernación y Gran Jurado, estarán conformadas por un Presidente, tres secretarios y al menos un diputado de cada uno de los grupos y/o fracciones parlamentarias que integren la legislatura.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2458,3 +2458,11 @@ P.O. 1 DE ABRIL DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación por el Pleno de este Congreso.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 14 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente decreto entró en vigor el día de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado, de conformidad con el artículo 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
