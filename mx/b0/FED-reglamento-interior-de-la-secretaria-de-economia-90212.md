@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-90212"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-22"
-last_updated: "2014-10-31"
+last_updated: "2015-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90212&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 14 DE ENERO DE 2013, LAS REFERENCIAS QUE SE HAGAN EN OTRAS DISPOSICIONES A LA SUBSECRETARÍA PARA LA PEQUEÑA Y MEDIANA EMPRESA, SE ENTENDERÁN HECHAS AL INSTITUTO NACIONAL DEL EMPRENDEDOR.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 22 de noviembre de 2012.
 
@@ -140,6 +140,14 @@ XXXVI Bis. Dirección General de Fomento de Cadenas Productivas e Inversión en 
 > <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
 XXXVI Ter. Dirección General de Contenido Nacional en el Sector Energético;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XXXVI Quáter. Dirección General de Procesos y Programas de Apoyo;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XXXVI Quintus. Dirección General de Promoción de Inversiones en el Sector Energético;
 
 XXXVII. Delegaciones y subdelegaciones federales, y
 
@@ -595,7 +603,17 @@ ARTÍCULO 16 BIS.- Son atribuciones de la Unidad de Contenido Nacional y Fomento
 
 I. Establecer la meta de contenido nacional en términos de la Ley de Hidrocarburos;
 
-II. Supervisar la elaboración, así como autorizar y proponer a su superior jerárquico, la metodología para medir el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+II. Ordenar y supervisar la elaboración de los proyectos de las metodologías que servirán para medir el contenido nacional en la industria de hidrocarburos y el grado de contenido nacional en la industria eléctrica y proponer dichos proyectos a consideración y, en su caso, aprobación de su superior jerárquico;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+II Bis. Ordenar y supervisar la elaboración, así como someter a consideración y, en su caso, aprobación de su superior jerárquico, los proyectos de las disposiciones que indiquen la forma en la que deberán informar a la Secretaría:
+
+a) Los asignatarios, contratistas y permisionarios a que se refiere la Ley de Hidrocarburos, sobre el contenido nacional en las actividades que éstos realizan, y
+
+b) Las empresas de la industria eléctrica, sobre el grado de contenido nacional en las actividades que éstos realizan;
 
 III. Llevar el control y seguimiento de los resultados derivados de la verificación del cumplimiento de las metas de contenido nacional establecidas en las asignaciones y contratos de exploración y extracción de hidrocarburos;
 
@@ -605,7 +623,13 @@ V. Revisar y requerir la información a un tercero independiente o a las autorid
 
 VI. Revisar y requerir, en su caso, la información a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en términos de las disposiciones jurídicas aplicables;
 
-VII. Emitir la opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+VII. Emitir la opinión solicitada por la Secretaría de Energía, respecto:
+
+a) Del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos, y
+
+b) Del porcentaje mínimo de contenido nacional que deberán cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
 
 VIII. Definir, con la opinión de la Secretaría de Energía, las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, conforme a la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
 
@@ -615,11 +639,49 @@ X. Proponer a su superior jerárquico, y publicar, el informe sobre los avances 
 
 XI. Coordinar y verificar la operación de fideicomisos y demás instrumentos enfocados a la ejecución de la política nacional en materia de contenido nacional y desarrollo de proveedores y contratistas de la industria energética conforme a lo dispuesto en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
 
-XII. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos, y
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
-XIII. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
+XII. Supervisar y coordinar los trabajos para identificar los sectores industriales y las regiones en que se enfocará la estrategia para el fomento de cadenas productivas locales, a efecto de coadyuvar en la implementación de la política nacional de fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica;
 
-La Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético estará a cargo de un Jefe de Unidad, y será auxiliado en el ejercicio de sus atribuciones, por los Directores Generales de Fomento de Cadenas Productivas e Inversión en el Sector Energético y, de Contenido Nacional en el Sector Energético.
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XIII. Coordinar las estrategias de inversión para el fomento a la participación directa de empresas mexicanas para llevar a cabo, por sí mismas, las actividades en la industria de hidrocarburos y eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XIV. Coordinar las estrategias de inversión para promover la asociación entre empresas mexicanas y extranjeras, para llevar a cabo las actividades en la industria de hidrocarburos y eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XV. Promover la inversión nacional y extranjera para que se realicen actividades de permanencia en México directamente en la industria de hidrocarburos y eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XVI. Promover la inversión nacional y extranjera para impulsar la transferencia de tecnología y el conocimiento en la industria de hidrocarburos y eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XVII. Coordinar la elaboración de estudios y programas de promoción de la industria de hidrocarburos y eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XVIII. Promover esquemas de capacitación, orientación y asesoría que fomenten la participación de las micro, pequeñas y medianas empresas en las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria de hidrocarburos y eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XIX. Organizar, coordinar y participar en congresos y eventos relacionados con la promoción de la industria nacional de hidrocarburos y eléctrica que apoyen en la definición de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en dichas industrias;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XX. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XXI. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
+
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+La Unidad de Contenido Nacional y Fomento de Cadenas Productivas e Inversión en el Sector Energético estará a cargo de un Jefe de Unidad, y será auxiliado en el ejercicio de sus atribuciones, por los Directores Generales de Fomento de Cadenas Productivas e Inversión en el Sector Energético y, de Contenido Nacional en el Sector Energético, de Procesos y Programas de Apoyo, y de Promoción de Inversiones en el Sector Energético.
 
 ###### ARTÍCULO 17.
 
@@ -1367,9 +1429,21 @@ II. Solicitar, en su caso, a las dependencias y entidades de la Administración 
 
 III. Emitir opinión respecto del establecimiento de condiciones que deberán incluirse en las asignaciones y los contratos para la exploración y extracción, así como en los permisos que contempla la Ley de Hidrocarburos, que bajo las mismas circunstancias, se dé para dar cumplimiento con las preferencias que señala el artículo 128 de dicha Ley;
 
-IV. Diseñar, proponer y dar seguimiento al avance de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, así como elaborar el informe sobre los avances en la implementación de dichas estrategias;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
-V. Fungir como Secretaría Técnica de los Consejos Consultivos a los que se refieren los artículos 125 de Ley de Hidrocarburos y 90 de la Ley de la Industria Eléctrica, así como vigilar y dar seguimiento sobre el cumplimiento de las resoluciones y compromisos adoptados en dichos Consejos Consultivos;
+IV. Elaborar informes sobre los avances en la implementación de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, así como cualquier otro reporte e informe de carácter público;
+
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+V. Identificar los sectores industriales y las regiones en que se enfocará la estrategia para el fomento industrial de cadenas productivas locales alineados a la demanda de las industrias de hidrocarburos y eléctrica, a efecto de coadyuvar en la implementación de la política nacional que en dichas materias se fije;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+V Bis. Promover la elaboración de estudios y programas de promoción de la industria de hidrocarburos y eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+V Ter. Definir los esquemas de capacitación, orientación y asesoría que fomenten la participación de las micro, pequeñas y medianas empresas en las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria de hidrocarburos y eléctrica;
 
 VI. Integrar, administrar y actualizar el registro de proveedores nacionales para la industria de hidrocarburos;
 
@@ -1385,7 +1459,13 @@ ARTÍCULO 48 TER.- Son atribuciones de la Dirección General de Contenido Nacion
 
 I. Elaborar y proponer a su superior jerárquico la meta de contenido nacional en términos de la Ley de Hidrocarburos;
 
-II. Elaborar la metodología para medir el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+II. Elaborar el proyecto de la metodología para medir el contenido nacional en asignaciones y contratos de exploración y extracción de hidrocarburos y demás actividades de la industria de hidrocarburos, así como en la industria eléctrica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+II Bis. Elaborar los proyectos de las disposiciones por las que los asignatarios, contratistas y permisionarios, así como las empresas de la industria eléctrica deberán proporcionar la información sobre el contenido nacional en las actividades que realicen en la industria de hidrocarburos y eléctrica;
 
 III. Solicitar, en su caso, a las dependencias y entidades de la Administración Pública Federal, a las empresas productivas del Estado, así como a órganos constitucionales autónomos y demás órganos y organismos de las entidades federativas y municipales, las opiniones, información y documentación necesaria, en el ámbito de sus atribuciones en materia de contenido nacional en el sector energético;
 
@@ -1399,19 +1479,75 @@ VII. Solicitar el apoyo de un tercero independiente o de las autoridades compete
 
 VIII. Requerir, en su caso, la información a las empresas de la industria de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en términos de las disposiciones jurídicas aplicables;
 
-IX. Elaborar la opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+IX. Elaborar y proponer al superior jerárquico, los proyectos de la opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir individualmente y de forma progresiva los asignatarios y contratistas para la exploración y extracción de hidrocarburos, conforme a la Ley de Hidrocarburos;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+IX Bis. Elaborar y proponer al superior jerárquico la opinión respecto del porcentaje mínimo de contenido nacional que deberán cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
 
 X. Determinar e informar a la autoridad competente sobre el incumplimiento del porcentaje de contenido nacional que corresponda por parte de un asignatario o contratista de exploración y extracción de Hidrocarburos, en términos de la Ley de Hidrocarburos;
 
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+X Bis. Determinar e informar a la autoridad competente sobre el incumplimiento del porcentaje mínimo de contenido nacional que deben cumplir las empresas de la industria eléctrica en cada contrato o asociación cuyo objeto sea la instalación o ampliación de la infraestructura necesaria para prestar el servicio público de transmisión y distribución de energía eléctrica;
+
 XI. Informar a la autoridad competente sobre el incumplimiento de la entrega de información por parte de las empresas de la industria eléctrica y del porcentaje de contenido nacional conforme a lo que establecen el inciso a) de la fracción II y la fracción VIII del artículo 165 de la Ley de la Industria Eléctrica;
 
-XII. Operar el Fideicomiso Público para Promover el Desarrollo de Proveedores y Contratistas Nacionales de la Industria Energética, a fin de dar cumplimiento a lo dispuesto en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XII. Solicitar a la Secretaría de Energía el listado de las empresas de la industria eléctrica con la finalidad de poder requerir la información sobre el grado de contenido nacional en las actividades que realizan en términos del segundo párrafo del artículo 91 de la Ley de la Industria Eléctrica;
 
 XIII. Imponer las sanciones que corresponden a la Secretaría conforme a lo previsto en la Ley de Hidrocarburos, y
 
 XIV. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
 
 La Dirección General de Contenido Nacional en el Sector Energético estará a cargo de un Director General, el cual podrá auxiliarse en el ejercicio de sus atribuciones por los directores generales adjuntos de Verificación de Contenido Nacional y de Política de Contenido Nacional; por los directores de Verificación de Contenido Nacional A y B, de Política de Contenido Nacional A y B, y por los Subdirectores de Verificación de Contenido Nacional A, B, C, D y E y de Política de Contenido Nacional A, B, C, D y E.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 48 QUÁTER.- Son atribuciones de la Dirección General de Procesos y Programas de Apoyo:
+
+I. Recibir los requerimientos de información que la Secretaría realice a las empresas de industrias de hidrocarburos y de la industria eléctrica sobre el contenido nacional en las actividades que realicen, en los términos de las disposiciones jurídicas aplicables;
+
+II. Recibir las solicitudes de opinión que, en su caso, se le formulen a la Secretaría con motivo de lo previsto en los artículos 46, párrafo tercero y 128 de la Ley de Hidrocarburos y 93 de la Ley de la Industria Eléctrica, y 128 del Reglamento de la Ley de la Industria Eléctrica;
+
+III. Fungir como Secretaría Técnica de los Consejos Consultivos a los que se refieren los artículos 125 de la Ley de Hidrocarburos y 90 de la Ley de la Industria Eléctrica, así como vigilar y dar seguimiento sobre el cumplimiento de las resoluciones y compromisos adoptados en dichos Consejos Consultivos;
+
+IV. Elaborar el anteproyecto de lineamientos de funcionamiento interno del Consejo Consultivo para el Fomento de la Industria de Hidrocarburos Nacional, y proponer dicho anteproyecto al Presidente del referido Consejo Consultivo;
+
+V. Elaborar el anteproyecto de lineamientos de funcionamiento interno del Consejo Consultivo para el Fomento a la Industria Eléctrica Nacional, y proponer dicho anteproyecto al Presidente del referido Consejo Consultivo;
+
+VI. Operar el Fideicomiso Público para Promover el Desarrollo de Proveedores y Contratistas Nacionales de la Industria Energética, a fin de dar cumplimiento a lo dispuesto en la Ley de Hidrocarburos y la Ley de la Industria Eléctrica;
+
+VII. Diseñar y proponer al superior jerárquico las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en las industrias de hidrocarburos y eléctrica, así como dar seguimiento al avance en la implementación de aquellas estrategias que, en su caso, se aprueben;
+
+VIII. Resolver sobre las consultas y solicitudes que formulen los particulares a los requerimientos que se les realizan sobre el contenido nacional en las actividades que realicen en términos de las disposiciones jurídicas aplicables, y
+
+IX. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 48 QUINTUS.- Son atribuciones de la Dirección General de Promoción de Inversiones en el Sector Energético:
+
+I. Proponer a su superior jerárquico las estrategias de inversión para el fomento a la participación directa de empresas mexicanas para llevar a cabo, por sí mismas o con empresas extranjeras, actividades en la industria de hidrocarburos y eléctrica;
+
+II. Elaborar y proponer a su superior jerárquico las estrategias para el fomento a la inversión directa que impulsen la transferencia de tecnología y el conocimiento en la industria de hidrocarburos y eléctrica;
+
+III. Evaluar y opinar sobre propuestas de los sectores comercial e industrial, así como de los mecanismos y procesos para la colaboración con gobiernos y organismos extranjeros para ser propuestos ante el Consejo Consultivo para el Fomento de la Industria de Hidrocarburos Nacional y del Consejo Consultivo para el Fomento de la Industria Eléctrica Nacional, con la finalidad de crear programas para el fomento a la inversión;
+
+IV. Elaborar y proponer a su superior jerárquico las estrategias de inversión para el fomento a la participación directa de empresas mexicanas para llevar a cabo, por sí mismas, las actividades en la industria de hidrocarburos y eléctrica;
+
+V. Elaborar y proponer a su superior jerárquico las estrategias de inversión para promover la asociación entre empresas mexicanas y extranjeras, para llevar a cabo las actividades en la industria de hidrocarburos y eléctrica;
+
+VI. Diseñar acciones para promover la inversión nacional y extranjera para que se realicen actividades de permanencia en México directamente en la industria de hidrocarburos y eléctrica;
+
+VII. Identificar proyectos de inversión, sus alcances y beneficios para promover el desarrollo industrial de cadenas productivas locales y para el fomento de la inversión directa en la industria de hidrocarburos y eléctrica y elaborar estudios y programas de promoción que fomenten la inversión;
+
+VIII. Participar en ferias, congresos y cualquier tipo de eventos relacionados con la promoción de la industria nacional de hidrocarburos y eléctrica que apoyen en la definición de las estrategias para el fomento industrial de cadenas productivas locales y para el fomento de la inversión directa en dichas industrias, y
+
+IX. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
 
 ### CAPÍTULO VI. De las Delegaciones y Subdelegaciones Federales
 
@@ -1696,3 +1832,7 @@ QUINTO.- Las modificaciones a la estructura orgánica de la Secretaría de Econo
 D.O.F. 31 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE OCTUBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
