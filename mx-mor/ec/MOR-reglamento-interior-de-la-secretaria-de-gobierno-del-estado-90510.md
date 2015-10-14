@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-905
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2013-05-29"
+last_updated: "2015-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -223,7 +223,7 @@ XXXVII. Nombrar a los funcionarios de confianza de la Secretaría, siempre y cua
 
 XXXVIII. Coordinar y dirigir los trabajos y tareas de promoción y defensa de los derechos humanos que lleven a cabo las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, así como promover el respeto irrestricto de los derechos humanos, incluidos los relativos a la diversidad sexual en el Estado de Morelos;
 
-XXXIX. Coordinar, dentro de su ámbito de competencia, la implementación y consolidación del Sistema de Seguridad y Justicia Penal de Corte Acusatorio Adversarial para el Estado Libre y Soberano de Morelos, y (sic)
+XXXIX. Coordinar, dentro de su ámbito de competencia, la implementación y consolidación del Sistema de Seguridad y Justicia Penal de Corte Acusatorio Adversarial para el Estado Libre y Soberano de Morelos, y
 
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2013)</small>
 
@@ -981,7 +981,7 @@ Estos órganos tendrán la competencia y facultades que les señalen los instrum
 
 ###### Artículo 41.
 
-El Consejo Estatal de Población es un órgano desconcentrado de la Secretaría cuyo titular tendrá el nivel de Director General; quien para llevar a cabo su función de apoyo y coordinación de dicho Consejo se ajustará al objeto, integración, operatividad y atribuciones determinados en su Decreto de creación y demás normatividad aplicable.
+(DEROGADO, P.O. 14 DE OCTUBRE DE 2015)
 
 ### CAPÍTULO IX. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
@@ -1034,3 +1034,15 @@ PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 TERCERA. En un plazo que no exceda de sesenta días naturales del inicio de la vigencia del presente Decreto, las Secretarías de Gobierno y de Seguridad Pública deberán realizar las modificaciones necesarias a la normatividad administrativa interna que corresponda y expedir los correspondientes Manuales de Organización y Políticas y Procedimientos.
+
+P.O. 14 DE OCTUBRE DE 2015.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO 41 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO Y SE EXTINGUE EL CONSEJO ESTATAL DE POBLACIÓN COMO ÓRGANO DESCONCENTRADO DE LA MISMA SECRETARÍA”.]</small>
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+TERCERA. En un plazo que no exceda de sesenta días naturales, contados a partir del inicio de la vigencia del presente Decreto, la Secretaría de Gobierno del Poder Ejecutivo Estatal deberá realizar las modificaciones necesarias a la normatividad administrativa interna que corresponda.
+
+CUARTA. Los recursos humanos, materiales y presupuestales asignados al denominado Consejo Estatal de Población, como órgano desconcentrado de la Secretaría de Gobierno del Poder Ejecutivo Estatal, serán reasignados a ésta última por las autoridades competentes.
