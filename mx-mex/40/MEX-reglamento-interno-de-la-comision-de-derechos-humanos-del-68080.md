@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-68080
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-04-14"
-last_updated: "2015-05-27"
+last_updated: "2015-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 14 de abril de 2009.
 
@@ -297,17 +297,15 @@ IX. Realizar las funciones correspondientes a la unidad de información del Orga
 
 X. Proponer y ejecutar, en su caso, lineamientos, reglas y criterios en materia de información y actualización de la página web del Organismo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+XI. Proponer y ejecutar, en su caso, lineamientos, reglas y criterios para el diseño de las aplicaciones gráficas institucionales;
 
-XI. Proponer y ejecutar, en su caso, lineamientos, reglas y criterios para el diseño de las aplicaciones gráficas institucionales; y
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XII. Proponer y ejecutar, en su caso, lineamientos, reglas y criterios para administrar las cuentas en los medios sociales; y
 
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
-
-XII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
+XIII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ###### Artículo 14.
 
@@ -377,19 +375,23 @@ II. Proponer y ejecutar, en el ámbito de su competencia, el programa de la Comi
 
 > <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
 
-III. Coordinar la realización de eventos en materia de derechos humanes, en que tenga injerencia el Organismo;
+III. Coordinar la realización de eventos en materia de derechos humanos, en que tenga injerencia el Organismo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
+IV. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención conforme a las disposiciones aplicables;
 
-IV. Asistir y participar en las sesiones de Comités y Subcomités de la Comisión, en los que tenga intervención conforme a las disposiciones aplicables; y
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Administrar el Sistema Integral de Defensorías Municipales de la Comisión;
 
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2015)</small>
 
-V. Administrar el Sistema Integral de Defensorías Municipales de la Comisión.
+VI. Proponer y ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2015)</small>
+
+VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende el Presidente.
 
 ### Capítulo VIII. De las atribuciones específicas dé las unidades administrativas de la Secretaría General
 
@@ -415,9 +417,25 @@ I. Coadyuvar en la elaboración y ejecutar, en el ámbito de su competencia, el 
 
 II. Elaborar el anteproyecto del programa de promoción de los derechos humanos;
 
-III. Coordinar y organizar la realización de eventos en materia de derechos humanos, en los que tenga injerencia la Comisión; y
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2015)</small>
 
-IV. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Secretaría General.
+III. Coordinar y organizar la realización de eventos en materia de derechos humanos, en los que tenga injerencia la Comisión;
+
+> <small>(REFORMADA, G.G. 14 DE OCTUBRE DE 2015)</small>
+
+IV. Elaborar programas tendientes a garantizar de manera integral los derechos humanos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2015)</small>
+
+V. Ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2015)</small>
+
+VI. Coordinar acciones con instancias de los tres ámbitos de gobierno y sociedad civil para promover y difundir el respeto de los derechos humanos de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, G.G. 14 DE OCTUBRE DE 2015)</small>
+
+VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Secretaría General.
 
 ### Capítulo IX. De las atribuciones de la Dirección General de Administración y Finanzas
 
@@ -1168,3 +1186,15 @@ G.G. 27 DE MAYO DE 2015.
 Primero. Publíquese este acuerdo en el Periódico Oficial del Gobierno del Estado de México “Gaceta del Gobierno”.
 
 Segundo. Las reformas y adiciones aprobadas entrarán en vigor al día siguiente de su publicación, derogándose las disposiciones de igual o menor jerarquía que se opongan a las mismas.
+
+G.G. 14 DE OCTUBRE DE 2015.
+
+ACUERDO POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 13; Y, SE ADICIONA LA FRACCIÓN XII AL NUMERAL 13, RECORRIÉNDOSE LA SUBSECUENTE, DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO.
+
+Único.- Las presentes reformas y actualizaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 14 DE OCTUBRE DE 2015.
+
+[N. DE E. TRASITORIO DEL “ACUERDO DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, POR EL QUE SE MODIFICAN EL REGLAMENTO INTERNO, EL ORGANIGRAMA Y LA ESTRUCTURA ORGÁNICA TODOS DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”].
+
+Único. Las presentes reformas y actualizaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
