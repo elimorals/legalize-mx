@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-profesiones-del-estado-de-yucatan-12837"
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-23"
-last_updated: "1989-02-23"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PROFESIONES DEL ESTADO DE YUCATAN
 
-LEY DE PROFESIONES DEL ESTADO DE YUCATAN
+LEY DE PROFESIONES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2015.
 
 Ley publicada en el Diario Oficial el jueves 23 de Febrero de 1989.
 
@@ -67,59 +67,81 @@ Para los efectos de la presente Ley se entiende por Ejercicio Profesional, la re
 
 No se reputará Ejercicio Profesional los actos realizados en casos graves, con propósito de auxilio inmediato, por quien no tenga título o autorización para ejercer actos profesionales.
 
-###### ARTICULO 6º.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-Para los efectos de la presente Ley se entenderá por Dirección General de Profesiones la dependiente de la Secretaría de Educación Pública del Gobierno Federal y por Dirección de Profesiones, la dependiente de la Secretaría de Educación del Gobierno del Estado.
+###### ARTICULO 6°.
 
-###### ARTICULO 7º.
+Para los efectos de la presente Ley, se entenderá por Secretaría a la Secretaría de Investigación, Innovación y Educación Superior; y por Dirección General de Profesiones a la Dirección General de Profesiones adscrita a la Secretaría de Educación Pública del Gobierno federal.
 
-El Ejecutivo del Estado, previo dictamen de la Dirección de Profesiones del Estado y oído el parecer del Colegio de Profesionistas de la rama de que se trate y el de las Comisiones Técnicas, a través de la Secretaría de Educación emitirá los reglamentos que delimiten los campos de acción de las profesiones y el de las ramas correspondientes.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 7°.
+
+El Gobernador del Estado, previo dictamen de la Secretaría y de las Comisiones Técnicas, emitirá los reglamentos que delimiten los campos de acción de las profesiones y el de las ramas correspondientes.
 
 ### CAPITULO II.
 
 DEL EJERCICIO PROFESIONAL EN EL ESTADO.
 
-###### ARTICULO 8º.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-Para que los profesionistas con título expedido por una Institución ubicada en el Estado puedan ejercer su profesión, deberán registrar dicho título en la Dirección de Profesiones.
+###### ARTICULO 8°.
 
-###### ARTICULO 9º.
+Para que los profesionistas con título expedido por una Institución ubicada en el Estado puedan ejercer su profesión, deberán registrar dicho título en la Secretaría.
 
-Para que los profesionistas con título expedido por una Institución ubicada en Territorio Nacional, pero fuera del Estado, puedan ejercer su profesión, deberán registrar dicho título en la Dirección de Profesiones y acreditar previamente que dicho título ha sido registrado en la Entidad Federativa, en la que se encuentre ubicada dicha Institución o en la Dirección General de Profesiones.
+Una vez registrado el título, la Secretaría expedirá la cédula profesional respectiva.
 
-###### ARTICULO 10º.
+Para tal efecto podrá celebrar convenios de coordinación con el Ejecutivo Federal y con otras entidades federativas.
 
-Para que los profesionistas mexicanos con título expedido por una institución ubicada en el extranjero puedan ejercer su profesión, deberán registrar dicho título en la Dirección de Profesiones y acreditar previamente que dicho título ha sido registrado en la Dirección General de Profesiones.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 9°.
+
+Para que los profesionistas con título expedido por una institución ubicada en otra entidad del país puedan ejercer su profesión, deberán registrar dicho título en la Secretaría y acreditar previamente que dicho título ha sido registrado en la entidad en la que se encuentre ubicada la institución o en la Dirección General de Profesiones.
+
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 10°.
+
+Para que los profesionistas mexicanos con título expedido por una institución ubicada en el extranjero puedan ejercer su profesión, deberán registrar dicho título en la Secretaría y acreditar previamente que dicho título ha sido registrado en la Dirección General de Profesiones.
 
 ###### ARTICULO 11°.
 
 Para que los profesionistas a que se refieren los artículos 8, 9 y 10, de esta Ley puedan ejercer en el Estado, deberán estar en pleno goce y ejercicio de sus Derechos civiles.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 12.
 
-La Dirección de Profesiones podrá conceder permisos temporales a los extranjeros para ejercer su profesión, previo el cumplimiento de las disposiciones legales aplicables, el acuerdo del Ejecutivo del Estado y la conformidad del Colegio de Profesionistas respectivo.
+La Secretaría podrá conceder permisos temporales a los extranjeros para ejercer su profesión, previo el cumplimiento de las disposiciones legales aplicables.
 
 ###### ARTICULO 13.
 
 Las autoridades judiciales y las que conozcan de asuntos Contencioso-Administrativos, rechazarán la intervención en calidad de patronos, directores, asesores técnicos, responsables o mandatarios de los interesados, a personas que no tengan título profesional registrado e inscrito en los términos de esta Ley. Se exceptúan los casos de los gestores en asuntos obreros, agrarios y cooperativos y el señalado en la fracción IX del Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 14.
 
-La Dirección de Profesiones podrá extender autorización a pasantes o estudiantes de las diversas escuelas o facultades instituidas de acuerdo a esta Ley, para ejercer por vía de práctica o servicio social, con motivo de titulación, actos profesionales cuya duración estará sujeta a lo dispuesto en los planes de estudio.
+La Secretaría podrá extender autorización a pasantes o estudiantes de las diversas escuelas o facultades instituidas de acuerdo a esta Ley, para ejercer, por vía de práctica o servicio social, con motivo de titulación, actos profesionales, cuya duración estará sujeta a lo dispuesto en los planes de estudio.
 
-Para los efectos anteriores, se considera pasante a los estudiantes que así sean reconocidos por las instituciones educativas; este carácter se demostrará con los informes y constancias de la facultad o la Dirección de Profesiones.
+Para los efectos anteriores, se consideran pasantes a los estudiantes que así sean reconocidos por las instituciones educativas; este carácter se demostrará con los informes y constancias de la facultad o de la Secretaría.
 
-Para garantizar el adecuado ejercicio profesional, el pasante deberá estar asesorado por un profesionista inscrito en la Dirección de Profesiones.
+Para garantizar el adecuado ejercicio profesional, el pasante deberá estar asesorado por un profesionista inscrito en la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 15.
 
-Los pasantes de las diversas profesiones, podrán obtener de la Dirección de Profesiones, autorización para ejecutar actos profesionales hasta por el término improrrogable de un año, para lo cual deberán llenar los requisitos siguientes:
+Los pasantes de las diversas profesiones podrán obtener de la Secretaría, autorización para ejecutar actos profesionales hasta por el término improrrogable de un año, para lo cual deberán llenar los requisitos siguientes:
 
 I.- Ser Mexicano;
 
 II.- Obtener carta de pasante;
 
-III.- Obtener la responsiva de un profesionista titulado e inscrito en la Dirección de Profesiones.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+III.- Obtener la responsiva de un profesionista titulado e inscrito en la Secretaría.
 
 ###### ARTICULO 16.
 
@@ -145,25 +167,27 @@ II.- Figurar o hacerse aparecer como responsables de servicios profesionales, qu
 
 El profesionista o pasante está obligado a poner todos sus conocimientos científicos y recursos técnicos en el desempeño de su trabajo, ya sea en el libre ejercicio profesional, o bien, con cualquier otro carácter.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2015)</small>
+
 ### CAPITULO III.
 
-DE LA DIRECCION DE PROFESIONES.
+DE LA SECRETARIA DE INVESTIGACION, INNOVACION Y EDUCACION SUPERIOR.
+
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 21.
 
-Se establece la Dirección de Profesiones como dependencia de la Secretaría de Educación del Gobierno del Estado, que tendrá a su cargo vigilar el ejercicio profesional en el Estado de Yucatán y supervisar que se cumplan las disposiciones legales aplicables, de conformidad con las atribuciones que establece la presente Ley.
+La Secretaría de Investigación, Innovación y Educación Superior tendrá a su cargo vigilar el ejercicio profesional en el Estado de Yucatán y supervisar que se cumplan las disposiciones legales aplicables, de conformidad con las atribuciones que establece la presente Ley.
 
 ###### ARTICULO 22.
 
-La Dirección de Profesiones estará integrada por:
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
-I.- Un representante del Gobierno del Estado, con carácter de Director y
-
-II.- El personal o empleados necesarios para el desempeño de sus funciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 23.
 
-Son atribuciones de la Dirección de Profesiones:
+Son atribuciones de la Secretaría:
 
 I.- Ser órgano de relación entre el Estado y los Colegios de Profesionistas y los profesionistas mismos, en todo lo referente al ejercicio de las profesiones y la aplicación y cumplimiento de la presente Ley.
 
@@ -183,9 +207,13 @@ VIII.- Tramitar ante el Ejecutivo del Estado, la publicación en el Diario Ofici
 
 IX.- Emitir las autorizaciones temporales para el ejercicio profesional, de acuerdo a lo establecido en esta Ley sus reglamentos.
 
-X.- Inscribir a las instituciones de educación media superior y superior autorizadas en el Estado.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XI.- Formar el archivo de la Dirección, en el que además de los documentos propios de la dependencia, se archiven los planes de estudio y demás datos relacionados con la educación media superior y superior técnica y universitaria que se imparte en el Estado.
+X.- Inscribir las instituciones de educación superior autorizadas en el Estado.
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XI.- Integrar en su archivo, los planes de estudio y demás datos relacionados con la educación superior que se imparte en el Estado.
 
 XII.- Cancelar la inscripción de los colegios de profesionistas, cuando éstos no se ajusten en su ejercicio a las disposiciones de esta Ley y su reglamento.
 
@@ -193,7 +221,9 @@ XIII.- Vigilar que la publicidad hecha por los profesionistas, colegios de profe
 
 XIV.- Conocer los casos de infracción a los mandatos de la presente Ley y aplicar las sanciones respectivas.
 
-XV.- Proporcionar a la autoridad competente, los informes relacionados con asuntos de la Dirección.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XV.- Proporcionar a la autoridad competente, los informes relacionados con los asuntos de su competencia.
 
 XVI.- Promover las alternativas de titulación ante las instituciones educativas, a fin de incrementar el número de profesionistas titulados en el Estado.
 
@@ -205,9 +235,11 @@ XVIII.- Las demás que señalen las Leyes y reglamentos.
 
 DE LOS COLEGIOS DE PROFESIONISTAS.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 24.
 
-Los Profesionistas con Título registrado, podrán constituir en el Estado un máximo de tres colegios por cada rama profesional, gobernados en los términos que señale su propio reglamento.
+Los profesionistas con título registrado, podrán constituir en el Estado colegios por cada rama profesional, gobernados en los términos que señale su propio reglamento.
 
 ###### ARTICULO 25.
 
@@ -221,11 +253,13 @@ I.- Sujetarse a lo que ordena el Artículo 9 de la Constitución General de la R
 
 II.- Satisfacer lo estipulado por el Código Civil del Estado, en lo referente a la Constitución de Asociaciones Civiles, en lo que no se oponga a esta Ley; y
 
-III.- Cumplir con lo dispuesto en la Ley Reglamentaria de los Artículos 4o. y 5o. Constitucionales.
+III.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 27.
 
-Los Colegios de Profesionistas están obligados a inscribirse en la Dirección de Profesiones, para tal efecto deberán exhibir:
+Los Colegios de Profesionistas están obligados a inscribirse en la Secretaría, para tal efecto deberán exhibir:
 
 I.- Copia del testimonio de la escritura pública de constitución o de la protocolización del Acta Constitutiva, así como de los estatutos que lo rijan.
 
@@ -239,17 +273,25 @@ IV.- Copia del dictamen de registro de la Dirección General de Profesiones.
 
 Los colegios de profesionistas en el ejercicio de su función, deberán:
 
-I.- Vigilar la actividad profesional de sus integrantes, procurando que se realice dentro del más alto nivel ético y moral, denunciando ante la Dirección de Profesiones, las violaciones a la presente Ley, que se cometan y que constituyan faltas o delitos.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-II.- Ser miembros de las comisiones técnicas que coordine la Dirección de Profesiones.
+I.- Vigilar la actividad profesional de sus integrantes, procurando que se realice dentro del más alto nivel ético y moral, denunciando ante la Secretaría, las violaciones a la presente Ley, que se cometan y que constituyan faltas o delitos.
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+II.- Ser miembros de las comisiones técnicas que coordine la Secretaría.
 
 III.- Promover ante las autoridades competentes la expedición de Leyes y Reglamentos y las reformas a los ya existentes relacionados con el ejercicio profesional.
 
 IV.- Promover ante el Ejecutivo del Estado por los conductos debidos, los aranceles profesionales y sus modificaciones.
 
-V.- Formar listas de peritos profesionales divididas por especialidades, que servirán a las autoridades. Copias de las listas serán enviadas por conducto de la Dirección de Profesiones al Ejecutivo del Estado, al Tribunal Superior de Justicia y a las autoridades federales.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-VI.- Expulsar, previa audiencia, que de acuerdo con sus estatutos celebre el colegio, a los miembros que deshonren o desprestigien la profesión, dando cuenta de ello a la Dirección de Profesiones.
+V.- Llevar un registro de peritos profesionales divididos por especialidades.
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+VI.- Expulsar, previa audiencia, que de acuerdo con sus estatutos celebre el colegio, a los miembros que deshonren o desprestigien la profesión.
 
 VII.- Coadyuvar con la Administración Pública a efecto de que sus servicios se realicen con el más alto sentido de servicio social.
 
@@ -267,13 +309,17 @@ XIII.- Servir como árbitro en los conflictos que se susciten entre los profesio
 
 XIV.- Cumplir con las disposiciones que esta Ley y su Reglamento les confieran o impongan.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 29.
 
-La Dirección de Profesiones formará comisiones técnicas consultivas relativas a cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada comisión estará integrada por un representante de la Secretaría de Educación del Estado, otro por las Instituciones Educativas y otro del Colegio de Profesionistas del ramo.
+La Secretaría formará comisiones técnicas consultivas relativas a cada una de las profesiones, que se encargarán de estudiar y dictaminar sobre los asuntos de su competencia. Cada comisión estará integrada por representantes de la Secretaría, de las instituciones educativas y del Colegio de Profesionistas del ramo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 30.
 
-Las comisiones técnicas serán órganos de consulta de la Dirección de profesiones y tendrán por objeto estudiar y dictaminar en los siguientes asuntos:
+Las comisiones técnicas serán órganos de consulta de la Secretaría y tendrán por objeto estudiar y dictaminar los siguientes asuntos:
 
 I.- Los reglamentos de ejercicio y delimitación de cada profesión o de la rama en que se subdivida.
 
@@ -303,17 +349,17 @@ Los planes de estudio, según la naturaleza de la profesión y las necesidades s
 
 ### CAPITULO VI. DE LAS INSTITUCIONES EDUCATIVAS
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 35.
 
-Para establecer en el Estado, alguna Institución de Educación Media Superior y Superior, se requerirá:
+Para establecer en el Estado alguna institución de educación superior, se requerirá obtener la autorización o reconocimiento de la autoridad competente y registrarse en la Secretaría.
 
-I.- Obtener la autorización o reconocimiento de la autoridad competente.
-
-II.- Obtener registro ante la Dirección General de Profesiones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 36.
 
-Todas las Instituciones de Educación Media Superior y Superior, que funcionen en el Estado, deberán inscribirse en la Dirección de Profesiones para lo cual presentarán:
+Todas las instituciones de educación superior que funcionen en el Estado deberán inscribirse en la Secretaría para lo cual presentarán:
 
 I.- La autorización y reconocimiento de la autoridad competente.
 
@@ -327,65 +373,77 @@ IV.- Firmas de los funcionarios responsables de la emisión de Títulos.
 
 La inscripción de las Instituciones Educativas, así como de las carreras profesionales o modificacione (sic) de ellas, deberá realizarse en un plazo no mayor de seis meses, a partir de la autorización o reconocimiento de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 38.
 
-La publicidad que realicen las Instituciones Educativas del Nivel Medio Superior y Superior, legalmente autorizadas en el Estado, deberán contener:
+La publicidad que realicen las instituciones educativas del nivel superior legalmente autorizadas en el Estado deberán contener:
 
 I.- Fecha y número del acuerdo de autorización o reconocimiento de la autoridad competente;
 
 II.- Fecha y número del dictamen del registro de la Dirección General de Profesiones; y
 
-III.- Número de inscripción en la Dirección de Profesiones.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+III.- Número de inscripción en la Secretaría.
 
 ### CAPITULO VII. DE LAS FALTAS, DELITOS, SANCIONES Y RECURSOS
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 39.
 
-Los actos u omisiones contra las disposiciones de esta Ley, se reputarán como faltas o como delitos. Las primeras serán sancionadas por la Dirección de Profesiones; y los segundos se perseguirán de oficio por el Ministerio Público y serán juzgados por las autoridades de defensa social.
+Corresponde a la Secretaría realizar las inspecciones correspondientes para verificar el cumplimiento de esta Ley, así como sancionar su incumplimiento.
 
 ###### ARTICULO 40.
 
-Cuando una persona se atribuya el carácter de profesionista sin tener Título Legal o ejerza los actos propios de la profesión, será sancionada de acuerdo con las penas previstas por el Código de Defensa Social del Estado.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
+
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 41.
 
-Al profesionista que tenga Título legalmente expedido, pero que no lo haya registrado en los términos de esta Ley y ejerza actos propios de la profesión, se le amonestará la primera vez con el apercibimiento de multa; en caso de reincidencia, la Dirección de Profesiones le impondrá una multa equivalente a treinta veces el salario mínimo general diario correspondiente a la Ciudad de Mérida, previa audiencia del infractor. De continuar la irregularidad se le duplicará la sanción o se le impondrá suspensión por un término no menor de seis meses ni mayor de dos años.
+Al profesionista que tenga título legalmente expedido, pero que no lo haya registrado en los términos de esta Ley y ejerza actos propios de la profesión, se le amonestará la primera vez con el apercibimiento de multa; en caso de reincidencia, la Secretaría le impondrá una multa equivalente a treinta veces el salario mínimo general diario correspondiente a la ciudad de Mérida, previa audiencia del infractor. De continuar la irregularidad, se le duplicará la sanción o se le impondrá suspensión por un término no menor de seis meses ni mayor de dos años.
 
 ###### ARTICULO 42.
 
 Queda prohibido el uso de la expresión "Colegio de Profesionistas", a las agrupaciones o asociaciones de personas no constituidas en los términos de esta Ley, como colegio. Quienes infrinjan esta disposición serán sancionados con una multa equivalente a cincuenta veces el salario mínimo general diario correspondiente a la Ciudad de Mérida.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 43.
 
-Las Instituciones Educativas consideradas por esta Ley, que no se inscriban en la Dirección de Profesiones, se harán acreedoras primeramente de una multa equivalente a cien veces el salario mínimo general diario de la Ciudad de Mérida; y en caso de reincidencia, la Dirección de Profesiones promoverá ante las autoridades competentes la cancelación de la autorización o reconocimiento hecho a la Institución Educativa.
+A las instituciones educativas consideradas por esta Ley, que no se inscriban en la Secretaría se les impondrá una multa equivalente a mil veces el salario mínimo general diario de la ciudad de Mérida; y, en caso de reincidencia, la Secretaría promoverá, ante las autoridades competentes, la cancelación de la autorización o reconocimiento hecho a la institución educativa.
+
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 44.
 
-La Dirección de Profesiones tiene la facultad de imponer a las Instituciones Educativas, a los colegios de profesionistas y a éstos individualmente, las sanciones económicas y las suspensiones temporales que señala esta Ley; las multas o sanciones pecuniarias se harán efectivas mediante la aplicación del procedimiento administrativo de ejecución, por la Secretaría de Finanzas del Estado.
+La imposición de las sanciones a que se refiere este capítulo se realizará de conformidad con lo dispuesto en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
 ###### ARTICULO 45.
 
-En la imposición de sanciones por Comisión de faltas a esta Ley, siempre se tomarán en cuenta las circunstancias en que fueron cometidas y las consecuencias de las mismas, así como el prestigio profesional y la situación del infractor.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 46.
 
-Contra las resoluciones que dicte la Dirección de Profesiones con fundamento en las disposiciones de esta Ley, procederá el recurso de revisión, que deberá interponerse dentro de los cinco días hábiles siguientes a la fecha de la notificación y deberá ser resuelto por la Secretaría de Educación.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 47.
 
-El recurso de revisión, se presentará por escrito ante la Dirección de Profesiones, expresándose el nombre y datos generales y profesionales del recurrente y los agravios causados, acompañándose los documentos probatorios correspondientes.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 48.
 
-Interpuesto el recurso, la Dirección de Profesiones, remitirá la documentación respectiva a la Secretaría de Educación, la cual resolverá dentro del término de quince días.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 49.
 
-Resuelto el recurso, la Secretaría de Educación dentro de los tres días hábiles siguientes, notificará personalmente al recurrente, la resolución respectiva.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 50.
 
-Contra la resolución que se dicte en el recurso de revisión procederá juicio ante el Tribunal de lo Contencioso Administrativo del Estado, en los términos de la legislación correspondiente.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ## ARTICULOS TRANSITORIOS
 
@@ -414,3 +472,55 @@ LIC. VICTOR MANZANILLA SCHAFFER.
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARCO ANTONIO MARTINEZ ZAPATA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 14 DE OCTUBRE DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el diario oficial del Estado.
+
+Segundo. Obligación normativa
+
+El titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los noventa días naturales siguientes contados a partir de su entrada en vigor.
+
+Tercero. Relaciones laborales
+
+El personal de base que preste sus servicios en el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán pasará a formar parte de la Secretaría de Investigación, Innovación y Educación Superior y se estará a lo que señalen las disposiciones legales aplicables.
+
+Cuarto. Ajustes presupuestales
+
+El Gobernador del Estado, por medio de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales, financieros y materiales asignados a la Secretaría de Educación para prestar los servicios que, mediante este decreto, se atribuirán a la Secretaría de Investigación, Innovación y Educación Superior, para su debido funcionamiento.
+
+Quinto. Transferencia de recursos
+
+Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas al Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán se transferirán a la Secretaría de Investigación, Innovación y Educación Superior.
+
+Sexto. Asuntos pendientes
+
+Los convenios, actos jurídicos, asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, y que por su naturaleza subsistan, a partir de la entrada en vigor de este decreto, quedarán a cargo de la Secretaría de Investigación, Innovación y Educación Superior.
+
+Séptimo. Referencias al consejo
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, se entenderán referidas a la Secretaría de Investigación, Innovación y Educación Superior.
+
+Octavo. Obligación normativa de la junta de gobierno
+
+La Junta de Gobierno del Consejo de Ciencia, innovación y Tecnología del Estado de Yucatán deberá publicar en el Diario Oficial del Gobierno (sic) Estado, los lineamientos para llevar a cabo la liquidación del consejo, dentro de los treinta días naturales siguientes a la entrada en vigor de este decreto.
+
+Noveno. Obligación de la dependencia coordinadora de sector
+
+La Secretaría de Educación del Gobierno del Estado, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Décimo. Derogación tacita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+Décimo Primero. Informe trimestral
+
+La Secretaría de Administración y Finanzas, una vez concluidos los movimientos y ajustes presupuestales, deberá enviar un informe financiero de éstos al Congreso del Estado.
+
+Décimo Segundo. Plan estratégico
+
+A partir de la entrada en vigor de las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, se dará un plazo máximo de 60 días para que se establezca un plan estratégico que atienda proyectos de investigación de alto impacto en las condiciones de vida de la población. Asimismo, para este propósito se destinará un porcentaje de al menos el 20% del incremento en gasto público de la nueva Secretaría para actividades destinadas a la investigación científica de impacto social.
