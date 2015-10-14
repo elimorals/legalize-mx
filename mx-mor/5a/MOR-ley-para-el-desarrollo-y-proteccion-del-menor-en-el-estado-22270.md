@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-el-desarrollo-y-proteccion-del-menor-en-el-estado-2227
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-12"
-last_updated: "2015-04-29"
+last_updated: "2015-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DEL MENOR EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 14 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2015 (ABROGADA)
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de marzo de 1997.
 
@@ -934,3 +936,35 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 14 DE OCTUBRE DE 2015.
+
+PRIMERA. Remítase la presente Ley al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos., con excepción de lo dispuesto en la Disposición Transitoria Quinta.
+
+TERCERA. La presente Ley, abroga la Ley para el Desarrollo y Protección del Menor en el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 3849 de fecha 12 de Marzo de 1997.
+
+CUARTA. En un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley, el Poder Ejecutivo del Estado de Morelos, deberá de expedir el reglamento de la presente Ley.
+
+QUINTA. En un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley, los Integrantes de los Ayuntamientos del Estado de Morelos, en el ámbito de su competencia, deberán de expedir la reglamentación correspondiente para el cumplimento irrestricto de la presente Ley.
+
+SEXTA. El Poder Ejecutivo del Estado de Morelos, así como los Ayuntamientos de la Entidad en el ámbito de sus competencias, deberán incorporar en sus proyectos de presupuesto para el año 2016, la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+SÉPTIMA. La actual Procuraduría de la Defensa del Menor y la Familia, quedará facultada para cumplir y ejecutar las disposiciones normativas atribuidas a la Procuraduría de protección Local, que prevé la Ley General De los Derechos de las Niñas, Niños y Adolescentes.
+
+OCTAVA. El Sistema DIF Estatal, deberá reformar su Reglamento Interno, a fin de que en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor de la presente Ley, se armonice (sic) las facultades conferidas a la Procuraduría de la Defensa del Menor y la Familia, en funciones de la Procuraduría de Protección Local de conformidad con la Ley General y la presente Ley.
+
+NOVENA. El Sistema Estatal de Protección de los Derechos de las Niñas, Niños y Adolescentes, deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación de la presente Ley. En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento.
+
+El Titular de la Secretaría Ejecutiva del Sistema, será designado por el Presidente del Sistema y una vez instalado el Sistema Estatal de Protección de los Derechos de las Niñas, Niños y Adolescentes, quien dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 103 de esta Ley.
+
+El Presidente del Sistema Estatal de Protección de los Derechos de las Niñas, Niños y Adolescentes, realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Estatal de Protección.
+
+DÉCIMA. Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor de la presente Ley contarán con un plazo de 180 días naturales a partir de su publicación en el Periódico Oficial "Tierra y Libertad", para realizar las adecuaciones conducentes en términos de lo previsto por esta Ley.
+
+DÉCIMA PRIMERA. Las autoridades Estatales y Municipales de Morelos, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
+
+DÉCIMA SEGUNDA. Comuníquese a la Cámara de Senadores del Congreso de la Unión, que este Congreso del Estado, ha cumplido con los exhortos enviados por el Senado de la República, respecto a las modificaciones legislativas en materia de protección de los derechos de las niñas, niños y adolescentes.
+
+DÉCIMA TERCERA. Se derogan todas las disposiciones normativas de igual o menor jerarquía que se opongan a la presente Ley.
