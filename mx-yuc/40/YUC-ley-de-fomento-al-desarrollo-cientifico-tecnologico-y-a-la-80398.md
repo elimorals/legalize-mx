@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fomento-al-desarrollo-cientifico-tecnologico-y-a-la-8039
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-23"
-last_updated: "2011-03-23"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE FOMENTO AL DESARROLLO CIENTÍFICO, TECNOLÓGICO Y A LA INNOVACIÓN DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO 309/2015, PUBLICADO EN EL D.O. 14 DE OCTUBRE DE 2015, CUANDO OTRAS DISPOSICIONES LEGALES MENCIONEN O CONTEMPLEN LA FIGURA DEL CONSEJO DE CIENCIA, INNOVACIÓN Y TECNOLOGÍA DEL ESTADO DE YUCATÁN, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE INVESTIGACIÓN, INNOVACIÓN Y EDUCACIÓN SUPERIOR.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2015.
 
 Ley publicada en el Suplemento al Diario Oficial del Gobierno del Estado de Yucatán, el miércoles 23 de marzo de 2011.
 
@@ -57,13 +59,19 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 Esta Ley tiene por objeto:
 
-I.- Definir los criterios en los que se basarán el Gobierno del Estado de Yucatán, los ayuntamientos y el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, para cumplir con su obligación de impulsar y fomentar las actividades científicas, tecnológicas, de innovación y de vinculación;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-II.- Regular el funcionamiento del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán;
+I.- Definir los criterios en los que se basarán el Gobierno del Estado de Yucatán y los ayuntamientos para cumplir con su obligación de impulsar y fomentar las actividades científicas, tecnológicas, de innovación y de vinculación;
 
-III.- Determinar los instrumentos y apoyos mediante los cuales el Gobierno del Estado de Yucatán y el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, cumplirán con su obligación de promover el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
+II.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
-IV.- Establecer los lineamientos para la elaboración del Programa Estatal de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+III.- Determinar los instrumentos y apoyos mediante los cuales el Gobierno del Estado de Yucatán cumplirá con su obligación de promover el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+IV.- Establecer los lineamientos para la elaboración del Programa Especial de Ciencia, Tecnología e Innovación;
 
 V.- Establecer criterios y mecanismos de financiamiento para actividades de Desarrollo Científico y Tecnológico, de Innovación y de Vinculación;
 
@@ -103,13 +111,13 @@ I.- Actividades Científicas y Tecnológicas: aquellas de carácter sistemático
 
 II.- Comité: el Comité Interinstitucional de Planeación y Coordinación del Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán;
 
-III.- CONCIYTEY: el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán;
+III.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
 IV.- Desarrollo Científico: el trabajo sistemático, creativo y riguroso realizado para ampliar la frontera del conocimiento sobre la naturaleza, el hombre, la cultura y la sociedad;
 
 V.- Desarrollo Tecnológico: el proceso de transformación por adopción, adaptación y/o innovación de una tecnología, para propiciar el bienestar social;
 
-VI.- Director General: el Director General del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán;
+VI.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
 VII.- Empresa de Base Tecnológica: es aquella que se caracteriza por una serie de rasgos, tales como:
 
@@ -135,19 +143,29 @@ IX.- Innovación: la transformación de una idea en un producto, proceso de fabr
 
 X.- Investigación: las actividades de generación, mejoramiento, aplicación innovadora y difusión del conocimiento en las diversas áreas relacionadas con la ciencia y la tecnología, orientadas a dar respuesta a las demandas sociales, a la atención de la problemática del Estado, de sus sectores, así como al avance del conocimiento;
 
-XI.- Junta de Gobierno: la Junta de Gobierno del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán;
+XI.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
 XII.- Ley: la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación del Estado de Yucatán;
 
-XIII.- Programa: el Programa Estatal de Ciencia, Tecnología e Innovación, el cual deberá considerarse como el marco orientador para impulsar las actividades relacionadas con el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XIII.- Programa: el Programa Especial de Ciencia, Tecnología e Innovación, el cual deberá considerarse como el marco orientador para impulsar las actividades relacionadas con el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
 
 XIV.- Reglamento: el Reglamento de la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación del Estado de Yucatán;
 
-XV.- Reglamento Interno: el Reglamento del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán;
+XV.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
-XVI.- SIIDETEY: el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán, y
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XVII.- Vinculación: el mecanismo que facilita el intercambio de información y conocimiento sobre necesidades, áreas de oportunidad, tecnología e intereses.
+XVI.- Secretaría: la Secretaría de Investigación, Innovación y Educación Superior del Estado;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XVII.- SIIDETEY: el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XVIII.- Vinculación: el mecanismo que facilita el intercambio de información y conocimiento sobre necesidades, áreas de oportunidad, tecnología e intereses.
 
 ###### Artículo 4.
 
@@ -213,9 +231,11 @@ I.- El Gobernador del Estado;
 
 II.- Los ayuntamientos;
 
-III.- La Secretaría de Educación, y
+III.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
-IV.- El CONCIYTEY.
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+IV.- La Secretaría.
 
 ###### Artículo 6.
 
@@ -225,7 +245,9 @@ I.- Planear, conducir y coordinar la política de Estado que oriente el desarrol
 
 II.- Establecer en los Planes Estatal de Desarrollo y de Gobierno del Estado, las políticas y programas relativos al fomento del Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, de conformidad con lo previsto en esta Ley;
 
-III.- Aprobar y expedir el Programa Estatal de Ciencia, Tecnología e Innovación, el cual deberá enmarcarse en los objetivos de la política científica, tecnológica, de Innovación y de Vinculación del Estado de Yucatán y coadyuvar con el logro de los objetivos del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+III.- Aprobar y expedir el Programa, el cual deberá enmarcarse en los objetivos de la política Científica, Tecnológica, de Innovación y de Vinculación del Estado de Yucatán y coadyuvar con el logro de los objetivos del Plan Estatal de Desarrollo;
 
 IV.- Considerar en los proyectos, programas y presupuestos, las acciones y los recursos necesarios para el fortalecimiento de la ciencia, el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, y en particular, para el eficaz cumplimiento del objeto de esta Ley;
 
@@ -247,11 +269,15 @@ XI.- Las demás que le señalen las disposiciones legales aplicables.
 
 Los ayuntamientos del Estado procurarán, en el ámbito de su competencia y en la medida de sus posibilidades:
 
-I.- Establecer las políticas conforme a las cuales desarrollen actividades que tengan por objeto el fortalecimiento, el desarrollo y el fomento de la ciencia, la tecnología, la Innovación y la Vinculación en el ámbito municipal, en el marco del Programa Estatal de Ciencia, Tecnología e Innovación y los objetivos de la política de ciencia, tecnología, Innovación y Vinculación;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+I.- Establecer las políticas conforme a las cuales desarrollen actividades que tengan por objeto el fortalecimiento, el desarrollo y el fomento de la Ciencia, la Tecnología, la Innovación y la Vinculación en el ámbito municipal, en el marco del Programa y los objetivos de la política de Ciencia, Tecnología, Innovación y Vinculación;
 
 II.- Fijar en sus presupuestos correspondientes los recursos necesarios para la realización de las actividades relacionadas con el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
 
-III.- Realizar las acciones necesarias para impulsar el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, en coordinación con el Poder Ejecutivo del Estado y con el CONCIYTEY, en el marco del Programa Estatal de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+III.- Realizar las acciones necesarias para impulsar el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, en coordinación con el Poder Ejecutivo del Estado y con la Secretaría, en el marco del Programa;
 
 IV.- Fomentar la realización de actividades de divulgación y difusión de la Ciencia y la Tecnología;
 
@@ -259,401 +285,125 @@ V.- Apoyar la formación de recursos humanos de alto nivel académico, y
 
 VI.- Realizar aquellas otras actividades que se prevengan en esta Ley o en otros ordenamientos y que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con el fortalecimiento y la promoción del Desarrollo Científico y Tecnológico, la Innovación y la Vinculación.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-Corresponde a la Secretaría de Educación, en el ámbito de su competencia:
+La Secretaría tendrá las siguientes atribuciones:
 
-I.- Apoyar al Gobernador del Estado en la formulación de políticas para impulsar el desarrollo científico, tecnológico y la Innovación en la Entidad;
+I.- Elaborar y presentar al Gobernador, el Programa Especial de Ciencia, Tecnología e Innovación;
 
-II.- Impulsar la mejora continua y el aseguramiento de la calidad de los programas educativos que ofrezcan las instituciones de educación media superior en el Estado, orientados a la formación de técnicos y profesionales en áreas científicas y tecnológicas, altamente competentes a nivel nacional e internacional;
-
-III.- Promover la actualización permanente de los programas educativos que se ofrecen en el Sistema Educativo Estatal con el objetivo de lograr su pertinencia social y la incorporación de los avances científicos y tecnológicos;
-
-IV.- Impulsar el diseño e implementación de programas educativos en áreas científicas y tecnológicas que se ofrezcan en colaboración entre instituciones de educación superior en el Estado, para articular y potenciar las capacidades existentes y optimizar el uso de la infraestructura y equipamiento disponible;
-
-V.- Impulsar la incorporación de innovaciones educativas en el Sistema Educativo Estatal, derivadas de la investigación científica y tecnológica;
-
-VI.- Editar materiales educativos que promuevan el conocimiento científico y tecnológico en los estudiantes del Sistema Educativo Estatal;
-
-VII.- Fomentar en los estudiantes del Sistema Educativo Estatal, la vocación por el desarrollo científico y tecnológico, particularmente entre aquellos que realizan estudios de educación básica;
-
-VIII.- Establecer en las instituciones de educación media superior, esquemas de promoción de la oferta de educación superior de reconocida calidad que ofrezcan las instituciones en el Estado, para la realización de estudios de licenciatura en áreas científicas y tecnológicas;
-
-IX.- Implementar programas para la detección de talentos en las escuelas de educación básica y media superior y apoyar sus trayectorias educativas para lograr su incorporación en programas de licenciatura y posgrado orientados a formar personal especializado que coadyuve a fortalecer las capacidades del Estado para el desarrollo científico, tecnológico y la Innovación;
-
-X.- Diseñar y operar un programa de becas que privilegie la realización de estudios de licenciatura y posgrado en programas de reconocida calidad en áreas científicas y tecnológicas;
-
-XI.- Promover la participación de científicos y tecnólogos, particularmente del Estado, en el desarrollo de proyectos educativos que coadyuven a mejorar la calidad de las instituciones de educación básica y media superior de la Entidad;
-
-XII.- Promover el establecimiento de programas de difusión y divulgación científica y tecnológica en las instituciones que forman parte del Sistema Educativo Estatal, y en la sociedad en general, en colaboración con el CONCIYTEY;
-
-XIII.- Promover, en colaboración con el CONCIYTEY, el fortalecimiento de las capacidades de las instituciones de educación superior públicas y particulares, para el desarrollo científico, tecnológico y la Innovación;
-
-XIV.- Fomentar la incorporación de científicos y tecnólogos de alto nivel en las instituciones de educación superior en el Estado para fortalecer la calidad de la oferta educativa y las capacidades para el desarrollo científico, tecnológico y la Innovación;
-
-XV.- Promover y apoyar el desarrollo de proyectos de investigación que atiendan problemáticas relevantes del Sistema Educativo Estatal, privilegiando la colaboración entre instituciones educativas y centros de investigación en la Entidad, y
-
-XVI.- Las demás inherentes al cumplimiento de su objeto y las que le señalen las disposiciones legales y reglamentarias aplicables.
-
-## TÍTULO SEGUNDO. CONSEJO DE CIENCIA, INNOVACIÓN Y TECNOLOGÍA DEL ESTADO DE YUCATÁN
-
-### CAPÍTULO I. De las Atribuciones del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán
-
-###### Artículo 9.
-
-El Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, es un organismo público descentralizado del Estado de Yucatán, con personalidad jurídica y patrimonio propio, que tiene por objeto promover y apoyar la investigación científica, el desarrollo tecnológico, la Innovación y la Vinculación.
-
-###### Artículo 10.
-
-El CONCIYTEY, tendrá las siguientes atribuciones:
-
-I.- Impulsar el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación en el Estado mediante:
-
-a) El fomento al fortalecimiento de las capacidades de las instituciones de educación superior, centros de investigación, Empresas de Base Tecnológica, entidades y dependencias de la Administración Pública del Estado, para el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
-
-b) El fomento a la mejora continua y al aseguramiento de la calidad de los programas de posgrado en el Estado, y en general de todos aquellos cursos y programas de formación y actualización de conocimientos de alto nivel científico y tecnológico, en coordinación con la Secretaría de Educación;
-
-c) La promoción y el apoyo a la formación de recursos humanos de alto nivel académico para el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación en las instituciones de educación superior, centros de investigación, Empresas de Base Tecnológica, dependencias y entidades de la Administración Pública del Estado;
-
-d) El otorgamiento de becas para la realización de estudios de licenciatura y posgrado en programas reconocidos por su buena calidad, conforme a los lineamientos establecidos por la autoridad educativa estatal y las necesidades de los sectores público y privado en el Estado;
-
-e) El estímulo a la atracción y permanencia de investigadores, tecnólogos y vinculadores de alto nivel en el Estado, coordinando sus acciones con los organismos públicos o privados que tengan esta misma función;
-
-f) El otorgamiento de apoyos para la realización de proyectos de corto, mediano y largo plazo que coadyuven a mejorar el nivel de desarrollo humano de la sociedad yucateca;
-
-g) El fomento a la colaboración entre las instituciones de educación media superior y superior y los centros de investigación, con Empresas de Base Tecnológica en el Estado, así como con dependencias y entidades de la Administración Pública del Estado;
-
-h) La promoción del intercambio y la movilidad de profesores-investigadores y tecnólogos entre instituciones de educación superior, centros de investigación y Empresas de Base Tecnológica;
-
-i) El impulso al desarrollo de proyectos que contribuyan a la creación de Empresas de Base Tecnológica en el Estado, para la producción de bienes y servicios de alto valor agregado, generados con tecnología de punta para el fortalecimiento de las capacidades tecnológicas de las existentes;
-
-j) La realización de estudios estratégicos en materia de Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, y
-
-k) La internacionalización de las actividades científicas, tecnológicas, de Innovación y Vinculación, y la prestación de servicios.
-
-II.- Formular las acciones tendientes a la generación, divulgación y difusión, así como la aplicación de la Ciencia y la Tecnología, del Desarrollo Científico y Tecnológico, la Innovación y la Vinculación en el Estado;
+II.- Promover el desarrollo y consolidación del SIIDETEY y del Parque Científico y Tecnológico de Yucatán;
 
 III.- Desarrollar el Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación y asegurar su actualización permanente;
 
-IV.- Asesorar al Poder Ejecutivo del Estado, a los municipios, a las dependencias del Gobierno Federal en el Estado, así como a las personas físicas o morales que lo soliciten sobre asuntos relacionados con la ciencia, la tecnología, la Innovación y la Vinculación;
+IV.- Fomentar el acceso al Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación;
 
-V.- Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, en términos de esta Ley;
+V.- Otorgar anualmente los premios Yucatán de Ciencia, Tecnología, Innovación y Vinculación; Ciencia Juvenil y de Creatividad Infantil;
 
-VI.- Promover la participación de las comunidades científica y tecnológica del Estado, en la toma de decisiones relativas al impulso y al Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
+VI.- Vigilar el cumplimiento de esta Ley, y
 
-VII.- Evaluar y actualizar periódicamente las políticas y estrategias estatales en materia de Desarrollo Científico y Tecnológico, la Innovación y la Vinculación con la finalidad de propiciar su contribución efectiva en la solución de los problemas del Estado;
+VII.- Las demás inherentes al cumplimiento de su objeto y las que le señalen las disposiciones legales y reglamentarias aplicables.
 
-VIII.- Vigilar el cumplimiento de esta Ley;
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-IX.- Proponer políticas para impulsar el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación en el Estado, en el marco del Plan Estatal de Desarrollo y los objetivos de la política científica, tecnológica, de innovación y vinculación a los que se refiere el Título Primero de esta Ley;
+## TÍTULO SEGUNDO
 
-X.- Establecer lineamientos para crear centros de investigación en el marco de los objetivos de la política científica, tecnológica, de innovación y de vinculación del Estado y en áreas estratégicas para impulsar el desarrollo del mismo;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XI.- Fomentar el desarrollo del SIIDETEY y del Parque Científico y Tecnológico de Yucatán;
+### CAPÍTULO I
 
-XII.- Establecer programas y realizar actividades que promuevan la vinculación entre sectores productivos y las entidades de la administración pública con la actividad científica y tecnológica de las instituciones de educación superior y centros de investigación en el Estado;
+###### Artículo 9.
 
-XIII.- Fomentar el registro, licenciamiento y aprovechamiento de patentes;
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
-XIV.- Otorgar anualmente los premios Yucatán de Ciencia, Tecnología, Innovación y Vinculación; Ciencia Juvenil y de Creatividad Infantil;
+###### Artículo 10.
 
-XV.- Aportar iniciativas, en coordinación con la Secretaría de Educación, para mejorar continuamente la calidad y pertinencia de la educación que se imparte en el Estado;
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
-XVI.- Identificar y sistematizar la información de las actividades de ciencia y tecnología que desarrollan los investigadores, inventores y vinculadores en el Estado;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-XVII.- Fomentar el acceso al Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación, y
-
-XVIII.- Las demás inherentes al cumplimiento de su objeto y las que le señalen las disposiciones legales y reglamentarias aplicables.
-
-### CAPÍTULO II. De los Órganos del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán
+### CAPÍTULO II
 
 ###### Artículo 11.
 
-El CONCIYTEY será gobernado y administrado por una Junta de Gobierno y un Director General.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 12.
 
-La Junta de Gobierno es el órgano máximo del CONCIYTEY y se integrará por:
-
-I.- El Gobernador del Estado o la persona que éste designe, quien lo presidirá;
-
-II.- El Secretario General de Gobierno, quien suplirá las ausencias del Presidente y designará al Secretario de Actas y Acuerdos;
-
-III.- El Secretario de Hacienda;
-
-IV.- El Secretario de Planeación y Presupuesto;
-
-V.- El Secretario de Educación;
-
-VI.- El Secretario de Fomento Económico;
-
-VII.- El Secretario de Desarrollo Urbano y Medio Ambiente;
-
-VIII.- El Rector de la Universidad Autónoma de Yucatán;
-
-IX.- Un Director de un Centro de Investigación que forme parte del SIIDETEY, elegido por el Comité Interinstitucional de Planeación y Coordinación del Sistema, y
-
-X.- Dos rectores o directores de instituciones de educación superior de naturaleza tecnológica que formen parte del SIIDETEY, elegido por el Comité Interinstitucional.
-
-Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto, y deberán nombrar a sus respectivos suplentes, mediante escrito dirigido a la Junta de Gobierno, quienes sólo tendrán tal derecho en caso de ausencia temporal de su titular.
-
-El Director General podrá asistir a las reuniones de la Junta de Gobierno con derecho a voz, pero no tendrá voto.
-
-Por invitación del Gobernador del Estado podrán asistir a las sesiones de la Junta de Gobierno, con el carácter de invitados permanentes y con derecho a voz pero no a voto:
-
-a) Representantes de organismos empresariales de la Entidad, y
-
-b) El Rector de una Universidad o el Director de una Institución Privada de Educación Superior que realice actividades de investigación.
-
-También podrán asistir a las sesiones las personas que por sus conocimientos y experiencia en alguna materia, sean invitados por el Gobernador del Estado para abordar temas específicos a tratar en una determinada sesión.
-
-La participación de los invitados en las sesiones de la Junta de Gobierno será con carácter honorífico.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 13.
 
-El cargo como miembro de la Junta de Gobierno es de carácter honorífico y por lo tanto no es remunerado.
-
-Los integrantes de la Junta de Gobierno durarán en su cargo el término durante el cual conserven la representación de la dependencia e institución de que se trate.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 14.
 
-La Junta de Gobierno funcionará en pleno o por comisiones.
-
-Para el despacho de los asuntos urgentes delegará facultades específicas en comisiones especiales integradas por cinco miembros que al efecto designe.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 15.
 
-La Junta de Gobierno en pleno, y las comisiones especiales se reunirán en sesiones ordinarias trimestralmente. Se podrá convocar a reuniones extraordinarias tanto a la Junta de Gobierno, como a las comisiones especiales, en razón de que exista algún asunto que lo amerite, a juicio del Presidente de la Junta de Gobierno o cuando lo soliciten por escrito una tercera parte del total de sus integrantes.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 16.
 
-Corresponde al Secretario de Actas y Acuerdos de la Junta de Gobierno, convocar por instrucciones de su Presidente a las sesiones del mismo, así como de las comisiones especiales. De igual forma deberá elaborar el proyecto de la orden del día y levantar las actas de las sesiones respectivas.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 17.
 
-El Presidente de la Junta de Gobierno, presidirá las sesiones ordinarias y extraordinarias. Asimismo para validez de los acuerdos, se requerirá de la presencia de cuando menos la mitad más uno de sus integrantes titulares o suplentes; por otro lado, para que puedan funcionar válidamente las comisiones especiales será necesaria la asistencia de cuando menos tres de sus integrantes titulares o suplentes
-
-En las sesiones los acuerdos se tomarán por mayoría de votos de sus integrantes presentes. En caso de empate, en la adopción de los acuerdos que resulten, el Presidente de la Junta de Gobierno tendrá voto de calidad.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 18.
 
-Son atribuciones de la Junta de Gobierno:
-
-I.- Ejercer el gobierno del CONCIYTEY;
-
-II.- Aprobar el presupuesto correspondiente al plan anual de trabajo, para su integración en la iniciativa de Ley de Ingresos y del Presupuesto de Egresos del Estado;
-
-III.- Fijar políticas y lineamientos generales para impulsar el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, en congruencia con los Programas Nacionales, Estatales y regionales y los objetivos de la política científica, tecnológica, de innovación y de vinculación del Estado de Yucatán;
-
-IV.- Establecer y delegar las facultades específicas a los órganos internos permanentes o transitorios que estime convenientes, para la realización de las atribuciones del CONCIYTEY, en los términos establecidos por esta Ley, el Reglamento y el Código de la Administración Pública de Yucatán;
-
-V.- Proponer al Poder Ejecutivo del Estado, con la aprobación de las dos terceras partes de sus integrantes, el Reglamento Interno y sus reformas, adiciones, modificaciones o derogaciones;
-
-VI.- Aprobar las iniciativas y/o proyectos de actividades científicas, tecnológicas, de innovación y de vinculación que soliciten los apoyos previstos por esta Ley, previo dictamen presentado por el Director General de conformidad con el Reglamento;
-
-VII.- Revisar, discutir y en su caso, aprobar el informe trimestral de actividades presentado por el Director General, así como el Programa Operativo Anual y evaluar los avances y resultados de sus objetivos;
-
-VIII.- Acordar con sujeción a las disposiciones legales vigentes, lo referente a donativos y pagos extraordinarios, y verificar su cumplimiento conforme a las directrices señaladas por la dependencia coordinadora de sector;
-
-IX.- Aprobar, de acuerdo con los ordenamientos aplicables, las políticas, bases y programas generales que regulen convenios o contratos que suscriba el CONCIYTEY con terceros, cuando se trate de adquisiciones, contratación de servicios, y arrendamiento de bienes muebles e inmuebles;
-
-X.- Aprobar la fijación de los sueldos y prestaciones de los servidores públicos del CONCIYTEY;
-
-XI.- Establecer, con sujeción a las disposiciones legales aplicables en la materia, las normas y bases generales para la recepción de servicios, adquisición, arrendamiento y enajenación de bienes muebles e inmuebles;
-
-XII.- Fijar y ajustar los precios de los bienes y servicios que produzca o preste el CONCIYTEY, en los términos de las disposiciones legales aplicables;
-
-XIII.- Fijar los estímulos, recompensas o medidas correctivas a que podrán ser sujetos sus integrantes en el ejercicio de sus funciones, en el marco de la legislación vigente;
-
-XIV.- Vigilar el cumplimiento de los criterios de austeridad, racionalidad y disciplina, conforme a los cuales el CONCIYTEY ejercerá su presupuesto;
-
-XV.- Formar las comisiones que de acuerdo con los programas de operación del CONCIYTEY estimen necesarios y designar a los responsables de tales comisiones;
-
-XVI.- Aprobar las políticas y programas para promover el desarrollo del CONCIYTEY en el cumplimiento de sus atribuciones;
-
-XVII.- Definir las acciones y proyectos de trabajo a los que deberá sujetarse el CONCIYTEY;
-
-XVIII.- Aprobar su estructura básica administrativa y las modificaciones que a la misma procedan;
-
-XIX.- Formular la propuesta del Programa Estatal de Ciencia, Tecnología e Innovación;
-
-XX.- Establecer mecanismos y criterios de evaluación para la asignación de recursos a proyectos de investigación, desarrollo tecnológico e innovación;
-
-XXI.- Apoyar la formación de personal altamente calificado para el desarrollo científico y tecnológico en áreas de interés para el desarrollo socioeconómico del Estado;
-
-XXII.- Apoyar el desarrollo del SIIDETEY en el cumplimiento de sus fines;
-
-XXIII.- Establecer las políticas y mecanismos para sustentar la operación del Padrón Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores;
-
-XXIV.- Establecer lineamientos para la construcción y actualización del SIIDETEY;
-
-XXV.- Aprobar las bases de los Premios Yucatán de Ciencia, Tecnología, Innovación y Vinculación; de Ciencia Juvenil y Creatividad Infantil, y
-
-XXVI.- Las demás que le sean conferidas en esta Ley y en otros ordenamientos jurídicos que resulten aplicables.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 19.
 
-Son obligaciones de los integrantes de la Junta de Gobierno:
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
-I.- Asistir puntualmente a las sesiones ordinarias y extraordinarias a las que se les convoque;
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-II.- Participar en las comisiones en las que se les designe;
-
-III.- Discutir y en su caso aprobar los asuntos, planes y programas que sean presentados en las sesiones;
-
-IV.- Tomar las decisiones y medidas que en cada caso se requieran, a efecto de que el CONCIYTEY cumpla con los objetivos que le competen, y
-
-V.- Las demás que determine el Reglamento Interno.
-
-### CAPÍTULO III. De la Dirección General
+### CAPÍTULO III
 
 ###### Artículo 20.
 
-La Dirección General del CONCIYTEY estará a cargo de un Director General que será nombrado y removido por el Gobernador del Estado, y será el representante legal del CONCIYTEY.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 21.
 
-Para ocupar el cargo de Director General se requiere lo siguiente:
-
-I.- Cumplir con lo dispuesto en el Código de la Administración Pública de Yucatán;
-
-II.- Contar con el grado académico de Doctor;
-
-III.- Contar con al menos, cinco años de experiencia, en el campo de la investigación y de la administración académica en el nivel superior;
-
-IV.- Haber coordinado la realización de proyectos de investigación, de desarrollo tecnológico y/o innovación;
-
-V.- Haber contribuido a la formación de investigadores y/o tecnólogos, en particular, mediante la dirección de tesis de posgrado, preferentemente a nivel doctoral, y
-
-VI.- Contar con una reconocida producción científica y/o tecnológica publicada en medios idóneos de reconocido prestigio, y/o patentes con registro ante organismos nacionales o extranjeros competentes.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 22.
 
-Son facultades y obligaciones del Director General:
-
-I.- Dirigir, programar, conducir y coordinar las acciones que la Junta de Gobierno le asigne, para el debido cumplimiento de las funciones que le competen al CONCIYTEY, de conformidad con esta Ley y otros ordenamientos aplicables;
-
-II.- Administrar y representar legalmente al CONCIYTEY ante todo tipo de autoridades, como apoderado general judicial y actos de administración, actuando conforme a los lineamientos que señale la Junta de Gobierno, así como a las atribuciones y limitaciones previstas en las leyes que regulen su actuación;
-
-III.- Celebrar, otorgar y suscribir toda clase de actos y documentos inherentes al objeto del CONCIYTEY, y en cumplimiento a las atribuciones que la Junta de Gobierno le señale;
-
-IV.- Formular denuncias y querellas legales, cuando se presenten los elementos necesarios que así lo exijan, informando en la sesión inmediata que celebre la Junta de Gobierno, respecto de dicho (sic) asuntos;
-
-V.- Ejecutar y desistirse de acciones judiciales, inclusive del juicio de amparo, cuando así se lo instruya la Junta de Gobierno;
-
-VI.- Comprometer asuntos de arbitraje y celebrar transacciones, acorde a las instrucciones de la Junta de Gobierno;
-
-VII.- Presentar oportunamente a la Junta de Gobierno, para su análisis y aprobación, en su caso, la propuesta del presupuesto anual de ingresos y del anteproyecto de egresos del CONCIYTEY, y ejercerlos de conformidad a lo estipulado en esta Ley, en otros ordenamientos legales aplicables y en las disposiciones que al efecto reciba del Pleno de la Junta de Gobierno, así como el programa operativo anual;
-
-VIII.- Ejecutar los acuerdos adoptados por la Junta de Gobierno;
-
-IX.- Asistir con voz, pero sin voto a las sesiones de la Junta de Gobierno y de las comisiones;
-
-X.- Proponer a la Junta de Gobierno, el anteproyecto de Reglamento Interno, proponiendo las reformas que considere convenientes al mismo;
-
-XI.- Designar y en su caso remover bajo su responsabilidad, al personal técnico y administrativo que considere especializado, y que requiera el CONCIYTEY para su eficaz funcionamiento; las plazas, sueldos y prestaciones deberán ser aprobadas por la Junta de Gobierno, de conformidad con las disposiciones legales vigentes;
-
-XII.- Delegar en los servidores del CONCIYTEY, las atribuciones que expresamente determine, sin menoscabo de conservar su ejercicio y responsabilidad directa;
-
-XIII.- Presentar a la Junta de Gobierno, informes periódicos de actividades, y los que sean solicitados por el mismo;
-
-XIV.- Ejercer el presupuesto anual de egresos del CONCIYTEY, de conformidad con los ordenamientos y disposiciones legales aplicables;
-
-XV.- Elaborar y presentar los dictámenes respecto a solicitudes de canalización de fondos, así como de las acciones a que las mismas se sujetarán, para la realización de proyectos, estudios, investigaciones específicas, otorgamiento de becas y cualquier otro proyecto de carácter económico que se consideren necesarios, e importantes en cumplimiento a los fines de la Junta de Gobierno, de conformidad con la legislación aplicable;
-
-XVI.- Establecer programas que propicien la permanencia de los investigadores y tecnólogos en el Estado, y su incorporación a la academia y a las empresas de la Entidad;
-
-XVII.- Impulsar la creación de centros e institutos de investigación aplicada, auspiciados por las empresas, con el objeto de lograr una corresponsabilidad de las mismas con el sector público, para la consecución de los objetivos de los Planes Nacional y Estatal de Desarrollo, del Programa Estatal de Ciencia, Tecnología e Innovación, de la política científica, tecnológica, de Innovación y de Vinculación y del Programa Operativo del CONCIYTEY;
-
-XVIII.- Promover la coparticipación económica de organismos o agencias internacionales e instituciones extranjeras, tendientes a la Innovación y adaptación de nuevas tecnologías, en busca de una mejor y eficiente cooperación científica y tecnológica internacional;
-
-XIX.- Adscribir orgánicamente a las áreas técnicas y administrativas del CONCIYTEY, así como expedir los demás instrumentos de apoyo administrativo necesarios, para el adecuado y eficiente funcionamiento del mismo, además de las modificaciones que se requieran para mantenerlos permanentemente actualizados, previa aprobación de la Junta de Gobierno;
-
-XX.- Supervisar y vigilar la debida observancia de esta Ley, el Reglamento, el Reglamento Interno y demás ordenamientos aplicables;
-
-XXI.- Resolver dudas que se susciten con motivo de la interpretación y aplicación de esta Ley;
-
-XXII.- Fomentar la cooperación, colaboración y el intercambio académico entre las instituciones de educación superior, centros de investigación en el Estado, Empresas de Base Tecnológica, así como con dependencias y entidades de la Administración Pública, para la realización de proyectos y actividades de Desarrollo Científico y Tecnológico, Innovación y Vinculación que coadyuven a mejorar continuamente el nivel de desarrollo humano de la Entidad;
-
-XXIII.- Fomentar y apoyar, en coordinación con la Secretaría de Educación, la formación de personal altamente capacitado para el Desarrollo Científico y Tecnológico en áreas de interés para el desarrollo socioeconómico sustentable del Estado;
-
-XXIV.- Establecer mecanismos de comunicación con los becarios yucatecos que realicen estudios de posgrado en el territorio nacional y en el extranjero para propiciar su incorporación en alguna institución de educación superior, centro de investigación, Empresa de Base Tecnológica o dependencia o entidad de la Administración Pública del Estado;
-
-XXV.- Identificar científicos y tecnólogos de alto nivel para proponer su incorporación en las instituciones de educación superior, centros de investigación y Empresas de Base Tecnológica en el Estado;
-
-XXVI.- Promover y apoyar, en coordinación con la Secretaría de Educación, la realización de actividades que permitan identificar talentos para el Desarrollo Científico y Tecnológico y el establecimiento de esquemas para propiciar el desarrollo de sus vocaciones, así como su adecuado asesoramiento durante su formación;
-
-XXVII.- Fomentar la creación, fortalecimiento y adecuada operación de laboratorios y otras instalaciones que puedan ser utilizadas de manera compartida por profesores-investigadores, grupos de investigación, cuerpos académicos de las instituciones de educación superior, centros de investigación, personal capacitado de instituciones de educación media superior, Empresas de Base Tecnológica, dependencias y entidades de la Administración Pública en el Estado, que apoyen las actividades relacionadas con el Desarrollo Científico y Tecnológico, la Innovación y la vinculación en el Estado;
-
-XXVIII.- Fomentar el uso compartido de la infraestructura con la que cuentan las instituciones de educación superior y centros de investigación en el Estado para ampliar las capacidades de las mismas en la realización de proyectos y actividades de Desarrollo Científico y Tecnológico, de Innovación y de Vinculación;
-
-XXIX.- Promover y apoyar el desarrollo de proyectos que contribuyan a la creación de Empresas de Base Tecnológica en el Estado para impulsar la producción de bienes y servicios de alto valor agregado generados con tecnología de punta; así como para fortalecer las capacidades tecnológicas ya existentes;
-
-XXX.- Identificar y sistematizar buenas prácticas en materia de Vinculación entre instituciones de educación superior, centros de investigación, Empresas de Base Tecnológica y dependencias y entidades de la Administración Pública del Estado para promover su socialización;
-
-XXXI.- Fomentar la difusión y divulgación de los resultados obtenidos por profesores-investigadores, grupos de investigación, cuerpos académicos de las instituciones de educación superior y centros de investigación en materia de ciencia, tecnología, Innovación y Vinculación;
-
-XXXII.- Sistematizar las experiencias nacionales y extranjeras en la operación de parques científicos y tecnológicos e identificar las mejores prácticas para, en su caso, promover la mejora continua del funcionamiento del Parque Científico y Tecnológico de Yucatán;
-
-XXXIII.- Coordinar la operación del Padrón Estatal de Investigadores, Tecnólogos, Innovadores y Vinculadores;
-
-XXXIV.- Promover la organización de eventos relacionados con la ciencia, la tecnología, la Innovación y la Vinculación a nivel nacional e internacional en los que se analicen temas de interés para el desarrollo social y económico sustentable del Estado;
-
-XXXV.- Mantener colaboración con los consejos de ciencia y tecnología de las entidades federativas del país, u organismos equivalentes;
-
-XXXVI.- Establecer una adecuada comunicación con organismos nacionales e internacionales en materia de ciencia, tecnología, Innovación y Vinculación;
-
-XXXVII.- Fomentar la internacionalización de las actividades de Desarrollo Científico y Tecnológico, de Innovación y Vinculación que se realicen en el Estado;
-
-XXXVIII.- Formular y mantener actualizado un portafolio de organismos nacionales y extranjeros que otorguen recursos económicos para la realización de actividades de Desarrollo Científico y Tecnológico, de Innovación y de Vinculación;
-
-XXXIX.- Gestionar el otorgamiento de recursos económicos ante organismos nacionales e internacionales para la realización de programas, proyectos y actividades relacionadas con el Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
-
-XL. Asesorar, cuando lo soliciten las instituciones de educación superior, centros de investigación, dependencias del Gobierno del Estado y ayuntamientos en la formulación de programas, proyectos y actividades de Desarrollo Científico y Tecnológico, la Innovación y la Vinculación;
-
-XLI.- Mantener actualizado el Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación y promover su utilización, y
-
-XLII.- Las demás que le sean conferidas en esta Ley, en otras disposiciones jurídicas aplicables o por acuerdo de la Junta de Gobierno.
+· (DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 23.
 
-Las funciones de vigilancia en la aplicación de todos y cada uno de los programas que haya resuelto la Junta de Gobierno, recaerán en un Comisario, quien tendrá un suplente, mismos que serán designados por la Secretaría de la Contraloría General.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
-### CAPÍTULO IV. Del Patrimonio
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO IV
 
 ###### Artículo 24.
 
-El patrimonio del CONCIYTEY estará constituido por:
-
-I.- Los recursos que en su favor se establezcan en el Presupuesto de Egresos del Estado;
-
-II.- Las aportaciones, subsidios y apoyos que reciba de los gobiernos federal, estatal y municipal en dinero o en especie, así como las que reciba de fundaciones, instituciones, empresas y personas físicas y/o morales por cualquier título legal;
-
-III.- Las aportaciones, herencias, donaciones, legados y demás recursos en dinero o en especie que reciba de personas físicas o morales por cualquier título legal, previa aprobación de la Junta de Gobierno;
-
-IV.- Los bienes y los productos de los fideicomisos en los que participe como fideicomisario;
-
-V.- Los ingresos y bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de sus funciones y atribuciones;
-
-VI.- Las utilidades, productos financieros y rendimientos de sus bienes y derechos, y
-
-VII.- Los ingresos por servicios, dividendos, rendimientos de sus bienes y derechos, consultas, peritajes, estudios y trabajos prestados, cooperaciones y concesiones, cursos, congresos, folletos, libros, derechos de autor y demás publicaciones relacionadas con su objeto.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 25.
 
-El CONCIYTEY, administrará y dispondrá de su patrimonio, en razón del cumplimiento de su objeto, sin perjuicio de las disposiciones legales aplicables; por lo que queda prohibido estrictamente el empleo del mismo para fines no especificados en esta Ley.
-
-El control y fiscalización de los recursos del CONCIYTEY estará a cargo de una Contraloría Interna y de la Secretaría de la Contraloría General del Estado en los términos que se establezcan en el Reglamento.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ###### Artículo 26.
 
-El CONCIYTEY sólo podrá enajenar bienes muebles de su propiedad, previa autorización de la Junta de Gobierno, y tratándose de bienes inmuebles se requerirá además, la autorización del Poder Legislativo del Estado, cumpliendo lo dispuesto en la legislación aplicable vigente en ambos casos.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
-### CAPÍTULO V. De las relaciones laborales
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO V
 
 ###### Artículo 27.
 
-Las relaciones laborales del CONCIYTEY con sus trabajadores, cualesquiera que sea la naturaleza de la contratación de los mismos, se regirá por lo dispuesto en el artículo 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones legales aplicables.
+(DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
 ## TÍTULO TERCERO. SISTEMA DE INVESTIGACIÓN, INNOVACIÓN Y DESARROLLO TECNOLÓGICO DEL ESTADO DE YUCATÁN
 
@@ -693,11 +443,13 @@ Para cumplir con su objeto, el SIIDETEY contará con una estructura organizativa
 
 El SIIDETEY contará además entre sus medios de operación, con un Parque Científico y Tecnológico de Yucatán, en el que podrán instalarse las instituciones de educación superior, los centros de investigación y las Empresas de Base Tecnológica, sin perder por ello, su identidad y régimen jurídico propio.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-La coordinación, integración, funcionamiento y cumplimiento de los fines del SIIDETEY, serán evaluados cada tres años por los esquemas y procedimientos que la Secretaría de Educación con el apoyo del CONCIYTEY, establezca para tal propósito.
+La coordinación, integración, funcionamiento y cumplimiento de los fines del SIIDETEY, serán evaluados cada tres años por los esquemas y procedimientos que la Secretaría establezca para tal propósito.
 
-La Secretaría de Educación, podrá asesorarse por expertos en las materias que considere necesarias para lograr los objetivos de la evaluación. Los resultados serán utilizados para definir o enriquecer las estrategias, programas, proyectos y acciones del SIIDETEY, y con ello asegurar la mejora continua de su calidad en el cumplimiento de sus fines.
+La Secretaría podrá asesorarse por expertos en las materias que considere necesarias para lograr los objetivos de la evaluación. Los resultados serán utilizados para definir o enriquecer las estrategias, programas, proyectos y acciones del SIIDETEY, y con ello asegurar la mejora continua de su calidad en el cumplimiento de sus fines.
 
 ### CAPÍTULO II. Del ingreso y permanencia de organismos en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán
 
@@ -715,9 +467,11 @@ Los centros de investigación que no ofrezcan programas de posgrado, deberán co
 
 Las Empresas de Base Tecnológica deberán mostrar interés por ampliar y fortalecer sus capacidades tecnológicas, a través de la colaboración con instituciones y centros de investigación del SIIDETEY. Asimismo, deberán financiar, parcialmente o en su totalidad, los proyectos que se acuerden en el marco del SIIDETEY para lograr el fortalecimiento de su capacidad tecnológica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 34.
 
-La Secretaría de Educación con el apoyo del CONCIYTEY establecerá los lineamientos para el ingreso y permanencia de instituciones de educación superior, centros de investigación y Empresas de Base Tecnológica en el SIIDETEY y en el Parque Científico y Tecnológico de Yucatán.
+La Secretaría establecerá los lineamientos para el ingreso y permanencia de instituciones de educación superior, centros de investigación y Empresas de Base Tecnológica en el SIIDETEY y en el Parque Científico y Tecnológico de Yucatán.
 
 Los lineamientos deberán considerar los beneficios para las instituciones al formar parte del SIIDETEY y del Parque Científico y Tecnológico de Yucatán, así como las obligaciones que habrán de asumir para el cumplimiento de sus fines.
 
@@ -757,15 +511,27 @@ XI.- El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias
 
 El SIIDETEY, para el logro de sus fines, contará con un Comité, el cual se integrará de la siguiente manera:
 
-I.- El Secretario de Educación quien fungirá como Presidente;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-II.- El Director del Consejo de Ciencia y Tecnología del Estado de Yucatán, quien fungirá como Secretario del Comité;
+I.- El Secretario de Investigación, Innovación y Educación Superior, quien fungirá como Presidente;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+II.- Un secretario técnico, quien será designado por el Presidente;
 
 III.- Un representante por cada una de las instituciones de educación superior y centros de investigación que formen parte del SIIDETEY;
 
-IV.- Dos representantes de las Empresas de Base Tecnológica que formen parte del SIIDETEY, y
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-V.- La Delegación Regional del Consejo Nacional de Ciencia y Tecnología.
+IV.- Dos representantes de las Empresas de Base Tecnológica que formen parte del SIIDETEY;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+V.- La Delegación Regional del Consejo Nacional de Ciencia y Tecnología, y
+
+> <small>(ADICIONADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+VI.- El Presidente de la Comisión Permanente de Educación, Ciencia y Tecnología del Congreso del Estado.
 
 Los cargos de los integrantes del Comité son de carácter honorario, por lo que éstos no percibirán retribución, emolumento o compensación alguna por el desempeño de los mismos.
 
@@ -777,7 +543,9 @@ El Comité, tendrá las siguientes atribuciones:
 
 I.- Establecer estrategias para asegurar la integración, coordinación, planeación y adecuado funcionamiento del SIIDETEY en el cumplimiento de sus fines, y para potenciar las capacidades de los organismos que lo integran, en el marco de los objetivos del Plan Estatal de Desarrollo y de la política de ciencia, tecnología, innovación y vinculación del Estado;
 
-II.- Aprobar el Plan Estratégico de Desarrollo del SIIDETEY, el cual deberá ser formulado para un período de seis años, asegurando su contribución efectiva al logro de los objetivos del Plan Estatal de Desarrollo, del Programa Estatal de Ciencia, Tecnología e Innovación y de la política de ciencia, tecnología, Innovación y Vinculación del Estado;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+II.- Aprobar el Plan Estratégico de Desarrollo del SIIDETEY, el cual deberá ser formulado para un periodo de seis años, asegurando su contribución efectiva al logro de los objetivos del Plan Estatal de Desarrollo, del Programa y de la política de Ciencia, Tecnología, Innovación y Vinculación del Estado;
 
 III.- Analizar, discutir y, en su caso, acordar los programas, proyectos y actividades relativos al desarrollo del SIIDETEY;
 
@@ -801,7 +569,9 @@ XII.- Fomentar el fortalecimiento de las capacidades tecnológicas y de innovaci
 
 XIII.- Identificar las empresas con las cuales el SIIDETEY podría establecer esquemas de colaboración para el desarrollo de programas y proyectos de interés para las partes;
 
-XIV.- Proponer a la Secretaría de Educación, lineamientos particulares para la incorporación y permanencia de instituciones de educación superior, centros de investigación y Empresas de Base Tecnológica en el SIIDETEY;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+XIV.- Proponer a la Secretaría, lineamientos particulares para la incorporación y permanencia de instituciones de educación superior, centros de investigación y Empresas de Base Tecnológica en el SIIDETEY;
 
 XV.- Establecer lineamientos para el uso eficiente y compartido de la infraestructura del SIIDETEY;
 
@@ -815,13 +585,15 @@ XIX.- Acordar el ingreso y la permanencia de instituciones educativas, centros d
 
 XX.- Establecer grupos de trabajo y esquemas organizativos para garantizar el desarrollo de sus funciones y su buen funcionamiento;
 
-XXI.- Elegir a un director de un centro de investigación y al rector o director de una de las instituciones de educación superior de naturaleza tecnológica que forman parte del SIIDETEY para formar parte del órgano de gobierno del CONCIYTEY, y
+XXI.- (DEROGADA, D.O. 14 DE OCTUBRE DE 2015)
 
 XXII.- Las demás que sean necesarias para el cumplimiento de los fines del SIIDETEY, y que no se contrapongan a lo establecido en esta Ley.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 39.
 
-El Comité se apoyará en los recursos humanos e infraestructura de la Secretaría de Educación y del CONCIYTEY, para la realización de sus actividades.
+El Comité se apoyará en los recursos humanos e infraestructura de la Secretaría, para la realización de sus actividades.
 
 ###### Artículo 40.
 
@@ -927,19 +699,25 @@ IV.- Emitir opinión sobre las solicitudes de renovación de la permanencia en e
 
 V.- Las demás que le encomiende el Comité y que no se opongan a lo establecido en esta Ley.
 
-## TÍTULO CUARTO. PROGRAMA ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+## TÍTULO CUARTO. PROGRAMA ESPECIAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 47.
 
-Corresponde al Gobernador del Estado aprobar y publicar en el Diario Oficial del Gobierno del Estado de Yucatán, el Programa Estatal de Ciencia, Tecnología e Innovación, el cual tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, aplicación innovadora, difusión y divulgación de la ciencia y la tecnología en la Entidad y su vinculación con los sectores productivos, así como su revisión anual, considerando las prioridades que marque el Plan Estatal de Desarrollo.
+Corresponde al Gobernador del Estado aprobar y publicar en el Diario Oficial del Gobierno del Estado de Yucatán, el Programa Especial de Ciencia, Tecnología e Innovación, el cual tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, aplicación innovadora, difusión· y divulgación de la ciencia y la tecnología en la Entidad y su vinculación con los sectores productivos, así como su revisión anual, considerando las prioridades que marque el Plan Estatal de Desarrollo.
 
 En la elaboración del Programa se promoverá la participación de los distintos grupos sociales y sectores de la Entidad en los términos de las leyes respectivas.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 48.
 
-La Dirección General del CONCIYTEY presentará a la Junta de Gobierno del mismo, el proyecto del Programa, de acuerdo con las propuestas que le presenten las dependencias y entidades de la Administración Pública Estatal, que apoyen o realicen investigación científica y tecnológica, las propuestas de las comunidades científica y tecnológica, las que formulen las instituciones de Educación Superior, los centros de investigación y las Empresas de Base Tecnológica, así como aquéllas que surjan de los órganos del CONCIYTEY.
+El Secretario de Investigación, Innovación y de Educación Superior, presentará al Gobernador del Estado el proyecto de Programa, de acuerdo con las propuestas que le presenten las dependencias y entidades de la Administración Pública Estatal, que apoyen o realicen investigación científica y tecnológica, las propuestas de las comunidades científica y tecnológica, las que formulen las instituciones de educación superior, los centros de investigación y las Empresas de Base Tecnológica.
 
 ###### Artículo 49.
 
@@ -989,9 +767,11 @@ X.- Los incentivos que se otorguen para fomentar la actividad científica, tecno
 
 ### CAPÍTULO II. Del Financiamiento
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 51.
 
-El Poder Ejecutivo del Estado a través del CONCIYTEY aportará recursos para la creación y operación de fondos destinados a financiar la realización de actividades directamente vinculadas al fomento de una cultura científica y tecnológica así como la formación de recursos humanos de alto nivel, y la realización de proyectos de Desarrollo Científico y Tecnológico, de Innovación y de Vinculación.
+El Poder Ejecutivo del Estado, a través de la Secretaría, aportará recursos para la creación y operación de fondos destinados a financiar la realización de actividades directamente vinculadas al fomento de una cultura científica y tecnológica así, como la formación de recursos humanos de alto nivel, y la realización de proyectos de Desarrollo Científico y Tecnológico, de Innovación y de Vinculación.
 
 ###### Artículo 52.
 
@@ -1011,9 +791,11 @@ III.- Permanencia de recursos, y
 
 IV.- Legalidad y transparencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 54.
 
-Los fondos a los que se refiere este capítulo, así como los que provengan de la gestión del CONCIYTEY ante los sectores público y privado, deberán constituirse mediante los siguientes instrumentos:
+Los fondos a los que se refiere este capítulo, así como los que provengan de la gestión de la Secretaría ante los sectores público y privado, deberán constituirse mediante los siguientes instrumentos:
 
 I.- Fideicomisos;
 
@@ -1055,13 +837,17 @@ La desviación o transferencia injustificada de estos recursos será causa de re
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 59.
 
-El CONCIYTEY propondrá a las autoridades educativas y laborales, normas y criterios para la elaboración de programas que tengan por objeto la formación, actualización y capacitación de recursos humanos en las diversas áreas del conocimiento científico y tecnológico definidas como prioritarias en el Plan Estatal de Desarrollo y en los programas sectoriales correspondientes.
+La Secretaría propondrá a las autoridades educativas y laborales, normas y criterios para la elaboración de programas que tengan por objeto la formación, actualización y capacitación de recursos humanos en las diversas áreas del conocimiento científico y tecnológico definidas como prioritarias en el Plan Estatal de Desarrollo y en los programas sectoriales correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 60.
 
-El CONCIYTEY tendrá como objetivos, en materia de formación de recursos humanos orientados al Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, los siguientes:
+La Secretaría tendrá como objetivos, en materia de formación de recursos humanos orientados al Desarrollo Científico y Tecnológico, la Innovación y la Vinculación, los siguientes:
 
 I.- Definir áreas prioritarias para la formación de recursos humanos en materia de investigación científica y Desarrollo Tecnológico;
 
@@ -1073,9 +859,13 @@ IV.- Apoyar la integración de centros y redes de investigación en la Entidad, 
 
 V.- Promover la creación y consolidación de los programas de posgrado de alto nivel en el Estado;
 
-VI.- Fomentar, en coordinación con la Secretaría de Educación, el fortalecimiento de los programas de posgrado que ofrecen las instituciones de educación superior y centros de investigación en el Estado para asegurar su operación con los más altos estándares de calidad a nivel nacional e internacional;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-VII.- Promover, en coordinación con la Secretaría de Educación, la impartición de programas de posgrado de buena calidad entre instituciones y centros de investigación en el Estado y que ofrezcan grados compartidos;
+VI.- Fomentar el fortalecimiento de los programas de posgrado que ofrecen las instituciones de educación superior y centros de investigación en el Estado para asegurar su operación con los más altos estándares de calidad a nivel nacional e internacional;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+VII.- Promover la impartición de programas de posgrado de buena calidad entre instituciones y centros de investigación en el Estado y que ofrezcan grados compartidos;
 
 VIII.- Promover y apoyar entre los estudiantes de licenciatura la realización de estudios de posgrado en programas de reconocida calidad en áreas estratégicas para el desarrollo sustentable del Estado, y
 
@@ -1089,25 +879,35 @@ IX.- Fomentar el establecimiento de alianzas estratégicas entre las institucion
 
 El Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación estará integrado por la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar el desarrollo científico, tecnológico, la innovación y la vinculación, como instrumento para desarrollar de manera armónica y sustentable las capacidades científicas y tecnológicas del Estado.
 
-Corresponde al CONCIYTEY integrar, administrar y actualizar el Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+Corresponde a la Secretaría integrar, administrar y actualizar el Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
 
 El Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación será accesible al público en general, sin perjuicio de los derechos de propiedad industrial e intelectual y las reglas de confidencialidad que al efecto se establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 62.
 
-Las dependencias y entidades de la Administración Pública Estatal colaborarán con el CONCIYTEY en la integración y actualización del Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
+Las dependencias y entidades de la Administración Pública Estatal, colaborarán con la Secretaría en la integración y actualización del Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
 
 El Gobernador del Estado podrá convenir con los gobiernos de la federación, de los demás estados y de los municipios, así como con las instituciones de educación superior, su colaboración para la integración y actualización del Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
 
-Las personas o instituciones públicas o privadas que reciban apoyo por parte del CONCIYTEY para la realización de actividades en materia de ciencia, tecnología, Innovación y Vinculación proveerán la información que se les requiera, señalando aquella que por derecho de propiedad o por alguna otra razón fundada deba reservarse.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+Las personas o instituciones públicas o privadas que reciban apoyo por parte de la Secretaría para la realización de actividades en materia de Ciencia, Tecnología, Innovación y Vinculación proveerán la información que se les requiera, señalando aquella que por derecho de propiedad o por alguna otra razón fundada deba reservarse.
 
 Las personas o instituciones del sector privado que realicen actividades sobre ciencia, tecnología e Innovación podrán coadyuvar voluntariamente con el Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
 
-Las instituciones de educación superior y centros de investigación que incorporen profesores-investigadores para la realización de proyectos de investigación, Desarrollo Tecnológico e Innovación deberán registrarlos ante el CONCIYTEY. Los datos proporcionados se incorporarán al Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+Las instituciones de educación superior y centros de investigación que incorporen profesores-investigadores para la realización de proyectos de investigación, Desarrollo Tecnológico e Innovación deberán registrarlos ante la Secretaría. Los datos proporcionados se incorporarán al Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 63.
 
-El CONCIYTEY formulará las bases de organización y funcionamiento del Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
+La Secretaría formulará las bases de organización y funcionamiento del Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación.
 
 Las bases preverán lo necesario para que el Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación favorezca la Vinculación entre la investigación y sus formas de generación y aplicación.
 
@@ -1115,13 +915,17 @@ Las bases preverán lo necesario para que el Sistema Estatal de Información sob
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 64.
 
-El Padrón Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores estará integrado por todos aquellos investigadores, tecnólogos, inventores y vinculadores reconocidos como activos por el CONCIYTEY, cuya labor científica, tecnológica, de invención y/o de vinculación cumpla con lo establecido en esta Ley y en el Reglamento.
+El Padrón Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores estará integrado por todos aquellos investigadores, tecnólogos, inventores y vinculadores reconocidos como activos por la Secretaría, cuya labor científica, tecnológica, de invención y/o de vinculación cumpla con lo establecido en esta Ley y en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 65.
 
-El CONCIYTEY será el encargado de la operación del Sistema Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores y de vigilar su funcionamiento.
+La Secretaría será la •encargada de la operación del Sistema Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores y de vigilar su funcionamiento.
 
 Para el logro de sus objetivos, el Sistema Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores, será auxiliado por un comité de expertos con reconocimiento nacional e internacional, garantizando que en la conformación del comité se apliquen los principios de calidad, profesionalismo, trascendencia, transparencia, legalidad y equidad, involucrando a miembros reconocidos de los sectores público, social y privado a propuesta de las instituciones integrantes de dicho Sistema.
 
@@ -1141,13 +945,17 @@ IV.- Identificar la labor de investigación, Desarrollo Tecnológico, e Innovaci
 
 ### CAPÍTULO I. De la vinculación con el sector educativo
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 67.
 
-La investigación científica y tecnológica, la Innovación y la Vinculación que el Poder Ejecutivo del Estado y el CONCIYTEY apoyen en los términos de esta Ley buscará (sic) contribuir a desarrollar un sistema de educación, formación y capacitación de recursos humanos de calidad y alto nivel académico en el Estado.
+La Investigación Científica y Tecnológica, la Innovación y la Vinculación que el Poder Ejecutivo del Estado apoye en los términos de esta Ley, buscará contribuir a desarrollar un sistema de educación, formación y capacitación de recursos humanos de calidad y alto nivel académico en el Estado.
+
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 68.
 
-Las instituciones públicas de educación superior y media superior, coadyuvarán a través de sus investigaciones y docentes en actividades de divulgación y enseñanza científica y tecnológica, sin perjuicio de sus ámbitos de autonomía, a fin de promover el desarrollo sustentable del Estado, a través de la promoción de la cultura científica. Asimismo, promoverán la incorporación de contenidos científicos y tecnológicos en sus diferentes programas educativos y fomentarán la realización de acciones de divulgación de la ciencia y la tecnología en el Estado, a fin de satisfacer las necesidades de la población en materia de educación científica y tecnológica.
+Las instituciones públicas de educación superior coadyuvarán a través de sus investigaciones y docentes en actividades de divulgación y enseñanza científica y tecnológica, sin perjuicio de sus ámbitos de autonomía, a fin de promover el desarrollo sustentable del Estado, a través de la promoción de la cultura científica. Asimismo, promoverán la incorporación de contenidos científicos y tecnológicos en sus diferentes programas educativos y fomentarán la realización de acciones de divulgación de la ciencia y la tecnología en el Estado, a fin de satisfacer las necesidades de la población en materia de educación científica y tecnológica.
 
 ###### Artículo 69.
 
@@ -1159,7 +967,9 @@ II.- La incorporación de contenidos relacionados con el avance científico y te
 
 III.- La incorporación de innovaciones educativas desarrolladas por los grupos de investigación y cuerpos académicos de las instituciones de educación media superior y superior;
 
-IV.- La participación de profesores-investigadores en la realización de actividades relacionadas con el Desarrollo Científico y Tecnológico y la Innovación en escuelas de educación básica y media superior;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+IV.- La participación de profesores-investigadores en la realización de actividades relacionadas con el Desarrollo Científico y Tecnológico y la Innovación en instituciones de educación superior;
 
 V.- El diseño e implementación de materiales y medios para ampliar el acceso al conocimiento científico y tecnológico de los estudiantes de todos los tipos y niveles educativos y que coadyuven a fortalecer su formación integral, y
 
@@ -1167,27 +977,43 @@ VI.- La incorporación de niños y jóvenes en el desarrollo de actividades rela
 
 ### CAPÍTULO II. De la Vinculación con los Sectores Público y Privado
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 70.
 
-Las dependencias y entidades de la Administración Pública Estatal, así como las instituciones de educación media superior y superior, y los centros de investigación, en sus respectivos ámbitos de competencia, promoverán el establecimiento de esquemas efectivos de vinculación con los sectores público y privado de la Entidad.
+Las dependencias y entidades de la Administración Pública Estatal, así como las instituciones de educación superior y los centros de investigación, en sus respectivos ámbitos de competencia, promoverán el establecimiento de esquemas efectivos de vinculación con los sectores público y privado de la Entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 71.
 
-El Poder Ejecutivo del Estado promoverá en el ámbito de su competencia:
+El Poder Ejecutivo del Estado, a través de la Secretaría, promoverá en el ámbito de su competencia:
 
-I.- La identificación de áreas y temas prioritarios de investigación científica, tecnológica e Innovación basados en necesidades sociales, económicas y ambientales que requieren atenderse mediante la Vinculación de instituciones de educación media superior, superior y centros de investigación con Empresas de Base Tecnológica y dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-II.- El fortalecimiento de las capacidades de las instituciones de educación media superior y superior, centros de investigación, dependencias y entidades de la Administración Pública Estatal para propiciar y facilitar sus procesos y actividades de Vinculación con los sectores público y privado en proyectos de interés para las partes y para el desarrollo económico y social del Estado;
+I.- La identificación de áreas y temas prioritarios de Investigación Científica, Tecnológica e Innovación basados en necesidades sociales, económicas y ambientales que requieren atenderse mediante la Vinculación de instituciones de educación superior y centros de investigación con Empresas de Base Tecnológica y dependencias y entidades de la Administración Pública Estatal;
 
-III.- El desarrollo de procesos de Vinculación de las instituciones de educación media superior, superior y centros de investigación en el Estado, orientados a atender primordialmente las necesidades de Innovación y Desarrollo Tecnológico del sector productivo local sin menoscabo de las oportunidades que surjan en los ámbitos regional y global;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-IV.- La realización de proyectos de investigación y Desarrollo Tecnológico que involucren la colaboración entre instituciones de educación media superior, superior y centros de investigación, con empresas en la Entidad;
+II.- El fortalecimiento de las capacidades de las instituciones de educación superior, centros de investigación, dependencias y entidades de la Administración Pública Estatal para propiciar y facilitar sus procesos y actividades de Vinculación con los sectores público y privado en proyectos de interés para las partes y para el desarrollo económico y social del Estado;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+III.- El desarrollo de procesos de vinculación de las instituciones de educación superior y centros de investigación en el Estado, orientados a atender primordialmente las necesidades de Innovación y Desarrollo Tecnológico del sector productivo local sin menoscabo de las oportunidades que surjan en los ámbitos regional y global;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+IV.- La realización de proyectos de investigación y Desarrollo Tecnológico que involucren la colaboración entre instituciones de educación superior, y centros de investigación, con empresas en la entidad;
 
 V.- La realización de estancias de profesores e investigadores en Empresas de Base Tecnológica con el objetivo de establecer mecanismos de cooperación y colaboración en proyectos de Investigación, Desarrollo Tecnológico e Innovación;
 
-VI.- La organización de eventos en los cuales se propicie un mayor y mejor conocimiento por parte de los empresarios sobre las capacidades y proyectos de las instituciones de educación media superior, superior y centros de investigación en la Entidad, así como de éstas sobre las necesidades de las Empresas de Base Tecnológica para incrementar su competitividad y con ello propiciar la realización de proyectos conjuntos de interés para las partes;
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
 
-VII.- La identificación y sistematización de casos exitosos de vinculación entre Empresas de Base Tecnológica, instituciones de educación media superior y superior, centros de investigación dependencias y entidades de la Administración Pública Estatal, y su réplica en otras situaciones;
+VI.- La organización de eventos en los cuales se propicie un mayor y mejor conocimiento por parte de los empresarios sobre las capacidades y proyectos de las instituciones de educación superior y centros de investigación en la Entidad, así como de éstas sobre las necesidades de las Empresas de Base Tecnológica para incrementar su competitividad y con ello propiciar la realización de proyectos conjuntos de interés para las partes;
+
+> <small>(REFORMADA, D.O. 14 DE OCTUBRE DE 2015)</small>
+
+VII.- La identificación y sistematización de casos exitosos de vinculación entre Empresas de Base Tecnológica, instituciones de educación superior, centros de investigación dependencias y entidades de la Administración Pública Estatal, y su réplica en otras situaciones;
 
 VIII.- El otorgamiento de estímulos para la realización de proyectos universidad-empresa y para fomentar la inversión empresarial en materia de Desarrollo Tecnológico, Innovación y Vinculación;
 
@@ -1201,9 +1027,11 @@ XI.- La realización de estudios de factibilidad económica que den sustento a l
 
 La Vinculación procurará ser multidisciplinaria e interdisciplinaria, y buscará la coordinación de acciones en materia de ciencia, tecnología e Innovación, tomando en cuenta las demandas y necesidades de los sectores gubernamentales, académicos, privados o sociales de la Entidad, y la orientación del trabajo de la infraestructura estatal hacia la generación y avance del conocimiento científico y tecnológico.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 73.
 
-El Poder Ejecutivo Estatal por conducto de cualesquiera de sus secretarías u otras dependencias y/o el CONCIYTEY, podrá celebrar convenios entre sí con los municipios a efecto de establecer programas, apoyos específicos, impulsar la creación de consejos o comités municipales con el fin de apoyar la investigación científica, Desarrollo Tecnológico, colaboración, coordinación, consulta y/o divulgación de las actividades del ramo.
+El Poder Ejecutivo Estatal, por conducto de la Secretaría, podrá celebrar convenios con los municipios a efecto de establecer programas y apoyos específicos e impulsar la creación de consejos o comités municipales, con el fin de apoyar la Investigación Científica, Desarrollo Tecnológico, colaboración, coordinación, consulta o divulgación de las actividades del ramo.
 
 ###### Artículo 74.
 
@@ -1227,9 +1055,11 @@ III.- Yucatán de Creatividad Infantil, para fomentar la creatividad en etapas t
 
 Los premios serán entregados anualmente por el Gobernador del Estado y consistirán en un diploma alusivo y un estímulo económico para el premio Yucatán de Ciencia, Tecnología, Innovación y Vinculación, cuyo monto será fijado anualmente por el mismo, y un diploma alusivo para los premios Yucatán de Ciencia Juvenil, y de Creatividad Infantil, respectivamente.
 
+> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 77.
 
-La convocatoria con las bases relativas a los premios a que se someterán los candidatos será emitida por el CONCIYTEY. En todo caso, se asegurará que en el jurado calificador participen mayoritariamente distinguidos científicos, tecnólogos, inventores y empresarios nacionales y extranjeros.
+La convocatoria con las bases relativas a los premios a que se someterán los candidatos será emitida por la Secretaría. En todo caso, se asegurará que en el jurado calificador participen mayoritariamente distinguidos científicos, tecnólogos, inventores y empresarios nacionales y extranjeros.
 
 TRANSITORIOS:
 
@@ -1292,3 +1122,55 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 14 DE OCTUBRE DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el diario oficial del Estado.
+
+Segundo. Obligación normativa
+
+El titular del Poder Ejecutivo deberá realizar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, para armonizarlas en lo conducente a las disposiciones de este decreto, dentro de los noventa días naturales siguientes contados a partir de su entrada en vigor.
+
+Tercero. Relaciones laborales
+
+El personal de base que preste sus servicios en el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán pasará a formar parte de la Secretaría de Investigación, Innovación, y Educación Superior y se estará a lo que señalen las disposiciones legales aplicables.
+
+Cuarto. Ajustes presupuestales
+
+El Gobernador del Estado, por medio de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales, financieros y materiales asignados a la Secretaría de Educación para prestar los servicios que, mediante este decreto, se atribuirán a la Secretaría de Investigación, Innovación y Educación Superior, para su debido funcionamiento.
+
+Quinto. Transferencia de recursos
+
+Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas al Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán se transferirán a la Secretaría de Investigación, Innovación y Educación Superior.
+
+Sexto. Asuntos pendientes
+
+Los convenios, actos jurídicos, asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, y que por su naturaleza subsistan, a partir de la entrada en vigor de este decreto, quedarán a cargo de la Secretaría de Investigación, Innovación y Educación Superior.
+
+Séptimo. Referencias al consejo
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, se entenderán referidas a la Secretaría de Investigación, Innovación y Educación Superior.
+
+Octavo. Obligación normativa de la junta de gobierno
+
+La Junta de Gobierno del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán deberá publicar en el Diario Oficial del Gobierno Estado, los lineamientos para llevar a cabo la liquidación del consejo, dentro de los treinta días naturales siguientes a la entrada en vigor de este decreto.
+
+Noveno. Obligación de la dependencia coordinadora de sector
+
+La Secretaría de Educación del Gobierno del Estado, en su carácter de dependencia coordinadora de sector, una vez concluido el proceso de desincorporación del Consejo de Ciencia, Innovación y Tecnología del Estado de Yucatán, deberá informar este hecho a la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, para los efectos que correspondan.
+
+Décimo. Derogación tacita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+Décimo Primero. Informe trimestral
+
+La Secretaría de Administración y Finanzas, una vez concluidos los movimientos y ajustes presupuestales, deberá enviar un informe financiero de éstos al Congreso del Estado.
+
+Décimo Segundo. Plan estratégico
+
+A partir de la entrada en vigor de las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, se dará un plazo máximo de 60 días para que se establezca un plan estratégico que atienda proyectos de investigación de alto impacto en las condiciones de vida de la población. Asimismo, para este propósito se destinará un porcentaje de al menos el 20% del incremento en gasto público de la nueva Secretaría para actividades destinadas a la investigación científica de impacto social.
