@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-comercializadores-de-pronosticos-para-la-83034"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-29"
-last_updated: "2011-09-29"
+last_updated: "2015-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83034&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-09-22"
 ---
 # REGLAMENTO DE COMERCIALIZADORES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-REGLAMENTO DE COMERCIALIZADORES DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
+REGLAMENTO DE COMERCIALIZADORES DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL REGLAMENTO DE COMERCIALIZADORES Y/O AGENTES DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA, PUBLICADO EN EL D.O.F. DE 14 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de septiembre de 2011.
 
@@ -352,3 +354,19 @@ Secretario del Consejo Directivo
 Lic. Sergio Eduardo Huacuja Betancourt
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE OCTUBRE DE 2015.
+
+Primero.- El presente acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Hasta en tanto se realicen las reformas pertinentes a los Reglamentos de los Sorteos y Concursos de Pronósticos, así como a los Manuales, Instructivos y Procedimientos en todo lo que se refieran a agentes, deberá entenderse también como comercializador.
+
+Tercero.- Se abrogan los “Criterios emitidos por la Subdirección General de Ventas de Pronósticos para la Asistencia Pública para otorgar seguridad y certeza jurídica a los particulares que quisieran obtener y operar una agencia”, publicados en el Diario Oficial de la Federación el día 17 de agosto de 2011.
+
+Cuarto.- Se abroga el Reglamento de Agentes de Pronósticos para la Asistencia Pública, así como sus diversas reformas publicadas en el Diario Oficial de la Federación.
+
+Quinto.- Se abroga el Reglamento de Comercializadores de Pronósticos para la Asistencia Pública, publicado en el Diario Oficial de la Federación el día 29 de septiembre de 2010 (sic).
+
+Sexto.- Se deroga cualquier disposición que contravenga el presente Reglamento de Comercializadores y/o agentes.
