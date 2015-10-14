@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-registro-civil-del-distrito-federal-25421"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-30"
-last_updated: "2015-01-21"
+last_updated: "2015-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25421&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-28"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 30 de julio de 2002.
 
@@ -104,11 +104,9 @@ X. Constancia de declaración de existencia de concubinato: El documento que exp
 
 XI. Constancia de curso prenupcial: El documento que expedirá el Juez del Registro Civil que haya impartido el curso prenupcial, el cual hace constar que los contrayentes dieron ya cabal cumplimiento a dicho requisito, previo a la celebración de la ceremonia del matrimonio;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 2015)</small>
-
-XII. Copia Certificada de reciente expedición: A la certificación expedida, con antigüedad no mayor de un año a la fecha de su presentación, para realizar el trámite de que se trate;
+XII. Copia Certificada de reciente expedición: A la certificación expedida con antigüedad no mayor a seis meses, a la fecha de su presentación para realizar el trámite de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -212,6 +210,18 @@ XXVIII. Titular: Al Director General del Registro Civil del Distrito Federal; y
 
 XXIX. Votos matrimoniales: Compromisos recíprocos de carácter moral que los cónyuges hacen entre ellos, si así lo desean, y que serán elaborados con la asesoría del personal del Registro Civil para su lectura por los contrayentes durante la ceremonia del matrimonio.
 
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+XXX. Identidad de género: La convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia.
+
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+XXXI. Rectificación por error: La rectificación administrativa, cuyo origen sea un error mecanográfico, ortográfico u homólogo, que resulte de una acción u omisión imputable al Registro Civil.
+
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+XXXII. Rectificación por enmienda: La rectificación administrativa, cuyo objeto sea armonizar la realidad jurídica y social de la identidad del solicitante.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2004)</small>
 
 ###### Artículo 3º.
@@ -308,6 +318,10 @@ VI. Proponer al Jefe de Gobierno la adscripción territorial de los Juzgados a l
 
 VII. Expedir los Manuales del Registro Civil de conformidad con las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+VIII. Convocar al Consejo a que hace referencia el Artículo 135 Quintus del Código Civil del Distrito Federal.
+
 ###### Artículo 12.
 
 Corresponde al Titular:
@@ -329,6 +343,10 @@ VII. Ordenar, y en su caso, autorizar la reposición de las actas del estado civ
 VIII. Dar cumplimiento a las resoluciones judiciales que reciba, ya sea directamente o remitiéndolas al Juez correspondiente, para que sean debidamente cumplimentadas;
 
 IX. Autorizar la inscripción de las anotaciones que modifiquen, rectifiquen, aclaren, complementen, revoquen o anulen el contenido de las actas del estado civil de las personas, procurando su incorporación a aquellos medios que las contengan y que el avance tecnológico pudiera ofrecer;
+
+> <small>(ADICIONADA, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+IX BIS. Desincorporar las actas de nacimiento derivadas de alumbramientos múltiples, con objeto de individualizarlas.
 
 X. Distribuir a los Juzgados las Formas en que deban constar las actas del Registro Civil, así como el papel seguridad para la expedición de copias certificadas;
 
@@ -456,7 +474,9 @@ XIII Quater. Ordenar, a petición del juez de lo familiar, la cancelación de la
 
 XIV. Autorizar con firma autógrafa el cierre de los libros que se hayan integrado en el año inmediato anterior, relativos a los actos del estado civil pasados ante él;
 
-XV. Resolver administrativamente las aclaraciones de actas del estado civil de las personas que le sean solicitadas, de conformidad a lo establecido en el Código Civil, así como por lo dispuesto en el presente Reglamento; y
+> <small>(REFORMADA, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+XV. Resolver administrativamente las rectificaciones de actas del estado civil de las personas que le sean solicitadas, ya sea por error o por enmienda, de conformidad a lo establecido en el Código Civil, así como lo dispuesto en el presente Reglamento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1062,6 +1082,12 @@ Artículo 50 bis. Si al dar aviso de un nacimiento, se comunica también la muer
 
 Lo anterior, sin perjuicio de los demás requisitos solicitados en el Código y demás normas aplicables.
 
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+Artículo 50 ter. Para el caso de parto múltiple, se levantará un acta por cada uno de los nacidos, en la que además de los requisitos que señala el Artículo 46, se harán constar las particularidades que los distingan y el orden en que ocurrió su nacimiento, según lo señalado en el certificado de nacimiento, la constancia de parto o alumbramiento o los testigos que declaren, según sea el caso, y, además, se imprimirán las huellas digitales de los presentados. El Juez del Registro Civil relacionará las actas.
+
+La desincorporación de las actas de nacimiento derivadas de alumbramientos múltiples levantadas con anterioridad, se realizará mediante solicitud, por escrito que deberá dirigirse al Director General del Registro Civil. Esta autoridad evaluará su procedencia y en su caso, emitirá acuerdo ordenando la anotación marginal en el acta de nacimiento, aún incorporada. El levantamiento de las actas individuales se realizará con la presencia de cada uno de los interesados.
+
 DEL REGISTRO EXTEMPORÁNEO DE NACIMIENTO
 
 ###### Artículo 51.
@@ -1320,29 +1346,61 @@ Para el caso de que sea declarada judicialmente la impugnación o revocación de
 
 En el caso de adopción a que se refiere el artículo 410-D del Código Civil, se autorizará el Acta de Adopción insertando en ésta los datos esenciales de la resolución judicial; asimismo, se anotará en el Acta de Nacimiento del adoptado y se archivará la copia de las diligencias relativas relacionándola con el mismo número del Acta de Adopción.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
-De las Actas de nacimiento por Reasignación Sexo genérica
+De las Actas de Nacimiento derivadas del Juicio Especial por Reasignación para la Concordancia Sexo-Genérica.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
-Artículo 69 bis.- Para la autorización del acta de nacimiento que deba registrarse en cumplimiento a la resolución judicial que ordene un nuevo registro de nacimiento, por reasignación sexo genérica, los interesados deberán presentar:
+Artículo 69 bis.- Para la autorización del acta de nacimiento que deba registrarse en cumplimiento a la resolución judicial que ordene un nuevo registro de nacimiento por reasignación sexo-genérica, los interesados deberán presentar:
 
-I.- Solicitud debidamente requisitada;
+I. Solicitud debidamente requisitada;
 
-II.- Oficio emitido por el Órgano Jurisdiccional que ordene la inscripción de la Sentencia correspondiente;
+II. Oficio emitido por el Órgano Jurisdiccional que ordene la inscripción;
 
-III.- Sentencia debidamente ejecutoriada que ordene el registro de una nueva acta de nacimiento por reasignación sexo-genérica;
+III. Sentencia debidamente ejecutoriada que ordene el registro de una nueva acta de nacimiento por reasignación sexo-genérica;
 
-IV.- Copia certificada del acta de nacimiento primigenia para el efecto de que se haga la reserva correspondiente;
+IV. Copia certificada de reciente expedición, del acta de nacimiento primigenia para el efecto de que se haga la reserva correspondiente;
 
-V.- Comparecencia de la persona a registrar con original y copia fotostática simple de de (sic) su identificación oficial;
+V. Comparecencia de la persona a registrar con original y copia fotostática simple de su identificación oficial vigente;
 
-VI.- Para el caso de que la persona a registrar sea menor de edad, deberá comparecer quien ejerza sobre esta la Patria Potestad o Tutela con original y copia fotostática simple de su identificación oficial, y
+VI. Para el caso de que la persona a registrar sea menor de edad, deberá comparecer quien ejerza sobre ésta la Patria Potestad o Tutela con original y copia fotostática simple de su identificación oficial, y
 
-VII.- Comprobante de Domicilio.
+VII. Comprobante de domicilio, de no más de seis meses de antigüedad.
 
-Si el registro se realizara en el mismo Juzgado en que se autorizó el Acta de Nacimiento primigenia, se procederá de inmediato a hacer la anotación y la reserva correspondiente. Si se hiciere en Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se encuentre el Acta de Nacimiento primigenia para los mismos efectos. En ambos casos, se dará aviso a la Dirección, para los efectos anteriormente señalados, una vez cumplimentada la sentencia, se enviaran los oficios a las autoridades administrativas correspondientes.
+Si el registro se realiza en el mismo Juzgado en que se autorizó el acta de Nacimiento primigenia, se procederá de inmediato a hacer la anotación y la reserva correspondiente. Si se hace en Juzgado distinto, se dará aviso mediante escrito al Juzgado en que se encuentre el Acta de Nacimiento primigenia para los mismos efectos. En ambos casos, se dará aviso a la Dirección, para los efectos anteriormente señalados. Una vez cumplimentada la sentencia, se enviarán los oficios a la Secretaría de Gobernación, Secretaría de Relaciones Exteriores, al Instituto Nacional Electoral, Procuraduría General de la República y a la Procuraduría General de Justicia del Distrito Federal, para los efectos legales procedentes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+De las Actas Nacimiento derivadas del Procedimiento Administrativo de Identidad de Género
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+Artículo 69 ter.- Para la autorización del acta de nacimiento, los interesados deberán comparecer personalmente en la Oficina Central y acreditar fehacientemente ser de nacionalidad mexicana, mayor de dieciocho años y habitante del Distrito Federal.
+
+La persona interesada deberá presentar:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del acta de nacimiento primigenia, de reciente expedición, para el efecto de que se haga la reserva correspondiente;
+
+III. Original y copia fotostática simple de su identificación oficial vigente, y
+
+IV. Comprobante de domicilio, de no más de tres meses de antigüedad.
+
+> <small>(ADICIONADO, G.O. 14 DE OCTUBRE DE 2015)</small>
+
+Artículo 69 quater.- La autoridad llevará a cabo la revisión y cotejo de los documentos a que se refiere el artículo precedente, en caso de estar cubiertos todos los requisitos señalados, tendrá verificativo una comparecencia de la persona solicitante, ante el personal designado del Registro Civil, en la cual manifieste, bajo protesta de decir verdad, que es su convicción personal interna, percibirse con un género diferente al que aparece en su acta de nacimiento primigenia, por lo que solicita el levantamiento de una nueva acta de nacimiento en la que éste sea modificado y en consecuencia, también su nombre.
+
+Con motivo de la comparecencia, la autoridad emitirá un acuerdo por el cual se tendrá por presentada a la persona, por hechas las manifestaciones que hace valer acordando en su caso de conformidad a lo solicitado.
+
+En el acuerdo referido en el párrafo que antecede, la autoridad ordenará proceder, de inmediato a hacer la anotación y la reserva correspondiente si la persona es originaria de la Ciudad de México; si el acta se alojara en Juzgado distinto al Central, se dará aviso mediante oficio al Juzgado en que se encuentre el acta de nacimiento primigenia para los efectos anteriormente señalados.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial o petición ministerial.
+
+En caso de que el acta primigenia sea de otra entidad federativa, la persona solicitante deberá recoger en la Oficina Central, a los cinco días hábiles posteriores al levantamiento de la nueva acta, el oficio de notificación a la autoridad homóloga del Estado de origen, quedando bajo su responsabilidad la entrega del oficio a dicha autoridad, quien realizará las anotaciones correspondientes de conformidad con su Legislación.
+
+Una vez cumplido el trámite se enviarán los oficios con la información, en calidad de reservada, a la Secretaría de Gobernación, Secretaría de Finanzas, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Tribunal Superior de Justicia del Distrito Federal, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional y al Consejo de la Judicatura Federal, para los efectos legales procedentes.
 
 DE LAS ACTAS DE MATRIMONIO
 
@@ -1644,123 +1702,119 @@ Lo anterior, siempre y cuando la muerte no sea violenta o (sic) ocurrida en la v
 
 ### CAPÍTULO VII. DE LA ACLARACIÓN DE LAS ACTAS DEL ESTADO CIVIL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 21 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 96.
 
-La aclaración de las actas del estado civil de las personas, procederá cuando se acredite que en el levantamiento del acta correspondiente, existieron errores mecanográficos, ortográficos, omisiones, imprecisiones, datos inverosímiles, usos y costumbres de época, así como errores de otra índole, que no afecten datos esenciales y no varíen el contexto del acta; éstas aclaraciones deberán tramitarse únicamente ante la Dirección General del Registro Civil, de conformidad con lo previsto por el artículo 138 bis del Código Civil.
+La rectificación de las actas del estado civil de las personas, procederá cuando se acredite que en el levantamiento del acta correspondiente, existieron errores mecanográficos, ortográficos o de otra índole, o bien omisiones, imprecisiones, datos inverosímiles, usos y costumbres de época, e inclusive aquellos que afecten datos esenciales cuando se realicen para ajustar la realidad jurídica y social; y deberán tramitarse únicamente ante la Dirección General del Registro Civil, de conformidad con lo previsto por los artículos 134 y 138 bis del Código Civil.
+
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 97.
 
-Pueden pedir la aclaración de un acta del estado civil:
+Pueden pedir la rectificación de un acta del estado civil:
 
 I. El registrado;
 
-II. Las personas que se mencionan en el acta como relacionadas con el estado civil de alguno;
+II. Alguno de los contrayentes en las actas de matrimonio;
 
 III. Los herederos de las personas comprendidas en las dos fracciones anteriores;
 
-IV. Los que de conformidad con los artículos 348, 349 y 350 del Código Civil pueden continuar o intentar la acción de que en ellos se trata;
+IV. Los que ejerzan la patria potestad o tutela en el caso de menores de edad; así como de los que se encuentren en estado de interdicción, o cuenten con dictamen médico expedido por alguna institución pública de salud, que acredite algún trastorno mental permanente;
 
-V. Los que ejerzan la patria potestad o tutela; y
+V. El mandatario expreso para el acto mediante poder simple o notarial, otorgado por quien tenga derecho para otorgarlo; y
 
-VI. El mandatario expreso para el acto mediante poder simple o notarial, o quien acredite un interés jurídico.
+VI. Quien acredite un interés jurídico.
+
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 98.
 
-Para los efectos del presente Reglamento, los extremos a que se refiere el artículo 138 Bis del Código Civil se entenderán como:
+Para los efectos del presente Reglamento, los extremos a que se refieren los artículos 135 y 138 bis del Código Civil se entenderán como:
 
-I. Errores mecanográficos: Los manchones, imprecisiones, letras o números encimados, enlazados o remarcados, realizados por el sistema que se haya utilizado para el llenado de las Formas que no afecten datos esenciales del registro;
+I. Errores mecanográficos: Los manchones, imprecisiones, letras o números encimados, enlazados o remarcados, realizado por el sistema que se haya utilizado para el llenado de las Formas que no afecten datos esenciales del registro.
 
-II. Errores ortográficos: Por regla general los nombres incorrectamente escritos acordes con el acertado empleo de las letras, de los signos de la escritura y gramática, y por excepción, en contra de las reglas ortográficas, en virtud del uso del nombre; y
+II. Errores ortográficos: Por regla general los nombres incorrectamente escritos acordes con el acertado empleo de las letras, de los signos de la escritura y gramática y por excepción, en contra de las reglas ortográficas, en virtud del uso del nombre.
 
 III. Errores de otra índole:
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+a) Las omisiones o errores en: fechas de nacimiento, defunción o de registro; así como de nombre, apellidos o de preposiciones del nombre que se adviertan del cotejo efectuado con los expedientes formados con motivo del levantamiento del acta que se pretende aclarar que se encuentren en resguardo de los archivos del Registro Civil o con documental pública;
 
-a) Las omisiones o errores en: fechas de nacimiento, defunción, o de registro; así como de nombres, apellidos o preposiciones del nombre que se adviertan del cotejo efectuado con los expedientes formados con motivo del levantamiento del acta que se pretende aclarar que se encuentren en resguardo de los archivos del Registro Civil o con documental pública;
-
-b) Aquellos hechos o actos asentados de imposible realización en tiempo, lugar o circunstancia;
+b) Aquellos actos asentados de imposible realización en tiempo, lugar o circunstancia;
 
 c) La supresión o inclusión de la conjunción copulativa entre los apellidos paterno y materno de la persona de que se trate;
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
-
-d) La aclaración en las actas del estado civil de los descendientes, cuando sus ascendientes hayan rectificado o aclarado sus respectivas actas de nacimiento, respecto de los datos aclarados o rectificados;
-
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+d) La aclaración de las actas del estado civil de los de los descendientes, cuando sus ascendientes hayan rectificado o aclarado sus respectivas actas de nacimiento, respecto de los datos aclarados o rectificados;
 
 e) Cualquier error contenido en el acta de defunción, cuando se acredite con documentos públicos anteriores al deceso, que los datos contenidos en el certificado de defunción son incorrectos;
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+f) Cuando en el Acta de Nacimiento aparezca una fecha de nacimiento distinta a la del alumbramiento y se acredite con el certificado de nacimiento o constancia de parto;
 
-f) Cuando en el Acta de Nacimiento aparezca una fecha distinta a la del alumbramiento y se acredite con el certificado de nacimiento o la constancia de parto;
+g) La indicación equivocada de sexo, cuando no haya duda sobre la identidad del nacido por las demás circunstancias de la inscripción y se acredite con el certificado de nacimiento o la constancia de parto; o bien, mediante la exhibición de documentales públicas que así lo acrediten;
 
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+h) La aclaración de las actas de matrimonio, divorcio administrativo o defunción, cuando el solicitante haya rectificado o aclarado su acta de nacimiento, respecto de los datos aclarados o rectificados;
 
-g) La indicación equivocada de sexo, cuando no haya duda sobre la identidad del nacido por las demás circunstancias de la inscripción y se acredite con el certificado de nacimiento o la constancia de parto;
-
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
-
-h) La aclaración en las actas de matrimonio, divorcio administrativo o defunción, cuando el solicitante haya rectificado o aclarado su acta de nacimiento, respecto de los datos aclarados o rectificados;
-
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
-
-i) Cuando se trate de meras discrepancias entre el duplicado y el libro original;
-
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+i) Cuando se trate de meras discrepancias entre el duplicado y el libro original; y
 
 j) El uso de abreviaturas o guarismos no permitidos, el empleo de idioma distinto al español, la difícil legibilidad de caracteres, así como la defectuosa expresión de conceptos, cuando por el contexto de la inscripción o de otras inscripciones no haya duda de su contenido.
 
-> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2004)</small>
+IV. Datos esenciales de las actas: Aquellos que se refieren al nombre o nombres de pila o apellidos de (sic) registrado, cónyuges y fecha de nacimiento entre otros, a fin de adecuarlas a la realidad jurídica y social mediante la acreditación de su uso u omisión; sin que ello implique cambio con fines dolosos en su identidad, generación de derechos sucesorios, cambio de filiación, ni que pueda sustraerse de obligaciones contraídas con anterioridad a la rectificación de las mismas.
 
-Artículo 98 bis.- El trámite de aclaración de actas del registro civil se ajustará a lo siguiente:
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE ENERO DE 2012)</small>
+Artículo 98 bis.- El trámite de rectificación de actas del registro civil se ajustará a lo siguiente:
 
-I. El interesado deberá llenar y suscribir el formato de solicitud de aclaración conforme al formato que le proporcione el Registro Civil.
+I. El interesado deberá llenar y suscribir el formato de solicitud de rectificación conforme al formato que le proporcione el Registro Civil.
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2012)</small>
+Tratándose de menores de edad la solicitud deberá suscribirse por quien ejerza la patria potestad o tutela y cuando sean mayores de edad, los registrados o cualquiera de sus padres En caso de rectificación de actas de matrimonio, la solicitud podrá ser suscrita por uno de los cónyuges.
 
-Tratándose de menores de edad la solicitud deberá suscribirse por quien ejerza la patria potestad o tutela. En caso de aclaración de actas de matrimonio, la solicitud podrá ser suscrita por uno de los cónyuges.
+El formato de solicitud también podrá ser llenado y suscrito por mandatario especial cuyo mandato conste al menos, en carta poder firmada ante dos testigos, anexando copia simple de las identificaciones de quienes participen en ella; o bien mediante poder notarial.
 
-El formato de solicitud también podrá ser llenado y suscrito por mandatario especial cuyo mandato conste, al menos en carta poder firmada ante dos testigos.
+II. Presentar la solicitud personalmente o por conducto de su mandatario en la Oficina Central del Registro Civil y anexar la siguiente documentación:
 
-II. Presentar la solicitud, personalmente o por conducto de su mandatario en la Oficina Central del Registro Civil y anexar la siguiente documentación:
+a) Copia certificada de reciente expedición del acta que se desea rectificar;
 
-a) Identificación oficial con fotografía del interesado y del mandatario, en su caso;
+b) Identificación oficial con fotografía del interesado o en su caso, documento que acredite la calidad del Mandatario si no se promueve por propio derecho;
 
-b) En su caso, documento que acredite la calidad del Mandatario;
+c) Documentales públicas que acrediten la procedencia de lo solicitado conforme a lo siguiente:
 
-c) Copia certificada de reciente expedición del acta que se desea aclarar, y
+Si se trata de acreditar un error que se cometió al momento de levantar el registro: actas de nacimiento de padre, madre, de matrimonio de los padres del registrado o de nacimiento de hermanos; cuando el error sea de apellidos o nombres de pila en las actas; expediente o apéndice, según sea el caso.
 
-d) La documentación probatoria de los datos que se quieren aclarar, enumerándola y describiéndola.
+Documentales públicas en diferentes etapas de vida: niñez, adolescencia y etapa adulta en su caso, cuando lo que se pretenda modificar en el acta no sea producto de un error; sino se pretenda acreditar el uso o no uso de nombres, apellidos o fechas de nacimiento consignadas en los registros del Registro Civil o las constancias de alumbramiento y certificados de nacimiento.
+
+d) La comparecencia del interesado y de dos testigos por lo menos, cuando lo que se pretenda rectificar en las actas del estado civil de las personas, afecten datos esenciales y tengan por objeto ajustar la realidad jurídica y social del o los registrados; y
+
+e) La documentación probatoria de los datos que se quieren aclarar, se enumerará y describirá en la solicitud de rectificación, así como los nombres de los testigos y su presentante (sic)
 
 III. Recibida la solicitud, se le asignará un número progresivo y se le entregará al solicitante citatorio para que comparezca a la Oficina a notificarse de la resolución el día y hora que al efecto se señale.
 
 Ningún servidor público encargado de la recepción de las solicitudes podrá negarse a recibirlas.
 
-IV. El Registro Civil procederá al análisis de la solicitud y sus anexos y de estimar procedente la aclaración proveerá lo conducente, dejando a salvo los derechos de terceros.
+IV. El Registro Civil procederá al análisis de la solicitud, sus anexos y comparecencias, en caso de estimar procedente la rectificación proveerá lo conducente, dejando a salvo los derechos de terceros.
 
-En caso de que se estimara que falta algún requisito o documento para la procedencia de la aclaración, se requerirá al interesado o al mandatario por una sola vez, para que proporcione la información o documento faltante, debiendo señalar las razones del requerimiento y apercibiéndolo que de no presentar la documentación en un plazo que no exceda de diez días hábiles a partir de la notificación, se declarará improcedente la aclaración. Se le entregará copia del requerimiento y cumplido que sea, se proveerá lo conducente.
+V. Cuando por la naturaleza de la rectificación deba citarse a comparecer al interesado y sus testigos, se señalará día y hora a fin de desahogar esta prueba dentro del procedimiento
 
-En caso de que la aclaración se declare improcedente, se dejarán a salvo los derechos del interesado para hacerlos valer ante el juez de lo familiar competente.
+En caso de que se estime que falta algún requisito o documento para la procedencia de la rectificación, se requerirá al interesado o al mandatario por una sola vez, para que proporcione la información o documento faltante, debiendo señalar las razones del requerimiento y apercibiéndolo que de no presentar la documentación en un plazo que no exceda de diez días hábiles a partir de la notificación, se declarará improcedente la rectificación. Se le entregará copia del requerimiento y cumplido que sea, se proveerá lo conducente.
 
-> <small>(REFORMADO, G.O. 11 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 99.
 
-Sólo son admisibles como medios de prueba para el trámite de aclaración las documentales públicas o privadas, que acrediten fehacientemente la procedencia de la aclaración.
+Son admisibles como medios de prueba para el trámite de rectificación de acta las documentales públicas y privadas, así como la comparecencia del interesado y testimoniales, que acrediten fehacientemente la procedencia de su rectificación.
+
+Tratándose de medios de prueba documentales serán esenciales los documentos públicos, y complementarios los privados o religiosos que el registrado haya utilizado en las diversas etapas de su vida.
+
+En caso de estimarse necesaria la comparecencia del interesado y de sus testigos, se les requerirá por escrito exponiendo las razones del mismo.
 
 A efecto de mejor proveer, la Dirección queda facultada para allegarse de los elementos de convicción que estime pertinentes para determinar la procedencia de la aclaración.
 
-Con la resolución administrativa de aclaración de Acta, se ordenará que se hagan las anotaciones correspondientes.
+En la resolución administrativa de rectificación de Acta, se ordenará que se hagan las anotaciones correspondientes.
+
+> <small>(REFORMADO, G.O. 14 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 100.
 
-El expediente o apéndice de las actas del estado civil de las personas que obren en los archivos del Registro Civil, así como los que se encuentren bajo el resguardo del Archivo Judicial, se tomarán como medios de prueba en el procedimiento de aclaración administrativa.
+El expediente o apéndice de las actas del estado civil de las personas que obren en los archivos del Registro Civil, así como los que se encuentren bajo resguardo del Archivo Judicial, se tomarán como medios de prueba en el procedimiento de rectificación de acta.
 
 ###### Artículo 101.
 
@@ -1943,3 +1997,9 @@ G.O. 21 DE ENERO DE 2015.
 PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. El presente decreto entrará en vigor a los 60 días hábiles siguientes de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE OCTUBRE DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
