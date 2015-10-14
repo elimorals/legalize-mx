@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-22383"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2013-07-31"
+last_updated: "2015-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 14 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 15 de octubre de 2001.
 
@@ -1094,3 +1096,25 @@ e) Si existieran menores de doce años privados de su libertad, se ordenará su 
 P.O. 31 DE JULIO DE 2013.
 
 Artículo Único. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado, publicada en el Periódico Oficial No. 124 de fecha 15 de octubre de 2001.
+
+TERCERO. El Reglamento de la Presente Ley deberá ser expedido dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto.
+
+CUARTO. Los Sistemas Estatal y Municipales de Protección Integral, deberán constituirse a más tardar dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto.
+
+Por única ocasión los dos representantes de la sociedad civil del Sistema Estatal de Protección Integral deberán ser nombrados por el Titular del Poder Ejecutivo del Estado
+
+QUINTO. El Congreso del Estado dentro de los ciento ochenta días naturales siguientes al inicio de vigencia del presente Decreto deberá realizar las adecuaciones conducentes a la legislación estatal para efecto de la aplicación de esta Ley.
+
+SEXTO. Las referencias que se hacen en las leyes, decretos, reglamentos, convenios, acuerdos y demás disposiciones jurídicas a la Procuraduría de la Defensa del Menor, la Mujer y la Familia se entenderán realizadas a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado.
+
+Los servidores públicos de la Procuraduría de la Defensa del Menor, la Mujer y la Familia seguirán siéndolo de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, conservando su antigüedad, derechos y condiciones, laborales, transfiriéndose además los recursos materiales y financieros.
+
+SÉPTIMO. El Ejecutivo del Estado y los Ayuntamientos deberán incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
