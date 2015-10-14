@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2015-06-04"
+last_updated: "2015-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2015.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -73,8 +73,6 @@ V.- El disfrute de servicios de salud y de asistencia social que satisfagan efic
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADO EN EL D.O.F. DE 10 DE JUNIO DE 2011, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE TREINTA Y UN A VEINTIOCHO FRACCIONES.</small>
 
 ###### ARTICULO 3o.
 
@@ -136,9 +134,9 @@ X.- La información relativa a las condiciones, recursos y servicios de salud en
 
 XI.- La educación para la salud;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
-XII.- La prevención, orientación, control y vigilancia en materia de nutrición, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
+XII.- La prevención, orientación, control y vigilancia en materia de nutrición, sobrepeso, obesidad y otros trastornos de la conducta alimentaria, enfermedades respiratorias, enfermedades cardiovasculares y aquellas atribuibles al tabaquismo;
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -276,13 +274,21 @@ VI bis.- Promover el conocimiento y desarrollo de la medicina tradicional indíg
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
-VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud, y
+VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
 
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
-IX.- Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud.
+IX.- Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+X.- Proporcionar orientación a la población respecto de la importancia de la alimentación nutritiva, suficiente y de calidad y su relación con los beneficios a la salud; y
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XI.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -323,6 +329,10 @@ XI.- Apoyar la coordinación entre las instituciones de salud y las educativas, 
 XII.- Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del Sistema Nacional de Salud;
 
 XIII.- Promover e impulsar la participación de la comunidad en el cuidado de su salud;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XIII Bis.- Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
 
 XIV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
 
@@ -662,9 +672,9 @@ VII.- La prevención y el control de las enfermedades bucodentales;
 
 VIII.- La disponibilidad de medicamentos y otros insumos esenciales para la salud;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
-IX.- La promoción del mejoramiento de la nutrición;
+IX.- La promoción de un estilo de vida saludable;
 
 > <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
 
@@ -2324,7 +2334,9 @@ La promoción de la salud comprende:
 
 I.- Educación para la salud;
 
-II.- Nutrición;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+II.- Nutrición, orientación alimentaria y activación física;
 
 > <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
@@ -2350,15 +2362,15 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Prorporcionar (sic) a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, alimentación nutritiva, suficiente y de calidad, activación física para la salud, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de órganos, tejidos y células con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 113.
 
-La Secretaría de Salud, en coordinación con la Secretaría de Educación Pública y los gobiernos de las entidades federativas, y con la colaboración de las dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
+La Secretaría de Salud, en coordinación con la Secretaría de Educación Pública y los gobiernos de las entidades federativas, y con la colaboración de las dependencias y entidades del sector salud, formulará, propondrá y desarrollará programas de educación para la salud, entre otros, aquellos orientados a la alimentación nutritiva, suficiente y de calidad y a la activación física, procurando optimizar los recursos y alcanzar una cobertura total de la población. Así como, llevar a cabo la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica.
 
 > <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2382,7 +2394,9 @@ La Secretaría de Salud, las entidades del sector salud y los gobiernos de las e
 
 La Secretaría de Salud tendrá a su cargo;
 
-I.- Establecer un sistema permanente de vigilancia epidemiológica de la nutrición;
+> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+I.- Establecer un sistema permanente de vigilancia epidemiológica de los trastornos de la conducta alimentaria;
 
 > <small>(REFORMADA, D.O.F. 2 DE JUNIO DE 2004)</small>
 
@@ -2405,6 +2419,18 @@ VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros bá
 > <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
 VIII.- Proporcionar a la Secretaría de Economía los elementos técnicos en materia nutricional, para los efectos de la expedición de las normas oficiales mexicanas.
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+IX.- Impulsar, en coordinación con las entidades federativas, la prevención y el control del sobrepeso, obesidad y otros trastornos de la conducta alimentaria y, en coordinación con la Secretaría de Educación Pública, la detección y seguimiento de peso, talla e índice de masa corporal, en los centros escolares de educación básica;
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+X.- Difundir en los entornos familiar, escolar, laboral y comunitario la alimentación nutritiva, suficiente y de calidad, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+XI.- Expedir, en coordinación con la Secretaría de Educación Pública, los lineamientos generales para el expendio y distribución de alimentos y bebidas preparadas y procesadas en las escuelas del Sistema Educativo Nacional, a fin de eliminar dentro de estos centros escolares el consumo y expendio de aquellos que no cumplan con los criterios nutrimentales que al efecto determine la Secretaría de Salud y, en consecuencia, no favorezcan la salud de los educandos y la pongan en riesgo.
 
 ### CAPITULO III. Enfermedades no transmisibles
 
@@ -3846,7 +3872,9 @@ Los productos que deben expenderse empacados o envasados llevarán etiquetas que
 
 La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica y específica, etiquetas y contra etiquetas, deberán corresponder a las especificaciones establecidas por la Secretaría de Salud, de conformidad con las disposiciones aplicables, y responderán exactamente a la naturaleza del producto que se consume, sin modificarse; para tal efecto se observará lo señalado en la fracción VI del artículo 115.
 
-Las etiquetas o contra etiquetas para los alimentos y bebidas no alcohólicas, deberán incluir datos de valor nutricional, y tener elementos comparativos con los recomendados por las autoridades sanitarias, a manera de que contribuyan a la educación nutricional de la población.
+> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+Las etiquetas o contra etiquetas para los alimentos y bebidas no alcohólicas, deberán incluir datos de valor nutricional, que consideren el contenido energético total que aporta el producto, así como el contenido de grasas saturadas, otras grasas, azúcares totales y sodio. Dicha información será presentada en los términos que determine la Secretaría de Salud conforme a lo previsto en las disposiciones reglamentarias y demás disposiciones jurídicas aplicables, la cual deberá contener elementos comparativos con los recomendados por las autoridades sanitarias, a manera de que contribuyan a la educación nutricional de la población.
 
 En la marca o denominación de los productos, no podrán incluirse clara o veladamente indicaciones con relación a enfermedades, síndromes, signos o síntomas, ni aquellos que refieran datos anatómicos o fisiológicos.
 
@@ -5267,6 +5295,10 @@ Con el fin de proteger la salud pública, es competencia de la Secretaría de Sa
 ###### ARTICULO 301.
 
 Será objeto de autorización por parte de la Secretaría de Salud, la publicidad que se realice sobre la existencia, calidad y características, así como para promover el uso, venta o consumo en forma directa o indirecta de los insumos para la salud, las bebidas alcohólicas, así como los productos y servicios que se determinen en el reglamento de esta Ley en materia de publicidad.
+
+> <small>(ADICIONADO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+
+Queda prohibida la publicidad de alimentos y bebidas con bajo valor nutricional y alta densidad energética, dentro de los centros escolares.
 
 > <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -8475,6 +8507,10 @@ D.O.F. 4 DE JUNIO DE 2015.
 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 46 DE LA LEY GENERAL DE SALUD
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE OCTUBRE DE 2015.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 502.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS".]
 
