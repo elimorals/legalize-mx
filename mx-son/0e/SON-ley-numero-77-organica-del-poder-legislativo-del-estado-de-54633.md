@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2015-10-01"
+last_updated: "2015-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -765,7 +765,9 @@ XVII.- De Salud;
 
 XVIII.- De Comunicación y Enlace Social;
 
-XIX.- De Asuntos de Equidad y Género;
+> <small>(REFORMADA, B.O. 15 DE OCTUBRE DE 2015)</small>
+
+XIX.- Para la Igualdad de Género,
 
 XX.- De Asuntos Indígenas;
 
@@ -2142,3 +2144,9 @@ B.O. 1 DE OCTUBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 15 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entra en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
