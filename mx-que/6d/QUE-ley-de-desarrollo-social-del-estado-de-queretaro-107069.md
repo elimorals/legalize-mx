@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-desarrollo-social-del-estado-de-queretaro-107069"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-27"
-last_updated: "2015-09-29"
+last_updated: "2015-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERETARO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE OCTUBRE DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE QUERÉTARO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE OCTUBRE DE 2015 NO APLICA AL ARTICULADO DE LA REFORMA PUBLICADA EN EL P.O. DE 29 DE SEPTIEMBRE DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de marzo de 2015.
 
