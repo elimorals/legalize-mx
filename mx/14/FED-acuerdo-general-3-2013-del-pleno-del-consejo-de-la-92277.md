@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-09-29"
+last_updated: "2015-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -183,7 +183,9 @@ V. QUINTO CIRCUITO:
 
 2. Cinco tribunales unitarios con sede en Hermosillo.
 
-3. Diez juzgados de Distrito en el Estado de Sonora: cuatro con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
+> <small>(REFORMADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL 41/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE OCTUBRE DE 2015)</small>
+
+3. Doce juzgados de Distrito en el Estado de Sonora: seis con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
 
 VI. SEXTO CIRCUITO:
 
@@ -1914,3 +1916,53 @@ Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residen
 El Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, tendrá competencia mixta y jurisdicción territorial en el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
 
 …”.
+
+D.O.F. 15 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el 16 de octubre de 2015.
+
+SEGUNDO. Se reforma el numeral segundo, fracción V, número 3 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los circuitos judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a IV. …
+
+V. …
+
+1. …
+
+2. …
+
+3. Doce juzgados de Distrito en el Estado de Sonora: seis con sede en Hermosillo, tres con residencia en Nogales, dos con sede en Ciudad Obregón y uno con residencia en Agua Prieta.
+
+VI. a XXXII. …”.
+
+TERCERO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+CUARTO. Las guardias de turno en días y horas inhábiles de conformidad con lo dispuesto en el artículo 4 de este Acuerdo serán las siguientes:
+
+SEMANA DE GUARDIA ÓRGANO JURISDICCIONAL AL
+
+QUE CORRESPONDE LA
+
+GUARDIA
+
+Del 13 a 19 octubre Juzgado Tercero
+
+Del 20 al 26 octubre Juzgado Decimoprimero
+
+Del 27 octubre al 2 noviembre Juzgado Decimosegundo
+
+Del 3 al 9 noviembre Juzgado Primero
+
+Del 10 al 16 noviembre Juzgado Segundo
+
+Del 17 al 23 de noviembre Juzgado Tercero
+
+Del 24 al 30 de noviembre Juzgado Décimo
+
+Del 1 al 7 diciembre Juzgado Decimoprimero
+
+Del 8 al 14 diciembre Juzgado Decimosegundo
+
+Del 15 al 21 diciembre Juzgado Primero
