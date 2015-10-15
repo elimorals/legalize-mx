@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "2014-12-11"
+last_updated: "2015-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SON"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE FECHA 30 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO, A PARTIR DEL 18 DE JUNIO DE 2016.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO Y TERCERO TRANSITORIO DEL DECRETO NÚMERO 5 POR EL QUE SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE INCORPORA AL RÉGIMEN JURÍDICO DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 15 DE OCTUBRE DE 2015, Y SE ORDENA SU ENTRADA EN VIGOR DE MANERA GRADUAL EN LOS DISTRITOS, MUNICIPALIDADES Y MODALIDADES QUE LOS COMPRENDEN; DE IGUAL MODO SE ABROGA EL PRESENTE ORDENAMIENTO A LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 5. VÉASE PUBLICACIÓN OFICIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE OCTUBRE DE 2015.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -1605,7 +1605,7 @@ Cuando el cadáver no se encuentre, o por otro motivo no se haga la autopsia, ba
 
 ###### ARTICULO 169.
 
-En los casos de aborto, además de las diligencias mencionadas en los artículos 167 y 168, así como de cualesquiera otras que resulten pertinentes, también reconocerán los peritos médicos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En todo caso expresarán la edad del producto de la concepción, su viabilidad y todo aquello que puede servir para fijar la naturaleza del delito.
+En los casos de aborto, además de las diligencias mencionadas en los artículos 167 y 168, así como de cualesquiera otras que resulten pertinentes, también reconocerán los peritos médicos a la madre, describirán las lesiones que presente y dictaminarán sobre la causa del aborto. En todo caso expresarán la edad del producto de la concepción, su viabilidad y todo aquello que pueda servir para fijar la naturaleza del delito.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 17 DE MAYO DE 2001)</small>
 
@@ -1633,7 +1633,7 @@ Para la comprobación del cuerpo del delito de que se trate y la probable o plen
 
 ### CAPITULO II. Huellas del delito, aseguramiento de los instrumentos y objetos del mismo
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### ARTICULO 174.
 
@@ -2451,7 +2451,7 @@ El mismo día en que el inculpado o su defensor presenten sus conclusiones, o en
 
 ###### ARTICULO 294.
 
-En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el Juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del Tribunal, y si hubiere sido solicitado por las partes a más tardar el día siguiente al en que se notificó el auto, citando para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso con lo que terminará la diligencia, salvo que el Juez oyendo a las partes, considere conveniente citar audiencia, por una sola vez.
+En la audiencia podrán interrogar al acusado sobre los hechos materia del juicio, el Juez, el Ministerio Público y la defensa. Podrán repetirse las diligencias de prueba que se hubieren practicado durante la instrucción, siempre que fuere necesario y posible a juicio del Tribunal, y si hubiere sido solicitado por las partes a más tardar el día siguiente al en que se notificó el auto, citando para la audiencia. Se dará lectura a las constancias que las partes señalen y después de oír los alegatos de las mismas se declarará visto el proceso con lo que terminará la diligencia, salvo que el Juez oyendo a las partes, considere conveniente citar a nueva audiencia, por una sola vez.
 
 Contra la resolución que niegue o admita la repetición de la diligencia de prueba o cite a una nueva audiencia, no procede recurso alguno.
 
@@ -4346,3 +4346,105 @@ B.O. 11 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 15 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL DECRETO QUE SE RELACIONA CON EL ORDENAMIENTO.</small>
+
+DECRETO 5
+
+QUE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE INCORPORA AL RÉGIMEN JURÍDICO DEL ESTADO DE SONORA.
+
+###### ARTÍCULO ÚNICO.
+
+Para los efectos señalados en el párrafo segundo del artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el día 05 de marzo de 2014, se declara que el Código Nacional de Procedimientos Penales se incorpora al régimen jurídico del Estado de Sonora, ordenando su entrada en vigor de manera gradual, de acuerdo con las siguientes prevenciones:
+
+El 15 de diciembre del 2015 en los siguientes distritos judiciales:
+
+- En el distrito judicial de Hermosillo, que comprende las siguientes Municipalidades: Hermosillo, con las Comisarías de El Poblado Miguel Alemán y San José de Gracia; La Colorada, con las Comisarías de San José de Pimas, Moradillas, Tecoripa y Estación Serdán; San Javier; Suaqui Grande; Mazatán; San Miguel de Horcasitas, con las Comisarías de Los Ángeles y Pesqueira; Carbó; Onavas y Soyopa, con las Comisarías De Tónichi, San Antonio de la Huerta, Llano Colorado y Rebeico; las Comisarías de Félix Gómez y Puerto Libertad del Municipio de Pitiquito; la Comisaría de Querobabi del Municipio de Opodepe. Cabecera: Hermosillo;
+
+- En el distrito judicial de Sahuaripa, que comprende las siguientes Municipalidades: Sahuaripa, con las Comisarías de Güisamopa, La Mesita del Cuajari, Santo Tomás, Sehuadéhuachi, Mulatos, Trigo de Corodepe, La Iglesia y Valle de Tacupeto; Arivechi, con las Comisarías de Bámori y Tarachi; Bacanora, con las Comisarías de Mina México, Santa Teresa, Mílpillas y Encinal; y Yécora, con las Comisarías de Guadalupe, Santa Ana, Santa Rosa, Tepoca, La Trinidad y Maycoba. Cabecera: Sahuaripa; y
+
+- En el distrito judicial de Ures, que comprende las siguientes Municipalidades: Ures, con las Comisarías de Guadalupe, La Palma, Pueblo de Álamos, Santa Rosalía y Rancho de San Pedro; Aconchi, con la Comisaría de La Estancia; Banámichi; Baviácora, con las Comisarías de Suaqui, La Capilla, San José de Baviácora; Huépac, con la Comisaría de Ranchito de Huépac; Opodepe, con las Comisarías de Meresichi y Tuape; Rayón; San Felipe; San Pedro De La Cueva y Villa Pesqueira, con la Comisaría de Nácori Grande. Cabecera: Ures.
+
+Distritos Judiciales en que se decreta entre en vigor el Código Nacional de Procedimientos Penales por lo que se refiere a todos los delitos previstos en el Código Penal para el Estado de Sonora, con exclusión de los enunciados en el artículo 19, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, respecto de delitos del fuero común.
+
+El 30 de marzo de 2016 en los siguientes distritos judiciales:
+
+- En el distrito judicial de Navojoa, que comprende las siguientes Municipalidades: Navojoa, con las Comisarías de Rosales, Tesia, Camoa, San Ignacio, Bacabachi, Fundición y Masiaca; y Quiriego, con la Comisaría de Batacosa. Cabecera: Navojoa;
+
+- En el distrito judicial de Álamos, que comprende la Municipalidad de Álamos, con las Comisarías de Tapizuelas, Basiroa, Gerocoa, Minas Nuevas, Los Tanques, Macoyahui, San Bernardo, Los Camotes, Maquipo, Potrero de Reuter, Potrero de Alcántar, El Limón, El Cupis, La Laborcita, Conicárit, Los Muertos, Cochibampo, El Chinal, Palos Chinos, Guirocoba y El Tabelo. Cabecera: Álamos;
+
+- En el distrito judicial de Huatabampo, que comprende las siguientes Municipalidades: Huatabampo, con las Comisarías de Citaváro, La Galera, Júpare, Etchoropo, Yavaros, Moroncárit y Agiabampo; Etchojoa, con las Comisarías La Villa, Basconcobe, Bacobampo, Chucarit y San Pedro; y Benito Juárez. Cabecera: Huatabampo;
+
+- En el distrito judicial de Cananea, que comprende las siguientes Municipalidades: Cananea; Arizpe, con las Comisarías de Chinapa, Bacanuchi y Sinoquipe; Bacoachi Y Naco. Cabecera: Cananea;
+
+- En el distrito judicial de Agua Prieta, que comprende las siguientes Municipalidades: Agua Prieta, con las Comisarías de Colonia Morelos y el Pozo Morelos; Fronteras, con las Comisarías de Cuquiarachi y Esqueda; Bavispe, con la Comisaría de San Miguel de Bavispe; Bacerac y Huachinera. Cabecera: Agua Prieta;
+
+- En el distrito judicial de Moctezuma, que comprende las siguientes Municipalidades: Moctezuma, con la Comisaría de Terapa; Nacozari De García, con las Comisarías de Pilares de Nacozari, El Tigre y Casa de Teras; Bacadéhuachi; Cumpas, con la Comisaría de Jécori, Teonadepa, Ojo de Agua, Los Hoyos y Colonia Álvaro Obregón; Divisaderos; Granados; Huasabas; Nácori Chico; Villa Hidalgo y Tepache. Cabecera: Cumpas;
+
+- En el distrito judicial de San Luis Río Colorado, que comprende la Municipalidad de San Luis Rio Colorado, con la Comisaría de Luis B. Sánchez. Cabecera: San Luis Rio Colorado.
+
+- En el distrito judicial de Altar, que comprende las siguientes Municipalidades: Altar, con la Comisaría de El Plomo; Caborca; Atil; Oquitoa; Sáric, con la Comisaría de Sásabe; Trincheras, con la Comisaría de El Puerto de Camou; Pitiquito, con la Comisaría de La Ciénega; y Tubutama, con las Comisarías de La Reforma y La Sangre. Cabecera: Caborca; y
+
+- En el distrito judicial de Puerto Peñasco, que comprende las siguientes Municipalidades. Puerto Peñasco y General Plutarco Elías Calles. Cabecera: Puerto Peñasco.
+
+Distritos Judiciales en que se decreta entre en vigor el Código Nacional de Procedimientos Penales por lo que se refiere a todos los delitos previstos en el Código Penal para el Estado de Sonora, con exclusión de los enunciados en el artículo 19, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, respecto de delitos del fuero común.
+
+El 30 de mayo de 2016 en los siguientes distritos judiciales:
+
+- En el distrito judicial de Cajeme, que comprende las siguientes Municipalidades: Cajeme, con las Comisarías de Cocorit, Esperanza, Providencia y Pueblo Yaqui; Bacum, San Ignacio Río Muerto y Rosario, con las Comisarías de Cedros, Nuri, La Dura y Movas, las Comisarías de Vícam, Pótam y Tórim de la Municipalidad de Guaymas. Cabecera: Ciudad Obregón;
+
+- En el distrito judicial de Guaymas, que comprende las siguientes Municipalidades: Guaymas, con las Comisarías de la Misa, Ortiz, San Carlos Nuevo Guaymas y Francisco Márquez; y Empalme, con la Comisaría de Maytorena. Cabecera: Guaymas;
+
+- En el distrito judicial de Nogales, que comprende las siguientes Municipalidades: Nogales y Santa Cruz. Cabecera: Nogales; y
+
+- En el distrito judicial de Magdalena, que comprende las siguientes Municipalidades: Magdalena, con las Comisarías de San Ignacio y San Lorenzo; Cucurpe; Ímuris, con la Comisaría de Terrenate; Santa Ana, con las Comisarías de Estación Llano, Coyotillo y Santa Martha; Benjamín Hill. Cabecera: Magdalena.
+
+Distritos Judiciales en que se decreta que entre en vigor el Código Nacional de Procedimientos Penales por lo que se refiere a todos los delitos previstos en el Código Penal para el Estado de Sonora y leyes especiales.
+
+El 30 de mayo de 2016 en los siguientes distritos judiciales:
+
+- En el distrito judicial de Hermosillo que comprende las siguientes Municipalidades: Hermosillo, con las Comisarías de El Poblado Miguel Alemán y San José de Gracia; La Colorada, con las Comisarías de San José de Pimas, Moradillas, Tecoripa y Estación Serdán; San Javier; Suaqui Grande; Mazatán; San Miguel de Horcasitas, con las Comisarías de Los Ángeles y Pesqueira; Carbó; Onavas y Soyopa, con las Comisarías de Tónichi, San Antonio de la Huerta, Llano Colorado y Rebeico; las Comisarías de Félix Gómez y Puerto Libertad del Municipio de Pitiquito; la Comisaría de Querobabi del Municipio de Opodepe. Cabecera: Hermosillo;
+
+- En el distrito judicial de Sahuaripa, que comprende las siguientes Municipalidades: Sahuaripa, con las Comisarías de Güisamopa, La Mesita del Cuajari, Santo Tomás, Sehuadéhuachi, Mulatos, Trigo de Corodepe, La Iglesia y Valle de Tacupeto; Arivechi, con las Comisarías de Bámori y Tarachi; Bacanora, con las Comisarías de Mina México, Santa Teresa, Milpillas y Encinal; y Yécora, con las Comisarías de Guadalupe, Santa Ana, Santa Rosa, Tepoca, La Trinidad y Maycoba. Cabecera: Sahuaripa;
+
+- En el distrito judicial de Ures, que comprende las siguientes Municipalidades: Ures, con las Comisarías de Guadalupe, La Palma, Pueblo de Álamos, Santa Rosalía y Rancho de San Pedro; Aconchi, con la Comisaría de la Estancia; Banámichi; Baviácora, con las Comisarías de Suaqui, La Capilla, San José de Baviácora; Huépac, con la Comisaría de Ranchito de Huépac; Opodepe, con las Comisarías de Meresichi y Tuape; Rayón; San Felipe; San Pedro De La Cueva y Villa Pesqueira, con la Comisaría de Nácori Grande. Cabecera: Ures;
+
+- En el distrito judicial de Navojoa, que comprende las siguientes Municipalidades: Navojoa, con las Comisarías de Rosales, Tesia, Camoa, San Ignacio, Bacabachi, Fundición y Masiaca; y Quiriego, con la Comisaría de Batacosa. Cabecera: Navojoa;
+
+- En el distrito judicial de Álamos, que comprende la Municipalidad de Álamos, con las Comisarías de Tapizuelas, Basíroa, Gerocoa, Minas Nuevas, Los Tanques, Macoyahui, San Bernardo, Los Camotes, Maquipo, Potrero De Reuter, Potrero de Alcántar, El Limón, El Cupis, La Laborcita, Conicarit, Los Muertos, Cochibampo, El Chinal, Palos Chinos, Guirocoba y El Tabelo. Cabecera: Álamos;
+
+- En el distrito judicial de Huatabampo, que comprende las siguientes Municipalidades: Huatabampo, con las Comisarías de Citaváro, La Galera, Júpare, Etchoropo, Yavaros, Moroncárit y Agiabampo; Etchojoa, con las Comisarías La Villa, Basconcobe, Bacobampo, Chucarit y San Pedro; y Benito Juárez. Cabecera: Huatabampo;
+
+- En el distrito judicial de Cananea, que comprende las siguientes Municipalidades: Cananea; Arizpe, con las Comisarías de Chinapa, Bacanuchi y Sinoquipe; Bacoachi y Naco. Cabecera: Cananea.
+
+- En el distrito judicial de Agua Prieta, que comprende las siguientes Municipalidades: Agua Prieta, con las Comisarías de Colonia Morelos y el Pozo Morelos; Fronteras, con las Comisarías de Cuquiarachi y Esqueda; Bavispe, con la Comisaría de San Miguel de Bavispe; Bacerac y Huachinera. Cabecera: Agua Prieta;
+
+- En el distrito judicial de Moctezuma, que comprende las siguientes Municipalidades: Moctezuma, con la Comisaría de Terapa; Nacozari De García, con las Comisarías de Pilares de Nacozari, El Tigre y Casa de Teras; Bacadéhuachi; Cumpas, con la Comisaría de Jécori, Teonadepa, Ojo de Agua, Los Hoyos y Colonia Álvaro Obregón; Divisaderos; Granados; Huásabas; Nácori Chico; Villa Hidalgo y Tepache. Cabecera: Cumpas.
+
+- En el distrito judicial de San Luis Río Colorado, que comprende la Municipalidad de San Luis Río Colorado, con la Comisaría de Luis B. Sánchez. Cabecera: San Luis Rio Colorado.
+
+- En el distrito judicial de Altar, que comprende las siguientes Municipalidades: Altar, con la Comisaría de El Plomo; Caborca; Atil; Oquitoa; Sáric, con la Comisaría de Sásabe; Trincheras, con la Comisaría de El Puerto de Camou; Pitiquito, con la Comisaría de La Ciénega; y Tubutama, con las Comisarías de La Reforma y La Sangre. Cabecera: Caborca; y
+
+- En el distrito judicial de Puerto Peñasco, que comprende las siguientes Municipalidades: Puerto Peñasco y General Plutarco Elías Calles. Cabecera: Puerto Peñasco.
+
+Distritos Judiciales en que se decreta que entre en vigor el Código Nacional de Procedimientos Penales por lo que se refiere a los delitos referidos en el artículo 19, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos, respecto de delitos del fuero común.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos y juicios penales iniciados con anterioridad a la entrada en vigor del Código Nacional de Procedimientos Penales en nuestro Estado, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente decreto, se abroga la Ley número 137 que contiene el Código de Procedimientos Penales para el Estado de Sonora, publicado en el Boletín Oficial del Estado de Sonora en fecha 17 de agosto de 1949 y sus reformas, así como la publicada en el Boletín Oficial del Estado de Sonora en fecha 30 de enero de 2012, el cual seguirá rigiendo en los procedimientos iniciados con anterioridad a la entrada en vigor en esta entidad federativa del Código Nacional de Procedimientos Penales en terminos de los artículos que anteceden.
+
+###### ARTÍCULO CUARTO.
+
+Remítase copia de la presente Declaratoria a los poderes Ejecutivo y Judicial del Estado, para su conocimiento y efectos a que haya lugar.
