@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-sesiones-del-instituto-electoral-de-tamaulipas-73
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-25"
-last_updated: "2009-06-25"
+last_updated: "2015-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 REGLAMENTO DE SESIONES DEL INSTITUTO ELECTORAL DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO IETAM/CG-07/2015 DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE TAMAULIPAS, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE SESIONES DEL INSTITUTO ELECTORAL DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de junio de 2009.
 
@@ -117,7 +119,7 @@ X. Exhortar a los asistentes a las sesiones a guardar el orden debido; conminar 
 
 XI. Firmar conjuntamente con el Secretario, las actas de cada sesión, los acuerdos y resoluciones aprobadas;
 
-XII. Tomar la protesta de ley a los Consejeros, Secretario respectivo, representantes de los partidos y en el caso del Consejo General, a los Directores Ejecutivos, al Titular de la Unidad de Fiscalización y demás servidores públicos que prevea la ley ; (sic)
+XII. Tomar la protesta de ley a los Consejeros, Secretario respectivo, representantes de los partidos y en el caso del Consejo General, a los Directores Ejecutivos, al Titular de la Unidad de Fiscalización y demás servidores públicos que prevea la ley;
 
 ###### Artículo 8.
 
@@ -344,3 +346,15 @@ Segundo. Se abroga el Reglamento de Sesiones aprobado por el Consejo Estatal Ele
 ASI LO APROBARON POR MAYORIA DE VOTOS LAS CONSEJERAS Y LOS CONSEJEROS ELECTORALES DEL CONSEJO GENERAL EN SESION No. 5 EXTRAORDINARIA DE FECHA 1 DE JUNIO DEL 2009, C.P. JORGE LUIS NAVARRO CANTU, MCA. JOSE GERARDO CARMONA GARCIA, C. MA. BERTHA ZUÑIGA MEDINA, ARQ. GUILLERMO TIRADO SALDIVAR Y C.P. NELIDA CONCEPCION ELIZONDO ALMAGUER, ANTE LA PRESENCIA DE LOS REPRESENTANTES DE LOS PARTIDOS POLITICOS ASISTENTES, POR LO QUE CON FUNDAMENTO EN EL ARTICULO 133 FRACCION VIII DEL CODIGO ELECTORAL EN FE DE VERDAD Y PARA CONSTANCIA LEGAL FIRMAN EL PRESENTE PROVEIDO EL LIC. JESUS MIGUEL GRACIA RIESTRA CONSEJERO PRESIDENTE Y EL LIC. OSCAR BECERRA TREJO, SECRETARIO EJECUTIVO DEL INSTITUTO ELECTORAL DE TAMAULIPAS. DOY FE."
 
 PRESIDENTE.- LIC. JESUS MIGUEL GRACIA RIESTRA.- Rúbrica.- SECRETARIO EJECUTIVO.- LIC. OSCAR BECERRA TREJO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2015.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO IETAM/CG-07/2015 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE TAMAULIPAS, MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE SESIONES DEL INSTITUTO ELECTORAL DE TAMAULIPAS".]</small>
+
+Segundo. Se abroga el Reglamento de Sesiones aprobado por el Consejo General en fecha 1 de junio de 2009, así como cualquier otra disposición o acuerdo adoptado por los Consejos que se oponga al presente Reglamento.
+
+Tercero. El presente Reglamento entrará en vigor al momento de su aprobación.
+
+Cuarto. Se instruye a la Secretaría Ejecutiva para que se publique el presente acuerdo en el Periódico Oficial del Estado y en la página de internet de este Instituto.
