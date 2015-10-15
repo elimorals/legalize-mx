@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2009-04-25"
+last_updated: "2015-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -43,23 +43,31 @@ LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto garantizar la Igualdad entre Mujeres y Hombres y establecer los lineamientos y mecanismos institucionales que promuevan en el Estado la Igualdad sustantiva en los ámbitos público y privado, mediante el empoderamiento de las mujeres. Sus disposiciones son de observancia general en todo el territorio del Estado de Oaxaca.
+La presente Ley tiene por objeto garantizar la Igualdad entre mujeres y hombres y establecer los lineamientos y mecanismos institucionales que promuevan en el Estado la Igualdad sustantiva en los ámbitos público y privado, mediante el empoderamiento de las mujeres y la erradicación de cualquier forma de discriminación por razones de sexo. Sus disposiciones son de observancia general en todo el territorio del Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 2.
 
-Son principios rectores de la presente Ley, la igualdad, la no discriminación, la equidad y todos aquello contenidos en la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Oaxaca.
+Son principios rectores de la presente Ley: la igualdad, la no discriminación, la equidad y todos aquellos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales suscritos y ratificados por el Estado Mexicano y la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-Son sujetos de los derechos qua protege esta Ley, las mujeres y los hombres que se encuentren en el territorio Estatal, independientemente de su edad, estado civil, profesión, cultura, origen étnico, condición social, salud, religión, capacidades o preferencias sexuales.
+Son sujetos de los derechos que protege esta Ley, las mujeres y los hombres que se encuentren en el territorio estatal, independientemente de su edad, estado civil, profesión, cultura, origen, condición social, salud, religión, discapacidades o preferencias sexuales.
 
-El incumplimiento a la presente Ley, se castigará de conformidad con la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios de Oaxaca.
+El incumplimiento a la presente Ley, se castigará de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca, Ley de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca y demás aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 4.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley que crea la Comisión para la Defensa de los Derechos Humanos del Estado de Oaxaca, la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género, los Tratados Internacionales debidamente ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materita.
+En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley para Atender, Prevenir y Eliminar la Discriminación en el Estado de Oaxaca, Ley de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género, los tratados internacionales debidamente ratificados por el Estado mexicano y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 5.
 
@@ -83,6 +91,22 @@ VIII. Sistema.- Es el Sistema Estatal para la Igualdad entre Mujeres y Hombres; 
 
 IX. Transversalidad de Género.- Es el proceso que permite garantizar la Incorporación de la perspectiva de género en la legislación; políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, con el objetivo de valorar, las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+X. Discriminación. Toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+XI. Discriminación contra la Mujer. Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio de la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+XII. Igualdad Sustantiva. Acceso de las mujeres y hombres con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar, y en el ejercicio de los derechos humanos y las libertades fundamentales; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+XIII. Perspectiva de Género. Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
+
 ###### Artículo 6.
 
 La igualdad entre mujeres y hombres implica la efectiva accesibilidad de ambos para ejercer los derechos y la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere, por pertenecer a cualquier sexo.
@@ -103,9 +127,11 @@ Los Poderes del Estado y los Ayuntamientos, establecerán las bases de coordinac
 
 En la celebración de convenios o acuerdos de coordinación, deberán proveerse los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-En el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este capitulo intervendrá el área responsable de la Comisión Estatal para la Defensa de los Derechos Humanos sin menoscabo de las atribuciones que su propia ley le confiera.
+En el seguimiento y evaluación de los resultados que se obtengan por la ejecución de los convenios y acuerdos a que se refiere este Capítulo, intervendrá el área responsable de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, sin menoscabo de las atribuciones que su propia ley le confiere.
 
 ### CAPÍTULO SEGUNDO. DEL PODER EJECUTIVO
 
@@ -133,7 +159,7 @@ VIII. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ###### Artículo 12.
 
-Corresponde a los Ayuntamientos del Estado en e ámbito de su competencia:
+Corresponde a los Ayuntamientos del Estado en el ámbito de su competencia:
 
 I. Implementar la Política de Igualdad, en concordancia con las políticas nacional y estatal;
 
@@ -151,9 +177,11 @@ IV. Fomentar la participación social, política, ciudadana y económica dirigid
 
 La Política Estatal en Materia de Igualdad entre Mujeres y Hombres, es el conjunto de objetivos y acciones para lograr la igualdad sustantiva en los ámbitos económico, político, social, civil y cultural y deberá satisfacer los siguientes lineamientos:
 
-I. Igualdad el la vida económica estatal;
+I. Igualdad en la vida económica estatal;
 
-II. Equidad en la participación y representación política;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+II. Paridad y alternancia de género en la participación y representación política;
 
 III. Igualdad en el acceso y el pleno disfrute de los derechos sociales;
 
@@ -162,6 +190,30 @@ IV. Igualdad en la vida civil;
 V. Eliminación de estereotipos en función del sexo; y
 
 VI. Derecho, de acceso a la información sobre políticas y programas de igualdad; y a la participación social en la formulación de las mismas.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+VII. Asegurar que la planeación presupuestal incorpore la perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos y acciones para la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+VIII. Adoptar las medidas necesarias para la erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+IX. El establecimiento de medidas que aseguren la corresponsabilidad en el trabajo y la vida personal y familiar de las mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+X. La utilización de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+XI. La inclusión en el sistema educativo, de la formación en el respeto de los derechos y libertades, en la igualdad entre mujeres y hombres, así como en el ejercicio del respeto y la libertad como principios democráticos de convivencia; así como la eliminación de los obstáculos que dificultan la igualdad sustantiva entre hombres y mujeres, e
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+XII. Incluir en la formulación, desarrollo y evaluación de políticas, estrategias y programas de salud, y mecanismos para dar atención a las necesidades de mujeres y hombres en esta materia.
 
 ### CAPÍTULO SEGUNDO. DE LOS INSTRUMENTOS DE LA POLÍTICA DE IGUALDAD
 
@@ -177,7 +229,9 @@ II. El Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
 En el diseño, elaboración, aplicación, seguimiento y evaluación de los instrumentos de la política de igualdad, se deberán observar los principios y objetivos previstos en esta Ley.
 
-Artículo.16.- El Ejecutivo Estatal es el encargado de la implementación y la aplicación de los Instrumentos de la Política de Igualdad.
+###### Artículo 16.
+
+El Ejecutivo Estatal es el encargado de la implementación y la aplicación de los Instrumentos de la Política de Igualdad.
 
 ###### Artículo 17.
 
@@ -185,7 +239,9 @@ El Instituto, sin menoscabo de sus atribuciones, tendrá a su cargo la coordinac
 
 ### CAPÍTULO TERCERO. DEL SISTEMA ESTATAL
 
-Artículo. 18.- El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la administración pública estatal entre si, con las organizaciones de la sociedad civil y con las autoridades municipales, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
+###### Artículo 18.
+
+El Sistema Estatal para la Igualdad entre Mujeres y Hombres, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la administración pública estatal entre sí, con las organizaciones de la sociedad civil y con las autoridades municipales, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad entre mujeres y hombres.
 
 ###### Artículo 19.
 
@@ -213,9 +269,11 @@ La Directora del Instituto deberá considerar la opinión de su Consejo Consulti
 
 El Sistema tiene los siguientes objetivos:
 
-I. Promover la igualdad entre mujeres y hombres y contribuir a la erradicación de todo tipo de discriminación;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2015)</small>
 
-II. Coadyuvar a la modificación de estereotipos discriminatorios y que fomenten la violencia de género;
+I. Promover la igualdad entre mujeres y hombres y contribuir para erradicar cualquier estereotipo o forma de discriminación y violencia de género.
+
+II. (DEROGADA, P.O. 15 DE OCTUBRE DE 2015)
 
 III. Promover el desarrollo de programas y acciones que estimulen la igualdad entre mujeres y hombres; y
 
@@ -257,6 +315,10 @@ II. Fomento de políticas públicas con perspectiva de género en materia econó
 
 III. impulso de liderazgos igualitarios.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+IV. Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo, así como la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
 ###### Artículo 26.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
@@ -283,7 +345,13 @@ X. Crear políticas y programas de desarrollo y de reducción de la pobreza con 
 
 XI. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia.
 
-### CAPÍTULO SEGUNDO. DE LA EQUIDAD EN LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+XII. Promover condiciones de trabajo que eviten el hostigamiento laboral y acoso sexual.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO SEGUNDO. DE LA PARIDAD EN LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA
 
 ###### Artículo 27.
 
@@ -313,7 +381,13 @@ I. Mejorar el conocimiento y la aplicación de la legislación existente en el �
 
 II. Incorporar la perspectiva de género al diseñar, aplicar y evaluar las políticas y programas públicos y sociales; y
 
-III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+III. Revisar permanentemente las políticas de prevención, atención, sanción y erradicación de la violencia de género.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+IV. Promover cambios socioculturales en los roles de género encaminados a erradicar estereotipos de discriminación y violencia de género.
 
 ###### Artículo 30.
 
@@ -355,9 +429,17 @@ IV. Reforzar la cooperación y los intercambios de información sobre los derech
 
 V. Impulsar reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad en los ámbitos público y privado;
 
-VI. Establecer los mecanismos para la atención de las victimas en todos los tipos de violencia contra las mujeres; y
+VI. Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres; y
 
 VII. Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+VIII. Impulsar la capacitación permanente al personal de las instituciones encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+IX. Contribuir a un reparto equilibrado de las responsabilidades familiares entre hombres y mujeres, reconociendo el derecho a un permiso por paternidad de cinco días laborables con goce de sueldo, y promoviendo la participación de los hombres en actividades derivadas de la corresponsabilidad de programas gubernamentales como las del ámbito de la educación, la salud y el saneamiento ambiental en la comunidad.
 
 ### CAPÍTULO QUINTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS EN FUNCIÓN DEL SEXO
 
@@ -375,6 +457,14 @@ II. Desarrollar actividades de concientización sobre la importancia de la igual
 
 III. Vigilar la integración de la perspectiva de género en todas las políticas públicas.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+IV. Promover la utilización de un lenguaje con perspectiva de género en la totalidad de las relaciones sociales, y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2015)</small>
+
+V. Promover que los medios de comunicación electrónicos o impresos y las áreas de comunicación social de las dependencias de la administración estatal, eliminen el uso de estereotipos sexistas, discriminatorios y difundan el principio de igualdad entre mujeres y hombres, e incorporen un lenguaje incluyente.
+
 ### CAPÍTULO SEXTO. DEL DERECHO DE ACCESO A LA INFORMACIÓN Y A LA PARTICIPACIÓN SOCIAL EN POLÍTICAS Y PROGRAMAS DE IGUALDAD
 
 ###### Artículo 35.
@@ -391,11 +481,13 @@ Los acuerdos y convenios que en materia de igualdad celebren el Estado y los Mun
 
 ### CAPÍTULO ÚNICO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2015)</small>
+
 ## TÍTULO V
 
 ###### Artículo 38.
 
-La Comisión para la Defensa de los Derechos Humanos del Estado y el Instituto son los encargados de la observancia en el seguimiento, evaluación y monitoreo de la Política de Igualdad.
+La Defensoría de los Derechos Humanos del Pueblo de Oaxaca y el Instituto son los encargados de la observancia en el seguimiento, evaluación y monitoreo de la Política de Igualdad.
 
 La observancia tiene por objeto la construcción de un sistema de información con capacidad para conocer la situación que guarda la igualdad entre hombres y mujeres, y el efecto de las políticas públicas aplicadas en esta materia.
 
@@ -411,9 +503,11 @@ III. Proponer la realización de estudios y diagnósticos sobre la situación de
 
 IV. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
-###### Articulo 40.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2015)</small>
 
-De acuerdo con lo establecido en la Ley de la Comisión para la Defensa de los Derechos Humanos del Estado, ésta podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia de que se ocupa esta Ley.
+###### Artículo 40.
+
+De acuerdo con lo establecido en la Ley de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, ésta podrá recibir quejas, formular recomendaciones y presentar informes especiales en la materia de que se ocupa esta Ley.
 
 T R A N S I T O R I O S:
 
@@ -464,3 +558,11 @@ Tlalixtac de Cabrera, Centro, Oax., a 26 de marzo del 2009.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 ING. JORGE TOLEDO LUIS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1303.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
