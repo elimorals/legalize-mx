@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-interior-del-instituto-electoral-de-tamaulipas-73173
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-25"
-last_updated: "2011-09-28"
+last_updated: "2015-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO IETAM/CG-08/2015, PUBLICADO EN EL P.O. DE 15 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de junio de 2009.
 
@@ -91,7 +93,7 @@ X. Representantes: Los representantes de los partidos políticos o coaliciones d
 
 Las actividades del Instituto se realizarán en horas y días hábiles. Son inhábiles los días sábados, domingos y días de descanso obligatorio previstos por la Ley Federal del Trabajo, así como los días de asueto autorizados o por motivo de las vacaciones generales del personal del Instituto.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 Durante los periodos en que se desarrollen los procesos electorales todos los días y horas se considerarán hábiles.
 
@@ -467,7 +469,7 @@ VIII. Coordinar el registro de la documentación presentada por los partidos pol
 
 IX. Integrar los expedientes para notificación de las convocatorias a las sesiones y/o acuerdos que emanen del Consejo General; y
 
-X Las demás que le delegue el Código, los reglamentos, el Presidente el secretario Ejecutivo.
+X. Las demás que le delegue el Código, los reglamentos, el Presidente el secretario Ejecutivo.
 
 ### CAPITULO XIV. De la Dirección de Administración
 
@@ -591,7 +593,7 @@ XIX. Las demás que le delegue el Código, los reglamentos, o el Consejo.
 
 ### CAPITULO II. De la Unidad de Información Pública
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 23.
 
@@ -701,10 +703,16 @@ PRESIDENTE.- LIC. JESUS MIGUEL GARCIA RIESTRA.- Rúbrica.- SECRETARIO EJECUTIVO.
 
 EN SEGUIDA SE PUBLICO EL LOS ESTRADOS DEL INSTITUTO Y EN SU PAGINA DE INTERNET. CONSTE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE SEPTIEMBRE DE 2011.
 
 PRIMERO. El Presente Reglamento entrará en vigor desde el momento de su aprobación.
 
 SEGUNDO. Publíquese el presente proveído en los estrados, en la página de internet del Instituto y en el Periódico Oficial del Estado.
+
+P.O. 15 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto y sus reformas, contenidas en los Acuerdos CG/013/2009 y CG/006/2011, así como cualquier otra disposición o acuerdo adoptado por los Consejos que se oponga al presente Reglamento.
