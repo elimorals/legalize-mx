@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-10338
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-03"
-last_updated: "2014-11-03"
+last_updated: "2015-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103385&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2014-10-27"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 15 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 3 de noviembre de 2014.
 
@@ -827,3 +829,21 @@ México, Distrito Federal, a veintisiete de Octubre de 2014.
 DR. DAVID MANUEL VEGA VERA
 
 AUDITOR SUPERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 15 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior de la Ciudad de México, publicado en la Gaceta Oficial del Distrito Federal el tres de noviembre de dos mil catorce, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- La normatividad interna de la Auditoría Superior, continuará vigente en todo aquello que no se oponga al contenido del presente Reglamento y en tanto ésta se actualiza.
+
+CUARTO.- Los manuales de organización de las unidades administrativas deberán ser actualizados conforme a las disposiciones de este Reglamento, dentro del plazo de seis meses contados a partir de que éste entre en vigor.
+
+QUINTO.- La actualización del Manual de Selección de Auditorías, del Manual del Proceso General de Fiscalización, Manual de Acciones Derivadas de las Auditorías, Código de Ética y Código de Conducta, a partir de la entrada en vigor del presente Reglamento, se realizará por la Oficina del Auditor Superior en coordinación con las Unidades Técnicas Sustantivas de Fiscalización.
+
+SEXTO.- Los asuntos no previstos en el presente Reglamento, serán resueltos por el Auditor Superior mediante las circulares o acuerdos respectivos.
+
+SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal.
