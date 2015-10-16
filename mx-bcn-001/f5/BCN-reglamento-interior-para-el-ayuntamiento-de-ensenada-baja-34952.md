@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2015-06-12"
+last_updated: "2015-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1483,9 +1483,27 @@ II.- Vigilar la elaboración y actualización del Plan y los Programas de Desarr
 
 III.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para eficientar los programas de desarrollo urbano y control ecológico que implemento el Gobierno Municipal;
 
-IV.- Opinar y dictaminar en su caso, respecto a asuntos relacionados con la nomenclatura de las vialidades o los centros de población del Municipio; y,
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+
+IV.- Opinar y dictaminar en su caso, respecto a asuntos relacionados con la nomenclatura de las vialidades o los centros de población del Municipio;
 
 V.- Dictaminar sobre los cambios de uso de suelo y autorización de fraccionamientos.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+
+VI.- Colaborar conjuntamente con el Presidente Municipal y el área de Comunicación Social, para brindar información a la población de los conocimientos necesarios en materias catastral, de control urbano y ecológicos;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+
+VII.- Inspeccionar a solicitud ciudadana la correcta expedición de los diversos dictámenes de uso de suelo, licencias y demás procedimientos conforme a la normatividad en la materia, preferentemente orientados a edificios, locales y establecimientos públicos de alta concurrencia, emitiendo las recomendaciones que considere necesarias, así como los relativos a los procedimientos que realiza la dirección de Ecología Municipal;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+
+VIII.- Opinar y dictaminar en su caso, en las campañas de información y divulgación a la población en materia de control urbano y cuidado ecológico, cumpliendo con las directrices dadas por el Ayuntamiento;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+
+IX.- Vigilar los proyectos integrales en materia de Fraccionamientos ya existentes y en su caso en coordinación con las dependencias de los tres órdenes de gobierno;
 
 COMISIÓN DE SEGURIDAD, TRANSITO Y TRANSPORTE.
 
@@ -2064,3 +2082,9 @@ P.O. 24 DE ABRIL DE 2015.
 P.O. 12 DE JUNIO DE 2015.
 
 ÚNICO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
+
+P.O. 16 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LA FRACCIÓN IV Y ADICIONAR LOS FRACCIONES VI, VII, VIII Y IX DEL ARTÍCULO 119 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de Iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
