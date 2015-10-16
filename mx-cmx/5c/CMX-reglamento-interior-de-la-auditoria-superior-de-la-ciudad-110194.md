@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-11019
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-15"
-last_updated: "2015-10-15"
+last_updated: "2015-10-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110194&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2015-10-02"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO POR EL QUE SE DEJA SIN EFECTOS LA PUBLICACIÓN DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 15 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE OCTUBRE DE 2015 (SIN EFECTOS).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 15 de octubre de 2015.
 
@@ -995,3 +997,11 @@ _________________________________
 DR. DAVID MANUEL VEGA VERA
 
 AUDITOR SUPERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+15 DE OCTUBRE DE 2015.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Acuerdo entrará en vigor el día de su publicación.
