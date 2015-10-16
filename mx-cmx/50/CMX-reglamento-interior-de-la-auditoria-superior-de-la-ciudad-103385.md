@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-10338
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-03"
-last_updated: "2015-10-15"
+last_updated: "2015-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103385&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2014-10-27"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 15 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN LA G.O. DE 16 DE OCTUBRE DE 2015, SE DEJA SIN EFECTOS LA PUBLICACIÓN DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL NÚMERO 198, EL 15 DE OCTUBRE DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2015 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 3 de noviembre de 2014.
 
@@ -847,3 +847,9 @@ QUINTO.- La actualización del Manual de Selección de Auditorías, del Manual d
 SEXTO.- Los asuntos no previstos en el presente Reglamento, serán resueltos por el Auditor Superior mediante las circulares o acuerdos respectivos.
 
 SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+G.O. 16 DE OCTUBRE DE 2015.
+
+Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Acuerdo entrará en vigor el día de su publicación.
