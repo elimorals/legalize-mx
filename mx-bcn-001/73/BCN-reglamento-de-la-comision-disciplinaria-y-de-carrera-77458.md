@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-comision-disciplinaria-y-de-carrera-77458"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-19"
-last_updated: "2015-05-22"
+last_updated: "2015-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de noviembre de 2010.
 
@@ -603,7 +603,7 @@ A efecto de llevar a cabo el desahogo del procedimiento de separación definitiv
 
 ### CAPITULO PRIMERO. DE SU COMPETENCIA E INTEGRACION
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 29.
 
@@ -619,9 +619,9 @@ A) El Titular de la Sindicatura Municipal.
 
 B) El Regidor Coordinador de la Comisión de Seguridad, Tránsito y Transporte.
 
-C) Un Representante, de las unidades operativas de investigación, prevención y reacción de la Secretaría de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
+C) Un Representante, de las unidades operativas de investigación, prevención y reacción de la Dirección de Seguridad Pública Municipal, que deberá ser un miembro condecorado, en términos de la Ley, quien deberá contar, además con la certificación del Centro de Evaluación y Control de Confianza y la aprobación de la Sindicatura Municipal en relación a sus antecedentes.
 
-D) Un representante de cada (sic) la Asociación de Policía legalmente constituida a la cual pertenezca el miembro sujeto a procedimiento.
+D) Un representante de la Asociación de Policía legalmente constituida a la cual pertenezca el miembro sujeto a procedimiento.
 
 E) El Presidente del Comité Ciudadano de Seguridad Pública de Ensenada Baja California.
 
@@ -948,3 +948,13 @@ SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de
 P.O. 22 DE MAYO DE 2015.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL.
+
+P.O. 16 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA MODIFICACIÓN AL ACUERDO APROBADO EL DÍA 18 DE FEBRERO DE 2015, MEDIANTE EL CUAL SE APROBÓ LA MODIFICACIÓN AL ARTÍCULO 29 DEL REGLAMENTO DE LA COMISIÓN DISCIPLINARIA Y DE CARRERA POLICIAL DE LA DIRECCIÓN DE SEGURIDAD PÚBLICA MUNICIPAL DE ENSENADA, BAJA CALIFORNIA, MISMO QUE FUE PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA NO. 24 DE FECHA 22 DE MAYO DE 2015.]
+
+PRIMERO.- La presente reforma reglamentaria, entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Túrnese a la Secretaría General del Ayuntamiento para los efectos legales a que haya lugar.
+
+TERCERO.- Cúmplase.
