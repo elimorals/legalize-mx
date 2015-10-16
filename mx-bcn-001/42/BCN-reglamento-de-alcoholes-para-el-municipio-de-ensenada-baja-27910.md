@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-alcoholes-para-el-municipio-de-ensenada-baja-2791
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-10"
-last_updated: "2014-11-28"
+last_updated: "2015-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de enero de 2003.
 
@@ -415,9 +415,11 @@ d).- Espectáculo y baile artístico.
 
 ### CAPITULO CUARTO. OBLIGACIONES Y PROHIBICIONES DE TITULARES DE LOS ESTABLECIMIENTOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 23.
 
-Son obligaciones de los titulares de los permisos permanentes o sus representantes, administradores y/o encargados de los establecimientos a los que se refiere el presente ordenamiento, las siguientes:
+Son obligaciones de los titulares de los permisos permanentes, eventuales y/o temporales o sus representantes, administradores y/o encargados de los establecimientos a los que se refiere el presente ordenamiento, las siguientes:
 
 I.- Contar con el Permiso correspondiente que permita al establecimiento iniciar su actividad y tener a la vista el (sic) y/o encargados de los establecimientos a los que se refiere el presente ordenamiento, las siguientes:
 
@@ -449,7 +451,9 @@ XI.- Respetar y mantener los signos y símbolos de clausura impuesto por la auto
 
 XII.- Inscribirse en la tesorería municipal al inicio de sus actividades, una vez otorgado el permiso respectivo.
 
-XIII.- Revalidar cada año el empadronamiento de su permiso ante Recaudación de Rentas Municipal, a partir del primer día hábil del mes de enero hasta el último día hábil del mes de marzo.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+
+XIII.- Revalidar cada año el empadronamiento de su permiso ante Recaudación de Rentas Municipal, a partir del primer día hábil del mes de enero hasta el último día hábil del mes de marzo. Con excepción de los permisos eventuales.
 
 XIV.- Los propietarios de bares, cabaret, discotecas, cantinas, cervecerías, centros nocturnos, billares, salones, terrazas, patios para fiestas y demás establecimientos similares, deberán efectuar las obras necesarias que impidan la visibilidad hacia el interior del local y que eviten que la música o el ruido se escuchen fuera del local, los clientes arrojen objetos o algún otro material, a efecto de no dar molestia a los vecinos y transeúntes.
 
@@ -1372,3 +1376,7 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 PRIMERO.- Una vez siendo aprobada la presente reforma, publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B. C.
 
 SEGUNDO.- La presente reforma al artículo 25 con relación a las distancias, no afectara a los establecimientos que cuenten con su permiso permanente con giro de Salón Social ya instalados con anterioridad en el Municipio de Ensenada, B.C., siempre y cuando cuenten con su revalidación anual del permiso vigente en tiempo y forma.
+
+P.O. 16 DE OCTUBRE DE 2015.
+
+> <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 23 ASÍ COMO SU FRACCIÓN XIII DEL REGLAMENTO DE ALCOHOLES, DEL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, RELATIVO AL DICTAMEN 030/2015”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
