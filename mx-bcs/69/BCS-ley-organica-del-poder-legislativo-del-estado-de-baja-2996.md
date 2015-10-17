@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2014-10-20"
+last_updated: "2015-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE OCTUBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -655,13 +655,13 @@ d).- Las iniciativas que provengan del Tribunal Superior de Justicia.
 
 e).- Lo relativo al Reglamento Interior del Congreso y sus modificaciones o adiciones.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
-
-f).- La elección de Consejeros del Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+f).- (DEROGADO, B.O. 17 DE OCTUBRE DE 2015)
 
 g).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2011)
 
-h).- (DEROGADO, B.O. 20 DE DICIEMBRE DE 2011)
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 17 DE OCTUBRE DE 2015)</small>
+
+h).- Las demás que le señalen la Directiva del Congreso y la Junta de Gobierno y Coordinación Política
 
 II.- DE LA COMISION DE ASUNTOS POLITICOS:
 
@@ -837,9 +837,9 @@ c).- La vigilancia permanente en el control del gasto público del Estado y Muni
 
 d).- Ser enlace entre el Órgano de Fiscalización Superior y el Congreso del Estado, así como de su personal, en coordinación con la Oficialía Mayor.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 17 DE OCTUBRE DE 2015)</small>
 
-e).- Las demás que le fijen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+e).- Las demás que le fijen la Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XIV.- DE CUENTA Y ADMINISTRACION:
 
@@ -981,7 +981,7 @@ g).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gob
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE JULIO DE 2009)</small>
 
-XXI.- DE LA COMISION DE CIENCIA Y TECNOLOGÍA:
+XXI.- DE LA COMISIÓN DE CIENCIA Y TECNOLOGÍA:
 
 a).- Las normas relativas a las materias de ciencia y tecnología, su fomento y desarrollo, en el Estado y los Municipios;
 
@@ -1179,7 +1179,7 @@ j).- Los planes y programas en materia de cultura;
 
 k).- Coadyuvar a la difusión en forma oportuna de las actividades culturales que realiza el Congreso del Estado; y
 
-I).- Las demás que le señalen la Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+l).- Las demás que le señalen la Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 ###### ARTICULO 56.
 
@@ -1959,7 +1959,7 @@ Para que se dispensen los trámites que debe correr un Proyecto de Ley, Decreto 
 
 ###### ARTICULO 125.
 
-La proposición inmediatamente será puesta a discusión, lo que tratará sobre la urgencia de la expedición de la Ley pudiéndo hablar dos Diputados en pro y dos en contra.
+La proposición inmediatamente será puesta a discusión, lo que tratará sobre la urgencia de la expedición de la Ley pudiÉndo hablar dos Diputados en pro y dos en contra.
 
 ###### ARTICULO 126.
 
@@ -2005,7 +2005,7 @@ Cuando algún Diputado de los que hayan solicitado la palabra, no estuviere en l
 
 ###### ARTICULO 132.
 
-Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el órden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
+Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, Estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el órden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
 
 ###### ARTICULO 133.
 
@@ -2107,7 +2107,7 @@ d).- El pleno de la Cámara podrá ampliar el número de preguntas que cada frac
 
 ARTICULO 148 BIS.- Las comparecencias públicas de los titulares de las dependencias del Poder Ejecutivo del Estado, se harán por gabinetes especializados conforme a las siguientes bases:
 
-l.- Los Gabinetes Especializados de la Administración Pública del Estado de Baja California Sur, deberán concurrir ante el Poder Legislativo del Estado conjuntamente con el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias con el Secretario General de Gobierno, con la finalidad de ampliar y en su caso detallar la información contenida dentro del informe de labores rendido por el Ciudadano Gobernador del Estado y con motivo del proceso de análisis, glosa y respuesta posterior que el Congreso del Estado debe realizar, mediante un esquema de mesas de trabajo públicas, en las que acudan los Coordinadores de cada una de las Fracciones Parlamentarias y quienes no integren Fracción, o bien, los diputados que en su representación designen de de (sic) manera interna y sin perjuicio de que puedan acudir cualquier diputada o diputado;
+I.- Los Gabinetes Especializados de la Administración Pública del Estado de Baja California Sur, deberán concurrir ante el Poder Legislativo del Estado conjuntamente con el Titular del Poder Ejecutivo del Estado como Coordinador de Gabinete General y en sus ausencias con el Secretario General de Gobierno, con la finalidad de ampliar y en su caso detallar la información contenida dentro del informe de labores rendido por el Ciudadano Gobernador del Estado y con motivo del proceso de análisis, glosa y respuesta posterior que el Congreso del Estado debe realizar, mediante un esquema de mesas de trabajo públicas, en las que acudan los Coordinadores de cada una de las Fracciones Parlamentarias y quienes no integren Fracción, o bien, los diputados que en su representación designen de de (sic) manera interna y sin perjuicio de que puedan acudir cualquier diputada o diputado;
 
 II.- Para tales efectos, el Presidente de la Mesa Directiva concertará con el Titular del Poder Ejecutivo, a través del Secretario General de Gobierno, las fechas en que se desarrollarán tales mesas de trabajo públicas, en la inteligencia de que deberán ser los días lunes, miércoles y viernes, sin que puedan tener una duración mayor a cuatro horas, a reserva de que el Presidente de la Mesa Directiva haga la declaración correspondiente, ya sea para extender dicho tiempo y continuar con los trabajos o para suspenderlos y continuar con posterioridad, no sin antes considerar las necesidades de agenda de quienes integren la Legislatura y servidores públicos comparecientes;
 
@@ -3220,3 +3220,7 @@ Tercero.- Para efectos de la aplicación del artículo 14 de la presente reforma
 B.O. 20 DE OCTUBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 17 DE OCTUBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
