@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-741
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-12"
-last_updated: "2010-03-12"
+last_updated: "2015-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE OCTUBRE DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 12 de marzo de 2010.
 
@@ -141,7 +141,7 @@ VI.- Estadística e indicadores sobre información relevante relativa a la procu
 
 VII.- La remuneración mensual por puesto, incluyendo las compensaciones, nóminas, listas de personal, asesores externos, peritos y demás auxiliares, así como las prestaciones o prerrogativas en especie o efectivo que reciban los servidores públicos en todos sus niveles;
 
-VIII.- Los datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento o nó otorgamiento de permisos, concesiones o licencias que la ley confiere autorizar a cualquiera de las Entidades Gubernamentales y de Interés Público, e igualmente lo referente a las posturas, ofertas, propuestas o presupuestos generados con motivo de los concursos o licitaciones una vez que haya concluido en su totalidad el proceso respectivo para adquirir, enajenar, arrendar o contratar bienes o servicios;
+VIII.- Los datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento o no otorgamiento de permisos, concesiones o licencias que la ley confiere autorizar a cualquiera de las Entidades Gubernamentales y de Interés Público, e igualmente lo referente a las posturas, ofertas, propuestas o presupuestos generados con motivo de los concursos o licitaciones una vez que haya concluido en su totalidad el proceso respectivo para adquirir, enajenar, arrendar o contratar bienes o servicios;
 
 IX.- Los datos relacionados con las operaciones de compraventa, permuta, donación, arrendamiento, comodato u otros tipos de contratos o convenios relacionados con el ejercicio o manejo de recursos públicos o con la hacienda pública estatal o municipal;
 
@@ -451,7 +451,9 @@ VI. No haber fungido como ministro de algún culto religioso dos años antes al 
 
 El procedimiento para la elección que el Congreso del Estado realice para efecto de cubrir las vacantes existentes de Consejeros del Instituto, deberá ser de conformidad con las siguientes bases:
 
-I. La Comisión Permanente de Asuntos Políticos del Congreso del Estado solicitará a las Fracciones Parlamentarias constituidas en este, así como a los Diputados representantes de partido, una propuesta de hasta dos personas por cada vacante, que reúnan los requisitos establecidos en el anterior artículo;
+> <small>(REFORMADA, B.O. 17 DE OCTUBRE DE 2015)</small>
+
+I. La Comisión Permanente de Transparencia del Congreso del Estado solicitará a las Fracciones Parlamentarias constituidas en este, así como a los Diputados representantes de partido, una propuesta de hasta dos personas por cada vacante, que reúnan los requisitos establecidos en el anterior artículo;
 
 II. En caso de que en su momento exista un diputado o más declarados por sí como independientes, se recibirá una sola propuesta de entre ellos;
 
@@ -900,3 +902,9 @@ ING. NARCISO AGÚNDEZ MONTAÑO
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 T.C. LUIS ARMANDO DIAZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 17 DE OCTUBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
