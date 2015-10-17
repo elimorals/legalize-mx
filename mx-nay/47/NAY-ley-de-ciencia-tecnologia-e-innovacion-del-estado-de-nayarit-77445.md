@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-nayarit-77
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-23"
-last_updated: "2010-10-23"
+last_updated: "2015-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE NAYARIT
 
-LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE NAYARIT
+LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 23 de octubre de 2010.
 
@@ -75,25 +75,67 @@ Para los efectos de esta Ley se entiende por:
 
 I. Actividades científicas, tecnológicas y de Innovación: aquellas de carácter sistemático y permanente, orientadas a la generación, mejoramiento, difusión y aplicación del conocimiento en todos los campos de la ciencia y la tecnología;
 
-II. COCYTEN: Consejo de Ciencia y Tecnología del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
 
-III. Consejo General: Consejo General de Ciencia, Tecnología e Innovación del Estado de Nayarit;
+II. Acceso Abierto: acceso a través de una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
-IV. Director General: Director General del COCYTEN;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
 
-V. Fondo: Fondo Estatal de Ciencia, Tecnología e Innovación;
+III. Acceso a Recursos de Información Científica y Tecnológica de Calidad: conjunto de técnicas utilizadas para buscar, categorizar y acceder de manera inequívoca, al texto completo de publicaciones reconocidas por los sectores de ciencia, tecnología e innovación, y que son resultado de la revisión por pares.
 
-VI. Investigación: aquélla que abarca la investigación científica, básica y aplicada, en todas las áreas del conocimiento y la tecnología;
+El acceso al que se hace referencia también incluye bases de datos que contienen los registros de citas e información bibliográfica de artículos de revistas científicas y tecnológicas, tesis y disertaciones, protocolos, memorias de congresos y patentes, entre otros;
 
-VII. Innovación: actividades de investigación destinadas a generar un nuevo producto, diseño, proceso, servicio, método u organización, o encaminada a añadir valor a los ya existentes;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
 
-VIII. Junta de Gobierno: Junta de Gobierno del COCYTEN;
+IV. COCYTEN: Consejo de Ciencia y Tecnología del Estado de Nayarit;
 
-IX. Programa Estatal: Programa Estatal de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
 
-X. Sistema Estatal de Ciencia, Tecnología e Innovación: al conjunto de instituciones relacionadas con esta temática, el marco jurídico que las sustenta, las políticas públicas estatales que constituyen sus directrices de desarrollo y los programas y proyectos que se derivan de las mismas, y
+V. Consejo General: Consejo General de Ciencia, Tecnología e Innovación del Estado de Nayarit;
 
-XI. Unidades de Vinculación y Transferencia de Conocimiento: las unidades creadas por las universidades e instituciones de educación superior o los centros públicos de investigación, que tiene como propósito generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios en el Estado.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+VI. Director General: Director General del COCYTEN;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+VII. Diseminación: transmisión de información científica, tecnológica y de innovación desarrollada por parte de los investigadores o especialistas a sus pares, y que utiliza un lenguaje especializado;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+VIII. Fondo: Fondo Estatal de Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+IX. Investigación: aquélla que abarca la investigación científica, básica y aplicada, en todas las áreas del conocimiento y la tecnología;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+X. Innovación: actividades de investigación destinadas a generar un nuevo producto, diseño, proceso, servicio, método u organización, o encaminada a añadir valor a los ya existentes;
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+XI. Junta de Gobierno: Junta de Gobierno del COCYTEN;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+XII. Programa Estatal: Programa Estatal de Ciencia, Tecnología e Innovación;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+XIII. Repositorio: la plataforma digital centralizada que siguiendo estándares internacionales, almacena, mantiene y preserva la información científica, tecnológica y de innovación, la cual se deriva de las investigaciones, productos educativos y académicos;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+XIV. Repositorio Nacional: Repositorio Nacional de Acceso Abierto a Recursos de Información Científica, Tecnológica y de Innovación, de Calidad e Interés Social y Cultural;
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+XV. Sistema Estatal de Ciencia, Tecnología e Innovación: al conjunto de instituciones relacionadas con esta temática, el marco jurídico que las sustenta, las políticas públicas estatales que constituyen sus directrices de desarrollo y los programas y proyectos que se derivan de las mismas, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+XVI. Unidades de Vinculación y Transferencia de Conocimiento: las unidades creadas por las universidades e instituciones de educación superior o los centros públicos de investigación, que tiene como propósito generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios en el Estado.
 
 ###### Artículo 4.
 
@@ -101,7 +143,9 @@ Se establecen como bases de una política de Estado que sustente la integración
 
 I. Incrementar la capacidad científica, tecnológica y de innovación, así como la formación de investigadores, ingenieros y tecnólogos, que contribuyan a dar solución a los diversos problemas en la materia que surjan en el Estado, aprovechando al máximo sus potencialidades, para contribuir al desarrollo de la Entidad y elevar el bienestar de la población;
 
-II. Promover el desarrollo y la vinculación de la ciencia básica, así como el impulso tecnológico y de innovación, asociando estos rubros con la actualización y mejoramiento de la calidad de la educación y la participación de investigadores científicos de Nayarit en el proceso global de expansión de las fronteras del conocimiento, convirtiendo a la ciencia, la tecnología y la innovación en un elemento fundamental de la cultura social para el desarrollo;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+II. Promover el desarrollo, vinculación y diseminación de la investigación científica, el desarrollo tecnológico de calidad y la innovación, asociando estos rubros con la actualización y mejoramiento de la calidad de la educación y la participación de investigadores científicos de Nayarit en el proceso global de expansión de las fronteras del conocimiento, apoyándose en las nuevas tecnologías de la información y en las plataformas de acceso abierto, convirtiendo a la ciencia, la tecnología y la innovación en elementos fundamentales de la cultura general de la sociedad;
 
 III. Incorporar el desarrollo tecnológico y la innovación a los procesos productivos y de servicios para incrementar la competitividad del aparato productivo del Estado en todas las regiones que lo integran;
 
@@ -807,9 +851,13 @@ El premio será concedido por un jurado expresamente constituido para tal fin, b
 
 El jurado se integrará por distinguidos investigadores y tecnólogos, propuestos por el Director General y ratificados por la Junta de Gobierno.
 
-## Título Séptimo. Relaciones entre la investigación y la educación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE OCTUBRE DE 2015)</small>
 
-### Capítulo único. Investigación, educación, estímulos y reconocimientos
+## Título Séptimo. Del Apoyo y del Acceso a la Información Científica, Tecnológica y de Innovación
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+### Capítulo I. Investigación, Educación, Estímulos y Reconocimientos
 
 ###### Artículo 50.
 
@@ -835,6 +883,60 @@ Los estímulos y reconocimientos que el Gobierno del Estado otorgue a los acadé
 
 El Gobierno del Estado promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles de la educación, en particular para la educación básica.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+### Capítulo II. Del Acceso Abierto, Acceso a la Información Científica, Tecnológica y de Innovación y del Repositorio
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 55.
+
+El COCYTEN, en apego a los lineamientos que establezca el Consejo Nacional de Ciencia y Tecnología, impulsará estrategias para democratizar la información científica, tecnológica y de innovación, poniendo al alcance de los educandos, educadores, académicos, investigadores, científicos, tecnólogos y población en general, el conocimiento universal.
+
+Las estrategias que se impulsen tendrán como objetivo ampliar, consolidar y facilitar el acceso a la información científica, tecnológica y de innovación nacional e internacional a texto completo, en formatos digitales.
+
+Las instituciones de educación superior y los centros de investigación del Estado, podrán constituir Repositorios en las disciplinas que se determinen a fin de diseminar la información científica y tecnológica que se derive de las investigaciones que realicen, cualquiera que sea su denominación o presentación, atendiendo a los criterios de calidad y estándares técnicos establecidos por el Consejo Nacional de Ciencia y Tecnología.
+
+La conformación de los Repositorios podrá llevarse a cabo a nivel de las instituciones y centros de investigación o mediante la creación de redes o asociaciones con otras instituciones, atendiendo a disciplinas, regiones u otros conceptos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 56.
+
+El Acceso Abierto y el Acceso a la Información Científica, Tecnológica y de Innovación, tienen como finalidad que el conocimiento universal se encuentre disponible, a texto completo y en formatos digitales, para los educandos, educadores, académicos, investigadores, científicos, tecnólogos y la población en general interesada en acceder al conocimiento, fortaleciendo así, la capacidad científica, tecnológica y de innovación de la entidad.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 57.
+
+En materia de Acceso Abierto, el COCYTEN, en apego a los lineamientos que establezca el Consejo Nacional de Ciencia y Tecnología, deberá:
+
+I. Desarrollar, coordinar, dirigir, administrar y establecer las políticas que regulen la seguridad y sostenibilidad, así como la gestión y preservación a largo plazo de los recursos de información, y
+
+II. Atender la normativa a nivel nacional, para acopiar, integrar, estandarizar, interoperar, almacenar y difundir la información derivada de investigaciones así como de material académico, científico, tecnológico y de innovación.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 58.
+
+Para el adecuado funcionamiento y desarrollo del Acceso a la Información Científica, Tecnológica y de Innovación de Calidad, el COCYTEN, en apego a los lineamientos que establezca el Consejo Nacional de Ciencia y Tecnología, deberá:
+
+I. Promover y mantener la actualización de recursos de información científica y tecnológica publicada;
+
+II. Simplificar los procesos administrativos para adquirir bases de datos y colecciones de información científica y tecnológica en formato digital;
+
+III. Promover la operación y uso de bases de datos de publicaciones electrónicas en las instituciones de educación superior y centros de investigación;
+
+IV. Impulsar la ampliación de la cobertura temática en las publicaciones científicas y tecnológicas que se encuentran disponibles a los usuarios, mediante el uso colectivo de las colecciones, y
+
+V. Con el apoyo y seguimiento de las instituciones de educación superior y los centros de investigación del Estado, promover la capacitación continua a los usuarios, con la finalidad de que aprovechen plenamente la información científica y tecnológica contenida en los respectivos acervos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 59.
+
+Los investigadores, tecnólogos, académicos y estudiantes de posgrado cuya actividad de investigación sea financiada con recursos públicos o que hayan utilizado infraestructura pública, en el desarrollo de sus labores, podrán depositar o en su caso autorizar expresamente el depósito de una copia de la versión final aceptada para publicar en Acceso Abierto a través del Repositorio Nacional, atendiendo a los lineamientos establecidos en la materia.
+
 ## Transitorios
 
 Primero.- La presente ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
@@ -852,3 +954,9 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Antonio Carrillo Ramos, Presidente.- Rúbrica.- Dip. Gloria Noemí Ramírez Bucio, Secretaria.- Rúbrica.- Dip. Jaime Arturo Briseño Quintana, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiún días del mes de octubre del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE OCTUBRE DE 2015.
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
