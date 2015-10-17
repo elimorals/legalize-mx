@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2014-03-26"
+last_updated: "2015-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -263,13 +261,17 @@ XXVI.- Promover la transparencia en las escuelas públicas y particulares en las
 
 XXVII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
 
-XXVIII.- Suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente, y
+XXVIII.- Suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
 
-XXIX.- Las demás que fijen las leyes o normas aplicables en la materia.
+XXIX.- De manera concurrente con la autoridad educativa federal, promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentando su enseñanza, diseminación y divulgación en acceso abierto cuando el conocimiento se obtenga mediante financiamiento público o el uso de infraestructura pública, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que por razón de su naturaleza o decisión del autor, sea confidencial o reservada, y
+
+> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+
+XXX.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 ###### ARTICULO 10.
 
@@ -1340,3 +1342,7 @@ Artículo Séptimo.- Las autoridades educativas, de acuerdo a la disponibilidad 
 Artículo Octavo.- El Congreso del Estado, deberá realizar el alineamiento correspondiente a la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y el Decreto de Creación del Organismo Público Descentralizado Servicios de Educación Pública del Estado de Nayarit.
 
 Artículo Noveno.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2015.
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
