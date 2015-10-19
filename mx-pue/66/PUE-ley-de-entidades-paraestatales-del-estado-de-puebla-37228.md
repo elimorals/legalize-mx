@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-entidades-paraestatales-del-estado-de-puebla-37228"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2012-03-30"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el Viernes 19 de diciembre de 2003.
 
@@ -125,13 +125,13 @@ Las Entidades Paraestatales estarán obligadas a proporcionar a sus homólogas y
 
 Las Entidades Paraestatales gozarán de autonomía de gestión, para el cabal cumplimiento de los objetivos y metas señaladas en sus programas. Al efecto, contarán con una administración ágil y eficiente y se sujetarán a los sistemas de supervisión, evaluación y control establecidos en la presente Ley y demás legislación aplicable.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 6.
 
 En materia de presupuesto, recursos, bienes y demás, las Entidades Paraestatales se sujetarán a los lineamientos y normatividad que al respecto establezcan las Secretarías de Finanzas y de Administración.
 
-REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 7.
 
@@ -157,7 +157,7 @@ I.- La denominación del Organismo;
 
 II.- Su naturaleza jurídica, atendiendo a lo que dispone la Ley Orgánica de la Administración Pública Estatal;
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 III.- Dependencia a la cual se sectorizará o, en su caso, si estará sectorizada al Gobernador del Estado;
 
@@ -249,7 +249,7 @@ V.- Otorgar, sustituir y revocar, previa autorización de su Órgano de Gobierno
 
 Los Directores Generales ejercerán las facultades a que se refieren las fracciones anteriores, bajo su más estricta responsabilidad, informando siempre de ello al Órgano de Gobierno, dentro de las limitaciones que señale el Decreto de creación y en su caso, el Reglamento Interior del Organismo.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 18.
 
@@ -313,7 +313,7 @@ Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el
 
 Los directores general (sic) o sus equivalentes de las empresas de participación estatal mayoritaria, sin perjuicio de las facultades y obligaciones que se les atribuyan en los estatutos de la Empresa y la legislación aplicable, tendrán las que se mencionan en el artículo 52 de este Ordenamiento.
 
-REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 26.
 
@@ -327,7 +327,7 @@ En los casos en que se acuerde la enajenación, en igual de condiciones y respet
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la Empresa y legislación aplicable.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 Las Secretarías de la Contraloría y de Finanzas, de manera conjunta intervendrán a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la Empresa.
 
@@ -339,7 +339,7 @@ Los fideicomisos públicos serán creados por Decreto del Titular del Ejecutivo 
 
 Corresponderá al Titular del Ejecutivo del Estado la designación del Director General.
 
-REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 29.
 
@@ -347,13 +347,13 @@ Sólo se podrán constituir, incrementar el patrimonio o extinguir fideicomisos,
 
 Previo a la constitución de fideicomisos, las dependencias y entidades deberán:
 
-REFORMADA, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
 
 I.- Acordar con la Secretaría de Finanzas la forma en la que se integrará el patrimonio del fideicomiso; y
 
 II.- Disponer lo necesario para que con cargo a su presupuesto, se cubran los gastos que se generen con motivo de la constitución del fideicomiso.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 30.
 
@@ -361,7 +361,7 @@ Una vez constituido un fideicomiso se inscribirá en el registro que para tal ef
 
 Asimismo, en caso de modificaciones al contrato constitutivo del fideicomiso, a su patrimonio o cualquier otra variación que se pretenda llevar a cabo, se deberá informar a la Secretaría de Finanzas y a la Secretaría de la Contraloría en el ámbito de sus respectivas atribuciones.
 
-REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 31.
 
@@ -375,7 +375,7 @@ III.- Los derechos que el fideicomitente se reserve; y
 
 IV.- Las facultades que fije, en su caso, al Comité Técnico, el cual deberá existir obligadamente en los fideicomisos considerados Entidades Paraestatales.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 32.
 
@@ -391,7 +391,7 @@ La institución fiduciaria deberá abstenerse de cumplir las resoluciones que el
 
 En los contratos constitutivos de fideicomisos del Poder Ejecutivo, se deberá reservar el Estado, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 Queda a cargo de la Secretaría de la Contraloría, en coordinación con la de Finanzas promover ante el Titular del Ejecutivo del Estado, la revocación de los fideicomisos que hayan alcanzado sus fines o de aquellos cuyos objetivos se hayan vuelto de realización imposible.
 
@@ -403,11 +403,11 @@ Los órganos auxiliares considerados como entidades por la Ley Orgánica de la A
 
 ###### ARTÍCULO 36.
 
-las atribuciones de estos órganos auxiliares, se determinarán en sus instrumentos de creación y en los respectivos reglamentos y manuales.
+Las atribuciones de estos órganos auxiliares, se determinarán en sus instrumentos de creación y en los respectivos reglamentos y manuales.
 
 ### CAPÍTULO VI. DEL REGISTRO DE ENTIDADES PARAESTATALES
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 37.
 
@@ -437,13 +437,13 @@ VII.- Los instrumentos jurídicos que señalen las bases de la fusión, transfor
 
 VIII.- Los demás documentos y actos que determine este ordenamiento o el Órgano de Gobierno de la Entidad.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 40.
 
 La Secretaría de la Contraloría podrá expedir certificaciones de las inscripciones y registros a que se refiere el artículo anterior, las que harán prueba plena.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 41.
 
@@ -459,13 +459,13 @@ I.- La referencia concreta a su objetivo esencial y a las actividades conexas pa
 
 II.- Los productos que elabore o los servicios que preste y sus características sobresalientes;
 
-REFORMADA, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
 
 III.- Los efectos que, en su caso, causen sus actividades en el ámbito sectorial, así como el impacto regional que originen; y
 
 IV.- Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 43.
 
@@ -479,7 +479,7 @@ El programa institucional constituye la asunción de compromisos en términos de
 
 Los presupuestos de las entidades se formularán a partir de sus programas anuales. Deberán contener la descripción detallada de objetivos, metas y unidades responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 46.
 
@@ -489,11 +489,11 @@ En la formulación de sus presupuestos, las Entidades Paraestatales se sujetará
 
 Las Entidades Paraestatales manejarán y erogarán sus recursos propios por medio de sus órganos.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 Por lo que toca a la percepción de subsidios y transferencias, los recibirán de la Secretaría de Finanzas, en los términos y condiciones que establezca la Ley de Egresos del Estado y demás ordenamientos aplicables, debiendo ser manejados y administrados por sus propios órganos y sujetarse a los controles e informes respectivos, de conformidad con la legislación de la materia.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 48.
 
@@ -502,6 +502,14 @@ Los programas financieros de las Entidades Paraestatales deberán formularse con
 ###### ARTÍCULO 49.
 
 Las Entidades Paraestatales para efecto de cuenta pública, deberán sujetarse a lo dispuesto por esta Ley y en lo no previsto, a la legislación y lineamientos que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 49 Bis.
+
+Para el caso de los Programas Anuales de Desarrollo Tecnológico, establecidos en el artículo 16 de la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios, las Entidades Paraestatales deberán aprobar dicho documento a más tardar el día treinta del mes de junio de cada año, para que sea presentado a la Comisión de Gobierno Digital en los plazos establecidos en el artículo mencionado.
+
+Los Programas Anuales de Desarrollo Tecnológico deberán seguir los lineamientos y bases establecidas en la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios, su Reglamento, así como en las disposiciones y lineamientos técnicos elaborados por la Comisión Estatal de Gobierno Digital y la Secretaría de Finanzas y Administración, y la normatividad hacendaria aplicable.
 
 ###### ARTÍCULO 50.
 
@@ -521,7 +529,7 @@ I.- Establecer en congruencia con los programas sectoriales, las políticas gene
 
 II.- Aprobar los programas y presupuestos de la Entidad Paraestatal, así como sus modificaciones, en los términos de la legislación aplicable.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 Los presupuestos y los programas financieros, deberán ser remitidos a la Secretaría de Finanzas, en los términos que le sean solicitados;
 
@@ -537,11 +545,11 @@ VII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y progr
 
 VIII.- Emitir el Reglamento Interior en el que se determinen las facultades y funciones de las distintas áreas de la Entidad Paraestatal, y en su caso, las modificaciones al mismo;
 
-REFORMADA, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
 
 IX.- Aprobar la estructura básica de la organización de la Entidad Paraestatal y las modificaciones que procedan, apegándose a los lineamientos que para tal efecto emita la Secretaría de la Contraloría; asimismo las facultades y funciones que correspondan a las distintas áreas de la Entidad;
 
-REFORMADA, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
 
 X.- Proponer al Titular del Poder Ejecutivo, de manera conjunta con las Secretarías de la Contraloría y de Finanzas, los convenios que tengan por objeto la fusión con otra Entidad Paraestatal;
 
@@ -571,7 +579,7 @@ V.- Tomar las medidas pertinentes a fin de que las funciones de la Entidad se re
 
 VI.- Establecer los procedimientos para controlar la cantidad de los suministros y programas de recepción que aseguren la continuidad en la fabricación, distribución o prestación del servicio;
 
-REFORMADA, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
 
 VII.- Proponer al Órgano de Gobierno el nombramiento o remoción de los dos siguientes niveles de servidores de la entidad, la fijación de sueldos y demás prestaciones conforme a las asignaciones globales del presupuesto de gasto corriente aprobado por el propio Órgano y a los tabuladores que apruebe la Secretaría de Finanzas;
 
@@ -593,13 +601,13 @@ XV.- Tramitar la inscripción de la Entidad Paraestatal en el Registro Federal d
 
 ### CAPÍTULO VIII. DEL CONTROL Y EVALUACIÓN
 
-REFORMADO PARRAFO PRIMERO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTICULO 54.
 
 El Órgano de Vigilancia de las Entidades Paraestatales estará integrado por un Comisario Público, designado por la Secretaría de la Contraloría.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 Los Comisarios Públicos evaluarán el desempeño general y funciones del Organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requieran el adecuado cumplimiento de sus atribuciones, sin perjuicio de las tareas que la Secretaría de la Contraloría les asigne específicamente conforme a la legislación aplicable.
 
@@ -615,7 +623,7 @@ II.- Los Directores Generales definirán las políticas e instrumentación de lo
 
 III.- Los demás servidores públicos de la Entidad responderán dentro del ámbito de su competencia sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 Lo anterior, sin perjuicio de los lineamientos que en su momento establezca la Secretaría de la Contraloría.
 
@@ -637,13 +645,13 @@ En aquellos casos en los que el Órgano de Gobierno o el Director General de la 
 
 En aquellas empresas en que el Gobierno del Estado participe con la suscripción del veinticinco al cincuenta por ciento (25 al 50%) del capital, las inversiones estatales se vigilarán a través del Comisario.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 59.
 
 El Ejecutivo del Estado, por conducto de la Secretaría de la Contraloría, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria, así como de las empresas señaladas en el artículo anterior.
 
-REFORMADO, P.O. 9 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 60.
 
@@ -671,7 +679,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los once días del mes de diciembre del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE MARZO DE 2011.
 
@@ -706,3 +714,9 @@ El monto de las modificaciones que se realicen en términos de lo señalado en e
 ###### ARTÍCULO CUARTO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
