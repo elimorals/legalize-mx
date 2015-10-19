@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2013-03-20"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -1309,9 +1309,19 @@ A continuación, se procederá a firmar el acta por la persona con quien se ente
 
 Si la persona con la que se entendió la diligencia o los testigos se negaren a firmar el acta, o se negare el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 118.
 
-Recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas que sean necesarias, fundando y motivando el requerimiento, y para que en un término de cinco días hábiles a partir del día hábil siguiente a la notificación, manifieste por escrito lo que a su derecho convenga, en relación con el acta y con la inspección en sí misma, y ofrezca pruebas en relación con los hechos u omisiones que en aquélla se asienten.
+Recibida el acta de inspección por la autoridad ordenadora, se requerirá al interesado, mediante notificación personal, por correo certificado con acuse de recibo o por correo electrónico; para que adopte de inmediato las medidas correctivas que sean necesarias, fundando y motivando el requerimiento, y para que en un término de cinco días hábiles a partir del día hábil siguiente a la notificación, manifieste por escrito lo que a su derecho convenga, en relación con el acta y con la inspección en sí misma, y ofrezca pruebas en relación con los hechos u omisiones que en aquélla se asienten.
+
+El escrito que emita el interesado puede ser entregado en la dependencia correspondiente o en el portal que para tal efecto se habilite.
+
+Para el caso de los escritos presentados vía electrónica, se deberán adjuntar los documentos electrónicos que se presentarán como pruebas.
+
+Si se tiene un motivo fundado de que los documentos anexados son falsos, la autoridad ordenadora deberá requerir al interesado para que un plazo no mayor a cinco días acuda a la dependencia correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+Si se presentaron documentos falsos, ya sean físicos o electrónicos, el titular de la autoridad ordenadora deberá dar vista a la autoridad competente, para que conforme a sus atribuciones proceda a la investigación respectiva.
 
 ###### ARTÍCULO 119.
 
@@ -1328,6 +1338,10 @@ No se considerará comprendida en la prohibición señalada, la petición de inf
 ###### ARTÍCULO 121.
 
 Transcurrido el término a que se refiere el artículo 118 y desahogadas las pruebas, la autoridad emitirá la resolución administrativa definitiva, que contendrá una relación de los hechos, las disposiciones legales y administrativas aplicables al objeto de la inspección, la valoración de las pruebas ofrecidas por el interesado, si las hubiere, así como los puntos resolutivos, en los que se señalarán, o en su caso, ratificarán o adicionarán, las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+La notificación referida en el párrafo anterior y las subsecuentes, se podrán realizar a través de una notificación personal en el domicilio correspondiente, a través de los estrados de la dependencia o por correo electrónico designado para tal fin.
 
 ###### ARTÍCULO 122.
 
@@ -1555,9 +1569,11 @@ El Recurso Administrativo de Revisión, deberá agotarse antes de acudir a los T
 
 A falta de disposición expresa en esta Ley y en todo lo que no se oponga a la misma, para la substanciación y resolución del Recurso Administrativo de Revisión, será supletorio el Código Fiscal del Estado, el Código Fiscal Municipal del Estado o el aplicable en el Municipio respectivo, según la autoridad que deba conocer del mismo y a falta de éstos, la legislación de derecho común.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 152.
 
-El Recurso Administrativo de Revisión, deberá ser presentado por escrito ante la autoridad que emitió el acto o la resolución que se impugne, dentro del término de quince días hábiles siguientes a aquél en que se hubiere emitido o haya surtido efectos la notificación del mismo.
+El Recurso Administrativo de Revisión, deberá ser presentado por escrito físico o electrónico ante la autoridad que emitió el acto o la resolución que se impugne o en el portal que para tal efecto se habilite, dentro del término de quince días hábiles siguientes a aquél en que se hubiere emitido o haya surtido efectos la notificación del mismo.
 
 ###### ARTÍCULO 153.
 
@@ -1568,6 +1584,10 @@ I. La autoridad a quien va dirigido, así como el propósito del mismo;
 II. Nombre del recurrente;
 
 III. Domicilio para oír y recibir notificaciones, así como las personas autorizadas para tales efectos;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+III Bis. En su caso, dirección de correo electrónico para oír y recibir todo tipo de notificaciones, aún las de carácter personal;
 
 IV. La resolución o el acto que se impugna;
 
@@ -1581,6 +1601,10 @@ Cuando no se cumpla con los requisitos a que se refieren las fracciones anterior
 
 Si dentro de dicho plazo no se cumplen los requisitos señalados en las fracciones I, II, III, IV y VI de este artículo, la autoridad desechará el recurso. Si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el recurrente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Para efectos de la firma a la que alude el primer párrafo del presente artículo, esta podrá ser autógrafa o electrónica.
+
 ###### ARTÍCULO 154.
 
 El recurrente deberá acompañar al escrito en que interponga el recurso:
@@ -1593,9 +1617,27 @@ III. Constancia de notificación del acto impugnado, o en su caso, la manifestac
 
 IV. Las pruebas documentales que ofrezca, así como el cuestionario que debe desahogar el Perito en caso de prueba pericial, el cual deberá estar firmado por el recurrente.
 
-Los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, salvo los previstos en la fracción I, los cuales deberán presentarse en original o copia certificada.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Para el caso de la presentación del escrito físico, los documentos a que se refieren las fracciones anteriores, podrán presentarse en fotocopia simple, salvo los previstos en la fracción I, los cuales deberán presentarse en original o copia certificada.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si el escrito se interpone vía electrónica, los documentos referidos en las fracciones anteriores, deberán presentarse en formato digital.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se tiene un motivo fundado de que los documentos anexados son falsos, la autoridad correspondiente deberá requerir al interesado para que en un plazo no mayor a cinco días acuda a la oficina correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se presentaron documentos falsos, ya sean físicos o electrónicos, el titular de la autoridad correspondiente deberá dar vista a la autoridad competente, para que conforme a sus atribuciones proceda a la investigación respectiva.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
 Cuando las pruebas documentales no obren en poder del recurrente, deberá señalar el archivo o lugar en que se encuentren para que la autoridad requiera su remisión cuando ésta le sea legalmente posible.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
 Cuando no se acompañe alguno de los documentos a que se refieren las fracciones del presente artículo, la autoridad requerirá al recurrente para que los presente dentro del término de cinco días. En caso de no presentarse los documentos a que se refieren las fracciones I a III en el término señalado, se tendrá por no interpuesto el recurso y para el caso de la fracción IV, las pruebas se tendrán por no ofrecidas.
 
@@ -1710,3 +1752,11 @@ CUARTO.- En tanto se expide el Reglamento a que se refiere el párrafo anterior,
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de marzo de dos mil trece.- Diputado Presidente.- JOSÉ ANTONIO GALI LÓPEZ.- Rúbrica.- Diputado Vicepresidente.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.- Diputado Secretario.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputada Secretaria.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de marzo de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
