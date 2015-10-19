@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-archivos-del-estado-puebla-95969"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-13"
-last_updated: "2013-09-13"
+last_updated: "2015-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ARCHIVOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de septiembre de 2013.
 
@@ -83,29 +83,45 @@ III. Archivística: Disciplina dedicada al estudio y aplicación de las teorías
 
 IV. Archivo: Conjunto orgánico de documentos en cualquier soporte, que son producidos o recibidos por los sujetos obligados o los particulares en el ejercicio de sus atribuciones o en el desarrollo de sus actividades;
 
-V. Archivo administrativo: Aquél que permite la correcta gestión de documentos en posesión de los Poderes Ejecutivo, Legislativo o Judicial o de los organismos autónomos de los tres órdenes de gobierno;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-VI. Archivo de concentración: Aquél que contiene documentos cuya consulta es esporádica por parte de las unidades administrativas de los sujetos obligados, y que permanecen en él hasta su destino final;
+V. Archivo administrativo: Aquél que permite la correcta gestión de documentos o archivos electrónicos en posesión de los Poderes Ejecutivo, Legislativo o Judicial o de los organismos autónomos de los tres órdenes de gobierno;
 
-VII. Archivo de trámite: Aquél que contiene documentos de uso cotidiano y necesario para el ejercicio de las atribuciones de una unidad administrativa;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-VIII. Archivo histórico: Aquél en el que se administra, organiza, describe, conserva y difunde la memoria documental institucional, así como la integrada por documentos o colecciones documentales de relevancia para la memoria estatal y cuyo acceso es público;
+VI. Archivo de concentración: Aquél que contiene documentos o archivos electrónicos cuya consulta es esporádica por parte de las unidades administrativas de los sujetos obligados, y que permanecen en él hasta su destino final;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VII. Archivo de trámite: Aquél que contiene documentos o archivos electrónicos de uso cotidiano y necesario para el ejercicio de las atribuciones de una unidad administrativa;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VIII. Archivo histórico: Aquél en el que se administra, organiza, describe, conserva y difunde la memoria documental institucional, así como la integrada por documentos, colecciones documentales y/o archivos electrónicos de relevancia para la memoria estatal y cuyo acceso es público;
 
 IX. Archivo General: Dirección del Archivo General del Estado de Puebla;
 
-X. Archivo privado de interés público: Documentos o colecciones que ostenten interés público, histórico o cultural en poder de particulares;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-XI. Baja documental: Eliminación de aquella documentación que haya prescrito en sus valores administrativos, legales, fiscales o contables, y que no contenga valores históricos;
+X. Archivo privado de interés público: Documentos, colecciones de estos o archivos electrónicos que ostenten interés público, histórico o cultural en poder de particulares;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XI. Baja documental: Eliminación de aquella documentación y/o archivos electrónicos que hayan prescrito en sus valores administrativos, legales, fiscales o contables, y que no contengan valores históricos;
 
 XII. Catálogo de disposición documental: Registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad y el destino final;
 
-XIII. Ciclo vital del documento: Conjunto de etapas de un documento que se asignan con base en el asunto que le da origen, sus valores y usos que tiene durante cada una de ellas, correspondiendo a cada etapa un tratamiento especializado y su conservación en un archivo específico que puede ser de trámite, de concentración o histórico, o bien su baja documental;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XIII. Ciclo vital del documento: Conjunto de etapas de un documento y/o archivo electrónico que se asignan con base en el asunto que le da origen, sus valores y usos que tiene durante cada una de ellas, correspondiendo a cada etapa un tratamiento especializado y su conservación en un archivo específico que puede ser de trámite, de concentración o histórico, o bien su baja documental;
 
 XIV. Clasificación archivística: Proceso de identificación y agrupación de expedientes homogéneos con base en la estructura funcional de los sujetos obligados;
 
 XV. Consejo: Consejo Estatal de Archivos;
 
-XVI. Conservación de archivos: Conjunto de procedimientos y medidas destinados a asegurar la preservación y la prevención de alteraciones físicas de la información de los documentos de archivo;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XVI. Conservación de archivos: Conjunto de procedimientos y medidas destinados a asegurar la preservación y la prevención de alteraciones físicas de la información de los documentos físicos y electrónicos de archivo;
 
 XVII. Cuadro General de Clasificación Archivística: Instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada sujeto obligado;
 
@@ -121,9 +137,13 @@ XXII. Documento electrónico y/o digital: Aquél que almacena la información en
 
 XXIII. Documento histórico: Aquél que posee valores secundarios y de preservación a largo plazo por contener información relevante para la institución generadora pública o privada, que integra la memoria colectiva del Estado y es fundamental para el conocimiento de la historia estatal;
 
-XXIV. Expediente: Unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-XXV. Fondo: Conjunto de documentos producidos orgánicamente por un sujeto obligado, que se identifica con el nombre de este último;
+XXIV. Expediente: Unidad documental constituida por uno o varios documentos de archivos físicos o electrónicos, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXV. Fondo: Conjunto de documentos y archivos electrónicos producidos orgánicamente por un sujeto obligado, que se identifica con el nombre de este último;
 
 XXVI. Guía simple de archivo: Esquema general de descripción de las series documentales de los archivos de un sujeto obligado, que indica sus características fundamentales conforme al cuadro general de clasificación archivística y sus datos generales;
 
@@ -209,9 +229,11 @@ Por virtud de la presente Ley, los documentos de archivo quedan fuera del comerc
 
 El Archivo General del Estado es una unidad administrativa especializada en materia de la presente Ley, adscrita al Poder Ejecutivo y su administración centralizada; es el coordinador y promotor del Sistema.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 11.
 
-El Archivo General deberá contar con espacio propio y adecuado que le permita garantizar la preservación de los acervos que custodia y la posibilidad de recibir mayores acervos históricos. Asimismo contará con la estructura física, de personal y presupuestal necesaria para cumplir con sus funciones.
+El Archivo General deberá contar con espacio propio y adecuado, así como con la infraestructura tecnológica necesaria que le permita garantizar la preservación de los acervos físicos y electrónicos que custodia y la posibilidad de recibir mayores acervos históricos. Asimismo contará con la estructura física, de personal y presupuestal necesaria para cumplir con sus funciones.
 
 El Titular del Ejecutivo, por conducto de la Secretaría General de Gobierno y de la Secretaría de Finanzas y Administración, serán los encargados de cumplir con esta disposición.
 
@@ -227,7 +249,9 @@ II. Proponer la adopción de directrices estatales en materia de archivos;
 
 III. Contribuir a fortalecer la vida institucional, cultural e histórica del Estado a través de la administración, organización, concentración, resguardo, preservación, conservación, fomento y difusión de la memoria colectiva, constituida por el acervo documental del Estado;
 
-IV. Brindar asesoría y capacitación técnica para la organización, control, registro y operación de los servicios en materia de administración de documentos, transferencias y organización de archivos de trámite, concentración e históricos de los sujetos obligados;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+IV. Brindar asesoría y capacitación técnica para la organización, control, registro y operación de los servicios en materia de administración de documentos y archivos electrónicos, transferencias y organización de archivos de trámite, concentración e históricos de los sujetos obligados;
 
 V. Recibir los acervos históricos que cumplan los requisitos que en la materia se emitan, siempre que existan las condiciones para su recepción, con independencia de su carácter público o privado;
 
@@ -235,11 +259,17 @@ VI. Proponer al Consejo, aquellos acervos o documentos que puedan ser declarados
 
 VII. Autorizar la salida del territorio estatal al de otra entidad federativa de documentos declarados Patrimonio Documental del Estado, de documentos originales relacionados con la historia de México y de libros que por su naturaleza no sean fácilmente sustituibles;
 
-VIII. Reunir, organizar, preservar difundir el acervo documental gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas nacionales e internacionales;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-IX. Establecer los lineamientos para analizar, valorar y decidir el destino final de la documentación de los sujetos obligados;
+VIII. Reunir, organizar, preservar y difundir el acervo documental gráfico, bibliográfico, hemerográfico y electrónico que resguarda, con base en las mejores prácticas nacionales e internacionales;
 
-X. Proponer a la Secretaría General de Gobierno, las normas, procedimientos y lineamientos que deben observar las dependencias y entidades de la Administración Pública Estatal para la guarda, custodia, conservación y en su caso, baja de documentos oficiales, las cuales deberá emitir en forma coordinada con las Secretarías de Finanzas y Administración y de la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+IX. Establecer los lineamientos para analizar, valorar y decidir el destino final de la documentación y archivos electrónicos de los sujetos obligados;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+X. Proponer a la Secretaría General de Gobierno, las normas, procedimientos y lineamientos que deben observar las dependencias y entidades de la Administración Pública Estatal para la guarda, custodia, conservación y en su caso, baja de documentos y archivos electrónicos oficiales, las cuales deberá emitir en forma coordinada con las Secretarías de Finanzas y Administración y de la Contraloría del Estado;
 
 XI. Participar en el análisis, valoración y dictaminación de la baja documental con base en el Catálogo de Disposición Documental, cuando sea el caso;
 
@@ -251,7 +281,9 @@ XIV. Preparar, publicar y distribuir, en forma onerosa o gratuita, obras para ap
 
 XV. Establecer políticas para compilar, organizar y difundir el acervo documental gráfico, bibliográfico y hemerográfico necesario para apoyar el desarrollo archivístico y la investigación histórica estatal, observando las disposiciones establecidas en la Ley Federal de Archivos;
 
-XVI. Integrar un acervo bibliohemerográfico especializado en materia de archivos y temas afines;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XVI. Integrar un acervo bibliohemerográfico físico y electrónico especializado en materia de archivos y temas afines;
 
 XVII. Vigilar el cumplimiento de esta Ley y sus disposiciones reglamentarias, y cuando sea necesario, hacer las recomendaciones necesarias a las dependencias y entidades, así como hacer del conocimiento de la Secretaría de la Contraloría o de las autoridades que correspondan, las afectaciones al patrimonio documental, a efecto de que se establezcan las responsabilidades correspondientes;
 
@@ -427,9 +459,11 @@ Las facultades y obligaciones de la Unidad Coordinadora se sujetarán a lo estab
 
 Los sujetos obligados, en el ámbito de sus respectivas competencias, establecerán mediante reglamentos o acuerdos de carácter general, un Sistema Institucional de Archivos para definir criterios y procedimientos institucionales, relativos a la administración de sus respectivos archivos, de acuerdo a lo establecido en la presente Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 33.
 
-El Sistema Institucional de Archivos, debe estar basado en el ciclo vital del documento, conforme a las funciones sustantivas y a las necesidades propias de cada sujeto obligado, observando el modelo establecido por esta Ley y su Reglamento.
+El Sistema Institucional de Archivos, debe estar basado en el ciclo vital del documento o archivo electrónico, conforme a las funciones sustantivas y a las necesidades propias de cada sujeto obligado, observando el modelo establecido por esta Ley y su Reglamento.
 
 #### SECCIÓN III. DEL PLAN INSTITUCIONAL DE DESARROLLO ARCHIVÍSTICO
 
@@ -449,9 +483,11 @@ La administración de archivos tiene como fin asegurar que los documentos, sin i
 
 Será responsabilidad de las unidades archivísticas, mantener debidamente organizados los documentos para su fácil localización y consulta, haciendo uso de los sistemas, métodos y técnicas estandarizados para la sistematización de la información, así como el uso factible de las nuevas tecnologías aplicables en términos de lo dispuesto por su correspondiente Unidad Coordinadora con base en las normas en la materia.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 37.
 
-A efecto de garantizar el control, la propiedad y la utilidad pública de los archivos, todo documento generado por los servidores públicos en el desempeño de su empleo, cargo o comisión, junto con aquéllos que reciban y se vinculen con el cumplimiento de sus funciones, formará parte del acervo documental del Estado y será registrado en las unidades archivísticas correspondientes.
+A efecto de garantizar el control, la propiedad y la utilidad pública de los archivos, todo documento físico o electrónico generado por los servidores públicos en el desempeño de su empleo, cargo o comisión, junto con aquéllos que reciban y se vinculen con el cumplimiento de sus funciones, formará parte del acervo documental del Estado y será registrado en las unidades archivísticas correspondientes.
 
 ###### ARTÍCULO 38.
 
@@ -575,9 +611,11 @@ Todos los archivos que por sus cualidades artísticas, culturales e históricas 
 
 Los documentos que se encuentren en peligro de destrucción, desaparición o pérdida, a propuesta del Archivo General podrán ser objeto de expropiación, en los términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 58.
 
-Los documentos de trascendencia histórica deberán guardarse bajo custodia especial y sólo podrán ser consultados en casos excepcionales y con estricta vigilancia.
+Los documentos y archivos electrónicos de trascendencia histórica, deberán guardarse bajo custodia especial y sólo podrán ser consultados en casos excepcionales y con estricta vigilancia.
 
 ###### ARTÍCULO 59.
 
@@ -585,9 +623,11 @@ Cuando la Unidad Coordinadora determine la necesidad de restauración de algún 
 
 #### SECCIÓN IV. DE LOS ACERVOS PRIVADOS
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 60.
 
-Los documentos de trascendencia histórica que se encuentren en posesión de particulares podrán ser objeto de consulta, restauración, reproducción y difusión, previo convenio que al efecto se celebre entre el Archivo General y el poseedor de los mismos.
+Los documentos y archivos electrónicos de trascendencia histórica que se encuentren en posesión de particulares, podrán ser objeto de consulta, restauración, reproducción y difusión, previo convenio que al efecto se celebre entre el Archivo General y el poseedor de los mismos.
 
 ###### ARTÍCULO 61.
 
@@ -645,9 +685,11 @@ III. El acceso beneficie de manera clara y evidente al titular de la informació
 
 IV. Sea solicitada por un biógrafo autorizado por el titular de la información confidencial.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 70.
 
-Los archivos o documentos en poder de los particulares y de entidades públicas, podrán ser recibidos en comodato por el Archivo General del Estado para su estabilización.
+Los archivos o documentos físicos o electrónicos en poder de los particulares y de entidades públicas, podrán ser recibidos en comodato por el Archivo General del Estado para su estabilización.
 
 ### CAPÍTULO V. DE LAS INFRACCIONES Y SANCIONES
 
@@ -661,9 +703,17 @@ II. Hacer ilegible, extraer, destruir, ocultar, inutilizar, alterar, adaptar, mo
 
 III. Extraer documentos o archivos públicos de su recinto para fines distintos al ejercicio de sus funciones y atribuciones;
 
-IV. Trasladar fuera del territorio nacional, archivos o documentos públicos declarados Patrimonio Documental del Estado sin la autorización del Archivo General del Estado;
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-V. Transferir a título oneroso o gratuito la propiedad o posesión de archivos o documentos públicos;
+III Bis. Sustraer por cualquier medio los archivos electrónicos que estén bajo el resguardo de los órganos del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+IV. Trasladar fuera del territorio nacional, archivos o documentos públicos físicos y electrónicos declarados Patrimonio Documental del Estado, sin la autorización del Archivo General del Estado;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+V. Transferir a título oneroso o gratuito la propiedad o posesión de archivos o documentos públicos físicos y electrónicos;
 
 VI. Impedir u obstaculizar la consulta de documentos de los archivos históricos sin causa justificada;
 
@@ -677,9 +727,11 @@ IX. Omitir, al separarse de su empleo, cargo o comisión, entregar los archivos 
 
 Los servidores públicos que contravengan esta Ley y sus disposiciones reglamentarias se harán acreedores a las medidas de apremio y sanciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado, independientemente de las del orden civil o penal que procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 73.
 
-Los usuarios de los archivos públicos y privados, y los particulares que posean archivos privados de interés público, deberán contribuir a la conservación y buen estado de los documentos.
+Los usuarios de los archivos públicos y privados, y los particulares que posean archivos privados de interés público, deberán contribuir a la conservación y buen estado de los documentos físicos y electrónicos.
 
 Cualquier mal uso, perjuicio material o sustracción de documentos realizada por los particulares a los que refiere el párrafo anterior, será sancionada de conformidad con la normatividad aplicable.
 
@@ -696,3 +748,11 @@ CUARTO.- El Reglamento de la presente Ley se formulará en el término de ciento
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro veces Heroica Puebla de Zaragoza, a los doce días del mes de septiembre de dos mil trece.- Diputado Presidente.- GERARDO MEJÍA RAMÍREZ.- Rúbrica.- Diputado Vicepresidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputada Secretaria.- ANA MARÍA JIMÉNEZ ORTIZ.- Rúbrica.- Diputado Secretario.- JORGE LUIS BLANCARTE MORALES.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de septiembre de dos mil trece.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
