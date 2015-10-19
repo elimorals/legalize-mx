@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2015-07-28"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -593,6 +593,12 @@ La información, imágenes y demás contenido del Sistema Informático Registral
 
 En los casos en que esta Ley haga mención a la firma, se entenderá que podrá ser tanto autógrafa como electrónica avanzada.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 61 Bis.
+
+Para efectos de lo establecido en esta Ley, cuando se haga mención de sello, se entenderá que podrá ser convencional y digital.
+
 ###### Artículo 62.
 
 Los servicios registrales, certificaciones y documentos que emita el Registro mediante mensaje de datos con firma electrónica avanzada, de conformidad con la normatividad en la materia, tendrán plena validez y eficacia jurídica.
@@ -1089,11 +1095,11 @@ La estadística mensual que se produzca en el Registro contendrá al menos el n�
 
 Los términos que señale esta Ley comprenderán días hábiles, salvo que expresamente se mencione que son naturales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 134.
 
-Las gestiones, solicitudes de servicios o promociones que se formulen ante el Director o los Registradores Públicos, deberán realizarse por escrito y contendrán:
+Las gestiones, solicitudes de servicios o promociones que se formulen ante el Director o los Registradores, deberán realizarse por escrito físico o electrónico y deberán contener:
 
 I. La autoridad a quien van dirigidas;
 
@@ -1103,13 +1109,17 @@ III. El nombre, denominación o razón social del promovente;
 
 IV. La firma del promovente o su representante legal, y
 
-V. La mención de que quedará bajo responsabilidad del promovente notificarse sobre el estado de su solicitud en las listas que se coloquen en las oficinas registrales o por medio del portal electrónico del Registro.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+V. La mención de que quedará bajo responsabilidad del promovente notificarse sobre el estado de su solicitud en las listas que se coloquen en las oficinas registrales, por medio del portal electrónico del Registro o por correo electrónico.
 
 Cuando no se cumpla con los requisitos previstos en las fracciones que van de la I a la IV las promociones se tendrán por no presentadas. Cuando no se cumpla con el requisito marcado en la fracción V se entenderá por expresado.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 135.
 
-Los informes, notificaciones y comunicaciones que realicen los servidores públicos del Registro a otras autoridades se realizarán mediante oficio, debiéndose insertar íntegramente la resolución a notificar o bien acompañar copia certificada de ella.
+Los informes, notificaciones y comunicaciones que realicen los servidores públicos del Registro a otras autoridades, se realizarán mediante el correo electrónico oficial del funcionario, debiéndose adjuntar el oficio, la resolución íntegra a notificar o bien acompañar el certificado digital de ella.
 
 ###### Artículo 136.
 
@@ -1137,9 +1147,9 @@ La interposición del Recurso suspende hasta su resolución, la ejecución del a
 
 Transcurridos veinticinco días hábiles desde la notificación de la resolución definitiva del Recurso, y en caso de que la misma no haya sido combatida legalmente, se procederá a la calificación registral de los títulos que guarden prelación.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-Las notificaciones a que se refiere el párrafo anterior serán realizadas por estrados ubicados en sitio abierto de las oficinas del Instituto.
+Las notificaciones a que se refiere el párrafo anterior serán realizadas por estrados ubicados en sitio abierto de las oficinas del Instituto o al correo electrónico otorgado por el solicitante.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
@@ -1163,13 +1173,27 @@ V. Los requisitos señalados en el artículo 134 de esta Ley.
 
 En el caso de acudir mediante representación, se deberán acompañar los documentos que acrediten la misma.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Para los recursos presentados vía electrónica, se deberán adjuntar los documentos electrónicos necesarios para fundar el recurso correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se tiene un motivo fundado de que los documentos anexados son falsos, el Registrador, el Director o el Director General deberán requerir al recurrente para que en un plazo no mayor a cinco días acuda a la oficina registral correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se presentaron documentos falsos, ya sean físicos o electrónicos, el Registrador, el Director o el Director General deberán dar vista a la autoridad competente, para que conforme a sus atribuciones proceda a la investigación respectiva.
+
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2009)</small>
 
 ###### Artículo 140.
 
 La tramitación y sustanciación del Recurso Administrativo Registral, se sujetará al siguiente procedimiento:
 
-I. Deberá interponerse directamente en la oficina registral en la que se emitió el acto impugnado, dentro de los diez días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+I. Deberá interponerse directamente en la oficina registral en la que se emitió el acto impugnado o en el portal de dicha oficina, dentro de los diez días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto.
 
 II. En el supuesto de que falte alguno de los requisitos mencionados en el artículo anterior, la autoridad responsable prevendrá al recurrente para que en el término de tres días hábiles subsane la omisión, con el apercibimiento de que en caso de no hacerlo, se remitirá el Recurso a la autoridad resolutora, quien en consecuencia lo desechará;
 
@@ -1280,3 +1304,9 @@ SEGUNDO. El Ejecutivo Estatal realizará las modificaciones que resulten necesar
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO. Todo trámite que se haya iniciado o se encuentre en proceso a la Entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
