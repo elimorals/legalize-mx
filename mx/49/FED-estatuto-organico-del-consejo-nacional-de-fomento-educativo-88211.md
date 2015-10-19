@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-fomento-educativo-882
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-06-15"
-last_updated: "2012-06-15"
+last_updated: "2015-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88211&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-06-08"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE FOMENTO EDUCATIVO, PUBLICADO EN EL D.O.F. DE 19 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 15 de junio de 2012.
 
@@ -618,3 +620,21 @@ PRIMERO.- El presente Estatuto Orgánico surtirá efectos al día siguiente de s
 SEGUNDO.- Se abroga el Estatuto Orgánico del Consejo Nacional de Fomento Educativo, publicado en el Diario Oficial de la Federación el 28 de julio del 2000; así como aquellas disposiciones internas que se opongan al presente ordenamiento.
 
 Por Acuerdo número SE/II-12/03,01 S, (SE/2-12/03,S), dictado en la Segunda Sesión Extraordinaria de la Junta Directiva, celebrada el día 8 de junio de 2012.- El Director General del Consejo Nacional de Fomento Educativo, Arturo Sáenz Ferral.- Rúbrica.- El Prosecretario de la Junta Directiva, Miguel Angel de Jesús López Reyes.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Estatuto Orgánico una vez aprobado por el Órgano de Gobierno, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Consejo Nacional de Fomento Educativo, publicado en el Diario Oficial de la Federación el 15 de junio del 2012; así como aquellas disposiciones internas que se opongan al presente ordenamiento.
+
+TERCERO.- Las unidades administrativas con denominaciones nuevas o distintas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, continuarán su substanciación o dictarán las resoluciones respectivas.
+
+CUARTO.- El presente Estatuto Orgánico fue aprobado por la Junta de Gobierno del Consejo Nacional de Fomento Educativo, en su Centésimo quincuagésima-novena sesión ordinaria, celebrada el día 29 de junio de 2015, mediante Acuerdo número SO/II-15/10.05,S (SO/159-15/10.05,S).
+
+QUINTO.- El Órgano Interno de Control a que refiere el Capítulo Quinto del presente Estatuto Orgánico, ejercerá sus funciones hasta en tanto se expidan y entren en vigor las nuevas disposiciones a que se refiere el Artículo Segundo Transitorio de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 02 de enero de 2013.
+
+SEXTO.- Una vez publicado el Decreto por el que se reorganiza el Consejo Nacional de Fomento Educativo (CONAFE), se deberán realizar las adecuaciones, que, en su caso, procedan al presente Estatuto Orgánico.
+
+SÉPTIMO.- Los nombres de los puestos en vigor, hasta antes de la publicación del presente Estatuto, sin incremento, decremento o cambio de funciones, serán ajustados a la nueva nomenclatura de este Estatuto. Los asuntos en proceso de atención por las áreas del Estatuto que se abroga, serán atendidos hasta su conclusión por las áreas a las que se les reasigne o en las que se transformaron de acuerdo a la nueva nomenclatura del presente Estatuto Orgánico.
