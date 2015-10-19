@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-comision-de-derechos-humanos-del-estado-de-puebla-185
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-24"
-last_updated: "2014-05-19"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE PUEBLA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 24 de marzo de 2000.
 
@@ -413,9 +413,15 @@ Las funciones del Presidente de la Comisión, de los Visitadores y del Secretari
 
 ### CAPÍTULO I. DE LA QUEJA
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-Cualquier persona podrá denunciar presuntas violaciones a los derechos humanos y acudir ante las oficinas de la Comisión para presentar, ya sea directamente o por medio de representante, quejas contra dichas violaciones.
+Cualquier persona podrá denunciar presuntas violaciones a los derechos humanos de manera presencial, por teléfono o por Internet, ya sea directamente o por medio de representante, quejas contra dichas violaciones.
+
+En caso de presentar la queja o denuncia por escrito, por teléfono o por Internet, se le citará al quejoso para que comparezca de manera personal en un plazo no mayor de tres días posteriores a la presentación de la queja.
+
+La notificación de la cita mencionada en el párrafo anterior se realizará por la misma vía en la que fue interpuesta la queja. En caso de realizarse la queja o denuncia vía telefónica el quejoso deberá otorgar un domicilio o una dirección electrónica donde se le notificará de todos los actos inherentes a la queja. Si la queja o denuncia se realiza de manera electrónica, el quejoso deberá proporcionar una dirección de correo electrónico donde se le notificará de todos los actos concernientes a su queja.
 
 ###### ARTÍCULO 26.
 
@@ -429,9 +435,11 @@ La queja sólo podrá presentarse dentro del plazo de un año, contado a partir 
 
 No contará plazo alguno, en caso de violaciones a los derechos a la vida, a la libertad y a la integridad física y psíquica de las personas o que atenten contra una comunidad o un grupo social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 28.
 
-La denuncia respectiva deberá presentarse por escrito, con firma o huella digital o datos de identificación, en casos urgentes podrá formularse por cualquier medio de comunicación electrónico. Si el quejoso no se identifica al momento de presentar su queja o denuncia, o no la suscribe en ese primer momento, deberá ratificarla dentro de los tres días siguientes a su presentación.
+Las quejas y denuncias deberán ser firmadas de manera autógrafa o por medio de firma electrónica, de acuerdo al medio por el que fue presentada la queja.
 
 Cuando los quejosos o denunciantes se encuentren privados de su libertad, las denuncias deberán ser turnadas a la Comisión, sin demora alguna, por los encargados de los centros de detención, o podrán entregarse personalmente a los Visitadores.
 
@@ -455,9 +463,11 @@ En el supuesto de que los quejosos o denunciantes no puedan identificar a las au
 
 La formulación de quejas, así como las resoluciones, recomendaciones y documentos de no responsabilidad que emita la Comisión, no afectarán el ejercicio de otros derechos y medios de defensa que conforme a las leyes puedan corresponder a los afectados; de igual manera, no suspenderán ni interrumpirán los plazos de prescripción o caducidad. Esta circunstancia deberá señalarse a los interesados, en el acuerdo de admisión de la queja.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 34.
 
-Una vez admitida la queja, deberá ponerse en conocimiento de las autoridades señaladas como responsables, utilizando en casos de urgencia cualquier medio de comunicación, incluyendo el electrónico. En la misma comunicación, se solicitará a dichas autoridades o servidores públicos rindan un informe sobre los actos u omisiones que se les atribuyan en la queja, el cual deberán presentar dentro de un plazo máximo de quince días naturales por los medios que sean convenientes, de acuerdo con el caso. En las situaciones que a juicio de la Comisión se consideren urgentes, dicho plazo podrá ser reducido.
+Una vez admitida la queja, deberá ponerse en conocimiento de las autoridades señaladas como responsables, utilizando en casos de urgencia cualquier medio de comunicación, incluyendo el electrónico. En la misma comunicación, se solicitará a dichas autoridades o servidores públicos rindan un informe sobre los actos u omisiones que se les atribuyan en la queja, el cual deberán presentar dentro de un plazo máximo de quince días naturales a través del sistema electrónico que para tal efecto se implemente. En las situaciones que a juicio de la Comisión se consideren urgentes, dicho plazo podrá ser reducido.
 
 Cuando la denuncia sea inadmisible por ser manifiestamente improcedente o infundada, será rechazada de inmediato. Cuando no corresponda de manera ostensible a la competencia de la Comisión, se deberá proporcionar orientación al reclamante, a fin de que acuda a la autoridad o servidor público a quien corresponda conocer o resolver el asunto.
 
@@ -776,3 +786,9 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 TERCERO.- La Comisión de Derechos Humanos del Estado de Puebla, deberá realizar las modificaciones necesarias a su Reglamento Interior.
 
 CUARTO.- Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal que apruebe el Congreso del Estado.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
