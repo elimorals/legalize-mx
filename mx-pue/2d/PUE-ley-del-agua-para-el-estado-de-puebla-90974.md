@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2014-08-04"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -327,13 +327,25 @@ XVI. Promover el Reúso del agua que cumpla con las Normas Oficiales Mexicanas r
 
 XVII. Ejecutar la obra pública que le corresponda para la prestación de los servicios públicos a que se refiere esta Ley;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-XVIII. Solicitar a las autoridades correspondientes la expropiación, ocupación temporal, parcial o total de bienes o la limitación de los derechos de dominio, en los términos de la ley aplicable; y
+XVIII. Solicitar a las autoridades correspondientes la expropiación, ocupación temporal, parcial o total de bienes o la limitación de los derechos de dominio, en los términos de la ley aplicable;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-XIX. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos.
+XIX. Participar de las políticas de Gobierno Digital que se establezcan por parte de la Comisión Estatal de Gobierno Digital;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XX. Dar seguimiento al desarrollo de las políticas de Gobierno Digital aplicables a la Comisión y que serán establecidas por la Comisión Estatal de Gobierno Digital;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXI. Presentar ante la Comisión Estatal de Gobierno Digital, el Programa Anual de Desarrollo Tecnológico conforme a las bases y lineamientos que se mencionan en la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXII. Las demás atribuciones que le confieran esta Ley y otros ordenamientos jurídicos.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -451,13 +463,17 @@ VI. Asistir en carácter de Secretario de Actas y Acuerdos, a las reuniones del 
 
 VII. Someter a la aprobación del Órgano de Gobierno las propuestas de las contribuciones y productos que la Comisión deba cobrar;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-VIII. Representar legalmente a la Comisión; y
+VIII. Representar legalmente a la Comisión;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-IX. Las demás atribuciones que le confieran esta Ley, convenios, acuerdos y demás ordenamientos legales.
+IX. Supervisar que las políticas y lineamientos en materia de Gobierno Digital sean implementadas conforme a los criterios establecidos por la Comisión Estatal de Gobierno Digital; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+X. Las demás atribuciones que le confieran esta Ley, convenios, acuerdos y demás ordenamientos legales.
 
 ### CAPÍTULO III. DE LOS ORGANISMOS OPERADORES
 
@@ -551,9 +567,25 @@ XXX. Formular y mantener actualizado el inventario de bienes y recursos que inte
 
 XXXI. Promover el desarrollo de la investigación científica para la preservación, protección y restauración del agua en cantidad y calidad para su aprovechamiento sustentable y uso racional y para la incorporación, en la prestación de los servicios hídricos, de procedimientos y tecnologías orientadas a su uso eficiente y conservación;
 
-XXXII. Proporcionar a la Comisión la información necesaria para la integración y actualización del Sistema Estatal de Información de Agua; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-XXXIII. Las demás que le señale esta Ley y otras disposiciones normativas aplicables.
+XXXII. Proporcionar a la Comisión la información necesaria para la integración y actualización del Sistema Estatal de Información de Agua;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXXIII. Participar de las políticas de Gobierno Digital que se establezcan por parte de la Comisión Estatal de Gobierno Digital;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXXIV. Dar seguimiento al desarrollo de las políticas de Gobierno Digital aplicables al Organismo Operador correspondiente y que serán establecidas por la Comisión Estatal de Gobierno Digital;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXXV. Presentar ante la Comisión Estatal de Gobierno Digital, el Programa Anual de Desarrollo Tecnológico conforme a las bases y lineamientos que se mencionan en la ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXXVI. Las demás que le señale esta Ley y otras disposiciones normativas aplicables.
 
 ###### Artículo 24.
 
@@ -613,9 +645,17 @@ II. La administración, operación y mantenimiento total o parcial de los sistem
 
 III. El diseño, construcción, ampliación, supervisión, operación, mantenimiento, vigilancia y control de obras de los sistemas hídricos y proyectos relacionados con los Servicios Públicos, incluyendo su financiamiento;
 
-IV. La gestión para la eficiencia administrativa y comercial; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-V. Las demás actividades que convengan con los Prestadores de Servicios Públicos para el cumplimiento de las obligaciones que les asigna esta Ley.
+IV. La gestión para la eficiencia administrativa y comercial;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+V. La prestación de servicios, diseño, arquitectura y construcción de esquemas electrónicos para permitir la implementación del Gobierno Digital dentro del Organismo Operador; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VI. Las demás actividades que convengan con los Prestadores de Servicios Públicos para el cumplimiento de las obligaciones que les asigna esta Ley.
 
 ###### Artículo 31.
 
@@ -713,7 +753,9 @@ Los Prestadores de Servicios Públicos no estarán obligados a prestar los Servi
 
 II. Que los propietarios, los poseedores y en general las personas que por cualquier título tengan derechos de disposición o administración sobre los inmuebles de los que se trate, acrediten en términos de las disposiciones legales aplicables, contar con facultades suficientes para la realización del trámite de factibilidad; y
 
-III. Que se presente solicitud por escrito que contenga:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+III. Que se presente solicitud escrita o electrónica que contenga:
 
 a. Nombre y domicilio del solicitante;
 
@@ -735,7 +777,23 @@ i. Proyecto de construcción y plano de ubicación de la infraestructura hídric
 
 j. Los demás que establezcan el Prestador de Servicios Públicos para el caso en particular, de conformidad con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+En el caso de que se presente la solicitud y los documentos vía electrónica, el responsable del trámite si lo considera necesario y, en caso de tener un motivo fundado de que se traten de documentos falsos, deberá requerir al solicitante para que (sic) un plazo no mayor a cinco días acuda al local del Organismo Operador para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se presentaron documentos falsos, ya sea físicos o electrónicos, el representante del Organismo Operador correspondiente deberá dar vista a la autoridad competente para que conforme a sus atribuciones proceda a la investigación respectiva.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 Los Prestadores de Servicios Públicos a fin de resolver sobre el otorgamiento de la factibilidad deberán considerar la viabilidad de prestar los Servicios Públicos.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 37 Bis.
+
+Los Organismos Operadores podrán celebrar convenios de colaboración con las dependencias y entidades que se encarguen de emitir los documentos establecidos en la fracción III del artículo anterior, para que se puedan consultar sus bases de datos y se pueda realizar el cotejo de los documentos electrónicos otorgados por el solicitante.
 
 ###### Artículo 38.
 
@@ -831,7 +889,9 @@ I. Que el inmueble cuente con la factibilidad de conformidad con lo dispuesto po
 
 II. Que sea solicitada por cualquiera de las personas obligadas de conformidad con lo dispuesto en el artículo 44 de esta Ley;
 
-III. Presentar solicitud por escrito que contenga:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+III. Presentar solicitud por escrito o electrónicamente que contenga:
 
 a. Nombre y domicilio del solicitante;
 
@@ -849,6 +909,14 @@ g. Manifestación del Usuario solicitante en el sentido de que se conduce bajo p
 
 Cuando la solicitud de los servicios no reúna alguno de los requisitos señalados, se prevendrá a los interesados para que lo satisfagan dentro del término de diez días, transcurrido dicho plazo sin que los interesados subsanen sus omisiones, se les tendrá por desistidos de su petición.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+En el caso de que se presente la solicitud y los documentos vía electrónica, el responsable del trámite si lo considera necesario y, en caso de tener un motivo fundado de que se traten de documentos falsos, deberá requerir al solicitante para que (sic) un plazo no mayor a cinco días acuda al local del Organismo Operador para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se presentaron documentos falsos, ya sea físicos o electrónicos, el representante del Organismo Operador correspondiente deberá dar vista a la autoridad competente para que conforme a sus atribuciones proceda a la investigación respectiva.
+
 IV. Que la infraestructura al interior de los inmuebles cumpla con los requisitos y parámetros a que se refiere esta Ley y con los criterios que al efecto emita el Prestador de Servicios Públicos.
 
 Los muebles de baño, regaderas, llaves, tuberías y demás accesorios sanitarios necesarios para la infraestructura hídrica al interior de los inmuebles en los que se presten los Servicios Públicos, deberán reunir los requisitos técnicos especificados por las Normas Oficiales Mexicanas correspondientes.
@@ -858,6 +926,12 @@ Los Usuarios deberán utilizar equipos de filtración, purificación y recircula
 V. Que tratándose de tomas para uso temporal o provisional, se efectúe un pago adelantado en base a los criterios de estimación presuntiva previstos en el artículo 112 de esta Ley que le resulten aplicables; y
 
 VI. Los demás que establezca esta Ley y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 46 Bis.
+
+Los Organismos Operadores podrán celebrar convenios de colaboración con las dependencias y entidades que se encarguen de emitir los documentos establecidos en la fracción III del artículo anterior, para que se puedan consultar sus bases de datos y se pueda realizar el cotejo de los documentos electrónicos otorgados por el solicitante.
 
 ###### Artículo 47.
 
@@ -1461,11 +1535,15 @@ IX. En su caso, la mención de los adeudos pendientes de pago correspondientes a
 
 De contar con los medios para su procesamiento y análisis, los Prestadores de Servicios Públicos discrecionalmente podrán incluir en los mencionados recibos información que permita al Usuario conocer datos estadísticos sobre sus propios consumos, aquéllos correspondientes a su ubicación geográfica y cualquier otra información que los Prestadores de Servicios Públicos estimen conveniente.
 
-Dicha boleta se entregará al menos con seis días hábiles de anticipación a la fecha límite de pago, en el domicilio donde se prestan los Servicios Públicos. La falta de entrega de la boleta, no exime al Usuario del pago oportuno, pues en todo caso podrá consultar, en cualquier momento, ante el Prestador de Servicios Públicos, el monto de sus adeudos y la fecha límite del pago de éstos.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Dicha boleta se entregará al menos con seis días hábiles de anticipación a la fecha límite de pago, en el domicilio físico o electrónico otorgado por el solicitante de los Servicios Públicos. La falta de entrega de la boleta, no exime al Usuario del pago oportuno, pues en todo caso podrá consultar, en cualquier momento, ante el Prestador de Servicios Públicos, el monto de sus adeudos y la fecha límite del pago de éstos.
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 111.
 
-El pago de las contribuciones por los Servicios Públicos, así como de los productos derivados de dicha prestación de servicios públicos deberá realizarse en los lugares que para tal efecto indique la propia boleta o publicite el Prestador de Servicios Públicos, a más tardar en la fecha de vencimiento respectiva señalada para tal efecto.
+El pago de las contribuciones por los Servicios Públicos, así como de los productos derivados de dicha prestación de servicios públicos deberá realizarse en los lugares que para tal efecto indique la propia boleta o publicite el Prestador de Servicios Públicos, o en la página de Internet que se habilite para tal efecto, a más tardar en la fecha de vencimiento respectiva señalada para tal efecto.
 
 ###### Artículo 112.
 
@@ -1895,9 +1973,11 @@ Los interesados podrán hacer valer la caducidad por vía de acción o de excepc
 
 Contra los actos y resoluciones de los Prestadores de Servicios Públicos, el afectado podrá interponer el recurso administrativo de revisión.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 141.
 
-El recurso administrativo de revisión deberá ser interpuesto ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los diez días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto o resolución que se impugna y será resuelto por el superior jerárquico de aquél, salvo que se trate de combatir actos o resoluciones emitidas por los titulares de los Prestadores de Servicios Públicos que tengan la naturaleza de organismo público descentralizado, en cuyo caso, ellos mismos serán quienes lo resuelvan.
+El recurso administrativo de revisión deberá ser interpuesto ante la autoridad que emitió o ejecutó el acto impugnado de manera física o electrónica en el portal que para tal efecto se cree, dentro de los diez días hábiles siguientes a aquél en que haya surtido efectos la notificación del acto o resolución que se impugna y será resuelto por el superior jerárquico de aquél, salvo que se trate de combatir actos o resoluciones emitidas por los titulares de los Prestadores de Servicios Públicos que tengan la naturaleza de organismo público descentralizado, en cuyo caso, ellos mismos serán quienes lo resuelvan.
 
 ###### Artículo 142.
 
@@ -1919,9 +1999,11 @@ VII. Acompañar la constancia de notificación del acto o resolución impugnados
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, o el escrito sea confuso u obscuro, se requerirá, por una sola vez al recurrente para que en un plazo de tres días hábiles subsane la omisión o aclare su escrito; hecho lo cual, la autoridad de conocimiento, desechará o dará curso a la promoción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 143.
 
-Se notificarán personalmente al recurrente:
+Se notificarán personalmente de manera presencial o electrónica al recurrente:
 
 I. El desechamiento del recurso;
 
@@ -1929,7 +2011,9 @@ II. La resolución definitiva al mismo; y
 
 III. Los acuerdos que formulen requerimientos al promovente.
 
-Las demás actuaciones deberán notificarse por estrados.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Las demás actuaciones deberán notificarse por estrados y vía correo electrónico.
 
 ###### Artículo 144.
 
@@ -1971,9 +2055,11 @@ IV. Hayan cesado o en virtud de otro acto se hayan modificado los efectos del ac
 
 V. De las constancias del expediente apareciere claramente demostrado que no existe el acto reclamado, o cuando no se probare su existencia.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 147.
 
-La autoridad competente podrá ordenar diligencias para mejor proveer, así como solicitar los informes y pruebas que estime pertinentes y para el caso de que el recurrente acredite que los documentos ofrecidos como prueba obran en los archivos públicos, deberá solicitar copia certificada de los mismos en un plazo de cinco días hábiles antes de la presentación del recurso, si no le fueren expedidos, podrá solicitar a la autoridad competente que los requiera directamente a quien los tenga bajo su custodia, para que expida las copias certificadas solicitadas y las envíe a la autoridad de conocimiento.
+La autoridad competente podrá ordenar diligencias para mejor proveer, así como solicitar los informes y pruebas que estime pertinentes y para el caso de que el recurrente acredite que los documentos ofrecidos como prueba obran en los archivos públicos, deberá solicitar copia certificada de los mismos o copia a través de documento electrónico, en un plazo de cinco días hábiles antes de la presentación del recurso, si no le fueren expedidos, podrá solicitar a la autoridad competente que los requiera directamente a quien los tenga bajo su custodia, para que expida las copias certificadas o documentos electrónicos solicitados y los envíe a la autoridad de conocimiento.
 
 ###### Artículo 148.
 
@@ -2148,3 +2234,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El presente Decreto aplicará para los trámites que se hayan presentado con anterioridad y se encuentren en curso.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
