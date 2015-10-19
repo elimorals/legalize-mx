@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-76286"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-16"
-last_updated: "2015-07-28"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
@@ -61,9 +61,17 @@ IV. Normar las obligaciones que en materia de Catastro les corresponden a los pr
 
 V. Determinar y regular las formas, términos y procedimientos a que se sujetarán las operaciones catastrales que se realicen en el Estado;
 
-VI. Prever las infracciones a las disposiciones en materia catastral, así como sus sanciones; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-VII. Establecer la aclaración y el recurso administrativo de revisión en materia catastral.
+VI. Prever las infracciones a las disposiciones en materia catastral, así como sus sanciones;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VII. Establecer la aclaración y el recurso administrativo de revisión en materia catastral; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VIII. Establecer las formas en las que se podrán sustanciar los trámites y servicios que prestan las autoridades catastrales establecidas en esta Ley.
 
 ###### Artículo 3.
 
@@ -563,9 +571,11 @@ X. Censo catastral.
 
 ### CAPÍTULO II. DEL REGISTRO CATASTRAL
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-El Registro Catastral es aquél que contiene los datos gráficos, administrativos, estadísticos, legales y técnicos con que se inscribe un predio en el catastro.
+El Registro Catastral es aquél que contiene los datos físicos o electrónicos, gráficos, administrativos, estadísticos, legales y técnicos con que se inscribe un predio en el catastro.
 
 ###### Artículo 45.
 
@@ -619,9 +629,11 @@ Al inicio de la inspección, el personal acreditado para llevarla a cabo, deber�
 
 ### CAPÍTULO V. DE LA CARTOGRAFÍA CATASTRAL
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 54.
 
-Cartografía catastral es el conjunto de planos, mapas y bases de datos geográficas que contienen información relativa a los predios y su entorno. Su elaboración, clasificación, conservación y difusión, deberán sujetarse a las disposiciones que en la materia emita el Instituto.
+Cartografía catastral es el conjunto de planos, mapas y bases de datos geográficas físicos y electrónicos, que contienen información relativa a los predios y su entorno. Su elaboración, clasificación, conservación y difusión, deberán sujetarse a las disposiciones que en la materia emita el Instituto.
 
 ### CAPÍTULO VI. DE LA VALUACIÓN CATASTRAL
 
@@ -789,9 +801,11 @@ El ejercicio de la valuación en el Estado, por parte de los Peritos registrados
 
 Para los efectos de la presente Ley, la función de Perito Valuador consiste en determinar el valor comercial y la renta de predios, a través del avalúo o dictamen de arrendamiento correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 82.
 
-Los aspirantes a registrarse en el Padrón de Peritos Valuadores de Predios del Estado de Puebla, deberán presentar por escrito ante el Instituto la solicitud correspondiente y cumplir además los requisitos siguientes:
+Los aspirantes a registrarse en el Padrón de Peritos Valuadores de Predios del Estado de Puebla, deberán presentar por escrito o de manera electrónica ante el Instituto la solicitud correspondiente y cumplir además los requisitos siguientes:
 
 l. Tener cédula profesional de valuador de predios, arquitecto, ingeniero civil, agrónomo u otra profesión afín, expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública, y contar con la certificación del Instituto, asociación o colegio profesional de valuación comercial de predios al que pertenezca;
 
@@ -855,9 +869,11 @@ El ejercicio de las actividades de los Peritos Topógrafos registrados en el Pad
 
 Para los efectos de esta Ley, la función de Perito Topógrafo consiste en llevar a cabo levantamientos de predios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 93.
 
-Los aspirantes a registrarse en el Padrón de Peritos Topógrafos presentarán por escrito ante el Instituto, la solicitud correspondiente y deberán cumplir además los requisitos siguientes:
+Los aspirantes a registrarse en el Padrón de Peritos Topógrafos, presentarán por escrito o vía electrónica ante el Instituto, la solicitud correspondiente y cumplir además los requisitos siguientes:
 
 I. Tener cédula profesional de Ingeniero Topógrafo o Ingeniero Civil expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública;
 
@@ -983,6 +999,14 @@ III. Cuando exista error o diferencia en la superficie y medidas del predio.
 
 Para efectos de las aclaraciones a que se refiere el artículo anterior, los propietarios o poseedores de predios deberán presentar la documentación oficial en la que conste la información correcta.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Los documentos pueden ser presentados física o electrónicamente. Para el caso de la presentación de documentos electrónicos, las personas que entreguen documentos por esta vía, mencionarán bajo protesta de decir verdad, que los datos son verdaderos. Las dependencias deberán mencionar en el portal que para el efecto se cree, un aviso en el que se mencione que en caso de otorgar datos o documentación falsa, se dará vista a la autoridad competente, para que conforme a sus atribuciones proceda a la investigación respectiva.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Los funcionarios encargados de la recepción de los archivos de manera electrónica, deberán cotejar los instrumentos otorgados con los datos que se encuentren en las bases de datos de las dependencias con las que se haya celebrado un convenio de colaboración respectivo.
+
 ###### Artículo 106.
 
 La autoridad catastral estatal o municipal, atenderá y resolverá las aclaraciones de los propietarios o poseedores al momento de su recepción, salvo aquéllas que para substanciarlas requiera de la realización de alguna operación catastral, sin que ésta pueda exceder de un plazo de quince días, contados a partir de su admisión.
@@ -1005,9 +1029,11 @@ El Recurso Administrativo de Revisión, deberá agotarse antes de acudir a los T
 
 A falta de disposición expresa en esta Ley y en todo lo que no se oponga a la misma, para la substanciación y resolución del Recurso Administrativo de Revisión, será supletorio el Código Fiscal del Estado, el Código Fiscal Municipal del Estado y el Código Fiscal y Presupuestario para el Municipio de Puebla, según la autoridad que deba conocer del mismo y a falta de éstos, la legislación de derecho común.
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 110.
 
-El Recurso Administrativo de Revisión deberá ser presentado por escrito ante la autoridad catastral que emitió el acto o la resolución que se impugne, dentro del término de quince días hábiles siguientes a aquél en que se hubiere emitido o haya surtido efectos la notificación del mismo.
+El Recurso Administrativo de Revisión deberá ser presentado por escrito o electrónicamente ante la autoridad catastral que emitió el acto o la resolución que se impugne, dentro del término de quince días hábiles siguientes a aquél en que se hubiere emitido o haya surtido efectos la notificación del mismo.
 
 ###### Artículo 111.
 
@@ -1074,6 +1100,10 @@ En caso de que no exista prueba pendiente de desahogarse, el área encargada de 
 ###### Artículo 117.
 
 La resolución será definitiva y se notificará personalmente al recurrente o a las personas que haya autorizado para tales efectos, a la autoridad que dictó el acto o la resolución impugnada y a las otras autoridades que deban conocerla conforme a sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+La notificación personal de la resolución aludida en el párrafo anterior, puede practicarse en el domicilio físico o dirección electrónica que el recurrente señale en su escrito inicial.
 
 ###### Artículo 118.
 
@@ -1192,3 +1222,9 @@ SEGUNDO. El Ejecutivo Estatal realizará las modificaciones que resulten necesar
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO. Todo trámite que se haya iniciado o se encuentre en proceso a la Entrada en vigor del presente Decreto, deberá continuar tramitándose de acuerdo a las disposiciones legales y normatividad vigentes al momento de iniciarse.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
