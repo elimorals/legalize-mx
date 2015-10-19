@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2015-08-28"
+last_updated: "2015-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -136,6 +136,10 @@ Sin perjuicio de las atribuciones que éste u otros ordenamientos confieran a la
 ###### ARTÍCULO 9.
 
 El Gobernador del Estado, podrá convenir con los Poderes de la Federación, con los Poderes de otros Estados, con los Ayuntamientos y Órganos Constitucionalmente Autónomos, la prestación de servicios públicos, la ejecución de obras o la realización de cualquier otro propósito de beneficio colectivo.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+El Gobernador del Estado podrá proponer a los sujetos con los que se convenga la prestación de un trámite o servicio, que este se pueda solicitar totalmente en línea, siguiendo las bases y lineamientos que establezcan la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios, sus respectivos reglamentos, así como la Comisión Estatal de Gobierno Digital.
 
 ###### ARTÍCULO 10.
 
@@ -785,9 +789,9 @@ LXXVII.- Mantener asegurados los bienes que conforman el patrimonio del Gobierno
 
 LXXVIII.- Autorizar la transferencia del uso, disposición de baja y destino final de los bienes muebles propiedad de la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-LXXIX.- Coordinar las acciones necesarias a efecto de cumplir con lo dispuesto en la Ley de Medios Electrónicos del Estado;
+LXXIX.- Coordinar y ejecutar las acciones establecidas por la Comisión Estatal de Gobierno Digital y la Ley de Gobierno Digital para el Estado de Puebla y sus Municipios, así como en su Reglamento y en otras disposiciones de la materia;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -801,13 +805,17 @@ LXXXI.- Establecer la normatividad, lineamientos y demás disposiciones administ
 
 LXXXII.- Supervisar directamente o por terceros los servicios de instalación, apoyo preventivo, mantenimiento y de soluciones correctivas en materia de tecnologías de la información, redes de voz, datos y video, equipos de cómputo, servidores, y software;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-LXXXIII.- Establecer las normas, lineamientos y controles para el diseño y registro del Sistema Estatal de Información Ciudadana, que contendrá el inventario de los servicios al público que prestan las Dependencias y Entidades del Gobierno del Estado y llevar a cabo su implantación, difusión y vigilancia;
+LXXXIII.- Administrar, implementar y difundir el Registro de Trámites y Servicios Estatales y Municipales, que contendrá el inventario de los trámites y servicios al público que prestan las dependencias y las entidades de la Administración Pública Estatal y Municipal, asimismo deberá tomar las medidas de seguridad pertinentes para el mantenimiento y protección del portal que para tal efecto se cree;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-LXXXIV.- Planear, organizar y coordinar el Sistema de Desarrollo de la Administración Pública Estatal, así como establecer las políticas, planes, programas y lineamientos en materia de desempeño y desarrollo administrativo, así como mejora regulatoria y desregulación en la Administración Pública Estatal;
+LXXXIII BIS.- Administrar, implementar y difundir el Registro Único de Personas Acreditadas, que contendrá datos personales de las personas que pretendan gestionar trámites y servicios en línea, asimismo deberá tomar las medidas de seguridad pertinentes para el mantenimiento y protección del portal y de los datos personales otorgados;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+LXXXIV.- Planear, organizar y coordinar el Sistema de Desarrollo de la Administración Pública Estatal, así como establecer las políticas, planes, programas y lineamientos en materia de desempeño y desarrollo administrativo, así como mejora regulatoria y desregulación en la Administración Pública Estatal y Municipal;
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -2550,3 +2558,9 @@ SÉPTIMO. El Ejecutivo del Estado expedirá las modificaciones al Reglamento de 
 OCTAVO. En tanto no se realicen las reformas a que se refiere el artículo anterior, la Secretaría de Infraestructura y Transportes, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan (sic) el sentido del presente Decreto.
 
 NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
