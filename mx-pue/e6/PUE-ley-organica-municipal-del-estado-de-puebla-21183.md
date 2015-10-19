@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2015-08-22"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -833,21 +833,33 @@ Son vecinos de un Municipio las personas físicas que residen en cualquier lugar
 
 Transcurrido el plazo señalado en el artículo anterior, se tendrá como lugar del domicilio del vecino, el de su residencia, a menos que dentro de los quince días siguientes al vencimiento de aquél, declare tanto a la autoridad municipal del lugar en que anteriormente residiera, como a la autoridad municipal de su nueva residencia, que no desea perder su antiguo domicilio y adquirir uno nuevo, pero esta declaración no producirá efectos en perjuicio de terceros.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+###### ARTÍCULO 40 Bis.
 
-ARTÍCULO 40 BIS.- Para acreditar la calidad de vecino, los ayuntamientos expedirán la constancia de vecindad, a solicitud del interesado y previo pago de los derechos que al efecto establezcan los ordenamientos correspondientes. A la solicitud, deberá acompañarse:
+Para acreditar la calidad de vecino, los ayuntamientos expedirán la Constancia de Vecindad, a solicitud del interesado, quién podrá promoverla personalmente o por vía electrónica, previo pago de los derechos establecido (sic) en los ordenamientos correspondientes. Para la expedición de la constancia de vecindad, se deberán adjuntar los siguientes documentos:
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 I.- Copia o extracto certificado del acta de nacimiento, carta de naturalización, certificado de nacionalidad, o en su caso, del documento vigente con el que acredite su estancia legal en el país;
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 II.- Copia de identificación oficial con fotografía;
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 Para el caso de que el solicitante no cuente con documentos que acrediten su identidad, podrá presentar dos testigos de la misma y que sean vecinos cercanos a su domicilio.
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 III.- Dos fotografías recientes; y
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 IV.- Comprobante de domicilio que acredite la residencia de por lo menos seis meses anteriores a la fecha de la solicitud.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 La autoridad municipal podrá, en términos de la normatividad que al efecto emita, realizar visitas domiciliarias para verificar la información proporcionada por el solicitante o requerir de cualquier otro documento complementario a fin de confirmar la identidad y residencia del solicitante.
 
@@ -1473,13 +1485,17 @@ LXIII.- Actualizar sus marcos normativos de conformidad con sus atribuciones;
 
 LXIV.- Formular y conducir la política municipal sobre conservación y aprovechamiento sustentable de la vida silvestre en el Municipio, además de las atribuciones que le otorgue la Ley de Protección a los Animales para el Estado de Puebla;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-LXV.- Otorgar, previos requisitos de ley, las licencias o permisos provisionales para venta y suministro de bebidas alcohólicas; y
+LXV.- Otorgar, previos requisitos de ley, las licencias o permisos provisionales para venta y suministro de bebidas alcohólicas;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-LXVI.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+LXVI.- Implementar el uso y aprovechamiento de las tecnologías de la información, a través de la política de Gobierno Digital establecida por la Comisión Estatal de Gobierno Digital, la Ley y el Reglamento de la materia, así como en los convenios celebrados por el Municipio en temas de mejora regulatoria; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+LXVII.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -1598,6 +1614,16 @@ Los Ayuntamientos deberán aprobar y publicar dentro de los 90 días siguientes 
 Las mismas disposiciones serán observadas para el caso de que sea necesario hacer una reforma o adición a cualesquiera de los ordenamientos aprobados por el Ayuntamiento respectivo.
 
 Los Ayuntamientos deberán de difundir en el territorio del Municipio, de manera constante y para su mejor cumplimiento, la normatividad que regule el funcionamiento y fines de la Administración Pública Municipal, así como otros documentos de importancia; para tal fin podrán contar con un órgano de difusión llamado Gaceta Municipal.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 89 Bis.
+
+La Gaceta Municipal podrá ser publicada de manera impresa y/o electrónica, de acuerdo a la infraestructura informática y posibilidades con las que cuente el Municipio.
+
+Para la difusión de la publicación impresa, el Ayuntamiento deberá establecer la forma en la que esta será distribuida.
+
+Para las versiones electrónicas, estas deberán estar disponibles en la Página de Internet del Ayuntamiento correspondiente.
 
 ### CAPÍTULO VIII. DE LAS FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES Y DE LOS REGIDORES
 
@@ -3401,7 +3427,13 @@ Se deberá vigilar que se respeten los derechos humanos de los infractores, poni
 
 El recurso de inconformidad procede contra actos y acuerdos del Presidente Municipal, del Ayuntamiento, de sus dependencias, de los Presidentes de las Juntas Auxiliares y de las Juntas Auxiliares, salvo que contra dichos actos exista otro medio de impugnación previsto en las leyes o reglamentos aplicables, o que el ordenamiento de la materia establezca que contra dichos actos no procede recurso alguno.
 
-Al procedimiento establecido en el presente Capítulo se aplicarán supletoriamente las disposiciones establecidas en el Código de Procedimientos Civiles para el Estado.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+El recurso de inconformidad puede ser presentado vía presencial o electrónica, de acuerdo a la infraestructura tecnológica con la que cuente el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Al procedimiento establecido en el presente Capítulo se aplicarán supletoriamente, en lo conducente, las disposiciones establecidas en el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 253.
 
@@ -3429,7 +3461,9 @@ VI.- Expresar los agravios que le causan, así como argumentos de derecho en con
 
 VII.- Ofrecer las pruebas que estime pertinentes relacionándolas con los hechos que se mencionen; y
 
-VIII.- Firma del recurrente.
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VIII.- Firma autógrafa o electrónica del recurrente, según el caso.
 
 ###### ARTÍCULO 256.
 
@@ -3444,6 +3478,26 @@ III.- La constancia de notificación del acto impugnado, o la manifestación baj
 IV.- Las pruebas que se ofrezcan; y
 
 V.- Copias para correr traslado, en caso de existir tercero perjudicado.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si el escrito se interpone vía electrónica los documentos referidos en las fracciones anteriores, deberán presentarse en formato digital.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se tiene un motivo fundado de que los documentos anexados son falsos, la autoridad correspondiente deberá requerir al interesado para que un plazo no mayor a cinco días acuda a la oficina correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Si se presentaron documentos falsos, ya sean físicos o electrónicos, el titular de la autoridad responsable deberá dar vista a la autoridad competente, para que conforme a sus atribuciones proceda a la investigación respectiva.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+###### ARTÍCULO 256 Bis.
+
+Para el caso de la presentación del recurso vía electrónica, el recurrente deberá otorgar una dirección de correo electrónico para que pueda oír y recibir todo tipo de notificaciones y documentos.
+
+Las notificaciones personales podrán ser realizadas a través del correo electrónico otorgado por el promovente, surtiendo los mismos efectos que si se realizaran de manera presencial.
 
 ###### ARTÍCULO 257.
 
@@ -3788,6 +3842,12 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE AGOSTO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
