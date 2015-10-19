@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-consejo-estatal-electoral-de-sinaloa-39
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-02"
-last_updated: "2014-01-08"
+last_updated: "2015-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL CONSEJO ESTATAL ELECTORAL DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 19 DE OCTUBRE DE 2015, LAS DISPOSICIONES DEL PRESENTE ORDENAMIENTO HAN SIDO DEROGADAS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 2 de junio de 2004.
 
@@ -308,7 +310,7 @@ La votación económica se desarrollará de la siguiente manera:
 
 a).- Una vez que el Presidente pregunte si el punto a votar está lo suficientemente discutido, el Presidente solicitará al Secretario del Consejo, que proceda a preguntar primeramente si están “a favor” o “en contra” de la propuesta sometida a su consideración, debiendo los Consejeros levantar la mano para manifestar su determinación.
 
-b).- se (sic) tomará primero los que estén a favor y en seguida los que estén en contra, por último, si hay alguna abstención. El secretario del Consejo, tomará nota de la votación y dará a conocer en voz alta los resultados.
+b).- se tomará primero los que estén a favor y en seguida los que estén en contra, por último, si hay alguna abstención. El secretario del Consejo, tomará nota de la votación y dará a conocer en voz alta los resultados.
 
 ###### ARTICULO 36.
 
@@ -456,7 +458,7 @@ k).- Las demás que le confiera el Consejo.
 
 Son facultades y obligaciones de los Consejeros Ciudadanos, además de las (sic) otorgados por la Ley electoral, las siguientes:
 
-a).- Asistir puntualmente a las sesiones (sic) que fueron convocados.
+a).- Asistir puntualmente a las sesiones que fueron convocados.
 
 b).- Comunicar oportunamente al Presidente del Consejo Estatal sobre sus inasistencias a las sesiones del pleno.
 
@@ -1405,3 +1407,19 @@ PRIMERO. Las presentes modificaciones y adiciones al reglamento entrarán en vig
 SEGUNDO. Notifíquese el presente Acuerdo a los partidos políticos, en los domicilios que tienen señalados ante este órgano electoral; y por estrados, salvo que estuviera en el supuesto del artículo 239 de la Ley Electoral del Estado de Sinaloa.
 
 TERCERO. Publíquese el presente Acuerdo en el Periódico Oficial “El Estado de Sinaloa”
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente reglamento entrará en vigor a partir de su aprobación.
+
+SEGUNDO. Publíquese en el periódico oficial “El Estado de Sinaloa”.
+
+TERCERO. Las disposiciones del presente reglamento derogan las contenidas en el reglamento anterior expedido mediante acuerdo EXT/12/030, aprobado en la duodécima sesión extraordinaria celebrada el día cuatro de diciembre de dos mil trece, publicado en el periódico oficial “El Estado de Sinaloa”, el ocho de enero de dos mil catorce.
+
+CUARTO. Las y los Consejeros Electorales que integren el Comité de Adquisiciones, por única ocasión durarán en su cargo un año tres meses, por lo que deberá quedar integrado a más tardar la segunda quincena del mes de octubre de 2015; en tanto que los posteriores serán nombrados por un ejercicio fiscal completo.
+
+QUINTO. La ratificación del titular de la Contraloría Interna del Instituto, por única ocasión, se hará una vez aprobado el presente Reglamento y a partir de ese momento iniciará el periodo de duración de su encargo.
+
+SEXTO. La designación de las y los integrantes de los comités de Adquisiciones e Información del Instituto, se hará una vez aprobado el presente Reglamento.
