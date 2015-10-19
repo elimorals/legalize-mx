@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2015-09-01"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -336,6 +336,10 @@ V.- La demás información que estime procedente.
 Además de la información anterior, la Comisión Permanente se encuentra obligada a realizar la entrega del Diario de Debates y las actas levantadas con motivo de las Sesiones del Pleno y de la misma;
 
 Los Órganos Técnicos Administrativos deberán realizar la entrega-recepción en términos de lo que establezca el Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Los Órganos Legislativos y los Órganos de Representación darán preferencia al uso de medios electrónicos para el uso, tratamiento y transmisión de la documentación mencionada en el presente artículo.
 
 ###### ARTÍCULO 33.
 
@@ -1413,6 +1417,10 @@ La recepción de documentos se realizará por la Secretaría General en días y 
 
 En su caso, el Presidente de la Mesa Directiva o el de la Comisión Permanente, mediante acuerdo, podrán habilitar días y horas distintos a los señalados.
 
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Las iniciativas podrán presentarse vía electrónica a través del órgano técnico del Congreso. La iniciativa presentada vía electrónica deberá ser firmada electrónicamente por quien o quienes la suscriban.
+
 ###### ARTÍCULO 139.
 
 Antes de dar trámite a la documentación que se presente para iniciar el Proceso Legislativo, el Presidente de la Mesa Directiva o el Presidente de la Comisión Permanente, en un plazo no mayor de cinco días hábiles, contados a partir de su recepción en el Órgano Legislativo correspondiente, revisará el cumplimiento de los requisitos formales y si faltara alguno de ellos deberá requerirlos mediante notificación en estrado.
@@ -1421,9 +1429,11 @@ Antes de dar trámite a la documentación que se presente para iniciar el Proces
 
 Cuando a juicio del Presidente de la Mesa, el Pleno deba resolver dos o más asuntos que por su naturaleza permitan el debate y la votación en forma conjunta, podrá ordenar su acumulación.
 
-###### ARTÍCULO 141.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-El expediente oficial de todo proceso legislativo, deberá contener:
+###### Artículo 141.
+
+El expediente oficial de todo proceso legislativo deberá ser físico y/o electrónico, en lo conducente, de acuerdo a la forma en la que fue presentada la iniciativa y, deberá contener:
 
 I.- El original autógrafo de la iniciativa que le dio origen;
 
@@ -1435,7 +1445,9 @@ IV.- El acuerdo de admisión del trámite;
 
 V.- Certificación del extracto del acta de la sesión;
 
-VI.- El acuerdo de turno a la Comisión dictaminadora;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VI.- El acuerdo de turno a la Comisión o Comisiones dictaminadoras;
 
 VII.- Todos los documentos relativos al estudio y análisis de la materia del asunto;
 
@@ -1493,7 +1505,9 @@ III.- Texto legislativo que se propone;
 
 IV.- La iniciativa deberá especificar si se trata de reformas, adiciones, derogaciones o bien, si es la propuesta de una nueva Ley;
 
-V.- Nombre y firma autógrafa de quien la promueve;
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+V.- Nombre y firma autógrafa y, en su caso, firma electrónica de quien o quienes la suscriban;
 
 VI.- Artículos Transitorios; y
 
@@ -1531,9 +1545,11 @@ En caso de que la Comisión no haya analizado la iniciativa correspondiente, qui
 
 Si una iniciativa es dictaminada improcedente, el acta de la Sesión de la Comisión correspondiente deberá contener los razonamientos fundamentales que motivaron su resolución.
 
-###### ARTÍCULO 154.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-Los dictámenes deberán presentarse por escrito y reunir los siguientes requisitos:
+###### Artículo 154.
+
+Los dictámenes deberán presentarse por escrito físico y en medio electrónico y reunir los requisitos siguientes:
 
 I.- Nombre de la Comisión General, número de dictamen y fecha de emisión del dictamen;
 
@@ -1586,6 +1602,10 @@ La Legislatura sesionará cuantas veces sea necesario, a fin de desahogar los as
 ###### ARTÍCULO 159.
 
 Todas las sesiones del Pleno serán por regla general públicas, excepto las que deban considerarse secretas por esta Ley y su Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+Las sesiones públicas podrán ser transmitidas al público, a través de los medios que la Mesa Directiva considere pertinentes, dando preferencia a los medios electrónicos establecidos por el Congreso del Estado.
 
 ###### ARTÍCULO 160.
 
@@ -2422,6 +2442,12 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 1 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
