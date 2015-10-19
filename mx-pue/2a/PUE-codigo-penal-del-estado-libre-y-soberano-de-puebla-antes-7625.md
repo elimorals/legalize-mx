@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2015-07-15"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3005,9 +3005,17 @@ VI.- Redactando un documento en términos que cambien la convención celebrada, 
 
 VII.- Añadiendo o alterando cláusulas o declaraciones o asentando como ciertos, hechos falsos, o como confesados los que no lo están, si el documento en que se asientan se extendiere para hacerlos constar y como prueba de ellos;
 
-VIII.- Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de los requisitos legales, suponiendo falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación substancial; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-IX.- Alterando un perito traductor el contenido de un documento, al traducirlo o descifrarlo.
+VIII.- Expidiendo un testimonio supuesto de documentos que no existen; dándolo de otro existente que carece de los requisitos legales, suponiendo falsamente que los tiene; o de otro que no carece de ellos, pero agregando o suprimiendo en la copia algo que importe una variación substancial;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+IX.- Alterando un perito traductor el contenido de un documento, al traducirlo o descifrarlo; y
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+X.- Enviando o adjuntando documentación falsa en formatos digitales a los órganos del Estado, para llevar a cabo la sustanciación de trámites y servicios, a través de los portales transaccionales que son creados para tal efecto.
 
 ###### Artículo 251.
 
@@ -6264,3 +6272,9 @@ PRIMERO. El presente Decreto, entrará en vigor a los quince días naturales sig
 SEGUNDO. Todos los asuntos que se encuentren en etapa de averiguación previa, instrucción, juicio o ejecución, o en etapa de investigación, intermedia o de juicio, según sea el caso del sistema penal en que se lleven a cabo, por delitos relacionados con el presente Decreto, seguirán rigiéndose por las normas vigentes al momento de la realización del hecho delictuoso.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
