@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2015-07-29"
+last_updated: "2015-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -374,6 +374,10 @@ Para efectos de lo establecido en el párrafo anterior, la Comisión para el Acc
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2010)</small>
 
 La Comisión, se integrará y funcionará en los términos que establezca la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VII Bis.- Establecer los medios y herramientas a través de las cuales se facilita el acceso a los particulares al uso del Gobierno Digital teniendo el derecho de solicitar trámites y servicios por los medios electrónicos que al efecto se habiliten, garantizando en todo momento la protección de sus datos y el acceso a la información pública referentes a las peticiones que se formulen;
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
 
@@ -1067,6 +1071,10 @@ XXVII.- Expedir leyes para hacer efectivas las anteriores facultades y todas las
 
 Las leyes que regulen la organización y el funcionamiento del Sistema de Justicia Penal, observarán los principios, derechos y garantías previstos por la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2015)</small>
+
+XXVII Bis.- Expedir leyes que establezcan las bases y lineamientos que deberán seguir las políticas públicas que instituya el Estado y los Municipios en materia de Gobierno Digital;
+
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2009)</small>
 
 XXVIII.- Aprobar las leyes de ingresos de los Municipios, así como las zonas catastrales y las tablas de valores unitarios de suelo y construcción, que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria de los Municipios.
@@ -1389,9 +1397,9 @@ XXI.- Nombrar y recibir la protesta de los funcionarios y empleados públicos cu
 
 XXII.- Conocer de las licencias y renuncias de los funcionarios y empleados a quienes nombre, en los casos en que esta Constitución o las leyes no dispongan otra cosa.
 
-(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2015)</small>
 
-XXIII.- Establecer un sistema de modernización administrativa, así como promover el constante perfeccionamiento de la Administración Pública, de acuerdo con las necesidades y recursos de la Entidad.
+XXIII.- Establecer un sistema de modernización administrativa, así como promover el constante perfeccionamiento de la Administración Pública y el uso de tecnologías de la información, de acuerdo con las necesidades y recursos de la Entidad, para el mejor despacho de los servicios públicos que prestan las dependencias y entidades;
 
 (ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 20 DE FEBRERO DE 2002)
 
@@ -1883,7 +1891,9 @@ i) Celebrar convenios para la administración y custodia de las zonas federales.
 
 V.- Los Ayuntamientos sólo podrán contratar empréstitos sujetándose a las disposiciones que dicte el Congreso, conforme a la fracción VIII del artículo 57 de esta Constitución.
 
-VI.- (DEROGADA, P.O. 5 DE MARZO DE 2001)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2015)</small>
+
+VI.- Los Ayuntamientos deberán observar en todo momento las disposiciones relativas al Gobierno Digital, establecidas en las leyes de la materia, para la formulación de las políticas públicas relativas al uso de medios electrónicos para llevar a cabo los trámites y prestar los servicios de su competencia;
 
 VII.- Las fuerzas de seguridad del Estado y de los Municipios se auxiliarán recíprocamente.
 
@@ -3214,3 +3224,11 @@ TERCERO.- La celebración de elecciones locales que se verifiquen en 2018, se ll
 CUARTO.- La reforma a los artículos 37 y 102 de esta Constitución será aplicable a los diputados y ayuntamientos que sean electos a partir del proceso electoral de 2018.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
