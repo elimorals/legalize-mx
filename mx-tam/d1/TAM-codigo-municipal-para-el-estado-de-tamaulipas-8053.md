@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2015-07-07"
+last_updated: "2015-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -647,9 +647,13 @@ L.- Designar representantes que participen en el Consejo de Armonización Contab
 
 LI.- Diseñar el sistema de evaluación del desempeño a nivel municipal, a través de la dependencia que designe.
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2015)</small>
 
-LII.- Las demás que determina este Código o cualquier otra ley y sus reglamentos.
+LII.- Cumplir con las atribuciones que le confieren a los municipios la Ley General de Víctimas, así como la Ley de Protección a las Víctimas para el Estado de Tamaulipas.
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+
+LIII.- Las demás que determine este Código o cualquier otra ley y sus Reglamentos.
 
 ###### ARTICULO 50.
 
@@ -5826,6 +5830,12 @@ P.O. 13 DE JUNIO DE 2015.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
