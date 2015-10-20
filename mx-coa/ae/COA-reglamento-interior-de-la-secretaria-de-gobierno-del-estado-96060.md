@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-960
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-24"
-last_updated: "2013-09-24"
+last_updated: "2015-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de septiembre de 2013.
 
-RUBÉN IGNACIO MOREIRA VALDEZ, en ejercicio de las facultades que me confieren los artículos 82 tracción I, y 88 de la Constitución Política del Estado de Coahuila de Zaragoza, y artículo (sic) 6, 9 apartado A fracción I de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
+RUBÉN IGNACIO MOREIRA VALDEZ, en ejercicio de las facultades que me confieren los artículos 82 fracción I, y 88 de la Constitución Política del Estado de Coahuila de Zaragoza, y artículo (sic) 6, 9 apartado A fracción I de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza.
 
 C O N S I D E R A N D O.
 
@@ -1272,3 +1274,15 @@ EL SECRETARIO DE GOBIERNO
 ARMANDO LUNA CANALES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 20 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente reglamento interior entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Gobierno, sus reformas y adiciones, publicado en el Periódico Oficial del Gobierno del Estado de fecha 24 de Septiembre de 2013.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente reglamento.
+
+CUARTO.- Los manuales de organización precisarán lo no previsto en el presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
