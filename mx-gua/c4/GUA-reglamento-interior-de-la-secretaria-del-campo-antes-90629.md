@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-secretaria-del-campo-antes-90629"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-21"
-last_updated: "2015-09-29"
+last_updated: "2015-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL CAMPO -- ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROALIMENTARIO Y RURAL DEL ESTADO DE GUANAJUATO --. ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO DEL ESTADO DE GUANAJUATO --
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROALIMENTARIO Y RURAL DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO DE GUANAJUATO EL 20 DE OCTUBRE DE 2015.]</small>
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -109,9 +109,9 @@ b) Dirección General de Ganadería;
 
 c) Coordinación de Comercialización, Seguros y Financiamiento;
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 20 DE OCTUBRE DE 2015)
 
-d) Dirección de Promoción y Difusión de Mercados; y
+d) Coordinación de Promoción y Difusión de Mercados; y
 
 e) Coordinación de Capacitación Técnica.
 
@@ -533,17 +533,17 @@ V. Asesorar a los Municipios en la elaboración de planes de desarrollo rural in
 
 VI. Impulsar en coordinación con los Municipios e instancias correspondientes, la aplicación coordinada de recursos y programas institucionales orientados al desarrollo rural.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 20 DE OCTUBRE DE 2015)
 
-#### Sección Tercera. Dirección de Promoción y Difusión de Mercados
+#### Sección Tercera. Coordinación de Promoción y Difusión de Mercados
 
 Facultades
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 20 DE OCTUBRE DE 2015)
 
 ###### Artículo 23.
 
-La Dirección de Promoción y Difusión de Mercados tendrá las siguientes facultades:
+La Coordinación de Promoción y Difusión de Mercados tendrá las siguientes facultades:
 
 I. Realizar las acciones tendientes a la aplicación de recursos presupuestales de los tres niveles de gobierno en los programas de apoyo a los consejos municipales y regionales de desarrollo rural sustentable;
 
