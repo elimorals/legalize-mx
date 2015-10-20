@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2015-08-10"
+last_updated: "2015-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1567,13 +1567,17 @@ Son sujetos de este impuesto las personas físicas y morales que realicen las er
 
 La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal en términos del artículo 98 de este Código.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 101.
 
-Este impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base que señala el artículo anterior.
+Este impuesto se causará, liquidará y pagará aplicando la tasa del 3% sobre la base que señala el artículo anterior.
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En el supuesto de los Poderes a que hace mención la fracción XXIII, del artículo 2°, de este ordenamiento, así como en el caso de las Dependencias y Entidades de la administración pública estatal a que aluden las fracciones IV y VII del mismo, la tasa a que hace referencia este artículo, será del 3%. Lo recaudado en este caso queda exceptuado de lo señalado en los párrafos primero y segundo del artículo 105 de este Código.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 20 DE OCTUBRE DE 2015)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1721,15 +1725,35 @@ IV. Proporcionar a las autoridades fiscales, la información a la que se encuent
 
 V. Presentar ante la autoridad fiscal la información que contenga los datos de todas las personas que le prestaron servicios en el formato oficial en el mes de febrero del siguiente año.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 105.
 
-La recaudación total proveniente del impuesto a que se refiere este capítulo, se destinará como base de garantía liquida en el otorgamiento de créditos para las micro, pequeñas y medianas empresas y al financiamiento del gasto público en los rubros de obra pública e inversión de capital para salvaguardar la protección civil en una o varias regiones o zonas de la entidad.
+La recaudación total, proveniente del impuesto a que se refiere este capítulo, se destinará:
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2005)</small>
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
 
-Al efecto, el Gobierno del Estado constituirá un fideicomiso al que se destinará el 100% de la recaudación obtenida por este impuesto. El Comité Técnico del Fideicomiso se integrará paritariamente con representantes de los sectores público y privado de la entidad. En el Comité el Poder Ejecutivo y el sector privado tendrán igual número de representantes y se ajustarán en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado. Además estará facultado para conocer y, en su caso, aprobar y controlar los proyectos de obras y acciones públicas, así como fijar el monto destinado al otorgamiento de créditos que se sometan a su aprobación, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
+a) Como base de garantía líquida en el otorgamiento de créditos para las micro, pequeñas y medianas empresas;
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
+
+b) Para el financiamiento de obra pública;
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
+
+c) Para inversión de capital en materia de protección civil;
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
+
+d) Para el pago de deuda pública; y
+
+> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
+
+e) Para saneamiento financiero.
+
+> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2015)</small>
+
+En caso de que el Gobierno del Estado contrate financiamiento garantizándolo con el impuesto al que se refiere este Capítulo, la recaudación efectivamente ingresada del mismo, se destinará en primer término, a cubrir las obligaciones garantizadas con esta contribución, y el remanente del monto recaudado será destinado a un fideicomiso público. El Comité Técnico del fideicomiso público se integrará paritariamente con representantes de los sectores público y privado de la entidad. En el Comité el Poder Ejecutivo y el sector privado tendrán igual número de representantes y se ajustarán en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado. Además estará facultado para conocer y, en su caso, aprobar y controlar los proyectos de obras y acciones públicas, así como fijar el monto destinado al otorgamiento de créditos que se sometan a su aprobación, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el primer párrafo de este artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1747,103 +1771,83 @@ El Congreso podrá autorizar la afectación de un porcentaje de la recaudación 
 
 El Ejecutivo del Estado, al presentar la Cuenta Pública, exhibirá el informe pormenorizado que deberá rendir el Comité Técnico del Fideicomiso, sobre las metas fiscales y financieras que se alcanzaron en el año respecto de la aplicación de los recursos provenientes de este impuesto.
 
-### CAPÍTULO SEGUNDO. DEL IMPUESTO POR LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO SEGUNDO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 106.
 
-Es objeto de este impuesto la prestación de servicios de hospedaje proporcionados dentro del territorio del Estado, ya sea de manera permanente o temporal por hoteles, moteles, albergues, campamentos, posadas, hosterías, mesones, villas, bungalows, suites, paraderos de casas rodantes, casas de huéspedes y otros establecimientos de similar naturaleza, incluyendo los que prestan estos servicios bajo la modalidad de tiempo compartido.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 107.
 
-Para efectos de este impuesto, se entiende por prestación de los servicios de hospedaje, el otorgamiento de albergue o alojamiento a cambio de una contraprestación.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 108.
 
-Son sujetos de este impuesto las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, incluyendo las agencias; sucursales, cualquiera que sea la denominación que se le dé, aun cuando tengan su domicilio fiscal en lugar distinto al de la prestación del servicio.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 109.
 
-Los contribuyentes sujetos al pago de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios de hospedaje. Se entenderá por traslado del impuesto, el cobro o cargo que los contribuyentes sujetos de este impuesto efectúen a los usuarios del servicio de hospedaje por un monto equivalente al impuesto establecido en este capítulo.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-Tratándose de contribuyentes que de acuerdo con las disposiciones fiscales federales expidan comprobantes simplificados, formularán una factura global diaria que contenga el orden consecutivo de operaciones, el resumen total de las ventas diarias y el desglose por separado del Impuesto que se traslada por la Prestación de Servicios de Hospedaje.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 110.
 
-Es base de esta contribución el monto total de las contraprestaciones causadas por los servicios de hospedaje. Cuando los contribuyentes convengan en la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-En ningún caso se considera que el Impuesto al Valor Agregado forma parte de este impuesto.
-
-Tratándose de servicios prestados bajo el régimen de tiempo compartido, se tomará como base del impuesto el monto de las contraprestaciones que se reciban por concepto de hospedaje descritas en la factura o comprobante respectivo. Cuando no se desglose este concepto, se considerará como base del impuesto el monto total que se pague.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 111.
 
-El impuesto a que se refiere este capítulo, se causará al momento en que se hagan exigibles las contraprestaciones por los servicios de hospedaje.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 112.
 
-Este impuesto se pagará y determinará aplicando la tasa del 2% a la base gravable a que se refiere el artículo 110 de este Código.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 113.
 
-El 90% del ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará a la promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos un fideicomiso público que se encargará de administrarlos e invertirlos en dicho objetivo.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-El patrimonio de dicho fideicomiso podrá ser incrementado con las aportaciones que realicen el Gobierno del Estado, el Gobierno Federal a través de sus dependencias o entidades, los gobiernos municipales, los integrantes del sector hotelero de la entidad de manera directa o a través de sus organizaciones y en general los empresarios del sector turístico, así como los demás recursos que legalmente pueda procurarse para el cumplimiento de sus fines.
-
-> <small>(REFORMADO, G.O. 30 DE JUNIO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 114.
 
-Para los efectos del ejercicio de los recursos fideicomitidos se creará un Comité en el que participen representantes del sector público estatal, federal y del sector turístico y restaurantero del Estado.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-El Comité del Fideicomiso estará integrado por un representante del sector privado del ramo hotelero por cada una de las 7 regiones turísticas en que se divide el Estado de conformidad con la Ley de Turismo para el Estado de Veracruz de Ignacio de la Llave; un representante de la Cámara Nacional de la Industria Restaurantera (CANIRAC); un representante de las siguientes dependencias; de la Federación: la Secretaría de Turismo; del Gobierno Estatal: Secretaría de Turismo y Cultura, Secretaría de Finanzas y Planeación, un representante de la Contraloría General y el presidente de la Comisión Permanente de Turismo del Congreso del Estado de Veracruz de Ignacio de la Lave, todos tendrán voz y voto, excepto los dos últimos que únicamente contarán con voz. El representante de la Secretaría de Turismo y Cultura será quien resida el citado Comité del Fideicomiso. En ningún caso los representantes del sector público podrán ser mayoría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 115.
 
-Los contribuyentes de este impuesto estarán obligados a:
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
-I. Inscribirse en el registro estatal de contribuyentes, ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción en donde se encuentre el inmueble destinado a la prestación de servicios de hospedaje, dentro de los primeros 30 días siguientes en que se coloquen en la hipótesis de causación del impuesto, utilizando para tal efecto las formas oficiales aprobadas por la Secretaría.
-
-II. Trasladar a las personas usuarias del servicio de hospedaje el impuesto a que se refiere este capítulo, y enterarlo mediante declaración mensual definitiva a través de las formas autorizadas para tal efecto, ante las Oficinas de Hacienda del Estado, cobradurías o instituciones bancarias que autorice la Secretaría de la jurisdicción en donde se encuentre el inmueble destinado a la prestación de los servicios de hospedaje, a más tardar el día 17 del mes siguiente al de la causación del impuesto.
-
-La obligación de presentar declaración mensual definitiva de este impuesto subsistirá aun cuando no hubiese cantidad a cubrir.
-
-Cuando con posterioridad a la presentación de la declaración mensual de pago se modifique el importe de los actos reportados en dicha declaración como resultado de devoluciones o cancelaciones de los servicios de hospedaje que hubieren sido contratados, el contribuyente podrá optar por:
-
-a) Solicitar la devolución de las cantidades pagadas indebidamente.
-
-b) Compensar las cantidades que tengan a su favor contra el impuesto retenido y que deba enterarse en el siguiente mes. En este caso el contribuyente estará obligado a presentar, conjuntamente con la declaración mensual de pago, el aviso de compensación ante la Oficina de Hacienda de la jurisdicción en donde se encuentre el inmueble destinado a la prestación de los servicios de hospedaje.
-
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
-
-III. Presentar, ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos establecidos en el artículo 60 del presente Código; dentro del plazo de 15 días siguientes al en que ocurra cualquiera de estos supuestos.
-
-IV. Expedir facturas señalando en las mismas, además de los requisitos exigidos en las disposiciones fiscales federales, el impuesto por la prestación de servicios de hospedaje que se traslada en forma expresa y por separado a quien reciba los servicios que marca este capítulo.
-
-V. Llevar y conservar los registros contables o administrativos exigidos por la ley.
-
-VI. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la contabilidad, los avisos, declaraciones, datos, documentos e informes relacionados con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
-
-> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2014)</small>
-
-VII. Dictaminar la determinación y pago del Impuesto por la Prestación de Servicios de Hospedaje por medio de contador público autorizado, a más tardar en el último día hábil del mes de julio de cada ejercicio.
-
-Los contribuyentes obligados a dictaminarse, así como los voluntarios, deberán presentar el aviso correspondiente a más tardar el 30 de abril del ejercicio posterior al que se dictamina, el Aviso.
-
-El incumplimiento de las obligaciones señaladas en los dos párrafos anteriores, motivará la aplicación de las sanciones establecidas en el artículo 73 fracción I, incisos b) y c) respectivamente de este Código; y
-
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
-
-VIII. Proporcionar a las autoridades fiscales, la información a la que se encuentren obligados, a través de los medios autorizados por la Secretaría.
-
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 116.
 
-La autoridad fiscal estatal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de hospedaje en los términos que señale el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 117.
 
-No se considerará servicio de hospedaje el albergue o alojamiento prestado por hospitales, clínicas, sanatorios, asilos, conventos, seminarios, internados, instituciones de asistencia o beneficencia autorizadas por leyes de la materia ya sean públicos o privados, así como el prestado a estudiantes, cuyo servicio derive de contratos de habitación con una duración no menor de seis meses.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 2015)
 
 ### CAPÍTULO TERCERO. DEL IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS Y CONCURSOS
 
@@ -2121,7 +2125,7 @@ DISPOSICIONES GENERALES
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 13 DE JULIO DE 2011)</small>
 
-###### Articulo 136.
+###### Artículo 136.
 
 Están obligadas al pago del impuesto establecido en este Capítulo las personas físicas y las morales tenedoras o usuarias de los vehículos a que se refiere el mismo y que se hayan dado de alta en los registros del Estado.
 
@@ -5435,4 +5439,26 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-Tercero. Los ayuntamientos que dispongan de (sic) Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
+Tercero. Los ayuntamientos que dispongan de Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
+
+G.O. 20 DE OCTUBRE DE 2015.
+
+DECRETO NÚMERO 595, POR EL QUE SE DEROGA EL CAPÍTULO SEGUNDO, DEL TÍTULO PRIMERO, DEL LIBRO TERCERO Y LOS ARTÍCULOS 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116 Y 117 DEL CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor el 1° de enero de 2016, previa su publicación en la Gaceta Oficial del Estado.
+
+Segundo. La Secretaría de Finanzas y Planeación deberá de implementar las medidas necesarias encaminadas a dar debido cumplimiento al presente Decreto.
+
+Tercero. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 20 DE OCTUBRE DE 2015.
+
+DECRETO NÚMERO 596, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE DEROGA EL SEGUNDO PÁRRAFO, AMBOS DEL ARTÍCULO 101; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN AL MISMO LOS INCISOS A), B), C), D), Y E), Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 105 DEL CÓDIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor por cuanto hace a su artículo PRIMERO, el 1° de enero de 2016, previa su publicación en la Gaceta Oficial del Estado.
+
+Segundo. El presente Decreto entrará a vigor por cuanto hace a su artículo SEGUNDO, al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Tercero. En el caso de existir algún ingreso procedente de la recaudación del Impuesto Sobre Nóminas (ISN) que estuvo vigente hasta el 31 de diciembre del 2010, el mismo se destinará al Fideicomiso a que hace referencia el segundo párrafo del artículo 105 del Código 18 Financiero para el Estado de Veracruz de Ignacio de la Llave.
+
+Cuarto. Se deroga cualquier disposición que contravenga al presente Decreto.
