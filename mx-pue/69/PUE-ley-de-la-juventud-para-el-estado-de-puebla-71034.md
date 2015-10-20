@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2012-05-09"
+last_updated: "2015-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -703,27 +703,41 @@ V.- Las demás que le encomiende el Presidente Municipal correspondiente.
 
 VI.- (DEROGADA, P.O. 9 DE MAYO DE 2012)
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 20 DE OCTUBRE DE 2015)</small>
 
-## TÍTULO QUINTO
+## TÍTULO QUINTO. DEL PREMIO ESTATAL DE LA JUVENTUD
 
-### CAPÍTULO ÚNICO. DE LAS FINALIDADES DEL INSTITUTO
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO ÚNICO. DEL PREMIO Y DEL DÍA ESTATAL DE LA JUVENTUD
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 76.
 
-(DEROGADO, P.O. 9 DE MAYO DE 2012)
+El Premio Estatal de la Juventud será entregado a jóvenes poblanos que radiquen en el Estado y que su edad este comprendida entre los doce y veintinueve años, y su conducta o dedicación al trabajo o al estudio cause entusiasmo y admiración entre sus contemporáneos y pueda considerarse ejemplo estimulante para crear y desarrollar motivos de superación personal o de progreso de la comunidad.
+
+La denominación correspondiente será Premio Estatal de la Juventud "Vicente Suárez". La Secretaría de Educación Pública del Estado emitirá la convocatoria respectiva en donde se establecerán las bases respectivas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 77.
 
-(DEROGADO, P.O. 9 DE MAYO DE 2012)
+El Premio consistirá en el reconocimiento que realiza el Estado a los jóvenes y podrá ser complementado con un estímulo económico en numerario o en especie, por el monto o naturaleza que se determine conforme a las disposiciones legales aplicables; así como por las menciones honoríficas correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 78.
 
-(DEROGADO, P.O. 9 DE MAYO DE 2012)
+El premio será otorgado por el Gobernador Constitucional del Estado, asistido por el Titular de la Secretaría de Educación Pública del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 79.
 
-(DEROGADO, P.O. 9 DE MAYO DE 2012)
+Se declara el día doce de septiembre de cada año como el "Día Estatal de la Juventud".
+
+En esta fecha será entregado el Premio Estatal de la Juventud "Vicente Suárez".
 
 ## TÍTULO SEXTO. DEL SEGUIMIENTO, EVALUACIÓN Y SANCIÓN
 
@@ -782,3 +796,9 @@ P.O. 9 DE MAYO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 20 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
