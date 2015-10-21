@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-509
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-07-10"
-last_updated: "2015-09-07"
+last_updated: "2015-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50989&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA FEDERAL DEL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE OCTUBRE DE 2015.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de julio de 2006.
 
@@ -943,7 +943,9 @@ a) Delegación Yucatán, con sede en la ciudad de Mérida.
 
 XXXI. Estado: Zacatecas.
 
-a) Delegación Zacatecas, con sede en la ciudad de Zacatecas.
+> <small>(REFORMADO, D.O.F. 21 DE OCTUBRE DE 2015)</small>
+
+a) Delegación Zacatecas, con sede en el territorio de cualquiera de los municipios que comprenden la Zona Metropolitana de Zacatecas (Zacatecas, Guadalupe, Fresnillo, General Enrique Estrada, Morelos, Vetagrande y Calera).
 
 XXXII. Distrito Federal.
 
@@ -1418,3 +1420,7 @@ PRIMERO.- Las presentes modificaciones entrarán en vigor al día siguiente al d
 SEGUNDO.- Los procedimientos, actos administrativos y asuntos en materia de Telecomunicaciones iniciados previo a la entrada en vigor del presente instrumento continuarán su substanciación en las áreas administrativas conforme a la normatividad vigente al momento de su inicio hasta su total conclusión.
 
 TERCERO.- La Procuraduría Federal del Consumidor realizará las actualizaciones correspondientes para ajustar su estructura orgánica, y actualizar sus Manuales de Organización y de Procedimientos dentro de los 120 días posteriores a la entrada en vigor del presente instrumento.
+
+D.O.F. 21 DE OCTUBRE DE 2015.
+
+ÚNICO.- La presente modificación entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
