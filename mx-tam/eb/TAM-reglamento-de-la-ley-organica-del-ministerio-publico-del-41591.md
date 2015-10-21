@@ -4,7 +4,7 @@ identifier: "TAM-reglamento-de-la-ley-organica-del-ministerio-publico-del-41591"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-09-30"
-last_updated: "2004-09-30"
+last_updated: "2015-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO
 
-REGLAMENTO DE LA LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO
+REGLAMENTO DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 21 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 30 de septiembre del 2004.
 
@@ -755,7 +757,7 @@ IV.- Ejercitar la acción penal cuando se tenga detenido y se considere que el h
 
 V.- Poner en conocimiento del Sistema para el Desarrollo Integral de la Familia en Tamaulipas, al receptor y al presunto generador de violencia intrafamiliar, en términos de la Ley de Prevención, Atención y Asistencia de Violencia Intrafamiliar, sin perjuicio de coordinarse con dicho organismo y demás instituciones públicas y privadas que proporcionen asistencia médica y social; y
 
-VI.- Las demás que determinen la ley, otros reglamentos o el Procurador: (sic)
+VI.- Las demás que determinen la ley, otros reglamentos o el Procurador:
 
 ### CAPITULO XI. DEL AGENTE DEL MINISTERIO PUBLICO ESPECIALIZADO EN DELITOS RELACIONADOS CON EL TRANSPORTE PUBLICO DE PASAJEROS
 
@@ -1986,3 +1988,15 @@ Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justi
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintiocho días del mes de septiembre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 21 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se Abroga el Reglamento de la Ley Orgánica del Ministerio Público del Estado, publicado en el Anexo al Periódico Oficial número 118, del 30 de Septiembre del 2004.
+
+TERCERO. Se derogan los acuerdos, circulares y lineamientos que se opongan a las disposiciones del presente reglamento.
