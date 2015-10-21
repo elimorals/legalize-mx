@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2015-02-16"
+last_updated: "2015-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1893,7 +1893,7 @@ La elección de Gobernador prefiere a cualquier otro cargo del Estado.
 
 El Gobernador del Estado será electo cada seis años y tomará posesión de su cargo el día 4 de octubre del año en que se celebre la elección.
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar, el cargo ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
 
 No podrán ser electos para el período inmediato:
 
@@ -1901,13 +1901,15 @@ a) El Gobernador designado por el Congreso del Estado para concluir el período 
 
 b) El Gobernador Interino, el provisional o el ciudadano que, bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2015)</small>
+
 ###### Art. 85.
 
-Al Ejecutivo pertenece:
+Al Ejecutivo corresponde:
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
-l. Proteger la seguridad de las personas y sus bienes, así como los derechos humanos del individuo, a efecto de mantener la paz, tranquilidad y el orden público en todo el Estado;
+l.- Proteger la seguridad de las personas y sus bienes, así como los derechos humanos del individuo, a efecto de mantener la paz, tranquilidad y el orden público en todo el Estado;
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -1935,7 +1937,7 @@ VI.- Ejercer la superior inspección de la función ejecutiva.
 
 VII.- Imponer multas que no excedan del importe de un jornal o salario de un día o arresto hasta por 36 horas, a los que desobedecieren sus órdenes o le faltaren al respeto debido en los términos del Artículo 25 de esta Constitución.
 
-VIII.- Conceder a los menores, con arreglo a las leyes, habilitación de edad para casarse.
+VIII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 1998)</small>
 
@@ -15456,3 +15458,7 @@ Segundo.- Para adecuar el marco jurídico conforme a las disposiciones del prese
 P.O. 16 DE FEBRERO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
