@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-cultura-indigena-del-estado-de-nayarit-42195"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-18"
-last_updated: "2014-04-02"
+last_updated: "2015-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Vigésima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 18 de diciembre de 2004.
 
@@ -94,6 +94,10 @@ Las autoridades tradicionales reconocidas por los pueblos y comunidades indígen
 ###### Artículo 7°.
 
 El Estado deberá asegurar que los integrantes de los pueblos y comunidades indígenas, gocen de todos los derechos, beneficios y oportunidades que la legislación vigente otorga al respecto de la población de la entidad y velará por el estricto cumplimiento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+
+Toda contravención a las disposiciones contenidas en el presente ordenamiento, serán sujetas a las sanciones correspondientes de acuerdo a la legislación aplicable.
 
 ###### Artículo 8°.
 
@@ -227,6 +231,10 @@ La Dirección del Registro Civil, en coordinación con las autoridades municipal
 
 Las oficialías del Registro Civil que estén ubicadas en poblaciones indígenas deberán auxiliarse, para efectuar los registros, con un traductor que hable el idioma castellano, y la lengua indígena del lugar.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+
+Los indígenas tendrán derecho al uso y respeto de sus nombres propios en los tipos de su escritura y pronunciación según su etnia.
+
 ###### Artículo 36.
 
 Cuando exista duda sobre la pertenencia de una persona a algún pueblo o comunidad indígena, se solicitará por la persona interesada a la autoridad municipal, la constancia correspondiente para ese efecto.
@@ -266,6 +274,10 @@ El Estado deberá propiciar la información, la capacitación, la difusión y el
 ###### Artículo 44.
 
 El Estado fomentará de manera específica, la plena vigencia de los derechos de la mujer indígena a los servicios de salud, educación, cultura, vivienda digna y decorosa, a adquirir bienes por transmisión hereditaria o por cualquier otro medio legal, así como a tener cargos al interior de la comunidad y a participar en los programas productivos para el desarrollo comunitario, en igual condiciones que el varón.
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+
+El Estado con la finalidad de garantizar la seguridad e integridad y el cese de la violencia de las mujeres indígenas, se apoyará en los programas del Sistema Estatal previsto en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit.
 
 ###### Artículo 45.
 
@@ -341,17 +353,19 @@ El Estado con el auxilio de los Municipios, a través de sus instituciones compe
 
 El Estado y los Municipios establecerán programas en las comunidades indígenas que tiendan a fomentar el deporte, la creación y el esparcimiento familiar.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 57.
 
-La educación en los niveles preescolar, primaria y secundaria que se impartan en las comunidades indígenas deberá ser preferentemente bilingüe e intercultural.
+La educación en los niveles preescolar, primaria y secundaria que se impartan en las comunidades indígenas será obligatoriamente bilingüe e intercultural en lengua cora, huichol, tepehuano o mexicanero según corresponda. La presente disposición se atenderá preferentemente en el caso de educación media superior y superior.
 
 ###### Artículo 58.
 
 La educación bilingüe e intercultural deberá fomentar la enseñanza-aprendizaje tanto en la lengua de la comunidad indígena en que se imparta, como en el idioma castellano para que, como consecuencia, al término de la educación básica egresen alumnos que hablen con fluidez las dos lenguas.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2015)</small>
 
-En atención a lo anterior la Secretaría de Educación en el Estado y el Departamento de Educación Indígena de los Servicios de Educación Pública del Estado de Nayarit; se coordinarán con la Dirección General de Educación Indígena de la Secretaría de Educación Pública y el Instituto Nacional de Lenguas Indígenas, para impulsar la implementación de planes y programas en el Sistema de Educación Básica para logar (sic) la enseñanza-aprendizaje de los niños y las niñas de los pueblos indígenas, de acuerdo a lo establecido en el párrafo anterior.
+En atención a lo anterior la Secretaría de Educación en el Estado y el Departamento de Educación Indígena de los Servicios de Educación Pública del Estado de Nayarit; se coordinarán con la Dirección General de Educación Indígena de la Secretaría de Educación Pública y el Instituto Nacional de Lenguas Indígenas, para impulsar la implementación de planes y programas en el sistema de educación en todos los niveles para lograr la enseñanza-aprendizaje de los estudiantes de los pueblos indígenas, de acuerdo a lo establecido en el párrafo anterior.
 
 ###### Artículo 59.
 
@@ -526,3 +540,9 @@ Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan a
 P.O. 2 DE ABRIL DE 2014.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE OCTUBRE DE 2015.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- En lo concerniente al artículo 57, la implementación plena de la educación básica de forma bilingüe e intercultural, será de forma gradual en un plazo de tres años, contados a partir del inicio de la vigencia de este decreto.
