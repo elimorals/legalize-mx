@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2015-10-15"
+last_updated: "2015-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -787,7 +787,9 @@ XXVII.- De Vivienda;
 
 XXVIII.- De Protección Civil;
 
-XXIX.- De los Derechos de la Niñez y la Adolescencia;
+> <small>(REFORMADA, B.O. 22 DE OCTUBRE DE 2015)</small>
+
+XXIX.- De los Derechos de la Niñez, la Adolescencia y la Juventud;
 
 XXX.- Desarrollo Urbano;
 
@@ -2150,3 +2152,9 @@ B.O. 15 DE OCTUBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entra en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
