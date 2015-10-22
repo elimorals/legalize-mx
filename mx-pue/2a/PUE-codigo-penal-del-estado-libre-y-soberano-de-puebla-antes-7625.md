@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2015-10-19"
+last_updated: "2015-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4129,6 +4129,12 @@ En caso de que no se acredite el feminicidio, se aplicarán las reglas del homic
 
 Además de las sanciones descritas en el artículo anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 338 Quáter.
+
+Además de las penas aplicables por el concurso real, si la víctima se encuentra embarazada, el delito de Feminicidio se sancionará con una pena de cincuenta a setenta años de prisión.
+
 #### SECCION TERCERA.- INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
@@ -4509,7 +4515,7 @@ IX.- Detente, almacene o pignore un vehículo robado.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
-Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más y se le inhabilitará por diez años para desempeñar cualquier empleo, cargo o comisión públicos (sic).
+Si en los actos mencionados participa algún servidor público que tenga a su cargo funciones de prevención, persecución, sanción del delito o de ejecución de penas, además de las sanciones a que se refiere este artículo, se le aumentará la pena de prisión en una mitad más y se le inhabilitará por diez años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 ###### Artículo 376.
 
@@ -6274,6 +6280,12 @@ SEGUNDO. Todos los asuntos que se encuentren en etapa de averiguación previa, i
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 19 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
