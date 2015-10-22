@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2015-08-03"
+last_updated: "2015-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -43,9 +43,11 @@ LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 1º.
 
-La presente Ley es de orden público e interés social, tiene aplicación en el Estado de Aguascalientes y su objeto es la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y la concurrencia de éste y sus Municipios en materia de salubridad local, en términos del Artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud. A falta de disposición expresa será supletoria de esta Ley las disposiciones contenidas en la Ley General de Salud.
+La presente Ley es de orden público e interés social, es de aplicación en el Estado de Aguascalientes y su objeto es la protección de la salud de sus habitantes y establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y la concurrencia de éste y la Federación en materia de salubridad general y con los Municipios en materia de salubridad local. A falta de disposición expresa será supletoria de esta Ley las disposiciones contenidas en la Ley General de Salud.
 
 ###### ARTICULO 2º.
 
@@ -73,11 +75,11 @@ VII.- El desarrollo de la enseñanza y la investigación científica y tecnológ
 
 VIII.- La conservación de la vida mediante el tratamiento integral del dolor.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 3º.
 
-En los términos de la Ley General de Salud y la presente Ley, corresponde al Gobierno del Estado de Aguascalientes planear, ejecutar, coordinar, organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad local en los términos de los Artículos 1º, 3º, 9º y 13 de la Ley General de Salud.
+En los términos de la Ley General de Salud y la presente Ley, corresponde al Estado de Aguascalientes, planear, organizar y desarrollar el Sistema Estatal de Salud en su circunscripción territorial en los términos de los Artículos 1º, 3º, 9º y 13 de la Ley General de Salud, y en materia de salubridad local en términos del Artículo 28, inciso B) de la presente Ley.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -108,6 +110,10 @@ III.- Secretaría: A la Secretaría de Salud del Estado de Aguascalientes;
 IV.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes; y
 
 V.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2015)</small>
+
+Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -177,7 +183,9 @@ La coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría,
 
 I.- Establecer y conducir la política estatal en materia de salud, en los términos de las leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo del Estado;
 
-II.- Asumir y mantener la rectoría del Sistema de Salud, organizando en el Estado los servicios de salud a la población abierta y de protección contra riesgos sanitarios, conforme a lo establecido por esta Ley, la Ley General, los Acuerdos de Coordinación suscritos con el Gobierno Federal y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2015)</small>
+
+II.- Asumir y mantener la rectoría del Sistema Estatal de Salud, organizando en el Estado los servicios de salud a la población abierta y a la afiliada al Régimen Estatal de Protección Social y realizando acciones de protección contra riesgos sanitarios, conforme a lo establecido por esta Ley, la Ley General, los Acuerdos de Coordinación suscritos con los Gobiernos Federal y municipales, y demás ordenamientos aplicables;
 
 III.- Coordinar los programas de servicios de salud de las dependencias y entidades de la Administración Pública Estatal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
 
@@ -359,7 +367,7 @@ VII.- Las demás que establezcan la presente Ley, el Reglamento Interior de la S
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2011)</small>
 
-###### ARTÍCULO 28.
+###### ARTICULO 28.
 
 Corresponde al Ejecutivo del Estado de Aguascalientes por conducto de la Secretaría:
 
@@ -375,7 +383,7 @@ a).- La coordinación, evaluación y seguimiento de los servicios de salud a que
 
 > <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
-b).- La prevención del consumo estupefacientes (sic) y psicotrópicos, la atención a las adicciones y elaboración de programas contra la farmacodependencia en términos de lo que dispone la Ley General de Salud;
+b).- La prevención del consumo (sic) estupefacientes y psicotrópicos, la atención a las adicciones y elaboración de programas contra la farmacodependencia en términos de lo que dispone la Ley General de Salud;
 
 c).- El control sanitario de productos y servicios y de su importación y exportación;
 
@@ -503,7 +511,9 @@ h).- Baños públicos;
 
 i).- Centros de reunión y espectáculos
 
-j).- Establecimientos dedicados a la prestación de servicios como peluquerías, salones de belleza y estética;
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2015)</small>
+
+j).- Establecimientos dedicados a la prestación de servicios como peluquerías y salones de belleza;
 
 k).- Tintorerías, lavanderías y planchadurías;
 
@@ -845,11 +855,11 @@ VII.- En la información a las autoridades competentes de las irregularidades o 
 
 VIII.- En otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 65.
 
-El Instituto de Salud del Estado de Aguascalientes y demás Instituciones de Salud Estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
+Las instituciones que conforman el Sistema Estatal de Salud en coordinación con la Secretaría, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -1039,9 +1049,7 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 ### CAPITULO VII. Salud Mental
 
-### CAPITULO I. Disposiciones Generales
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+### CAPITULO I
 
 ###### ARTICULO 79.
 
@@ -1095,15 +1103,13 @@ III. Formular recomendaciones a las autoridades de los municipios a fin de capac
 
 IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO II. De los Beneficiarios
+### CAPITULO II
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+## TITULO QUINTO BIS
 
-## TITULO QUINTO BIS. REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
@@ -1113,63 +1119,21 @@ IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar i
 
 ###### ARTICULO 83 Bis 1.
 
-El Régimen Estatal de Protección Social en Salud es un mecanismo por el cual el Estado garantizará el acceso efectivo, oportuno, de calidad, sin desembolso al momento de utilización y sin discriminación a los servicios médico-quirúrgicos, farmacéuticos y hospitalarios que satisfagan de manera integral las necesidades de salud, mediante la combinación de intervenciones de promoción de la salud, prevención, diagnóstico, tratamiento y de rehabilitación, seleccionadas en forma prioritaria según criterios de seguridad, eficacia, costo, efectividad, adherencia a normas éticas profesionales y aceptabilidad social.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 2.
 
-El Régimen Estatal de Protección Social en Salud se establecerá mediante la implementación de un seguro popular, que beneficie a las familias y personas que no sean derechohabientes de las instituciones de seguridad social o no cuenten con algún otro mecanismo de previsión social en salud.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 3.
 
-Como mínimo se deberán contemplar los servicios de consulta externa en el primer nivel de atención, así como de consulta externa y hospitalización para las especialidades básicas de: medicina interna, cirugía general, ginecoobstetricia, pediatría y geriatría, en el segundo nivel de atención.
-
-Asimismo el Régimen Estatal de Protección Social en Salud deberá considerar, al menos, los aspectos siguientes:
-
-I.- Prestaciones orientadas a la prevención y el fomento del autocuidado de la salud;
-
-II.- Aplicación de exámenes preventivos;
-
-III.- Programación de citas para consultas;
-
-IV.- Atención personalizada;
-
-V.- Integración de expedientes clínicos;
-
-VI.- Continuidad de cuidados mediante mecanismos de referencia y contrarreferencia;
-
-VII.- Prescripción y surtimiento de medicamentos; y
-
-VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del otorgamiento de orientación terapéutica.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 4.
 
-Atendiendo a la disponibilidad presupuestal corresponde al Instituto de Salud del Estado, a través del Régimen Estatal de Protección Social en Salud:
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
-I.- Proveer los servicios de salud en los términos de este Título, disponiendo de la capacidad de insumos y el suministro de medicamentos necesarios para su oferta oportuna y de calidad;
-
-II.- Identificar e incorporar a beneficiarios al Régimen Estatal de Protección Social en Salud, para lo cual ejercerá actividades de difusión y promoción, así como las correspondientes al proceso de incorporación, incluyendo la integración, administración y actualización del padrón de beneficiarios en su entidad, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Salud;
-
-III.- Aplicar de manera transparente y oportuna los recursos que sean transferidos por la Federación y las aportaciones propias, para la ejecución de las acciones de protección social en salud, en función de los acuerdos de coordinación que para el efecto se celebren;
-
-IV.- Programar los recursos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento conforme a las prioridades que se determinen en la Entidad, en congruencia con el plan maestro que se elabore en el ámbito nacional por la Secretaría de Salud;
-
-V.- Recibir, administrar y ejercer las cuotas familiares de los beneficiarios del Régimen Estatal de Protección Social en Salud, así como los demás ingresos que en razón de frecuencia en uso de los servicios o especialidad o para el surtimiento de medicamentos asociados, se impongan de manera adicional en los términos de la Ley General;
-
-VI.- Realizar el seguimiento operativo de las acciones del Régimen Estatal de Protección Social en Salud y la evaluación de su impacto, proveyendo a la Federación la información que para el efecto le solicite;
-
-VII.- Adoptar esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación de su personal y promuevan la certificación de establecimientos de atención médica;
-
-VIII.- Proporcionar a la Secretaría de Salud la información relativa al ejercicio de recursos transferidos, así como la correspondiente a los montos y rubros de gasto; y
-
-IX.- Promover la participación de los municipios mediante la suscripción de convenios, de conformidad con la legislación aplicable.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO III. Formación, Capacitación y Actualización del Personal
 
@@ -1177,133 +1141,39 @@ IX.- Promover la participación de los municipios mediante la suscripción de co
 
 ###### ARTICULO 83 Bis 5.
 
-Gozarán de los beneficios del Régimen Estatal de Protección Social en Salud las familias cuyos miembros en lo individual satisfagan los siguientes requisitos:
-
-I.- Ser residentes en el Estado;
-
-II.- No ser derechohabientes de la seguridad social;
-
-III.- Contar con Clave Unica de Registro de Población;
-
-IV.- Cubrir las cuotas familiares correspondientes, en los términos establecidos por esta Ley; y
-
-V.- Cumplir con las obligaciones establecidas en este Título.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 6.
 
-Los beneficiarios del Régimen Estatal de Protección Social en Salud participarán en su financiamiento con cuotas familiares que se determinarán con base en las condiciones socioeconómicas de cada familia, las cuales deberán cubrirse en la forma y fechas que determine el organismo, salvo cuando exista la incapacidad de la familia a cubrir la cuota, lo cual no le impedirá incorporarse y ser sujeto de los beneficios que se deriven del Sistema de Protección Social en Salud.
-
-Las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a períodos subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
-
-La carencia de ingresos no podrá ser limitantes (sic) para el acceso al Régimen Estatal de Protección Social en Salud.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 7.
 
-El Régimen Estatal de Protección Social en Salud proveerá de manera integral los servicios de salud y los medicamentos asociados, sin exigir cuotas distintas a las establecidas, siempre que los beneficiarios cumplan con sus obligaciones y se cuente con suficiencia presupuestal.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 8.
 
-Los beneficiarios del Sistema de Protección Social en Salud tienen derecho a recibir bajo ningún tipo de discriminación los servicios de salud, los medicamentos y los insumos esenciales requeridos para el diagnóstico y tratamiento de los padecimientos, en las unidades médicas acreditadas de su elección del Régimen Estatal de Protección Social en Salud.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 9.
 
-Los beneficiarios del Régimen Estatal de Protección Social en Salud tendrán además de los derechos establecidos en el artículo anterior, condicionada a la disponibilidad presupuestal, los siguientes:
-
-I.- Recibir servicios integrales de salud;
-
-II.- Acceso igualitario a la atención;
-
-III.- Trato digno, respetuoso y atención de calidad;
-
-IV.- Recibir los medicamentos que sean necesarios y que correspondan a los servicios de salud;
-
-V.- Recibir información suficiente, clara, oportuna y veraz, así como la orientación que sea necesaria respecto de la atención de su salud y sobre los riesgos y alternativas de los procedimientos diagnósticos, terapéuticos y quirúrgicos que se le indiquen o apliquen;
-
-VI.- Contar con su expediente clínico;
-
-VII.- Decidir libremente sobre su atención;
-
-VIII.- Otorgar o no su consentimiento válidamente informado y a rechazar tratamientos o procedimientos;
-
-IX.- Ser tratado con confidencialidad;
-
-X.- Contar con facilidades para obtener una segunda opinión;
-
-XI.- Recibir atención médica en urgencias;
-
-XII.- Recibir información sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y obtención de servicios de atención médica;
-
-XIII.- No cubrir cuotas de recuperación específicas por cada servicio que reciban;
-
-XIV.- Presentar quejas ante los Regímenes Estatales de Protección Social en Salud o ante los servicios estatales de salud, por la falta o inadecuada prestación de servicios establecidos en este Título, así como recibir información acerca de los procedimientos, plazos y formas en que se atenderán las quejas y consultas, y
-
-XV.- Ser atendido cuando se inconforme por la atención médica recibida.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 10.
 
-Los beneficiarios del Régimen Estatal de Protección Social en Salud tendrán las siguientes obligaciones:
-
-I.- Adoptar conductas de promoción de la salud y prevención de enfermedades;
-
-II.- Hacer uso de la credencial que los acredite como beneficiarios como documento de naturaleza personal e intransferible y presentarla siempre que se requieran servicios de salud;
-
-III.- Informarse sobre los procedimientos que rigen el funcionamiento de los establecimientos para el acceso y servicios de atención médica;
-
-IV.- Colaborar con el equipo de salud, informando verazmente y con exactitud sobre sus antecedentes, necesidades y problemas de salud;
-
-V.- Cumplir las recomendaciones, prescripciones, tratamiento o procedimiento general al que haya aceptado someterse;
-
-VI.- Informarse acerca de los riesgos y alternativas de los procedimientos terapéuticos y quirúrgicos que se le indiquen o apliquen, así como de los procedimientos de consultas y quejas;
-
-VII.- Cubrir oportunamente las cuotas familiares y reguladoras que, en su caso, se le fijen;
-
-VIII.- Dar un trato respetuoso al personal médico, auxiliar y administrativo de los servicios de salud, así como a los otros usuarios y sus acompañantes;
-
-IX.- Cuidar las instalaciones de los establecimientos de salud y colaborar en su mantenimiento;
-
-X.- Hacer uso responsable de los servicios de salud; y
-
-XI.- Proporcionar de manera fidedigna la información necesaria para documentar su incorporación al Sistema de Protección Social en Salud y para la definición del monto a pagar por concepto de cuota familiar.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 11.
 
-La cobertura del Régimen Estatal de Protección Social en Salud será suspendida de manera temporal a cualquier familia beneficiaria en los siguientes casos:
-
-I.- Cuando no cubra las cuotas familiar o reguladora en la forma y fechas que determine la instancia competente, en su caso; y
-
-II.- Cuando el principal sostén de la familia beneficiaria se incorpore a alguna institución de seguridad social federal o estatal.
-
-La cuota familiar amparará a los beneficiarios en el caso de que suceda la suspensión y la reincorporación a los beneficios del Régimen Estatal de Protección Social en Salud en un mismo ejercicio presupuestal.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 12.
 
-Se cancelarán los beneficios del Régimen Estatal de Protección Social en Salud y la posibilidad de reincorporación, cuando cualquier miembro de la familia beneficiaria:
-
-I.- Realice acciones en perjuicio de los propósitos que persiguen el Régimen Estatal de Protección Social en Salud o afecte los intereses de terceros;
-
-II.- Haga mal uso de la identificación que se le haya expedido como beneficiario; y
-
-III.- Proporcione información falsa sobre su nivel de ingreso en el estudio socioeconómico para determinar su cuota familiar y sobre su condición laboral o derechohabiencia de la seguridad social.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ###### ARTICULO 83 Bis 13.
 
-En los casos en que se materialicen los supuestos a que se refieren los artículos anteriores, los interesados conservarán los beneficios del Régimen Estatal de Protección Social en Salud hasta por un plazo de sesenta días naturales a partir de la fecha de la suspensión o cancelación. Habiendo transcurrido este plazo, podrán acceder a los servicios de salud disponibles en los términos y condiciones que establece esta Ley.
+(DEROGADO, P.O. 22 DE OCTUBRE DE 2015)
 
 ## TITULO SEPTIMO. INVESTIGACION PARA LA SALUD
 
@@ -1391,7 +1261,7 @@ b. Elaborar lineamientos y guías institucionales para la investigación en salu
 
 III. En su caso un Comité de Bioseguridad encargado de determinar y normar al interior del centro, cuando en éste sean utilizados métodos, técnicas y materiales que impliquen riesgo para la salud de usuarios y operadores.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBREDE 2012)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2012)</small>
 
 ARTÍCULO 104 F.- Los Comités Hospitalarios de Bioética, de Ética en la Investigación y de Bioseguridad se sujetarán a la legislación y reglamentos de la materia, así como a la coordinación y a los criterios que establezca la Comisión Estatal de Bioética.
 
@@ -3418,3 +3288,21 @@ P.O. 3 DE AGOSTO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta de Gobierno del REPSS deberá sesionar por primera vez, dentro de los 60 días siguientes a la entrada en vigencia del presente Decreto, y expedir su reglamento en los 60 días posteriores a su primera sesión.
+
+###### ARTÍCULO TERCERO.
+
+El REPSS contará con los recursos humanos, materiales y financieros que le sean transferidos por parte de la Secretaría de Finanzas del Estado de Aguascalientes y la Oficialía Mayor, en coordinación con el Instituto de Servicios de Salud del Estado de Aguascalientes. Además contará con los inmuebles que para tal efecto le sean transferidos u otorgados por parte del Gobierno del Estado de Aguascalientes, de conformidad con las disposiciones legales aplicables.
+
+###### ARTÍCULO CUARTO.
+
+El personal que, en virtud de lo dispuesto por este decreto cambie de adscripción, conservará sus derechos laborales conforme a la ley, así mismo, operará la figura de sustitución de patrón en relación con las demandas planteadas con anterioridad.
