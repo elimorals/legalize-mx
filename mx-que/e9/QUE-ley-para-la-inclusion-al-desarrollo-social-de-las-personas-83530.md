@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-inclusion-al-desarrollo-social-de-las-personas-8353
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-04"
-last_updated: "2011-11-04"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA LA INCLUSION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD -- ANTES LEY PARA LA INTEGRACION AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD -- DEL ESTADO DE QUERETARO
 
-LEY PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO
+LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de noviembre de 2011.
 
@@ -31,11 +31,13 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto, la Quincuagésima Sexta Legislatura del Estado de Querétaro, expide la siguiente:
 
-LEY PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO.
 
 ## Título Primero. Disposiciones generales
 
@@ -47,9 +49,17 @@ La presente Ley es de orden público e interés social. Tiene por objeto estable
 
 I. Impulsar actitudes solidarias para la preservación, conservación y restauración de la salud, así como la prolongación y el mejoramiento de la calidad de vida de las personas con discapacidad;
 
-II. Coordinar las actividades tendientes a apoyar a las personas con discapacidad, creando y preservando las condiciones que favorezcan su incorporación al desarrollo social; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-III. Crear un sistema integral de servicios que posibilite el ejercicio pleno de los derechos de las personas con discapacidad, así como los de su familia, en los términos de esta Ley.
+II. Coordinar las actividades tendientes a apoyar a las personas con discapacidad, creando y preservando las condiciones que favorezcan su incorporación al desarrollo social;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+III. Crear un sistema integral de servicios que posibilite el ejercicio pleno de los derechos de las personas con discapacidad, así como los de su familia, en los términos de esta Ley; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2015)</small>
+
+IV. Crear una Coordinación de Inclusión Social para las Personas con Discapacidad, dependiente del despacho del Gobernador del Estado de Querétaro.
 
 ###### Artículo 2.
 
@@ -149,9 +159,17 @@ XXVII. Rehabilitación, el proceso de duración limitada y con un objeto definid
 
 XXVIII. Rehabilitación integral, el conjunto de acciones médicas, psicológicas y sociales, que tienen por objeto que las personas con discapacidad puedan obtener su máximo grado de recuperación funcional, para procurar su calidad de vida y su integración familiar y social;
 
-XXIX. Sistema de escritura Braille, el sistema para la comunicación presentado mediante signos en relieve, leídos en forma táctil por las personas ciegas; y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-XXX. Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad, con un propósito común y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
+XXIX. Sistema de escritura Braille, el sistema para la comunicación presentado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
+
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+XXX. Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad, con un propósito común y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2015)</small>
+
+XXXI. Coordinación, la Coordinación de Inclusión Social para las Personas con Discapacidad dependiente del despacho del Gobernador del Estado de Querétaro.
 
 ### Capítulo Tercero. De los derechos de las personas con discapacidad
 
@@ -286,6 +304,10 @@ l) El titular de la Dirección del Instituto Queretano de la Cultura y las Artes
 m) El Presidente de la Comisión Estatal de Derechos Humanos.
 
 n) El Presidente de la Junta de Asistencia Privada; y
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+o) El titular de la Coordinación de Inclusión Social para las Personas con Discapacidad; y
 
 IV. A invitación del Presidente, podrán integrarse los siguientes Consejeros:
 
@@ -1025,6 +1047,58 @@ La autoridad correspondiente, procurará destinar el monto obtenido por cobro de
 
 Los afectados con las resoluciones emitidas por la autoridad competente, con motivo de la aplicación de la presente Ley, podrán impugnarlas, en los términos establecidos en la Ley de Procedimientos Administrativos del Estado de Querétaro y la Ley de Enjuiciamiento de lo Contencioso Administrativo del Estado de Querétaro.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+## Título Sexto. De la Coordinación de Inclusión Social para las Personas con Discapacidad
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+### Capítulo Primero. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 91.
+
+La Coordinación de Inclusión Social para las Personas con Discapacidad, será la autoridad encargada de realizar acciones de gestión y vinculación entre los sectores público, privado y social, que favorezcan principalmente el proceso de inclusión de las personas con discapacidad en el ámbito educativo y laboral.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 92.
+
+La Coordinación tiene por objeto el promover que las personas con discapacidad tengan una vida independiente y libre, en igualdad de oportunidades que el resto de las demás, mediante la participación activa de los sectores público, privado y social que propicien condiciones necesarias que faciliten el acceso a instituciones educativas y al mercado laboral a las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 93.
+
+A efecto de que la Coordinación pueda dar cumplimiento con su objeto, su titular tendrá las atribuciones y facultades siguientes:
+
+I. Difundir entre los diferentes niveles de Gobierno, los derechos de las personas con discapacidad, así como, las disposiciones legales que los protegen, a fin de garantizar su efectiva aplicación;
+
+II. Fomentar e impulsar, en coordinación con las autoridades correspondientes, acciones de orientación y prevención para reducir riesgos de accidentes;
+
+III. Celebrar convenios con autoridades federales, estatales y municipales, así como con organizaciones públicas y privadas, para el cumplimiento del objeto de esta Ley;
+
+IV. Elaborar y desarrollar proyectos de inclusión social para las personas con discapacidad, en los que participen los sectores público, privado y social, que propicien la igualdad de oportunidades.
+
+V. Promover, entre las instituciones de educación superior y de investigación científica y tecnológica, la inclusión en sus líneas de investigación, el desarrollo de dispositivos, prótesis, herramientas, accesorios y equipos que propicien la autosuficiencia y calidad de vida de las personas con discapacidad;
+
+VI. Otorgar capacitación al sector público, privado y social, que participe en la inclusión educativa y laboral de las personas con discapacidad, coordinando acciones que favorezcan las relaciones y permitan la adecuada ejecución de las actividades productivas en las que sean parte;
+
+VII. Promover el acceso al trabajo y empleo en igualdad de oportunidades, mediante la celebración de convenios con empresas, públicas y privadas, que favorezcan y amplíen los espacios laborales vacantes para las personas con discapacidad, otorgándoles orientación vocacional;
+
+VIII. Fungir como órgano de certificación en capacitación, accesibilidad, infraestructura, y cumplimiento de las diversas disposiciones en materia de discapacidad, tanto para el sector público como privado;
+
+IX. Mantener el registro actualizado de personas con discapacidad en el Estado, a fin de elaborar estadísticas y control sobre las necesidades de las personas con discapacidad;
+
+X. Informar y difundir los resultados de su gestión en materia de atención integral a las personas con discapacidad;
+
+XI. Fomentar en todos los niveles del sistema educativo, mediante conferencias, talleres, cursos, platicas, el respeto de los derechos de las personas con discapacidad;
+
+XII. Cuando el Consejo lo requiera, ejecutar y dar cumplimiento a los acuerdos que sean tomados; y
+
+XIII. Las demás que resulten de la aplicación de la presente ley y demás ordenamientos legales aplicables a la materia.
+
 ## TRANSITORIOS
 
 Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
@@ -1037,7 +1111,9 @@ Artículo Cuarto. El titular del Poder Ejecutivo del Estado de Querétaro emitir
 
 Artículo Quinto. El titular del Poder Ejecutivo del Estado emitirá la convocatoria para la conformación e instalación del Consejo Estatal para las Personas con Discapacidad, según lo establecido en los artículos 10, 11, 12 y 13 de esta Ley, en un plazo no mayor de 90 días hábiles, contados a partir de la publicación de la presente Ley.
 
-Artículo Sexto. El titular del Poder Ejecutivo del Estado constituirá el Padrón Estatal de Personas con Discapacidad y el Padrón de Organizaciones e Instituciones Dedicadas a la Habilitación y Rehabilitación de Personas con Discapacidad, en un plazo no mayor de 180 días naturales contados a partir de la publicación de este cuerpo normativo, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+Artículo Sexto. El titular del Poder Ejecutivo del Estado constituirá el Padrón Estatal de Organizaciones e Instituciones Dedicadas a la Habilitación y Rehabilitación de Personas con Discapacidad, en un plazo no mayor de 180 días naturales contados a partir de la publicación de este cuerpo normativo, ordenando su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Séptimo. Las autoridades que conforman el Consejo, en coordinación con los municipios del Estado, a través de la Secretaría de Salud, la Secretaría del Trabajo y los Sistemas Municipales para el Desarrollo Integral de la Familia elaborarán el Programa Estatal de Prevención de las Discapacidades, en conjunto con las Organizaciones No Gubernamentales que correspondan, en un plazo no mayor a 180 días naturales, contados a partir de la publicación de esta Ley, y lo remitirán al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
@@ -1078,3 +1154,13 @@ Lic. Roberto Loyola Vera
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Tercero. El titular del Poder Ejecutivo del Estado de Querétaro, deberá de crear la Coordinación de Inclusión Social para las Personas con Discapacidad, dentro de los 180 días naturales contados a partir de la entrada en vigor de la presente Ley.
