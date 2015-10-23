@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-presupuesto-de-egresos-del-estado-de-4699
 country: "mx"
 rank: "ley"
 publication_date: "1975-07-02"
-last_updated: "2008-12-23"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 2 de julio de 1975.
 
@@ -45,7 +45,13 @@ LEY REGLAMENTARIA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 COMPETENCIA Y ATRIBUCIONES DE LA SECRETARIA DE FINANZAS EN MATERIA DE PRESUPUESTO DE EGRESOS.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 1o.
+
+La presente Ley es de orden público y tiene por objeto reglamentar el proceso presupuestario, su programación, ejecución, seguimiento, control, vigilancia y evaluación.
+
+La administración de los recursos será conforme a los principios de eficacia, eficiencia, legalidad, honestidad, transparencia, austeridad, control, equilibrio presupuestal y rendición de cuentas.
 
 Se entiende por Presupuesto de Egresos del Estado, la ley expedida por la Legislatura Local, a iniciativa del Ejecutivo, en la que se contienen las previsiones financieras para sufragar el gasto público a cargo del Gobierno del Estado, durante el año fiscal que corresponda.
 
@@ -73,19 +79,21 @@ VII.- Dictaminar sobre la conveniencia de que el Ejecutivo del Estado contrate l
 
 VIII.- Realizar estudios de carácter presupuestal, con el propósito de formar estadísticas razonadas respecto al desarrollo de los servicios públicos y determinar si su costo corresponde a la función que prestan. El resultado de los estudios y estadísticas a que se refiere esta fracción, servirá a la Secretaría para vigilar el correcto ejercicio del Presupuesto de Egresos, y la preparación del que habrá de regir en el ejercicio fiscal siguiente;
 
-IX.- Expedir el instructivo que regule la formación y aplicación del Presupuesto de Egresos, a que se refiere esta Ley.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+IX.- Expedir el instructivo que regule la formación y aplicación del Presupuesto de Egresos a que se refiere esta Ley, el cual deberá ser conforme a los lineamientos que emita el Consejo Nacional de Armonización Contable.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 3o.
 
-La Secretaría de Finanzas desempeñará las atribuciones señaladas en el Artículo anterior, por conducto de la Subsecretaría de Egresos de conformidad con las prescripciones de esta Ley y su Reglamento.
+La Secretaría de Finanzas desempeñará las atribuciones señaladas en el artículo anterior, por conducto de la Subsecretaría de Egresos y Administración, de conformidad con las prescripciones de ésta Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 4o.
 
-La Secretaría de Finanzas deberá proporcionar a las diversas dependencias del Ejecutivo y al Poder Judicial, todos los datos estadísticos, estudios o informes que requieran para la preparación y ejecución del Presupuesto, en lo que éste respectivamente les concierna.
+La Secretaría de Finanzas deberá proporcionar a las diversas dependencias del Ejecutivo y a los poderes Legislativo y Judicial, así como a los organismos públicos autónomos, todos los datos estadísticos, estudios o informes que requieran para la preparación y ejecución del Presupuesto, en lo que éste respectivamente les concierna.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
@@ -109,11 +117,19 @@ I.- Una estimación total de los ingresos correspondientes al próximo ejercicio
 
 II.- Las previsiones de egresos destinados a cada rama de la administración pública; y
 
-III.- Los demás informes financieros y datos estadísticos que el Ejecutivo estime conveniente agregar para la mejor inteligencia de su política hacendaria y del programa de la administración.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+IlI.- Los tabuladores salariales de los respectivos Poderes y de los Organismos Públicos Autónomos.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+IV.- Los demás informes financieros y datos estadísticos que el Ejecutivo estime conveniente agregar para la mejor inteligencia de su política hacendaria y del programa de la administración.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 8o.
 
-Las previsiones de egresos a que se refiere la fracción II del artículo anterior, se clasificarán por ramas de la administración, y comprenderán por separado: los Poderes Legislativo y Judicial, las dependencias del Poder Ejecutivo, las inversiones, las erogaciones adicionales y la deuda pública.
+Las previsiones de egresos a que se refiere la fracción II del artículo anterior, se clasificarán por ramas de la administración, y comprenderán por separado: los Poderes Legislativo y Judicial, así como los Organismos Públicos Autónomos, las dependencias del Poder Ejecutivo, las inversiones, las erogaciones adicionales y la deuda pública.
 
 ###### ARTICULO 9o.
 
@@ -140,6 +156,10 @@ EROGACIONES ESPECIALES;
 CANCELACION DE PASIVO;
 
 II.- Estos capítulos se distribuirán en partidas que representarán las autorizaciones específicas del Presupuesto.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+Las previsiones de egresos indicadas en el primer párrafo del presente artículo, deberán contener las clasificaciones por objeto, administrativa, funcional y tipo de gasto, así como presentar las prioridades de gasto, programas y proyectos, y analítico de plazas emitidos por el Consejo Nacional de Armonización Contable y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
@@ -169,11 +189,11 @@ Antes del último día hábil del mes de Julio de cada año, las dependencias de
 
 Con base en las observaciones y propuestas a que se refiere el artículo que precede, la Secretaría de Finanzas hará las modificaciones que estime pertinentes al instructivo para la formación del Presupuesto, señalando las sumas asignadas a cada dependencia, de acuerdo con las indicaciones recibidas del C. Gobernador del Estado. El instructivo, una vez modificados se dará a conocer por la Secretaría a cada una de las dependencias antes del último día hábiI del mes de Agosto.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 14.
 
-Dentro de los primeros 15 días del mes de septiembre a más tardar, las dependencias de cada uno de los Poderes del Estado enviarán a la Secretaría de Finanzas, sus proyectos preliminares de Presupuesto, ajustándose a la suma asignada de acuerdo con el Artículo anterior. Los proyectos en cuanto a su estructura formal, deberán seguir los lineamientos prescritos por el instructivo recibido de la Secretaría.
+Dentro de los primeros 15 días del mes de septiembre a más tardar, las dependencias de cada uno de los Poderes del Estado y los Organismos Públicos Autónomos, enviarán a la Secretaría de Finanzas, sus proyectos preliminares de presupuesto así como los tabuladores salariales, ajustándose a la suma asignada de acuerdo con el artículo anterior. Los proyectos en cuanto a su estructura formal, deberán seguir los lineamientos prescritos por el instructivo recibido de la Secretaría de Finanzas.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2007)</small>
 
@@ -339,6 +359,94 @@ Cuando las asignaciones fijadas en el Presupuesto de Egresos resultaren insufici
 
 En los casos en que se considere justificada la modificación, la Secretaría de Finanzas preparará la iniciativa correspondiente para ser sometida por el Ejecutivo a la consideración de la Legislatura del Estado, si aquél lo estima pertinente.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO OCTAVO. DE LA CONTABILIDAD GUBERNAMENTAL Y DEL CONSEJO DE ARMONIZACIÓN CONTABLE DEL ESTADO DE COAHUILA
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+#### Sección I. De la Contabilidad Gubernamental
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 43.
+
+Este capítulo tiene por objeto regular la contabilidad gubernamental en los Poderes del Estado, los Organismos Públicos Autónomos y los Municipios.
+
+Entiéndase por contabilidad gubernamental como la técnica que sustenta los sistemas de contabilidad gubernamental y que se utiliza para el registro de las transacciones que llevan a cabo los entes públicos, expresados en términos monetarios, captando los diversos eventos económicos identificables y cuantificables que afectan los bienes e inversiones, las obligaciones y pasivos, así como el propio patrimonio, con el fin de generar información financiera que facilite la toma de decisiones y un apoyo confiable en la administración de los recursos públicos.
+
+Los entes públicos aplicarán la contabilidad gubernamental para facilitar el registro y la fiscalización de los activos, pasivos, ingresos y gastos y, en general, contribuir a medir la eficacia, economía y eficiencia del gasto e ingresos públicos, la administración de la deuda pública, incluyendo las obligaciones contingentes y el patrimonio del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 44.
+
+Los registros de las operaciones se realizarán de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y normativa aplicable y bajo los formatos emitidos por el Consejo Nacional de Armonización Contable así como del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 45.
+
+Los Poderes del Estado, los Organismos Públicos Autónomos y los Municipios, emitirán los reportes de información contable, presupuestaria y programática que establezca la Ley General de Contabilidad Gubernamental y los publicarán en sus respectivos portales de internet conforme a los acuerdos del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 46.
+
+Los Poderes del Estado, los Organismos Públicos Autónomos y los Municipios, deberán registrar en su contabilidad los bienes muebles e inmuebles así como realizar la publicación de los mismos conforme lo establece la Ley General de Contabilidad Gubernamental y bajo los formatos emitidos por el Consejo Nacional de Armonización Contable así como del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 47.
+
+Los sistemas informáticos que operen los Poderes del Estado, los Organismos Públicos Autónomos y los Municipios, para el registro contable deberán ser conforme a los requisitos que establece la Ley General de Contabilidad Gubernamental y a los formatos y lineamientos emitidos por Consejo Nacional de Armonización Contable así como del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+#### Sección II. Del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 48.
+
+El Consejo de Armonización Contable del Estado de Coahuila de Zaragoza, es un órgano de coordinación, cuyo objeto es difundir la Ley General de Contabilidad Gubernamental y la normatividad emitida por el Consejo Nacional de Armonización Contable, y establecer los criterios generales que regirán la contabilidad gubernamental y la emisión de información financiera de los entes públicos en el Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 49.
+
+El Consejo de Armonización Contable del Estado de Coahuila de Zaragoza tendrá las siguientes facultades:
+
+I. Adoptar las decisiones que tome el Consejo Nacional de Armonización Contable y publicarlas en el Periódico Oficial del Gobierno del Estado de Coahuila, así como en los medios electrónicos y escritos de difusión de los entes públicos;
+
+II. Coadyuvar en la implementación de la normatividad que apruebe el Consejo en el ámbito estatal y municipal;
+
+III. Elaborar y emitir los proyectos de normas contables y lineamientos en materia de Contabilidad Gubernamental en el ámbito estatal y municipal;
+
+IV. Asesorar y capacitar a los entes públicos en la ejecución de las disposiciones en materia de contabilidad gubernamental;
+
+V. Celebrar convenios de coordinación en materia de armonización contable con diversos entes;
+
+VI. Proponer reformas a la legislación local en materia de armonización contable;
+
+VII. Aprobar la creación de comisiones y grupos de trabajo;
+
+VIII. Aprobar sus Reglas de Operación;
+
+IX. Las demás necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 50.
+
+El Consejo de Armonización Contable del Estado de Coahuila de Zaragoza, contará con la representación de los poderes Ejecutivo, Legislativo y Judicial, de los municipios, de los organismos públicos autónomos estatales, del órgano de fiscalización superior del Estado, de la Universidad Autónoma de Coahuila y de los Colegios de Contadores Públicos afiliados al Instituto Mexicano de Contadores Públicos y su integración será conforme a lo establecido en el acuerdo de creación del Consejo.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### ARTICULO 51.
+
+Las reglas y operación del Consejo se regirán conforme a lo establecido en el Acuerdo mediante el cual se crea el Consejo de Armonización Contable del Estado de Coahuila de Zaragoza, así como las Reglas de Operación que emita el propio Consejo.
+
 TRANSITORIOS:
 
 ###### ARTICULO PRIMERO.
@@ -400,3 +508,9 @@ P.O. 23 DE DICIEMBRE DE 2008.
 PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
