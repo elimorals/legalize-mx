@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-10-13"
+last_updated: "2015-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2009-11-11"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2015 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 23 DE OCTUBRE DE 2015.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -1615,7 +1615,7 @@ La Junta evaluará el Sistema de Control y Seguimiento de Juicios así como el S
 
 En caso de que exista la necesidad de corregir la información contenida en los Sistemas del Tribunal, las Salas deberán solicitarlo conforme a los procedimientos autorizados por la Junta para que, en su caso, la Dirección General del Sistema de Justicia en Línea proceda a implementar las adecuaciones respectivas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 13 DE OCTUBRE DE 2015)</small>
+(ADICIONADO, D.O.F. 13 DE OCTUBRE DE 2015) (F. DE E., D.O.F. 23 DE OCTUBRE DE 2015)
 
 Para tal efecto, la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones implementará un mecanismo eficiente de captura, control y estadística de las solicitudes de corrección al SICSEJ y/o SJL, de las acciones que se lleven a cabo para ese efecto, y de las causas que originaron las correcciones.
 
