@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2014-07-04"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -2988,6 +2988,10 @@ I. Las que no admiten ningún recurso;
 II. Las que, admitiendo algún recurso, no fueren recurridas o habiéndolo sido se tenga por no interpuesto, se haya desistido el recurrente de él o haya operado la caducidad de la segunda instancia; y
 
 III. Las consentidas expresamente por las partes, sus representantes legítimos o sus mandatarios con poder bastante.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+Tratándose de divorcio, cuestiones de alimentos, patria potestad, custodia y convivencias, las sentencias definitivas o interlocutorias correspondientes, causarán ejecutoria por ministerio de ley, siempre y cuando haya concluido el plazo legal para interponer recurso de apelación y éste no hubiese sido presentado.
 
 ###### Artículo 444.
 
@@ -6856,3 +6860,9 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los negocios que se encuentren en trámite a la fecha de inicio de vigencia de la presente Ley, se resolverán de acuerdo a las disposiciones aplicables hasta antes de la publicación de la misma.
 
 Artículo Tercero. Se derogan todas aquellas disposiciones de igualo (sic) menor jerarquía que se opongan a la presente Ley.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
