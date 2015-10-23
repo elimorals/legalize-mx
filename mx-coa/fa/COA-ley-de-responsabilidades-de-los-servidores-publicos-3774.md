@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "2014-12-19"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de abril de 1984.
 
@@ -503,9 +503,13 @@ XXIV.- Responder las recomendaciones que les presente la institución a la que l
 
 XXV.- Atender los llamados del Congreso del Estado o en sus recesos de la Diputación Permanente para comparecer ante (sic) a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en términos del Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-XXVI.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
+XXVI.- Cumplir con las obligaciones que establece la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables en la materia, así como las disposiciones emitidas por el Consejo Nacional de Armonización Contable y del Consejo de Armonización Contable del Estado de Coahuila de Zaragoza, que deriven de su encargo.
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+XXVII.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
 
 El incumplimiento de estas obligaciones será sancionado como falta administrativa.
 
@@ -516,6 +520,10 @@ El incumplimiento de estas obligaciones será sancionado como falta administrati
 Corresponderá a los titulares de las dependencias estatales o municipales, o a las directores o sus equivalentes en las entidades del sector paraestatal y paramunicipal, vigilar el cumplimiento de las obligaciones de los servidores públicos subalternos y, al órgano estatal de control y a los órganos municipales de control, y a los que hagan sus veces en los Poderes Legislativo y Judicial y a los organismos públicos autónomos, vigilar el cumplimiento de las obligaciones a cargo de los titulares de las dependencias.
 
 El titular del órgano estatal de control y los titulares de los órganos municipales de control, responderán, respectivamente, ante el Gobernador y los Ayuntamientos. Los responsables de los órganos equivalentes de los Poderes Judicial, Legislativo y de los organismos públicos autónomos, responderán ante los plenos del Tribunal Superior de Justicia, del Congreso del Estado o del órgano público autónomo, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+Los órganos de control en los poderes Ejecutivo, Legislativo y Judicial, de los organismos públicos autónomos, los órganos municipales de control así como sus equivalentes en las entidades de sector paraestatal y paramunicipal, tendrán la atribución de dar seguimiento y vigilar en el cumplimiento de las disposiciones en materia de armonización contable.
 
 ### CAPITULO SEGUNDO. SANCIONES ADMINISTRATIVAS Y PROCEDIMIENTOS PARA APLICARLAS
 
@@ -1006,3 +1014,9 @@ TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 19 DE DICIEMBRE DE 2014.
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
