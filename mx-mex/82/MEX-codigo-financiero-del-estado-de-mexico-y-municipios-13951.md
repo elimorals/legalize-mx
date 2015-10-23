@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2015-06-24"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 > <small>N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2015, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO Y PUBLICADA EN LA G.G. DE 1 DE ENERO DE 2015 Y CONTIENE LA REFERENCIA A LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 16 DE ENERO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE OCTUBRE DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -889,7 +889,7 @@ Las responsabilidades administrativas y las multas impuestas por autoridades no 
 
 El Gobernador o el ayuntamiento, mediante resoluciones de carácter general que publiquen en el Periódico Oficial, podrán:
 
-l. Condonar o eximir total o parcialmente el pago de contribuciones, aprovechamientos y sus accesorios, cuando se haya afectado o trate de impedir que se afecte la situación económica de algún lugar o región de un municipio o del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de desastres sufridos por fenómenos meteorológicos, plagas o epidemias o aquellos de origen antropogénico.
+I. Condonar o eximir total o parcialmente el pago de contribuciones, aprovechamientos y sus accesorios, cuando se haya afectado o trate de impedir que se afecte la situación económica de algún lugar o región de un municipio o del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en casos de desastres sufridos por fenómenos meteorológicos, plagas o epidemias o aquellos de origen antropogénico.
 
 Sin que las facultades otorgadas en esta fracción puedan entenderse referidas a los casos en que la afectación o posible afectación a una determinada rama de la industria obedezca a lo dispuesto en una Ley Tributaria Federal o Tratado Internacional.
 
@@ -1935,7 +1935,7 @@ X. Que se corroboró la integración a la base para la determinación del impues
 
 Artículo 47 I.- Las facultades a que se refiere el artículo 47 D, penúltimo párrafo de este Código, se ejercerán por las autoridades fiscales mediante el siguiente procedimiento:
 
-l. Determinada la irregularidad, ésta será hecha del conocimiento del Contador Público autorizado, a efecto de que en un plazo de diez días manifieste por escrito lo que a su derecho convenga, donde además ofrezca y exhiba las pruebas que considere pertinentes:
+I. Determinada la irregularidad, ésta será hecha del conocimiento del Contador Público autorizado, a efecto de que en un plazo de diez días manifieste por escrito lo que a su derecho convenga, donde además ofrezca y exhiba las pruebas que considere pertinentes:
 
 II. Agotado el periodo probatorio a que se refiere la fracción anterior, con los elementos que obren en el expediente, la autoridad fiscal emitirá la resolución que proceda, y
 
@@ -2405,7 +2405,7 @@ Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobaci�
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-l. La revisión se llevará a cabo con el Contador Público que haya formulado el dictamen, requiriéndole por escrito lo siguiente:
+I. La revisión se llevará a cabo con el Contador Público que haya formulado el dictamen, requiriéndole por escrito lo siguiente:
 
 A). La información que conforme a este Código deba estar incluida en los documentos dictaminados para efectos fiscales.
 
@@ -3489,7 +3489,7 @@ Quienes organicen, realicen o exploten los actos o actividades por los que se ca
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-l. Dar aviso a la autoridad fiscal estatal dentro de los diez días anteriores al evento, salvo aquellos contribuyentes que realicen múltiples eventos, quienes dentro de los primeros 10 días de cada mes y previo a la realización de dichos eventos, deberán presentar un aviso por todos ellos.
+I. Dar aviso a la autoridad fiscal estatal dentro de los diez días anteriores al evento, salvo aquellos contribuyentes que realicen múltiples eventos, quienes dentro de los primeros 10 días de cada mes y previo a la realización de dichos eventos, deberán presentar un aviso por todos ellos.
 
 II. Garantizar el pago del impuesto.
 
@@ -3691,7 +3691,7 @@ TARIFA
 
 CONCEPTO
 
-l. Por la expedición de copias certificadas:
+I. Por la expedición de copias certificadas:
 
 A). Por la primera hoja. $59
 
@@ -3729,7 +3729,7 @@ TARIFA
 
 CONCEPTO
 
-l. Por la consulta de antecedentes policiales en el Registro Público correspondiente, respecto del personal operativo con que cuentan los prestadores de servicios, por elemento. $362
+I. Por la consulta de antecedentes policiales en el Registro Público correspondiente, respecto del personal operativo con que cuentan los prestadores de servicios, por elemento. $362
 
 II. Por el estudio y evaluación de la solicitud para la prestación de servicios de seguridad privada, en los términos de ley, o su revalidación. $1,809
 
@@ -3775,7 +3775,7 @@ TARIFA
 
 CONCEPTO
 
-l. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil:
+I. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil:
 
 A). Grupos voluntarios. $3,512
 
@@ -3887,7 +3887,7 @@ TARIFA
 
 CONCEPTO
 
-l. Expedición de certificados por cada foja. $59
+I. Expedición de certificados por cada foja. $59
 
 II. Expedición de formas aprobadas. $54
 
@@ -4329,7 +4329,7 @@ C). Educación Superior. $1,068
 
 Por los servicios prestados por la Secretaría de Desarrollo Urbano se pagarán los siguientes derechos:
 
-l. Por la supervisión de las obras de urbanización, infraestructura y equipamiento de conjuntos urbanos, lotificaciones en condominio y, en su caso, de subdivisiones que adicionalmente impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de autorización de más de 3,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
+I. Por la supervisión de las obras de urbanización, infraestructura y equipamiento de conjuntos urbanos, lotificaciones en condominio y, en su caso, de subdivisiones que adicionalmente impliquen la autorización de diez o más viviendas, o en usos diferentes al habitacional, un coeficiente de autorización de más de 3,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
 
 En el caso de que se conceda prórroga para concluir las obras de urbanización del conjunto urbano y subdivisión o lotificación en condominio, que no se hayan ejecutado dentro del plazo fijado en la autorización correspondiente, se pagará el 2% sobre el importe del presupuesto aprobado a costo directo y actualizado de las obras por ejecutar en el período de vigencia de la prórroga concedida.
 
@@ -4371,7 +4371,7 @@ IX. Por la aprobación del respectivo proyecto de lotificación del conjunto urb
 
 Por los servicios prestados por la Secretaría del Agua y Obra Pública se pagarán los derechos siguientes:
 
-l. Por la expedición de la autorización de Perito Responsable de Obra, por tres años de vigencia, el pago de derechos por la cantidad de $4,020.
+I. Por la expedición de la autorización de Perito Responsable de Obra, por tres años de vigencia, el pago de derechos por la cantidad de $4,020.
 
 II. Por el refrendo el 50% de la tarifa establecida.
 
@@ -4751,7 +4751,7 @@ TARIFA
 
 CONCEPTO
 
-l. Otorgamiento de concesiones para explotar el servicio público de transporte de pasajeros, en sus modalidades de:
+I. Otorgamiento de concesiones para explotar el servicio público de transporte de pasajeros, en sus modalidades de:
 
 A). Servicio regular de pasaje:
 
@@ -5131,7 +5131,7 @@ TARIFA
 
 CONCEPTO
 
-l. Por la búsqueda y reposición de la constancia sobre los resultados de la verificación del vehículo automotor. $155
+I. Por la búsqueda y reposición de la constancia sobre los resultados de la verificación del vehículo automotor. $155
 
 II. Por la expedición del certificado-holograma distintivo que ampara a los vehículos que operan con combustibles alternos, como gas licuado de petróleo, gas natural, diesel u otros, que conforme a las normas técnicas emitidas al efecto no quedan sujetos al Acuerdo "Hoy No Circula" y al Programa de Contingencias Ambientales. $698
 
@@ -5157,7 +5157,7 @@ TARIFA
 
 CONCEPTO INDUSTRIAL OTROS
 
-l. Por la evaluación de la manifestación de impacto ambiental. $9,509 $9,786
+I. Por la evaluación de la manifestación de impacto ambiental. $9,509 $9,786
 
 II. Evaluación del estudio de riesgo ambiental. $14,261 $14,679
 
@@ -5907,7 +5907,7 @@ TARIFA
 
 CONCEPTO
 
-l. Funcionamiento de emisiones a la atmósfera. $724
+I. Funcionamiento de emisiones a la atmósfera. $724
 
 II. Generador de residuos de manejo especial. $543
 
@@ -6015,7 +6015,7 @@ TARIFA
 
 CONCEPTO
 
-l. Legalización de firmas autógrafas de servidores públicos estatales y municipales:
+I. Legalización de firmas autógrafas de servidores públicos estatales y municipales:
 
 A). Por cada legalización de firmas de servidores públicos del Poder Ejecutivo:
 
@@ -6065,7 +6065,7 @@ TARIFA
 
 CONCEPTO
 
-l. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
+I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
 A). Apeo y deslinde judicial. $562
 
@@ -6211,7 +6211,7 @@ II. Por la renovación del permiso de distribución de agua a través de pipa a 
 
 Por inscripciones de actos relativos a bienes muebles, se pagarán los siguientes derechos:
 
-l. Por inscripción de actos o contratos que transmitan la propiedad de bienes muebles, sea plena o con alguna condición suspensiva o resolutiva.
+I. Por inscripción de actos o contratos que transmitan la propiedad de bienes muebles, sea plena o con alguna condición suspensiva o resolutiva.
 
 II. Por inscripción de operaciones que limiten o graven bienes muebles.
 
@@ -7099,7 +7099,7 @@ TARIFA
 
 CONCEPTO
 
-l. Corresponsalía. $845
+I. Corresponsalía. $845
 
 II. Compra-venta con reserva de dominio.
 
@@ -7177,7 +7177,7 @@ TARIFA
 
 CONCEPTO
 
-l. Expedición de certificados:
+I. Expedición de certificados:
 
 A). De no inscripción. $717
 
@@ -7235,7 +7235,7 @@ TARIFA
 
 CONCEPTO
 
-l. Expedición de Testimonios, incluida la autorización, por cada hoja. $58
+I. Expedición de Testimonios, incluida la autorización, por cada hoja. $58
 
 II. Expedición de copias certificadas de planos que obran en el apéndice por cada foja, incluida la autorización. $117
 
@@ -7333,7 +7333,7 @@ TARIFA
 
 CONCEPTO
 
-l. Expedición de certificados de no antecedentes penales. $121
+I. Expedición de certificados de no antecedentes penales. $121
 
 No se pagarán estos derechos por la expedición de certificados a los elementos activos de la policía ministerial, seguridad pública estatal, municipal y los del ámbito federal, con motivo de la renovación de la licencia colectiva para la portación y uso de armas de fuego.
 
@@ -7363,7 +7363,7 @@ Por certificados expedidos por el Tribunal de lo Contencioso Administrativo se p
 
 No se pagarán estos derechos ni los establecidos en el artículo 73 cuando se expidan:
 
-l. Para la sustanciación del juicio de amparo.
+I. Para la sustanciación del juicio de amparo.
 
 II. Para integrar los testimonios en la sustanciación de recursos.
 
@@ -10649,7 +10649,7 @@ El IGECEM, además de las atribuciones que otros ordenamientos le confieran en m
 
 > <small>(REFORMADA, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
-l. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en términos del LlGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
+I. Establecer los procedimientos técnicos y administrativos en materia catastral y verificar su cumplimiento, en términos del LlGECEM, este Título, su reglamento, el Manual Catastral y demás disposiciones aplicables en la materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -12743,7 +12743,7 @@ El Instituto tiene por objeto operar, desarrollar y actualizar el Sistema de Coo
 
 La dirección y administración del Instituto estará a cargo de:
 
-I . El Consejo Directivo, y
+I. El Consejo Directivo, y
 
 II. El Vocal Ejecutivo.
 
@@ -13133,6 +13133,10 @@ II. Los financiamientos a ser celebrados por el Estado y comprendidos en los mon
 
 III. La afectación de los ingresos y/o del derecho a las participaciones que en ingresos federales correspondan al Estado como fuente de pago, garantía, o ambos, de las obligaciones que contraigan, así como la afectación del derecho y/o de los ingresos del Estado, derivados de otros recursos federales susceptibles de afectación. Igualmente corresponderá a la Legislatura, a solicitud del Gobernador, la aprobación de la desafectación de esos ingresos o derechos, para lo que deberá constatar el previo consentimiento expreso de los acreedores en cuyo favor se hayan afectado.
 
+> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2015)</small>
+
+La autorización referida no resultará aplicable respecto de aquellos ingresos cuya afectación y/o desafectación no esté sujeta a la aprobación por parte de la Legislatura en términos de la Legislación Federal aplicable.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
@@ -13260,6 +13264,10 @@ El Estado por conducto del Gobernador a través de la Secretaría, y previa auto
 I. Los ingresos estatales derivados de contribuciones, productos, aprovechamientos y accesorios.
 
 II. Los ingresos y/o el derecho a las participaciones que en ingresos federales le correspondan al Estado.
+
+> <small>(ADICIONADO, G.G. 23 DE OCTUBRE DE 2015)</small>
+
+La autorización referida no resultará aplicable respecto de aquellos ingresos cuya afectación y/o desafectación no esté sujeta a la aprobación por parte de la Legislatura en términos de la Legislación Federal aplicable.
 
 III. Otros recursos federales de naturaleza análoga o conexa a los referidos en el párrafo anterior que sean susceptibles de afectación o de aplicación especial para el pago o garantía de financiamientos.
 
@@ -14655,7 +14663,7 @@ Las disposiciones de este Título tienen por objeto regular la contabilidad gube
 
 Se crea el Consejo Estatal para la Armonización Contable como un órgano de coadyuvancia para la implementación de las disposiciones en materia de armonización contable previstas en la Ley General de Contabilidad Gubernamental, mismo que estará integrado por:
 
-l. El Secretario de Finanzas, quien presidirá el Consejo;
+I. El Secretario de Finanzas, quien presidirá el Consejo;
 
 II. El Secretario de la Contraloría;
 
@@ -17290,6 +17298,14 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE OCTUBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
