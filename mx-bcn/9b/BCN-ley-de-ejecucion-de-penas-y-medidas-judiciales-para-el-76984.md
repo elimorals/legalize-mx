@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2015-05-22"
+last_updated: "2015-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNI
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2015, LAS MENCIONES QUE SE HAGA RESPECTO A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -1129,17 +1129,11 @@ II.- Tratándose de penas distintas a la privativa de la libertad, remitir copia
 
 La pena privativa de la libertad será compurgada en los Centros que designe el Ejecutivo del Estado por conducto de la Subsecretaría.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 128.
 
-El sitio para el cumplimiento de las penas privativas de la libertad será distinto y completamente separado de aquél destinado a la prisión preventiva.
-
-Las mujeres estarán recluidas en lugares separados de los destinados para los hombres, estos lugares deberán contar con la infraestructura, información y personal capacitado para el cuidado de sus menores hijos que permanezcan con ellas, así como para el desarrollo pleno de sus actividades.
-
-Los menores hijos dispondrán de los espacios que aseguren su desarrollo integral, incluyendo los servicios de alimentación, salud y educación, hasta los seis años de edad, cuando así lo determine el personal capacitado, con opinión de la madre y considerando el interés superior del menor.
+El sitio para el cumplimiento de las penas privativas de la libertad será distinto y completamente separado de aquél destinado a la prisión preventiva. Las mujeres estarán recluidas en lugares separados de los destinados para los hombres.
 
 ###### ARTÍCULO 129.
 
@@ -1666,3 +1660,7 @@ Los jueces de control del Partido Judicial de Mexicali, fungirán como jueces de
 QUINTO.- La designación de los jueces de ejecución a que se refiere este Decreto, será de conformidad con la gradualidad prevista en el primer párrafo del artículo segundo transitorio de la presente reforma.
 
 Hasta en tanto no se realice el nombramiento de jueces de ejecución en cada partido judicial, según sea el caso, los jueces de garantía, control o de primer instancia atendiendo la naturaleza del proceso penal que dio lugar a la sentencia, continuarán conociendo y resolviendo los procedimientos competencia de los jueces de ejecución.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
