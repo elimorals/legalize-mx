@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-09-25"
+last_updated: "2015-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -2029,19 +2029,17 @@ XIII.- Propiciar y promover la participación directa, o los donativos de instit
 
 XIV.- Las demás que expresamente le encomienden las leyes y reglamentos o le instruya el Presidente.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 86.
 
 Para el cumplimiento de sus obligaciones, la Secretaría de Desarrollo Social, tendrá a su cargo las siguientes áreas:
 
-I.- Dirección De Servicios Médicos; y
+I.- Dirección De Servicios Médicos;
 
 II.- Dirección de Educación;
 
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2009)</small>
-
-III.- Unidad de atención a Grupos Vulnerables (Discapacitados y Comunidad Sorda).
-
-> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2013)</small>
+III.- Unidad de Atención a Grupos Vulnerables; y,
 
 IV.- Unidad de Atención a Grupos Indígenas.
 
@@ -2101,23 +2099,23 @@ XIV. Fomentar los valores cívicos, morales, la cultura de la legalidad, de la p
 
 XV. Las demás que le atribuyan la ley del Régimen Municipal, las leyes, y reglamentos, así como las que le asigne el Presidente Municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+ARTÍCULO 88 BIS.- A la Unidad de Atención a Grupos Vulnerables le corresponden las siguientes atribuciones:
 
-ARTÍCULO 88 BIS.- Le Corresponde a La Unidad de Atención a Grupos Indígenas:
+I.- Establecer acciones para proteger a las mujeres embarazadas y en estado de lactancia, mujeres jefas de hogar en condiciones de pobreza, con niños a su cargo, y responsable del sostenimiento familiar;
 
-a). Manejar programas sociales de atención a los grupos y comunidades indígenas nativos y asentados de este Municipio.
+II.- Buscar apoyos para menores y adolescentes en situación de riesgo social (niños en riesgo de salir del hogar, menores infractores y menores víctimas de violencia física, psicológica o sexual en el seno familiar, menores con padecimientos adictivos);
 
-b). Coadyuvar con el departamento de Comunicación Social para difundir los programas de atención a los pueblos indígenas y también con las dependencias y entidades de la Administración Pública Municipal en el ámbito de su competencia para el efectivo cumplimiento de este Reglamento.
+III.- Gestionar ante dependencias estatales, federales y organismos de asistencia social, albergue temporal y apoyo a menores que viven en la calle o a los menores que, no obstante tener un hogar, a causa de la desintegración familiar o problemas de otra índole pasan todo el día en la calle;
 
-c). Promover cursos de capacitación y de sensibilización a las personas que atiendan a los indígenas;
+IV.- Establecer mecanismos de protección a los menores trabajadores (pepena, estiba, mendicidad, venta ambulante, limpia-parabrisas y actuación en la vía pública);
 
-d). Promover programas de ayuda y asistencia social enfocada a las necesidades de los indígenas, buscando políticas públicas dirigidas a las diferentes etnias de nativos y asentados en este municipio.
+V.- Gestionar apoyos y promover el respeto a los derechos de las personas de la tercera edad;
 
-e). Contará con facultades a través de su titular para concertar todas las acciones necesarias ante las instituciones públicas, privadas o afines a la cuestión étnica, con el fin de que los indígenas nativos y asentados tengan acceso a la seguridad social, a la atención médica, a los servicios asistenciales y a la adquisición o mejoramiento de sus viviendas.
+VI.- Garantizar acceso a los servicios de salud, educación y promover empleo para las personas con discapacidad; y,
 
-f). Procurará el bienestar y protección de las mujeres, niños y ancianos de las comunidades indígenas, por cuanto que constituyen la base de las familias que integran y sustentan los pueblos indígenas del Estado.
+VII.- Buscar y canalizar apoyos para personas en situación de calle, excluidas de seguridad social.
 
 ### CAPITULO OCTAVO. DE LAS DELEGACIONES MUNICIPALES
 
@@ -2768,3 +2766,7 @@ TERCERO.- La persona designada por el Presidente Municipal para ocupar el cargo 
 P.O. 25 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
