@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2015-09-04"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2273,15 +2273,21 @@ IV.- Cuando el huésped o comenzal (sic) o alguna de su familia o de los criados
 
 V.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, contra sus dependientes o domésticos o contra cualquiera otra persona;
 
-VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes y,
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+VI.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes;
 
 > <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 VII.- Cuando se cometa por los empleados, obreros, artesanos, aprendices o discípulos, en la casa, taller, escuela, empresa o negociación en que habitualmente trabaje o aprenda, o en la habitación, oficina, bodega, u otro lugar al que tengan libre entrada con el carácter indicado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-VIII.- Cuando se cometa en contra de bienes afectados a la prestación de un servicio público Estatal o Municipal.
+VIII.- Cuando se cometa en contra de bienes afectados a la prestación de un servicio público Estatal o Municipal, y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+IX.- Cuando se cometa aprovechando las condiciones que se produzcan por catástrofe o desorden público.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2011)</small>
 
@@ -5114,3 +5120,13 @@ P.O. 4 DE SEPTIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los procedimientos penales en materia electoral que se encuentren en trámite, así como los delitos electorales que se hubieran cometido con anterioridad a la entrada en vigor de la Ley General en Materia de Delitos Electorales, seguirán su curso conforme a la legislación vigente al momento de la comisión de los hechos que les dieron origen.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan el presente Decreto.
