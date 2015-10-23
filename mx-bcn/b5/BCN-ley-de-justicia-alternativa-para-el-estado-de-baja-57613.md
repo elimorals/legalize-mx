@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2010-04-23"
+last_updated: "2015-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO REFORMADO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EN LAS FECHAS Y CONFORME AL ORDEN QUE SE ESTABLECE EN EL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -39,7 +39,7 @@ LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -47,7 +47,7 @@ LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público e interés social, de observancia general en el Estado de Baja California, y tiene por objeto regular y fomentar el uso de los medios alternativos a la justicia ordinaria, para la prevención y solución de controversias entre personas físicas o morales, cuando estas recaigan sobre derechos de los que puedan disponer libremente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -79,7 +79,7 @@ XI.- Proceso restaurativo: Al mecanismo cuyo propósito es la reparación y comp
 
 XII.- Reglamento: A las disposiciones reglamentarias que emitan el Poder Ejecutivo y el Consejo de la Judicatura, en el ámbito de sus respectivas competencias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -89,7 +89,7 @@ Los medios alternativos para la solución de controversias jurídicas que establ
 
 ### CAPÍTULO SEGUNDO. DE LOS MEDIOS ALTERNATIVOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -97,7 +97,7 @@ Los medios alternativos para la solución de controversias jurídicas que establ
 
 Los medios alternativos serán aplicables solamente en los asuntos que sean susceptibles de convenio o acuerdo, que no contravengan alguna norma de orden público o afecten derechos de terceros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -107,7 +107,7 @@ Los medios alternativos podrán asumir las modalidades de mediación, conciliaci
 
 El Especialista sólo podrá desahogar el procedimiento o proceso para el cual haya quedado facultado en su nombramiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -115,7 +115,7 @@ El Especialista sólo podrá desahogar el procedimiento o proceso para el cual h
 
 El especialista asistirá a las partes en la elaboración del convenio o acuerdo que refleje íntegramente los pactos asumidos por éstas y les explicará los derechos y obligaciones que de él se deriven, así como su naturaleza una vez que se eleve a categoría de cosa juzgada según así proceda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -123,7 +123,7 @@ El especialista asistirá a las partes en la elaboración del convenio o acuerdo
 
 Los medios alternativos se regirán por los principios de voluntariedad, confidencialidad, flexibilidad, especialidad, neutralidad, imparcialidad, equidad y honestidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -135,7 +135,7 @@ La mediación y conciliación en materia penal y de justicia integral para adole
 
 La aplicación de la mediación, conciliación y el proceso restaurativo, así como la sanción de los acuerdos, estará a cargo del personal de la Procuraduría General de Justicia que determinen las disposiciones normativas aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -147,7 +147,7 @@ Los medios alternativos señalados en esta Ley también podrán ser proporcionad
 
 Las instituciones privadas y de educación superior, deberán contar con previa autorización; y los especialistas privados adscritos a éstas o quienes realicen sus funciones en forma individual deberán contar con registro. Tanto la autorización como el registro serán otorgados por el Consejo de la Judicatura del Estado, con base en lo dispuesto por esta Ley y el Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -155,13 +155,13 @@ Las instituciones privadas y de educación superior, deberán contar con previa 
 
 Los servicios de mediación, conciliación y proceso restaurativo serán gratuitos cuando se impartan por el Centro o por la Procuraduría General de Justicia del Estado, según corresponda, y en el caso de aquellos que proporcionen las instituciones privadas o las personas físicas serán remunerados en forma convencional, de acuerdo a las reglas establecidas por esta Ley o de conformidad con lo que establezca la Ley de Aranceles para el Estado de Baja California.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO TERCERO. DE LOS ESPECIALISTAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -169,9 +169,9 @@ Los servicios de mediación, conciliación y proceso restaurativo serán gratuit
 
 Los especialistas podrán ser oficiales o privados. Serán especialistas oficiales aquellos que se encuentren adscritos al Centro, o a la Procuraduría General de Justicia del Estado. Serán especialistas privados las personas físicas que realicen esa función en forma individual o como integrantes de cualquier otra institución que preste servicios de mediación y conciliación, de conformidad con lo previsto en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 12.
 
@@ -183,7 +183,7 @@ II. No tener menos de veinticinco años de edad, al día de su designación;
 
 III. Tener título profesional, debidamente registrado en el Departamento de Profesiones del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -195,33 +195,33 @@ VI. Tener residencia mínima de cinco años en el Estado, anteriores al día de 
 
 VII. Obtener su registro ante el Consejo de la Judicatura del Estado, debiendo refrendarlo anualmente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Se considera capacitación especializada para los efectos de la Ley, aquella que sea impartida por instituciones educativas o de investigación, públicas o privadas, que estén autorizadas por la Secretaría de Educación Pública o por las autoridades estatales correspondientes, para impartir estudios de enseñanza superior en la materia, y que acredite al interesado como capacitado en teoría y técnicas de mediación, conciliación o proceso restaurativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Los estudios en el extranjero debidamente acreditados con documento idóneo, serán considerados capacitación especializada cuando sean equivalentes a aquellos impartidos por cualquiera de las instituciones señaladas en el párrafo anterior como autorizadas para impartir dicha capacitación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Tratándose del personal que vaya a ser adscrito como especialista de la Procuraduría General de Justicia del Estado, el requisito a que se refiere la fracción IV se tendrá por acreditado cuando los cursos hayan sido recibidos en términos de los párrafos anteriores o éstos hubieren sido impartidos por esta Institución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Se exceptúan del cumplimiento del requisito contenido en el primer párrafo de la fracción VII de este artículo, a los especialistas de la Procuraduría General de Justicia del Estado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 13.
 
@@ -229,7 +229,7 @@ Podrá cancelarse el registro o denegarse su refrendo, a los especialistas que:
 
 I. Hubieren dejado de reunir cualquiera de los requisitos a que se refiere el artículo anterior, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -237,21 +237,21 @@ II. Previa evaluación realizada con motivo de alguna queja presentada en su con
 
 Las quejas a que se refiere este artículo, deberán presentarse por la parte afectada ante el Consejo de la Judicatura del Estado, quien inmediatamente procederá a desahogar el procedimiento respectivo de conformidad con lo dispuesto en el Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 14.
 
 El especialista realizará las siguientes funciones:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 I. Brindar asesoría a las partes, a efecto de (sic) logren un acuerdo donde resuelvan sus controversias, propiciando soluciones que armonicen los intereses en conflicto y buscando en todo caso la equidad entre los interesados;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -259,19 +259,19 @@ II. Orientar a las partes sobre las instancias jurisdiccionales competentes para
 
 III. Evaluar las peticiones de los interesados para determinar el medio idóneo del tratamiento de sus diferencias, recabando su conformidad por escrito para la atención y búsqueda de soluciones correspondientes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV. Substanciar la mediación, conciliación o el proceso restaurativo para poner fin a las controversias de las partes, e incluso modificar el medio elegido cuando de común acuerdo con éstas resulte conveniente emplear un medio alterno distinto al inicialmente seleccionado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 V. Dar por terminada la mediación, conciliación o el proceso restaurativo cuando alguna de las partes lo solicite expresamente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -279,63 +279,63 @@ VI. Redactar los convenios o acuerdos a que hayan llegado las partes a través d
 
 VII. Las demás que establezca la Ley y el Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 15.
 
 Son derechos y obligaciones de los especialistas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 I. Guardar en el desempeño de la función encomendada los principios que rigen los medios alternativos de acuerdo con lo previsto en esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 II. Evitar la dilación en los asuntos que le sean encomendados para mediación, conciliación o proceso restaurativo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. Elaborar el convenio o acuerdo en los términos y condiciones que acuerden las partes, salvaguardando que estos no transgredan o vulneren los principios generales del derecho, se hagan en términos claros y precisos de manera tal que no quede duda en su interpretación, y no afecten el interés público o perjudiquen los derechos de terceros;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV. Actualizarse permanentemente en la teoría y las técnicas de la mediación, conciliación y procesos restaurativos, así como en todo lo relativo a los procedimientos de justicia alternativa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 V. Cerciorarse que las partes comprendan las propuestas de solución, precisándoles los derechos y obligaciones que de ellas se deriven;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VI. Conservar la confidencialidad de los datos, informes, comentarios, conversaciones, acuerdos o posturas de las partes a los cuales tengan acceso con motivo de su función. Por consecuencia deberán conservar en concepto de secreto profesional, todo aquello que hayan conocido al intervenir en la mediación, conciliación o en el proceso restaurativo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VII. En el caso de los especialistas privados, percibir los honorarios convenidos con las partes, o conforme a lo dispuesto por esta Ley o la Ley de Aranceles para el Estado de Baja California;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VIII. Solicitar a las partes la información, instrumentos y demás documentos necesarios para el eficiente y eficaz cumplimiento de la función encomendada;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -343,21 +343,21 @@ IX. Mantener el buen desarrollo de los procedimientos de mediación y conciliaci
 
 X. Los demás que señale la Ley y el Reglamento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 16.
 
 Los especialistas estarán impedidos para fungir como testigos o peritos en asuntos relacionados con los negocios en los que hayan fungido como especialistas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 No podrá ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -365,7 +365,7 @@ Además, se excusarán de intervenir en asuntos en los que pudiera verse afectad
 
 La inobservancia a lo establecido en este artículo será considerado una falta grave, aplicándose las normas disciplinarias correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -375,13 +375,13 @@ El especialista oficial en caso de cometer alguna falta, estará sujeto al proce
 
 Las faltas cometidas por los especialistas privados se sujetarán al procedimiento disciplinario previsto en el Reglamento que expida el Consejo de la Judicatura.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO CUARTO. DE LAS PARTES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -389,7 +389,7 @@ Las faltas cometidas por los especialistas privados se sujetarán al procedimien
 
 Las partes podrán ser personas físicas o morales, deberán estar en pleno ejercicio de sus derechos, tener capacidad y legitimación en los procedimientos y, en su caso, estar constituidas conforme a las leyes aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -409,15 +409,15 @@ V. Intervenir personalmente en todas las sesiones de mediación, conciliación y
 
 VI. Asistir a las sesiones de mediación, conciliación y de proceso restaurativo acompañados de abogado, si lo desean.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 20.
 
 Son obligaciones de las partes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -425,13 +425,13 @@ I. Conducirse con respeto y observar buen comportamiento durante las sesiones de
 
 II. Cumplir con las obligaciones de dar, hacer o no hacer establecidas en el convenio, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. En caso de utilizar servicios de especialistas privados, cubrir los honorarios correspondientes, conforme a lo que hayan pactado entre sí, a lo dispuesto en esta Ley, o a lo que establezca la Ley de Aranceles del Estado de Baja California.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -443,9 +443,9 @@ En caso de existir una suspensión del trámite a petición de alguna de las par
 
 ### CAPÍTULO QUINTO. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 22.
 
@@ -453,7 +453,7 @@ El Centro es un órgano adscrito al Consejo de la Judicatura del Poder Judicial 
 
 La residencia del Centro será la Ciudad de Mexicali, capital del Estado, y contará con dos oficinas regionales como mínimo en las cabeceras municipales que corresponden a Tijuana y Ensenada, sin perjuicio de que el Consejo de la Judicatura establezca otras sedes de acuerdo a las necesidades de los justiciables y el presupuesto asignado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -461,21 +461,43 @@ La residencia del Centro será la Ciudad de Mexicali, capital del Estado, y cont
 
 La vigilancia del funcionamiento del Centro y del desempeño de los especialistas adscritos a éste, así como de los privados, estará a cargo del Consejo de la Judicatura, por lo que para el ejercicio de dicha atribución podrá emitir las disposiciones que estime necesarias, de conformidad con lo señalado en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 24.
 
-El Centro estará a cargo de un Director, y contará con los especialistas y demás personal de apoyo que se le asigne de conformidad con su Reglamento.
+El Centro estará a cargo de un Director y además contará en su integración con:
+
+I.- Un Subdirector;
+
+II.- Un coordinador para la sede del Centro, en Mexicali;
+
+III.- Un coordinador para la oficina regional con sede en la ciudad de Tijuana;
+
+IV.- Un coordinador para la oficina regional con sede en la ciudad de Ensenada;
+
+V.- Los especialistas públicos, adscritos a las sedes del Centro, y;
+
+VI.- Notificadores y demás personal administrativo y de apoyo que se le asigne de conformidad con su Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 Para ser Director del Centro se requerirán los mismos requisitos que se exigen para ser especialista, con excepción de la fracción III del artículo 12 de la Ley, ya que el Titular del Centro deberá contar con título profesional de Licenciado en Derecho.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 El titular del Centro será nombrado por el Consejo de la Judicatura de acuerdo a lo que establece la Ley Orgánica del Poder Judicial del Estado de Baja California, y durará en su encargo un periodo de 5 años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El Director del Centro estará impedido para ejercer la abogacía por sí o por interpósita persona, salvo en causa propia, de su cónyuge, concubina o concubinario, de sus ascendientes o descendientes, de sus hermanos o de su adoptante o adoptado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -491,7 +513,7 @@ I. Recibir los convenios que las partes celebren como resultado de la mediación
 
 II. Autorizar y elevar los convenios que celebren las partes a la categoría de cosa juzgada, cuando se ajusten a los requisitos que establece la Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -499,7 +521,7 @@ III. Cuando los procesos de medios alternativos se deriven de un procedimiento j
 
 IV. En el supuesto de la fracción anterior, comunicar a la autoridad judicial la conclusión del proceso de mediación y conciliación, y en su caso, remitirle el convenio celebrado para los efectos legales correspondientes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -507,25 +529,25 @@ V. En caso de no existir procedimiento judicial, con constancia de la ratificaci
 
 VI. Promover la mediación y la conciliación como alternativas de prevención y solución de controversias;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VII. Coordinarse con el Instituto de la Judicatura del Poder Judicial del Estado, para impartir la capacitación especializada en materia de mediación y conciliación, que habrán de recibir los candidatos a especialistas, así como la actualización de aquellos que cuenten con el registro respectivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VIII. Adscribir a los especialistas del Centro, a las oficinas regionales del Centro;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IX. Vigilar que los especialistas del Centro, cumplan con sus funciones y, en su defecto, proceder en los términos de la Ley y su Reglamento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -533,9 +555,15 @@ X. Recibir las quejas que se presenten en contra de los especialistas del Centro
 
 XI. Colaborar con los gobiernos municipales en el diseño e implementación de programas de mediación de conflictos vecinales, y
 
-XII. Las demás que señale la Ley y el Reglamento.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XII. Cuando las necesidades y la carga de trabajo así lo demanden, podrá autorizar al Subdirector o a los Coordinadores de sede u oficina regional, para recibir los convenios que las partes celebren como resultado de los medios alternativos, revisarlos para verificar que reúnen los requisitos legales, hacer saber a las partes los alcances de los mismos y, en su caso, hacer constar su ratificación autorizarlos y elevarlos a categoría de cosa juzgada, cuando se ajusten a los requisitos que establece la ley, y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+XIII. Las demás que señale la Ley y el Reglamento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -543,13 +571,13 @@ XII. Las demás que señale la Ley y el Reglamento.
 
 El Consejo de la Judicatura publicará en el mes de enero de cada año en el Periódico Oficial del Estado la lista de instituciones autorizadas y especialistas con registro, que podrán prestar los servicios de mediación y conciliación, de conformidad con lo previsto en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO SEXTO. DEL PROCEDIMIENTO DE MEDIOS ALTERNATIVOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -557,7 +585,7 @@ El Consejo de la Judicatura publicará en el mes de enero de cada año en el Per
 
 El procedimiento podrá iniciarse a petición de parte interesada con capacidad para obligarse, mediante solicitud verbal o escrita en la que se precisará el conflicto que se pretenda resolver y los nombres y domicilios de quien hace la solicitud y de la persona con la que se tenga la controversia, a fin de que ésta sea invitada a asistir a una audiencia inicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -567,7 +595,7 @@ Recibida la solicitud verbal o escrita de uno de los interesados para la prestac
 
 La invitación se realizará preferentemente en forma personal por el especialista o bien, podrá hacerse vía telefónica, electrónica o a través de cualquier otro medio similar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -581,7 +609,7 @@ En cualquiera de los casos, los abogados podrán revisar los términos legales d
 
 En dicha audiencia se le hará saber a la parte o partes en qué consisten los medios alternativos, así como los objetivos y ventajas, y se les informará que éstos sólo se efectúan con el consentimiento y la participación de ambas partes, enfatizándoles el carácter gratuito, profesional, neutral, confidencial, imparcial, rápido y equitativo de la autocomposición asistida.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -589,7 +617,7 @@ En dicha audiencia se le hará saber a la parte o partes en qué consisten los m
 
 Cuando la contraparte del solicitante acepte participar en los procedimientos, firmará el formato respectivo o estampará su huella digital, en este último caso firmando a su ruego otra persona, hecho lo cual se señalará lugar, fecha y hora para el inicio de la sesión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -605,7 +633,7 @@ Si iniciado el procedimiento el especialista renunciare al cargo, los días dent
 
 Tratándose del especialista los medios alternativos que corresponda desahogar al Centro, a las instituciones y a los especialistas privados, la sustitución del especialista deberá realizarse en un término no mayor a cinco días, mientras que en los procedimientos en materia penal la sustitución deberá ser en forma inmediata.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -613,7 +641,7 @@ Tratándose del especialista los medios alternativos que corresponda desahogar a
 
 En la sesión, después de explicar suficientemente a las partes el propósito de la misma, se pedirá a éstos que expresen sus puntos de vista respecto al origen de la controversia y las razones por las cuales éste no ha sido solucionado hasta ese momento; primero intervendrá el solicitante y después su contraparte.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -621,7 +649,7 @@ En la sesión, después de explicar suficientemente a las partes el propósito d
 
 Durante la celebración de la sesión, las partes fijarán sus posiciones, procurando el especialista en todo momento establecer una comunicación directa y efectiva entre éstos, y propiciará un ambiente de cordialidad, equidad y respeto mutuo, que les permita establecer opciones, alternativas o acuerdos que tengan como finalidad solucionar la controversia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -629,7 +657,7 @@ Durante la celebración de la sesión, las partes fijarán sus posiciones, procu
 
 Si únicamente comparece alguna de las partes se suspenderá la sesión, asentándose razón de ello y se procederá a citar a una nueva fecha para efectuarla. En caso de reincidir alguna de las partes en inasistencias injustificadas se dará por concluido el procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -641,13 +669,13 @@ Si las partes así lo desean, se dará por concluida la sesión, levantándose c
 
 En el supuesto de lo previsto en este artículo, así como en el anterior, el especialista deberá notificar de ello al Juzgador o a la persona que remitió el caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 37.
 
 (REFORMADO [N. DE E. DEROGADO], P.O. 13 DE NOVIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -659,7 +687,7 @@ Se realizarán tantas sesiones como las partes consideren necesarias para llegar
 
 En su caso, el plazo referido podrá prorrogarse hasta por treinta días más, a petición expresa de las partes al Juzgador, con excepción del caso previsto en el tercer párrafo del artículo 32 de esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -669,7 +697,7 @@ Por cada actuación realizada durante el procedimiento deberá recaer un acta ci
 
 Es responsabilidad del especialista evitar que durante las actuaciones del procedimiento o en la asunción de los compromisos, se asienten frases relativas al reconocimiento de responsabilidad por cualquiera de las partes, excepto cuando se traten de conflictos en materia penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -689,57 +717,57 @@ II. El nombre, edad, nacionalidad, estado civil, profesión u oficio y domicilio
 
 III. Un capítulo de declaraciones, si se juzga necesario;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV. Un capítulo de los antecedentes que motivaron el procedimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 V. Una descripción precisa de las obligaciones de dar, hacer o no hacer que hubieran acordado las partes, así como la forma y tiempo en que éstas deban cumplirse;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VI. La solicitud expresa de las partes de que el convenio se eleve a la categoría de cosa juzgada;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VII. La firma o huellas dactilares de quienes lo suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de una o ambas partes, cuando éstos no sepan firmar;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VIII. Cuando así lo soliciten las partes, el nombre y la firma de los abogados que hayan acompañado a los interesados, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IX. La firma del especialista que haya intervenido en el procedimiento y el sello del Centro en su caso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 El acuerdo deberá reunir las mismas formalidades y requisitos, con excepción de lo previsto en la fracción VI de este numeral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 42.
 
 El procedimiento concluirá por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -747,39 +775,39 @@ I. El convenio o acuerdo en donde se resuelva total o parcialmente la controvers
 
 II. La decisión de una de las partes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 III. La inasistencia injustificada de ambas partes a alguna sesión, o por dos inasistencias injustificadas de cualquiera de las partes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 IV. La negativa de las partes para la suscripción del convenio o acuerdo en los términos de esta Ley;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 V. Resolución del Director del Centro cuando de la conducta de las partes se desprenda que no hay voluntad para llegar a un arreglo, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 VII (SIC). Que se hayan girado dos invitaciones a la parte invitada y no se haya logrado su asistencia a la primera sesión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LOS MEDIOS ALTERNATIVOS PRIVADOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 43.
 
@@ -789,7 +817,7 @@ I. Acreditar la constitución, existencia y representación de la institución, 
 
 II. Contar con la autorización del Consejo de la Judicatura del Estado para su operación;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -797,9 +825,9 @@ III. Contar con uno o más especialistas debidamente registrados, y
 
 IV. Contar con un reglamento interno debidamente autorizado por el Consejo de la Judicatura, que detalle la organización de la institución y sus reglas generales de funcionamiento para la prestación de servicios de mediación y conciliación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 44.
 
@@ -807,7 +835,7 @@ Corresponderá a los especialistas privados promover la solicitud ante el Centro
 
 No serán elevados a categoría de cosa juzgada los convenios que a juicio del Director del Centro, afecten intereses de orden público o haya recaído sobre derechos respecto de los cuales los interesados no tengan la libre disposición.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -815,27 +843,35 @@ No serán elevados a categoría de cosa juzgada los convenios que a juicio del D
 
 El procedimiento ante los especialistas privados se ajustará en lo conducente a lo dispuesto por el Capítulo Sexto de la Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO OCTAVO. DE LOS EFECTOS DEL PROCEDIMIENTO Y DE LOS CONVENIOS O ACUERDOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 46.
 
-Los convenios celebrados serán definitivos y tendrán la categoría de cosa juzgada una vez que sean ratificados ante el Director del Centro, y sean autorizados por este de acuerdo a lo previsto en esta Ley. El cumplimiento forzoso del convenio se solicitará al Juez competente en vía de ejecución de sentencia.
+Los convenios celebrados serán definitivos y tendrán la categoría de cosa juzgada una vez que sean ratificados y autorizados de acuerdo a lo previsto en la presente Ley, por el Director del Centro o en su caso por el Subdirector o el Coordinador de la sede u oficina regional correspondiente cuando así le sea previamente autorizado por el Director. El cumplimiento forzoso del convenio se solicitará al Juez competente en vía de ejecución de sentencia.
 
-Si el procedimiento alternativo se inicio con proceso judicial, se deberá remitir el convenio ante el Juez que este planteado el asunto para los efectos legales correspondientes.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+Si el procedimiento alternativo se inició con proceso judicial, se deberá remitir el convenio ante el Juez que este planteado el asunto para los efectos legales correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 En el caso de los acuerdos que hayan sido aprobados, si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubiera arribado a acuerdo alguno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+
 El cumplimiento de lo acordado extingue el ejercicio de la acción penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -861,13 +897,13 @@ III. El día 20 de abril de 2011, en el Partido Judicial de Ensenada.
 
 IV. Tratándose de los medios alternativos en materia penal, las normas que se contienen en esta Ley, se comenzarán a aplicar el día once de agosto del año dos mil diez en el Partido Judicial de Mexicali; el día tres de mayo del año dos mil doce en el Partido Judicial de Ensenada y el día tres de mayo del año dos mil trece en los municipios de Tijuana, Tecate y Playas de Rosarito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
 SEGUNDO.- El Consejo de la Judicatura por conducto del Instituto de la Judicatura, en un plazo que no exceda de ciento ochenta días naturales a partir de la publicación de esta Ley, deberá impartir capacitación especializada en teoría y técnicas de mediación y conciliación, de acuerdo a los principios y procedimientos contenidos en esta Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -879,7 +915,7 @@ El Reglamento que corresponda expedir al Poder Ejecutivo del Estado, deberá pub
 
 CUARTO.- El Consejo de la Judicatura deberá establecer dentro de los Proyectos de Presupuesto de Egresos del Poder Judicial para los próximos ejercicios fiscales, las partidas presupuestales que permitan la integración y funcionamiento del Centro Estatal de Justicia Alternativa, acorde a lo previsto en el artículo primero transitorio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -913,7 +949,7 @@ BERNARDO H. MARTINEZ AGUIRRE.
 
 P.O. 20 DE MARZO DE 2009.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 13 DE NOVIEMBRE DE 2009.
 
@@ -921,8 +957,12 @@ P.O. 13 DE NOVIEMBRE DE 2009.
 
 P.O. 22 DE ENERO DE 2010.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 23 DE ABRIL DE 2010.
 
-EL DECRETO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+EL DECRETO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
