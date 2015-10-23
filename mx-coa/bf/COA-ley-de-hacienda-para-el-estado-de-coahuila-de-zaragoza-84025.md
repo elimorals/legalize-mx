@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2014-12-26"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -49,9 +49,11 @@ LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 La presente Ley tiene por objeto regular los ingresos de la Hacienda Pública del Estado de Coahuila de Zaragoza, por los diversos conceptos tributarios a que se refiere el Código Fiscal para el Estado de Coahuila de Zaragoza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 2.
 
-La iniciativa de Ley de Ingresos del Estado se formulará de conformidad con la Constitución Política del Estado, esta Ley y demás disposiciones aplicables, debiendo presentarse por el Gobernador Constitucional del Estado a la consideración, y en su caso, aprobación al H. Congreso del Estado a más tardar el 30 de noviembre de cada año, o hasta el 15 de diciembre en los años en que inicie su encargo.
+La iniciativa de Ley de Ingresos del Estado se formulará de conformidad con la Constitución Política del Estado, esta Ley, la Ley General de Contabilidad Gubernamental, la normatividad emitida por el Consejo Nacional de Armonización Contable y por el Consejo de Armonización Contable del Estado de Coahuila de Zaragoza, y demás disposiciones aplicables, debiendo presentarse por el Gobernador Constitucional del Estado a la consideración, y en su caso, aprobación al H. Congreso del Estado a más tardar el 30 de noviembre de cada año, o hasta el 15 de diciembre en los años en que inicie su encargo.
 
 La Ley de Ingresos regirá en el curso del año para el cual se expida, pero si por cualquier circunstancia no se publicara, continuará en vigor la del año anterior, salvo los casos de excepción que establezca el Congreso.
 
@@ -3278,3 +3280,9 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
