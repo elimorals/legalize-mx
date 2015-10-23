@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-del-sistema-estatal-de-cultura-fisica-y-71081"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2014-08-25"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 26 de noviembre de 2009.
 
@@ -53,6 +53,10 @@ La participación en el Sistema Estatal del Deporte es obligatoria para las depe
 
 Los sectores social y privado podrán participar en el Sistema, conforme a lo previsto en este ordenamiento.
 
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+El Sistema Estatal del Deporte promoverá las medidas preventivas necesarias para erradicar la violencia, así como la implementación de sanciones a quienes la ejerzan, lo anterior, sin perjuicio de las responsabilidades penales y civiles a que haya lugar, y para reducir los riesgos de afectación en la práctica de actividades físicas, recreativas o deportivas, así como para prevenir y erradicar el uso de sustancias y métodos no reglamentarios que pudieran derivarse del dopaje.
+
 ###### Artículo 4.
 
 La presente ley tiene como finalidad regular el deporte popular, estudiantil, federado, de alto rendimiento y el deporte profesional como espectáculo público; además, establecer la obligación del Ejecutivo del Estado de fomentar, promover, organizar y conducir la política estatal en la materia, de conformidad con el Programa Operativo Estatal. Asimismo, servir como instrumento para promover y organizar la participación de la población del Estado en las actividades deportivas.
@@ -72,6 +76,18 @@ IV. Deporte de alto rendimiento: El de excelencia del deporte federado, que conl
 V. Deporte profesional: El que practican deportistas a cambio de un salario o remuneración, y podrá contar con la participación de recursos públicos aprobados y reglamentados por el Consejo del Sistema Estatal del Deporte y el H. Congreso del Estado; y
 
 VI. Sistema Estatal del Deporte: Autoridades deportivas, acciones, recursos y procedimientos destinados a impulsar, fomentar y desarrollar el deporte en el Estado.
+
+> <small>(ADICIONADA, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+VII. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+
+> <small>(ADICIONADA, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+VIII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquel que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos; y
+
+> <small>(ADICIONADA, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+IX. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo.
 
 ### CAPÍTULO II. De las Autoridades Deportivas
 
@@ -141,7 +157,47 @@ XXII. Dar vista a la autoridad competente cuando se presuma la comisión de un d
 
 XXIII. Coordinar las acciones de todos los programas de deporte que a nivel estatal organice cualquier institución pública o privada; y
 
-XXIV. Las demás que le otorguen esta ley, su reglamento, y demás normas aplicables.
+> <small>(REFORMADA, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+XXIV. Promover los mecanismos y acciones encaminados a prevenir la violencia en eventos deportivos y garantizar el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo y en sus inmediaciones, así como la seguridad y patrimonio de las personas, en coordinación con las autoridades de Seguridad Pública, Seguridad Privada y de Protección Civil correspondientes; y
+
+> <small>(ADICIONADA, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+XXV. Las demás que le otorguen esta ley, su reglamento, y demás normas aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 8 Bis.
+
+La coordinación y colaboración entre la Federación, el Estado y los municipios, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, será subsidiaria y se sujetará a lo siguiente:
+
+I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+
+II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del municipio en que se celebren los eventos.
+
+La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, estatales o federales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
+
+III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en términos de lo que dispongan las leyes aplicables;
+
+IV. A solicitud de las autoridades municipales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren con las autoridades estatales, intervendrán para garantizar la seguridad en las áreas que se especifiquen, de acuerdo con la naturaleza del evento de que se trate;
+
+V. A solicitud de las autoridades estatales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades federales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
+
+VI. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de la Comisión Especial.
+
+Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.
+
+Para los efectos de este artículo, se considera que el evento deportivo concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones;
+
+VII. Los responsables de la seguridad en el interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+
+VIII. En la seguridad del interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos, tanto oficiales como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+
+IX. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse;
+
+X. Las autoridades de los tres órdenes de gobierno capacitarán a los cuerpos policiacos y demás autoridades encargadas de la seguridad, en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y extinguir actos de violencia que puedan suscitarse en este sentido, y
+
+XI. La Ley del Sistema Estatal de Seguridad Pública establecerá lo conducente para la más eficaz prestación del servicio de seguridad pública entre el Estado y los municipios, para garantizar el desarrollo pacífico de los eventos deportivos, que se realicen en la jurisdicción estatal o municipal, atendiendo a lo previsto en este artículo.
 
 ###### Artículo 9.
 
@@ -683,6 +739,14 @@ Tendrán acceso a las instalaciones deportivas todos los deportistas que la requ
 
 En la construcción de instalaciones deportivas, deberán tomarse en cuenta las especificaciones técnicas y arquitectónicas que sean necesarias para el deporte infantil y demás poblaciones especiales. Asimismo, en la rehabilitación de los espacios deberán realizarse las modificaciones necesarias de acceso y servicios para el deporte adaptado.
 
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+Las autoridades municipales serán competentes para verificar el cumplimiento de la presente disposición.
+
 ###### Artículo 61.
 
 La autoridad estatal o municipal, conforme a su competencia, podrá clausurar cualquier instalación deportiva que no cumpla con las condiciones de seguridad a sus usuarios, previo dictamen de la autoridad de protección civil y con opinión del Patronato del deporte correspondiente. En todo caso, la autoridad que dicte la clausura, deberá tomar las medidas conducentes a su rehabilitación o reposición para el mismo fin deportivo, procurando que el cambio sea por un bien igual o de mayor calidad.
@@ -739,9 +803,101 @@ Todos los deportistas que participen en competencias estatales tendrán la oblig
 
 En los eventos deportivos estatales, el Comité Estatal contra el Uso de Substancias (sic) Prohibidas será el responsable de aplicar y evaluar controles y dictar las sanciones que correspondan; todo ello apegado a las normas del Comité Olímpico Internacional y de la Comisión Nacional del Deporte.
 
-### CAPÍTULO XI. De las Sanciones Administrativas y Recursos en el Deporte
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 23 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO XII. De la Comisión Resolutiva de Inconformidades
+### CAPÍTULO X BIS. De la Prevención de la Violencia en el Deporte
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 69 Bis.
+
+Las disposiciones previstas en este Capítulo serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, el Estado y los Municipios.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 69 Ter.
+
+Para efectos de esta Ley, de manera enunciativa y no limitativa, por actos o conductas violentas o que inciten a la violencia en el deporte se entienden los siguientes:
+
+I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+
+II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen, de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquellos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+IV. La irrupción no autorizada en los terrenos de juego;
+
+V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+
+VII. Las que establezcan la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 69 Quater.
+
+Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas, cuando no resulten dañados bienes de la Nación o afectados servidores públicos federales en el ejercicio de sus funciones:
+
+I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas.
+
+En este supuesto, se impondrán de seis meses a dos años de prisión y de cinco a treinta días de multa;
+
+II. Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales.
+
+Quien incurra en esta hipótesis será sancionado con seis meses a tres años de prisión y de diez a cuarenta días de multa;
+
+III. Participe activamente en riñas, lo que se sancionará con seis meses a cuatro años de prisión y de diez a sesenta días de multa;
+
+IV. Incite o genere violencia, se considera incitador a quien dolosamente determine a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes;
+
+V. Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones, o
+
+VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
+
+Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con un año seis meses a cuatro años seis meses de prisión y de veinte a noventa días de multa.
+
+Para efectos de lo dispuesto en este artículo, un día de multa equivale a un día de los ingresos que por cualquier concepto perciba el inculpado, y a falta de prueba a un día de salario mínimo general, vigente el día y en el lugar donde se haya cometido el delito.
+
+A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de privación de la libertad que le resulte impuesta.
+
+No se castigará como delito la conducta de un asistente a un evento deportivo masivo o de espectáculo, cuando su naturaleza permita la interacción con los participantes.
+
+Las personas que, directa o indirectamente, realicen las conductas previstas en este artículo serán puestas inmediatamente a disposición de las autoridades correspondientes, para que se investigue su probable responsabilidad y se garantice la reparación del daño.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 69 Quinquies.
+
+Quienes en su carácter de asistente o espectador acudan a la celebración de un evento deportivo deberán:
+
+I. Acatar las disposiciones normativas relacionadas con la cultura física y la prevención y erradicación de la violencia en el deporte, así como de las diversas modalidades de los eventos deportivos contenidas en la presente Ley y su Reglamento, así como las de la localidad en donde se lleven a cabo, y
+
+II. Cumplir con las indicaciones señaladas por el organizador, mismas que deberán contener las causas por las que se pueda impedir su entrada a las instalaciones donde se llevará a cabo dicho espectáculo.
+
+Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente, conforme a los ordenamientos referidos por la autoridad competente.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 69 Sexies.
+
+Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte se emitan, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las asociaciones deportivas nacionales o estatales respectivas.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 69 Septies.
+
+Los integrantes del Consejo Estatal del Deporte podrán revisar continuamente sus disposiciones reglamentarias y estatutarias, a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
+
+Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
+
+> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 69 Octies.
+
+Para los efectos señalados en este Capítulo, se instituye el padrón de personas sancionadas con suspensión del derecho de asistir a eventos deportivos, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición o suspensión de asistencia a eventos deportivos masivos o con fines de espectáculo. Este padrón formará parte de las bases de datos del Sistema Nacional de Seguridad Pública, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
+
+### CAPÍTULO XI. De las Sanciones Administrativas y Recursos en el Deporte
 
 ###### Artículo 70.
 
@@ -797,6 +953,18 @@ b) Limitación, reducción o cancelación de apoyos económicos; y
 
 c) Suspensión temporal o definitiva del uso de instalaciones deportivas oficiales.
 
+> <small>(ADICIONADA, G.O. 23 DE OCTUBRE DE 2015)</small>
+
+VI. Los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y, en su caso, la reincidencia:
+
+a) Expulsión inmediata de las instalaciones deportivas;
+
+b) Amonestación privada o pública;
+
+c) Multa de 10 a 90 días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, y
+
+d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
+
 ###### Artículo 72.
 
 Además de las sanciones señaladas en el artículo anterior, en su caso, se aplicarán las siguientes:
@@ -818,6 +986,8 @@ Las resoluciones que impongan sanciones, agotada la reconsideración, podrán im
 ###### Artículo 75.
 
 El Consejo del Sistema Estatal del Deporte del Estado, a través de su presidente y el director del Instituto Veracruzano del Deporte, expedirán el Reglamento de las Sanciones y Recursos establecidos en esta ley.
+
+### CAPÍTULO XII. De la Comisión Resolutiva de Inconformidades
 
 ###### Artículo 76.
 
@@ -896,3 +1066,9 @@ G.O. 25 DE AGOSTO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 23 DE OCTUBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
