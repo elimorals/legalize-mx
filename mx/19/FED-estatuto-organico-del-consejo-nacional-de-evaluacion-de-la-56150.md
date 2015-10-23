@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-evaluacion-de-la-5615
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-07-16"
-last_updated: "2011-05-16"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2007-03-16"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE EVALUACION DE LA POLITICA DE DESARROLLO SOCIAL
 
-ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE EVALUACION DE LA POLITICA DE DESARROLLO SOCIAL
+ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 16 de julio de 2007.
 
@@ -101,7 +101,7 @@ X. Órgano de Vigilancia: El Comisario Público Propietario y Suplente previstos
 
 XI. Reglamento: el Reglamento de la Ley General de Desarrollo Social;
 
-XII. Reglamento de Ley de las Entidades; (sic) el Reglamento de la Ley Federal de las Entidades Paraestatales;
+XII. Reglamento de Ley de las Entidades; el Reglamento de la Ley Federal de las Entidades Paraestatales;
 
 XIII. Secretaría: la Secretaría de Desarrollo Social del Gobierno Federal,
 
@@ -515,15 +515,17 @@ I. Dirección General Adjunta de Administración.
 
 2. Dirección de Transparencia.
 
-3. Dirección de Tecnología de la Información.
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+3. Dirección de Tecnología de Información.
+
+> <small>(REFORMADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
 
 II. Dirección General Adjunta de Análisis de la Pobreza.
 
-1. Dirección de Normas y Métodos de Medición de la Pobreza.
+1. Dirección de Normas y Metodología de Medición de la Pobreza.
 
-2. Dirección de Análisis y Medición de la Pobreza.
-
-3. Dirección de Muestreo y Estadística.
+2. Dirección de Muestreo y Estadística.
 
 III. Dirección General Adjunta de Evaluación.
 
@@ -533,11 +535,17 @@ III. Dirección General Adjunta de Evaluación.
 
 3. Dirección de Monitoreo de Programas Sociales.
 
+> <small>(ADICIONADO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+4. Dirección de Evaluación de Impacto.
+
 IV. Dirección General Adjunta de Coordinación.
 
 1. Dirección de Servicios Jurídicos.
 
-2. Dirección de Información y Comunicación.
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+2. Dirección de Información y Comunicación Social.
 
 3. Dirección de Servicios Técnicos.
 
@@ -757,9 +765,11 @@ XV. Coordinar la elaboración del informe anual sobre el acceso a la informació
 
 XVI. Acordar con la Dirección General Adjunta de Administración los asuntos de su competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-La Dirección de Tecnología de la Información tiene las siguientes funciones:
+La Dirección de Tecnología de Información tiene las siguientes funciones:
 
 I. Determinar y proponer los procedimientos, normas, reglamentos y metodologías sobre la administración de proyectos tecnológicos, la administración de la infraestructura tecnológica vigente y el desarrollo así como la operación, implementación y mantenimiento de sistemas, redes y telecomunicaciones del Consejo, para su presentación ante el Comité;
 
@@ -849,11 +859,65 @@ XIII. Apoyar el establecimiento de metodologías de evaluación de programas y/o
 
 XIV. Proponer al Secretario Ejecutivo las medidas tendientes al desarrollo de las encuestas nacionales, regionales y locales que solicite el Consejo, y
 
+> <small>[N. DE E. DE LA APLICACIÓN DEL ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL, PUBLICADO EN EL D.O.F. DE 23 DE OCTUBRE DE 2015, SE OBSERVA QUE EL CONTENIDO DE LA FRACCIÓN XV, ES SIMILAR A LA FRACCIÓN XXVII DEL PRESENTE ARTÍCULO.]</small>
+
 XV. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XVI. Coordinar las estimaciones sobre la pobreza a nivel nacional, estatal y municipal, de conformidad con los criterios establecidos por el Consejo;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XVII. Coordinar el análisis de la información disponible en materia económica y social, que permita establecer los requerimientos para llevar a cabo las estimaciones señaladas en la fracción anterior;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XVIII. Proponer métodos de análisis para la medición de la pobreza;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XIX. Proponer los modelos estadísticos, económicos y econométricos o de otra índole necesarios para realizar el análisis adecuado de la pobreza;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XX. Coordinar el desarrollo e investigación de modelos econométricos para el análisis y estimación de la pobreza;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XXI. Dirigir el intercambio de información con otros organismos para obtener cálculos de mediciones de la pobreza que sean relevantes para la toma de decisiones en materia de Política Social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XXII. Coordinar la elaboración de informes oficiales de resultados de las mediciones de pobreza;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XXIII. Analizar los vínculos entre medición de la pobreza y el impacto de los programas sociales;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XXIV. Analizar y desagregar los cambios en los niveles de pobreza para determinar el impacto de los programas y políticas de desarrollo social;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XXV. Elaborar estudios e investigaciones en materia de medición de la pobreza a nivel nacional, estatal y municipal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XXVI. Coordinar los contenidos de la página de Internet del Consejo, en materia de medición de la pobreza para difundir los resultados alcanzados en la materia.
+
+> <small>[N. DE E. DE LA APLICACIÓN DEL ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL, PUBLICADO EN EL D.O.F. DE 23 DE OCTUBRE DE 2015, SE OBSERVA QUE EL CONTENIDO DE LA FRACCIÓN XXVII, ES SIMILAR A LA FRACCIÓN XV DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 23 DE OCTUBRE DE 2015)</small>
+
+XXVII. Acordar con el Secretario Ejecutivo los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 38.
 
-La Dirección de Normas y Métodos de Medición de la Pobreza tiene las siguientes facultades:
+La Dirección de Normas y Metodología de Medición de la Pobreza tiene las siguientes facultades:
 
 I. Coordinar el intercambio de información sobre técnicas de medición de la pobreza con instituciones públicas, académicas y privadas;
 
@@ -873,31 +937,7 @@ VIII. Acordar con la Dirección General Adjunta de Análisis de la Pobreza los a
 
 ###### Artículo 39.
 
-Corresponde a la Dirección de Análisis y Medición de la Pobreza las siguientes facultades:
-
-I. Coordinar las estimaciones sobre la pobreza a nivel nacional, estatal y municipal, de conformidad con los criterios establecidos por el Consejo;
-
-II. Coordinar el análisis de la información disponible en materia económica y social, que permita establecer los requerimientos para llevar a cabo las estimaciones señaladas en la fracción anterior;
-
-III. Proponer a la Dirección General Adjunta de Análisis de la Pobreza, métodos de análisis para la medición de la pobreza;
-
-IV. Proponer los modelos estadísticos, económicos y econométricos o de otra índole necesarios para realizar el análisis adecuado de la pobreza;
-
-V. Coordinar el desarrollo e investigación de modelos econométricos para el análisis y estimación de la pobreza;
-
-VI. Dirigir el intercambio de información con otros organismos para obtener cálculos de mediciones de la pobreza que sean relevantes para la toma de decisiones en materia de Política Social;
-
-VII. Coordinar la elaboración de informes oficiales de resultados de las mediciones de pobreza;
-
-VIII. Analizar los vínculos entre medición de la pobreza y el impacto de los programas sociales;
-
-IX. Analizar y desagregar los cambios en los niveles de pobreza para determinar el impacto de los programas y políticas de desarrollo social;
-
-X. Elaborar estudios e investigaciones en materia de medición de la pobreza a nivel nacional, estatal y municipal;
-
-XI. Coordinar los contenidos de la página de internet del Consejo, en materia de medición de la pobreza para difundir los resultados alcanzados en la materia, y
-
-XII. Acordar con la Dirección General Adjunta de Análisis de la Pobreza la atención y el despacho de los asuntos de su competencia.
+(DEROGADO, D.O.F. 23 DE OCTUBRE DE 2015)
 
 ###### Artículo 40.
 
@@ -1301,7 +1341,7 @@ Gonzalo Hernández Licona
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
 
 D.O.F. 4 DE ENERO DE 2010.
 
@@ -1314,3 +1354,11 @@ D.O.F. 16 DE MAYO DE 2011.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+D.O.F. 23 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La presente reforma deberá inscribirse en el Registro Público de Organismos Descentralizados, de conformidad con las disposiciones jurídicas aplicables.
+
+TERCERO.- Publíquese en la página de Internet del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
