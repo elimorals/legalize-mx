@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2015-02-22"
+last_updated: "2015-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -1155,6 +1155,10 @@ XXXVI. Participar en los términos de las leyes de la materia, en la celebració
 
 XXXVII. Administrar y vigilar los almacenes generales en donde se depositan bienes del estado.
 
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+
+XXXVIII. Emitir lineamientos sobre contabilidad gubernamental y forma de consolidación de la información financiera, conforme a la normativa aplicable.
+
 Para la recaudación de impuestos, derechos, contribuciones y cualquier otra carga tributaria y para el ejercicio de aquellas atribuciones en la materia que se convengan con la federación y los municipios, la dependencia tendrá una unidad administrativa especializada denominada Administración Fiscal General.
 
 Las funciones de fiscalización, ejecución, representación legal y defensa jurídica de los intereses de la hacienda pública y administración tributaria serán ejercidas por la dependencia a través de la Administración Fiscal General.
@@ -1836,3 +1840,9 @@ En los casos en que otras leyes concedan atribuciones a la Secretaría de Turism
 ###### ARTÍCULO CUARTO.
 
 En un plazo de quince días contados a partir de la entrada en vigor del presente decreto, se deberá emitir o en su caso, adecuar la reglamentación correspondiente, a los términos de esta reforma.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
