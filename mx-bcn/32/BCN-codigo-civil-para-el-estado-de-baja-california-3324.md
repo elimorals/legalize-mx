@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-05-29"
+last_updated: "2015-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -5085,17 +5085,21 @@ Los bienes de dominio del poder público se regirán por las disposiciones de es
 
 Los bienes de dominio del poder público se dividen en bienes de uso común, bienes destinados a un servicio público y bienes propios.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 760.
 
-Los bienes de uso común son inalienables e imprescriptibles. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la Ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
+Los bienes de uso común son inalienables, imprescriptibles e inembargables. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la Ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
 
 ###### ARTICULO 761.
 
 Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a las penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 762.
 
-Los bienes destinados a un servicio público y los bienes propios, pertenecen en pleno dominio al Estado de Baja California o a los municipios; pero los primeros son inalienables e imprescriptibles, mientras no se les desafecte del servicio público a que se hallen destinados.
+Los bienes destinados a un servicio público y los bienes propios, pertenecen en pleno dominio al Estado de Baja California o a los municipios, son inembargables e imprescriptibles.
 
 ###### ARTICULO 763.
 
@@ -16384,3 +16388,7 @@ SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entra
 OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
 
 NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
