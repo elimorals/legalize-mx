@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2014-11-07"
+last_updated: "2015-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08, PUBLICADA EN EL P.O. DE 23 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -2098,3 +2100,53 @@ CUARTO. La Secretaría de Protección Civil, expedirá su Reglamento Interior en
 QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, y en la página web de éste Poder Legislativo.
 
 SEXTO. Remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Guerrero, publicada en el Periódico Oficial el día 12 de octubre de 1999, sus reformas y adiciones posteriores así como las leyes, decretos o reglamentos vigentes en el Estado, en lo que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Cuando alguna unidad administrativa se reubique, conforme a esta Ley, de una dependencia del Ejecutivo a otra, el traspaso se hará incluyendo al personal a su servicio, tutelado por la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248, sin perjuicio de sus derechos adquiridos, los recursos presupuestales, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que tales unidades hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley anterior, con la intervención que corresponda a la Secretaría de Finanzas y Administración y a la Secretaría de Contraloría y Transparencia Gubernamental. Así mismo y para el efecto de que la creación de nuevas dependencias no impacte a las finanzas del Estado, el Ejecutivo del Estado en base a lo dispuesto a las facultades establecidas en el Artículo 13 de la Presente Ley, deberá hacer una transferencia ordenada de recursos humanos materiales equipo y mobiliario de las actuales dependencias y entidades de la administración pública.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la Dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables los cuales tendrán que atenderse.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en esta Ley se dé denominación nueva o distinta o se instituya alguna dependencia cuyas funciones estén establecidas por la ley anterior u otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Los titulares de las dependencias y entidades de la Administración Pública Estatal a los que se refieren esta Ley, deberán presentar dentro de los noventa días siguientes a la entrada en vigor, los proyectos legales y reglamentarios para armonizar el marco jurídico a las reformas constitucionales.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto se expidan los nuevos ordenamientos que regulan los aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en todo lo que no se oponga a este Decreto, tanto las disposiciones legales como reglamentarias que regulaban los actos previstos en la Ley que se propone.
+
+###### ARTÍCULO OCTAVO.
+
+Hasta en tanto se armonicen las leyes y reglamentos que se deriven de la presente Ley, las referencias que se hagan respecto a la Contraloría General del Estado, se entenderán en lo que corresponda a la Secretaría de Contraloría y Transparencia Gubernamental.
+
+###### ARTÍCULO NOVENO.
+
+Hasta en tanto se armonicen las leyes y reglamentos que se deriven de la presente Ley, las referencias y las funciones que se hagan respecto al Comité de Planeación y Desarrollo del Estado de Guerrero (COPLADEG), se asumirán por la Secretaría de Planeación y Desarrollo Regional.
+
+Una vez integrado el Consejo de Políticas Públicas, dentro de los sesenta días siguientes, emitirá los Reglamentos y Ordenamientos internos necesarios para su funcionamiento, considerando lo establecido en el último párrafo del artículo 155; así como en lo que corresponda, al numeral 1 del artículo 158 de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+###### ARTICULO DÉCIMO.
+
+En la Integración del Plan Estatal de Desarrollo el Ejecutivo del Estado, a través de la Secretaria de Planeación y Desarrollo Regional deberá considerar las previsiones presupuestales, tomando en cuenta las incluidas en los planes municipales, contemplando además de las establecidas en el artículo 17 de la Ley de Planeación para el Estado de Guerrero, las comunidades de la Sierra.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Por lo que hace a las atribuciones de la Secretaría de Seguridad Pública; relacionadas con la ejecución de sanciones y los centros de reinserción social, se estará a lo que dispongan las leyes y demás ordenamientos de la materia.
