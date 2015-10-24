@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2015-09-05"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -431,15 +431,17 @@ Para el acto registral deberá ser presentada la niña, niño o adolescente ante
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes, con la representación en suplencia, solicitará la expedición de acta de nacimiento en caso de registro extemporáneo y en caso de niñas, niños y adolescentes de padres desconocidos o de persona que ejerza la representación originaria.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-Los profesionales de la medicina, paramédicos o parteras que hubieren asistido el alumbramiento, deberán extender dentro de los seis días siguientes y en forma gratuita, constancia única de nacimiento expedida y autorizada por la Secretaría de Salud y Bienestar Social del Estado, anotando el nombre y huella digital de la madre, número de orden que ocupa ese parto; así como huella digital, día, hora y lugar de nacimiento, sexo, peso y demás características de los recién nacidos, que pudieran servir de identificación.
+Los profesionales de la medicina, paramédicos o parteras que hubieren asistido el alumbramiento, deberán extender dentro de los seis días siguientes y en forma gratuita, constancia única de nacimiento expedida y autorizada por la Secretaría de Salud del Estado, anotando el nombre y huella digital de la madre, número de orden que ocupa ese parto; así como huella digital, día, hora y lugar de nacimiento, sexo, peso y demás características de los recién nacidos, que pudieran servir de identificación.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
 
 Para llevar a cabo el registro de un nacimiento, el Oficial del Registro Civil exigirá la constancia única de nacimiento, y la cancelará para evitar la duplicidad de registros.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
 Cuando no se de asistencia profesional durante el parto, para registrar el nacimiento se requiere, información rendida y apoyada por dos testigos vecinos o conocidos de la madre que sepan y les conste la gravidez y fecha de nacimiento, cuya declaración se efectuará ante el Oficial del Registro Civil, Presidente Municipal, Servidor Público responsable del Sistema para el Desarrollo Integral de la Familia en la localidad o del Ministerio Público, quienes tendrán la obligación de cerciorarse de la veracidad de la información ante ellos vertida.
 
@@ -1235,11 +1237,11 @@ Las visitas de orientación tendrán por objeto informar a los titulares de las 
 
 Las visitas de control administrativo tendrán por objeto asegurar la coordinación de las actividades de las oficialías, conforme a las normas reglamentarias y los convenios que se celebren con el Gobierno Federal.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 137], P.O. 15 DE JUNIO DE 1999)
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 139.
 
-Las visitas e inspecciones que corresponde realizar a la Procuraduría General de Justicia, se desarrollarán conforme las disposiciones que regulan las actividades de verificación y control a cargo del Ministerio Público.
+Las visitas e inspecciones que corresponde realizar a la Procuraduría Social del Estado de Jalisco, se desarrollarán conforme a las disposiciones que regulan las actividades de verificación y control.
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XVII], P.O. 15 DE JUNIO DE 1999)
 
@@ -1518,3 +1520,7 @@ Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales 
 DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
 
 DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
+
+P.O. 24 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
