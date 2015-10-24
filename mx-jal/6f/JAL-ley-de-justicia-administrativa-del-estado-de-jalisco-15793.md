@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2013-12-03"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -647,11 +647,25 @@ La Sala, sin dejar de observar los requisitos previstos en el artículo anterior
 
 El análisis a que se alude en el párrafo anterior debe realizarse sin prejuzgar sobre la certeza del derecho y, en consecuencia, la resolución dictada para otorgar la suspensión, no tendrá efecto alguno sobre la sentencia de fondo.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 69.
 
-Tratándose de créditos fiscales podrá suspenderse su ejecución, pero tal suspensión sólo surtirá efectos si, quien la solicita, garantiza su importe ante la Secretaría de Finanzas del Estado cuando el crédito fuere Estatal, o ante la Tesorería del municipio que corresponda, si se tratare de un crédito municipal.
+Tratándose de créditos fiscales podrá suspenderse su ejecución, pero tal suspensión sólo surtirá efectos si, quien la solicita, garantiza su importe ante:
 
-La garantía a que alude el párrafo que antecede no se exigirá cuando se trate de sumas que, a juicio de la Sala, excedan las posibilidades de quien deba prestarla, o cuando se trate de persona distinta del obligado directamente al pago, caso en el cual podrá garantizarse el crédito en cualquiera de las formas permitidas por la legislación fiscal aplicable.
+I. La Secretaría de Planeación, Administración y Finanzas del Estado cuando el crédito fuere estatal;
+
+II. La Tesorería del municipio que corresponda, cuando el crédito fuere municipal;
+
+III. La Secretaría de Planeación, Administración y Finanzas del Estado cuando el crédito fuere a favor de alguna entidad pública paraestatal del Estado;
+
+IV. La Tesorería del municipio que corresponda, cuando el crédito fuere a favor de una entidad pública paraestatal municipal; y
+
+V. La Tesorería del municipio que corresponda al domicilio del actor, cuando el crédito fuere a favor de una entidad pública intermunicipal.
+
+En el caso de las fracciones III y IV del presente artículo, cuando se trate de organismos descentralizados que tengan el carácter de organismos fiscales autónomos, la garantía se depositará en su tesorería.
+
+La garantía a que alude el primer párrafo de este artículo no se exigirá cuando se trate de sumas que, a juicio de la Sala, excedan las posibilidades de quien deba prestarla, o cuando se trate de persona distinta del obligado directamente al pago, caso en el cual podrá garantizarse el crédito en cualquiera de las formas permitidas por la legislación fiscal aplicable.
 
 En los casos en que proceda la suspensión, pero que pueda ocasionar daños y perjuicios a terceros, se concederá si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene sentencia favorable en el juicio.
 
@@ -1083,7 +1097,7 @@ I. Emitir y publicar el reglamento marco de información pública para sujetos o
 
 II. Emitir y publicar los lineamientos generales de clasificación de información pública, de publicación y actualización de información fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto;
 
-IlI. Autorizar los criterios generales de los sujetos obligados, en materia de clasificación de información pública, de publicación y actualización de información pública fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a su presentación ante el Instituto;
+III. Autorizar los criterios generales de los sujetos obligados, en materia de clasificación de información pública, de publicación y actualización de información pública fundamental, y de protección de información confidencial y reservada, dentro de los treinta días naturales siguientes a su presentación ante el Instituto;
 
 IV. Elaborar y distribuir entre los sujetos obligados, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente decreto, los formatos guía para
 
@@ -1118,5 +1132,9 @@ V. Analizar y reclasificar en su caso, la información pública en su poder, de 
 QUINTO. Los asuntos en materia de información pública, cuyo trámite haya iniciado durante la vigencia de la Ley de Transparencia e Información Pública del Estado de Jalisco, seguirán rigiéndose por la misma hasta su conclusión.
 
 P.O. 3 DE DICIEMBRE DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 24 DE OCTUBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
