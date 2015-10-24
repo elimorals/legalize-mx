@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-de-los-servicios-de-salud-de-zacatecas-106234
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-02-07"
-last_updated: "2015-03-07"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE ZACATECAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 7 de febrero de 2015.
 
@@ -113,7 +111,7 @@ II. Dirección General:
 
 a) Dirección Administrativa;
 
-b) Dirección del Régimen Estatal de Protección Social en Salud;
+b) (DEROGADO, P.O. 24 DE OCTUBRE DE 2015)
 
 c) Dirección de Planeación;
 
@@ -429,7 +427,7 @@ Para el mejor desempeño de sus funciones la Dirección General cuenta con las s
 
 I. Dirección Administrativa;
 
-II. Dirección del Régimen Estatal de Protección Social en Salud;
+II. (DEROGADA, P.O. 24 DE OCTUBRE DE 2015)
 
 III. Dirección de Planeación;
 
@@ -551,103 +549,21 @@ X. Presupuestar el inventario físico de los bienes muebles e inmuebles y promov
 
 XI. Las demás disposiciones jurídicas y administrativas aplicables.
 
-### CAPÍTULO VIII. De la Dirección del Régimen Estatal de Protección Social en Salud
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO VIII
 
 ###### Artículo 34.
 
-La Dirección del Régimen Estatal de Protección Social en Salud, tiene como objetivo brindar seguridad social al financiar el acceso efectivo, oportuno y de calidad a los servicios de salud a población que carece del servicio en otras instituciones de seguridad social.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2015)
 
 ###### Artículo 35.
 
-Para el mejor desempeño de sus funciones, la Dirección del Régimen Estatal de Protección Social en Salud, cuenta con dos áreas de apoyo Departamento de Asuntos Jurídicos y Departamento de Supervisión y las siguientes áreas administrativas:
-
-I. Subdirección de Prestaciones Médicas:
-
-a) Departamento de Gestión Médica;
-
-b) Departamento de Fondo de Protección Contra Gastos Catastróficos;
-
-c) Departamento de Seguro Médico Siglo XXI;
-
-d) Departamento de Atención Interestatal;
-
-e) Departamento de Prospera;
-
-II. Subdirección de Afiliación y Operación:
-
-a) Departamento de Promoción y Afiliación;
-
-b) Departamento de Validación del Padrón;
-
-c) Departamento de Administración del Padrón;
-
-d) Departamento de Supervisión y Seguimiento a Módulos;
-
-e) Departamento Estatal de Sistema Nominal de Salud;
-
-III. Subdirección de Administración y Finanzas:
-
-a) Departamento de Programación y Orientación del Gasto;
-
-b) Departamento de Control Financiero;
-
-c) Departamento de Administración y Control Interno;
-
-IV. Subdirección de Evaluación y Proyectos:
-
-a) Departamento de Evaluación y Análisis; y
-
-b) Departamento de Proyectos.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2015)
 
 ###### Artículo 36.
 
-La Dirección del Régimen Estatal de Protección Social en Salud tiene las siguientes funciones:
-
-I. Planear, coordinar, implantar y mantener el Sistema de Protección Social en Salud para garantizar la calidad de Servicios de Salud;
-
-II. Tramitar y actualizar ante la Comisión Nacional de Protección Social en la Salud la firma de los anexos anuales al Acuerdo de Coordinación para la Ejecución del Programa Salud Para Todos, Seguro Popular suscrito por la Federación y el Estado de Zacatecas;
-
-III. Proponer las metas de afiliación en forma coordinada a la Comisión Nacional de Protección Social en Salud y al Gobierno del Estado para la gestión de los recursos financieros como son la Cuota Social, Aportación Solidaria Federal y Aportación Solidaria Estatal;
-
-IV. Propiciar la garantía de los servicios médicos a los afiliados establecidas en el Catálogo Universal de Servicios de Salud (CAUSES);
-
-V. Gestionar los recursos para la acreditación de Unidades Hospitalarias para acceder al Fondo de Gastos Catastróficos y así obtener los recursos financieros que soporten la atención médica y protejan el patrimonio de las familias;
-
-VI. Planear y programar las acciones para la afiliación de familias objeto del Seguro Médico Siglo XXI;
-
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2015)</small>
-
-VII. Gestionar los recursos humanos, materiales y financieros necesarios para la operación, supervisión, evaluación y seguimiento del Programa de Inclusión Social Prospera;
-
-VIII. Elaborar, operar y evaluar los Acuerdos de Gestión entre el Régimen Estatal de Protección Social en Salud (REPSS) y los Hospitales y Jurisdicciones de Servicios de Salud de Zacatecas para la atención médica de los afiliados al Seguro Popular;
-
-IX. Gestionar los recursos financieros del Fondo de Previsión Presupuestal para apoyo de la infraestructura en salud, teniendo como base el Programa de Fortalecimiento de Infraestructura de unidades médicas;
-
-> <small>(F. DE E., P.O. 7 DE MARZO DE 2015)</small>
-
-X. Coordinar, analizar y validar el Programa Operativo Anual del Programa de Inclusión Social Prospera;
-
-XI. Proponer mecanismos innovadores que mejoren la atención médica con la finalidad de garantizar el cumplimiento de los derechos de los afiliados al Sistema de Protección Social en Salud;
-
-XII. Establecer estrategias que mejoren y consoliden la afiliación y reafiliación, para mantener el registro del Padrón de Afiliados según las prioridades, condiciones y recursos;
-
-XIII. Analizar y en su caso autorizar propuestas de proveedores disponibles para el otorgamiento de servicios de salud públicos y privados y promover la realización de convenios del Sistema de Protección Social en Salud;
-
-XIV. Impulsar todas las acciones que permitan alcanzar la operación del Seguro Médico Siglo XXI;
-
-XV. Coadyuvar en la formalización de acuerdos de coordinación del Sistema de Protección Social en Salud, entre el nivel federal y otros Estados de la República y Servicios de Salud, así como con otras instituciones para fortalecer las acciones del Seguro Popular;
-
-XVI. Supervisar el resguardo de la información comprobatoria del gasto de cuotas de los afiliados al Seguro Popular para aclaraciones futuras pertinentes;
-
-XVII. Fomentar la realización de estudios de costo beneficio en la compra de servicios, así como, los proyectos de mejoramiento de los procesos para optimización de recursos;
-
-XVIII. Instalar y brindar mantenimiento a los Sistemas Oficiales normados por la Comisión Nacional de Protección Social en Salud, para los (sic) validación de los afiliados al Seguro Popular;
-
-XIX. Supervisar el avance de la información de la Consulta Segura en las Unidades Médicas de Servicios de Salud para dar cumplimiento a la normatividad establecida;
-
-XX. Coordinar la elaboración del programa de gasto de operación del Seguro Popular; y
-
-XXI. Las demás disposiciones jurídicas y administrativas aplicables.
+(DEROGADO, P.O. 24 DE OCTUBRE DE 2015)
 
 ### CAPÍTULO IX. De la Dirección de Planeación
 
@@ -845,7 +761,9 @@ VIII. Coordinar, concertar y ejecutar programas especiales en materia de salud p
 
 IX. Planear y organizar la integración de comités y subcomités locales en pro de la salud, dentro de los Comités de Planeación y Desarrollo Municipal (COPLADEMUN);
 
-X. Coordinar las acciones de asesoramiento, supervisión y evaluación de la operación de las Jurisdicciones Sanitarias, de los Hospitales Generales y de la Mujer, así como de la Dirección del Régimen Estatal de Protección Social en Salud; y
+(REFORMADA, P.O. 24 DE OCTUBRE DE 2015);
+
+X. Coordinar las acciones de asesoramiento, supervisión y evaluación de la operación de las Jurisdicciones Sanitarias, de los Hospitales Generales y de la Mujer; y
 
 XI. Las demás disposiciones jurídicas y administrativas aplicables.
 
@@ -1264,3 +1182,11 @@ Cuarto.- Dentro del término de 180 días hábiles se expedirá el Manual de Org
 > <small>(F. DE E., P.O. 7 DE MARZO DE 2015)</small>
 
 APROBADO POR LA JUNTA DE GOBIERNO DE SERVICIOS DE SALUD, EN SESIÓN ORDINARIA CELEBRADA EL DÍA VEINTIDÓS DE NOVIEMBRE DEL 2013, EN LA CIUDAD DE ZACATECAS, ZAC.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente reforma al Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se autoriza a las áreas administrativas de los Servicios de Salud de Zacatecas y del Régimen Estatal de Protección Social en Salud, realizar los trámites necesarios para la transferencia de los recursos humanos, materiales y financieros que serán asignados al nuevo organismo público descentralizado, denominado Régimen Estatal de Protección Social en Salud.
