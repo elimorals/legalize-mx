@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2013-12-03"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,61 +21,119 @@ state: "JAL"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2013.
+LEY NÚMERO 200 DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MARZO DE 2021.
 
-Al margen un sello que dice: Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+Ley publicada en la Sección X al Número 43 del Boletín Oficial del Estado de Sonora, el lunes 27 de noviembre de 2017.
 
-Alberto Cárdenas Jiménez, Gobernador Constitucional del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber, que por conducto de la Secretaría del H. Congreso de esta Entidad Federativa, se me ha comunicado el siguiente decreto
+CLAUDIA ARTEMIZA PAVLOVICH ARELLANO, Gobernadora del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-NÚMERO.- 18214 EL CONGRESO DEL ESTADO DECRETA:
+Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente:
 
-LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
+LEY
+
+NÚMERO 200
+
+EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN
+
+NOMBRE DEL PUEBLO, TIENE A BIEN EXPEDIR LA SIGUIENTE:
+
+LEY
+
+DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1.
+###### ARTÍCULO 1°.
 
-El juicio en materia administrativa tiene por objeto resolver las controversias de carácter administrativo y fiscal que se susciten entre las autoridades del Estado, las municipales y de los organismos descentralizados de aquellas, con los particulares. Igualmente, de las que surjan entre dos o más entidades públicas de las citadas en el presente artículo.
+El presente ordenamiento es de orden público e interés social, de observancia general en el Estado de Sonora y tiene por objeto:
 
-Procede el juicio en materia administrativa en contra de disposiciones normativas de carácter general siempre que no se trate de leyes emanadas del Congreso. En estos casos la demanda deberá interponerse en contra del primer acto de aplicación, ante las salas del Tribunal de lo Administrativo.
+I.- Promover e incentivar la creación y consolidación de condiciones económicas para atraer al Estado inversiones nacionales y extranjeras, y promover el crecimiento de las empresas ya establecidas;
 
-También procede el juicio en materia administrativa en cualquier otro caso que expresamente determinen las leyes.
+II.- Promover e incentivar la creación de infraestructura logística, comercial, industrial, hidráulica, de servicios y demás necesaria para el desarrollo económico y la competitividad de las empresas en la Entidad;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+III.- Incentivar a la inversión productiva;
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2011
+IV.- Impulsar el desarrollo económico y competitividad del Estado de Sonora;
 
-El juicio en materia administrativa no procede en contra de las resoluciones de los recursos de revisión y de transparencia, ni de las revisiones oficiosas en materia de información pública, emitidas por el Instituto de Transparencia e Información Pública del Estado.
+V.- Fomentar la productividad y la competitividad del Estado de Sonora, procurando la generación de condiciones favorables para el crecimiento sostenido, sustentable y equitativo de todas las regiones, con el fin de generar empleos, aumentar el ingreso de sus habitantes y mejorar su calidad de vida;
 
-###### Artículo 2.
+VI.- Fomentar el aprovechamiento de los recursos y ventajas económicas y competitivas de la Entidad;
 
-Los juicios que se promuevan con fundamento en lo dispuesto por el artículo precedente, se substanciarán y resolverán con arreglo al procedimiento que determina esta ley.
+VII.- Impulsar el mejoramiento del marco jurídico estatal que favorezca y promueva el crecimiento, desarrollo económico y la competitividad;
 
-A falta de disposición expresa, y en cuanto no se oponga a lo prescrito en este ordenamiento, se estará a lo dispuesto por el Código de Procedimientos Civiles del Estado.
+VIII.- Promover e incentivar el desarrollo de la investigación científica y tecnológica que favorezca tanto el fortalecimiento económico y social, así como la productividad y la competitividad;
 
-###### Artículo 3.
+IX.- Vincular a las instituciones educativas con los sectores productivos para la formación de una fuerza laboral acorde a las demandas y requerimientos de las empresas;
 
-Son parte en el juicio administrativo:
+X.- Promover e incentivar los sectores económicos estratégicos que sean altamente competitivos a través de esquemas de agrupamientos empresariales, clústers y cadenas de valor;
 
-I. El actor;
+XI.- Establecer esquemas de cadenas productivas, y programas de desarrollo de proveedores locales, a efecto de impulsar la competitividad;
 
-II. El demandado. Tendrá ese carácter:
+XII.- Impulsar la comercialización de bienes y servicios producidos en el Estado de Sonora, en los mercados regional, nacional e internacional, así como contribuir a consolidar una oferta exportable;
 
-a) La autoridad que dicte u ordene, ejecute o trate de ejecutar la resolución o tramite el procedimiento impugnado o la que la sustituya legalmente;
+XIII.- Impulsar en coordinación con el sector empresarial acciones en favor de la responsabilidad social de las empresas;
 
-b) El particular a quien favorezca la resolución cuya modificación, extinción o nulidad pide la autoridad administrativa; y
+XIV.- Mantener información estadística, que contenga variables económicas y permita analizar en la sociedad los efectos de las políticas adoptadas en materia de competitividad y desarrollo económico;
 
-III. El tercero que tenga un derecho incompatible con la pretensión del demandante.
+XV.- Promover el establecimiento y aplicación de marcos regulatorios que promuevan la libre competencia, bajo las premisas de simplificación, homologación y transparencia en los trámites relacionados con la apertura, operación y sostenibilidad de las pequeñas y medianas empresas.
 
-Quien tenga interés jurídico en la anulación de un acto favorable a un particular también podrá presentarse en el juicio como coadyuvante de las autoridades administrativas, sin que por ello se le prive de la legitimación para ejercer la acción por sí mismo.
+XVI.- Promover, establecer y consolidar mecanismos financieros que permitan contar con mayores recursos para el fomento a la inversión y el empleo en el Estado de Sonora;
 
-###### Artículo 4.
+XVII.- Impulsar centros de innovación para los emprendedores, así como vincular a éstos con los capitales de inversión que permitan el desarrollo de sus proyectos. Lo anterior, se hará garantizando la protección de la propiedad intelectual de los mismos;
 
-Sólo podrán intervenir en el juicio las personas que tengan un interés jurídico que funde su pretensión.
+XVIII.- Trazar un plan de desarrollo y crecimiento de las Micro, Pequeñas y Medianas Empresas en el Estado de Sonora; y
+
+XIX.- Activar una cultura emprendedora a través de la articulación de programas y proyectos de promoción económica que permitan oportunidades de desarrollo económico y competitividad.
+
+###### ARTÍCULO 2°.
+
+Para efectos de esta Ley se entiende por:
+
+I.- Ley: La Ley de Competitividad y Desarrollo Económico del Estado de Sonora;
+
+II.- Nuevos empleos: Los registrados con carácter permanente ante el Instituto Mexicano del Seguro Social, dentro de los primeros cinco años de operación de la empresa de nueva creación o de las nuevas inversiones realizadas por las empresas establecidas, de acuerdo con el calendario de contrataciones contemplado en el proyecto de inversión de que se trate;
+
+III.- Nuevas inversiones: Las realizadas por las empresas de nueva creación o por las ya establecidas para aumentar su capacidad productiva e instalaciones dentro de los primeros cinco años de operación o de iniciado el proyecto respectivo;
+
+IV.- Organismo: La entidad creada por decreto del Ejecutivo del Estado que tenga las facultades y atribuciones que se señalen en el mismo, esta Ley, su reglamento y demás disposiciones legales aplicables y las cuales se encontrarán relacionadas al cumplimiento del objeto de la presente Ley, mismas que no se encuentren previstas para alguna otra Dependencia o Entidad de la Administración Pública del Estado de Sonora;
+
+V.- Secretaría: La Secretaría de Economía;
+
+VI.- Cadenas de valor: Herramienta básica empresarial que permite examinar todas las actividades que se realizan y sus interacciones, dividiendo las actividades estratégicamente relevantes;
+
+VII.- Cadena productiva: Es el sistema productivo integrado por un conjunto de agentes económicos y actividades, que conforman un proceso económico determinado, a partir de la obtención de materia prima, su transformación e inclusión en el mercado, lo que proporciona valor agregado a los procesos de generación de productos o servicios;
+
+VIII.- Desarrollo Económico: Es el resultado que, en beneficio de la sociedad, se genera cuando las políticas públicas de los distintos órdenes de gobierno se encuentran alineados y se logra la existencia de un marco regulatorio adecuado que permita un proceso permanente de mejora, así como mecanismos para el desarrollo óptimo de la gestión empresarial, que incida en la creación de fuentes de empleo y la mejor calidad de vida de la población;
+
+IX.- Competitividad: Conjunto de condiciones de un Estado que favorecen por un lado, la atracción de inversiones de manera más eficiente respecto de otros Estados, y por el otro lado, la capacidad de las empresas, instituciones e individuos que ahí radican para producir, posicionar y mantener con rentabilidad en los mercados los bienes y servicios que producen y con ello incrementar la calidad de vida de las personas;
+
+X.- Empresario: La persona física o moral legalmente constituida, cuyo objeto sea llevar a cabo actividades económicas para la producción o el intercambio de bienes y servicios para el mercado;
+
+XI.- Inversionista: la persona física o moral que realiza una inversión directa;
+
+XII.- Incentivos: Apoyos que se otorgan en los términos de esta Ley y las disposiciones fiscales de carácter estatal, a los inversionistas o empresarios, con el fin de favorecer su inversión productiva dentro del territorio estatal;
+
+XIII.- Inversión productiva: Disposición de capital que incrementa la capacidad para generar bienes y servicios o que permite generarlos de manera más eficiente a través del uso de mejores tecnologías, impactando de manera positiva en la generación de empleos;
+
+XIV.- MIPYMES: Las Micro, Pequeñas y Medianas Empresas;
+
+###### ARTÍCULO 3°.
+
+La aplicación de este ordenamiento estará a cargo del Ejecutivo del Estado, quien ejercerá las atribuciones correspondientes por conducto de la Secretaría, el Organismo y demás dependencias y entidades involucradas directa o indirectamente en el desarrollo económico, así como de los ayuntamientos, en el ámbito de sus respectivas competencias.
+
+###### ARTÍCULO 4°.
+
+La Secretaría de Agricultura, Ganadería, Recursos Hidráulicos, Pesca y Acuacultura, la Secretaría de Infraestructura y Desarrollo Urbano, la Comisión de Fomento al Turismo del Estado de Sonora, la Comisión de Energía del Estado de Sonora, la Comisión de Ecología y Desarrollo Sustentable, el Consejo Estatal de Ciencia y Tecnología, así como los organismos públicos, dependencias y las entidades agrupadas en sus respectivos sectores involucradas en la materia de esta Ley, en coordinación con la Secretaría y el Organismo promoverán las acciones o inversiones que emanen de esta Ley y de los planes regionales para la competitividad, debiendo incorporarlas en los Presupuestos de Egresos del Estado, propias de la promoción económica de una manera coordinada con la Secretaría y el Organismo, para alcanzar un desarrollo integral y armónico del Estado.
+
+###### ARTÍCULO 5o.
+
+El Ejecutivo del Estado y los ayuntamientos deberán prever en sus correspondientes presupuestos de egresos los recursos necesarios para la promoción e incentivar el desarrollo económico y la competitividad del Estado y de los municipios.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE MARZO DE 2021)</small>
 
 ###### Artículo 5.
 
@@ -87,153 +145,267 @@ En los juicios a que se refiere la presente ley no procederá la gestión de neg
 
 La personería de las partes se acreditará en los términos que dispongan las leyes.
 
-###### Artículo 7.
+###### ARTÍCULO 7°.
 
-Las partes, en cualquier etapa procesal, podrán designar como abogado patrono a cualquier persona que se encuentre legalmente autorizada para ejercer la profesión de abogado o de licenciado en derecho. La designación se hará por escrito, el que deberá suscribir de conformidad la persona sobre quien recaiga el nombramiento.
+El Ejecutivo Estatal constituirá un fondo para incentivar el desarrollo económico y la competitividad del Estado, tomando previamente en consideración la normatividad y las reglas de operación que para tal efecto le proponga la Secretaría, de conformidad con lo establecido en la presente Ley y demás disposiciones que de ella emanen.
 
-La persona designada en los términos del párrafo que antecede podrá recibir notificaciones, hacer promociones de trámite, ofrecer y rendir pruebas, alegar en las audiencias, interponer recursos y en general, realizar todos los actos que resulten necesarios para la defensa de los derechos de quien lo autorizó, pero no podrá delegar o substituir tales facultades en un tercero.
+El fondo se formará con los recursos señalados en el Presupuesto de Egresos del Gobierno del Estado cuyo monto, sólo para efectos de referencia, no podrá ser menor al 15% del ingreso anual correspondiente al Impuesto Estatal Sobre Remuneraciones al Trabajo Personal obtenido en el ejercicio inmediato anterior a aquel que se presupueste.
 
-La acreditación de la autorización para el ejercicio de la profesión deberá realizarse mediante la inscripción de la cédula o autorización provisional en su caso, en los libros de registro de que disponga el órgano jurisdiccional que conozca del asunto.
+Estos recursos serán ejercidos y administrados por el Organismo, los cuales se destinarán al otorgamiento, en el ámbito Estatal, de los incentivos no fiscales a que se refiere la fracción I y IV del inciso B del artículo 18 de esta Ley, en los términos de la misma.
 
-Las partes podrán, además, designar a cualquier persona con capacidad legal, para que en su nombre reciba notificaciones y se imponga de los autos. La persona así designada no tendrá las facultades señaladas en el párrafo precedente.
+###### ARTÍCULO 8°.
 
-###### Artículo 8.
+Los ayuntamientos crearán los mecanismos necesarios para promover el desarrollo económico y la competitividad de su región, buscando siempre la coordinación con otros municipios y con las instancias Estatal y Federal y la concertación con los sectores social y privado.
 
-Para las diligencias que deben practicarse fuera del local del tribunal podrán ser comisionados los secretarios o actuarios del mismo.
+###### ARTÍCULO 9°.
 
-Las que deban desahogarse fuera de la residencia del tribunal, dentro del estado, podrán practicarse mediante exhorto que se dirigirá al juzgado de primera instancia mixto o especializado en materia civil; en su caso, podrán practicarse mediante despacho que deberá remitirse al Juez Menor o de Paz del lugar en donde deba practicarse la diligencia.
+Los ayuntamientos podrán otorgar a los inversionistas o empresarios que inviertan o se establezcan en su municipio respectivo los incentivos a que se refiere esta Ley, siempre que reúnan los requisitos y características señalados en los artículos 20, 21 y 22 de la misma, y en los programas y normas reglamentarias municipales, conforme a los procedimientos establecidos en estos últimos.
 
-Aquellas que tuvieren que desahogarse fuera del estado podrán practicarse mediante exhorto que deberá remitirse a la autoridad judicial superior en el estado en el cual deba practicarse la diligencia.
+###### ARTÍCULO 10.
 
-###### Artículo 9.
+Los ayuntamientos podrán crear comisiones o consejos municipales como órganos de apoyo en materia de promoción, desarrollo económico y la competitividad.
 
-Cuando las leyes o reglamentos de las distintas dependencias administrativas estatales, municipales, y de sus organismos descentralizados, establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o intentar desde luego el juicio administrativo.
+###### ARTÍCULO 11.
 
-###### Artículo 10.
+Los ayuntamientos podrán celebrar convenios con las autoridades estatales y federales, el Organismo, así como con inversionistas o empresas, para promover el desarrollo de las actividades y proyectos productivos de estos últimos, en los que se determinará el monto de los recursos que deberán aportar las partes para tal fin.
 
-El Pleno del Tribunal de lo Administrativo, su presidente, las Salas para hacer cumplir sus determinaciones y para mantener el orden en las diligencias que ante él se promuevan, podrán hacer uso de los siguientes medios de apremio y medidas disciplinarias:
+### CAPÍTULO I BIS. DEL PROGRAMA CRECE MIPYME
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
 
-I. Amonestaciones;
+ARTÍCULO 5° BIS.- Se crea el programa CRECE MIPYME, a través del cual la Secretaría impulsará, mediante capacitaciones, la comercialización de las micros, pequeñas y medianas empresas, con el establecimiento de una cultura que fortalezca a éstas en las áreas de administración y finanzas, propiciando el otorgamiento de financiamiento en igualdad de oportunidades a mujeres y hombres, el mejoramiento de su imagen y productos, así como otorgándoles un impulso en el uso de las herramientas tecnológicas y digitales.
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
 
-II. Multa, que podrá ser hasta por el monto de ciento veinte días de salario mínimo general vigente en la zona económica correspondiente al municipio de Guadalajara;
+ARTÍCULO 5° BIS 1.- El programa CRECE MIPYME, tiene como objetivos los siguientes:
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+a) Brindar a las MIPYMES una ventaja competitiva basada en la adquisición de conocimientos que les permita ser más eficientes.
 
-III. Arresto hasta por treinta y seis horas; y
+b) Generar en las MIPYMES la implementación de herramientas derivadas de las tecnologías de la información que les permita reducir costos de producción, capital y administración.
 
-> <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
+c) Expandir la base de clientes de las MIPYMES, a través de la implementación de herramientas informáticas.
 
-IV. El auxilio de la fuerza pública.
+d) Impulsar el desarrollo de las MIPYMES mediante la implementación de herramientas basadas en las tecnologías de la información, que propicien la distribución, venta, compra, marketing y suministro de información de productos o servicios.
 
-La elección de los medios de apremio o medidas disciplinarias que deban aplicarse en un caso concreto, es facultad de quien hubiere dictado la resolución cuyo cumplimiento se pretende, o en su caso, de a quién competa el conocimiento del asunto. Para determinar la medida de apremio que corresponda se deberá tomar en consideración el tipo de resolución cuyo cumplimiento se pretende y el grado de peligro que pueda ocasionar la demora en la aplicación de la misma o, en su caso, la gravedad de la falta observada.
+e) Propiciar el incremento en ventas en las MIPYMES.
 
-###### Artículo 11.
+f) Generar un aumento en la competitividad de las MIPYMES.
 
-En los juicios en materia administrativa no habrá lugar a condenación en costas. Cada parte será responsable de sus propios gastos y de los que originen las diligencias que promueva.
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
 
-### CAPÍTULO II. DE LAS NOTIFICACIONES Y DE LOS TÉRMINOS
+ARTÍCULO 5° BIS 2.- Los beneficios que ofrece el programa CRECE MIPYME, consisten en lo siguiente:
 
-###### Artículo 12.
+a) Capacitación que brinde a las MIPYMES Sonorenses, los conocimientos y herramientas necesarias para mejorar su competitividad, así como, fortalecer sus procesos internos y aumentar sus ventas.
 
-Toda resolución debe notificarse, a más tardar, al tercer día siguiente a aquel en que el expediente se haya turnado al actuario para ese efecto, y se asentará la razón respectiva a continuación de la misma resolución.
+b) Financiamiento a través de FIDESON.
 
-Para los efectos de este artículo, los actuarios deberán llevar un registro en el cual se hagan constar las fechas de entrega, recepción y baja de los expedientes o actuaciones respectivas.
+c) Apoyo tecnológico para los emprendedores y empresarios que deseen conocer opciones y alternativas tecnológicas para su empresa, esto con el fin de reinventarse mediante el uso de las TICS y su implementación, en el afán de una mejora para el desempeño de sus procesos organizacionales.
 
-###### Artículo 13.
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
 
-Los particulares, en el primer escrito o en la primera diligencia judicial en la que intervengan, deben designar domicilio ubicado en el lugar del juicio para que les sean practicadas las notificaciones que deban ser personales conforme a esta ley. En el caso de no cumplir con esta obligación, les serán practicadas en la forma prescrita en la fracción II del artículo 15 de esta ley.
+ARTÍCULO 5° BIS 3.- El programa se encuentra dirigido a las personas emprendedores y MIPYMES Sonorenses, atendiendo a perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres.
 
-También podrán señalar un domicilio fuera del lugar del juicio cuando alguna de las autoridades demandadas resida fuera del mismo, en cuyo caso, las notificaciones se harán mediante correo registrado.
+La Secretaría establecerá los lineamientos respectivos para la inscripción de quienes deseen registrarse en dicho programa.
 
-En cualquier estado que se encuentre el juicio las partes podrán sustituir el domicilio procesal que hubieren señalado, o designarlo si no lo hicieron en su primer escrito, sin que ello afecte la validez de las notificaciones que les hubieren sido practicadas con anterioridad.
+Los criterios de financiamiento serán establecidos por FIDESON, bajo la modalidad CRECE
 
-###### Artículo 14.
+> <small>(ADICIONADO, B.O. 11 DE MARZO DE 2021)</small>
 
-El actuario deberá asentar en autos la razón del envío por correo o entrega de los oficios de notificación, así como de las notificaciones personales y por lista. Los acuses postales de recibo y las piezas certificadas devueltas se agregarán como constancias a dichas actuaciones.
+ARTÍCULO 5° BIS 4.- El programa CRECE MIPYME constará de cuatro módulos, mismos que deben de ser completados para poder acceder al esquema de financiamiento bajo la modalidad CRECE otorgado por FIDESON. Será requisito indispensable el cumplir con los requisitos de financiamiento establecidos por el FIDESON.
 
-En el caso de las notificaciones por lista se hará constar la fecha de la misma y, en su caso, la fecha de su publicación en el Boletín Judicial y el número del mismo.
+Los módulos a desarrollar por la Secretaría serán los siguientes:
 
-###### Artículo 15.
+1. Administración y finanzas.
 
-Las notificaciones se harán:
+2. Financiamiento.
 
-I. Personalmente, por correo registrado con acuse de recibo o, mediante oficio si se trata de la autoridad, cuando se trate de las siguientes resoluciones:
+3. Imagen empresa-producto.
 
-a) La que admita o deseche la demanda, la contestación y, en su caso, la ampliación;
+4. Impulso y fortalecimiento tecnológico.
 
-b) La que señale fecha para el desahogo de alguna diligencia;
+La Secretaría desarrollará el contenido de cada uno de estos módulos.
 
-c) La que mande citar a los testigos, peritos, o a un tercero;
+###### ARTÍCULO 12.
 
-d) El requerimiento de un acto a la parte que deba cumplirlo;
+Se crean ocho Consejos Consultivos Regionales para el Desarrollo Económico y la Competitividad como órganos auxiliares de la Secretaría y del Organismo, y tendrá por objeto estudiar, analizar, opinar y proponer alternativas para el fomento del desarrollo económico y la competitividad del Estado de Sonora.
 
-e) La que resuelve un incidente;
+###### ARTÍCULO 13.
 
-f) La que decrete el sobreseimiento;
+Para cumplir con su objeto, los Consejos Consultivos Regionales tendrán las siguientes funciones:
 
-g) La sentencia definitiva;
+I.- Elaborar un plan regional para la competitividad, que deberá contener objetivos, metas, estrategias y prioridades a mediano y largo plazos, que tengan como propósito elevar la competitividad de toda la región.
 
-h) La que admita, deseche o resuelva un recurso;
+Entre los componentes de política pública a incorporar dentro de los planes regionales estarán, cuando menos, los siguientes: atracción de inversiones, creación y/o fortalecimiento de infraestructura productiva, obras para impulsar la logística y la conectividad, formación de capital humano, financiamiento a proveedores, emprendedores y a micro, pequeñas y medianas empresas, innovación e investigación científica y tecnológica, formación de capacidades empresariales y mejora regulatoria.
 
-i) La que imponga un medio de apremio o medida disciplinaria;
+La Secretaría realizará las gestiones correspondientes para que cada Consejo cuente con su plan regional para la competitividad;
 
-j) La que admita una prueba superveniente;
+II.- Proponer y dar seguimiento a las políticas públicas que permitan promover el desarrollo económico y la competitividad del Estado y de los municipios comprendidos en la región;
 
-k) La que ordene cumplir con la sentencia y la que decrete su ejecución forzosa; y
+III.- Promover y coadyuvar en la gestión, ante las instancias competentes, el otorgamiento de incentivos a la inversión, analizando previamente las ventajas estratégicas de la región y de cada uno de los municipios que la integran, en razón de los beneficios concretos que resulten para éstas y para el Estado;
 
-l) En todos aquellos casos en que lo ordene el órgano jurisdiccional que conozca del asunto.
+IV.- Impulsar la instalación de unidades industriales, centros comerciales y de servicios en la región;
 
-Si se tratare de notificar a la autoridad y de un caso urgente, la notificación en los casos a que se refiere esta fracción podrá practicarse por vía telegráfica;
+V.- Impulsar la investigación, el desarrollo tecnológico y la competitividad de las empresas establecidas en la región;
 
-II. Fuera de los casos señalados en la fracción anterior, las notificaciones se harán en el local del Tribunal, si las partes se presentan dentro del día siguiente al en que fue dictada la resolución de que se trate. Cuando no se presenten, se harán por lista autorizada que se publicará en el Boletín Judicial, en los lugares en que lo haya y se fijará en lugar visible y de fácil acceso en el local del tribunal.
+VI.- Exponer a la Secretaría y al Organismo medidas tendientes a la desregulación económica y la simplificación administrativa de conformidad a la legislación aplicable en esta materia;
 
-La lista de acuerdos será formulada diariamente, por triplicado, y deberá contener:
+VII.- Proponer programas de capacitación y adiestramiento para fortalecer y elevar la productividad y calidad de la fuerza laboral en la región;
 
-a) El nombre y la firma del Secretario que corresponda y que la autorice;
+VIII.- Impulsar programas de promoción de la inversión nacional y extranjera que se puedan desarrollar en la región;
 
-b) El sello del tribunal;
+IX.- Fomentar la participación de los sectores público y privado, en la formulación y ejecución de programas de fomento, desarrollo económico y la competitividad;
 
-c) Los números de los expedientes correspondientes;
+X.- Fomentar la generación de una cultura emprendedora y generadora de nuevos negocios, encaminada al desarrollo económico y la competitividad;
 
-d) El nombre o denominación de las partes;
+XI.- Plantear reformas a las disposiciones legales para facilitar la creación y funcionamiento de empresas productivas y competitivas; y
 
-e) El tipo de resolución; y
+XII.- Proponer a las autoridades estatales y los ayuntamientos del Estado programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad y la competitividad regional.
 
-f) La fecha de la resolución.
+###### ARTÍCULO 14.
 
-Uno de los ejemplares de la lista se pondrá a disposición del público en lugar visible y de fácil acceso en el local del tribunal; el otro se guardará en el archivo del tribunal; y el tercero se remitirá al Boletín Judicial para su publicación. La lista contendrá el nombre de la persona a quien se notifica, tipo de acuerdo y fecha del mismo.
+Los ocho Consejos Consultivos Regionales quedarán conformados y asentados geográficamente de la siguiente manera:
 
-Las notificaciones hechas por lista se tendrán por practicadas el día en que la misma sea publicada en el Boletín Judicial en los lugares en que lo haya. En caso contrario se tendrán por practicadas a partir de la fecha en que se ponga a disposición de las partes en el local del tribunal.
+I.- Consejo Consultivo Sur A, comprenderá los municipios de Cajeme, Bácum, San Ignacio Río Muerto, Quiriego, Rosario, Yécora y Benito Juárez.
 
-###### Artículo 16.
+II.- Consejo Consultivo Sur B, comprenderá los municipios de Navojoa, Huatabampo, Etchojoa y Álamos.
 
-Las notificaciones también podrán hacerse a través de los medios electrónicos de comunicación de que disponga el tribunal, siempre y cuando la parte que así lo solicite proporcione los datos necesarios para el efecto, exista acuerdo que lo autorice y quede prueba fehaciente de la práctica de las mismas.
+III.- Consejo Consultivo Centro A, comprenderá los municipios de Hermosillo, Rayón, Cumpas, San Miguel de Horcasitas, Opodepe, Suaqui Grande, La Colorada, Mazatán, Villa Pesqueira y San Javier.
 
-###### Artículo 17.
+IV.- Consejo Consultivo Centro B, comprenderá los municipios de Moctezuma, Granados, Bavispe, Bacerac, Huásabas, Bacadéhuachi, Divisaderos, Huachinera, Nácori Chico, Ónavas, Tepache, Sahuaripa, Bacanora, Arivechi, San Pedro de la Cueva, Soyopa y Villa Hidalgo.
 
-Las notificaciones surtirán sus efectos a partir del día hábil siguiente a aquel en que hubieren sido practicadas.
+V.- Consejo Consultivo Centro C, comprenderá: Ures, Banámichi, Aconchi, Baviácora, San Felipe de Jesús, Arizpe, Huépac y Bacoachi.
 
-###### Artículo 18.
+VI.- Consejo Consultivo Norte, comprenderá los municipios de Imuris, Magdalena, Santa Ana, Cananea, Cucurpe, Fronteras, Nacozari, Carbó, Benjamín Hill, Pitiquito, Tubutama, Atil, Oquitoa y Trincheras.
 
-La manifestación que haga el interesado o su representante legal de conocer una resolución, surtirá efectos de notificación en forma desde la fecha en que se manifieste sabedor, si ésta es anterior a aquella en que debiera surtir efectos conforme al artículo precedente.
+VII.- Consejo Consultivo Frontera Norte, comprenderá los municipios de San Luis Río Colorado, Puerto Peñasco, General Plutarco Elías Calles, Caborca, Altar, Sáric, Nogales, Santa Cruz, Naco y Agua Prieta.
 
-###### Artículo 19.
+VIII.- Consejo Consultivo Costa-Centro, comprenderá los municipios de Guaymas y Empalme. Los Consejos Consultivos realizarán sus sesiones en cualquiera de los municipios integrantes de la región que corresponda.
 
-El cómputo de los plazos y términos se sujetará a las reglas siguientes:
+###### ARTÍCULO 15.
 
-I. Comenzarán a correr a partir del día siguiente a aquel en que surta efectos la notificación;
+Cada Consejo Consultivo Regional se integrará por las siguientes personas:
 
-II. Si están fijados en días se computarán sólo los hábiles. Se entiende por días hábiles, aquellos en que se encuentren abiertas al público las oficinas del tribunal durante el horario normal de labores;
+I.- Un Presidente Honorario que será designado de entre los representantes señalados en las fracciones II y III de este artículo y el cual durará en el encargo por un periodo de dos años;
 
-III. Si están señalados en período o tienen una fecha determinada para su extinción, se comprenderán los días inhábiles; no obstante, si el último día de plazo o la fecha determinada fuere inhábil, el término se prorrogará hasta el día siguiente hábil; y
+II.- Tres representantes del sector empresarial, que serán electos en la Sesión de Instalación de cada Consejo Consultivo Regional de entre los organismos empresariales existentes en la región;
 
-IV. Para fijar la duración de los términos, los meses se regularán por el número de días que les correspondan, y los días se entenderán de veinticuatro horas naturales, contadas de las cero a las veinticuatro horas.
+III.- Tres representantes del sector académico, de investigación e innovación tecnológica y científica, que serán electos en la Sesión de Instalación de cada Consejo Consultivo Regional de entre las instituciones existentes en la región;
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2011)</small>
+IV.- Hasta dos representantes del sector social, que serán electos en la Sesión de Instalación de cada Consejo Consultivo Regional;
+
+V.- Los empresarios de la región que sean invitados por el Presidente Honorario; y
+
+VI.- Los Presidentes Municipales de los municipios comprendidos en la región.
+
+La Secretaría promoverá que en la integración de los Consejos exista una participación equilibrada de todos los sectores económicos y municipios de la región.
+
+Cada miembro del Consejo Consultivo Regional podrá designar a su suplente, quien cubrirá sus ausencias.
+
+Todos los cargos establecidos en este artículo serán honoríficos, por lo que no tendrán derecho a recibir compensación o retribución alguna por el desempeño de sus funciones.
+
+Cada Consejo Consultivo Regional contará con un Secretario Técnico, el cual no será miembro del mismo y asistirá a sus sesiones con voz pero sin voto. El Secretario Técnico será designado por el Presidente Honorario y tendrá las funciones descritas en esta Ley y el Reglamento de la misma.
+
+###### ARTÍCULO 16.
+
+Cada Consejo Consultivo Regional sesionará cada vez que sea convocado para dicho particular por el Presidente Honorario. Las convocatorias de referencia serán formuladas por el Secretario Técnico.
+
+Dichas convocatorias contendrán el orden del día y deberán hacerse llegar a sus destinatarios con un mínimo de un día hábil de anticipación a la sesión respectiva.
+
+Las sesiones serán presididas por el Presidente Honorario o la persona que haya designado para sustituirlo. Habrá quórum para la celebración de las sesiones con la asistencia de los integrantes que se presenten a la primera convocatoria, cualquiera que sea su número, y los acuerdos correspondientes se tomarán con el voto de la mitad más uno de los asistentes a la reunión, con la condición de que se encuentre presente el Presidente Honorario o su sustituto.
+
+Las propuestas, opiniones y planteamientos sobre los diversos aspectos del desarrollo económico y la competitividad que acuerde cada Consejo Consultivo Regional las remitirá a la Secretaría, al Organismo, entidades, dependencias o a los municipios de que se trate, según corresponda, para los efectos conducentes.
+
+El Secretario Técnico tendrá la función de redactar y levantar el acta que contenga los acuerdos y resoluciones que se tomaron, en el entendido que dicha acta será firmada por quien presida la reunión y el Secretario Técnico.
+
+###### ARTÍCULO 17.
+
+La Secretaría apoyará a la instalación de cada Consejo Consultivo y proporcionará los medios necesarios para su funcionamiento.
+
+###### ARTÍCULO 18.
+
+Los incentivos para la promoción, desarrollo económico y la competitividad en el Estado de Sonora consistirán en:
+
+A.- Incentivos fiscales, que serán:
+
+I.- Exenciones y reducciones de impuestos y derechos estatales y municipales, en los términos establecidos en las leyes fiscales y las disposiciones reglamentarias derivadas de las mismas.
+
+B.- Incentivos no fiscales, que serán:
+
+I.- Apoyo financiero para:
+
+a) Programas de capacitación, adiestramiento y modernización empresarial para elevar su productividad y competitividad, incluyendo el otorgamiento de becas a trabajadores, así como la generación de nuevos empleos;
+
+b) Proyectos de inversión o expansión empresarial, de exportación o comercialización en mercados nacionales;
+
+c) Adquisición de bienes o servicios;
+
+d) Estudios de preinversión y factibilidad;
+
+e) Realizar investigación científica y tecnológica, encaminada al desarrollo económico y la competitividad de la Entidad;
+
+f) Arrendamiento de inmuebles relacionados con los proyectos de inversión y operaciones productivas;
+
+g) La participación de empresas de la Entidad en ferias y eventos nacionales e internacionales para promocionar sus productos;
+
+h) Programas de empleo a personas vulnerables;
+
+i) Programas de empleo a jóvenes o mujeres;
+
+j) Programas que contribuyan a la sustentabilidad o a reducir o solucionar los problemas de la contaminación ambiental;
+
+k) Proyectos de sustitución de importaciones o de integración de la producción con insumos, productos o servicios de origen local; y
+
+l) El establecimiento de proyectos de inversión en zonas que se consideren prioritarias o generen un gran impacto económico regional.
+
+II.- Otorgamiento de precios competitivos para la adquisición, arrendamiento o cualquier otra figura jurídica similar, de bienes muebles e inmuebles propiedad del gobierno Estatal o de los municipios;
+
+III.- Donaciones, permuta, comodato o cualquier otra figura jurídica similar, de bienes muebles e inmuebles propiedad del gobierno Estatal o de los municipios;
+
+IV.- Aportación para el desarrollo de infraestructura y servicios;
+
+V.- Apoyar con asistencia técnica a las empresas que cuenten con potencial exportador;
+
+VI.- Apoyos para el crecimiento y desarrollo de las MIPYMES en el Estado de Sonora; y
+
+VII.- Los demás que se señalen en otras disposiciones legales y los que se establezcan en los programas que implementen las dependencias y entidades de la Administración Pública Estatal y Municipal del Estado de Sonora.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES E INCISOS], B.O. 1 DE MARZO DE 2021)</small>
+
+C.- Incentivos extraordinarios, que serán:
+
+I.- Se privilegiará la apertura inmediata de negocios, aplicando criterios de confianza, por lo que en los casos previstos en el artículo 18 BIS de esta Ley, las personas físicas o morales, que aperturen un negocio de bajo riesgo en dicho periodo, podrán presentar la solicitud para todos los permisos, licencias, concesiones, autorizaciones, avisos y análogos hasta 60 días hábiles posteriores al inicio de sus actividades, previa inscripción en el Registro de Apertura a la Confianza, previsto en la Ley Estatal de Mejora Regulatoria, administrado por la autoridad de mejora regulatoria estatal o municipal, según corresponda, debiendo obtener la autorización municipal para la apertura, observando siempre los requisitos estatales y municipales necesarios para aquellos negocios y/o actividades empresariales consideradas de bajo riesgo.
+
+Se entenderá que un negocio está aplicando criterios de confianza cuando tenga los siguientes fines:
+
+a. Dinamizar la actividad económica dentro del estado y sus municipios, a través de esquemas regulatorios innovadores.
+
+b. Privilegiar la confianza entre el estado, municipios y ciudadanía, mediante la autorización expedita para abrir y operar negocios de bajo riesgo, así como otorgar un plazo de tiempo máximo para que los interesados den cumplimiento y observancia de la regulación vigente.
+
+c. Promover la cultura de la legalidad en situaciones de emergencia, permitiéndole a los interesados, en abrir y operar un negocio de bajo riesgo, atender sus obligaciones regulatorias a la par de iniciar sus actividades, con el compromiso de atender con la norma vigente.
+
+Las actividades de bajo riesgo serán definidas atendiendo a los Lineamientos del Sistema de Apertura Rápida de Empresas, conforme al catálogo de giros de bajo riesgo, emitidos por la Comisión Nacional de Mejora Regulatoria, el cuál será la base para elaborar en coordinación de la autoridad estatal y municipal de mejora regulatoria, el catalogo municipal de giros de bajo riesgo para el Registro de Apertura a la Confianza.
+
+Las autoridades administrativas estatales y municipales deberán establecer y coordinar procesos de gestión para la apertura de empresas, con la mayor celeridad necesaria y no podrán sancionar a las personas físicas o morales por la falta de permisos, licencias, concesiones, autorizaciones o análogas, durante los 60 días hábiles posteriores al inicio de sus actividades y durante el proceso de gestión del trámite correspondiente, hasta la notificación de su resolución, siempre que se encuentren inscritas en el Registro de Apertura a la Confianza, de acuerdo con los criterios establecidos en el primer párrafo de esta fracción.
+
+La inscripción al Registro de Apertura a la Confianza se tramitará vía electrónica a través de la plataforma que las autoridades estatales y municipales de mejora regulatoria pongan a disposición de las personas físicas y morales.
+
+II.- Reducción de plazos: todas las dependencias y entidades estatales o municipales, que reciban las solicitudes de permisos, licencias, concesiones, autorizaciones, avisos o análogas, durante alguno de los supuestos señalados en el artículo 18 BIS de la presente ley, deberán reducir los plazos de respuesta establecidos en las leyes, reglamentos o normas correspondientes en una mitad, observando siempre el garantizar los estándares convenientes de seguridad y mínimo riesgo, establecidos por las autoridades administrativas estatales y municipales.
+
+III.- Afirmativa ficta: Todas las solicitudes de permisos, licencias, concesiones, autorizaciones, avisos o análogas, que sean presentadas durante la vigencia de una declaratoria de emergencia y demás supuesto (sic) de los señalados en el artículo 18 BIS de la presente Ley, y que no sean contestadas en los tiempos señalados en el ordenamiento correspondiente o a más tardar en 45 días hábiles, se entenderán a favor del solicitante y como positivas para todos los efectos legales.
+
+[N. DE. E. PERTENECE A LA FRACCIÓN III DEL APARTADO C), B.O. 1 DE MARZO DE 2021.]
+
+Se exceptuará lo anterior en los casos que no se encuentren comprendidos en el catálogo de actividades de bajo riesgo establecido de acuerdo con los Lineamientos del Sistema de Apertura Rápida de Empresas, emitido por la Comisión Nacional de Mejora Regulatoria, así como los establecidos en el artículo 83 de la Ley del Procedimiento Administrativo del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 1 DE MARZO DE 2021)</small>
+
+ARTÍCULO 18 BIS.- Durante la vigencia de una declaratoria de emergencia, contingencia epidemiológica, desastre o cualquier otra medida urgente encaminada a la conservación y mejoramiento de la salubridad y protección de la población en general, decretada formalmente por la autoridad competente, una vez que dicha autoridad comunique por los medios adecuados la reactivación económica, todas las actividades productivas podrán iniciar operaciones conforme lo determine la autoridad competente, sujetando la obtención de la autorización, permiso, licencia o análogo a lo señalado en el artículo anterior, con base a los incentivos extraordinarios establecidos en el apartado C del artículo 18 de esta Ley.
+
+El otorgamiento de los incentivos extraordinarios señalados en el artículo anterior, crea un compromiso de responsabilidad de presentar las solicitudes a todas las personas físicas o morales que aperturen un negocio de dicho periodo, y no los exime de la obligación de contar con todos los permisos, licencias, concesiones, autorizaciones, avisos o análogas en los términos ordinarios una vez que haya dejado de surtir sus efectos totales la declaratoria de emergencia, contingencia epidemiológica, desastre o cualquier otra medida urgente de las señaladas en el párrafo anterior, por lo que el incumplimiento podrá ser sancionado en los términos que dispongan las leyes.
+
+###### ARTÍCULO 19.
+
+Tendrán derecho a los incentivos fiscales los empresarios e inversionistas que operen como personas físicas o morales establecidos o por establecerse en la Entidad y que reúnan los requisitos señalados por las leyes fiscales respectivas, los cuales serán otorgados conforme a las leyes fiscales y demás disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 19
 
@@ -241,317 +413,431 @@ Bis. Se tendrán por señalados cinco días para la práctica de algún acto jud
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2006)</small>
 
-###### Artículo 20.
+###### ARTÍCULO 20.
 
-Son días hábiles todos los días del año, con excepción de los sábados y los domingos, así como el 1º de enero; el primer lunes de febrero, en conmemoración del 5 de febrero; el tercer lunes de marzo, en conmemoración del 21 de marzo; 1º y 5 de mayo; 16 y 28 de septiembre; 12 de octubre; 2 de noviembre; el tercer lunes de noviembre, en conmemoración del 20 de noviembre; 25 de diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; y los que determinen las leyes federal y local electorales; en el caso de elecciones ordinarias para efectuar la jornada electoral; y en los periodos vacacionales del tribunal o cuando por cualquier causa de fuerza mayor, o por acuerdo del Tribunal de lo Administrativo en pleno, se suspendan las labores del tribunal.
+Podrán ser sujetos a los incentivos no fiscales a que se refiere esta Ley, los empresarios e inversionistas que operen como personas físicas o morales establecidos o por establecerse en la Entidad, incluyendo las empresas de nueva creación, y que reúnan cualquiera de los siguientes requisitos:
 
-### CAPÍTULO III. DE LOS IMPEDIMENTOS, EXCUSAS Y RECUSACIONES
+I.- Se ubiquen en zonas geográficas que se consideren prioritarias en la Entidad;
 
-###### Artículo 21.
+II.- Realicen nuevas inversiones productivas o para ampliar, con carácter permanente, sus instalaciones;
 
-Los magistrados del Tribunal de lo Administrativo del Estado están impedidos para conocer en los siguientes casos:
+III.- Destinen parte de su inversión a la investigación y al desarrollo tecnológico y científico;
 
-I. Si son parientes consanguíneos, afines o civiles de alguna de las partes, de sus patronos o representantes, en línea recta, sin limitación del grado; dentro del cuarto grado en la colateral por consanguinidad, o del segundo en la colateral por afinidad;
+IV.- Contribuyan a reducir o solucionar los problemas de la contaminación ambiental;
 
-II. Si tienen interés personal en el asunto que haya motivado el juicio;
+V.- Modernicen su infraestructura productiva, para elevar sus niveles de productividad;
 
-III. Si han sido abogados o apoderados de alguna de las partes en el mismo asunto;
+VI.- Sustituyan importaciones o integren su producción con insumos, materias primas, partes, componentes, servicios o productos de origen local o producidos en la Entidad;
 
-IV. Si tienen amistad estrecha o enemistad manifiesta con alguna de las partes, sus abogados o representantes;
+VII.- Fomenten la integración de encadenamientos productivos mediante la elaboración de insumos, partes y componentes;
 
-V. Si han intervenido en la emisión o ejecución del acto impugnado;
+VIII.- Realicen inversiones para tener acceso a nuevos mercados propiciando la exportación directa de materias primas industrializadas de origen regional;
 
-VI. Si son partes en un juicio similar pendiente de resolución; y
+IX.- Generen nuevos empleos, directos;
 
-VII. En cualquier otro análogo que pueda afectar su imparcialidad en el trámite o resolución del juicio que ante él se ventila.
+X.- Desarrollen programas de capacitación y entrenamiento para elevar la calidad y productividad de su fuerza laboral generando mano de obra especializada;
 
-###### Artículo 22.
+XI.- Generen un alto impacto económico en la región en la que estén establecidas o se establezcan;
 
-Los magistrados deben excusarse del conocimiento de los juicios en los que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
+XII.- Den empleo directo a personas con discapacidad, adultos mayores y jóvenes entre veintinueve años de edad sin que se les exija años de experiencia laboral para su contratación; y
 
-###### Artículo 23.
+XIII.- Den empleo directo a mujeres, en puestos directivos, gerenciales o de mando.
 
-Manifestada por un magistrado la causa de impedimento, pasará el asunto al Tribunal en Pleno, el que calificará la excusa y designará, en su caso, al magistrado que deba sustituir al impedido.
+### CAPÍTULO II. DEL FONDO PARA LA PROMOCIÓN Y EL FONDO PARA INCENTIVAR EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
 
-###### Artículo 24.
+###### ARTÍCULO 6º.
 
-Las partes podrán recusar a los magistrados cuando éstos estén en alguno de los casos de impedimento o cuando habiendo sido requeridos por el Tribunal en Pleno para pronunciar sentencia, no lo hagan dentro de los quince días, contados a partir de la fecha en que se haya hecho la excitativa.
+El Ejecutivo Estatal constituirá un fondo para la promoción económica del Estado, tomando previamente en consideración la normatividad y las reglas de operación que para tal efecto le proponga la Secretaría, de conformidad con lo establecido en la presente Ley y demás disposiciones que de ella emanen.
 
-###### Artículo 25.
+El fondo se formará con los recursos señalados en el Presupuesto de Egresos del Gobierno del Estado cuyo monto, sólo para efectos de referencia, no podrá ser menor al 15% del ingreso anual correspondiente al Impuesto Estatal Sobre Remuneraciones al Trabajo Personal obtenido en el ejercicio inmediato anterior a aquel que se presupueste. Estos recursos serán ejercidos y administrados por el Organismo.
 
-Puede interponerse la recusación por causa de impedimento en cualquier estado del juicio anterior a la citación para sentencia. En el escrito en que se proponga la recusación deberán ser ofrecidos los medios de convicción correspondientes y al mismo deberán acompañarse los que se desahoguen por su propia naturaleza.
+Para efectos del párrafo anterior, el Organismo propondrá al Ejecutivo del Estado, para su inclusión dentro del Presupuesto de Egresos del Gobierno Estatal, la formulación del programa de promoción económica para el Estado de Sonora en donde se señalarán las metas, objetivos y calendarización de gastos precisos que durante un ejercicio determinado, deberá realizar el Organismo.
 
-Interpuesta la recusación, el Presidente del Tribunal, antes de dar cuenta al Pleno, requerirá al Magistrado para que dentro de los tres días siguientes al en que reciba el oficio de requerimiento, rinda el informe respectivo, la falta de dicho informe establece la presunción de ser cierta la causa de recusación.
+###### ARTÍCULO 21.
 
-###### Artículo 26.
+Para la aprobación y otorgamiento de incentivos no fiscales a los inversionistas o empresarios se deberán utilizar criterios de rentabilidad social considerando:
 
-Si el Pleno del Tribunal declara fundada la recusación, en la misma resolución designará al Magistrado que substituirá al recusado.
+I.- Número de empleos permanentes directos que se generen;
 
-###### Artículo 27.
+II.- Monto y plazo de la inversión;
 
-Quien conozca de una recusación, es irrecusable para ese solo efecto.
+III.- Ubicación de la inversión y su impacto en el desarrollo regional;
 
-###### Artículo 28.
+IV.- Número de empleos otorgados a personas con discapacidad, adultos mayores o jóvenes entre los dieciocho y los veintinueve años de edad, en este último caso, sin que se les exija como requisito contar con experiencia para su contratación;
 
-La resolución que decida la recusación, es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa hasta del equivalente de un mes de salario mínimo general de la zona económica a la que corresponda el Municipio de Guadalajara.
+V.- Número de empleos otorgados a mujeres, en el que se deberán contemplar el otorgamiento de empleos en puestos directivos, gerenciales o de mando;
 
-### CAPÍTULO IV. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+VI.- Nivel de capacitación de la fuerza laboral;
 
-###### Artículo 29.
+VII.- Grado de modernización de su infraestructura productiva;
 
-Es improcedente el juicio en materia administrativa, contra los actos:
+VIII.- Grado de comercialización en mercados nacionales o exportación de materias primas industrializadas de origen estatal;
 
-I. Que no afecten los intereses jurídicos del demandante o que se hayan consumado de un modo irreparable;
+IX.- Proporción de uso de insumos, materias primas, partes y componentes producidos en la Entidad para realizar sus operaciones;
 
-II. Cuya impugnación no corresponda conocer al Tribunal de lo Administrativo;
+X.- Grado de integración productiva con otras empresas locales;
 
-III. Que hayan sido materia de sentencia de fondo pronunciada en un procedimiento judicial, siempre que hubiere identidad de partes;
+XI.- Monto de la inversión destinada a la investigación, innovación y desarrollo científico y tecnológico;
 
-IV. Respecto de los cuales hubiera consentimiento expreso o tácito. Se entiende que hay consentimiento tácito únicamente cuando no se promueva el juicio en materia administrativa en los términos previstos en esta ley;
+XII.- Grado de cuidado y prevención al medio ambiente; o
 
-V. Que sean materia de un recurso o juicio que se encuentre pendiente de resolución ante la autoridad administrativa estatal, municipal, sus organismos descentralizados, o ante las autoridades jurisdiccionales en materia administrativa;
+XIII.- Las diversas condiciones que se establezcan en otras disposiciones legales.
 
-VI. De cuyas constancias de autos apareciere, claramente, que no existe la resolución o el acto impugnado;
+###### ARTÍCULO 22.
 
-VII. Respecto de los cuales hayan cesado los efectos del acto impugnado o éste no pueda surtir efecto legal o material alguno, por haber dejado de existir el objeto o materia del mismo;
+Para la aprobación y el otorgamiento de incentivos no fiscales a los inversionistas o empresarios se observará lo siguiente, según corresponda al proyecto de inversión o incentivos solicitados:
 
-VIII. Contra actos o resoluciones dictados en materia electoral o de los cuales corresponda conocer a alguna jurisdicción ordinaria distinta de la especializada en materia administrativa; y
+I.- Se acreditará que una empresa es de nueva creación cuando se proporcione copia simple de la inscripción ante el Registro Federal de Contribuyentes y del aviso de alta e inscripción ante el Registro Estatal de Contribuyentes de la Secretaría de Hacienda del Estado, en el entendido que la inscripción ante el Registro Estatal de Contribuyentes deberá tener una antigüedad no mayor de ciento ochenta días naturales previos a la presentación de la solicitud de incentivos.
 
-IX. En los demás casos en que la improcedencia resulte de alguna disposición de la ley.
+En el supuesto de que la empresa de nueva creación no cuente con el aviso de alta e inscripción ante el Registro Estatal de Contribuyentes, entonces, podrá proporcionar una carta compromiso firmada por el inversionista o empresario o un representante legal, con facultades amplias y suficientes, en donde se obligue a obtener y presentar el aviso de alta e inscripción aquí señalados antes de que se acuerde el otorgamiento de los incentivos solicitados. En caso de que no se proporcione lo anterior la solicitud se tendrá por no presentada.
 
-###### Artículo 30.
+No se considerarán empresas de nueva creación, aquellas que provengan de escisión o fusión de sociedades, en los términos del Código Fiscal de la Federación y Ley General de Sociedades Mercantiles, respectivamente, así como las que cambien de denominación o razón social, de domicilio, actividad, traspaso de la empresa o cualquier acto jurídico que tenga por objeto el traspaso de activos de la empresa; las que se ubiquen en el mismo domicilio donde un año anterior hubiese existido un establecimiento con actividad similar; cuando la empresa tenga los mismos trabajadores.
 
-Procede el sobreseimiento del juicio:
+II.- El número de nuevos empleos directos generados por los inversionistas o empresarios se acreditará con los registros que se tengan ante el Instituto Mexicano del Seguro Social (IMSS).
 
-I. Cuando durante el juicio aparezca o sobrevenga alguna de las causas de improcedencia a que se refiere el artículo anterior;
+Sin menoscabo de lo anterior, el Organismo, la Entidad o Dependencia Estatal o Municipal podrá considerar para efectos de la determinación del monto de los incentivos no fiscales solicitados aquellos empleos que sean generados en forma indirecta.
 
-II. En el caso que el demandante muera durante el juicio, si su pretensión es intransmisible o si su muerte deja sin materia dicho juicio; y
+III.- Las inversiones deberán realizarse en un plazo máximo de cinco años o el que acuerde el Organismo, la Entidad o Dependencia Estatal o Municipal a la que corresponda otorgar el incentivo, dicho plazo comenzará a contarse a partir de que el inversionista o empresa haya suscrito aquellos documentos en donde se hagan constar los incentivos solicitados, debiéndose observar, en su caso, lo dispuesto en la fracción VIII de este artículo.
 
-III. Cuando la autoridad demandada haya satisfecho la pretensión del actor o hubiese revocado el acto que se impugna.
+IV.- Se podrá considerar el nivel de utilización de insumos, materias primas, partes y componentes producidos en la Entidad, así como la integración de encadenamientos productivos en la producción de bienes, lo cual permitirá la sustitución de empresarios o empresas foráneas y se incorporen directamente a empresarios, inversionistas o empresas de la Entidad.
 
-El sobreseimiento se podrá decretar en cualquiera de los casos antes señalados, de oficio o a petición de parte, en cualquier etapa procesal, incluyendo la sentencia definitiva.
+Para efectos de lo anterior, el Organismo, la Entidad o Dependencia Estatal o Municipal promoverán acciones que induzcan a los inversionistas o empresarios contratar insumos, materias primas, partes y componentes producidos por empresas de la Entidad.
 
-### CAPÍTULO V. DE LA DEMANDA
+Asimismo, la Secretaría, en coordinación con el Organismo, promoverá el establecimiento de empresas de proveeduría tomando en consideración las necesidades de insumos, materias primas, partes y componentes de las inversiones productivas que se realicen en la Entidad
 
-###### Artículo 31.
+V.- Se podrá considerar el nivel educativo de los trabajadores del inversionista o empresario solicitante.
 
-La demanda se presentará directamente ante la sala competente o se podrá enviar por correo registrado si el actor tiene su domicilio legal en lugar distinto al de la residencia de la Sala. Se tendrá como fecha de recepción del escrito respectivo, en este último caso, la de su depósito en la oficina postal.
+VI.- Se presenta un alto grado de comercialización en mercados nacionales o exportación de materias primas industrializadas de origen Estatal cuando se procesen materias primas producidas por los sectores agropecuario, pesquero, minero o forestal de la Entidad exportándolas, por si mismos o a través de empresas con domicilio en el Estado de Sonora, con una participación de un mínimo del sesenta por ciento de la producción de la empresa a los mercados nacionales e internacionales.
 
-La presentación deberá hacerse dentro de los treinta días siguientes a aquél en que haya surtido efectos la notificación del acto o resolución impugnado o a aquél en que se haya tenido conocimiento del mismo.
+VII.- Se considerará que existe un alto impacto económico en la región, cuando la inversión o modernización impliquen un costo de por lo menos cinco millones de pesos.
 
-###### Artículo 32.
+VIII.- Podrá considerarse como parte del monto de la Inversión de las empresas de nueva creación o de las ampliaciones de inversión de las constituidas, aquella que se hubiese efectuado dentro de los ciento veinte días naturales anteriores a la fecha de presentación de la solicitud de incentivos.
 
-En los casos de negativa ficta la demanda podrá presentarse en cualquier tiempo mientras no se dicte la resolución expresa, y siempre que haya transcurrido el plazo para que, conforme a la ley del acto, se configure la negativa ficta.
+IX.- Las zonas geográficas que sean consideradas prioritarias en la Entidad, incluirán aquellas regiones con economía altamente dependiente de actividades tradicionales y/o con un incipiente desarrollo industrial. Adicionalmente, se podrá considerar el número de habitantes del municipio en el cual tendrá impacto el incentivo otorgado.
 
-Cuando existan terceros interesados, éstos podrán solicitar al órgano jurisdiccional que notifique la configuración de la negativa ficta al particular que hubiere presentado la solicitud; en tal caso la demanda deberá interponerse dentro de los treinta días siguientes a aquel en que surta efectos la notificación en los términos de la presente ley.
+###### ARTÍCULO 23.
 
-###### Artículo 33.
+Los incentivos no fiscales serán intransferibles y su monto, en su caso, se determinará de acuerdo con lo establecido en esta Ley, otras disposiciones legales y las normas reglamentarias derivadas de las mismas, el cual no podrá ser mayor al 20% del valor total del monto de inversión.
 
-Las autoridades, cuando se pida la modificación, extinción o nulidad de una resolución favorable a un particular, podrán presentar la demanda dentro de los dos años siguientes a la fecha en que hubiere sido emitida la resolución, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá presentar la demanda en cualquier época, sin exceder de los dos años siguientes al último efecto. Los alcances de la sentencia en caso de ser total o parcialmente desfavorable para el particular, sólo se retrotraerán a los dos años anteriores a la presentación de la demanda.
+En el dictamen a que se refiere el artículo 29 de esta Ley se deberá fundamentar y motivar los criterios utilizados para la determinación del monto o tipo de incentivos no fiscales otorgados a los inversionistas o empresarios solicitantes.
 
-###### Artículo 34.
+El cambio de propietario de una empresa beneficiada con estímulos no afectará la situación de los estímulos, por lo que se deberá continuar con el mantenimiento de los compromisos adquiridos por el propietario original.
 
-Cuando se esté en los supuestos en que proceda su interposición por correo, también podrá interponerse la demanda ante el Juzgado de Primera Instancia, mixto o especializado en materia civil del lugar donde resida la autoridad que dictó el acto o resolución que se impugna. En tal caso, el Juez que reciba la demanda la remitirá al Tribunal de lo Administrativo, bajo pena de responsabilidad, a más tardar dentro de los tres días hábiles siguientes a su recepción. En casos urgentes, el Juez que en los términos de este artículo hubiere recibido la demanda, resolverá con carácter provisional sobre su admisión y sobre la suspensión del acto o resolución impugnada.
+###### ARTÍCULO 24.
 
-Recibido el asunto por el Tribunal, el Presidente lo turnará a la Sala a que competa la resolución del asunto.
+El inversionista o empresario que esté gozando de alguno de los incentivos no fiscales a que se refiere esta Ley, deberá en todo momento mantener las condiciones que se consideraron en su otorgamiento para seguir siendo sujeto a los mismos y, en su caso, dará aviso al Organismo y a la Entidad o Dependencia Estatal o Municipal que hubiese otorgado el incentivo de las situaciones siguientes:
 
-Las resoluciones dictadas por los jueces de primera instancia, en ejercicio de la competencia auxiliar que les confiere este artículo, surtirán sus efectos provisionalmente hasta en tanto la Sala del Tribunal de lo Administrativo resuelva en definitiva sobre la admisión de la demanda, sin que la suspensión dictada por la jurisdicción ordinaria en uso de la competencia auxiliar que le confiere este artículo deba ser tomada en cuenta para resolver en definitiva sobre la admisión de la demanda y la suspensión.
+I.- La reubicación de sus instalaciones productivas;
 
-###### Artículo 35.
+II.- La modificación del monto de la inversión o el empleo de ésta;
 
-La demanda deberá contener:
+III.- El cambio de giro de actividades;
 
-I. El nombre del demandante y su domicilio para recibir notificaciones;
+IV.- Cambio de denominación o razón social, fusión y/o escisión; y
 
-II. El señalamiento de la resolución o acto administrativo que se impugna;
+V.- La existencia de motivos justificados que lo induzcan a incumplir en cualquier medida los requisitos o compromisos asumidos para obtener los incentivos a que se refiere esta Ley.
 
-III. La autoridad o autoridades demandadas, o el nombre y domicilio del particular demandado cuando el juicio sea promovido por la autoridad administrativa;
+El aviso que se señala en este artículo deberá presentarse en un plazo no mayor de noventa días naturales cuando se presente alguno de los eventos descritos anteriormente. En su caso, al aviso se acompañarán todos los documentos y demás pruebas, así como la justificación del inversionista o empresario en donde señale que continúa siendo objeto de los estímulos, a efectos de que el Organismo, la Entidad o Dependencia Estatal o Municipal que hubiese otorgado el incentivo, confirme, modifique o cancele el estímulo correspondiente.
 
-IV. Los hechos que dieron origen al acto que se impugna;
+La falta de presentación del aviso señalado tendrá como efecto que se consideren incumplidos, en forma injustificada, los compromisos asumidos por el inversionista o empresario.
 
-V. La fecha en la que se tuvo conocimiento de la resolución o acto impugnado;
+###### ARTÍCULO 25.
 
-VI. La expresión de los conceptos de impugnación que se hagan valer;
+Los incentivos para el desarrollo económico y competitividad que se otorguen a los inversionistas o empresarios deben entenderse como un complemento de las acciones e inversiones propias que los mismos deben realizar y de los recursos que, en su caso, aporten los municipios y otros órganos públicos o privados con el fin de apoyar las actividades o proyectos productivos correspondientes.
 
-VII. El nombre y domicilio del tercero interesado cuando lo haya; y
+###### ARTÍCULO 26.
 
-VIII. La enumeración de las pruebas que ofrezca, las que deberán relacionarse con los hechos en los que se funda la demanda.
+Las dependencias y entidades de la Administración Pública Estatal o Municipal, según el ámbito de su competencia, podrán otorgar los incentivos señalados en esta Ley, de conformidad con los programas que al efecto se establezcan y las disposiciones legales y reglamentarias que les sean aplicables a las mismas.
 
-En caso de que se ofrezca prueba pericial, de inspección judicial o testimonial, se precisarán los hechos sobre los que deben versar y se señalarán los nombres y domicilios del perito o de los testigos en su caso.
+###### ARTÍCULO 27.
 
-###### Artículo 36.
+El Organismo, las dependencias y entidades de la Administración Pública Estatal o Municipal en el otorgamiento de incentivos no fiscales podrán imponer a los inversionistas o empresarios los compromisos siguientes:
 
-El demandante deberá adjuntar a su demanda:
+I.- Invertir o destinar los incentivos otorgados en los plazos señalados o autorizados. En caso de que el inversionista o empresario requiera un mayor plazo, éstos deberán informarlo al Organismo, a la Dependencia o Entidad, por conducto del Organismo, para su autorización;
 
-I. Una copia de la misma y de los documentos anexos para cada una de las partes;
+II.- Mantener las condiciones que se consideraron para el otorgamiento de los incentivos. En caso de modificación de las mismas, dentro de los noventa días siguientes deberá informar dicha situación al Organismo, la Dependencia o Entidad que los otorgó, por conducto del Organismo;
 
-II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio;
+III.- Acreditar haber cumplido con las obligaciones fiscales y laborales que les correspondan;
 
-III. El documento en que conste el acto impugnado o, en su caso, copia de la instancia no resuelta por la autoridad;
+IV.- Informar cada tres meses al Organismo, la Dependencia o Entidad correspondiente, por conducto del Organismo, sobre la aplicación y destino de los incentivos otorgados, así como del cumplimiento de los compromisos asumidos;
 
-IV. El cuestionario para los peritos cuando se ofrezca prueba pericial;
+V.- Informar a las dependencias, entidades y al Organismo de las modificaciones de: reubicación de instalaciones; monto de inversión y número de empleos originalmente considerados; el cambio de giro de actividades originalmente planteado; y
 
-V. Las pruebas documentales que ofrezca; y
+VI.- Otorgar garantía por el monto que determinen.
 
-VI. Constancia de la notificación del acto impugnado, excepto cuando el demandante declare, bajo protesta de decir verdad, que no recibió constancia; cuando hubiere sido por correo o bien cuando hubiere tenido conocimiento de la misma sin mediar notificación. Si la notificación fue por edictos, deberá señalar la fecha de la última publicación y el nombre del órgano en que ésta se hizo.
+###### ARTÍCULO 28.
 
-Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas, a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se hallen para que, a su costa, se mande expedir copia de ellos o se requiera su remisión, cuando ésta sea legalmente posible. Para ese efecto, deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que se acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
+Los incentivos fiscales señalados en el inciso A del artículo 18 de esta Ley serán otorgados por las autoridades fiscales respectivas y conforme a los procedimientos establecidos en la legislación aplicable en la materia.
 
-Si el acto impugnado no constare documentalmente el actor lo manifestará así, bajo protesta formal de decir verdad, y ofrecerá los elementos de prueba mediante los cuales acredite la existencia del acto impugnado.
+### CAPÍTULO III. DE LA PARTICIPACIÓN DE LOS AYUNTAMIENTOS EN LA PROMOCIÓN Y DESARROLLO ECONÓMICO
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+###### ARTÍCULO 29.
 
-Si los documentos a que se refiere el presente artículo excedieren de cincuenta fojas, quedarán en la secretaría para que se instruyan de ellos las partes y sólo subsistirá la obligación de presentar copia del escrito.
+Los incentivos no fiscales a que se refiere el inciso B del artículo 18 de esta Ley, de carácter Estatal, se otorgarán conforme al procedimiento siguiente:
 
-###### Artículo 37.
+I.- Los inversionistas y empresarios solicitantes de incentivos deberán dirigir su petición al Organismo, anexando la información y documentación necesaria para acreditar los requisitos establecidos en esta Ley y otras disposiciones legales y reglamentarias aplicables;
 
-Si al examinarse la demanda se advierte que ésta es oscura, irregular o incompleta, o que no se adjuntaron los documentos señalados en el artículo precedente, se requerirá al demandante para que dentro del término de tres días la aclare, corrija, complete o exhiba los documentos aludidos, apercibiéndolo de que de no hacerlo se desechará de plano la demanda o se tendrán por no ofrecidas las pruebas, en su caso.
+II.- El Organismo revisará la solicitud recibida para dictaminar si la misma reúne o no los requisitos establecidos en las disposiciones legales y reglamentarias;
 
-###### Artículo 38.
+III.- En caso de que la solicitud reúna los requisitos mencionados, el Organismo emitirá el Acuerdo respectivo, indicando, en su caso, el monto, tipo y plazo de los incentivos a otorgarse, así como los compromisos y condiciones que deberá cumplir el inversionista o empresario para gozar de los mismos, los cuales se formalizarán en Convenio previamente a la entrega de los incentivos aprobados, el cual deberá ser suscrito por los titulares del Organismo, de la Secretaría y de la Secretaría de Hacienda del Estado.
 
-El demandante tendrá derecho de ampliar la demanda dentro de los diez días siguientes a la fecha en que surta efectos la notificación del acuerdo recaído a la contestación de la misma, cuando se impugne una resolución negativa ficta.
+Si la solicitud no reúne los requisitos legales, se tendrá por no presentada. El Organismo deberá fundamentar y motivar las causas por las cuales se tenga una solicitud por no presentada, dejando a salvo los derechos del interesado para volverla a solicitar, una vez que se reúnan los requisitos legales; y
 
-También podrá ampliar la demanda cuando en la contestación se sostenga que el juicio es improcedente por consentimiento tácito, si el actor considera que la notificación del acto impugnado se practicó ilegalmente.
+IV.- Emitido el acuerdo a que se refiere la fracción III anterior de este artículo y tratándose del otorgamiento de estímulos conforme a las fracciones II, III, V y VI del inciso B del artículo 18 de esta Ley el Organismo turnará el expediente relativo a la Dependencia o Entidad Estatal competente para que se provea lo conducente para la entrega de los incentivos aprobados, de conformidad con lo dispuesto en las disposiciones legales y reglamentarias aplicables.
 
-###### Artículo 39.
+Tratándose de los estímulos descritos en las fracciones I y IV del inciso B del artículo 18 de esta Ley, el Organismo otorgará (sic) la inversionista o empresario solicitante, los incentivos aprobados.
 
-La demanda se admitirá dentro de los tres días siguientes al de su presentación. En el auto que la admita en definitiva, se admitirán o desecharán las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo y se aceptará o rechazará la intervención del coadyuvante o del tercero.
+En caso de que las dependencias o entidades de la Administración Pública Estatal y Municipal, conforme a sus facultades y atribuciones, reciban y resuelvan las solicitudes de otorgamiento de estímulos en los términos de esta Ley y demás disposiciones aplicables, las resoluciones que emitan serán remitidas al Organismo para efectos del registro que lleve conforme a lo previsto en esta Ley.
 
-###### Artículo 40.
+Solo podrán otorgarse estímulos financieros conformen (sic) a lo establecido en esta Ley y demás disposiciones que de ella emanen, siempre y cuando existan recursos suficientes y disponibles en el fondo.
 
-El tercero o el coadyuvante, dentro de los diez días siguientes a aquel en que se le corra traslado de la demanda, podrá apersonarse al juicio mediante escrito que contendrá los requisitos de la contestación o de la demanda, según sea el caso, así como la justificación de su derecho para intervenir en el asunto.
+Los montos, plazos, términos, compromisos y condiciones de los incentivos no fiscales otorgados podrán modificarse previa aprobación del órgano o funcionario del Organismo, dependencias o entidades de la Administración Pública Estatal y Municipal que lo autorizó, según corresponda, en el entendido que dichas modificaciones constarán por escrito y deberán ser firmadas en los mismos términos en los que se formalizaron los incentivos inicialmente otorgados.
 
-###### Artículo 41.
+###### ARTÍCULO 30.
 
-Se desechará la demanda en los siguientes casos:
+El otorgamiento de los incentivos no fiscales a los inversionistas o empresarios estará sujeto al cumplimiento de las condiciones y compromisos que señalen las disposiciones legales aplicables y/o el Acuerdo en donde se haga constar el otorgamiento de los mismos, para tal efecto, el Organismo, las dependencias y entidades que correspondan, en su caso, deberán celebrar los convenios respectivos con los inversionistas o empresarios que se han hecho acreedores a los incentivos, donde se estipulen las obligaciones, compromisos y condiciones necesarias para ser beneficiario de los mismos, así como las consecuencias del incumplimiento de lo pactado.
 
-I. Si se encontrare motivo manifiesto e indudable de improcedencia; y
+En el caso de empresarios o inversionistas extranjeros o nacionales que pretenden obtener un incentivo no fiscal en los términos de la presente Ley, el Organismo, las dependencias y entidades que correspondan, en su caso, analizando los casos en particular, podrán establecer como condición de acceso al mismo, la obligación de éstos para asegurar, al menos, el cumplimiento de sus obligaciones fiscales y laborales, para el supuesto de que decidan abandonar repentinamente el País o el Estado.
 
-II. Cuando, prevenido el actor para subsanar los defectos de la misma, no lo hiciere oportunamente.
+Para los efectos de este artículo, el Organismo contará con un Registro Estatal de Empresarios o Inversionistas solicitantes de incentivos, en donde se establezca la información pertinente que le permita decidir sobre el establecimiento de las condiciones acordadas.
 
-### CAPÍTULO VI. DE LA CONTESTACIÓN
+### CAPÍTULO IV. DE LOS CONSEJOS CONSULTIVOS REGIONALES PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
 
-###### Artículo 42.
+###### ARTÍCULO 31.
 
-Admitida la demanda en definitiva se correrá traslado de ella al demandado, emplazándolo para que la conteste dentro del término de diez días. El plazo para contestar la ampliación de la demanda también será de diez días siguientes a aquel en que surta efectos la notificación del acuerdo que la admita. Si no se produce la contestación en tiempo, o ésta no se refiere a todos los hechos, se tendrán como ciertos los que no hubieren sido contestados, salvo que, por las pruebas rendidas o por hechos notorios, resulten desvirtuados.
+Los inversionistas y empresarios serán responsables de la aplicación de los incentivos no fiscales que les sean entregados por el Organismo, las dependencias y entidades respectivas y deberán rendir a éstas, por conducto del Organismo, informes trimestrales y uno final sobre la aplicación y destino de los recursos que hubiesen recibido, así como el cumplimiento de las condiciones y compromisos asumidos, soportados con la documentación comprobatoria correspondiente.
 
-Cuando alguna autoridad que deba ser parte en el juicio no fuera señalada por el actor como demandada, de oficio se le correrá traslado de la demanda para que la conteste en el plazo a que se refiere el párrafo anterior, para lo cual deberá prevenirse al actor para que en el término de tres días exhiba las copias necesarias. De igual manera se procederá cuando no sea señalado el tercero interesado.
+Para garantizar la correcta utilización de los incentivos no fiscales que se otorguen, el Organismo, las dependencias y entidades competentes establecerán procedimientos y mecanismos de control de las acciones y operaciones que realicen los inversionistas o empresarios beneficiados. Asimismo, en cualquier momento se podrá requerir a éstos últimos que proporcionen la información y documentación necesaria para comprobar que cumplen con los compromisos asumidos y las condiciones, lo anterior sin perjuicio de las visitas de inspección o verificación que se lleven a cabo de conformidad con lo establecido en esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
-Si los demandados fueren varios, el término para contestar les correrá individualmente.
+###### ARTÍCULO 32.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2000)</small>
+El Organismo, a solicitud de los inversionistas o empresarios, gestionará a favor de éstos ante las autoridades federales y municipales el otorgamiento de los incentivos no fiscales que les corresponda otorgar de acuerdo con su ámbito de competencia y con lo previsto en las disposiciones legales aplicables.
 
-En la contestación de la demanda y hasta antes del cierre de la instrucción, el demandado podrá allanarse a las pretensiones del demandante si se tratare de la autoridad, el magistrado podrá ordenar de inmediato la revocación del acto origen de la demanda o la expedición del acto que subsane la omisión, según sea el caso.
+###### ARTÍCULO 33.
 
-###### Artículo 43.
+El Organismo podrá celebrar convenios con las autoridades federales, dependencias y entidades estatales o municipales involucradas en el desarrollo económico y la competitividad y los inversionistas o empresarios, los cuales tendrán como finalidad el desarrollo de proyectos o programas relacionados con el cumplimiento del objeto de la presente Ley, en los que se determinará el monto de los recursos que deberán aportar cada una de las partes para tal fin.
 
-El demandado, en su contestación, expresará:
+###### ARTÍCULO 34.
 
-I. Los incidentes de previo y especial pronunciamiento a que haya lugar;
+El Ejecutivo Estatal, a través de las dependencias y entidades competentes, en coordinación con el Organismo y los gobiernos municipales, participarán en la elaboración y financiamiento de estudios y proyectos que permitan la identificación y construcción de infraestructura estratégica a corto, mediano y largo plazo, que eleve la competitividad mejorando el tránsito de personas y bienes por el Estado de Sonora y propicie un desarrollo regional equilibrado; asimismo, coordinará la investigación y gestión de fondos alternativos para la consecución de estos fines.
 
-II. Las consideraciones que, a su juicio, impidan la decisión en cuanto al fondo, o demuestren que no ha nacido o se ha extinguido el derecho en el que el actor apoye su demanda;
+###### ARTÍCULO 35.
 
-III. Se referirá concretamente a cada uno de los hechos que el demandante le impute de manera expresa, afirmándolos, negándolos, expresando los que ignore por no ser propios, o exponiéndolos como ocurrieron, según sea el caso;
+Para efectos de este capítulo se consideran como infraestructura estratégica los siguientes rubros:
 
-IV. Los argumentos por medio de los cuales se demuestre la ineficacia de los conceptos de impugnación;
+I.- Carreteras;
 
-V. Las pruebas que ofrezca, las que deberá relacionar con los hechos de su contestación; y
+II.- Red ferroviaria;
 
-VI. El nombre y domicilio del coadyuvante, cuando lo haya.
+III.- Puertos y aeropuertos;
 
-###### Artículo 44.
+IV.- Puentes internacionales;
 
-El demandado deberá adjuntar a su contestación:
+V.- Parques y zonas industriales;
 
-I. Copias de la misma y de los documentos que acompañe para cada una de las partes. Su omisión dará lugar a que se le requiera para que los exhiba dentro de un término de tres días, apercibiéndolo de que se tendrá por no contestada la demanda en caso de incumplimiento;
+VI.- Generación de energía eléctrica;
 
-II. El documento en que acredite su personalidad, salvo cuando actúe por su propio derecho o se trate de una autoridad electa popularmente;
+VII.- Explotación y conducción de gas natural;
 
-III. El cuestionario que deba desahogar el perito, si se ofrece prueba pericial; así como la ampliación del cuestionario para el desahogo de dicha prueba, en el caso de que ésta se haya propuesto por el demandante; y
+VIII.- Telecomunicaciones;
 
-IV. Las pruebas documentales que aporte, si las tuviere en su poder. En caso contrario se aplicarán las reglas que se establecen para el ofrecimiento de las documentales en la demanda.
+IX.- Recintos fiscalizados estratégicos; y
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+X.- El recurso agua.
 
-Si los documentos a que se refiere el presente artículo excedieren de cincuenta fojas, quedarán en la secretaría para que se instruyan de ellos las partes y sólo subsistirá la obligación de presentar copia del escrito.
+###### ARTÍCULO 36.
 
-###### Artículo 45.
+La Secretaría será una instancia de apoyo para el cuidado y la preservación del medio ambiente; para tal efecto, en coordinación con dependencias y entidades de la Administración Pública, incluyendo el Organismo, pugnará a fin de:
 
-En la contestación de la demanda no podrán cambiarse los fundamentos de derecho de la resolución impugnada.
+I.- Que en el ámbito de su competencia, incentive una cultura de cuidado a los recursos naturales renovables y no renovables;
 
-En el caso de resolución negativa ficta, la autoridad expresará los hechos y el derecho en que se apoye la misma.
+II.- Que el desarrollo económico e industrial del Estado de Sonora, no comprometa la explotación racional de los recursos naturales; y
 
-###### Artículo 46.
+III.- Que se garantice que el desarrollo económico del Estado satisfaga las necesidades del presente, sin comprometer la capacidad de las generaciones futuras para atender sus propias necesidades.
 
-Dentro del término de tres días se acordará sobre la contestación de la demanda, se tendrán por admitidas o desechadas las pruebas ofrecidas y, en su caso, se dictarán las providencias necesarias para su desahogo. Con las copias de la contestación, de los documentos anexos y del auto que la admita se correrá traslado al actor.
+###### ARTÍCULO 37.
 
-###### Artículo 47.
+La Secretaría con la participación del Organismo, del sector privado y organismos empresariales, alentará una cultura exportadora que promueva los productos de calidad, así como la competitividad de empresas, mercados, servicios, regiones y sectores.
 
-Una vez agotados los términos para la contestación de la demanda o de su ampliación y para que se presenten a juicio el tercero o el coadyuvante, o que se hubieren cumplido tales actos, si las cuestiones controvertidas en el juicio fueren puramente de derecho y no de hecho o no hubieren sido ofrecidas pruebas para cuyo desahogo se requiera audiencia o diligencia, la sala, de oficio o a petición de parte, dictará auto mandando poner los autos a la vista de las partes para que, dentro del término de tres días, formulen por escrito sus alegatos. Aún cuando no se diga expresamente el auto dictado en los términos de este artículo tendrá efectos de citación para sentencia, la que deberá pronunciarse dentro de los veinte días que sigan a la notificación del propio auto.
+###### ARTÍCULO 38.
 
-### CAPÍTULO VII. DE LAS PRUEBAS
+La Secretaría fomentará la participación de los productos sonorenses en los mercados nacionales e internacional, a través de diversos mecanismos de promoción, para incrementar la comercialización en otras Entidades del País, así como las exportaciones.
 
-###### Artículo 48.
+###### ARTÍCULO 39.
 
-En los juicios a que se refiere esta ley será admisible toda clase de pruebas, excepto la confesional mediante absolución de posiciones, las que no tengan relación con los hechos controvertidos, las contrarias a la moral y al derecho; y las que no hayan sido ofrecidas ante la autoridad demandada en el procedimiento administrativo, salvo que en éste no se le hubiera dado oportunidad razonable de hacerlo.
+La Secretaría, empleando servicios de información, asesoría técnica y de capacitación en materia de comercio exterior, apoyará a las empresas sonorenses; y con la participación del Organismo, definirá los procesos necesarios para otorgar el Premio Estatal de Exportación.
 
-Las pruebas supervenientes podrán presentarse antes de citación para sentencia. En este caso, la Sala ordenará dar vista a la contraparte para que en el término de cinco días exprese lo que a su derecho convenga, reservándose su admisión y valoración hasta la sentencia definitiva.
+###### ARTÍCULO 40.
 
-###### Artículo 49.
+La Secretaría impulsará a las empresas con potencial de exportación, aprovechando los estímulos que se establecen en esta Ley, para que se integren a cadenas productivas, substituyan importaciones y puedan convertirse en proveedores.
 
-La Sala podrá ordenar de oficio la práctica de cualquier diligencia que tenga relación con los puntos controvertidos o acordar la exhibición de cualquier documento, notificando oportunamente a las partes a fin de que puedan intervenir si así conviene a sus intereses.
+###### ARTÍCULO 41.
 
-Igualmente, podrá designar un perito de los registrados ante el Departamento de Auxiliares de la Administración de Justicia del Tribunal. Dicha designación deberá notificarse a las partes. Si el Perito requiere algunos informes o documentos que se encuentren en poder de las partes, la Sala las prevendrá para que los presenten.
+La Secretaría mantendrá información estadística relativa al desarrollo económico y competitividad en la Entidad, la cual tendrá por objeto fundamental el acopio, integración, inventario, clasificación, análisis, elaboración y difusión de indicadores oportunos, confiables y objetivos de desarrollo económico y competitividad en el Estado, sus regiones y sus sectores o actividades económicas, que faciliten y den certidumbre a la mejor integración de políticas y programas públicas para el fomento e impulso del desarrollo económico y competitividad.
 
-El Magistrado podrá convocar a los peritos para que comparezcan y respondan a las preguntas que se les formulen, siempre que tengan relación directa con los puntos sobre los que verse el dictamen.
+La Secretaría establecerá las relaciones de coordinación y colaboración necesarias con las demás dependencias y entidades de la Administración Pública Estatal encargadas de la integración y elaboración de la información estadística de la Entidad.
 
-###### Artículo 50.
+### CAPÍTULO V. DE LOS INCENTIVOS PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD
 
-En el auto que cite a audiencia para el desahogo de prueba pericial o inspección judicial que así lo requiera, el órgano judicial que conozca del asunto designará al perito que deba auxiliarlo con sus opiniones técnicas en alguna especialidad, en la apreciación de las circunstancias de los hechos, o de los hechos mismos que sean materia de la prueba. Una vez designado el perito, se le notificará la designación y se le prevendrá para que en el acto de la notificación o dentro del término de tres días manifieste su aceptación.
+###### ARTÍCULO 42.
 
-Si el perito no acepta el cargo dentro del término señalado, de oficio, a más tardar dentro de los tres días siguientes, se hará la designación del perito que deba sustituir al nombrado en primer término.
+Las dependencias y entidades de la Administración Pública Estatal vinculadas con la actividad económica, así como las autoridades municipales, tendrán la obligación de facilitar los datos, reportes e informes que le sean requeridos por la Secretaría, a fin de que la información estadística pueda integrarse en forma oportuna, fidedigna y completa.
 
-Una vez aceptado el cargo por el perito se dictará auto en el que se le discernirá del mismo y se requerirá al oferente de la prueba para que deposite los honorarios de dicho perito, dentro del término de tres días. El incumplimiento de esta obligación por la parte oferente, dará lugar a que se le tenga por perdido el derecho al desahogo de la prueba.
+###### ARTÍCULO 43.
 
-Los honorarios se fijarán de conformidad con la Ley que establece la remuneración para los Auxiliares en la Administración de Justicia, o en su defecto, atendiendo a las reglas que para su tasación fijen las leyes. En todo caso, el importe de los honorarios no se entregará al perito, sino hasta después de que hubiere rendido su dictamen.
+La Secretaría podrá celebrar convenios de coordinación y colaboración con entes públicos, dependencias y entidades del Gobierno federal, de otras entidades federativas y de los municipios, así como con instituciones académicas y con los sectores privado y social, para promover su participación en la generación y difusión de la información estadística de Sonora.
 
-En los casos de excepción en que conforme a las disposiciones expresas de la Ley Orgánica del Poder Judicial o las leyes en materia de asistencia social, el dictamen pericial deba ser gratuito no se seguirán las reglas previstas por este artículo para la fijación y depósito de honorarios.
+###### ARTÍCULO 44.
 
-###### Artículo 51.
+Tratándose de los incentivos fiscales otorgados a los inversionistas o empresarios, la Secretaría de Hacienda del Estado, en el ámbito Estatal, o la Dependencia Municipal correspondiente, en este nivel de gobierno, podrá realizar a éstos visitas de inspección o verificación, en los términos previstos en las disposiciones legales y reglamentarias fiscales.
 
-El nombramiento de los peritos designados por las partes, cuando alguna de ellas ofrezca prueba pericial, podrá hacerse en cualquier tiempo hasta tres días hábiles antes de la celebración de la audiencia de desahogo de la prueba, sin contar el día de la audiencia ni el del ofrecimiento. El perito designado por el órgano judicial debe tener aceptado su cargo en forma previa al desahogo de la pericial.
+En el caso de incentivos no fiscales otorgados a los inversionistas o empresarios, el Organismo o el Ayuntamiento, en el ámbito de su competencia, deberá realizar a éstos visitas de inspección o verificación en los términos de esta Ley y del Reglamento de la misma.
 
-La prueba quedará integrada con la sola presencia del perito designado por el órgano judicial, en su caso, aún cuando no acudan los peritos designados por las partes, siempre que éstas hubieren sido debidamente notificadas respecto del auto que citó a la audiencia para el desahogo de la prueba.
+Se deberán realizar visitas de verificación ordinarias por las autoridades antes mencionadas, por lo menos, una vez durante el año calendario.
 
-###### Artículo 52.
+Las visitas de inspección o verificación que realicen las autoridades antes mencionadas tendrán por objeto comprobar la permanencia de los requisitos legales, así como el cumplimiento de compromisos, condiciones o términos que se consideraron para el otorgamiento de los incentivos.
 
-El Perito designado por el órgano judicial que conozca del asunto no será recusable, pero deberá excusarse cuando se encuentre en alguno de los casos siguientes:
+###### ARTÍCULO 45.
 
-I. Parentesco por consanguinidad o afinidad, dentro del cuarto grado, con alguna de las partes;
+Para la práctica de visitas de inspección o verificación para comprobar el cumplimiento de las disposiciones legales y reglamentarias que emanen de esta Ley, se estará a lo dispuesto en el Capítulo IX del Título Tercero de la Ley de Procedimiento Administrativo del Estado de Sonora, esta Ley y su Reglamento.
 
-II. Interés directo o indirecto en el litigio; o
+###### ARTÍCULO 46.
 
-III. Ser acreedor, deudor, inquilino, arrendador, tener amistad estrecha o enemistad manifiesta con las partes, o tener dependencia económica con cualquiera de ellas.
+Los incentivos se extinguirán por:
 
-###### Artículo 53.
+I.- Cumplirse el término de su vigencia, de acuerdo con lo dispuesto en las leyes fiscales o en las resoluciones o autorizaciones emitidas por el Organismo, la Entidad o Dependencia o autoridades municipales competentes en las que se determine su otorgamiento;
 
-Para desahogar la prueba testimonial, se requerirá a la parte que la hubiera ofrecido, para que presente un máximo de tres testigos y, cuando la misma manifieste no poder hacer que se presenten, se citará a los testigos por conducto del Actuario, a fin de que comparezcan el día y hora señalados para la celebración de la audiencia de recepción de dicha prueba.
+II.- Dejar de situarse el beneficiario en los supuestos previstos por las leyes fiscales para gozar de los incentivos establecidos en las mismas;
 
-###### Artículo 54.
+III.- Renuncia del interesado; y
 
-En el desahogo de la testimonial se levantará acta pormenorizada de los interrogatorios que en forma verbal y directa formulen las partes, así como de las declaraciones de los testigos. El Magistrado podrá formular a dichos testigos las preguntas que estime necesarias, mismas que se asentarán en el acta junto con las respuestas que den los testigos.
+IV.- Cancelación.
 
-###### Artículo 55.
+###### ARTÍCULO 47.
 
-El oferente de la prueba podrá sustituir a sus testigos en cualquier tiempo anterior al desahogo de la prueba, pero en tales casos, el oferente deberá presentar directamente a los testigos sustitutos, sin que pueda pedir que sean citados por el tribunal. En ningún caso la sustitución de testigos podrá ser motivo para diferir el desahogo de la prueba.
+Procede la cancelación de los incentivos no fiscales que otorgue el Organismo, las entidades o dependencias estatales o autoridades municipales competentes, cuando el inversionista o empresario:
 
-###### Artículo 56.
+I.- Aporte información falsa para la obtención de los incentivos;
 
-A fin de que las partes puedan rendir sus pruebas, las autoridades tienen la obligación de expedir con toda oportunidad las copias de los documentos que les soliciten; si dichas autoridades no cumplieren con esta obligación, la parte interesada solicitará que requiera a las mismas. Si todavía no lo hicieren, se hará uso de los medios de apremio que establece esta ley. Si aún así no se cumpliere, se pondrá en conocimiento del Ministerio Público.
+II.- Suspenda sus actividades durante tres meses sin causa justificada;
 
-En los casos en que la autoridad requerida no sea parte, el Magistrado procederá en los mismos términos del párrafo anterior.
+III.- Destine los incentivos para fines distintos para los cuales se les otorgaron;
 
-Al interesado que maliciosamente o con el solo propósito de demorar la tramitación del juicio, ocurra quejándose de la falta a que se refiere el primer párrafo de este artículo, o informe que se le ha denegado la expedición, se le impondrá multa de hasta el equivalente de un mes de salario mínimo general vigente en el municipio de Guadalajara.
+IV.- Derivado de los avisos (sic) que se refieren los artículos 24 y 31 de esta Ley, de las visitas de verificación practicadas o de la información presentada en virtud de un requerimiento de información, se advierta que no se mantienen los requisitos y condiciones ni se han cumplido los compromisos adoptados en virtud de los cuales se les otorgaron los incentivos;
+
+V.- Transfiera por cualquier medio los incentivos otorgados;
+
+VI.- Simule acciones para hacerse merecedor a los incentivos;
+
+VII.- Omita la presentación oportuna de los avisos a que se refieren en los artículos 24 y 31 de la presente Ley; o
+
+VIII.- Se encuentre sujeto a un procedimiento voluntario o involuntario de concurso mercantil o análogo, haya manifestado en cualquier procedimiento de cualquier tipo, incluyendo, sin limitar, judicial o administrativo o en cualquier documento, convenio, contrato o instrumento su incapacidad para cumplir con sus obligaciones o haya manifestado su insolvencia.
+
+### CAPÍTULO VI. DE LA INFRAESTRUCTURA ESTRATÉGICA
+
+###### ARTÍCULO 48.
+
+Cuando proceda la cancelación de incentivos no fiscales, el inversionista o empresario deberá devolver al Organismo o a la Dependencia o Entidad Estatal o a la autoridad Municipal el monto de los incentivos que en los términos de la presente Ley haya obtenido a partir de la fecha en que se verificó la causa de la cancelación.
+
+###### ARTÍCULO 49.
+
+Las dependencias o entidades estatales o autoridades municipales competentes y el Organismo iniciarán, cuando resulte aplicable, el procedimiento de cancelación de los incentivos que hubieren otorgado, de conformidad con lo previsto en esta Ley y demás disposiciones aplicables en la materia.
+
+En el caso de otorgamiento de incentivos fiscales el procedimiento de cancelación se sujetará a lo dispuesto por las disposiciones fiscales aplicables.
+
+El procedimiento de cancelación de los incentivos no fiscales iniciará de oficio con la notificación en donde se informe al empresario o inversionista lo siguiente:
+
+I.- En su caso, el resultado de la visita de verificación, misma que deberá contener los hechos que motiven la cancelación del incentivo; o
+
+II.- En su caso, la documentación e información proporcionada por el empresario o inversionista derivado de los informes presentados, un requerimiento de información o de una visita de verificación; o
+
+III.- En su caso, con aquella documentación que por cualquier medio se haya obtenido y que permita concluir que el empresario o inversionista se encuentra en alguno de los supuestos que justifique la cancelación de incentivos.
+
+En la notificación aquí descrita se deberá acompañar la documentación e información que motive el inicio del procedimiento de cancelación de los incentivos.
+
+###### ARTÍCULO 50.
+
+El inicio del procedimiento de cancelación de incentivos no fiscales deberá notificarse al inversionista o empresario en el domicilio que haya declarado ante el Organismo, Dependencia o Entidad Estatal o autoridades municipales competentes, mismo que será donde se realizarán toda clase de notificaciones mientras no se señale uno distinto, a efecto de que dentro de los quince días hábiles siguientes manifieste lo que a su interés convenga y aporte las pruebas que tuviere.
+
+###### ARTÍCULO 51.
+
+Concluido el plazo a que se refiere el artículo anterior, las pruebas que se hubieren admitido y que ameriten preparación se desahogarán dentro de un término que no podrá exceder de quince días hábiles, en el lugar, día y hora que señale el Organismo, la Dependencia, la Entidad Estatal o la autoridad Municipal.
+
+###### ARTÍCULO 52.
+
+Una vez desahogadas las pruebas, el Organismo, la Dependencia, la Entidad Estatal o la autoridad Municipal, según corresponda, tendrá un término de quince días hábiles para emitir la resolución correspondiente, la cual se deberá notificar personalmente al inversionista o empresario.
+
+###### ARTÍCULO 53.
+
+La Dependencia o Entidad Estatal o autoridad Municipal que haya resuelto la cancelación de incentivos no fiscales deberá remitir una copia de la misma al Organismo y a la Secretaría, para los efectos procedentes.
+
+###### ARTÍCULO 54.
+
+La autoridad competente, para el otorgamiento de incentivos no fiscales a que se refiere esta Ley, atendiendo a los dictámenes, propuestas y acuerdos que para ese efecto le remitan otras autoridades, podrá determinar la cancelación de los incentivos otorgados, cuando se actualice alguno de los supuestos establecidos en esta Ley o en otras disposiciones legales.
+
+###### ARTÍCULO 55.
+
+Cuando el inversionista o el empresario deje de reunir alguno de los requisitos o incumpla alguna de las obligaciones establecidas en las disposiciones jurídicas fiscales para gozar de los incentivos fiscales otorgados, la autoridad fiscal respectiva procederá, en su caso, de conformidad con lo dispuesto en la legislación fiscal aplicable, al cobro de los impuestos o derechos, así como sus accesorios que, indebidamente, hubiesen dejado de pagarse.
+
+###### ARTÍCULO 56.
+
+Las resoluciones que se dicten en las que se cancelen los incentivos no fiscales a los que se refiere la presente Ley, podrán ser impugnadas por los afectados, mediante el recurso de inconformidad previsto en la Ley de Procedimiento Administrativo del Estado de Sonora.
+
+Los actos relacionados con los estímulos fiscales, podrán ser combatidos a través de los medios de defensa previstos en las disposiciones fiscales aplicables.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Fomento al Desarrollo Económico para el Estado de Sonora, publicada el 19 de diciembre de 2002 en el Boletín Oficial del Gobierno del Estado.
+
+Las normas relativas al Consejo para la Promoción Económica de Sonora y a la Comisión para el Desarrollo Económico del Estado seguirán vigentes hasta la creación por el Ejecutivo del Estado de la Entidad Paraestatal a que se refiere el artículo transitorio Cuarto, y hasta entonces se extinguirán y concluirán las funciones de aquéllos.
+
+###### ARTÍCULO TERCERO.
+
+Las normas de la presente Ley que se refieren al organismo que estará encargado de llevar el procedimiento para el otorgamiento de los incentivos no fiscales a los inversionistas y empresarios entrarán en vigor a partir de la vigencia del Decreto mediante el cual el Ejecutivo Estatal cree (sic) la entidad paraestatal mencionada en el artículo siguiente.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado dentro de los treinta días siguientes a la entrada en vigor de esta Ley expedirá el Decreto de creación de un Organismo Público Descentralizado del Estado que tendrá como atribuciones conocer y resolver las solicitudes de incentivos no fiscales que planteen los inversionistas y empresarios y aquellas que se determinen en dicho Decreto que se relacionen con la promoción del desarrollo económico y la competitividad en el Estado que no estén otorgadas a otras dependencias y entidades estatales.
+
+###### ARTÍCULO QUINTO.
+
+Una vez concluidas las funciones del Consejo para la Promoción Económica de Sonora, los recursos materiales y financieros, así como los bienes y servidores públicos asignados a dicha Entidad para el cumplimiento de su objeto y funciones, pasarán a formar parte del nuevo Organismo Público Descentralizado a que se refiere el artículo transitorio anterior, respetándose los derechos laborales de éstos últimos en los términos de las disposiciones legales aplicables, cuyas funciones deberán ajustarse a las atribuciones del nuevo organismo, conforme al Reglamento Interior del mismo que al efecto se expida.
+
+###### ARTÍCULO SEXTO.
+
+El nuevo organismo a que se refiere el artículo transitorio Cuarto se subrogará en los derechos y obligaciones que correspondan al Consejo para la Promoción Económica de Sonora y a la Comisión para el Desarrollo Económico del Estado, derivados de los convenios, contratos y demás actos jurídicos que éste hubiese celebrado.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las menciones al Consejo para la Promoción Económica de Sonora y a la Comisión para el Desarrollo Económico del Estado que se contengan en otras disposiciones legales y reglamentarias se entenderán referidas, en su caso, al nuevo organismo a que se refiere el artículo transitorio Cuarto.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado, dentro de un plazo de treinta días a partir de la expedición del Decreto a que se refiere el artículo transitorio Cuarto, constituirá los Fondos a que se refiere el artículo 6º y 7º de la presente Ley, los cuales sustituirán a los existentes a que refiere la Ley que se abroga.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo del Estado, dentro de los sesenta días siguientes a la entrada en vigor de la presente Ley, expedirá el Reglamento de la misma.
+
+###### ARTÍCULO DÉCIMO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALÓN DE SESIONES DEL H. CONGRESO DE ESTADO. Hermosillo, Sonora, 01 de noviembre de 2017. C. KARMEN AIDA DÍAZ BROWN OJEDA, DIPUTADA PRESIDENTA.- RÚBRICA. C. TERESA MARÍA OLIVARES OCHOA, DIPUTADA SECRETARIA.- RÚBRICA.- C. ANA M. LUISA VALDÉS AVILÉS, DIPUTADA SECRETARIA.- RÚBRICA.
+
+Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, al primer día del mes de noviembre del año dos mil diecisiete.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 1 DE MARZO DE 2021.
 
 ###### Artículo 57.
 
@@ -563,7 +849,7 @@ La valoración de las pruebas se hará conforme a las disposiciones relativas de
 
 Cuando por el enlace de las pruebas rendidas y de las presunciones resultantes, se adquiera convicción distinta acerca de los hechos materia del litigio, podrán valorarse las pruebas sin sujetarse a lo dispuesto en el párrafo anterior, debiendo fundarse razonadamente esta parte de la sentencia.
 
-### CAPÍTULO VIII. DE LOS INCIDENTES
+### CAPÍTULO VII. DEL CUIDADO Y PRESERVACIÓN DEL MEDIO AMBIENTE
 
 ###### Artículo 59.
 
@@ -619,7 +905,7 @@ Interpuesto el incidente, se resolverá sobre su admisión y la de las pruebas q
 
 La Sala resolverá sobre la autenticidad del documento, exclusivamente, para efectos de dicho juicio, dentro de los diez días siguientes al desahogo de la audiencia incidental cuando la hubiere, o dentro de un plazo igual, contado a partir del vencimiento del término para la contestación del incidente. En todo caso se suspenderán el período de alegatos y el término para dictar la sentencia de fondo, en tanto no se hubiere resuelto el incidente.
 
-### CAPÍTULO IX. DE LAS MEDIDAS CAUTELARES
+### CAPÍTULO VIII. DEL COMERCIO EXTERIOR
 
 ###### Artículo 66.
 
@@ -659,11 +945,9 @@ En los casos en que proceda la suspensión, pero que pueda ocasionar daños y pe
 
 Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo, dentro de los treinta días siguientes a la notificación de la sentencia, ante la Sala, quien dará vista a las demás partes por un término de cinco días, y citará a una audiencia de pruebas y alegatos, dentro de los cinco días siguientes, en la que se dictará la sentencia que corresponda.
 
-### CAPÍTULO X. DE LAS AUDIENCIAS DE DESAHOGO DE PRUEBAS
+### CAPÍTULO IX. DE LA INFORMACIÓN ESTADÍSTICA
 
-### CAPÍTULO XI. DE LA SENTENCIA
-
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2000)</small>
+### CAPÍTULO X. DE LAS VISITAS DE VERIFICACIÓN
 
 ###### Artículo 71.
 
@@ -673,7 +957,7 @@ Cuando en un mismo asunto fueren varias las pruebas ofrecidas, el hecho de que a
 
 Una vez desahogadas las pruebas, se dictará auto para que dentro del término de cinco días las partes formulen por escrito sus alegatos. El auto dictado en estos términos, aún cuando no lo mencione expresamente, tendrá efectos de citación para sentencia.
 
-### CAPÍTULO XII. DE LA ACLARACIÓN DE SENTENCIA
+### CAPÍTULO XI. DE LA EXTINCIÓN DE LOS INCENTIVOS
 
 ###### Artículo 72.
 
@@ -759,7 +1043,7 @@ Si el proyecto del Magistrado Ponente no fuere aceptado por los otros magistrado
 
 Las sentencias pronunciadas por el Pleno adquirirán firmeza cuando fueren notificadas a las partes en el procedimiento.
 
-### CAPÍTULO XIII. DE LA EXCITATIVA DE JUSTICIA
+### CAPÍTULO XII. DEL RECURSO
 
 ###### Artículo 82.
 
@@ -1120,3 +1404,25 @@ QUINTO. Los asuntos en materia de información pública, cuyo trámite haya inic
 P.O. 3 DE DICIEMBRE DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 175, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA Y A LA LEY ESTATAL DE MEJORA REGULATORIA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Registro de Apertura de Confianza se creará en un plazo máximo de 60 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los convenios de colaboración correspondientes se celebrarán dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+B.O. 11 DE MARZO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 181, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE COMPETITIVIDAD Y DESARROLLO ECONÓMICO DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
