@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2015-10-03"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE OCTUBRE DE 2015.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -295,6 +295,8 @@ V. Secretaría de Educación
 
 VI. Secretaría de la Contraloría General;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 VII. Secretaría de Desarrollo Rural y Medio Ambiente;
@@ -315,6 +317,8 @@ IX. Secretaría de Turismo;
 
 X. Secretaría de Salud;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 XI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -334,6 +338,8 @@ XIV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2014)
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2010)</small>
 
 XV. Secretaría de Seguridad Pública;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 XVI. (DEROGADA, P.O. 3 DE OCTUBRE DE 2015)
 
@@ -745,29 +751,43 @@ XIX. Asesorar y apoyar técnicamente a los Ayuntamientos en la elaboración de s
 
 XX. Participar en coordinación con la Secretaría de Administración y Finanzas en la elaboración y actualización de los programas estatales de gasto e inversión pública;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXI. Instrumentar y ejecutar programas de capacitación para los servidores públicos del Estado y municipios en lo relativo a la planeación, programación y presupuestación;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXII. Coordinar las acciones que incidan en el combate a la pobreza, fomentando un mejor nivel de vida de la gente, propiciando la celebración de convenios con los gobiernos federal y municipales, así como con los sectores social y privado;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXIII. Elaborar los programas regionales y especiales que le señale el Titular del Poder Ejecutivo, tomando en cuenta las propuestas que para el efecto realicen las dependencias y entidades de la Administración Pública Estatal y los gobiernos municipales, así como autorizar las acciones e inversiones establecidas en el Presupuesto de Egresos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXIV. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, en especial de los pobladores de las zonas indígenas, de las áreas rurales, así como de los colonos de la áreas urbanas, para elevar el nivel de vida de la población, con la intervención de las dependencias y entidades de la Administración Pública Estatal que correspondan y de los gobiernos municipales, así como con la participación de los sectores social y privado;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXV. Promover y apoyar mecanismos de financiamiento para el desarrollo regional y urbano, así como para la vivienda, con la participación de las dependencias y entidades de la Administración Pública Estatal que correspondan, de los gobiernos federal y municipales, así como de las instituciones de crédito y diversos grupos sociales;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXVI. Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos federal y municipales, así como con la participación de los sectores social y privado, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -973,6 +993,8 @@ VI. Solicitar a las dependencias o entidades de la Administración Pública Esta
 
 VII. Organizar, coordinar y promover el desarrollo administrativo integral de la Administración Pública Estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de las mismas, sean aprovechados y aplicados con criterios de eficiencia, austeridad y racionalidad, buscando en todo momento la eficacia, descentralización, desconcentración y simplificación administrativa. Para ello podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las entidades de la Administración Pública Estatal;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 VIII. Implementar los procedimientos de modernización, reestructuración o simplificación administrativa en coordinación con la Secretaría de Administración y Finanzas;
@@ -1043,6 +1065,8 @@ XXXVII. Vigilar el cumplimiento de las normas internas de la Secretaría, fincan
 
 XXXVIII. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 38.
@@ -1065,6 +1089,8 @@ VII. Vigilar que los programas que se realicen en materia agropecuaria, pesquera
 
 VIII. Establecer programas y acciones que tiendan a incrementar la productividad y la rentabilidad de las actividades rurales en la entidad;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 IX. Participar, colaborar, coordinar y gestionar con las autoridades federales, estatales y municipales competentes, la celebración de convenios en la determinación de los criterios generales para el establecimiento de los estímulos fiscales y financieros necesarios para el fomento a la producción rural en la entidad a que pertenezcan, así como para evaluar sus resultados;
@@ -1078,6 +1104,8 @@ XII. Planear, proyectar y coordinar los programas de clasificación y evaluació
 XIII. Elaborar y mantener actualizados los inventarios de los recursos agrícolas, pecuarios y de infraestructura rural existente en el estado, así como realizar todas aquellas acciones que contribuyan a su desarrollo;
 
 XIV. Mantener actualizados los directorios de productores agrícolas, ganaderos, forestales y pesqueros del estado, así como el padrón de agroindustrias;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1093,117 +1121,175 @@ XIX. Promover la creación de proyectos bilaterales de investigación, capacitac
 
 XX. Concertar con instituciones de investigación y enseñanza, consultores, técnicos, productores e industriales, el desarrollo, validación e introducción de tecnologías de punta en las actividades agrícolas, ganaderas, forestales y pesqueras del estado;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXI. Coordinar con el gobierno federal y con las entidades federativas los programas de sanidad animal y vegetal, así como atender, supervisar y evaluar las campañas de sanidad del Estado, con la participación de los gobiernos municipales y del sector privado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXII. Establecer centros de rendimiento agropecuario y pesquero en el territorio del Estado, que permitan acercar los programas y acciones a los productores, para incrementar la productividad y la rentabilidad de las actividades rurales;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXIII. Participar en la elaboración del Plan Estatal de Desarrollo, definiendo las políticas de protección, restauración y conservación de los recursos naturales de la entidad, así como de mitigación y adaptación al cambio climático, fomentando el aprovechamiento sustentable de los recursos naturales y culturales ante la sociedad, la prevención y disminución de la contaminación ambiental e impulsar la educación ambiental y reducir la vulnerabilidad ante el cambio climático, en coordinación con las demás dependencias del Poder Ejecutivo del Estado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXIV. Fomentar la elaboración y aplicación de programas especiales para preservar, restaurar y fortalecer el equilibrio ecológico y la protección al ambiente, así como para disminuir la fragilidad ambiental de los ecosistemas, propiciando el aprovechamiento y uso sustentable del medio ambiente y los recursos naturales, gestionando la participación que le corresponda a otras dependencias del Poder Ejecutivo Estatal y a los gobiernos municipales, en congruencia con las disposiciones federales;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXV. Proponer y coordinar las acciones y medidas necesarias de protección al ambiente, con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el gobierno federal, las dependencias del Poder Ejecutivo Estatal y los gobiernos municipales, de conformidad con la distribución de competencias en la materia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXVI. Promover y certificar el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales, así como de prevención y disminución de la contaminación ambiental;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXVII. Gestionar ante las dependencias federales, estatales y municipales, los particulares y la sociedad organizada, su participación en la realización, aprobación y acatamiento del ordenamiento ecológico regional del territorio estatal, asegurando su observancia permanente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXVIII. Participar en coordinación con los gobiernos municipales, en la regulación ambiental de los asentamientos humanos;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXIX. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la Federación o de los gobiernos municipales, emitir los dictámenes correspondientes y asegurar su cumplimiento;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXX. Elaborar las propuestas de modificaciones y adecuaciones que resulten pertinentes a las disposiciones reglamentarias y normativas en materia ambiental, atendiendo los lineamientos existentes en materia de mejora regulatoria;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXI. Asegurar el exacto cumplimiento de las disposiciones estatales en materia ambiental a través de los procedimientos administrativos que correspondan, imponiendo las medidas de seguridad, correctivas o de urgente aplicación y, en su caso, las sanciones procedentes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXII. Promover en coordinación con la Secretaría de Educación, la incorporación de contenidos ambientales y de cambio climático en la política educativa del Estado, y en los planes y programas de estudios; así como la formación de actitudes y valores de protección y conservación del patrimonio natural, concertando institucionalmente la capacitación de todos los sectores de la sociedad, con actividades dinámicas de información y educación ambiental, para contribuir, de manera acelerada a integrar las acciones de mejoramiento del ambiente, encauzadas hacia el desarrollo sustentable del Estado;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXIII. Estructurar y mantener actualizada la información ambiental del Estado, en coordinación con las dependencias y organismos del Poder Ejecutivo Estatal que correspondan, con la participación de los gobiernos municipales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXIV. Fomentar ante los particulares la realización de procesos voluntarios de autorregulación y auditorías ambientales, supervisando su ejecución, con el apoyo que corresponda de los gobiernos municipales;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXV. En coordinación con autoridades federales, estatales y municipales, y otorgando la participación que corresponda a las universidades, centros de investigación y los particulares, promover las declaratorias de las áreas naturales protegidas de interés estatal, y aprobar los programas de aprovechamiento conforme lo dispongan las leyes en materia de equilibrio ecológico, protección al ambiente, y las demás disposiciones aplicables;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXVI. Conformar y planear la operación del Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los gobiernos municipales;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXVII. Participar con las autoridades federales, estatales y municipales que correspondan, de conformidad a la distribución de competencias que establecen las leyes en materia de equilibrio ecológico y protección al ambiente y de cambio climático, en la formulación y desarrollo de programas y acciones de fomento para el aprovechamiento y uso sustentable de los recursos naturales de la entidad, prevenir, controlar y reducir la contaminación de la atmósfera, suelo y aguas, así como acciones de mitigación y adaptación al cambio climático;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXVIII. Evaluar la calidad del ambiente y operar sistemas de monitoreo atmosférico, de suelos y de aguas de jurisdicción estatal, con la cooperación de los gobiernos municipales y las instituciones de investigación y de educación superior;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XXXIX. Promover la participación social y de la comunidad científica en la formulación y aplicación de la política ambiental y de cambio climático;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XL. Ejecutar y resolver los actos administrativos de inspección y vigilancia que dispongan las leyes estatales en materia de equilibrio ecológico y protección al ambiente y resolver los recursos de revisión que formulen los particulares de conformidad con las disposiciones aplicables;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLI. Ejercer por acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia ambiental contengan los convenios celebrados con la federación y los gobiernos municipales;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLII. Formular, regular, dirigir e instrumentar acciones de mitigación y adaptación al cambio climático, en el ámbito de competencia del Estado conforme a la Ley General de la materia;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLIII. Elaborar e instrumentar su programa en materia de cambio climático, promoviendo la participación social, escuchando y atendiendo a los sectores público, privado y sociedad en general, estableciendo metas e indicadores de efectividad e impacto de las acciones de mitigación y adaptación que se implementen;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLIV. Fomentar la investigación científica y tecnológica, el desarrollo, transferencia y despliegue de tecnologías, equipos y procesos para la mitigación y adaptación al cambio climático;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLV. Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero, para impulsar el transporte eficiente y sustentable, público y privado;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLVI. Elaborar e integrar la información de las categorías de fuentes emisoras en el Estado e integrar el inventario estatal de emisiones;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLVII. Establecer las bases e instrumentos para promover el fortalecimiento de capacidades institucionales y sectoriales, para enfrentar al cambio climático;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
 XLVIII. Gestionar y administrar fondos estatales para apoyar e implementar las acciones de mitigación y adaptación al cambio climático, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1615,6 +1701,8 @@ XVIII. Asesorar a los Ayuntamientos de la entidad en materia de salud pública; 
 
 XIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 Artículo 40 A.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2009)</small>
@@ -1766,6 +1854,8 @@ XXIV. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le
 ###### Artículo 41 Bis.
 
 (DEROGADO, P.O. 24 DE OCTUBRE DE 2014)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 41 Ter.
 
@@ -2235,7 +2325,9 @@ Cuarto.- Los servidores públicos adscritos a la Secretaría del Trabajo y a la 
 
 P.O. 3 DE OCTUBRE DE 2015.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+> <small>(F. DE E., P.O. 24 DE OCTUBRE DE 2015)</small>
+
+Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2016, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Una vez publicado el presente Decreto, la Secretaría de Administración y Finanzas, deberá contemplar las adecuaciones correspondientes en el proyecto de Presupuesto de Egresos del Estado para el ejercicio fiscal 2016.
 
