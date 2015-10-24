@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-del-consejo-academico-de-novauniversitas-del-83661"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-24"
-last_updated: "2011-09-24"
+last_updated: "2015-10-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO DEL CONSEJO ACADEMICO DE NOVAUNIVERSITAS DEL ESTADO DE OAXACA
 
-REGLAMENTO DEL CONSEJO ACADEMICO DE NOVAUNIVERSITAS DEL ESTADO DE OAXACA
+REGLAMENTO DEL CONSEJO ACADÉMICO DE NOVAUNIVERSITAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO 2 DEL REGLAMENTO DEL CONSEJO ACADÉMICO DE NOVAUNIVERSITAS DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015 (SIN EFECTO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de septiembre de 2011.
 
@@ -222,3 +224,27 @@ El presente reglamento entrará en vigor al día siguiente de su aprobación.
 Se derogan todas las disposiciones que existan en otros reglamentos y que se opongan a las contenidas en este.
 
 Aprobado por el H. Consejo Académico en su sesión del día 18 de Octubre de 2010.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO 1.
+
+El presente reglamento entrará en vigor al día siguiente de su aprobación.
+
+###### ARTÍCULO 2.
+
+Queda sin efecto el Reglamento de (sic) Consejo Académico aprobado el 18 de octubre de 2010 y publicado en el Periódico Oficial del Estado el 24 de septiembre de 2011.
+
+###### ARTÍCULO 3.
+
+Para efectos del artículo 2 inciso d, una vez que los Campus Periféricos cuenten con Director, éstos formaran parte del Consejo Académico.
+
+###### ARTÍCULO 4.
+
+Para los efectos del artículo 2 inciso e, en tanto no se cuente con más profesores titulares de mayor antigüedad, entre los de categoría más alta, podrá formar parte del Consejo Académico solo uno.
+
+###### ARTÍCULO 5.
+
+Para los efectos del artículo 2 inciso f, en tanto no haya más Campus Periféricos, en la conformación de este Consejo Académico formaran parte dos alumnos del Campus Periférico San Jacinto.
