@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2015-08-22"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -207,7 +207,9 @@ XXVII.- GUADALUPE Y CALVO, con cabecera en el pueblo del mismo nombre y las Secc
 
 XXVIII.- GUACHOCHI, con cabecera en el pueblo del mismo nombre y las secciones municipales de Tónachi, Rocheachi, Norogachi, Basiguare, La Ciénega y Samachique;
 
-XXIX.- GUAZAPARES, con cabecera en el pueblo de Temoris y las secciones municipales de Guazapares, Monterde y Tepochique;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+XXIX.- GUAZAPARES, con cabecera en el pueblo de Témoris y las Secciones Municipales de Guazapares, Monterde, Tepochique y Corarayvo.
 
 > <small>(REFORMADA, P.O. 11 DE JUNIO DE 2003)</small>
 
@@ -4628,3 +4630,9 @@ SEXTO.- En el caso de la hipótesis para abatir la subrepresentación contenida 
 SÉPTIMO.- De aprobarse el artículo segundo del presente decreto que reforma el artículo 17 del Código Municipal para el Estado de Chihuahua, no deberán autorizarse ampliaciones presupuestales a los municipios para el efecto del decreto.
 
 OCTAVO.- Una vez que el presente Decreto tenga plena fuerza legal, el Honorable Congreso del Estado comunicará de manera inmediata, a fin de dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior de su cumplimiento.
+
+P.O. 24 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
