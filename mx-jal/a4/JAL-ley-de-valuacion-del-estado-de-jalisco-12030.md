@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-valuacion-del-estado-de-jalisco-12030"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-05"
-last_updated: "2000-09-19"
+last_updated: "2015-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE VALUACION DEL ESTADO DE JALISCO
 
-LEY DE VALUACION DEL ESTADO DE JALISCO
+LEY DE VALUACIÓN DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -171,7 +171,7 @@ Sólo se exceptúan de lo previsto en los artículos 12 y 14 que anteceden:
 
 I.- Los actos relativos a bienes nacionales;
 
-II.- Los casos donde la legislación estatal, determine en forma expresa, otro procedimiento para establecer el valor de los bienes; y (sic)
+II.- Los casos donde la legislación estatal, determine en forma expresa, otro procedimiento para establecer el valor de los bienes; y
 
 ###### Artículo 16.
 
@@ -375,7 +375,9 @@ I.- Un Presidente, que será el Titular del Poder Ejecutivo del Estado, quien de
 
 II.- Tres vocalías que corresponderán:
 
-a).- Al Titular de la Secretaría de Finanzas del Estado;
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+a).- Al Titular de la Secretaría de Planeación, Administración y Finanzas del Estado;
 
 b).- Al Titular del Instituto de Información Territorial del Estado de Jalisco; y
 
@@ -397,7 +399,9 @@ Las designaciones de los integrantes señalados en las fracciones V y VI de este
 
 Para la integración y funcionamiento del Comité Ejecutivo, se aplicará el siguiente procedimiento:
 
-I.- El Secretario de Finanzas del Estado, podrá designar y delegar en un servidor público de su dependencia, el desempeño de la comisión que se le asigne;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+I.- El Secretario de Planeación, Administración y Finanzas del Estado, podrá designar y delegar en un servidor público de su dependencia, el desempeño de la comisión que se le asigne;
 
 II.- Por cada vocalía, las asociaciones profesionales de peritos valuadores a que se refiere la fracción III del artículo que antecede, designarán un vocal propietario y uno suplente, para representarlas en el Comité Ejecutivo por un período de tres años, debiendo ser ratificados en su función anualmente;
 
@@ -691,8 +695,12 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE SEPTIEMBRE DE 2000.
 
 ÚNICO.- Este decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
