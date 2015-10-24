@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2015-07-02"
+last_updated: "2015-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -385,7 +385,9 @@ IV. Por la incapacidad permanente del servidor, física o mental, que le impida 
 
 V. Por el cese dictado por el titular de la entidad pública en donde preste sus servicios a través del procedimiento administrativo de responsabilidad laboral establecido en el artículo 26 de esta ley, en cualquiera de los siguientes casos:
 
-a) Incurrir el servidor durante sus labores en faltas de probidad y honradez, en actos de violencia, amagos, injurias, malos tratos en contra de sus jefes, compañeros, o contra los valores de uno u otro, dentro de las horas de servicio y en los lugares del desempeño de labores, salvo que medie provocación o que obre en legítima defensa.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+a) Incurrir el servidor durante sus labores en faltas de probidad y honradez, en actos de violencia, amagos, injurias, malos tratos, hostigamiento, acoso sexual o acoso laboral en contra de sus jefes, compañeros, subordinados, o contra los valores de unos u otros, dentro de las horas de servicio y en los lugares del desempeño de labores, salvo que medie provocación o que obre en legítima defensa.
 
 b) Cometer el servidor contra alguno de sus compañeros cualquiera de los actos enumerados en la fracción anterior, si como consecuencia de ello se altera la disciplina del lugar en que se desempeña el trabajo.
 
@@ -424,6 +426,16 @@ n) Las análogas a las establecidas en los incisos anteriores, y
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 VI. Por prisión que sea el resultado de una sentencia ejecutoriada siempre que le impida el cumplimiento de la relación de trabajo. Cuando esta sentencia sea absolutoria al servidor público deberá reintegrársele a sus labores; debiéndosele liquidar sus sueldos cuando haya obrado en defensa de los intereses de la entidad pública.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+Para efectos de lo dispuesto en el inciso a) de la fracción V de este artículo, se entiende por:
+
+a) Hostigamiento, el ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral, que se expresa en conductas verbales, físicas o ambas;
+
+b) Acoso sexual, una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos; y
+
+c) Acoso Laboral, es el ataque sistemático reiterado contra la autoestima de una persona en el trabajo para hacerla sentir excluida, maltratada o subvalorada, alterando su derecho al trabajo.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1017,7 +1029,9 @@ XI. Sugerir medidas técnicas y sistemas que redunden en la mayor eficacia del s
 
 XII. Realizar durante las horas de trabajo las labores que se les encomiendan, quedando terminantemente prohibido abandonar el local o lugar donde presten sus servicios, sin la autorización previa del superior inmediato;
 
-XIII. Guardar para los superiores jerárquicos la consideración, respeto y disciplina debidos;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2015)</small>
+
+XIII. Guardar para los superiores jerárquicos, subordinados y compañeros de trabajo la consideración, respeto y disciplina debidos;
 
 XIV. Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, conserve bajo su cuidado o a la cual tenga acceso, impidiendo o evitando el uso, la sustracción, destrucción, ocultamiento o de utilización indebida de aquella;
 
@@ -2730,3 +2744,7 @@ SEGUNDO. Las dependencias y entidades deberán prever en su proyecto de presupue
 P.O. 2 DE JULIO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE OCTUBRE DE 2015.
+
+ÚNICO. EI presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
