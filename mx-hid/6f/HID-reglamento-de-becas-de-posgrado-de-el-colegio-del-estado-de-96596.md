@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-becas-de-posgrado-de-el-colegio-del-estado-de-965
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-11"
-last_updated: "2013-11-11"
+last_updated: "2015-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,344 +21,1020 @@ state: "HID"
 ---
 # REGLAMENTO DE BECAS DE POSGRADO DE EL COLEGIO DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
-REGLAMENTO DE BECAS DE POSGRADO PARA EL ESTADO DE HIDALGO
+LEY DE PROTECCION CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
 TEXTO ORIGINAL.
 
-Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 11 de noviembre de 2013.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 16 de enero de 1998.
 
-REGLAMENTO DE BECAS DE POSGRADO
+H E C T O R T E R A N T E R A N .
 
-EL COLEGIO DEL ESTADO DE HIDALGO, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTÍCULOS 10, FRACCIONES V, VIII, IX, XII, XIV Y XXIV; Y 14, FRACCIONES VIII, XXI Y XXIII DE SU DECRETO DE CREACIÓN PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL 7 DE MARZO DE 2005; ASÍ COMO DEL DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL DECRETO QUE CREÓ EL COLEGIO DEL ESTADO DE. HIDALGO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO, EL TRECE DE MARZO DEL AÑO DOS MIL SEIS Y TOMANDO EN CUENTA LOS SIGUIENTES:
+GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, A SUS HABITANTES SABED:
 
-CONSIDERANDOS...
+QUE LA H. LEGISLATURA DEL ESTADO, ME HA DIRIGIDO PARA SU PUBLICACION, EL ORDENAMIENTO LEGAL QUE SIGUE:
 
-La Junta de Gobierno de El Colegio del Estado de Hidalgo tiene a bien expedir el siguiente:
+LA H. XV LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 27, FRACCION I DE LA CONSTITUCION POLITICA LOCAL, EXPIDE LA SIGUIENTE:
 
-REGLAMENTO DE BECAS DE POSGRADO
+LEY DE PROTECCION CIVIL DEL ESTADO DE BAJA CALIFORNIA
 
-### CAPÍTULO I. Disposiciones generales
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+###### ARTICULO 1.
 
-El presente Reglamento establece las bases, procedimientos y requisitos para el otorgamiento de becas a quienes cursan estudios de posgrado con el fin de fomentar el interés y la vocación por las actividades de investigación.
+Las disposiciones de esta Ley son de orden público, interés social, y de observancia general en el Estado de Baja California; tienen por objeto establecer las bases de integración, coordinación y funcionamiento de los Sistemas Estatal y Municipal de Protección Civil; la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; el restablecimiento y funcionamiento de los servicios públicos indispensables y sistemas estratégicos en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
 
-Y tendrá por Objeto:
+###### ARTICULO 2.
 
-I.- Promover y fomentar la formación y especialización de profesionales e investigadores (as) que contribuyan al conocimiento y análisis con las ciencias sociales y las humanidades en el estado de Hidalgo, mediante el otorgamiento de becas para realizar estudios de posgrado y participar en proyectos de investigación.
+La aplicación y vigilancia de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Dirección de Protección Civil y a los Municipios, a través de los órganos administrativos encargados de la materia de Protección Civil que determinen sus respectivos Reglamentos Interiores.
 
-II.- Regular y ejecutar los programas de becas, de conformidad con el presupuesto asignado y la disponibilidad de su ejecución.
+###### ARTICULO 3.
 
-###### ARTÍCULO 2.
+Para los efectos de esta Ley se entenderá por:
 
-Para los efectos del presente Reglamento, se entenderá por:
+I.- Sistema Nacional, el Sistema Nacional de Protección Civil, cuyas bases para su establecimiento fueron aprobados por Decreto del Ejecutivo Federal, publicado en el Diario Oficial de la Federación el día 6 de mayo de 1986.
 
-Aspirante: Persona que solicita una beca, previamente admitida en El Colegio para estudiar un posgrado o participar en un proyecto de investigación.
+II.- Sistema Estatal, el Sistema Estatal de Protección Civil;
 
-Beca para participar en proyectos de investigación, que formen parte de los programas académicos de posgrado de El Colegio: El apoyo económico para cubrir total o parcialmente la manutención, incluidos los gastos por concepto de acciones de movilidad académica, tales como congresos.
+III.- Sistema Municipal, el Sistema Municipal de Protección Civil;
 
-Beca para apoyo económico posgrado: El apoyo económico para cubrir total o parcialmente la manutención, incluidos los gastos por concepto de prácticas, congresos y otras acciones curriculares o extracurriculares de movilidad académica y las cuotas por concepto de inscripción y colegiatura.
+IV.- Secretaría General, la Secretaría General de Gobierno del Estado de Baja California;
 
-Becario (a): La persona a quien se otorga una beca.
+V.- Consejo Estatal, el Consejo Estatal de Protección Civil;
 
-Beneficiario: Persona que obtiene un beneficio o provecho.
+VI.- Consejos Municipales, los Consejos Municipales de Protección Civil;
 
-Cancelación de la beca: La interrupción definitiva del apoyo, por causas ajenas al convenio firmado por el beneficiario (a).
+VII.- Dirección, la Dirección de Protección Civil;
 
-Carta de liberación: El documento mediante el cual se hace constar que la persona ha cumplido con las obligaciones previstas en este Reglamento y en el Convenio de asignación de beca.
+VIII.- Organos Municipales, a los órganos administrativos encargados de la materia de Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento.
 
-Colegio: El Colegio del Estado de Hidalgo.
+###### ARTICULO 4.
 
-Convenio de asignación de beca: El instrumento jurídico en el cual se hacen constar los términos y condiciones del apoyo que se concede al becario (a) para realizar estudios de posgrado.
+Son autoridades en materia de Protección Civil en el Estado:
 
-Estudios de posgrado: Estudios posteriores a la licenciatura, correspondientes a la maestría o el doctorado.
+I.- El Gobernador Constitucional del Estado;
 
-Evaluadores (as): Los miembros de la comunidad académica encargados de analizar y emitir un dictamen sobre las solicitudes de beca.
+II.- El Consejo Estatal de Protección Civil;
 
-Ex becario (a): La persona que fue beneficiada y cumplió con el objeto de la beca.
+III.- El Secretario General de Gobierno;
 
-Objeto de la beca: Concluir los estudios de posgrado y la obtención del grado, o la conclusión de los compromisos adquiridos como partícipe de un proyecto de investigación.
+IV.- El titular de la Dirección de Protección Civil;
 
-Participantes: La persona que participa en una competición, sorteo, concurso, suceso o actividad.
+V.- El Presidente Municipal de cada Ayuntamiento;
 
-Recursos institucionales: Los recursos asignados en la partida de becas, dentro del capítulo de Transferencias, del Presupuesto Anual Autorizado de El Colegio del Estado de Hidalgo.
+VI.- Los Ayuntamientos;
 
-Recursos interinstitucionales: Aquellos que se constituyan en un fondo específico al amparo de un convenio celebrado con alguna universidad, centro de investigación, organismo similar, o alguna institución o empresa del sector público o privado, ya sea nacional o extranjera, bilateral o múltiple.
+VII.- Los Consejos Municipales de Protección Civil, y
 
-Reglamento: Reglamento de becas de posgrado de El Colegio del Estado de Hidalgo.
+VIII.- Los órganos administrativos encargados de Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento.
 
-###### ARTÍCULO 3.
+### CAPITULO SEGUNDO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-Los casos no previstos en la aplicación del presente Reglamento, serán resueltos por quien esté a cargo de la Dirección General de El Colegio y/o de la Dirección Académica.
+###### ARTICULO 5.
 
-###### ARTÍCULO 4.
+El Sistema Estatal de Protección Civil es parte integrante del Sistema Nacional y se articula con el Sistema Municipal.
 
-Tipos de beca:
+###### ARTICULO 6.
 
-I. Realizar estudios de posgrado, como:
+El Sistema Estatal, estará integrado por:
 
-a) Estudiantes de alguna maestría,
+I.- El Consejo Estatal de Protección Civil;
 
-b) Estudiantes de algún doctorado,
+II.- La Dirección de Protección Civil;
 
-c) Estudiantes de algún otro tipo de posgrado que se considere prioritario, de conformidad con los programas de El Colegio.
+III.- Las Instituciones Públicas y Organizaciones Privadas, Civiles y Académicas cuyo objeto se vincule a la materia de Protección Civil;
 
-II. Participar en proyectos de investigación, que formen parte de los programas académicos de posgrado de El Colegio, como:
+IV.- Las dependencias, unidades administrativas, descentralizadas, entidades paraestatales federales, estatales y municipales;
 
-a) Estudiantes asociados (as),
+V.- Los órganos administrativos encargados de Protección Civil que determinen los Reglamentos Interiores de cada Ayuntamiento;
 
-b) Investigadores asociados (as).
+VI.- Grupos Voluntarios, y
 
-### CAPÍTULO II. De los tipos de beca, su financiamiento y montos
+VII.- Los Programas Estatal, municipales e Internos de Protección Civil.
 
-###### ARTÍCULO 5.
+###### ARTICULO 7.
 
-Las becas podrán ser financiadas mediante apoyos derivados de recursos institucionales o interinstitucionales, en los términos de los convenios que al efecto se suscriban.
+El Sistema Estatal tendrá como objetivos:
 
-###### ARTÍCULO 6.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
 
-El monto de las becas de manutención será equivalente a los siguientes niveles, de conformidad con el Tabulador Autorizado:
+I.- Coordinar a los participantes antes, durante y después de una eventualidad, en el cumplimiento de sus funciones, así como en su interrelación con los sectores público, privado, social y académico;
 
-- Estudios de posgrado
+II.- Hacer uso de los avances tecnológicos que permitan reducir o mitigar los efectos de los fenómenos destructivos que impacten a la población, sus bienes y entorno;
 
-Maestría Doctorado
+III.- Proponer la homologación de las disposiciones jurídicas en la materia, con el fin de establecer criterios y procedimientos para una acción uniforme de las personas e instituciones públicas, privadas, sociales y académicas, y
 
-Nivel 8 A Nivel 8 B
+IV.- Procurar el funcionamiento de los servicios públicos indispensables y los sistemas estratégicos, en caso de riesgo, siniestro o desastre, en coordinación con las dependencias de los tres órdenes de gobierno.
 
-Este monto es el que se considera mensualmente para el pago de las Becas de Maestrías y Doctorado dentro de El Colegio; la cantidad exacta se mide con base en el citado Tabulador.
+### CAPITULO TERCERO. DEL CONSEJO ESTATAL DE PROTECCION CIVIL
 
-- Estancias
+###### ARTICULO 8.
 
-Licenciatura Maestría Doctorado
+El Consejo Estatal de Protección Civil es un órgano de consulta, opinión y coordinación de acciones en la materia, en el que se integran en forma multidisciplinaria e interinstitucional, dependencias del Gobierno Federal, del Estado y de los ayuntamientos, y estará conformado por:
 
-Nivel 7 Nivel 8 "A" Nivel 10
+I.- El Gobernador Constitucional del Estado, quien lo presidirá;
 
-Este monto es el que se considera mensualmente para el pago de las becas por estancias destinadas al desarrollo de actividades académicas dentro de El Colegio, considerando el grado que posee la persona beneficiada; la cantidad exacta se mide con base en el Tabulador Autorizado.
+II.- El Secretario General de Gobierno, como Secretario Ejecutivo;
 
-###### ARTÍCULO 7.
+III.- El Director de Protección Civil del Estado, como Secretario Técnico;
 
-El proceso de evaluación de aspirantes que refiere este capítulo será realizado por los evaluadores que determine quien esté a cargo de la Dirección Académica.
+IV.- El Presidente del Congreso del Estado, con carácter de vocal;
 
-### CAPÍTULO III. De la evaluación, procedimiento, selección de aspirantes y asignación de becas
+V.- El Secretario de Planeación y Presupuesto, con carácter de vocal;
 
-###### ARTÍCULO 8.
+VI.- El Secretario de Asentamientos Humanos y Obras Públicas, con carácter de vocal;
 
-Las becas serán asignadas bajo los criterios, procesos y términos que establezca El Colegio, según el caso, a partir del presupuesto disponible, en atención a las áreas prioritarias de conocimiento.
+VII.- Los Presidentes Municipales de los Ayuntamientos del Estado, con carácter de vocales;
 
-###### ARTÍCULO 9.
+VIII.- Las Delegaciones Estatales de las Dependencias y Entidades de la Administración Pública Federal, que atiendan ramos de actividad relacionados con la ejecución de los programas de prevención, auxilio y apoyo en materia de Protección Civil, en los términos que establezcan los convenios de colaboración o de coordinación que al respecto se celebren, con carácter de vocales;
 
-Las becas para realizar estudios de posgrado, conforme al presente Reglamento, comprenderán únicamente los siguientes conceptos en favor del becario (a):
+IX.- El Director General de Ecología del Estado, con carácter de vocal, y
 
-l. El Colegio cubrirá mensualmente el apoyo económico para manutención, así como la inscripción y colegiatura, de conformidad con los tabuladores y cuotas establecidas, respectivamente.
+X.- El Secretario de Educación y Bienestar Social, con carácter de vocal.
 
-II. En el caso de becas otorgadas a través de cofinanciamiento con alguna empresa u organismo proponente, podrán cubrir total o parcialmente los gastos de manutención, así como inscripción y colegiatura, de acuerdo con los convenios que al efecto se suscriban.
+Por cada miembro propietario se nombrará un suplente.
 
-###### ARTÍCULO 10.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
 
-Las becas para participar en proyectos de investigación, conforme al presente Reglamento, se cubrirán mensualmente durante un máximo de 12 meses el apoyo económico para manutención (sic).
+El Presidente del Consejo, de acuerdo a los asuntos a tratar, podrá invitar a las sesiones o a formar parte de las comisiones especializadas, a representantes de dependencias o entidades públicas y privadas, asociaciones y organizaciones sociales, así como a las agrupaciones e instituciones académicas y profesionales.
 
-###### ARTÍCULO 11.
+###### ARTICULO 9.
 
-La vigencia de las becas será por tiempo determinado y se sujetará a los siguientes plazos:
+El Consejo Estatal tendrá las siguientes atribuciones:
 
-l. Para participar en proyectos de investigación hasta 12 meses; y (sic)
+I.- Orientar las políticas y acciones de Protección Civil;
 
-II. Para desarrollar proyectos de tesis: de maestría hasta 12 meses; y de doctorado hasta 24 meses, previo aval del responsable de la dirección de la tesis.
+II.- Aprobar y evaluar el programa anual de Protección Civil, que formule la Dirección;
 
-III. Para estudios de posgrado:
+III.- Promover la investigación científica en materia de Protección Civil, a través de las instituciones de educación superior;
 
-a) Maestría, hasta 24 meses.
+IV.- Sesionar permanentemente cuando ocurra un desastre, formulando un diagnóstico y evaluación de la situación de emergencia y, decidir las acciones a tomar, así como determinar los recursos necesarios para la respuesta;
 
-b) Doctorado, hasta 36 meses.
+V.- Integrar comisiones por especializaciones, para el asesoramiento del Director de Protección Civil;
 
-### CAPÍTULO IV. De la cobertura de las becas y su vigencia
+VI.- Establecer mecanismos de coordinación del Sistema Estatal con los sistemas estatales de Protección Civil de las entidades federativas vecinas, el Sistema Nacional y los sistemas municipales del Estado;
 
-###### ARTÍCULO 12.
+VII.- Fomentar la cultura de Protección Civil y autoprotección de los habitantes del Estado de Baja California, con la participación de los sectores social, privado y académico en la materia, formulando los programas y acciones necesarios para ello;
 
-Los requisitos para obtener las becas para estudios de posgrado son:
+VIII.- Dar difusión pública a la presente Ley y su Reglamento;
 
-l. Llenar la solicitud correspondiente.
+IX.- Promover y signar acuerdos de ayuda mutua en materia de Protección Civil con instituciones de educación superior, organismos intermedios, colegios y asociaciones de ingenieros y arquitectos;
 
-II. Presentar carta que avale el promedio obtenido en el grado inmediato anterior, en la que conste un mínimo de 8.0 o su equivalente.
+X.- Celebrar convenios de ayuda mutua con autoridades de primera respuesta en la zona fronteriza;
 
-III. Constancia de título profesional o grado académico inmediato anterior.
+XI.- Procurar el funcionamiento de los servicios vitales, los sistemas estratégicos y la planta productiva, y
 
-IV. Los demás requeridos por El Colegio en los plazos y términos descritos en las convocatorias correspondientes.
+XII.- Las demás que establezcan la (sic) leyes y reglamentos.
 
-###### ARTÍCULO 13.
+Las demás normas relativas a la organización y funcionamiento del Consejo Estatal, estarán previstas en el Reglamento de la presente Ley.
 
-Los requisitos para obtener las becas para participar en proyectos de investigación son:
+###### ARTICULO 10.
 
-l. Estudios de licenciatura concluidos, experiencia profesional equivalente o acreditación de competencia; estudios en curso o por concluir de maestría o doctorado.
+El Consejo Estatal se reunirá en sesiones ordinarias y extraordinarias, en comités o en Pleno, a convocatoria de su Presidente, en los plazos y formas que establezca el Reglamento. Cuando se ausente el Presidente, serán dirigidas por el Secretario Ejecutivo.
 
-II. Programa de trabajo a realizar durante la estancia académica.
+###### ARTICULO 11.
 
-III. Los demás requeridos por El Colegio, de conformidad con las necesidades del proyecto de investigación.
+La facultad de declarar la situación de emergencia, en todo o en parte del territorio del Estado, corresponde al Ejecutivo Estatal.
 
-###### ARTÍCULO 14.
+### CAPITULO CUARTO. DE LA DIRECCION DE PROTECCION CIVIL
 
-Cuando el becario (a) inicie sus estudios de posgrado con recursos propios o con cualquier otro apoyo económico externo y posteriormente obtenga una beca de El Colegio para concluirlos, la vigencia de la beca comprenderá únicamente el tiempo que reste para terminar el programa de estudios.
+###### ARTICULO 12.
 
-###### ARTÍCULO 15.
+Para la aplicación de lo dispuesto por la presente Ley, el Ejecutivo del Estado contará con una Dirección de Protección Civil, la que tendrá funciones de autoridad en todo lo relativo a la prevención y mitigación ante las amenazas de riesgo geológico, hidrometeorológico, químico, sanitario y socio-organizativo.
 
-A El Colegio le corresponderá:
+###### ARTICULO 13.
 
-l. Depositar los recursos relativos a la beca autorizada, en la forma, tiempo y lugar previamente establecidos en el convenio de asignación suscrito con el becario (a).
+La Dirección de Protección Civil, tendrá las siguientes atribuciones:
 
-II. Informar oportunamente a los becarios (as), cuando ocurran cambios en los tabuladores o sea necesario cancelar una beca;
+I.- Coordinar las dependencias y entidades de los tres órdenes de Gobierno en el Estado, que tengan actividades que se relacionen con la Protección Civil;
 
-III. Señalar en los convenios de colaboración entre El Colegio y sus contrapartes las condiciones de cofinanciamiento;
+II.- Promover en los medios de comunicación social planes y programas de capacitación, difusión y divulgación a través de publicaciones, grabaciones, videocintas y campañas permanentes sobre temas de Protección Civil, que contribuyan a la formación de una cultura en la materia;
 
-IV. Cancelar toda solicitud o beca otorgada, cuando el (la) aspirante o becario (a) incurra en omisión o falsedad de la información y/o documentación proporcionada;
+III.- Invitar a la población a participar activamente en acciones de Protección Civil;
 
-V. Verificar en cualquier momento el cumplimiento de las obligaciones asumidas por los (las) becarias.
+IV.- Promover la incorporación de contenidos temáticos de Protección Civil en los planes de estudio de todos los niveles educativos, públicos y privados;
 
-VI. Los demás que establezca este Reglamento y otras disposiciones administrativas aplicables.
+V.- Promover el desarrollo de planes y programas para la formación de especialistas en la materia y la investigación de las causas y efectos de los desastres, en los planteles de educación superior y en los organismos dedicados a la investigación científica y tecnológica;
 
-### CAPÍTULO V. De los requisitos para obtener las becas
+VI.- Integrar un catálogo de recursos humanos y materiales de las dependencias y entidades de los tres órdenes de Gobierno y del sector social y privado, necesarios de movilizar en caso de desastre;
 
-###### ARTÍCULO 16.
+VII.- Integrar un directorio telefónico de los funcionarios de los tres órdenes de Gobierno, sector social y privado, relacionados con la materia de Protección Civil;
 
-Al becario le corresponde, además de cumplir con el objeto de la beca:
+VIII.- Promover la actualización de leyes y reglamentos estatales y municipales que garanticen la seguridad de la población, la ecología y sus bienes;
 
-II (Sic). Para estudios de posgrado:
+IX.- Procurar con dependencias y entidades de los tres órdenes de Gobierno, mayor infraestructura, equipamiento y servicios en las zonas urbanas y rurales para evitar daños en centros de población inamovibles;
 
-a) Suscribir la documentación que formalice la beca.
+X.- Coordinar de manera permanente los programas, subprogramas, planes de contingencia y capacitación en materia de Protección Civil que elaboren los Organos Municipales de los Ayuntamientos del Estado;
 
-b) Aplicar el importe de la beca para cubrir los conceptos expresamente previstos en su asignación.
+XI.- Establecer vínculos de coordinación y capacitación con agencias gubernamentales y privadas de otros países;
 
-c) Iniciar el programa de estudios o proyecto de investigación en la fecha establecida por El Colegio.
+XII.- Promover ante autoridades de los tres órdenes de Gobierno, así como del sector privado y social, la adquisición del equipo requerido por los Organos Municipales para el combate de fugas, derrames, explosión e incendio de materiales peligrosos;
 
-d) Dedicar tiempo completo y exclusivo a las actividades relacionadas con el programa para el que le fue otorgada la beca.
+XIII.- Coordinarse de manera especial con el Sector Salud, tanto oficial como privado, para una respuesta eficaz en caso de desastre;
 
-e) Informar de la obtención de alguna beca o apoyo adicional al otorgado por El Colegio.
+XIV.- Formular el programa y subprogramas anuales de Protección Civil, para su aprobación ante el Consejo Estatal;
 
-f) Mantener calificaciones con un promedio mínimo de 8.0 o su equivalente.
+XV.- Formular y presentar a la Secretaría de Planeación y Presupuesto el presupuesto anual de egresos de la Dirección;
 
-g) Además de las obligaciones previstas en este apartado, el (la) becaria con participación financiera externa, tendrá las señaladas en el acuerdo o convenio de colaboración correspondiente.
+XVI.- Tramitar los acuerdos emitidos por el Consejo Estatal;
 
-h) Las demás que establezcan las convocatorias, los convenios y otras disposiciones legales y administrativas aplicables.
+XVII.- Expedir los registros a que se refiere el Artículo 78 de esta Ley;
 
-III. Para participar en proyectos de investigación:
+XVIII.- Elaborar y mantener actualizado el Plan Estatal de Contingencia y el Atlas Estatal de Riesgos, y
 
-a) Suscribir la documentación que formaliza la beca;
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
 
-b) Presentar un informe de la estancia dentro de los dos meses después de concluida la beca.
+XIX.- Las demás que establezca esta Ley y su Reglamento.
 
-c) Sujetarse a los procedimientos de evaluación, selección, vinculación y seguimiento que establezca El Colegio.
+###### ARTICULO 14.
 
-d) Cumplir con los objetivos planteados en el programa diseñado por El Colegio, empresa u organismo proponente.
+El titular de la Dirección será nombrado por el Gobernador del Estado.
 
-e) Las demás que establezcan las convocatorias, los convenios y otras disposiciones legales y administrativas aplicables.
+###### ARTICULO 15.
 
-###### ARTÍCULO 17.
+La Dirección, contará con el personal necesario que determine el presupuesto.
 
-Para la formalización y el otorgamiento de las becas, se requerirá de un Convenio de asignación de beca, suscrito entre El Colegio y el becario (a), en el cual se establecerán las características de la beca, su duración y monto máximo de acuerdo con la disponibilidad presupuestal, los compromisos que asumen las partes y las estipulaciones que se otorguen para procurar la vinculación del ex becario (a) a los procesos productivos del país, preferentemente en el estado de Hidalgo, como una forma de retribución al apoyo otorgado.
+### CAPITULO QUINTO. DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
-Los Convenios de asignación de beca contendrán la aceptación expresa del becario (a) de aparecer en lista pública en caso de incumplimiento, con independencia de la aplicación de las sanciones previstas en el capítulo XII del presente Reglamento.
+###### ARTICULO 16.
 
-###### ARTÍCULO 18.
+Es obligación de los Ayuntamientos establecer el Sistema Municipal de Protección Civil.
 
-Las determinaciones adoptadas por El Colegio con motivo de modificaciones de las becas, serán notificadas al becario (a).
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
 
-###### ARTÍCULO 19.
+Al efecto, los presidentes municipales deberán ejecutar las determinaciones del Ayuntamiento en materia de Protección Civil e integrar, coordinar y supervisar el Sistema Municipal para la prevención, auxilio, recuperación y apoyo de la población en situaciones de desastre, para lo cual deberán coordinarse con las autoridades de los gobiernos Estatal y Federal y, concertar con las instituciones y organismos de los sectores privado y social las acciones conducentes para el logro del mismo objetivo.
 
-El término por el que se otorgan las becas podrá ser prorrogado un máximo de seis meses, por causas de fuerza mayor, debidamente documentadas, siempre que el becario (a) cuente con la autorización de El Colegio, y éste haya evaluado y resuelto sobre la procedencia de dicha causal fijando, para tal efecto, el tiempo de duración de la prórroga. Si el becario (a) incumple con el término de prórroga fijado, se colocará en el supuesto de suspensión unilateral de estudios, previsto en el artículo 20 del presente Reglamento, procediéndose, en su caso, a la cancelación de la beca.
+###### ARTICULO 17.
 
-###### ARTÍCULO 20.
+El Sistema Municipal es parte integrante del Sistema Estatal, y tiene como fin prevenir y proteger a las personas, su patrimonio y entorno, ante la posibilidad de un desastre producido por causas de origen natural o humano.
 
-La autorización que otorgue El Colegio sobre cualquier modificación de una beca, implicará la consecuente ampliación de la vigencia efectiva máxima establecida en el artículo 12 del presente Reglamento.
+###### ARTICULO 18.
 
-### CAPÍTULO VI. De los derechos y obligaciones de los beneficiarios
+El Sistema Municipal será el primer nivel de respuesta ante cualquier fenómeno destructor, que afecte a la población y, será el Presidente Municipal el responsable de coordinar la intervención del Sistema para el auxilio que se requiera.
 
-###### ARTÍCULO 21.
+###### ARTICULO 19.
 
-Las becas se cancelarán cuando la Dirección Académica lo solicite de manera justificada, el becario (a) suspenda unilateralmente sus estudios, realice un cambio de institución o de programa de estudios sin la aprobación de El Colegio, omita información relevante o proporcione documentación falsa, y en los demás casos establecidos en el presente Reglamento, y otras disposiciones legales o administrativas aplicables.
+El Sistema Municipal estará integrado por:
 
-###### ARTÍCULO 22.
+I.- El Consejo Municipal;
 
-Una beca se considera terminada cuando se ha cumplido con el objeto de la misma, lo que otorga al becario (a) la calidad de ex becario (a) de El Colegio, para cuyos efectos y constancia se expedirá la carta de liberación correspondiente.
+II.- Los Organos Municipales;
 
-###### ARTÍCULO 23.
+III.- Los representantes de los sectores público, social y privado, grupos voluntarios, instituciones educativas y, expertos en diferentes áreas, y
 
-En los casos señalados en los artículos 19 y 20 del presente Reglamento, El Colegio notificará su determinación al becario (a), en un plazo que no excederá de quince días hábiles, contados a partir de que tuvo conocimiento de la causal de suspensión de estudios o de cancelación de la beca.
+IV.- El Centro Municipal de Operaciones.
 
-###### ARTÍCULO 24.
+###### ARTICULO 20.
 
-Una vez obtenido el grado, el ex becario (a) tiene la obligación de vincularse con El Colegio, bien sea en lo personal o por medio electrónico, en un plazo no mayor a los tres meses de concluidos sus estudios, a fin de rendir un informe sobre el resultado de los mismos.
+El Sistema Municipal contará para su adecuado funcionamiento con los siguientes documentos:
 
-El Colegio procederá a evaluar el perfil del conocimiento adquirido por el ex becario (a).
+I.- Los programas Estatal, Municipal, Internos y Especiales de Protección Civil;
 
-### CAPÍTULO VII. De la formalización de las becas
+II.- Atlas Nacional, Estatal y Municipal de Riesgos, y
 
-###### ARTÍCULO 25.
+III.- Inventarios y directorios de recursos humanos y materiales.
 
-Cuando el becario no cumpla con el objeto de la beca otorgada, por causas claramente imputables a su incumplimiento, perderá el derecho a ser aspirante a cualquier tipo de apoyo que brinde El Colegio.
+### CAPITULO SEXTO. DEL CONSEJO MUNICIPAL DE PROTECCION CIVIL
+
+###### ARTICULO 21.
+
+El Consejo Municipal es un órgano consultivo de coordinación de acciones y de participación social para la planeación de la protección en el territorio municipal, y será el conducto formal para convocar a los sectores de la sociedad en la integración del Sistema Municipal.
+
+###### ARTICULO 22.
+
+El Consejo Municipal estará integrado por:
+
+I.- El Presidente Municipal, quien lo presidirá;
+
+II.- El Secretario del Ayuntamiento, quien será el Secretario Ejecutivo;
+
+III.- El titular del Organo Municipal, quien será el Secretario Técnico;
+
+IV.- Los titulares y representantes de las dependencias y entidades de la Administración Pública Municipal cuya área de competencia corresponda a los objetivos del Sistema Municipal, con carácter de vocales, y
+
+V.- Los representantes de las organizaciones social y privada e instituciones académicas radicadas en el Municipio y los grupos voluntarios, previa convocatoria del Presidente del Consejo Municipal, con carácter de vocales.
+
+###### ARTICULO 23.
+
+Son atribuciones del Consejo Municipal:
+
+I.- Fungir como órgano consultivo de planeación, de coordinación y concertación del Sistema Municipal a fin de orientar las políticas, acciones y objetivos del Sistema;
+
+II.- Aprobar el programa municipal de Protección Civil y los programas especiales que de él se deriven, y evaluar su cumplimiento por lo menos anualmente;
+
+III.- Supervisar, dar seguimiento y evaluar el funcionamiento de las acciones que en materia de Protección Civil realice el Organo Municipal correspondiente;
+
+IV.- Promover y fomentar entre las instituciones académicas y científicas el estudio e investigación en materia de Protección Civil;
+
+V.- Evaluar las situaciones de riesgo, en base al análisis que presente el Organo Municipal correspondiente y preparar las acciones a tomar en caso de emergencia;
+
+VI.- Sesionar permanentemente cuando ocurra un desastre y apoyar la instalación del Centro Municipal de Operaciones;
+
+VII.- Requerir la ayuda a la Dirección, en caso de que sea superada la capacidad de respuesta del Organo Municipal respectivo;
+
+VIII.- Fomentar la participación activa de todos los sectores de la población, en la integración y ejecución de los programas preventivos;
+
+IX.- Proponer normas y estrategias encaminadas al cumplimiento de los programas municipales, especiales e internos de Protección Civil;
+
+X.- Establecer y promover la capacitación y actualización permanente de los grupos e individuos que participen en el Sistema Municipal;
+
+XI.- Practicar auditorías operacionales para determinar la aplicación adecuada de los recursos que se asignen al Sistema Municipal, tanto en situación normal, como en estados de emergencia;
+
+XII.- Establecer una adecuada coordinación del Sistema Municipal, con los sistemas de los municipios colindantes, así como con los sistemas estatales y nacional;
+
+XIII.- Constituir los comités de auxilio y recuperación, y
+
+XIV.- Las demás que señalen las leyes y reglamentos.
+
+###### ARTICULO 24.
+
+El Consejo Municipal se reunirá en sesiones ordinarias y extraordinarias, en comités o en Pleno, a convocatoria del Presidente, en los plazos y formas que establezca el reglamento. Cuando se ausente el Presidente, serán dirigidas por el Secretario Ejecutivo.
+
+### CAPITULO SEPTIMO. DE LOS ORGANOS MUNICIPALES ENCARGADOS DE LA MATERIA DE PROTECCION CIVIL
+
+###### ARTICULO 25.
+
+El Organo Municipal encargado de la materia de Protección Civil de cada Municipio, será responsable de elaborar, instrumentar, dirigir y operar la ejecución de los programas en la materia, coordinando sus acciones con las dependencias, instituciones y organismos de los sectores público, social, privado y académico, grupos voluntarios y con la población en general.
+
+###### ARTICULO 26.
+
+Los Organos Municipales, se integrarán con las unidades administrativas que establezca el reglamento municipal respectivo.
+
+###### ARTICULO 27.
+
+Las atribuciones de los Organos Municipales serán las siguientes:
+
+I.- Identificar y diagnosticar los riesgos a los que está expuesto el territorio del Municipio de que se trate, y elaborar el Atlas Municipal de Riesgos;
+
+II.- Elaborar, instrumentar, operar y coordinar el Programa Municipal de Protección Civil y los subprogramas de prevención auxilio y recuperación;
+
+III.- Elaborar y operar programas especiales de Protección Civil y el Plan Municipal de Contingencias;
+
+IV.- Instrumentar un sistema de seguimiento y autoevaluación del Programa Municipal de Protección Civil e informar al Consejo Municipal sobre su funcionamiento y avances;
+
+V.- Establecer y mantener la coordinación con dependencias, instituciones y organismos del sector público, social y privado involucrados en tareas de Protección Civil, así como con los de otros municipios colindantes del Estado;
+
+VI.- Promover la participación social e integración de grupos voluntarios al Sistema Municipal;
+
+VII.- Promover el establecimiento de las unidades internas y programas de Protección Civil, especiales y de alertamiento respectivos en las dependencias federales, estatales y municipales, establecidas en el área;
+
+VIII.- Establecer el Sistema de Información que comprenda los directorios de personas e instituciones, los inventarios de recursos humanos y materiales disponibles en caso de emergencia; así como mapas de riesgos y archivos históricos sobre desastres ocurridos en el Municipio;
+
+IX.- Establecer el sistema de comunicación con organismos especializados que realicen acciones de monitoreo, para vigilar permanentemente la posible ocurrencia de fenómenos destructores;
+
+X.- Formular, en caso de emergencia, el análisis y evaluación primaria de la magnitud de la misma, y presentar de inmediato esta información al Consejo Municipal sobre su evolución, tomando en cuenta la clasificación de los niveles de la emergencia de prealerta, alerta y alarma;
+
+XI.- Participar en el Centro Municipal de Operaciones;
+
+XII.- Establecer los mecanismos de comunicación tanto en situación normal, como en caso de emergencia, con la Dirección y con el Centro de Comunicaciones de la Dirección General de Protección Civil de la Secretaría de Gobernación;
+
+XIII.- Promover la realización de cursos, ejercicios y simulacros que permitan mejorar la capacidad de respuesta de los participantes en el Sistema Municipal;
+
+XIV.- Fomentar la cultura de Protección Civil, a través de la realización de eventos, campañas de difusión y capacitación;
+
+XV.- Expedir los certificados de autorización a que se refiere el Artículo 50 de esta Ley;
+
+XVI.- Elaborar y presentar para su aprobación al Ayuntamiento, el Plan Municipal de Contingencias, y
+
+XVII.- Las demás que establezcan las leyes, reglamentos y el Consejo Municipal.
+
+###### ARTICULO 28.
+
+Los Organos Municipales operarán coordinadamente con la Dirección y en su caso, con la Dirección General de Protección Civil de la Secretaría de Gobernación.
+
+### CAPITULO OCTAVO. DEL CENTRO MUNICIPAL DE OPERACIONES
+
+###### ARTICULO 29.
+
+Corresponde al Presidente Municipal, coordinar y dirigir técnica y operativamente la atención de emergencias, para lo cual contará con el apoyo del Centro Municipal de Operaciones.
+
+###### ARTICULO 30.
+
+El Centro Municipal de Operaciones se instalará en el domicilio del Organo Municipal que corresponda, donde se llevarán a cabo acciones de dirección y coordinación.
+
+###### ARTICULO 31.
+
+El Centro Municipal de Operaciones se integra por:
+
+I.- Un Coordinador, que será el Presidente Municipal o la persona que éste designe, y
+
+II.- Los titulares o representantes de las demás dependencias públicas estatales y municipales cuyas actividades estén relacionadas con Protección Civil, y los representantes de los grupos voluntarios y organismos especializados en atención de emergencias.
+
+###### ARTICULO 32.
+
+Compete al Centro Municipal de Operaciones:
+
+I.- Realizar la planeación táctica y logística en cuanto a los recursos necesarios disponibles y las acciones a seguir;
+
+II.- Aplicar el plan de emergencia o los programas establecidos por el Consejo Municipal y establecer la coordinación de las acciones que realicen los participantes en el mismo;
+
+III.- Concertar con los poseedores de redes de comunicación existentes en el municipio, su eficaz participación en las acciones de Protección Civil, y
+
+IV.- Coordinarse con el Consejo Municipal, en las acciones, personas y recursos disponibles para la atención del desastre, con base en la identificación de riesgos, preparación de la comunidad y capacidad de respuesta municipal, considerando que en caso de que su capacidad de respuesta sea rebasada, se solicitará la intervención estatal.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+###### ARTICULO 33.
+
+El Gobierno Municipal, a través del Secretario del Ayuntamiento, activará el Centro Municipal de Operaciones con base en la gravedad del impacto producido por una calamidad.
+
+### CAPITULO NOVENO. DE LA PLANEACION
+
+###### ARTICULO 34.
+
+La Planeación de la Protección Civil deberá llevase a cabo, como medio para el eficiente cumplimiento de la responsabilidad de la Administración Pública Estatal y Municipal en la materia.
+
+###### ARTICULO 35.
+
+La Planeación de la Protección Civil se fundamenta en los siguientes programas:
+
+I.- Plan Nacional de Desarrollo;
+
+II.- El Programa Nacional de Protección Civil;
+
+III.- Los planes estatales y municipales de desarrollo y de desarrollo urbano;
+
+IV.- El programa de Protección Civil del Estado;
+
+V.- Los programas municipales de Protección Civil;
+
+VI.- Los programas especiales de Protección Civil, y
+
+VII.- Los programas internos de Protección Civil.
+
+El cumplimiento de estos programas será obligatorio para la Administración Pública Estatal y Municipal, y para los habitantes del Estado.
+
+### CAPITULO DECIMO. DE LOS PROGRAMAS DE PROTECCION CIVIL
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+###### ARTICULO 36.
+
+Los Programas Estatal y Municipales de Protección Civil, deberán ser congruentes con el Programa Nacional de Protección Civil, y formarán parte del Plan de Desarrollo del Estado y de los municipios.
+
+###### ARTICULO 37.
+
+En los Programas Estatal y Municipales de Protección Civil se tomarán en cuenta los siguientes aspectos:
+
+I.- Los factores particulares por tipo de riesgo;
+
+II.- La naturaleza y dinámica del desarrollo urbano y económico;
+
+III.- Los recursos materiales y financieros del Estado y municipios;
+
+IV.- La cultura de Protección Civil, y
+
+V.- Los antecedentes históricos de desastres en el Estado.
+
+CAPITULO DECIMOPRIMERO
+
+DEL PROGRAMA MUNICIPAL DE PROTECCION CIVIL
+
+###### ARTICULO 38.
+
+El Programa Municipal de Protección Civil y sus Subprogramas de Prevención, Auxilio y Recuperación se elaborarán conforme a los lineamientos señalados por los Sistemas Nacional y Estatal de Protección Civil, y definirán los objetivos, estrategias, líneas de acción, recursos necesarios y las responsabilidades de los participantes en el Sistema Municipal para el cumplimiento de las metas que en ellos se establezcan.
+
+###### ARTICULO 39.
+
+El Programa Municipal de Protección Civil se integrará con los siguientes subprogramas:
+
+I.- Escolar de pre-primaria a profesional;
+
+II.- Gubernamental en los tres órdenes de gobierno;
+
+III.- Industria, comercio y servicios;
+
+IV.- De barrio o colonia;
+
+V.- Internos de Protección Civil, y
+
+VI.- De prevención, auxilio y recuperación con sus respectivas metas, estrategias y líneas de acción.
+
+###### ARTICULO 40.
+
+El subprograma de prevención, es el conjunto de funciones destinadas a evitar o mitigar el impacto destructivo de las calamidades.
+
+###### ARTICULO 41.
+
+El subprograma de auxilio, es el conjunto de funciones destinadas a salvaguardar a la población que se encuentra en peligro.
+
+###### ARTICULO 42.
+
+El subprograma de recuperación, es el conjunto de acciones tendientes a restablecer la situación de desastre a la normalidad.
+
+###### ARTICULO 43.
+
+El Programa Municipal de Protección Civil, deberá contener:
+
+I.- Los antecedentes históricos de los desastres en el municipio;
+
+II.- La identificación de los riesgos a que está expuesto el municipio;
+
+III.- La definición de los objetivos del programa;
+
+IV.- La estimación de los recursos financieros, y
+
+V.- Los mecanismos para su control y evaluación.
+
+###### ARTICULO 44.
+
+En el caso de que se identifiquen riesgos específicos que puedan afectar de manera grave a la población de una determinada superficie de su territorio, se elaborarán programas especiales de Protección Civil.
+
+###### ARTICULO 45.
+
+La unidades internas de Protección Civil de las dependencias de los sectores público y privado ubicadas en el municipio, deberán elaborar los programas internos correspondientes.
+
+CAPITULO DECIMOSEGUNDO
+
+DE LOS GRUPOS VOLUNTARIOS
+
+###### ARTICULO 46.
+
+Para que los Grupos Voluntarios funcionen legalmente en el Estado, deberán constituirse de conformidad a lo dispuesto en esta Ley.
+
+###### ARTICULO 47.
+
+Los grupos voluntarios de Protección Civil se formarán con personal debidamente organizado y preparado para participar de manera eficiente en la prevención, auxilio y apoyo a la población en caso de desastre.
+
+###### ARTICULO 48.
+
+El Consejo Estatal y los Consejos Municipales, promoverán la participación de los grupos voluntarios debidamente organizados, para que manifiesten sus propuestas y participen en la elaboración de planes, programas y políticas en la materia.
+
+###### ARTICULO 49.
+
+La organización de los grupos voluntarios podrá integrarse por municipios y podrán celebrar convenios de concertación a fin de prevenir y controlar situaciones de emergencia.
+
+###### ARTICULO 50.
+
+Los grupos voluntarios de servicios prehospitalarios, rescatistas, radiocomunicación y demás organismos sociales afines, deberán registrarse ante el Organo Municipal del Municipio que corresponda, y obtener un certificado de autorización para su funcionamiento, debiendo cubrir al efecto, los requisitos establecidos en el Reglamento de la presente Ley.
+
+###### ARTICULO 51.
+
+El representante de cada grupo voluntario deberá integrarse al Centro Municipal de Operaciones, cuando se ordene la activación de éste.
+
+###### ARTICULO 52.
+
+Corresponde a los Grupos Voluntarios constituidos conforme a esta Ley y su Reglamento:
+
+I.- Coordinarse con el Organo Municipal de cada Ayuntamiento, para las tareas de prevención, auxilio y recuperación en casos de desastre;
+
+II.- Cooperar en la preparación y difusión de planes y programas de Protección Civil;
+
+III.- Comunicar al Organo Municipal correspondiente, en su caso, la presencia de cualquier situación de probable o inminente riesgo, con el objeto de que se verifique la información y en su caso, se tomen las medidas que correspondan;
+
+IV.- Participar en los programas de capacitación a la población, para que pueda autoprotegerse en caso de desastre, y
+
+V.- Participar en otras actividades que les sean requeridas y que estén en capacidad de desarrollar.
+
+###### ARTICULO 53.
+
+Los servicios prestados por cualquier Grupo Voluntario, serán gratuitos.
+
+CAPITULO DECIMOTERCERO
+
+DE LA PARTICIPACION PRIVADA Y SOCIAL
+
+###### ARTICULO 54.
+
+El Ejecutivo del Estado y los ayuntamientos, promoverán la participación corresponsable de la sociedad en la formulación, ejecución y evaluación de los programas y acciones de Protección Civil que emprenda.
+
+###### ARTICULO 55.
+
+Los habitantes del Estado, podrán coadyuvar con las autoridades en las acciones de Protección Civil previstas en los programas y acciones a que se refiere esta Ley, mediante su organización libre y voluntaria.
+
+###### ARTICULO 56.
+
+Toda persona tiene el derecho y la obligación de denunciar ante la autoridad estatal o municipal, cualquier hecho, acto u omisión que cause o pueda causar situaciones de peligro o emergencia para la población, por la eminencia o eventualidad de algún desastre o calamidad pública, o perjuicio en su persona o la de terceros, sus bienes o entorno.
+
+La denuncia para estos efectos constituye el instrumento jurídico que tiene la población del Estado para evitar que se contravengan las disposiciones de esta Ley y su Reglamento.
+
+###### ARTICULO 57.
+
+Para la procedencia de la denuncia, es indispensable el señalamiento de los datos necesarios que permitan localizar el lugar de los hechos motivo de la denuncia, así como el nombre y domicilio del denunciante, para que se efectúen con oportunidad por parte de las autoridades, las diligencias necesarias para la comprobación de los hechos o actos motivo de la denuncia y estar en posibilidades de llevar a cabo la evaluación correspondiente y actuar en consecuencia.
+
+###### ARTICULO 58.
+
+Si la denuncia se presentó ante la Dirección, dentro de los siguientes cinco días hábiles la turnará al Organo Municipal que corresponda, en función del domicilio señalado, para que en el término de los siguientes quince días hábiles se practique la verificación, el resultado de la misma y, en su caso, las medidas impuestas.
+
+Lo anterior se hará sin perjuicio de que la autoridad tome las medidas urgentes necesarias para evitar que se ponga en riesgo la seguridad de la población, sus bienes y entorno.
+
+###### ARTICULO 59.
+
+Cuando los hechos que motiven una denuncia, hubieran ocasionado daños y perjuicios, los interesados podrán solicitar a las autoridades estatales y municipales la formulación de un dictamen técnico al respecto, el cual tendrá valor de prueba en caso de ser presentado en juicio.
+
+###### ARTICULO 60.
+
+Las autoridades competentes en términos de esta Ley, atenderán de manera permanente al público en general en el ejercicio de la denuncia popular. Para ello difundirán ampliamente el domicilio y números telefónicos destinados a recibir las denuncias.
+
+###### ARTICULO 61.
+
+Dentro de las acciones que promuevan las autoridades en términos de esta Ley, para la participación social en materia de Protección Civil, se observará lo siguiente:
+
+I.- Convocarán a representantes de las organizaciones civiles, obreras, empresariales, de instituciones educativas públicas y privadas, para que manifiesten su opinión y propuesta;
+
+II.- Otorgarán reconocimientos a los esfuerzos más destacados de la sociedad para promover la prevención, mitigación y auxilio en caso de desastre, y
+
+III.- Impulsarán el desarrollo de la conciencia en materia de Protección Civil, a través de la realización de acciones conjuntas con la comunidad para la prevención, mitigación y auxilio en caso de desastre.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+Las organizaciones civiles son las asociaciones de personas que coadyuvarán en las tareas de prevención, auxilio y restablecimiento, corresponsablemente con la autoridad.
+
+CAPITULO DECIMOCUARTO
+
+DE LA PREVENCION
+
+###### ARTICULO 62.
+
+Los propietarios o poseedores de inmuebles que por su propia naturaleza o por el uso a que están destinados, reciban una afluencia masiva de personas, tienen obligación de contar permanentemente con un programa interno de Protección Civil, el cual deberá ser autorizado y supervisado por el Organo Municipal del Ayuntamiento en que se encuentre su domicilio de funcionamiento.
+
+###### ARTICULO 63.
+
+Los propietarios o poseedores, de establecimientos en los que haya afluencia de público y los organizadores o responsables de eventos, deberán contar con opinión favorable de las medidas de seguridad de sus instalaciones de parte del Organo Municipal del Ayuntamiento en el que se encuentre su domicilio de funcionamiento.
+
+###### ARTICULO 64.
+
+En los lugares a que se refieren los artículos anteriores, deberán colocarse en sitios visibles equipos de seguridad, señales informativas, preventivas, restrictivas y de obligación, conforme a la Norma Oficial Mexicana número NOM-S-PC-1-1992, señales y avisos para Protección Civil, luces de emergencia, instructivos y manuales para situaciones de emergencia, los cuales consignarán las reglas y orientaciones que deberán observarse en caso de una contingencia y señalarán las zonas de seguridad. Asimismo, se deberán realizar, anualmente, cuando menos dos simulacros de evacuación.
+
+###### ARTICULO 65.
+
+Además de cumplir con las disposiciones contenidas en los artículos anteriores, las empresas clasificadas por las autoridades normativas estatales y federales como de riesgo y alto riesgo, deberán contar con lo siguiente:
+
+I.- Póliza de seguros de cobertura amplia de responsabilidad civil y daños a terceros que ampare la eventualidad de un siniestro, y
+
+II.- Fuente de energía alterna.
+
+###### ARTICULO 66.
+
+En caso de que las empresas señaladas en el Artículo anterior usen materiales o residuos peligrosos, deberán informar anualmente al Organo Municipal de su localidad, lo siguiente:
+
+I.- Nombre comercial del producto;
+
+II.- Fórmula o nombre químico y estado físico;
+
+III.- Número de naciones unidas;
+
+IV.- Tipo de contenedor;
+
+V.- Cantidad usada en el período que abarque la declaración;
+
+VI.- Inventario a la fecha de declaración, y
+
+VII.- De los cursos de capacitación al personal sobre el manejo de materiales peligrosos, debiendo proporcionar además, una relación del equipo de seguridad con que cuentan para el ataque de fugas, derrames, incendio y explosión que pudiera presentarse.
+
+###### ARTICULO 67.
+
+Las empresas a que se refiere el artículo anterior deberán contar con lo siguiente:
+
+I.- Vehículos que exclusivamente transporten materiales peligrosos y sean acondicionados para ese fin, colocándoles señalamientos preventivos en ambos costados y la parte posterior en los términos que establezca el Reglamento de la presente Ley. En caso de solicitar el servicio a terceros, los vehículos contratados deberán contar con las autorizaciones correspondientes para esos efectos;
+
+II.- Espacio exclusivo destinado a almacén de materiales peligrosos, y
+
+III.- Planes de contingencias, presentándolo al Organo Municipal que corresponda para su evaluación y autorización.
+
+###### ARTICULO 68.
+
+Se prohibe el transporte de cualquier tipo de contenedor de material peligroso en vehículos de transporte público de pasajeros con autorización federal, estatal o municipal, en el territorio de los ayuntamientos del Estado.
+
+Las Direcciones de Seguridad Pública y Tránsito serán responsables de vigilar el cumplimiento de esta disposición.
+
+###### ARTICULO 69.
+
+Los vehículos de transporte público y privado que usen gas natural o Licuado de Petróleo como carburante, deberán contar con dictamen de sus unidades, expedido por una Unidad Verificadora del Ayuntamiento que corresponda con especialidad en carburación.
+
+El dictamen a que se hace mención deberá revalidarse cada año.
+
+Las Direcciones de Seguridad Pública y Tránsito vigilarán el estricto cumplimiento de esta disposición.
+
+###### ARTICULO 70.
+
+Toda actividad mercantil que use gas natural o Licuado de Petróleo como carburante, deberá contar con un dictamen de sus instalaciones practicado por una Unidad Verificadora del Ayuntamiento que corresponda, en la especialidad respectiva.
+
+###### ARTICULO 71.
+
+La Dirección coordinará sus actividades con las dependencias de los tres órdenes de Gobierno cuyas actividades tengan relación con Protección Civil, a fin de proteger a las personas, sus bienes y entorno de los riesgos que pudieran presentarse ante una contingencia grave, provocada por causas naturales o producidas por el hombre.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+###### ARTICULO 72.
+
+El Organo Municipal deberá formar parte de comisiones, grupos de trabajo y mesas de estudio en el Ayuntamiento que corresponda, para presentar sus opiniones sobre:
+
+I.- Asentamiento humanos irregulares, en zonas de riesgo geológico, hidrometerológico, químico, sanitario o socio-organizativos a que están expuestos sus ocupantes de presentarse una contingencia grave, para prever su desalojo atendiendo a la población afectada en refugios temporales cerrados o abiertos a cargo de la autoridad competente.
+
+Para estos efectos, los ayuntamientos del Estado en coordinación con otros niveles de Gobierno y atendiendo su capacidad financiera, desarrollarán centros de población en suelo más seguro;
+
+II.- Desarrollos habitacionales al amparo de la reglamentación estatal y municipal;
+
+III.- El uso de suelo en condiciones de riesgo geológico, hidrometeorológico, y químico, éste último por lo que se refiere al suelo contaminado por residuos peligrosos, atendiendo el dictamen de la autoridad federal y estatal normativa, y
+
+IV.- La obligación de señalar en los reglamentos municipales sobre edificaciones, el grado de seguridad ante sismos, acatando el resultado del estudio histórico de la zona.
+
+###### ARTICULO 73.
+
+Las autoridades estatales y municipales a cargo de los planes de desarrollo urbano, tomarán en cuenta la opinión de los Organos Municipales al realizar planes parciales en terrenos donde se localice una falla geológica.
+
+###### ARTICULO 74.
+
+Los Organos Municipales, informarán a las autoridades competentes del Ayuntamiento, de construcciones semi-destruidas que representen un riesgo de colapso.
+
+CAPITULO DECIMOQUINTO
+
+MEDIDAS DE SEGURIDAD
+
+###### ARTICULO 75.
+
+Cuando una situación de riesgo inminente implique la posibilidad de una emergencia, siniestro o desastre, la Dirección y el Organo Municipal de los Ayuntamientos, podrán adoptar las siguientes medidas de seguridad, con el fin de salvaguardar a las personas, sus bienes y entorno:
+
+I.- El aislamiento temporal, parcial o total del área afectada;
+
+II.- La suspensión de trabajos, actividades y servicios;
+
+III.- La evacuación de inmuebles, y
+
+IV.- Las demás que sean necesarias para la prevención, mitigación, auxilio, restablecimiento, rehabilitación y reconstrucción.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+Asimismo, podrán promover la ejecución ante la autoridad competente y en los términos de las leyes respectivas, de las medidas de seguridad que en dichos ordenamientos se establezcan.
+
+Las medidas que se tomen tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
+
+###### ARTICULO 76.
+
+Para determinarse las medidas necesarias a tomar ante la presencia de una emergencia o desastre, el personal de la Dirección y del Organo Municipal que corresponda, realizarán las inspecciones necesarias. Al efecto, tanto las autoridades como los particulares deberán permitir el libre acceso a las instalaciones o lugar motivo de la emergencia o desastre. En caso de oposición, se podrá requerir el auxilio de la fuerza pública.
+
+CAPITULO DECIMOSEXTO
+
+DE LA RESPONSABILIDAD
+
+###### ARTICULO 77.
+
+Los servidores públicos estatales y municipales, por sus actos u omisiones que contravengan las disposiciones de esta Ley, estarán sujetos a las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+CAPITULO DECIMOSEPTIMO
+
+DEL REGISTRO DE LAS ORGANIZACIONES CIVILES Y EMPRESAS CAPACITADORAS E INSTRUCTORES INDEPENDIENTES EN MATERIA DE PROTECCION CIVIL
+
+###### ARTICULO 78.
+
+Las organizaciones civiles y empresas capacitadoras e instructores independientes, así como las empresas de consultoría y estudio de riesgo-vulnerabilidad, que por sus características se vinculen en materia de protección civil, deberán obtener su registro ante la Dirección, mediante la presentación de una solicitud en la que se declare la capacidad que poseen en materia de Protección Civil y en su caso, los medios técnicos mediante los cuales llevaron a cabo los cursos de capacitación y los estudios de riesgo-vulnerabilidad, acompañándose de los documentos que acrediten tales supuestos, así como los que acrediten su personalidad jurídica.
+
+###### ARTICULO 79.
+
+El registro será obligatorio y permitirá a las empresas capacitadoras e instructores independientes, así como las empresas de consultoría y estudio de riesgo-vulnerabilidad que cuenten con él, emitir la carta de corresponsabilidad que se requiera para la aprobación de los programas internos o especiales de Protección Civil, que dichas empresas elaboren.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+###### ARTICULO 80.
+
+De los registros que extienda la Dirección, deberá remitir copia al Organo Municipal del Municipio en que se ubique el domicilio de funcionamiento del solicitante.
+
+Asimismo, de requerirlo, solicitará informes de la actividad y capacidad del solicitante y atenderá la constancia que sobre el particular se expida.
+
+CAPITULO DECIMOCTAVO
+
+DE LA INSPECCION, CONTROL Y VIGILANCIA
+
+###### ARTICULO 81.
+
+Los Organos Municipales, en el ámbito de sus competencias, inspeccionarán, controlarán y vigilarán la debida observancia y cumplimiento de las disposiciones de esta Ley y su reglamento, realizando por conducto del personal debidamente autorizado, visitas de inspección para verificar que se cumplan adecuadamente las condiciones necesarias en materia de Protección Civil.
+
+###### ARTICULO 82.
+
+Las autoridades federales, estatales y municipales auxiliarán a los inspectores para el eficaz desempeño de sus funciones, cuando éstos lo soliciten.
+
+###### ARTICULO 83.
+
+Los inspectores en el ejercicio de sus funciones tendrán libre acceso a las dependencias del Gobierno Federal, Estatal y Municipal, organismos descentralizados, órganos desconcentrados y paraestatales, así como a las industrias, comercios y servicios, para comprobar si se cuenta con los programas y sistemas de protección, prevención, auxilio y apoyo frente a la eventualidad de desastres provocados por los diferentes tipos de agentes, para lo cual deberán proporcionarles la información necesaria para el cumplimiento de las mismas.
+
+###### ARTICULO 84.
+
+Para el ejercicio de las funciones de los inspectores a que se refiere el Artículo 81 de esta Ley, se dictará orden escrita por el Titular del Organo Municipal correspondiente, debidamente fundada y motivada en la cual se expresará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+
+###### ARTICULO 85.
+
+El personal autorizado, al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva, de la cual se entregará una copia al interesado y le requerirá para que designe a dos testigos.
+
+En caso de negativa o de que los designados no acepten fungir como testigos, el inspector podrá nombrarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante.
+
+###### ARTICULO 86.
+
+En toda visita de inspección se levantará acta circunstanciada, en la que se asentarán las violaciones a la Ley, así como los hechos u omisiones que se hubieren presentado durante la diligencia, dando oportunidad a la persona con quien se entendió para que manifieste lo que a su derecho convenga.
+
+El documento respectivo deberá ser firmado por quienes intervinieron y estuvieron presentes en la inspección; si alguno se negara a tal circunstancia, se hará constar por el inspector, sin que ello afecte la validez del acto.
+
+El personal autorizado entregará al interesado copia del acta levantada, emplazándole para que dentro de los tres días siguientes comparezca ante la autoridad ordenadora y, en su caso, ofrezca las pruebas que estime convenientes en relación con los hechos u omisiones que se deriven de la inspección.
+
+###### ARTICULO 87.
+
+En el caso de obstaculización u oposición a la práctica de la diligencia, los Organos Municipales podrán solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, sin perjuicio de aplicar las sanciones a que haya lugar.
+
+###### ARTICULO 88.
+
+Si del acta de inspección se desprende la necesidad de llevar a cabo medidas correctivas de urgente aplicación, los Organos Municipales requerirán a quien resulte obligado para que las ejecute, fijándole un plazo para tal efecto. Si éste no las realiza, lo hará la autoridad a costa del obligado, sin perjuicio de la responsabilidad penal en que incurra.
+
+###### ARTICULO 89.
+
+Si en la resolución emitida, los Organos Municipales hubieran ordenado la ejecución de medidas tendientes a corregir las deficiencias o irregularidades que se desprendan de la infracción, y si las circunstancias lo permiten, se concederá al obligado un plazo prudente para ello. El responsable deberá informar por escrito a la autoridad competente sobre el cumplimiento de la resolución, dentro de los cinco días siguientes al plazo que se le hubiere fijado.
+
+###### ARTICULO 90.
+
+En caso de segunda o posterior inspección practicada con el objeto de verificar el cumplimiento de un requerimiento anterior o de una resolución, si del acta correspondiente se desprende que no se han ejecutado las medidas ordenadas, el Organo Municipal correspondiente impondrá la sanción que corresponda, de conformidad con el capítulo de sanciones de esta Ley.
+
+###### ARTICULO 91.
+
+Si lo estima procedente la autoridad que conozca del procedimiento hará del conocimiento del Ministerio Público los hechos u omisiones que pudieran constituir delito.
+
+CAPITULO DECIMONOVENO
+
+DE LAS SANCIONES
+
+###### ARTICULO 92.
+
+Los Organos Municipales, en el ámbito de sus respectivas competencias, impondrán las sanciones a que se refiere el presente Capítulo, las que se liquidarán por el infractor en las oficinas de la Tesorería Municipal que corresponda, en un plazo no mayor de quince días, contados a partir de la fecha en que se haya hecho la notificación respectiva.
+
+La Dirección podrá imponer sanciones ante la resistencia de autoridades o particulares, a permitir la práctica de las inspecciones previstas en el Artículo 76 de esta Ley, así como por el incumplimiento a las medidas de seguridad que decrete.
+
+###### ARTICULO 93.
+
+Las sanciones que podrán aplicarse por incumplimiento de esta Ley, consistirán en:
+
+I.- Amonestación;
+
+II.- Clausura temporal o definitiva, total o parcial de los establecimientos;
+
+III.- Multa equivalente de veinte a mil días de salario mínimo vigente en la zona donde se cometió la infracción;
+
+IV.- Suspensión de obras, instalaciones o servicios, y
+
+V.- Arresto administrativo hasta por 36 horas.
+
+En caso de reincidencia, el monto de la multa podrá ser incrementado sin exceder de dos mil días de salario mínimo.
+
+###### ARTICULO 94.
+
+La imposición de sanciones se hará sin perjuicio de la responsabilidad que conforme a otras Leyes corresponda al infractor.
+
+###### ARTICULO 95.
+
+Al imponerse una sanción se tomará en cuenta:
+
+I.- El daño o peligro que se ocasione o pueda ocasionarse a la salud o a la seguridad de la población o a su entorno;
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+II.- La gravedad de la infracción;
+
+III.- Las condiciones socioeconómicas del infractor, y
+
+IV.- La reincidencia.
+
+###### ARTICULO 96.
+
+En los casos en que se defina la clausura temporal o definitiva, total o parcial de una obra, instalación o establecimiento, se podrá solicitar a la autoridad competente la suspensión o cancelación de cualquier permiso o licencia que se hubiere otorgado.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 1998)</small>
+
+###### ARTICULO 97.
+
+Cuando se imponga como sanción la suspensión de una obra, instalación o servicio, se ordenará al infractor que realice los actos o subsane las omisiones que motivaron la misma, fijando un plazo prudente para ello a juicio de la Dirección u Organo Municipal, en la inteligencia de que la suspensión continuará hasta en tanto no se cumpla con lo ordenado.
+
+###### ARTICULO 98.
+
+Tratándose de clausura temporal o definitiva, el personal encargado de ejecutarla, deberá levantar acta circunstanciada observando las formalidades establecidas para las inspecciones.
+
+###### ARTICULO 99.
+
+En el caso de que el Organo Municipal correspondiente, además de la sanción determine la necesidad de demolición, retiro, construcción o modificación de obras e instalaciones, ordenará al infractor su realización. Si éste no cumple en el plazo que para ello se le haya fijado, el Organo Municipal que corresponda lo comunicará a la autoridad municipal correspondiente, para que proceda a su realización con cargo al infractor.
+
+###### ARTICULO 100.
+
+Independientemente de las sanciones administrativas que se impongan al infractor, los Organos Municipales, en su caso, harán del conocimiento del Ministerio Público los hechos que pudieran constituir conductas delictivas.
+
+### CAPITULO VIGESIMO. DEL RECURSO DE REVISION
+
+###### ARTICULO 101.
+
+Contra las sanciones que impongan la Dirección o los Organos Municipales, procede el recurso de revisión.
+
+Será optativo agotar este recurso, o bien, intentar directamente el juicio ante el Tribunal de lo Contencioso Administrativo.
+
+###### ARTICULO 102.
+
+El recurso administrativo de revisión tiene por objeto que el superior jerárquico examine si en el acto o actos recurridos se aplicó correctamente la Ley, si se violaron las formalidades del procedimiento o si se alteraron los hechos que lo motivaron, a fin de confirmarlo, modificarlo o revocarlo, según proceda.
+
+El superior jerárquico de la Dirección es el Ejecutivo del Estado, y en el caso de los Organos Municipales, el Presidente Municipal correspondiente.
+
+###### ARTICULO 103.
+
+El recurso de revisión, se interpondrá por escrito ante la autoridad que emitió el proveído que se impugna, en un plazo perentorio de cinco días hábiles, contados a partir de la fecha de notificación.
+
+###### ARTICULO 104.
+
+El escrito en el que se interponga el recurso de revisión, deberá contener, los siguientes datos:
+
+I.- Nombre y domicilio del recurrente;
+
+II.- Proveído que se impugna;
+
+III.- Autoridad que emitió el acto combatido indicando con precisión en que consiste éste y los agravios que le causa;
+
+IV.- Fecha de notificación o, en su defecto, en que el recurrente tuvo conocimiento del acto que impugna;
+
+V.- Exposición sucinta de los hechos;
+
+VI.- Preceptos legales en los que se funda el recurso, y
+
+VII.- Las pruebas que ofrezca a la sustanciación del recurso.
+
+Además, con el escrito se exhibirán los documentos que justifiquen la personalidad del promovente.
+
+###### ARTICULO 105.
+
+Recibido el escrito a que se refiere el Artículo anterior, la autoridad receptora lo remitirá, en un plazo que no exceda de tres días a su superior jerárquico, acompañando las constancias relativas y un informe detallado al respecto.
+
+###### ARTICULO 106.
+
+Si el escrito por el cual se interponga el recurso, fuere obscuro o irregular, la autoridad receptora prevendrá al recurrente por una sola vez, para que lo aclare, corrija o complete de acuerdo con el Artículo 104 de esta Ley, señalando en concreto sus defectos con el apercibimiento de que, si no cumple dentro de un plazo de cinco días, se tendrá por no interpuesto.
+
+###### ARTICULO 107.
+
+En la substanciación del recurso se admitirá toda clase de pruebas, excepto la testimonial y confesional a cargo de autoridades, las que no tengan relación con los hechos controvertidos y las que fueren contrarias a la moral y al Derecho.
+
+###### ARTICULO 108.
+
+Para el desahogo y valoración de las pruebas ofrecidas, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Baja California.
+
+###### ARTICULO 109.
+
+El superior jerárquico con vista de las constancias existentes, dictará la resolución que corresponda, en un término de treinta días hábiles contados a partir de la recepción del escrito en que se interponga el recurso, o de la fecha en que se haya subsanado la irregularidad u obscuridad del mismo, la cual se notificará personalmente al recurrente.
+
+###### ARTICULO 110.
+
+De la resolución recaída al recurso se remitirá copia autorizada al inferior para que, en caso de que se amerite ejecución, proceda a ella en los términos señalados.
 
 T R A N S I T O R I O S
 
-PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su difusión dentro de El Colegio.
+###### ARTICULO PRIMERO.
 
-SEGUNDO. Se dejan sin efecto todas las disposiciones reglamentarias y administrativas emitidas por El Colegio en materia de becas, que se confronten al presente Reglamento.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
 
-TERCERO. No se aplicará a los estudiantes estén (sic) en proceso de concluir en agosto de 2013 los estudios de Maestría en Gobierno y Desarrollo Regional.
+###### ARTICULO SEGUNDO.
 
-Dado en la Ciudad de Pachuca de Soto, Hidalgo, a los 30 días del mes de julio de dos mil trece.
+Se abroga el Decreto que establece el Sistema Estatal de Protección Civil y su Programa, publicado en el Periódico Oficial del Estado número 15, Tomo CXIII, de fecha 31 de Mayo de 1986.
 
-La Junta de Gobierno
+###### ARTICULO TERCERO.
 
-Consejero Presidente
+Los recursos humanos y materiales de la Unidad Estatal de Protección Civil, se transferirán a la Dirección de Protección Civil.
 
-Prof. Joel Guerrero Juárez
+###### ARTICULO CUARTO.
 
-Secretario de Educación Pública
+Los derechos laborales que pudieran verse afectados por virtud de lo dispuesto en la presente Ley, serán respetados conforme a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California y demás disposiciones legales vigentes.
 
-Presidente
+###### ARTICULO QUINTO.
 
-Consejeros Asistentes
+Los Sistemas Estatal y Municipales de Protección Civil, así como el Consejo Estatal y Municipales de Protección Civil, deberán instalarse a más tardar 90 días después de la publicación de la presente Ley.
 
-Mtro. Alejandro Franco Segura
+###### ARTICULO SEXTO.
 
-Representante de la Secretaría de Desarrollo Económico
+El Reglamento de la presente ley, deberá ser expedido por el Ejecutivo del Estado, a más tardar 90 días después de la publicación de la presente Ley.
 
-L.C. Luz Angélica Pérez Rodríguez
+###### ARTICULO SEPTIMO.
 
-Representante de la Secretaría de Finanzas y Administración
+Los Ayuntamientos deberán crear los órganos administrativos encargados de la materia de Protección Civil en la forma y términos que determine el Reglamento Interior de cada Ayuntamiento y adecuar los Bandos de Policía y Buen Gobierno, reglamentos y demás disposiciones legales aplicables, a más tardar 90 días después de la publicación de la presente Ley.
 
-Ing. Abel Díaz Ruiz
+###### ARTICULO OCTAVO.
 
-Representante de la Secretaría de Planeación, Desarrollo Regional y Metropolitano
+Para dar cumplimiento a lo previsto en los artículos 62, 64, 65, 67, 69, 70 y 78 del presente ordenamiento, se contará con un término no mayor de 90 días, contados a partir de la publicación de la presente Ley.
 
-Dr. Carlos Martínez Assad
+###### ARTICULO NOVENO.
 
-Representante de la Universidad Nacional Autónoma de México
+Las empresas a que se refiere el Artículo 66 de este (sic) Ley, deberán presentar su primer informe anual a más tardar dentro de los 45 días siguientes a la vigencia de esta Ley.
 
-Ing. Jorge Cuan Sánchez
+###### ARTICULO DECIMO.
 
-Representante del Instituto Politécnico Nacional
+La Ley Orgánica de la Administración Pública del Estado, se modificará a más tardar en un término de 90 días, contados a partir de la vigencia de esta Ley, para efectos de lo dispuesto en el Artículo 12 del presente ordenamiento.
 
-Lic. Laura Valverde González
+ARTICULO DECIMOPRIMERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
 
-Representante de El Colegio de México A.C.
+D A D O en el Salón de Sesiones Lic. Benito Juárez García del Honorable Poder Legislativo, en la Ciudad de Mexicali, Baja California, a los dieciocho días del mes de diciembre de mil novecientos noventa y siete.
 
-Mtro. Juan Manuel Menes Llaguno
+LIC. JAVIER JULIAN CASTAÑEDA POMPOSO
 
-Rector de la Universidad Iberomexicana de Hidalgo
+DIPUTADO PRESIDENTE
 
-Dra. Rocío Ruíz de la Barrera
+PROFR. ROGELIO APPEL CHACON
 
-Representante del Organismo
+DIPUTADO SECRETARIO
 
-C.P. Fernando Barragán Pulido
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCION I DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO, MANDO SE IMPRIMA Y PUBLIQUE.
 
-Comisario Público
+MEXICALI, BAJA CALIFORNIA, A LOS QUINCE DIAS DEL MES DE ENERO DE MIL NOVECIENTOS NOVENTA Y OCHO.
 
-### CAPÍTULO VIII. De las modificaciones de las becas
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
-### CAPÍTULO IX. De la prórroga, cancelación y terminación de las becas
+HECTOR TERAN TERAN.
 
-### CAPÍTULO X. De la vinculación de los becarios a El Colegio
+EL SECRETARIO GENERAL DE GOBIERNO.
 
-### CAPÍTULO XI. De las sanciones
+RODOLFO VALDEZ GUTIERREZ.
