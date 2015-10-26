@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2015-01-19"
+last_updated: "2015-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2015.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -975,7 +975,7 @@ II.- Deliberar y votar sobre los asuntos que se traten en las sesiones;
 
 III.- Presentar iniciativas de reglamentos, bandos, decretos o acuerdos en cualquier materia de carácter municipal;
 
-IV - Procurar la defensa, promoción y la representación jurídica de los intereses municipales;
+IV.- Procurar la defensa, promoción y la representación jurídica de los intereses municipales;
 
 V.- Representar jurídicamente al Ayuntamiento en los litigios en que éste fuere parte y en la gestión de los negocios de la Hacienda Municipal;
 
@@ -1225,7 +1225,7 @@ III.- Presentar propuestas de abrogación, derogación o modificación a las dis
 
 IV.- Recibir propuestas de nuevas normas municipales que presenten los particulares u organizaciones empresariales, gremiales, ciudadanas, políticas, académicas y de profesionistas;
 
-V - Dictaminar los proyectos de iniciativa de Ley que pretendan ser presentadas por el Ayuntamiento ante el Congreso del Estado;
+V.- Dictaminar los proyectos de iniciativa de Ley que pretendan ser presentadas por el Ayuntamiento ante el Congreso del Estado;
 
 VI.- Supervisar el funcionamiento del Registro Civil;
 
@@ -1243,7 +1243,7 @@ XII.- Proponer programas para el fomento y superación profesional, técnica y c
 
 XIII.- Formar parte de los Consejos Consultivos de Seguridad Pública y Vialidad, así como de los demás en que se capten los puntos de vista y peticiones de la ciudadanía en materia de seguridad pública, vialidad y protección civil;
 
-XIV - Establecer un sistema de información periódica de la actuación del personal de seguridad pública, vialidad y protección civil;
+XIV.- Establecer un sistema de información periódica de la actuación del personal de seguridad pública, vialidad y protección civil;
 
 XV.- Vigilar que se apliquen adecuadamente los correctivos disciplinarios que correspondan conforme a la Ley y a las disposiciones del presente Código, a los miembros de los cuerpos de seguridad pública y vialidad que incurran en falta de honestidad o cualquier otra infracción a sus obligaciones;
 
@@ -1955,7 +1955,7 @@ II.- Bandos de Policía y Buen Gobierno;
 
 III.- Códigos; y
 
-IV- Circulares y disposiciones administrativas de observancia general.
+IV.- Circulares y disposiciones administrativas de observancia general.
 
 ###### Artículo 193.
 
@@ -3951,7 +3951,7 @@ XII. Formular programas para promover la cultura física y deporte entre las per
 
 XIII. Celebrar todos aquellos contratos y convenios que le permitan cumplir con el objetivo para el cual fue creado; y
 
-XIV Las demás que (sic) Ley u otras disposiciones legales determinen.
+XIV. Las demás que (sic) Ley u otras disposiciones legales determinen.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -5345,7 +5345,7 @@ d).- En los actos de apertura de propuestas se procederá a dar lectura en voz a
 
 III.- El Comité, con base en el análisis comparativo de las proposiciones admitidas, emitirá un dictamen que servirá de fundamento para el fallo, mediante el cual se adjudicará el pedido o contrato a la persona que dentro de las proponentes reúna las condiciones legales, técnicas y económicas, requeridas por la convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas;
 
-IV- Si resultare que dos o más proposiciones satisfacen los requerimientos, el pedido o contrato se adjudicará a quien presente la postura más baja;
+IV.- Si resultare que dos o más proposiciones satisfacen los requerimientos, el pedido o contrato se adjudicará a quien presente la postura más baja;
 
 V.- La forma en que se emitirá el fallo económico, que puede ser por escrito o en junta pública se hará saber a cada uno de los participantes, en el acto de apertura de ofertas, en el cual se darán todos por enterados;
 
@@ -5475,7 +5475,7 @@ XXII.- Gula Simple de Archivo: Esquema general de descripción de las series doc
 
 XXIII.- Inventarios Documentales: Instrumentos de consulta que describen las series y expedientes de un archivo y que permiten su localización (inventario general) trasferencia (inventario de transferencia) o baja documental (inventario de baja documental);
 
-XXIV- Legajo: Conjunto de documentos que en el momento de la organización se encuentran sueltos y pertenecen a una misma serie para su resguardo, se agrupan cronológicamente sin exceder de centímetro y medio de grosor;
+XXIV.- Legajo: Conjunto de documentos que en el momento de la organización se encuentran sueltos y pertenecen a una misma serie para su resguardo, se agrupan cronológicamente sin exceder de centímetro y medio de grosor;
 
 XXV.- Número de Expediente: Número consecutivo que dentro de las series documentales identifica a cada uno de sus expedientes;
 
@@ -10027,7 +10027,7 @@ XII.- Usar armamento y equipo de procedencia o estancia ilegal o carente de regi
 
 XIII.- Utilizar equipo y armamento para fines distintos a la función pública asignada;
 
-XIV- Insistir en cometer faltas mostrándose incorregible, a pesar de que se le hayan aplicado varios de los correctivos disciplinarios;
+XIV.- Insistir en cometer faltas mostrándose incorregible, a pesar de que se le hayan aplicado varios de los correctivos disciplinarios;
 
 XV.- Recibir sentencia judicial condenatoria por la comisión de un delito doloso, dentro o fuera del servicio;
 
@@ -10277,7 +10277,7 @@ II.- Contar con fe pública para la práctica de diligencias relativas a la noti
 
 III.- Dar fe del cotejo de documentos que tuviere a la vista en el momento de la práctica de alguna notificación; y
 
-IV- Las demás que le señalen este Código y las leyes de aplicación supletoria.
+IV.- Las demás que le señalen este Código y las leyes de aplicación supletoria.
 
 ###### Artículo 1043.
 
@@ -12247,7 +12247,7 @@ II.- Cuando se dictamine improcedente la solicitud deberá notificarse personalm
 
 III.- Cuando el dictamen sea positivo se turnará a la Secretaría de Gobernación y del H. Ayuntamiento, para incorporarlo al orden del día de la siguiente Sesión Ordinaria de Cabildo;
 
-IV- Sometida a la consideración del Cabildo se propondrá para su aprobación; y
+IV.- Sometida a la consideración del Cabildo se propondrá para su aprobación; y
 
 V.- Una vez dictada la resolución definitiva se notificará a los interesados.
 
@@ -17705,7 +17705,7 @@ II.- Fomentará el respeto, conocimiento y protección de la flora y fauna domé
 
 III.- Promoverá y difundirá programas y acciones preventivas entre los habitantes del Municipio, para que los mismos conozcan y comprendan los principales problemas ambientales de su localidad, origen y consecuencias, así como las formas y medios por los cuales se pueden prevenir o controlar;
 
-IV- Concientizará a los habitantes para que a partir de un cambio de actitudes coadyuven a la conservación, protección y mejoramiento del ambiente, así como a denunciar a todas aquellas personas físicas o morales, públicas o privadas que atenten contra el medio ambiente; y
+IV.- Concientizará a los habitantes para que a partir de un cambio de actitudes coadyuven a la conservación, protección y mejoramiento del ambiente, así como a denunciar a todas aquellas personas físicas o morales, públicas o privadas que atenten contra el medio ambiente; y
 
 V.- El Programa Estatal de Educación Ambiental, funcionará como una guía de las actividades y acciones que en esta materia se realicen en el Municipio de Calvillo.
 
@@ -18205,7 +18205,9 @@ Las dependencias a quienes se solicite los dictámenes necesariamente deberán r
 
 En los establecimientos específicos para la venta y consumo de bebidas alcohólicas, el ejercicio de la prostitución y los expendios de cerveza y/o vinos y licores, además debe contener:
 
-I.- Que no exista escuela, hospital, centro deportivo, templo, cuartel, hospicio, centro cultural, en un radio de distancia de ciento cincuenta metros, y que no se encuentren adyacentes o frente a fábricas en que presten sus servicios trabajadores. Los nuevos establecimientos referidos en este artículo no deberán situarse a una distancia menor de ciento cincuenta metros uno de otro, a excepción de aquéllos que se establezcan en zonas que el Ayuntamiento determine como turísticas en los programas de desarrollo urbano, las que deberán ser precisas en sus límites;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+I.- Que tratándose de establecimientos autorizados para el ejercicio de la prostitución, se observará que no existan instituciones religiosas, de educación, culturales, deportivos, recreativas, de salud, de seguridad pública y militares entre otros, en un radio de cuando menos 150 metros, distancia que también deberá observarse entre uno y otro establecimiento de este mismo giro;
 
 II.- Que cuente con las medidas de seguridad reglamentarias en materia de protección civil como:
 
@@ -24070,5 +24072,15 @@ ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTÍCULOS 304, 311, 335
 Artículo Segundo.- Publíquese el presente Decreto Municipal en el Periódico Oficial del Estado de Aguascalientes, para los efectos legales conducentes.
 
 Artículo Tercero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+Artículo Cuarto.- Cúmplase.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE OCTUBRE DE 2015.
+
+Artículo Segundo.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 Artículo Cuarto.- Cúmplase.
