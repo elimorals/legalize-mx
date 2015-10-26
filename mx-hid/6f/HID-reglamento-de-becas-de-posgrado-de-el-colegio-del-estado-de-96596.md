@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-becas-de-posgrado-de-el-colegio-del-estado-de-965
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-11"
-last_updated: "2013-11-11"
+last_updated: "2015-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO DE BECAS DE POSGRADO DE EL COLEGIO DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE BECAS DE POSGRADO PARA EL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE OCTUBRE DE 2015.]</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 11 de noviembre de 2013.
 
@@ -159,13 +159,13 @@ II. En el caso de becas otorgadas a través de cofinanciamiento con alguna empre
 
 ###### ARTÍCULO 10.
 
-Las becas para participar en proyectos de investigación, conforme al presente Reglamento, se cubrirán mensualmente durante un máximo de 12 meses el apoyo económico para manutención (sic).
+Las becas para participar en proyectos de investigación, conforme al presente Reglamento, se cubrirán mensualmente durante un máximo de 12 meses el apoyo económico para manutención.
 
 ###### ARTÍCULO 11.
 
 La vigencia de las becas será por tiempo determinado y se sujetará a los siguientes plazos:
 
-l. Para participar en proyectos de investigación hasta 12 meses; y (sic)
+l. Para participar en proyectos de investigación hasta 12 meses; y
 
 II. Para desarrollar proyectos de tesis: de maestría hasta 12 meses; y de doctorado hasta 24 meses, previo aval del responsable de la dirección de la tesis.
 
@@ -275,9 +275,11 @@ Las determinaciones adoptadas por El Colegio con motivo de modificaciones de las
 
 El término por el que se otorgan las becas podrá ser prorrogado un máximo de seis meses, por causas de fuerza mayor, debidamente documentadas, siempre que el becario (a) cuente con la autorización de El Colegio, y éste haya evaluado y resuelto sobre la procedencia de dicha causal fijando, para tal efecto, el tiempo de duración de la prórroga. Si el becario (a) incumple con el término de prórroga fijado, se colocará en el supuesto de suspensión unilateral de estudios, previsto en el artículo 20 del presente Reglamento, procediéndose, en su caso, a la cancelación de la beca.
 
+> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 20.
 
-La autorización que otorgue El Colegio sobre cualquier modificación de una beca, implicará la consecuente ampliación de la vigencia efectiva máxima establecida en el artículo 12 del presente Reglamento.
+La autorización que otorgue El Colegio sobre cualquier modificación de una beca, implicará la consecuente ampliación de la vigencia efectiva máxima establecida en el artículo 11 del presente Reglamento.
 
 ###### ARTÍCULO 21.
 
