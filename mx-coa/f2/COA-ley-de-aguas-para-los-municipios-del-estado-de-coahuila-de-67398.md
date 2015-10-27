@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2014-09-02"
+last_updated: "2015-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -297,7 +297,9 @@ VIII.- Vigilar que los bienes e instalaciones de los sistemas, se encuentren deb
 
 IX.- Administrar los ingresos provenientes de la operación de los servicios y de los demás bienes que se incorporen a su patrimonio;
 
-X.- Revisar y establecer modificaciones a las tarifas de consumo de agua potable, drenaje y alcantarillado;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2015)</small>
+
+X.- Revisar y proponer a los cabildos las modificaciones a las tarifas de consumo de agua potable, drenaje y alcantarillado para que sean incluidas en las Leyes de Ingresos correspondientes al ejercicio fiscal.
 
 XI.- Sufragar todos los gastos de administración, operación, conservación y demás, respecto de los bienes y servicios que se les encomienden;
 
@@ -393,7 +395,9 @@ II.- Aprobar el programa anual de operaciones del Sistema;
 
 III.- Conocer y aprobar, en su caso, el presupuesto anual de egresos y la estimación de ingresos para el año siguiente;
 
-IV.- Estudiar y aprobar, en su caso, los proyectos de tarifas por concepto de los servicios prestados por el Sistema, así como sus modificaciones;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2015)</small>
+
+IV.- Estudiar y aprobar los proyectos de tarifas por concepto de los servicios prestados por el Sistema, así como sus modificaciones, para turnarlas al cabildo respectivo para su análisis, discusión y en su caso la aprobación o modificación y posterior inclusión en la Ley de Ingresos del ejercicio fiscal correspondiente.
 
 V.-Otorgar al Gerente del Sistema, o a personas distintas a éste, poderes generales y especiales para pleitos y cobranzas y actos de administración, con todas las facultades, aún las que requieran poder especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila, con facultad además, para sustituir sus facultades en materia de actos de administración y pleitos y cobranzas, para desistirse de amparos y para formular querellas y acusaciones de carácter penal, así como para otorgar y suscribir títulos de crédito. El mandato podrá ser ejercido ante particulares y ante toda clase de autoridades administrativas o judiciales
 
@@ -775,9 +779,11 @@ Las cuotas o tarifas se fijarán de conformidad a lo dispuesto en los artículos
 
 Se otorgará un 50% de descuento a las personas pensionadas y a las mayores de 60 años, en su recibo de de (sic) agua potable del servicio doméstico, en el domicilio donde legalmente residan. Este descuento solo será aplicable en el consumo que determine el organismo operador en los municipios. De sobrepasar este consumo, se deberá liquidar el exceso en su totalidad.
 
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 76.
 
-Determinadas las tarifas respectivas, se publicarán para su vigencia y obligatoriedad en las Gacetas Municipales, páginas de Internet de los municipios y de los organismos operadores, y a falta de éstas, en lugar visible de las oficinas del Palacio Municipal y en las que ocupen los organismos operadores. El área de cultura del agua como parte de sus funciones, dará a conocer también dichas tarifas.
+Una vez determinadas las tarifas respectivas, estás deberán incluirse en la Iniciativa de Leyes de Ingresos Municipales, para su vigencia y obligatoriedad de acuerdo con el artículo 28 del Código Financiero para los Municipios del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, asimismo se publicarán en las Gacetas Municipales, páginas de Internet de los municipios y de los organismos operadores, y a falta de éstas, en lugar visible de las oficinas del Palacio Municipal y en las que ocupen los organismos operadores. El área de cultura del agua, como parte de sus funciones, dará a conocer también dichas tarifas.
 
 ###### ARTÍCULO 77.
 
@@ -1104,3 +1110,11 @@ El presente decreto entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este Decreto.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
