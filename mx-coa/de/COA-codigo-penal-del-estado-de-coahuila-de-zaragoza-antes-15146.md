@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2015-09-15"
+last_updated: "2015-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -4249,17 +4249,13 @@ Se aplicarán iguales penas: A quien porte cuchillo o navaja en lugar de reunió
 
 #### SECCIÓN SÉPTIMA. CIRCULACIÓN CON PLACAS SOBREPUESTAS
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
-ARTÍCULO 280 BIS 1. SANCIONES Y FIGURA TÍPICA DE CIRCULACIÓN CON PLACAS SOBREPUESTAS.- Se aplicará una pena de cuatro a doce años y multa a quien utilice, posea, custodie o detente un vehículo con placas, que en términos de las disposiciones aplicables han sido dadas de baja o cuyos datos de identificación correspondan a otro vehículo.
+ARTICULO 280 BIS 1. SANCIONES Y FIGURA TÍPICA DE CIRCULACIÓN DE VEHÍCULO CON PLACAS SOBREPUESTAS.- Se aplicará una pena de seis meses a cuatro años y multa a quien utilice, posea, o custodie un vehículo con placas, que en términos de las disposiciones aplicables han sido dadas de baja o cuyos datos de identificación correspondan a otro vehículo, con el propósito de cometer un delito diverso o encubrirlo.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
-ARTICULO 280 BIS 2. CIRCUNSTANCIAS AGRAVANTES DEL DELITO ANTERIOR.- Las penas previstas en el artículo anterior, se incrementarán hasta en una mitad más:
-
-I. Cuando se cometa algún otro delito doloso en el cual se utilice el vehículo que porta las placas sobrepuestas; sin perjuicio de las penas que por el delito diverso se deban imponer.
-
-II. Cuando intervenga un servidor público en su comisión, a quien además se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
+ARTICULO 280 BIS 2. AGRAVANTE DE LA FIGURA TÍPICA DE CIRCULACIÓN DE VEHÍCULO CON PLACAS SOBREPUESTAS.- Las penas previstas en el artículo anterior, se incrementarán hasta en una mitad, cuando quien cometa el delito de circulación de vehículo con placas sobrepuestas, sea un servidor público, a quien además se le inhabilitará para desempeñar cualquier empleo, cargo o comisión públicos por un período igual a la pena de prisión impuesta.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -6954,3 +6950,9 @@ CUARTO.- Se derogan todas las disposiciones que se opongan a este decreto.
 P.O. 15 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+P.O. 27 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
+
+SEGUNDO.- A los sujetos activos dentro de los procedimientos penales pendientes de resolución les será aplicable la legislación que les resulte más favorable.
