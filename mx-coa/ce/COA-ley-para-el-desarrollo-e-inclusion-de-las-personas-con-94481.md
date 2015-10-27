@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2013-05-31"
+last_updated: "2015-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -115,7 +115,7 @@ XXX. Programa. El Programa Estatal para el Desarrollo e Inclusión de las Person
 
 XXXI. Sistema. Sistema Estatal para el Desarrollo e Inclusión de las Personas con Discapacidad en el Estado de Coahuila de Zaragoza;
 
-XXXII. Sistema de escritura braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas con discapacidad visual, y (sic)
+XXXII. Sistema de escritura braille. Sistema para la comunicación representado mediante signos en relieve, leídos en forma táctil por las personas con discapacidad visual, y
 
 XXXIII. Transversalidad. Proceso mediante el cual se instrumentan las políticas, programas y acciones desarrollados por las dependencias y entidades de la administración pública estatal y de los municipios, que proveen bienes y servicios a la población con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo.
 
@@ -223,7 +223,11 @@ IX. Impulsar la adopción de acciones afirmativas orientadas a evitar y compensa
 
 X. Impulsar la participación solidaria de la sociedad y la familia en la preservación, y restauración de la salud, así como la prolongación y mejoramiento de la calidad de vida de las personas con discapacidad, y
 
-XI. Las demás que otros ordenamientos le confieran.
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2015)</small>
+
+XI.- Establecer en coordinación con las autoridades municipales mecanismos de difusión y promoción de los derechos a que esta Ley, se refiere, a la vez que se establecerán los medios idóneos y convenientes que permitan identificar a las personas con discapacidad y faciliten su acceso a estas prerrogativas.
+
+XII.- Las demás que otros ordenamientos le confieran.
 
 ## Título Segundo. De los derechos y garantías para las personas con discapacidad
 
@@ -1068,3 +1072,11 @@ LA SECRETARIA DE TURISMO
 CLAUDIA ELISA MORALES SALAZAR
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
