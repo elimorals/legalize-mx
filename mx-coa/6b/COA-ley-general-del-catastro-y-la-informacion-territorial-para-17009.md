@@ -4,7 +4,7 @@ identifier: "COA-ley-general-del-catastro-y-la-informacion-territorial-para-1700
 country: "mx"
 rank: "ley_general"
 publication_date: "1999-07-23"
-last_updated: "2012-05-08"
+last_updated: "2015-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY GENERAL DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 23 de julio de 1999.
 
@@ -393,7 +393,7 @@ El Instituto es la autoridad encargada de todo lo relacionado con la planeación
 
 La dirección y administración del Instituto estarán a cargo de un Consejo Directivo, un Director General y los demás órganos que prevea su reglamento interior.
 
-El Instituto contará, además, con el personal necesarios para su eficaz funcionamiento, en los términos de la plantilla que apruebe su Consejo Directivo, conforme al presupuesto correspondiente.
+El Instituto contará, además, con el personal necesarios (sic) para su eficaz funcionamiento, en los términos de la plantilla que apruebe su Consejo Directivo, conforme al presupuesto correspondiente.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2012)</small>
 
@@ -649,7 +649,9 @@ El Congreso del Estado, una vez recibidas las tablas de valores, procederá al a
 
 Las tablas de valores aprobadas conforme a esta ley deberán ser publicadas en el Periódico Oficial del Gobierno del Estado y serán de observancia obligatoria para el ejercicio fiscal para el cual se formularon.
 
-En caso de que al terminar el ejercicio fiscal de su vigencia, no se expidieren nuevas tablas, continuarán vigentes las anteriores y sus valores se incrementarán a partir del primero de enero de cada año, con el factor que el Congreso del Estado determine. En el caso de que el Congreso del Estado no determine factor alguno, los ayuntamientos actualizarán las tablas con el factor que resulte de dividir el índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior entre el citado índice del mes de noviembre del año anterior al señalado, hasta en tanto se expidan las procedentes.
+> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
+
+En caso de que al terminar el ejercicio fiscal de su vigencia, no se expidieren nuevas tablas, continuarán vigentes las de los años inmediatos anteriores, y sus valores se incrementarán a partir del primero de enero de cada año, con el factor que el Congreso del Estado determine, en base a las actualizaciones que sean pertinentes de acuerdo al Índice Nacional de Precios al Consumidor del Banco de México y la Legislación Estatal vigente.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -1296,3 +1298,9 @@ Las facultades y obligaciones a que se refiere este decreto, que en otras leyes,
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
