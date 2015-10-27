@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2013-09-25"
+last_updated: "2015-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NO. LXI-907, PUBLICADO EN EL ANEXO DEL P.O. DE 25 DE SEPTIEMBRE DE 2013, INICIA SU VIGENCIA A LOS 90 DÍAS POSTERIORES A SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -641,7 +639,7 @@ Las acciones de vivienda deberán ser congruentes con las necesidades de cada ce
 
 ###### ARTÍCULO 45.
 
-1. La administración y mantenimiento de conjuntos habitacionales y multifamiliares quedará a cargo o (sic) dirección de los usuarios, conforme a la legislación en materia del régimen de propiedad en condominio de bienes inmuebles y demás disposiciones aplicables.
+1. La administración y mantenimiento de conjuntos habitacionales y multifamiliares quedará a cargo o dirección de los usuarios, conforme a la legislación en materia del régimen de propiedad en condominio de bienes inmuebles y demás disposiciones aplicables.
 
 2. El Instituto promoverá que las autoridades competentes expidan normas que regulen dichos conjuntos y sus regímenes de propiedad, atendiendo a las características de la región, así como a los tipos y condiciones culturales de la población.
 
@@ -793,15 +791,23 @@ IX. Áreas que presenten erosión severa, estén sujetas a procesos erosivos eó
 
 X. Áreas que presenten fallas geológicas, tengan posibilidad o riesgo de inestabilidad, deslizamiento o hundimiento del suelo.
 
-### CAPÍTULO XI. RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XI. DENUNCIA POPULAR Y RESPONSABILIDADES
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 61.
+
+Cualquier persona podrá denunciar ante las autoridades competentes todo hecho, acto u omisión que produzca o pueda producir daños al ejercicio de los derechos y disposiciones establecidas en la presente ley. En la presentación y trámite de la denuncia correspondiente se observará, en lo conducente, lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+###### ARTÍCULO 62.
 
 1. Los servidores públicos que al intervenir en acciones, trámites, proyectos, procesos de producción o adquisición de vivienda, construcción de obras de infraestructura u operaciones inmobiliarias, utilicen indebidamente su cargo para beneficiarse o favorecer a terceros, serán sancionados conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado, sin perjuicio de lo que dispongan otras leyes administrativas y penales aplicables.
 
 2. Los fedatarios públicos y registradores que den fe o inscriban actos o negocios jurídicos en contravención a las disposiciones de esta Ley, se harán acreedores a las sanciones y responsabilidades civiles y administrativas que correspondan, sin demérito de las que derivan de la Ley penal.
 
-###### ARTÍCULO 62.
+###### ARTÍCULO 63.
 
 1. Los particulares que incurran en infracción a las disposiciones de esta Ley serán sancionados en los términos de la legislación aplicable.
 
@@ -840,3 +846,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los diecisiete días del mes de septiembre del año dos mil trece.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
