@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2010-12-16"
+last_updated: "2015-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -231,7 +231,7 @@ LI. Servicios ambientales: Los que brindan los ecosistemas de manera natural o p
 
 Se considera de utilidad pública:
 
-l. La formulación y ejecución de los planes de ordenamiento ambiental del Estado para la conservación de los ecosistemas, el aprovechamiento sustentable de los recursos y la aplicación de tecnologías y modelos adecuados de uso de suelo;
+I. La formulación y ejecución de los planes de ordenamiento ambiental del Estado para la conservación de los ecosistemas, el aprovechamiento sustentable de los recursos y la aplicación de tecnologías y modelos adecuados de uso de suelo;
 
 II. Las acciones en materia de prevención y control de la contaminación atmosférica, de los mantos freáticos y demás cuerpos de agua, así como del suelo en el territorio estatal;
 
@@ -485,7 +485,7 @@ II. Fomentar la incorporación de información confiable y suficiente sobre las 
 
 III. Otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio ecológico. Asimismo, actuará para que quienes dañen el medio ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, asuman los costos respectivos;
 
-IV. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de las políticas ambiental (sic) y de desarrollo sustentable;
+IV. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de las políticas ambiental y de desarrollo sustentable;
 
 V. Impulsar la participación de los sectores social y privado en proyectos de preservación, conservación y aprovechamiento sustentable de los recursos naturales y medio ambiente de competencia estatal; y
 
@@ -587,7 +587,7 @@ Sección Quinta. Emisión y Transferencia Anual de los Contaminantes o grupos de
 
 Para obtener el Registro Estatal Ambiental, se seguirá el siguiente procedimiento:
 
-l. El establecimiento promovente solicitará a las autoridades ambientales estatales el formato de la Cédula de Operación Anual, o bien podrá obtenerlo vía electrónica en la página de Internet de la Agencia Ambiental;
+I. El establecimiento promovente solicitará a las autoridades ambientales estatales el formato de la Cédula de Operación Anual, o bien podrá obtenerlo vía electrónica en la página de Internet de la Agencia Ambiental;
 
 > <small>(F. DE E., P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -637,6 +637,10 @@ La Agencia Ambiental deberá elaborar y publicar un informe detallado de la situ
 
 4. La Agencia Ambiental, asimismo, promoverá la participación de los medios de comunicación masiva en el fortalecimiento de la conciencia ecológica y las políticas para el desarrollo sustentable en el Estado.
 
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2015)</small>
+
+5. El Estado y los Municipios, en el ámbito de sus respectivas competencias, promoverán la investigación, desarrollo y aplicación de tecnologías, equipos, procesos y sistemas que permitan prevenir, controlar y abatir la contaminación en la producción, uso y disposición de bolsas de plástico, a fin de contribuir a que en su ciclo de vida se minimicen los impactos negativos al ambiente, así como a la reducción en la fuente, separación, reutilización y, en su caso, el reciclaje, de las mismas.
+
 ###### ARTICULO 37.
 
 La Agencia Ambiental promoverá ante las instituciones de educación superior incorporadas al Sistema Educativo Estatal y los organismos dedicados a la investigación científica y tecnológica del Estado, el desarrollo de programas para la formación de profesionales en la materia y para la investigación de las causas y efectos de los fenómenos ambientales en el ámbito local; así como programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación y proteger los servicios ambientales, ecosistemas y recursos naturales de Tamaulipas.
@@ -667,7 +671,7 @@ III. La eficiencia administrativa por medio del consumo racional y sustentable d
 
 El Estado, a través de la Agencia Ambiental, promoverá la participación de la sociedad en la formulación de la política ambiental y de desarrollo sustentable de la entidad federativa, en la aplicación de sus instrumentos, en las acciones de información, vigilancia y, en general, en los programas ambientales que emprenda, para lo cual podrá:
 
-I. Convocar a los particulares, a las organizaciones de los sectores social y (sic) privado y de carácter académico y cívico, para que manifiesten su opinión y propuestas;
+I. Convocar a los particulares, a las organizaciones de los sectores social y privado y de carácter académico y cívico, para que manifiesten su opinión y propuestas;
 
 II. Celebrar, con la participación de las autoridades competentes, con organizaciones obreras y grupos sociales, comunidades agrarias y demás organizaciones campesinas, organizaciones empresariales, instituciones educativas y académicas, organizaciones civiles e instituciones privadas no lucrativas, representaciones sociales y, en general, particulares interesados en la conservación y restauración del medio ambiente en el Estado, convenios de colaboración para: la protección del medio ambiente y los recursos naturales; el establecimiento, administración y manejo de áreas naturales protegidas de competencia estatal; asesoría ambiental en las actividades relacionadas con el aprovechamiento y desarrollo sustentable de los recursos naturales; la realización de estudios e investigaciones en materia ambiental, de desarrollo sustentable, así como para la capacitación en la materia; la planeación y ejecución de acciones conjuntas y demás actividades convenientes a favor del desarrollo sustentable;
 
@@ -1071,7 +1075,7 @@ XVII. Las demás que, aun cuando sean distintas a las anteriores, puedan causar 
 
 4. El estudio de riesgo consistirá en incorporar a la manifestación de impacto ambiental lo siguiente:
 
-l. Escenarios y medidas preventivas resultantes del análisis de los riesgos ambientales relacionados con el proyecto;
+I. Escenarios y medidas preventivas resultantes del análisis de los riesgos ambientales relacionados con el proyecto;
 
 II. Descripción de las zonas de protección en torno a las instalaciones y la verificación de su propiedad; y
 
@@ -2369,7 +2373,7 @@ La recolección de residuos de manejo especial es obligación de sus generadores
 
 Los vehículos destinados a la recolección y traslado o transportación de residuos, deberán contar con contenedores distintos que hagan factible su acopio por separado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL CODIGIO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2008.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO SEGUNDO TRANSITORIO DEL CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 5 DE JUNIO DE 2008.</small>
 
 ###### ARTICULO 157.
 
@@ -2643,7 +2647,7 @@ II. Las zonas de amortiguamiento: tendrán como principal objetivo la conservaci
 
 Las zonas núcleo podrán estar conformadas por las siguientes subzonas:
 
-l. De protección: aquellas superficies dentro del área natural protegida que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles y fenómenos naturales que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+I. De protección: aquellas superficies dentro del área natural protegida que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles y fenómenos naturales que requieren de un cuidado especial para asegurar su conservación a largo plazo.
 
 En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente y de investigación científica que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
 
@@ -2757,9 +2761,7 @@ Los jardines naturales estarán integrados por camellones, andadores, jardines e
 
 Las zonas de restauración ambiental, se constituirán en las áreas que presenten procesos acelerados de deterioro del suelo que impliquen la pérdida de recursos naturales de difícil regeneración, recuperación o afectaciones irreversibles a los ecosistemas o sus elementos.
 
-## TITULO TERCERO. DE LAS DECLARATORIAS Y ADMINISTRACION DE AREAS NATURALES
-
-PROTEGIDAS
+## TITULO TERCERO. DE LAS DECLARATORIAS Y ADMINISTRACION DE AREAS NATURALES PROTEGIDAS
 
 ### CAPITULO I. DE LAS DECLARATORIAS
 
@@ -3191,9 +3193,7 @@ Para alcanzar los objetivos de la política estatal sobre vida silvestre, la Com
 
 ## TITULO CUARTO. DE LA CONSERVACION DE LA VIDA SILVESTRE
 
-### CAPITULO I. DE LAS ESPECIES Y POBLACION EN RIESGO Y PRIORITARIAS PARA LA
-
-CONSERVACION
+### CAPITULO I. DE LAS ESPECIES Y POBLACION EN RIESGO Y PRIORITARIAS PARA LA CONSERVACION
 
 ###### ARTICULO 222.
 
@@ -3595,7 +3595,7 @@ DE LA TERMINACION.
 
 Ponen fin al procedimiento administrativo:
 
-l. La resolución del mismo;
+I. La resolución del mismo;
 
 II. El desistimiento;
 
@@ -4282,3 +4282,9 @@ Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente 
 ###### ARTICULO TERCERO.
 
 Los Ayuntamientos en los que se instalen Centros de Verificación de contaminantes por fuentes móviles o en los que funcionen las unidades móviles de verificación, deberán coordinarse con la Agencia Ambiental para el Desarrollo Sustentable, a efecto de celebrar los actos jurídicos que se requieran para la exacta observancia de las disposiciones relativas a la verificación vehicular de contaminantes. Asimismo, deberán adecuar sus propias determinaciones legales que incidan en la materia para ejercer las acciones de autoridad que privilegien el cumplimiento de las normas protectoras del medio ambiente, incluidas aquellas que versen sobre la recaudación de derechos por ese concepto.
+
+P.O. 27 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
