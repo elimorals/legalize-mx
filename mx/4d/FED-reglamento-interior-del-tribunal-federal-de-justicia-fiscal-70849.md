@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-10-23"
+last_updated: "2015-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 23 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -599,7 +597,7 @@ XXII. Norte-Centro III, que comprende el Estado de Durango, con excepción de lo
 
 > <small>(ADICIONADA, D.O.F. 21 DE AGOSTO DE 2013)</small>
 
-XXIII. Norte-Centro IV, que comprende el Estado de Zacatecas... (sic)
+XXIII. Norte-Centro IV, que comprende el Estado de Zacatecas...
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
@@ -655,9 +653,9 @@ IX. Región del Centro II: Una Sala que se denominará “Sala Regional del Cent
 
 X. Región del Centro III: Una Sala que se denominará “Sala Regional del Centro III”, con sede en la Ciudad de Celaya, Estado de Guanajuato;
 
-> <small>(REFORMADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE OCTUBRE DE 2015)</small>
 
-XI. Región Norte-Este del Estado de México: Tres Salas que se denominarán, “Primera Sala Regional Norte-Este del Estado de México”, “Segunda Sala Regional Norte-Este del Estado de México” y “Tercera Sala Regional Norte-Este del Estado de México”, con sede en Tlalnepantla, Estado de México.
+XI. Región Norte-Este del Estado de México: Dos Salas que se denominarán, “Primera Sala Regional Norte-Este del Estado de México” y “Segunda Sala Regional Norte-Este del Estado de México”, con sede en Tlalnepantla, Estado de México.
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2015)</small>
 
@@ -769,11 +767,19 @@ n) Comisión Reguladora de Energía (CRE)
 
 3) (DEROGADO, D.O.F. 20 DE ENERO DE 2015)
 
-> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE OCTUBRE DE 2015)</small>
 
-IV.- Una Sala Especializada en Materia de Comercio Exterior, que será también la Quinta Sala Auxiliar, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que tendrá competencia territorial limitada a los Estados de Veracruz de Ignacio de la Llave y Tamaulipas, y competencia material para tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 14, fracciones I, II, III, IV, X, XI, XII, XIII, exclusivamente cuando el acto impugnado se funde en un tratado o acuerdo internacional en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se haya aplicado en su favor dicho tratado o acuerdo; XIV, penúltimo y último párrafos de la Ley, dictados con fundamento en la Ley Aduanera, en la Ley de Comercio Exterior, así como en los demás ordenamientos que regulan la materia de comercio exterior.
+IV.- Salas Especializadas en Materia de Comercio Exterior, que tendrán competencia material para tramitar y resolver los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 14, fracciones I, II, III, IV, X, XI, XII, XIII, exclusivamente cuando el acto impugnado se funde en un tratado o acuerdo internacional en materia comercial, suscrito por México, o cuando el demandante haga valer como concepto de impugnación que no se haya aplicado en su favor dicho tratado o acuerdo; XIV, penúltimo y último párrafos de la Ley, dictados con fundamento en la Ley Aduanera, en la Ley de Comercio Exterior, así como en los demás ordenamientos que regulan la materia de comercio exterior.
 
-Respecto de los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 14, fracción X, de la Ley, la Sala Especializada en Materia de Comercio Exterior conocerá de los mismos en términos del párrafo que antecede, cuando se controvierta exclusivamente la aplicación de cuotas compensatorias, quedando a salvo la competencia especial de las Secciones de la Sala Superior, en términos del artículo 23, fracción I, de la Ley.
+Respecto de los juicios que se promuevan contra las resoluciones definitivas y actos a que se refiere el artículo 14, fracción X, de la Ley, las Salas Especializadas en Materia de Comercio Exterior conocerán de los mismos en términos del párrafo que antecede, cuando se controvierta exclusivamente la aplicación de cuotas compensatorias, quedando a salvo la competencia especial de las Secciones de la Sala Superior, en términos del artículo 23, fracción I, de la Ley.
+
+Dichas Salas Especializadas serán las siguientes:
+
+a) La Primera Sala Especializada en Materia de Comercio Exterior, con sede en la Ciudad de México, Distrito Federal, que tendrá competencia territorial limitada a las Entidades Federativas de Aguascalientes, Colima, Distrito Federal, Estado de México, Guanajuato, Guerrero, Hidalgo, Jalisco, Michoacán, Morelos, Nayarit, Puebla, Querétaro, San Luis Potosí y Tlaxcala;
+
+b) La Segunda Sala Especializada en Materia de Comercio Exterior, con sede en el Municipio de San Pedro Garza García, en el Estado de Nuevo León, que tendrá competencia territorial limitada a los Estados de Coahuila, Nuevo León, Tamaulipas y Zacatecas, y
+
+c) La Tercera Sala Especializada en Materia de Comercio Exterior, que será también la Quinta Sala Auxiliar, con sede en la ciudad de Xalapa-Enríquez, Estado de Veracruz de Ignacio de la Llave, que tendrá competencia territorial limitada a los Estados de Campeche, Tabasco y Veracruz de Ignacio de la Llave.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ENERO DE 2013)</small>
 
@@ -787,11 +793,7 @@ I. (DEROGADA, D.O.F. 29 DE ABRIL DE 2015)
 
 II. (DEROGADA, D.O.F. 18 DE SEPTIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2012)</small>
-
-III. Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila.
+III. (DEROGADA, D.O.F. 28 DE OCTUBRE DE 2015)
 
 (ADICIONADA, D.O.F. 8 DE ENERO DE 2013) (F. DE E., D.O.F. 18 DE ENERO DE 2013)
 
@@ -3186,3 +3188,31 @@ Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 Segundo. Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
 
 Tercero. Los asuntos que a la entrada en vigor del presente Acuerdo se encuentren en trámite en la Unidad de Seguimiento de Visitas que desaparece, continuarán su sustanciación en la Secretaría Auxiliar de la Junta de Gobierno y Administración.
+
+D.O.F. 28 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Primera y Segunda Salas Especializadas en Materia de Comercio Exterior que se crean, iniciarán sus operaciones a los treinta días naturales siguientes a la fecha en que la Junta de Gobierno y Administración adscriba a los Magistrados de Sala Regional necesarios para integrarlas conforme se indica en el artículo 31 de la Ley Orgánica del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+Asimismo, la Tercera Sala Especializada en Materia de Comercio Exterior, empezará a conocer de los asuntos de los Estados de Tabasco y Campeche a partir de la fecha en que inicien funciones la Primera y Segunda Salas Especializadas en Materia de Comercio Exterior.
+
+Hasta en tanto inicie funciones la Segunda Sala Especializada en Materia de Comercio Exterior, la Tercera Sala Especializada en Materia de Comercio Exterior seguirá conociendo de los asuntos correspondientes al Estado de Tamaulipas, los que tramitará hasta su conclusión.
+
+TERCERO.- En términos de lo señalado por el artículo 41, fracciones I y IV, de la Ley Orgánica del Tribunal, la Junta de Gobierno y Administración determinará la redistribución de los expedientes para la Primera, Segunda y Tercera Salas Especializadas en Materia de Comercio Exterior. Asimismo, deberá dictar los demás acuerdos que sean necesarios para la consecución del objetivo de este Acuerdo.
+
+Asimismo, la Junta de Gobierno y Administración determinará la redistribución de los expedientes de la Tercera Sala Regional Norte-Este del Estado de México, que desaparece para la creación de la Primera Sala Especializada en Materia de Comercio Exterior, a las dos Salas de dicha Región que subsisten.
+
+Hasta en tanto no inicien funciones la nuevas Salas Especializadas en Materia de Comercio Exterior, todas las Salas Regionales continuarán conociendo de los asuntos en materia de Comercio Exterior según su competencia territorial, dejando a salvo la competencia territorial limitada de la Tercera Sala Especializada en Materia de Comercio Exterior.
+
+CUARTO.- La Tercera Sala Auxiliar, con sede en la Ciudad de Torreón, Estado de Coahuila, que desaparece para la creación de la Segunda Sala Especializada en Materia de Comercio Exterior, devolverá los asuntos que sean de su conocimiento a las Salas de origen, en la fecha que la Junta de Gobierno y Administración determine en el acuerdo de distribución de expedientes a que se refiere el artículo TERCERO transitorio del presente Acuerdo.
+
+QUINTO.- La Primera, Segunda y Tercera Salas Especializadas en Materia de Comercio Exterior tendrán como claves de identificación: "EC1", “EC2” y “ECE”, respectivamente.
+
+SEXTO.- Quedan sin efecto las disposiciones emitidas por la Junta de Gobierno y Administración, por el Pleno Jurisdiccional o por la propia Sala Superior del Tribunal Federal de Justicia Fiscal y Administrativa que se opongan a los términos del presente Acuerdo.
+
+SÉPTIMO.- Se instruye a la Secretaría Operativa de Administración y a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, para que a partir de la aprobación del presente Acuerdo, realicen todas las gestiones, acciones, trámites administrativos y presupuestales, entre otros, para implementar lo dispuesto en el presente Acuerdo.
+
+OCTAVO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
+
+NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
