@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-administracion-de-bienes-asegurados-decomisados-268
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2015-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS
 
-LEY PARA LA ADMINISTRACION DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS
+LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y TERCERO DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS, DEL ESTADO DE TABASCO, PUBLICADA EN EL P. O. DE 28 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TREINTA DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 13 de noviembre de 2002.
 
@@ -572,3 +574,21 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE OCTUBRE DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Se abroga la Ley Para la Administración de Bienes Asegurados, Decomisados o Abandonados, publicada mediante Decreto 187 en el suplemento al Periódico Oficial 6280 de fecha 13 de noviembre de 2002.
+
+CUARTO.- Todos los procedimientos que se encuentren en trámite o pendientes de resolución a la fecha de la entrada en vigor de la presente Ley, se tramitarán y resolverán conforme a las disposiciones establecidas en la ley anterior.
+
+QUINTO.- Los procedimientos de aseguramiento o declaratoria de abandono y decomiso de bienes en procesos penales que se inicien posteriormente a la entrada en vigor de la presente Ley, se resolverán atendiendo a la gradualidad en que, de acuerdo al Decreto 119 publicado en el Periódico Oficial Extraordinario número 113, del 5 de agosto de 2014, entrará en vigor el Código Nacional de Procedimientos Penales en las diversas regiones señaladas en el propio Decreto.
+
+SEXTO.- A la entrada en vigor de la presente Ley, los inmuebles particulares donde se encuentren unidades automotores puestas a disposición por autoridades administrativas; celebrarán convenios con el Servicio Estatal de Administración, para su resguardo y administración.
+
+SÉPTIMO.- El Titular del Poder Ejecutivo deberá expedir el Reglamento de la Presente Ley en un plazo no mayor de 180 días contados a partir de su publicación. El Servicio Estatal de Administración deberá adecuar su Reglamento Interior y demás disposiciones administrativas e internas, en un término no mayor de noventa días a partir de la entrada en vigor de la presente Ley.
