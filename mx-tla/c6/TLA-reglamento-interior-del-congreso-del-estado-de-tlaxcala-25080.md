@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2010-10-12"
+last_updated: "2015-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -91,7 +91,7 @@ El tratamiento que recibirá el Congreso será el de "Honorable Congreso del Est
 
 En la sesión de clausura del último período ordinario de sesiones de la legislatura que concluye sus trabajos, el Pleno del Congreso nombrará a la comisión permanente, que también fungirá como comisión instaladora de la Legislatura entrante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 6.
 
@@ -279,7 +279,7 @@ Las resoluciones que durante la sesión adopte el presidente de la Mesa Directiv
 
 Si durante la sesión el presidente de la Mesa Directiva no observa o viola alguna de las disposiciones de este Reglamento, podrá ser reemplazado por el vicepresidente o por quien hiciere sus veces; pero se requerirá, el acuerdo del Pleno en votación nominal, previa moción de algún diputado apoyada por dos diputados más. La exclusión tendrá efectos solamente en la sesión de que se trate.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ### Capítulo IV. De la Junta de Coordinación y Concertación Política
 
@@ -289,7 +289,7 @@ Si durante la sesión el presidente de la Mesa Directiva no observa o viola algu
 
 La Junta de Coordinación y Concertación Política, es el Órgano Superior de Gobierno y Dirección del Congreso, se integra en la forma y términos previstos por la Constitución Política del Estado y la Ley Orgánica y tiene a su cargo establecer los lineamientos para el desarrollo de las funciones legislativas, políticas y administrativas del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 34.
 
@@ -319,7 +319,7 @@ X. Autorizar las credenciales de los diputados propietarios y entregarlas firmad
 
 #### Sección Primera. Integración
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 35.
 
@@ -349,43 +349,45 @@ VI. Entregar con la debida anticipación al Secretario Parlamentario, los proyec
 
 Las comisiones ordinarias tendrán la competencia que específicamente, para cada una, se establece en los Artículos subsecuentes, sin perjuicio de que conozcan y dictaminen respecto de los asuntos que directamente les asigne el presidente de la Mesa Directiva, el Pleno, la Junta de Coordinación y Concertación Política o la Comisión Permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-Las comisiones ordinarias conocerán de las iniciativas de reforma o expedición de las Leyes y asuntos que se relacionen con su materia y en términos de la Ley, son las siguientes:
+Las comisiones ordinarias conocerán de las iniciativas de reforma o expedición de leyes y asuntos que se relacionen con su materia y en términos de Ley son las siguientes:
 
 I. Asuntos Electorales;
 
 II. Asuntos Municipales;
 
-III. Biblioteca, Archivo y Asuntos Editoriales;
+III. (DEROGADA, P.O. 28 DE OCTUBRE DE 2015)
 
-IV. Comunicaciones y Transporte;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-V. Corrección de Estilo;
+IV. Movilidad, Comunicaciones y Transporte;
+
+V. (DEROGADA, P.O. 28 DE OCTUBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 VI. Asuntos Migratorios;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-VII. Derechos Humanos;
+VII. Derechos Humanos, Grupos vulnerables y Derecho (sic) de Niñas, Niños y Adolescentes;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+VIII. (DEROGADA, P.O. 28 DE OCTUBRE DE 2015)
 
-VIII. Derechos y Cultura Indígena;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+IX. Juventud y Deporte;
 
-IX. De la Juventud y Deporte;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+X. Educación, Cultura, Ciencia y Tecnología;
 
-X. Educación, Ciencia, Tecnología y Cultura;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
-
-XI. Equidad y Género;
+XI. Igualdad de Género y Contra la Trata de Personas;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
@@ -395,13 +397,9 @@ XII. Finanzas y Fiscalización;
 
 XIII. Fomento Agropecuario y Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+XIV. (DEROGADA, P.O. 28 DE OCTUBRE DE 2015)
 
-XIV. Gestoría, Información y Quejas;
-
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
-
-XV. Honor y Justicia;
+XV. (DEROGADA, P.O. 28 DE OCTUBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
@@ -415,9 +413,7 @@ XVII. Instructora de Juicio Político, Declaración de Procedencia, Desafuero y 
 
 XVIII. Obras Públicas, Desarrollo Urbano y Ecología;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
-
-XIX. Participación Ciudadana;
+XIX. (DEROGADA, P.O. 28 DE OCTUBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
@@ -431,21 +427,37 @@ XXI. Recursos Hidráulicos;
 
 XXII. Salud;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-XXIII. Protección Civil, Seguridad Pública, Prevención y Readaptación Social;
+XXIII. Protección Civil, Seguridad Pública, Prevención y Reinserción Social;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-XXIV. Trabajo y Previsión Social;
+XXIV. Trabajo, Competitividad, Seguridad Social y Previsión Social;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-XXV. Turismo, y
+XXV. Turismo;
 
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-XXVI. Información Pública y Protección de Datos Personales.
+XXVI. Información Pública y Protección de Datos Personales;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+XXVII. Medio Ambiente y Recursos Naturales;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+XXVIII. De Desarrollo Humano y Social;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+XXIX. Fomento Artesanal y MIPYMES;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+XXX. Comisión de la Familia y su Desarrollo Integral.
 
 ###### Artículo 38.
 
@@ -497,41 +509,39 @@ V. Substanciar los trámites en los asuntos relativos a límites territoriales e
 
 ###### Artículo 41.
 
-Corresponde a la Comisión de Biblioteca, Archivo y Asuntos Editoriales:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2015)
 
-I. Coadyuvar con la Secretaría Parlamentaria en la vigilancia, mantenimiento, o conservación y actualización del acervo y colecciones bibliográficas del Congreso;
-
-II. Proporcionar las facilidades necesarias para la consulta del acervo bibliográfico;
-
-III. Promover el estudio de los temas referentes al Estado y fomentar la consulta bibliográfica en la población sobre esos temas;
-
-IV. Promocionar y fomentar la publicación de libros, revistas o gacetas sobre temas legislativos provenientes de los Estados y de la Federación;
-
-V. Coadyuvar con la publicación sobre temas estatales;
-
-VI. Promover la reedición de obras sobresalientes, y
-
-VII. Promover la publicación de los ordenamientos jurídicos del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-Corresponde a la Comisión de Comunicaciones y Transporte el conocimiento de:
+Corresponde a la Comisión de Movilidad, Comunicaciones y Transporte el conocimiento de:
 
 I. Las iniciativas en materia de comunicaciones y transportes cuyo ámbito de aplicación no sean de la competencia expresa de funcionarios federales;
 
-II. Supervisar la ejecución de los programas encaminados a la apertura, conservación y mantenimiento de las vías de comunicación en el Estado, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-III. Emitir opinión cuando sea solicitada, sobre los programas de expansión y mejoramiento de comunicaciones y transportes implementados por las autoridades competentes.
+II. Supervisar la ejecución de los programas encaminados a la apertura, conservación y mantenimiento de las vías de comunicación en el Estado;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+III. Emitir opinión cuando sea solicitada, sobre los programas de expansión y mejoramiento de comunicaciones y transportes implementados por las autoridades competentes;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+IV. Promover y fomentar la participación de los diversos sectores de la sociedad, con el objeto de conocer su problemática en materia de movilidad y transporte para su atención; asimismo, fomentar la participación ciudadana en los temas de mejoramiento y vigilancia de la prestación del servicio público;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+V. Emitir opinión sobre los proyectos de movilidad elaborados por las dependencias estatales, y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VI. Las demás que le encomienden el Pleno del Congreso del Estado.
 
 ###### Artículo 43.
 
-Corresponde a la Comisión de Corrección de Estilo:
-
-I. Establecer la forma y estilo de los dictámenes que emitan las demás comisiones ordinarias;
-
-II. Revisar los dictámenes de las Comisiones Ordinarias cuando estas así se lo soliciten, por cuanto hace a su redacción sin modificar su esencia, y
-
-III. Establecer normas de redacción parlamentaria y difundirlas.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
@@ -553,9 +563,11 @@ VI. Proponer proyectos e iniciativas, programas y demás mecanismos que contribu
 
 VII. Proponer las Leyes necesarias para la prevención y erradicación de la violencia hacia los migrantes y emigrantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-La Comisión de Derechos Humanos, conoce de los asuntos relacionados con:
+La Comisión de Derechos Humanos, Grupos Vulnerables y Derechos de Niñas, Niños y Adolescentes, conocer de los asuntos relacionados con:
 
 I. La promoción y defensa de los derechos humanos en el Estado y sus municipios, en el ámbito de su competencia;
 
@@ -565,25 +577,43 @@ III. La obtención de información que los quejosos o denunciantes que estime co
 
 IV. El seguimiento de las acciones que las autoridades directamente involucradas realicen en la investigación, procedente en los casos de violación a los derechos humanos en coordinación con la Comisión Estatal de Derechos Humanos;
 
-V. El establecimiento de mecanismos de enlace y coordinación con las instituciones y organismos públicos y privados, así como con las organizaciones no gubernamentales nacionales e internacionales para promover el respeto a los derechos humanos, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-VI. Proponer proyectos de iniciativas, programas y demás mecanismos que contribuyan a fortalecer el respeto y salvaguarda de los derechos humanos en nuestro Estado, de conformidad con las Leyes vigentes, tratados y convenios internacionales sobre la materia, signados por nuestro país.
+V. El establecimiento de mecanismos de enlace y coordinación con las instituciones y organismos públicos y privados, así como con las organizaciones no gubernamentales nacionales e internacionales para promover el respeto a los derechos humanos;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VI. Proponer proyectos de iniciativas, programas y demás mecanismos que contribuyan a fortalecer el respeto y salvaguarda de los derechos humanos en nuestro Estado, de conformidad con las Leyes vigentes, tratados y convenios internacionales sobre la materia, signados por nuestro país;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VII. La promoción, defensa y rescate de la herencia y derechos indígenas en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VIII. Promover iniciativas, programas y demás mecanismos que contribuyan a fortalecer el respeto a la diversidad cultural y lingüística en nuestro Estado, según las Leyes vigentes, Tratados y Convenios Internacionales sobre la materia firmados por nuestro país;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+IX. Promover el respeto a los derechos indígenas en el Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+X. Fomentar la participación de los pueblos indígenas del Estado según sus usos y costumbres, y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+XI. Analizar la eficacia de la legislación en materia de grupos vulnerables.
 
 ###### Artículo 45.
 
-A la Comisión de Derechos y Cultura Indígena, le corresponde:
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2015)
 
-I. La promoción, defensa y rescate de la herencia y derechos indígenas en el Estado;
-
-II. Promover iniciativas, programas y demás mecanismos que contribuyan a fortalecer el respeto a la diversidad cultural y lingüística en nuestro Estado, según las Leyes vigentes, Tratados y Convenios Internacionales sobre la materia firmados por nuestro país;
-
-III. Promover el respeto a los derechos indígenas en el Estado, y
-
-IV. Fomentar la participación de los pueblos indígenas del Estado según sus usos y costumbres.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 46.
 
-Corresponde a la Comisión de Juventud y Deporte:
+Corresponde a la Comisión Juventud y Deporte:
 
 I. Promover ante las instancias correspondientes, Instituciones, Organismos Públicos y Privados, Estatales o Nacionales, la práctica, fomento y aplicación de las actividades deportivas;
 
@@ -593,29 +623,55 @@ III. Apoyar a la juventud en la gestión de sus asuntos, demandas, opiniones y p
 
 IV. Proponer las medidas necesarias para la prevención y erradicación de la fármacodependencia y adicciones entre los jóvenes.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 47.
 
-Corresponde a la Comisión de Educación, Ciencia, Tecnología y Cultura:
+Corresponde a la Comisión de Educación, Cultura, Ciencia y Tecnología:
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 I. Conocer de las iniciativas que pretendan cambiar el marco educativo del Estado de Tlaxcala, procurando siempre el beneficio de la educación que se imparta en el Estado;
 
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 II. Promover la actividad cultural en el Estado;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 III. Promover y fomentar activamente la pluriculturalidad del Estado de Tlaxcala, llevando a cabo actos que inculquen el conocimiento de valores morales, culturales, científicos en beneficio de la sociedad tlaxcalteca, en todos los niveles y modalidades de la educación pública en el Estado, y
 
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2010)</small>
+
 IV. Conocer de los asuntos relativos a la Educación Pública del Estado en todos sus niveles y modalidades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 48.
 
-A la Comisión de Equidad y Género le corresponde:
+A la Comisión para la Igualdad de Género y Contra la Trata de Personas le corresponde:
 
 I. Efectuar los estudios y análisis de la legislación a efecto de propiciar la equidad e igualdad de oportunidades entre los géneros y la definición de los mecanismos para su consecución;
 
-II. Establecer mecanismos de enlace y coordinación con las Instituciones y Organismos Públicos y Privados, Nacionales e Internacionales para fomentar una conciencia de respeto y equidad de género, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
 
-III. Proponer las Leyes necesarias para la prevención y erradicación de la violencia hacia los géneros y las llamadas minorías sociológicas.
+II. Establecer mecanismos de enlace y coordinación con las instituciones y Organismos Públicos y Privados, Nacionales e Internacionales para fomentar una conciencia de respeto e igualdad de género;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+III. Proponer las leyes necesarias para la prevención y erradicación de la violencia hacia los géneros y las llamadas minorías sociológicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2015)</small>
+
+IV. Realizar el estudio y análisis necesario para la Armonización Legislativa entre las Leyes Locales y con las Leyes Federales en materia de Igualdad de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2015)</small>
+
+V. Realizar los estudios y análisis de la problemática de la trata de personas, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VI. Proponer soluciones para erradicar la trata de personas.
 
 ###### Artículo 49.
 
@@ -661,23 +717,11 @@ III. Proponer la actualización y mejoramiento de los planes de desarrollo rural
 
 ###### Artículo 51.
 
-Corresponde a la Comisión de Gestoría, Información y Quejas:
-
-I. Fungir como enlace entre la ciudadanía y la autoridad correspondiente, a fin de agilizar las demandas prioritarias de personas, grupos y organizaciones sociales; acercando con ello los actos de Gobierno a la ciudadanía y atender las quejas de los ciudadanos que no han obtenido respuesta de la autoridad estatal competente;
-
-II. Organizar con el apoyo de las autoridades federales, estatales y municipales, foros y jornadas de gestión legislativa sobre los asuntos de mayor interés ciudadano y conformar propuestas legislativas;
-
-III. Propiciar un banco de información que incida en la gestoría social e institucional para incorporarlos a la página electrónica del Congreso y promover su difusión a la ciudadanía, y
-
-IV. Propiciar reuniones de información, análisis y evaluación con las instituciones y organismos de los sectores públicos, social y privado para conocer los resultados.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2015)
 
 ###### Artículo 52.
 
-A la Comisión de Honor y Justicia, le corresponde:
-
-I. Resolver sobre las inconformidades de los diputados por las sanciones impuestas a los mismos y sugerir al Pleno la modificación de estas cuando así lo consideren procedentes, y
-
-II. Establecer las bases que regulen las relaciones de cordialidad, y mutuo respeto entre los diputados, así como entre estos y los Servidores Públicos del Poder Legislativo.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2015)
 
 ###### Artículo 53.
 
@@ -721,11 +765,7 @@ III. Conocer de las quejas que se presenten por la ciudadanía en materia de obr
 
 ###### Artículo 56.
 
-A la Comisión de Participación Ciudadana le corresponde:
-
-I. Propiciar el establecimiento de una cultura de participación ciudadana, la instalación e instrumentación de módulos de recepción de sugerencias, quejas y denuncias de los ciudadanos en los lugares que se consideren necesarios, y
-
-II. Coadyuvar, en su caso, con la autoridad competente en la consulta a la ciudadanía de acuerdo a la forma en que para tal efecto establezcan las Leyes.
+(DEROGADO, P.O. 28 DE OCTUBRE DE 2015)
 
 ###### Artículo 57.
 
@@ -809,23 +849,35 @@ I. Coadyuvar con las autoridades de salud en la implementación de programas sob
 
 II. Colaborar con los organismos públicos y privados de salud en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 60.
 
-La Comisión de Protección Civil, Seguridad Pública, Prevención y Readaptación Social conoce de los asuntos siguientes:
+La Comisión de Protección Civil, Seguridad Pública, Prevención y Reinserción Social conoce de los asuntos siguientes:
 
 I. Los convenios que se celebren entre el Gobierno del Estado y los ayuntamientos, en materia de seguridad pública y de aquél con el Gobierno Federal;
 
 II. La organización de la política de prevención delictiva, seguridad ciudadana y derechos fundamentales en el Estado;
 
-III. Las Leyes y Reglamentos que establezcan y regulen los sistemas de readaptación social, así como el funcionamiento de los cuerpos de seguridad pública, en coordinación con la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+III. Las leyes y reglamentos que establezcan y regulen los sistemas de reinserción social, así como el funcionamiento de los cuerpos de seguridad pública, en coordinación con la Comisión de Puntos Constitucionales, Gobernación y Justicia y Asuntos Políticos;
 
 IV. Formar parte de los organismos colegiados que previene el Sistema Nacional de Seguridad Pública, y
 
-V. De la orientación al público en general sobre Protección Civil y Seguridad Pública.
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2015)</small>
+
+V. Revisar y actualizar el marco jurídico relativo a la protección civil, a fin de llevar a cabo la implementación de los mecanismos necesarios para la protección y prevención de la población, ante la eventualidad de un riesgo, emergencia o desastre.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VI. De la orientación al público en general sobre protección civil y seguridad pública.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 61.
 
-A la Comisión de Trabajo y Previsión Social; le corresponde:
+A la Comisión de Trabajo, Competitividad, Seguridad Social y Previsión Social; le corresponde:
 
 I. Conocer de los pronunciamientos en materia del trabajo, y
 
@@ -1143,7 +1195,7 @@ El orden del día contendrá como mínimo los puntos relativos a la instalación
 
 El presidente se reunirá antes de cada sesión con los integrantes de la Mesa Directiva y con la Junta de Coordinación y Concertación Política para complementar, en su caso, el orden del día y para ordenar el desahogo de los asuntos en el curso de la sesión.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 111.
 
@@ -1177,7 +1229,7 @@ IV. En su oportunidad, el dictamen que emita la comisión pasará a segunda lect
 
 Las iniciativas provenientes de las comisiones en asuntos de su competencia, tendrán el carácter de dictámenes y pasarán a discusión del Pleno, una vez incluidas en el orden del día.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 116.
 
@@ -1191,7 +1243,7 @@ II. Apertura de un turno de oradores en el que harán uso de la palabra tres en 
 
 III. Inmediatamente se preguntará al Pleno si admite a discusión o desecha el proyecto. En el primer caso se turnará a la comisión que corresponda; en el segundo, el proyecto no se presentará durante ese mismo período de sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 117.
 
@@ -1325,7 +1377,7 @@ Cuando se presente dictamen aprobado por la mayoría de la comisión y el voto p
 
 Para hablar en contra se dará la preferencia al autor del voto en particular.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 133.
 
@@ -1709,7 +1761,7 @@ EL SECRETARIO DE GOBIERNO GELACIO MONTIEL FUENTES
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 7 DE ABRIL DE 2008.
 
@@ -1730,3 +1782,21 @@ Por única ocasión y para la instalación de la LX Legislatura se estará a lo 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se contrapongan a este Decreto.
+
+P.O. 28 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado. A excepción de la adición del artículo 120 de la Ley Orgánica del Poder Legislativo, la cual entrará en vigor el día treinta de diciembre del año dos mil dieciséis.
+
+###### ARTÍCULO SEGUNDO.
+
+Este poder deberá armonizar el Reglamento Interior del Congreso del Estado, en un tiempo máximo de sesenta días después de la publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Las comisiones ordinarias que se crean en virtud del presente Decreto, deberán de conformarse en un plazo máximo de noventa días después de la publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
