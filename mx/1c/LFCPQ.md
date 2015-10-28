@@ -4,7 +4,7 @@ identifier: "LFCPQ"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1997-12-26"
-last_updated: "2012-04-09"
+last_updated: "2015-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11057&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LFCPQ"
 LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CÁPSULAS, TABLETAS Y/O COMPRIMIDOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+
+ÚLTIMA ACTUALIZACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de diciembre de 1997.
 
@@ -94,7 +96,11 @@ La Procuraduría General de la República tendrá la intervención que le corres
 
 #### SECCIÓN PRIMERA. De los precursores químicos y productos químicos esenciales
 
-> <small>N. DE E. EL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS INDICADO EN EL PRESENTE ARTÍCULO FUE ACTUALIZADO MEDIANTE EL “ACUERDO POR EL QUE SE ESTABLECEN MEDIDAS DE CONTROL Y VIGILANCIA PARA EL USO DE ÁCIDO FENILACÉTICO, SUS SALES Y DERIVADOS; METILAMINA; ÁCIDO YODHÍDRICO Y FÓSFORO ROJO”, POR LO QUE SE SUGIERE CONSULTAR EL D.O.F. DE FECHAS 23 DE NOVIEMBRE DE 2009 Y 23 DE DICIEMBRE DE 2010.</small>
+NOTA 1. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. 23 DE NOVIEMBRE DE 2009, SE ADICIONA AL LISTADO DE LA CLASIFICACIÓN A QUE SE REFIERE LA FRACCIÓN I DE ESTE ARTÍCULO, LA SUBSTANCIA DENOMINADA ÁCIDO FENILACÉTICO, ASÍ COMO SUS SALES Y DERIVADOS, SUPRIMIÉNDOSE DEL LISTADO DE LA FRACCIÓN II DE ESTE ARTÍCULO. DE IGUAL FORMA, SE ADICIONA LA SUBSTANCIA DENOMINADA METILAMINAM A LA FRACCIÓN I Y SE ADICIONAN LAS SUBSTANCIAS DENOMINADAS ÁCIDO YODHÍDRICO Y FÓSFORO ROJO A LA FRACCIÓN II, POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.
+
+NOTA 2. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. 23 DE DICIEMBRE DE 2010, SE ADICIONA UN SEGUNDO PÁRRAFO AL NUMERAL CUARTO DEL “ACUERDO POR EL QUE SE ESTABLECEN MEDIDAS DE CONTROL Y VIGILANCIA PARA EL USO DE ÁCIDO FENILACÉTICO, SUS SALES Y DERIVADOS; METILAMINA; ÁCIDO YODHÍDRICO Y FÓSFORO ROJO”, EN EL CUAL SE CONTEMPLAN COMO SUSTANCIAS PSICOTRÓPICAS AL ÁCIDO FENILACÉTICO, SUS SALES Y DERIVADOS, Y A LA METILAMINA, POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.
+
+NOTA 3. DE CONFORMIDAD CON EL ACUERDO EMITIDO POR EL CONSEJO GENERAL DE SALUBRIDAD, D.O.F. FECHA 28 DE OCTUBRE DE 2015. SE ADICIONAN LAS SUBSTANCIAS NITROETANO, NITROMETANO, BENZALDEHÍDO Y CLORURO DE BENCILO A LA FRACCIÓN I DEL LISTADO DE CLASIFICACIÓN DE SUBSTANCIAS CONTROLADAS. DICHO ACUERDO ENTRA EN VIGOR A LOS 90 DÍAS NATURALES SIGUIENTES AL DÍA DE SU PUBLICACIÓN EN EL D.O.F., POR LO QUE SE SUGIERE CONSULTAR DICHA PUBLICACIÓN.
 
 ###### Artículo 4.
 
@@ -137,6 +143,8 @@ a) Acetona;
 b) Ácido antranílico;
 
 c) Ácido clorhídrico;
+
+(VÉASE D.O.F. 23 DE NOVIEMBRE DE 2009 Y 23 DE DICIEMBRE DE 2010)
 
 d) Ácido fenilacético;
 
@@ -351,3 +359,15 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 28 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE ADICIÓN AL PRESENTE ORDENAMIENTO.</small>
+
+PRIMERO. Se adicionan al listado de substancias controladas a que se refiere la fracción I, del artículo 4, de la Ley Federal para el Control de Precursores Químicos, Productos Químicos Esenciales y Máquinas para Elaborar Cápsulas, Tabletas y/o Comprimidos, las substancias denominadas Nitroetano, Nitrometano, Benzaldehído y Cloruro de Bencilo.
+
+SEGUNDO. Para los efectos de lo establecido en el artículo 245, fracción V, de la Ley General de Salud, las substancias denominadas Nitroetano, Nitrometano, Benzaldehído y Cloruro de Bencilo, se consideran psicotrópicas, que carecen de valor terapéutico y se utilizan corrientemente en la industria.
+
+## TRANSITORIO
+
+ÚNICO. El presente Acuerdo entrará en vigor a los 90 días naturales siguientes al día de su publicación en el Diario Oficial de la Federación.
