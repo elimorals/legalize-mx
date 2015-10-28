@@ -4,7 +4,7 @@ identifier: "CHP-estatuto-del-colegio-regional-de-notarios-region-centro-del-953
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-07-03"
-last_updated: "2013-07-03"
+last_updated: "2015-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,21 @@ state: "CHP"
 ---
 # ESTATUTO DEL COLEGIO REGIONAL DE NOTARIOS REGION CENTRO DEL ESTADO DE CHIAPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 28 DE OCTUBRE DE 2015 Y EL 30 DE OCTUBRE DE 2015 EN EL P.O. DEL ESTADO DE CHIAPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHAS FECHAS, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO DEL COLEGIO REGIONAL DE NOTARIOS REGIÓN CENTRO DEL ESTADO DE CHIAPAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE OCTUBRE DE 2015.</small>
 
 Estatuto publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 3 de julio de 2013.
 
 Publicación No. 136-A-2013
 
-Exposición de Motivos.
+Exposición de Motivos...
 
-Corresponde a los integrantes del Colegio Regional de Notarios Región Centro, observar y cumplir este Estatuto con responsabilidad y profesionalismo, para consolidar la mayor unidad y elevación de nuestro gremio.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+corresponde a los integrantes del Colegio de notarios de la Región Centro observar y cumplir este Estatuto con responsabilidad y profesionalismo, para consolidar la mayor unidad y elevación de nuestro gremio.
 
 Estatuto
 
@@ -53,19 +55,27 @@ V.- Consejo: El Consejo Estatal de Notarios;
 
 VI.- Dirección: La Dirección de Archivo General y Notarías del Estado;
 
-VII.- Departamento: El Departamento de Notarías de la Dirección de Archivo General y Notarías del Estado: (sic)
+VII.- Departamento: El Departamento de Notarías de la Dirección de Archivo General y Notarías del Estado:
 
-VIII.- Colegio: El Colegio Regional de Notarios Región Centro.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
 
-IX.- Mutualidad: La Mutualidad de Vida de los integrantes del Colegio Regional de Notarios Región Centro; y,
+VIII.- Colegio: el Colegio de Notarios de la Región Centro del Estado.
 
-X.- Academia: La Academia de Derecho Notarial del Colegio Regional de Notarios Región Centro.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+IX.- Mutualidad: La Mutualidad de vida de los integrantes del Colegio de la Región Centro del Estado; y
+
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+X.- Academia: La Academia de Derecho Notarial del Colegio de la Región Centro del Estado.
 
 Denominación, Objeto, Domicilio y Duración
 
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 1º.
 
-Este Estatuto reglamenta al Colegio Regional de Notarios Región Centro, cuya existencia, personalidad jurídica y patrimonio propios está prevista (sic) en el capítulo tercero del título octavo de la Ley.
+Este Estatuto reglamenta al Colegio de Notarios de la Región Centro del Estado de Chiapas, cuya existencia, personalidad jurídica y patrimonio propios está prevista en el capítulo tercero del título octavo de la Ley.
 
 ###### Artículo 2º.
 
@@ -73,7 +83,9 @@ El Colegio agrupará a los Notarios titulares y adjuntos, que tienen su adscripc
 
 I.- Defender a la Institución notarial, cuidar y estimular la vida profesional de los Notarios de la Región, y vigilar el cumplimiento de la Ley, de su Reglamento y de este Estatuto.
 
-II.- Ostentar y llevar la representación y defensa de la profesión notarial para ser parte en todos los asuntos que afecten al propio Colegio y a sus miembros, especialmente cuando estos sean atacados injustamente a juicio de la Directiva del Colegio y oyendo la opinión de la Comisión de Honor y Justicia.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+II.- ostentar, llevar la representación y defensa de la profesión notarial para ser parte en todos los asuntos que afecten al propio Colegio y a sus miembros, especialmente cuando estos sean atacados injustamente a juicio de la Directiva del Colegio y oyendo la opinión de la Comisión de Honor y Justicia.
 
 III.- Promover y difundir los valores de la profesión notarial.
 
@@ -81,7 +93,9 @@ IV.- Establecer una oficina permanente en el domicilio social, para el cumplimie
 
 V.- Establecer, organizar y promover una Mutualidad de vida, en la que participaran con carácter obligatorio los Notarios de la Región Centro y potestativamente los de distinta Región que deseen afiliarse.
 
-VI.- Promover el funcionamiento de la Academia de Derecho Notarial del Colegio, como un organismo que tiene como fines estimular la vida académica de los Notarios de la Región a través de la organización, promoción e impartición de cursos y seminarios para la permanente actualización y superación de los miembros del Colegio, organizar el acervo bibliográfico del Colegio, editar sus publicaciones y generar amplios consensos sobre los fines sociales de la práctica notarial.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VI.- Promover el funcionamiento de la Academia de Derecho Notarial del Colegio, como un organismo que tiene como fines, estimular la vida académica de los Notarios de la Región a través de la organización, promoción e impartición de cursos y seminarios para la permanente actualización y superación de los miembros del Colegio, organizar el acervo bibliográfico del Colegio, editar sus publicaciones y generar amplios consensos sobre los fines sociales de la práctica notarial.
 
 VII.- Promover la creación de una Comisión de Honor y Justicia.
 
@@ -127,11 +141,15 @@ La Mutualidad de vida estará dirigida por un Director, quien integrará con Not
 
 La Comisión de Honor y Justicia estará integrada por los últimos cinco expresidentes de la Directiva y tendrá como atribuciones las siguientes:
 
-I.- Analizar a solicitud de la Directiva sobre la actuación de los Notarios de la Región Centro que presumiblemente hayan transgredido las obligaciones gremiales que les impone este Estatuto.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+I.- Analizar a solicitud de la Directiva sobre la actuación de los Notarios de la Región Centro del Estado que presumiblemente hayan transgredido las obligaciones gremiales que les impone este Estatuto.
 
 II.- Opinar sobre los demás asuntos que le sean encomendados por la Directiva.
 
-III.- Determinar en segunda instancia sobre las sanciones que se impongan a los Notarios de esta Región; y,
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+III.- Determinar en segunda instancia sobre las sanciones que se impongan a los Notarios de esta Región; y
 
 IV.- Las demás que le señale este Estatuto.
 
@@ -185,7 +203,9 @@ V.- Vigilar que sus cuotas y patrimonio del Colegio en general se dediquen exclu
 
 VI.- Proponer al Colegio las medidas que juzgue pertinentes en beneficio de la función Notarial y del funcionamiento del Colegio.
 
-VII.- Recibir cuatrimestralmente un informe escrito o por correo electrónico de la aplicación de las cuotas y de la afectación del patrimonio del Colegio; y,
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VII.- Recibir cuatrimestralmente un informe escrito o por correo electrónico de la aplicación de las cuotas y de la afectación del Patrimonio del Colegio; y
 
 VIII.- Exigir el estricto cumplimiento de este Estatuto y de los acuerdos aprobados.
 
@@ -209,7 +229,9 @@ VI.- Procurar por el progreso académico del Colegio presentando estudios, inici
 
 VII.- No realizar actos contrarios a los fines e intereses del Colegio o de sus agremiados.
 
-VIII.- Avisar por escrito al Colegio del cambio de domicilio de su Notaría; y,
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+VIII.- Avisar por escrito al Colegio del cambio de domicilio de su notaría; y
 
 IX.- Dar aviso por escrito al Colegio del convenio de suplencia celebrado en los términos de los Artículos 58 y 59 de la Ley.
 
@@ -227,7 +249,9 @@ III.- La falta por dos o más veces consecutivas sin causa justificada a las Asa
 
 IV.- No acatar sin causa justificada los acuerdos de la Asamblea o de la Directiva.
 
-V.- No registrar ante el Colegio su sello de autorizar, su firma y ante firma, tal y como lo dispone el Artículo 48 Fracción IV de la Ley; y,
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+V.- No registrar ante el Colegio su sello de autorizar, su firma y ante firma, tal y como lo dispone el Artículo 48 Fracción IV de la Ley; y
 
 VI.- Establecer oficina de trámite o de administración, distinta a la señalada como domicilio de la Notaría.
 
@@ -281,7 +305,9 @@ III.- De fijar las cuotas ordinarias, extraordinarias y cualesquiera otras.
 
 IV.- Elegir a la Directiva.
 
-V.- En general, de tomar resoluciones sobre asuntos no reservados a las Asambleas extraordinarias.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+V.- En general, de tornar resoluciones sobre asuntos no reservados a las Asambleas extraordinarias.
 
 ###### Artículo 21.
 
@@ -297,7 +323,9 @@ III.- Cualquier otro asunto urgente a criterio de la Directiva.
 
 La convocatoria para Asamblea General ya sea Ordinaria o Extraordinaria, se enviará por correo o vía electrónica, al domicilio indicado por cada uno de los integrantes del Colegio, con la anticipación que más adelante se señala.
 
-La convocatoria deberá contener el lugar, fecha y hora de reunión así como los puntos del orden del día y la firma del Presidente y Secretario de la Directiva o de quien los supla. En el mismo aviso podrá hacerse la segunda convocatoria, señalándose al efecto día y hora para la asamblea, que podrá celebrarse el mismo día señalado en la primera convocatoria.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+La convocatoria deberá contener el lugar, fecha y hora de reunión así como los puntos del orden del día y la firma del Presidente y Secretario de la Directiva o de quien los supla. En el mismo aviso podrá hacerse la segunda convocatoria, señalándose al efecto día y hora para la asamblea, que podrá celebrarse el mismo día del señalado en la primera convocatoria.
 
 En las Asambleas no podrá tratarse ningún otro asunto que no aparezca en la convocatoria.
 
@@ -337,7 +365,9 @@ a).- De registro de patentes de Notarios;
 
 b).- De registro de sellos, firma y rúbrica de Notarios;
 
-c).- De convenios de suplencia, asociación, permutas y designación de Notarios adjuntos;
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+e (sic).- De convenios de suplencia, asociación, permutas y designación de Notarios adjuntos;
 
 d).- De actas y acuerdos; y,
 
@@ -351,7 +381,9 @@ a).- Convenio de escrituración con el organismo, dependencia o institución que
 
 b).- La Directiva del Colegio, ante la presencia de los Notarios que deseen participar, por sorteo determinará el orden en que deberán ir interviniendo en la escrituración, o bien, si se trata de plazos perentorios, determinará la entrega simultanea de expedientes a los Notarios, siempre de manera equitativa;
 
-c).- En todo caso, los expedientes serán entregados a los Notarios participantes, por la Directiva;
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+e (sic).- En todo caso, los expedientes serán entregados a los Notarios participantes, por la Directiva;
 
 d).- Los Notarios participantes informarán a la Directiva de la marcha de la escrituración y de su cumplimiento final.
 
@@ -363,7 +395,9 @@ a).- Hará un examen cuidadoso de las opciones que se ofrezcan al Colegio por pa
 
 b).- Proveerá de folios y libros en los términos de la Ley, previo pago que los Notarios hagan de los materiales que solicitan;
 
-c).- Informará al Departamento de la provisión de folios y libros que haga a los Notarios dentro de los cinco días hábiles siguientes a la entrega de los materiales.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+e (sic).- Informará al Departamento de la provisión de folios y libros que haga a los Notarios dentro de los cinco días hábiles siguientes a la entrega de los materiales.
 
 ###### Artículo 32.
 
@@ -405,7 +439,9 @@ a).- Presidir las Asambleas Generales y las sesiones de la Directiva.
 
 b).- Representar al Colegio en los actos oficiales en los que este intervenga.
 
-c).- Vigilar que se cumplan los acuerdos y resoluciones emitidas por las Asambleas y la Directiva.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+e (sic).- Vigilar que se cumplan los acuerdos y resoluciones emitidas por las Asambleas y la Directiva.
 
 d).- Autorizar, los gastos que se deriven de los programas aprobados por la Asamblea General y por la Directiva.
 
@@ -463,7 +499,9 @@ a).- Vigilar la adecuada y eficiente administración y contabilidad de los recur
 
 b).- Presentar al final de cada año el estado financiero del Colegio.
 
-c).- Proponer al Presidente las estrategias convenientes para una adecuada inversión e incremento de los recursos del Colegio.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+e (sic).- Proponer al Presidente las estrategias convenientes para una adecuada inversión e incremento de los recursos del Colegio.
 
 d).- Vigilar y exigir el oportuno cobro de las cuotas a los miembros del Colegio.
 
@@ -501,11 +539,15 @@ c).- El lunes de la cuarta semana del mes de noviembre, la Directiva dictaminar�
 
 d).- A partir de ese día hasta el treinta del mes de noviembre, será el tiempo en el que los participantes realicen su campaña, para la obtención de simpatizantes que respalden su propuesta.
 
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 40.
 
-La boleta del voto tendrá las siguientes características:
+La boleta del voto tendrá, las siguientes características:
 
-Deberá contener impreso el sello del Colegio Regional Notarios Región Centro, contener las firmas del Presidente y del Secretario de la Directiva, ser de color blanco con impresión a tinta negra y del tamaño de un cuarto de carta.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+Deberá contener impreso el sello del Colegio de Notarios de la Región Centro del Estado, contener las firmas del Presidente y del Secretario de la Directiva, ser de color blanco con impresión a tinta negra y del tamaño de un cuarto de carta.
 
 ###### Artículo 41.
 
@@ -515,7 +557,9 @@ a).- Antes de iniciar la votación el Presidente de la Directiva, deberá tener 
 
 b).- El Presidente en base a la lista antes indicada, irá nombrando uno a uno a los asistentes, quienes al escuchar su nombre pasarán al estrado a recoger la boleta de voto, y hecho lo anterior emitirán su voto depositándolo en la urna que al efecto se coloque.
 
-c).- Terminada la votación, el Presidente de la Directiva procederá a abrir la urna que contenga los votos, y los escrutadores lo contabilizaran de uno en uno manifestándose en voz alta a que candidato corresponde cada voto, siendo nulos los votos que contengan la mención de adhesión a dos o más planillas participantes; y,
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+e (sic).- Terminada la votación, el Presidente de la Directiva procederá a abrir la urna que contenga los votos, y los escrutadores lo contabilizaran de uno en uno manifestándose en voz alta a que candidato corresponde cada voto, siendo nulos los votos que contengan la mención de adhesión a dos o más planillas participantes; y,
 
 d).- Una vez terminado el recuento de los votos, el Presidente de la Directiva anunciará quien es la planilla triunfadora.
 
@@ -581,13 +625,15 @@ III.- Se cubrirá el pasivo a cargo del Colegio y se cobrará lo que a este se l
 
 ## Transitorios
 
-Primero.- El presente Estatuto entrará en vigor a partir del día siguiente de su aprobación por la Asamblea General Ordinaria de fecha 15 de enero del año 2007, por los miembros integrantes del Colegio Regional de Notarios Región Centro.
+> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 2015)</small>
+
+Primero.- El presente Estatuto entrará en vigor a partir del día siguiente de su aprobación por la Asamblea General Extraordinaria de los miembros integrantes del Colegio de Notarios de la Región Centro del Estado de Chiapas.
 
 Segundo.- Se abrogan los Estatutos aprobados en la Asamblea Extraordinaria de fecha 28 de mayo del año dos mil uno.
 
 Tercero.- La actual Directiva que fue constituida al amparo de los Estatutos que se abrogan, continuará en funciones hasta el primer lunes del mes de diciembre de 2007, fecha en que entrará en funciones la nueva directiva que se elija conforme las disposiciones del presente Estatuto.
 
-Cuarto.- Por acuerdo de la Asamblea General Extraordinaria de fecha 17 de Junio de 2013, se publica el presente Estatuto, mismo que ha estado en vigor desde la fecha de su aprobación, con la precisión de la denominación legal del Colegio Regional de Notarios Región Centro, en el Periódico Oficial del Estado para los efectos legales correspondientes.
+Cuarto. (F. DE E., P.O. 28 DE OCTUBRE DE 2015)
 
 Atentamente
 
