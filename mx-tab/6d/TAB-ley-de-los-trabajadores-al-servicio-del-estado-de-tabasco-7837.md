@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2015-07-29"
+last_updated: "2015-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -355,9 +355,11 @@ Salario es la remuneración que debe pagarse al trabajador por sus servicios pre
 
 El salario para los trabajadores será uniforme para cada una de las categorías; y se fijará en los presupuestos de egresos respectivos, de acuerdo a la capacidad económica de la Entidad Pública, sin que puedan ser disminuídos.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2015)</small>
+
 ###### ARTICULO 37.
 
-Los pagos se efectuarán en el lugar que disponga la Entidad Pública. Se harán en moneda de curso legal o por medio de cheques nominativos, en días laborables durante la jornada de trabajo.
+Los pagos se efectuarán en el lugar que disponga la entidad pública, se harán en moneda de curso legal, por medio de cheques nominativos o mediante depósitos bancarios electrónicos, previa autorización por escrito del trabajador, en días laborales durante la jornada de trabajo. La institución bancaria encargada de los depósitos electrónicos será seleccionada por la entidad pública, respetando el derecho de portabilidad de nómina de los trabajadores. Los gastos o costos que originen estos medios alternativos de pago, serán cubiertos por la entidad pública.
 
 ###### ARTICULO 38.
 
@@ -1284,3 +1286,9 @@ P.O. 29 DE JULIO DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga cualquier disposición que contravenga lo dispuesto en el presente decreto.
