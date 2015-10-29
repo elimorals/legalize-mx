@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2015-08-28"
+last_updated: "2015-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -234,8 +234,6 @@ La Secretaría, será competente para interpretar, ejercer, observar y aplicar l
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 Cuando en la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Infraestructura y Transportes del Estado de Puebla. Asimismo cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
-
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO P.O. 28 DE AGOSTO DE 2015, SE ADVIERTE QUE EL CONTENIDO DEL CUARTO PÁRRAFO QUEDA COMPRENDIDO EN LA FRACCIÓN XII DEL ARTÍCULO 6.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -895,17 +893,17 @@ a) Para automovilista. Se otorga a personas de los dieciséis a los dieciocho a�
 
 b) Para motociclista. Se otorga a personas de los dieciséis a los dieciocho años, previa presentación de la carta responsiva del padre o tutor legalmente ratificada. Así como a quienes, siendo mayores de dieciocho años, estén aprendiendo a conducir, esta licencia tendrá vigencia de seis meses;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
 
-II.- LICENCIA DE AUTOMOVILISTA.- Se otorga a los conductores de automóviles o vehículos, propios o ajenos, que hayan cumplido dieciocho años de edad. Tendrá una vigencia de tres y cinco años de acuerdo con la normatividad aplicable;
+II. LICENCIA DE AUTOMOVILISTA.- Se otorga a los conductores de automóviles o vehículos, propios o ajenos, que hayan cumplido dieciocho años de edad. Tendrá una vigencia de tres años, cinco años o permanente;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2001)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
 
-III.- LICENCIA DE MOTOCICLISTA.- Se otorga a los conductores de vehículos de dos, tres o cuatro ruedas o, derivados de los mismos y que hayan cumplido dieciocho años de edad. Tendrán una vigencia de tres y cinco años;
+III. LICENCIA DE MOTOCICLISTA.- Se otorga a los conductores de vehículos de dos, tres o cuatro ruedas o, derivados de los mismos y que hayan cumplido dieciocho años de edad. Tendrán una vigencia de tres años, cinco años o permanente;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
 
-IV.- LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares; excepto motocicletas;
+IV. LICENCIA PARA CHOFER PARTICULAR.- La requieren los conductores de toda clase de vehículos particulares; excepto motociclistas. Tendrá una vigencia de tres años, cinco años o permanente;
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -924,6 +922,10 @@ VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2007)
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2001)</small>
 
 Las licencias a que hace referencia este artículo, son de uso personal e intransferible.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+Tratándose de las licencias permanentes a que se refieren las fracciones II, III y IV de este artículo serán expedidas a través de los programas que mediante acuerdo determine el Secretario de Infraestructura y Transportes.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2014)</small>
 
@@ -2480,3 +2482,11 @@ SÉPTIMO. El Ejecutivo del Estado expedirá las modificaciones al Reglamento de 
 OCTAVO. En tanto no se realicen las reformas a que se refiere el artículo anterior, la Secretaría de Infraestructura y Transportes, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
 
 NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Ley de Ingresos del Ejercicio Fiscal que corresponda o el Acuerdo que emita la autoridad fiscal del Estado, determinará las cantidades que se cubrirán por concepto del pago de derechos por la expedición de licencias de carácter permanente a que se refieren las fracciones II, III y IV del artículo 44 de esta Ley.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
