@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2015-10-19"
+last_updated: "2015-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -37,7 +37,7 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción I y 64 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracción I, 69 fracción I, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
 
@@ -389,9 +389,7 @@ XII.- Coordinar las labores de las Dependencias de la Administración Pública E
 
 XIII.- Llevar a cabo la coordinación de los trabajos que desarrolle el Gabinete, que se consideren necesarios para apoyo de las funciones de gobierno;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-XIV.- Presidir el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública; así como coordinar, y en su caso ejecutar, la política, programas y acciones relativos a la cohesión social, a la prevención del delito y a la prevención social de la violencia y la delincuencia;
+XIV.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2015)
 
 XV.- Instrumentar, por acuerdo del Gobernador del Estado, la facultad de expropiación, por causa de utilidad pública, de conformidad con la Legislación relativa vigente;
 
@@ -479,9 +477,7 @@ XLIV.- Prestar, a través de la unidad administrativa o instancia correspondient
 
 XLV.- Recibir de las Dependencias y Entidades de la Administración Pública Estatal, la información respectiva en materia de derechos humanos, cuando así corresponda en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
-
-XLVI.- Intervenir en lo relacionado con la regulación de los servicios de Seguridad Privada prestados por personas físicas y jurídicas, en los términos de la Ley de la materia; y
+XLVI.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2015)
 
 > <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -2017,7 +2013,9 @@ IV.- Organizar, consolidar y operar el Sistema Estatal de Seguridad Pública, a 
 
 V.- Determinar y ejecutar cualquier acción o medida conducente que asegure la aplicación, coordinación y el seguimiento de las políticas públicas y acuerdos de la materia emanados por parte del Consejo Nacional de Seguridad Pública;
 
-VI.- Participar en el ámbito de su competencia, en el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+VI.- Presidir el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública; así como coordinar, y en su caso ejecutar, la política, programas y acciones relativos a la cohesión social, a la prevención del delito y a la prevención social de la violencia y la delincuencia;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -2089,9 +2087,17 @@ XXXVI.- Organizar, consolidar y operar el Sistema Estatal de Inteligencia para l
 
 XXXVII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
-XXXVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y demás disposiciones legales en materia de su competencia; y
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
 
-XXXIX.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+XXXVIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y demás disposiciones legales en materia de su competencia;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+XXXIX.- Intervenir en lo relacionado con la regulación de los servicios de Seguridad Privada prestados por personas físicas y jurídicas, en los términos de la Ley de la materia; y
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+XL.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 > <small>(DEROGADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2564,3 +2570,27 @@ P.O. 19 DE OCTUBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las Secretarías de la Contraloría y de Finanzas y Administración, coordinarán la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental relativos existentes en la Secretaría General de Gobierno, que pasarán a la Secretaría de Seguridad Pública, en un plazo que no exceda de sesenta días naturales.
+
+TERCERO. Las unidades administrativas encargadas de los asuntos que por virtud de este Decreto pasen a formar parte de la Secretaría de Seguridad Pública se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales asignados a aquellas.
+
+CUARTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar a la Secretaría de Seguridad Pública, continuarán tramitándose por dicha Dependencia a través de las unidades administrativas competentes.
+
+QUINTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Secretaría General de Gobierno, se entenderá asignado a la Secretaría de Seguridad Pública.
+
+Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad y eficiencia para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación de la Dependencia que como consecuencia de esta reforma pasan a la Secretaría de Seguridad Pública, se seguirán utilizando hasta que se agoten.
+
+SEXTO. Los derechos y obligaciones contractuales contraídos por la Secretaría General de Gobierno relacionados con este Decreto, se entenderán asignados a la Secretaría de Seguridad Pública.
+
+SÉPTIMO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+OCTAVO. El Ejecutivo del Estado realizará las modificaciones normativas que correspondan.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
+
+NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
