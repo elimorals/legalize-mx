@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-para-el-desarrollo-y-105
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-02-11"
-last_updated: "2015-02-11"
+last_updated: "2015-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105662&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-12-17"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL PARA EL DESARROLLO Y LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD, PUBLICADO EN EL D.O.F. DE 29 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de febrero de 2015.
 
@@ -690,3 +692,17 @@ CUARTO. Se elimina cualquier disposición que se oponga al contenido del present
 QUINTO. Los asuntos pendientes de resolución a la entrada en vigor de este Estatuto se seguirán substanciando por las unidades administrativas que conforme a este ordenamiento les competa.
 
 El presente Estatuto Orgánico fue aprobado por la H. Junta de Gobierno del Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, en sesión extraordinaria celebrada en la Ciudad de México, Distrito Federal, a los 17 días del mes de diciembre de dos mil catorce.- El Director General del Consejo Nacional para el Desarrollo y la Inclusión de las Personas con Discapacidad, Jesús Eduardo Toledano Landero.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Estatuto Orgánico deberá inscribirse en el Registro Público de Organismos Descentralizados en los términos del artículo 15 de la Ley Federal de las Entidades Paraestatales.
+
+TERCERO. Se abroga el Estatuto Orgánico publicado en el Diario Oficial de la Federación del 11 de febrero del 2015.
+
+CUARTO. Las unidades administrativas con denominación nueva o distinta que aparecen en el presente Estatuto y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos hasta su resolución.
+
+QUINTO. Las modificaciones a la estructura orgánica que deriven de la entrada en vigor del Estatuto Orgánico del Consejo Nacional, no implican recursos adicionales, toda vez que no hay impacto presupuestal.
