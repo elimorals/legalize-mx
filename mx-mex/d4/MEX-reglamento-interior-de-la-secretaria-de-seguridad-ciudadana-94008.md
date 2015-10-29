@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-940
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-23"
-last_updated: "2013-04-23"
+last_updated: "2015-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 29 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México el martes 23 de abril de 2013.
 
@@ -769,7 +771,7 @@ El Secretario será suplido en sus ausencias temporales hasta por 15 días hábi
 
 En ausencias definitivas del Secretario, el Gobernador del Estado nombrará al servidor público que ocupará provisionalmente el cargo hasta que se designe al nuevo titular.
 
-###### Articulo 29.
+###### Artículo 29.
 
 Los Directores Generales, Secretario Técnico, titular del Centro, titulares de Unidad, Contralor Interno, Directores de Área. Subdirectores y jefes de Departamento serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe el Secretario.
 
@@ -804,3 +806,17 @@ SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN ROJAS DÁVILA.
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE SEGURIDAD CIUDADANA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Reglamento Interior en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría de Seguridad Ciudadana, publicado en el Periódico Oficial “Gaceta del Gobierno” el 23 de abril de 2013.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a lo dispuesto en el presente Reglamento.
