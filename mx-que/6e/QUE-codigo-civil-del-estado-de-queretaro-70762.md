@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2015-05-22"
+last_updated: "2015-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -1143,9 +1143,11 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
 
-###### Artículo 150.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo o que demuestre no encontrarse en estado de gravidez. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpieron las relaciones sexuales.
+###### Articulo 150.
+
+La mujer y el hombre están en aptitud de contraer nuevo matrimonio, al día siguiente de que quede legalmente disuelto el anterior.
 
 ###### Artículo 151.
 
@@ -1887,17 +1889,13 @@ El monto de la compensación será determinado por el juez al momento de dictar 
 
 Se presume que el cónyuge que solicite la compensación, contribuyó a la formación o incremento de la masa patrimonial, salvo prueba en contrario.
 
-###### Artículo 269.
+###### Articulo 269.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2015)
 
-El cónyuge que haya dado causa de divorcio no podrá volver a casarse sino después de dos años, contados a partir que se decretó el divorcio.
+###### Articulo 270.
 
-Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
-
-###### Artículo 270.
-
-En el supuesto del segundo párrafo del artículo anterior, cuando la mujer sea el cónyuge inocente debe atenderse a lo dispuesto en el artículo 150 de este Código.
+(DEROGADO, P.O. 29 DE OCTUBRE DE 2015)
 
 ###### Artículo 271.
 
@@ -15878,6 +15876,12 @@ P.O. 22 DE MAYO DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 29 DE OCTUBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Articulo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 ###### ARTÍCULO PRIMERO.
 
