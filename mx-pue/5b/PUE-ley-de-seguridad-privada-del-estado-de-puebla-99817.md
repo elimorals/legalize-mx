@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2015-03-18"
+last_updated: "2015-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -79,7 +79,9 @@ IX. Personal Técnico: Personas físicas destinadas a desempeñar actividades di
 
 X. Prestatario: La persona física o jurídica, o ente público o privado, que recibe los servicios de seguridad privada;
 
-XI. Secretaría General de Gobierno: La Secretaría General de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+XI. Secretaría de Seguridad Pública: La Secretaría de Seguridad Pública del Estado;
 
 XII. Registro Nacional: Registro Nacional de Empresas, Personal y Equipo de Seguridad Privada;
 
@@ -93,9 +95,11 @@ XVI. Seguridad Privada: Servicio que prestan los particulares en las modalidades
 
 XVII. Servicios de Seguridad Privada: Aquéllos que son realizados por personas físicas o jurídicas, de acuerdo con las modalidades previstas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 3.
 
-La aplicación e interpretación, en el ámbito administrativo de la presente Ley, corresponde al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno y tiene los fines siguientes:
+La aplicación e interpretación, en el ámbito administrativo de la presente Ley, corresponde al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública y tiene los fines siguientes:
 
 I. La regulación y registro de los prestadores de servicios;
 
@@ -105,7 +109,9 @@ III. La regulación y el registro del personal directivo, administrativo, operat
 
 IV. El establecimiento de bases de coordinación con los tres órdenes de Gobierno y los prestatarios de servicios, para lograr en beneficio de la colectividad las mejores condiciones en materia de seguridad privada;
 
-V. La estructuración de un banco de datos, que permita la detección de factores criminógenos, a través de la observación de conductas, que el prestador de servicios ponga en conocimiento de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+V. La estructuración de un banco de datos, que permita la detección de factores criminógenos, a través de la observación de conductas, que el prestador de servicios ponga en conocimiento de la Secretaría de Seguridad Pública;
 
 VI. El establecimiento de un sistema de evaluación, certificación y verificación, de los prestadores de servicios, y de su personal directivo, administrativo, operativo y técnico, así como de la infraestructura relacionada con las actividades y servicios de seguridad privada, de conformidad con las disposiciones establecidas en la presente Ley;
 
@@ -145,13 +151,17 @@ Queda prohibido a los prestadores de servicios de seguridad privada, ejercer fun
 
 Los prestadores de servicios se regirán por las normas que esta Ley y las demás aplicables para la materia, incluyendo los principios previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-## TÍTULO SEGUNDO. DE LA SECRETARÍA GENERAL DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+## TÍTULO SEGUNDO. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 ### CAPÍTULO I. DE LAS ATRIBUCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 8.
 
-Para efectos de la presente Ley, la Secretaría General de Gobierno tendrá, entre otras, las siguientes facultades en materia de seguridad privada:
+Para efectos de la presente Ley, la Secretaría de Seguridad Pública tendrá, entre otras, las siguientes facultades en materia de seguridad privada:
 
 I. Recibir las solicitudes y emitir constancia de autorización para prestar servicios, de conformidad con los requisitos que al efecto se establezcan en la presente Ley y el Reglamento;
 
@@ -165,7 +175,9 @@ V. Mantener actualizado el padrón de prestadores de servicio y del personal dir
 
 VI. Supervisar que los prestadores del servicio cumplan con las disposiciones de esta Ley, el Reglamento y demás ordenamientos legales aplicables;
 
-VII. Implementar acuerdos con los prestadores del servicio, a fin de instrumentar los planes y programas de capacitación y adiestramiento que autorice o imparta la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+VII. Implementar acuerdos con los prestadores del servicio, a fin de instrumentar los planes y programas de capacitación y adiestramiento que autorice o imparta la Secretaría de Seguridad Pública;
 
 VIII. Establecer, operar y mantener actualizada la información que alimenta al Registro Nacional;
 
@@ -197,11 +209,13 @@ XX. Las demás que le confiere esta Ley, el Reglamento y demás ordenamientos ju
 
 El personal operativo de los prestadores de servicio sólo podrá portar armas de fuego cuando estos obtengan la licencia expedida por la autoridad competente, en términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-El prestador de servicios debidamente autorizado, podrá solicitar opinión de la Secretaría General de Gobierno sobre la justificación de la necesidad de portación de armamento, con el objeto de tramitar la licencia particular o colectiva de portación de armas de fuego ante la Secretaría de la Defensa Nacional.
+El prestador de servicios debidamente autorizado, podrá solicitar opinión de la Secretaría de Seguridad Pública sobre la justificación de la necesidad de portación de armamento, con el objeto de tramitar la licencia particular o colectiva de portación de armas de fuego ante la Secretaría de la Defensa Nacional.
 
-Cuando el prestador de servicios ya cuente con la licencia particular o colectiva para portar armas, emitida a su favor por la Secretaría de la Defensa Nacional, sólo notificará este hecho a la Secretaría General de Gobierno presentando copia certificada del permiso.
+Cuando el prestador de servicios ya cuente con la licencia particular o colectiva para portar armas, emitida a su favor por la Secretaría de la Defensa Nacional, sólo notificará este hecho a la Secretaría de Seguridad Pública presentando copia certificada del permiso.
 
 ### CAPÍTULO II. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
@@ -215,15 +229,19 @@ II. La homologación de los criterios, requisitos y obligaciones en esta materia
 
 ### CAPÍTULO III. DEL REGISTRO DE LOS PRESTADORES DE SERVICIOS, PERSONAL Y EQUIPO DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-La Secretaría General de Gobierno creará y operará un Registro Estatal de Seguridad Privada, mismo que constituirá un sistema de consulta y recopilación de información integrado por los datos suministrados por el prestador de servicios.
+La Secretaría de Seguridad Pública creará y operará un Registro Estatal de Seguridad Privada, mismo que constituirá un sistema de consulta y recopilación de información integrado por los datos suministrados por el prestador de servicios.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 13.
 
-La Secretaría General de Gobierno implementará mecanismos y procedimientos para mantener el Registro Estatal, así como para actualizar la información del Registro Nacional, de conformidad con los criterios que fije la instancia federal competente, para la supervisión, control, vigilancia y evaluación de los prestadores de servicios, su personal, armamento y equipo.
+La Secretaría de Seguridad Pública implementará mecanismos y procedimientos para mantener el Registro Estatal, así como para actualizar la información del Registro Nacional, de conformidad con los criterios que fije la instancia federal competente, para la supervisión, control, vigilancia y evaluación de los prestadores de servicios, su personal, armamento y equipo.
 
-Toda persona que preste los servicios está obligada a proporcionar para el Registro Estatal, los datos que se señalen en esta Ley y su Reglamento. La información proporcionada a la Secretaría General de Gobierno será reservada o confidencial, en su caso, en los términos de la legislación aplicable.
+Toda persona que preste los servicios está obligada a proporcionar para el Registro Estatal, los datos que se señalen en esta Ley y su Reglamento. La información proporcionada a la Secretaría de Seguridad Pública será reservada o confidencial, en su caso, en los términos de la legislación aplicable.
 
 ###### ARTÍCULO 14.
 
@@ -293,31 +311,41 @@ Para la prestación del servicio se atenderán las restricciones que señale el 
 
 ### CAPÍTULO II. DE LA AUTORIZACIÓN, REVALIDACIÓN Y MODIFICACIÓN
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 16.
 
-Para prestar servicios de seguridad privada en el Estado, se requiere autorización previa de la Secretaría General de Gobierno, para lo cual la persona física o jurídica deberá cumplir con los requisitos establecidos en la presente Ley y el Reglamento.
+Para prestar servicios de seguridad privada en el Estado, se requiere autorización previa de la Secretaría de Seguridad Pública, para lo cual la persona física o jurídica deberá cumplir con los requisitos establecidos en la presente Ley y el Reglamento.
 
-La Secretaría General de Gobierno recibirá por escrito la solicitud de autorización junto con los antecedentes y el pago de derechos previstos en la Ley de Ingresos del ejercicio fiscal que corresponda, así como los demás requisitos que establece esta Ley y su Reglamento, mismos que se tomarán en cuenta al momento de resolver lo procedente.
+La Secretaría de Seguridad Pública recibirá por escrito la solicitud de autorización junto con los antecedentes y el pago de derechos previstos en la Ley de Ingresos del ejercicio fiscal que corresponda, así como los demás requisitos que establece esta Ley y su Reglamento, mismos que se tomarán en cuenta al momento de resolver lo procedente.
 
-Una vez cubiertos todos los requisitos, la Secretaría General de Gobierno emitirá el diagnóstico correspondiente, señalando si es procedente otorgar la autorización solicitada. El solicitante contará con un término de noventa días hábiles para exhibir ante la Secretaría General de Gobierno el original del pago de derechos de la cédula que acredite la autorización otorgada para la prestación de servicios de seguridad privada, que contenga la Ley de Ingresos del Estado del ejercicio fiscal correspondiente; en caso de no presentar oportunamente el pago de derechos en el término establecido, la Secretaría General de Gobierno hará constar esa circunstancia y ordenará archivar el expediente.
+Una vez cubiertos todos los requisitos, la Secretaría de Seguridad Pública emitirá el diagnóstico correspondiente, señalando si es procedente otorgar la autorización solicitada. El solicitante contará con un término de noventa días hábiles para exhibir ante la Secretaría de Seguridad Pública el original del pago de derechos de la cédula que acredite la autorización otorgada para la prestación de servicios de seguridad privada, que contenga la Ley de Ingresos del Estado del ejercicio fiscal correspondiente; en caso de no presentar oportunamente el pago de derechos en el término establecido, la Secretaría de Seguridad Pública hará constar esa circunstancia y ordenará archivar el expediente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 17.
 
-La autorización que se otorgue mediante resolución emitida por la Secretaría General de Gobierno, será personal e intransferible, contendrá el número de autorización, modalidades que se autorizan y condiciones a que se sujeta la prestación de los servicios de seguridad privada.
+La autorización que se otorgue mediante resolución emitida por la Secretaría de Seguridad Pública, será personal e intransferible, contendrá el número de autorización, modalidades que se autorizan y condiciones a que se sujeta la prestación de los servicios de seguridad privada.
 
 La vigencia será de un año a partir de la fecha de autorización y para ello se expedirá la respectiva constancia.
 
-Queda prohibido prestar servicios de seguridad privada dentro del Estado, si previamente no se obtiene la autorización correspondiente expedida por la Secretaría General de Gobierno, independientemente de haber obtenido autorización previa de la Federación.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+Queda prohibido prestar servicios de seguridad privada dentro del Estado, si previamente no se obtiene la autorización correspondiente expedida por la Secretaría de Seguridad Pública, independientemente de haber obtenido autorización previa de la Federación.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 18.
 
-Si el peticionario de la autorización no acompaña a su solicitud los requisitos señalados en la presente Ley y el Reglamento, la Secretaría General de Gobierno dentro de los diez días hábiles siguientes a la presentación de la misma, prevendrá al interesado para que en un plazo improrrogable de veinte días hábiles, subsane las omisiones o deficiencias que en su caso presente la solicitud; transcurrido dicho plazo sin que el interesado haya subsanado las omisiones o deficiencias de la solicitud, ésta se desechará de plano.
+Si el peticionario de la autorización no acompaña a su solicitud los requisitos señalados en la presente Ley y el Reglamento, la Secretaría de Seguridad Pública dentro de los diez días hábiles siguientes a la presentación de la misma, prevendrá al interesado para que en un plazo improrrogable de veinte días hábiles, subsane las omisiones o deficiencias que en su caso presente la solicitud; transcurrido dicho plazo sin que el interesado haya subsanado las omisiones o deficiencias de la solicitud, ésta se desechará de plano.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-Para revalidar la autorización otorgada, el prestador de servicios deberá, por lo menos treinta días hábiles previos al vencimiento de la vigencia de la autorización o de la última revalidación, solicitarlo por escrito, previo pago de derechos que contenga la Ley de Ingresos del Estado del ejercicio fiscal correspondiente a la Secretaría General de Gobierno, manifestando, bajo protesta de decir verdad, no haber variado las condiciones existentes al momento de haber sido otorgada o revalidada, o bien, deberá actualizar la documentación que así lo amerite, tal como los inventarios, movimientos de personal y demás que, conforme a lo previsto en la Ley y el Reglamento y previa revisión de su expediente, determine la Secretaría General de Gobierno.
+Para revalidar la autorización otorgada, el prestador de servicios deberá, por lo menos treinta días hábiles previos al vencimiento de la vigencia de la autorización o de la última revalidación, solicitarlo por escrito, previo pago de derechos que contenga la Ley de Ingresos del Estado del ejercicio fiscal correspondiente a la Secretaría de Seguridad Pública, manifestando, bajo protesta de decir verdad, no haber variado las condiciones existentes al momento de haber sido otorgada o revalidada, o bien, deberá actualizar la documentación que así lo amerite, tal como los inventarios, movimientos de personal y demás que, conforme a lo previsto en la Ley y el Reglamento y previa revisión de su expediente, determine la Secretaría de Seguridad Pública.
 
-Una vez que se hayan cubierto los requisitos necesarios, la Secretaría General de Gobierno analizará la solicitud, y en un término de quince días hábiles contados a partir del día siguiente en que se reciba la misma, determinará la procedencia o no de otorgar la revalidación de la autorización para la prestación de servicios, mediante resolución debidamente fundada y motivada. De ser procedente la revalidación, el prestador de servicios deberá realizar el pago de los derechos previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, y exhibir el original de su recibo de pago para que la Secretaría General de Gobierno le expida la revalidación, que tendrá un año de vigencia contado a partir del día siguiente a aquel en que concluyó la vigencia del permiso o revalidación anterior.
+Una vez que se hayan cubierto los requisitos necesarios, la Secretaría de Seguridad Pública analizará la solicitud, y en un término de quince días hábiles contados a partir del día siguiente en que se reciba la misma, determinará la procedencia o no de otorgar la revalidación de la autorización para la prestación de servicios, mediante resolución debidamente fundada y motivada. De ser procedente la revalidación, el prestador de servicios deberá realizar el pago de los derechos previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, y exhibir el original de su recibo de pago para que la Secretaría de Seguridad Pública le expida la revalidación, que tendrá un año de vigencia contado a partir del día siguiente a aquel en que concluyó la vigencia del permiso o revalidación anterior.
 
 ###### ARTÍCULO 20.
 
@@ -329,11 +357,13 @@ La revalidación podrá negarse por el incumplimiento a las obligaciones y restr
 
 Se notificará al prestador de servicios la resolución en la que se admita o niegue la revalidación. En este último caso, se le hará saber las causas o circunstancias por las que se haya negado la revalidación.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 22.
 
-Los prestadores de servicios que hayan obtenido la autorización o revalidación, podrán solicitar por escrito a la Secretaría General de Gobierno, previo pago de derechos que contenga la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, la modificación de las modalidades en que se presta el servicio, para ampliarlas o reducirlas, cumpliendo con los requisitos que resulten aplicables de acuerdo con esta Ley y el Reglamento.
+Los prestadores de servicios que hayan obtenido la autorización o revalidación, podrán solicitar por escrito a la Secretaría de Seguridad Pública, previo pago de derechos que contenga la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, la modificación de las modalidades en que se presta el servicio, para ampliarlas o reducirlas, cumpliendo con los requisitos que resulten aplicables de acuerdo con esta Ley y el Reglamento.
 
-Recibida la solicitud, la Secretaría General de Gobierno la analizará y en un término de quince días hábiles, contados a partir del día siguiente en que se reciba la misma, determinará la procedencia o no de la modificación de las modalidades en que se presta el servicio, mediante resolución debidamente fundada y motivada.
+Recibida la solicitud, la Secretaría de Seguridad Pública la analizará y en un término de quince días hábiles, contados a partir del día siguiente en que se reciba la misma, determinará la procedencia o no de la modificación de las modalidades en que se presta el servicio, mediante resolución debidamente fundada y motivada.
 
 ###### ARTÍCULO 23.
 
@@ -345,9 +375,11 @@ El pago de derechos por las solicitudes de autorización, revalidación o modifi
 
 En caso de no integrarse los requisitos para el diagnóstico correspondiente, se hará constar esa circunstancia y se ordenará archivar el expediente, quedando a salvo los derechos del solicitante para que inicie el trámite de nueva cuenta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-El prestador de servicios solicitará a la Secretaría General de Gobierno su opinión para que el personal operativo con Clave Única de Identificación Permanente, pueda portar armas de fuego en el desempeño de sus funciones, como requisito previo a efecto de obtener de la Secretaría de la Defensa Nacional la licencia particular o colectiva para la portación de armas de fuego.
+El prestador de servicios solicitará a la Secretaría de Seguridad Pública su opinión para que el personal operativo con Clave Única de Identificación Permanente, pueda portar armas de fuego en el desempeño de sus funciones, como requisito previo a efecto de obtener de la Secretaría de la Defensa Nacional la licencia particular o colectiva para la portación de armas de fuego.
 
 La portación de armas de fuego por parte del personal operativo quedará sujeta a lo establecido por la Ley Federal de Armas de Fuego y Explosivos y demás disposiciones aplicables.
 
@@ -357,7 +389,9 @@ La portación de armas de fuego por parte del personal operativo quedará sujeta
 
 Para obtener autorización para prestar servicios de seguridad privada en el Estado, los interesados deberán cumplir con los siguientes requisitos:
 
-I. Presentar solicitud por escrito ante la Secretaría General de Gobierno, señalando la o las modalidades en que pretendan prestar el servicio;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+I. Presentar solicitud por escrito ante la Secretaría de Seguridad Pública, señalando la o las modalidades en que pretendan prestar el servicio;
 
 II. Presentar una exposición de motivos para la prestación del servicio de seguridad privada;
 
@@ -397,7 +431,9 @@ XIV. Presentar el logotipo en impresión a color y digital, y el lema si lo hubi
 
 XV. Impresiones fotográficas actuales a color y digital del uniforme a utilizar, en las que se aprecien sus cuatro vistas, conteniendo colores, logotipos o emblemas, mismos que no podrán ser iguales o similares a los utilizados por las corporaciones policiales o fuerzas armadas o por otras prestadoras de servicios;
 
-XVI. Relación de bienes muebles e inmuebles que se utilicen para la prestación del servicio, incluido el de radiocomunicación, vehículos y equipo en general, así como los aditamentos complementarios al uniforme, en los formatos que para tal efecto establezca la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+XVI. Relación de bienes muebles e inmuebles que se utilicen para la prestación del servicio, incluido el de radiocomunicación, vehículos y equipo en general, así como los aditamentos complementarios al uniforme, en los formatos que para tal efecto establezca la Secretaría de Seguridad Pública;
 
 XVII. En caso de contar con registro de licencia de uso de armas de fuego, la relación de éstas en la que se exprese marca, calibre, modelo, matrícula y asignación respectiva, acompañando la licencia vigente autorizada por la Secretaría de la Defensa Nacional para la portación de armas;
 
@@ -477,9 +513,11 @@ Si el prestador de servicios cuenta con un capacitador externo o interno autoriz
 
 La capacitación que se imparta será acorde a las modalidades en que se autorice el servicio, y tendrá como fin que los elementos se conduzcan bajo los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaría General de Gobierno podrá concertar acuerdos con los prestadores de servicios para la instrumentación y modificación de capacitación y adiestramiento.
+La Secretaría de Seguridad Pública podrá concertar acuerdos con los prestadores de servicios para la instrumentación y modificación de capacitación y adiestramiento.
 
 ## TÍTULO CUARTO. DE LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS DE SEGURIDAD PRIVADA
 
@@ -493,15 +531,21 @@ I. Prestar los servicios de seguridad privada en los términos y condiciones est
 
 II. Dar aviso por escrito de las modificaciones que se realicen del objeto social, de sus estatutos o cualquier cambio de accionistas, socios o asociados, remitiendo copia certificada ante fedatario público, en un término de veinte días naturales a partir de la modificación;
 
-III. Informar por escrito, en un plazo no mayor de los primeros cinco días hábiles de cada mes, las bajas del personal ocurridas en el mes anterior, o cuando sea requerida esta información por la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+III. Informar por escrito, en un plazo no mayor de los primeros cinco días hábiles de cada mes, las bajas del personal ocurridas en el mes anterior, o cuando sea requerida esta información por la Secretaría de Seguridad Pública;
 
 IV. Abstenerse de prestar los servicios de seguridad privada sin contar con la revalidación correspondiente;
 
-V. Proponer a las personas candidatas a pertenecer a la prestadora de servicios, adjuntando los documentos correspondientes para acreditar los requisitos de ingreso a que se refiere esta Ley y el Reglamento; una vez que se obtenga el visto bueno por parte de la Secretaría General de Gobierno para la contratación del personal, el prestador de servicios deberá presentar, dentro de los cinco días hábiles siguientes a la aprobación, el comprobante de pago de derechos respectivo del ejercicio fiscal que corresponda;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+V. Proponer a las personas candidatas a pertenecer a la prestadora de servicios, adjuntando los documentos correspondientes para acreditar los requisitos de ingreso a que se refiere esta Ley y el Reglamento; una vez que se obtenga el visto bueno por parte de la Secretaría de Seguridad Pública para la contratación del personal, el prestador de servicios deberá presentar, dentro de los cinco días hábiles siguientes a la aprobación, el comprobante de pago de derechos respectivo del ejercicio fiscal que corresponda;
 
 VI. La actualización de la relación del nuevo personal o comando canino que se pretenda incorporar a la empresa, acompañando la documentación que se requiera para tal efecto;
 
-VII. Utilizar únicamente los vehículos, armamento, radiocomunicación y demás equipo registrado ante la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+VII. Utilizar únicamente los vehículos, armamento, radiocomunicación y demás equipo registrado ante la Secretaría de Seguridad Pública;
 
 VIII. Informar sobre el cambio de domicilio fiscal de la matriz, así como el de las sucursales, adjuntando copia certificada ante fedatario público del aviso dado ante la Secretaría de Hacienda y Crédito Público;
 
@@ -545,9 +589,11 @@ XXVI. Las demás que establezca la Ley y el Reglamento.
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 31.
 
-La Secretaría General de Gobierno podrá ordenar en cualquier momento la práctica de visitas de verificación, y los prestadores de servicios estarán obligados a permitir el acceso y proporcionar las facilidades, documentos e informes que los supervisores requieran para el desempeño de sus funciones.
+La Secretaría de Seguridad Pública podrá ordenar en cualquier momento la práctica de visitas de verificación, y los prestadores de servicios estarán obligados a permitir el acceso y proporcionar las facilidades, documentos e informes que los supervisores requieran para el desempeño de sus funciones.
 
 La visita de verificación deberá iniciarse mediante acuerdo o resolución debidamente fundada y motivada.
 
@@ -579,11 +625,15 @@ V. Realizar cualquier otra conducta que los ubique como sujetos prestadores de l
 
 ### CAPÍTULO I. DE LAS MEDIDAS DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría General de Gobierno, de conformidad con las disposiciones de la presente Ley y el Reglamento, y con el fin de salvaguardar a las personas, sus bienes, entorno, así como para proteger la salud y seguridad pública, podrá adoptar como medida de seguridad, la suspensión parcial o total de las actividades de prestación de servicios de seguridad privada.
+La Secretaría de Seguridad Pública, de conformidad con las disposiciones de la presente Ley y el Reglamento, y con el fin de salvaguardar a las personas, sus bienes, entorno, así como para proteger la salud y seguridad pública, podrá adoptar como medida de seguridad, la suspensión parcial o total de las actividades de prestación de servicios de seguridad privada.
 
-En cualquiera de los supuestos mencionados, la Secretaría General de Gobierno podrá ordenar la medida y su ejecución de inmediato:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+En cualquiera de los supuestos mencionados, la Secretaría de Seguridad Pública podrá ordenar la medida y su ejecución de inmediato:
 
 I. A través del auxilio de la fuerza pública, y
 
@@ -593,9 +643,11 @@ Asimismo, se podrá promover se ordene la inmovilización y aseguramiento precau
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 36.
 
-Las resoluciones de la Secretaría General de Gobierno que apliquen sanciones administrativas, deberán estar debidamente fundadas y motivadas, tomando en consideración:
+Las resoluciones de la Secretaría de Seguridad Pública que apliquen sanciones administrativas, deberán estar debidamente fundadas y motivadas, tomando en consideración:
 
 I. La gravedad de la infracción en que se incurre y la conveniencia de suprimir prácticas que infrinjan en cualquier forma, las disposiciones de esta Ley y el Reglamento o las que se dicten con base en estos ordenamientos legales;
 
@@ -613,7 +665,9 @@ La imposición de las sanciones por incumplimiento de las disposiciones contenid
 
 El incumplimiento de los prestadores de servicios a las obligaciones establecidas en esta Ley o el Reglamento, dará origen a la imposición de una o más de las siguientes sanciones:
 
-I. Amonestación pública, con difusión en la página de Internet de la Secretaría General de Gobierno;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+I. Amonestación pública, con difusión en la página de Internet de la Secretaría de Seguridad Pública;
 
 II. Multa de quinientas hasta cinco mil veces el salario mínimo general vigente en el Estado;
 
@@ -623,9 +677,13 @@ IV. Clausura del establecimiento donde el prestador de servicios tenga su domici
 
 V. Revocación de la autorización.
 
-La Secretaría General de Gobierno, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
-La sanción o sanciones impuestas se harán públicas en la página de Internet de la Secretaría General de Gobierno.
+La Secretaría de Seguridad Pública, en su caso, podrá imponer simultáneamente una o más de las sanciones administrativas señaladas en las fracciones anteriores.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
+La sanción o sanciones impuestas se harán públicas en la página de Internet de la Secretaría de Seguridad Pública.
 
 La aplicación de las sanciones establecidas en este artículo, se impondrán con base al procedimiento administrativo que para tal efecto disponga el Reglamento.
 
@@ -633,13 +691,17 @@ La aplicación de las sanciones establecidas en este artículo, se impondrán co
 
 La imposición y cumplimiento de las sanciones no eximirá a los prestadores de servicios de la obligación de corregir las omisiones o irregularidades administrativas en las que haya incurrido.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2015)</small>
+
 ###### ARTÍCULO 40.
 
-La Secretaría General de Gobierno, para el mejor desarrollo de sus funciones de verificación de los servicios de seguridad privada, podrá suscribir convenios con personas físicas, jurídicas, públicas o privadas.
+La Secretaría de Seguridad Pública, para el mejor desarrollo de sus funciones de verificación de los servicios de seguridad privada, podrá suscribir convenios con personas físicas, jurídicas, públicas o privadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 41.
 
-Las multas que imponga la Secretaría General de Gobierno, deberán pagarse en la Secretaría de Finanzas y Administración del Gobierno del Estado, a través de las instituciones bancarias o establecimientos que la misma autorice para tal fin, dentro de los diez días siguientes al de su notificación.
+Las multas que imponga la Secretaría de Seguridad Pública, deberán pagarse en la Secretaría de Finanzas y Administración del Gobierno del Estado, a través de las instituciones bancarias o establecimientos que la misma autorice para tal fin, dentro de los diez días siguientes al de su notificación.
 
 De no realizarse el pago, una vez que hayan quedado firmes las multas, serán consideradas créditos fiscales a favor del erario estatal, las cuales se cobrarán por la Secretaría de Finanzas y Administración del Gobierno del Estado, a través del Procedimiento Administrativo de Ejecución, en términos del Código Fiscal para el Estado.
 
@@ -754,3 +816,27 @@ P.O. 18 DE MARZO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las Secretarías de la Contraloría y de Finanzas y Administración, coordinarán la transferencia de los recursos humanos, materiales y financieros, así como del acervo documental relativos existentes en la Secretaría General de Gobierno, que pasarán a la Secretaría de Seguridad Pública, en un plazo que no exceda de sesenta días naturales.
+
+TERCERO. Las unidades administrativas encargadas de los asuntos que por virtud de este Decreto pasen a formar parte de la Secretaría de Seguridad Pública se transferirán incluyendo los recursos humanos que sean necesarios, así como los financieros y materiales asignados a aquellas.
+
+CUARTO. Los asuntos en trámite, así como los juicios, recursos y procedimientos que con motivo de la entrada en vigor de este Decreto deban pasar a la Secretaría de Seguridad Pública, continuarán tramitándose por dicha Dependencia a través de las unidades administrativas competentes.
+
+QUINTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Secretaría General de Gobierno, se entenderá asignado a la Secretaría de Seguridad Pública.
+
+Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad y eficiencia para el ejercicio del gasto, las formas oficiales, formatos y demás papelería existentes en los que conste la denominación de la Dependencia que como consecuencia de esta reforma pasan a la Secretaría de Seguridad Pública, se seguirán utilizando hasta que se agoten.
+
+SEXTO. Los derechos y obligaciones contractuales contraídos por la Secretaría General de Gobierno relacionados con este Decreto, se entenderán asignados a la Secretaría de Seguridad Pública.
+
+SÉPTIMO. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto pasen de una Dependencia a otra, se respetarán en términos de las disposiciones legales aplicables.
+
+OCTAVO. El Ejecutivo del Estado realizará las modificaciones normativas que correspondan.
+
+En tanto no se realicen las reformas a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
+
+NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
