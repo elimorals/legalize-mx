@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-09-03"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1607,13 +1607,13 @@ La Comisión De Participación Ciudadana a que se refiere el artículo 69 de est
 
 Las organizaciones sociales a que se refiere el artículo anterior se integrarán con los habitantes del municipio, por designación de ellos mismos, y sus actividades serán transitorias o permanentes, conforme al programa o proyecto de interés común en el que acuerden participar.
 
-> <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 30 DE OCTUBRE DE 2015)</small>
 
-En los municipios con población indígena, en el mes de noviembre del año de la elección de los ayuntamientos, el cabildo emitirá una convocatoria con la finalidad de invitar a las comunidades indígenas a elegir, de acuerdo con su sistema de normas internas, procedimientos, tradiciones, usos y costumbres, un representante ante el Ayuntamiento, dicha voluntad será plasmada en un acta.
+En los municipios con población indígena, el cabildo emitirá una convocatoria con la finalidad de invitar a las comunidades indígenas a elegir, de acuerdo con su sistema de normas internas, procedimientos, tradiciones, usos y costumbres, un representante ante el Ayuntamiento, dicha voluntad será plasmada en un acta. La convocatoria deberá expedirse entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del ayuntamiento, en la forma y términos que éste determine y aprobada por el Cabildo; tendrá que publicarse, con su respectiva traducción, en los lugares más visibles y concurridos por los indígenas.
 
-> <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 30 DE OCTUBRE DE 2015)</small>
 
-Tal representación deberá ser reconocida por el Ayuntamiento electo a más tardar en la segunda sesión de cabildo.
+Tal representación deberá ser reconocida por el Ayuntamiento electo a más tardar el 15 de abril del año que corresponda.
 
 > <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
 
@@ -4308,3 +4308,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 30 DE OCTUBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
