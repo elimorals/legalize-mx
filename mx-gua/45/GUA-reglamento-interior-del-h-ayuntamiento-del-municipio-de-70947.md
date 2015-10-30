@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-h-ayuntamiento-del-municipio-de-70947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-23"
-last_updated: "2009-10-23"
+last_updated: "2015-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE CORTAZAR, GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 23 de octubre de 2009.
 
@@ -105,7 +105,9 @@ Una vez concluida la sesión de instalación, el Ayuntamiento entrante proceder�
 
 I. Nombrar al Secretario del Ayuntamiento, Tesorero y demás titulares de las dependencias y entidades de la administración pública municipal a propuesta del Presidente Municipal;
 
-II. Nombrar al titular de la Contraloría Municipal, a propuesta de la primera minoría a través de una terna;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+II.- Nombrar al Encargado de Despacho de la Contraloría Municipal, quien durara en la función hasta en tanto se presenta una terna formulada por el Presidente Municipal;
 
 III. Aprobar la conformación de las comisiones a que se refiera este reglamento; y
 
@@ -279,9 +281,87 @@ III. Dar a conocer a las dependencias del gobierno municipal los acuerdos tomado
 
 IV. Coordinar los Consejos de carácter municipal.
 
-#### Sección Segunda. De los Delegados Municipales
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-#### Sección Primera. De las Sesiones
+#### Sección Tercera (SIC). Del Contralor Municipal
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 BIS.- La Contraloría Municipal tiene a su cargo el control interno, evaluación de la gestión municipal y desarrollo administrativo, que tendrán como finalidad el contribuir al adecuado desarrollo de la administración municipal.
+
+El Titular de la Contraloría Municipal será nombrado por el Honorable Ayuntamiento a propuesta en terna formulada por el Presidente Municipal.
+
+El Presidente Municipal para formular su propuesta deberá consultar públicamente a la ciudadanía y a la sociedad civil organizada, y de las propuestas que formulen los ciudadanos integrará la terna que habrá de presentar al Honorable Ayuntamiento.
+
+Para ser Titular de la Contraloría Municipal, se deben reunir los siguientes requisitos:
+
+I. Ser ciudadano Guanajuatense, en ejercicio de sus derechos civiles y políticos, con una residencia efectiva de dos años en el municipio de Cortazar y no haber sido condenado ejecutoriamente por delito grave del orden común;
+
+II. Contar con título profesional legalmente expedido en las áreas contables, jurídicas o administrativas y un mínimo de tres años de ejercicio profesional;
+
+III. Ser de reconocida honradez;
+
+IV. No haber sido dirigente de partido político ni candidato durante la elección del H. Ayuntamiento en funciones; y
+
+V. No haber sido integrante del H. Ayuntamiento saliente.
+
+La documentación de los aspirantes deberá presentarse en términos que establezca la propia convocatoria para la propuesta de terna y posterior designación de Contralor Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 TER.- El mecanismo de consulta para que el Presidente Municipal formule su propuesta en terna para la designación de la persona que será titular de la contraloría municipal estará a cargo del presidente municipal y de la comisión de contraloría, y consistirá en:
+
+I. Expedición, publicación y difusión de la Convocatoria;
+
+II. Recepción y registro de propuestas; y
+
+III. Verificación (sic) que las personas propuestas cumplan con los requisitos establecidos en el artículo 138 de la Ley Orgánica Municipal para el Estado de Guanajuato, así como los establecidos en éste Reglamento para ser titular de la Contraloría Municipal.
+
+IV. Entrevista de las personas propuestas que cumplan con lo establecido en la fracción que antecede, realizada por el Presidente Municipal para la integración de la Terna que presentará al Honorable Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 QUATER.- La Convocatoria será expedida por el Presidente Municipal y el Presidente de la Comisión de Contraloría dentro de los quince días hábiles siguientes a la instalación del H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 QUINQUIES.- La Convocatoria estará dirigida a la ciudadanía y a la sociedad civil organizada, a efecto de que presenten sus propuestas, y deberá contener lo siguiente:
+
+I. Fundamentación y Motivación;
+
+II. Objeto de la Convocatoria;
+
+III. Requisitos que deben cumplir las personas propuestas;
+
+IV. Documentos con que se acreditará el cumplimiento de los requisitos;
+
+V. Fecha, lugar y horario de recepción de propuestas;
+
+VI. Fecha y lugar de expedición.
+
+La convocatoria deberá publicarse en el Periódico Oficial del Gobierno del Estado, en un diario de circulación en el municipio de Cortazar, Guanajuato y en el Tablero de Avisos de la Presidencia Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 SEXIES.- Concluido el plazo para la recepción de las propuestas, dentro de los cuatro días hábiles siguientes, se reunirá el Presidente Municipal y la Comisión de Contraloría a efecto de determinar cuáles del total de propuestas recibidas acreditan los requisitos señalados por la Ley Orgánica Municipal y éste Reglamento para ser titular de la Contraloría Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 SEPTIES.- A los aspirantes que hayan acreditado el cumplimiento de los requisitos, el Presidente Municipal les realizará una entrevista que le permita seleccionar quiénes integrarán la terna, que habrá de presentar al Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 OCTIES.-. El Presidente Municipal, después de haber realizado las entrevistas a los aspirantes, dentro de un plazo de dos días hábiles procederá a integrar la terna de aspirantes de entre las propuestas que reúnan los requisitos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 20 NONIES.- Cumplido el plazo señalado en el artículo que precede, el Presidente Municipal convocará a Sesión de Ayuntamiento para presentar la integración de la terna de aspirantes al cargo de Titular de Contralor Municipal.
+
+De la propuesta en terna de aspirantes formulada por el Presidente Municipal, el H. Ayuntamiento nombrará como titular de la contraloría municipal a quien obtenga mayoría calificada. Si ninguna de las personas que integren la terna obtiene la mayoría calificada, se repetirá la votación entre las dos que hayan obtenido el mayor número de votos y de entre ellas, será nombrada como Titular de la Contraloría Municipal la que obtenga la mayoría simple.
+
+El H. Ayuntamiento deberá nombrar a la persona titular de la contraloría municipal a más tardar el quince de noviembre del año de inicio de la Administración Pública Municipal, hasta en tanto podrá designar a quien se haga cargo de la contraloría.
+
+#### Sección Segunda. De los Delegados Municipales
 
 ###### ARTÍCULO 21.
 
@@ -341,7 +421,7 @@ VII. Las demás que le señalen la Ley u otras Leyes, Reglamentos, Bandos Munici
 
 ### CAPITULO CUARTO. Del Funcionamiento del H. Ayuntamiento
 
-#### Sección Segunda. De la Revocación de los Acuerdos
+#### Sección Primera. De las Sesiones
 
 ###### ARTÍCULO 26.
 
@@ -447,7 +527,7 @@ Los titulares de las dependencias y entidades de la Administración Municipal, d
 
 El Ayuntamiento celebrará sesiones con el fin de dictaminar los informes y tomar las medidas pertinentes.
 
-#### Sección Tercera. De la Facultad Reglamentaria
+#### Sección Segunda. De la Revocación de los Acuerdos
 
 ###### ARTÍCULO 43.
 
@@ -469,7 +549,7 @@ La revocación o modificación de acuerdos del Ayuntamiento, solo se hará a pet
 
 El acuerdo de revocación o modificación emitido por el Ayuntamiento deberá notificarse a los interesados en el domicilio que hayan señalado para tal efecto o a falta de este, por medio del tablero de avisos de la Presidencia Municipal para que en el término de tres días manifiesten lo que a su interés convenga.
 
-#### Sección Cuarta. De las Inasistencias
+#### Sección Tercera. De la Facultad Reglamentaria
 
 ###### ARTÍCULO 46.
 
@@ -478,6 +558,8 @@ Corresponde a cualquier integrante del Ayuntamiento proponer, y al Ayuntamiento 
 ###### ARTÍCULO 47.
 
 La normatividad municipal a que se refiere el artículo anterior, deberá publicarse en el Periódico Oficial del Gobierno del Estado para los efectos legales correspondientes.
+
+#### Sección Cuarta. De las Inasistencias
 
 ###### ARTÍCULO 48.
 
@@ -576,3 +658,11 @@ PRESIDENTE MUNICIPAL
 LIC. SANDRA MEDRANO MERCADO
 
 SECRETARIA DEL H. AYUNTAMIENTO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MUNICIPAL, MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE CORTAZAR, GTO”.]
+
+Único. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado de Guanajuato.
