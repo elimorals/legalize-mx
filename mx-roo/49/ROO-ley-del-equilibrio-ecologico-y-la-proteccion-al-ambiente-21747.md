@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-21747"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2001-06-29"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE QUINTANA ROO
+LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial, el 29 de junio de 2001.
 
@@ -49,7 +49,9 @@ LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE QUINTANA 
 
 La presente Ley es de orden público e interés social y tiene por objeto propiciar el desarrollo sustentable, y regular las acciones tendentes a la preservación y restauración del equilibrio ecológico, así como las de protección del ambiente del Estado de Quintana Roo, de acuerdo a las siguientes bases:
 
-I.- Garantizar el derecho de toda persona, dentro del territorio del Estado de Quintana Roo, a vivir en un ambiente adecuado para su desarrollo, salud y bienestar, y establecer las acciones necesarias para exigir y conservar tal derecho;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+I.- Garantizar el derecho de toda persona, dentro del territorio del Estado de Quintana Roo, a vivir en un ambiente sano para su desarrollo, salud y bienestar, y establecer las acciones necesarias para exigir y conservar tal derecho;
 
 II.- Establecer las competencias y atribuciones que corresponden al Estado y Municipios en materia ambiental, conforme a los principios de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo, la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás disposiciones legales aplicables;
 
@@ -69,9 +71,41 @@ IX.- Regular y vigilar los sistemas de recolección, transporte, almacenamiento,
 
 X.- Regular el aprovechamiento y protección de los acahuales;
 
-XI.- Establecer medidas de control y de seguridad para garantizar el cumplimiento y aplicación de esta ley y de las disposiciones que de ella se derivan, así como la imposición de sanciones administrativas que correspondan, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XII.- Establecer los mecanismos de coordinación, promoción y concertación entre autoridades estatales y municipales, entre éstas y los sectores social y privado, así como con personas y grupos sociales, en materia ambiental.
+XI.- Establecer medidas de control y de seguridad para garantizar el cumplimiento y aplicación de esta Ley y de las disposiciones que de ella se derivan, así como la imposición de sanciones administrativas que correspondan;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XII.- Establecer los mecanismos de coordinación, promoción y concertación entre autoridades estatales y municipales, entre éstas y los sectores social y privado, así como con personas y grupos sociales, en materia ambiental;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIII.- La promoción de la participación social, la educación y cultura ambiental para el uso sustentable de los recursos naturales en el ámbito estatal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIV.- La evaluación del impacto y riesgo ambiental de las obras o actividades que se pretendan realizar y no sean competencia de la Federación;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XV.- Garantizar el derecho de la ciudadanía a participar, en forma individual o colectiva, en la preservación del patrimonio natural y la protección al ambiente;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVI.- La participación en la prevención y el control de emergencias y contingencias ambientales;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVII.- La protección de la diversidad biológica en el Estado;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVIII.- Promover el establecimiento de instrumentos económicos en materia ambiental, así como el otorgamiento de estímulos fiscales, crediticios o financieros, para incentivar las actividades relacionadas con la protección al ambiente, la prevención de la contaminación y el aprovechamiento sustentable de los recursos naturales, y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIX.- Promover la preservación de los ecosistemas en que se encuentren ubicados en los cenotes, cuevas o grutas.
 
 ###### Artículo 2º.
 
@@ -91,6 +125,8 @@ IV.- La formulación y ejecución de acciones de protección y preservación de 
 
 V.- El establecimiento de zonas intermedias de salvaguarda, con motivo de la presencia de actividades riesgosas que afecten o puedan afectar el equilibrio de los ecosistemas, la seguridad de las personas o el ambiente del Estado.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 4°.
 
 Para los efectos de esta Ley se entenderán, además de las definiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, las siguientes:
@@ -101,55 +137,61 @@ II.- Actividades Riesgosas: Las actividades que puedan afectar negativamente al 
 
 III.- Aguas Residuales: Las aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana y que por el uso recibido se le hayan incorporado contaminantes, en detrimento de su calidad original;
 
-IV.- Áreas de Fragilidad Ecológica: Zonas que poseen poca capacidad de asimilación frente a perturbaciones físicas, meteorológicas o inducidas por el hombre;
+IV.- Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados.
 
-V.- Áreas Verdes: Porción de territorio ocupado por vegetación generalmente localizada en los espacios urbanos y utilizada como lugar de esparcimiento y recreo por los habitantes que las circundan;
+V.- Áreas de Fragilidad Ecológica: Zonas que poseen poca capacidad de asimilación frente a perturbaciones físicas, meteorológicas o inducidas por el hombre;
 
-VI.- Banco de Materiales para la Construcción: El manto, yacimiento o depósito de materiales terrosos y pétreos, susceptibles de ser extraídos de su estado natural, para ser aprovechados en la industria de la construcción;
+VI.- Áreas Verdes: Porción de territorio ocupado por vegetación generalmente localizada en los espacios urbanos y utilizada como lugar de esparcimiento y recreo por los habitantes que las circundan;
 
-VII.- Cenote: Accidente geológico característico de las formaciones calizas, consistente en un cuerpo de agua de origen subterráneo que ocupa parcial o totalmente el fondo de una caverna de origen kárstico (formada por la disolución de la roca caliza por efecto de las aguas de lluvia), cuya bóveda en su parte superior puede estar directamente expuesta a la superficie del terreno natural de un modo parcial o total, así como en algunos casos puede no estar expuesta directamente;
+VII.- Banco de Materiales para la Construcción: El manto, yacimiento o depósito de materiales terrosos y pétreos, susceptibles de ser extraídos de su estado natural, para ser aprovechados en la industria de la construcción;
 
-VIII.- Conservación: La permanencia de los elementos de la naturaleza, lograda mediante la planeación del desarrollo sustentable, a fin de asegurar, para las generaciones presentes y futuras, un ambiente propicio para su desarrollo y los recursos naturales que les permitan satisfacer sus necesidades;
+VIII.- Cenote: Accidente geológico característico de las formaciones calizas, consistente en un cuerpo de agua de origen subterráneo que ocupa parcial o totalmente el fondo de una caverna de origen kárstico (formada por la disolución de la roca caliza por efecto de las aguas de lluvia), cuya bóveda en su parte superior puede estar directamente expuesta a la superficie del terreno natural de un modo parcial o total, así como en algunos casos puede no estar expuesta directamente;
 
-IX.- Contaminación Visual: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial, propagandístico o de servicios, cuando rebasen los parámetros establecidos en esta ley y demás disposiciones legales aplicables;
+IX.- Conservación: La permanencia de los elementos de la naturaleza, lograda mediante la planeación del desarrollo sustentable, a fin de asegurar, para las generaciones presentes y futuras, un ambiente propicio para su desarrollo y los recursos naturales que les permitan satisfacer sus necesidades; .
 
-X.- Cultura Ecológica: Conjunto de conocimientos, hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza; transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
+X.- Contaminación Visual: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial, propagandístico o de servicios, cuando rebasen los parámetros establecidos en esta ley y demás disposiciones legales aplicables;
 
-XI.- Daño Ambiental: Toda pérdida, deterioro o menoscabo que se actualice en cualquiera de los elementos que conforman un ecosistema, un recurso biológico o natural, o en los que condicionan la salud o la calidad de vida de la población, como resultado de la actividad humana, en contravención a esta ley, su reglamento, normas oficiales y demás disposiciones legales que resulten aplicables;
+XI.- Cultura Ecológica: Conjunto de conocimientos, hábitos y actitudes que mueven a una sociedad a actuar en armonía con la naturaleza; transmitidos a través de generaciones o adquiridos por medio de la educación ambiental;
 
-XII.- Día Multa: Multa equivalente a un día de salario mínimo general vigente en el Estado de Quintana Roo, al momento de aplicar la sanción correspondiente;
+XII.- Daño Ambiental: Toda pérdida, deterioro o menoscabo que se actualice en cualquiera de los elementos que conforman un ecosistema, un recurso biológico o natural, o en los que condicionan la salud o la calidad de vida de la población, como resultado de la actividad humana, en contravención a esta ley, su reglamento, normas oficiales y demás disposiciones legales que resulten aplicables;
 
-XIII.- Ecoeficiencia.- Forma de cumplimiento ambiental que se sustenta en mecanismos proactivos en la aplicación de tecnologías ambientalmente compatibles para la producción de bienes o servicios, que redunden tanto en el ahorro económico o energético, como en la conservación y protección del ambiente, atendiendo a la premisa del desarrollo sustentable;
+XIII.- Día Multa: Multa equivalente a un día de salario mínimo general vigente en el Estado de Quintana Roo, al momento de aplicar la sanción correspondiente;
 
-XIV.- Educación Ambiental: Proceso permanente y sistematizado de enseñanza-aprendizaje, mediante el cual un individuo adquiere conciencia de ser parte integrante de la naturaleza para actuar positivamente hacia ella;
+XIV.- Ecoeficiencia: Forma de cumplimiento ambiental que se sustenta en mecanismos proactivos en la aplicación de tecnologías ambientalmente compatibles para la producción de bienes o servicios, que redunden tanto en el ahorro económico o energético, como en la conservación y protección del ambiente, atendiendo a la premisa del desarrollo sustentable;
 
-XV. - Estudio de Riesgo: Documento mediante el cual se da a conocer a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para el equilibrio ecológico, la seguridad de las personas o el ambiente, así como las medidas técnicas preventivas, correctivas o de seguridad tendentes a mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación de la obra o actividad de que se trate;
+XV.- Educación Ambiental: Proceso permanente y sistematizado de enseñanza-aprendizaje, mediante el cual un individuo adquiere conciencia de ser parte integrante de la naturaleza para actuar positivamente hacia ella;
 
-XVI.- Evaluación de la Manifestación de Impacto Ambiental: Procedimiento a través del cual se autoriza la procedencia ambiental de proyectos específicos, así como las condiciones a que se sujetarán los mismos para la realización de las obras o actividades, públicas o privadas, que puedan causar desequilibrio ecológico o rebasar los limites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos;
+XVI.- Equilibrio Ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
-XVII.- Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo;
+XVII.- Estudio de Riesgo: Documento mediante el cual se da a conocer a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas representan para el equilibrio ecológico, la seguridad de las personas o el ambiente, así como las medidas técnicas preventivas, correctivas o de seguridad tendentes a mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación de la obra o actividad de que se trate;
 
-XVIII.- Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+XVIII.- Evaluación de la Manifestación de Impacto Ambiental: Procedimiento a través del cual se autoriza la procedencia ambiental de proyectos específicos, así como las condiciones a que se sujetarán los mismos para la realización de las obras o actividades, públicas o privadas, que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, y preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos;
 
-XIX.- Parques Ecológicos Estatales: Las áreas de vegetación natural o inducida, de ubicación urbana o rural, que cuenten con flora y fauna regional, constituidas con la finalidad de protegerlas y fijar los límites a la expansión de los asentamientos humanos para propiciar el desarrollo de actividades recreativas, deportivas y tecnológicas apropiadas para la investigación, y servir como instrumento para la educación ambiental;
+XIX.- Ley: La Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Quintana Roo;
 
-XX.- Programa de Manejo: Documento planificador de las áreas naturales protegidas que contiene la información básica y establece normas de uso de los recursos;
+XX.- Ley General: La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-XXI.- Reservas Estatales: Las áreas donde existan uno o más ecosistemas que deban preservarse por ser de interés para la comunidad, en donde habiten especies consideradas endémicas, amenazadas o en peligro de extinción;
+XXI.- Parques Ecológicos Estatales: Las áreas de vegetación natural o inducida, de ubicación urbana o rural, que cuenten con flora y fauna regional, constituidas con la finalidad de protegerlas y fijar los límites a la expansión de los asentamientos humanos para propiciar el desarrollo de actividades recreativas, deportivas y tecnológicas apropiadas para la investigación, y servir como instrumento para la educación ambiental;
 
-XXII.- Residuos Domésticos: Aquellos que se generan en las casas habitación, construcciones, demoliciones, parques, jardines, vía pública, oficinas, sitios de reunión, mercados, comercios, establecimientos de servicios, y en general todos aquellos generados en actividades humanas que no requieran técnicas especiales para su manejo, tratamiento y disposición final;
+XXII.- Programa de Manejo: Documento planificador de las áreas naturales protegidas que contiene la información básica y establece normas de uso de los recursos;
 
-XXIII.- Residuos Industriales No Peligrosos: Todos aquellos residuos que se generen en actividades industriales, que no sean catalogados como domésticos o como residuos peligrosos de acuerdo con las normas oficiales aplicables;
+XXIII.- Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
-XXIV. - Secretaría: La Secretaría de Desarrollo Urbano y Medio Ambiente;
+XXIV.- Reservas Estatales: Las áreas donde existan uno o más ecosistemas que deban preservarse por ser de interés para la comunidad, en donde habiten especies consideradas endémicas, amenazadas o en peligro de extinción;
 
-XXV.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
+XXV.- Residuos Domésticos: Aquellos que se generan en las casas habitación, construcciones, demoliciones, parques, jardines, vía pública, oficinas, sitios de reunión, mercados, comercios, establecimientos de servicios, y en general todos aquellos generados en actividades humanas que no requieran técnicas especiales para su manejo, tratamiento y disposición final;
 
-XXVI.- Tratamiento de Aguas Residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+XXVI.- Residuos Industriales No Peligrosos: Todos aquellos residuos que se generen en actividades industriales, que no sean catalogados como domésticos o como residuos peligrosos de acuerdo con las normas oficiales aplicables;
 
-XXVII.- Zonas Críticas Prioritarias: Las áreas o sitios que presenten grave problema de degradación que afecta la calidad de los recursos del aire, agua, suelo o biota y que representen peligro a largo plazo a la salud publica o al ambiente, y
+XXVII.- Secretaría: La Secretaría de Ecología y Medio Ambiente;
 
-XXVIII.- Zonas de Restauración Ecológica: Las áreas o sitios en los que se hayan producido procesos acelerados de erosión o degradación ambiental y que estén sujetas a la aplicación de actividades tendentes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+XXVIII.- SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales;
+
+XXIX.- Tratamiento de Aguas Residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se le hayan incorporado;
+
+XXX.- Zonas Críticas Prioritarias: Las áreas o sitios que presenten grave problema de degradación que afecta la calidad de los recursos del aire, agua, suelo o biota y que representen peligro a largo plazo a la salud pública o al ambiente;
+
+XXXI.- Zonas de Restauración Ecológica: Las áreas o sitios en los que se hayan producido procesos acelerados de erosión o degradación ambiental y que estén sujetas a la aplicación de actividades tendentes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
 
 ## TITULO SEGUNDO. Competencia y Distribución de Facultades
 
@@ -235,6 +277,14 @@ XXXVI.- Participar en emergencias y contingencias ambientales, conforme a las po
 
 XXXVII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente le confiera la Ley General, esta Ley u otros ordenamientos legales en concordancia con ellas y que no estén otorgados expresamente a la Federación;
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXVIII.- Establecer las medidas necesarias para hacer frente al cambio climático deben basarse en consideraciones pertinentes de orden científico, técnico y económico, y revaluarse continuamente conforme a los avances en la materia, y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXIX.- Elaborar, difundir y aplicar un programa de sustitución de plásticos, con la finalidad de reducir el consumo de bolsas, envases, embalajes o empaques de plástico que se utilicen en establecimientos mercantiles y que se entreguen para la contención, transporte y envase de mercancías, asimismo, deberá informar y fomentar la educación de los habitantes del Estado, sobre el impacto negativo que producen los plásticos en el medio ambiente.
+
 ### CAPITULO III. Coordinación Intersectorial
 
 ###### Artículo 6º.
@@ -289,11 +339,19 @@ XXIII.- Atender y resolver, en su caso, con el apoyo de la Secretaría, las denu
 
 XXIV.- Denunciar ante la autoridad competente aquellos actos que puedan constituir delitos contra el ambiente;
 
-XXV.- La aplicación de las sanciones correspondientes por el incumplimiento de esta Ley y de los reglamentos expedidos por el propio municipio, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XXVII (SIC).- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiere esta Ley, u otros ordenamientos legales acordes con ella y que no estén otorgados expresamente a la Federación o al Estado.
+XXV.- La aplicación de las sanciones correspondientes por el incumplimiento de esta Ley y de los reglamentos expedidos por el propio municipio, en el ámbito de su competencia;
 
-### CAPITULO I. Política Ambiental
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXVI.- Establecer y ejecutar de manera continua, campañas y programas dirigidos a la educación y cultura ambiental, en el ámbito de su competencia, y
+
+XXVII.- La atención de los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les confiere esta Ley, u otros ordenamientos legales acordes con ella y que no estén otorgados expresamente a la Federación o al Estado.
+
+### CAPITULO I. Política Ambiental y sus principios
+
+> <small>(REFORMADO P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 7º.
 
@@ -317,7 +375,9 @@ I.- El manejo y vigilancia de las áreas naturales protegidas de competencia fed
 
 II.- El control de los residuos peligrosos considerados de baja peligrosidad de conformidad con la Ley General, su Reglamento y demás disposiciones legales aplicables;
 
-III.- La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+III.- La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
 
 IV.- El control de acciones para la protección, preservación y restauración del equilibrio ecológico y la protección al ambiente en la Zona Federal Marítimo Terrestre, así como en la Zona Federal de los cuerpos de agua considerados como nacionales;
 
@@ -347,7 +407,11 @@ Los convenios o acuerdos deberán ser publicados en el Periódico Oficial del Go
 
 ## TITULO TERCERO. Política Ambiental Estatal y sus Instrumentos
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ### CAPITULO II. Instrumentos de la Política Ambiental
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 10.
 
@@ -383,13 +447,17 @@ XIV.- El sujeto principal de la concertación ecológica son no solamente los in
 
 XV.- Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar. Las autoridades en los términos de ésta y otras leyes, ejecutarán las medidas para garantizar ese derecho;
 
-XVI.- Garantizar el derecho de las comunidades, incluyendo a los pueblos indígenas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables; y
+XVI.- Garantizar el derecho de las comunidades, incluyendo a los pueblos indígenas, a la protección, preservación, uso y aprovechamiento sustentable de los recursos naturales y la salvaguarda de la biodiversidad, de acuerdo a lo que determine la presente Ley y otros ordenamientos aplicables, y
 
 XVII.- La erradicación de la pobreza es condición necesaria para el desarrollo sustentable.
 
 ### CAPITULO I. Areas Naturales Protegidas
 
-#### SECCION I. Planeación Ambiental
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCION I. Planeación Ambiental y sus Instrumentos
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 11.
 
@@ -409,7 +477,7 @@ VI.- La autorregulación, las auditorías ambientales y la documentación ambien
 
 VII.- El Sistema Estatal de Áreas Naturales Protegidas (SEANAP) en los términos de esta Ley:
 
-VIII.- Los incentivos y sanciones que esta Ley, sus reglamentos y otros ordenamientos legales prevén; y
+VIII.- Los incentivos y sanciones que esta Ley, sus reglamentos y otros ordenamientos legales prevén, y
 
 IX.- Los demás que se prevén en esta Ley y otras disposiciones legales aplicables que se relacionen con la materia de protección al ambiente.
 
@@ -426,6 +494,16 @@ En el caso de proyectos que afecten a dos o más Municipios, se observará el mi
 ###### Artículo 13.
 
 El Gobierno del Estado promoverá la participación de los distintos grupos sociales en la elaboración de los programas que tengan por objeto la preservación y restauración del equilibrio ecológico y la protección al ambiente, según lo establecido en esta ley y en las demás leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Artículo 13 BIS.- La Administración Pública Estatal, el Poder Legislativo del Estado, el Poder Judicial del Estado y los municipios del estado, expedirán los manuales de sistemas de manejo ambiental, que tendrán por objeto la optimización de los recursos materiales que se emplean para el desarrollo de sus actividades, con el fin de reducir costos financieros y ambientales.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Artículo 13 TER.- Las dependencias de la Administración Pública Estatal, el Poder Legislativo del Estado, el Poder Judicial del Estado y los municipios del estado, podrán instalar en los inmuebles a su cargo, un sistema de captación de agua pluvial, debiendo atender los requerimientos de la zona geográfica en que se encuentren y la posibilidad física, técnica y financiera que resulte conveniente para cada caso. Esta se utilizará en los baños, las labores de limpieza de pisos y ventanas, el riego de jardines y árboles de ornato.
+
+La instalación del sistema de captación de agua pluvial en aquellos inmuebles a cargo de las dependencias de la Administración Pública Estatal, el Poder Legislativo del Estado, el Poder Judicial del Estado y los municipios del estado, declarados monumentos artísticos e históricos en términos de lo dispuesto por la Ley estatal se llevará a cabo bajo la rigurosa supervisión de la Secretaría de Educación y Cultura y de expertos en la materia según corresponda, con objeto de evitar afectaciones a dichos inmuebles.
 
 #### SECCION II. Ordenamiento Ecológico
 
@@ -633,9 +711,11 @@ Una vez que la Secretaría reciba una manifestación de impacto ambiental e inte
 
 Los promoventes de la obra o actividad, podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial y la confidencialidad de la información comercial, que aporte el interesado.
 
-###### Artículo 33.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-La Secretaría, a solicitud de cualquier persona física, perteneciente a la comunidad de que se trate, o persona moral debidamente registrada en el Estado, podrá llevar a cabo una consulta publica, respecto de proyectos sometidos a su consideración, que requieran manifestación de impacto ambiental, conforme a las siguientes bases:
+###### Articulo 33.
+
+La Secretaría, a solicitud de cualquier persona física, perteneciente a la comunidad de que se trate, o persona moral debidamente registrada en el Estado, podrá llevar a cabo una consulta pública, respecto de proyectos sometidos a su consideración, que requieran manifestación de impacto ambiental, conforme a las siguientes bases:
 
 I.- La solicitud deberá presentarse por escrito, dentro del plazo de 10 días hábiles, contados a partir de la publicación del listado de la manifestación de impacto ambiental respectiva, en los términos del artículo 30 de esta Ley.
 
@@ -643,17 +723,17 @@ Dicha solicitud hará mención de la obra o actividad de que se trate, las razon
 
 II.- La Secretaría, dentro de los 5 días hábiles siguientes a la presentación de la solicitud, notificará al interesado su determinación de dar o no inicio a la consulta pública;
 
-III.- El día hábil siguiente a aquél en que se resuelva iniciar la consulta pública, la Secretaría notificará al promovente de la manifestación de impacto ambiental respectiva, que deberá publicar, en un término no mayor de 5 días hábiles, contados a partir de que surta efectos la notificación, una síntesis del proyecto de la obra o actividad, en uno de los periódicos de amplia circulación en la entidad; de no hacerlo, el plazo que restare para concluir el procedimiento de evaluación del impacto ambiental quedará suspendido;
+III.- El día hábil siguiente a aquél en que se resuelva iniciar la consulta pública, la Secretaría notificará al promovente de la manifestación de impacto ambiental respectiva, que deberá publicar, en un término no mayor de 5 días hábiles, contados a partir de que surta efectos la notificación, una síntesis del proyecto de la obra o actividad, en uno de los periódicos de amplia circulación en la entidad; de no hacerlo, el plazo que restare para concluir el procedimiento de evaluación del impacto ambiental quedará suspendido.
 
 La síntesis del proyecto contendrá, cuando menos, la siguiente información:
 
-a) Nombre de la persona física o moral responsable del proyecto;
+a. Nombre de la persona física o moral responsable del proyecto;
 
-b) Breve descripción de la obra o actividad de que se trate, indicando los elementos que la integran;
+b. Breve descripción de la obra o actividad de que se trate, indicando los elementos que la integran;
 
-c) Ubicación del lugar donde la obra o actividad se pretenda ejecutar, indicando el municipio y la localidad de que se trate y haciendo referencia a los elementos del ambiente, existentes al momento de realizar el estudio, y
+c. Ubicación del lugar donde la obra o actividad se pretenda ejecutar, indicando el municipio y la localidad de que se trate y haciendo referencia a los elementos del ambiente, existentes al momento de realizar el estudio, y
 
-d) Indicación de los principales efectos ambientales que puede generar la obra o actividad y las medidas preventivas de mitigación o reparación que se proponen.
+d. Indicación de los principales efectos ambientales que puede generar la obra o actividad y las medidas preventivas de mitigación o reparación que se proponen.
 
 IV.- Cualquier ciudadano de la comunidad de que se trate, dentro de los 5 días hábiles siguientes a la publicación de la síntesis del proyecto, podrá solicitar a la Secretaría que ponga a disposición de la ciudadanía la manifestación de impacto ambiental en el municipio o localidad que corresponda.
 
@@ -661,7 +741,7 @@ V.- Cuando se trate de obras o actividades que puedan generar desequilibrios eco
 
 VI.- Cualquier interesado, dentro del plazo de 20 días hábiles, contados a partir de la publicación de la síntesis del proyecto a que se refiere la fracción III, podrá proponer a la Secretaría, el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes; y
 
-VII.- La Secretaría agregará las observaciones realizadas por los interesados en el expediente respectivo y consignará, en la resolución que emita, el proceso de consulta pública realizado y los resultados de las observaciones y propuestas que por escrito se hayan formulado.
+VII.- La Secretaría agregará las observaciones realizadas por los interesados en el expediente respectivo y consignará, en la resolución que emita, el proceso de consulta pública realizada y los resultados de las observaciones y propuestas que por escrito se hayan formulado.
 
 ###### Artículo 34.
 
@@ -901,7 +981,9 @@ Se considerarán instrumentos económicos los mecanismos normativos y administra
 
 Se considerarán instrumentos económicos de carácter fiscal, los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental. En ningún caso, estos instrumentos se establecerán con fines exclusivamente recaudatorios.
 
-Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como el financiamiento de programas, proyectos, estudios e investigación científica y tecnológica para la preservación del equilibrio ecológico y de protección al ambiente.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Son instrumentos financieros los créditos, las fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la preservación, protección, restauración o aprovechamiento sustentable de los recursos naturales y el ambiente, así como el financiamiento de programas, proyectos, estudios e investigación científica, desarrollo tecnológico e innovación para la preservación del equilibrio ecológico y de protección al ambiente.
 
 Son instrumentos de mercado las concesiones, autorizaciones, licencias y permisos que corresponden a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien, que establecen los límites de aprovechamiento de recursos naturales, o de construcción en áreas naturales protegidas o en zonas en cuya preservación y protección se considera relevante desde el punto de vista ambiental.
 
@@ -951,7 +1033,9 @@ IX.- El ahorro, aprovechamiento sustentable y la prevención de la contaminació
 
 X.- La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
-XI.- La investigación y desarrollo tecnológico que tengan por objeto evitar, reducir y controlar la contaminación o deterioro ambiental, así como el uso eficiente de los recursos naturales y de energía;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XI.- La investigación científica y tecnológica, incorporación, innovación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de los recursos naturales y de energía;
 
 XII.- La realización de acciones tendentes a la reducción, reuso y reciclaje de residuos sólidos domésticos e industriales no peligrosos;
 
@@ -983,7 +1067,7 @@ La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, 
 
 ###### Artículo 61.
 
-Las zonas del territorio estatal sobre las que el Estado ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por las actividades humanas, o que requieran ser preservadas y restauradas quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
+Las zonas del territorio estatal sobre las que el Estado ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por las actividades humanas, o que sus ecosistemas y funciones integrales requieran ser preservadas y restauradas quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
 
 Los propietarios, poseedores o titulares de cualquier derecho sobre tierras o inmuebles, aguas y bosques comprendidos dentro de áreas naturales protegidas o cualquier otra limitada por un ordenamiento y/o instrumento jurídico en la materia, así como en planes y programas ecológicos ambientales y demás previstos en las leyes federales y estatales, estarán obligados, independientemente del régimen legal al que pertenezcan, a utilizarlos de acuerdo a dichos regímenes preservando, protegiendo, restaurando en su caso y aprovechando éstos, según el objeto previsto en dichos ordenamientos y a sujetarse a las modalidades que conforme a esta ley se determinen en las declaratorias por las que se decreten dichas áreas.
 
@@ -993,7 +1077,9 @@ Los actos jurídicos que constituyan derechos adquiridos realizados previos al c
 
 La declaratoria de áreas naturales protegidas tiene como propósito:
 
-I.- Preservar y conservar los ambientes naturales representativos de los diferentes ecosistemas, regiones biogeográficas y ecológicas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+I.- Preservar y conservar los ambientes naturales representativos de los diferentes ecosistemas, regiones biogeográficas y ecológicas, así como sus funciones, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
 
 II.- Salvaguardar la diversidad genética de las especies silvestres, de las que depende la continuidad evolutiva, así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del territorio estatal y, en particular, preservar las especies endémicas, raras, amenazadas, en peligro de extinción o bajo protección especial, así como sus respectivos hábitats;
 
@@ -1001,7 +1087,9 @@ III.- Conservar, restaurar y proteger el equilibrio ecológico en las áreas rur
 
 IV.- Propiciar la investigación científica y el estudio de los ecosistemas y su equilibrio;
 
-V.- Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+V.- Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos y sus funciones;
 
 VI.- Proteger los entornos naturales de zonas de belleza escénica, así como las que contengan monumentos y vestigios históricos, arqueológicos y artísticos de importancia para la cultura e identidad del Estado y de los pueblos indígenas;
 
@@ -2005,6 +2093,8 @@ V.- Impulsará el fortalecimiento de la conciencia ambiental, a través de la re
 
 ### CAPITULO VI. Investigación Científica
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 177.
 
 El Estado y los Municipios promoverán la incorporación de contenidos de carácter ambiental en el sistema educativo estatal, especialmente en los niveles básico, medio y superior. Asimismo, fomentarán la realización de acciones de concientización y cultura que propicien el fortalecimiento de la educación ambiental.
@@ -2027,9 +2117,11 @@ La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, 
 
 ###### Artículo 181.
 
-El Gobierno del Estado y los Municipios fomentarán la investigación científica y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos y proteger a los ecosistemas. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones de los sectores social y privado, investigadores y especialistas en la materia.
+El Gobierno del Estado y los Municipios fomentarán la investigación científica, desarrollo tecnológico e innovación y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento sustentable de los recursos naturales y preservar, proteger y restaurar los ecosistemas para prevenir los desequilibrios ecológicos y daños ambientales. Para ello, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones de los sectores social y privado, investigadores y especialistas en la materia.
 
-### CAPITULO VIII. Consejos Ecológicos de Participación Ciudadana
+### CAPITULO VIII. Del Consejo Consultivo de Ecología
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 182.
 
@@ -2065,11 +2157,65 @@ III.- Celebrará convenios con los diversos medios de comunicación masiva, para
 
 IV.- Promoverá el reconocimiento a las personas físicas o morales que hayan realizado acciones destacadas en materia de preservación y restauración del equilibrio ecológico y protección al ambiente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ### CAPITULO IX. Denuncia Popular
 
 ###### Artículo 184.
 
-El Estado y Municipios promoverán en el sector social, académico y privado, la creación de Consejos Ecológicos de Participación Ciudadana de conformidad con las disposiciones de derecho privado como órganos permanentes de apoyo, consulta y concertación con recursos propios y regidos por sus estatutos. Dichos Consejos deberán crearse de conformidad con las necesidades para coadyuvar en la elaboración y ejecución de los programas que en esta materia desarrollen la Federación, el Estado y los Municipios.
+El Consejo Consultivo de Ecología es un órgano ciudadano de consulta permanente, opinión, asesoría y evaluación de las políticas, programas y acciones públicas en materia de protección al ambiente y de desarrollo sustentable en el Estado, emitiendo en su caso las recomendaciones respectivas a la Secretaría. Su funcionamiento se regulará por el Reglamento Interior que para tal efecto expida el Titular del Poder Ejecutivo del Estado a propuesta de éste.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Artículo 184 BIS.- El Consejo Consultivo de Ecología se integrara por:
+
+I.- Un Presidente que durará en su encargo tres años, que será un ciudadano distinguido por sus conocimientos y experiencia comprobable en los temas ambientales, el cual no será servidor público y será designado por la Legislatura del Estado, a partir de una terna propuesta por la Comisión de Medio Ambiente y Cambio Climático de la Legislatura del Estado;
+
+II.- Dos representantes de organizaciones ambientalistas de la sociedad civil en el Estado;
+
+III.- Dos representantes de sociedades cooperativas indígenas;
+
+IV.- Dos representantes de las cámaras y asociaciones empresariales, industriales y comerciales del Estado, y
+
+V.- Dos representantes del sector académico y científico del Estado.
+
+Los miembros del Consejo previstos en las fracciones II, III, IV y V se elegirán a través de una convocatoria pública emitida por la Secretaría, la cual se conformará de manera que se asegure el equilibrio de género y una distribución equitativa en la geografía del Estado.
+
+Todos los miembros integrantes del Consejo tendrán el carácter de honorífico.
+
+Podrán participar con voz pero sin voto representantes de otras dependencias y entidades, instituciones públicas o privadas y organizaciones sociales involucradas en el sector de medio ambiente y desarrollo sustentable, a través de invitación que les dirija el Presidente del Consejo.
+
+Las reuniones serán convocadas y presididas por el Presidente. Se celebrarán sesiones ordinarias bimestralmente y extraordinarias cada vez que el Presidente o la mayoría de los miembros del Consejo lo soliciten por escrito.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Artículo 184 TER.- El Consejo Consultivo de Ecología del Estado, tendrá las siguientes atribuciones:
+
+I.- Participar con su opinión en la planeación, elaboración, adecuación y evaluación del Plan Estatal de Desarrollo en materia ambiental conforme a lo dispuesto en el Sistema de Planeación Democrática;
+
+II.- Opinar y en su caso, recomendar lo procedente sobre el Programa Estatal Ambiental y del Patrimonio Natural, Sectoriales y Operativos Anuales relacionados con la materia ambiental;
+
+III.- Participar con su opinión en la planeación, evaluación y recomendar lo procedente para el cumplimiento del Programa Estatal Ambiental y del Patrimonio Natural, Sectoriales y Operativos Anuales;
+
+IV.- Promover la participación de los distintos sectores de la sociedad, en materias objeto del desarrollo sustentable del Estado;
+
+V.- Elaborar propuestas en materia de políticas públicas, programas, estudios, obras y acciones específicas en materia ambiental y de desarrollo sustentable que contribuyan a fortalecer la visión de la sustentabilidad ambiental;
+
+VI.- Impulsar la investigación y difusión de los avances científicos y tecnológicos que existan sobre la protección del medio ambiente y los ecosistemas;
+
+VII.- Proponer a la Secretaría la creación de Consejos Municipales de Ecología, con el objeto de fomentar la participación ciudadana en la protección, restauración y conservación de los ecosistemas y recursos naturales, así como de los bienes y servicios con el fin de propiciar su aprovechamiento y desarrollo sustentable en el ámbito municipal;
+
+VIII.- Proponer y participar en eventos y foros municipales, estatales, nacionales e internacionales donde se analice la protección al ambiente, el equilibrio ecológico, el patrimonio natural y el desarrollo sustentable;
+
+IX.- Formular recomendaciones al Titular del Poder Ejecutivo del Estado y a los ayuntamientos para el diseño y evaluación de acciones, programas y políticas públicas en materia ambiental, de protección al patrimonio natural para el desarrollo sustentable del Estado;
+
+X.- Elaborar recomendaciones para mejorar el marco jurídico ambiental vinculado con el medio ambiente, el patrimonio natural y el aprovechamiento sustentable de los recursos naturales en el Estado;
+
+XI.- Promover mecanismos de consulta y participación ciudadana en materia de medio ambiente, recursos naturales y desarrollo sustentable, que fomente el ejercicio de los derechos ciudadanos en esta materia;
+
+XII.- Coordinarse con organismos homólogos de carácter estatal, regional, nacional e internacional, a fin de intercambiar experiencias, acciones y estrategias que puedan resultar mutuamente beneficiosas, y
+
+XIII.- Las demás que sean necesarias para la consecución de sus fines, de objeto de esta Ley y estén previstas en otros ordenamientos.
 
 ### CAPITULO I. Aprovechamiento Sustentable de los Recursos Naturales
 
@@ -2880,3 +3026,21 @@ DR. JOSÉ LUIS PECH VÁRGUEZ
 ING. VICTOR MANUEL ALCERRECA SANCHEZ
 
 SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente decreto entrara en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Una vez que entre en vigor el presente Decreto, la Comisión de Ecología y Medio Ambiente de la Legislatura, dentro de los 60 días naturales siguientes, deberá presentar la terna de los candidatos para ocupar el cargo de Presidente del Consejo Consultivo de Ecología.
+
+TERCERO. La Legislatura del Estado o en su caso la Diputación Permanente, dentro del plazo de 30 días naturales, contados a partir de la recepción de la terna respectiva, deberá designar al Presidente del Consejo Consultivo de Ecología.
+
+CUARTO. Una vez que entre el vigor el presente Decreto, la Secretaría contará hasta con 90 días naturales para cumplir con el procedimiento previsto en la presente Ley para la selección de los miembros del Consejo Consultivo de Ecología, previstos en las fracciones II a la V del artículo 184 BIS.
+
+QUINTO. Una vez designado el Presidente, así como los miembros del Consejo Consultivo de Ecología, el órgano colegiado se deberá instalar dentro del plazo de 30 días naturales.
+
+SEXTO. Una vez instalado el Consejo Consultivo de Ecología, se deberá expedir el reglamento interno dentro del plazo de 30 días naturales.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
