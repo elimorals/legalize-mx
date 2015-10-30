@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-ejecucion-de-penas-y-medidas-judiciales-antes-892
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-10"
-last_updated: "2012-08-10"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,19 +21,21 @@ state: "BCN"
 ---
 # REGLAMENTO DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES -- ANTES REGLAMENTO DE EJECUCION DE PENAS, MEDIDAS DE SEGURIDAD Y MEDIDAS JUDICIALES-- PARA EL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO DE EJECUCIÓN DE PENAS, MEDIDAS DE SEGURIDAD Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 10 de agosto de 2012.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 49 FRACCIONES I Y XVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA Y 3 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA Y
 
-CONSIDERANDO:.
+CONSIDERANDO:...
 
 Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
 
-REGLAMENTO DE EJECUCIÓN DE PENAS, MEDIDAS DE SEGURIDAD Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+REGLAMENTO DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -205,11 +207,19 @@ En caso de que la persona con quien se entienda la visita domiciliaria se negare
 
 ### CAPÍTULO III. MEDIDAS CAUTELARES PERSONALES
 
-#### SECCIÓN PRIMERA. PROHIBICIÓN DE SALIR DEL PAÍS, DE LA LOCALIDAD EN LA CUAL RESIDE O DEL ÁMBITO TERRITORIAL QUE FIJE EL JUEZ
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN PRIMERA. PROHIBICIÓN DE SALIR SIN AUTORIZACIÓN DEL PAÍS, DE LA LOCALIDAD EN LA CUAL RESIDE O DEL ÁMBITO TERRITORIAL QUE FIJE EL JUEZ
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-Al recibir la resolución del Juez que determine la medida cautelar de prohibición de salir del país, la Dirección de Ejecución requerirá al Imputado para que entregue el pasaporte o cualquier otro documento legal que permita la salida del territorio nacional, y ésta a su vez, dará aviso a la autoridad competente en materia de relaciones exteriores.
+Al recibir la resolución del Juez que determine la medida cautelar de prohibición de salir sin autorización del país, la Dirección de Ejecución requerirá al imputado para que entregue el pasaporte o cualquier otro documento legal que permita la salida del territorio nacional, y ésta a su vez, dará aviso a la autoridad competente en materia de relaciones exteriores.
 
 El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
 
@@ -219,17 +229,35 @@ Si la medida cautelar consiste en la prohibición de salir de la localidad en la
 
 Durante la ejecución de esta medida, el imputado deberá comunicar de manera inmediata a la Dirección de Ejecución su cambio de domicilio y cualquier otra circunstancia que permita su localización. En caso de incumplimiento, la Dirección de Ejecución dará aviso oportuno a la autoridad competente para los efectos procesales a que haya lugar.
 
-#### SECCIÓN SEGUNDA. OBLIGACIÓN DE SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA, QUE INFORME REGULARMENTE AL JUEZ
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. EL SOMETIMIENTO AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA O INTERNAMIENTO A INSTITUCIÓN DETERMINADA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-Cuando durante el procedimiento penal se determine la medida cautelar de someterse al cuidado o vigilancia de una persona o institución determinada por el Juez, o dicha particularidad se imponga como condición en la suspensión del proceso a prueba, de acuerdo a la resolución de la autoridad jurisdiccional competente, se señalarán las modalidades con las cuales la medida o condición se habrá de cumplir, así como la periodicidad con la que deberá informar a la Dirección de Ejecución.
+Al tener conocimiento por parte del Juez sobre la imposición de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada o internamiento a institución determinada, o dicha particularidad se imponga como condición en la suspensión condicional del proceso, de acuerdo a la resolución de la autoridad jurisdiccional competente, se señalarán las modalidades con las cuales la medida o condición se habrá de cumplir, así como la periodicidad con la que deberá informar a la Dirección de Ejecución.
 
-#### SECCIÓN TERCERA. OBLIGACIÓN DE PRESENTARSE PERIÓDICAMENTE ANTE EL JUEZ O ANTE LA AUTORIDAD QUE ÉL DESIGNE
+En caso de tratarse de internamiento a institución determinada y esta pertenezca al sector público, la Secretaría de Salud o la institución de salud que corresponda, informará periódicamente al Juez, así como a la Dirección de Ejecución sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. PRESENTACIÓN PERIÓDICA ANTE EL JUEZ O ANTE AUTORIDAD DISTINTA QUE AQUEL DESIGNE
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-Al dictarse la medida cautelar de presentación periódica ante el Juez o ante la autoridad que él designe, el imputado sujeto a la medida acudirá ante la Dirección de Ejecución con la periodicidad que la autoridad judicial haya determinado.
+Al dictarse la medida cautelar de presentación periódica ante el Juez o ante autoridad distinta que aquel designe, el imputado sujeto a la medida acudirá ante la Dirección de Ejecución con la periodicidad que la autoridad judicial haya determinado.
 
 La presentación a que se refiere el párrafo anterior, se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador o la autoridad correspondiente a fin de prever y supervisar el debido cumplimiento de la medida impuesta.
 
@@ -241,7 +269,11 @@ Cuando la medida deba ejecutarse en algún lugar del Estado en donde la Direcci�
 
 En cualquier caso, la Dirección de Ejecución informará oportunamente al Ministerio Público y a la defensa sobre el cumplimiento o incumplimiento de la medida.
 
-#### SECCIÓN CUARTA. COLOCACIÓN DE LOCALIZADORES ELECTRÓNICOS, SIN QUE MEDIE VIOLENCIA O LESIÓN A LA DIGNIDAD FÍSICA DEL IMPUTADO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN CUARTA. COLOCACIÓN DE LOCALIZADORES ELECTRÓNICOS
 
 ###### Artículo 23.
 
@@ -323,83 +355,141 @@ La vigilancia de esta medida cautelar, concluirá cuando la Dirección de Ejecuc
 
 Concluida la medida cautelar, finalizará la vigilancia y se realizará el retiro del Localizador Electrónico y sus aditamentos. Si el Imputado se encuentra en libertad, el retiro del Localizador Electrónico deberá realizarse en la Dirección de Ejecución; si el Imputado ha sido sujeto a prisión preventiva, éste se deberá realizar en las instalaciones donde se encuentre detenido.
 
-#### SECCIÓN QUINTA. PROHIBICION DE SALIR DE SU DOMICILIO O EL DE OTRA PERSONA, SIN VIGILANCIA ALGUNA O CON LAS MODALIDADES QUE EL JUEZ DISPONGA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN QUINTA. EL RESGUARDO EN SU PROPIO DOMICILIO CON LAS MODALIDADES QUE EL JUEZ DISPONGA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA SECCIÓN IV DEL P.O. DE 30 DE OCTUBRE DE 2015, PÁGINA 8.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 34.
 
-Cuando se notifique a la Dirección de Ejecución la resolución del Juez que decrete la medida cautelar de prohibición de salir de su domicilio o el de otra persona sin vigilancia, aquella supervisará la duración de la vigencia de la medida y, en su caso, las condiciones particulares de la misma.
+Cuando se notifique a la Dirección de Ejecución la resolución que decrete la medida cautelar consistente en el resguardo en su propio domicilio con las modalidades que el Juez disponga, aquella supervisará la duración de la vigencia de la medida y, en su caso, las condiciones particulares de la misma.
 
-Si la modalidad se trata de vigilancia de la autoridad, la Dirección de Ejecución comunicará el proveído a las Instituciones Policiales para el auxilio correspondiente, determinando al efecto la vigilancia permanente o intermitente del imputado en el domicilio señalado, por su parte la Institución Policial le rendirá a dicha Dirección, un informe diario de las incidencias.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-#### SECCIÓN SEXTA. PROHIBICIÓN DE CONCURRIR A DETERMINADAS REUNIONES O DE VISITAR CIERTOS LUGARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN SEXTA. PROHIBICIÓN DE CONCURRIR A DETERMINADAS REUNIONES O ACERCARSE A CIERTOS LUGARES
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 35.
 
-Al recibirse la determinación del Juez que imponga la medida cautelar de prohibición de acudir a determinadas reuniones o de visitar ciertos lugares, la Dirección de Ejecución comunicará lo conducente a las Instituciones Policiales con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado para el cumplimiento de esa determinación, en la que se indicará específicamente las restricciones impuestas.
+Al recibirse la determinación del Juez que imponga la medida cautelar de prohibición de concurrir a determinadas reuniones o acercarse a ciertos lugares, la Dirección de Ejecución comunicará lo conducente a las Instituciones Policiales con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado para el cumplimiento de esa determinación, en la que se indicará específicamente las restricciones impuestas.
 
 La Dirección de Ejecución podrá practicar visitas al imputado, así como también a las reuniones o lugares respecto a los cuales tenga la prohibición.
 
-#### SECCIÓN SÉPTIMA. PROHIBICIÓN DE ACERCARSE, CONVIVIR O COMUNICARSE CON PERSONAS DETERMINADAS, SIEMPRE QUE NO SE AFECTE EL DERECHO DE DEFENSA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN SÉPTIMA
+
+PROHIBICIÓN DE CONVIVIR, ACERCARSE O COMUNICARSE CON DETERMINADAS PERSONAS, CON LAS VÍCTIMAS, OFENDIDOS O TESTIGOS, SIEMPRE QUE NO SE AFECTE EL DERECHO DE DEFENSA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA SECCIÓN IV DEL P.O. DE 30 DE OCTUBRE DE 2015, PÁGINA 8.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 36.
 
-Al imponerse la medida cautelar de prohibición de convivencia o comunicación con personas determinadas, se actuará en lo conducente, en términos de lo dispuesto en el artículo anterior.
-
-La Dirección de Ejecución podrá practicar visitas al Imputado, así como aquellas personas a las cuales tiene prohibido acercarse, convivir o comunicarse.
-
-La visita a la víctima u ofendido y testigo tendrá por objeto el de informarle que el imputado se encuentra sujeto a proceso, así como a determinadas obligaciones o condiciones.
+Al imponerse la medida cautelar de prohibición de convivir, acercarse o comunicarse con determinadas personas, con las víctimas, ofendidos o testigos, siempre que no se afecte el derecho de defensa, se actuará en lo conducente en términos de lo dispuesto en el artículo anterior.
 
 #### SECCIÓN OCTAVA. LA SEPARACIÓN INMEDIATA DEL DOMICILIO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-Si se decreta la medida cautelar de separación inmediata del domicilio del imputado, la Dirección de Ejecución, en acatamiento al proveído judicial, se auxiliará de las Instituciones Policiales para su efectivo cumplimiento en los términos del artículo 178 del Código de Procedimientos.
+Si se decreta la medida cautelar de separación inmediata del domicilio del imputado, la Dirección de Ejecución, en acatamiento al proveído judicial, se auxiliará de las Instituciones Policiales para su efectivo cumplimiento.
 
 La visita al domicilio del que se deba separar al imputado, se realizará de conformidad con lo establecido por el presente Reglamento y demás disposiciones aplicables.
 
 Durante la visita a que se refiere el párrafo que precede, el imputado deberá proporcionar el nuevo domicilio o lugar en el cual residirá o podrá ser localizado.
 
-#### SECCIÓN NOVENA. LA SUSPENSIÓN DE DERECHOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN NOVENA
+
+LA SUSPENSIÓN TEMPORAL EN EL EJERCICIO DEL CARGO CUANDO SE LE ATRIBUYE UN DELITO COMETIDO POR SERVIDORES PÚBLICOS Y LA SUSPENSIÓN TEMPORAL EN EL EJERCICIO DE UNA DETERMINADA ACTIVIDAD PROFESIONAL O LABORAL
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 38.
 
-Cuando se imponga la medida cautelar de suspensión de derechos, la Dirección de Ejecución supervisará la medida establecida, en los términos de las particularidades que el propio Juez dicte en su resolución, de conformidad con la naturaleza de la medida impuesta.
+Cuando se imponga la medida cautelar de suspensión temporal en el ejercicio del cargo cuando se le atribuye un delito cometido por servidores públicos y la suspensión temporal en el ejercicio de una determinada actividad profesional o laboral, la Dirección de Ejecución supervisará la medida establecida, en los términos de las particularidades que el propio Juez dicte en su resolución, de conformidad con la naturaleza de la medida impuesta.
 
-#### SECCIÓN DÉCIMA. INTERNAMIENTO EN CENTRO DE SALUD U HOSPITAL PSIQUIÁTRICO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN DÉCIMA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 39.
 
-Al tener conocimiento por parte del Juez sobre la imposición de la medida cautelar del internamiento del imputado en centro de salud u hospital psiquiátrico, la Dirección de Ejecución supervisará la medida en los términos de la resolución judicial.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2015)
 
-La Secretaría de Salud o la institución de salud que corresponda, informará periódicamente al Juez, así como a la Dirección de Ejecución sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-### CAPÍTULO IV. DE LAS PROVIDENCIAS PRECAUTORIAS Y DE LAS CONDICIONES POR CUMPLIR DURANTE LA SUSPENSIÓN DEL PROCESO A PRUEBA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-#### SECCIÓN PRIMERA. PROVIDENCIAS PRECAUTORIAS
+### CAPÍTULO IV. DE LAS CONDICIONES POR CUMPLIR DURANTE LA SUSPENSIÓN CONDICIONAL DEL PROCESO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN PRIMERA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 40.
 
-La Dirección de Ejecución realizará la ejecución, vigilancia y seguimiento de las Providencias Precautorias, contempladas en el artículo 234 Bis del Código de Procedimientos y para ello se sujetará a las siguientes reglas:
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2015)
 
-I.- Cuando se trate de la providencia precautoria consistente en prohibición de acercarse a alguien, se sujetará a las reglas dispuestas para la medida cautelar de prohibición de acercarse, convivir o comunicarse con personas determinadas;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- Cuando se trate de la providencia precautoria consistente en separación inmediata del domicilio, se sujetará a las reglas dispuestas para la medida cautelar del mismo nombre;
+> <small>(DEROGADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-III.- Cuando se trate de la providencia precautoria consistente en limitación de frecuentar determinados lugares, se sujetará a las reglas dispuestas para la medida cautelar de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares;
+#### SECCIÓN SEGUNDA
 
-IV.- Cuando se trate de la providencia precautoria consistente en prohibición de abandonar una circunscripción geográfica determinada, se sujetará a las reglas dispuestas para la medida cautelar de prohibición de salir del país, de la localidad en la cual reside o del ámbito territorial que fije el Juez y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-V.- Cuando se trate de la providencia precautoria consistente en la obligación de comunicar previamente cualquier cambio de domicilio o empleo, para tal efecto el Imputado deberá presentar las documentales suficientes a la Dirección de Ejecución para su acreditación.
-
-#### SECCIÓN SEGUNDA. CONDICIONES POR CUMPLIR DURANTE LA SUSPENSIÓN DEL PROCESO A PRUEBA
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-La Dirección de Ejecución para la vigilancia, coordinación y ejecución del cumplimiento de las condiciones por cumplir durante la suspensión del proceso a prueba, en los términos del Título Séptimo, Capítulo II, del Código de Procedimientos, se llevará a cabo de la siguiente manera:
+La Dirección de Ejecución para la vigilancia, coordinación y supervisión del cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso, en los términos del Libro Segundo, Título Primero, Capítulo III del Código Nacional de Procedimientos Penales, se llevará a cabo de la siguiente manera:
 
-I.- Residir en un lugar determinado.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país, de la localidad en la cual reside o del ámbito territorial que fije el juez;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II.- Acudir o dejar de acudir a determinados lugares o con alguna persona.- Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares y a la de prohibición de acercarse, convivir o comunicarse con personas determinadas;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+I.- Residir en un lugar determinado.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir sin autorización del país, de la localidad en la cual reside o del ámbito territorial que fije el Juez de Control;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+II.- Frecuentar o dejar de frecuentar determinados lugares o personas.- Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o ciertos lugares y a la de prohibición de convivir, acercarse o comunicarse con determinadas personas, con las víctimas, ofendidos o testigos;
 
 III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas.- Quedará sujeta a la revisión por parte de la Secretaría de Salud del Estado o de la institución de salud según corresponda, quienes verificarán periódicamente el cumplimiento de la condición, mediante la práctica de exámenes, evaluaciones u otro tipo de procedimientos de demostración que la autoridad judicial competente indique en sus determinaciones, informando los resultados a la Dirección de Ejecución y ésta en caso de cumplimiento o incumplimiento a las condiciones impuestas informará al Ministerio Público, y a la defensa, lo anterior para los efectos procesales conducentes.
 
@@ -407,23 +497,49 @@ En todo caso la Dirección de Ejecución, para dar cumplimiento a lo ordenado po
 
 IV.- Participar en programas especiales para la prevención y tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la Secretaría de Salud o de la institución de salud correspondiente, incorporando al Imputado para su participación en dichos programas, la Secretaría de Salud o la institución de salud que corresponda informará periódicamente a la Dirección de Ejecución respecto al cumplimiento o incumplimiento que el Imputado este realizando; a su vez, la Dirección de Ejecución lo informará al Ministerio Público y a la defensa;
 
-V.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez.- Quedará sujeta a la revisión por parte de la Secretaría de Educación y Bienestar Social, quien dará seguimiento a la incorporación del Imputado a alguna de las instituciones que ofrezcan servicios educativos o de capacitación para el trabajo, informando a la Dirección de Ejecución sobre los avances en el cumplimiento que alcance el Imputado, la culminación de los estudios o la baja del Imputado por cualquier causa, para efecto de que ésta lo informe al Ministerio Público y a la defensa;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+V.- Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control.- Quedará sujeta a la revisión por parte de la Secretaría de Educación y Bienestar Social, quien dará seguimiento a la incorporación del imputado a alguna de las instituciones que ofrezcan servicios educativos o de capacitación para el trabajo, informando a la Dirección de Ejecución sobre los avances en el cumplimiento que alcance el imputado, la culminación de los estudios o la baja del imputado por cualquier causa, para efecto de que ésta lo informe al Ministerio Público y a la defensa;
 
 VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública.- Quedará sujeta a la vigilancia de la Dirección de Ejecución, la cual se podrá auxiliar de la Dirección de Programas de Reinserción Social dependiente de la Subsecretaría; registrando al Imputado en un listado especial de prestadores de servicio y se canalizará a la institución en la que deba realizarse, señalándose el horario en el que se cumplirá; así como las actividades que desempeñará. Así mismo, supervisará las actividades del Imputado periódicamente, e informará sobre su cumplimiento o incumplimiento al Ministerio Público y a la defensa;
 
 VII.- Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas.- Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital psiquiátrico;
 
-VIII.- Tener un trabajo o empleo, o adquirir, en el plazo que el Juez determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se dará intervención al Servicio Estatal de Empleo de la Secretaria del Trabajo y Previsión Social;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IX.- Someterse a la vigilancia que determine el Juez.- Se sujetará a las disposiciones de ejecución de la medida cautelar de obligación de someterse al cuidado o vigilancia de una persona o institución determinada, que informe regularmente al Juez;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VIII.- Tener un trabajo o empleo, o adquirir, en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se dará intervención al Servicio Estatal de Empleo de la Secretaría del Trabajo y Previsión Social;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IX.- Someterse a la vigilancia que determine el Juez de Control.- Se sujetará a las disposiciones de ejecución de la medida cautelar de obligación de someterse al cuidado o vigilancia de una persona o institución determinada, que informe regularmente al Juez de Control;
 
 X.- No poseer ni portar armas.- Al decretarse esta condición, la Dirección de Ejecución informará a las Instituciones Policiales, así como aquellas autoridades civiles y militares que se consideren, para llevar un registro de la condición impuesta;
 
 XI.- No conducir vehículos.- Se sujetará a las disposiciones de ejecución de la medida cautelar de suspensión de derechos;
 
-XII.- Abstenerse de viajar al extranjero.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país, de la localidad en la cual reside o del ámbito territorial que fije el Juez y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XIII.- Cumplir con los deberes de deudor alimentario.- Las condiciones para su cumplimiento quedarán sujetas a la resolución del Juez.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XII.- Abstenerse de viajar al extranjero.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir sin autorización del país, de la localidad en la cual reside o del ámbito territorial que fije el Juez de Control;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIII.- Cumplir con los deberes de deudor alimentario.- Las condiciones para su cumplimiento quedarán sujetas a la resolución del Juez de Control; y,
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIV.- Cualquier otra condición que, a juicio del Juez de Control, logre una efectiva tutela de los derechos de la víctima.
 
 ### CAPÍTULO V. PENAS PRIVATIVAS DE LIBERTAD
 
@@ -531,6 +647,8 @@ La Prohibición de ir a circunscripción determinada o de residir en ella, queda
 
 #### SECCIÓN PRIMERA. SUSPENSIÓN CONDICIONAL DE LA EJECUCIÓN DE LA PENA
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA SECCIÓN IV DEL P.O. DE 30 DE OCTUBRE DE 2015, PÁGINA 11.]</small>
+
 ###### Artículo 57.
 
 Los sentenciados que gocen de la suspensión condicional de la ejecución de la pena, deberán cumplir de conformidad con la resolución de la autoridad judicial competente, ante la Dirección de Ejecución, con las siguientes condiciones:
@@ -549,9 +667,11 @@ VI.- Abstenerse de causar molestias al ofendido, víctima o a sus familiares y
 
 VII.- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos u otras substancias que produzcan efectos similares.
 
-La Dirección de Ejecución a efecto de vigilar el cumplimiento de las condición establecida en la fracción VI del presente artículo, deberá de realizar las actividades, que se señalan en la medida cautelar consistente en la prohibición de acercarse, convivir o comunicarse con persona determinada, a que se refiere el Código de Procedimientos, la Ley y el presente Reglamento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Con la misma finalidad la Dirección de Ejecución, por lo que respecta a la fracción VII de este artículo, deberá de realizar las actividades a que se refiere la condición de la suspensión del proceso a prueba, establecida en la fracción III del artículo 41 de este Reglamento.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+La Dirección de Ejecución a efecto de vigilar el cumplimiento de la condición establecida en la fracción VI del presente artículo, deberá realizar las actividades que se señalan en la medida cautelar consistente en la prohibición de convivir, acercarse o comunicarse con determinadas personas, con las víctimas, ofendidos o testigos, siempre que no afecte el derecho de defensa, a que se refiere el Código Nacional de Procedimientos Penales, la Ley y el presente Reglamento.
 
 ###### Artículo 58.
 
@@ -693,9 +813,13 @@ La Dirección de Ejecución canalizará al liberado, cuando éste lo requiera, a
 
 ### CAPÍTULO XI. REGISTRO DE PENAS, MEDIDAS JUDICIALES Y MEDIDAS DE SEGURIDAD
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 75.
 
-La Subsecretaría a través de la Dirección de Ejecución y los Centros, conformará y actualizará permanentemente el registro a que se refiere el artículo 117, fracción I, inciso b) de la Ley; para tal fin integrará en un sistema informático la información establecida en éste Capítulo, respecto de imputados y sentenciados del orden común; lo anterior como apoyo, para la debida vigilancia, coordinación y ejecución de penas, medidas de seguridad y medidas judiciales que establece Código de Procedimientos, Código Penal, la Ley y el presente Reglamento.
+La Subsecretaría a través de la Dirección de Ejecución y de los Centros, conformará y actualizará permanentemente el registro a que se refiere el artículo 117, fracción IV de la Ley; para tal fin integrará en un sistema informático la información establecida en este Capítulo, respecto de imputados y sentenciados del orden común; lo anterior para la debida vigilancia, coordinación y ejecución de penas, medidas de seguridad y medidas judiciales que establece el Código Nacional de Procedimientos Penales, (sic) Código Penal, la Ley y el presente Reglamento.
 
 ###### Artículo 76.
 
@@ -741,15 +865,23 @@ La utilización del registro a que se refiere el artículo que precede, se hará
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 78.
 
-Corresponde a la Dirección de Ejecución, realizar la Evaluación de Riesgo de imputados conforme los parámetros establecidos en el artículo 170 del Código de Procedimientos, siempre y cuando el delito por el cual se esté formulando imputación no sea de los previstos como graves en el artículo 155 del Código de Procedimientos.
+Corresponde a la Dirección de Ejecución, realizar la Evaluación de Riesgo de Imputado conforme a las circunstancias establecidas en los artículos 164 y 168 del Código Nacional de Procedimientos Penales, 6 fracción XVI y 117 fracción I de la Ley, siempre y cuando el delito por el cual se esté formulando la imputación no sea de los previstos como graves.
 
 ###### Artículo 79.
 
 En la Evaluación de Riesgo de imputados, la Dirección de Ejecución, realizará lo siguiente:
 
-I.- Entrevistar al imputado previamente a la realización de cualquier audiencia sobre medidas cautelares, con el objeto de obtener información relevante que pueda ser proporcionada al Ministerio Público y la defensa, para que en su momento la autoridad judicial decida sobre la imposición de las mismas, atendiendo a los factores de riesgo estipulados en el Código de Procedimientos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+I.- Entrevistar al imputado previamente a la realización de cualquier audiencia sobre medidas cautelares, con el objeto de obtener información relevante que pueda ser proporcionada al Ministerio Público y la defensa, para que en su momento la autoridad judicial decida sobre la imposición de las mismas, atendiendo a los factores de riesgo estipulados en el Código Nacional de Procedimientos Penales;
 
 II.- Verificar la información proporcionada por el Imputado y recolectar aquella que sea relevante para emitir la recomendación respectiva, de tal forma que ésta resulte adecuada para que al imputado le sea impuesta la medida cautelar idónea y por ende, que éste pueda cumplir con sus obligaciones procesales;
 
@@ -761,9 +893,13 @@ V.- Las demás que establezcan las disposiciones aplicables.
 
 #### SECCIÓN SEGUNDA. PRINCIPIOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 80.
 
-Los servidores públicos de la Dirección de Ejecución se regirán en todo momento por los principios de presunción de inocencia, imparcialidad, objetividad, subsidiariedad, proporcionalidad, confidencialidad, legalidad, dignidad e interinstitucionalidad. Igualmente, velarán por el cumplimiento de los principios del sistema de justicia penal acusatorio adversarial, en el marco de sus respectivas competencias.
+Los servidores públicos adscritos a la Dirección de Ejecución que realicen las funciones de evaluación y supervisión de medidas cautelares y de la suspensión condicional del proceso distintas a la prisión preventiva, se regirán en todo momento por los principios de neutralidad, objetividad, imparcialidad, y confidencialidad; igualmente, velarán por el cumplimiento de los principios del proceso penal acusatorio y oral, en el marco de sus respectivas competencias.
 
 #### SECCIÓN TERCERA. PROCEDIMIENTO
 
@@ -791,9 +927,13 @@ II.- El derecho que tiene de que su defensor esté presente en la entrevista; si
 
 III.- El derecho de abstenerse de suministrar información y que aquélla que proporcione no podrá ser usada para demostrar su culpabilidad.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 85.
 
-La información que contenga el reporte de opinión de Evaluación de Riesgo, deberá incluir por lo menos los datos sobre la historia personal del Imputado, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales, y cualquier otra circunstancia que se considere relevante para determinar el nivel de riesgo para la sociedad conforme a lo establecido en el artículo 170 del Código de Procedimientos.
+La información que se recabe con motivo de la Evaluación de Riesgo, deberá incluir por lo menos los datos sobre la historia personal del imputado, sus lazos con la comunidad, relaciones familiares, amistades, empleos, lugares de residencia, estudios, antecedentes penales, y cualquier otra circunstancia que se considere relevante para determinar el nivel de riesgo para la sociedad conforme a lo establecido en el Código Nacional de Procedimientos Penales, la Ley y demás disposiciones aplicables.
 
 ###### Artículo 86.
 
@@ -878,3 +1018,15 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE APRUEBA LA DENOMINACIÓN Y DIVERSOS ARTÍCULOS DEL REGLAMENTO DE EJECUCIÓN DE PENAS, MEDIDAS DE SEGURIDAD Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Publíquense las presentes reformas en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor el mismo día de su publicación en el Municipio de Mexicali, Baja California, y de manera gradual por Municipio, en las fechas en que inicie la vigencia del Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el H. Congreso del Estado de Baja California, en los términos del Artículo Segundo Transitorio del mencionado Código Nacional.
+
+TERCERO.- La supervisión, vigilancia y coordinación de las medidas y beneficios a que hace referencia el presente Reglamento, a cargo de la Dirección de Ejecución de Penas y Medidas Judiciales, e iniciados con fecha anterior a la entrada en vigor de la presente reforma, continuarán su trámite y serán resueltos de conformidad con las disposiciones previstas con anterioridad a la entrada en vigor de la misma.
