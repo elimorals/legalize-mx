@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2015-08-05"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial de Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -321,7 +321,9 @@ III. Recaudar y administrar los ingresos correspondientes a la hacienda pública
 
 IV. Aprobar, ejercer y controlar su presupuesto de egresos conforme a sus ingresos disponibles y aprobar la iniciativa de Ley de Ingresos, sujetándose a lo establecido en el Artículo 124 de la Constitución Estatal, a la Ley de Presupuesto Contabilidad y Gasto Público del Estado, a la Ley de Deuda Pública y a la Ley de Contratos de Colaboración Público Privada;
 
-V. Formular la cuenta pública mensual, dentro de los primeros quince días del mes siguiente al que corresponda, que deben presentar al Congreso, acompañada de los comprobantes respectivos y recabar de la Contaduría Mayor de Hacienda del Congreso del Estado, los finiquitos correspondientes;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+V. Formular la cuenta pública mensual, dentro de los primeros quince días del mes siguiente al que corresponda, que deben presentar al Congreso, acompañada de los comprobantes respectivos y recabar de la Auditoría Superior del Estado, los finiquitos correspondientes;
 
 VI. Administrar los bienes del Municipio, manteniendo un inventario para el control y registro de los mismos;
 
@@ -549,7 +551,9 @@ VII. Editar todo género de publicaciones para la difusión de programas, inform
 
 VIII. Promover la difusión de documentos que exalten los valores cívicos del pueblo mexicano y en particular del sinaloense;
 
-IX. Coordinarse y colaborar con la Dirección de Investigación y Fomento de la Cultura Regional del Estado de Sinaloa en la realización de los eventos que señala este artículo en las fracciones III, IV, V, VI, VII y en otros de la misma naturaleza;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IX. Coordinarse y colaborar con el Instituto Sinaloense de Cultura, en la realización de los eventos que señala este artículo en las fracciones III, IV, V, VI, VII y en otros de la misma naturaleza;
 
 X. Colaborar con las autoridades competentes en la lucha por reprimir el charlatanismo;
 
@@ -559,7 +563,9 @@ XII. Constituir el Consejo Municipal para la Atención a la Juventud a efecto de
 
 XIII. Integrar el Consejo Local de Tutela, de acuerdo con la Ley;
 
-XIV. Contribuir al sostenimiento del Consejo Tutelar de Menores, proporcionando a los delegados municipales de aquél, el local y demás medios conducentes para el desempeño de sus funciones;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIV. Contribuir al sostenimiento del Centro de Internamiento para Adolecentes (sic), proporcionando a los delegados municipales de aquél, el local y demás medios conducentes para el desempeño de sus funciones;
 
 XV. Favorecer la formación del patrimonio familiar;
 
@@ -1544,3 +1550,7 @@ P.O. 5 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Para el debido cumplimiento del presente Decreto, los Ayuntamientos en un plazo de sesenta días naturales posteriores a su publicación, deberán realizar las adecuaciones normativas correspondientes.
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
