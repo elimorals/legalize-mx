@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-juventud-del-estado-libre-y-soberano-de-quintana-9394
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-09"
-last_updated: "2014-07-04"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93948&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LA JUVENTUD DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 9 de abril de 2013.
 
@@ -77,7 +77,7 @@ XI.- Municipios: Los municipios del Estado de Quintana Roo;
 
 XII.- Poder Ejecutivo: Al Titular del Poder Ejecutivo del Estado de Quintana Roo; y
 
-XIII.- Programa: El Programa Estatal de Juventud; (sic)
+XIII.- Programa: El Programa Estatal de Juventud;
 
 ###### Artículo 3.
 
@@ -87,13 +87,17 @@ I.- La titularidad de los derechos de los jóvenes reconocidos en la Constituci�
 
 II.- La igualdad de oportunidades entre los jóvenes, sin distinción alguna;
 
-III.- La no discriminación de los jóvenes;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+III.- La no discriminación de los jóvenes, motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
 IV.- La corresponsabilidad del Estado, de la sociedad y de la familia en la atención integral para los jóvenes;
 
 V.- La inclusión de los jóvenes en el proceso de desarrollo político, económico, social y cultural del Estado;
 
-VI.- La participación libre y democrática de los jóvenes en los procesos de toma de decisiones que afecten su entorno; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VI.- La participación libre y democrática de los jóvenes en los procesos de toma de decisiones que afecten su entorno, en los ámbitos político, social, económico, cultural y deportivo, y
 
 VII.- La transversalidad, entendida como la directriz para articular políticas públicas entre los diversos órdenes de gobierno a partir de una visión integral de todos los derechos de los jóvenes, considerando las distintas etapas de la juventud y la necesidad de establecer estrategias específicas para cada una de ellas.
 
@@ -133,9 +137,27 @@ X.- Derecho a la información;
 
 XI.- Derecho de organización;
 
-XII.- Derecho a la protección de los jóvenes en estado de vulnerabilidad; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XIII.- Los demás que señale esta Ley y otros ordenamientos aplicables a la materia.
+XII.- Derecho a la protección de los jóvenes en estado de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIII.- Derecho a una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIV.- Derechos sexuales y reproductivos;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XV.- Derecho a fortalecer las identidades juveniles;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVI.- Derecho al deporte, y
+
+XVII.- Los demás que señale esta Ley y otros ordenamientos aplicables a la materia.
 
 #### SECCIÓN I
 
@@ -151,9 +173,19 @@ Los jóvenes del Estado, tienen derecho a vivir esta etapa de su vida con calida
 
 Los jóvenes del Estado, tienen derecho a acceder sin limitación alguna al sistema educativo del Estado de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 7 Bis.
+
+La Secretaría de Educación y Cultura deberá difundir con los jóvenes de las instituciones educativas públicas y privadas del Estado el contenido de esta ley, por lo menos al final de su educación básica.
+
 ###### Artículo 8.
 
 El Poder Ejecutivo, a través de las instancias correspondientes, ofrecerá alternativas de financiamiento y apoyo para el acceso a la educación, así como mecanismos que permitan a los jóvenes que truncan sus estudios por diferentes circunstancias, continuar con estos.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+El Poder Ejecutivo a través del Instituto Quintanarroense de la Mujer y de acuerdo al presupuesto de capacitación y difusión con el que cuenta, difundirá en la juventud sobre los programas respecto a los apoyos en becas, guarderías, capacitación y todos aquellos programas de beneficio para la mujer con el fin de evitar la deserción educativa de este sector juvenil.
 
 #### SECCIÓN III. DEL DERECHO A UN TRABAJO DIGNO
 
@@ -161,9 +193,11 @@ El Poder Ejecutivo, a través de las instancias correspondientes, ofrecerá alte
 
 Los jóvenes del Estado, tienen derecho a un trabajo digno y bien remunerado, que tome en cuenta las aptitudes y vocación de cada joven y coadyuve a su desarrollo profesional y personal.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-El Poder Ejecutivo, a través de la Secretaría del Trabajo y Previsión Social del Estado, promoverá el empleo y programas que contribuyan a la capacitación laboral de los jóvenes.
+El Poder Ejecutivo, a través de la Secretaría del Trabajo y Previsión Social, promoverá el empleo y programas que contribuyan a la capacitación laboral de los jóvenes. Además, establecerá mecanismos necesarios para garantizar los derechos de los jóvenes en el área laboral, e implementará acciones y programas para erradicar prácticas discriminatorias.
 
 #### SECCIÓN IV. DEL DERECHO A LA SALUD Y A LA ASISTENCIA SOCIAL
 
@@ -176,6 +210,22 @@ Todos los jóvenes del Estado, tienen el derecho de acceder a los servicios de s
 El Poder Ejecutivo, a través de la Secretaría de Salud, establecerá los mecanismos que permitan a los jóvenes el acceso a los servicios de salud.
 
 Asimismo, desarrollará acciones que divulguen información referente a temáticas de salud de interés prioritario para los jóvenes, tales como adicciones, infecciones y enfermedades de transmisión sexual, nutrición, salud pública y comunitaria, entre otras.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 12 Bis.
+
+Los derechos a la salud de los jóvenes son:
+
+I.- Contar con la adecuada orientación en materia de trastornos alimenticios;
+
+II.- Recibir educación sexual en todos los niveles educativos, enfocada a fomentar una conducta responsable en el ejercicio de su sexualidad y orientada a su plena aceptación e identidad, así como a la prevención de las enfermedades de transmisión sexual, los embarazos no deseados, el abuso o violencia sexual;
+
+III.- Recibir orientación psicológica, enfocada a proteger la salud mental del individuo, así como la información requerida para evitar cualquier tipo de trastorno;
+
+IV.- Disfrutar y ejercer plenamente su sexualidad, para mantener una conducta sexual, una maternidad o paternidad responsables, sanas, voluntarias y deseadas, y
+
+V.- Acceder a actividades cívicas, deportivas y culturales que coadyuven en su lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
 
 #### SECCIÓN V. DEL DERECHO A UN MEDIO AMBIENTE SANO Y SUSTENTABLE
 
@@ -223,9 +273,11 @@ La COJUDEQ fungirá como gestor, facilitador y difusor de los programas y servic
 
 #### SECCIÓN IX. DEL DERECHO A LA LIBERTAD DE EXPRESIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 22.
 
-Los jóvenes del Estado, tienen derecho a la libertad de expresión y opinión, prohibiéndose cualquier forma de persecución o represión en el ejercicio de dichos derechos.
+Los jóvenes del Estado, tienen derecho a la libertad de expresión y opinión, prohibiéndose cualquier forma de persecución o represión en el ejercicio de dichos derechos. Los jóvenes tendrán derecho a la manifestación del arte y arte urbano en aquellos espacios públicos que se establezcan para tales fines.
 
 Las Autoridades Estatales y Municipales, garantizarán el respeto a este Derecho, así como procurarán establecer espacios y mecanismos para su ejercicio.
 
@@ -247,6 +299,12 @@ La COJUDEQ, será la encargada de administrar el Sistema de Información de la J
 
 Los Ayuntamientos, en su caso, a través de sus Unidades Administrativas en materia de Juventud, coadyuvarán a la integración y actualización del Sistema de Información de la Juventud del Estado.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 25 Bis.
+
+El Gobierno del Estado promoverá con las estaciones radiofónicas y televisivas en el Estado la inclusión de barras programáticas que fomenten los conocimientos necesarios para el desarrollo integral, educativo, sexual y cultural de la juventud.
+
 #### SECCIÓN XI. DEL DERECHO DE ORGANIZACIÓN
 
 ###### Artículo 26.
@@ -255,9 +313,11 @@ Los jóvenes del Estado tienen derecho a formar organizaciones juveniles que bus
 
 #### SECCIÓN XII. DE LOS DERECHOS DE LOS JÓVENES EN ESTADO DE VULNERABILIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-Los jóvenes del Estado en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, drogadicción, entre otras, tiene derecho a integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder de manera efectiva a servicios y beneficios sociales que mejoren su calidad de vida.
+Los jóvenes en estado de vulnerabilidad como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, drogadicción, o sean jóvenes embarazadas en desventaja, madres solteras, víctimas del delito, migrantes, enfermos crónicos, entre otros, tiene (sic) derecho a integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder de manera efectiva a servicios y beneficios sociales que mejoren su calidad de vida.
 
 Asimismo, el Poder Ejecutivo y los Ayuntamientos, deberán procurar dar información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
 
@@ -271,9 +331,13 @@ En ningún caso los jóvenes rehabilitados, podrán ser privados del acceso y di
 
 Las mujeres jóvenes en estado de gravidez gozarán de todos los derechos estipulados en esta ley y otros ordenamientos legales, sin limitación alguna.
 
-La COJUDEQ, en coordinación con las distintas dependencias, implementará programas de apoyo y sensibilización que permitan a las jóvenes embarazadas alcanzar la aceptación consciente de su maternidad y relacionarse adecuadamente con su(s) hijo(s).
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-Asimismo, se les otorgará la información necesaria para evitar subsecuentes embarazos no deseados, mediante las medidas preventivas que le resulten más convenientes facilitándoles el acceso a ellas.
+La COJUDEQ, la Secretaría de Salud, el Instituto Quintanarroense de la Mujer y el DIF Estatal y Municipal en coordinación con las distintas dependencias, implementará programas de apoyo y sensibilización que permitan a las y los jóvenes alcanzar la aceptación consciente de su maternidad o paternidad en su caso, para relacionarse adecuadamente con su hijo.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Asimismo, se les otorgará a los jóvenes, información necesaria sobre la maternidad y paternidad responsable para evitar embarazos no deseados, mediante las medidas preventivas que les resulten más convenientes, facilitándoles el acceso a ellas.
 
 ###### Artículo 30.
 
@@ -283,9 +347,33 @@ I.- Acceder en igualdad de condiciones a la capacitación laboral y su incorpora
 
 II.- Contar con el apoyo de la COJUDEQ y demás instancias estatales y municipales en lo relativo a la garantía, ejercicio y respeto de sus derechos;
 
-III.- Recibir educación libre de barreras culturales y sociales; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-IV.- Los demás que contribuyan a su desarrollo armónico e integral.
+III.- Recibir educación libre de barreras culturales y sociales;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IV.- Desplazarse libremente en los espacios públicos abiertos o cerrados mediante la adecuación de las facilidades urbanísticas y arquitectónicas, ya sea por su propio pie o apoyos técnicos, de acuerdo con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+V.- Acceder a programas, proyectos y acciones de capacitación y adiestramiento en igualdad de circunstancias, al trabajo remunerativo, así como al autoempleo, su acompañamiento y consolidación;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VI.- Recibir el servicio de transporte público de manera preferencial;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VII.- Identificación temprana y atención oportuna de procesos físicos, mentales y sociales que puedan causar la discapacidad en los jóvenes;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VIII.- Recibir, de acuerdo con la suficiencia presupuestal, atención integral, así como la adaptación de las prótesis, órtesis y ayudas funcionales que requieran los jóvenes, y
+
+IX.- Los demás que contribuyan a su desarrollo armónico e integral.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 31.
 
@@ -293,17 +381,65 @@ Son derechos de los jóvenes del Estado en situación de calle, los siguientes:
 
 I.- Ser protegidos de los riesgos de la calle y recibir la atención y orientación especial de los responsables de la seguridad pública;
 
-II.- Recibir orientación de las instituciones públicas o privadas que atienda esta problemática, para solucionar sus problemas de sobrevivencia, seguridad personal y, salvaguarda de sus derechos que rebasen sus capacidades propias de solución;
+II.- Recibir orientación de las instituciones públicas o privadas que atienda (sic) esta problemática, para solucionar sus problemas de sobrevivencia, seguridad personal y, salvaguarda de sus derechos que rebasen sus capacidades propias de solución;
 
-III.- Acceder en igualdad de condiciones a la capacitación laboral y su incorporación a la vida productiva;
+III.- Acceder en igualdad de condiciones a la capacitación laboral y su incorporación a la vida· productiva;
 
-V (SIC).- Recibir información respecto de los programas de desarrollo social y humano; así como a ser sujetos y beneficiarios preferentemente de las políticas, programas y acciones que se implementen en esta materia; y
+IV.- Recibir información respecto de los programas de desarrollo social y humano; así como a ser sujetos y beneficiarios preferentemente de las políticas, programas y acciones que se implementen en esta materia, y
 
-VI.- Los demás que contribuyan a su desarrollo armónico e integral.
+V.- Los demás que contribuyan a su desarrollo armónico e integral.
 
 ###### Artículo 32.
 
 Los jóvenes víctimas de pornografía y prostitución, tienen derecho a ser canalizados a las instancias especializadas para su atención médica, jurídica y su rehabilitación física y psicológica.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN XIII. DEL DERECHO A UNA VIDA LIBRE DE VIOLENCIA
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 32 Bis.
+
+Los jóvenes cuando se encuentre en riesgo su integridad física y psicológica tienen derecho a la protección inmediata y a la asesoría por parte de las autoridades competentes, para garantizar el acceso a una vida libre de violencia que favorezca su desarrollo y bienestar.
+
+En las instituciones educativas, en términos de la Ley para Prevenir, Atender y Erradicar la Violencia entre estudiantes del Estado de Quintana Roo, los jóvenes deberán recibir capacitación para garantizar una vida libre de violencia.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN XIV. DE LOS DERECHOS SEXUALES Y REPRODUCTIVOS
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 32 Ter.
+
+Los jóvenes tienen el derecho a la orientación sexual que decidan, así como de disfrutar y ejercer plena y responsablemente su sexualidad, de modo que la práctica de ello contribuya a la seguridad de cada joven y a su identidad y realización personal, evitando cualquier tipo de marginación y condena social por razón de la vida sexual así como orientación para una vida libre de violencia.
+
+Asimismo, tienen derecho a la decisión consciente e informada respecto al momento y al número de hijos que deseen tener. El Gobierno del Estado diseñará las políticas públicas y constituirá los mecanismos que permitan el acceso expedito de la juventud a los servicios de atención e información relacionados con el ejercicio de sus derechos sexuales y reproductivos.
+
+Los programas incluirán lineamientos y acciones que permitan generar y divulgar información referente a la salud reproductiva, ejercicio responsable y educación en la sexualidad, enfermedades de transmisión sexual, embarazo en adolescentes, maternidad y paternidad responsable, entre otros.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN XV. DEL DERECHO A FORTALECER LAS IDENTIDADES JUVENILES
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 32 Quáter.
+
+Los jóvenes tienen el derecho de fortalecer y expresar los diferentes elementos de identidad que los distinguen respecto a otros sectores sociales que, a la vez, los cohesionan con otros. El Gobierno del Estado creará, promoverá y apoyará, por todos los medios a su alcance, iniciativas e instancias para que la juventud del Estado tengan (sic) la oportunidad de fortalecer sus expresiones de identidad dándolas a conocer a otros sectores sociales.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competencia, establecerán estrategias con el propósito de preservar y fomentar las costumbres, tradiciones y la lengua maya en los jóvenes, promoviendo la identidad maya.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### SECCIÓN XVI. DEL DERECHO AL DEPORTE
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 32 Quinquies.
+
+Los jóvenes tienen el derecho a practicar cualquier deporte que favorezca su desarrollo físico integral. Para tal fin, las autoridades competentes en apego a la Ley Estatal de Cultura Física y Deporte y la Ley de Infraestructura Física Educativa del Estado de Quintana Roo, llevarán a cabo la promoción y gestión necesaria para el desarrollo de la cultura física y el deporte, así como el acceso a infraestructura.
 
 ### CAPÍTULO II. DEBERES DE LOS JÓVENES
 
@@ -311,21 +447,45 @@ Los jóvenes víctimas de pornografía y prostitución, tienen derecho a ser can
 
 Son deberes de los Jóvenes del Estado:
 
-I.- Respetar, vigilar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Quintana Roo y las demás leyes que de ellas emanen;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+I.- Respetar y cumplir con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo, las leyes que de ellas deriven y los reglamentos de las mismas, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad, todo ello a través de la convivencia pacífica, la tolerancia, la democracia, la honestidad, la solidaridad, el compromiso y la participación social;
 
 II.- Aprovechar en forma óptima las oportunidades educativas y de capacitación que se le brinden para superarse en forma continua;
 
 III.- Preservar su salud, mediante hábitos que le generen un bienestar físico y mental;
 
-IV.- Practicar valores y principios, que contribuyan a su formación como individuo;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IV.- Procurar el aprendizaje y practicar los valores más altos del ser humano, que contribuyan a darle una verdadera dimensión ética y moral como persona y como parte de una sociedad;
 
 V.- Respetar a los todos los miembros de su familia, evitando la violencia y las malas costumbres;
 
 VI.- Respetar a todos los miembros de la sociedad, solidarizándose y contribuyendo a las acciones que generen el bien común;
 
-VII.- Contribuir con la conservación y mejoramiento del medio ambiente en nuestro Estado; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VIII.- Contribuir al avance científico, tecnológico e industrial, procurando dejar en alto el nombre del Estado de Quintana Roo.
+VII.- Contribuir con la conservación y mejoramiento del medio ambiente en nuestro Estado;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VIII.- Contribuir al avance científico, tecnológico e industrial, procurando dejar en alto el nombre del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IX.- Informarse debidamente en materia de sexualidad, considerando no sólo el plano físico sino el afectivo, los riesgos de las enfermedades de transmisión sexual, la salud reproductiva y la planificación familiar;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+X.- Informarse debidamente acerca de los efectos y daños irreversibles a la salud que producen el alcohol, el tabaco y las drogas, y sobre qué hacer para evitar su consumo;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XI.- Guardar el debido respeto a las autoridades legalmente constituidas, así como a los símbolos patrios que forman parte de la identidad nacional y la del Estado, y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XII.- Contribuir al avance de la vida democrática del Estado participando en los procesos que tengan lugar para la elección de las distintas autoridades y cargos de elección popular.
 
 ## TÍTULO III. DE LAS AUTORIDADES COMPETENTES
 
@@ -335,15 +495,17 @@ VIII.- Contribuir al avance científico, tecnológico e industrial, procurando d
 
 Son autoridades competentes en materia de atención a la juventud:
 
-I.- El Poder Ejecutivo del Estado, a través de las siguientes dependencias y Organismo;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+I.- El Poder Ejecutivo del Estado, a través de las siguientes dependencias y Organismos;
 
 a) La Secretaría del Trabajo y Previsión Social;
 
-b) La Secretaría de Educación;
+b) La Secretaría de Educación y Cultura;
 
-c) La Secretaría de Cultura;
+c) El Instituto Quintanarroense de la Mujer;
 
-d) La Secretaría de Salud;
+d) La Secretaría de Salud
 
 e) La COJUDEQ; y
 
@@ -367,9 +529,11 @@ III.- Procurar la generación y permanencia de los empleos dirigidos a las jóve
 
 IV.- Las demás que contribuyan al su desarrollo armónico e integral de la juventud quintanarroense.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-El Poder Ejecutivo, a través de la Secretaría de Educación del Estado impulsará y apoyará niveles educativos de calidad tendientes a desarrollar armónicamente todas las facultades del ser humano, el fomento al aprendizaje e impulso a la investigación, motivando a la juventud a generar proyectos para un mejor desarrollo del Estado.
+El Poder Ejecutivo, a través de la Secretaría de Educación y Cultura del Estado impulsará y apoyará niveles educativos de calidad tendientes a desarrollar armónicamente todas las facultades del ser humano, el fomento al aprendizaje e impulso a la investigación, motivando a la juventud a generar proyectos para un mejor desarrollo del Estado.
 
 ###### Artículo 38.
 
@@ -377,9 +541,11 @@ El Poder Ejecutivo, a través de la Secretaría de Salud, procurará el acceso d
 
 La Secretaría de Salud, velará por la plena efectividad del derecho a la salud juvenil, adoptando políticas, programas y campañas de salud orientados a la prevención de enfermedades, combate al consumo de alcohol, tabaco y drogas, salud sexual y reproductiva, planificación familiar, trastornos alimenticios, higiene, salud mental, promoción estilos de vida saludables, así como todo aquello que favorezca el cuidado y salud personal de los jóvenes quintanarroenses.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 39.
 
-El Poder Ejecutivo, a través de la Secretaría de Cultura, promoverá la participación para realización de actividades y eventos artísticos y culturales, regionales, nacionales o internacionales, en los que participen los jóvenes del Estado.
+El Poder Ejecutivo, a través de la Secretaría de Educación y Cultura, promoverá la participación para realización de actividades y eventos artísticos y culturales, regionales, nacionales o internacionales, en los que participen los jóvenes del Estado.
 
 ###### Artículo 40.
 
@@ -435,9 +601,15 @@ VI.- Gestionar y promover ante organismos públicos, privados, estatales, nacion
 
 VII.- Celebrar acuerdos o convenios de coordinación con la Federación, el Estado, Ayuntamientos, organismos sociales o privados, para el mejor cumplimiento de esta Ley;
 
-VIII.- Generar programas y acciones para la atención de la juventud y la prevención de factores de riesgos psicosociales y alteraciones del desarrollo; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-IX.- Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
+VIII.- Generar programas y acciones para la atención de la juventud y la prevención de factores de riesgos psicosociales y alteraciones del desarrollo;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IX.- Fomentar la construcción de espacios públicos y preservarlos, para aplicar programas de esparcimiento que beneficien a la juventud, y
+
+X. Las demás que le otorgue esta Ley y demás ordenamientos aplicables.
 
 ## TÍTULO CUARTO. DE LOS CONSEJOS JUVENILES
 
@@ -459,25 +631,37 @@ El Reglamento determinará la integración del Consejo, su número, designación
 
 Los integrantes del Consejo, no podrán ser parte del personal administrativo de la COJUDEQ, mientras ejerzan esta responsabilidad.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 47.
 
 Al Consejo le corresponden las atribuciones siguientes:
 
-I. Proponer a la COJUDEQ las medidas convenientes para alcanzar el cumplimiento de sus acciones de trabajo;
+I.- Proponer a la COJUDEQ las medidas convenientes para alcanzar el cumplimiento de sus acciones de trabajo;
 
-III (SIC). Presentar a la COJUDEQ opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales;
+II.- Presentar a la COJUDEQ opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales;
 
-IV. Participar, a solicitud del Presidente de la COJUDEQ, como enlace entre este organismo y las organizaciones sociales vinculadas al sector, con la finalidad de atender las demandas y requerimientos sociales;
+III.- Participar, a solicitud del Presidente de la COJUDEQ, como enlace entre este organismo y las organizaciones sociales vinculadas al sector, con la finalidad de atender las demandas y requerimientos sociales;
 
-V. Sugerir a la COJUDEQ acciones que contribuyan al mejoramiento de la condición social de los jóvenes;
+IV.- Sugerir a la COJUDEQ acciones que contribuyan al mejoramiento de la condición social de los jóvenes;
 
-VII (SIC). Podrán participar en la elaboración del Programa; y,
+V.- Podrán participar en la elaboración del Programa;
 
-VIII. Las que determine la COJUDEQ y demás disposiciones aplicables.
+VI.- Analizar los objetivos del Programa y dar seguimiento a las metas alcanzadas para fortalecer los proyectos y acciones previstos en tal instrumento;
+
+VII.- Velar por el cumplimiento de los objetivos de la COJUDEQ, y
+
+VIII.- Las que determine la COJUDEQ y demás disposiciones aplicables.
 
 ###### Artículo 48.
 
 La COJUDEQ proporcionará al Consejo, las instalaciones, materiales, herramientas y todas las facilidades para su operatividad.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 48 Bis.
+
+La COJUDEQ deberá presentar trimestralmente al Consejo y a la Legislatura del Estado un informe detallado por escrito sobre el avance de metas y de los programas a la fecha en que presente el informe.
 
 ### CAPÍTULO ÚNICO. DEL PROGRAMA ESTATAL DE LA JUVENTUD
 
@@ -491,25 +675,29 @@ Los integrantes del Consejo Municipal, durarán en su cargo hasta dos años y su
 
 Los Consejos Municipales, se regirán por las disposiciones reglamentarias, que para tal efecto emita el Ayuntamiento de que se trate, y en él se determinará la integración del Consejo, su número, designación de sus miembros y todos aquellos lineamientos para su operatividad.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 51.
 
 A los Consejos Municipales les corresponden las atribuciones siguientes:
 
 I.- Proponer a las Unidades Administrativas en materia de Juventud de su municipio, las medidas convenientes, para que se alcancen sus objetivos y el cumplimiento de sus acciones de trabajo;
 
-III (SIC).- Analizar y presentar a la Unidad Administrativa Municipal de la materia su opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales, cuya finalidad sea promover el desarrollo de los jóvenes en sus respectivos municipios;
+II.- Analizar y presentar a la Unidad Administrativa Municipal de la materia su opinión sobre las propuestas, estudios y proyectos orientados a convenir programas de coordinación con dependencias y organismos federales, estatales y municipales, cuya finalidad sea promover el desarrollo de los jóvenes en sus respectivos municipios;
 
-IV.- Participar, como enlace entre la Unidad Administrativa en materia de Juventud y las organizaciones sociales en sus respectivos municipios, con el objeto de atender las demandas y requerimientos sociales de los jóvenes en sus comunidades;
+III.- Participar, como enlace entre la Unidad Administrativa en materia de Juventud y las organizaciones sociales en sus respectivos municipios, con el objeto de atender las demandas y requerimientos sociales de los jóvenes en sus comunidades;
 
-V.- Promover la integración de grupos de trabajo para valorar o desarrollar proyectos o acciones que coadyuven a la consecución de los objetivos y responsabilidades de la Unidad Administrativa en materia de Juventud;
+IV.- Promover la integración de grupos de trabajo para valorar o desarrollar proyectos o acciones que coadyuven a la consecución de los objetivos y responsabilidades de la Unidad Administrativa en materia de Juventud;
 
-VI.- Participar, con la Unidad Administrativa en materia de Juventud en los trabajos que ésta realice sobre revisión, formulación y seguimiento de iniciativas de Ley, reglamentos o acuerdos que tiendan a fortalecer el ejercicio pleno de los derechos de los jóvenes en los ámbitos económico, social y político;
+V.- Participar, con la Unidad Administrativa en materia de Juventud en los trabajos que ésta realice sobre revisión, formulación y seguimiento de iniciativas de Ley, reglamentos o acuerdos que tiendan a fortalecer el ejercicio pleno de los derechos de los jóvenes en los ámbitos económico, social y político;
 
-VII.- Recibir, integrar y presentar a la Unidad Administrativa en materia de Juventud recomendaciones sobre planes y proyectos que contribuyan al mejoramiento de la condición social de los jóvenes en sus municipios;
+VI.- Recibir, integrar y presentar a la Unidad Administrativa en materia de Juventud recomendaciones sobre planes y proyectos que contribuyan al mejoramiento de la condición social de los jóvenes en sus municipios;
 
-VIII.- Participar en la elaboración del Programa Estatal y Municipal; y
+VII.- Participar en la elaboración del Programa Estatal y Municipal;
 
-IX.- Llevar a cabo todas aquellas actividades que se requieran para el cumplimiento de sus atribuciones.
+VIII.- Llevar a cabo todas aquellas actividades que se requieran para el cumplimiento de sus atribuciones, y
+
+IX.- Promover espacios de opinión y consulta a la población juvenil en general de su municipio respecto de los programas municipales y presentar a las Unidades Administrativas en materia de juventud sus resultados.
 
 ###### Artículo 52.
 
@@ -652,3 +840,7 @@ P.O. 4 DE JULIO DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
