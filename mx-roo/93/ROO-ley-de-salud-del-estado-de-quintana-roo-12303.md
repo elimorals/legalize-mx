@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2014-12-09"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -133,7 +133,7 @@ XIX.- Participar con las autoridades federales, estatales, municipales y con los
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
-XX.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, y (sic)
+XX.- La prevención del consumo de narcóticos, atención a las adicciones y persecución de los delitos contra la salud, en los términos del artículo 474 de la Ley General de Salud, y
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -253,7 +253,7 @@ XIII.- Coadyuvar a que la formación y distribución de los recursos humanos par
 
 XIV.- Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud;
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y (sic)
+XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud; y
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -263,7 +263,13 @@ XVI. Coordinar y gestionar la obtención de recursos nacionales e internacionale
 
 XVII. Proponer, elaborar y suscribir acuerdos o convenios para la obtención de recursos nacionales e internacionales para el fortalecimiento del Fondo Estatal de Salud y los programas de salud locales, y
 
-XVIII.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVIII. Asegurar la disponibilidad oportuna de sangre o sus componentes en los establecimientos de los sectores público, social y privado que presten servicios de salud y no cuenten con bancos de sangre o centros de procesamiento. Para ello, estos establecimientos deberán tener convenio con algún establecimiento de banco de sangre, un centro de procesamiento o un centro de distribución de sangre y componentes sanguíneos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIX. Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 ###### ARTICULO 9o.
 
@@ -313,15 +319,19 @@ I.- Coordinar el Sistema Estatal de Salud y coadyuvar a su funcionamiento y cons
 
 II.- Formular y desarrollar programas locales de salud en el marco de los Sistemas Estatales y Nacional de Salud y de acuerdo con los principios y objetivos de la planeación nacional;
 
-III.- Celebrar con la federación los acuerdos de coordinación en materia de Salubridad General concurrente y exclusiva, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y (sic)
+III.- Celebrar con la federación los acuerdos de coordinación en materia de Salubridad General concurrente y exclusiva, en los términos de la Ley General de Salud y demás disposiciones legales aplicables, y
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
 IV.- Establecer y conducir el Registro Estatal de Donadores, coordinando sus acciones con el Registro Nacional de Trasplantes, con el objetivo de coadyuvar en el funcionamiento y consolidación del Sistema Nacional de trasplantes en materia de Donación y Trasplante de Órganos, Tejidos y Células de seres Humanos;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE OCTUBRE DE 2015)</small>
 
-V.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y los que deriven de esta Ley y demás disposiciones generales aplicables.
+V.- Participar conjuntamente con la Secretaría de Salud Federal y con las instituciones públicas del Sistema Nacional de Salud, en la realización de campañas permanentes de concientización sobre la importancia de la donación de órganos, tejidos y células para fines de trasplantes, así como de sangre y sus componentes para efectos de trasfusiones y otros usos terapéuticos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VI.- Las demás atribuciones que sean necesarias para hacer efectivas las facultades anteriores y los que deriven de esta Ley y demás disposiciones generales aplicables.
 
 B) En materia de Salubridad Local:
 
@@ -593,7 +603,7 @@ Las actividades de atención médica son:
 
 I.- Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y (sic)
+II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno, y
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2010)</small>
 
@@ -935,11 +945,11 @@ I.- El desarrollo de actividades educativas, socioculturales y recreativas que c
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias, y (sic)
+III.- La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o dependencias, y
 
 > <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
-IV. La implementación de programas para la prevención del suicidio, y
+IV.- La implementación de programas para la prevención del suicidio, y
 
 V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
@@ -1063,7 +1073,7 @@ III.- Promover al personal formado en el área de la salud pública, a través d
 
 IV.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro de los establecimientos de salud, a las instituciones que tengan por objeto la formación, capacitación o actualización de profesionales técnicos y auxiliares de la salud, de conformidad con las normas que rijan el funcionamiento de los primeros;
 
-V.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de salud en actividades docentes o técnicas; y (sic)
+V.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de salud en actividades docentes o técnicas; y
 
 VI.- Autorizar en los lugares del Estado donde no existan profesionales o técnicos de salud, el ejercicio de algunas actividades esenciales específicas a personas que carezcan de título profesional, como parteras empíricas y curanderos, siempre y cuando reúnan los requisitos que para el efecto contempla la Ley General de Salud y sus reglamentos.
 
@@ -1225,9 +1235,9 @@ I.- Fomentar en la población el desarrollo de actividades y conductas que le pe
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, donación de sangre, componentes sanguíneos, hemoderivados, órganos, tejidos y células troncales con fines terapéuticos, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
 > <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2099,9 +2109,9 @@ ARTICULO 157 QUÁTER.- El Ministerio Público o el Juez de Garantía, en su caso
 
 ARTICULO 157 QUINTUS.- Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo emplearé para realizar cualesquiera de las conductas sancionadas en el presente Capítulo o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-## TITULO DECIMO PRIMERO BIS (SIC). DE LA DISPOSICION DE ORGANOS, TEJIDOS Y CELULAS EN EL ESTADO
+## TÍTULO DÉCIMO BIS. DE LA DISPOSICIÓN DE SANGRE, COMPONENTES SANGUÍNEOS, HEMODERIVADOS, ÓRGANOS, TEJIDOS Y CÉLULAS TRONCALES EN EL ESTADO
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2010)</small>
 
@@ -2125,17 +2135,29 @@ Asimismo, las autoridades sanitarias estatales procurarán el apoyo y la coordin
 
 A TER.- Es de interés público en el Estado de Quintana Roo promover la cultura de donación de órganos y tejidos entre la población, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para recobrar la salud de las personas.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+El Gobierno del Estado por conducto de la Secretaría de Salud deberá impulsar la donación de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, para coadyuvar en el tratamiento o curación de los pacientes que las requieran.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### ARTICULO 157
 
-A QUATER.- El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces para: 7 (sic)
+A QUATER.- El Gobierno del Estado, a través del Titular del Poder Ejecutivo, garantizará mecanismos eficaces para:
 
-I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos y tejidos en los términos de la legislación aplicable;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-II. Promover que los establecimientos que realicen procesos de donación y de trasplantes debidamente acreditados y certificados legalmente para ello, realicen los procedimientos de trasplante con fines terapéuticos, en forma oportuna y adecuada en beneficio de los usuarios de los servidos de salud, y
+I. Asegurar el respeto a la voluntad de los individuos que expresamente hayan determinado donar sus órganos, tejidos, sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales en vida en los términos de la legislación aplicable;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+II. Promover que los establecimientos que realicen procesos de donación y trasplantes de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, debidamente acreditados y certificados legalmente para ello, realicen los procedimientos de trasplantes con fines terapéuticos en forma oportuna y adecuada en beneficio de los usuarios de los servicios de salud y que cuiden que la donación en todos los casos, se rija por los principios de altruismo, ausencia de ánimo de lucro, confidencialidad y factibilidad.
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 III. Colaborar en la vigilancia sanitaria de los trasplantes, fomentando la coordinación entre las autoridades sanitarias a que se refiere esta Ley y la Ley General de Salud.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2013)</small>
 
 Las autoridades estatales que intervengan en los diversos procedimientos de la disposición de órganos y tejidos de seres humanos con fines terapéuticos, actuarán con la debida diligencia que ameritan estos casos y auxiliarán en el ágil desahogo de los trámites que por ley deben cubrirse.
 
@@ -2179,7 +2201,9 @@ I.- Promover el diseño, instrumentación y operación del Sistema Estatal de Tr
 
 II.- Proponer políticas, estrategias y acciones para la elaboración y aplicación del Programa Estatal de Trasplantes de acuerdo con las acciones que señale el Programa Nacional de Trasplantes;
 
-III.- Proponer a las autoridades competentes la realización de actividades educativas, de investigación y de difusión, para el fomento de la cultura de la donación de órganos, tejidos y células;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+III.- Proponer a las autoridades competentes la realización de actividades educativas, de investigación y de difusión, para el fomento de la cultura de la donación de órganos, sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales para fines de trasplante;
 
 IV.- Establecer mecanismos para la sistematización y difusión entre los sectores involucrados de la normatividad y de la información científica, técnica y sanitaria en materia de trasplantes;
 
@@ -3684,3 +3708,9 @@ P.O. 9 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas reformas, para que las instituciones, dependencias, entidades y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
