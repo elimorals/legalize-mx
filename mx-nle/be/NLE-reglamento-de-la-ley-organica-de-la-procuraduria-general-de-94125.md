@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-941
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-20"
-last_updated: "2015-04-30"
+last_updated: "2015-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 20 de abril de 2013.
 
@@ -2630,3 +2632,13 @@ P.O. 1 DE ABRIL DE 2015.
 P.O. 30 DE ABRIL DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Reglamento abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 20 de abril de 2013 y sus reformas.
+
+TERCERO. Los integrantes que a la presente fecha forman parte del Consejo Consultivo Ciudadano de la Procuraduría, conforme al Reglamento que se abroga, continuarán formando parte del mismo.
+
+CUARTO. Las disposiciones administrativas expedidas con anterioridad a la publicación del presente Reglamento, sólo quedarán vigentes en cuanto no se opongan a lo dispuesto en el mismo.
