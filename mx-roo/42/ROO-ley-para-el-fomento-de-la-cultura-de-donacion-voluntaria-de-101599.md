@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-el-fomento-de-la-cultura-de-donacion-voluntaria-de-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-10"
-last_updated: "2014-06-10"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA EL FOMENTO DE LA CULTURA DE DONACIÓN VOLUNTARIA DE SANGRE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 10 de junio de 2014.
 
@@ -43,45 +43,67 @@ LEY PARA EL FOMENTO DE LA CULTURA DE DONACION VOLUNTARIA DE SANGRE DEL ESTADO DE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social, y tiene por objeto establecer las bases para fomentar en el Estado de Quintana Roo la cultura sobre la importancia de la donación voluntaria de sangre, sus componentes sanguíneos, así como de células troncales o progenitoras.
+La presente Ley es de orden público e interés social, y tiene por objeto establecer las bases para fomentar en el Estado de Quintana Roo la cultura sobre la importancia de la donación voluntaria de sangre, sus componentes sanguíneos, hemoderivados, tejidos, así como de células troncales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 2.
 
-Es de interés público promover, impulsar y fomentar la cultura de la donación voluntaria de sangre, componentes sanguíneos, y células troncales o progenitoras entre la población, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para coadyuvar en el tratamiento o curación de los pacientes que las requieran.
+Es de interés público promover, impulsar y fomentar la cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales entre la población, como forma esencialmente humanista y de solidaridad entre los individuos, en virtud de que representa una alternativa para coadyuvar en el tratamiento o curación de los pacientes que las requieran.
 
 Cuando en el presente ordenamiento se refiera a la Cultura de la Donación Voluntaria de Sangre, se entenderán incluidos en ésta los componentes sanguíneos, así como las células troncales o progenitoras.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 3.
 
 Para efectos de la presente Ley, se entiende por:
 
-I. Banco de Sangre: El establecimiento autorizado de conformidad con la legislación aplicable, para obtener, recolectar, analizar, fraccionar, conservar, aplicar y proveer sangre humana; así como para analizar, conservar, aplicar y proveer los componentes de la misma;
+I. Asignación: El proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
 
-II. Células troncales o progenitoras: Aquellas capaces de autoreplicarse y diferenciarse hacia diversos linajes celulares especializados;
+II. Banco de Sangre: El establecimiento autorizado de conformidad con la legislación aplicable, para obtener, recolectar, analizar, fraccionar, conservar, aplicar y proveer sangre humana; así como para analizar, conservar, aplicar y proveer los componentes de la misma;
 
-III. CETS: Centro Estatal de la Transfusión Sanguínea;
+III. Células Troncales: Son aquellas capaces de auto replicarse y diferenciarse hacia diversos linajes celulares especializados;
 
-IV. Componentes sanguíneos: A los elementos de la sangre y demás sustancias que la conforman;
+IV. CETS: Centro Estatal de la Transfusión Sanguínea;
 
-V. Donación: Acto voluntario, altruista, no remunerativo, legalmente establecido;
+V. Componentes: A los órganos, los tejidos, las células y sustancias que forman el cuerpo humano, con excepción de los productos;
 
-VI. Ley: Ley para el Fomento de la Cultura de Donación Voluntaria de Sangre del Estado de Quintana Roo;
+VI. Componentes sanguíneos: A los elementos de la sangre y demás sustancias que la conforman;
 
-VII. Programa Estatal: Programa Estatal para el Fomento de la Cultura de la Donación Voluntaria de Sangre.
+VII. Disposición: El conjunto de actividades relativas a la obtención, extracción, análisis, conservación, preparación, suministro, utilización y destino final de órganos, tejidos, componentes de tejidos, células, productos y cadáveres de seres humanos, con fines terapéuticos, de docencia o investigación;
 
-VIII. Puesto de Sangrado: Establecimiento móvil o fijo que cuenta con los elementos necesarios exclusivamente para extraer sangre de disponentes de sangre humana y que funciona bajo la responsabilidad de un Banco de Sangre autorizado;
+VIII. Donación: El Acto voluntario, altruista, no remunerativo, legalmente establecido;
 
-IX. Registro: Registro Estatal de Donadores Voluntarios de Sangre, y
+IX. Donador o disponente: Al que tácita o expresamente consiente la disposición en vida o para después de su muerte, de su cuerpo, o de sus órganos, tejidos y células, conforme a lo dispuesto por esta Ley y demás disposiciones jurídicas aplicables;
 
-X. Sangre: El tejido hemático con todos sus elementos.
+X. Hemoderivados: los productos obtenidos de algunos componentes sanguíneos, especialmente el plasma, mediante procesos físicoquímicos o biológicos, para aplicación terapéutica, diagnóstica, preventiva o en investigación;
+
+XI. Ley: Ley para el Fomento de la Cultura de Donación Voluntaria de Sangre del Estado de Quintana Roo;
+
+XII. Programa Estatal: Programa Estatal para el Fomento de la Cultura de la Donación Voluntaria de Sangre;
+
+XIII. Puesto de Sangrado: Establecimiento móvil o fijo que cuenta con los elementos necesarios exclusivamente para extraer sangre de disponentes de sangre humana y que funciona bajo la responsabilidad de un Banco de Sangre autorizado;
+
+XIV. Registro: Registro Estatal de Donadores Voluntarios de Sangre;
+
+XV. Sangre: Es el tejido hemático con todos sus componentes;
+
+XVI. Tejido: Agrupación de células especializadas que realizan una o más funciones, y
+
+XVII. Trasfusión: Procedimiento terapéutico consistente en la aplicación de sangre o de componentes sanguíneos a un ser humano.
 
 ### CAPITULO II. DE LAS ATRIBUCIONES EN MATERIA DE CULTURA DE LA DONACIÓN VOLUNTARIA DE SANGRE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-Con el objeto de promover, impulsar y fomentar la cultura de la donación voluntaria de sangre, el Titular de los Servicios Estatales de Salud, ejercerá las siguientes atribuciones:
+Con el objeto de promover, impulsar y fomentar la cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, el Titular de los Servicios Estatales de Salud, ejercerá las siguientes atribuciones:
 
 I. Emitir el Programa Estatal, de conformidad con los lineamientos que dicte al respecto la Secretaría de Salud Federal.
 
@@ -95,19 +117,27 @@ IV. Las demás que establezca la presente ley y otras disposiciones aplicables.
 
 El Titular de los Servicios Estatales de Salud podrá celebrar con la Secretaría de Salud Federal; los gobiernos municipales; las entidades públicas y privadas y las organizaciones no gubernamentales, los convenios de coordinación necesarios para la aplicación oportuna y eficiente de la presente ley y su Programa Estatal.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-Las dependencias y entidades de la administración pública estatal y municipal serán coadyuvantes del CETS en la promoción y difusión de la cultura de la donación voluntaria de sangre, para tal efecto, dentro de sus instalaciones deberán establecer en áreas de atención al público, de trámites, o de obtención de documentos, información concerniente a la importancia de esta donación.
+Las dependencias y entidades de la administración pública estatal y municipal serán coadyuvantes del CETS en la promoción y difusión de la cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, para tal efecto, dentro de sus instalaciones deberán establecer en áreas de atención al público, de trámites, o de obtención de documentos, información concerniente a la importancia de esta donación.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 7.
 
-Toda persona física o moral, pública o privada que se destaque por su participación en acciones de fomento de la donación voluntaria de sangre, podrá ser considerada para el otorgamiento del reconocimiento a que refiere el artículo 4 de esta Ley.
+Toda persona física o moral, pública o privada que se destaque por su participación en acciones de fomento de la donación de sangre componentes sanguíneos, hemoderivados, tejidos y células troncales, podrá ser considerada para el otorgamiento del reconocimiento a que refiere el artículo 4 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 8.
 
-Corresponde a los Municipios del Estado llevar a cabo las siguientes acciones para el fomento de la Cultura de la Donación Voluntaria de Sangre:
+Corresponde a los Municipios del Estado llevar a cabo las siguientes acciones para el fomento de la Cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales:
 
-I. Fomentar entre los habitantes de su territorio, la Cultura de la Donación Voluntaria de Sangre, como base para concientizar la importancia de este recurso como coadyuvante en el mejoramiento de la salud de los quintanarroenses;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+I. Fomentar entre los habitantes de su territorio, la Cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, como base para concientizar la importancia de este recurso como coadyuvante en el mejoramiento de la salud de los quintanarroenses;
 
 II. Realizar estudios y diagnósticos para conocer la situación que guarda el Municipio ante los requerimientos de sangre, componentes sanguíneos y células troncales o progenitoras, así como el índice de donadores voluntarios, y
 
@@ -115,13 +145,17 @@ III. Todas aquellas que establezca la presente Ley y demás ordenamientos legale
 
 ### CAPITULO III. DEL CENTRO ESTATAL DE LA TRANSFUSIÓN SANGUÍNEA
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 9.
 
-El Centro Estatal de la Transfusión Sanguínea, es la unidad administrativa de los Servicios Estatales de Salud, encargada de la coordinación de las políticas, estrategias y programas en materia de Donación voluntaria de sangre.
+El Centro Estatal de la Transfusión Sanguínea, es la unidad administrativa de los Servicios Estatales de Salud, encargada de la coordinación de las políticas, estrategias y programas en materia de donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 10.
 
-El CETS, en materia de Donación voluntaria de sangre, tendrá las siguientes atribuciones:
+El CETS, en materia de donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, tendrá las siguientes atribuciones:
 
 I. Elaborar el Programa Estatal para el Fomento de la Cultura de la Donación Voluntaria de Sangre, de conformidad con las políticas públicas y demás lineamientos emitidos en la materia, así como realizar las evaluaciones periódicas de objetivos y metas cumplidas del mismo;
 
@@ -129,35 +163,53 @@ II. Establecer los lineamientos para la integración del Registro Estatal de Don
 
 III. Proponer, a los Servicios Estatales de Salud, dentro de un mes previo a la celebración del Día Mundial del Donante de Sangre, jornadas de Fomento de la Cultura de la Donación Voluntaria de Sangre, para ello se podrá convocar a instituciones educativas de todos los niveles, entidades públicas y privadas, y sociedad civil, para que participen en los talleres, conferencias, recorridos y demás actividades que programe.
 
-IV. Elaborar y llevar a cabo, en coordinación con la Secretaría de Salud Federal, campañas permanentes de concientización sobre la importancia de la donación voluntaria de sangre, de conformidad con los lineamientos que se dicten en la materia;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-V. Promover ante los Poderes Públicos y los Organismos Públicos Autónomos del Estado, para que apliquen acciones de fomento de la cultura de la donación voluntaria de sangre, en el ámbito de su competencia, así como participen en las campañas señaladas en la fracción anterior;
+IV. Elaborar y llevar a cabo, en coordinación con la Secretaría de Salud Federal, campañas permanentes de concientización sobre la importancia de la donación de tejidos y células para fines de trasplantes, así como de sangre y sus componentes para efectos de transfusiones y otros usos terapéuticos, de conformidad con los lineamientos que se dicten en la materia;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+V. Promover ante los Poderes Públicos y los Organismos Públicos Autónomos del Estado, para que apliquen acciones de fomento de la cultura de la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, en el ámbito de su competencia, así como participen en las campañas señaladas en la fracción anterior;
 
 VI. Fomentar que las entidades privadas, las organizaciones no gubernamentales y los ciudadanos participen en las diversas acciones, proyectos y campañas del Programa Estatal;
 
-VII. Promover que en cada Municipio, dependencia y entidad del Gobierno del Estado exista un enlace, para difundir los distintos eventos de donación voluntaria de sangre;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VIII. Instrumentar un programa especial de donación voluntaria en los meses de marzo y noviembre, con la finalidad de prevenir el debido abastecimiento de sangre;
+VII. Promover que en cada Municipio, dependencia y entidad del Gobierno del Estado exista un enlace, para difundir los distintos eventos de donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales;
 
-IX. Conformar grupos de trabajo de cohesión social para la donación voluntaria de sangre, y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VIII. Instrumentar un programa especial de donación voluntaria en los meses de marzo y noviembre, con la finalidad de prevenir el debido abastecimiento de sangre componentes sanguíneos, hemoderivados, tejidos y células troncales;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IX. Conformar grupos de trabajo de cohesión social para la donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, y
 
 X. Las demás que disponga la presente Ley, y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-Corresponden al Titular del CETS, en materia de Donación voluntaria de sangre, las siguientes atribuciones:
+Corresponden al Titular del CETS, en materia de donación de sangre componentes sanguíneos, hemoderivados, tejidos y células troncales las siguientes atribuciones:
 
 I. Ejecutar el Programa Estatal;
 
 II. Conformar y operar el Registro Estatal;
 
-III. Coordinar con el enlace que en su caso se designe en cada municipio, dependencia y entidad del Gobierno del Estado, la difusión de los distintos eventos de donación voluntaria de sangre;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+III. Coordinar con el enlace que en su caso se designe en cada municipio, dependencia y entidad del Gobierno del Estado, la difusión de los distintos eventos de donación de sangre componentes sanguíneos, hemoderivados, tejidos y células troncales;
 
 IV. Organizar las Jornadas señaladas en la fracción III del artículo 10 de esta Ley, en coordinación con las instancias competentes;
 
-V. Ejecutar el programa especial de donación voluntaria de sangre que refiere la fracción VIII del artículo 10 de esta Ley;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VI. Coordinar las campañas permanentes de concientización sobre la importancia de la donación voluntaria de sangre, para el efecto de una mayor captación de la misma, y
+V. Ejecutar el programa especial de donación de sangre componentes sanguíneos, hemoderivados, tejidos y células troncales que refiere la fracción VIII del artículo 10 de esta Ley;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VI. Coordinar las campañas permanentes de concientización sobre la importancia de la donación de sangre componentes sanguíneos, hemoderivados, tejidos y células troncales, para el efecto de una mayor captación de la misma, y
 
 VII. Las demás que le señale la presente ley y otras disposiciones aplicables.
 
@@ -171,15 +223,19 @@ La elaboración del Programa Estatal, estará a cargo del CETS, y deberá ser ac
 
 En la elaboración del Programa Estatal, el CETS atenderá a las políticas públicas, disposiciones, bases y modalidades que emita la Secretaría de Salud Federal y demás autoridades en la materia.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 14.
 
-El Programa Estatal contendrá, al menos, un diagnóstico de los requerimientos de sangre en la entidad, la situación de la donación voluntaria de sangre en el mismo; la definición de objetivos del fomento de la Cultura de la Donación Voluntaria de Sangre, estrategias para el desarrollo de esta Cultura, así como metas y acciones para el fomento de la misma.
+El Programa Estatal contendrá, al menos, un diagnóstico de los requerimientos de sangre en la entidad, la situación de la donación voluntaria de sangre en el mismo; la definición de objetivos del fomento de la Cultura de la donación de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, estrategias para el desarrollo de esta Cultura, así como metas y acciones para el fomento de la misma.
 
 ### CAPITULO V. DEL REGISTRO ESTATAL DE DONADORES VOLUNTARIOS DE SANGRE
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 15.
 
-El Registro Estatal, tiene por objeto primordial, conformar un padrón de las personas que expresamente hayan decidido donar voluntariamente su sangre, en los términos previstos por la legislación aplicable, así como el asegurar con eficacia, el cumplimiento y la observancia de su voluntad.
+El Registro Estatal, tiene por objeto primordial, conformar un padrón de las personas que expresamente hayan decidido donar voluntariamente su sangre, sus componentes sanguíneos, hemoderivados, tejidos y células troncales en los términos previstos por la legislación aplicable, así como el asegurar con eficacia, el cumplimiento y la observancia de su voluntad.
 
 ###### Artículo 16.
 
@@ -189,11 +245,15 @@ El Registro Estatal estará a cargo del Titular del CETS.
 
 El Registro Estatal tiene carácter confidencial, por lo que la autoridad judicial, la sanitaria y los establecimientos autorizados conforme a la legislación aplicable para la realización de extracción de sangre, podrán solicitarla, de conformidad con las disposiciones legales en materia de transparencia y acceso a la información pública.
 
-### CAPITULO VI. DE LA DONACIÓN VOLUNTARIA DE SANGRE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPITULO VI. DE LA DONACIÓN VOLUNTARIA DE SANGRE, COMPONENTES SANGUÍNEOS, HEMODERIVADOS, TEJIDOS Y CÉLULAS TRONCALES
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-La donación voluntaria de sangre, es un acto de disposición voluntaria, solidaria, altruista, no remunerativa, mediante el cual la persona acepta su extracción para fines exclusivamente terapéuticos.
+La donación voluntaria de sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales es un acto de disposición voluntaria, solidaria, altruista, no remunerativa, mediante el cual la persona acepta su extracción para fines exclusivamente terapéuticos.
 
 ###### Artículo 19.
 
@@ -201,9 +261,11 @@ La extracción de sangre y sus componentes sólo podrá efectuarse en los bancos
 
 Respecto a las células troncales o progenitoras se estará a lo dispuesto por el artículo 341 Bis de la Ley General de Salud y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 20.
 
-El CETS en cada acto de extracción deberá impulsar y promover entre los donadores y sus familiares, así como estos entre la población en general, una actitud positiva hacia la donación voluntaria, informándoles de la importancia y utilidad que conlleva el donar sangre al coadyuvar en el tratamiento o curación de otras personas.
+El CETS en cada acto de extracción deberá impulsar y promover entre los donadores y sus familiares, así como éstos entre la población en general, una actitud positiva hacia la donación voluntaria, informándoles de la importancia y utilidad que conlleva el donar sangre, componentes sanguíneos, hemoderivados, tejidos y células troncales, al coadyuvar en el tratamiento o curación de otras personas.
 
 ### CAPITULO VII. DE LOS DONADORES VOLUNTARIOS
 
@@ -282,3 +344,11 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
