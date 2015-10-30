@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2014-05-02"
+last_updated: "2015-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -121,17 +121,15 @@ XIII. Emitir los acuerdos, circulares y demás disposiciones que tiendan a regul
 
 XIV. Vigilar la recaudación de todas las ramas de la Hacienda Pública Municipal, y que la inversión de los fondos municipales se haga con estricto apego al presupuesto.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XV. Vigilar y proveer el eficiente funcionamiento de la Dirección General del Sistema de Desarrollo Integral para la Familia (D.I.F.), a fin de promover el desarrollo integral de la familia, procurando que cada unos de sus miembros logre un desarrollo pleno.
+XV. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
 XVI. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
 XVII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes.
 
-Para el despacho de los asuntos de su competencia, el C. Presidente Municipal se auxiliara directamente, además de las dependencias administrativas marcadas en el artículo 12 de este reglamento, de la Unidad de Asesoría.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Para el despacho de los asuntos de su competencia, el C. Presidente Municipal se auxiliara directamente, además de las dependencias administrativas marcadas en el artículo 12 de este reglamento y de la Unidad de Consejería.
 
 ### CAPÍTULO III. DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN
 
@@ -155,55 +153,55 @@ I.- Secretaría del Ayuntamiento.
 
 II.- Secretaría de Finanzas y Tesorería Municipal.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+III.- Secretaría de Control y Sustentabilidad Urbana.
 
-III.- Secretaría de Desarrollo Urbano y Obras Públicas.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-IV.- Secretaría de Bienestar Social y Desarrollo Comunitario.
+III BIS.- Secretaría de Obras Públicas
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IV.- Secretaría de Desarrollo Social.
 
 V.- Secretaría de Administración.
 
 VI.- Secretaría de Seguridad Pública.
 
-VII.- Secretaría de Fomento Económico y Productivo.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+VII.- Secretaría de Desarrollo Económico.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VIII.-Secretaría de Contraloría y Defensa Ciudadana.
+VIII.- Secretaría de Contraloría.
 
 IX.- Secretaria de Servicios Públicos.
 
-X.- Secretaría Particular.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+X.- Jefe de la Oficina Ejecutiva de la Presidencia Municipal.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
 XI.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+REFORMADA, P.O. 30 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XI.- BIS Secretaría de Planeación y Administración de Proyectos Estratégicos
+XI. BIS.- Secretaría de Prevención Social.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
 XII.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
 
-XIII.- Dirección General de Tecnologías de la Información.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XIII.- Dirección General de Gobierno Digital y Tecnología.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XIV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-XIV.- Dirección General de Participación Ciudadana.
-
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
-
-XV. Dirección General de Seguridad Patrimonial y Tenencia de la Tierra.
+XV.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -217,11 +215,11 @@ XVI.- Dirección General del Sistema DIF.
 
 XVII.- Dirección General de Comunicación Social.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XVIII.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XVIII.- Dirección General de Deportes.
+XIX.- Dirección General de Relaciones Públicas.
 
 ### CAPÍTULO IV. DE LA SECRETARÍA DEL AYUNTAMIENTO
 
@@ -265,9 +263,7 @@ XVII. Llevar estadísticas sobre las personas detenidas por el ejercicio de acci
 
 XVIII. Elaborar en coordinación con la Secretaría de Seguridad Pública, programas de seguridad encaminados a preservar el orden público y contribuir en forma preventiva a la disminución del índice delictivo y de conductas antisociales en el municipio.
 
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2014)</small>
-
-XVIII. BIS.- Dirigir y supervisar el cumplimiento del Programa de Vecinos Vigilantes, cuyos objetivos son: fomentar la participación integral de la ciudadana (sic) en acciones de prevención y contención del delito, especialmente de los delitos de fuero común, mediante estrategias que fortalezcan el tejido social, vía reconstrucción y fortalecimiento de la cohesión y unidad en el núcleo base de la sociedad, que es la colonia, recuperando la convivencia y solidaridad vecinal, así como llevar a cabo, acciones de sinergia entre autoridades y sociedad, creando comités de vecinos vigilantes en cada colonia, cuya misión será la de promover la cultura cívica de la denuncia ciudadana, así como también colaborar, mediante la prevención el reforzamiento de la tranquilidad y paz social, para mejorar el ambiente social y calidad de vida de los guadalupenses.
+XVIII. BIS.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
 XIX. Supervisar las actividades que desarrollan los jueces calificadores, al aplicar el Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León.
 
@@ -289,29 +285,179 @@ XXVII. Formular el anteproyecto del presupuesto anual de la Secretaría, conform
 
 XXVIII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas a su cargo, así como el ejercicio de las mismas.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+XXIX. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-XXIX. Dirigir, supervisar y evaluar todas las acciones que en materia de protección civil se lleven a cabo en el Municipio.
+XXX. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+XXXI. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-XXX. Organizar las acciones de coordinación con las Autoridades Estatales y Federales, así como con los sectores social y privado, para los planes de prevención y control de altos riesgos, emergencias y desastres.
+XXXII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+XXXIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-XXXI. Salvaguardar la integridad física, los bienes y el entorno de las comunidades del municipio, supervisando, elaborando y operando programas de fortalecimiento de la cultura de la prevención, y el Plan Municipal de contingencias que permita evitar y/o minimizar los daños que ocasionan los: Fenómenos Socio Organizativos: Disturbios Sociales, Terrorismo y Sabotaje, Interrupción de los Servicios vitales a la población, Accidentes Carreteros, Ferroviarios, Aéreos y Marítimos, Concentraciones masivas de población. Fenómenos Sanitarios: Intoxicaciones, Epidemias, Contingencia Ambiental, Plagas, Lluvia Ácida. Fenómenos Químicos: Incendios forestales, Incendios Industriales, Incendios Urbanos, Explosiones, Derrame de Sustancias Químicas, Radiaciones, Fugas de Gases, Envenenamientos. Fenómenos Hidrometeorológicos: Huracanes, Lluvias Intensas, Inundaciones, Desbordamiento de Ríos y Arroyos, Granizadas, Temperaturas Extremas, Vientos Fuertes, Sequías, Deslaves y Tormentas Eléctricas. Fenómenos Geológicos: Deslizamientos y Derrumbes, Colapso de Suelos, Hundimiento y Agrietamiento de Suelos, efectos en el municipio derivados de los fenómenos provocados por Sismos, Vulcanismo, Tsunamis o Maremotos en el territorio nacional.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+XXXIV. Impulsar el programa de testamentos a personas de escasos recursos.
 
-XXXII. Coordinarse con los planes de acción de todos los cuerpos de auxilio, dependencias municipales, voluntarios y sociedad civil para salvaguardar la vida y los bienes de los ciudadanos, de manera preventiva y en casos de desastre actuar oportunamente.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2013)</small>
+XXXV. Gestionar ante las Notarías Públicas el programa de testamentos a bajo costo.
 
-XXXIII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+XXXVI. Acercar el Gobierno Municipal a la comunidad, con la finalidad de desarrollar, impulsar, promover y difundir las áreas de oportunidad del Municipio y de particulares, así como vigilar la prestación de los servicios públicos.
 
-Para el despacho de los asuntos de su competencia el Secretario del Ayuntamiento se auxiliará de las siguientes Direcciones: Jurídica, Política, de Espectáculos y Comercio, y del Programa Vecinos Vigilantes así como de las Coordinaciones, Jefaturas y demás personal que sea necesario
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXVII. Propiciar la participación de los ciudadanos organizados en las diferentes Delegaciones en el diseño y aplicación de políticas públicas del Gobierno Municipal.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXVIII. Representar al Gobierno Municipal ante la comunidad guadalupense en la realización de acuerdos y compromisos para la elaboración de proyectos en las diferentes zonas en que se divide el Municipio tendientes a mejorar su bienestar.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXIX. Detectar las necesidades de desarrollo económico, desarrollo urbano y obra pública, servicios públicos y de desarrollo en general, sugiriendo acciones y recomendaciones que coadyuven a brindar un mejor servicio a la comunidad, con el fin de promover a las delegaciones como efectivos Centros de Vinculación Ciudadana.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XL. Coadyuvar conjuntamente con la Secretaría de Desarrollo Económico en la ejecución de las políticas públicas y de desarrollo económico y social que tengan como finalidad la generación de empleos, el mejoramiento del nivel de ingresos de la comunidad y el fomento a la industria en general.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLI. Participar conjuntamente con la Secretaría de Desarrollo Social en la difusión y promoción de las actividades culturales, deportivas, artísticas, recreativas y de salud, ante la comunidad guadalupense, en las diferentes delegaciones en que se divide el Municipio de Guadalupe.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLII. Participar conjuntamente con la Dirección General del Sistema DIF Guadalupe a través de las Delegaciones de Desarrollo y Servicios brindando el apoyo necesario para el desarrollo de los programas orientados al mejoramiento del bienestar de la niñez, ancianos, desvalidos, menores en estado de abandono, indigentes y mujeres maltratadas.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLIII. Mantener contacto y colaboración permanente con la Secretaría de Obras Públicas, para sugerir y proponer las acciones correctivas para mejorar la prestación de los servicios y la ejecución de la obra pública autorizada.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLIV. Establecer reuniones periódicas con los vecinos, con base a un programa de actividades, atender sus inquietudes y sugerencias, y darle seguimiento a las mismas.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLV. Mantener contacto y colaboración permanente con la Secretaría de Servicios Públicos para sugerir y proponer las acciones correctivas para mejorar la prestación de los servicios públicos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLVI. Difundir los servicios que ofrece el Municipio de Guadalupe a la comunidad en general en cada una de las Delegaciones de Desarrollo y Servicios.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLVII. Fomentar, gestionar y organizar la participación ciudadana en los programas de obras y servicios que lleva a cabo el Municipio, a través de los Jueces Auxiliares.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLVIII. Promover en las colonias, fraccionamientos, comunidades y asentamientos, que conforman el Municipio, la constitución, la organización y funcionamiento de los Jueces Auxiliares con el objeto de coadyuvar con la Autoridad Municipal.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLIX. Capacitar a los Jueces Auxiliares y Suplentes, sobre las leyes, reglamentos y otras disposiciones jurídicas vigentes que se señalen como de su competencia, así como vigilar el cumplimiento de los mismos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+L. Elaborar y mantener actualizado el padrón de Jueces Auxiliares y Suplentes, con los nombres y domicilios de sus integrantes y sus registros de firmas.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LI. Promover e impulsar la colaboración y participación de los vecinos, a través de los Jueces Auxiliares, a fin de promover alternativas de solución a los problemas que se presentan en sus comunidades.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LII. Canalizar a las distintas áreas de la Administración Municipal las quejas de los vecinos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LIII. Participar en la organización de las visitas de trabajo que realice el Presidente Municipal o Funcionarios, a las colonias del Municipio.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LIV. Convocar a la Asamblea Mensual de Jueces Auxiliares.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LV. Apoyar a los Jueces Auxiliares en su función de la Administración de Justicia.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LVI. Coadyuvar con los Jueces Auxiliares y las Autoridades Federales y Estatales, cuando realiza alguna promoción para el mejoramiento de la comunidad.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LVII. Coordinar la entrega de Notificaciones, citatorios, demandas, etc. a ciudadanos guadalupenses, por parte de autoridades Federales, Estatales o municipales.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LVIII. Realizar sondeos en las diferentes colonias del Municipio de Guadalupe, N.L., con la finalidad de llevar una estadística de las necesidades de la comunidad, para canalizarlas a las dependencias correspondientes, así como darle seguimiento a las mismas.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LIX. Planear, coordinar y evaluar las políticas públicas y proyectos estratégicos del Municipio.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LX. La planeación estratégica del desarrollo municipal de mediano y largo plazo.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXI. La realización de estudios específicos para una pertinente toma de decisiones.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXII. El diseño de proyectos estratégicos de gran alcance.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXIII. La sistematización y actualización de la estadística municipal.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXIV. La generación de vínculos con las dependencias municipales, estatales y federales, particulares, asociaciones, organizaciones, empresas, sociedad civil y demás instituciones y organismos nacionales e internacionales involucradas en los proyectos asignados.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXV. Promover las mejores prácticas, herramientas y mecanismos de control que permitan al municipio gestionar sus proyectos estratégicos en las distintas etapas en las que estos se encuentren.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LVI (SIC). Desarrollar métodos de investigación para el planteamiento de políticas públicas.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXVII. Supervisar la difusión de las políticas públicas, los proyectos estratégicos y la planeación del desarrollo municipal entre la población.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXVIII. Definir las bases de integración y funcionamiento del Sistema Municipal de Planeación, e integrarlo al sistema de información municipal.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXIX. Proponer al Presidente Municipal los criterios para la formulación y evaluación de los Planes, Programas y demás instrumentos del Sistema Municipal de Planeación, así como de los planes y programas de gobierno que lo complementen.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXX. Diseñar bases para promover y garantizar la participación democrática de la sociedad civil en general, en la elaboración del Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXXI. Señalar las indicaciones de gestión para evaluar y garantizar el cumplimiento del Plan Municipal de Desarrollo.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXXII. Establecer lineamientos para que las dependencias, informen sobre el cumplimiento del Plan Municipal de Desarrollo, conforme a los indicadores correspondientes.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+LXXIII. Cuidar la congruencia entre el Plan de Desarrollo Municipal y los planes y programas que de él emanen.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Para el despacho de los asuntos de su competencia el Secretario del Ayuntamiento se auxiliará de las siguientes Direcciones: Jurídica; Política; de Espectáculos y Comercio; Participación Ciudadana; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
 ### CAPÍTULO V. DE LA SECRETARÍA DE FINANZAS Y TESORERÍA MUNICIPAL
 
@@ -401,337 +547,209 @@ XXXIII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Adm
 
 XXXIV. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XXXV. Levantar y mantener actualizado el inventario general de los bienes muebles e inmuebles que forman parte del Patrimonio Municipal.
 
-Para el despacho de los asuntos de su competencia el Secretario de Finanzas y Tesorero Municipal se auxiliará de las Direcciones: de Ingresos y Recaudación Inmobiliaria; de Egresos; de Contabilidad; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XXXVI. Llevar a cabo la gestión y trámite de servicios generales del municipio, tales como luz, agua, gas y telefonía convencional.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO VI. SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS
+XXXVII. Intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, arrendamiento, comodato, donación y demás en los que se afecte el Patrimonio Municipal.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XXXIII (SIC). Realizar el cobro de los daños al patrimonio municipal ocasionado por accidentes viales o actos de vandalismo.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXIX. Administrar y asegurar la conservación y mantenimiento de los bienes muebles e inmuebles del patrimonio municipal y dar mantenimiento de aquellos, propiedad de las entidades y organismos descentralizados.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Para el despacho de los asuntos de su competencia el Secretario de Finanzas y Tesorero Municipal se auxiliará de las Direcciones: de Ingresos y Recaudación Inmobiliaria; de Egresos; de Contabilidad; Patrimonio; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO VI. SECRETARÍA DE CONTROL Y SUSTENTABILIDAD URBANA
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL P.O. 30 DE OCTUBRE DE 2015, PÁGINA DE LA 89 A LA 93]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 15.
 
-La Secretaría de Desarrollo Urbano y Obras Públicas, estará encargada de la proyección y construcción de obras públicas municipales, así como estructurar los planes de desarrollo urbano, dirigir y controlar su aplicación para regular el crecimiento urbano municipal, la protección y mejora del entorno ambiental, promoviendo el desarrollo sustentable del municipio. Correspondiéndole el despacho de los siguientes asuntos:
+La Secretaría de Control y Sustentabilidad Urbana, estará encargada de ejercer las facultades en materia de desarrollo y control urbano, dirigir y controlar su aplicación para regular el crecimiento urbano municipal, la protección y mejora del entorno ambiental, promoviendo el desarrollo sustentable del municipio, correspondiéndole el despacho de los siguientes asuntos:
+
+I. Ejercer las atribuciones que en materia de Ordenamiento, Planificación y Administración Urbana, Control Urbano y Zonificación, consignan a favor de los municipios, la Constitución Política del Estado de Nuevo León, la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Nuevo León y demás disposiciones legales y reglamentarias.
+
+II. Asignar los números oficiales a predios y edificaciones.
+
+III. Elaborar, aprobar, ejecutar, evaluar y modificar planes, programas y declaratorias de desarrollo urbano dentro de su jurisdicción y competencia.
+
+IV. Elaborar, revisar y ejecutar, junto con las demás autoridades competentes, los planes y programas municipales de desarrollo urbano, de equilibrio ecológico y protección ambiental, tomando en consideración los criterios urbanísticos, ecológicos, de vivienda, recreación, vialidad, seguridad y transporte; fijar las normas correspondientes para su cumplimiento; aplicar las medidas de seguridad que se requieran e imponer las sanciones que procedan en caso de infracción; participando con la representación Municipal en las diferentes tareas relativas a los aspectos señalados.
+
+V. Aprobar, previo acuerdo con el C. Presidente Municipal, las declaratorias de reservas, destinos y usos que se deriven del plan de la zona conurbada del área Metropolitana y de los planes y programas de Desarrollo Urbano, Asentamientos Humanos o de Ordenamiento Territorial que sean competencia Municipal y someterlas al Ejecutivo del Estado para su publicación.
+
+VI. Establecer y aplicar normas para el adecuado aprovechamiento del suelo, construcciones y la infraestructura, determinando las características, densidades y requerimientos de construcción.
+
+VII. Difundir el contenido de planes, programas, leyes y reglamentaciones urbanísticas ante el público en general, asociaciones profesionales, instituciones y otras agrupaciones similares.
+
+VIII. Celebrar, conforme a la ley de la materia, convenios para la ejecución de planes y programas urbanísticos que se realicen en el Municipio.
+
+IX. Vigilar en el ámbito de su competencia y jurisdicción, la observancia de los planes y programas de desarrollo urbano, de asentamientos humanos y de ordenamiento territorial, así como las declaratorias y las normas básicas correspondientes, las disposiciones legales y reglamentarias en materia de desarrollo urbano, ecología y protección ambiental, así como la consecuente utilización del suelo.
+
+X. Realizar las inspecciones, suspensiones y clausuras de las obras públicas y privadas, así como imponer las sanciones que correspondan a los responsables cuando estos incurran en violación a las disposiciones o reglamentos aplicables.
+
+XI. Aplicar en asuntos de su competencia las sanciones, medidas y procedimientos previstos en la Ley de la materia.
+
+XII. Promover la participación en forma organizada de grupos de vecinos en la formulación, revisión y control de los planes, programas y proyectos de ordenamiento urbano.
+
+XIII. Atender solicitudes de vecinos en caso de reclamación por incompatibilidad de usos del suelo u otros problemas similares y proponer si procede, acciones correctivas.
+
+XIV. Identificar, declarar y conservar zonas, edificaciones o elementos con valor histórico o cultural y proponer al R. Ayuntamiento los espacios que deben ser considerados como áreas naturales protegidas; así como el programa del manejo de los mismos.
+
+XV. Supervisar, revisar y recibir nuevos fraccionamientos, en coordinación con las demás dependencias municipales correspondientes.
+
+XVI. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas.
+
+XVII. Coordinar el desarrollo de proyectos municipales de edificaciones y espacios urbanos, que reporten impacto negativo sobre la comunidad y la ciudad.
+
+XVIII. Elaborar el diagnóstico ambiental del municipio definiendo en detalle la problemática existente y sus causas, proponiendo un programa de gestión ambiental para su solución.
+
+XIX. Registrar las acciones emprendidas y sus alcances, en materias de reforestación, grado de recuperación de ecosistemas restaurados, niveles abatidos de contaminación.
+
+XX. Promover y realizar estudios e investigaciones que conduzcan al conocimiento total de las características ecológicas del municipio, para la planeación ambiental del desarrollo.
+
+XXI. Proponer la celebración de convenios de colaboración, asesoría y servicio social en materia ambiental con instituciones de educación superior, de servicios e investigación.
+
+XXII. Establecer acciones de prevención y control de emergencias ecológicas y contingencias ambientales cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente afecten directamente al territorio del Municipio.
+
+XXIII. Vigilar que los residuos sólidos no peligrosos, domésticos, urbanos, agropecuarios y los que provengan de actividades de construcción y obras públicas, en general se recolecten, dispongan y confinen en sitios autorizados y habilitados para ello.
+
+XXIV. Realizar estudios de dasonomía para instrumentar la renovación de la foresta urbana y el cuidado de las especies arbóreas, primordialmente de aquellas especies centenarias de la región.
+
+XXV. Efectuar estudios para programar adecuadamente las acciones de educación ambiental e implementar los modelos de utilización de recursos y la participación de la comunidad.
+
+XXVI. Participar coordinadamente con las autoridades estatales y federales en la vigilancia y cumplimiento de las leyes y normativas reglamentarias que regulan la protección del ambiente.
+
+XXVII. Proponer al C. Presidente Municipal, las modificaciones correspondientes a la reglamentación existente, a efecto de incluir criterios ecológicos locales, derivados de estudios e investigaciones practicados en el territorio municipal, para que las turne a la comisión competente para su aprobación.
+
+XXVIII. Ejecutar las acciones directas de protección o restauración ambiental, tales como reforestación, control de la erosión, implementación de alternativas ecológicas de uso de suelo, administración de áreas naturales protegidas y solicitar las evaluaciones de impacto ambiental.
+
+XXIX. Resolver o remitir a las instancias correspondientes, las denuncias efectuadas por la ciudadanía en materia de deterioro ambiental.
+
+XXX. Informar al C. Presidente Municipal de las acciones en las que se consideren necesarios solicitar el apoyo de los Consejos Promotores del Desarrollo Urbano, de los Consejos Ecológicos de Participación Ciudadana, o de otras instituciones.
+
+XXXI. Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación de las instituciones federales, estatales o municipales, según sea el área de su competencia.
+
+XXXII. Llevar el registro de los profesionistas autorizados para elaborar planos de construcción y edificaciones.
+
+XXXIII. Aprobar, modificar o rechazar conforme a los planes de desarrollo autorizados, los proyectos de construcciones y de uso de suelo de edificaciones, así como de subdivisiones, fusiones, parcelaciones, relotificaciones y fraccionamientos y las estructuras para publicidad y anuncios, otorgando en caso procedente, la licencia municipal respectiva.
+
+XXXIV. Elaborar un catálogo de prestadores de servicios profesionales en materia de desarrollo urbano y ecología.
+
+XXXV. En materia de reforestación, elaborar y establecer los planes, programas y acciones necesarias para lograr la conservación de los recursos naturales existentes, el impulso y desarrollo de la reforestación con especies regionales, la renovación de la foresta urbana en plazas, jardines camellones y el incremento en el índice de metros cuadrados de áreas verdes por habitante.
+
+XXXVI. Autorizar la celebración de operaciones tendientes a la transmisión de la propiedad o posesión de lotes o superficies previstas para su venta, así como para la celebración de operaciones sobre la transmisión de dominio, posesión, acciones, títulos o participaciones que concedan el derecho a la utilización de desarrollos como conjuntos habitacionales, edificios de departamentos, centros o unidades sociales, deportivos, recreativos, vacacionales, y en general para ser utilizados bajo formas colectivas.
+
+XXXVII. Aceptar el otorgamiento de garantías sobre el cumplimiento de las obligaciones del propietario o fraccionador por un monto equivalente al de las obras de urbanización por realizarse y en función del tiempo para su ejecución.
+
+XXXVIII. Analizar las peticiones de la ciudadanía para el otorgamiento de permisos relacionados con estacionamientos exclusivos, topes, sitios, tránsito de vehículos pesados, carga y descarga en vía pública y cierre temporal de calles por evento en vía pública.
+
+XXXIX. Recibir, tramitar y resolver sobre el otorgamiento de permisos para trabajos en las vías públicas que realicen las compañías prestadoras de servicios, tanto del Sector Público como del Sector Privado de conformidad a las especificaciones y normas aplicables.
+
+XL. Construir y dar mantenimiento a las obras de infraestructura de las vías públicas que permitan fluidez vehicular, circulación peatonal e identificación de áreas públicas.
+
+XLI. Establecer programas de mantenimiento, conservación, modernización y/o ampliación de señalamientos horizontales y verticales, así como semaforizaciones de la red vial del Municipio.
+
+XLII. Participar en la celebración de contratos y convenios relacionados con el ejercicio de sus atribuciones.
+
+XLIII. Coordinar la participación de las instancias estatales y federales en programas y proyectos municipales en relación con las políticas de seguridad patrimonial y tenencia de la tierra, promoviendo actividades de gestión ante las mismas, así como supervisar su ejecución.
+
+XLIV. Investigar, analizar, adecuar y proponer planes y programas de carácter federal y estatal aplicables en el municipio, en materia de políticas de seguridad patrimonial y tenencia de la tierra.
+
+XLV. Atender la problemática social de la regularización de la Tenencia de la Tierra.
+
+XLVI. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
+
+XLVII. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+XLVIII. Formular el anteproyecto del presupuesto anual de la Secretaría de Control y Sustentabilidad Urbana conforme a los lineamientos establecidos para tal efecto por la Secretaría de Finanzas y Tesorería Municipal responsabilizándose por su cumplimiento una vez autorizado.
+
+XLIX. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas (sic) su cargo y del ejercicio de las mismas; y
+
+L. Las demás que señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal.
+
+Para el despacho de los asuntos de su competencia el Secretario de Control y Sustentabilidad Urbana, se auxiliará de las siguientes Direcciones: de Control y Sustentabilidad Urbana; Tenencia de la Tierra; Ingeniería Vial; así como de las Coordinaciones, Jefaturas y personal que sea necesario.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO VI BIS. SECRETARÍA DE OBRAS PÚBLICAS
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 15 BIS.- La Secretaría de Obras Públicas, estará encargada de la presupuestación, ejecución y vigilancia de las obras públicas municipales, correspondiéndole el despacho de los siguientes asuntos:
 
 I. Planear, organizar y ejecutar las acciones de supervisión, vigilancia, control y evaluación de los trabajos relacionados con la construcción, reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración y demolición de obras públicas, bienes inmuebles y movimientos destinados a la prestación de un servicio público o de uso común, con las facultades y obligaciones que le confiere este Reglamento y otras disposiciones legales aplicables.
 
 II. Proponer las políticas y programas relativos a la construcción y/o mantenimiento de las obras públicas, desarrollando las estrategias y definiendo los plazos para su implementación.
 
-III. Coordinar la ejecución de los programas relativos a la construcción y reparación de las obras públicas, debidamente autorizadas.
+III. Coordinar la ejecución de los programas relativos a la construcción y reparación de las obras publicas, debidamente autorizadas;
 
-IV. Elaborar los proyectos y presupuestos de las obras públicas, debiendo coordinarse con las dependencias que correspondan.
+IV. Elaborar los proyectos y diseños conceptuales, ingenierías básicas, anteproyectos, estudios de ingeniería, de detalle, proyecto ejecutivo y presupuesto para la construcción de obras públicas.
 
-V. Construir y dar mantenimiento a las obras de infraestructura de las vías públicas que permitan fluidez vehicular, circulación peatonal e identificación de áreas públicas.
+V. Promover la ampliación de la red de drenaje pluvial y de la red de alumbrado público.
 
-VI. Promover la participación organizada de grupos de vecinos en la formulación, revisión y control de los proyectos, planes y programas relativos a la obra pública y vialidad.
+VI. Promover la construcción y equipamiento de parques, plazas y jardines públicos.
 
-VII. Proponer al C. Presidente Municipal, para que éste lo presente al R. Ayuntamiento, el programa anual de obras, previamente aprobado por el Consejo de Desarrollo Municipal, en aquellas obras que así lo requieran.
+VII. Promover la construcción, ampliación, recarpeteo y equipamiento de calles y avenidas.
 
-VIII. Elaborar el padrón de contratistas para Obra Pública, asegurándose de su actualización de que se cumplan los preceptos legales aplicables.
+VIII. Elaborar programas, proyectos y políticas de apoyo para la obtención y asignación de recursos para la ejecución de la obra pública.
 
-IX. Establecer el sistema y los procedimientos adecuados para llevar un control estricto de contratos, convenios, presupuestos, avance de obra, estimación económica y el pago correspondiente.
+IX. Gestionar ante las instancias correspondientes, los recursos necesarios para la realización de obras públicas en el Municipio.
 
-X. Planear, organizar y priorizar la promoción de obras solicitadas por la ciudadanía. Cuantificado las aportaciones para la ejecución de las mismas.
+X. Promover la participación organizada de grupos de vecinos en la formulación, revisión y control de los proyectos, planes y programas relativos a la obra pública y vialidad.
 
-XI. Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación de las instituciones federales, estatales o municipales, según sea el área de su competencia.
+XI. Proponer al C. Presidente Municipal, para que éste lo presente al R. Ayuntamiento, el programa anual de obras, previamente aprobado por el Consejo de Desarrollo Municipal, en aquellas obras que así lo requieran.
 
-XII. Establecer programas de mantenimiento, conservación, modernización y/o ampliación de señalamientos horizontales y verticales, así como semaforizaciones de la red vial del Municipio.
+XII. Elaborar el padrón de contratistas para Obra Pública, asegurándose de su actualización de que se cumplan los preceptos legales aplicables.
 
-XIII. Analizar las peticiones de la ciudadanía para el otorgamiento de permisos relacionados con estacionamientos exclusivos, topes, sitios, tránsito de vehículos pesados, carga y descarga en vía pública y cierre temporal de calles por evento en vía pública.
+XIII. Establecer el sistema y los procedimientos adecuados para llevar un control estricto de contratos, convenios, presupuestos, avance de obra, estimación económica y el pago correspondiente.
 
-XIV. Proponer ante la Secretaría de Finanzas y Tesorería Municipal la derrama del Impuesto Sobre Aumento de Valores y Mejoría Específica de la Propiedad, con las bases y formulas que al efecto establece la Ley de Hacienda para los Municipios del Estado, así como organizar y cuantificar la colaboración de los particulares en la ejecución de obras públicas.
+XIV. Llevar el control físico y financiero de las obras ejecutadas por el Municipio, así como un expediente técnico-financiero de cada obra contratada.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XV. Conducir y desarrollar el proceso de los Concursos de Licitación de las Obras Públicas con base en la normatividad aplicable.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XVI. Planear, organizar y priorizar la promoción de obras solicitadas por la ciudadanía. Cuantificado (sic) las aportaciones para la ejecución de las mismas.
 
-XV. Ejercer las atribuciones que en materia de Ordenamiento, Planificación y Administración Urbana, Control Urbano y Zonificación, consignan a favor de los municipios, la Constitución Política del Estado de Nuevo León, la Ley General de Asentamientos Humanos, la Ley de Desarrollo Urbano del Estado de Nuevo León y demás disposiciones legales y reglamentarias.
+XVII. Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación de las instituciones federales, estatales o municipales, según sea el área de su competencia.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XVIII. Proponer ante la Secretaría de Finanzas y Tesorería Municipal la derrama del Impuesto Sobre Aumento de Valores y Mejoría Especifica de la Propiedad, con las bases y formulas que al efecto establece la Ley de Hacienda para los Municipios del Estado, así como organizar y cuantificar la colaboración de los particulares en la ejecución de obras públicas.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XIX. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
 
-XVI. Elaborar, aprobar, ejecutar, evaluar y modificar planes, programas y declaratorias de desarrollo urbano dentro de su jurisdicción y competencia.
+XX. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XXI. Formular el anteproyecto del presupuesto anual de la Secretaria de Obras Públicas, conforme a los lineamientos establecidos para tal efecto por la Secretaria de Finanzas y Tesorería Municipal responsabilizándose por su cumplimiento una vez autorizado.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XXII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas (sic) su cargo y del ejercicio de las mismas; y
 
-XVII. Elaborar, revisar y ejecutar, junto con las demás autoridades competentes, los planes y programas municipales de desarrollo urbano, de equilibrio ecológico y protección ambiental, tomando en consideración los criterios urbanísticos, ecológicos, de vivienda, recreación, vialidad, seguridad y transporte; fijar las normas correspondientes para su cumplimiento; aplicar las medidas de seguridad que se requieran e imponer las sanciones que procedan en caso de infracción; participando con la representación Municipal en las diferentes tareas relativas a los aspectos señalados.
+XXIII. Las demás que señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+Para el despacho de los asuntos de su competencia el Secretario de Obras Públicas, se auxiliará de las siguientes Direcciones: de Construcción y Proyectos; Estimaciones, Costos y Contratos; así como de las Coordinaciones, Jefaturas y personal que sea necesario.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XVIII. Aprobar, previo acuerdo con el C. Presidente Municipal, las declaratorias de reservas, destinos y usos que se deriven del plan de la zona conurbada del área Metropolitana y de los planes y programas de Desarrollo Urbano, Asentamientos Humanos o de Ordenamiento Territorial que sean competencia Municipal y someterlas al Ejecutivo del Estado para su publicación.
+### CAPÍTULO VII. SECRETARÍA DE DESARROLLO SOCIAL
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XIX. Establecer y aplicar normas para el adecuado aprovechamiento del suelo, construcciones y la infraestructura, determinando las características, densidades y requerimientos de construcción.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XX. Difundir el contenido de planes, programas, leyes y reglamentaciones urbanísticas ante el público en general, asociaciones profesionales, instituciones y otras agrupaciones similares.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXI. Celebrar, conforme a la ley de la materia, convenios para la ejecución de planes y programas urbanísticos que se realicen en el Municipio.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXII. Vigilar en el ámbito de su competencia y jurisdicción, la observancia de los planes y programas de desarrollo urbano, de asentamientos humanos y de ordenamiento territorial, así como las declaratorias y las normas básicas correspondientes, las disposiciones legales y reglamentarias en materia de desarrollo urbano, ecología y protección ambiental, así como la consecuente utilización del suelo.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXIII. Realizar las inspecciones, suspensiones y clausuras de las obras públicas y privadas, así como imponer las sanciones que correspondan a los responsables cuando estos incurran en violación a las disposiciones o reglamentos aplicables.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXIV. Aplicar en asuntos de su competencia las sanciones, medidas y procedimientos previstos en la Ley de la materia.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXV. Promover la participación en forma organizada de grupos de vecinos en la formulación, revisión y control de los planes, programas y proyectos de ordenamiento urbano.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXVI. Atender solicitudes de vecinos en caso de reclamación por incompatibilidad de usos de suelo u otros problemas similares y proponer si procede, acciones correctivas.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXVII. Identificar, declarar y conservar zonas, edificaciones o elementos con valor histórico o cultural y proponer al R. Ayuntamiento los espacios que deben de ser considerados como áreas naturales protegidas, así como el programa del manejo de los mismos.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXVIII. Supervisar, revisar y recibir nuevos fraccionamientos, en coordinación con las demás dependencias municipales correspondientes.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXIX. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXX. Aplicar y vigilar las disposiciones municipales sobre uso del suelo, construcciones, estacionamientos y anuncios.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXI. Coordinar el desarrollo de proyectos municipales de edificaciones y espacios urbanos, que reporten impacto negativo sobre la comunidad y la ciudad.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXII. Elaborar el diagnóstico ambiental del municipio definiendo en detalle la problemática existente y sus causas, proponiendo un programa de gestión ambiental para su solución.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXIII. Registrar las acciones emprendidas y sus alcances, en materias de reforestación, grado de recuperación de ecosistemas restaurados, niveles abatidos de contaminación.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXIV. Promover y realizar estudios e investigaciones que conduzcan al conocimiento total de las características ecológicas del municipio, para la planeación ambiental del desarrollo.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXV. Proponer la celebración de convenios de colaboración, asesoría y servicio social en materia ambiental con instituciones de educación superior, de servicios e investigación.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXVI. Establecer acciones de prevención y control de emergencias ecológicas y contingencias ambientales cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente afecten directamente al territorio del Municipio.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXVII. Vigilar que los residuos sólidos no peligrosos, domésticos, urbanos, agropecuarios y los que provengan de actividades de construcción y obras públicas, en general se recolecten, dispongan y confinen en sitios autorizados y habitados para ello.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXVIII. Realizar estudios de dasonomía para instrumentar la renovación de la foresta urbana y el cuidado de las especies arbóreas, primordialmente de aquellas especies centenarias de la región.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXXIX. Efectuar estudios para programar adecuadamente las acciones de educación ambiental e implementar los modelos de utilización de recursos y la participación de la comunidad.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XL. Participar coordinadamente con las autoridades estatales y federales en la vigencia y cumplimiento de las leyes normativas reglamentarias que regulan la protección del ambiente.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLI. Proponer al C. Presidente Municipal, las modificaciones correspondientes a la reglamentación existente, a efecto de incluir criterios ecológicos locales, derivados de estudios e investigaciones practicados en el territorio municipal, para que las turne a la comisión competente para su aprobación.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLII. Ejecutar las acciones directas de protección o restauración ambiental, tales como reforestación, control de la erosión, implementación de alternativas ecológicas de uso de suelo, administración de áreas naturales protegidas y solicitar las evaluaciones de impacto ambiental.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLIII. Resolver o remitir a las instancias correspondientes, las denuncias efectuadas por la ciudadanía en materia de deterioro ambiental.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLIV. Informar al C. Presidente Municipal de las acciones en las que se consideren necesarios solicitar el apoyo de los Consejos Promotores del Desarrollo Urbano, de los Consejos Ecológicos de Participación Ciudadana, o de otras instituciones.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLV. Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación de las instituciones federales, estatales o municipales, según sea el área de su competencia.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLVI. Llevar el registro de los profesionistas autorizados para elaborar planos de construcción y edificaciones.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLVII. Aprobar, modificar o rechazar conforme a los planes de desarrollo autorizados, los proyectos de construcciones y de uso de suelo de edificaciones, así como de subdivisiones, fusiones, parcelaciones, relotificaciones y fraccionamientos y las estructuras para publicidad y anuncios, otorgando en caso procedente, la licencia municipal respectiva.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLVIII. Elaborar un catálogo de prestadores de servicios profesionales en materia de desarrollo urbano y ecología.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XLIX. En materia de reforestación, elaborar y establecer los planes, programas y acciones necesarias para lograr la conservación de los recursos naturales existentes, el impulso y desarrollo de la reforestación con especies regionales, la renovación de la foresta urbana en plazas, jardines camellones y el incremento en el índice de metros cuadrados de áreas verdes por habitante.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-L. Autorizar la celebración de operaciones tendientes a la transmisión de la propiedad o posesión de lotes o superficies previstas para su venta, así como para la celebración de operaciones sobre la transmisión de dominio, posesión, acciones, títulos o participaciones que concedan el derecho a la utilización de desarrollos como conjuntos habitacionales, edificios de departamentos, centros o unidades sociales, deportivos, recreativos, vacacionales, y en general para ser utilizados bajo formas colectivas.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LI. Aceptar el otorgamiento de garantías sobre el cumplimiento de las obligaciones del propietario o fraccionador por un monto equivalente al de las obras de urbanización por realizarse y en función del tiempo para su ejecución.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LII. Recibir, tramitar y resolver sobre el otorgamiento de permisos para trabajos en las vías públicas que realicen las compañías prestadoras de servicios, tanto del Sector Público como del Sector Privado de conformidad a las especificaciones y normas aplicables.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LIII. Participar en la celebración de contratos y convenios relacionados con el ejercicio de sus atribuciones.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LIV. Coordinar y atender, en su caso, todas las actividades que les sean encomendadas por el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LV. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LVI. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LVII. Formular el anteproyecto del presupuesto anual de la Secretaría de Desarrollo Urbano y Obras Públicas, conforme a los lineamientos establecidos para tal efecto por la Secretaría de Finanzas y Tesorería Municipal responsabilizándose por su cumplimiento una vez autorizado.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LVIII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas su cargo y del ejercicio de las mismas; y
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-LIX. Las demás que señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Para el despacho de los asuntos de su competencia el Secretario de Desarrollo Urbano y Obras Públicas, se auxiliará de las siguientes Direcciones: General de Desarrollo Urbano y Ecología; General de Obras Públicas y Vialidad; Construcción y Proyectos; de Estimaciones, Costos y Contratos, de Promoción de Obras; así como de las Coordinaciones, Jefaturas y personal que sea necesario.
-
-### CAPÍTULO VII. DE LA SECRETARÍA DE BIENESTAR SOCIAL Y DESARROLLO COMUNITARIO
-
-### CAPÍTULO VIII. DE LA SECRETARÍA DE ADMINISTRACIÓN
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 16.
 
-La Secretaría de Bienestar Social y Desarrollo Comunitario es la dependencia encargada de diseñar, operar y evaluar las políticas y programas sociales de mejoramiento integral de la comunidad; fomentando los valores de solidaridad, cooperación vecinal, confianza e integración social y participación ciudadana, mediante el fomento de las actividades culturales, artísticas y de salud, correspondiéndole el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Social es la dependencia encargada de diseñar, operar y evaluar las políticas y programas sociales de mejoramiento integral de la comunidad; fomentando los valores de solidaridad, cooperación vecinal, confianza e integración social y participación ciudadana, mediante el fomento de las actividades culturales, artísticas y de salud, correspondiéndole el despacho de los siguientes asuntos:
 
 I. Crear, planear, propiciar, fomentar, realizar y vigilar los programas y las actividades educativas, deportivas, artísticas y culturales.
 
@@ -783,13 +801,87 @@ XXIV. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Admin
 
 XXV. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XXVI. Determinar, promover, gestionar y organizar la participación del gobierno municipal en competencias deportivas intermunicipales, estatales y federales; desfiles atléticos y toda clase de eventos deportivos.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Bienestar Social y Desarrollo Comunitario se auxiliará de las Direcciones: de Políticas y Programas Sociales; de Cultura y Recreación; de Educación; de Salud Pública, y de Vinculación Ciudadana y Desarrollo Comunitario, así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+XXVII. Participar con las autoridades competentes en la realización de campañas deportivas municipales y de actividades orientadas a prevenir y disminuir el alcoholismo, la prostitución, el pandillerismo y la drogadicción en el municipio.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXVIII. Promover, gestionar, tramitar y asesorar para que los mejores deportistas del municipio con escasos recursos económicos tengan acceso a becas que apoyen al desenvolvimiento de su deporte.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXIX. Fomentar, gestionar y organizar programas que promuevan el deporte, así como las actividades convenientes que integren a la juventud en el desarrollo social.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXX. Organizar competencias o ligas relacionadas con la diversidad de deportes, así como desfiles atlético-deportivos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXI. Establecer y controlar la formación y funcionamiento de ligas deportivas, así como los lineamientos para su operación.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXII. Planear y coordinar la elaboración del programa anual para el desarrollo y fomento del deporte en el Municipio de Guadalupe, Nuevo León.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXIII. Administrar y controlar los patrocinios que se reciben para el desarrollo de la infraestructura deportiva y sus eventos.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXIV. Controlar y administrar la atención y el seguimiento oportuno de las peticiones ciudadanas, relativas a la solicitud de materiales e instalaciones deportivas en las colonias del Municipio de Guadalupe, N.L.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXV. Autorizar las solicitudes de préstamo de las instalaciones deportivas, para llevar a cabo los eventos que realizan las Instituciones Educativas, Clubes Deportivos, Sindicatos, Organizaciones, Ligas Deportivas, así como de las Dependencias y Unidades Administrativas de ésta Administración Pública Municipal.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXVI. Programar los eventos deportivos que se realizan en coordinación con la Secretaría de Educación y el Instituto del Deporte del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXVII. Participar representando al Municipio de Guadalupe, Nuevo León en las convocatorias que realiza el Instituto del Deporte del Estado para los municipios del Área Metropolitana.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXVIII. Promover y propiciar la creación de espacios físicos destinados a la práctica del deporte en el Municipio, con apego a los planes, programas, declaratorias o disposiciones administrativas sobre desarrollo urbano.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXIX. Promover los convenios con organismos e instituciones públicas, privadas y sociales, con el objeto de buscar patrocinios para las actividades deportivas que se celebren en el Municipio.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XL. Coordinar y verificar que los planes, programas y acciones que se realizan en materia deportiva sean establecidos con base en el Sistema Estatal del Deporte y vigilar su cumplimiento.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLI. Coadyuvar en el desarrollo integral de niños, jóvenes y adultos, a través de programas de práctica deportiva.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLII. Fomentar el desarrollo de los adultos mayores y personas con capacidades diferentes organizando actividades deportivas y de entrenamiento que procuren su superación personal e integración plena a la vida familiar y social.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLIII. Proponer al C. Presidente Municipal las políticas y programas generales relativos a la difusión del Deporte.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XLIV. Participar en la celebración de contratos y convenios relacionados con el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Social se auxiliará de las Direcciones: de Políticas y Programas Sociales; Cultura y Recreación; Educación; Salud Pública; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+
+### CAPÍTULO VIII. DE LA SECRETARÍA DE ADMINISTRACIÓN
 
 ###### ARTÍCULO 17.
 
@@ -831,35 +923,15 @@ XVII. Regular el establecimiento, funcionamiento, mantenimiento, vigilancia y ad
 
 XVIII. Revisar y llevar el control en el cumplimiento de las aportaciones de parte de los deudos para la permanencia de las personas fallecidas en el área de panteones y en caso de incumplimiento, realizar los servicios de exhumación y depósito en el área del osario común debidamente identificados.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XIX. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XX. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-XIX. Levantar y mantener actualizado el inventario general de los bienes muebles e inmuebles que forman parte del Patrimonio Municipal.
+XXI. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XXII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XX. Llevar a cabo la gestión y trámite de servicios generales del municipio, tales como luz, agua, gas y telefonía convencional.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXI. Intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, arrendamiento, comodato, donación y demás en los que se afecte el Patrimonio Municipal.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXII. Realizar el cobro de los daños al patrimonio municipal ocasionado por accidentes viales o actos de vandalismo.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXIII. Administrar y asegurar la conservación y mantenimiento de los bienes muebles e inmuebles del patrimonio municipal y dar mantenimiento de aquellos, propiedad de las entidades y organismos descentralizados.
+XXIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -903,13 +975,11 @@ XXIX. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Admin
 
 XXX. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+Para el despacho de los asuntos de su competencia el Secretario de Administración se auxiliará con las Direcciones: Prestaciones y Relaciones Laborales; Mantenimiento y Servicios Generales; Adquisiciones; Clínica Médica Municipal; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-Para el despacho de los asuntos de su competencia el Secretario de Administración se auxiliará con las Direcciones: de Prestaciones y Relaciones Laborales; de Mantenimiento y Servicios Generales; de Adquisiciones; de Patrimonio; de la Clínica Médica Municipal; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
-
-### CAPÍTULO X. DE LA SECRETARÍA DE FOMENTO ECONÓMICO Y PRODUCTIVO
+### CAPÍTULO IX. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
 ###### ARTÍCULO 18.
 
@@ -1029,19 +1099,19 @@ XL. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Adminis
 
 XLI. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Seguridad Pública se auxiliará de las siguientes Direcciones: de Policía; de Tránsito; y de de (sic) Operaciones; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+Para el despacho de los asuntos de su competencia, el Secretario de Seguridad Pública se auxiliará de las siguientes Direcciones: Policía de Reacción; Policía de Proximidad; Policía de Transito; y de Análisis Delictivo; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-### CAPÍTULO XI. DE LA SECRETARÍA DE CONTRALORÍA Y DEFENSA CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+### CAPÍTULO X. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 19.
 
-A la Secretaría de Fomento Económico y Productivo le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
 
 I. Promover el desarrollo económico municipal, fomentando la creación de nuevas empresas, la ampliación de las existentes y la atracción de otras de diferentes lugares del país o del extranjero.
 
@@ -1113,29 +1183,47 @@ XXVI. Crear el Consejo Municipal de Desarrollo Económico y Mejora Regulatoria, 
 
 8. Las demás que le confieran este reglamento y otros ordenamientos legales.
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XXVII.- Queda a cargo de la Secretaría de Fomento Económico y Productivo, la administración del Salón Polivalente Cristina Larralde de Treviño.
+XXVII.- Queda a cargo de la Secretaría de Desarrollo Económico, la administración del Salón Polivalente Cristina Larralde de Treviño
 
 (ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN XXVI, PERO DEL ANÁLISIS A LA PUBLICACIÓN DE 4 DE NOVIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXVIII.
 
 XXVIII.- Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+XXIX.- Formular y conducir la política de desarrollo de la actividad turística Municipal.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Fomento Económico y Productivo se auxiliará de las siguientes Direcciones: de Empleo y Vinculación Empresarial, y de Parques Municipales; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XXX.- Promover, en coordinación con las Dependencias competentes del Municipio, con los sectores económicos, sociales y turísticos las zonas de desarrollo turístico.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO XII. DE LA SECRETARÍA DE SERVICIOS PÚBLICOS
+XXXI.- Formular y difundir la información municipal de turismo, así como coordinar la publicidad que en esta materia efectúa el Municipio.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXII.- Promover, coordinar, supervisar la organización de espectáculos, congresos, audiciones, representaciones y otras actividades tradicionales y folclóricas para atracción turística.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXXIII.- Promover y apoyar el desarrollo de infraestructura turística y estimular la participación de los sectores social y privado.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Económico se auxiliará de las siguientes Direcciones: de Empleo y Vinculación Empresarial; Fomento Económico; Turismo; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XI. DE LA SECRETARÍA DE CONTRALORÍA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 20.
 
-La Secretaría de Contraloría y Defensa Ciudadana, estará encargada de la auditoría de las dependencias e institutos municipales; de las tareas de normatividad y modernización administrativa y de determinar en su caso, las sanciones que correspondan por la violación a la esfera de los derechos y garantías del ciudadano, por parte de un servidor público municipal en servicio, correspondiéndole el despacho de los siguientes asuntos:
+La Secretaría de Contraloría, estará encargada de la auditoría de las dependencias e institutos municipales; de las tareas de normatividad y modernización administrativa y de determinar en su caso, las sanciones que correspondan por la violación a la esfera de los derechos y garantías del ciudadano, por parte de un servidor público municipal en servicio, correspondiéndole el despacho de los siguientes asuntos:
 
 I. Planear, organizar y coordinar los sistemas y procedimientos de control, vigilancia, modernización, seguimiento y evaluación de las Dependencias y Entidades de la Administración Pública Municipal conforme a la normatividad vigente fomentando la honestidad y la transparencia en el Servicio Público.
 
@@ -1225,9 +1313,9 @@ XXV.- Participar en la celebración de contratos y convenios relacionados con el
 
 XXVI.- Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XXVII. Formular el anteproyecto del presupuesto anual de la Secretaría de Contraloría y Defensa Ciudadana, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
+XXVII. Formular el anteproyecto del presupuesto anual de la Secretaría de Contraloría, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1247,13 +1335,11 @@ XXIX.- En materia de información pública ser la instancia competente para vigi
 
 XXX.- Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+Para el despacho de los asuntos de su competencia el Secretario de Contraloría se auxiliará de las Direcciones de: Auditoria; Normatividad; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-Para el despacho de los asuntos de su competencia el Secretario de Contraloría y Defensa Ciudadana se auxiliará de las Direcciones de: Auditoria; Normatividad y Modernización Administrativa; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
-
-### CAPÍTULO XIII. DE LA SECRETARÍA PARTICULAR
+### CAPÍTULO XII. DE LA SECRETARÍA DE SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 21.
 
@@ -1301,15 +1387,19 @@ XII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Admini
 
 XIII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos se auxiliará de las Direcciones: de Limpia; de Vías Públicas; de Alumbrado; de Imagen Urbana, así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO XIV
+Para el despacho de los asuntos de su competencia, el Secretario de Servicios Públicos se auxiliará de las Direcciones: Limpia; Vías Públicas; Imagen Urbana; Parques y Plazas Municipales, así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XIII. JEFE DE LA OFICINA EJECUTIVA DE LA PRESIDENCIA MUNICIPAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 22.
 
-La Secretaría Particular es la encargada de coordinar las acciones relacionadas con la audiencia pública del C. Presidente Municipal y con la atención al ciudadano a través de la definición de diversas formas de participación ciudadana y comunitaria y le corresponde el despacho de los siguientes asuntos:
+El Jefe de la Oficina Ejecutiva de la Presidencia Municipal, es la encargada (sic) de coordinar las acciones relacionadas con la audiencia pública del C. Presidente Municipal y con la atención al ciudadano a través de la definición de diversas formas de participación ciudadana y comunitaria y le corresponde el despacho de los siguientes asuntos:
 
 I. Planear y coordinar la calendarización de las actividades del C. Presidente Municipal en su interrelación con la ciudadanía, autoridades, organismos, empleados municipales, entre otros a fin de que su agenda diaria se administre de manera óptima y se lleve a cabo eficientemente en tiempo y forma.
 
@@ -1323,7 +1413,9 @@ V. Elaborar las propuestas para la representación del C. Presidente Municipal e
 
 VI. Redactar los mensajes que dirigirá el C. Presidente Municipal durante su presentación en los eventos públicos y oficiales.
 
-VII. Establecer y mantener una comunicación directa con las Secretarías Particulares afines a nivel Municipal o Estatal.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VII. Establecer y mantener una comunicación directa con las Dependencias afines a nivel Municipal o Estatal.
 
 VIII. Establecer y mantener una comunicación directa con las Secretarías y Direcciones de la Administración Pública Municipal.
 
@@ -1343,89 +1435,125 @@ XV. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispu
 
 XVI. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas su cargo y del ejercicio de las mismas.
 
-XVII. Formular el anteproyecto del presupuesto anual de la Secretaría, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVII. Formular el anteproyecto del presupuesto anual del Jefe de la Oficina Ejecutiva de la Presidencia Municipal, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
 
 XVIII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-Para el despacho de los asuntos de su competencia, el Secretario Particular se auxiliará con las Coordinaciones, Jefaturas y demás personal que sea necesario.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Para el despacho de los asuntos de su competencia, el Jefe de la Oficina Ejecutiva de la Presidencia Municipal, se auxiliará con las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
 > <small>(DEROGADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO XIV BIS. SECRETARÍA DE PLANEACIÓN Y ADMINISTRACIÓN DE PROYECTOS ESTRATÉGICOS
+### CAPÍTULO XIV
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-ARTÍCULO 23 BIS.- La Secretaría de Planeación y Administración de Proyectos Estratégicos, será la dependencia encargada de evaluar y dar seguimiento al cumplimiento de los objetivos, programas y acciones contenidas en el Plan Municipal de Desarrollo, estableciendo estándares e indicadores de medición que faciliten el análisis de los resultados derivados de dichas acciones; así como integrar la información municipal que permita el diagnóstico de la situación de la ciudad y la planeación de las políticas públicas; y la definición y seguimiento de los proyectos estratégicos del municipio, Correspondiéndole el despacho de los siguientes asuntos:
-
-I. Planear, coordinar y evaluar las políticas públicas y proyectos estratégicos del Municipio.
-
-II. La planeación estratégica del desarrollo municipal de mediano y largo plazo.
-
-III. La realización de estudios específicos para una pertinente toma de decisiones.
-
-IV. El diseño de proyectos estratégicos de gran alcance.
-
-V. La sistematización y actualización de la estadística municipal. Para tal efecto, contará con un Instituto de Información, Diagnóstico Estratégico y Análisis Municipal.
-
-VI. La generación de vínculos con las dependencias municipales, estatales y federales, particulares, asociaciones, organizaciones, empresas, sociedad civil y demás instituciones y organismos nacionales e internacionales involucradas en los proyectos asignados.
-
-VII. Promover las mejores prácticas, herramientas y mecanismos de control que permitan al municipio gestionar sus proyectos estratégicos en las distintas etapas en las que estos se encuentren.
-
-VIII. Desarrollar métodos de investigación para el planteamiento de políticas públicas.
-
-IX. Supervisar la difusión de las políticas públicas, los proyectos estratégicos y la planeación del desarrollo municipal entre la población.
-
-X. Definir las bases de integración y funcionamiento del Sistema Municipal de Planeación, e integrarlo al sistema de información municipal.
-
-XI. Proponer al Presidente Municipal los criterios para la formulación y evaluación de los Planes, Programas y demás instrumentos del Sistema Municipal de Planeación, así como de los planes y programas de gobierno que lo complementen.
-
-XII. Diseñar bases para promover y garantizar la participación democrática de la sociedad civil en general, en la elaboración del Plan Municipal de Desarrollo.
-
-XIII. Señalar las indicaciones de gestión para evaluar y garantizar el cumplimiento del Plan Municipal de Desarrollo.
-
-XIV. Establecer lineamientos para que las dependencias, informen sobre el cumplimiento del Plan Municipal de Desarrollo, conforme a los indicadores correspondientes.
-
-XV. Cuidar la congruencia entre el Plan de Desarrollo Municipal y los planes y programas que de él emanen; y
-
-XVI. Las demás que señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquellas que específicamente le encomiende el Presidente Municipal
-
-Para el despacho de los asuntos de su competencia el Secretario de Planeación y Administración de Proyectos Estratégicos, se auxiliará de la siguiente Dirección: Dirección del Instituto de Información, Diagnóstico Estratégico y Análisis Municipal; y de las coordinaciones, jefaturas y demás personal que sea necesario.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(DEROGADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 23.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XIV BIS. SECRETARÍA DE PREVENCIÓN SOCIAL
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL P.O. 30 DE OCTUBRE DE 2015, PÁGINA DE LA 100 A LA 102]</small>
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 23 BIS.- La Secretaría de Prevención Social, estará encargada diseñar, proponer e implementar las políticas de prevención en el municipio y le corresponde el despacho de los siguientes asuntos:
+
+I. Promover la realización de estudios e investigaciones de carácter social y criminológico para la identificación de los factores del fenómeno delictivo y de las conductas antisociales, sus causas, efectos y consecuencias.
+
+II. Proponer la implementación de políticas públicas en materia de prevención social de la violencia y la delincuencia, en las vertientes de prevención social, situacional, comunitaria y psicosocial.
+
+III. Apoyar a las demás dependencias del municipio en la implementación de los programas de prevención social de la violencia y la delincuencia.
+
+IV. Diseñar y proponer el Programa Municipal para la Prevención Social de la Violencia y la Delincuencia.
+
+V. Impulsar estrategias de intervención social para la solución de problemas o conflictos cotidianos que afectan la paz, tranquilidad y armonía de los ciudadanos.
+
+VI. Brindar el apoyo y orientación a las víctimas u ofendidos por cualquier delito.
+
+VII. Incentivar la participación de organizaciones de la sociedad civil que desarrollen actividades relacionadas con la prevención social de la violencia y la delincuencia.
+
+VIII. Coordinar y supervisar el funcionamiento de los Centros Municipales de Justicia de Proximidad.
+
+IX. Impulsar la solución de conflictos mediante el dialogo, la mediación o conciliación entre las partes.
+
+X. Orientar los programas de prevención social de la violencia y la delincuencia bajo los principios de integralidad, transversalidad, oportunidad y eficacia.
+
+XI. Desarrollar programas que contribuyan a la participación de la ciudadanía en la prevención y protección al delito y a una cultura de la legalidad.
+
+XII. Implementar programas que fortalezcan la cohesión social en la comunidad.
+
+XIII. Colaborar con el Instituto Municipal de Desarrollo Policial en la generación de instrumentos normativos y de carácter técnico en materia de prevención social de la violencia y la delincuencia.
+
+XIV. Facilitar mecanismos de evaluación externa a través de instancias acreditadas de los programas de prevención social de la violencia y la delincuencia que implemente el Municipio.
+
+XV. Instrumentar alianzas con organizaciones y asociaciones de vecinos, padres de familia, comerciantes o de cualesquier otra naturaleza que posibiliten el cumplimiento de sus objetivos.
+
+XVI. Proponer la celebración de convenios de colaboración con la Federación, los Estados y los Municipios, así como con las Instituciones Educativas y de investigación, organismos de los sectores público, privado, social y académico, del ámbito nacional e internacional, para el eficaz cumplimiento de sus objetivos.
+
+XVII. Coordinar las actividades del centro de mediación, para la solución amistosa a los conflictos entre los ciudadanos guadalupenses.
+
+XVIII. Fomentar la cultura de tolerancia y respeto entre los ciudadanos guadalupenses.
+
+XIX. Difundir los servicios que ofrece el Municipio de Guadalupe a la comunidad en general en los Centros de Mediación.
+
+XX. Dirigir y supervisar el cumplimiento del Programa de Vecinos Vigilantes, cuyos objetivos son: fomentar la participación integral de la ciudadana en acciones de prevención y contención del delito, especialmente de los delitos de fuero común, mediante estrategias que fortalezcan el tejido social, vía reconstrucción y fortalecimiento de la cohesión y unidad en el núcleo base de la sociedad, que es la colonia, recuperando la convivencia y solidaridad vecinal, así como llevar a cabo, acciones de sinergia entre autoridades y sociedad, creando comités de vecinos vigilantes en cada colonia, cuya misión será la de promover la cultura cívica de la denuncia ciudadana, así como también colaborar, mediante la prevención el reforzamiento de la tranquilidad y paz social, para mejorar el ambiente social y calidad de vida de los guadalupenses.
+
+XXI. Dirigir, supervisar y evaluar todas las acciones que en materia de protección civil se lleven a cabo en el Municipio.
+
+XXII. Organizar las acciones de coordinación con las Autoridades Estatales y Federales, así como con los sectores social y privado, para los planes de prevención y control de altos riesgos, emergencias y desastres.
+
+XXIII. Salvaguardar la integridad física, los bienes y el entorno de las comunidades del municipio, supervisando, elaborando y operando programas de fortalecimiento de la cultura de la prevención, y el Plan Municipal de contingencias que permita evitar y/o minimizar los daños que ocasionan los: Fenómenos Socio-Organizativos: Disturbios Sociales, Terrorismo y Sabotaje, Interrupción de los Servicios vitales a la población, Accidentes Carreteros, Ferroviarios, Aéreos y Marítimos, Concentraciones masivas de población. Fenómenos Sanitarios: Intoxicaciones, Epidemias, Contingencia Ambiental, Plagas, Lluvia Ácida. Fenómenos Químicos: Incendios forestales, Incendios Industriales, Incendios Urbanos, Explosiones, Derrame de Sustancias Químicas, Radiaciones, Fugas de Gases, Envenenamientos. Fenómenos Hidrometeorológicas: Huracanes, Lluvias Intensas, Inundaciones, Desbordamiento de Ríos y Arroyos, Granizadas, Temperaturas Extremas, Vientos Fuertes, Sequías, Deslaves y Tormentas Eléctricas. Fenómenos Geológicos: Deslizamientos y Derrumbes, Colapso de Suelos, Hundimiento y Agrietamiento de Suelos, efectos en el municipio derivados de los fenómenos provocados por Sismos, Vulcanismo, Tsunamis o Maremotos en el territorio nacional.
+
+XXIV. Coordinarse con los planes de acción de todos los cuerpos de auxilio, dependencias municipales, voluntarios y sociedad civil para salvaguardar la vida y los bienes de los ciudadanos, de manera preventiva y en casos de desastre actuar oportunamente.
+
+XXV. Lograr la integración y participación de las Asociaciones Religiosas, con estricto respeto a sus creencias a los programas sociales y comunitarios del municipio para trabajar en beneficios (sic) de los guadalupenses.
+
+XXVI. Propiciar las condiciones óptimas que faciliten la colaboración de las Asociaciones Religiosas para que con su capital humano y estructura social, sean un apoyo a los programas sociales del municipio de Guadalupe.
+
+XXVII. Facilitar a las Asociaciones Religiosas la práctica de sus cultos en total respeto a la libertad de creencias que emana de la Constitución Política de los Estados Unidos Mexicanos.
+
+XXVIII. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
+
+XXIX. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+
+XXX. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas (sic) su cargo y del ejercicio de las mismas.
+
+XXXI. Formular el anteproyecto del presupuesto anual de la Secretaría, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
+
+XXXII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
+
+Para el despacho de los asuntos de su competencia el Secretario de Prevención Social, se auxiliará de las siguientes Direcciones: Técnica; Justicia Cotidiana; Prevención Social del Delito; así como de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 ### CAPÍTULO XV
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
-### CAPÍTULO XVI. DE LA DIRECCIÓN GENERAL DE TECNOLOGÍAS DE LA INFORMACIÓN
-
 ###### ARTÍCULO 24.
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2012)
 
-### CAPÍTULO XVII. DE LA DIRECCIÓN GENERAL DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+### CAPÍTULO XVI. DE LA DIRECCIÓN GENERAL DE GOBIERNO DIGITAL Y TECNOLOGÍA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### ARTÍCULO 25.
 
-La Dirección General de Tecnologías de la Información, es la encargada de utilizar las tecnologías que se necesiten para la gestión y transformación de la información, el uso de computadoras, programas que permitan crear, modificar, almacenar, proteger y recuperar esa información, brindando servicio de comunicación por medio de redes de datos y telefonía, disminuyendo costos al aplicar la tecnología de punta y le corresponde el despacho de los siguientes asuntos:
+La Dirección General de Gobierno Digital y Tecnología, es la encargada de utilizar las tecnologías que se necesiten para la gestión y transformación de la información, el uso de computadoras, programas que permitan crear, modificar, almacenar, proteger y recuperar esa información, brindando servicio de comunicación por medio de redes de datos y telefonía, disminuyendo costos al aplicar la tecnología de punta y le corresponde el despacho de los siguientes asuntos:
 
 I. Administrar los sistemas de información, procurando un servicio de cómputo para todas las dependencias, incluyendo las necesidades de redes o interconexiones.
 
@@ -1473,173 +1601,37 @@ XXII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Admin
 
 XXIII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-Para el despacho de los asuntos de su competencia, el Director General de Tecnologías de la Información, se auxiliará con las Coordinaciones, Jefaturas y demás personal que sea necesario.
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+XXIV. Coordinar y gestionar la existencia de internet gratuito en plazas públicas municipales así como en las bibliotecas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO XVIII
+XXV. Utilizar las plataformas digitales para informar a la ciudadanía sobre los planes de Gobierno y lo correspondiente a la transparencia.
 
-DE LA DIRECCIÓN GENERAL DE POLÍTICAS DE SEGURIDAD PATRIMONIAL Y TENENCIA DE LA TIERRA.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+Para el despacho de los asuntos de su competencia, el Director General de Gobierno Digital y Tecnología, se auxiliará con las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO XVII
 
 ###### ARTÍCULO 26.
 
-La Dirección General de Participación Ciudadana, es la encargada de entablar comunicación directa y constante con los ciudadanos, fomentando a la ciudadanía a coadyuvar en los proyectos del municipio, con la finalidad de ayudar al mejoramiento integral de las comunidades en todos sus aspectos, correspondiéndole el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2015)
 
-I. Acercar el Gobierno Municipal a la comunidad, con la finalidad de desarrollar, impulsar, promover y difundir las áreas de oportunidad del Municipio y de particulares, así como vigilar la prestación de los servicios públicos.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-II. Propiciar la participación de los ciudadanos organizados en las diferentes Delegaciones en el diseño y aplicación de políticas públicas del Gobierno Municipal.
-
-III. Representar al Gobierno Municipal ante la comunidad guadalupense en la realización de acuerdos y compromisos para la elaboración de proyectos en las diferentes zonas en que se divide el Municipio tendientes a mejorar su bienestar.
-
-IV. Detectar las necesidades de desarrollo económico, desarrollo urbano y obra pública, servicios públicos y de desarrollo en general, sugiriendo acciones y recomendaciones que coadyuven a brindar un mejor servicio a la comunidad, con el fin de promover a las delegaciones como efectivos Centros de Vinculación Ciudadana.
-
-V. Coadyuvar conjuntamente con la Secretaría de Fomento Económico y Productivo en la ejecución de las políticas públicas y de desarrollo económico y social que tengan como finalidad la generación de empleos, el mejoramiento del nivel de ingresos de la comunidad y el fomento a la industria en general.
-
-VI. Participar conjuntamente con la Secretaría de Bienestar Social y Desarrollo Comunitario en la difusión y promoción de las actividades culturales, deportivas, artísticas, recreativas y de salud, ante la comunidad guadalupense, en las diferentes delegaciones en que se divide el Municipio de Guadalupe.
-
-VII. Participar conjuntamente con la Dirección del Sistema DIF Guadalupe a través de las Delegaciones de Desarrollo y Servicios brindando el apoyo necesario para el desarrollo de los programas orientados al mejoramiento del bienestar de la niñez, ancianos, desvalidos, menores en estado de abandono, indigentes y mujeres maltratadas.
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-VIII. Mantener contacto y colaboración permanente con la Secretaría de Desarrollo Urbano y Obras Públicas, para sugerir y proponer las acciones correctivas para mejorar la prestación de los servicios y la ejecución de la obra pública autorizada.
-
-IX. Establecer reuniones periódicas con los vecinos, con base a un programa de actividades, atender sus inquietudes y sugerencias, y darle seguimiento a las mismas.
-
-X. Mantener contacto y colaboración permanente con la Secretaría de Servicios Públicos para sugerir y proponer las acciones correctivas para mejorar la prestación de los servicios públicos.
-
-XI. Coordinar las actividades del centro de mediación, para la solución amistosa a los conflictos entre los ciudadanos guadalupenses.
-
-XII. Fomentar la cultura de tolerancia y respeto entre los ciudadanos guadalupenses.
-
-XIII. Difundir los servicios que ofrece el Municipio de Guadalupe a la comunidad en general en cada una de las Delegaciones de Desarrollo y Servicios y Centros de Mediación.
-
-XIV. Fomentar, gestionar y organizar la participación ciudadana en los programas de obras y servicios que lleva a cabo el Municipio, a través de los Jueces Auxiliares.
-
-XV. Promover en las colonias, fraccionamientos, comunidades y asentamientos, que conforman el Municipio, la constitución, la organización y funcionamiento de los Jueces Auxiliares con el objeto de coadyuvar con la Autoridad Municipal.
-
-XVI. Capacitar a los Jueces Auxiliares y Suplentes, sobre las leyes, reglamentos y otras disposiciones jurídicas vigentes que se señalen como de su competencia, así como vigilar el cumplimiento de los mismos.
-
-XVII. Elaborar y mantener actualizado el padrón de Jueces Auxiliares y Suplentes, con los nombres y domicilios de sus integrantes y sus registros de firmas.
-
-XVIII. Promover e impulsar la colaboración y participación de los vecinos, a través de los Jueces Auxiliares, a fin de promover alternativas de solución a los problemas que se presentan en sus comunidades.
-
-XIX. Canalizar a las distintas áreas de la Administración Municipal las quejas de los vecinos.
-
-XX. Participar en la organización de las visitas de trabajo que realice el Presidente Municipal o Funcionarios, a las colonias del Municipio.
-
-XXI. Convocar a la Asamblea Mensual de Jueces Auxiliares.
-
-XXII. Apoyar a los Jueces Auxiliares en su función de la Administración de Justicia.
-
-XXIII. Coadyuvar con los Jueces Auxiliares y las Autoridades Federales y Estatales, cuando realiza alguna promoción para el mejoramiento de la comunidad.
-
-XXIV. Coordinar la entrega de Notificaciones, citatorios, demandas, etc. a ciudadanos guadalupenses, por parte de autoridades Federales, Estatales o municipales.
-
-XXV. Realizar sondeos en las diferentes colonias del Municipio de Guadalupe, N.L., con la finalidad de llevar una estadística de las necesidades de la comunidad, para canalizarlas a las dependencias correspondientes, así como darle seguimiento a las mismas.
-
-XXVI. Mantener contacto con los diferentes municipios del Estado de Nuevo León, con la finalidad de intercambiar propuestas en beneficio de la comunidad guadalupense.
-
-XXVII. Participar en la celebración de contratos y convenios relacionados con el ejercicio de sus atribuciones.
-
-XXVIII. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
-
-XXIX. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXX. Formular el anteproyecto del presupuesto anual de la Dirección General de Participación Ciudadana, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
-
-XXXI. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas su cargo y del ejercicio de las mismas.
-
-XXXII. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Para el despacho de los asuntos de su competencia, el Director General Participación Ciudadana, se auxiliará de las Coordinaciones; Delegaciones; Jefaturas y demás personal que sea necesario.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-### CAPÍTULO XIX. DEL SISTEMA MUNICIPAL DE DESARROLLO INTEGRAL DE LA FAMILIA (D.I.F.)
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+### CAPÍTULO XVIII
 
 ###### ARTÍCULO 27.
 
-La Dirección General de Políticas de Seguridad Patrimonial y Tenencia de la Tierra, tiene como objeto diseñar y desarrollar mecanismos que permitan atender la problemática social de la regularización de la tenencia de la tierra, correspondiéndole el despacho de los siguientes asuntos:
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-I. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-II. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-III. Coordinar la participación de las instancias estatales y federales en programas y proyectos municipales en relación con las políticas de seguridad patrimonial y tenencia de la tierra, promoviendo actividades de gestión ante las mismas, así como supervisar su ejecución.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-IV. Investigar, analizar, adecuar y proponer planes y programas de carácter federal y estatal aplicables en el municipio, en materia de políticas de seguridad patrimonial y tenencia de la tierra.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-V. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-VI. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-VII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-VIII. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2012)
-
-IX. Atender la problemática social de la regularización de la Tenencia de la Tierra.
-
-X. Participar en la celebración de contratos y convenios relacionados con el ejercicio de sus atribuciones.
-
-XI. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
-
-XII. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XIII. Formular el anteproyecto del presupuesto anual de la Dirección General de Políticas de Seguridad Patrimonial y Tenencia de la Tierra, conforme a los lineamientos establecidos para tal efecto, responsabilizándose para su cumplimiento una vez autorizado.
-
-XIV. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas su cargo y del ejercicio de las mismas.
-
-XV. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADO P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Para el despacho de los asuntos de su competencia, el Director General de Políticas de Seguridad Patrimonial y Tenencia de la Tierra, se auxiliará de las Coordinaciones, Jefaturas y demás personal que sea necesario.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XX. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL
+### CAPÍTULO XIX. DEL SISTEMA MUNICIPAL DE DESARROLLO INTEGRAL DE LA FAMILIA (D.I.F.)
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1765,7 +1757,7 @@ Para el despacho de los asuntos de su competencia la Presidenta Honoraria del Si
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO XXI. DE LA DIRECCIÓN GENERAL DE DEPORTES
+### CAPÍTULO XX. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1825,75 +1817,43 @@ XX. Las demás que le señalen como de su competencia las leyes, reglamentos y o
 
 Para el despacho de los asuntos de su competencia, el Director General de Comunicación Social se auxiliará con las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-### CAPÍTULO XXII. DE LOS ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO XXI
 
 ###### ARTÍCULO 30.
 
-La Dirección General de Deportes es la encargada de diseñar programas deportivos, fomentando la participación ciudadana en el deporte municipal, con la finalidad de llegar a los niveles más altos de competencia a nivel nacional e internacional, correspondiéndole el despacho de los siguientes asuntos:
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2015)
 
-I. Determinar, promover, gestionar y organizar la participación del gobierno municipal en competencias deportivas intermunicipales, estatales y federales; desfiles atléticos y toda clase de eventos deportivos.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-II. Participar con las autoridades competentes en la realización de campañas deportivas municipales y de actividades orientadas a prevenir y disminuir el alcoholismo, la prostitución, el pandillerismo y la drogadicción en el municipio.
+### CAPÍTULO XXI BIS. DE LA DIRECCIÓN GENERAL DE RELACIONES PÚBLICAS
 
-III. Promover, gestionar, tramitar y asesorar para que los mejores deportistas del municipio con escasos recursos económicos tengan acceso a becas que apoyen al desenvolvimiento de su deporte.
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-IV. Fomentar, gestionar y organizar programas que promuevan el deporte, así como las actividades convenientes que integren a la juventud en el desarrollo social.
+ARTÍCULO 30 BIS.- La Dirección General de Relaciones Públicas, es la encargada de Coordinar y dar seguimiento a las actividades relativas a las relaciones públicas del C. Presidente Municipal y le corresponde el despacho de los siguientes asuntos:
 
-V. Organizar competencias o ligas relacionadas con la diversidad de deportes, así como desfiles atlético-deportivos.
+I. Definir en acuerdo con el Presidente Municipal los lineamientos y políticas de las relaciones públicas de la administración pública municipal.
 
-VI. Establecer y controlar la formación y funcionamiento de ligas deportivas, así como los lineamientos para su operación.
+II. Coordinar las entrevistas, presentaciones y demás actividades relacionadas con el Presidente Municipal.
 
-VII. Planear y coordinar la elaboración del programa anual para el desarrollo y fomento del deporte en el Municipio de Guadalupe, Nuevo León.
+III. Promover la armonía en las relaciones entre el gobierno municipal y los diferentes sectores social, así como con las dependencias y entidades Federales, Estatales y Municipales.
 
-VIII. Administrar y controlar los patrocinios que se reciben para el desarrollo de la infraestructura deportiva y sus eventos.
+IV. Confirmación y seguimiento de agenda del Presidente Municipal.
 
-IX. Controlar y administrar la atención y el seguimiento oportuno de las peticiones ciudadanas, relativas a la solicitud de materiales e instalaciones deportivas en las colonias del Municipio de Guadalupe, N.L.
+V. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
 
-X. Autorizar las solicitudes de préstamo de las instalaciones deportivas, para llevar a cabo los eventos que realizan las Instituciones Educativas, Clubes Deportivos, Sindicatos, Organizaciones, Ligas Deportivas, así como de las Dependencias y Unidades Administrativas de ésta Administración Pública Municipal.
+VI. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
 
-XI. Programar los eventos deportivos que se realizan en coordinación con la Secretaría de Educación y el Instituto del Deporte del Estado.
+VII. Formular el anteproyecto del presupuesto anual de la Dirección, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
 
-XII. Participar representando al Municipio de Guadalupe, Nuevo León en las convocatorias que realiza el Instituto del Deporte del Estado para los municipios del Área Metropolitana.
+VIII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas (sic) su cargo y del ejercicio de las mismas.
 
-XIII. Promover y propiciar la creación de espacios físicos destinados a la práctica del deporte en el Municipio, con apego a los planes, programas, declaratorias o disposiciones administrativas sobre desarrollo urbano.
+IX. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
 
-XIV. Promover los convenios con organismos e instituciones públicas, privadas y sociales, con el objeto de buscar patrocinios para las actividades deportivas que se celebren en el Municipio.
+Para el despacho de los asuntos de su competencia, el Director General de Relaciones Públicas, se auxiliará con las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-XV. Coordinar y verificar que los planes, programas y acciones que se realizan en materia deportiva sean establecidos con base en el Sistema Estatal del Deporte y vigilar su cumplimiento.
-
-XVI. Coadyuvar en el desarrollo integral de niños, jóvenes y adultos, a través de programas de práctica deportiva.
-
-XVII. Fomentar el desarrollo de los adultos mayores y personas con capacidades diferentes organizando actividades deportivas y de entrenamiento que procuren su superación personal e integración plena a la vida familiar y social.
-
-XVIII. Proponer al C. Presidente Municipal las políticas y programas generales relativos a la difusión del Deporte.
-
-XIX. Participar en la celebración de contratos y convenios relacionados con el ejercicio de sus atribuciones.
-
-XX. Resguardar el archivo de la documentación relativa a los asuntos de su competencia.
-
-XXI. Dar cumplimiento en lo que corresponde a sus funciones de acuerdo a lo dispuesto a la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-XXII. Formular el anteproyecto del presupuesto anual de la Dirección General, conforme a los lineamientos establecidos para tal efecto, responsabilizándose por su cumplimiento, una vez autorizado.
-
-XXIII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas su cargo y del ejercicio de las mismas.
-
-XXIV. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
-
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
-
-Para el despacho de los asuntos de su competencia, el Director General de Deportes se auxiliará con las Coordinaciones, Jefaturas y demás personal que sea necesario.
-
-### CAPÍTULO XXIII. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO XXII. DE LOS ORGANISMOS DESCENTRALIZADOS
 
 ###### ARTÍCULO 31.
 
@@ -1902,6 +1862,22 @@ El R. Ayuntamiento con objeto de llevar a cabo una oportuna toma de decisiones y
 Los organismos descentralizados, cualquiera que sea la forma o estructura que adopten, serán los que se constituyan total o mayoritariamente con fondos del Municipio.
 
 Tales dependencias se rigen por las disposiciones consignadas en este reglamento y demás preceptos, contratados o normativas que les resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+La administración pública municipal descentralizada o paraestatal se integra con los siguientes organismos:
+
+I. El Instituto Municipal de la Mujer de Guadalupe.
+
+II. El Instituto Municipal de Juventud de Guadalupe.
+
+III. El Instituto Municipal del Deporte de Guadalupe.
+
+IV. El Instituto Municipal de Desarrollo Policial.
+
+V. El Instituto Municipal (sic) Planeación Integral.
+
+VI. Los demás organismos y entidades que apruebe el R. Ayuntamiento o que señale (sic) las leyes y reglamentos.
 
 ###### ARTÍCULO 32.
 
@@ -1912,6 +1888,8 @@ El C. Presidente Municipal propondrá al R. Ayuntamiento la creación, fusión �
 Los Organismos descentralizados gozarán de personalidad jurídica y patrimonio propio y serán creados para auxiliar al R. Ayuntamiento en el ejercicio de sus funciones.
 
 El R. Ayuntamiento designará un Comisario para cada uno de los organismos descentralizados y establecerá las formas para contar con una adecuada información sobre el funcionamiento de dichos organismos.
+
+### CAPÍTULO XXIII. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 34.
 
@@ -1990,3 +1968,15 @@ SEGUNDO. Se instruye a la Secretaria del Ayuntamiento y a la Secretaria de Contr
 TERCERO. Se instruye a la Secretaría del Ayuntamiento y a la Secretaría de Finanzas y Tesorería Municipal para que lleven a cabo las acciones pertinentes, administrativas y presupuestales, que en su caso correspondan, para garantizar el funcionamiento del Programa y de la Dirección creada en virtud de las presentes reformas
 
 CUARTO. Se instruye a la titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo, para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE APRUEBA Y AUTORIZA LAS REFORMAS POR MODIFICACIÓN Y ADICIÓN A DIVERSOS ARTÍCULOS DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE NUEVO LEÓN”.]
+
+PRIMERO: Las reformas del Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León, una vez publicadas en el Periódico Oficial del Estado, entrarán en vigor el día 31 de octubre de 2015, a excepción de las reformas a que refiere el artículo transitorio segundo del presente apartado.
+
+SEGUNDO: Las reformas del Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León, relativas a la creación de organismos públicos descentralizados municipales, entrarán en vigor a partir de la fecha en que se obtenga la autorización del H. Congreso del Estado de Nuevo León, en términos de lo dispuesto por el artículo 83 de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
+
+TERCERO: Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León.
+
+CUARTO: Se instruye a la titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo, para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal y en el sitio Oficial de internet del Municipio.
