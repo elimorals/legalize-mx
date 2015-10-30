@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-del-centro-de-atencion-integral-al-75921"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-07-28"
-last_updated: "2010-07-28"
+last_updated: "2015-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE ATENCION INTEGRAL AL MENOR EN DESAMPARO
 
-REGLAMENTO INTERIOR DEL CENTRO DE ATENCION INTEGRAL AL MENOR EN DESAMPARO DEL ESTADO DE YUCATAN
+REGLAMENTO INTERIOR DEL CENTRO DE ATENCIÓN INTEGRAL AL MENOR EN DESAMPARO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el miércoles 28 de julio de 2010.
 
@@ -57,9 +57,11 @@ V. El perfil de ingreso para las niñas, niños y adolescentes; y
 
 VI. Las normas que regulen el trato que da el personal que presta sus servicios en el CAIMEDE a los niños, niñas y adolescentes albergados en el mismo.
 
+> <small>(REFORMADO, D.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 2.
 
-El CAIMEDE es la unidad administrativa dependiente del Sistema para el Desarrollo Integral de la Familia de Yucatán encargada de dar albergue a los niños, niñas y adolescentes en situación de desamparo, y tiene como principio rector el del interés superior de los mismos, que implica dar prioridad a su bienestar en todas las circunstancias y ante cualquier interés que vaya en su perjuicio, de conformidad con el artículo 3 fracción 1 de la Convención sobre los Derechos del Niño, artículo 7 de la Convención sobre los Derechos de las Personas con Discapacidad y el artículo 6 fracción I de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+El CAIMEDE es la unidad administrativa dependiente del Sistema para el Desarrollo Integral de la Familia de Yucatán encargada de dar albergue a las niñas, niños y adolescentes en situación de desamparo, y tiene como principio rector el del interés superior de la niñez de conformidad con los (sic) dispuesto por los artículos 3, párrafo 1, de la Convención sobre los Derechos del Niño; 7 de la Convención sobre los Derechos de las Personas con Discapacidad; y 4 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
 ###### Artículo 3.
 
@@ -69,7 +71,9 @@ I. Reglamento: el Reglamento Interior del Centro de Atención Integral al Menor 
 
 II. CAIMEDE: el Centro de Atención Integral al Menor en Desamparo;
 
-III. Ley: la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 30 DE OCTUBRE DE 2015)</small>
+
+III. Ley: la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán;
 
 IV. Convención: la Convención sobre los Derechos del Niño, adoptada y abierta a la firma y ratificación por la Asamblea General de la Organización de las Naciones Unidas en noviembre de 1989 y en vigor a partir del 2 de septiembre de 1990;
 
@@ -85,9 +89,11 @@ VIII. Niña, Niño o Adolescente con discapacidad: Toda persona menor de edad qu
 
 ### CAPÍTULO I. DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-Los niños, niñas y adolescentes albergados en el CAIMEDE gozarán de todos los derechos que les confiere la legislación vigente, en especial los reconocidos por la Convención sobre los Derechos del Niño, por la Convención sobre los Derechos de las Personas con Discapacidad y por la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, y además, mencionados de manera enunciativa y no limitativa, de los siguientes:
+Los (sic) niñas, niños y adolescentes albergados en el CAIMEDE gozarán de los derechos que les confiere la Convención sobre los Derechos del Niño, la Convención sobre los Derechos de las Personas con Discapacidad, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la ley y demás disposiciones legales y normativas aplicables, entre los que destacan, de manera enunciativa, los siguientes:
 
 I. Derecho de acceso a la información, de conocer el presente Reglamento y de que le sea explicado en términos entendibles de acuerdo a su edad y condición;
 
@@ -291,9 +297,15 @@ En caso de enfermedad física o mental de alguna niña, niño o adolescente del 
 
 El CAIMEDE operará durante todo el año, las veinticuatro horas del día, para albergar varones de entre cero y once años de edad, y niñas y adolescentes del sexo femenino de entre 0 y 17 años de edad, que sean víctimas de violencia, omisión de cuidados o abandono, con el fin de salvaguardar su integridad física y mental.
 
+> <small>(REFORMADO, D.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-Las causas por las que un niño, niña o adolescente puede ser albergado en el CAIMEDE, son las establecidas en las fracciones I y II del artículo 57 de la Ley.
+Las niñas, niños y adolescentes podrán ser albergados en el CAIMEDE, cuando se presenten las siguientes causas:
+
+I. No tengan familia o teniéndola, esta se encuentre imposibilitada para proporcionarles alimentos o los cuidados y asistencia especiales y adecuados que exijan sus condiciones particulares.
+
+II. Sean víctimas de situaciones de violencia familiar o de cualquier otra que ponga en peligro su integridad física o psicológica.
 
 ###### Artículo 22.
 
@@ -377,9 +389,11 @@ IV. Por alguna circunstancia especial. Cuando algún niño, niña o adolescente,
 
 Cuando alguno de las niñas, niños o adolescentes albergados carezca de acta de nacimiento, el CAIMEDE tramitará dicho documento ante la oficialía del Registro Civil correspondiente, a fin de salvaguardar su derecho a la identidad.
 
+> <small>(REFORMADO, D.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 28.
 
-Los niños, niñas y adolescentes albergados tendrán acceso a programas de entretenimiento, educativos, culturales, deportivos y, en general, a cualquier actividad o evento que contribuya a su sano desarrollo como persona, en cumplimiento de lo establecido por el artículo 31 de la Convención sobre los Derechos de Niño y el artículo 88 de la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Yucatán.
+Los (sic) niñas, niños y adolescentes albergados tendrán acceso a programas de entretenimiento, educativos, culturales, deportivos y, en general, a cualquier actividad o evento que contribuya a su sano desarrollo como persona, de conformidad con lo establecido en los artículos 31 de la Convención sobre los Derechos de (sic) Niño; 13, fracción XII, 60 y 61 de la Ley General de los Derechos de Niñas, Niños y Adolescentes; y 8 de la ley.
 
 #### Sección Primera. Procedimiento de Ingreso de las Niñas, Niños y Adolescentes
 
@@ -699,7 +713,9 @@ II. Estar en ejercicio de sus derechos políticos y civiles;
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal;
 
-IV. Contar con el título de licenciado en área social o administrativa;
+> <small>(REFORMADA, D.O. 30 DE OCTUBRE DE 2015)</small>
+
+IV. Contar con formación en el área de humanidades o sociales;
 
 V. Experiencia en manejo de personal, relaciones humanas, en cargos directivos de administración pública, en materia de derechos humanos y de protección a la infancia, y
 
@@ -1438,3 +1454,15 @@ En la ciudad de Mérida, capital del Estado de Yucatán, Estados Unidos Mexicano
 DR. TIRZO ROLANDO SUÁREZ SAHUÍ
 
 DIRECTOR GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN YUCATÁN
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 30 DE OCTUBRE DE 2015.
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este acuerdo.
