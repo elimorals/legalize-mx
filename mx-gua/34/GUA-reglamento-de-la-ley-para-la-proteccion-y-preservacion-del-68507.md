@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-para-la-proteccion-y-preservacion-del-6850
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-05-01"
-last_updated: "2009-05-01"
+last_updated: "2015-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES
 
-REGLAMENTO DE LA LEY PARA LA PROTECCION Y PRESERVACION DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACION PRODUCIDA POR FUENTES MOVILES
+REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO PARA PREVENIR Y CONTROLAR LA CONTAMINACIÓN PRODUCIDA POR FUENTES MÓVILES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE VERIFICACIÓN VEHICULAR, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 1 de mayo de 2009.
 
@@ -738,3 +740,135 @@ José Gerardo Mosqueda Martínez
 El Secretario de Desarrollo Económico Sustentable
 
 Héctor Germán René López Santillana
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 131, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO EN MATERIA DE VERIFICACIÓN VEHICULAR”.]</small>
+
+Inicio de vigencia
+
+Artículo Primero. El presente Reglamento entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato para Prevenir y Controlar la Contaminación Producida por Fuentes Móviles, contenido en el Decreto Gubernativo Número 105, publicado en el Periódico Oficial del Gobierno del Estado número 70, Primera Parte, de fecha 1 de mayo del 2009.
+
+Autorizaciones para centros de verificación vehicular en la prueba estática
+
+Artículo Tercero. Por única ocasión, el Instituto otorgará autorizaciones, por un período de 2 años, del 1 de enero del 2016 al 31 de diciembre de 2017, para la operación y funcionamiento de un centro de verificación vehicular en la prueba estática, a quienes sean titulares de autorizaciones que han venido operando un centro de verificación vehicular en la prueba estática, para tal efecto deberán presentar su solicitud en la sede del Instituto en el municipio de Salamanca, Gto., del 3 al 20 de noviembre del 2015 y acreditar los siguientes requisitos:
+
+I. Solicitud suscrita por la persona solicitante;
+
+II. Original o copia certificada y simple para cotejo que acredite la personalidad jurídica de la persona solicitante;
+
+III. Original o copia certificada y simple para cotejo del documento que acredite el derecho del solicitante respecto al inmueble donde pretenda establecerse un centro de verificación vehicular;
+
+IV. Original o copia certificada del permiso de uso de suelo vigente expedido por la autoridad municipal, el cual debe especificar la aprobación del uso de suelo para un centro de verificación vehicular;
+
+V. Copia simple del Registro Federal de Contribuyentes de la persona solicitante;
+
+VI. El equipo analizador de emisiones contaminantes y, en su caso, el opacímetro, ambos de homologación mexicana y con las características establecidas en las disposiciones jurídicas aplicables;
+
+VII. Memoria fotográfica con leyenda descriptiva de cada una de las áreas del centro de verificación vehicular, a fin de acreditar que cuenta con la siguiente infraestructura y equipo:
+
+a) Una superficie mínima, exclusiva para el centro de verificación vehicular, de doscientos metros cuadrados;
+
+b) Un acceso libre y directo de la vía pública al área de verificación exento de conflicto vial por su ubicación, que permita la adecuada circulación dentro y fuera de las instalaciones del centro de verificación vehicular;
+
+c) Un área destinada para el servicio de verificación techada y ventilada, con piso de concreto o cemento, que permita el adecuado manejo y operación del equipo analizador de gases a la temperatura y humedad de óptimo funcionamiento;
+
+d) Un patio de maniobras, a fin de permitir el adecuado manejo de los vehículos dentro de las instalaciones del centro de verificación vehicular;
+
+e) Área de estacionamiento para vehículos en espera, para realizar la verificación vehicular;
+
+f) Servicio sanitario en condiciones higiénicas;
+
+g) Una mampara para información, que cumpla con las siguientes especificaciones:
+
+1. Ubicarse en un lugar visible del área destinada para atención a la persona usuaria;
+
+2. Dimensiones mínimas de dos metros de largo por un metro de ancho;
+
+3. Contendrá la siguiente información:
+
+A. Nombre del titular de la autorización y del personal que labora en el centro de verificación vehicular;
+
+B. Copia de la autorización para el establecimiento y operación del centro de verificación vehicular;
+
+C. Clave de identificación oficial del centro de verificación vehicular, asignada por el Instituto;
+
+D. Copia de las tablas de niveles máximos permisibles de emisión de contaminantes, publicadas en las Normas Oficiales Mexicanas vigentes;
+
+E. Requisitos que deberá cumplir el solicitante para obtener el servicio de verificación vehicular;
+
+F. Períodos establecidos en el Programa Estatal;
+
+G. Costo del servicio de verificación que incluya el impuesto al valor agregado, con la leyenda de que es independiente del resultado de la verificación;
+
+H. Logotipos del Programa Estatal, del Instituto y de la Procuraduría con dimensiones de veinte por veinte centímetros, en color oficial, en el extremo superior derecho;
+
+I. Copia del Reglamento de la Ley para la Protección y Preservación del Ambiente del Estado de Guanajuato en materia de Verificación Vehicular y del Programa Estatal, así como de las disposiciones que la autoridad emita con carácter obligatorio, en buen estado de uso para consulta de los interesados; y
+
+J. Números telefónicos del Instituto, de la Procuraduría y de la Presidencia Municipal correspondiente, para la presentación de dudas, quejas y denuncias con motivo del servicio que el centro de verificación ofrece.
+
+h) La imagen de los centros de verificación vehicular autorizada por el Instituto;
+
+i) Señalamientos consistentes en:
+
+* Flechas informativas respecto al sentido de la circulación; y
+
+* Letreros que indiquen cada una de las actividades que se realizan en las diferentes áreas; y
+
+j) Contar con botiquín de primeros auxilios, extintores de 4.5 kg. de polvo químico ABC, y buzón de quejas y sugerencias.
+
+VIII. Contar con el personal responsable del funcionamiento y servicio;
+
+IX. Demostrar que quien funja como verificador de emisiones vehiculares del centro de verificación vehicular, cuenta con la certificación o el registro correspondiente; y
+
+X. Acreditar con documento expedido por la Procuraduría que ha dado cumplimiento a las obligaciones establecidas en la Ley, la normativa ambiental y las condicionantes establecidas en la autorización, y que no tiene instaurado procedimiento administrativo por inobservancia a las disposiciones aplicables.
+
+El Instituto resolverá las solicitudes a más tardar el 17 de diciembre del 2015.
+
+Dicha autorización estará condicionada a operar el centro de verificación vehicular, durante la vigencia de la misma, en el domicilio donde ha funcionado y que tiene autorizado por el Instituto, quien sea titular de la autorización que opere el centro de verificación vehicular en la prueba estática, participe en la convocatoria que emita el Instituto e inicie operaciones del centro de verificación vehicular en la prueba dinámica a más tardar el 1 de enero del 2018, atendiendo a las disposiciones jurídicas aplicables.
+
+Programa respecto de situación jurídica
+
+Artículo Cuarto. Las personas que de manera continua y permanente han venido operando centros de verificación vehicular sin contar con la titularidad de la autorización, debido al fallecimiento de quien sea titular, deberán presentar en la sede del Instituto en el municipio de Salamanca, Gto., del 3 al 20 de noviembre del 2015 y acreditar los siguientes requisitos:
+
+I. Solicitud suscrita por la persona solicitante;
+
+II. Original o copia certificada y simple para cotejo que acredite la personalidad jurídica de la persona solicitante;
+
+III. Original o copia certificada y simple para cotejo del acta de defunción de quien era titular de la autorización;
+
+IV. Copia certificada y simple, para cotejo, de la sentencia o acto notarial de adjudicación a su favor del equipo analizador de emisiones contaminantes y, en su caso, del opacímetro;
+
+V. De no contarse con los documentos anteriores, presentará copia certificada y simple, para cotejo, de la resolución judicial o del testamento, según sea el caso, que le reconoció como heredero de quien fue titular de la autorización para operar el centro de verificación vehicular, o bien del acta del Registro Civil que acredite matrimonio o parentesco por consanguinidad, en línea recta ascendente o descendente en primer grado; o civil, con el mismo, y justificará la propiedad sobre el equipo analizador de emisiones contaminantes y, en su caso, del opacímetro, así como que la persona solicitante opera el centro de verificación vehicular, mediante prueba documental;
+
+VI. Original o copia certificada y simple, para cotejo, del documento que acredite el derecho de uso de la persona solicitante sobre el inmueble donde funciona el centro;
+
+VII. Cumplir con los requisitos señalados en las fracciones IV, V, VII a X del artículo transitorio anterior.
+
+Una vez recibida la documentación, dentro de los cinco días hábiles siguientes, el Instituto podrá requerir aclaraciones o rectificaciones respecto de la información proporcionada, incluso cuando ésta denote casos análogos a los contemplados en la fracción V del párrafo anterior, concediendo a la persona solicitante un plazo de cinco días hábiles para su presentación, con el apercibimiento de que, en caso de no hacerse en el plazo y condiciones señaladas, se le tendrá por no interpuesta su solicitud.
+
+El Instituto cuenta con un plazo de 10 días hábiles contados a partir del ingreso de la solicitud o de la correcta integración del expediente, según corresponda, para emitir la resolución correspondiente.
+
+Dicha autorización estará condicionada a operar el centro de verificación vehicular, durante la vigencia de la misma, en el domicilio donde ha funcionado y que tiene autorizado por el Instituto, que quien sea titular de la autorización que opere el centro de verificación vehicular en la prueba estática, participe en la convocatoria que emita el Instituto e inicie operaciones del centro de verificación vehicular en la prueba dinámica a más tardar el 1 de enero del 2018, atendiendo a las disposiciones jurídicas aplicables.
+
+Expedición del esquema de calidad
+
+Artículo Quinto. El Instituto en un plazo de 60 días hábiles siguientes a la entrada en vigencia del presente Reglamento publicará el esquema de calidad que deberán implementar los centros de verificación vehicular.
+
+Convocatoria para centros de verificación en prueba dinámica
+
+Artículo Sexto. El Instituto, a más tardar el 13 de noviembre del 2015, emitirá una convocatoria dirigida a las personas físicas o jurídicas que han venido operando un centro de verificación vehicular en la prueba estática, en la que se establecerán los plazos y condiciones para el otorgamiento de las autorizaciones para la operación de centros de verificación vehicular para la realización de la prueba dinámica.
+
+Inicio de obligación de la prueba dinámica
+
+Artículo Séptimo. Las disposiciones previstas en el artículo 25 del presente Reglamento iniciarán su vigencia el 1 de julio del 2016.
+
+Acreditación de centros como Unidades de Verificación Vehicular
+
+Artículo Octavo. Los centros de verificación autorizados deberán presentar ante el Instituto, a más tardar el 15 de diciembre de 2017, el documento que los acredite como Unidad de Verificación Vehicular de conformidad con lo establecido en la Ley Federal sobre Metrología y Normalización y las normas oficiales mexicanas aplicables.
