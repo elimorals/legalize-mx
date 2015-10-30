@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2014-07-30"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 159, PUBLICADO EN EL P.O. DE 30 DE JULIO DE 2014, LAS REFORMAS Y ADICIONES EN ÉL CONTENIDAS ENTRAN EN VIGOR EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE PARA TALES EFECTOS EMITA EL H. CONGRESO DEL ESTADO DE SINALOA, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO, TERCER PÁRRAFO, DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 18 DE JUNIO DE 2008, ASÍ COMO EN EL ARTÍCULO SEGUNDO TRANSITORIO, SEGUNDO PÁRRAFO, DEL DECRETO POR EL QUE SE EXPIDE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 5 DE MARZO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 416, PUBLICADO EN EL P.O. 30 DE OCTUBRE DE 2015, EN TANTO EL EJECUTIVO ESTATAL NO REALICE LAS ADECUACIONES ADMINISTRATIVAS NECESARIAS, LAS REFERENCIAS QUE SE HAGAN A LA DIRECCIÓN DE PREVENCIÓN Y READAPTACIÓN SOCIAL, SE ENTENDERÁN HECHAS A LA DIRECCIÓN DE PREVENCIÓN Y REINSERCIÓN SOCIAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -81,9 +83,9 @@ VI. Instituciones de Procuración de Justicia: Al Ministerio Público, los servi
 
 VII. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procuración de Justicia, el Sistema Penitenciario, de seguimiento, y dependencias encargadas de la Seguridad Pública a nivel estatal y municipal;
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VIII. Instituciones Policiales: A los cuerpos de policía estatales y municipales, de vigilancia y custodia de los establecimientos penitenciarios y de justicia para adolescentes, de detención preventiva, la policía procesal, de tribunales de barandilla; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+VIII. Instituciones policiales: A los cuerpos de policías estatales y municipales, de vigilancia y custodia de los establecimientos penitenciarios, de justicia para adolescentes, de detención preventiva, de tribunales de barandilla; y en general, todas las dependencias, grupos y unidades especializadas encargadas de la seguridad pública a nivel estatal y municipal que realicen funciones similares;
 
 IX. Instituto: El Instituto Estatal de Ciencias Penales y Seguridad Pública;
 
@@ -95,9 +97,25 @@ XII. Programa Estatal: El Programa Estatal de Seguridad Pública;
 
 XIII. Secretaría: La Secretaría de Seguridad Pública del Estado de Sinaloa;
 
-XIV. Secretario Ejecutivo: El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XV. Sistema Estatal: El Sistema Estatal de Seguridad Pública de Sinaloa.
+XIV. Secretariado Ejecutivo: El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XV. Sistema Estatal: El Sistema Estatal de Seguridad Pública de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVI. Secretario Ejecutivo: El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVII. Policía Penitenciaria: A la Unidad Especializada de la Policía Penitenciaria; y,
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVIII. Policía Procesal: A la Unidad Especializada de la Policía Procesal.
 
 ###### Artículo 3.
 
@@ -167,27 +185,49 @@ I. El Gobernador Constitucional del Estado;
 
 II. El Secretario General de Gobierno;
 
-III. El Secretario de Seguridad Pública;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-IV. El Procurador General de Justicia;
+III. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+IV. El Secretario de Seguridad Pública;
 
-V. El Subsecretario de Seguridad Pública y de Prevención y Reinserción Social;
+V. El Procurador General de Justicia;
 
-VI. El Director de la Policía Estatal Preventiva;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VII. El Director de la Policía Ministerial;
+VI. Los Subsecretarios de Seguridad Pública del Estado;
 
-VIII. Los Directores de los Centros de Ejecución de las Consecuencias Jurídicas del Delito;
+VII. El Director de la Policía Estatal Preventiva;
 
-IX. El Director de Vialidad y Transportes;
+VIII. El Director de la Policía Ministerial;
 
-X. El Director del Centro de Internamiento para Adolescentes;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XI. El Director del Órgano de Ejecución de Medidas para Adolescentes; y,
+IX. El Director de Prevención y Reinserción Social;
 
-XII. Las demás que determinen, con ese carácter, otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+X. El Director de la Unidad de Medidas Cautelares;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XI. Los Directores de los Centros de Ejecución de las Consecuencias Jurídicas del Delito;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XII. El Director de Vialidad y Transportes;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIII. El Director del Centro de Internamiento para Adolescentes;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XIV. El Director del Órgano de Ejecución de Medidas para Adolescentes; y,
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XV. Las demás que determinen con ese carácter, otras disposiciones aplicables.
 
 ###### Artículo 9.
 
@@ -285,6 +325,10 @@ Corresponde a las Instituciones de Seguridad Pública, planear, realizar, superv
 
 La Secretaría y la Policía Estatal Preventiva tendrán las atribuciones y obligaciones que establecen esta Ley; la Ley de Ejecución de las Consecuencias Jurídicas del Delito; el Reglamento Orgánico de la Administración Pública Estatal de Sinaloa; el Reglamento Interior de la Secretaría y demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Asimismo, la Secretaría tendrá a su cargo la evaluación y supervisión de las medidas cautelares y de la suspensión condicional del proceso en los términos de la ley aplicable.
+
 ###### Artículo 19.
 
 La institución de procuración de justicia del Estado, integrada por el ministerio público, los peritos, las policías y demás auxiliares, tendrán las facultades y obligaciones que a su cargo establecen esta Ley, la Ley Orgánica del Ministerio Público del Estado y demás ordenamientos legales que la rigen.
@@ -295,39 +339,13 @@ Las instituciones de seguridad pública encargadas de la custodia de los interno
 
 La Policía Estatal Preventiva ejercerá funciones de vigilancia y protección de los centros de ejecución de las consecuencias jurídicas del delito y de internamiento para adolescentes y, en general, de cualquier establecimiento destinado a la internación de quienes se encuentren privados de la libertad personal por resolución judicial, de internos, visitantes, personal administrativo, así como del traslado de sentenciados y procesados en el territorio del Estado, en los términos de las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+De igual manera, contará con la Policía Procesal quien ejercerá las funciones de seguridad interna de los Centros Regionales de Justicia Penal que operan en el Estado.
 
 ###### Artículo 20 Bis.
 
-Son funciones de la policía procesal:
-
-I. Realizar la búsqueda y localización del imputado a solicitud de la autoridad de seguimiento;
-
-II. Presentar al imputado ante el juez en los supuestos en los que la ley lo autoriza, a solicitud de la autoridad de seguimiento o del Ministerio Público;
-
-III. Solicitar y en su caso proporcionar el auxilio a las instituciones policiales correspondientes;
-
-IV. Auxiliar a la autoridad de seguimiento en la ejecución de las medidas cautelares que consistan en la vigilancia del imputado cuando aquélla lo solicite;
-
-V. En los casos en que el imputado incumpla con la medida cautelar impuesta y exista un requerimiento de la autoridad de seguimiento, realizar las acciones conducentes a su localización;
-
-VI. Coordinar con las autoridades federales, estatales o municipales, las tareas de búsqueda y localización de los imputados cuando hayan incumplido la medida cautelar y exista un requerimiento de la autoridad de seguimiento;
-
-VII. Realizar los traslados de los imputados sujetos a prisión preventiva a los juzgados;
-
-VIII. Resguardar la seguridad de las salas de audiencias;
-
-IX. Dar cumplimiento a los mandamientos ministeriales y jurisdiccionales que les sean instruidos;
-
-X. Mantener el orden, disciplina y buen comportamiento de los internos procesados en el exterior de los centros o establecimientos, respetando sus derechos;
-
-XI. Custodiar el orden y tranquilidad en el perímetro exterior de los Centros de Ejecución de las Consecuencias Jurídicas del Delito, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de los internos, visitas y personal de los mismos;
-
-XII. Prestar la seguridad y custodia de la persona privada de su libertad en los recintos judiciales, en coordinación con las demás autoridades competentes;
-
-XIII. Cumplir los mandamientos judiciales relacionados con los sentenciados preliberados y aquellos sujetos a vigilancia postpenitenciaria, en coordinación con las demás autoridades competentes; y
-
-XIV. Los demás que establezcan las disposiciones legales aplicables.
+(DEROGADO, P.O. 30 DE OCTUBRE DE 2015)
 
 ###### Artículo 21.
 
@@ -507,11 +525,17 @@ III. En su caso, tener acreditado el Servicio Militar Nacional;
 
 IV. Acreditar que ha concluido, al menos, los estudios siguientes:
 
-a. En el caso de aspirantes a las áreas de investigación, enseñanza superior;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-b. Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente;
+a. En el caso de aspirantes a las áreas de investigación, educación superior;
 
-c. En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+b. Tratándose de aspirantes a las áreas de prevención, educación media superior o equivalente;
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+c. En caso de aspirantes a las áreas de reacción, los estudios correspondientes al nivel secundaria del tipo básica;
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
@@ -543,11 +567,17 @@ III. No superar la edad máxima de retiro que establezcan las disposiciones apli
 
 IV. Acreditar que ha concluido, al menos, los estudios siguientes:
 
-a. En el caso de integrantes de las áreas de investigación, enseñanza superior u homologación por desempeño, a partir de bachillerato;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-b. Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente;
+a. En el caso de integrantes de las áreas de investigación, educación superior u homologación por desempeño, a partir de bachillerato;
 
-c. En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+b. Tratándose de integrantes de las áreas de prevención, educación media superior o equivalente;
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+c. En caso de integrantes de las áreas de reacción, los estudios correspondientes al nivel secundaria del tipo básica;
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
@@ -572,6 +602,10 @@ XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resoluci�
 XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días; y,
 
 XV. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Cuando las causas de la aptitud para la permanencia de los elementos a los cuerpos policiacos se deba a la escasa condición física, enfermedades que le impidan su buen desempeño o por falta de certificación de documentos expedidos por instituciones educativas debidamente acreditadas, se podrán instrumentar mecanismos que subsanen estas deficiencias por un año. De subsistir dichas causas se aplicará lo señalado en la presente Ley.
 
 ###### Artículo 31.
 
@@ -745,23 +779,31 @@ La remuneración de los integrantes de las Instituciones Policiales será acorde
 
 #### Sección Cuarta. De las Pensiones de los Integrantes de las Corporaciones Policiales Estatales y Municipales
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-Los integrantes de las corporaciones policiales estatales y municipales de seguridad pública, o sus beneficiarios en sus casos, tendrán derecho al otorgamiento de pensiones por retiro, vejez, invalidez y muerte.
+Los integrantes de las corporaciones policiales estatales y municipales de seguridad pública o sus beneficiarios en su caso, tendrán derecho al otorgamiento de pensiones por retiro, retiro anticipado, invalidez, vejez, orfandad y muerte.
+
+De igual forma, a los elementos de las corporaciones policiales estatales y municipales de seguridad pública se les garantizará un sistema de retiro digno y se establecerá en su beneficio un sistema de seguros para sus familiares, aplicables en caso de su fallecimiento o la incapacidad total permanente, acaecidas, según el caso, en el cumplimiento de sus funciones o como consecuencia de su condición laboral.
 
 ###### Artículo 36.
 
 Para el otorgamiento de los derechos de pensión por retiro y de las pensiones a que se refiere el artículo anterior, se estará a lo dispuesto en la presente ley y en los convenios que se celebren con ese propósito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-Para el caso de muerte por causa de riesgo de trabajo, se otorgará pensión a los beneficiarios del agente fallecido, independientemente de la antigüedad, equivalente al cien por ciento del sueldo básico que hubiese percibido al momento de ocurrir el fallecimiento.
+Para el caso de muerte por causa o como consecuencia de riesgo de trabajo o por su condición laboral en activo, se otorgará pensión a los beneficiarios del agente fallecido, independientemente de la antigüedad, equivalente al cien por ciento del sueldo básico que hubiese percibido al momento de ocurrir el fallecimiento.
 
 Los servicios médicos se les seguirán otorgando a los beneficiarios de los agentes fallecidos por causa de riesgo de trabajo por el tiempo establecido y en las condiciones pactadas en el régimen de asistencia social que gocen.
 
-###### Artículo 38.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-Tienen derecho a la pensión por retiro, quienes tengan treinta o más años de servicio cualquiera que sea su edad. En el caso de las mujeres gozarán de este beneficio al cumplir veinticinco años o más de servicio.
+###### Articulo 38.
+
+Tienen derecho a la pensión por retiro, quienes tengan veinticinco o más años de servicio cualquiera que sea su edad.
 
 La pensión por retiro dará derecho al pago de una cantidad equivalente al cien por ciento del salario que estén devengando.
 
@@ -771,57 +813,95 @@ El pensionado por retiro recibirá los incrementos salariales y prestaciones eco
 
 Los pensionados por retiro tendrán derecho a un seguro de retiro en la cuantía que establezcan los convenios respectivos. Esta prestación se cubrirá en una sola exhibición a los interesados, en un plazo no mayor de treinta días a partir de la fecha en que se publique el decreto relativo en el Periódico Oficial "El Estado de Sinaloa".
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 40.
 
-Tienen derecho a pensión por vejez quienes habiendo cumplido cincuenta y cinco años de edad tuviesen cuanto menos quince años de servicio.
+Tienen derecho a la pensión por retiro anticipado quienes habiendo cumplido cuarenta y cinco años de edad, tuviesen cuando menos quince años de servicio.
+
+Para tal efecto, la pensión por retiro anticipado dará derecho al pago de una cantidad equivalente del salario que estén devengando, de conformidad con los años de servicio y el porcentaje fijado en la tabla contenida en el artículo 42.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-La pensión por invalidez se otorgará a quienes se inhabiliten física o mentalmente. El derecho al pago de esta pensión nace a partir de la fecha en que la institución de seguridad social que preste la atención médica, extienda el certificado de incapacidad respectivo, y para determinar su monto se aplicará la tabla contenida en el artículo 42.
+La pensión por invalidez total permanente se otorgará a quienes se inhabiliten física o mentalmente por causa o como consecuencia de riesgo de trabajo o por su condición laboral en activo, se otorgará pensión al integrante de las corporaciones policiales estatales y municipales de seguridad pública, independientemente de la antigüedad, equivalente al cien por ciento del sueldo básico que hubiese percibido al momento de ocurrir la invalidez total permanente.
+
+El derecho al pago de esta pensión nace a partir de la fecha en que la institución de seguridad social que preste la atención médica extienda el certificado de incapacidad respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 41 Bis.
+
+Tienen derecho a la pensión por vejez quienes voluntariamente se separen del servicio activo o queden privados de su trabajo remunerado habiendo cumplido sesenta años de edad y tuviesen cuando menos diez años de servicio.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-El monto de las pensiones por vejez e invalidez se fijará de conformidad con la siguiente tabla de porcentajes:
+El monto de las pensiones por retiro anticipado, se fijará de conformidad con la siguiente tabla de porcentajes:
 
 15 años de servicio 50%
 
-16 años de servicio 52%
+16 años de servicio 55%
 
-17 años de servicio 54%
+17 años de servicio 60%
 
-18 años de servicio 56%
+18 años de servicio 65%
 
-19 años de servicio 58%
+19 años de servicio 70%
 
-20 años de servicio 60%
+20 años de servicio 75%
 
-21 años de servicio 63%
+21 años de servicio 80%
 
-22 años de servicio 66%
+22 años de servicio 85%
 
-23 años de servicio 69%
+23 años de servicio 90%
 
-24 años de servicio 72%
+24 años de servicio 95%
 
-25 años de servicio 75%
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-26 años de servicio 80%
+###### Artículo 42 Bis.
 
-27 años de servicio 85%
+El monto de las pensiones por vejez, se fijará de conformidad con la siguiente tabla de porcentajes:
 
-28 años de servicio 90%
+Años de edad Años de servicio %
 
-29 años de servicio 95%
+60 10 40%
+
+61 10 42%
+
+62 10 44%
+
+63 10 46%
+
+64 10 48%
+
+65 o más 10 50%
+
+El otorgamiento de esta prestación excluye la posibilidad de disfrutar posteriormente las pensiones por retiro, retiro anticipado e invalidez.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 43.
 
-Las pensiones por vejez e invalidez que se concedan, en ningún caso serán inferiores al salario mínimo general vigente al otorgarse las mismas.
+Las pensiones por invalidez, retiro anticipado o vejez que se concedan, en ningún caso serán inferiores al salario mínimo general vigente en el Estado al momento de otorgarse las mismas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 44.
 
-Las corporaciones policiales estatales y municipales de seguridad pública concederán licencias con goce de ingresos íntegro hasta por sesenta días naturales, a quienes tengan derecho a iniciar las gestiones para obtener sus pensiones por retiro, vejez o invalidez, término que se computará a partir de que se dictamine la procedencia del beneficio solicitado. Estas licencias se denominarán de pre-retiro.
+Las corporaciones policiales estatales y municipales de seguridad pública concederán licencias con goce de ingresos íntegro hasta por sesenta días naturales a quienes tengan derecho a iniciar las gestiones para obtener sus pensiones por retiro, retiro anticipado, vejez o invalidez, término que se computará a partir de que se dictamine la procedencia del beneficio solicitado. Estas licencias se denominarán de pre-retiro.
 
 Si al vencimiento de cualesquiera de las licencias referidas no ha obtenido su pensión, pese a haber realizado las gestiones pertinentes, la licencia se prorrogará con el mismo sueldo hasta el día que le sea otorgada la pensión.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 44 Bis.
+
+El Gobierno del Estado y los Municipios podrán reconocer la antigüedad laboral de los elementos de los cuerpos policiales, que hayan laborado en uno u otro orden de gobierno, previa celebración de convenios que establezcan aportaciones solidarias entre ambas partes.
 
 ###### Artículo 45.
 
@@ -829,13 +909,19 @@ El cómputo de los años de servicios se hará considerando uno solo de los empl
 
 Para el otorgamiento de las pensiones, toda fracción de tiempo que exceda de seis meses se considerará como año completo.
 
-El pago de las pensiones de retiro, vejez e invalidez se suspenderá durante el tiempo en que el pensionado desempeñe una actividad al servicio de alguna de las instituciones estatales y municipales de seguridad pública.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+El pago de las pensiones de retiro, retiro anticipado, vejez e invalidez se suspenderá durante el tiempo en que el pensionado desempeñe una actividad al servicio de alguna de las corporaciones estatales y municipales de seguridad pública.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 46.
 
-La defunción de quienes tengan una antigüedad mayor de quince años, por causas ajenas al servicio, así como la de un pensionado, dará derecho a sus beneficiarios al pago de la pensión por muerte, que será exigible a partir del día siguiente del fallecimiento.
+La defunción de los integrantes de las corporaciones policiales en servicio activo, dará derecho a sus beneficiarios al pago de la pensión por muerte de conformidad con lo previsto en los artículos 35, 36 y 37 de la presente Ley.
 
-El monto de dicha pensión, si se tratare de un servidor público en activo, se determinará conforme a los artículos 42 y 43 En el caso del pensionado, su importe consistirá en el salario mínimo general vigente al ocurrir el deceso.
+En el caso del fallecimiento de un pensionado, sus beneficiarios tendrán derecho a una pensión por muerte cuyo importe consistirá en el salario mínimo general vigente en el Estado, al ocurrir el deceso.
+
+Para ambos casos el pago de dichas pensiones será exigible a partir del día siguiente del fallecimiento del integrante de la corporación policial en activo o pensionado.
 
 ###### Artículo 47.
 
@@ -851,19 +937,25 @@ IV. A falta de cónyuge, hijos, concubina o concubino, la pensión se entregará
 
 Cuando fueren dos o más las personas que conforme a este artículo tengan derecho a la pensión, ésta se dividirá por partes iguales; si alguna perdiere el derecho, la parte que le corresponda será repartida proporcionalmente entre las restantes.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 48.
 
-Si el hijo pensionado llegare a cumplir dieciocho años y no pudiera mantenerse con su propia actividad debido a una enfermedad duradera, deficiencia física o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación.
+Si el hijo pensionado llegare a cumplir dieciocho años y no pudiera mantenerse con su propia actividad debido a una enfermedad duradera, deficiencia física o enfermedad psíquica, el pago de la pensión por orfandad se prorrogará por el tiempo que subsista su inhabilitación o cuando se demuestre fehacientemente que esté realizando sus estudios profesionales a nivel licenciatura y que no ha contraído matrimonio, lo cual no excederá de los 25 años de edad.
 
-En tal caso, el pensionado deberá someterse a los reconocimientos y tratamientos que la institución de seguridad social prescriba y proporcione, así como a las investigaciones que en cualquier tiempo se ordenen para efectos de determinar su estado de invalidez; de incumplirse estas obligaciones, se suspenderá la pensión.
+En tal caso, el pensionado deberá someterse a los reconocimientos y tratamientos que la institución de seguridad social prescriba y proporcione, así como a las investigaciones que en cualquier tiempo se ordenen para efectos de determinar su estado de invalidez, su estado civil y su grado de estudios. De incumplirse estas obligaciones, se suspenderá la pensión.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 49.
 
-Al cónyuge supérstite, la concubina o concubino, tendrán derecho a disfrutar de la pensión mientras no contraigan matrimonio o no entren en concubinato.
+El cónyuge supérstite, la concubina o concubino, tendrán derecho a disfrutar de la pensión sin limitación o condicionamiento alguno por causa de su estado civil.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 50.
 
-Es imprescriptible el derecho a la pensión por retiro y a las pensiones de vejez e invalidez.
+Es imprescriptible el derecho a la pensión por retiro, retiro anticipado, vejez e invalidez.
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -981,15 +1073,21 @@ VII. Un Representante de la Secretaría de Gobernación;
 
 VIII. Los Comandantes de la Secretaría de la Defensa Nacional y de la Secretaría de Marina con representación en el Estado;
 
-IX. Un representante de la Secretaría de Seguridad Pública Federal;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-X. El Delegado de la Procuraduría General de la República en el Estado;
+IX. Un representante de la Comisión Nacional de Seguridad;
 
-XI. La Coordinación General integrada por nueve representantes de la sociedad civil o comunidad, dentro de los que uno será el Coordinador General;
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XII. El Presidente del Comité de Consulta y Participación de la Comunidad del Consejo Estatal; y,
+X. Un representante del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
 
-XIII. El Secretario Ejecutivo del Sistema Estatal.
+XI. El Delegado de la Procuraduría General de la República en el Estado;
+
+XII. La Coordinación General integrada por nueve representantes de la sociedad civil o comunidad, dentro de los que uno será el Coordinador General;
+
+XIII. El Presidente del Comité de Consulta y Participación de la Comunidad del Consejo Estatal; y,
+
+XIV. El Secretario Ejecutivo del Sistema Estatal.
 
 ###### Artículo 58.
 
@@ -1065,7 +1163,7 @@ XVI. Establecer mecanismos eficaces para que la sociedad participe en los proces
 
 XVII. Promover políticas de coordinación y colaboración con el Poder Judicial de la Federación y el Supremo Tribunal de Justicia del Estado;
 
-XVIII. Las demás que se establezcan en otras disposiciones normativas y las que sean necesarias para el funcionamiento del Sistema Estatal;
+XVIII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2015)
 
 XIX. La elaboración de propuestas para expedir, reformar o abrogar leyes y reglamentos en materia de seguridad pública;
 
@@ -1133,9 +1231,13 @@ La Coordinación General del Consejo Estatal deberá contar con la participació
 
 De las propuestas que realicen las organizaciones, el Presidente del Consejo Estatal, hará la designación de los representantes de la sociedad.
 
-Las propuestas que presenten las organizaciones de la sociedad, deberán ser de ciudadanos sinaloenses, de reconocido prestigio y gozar de alta estimación y solvencia moral.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-Los representantes de la sociedad se renovarán cada cuatro años, hasta un máximo de cinco de sus integrantes.
+Las propuestas que presenten las organizaciones de la sociedad deberán ser de ciudadanos mexicanos, de reconocido prestigio y gozar de alta estimación y solvencia moral.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Los representantes de la sociedad se renovarán cada cuatro años hasta un máximo de cinco de sus integrantes, quienes desempeñarán su cargo de manera honorífica.
 
 Las faltas absolutas de los representantes de la sociedad, se cubrirán con personas que también hayan sido propuestas por las organizaciones de la sociedad.
 
@@ -1157,7 +1259,9 @@ II. Dar seguimiento a los asuntos y acuerdos que el Consejo Estatal o el Preside
 
 III. Proponer al Secretariado Ejecutivo las políticas, lineamientos y acciones para eficientar el desempeño de las instituciones de seguridad pública y darle seguimiento;
 
-IV. Formular en coordinación con el Centro de Prevención del Delito y Participación Ciudadana, por acuerdo del Consejo Estatal, sugerencias a las autoridades competentes para que las instituciones de seguridad pública del Estado y de los municipios desarrollen de manera más eficaz sus funciones y darle seguimiento;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IV. Formular en coordinación con el Centro Estatal de Prevención Social de la Violencia y la Delincuencia, con Participación Ciudadana por acuerdo del Consejo Estatal, sugerencias a las autoridades competentes para que las instituciones de seguridad pública del Estado y de los municipios desarrollen de manera eficaz sus funciones, así como darle el debido seguimiento;
 
 V. Someter a consideración del Ejecutivo Estatal, la propuesta de tres personas para que una de ellas, ocupe el cargo de Procurador General de Justicia del Estado;
 
@@ -1171,9 +1275,11 @@ IX. Las demás que le confieran la presente Ley, el reglamento respectivo y aque
 
 ### Capítulo IV. Del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 68.
 
-El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal y gozará de autonomía técnica y de gestión, cuyo titular se denominará Secretario Ejecutivo, quien para el cumplimiento de sus atribuciones contará con los Centros Estatales de Información; de Prevención del Delito y Participación Ciudadana; de Evaluación y Control de Confianza, y el Instituto. El Titular del Ejecutivo Estatal expedirá el Reglamento del Secretariado, que establecerá sus atribuciones, así como la articulación del Secretariado, de los Centros y del Instituto.
+El Secretariado Ejecutivo es el órgano operativo del Sistema Estatal y gozará de autonomía técnica y de gestión, cuyo titular se denominará Secretario Ejecutivo, quien para el cumplimiento de sus atribuciones contará con los Centros Estatales de Información; de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana; de Evaluación y Control de Confianza; de Comando, Control, Comunicaciones, Cómputo e Inteligencia, y el Instituto. El Titular del Ejecutivo Estatal expedirá el Reglamento del Secretariado, que establecerá sus atribuciones, así como la articulación del Secretariado, de los Centros y del Instituto.
 
 ###### Artículo 69.
 
@@ -1231,7 +1337,9 @@ XVIII. Elaborar y someter a consideración del Consejo Estatal, opinión fundada
 
 XIX. Presentar quejas o denuncias ante las autoridades competentes por el incumplimiento de la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, así como por el uso ilícito o indebido de los recursos públicos, e informar al respecto al Consejo Estatal;
 
-XX. Informar a la Secretaría de la Contraloría y Desarrollo Administrativo sobre el inicio de procedimiento y resoluciones en materia de sanciones y correcciones disciplinarias;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XX. Informar a las autoridades e instancias correspondientes sobre el inicio de procedimiento y resoluciones en materia de sanciones y correcciones disciplinarias;
 
 XXI. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema Estatal;
 
@@ -1241,7 +1349,9 @@ XXIII. Ejercer la dirección administrativa del personal que se le asigne para e
 
 XXIV. Organizar el Sistema Estatal de Información de Seguridad Pública y su enlace e interconexión en compatibilidad y homologación con el Sistema Nacional de Información de Seguridad Pública. En lo correspondiente a los diversos registros relacionados con los cuerpos de seguridad pública municipal, se coordinará con las instancias encargadas de Seguridad Pública y Tránsito de los municipios;
 
-XXV. Proponer y aplicar criterios de evaluación, control, certificación y supervisión de las políticas, estrategias, acciones y del personal en materia de seguridad pública; así como preparar la evaluación del personal del Secretariado Ejecutivo que deba ser objeto de ello;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXV. Elaborar propuestas de mejora a los criterios de evaluación, control, certificación y supervisión de las políticas, estrategias, acciones y del personal en materia de seguridad pública; así como solicitar la evaluación del personal del Secretariado Ejecutivo que deba ser objeto de ello;
 
 XXVI. Participar en los procesos para la asignación y distribución de los fondos de seguridad pública y gestionar ante las autoridades competentes lo correspondiente para su ministración, de conformidad con los lineamientos que señale el Consejo Estatal y las disposiciones jurídicas aplicables;
 
@@ -1257,9 +1367,11 @@ XXVIII. Todas las demás que le otorguen esta Ley, los reglamentos, convenios, a
 
 En cada municipio se establecerá un Consejo Municipal de Seguridad Pública, encargado de la coordinación, planeación y supervisión de los respectivos Sistemas de Seguridad Pública en sus ámbitos de gobierno.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 72.
 
-Los Consejos Municipales se integrarán en la forma siguiente:
+Los Consejos Municipales se Integrarán en la forma siguiente:
 
 I. El Presidente Municipal, quien lo presidirá;
 
@@ -1267,21 +1379,45 @@ II. El Secretario del Ayuntamiento, quien suplirá al Presidente en sus ausencia
 
 III. El titular de la instancia de Seguridad Pública y Tránsito Municipal;
 
-IV. Un representante de la Secretaría de Seguridad Pública del Estado;
+IV. El Secretario Ejecutivo del Consejo Municipal de Seguridad Pública;
 
-V. Un representante de la Procuraduría General de Justicia;
+V. Un representante del Secretariado Ejecutivo;
 
-VI. Un representante de la Policía Ministerial;
+VI. Un representante de la Secretaría de Seguridad Pública del Estado;
 
-VII. Un representante, en su caso, de la Policía Federal Preventiva;
+VII. Un representante de la Procuraduría General de Justicia del Estado;
 
-VIII. Un representante, en su caso, de la Procuraduría General de la República;
+VIII. Un representante de la Comisión Nacional de Seguridad;
 
-IX. El Presidente del Comité de Consulta y Participación de la Comunidad; y,
+IX. Un representante de la Procuraduría General de la República;
 
-X. El Secretario Ejecutivo del Consejo Municipal de Seguridad Pública.
+X. El Presidente del Comité de Consulta y Participación de la Comunidad; y,
 
-A las reuniones de los Consejos Municipales de Seguridad Pública podrán ser invitados los titulares de los juzgados penales y del centro de ejecución de las consecuencias jurídicas del delito, así como el Congreso del Estado, representado por un diputado que éste designe y los Magistrados de las Salas de Circuito del Poder Judicial del Estado que tengan su asiento en esa circunscripción, sin perjuicio de convocar a otros invitados a reuniones específicas.
+XI. Nueve representantes de la sociedad.
+
+En el caso de los representantes de la sociedad deberán contar con la participación de la mujer y tendrán los siguientes requisitos:
+
+a) Ser ciudadano mexicano en pleno goce de sus derechos;
+
+b) Ser mayor de 30 años de edad al momento de su designación;
+
+c) Tener reconocida capacidad y probidad, además de tener conocimientos en materia de seguridad pública; y,
+
+d) No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+Para la designación de los representantes el Presidente del Consejo Municipal, convocará a las organizaciones de la sociedad para el efecto de que proporcionen el nombre de las personas que consideren deban integrarse.
+
+De las propuestas que realicen las organizaciones, el Presidente del Consejo Municipal hará la designación de los representantes de la sociedad.
+
+Las propuestas que presenten las organizaciones de la sociedad deberán ser de ciudadanos mexicanos de reconocido prestigio y gozar de alta estimación y solvencia moral.
+
+Los representantes de la sociedad se renovarán cada cuatro años hasta un máximo de cinco de sus integrantes, quienes desempeñarán su cargo de manera honorífica.
+
+Las faltas absolutas de los representantes de la sociedad se cubrirán con personas que también hayan sido propuestas por las organizaciones de la sociedad.
+
+Los representantes de la sociedad integrantes de los Consejo (sic) Municipales dejarán de pertenecer a dicho órgano por renuncia voluntaria, por ausencia definitiva provocada por enfermedad, deceso o por causa grave a juicio de los propios representantes de la sociedad.
+
+Las faltas temporales serán cubiertas por los suplentes que se hayan designado.
 
 #### Sección Segunda. De los Consejos Intermunicipales
 
@@ -1447,11 +1583,11 @@ XXVI. Las demás que establezcan esta Ley, otras disposiciones legales o el Cons
 
 ### Capítulo VIII. De la Conferencia Estatal del Sistema Penitenciario
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 83.
 
-La Conferencia Estatal del Sistema Penitenciario, se integra por el Secretario de Seguridad Pública, el Subsecretario de Seguridad Pública y de Prevención y Reinserción Social, el Director de Prevención y Reinserción Social, los Directores de los centros de ejecución de las consecuencias jurídicas del delito, del órgano de Ejecución de Medidas para Adolescentes y los Directores de los Centros Estatales de Internamiento para Adolescentes. La Conferencia será presidida por el Subsecretario de Seguridad Pública y de Prevención y Reinserción Social.
+La Conferencia Estatal del Sistema Penitenciario se integra por el Secretario de Seguridad Pública, el Subsecretario del ramo, el Director de Prevención y Reinserción Social, el Director de la Unidad de Medidas Cautelares y de Suspensión Condicional del Proceso, el Director de la Unidad de Asistencia de Preliberados, los Directores de los Centros de Ejecución de las Consecuencias Jurídicas del Delito, del órgano de Ejecución de Medidas para Adolescentes y los Directores de los Centros Estatales de Internamiento para Adolescentes. La Conferencia será presidida por el Subsecretario correspondiente.
 
 Dicha Conferencia contará con un Secretario Técnico que será nombrado y removido por el titular de la Secretaría.
 
@@ -1471,9 +1607,15 @@ V. Promover la adopción del trabajo comunitario como mecanismo de reinserción 
 
 VI. Plantear criterios para eficientar los convenios que se celebren entre la Federación, los Estados y los Municipios, a efecto de que los sentenciados por delitos del ámbito de su competencia, extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa, con estricto apego a las disposiciones legales aplicables; tratando de privilegiar que el cumplimiento de las sentencias condenatorias sean en el centro de reclusión más cercano a su núcleo familiar, exceptuando a los reos de alta peligrosidad;
 
-VII. Promover el intercambio, registro, sistematización y consulta de la información de seguridad pública en las bases de datos criminalísticos y de personal; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VIII. Las demás que establezcan las disposiciones legales aplicables y el Consejo Estatal.
+VII. Promover el intercambio, registro, sistematización y consulta de la información de seguridad pública en las bases de datos criminalísticos y de personal;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VIII. Proponer e impulsar políticas, programas, mecanismos, acciones, tendientes a la implementación eficiente y eficaz de medidas cautelares; y,
+
+IX. Las demás que establezcan las disposiciones legales aplicables y el Consejo Estatal.
 
 ### Capítulo IX. De la Coordinación con otras Instancias
 
@@ -1528,6 +1670,14 @@ a) El Registro Administrativo de Detenciones.
 b) El Registro de Información Penitenciaria.
 
 c) El Registro de Información de Justicia para Adolescentes;
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+d) El Registro Estatal de Víctimas; y,
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+e) El Registro del Seguimiento de las Medidas Cautelares y de la Suspensión Condicional.
 
 II. El Registro Estatal de Personal de Seguridad Pública;
 
@@ -1587,7 +1737,9 @@ La Institución de Procuración de Justicia podrá reservarse la información qu
 
 Dentro del Sistema Único de Información Criminal, se incluirá la base de datos que conforma el Registro Administrativo de Detenciones, el cual contiene, administra y controla los registros de las detenciones.
 
-Los agentes policiales que realicen detenciones deberán dar aviso administrativo, a través del Informe Policial Homologado, al Centro Estatal de Información.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Para tal efecto, los elementos policiales deberán dar aviso administrativo con o sin detenidos a través del Informe Policial Homologado, al Centro Estatal de Información del Secretariado Ejecutivo.
 
 ###### Artículo 99.
 
@@ -1687,39 +1839,31 @@ Esta información tendrá en todo momento carácter confidencial, preservando lo
 
 #### Sección Cuarta. Del Registro Estatal de Víctimas
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 105 Bis.
 
-La Comisión Estatal de Atención a Víctimas estará a cargo del Registro Estatal de Víctimas, todas las áreas de gobierno deben coadyuvar dentro del ámbito de su competencia, en el comparto de información que deben otorgar para lograr la máxima protección de las personas.
+El Registro Estatal de Víctimas será suministrado y actualizado por la Comisión Estatal de Atención Integral a Víctimas, de conformidad con lo previsto en la Ley de Atención y Protección a Víctimas del Estado de Sinaloa.
 
-La Ley de Atención y Protección a Víctimas del Estado regulará el trámite y procedimiento para llevar a cabo el registro de las víctimas así como las acciones que deban seguirse para salvaguardar sus derechos, tal como lo exigen los Artículos 20 de la Constitución Política de los Estados Unidos Mexicanos y 109 del Código Nacional de Procedimientos Penales.
+Todas las áreas de los gobiernos estatal y municipal coadyuvarán dentro del ámbito de sus competencias para compartir e intercambiar información con el propósito de lograr la máxima protección de las víctimas.
+
+Para tal efecto, la base de datos de dicho Registro deberá ser suministrada al Centro Estatal de Información del Secretariado Ejecutivo, para su resguardo, intercambio y actualización con las instancias federales competentes.
+
+La Comisión antes precisada, regulará el trámite y procedimiento para llevar a cabo el registro de las víctimas, así como de las acciones que deban seguirse para salvaguardar sus derechos tal como lo exige los artículos 20, apartado C de la Constitución Política de los Estados Unidos Mexicanos y 109 del Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 30 DE JULIO DE 2014)</small>
 
 #### Sección Quinta. Del Registro del Seguimiento de las Medidas Cautelares, Suspensión Condicional del Proceso y de las Medidas de Protección
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-Artículo 105 Bis A.- Al interior de la Unidad (sic) Medidas Cautelares se integrará un registro de todas aquellas soluciones y mecanismos de descongestión adoptados a efecto de llevar un control de los asuntos de su competencia.
+Artículo 105 Bis A.- La Unidad de Medidas Cautelares y Suspensión Condicional del Proceso contará con un registro de todas aquellas soluciones y mecanismos de desahogo adoptados, a efecto de llevar un control de los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
 
 También deberán registrarse todas las actividades y condiciones que se le impongan a los imputados con el propósito de tener un control de las evaluaciones de riesgo, que permitan adoptar las medidas necesarias para garantizar la efectividad de las decisiones judiciales que se impongan.
 
-En este Registro se deben anotar:
-
-I. Los criterios de oportunidad que se le haya dado al imputado;
-
-II. Los asuntos que han sido solucionados por mecanismos alternativos, a efecto de dar seguimiento a los convenios o acuerdos;
-
-III. La suspensión condicional del proceso, para verificar la forma de su cumplimiento y evitar que se pueda otorgar esta figura antes de los plazos marcados por el Código Nacional de Procedimientos Penales;
-
-IV. El Procedimiento Abreviado;
-
-V. Las acciones penales por particulares;
-
-VI. La aplicación de medidas de protección, excepto en aquellos casos de violencia contra las mujeres, que serán registrados en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres; y
-
-VII. La aplicación y seguimiento de las medidas cautelares y los servicios previos a juicio.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ### Capítulo IV. Del Registro Estatal de Personal de Seguridad Pública
 
@@ -1745,9 +1889,13 @@ Cuando a los integrantes de las Instituciones de Seguridad Pública, se les dict
 
 Las órdenes de aprehensión o arresto administrativo se notificarán cuando no pongan en riesgo la investigación o la causa procesal.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 107.
 
-El Secretariado Ejecutivo inscribirá y mantendrá actualizado en el Registro, los datos relativos a los integrantes de las Instituciones de Seguridad Pública del Estado y de los municipios, en los términos de esta Ley y disposiciones reglamentarias correspondientes, y verificará que dicha información se integre en el Registro Nacional del Personal de Seguridad Pública.
+El Secretariado Ejecutivo a través del Centro Estatal de Información mantendrá actualizado el Registro con la información que para tal efecto, las instituciones de seguridad pública del Estado y Municipios, suministren e inscriban en la base de datos correspondiente y verificará que dicha información se integre en el Registro Nacional del Personal de Seguridad Pública.
+
+Asimismo, el Centro Estatal de Información coadyuvará con el suministro, modificación o inscripción de la información contenida en dicho Registro, cuando la institución de seguridad pública generadora de la misma se encuentre impedida por cuestiones técnicas o de otra índole.
 
 ###### Artículo 108.
 
@@ -1893,17 +2041,23 @@ La base estatal de datos se actualizará permanentemente, en los plazos y con la
 
 ### Capítulo X. De la Coordinación Operativa de la Información para la Seguridad Pública
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 126.
 
-Le corresponde a la Secretaría, coordinar la operación de la información con el objeto de facilitar el despliegue y la atención oportuna de acciones que en el ámbito de sus atribuciones y competencias que realizan las instituciones policiales del Estado y de los municipios, en los términos que establece este ordenamiento.
+Le corresponde al Secretariado Ejecutivo a través del Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia, coordinar la operación de la información de seguridad pública con el objeto de facilitar el despliegue y la atención oportuna de acciones que en el ámbito de sus atribuciones y competencias realizan las instituciones policiales del Estado y de los Municipios, en los términos que establece este ordenamiento.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 127.
 
-La Secretaría adoptará las medidas pertinentes para el efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y sofisticada que permita el procesamiento útil y ágil del suministro, intercambio y sistematización de la información a que se refiere este ordenamiento.
+El Secretariado Ejecutivo por conducto del Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia, adoptará las medidas pertinentes para efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y sofisticada que permita el procesamiento útil y ágil del suministro, intercambio y sistematización de la información de seguridad pública referida en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 128.
 
-La Secretaría instrumentará, a través de las Unidades Administrativas correspondientes, la coordinación operativa de la información con las finalidades siguientes:
+El Centro de Comando, Control, Comunicaciones, Cómputo e Inteligencia, instrumentará a través de las Unidades Administrativas correspondientes, la coordinación operativa de la información de seguridad pública con las finalidades siguientes:
 
 I. Despachar oportunamente la operación de los servicios de emergencia;
 
@@ -1927,7 +2081,9 @@ IV. Los mecanismos de video-vigilancia por circuito cerrado de televisión y de 
 
 V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la seguridad pública; y,
 
-VI. Los registros que en los términos de ésta y otras leyes resguarda la Secretaría.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VI. Los registros que en los términos de ésta y otras leyes resguarda el Secretariado Ejecutivo.
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN DEL DELITO Y LA PARTICIPACIÓN DE LA COMUNIDAD
 
@@ -2373,9 +2529,15 @@ XIX. Realizar acciones coordinadas con los Consejos y Comités que refiere esta 
 
 XX. Fomentar entre la comunidad los deberes correlativos de respeto a los derechos humanos;
 
-XXI. Promover una cultura de la legalidad, de la denuncia ciudadana y de la prevención o autoprotección del delito; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XXII. Las demás que señale esta Ley y los ordenamientos respectivos.
+XXI. Promover una cultura de la legalidad de la denuncia ciudadana y de la prevención o autoprotección del delito;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XXII. Coordinar las obligaciones correspondientes a las Policías Procesal y Penitenciaria; y,
+
+XXIII. Las demás que señale esta Ley y los ordenamientos respectivos.
 
 ###### Artículo 172.
 
@@ -2555,31 +2717,29 @@ La Secretaría llevará un riguroso control y supervisión del personal que conf
 
 ### Capítulo V Bis. Instancias de Seguridad Pública y Procuración de Justicia en el Sistema Acusatorio
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-#### Sección Primera. De la Policía Procesal y Penitenciaria
+#### Sección Primera. De las Unidades Especializadas de las Policías Procesal y Penitenciaria
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 191 Bis.
 
-Deberes de la policía procesal:
+La policía procesal tendrá las siguientes obligaciones:
 
-Son deberes de la policía procesal:
+I. Brindar la seguridad y custodia del imputado, así como proteger la integridad física del juez, víctimas, testigos, asistentes y demás personal que se encuentre en las salas de audiencia de los Centros Regionales de Justicia Penal;
 
-I. Proteger la integridad física del imputado;
+II. Resguardar la seguridad interna de los Centros Regionales de Justicia Penal;
 
-II. Proteger la integridad física de las víctimas y testigos;
+III. Auxiliar a la Unidad de Medidas Cautelares y de la Suspensión Condicional del Proceso cuando así lo soliciten, en el cumplimiento de sus funciones;
 
-III. Auxiliar a las autoridades de seguimiento, en el cumplimiento (sic) sus funciones;
-
-IV. Realizar los informes que le solicite la autoridad de seguimiento, sobre las incidencias en el cumplimiento o incumplimiento de sus funciones;
+IV. Recibir de las instituciones policiales a los imputados, acusados o sentenciados y trasladarlos a las salas de audiencia para su presentación ante el juez, en los supuestos previstos en la ley aplicable;
 
 V. Mantener la secrecía de la información recabada;
 
-VI. Generar la información que permita la ubicación de la persona cuando se impongan las medidas cautelares de prohibición de salir del país, de la localidad o ámbito territorial que fije el juez, así como los cambios de domicilio, incumplimientos, conclusión o modificación de la medida, para su sistematización;
+VI. Solicitar y en su caso proporcionar el auxilio a las instituciones policiales en el ámbito de sus respectivas competencias;
 
-VII. En caso de incumplimiento de la medida cautelar, la autoridad de seguimiento dará aviso oportuno a otras policías y al Ministerio Público para los efectos de sus competencias respectivas;
+VII. Coordinarse con las autoridades federales, estatales y municipales en el ámbito de sus respectivas competencias;
 
 VIII. Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
 
@@ -2591,13 +2751,15 @@ XI. No permitir que personas ajenas a la autoridad de seguimiento realicen actos
 
 XII. Ejecutar los mandamientos de las Autoridades Competentes señaladas en la presente Ley;
 
-XIII. Dejar constancia de sus actuaciones, así como llevar un control y seguimiento de las mismas; y
+XIII. Dejar constancia de sus actuaciones, así como llevar un control y seguimiento de las mismas;
 
-XIV. Los demás que establezcan las disposiciones legales aplicables.
+XIV. Mantener el orden y tranquilidad en el interior de las salas en que se lleve a cabo una audiencia de juicio, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de la víctima u ofendidos, testigos, los imputados o sentenciados, asistentes, el juez y demás personal que se encuentre en dichas salas, respetando en todo momento los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales en los que el Estado Mexicano sea parte; y,
 
-La policía procesal también tendrá las obligaciones previstas en los artículos 40 fracciones I, II, IV, V, VI, VII, VIII, IX, XV, XVI, XVII, XVIII, XX, XXIII, XXIV, XXVI y XXVII y 41 fracciones IV, V, VI, VII, VIII, IX y X de la Ley General del Sistema Nacional de Seguridad Publica.
+XV. Las demás que establezcan otras disposiciones legales aplicables.
 
-Si con motivo de la realización de sus atribuciones la policía procesal presencia, la comisión de un delito o de sus consecuencias, estará obligada a preservar los indicios o datos de prueba derivados del mismo, y llamará a las autoridades competentes para que se hagan cargo de la investigación.
+De igual manera tendrá las obligaciones previstas en los artículos 40 fracciones I, II, IV, V, VI, VII, VIII, IX, XV, XVI, XVII, XVIII, XX, XXIII, XXIV, XXVI, XXVII y 41 fracciones IV, V, VI, VII, VIII, IX y X de la Ley General del Sistema Nacional de Seguridad Pública.
+
+Si con motivo de la realización de sus atribuciones los elementos de la Policía Procesal presencian la comisión de un delito o de sus consecuencias, estará obligada a preservar el lugar de los hechos o del hallazgo, así como los indicios o datos de prueba derivados del mismo y llamará a las autoridades competentes para que se hagan cargo de la investigación.
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
 
@@ -2607,63 +2769,109 @@ I. Mantener la vigilancia, orden y tranquilidad de los Centros de Ejecución de 
 
 II. Salvaguardar la vida, la integridad, la seguridad y los derechos de los internos, visitantes y personal adscrito a los Centros de Ejecución de las Consecuencias Jurídicas del Delito, y las demás instalaciones que determinen las disposiciones aplicables, así como hacer cumplir su normatividad;
 
-III. Dar cumplimiento a lo dispuesto en las resoluciones judiciales respecto a la pena privativa de libertad en los rubros de seguridad y custodia, ya sea en los Centros o Establecimientos Penitenciarios, fuera de estos y de los recintos judiciales, en coordinación con las demás autoridades competentes; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+III. Dar cumplimiento a lo dispuesto en las resoluciones judiciales respecto a la pena privativa de libertad en los rubros de seguridad y custodia, en los Centros o Establecimientos Penitenciarios; y,
 
 IV. Las demás que otros ordenamientos legales o la normatividad les confieran.
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-Artículo 191 Bis B.- La Institución Policial tendrá las funciones siguientes:
+Artículo 191 Bis B. La Policía Penitenciaria tendrá las siguientes obligaciones:
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
 I. Mantener recluidos y en custodia a los internos por disposición de la autoridad competente;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
 II. Implementar las políticas, los programas y las estrategias establecidas en materia de seguridad y custodia penitenciaria, que para tal efecto diseñe la Autoridad Administrativa Penitenciaria;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
 III. Vigilar el estricto cumplimiento de las leyes, reglamentos y demás disposiciones aplicables;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
 IV. Mantener el orden, disciplina y buen comportamiento de los internos, respetando sus derechos;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
 V. Custodiar el orden y tranquilidad en el interior de los Centros de Ejecución de las Consecuencias Jurídicas del Delito, evitando cualquier incidente o contingencia que ponga en riesgo la integridad física de los internos, visitas y personal de los mismos;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
 VI. Revisar a las personas, objetos o vehículos que pretendan ingresar o salir de los Centros o Establecimientos Penitenciarios, bajo los protocolos de actuación respectivos;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
 VII. Salvaguardar la integridad de las personas y bienes en los Centros o Establecimientos Penitenciarios, así como garantizar, mantener y restablecer el orden y la paz en los mismos, utilizando para ello los Protocolos y con respeto a los Derechos Humanos de los internos, con apoyo en las herramientas, mecanismos y equipo necesarios y disponibles para el cumplimiento de sus atribuciones;
 
-VIII. Efectuar revisiones periódicas en los Centros de Consecuencias Jurídicas del Delito, con el objeto de prevenir la comisión de delitos a solicitud de la Autoridad Administrativa Penitenciaria previo diagnóstico y análisis de riesgo, y con acatamiento de los Protocolos y normatividad correspondientes; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-IX. Las demás que le confieran ésta y otras leyes.
+VIII. Coadyuvar con las instituciones policiales en las revisiones que se efectúen en los Centros de Consecuencias jurídicas del Delito, con el objeto de prevenir la comisión de delitos a solicitud de la autoridad administrativa penitenciaria previo diagnóstico y análisis de riesgo, y con acatamiento de los protocolos y normatividad correspondientes;
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-#### Sección Segunda. Unidad de Medidas Cautelares
+IX. Ejecutar materialmente el traslado de internos de un Centro o Establecimiento Penitenciario a otro ya sean estos estatales o federales, así como también a los distintos juzgados, tribunales o Centros Regionales de Justicia Penal;
 
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-Artículo 191 Bis C.- La Unidad de Medidas Cautelares es un órgano de la Secretaría de Seguridad Pública del Estado que tendrá las siguientes funciones:
+X. Preservar el lugar de los hechos o del hallazgo, así como la integridad de los indicios, huellas o vestigios del hecho, así como los instrumentos, objetos o productos del delito dando aviso de inmediato a la autoridad competente, en caso de presenciar la comisión de un delito; y,
+
+XI. Las demás que le confieran ésta y otras leyes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+#### Sección Segunda. De la Unidad de Medidas Cautelares y de la Suspensión Condicional del Proceso
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Artículo 191 Bis C.- La Unidad de Medidas Cautelares y de la Suspensión Condicional del Proceso es un órgano de la Secretaría que tendrá las siguientes funciones:
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
 I. Realizar la evaluación de riesgos de cada imputado cuando esté detenido por el Ministerio Público antes de la audiencia de control de la detención;
 
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
+
 II. Proporcionar información necesaria al Ministerio Público y la Defensa sugiriendo la medida cautelar más apropiada basada en el análisis de factores, circunstancias y perfil de cada detenido;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
 III. Proporcionar a las partes la información necesaria para que éstas aporten los antecedentes necesarios a los jueces para que decidan sobre la necesidad de imponer, modificar, adicionar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales;
 
-IV. Ejecutar las medidas cautelares de prisión preventiva, presentación periódica, en su caso, y localización electrónica;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-V. Vigilar y coordinar la ejecución del resto de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso a prueba;
+IV. Supervisar las medidas cautelares de presentación periódica y localización electrónica;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+V. Vigilar y coordinar la ejecución de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso de prueba;
+
+> <small>(ADICIONADA, P.O. 30 DE JULIO DE 2014)</small>
 
 VI. Dirigir y ordenar la prevención social de la delincuencia en el Estado en cuanto hace a la eficacia de las medidas, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
-VII. Elaborar los proyectos y proponer al titular del Poder Ejecutivo, por conducto del Secretario de Gobierno, las disposiciones normativas en materia cautelar, vigilar el cumplimiento de la Ley, su Reglamento y demás lineamientos, con estricto apego al principio de no discriminación por género o de cualquier tipo y vigilar su exacta aplicación;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VIII. Instituir tratamientos adecuados a las personas reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libres de estereotipos de género;
+VII. Elaborar los proyectos y proponer al Secretario de Seguridad Pública del Estado, las disposiciones normativas en materia cautelar, vigilar el cumplimiento de la ley, su reglamento y demás lineamientos con estricto apego al principio de no discriminación de género o de cualquier tipo y vigilar su exacta aplicación.
 
-IX. Coadyuvar en el mantenimiento de la estadística criminal del Estado; y
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-X. Las demás que otras leyes y reglamentos establezcan.
+VIII. Celebrar convenios e instrumentos jurídicos con las instituciones públicas o privadas para dar seguimiento a las medidas cautelares impuestas por el Juez;
+
+IX. Instituir tratamientos adecuados a las personas reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libres de estereotipos de género;
+
+X. Coadyuvar en el mantenimiento de la estadística criminal del Estado; y,
+
+XI. Las demás que otras leyes y reglamentos establezcan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Artículo 191 Bis D. La Unidad de Medidas Cautelares y de la Suspensión Condicional del Proceso informará a las partes sobre la ejecución de la medida cautelar o de la suspensión condicional del proceso que sea impuesta por el Juez correspondiente.
 
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
-
-Artículo 191 Bis D.- La Unidad de Medidas Cautelares informará al Ministerio Público sobre la ejecución de la medida cautelar impuesta o de las condiciones a cumplir durante la suspensión del proceso condicional a prueba, y solicitará la intervención de la policía para el cumplimiento de la medida.
 
 La información al respecto deberá incluirse a la carpeta de investigación para conocimiento de la defensa.
 
@@ -2677,11 +2885,15 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado,
 
 #### Sección Tercera. Unidad de Asistencia de Preliberados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Artículo 191 Bis F.- La Unidad de Asistencia de Preliberados es un órgano de la Secretaría, tendrá la función de seguimiento, control y vigilancia de las actividades preliberacionales y postpenitenciarias de los sentenciados con el propósito de garantizar que se lleven a cabo todas las medidas preventivas, disciplinarias o restrictivas que haya ordenado el Juez y que deban ejecutarse fuera de prisión.
+
 > <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
 
-Artículo 191 Bis F.- La Unidad de Asistencia de Preliberados es un organismo de la Subsecretaría de Seguridad Pública, Prevención y Readaptación Social que tendrá la función de seguimiento, control y vigilancia de las actividades preliberacionales y postpenitenciarias de los sentenciados, con el propósito de garantizar que se lleven a cabo todas las medidas preventivas, disciplinarias o restrictivas que haya ordenado el Juez y que deban ejecutarse fuera de la prisión.
-
 Para su ingreso y permanencia les serán aplicables las disposiciones de los miembros de las corporaciones de seguridad pública, así como las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2014)</small>
 
 Los responsables del seguimiento a la ejecución de medidas cautelares y obligaciones procesales se coordinarán con los supervisores de libertad anticipada para cumplir con sus objetivos marcados en esta Ley y en otros ordenamientos jurídicos.
 
@@ -2701,13 +2913,17 @@ V. Proponer estrategias de cumplimiento de medidas y condiciones para los senten
 
 VI. Las que determinen las Unidades de seguimiento a las medidas cautelares y obligaciones procesales, el Juez, la Autoridad Penitenciaria así como los reglamentos y manuales de la materia.
 
-### Capítulo VI. Del Personal de la Policía Preventiva
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### Capítulo VI. Del Personal de las Instituciones de Seguridad Pública
 
 #### Sección Primera. Del Régimen Laboral
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 192.
 
-Los servidores públicos que integran las Instituciones de Seguridad Pública del Estado y de los municipios son de confianza, incluyendo a los que prestan los servicios en los centros de ejecución de las consecuencias jurídicas del delito, protección civil y centros de internamiento de adolescentes y de tratamiento de menores infractores.
+Los servidores públicos que integran las Instituciones de Seguridad Pública del Estado y de los Municipios son de confianza, incluyendo a los que prestan los servicios en los Centros de Ejecución de las Consecuencias Jurídicas del Delito, centros de internamiento y órganos de ejecución de medidas para adolescentes, en la Policía Procesal, en la Unidad de Medidas Cautelares y de Suspensión Condicional del Proceso, así como en la Unidad de Asistencia de Preliberados.
 
 ###### Artículo 193.
 
@@ -2927,7 +3143,9 @@ a) La renuncia;
 
 b) La incapacidad permanente para el desempeño de sus funciones;
 
-c) La pensión por retiro, vejez; y,
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+c) La pensión por retiro, retiro anticipado, vejez y,
 
 d) La muerte.
 
@@ -3277,7 +3495,9 @@ Para el cumplimiento de lo que dispone este título, se podrá autorizar la crea
 
 Los Municipios podrán desarrollar programas de actualización y capacitación para sus policías preventivos, cumpliendo previamente los requisitos de acreditación y validación por parte del Instituto Estatal de Ciencias Penales y Seguridad Pública, quien deberá cerciorarse que los mismos cumplan con las consideraciones previstas en esta Ley y de los planes y programas previamente autorizados; además, verificar que los instructores cuenten con aptitud académica, honradez y experiencia profesional. Asimismo, las autoridades municipales podrán participar conjuntamente con el Instituto en los procesos de reclutamiento y selección de quienes aspiren a ingresar a su policía preventiva, con apego a los lineamientos que la institución policial establezca, en los términos que prevé este ordenamiento y la reglamentación respectiva; sin embargo, para la selección de candidato será exclusivamente el Instituto Estatal de Ciencias Penales y Seguridad Pública quien determine la admisión del solicitante siempre y cuando cumpla con los requerimientos correspondientes.
 
-### Capítulo II. De la Formación del Personal para la Seguridad Pública
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### Capítulo II. Del Sistema de Formación y Profesionalización del Personal para la Seguridad Pública
 
 ###### Artículo 239.
 
@@ -3285,15 +3505,25 @@ En los términos de esta Ley y además con las atribuciones, finalidades y objet
 
 I. Personal técnico y profesional en las áreas de prevención del delito, tratamiento de adolescentes y menores infractores, función policial, sistema penitenciario y de reinserción social, tratamiento, reintegración social y familiar e internamiento de adolescentes y en aquellas disciplinas que se relacionen con cumplimiento del objeto y fines de esta Ley;
 
-II. Policía Ministerial del Estado;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+II. Policía Ministerial, Ministerios Públicos y Peritos del Estado;
 
 III. Policías preventivos del Estado y de los municipios, en todas sus modalidades;
 
 IV. Agentes de tránsito;
 
-V. Custodios o elementos de seguridad de los centros penitenciarios, preventivos y de reinserción social y en los de tratamiento, internamiento y de reintegración social y familiar de adolescentes y tratamiento de menores infractores; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VI. Aquellos que por sus funciones realicen actividades de supervisión o inspección en materia de tránsito, transporte, ambiental, entre otras.
+V. Policía penitenciario o elementos de seguridad de los centros penitenciarios, preventivos y de reinserción social y en los de tratamiento, internamiento y de reintegración social y familiar de adolescentes y tratamiento de menores infractores;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VI. Policía Procesal; y,
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VII. Aquellos que por sus funciones realicen actividades de supervisión o inspección en materia de tránsito, transporte ambiental, entre otras.
 
 ###### Artículo 240.
 
@@ -3357,9 +3587,15 @@ XIV. Expedir constancias de las actividades para la profesionalización que impa
 
 XV. Proponer la celebración de convenios con Instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia a los servidores públicos;
 
-XVI. Supervisar que los aspirantes e integrantes de las Instituciones Policiales se sujeten a los manuales del Instituto; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-XVII. Las demás que establezcan las disposiciones legales aplicables.
+XVI. Supervisar que los aspirantes e integrantes de las Instituciones Policiales se sujeten a la normatividad del Instituto;
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+XVII. Inscribir en el Registro Estatal de Personal de Seguridad Pública a los aspirantes que ingresen a cursar la formación inicial; y,
+
+XVIII. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 242.
 
@@ -3389,13 +3625,17 @@ El Instituto contará con el presupuesto que le otorgue la Ley de Ingresos y Pre
 
 ### Capítulo III. Del Perfil de Ingreso a la Formación Inicial Policial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 244.
 
-Para ser policía preventivo en cualquiera de las modalidades previstas por esta Ley, agente de tránsito, custodio o elemento de seguridad de los centros penitenciarios, preventivos, de reinserción social y en los de internamiento y de adaptación social de adolescentes, se deberá contar con el perfil de ingreso y cumplir con los requisitos básicos siguientes:
+Para los aspirantes a pertenecer a las instituciones policiales se deberá contar con el perfil de ingreso señalado en el artículo 30 de la presente Ley y cumplir con los requisitos básicos siguientes:
 
 I. Ser ciudadano mexicano;
 
-II. Contar con certificado de educación media superior al momento de la selección y admisión;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+II. Contar al momento de la selección y admisión en su caso, con educación superior para las áreas de investigación, con certificado de educación media superior o equivalente para las áreas de prevención y con el certificado correspondiente al nivel secundaria del tipo básica para las áreas de reacción;
 
 III. Cumplir con la estatura mínima requerida y con peso corporal acorde con su estatura, según la Norma Oficial Mexicana de la materia;
 
@@ -3678,3 +3918,17 @@ El Ejecutivo Estatal realizará las previsiones administrativas y presupuestaria
 ###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto el Ejecutivo Estatal no realice las adecuaciones administrativas necesarias, las referencias que se hagan a la Dirección de Prevención y Readaptación Social, se entenderán hechas a la Dirección de Prevención y Reinserción Social.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a lo previsto en el presente decreto.
