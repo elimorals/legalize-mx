@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-del-servicio-profesional-de-carrera-de-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-13"
-last_updated: "2012-06-13"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 junio de 2012.
 
@@ -463,17 +463,37 @@ Se entiende por selección de personal, el proceso mediante el cual se comparan 
 
 La selección de aspirantes se realizará en los términos señalados en los artículos 20 y 21 de la Ley y comprenderá las siguientes etapas:
 
-I. Acreditación de requisitos de Ley y de la convocatoria pública;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-II. Exámenes de control de confianza, psicométricos, médicos y de habilidades;
+I. Registro de aspirantes y acreditación preliminar de requisitos de Ley y convocatoria pública;
 
-III. Exámenes de conocimientos;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-IV. Análisis y antecedentes de experiencia laboral y evaluación del desempeño en los puestos inmediatos inferiores de la vacante, en su caso;
+II. Análisis y antecedentes de experiencia laboral y en su caso, evaluación del desempeño en los puestos inmediatos inferiores de la vacante;
 
-V. Entrevistas; y
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-VI. Resolución.
+III. Exámenes de control de confianza, psicométricos, médicos y de habilidades;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IV. Exámenes de conocimientos;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+V. Entrevistas;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VI. Acreditación de requisitos de Ley y convocatoria pública; y
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VII. Resolución.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+El Comité establecerá en la convocatoria pública, el orden y las fechas en que se desarrollarán dichas etapas.
 
 ###### Artículo 44.
 
@@ -491,9 +511,11 @@ Si se detecta que un aspirante presentó documentos falsos, alterados o apócrif
 
 Si el ganador del concurso, presentó documentos falsos, alterados o apócrifos, obteniendo con ello beneficios o derechos que no le corresponden, o bien, se condujo con falsedad previo, durante y después de su ingreso al Servicio Profesional de Carrera se dará aviso a las autoridades competentes a fin de determinar la nulidad del nombramiento, con independencia del ejercicio de otras acciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 47.
 
-Durante la etapa de acreditación de requisitos de Ley y convocatoria pública, el aspirante al Servicio Profesional de Carrera deberá anexar a su solicitud la documentación que acredite el cumplimiento de los requisitos establecidos en el artículo 19 de la Ley y demás que señale la convocatoria pública respectiva.
+Durante la etapa de acreditación de requisitos de Ley y de la convocatoria pública, el aspirante al Servicio Profesional de Carrera deberá acreditar el cumplimiento de los requisitos establecidos en el artículo 19 de la Ley y demás que señale la convocatoria pública respectiva.
 
 El Comité verificará el cumplimiento de los referidos requisitos, para lo cual podrá consultar los registros públicos en materia de profesiones, servidores públicos sancionados, y cualquier otra fuente de información.
 
@@ -569,6 +591,10 @@ a) Mayor experiencia laboral, considerando principalmente los niveles de respons
 
 b) Mayor nivel académico.
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+III. Si el empate se presenta entre un servidor público de la Auditoría y un aspirante externo, se dará preferencia al primero.
+
 Los casos no previstos para efectos del desempate los determinará el Comité.
 
 ###### Artículo 57.
@@ -627,7 +653,7 @@ La fase de selección se realizará mediante convocatoria pública de acuerdo co
 
 I. Dirigidas a servidores públicos de la Auditoría; o
 
-II. Dirigidas a toda persona interesada que desee ingresar al Servicio Profesional de Carrera; (sic)
+II. Dirigidas a toda persona interesada que desee ingresar al Servicio Profesional de Carrera;
 
 ###### Artículo 63.
 
@@ -679,13 +705,19 @@ V. Se señalará que los resultados de cada etapa de la fase de selección, se p
 
 VI. Designación de la obligatoriedad de someterse a los exámenes de control de confianza, psicométricos, médicos, de habilidades y conocimientos;
 
-VII. Enunciación de documentos que deberán allegar los aspirantes al momento de su registro en el concurso, indicando al menos los siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
-a) Copia certificada de credencial para votar o pasaporte vigentes;
+VII. Enunciación de documentos que deberán de allegar los aspirantes, a efecto de acreditar los requisitos de Ley y la convocatoria pública, indicando al menos los siguientes:
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+a) Copia simple de credencial para votar o pasaporte vigente;
 
 b) Copia certificada del acta de nacimiento:
 
-c) Original de carta de residencia que acredite ser vecino del Estado de Nuevo León con una residencia mínima de tres años;
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+c) Carta de residencia que acredite ser vecino del Estado de Nuevo León con una residencia mínima de tres años certificada por la autoridad municipal competente;
 
 d) Original de carta de no antecedentes penales;
 
@@ -1062,3 +1094,9 @@ Dado en la sede oficial de la Auditoría Superior del Estado, en la ciudad de Mo
 EL C. AUDITOR GENERAL DEL ESTADO DE NUEVO LEÓN
 
 C.P. SERGIO MARENCO SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+ÚNICO. Las presentes reformas al Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
