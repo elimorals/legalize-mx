@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-accion-de-cambio-climatico-en-el-estado-de-quintana-8864
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-29"
-last_updated: "2013-08-19"
+last_updated: "2015-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de marzo de 2012.
 
@@ -41,13 +41,37 @@ LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 1.
 
 La presente Ley es de orden público e interés general; sus disposiciones son de observancia obligatoria en todo el Estado de Quintana Roo, en concurrencia con los Municipios y la Sociedad Civil.
 
-Tiene por objeto mitigar las emisiones y lograr un territorio mejor adaptado a los potenciales impactos del cambio climático, estableciendo el marco para la planeación y la ejecución de las políticas de adaptación, de acuerdo con el conocimiento científico existente.
+La presente Ley tiene por objeto:
 
-En lo no previsto por esta Ley y los ordenamientos específicos que señale, se aplicarán de manera supletoria y complementaria los ordenamientos federales y estatales en materia ambiental.
+I. Preservar el derecho de todas las personas a un medio ambiente adecuado para su desarrollo y bienestar;
+
+II. Establecer la competencia del Estado y de los municipios en la elaboración y aplicación de políticas públicas para la adaptación al cambio climático y la mitigación de emisiones de gases y compuestos de efecto invernadero;
+
+III. Fomentar las acciones para la mitigación y adaptación al cambio climático en el Estado;
+
+IV. Vincular la planeación del Ordenamiento Ecológico Territorial con las acciones de mitigación y adaptación al cambio climático;
+
+V. Desarrollar políticas públicas de desarrollo urbano que fomenten acciones de mitigación y adaptación al cambio climático;
+
+VI. Reducir la vulnerabilidad de la población y de los ecosistemas del Estado frente a los efectos adversos del cambio climático;
+
+VII. Prevenir y controlar las emisiones de gases y compuestos de efecto invernadero de origen antrópico que no sean de competencia federal;
+
+VIII. Fomentar la educación, investigación, desarrollo y transferencia de tecnología e innovación y difusión en materia de adaptación y mitigación al cambio climático en el Estado;
+
+IX. Establecer las bases para la participación y concertación social;
+
+X. Promover la transición hacia un desarrollo sustentable y de bajas emisiones de carbono, y
+
+XI. En lo no previsto por esta Ley y los ordenamientos específicos que señale, se aplicarán de manera supletoria y complementaria los ordenamientos federales y estatales en materia ambiental.
+
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 2.
 
@@ -55,101 +79,65 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Adaptación: Medida encaminada a reducir la vulnerabilidad de los sistemas naturales y humanos ante los efectos del cambio climático.
 
-II. Atlas de Riesgo: Documento dinámico con evaluaciones de riesgo en territorios o zonas geográficas vulnerables específicas, considerando los escenarios climáticos actuales y futuros.
+II. Atlas de Riesgo: Documento dinámico cuyas evaluaciones de riesgo en asentamientos humanos, regiones o zonas geográficas vulnerables, consideran los actuales y futuros escenarios climáticos;
 
-III. Autoridades Estatales y Municipales: la Administración Pública Central y Paraestatal del Estado y los Municipios.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2013)</small>
+III. Autoridades Estatales y Municipales: La Administración Pública Central y Paraestatal del Estado y los Municipios.
 
 IV. Azotea Verde: El techo de un inmueble que esta parcial o totalmente cubierto de vegetación, ya sea en suelo o en un medio de cultivo apropiado, los cuales pueden consistir en un sistema integral compuesto por varias capas de materiales diseñados para proteger el inmueble contra daños ocasionados por la exposición del medio ambiente, y promover el crecimiento de vegetación en dichas áreas, o aquellas que principalmente son acondicionadas como áreas verdes o con motivos ornamentales y que cuenta con una baja diversidad de plantas, con poco requerimiento de mantenimiento y acondicionamiento arquitectónico y estructural;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
 V. Cambio Climático: Variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 VI. Clima: Estado medio de los elementos meteorológicos de una localidad, considerado en un espacio largo de tiempo;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
 VII. Comisión: Comisión Estatal de Cambio Climático de Quintana Roo;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 VIII. Compra verde: Integración del componente medioambiental en la toma de decisiones de compra de bienes y contratación de servicios;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
 IX. Efectos Adversos del Cambio Climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 X. Eficiencia Energética: Acciones que conlleven a una reducción económicamente viable de la cantidad de energía necesaria para satisfacer las necesidades energéticas de los servicios y bienes que requiere la sociedad, asegurando un nivel de calidad igual o superior y una disminución de los impactos ambientales negativos derivados de la generación, distribución y consumo de energía;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
 XI. Emisiones: La liberación de gases de efecto invernadero en la atmósfera;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 XII. Estado: Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
 XIII. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero en la atmósfera, sean de organización, establecimiento o instalación, pública o privada, así como de fuentes móviles, fijas o semifijas;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 XIV. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6);
 
 XV. Ley: Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
 XVI. Mitigación: Medida ambiental destinada a reducir, absorber o capturar las emisiones de gases o compuestos de efecto invernadero y mejorar los sumideros de gases de efecto invernadero;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 XVII. Normas Técnicas Ambientales: Disposiciones de carácter obligatorio en el Estado, que tienen por objeto establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades que causen o puedan causar desequilibrio ecológico o daño al ambiente; para prevenir, reducir, mitigar, y en su caso, compensar los efectos adversos o alteraciones que se ocasionen o puedan ocasionar al ambiente y sus recursos, así como considerar las condiciones necesarias para reorientar los procesos y tecnologías de protección al ambiente y al desarrollo sustentable;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
 XVIII. Ordenamiento Ecológico Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio regional y local, de conformidad con lo previsto en la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
 XIX. Programa Estatal: Programa Estatal de Acción ante el Cambio Climático; que contempla, en concordancia con el marco legal de planeación, en forma ordenada y coherente, estrategias, políticas directrices y tácticas en tiempo y espacio, así como los instrumentos, mecanismos y acciones a realizar para la mitigación de emisiones y procesos de adaptación ante el Cambio Climático;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+XX. Programa Municipal: Programa Municipal de Cambio Climático;
 
-XX. Protocolo de Kioto: Tratado Internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático que establece mecanismos y medidas para limitar o reducir las emisiones de gases efecto invernadero;
+XXI. Protocolo de Kioto: Tratado Internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático que establece mecanismos y medidas para limitar o reducir las emisiones de gases efecto invernadero;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+XXII. Reglamento: Reglamento de la Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
 
-XXI. Reglamento: Reglamento de la Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
+XXIII. Secretaría: Secretaría de Ecología y Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+XXIV. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
 
-XXII. Secretaría: Secretaría de Ecología y Medio Ambiente;
+XXV. Sumidero de Carbono: Cualquier proceso, actividad o mecanismo que absorbe un gas de efecto invernadero de la atmósfera; y
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
-XIII. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
-XXIV. Sumidero de Carbono: Cualquier proceso, actividad o mecanismo que absorbe un gas de efecto invernadero de la atmósfera; y
-
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
-
-XXV. Vulnerabilidad: Nivel al que un sistema es susceptible, o no es capaz de soportar, los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática al que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+XXVI. Vulnerabilidad: Nivel al que un sistema es susceptible, o no es capaz de soportar, los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática al que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
 
 ###### Artículo 3.
 
 Las disposiciones de la presente Ley serán de aplicación en todos los sectores, en especial en los sectores energético, industrial, habitacional, turístico y de servicios, agropecuario, forestal y pesquero, el transporte, el desarrollo urbano y la ordenación del territorio, las obras públicas, los servicios de tratamiento y abastecimiento de aguas, la producción y gestión de residuos competencia del Estado y municipios, los sistemas naturales y la biodiversidad, en términos de las leyes estatales en la materia respectiva.
 
 Son destinatarios de esta Ley, y en consecuencia deberán cumplir con lo establecido en sus disposiciones, las autoridades estatales y municipales, así como las personas físicas y morales de naturaleza privada que realicen actividades en el Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+El Estado con los municipios y estos entre sí, con acuerdo de sus ayuntamientos podrán coordinarse y/o asociarse para una eficiente implementación de las disposiciones previstas en la presente Ley.
 
 ### CAPÍTULO II. De los Criterios Generales para la Definición de Políticas de Mitigación y Adaptación
 
@@ -160,6 +148,10 @@ Los habitantes del Estado deberán participar, de manera ordenada y activa, en l
 ###### Artículo 5.
 
 En la definición de los objetivos y metas de adaptación, las autoridades estatales y municipales deberán tomar en cuenta las evaluaciones de impacto económico del cambio climático, mapas de riesgo, desarrollo de capacidades de adaptación y demás estudios para hacer frente al cambio climático.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+Considerarán los escenarios de vulnerabilidad actual y futura ante el cambio climático, atendiendo de manera preferencial a la población más vulnerable y a las zonas de mayor riesgo, así como a las islas, zonas costeras, humedales, zonas inundables, cuevas inundadas y cenotes.
 
 ###### Artículo 6.
 
@@ -193,6 +185,8 @@ En todo caso, las competencias y funciones serán ejercidas por las autoridades 
 
 Las autoridades en materia de cambio climático en el Estado serán las encargadas de formular la política de acción climática, además de aplicar y coordinar las medidas y acciones de adaptación y mitigación ante el cambio climático de manera coordinada, concertada y corresponsable con el sector privado, así como con las dependencias federales y con la sociedad quintanarroense en general.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 10.
 
 Corresponde a la Secretaría, el ejercicio, de manera enunciativa más no limitativa de las siguientes funciones:
@@ -201,31 +195,93 @@ I. Elaborar el Programa Estatal, de conformidad con lo aprobado por la Comisión
 
 II. Elaborar informes de seguimiento sobre el cumplimiento de los objetivos que se establezcan en el Programa Estatal en materia de mitigación y de adaptación;
 
-III. Coordinar la política estatal de acción de cambio climático;
+III. Elaborar, publicar y actualizar el atlas estatal de riesgos, en coordinación con sus municipios, conforme a los criterios emitidos por la federación.
 
-IV. Ejercer la potestad sancionadora en las materias de su competencia;
+IV. Coordinar la política estatal de acción de cambio climático;
 
-V. Coordinarse con la Comisión;
+V. Ejercer la potestad sancionadora en las materias de su competencia;
 
-VI. Emitir opinión respecto a la elaboración y actualización del Inventario de Emisiones de Gases de Efecto Invernadero en el Estado;
+VI. Coordinarse con la Comisión;
 
-VII. Establecer las bases técnicas y jurídicas que se requieran para fomentar la participación de empresas en las acciones de mitigación y adaptación al cambio climático en el Estado;
+VII. Emitir opinión respecto a la elaboración y actualización del Inventario de Emisiones de Gases de Efecto Invernadero en el Estado;
 
-VIII. Promover, difundir y en su caso, aprobar proyectos de mitigación de Emisiones, en términos del Mercado, del Protocolo de Kioto, así como de otros instrumentos firmados y ratificados por el Gobierno Federal que estén orientados al mismo objetivo;
+VIII. Establecer las bases técnicas y jurídicas que se requieran para fomentar la participación de empresas en las acciones de mitigación y adaptación al cambio climático en el Estado;
 
-IX. Establecer instrumentos económicos, para promover inversiones y cambios de conducta en actividades industriales, comerciales y de servicios, que generan Emisiones de Efecto Invernadero, así como para otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio climático;
+IX. Promover, difundir y en su caso, aprobar proyectos de mitigación de Emisiones, en términos del Mercado, del Protocolo de Kioto, así como de otros instrumentos firmados y ratificados por el Gobierno Federal que estén orientados al mismo objetivo;
 
-X. Promover el desarrollo e integración de un marco jurídico estatal congruente con la política pública en materia de cambio climático a nivel Nacional;
+X. Establecer instrumentos económicos, para promover inversiones y cambios de conducta en actividades industriales, comerciales y de servicios, que generan Emisiones de Efecto Invernadero, así como para otorgar incentivos a quien realice acciones para la protección, preservación o restauración del equilibrio climático;
 
-XI. Establecer las normas técnicas ambientales estatales en materia de cambio climático, y las medidas de vigilancia para su cumplimiento en la materia;
+XI. Promover el desarrollo e integración de un marco jurídico estatal congruente con la política pública en materia de cambio climático a nivel Nacional;
 
-XII. Establecer la reglamentación para acreditar la sostenibilidad de edificios y obras de urbanización; en coordinación con los municipios;
+XII. Establecer las normas técnicas ambientales estatales en materia de cambio climático, y las medidas de vigilancia para su cumplimiento en la materia;
 
-XIII. Plantear propuestas de actuación a todos aquellos órganos que ostenten competencias en relación con la acción de cambio climático;
+XIII. Establecer la reglamentación para acreditar la sostenibilidad de edificios y obras de urbanización; en coordinación con los municipios;
 
-XIV. Promover la coordinación y realizar las labores de seguimiento pertinentes de las políticas de mitigación y de adaptación al cambio climático y de todas aquellas actuaciones que, en relación con la acción de cambio climático, sean desarrolladas por el Gobierno Estatal, siguiendo las directrices establecidas en la planeación correspondiente y atendiendo siempre al conocimiento disponible de la vulnerabilidad, riesgo derivado de ésta y medidas de adaptación a adoptar; y
+XIV. Plantear propuestas de actuación a todos aquellos órganos que ostenten competencias en relación con la acción de cambio climático;
 
-XV. Las demás que establezca esta Ley, demás leyes en la materia y en las disposiciones que de ésta Ley se deriven.
+XV. Promover la coordinación y realizar las labores de seguimiento pertinentes de las políticas de mitigación y de adaptación al cambio climático y de todas aquellas actuaciones que, en relación con la acción de cambio climático, sean desarrolladas por el Gobierno Estatal, siguiendo las directrices establecidas en la planeación correspondiente y atendiendo siempre al conocimiento disponible de la vulnerabilidad, riesgo derivado de ésta y medidas de adaptación a adoptar;
+
+XVI. Colaborar con los municipios en la elaboración e Instrumentación de sus Programas Municipales mediante la asistencia técnica;
+
+XVII. Difundir en la página de Internet prevista en el artículo 41 de esta Ley, en el mes de septiembre, un informe anual de actividades sobre los resultados de mitigación de emisiones y de adaptación al cambio climático, y
+
+XVIII. Las demás que establezca esta Ley, demás leyes en la materia y en las disposiciones que de ésta Ley se deriven.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 10 Bis.
+
+Corresponde a los Ayuntamientos, las siguientes atribuciones:
+
+I. Formular, conducir y evaluar la política municipal en materia de cambio climático en concordancia con la política nacional y estatal;
+
+II. Formular, dirigir, monitorear, evaluar, vigilar y publicar el Programa Municipal de Cambio Climático, de acuerdo con las recomendaciones que emita la Comisión;
+
+III. Formular e instrumentar acciones para enfrentar al cambio climático en las siguientes materias:
+
+a) Supervisión del servicio de agua potable y saneamiento;
+
+b) Ordenamiento Ecológico Municipal;
+
+e) Programas de Desarrollo Urbano;
+
+d) Fuentes Emisoras de su competencia;
+
+e) Recursos Naturales y Protección al ambiente de su competencia;
+
+f) Protección Civil; y,
+
+g) Manejo Integral de Residuos Sólidos Urbanos;
+
+IV. Suscribir convenios de coordinación o concertación con ciudadanos, empresariales, educativas, con organizaciones de la sociedad civil, institutos de investigación, en materia de cambio climático;
+
+V. Aplicar las estrategias, programas, proyectos integrales de mitigación y adaptación al cambio climático para impulsar el transporte eficiente y sustentable, público y privado;
+
+VI. Realizar campañas de educación e información, en coordinación con el gobierno estatal y federal, para sensibilizar a la población sobre los efectos adversos del cambio climático;
+
+VII. Promover el fortalecimiento de capacidades institucionales y sectoriales para la mitigación y adaptación;
+
+VIII. Participar en el diseño y aplicación de incentivos que promuevan acciones para el cumplimiento del objeto de la presente Ley;
+
+IX. Coadyuvar con las autoridades estatales en la instrumentación del Programa Estatal;
+
+X. Crear, regular y administrar el Fondo Municipal de Cambio Climático, para apoyar e implementar el desarrollo de acciones en la materia;
+
+XI. Elaborar e integrar, en colaboración con la Secretaría, la información de las fuentes emisoras en su territorio, para su incorporación al Inventario Estatal de Emisiones;
+
+XII. Elaborar, actualizar y publicar el Atlas Municipal de Riesgo tomando en consideración los efectos del cambio climático;
+
+XIII. Prevenir la degradación y promover la conservación e incremento de carbono en la vegetación, suelo, y ecosistemas terrestres y acuáticos, así como crear y mantener áreas de conservación ecológica;
+
+XIV. Expedir los reglamentos municipales en la materia, con el objeto de vigilar, verificar, inspeccionar y sancionar, en el ámbito de su competencia, el cumplimiento de la presente Ley;
+
+XV. Gestionar recursos para el Fondo Municipal de Cambio Climático;
+
+XVI. Realizar Estudios sobre la vulnerabilidad actual y futura ante el cambio climático en zonas de mayor riesgo en islas, zonas costeras, humedales, zonas inundables, cuevas inundadas y cenotes.
+
+XVII. Promover acciones que agilicen el tráfico vehicular en sus municipios para reducir emisiones que provocan cambio climático; y,
+
+XVIII. Las demás que señale ésta Ley y las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO IV. De la Comisión
 
@@ -307,7 +363,9 @@ II. Coordinar las acciones de adaptación y mitigación al cambio climático, pr
 
 III. Conocer y opinar sobre la temporalidad en la elaboración y actualización del Programa Estatal, del Atlas de Riesgos, del Programa de Ordenamiento Ecológico Territorial del Estado, de las evaluaciones de impacto ambiental, y demás estudios que se consideren necesarios para hacer frente al cambio climático en el Estado, en términos de la ley de la materia;
 
-IV. Definir, aprobar y coordinar la realización de las acciones para el diseño e instrumentación del Programa, así como las medidas de adaptación y mitigación;
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+IV. Diseñar y aprobar las acciones para la instrumentación del programa estatal, así como las medidas de adaptación y mitigación al cambio climático;
 
 V. Opinar sobre las metas e indicadores de efectividad e impacto de las acciones de su competencia.;
 
@@ -319,7 +377,9 @@ VIII. Las demás que establezca esta Ley y demás normatividad aplicable.
 
 Sin perjuicio de lo establecido por el Acuerdo por el que se crea con carácter permanente la Comisión Estatal de Cambio Climático del Estado.
 
-### CAPÍTULO V. Del Programa Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+### CAPÍTULO V. Del Programa Estatal y Municipal
 
 ###### Artículo 15.
 
@@ -404,6 +464,30 @@ Como resultado del seguimiento realizado sobre los objetivos establecidos en el 
 Los informes mencionados en los apartados anteriores serán remitidos al Poder Legislativo antes de finalizar el año en el que deba ser elaborado para su conocimiento.
 
 La Secretaria integrará los planes sectoriales y estratégicos que elaboren las entidades de la administración pública, competentes en materia de industria, energía, transportes, desarrollo urbano, desarrollo rural, vivienda y medio ambiente, en el Programa Estatal. En ambos casos se remitirá copia para su conocimiento a cada uno de los Municipios.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 18 Bis.
+
+Los gobiernos municipales, en el ámbito de sus competencias, deberán elaborar y publicar sus programas municipales de cambio climático, como instrumento de planeación e implementación de políticas públicas, metas e indicadores urbanos y ambientales que las autoridades locales se comprometen a cumplir durante el periodo de gobierno correspondiente, de conformidad con el Programa Estatal y las disposiciones de esta Ley para enfrentar al cambio climático.
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 18 Ter.
+
+Los programas municipales de cambio climático incluirán, entre otros, los siguientes elementos:
+
+I. La planeación con perspectiva de mediano y largo plazo, urbana y ambiental, de sus objetivos y acciones, en congruencia con el Programa Estatal;
+
+II. Los escenarios de cambio climático y los diagnósticos de vulnerabilidad y de capacidad de adaptación;
+
+III. Las metas y acciones para la mitigación y adaptación en materia de su competencia señaladas en la presente Ley y las demás disposiciones que de ella deriven;
+
+IV. La medición, el reporte y la verificación de las medidas de adaptación y mitigación; y,
+
+V. Los demás que determinen sus disposiciones legales en la materia.
+
+Los programas Municipales, podrán ser sometidos a consideración de la Comisión.
 
 ### CAPÍTULO VI BIS. De las azoteas verdes
 
@@ -629,13 +713,19 @@ V. Programas de educación, concientización y difusión de una cultura de mitig
 
 VI. Otros proyectos y acciones en concordancia a las metas establecidas en el Programa Estatal, así como las definidas en las reglas de operación del Fondo.
 
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2015)</small>
+
+VII. Estudios sobre la vulnerabilidad actual y futura ante el cambio climático, en zonas de mayor riesgo en islas, zonas costeras, humedales, zonas inundables, cuevas inundadas y cenotes en conjunto con los municipios del Estado.
+
 ###### Artículo 37.
 
 El Consejo Técnico aprobará las operaciones que se realicen con cargo al Fondo, en los términos de la normativa respectiva, de las reglas de operación y del contrato de fideicomiso respectivos.
 
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 38.
 
-El Fondo se sujetará a los mecanismos de control, auditoría, evaluación y rendición de cuentas que establezcan las disposiciones legales.
+El Fondo se sujetará a los mecanismos de control, auditoría, transparencia, evaluación y rendición de cuentas que establece esta Ley y las disposiciones legales aplicables.
 
 ### CAPÍTULO X. Información y Participación Pública
 
@@ -808,3 +898,7 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 30 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
