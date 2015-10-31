@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-archivos-del-estado-de-nayarit-87799"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2014-06-07"
+last_updated: "2015-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ARCHIVOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2012.
 
@@ -47,57 +47,59 @@ La presente Ley es de orden público y tiene por objeto normar, ordenar y coordi
 
 Se declara de interés público la generación, organización, administración, preservación, conservación y difusión de los documentos que constituyen la memoria de la administración pública y el patrimonio histórico y cultural de la Entidad.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 2.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Archivo: Conjunto de documentos, sea cual fuere su forma y soporte material, producidos o recibidos por una persona física o moral o por un organismo público o privado, en el ejercicio de sus funciones o actividades.
+I. Archivo: Conjunto de documentos, sea cual fuere su forma y soporte material, producidos o recibidos por una persona física o moral o por un organismo público o privado, en el ejercicio de sus funciones o actividades;
 
-II. Archivo de Concentración: Responsable de la compilación de documentos, cuya consulta es esporádica por parte de las dependencias y entes públicos, lugar donde permanecen los documentos hasta su destino final.
+II. Archivo de Concentración: Compilación de documentos cuya consulta es esporádica por parte de las dependencias o entes públicos; lugar donde permanecen los documentos hasta su destino final;
 
-III. Archivo de Trámite: Responsable de la compilación de documentos de uso cotidiano y necesario para el ejercicio de las atribuciones de la (sic) unidades administrativas de las dependencias.
+III. Archivo de Trámite: Compilación de documentos de uso cotidiano y necesario para el ejercicio de las atribuciones de la (sic) unidades administrativas de las dependencias;
 
-IV. Archivo público: Conjunto de documentos e información, sea cual fuere su forma y soporte material, que constituyen los archivos general, históricos, de trámite o unidades de concentración previstos en esta Ley, por haberse producido en el ejercicio de la administración pública.
+IV. Archivo General del Estado: Órgano dependiente de la Secretaría General de Gobierno encargado de custodiar y administrar los documentos cuyo uso ha prescrito y que fueron remitidos por las dependencias y entidades de la administración pública;
 
-V. Baja documental: Eliminación de aquella documentación e información que haya prescrito en sus valores administrativos o legales y que no contenga valores históricos.
+V. Archivo General o Histórico: Compilación de documentos o colecciones documentales que deben conservarse de manera permanente debido a la relevancia que representan para la memoria de las entidades;
 
-VI. Catálogo de disposición documental: Registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad y el destino final.
+VI. Archivo Privado: Documentos o colecciones que ostenten interés público, histórico o cultural en poder de particulares;
 
-VII. Comité Técnico: Instancia respectiva de cada entidad que tiene como finalidad administrar la documentación al interior de ésta.
+VII. Archivo público: Conjunto de documentos e información, sea cual fuere su forma y soporte material, que constituyen los archivos general, históricos, de trámite o concentración previstos en esta Ley, por haberse producido en el ejercicio de la administración pública;
 
-VIII. Consejo: Consejo Estatal de Archivos de Nayarit, que será el órgano de coordinación y vinculación del Sistema Estatal de Archivos.
+VIII. Baja documental: Eliminación de aquella documentación e información que haya prescrito en sus valores administrativos o legales y que no contenga valores históricos;
 
-IX. Cuadro General de Clasificación: Instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada dependencia o entes públicos.
+IX. Catálogo de disposición documental: Registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad y el destino final;
 
-X. Destino final: Selección en los archivos de trámite o unidades de concentración, de aquellos expedientes cuyo plazo de conservación o uso ha prescrito, con el fin de darlos de baja o transferirlos al archivo general o histórico del Estado.
+X. Comité Técnico: Instancia respectiva de cada entidad que tiene como finalidad administrar la documentación al interior de ésta;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+XI. Consejo: Consejo Estatal de Archivos de Nayarit, que será el órgano de coordinación y vinculación del Sistema Estatal de Archivos;
 
-XI. Digitalización de documentos: Procedimiento mediante el cual, se almacenan, administran y consultan documentos de forma electrónica.
+XII. Cuadro General de Clasificación: Instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada dependencia o entes públicos;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+XIII. Destino final: Selección en los archivos de trámite o unidades de concentración, de aquellos expedientes cuyo plazo de conservación o uso ha prescrito, con el fin de darlos de baja o transferirlos al archivo general o histórico del Estado;
 
-XII. Entidad: Los Poderes del Estado, Ayuntamientos, organismos desconcentrados y descentralizados de la administración pública estatal y municipal, organismos autónomos y aquellos que emitan y manejen información pública en términos de lo dispuesto por la legislación en materia de transparencia y acceso a la información pública.
+XIV. Digitalización de documentos: Procedimiento mediante el cual, se almacenan, administran y consultan documentos de forma electrónica;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+XV. Documento de Archivo: Aquel que registra un hecho, acto administrativo, jurídico, fiscal o contable, creado, recibido, manejado y usado en el ejercicio de las facultades y actividades de las entidades;
 
-XIII. Inventario General: Instrumento de consulta que describe las series y expedientes de un archivo y que permiten su localización.
+XVI. Entidad: Los Poderes del Estado, Ayuntamientos, organismos desconcentrados y descentralizados de la administración pública estatal y municipal, organismos autónomos y aquellos que emitan y manejen información pública en términos de lo dispuesto por la legislación en materia de transparencia y acceso a la información pública;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+XVII. Guía Simple de Archivo: Esquema general de descripción de las series documentales de los archivos de un sujeto obligado, que indica sus características fundamentales conforme al cuadro general de clasificación archivística y sus datos generales;
 
-XIV. Sistema: Sistema Estatal de Archivos el cual será el mecanismo institucional de coordinación, vinculación e integración de los Archivos Estatales.
+XVIII. Inventario General: Instrumento de consulta que describe las series y expedientes de un archivo y que permiten su localización;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2014)</small>
+XIX. Sistema: Sistema Estatal de Archivos el cual será el mecanismo institucional de coordinación, vinculación e integración de los Archivos Estatales;
 
-XV. Transferencia: Traslado controlado y sistemático de expedientes de consulta esporádica, de un archivo de trámite a la unidad de concentración.
+XX. Transferencia: Traslado controlado y sistemático de expedientes de consulta esporádica, de un archivo de trámite a la unidad de concentración, y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2014)</small>
+XXI. Vigencia documental: Periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales, contables o históricos, de conformidad con las disposiciones jurídicas vigentes aplicables.
 
-XVI. Vigencia documental: Periodo durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales, contables o históricos, de conformidad con las disposiciones jurídicas vigentes aplicables.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-En la aplicación e interpretación de la presente Ley, se observarán los principios de reserva, confidencialidad, disponibilidad, eficiencia, localización expedita, integridad y conservación.
+En la aplicación e interpretación de la presente Ley, se observarán los principios de reserva, confidencialidad, disponibilidad, eficiencia, localización expedita, integridad, conservación y máxima publicidad.
 
 ###### Artículo 4.
 
@@ -109,6 +111,14 @@ Forman parte del patrimonio del Estado los documentos de cualquier época genera
 
 Todo documento e información recibida y generada por los servidores públicos, en el desempeño de su cargo, forma parte del patrimonio documental del Estado y de los archivos a que se refiere esta Ley. Bajo ningún concepto se considera propiedad de quien lo produjo.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 5 Bis.
+
+Los particulares que cuenten con archivos privados que ostenten un valor histórico serán responsables de la conservación de los mismos y deberán notificar al Archivo General del Estado respecto de la existencia de los documentos con la finalidad de que sean incluidos en el registro del patrimonio documental del Estado.
+
+En caso de que los documentos, de comprobado interés histórico, se encuentren en peligro de pérdida por destrucción o desaparición, el particular responsable podrá otorgarlos en comodato al Archivo General del Estado para que se tomen las medidas necesarias para su protección, restauración o recuperación. Tratándose de robo, el particular responsable de la custodia deberá denunciarlo a las autoridades competentes.
+
 ###### Artículo 6.
 
 Quedan fuera del comercio y, por ende, prohibida su enajenación, bajo cualquier título, los documentos de interés público que obren en los archivos del Estado.
@@ -117,9 +127,13 @@ Quedan fuera del comercio y, por ende, prohibida su enajenación, bajo cualquier
 
 Toda persona tendrá acceso a la información que obre en los archivos de las entidades, salvo que se trate de aquella que tenga el carácter de reservada o confidencial de conformidad a las disposiciones contenidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-Cuando alguna Entidad desapareciere o se fusionare, sus archivos e inventarios documentales serán entregados según sea el caso para su guarda y custodia a la institución fusionante.
+Cuando alguna entidad se fusionare, sus archivos e inventarios documentales serán entregados para su guarda y custodia a la institución fusionante.
+
+En el caso de que la entidad desaparezca y no exista otra que lo sustituya o que esté vinculada con sus atribuciones, se remitirá la documentación al Archivo General del Estado.
 
 ### Capítulo II. Los Archivos
 
@@ -179,6 +193,16 @@ V. Valorar y seleccionar los documentos y expedientes con el objeto de realizar 
 
 Cada entidad deberá contar con espacios físicos determinados para formar sus archivos, procurando que cuenten con las condiciones necesarias que se establezcan en el reglamento o normatividad respectiva.
 
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+Las entidades podrán solicitar al Archivo General del Estado la custodia de los documentos identificados como históricos, cuando las condiciones físicas de su archivo de concentración no garanticen el debido resguardo de los documentos o pongan en riesgo la conservación de los mismos.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+Los Archivos administrativos e históricos de las entidades, además de los requisitos instrumentales establecidos en el artículo 28 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit, deberán de contar con guía simple de archivo, controles de conservación y restauración de documentos, así como de correspondencia de entrada, en trámite o salida y préstamos.
+
 ###### Artículo 14.
 
 El servidor público encargado de recibir la documentación para su archivo, efectuará el registro en el catálogo de disposición documental respectivo, anotando los datos que sean necesarios para su identificación e indicando el destino que deba darse a cada, documento.
@@ -196,6 +220,10 @@ Las entidades que transfieran los documentos a su cargo, al archivo que correspo
 ###### Artículo 17.
 
 Los documentos que según el catálogo de disposición documental, hayan agotado su vida útil administrativa y que no se consideren necesarios para formar parte del archivo histórico, podrán darse de baja conforme a los procedimientos que se establezcan en el Reglamento o Lineamientos del Archivo General correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+No se autorizará la baja documental mientras que un documento de archivo contenga valor testimonial, evidencial o informativo, subsista su valor probatorio o no concluyan los plazos de conservación.
 
 ###### Artículo 18.
 
@@ -217,9 +245,11 @@ VII. Realizar, en su caso, las transferencias al archivo histórico de las entid
 
 VIII. Actualizar periódicamente el catálogo de disposición documental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-Serán facultades y obligaciones de los titulares de los Archivos Generales e Históricos las siguientes:
+Los responsables de los Archivos Generales e Históricos deberán contar con conocimiento y experiencia en la materia y tendrá las facultades y obligaciones siguientes:
 
 I. Recibir, identificar, clasificar, controlar, conservar, resguardar, restaurar y rescatar los documentos;
 
@@ -229,7 +259,9 @@ III. Reglamentar la consulta de los documentos por parte de los servidores públ
 
 IV. Mantener actualizado el catálogo de los documentos, así como su ordenación física para la consulta expedita por parte de los usuarios;
 
-V. Reproducir aquellos documentos que por su importancia o deterioro requieran resguardo especial;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+V. Reproducir aquellos documentos que por su importancia o deterioro requieran resguardo especial; no obstante, se deberá dar prioridad a la conservación de la documentación en su soporte original;
 
 VI. Diseñar, instrumentar, impulsar y promover eventos específicos de capacitación y adiestramiento que propicien el desarrollo de los recursos humanos en las técnicas y estrategias de la actividad archivística;
 
@@ -243,15 +275,23 @@ VIII. Proponer acciones de concertación y de coordinación entre sí, y con los
 
 IX. Generar la digitalización de los documentos con un valor histórico, que facilite su consulta y la conservación de los documentos originales, y
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2015)</small>
 
-X. Las demás inherentes a sus funciones.
+X. Recibir en donación, documentos de archivos privados, pudiendo reservarse el derecho de aceptarlos previa valoración e interés histórico que represente, y
+
+> <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+XI. Las demás inherentes a sus funciones.
 
 ### Capítulo III. Conservación de los Archivos
 
 ###### Artículo 20.
 
 Los documentos que integran el patrimonio del Estado sólo podrán salir del lugar de resguardo con autorización expresa de la autoridad competente, en los términos que establezca la normatividad correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+Bajo ninguna excepción los servidores públicos podrán sustraer documentos de Archivo durante su desempeño ni al concluir su empleo, cargo o comisión.
 
 ###### Artículo 21.
 
@@ -321,7 +361,9 @@ El Sistema para el cumplimiento de sus objetivos tendrá las siguientes atribuci
 
 I. Ser el instrumento mediante el cual se habrá de regular, coordinar, homogeneizar y dinamizar el funcionamiento y el uso de los archivos generales e históricos de las entidades. Asimismo, garantizará el derecho de acceso a los documentos por parte de los ciudadanos;
 
-II. Proveer la adquisición, integración, protección, custodia, conservación, resguardo y difusión de documentos administrativos e históricos;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+II. Proveer la adquisición, integración, protección, custodia, conservación y difusión de documentos administrativos e históricos favoreciendo la investigación y resguardo de la memoria institucional;
 
 III. Procurar la investigación de nuevas técnicas de administración de documentos administrativos e históricos, así como la restauración y preservación de los mismos;
 
@@ -454,3 +496,7 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Para la instrumentación de los mecanismos tecnológicos referidos en la fracción IV del artículo 22, las Entidades deberán prever los recursos necesarios en sus presupuestos de egresos del siguiente ejercicio fiscal.
 
 Tercero.- La digitalización de documentos deberá realizarse dentro del plazo de dos años contados a partir de la instrumentación de los mecanismos tecnológicos referidos por la fracción IV del artículo 22 del presente Decreto.
+
+P.O. 31 DE OCTUBRE DE 2015.
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
