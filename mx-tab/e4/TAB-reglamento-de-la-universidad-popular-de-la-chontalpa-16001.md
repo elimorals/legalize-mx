@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-universidad-popular-de-la-chontalpa-16001"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-22"
-last_updated: "2000-01-22"
+last_updated: "2015-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD POPULAR DE LA CHONTALPA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 22 de enero de 2000.
 
@@ -73,7 +73,9 @@ Para el cumplimiento de su objeto, “La Universidad” tendrá las atribuciones
 
 I. Ofertar Educación Superior en el nivel 5 de la Clasificación Internacional Normalizada de la Educación, “ISCED”, con una duración no menor de 2 años posteriores al bachillerato, conducente a la obtención del título de: Profesional Asociado, y carreras en el nivel 6 del “ISCED” tendientes a la obtención del grado de licenciatura, respecto de las carreras y modalidades educativas que la Comisión Estatal para la Planeación de la Educación Superior “COEPES”, dictamine procedentes, y conforme a los planes y programas de estudios que determine el Gobierno del Estado a través de la Secretaría de Educación, los cuales deberán garantizar una formación profesional y una cultura científica;
 
-II. Realizar como complementario a sus tareas fundamentales de Educación Superior, acciones de capacitación al sector productivo de bienes y servicios, como una forma de estimular la generación de recursos propios;
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+II. Realizar como complemento a sus tareas fundamentales de Educación Superior, acciones de capacitación al sector productivo de bienes y servicios, como una forma de estimular la generación de recursos propios. Asimismo, prestar servicios profesionales y de asesoría técnica, consultoría, elaboración y ejecución de proyectos, que contribuyan a mejorar el desempeño de las empresas y otras organizaciones que integran los Sectores Público, Privado y Social de la región y del Estado principalmente, así como todos aquellos que se relacionen con el objeto de la Universidad;
 
 III. Organizar actividades que permitan a la comunidad el acceso a la cultura en todas sus manifestaciones;
 
@@ -443,7 +445,7 @@ XII. Presentar por escrito al Rector, con copia a la Unidad Institucional de Pla
 
 XIII. Firmar conjuntamente con el Rector, los Títulos, Diplomas y Grados Académicos otorgados por "La Universidad"; y
 
-XIV. Firma certificados de estudio, conjuntamente con la Dirección de Servicios Escolares; rubricar documentos especiales y dar fe de los documentos que acrediten la condición del alumno y su escolaridad parcial o total; y (sic)
+XIV. Firma certificados de estudio, conjuntamente con la Dirección de Servicios Escolares; rubricar documentos especiales y dar fe de los documentos que acrediten la condición del alumno y su escolaridad parcial o total; y
 
 ###### ARTICULO 30.
 
@@ -1148,3 +1150,11 @@ SECRETARIO DE GOBIERNO.
 PROFRA. GRACIELA T. DE COBO.
 
 SECRETARIA DE EDUCACION.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 31 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Acuerdo.
