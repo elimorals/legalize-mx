@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2015-10-13"
+last_updated: "2015-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40123&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de junio de 2004.
 
@@ -2349,7 +2349,13 @@ V.- El Decreto del Bando Solemne entrará en vigor el día de su expedición y s
 
 Cuando se actualice cualquiera de las hipótesis previstas por los artículos 55 y 57, de la Constitución, el Congreso se constituirá en Colegio Electoral para elegir al Gobernador interino, sustituto o provisional, de acuerdo con el siguiente procedimiento:
 
-I.- Tan pronto se reciba la solicitud de renuncia o licencia del Gobernador o se conozca su fallecimiento, ausencia o incapacidad, o que no esté hecha y publicada la elección de Gobernador, la Oficialía Mayor turnará el asunto de inmediato al Presidente del Congreso o de la Comisión Permanente, en su caso, convocándose a una sesión, dentro de las 24 horas siguientes, para los efectos de turnar el asunto a la Comisión de Justicia, Gobernación y Poderes; y a otra sesión, dentro de las 48 horas, a efecto de que dicha comisión presente el dictamen correspondiente;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+I.- Tan pronto se reciba la solicitud de renuncia o licencia del Gobernador o se conozca su fallecimiento, ausencia o incapacidad, la Oficialía Mayor turnará el asunto de inmediato al Presidente del Congreso o de la Comisión Permanente, en su caso, convocándose a una sesión, dentro de las 24 horas siguientes, para los efectos de turnar el asunto a la Comisión de Justicia, Gobernación y Poderes; y a otra sesión, dentro de las 48 horas, a efecto de que dicha comisión presente el dictamen correspondiente
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2015)</small>
+
+Cuando la necesidad de nombrar Gobernador Interino, sea como consecuencia de la nulidad de la elección decretada mediante resolución definitiva por la autoridad electoral jurisdiccional o no esté hecha y publicada la elección de Gobernador, el término para que la Comisión de Justicia, Gobernación y Poderes presente el dictamen en el que propondrá a la Asamblea el nombre de la persona que deberá ocupar el cargo de Gobernador Interino del Estado, se realizará a mas tardar el 31 de octubre del año en que termine el periodo constitucional del ejecutivo en turno.
 
 II.- En la sesión correspondiente, la comisión presentará su dictamen en el que propondrá a la Asamblea el nombre de la persona que deberá ocupar el cargo de Gobernador del Estado, en la modalidad respectiva; y
 
@@ -2820,3 +2826,9 @@ P.O. 13 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor en el momento de su aprobación. Deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Al momento de la aprobación del presente, se deberán nombrar a los integrantes de la Comisión de Gobierno Interno y Acuerdos Parlamentarios, en los términos regulados en la Ley Orgánica del Poder Legislativo y su Reglamento, en atención y en los términos de este Decreto.
+
+P.O. 31 DE OCTUBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 4 POR EL QUE SE REFORMA LA FRACCIÓN I Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA MISMA, DEL ARTÍCULO 204 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor en el momento de su aprobación, mismo que deberá ser publicado en el Periódico Oficial "El Estado de Colima".
