@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2011-04-07"
+last_updated: "2015-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, 28 de Diciembre de 1963.
 
@@ -175,9 +175,11 @@ Es jornada mixta la que comprende períodos de tiempo de las jornadas diurna y n
 
 Por cada seis días de servicio, el empleado disfrutará de un día de descanso con goce de sueldo íntegro.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 21.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a su hijo.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
 ###### ARTICULO 22.
 
@@ -799,7 +801,7 @@ Los miembros de la Junta de Arbitraje tienen el deber de excusarse y pueden ser 
 
 Las excusas y recusaciones serán calificadas por los dos miembros no afectados y para el caso de que se trate de dos o más miembros de la Junta se requerirá al Sindicato o al Estado para que designen suplentes. Si éstos fueren admitidos legalmente, la designación surtirá efectos sólo para la resolución del conflicto en que hayan surgido las incidencias citadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 95.
 
@@ -863,7 +865,7 @@ SUFRAGIO EFECTIVO. NO REELECCION. EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca
 
 Al C...............
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE DICIEMBRE DE 1979.
 
@@ -894,3 +896,7 @@ SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de s
 P.O. 7 DE ABRIL DE 2011.
 
 ÚNICO: El presente Decreto entrara en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
