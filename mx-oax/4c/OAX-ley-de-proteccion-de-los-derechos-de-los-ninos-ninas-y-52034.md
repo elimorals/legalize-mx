@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-los-derechos-de-los-ninos-ninas-y-52034"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2006-09-23"
+last_updated: "2015-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE PROTECCION DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES PARA EL ESTADO DE OAXACA
 
-LEY DE PROTECCION DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES PARA EL ESTADO DE OAXACA
+LEY DE PROTECCIÓN DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 23 de septiembre de 2006.
 
@@ -271,9 +271,11 @@ Para el sano y adecuado desarrollo infantil desde la gestación, el Estado deber
 
 En todo caso el médico debe ser profesionista titulado y al momento de atender el parto deberá informarle el procedimiento, y consultar su opinión acerca de la presencia de personas ajenas como practicantes o estudiantes.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 30.
 
-El Estado impulsará programas de atención materno infantil, el fomento del amamantamiento y el control de crecimiento de niños, niñas y adolescentes.
+El Estado impulsará programas de atención materno infantil, del control de crecimiento de niños, niñas y adolescentes y de fomento de la lactancia materna y amamantamiento, incentivando a que la leche materna sea el alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad.
 
 ###### ARTÍCULO 31.
 
@@ -1336,3 +1338,9 @@ Oaxaca de Juárez, Oax., a 21 de septiembre de 2006
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HELIODORO CARLOS DIAZ ESCARRAGA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
