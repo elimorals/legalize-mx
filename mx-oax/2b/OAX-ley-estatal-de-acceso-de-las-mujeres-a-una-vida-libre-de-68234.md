@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2009-03-23"
+last_updated: "2015-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GENERO DEL ESTADO DE OAXACA
 
-LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GENERO
+LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -195,9 +195,11 @@ El gobierno del Estado y los Ayuntamientos, implementaran las acciones procedent
 
 Violencia en los ámbitos laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o similar con la víctima, independientemente de la relación jerárquica. Consiste en actos u omisiones de abuso de poder que dañan la autoestima, salud, integridad, libertad y seguridad de la víctima, impidiendo su desarrollo y trato igualitario. En esta modalidad queda incluido el hostigamiento sexual cometido en un solo evento o en una serie de eventos que en su conjunto causen daño a la víctima.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 13.
 
-Violencia en el ámbito laboral, es la negativa ilegal de contratación a la víctima o de respetar su permanencia o condiciones generales de trabajo, la descalificación de la actividad realizada, las amenazas, la intimidación, las humillaciones y todo tipo de explotación y de discriminación por razón de género.
+Violencia en el ámbito laboral, es la negativa ilegal de contratación a la víctima o de respetar su permanencia o condiciones generales de trabajo, la descalificación de la actividad realizada, las amenazas, la intimidación, las humillaciones, el impedimento a las mujeres de llevar a cabo el periodo de lactancia previsto en la Ley General de Salud, y todo tipo de explotación y discriminación por razón de género.
 
 ###### Artículo 14.
 
@@ -1350,3 +1352,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 26 de febrero de 2009.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. JORGE TOLEDO LUIS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
