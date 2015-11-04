@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-infraestructura-fisica-educativa-y-deportiva-de-89399"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-14"
-last_updated: "2012-09-14"
+last_updated: "2015-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de septiembre de 2012.
 
@@ -265,9 +265,17 @@ i) Señalar normas y lineamientos a particulares para la ejecución de obras de 
 
 j) Otorgar las facilidades e información que requiera la Secretaría de Obras Públicas como coordinadora de sector.
 
-XXIV. Llevar a cabo los procedimientos de contratación de obra, ya sea por licitación pública, invitación o adjudicación directa, conforme a la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y demás normatividad aplicable vigente; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
 
-XXV. Las demás que para el cumplimiento de su objeto le señale la Ley y las demás disposiciones jurídicas aplicables.
+XXIV. Llevar a cabo los procedimientos de contratación de obra, ya sea por licitación pública, invitación o adjudicación directa, conforme a la Ley de Obras Públicas para el Estado y Municipios de Nuevo León y demás normatividad aplicable vigente;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Garantizar que las instalaciones educativas y deportivas cuenten con infraestructura y equipamiento que satisfagan las condiciones higiénicas que la autoridad educativa y de deporte determinen, las cuales deberán garantizar el acceso al agua potable, en forma segura, gratuita y suficiente en libre demanda; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+XXVI.- Las demás que para el cumplimiento de su objeto le señale la Ley y las demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 19.
 
@@ -544,3 +552,13 @@ JOSÉ ANTONIO GONZÁLEZ TREVIÑO
 EL C. SECRETARIO DE OBRAS PÚBLICAS
 
 LUIS GERARDO MARROQUIN SALAZAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Ejecutivo del Estado, contará con un plazo no mayor de 2 años contados a partir de la publicación del presente Decreto, para realizar lo conducente y garantizar la implementación de este Decreto.
+
+Tercero.- Los particulares que imparten educación básica contarán con un plazo no mayor a 180 días contados a partir de la publicación del presente Decreto, para realizar las mejoras en sus instalaciones e infraestructura que permitan garantizar el cumplimiento del mismo.
