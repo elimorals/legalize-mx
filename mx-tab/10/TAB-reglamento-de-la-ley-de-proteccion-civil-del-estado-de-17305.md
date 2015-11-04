@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-de-la-ley-de-proteccion-civil-del-estado-de-17305"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-05-27"
-last_updated: "2000-05-27"
+last_updated: "2015-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE TABASCO
 
-REGLAMENTO DE LA LEY DE PROTECCION CIVIL DEL ESTADO DE TABASCO
+REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el sábado 27 de mayo de 2000.
 
@@ -637,7 +639,7 @@ Es requisito indispensable para las empresas que presten sus servicios en la ela
 
 I. Acta constitutiva, certificada ante notario público, de la empresa que se pretende registrar;
 
-II. Modelo del programa de protección civil bajo el cual brindarán asesoría y, en su caso, elaborarán programas específicos de protección civil; y (sic)
+II. Modelo del programa de protección civil bajo el cual brindarán asesoría y, en su caso, elaborarán programas específicos de protección civil; y
 
 III. Programa de capacitación en la materia, detallando cada uno de los puntos de su contenido;
 
@@ -964,3 +966,17 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. FLORIZEL MEDINA PEREZNIETO.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al siguiente día de su publicación en el Periódico Oficial.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Protección Civil del Estado de Tabasco publicado en el Periódico Oficial 6023 del 27 de mayo de 2000.
+
+TERCERO. El Instituto emitirá en un plazo de 120 días a partir de la publicación del presente Reglamento, los Lineamientos y el Manual para la reproducción de la imagen institucional del Emblema Distintivo del Sistema Estatal de Protección Civil al que hace referencia el artículo 15 de la Ley de Protección Civil.
+
+CUARTO. Los procedimientos y recursos que se encuentren en trámite se continuarán resolviendo conforme al Reglamento abrogado, salvo en lo que beneficie al particular este nuevo Reglamento.
