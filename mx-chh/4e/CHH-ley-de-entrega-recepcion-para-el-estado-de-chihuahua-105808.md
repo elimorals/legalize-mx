@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-entrega-recepcion-para-el-estado-de-chihuahua-105808"
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-11"
-last_updated: "2015-02-11"
+last_updated: "2015-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 LEY DE ENTREGA-RECEPCIÓN PARA EL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO TRANSITORIO, EL PRESENTE ORDENAMIENTO SURTIRÁ VIGENCIA 60 DÍAS DESPUÉS DE QUE LO HAGA LA REFORMA CONSTITUCIONAL CONTENIDA EN EL DECRETO NO. 1362/2013 XIII P.E.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 4 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de febrero de 2015.
 
@@ -348,3 +348,17 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiséis días del mes de enero del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. RAYMUNDO ROMERO MALDONADO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 968/2015 XI P.E. LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Entrega Recepción para el Estado de Chihuahua, expedida mediante el Decreto No. 1363/2013 XIII P.E., publicada en el Periódico Oficial del Estado, de fecha once de febrero de dos mil quince.
