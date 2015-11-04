@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2014-12-24"
+last_updated: "2015-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -880,17 +880,23 @@ V. De las diligencias de jurisdicción voluntaria que se promuevan en materia fe
 
 VI. De las controversias ordinarias en que la federación fuere parte;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
-VII. De las acciones colectivas a que se refiere el Libro Quinto del Código Federal de Procedimientos Civiles, y
+VII. De las acciones colectivas a que se refiere el Libro Quinto del Código Federal de Procedimientos Civiles;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO VIGÉSIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
-VIII. De los asuntos de la competencia de los juzgados de distrito que no estén enumerados en los artículos 50, 52, 53 bis y 55 de esta ley.
+VIII. De los asuntos de la competencia de los juzgados de distrito en materia de procesos federales que no estén enumerados en los artículos 50, 52 y 55 de esta Ley, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
+
+IX. De los juicios y procedimientos previstos en los términos de la Ley Reglamentaria del Artículo 6o. Constitucional, en materia del Derecho de Réplica.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO VIGÉSIMO QUINTO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -3817,3 +3823,7 @@ D.O.F. 27 DE JUNIO DE 2014.
 D.O.F. 24 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE NOVIEMBRE DE 2015.
+
+Único. El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
