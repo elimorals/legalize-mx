@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2015-10-14"
+last_updated: "2015-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2015.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -1308,9 +1308,9 @@ La atención de los trastornos mentales y del comportamiento deberá brindarse c
 
 Para la promoción de la salud mental y la atención de las personas con trastornos mentales y del comportamiento, la Secretaría de Salud, las instituciones de salud y los gobiernos de las entidades federativas, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
-I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente a grupos en situación de vulnerabilidad.
+I. El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental, preferentemente a grupos en situación de vulnerabilidad.
 
 > <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -1336,13 +1336,15 @@ V Bis. La promoción de programas de atención, que consideren, entre otros, los
 
 VI. La investigación multidisciplinaria en materia de salud mental;
 
-> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
-VII. La participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento, que son atendidas en los establecimientos de la red del Sistema Nacional de Salud, y
+VII. La participación de observadores externos para vigilar el pleno respeto de los derechos humanos de las personas con trastornos mentales y del comportamiento, que son atendidas en los establecimientos de la red del Sistema Nacional de Salud;
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2013)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Las demás acciones que directa o indirectamente contribuyan a la prevención, atención y fomento de la salud mental de la población.
+VIII. La detección de los grupos poblacionales en riesgo de sufrir trastornos mentales y del comportamiento, preferentemente niñas, niños y adolescentes, y
+
+IX. Las demás acciones que directa o indirectamente contribuyan a la prevención, atención y fomento de la salud mental de la población.
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
@@ -8511,6 +8513,10 @@ DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 46 DE LA LEY GENERAL DE SALUD
 D.O.F. 14 DE OCTUBRE DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE NOVIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 502.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS".]
 
