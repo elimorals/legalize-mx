@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-turismo-del-estado-8926
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-18"
-last_updated: "2012-07-18"
+last_updated: "2015-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 18 de julio de 2012.
 
@@ -942,3 +944,25 @@ Artículo Sexto.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley
 Dado en Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; el 18 de mayo de 2012.
 
 Juan Sabines Guerrero, Gobernador del Estado de Chiapas.- Noé Castañón León, Secretario General de Gobierno.- Dora del Carmen Pérez Solís, Secretaria de Turismo.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 1259-A-2015 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO”.]
+
+Artículo Primero.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Turismo, publicado en el Periódico Oficial número 379, Tomo III, de fecha 18 de julio de 2012, Publicación número 3381-A-2012, y las disposiciones que del mismo emanen, y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los órganos administrativos, el Secretario, resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario queda facultado para resolver las incidencias de procedimiento y operación, que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría deberá, establecer, controlar y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes e información, observando las normas necesarias para la operación desarrollo y vigilancia del Programa que establezca la Unidad de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial.
