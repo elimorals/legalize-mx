@@ -4,7 +4,7 @@ identifier: "FED-ley-sobre-delitos-de-imprenta-2565"
 country: "mx"
 rank: "ley"
 publication_date: "1917-04-12"
-last_updated: "2012-04-09"
+last_updated: "2015-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2565&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1917-04-09"
 
 LEY SOBRE DELITOS DE IMPRENTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 12 de abril de 1917.
 
@@ -217,19 +217,11 @@ En ningún caso podrán figurar como directores, editores o responsables de art�
 
 La infracción de esta disposición se castigará administrativamente con multa de veinticinco a cien pesos, siendo responsable de ella el gerente de la imprenta o taller, de litografía, grabado o de cualquiera otra clase en que se hiciere la publicación y el director gerente o propietario del periódico en que se cometiere la infracción, sin perjuicio de la responsabilidad penal que pueda resultar por contravención a las disposiciones de los artículos 1o., 2o. y 3o. de esta ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIOS PRIMERO DE LA LEY Y ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 27.
 
-Los periódicos tendrán la obligación de publicar gratuitamente las rectificaciones o respuestas que las autoridades, empleados o particulares quieran dar a las alusiones que se les hagan en artículos, editoriales, párrafos, reportazgo o entrevistas, siempre que la respuesta se dé dentro de los ocho días siguientes a la publicación que no sea mayor su extensión del triple del párrafo o artículo en que se contenga la alusión que se contesta, tratándose de autoridades, o del doble, tratándose de particulares; que no se usen injurias o expresiones contrarias al decoro del periodista, que no haya ataques a terceras personas y que no se cometa alguna infracción de la presente ley.
-
-Si la rectificación tuviere mayor extensión que la señalada, el periódico tendrá obligación de publicarla íntegra; pero cobrará el exceso al precio que fije en su tarifa de anuncios, cuyo pago se efectuará o asegurará previamente.
-
-La publicación de la respuesta, se hará en el mismo lugar y con la misma clase de letra y demás particularidades con que se hizo la publicación del artículo, párrafo o entrevista a que la rectificación o respuesta se refiere.
-
-La rectificación o respuesta se publicará al día siguiente de aquel en que se reciba, si se tratare de publicación diaria o en el número inmediato, si se tratare de otras publicaciones periódicas.
-
-Si la respuesta o rectificación se recibiere cuando por estar ya arreglado el tiro no pudiere publicarse en los términos indicados, se hará en el número siguiente.
-
-La infracción de esta disposición se castigará con una pena que no baje de un mes ni exceda de once, sin perjuicio de exigir al culpable la publicación correspondiente, aplicando en caso de exigir al culpable la publicación correspondiente, aplicando en caso de desobediencia la pena del artículo 904 del Código Penal del Distrito Federal.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY REGLAMENTARIA DEL ARTÍCULO 6o., PÁRRAFO PRIMERO, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DEL DERECHO DE RÉPLICA, D.O.F. 4 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 28.
 
@@ -324,3 +316,17 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 4 DE NOVIEMBRE DE 2015.
+
+Transitorios de la Ley
+
+Primero.- La presente Ley entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los sujetos obligados deberán designar e informar al público en general, a través de su portal electrónico, los datos del representante aludido en el artículo 7, contenido en el Artículo Primero del Decreto, dentro del plazo señalado en el artículo transitorio anterior.
+
+Tercero.- Se deroga el artículo 27 de la Ley sobre Delitos de Imprenta publicada en el Diario Oficial de la Federación el 12 de abril de 1917, así como todas aquellas disposiciones legales y administrativas que se opongan a la presente Ley.
+
+Transitorio del Decreto
+
+Único. El presente Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
