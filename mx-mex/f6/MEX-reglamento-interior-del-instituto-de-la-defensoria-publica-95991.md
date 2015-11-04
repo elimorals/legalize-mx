@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-la-defensoria-publica-9599
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-19"
-last_updated: "2014-07-29"
+last_updated: "2015-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el día jueves 19 de septiembre de 2013.
 
@@ -91,7 +91,13 @@ IV. Subdirección Técnica.
 
 V. Subdirección de Administración y Finanzas.
 
-VI. Coordinaciones Regionales.
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+VI. Coordinaciones del Sistema Penal Acusatorio y Oral y asuntos en materia penal.
+
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+VII. Coordinaciones de los asuntos civiles, familiares y mercantiles.
 
 El Instituto contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su Manual General de Organización. Asimismo, se auxiliará de los servidores públicos, órganos técnicos y administrativos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizados.
 
@@ -167,13 +173,15 @@ XXV. Otorgar o revocar poderes generales o especiales en favor de terceros o sub
 
 XXVI. Las demás que le confieren otras disposiciones legales y las que le encomiende el Consejera/o Jurídica (sic).
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES REGIONALES, SUBDIRECTORES Y COORDINADORES REGIONALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+### CAPÍTULO IV. DE LAS ATRIBUCIONES GENÉRICAS DE LOS DIRECTORES REGIONALES SUBDIRECTORES Y COORDINADORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 10.
 
-Al frente de cada Dirección Regional, Subdirección y Coordinación Regional habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado al Instituto, cuyas atribuciones genéricas son las siguientes:
+Al frente de cada Dirección Regional, Subdirección y Coordinación habrá un titular, quien se auxiliara de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto autorizado al Instituto, cuyas atribuciones genéricas son las siguientes:
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
 
@@ -211,7 +219,9 @@ XVII. Cumplir y hacer cumplir en el ámbito de su competencia, con las disposici
 
 XVIII. Las demás que les señalen otros ordenamientos legales y las que les encomiende el Director General.
 
-### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES REGIONALES, SUBDIRECCIONES Y COORDINACIONES REGIONALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO V. DE LAS ATRIBUCIONES DE LAS DIRECCIONES REGIONALES, SUBDIRECCIONES Y COORDINACIONES
 
 > <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
@@ -221,7 +231,9 @@ Corresponde a los directores regionales, en su respectiva circunscripción terri
 
 I. Establecer y practicar visitas de supervisión ordinarias, extraordinarias, electrónicas y documentales e informar al Director General el resultado de las mismas.
 
-II. Vigilar que los Coordinadores Regionales, los Defensores, peritos, trabajadores sociales y demás servidores públicos de la región correspondiente, se conduzcan en el desempeño de sus funciones, con absoluto apego a las disposiciones jurídicas aplicables y a los lineamientos institucionales.
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+II. Vigilar que los coordinadores, los defensores, peritos, trabajadores sociales y demás servidores públicos de la región correspondiente, se conduzcan en el desempeño de sus funciones, con absoluto apego a las disposiciones jurídicas aplicables y a los lineamientos institucionales.
 
 III. Evaluar el desempeño de los servidores públicos a su cargo.
 
@@ -237,19 +249,29 @@ VIII. Designar defensores públicos sustitutos o suplentes, en los casos de impe
 
 IX. Recibir las solicitudes de elaboración de amparos para su valoración y, en su caso, remitirla al área respectiva.
 
-X. Las demás que establecen otras disposiciones legales y las que les encomiende el Director General.
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+X. Vigilar y coordinar la prestación obligatoria y gratuita de defensa en el Sistema Penal Acusatorio y Oral y asuntos en materia penal, brindada por los defensores.
+
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+XI. Vigilar y coordinar la prestación gratuita del patrocinio legal de los asuntos en materia civil, familiar y mercantil.
+
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+XII. Las demás que les confieran otras disposiciones legales y aquellas que les encomiende el Director General.
+
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 12.
 
-Para el cumplimiento de sus atribuciones, el Instituto contará con Coordinaciones Regionales, las cuales estarán adscritas directamente a las Direcciones Regionales, de acuerdo con la estructura de organización autorizada.
+Para el cumplimiento de sus atribuciones, el Instituto contará con Coordinaciones, las cuales estarán adscritas directamente a las direcciones regionales, de acuerdo con la estructura de organización autorizada.
 
-> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
-Corresponde a las Coordinaciones Regionales, en su respectiva circunscripción territorial:
+Corresponde a las coordinaciones, en su respectiva circunscripción territorial:
 
 I. Cumplir, en el ámbito de su competencia, los programas y proyectos del Instituto y aquellos que les encomiende el Director Regional respectivo.
 
@@ -269,7 +291,9 @@ VIII. Practicar visitas de supervisión ordinarias, extraordinarias, electrónic
 
 IX. Dictar medidas preventivas y correctivas con relación a la problemática, irregularidades o deficiencias, detectadas durante las visitas que se practiquen y establecer el sistema de registro y seguimiento de su cumplimiento.
 
-X. Establecer y fortalecer canales de comunicación con los demás Coordinadores Regionales y personal del Instituto, inclusive con instituciones y dependencias federales, estatales y municipales, a fin de conocer y dar respuesta adecuada sobre cualquier irregularidad, incidencia, problemática o deficiencia que se presente en la prestación del servicio que brinda la unidad administrativa a su cargo.
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+X. Establecer y fortalecer canales de comunicación con los demás coordinadores y personal del Instituto, inclusive con instituciones y dependencias federales, estatales y municipales, a fin de conocer y dar respuesta adecuada sobre cualquier irregularidad, incidencia, problemática o deficiencia que se presente en la prestación del servicio que brinda la unidad administrativa a su cargo.
 
 XI. Evaluar el desempeño de los Defensores y servidores públicos adscritos a la unidad administrativa a su cargo.
 
@@ -291,7 +315,9 @@ II. Coordinar las actividades en materia de servicios periciales, informática, 
 
 III. Vigilar que los Peritos, trabajadores sociales y demás servidores públicos a su cargo, se conduzcan en el desempeño de sus funciones, con absoluto apego a las disposiciones jurídicas aplicables y a los lineamientos institucionales.
 
-IV. Establecer y fortalecer canales de comunicación con los Directores Regionales, Coordinadores Regionales y demás personal del Instituto, a fin de conocer y dar respuesta adecuada sobre cualquier problemática, irregularidad, incidencia o deficiencia que se presente en la prestación del servicio que brinda el Instituto.
+> <small>(REFORMADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+IV. Establecer y fortalecer canales de comunicación con los directores regionales, coordinadores y demás personal del Instituto, a fin de conocer y dar respuesta adecuada sobre cualquier problemática, irregularidad, incidencia o deficiencia que se presente en la prestación del servicio que brinda el Instituto.
 
 V. Conocer las incidencias o quejas presentadas por los usuarios contra los peritos, trabajadores sociales, así como de los servidores públicos a su cargo y en su caso, aplicar las medidas correctivas procedentes.
 
@@ -314,6 +340,10 @@ XIII. Atender programas especiales o temporales que deriven de las reformas jur�
 XIV. Expedir constancias o copias de los documentos que obren en los archivos de la unidad administrativa a su cargo, cuando se refieran a asuntos de su competencia.
 
 XV. Evaluar el desempeño de los Servidores Públicos adscritos a la unidad administrativa a su cargo.
+
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
 > <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
 
@@ -352,6 +382,10 @@ XIV. Promover la capacitación, actualización y especialización de los Defenso
 XV. Promover la integración, actualización y aplicación de los reglamentos y manuales administrativos del Instituto.
 
 XVI. Coordinar las acciones de protección civil del Instituto, con base en las normas y políticas aplicables.
+
+> <small>(ADICIONADA, G.G. 4 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Director General.
 
 ### CAPÍTULO VI. CONSEJO TÉCNICO
 
@@ -413,17 +447,17 @@ El Director General se suplirá en sus ausencias temporales hasta por 15 días h
 
 En ausencia definitiva del Director General será el Consejero/a Jurídica quien nombre al servidor público que ocupe provisionalmente el cargo, hasta en tanto se designe al nuevo titular del Instituto.
 
-> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-Los Directores Regionales se suplirán en sus ausencias temporales hasta por 15 días hábiles, por el Coordinador Regional que aquél designe. En las mayores de 15 días hábiles, por quien designe el Director General.
+Los directores regionales serán suplidos en sus ausencias temporales hasta por quince días hábiles, por el coordinador que ellos designen. En las mayores de quince días hábiles, por quien designe el Director General.
 
-> <small>(F. DE E., G.G. 16 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 4 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-Los Subdirectores, Coordinadores Regionales y los Jefes de Departamento se suplirán en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe el Director General.
+Los subdirectores, coordinadores y los jefes de departamento se suplirán en sus ausencias temporales hasta por quince días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de quince días hábiles, por quien designe el Director General.
 
 ## TRANSITORIOS
 
@@ -462,3 +496,13 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo establecido por el presente Acuerdo.
+
+G.G. 4 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
