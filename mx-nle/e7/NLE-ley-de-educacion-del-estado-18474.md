@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2014-05-01"
+last_updated: "2015-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -477,13 +477,23 @@ XIV.- Participar en la integración y operación de un sistema nacional de educa
 
 XV.- Participar con la Secretaría de Educación Pública en la operación de los mecanismos de administración escolar;
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVI.- Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2014)</small>
+XVI.- Promover la congruencia de los planes, programas y acciones que emprenda con las directrices que, con base en los resultados de la evaluación, emita el Instituto Nacional para la Evaluación de la Educación;
 
-XVII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+XVII.- Disponer que en los planteles de educación básica el número de alumnos en cada grupo de clase no exceda de 30, con excepción de los grupos de educación especial; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+XVIII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 22.
 
@@ -695,6 +705,14 @@ La planeación del desarrollo del sistema estatal de educación se orientará a 
 
 La autoridad educativa estatal coordinará la elaboración y operación de un Programa Estatal de Educación de acuerdo a las disposiciones federales vigentes que tome en cuenta todos los tipos, niveles y modalidades educativos. Considerará la legislación educativa vigente, los aspectos cuantitativos como los cualitativos de las actividades educativas presentes y futuras.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 31 Bis.
+
+El Programa Estatal de Educación, establecerá que en las escuelas oficiales de nivel básico, los grupos de clase no podrán exceder de 30 alumnos. Esta disposición no será aplicable a los grupos de educación especial.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
 ###### Artículo 32.
@@ -766,6 +784,10 @@ En el evento de que tales recursos se utilicen para fines distintos, se estará 
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
 La autoridad educativa estatal deberá incluir en el proyecto de presupuesto que remita a la Secretaría de Finanzas y Tesorería General del Estado, para que posteriormente se someta a la aprobación del Congreso del Estado, los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en el artículo 22 fracción XVIII de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2015)</small>
+
+En lo que se refiere a la Universidad Autónoma de Nuevo León y a las Universidades Tecnológicas del Estado, en su solicitud de proyecto de presupuesto deberá tener al menos una ampliación igual al porcentaje de incremento de la matrícula que tenga la institución en el año en curso.
 
 ###### Artículo 37.
 
@@ -845,7 +867,7 @@ Los programas de Salud integral que se mencionan en el párrafo que antecede, de
 
 I.- Inculcar en el colectivo escolar, una mejor cultura de la salud basada en la acción comunitaria, con una visión amplia de causas y riesgos mediante análisis y acción comprometida para el control adecuado de enfermedades y prevención de las mismas.
 
-II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud Integral de alta calidad y cobertura estatal.
+II.- Integración de alianzas estratégicas entre los sectores público y privado para lograr una educación y salud integral de alta calidad y cobertura estatal.
 
 III.- Establecer en las escuelas entornos saludables y seguros que garanticen la calidad en la salud.
 
@@ -1974,3 +1996,17 @@ Décimo Cuarto.- (DEROGADO, P.O. 1 DE MAYO DE 2014)
 P.O. 1 DE MAYO DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 010, POR EL QUE SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO, POR MODIFICACIÓN DE LA FRACCIÓN XVI, XVII Y XVIII AL ARTÍCULO 21; Y POR ADICIÓN DEL ARTÍCULO 31 BIS.
+
+Primero.- El presente Decreto entrará en vigor a partir del 15 de agosto del 2016, previo al inicio Ciclo Escolar 2016-2017.
+
+Segundo.- El Titular del Ejecutivo Estatal de manera gradual desde la entrada en vigor del presente Decreto hasta el año 2020, deberá prever en su Presupuesto de Egresos del Estado, las partidas presupuestales necesarias, para dar cumplimiento a lo dispuesto en el mismo, a fin de que en el Ciclo Escolar 2020-2021, estén cubiertas todas las necesidades de infraestructura escolar.
+
+P.O. 4 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 012, POR EL QUE SE ADICIONA UN PÁRRAFO SEXTO AL ARTICULO 36, DE LA LEY DE EDUCACIÓN DEL ESTADO.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
