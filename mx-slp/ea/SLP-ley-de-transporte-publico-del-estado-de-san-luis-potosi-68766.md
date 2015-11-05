@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2015-07-23"
+last_updated: "2015-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1713,11 +1713,11 @@ El uso de torniquetes o pasarelas queda restringido única y exclusivamente al c
 
 En los vehículos destinados al servicio de transporte público y los servicios auxiliares del mismo, podrá exhibirse publicidad y propaganda, cuyas características, en cuanto a sus dimensiones y forma, serán autorizados expresamente por la Secretaría, de conformidad con los respectivos ordenamientos vigentes en la materia.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 101.
 
-No se autorizará en los vehículos destinados al servicio de transporte público, y en los servicios auxiliares del mismo, ningún tipo de publicidad o propaganda relacionada con partidos políticos, o candidatos en procesos electorales.
-
-También queda prohibido todo tipo de publicidad, o promoción de productos y sustancias que causen adicciones, o de los establecimientos donde se expendan las mismas para su consumo inmediato.
+Queda prohibido en los vehículos destinados al servicio de transporte público, y en los servicios auxiliares del mismo, todo tipo de publicidad, o promoción de productos y sustancias que causen adicciones, o de los establecimientos donde se expendan las mismas para su consumo inmediato.
 
 ###### ARTICULO 102.
 
@@ -2462,5 +2462,11 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 23 DE JULIO DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
