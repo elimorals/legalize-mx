@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2014-12-18"
+last_updated: "2015-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -41,13 +41,21 @@ CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 1°.
+
+El presente Código se expide con el objeto de definir las normas que permitan dictar las medidas necesarias para ordenar los asentamientos humanos en el Estado de Jalisco y establecer adecuadas provisiones, usos, destinos, y reservas de tierras para el ordenamiento territorial, a efecto de ejecutar obras públicas, de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población, y de salvaguardar el Patrimonio Cultural del Estado, conforme a los fines señalados en el párrafo tercero del artículo 27 y las fracciones V y VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 1º.
 
 El presente código se expide con el objeto de definir las normas que permitan dictar las medidas necesarias para ordenar los asentamientos humanos en el Estado de Jalisco y establecer adecuadas provisiones, usos, reservas y el ordenamiento territorial, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población, conforme a los fines señalados en el párrafo tercero del artículo 27 y las fracciones V y VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-###### Artículo 2º.
+###### Artículo 2°.
 
-Toda acción en áreas y predios que genere la transformación de suelo rural a urbano; las subdivisiones, el desarrollo de conjuntos urbanos y habitacionales, así como los fraccionamientos de terrenos para el asentamiento humano; los cambios en la utilización de éstos; así como todas las acciones de urbanización y edificación que se realicen en la Entidad, quedan sujetas a cumplir las disposiciones del presente código.
+Toda acción que genera la transformación de suelo rural a urbano, las subdivisiones, el desarrollo de condominios y conjuntos habitacionales, los fraccionamientos de terrenos para el asentamiento humano, los cambios en la utilización de éstos; así como las acciones de urbanización y edificación que se realicen en la entidad, quedan sujetas a cumplir las disposiciones del presente Código.
 
 ###### Artículo 3º.
 
@@ -55,11 +63,15 @@ Las disposiciones de este código se aplicarán para el Estado de Jalisco, son d
 
 I. Establecer las normas que regulen la concurrencia del Estado y los municipios, al participar en el ordenamiento y regulación del asentamiento humano;
 
-II. Fijar las normas para ordenar mediante la planeación el asentamiento humano, a efecto de realizar la fundación, conservación, mejoramiento y crecimiento de los centros de población en la entidad, en condiciones que promuevan su desarrollo sustentable;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Fijar las normas para ordenar, mediante la planeación, el asentamiento humano, a efecto de realizar la fundación, conservación, mejoramiento y crecimiento de los centros de población en la entidad, en condiciones que promuevan su desarrollo sustentable;
 
 III. Definir los principios para determinar las provisiones, reservas, usos y destinos de áreas y predios que regulen la propiedad en las áreas que integran y delimitan los centros de población;
 
-IV. Precisar en sus normas los derechos y obligaciones de los habitantes del Estado al desarrollar acciones de aprovechamiento de predios y fincas, para hacer efectivos los derechos a la vivienda;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Precisar los derechos y obligaciones de los habitantes del Estado, al desarrollar acciones de aprovechamiento de predios y fincas, para hacer efectivos los derechos a la vivienda digna, accesible e incluyente;
 
 V. Establecer las bases jurídicas para que el Gobierno del Estado y los Ayuntamientos, definan la regionalización del territorio y aseguren la congruencia de los planes o programas de desarrollo urbano, con los planes de desarrollo regional;
 
@@ -77,7 +89,9 @@ XI. Definir los medios para reconocer, promover y organizar la participación de
 
 XII. Establecer el interés social y la utilidad pública para los casos en donde proceda la expropiación de bienes de propiedad privada o social, a fin de dar cumplimiento a las disposiciones de este Código y los programas y planes de desarrollo urbano;
 
-XIII. Establecer las bases para expedir y ejecutar los programas de regularización de la tenencia de la tierra urbana, con fundamento en la fracción V inciso e) del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Desincentivar la tenencia irregular de la tierra, y en su caso, fijar las bases para los casos en que sea procedente expedir y ejecutar programas de regularización de la tenencia de la tierra urbana, con fundamento en la fracción V inciso e) del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
 
 XIV. Establecer los sistemas de control para el correcto ejercicio de las atribuciones conferidas a los Ayuntamientos, fijando la responsabilidad en que los mismos o sus servidores públicos puedan incurrir;
 
@@ -115,177 +129,179 @@ IX. La participación social en la solución de los problemas que genera la conv
 
 X. El desarrollo y adecuación en los centros de población de la infraestructura, el equipamiento y los servicios urbanos que optimicen la seguridad, libre tránsito y accesibilidad que requieren las personas con discapacidad.
 
-###### Artículo 5º.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 5°.
 
 Para los efectos de éste Código, se entiende por:
 
-I. Acción urbanística: La urbanización del suelo; los cambios de uso, las fusiones, subdivisiones y fraccionamientos de áreas y predios para el asentamiento humano; el desarrollo de conjuntos urbanos o habitacionales; la rehabilitación de fincas y zonas urbanas; así como la introducción, conservación o mejoramiento de las redes públicas de infraestructura y la edificación del equipamiento urbano;
+I. Accesibilidad: Características de condición, acceso y carencia de barreras, que deben cumplir las acciones urbanísticas, el equipamiento y la vivienda, para que las personas vivan en forma independiente y participar plenamente en las actividades de su entorno;
 
-II. Acción urbanística mayor: La urbanización del suelo; fraccionamientos de áreas y predios para el asentamiento humano; el desarrollo de conjuntos urbanos o habitacionales; la rehabilitación de zonas urbanas; así como la introducción, conservación o mejoramiento de las redes públicas de infraestructura y la edificación del equipamiento urbano;
+II. Acción urbanística: Urbanización del suelo, los cambios de uso, las fusiones, subdivisiones y fraccionamientos de áreas y predios para el asentamiento humano; el desarrollo de condominios o conjuntos habitacionales; la rehabilitación de fincas y zonas urbanas; así como la introducción, conservación o mejoramiento de las redes públicas de infraestructura y la edificación del equipamiento urbano;
 
-III. Acción urbanística menor: Los cambios de uso, las fusiones y subdivisiones de áreas y predios para el asentamiento humano; la rehabilitación de fincas;
+III. Alineamiento de la edificación: Delimitación sobre un lote o predio en el frente a la vía pública, que define la posición permisible del inicio de la superficie edificable;
 
-IV. Alineamiento de la edificación: La delimitación sobre un lote o predio en el frente a la vía pública, que define la posición permisible del inicio de la superficie edificable;
+IV. Anuncio: Todo medio de información, comunicación o publicidad que indique, señale, exprese, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de productos y bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, cívicas, políticas, culturales e industriales o comerciales;
 
-V. Anuncio: todo medio de información, comunicación o publicidad que indique, señale, exprese, muestre o difunda al público cualquier mensaje relacionado con la producción y venta de productos y bienes, con la prestación de servicios y con el ejercicio lícito de actividades profesionales, cívicas, políticas, culturales e industriales o comerciales;
+V. Auditoría de seguridad vial: Conjunto de estudios estadísticos, físicos y humanos, relativos a las variables que inciden en el incremento de accidentes y la seguridad en las vías públicas. Con la finalidad de contar con dalos suficientes para la toma adecuada de decisiones y proyectos adecuados de las mismas;
 
-VI. Auditoría de seguridad vial: es el conjunto de estudios estadísticos, físicos y humanos, relativos a las variables que inciden en el incremento de accidentes y la seguridad en las vías públicas. Con la finalidad contar con datos suficientes para la toma adecuada de decisiones y proyectos adecuados de las mismas.
+VI. Aprovechamiento de la infraestructura básica existente: Contribución que los urbanizadores deben pagar a la Hacienda Municipal, por concepto de las obras de infraestructura necesarias para la utilización de sus predios, que se hayan realizado sin su participación y les generen un beneficio directo;
 
-VII. Aprovechamiento de la infraestructura básica existente: La contribución que los urbanizadores deben pagar a la Hacienda Municipal, por concepto de las obras de infraestructura necesarias para la utilización de sus predios, que se hayan realizado sin su participación y les generen un beneficio directo;
+VII. Área: Porción de territorio que comparte los mismos grados de ordenamiento y gestión pública, a efecto de planear y regular las acciones de conservación, mejoramiento y crecimiento en la misma; se tipifica, clasifica y delimita en función de las características del medio físico natural y transformado que le afectan;
 
-VIII. Área: La porción de territorio que comparte los mismos grados de ordenamiento y gestión pública, a efecto de planear y regular las acciones de conservación, mejoramiento y crecimiento en la misma; se tipifica, clasifica y delimita en función de las características del medio físico natural y transformado que le afectan;
+VIII. Área Metropolitana: Centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes, declarada por el Congreso del Estado con ese carácter de conformidad con los criterios que para tal efecto establezca la ley en la materia de coordinación metropolitana;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+IX. Áreas de beneficio o afectación: Las generadas por las acciones de conservación, mejoramiento y crecimiento; su determinación y delimitación tiene por efectos demarcar los predios o fincas a cuyos titulares corresponderán los derechos y las obligaciones específicas por la ejecución de esas acciones, las cuales se establecen con el fin de distribuir en forma equitativa, proporcional y justa sus costos, servicios o provechos;
 
-IX. Área Metropolitana: Centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes; que por su crecimiento urbano, continuidad física y relaciones socioeconómicas es declarado oficialmente con ese carácter por decreto del Congreso del Estado;
+X. Áreas de cesión para destino: Las que se determinan en los planes y programas de desarrollo urbano y en los proyectos definitivos de urbanización para proveer los fines públicos que requiera la comunidad, de conformidad con al presente Código;
 
-X. Áreas de beneficio o afectación: Las generadas por las acciones de conservación, mejoramiento y crecimiento; su determinación y delimitación tiene por efectos demarcar los predios o fincas a cuyos titulares corresponderán los derechos y las obligaciones específicas por la ejecución de esas acciones, las cuales se establecen con el fin de distribuir en forma equitativa, proporcional y justa sus costos, servicios o provechos;
+XI. Áreas de gestión urbana integral: Las que se identifiquen y determinen en los planes y programas de desarrollo urbano, por sus características naturales o histórico-patrimoniales, su problemática urbanística o por constituir espacios estratégicos para al desarrollo urbano de la población, por lo cual se hace necesaria su promoción coordinada y para tal efecto, se requiera de una gestión urbana integral. Estas áreas se desarrollarán mediante una asociación, organismo o entidad, en cuya constitución podrán participar personas físicas o jurídicas, públicas o privadas;
 
-XI. Áreas de cesión para destino: Las que se determinan en los planes y programas de desarrollo urbano y en los proyectos definitivos de urbanización para proveer los fines públicos que requiera la comunidad;
+XII. Áreas de restricción: Áreas que por sus características específicas están sujetas a restricciones en su utilización y condicionadas a usos y giros diferentes a las áreas que la circundan;
 
-XII. Áreas de gestión urbana integral: Las que se identifiquen y determinen en los planes y programas de desarrollo urbano, por sus características naturales o históricoñpatrimoniales (sic), su problemática urbanística o por constituir espacios estratégicos para el desarrollo urbano de la población, por lo cual se hace necesaria su promoción coordinada y para tal efecto, se requiera de una gestión urbana integral. Estas áreas se desarrollarán mediante una asociación, organismo o entidad, en cuya constitución podrán participar personas físicas o jurídicas, públicas o privadas;
+XIII. Áreas y predios de conservación ecológica: Las tierras, aguas y bosques que por sus características de valor científico, ambiental o paisajístico deben ser conservadas, de conformidad con la legislación aplicable;
 
-XIII. Áreas de restricción: Son las áreas que por razones de seguridad o requerimiento de infraestructura y servicios está condicionada a usos y giros diferentes a las áreas que la circundan;
+XIV. Asentamiento humano: Radicación de un grupo de personas, con el conjunto de sus sistemas de convivencia en un área localizada, considerando en la misma los elementos naturales y las obras materiales que la integran;
 
-XIV. Áreas y predios de conservación ecológica: Las tierras, aguas y bosques que por sus características de valor científico, ambiental o paisajístico deben ser conservadas;
+XV. Autorización: Acto regulativo mediante el cual se aprueba un plan, programa, proyecto o estudio, para su aplicación o a fin de ejecutar las obras o realizar las acciones urbanísticas objeto del presente ordenamiento;
 
-XV. Áreas y predios rústicos: Las tierras, aguas y bosques que son susceptibles de explotación racional agropecuaria, piscícola, minera o forestal; así como los predios comprendidos en las áreas de reservas de un centro de población, donde no se hayan realizado obras de urbanización;
+XVI. Calidad de vida urbana: Bienestar individual y social generado a partir de la implementación de políticas públicas eficaces de desarrollo urbano;
 
-XVI. Asentamiento humano: La radicación de un grupo de personas, con el conjunto de sus sistemas de convivencia en un área localizada, considerando en la misma los elementos naturales y las obras materiales que la integran;
+XVII. Centro de población: Áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
 
-XVII. Autorización: El acto regulativo mediante el cual se aprueba un plan, programa, proyecto o estudio, para su aplicación o a fin de ejecutar las obras o realizar las acciones urbanísticas objeto del presente ordenamiento;
+XVIII. Ciclopuerto: Mobiliario y espacio físico destinado para el estacionamiento de vehículos no motorizados de propulsión humana;
 
-XVIII. Centro de población: las áreas constituidas por las zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites de dichos centros; así como las que por resolución de la autoridad competente se provean para la fundación de los mismos;
+XIX. Ciclovía: Todo espacio físico destinado al tránsito de vehículos no motorizados de propulsión humana;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
+XX. Código: Código Urbano para el Estado de Jalisco;
 
-XVIII-Bis. Ciclovía: Todo espacio físico destinado al tránsito de vehículos no motorizados de propulsión humana;
+XXI. Coeficiente de Ocupación del Suelo (COS): Factor que multiplicado por el área total de un lote o predio, determina la máxima superficie de desplante edificable del mismo; excluyendo de su cuantificación, las áreas ocupadas por sótanos;
 
-XIX. Código: El Código Urbano para el Estado de Jalisco;
+XXII. Coeficiente de Utilización del Suelo (CUS): Factor que multiplicado por el área total de un lote o predio, determina la máxima superficie construida que puede tener una edificación, en un lote determinado; excluyendo de su cuantificación las áreas ocupadas por sótanos;
 
-XX. Coeficiente de Ocupación del Suelo (COS): El factor que multiplicado por el área total de un lote o predio, determina la máxima superficie de desplante edificable del mismo; excluyendo de su cuantificación, las áreas ocupadas por sótanos;
+XXIII. Comisión Municipal de Directores Responsables: Comisión responsable de acreditar el registro de directores responsables de proyectos y obras en sus diferentes especialidades, integrada por funcionarios municipales y representantes de los colegios de arquitectos, ingenieros civiles, así como de profesiones afines;
 
-XXI. Coeficiente de Utilización del Suelo (CUS): El factor que multiplicado por el área total de un lote o predio, determina la máxima superficie construida que puede tener una edificación, en un lote determinado; excluyendo de su cuantificación las áreas ocupadas por sótanos;
+XXIV. Condominio: Régimen jurídico de propiedad determinado por la legislación civil;
 
-XXII. Comisión Municipal de Directores Responsables: Comisión responsable de acreditar el registro de directores responsables de proyectos y obras en sus diferentes especialidades, integrada por funcionarios municipales y representantes de los colegios de arquitectos e ingenieros civiles;
+XXV. Condominio de interés social: Aquellos condominios construidos a través de fondos especiales de vivienda, operados y ejecutados por organismos de la administración pública municipal, estatal o federal;
 
-XXIII. Consulta pública: El mecanismo mediante el cual se solicita de la ciudadanía, instituciones y dependencias, sus opiniones y propuestas, sobre todos o algunos de los elementos de los planes y programas de desarrollo urbano en los procedimientos de aprobación, revisión y actualización correspondientes;
+XXVI. Conjunto habitacional: Modalidad de aprovechamiento inmobiliario consistente en varias obras de edificación en un área determinada con vías públicas en su interior;
 
-XXIV. Conjunto Urbano: es la modalidad de aprovechamiento inmobiliario consistente en una o varias construcciones en un terreno sin vías públicas en su interior, que deberán estar sujetos al régimen de propiedad en condominio;
+XXVII. Consulta pública: Mecanismo mediante el cual se solicita de la ciudadanía, instituciones y dependencias, sus opiniones y propuestas, sobre todos o algunos de los elementos de los planes y programas de desarrollo urbano en los procedimientos de aprobación, revisión y actualización correspondientes;
 
-XXV. Conurbación: Continuidad física y demográfica que formen o tiendan a formar dos o mas centros de población, inicialmente independientes y contiguos por sus márgenes, que al crecer acaban formando una misma unidad poblacional funcional;
+XXVIII. Consejo Estatal de Peritos en Supervisión Municipal: Organismo auxiliar del Estado, responsable del registro y acreditación de los Peritos en Supervisión Municipal, integrado por funcionarios municipales y representantes de los colegios de arquitectos e ingenieros civiles, así como de profesiones afines;
 
-XXVI. Conservación: Conjunto de acciones tendientes a mantener el equilibrio productivo de los ecosistemas y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales;
+XXIX. Conurbación: Continuidad física y demográfica que formen o tiendan a formar dos o más centros de población, inicialmente independientes y contiguos por sus márgenes, que al crecer forman una misma unidad poblacional funcional;
 
-XXVII. Corredor urbano: Optimización de la utilización del suelo, asociando la infraestructura y jerarquía de una vialidad con la intensidad del uso del suelo;
+XXX. Conservación: Conjunto de acciones tendientes a mantener el equilibrio productivo de los ecosistemas y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales;
 
-XXVIII. Crecimiento: la acción tendiente a ordenar y regular la expansión física de los centros de población;
+XXXI. Corredor Urbano: Franjas concentradoras y conectoras de servicios para la optimización del suelo, asociadas a la infraestructura y jerarquía de una vialidad con la intensidad del uso;
 
-XXIX. Dependencia municipal: La dependencia o dependencias técnicas y administrativas que señale el ayuntamiento, competentes para elaborar, evaluar y revisar los planes y programas de desarrollo urbano municipales, autorizar, acordar, expedir y certificar los actos administrativos en materia de urbanización y edificación, así como realizar las notificaciones, verificaciones, inspecciones y cualquier acto procedimental y ejecutivo en dicha materia;
+XXXII. Crecimiento: Acción tendiente a ordenar y regular la expansión física de los centros de población;
 
-XXX. Dependencias: Las secretarías, dependencias y organismos integrantes de la Administración Pública Estatal y Federal;
+XXXIII. Dependencia Municipal: Dependencia o dependencias técnicas y administrativas que señale el ayuntamiento, competentes para elaborar, evaluar y revisar los planes y programas de desarrollo urbano municipales, autorizar, acordar, expedir y certificar los actos administrativos en materia de urbanización y edificación, así como realizar las notificaciones, verificaciones, inspecciones y cualquier acto procedimental y ejecutivo en dicha materia;
 
-XXXI. Desarrollo urbano: El proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
+XXXIV. Dependencias: Secretarías, dependencias y organismos integrantes de la Administración Pública Estatal y Federal;
 
-XXXII. Desarrollo Urbano Sustentable: Política pública que implica elaborar indicadores de sustentabilidad para el ecosistema urbano, a partir del ordenamiento ecológico territorial; con énfasis en la fisonomía cultural de la población y el potencial social de cada región, desarrollando programas de convención ambiental urbana, crecimiento ordenado y fundación de centros de población o asentamientos humanos;
+XXXV. Desarrollo urbano: Proceso de planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
-XXXIII. Determinación de usos, destinos y reservas: Son los actos de derecho público que corresponde autorizar a los ayuntamientos, conforme a lo dispuesto en los planes y programas de desarrollo urbano, a fin de establecer zonas, clasificar las áreas y predios de un centro de población y precisar los usos permitidos, prohibidos y condicionados, así como sus normas de utilización, a las cuales se sujetarán el aprovechamiento público, privado y social de los mismos;
+XXXVI. Desarrollo urbano sustentable: Política pública de planeación de los asentamientos humanos, basada en indicadores de sustentabilidad para el ecosistema urbano, a partir del ordenamiento ecológico territorial; con énfasis en la fisonomía cultural de la población y el potencial social de cada región, desarrollando programas de convención ambiental urbana, crecimiento ordenado y fundación de centros de población o asentamientos humanos, con el objetivo de mejorar la calidad de vida de los habitantes;
 
-XXXIV. Directores Responsables: Son los profesionales facultados por la ley, con la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, construir y supervisar las obras de edificación y urbanización, avalando que estas cumplan con lo establecido por este Código y reglamentos en materia de la planeación, diseño urbano, ingeniería urbana o edificación, según sea su especialidad;
+XXXVII. Determinación de usos, destinos y reservas: Actos de derecho público que corresponde autorizar a los ayuntamientos, conforme a lo dispuesto en los planes y programas de desarrollo urbano, a fin de establecer zonas, clasificar las áreas y predios de un centro de población y precisar los usos permitidos, prohibidos y condicionados, así como sus normas de utilización, a las cuales se sujetarán al aprovechamiento público, privado y social de los mismos, los cuales no podrán ser modificados por resolución judicial estatal dentro de los seis años siguientes de vigencia;
 
-XXXV. Equipamiento urbano: El conjunto de inmuebles, construcciones, instalaciones y mobiliario, utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
+XXXVIII. Directores responsables: Profesionales facultados por la ley, con la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, construir y supervisar las obras de edificación y urbanización, avalando que estas cumplan con lo establecido por este Código y reglamentos en materia de la planeación, diseño urbano, ingeniería urbana o edificación, según sea su especialidad;
 
-XXXVI. Expansión urbana: El crecimiento de los centros de población que implica la transformación de suelo rural a urbano, mediante la ejecución de obras materiales en áreas de reservas para su aprovechamiento en su uso y destinos específicos,
+XXXIX. Diseño urbano universal: Diseño basado en la movilidad, accesibilidad y eliminación de barreras, que facilita la utilización de los espacios y servicios, sin necesidad de adaptación;
 
-XXXVII. Fundación: El establecimiento de un centro de población previsto en el Programa Estatal de Desarrollo Urbano, en las áreas que se determinen como provisiones mediante decreto del Congreso del Estado;
+XL. Equipamiento urbano: Conjunto de inmuebles, construcciones, instalaciones y mobiliario, utilizados para prestar a la población los servicios urbanos y desarrollar las actividades económicas;
 
-XXXVIII. Índice de edificación: La unidad de medida que sirve para conocer cuantas viviendas o unidades privativas pueden ser edificadas dentro de un mismo predio o lote en las zonas habitacionales;
+XLI. Estudio de impacto ambiental: Análisis de carácter interdisciplinario, basado en estudios de campo y gabinete, encaminado a identificar, interpretar, valorar, prevenir, mitigar y comunicar los efectos de una obra, actividad o proyecto sobre el medio ambiente, de conformidad con este Código y la ley de la materia;
 
-XXXIX. Integración urbanística: Conjunto de elementos que permiten establecer la congruencia e integración funcional de las obras de urbanización o edificación de un predio, en relación con los usos o destinos y su estructura urbana, que se determinan para el mismo en el plan o programa de desarrollo urbano y se certificaron en el dictamen de trazo, usos y destinos específicos;
+XLII. Expansión urbana: Crecimiento de los centros de población que implica la transformación de suelo rural a urbano, mediante la ejecución de obras materiales que incluyan infraestructura y equipamiento para brindar servicios y accesibilidad, así como garantizar la calidad de vida de sus habitantes, en áreas de reservas para su aprovechamiento en su uso y destinos específicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+XLIII. Índice de edificación: Unidad de medida que sirve para conocer cuántas viviendas o unidades privativas pueden ser edificadas dentro de un mismo predio o lote en las zonas habitacionales;
 
-XL. La Secretaría: La Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco;
+XLIV. Integración urbanística: Conjunto de elementos que permiten establecer la congruencia e integración funcional de las obras de urbanización o edificación de un predio, en relación con el medio ambiente y los usos y destinos del suelo, que se determinan para el mismo en el plan o programa de desarrollo urbano y se certificaron en el dictamen de trazo, usos y destinos específicos;
 
-XLI. Licencia: El acto administrativo mediante el cual se precisan los derechos y obligaciones específicos para ejecutar obras o realizar acciones determinadas, en relación con una persona física o jurídica determinada, que deberán cumplirse en el plazo o término que se establezca. Cuando una licencia se emita en forma simultánea con una autorización, para su vigencia o efectos indefinidos o limitados, se entenderán como dos actos administrativos diversos;
+XLV. Licencia: Acto administrativo expedido por la Dependencia Municipal previo pago de derechos establecidos en las leyes de ingresos vigentes, mediante el cual se precisan los derechos y obligaciones específicos para ejecutar obras o realizar acciones determinadas, en relación con una persona física o jurídica determinada, que deberán cumplirse en el plazo o término que se establezca. Cuando una licencia se emita en forma simultánea con una autorización, para su vigencia a efectos indefinidos o limitados, se entenderán como dos actos administrativos diversos;
 
-XLII. Lote: La fracción de un predio resultado de su división, debidamente deslindado e incorporado;
+XLVI. Lote: Fracción de un predio resultado de su división, debidamente deslindado e incorporado;
 
-XLIII. Lotificación: La partición de un predio urbanizado en dos o más fracciones;
+XLVII. Lotificación: Partición de un predio urbanizado en dos o más fracciones;
 
-XLIV. Manifestación de Impacto Regional: Es el estudio de la magnitud de la alteración que cause o pueda causar, alguna obra pública o privada, que por su funcionamiento, forma o magnitud afecte a la infraestructura, a los servicios públicos de una área; el espacio, la imagen y paisaje urbanos o la estructura socioeconómica; genere especulación inmobiliaria o de bienes y servicios; signifique un riesgo para la vida, la salud o los bienes de la comunidad, implique su desplazamiento o expulsión paulatina o, determine una afectación para el patrimonio cultural del centro de población. Este estudio debe de ser requerido en los casos que sea modificada la zonificación de un programa o plan de desarrollo urbano;
+XLVIII. Manifestación de Impacto Urbano Regional: Estudio, que deberá realizarse en los casos que sea modificada la zonificación de un programa o plan de desarrollo urbano, sobre la alteración que pueda causar alguna obra pública o privada, que por su funcionamiento, forma o magnitud afecte la infraestructura, los servicios públicos de un área, el espacio, la imagen y paisaje urbanos o la estructura socioeconómica; que genere especulación inmobiliaria o de bienes y servicios; que signifique un riesgo para la vida, la salud o los bienes de la comunidad; que implique el desplazamiento o expulsión de la comunidad, o que determine una afectación para el patrimonio cultural del centro de población;
 
-XLV. Mejoramiento: la acción dirigida a reordenar y renovar las zonas deterioradas o de incipiente desarrollo del territorio estatal o de un centro de población; así como la regularización de los asentamientos humanos;
+XLIX. Mejoramiento: Acción dirigida a reordenar y renovar las zonas deterioradas o de incipiente desarrollo del territorio estatal o de un centro de población; así como la regularización de los asentamientos humanos;
 
-XLVI. Metropolización: Dinámica espacial que implica la asociación tendencial o inducida de un conglomerado urbano con características comunes: económicas, sociales, funcionales y productivas, que definen flujos de bienes, personas y recursos financieros;
+L. Metropolización: Proceso que implica la asociación tendencial o inducida de un conglomerado urbano con características económicas, sociales, funcionales y productivas comunes, que propicia mejoras en los flujos de bienes, personas y servicios interconectados en sus territorios;
 
-XLVII. Obras de edificación: todas aquellas acciones de adecuación espacial, públicas o privadas, necesarias a realizar en un predio urbano, para permitir su uso o destino;
+LI. Movilidad urbana sustentable: Política pública que coordina los sectores ambiental, de transporte y de desarrollo urbano, con la finalidad de mejorar la calidad del espacio público;
 
-XLVIII. Obras de infraestructura básica: las redes generales que permiten suministrar en las distintas unidades territoriales y áreas que integran el centro de población, los servicios públicos de vialidad primaria municipal, agua potable, alcantarillado, drenaje, energéticos y telecomunicaciones;
+LII. Obras de edificación: Todas aquellas acciones de adecuación espacial, públicas o privadas, necesarias a realizar en un predio urbano, para permitir su uso o destino;
 
-XLIX. Obras de urbanización: Todas aquellas acciones técnicas realizadas con la finalidad de transformar el suelo rústico en urbano; o bien, adecuar, conservar o mejorar los predios de dominio público, redes de infraestructura y equipamiento destinados a la prestación de servicios urbanos;
+LIII. Obras de infraestructura básica: Redes generales que permiten suministrar en las distintas unidades territoriales y áreas que integran el centro de población, los servicios públicos de vialidad primaria municipal, agua potable, drenaje sanitario y pluvial, energéticos y telecomunicaciones;
 
-L. Ordenamiento territorial: El proceso de distribución equilibrada y sustentable de la población y de sus actividades económicas;
+LIV. Obras de urbanización: Todas aquellas acciones técnicas realizadas con la finalidad de transformar el suelo rústico en urbano; o bien, adecuar, conservar o mejorar los predios de dominio público, redes de infraestructura y equipamiento destinados a la prestación de servicios urbanos;
 
-LI. Ordenamiento ecológico: Instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+LV. Ordenamiento territorial: Proceso de distribución equilibrada y sustentable de la población y de sus actividades económicas;
 
-LII. Organismos de Participación Social, Ciudadana y Vecinal: Aquellas personas jurídicas con funciones de organización ciudadana y vecinal;
+LVI. Ordenamiento ecológico: Instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del medio ambiente y la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-LIII. Planeación y programación de los centros de población: El conjunto de actividades tendientes a lograr de una manera racional, los satisfactores indispensables para el buen funcionamiento de los mismos;
+LVII. Organismos de Participación Social, Ciudadana y Vecinal: Personas jurídicas con actividades orientadas a mejorar la calidad de vida de la ciudadanía, la participación y el acceso a bienes y servicios públicos y en su caso la promoción e investigación del desarrollo urbano;
 
-LIV. Polígono de Desarrollo Controlado: superficie delimitada del suelo que se determina en un plan parcial de desarrollo urbano mediante declaratoria y aprobación del ayuntamiento correspondiente a solicitud de una asociación de vecinos legalmente constituida, para llevar a cabo acciones determinadas mediante un convenio celebrado entre el propio ayuntamiento y la asociación reconocida en el área de aplicación;
+LVIII. Patrimonio Cultural: El que sea reconocido o declarado como tal, de conformidad con la Ley de Patrimonio Cultural del Estado de Jalisco y sus Municipios, y su reglamento;
 
-LV. Proyecto Ejecutivo: el conjunto de elementos que tipifican, describen y especifican detalladamente de las obras de edificación, restauración e infraestructura, en cualquiera de sus géneros, expresadas en planos y que integran todos los documentos y estudios técnicos necesarios para la ejecución, elaborados por un director responsable de proyecto o varios con especialidad en la materia;
+LIX. Proyecto Ejecutivo: Conjunto de elementos que tipifican, describen y especifican detalladamente las obras de edificación, restauración e infraestructura, en cualquiera de sus géneros, plasmadas en planos y que integran los documentos y estudios técnicos necesarios para la ejecución, con apego a las reglamentaciones aplicables; elaborados por un director responsable de proyecto o varios con especialidad en la materia;
 
-LVI. Predio o suelo, urbano o urbanizado: Aquél localizado en una zona donde se concluyeron las obras de urbanización autorizadas y recibidas por la Dependencia municipal respectiva y ha quedado inscrito como tal en el Registro Público de la Propiedad;
+LX. Proyecto Definitivo de Urbanización: Documento que integra el conjunto de elementos que tipifican, describen y especifican detalladamente las acciones urbanísticas, y que incluyen los estudios técnicos necesarios para autorizar su ejecución, con apego a las reglamentaciones aplicables; elaborado por un director responsable de proyecto o varios, con especialidad en la materia;
 
-LVII. Predio rural: Predio localizado fuera del límite del centro de población, cuyo uso corresponde principalmente a las actividades productivas o de aprovechamiento del sector primario, así como de funciones ambientales naturales;
+LXI. Predio o suelo, urbano o urbanizado: Aquel localizado en una zona donde se concluyeron las obras de urbanización autorizadas y recibidas por la Dependencia municipal respectiva y ha quedado inscrito como tal en el Registro Público de la Propiedad;
 
-LVIII. Predio rústico: Todo predio localizado en un área o zona que carece o donde no se concluyeron obras de urbanización autorizadas y por ello, no tiene la disponibilidad de servicios públicos;
+LXII. Predio rural: Predio localizado fuera del límite del centro de población, cuyo uso corresponde principalmente a las actividades productivas o de aprovechamiento del sector primario, así como de funciones ambientales naturales;
 
-LIX. Predio rústico intra-urbano: Se consideran aquellas superficies de terreno, comprendidos dentro de las áreas urbanizadas que no han sido incorporados al municipio, en los términos del presente Código;
+LXIII. Predio rústico: Todo predio localizado en un área o zona que carece o donde no se concluyeron obras de urbanización autorizadas y por ello, no tiene la disponibilidad de servicios públicos;
 
-LX. Provisiones: Las áreas que serán utilizadas para la fundación de un centro de población;
+LXIV. Predio rústico intra-urbano: Superficies de terreno, comprendidos dentro de las áreas urbanizadas que no han sido incorporados al municipio, en los términos del presente Código;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+LXV. Provisiones: Áreas que serán utilizadas para la fundación de un centro de población;
 
-LXI. Región Metropolitana: Delimitación geográfica integrada por un Área Metropolitana y uno o más centros de población, geográficamente cercanos, con tendencias de crecimiento que los acerquen y relaciones socioeconómicas, declarada oficialmente con ese carácter por decreto del Congreso del Estado;
+LXVI. Región Metropolitana: Delimitación geográfica integrada por un Área Metropolitana y uno o más centros de población, geográficamente cercanos, con tendencias de crecimiento que los acerquen y relaciones socioeconómicas, declara (sic) oficialmente con ese carácter por decreto del Congreso del Estado;
 
-LXII. Relotificación: El cambio en la distribución o dimensiones de los lotes en un predio, cuyas características hayan sido autorizadas con anterioridad;
+LXVII. Relotificación: Cambio en la distribución o dimensiones de los lotes en un predio, cuyas características hayan sido autorizadas con anterioridad;
 
-LXIII. Renovación urbana: La transformación o mejoramiento de las áreas de los centros de población, mediante la ejecución de obras materiales para el saneamiento y reposición de sus elementos de dominio público, pudiendo implicar un cambio en las relaciones de propiedad y tenencia del suelo, así como la modificación de usos y destinos de predios o fincas.
+LXVIII. Renovación urbana: Transformación o mejoramiento de las áreas de los centros de población, mediante la ejecución de obras materiales para el saneamiento y reposición de sus elementos de dominio público, pudiendo implicar un cambio en las relaciones de propiedad y tenencia del suelo, así como la modificación de usos y destinos de predios o fincas;
 
-LXIV. Reservas: Áreas de un centro de población, que serán utilizadas para su futuro crecimiento;
+LXIX. Reservas: Áreas de un centro de población, que serán utilizadas para su futuro crecimiento;
 
-LXV. Reservas territoriales: Aquellas reservas que se integren al dominio de la Federación, el Estado o los Municipios;
+LXX. Reservas territoriales: Aquellas reservas que se integren al dominio de la Federación, el Estado o los Municipios;
 
-LXVI. Restricción frontal: La distancia que debe dejarse libre de construcción dentro de un lote, medida desde la línea del límite del lote con la vía pública o área común, hasta el alineamiento de la edificación por todo el frente del mismo;
+LXXI. Restricción frontal: Distancia que debe dejarse libre de construcción dentro de un lote, medida desde la línea del límite del lote con la vía pública o área común, hasta el alineamiento de la edificación por todo el frente del mismo;
 
-LXVII. Restricción lateral: La distancia que debe dejarse libre de construcción dentro de un lote, medida desde la línea de la colindancia lateral hasta el inicio permisible de la edificación, por toda la longitud de dicho lindero o por una profundidad variable;
+LXXII. Restricción lateral: Distancia que debe dejarse libre de construcción dentro de un lote, medida desde la línea de la colindancia lateral hasta el inicio permisible de la edificación, por toda la longitud de dicho lindero o por una profundidad variable;
 
-LXVIII. Restricción posterior: La distancia en la cual se restringe la altura o la distancia de la construcción dentro de un lote, con objeto de no afectar la privacía y el asoleamiento de las propiedades vecinas, medida desde la línea de propiedad de la colindancia posterior;
+LXXIII. Restricción posterior: Distancia en la cual se restringe la altura o la distancia de la construcción dentro de un lote, con objeto de no afectar la privacidad y el asoleamiento de las propiedades vecinas, medida desde la línea de propiedad de la colindancia posterior;
 
-LXIX. Servicios urbanos: Las actividades operativas públicas administradas en forma directa por la autoridad competente o mediante concesiones a los particulares, a fin de satisfacer necesidades colectivas en los centros de población;
+LXXIV. Servicios urbanos: Actividades operativas públicas administradas en forma directa por la autoridad competente o mediante concesiones a los particulares, a fin de satisfacer necesidades colectivas en los centros de población;
 
-LXX. Sistema de Transferencia de Derechos de Desarrollo Urbano: es el conjunto de normas, procedimientos e instrumentos que permiten ceder los derechos excedentes o totales de intensidad de construcción no edificados que le correspondan a un propietario respecto de su predio, en favor de un tercero, sujetándose a las disposiciones de los planes y programas y a la reglamentación municipal, siendo la aplicación de este instrumento, facultad exclusiva del Ayuntamiento;
+LXXV. Sistema de Transferencia de Derechos de Desarrollo Urbano: Conjunto de normas, procedimientos e instrumentos que permiten ceder los derechos excedentes o totales de intensidad de construcción no edificados que le correspondan a un propietario respecto de su predio, en favor de un tercero, sujetándose a las disposiciones de los planes y programas y a la reglamentación municipal, siendo la aplicación de este instrumento, facultad exclusiva del Ayuntamiento;
 
-LXXI. Subdivisión: La partición de un predio en dos o más fracciones, para su utilización independiente en los términos señalados en el presente Código;
+LXXVI. Subdivisión: Partición de un predio en dos o más fracciones, para su utilización independiente en los términos señalados en el presente Código;
 
-LXXII. Suelo urbanizable: Aquel cuyas características lo hacen susceptible de aprovechamiento en la fundación o crecimiento de los centros de población, sin detrimento del equilibrio ecológico y áreas de conservación, por lo que se señalará para establecer las correspondientes provisiones y reservas;
+LXXVII. Suelo urbanizable: Aquel cuyas características lo hacen susceptible de aprovechamiento en la fundación o crecimiento de los centros de población, sin detrimento del equilibrio ecológico y áreas de conservación, por lo que se señalará para establecer las correspondientes provisiones y reservas;
 
-LXXIII. Suelo no-urbanizable: Aquel cuyas características de valor ambiental, paisajístico, cultural, científico, régimen de dominio público, o riesgos que representa, no es susceptible de aprovechamiento en la fundación o crecimiento de los asentamientos humanos;
+LXXVIII. Suelo no-urbanizable: Aquel cuyas características de valor ambiental, paisajístico, cultural, científico, régimen de dominio público, o riesgos que representa, no es susceptible de aprovechamiento en la fundación o crecimiento de los asentamientos humanos;
 
-LXXIV. Superficie edificable: El área de un lote o predio que puede ser ocupado por la edificación y corresponde a la proyección horizontal de la misma, excluyendo los salientes de los techos, cuando son permitidos. Por lo general, la superficie edificable coincide con el área de desplante;
+LXXIX. Superficie edificable: Área de un lote o predio que puede ser ocupado por la edificación y corresponde a la proyección horizontal de la misma, excluyendo los salientes de los techos, cuando son permitidos;
 
-LXXV. Unidad Privativa: El conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condominio;
+LXXX. Unidad Privativa: Conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condominio;
 
-LXXVI. Usos: Los fines particulares a que podrán dedicarse determinadas zonas, áreas y predios de un centro de población; en conjunción con los destinos determinan la utilización del suelo;
+LXXXI. Usos: Fines particulares a que podrán dedicarse determinadas zonas, áreas y predios de un centro de población, en conjunción con los destinos determinados en los planes parciales de desarrollo urbano expedidos por los ayuntamientos y los cuales no podrán ser modificados por la autoridad jurisdiccional estatal, dentro de los primeros seis años de su vigencia;
 
-LXXVII. Utilización del suelo: La conjunción de Usos y Destinos del suelo;
+LXXXII. Utilización del suelo: Conjunción de Usos y Destinos del suelo;
 
-LXXVIII. Zona: El predio o conjunto de predios que se tipifica, clasifica y delimita en función de la similitud o compatibilidad de las actividades a desempeñar, con una utilización del suelo predominante; y
+LXXXIII. Zona: Predio o conjunto de predios que se tipifica, clasifica y delimita en función de la similitud o compatibilidad de las actividades a desempeñar, con una utilización del suelo predominante; y
 
-LXXIX. Zonificación: La determinación de las áreas que integran y delimitan un centro de población; las zonas que identifiquen sus aprovechamientos predominantes, las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
+LXXXIV. Zonificación: Determinación de las áreas que integran y delimitan un centro de población; las zonas que identifiquen sus aprovechamientos predominantes, las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
 ## TÍTULO SEGUNDO. DE LA CONCURRENCIA Y COORDINACIÓN DE LAS AUTORIDADES
 
@@ -339,7 +355,9 @@ IV. Participar de manera conjunta y coordinada con la Federación, los estados y
 
 V. Publicar en el Periódico Oficial “El Estado de Jalisco” los programas y planes de su competencia, que hayan sido aprobados de conformidad con este código y ordenar su inscripción en el Registro Público de la Propiedad;
 
-VI. Convenir con el Ayuntamiento respectivo, previa solicitud del mismo, que la Secretaría asuma de manera total o parcial, las funciones técnicas que les corresponden al Municipio en la aplicación de éste Código y ejecutar obras públicas municipales, cuando carezcan de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. Convenir con al Ayuntamiento que previamente lo solicite, que las dependencias y entidades competentes asuman de manera total o parcial, las funciones técnicas que les corresponden al Municipio en la aplicación de éste Código y ejecutar obras públicas municipales, cuando carezcan de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera;
 
 VII. Participar, en los términos del acuerdo de coordinación respectivo, en la instrumentación de la política integral de suelo urbano y reservas territoriales, que establece la Ley General de Asentamientos Humanos;
 
@@ -359,7 +377,9 @@ XIV. Promover la oferta de terrenos y edificaciones, especialmente los destinado
 
 XV. Promover programas y apoyar acciones de regularización de la tenencia de la tierra urbana, en coordinación con los gobiernos municipales y en su caso, con el Gobierno Federal;
 
-XVI. Promover obras para que los habitantes de la Entidad cuenten con una vivienda digna; espacios adecuados para el trabajo, áreas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Promover obras para que los habitantes de la entidad cuenten con una vivienda digna, accesible e incluyente, que cumpla con la normatividad en materia de diseño urbano universal; espacios adecuados para el trabajo, áreas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad y los medios de comunicación y transporte que se requieran;
 
 XVII. Promover la participación ciudadana y vecinal en la elaboración, ejecución, evaluación y revisión de los programas y planes de desarrollo urbano del Estado, haciendo efectiva la consulta pública;
 
@@ -371,31 +391,37 @@ XIX. En coordinación con los gobiernos municipales, promover la constitución d
 
 XX. Aplicar las sanciones administrativas previstas en este Código, respecto de los actos u omisiones de los notarios y servidores públicos que violen las disposiciones legales relativas al registro, control y ejecución de los programas y planes de desarrollo urbano en el Estado y la zonificación;
 
-XXI. Resolver el recurso administrativo previsto en este Código, y
+XXI. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2015)
 
-XXII. Proveer al cumplimiento de las disposiciones de este Código, expidiendo reglamentos en todos los aspectos que no estén encomendados expresamente a los ayuntamientos, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XXIII. Las demás que le atribuya este Código y otros ordenamientos legales.
+XXII. Proveer al cumplimiento de las disposiciones de este Código, expidiendo reglamentos en todos los aspectos que no estén encomendados expresamente a los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. Instrumentar acciones para que el gobierno del Estado ejerza el derecho de preferencia en lo relativo a predios comprendidos en las áreas de reserva, de acuerdo a las disposiciones de esta (sic) Código;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. Promover en coordinación con los ayuntamientos la constitución de los consejos regionales de desarrollo urbano;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Promover las declaratorias para patrimonio cultural del estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXVI. Las demás que le atribuya este Código y otros ordenamientos legales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2014)</small>
 
 #### Sección Segunda. De las Atribuciones
 
-> <small>N. DE E. VÉASE LA HISTORIA LEGISLATIVA DEL ARTÍCULO, PUBLICADA EN EL P.O. DE 8 DE ABRIL Y 26 DE AGOSTO DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 9°.
 
-La Secretaría es la dependencia de la Administración Pública Estatal que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano. Sus atribuciones son las siguientes:
-
-I. a XXXIII. […] (sic)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
-
-XXXIV. En coordinación con los Ayuntamientos, emprender acciones para promover la constitución de asociaciones para la conservación y mejoramiento de zonas y bienes afectos al patrimonio cultural del Estado y apoyarlas en sus actividades;
-
-XXXV. a XXXVIII. [ ... ] (sic)
+El Poder Ejecutivo del Estado tiene a su cargo la ejecución de la política del Gobierno del Estado en los sectores de desarrollo urbano y ordenamiento territorial, a través de la Secretarías de Infraestructura y Obra Pública, y de Medio Ambiente y Desarrollo Territorial, en el ámbito de sus competencias.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -415,9 +441,13 @@ V. Cuando un Ayuntamiento carezca de los órganos correspondientes, o la complej
 
 VI. Definir, conjuntamente con la Secretaría de Medio Ambiente y Desarrollo Territorial, los criterios técnicos para la ubicación de los inmuebles destinados a oficinas y servicios públicos de las dependencias y entidades de la Administración Pública Estatal;
 
-VII. Realizar los trabajos de construcción, adaptación, restauración y conservación de los inmuebles de propiedad estatal y de aquellos de relevante valor artístico o histórico, integrando los proyectos y realizando los estudios previos que se requieran, de acuerdo a las normas y criterios técnicos establecidos, satisfaciendo en los casos que proceda, los requisitos que establece la Ley Federal sobre monumentos y Zonas Arqueológicos, Artísticos e Históricos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Proponer al Titular del Poder Ejecutivo y a los ayuntamientos acciones para conservar y mejorar el patrimonio inmobiliario del Estado y proveer su ejecución en el ámbito de su competencia;
+VII. Realizar los trabajos de construcción, adaptación, restauración y conservación de los inmuebles de propiedad estatal y de aquellos de relevante valor artístico o histórico, integrando los proyectos y realizando los estudios previos que se requieran, de acuerdo a las normas y criterios técnicos establecidos, satisfaciendo en los casos que proceda, los requisitos que establece la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos y la Ley de Patrimonio Cultural del Estado de Jalisco y sus municipios;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Proponer al Titular del Poder Ejecutivo y a los ayuntamientos, acciones para conservar y mejorar el patrimonio inmobiliario y el Patrimonio Cultural declarado del Estado, y proveer su ejecución en el ámbito de su competencia;
 
 IX. Establecer las normas de calidad que deberán observarse en el diseño y ejecución de obras de infraestructura y equipamiento urbano;
 
@@ -433,9 +463,17 @@ XIV. Opinar en materia de financiamiento de obras, bases de empréstitos y contr
 
 XV. Realizar las obras de infraestructura y equipamiento previstas en los planes regionales de integración urbana, que le correspondan administrar conforme a su competencia;
 
-XVI. Supervisar, mediante inspección técnica en el ámbito de su competencia, el cumplimiento exacto que deba darse a este Código; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XVII. Las demás que le atribuyan este Código, y otras disposiciones aplicables.
+XVI. Supervisar, mediante inspección técnica en el ámbito de su competencia, el cumplimiento exacto que deba darse a este Código;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Realizar los estudios de impacto ambiental necesarios para la ejecución de la obra pública estatal; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Las demás que le atribuyan este Código, y otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -479,7 +517,9 @@ XVII. Dictaminar, en caso de controversia, a fin de precisar los predios incluid
 
 XVIII. Definir, conjuntamente con la Secretaría de Infraestructura y Obra Pública, los criterios técnicos para la ubicación de los inmuebles destinados a oficinas y servicios públicos de las dependencias y entidades de la Administración Pública Estatal;
 
-XIX. Realizar los estudios y dictámenes de impacto ambiental necesarios en toda autorización, permiso o licencia de construcción o de realización de cualquier obra pública estatal;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIX. Evaluar el impacto ambiental de aquellas obras y actividades que no sean competencia de la federación o de los gobiernos municipales de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente;
 
 XX. Conforme a la participación que corresponde al Gobierno del Estado, intervenir en la instrumentación de la política integral de suelo urbano y reservas territoriales, en los términos de los convenios de coordinación que se establezcan con el Gobierno Federal y los Ayuntamientos;
 
@@ -489,9 +529,13 @@ XXII. Participar, en el ámbito de su competencia, en la elaboración y ejecuci�
 
 XXIII. Instrumentar las acciones para que el Gobierno del Estado ejerza el derecho de preferencia en lo relativo a predios comprendidos en las áreas de reservas, de acuerdo a las disposiciones de este Código;
 
-XXIV. Promover, en coordinación con los ayuntamientos, la constitución de los consejos regionales de desarrollo urbano y apoyarlos en sus actividades;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XXV. Emprender acciones, en coordinación con los ayuntamientos, para promover la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al patrimonio cultural del Estado y apoyarlas en sus actividades;
+XXIV. Colaborar en la constitución de los consejos regionales de desarrollo urbano y apoyarlos en sus actividades, en coordinación con los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Emprender acciones, en coordinación con los ayuntamientos, con el Instituto Nacional de Antropología e Historia, a través de su representación estatal, y con la Secretaria de Cultura del Estado de Jalisco, para promover la constitución de asociaciones para la conservación y mejoramiento de zonas, sitios y bienes afectos al patrimonio cultural del Estado y apoyarlas en sus actividades;
 
 XXVI. Supervisar, mediante inspección técnica en el ámbito de su competencia, el cumplimiento que deba darse a este Código;
 
@@ -525,13 +569,15 @@ VII. Fijar o modificar los límites de los centros de población, cuando sólo c
 
 VIII. Participar, en forma coordinada con el Gobierno del Estado y conforme al convenio respectivo, en los procesos previstos por este Código para formular, aprobar, ejecutar, controlar, evaluar y revisar, los planes regionales de integración urbana;
 
-IX. Participar en el ordenamiento y regulación de las áreas o regiones metropolitanas que incluyan centros de población de su territorio, conforme las disposiciones legales y el convenio donde se reconozca su existencia;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IX. Participar en el ordenamiento y regulación de las áreas o regiones metropolitanas que incluyan centros de población de su territorio, conforme a las disposiciones legales, al convenio y la declaratoria donde se reconozca su existencia;
 
 X. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de este Código en el ámbito de su jurisdicción, mediante la celebración del convenio de coordinación que corresponda;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XI. Solicitar a la Secretaría de Medio Ambiente y Desarrollo Territorial los estudios y dictámenes de impacto ambiental necesarios en toda autorización, permiso o licencia de construcción o de realización de cualquier obra en el municipio;
+XI. Realizar los estudios de impacto ambiental que formarán parte de los planes y programas de desarrollo urbano municipales y que serán de observancia obligatoria para la ejecución de toda obra;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -559,7 +605,9 @@ XXI. Otorgar o negar las autorizaciones o licencias para ejecutar obras y accion
 
 XXII. Acordar la recepción de obras de urbanización;
 
-XXIII. A propuesta del urbanizador, aceptar las áreas de cesión para destinos y el equipamiento correspondiente, de acuerdo con el plan de desarrollo urbano de centro de población;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. A propuesta del urbanizador, recibir las áreas de cesión para destinos y el equipamiento correspondiente, de acuerdo con el plan de desarrollo urbano de centro de población, y registrarlas ante la dependencia encargada del patrimonio municipal;
 
 XXIV. Expedir el certificado de habitabilidad;
 
@@ -571,13 +619,17 @@ XXVII. Participar en la creación y administración de las reservas territoriale
 
 XXVIII. Ejercer el derecho de preferencia que corresponde al ayuntamiento en lo relativo a predios comprendidos en las áreas de reservas;
 
-XXIX. Elaborar, aprobar, ejecutar, controlar, evaluar y revisar, en forma coordinada con el Gobierno del Estado y conforme al convenio de coordinación respectivo, los planes parciales de desarrollo urbano que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXIX. Elaborar, aprobar, ejecutar, controlar, evaluar y revisar, en forma coordinada con el Gobierno del Estado y conforme al convenio de coordinación respectivo, los planes de desarrollo urbano de centro de población y los planes parciales de desarrollo urbano que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica y en su caso, del patrimonio cultural de conformidad con la normatividad respectiva;
 
 XXX. Aplicar las medidas necesarias para desalentar la especulación respecto de predios y fincas, contraria al interés social;
 
 XXXI. Promover inversiones y acciones que tiendan a conservar, mejorar y regular el crecimiento de los centros de población;
 
-XXXII. Promover obras para que los habitantes de sus respectivos municipios cuenten con una vivienda digna; espacios adecuados para el trabajo, áreas y zonas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad, y los medios de comunicación y transporte que se requieran;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXXII. Promover obras para que los habitantes de sus respectivos municipios cuenten con una vivienda digna, accesible e incluyente; espacios adecuados para el trabajo, áreas y zonas de esparcimiento y recreación; el equipamiento indispensable para la vida de la comunidad, y los medios de comunicación y transporte que se requieran;
 
 XXXIII. Otorgar las facilidades administrativas que estén a su alcance, a las acciones de vivienda;
 
@@ -587,9 +639,9 @@ XXXV. Promover y participar en la constitución y funcionamiento del Consejo Mun
 
 XXXVI. Promover la constitución de las asociaciones de vecinos, autorizar sus reglamentos y apoyarlas en sus actividades;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XXXVII. Promover la constitución de asociaciones para la conservación y mejoramiento de zonas y bienes afectos al patrimonio cultural del Estado, autorizar sus reglamentos y apoyarlas en sus actividades;
+XXXVII. Promover en coordinación con el Instituto Nacional de Antropología e Historia, a través de su representación estatal, y con la Secretaría de Cultura del Estado de Jalisco, la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al patrimonio cultural del Estado, autorizar sus reglamentos y apoyarlas en sus actividades;
 
 XXXVIII. Promover la participación ciudadana y vecinal y recibir las opiniones de los grupos de personas que integran su comunidad, respecto a la formulación, ejecución, evaluación y revisión de los programas y planes municipales;
 
@@ -609,25 +661,59 @@ XLV. Mantener disponibles para información y consulta del público los planes y
 
 XLVI. Promover en los planes municipales de desarrollo, el establecimiento de usos, destinos y reservas territoriales para la construcción de espacios destinados al fomento de actividades artísticas, culturales y recreativas;
 
-XLVII. Aprobar su plan de ordenamiento territorial metropolitano, en caso de pertenecer a un área que tenga ese carácter, a partir de la propuesta aprobada por la instancia de coordinación política;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XLVII. Aprobar de conformidad con el convenio de coordinación metropolitana, el programa de desarrollo, el plan de ordenamiento territorial y los planes sectoriales metropolitanos;
 
 XLVIII. Aprobar los convenios de coordinación metropolitana propuestos por las instancias de coordinación correspondientes;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XLIX. Participar en la construcción de los Institutos Metropolitanos de Planeación que les correspondan,
+XLIX. Participar en la constitución de los Institutos Metropolitanos de Planeación, propuestos por la Junta de Coordinación Metropolitana, de conformidad con el convenio de coordinación metropolitana;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-L. Llevar a cabo acciones para el acondicionamiento y servicios para las personas con discapacidad;
+L. Llevar a cabo acciones necesarias para el acondicionamiento de accesibilidad, movilidad y ausencia de barreras en los espacios y servicios públicos, así como prever en sus reglamentos de zonificación urbana, las disposiciones de accesibilidad necesarias para el desarrollo integral de las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-LI. Convenir con el Titular del Poder Ejecutivo que la Secretaría de Medio Ambiente y Desarrollo Territorial desempeñe de manera total o parcial, las funciones técnicas que le corresponden en la aplicación de este Código, cuando carezca de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera; y
+LI. Convenir con el Titular del Poder Ejecutivo que la Secretaría de Medio Ambiente y Desarrollo Territorial desempeñe de manera total o parcial, las funciones técnicas que le corresponden en la aplicación de este Código, cuando carezca de los órganos administrativos correspondientes o la complejidad de los asuntos lo requiera;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-LII. Las demás que le atribuyan este Código y disposiciones aplicables.
+LII. Promover la participación de la población en la solución de los problemas de infraestructura y equipamiento urbanos, servicios públicos, vivienda popular, vivienda de interés social y vivienda accesible e incluyente para personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LIII. Aportar al Instituto de Información Estadística y Geográfica, la información necesaria sobre sus planes y programas de desarrollo urbano, para la implementación del Sistema de Información Geográfica;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LIV. Conformar la Comisión Municipal de Directores Responsables de proyectos u obras, integrada por funcionarios municipales y representantes de los colegios de arquitectos e ingenieros civiles;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LV. Aplicar recursos públicos para el mejoramiento de la vivienda de interés social en régimen de condominio, manteniendo servicios y obras, y realizando reparaciones en áreas y bienes de uso común en casos urgentes, que pongan en peligro la vida o integridad física de los condóminos o poseedores, de acuerdo a la disponibilidad presupuestal;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LVI. Aprovechar los presupuestos y subsidios previstos en los programas estatales y federales de la Administración Pública, destinados a la construcción de infraestructura urbana, con el fin de obtener recursos para el mejoramiento y reparaciones de las áreas comunes de la vivienda de interés social en régimen de condominio, exceptuando los de gasto corriente;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LVII. Proporcionar, previo convenio, servicios públicos municipales de seguridad y vigilancia en las áreas de uso común dentro de la unidad de interés social en régimen de condominio, previo acuerdo de la Asamblea General, sin que ello impida que la Asamblea contrate servicios profesionales para estos fines;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LVIII. Considerar durante el último año del ejercicio constitucional del ayuntamiento y según las posibilidades presupuestales del municipio, la partida correspondiente al Programa Municipal de Desarrollo Urbano;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LIX. Evaluar el impacto ambiental respecto de obras o actividades que no sean competencia de la federación o del estado, que se realicen íntegramente dentro del territorio municipal, y solicitar a la autoridad competente el dictamen de impacto ambiental respectivo de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+LX. Las demás que le atribuyan este Código y disposiciones aplicables.
 
 #### Sección Segunda. De Las Atribuciones del Presidente Municipal
 
@@ -639,7 +725,9 @@ Son atribuciones del Presidente Municipal:
 
 I. Solicitar a la Secretaría de Medio Ambiente y Desarrollo Territorial la información relativa a los programas y planes nacionales y estatales de desarrollo urbano que requiera el ayuntamiento, para elaborar y revisar los programas y planes municipales;
 
-II. Supervisar la elaboración, ejecución, control, evaluación y revisión del Programa Municipal de Desarrollo Urbano, de los planes que se deriven del mismo;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Promover, durante el primer año del ejercicio constitucional del ayuntamiento, que el municipio cuente con un Programa Municipal de Desarrollo Urbano, supervisar su elaboración, ejecución, control, evaluación y revisión, así como de los planes que se deriven del mismo;
 
 III. Realizar la publicación del Programa Municipal de Desarrollo Urbano, los planes de desarrollo urbano de los centros de población, los planes parciales de desarrollo urbano; así como de las actualizaciones de estos programas, planes o de la zonificación, y presentarlos para su inscripción en el Registro Público de la Propiedad;
 
@@ -649,11 +737,17 @@ V. Elaborar los proyectos referentes a acciones de conservación, mejoramiento y
 
 VI. Participar con voz y voto en las instancias de coordinación política de carácter metropolitano;
 
-VII. Proponer ante el Ayuntamiento correspondiente los acuerdos de la instancia de coordinación política metropolitana en que participe, que requieran la aprobación del Ayuntamiento;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. Proponer ante el Ayuntamiento los acuerdos de la Junta de Coordinación Metropolitana en que participe, que requieran la aprobación del Ayuntamiento;
 
 VIII. Garantizar la existencia de sistemas de información y orientación al público sobre tramitación de permisos, autorizaciones, licencias y en general de todo lo concerniente al ámbito de aplicación del presente Código;
 
 IX. Dar el trámite que corresponda, conforme las disposiciones de este Código, a las solicitudes de dictámenes de usos, destinos y reservas, de áreas y predios;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+En el ámbito de su competencia, dar el trámite que corresponda a las autorizaciones de obras de urbanización y edificación, e infraestructura; así como de conservación del patrimonio cultural que integran la acción urbanística, de acuerdo a las normas de este Código y demás disposiciones legales aplicables;
 
 X. En el ámbito de su competencia, dar el trámite que corresponda a las autorizaciones de obras de urbanización y edificación que integran la acción urbanística, de acuerdo a las normas de este Código y demás disposiciones legales aplicables;
 
@@ -677,9 +771,17 @@ XVII. Solicitar el apoyo de la Secretaría de Medio Ambiente y Desarrollo Territ
 
 XVIII. Ejecutar, con los medios del Ayuntamiento o solicitando el apoyo de la Secretaría de Infraestructura y Obra Pública, con cargo a las personas que realicen obras de urbanización o edificación, las obras que éstos omitan y que debieron ejecutar, de conformidad con las autorizaciones y permisos otorgados;
 
-XIX. Tramitar el recurso administrativo previsto en este Código, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XX. Las demás que le señalen este Código y demás normas legales y reglamentarias aplicables.
+XIX. En su caso, substanciar el recurso administrativo previsto en este Código;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XX. Promover las declaratorias de patrimonio cultural del municipio; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Las demás que le señalen este Código y demás normas legales y reglamentarias aplicables
 
 ### CAPITULO IV. De la Procuraduría de Desarrollo Urbano
 
@@ -689,23 +791,27 @@ XX. Las demás que le señalen este Código y demás normas legales y reglamenta
 
 El presente Capítulo tiene por objeto establecer la forma de organización y funcionamiento de la Procuraduría de Desarrollo Urbano, y sus disposiciones son de orden público, de interés social y de observancia general en la entidad.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
-La Procuraduría de Desarrollo Urbano es el organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, encargado de orientar y defender a los ciudadanos en la aplicación de la legislación urbanística, vigilar la correcta ejecución de la misma, así como promover la solución de todos los asuntos relacionados con el proceso de urbanización, conforme las disposiciones de este ordenamiento, observando los procedimientos administrativos o jurisdiccionales en los casos que establezcan las leyes.
+La Procuraduría de Desarrollo Urbano es el organismo público descentralizado del Poder Ejecutivo, con personalidad jurídica y patrimonio propio, encargado de asesorar, representar y defender a los ciudadanos en la aplicación de la legislación urbanística, así como vigilar y procurar su observancia, en beneficio de la población, conforme las disposiciones de este ordenamiento, observando los procedimientos administrativos o jurisdiccionales en los casos que establezcan las leyes.
 
 ###### Artículo 14.
 
 Corresponde a la Procuraduría de Desarrollo Urbano el ejercicio de las siguientes atribuciones:
 
-I. Vigilar que se cumplan y observen debidamente las disposiciones que ordenen y regulen el desarrollo urbano en la Entidad;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. Vigilar que se cumplan y observen debidamente las disposiciones que ordenen y regulen el desarrollo urbano en la entidad;
 
 II. Organizar, desarrollar y promover actividades de investigación en materia de desarrollo urbano;
 
 III. Promover investigaciones académicas en coordinación con las instituciones de educación superior que operen en el Estado, para apoyar la gestión del desarrollo urbano y la participación social;
 
-IV. Realizar investigaciones y establecer mecanismos de difusión y comunicación con toda clase de instituciones públicas y privadas, para el mejor cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Realizar investigaciones y establecer mecanismos de difusión y comunicación con instituciones públicas y privadas, para el mejor cumplimiento de sus atribuciones;
 
 V. Promover la capacitación de servidores públicos, peritos, directores responsables y de la ciudadanía en general, interesados en participar en la gestión de acciones de urbanización y edificación;
 
@@ -717,45 +823,67 @@ VIII. Solicitar a las dependencias estatales y municipales información relativa
 
 IX. Intervenir en los términos del artículo 328 del presente Código, en la elaboración y suscripción de los convenios para la ejecución del complemento de las obras de urbanización en un desarrollo progresivo en la acción urbanística por objetivo social;
 
-X. Prestar servicios gratuitos de asesoría a los ciudadanos que requieran y le soliciten apoyo en asuntos relativos a la aplicación de las disposiciones del presente Código y de los programas y planes de desarrollo urbano que se expidan;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XI. Recibir y encauzar debidamente las peticiones relacionadas con la promoción del desarrollo urbano, que le formulen los vecinos de cualquier centro de población de la Entidad;
+X. Prestar servicios gratuitos de asesoría a los ciudadanos que requieran y le soliciten apoyo en asuntos relativos a la aplicación de las disposiciones en materia de planeación, ordenamiento territorial y desarrollo urbano; así como de los programas y planes de desarrollo urbano que se expidan;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XII. Emitir dictamen, cuando así le sea solicitado por una de las partes, respecto de la aplicación de las normas que ordenen y regulen los asentamientos humanos en la entidad, con el propósito de aclarar las controversias que se presenten;
+XI. Recibir y encauzar debidamente las peticiones relacionadas con la promoción del desarrollo urbano, que le formulen los vecinos o sus representantes vecinales, de cualquier centro de población de la entidad
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Vigilar los acuerdos y convenios que celebren las dependencias y organismos federales, estatales y municipales que tengan por objeto ejecutar acciones de conservación y mejoramiento de bienes inmuebles afectos al patrimonio cultural del Estado, para que estos se realicen con apego a la normatividad aplicable;
+XII. Emitir dictamen, cuando así le sea solicitado por particulares o autoridades, respecto de la aplicación de las normas que ordenen y regulen los asentamientos humanos en la entidad, así como de un caso concreto en el que el particular tenga interés legítimo o jurídico;
 
-XIV. Representar cuando así se le solicite, a los habitantes, asociaciones de vecinos o propietarios de predios y fincas, en el ejercicio del derecho a exigir a la autoridad se lleven a cabo las suspensiones o demoliciones que sean necesarias, cuando las edificaciones y urbanizaciones, cambios de uso del suelo u otros aprovechamientos de fincas contravengan la normatividad en materia de desarrollo urbano, originen un deterioro a la calidad de la vida de los asentamientos humanos y en general en la gestión de asuntos relacionados con la materia;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+XIII. Vigilar los acuerdos y convenios que celebren las dependencias y organismos federales, estatales y municipales que tengan por objeto ejecutar acciones de conservación y mejoramiento en sitios, predios y fincas afectos al patrimonio cultural del Estado, para que estos se realicen con apego a la normatividad aplicable
 
-XV. Ejercer de oficio las acciones en defensa de la integridad del Patrimonio Cultural inmueble del Estado, para que estos se realicen con apego a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XVI. Representar, cuando así se le solicite, a quienes interpongan el recurso de revisión.
+XIV. Representar a los habitantes, asociaciones de vecinos o propietarios de predios y fincas, previa solicitud, en el ejercicio del derecho a exigir a la autoridad se lleven a cabo las suspensiones o demoliciones que sean necesarias, cuando las edificaciones y urbanizaciones, cambios de uso del suelo u otros aprovechamientos de fincas contravengan la normatividad en materia de desarrollo urbano, originen un deterioro a la calidad de la vida de los asentamientos humanos y en general en la gestión de asuntos relacionados con la materia, y en su caso, fundar y motivar las razones de su inacción;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XV. Ejercer de oficio las acciones en defensa de la integridad de sitios, predios y fincas afectos al patrimonio cultural del Estado, para que estos se realicen con apego a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Representar, cuando así se le solicite, a quienes interpongan el recurso de revisión;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 XVII. Promover se declaren las nulidades establecidas en el Título Décimo Segundo del presente Código;
 
 XVIII. Intervenir en los casos previstos en los artículos 262 fracción V, 288 y 292 del presente Código, para los efectos de requerir a los entes públicos que corresponda para que informen a la Procuraduría de Desarrollo Urbano las razones y justificaciones que motiven el retraso o negativa de lo requerido por los peticionarios;
 
-XIX. Solicitar se determinen y apliquen las sanciones administrativas, previstas en el Presente Código y las demás disposiciones jurídicas aplicables en la materia;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XX. Promover la integración del registro a efecto de acreditar a quienes participarán como directores responsables en el procedimiento administrativo y jurisdiccional, en las materias relacionadas con el objeto de este Código, mediante convenio con el Tribunal de lo Administrativo y con la participación de los colegios de profesionistas;
+XIX. Solicitar se determinen y apliquen las sanciones administrativas, previstas en el presente Código;
 
-XXI. Exhortar a las Autoridades Municipales se apliquen de manera inmediata las medidas de seguridad determinadas en el presente Código, en los casos en que presuman violaciones a la normatividad urbana vigente;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XX. Promover la integración del registro a efecto de acreditar a quienes participarán como directores responsables en el procedimiento administrativo;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Exhortar a las Autoridades Municipales se apliquen de manera inmediata las medidas de seguridad determinadas en el presente Código, en los casos en que presuman violaciones a la normatividad urbana vigente, y en caso contrario solicitar que se apliquen las sanciones correspondientes, a la autoridad competente;
 
 XXII. Presentar al Titular del Poder Ejecutivo Estatal un informe anual de sus actividades y de la aplicación de las normas que ordenan y regulan el asentamiento humano en el Estado;
 
-XXIII. Recibir las denuncias de los particulares en materia de desarrollo urbano;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+XXIII. Recibir las denuncias de los particulares en materia de desarrollo urbano, ordenamiento territorial y protección del Patrimonio Cultural en el Estado, así como presentar las acciones y recursos legales ante las autoridades competentes,
 
-XXIV. Requerir a la autoridad competente para la aplicación de medidas de seguridad a efecto de que cese el riesgo inminente de afectación al Patrimonio Cultural inmueble el (sic) Estado;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XXV. Informar a la autoridad federal que corresponda, según el caso detectado, cuando sea de su competencia;
+XXIV. Requerir a la autoridad competente para la aplicación de medidas de seguridad a efecto de que cese el riesgo inminente de afectación al Patrimonio Cultural en el Estado;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Informar a la autoridad competente, cuando tenga conocimiento de una falta administrativa en materia de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 XXVI. Solicitar la intervención de la autoridad municipal o estatal que corresponda a efecto de que inicie procedimiento administrativo de aplicación y ejecución de sanciones;
 
@@ -763,9 +891,15 @@ XXVI. Solicitar la intervención de la autoridad municipal o estatal que corresp
 
 XXVII. Ejecutar las acciones preventivas necesarias para la preservación, conservación y ampliación del patrimonio cultural inmueble del Estado;
 
-XXVIII. Solicitar la intervención de la Procuraduría Estatal de Protección al Ambiente, cuando se presuman violaciones a la legislación ambiental.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XXVIII. Solicitar la intervención de la Procuraduría Estatal de Protección al Ambiente, cuando se presuman violaciones a la legislación ambiental;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 XXIX. Fungir como instancia de mediación o arbitraje en los casos de conflictos o controversias en la aplicación o interpretación de este Código, a solicitud de las partes interesadas;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 XXX. Desempeñar el cargo de director responsable ante toda clase de autoridades que soliciten sus servicios, con relación a la aplicación o interpretación de este Código;
 
@@ -775,23 +909,27 @@ XXXI. Denunciar ante el Ministerio Público los actos, hechos u omisiones que pu
 
 XXXII. Las demás que expresamente le asignen el presente Código, la legislación civil y otros ordenamientos de la materia.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 15.
 
-Los dictámenes que emita la Procuraduría, en ejercicio de la atribución que le otorga el presente Código, serán de carácter probatorio para resolver las controversias entre particulares y autoridades en materia de ordenamiento y regulación de asentamientos humanos e interpretación de la norma aplicable.
+Los dictámenes que emita la Procuraduría, en ejercicio de la atribución que le otorga el presente Código, tendrán carácter probatorio, en la resolución de controversias entre particulares y autoridades, en materia de ordenamiento y regulación de asentamientos humanos e interpretación de la norma aplicable.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
-La actuación que realice la Procuraduría de Desarrollo Urbano en la defensa y representación de los particulares, se iniciará de oficio o a petición de parte interesada, en forma gratuita y siempre atenta al ejercicio de sus atribuciones.
+La actuación que realice la Procuraduría de Desarrollo Urbano en la defensa y representación de las personas, se iniciará de oficio o a petición de parte interesada y en forma gratuita.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 17.
 
-Cuando la Procuraduría de Desarrollo Urbano intervenga conforme a lo previsto en la fracción XIV del artículo 14, mediante acuerdo fundado y motivado, solicitará a la autoridad encargada de la vigilancia y control de esas acciones, los informes respecto de las contravenciones, denuncias y, en su caso, la aplicación de medidas de seguridad que se hayan determinado y aplicado.
+Cuando la Procuraduría de Desarrollo Urbano intervenga conforme a lo previsto en las fracciones XIV, XV, XVI, XVIII, XX, XXII, XXV, XXVII, y XXXI del artículo 14, mediante acuerdo fundado y motivado, solicitará a la autoridad competente, que informe la situación actual en relación al hecho o acto, que se aceptó o rechazó.
 
 La autoridad requerida, dentro de los diez días hábiles siguientes a su recepción, rendirá informe fundado y motivado.
 
-A falta de observancia de esta disposición, nuevamente requerirá al municipio para que en un plazo de cinco días hábiles acate dicha solicitud, a falta de ésta, tramitará el recurso administrativo ante la autoridad competente, previsto en este Código o, en su caso, denunciará ante el ministerio público cualquier conducta que se presuma delictiva.
+A falta de informe, se requerirá a su superior jerárquico, para que lo emita en un término de cinco días hábiles, y si éste no lo realiza, la Procuraduría interpondrá el recurso administrativo correspondiente, además de promover en su caso, las acciones necesarias conforme a la normativa de responsabilidades de los servidores públicos, para la imposición de las sanciones correspondientes.
 
 ###### Artículo 18.
 
@@ -809,13 +947,15 @@ II. Ser mayor de treinta años al día de su nombramiento;
 
 III. Residir en el Estado, cuando menos cinco años inmediatamente anteriores al día de su designación;
 
-IV. Tener título en alguna licenciatura;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Tener título y cédula profesional de licenciatura en derecho, arquitectura, urbanismo o alguna relacionada con el desarrollo urbano o en su caso, algún posgrado en la materia;
 
 V. Tener conocimientos y experiencia mínima de cinco años en materia de ordenamiento y regulación del asentamiento humano, y
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-VI. No haber desempeñado, durante los últimos cuatro años anteriores, el cargo de Secretario de Infraestructura y Obra Pública o de Secretario de Medio Ambiente y Desarrollo Territorial, ni haber sido titular, responsable o encargado de dependencia estatal o municipal responsable de emitir dictámenes, licencias, permisos y autorizaciones en materia de urbanizaciones, edificaciones, subdivisiones, relotificaciones e intervención en inmuebles afectos al patrimonio cultural edificado, ni haberse desempeñado como director responsable, apoderado general o representante en el ámbito privado en la misma materia.
+VI. No haber desempeñado, durante los últimos cuatro años anteriores, el cargo de Secretario de Infraestructura y Obra Pública o de Secretario de Medio Ambiente y Desarrollo Territorial, ni haber sido titular, responsable o encargado de dependencia estatal o municipal responsable de emitir dictámenes, licencias, permisos y autorizaciones en materia de urbanizaciones, edificaciones, subdivisiones, relotificaciones e intervención en inmuebles afectos al patrimonio cultural edificado.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1041,19 +1181,19 @@ VI. Los Consejos Metropolitanos de Participación Ciudadana.
 
 La formulación, revisión, ejecución, control y evaluación de los programas y planes de desarrollo urbano, estarán sujetos a la participación y consulta permanente de los diversos grupos sociales que integran la comunidad, a través de los organismos de participación ciudadana, social, vecinal y de consulta que señala el presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 39.
 
-El Consejo Estatal de Desarrollo Urbano, es el organismo de promoción, participación ciudadana, social, vecinal y de consulta del Poder Ejecutivo Local, para impulsar el desarrollo urbano en la Entidad. Se integrará en forma permanente por:
+El Consejo Estatal de Desarrollo Urbano, es el organismo de promoción, participación ciudadana, social, vecinal y de consulta del Poder Ejecutivo Local, para impulsar el desarrollo urbano en la entidad. Se integrará en forma permanente por:
 
 I. El Gobernador del Estado, quien será el presidente;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. El Titular de la Secretaría de Infraestructura y Obra Pública, quién será el secretario técnico;
+II. El Titular de la Secretaría de Medio Ambiente y Desarrollo Territorial, quién será el secretario técnico;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
-
-III. El Titular de la Secretaría de Medio Ambiente y Desarrollo Territorial;
+III. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1077,7 +1217,9 @@ h) El colegio mayoritario de arquitectos del Estado de Jalisco;
 
 i) El colegio mayoritario de ingenieros civiles del Estado de Jalisco;
 
-j) El Centro Bancario Local;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+j) El colegio mayoritario de urbanistas del Estado de Jalisco;
 
 k) La delegación de la Cámara Nacional de la Industria de Desarrollo y Promoción de Vivienda;
 
@@ -1093,9 +1235,17 @@ p) La organización mayoritaria de los ejidatarios, comuneros y trabajadores agr
 
 q) La organización mayoritaria de propietarios rurales en el Estado;
 
-r) El Consejo de Peritos en Supervisión Municipal; y
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-s) El Colegio Mayoritario de Ingenieros Mecánicos y Electricistas del estado de Jalisco;
+r) El Consejo de Peritos en Supervisión Municipal;
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+s) El Colegio Mayoritario de Ingenieros Mecánicos y Electricistas del estado de Jalisco, y;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+t) Las tres principales universidades del Estado, que cuenten con estudios profesionales en las áreas de la arquitectura, ingeniería civil o desarrollo urbano.
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1105,31 +1255,69 @@ V. El Diputado Presidente de la Comisión de Desarrollo Urbano del Congreso del 
 
 VI. Un representante de la Dependencia del Poder Ejecutivo Federal competente en materia de desarrollo urbano y ordenamiento territorial;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
-
 VII. Un representante por cada una de las dependencias y organismos del Poder Ejecutivo Estatal en materia de:
 
-a) Planeación;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE 2015)</small>
 
-b) Desarrollo económico;
+a) Planeación financiera;
 
-c) Desarrollo social;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE 2015)</small>
 
-d) Promoción de la vivienda;
+b) Infraestructura y Obra Pública;
 
-e) Vías de comunicación y movilidad;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+c) Desarrollo económico;
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+d) Turismo;
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+e) Desarrollo social;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+f) Cultura;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+g) Movilidad;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+h) Promoción de la vivienda;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+i) Información estadística y geográfica, y
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+j) Agua;
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
 
 VIII. Un representante por cada consejo regional de desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+IX. (DEROGADA, P.O. 5 DE NOVIEMBRE DE 2015)
 
-IX. Un representante de cada una de las tres principales universidades del Estado, que cuenten con estudios profesionales en el área de la arquitectura, ingeniería civil o desarrollo urbano; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+X. El Procurador de Desarrollo Urbano del estado de Jalisco;
 
-X. El Procurador de Desarrollo Urbano del Estado de Jalisco.
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XI. El Delegado Estatal del Instituto Nacional de Antropología e Historia, previa aceptación; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XII. Un representante del Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+El Consejo Estatal de Desarrollo Urbano, para la realización de sus actividades, dispondrá de recursos financieros, en función de la suficiencia presupuestal, a través de su Secretaría Técnica.
 
 ###### Artículo 40.
 
@@ -1155,9 +1343,13 @@ El Consejo Estatal de Desarrollo Urbano tendrá las siguientes atribuciones:
 
 I. Recibir y canalizar ante las autoridades competentes, los comentarios, estudios, propuestas y demandas que en materia de desarrollo urbano le presenten personas o grupos de la comunidad;
 
-II. Opinar sobre los proyectos de programas y planes de desarrollo urbano de la Entidad;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-III. Opinar en la integración y en su caso, formular propuestas para la modificación de la normatividad en materia de desarrollo urbano y de los reglamentos de construcción municipales;
+II. Revisar, analizar y emitir opinión sobre los proyectos, programas y planes de desarrollo urbano de la entidad.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Emitir opinión y formular propuestas sobre reformas a la normatividad en materia de desarrollo urbano y de los reglamentos de construcción municipales;
 
 IV. Con la participación de los municipios de cada región, definir la integración específica del consejo regional de desarrollo urbano;
 
@@ -1167,15 +1359,25 @@ VI. Convocar a los ayuntamientos y a los consejos municipales de desarrollo urba
 
 VII. Promover acciones urbanísticas, de acuerdo con las normas contenidas en los programas y planes de desarrollo urbano;
 
-VIII. Opinar respecto del programa de integración de reservas territoriales que elaboren en forma coordinada el Ejecutivo Estatal y los ayuntamientos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-IX. Reglamentar la constitución y operación de las áreas de gestión urbana integral;
+VIII. Revisar, analizar y emitir opinión sobre el Programa de Integración de Reservas Territoriales que elaboren en forma coordinada el Ejecutivo Estatal y los Ayuntamientos.
 
-X. Opinar sobre los proyectos de infraestructura urbana de importancia estatal y regional;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XI. Opinar sobre los planes y programas de vialidad y transporte público;
+IX. Emitir opinión sobre la constitución y operación de las áreas de gestión urbana integral.
 
-XII. Promover y encauzar la investigación académica para apoyar la descentralización regional, el fortalecimiento de las ciudades medias, la integración de sistemas de ciudades y el mejoramiento del ambiente en los medios urbano y rural;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+X Revisar, analizar y emitir opinión sobre los proyectos de infraestructura urbana de importancia estatal y regional.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XI. Revisar, analizar y emitir opinión sobre los planes y programas de movilidad y Transporte Público.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XII. Promover y encauzar, la investigación académica para apoyar la descentralización regional, el fortalecimiento de las ciudades medias, la integración de sistemas de ciudades, el mejoramiento del ambiente y la conservación del patrimonio cultural, en los medios urbano y rurales;
 
 XIII. Elaborar el proyecto de su reglamento y presentarlo a consideración del Titular del Poder Ejecutivo del Estado para su aprobación y publicación en su caso;
 
@@ -1197,19 +1399,37 @@ XVII. Las demás funciones que se le atribuyan en el presente Código.
 
 El Presidente del consejo estatal de desarrollo urbano, a través del Secretario Técnico convocará a las dependencias, organismos, asociaciones, ayuntamientos y consejos municipales de desarrollo urbano para que designen sus representantes ante el Consejo Estatal de Desarrollo Urbano, señalando la fecha de instalación.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 45.
 
-La mesa directiva del consejo estatal de desarrollo urbano, además del presidente y el secretario técnico, contará con un secretario de actas, un tesorero y los vocales que determine su reglamento. El propio reglamento dispondrá lo relativo a la frecuencia de sus reuniones, procedimiento para ratificar o relevar a los representantes, integración de sus comisiones y las normas que regulen su funcionamiento.
+El Consejo Estatal de Desarrollo Urbano contará con una Mesa Directiva integrada por el presidente y el secretario técnico, un Secretario de Actas, un Tesorero, un Coordinador Ejecutivo y los vocales que determine su reglamento. Los cargos de la Mesa Directiva son honoríficos, y por lo tanto, no remunerados.
+
+Su Reglamento Interno dispondrá lo relativo a la designación del Secretario de Actas, el Tesorero, el Coordinador Ejecutivo y los vocales; así como a la frecuencia de sus reuniones, los procedimientos para ratificar o relevar a los representantes, y la integración de sus comisiones y las normas que regulen su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 45. Bis.
+
+Los Consejos Regionales de Desarrollo Urbano son los organismos de promoción, participación ciudadana, social, vecinal y de consulta de los Ayuntamientos que conforman una región, de conformidad con la Regionalización Administrativa del Estado, para impulsar la planeación del territorio y el desarrollo urbano regionales.
+
+Los Consejos Regionales de Desarrollo Urbano están integrados por representantes de los sectores público, privado y social de la región, su presidencia será rotativa cada año entre los presidentes municipales de los Ayuntamientos que integren la región; su integración, organización, funcionamiento y atribuciones se regularán en su Reglamento Interno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 46.
 
-Los consejos municipales de desarrollo urbano se consideran como organismos auxiliares de los Municipios, en la gestión del desarrollo urbano municipal.
+Los consejos municipales de desarrollo urbano son los organismos de promoción, participación ciudadana, social, vecinal y de consulta de los Ayuntamientos, para impulsar la planeación del territorio y el desarrollo urbano municipales.
 
 Cada ayuntamiento determina si estos consejos forman parte de la administración pública municipal o funcionan exclusivamente como órganos ciudadanos de consulta.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 47.
 
-Los consejos municipales de desarrollo urbano están integrados por representantes de los sectores público, privado y social del Municipio, son presididos por el Presidente Municipal; su integración, organización, funcionamiento y atribuciones se regulan en los reglamentos municipales aplicables.
+Los consejos municipales de desarrollo urbano están integrados por representantes de los sectores público, privado y social del Municipio, son presididos por el Presidente Municipal.
+
+Su integración, organización, funcionamiento y atribuciones se regulan en los reglamentos municipales aplicables, debiendo quedar instalados durante el primer año de la administración municipal y sesionar al menos en forma bimestral.
 
 ###### Artículo 48.
 
@@ -1219,21 +1439,25 @@ I. Promover ante el Ayuntamiento los proyectos de plan parcial de desarrollo urb
 
 II. Promover ante el Ayuntamiento la declaratoria de polígono de desarrollo controlado, dentro del plan parcial de desarrollo urbano, expedido en el territorio de su centro de población.
 
-III. Convocadas por el ayuntamiento y el consejo municipal de desarrollo urbano, opinar en relación con las acciones urbanísticas y la determinación de usos y destinos, propuestas en proyectos de programas o planes de desarrollo urbano que los afecten;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Opinar en relación con las acciones urbanísticas y la determinación de usos y destinos, propuestas en proyectos de programas o planes de desarrollo urbano que los afecten;
 
 IV. Coadyuvar con el ayuntamiento en la vigilancia del cumplimiento de los planes aplicables a su zona, barrio o colonia, por parte de las autoridades y los particulares, y
 
 V. Representar a los vecinos de su zona, colonia o barrio, en la defensa de sus legítimos intereses, cuando estos resulten afectados por actos de autoridades o particulares, en las materias que regula el presente Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 49.
 
-Las asociaciones para la conservación y mejoramiento del Patrimonio Cultural inmueble del Estado, para los efectos del presente ordenamiento, se integrarán conforme a las siguientes bases:
+Las asociaciones para la conservación y mejoramiento de sitios, zonas y fincas afectos al Patrimonio Cultural del Estado, para los efectos del presente ordenamiento, se integrarán conforme a las siguientes bases:
 
 I. Se constituirán como asociaciones con participación y reconocimiento del ayuntamiento;
 
-II. Sus acciones se precisarán en el (sic) planes o programas de desarrollo urbano correspondientes a la zona específica, que se identifique como histórica o artística;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Sus acciones se precisarán en los planes y programas municipales de desarrollo urbano, correspondientes a la zona específica, que se identifique como histórica o artística;
 
 III. Tendrán atribuciones de promoción, asesoría y vigilancia, en relación con el cumplimiento de las acciones autorizadas en los planes o programas de desarrollo urbano aplicables, y
 
@@ -1241,13 +1465,15 @@ IV. Elaborarán sus proyectos de reglamentos y los someterán a autorización de
 
 ### CAPITULO II. De los Observatorios Urbanos
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ### CAPITULO I. De la Delimitación de las Áreas y Regiones Metropolitanas
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 50.
 
-El Gobierno del Estado y los municipios promoverán la creación y funcionamiento de observatorios urbanos, constituidos como redes de información, con la participación de universidades, organismos, investigadores, especialistas de la sociedad y el gobierno, para el estudio, investigación, organización y difusión de conocimientos sobre los problemas de las ciudades y los nuevos modelos de políticas urbanas y de gestión pública.
+El Gobierno del Estado y los municipios favorecerán la creación y funcionamiento de un observatorio urbano por municipio que funja como re (sic) de información, con la participación de universidades, organismos, investigadores, especialistas de la sociedad y el gobierno, para el estudio, investigación, organización y difusión de conocimientos sobre los problemas de las ciudades y los nuevos modelos de políticas urbanas y de gestión pública.
 
 ###### Artículo 51.
 
@@ -1353,6 +1579,8 @@ Cuando por su cercanía geográfica, tendencias de crecimiento y relaciones soci
 
 ### CAPITULO I. De la planeación del desarrollo urbano
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 66.
 
 Son instancias de coordinación metropolitana, los siguientes entes intermunicipales:
@@ -1377,11 +1605,11 @@ La Junta de Coordinación Metropolitana es el órgano intermunicipal de coordina
 
 El Instituto Metropolitano de Planeación es el organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio propios, y autonomía técnica en el ejercicio de sus atribuciones, que tiene por objeto coordinar la planeación del área o región metropolitana correspondiente. La organización, funcionamiento y atribuciones del Instituto son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 69.
 
-El Consejo Ciudadano Metropolitano es el órgano consultivo intermunicipal, de participación ciudadana, carácter honorífico y resoluciones no vinculantes, que tiene por objeto recibir, organizar y canalizar las propuestas ciudadanas en asuntos de interés metropolitano. La organización, funcionamiento y atribuciones del Consejo son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
+El Consejo Ciudadano Metropolitano es el órgano de carácter honorífico, de participación ciudadana y de consulta directa de la Junta de Coordinación Metropolitana, que tiene por objeto recibir, organizar y canalizar las propuestas ciudadanas en asuntos de interés metropolitano. La organización, funcionamiento y atribuciones del Consejo son los establecidos en la ley estatal en materia de coordinación metropolitana y demás instrumentos jurídicos aplicables de conformidad con la misma.
 
 ###### Artículo 70.
 
@@ -1413,15 +1641,17 @@ El Consejo Ciudadano Metropolitano es el órgano consultivo intermunicipal, de p
 
 ###### Artículo 76.
 
-Para los efectos de este título, se entenderá por planeación urbana, el conjunto de herramientas de las que dispone la autoridad para imprimirle racionalidad al proceso de desarrollo de los centros de población, propiciando mediante el ordenamiento del territorio y la programación de acciones estratégicas, un sistema urbano más equilibrado, eficiente y competitivo, orientado a mejorar el nivel de vida de sus habitantes.
+Para los efectos de este título, se entenderá por planeación urbana, el conjunto de herramientas de que dispone la autoridad para prever, racionalizar y coordinar el desarrollo sustentable de los centros de población, propiciando mediante el ordenamiento territorial y la programación de acciones estratégicas, un sistema urbano equilibrado, eficiente, competitivo y orientado a mejorar la calidad de vida de sus habitantes. La Secretaría de Medio Ambiente y Desarrollo Territorial, dará seguimiento a los indicadores derivados de los instrumentos y herramientas de planeación urbana, que determinen la eficiencia urbana sustentable en los centros de población.
 
 ###### Artículo 77.
 
 El ordenamiento del territorio, la planeación urbana y la definición de las directrices que orientarán el desarrollo de los centros de población es responsabilidad compartida entre el Gobierno del Estado y los Ayuntamientos. Respetando las competencias constitucionales de cada nivel de gobierno será indispensable la coordinación institucional para articular un sistema de planeación urbana estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 78.
 
-El Sistema Estatal de Planeación para el Desarrollo Urbano se integrará por un conjunto de programas y planes articulados entre sí, organizados de la siguiente manera:
+A. El Sistema Estatal de Planeación para el Desarrollo Urbano se integrará por un conjunto de programas y planes, de desarrollo y ejecución obligatorios, articulados entre sí, organizados de la siguiente manera:
 
 I.- Programas de Desarrollo Urbano
 
@@ -1431,13 +1661,17 @@ b) Programas Municipales de Desarrollo Urbano
 
 c) Programas de Desarrollo Metropolitano
 
-II.- Planes de Referencia
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-a) Planes Regionales de Integración Urbana
+II. Planes y Programas de Referencia:
 
-b) Ordenamiento Ecológico Regional del Estado
+a) Planes Regionales de Integración Urbana;
 
-c) Planes de Ordenamiento Territorial Metropolitano
+b) Programas de Ordenamiento Ecológico Regional del Estado;
+
+c) Planes de Ordenamiento Territorial Metropolitano; y
+
+d) Programas de Ordenamiento Ecológico Local;
 
 III.- Planes Básicos de Desarrollo Urbano
 
@@ -1447,13 +1681,31 @@ b) Planes Parciales de Desarrollo Urbano
 
 Los programas o planes que integran el Sistema de Planeación para el Desarrollo Urbano estarán a cargo de manera concurrente del Gobierno del Estado y los Ayuntamientos y deberán ser congruentes entre sí.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+B. Los programas y planes de desarrollo urbano, además de los aspectos que específicamente señale el Código, deberán contener al menos:
+
+I. El estado que guardan los sistemas de redes de infraestructura, servicios y equipamiento y necesidades de renovación;
+
+II. Especificación temporal de los plazos de cumplimiento de cada una de las acciones a desarrollar;
+
+III. Los mecanismos financieros a utilizarse para sufragar las obras, acciones e inversiones propuestas en el plan o programa, conforme a las disposiciones fiscales y presupuestales aplicables;
+
+IV. Plano general y los anexos gráficos con información desagregada que sean necesarios según los estudios realizados;
+
+V. Los indicadores para su evaluación y su metodología; y
+
+VI. En caso de que el instrumento de jerarquía mayor cuente ya con el estudio con la especificidad necesaria al ámbito de aplicación que se requiere, en uno o más de los elementos señalados, bastará la remisión a dicho documento y estudio específico, siempre que resulte actual en atención a la modificación que se pretende.
+
 ###### Artículo 79.
 
 Los programas de desarrollo urbano tendrán como propósito central establecer la política urbana a seguir en el estado, desarrollando en su contenido el componente sustantivo y normativo del sistema de planeación urbana estatal; esto es, el diagnóstico de la situación del nivel de planeación que le corresponda y la definición de los objetivos y metas que se pretenden alcanzar en el tiempo.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 80.
 
-Los planes de referencia y los planes básicos de desarrollo urbano tendrán como propósito central desarrollar el componente estratégico del sistema de planeación urbana estatal; esto es, definir la estrategia de acción y de intervención gubernamental para cumplir con lo establecido por la política urbana en los programas de desarrollo urbano.
+Los planes y programas de referencia y los planes básicos de desarrollo urbano tendrán como propósito central desarrollar el componente estratégico del sistema de planeación urbana estatal; esto es, definir la estrategia de acción y de intervención gubernamental para cumplir con lo establecido por la política urbana en los programas de desarrollo urbano.
 
 ###### Artículo 81.
 
@@ -1473,11 +1725,9 @@ II. El programa municipal de desarrollo urbano, los planes de desarrollo urbano 
 
 a) En la Gaceta Oficial del municipio o en el medio oficial de divulgación previsto por el reglamento aplicable y en caso de no existir éstos, en el periódico oficial El Estado de Jalisco;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2014)</small>
-
-b) En los lugares visibles de la cabecera municipal, lo cual debe certificar el servidor público encargado de la Secretaría del Ayuntamiento, así como los delegados y agentes municipales en su caso; y
+b) En los lugares visibles de la cabecera municipal, así como las delegaciones y agencias municipales lo cual debe certificar el servidor público encargado de la Secretaría del Ayuntamiento, así como los delegados y agentes municipales en su caso; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1487,9 +1737,13 @@ c) En la página de internet del Ayuntamiento, de forma accesible para la poblac
 
 Asimismo, se publicará en dos diarios de mayor circulación en las localidades comprendidas en el área de aplicación del plan o programa, una inserción donde se informe respecto a su aprobación y publicación en el medio oficial de divulgación correspondiente de acuerdo a las fracciones anteriores.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 83.
 
-El Gobernador del Estado y los presidentes municipales, en sus respectivos ámbitos de competencia, solamente ordenarán la publicación e inscripción de un programa o plan, si previamente se aprobó con apego a las disposiciones de este Código y si existe congruencia con los programas y planes de desarrollo urbano y de ordenamiento ecológico aplicables en el ámbito estatal, regional y municipal.
+El Gobernador del Estado y los presidentes municipales, en sus respectivos ámbitos de competencia, solamente ordenarán la publicación e inscripción de un programa o plan, si previamente se aprobó con apego a las disposiciones de este Código y si existe congruencia con los programas y planes de desarrollo urbano y de ordenamiento ecológico y territorial aplicables en el ámbito estatal, regional y municipal.
+
+La Secretaría de Medio ambiente y Desarrollo Territorial, o la dependencia municipal encargada de la planeación territorial, según sea el caso, emitirá las recomendaciones que considere pertinentes, en caso de que los planes y programas no cumplan con los requisitos referidos en el párrafo anterior, para efecto de que sean revisados, y en su caso modificados.
 
 ###### Artículo 84.
 
@@ -1497,35 +1751,49 @@ Los programas y planes previstos en el artículo 78 de este Código:
 
 I. Entrarán en vigor a partir de su publicación en el medio oficial de divulgación que corresponda,
 
-II. Deberán ser inscritos dentro de los veinte días siguientes a la fecha de su publicación, en el Registro Público de la Propiedad y, una vez inscritos, comenzarán a surtir efectos contra terceros.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-III. Los programas y planes de desarrollo urbano y la determinación de provisiones, usos, destinos y reservas que integran las zonificaciones de los centros de población, así como los dictámenes o certificaciones que se expidan con fundamento en los mismos, tendrán vigencia indefinida.
+II. Deberán ser inscritos dentro de los veinte días siguientes a la fecha de su publicación, en el Registro Público de la Propiedad y, una vez inscritos, comenzarán a surtir efectos; y
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Los programas y planes de desarrollo urbano y la determinación de provisiones, usos, destinos y reservas que integran las zonificaciones de los centros de población, así como los dictámenes o certificaciones que se expidan con fundamento en los mismos, tendrán vigencia indefinida, en tanto no se modifiquen o cancelen los programas y planes de desarrollo urbano de los cuales se deriven.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 85.
 
-De cada programa o plan de desarrollo urbano, el Ejecutivo Estatal y el Presidente Municipal, según corresponda, remitirá copias al Congreso del Estado y a la Procuraduría de Desarrollo Urbano.
+De cada programa o plan de desarrollo urbano, el Ejecutivo Estatal y el Presidente Municipal, según corresponda, remitirá copias al Congreso del Estado, a la Secretaría del Medio Ambiente y Desarrollo Territorial y a la Procuraduría de Desarrollo Urbano.
+
+La Secretaría de Medio Ambiente y Desarrollo Territorial y la Procuraduría emitirán recomendaciones al Ejecutivo Estatal o al Presidente Municipal, según corresponda, cuando detecte que los planes y programas no han cumplido con las disposiciones contenidas en el presente Código.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 86.
 
-Los planes y programas de desarrollo urbano así como, los proyectos definitivos de urbanización que modifiquen el uso de suelo deberán someterse a evaluación en materia de impacto ambiental de forma previa a su autorización, para el fortalecimiento de la sustentabilidad del desarrollo urbano y contar con dictamen probatorio de su evaluación por la autoridad competente conforme a las disposiciones aplicables en materia de planeación y los ordenamientos ecológicos.
+Los planes y programas de desarrollo urbano así como, los proyectos definitivos de urbanización que modifiquen el uso de suelo, densidad o intensidad, previamente a ser aprobados, deberán someterse a evaluación en materia de impacto ambiental por la autoridad competente.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 87.
 
-Los programas y planes de desarrollo urbano se mantendrán disponibles para información y consulta del público en las oficinas en donde se lleve su registro, en la Secretaría de Medio Ambiente y Desarrollo Territorial, en la Procuraduría de Desarrollo Urbano y en las dependencias municipales que designen los ayuntamientos.
+Los programas y planes de desarrollo urbano, se mantendrán disponibles para información y consulta del público en las oficinas en donde se lleve su registro, en la Secretaría de Medio Ambiente y Desarrollo Territorial, en la Procuraduría de Desarrollo Urbano, en la Dependencia Municipal, así como en los portales de internet del Gobierno del Estado, o del ayuntamiento, en el caso de los planes y programas municipales.
 
 #### Sección Primera. Del Programa Estatal de Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 88.
 
-El programa estatal de desarrollo urbano es el documento rector de esta materia en el Estado, donde se integran el conjunto de estudios, políticas, normas técnicas, disposiciones e instrumentos tendientes a promover el desarrollo integral del asentamiento humano de la Entidad.
+El programa estatal de desarrollo urbano es el documento rector de ésta materia en el Estado, donde se integran el conjunto de estudios, políticas, normas técnicas, disposiciones e instrumentos tendientes a promover el desarrollo integral sustentable de los asentamientos humanos de la entidad, elaborado con base en los indicadores de sustentabilidad.
 
-El programa estatal de desarrollo urbano deberá ser revisado cada seis años, durante el primer año del ejercicio constitucional de la administración estatal, para valorar su actualización.
+El programa estatal de desarrollo urbano deberá ser revisado cada seis años, durante el primer año del ejercicio constitucional de la administración estatal, para valorar si existe una justificación técnica y legal para su actualización, o en su caso modificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 89.
 
-Los objetivos del programa estatal de desarrollo urbano, estarán dirigidos a promover el desarrollo urbano en los centros de población, en congruencia con el programa nacional de desarrollo urbano, siendo:
+Los objetivos del programa estatal de desarrollo urbano, estarán dirigidos a promover el desarrollo urbano sustentable de los centros de población, en congruencia con el programa nacional de desarrollo urbano, mediante:
 
 I. Las investigaciones relativas al proceso de urbanización y al desarrollo de los centros de población en la entidad;
 
@@ -1535,7 +1803,9 @@ III. Proponer la fundación de centros de población;
 
 IV. El reconocimiento y establecimiento de las áreas o regiones metropolitanas;
 
-V. La integración y aplicación de las medidas de protección de áreas naturales protegidas en las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población, para asegurar la congruencia del ordenamiento territorial con el ordenamiento ecológico de la Entidad;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. La integración y aplicación de las medidas de protección de áreas naturales protegidas y del Patrimonio Cultural del Estado, en las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población, para asegurar la congruencia del ordenamiento territorial con el ordenamiento ecológico de la Entidad;
 
 VI. La integración y aplicación de las medidas prevención y mitigación de riesgos en las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
@@ -1545,9 +1815,17 @@ VIII. La aplicación de estímulos para el desarrollo de zonas prioritarias;
 
 IX. La promoción de la participación solidaria de los distintos grupos que integran las comunidades en la promoción del desarrollo urbano;
 
-X. La realización de programas de obra pública que satisfagan las necesidades prioritarias y optimicen la relación costo-beneficio, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XI. La inversión en programas coordinados con la Federación y los municipios, con recursos federales, municipales o mixtos.
+X. La realización de programas de obra pública que satisfagan las necesidades prioritarias y optimicen la relación costo-beneficio;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XI. La inversión en programas coordinados con la federación y los municipios, con recursos federales, municipales o mixtos; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XII. El apego a los Indicadores de Sustentabilidad.
 
 ###### Artículo 90.
 
@@ -1555,7 +1833,9 @@ El Programa Estatal de Desarrollo Urbano, en términos generales deberá contene
 
 I. El diagnóstico de la situación del desarrollo estatal en relación con el nacional y, en especial, con la región occidente del país;
 
-II. Los requerimientos que planteen los aspectos demográficos, sociales, culturales, económicos, políticos y administrativos de la Entidad;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Los requerimientos que planteen los aspectos demográficos, sociales, históricos, culturales, económicos, políticos y administrativos de la entidad;
 
 III. La estructuración regional del territorio estatal;
 
@@ -1573,23 +1853,25 @@ VIII. Las estrategias, los planteamientos de las mismas, así como todos los dem
 
 IX. Los convenios y acciones de inversión pública federal, estatal y municipal;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
-
 X. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del programa estatal;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XI. La implementación de infraestructura para espacios destinados a ciclovías; y
+XI. La implementación de infraestructura para espacios destinados a ciclovías, ciclopuertos, y sistemas de movilidad para personas con discapacidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XII. Las medidas de protección de los bienes inmuebles considerados Patrimonio Cultural del Estado.
+XII. Las medidas de protección de los bienes inmuebles considerados Patrimonio Cultural del Estado; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Los objetivos específicos para lograr el desarrollo sustentable del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 91.
 
-El proyecto de Programa Estatal de Desarrollo Urbano será formulado por la Secretaría de Medio Ambiente y Desarrollo Territorial con la coadyuvancia de la Secretaría de Infraestructura y Obra Pública, a partir de las opiniones vertidas en foros con los sectores organizados de la sociedad para efecto de recoger sus inquietudes y demandas con el fin de integrarla al diagnóstico, así como de los estudios e investigaciones que realice; de las propuestas que hagan las dependencias y entes públicos de ese sector de la administración pública estatal; de las recomendaciones que presente el Consejo Estatal de Desarrollo Urbano y la Procuraduría de Desarrollo Urbano; de las propuestas que formulen los gobiernos municipales y las comisiones de áreas metropolitanas y de la evaluación que se realice del mismo programa.
+El proyecto de Programa Estatal de Desarrollo Urbano será formulado por la Secretaría de Medio Ambiente y Desarrollo Territorial con la coadyuvancia de la Secretaría de Infraestructura y Obra Pública, a partir de las opiniones vertidas en foros de consulta pública con los sectores organizados de la sociedad para efecto de recoger sus inquietudes y demandas con el fin de integrarla al diagnóstico, así como de los estudios e investigaciones que realice; de las propuestas que hagan las dependencias y entes públicos de ese sector de la administración pública estatal; de las recomendaciones que presente el Consejo Estatal de Desarrollo Urbano y la Procuraduría de Desarrollo Urbano; de las propuestas que formulen los gobiernos municipales y las comisiones de áreas metropolitanas y de la evaluación que se realice del mismo programa
 
 La elaboración del Programa Estatal de Desarrollo Urbano, se sujetará a los procedimientos generales de la legislación aplicable en materia de planeación, así como a las disposiciones del presente Código.
 
@@ -1599,11 +1881,13 @@ La consulta pública para expedir o actualizar el Programa Estatal de Desarrollo
 
 I. Se convocará y desarrollará por el Consejo Estatal de Desarrollo Urbano;
 
-II. El Consejo Estatal al someter a consulta pública el proyecto de Programa Estatal de Desarrollo Urbano o su actualización, establecerá un término no menor de un mes, para recibir por escrito los comentarios y aportaciones que consideren oportuno formular las personas, instituciones y los distintos grupos que integran la comunidad, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+II. El Consejo, al someter a consulta pública el proyecto de Programa Estatal de Desarrollo Urbano o su actualización, establecerá un término no menor de un mes, y no mayor de tres meses, para recibir por escrito los comentarios y aportaciones que consideren oportuno formular las personas, instituciones y los distintos grupos que integran la comunidad; y
 
-III. Los comentarios y aportaciones de la consulta serán analizados. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Secretaría de Medio Ambiente y Desarrollo Territorial, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Los comentarios y aportaciones de la consulta serán analizados por el Consejo, mismo que fundamentará las respuestas a los planteamientos improcedentes y las modificaciones al proyecto, atendiendo a criterios (sic) promuevan el desarrollo urbano sustentable. El análisis elaborado por el Consejo estará a consulta de los interesados en las oficinas de la Secretaría de Medio Ambiente y Desarrollo Territorial, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1613,17 +1897,21 @@ Una vez elaborado el proyecto del Programa Estatal de Desarrollo Urbano, la Secr
 
 #### Sección Segunda. Del Programa Municipal de Desarrollo Urbano
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 94.
 
-El programa municipal de desarrollo urbano es el documento rector que integra el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones, encaminadas a ordenar y regular el territorio de cada municipio, mediante la determinación de los usos, destinos y reservas de áreas y predios, para la conservación, mejoramiento y crecimiento de los mismos.
+El programa municipal de desarrollo urbano es el documento rector que integra el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones, encaminadas a planear, ordenar y regular el territorio de cada municipio, mediante la determinación de los usos, destinos y reservas de áreas y predios, para la conservación, mejoramiento y crecimiento sustentable de los mismos
 
-El programa municipal de desarrollo urbano tiene por objeto establecer las directrices, lineamientos y normas conforme a las cuales las diversas personas y grupos que integran la población, participarán en el proceso de urbanización y de desarrollo sustentable.
+El programa municipal de desarrollo urbano tiene por objeto establecer las directrices, lineamientos y normas conforme a las cuales las personas y los grupos sociales que integran la población, participarán en el proceso de planeación para la urbanización y el desarrollo sustentable.
 
-El programa municipal de desarrollo urbano deberá ser revisado cada tres años, durante el primer año del ejercicio constitucional del ayuntamiento para valorar su actualización.
+El programa municipal de desarrollo urbano se elaborará con visión a largo plazo, debiendo ser revisado durante el primer año del ejercicio constitucional del ayuntamiento para valorar si existe una justificación técnica y legal para su actualización, o en su caso modificación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 95.
 
-El programa municipal de desarrollo urbano, cuando así lo disponga el ayuntamiento, conforme a la extensión de su territorio y las necesidades de ordenamiento y planeación para su desarrollo sustentable, podrá integrar los objetivos, y elementos de:
+El programa municipal de desarrollo urbano, cuando así lo disponga el ayuntamiento, conforme a la extensión de su territorio y las necesidades de ordenamiento y planeación para su desarrollo sustentable, deberá integrar los objetivos, y elementos de:
 
 I. Los planes de desarrollo urbano de los centros de población y;
 
@@ -1633,7 +1921,9 @@ II. Los planes parciales de desarrollo urbano.
 
 El programa municipal de desarrollo urbano tiene como objetivos:
 
-I. Regular y ordenar los asentamientos humanos con la finalidad de mejorar el nivel de vida de la población, mediante la optimización del uso y destino del suelo;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. Regular y ordenar los asentamientos humanos con la finalidad de mejorar la calidad de vida de la población, mediante la optimización del uso y destino del suelo;
 
 II. Vincular los ordenamientos ecológicos y territoriales;
 
@@ -1641,13 +1931,31 @@ III. Distribuir equitativamente las cargas y beneficios del desarrollo urbano de
 
 IV. Preservar y acrecentar los recursos naturales, a fin de conservar el equilibrio ecológico;
 
-V. Facilitar la comunicación y los desplazamientos de la población, promoviendo la integración de un sistema eficiente de comunicación y transporte interurbano;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. Promover la movilidad urbana sustentable, a fin de facilitar la comunicación y favorecer la accesibilidad de las personas con discapacidad, promoviendo sistemas de movilidad no motorizada, así como los transportes colectivos, interurbanos, metropolitanos y regionales, en su caso.
 
 VI. Prever la organización y el desarrollo de la infraestructura básica para el desarrollo de los centros de población;
 
 VII. Constituir reservas territoriales para el desarrollo urbano y la vivienda, y
 
-VIII. Prevenir, controlar y atender los riesgos y contingencias ambientales y urbanos en los centros de población.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Prevenir, controlar y atender los riesgos y contingencias ambientales y urbanos, en el territorio municipal y en los centros de población;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IX. La planeación integral del territorio municipal y su ordenamiento, con apego a los Indicadores de Sustentabilidad;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+X. Preservar el patrimonio cultural del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XI. Facilitar la generación de proyectos sustentables, que propongan la utilización de energías renovables.
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2015, PÁGINA 35.</small>
 
 ###### Artículo 97.
 
@@ -1655,7 +1963,9 @@ El programa municipal de desarrollo urbano, comprenderá:
 
 I. El análisis de su congruencia con el programa estatal de desarrollo urbano, como también con otros planes y programas que se hayan expedido a nivel estatal y regional;
 
-II. Los requerimientos que planteen los aspectos demográficos, sociales, culturales, económicos, políticos y administrativos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Los requerimientos que planteen los aspectos demográficos, sociales, históricos, culturales, económicos, políticos y administrativos;
 
 III. El estudio de las condiciones geofísicas, ecológicas y ambientales en los centros de población y de las medidas para su conservación y mejoramiento;
 
@@ -1663,7 +1973,9 @@ IV. El establecimiento de las funciones de servicios en los centros de població
 
 V. El estudio de los procesos de metropolización entre centros de población de un mismo municipio y las propuestas para su control y ordenamiento;
 
-VI. El estudio de los sistemas de comunicaciones y transporte;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. El estudio de los sistemas de movilidad en el Estado, que incluyan los desplazamientos de las personas que padezcan alguna discapacidad y de los vehículos no motorizados;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -1673,13 +1985,11 @@ VII. Los programas, estrategias y proyectos de inversión y ejecución;
 
 VIII. El establecimiento de indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan;
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-IX. La implementación de infraestructura para espacios destinados a ciclovías; y
+IX. La implementación de infraestructura para espacios destinados a ciclovías y ciclopuertos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2014)</small>
-
-X. Las medidas de protección de los bienes inmuebles considerados Patrimonio Cultural del Estado.
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE NOVIEMBRE DE 2015, PÁGINAS 35 A 36.</small>
 
 ###### Artículo 98.
 
@@ -1687,21 +1997,29 @@ Para elaborar y aprobar el programa municipal de desarrollo urbano, se seguirá 
 
 I. El Ayuntamiento aprobará que se elabore el proyecto de programa o se revise el programa vigente;
 
-II. Para elaborar el proyecto de programa, la Dependencia Municipal realizará foros de opinión con los sectores organizados de la sociedad, a fin de recoger sus propuestas y demandas e integrarlas al diagnóstico y a la evaluación del programa vigente. Formulado el proyecto de programa por la Dependencia Municipal, será presentado en sesión del Ayuntamiento, donde se acordará someterlo a consulta pública;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-III. El Ayuntamiento por medio de su comisión en materia de planeación socioeconómica, urbanización y edificación convocarán y coordinarán la consulta pública, a fin de promover la participación de los distintos grupos sociales que integran la comunidad;
+II. La Dependencia Municipal elaborará el Proyecto de Programa a partir de las opiniones vertidas en foros de consulta pública en los que participen los sectores organizados de la sociedad, a fin de recoger sus propuestas y demandas e integrarlas al diagnóstico y a la evaluación del programa vigente.
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-IV. El proyecto se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo se enviará copia a la Secretaría de Medio Ambiente y Desarrollo Territorial y a la Procuraduría de Desarrollo Urbano y se facilitarán a las personas, instituciones y asociaciones de todos los sectores que lo requieran, quienes dispondrán de un mes contado a partir de la fecha cuando se publique la convocatoria, para formular por escrito los comentarios, críticas y proposiciones concretas que consideren oportunos; de abstenerse se entenderá que no hay comentarios que presentar por parte de estas dependencias, institución o asociación, respecto del mismo;
+III. El Consejo Municipal de Desarrollo Urbano convocará y coordinará la consulta pública a que hace referencia la fracción anterior, a fin de promover la participación de los distintos grupos sociales que integran la comunidad; para tal efecto, el Consejo señalará un término no menor de un mes y no mayor de tres meses para recibir por escrito los comentarios, críticas y proposiciones concretas que consideren oportuno formular los miembros de la comunidad;
 
-V. Cumplidas las consultas a que se refiere la fracción anterior, se procederá a revisar el proyecto para considerar las opiniones recibidas;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-VI. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Dependencia Municipal, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días;
+IV. La convocatoria del Consejo se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo, se informará a la Secretaría de Medio Ambiente y Desarrollo Territorial y a la Procuraduría de Desarrollo Urbano;
 
-VII. El proyecto ya ajustado y su reglamentación, se someterá a dictamen de las comisiones del Ayuntamiento relacionadas con la planeación, infraestructura y servicios públicos en los centros de población, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Una vez que se dictamine el proyecto de programa, será presentado en sesión del Ayuntamiento para su aprobación.
+V. Una vez cumplido el término de la convocatoria, el Consejo Municipal de Desarrollo Urbano, en coadyuvancia con la Dependencia Municipal, analizarán las opiniones recibidas y fundamentarán las respuestas a los planteamientos improcedentes y las modificaciones al proyecto, atendiendo a criterios que promuevan el desarrollo urbano sustentable. El análisis elaborado estará a consulta de los interesados en las oficinas de la Dependencia Municipal, en los términos que se fijen en la convocatoria, durante un plazo no menor a quince días;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. El proyecto ya ajustado y su reglamentación, se someterá a dictamen de las comisiones del Ayuntamiento relacionadas con la planeación, infraestructura y servicios públicos en los centros de población; y
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. Una vez que se dictamine el proyecto de programa, será presentado en sesión del Ayuntamiento para su aprobación, modificación o rechazo.
 
 ###### Artículo 99.
 
@@ -1713,11 +2031,19 @@ El programa municipal de desarrollo urbano será publicado por el Ayuntamiento y
 
 La presente sección establece las bases de la planeación metropolitana inherentes al desarrollo urbano de las áreas y regiones metropolitanas del estado de Jalisco. Los programas y los planes a los que se refiere el presente Capítulo integrarán el conjunto de políticas, disposiciones y acciones para dar cumplimiento a lo dispuesto en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos en relación a la ordenación del territorio, asentamientos humanos y desarrollo urbano así como a lo dispuesto por el artículo 81, 81 bis y 87 de la Constitución Política del Estado de Jalisco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
 ###### Artículo 101.
 
-Para los efectos de este Capítulo se entenderá por planeación metropolitana, la planificación, proyección, organización, y programación del crecimiento y desarrollo de las áreas y regiones metropolitanas, con la finalidad de orientar en beneficio de sus habitantes el proceso de desarrollo.
+Para los efectos de este Capítulo se entenderá por planeación metropolitana, la planificación, proyección, organización, y programación del crecimiento y desarrollo de las áreas y regiones metropolitanas, con la finalidad de mejorar la calidad de vida de sus habitantes y orientar en su beneficio el proceso de desarrollo.
 
-Los instrumentos de planeación metropolitana establecidos en el presente capítulo deberán guardar congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, así como con los diferentes instrumentos de planeación contemplados en este Código. Los Instrumentos de Planeación Metropolitana serán un referente obligado que orientarán los procesos de definición de políticas urbanas y de planeación municipal en materia de desarrollo urbano de aquellos municipios que formen parte de un área o región metropolitana.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+Los instrumentos de planeación metropolitana establecidos en el presente capítulo deberán guardar congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, y los diferentes instrumentos de planeación contemplados en este Código, así como ser elaborados con base en los indicadores de sustentabilidad.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE 2015)</small>
+
+Los Instrumentos de Planeación Metropolitana serán un referente obligado que orientarán los procesos de definición de políticas urbanas y de planeación municipal en materia de desarrollo urbano de aquellos municipios que formen parte de un área o región metropolitana.
 
 Los instrumentos de planeación metropolitana serán aprobados por los ayuntamientos correspondientes.
 
@@ -1725,7 +2051,9 @@ Los instrumentos de planeación metropolitana serán aprobados por los ayuntamie
 
 Los instrumentos de planeación metropolitana contemplados en la presente sección son los siguientes:
 
-I. Programas de Desarrollo Metropolitano, que se aplicarán en las áreas y regiones metropolitanas, que contemplará un diagnóstico integral de las metrópolis en cuestión, así como la definición de los objetivos y metas para la política metropolitana, en al menos las siguientes materias:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. Los Programas de Desarrollo Metropolitano, que se aplicarán en las áreas y regiones metropolitanas y que contemplará un diagnóstico integral de las metrópolis en cuestión, así como la definición de los objetivos y metas para la política metropolitana, en al menos, las siguientes materias:
 
 a) Estructura Socio-Económica
 
@@ -1735,15 +2063,23 @@ c) Medio Ambiente
 
 d) Servicios Públicos
 
-e) Infraestructura Urbana
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-f) Movilidad Urbana
+f) Movilidad Urbana;
 
-g) Mapa de Riesgos
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2011)</small>
+g) Mapa de Riesgos; y
 
-II. Planes de Ordenamiento Territorial Metropolitano, que se aplicarán en las áreas metropolitanas correspondientes, y que contemplarán la estrategia de implementación de la política de ordenamiento territorial. En estos planes se definirán, cuando menos, la zonificación primaria y la estructura urbana de las áreas metropolitanas, que servirá de referencia obligada para la elaboración de los planes básicos de desarrollo urbano, y se hará la determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento, así como de la preservación y equilibrio ecológico del centro de población metropolitano y de infraestructura, equipamiento y servicios urbanos que procurarán adoptarse en los programas municipales y planes básicos de desarrollo urbano.
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+h) Protección del Patrimonio Cultural.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Los Planes de Ordenamiento Territorial Metropolitano, que se aplicará (sic) en las Áreas Metropolitanas correspondientes, y que contemplarán la estrategia de implementación de la política de ordenamiento territorial. En estos planes se definirá, cuando menos, la zonificación primaria y la estructura urbana de las áreas metropolitanas, que servirá de referencia obligada para la elaboración de los planes básicos de desarrollo urbano, y se hará la determinación básica de espacios dedicados a la conservación, mejoramiento y crecimiento, así como de la preservación y equilibrio ecológico del centro de población metropolitano y de infraestructura, equipamiento y servicios urbanos que procurarán adoptarse en los programas municipales y planes básicos de desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
 Adicionalmente, existirán los planes sectoriales metropolitanos que establecerán el diagnóstico, los objetivos y las estrategias gubernamentales para cada uno de los temas que aborden los Programas de Desarrollo Metropolitano. Estos planes estarán regulados por la Ley en la materia.
 
@@ -1759,19 +2095,19 @@ Adicionalmente, existirán los planes sectoriales metropolitanos que establecer�
 
 (DEROGADO, P.O. 3 DE FEBRERO DE 2011)
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 106.
 
 Las bases generales del procedimiento para la elaboración y aprobación de los programas y planes metropolitanos será el siguiente:
 
-I. El instituto metropolitano de planeación que corresponda, con la información entregada por la instancia de coordinación política, procederá a elaborar los proyectos de programas y planes metropolitanos. Durante este proceso, el Instituto deberá de mantener una comunicación permanente con los municipios involucrados para garantizar que sus opiniones sean valoradas adecuadamente en el proceso de formulación;
+I. El Instituto Metropolitano de Planeación que corresponda, con la información entregada por la Junta de Coordinación Política, procederá a elaborar los proyectos de programas y planes metropolitanos. Durante este proceso, el Instituto deberá de mantener una comunicación permanente con los municipios involucrados para garantizar que sus opiniones sean valoradas adecuadamente en el proceso de formulación;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2011)</small>
+II. Una vez elaborados los proyectos, éstos serán entregados por el Instituto a la Junta de Coordinación Política para su consulta pública y su envío al Consejo Ciudadano Metropolitano correspondiente, para su revisión y opinión;
 
-II. Una vez elaborados los proyectos, éstos serán entregados por el Instituto a la instancia de coordinación política para su consulta pública y su envío a la instancia consultiva y de participación ciudadana, para que posteriormente la instancia de coordinación política proceda a su estudio y aprobación con o sin modificaciones, tomando en cuenta la consulta popular y las observaciones y propuestas de la instancia consultiva y de participación ciudadana, y
+III. El Instituto remitirá a la Junta los proyectos y la opinión del Consejo, para que ésta proceda a su estudio y aprobación con o sin modificaciones; y
 
-III. Una vez acordados los programas y planes en la Instancia de coordinación, estos se pondrán a consideración del Pleno del Ayuntamiento respectivo por conducto del Presidente Municipal. En caso de ser aprobados por la totalidad de los municipios involucrados, se procederá a su publicación o registro. Si algún municipio no los aprobara se procederá conforme lo establezca la ley en materia de metropolización.
-
-Para la elaboración y aprobación de los programas y planes metropolitanos se estará adicionalmente a lo previsto en las disposiciones legales y reglamentarias aplicables.
+IV. Una vez acordados los programas y planes en la Instancia de coordinación, estos se pondrán a consideración del Pleno de cada Ayuntamiento que forme parte del área o región, por conducto del Presidente Municipal. En caso de ser aprobados por la totalidad de los municipios involucrados, se procederá a su publicación o registro. Si algún municipio no los aprobara se procederá conforme lo establezca la Ley de Coordinación Metropolitana.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
@@ -1785,7 +2121,9 @@ Los programas de desarrollo metropolitanos y los planes de ordenamiento territor
 
 El Plan Regional de Integración Urbana es el conjunto de estudios, acciones e instrumentos para promover y orientar el desarrollo urbano sustentable de los centros de población y las áreas de influencia común que los delimitan, en la totalidad o parte del territorio de dos o más municipios.
 
-El Plan Regional de Integración Urbana se expide para promover la acción coordinada de varios gobiernos municipales de la Entidad, en acciones prioritarias y estratégicas relacionadas con su desarrollo, vinculando los ordenamientos ecológico y territorial.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+El Plan Regional de Integración Urbana se expide para promover la acción coordinada de varios gobiernos municipales de la entidad, en acciones prioritarias y estratégicas relacionadas con su desarrollo, guardando congruencia con los diferentes instrumentos de planeación contemplados en este Código.
 
 El Plan Regional de Integración Urbana deberá ser revisado cada seis años, durante del (sic) primer año del ejercicio constitucional de la administración estatal, para valorar su actualización.
 
@@ -1795,7 +2133,9 @@ Los objetivos del Plan Regional de Integración Urbana, referidos a la región q
 
 I. Promover la acción coordinada de varios gobiernos municipales de la Entidad, en acciones prioritarias y estratégicas relacionadas con su desarrollo;
 
-II. Vincular los ordenamientos ecológico y territorial;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Orientar un desarrollo urbano que contemple los contenidos de los programas de ordenamiento ecológico y territorial.
 
 III. Distribuir equitativamente las cargas y beneficios de la urbanización en los centros de población;
 
@@ -1803,7 +2143,9 @@ IV. Preservar y acrecentar los recursos naturales, a fin de mantener el equilibr
 
 V. Conservar y mejorar el Patrimonio Cultural;
 
-VI. Identificar los distintos potenciales de utilización del suelo e inducir su aprovechamiento, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. Identificar los distintos potenciales de utilización del suelo e inducir su aprovechamiento; e
 
 VII. Inducir el mejoramiento y crecimiento de la infraestructura interurbana en la región.
 
@@ -1817,11 +2159,15 @@ II. La definición de sus objetivos y metas;
 
 III. El análisis de las condiciones ambientales, socioeconómicas, del medio físico transformado y de riesgos;
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 IV. La propuesta para el ordenamiento y regulación del territorio y los centros de población comprendidos en su territorio, que en su caso incluya:
 
 a) El sistema jerarquizado de los centros de población y zonas preferentes de desarrollo;
 
-b) El esquema de ordenamiento territorial, congruente con el ordenamiento ecológico;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+b) El esquema de ordenamiento territorial, congruente con los programas de ordenamiento ecológico local y regional;
 
 c) La determinación de las obras de infraestructura básica y de instalaciones y equipamiento regionales;
 
@@ -1843,11 +2189,11 @@ V. La instrumentación técnica, administrativa y jurídica.
 
 Para integrar el ordenamiento territorial de la región, se aplicarán las normas referidas por este Código. Asimismo podrán estipularse criterios específicos aplicables a las áreas y predios localizados en el territorio regional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 111.
 
-La Secretaría de Medio Ambiente y Desarrollo Territorial someterá el proyecto de Plan Regional de Integración Urbana a consideración del consejo regional correspondiente y de los ayuntamientos comprendidos en su región, a fin de que expresen sus opiniones en el término de un mes a partir de la fecha en que reciban el documento.
+La Secretaría de Medio Ambiente y Desarrollo Territorial someterá el proyecto de Plan Regional de Integración Urbana a consideración del Consejo Regional de Desarrollo Urbano correspondiente y de los ayuntamientos comprendidos en su región, a fin de que expresen sus opiniones en el término de un mes a partir de la fecha en que reciban el documento.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -1861,9 +2207,11 @@ Aprobado el Plan Regional de Integración Urbana y el convenio de coordinación 
 
 Para la ejecución y cumplimiento del Plan Regional se aplicarán los convenios de coordinación respectivos, con la participación del consejo regional correspondiente.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 113.
 
-Los Ordenamientos Ecológicos Regionales del Estado, estarán previstos y regulados por la legislación en materia de equilibrio ecológico y protección al ambiente.
+Los Programas de Ordenamiento Ecológico Regionales del Estado y los Programas de Ordenamiento Ecológico Locales, estarán previstos y regulados por la legislación en materia de equilibrio ecológico y protección al medio ambiente.
 
 #### Sección Quinta. Del Plan de Desarrollo Urbano de Centro de Población
 
@@ -1871,7 +2219,9 @@ Los Ordenamientos Ecológicos Regionales del Estado, estarán previstos y regula
 
 El plan de desarrollo urbano de centro de población es el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones, en congruencia con el programa municipal, referidas a un centro de población determinado, tendientes a promover el desarrollo sustentable de su territorio.
 
-El plan de desarrollo urbano de centro de población deberá ser revisado cada tres años, durante el primer año del ejercicio constitucional del ayuntamiento para valorar su actualización.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+El plan de desarrollo urbano de centro de población se elaborará con visión a largo plazo, debiendo ser revisado durante el primer año del ejercicio constitucional del ayuntamiento para valorar si existe una justificación técnica y legal para su actualización, o en su caso modificación.
 
 ###### Artículo 115.
 
@@ -1879,7 +2229,9 @@ Son objetivos del plan de desarrollo urbano de centro de población:
 
 I. La investigación relativa al proceso de urbanización y desarrollo del centro de población;
 
-II. Adecuar la distribución de la población y de las actividades económicas, de acuerdo a las condiciones de su territorio;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Adecuar la distribución de la población y de las actividades económicas, de acuerdo a las condiciones de su localidad;
 
 III Alentar la radicación de la población en su medio, mejorando las condiciones de su hábitat;
 
@@ -1897,7 +2249,9 @@ IX. Procurar que el centro de población mantenga o desarrolle de manera integra
 
 X. Distribuir adecuadamente las acciones urbanísticas para el óptimo funcionamiento del centro de población;
 
-XI. Facilitar la comunicación y los desplazamientos de la población, promoviendo la integración de un sistema eficiente de movilidad vialidad, otorgando preferencia a los sistemas colectivos de transporte;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XI. Facilitar la comunicación y los desplazamientos de la población promoviendo la integración de un sistema eficiente de movilidad urbana sustentable, con prioridad en los sistemas colectivos de transporte y al transporte no motorizado;
 
 XII. El desarrollo de la infraestructura básica del centro de población;
 
@@ -1911,23 +2265,25 @@ XV. Todos aquellos que permitan orientar el desarrollo del centro de población 
 
 Para expedir y revisar el plan de desarrollo urbano de centro de población, se seguirá procedimiento establecido en los artículos 98 y 99 de este Código, verificando además la congruencia del plan con el programa municipal de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 117.
 
-El plan de desarrollo urbano de centro de población se fundamentará en los estudios técnicos que permitan integrar en él, los siguientes aspectos:
+El plan de desarrollo urbano de los centros de población, se elaborará con los estudios técnicos necesarios para garantizar que cuente con:
 
-I. Establecer la congruencia con el programa estatal de desarrollo urbano, el programa municipal y los planes regionales que correspondan;
+I. La congruencia con el programa estatal de desarrollo urbano, el programa municipal y los planes regionales que correspondan;
 
-II. Determinar el área de aplicación;
+II. La determinación del área de aplicación;
 
-III. Determinar sus objetivos y metas;
+III. La determinación de sus objetivos y metas;
 
-IV. Tomar en cuenta las características ecológicas, socioeconómicas y del medio físico transformado;
+IV. La consideración de las características ecológicas, medio ambientales, socioeconómicas y del medio físico transformado;
 
-V. Considerar los criterios derivados de los estudios de impacto ambiental y riesgos;
+V. Los criterios derivados de los estudios de impacto ambiental y riesgos;
 
-VI. Presentar propuestas para el ordenamiento y regulación del centro de población que comprenda el esquema de estructuración territorial que establezca los usos, destinos y reservas de áreas y predios; el sistema de vialidad y transportación urbana, el equipamiento urbano y la infraestructura básica, y
+VI. Propuestas para el ordenamiento, mejoramiento y regulación del centro de población que comprenda el esquema de estructuración territorial que establezca los usos, destinos de la tierra y las reservas territoriales; el sistema de movilidad; las Zonas de Protección patrimonial; y el equipamiento urbano y la infraestructura básica, y;
 
-VII. Diseñar y proponer los indicadores a fin de dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan.
+VII. Los indicadores necesarios para dar seguimiento y evaluar la aplicación y cumplimiento de los objetivos del plan.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2011)</small>
 
@@ -1979,6 +2335,14 @@ VII. Su objeto principal será el precisar las normas de zonificación, cuando p
 
 VIII. Indicará las acciones de conservación, mejoramiento y crecimiento, en función del ordenamiento territorial, sin implicar la autorización de las mismas.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Los convenios que se celebren entre asociaciones y Ayuntamientos para la determinación de acciones en el polígono de desarrollo controlado deberán contener al menos su objeto, el límite territorial del polígono, la duración del convenio, y los compromisos de cada una de las partes.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Los planes parciales de desarrollo, también deberán ser publicados por medios electrónicos.
+
 ###### Artículo 122.
 
 El plan parcial de desarrollo urbano se integrará con los siguientes elementos:
@@ -2007,7 +2371,17 @@ XI. Las obligaciones y responsabilidades de los propietarios de predios y fincas
 
 XII. La indicación de los medios de defensa, las autoridades ante quienes pueden ejercerse y los plazos para que las asociaciones de vecinos, los habitantes o los propietarios de predios o fincas de la zona que resulten afectados, presenten sus inconformidades, y
 
-XIII. En general, las medidas e instrumentos para la ejecución de los programas y planes.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Los riesgos para la zona de aplicación, que establezca el Atlas de Riesgo expedido en términos de la legislación de la materia;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIV. El estudio que considere la movilidad urbana sustentable;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XV. En general, las medidas e instrumentos para la ejecución de los programas y planes.
 
 ###### Artículo 123.
 
@@ -2051,9 +2425,11 @@ V. Las bases de los acuerdos de concertación con los propietarios de predios y 
 
 VI. En su caso, la integración de la asociación para la conservación y mejoramiento de dichos sitios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 126.
 
-En caso de que los propietarios o poseedores a título de dueño no cumplan con las obligaciones derivadas del contenido de los planes a que se refiere el artículo anterior, las autoridades responsables de ejecutar las acciones previstas en los planes correspondientes, procederán a requerirlos mediante notificación personal, señalándoles un plazo apropiado en que deberán darles cumplimiento, no menor de quince días.
+En caso de que los propietarios o poseedores a título de dueño, no cumplan con las obligaciones derivadas del contenido de los planes a que se refiere el artículo 124, las autoridades responsables de ejecutar las acciones previstas en los planes correspondientes, procederán a requerirlos mediante notificación personal, señalándoles un plazo apropiado en que deberán darles cumplimiento, no menor de quince días.
 
 Transcurrido el plazo, sin que los propietarios o poseedores a título de dueño den cumplimiento a sus obligaciones, se procederá a ejercer las acciones previstas en los planes y convenios correspondientes, por parte de la autoridad responsable de su ejecución.
 
@@ -2062,6 +2438,10 @@ Transcurrido el plazo, sin que los propietarios o poseedores a título de dueño
 ###### Artículo 127.
 
 Los programas y planes que sean aprobados y publicados, serán obligatorios para las autoridades, los organismos descentralizados o paraestatales, los organismos de participación social y consulta, los núcleos de población y en general, para toda aquella persona física o jurídica que utilice o aproveche predios y fincas.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Su inobservancia implicará las sanciones administrativas y penales que correspondan.
 
 Los planes regionales de integración urbana y los planes que regulen las áreas o regiones metropolitanas, serán las referencias y antecedentes, para los convenios de coordinación que celebren el Gobierno del Estado y los gobiernos municipales que en ellos participen.
 
@@ -2085,7 +2465,9 @@ Todas las obras y actividades consideradas en los programas y planes de desarrol
 
 I. A partir de la fecha de publicación y vigencia de un programa o plan de desarrollo urbano, las autoridades municipales o estatales sólo deberán expedir los dictámenes y certificaciones de uso del suelo y las autorizaciones, licencias o permisos de obras de urbanización y edificación, si las solicitudes están de acuerdo con el mismo;
 
-II. Los dictámenes, certificaciones, autorizaciones, licencias o permisos que se expidan contraviniendo esta disposición, serán nulos de pleno derecho, independientemente de las responsabilidades que les resulten a los servidores públicos que las expidan, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Los dictámenes, certificaciones, autorizaciones, licencias o permisos que se expidan contraviniendo esta disposición, serán nulos de pleno derecho, independientemente de las responsabilidades y sanciones administrativas que les resulten a los servidores públicos que las expidan, conforme a las responsabilidades que incurran;
 
 III. Las obras de urbanización, edificación, restauración e infraestructura que sean a cargo de las autoridades federales, estatales o municipales, se ejecutarán en los términos previstos en este Código, los programas y planes de desarrollo urbano y demás disposiciones específicas.
 
@@ -2097,17 +2479,27 @@ Las autoridades municipales correspondientes, así como las Secretarías de Infr
 
 Las visitas de verificación se realizarán conforme a las disposiciones que se indican en el Título Décimo Segundo de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 133.
 
-En caso de haber realizado construcciones, ampliaciones o reconstrucciones con o sin licencia, autorización o permiso en contravención de lo dispuesto en el programa o plan correspondiente, se procederá a demoler dicha obra, conforme a los siguientes criterios:
+En caso de haber realizado construcciones, ampliaciones o reconstrucciones con o sin licencia, autorización o permiso en contravención de lo dispuesto en el programa o plan correspondiente, se procederá a demoler dicha obra dentro de los 60 días posteriores a la notificación, conforme a los siguientes criterios:
 
-I. Si las acciones se ejecutaron sin autorización, licencia o permiso, el costo de los trabajos será a cargo de los propietarios o poseedores a título de dueño y las autoridades estatales o municipales no tendrán obligación de pagar indemnización alguna, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. Si las acciones se ejecutaron sin autorización, licencia o permiso, el costo de los trabajos será a cargo de los propietarios o poseedores a título de dueño y las autoridades estatales o municipales no tendrán obligación de pagar indemnización alguna, de no llevar a cabo la demolición dentro del tiempo señalado, la autoridad procederá con cargo a los propietarios o poseedores a título de dueño e informará de las erogaciones a la dependencia encargada de la hacienda municipal, para el efecto de que se proceda al cobro, en los términos de la Ley de Hacienda Municipal, y
 
 II. Si las acciones se ejecutaron con autorización, licencia o permiso expedido por autoridad competente, el costo de los trabajos será a cargo de la autoridad responsable y los propietarios o poseedores a titulo de dueño que acrediten que actuaron de buena fe, tendrán derecho a la indemnización sobre pago de daños.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+En el caso de la fracción I cuando se trate de no más de cincuenta metros cuadrados de reconstrucción, o ampliación en vivienda popular y no invada zona de propiedad privada, pública, servidumbres o restricciones, no será demolida la obra y solo procederá la multa.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 134.
 
-La autoridad que expida o niegue las certificaciones, dictámenes, autorizaciones, licencias o permisos, deberá de acreditar en su motivación, que sus disposiciones y determinaciones administrativas corresponden con los programas y planes de desarrollo urbano vigentes.
+La autoridad que expida o niegue las certificaciones, dictámenes, autorizaciones, licencias o permisos, deberá de acreditar en su resolución por escrito, que sus disposiciones y determinaciones administrativas corresponden con los programas y planes de desarrollo urbano vigentes.
 
 ###### Artículo 135.
 
@@ -2131,9 +2523,11 @@ De las acciones de fundación, conservación, mejoramiento y crecimiento de los 
 
 En caso de controversia administrativa o judicial, corresponderá a la autoridad la obligación de probar la vigencia, validez y efectos de las disposiciones y determinaciones del programa o plan de desarrollo urbano que se aplicó.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 138.
 
-Los programas y planes municipales de desarrollo urbano y los que ordenen y regulen las áreas o regiones metropolitanas, deberán ser revisados por las autoridades responsables de formularlos y aprobarlos, por lo menos cada tres años, durante el primer año del ejercicio constitucional de los ayuntamientos, para decidir si procede o no su actualización.
+Los programas y planes municipales de desarrollo urbano y los que ordenen y regulen las áreas o regiones metropolitanas se elaborará (sic) con visión a largo plazo, debiendo ser revisados por las autoridades responsables de formularlos y aprobarlos, por lo menos cada tres años, durante el primer año del ejercicio constitucional de los ayuntamientos, para decidir si existe una justificación técnica y legal para su actualización, o en su caso modificación.
 
 ###### Artículo 139.
 
@@ -2143,9 +2537,13 @@ I. Se detecten omisiones, errores o falta de congruencia en sus disposiciones;
 
 II. Se produzcan cambios en el aspecto económico que los hagan irrealizables o incosteables;
 
-III. Se presenten propuestas de los ciudadanos en base a consulta pública debidamente autorizada a razón de que las condiciones actuales de las áreas, zonas, predios o fincas requieran de innovación urbana; o
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Se presenten propuestas de los ciudadanos con base en una consulta pública debidamente autorizada a razón de que las condiciones actuales de las áreas, zonas, predios o fincas requieran de innovación urbana; o
 
 IV. Se determine la actualización del programa o plan, en forma total o en alguna de sus disposiciones, mediante sentencia definitiva y firme pronunciada en juicio substanciado ante el Tribunal de lo Administrativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 140.
 
@@ -2157,7 +2555,9 @@ a) El procedimiento se iniciará en cuanto se detecte la existencia de dichos su
 
 b) Si la omisión, error o falta de congruencia se refiere únicamente a la integración de los documentos del programa o plan, la Dependencia Municipal procederá a integrarlos correctamente y propondrá al Ayuntamiento el proyecto de acuerdo donde se apruebe su corrección, y
 
-II. Cuando en resolución definitiva del Tribunal de lo Administrativo, se determine la improcedencia de la aplicación de un programa o plan municipal de desarrollo urbano, el Ayuntamiento emitirá un acuerdo para su actualización a efecto de acreditar el cumplimiento de la sentencia, informará a la dependencia municipal y solicitará su inscripción en el Registro Público de la Propiedad.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. El Tribunal de lo Administrativo solo podrá determinar la improcedencia de la aplicación del programa o plan que tenga una vigencia mayor a seis años.
 
 ### CAPÍTULO I. De los usos y destinos del suelo
 
@@ -2175,9 +2575,11 @@ La determinación sobre provisiones de tierras tendrá los efectos legales que c
 
 Los programas municipales de desarrollo urbano, señalarán las acciones específicas para la conservación, mejoramiento y crecimiento de dichos centros ubicados en la jurisdicción territorial de cada municipio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 143.
 
-Los planes de desarrollo urbano que regulen y ordenen centros de población, considerarán áreas destinadas a la conservación:
+Los planes de desarrollo urbano que regulen y ordenen centros de población, considerarán áreas destinadas a la conservación, de acuerdo a lo siguiente:
 
 I. Las que por sus características y aptitudes naturales sean condicionantes del equilibro (sic) ecológico, como la existencia en ellas de bosques, esteros, cuerpos de agua, mantos acuíferos y otros elementos;
 
@@ -2191,11 +2593,13 @@ V. Las áreas cuyo uso pueda afectar el paisaje urbano o resulte inconveniente s
 
 La urbanización de estos espacios será restringida por los planes y programas de desarrollo urbano, conforme las normas que se indican en el artículo 150 de este Código.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 144.
 
-La promoción del desarrollo urbano atenderá en forma prioritaria a la conservación y acrecentamiento del patrimonio cultural de la entidad.
+La promoción del desarrollo urbano atenderá en forma prioritaria a la conservación y acrecentamiento del Patrimonio Cultural de la entidad.
+
+Forman parte de dicho patrimonio el descrito como tal en la Ley de la materia, así como aquello que identifica y define la fisonomía de los centros de población.
 
 ###### Artículo 145.
 
@@ -2267,7 +2671,9 @@ III. La reglamentación de los usos y destinos, y
 
 IV. Las determinaciones de las fracciones I y II que deben estar contenidas en los programas o planes municipales donde se ordenen y regulen los centros de población conforme las disposiciones de este Código.
 
-A falta de reglamentación municipal se aplicarán las disposiciones en materia de desarrollo urbano, que para tal efecto expida el Congreso del Estado en los términos del artículo 115 fracción II inciso e) de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+A falta de reglamentación municipal se aplicarán las disposiciones en materia de desarrollo urbano, que para tal efecto expida el Congreso del Estado en los términos del artículo 115 fracción II inciso e) de la Constitución Política de los Estados Unidos Mexicanos, así como los instrumentos federales y estatales de planeación aplicables.
 
 ###### Artículo 149.
 
@@ -2279,7 +2685,9 @@ II. Los programas de desarrollo urbano precisarán las zonas o predios afectadas
 
 III. Los propietarios o poseedores de inmuebles, públicos o privados, que queden afectados por destinos, sólo utilizarán los predios en forma que no presenten obstáculos al futuro aprovechamiento previsto, por lo que no podrán cambiar el uso del suelo, ni aumentar el volumen de las construcciones existentes;
 
-IV. Las autoridades estatales o municipales, gestionarán la disposición de los derechos de vía correspondientes a la infraestructura vial e hidráulica contempladas en los programas de desarrollo urbano;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Las autoridades estatales o municipales, gestionarán la disposición de los derechos de vía correspondientes a las infraestructuras para el transporte público, vial, e hidráulica contempladas en los programas de desarrollo urbano;
 
 V. Tratándose de destinos relativos a la infraestructura vial e hidráulica, los propietarios o poseedores de inmuebles, deberán además respetar los derechos de vía correspondientes y tendrán el derecho de participar en los polígonos de actuación que al efecto se establezcan para asegurar las zonas o áreas requeridas para su servicio, así como en su caso, para la ejecución de las obras necesarias para su funcionamiento, y
 
@@ -2287,9 +2695,11 @@ VI. Quienes resulten afectados por la realización de las obras a que se refiere
 
 Ante la negativa de los propietarios o poseedores de predios a permitir el aseguramiento de las zonas o áreas requeridas para su servicio, o a ejecutar las obras necesarias para su funcionamiento, procederá la ejecución, la expropiación, y en su caso, los mecanismos de derrama y aumento de valor contenidos en la Ley de Hacienda Municipal u otras acciones de derecho público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 150.
 
-Los conceptos y categorías generales para clasificar los usos y destinos del suelo y las normas técnicas a que se sujetarán los distintos tipos de áreas y zonas, se definirán en la reglamentación que en esta materia expidan los ayuntamientos, conforme a las siguientes bases generales:
+La reglamentación expedida por los ayuntamientos, que defina la clasificación y normas técnicas de los usos y destinos del suelo, se harán de conformidad con:
 
 I. Los conceptos y categorías generales para clasificar las áreas y predios;
 
@@ -2355,9 +2765,17 @@ i) Las normas de configuración urbana e imagen visual, y
 
 j) Otras normas específicas de carácter general o regional que se consideren necesarias;
 
-XII. Los criterios de diseño arquitectónico que se establezcan en relación a la clasificación de géneros relativos a los usos y destinos, para establecer las especificaciones mínimas de dimensiones, instalaciones, iluminación, ventilación y otras necesarias, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XIII. La clasificación de directores responsables que intervendrán en la elaboración del Proyecto Definitivo de Urbanización y los requisitos profesionales que deberán acreditar.
+XII. Los criterios de diseño arquitectónico que se establezcan en relación a la clasificación de géneros relativos a los usos y destinos, para establecer las especificaciones mínimas de dimensiones, instalaciones, iluminación, ventilación y otras necesarias;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIII. La clasificación de directores responsables que intervendrán en la elaboración del Proyecto Definitivo de Urbanización y los requisitos profesionales que deberán acreditar; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Los criterios de cobertura y calidad de la infraestructura vial, hidráulica, eléctrica, telecomunicaciones y disposición final de residuos, respetando el impacto al territorio y al medio ambiente.
 
 ###### Artículo 151.
 
@@ -2371,7 +2789,13 @@ III. En el caso de los destinos, la descripción del fin o aprovechamiento al qu
 
 IV. Las restricciones y normas de aprovechamiento del suelo, según la determinación de que se trate;
 
-V. Los demás datos que determine este Código.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. Las necesidades de infraestructura; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. Los demás datos que determine este Código.
 
 ###### Artículo 152.
 
@@ -2407,9 +2831,11 @@ Cuando se expida un Plan o programa de Desarrollo Urbano donde se establezca o m
 
 El Gobierno del Estado podrá celebrar con los gobiernos municipales, convenios de coordinación para definir su participación en la urbanización de las áreas y predios que se incorporen al desarrollo urbano de un centro de población.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 160.
 
-Cuando los terrenos de un ejido se encuentren ubicados en la zona de reserva de un centro de población, los núcleos de población ejidal y comunal podrán beneficiarse de la urbanización de sus tierras, promoviendo la acción urbanística privada o por asociación de interés público en los términos y bajo las condiciones establecidas en este ordenamiento.
+Los núcleos de población ejidal y comunal, que se encuentren ubicados dentro de la zona de reserva de un centro de población, podrán beneficiarse de la urbanización de sus tierras, promoviendo la acción urbanística privada o por asociación de interés público en los términos y bajo las condiciones establecidas en este ordenamiento.
 
 ### CAPÍTULO III. De las normas generales para la reglamentación de zonas
 
@@ -2419,7 +2845,9 @@ Para la aplicación de las normas y lineamientos que se establecen en el present
 
 I. En las áreas de reserva urbana se aplicarán estrictamente las normas de control de densidad de la edificación, así como las normas de control para la urbanización;
 
-II. En las áreas urbanizadas donde se pretenda llevar a cabo acciones urbanísticas prevalecerán normas de control de densidad de la edificación y de urbanización del contexto, con el objeto de conservar la imagen urbana existente; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. En las áreas urbanizadas, donde se pretenda llevar a cabo acciones urbanísticas, se recurrirá a las normas de control de densidad de la edificación y urbanización del contexto, con el objeto de conservar o mejorar la imagen urbana existente, y;
 
 III. Las acciones de renovación urbana observarán las mismas reglas de la fracción anterior.
 
@@ -2455,11 +2883,21 @@ VII. Industrial;
 
 VIII. Equipamiento Urbano o Regional;
 
-IX. Espacios verdes y abiertos, e
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-X. Instalaciones especiales y de infraestructura
+IX. Espacios verdes y abiertos,
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+X. Instalaciones especiales y de infraestructura, y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XI. Patrimonio Cultural en el Estado.
 
 ### CAPÍTULO IV. De la Transferencia de Derechos de Desarrollo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 164.
 
@@ -2501,7 +2939,9 @@ Cuando en los Planos de Zonificación los límites de zonas dividan un predio, e
 
 I. Mantener los tipos de zonas determinados;
 
-II. Elegir cualquiera de los tipos de zonas determinados siempre y cuando se trate de la misma clasificación de áreas ó se combinen áreas urbanas con reservas urbanas, debiendo sujetarse a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Elegir indistintamente, uno de los tipos de zonas determinados siempre y cuando se trate de la misma clasificación de áreas ó se combinen áreas urbanas con reservas urbanas, debiendo sujetarse a lo siguiente:
 
 a) Respetar la estructura vial determinada en el plan parcial de desarrollo urbano correspondiente,
 
@@ -2511,9 +2951,11 @@ c) En su caso que se garanticen las franjas de amortiguamiento con los usos inco
 
 ### CAPÍTULO V. De las áreas de cesión para destinos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 168.
 
-Cuando los derechos de desarrollo de un predio ubicado en áreas establecidas como generadoras de derechos de desarrollo en los planes municipales, se ven restringidos a causa de situaciones de carácter ambiental o cultural, al ser éstas de interés social, éstos podrán ser transferibles a terceros.
+Cuando los derechos de desarrollo de un predio ubicado en áreas establecidas como generadoras de derechos de desarrollo en los planes municipales, se ven restringidos a causa de situaciones de carácter ambiental o cultural, al ser éstas de interés social, éstos podrán ser transferibles a terceros. En estos casos, los Ayuntamientos podrán crear un fideicomiso que cumpla con criterios de trasparencia.
 
 Las áreas generadoras estarán sujetas a una de las siguientes clasificaciones generales:
 
@@ -2529,13 +2971,19 @@ Para poder ejercer la transferencia de derechos de desarrollo, los predios deben
 
 Las transferencias sólo serán posibles a predios de propiedad privada que estén ubicados dentro de una zona clasificada en los planes municipales como área receptora de derechos de desarrollo, los cuales se denominarán como predios receptores.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Los Ayuntamientos deberán procurar que las áreas receptoras se encuentren cerca de las áreas generadoras.
+
 ###### Artículo 171.
 
 Los predios receptores podrán incrementar su intensidad de aprovechamiento de acuerdo con la cantidad de derechos adquiridos, sujeto a un máximo establecido dentro de los planes de desarrollo urbano, debiendo cumplir así mismo, con el resto de las normas aplicables al control de uso del suelo y de la edificación, especialmente en materia de infraestructura apta para recibir la transferencia.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 172.
 
-Los derechos de desarrollo de un predio sólo podrán ser transferidos a otro predio del mismo municipio.
+Los derechos de desarrollo de un predio sólo podrán ser transferidos a otro predio del mismo municipio y preferentemente en la misma zona donde fueron generados.
 
 ###### Artículo 173.
 
@@ -2557,7 +3005,7 @@ IV. Exista un reglamento municipal que regule y controle la aplicación de las t
 
 ###### Artículo 175.
 
-Toda acción urbanística mayor, en cualquiera de los tipos de zonas, queda sujeta a la obligación de otorgar áreas de cesión para destinos.
+La urbanización del suelo y el desarrollo de condominios o conjuntos habitacionales, en cualquiera de los tipos de zonas, quedan sujetos a la obligación de otorgar áreas de cesión para destinos, mismas que se clasifican en:
 
 Las áreas de cesión para destinos se clasifican en:
 
@@ -2571,21 +3019,55 @@ Quedarán exentas de otorgar áreas de cesión las acciones urbanísticas que ya
 
 La determinación de la superficie de las áreas de cesión para equipamiento, se efectuará considerando el tipo de zona de que se trate, aplicando los siguientes porcentajes:
 
-I. Zonas habitacionales: 16 % de la superficie bruta;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. Zonas Comerciales, Industriales y de Servicios: 13 % de la superficie bruta;
+I. Zonas habitacionales: 16% de la superficie bruta, excepto en densidades mayores a 137 viviendas por hectárea, en suelo urbanizable, en cuyo caso se calculará en razón de tres metros cuadrados por habitante, considerando el promedio de ocupantes por vivienda, establecido por el Instituto Nacional de Estadística y Geografía, sin que pueda exceder del 24% de la superficie bruta;
 
-III. Zonas Turísticas: 11 % de la superficie bruta, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-IV. Zonas de Granjas y Huertos y campestres: 6% de la superficie bruta.
+II. Zonas Comerciales y de Servicios: 13 % de la superficie bruta;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Zonas Turísticas: 11 % de la superficie bruta;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Zonas Industriales: 8 % de la superficie bruta; y
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. Zonas de Granjas, Huertos y campestres: 6 % de la superficie bruta.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Para el caso de lotes mixtos, el área de cesión para equipamiento se cuantificará con el porcentaje del uso que genere más superficie de área de cesión.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Para el caso en que un mismo desarrollo proponga dos o más usos de los manifestados en este artículo, las áreas de cesión para equipamiento se cuantificarán de la siguiente manera:
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Cada lote o la suma de lotes con el mismo uso se cuantificarán por separado, de acuerdo al porcentaje correspondiente; y
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+La superficie restante, correspondiente a vialidades y lotes con usos diferentes a los manifestados en este artículo, el área de cesión para equipamiento se cuantificará con el porcentaje del uso que genere más superficie de área de cesión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 177.
 
-Cuando a juicio de la autoridad municipal las áreas de cesión a que se refiere este Capítulo no sean útiles para fines públicos, éstas podrán permutarse por otros terrenos, sujeto a las siguientes reglas:
+Cuando a juicio de la autoridad municipal, las áreas de cesión a que se refiere este Capítulo no sean útiles para fines públicos éstas podrán permutarse por otros terrenos, sujeto a las siguientes reglas:
 
-I. No podrán permutarse áreas de cesión por vialidades salvo en el caso previsto en el artículo 178 del presente Código;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. Solo podrán ser objeto de permuta parcial las áreas destinadas a áreas verdes o equipamiento, cuando no sean útiles para el Municipio;
+I. No podrán permutarse áreas de cesión para destinos por vialidades;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Solo podrán ser objeto de permuta parcial las áreas destinadas para equipamiento, cuando no sean útiles para el Municipio; la falta de utilidad deberá comprobarse en el acuerdo del ayuntamiento que autorice la permuta, la cual no podrá rebasar el 20 por ciento del área de cesión a que esté obligado el urbanizador;
 
 III. Únicamente se podrán recibir a cambio áreas que constituyan reserva territorial o para la protección ambiental de los centros de población previstas en los planes municipales aplicables;
 
@@ -2595,15 +3077,25 @@ V. El terreno que entregará el urbanizador al municipio por motivo de la permut
 
 VI. Se requerirá acuerdo del ayuntamiento para la permuta de que se trate;
 
-VII. La permuta no podrá ser mayor del 50% del área de cesión a que este obligado el urbanizador en el caso de usos habitacionales, con excepción de predios intraurbanos no mayores a 10,000 metros, cuyo porcentaje podrá ser total; en los desarrollos de otros usos, los reglamentos municipales determinaran los porcentajes aplicables, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. La permuta no podrá ser mayor del 50% del área de cesión a que este obligado el urbanizador en el caso de usos habitacionales, con excepción de predios intraurbanos no mayores a 10,000 metros, cuyo porcentaje podrá ser total; en los desarrollos de otros usos, los reglamentos municipales determinarán los porcentajes aplicables, y
 
 VIII. En ningún caso podrá hacerse pago en efectivo, únicamente procederá la permuta por suelo que permita la constitución de reservas territoriales o asegure políticas de conservación.
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IX. No podrán permutarse las áreas de cesión para destinos por predios ubicados en áreas de reserva urbana.
 
 ###### Artículo 178.
 
 Las áreas de cesión para equipamiento y cesiones para vialidad incluyendo la vialidad primaria municipal serán patrimonio municipal con carácter de dominio público, por lo que al término de toda acción urbanística para la expansión o renovación urbana, deberá de consignarse el carácter de inalienable, imprescriptible e inembargable que dichas áreas o bienes tendrán en lo sucesivo.
 
 Las vialidades primarias contempladas en los planes de desarrollo urbano de centro de población o en los planes parciales de desarrollo urbano que afecten a un predio, serán tomadas a cuenta contra las áreas de cesión para destinos las cuales se especificarán en el proyecto definitivo de urbanización.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Los predios que determine la autoridad a destinar para obras de infraestructura básica y equipamiento urbano, cuando la causa de aportarlas se generen por acciones, causas y objetivos distintos a los elementos del proyecto, serán tomadas a cuenta contra las áreas de cesión para destinos las cuales se especificarán en el proyecto definitivo de urbanización.
 
 ###### Artículo 179.
 
@@ -2613,11 +3105,11 @@ I. En áreas de expansión urbana, se aplicarán en todas aquellas urbanizacione
 
 II. En áreas de renovación urbana, se aplicarán en zonas ya urbanizadas, que se pretenda modificar cambiando la utilización del suelo o alterando la densidad de edificación existente, y que, como consecuencia, se incremente la densidad de población, demandando por tanto mayores servicios públicos, o por no contar anteriormente con ellos, en el entendido de que el equipamiento existente que corresponda al nivel de servicio requerido, contará para la dosificación respectiva.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 180.
 
-Para el cálculo de las áreas de cesión, de predios que resulten afectados por áreas de protección (playas y zonas federales) originadas por los cauces, escurrimientos, arroyos o cuerpos de agua, donde se pretenda llevar a cabo una acción urbanística.
-
-Las áreas de protección serán determinadas por la Comisión Nacional del Agua, de acuerdo a lo estipulado en el Título Primero, Artículo 3, fracción VIII y Artículo 113, fracción IV, Ley de Aguas Nacionales, una vez que sea presentada la solicitud por la autoridad municipal, o bien si la autoridad municipal lo juzga conveniente, dicha solicitud podrá ser presentada por el propietario o promotor del terreno. Para tal efecto, la Comisión Nacional de Aguas, podrá poner a disposición de quien lo solicite, la información de la creciente máxima ordinaria determinada para un cauce o vaso específico, de acuerdo a lo estipulado en el artículo 4 fracción II del Reglamento de la Ley de Aguas Nacionales, para que con ello, un perito en la materia, realice los estudios necesarios para determinar las áreas de protección y que una vez concluidos estos, los presentará para su aprobación a la Comisión Nacional del Agua.
+El cálculo de las áreas de cesión, de predios que resulten afectados por áreas de protección tales como playas y zonas federales, originadas por los cauces, escurrimientos, arroyos o cuerpos de agua, donde se pretenda llevar a cabo una acción urbanística, se realizará conforme a las disposiciones federales aplicables.
 
 ###### Artículo 181.
 
@@ -2631,11 +3123,25 @@ Para el cálculo de las áreas de cesión, de predios que resulten afectados por
 
 Las áreas de restricción serán determinadas por la instancia y organismo que las controle, de acuerdo a la legislación y normatividad vigente, una vez que sea presentada la solicitud por la autoridad municipal, o bien si la autoridad municipal lo juzga conveniente, dicha solicitud podrá ser presentada por el propietario o promotor del terreno. Para tal efecto, las instancias y organismos correspondientes podrán poner a disposición de quien lo solicite, la información necesaria, para que peritos en la materia, realicen los estudios necesarios para determinar las áreas de restricción y una vez concluidos estos, los presentarán para su aprobación a la instancia u organismo encargado.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 183.
 
-En todas las zonas a las que hace referencia el artículo 176 del presente Código, las áreas de cesión, deberán distribuirse de manera equitativa y equilibrada, considerando los niveles de servicio y su compatibilidad, así como las dimensiones mínimas para el equipamiento, señaladas en el presente Título.
+En todas las zonas a las que hace referencia el artículo 176 del presente Código, las áreas de cesión, deberán considerar los siguientes lineamientos:
 
-Las áreas destinadas para el equipamiento, en su forma de espacio construido, se utilizarán como espacios verdes, abiertos y recreativos, en tanto estos no se construyan, y su mantenimiento estará a cargo del municipio o asociación de colonos correspondiente.
+I. Los niveles de servicio y compatibilidad, así como las dimensiones mínimas para el equipamiento, señaladas en el presente Título;
+
+II. Cuando las áreas resultantes sean menores a 1,000 metros cuadrados no podrán disgregarse;
+
+III. Cuando las áreas resultantes sean mayores a 2,500 metros cuadrados, deberán de colocarse con frente a la o las vialidades de mayor jerarquía, asignándose el destino de equipamiento institucional;
+
+IV. No podrán considerarse como áreas de cesión, predios menores a 300 metros cuadrados, salvo que al aplicar los porcentajes establecidos en el artículo 176, resulte una superficie menor a estos.
+
+V. Los lotes deberán contar con características físicas apropiadas para el destino que se les asigne;
+
+VI. La pendiente topográfica del área de cesión, deberá ser adecuada para los fines relacionados con el desarrollo de la comunidad; y
+
+Las áreas destinadas para el equipamiento construido, se utilizarán como espacios verdes, abiertos y recreativos, en tanto estos no se construyan, y su mantenimiento estará a cargo del municipio o de la asociación de colonos correspondiente, previo convenio de colaboración con el ayuntamiento.
 
 ###### Artículo 184.
 
@@ -2645,9 +3151,9 @@ En las obras de urbanización que se realicen por etapas, se deberá garantizar 
 
 Las áreas de cesión deberán contar con las obras de urbanización que les permitan su inmediata operación y funcionamiento, sin lo cual el predio en cuestión no podrá obtener la declaratoria formal de suelo urbano, por parte del municipio.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-Las obras mínimas de urbanización que deben tener las áreas de cesión son las siguientes: redes de agua potable, alcantarillado y sanitario, sistema de drenaje y captación pluvial, red de electrificación y alumbrado; así también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos dispositivos de control vial como señalización semaforización, y la jardinería y mobiliario urbano necesario.
+Las obras mínimas de urbanización que deben tener las áreas de cesión son las siguientes: redes de agua potable, agua residual y sistema de manejo de agua pluvial. Red de electrificación y alumbrado público; así también, los elementos de vialidad como calles, banquetas, andadores, estacionamientos e instrumentos de control vial, tales como, balizamiento, señalética, semaforización, jardinería, y mobiliario urbano necesario.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
 
@@ -2657,15 +3163,25 @@ Las obras de edificación mínimas con que deberán contar las áreas de cesión
 
 I. Las realizadas con cargo a quien desarrolle la acción urbanística, que deberán estar habilitadas para su inmediata utilización:
 
-a) Las dedicadas a espacios verdes, abiertos y recreativos, que deberán contar con las obras de jardinería en general, pavimentos, mobiliario urbano en general y edificación necesarias para su operación, sanitarios, casetas o controles de ingreso, y otras.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+a) Las dedicadas a espacios verdes, abiertos y recreativos, que deberán contar con las obras de jardinería en general, veredas pavimentadas, mobiliario urbano en general, bancas, botes de basura, juegos infantiles, ciclopuertos, instalaciones eléctricas e hidráulicas, y edificación necesarias para su operación, sanitarios, casetas o controles de ingreso, y otras.
 
 b) Las dedicadas a la organización y administración vecinal y cultural tales como salas de reunión, oficinas de asociaciones de vecinos, casetas de vigilancia, bibliotecas y otras, que deberán contar con las edificaciones e instalaciones propias para esos efectos, a razón de un metro cuadrado de construcción por cada diez habitantes en zonas habitacionales; cien metros cuadrados de construcción por cada hectárea de superficie bruta en zonas comerciales y de servicios y, cincuenta metros cuadrados de construcción por cada hectárea de superficie bruta en zonas industriales.
 
 c) Las de infraestructura, dedicadas a la construcción de obra educativa.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Estas áreas permitirán dispositivos de control o regulación pluvial siempre y cuando no contengan en su superficie estructuras que requieran cimentaciones o aprovechamiento del subsuelo.
+
 II. Las dedicadas al rubro de educación, realizadas de manera concurrente, con cargo al Instituto de la Infraestructura Física Educativa del Estado de Jalisco, a los gobiernos municipal, estatal o federal, así como a quien realice la acción urbanística, de conformidad con los convenios respectivos.
 
 En caso de que la autoridad municipal considere que la edificación que se pretenda realizar deba de ser de mayores dimensiones, costeará la diferencia a cuenta del erario municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Las obras dedicadas al rubro de la educación deberán observar los lineamientos contenidos en el Reglamento Estatal de Zonificación, la reglamentación de zonas de equipamiento urbano y las que regulen el ordenamiento territorial.
 
 ## TÍTULO SÉPTIMO. DEL SUELO Y LAS RESERVAS TERRITORIALES
 
@@ -2681,29 +3197,37 @@ II. El diseño y aplicación de instrumentos operativos, administrativos, fiscal
 
 III. Las acciones para regular el mercado de los terrenos y combatir la especulación inmobiliaria, así como para revertir en favor de la sociedad las plusvalías generadas por el crecimiento urbano;
 
-IV. Reducir y abatir los procesos de ocupación irregular de áreas y predios, mediante la oferta de tierra que atienda preferentemente, las necesidades de los grupos de bajos ingresos, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Reducir y abatir los procesos de ocupación irregular de áreas y predios mediante acciones de vivienda, y oferta de tierra con infraestructura básica, que atienda preferentemente, las necesidades de los grupos de bajos ingresos; y
 
 V. Fortalecer los catastros y registros públicos de la propiedad y la modernización de las haciendas municipales, promoviendo la actualización de los tributos relacionados con la propiedad inmobiliaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 188.
 
-Para los efectos del artículo anterior, la Secretaría de Medio Ambiente y Desarrollo Territorial en coordinación con la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado, suscribirá acuerdos de coordinación con los municipios y las entidades y dependencias federales y, en su caso, convenios de concertación con los sectores social y privado, en los que se especificarán:
+Para los efectos del artículo anterior, el Instituto Jalisciense de la Vivienda, suscribirá acuerdos de coordinación con los municipios, los estados y la Federación; y en su caso, convenios de concertación con los sectores social y privado, en los que se especificarán:
 
 I. Los requerimientos de suelo y reservas territoriales para el desarrollo urbano para sus distintos usos, conforme a lo previsto en los programas en la materia;
 
-II. Los requerimientos, inventarios y disponibilidad de inmuebles para el desarrollo urbano y la vivienda;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Los requerimientos, inventarios y disponibilidad de predios para el desarrollo urbano y la vivienda;
 
 III. Las acciones e inversiones a que se comprometan los gobiernos Federal, Estatal y municipal y, en su caso, los sectores social y privado;
 
-IV. El ejercicio del derecho de preferencia para la adquisición de predios comprendidos en las áreas de reserva para el crecimiento urbano señaladas en los programas correspondientes;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Los mecanismos para el ejercicio del derecho de preferencia para la adquisición de predios comprendidos en las áreas de reserva para el crecimiento urbano señaladas en los programas correspondientes;
 
 V. Los criterios para la adquisición, aprovechamiento y transmisión del suelo y reservas territoriales para el desarrollo urbano y la vivienda;
 
 VI. Los mecanismos para articular la utilización de suelo y reservas territoriales o la regularización de la tenencia de la tierra urbana, con la dotación de infraestructura, equipamiento y servicios urbanos;
 
-VII. Las medidas y estímulos que propicien el aprovechamiento de áreas y predios baldíos que cuenten con infraestructura, equipamiento y servicios urbanos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. Las medidas y estímulos que propicien el aprovechamiento de áreas y predios baldíos que cuenten con infraestructura, equipamiento y servicios urbanos para generar vivienda de interés social y popular;
 
 VIII. La incorporación de suelo social para el desarrollo urbano y la vivienda;
 
@@ -2735,7 +3259,9 @@ I. Integrar la propiedad requerida o asegurar su disponibilidad, a través de su
 
 II. Formular un plan parcial de desarrollo urbano para una parte o la totalidad de las zonas de reserva para el crecimiento urbano que consigne el programa municipal de desarrollo urbano, el cual una vez aprobado, publicado e inscrito delimitará el área afectada y regirá la habilitación, urbanización y aprovechamiento de los predios;
 
-III. Promover el financiamiento y ejecución de las obras de urbanización o habilitación con infraestructura primaria, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Promover el financiamiento y ejecución de las obras de urbanización o habilitación con infraestructura primaria; y
 
 IV. Enajenar con oportunidad las porciones de la reserva territorial patrimonial a los promotores públicos, sociales y privados de la vivienda y el desarrollo urbano.
 
@@ -2743,33 +3269,41 @@ La administración de las zonas de suelo estratégico y de las reservas territor
 
 Cuando para satisfacer las necesidades en materia de desarrollo urbano se requiera de terrenos nacionales, ejidales y comunales, el Estado y los municipios harán las gestiones correspondientes para adquirir las reservas para el crecimiento urbano o territoriales existentes, mediante los procedimientos que señalen las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 192.
 
-Con base en los programas de desarrollo urbano, las entidades y dependencias estatales y municipales, formularán sus programas de requerimientos inmobiliarios, que entre otras consideraciones, contengan los lugares y superficies de suelo necesarios para la realización de sus programas, beneficiarios, tipo de acciones, costos y medios de financiamiento.
+Con base en los programas de desarrollo urbano, el estado y los municipios, formularán sus programas de requerimientos inmobiliarios, que entre otras consideraciones, contengan los lugares y superficies de suelo necesarios para la realización de sus programas, beneficiarios, tipo de acciones, costos y medios de financiamiento.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 193.
 
-El Gobierno Estatal podrá trasmitir a los ayuntamientos, áreas y predios para la fundación, conservación, mejoramiento y crecimiento de los centros de población, en los términos de este Código.
+El Gobierno Estatal podrá trasmitir (sic) a los ayuntamientos, áreas y predios para la fundación, conservación, mejoramiento y crecimiento de los centros de población, en los términos de este Código.
 
-Las enajenaciones de porciones o predios de las reservas territoriales patrimoniales atenderán preferentemente las necesidades de la población de bajos ingresos.
+Las enajenaciones de porciones o predios de las reservas territoriales patrimoniales atenderán preferentemente las necesidades de la población de bajos ingresos que requiera de vivienda.
 
 ###### Artículo 194.
 
 El Gobierno del Estado y los municipios a través de sus presupuestos anuales de egresos asignarán los recursos necesarios a las dependencias y entidades competentes para la adquisición de suelo urbano estratégico o prioritario, así como de reservas territoriales, vía derecho público o privado, así como para su habilitación y desarrollo que permitan el cumplimiento de los programas aprobados.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 195.
 
-Las enajenaciones de porciones o predios de las reservas territoriales patrimoniales para la realización de programas de vivienda de interés social que realicen las dependencias y entidades estatales y municipales estarán sujetos a las siguientes normas:
+Las enajenaciones de porciones o predios de las reservas territoriales patrimoniales para la realización de programas de vivienda de interés social y popular que realicen el Instituto Jalisciense de la Vivienda y los municipios estarán sujetos a las siguientes normas:
 
-I. Las condiciones de pago se determinaran en atención al ingreso de los solicitantes;
+I. Las condiciones de pago se determinarán en atención al ingreso de los solicitantes de acuerdo a las reglas de operación de los programas de vivienda;
 
-II. Los lotes resultantes no sobrepasaran el tamaño máximo que se establezca en las disposiciones aplicables para la vivienda de interés social, y
+II. Los lotes resultantes no sobrepasarán el tamaño máximo que se establezca en las disposiciones aplicables para la vivienda de interés social conforme los lineamientos del Programa Nacional de Vivienda; y
 
-III. El precio de los lotes y predios se determinará por un perito valuador o una institución bancaria autorizados, a solicitud de la autoridad competente.
+III. El precio de los lotes y predios se determinará por un perito valuador autorizado, a solicitud de la autoridad competente.
 
 ### CAPÍTULO I. De las reglas generales en materia de infraestructura, equipamiento y servicios urbanos
 
 ### CAPÍTULO II. De las normas de diseño del equipamiento
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 196.
 
@@ -2855,9 +3389,11 @@ IV. Las obras de infraestructura y equipamiento que se requieren para proporcion
 
 V. Las obras de infraestructura y equipamiento que se requieren para proporcionar los servicios públicos en áreas y zonas donde se realicen acciones de conservación o mejoramiento, corresponden a la autoridad competente y en su caso, a los titulares y habitantes de los predios o fincas, así como en su caso a los urbanizadores.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 209.
 
-Las entidades públicas y privadas podrán promover ante el Gobierno Estatal, las Instancias de Coordinación y los Ayuntamientos, la programación y ejecución de las obras de infraestructura y equipamiento necesarios para el desarrollo de los centros de población, mediante la presentación de estudios y propuestos (sic), que podrá incluir la elaboración de proyectos de planes de desarrollo urbano.
+Las entidades públicas y privadas podrán promover ante el Gobierno Estatal, las Instancias de Coordinación y los Ayuntamientos, la programación y ejecución de las obras de infraestructura y equipamiento necesarios para el desarrollo de los centros de población, mediante la presentación de estudios y propuestas, que podrá incluir la elaboración de proyectos de planes de desarrollo urbano. En caso de ser incluidos, las autoridades deberán verificar las acciones prioritarias señaladas en dichos planes, determinando los recursos económicos necesarios y el tiempo en que se realizarán las acciones, y en su caso, los convenios de coordinación respectivos.
 
 ###### Artículo 210.
 
@@ -2867,33 +3403,45 @@ El emplazamiento de redes e instalaciones de infraestructura básica, incluyendo
 
 Al Ayuntamiento que expida el plan o programa donde se autorice la determinación de reservas, le corresponderá promover, regular, controlar y exigir el desarrollo de las obras de infraestructura básica, sin las cuales no se autorizará modalidad alguna de acción urbanística.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 212.
 
-Toda acción urbana que requiera infraestructura para su incorporación o liga con la zona urbana, así como aquellas acciones urbanísticas mayores y menores y demás conjuntos urbanos que por su naturaleza o la magnitud de sus efectos en el contexto urbano, se prevea que presenten impactos significativos de alcance zonal urbano o regional, deberán contemplar por lo menos:
+Toda acción urbana que requiera infraestructura para su incorporación o liga con la zona urbana, así como aquellas acciones urbanísticas y demás condominios o conjuntos habitacionales que por su naturaleza o la magnitud de sus efectos en el contexto urbano, se prevea que presenten impactos significativos de alcance zonal urbano o regional, deberán contemplar por lo menos:
 
 I. En vías públicas, los requerimientos necesarios para satisfacer la movilidad de la zona; en su caso, los espacios necesarios para alojar vialidades, paraderos, estaciones, carriles exclusivos para transporte público, andadores peatonales, ciclo rutas o puentes peatonales u otras, así como los necesarios para conformar e integrarse con las redes ya existentes o en proyecto para el resto del centro de población. Para tales fines deberán sujetarse a las especificaciones que consignen los programas de desarrollo urbano y en ningún caso podrán tener un ancho menor que las vías públicas adyacentes de las cuales constituyan prolongación;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. El drenaje y alcantarillado, así como la construcción y operación de una planta o sistema de tratamiento de aguas residuales y manejo de aguas pluviales, para la recarga de mantos acuíferos, acorde con la cantidad y tipos de descargas que esta acción urbanística o conjunto urbano genere, o la aportación económica correspondiente, cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberán sujetarse a las disposiciones vigentes en materia ambiental;
+II. El drenaje y alcantarillado, planta o sistema de tratamiento de aguas residuales o la aportación económica correspondiente cuando esté prevista la construcción de sistemas de tratamiento, los cuales deberán sujetarse a las disposiciones vigentes en materia ambiental; dispositivos de captación, control y regulación de las aguas pluviales, ocasionadas por la urbanización del predio, mediante depósitos de detención, retención o similares, acorde con el artículo 86-bis de la Ley del Agua para el Estado de Jalisco y sus Municipios;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-III. Para el consumo y ahorro del agua, en las construcciones o edificaciones, se deberá contar con sistemas de recolección de agua pluvial con capacidad suficiente, acorde a las características de la edificación, así como sistemas para el uso sustentable del agua; y
+III. Para el consumo y ahorro del agua, las construcciones o edificaciones, se deberá contar con sistemas de recolección de agua pluvial con capacidad suficiente, acorde a las características de la edificación, así como sistemas para el uso sustentable del agua;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-IV. Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto no se de la municipalización de las obras.
+IV. Las garantías para asegurar el adecuado funcionamiento, operación o mantenimiento de las redes de infraestructura, hasta en tanto no se de la municipalización de las obras; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. Instalar, sistemas alternativos para la generación y ahorro de energía eléctrica, que protejan al medio ambiente, conforme a las Normas Oficiales en la materia.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 212 Bis.
+
+En los Centros de Población es responsabilidad de la autoridad estatal encargada de la vialidad y la movilidad, identificar las áreas o puntos conflictivos donde el transporte colectivo de superficie es ineficiente o riesgoso, con la finalidad de realizar acciones urbanísticas de mejoramiento, que den preferencia de paso al transporte colectivo de superficie y transporte escolar.
 
 ###### Artículo 213.
 
 Las obras de infraestructura básica las promoverá el ayuntamiento de manera directa, o podrá transferirlas a quienes realicen la acción urbanística, conforme a los sistemas que se definen en el Capítulo VIII, Título Noveno del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 214.
 
-Los urbanizadores aportarán, realizando las obras o mediante convenio con el Ayuntamiento, a la construcción o mejoramiento de la vialidad, de la infraestructura, del equipamiento y de las instalaciones, que estando localizadas fuera de la zona a urbanizar, en forma directa se requieran para su integración a la estructura urbana del centro de población para su adecuado funcionamiento.
+Los urbanizadores aportarán, realizando las obras o mediante convenio con el Ayuntamiento, a la construcción o mejoramiento de la vialidad, de la infraestructura, del equipamiento y de las instalaciones, que estando localizadas fuera de la zona a urbanizar, en forma directa se requieran para su integración a la estructura urbana del centro de población para su adecuado funcionamiento y cumplimiento con la normatividad vigente en materia de movilidad.
 
 ###### Artículo 215.
 
@@ -2909,17 +3457,21 @@ En caso de no otorgarse la anuencia, el ayuntamiento gestionará la expropiació
 
 Las obras ejecutadas en los supuestos del artículo anterior y los terrenos afectados, pasarán a ser del dominio municipal y éste tendrá derecho a considerar su costo proporcional, en futuras incorporaciones de los predios aledaños.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 218.
 
-Cuando en un predio por urbanizar existan obras o instalaciones de servicios públicos, en el Proyecto Definitivo se señalarán las normas para que el urbanizador evite la interferencia de sus propias obras o instalaciones con las ya existentes.
+Cuando en un predio por urbanizar existan obras o instalaciones de servicios públicos, en el Proyecto definitivo de urbanización se señalarán las normas para que el urbanizador evite la interferencia de sus propias obras o instalaciones con las ya existentes.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 219.
 
-En el caso de que se cause daño o deterioro a las obras o instalaciones existentes, durante la ejecución de las obras de urbanización, el urbanizador deberá reponerlas a satisfacción de la Dependencia Municipal.
+En el caso de que se cause daño o deterioro a las obras o instalaciones existentes sean de propiedad pública o privada, durante la ejecución de las obras de urbanización, el urbanizador deberá reponerlas a satisfacción de la Dependencia Municipal o del titular de la propiedad.
 
-A este efecto, dada la naturaleza del daño y la urgencia de repararlo, la Dependencia Municipal fijará el plazo para que tales reparaciones queden ejecutadas, así como la sanción económica aplicable, determinación que deberá ser notificada al urbanizador.
+A este efecto, dada la naturaleza del daño y la urgencia de repararlo, la Dependencia Municipal fijará el plazo para que tales reparaciones queden ejecutadas, así como la sanción económica aplicable, o los recargos que genere, determinación que deberá ser notificada al urbanizador.
 
-Si transcurrido el plazo a que se refiere el párrafo anterior, el urbanizador no hubiese concluido las reparaciones, la Dependencia Municipal está facultada para proceder a la ejecución de las obras y en su momento, informar a la Dependencia Encargada de la Hacienda Municipal la relación de las erogaciones realizadas para ese fin, para el efecto de que proceda a cobrarle la liquidación que corresponda, en los términos de la Ley de Hacienda Municipal.
+Si transcurrido el plazo a que se refiere el párrafo anterior, el urbanizador no hubiese concluido las reparaciones, la Dependencia Municipal está facultada para proceder a la ejecución de las obras y en su momento, informar a la Dependencia Encargada de la Hacienda Municipal la relación de las erogaciones realizadas para ese fin, para el efecto de que proceda a cobrarle la liquidación y los recargos que corresponda, en los términos de la Ley de Hacienda Municipal.
 
 ###### Artículo 220.
 
@@ -2933,7 +3485,7 @@ Las empresas u organismos públicos o privados que obtengan autorización del Go
 
 ###### Artículo 222.
 
-Todo proyecto de urbanización, edificación, restauración e infraestructura de uso público deberá contemplar y en consecuencia incorporar al diseño arquitectónico de dichos edificios los elementos mínimos de accesibilidad y bienestar que se describan en los Reglamentos Municipales.
+Todo proyecto de urbanización, edificación, renovación urbana, restauración e infraestructura de uso público, deberá contemplar y en consecuencia incorporar al diseño arquitectónico de sus elementos, las características del diseño urbano universal y bienestar que se describan en los Reglamentos Municipales.
 
 ###### Artículo 223.
 
@@ -2961,19 +3513,29 @@ VIII. Vía pública;
 
 IX. Señalamientos y provisiones;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-X. Sistemas de recuperación y almacenamiento de aguas pluviales; y
+X. Sistemas de recuperación y almacenamiento de aguas pluviales;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-XI. Instalaciones para energía alternativa.
+XI. Instalaciones para energía alternativa;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XII. Ciclopuertos; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Vialidades preferentes o exclusivas para el transporte colectivo de superficie y el transporte escolar.
 
 ###### Artículo 224.
 
 Las aceras y caminos deben formar una red para el desplazamiento de peatones entre todos los puntos principales de una zona urbana. Se debe prestar atención especial a la creación de conexiones peatonales apropiadas con los apeaderos del transporte urbano, tren ligero y los sitios de autos de alquiler.
 
 ### CAPÍTULO II. De los procedimientos para autorizar obras de urbanización
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 225.
 
@@ -2995,19 +3557,27 @@ VII. Torres de oficinas, apartamentos y usos mixtos, y
 
 VIII. Conjuntos habitacionales de alta densidad plurifamiliar vertical de más de 500 viviendas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 226.
 
-Los estudios de impacto en el tránsito se deberán realizar tanto para los desarrollos urbanos en el proceso de ejecución de su proyecto como para las obras de edificación durante la elaboración de los estudios y proyectos constructivos.
+Los estudios en materia de movilidad se deberán realizar tanto para los desarrollos urbanos en el proceso de ejecución de su proyecto, como para las obras de edificación durante la elaboración de los estudios y Proyectos Ejecutivos.
 
 Con los resultados de estos estudios, se deberá conocer la forma como la utilización del uso del suelo puede afectar el sistema vial y de transporte en donde se encuentre enclavado, los requerimientos que deban aplicarse para mantener o mejorar el nivel de servicio de estos sistemas y garantizar la seguridad vial. De la misma forma se deberá conocer la compatibilidad en materia de acciones de vialidad y transporte que marque el Plan de Desarrollo Urbano correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 227.
 
-Los estudios de impacto en el tránsito deberán contener:
+Los proyectos y estudios en materia de movilidad deben contener:
 
-I. El conjunto de estudios estadísticos, físicos y humanos, relativos a las variables que inciden en el incremento de accidentes y la seguridad en las vías públicas. Con la finalidad de contar con datos suficientes para la toma adecuada de decisiones y proyectos adecuados de las mismas;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. Determinación de la situación física de la vialidad en el momento del estudio;
+I. Estadísticas relativas a los accidentes y a la seguridad en las vías públicas;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Descripción del estado actual de la situación física de la vialidad en el momento del estudio;
 
 III. Establecimiento de los horizontes del estudio;
 
@@ -3017,7 +3587,9 @@ V. Determinación de la operación del transporte colectivo en el área y de sus
 
 VI. Levantamiento de la información sobre volúmenes de tránsito en días y horas representativas;
 
-VII. Establecimiento de un pronóstico de crecimiento de los flujos viales a los horizontes establecidos;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. Las expectativas de crecimiento de los flujos viales a los horizontes establecidos;
 
 VIII. Evaluación de las condiciones de la vialidad mediante análisis de capacidad y nivel de servicio;
 
@@ -3027,9 +3599,15 @@ X. Estimación del tráfico total, incluyendo el tránsito inducido, el tránsit
 
 XI Análisis de la compatibilidad de las acciones propuestas con el contenido del Plan de Desarrollo Urbano del Centro de Población.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+La autoridad facultada para evaluar los estudios y proyectos en materia de movilidad, deberá verificar la autenticidad y veracidad de los datos físicos y operacionales vertidos dentro del estudio o proyecto y emitirá un diagnóstico con las conclusiones y justificaciones derivadas del análisis del estudio o proyecto, resolviendo sobre la aprobación o desaprobación del mismo.
+
 ## TÍTULO NOVENO. DE LA ACCIÓN URBANÍSTICA
 
 ### CAPÍTULO III. De la ejecución de obras de urbanización
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 228.
 
@@ -3073,9 +3651,11 @@ En el caso de los predios que resulten afectados por las áreas de restricción 
 
 Las áreas de restricción o protección que correspondan a bienes nacionales se delimitarán y aprovecharán conforme las disposiciones federales aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 236.
 
-Las áreas de restricción o protección civil no serán generadoras de cesiones para destinos, por lo cual su superficie no se considerará para cuantificar las áreas de cesión que se deban generar cuando se urbanicen los predios donde se localizan.
+Las áreas de restricción o de protección natural o civil, no serán generadoras de cesiones para destinos, por lo cual su superficie no se considerará para cuantificar las áreas de cesión que se deban generar cuando se urbanicen los predios donde se localizan.
 
 ###### Artículo 237.
 
@@ -3083,17 +3663,21 @@ Las acciones materiales relativas a las obras de urbanización, comprenden:
 
 I. La división de un predio en lotes o fracciones a fin de darle una utilización específica;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. La dotación de redes de servicio, como agua potable, desalojo, captación y manejo de aguas residuales y pluviales, platas (sic) de tratamiento de aguas, electrificación, alumbrado, telefonía, instalaciones especiales y obras de infraestructura regional;
+II. La dotación de redes de servicio para la captación, manejo, tratamiento y distribución de agua potable a través de plantas potabilizadoras; el desalojo, captación y manejo de aguas residuales de conformidad con la reglamentación vigente y de acuerdo al giro específico de las edificaciones; la electrificación; el alumbrado público; las redes de telefonía; los mecanismos de separación, tratamiento y disposición final de residuos sólidos; las instalaciones especiales complementarias y obras de infraestructura regional;
 
-III. Los elementos de la vialidad, como calles, banquetas, andadores, estacionamiento para vehículos; los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones, y los elementos e instalaciones para la operación del transporte colectivo;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Los elementos de la vialidad, como calles, banquetas, andadores, ciclovías, estacionamiento para vehículos; los dispositivos de control vial, como señalización y semaforización con sus equipos e instalaciones, y los elementos e instalaciones para la operación del transporte colectivo;
 
 IV. Los servicios e instalaciones especiales que requieran las actividades de la industria, el comercio y los servicios;
 
 V. Los componentes de la imagen urbana, como arbolado, jardinería y mobiliario, y
 
-VI. Las demás que se requieran para lograr el asentamiento en condiciones óptimas para la vida de la comunidad, para proveer los usos y destinos relacionados con la habitación, el trabajo, la educación y el esparcimiento.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. Las demás que se requieran para lograr el asentamiento en condiciones óptimas para la vida de la comunidad, para proveer los usos y destinos, que incluyan según sea el caso ajustes razonables que garanticen la accesibilidad universal, la inclusión social y las asistencias técnicas, relacionados con la habitación, el trabajo, la educación, el esparcimiento y la movilidad.
 
 ###### Artículo 238.
 
@@ -3101,21 +3685,31 @@ El desarrollo de predios en áreas de gestión urbana integral tiene la finalida
 
 La utilización específica de predios se generará al ejecutar las obras de urbanización autorizadas en sus proyectos definitivos.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 239.
 
-Las acciones urbanísticas que requieran de obras de urbanización y edificación simultáneas, podrán obtener del ayuntamiento sus respectivas autorizaciones y licencias, siempre y cuando cuenten con un plan parcial de desarrollo urbano y en su caso el proyecto definitivo de urbanización para las áreas y predios donde se proyecte realizar dichas obras.
+Las acciones urbanísticas que requieran de obras de urbanización y edificación simultáneas, podrán obtener del ayuntamiento sus respectivas autorizaciones y licencias, siempre y cuando estén consideradas dentro de los planes básicos de desarrollo urbano y cuenten con sus respectivos Proyectos Definitivo de Urbanización y Ejecutivo para las áreas y predios donde se proyecte realizar dichas obras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 240.
 
-Queda prohibido a los funcionarios que tengan a su cargo la revisión de expedientes relativos a obras de urbanización y edificación, bajo su estricta responsabilidad, dar trámite a expedientes incompletos o solicitudes condicionadas, al cumplimiento posterior de requisitos por parte de su promovente.
+Queda prohibido a los servidores públicos que tengan a su cargo la revisión de expedientes relativos a obras de urbanización y edificación, bajo su estricta responsabilidad, dar trámite a expedientes incompletos o solicitudes condicionadas, al cumplimiento posterior de requisitos por parte de su promovente.
 
-Queda igualmente prohibido expedir autorizaciones para urbanización o edificación con carácter de provisionales, condicionadas o especiales.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Queda igualmente prohibido expedir autorizaciones para uso, destinos, urbanización o edificación con carácter de provisionales, condicionadas o especiales. Aquellos servidores públicos que incurran en esta práctica, estarán sujetos a las sanciones que correspondan.
 
 Únicamente se exceptúan de esta prohibición, la ejecución de medidas de seguridad y las acciones que se emprendan en casos de emergencia, conforme las disposiciones en materia de protección civil.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 241.
 
-No se deberá expedir el certificado de habitabilidad a edificación alguna, en tanto no se reciban por el Ayuntamiento las respectivas obras de urbanización.
+No se deberá expedir el certificado de habitabilidad a edificación alguna, en tanto no se reciban por el Ayuntamiento las respectivas obras de urbanización, de conformidad con lo establecido en el presente Código.
+
+Para otorgar el mismo, se deberá acreditar en el dictamen de la dependencia municipal que se ejecutaron las obras de conformidad con los planos autorizados en la licencia de edificación expedida por el ayuntamiento.
 
 ###### Artículo 242.
 
@@ -3133,13 +3727,21 @@ Tratándose de zonas urbanizadas que sean sujetas a obras de renovación urbana,
 
 ###### Artículo 245.
 
-Para proceder a la recepción de las obras de urbanización, se requerirá que se hayan:
+Para proceder a la recepción de las obras de urbanización, se requerirá que se haya:
 
 I. Ejecutado las obras de infraestructura básica, las propias de la acción urbanística y cumplido con los requisitos establecidos en el Proyecto Definitivo de Urbanización;
 
-II. Formalizado la entrega de las áreas de vialidad y de los espacios para las instalaciones públicas y otras áreas de cesión para destinos, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-III. Realizado los pagos por los conceptos previstos en el presente Título, conforme los procedimientos y tarifas que se determinen en las leyes hacendarías y de ingresos municipales o en su caso, garantizado el interés fiscal.
+II. Formalizado la entrega de las áreas de vialidad y de los espacios para las instalaciones públicas y otras áreas de cesión para destinos;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Realizado los pagos por los conceptos previstos en el presente Título, conforme los procedimientos y tarifas que se determinen en las leyes hacendarías y de ingresos municipales o en su caso, garantizado el interés fiscal; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. En su caso, reparado los daños que hubieren afectado áreas públicas, a terceros, al medio ambiente, o invadido servidumbres.
 
 ###### Artículo 246.
 
@@ -3153,7 +3755,7 @@ Una vez que se reciban las obras de urbanización el ayuntamiento estará obliga
 
 ###### Artículo 247.
 
-Las autorizaciones, permisos o licencias para la realización de obras de urbanización, conjuntos urbanos y habitacionales, así como de fusiones, subdivisiones y relotificaciones sólo deberán otorgarse a:
+Las autorizaciones, permisos o licencias para la realización de obras de urbanización, condominios, o conjuntos habitacionales, así como de fusiones, subdivisiones y relotificaciones sólo deberán otorgarse a:
 
 I. La persona física o jurídica que sea titular de los predios en donde se pretenda ejecutar dichas obras y se encuentre en legal posesión de los mismos, quien asumirá a partir de este momento el carácter jurídico de urbanizador; o
 
@@ -3162,6 +3764,10 @@ II. Al promotor inmobiliario legalmente autorizado, con quien el titular de los 
 ###### Artículo 248.
 
 Sólo se dará trámite a la solicitud de licencia para autorizar obras de urbanización que acompañe de los títulos de propiedad inscritos en el registro público al que corresponda, los documentos que acrediten la posesión de los predios y el certificado de gravamen o libertad de gravamen respecto del o los inmuebles sobre los cuales se pretende realizar las obras de urbanización.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Para la solicitud de licencia de condominios y conjuntos habitacionales, el Proyecto Definitivo de Urbanización deberá considerar los criterios de diseño urbano universal en las áreas comunes y en las plantas bajas de los edificios de vivienda.
 
 ###### Artículo 249.
 
@@ -3179,13 +3785,23 @@ Cuando el solicitante sea promotor inmobiliario, además de cumplir con los requ
 
 Toda solicitud para la autorización de un proyecto definitivo de urbanización deberá ir acompañada de la carta de aceptación de las personas que fungen como los directores responsables en los términos de lo establecido en el Titulo Décimo Primero.
 
-Sólo se autorizarán como directores responsables para intervenir en obras de urbanización o de conjuntos urbanos y habitacionales los profesionistas con título de arquitecto, ingeniero civil o profesiones afines, conforme las reglas que expida la Comisión Municipal de Directores Responsables.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Sólo se autorizarán como directores responsables para intervenir en obras de urbanización o de condominios y conjuntos habitacionales los profesionistas con título de arquitecto, ingeniero civil o profesiones afines, conforme las reglas que expida la Comisión Municipal de Directores Responsables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 251.
 
-Para realizar obras de urbanización es indispensable que se cuente con el Plan Parcial de Desarrollo Urbano o, en su caso con el proyecto definitivo de urbanización que ordene y regule el crecimiento urbano para la zona de que se trate.
+Para realizar obras de urbanización es indispensable que se cuente con el Proyecto Definitivo de Urbanización que ordene y regule el crecimiento urbano para la zona de que se trate.
 
-Cuando el proyecto definitivo de urbanización proponga una modificación en el uso de suelo establecido en el plan de desarrollo urbano de centro de población o en el plan parcial de desarrollo urbano, este deberá ser aprobado por el pleno del Ayuntamiento a propuesta del dictamen técnico elaborado por la dependencia municipal.
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Los proyectos definitivos de urbanización deberán realizarse por un arquitecto, ingeniero civil, urbanista o cualquier profesionista con conocimientos en materia de urbanismo, con cédula legalmente expedida por la Dirección de Profesiones del Estado de Jalisco y registrado como director responsable, conforme a lo previsto en el presente Código.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Cuando el Proyecto Definitivo de Urbanización proponga una modificación en el uso de suelo previamente establecido, será necesario promover una modificación al plan de desarrollo urbano de centro de población o al plan parcial de desarrollo urbano, conforme al procedimiento estipulado en el artículo 98 del presente código, y deberá ser aprobado por el pleno del Ayuntamiento, previa propuesta contenida en el dictamen técnico elaborada por la dependencia municipal.
 
 El dictamen técnico señalado en el presente artículo deberá ser sometido a consulta pública de acuerdo con los procedimientos señalados en el artículo 98 del presente Código.
 
@@ -3193,9 +3809,11 @@ El dictamen técnico señalado en el presente artículo deberá ser sometido a c
 
 Cuando un centro de población no cuente con un Plan de Desarrollo Urbano de Centro de Población que ordene y regule un área específica donde se pretendan realizar obras de urbanización o cuando dichas áreas se encuentren fuera de los límites de un centro de población, los interesados en su urbanización deberán proponer y tramitar la aprobación de un Plan Parcial de Desarrollo Urbano que regule las acciones de crecimiento correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 253.
 
-A fin de facilitar los trámites y agilizar los mismos, los interesados en promover obras de urbanización, que no implique una modificación de uso de suelo, podrán solicitar a la dependencia técnica del ayuntamiento, la revisión preliminar del anteproyecto correspondiente, presentando:
+A fin de facilitar los trámites y agilizar los mismos, los interesados en promover obras de urbanización, que no implique una modificación de uso de suelo, podrán solicitar a la dependencia técnica del ayuntamiento, la revisión del Proyecto Preliminar de Urbanización, presentando:
 
 I. Topografía;
 
@@ -3205,17 +3823,31 @@ III. Lotificación preliminar, con usos y normas técnicas;
 
 IV. Vialidades, y
 
-V. Áreas de cesión para destinos.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. Áreas de cesión para destinos;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. Documentación que acredite la titularidad de la propiedad y, en su caso, la posesión del predio en términos de los artículos 248 y 249 del presente Código; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. Dictamen de Trazo, Usos y Destinos.
 
 Dicha dependencia tendrá la obligación de señalar las omisiones, errores, requerimientos e inconsistencias que deberán subsanarse o complementarse para proceder a su autorización. Estos servicios serán cobrados conforme a lo dispuesto en la Ley de Ingresos.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 254.
 
-Conforme al anteproyecto a que se refiere el artículo anterior, el Municipio podrá autorizar la ejecución de obras preliminares de mejoramiento del predio, movimiento de tierras, de conectividad vial y de servicios, siempre que el uso este permitido, no afecte derechos de terceros, no impliquen la incorporación o uso urbano, ni venta o preventa al público de lotes y se encuentre avalado por un director responsable de proyecto.
+Conforme al Proyecto a que se refiere el artículo anterior, el Municipio podrá autorizar la ejecución de obras preliminares de mejoramiento del predio, movimiento de tierras, de conectividad vial y de servicios, siempre que el uso este permitido, no afecte derechos de terceros, no impliquen la incorporación o uso urbano, ni venta o preventa al público de lotes y se encuentre avalado por un director responsable de proyecto.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 255.
 
-Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto definitivo de urbanización no reúna los requisitos legales, por escrito y en un plazo no mayor a tres días hábiles se harán las indicaciones para que se subsanen las omisiones. El expediente se regresará a su promovente, con las anotaciones pertinentes en su solicitud.
+Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto definitivo de urbanización no reúna los requisitos legales, por escrito y en un plazo no mayor a tres días hábiles se harán las indicaciones para que se subsanen las omisiones. El expediente se regresará a su promovente, con las anotaciones pertinentes en su solicitud y se indicará que el proyecto ha sido declarado improcedente mientras no cumpla con los requisitos indicados.
 
 ###### Artículo 256.
 
@@ -3227,9 +3859,13 @@ El Proyecto Definitivo de Urbanización, se integrará con los siguientes docume
 
 I. El proyecto de integración urbana que incluye:
 
-a) El enunciado del proyecto y datos generales del proyecto;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-b) La referencia al Plan de desarrollo urbano del centro de población del cual se deriva y del plan parcial de desarrollo urbano;
+a) El enunciado y datos generales del proyecto, así como la descripción de los documentos que acrediten la titularidad y posesión del predio.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+b) La referencia al Plan de desarrollo urbano del centro de población del cual se deriva y en su caso del Plan Parcial de Desarrollo Urbano, acreditándolo mediante su Dictamen de Trazo, Usos y Destinos Específicos.
 
 c) La fundamentación jurídica;
 
@@ -3253,9 +3889,17 @@ g) La referencia a las normas de diseño arquitectónico e ingeniería urbana, q
 
 6.- Las obras mínimas de edificación para equipamiento urbano en las áreas de cesión para destinos requeridas en cada tipo de zona;
 
-8.- (sic) Las normas de configuración urbana e imagen visual, y
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-9.- Otras normas específicas de carácter general o regional que se consideren necesarias;
+7.- Las normas de configuración urbana e imagen visual; y
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+8.- Otras normas específicas de carácter general o regional que se consideren necesarias.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+h) Los estudios de impacto ambiental elaborados por el promovente, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
 
 II. Los planos propios del proyecto, que incluyen:
 
@@ -3309,11 +3953,13 @@ a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbaniz
 
 1.- El plano de niveles de rasantes y plataformas indicando las zonas de cortes y rellenos,
 
-2.- El proyecto de la red de agua potable,
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+2.- Los criterios de diseño para obras de urbanización que faciliten el movimiento y la accesibilidad de personas con discapacidad.
 
-3.- El proyecto de construcción y operación de la red o del sistema de desalojo, captación y manejo de las aguas residuales y pluviales; y
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+3.- El proyecto de la red o del sistema de desalojo de las aguas residuales y la captación y manejo de las aguas pluviales;
 
 4.- El proyecto de la red de electrificación y del alumbrado público,
 
@@ -3345,13 +3991,17 @@ b) La autorización de las dependencias y organismos federales, o sus concesiona
 
 La propuesta del proyecto definitivo de urbanización se presentará ante la Dependencia Municipal, adjuntando los siguientes elementos:
 
-I. La carta de aceptación de los directores responsables de su elaboración y ejecución, con autorización legal y registro;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. La carta de aceptación de los directores responsables de su elaboración y ejecución, con autorización legal y registro, donde asumen la responsabilidad de la ejecución, control y construcción de las obras en los términos del presente Código;
 
 II. La aceptación expresa del urbanizador de cumplir con la terminación de las obras en los plazos consignados en el calendario de obras del Proyecto;
 
 III. La aceptación por parte del urbanizador del monto de la garantía que deberá otorgar para responder del correcto desempeño de las obras en el tiempo previsto, que será del orden del veinte por ciento del valor de la obra, mediante una fianza expedida por una compañía autorizada;
 
-IV. La aceptación por parte del urbanizador del plazo, a partir de la recepción de las obras de cada etapa o la totalidad de la urbanización, durante el cual estará obligado a responder por los vicios ocultos, mediante fianza expedida por una compañía autorizada por un plazo no menor de dos años, la cual sólo será cancelada con aprobación de la autoridad correspondiente;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. La aceptación por parte del urbanizador del plazo, a partir de la recepción de las obras de cada etapa o la totalidad de la urbanización, durante el cual estará obligado a responder por los vicios ocultos, mediante fianza expedida por una compañía autorizada por un plazo no menor a dos años, la cual sólo será cancelada con aprobación de la autoridad correspondiente;
 
 V. La aceptación por parte del urbanizador de hacer entrega al municipio de los predios comprendidos en las áreas de cesión para destinos, cuya propiedad le corresponde al Municipio, y
 
@@ -3361,9 +4011,11 @@ VI. La acreditación del pago del derecho correspondiente a este trámite, previ
 
 El urbanizador estará obligado a costear por su cuenta todas las obras de urbanización conforme al propio Proyecto Definitivo de Urbanización, incluyendo las obras de infraestructura y equipamiento que correspondan a las áreas de cesión para destinos.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 260.
 
-Cuando al urbanizador se requiera y realice obras de infraestructura básica superiores a la demanda requerida por su desarrollo o el motivo de aportarlas se genere por acciones, causas y objetivos distintos a los elementos de su proyecto de urbanización o edificación, serán aplicables lo previsto en los artículos 220 y 221 de este Código.
+Cuando el Municipio requiera al urbanizador realizar obras de infraestructura básica superiores a las necesarias para su desarrollo, o el motivo de aportarlas se genere por causas distintas a los elementos de su proyecto de urbanización o edificación, serán aplicables lo previsto en los artículos 220 y 221 de este Código.
 
 ###### Artículo 261.
 
@@ -3379,15 +4031,29 @@ III. El costo de las obras de infraestructura y equipamiento que con cargo al ur
 
 El urbanizador cuyo proyecto definitivo de urbanización haya sido autorizado; para tramitar la licencia de urbanización, presentará ante la Dependencia Municipal:
 
-I. La propuesta y aceptación del director responsable que tendrá a su cargo la supervisión municipal de las obras;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. La acreditación del pago del derecho correspondiente de conformidad a la Ley de Ingresos Municipal;
+I. La propuesta y aceptación del perito que tendrá a su cargo la supervisión municipal de las obras en los términos del presente Código;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. La acreditación del pago del derecho por concepto de supervisión municipal correspondiente de conformidad a la Ley de Ingresos Municipal;
 
 III. En su caso, los recibos de la Dependencia Encargada de la Hacienda Municipal donde se acredite la recepción de los pagos acordados, conforme la fracción III del artículo anterior;
 
 IV. Recibida la solicitud por la Dependencia Municipal, procederá a expedir de (sic) en un término de 24 horas la licencia o permiso de urbanización;
 
-V. Si la Dependencia Municipal no expide en el término concedido la licencia o permiso, el urbanizador podrá solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 373 de éste Código y demandar mediante juicio en el Tribunal de lo Administrativo, se declare que operó a su favor la afirmativa ficta, conforme las disposiciones procesales aplicables.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. Si la Dependencia Municipal no expide en el término concedido la licencia o permiso, el urbanizador podrá solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 373 de éste Código.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 262 Bis.
+
+El urbanizador podrá demandar mediante juicio en el Tribunal de lo Administrativo, se declare que operó a su favor la afirmativa ficta, conforme las disposiciones procesales aplicables.
+
+Solo será procedente la afirmativa ficta cuando el proyecto sea acorde a los planes de desarrollo urbano vigentes, lo señalado en este Código y las disposiciones reglamentarias aplicables.
 
 ###### Artículo 263.
 
@@ -3401,7 +4067,9 @@ III. Los conceptos que ampara y los pagos correspondientes, y
 
 IV. El plazo para la realización de las obras conforme al calendario del Proyecto Definitivo de Urbanización, que corresponderá a su vigencia.
 
-Si al solicitar la licencia o permiso el urbanizador no propone al perito o director responsable conforme lo señalado en el Título Décimo Primero de este Código, la designación será hecha por la autoridad municipal.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Si al solicitar la licencia el urbanizador no propone al director responsable, conforme lo señalado en el Título Décimo Primero de este Código, la designación será hecha por la autoridad municipal.
 
 ###### Artículo 264.
 
@@ -3435,13 +4103,15 @@ III. Una vez que el urbanizador haya realizado las obras a su cargo y pagado la 
 
 ###### Artículo 267.
 
-La licencia de urbanización:
+La licencia de urbanización tendrá vigencia conforme al plazo establecido en el programa de obra autorizado.
 
-I. Tendrá vigencia conforme al plazo establecido en el programa de obra autorizado;
+I. En caso de no inicio o suspensión de las obras, el urbanizador deberá notificarlo a la Dependencia Municipal indicando el tiempo que estarán suspendidas las obras y dicho plazo será prorrogado por el mismo período de tiempo de la suspensión o no inicio de las mismas; podrá solicitar además, la suspensión de la fianza por el mismo período de suspensión de las obras;
 
-II. En caso de no inicio o suspensión de las obras, el urbanizador deberá notificarlo a la Dependencia Municipal y el plazo será prorrogado por el mismo período de tiempo de la suspensión o no inicio de las mismas; podrá solicitar además, la suspensión de la fianza por el mismo periodo de suspensión de las obras, y
+II. En caso de contar con permiso de preventa el urbanizador no podrá solicitar su suspensión;
 
-III. Las obras de urbanización deberán concluirse en el plazo que se fije en su licencia o permiso, salvo causas graves de fuerza mayor, justificadas en los registros de bitácora de obra, autorizados por el supervisor municipal.
+III. Las obras de urbanización deberán concluirse en el plazo que se fije en su licencia o permiso, salvo causas graves de fuerza mayor, justificadas en los registros de bitácora de obra, autorizados por el supervisor municipal; en cuyo caso, se debe dar aviso de suspensión a la dependencia municipal competente, quien decidirá el plazo máximo de suspensión, en atención a las manifestaciones que justifiquen la suspensión, sin que puedan exceder del mismo plazo otorgado en la autorización; y
+
+IV. Para obtener la autorización de reinicio de obra, por la dependencia municipal competente, se deberá presentar la licencia con aviso de suspensión autorizado, y comprobar el ajuste del proyecto a los planes de desarrollo urbano y a las disposiciones del presente Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -3453,7 +4123,9 @@ Tanto la Dependencia Municipal como la Secretaría de Infraestructura y Obra Pú
 
 La Secretaría referida en el párrafo anterior, cuando practique una inspección a obras de urbanización, comunicará sus observaciones a la Dependencia Municipal correspondiente, a fin de enterarlo de posibles anomalías en el proceso de ejecución de las obras.
 
-Los urbanizadores y los directores responsables, cumplirán las indicaciones que hagan los inspectores técnicos de la Dependencia Municipal, mismas que deberán apegarse al proyecto definitivo de urbanización.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Los urbanizadores y los directores responsables, cumplirán las indicaciones que hagan los peritos en supervisión municipal, mismas que deberán apegarse al proyecto definitivo de urbanización.
 
 ###### Artículo 269.
 
@@ -3519,37 +4191,61 @@ III. Las inherentes a la preservación, restauración y conservación de los mis
 
 IV. Las referidas al acotamiento, aseguramiento, demolición, acciones de emergencia, saneamiento y mantenimiento de predios y fincas, que procuren la seguridad y salud pública, así como su armónica integración a su contexto urbano.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 277.
 
-Para tramitar cualquier permiso de construcción se requiere que se presente el proyecto ejecutivo de la obra para la autorización por parte de la dependencia técnica municipal, previo dictamen de trazos, usos y destinos específico.
+Para tramitar cualquier permiso de construcción se requiere presentar el proyecto ejecutivo de la obra, para la autorización por parte de la Dependencia Municipal.
+
+La licencia o permiso de construcción podrá prorrogarse por un tiempo igual al autorizado inicialmente, a solicitud del interesado, expresando los motivos por los cuales no fue concluido y haciendo el pago de derechos correspondientes.
+
+Para suspender los trabajos de una obra durante la vigencia de la licencia, se debe dar aviso de suspensión a la dependencia municipal competente, quien decidirá el plazo máximo de suspensión, en atención a las manifestaciones que justifiquen la suspensión, sin que puedan exceder del mismo plazo otorgado en la autorización.
+
+Para obtener la autorización de reinicio de obra, por la dependencia municipal competente, se deberá presentar la licencia con aviso de suspensión autorizado.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 278.
 
-Los proyectos y ejecución de obras de urbanización, edificación, restauración e infraestructura deberán realizarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida, registrado como director responsable conforme las disposiciones del Reglamento de Construcción correspondiente.
+Los proyectos y ejecución de obras de edificación, restauración e infraestructura deberán realizarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida por la Dirección de Profesiones del Estado de Jalisco, registrado como director responsable conforme las disposiciones del Título Décimo Primero del presente Código.
 
 ###### Artículo 279.
 
 Toda obra de construcción, modificación, reconstrucción o demolición, requerirá autorización del ayuntamiento. La licencia o permiso de construcción, se otorgará por la Dependencia Municipal, de conformidad con lo dispuesto en el presente Título, con las disposiciones de la Ley del Procedimiento Administrativo y su Reglamento de Construcción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 280.
 
-El proyecto ejecutivo deberá cumplir con, los programas y planes de desarrollo urbano aplicables a su área de ubicación, los lineamientos marcados en el dictamen de trazos, usos y destinos específicos así como, con lo establecido en el presente Código, el reglamento de construcción municipal y demás leyes y reglamentos aplicables, los cuales de acuerdo a su género se clasifican de la siguiente manera:
+Los proyectos ejecutivos, de acuerdo a su género, se clasifican de la siguiente manera:
 
 I. Proyecto de edificación;
 
-II. Proyecto de restauración, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-III. Proyectos de infraestructura.
+II. Proyecto de restauración; y
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Proyecto de infraestructura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 281.
 
-El género de obra; es la tipificación de los proyectos y obras de acuerdo a su uso y destino especifico, en base a la siguiente clasificación:
+El género de obra es la tipificación de los proyectos y obras de acuerdo a su uso y destino específico, se clasificará de la siguiente manera:
+
+I. (REFORMADA [N. DE E. ANTES PRIMER PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2015)
 
 De Edificación; Salud, Comercial, Servicios, Comunicaciones, Transporte, Cultura, Deporte, Educación, Gobierno, Habitacional, Industrial, Recreación, Culto, Turismo, además obras y proyectos similares.
 
+II. (REFORMADA [N. DE E. ANTES SEGUNDO PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2015)
+
 De Restauración y Conservación; Sitios históricos y artísticos, monumentos, edificios religiosos, militares e instituciones, construcciones civiles y demás instalaciones o zonas del patrimonio histórico, cultural o artístico.
 
-De Infraestructura; Puentes, pasos a desnivel, túneles, vías de comunicación y terrestres, presas, bordos, líneas de electrificación, instalaciones para energía alternativas, agua potable, alcantarillado pluvial y sanitario, plantas de tratamiento, refinerías y plataformas, gasoductos, oleoductos, muelles, esclusas, rompeolas, vías de ferrocarril y metro, pistas de aeropuertos, redes de telecomunicaciones y demás obras y proyectos similares.
+> <small>(REFORMADA [N. DE E. ANTES TERCER PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. De Infraestructura; Puentes, pasos a desnivel, túneles, vías de comunicación, presas, bordos, líneas de electrificación, instalaciones para energía alternativas, agua potable, drenaje pluvial con el manejo del agua a través de métodos de absorción para la sustentabilidad del agua en el subsuelo, alcantarillado sanitario, plantas de tratamiento, rellenos sanitarios para la disposición final de la basura y la utilización del biogás como fuente de energía renovable, refinerías y plataformas, gasoductos, oleoductos, muelles, esclusas, rompeolas, vías de ferrocarril y metro, pistas de aeropuertos, redes de telecomunicaciones y demás obras y proyectos similares.
 
 ###### Artículo 282.
 
@@ -3585,7 +4281,9 @@ XIII. De las prohibiciones, sanciones y medios para hacer cumplir el reglamento,
 
 XIV. De los recursos y defensas de los particulares.
 
-Las normas de diseño que se integren en los reglamentos municipales de construcción, incluirán especificaciones que faciliten el desplazamiento y el acceso a las personas con limitaciones físicas y en particular, a edificios y espacios abiertos para actividades públicas, generales o restringidas.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Las normas de diseño que se integren en los reglamentos municipales de construcción, incluirán especificaciones que faciliten la accesibilidad, mediante el diseño urbano universal, en particular, a edificios públicos y espacios abiertos destinados para actividades públicas, generales o restringidas.
 
 ###### Artículo 283.
 
@@ -3609,57 +4307,87 @@ VIII. En predios de dominio público, de acuerdo a su destino y en su caso, con 
 
 Las licencias que se expidan en el supuesto de la fracción IV que antecede, deberán hacerse del conocimiento de la Procuraduría de Desarrollo Urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 284.
 
-Quienes proyecten realizar obras de edificación, deberán solicitar ante la Dependencia Municipal la certificación de usos y destinos, para efectos de administrar y controlar la zonificación determinada en los programas y planes municipales de desarrollo urbano; misma que se realizará mediante dos tipos de dictámenes:
+A. Quienes proyecten realizar obras de edificación, deberán solicitar ante la Dependencia Municipal la certificación de usos y destinos, para efectos de administrar y controlar la zonificación determinada en los programas y planes municipales de desarrollo urbano; misma que se realizará mediante dos tipos de dictámenes:
 
 I. El dictamen de usos y destinos, mediante el cual se certificará la clasificación y utilización determinadas para el predio en la zonificación vigente, para los efectos legales de actos o documentos donde se requiera esta información, y
 
-II. El dictamen de trazo, usos y destinos específicos fundados en el plan de desarrollo urbano de centro de población y en su caso, en el plan parcial de desarrollo urbano, donde se precisarán las normas y lineamientos para la elaboración del plan de urbanización, el proyecto definitivo de urbanización o el proyecto de edificación.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-Recibida la solicitud por la Dependencia Municipal, deberá expedir estos dictámenes, teniendo en cuenta las siguientes consideraciones:
+II. El dictamen de trazo, usos y destinos específicos fundados en el plan de desarrollo urbano de centro de población y en su caso, en el plan parcial de desarrollo urbano, donde se precisaran las normas y lineamientos para la elaboración del plan de urbanización, el proyecto definitivo de urbanización o el proyecto de edificación, así como las normas a las que se sujetarán las edificaciones afectas al Patrimonio Cultural del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+B. Recibida la solicitud por la Dependencia Municipal, deberá expedir estos dictámenes, teniendo en cuenta las siguientes consideraciones:
 
 I. Se expedirán a cualquier persona que los solicite, previo pago del derecho que fije la Ley de Ingresos Municipal;
 
 II. La solicitud expresará los datos generales del predio, así como el nombre, domicilio e identificación del solicitante;
 
-III. Estos dictámenes tienen el carácter de certificaciones, tendrán vigencia indefinida y validez legal, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Estos dictámenes tienen el carácter de certificaciones, tendrán vigencia indefinida y validez legal en tanto no se modifiquen o cancelen los planes o programas de los cuales se deriven; y
 
 IV. Recibida la solicitud se expedirán los dictámenes solicitados, en un plazo no mayor de una semana.
 
 Si la Dependencia Municipal no expide los dictámenes en los términos que se establecen en el plazo señalado, el promovente podrá impugnar la negativa ficta, conforme al procedimiento que se indica en el Título Décimo Tercero de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 285.
 
-Con fundamento en el Dictamen de Trazo, Usos y Destinos Específicos, se elaborará el proyecto de edificación, que deberá reunir los requisitos establecidos en el Reglamento de Construcción respectivo.
+El proyecto ejecutivo deberá cumplir los programas y planes de desarrollo urbano aplicables a su área de ubicación, los lineamientos marcados en los dictámenes de usos y destinos, y de trazo, usos y destinos específicos, así como con lo establecido en el presente Código, el reglamento de construcción municipal y demás leyes y reglamentos aplicables.
 
-Los proyectos y ejecución de obras de urbanización, edificación, restauración e infraestructura deberán realizarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida, registrado como perito conforme las disposiciones del Reglamento de Construcción respectivo.
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+El proyecto ejecutivo deberá contener los estudios de impacto ambiental elaborados por el promovente, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Los proyectos y ejecución de obras de edificación y restauración deberán realizarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida por la Dirección de Profesiones del Estado, registrado como perito conforme las disposiciones del título Décimo Primero del presente Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 286.
 
-Los proyectos de edificación deberán ser revisados por la Dependencia Municipal, para verificar el cumplimiento de las normas del Reglamento de Construcción, como también de otras disposiciones y reglamentos relativos a instalaciones especiales, seguridad y en su caso, diseño urbano e impacto ambiental.
+Los proyectos ejecutivos de edificación deberán ser revisados por la Dependencia Municipal, para verificar el cumplimiento de las normas del Reglamento de Construcción, como también de otras disposiciones y reglamentos relativos a instalaciones especiales, seguridad y en su caso, diseño urbano e impacto ambiental.
 
 En el caso de normas reglamentarias cuya aplicación corresponde a dependencias, organismos o entidades concesionarias de servicios públicos, federales o estatales, la Dependencia Municipal deberá realizar las consultas respectivas.
 
 Los municipios tomarán las medidas que estén a su alcance, a fin de simplificar los trámites administrativos para expedir las licencias que correspondan a construcciones dedicadas a vivienda. Asimismo, promoverán los convenios con las autoridades federales y estatales competentes, para facilitar los trámites de autorización de acciones de vivienda de interés social y popular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 287.
 
-La Dependencia Municipal una vez que reciba la solicitud de revisión del proyecto de edificación:
+La Dependencia Municipal una vez que reciba la solicitud de revisión del Proyecto Ejecutivo:
 
 I. Lo revisará y dictaminará en un plazo no mayor de diez días hábiles;
 
 II. Si el dictamen descalifica el proyecto de edificación, se notificará al promovente para los efectos que se establezcan en el Reglamento de Construcción del Municipio, y
 
-III. Si el dictamen recomienda autorizar el Proyecto de Edificación, en un plazo de 24 horas, se expedirá la licencia o permiso de construcción, previo pago del derecho que fije la Ley de Ingresos Municipal.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Si el dictamen recomienda autorizar el Proyecto Ejecutivo en un plazo de 24 horas, se expedirá la licencia o permiso de construcción, previo pago del derecho que fije la Ley de Ingresos Municipal.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+El personal de la dependencia municipal que revise y dictamine las solicitudes entregadas, deberá tener los conocimientos necesarios en la materia.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 288.
 
-Transcurrido el plazo que se establece en la fracción I del artículo anterior, sin que la Dependencia Municipal resuelva sobre la autorización de un proyecto de edificación, el urbanizador podrá solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 373 de este Código.
+Transcurrido el plazo que se establece en la fracción I del artículo anterior, sin que la Dependencia Municipal resuelva sobre la autorización de un Proyecto Ejecutivo el urbanizador podrá solicitar la intervención de la Procuraduría de Desarrollo Urbano, para los efectos de requerir a la Dependencia Municipal o al Ayuntamiento que corresponda, informe el motivo de su incumplimiento y, en su caso, se apliquen las sanciones administrativas que procedan conforme lo previsto en la fracción III del artículo 373 de este Código.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 289.
 
-La Dependencia Municipal podrá en todo tiempo ordenar las visitas de inspección que juzgue convenientes a los trabajos de edificación que se estén llevando a cabo, para que, en caso de no ajustarse a los planos aprobados en la licencia respectiva, se dispongan las modificaciones necesarias o se ordene la suspensión de la obra, imponiéndose al propietario o responsable de la misma, la sanción que se determine conforme al Reglamento de Construcción.
+La Dependencia Municipal podrá en todo tiempo ordenar las visitas de inspección que juzgue convenientes a los trabajos de edificación que se estén llevando a cabo, para que, en caso de no ajustarse al Proyecto Ejecutivo aprobados en la licencia respectiva, se dispongan las modificaciones necesarias o se ordene la suspensión de la obra, imponiéndose al propietario o responsable de la misma, la sanción que se determine conforme al Reglamento de Construcción.
 
 ###### Artículo 290.
 
@@ -3713,6 +4441,8 @@ Las autoridades municipales sancionarán el incumplimiento de este precepto, en 
 
 ### CAPÍTULO VIII. De los Sistemas de Acción Urbanística y sus Modalidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 296.
 
 El urbanizador está obligado, previamente a permitir la ocupación de predios o fincas o escriturarlos a sus adquirentes, a cumplir estrictamente los siguientes requisitos:
@@ -3765,7 +4495,9 @@ c) El valor de la totalidad de las obras de urbanización o de la etapa autoriza
 
 d) En su caso, el grado de avance en el proceso de construcción de las obras de urbanización y el valor de las obras pendientes de ejecutar, los cuales se acreditarán mediante el informe o dictamen que emita el perito a cargo de la supervisión municipal de las mismas;
 
-II. Con la solicitud se deberá presentar el dictamen donde el organismo público descentralizado encargado de la promoción de vivienda de interés social del Estado, certifique la viabilidad jurídica, social, económica y urbanística del proyecto;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Con la solicitud se deberá presentar el dictamen donde el Instituto Jalisciense de la Vivienda certifique la viabilidad jurídica, social, económica y urbanística del proyecto;
 
 III. Recibida la solicitud, la Dependencia Municipal resolverá en un plazo no mayor de quince días hábiles, señalando en su caso el monto de la garantía que deberá otorgar a favor del municipio para asegurar la ejecución de las obras de urbanización y su correcta terminación, mediante garantía hipotecaria, fideicomiso de garantía u otro medio eficaz y solvente;
 
@@ -3775,7 +4507,13 @@ V. Así mismo, la Dependencia Municipal procederá de inmediato a informar al Ca
 
 VI. La garantía se cancelará cuando se reciban las obras de urbanización por la Dependencia Municipal.
 
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. Una vez autorizado un proyecto de vivienda de interés social, se deberá de enterar del mismo, al Instituto Jalisciense de la Vivienda, quien lleva un control de la vivienda en el estado.
+
 ### CAPÍTULO I. Del patrimonio cultural urbano y arquitectónico
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 299.
 
@@ -3869,11 +4607,17 @@ Las autorizaciones de fusiones, subdivisiones y relotificaciones de predios se o
 
 La subdivisión o relotificación de predios urbanizados se autorizará conforme a las siguientes disposiciones:
 
-I. El titular del predio al promover la subdivisión o relotificación, solicitará el Dictamen de Trazo, Usos y Destinos Específicos, anexando un croquis de los predios involucrados, con su localización, referencia al área donde se ubiquen, y la propuesta de subdivisión o relotificación, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. La Dependencia Municipal con fundamento en el Dictamen de Trazo, Usos y Destinos Específicos, otorgará o negará la autorización de subdivisión o relotificación y en su caso, expedirá en un término de 24 horas la licencia de subdivisión o relotificación, previo pago del derecho que fije la Ley de Ingresos Municipal.
+I. El titular del predio al promover la subdivisión o relotificación, solicitará los dictámenes de Trazo, y de Usos y Destinos Específicos, anexando un croquis de los predios involucrados, con su localización, referencia al área donde se ubiquen, y la propuesta de subdivisión o relotificación; y
 
-No podrá subdividirse un lote, cuya licencia de edificación se haya otorgado en base a la totalidad de la superficie del mismo.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. La Dependencia Municipal con fundamento en los dictámenes, otorgará o negará la autorización de subdivisión o relotificación y en su caso, expedirá en un término de 24 horas la licencia de subdivisión o relotificación, previo pago del derecho que fije la Ley de Ingresos Municipal.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+No podrá subdividirse un predio cuyos lotes resultantes no cumplan con la superficie y frente mínimo establecido en los planes básicos de desarrollo urbano.
 
 ###### Artículo 308.
 
@@ -3893,7 +4637,9 @@ I. Los actos de subdivisión o relotificación de predios para asignarles usos d
 
 II. En los actos de subdivisión o relotificación de predios, cuando los predios resultantes sean mayores a una hectárea y no se proponga modificar su aprovechamiento actual, no se requerirá de autorización de la Dependencia Municipal, y
 
-III. En casos previstos en la fracción anterior, deberá indicarse o establecerse el acceso a la vía pública necesario conforme la utilización de los predios resultantes.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. En casos previstos en la fracción anterior, deberá indicarse o establecerse las áreas de cesión para destino de vialidades necesarias conforme la utilización de los predios resultantes.
 
 ###### Artículo 310.
 
@@ -3901,9 +4647,11 @@ Las fusiones de predios no requerirán autorización del Ayuntamiento, y en su c
 
 ### CAPÍTULO I. De la clasificación y definición de los directores responsables de proyecto u obras y peritos en supervisión municipal
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 311.
 
-Los sistemas de acción urbanística regulados en la (sic) presente Capítulo, corresponden a las formas de participación ciudadana y vecinal en la realización de obras de urbanización y edificación del equipamiento urbano.
+Los sistemas de acción urbanística regulados en el presente Capítulo, corresponden a las formas de participación ciudadana y vecinal en la realización de obras de urbanización y edificación del equipamiento urbano.
 
 La realización de obras de urbanización, de edificación o de urbanización y edificación simultáneas, conllevará la ejecución de los planes o programas de desarrollo urbano, aplicando los siguientes sistemas:
 
@@ -3945,9 +4693,11 @@ Las asociaciones de vecinos legalmente constituidas y reconocidas por el Ayuntam
 
 La acción urbanística por contribución de mejoras, comprende aquellas obras de urbanización y edificación que sean promovidas por el Consejo Estatal de Desarrollo Urbano para uno o varios destinos, generando beneficios en forma indirecta o general, a los habitantes o propietarios de predios o fincas de un centro de población o de una zona del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 317.
 
-El Proyecto Definitivo de Urbanización deberá incluir:
+El Proyecto Definitivo de Urbanización deberá incluir, además de lo establecido en el artículo 257 del presente Código, lo siguiente:
 
 I. Costo de la obra;
 
@@ -4065,9 +4815,11 @@ XIII. La propuesta para identificar un área de gestión urbana integral y const
 
 XIV. La asociación, organismo o entidad se regirá por las normas reglamentarias generales que emita el Consejo Estatal de Desarrollo Urbano, que se integrarán a su acta constitutiva, así como las disposiciones específicas que se acuerden al constituirla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 325.
 
-La acción urbanística de objetivo social se refiere a las urbanizaciones que se desarrollarán en forma progresiva, mediante la gestión pública a través de los municipios, del Ejecutivo Estatal o de ambas autoridades, conforme a las siguientes disposiciones generales:
+La acción urbanística de objetivo social se refiere a las urbanizaciones y edificaciones que se desarrollarán en forma progresiva, a través del uso de suelo urbano para la vivienda social, mediante la gestión pública que realicen los Ayuntamientos, el Ejecutivo Estatal o ambas autoridades, así como las asociaciones de vecinos o mediante inversión privada. Estas acciones se desarrollarán en las modalidades de auto urbanización, lotes con servicios, vivienda progresiva y vivienda terminada, fomentando el uso de sistemas técnicos de autoconstrucción, conforme a las siguientes disposiciones generales:
 
 I. La finalidad de la acción urbanística por objetivo social en acciones de crecimiento es responder a la demanda de suelo urbano para la vivienda de interés social y evitar con ello el asentamiento irregular;
 
@@ -4099,15 +4851,33 @@ I. Realizar los estudios que la fundamenten, tanto en lo económico y social, co
 
 II. Con base a estos estudios, el municipio tomará la decisión en un plazo no mayor de 30 días de autorizar la urbanización bajo este sistema;
 
-III. Aprobado el estudio, el municipio dispondrá se expida el proyecto definitivo de urbanización, donde se definirán las obras mínimas que se ejecutarán, como también las obras complementarias que integran una urbanización popular completa;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-IV. Las obras mínimas que se exigirán son las siguientes:
+III. Aprobado el estudio, el municipio expedirá el proyecto definitivo de urbanización, donde se definirán las obras mínimas que se ejecutarán, como también las obras complementarias que integran una urbanización popular completa;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Considerar las obras mínimas siguientes:
 
 a) Aprovisionamiento de agua potable, mediante hidrantes localizados en una de las esquinas, y
 
 b) Conformación del terreno para señalar las vías públicas;
 
-V. Realizadas las obras mínimas conforme al plan parcial de desarrollo urbano y su proyecto definitivo, la Dependencia Municipal procederá a su recepción levantando el acta respectiva, y
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+c) Red de alcantarillado sanitario;
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+d) Sistema de captación de agua de lluvia; y
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+e) Servidumbres de paso.
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. Realizadas las obras mínimas conforme al plan parcial de desarrollo urbano y el Proyecto Definitivo de Urbanización, la Dependencia Municipal procederá a su recepción levantando el acta respectiva, y
 
 VI. Una vez que la Dependencia Municipal haya recibido de conformidad las obras mínimas, se podrá proceder a ocupar los predios.
 
@@ -4155,7 +4925,7 @@ Cuando en un centro de población sea urgente la realización de obras públicas
 
 ###### Artículo 336.
 
-Para la instrumentación de políticas de conservación de patrimonio cultural edificado en el Estado, se tomará en consideración lo establecido en el presente Código y en la Ley de Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios.
+Para la instrumentación de políticas de conservación de patrimonio cultural edificado en el estado, se tomará en consideración lo establecido en el presente Código y en la Ley de Patrimonio Cultural del Estado de Jalisco y sus municipios, los tratados internacionales, y los ordenamientos de nivel federal.
 
 Los planes de desarrollo urbano municipales, de centros de población y parciales señalarán los inmuebles y zonas urbanas con valores culturales que deberán ser protegidos conforme a la legislación de la materia, mismos que deberán ser tomados en cuenta por los municipios al realizar acciones, obras o inversiones públicas, así como para expedir autorizaciones y licencias de su competencia.
 
@@ -4215,13 +4985,17 @@ II. Proporcionar a la población del municipio, la certeza de que los anuncios q
 
 III. Que los municipios regulen, registren, inspeccionen, verifiquen, aperciban, sancionen y otorguen la licencia correspondiente, previo pago de los derechos correspondientes, para la colocación de anuncios en espacios abiertos;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-IV. Establecer el equilibrio coherente y armónico entre la actividad económica de publicidad exterior y una imagen digna del municipio, y
+IV. Establecer el equilibrio coherente y armónico entre la actividad económica de publicidad exterior y una imagen digna del municipio;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-V. Asegurar que los anuncios redactados en idioma español se apeguen a las reglas de redacción, ortografía y gramática que especifica el Diccionario de la Real Academia Española, exceptuando las marcas, avisos y nombres comerciales que se encuentren legalmente registrados conforme a lo establecido en la Ley de Propiedad Intelectual.
+V. Asegurar que los anuncios redactados en idioma español se apeguen a las reglas de redacción, ortografía y gramática que especifica el Diccionario de la Real Academia Española, exceptuando las marcas, avisos y nombres comerciales que se encuentren legalmente registrados conforme a lo establecido en la Ley de Propiedad Intelectual; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. Garantizar que los anuncios no obstruyan, ni dificulten la visibilidad de la señalética de movilidad.
 
 ###### Artículo 342.
 
@@ -4251,7 +5025,9 @@ I. Cuando su contenido, haga referencia a ideas o imágenes con textos o figuras
 
 II. Cuando los anuncios alteren el entorno creando un desorden y caos visual en el contexto urbano que propicia falta de identidad, el desarraigo de la población y el deterioro de la calidad de vida en la ciudad;
 
-III. Cuando por su ubicación, dimensiones o materiales empleados en su construcción o instalación, puedan poner en peligro la salud, la vida o la integridad física de las personas o la seguridad de los bienes; o tengan semejanza con las señales o indicaciones que regulen el tránsito, en cualquiera de sus tipos: informativas, restrictivas o preventivas;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Cuando por su ubicación, dimensiones o materiales empleados en su construcción o instalación, puedan poner en peligro la salud, la vida o la integridad física de las personas o la seguridad de los bienes; tengan semejanza con las señales o indicaciones que regulen el tránsito, o bien que puedan obstruir o dificultar la visibilidad de la señalética de movilidad, en cualquiera de sus tipos: informativas, restrictivas o preventivas;
 
 IV. Cuando el bien o servicio de que se anuncie, pueda poner en riesgo los intereses generales de la comunidad;
 
@@ -4305,39 +5081,37 @@ Estas restricciones también se combinarán con aquellas que indiquen las relaci
 
 ###### Artículo 347.
 
-La elaboración de los planes y programas de desarrollo urbano, proyectos, ejecución y supervisión de obras requerirá el auxilio y la participación de los directores responsables, en los términos de este Título.
+La elaboración de los planes y programas de desarrollo urbano, proyectos, ejecución y supervisión de obras requerirá el auxilio y la participación de los directores responsables y corresponsables, en los términos de este Título.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 348.
 
-Los directores responsables de proyecto u obras tendrán la función de técnicos responsables de los proyectos u obras ante los particulares y la autoridad municipal, actuando siempre a petición expresa de los interesados.
+Los directores responsables y corresponsables de proyecto u obras tendrán la función de técnicos responsables de los proyectos u obras ante los particulares y la autoridad municipal, actuando siempre a petición expresa de los interesados.
 
-Los peritos en supervisión municipal tendrán una función de orden normativo, actuando siempre en auxilio y a petición de la autoridad municipal.
+Los peritos en supervisión municipal tendrán una función de orden normativo, actuando siempre en coadyuvancia con la autoridad municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 349.
 
-Por la modalidad de su actuación y alcance de su responsabilidad los directores responsables, se clasifican según su desempeño y especialidad, de la siguiente manera:
+Por la modalidad de su actuación y alcance de su responsabilidad los directores responsables y corresponsables, se clasifican según su desempeño y especialidad, de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-I. En Planeación Urbana: Son los profesionistas que apoyan a las autoridades en las tareas de la planeación del desarrollo urbano, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y legalmente establecidos, responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, así como con otros niveles de planeación y demás leyes y reglamentos aplicables;
+I. En Planeación Urbana: Son los profesionistas que apoyan a las autoridades en las tareas de la planeación del desarrollo urbano, con título, cédula profesional de arquitecto, ingeniero civil o urbanista, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y legalmente establecidos, responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, así como con otros niveles de planeación y demás leyes y reglamentos aplicables;
 
-II. En Proyecto: Son los profesionistas autores de los proyectos y expertos en la elaboración de los proyectos ejecutivos, que se encuentran legalmente establecidos, clasificados en cuanto a su profesión, ejercicio, especialización y responsabilidad, de la siguiente manera;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+II. En Proyecto: Son los profesionistas autores de los proyectos y expertos en la elaboración de los proyectos definitivos y ejecutivos, que se encuentran legalmente establecidos, clasificados en cuanto a su profesión, ejercicio, especialización y responsabilidad, de la siguiente manera;
 
-a) De Edificación: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de edificación con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, el reglamento de construcción municipal y demás leyes y reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables;
+a) De Edificación: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de edificación con título, cédula profesional de arquitecto o profesión equivalente, expedida por Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, el reglamento de construcción municipal y demás leyes y reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables;
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+b) De Restauración: Son los responsables de la elaboración de los proyectos ejecutivos de restauración de edificios y monumentos del patrimonio histórico y cultural, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios, el presente Código Urbano, los reglamentos municipales y demás leyes y disposiciones aplicables;
 
-b) De Restauración: Son los responsables de la elaboración de los proyectos ejecutivos de restauración de edificios y monumentos del patrimonio histórico y cultural, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios, el presente Código Urbano, los reglamentos municipales y demás leyes y disposiciones aplicables;
+c) Urbanización: Son responsables de la elaboración de los proyectos definitivos de cualquier género de obra urbana, con título, cédula profesional de arquitecto, urbanista o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables; y
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-c) Urbanización: Son responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra urbana, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables; y
-
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
-
-d) De Infraestructura: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los programas y planes de desarrollo urbano aplicables; y
+d) De Infraestructura: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los programas y planes de desarrollo urbano aplicables; y
 
 III. En Obra: Son los profesionistas responsables del control y construcción de cualquier género de obra, que se encuentran legalmente establecidos, responsabilizándose que la ejecución de las obras que le sean encomendadas, cuidando y dirigiendo bajo su responsabilidad que, se realicen estrictamente de acuerdo a los proyectos ejecutivos y especificaciones aprobados por la autoridad municipal, de las leyes y reglamentos que correspondan, de las autorizaciones para el inicio, durante y la terminación de la misma, de las normas de seguridad, del sistema constructivo, de la calidad de los materiales, de la afectación a terceros y de todo cuanto se requiera durante el proceso, terminación y finiquito de la obra, clasificados en cuanto a su profesión, ejercicio, especialización y responsabilidad, de la siguiente manera:
 
@@ -4345,39 +5119,43 @@ III. En Obra: Son los profesionistas responsables del control y construcción de
 
 a) De Edificación: Son los responsables de cualquier género de obra de edificación, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia;
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-b) De Restauración: Son los responsables de cualquier género de obra de restauración de edificios y monumentos del patrimonio histórico, cultural y artístico, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad en la materia;
+b) De Restauración: Son los responsables de cualquier género de obra de restauración de edificios y monumentos del patrimonio histórico, cultural y artístico, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia;
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
 c) De Urbanización: Son los responsables de cualquier género de obra urbana, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia; e
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-d) Infraestructura: Son los responsables de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil, o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia.
+d) De infraestructura: Son los responsables de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil, o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 350.
 
-Los peritos en supervisión municipal son los profesionistas auxiliares de la autoridad municipal en la verificación de las obras de urbanización o edificación, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia, que son los contratados por la autoridad municipal para auxiliarla en la verificación de las acciones urbanísticas, con el propósito de que éstas se ejecuten estrictamente de acuerdo a los proyectos y especificaciones aprobados por la autoridad municipal, reportando las anomalías que detecte, asumiendo en cada caso las responsabilidades legales que de tal proceso se deriven, teniendo, asimismo, la responsabilidad de informar periódicamente o antes en el caso de ser necesario, a la dependencia municipal correspondiente.
+Los peritos en supervisión municipal son los profesionistas auxiliares de la autoridad municipal en la verificación de las obras de urbanización o edificación, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad y experiencia en la materia, que son los contratados por la autoridad municipal para auxiliarla en la verificación de las acciones urbanísticas, con el propósito de que éstas se ejecuten estrictamente de acuerdo a los proyectos y especificaciones aprobados por la autoridad municipal, reportando las anomalías que detecte, asumiendo en cada caso las responsabilidades legales que de tal proceso se deriven, teniendo, asimismo, la responsabilidad de informar periódicamente o antes en el caso de ser necesario, a la dependencia municipal correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+Los directores responsables deberán auxiliarse de los corresponsables de obra que son los profesionistas que tiene (sic) conocimientos especializados en un área específica del proyecto, de la construcción, de la restauración, de la urbanización o infraestructura y que por ello deben responsabilizarse junto con el Director Responsable de Proyecto u Obras, en el área específica de su especialidad deberá contar con su título, cédula profesional de ingeniero civil, arquitecto, profesión equivalente o del área de su especialidad, expedida por Dirección de Profesiones del Estado de Jalisco, con especialidad y experiencia en la materia
 
-Adicionalmente los directores responsables podrán auxiliarse de los corresponsables de obra que son los profesionistas que tiene conocimientos especializados en un área específica del proyecto, de la construcción, de la restauración, de la urbanización o infraestructura y que por ello puede responsabilizarse junto con el Director Responsable de Proyecto u Obras, cuando éste así lo solicite o cuando la complejidad o el tamaño de la obra lo requiera en el área específica de su especialidad, deberá contar con su título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia.
+La clasificación de los directores responsables y corresponsables no es limitativa, los profesionistas tienen la posibilidad de tener diversas, siempre y cuando reúnan los requisitos necesarios para desempeñar su actividad en diferentes especialidades, las cuales serán certificados de conformidad con la Ley para el Ejercicio de las Profesiones del Estado de Jalisco.
 
-La clasificación de los directores responsables no es limitativa, los profesionistas tienen la posibilidad de tener diversas, siempre y cuando reúnan los requisitos necesarios para desempeñar su actividad en diferentes especialidades, las cuales serán certificadas por el Colegio de Profesionistas al que pertenezcan y ratificadas por la autoridad municipal.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 351.
 
-Los directores responsables y los corresponsables de proyecto u obras son los responsables solidarios junto con los propietarios o poseedores de predios de que en las obras y especialidades en que intervengan se cumpla con lo establecido en el presente Código Urbano, los reglamentos municipales y demás leyes y reglamentos, así como los planes y programas de desarrollo urbano aplicables.
+Los directores responsables y los corresponsables de proyecto u obras son los responsables solidarios junto con los propietarios o poseedores de predios de que en las obras y especialidades en que intervengan se cumpla con lo establecido en el presente Código Urbano, los reglamentos municipales y demás leyes, reglamentos y normas, así como los planes y programas de desarrollo urbano aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 352.
 
-Para el ejercicio de las funciones, los directores responsables y corresponsables deberán tramitar y obtener su registro ante la autoridad municipal del lugar donde desempeñaran su trabajo.
+Para el ejercicio de las funciones, los directores responsables y corresponsables deberán tramitar y obtener su registro ante la Comisión Municipal de Directores Responsables del lugar donde desempeñaran su trabajo.
 
-El Registro de los directores responsables y corresponsables será por una sola vez, debiendo actualizar su vigencia una vez al año durante el mes de enero ante la autoridad municipal, acreditando la capacitación y actualización profesional correspondiente.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+El Registro de los directores responsables y corresponsables será por una sola vez, debiendo actualizar su vigencia cada tres años, durante el primer año del ejercicio constitucional del ayuntamiento ante la Comisión Municipal de Directores Responsables, acreditando la capacitación y actualización profesional correspondiente de conformidad con la Ley para el Ejercicio de las Profesiones del Estado de Jalisco.
 
 La autoridad municipal deberá llevar un catálogo o registro pormenorizado y público de los directores responsables y corresponsables, que hayan reunido los requisitos correspondientes y por tanto pueden fungir como tales.
 
@@ -4411,9 +5189,11 @@ La Secretaría de Infraestructura y Obra Pública y los municipios podrán auxil
 
 El Consejo Estatal de Peritos en Supervisión Municipal estará integrado por los representantes de los colegios de profesionistas de ingenieros civiles y arquitectos legalmente establecidos y registrados en el Estado de Jalisco y acreditados por la Dirección de Profesiones del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 356.
 
-El Consejo Estatal de Peritos en Supervisión Municipal se sujetara a lo establecido en el Reglamento que al efecto expida.
+El Consejo Estatal de Peritos en Supervisión Municipal se sujetará a lo establecido en el Reglamento que al efecto expida el Ayuntamiento.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
@@ -4431,9 +5211,15 @@ Los propietarios o habitantes para ejercer este derecho, pueden optar por inform
 
 Si con el ejercicio de este derecho se acredita ante la autoridad competente la trasgresión de las disposiciones contenidas en éste Código ó los planes y programas correspondientes, la autoridad competente, además de la aplicación de medidas de seguridad y sanciones, se encontrará obligada a ejercitar el juicio de lesividad correspondiente ante el Tribunal de lo Administrativo del Estado de Jalisco; en caso de que la autoridad resuelva de forma adversa a la solicitud de los habitantes afectados, o no lo haga en el término previsto por el párrafo precedente, éstos podrán acudir ante la autoridad jurisdiccional a dilucidar éste derecho en los términos de la ley reglamentaria respectiva.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+No procederá la acción prevista en los párrafos anteriores cuando se trate de no más de cincuenta metros cuadrados de reconstrucción, o ampliación en vivienda popular y no invada zona de propiedad privada, pública, servidumbres o restricciones.
+
 ### CAPÍTULO V. De las infracciones
 
 ### CAPÍTULO VI. De las sanciones
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 358.
 
@@ -4441,7 +5227,9 @@ Las autoridades competentes en la aplicación de este Código y para la expedici
 
 Las autoridades competentes en sus relaciones con los particulares, tendrán las siguientes obligaciones:
 
-I. En el otorgamiento de las autorizaciones o licencias, no podrán exigir más requisitos que los previstos en este Código y sus disposiciones reglamentarias, y tendrán la obligación de otorgarlas si el interesado cumple con los mismos; la negativa injustificada por parte de los servidores públicos a otorgarlas, implicará el fincamiento de las responsabilidades que procedan;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. En el otorgamiento de las autorizaciones o licencias, no podrán exigir más requisitos que los previstos en este Código y sus disposiciones reglamentarias, y tendrán la obligación de otorgarlas si el interesado cumple con los mismos. Para ello, corresponde al Ayuntamiento expedir el catálogo de trámites y requisitos y publicarlo en el órgano de difusión oficial municipal, así como en su página web; la negativa injustificada por parte de los servidores públicos a otorgarlas, implicará el fincamiento de las responsabilidades que procedan;
 
 II. Solicitar la comparecencia de éstos, sólo cuando así esté previsto en la ley, previa citación en la que se hará constar expresamente el lugar, fecha, hora y objeto de la comparecencia, así como los efectos de no atenderla;
 
@@ -4463,17 +5251,23 @@ X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en
 
 La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o los derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 359.
 
-Los interesados en los procedimientos de licencias de construcción tendrán reconocidos específicamente, además de los establecidos con carácter general en otras leyes y reglamentos, los siguientes derechos:
+Los interesados en los procedimientos de licencias de construcción y urbanización tendrán reconocidos específicamente, además de los establecidos con carácter general en otras leyes y reglamentos, los siguientes derechos:
 
-I. Al trámite del procedimiento sin demoras indebidas, obteniendo un pronunciamiento expreso del municipio que conceda o niegue la licencia de construcción solicitada dentro del plazo máximo para resolver dicho procedimiento;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. Al trámite del procedimiento sin demoras indebidas, obteniendo un pronunciamiento expreso del municipio que conceda o niegue la licencia solicitada dentro del plazo máximo para resolver dicho procedimiento;
 
 II. A obtener información y orientación acerca de los requisitos jurídicos y técnicos que las leyes y reglamentos imponga (sic) a los proyectos, obras o solicitudes que los interesados se propongan realizar;
 
 III. A utilizar medios informáticos, electrónicos o telemáticos, especialmente internet, en la tramitación de los procedimientos y en la obtención de información urbanística;
 
-IV. A no presentar documentos que obren en poder de los servicios municipales;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. A no presentar documentos que obren en poder de los servicios municipales, para lo cual bastará el señalamiento de la documentación;
 
 V. A conocer en cualquier momento el estado de trámite y obtener copia de los documentos contenidos en el mismo;
 
@@ -4533,7 +5327,9 @@ b) La autorización del proyecto definitivo de urbanización;
 
 c) La autorización, licencia o permiso de urbanización;
 
-d) La autorización del proyecto de edificación;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+d) La autorización del proyecto ejecutivo;
 
 e) La autorización, licencia o permiso de construcción o edificación;
 
@@ -4579,7 +5375,13 @@ I. El Gobernador del Estado y la Secretaría de Medio Ambiente y Desarrollo Terr
 
 II. Los ayuntamientos y los presidentes municipales.
 
-Las autoridades competentes, tanto para aplicar sanciones como para determinar y ejecutar medidas de seguridad, deberán fundar y motivar su resolución, notificarla personalmente y conceder previa audiencia al interesado.
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Las medidas de seguridad podrán ser impuestas por la autoridad a quien corresponda la realización de visitas de inspección en el momento de la inspección.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Las autoridades competentes, tanto para aplicar sanciones como para determinar y ejecutar medidas de seguridad, deberán fundar y motivar su resolución, notificarla personalmente y conceder previa audiencia al interesado, esta facultad podrá ser delegable mediante acuerdo que se publique en los órganos oficiales de difusión.
 
 ###### Artículo 366.
 
@@ -4623,11 +5425,21 @@ II. La clausura temporal o definitiva, total o parcial de las instalaciones, las
 
 III. La desocupación o desalojo de inmuebles, cuando tal medida resulte necesaria para cumplimentar determinaciones basadas en el presente Código;
 
-IV. La demolición, previo dictamen técnico, de obras en proceso de ejecución o ejecutadas en contravención de especificaciones y ordenanzas aplicables, demolición que será a costa del infractor y sin derecho a indemnización;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-V. El retiro de instalaciones deterioradas, peligrosas o que se hayan realizado en contravención de este Código y demás ordenamientos aplicables, y
+IV. La demolición, previo dictamen técnico, de obras en proceso de ejecución o ejecutadas en contravención de especificaciones y ordenanzas aplicables, o bien cuando se ponga en riesgo la vida de personas o la destrucción de cosas. La demolición será a costa del infractor y sin derecho a indemnización;
 
-VI. La prohibición de actos de utilización que sean violatorios a las normas legales vigentes.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. El retiro de instalaciones deterioradas, peligrosas o que se hayan realizado en contravención de este Código y demás ordenamientos aplicables,
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VI. La prohibición de actos de utilización que sean violatorios a las normas legales vigentes; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+VII. La realización de actos específicos para la conservación de inmuebles o protección de personas y cosas.
 
 ###### Artículo 371.
 
@@ -4651,9 +5463,13 @@ II. Requieran o condicionen la tramitación de un procedimiento y su resolución
 
 III. No cumplan los plazos y términos establecidos en los trámites correspondientes;
 
-IV. Realicen o autoricen actos en contra de lo dispuesto en los programas y planes de desarrollo urbano y su zonificación;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-V. No observen u omitan acatar las disposiciones legales vigentes.
+IV. No observen u omitan acatar las disposiciones legales vigentes; y
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+V. No hayan impuesto medidas de seguridad y con ello se causó daño a terceros o no hayan seguido los procedimientos de sanción administrativa dentro de los plazos legales.
 
 ###### Artículo 374.
 
@@ -4661,9 +5477,13 @@ Los funcionarios públicos responsables de las infracciones señaladas en los ar
 
 Los servidores públicos que incurran en la falta prevista en la fracción IV del artículo que antecede, se harán acreedores a cualquiera de las sanciones previstas en las fracciones III, IV y V del artículo 64 de la Ley de Responsabilidades de Servidores Públicos del Estado, previo procedimiento administrativo que se les instaure y considerando la gravedad de los hechos cometidos. Dicha sanción será independiente de la responsabilidad patrimonial en que incurra y del ejercicio de la acción penal por haber ejercitado actos tipificados como delitos, de conformidad con el Código Penal del Estado.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+La prescripción de la responsabilidad a que se refiere la fracción I del artículo 373, iniciará a partir de que cause ejecutoria la resolución que haya determinado la falta de fundamentación y motivación o la indebida fundamentación o motivación del acto correspondiente.
+
 ###### Artículo 375.
 
-Todo acto u omisión que contravenga lo dispuesto en este Código, los reglamentos, los planes o programas, la zonificación establecida y demás disposiciones que se expidan, serán sancionados por las autoridades estatales y municipales correspondientes, en el ámbito de su competencia, debiendo imponer al infractor las sanciones administrativas que establece el artículo siguiente, conforme a la naturaleza de la infracción y las circunstancias de cada caso.
+Todo acto u omisión que contravenga lo dispuesto en este Código, los reglamentos, los planes o programas, la zonificación establecida y demás disposiciones que se expidan, serán sancionados por las autoridades estatales y municipales correspondientes, en el ámbito de su competencia, debiendo imponer al infractor las sanciones administrativas señaladas en el presente capítulo, conforme a la naturaleza de la infracción y las circunstancias de cada caso.
 
 ###### Artículo 376.
 
@@ -4691,13 +5511,27 @@ X. A quienes vendan terrenos como urbanos sin tener tal calidad, o sin autorizac
 
 Las sanciones pecuniarias aplicadas en la ejecución de este Código, se extinguirán en la forma prevista en la Ley de Hacienda Municipal.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 377.
 
-En caso de haber realizado construcciones, ampliaciones o reconstrucciones con o sin licencia, autorización o permiso en contravención de lo dispuesto en el plan o programa correspondiente, se procederá a demoler dicha obra, conforme a los siguientes criterios:
+Las sanciones podrán consistir en:
 
-I. Si las acciones se ejecutaron sin autorización, licencia o permiso, el costo de los trabajos será a cargo de los propietarios o poseedores a título de dueño y las autoridades estatales o municipales no tendrán obligación de pagar indemnización alguna, y
+I. Apercibimiento por escrito;
 
-II. Si las acciones se ejecutaron con autorización, licencia o permiso expedido por autoridad competente, el costo de los trabajos será a cargo de la autoridad responsable y los propietarios o poseedores a titulo de dueño que acrediten que actuaron de buena fe, tendrán derecho a la indemnización sobre pago de daños.
+II. Multa de veinte a seis mil quinientas veces el salario mínimo general diario vigente en Guadalajara, atendiendo a la gravedad y circunstancias de la infracción;
+
+III. Clausura temporal, parcial o total;
+
+IV. Clausura definitiva, parcial o total;
+
+V. Pérdida o deber de restitución de los beneficios fiscales por actos ejecutados en contra de las prohibiciones de este Código;
+
+VI. Ejecución de obras propias de la edificación o accesorias a ellas en beneficio de la colectividad; o
+
+VII. Demolición de conformidad con lo previsto en este Código.
+
+Las sanciones pecuniarias previstas en este Código se determinarán y ejecutarán en los términos de las disposiciones fiscales aplicables.
 
 ###### Artículo 378.
 
@@ -4723,7 +5557,9 @@ I. Debe tomarse en cuenta:
 
 a) La gravedad de la infracción;
 
-b) Los daños y perjuicios producidos o que puedan producirse;
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+b) Los daños y perjuicios producidos o que puedan producirse a terceros y a la colectividad;
 
 c) El carácter intencional o no del acto u omisión constitutiva de la infracción, y
 
@@ -4733,9 +5569,11 @@ II. Cuando sean varios los responsables, cada uno debe ser sancionado, y
 
 III. En caso de reincidencia debe imponerse otra multa mayor dentro de los límites ordinarios o duplicarse la multa inmediata anterior que se impuso y procederse a la suspensión o cancelación del registro en el Padrón.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 382.
 
-Las multas impuestas en los términos de este Código constituyen créditos fiscales y debe hacerse efectivas mediante el procedimiento administrativo de ejecución.
+Las multas impuestas en los términos de este Código constituyen créditos fiscales y debe (sic) hacerse efectivas mediante el procedimiento administrativo de ejecución. No podrá recibirse el pago de multas, sino sólo aquella que como sanción se haya determinado en la resolución correspondiente.
 
 ###### Artículo 383.
 
@@ -4745,7 +5583,17 @@ I. Se comunicarán, por escrito, al presunto infractor, los hechos constitutivos
 
 II. Transcurrido el término a que se refiere la fracción anterior, se procederá al desahogo de las pruebas, aportadas, hecho lo anterior, y dentro de los quince días hábiles siguientes se resolverá considerando los argumentos y pruebas que se hubiesen hecho valer, y
 
-III. La resolución será escrita y debidamente fundada y motivada, y se notificará en forma personal al infractor.
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. La resolución será escrita y debidamente fundada y motivada, y se notificará en forma personal al infractor, donde se determinará la sanción correspondiente y, en caso de que requiera ejecución, el plazo para ello, con las medidas que deba adoptar el particular.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+La prescripción de las infracciones urbanísticas se producirá por el transcurso de diez años, salvo las que afecten zonas de servidumbre, propiedad pública, bienes nacionales, zonas de protección ecológicas, o patrimonio cultural, las cuales serán imprescriptibles.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+El plazo de prescripción de las infracciones comenzará a computarse desde el día en que la infracción se haya cometido; desde aquel en que hubiera podido incoarse el procedimiento sancionador; o en su caso, cuando el afectado o la autoridad tuvieren conocimiento de la infracción.
 
 ###### Artículo 384.
 
@@ -4763,9 +5611,13 @@ b) Efectué o tolere cambios de proyecto, en el caso de no contar al momento de 
 
 c) De igual forma que el inciso anterior, si la bitácora no coincide con el proyecto autorizado, o las obras y la bitácora no coinciden, previa autorización de modificación o dentro de los límites de tolerancia que contempla este Reglamento,
 
-d) No solicite darse de baja como perito responsable de una obra de conformidad con este Código, y
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+d) No solicite darse de baja como perito o director responsable de una obra de conformidad con este Código; y
 
 e) No se notifique a la dependencia municipal competente del cambio de su domicilio;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 II. Se suspenderá el ejercicio de perito o director responsable por un período comprendido entre 5 y 6 meses cuando:
 
@@ -4773,17 +5625,27 @@ a) Omita la tramitación de la licencia de habitabilidad, una vez terminada la c
 
 b) Acumule 3 amonestaciones en el período de 1 año, a partir de la primera amonestación que se pretenda computar, y
 
-c) No se respete el proyecto definitivo de urbanización autorizado.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+c) No se respete el proyecto definitivo de urbanización o el proyecto ejecutivo autorizado; y
 
 III. Se procederá a la cancelación del registro del perito o director responsable cuando:
 
-c) Se acumulen 3 suspensiones,
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-d) Realice modificaciones sustanciales al proyecto que impliquen daños a la infraestructura municipal, al medio ambiente o que ponga en riesgo inminente la integridad de las personas o de las cosas,
+a) Se acumulen 3 suspensiones,
 
-e) Firme como perito o director responsable en proyectos sin haberlo realizado, y
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-f) Firme como perito o director responsable y no la esté realizando.
+b) Realice modificaciones sustanciales al proyecto que impliquen daños a la infraestructura municipal, al medio ambiente o que ponga en riesgo inminente la integridad de las personas o de las cosas,
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+c) Firme como director responsable en proyectos sin haberlo realizado; y
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+d) Firme como perito o director responsable de obra y no la esté realizando.
 
 ###### Artículo 386.
 
@@ -4803,7 +5665,7 @@ I Separarse de sus funciones sin haber obtenido la licencia correspondiente, por
 
 II. Reincidir en faltas de probidad en el ejercicio de sus funciones, y
 
-III. Autorizar solicitudes que no cumplan con lo establecido en este Código, en los planes y programas y de desarrollo urbano, o en los reglamentos municipales reglamento de construcción del Municipio que (sic) correspondientes.
+III. Autorizar solicitudes que no cumplan con lo establecido en este Código, en los planes y programas y (sic) de desarrollo urbano, o en los reglamentos municipales reglamento (sic) de construcción del Municipio que correspondientes (sic).
 
 ###### Artículo 388.
 
@@ -4839,9 +5701,21 @@ Para los efectos del Código Penal del Estado, la autorización expresa de la au
 
 Se concede acción a la Procuraduría de Desarrollo Urbano para:
 
-I. Requerir se determinen las infracciones o responsabilidades y se apliquen las sanciones correspondientes, de acuerdo a lo dispuesto en este Código, y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
-II. Tramitar los procedimientos y obtener se declaren estas nulidades previstas en el artículo 379 que antecede, sin que sea necesario agotar procedimiento previo ante la autoridad o dependencia municipal.
+I. Requerir se determinen las infracciones o responsabilidades y se apliquen las sanciones correspondientes, de acuerdo a lo dispuesto en este Código;
+
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+II. Tramitar los procedimientos y obtener se declaren estas nulidades previstas en el artículo 379 que antecede, sin que sea necesario agotar procedimiento previo ante la autoridad o dependencia municipal;
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+III. Requerir la determinación de responsabilidades a los servidores públicos por el incumplimiento de sus obligaciones con motivo de lo señalado en este Código; y
+
+> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+IV. Ejercer acciones civiles y administrativas en defensa y protección de bienes del dominio público, que sean de uso común.
 
 ## TITULO DÉCIMO TERCERO. DE LOS RECURSOS
 
@@ -4869,9 +5743,19 @@ El recurso de inconformidad procede en contra de multas impuestas por las autori
 
 La negativa ficta en los casos previstos en el presente Código, se impugnará conforme a las disposiciones previstas en la Ley del Procedimiento Administrativo.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 400.
 
-El Tribunal de lo Administrativo es competente para decidir en las controversias entre las distintas dependencias y entidades de la administración pública estatal y de las administraciones municipales, respecto a la aplicación de los planes y programas de desarrollo urbano, la zonificación, convenios y demás disposiciones derivadas del presente ordenamiento, conforme a la competencia definida para el Tribunal en su Ley Orgánica y las reglas establecidas en su Ley Procesal.
+El Tribunal de lo Administrativo es competente para decidir en las controversias entre las distintas dependencias y entidades de la administración pública estatal y de las administraciones municipales, respecto a la aplicación de los planes y programas de desarrollo urbano, la zonificación, convenios y demás disposiciones derivadas del presente ordenamiento, para lo cual sus resoluciones deberán sujetarse a las siguientes reglas:
+
+I. La resolución no podrá tener como consecuencia la autorización para ejecutar una acción urbanística que contravenga los programas y planes de desarrollo urbano vigentes;
+
+II. No procederá la suspensión de los programas y planes de desarrollo urbano vigentes; y
+
+III. La sentencia definitiva no podrá determinar la improcedencia de la aplicación de los programas y planes de desarrollo urbano vigentes.
+
+Lo dispuesto en las fracciones anteriores solo procederá cuando se trate de la aplicación de programas y planes de desarrollo urbano que no tengan una antigüedad mayor a seis años desde su creación o última actualización.
 
 ## TRANSITORIOS
 
@@ -5048,3 +5932,17 @@ SEGUNDO. El Poder Ejecutivo del Estado, dentro de los sesenta días naturales si
 P.O. 18 DE DICIEMBRE DE 2014.
 
 ÚNICO. La presente reforma entrará en vigor 60 días después de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 5 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá, durante los 90 días siguientes a la entrada en vigor del presente Decreto, emitir las disposiciones reglamentarias pertinentes, así como las reformas necesarias al Reglamento de Zonificación del Estado de Jalisco.
+
+TERCERO. Los ayuntamientos deberán, durante los 90 días siguientes a la entrada en vigor del presente Decreto, emitir las disposiciones reglamentarias que les corresponda.
+
+CUARTO. La instalación de los ciclopuertos en espacios públicos, se realizará con cargo a los ayuntamientos, dentro de sus posibilidades presupuestales.
+
+QUINTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Procuraduría de Infraestructura y Desarrollo Urbano realizará las adecuaciones necesarias a su Reglamento Interno, sus manuales de Organización y Procedimiento, y las normas de funcionalidad del organismo que las requieran, de conformidad con lo establecido en las fracciones X y XI del artículo 21 del Código Urbano para el Estado de Jalisco.
+
+SEXTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, el Consejo Estatal de Desarrollo Urbano realizará las adecuaciones necesarias a su reglamento, de conformidad con lo establecido en la fracción XIII del artículo 43 del Código Urbano para el Estado de Jalisco.
