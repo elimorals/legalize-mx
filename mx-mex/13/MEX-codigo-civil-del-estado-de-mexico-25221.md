@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-08-25"
+last_updated: "2015-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE NOVIEMBRE DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -14591,7 +14591,13 @@ Concepto de contrato de asociación
 
 En el caso de utilizar una prestadora de servicios electrónicos, ésta es la responsable de la protección de la información proporcionada por el usuario y los proveedores de transporte en términos de la legislación en materia de transparencia, acceso a la información y protección de datos.
 
-La prestadora de servicios electrónicos no brindará directamente el servicio privado de transporte, por lo que fungirá como obligada solidaria del proveedor privado de transporte en caso de existir responsabilidades civiles y de cualquier índole que pudieran surgir con motivo de la prestación del servicio contratado, así como en caso de incumplimiento de las obligaciones del proveedor de transporte.
+> <small>(REFORMADO, G.G. 5 DE NOVIEMBRE DE 2015)</small>
+
+La prestadora de servicios electrónicos no brindará directamente el servicio privado de transporte, por lo que el responsable por cualquier incumplimiento del contrato electrónico de transporte privado de personas, a través de una prestadora de servicios electrónicos será directamente el proveedor privado de transporte.
+
+> <small>(ADICIONADO, G.G. 5 DE NOVIEMBRE DE 2015)</small>
+
+La prestadora de servicios electrónicos no será responsable por el incumplimiento del contrato electrónico de transporte privado de personas por lo que se refiere al transporte en sí, sin embargo, en caso de que el proveedor privado de transporte no cuente con un seguro vigente que cubra lo relativo a la responsabilidad civil, la prestadora de servicios electrónicos será obligada solidaria y responderá únicamente en los términos que establece la legislación aplicable, hasta por el monto de la cobertura del seguro que debió haber contratado el proveedor privado del transporte para tal riesgo.
 
 > <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
@@ -17683,7 +17689,7 @@ Régimen aplicable
 
 ## TRANSITORIOS
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente decreto en el periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor a los quince días siguientes al de su publicación.
 
@@ -17707,7 +17713,7 @@ LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMP
 
 Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capital del Estado de México, a los treinta y un días del mes de mayo de 2002.- Diputado Presidente.- C. Roberto Modesto Flores González.- Diputados Secretarios.- C. Víctor Ernesto González Huerta.- C. Andrea María del Rocío Merlos Nájera.- Rúbricas.
 
-Por lo tanto mando se publique, circule, observe y se le dé el debido cumplimiento
+Por lo tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, Méx., a 7 de junio del 2002.
 
@@ -18172,3 +18178,11 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
