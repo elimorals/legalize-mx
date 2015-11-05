@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2015-09-19"
+last_updated: "2015-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -4629,6 +4629,32 @@ III. Cuando al ofendido se le prive de la posesión, la reparación del daño co
 
 No cometerá delito previsto en el párrafo primero de este artículo el propietario de un terreno de hasta mil metros cuadrados que lo divida y enajene en no más de tres fracciones, siempre y cuando hayan transcurrido más de cinco años entre la fecha comprobada de adquisición y la de la división.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Art. 253 Bis.
+
+Se impondrán de dos a cuatro años de prisión; destitución del empleo, cargo o comisión, e inhabilitación de uno, y hasta por tres años para desempeñar otro, y multa por el importe equivalente de mil a tres mil días de salario mínimo diario vigente; a los servidores públicos que de manera dolosa, contraviniendo la zonificación primaria o índice de edificación contenida en los planes de desarrollo urbano:
+
+I. Aprueben modificaciones de zonificación primaria señalada en los planes de desarrollo urbano de centro de población o los planes parciales de desarrollo urbano, respecto de inmuebles o en licencias de urbanización, construcción o edificación;
+
+II. Emitan dictámenes que modifiquen o contravengan las determinaciones de zonificación primaria de los planes de desarrollo urbano de centro de población o los planes parciales de desarrollo urbano, aplicable de forma específica al inmueble para el que sea solicitado; o
+
+III. Autoricen licencias o permisos que excedan o contravengan las determinaciones de número máximo de niveles, coeficientes de ocupación y utilización del suelo, áreas de restricción, unidades de vivienda o unidades comerciales y de servicios, señalados en los planes de desarrollo urbano de centro de población y los planes parciales de desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Art. 253 Ter.
+
+Se impondrán de dos a cuatro años de prisión y multa por el importe equivalente de mil a tres mil días de salario mínimo diario vigente; a los propietarios de inmuebles, sus promotores, representantes legales y constructores que de manera dolosa lleven a cabo acciones de urbanización, construcción o edificación, cuya autorización al momento de su ejecución viole la zonificación primaria o índice de edificación contenida en los planes de desarrollo urbano de centro de población y los planes parciales de desarrollo urbano.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+###### Art. 253 Quáter.
+
+Se le impondrá de dos a cuatro años de prisión y multa por el importe equivalente de mil a tres mil días de salario mínimo diario vigente, al Director Responsable de Obra o Corresponsable de Obra que de manera dolosa autorice el desarrollo de una construcción, de la que otorgó su responsiva sin apego a la licencia, autorización o permiso otorgado por la autoridad competente.
+
+La misma sanción se impondrá al propietario del inmueble donde se desarrolla la construcción, a su representante legal y al constructor que, teniendo conocimiento de la ilegalidad del acto, no presente la denuncia correspondiente ante la autoridad competente, permita la edificación sin sujetarse a la licencia o permiso de construcción o urbanización.
+
 (REUBICADO, P.O. 5 DE ENERO DE 2007)
 
 ###### Art. 254.
@@ -6090,3 +6116,17 @@ P.O. 19 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto en materia de delitos de responsabilidad profesional y de falsedad, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+
+P.O. 5 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. El Titular del Poder Ejecutivo deberá, durante los 90 días siguientes a la entrada en vigor del presente Decreto, emitir las disposiciones reglamentarias pertinentes, así como las reformas necesarias al Reglamento de Zonificación del Estado de Jalisco.
+
+TERCERO. Los ayuntamientos deberán, durante los 90 días siguientes a la entrada en vigor del presente Decreto, emitir las disposiciones reglamentarias que les corresponda.
+
+CUARTO. La instalación de los ciclopuertos en espacios públicos, se realizará con cargo a los ayuntamientos, dentro de sus posibilidades presupuestales.
+
+QUINTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Procuraduría de Infraestructura y Desarrollo Urbano realizará las adecuaciones necesarias a su Reglamento Interno, sus manuales de Organización y Procedimiento, y las normas de funcionalidad del organismo que las requieran, de conformidad con lo establecido en las fracciones X y XI del artículo 21 del Código Urbano para el Estado de Jalisco.
+
+SEXTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, el Consejo Estatal de Desarrollo Urbano realizará las adecuaciones necesarias a su reglamento, de conformidad con lo establecido en la fracción XIII del artículo 43 del Código Urbano para el Estado de Jalisco.
