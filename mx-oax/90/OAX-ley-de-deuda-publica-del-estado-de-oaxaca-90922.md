@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-del-estado-de-oaxaca-90922"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2013-12-31"
+last_updated: "2015-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial, del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -49,11 +49,17 @@ Ley de Deuda Pública
 
 La presente Ley es reglamentaria del artículo 20 párrafo décimo tercero de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con los artículos 59 fracciones XV, XXV, XXVI; y 79 fracción XVIII de la propia Constitución; y tiene por objeto establecer las bases y requisitos para la aprobación, concertación, contratación, registro, regulación y control de la deuda pública a cargo de los Sujetos Obligados.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+Las disposiciones del presente ordenamiento no serán aplicables tratándose de las obligaciones que se contraigan en términos de los convenios que celebre el Estado con la Federación, a través de la Secretaría de Hacienda y Crédito Público, mediante los cuales se establezcan mecanismos de potenciación, financiamiento o esquemas similares respecto de los fondos previstos en el Artículo 52 de la Ley de Coordinación Fiscal.
+
 ###### Artículo 2.
 
 Para efectos de esta ley se entenderá por:
 
-I. Afectación: A la fuente de pago de las obligaciones que se contraigan, que en términos de participaciones, aportaciones u otros ingresos se determinen;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+
+I. Afectación: A la fuente de pago de las obligaciones que se contraigan en términos de esta Ley;
 
 II. Congreso: Al Honorable Congreso del Estado;
 
@@ -660,3 +666,11 @@ C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ.
 P.O. 31 DE DICIEMBRE DE 2013.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su Publicación en el Periódico Oficial de Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Con base en los Artículos 40 y 52 de la Ley de Coordinación Fiscal, el Ejecutivo del Estado podrá únicamente suscribir convenio para la obtención anticipada a valor presente de recursos provenientes del Fondo de Aportaciones Múltiples para la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica, media superior y superior en su modalidad universitaria, impartida por el Estado.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado tendrá la obligación de hacer del conocimiento de sus habitantes e informar trimestralmente al Congreso del Estado, los montos que reciba, las obras y acciones realizadas, el costo de cada una, su ubicación y beneficios, así como el resultado alcanzado al término de cada ejercicio.
