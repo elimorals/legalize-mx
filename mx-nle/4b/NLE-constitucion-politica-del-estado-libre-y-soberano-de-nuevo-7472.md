@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2015-10-21"
+last_updated: "2015-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1893,7 +1893,7 @@ La elección de Gobernador prefiere a cualquier otro cargo del Estado.
 
 El Gobernador del Estado será electo cada seis años y tomará posesión de su cargo el día 4 de octubre del año en que se celebre la elección.
 
-El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar, el cargo ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
+El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar el cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho.
 
 No podrán ser electos para el período inmediato:
 
@@ -13871,19 +13871,29 @@ El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y esparcimiento de sus hijos.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Art. 2o.
 
-El Estado de Nuevo León, tiene una composición pluriétnica, pluricultural, multilingüistica, a la que contribuyen los indígenas asentados en su territorio. La conciencia de su identidad indígena será criterio fundamental para determinar a quiénes se aplican las disposiciones de este artículo. Los pueblos indígenas son aquellos que descienden de población que habitaban en el territorio actual del estado al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+El Estado de Nuevo León, tiene una composición pluriétnica, pluricultural, multilingüistica, a la que contribuyen los indígenas asentados en su territorio. La conciencia de identidad indígena será criterio fundamental para determinar a quienes se aplican las disposiciones de este artículo. Los pueblos indígenas son aquellos que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
 
 El Estado promoverá la difusión de sus culturas y fomentará la participación de los indígenas en los distintos ámbitos y niveles de gobierno.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
 Los indígenas que habitan en la Entidad tienen derecho a preservar y enriquecer sus lenguas y sus conocimientos; colaborar en la protección de su hábitat, patrimonio cultural, lugares de culto y demás elementos que constituyan su cultura e identidad; a decidir sobre sus normas internas de convivencia, organización social, económica, política y cultural. Sus formas e instituciones de gobierno garantizarán la participación de las mujeres indígenas en la toma de decisiones relacionadas a la vida comunitaria, en un marco que respete el pacto federal y la soberanía de los Estados.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
 
 Las leyes del Estado reconocerán y fomentarán los sistemas normativos y de resolución de conflictos adoptados por los indígenas, siempre y cuando la aplicación de estos no contravenga la Constitución Política de los Estados Unidos Mexicanos y esta Constitución. Las instituciones del Estado garantizarán el respeto a sus derechos humanos, a la vez que establecerán los mecanismos para que puedan acceder a la jurisdicción Estatal. Los indígenas tienen en todo tiempo el derecho a ser asistidos por traductores y defensores que tengan conocimiento de su lengua y cultura, bajo las formas y términos que prevenga la ley de la materia.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
 El Estado deberá fomentar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la educación básica, la capacitación productiva, la educación media superior y superior, estableciendo un sistema de becas a los indígenas en todos los niveles con igualdad de género. Asimismo, les asegurará el acceso a los servicios de salud, vivienda digna y a los servicios sociales básicos. Se establecerán políticas sociales para proteger los derechos laborales de los migrantes de los pueblos indígenas en el territorio estatal, a través de acciones que velen por el respeto a los derechos humanos. Se consultará a los indígenas, e incorporarán sus recomendaciones, para la elaboración de los Planes Estatal y municipales de desarrollo.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2012)</small>
 
 Las leyes establecerán las normas, medidas y procedimientos que aseguren lo dispuesto en este artículo.
 
@@ -15460,5 +15470,9 @@ P.O. 16 DE FEBRERO DE 2015.
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 21 DE OCTUBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE NOVIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
