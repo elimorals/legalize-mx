@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2015-08-28"
+last_updated: "2015-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -468,6 +468,10 @@ Las personas menores de doce años que hayan realizado una conducta prevista com
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2015)</small>
 
 Las funciones de procuración de justicia en el Estado se realizarán con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+En el Estado de Tlaxcala, toda persona tiene derecho, en la forma y términos establecidos por esta Constitución y las leyes aplicables, a resolver sus conflictos a través de la mediación, la conciliación o el arbitraje. Las leyes preverán tales mecanismos alternativos de solución de controversias.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1679,7 +1683,7 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ## TITULO VI. DEL PODER JUDICIAL
 
@@ -1691,11 +1695,19 @@ ARTICULO 78 BIS.- (DEROGADO, P.O. 1 DE AGOSTO DE 2008)
 
 ###### ARTICULO 79.
 
-El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en Juzgados de Primera Instancia, y contará además con un Consejo de la Judicatura y un Centro de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
+El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, que es el órgano supremo, en Juzgados de Primera Instancia, y contará además con un Consejo de la Judicatura y un Centro Estatal de Justicia Alternativa, con las atribuciones que le señalen esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes que expida el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-El Tribunal Superior de Justicia funcionará en pleno, en dos salas de carácter colegiado integradas por tres Magistrados cada una, en las materias Civil-Familiar y Penal; y dos salas de carácter unitario en las materias Administrativa y de Administración de Justicia para Adolescentes, respectivamente. Se integrará por nueve magistrados propietarios, incluyendo a su Presidente, quien no integrará Sala, para atender las competencias asignadas y las necesidades de los justiciables.
+El Poder Judicial residirá en la Capital del Estado, sin perjuicio de que para el mejor desempeño de sus funciones y eficiencia en la prestación de servicios a la ciudadanía, en términos de lo que disponga la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y por acuerdo del Pleno del Tribunal Superior de Justicia, se autorice el establecimiento de órganos jurisdiccionales, dependencias u oficinas del Poder Judicial en el recinto denominado “Ciudad Judicial” ubicado en la comunidad de Santa Ánita Huiloac del Municipio de Apizaco, así como en otros municipios del Estado. Tratándose de órganos jurisdiccionales de primera o segunda instancia, deberá señalarse su competencia en la Ley Orgánica del Poder Judicial del Estado de Tlaxcala.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+El Tribunal Superior de Justicia funcionará en Pleno y en dos Salas para atender los asuntos de su competencia y las necesidades de los justiciables; se integrará por siete magistrados propietarios, incluyendo a su Presidente, quien no integrará Sala.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+Las Salas tendrán carácter colegiado y se integrarán por tres magistrados cada una, para conocer respectivamente de las materias Civil-Familiar y Penal y Especializada en Administración de Justicia para Adolescentes.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -1827,13 +1839,13 @@ c) La promoción para el juicio de competencia constitucional suspenderá la eje
 
 Cuando se trate de impugnaciones a normas jurídicas, mediante juicios de competencia constitucional o acciones de inconstitucionalidad, no procederá la suspensión de la aplicación de la norma;
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-d) Las resoluciones que declaren procedentes los juicios de competencia constitucional, cuando versen sobre normas jurídicas y las acciones de inconstitucionalidad, deberán ser aprobadas por mayoría de seis magistrados, si el fin es declarar inválida la norma y con efectos generales; en caso contrario se desestimará la impugnación;
+d) Las resoluciones que declaren procedentes los juicios de competencia constitucional, cuando versen sobre normas jurídicas y las acciones de inconstitucionalidad, deberán ser aprobadas por mayoría de cinco magistrados, si el fin es declarar inválida la norma y con efectos generales; en caso contrario se desestimará la impugnación;
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-e) El quórum en las sesiones del Tribunal cuando deban votarse resoluciones que versen sobre normas jurídicas, se formará cuando menos con siete Magistrados. De no obtenerse ese quórum, se suspenderá la sesión y se convocará para el día hábil siguiente; y si tampoco así se pudiese sesionar, se llamará a los suplentes que corresponda, hasta obtener dicho quórum, informando de ello al Congreso, para que, de no tener justificación, suspenda de sus funciones a los ausentes;
+e) El quórum en las sesiones del Tribunal cuando deban votarse resoluciones que versen sobre normas jurídicas, se formará cuando menos con cinco Magistrados. De no obtenerse ese quórum, se suspenderá la sesión y se convocará para el día hábil siguiente; y si tampoco así se pudiese sesionar, se llamará a los suplentes que corresponda, hasta obtener dicho quórum, informando de ello al Congreso, para que, de no tener justificación, suspenda de sus funciones a los ausentes;
 
 f) Los acuerdos de trámite que dicte el Presidente del Tribunal y el Magistrado ponente, podrán ser recurridos ante el Pleno del Tribunal.
 
@@ -1865,23 +1877,33 @@ VII. De las cuestiones de inconstitucionalidad planteadas por los órganos juris
 
 La organización y funcionamiento de las salas que integran el Tribunal Superior de Justicia se establecerán expresamente en la Ley Orgánica del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 83.
 
-Para ser magistrado se requiere cumplir con los requisitos siguientes:
+Para ser designado magistrado del Tribunal Superior de Justicia del Estado, se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-II. Tener cuando menos treinta y cinco años de edad, cumplidos y nos (sic) más de cincuenta y ocho años, al día de la designación;
+I. Ser ciudadano mexicano, originario del Estado o con residencia en él no menor de tres años inmediatos anteriores al día de la designación, en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+II. Tener cuando menos treinta y cinco años de edad cumplidos al día de la designación;
+
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
 III. Poseer el día de la designación título y cédula profesional de licenciado en derecho con antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello;
 
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo;
 
-V. Haber residido en el Estado durante los cinco años anteriores al día de la designación;
+V. (DEROGADA, P.O. 6 DE NOVIEMBRE DE 2015)
 
-VI. No haber sido Gobernador o servidor público de primer nivel en la administración pública estatal, Procurador General de Justicia, diputado local, senador, diputado federal o presidente municipal; no ser titular de algún organismo público autónomo en el Estado ni tener funciones de dirección y atribuciones de mando, durante el año previo a su designación, y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+VI. No haber ocupado el cargo de Gobernador, Secretario o su equivalente, Procurador General de Justicia, Diputado local, Presidente Municipal o titular de algún organismo público autónomo en el Estado, ni Senador o Diputado Federal, durante el año previo al día de su designación.
 
 VII. (DEROGADA, P.O. 21 DE JULIO DE 2015)
 
@@ -1892,6 +1914,8 @@ Para nombrar a los Magistrados del Tribunal Superior de Justicia, el Gobernador 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2012)</small>
 
 En caso de que el Congreso rechace la totalidad de la terna propuesta, el Gobernador someterá una nueva, en los términos del párrafo anterior. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que dentro de dicha terna, designe el Gobernador.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 Los nombramientos serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
@@ -1913,9 +1937,9 @@ Los Jueces de Primera Instancia podrán ser ratificados y declarados inamovibles
 
 Los Jueces de Primera Instancia ratificados serán inamovibles durante el periodo de su encargo, el cual se perderá solamente cuando incurran en faltas de probidad u honradez, mala conducta, negligencia en el desempeño de sus labores, sean condenados por sentencia ejecutoriada en juicio de responsabilidad, en los casos que este proceda, sean jubilados en los términos legales o renuncien a su puesto, acepten desempeñar otro empleo o encargo de la Federación, estados, municipios o particulares, salvo los cargos en las instituciones educativas o en asociaciones científicas, literarias o de beneficencia.
 
-> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-Los Jueces de Primera Instancia solo podrán ser removidos de su cargo por el Consejo de la Judicatura, considerando la opinión del Tribunal Superior de Justicia, de conformidad con el procedimiento para la aplicación de sanciones contemplado en la ley que determine las responsabilidades y sanciones de los servidores públicos.
+Los Jueces de Primera Instancia podrán ser removidos de su cargo por el Consejo de la Judicatura, considerando la opinión del Pleno del Tribunal Superior de Justicia, de conformidad con el procedimiento para la aplicación de sanciones contemplado en la ley que determine las responsabilidades y sanciones de los servidores públicos; por incapacidad física o mental o por haber cumplido sesenta y cinco años.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -3492,5 +3516,51 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 ###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para la aprobación de las reformas y adiciones de carácter constitucional contenidas en el mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+###### ARTÍCULO TERCERO.
+
+La Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado de Tlaxcala, continuará funcionando con su estructura, organización y facultades actuales, como parte integrante del Tribunal Superior de Justicia del Estado de Tlaxcala hasta en tanto tenga lugar la creación del Tribunal de Justicia Administrativa del Estado de Tlaxcala, se designe a los magistrados que lo integren, éste sea instalado y entre en funciones, conforme a los artículos transitorios Segundo y Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo del 2015.
+
+A. Durante ese periodo:
+
+1. Los recursos humanos, financieros, materiales y presupuestales de la Sala Unitaria Administrativa continuarán formando parte del Poder Judicial del Estado de Tlaxcala.
+
+2. El Magistrado adscrito a la Sala Unitaria Administrativa del Tribunal Superior de Justicia, continuará en funciones y con las facultades actuales, por lo que integrará tanto el Pleno del Tribunal Superior de Justicia del Estado, como el Tribunal de Control Constitucional, por lo que la integración a la que se refieren los artículos 79 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y 11 de la Ley Orgánica del Poder Judicial del Estado de Tlaxcala se entenderá de ocho magistrados y las votaciones relativas a los artículos 21, 24 y 25 fracción XI de la Ley Orgánica del Poder Judicial se entenderán de cinco magistrados.
+
+B. Para la creación, en su momento, del Tribunal de Justicia Administrativa del Estado de Tlaxcala, deberá considerarse que:
+
+1. El magistrado titular de la Sala Unitaria Administrativa del Tribunal Superior de Justicia continuará como Magistrado del Tribunal de Justicia Administrativa del Estado de Tlaxcala, con los derechos adquiridos al momento de su designación, exclusivamente por el tiempo que haya sido nombrado, en términos de lo dispuesto por el artículo octavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo del 2015.
+
+2. Los recursos humanos, financieros, materiales y presupuestales de la Sala Unitaria Administrativa continuarán formando parte del Poder Judicial del Estado de Tlaxcala, salvo disposición legal en contrario.
+
+3. El personal adscrito a la Sala Unitaria Administrativa, conservará y le serán respetados sus derechos adquiridos desde la fecha de su ingreso.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, el Tribunal Superior de Justicia deberá realizar las adecuaciones legales y administrativas necesarias para el debido funcionamiento de la Sala Penal y Especializada en Administración de Justicia para Adolescentes e integración de la Sala Civil-Familiar.
+
+Todo instrumento legal, jurídico o administrativo en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Sala Unitaria de Administración de Justicia para Adolescentes, se entenderá asignado a la Sala Penal y Especializada en Administración de Justicia para Adolescentes del Tribunal Superior de Justicia en el Estado de Tlaxcala.
+
+###### ARTÍCULO QUINTO.
+
+La entrada en vigor de las reformas a la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y a la Ley de Justicia para Adolescentes para el Estado de Tlaxcala tendrá lugar una vez que inicien su vigencia las reformas a la Constitución Política del Estado Libre y Soberano de Tlaxcala materia del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Lo previsto en los artículos 2, 7 bis, 48 bis, 51 y 60 quater de la Ley Orgánica del Poder Judicial, entrará en vigor gradualmente conforme se emitan por parte del Pleno del Tribunal Superior de Justicia los acuerdos generales necesarios para su instrumentación, con base en su disponibilidad presupuestaria.
+
+###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
