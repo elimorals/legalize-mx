@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2015-08-07"
+last_updated: "2015-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -259,11 +259,23 @@ III.- (DEROGADA, P.O. 11 DE ENERO DE 2013)
 
 El conductor al que se le tomen muestras de sangre para su análisis, podrá solicitar se le proporcione una de éstas, a fin de someterla a exámenes por su cuenta.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 13.
 
-El control y registro de los vehículos que transiten en el Municipio, así como la expedición, suspensión y cancelación de licencias para conducir, competerá al Gobierno del Estado de Baja California, conforme lo dispuesto por la ley de la materia.
+Competerá al Gobierno del Estado de Baja California, en términos de lo dispuesto por las leyes de la materia, según corresponda:
 
-En estos aspectos, las autoridades municipales tendrán las facultades que la misma ley y los convenios o acuerdos que se celebren le señalen.
+I.- El control y registro de los vehículos que transiten en el Municipio;
+
+II.- La expedición, suspensión y cancelación de licencias para conducir; y,
+
+III.- La verificación y control de las emisiones contaminantes de los vehículos, dentro del Programa de Verificación Vehicular obligatoria respectivo.
+
+En los aspectos a que se refieren los incisos anteriores, las autoridades municipales tendrán las facultades que las propias leyes, y los convenios o acuerdos que se celebren, les señalen.
+
+La atribución prevista en el inciso III anterior, se desarrolla a través de Centros de Verificación autorizados, los cuales, mediante concesión, ofrecen al público de manera continua, permanente, uniforme, general y en igualdad de condiciones, el servicio de verificación de emisiones contaminantes a la atmosfera proveniente de automotores, expidiendo al efecto, un certificado u holograma, siendo este documento el que acredita haber aprobado la verificación vehicular, acorde al calendario y demás lineamientos previstos en el Programa de Verificación Vehicular Obligatorio para el Estado de Baja California en vigor.
 
 ### CAPÍTULO SEGUNDO. DE LA EDUCACIÓN VIAL
 
@@ -299,7 +311,11 @@ V.- Señales y dispositivos para el control del tránsito;
 
 VI.- Conocimientos fundamentales de este Reglamento; y,
 
-VII.- Nociones esenciales de mecánica automotriz.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+VII.- Nociones esenciales de mecánica y mantenimiento preventivo automotriz.
 
 ###### ARTÍCULO 18.
 
@@ -557,9 +573,13 @@ IV.- DE EMERGENCIA.- Aquellos que proporcionan a la comunidad asistencia médica
 
 #### SECCIÓN SEGUNDA. DE LOS REQUISITOS PARA LA CIRCULACIÓN DE VEHÍCULOS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 37.
 
-Todo vehículo de motor, para poder transitar en las vías públicas del Municipio, deberá contar con el registro correspondiente ante la autoridad competente del Gobierno del Estado de Baja California, por lo cual deberá estar provisto de placas de matrícula y de tarjeta de circulación en vigor, de conformidad con lo dispuesto por la Ley de la materia, salvo las excepciones que la misma señale.
+Todo vehículo de motor, para poder transitar por las vías públicas del Municipio, deberá contar con el registro correspondiente ante la autoridad competente del Gobierno del Estado de Baja California, por lo cual deberá estar provisto de placas de matrícula y de tarjeta de circulación en vigor, de conformidad con lo dispuesto por la ley de la materia, salvo las excepciones que la misma señale. Asimismo, deberá portar la constancia de emisiones u holograma de verificación vehicular vigente expedido por un Centro de Verificación autorizado, en términos del Programa de Verificación Vehicular Obligatoria para el Estado de Baja California en vigor, y demás disposiciones aplicables.
 
 Los vehículos destinados al servicio público de transporte de pasajeros y de carga, deberán contar además, con la póliza de seguro que cubra la responsabilidad civil por accidente, así como las lesiones y daños que se puedan ocasionar a los usuarios y peatones.
 
@@ -733,15 +753,21 @@ La Dirección y el Sistema informarán sobre las fechas y lugares donde se reali
 
 El incumplimiento de esta disposición, será sancionado con una multa que se aplicará al momento de revalidar la tarjeta de circulación, de conformidad con el convenio que se celebre con la autoridad estatal competente.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 50.
 
-Para efectos de la verificación de la emisión de contaminantes a los vehículos de motor registrados en el Municipio, se estará a lo dispuesto en los ordenamientos en materia de ecología y preservación del medio ambiente.
+Para efectos de la verificación de la emisión de contaminantes a los vehículos de motor registrados en el Municipio, se estará a lo dispuesto en los ordenamientos en materia de ecología y preservación del medio ambiente, así como a lo previsto en el Programa de Verificación Vehicular Obligatoria para el Estado de Baja California en vigor.
 
-> <small>(REFORMADO, P.O. 11 DE ENERO DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 51.
 
-Es obligación de los conductores de vehículos de motor, evitar la emisión excesiva y ostensible de humo de color negro y/o azul de los escapes de sus vehículos.
+Es obligación de los conductores de vehículos de motor, evitar la emisión ostensible y excesiva de humo de color azul, negro, o ambos, de los escapes de sus vehículos, por lo que en todo caso, deberán acudir a los Centros de Verificación autorizados, a fin de someter su vehículo al control de emisión de contaminantes, obteniendo la constancia u holograma de verificación vehicular que tales centros expidan.
 
 ### CAPÍTULO QUINTO. DE LOS CONDUCTORES Y PASAJEROS DE VEHÍCULOS DE MOTOR
 
@@ -2141,7 +2167,9 @@ c) Graves: Aquellas que se comprenden de 11 a 50 salarios.
 
 > <small>N. DE E. VÉASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PÁGINAS DE LA 96 A LA 106.</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, DE 6 DE NOVIEMBRE DE 2015.]</small>
+
+> <small>[N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74; P.O. 6 DE NOVIEMBRE DE 2015, PÁGINA 83.]</small>
 
 ###### ARTÍCULO 148.
 
@@ -2294,3 +2322,9 @@ SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICAC
 P.O. 7 DE AGOSTO DE 2015.
 
 ÚNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
+
+P.O. 6 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+ÚNICO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO 2016, SOLO SÍ, EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, APRUEBA LA IMPLEMENTACIÓN DE LA VERIFICACIÓN VEHICULAR PARA EL EJERCICIO FISCAL 2016.
