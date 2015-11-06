@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2015-08-31"
+last_updated: "2015-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -61,9 +61,11 @@ El Estado de Quintana Roo se reserva el ejercicio soberano de todas las facultad
 
 La soberanía del Estado reside y originariamente en el pueblo quintanarroense, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley Fundamental.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 5o.
 
-El Estado de Quintana Roo adopta la forma de gobierno republicano, representativo y popular. Todo poder público dimana del pueblo y se constituye para su beneficio.
+El Estado de Quintana Roo adopta la forma de gobierno republicano, representativo, democrático, laico y popular. Todo poder público dimana del pueblo y se instituye para su beneficio.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
@@ -777,9 +779,9 @@ La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Po
 
 El Supremo Poder del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-Los Poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes. La jornada electoral tendrá lugar el primer domingo de julio del año que corresponda.
+Los Poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electos mediante sufragio universal, libre, secreto y directo, conforme a las leyes correspondientes. La jornada electoral tendrá lugar el primer domingo de junio del año que corresponda.
 
 (NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -787,53 +789,45 @@ Los Poderes Legislativo y Ejecutivo del Estado se depositan en ciudadanos electo
 
 LA RENOVACIÓN DE LOS PODERES LEGISLATIVO Y EJECUTIVO SE REALIZARÁ MEDIANTE ELECCIONES LIBRES, AUTÉNTICAS Y PERIÓDICAS, EN LAS QUE PODRÁN PARTICIPAR LOS PARTIDOS POLÍTICOS NACIONALES Y ESTATALES, POR SÍ MISMOS O EN COALICIONES, ASÍ COMO CANDIDATOS INDEPENDIENTES. LA LEY REGLAMENTARÁ ESTAS PARTICIPACIONES.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-I.- El sufragio constituye la expresión soberana de la voluntad popular. Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean preparados, organizados, desarrollados, vigilados y calificados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad. La Ley establecerá las sanciones por violaciones al sufragio.
+I.- El sufragio constituye la expresión soberana de la voluntad popular. Los ciudadanos, los partidos políticos y las autoridades velarán por su respeto y cuidarán que los procesos electorales sean preparados, organizados, desarrollados, vigilados y calificados por órganos profesionales conforme a los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad. La Ley establecerá las sanciones por violaciones al sufragio.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-II.- La preparación, organización, desarrollo y vigilancia de los procesos para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, así como la instrumentación de las formas de participación ciudadana que señale la Ley, son una función estatal que se realizará a través del organismo público denominado Instituto Electoral de Quintana Roo, de cuya integración serán corresponsables el Poder Legislativo, los partidos políticos y los ciudadanos en los términos que disponga esta Constitución y la Ley. Este organismo será autoridad en la materia, tendrá personalidad jurídica y patrimonio propios, plena autonomía en su funcionamiento e independencia en sus decisiones, con el carácter de permanente y profesional en su desempeño.
+II.- La preparación, organización, desarrollo y vigilancia de los procesos para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, así como la instrumentación de las formas de participación ciudadana que señale la Ley, son una función estatal que se realizará a través del Instituto Nacional Electoral y del organismo público denominado Instituto Electoral de Quintana Roo, cuya integración será designada por el Instituto Nacional Electoral en los términos que disponga la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales. Este organismo será autoridad en la materia, tendrá personalidad jurídica y patrimonio propios, plena autonomía en su funcionamiento e independencia en sus decisiones, con el carácter de permanente y profesional en su desempeño.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-El Instituto Electoral de Quintana Roo, tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación y educación cívica, geografía electoral, derechos, prerrogativas y fiscalización del financiamiento a las agrupaciones políticas estatales y partidos políticos, impresión de material y documentación electorales, preparación de la jornada electoral, cómputos, la calificación de las elecciones y entrega de las constancias de mayoría o asignación respectivas en los términos que señale la Ley, así como la regulación de la observación electoral y de las encuestas o sondeos de opinión con fines electorales. El Instituto Electoral de Quintana Roo, por acuerdo de las dos terceras partes de los integrantes de su Consejo General, podrá convenir con el Instituto Federal Electoral que éste se haga cargo de las elecciones locales. Asimismo, el Instituto Electoral de Quintana Roo, deberá coordinarse con la autoridad administrativa electoral federal para la fiscalización de las finanzas de los partidos políticos, en términos del penúltimo párrafo de la Base V del Artículo 41 de la Constitución Federal, y de conformidad a las bases obligatorias que se prevengan en la Ley. De igual forma, el Instituto Electoral de Quintana Roo podrá suscribir convenios con autoridades municipales, estatales y federales, que tengan el propósito de coadyuvar con éste en la función estatal encomendada.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+El Instituto Electoral de Quintana Roo, tendrá a su cargo en forma integral y directa, además de las que determine la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, esta Constitución y la Ley, las actividades relativas a derechos y el acceso a las prerrogativas de los candidatos y partidos políticos, educación cívica, preparación de la jornada electoral, impresión de documentos y la producción de materiales electorales, escrutinios y cómputos de las elecciones locales, declaración de validez y el otorgamiento de constancias en las elecciones locales, cómputo de la elección del titular del Poder Ejecutivo, resultados preliminares, encuestas o sondeos de opinión, observación electoral y conteos rápidos conforme a los lineamientos establecidos en la Constitución Federal, organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana, en su caso, así como ejercer las atribuciones a que se refiere el inciso a) del Apartado B de la fracción III del artículo 41 de la Constitución Federal, cuando sean delegadas por el Instituto Nacional Electoral, sin perjuicio de aquellas facultades que no estén reservadas a dicho Órgano. El Instituto Electoral de Quintana Roo podrá suscribir convenios con autoridades municipales, estatales y federales, que tengan el propósito de coadyuvar con éste en la función estatal encomendada.
 
 De igual forma, el Instituto Electoral de Quintana Roo, podrá coadyuvar en la organización de las elecciones para elegir a los integrantes de las Alcaldías, Delegaciones y Subdelegaciones Municipales, en los términos que señale la ley de los Municipios, así también, el Instituto deberá regular y vigilar los debates públicos que se celebren durante los procesos electorales y que no sean organizados por éste, de conformidad con lo dispuesto en la Ley.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, objetividad, equidad y transparencia; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente, y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario General. Así mismo habrá cuatro Consejeros Electorales Suplentes, en orden de prelación, que deberán ser renovados cada seis años. La Ley determinará las reglas para la organización y funcionamiento de sus órganos, así como las relaciones de mando entre éstos. Las disposiciones de la Ley y del Estatuto del Servicio Profesional Electoral, que con base en ella apruebe el Consejo General, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral. El Instituto contará con una Contraloría Interna que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del mismo. La Contraloría será un órgano adscrito administrativamente al Consejo General.
+El Instituto Electoral de Quintana Roo, contará en su estructura con órganos de dirección, ejecutivos y técnicos. El Consejo General será su órgano máximo de dirección y responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar por que las actividades del Instituto se guíen por los principios rectores de la función estatal electoral de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad; se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente, y concurrirán, con voz pero sin voto, un representante de cada partido político y un Secretario General. LA LEY DETERMINARÁ LAS REGLAS PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE SUS ÓRGANOS, ASÍ COMO LAS RELACIONES DE MANDO ENTRE ÉSTOS, CON BASE EN LAS DISPOSICIONES ESTABLECIDAS EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES.
+
+Los Consejeros Electorales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la Ley General de Instituciones y Procedimientos Electorales.
+
+Las disposiciones de la Ley General de Instituciones y Procedimientos Electorales y del Estatuto del Servicio Profesional Nacional Electoral, regirán las relaciones de trabajo de los servidores del organismo público. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio profesional electoral.
 
 Las sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la Ley.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
+El Tribunal Electoral de Quintana Roo, tendrá personalidad jurídica y patrimonio propio, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia, y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados, unos de los cuales fungirá como Presidente, quienes serán electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, y serán renovados cada siete años, lo anterior de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
 
-El Tribunal Electoral del (sic) Quintana Roo, tendrá personalidad jurídica y patrimonio propios, autonomía en su funcionamiento e independencia en sus decisiones y será la máxima autoridad jurisdiccional en la materia, y tendrá el carácter de permanente; tendrá competencia y organización para funcionar en pleno y sus sesiones serán públicas. Tendrá a su cargo actividades relacionadas con la capacitación e investigación jurídico-electoral, promoción de la cultura política y democrática, las cuales deberá realizar a través de la Unidad de Capacitación e Investigación, en los términos que disponga la ley de la materia. Las resoluciones del Tribunal serán emitidas con plenitud de jurisdicción en una sola instancia y sus fallos serán definitivos. Estará integrado por tres Magistrados Numerarios, unos (sic) de los cuales fungirá como Presidente. Así mismo habrá dos Magistrados Electorales Suplentes, en orden de prelación, que deberán ser renovados cada seis años. El Tribunal contará con una Contraloría Interna que tendrá a su cargo, con autonomía técnica y de gestión, la fiscalización de todos los ingresos y egresos del mismo;
+El Tribunal Electoral de Quintana Roo y el Instituto Electoral de Quintana Roo contarán con una Contraloría Interna con autonomía técnica y de gestión, responsable de la fiscalización, vigilancia, y control del uso, manejo y destino de los recursos, así como del desempeño de los órganos, funcionarios y servidores electorales. Son órganos adscritos administrativamente al Consejo General del Instituto Electoral de Quintana Roo y al Pleno del Tribunal Electoral de Quintana Roo respectivamente. Los contralores internos tanto del Instituto como del Tribunal Electoral de quintana Roo, durarán en su encargo seis años y serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente en los recesos de ésta, de entre las propuestas que formulen los Grupos Parlamentarios, con base en los requisitos y en los términos que disponga la Ley, y estarán sujetos al régimen de responsabilidades públicas previsto por esta Constitución para los servidores públicos del Estado.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+El Secretario General del Instituto Electoral de Quintana Roo, será electo por las (sic) terceras partes del Consejo General, a propuesta de su Consejero Presidente y durará en su encargo del tiempo que determine la Ley.
 
-Los Consejeros Electorales, propietarios y suplentes, y el Contralor Interno del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios, propietarios y Suplentes, y el Contralor Interno del Tribunal Electoral de Quintana Roo, serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios, en los términos que disponga la Ley. Los Consejeros Electorales y los Magistrados Electorales, así como los Contralores Internos del Instituto y del Tribunal, durarán en su encargo seis años.
-
-El Secretario General del Instituto Electoral de Quintana Roo, será electo por las dos terceras partes del Consejo General, a propuesta de su Consejero Presidente y durará en su encargo el tiempo que determine la Ley.
-
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
-
-La Ley establecerá los requisitos que deban reunir para la designación de los Consejeros Electorales, propietarios y suplentes, el Contralor Interno y el Secretario General del Instituto Electoral de Quintana Roo, así como los Magistrados Numerarios, propietarios y suplentes, y el Contralor Interno del Tribunal Electoral de Quintana Roo, los que estarán sujetos al régimen de responsabilidades públicas previsto por esta Constitución para los servidores públicos del Estado.
+La Ley General de Instituciones y Procedimientos Electorales establece los requisitos que deben reunir los Consejeros Electorales, así como los Magistrados Electorales. La ley establecerá los requisitos que deban reunir para la designación del Contralor Interno y el Secretario General del Instituto Electoral de Quintana Roo y el Contralor Interno del Tribunal Electoral de Quintana Roo, los que estarán sujetos al régimen de responsabilidades públicas previsto por esta Constitución para los servidores públicos del Estado.
 
 Los funcionarios señalados en el párrafo que antecede, no podrán, durante su ejercicio, desempeñar ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de actividades profesionales, regalías, derechos de autor o publicaciones siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; también podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, según corresponda. En todo caso, el Presupuesto de Egresos del Gobierno del Estado, deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución. El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, presentarán sus respectivos presupuestos de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda.
 
-La retribución que perciban los Consejeros Electorales, así como los Magistrados Electorales, propietarios, será la prevista en el presupuesto de egresos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo, respectivamente. Durante los intervalos entre los procesos electorales estarán obligados a realizar tareas de investigación y difusión acerca de temas electorales. La retribución de los Contralores Internos será la misma que se señale para los Consejeros y Magistrados Electorales, propietarios, según corresponda. En todo caso, el presupuesto de egresos deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos del Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
+El Instituto Electoral de Quintana Roo contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por ley.
 
-El Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo, presentarán sus respectivos presupuestos de egresos ante la instancia correspondiente para su inclusión en el Presupuesto de Egresos del Estado, del año que corresponda.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
-
-III. Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de estos al poder público, de acuerdo con los programas, principios e ideas que postulan; su participación en los procesos electorales, estará garantizada y determinada por ley. Sólo podrán ser constituidos por ciudadanos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley reconocerá y regulará otras formas de organización política. Los partidos políticos para poder conservar su registro deberán haber obtenido al menos el dos por ciento de la votación total emitida en la elección de Diputados según el principio de mayoría relativa inmediata anterior.
+III.- Los partidos políticos son entidades de interés público que tienen como fin promover la participación de los ciudadanos en la vida democrática, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Su participación en los procesos electorales, estará garantizada y determinada por ley. Sólo podrán ser constituidos por ciudadanos, sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. La ley reconocerá y regulará otras formas de organización política. Los partidos políticos para poder conservar su registro deberán haber obtenido al menos el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -843,41 +837,39 @@ La Ley determinará los fines, derechos, prerrogativas, obligaciones y responsab
 
 Los partidos políticos nacionales derivado de su participación en las elecciones locales gozarán de los mismos derechos y prerrogativas y tendrán las mismas obligaciones y responsabilidades dispuestos en la Ley para los partidos políticos estatales.
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
+Los partidos políticos promoverán y garantizarán en los términos que señale la Ley, la igualdad de oportunidades y la paridad entre mujeres y hombres en la vida política del Estado, a través de postulaciones a cargo de elección popular, tanto de mayoría relativa como de representación proporcional. Corresponde a los partidos políticos el derecho de solicitar el registro de candidatos a cargos de elección popular por ambos principios. Los ciudadanos tendrán el derecho de solicitar su registro como candidatos independientes a cargos de elección popular únicamente por el principio de mayoría relativa.
 
-LOS PARTIDOS POLÍTICOS PROMOVERÁN Y GARANTIZARÁN EN LOS TÉRMINOS QUE SEÑALE LA LEY, LA IGUALDAD DE OPORTUNIDADES Y LA EQUIDAD ENTRE MUJERES Y HOMBRES EN LA VIDA POLÍTICA DEL ESTADO, A TRAVÉS DE POSTULACIONES A CARGO DE ELECCIÓN POPULAR, TANTO DE MAYORÍA RELATIVA COMO DE REPRESENTACIÓN PROPORCIONAL. CORRESPONDE A LOS PARTIDOS POLÍTICOS EL DERECHO DE SOLICITAR EL REGISTRO DE CANDIDATOS A CARGOS DE ELECCIÓN POPULAR POR AMBOS PRINCIPIOS. LOS CIUDADANOS TENDRÁN EL DERECHO DE SOLICITAR SU REGISTRO COMO CANDIDATOS INDEPENDIENTES A CARGOS DE ELECCIÓN POPULAR ÚNICAMENTE POR EL PRINCIPIO DE MAYORÍA RELATIVA.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, cuidando que ninguno de éstos sea mayor al cincuenta por ciento en las candidaturas a legisladores locales, así como en las candidaturas a miembros que conformen las planillas de los Ayuntamientos.
 
-En todo caso, será obligación de los partidos políticos postular candidatos de ambos géneros, cuidando que ninguno de éstos tenga una representación mayor al 60 por ciento. Quedan exceptuadas las candidaturas de mayoría relativa que sean resultado de un proceso de elección mediante voto directo.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
-
-LA LEY GARANTIZARÁ QUE LOS PARTIDOS POLÍTICOS CUENTEN DE MANERA EQUITATIVA Y GRATUITA CON ELEMENTOS PARA LLEVAR CABO SUS ACTIVIDADES, POR LO TANTO, TENDRÁN DERECHO AL USO DE LOS MEDIOS DE COMUNICACIÓN PROPIEDAD DEL ESTADO PERMANENTEMENTE Y, ACCEDERÁN A LA RADIO Y LA TELEVISIÓN, DE ACUERDO A LAS NORMAS ESTABLECIDAS POR EL APARTADO B DE LA BASE III DEL ARTÍCULO 41 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS. ADEMÁS, LA LEY SEÑALARÁ LAS REGLAS A QUE SE SUJETARÁ EL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS Y SUS CAMPAÑAS ELECTORALES, ASÍ COMO LAS REGLAS PARA EL ACCESO DE LOS CANDIDATOS INDEPENDIENTES A DICHAS PRERROGATIVAS, A EFECTO DE QUE SE ENCUENTREN EN APTITUD DE PARTICIPAR EN LA ELECCIÓN EN LA CUAL HAYAN SIDO REGISTRADOS COMO TALES.
+La Ley garantizará que los partidos políticos cuenten de manera equitativa y gratuita con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación propiedad del Estado permanentemente y, accederán a los tiempos de radio y televisión, de acuerdo a las normas establecidas por el apartado B de la fracción III del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos. Además, la ley señalará las reglas a que se sujetará el financiamiento de los partidos políticos y sus campañas electorales, así como las reglas para el acceso de los candidatos independientes a dichas prerrogativas, a efecto de que se encuentren en aptitud de participar en la elección en la cual hayan sido registrados como tales.
 
 > <small>(REFORMADO, P.O. 17 DE JULIO DE 2002)</small>
 
 El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijará cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta por ciento de un salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el padrón electoral de la entidad, con corte al mes de octubre del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
+1.- El financiamiento público ordinario para el sostenimiento de sus actividades permanentes, se fijara cada año por el Instituto Electoral de Quintana Roo al elaborar su presupuesto. El monto total se determinará multiplicando el sesenta y cinco por ciento de un salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el padrón electoral de la entidad, con corte al mes de julio del año anterior. La cantidad que resulte se otorgará conforme a las siguientes disposiciones:
 
-a) El treinta por ciento del monto total del financiamiento público estatal se distribuirá en partes iguales, y
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+a) El treinta por ciento del monto total del financiamiento público estatal se distribuirá entre los partidos políticos en forma igualitaria, y
 
 b) El setenta por ciento restante se distribuirá según el porcentaje de la votación estatal que hubiese obtenido cada uno de los partidos políticos, en la elección de diputados inmediata anterior.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-2.- El financiamiento público extraordinario para las actividades tendientes a la obtención del voto se otorgará al inicio de las campañas electorales y durante el año en que se elijan Gobernador, Diputados y miembros del Ayuntamiento equivaldrá al ochenta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando solo se elijan Diputados y miembros del Ayuntamiento equivaldrá al sesenta por ciento de dicho financiamiento por actividades ordinarias.
+2.- El financiamiento público extraordinario para las actividades tendientes a la obtención del voto se otorgará al inicio de las campañas electorales y durante el año en que se elijan Gobernador y Diputados equivaldrá al cincuenta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando solo se elijan Diputados o Ayuntamientos equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-3.- El financiamiento público ordinario y extraordinario, se otorgará entre los partidos que hubiesen obtenido al menos el dos por ciento de la votación válida emitida en la elección de diputados inmediata anterior, salvo lo dispuesto en la base siguiente.
+3.- El financiamiento público ordinario y extraordinario, se otorgará entre los partidos que hubiesen obtenido al menos el tres por ciento del total de la votación válida emitida en la elección de Diputados inmediata anterior, salvo lo dispuesto en la base siguiente.
 
 4.- Los partidos políticos nacionales y estatales que hubiesen obtenido su registro ante el Instituto Electoral de Quintana Roo, con fecha posterior a la última elección, recibirán financiamiento público, otorgándose a cada uno de ellos, a partir del mes de enero del año siguiente al que hayan obtenido su registro, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto total que en forma igualitaria corresponda distribuir al conjunto de los partidos políticos, así como una cantidad igual adicional para gastos de campaña durante los procesos electorales.
 
@@ -885,7 +877,7 @@ b) El setenta por ciento restante se distribuirá según el porcentaje de la vot
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
-6. El financiamiento público prevalecerá sobre el privado. Las aportaciones que realicen los simpatizantes, en conjunto, no podrá exceder del diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador.
+6.- El financiamiento público prevalecerá sobre el privado. Las aportaciones que realicen los simpatizantes, en conjunto, no podrá exceder del diez por ciento del tope de gastos de campaña que se determine para la elección de gobernador.
 
 La Ley fijara los criterios para establecer los límites a las erogaciones de los partidos políticos en sus precampañas y campañas electorales, así como los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos.
 
@@ -895,11 +887,9 @@ La Ley fijara los criterios para establecer los límites a las erogaciones de lo
 
 LA LEY TAMBIÉN ESTABLECERÁ LAS REGLAS Y LÍMITES A QUE SE SUJETARÁ EL FINANCIAMIENTO DE LAS ACTIVIDADES DE LOS CIUDADANOS QUE OBTENGAN SU REGISTRO COMO CANDIDATOS INDEPENDIENTES DENTRO DE UN PROCESO ELECTORAL, ASÍ COMO LOS PROCEDIMIENTOS PARA EL CONTROL Y VIGILANCIA DE TODOS LOS RECURSOS CON LOS QUE CUENTEN, INCLUYENDO AQUELLOS QUE HUBIESEN UTILIZADO PARA FINANCIAR LAS ACTIVIDADES TENDENTES A OBTENER DICHO REGISTRO.
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 QUE REFORMA ESTE PÁRRAFO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2012)</small>
-
-LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES OBSERVARÁN LAS DISPOSICIONES QUE SE ESTABLEZCAN PARA LAS PRECAMPAÑAS Y CAMPAÑAS ELECTORALES; EN TODO CASO LA DURACIÓN DE LAS CAMPAÑAS NO PODRÁN EXCEDER DE NOVENTA DÍAS PARA LA ELECCIÓN DE GOBERNADOR, NI DE SESENTA DÍAS CUANDO SÓLO SE ELIJAN DIPUTADOS A LA LEGISLATURA Y MIEMBROS DE LOS AYUNTAMIENTOS; LAS PRECAMPAÑAS NO PODRÁN DURAR MÁS DE LAS DOS TERCERAS PARTES DEL TIEMPO PREVISTO PARA LAS CAMPAÑAS.
+Los partidos políticos y los candidatos independientes observarán las disposiciones que se establezcan para las precampañas y campañas electorales; en todo caso la duración de las campañas será de sesenta a noventa días para la elección de Gobernador y de treinta a sesenta días cuando sólo se elijan Diputados a la Legislatura o miembros de los Ayuntamientos; las precampañas no podrán durar más de las dos terceras partes del tiempo previsto para las campañas.
 
 La Ley establecerá las sanciones en caso de incumplimiento de los supuestos previstos en la presente base.
 
@@ -916,6 +906,20 @@ V.- La Ley establecerá un sistema de medios de impugnación para que todos los 
 Dicho sistema fijará los plazos convenientes para el desahogo de todas las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos de esta Constitución. De las impugnaciones conocerán el Instituto Electoral de Quintana Roo y el Tribunal Electoral de Quintana Roo. En materia electoral la interposición de los medios de impugnación legales no producirán efectos suspensivos sobre la resolución o el acto impugnado.
 
 La Ley deberá estipular las causales de nulidad de las elecciones de Gobernador, diputados a la Legislatura y miembros de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+Formarán parte del sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes cuando se exceda el gasto de campaña en un cinco por ciento del monto total autorizado; se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley; se reciba o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO X, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO QUINTO DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+Dichas violaciones deberán acreditarse de manera objetiva, material, SISTEMÁTICA Y GENERALIZADA. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y segundo lugar sea menor al cinco por ciento.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -983,11 +987,9 @@ Los Diputados electos en elecciones extraordinarias concluirán el período de l
 
 ARTICULO 52 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2003)</small>
-
 ###### ARTICULO 53.
 
-La Ley de la materia fijará los criterios que tomará en cuenta el Consejo General del Instituto Electoral de Quintana Roo, para establecer la demarcación, atendiendo a la densidad de población, las condiciones geográficas y las circunstancias socioeconómicas prevalecientes en las distintas regiones de la entidad.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2015)
 
 ARTICULO 53 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
@@ -999,17 +1001,15 @@ La elección de los diez Diputados según el principio de representación propor
 
 I.- Para obtener el registro de sus listas de candidatos a Diputados por el principio de representación proporcional, el Partido Político que lo solicite deberá acreditar que participa con candidatos a Diputados por mayoría relativa en cuando menos ocho de los distritos electorales, y
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-II.- Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido que haya alcanzado por lo menos el dos por ciento de la votación total emitida en el territorio del Estado;
+II.- Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido que haya alcanzado por lo menos el tres por ciento del total de la votación válida emitida en el territorio del Estado, y
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-III.- Ningún partido político o coalición podrá tener más del sesenta por ciento de los integrantes de la Legislatura por ambos principios, tanto de mayoría relativa como de representación proporcional.
+III.- Ningún partido político podrá contar con un número de Diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1998)</small>
-
-La Ley de la materia reglamentará las fórmulas electorales y los procedimientos que se observarán en la asignación de diputados electos según el principio de representación proporcional. En todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+La Ley de la materia reglamentará las fórmulas electorales y los procedimientos que se observarán en la asignación de Diputados electos según el principio de representación proporcional. En todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes, y en respeto a la voluntad soberana de la ciudadanía, las mismas no pueden ser modificadas por ninguna autoridad durante el procedimiento de asignación, derivado de que dicho orden de prelación se construye bajo parámetros partidistas previos y objetivos, que resulta fundamental para el ejercicio de la función parlamentaria.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1049,9 +1049,15 @@ VI.- Los que sean o hayan sido ministros de cualquier culto religioso a menos qu
 
 VII.- Los Magistrados del Tribunal Electoral de Quintana Roo, el Consejero Presidente y los Consejeros Electorales, los Secretarios y Funcionarios del Instituto Electoral de Quintana Roo, así como sus similares de los Organos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección.
 
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XIII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 57.
 
-Los diputados a la Legislación (sic), no podrán ser reelectos para el período inmediato. Los suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán serlo para el período inmediato con el carácter de suplentes.
+Los Diputados a la Legislatura, podrán ser reelectos por un período adicional. Los suplentes podrán ser electos para el período inmediato con el carácter de propietarios EN UNA FÓRMULA DIVERSA, SIEMPRE QUE NO HUBIEREN ESTADO EN EJERCICIO. Los Diputados Propietarios que hayan sido reelectos para un período adicional, no podrán ser electos para el período inmediato con el carácter de suplentes.
+
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 ###### ARTICULO 58.
 
@@ -1225,9 +1231,9 @@ X.- Conceder a los diputados y magistrados del Tribunal Superior de Justicia, li
 
 XI.- Decidir sobre las solicitudes de renuncia que formule (sic) los diputados y Gobernador del Estado para separarse definitivamente de sus cargos.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Contralor Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Contralor Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
+XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Contralores Internos del Instituto Electoral y del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
 
 XIII.- Cambiar la sede de los poderes del Estado.
 
@@ -1405,9 +1411,9 @@ X.- Recibir la protesta de Ley y aprobar o rechazar el nombramiento del Procurad
 
 XI.- Designar mediante el procedimiento que la Ley determine, al Presidente y a los integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Consejeros Electorales, propietarios y suplentes, del Consejo General del Instituto Electoral de Quintana Roo, al igual que al Contralor Interno del mismo, así como a los Magistrados Numerarios, propietarios y suplentes, y al Contralor Interno del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
+XII.- Designar mediante el procedimiento previsto en esta Constitución y en las leyes respectivas, a los Contralores Internos del Instituto Electoral de Quintana Roo y del Tribunal Electoral de Quintana Roo y tomarles la protesta de Ley;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -2255,15 +2261,13 @@ El Municipio Libre es la base de la división territorial y de la organización 
 
 La Autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí mismo los asuntos propios de su comunidad, en el ámbito de competencia que le señala la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que conforme a ellas se expidan.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 127.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios:
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum, Bacalar y Puerto Morelos.
 
-Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum y Bacalar.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 128.
 
@@ -2475,27 +2479,31 @@ Igualmente comprenderá el Banco de Chinchorro que integran los cayos Lobos, Nor
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-II. MUNICIPIO DE FELIPE CARRILLO PUERTO, con cabecera en la población del mismo nombre: Al norte la línea colindante con el Estado de Yucatán que partiendo del punto Put, con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la torre sur de Chemax, 20 kilómetros, al oriente de este punto, en su intersección con el meridiano 88 grados de Greenwich desciende al sureste hasta encontrar al vértice noroeste de la ampliación del ejido de Chuyaxché, sigue por el lindero norte de la ampliación de este ejido con rumbo este, desciende al sur por el lindero poniente y sur del ejido de Tulum y sobre esta línea al interceptar el meridiano de 87 grados 30 minutos de Greenwich desciende al sur hasta encontrar la costa de la Bahía de la Ascención. Al sur el municipio de Othón P. Blanco. Al este las Bahías de la Ascención, del Espíritu Santo y el Mar Caribe. Al oeste partiendo del ángulo suroeste del ejido Altamirano, con rumbo norte se recorre el lindero poniente de los ejidos de Altamirano y Presidente Juárez, el lindero sur y poniente del ejido Santa Lucía, los linderos sur, poniente y norte de la ampliación del ejido Ramonal, el lindero poniente del ejido de Chunhuhub, los linderos poniente y norte de la ampliación del ejido de Polyuc, el lindero poniente y norte de la ampliación del ejido de X-Yatil, el lindero poniente del ejido de X-Pichil, el lindero poniente del ejido de Dzoyolá, el lindero oriente del ejido de X-Cabil, continuando por lindero norte de este ejido prolongándose hasta la línea divisoria con el Estado de Yucatán.
+II.- MUNICIPIO DE FELIPE CARRILLO PUERTO, con cabecera en la población del mismo nombre: Al norte la línea colindante con el Estado de Yucatán que partiendo del punto Put, con coordenadas de 19 grados 39 minutos 07 segundos de latitud norte y 89 grados 24 minutos 52 segundos de longitud oeste de Greenwich, corta el paralelo que pasa por la torre sur de Chemax, 20 kilómetros, al oriente de este punto, en su intersección con el meridiano 88 grados de Greenwich desciende al sureste hasta encontrar al vértice noroeste de la ampliación del ejido de Chuyaxché, sigue por el lindero norte de la ampliación de este ejido con rumbo este, desciende al sur por el lindero poniente y sur del ejido de Tulum y sobre esta línea al interceptar el meridiano de 87 grados 30 minutos de Greenwich desciende al sur hasta encontrar la costa de la Bahía de la Ascención. Al sur el municipio de Othón P. Blanco. Al este las Bahías de la Ascención, del Espíritu Santo y el Mar Caribe. Al oeste partiendo del ángulo suroeste del ejido Altamirano, con rumbo norte se recorre el lindero poniente de los ejidos de Altamirano y Presidente Juárez, el lindero sur y poniente del ejido Santa Lucía, los linderos sur, poniente y norte de la ampliación del ejido Ramonal, el lindero poniente del ejido de Chunhuhub, los linderos poniente y norte de la ampliación del ejido de Polyuc, el lindero poniente y norte de la ampliación del ejido de X-Yatil, el lindero poniente del ejido de X-Pichil, el lindero poniente del ejido de Dzoyolá, el lindero oriente del ejido de X-Cabil, continuando por lindero norte de este ejido prolongándose hasta la línea divisoria con el Estado de Yucatán.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-III. MUNICIPIO DE JOSÉ MARÍA MORELOS, con cabecera en la población del mismo nombre: Al norte, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, llega hasta la intersección con el paralelo que pasa por la torre sur de Chemax, 20 kilómetros al oriente de este punto y colindando con el Estado de Yucatán. Al sur, el municipio de Othón P. Blanco. Al este, el municipio de Felipe Carrillo Puerto. Al oeste, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala.
+III.- MUNICIPIO DE JOSÉ MARÍA MORELOS, con cabecera en la población del mismo nombre: Al norte, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, llega hasta la intersección con el paralelo que pasa por la torre sur de Chemax, 20 kilómetros al oriente de este punto y colindando con el Estado de Yucatán. Al sur, el municipio de Othón P. Blanco. Al este, el municipio de Felipe Carrillo Puerto. Al oeste, la línea que partiendo del vértice del ángulo formado por los límites de los Estados de Yucatán y Campeche, 200 metros al oeste de Put, desciende al sur hasta el paralelo límite de las Repúblicas de México y Guatemala.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-IV. MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Comprende la Isla de Cozumel, islotes y cayos adyacentes. Quedan dentro de su jurisdicción las superficies de la zona continental siguientes: Polígono con un área de 1,119.42 hectáreas, con las siguientes medidas, rumbos y colindancias: partiendo del vértice número 7 ubicado al sureste del polígono con rumbo suroeste 22 grados 42 minutos y una distancia de 140 metros, se llega al vértice número 8, de este vértice con rumbo suroeste 38 grados 47 minutos y una distancia de 137 metros, se llega al vértice número 9, de este vértice con rumbo suroeste 37 grados 31 minutos y una distancia de 141 metros, se llega al vértice número 10, de este vértice con rumbo suroeste 42 grados 01 minutos y una distancia de 191 metros, se llega al vértice número 11, de este vértice con rumbo suroeste 24 grados 31 minutos y una distancia de 188 metros, se llega al vértice número 12, de este vértice con rumbo suroeste 56 grados 16 minutos y una distancia de 132 metros, se llega al vértice número 13, de este vértice con rumbo suroeste 41 grados 59 minutos y una distancia de 121 metros, se llega al vértice número 14, de este vértice con un rumbo suroeste 19 grados 41 minutos y una distancia de 101 metros, se llega al vértice número 15, colindando del vértice número 7 al vértice número 15 con el Mar Caribe; del vértice número 15 con rumbo noroeste 41 grados 16 minutos y una distancia de 1,916 metros, se llega al vértice número 16, colindando el vértice número 15 al vértice número 16 con el Rancho Punta Venado e Instituto Nacional de Antropología e Historia; del vértice número 16 con rumbo noroeste 41 grados 16 minutos y una distancia de 40 metros, se llega al vértice número 17, colindando el vértice número 16 y el 17 con la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 17 con rumbo suroeste 51 grados 11 minutos y una distancia de 2,119 metros, se llega al vértice número 18, colindando el vértice número 17 y el 18 con el derecho de vía de la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 18 con rumbo noroeste 64 grados 38 minutos y una distancia de 4,020 metros, se llega al vértice número 19, colindando el vértice número 18 y el 19 con el Rancho La Adelita; del vértice número 19 con rumbo noreste 44 grados 14 minutos y una distancia de 1, 971 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 74 grados 33 minutos y una distancia de 3,720 metros se llega al vértice número 21, colindando el vértice número 19 al vértice número 21 con terrenos nacionales; del vértice número 21 con rumbo noreste 88 grados 15 minutos y una distancia de 230 metros, se llega al vértice número 22, del vértice número 22 con rumbo sureste 46 grados 26 minutos y una distancia de 84 metros, se llega al vértice número 23, del vértice número 23, con rumbo noreste 77 grados 32 minutos y una distancia de 88 metros, se llega al vértice número 24, del vértice número 24 con rumbo sureste 80 grados 16 minutos y una distancia de 249 metros, se llega al vértice número 25, del vértice número 25 con rumbo sureste 53 grados 20 minutos y una distancia de 390 metros, se llega al vértice número 1, colindando del vértice número 21 al vértice número 1 con el Rancho Los Corchales. Del vértice número 1 con rumbo sureste 39 grados 48 minutos y una distancia de 40 metros, se llega al vértice número 2, colindando del vértice número 1 al vértice número 2 con carretera federal número 307 Reforma Agraria-Puerto Juárez. Del vértice número 2 con rumbo sureste 39 grados 48 minutos y una distancia de 117 metros, se llega al vértice número 3, colindando del vértice número 2 al vértice número 3 con el Rancho Los Corchales; del vértice número 3 con rumbo sureste 50 grados 10 minutos y una distancia de 1,328 metros, se llega al vértice número 4, del vértice número 4 con rumbo noreste 48 grados 48 minutos y una distancia de 276 metros, se llega al vértice número 5, del vértice número 5 con rumbo sureste 53 grados 56 minutos y una distancia de 228 metros, se llega al vértice número 6, del vértice número 6 con rumbo sureste 37 grados 52 minutos y una distancia de 91 metros, se llega al vértice número 7, que es el punto de partida para cerrar el polígono, colindando del vértice número 3 al vértice número 7 con el Rancho X-Caret III. Polígono con un área de 90 hectáreas que comprende el Parque Ecológico de Xel-Há, con las medidas, rumbos y colindancias siguientes: Partiendo del vértice número 1, ubicado al sureste del polígono, con rumbo sureste 36 grados 35 minutos y una distancia de 206 metros, se llega al vértice número 2, del vértice número 2 con rumbo suroeste 60 grados 56 minutos y una distancia de 206 metros, se llega al vértice número 3, del vértice número 3 con rumbo suroeste 33 grados y una distancia de 187 metros, se llega al vértice número 4, del vértice número 4 con rumbo sureste 23 grados 39 minutos y una distancia de 97 metros, se llega al vértice número 5, del vértice número 5 con rumbo suroeste 27 grados 35 minutos y una distancia de 125 metros, se llega al vértice número 6, del vértice número 6 con rumbo suroeste 10 grados 03 minutos y una distancia de 172 metros, se llega al vértice número 7, del vértice número 7 con rumbo suroeste 27 grados 15 minutos y una distancia de 111 metros, se llega al vértice número 8, colindando del vértice número 1 al vértice número 8 con el Mar Caribe; del vértice número 8 con rumbo noroeste 61 grados 36 minutos y una distancia de 126 metros, se llega al vértice número 9, del vértice número 9 con rumbo noroeste 24 grados 12 minutos y una distancia de 120 metros, se llega al vértice número 10, del vértice número 10 con rumbo noroeste 19 grados 52 minutos y una distancia de 138 metros, se llega al vértice número 11, del vértice número 11 con rumbo noroeste 11 grados 49 minutos y una distancia de 132 metros, se llega al vértice número 12, del vértice número 12 con rumbo noroeste 22 grados 51 minutos y una distancia de 111 metros, se llega al vértice número 13, del vértice número 13 con rumbo noroeste 19 grados 49 minutos y una distancia de 65 metros, se llega al vértice número 14, del vértice número 14 con rumbo suroeste 75 grados 27 minutos y una distancia de 112 metros, se llega al vértice número 15, del vértice número 15 con rumbo suroeste 26 grados 33 minutos y una distancia de 85 metros, se llega al vértice número 16, del vértice número 16 con rumbo suroeste 01 grados y una distancia de 113 metros, se llega al vértice número 17, del vértice número 17 con rumbo suroeste 23 grados 42 minutos y una distancia de 117 metros, se llega al vértice número 18, del vértice número 18, con rumbo sureste 48 grados y una distancia de 135 metros, se llega al vértice número 19, del vértice número 19 con rumbo sureste 45 grados 14 minutos y una distancia de 173 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 71 grados 17 minutos y una distancia de 134 metros, se llega al vértice número 21, del vértice número 21 con rumbo sureste 46 grados 52 minutos y una distancia de 108 metros, se llega al vértice número 22, colindando del vértice número 8 al vértice número 22 con el Mar Caribe. Del vértice número 22 con rumbo sureste 09 grados 46 minutos y una distancia de 88 metros, se llega al vértice número 23, del vértice número 23 con rumbo suroeste 10 grados 05 minutos y una distancia de 74 metros, se llega al vértice número 24, del vértice número 24 con rumbo suroeste 32 grados 28 minutos y una distancia de 156 metros, se llega al vértice número 25, colindando del vértice número 22 al vértice número 25 con el Mar Caribe; del vértice número 25 con rumbo noroeste 66 grados 03 minutos y una distancia de 791 metros, se llega al vértice número 26, colindando el vértice 25 y el 26 con terrenos de propiedad particular; del vértice número 26 con rumbo noreste 26 grados 10 minutos y una distancia de 1,256 metros, se llega al vértice número 27, del vértice número 27 con rumbo sureste 66 grados 30 minutos y una distancia de 683 metros, se llega al vértice número 1, que es el punto de partida para cerrar el polígono.
+IV.- MUNICIPIO DE COZUMEL, con cabecera en la población del mismo nombre. Comprende la Isla de Cozumel, islotes y cayos adyacentes. Quedan dentro de su jurisdicción las superficies de la zona continental siguientes: Polígono con un área de 1,119.42 hectáreas, con las siguientes medidas, rumbos y colindancias: partiendo del vértice número 7 ubicado al sureste del polígono con rumbo suroeste 22 grados 42 minutos y una distancia de 140 metros, se llega al vértice número 8, de este vértice con rumbo suroeste 38 grados 47 minutos y una distancia de 137 metros, se llega al vértice número 9, de este vértice con rumbo suroeste 37 grados 31 minutos y una distancia de 141 metros, se llega al vértice número 10, de este vértice con rumbo suroeste 42 grados 01 minutos y una distancia de 191 metros, se llega al vértice número 11, de este vértice con rumbo suroeste 24 grados 31 minutos y una distancia de 188 metros, se llega al vértice número 12, de este vértice con rumbo suroeste 56 grados 16 minutos y una distancia de 132 metros, se llega al vértice número 13, de este vértice con rumbo suroeste 41 grados 59 minutos y una distancia de 121 metros, se llega al vértice número 14, de este vértice con un rumbo suroeste 19 grados 41 minutos y una distancia de 101 metros, se llega al vértice número 15, colindando del vértice número 7 al vértice número 15 con el Mar Caribe; del vértice número 15 con rumbo noroeste 41 grados 16 minutos y una distancia de 1,916 metros, se llega al vértice número 16, colindando el vértice número 15 al vértice número 16 con el Rancho Punta Venado e Instituto Nacional de Antropología e Historia; del vértice número 16 con rumbo noroeste 41 grados 16 minutos y una distancia de 40 metros, se llega al vértice número 17, colindando el vértice número 16 y el 17 con la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 17 con rumbo suroeste 51 grados 11 minutos y una distancia de 2,119 metros, se llega al vértice número 18, colindando el vértice número 17 y el 18 con el derecho de vía de la carretera federal número 307 Reforma Agraria-Puerto Juárez; del vértice número 18 con rumbo noroeste 64 grados 38 minutos y una distancia de 4,020 metros, se llega al vértice número 19, colindando el vértice número 18 y el 19 con el Rancho La Adelita; del vértice número 19 con rumbo noreste 44 grados 14 minutos y una distancia de 1, 971 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 74 grados 33 minutos y una distancia de 3,720 metros se llega al vértice número 21, colindando el vértice número 19 al vértice número 21 con terrenos nacionales; del vértice número 21 con rumbo noreste 88 grados 15 minutos y una distancia de 230 metros, se llega al vértice número 22, del vértice número 22 con rumbo sureste 46 grados 26 minutos y una distancia de 84 metros, se llega al vértice número 23, del vértice número 23, con rumbo noreste 77 grados 32 minutos y una distancia de 88 metros, se llega al vértice número 24, del vértice número 24 con rumbo sureste 80 grados 16 minutos y una distancia de 249 metros, se llega al vértice número 25, del vértice número 25 con rumbo sureste 53 grados 20 minutos y una distancia de 390 metros, se llega al vértice número 1, colindando del vértice número 21 al vértice número 1 con el Rancho Los Corchales. Del vértice número 1 con rumbo sureste 39 grados 48 minutos y una distancia de 40 metros, se llega al vértice número 2, colindando del vértice número 1 al vértice número 2 con carretera federal número 307 Reforma Agraria-Puerto Juárez. Del vértice número 2 con rumbo sureste 39 grados 48 minutos y una distancia de 117 metros, se llega al vértice número 3, colindando del vértice número 2 al vértice número 3 con el Rancho Los Corchales; del vértice número 3 con rumbo sureste 50 grados 10 minutos y una distancia de 1,328 metros, se llega al vértice número 4, del vértice número 4 con rumbo noreste 48 grados 48 minutos y una distancia de 276 metros, se llega al vértice número 5, del vértice número 5 con rumbo sureste 53 grados 56 minutos y una distancia de 228 metros, se llega al vértice número 6, del vértice número 6 con rumbo sureste 37 grados 52 minutos y una distancia de 91 metros, se llega al vértice número 7, que es el punto de partida para cerrar el polígono, colindando del vértice número 3 al vértice número 7 con el Rancho X-Caret III. Polígono con un área de 90 hectáreas que comprende el Parque Ecológico de Xel-Há, con las medidas, rumbos y colindancias siguientes: Partiendo del vértice número 1, ubicado al sureste del polígono, con rumbo sureste 36 grados 35 minutos y una distancia de 206 metros, se llega al vértice número 2, del vértice número 2 con rumbo suroeste 60 grados 56 minutos y una distancia de 206 metros, se llega al vértice número 3, del vértice número 3 con rumbo suroeste 33 grados y una distancia de 187 metros, se llega al vértice número 4, del vértice número 4 con rumbo sureste 23 grados 39 minutos y una distancia de 97 metros, se llega al vértice número 5, del vértice número 5 con rumbo suroeste 27 grados 35 minutos y una distancia de 125 metros, se llega al vértice número 6, del vértice número 6 con rumbo suroeste 10 grados 03 minutos y una distancia de 172 metros, se llega al vértice número 7, del vértice número 7 con rumbo suroeste 27 grados 15 minutos y una distancia de 111 metros, se llega al vértice número 8, colindando del vértice número 1 al vértice número 8 con el Mar Caribe; del vértice número 8 con rumbo noroeste 61 grados 36 minutos y una distancia de 126 metros, se llega al vértice número 9, del vértice número 9 con rumbo noroeste 24 grados 12 minutos y una distancia de 120 metros, se llega al vértice número 10, del vértice número 10 con rumbo noroeste 19 grados 52 minutos y una distancia de 138 metros, se llega al vértice número 11, del vértice número 11 con rumbo noroeste 11 grados 49 minutos y una distancia de 132 metros, se llega al vértice número 12, del vértice número 12 con rumbo noroeste 22 grados 51 minutos y una distancia de 111 metros, se llega al vértice número 13, del vértice número 13 con rumbo noroeste 19 grados 49 minutos y una distancia de 65 metros, se llega al vértice número 14, del vértice número 14 con rumbo suroeste 75 grados 27 minutos y una distancia de 112 metros, se llega al vértice número 15, del vértice número 15 con rumbo suroeste 26 grados 33 minutos y una distancia de 85 metros, se llega al vértice número 16, del vértice número 16 con rumbo suroeste 01 grados y una distancia de 113 metros, se llega al vértice número 17, del vértice número 17 con rumbo suroeste 23 grados 42 minutos y una distancia de 117 metros, se llega al vértice número 18, del vértice número 18, con rumbo sureste 48 grados y una distancia de 135 metros, se llega al vértice número 19, del vértice número 19 con rumbo sureste 45 grados 14 minutos y una distancia de 173 metros, se llega al vértice número 20, del vértice número 20 con rumbo sureste 71 grados 17 minutos y una distancia de 134 metros, se llega al vértice número 21, del vértice número 21 con rumbo sureste 46 grados 52 minutos y una distancia de 108 metros, se llega al vértice número 22, colindando del vértice número 8 al vértice número 22 con el Mar Caribe. Del vértice número 22 con rumbo sureste 09 grados 46 minutos y una distancia de 88 metros, se llega al vértice número 23, del vértice número 23 con rumbo suroeste 10 grados 05 minutos y una distancia de 74 metros, se llega al vértice número 24, del vértice número 24 con rumbo suroeste 32 grados 28 minutos y una distancia de 156 metros, se llega al vértice número 25, colindando del vértice número 22 al vértice número 25 con el Mar Caribe; del vértice número 25 con rumbo noroeste 66 grados 03 minutos y una distancia de 791 metros, se llega al vértice número 26, colindando el vértice 25 y el 26 con terrenos de propiedad particular; del vértice número 26 con rumbo noreste 26 grados 10 minutos y una distancia de 1,256 metros, se llega al vértice número 27, del vértice número 27 con rumbo sureste 66 grados 30 minutos y una distancia de 683 metros, se llega al vértice número 1, que es el punto de partida para cerrar el polígono.
 
 > <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
-V. MUNICIPIO DE LÁZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este, partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
+V.- MUNICIPIO DE LÁZARO CARDENAS, con cabecera en Kantunilkín: Al norte el Canal de Yucatán. Al sur, el Municipio de Solidaridad. Al este, partiendo de la esquina norte del ejido de Playa del Carmen, se sigue con rumbo norte sobre el meridiano que pasa por este sitio hasta encontrar el lindero sur del ejido Leona Vicario, se dobla al oeste siguiendo el lindero sur de este Ejido, se continúa sobre el lindero oeste y norte hasta la intersección con el meridiano 87 grados 05 minutos 50 segundos, de longitud oeste de Greenwich, se sigue con rumbo norte sobre este meridiano hasta encontrar el lindero poniente del ejido de Isla Mujeres, se continúa por el lindero de este ejido hasta la intersección con el meridiano 87 grados 06 minutos 21 segundos de longitud oeste de Greenwich se sigue sobre este meridiano hasta llegar al faro de Cabo Catoche. Al oeste, la línea que partiendo de la costa norte del Canal de Yucatán, sigue el arco del meridiano 87 grados 32 minutos, longitud oeste de Greenwich, hasta cortar el paralelo 21 grados, y de allí continúa hasta encontrar el paralelo que pasa por la Torre Sur de Chemax, veinte kilómetros al oriente de este punto, comprendiendo la Isla de Holbox.
 
-REFORMADA, P.O. 9 DE MARZO DE 2010)
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-VI.- MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al Norte, partiendo de la costa del Mar Caribe, de acuerdo a la siguiente tabla:
+VI.- MUNICIPIO DE BENITO JUÁREZ, con cabecera en la ciudad de Cancún: Al Norte, partiendo de la costa del Mar Caribe, de acuerdo a la siguiente tabla:
 
-(VÉASE ARCHIVO ANEXO)
+MARCO DE REFERENCIA: ITRF2008, ÉPOCA 2010.0
 
-Al Sur, el Municipio de Solidaridad y el Mar Caribe. Al Este, el Mar Caribe y al Oeste, el Municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y Cayos adyacentes.
+LAS COORDENADAS GEOGRÁFICAS ESTÁN EXPRESADAS EN NOTACIÓN SEXAGESIMAL; LAS COORDENADAS MÉTRICAS ESTÁN CONFIGURADAS EN LA PROYECCIÓN UTM ZONA 16N.
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 12 A LA 14.</small>
+
+Al Sur, el Municipio de Puerto Morelos y el Mar Caribe. Al Este, el Mar Caribe y al Oeste, el Municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y Cayos adyacentes.
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2010)</small>
 
@@ -3021,7 +3029,21 @@ X Y
 
 ** Del vértice 96 se continúa sobre la parte media de la Laguna de Bacalar hasta llegar al vértice 97.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+XI.- MUNICIPIO DE PUERTO MORELOS, con cabecera en la Ciudad de Puerto Morelos, comprendiendo la siguiente extensión territorial:
+
+MARCO DE REFERENCIA: ITRF2008, ÉPOCA 2010.0
+
+LAS COORDENADAS GEOGRÁFICAS ESTÁN EXPRESADAS EN NOTACIÓN SEXAGESIMAL; LAS COORDENADAS MÉTRICAS ESTÁN CONFIGURADAS EN LA PROYECCIÓN UTM ZONA 16N.
+
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 6 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 15 A LA 18.</small>
+
+Las colindancias del municipio de Puerto Morelos, son:
+
+Al norte, los municipios de Lázaro Cárdenas y Benito Juárez; al este, el municipio de Benito Juárez y el Mar Caribe; al sur, los municipios de Solidaridad y Lázaro Cárdenas y al oeste, el municipio de Lázaro Cárdenas.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 129.
 
@@ -3099,23 +3121,25 @@ Los Ayuntamientos se integran en la siguiente forma:
 
 l. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
 
 Se elegirá un suplente para cada integrante del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 135.
 
-Los miembros del Ayuntamiento se elegirán por sufragio universal, libre, secreto y directo de los ciudadanos quintanarroenses en ejercicio de sus derechos, en jornada electoral que tendrá lugar el primer domingo de julio del año que corresponda, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
+Los miembros del Ayuntamiento se elegirán por sufragio universal, libre, secreto y directo de los ciudadanos quintanarroenses en ejercicio de sus derechos, en jornada electoral que tendrá lugar el primer domingo de junio del año que corresponda, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:
 
 > <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
 I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, cada partido político postulará una lista de once personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
-En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar, cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2008)</small>
 
@@ -3165,11 +3189,13 @@ El Instituto Electoral de Quintana Roo, de acuerdo con lo que disponga la Ley, d
 
 Las determinaciones sobre la declaración de validez, el otorgamiento de las constancias y la asignación de regidores podrán ser impugnadas ante el Tribunal Electoral de Quintana Roo. Los fallos del Tribunal serán definitivos e inatacables en el ámbito local. La Ley de la materia establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 139.
 
-Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, no podrán ser electos para el período inmediato como propietarios o suplentes, pero éstos sí podrán serlo como propietarios a menos que hayan ejercido el cargo.
+Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan estado en ejercicio, podrán ser reelectos por un período adicional como propietarios o suplentes.
+
+La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4630,3 +4656,23 @@ P.O. 31 DE AGOSTO DE 2015.
 Primero. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan las disposiciones legales que contravengan al presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 341, POR EL QUE SE REFORMAN LOS ARTÍCULOS 5; 49 PÁRRAFO SEGUNDO, LAS FRACCIONES I Y II, LA FRACCIÓN III PRIMER, CUARTO, QUINTO Y SEXTO PÁRRAFOS, LOS NUMERALES 1 PRIMER PÁRRAFO E INCISO A), 2, 3 Y 6 PÁRRAFO CUARTO; 54 FRACCIONES II Y III; 57; 75 FRACCIÓN XII; 76 FRACCIÓN XII; 135 PÁRRAFO PRIMERO Y 139; SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO A LA FRACCIÓN V DEL ARTÍCULO 49; Y SE DEROGA EL ARTÍCULO 53, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO XV, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 126/2015 Y SU ACUMULADA 127/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO SEGUNDO TRANSITORIO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+SEGUNDO. Por única ocasión, los integrantes de los Ayuntamientos serán electos por un período de dos años, el cual iniciará el 30 de septiembre de 2016 Y PARA LOS EFECTOS ESTABLECIDOS EN EL ARTÍCULO 139 DE ESTA CONSTITUCIÓN, LA RENUNCIA O PÉRDIDA DE MILITANCIA NO PODRÁ SER MENOR A UN PERÍODO DE DIECIOCHO MESES.
+
+TERCERO. Las elecciones locales que se verifiquen en el año 2018, se llevarán a cabo el primer domingo de julio.
+
+CUARTO. La reforma en materia de reelección no será aplicable a los diputados de la Legislatura que se encuentra en funciones, así como a los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos que hayan protestado el cargo a la entrada en vigor del presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 343 POR EL QUE SE REFORMAN LOS ARTÍCULOS 127, 128 FRACCIÓN VI, 134 FRACCIÓN II Y 135 FRACCIÓN I SEGUNDO PÁRRAFO; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 128, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
