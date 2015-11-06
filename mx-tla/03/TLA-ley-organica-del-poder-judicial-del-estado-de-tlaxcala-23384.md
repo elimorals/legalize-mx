@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2014-11-28"
+last_updated: "2015-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 5 DE MARZO DE 2014, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA 22 DE OCTUBRE DE 2014 Y PUBLICADA EN EL P.O. DEL GOBIERNO DEL ESTADO DE FECHA 23 DE OCTUBRE DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -45,13 +45,13 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
 ### Capítulo Primero. De las Generalidades
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 1.
 
-Esta ley es de interés público, tiene como objeto garantizar a través del Poder Judicial la supremacía y el control de la Constitución Política del Estado y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los asuntos de orden civil, familiar, penal, electoral, administrativo, ejecución de sanciones, administración de justicia para adolescentes y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
+Esta ley es de interés público, tiene como objeto garantizar a través del Poder Judicial la supremacía y el control de la Constitución Política del Estado y estará expedito para impartir justicia de manera pronta, gratuita, completa e imparcial, en los asuntos de orden civil, familiar, penal, ejecución de sanciones, administración de justicia para adolescentes y en los del orden federal en los casos en que las leyes de la materia le confiera jurisdicción.
 
 ###### Artículo 2.
 
@@ -128,6 +128,12 @@ XII. Los Juzgados de Ejecución de Medidas aplicables a adolescentes, y
 > <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 XIII. El Centro Estatal de Justicia Alternativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Los Juzgados de Oralidad Mercantil.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -221,19 +227,13 @@ Los titulares de los distintos órganos del Poder Judicial y los encargados de l
 
 El Tribunal, Salas y Juzgados funcionarán todos los días del año, a excepción de los sábados, domingos y días de descanso obligatorio. El horario normal de trabajo en las oficinas, será de las ocho a las quince horas. En casos necesarios, los Juzgadores podrán habilitar horas de oficina, conforme lo prevenga la Ley. En materia penal se estará a lo dispuesto en el Código Nacional de Procedimientos Penales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 6.
 
-Los servidores públicos del Poder Judicial gozarán de dos períodos vacacionales anuales, en las fechas que señale el Consejo de la Judicatura, suspendiéndose los términos judiciales en dichos periodos. En materia de control constitucional y penal se establecerán guardias de servicio para conocer de asuntos urgentes y términos constitucionales.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
-
-Durante los años en que se desarrollen procesos electorales ordinarios o extraordinarios, las vacaciones del personal de la Sala Electoral Administrativa del Poder Judicial, se otorgarán antes del inicio o a la conclusión de estos.
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+Los servidores públicos del Poder Judicial gozarán de dos períodos vacacionales anuales, en las fechas que señale el Consejo de la Judicatura, suspendiéndose los términos judiciales en dichos períodos. En materia de control constitucional y penal se establecerán guardias de servicio para conocer de asuntos urgentes y términos constitucionales.
 
 En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
 
@@ -283,6 +283,16 @@ VII. XICOHTENCATL, con sede en la Villa Vicente Guerrero, que comprenderá los M
 
 VIII. ZARAGOZA, con sede en la Ciudad de Zacatelco, que comprenderá los Municipios de: Zacatelco, Acuamanala de Miguel Hidalgo, Nativitas, Teolocholco, Tepeyanco, Tetlatlahuca, Xicohtzinco, Santa Apolonia Teacalco, Santa Cruz Quilehtla, San Juan Huactzinco, Santa Catarina Ayometla, Santa Isabel Xiloxoxtla, San Damián Texóloc, San Jerónimo Zacualpan y San Lorenzo Axocomanitla.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 7 Bis.
+
+El Pleno del Tribunal Superior de Justicia, mediante acuerdos generales determinará, conforme al presupuesto, la creación de Juzgados de Oralidad Mercantil que funcionarán en el Estado y les fijará su residencia.
+
+La competencia territorial de los Juzgados de Oralidad Mercantil podrá abarcar el territorio de uno o más distritos judiciales, según lo determine el Pleno del Tribunal Superior de Justicia.
+
 ###### Artículo 8.
 
 En materia penal el territorio del Estado se dividirá en los Distritos Judiciales siguientes:
@@ -311,13 +321,13 @@ Los procedimientos relacionados con mecanismos alternativos de solución de cont
 
 En materia de Ejecución de Sanciones Penales, el Juez ejercerá su competencia en todo el territorio del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 9.
 
-En las materias constitucional, administrativa, electoral, ejecución de sanciones y de administración de justicia para adolescentes, el Tribunal y sus Salas, ejercerán su competencia en todo el territorio del Estado.
+En la materia constitucional, de ejecución de sanciones y de administración de justicia para adolescentes, el Tribunal y sus Salas, ejercerán su competencia en todo el territorio del Estado.
 
 ###### Artículo 10.
 
@@ -333,13 +343,13 @@ En los Distritos a que se refiere el artículo 7 de esta ley, funcionarán separ
 
 ### Capítulo Primero. De la Integración e Instalación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 11.
 
-El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y se integrará por nueve Magistrados que al efecto se requieran.
+El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y se integrará por siete Magistrados.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
@@ -423,11 +433,11 @@ I. (DEROGADA, P.O. 21 DE AGOSTO DE 2013)
 
 II. Los votos se emitirán en forma nominal, expresando el nombre del Magistrado por el cual emite su voto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-III. La votación mínima para la designación será de siete votos a favor de alguno de los magistrados propuestos. De no obtenerse esa mayoría, se procederá a repetir la votación hasta lograr una mayoría de cuando menos cinco votos;
+III. La votación mínima para la designación será de cinco votos a favor de alguno de los magistrados propuestos. De no obtenerse esa mayoría, se procederá a repetir la votación hasta lograr una mayoría de cuando menos cuatro votos;
 
 IV. Realizada la elección, inmediatamente el Presidente electo rendirá protesta ante el pleno del Tribunal Superior de Justicia y entrará en funciones, y
 
@@ -451,13 +461,13 @@ El Pleno del Tribunal podrá habilitar a Jueces para sustituir a los Magistrados
 
 ### Capítulo Segundo. Del Funcionamiento del Tribunal Superior de Justicia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
-El Tribunal funcionará en Pleno y en las salas Civil-Familiar, Electoral-Administrativa, Penal y de Administración de Justicia para Adolescentes. El Presidente del Tribunal no integrará Sala.
+El Tribunal funcionará en Pleno y en las salas Civil-Familiar y Penal yEspecializada (sic) en Administración de Justicia para Adolescentes. El Presidente del Tribunal no integrará Sala.
 
 ###### Artículo 17.
 
@@ -499,13 +509,13 @@ El Poder Judicial del Estado tendrá y administrará su patrimonio por conducto 
 
 El Pleno del Tribunal Superior de Justicia se integrará con los magistrados propietarios y de quienes los suplan legalmente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-Para que el Pleno sesione válidamente bastará la concurrencia de cinco Magistrados, con excepción de los casos previstos en los artículos 81 y 109 fracción VIII de la Constitución Política del Estado y cuando se trate de la elección del Presidente del Tribunal, en los que se requerirá la presencia de al menos siete Magistrados.
+Para que el Pleno sesione válidamente bastará la concurrencia de cuatro Magistrados, con excepción de los casos previstos en los artículos 81 y 109 fracción VIII de la Constitución Política del Estado y cuando se trate de la elección del Presidente del Tribunal, en los que se requerirá la presencia de al menos cinco Magistrados.
 
 ###### Artículo 22.
 
@@ -521,13 +531,13 @@ Las sesiones del Pleno serán públicas, excepto cuando así lo disponga el prop
 
 Los Magistrados asistentes a cada sesión deberán firmar las actas que se levanten al efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 24.
 
-Los Magistrados tendrán voz y voto en las sesiones. Las resoluciones del Pleno del Tribunal se tomarán por unanimidad o mayoría simple de votos, salvo los casos previstos en los artículos 81 fracción V, inciso d) y 109 fracción VIII de la Constitución del Estado, en los que se requerirá, como mínimo, una mayoría de seis votos.
+Los Magistrados tendrán voz y voto en las sesiones. Las resoluciones del Pleno del Tribunal se tomarán por unanimidad o mayoría simple de votos, salvo los casos previstos en los artículos 81 fracción V, inciso d) y 109 fracción VIII de la Constitución del Estado, en los que se requerirá, como mínimo, una mayoría de cinco votos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -573,11 +583,11 @@ IX. Designar, por el voto secreto de las dos terceras partes de sus integrantes,
 
 X. Revisar y aprobar el proyecto del presupuesto de egresos del Poder Judicial que le remita el Consejo de la Judicatura;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-XI. Confirmar o revocar, por el voto de seis de sus integrantes, los acuerdos generales que expida el Consejo de la Judicatura para el ejercicio de sus funciones administrativas. Dicha resolución deberá emitirse dentro de los diez días hábiles siguientes a la impugnación que algún órgano del Poder Judicial realice ante el Pleno;
+XI. Confirmar o revocar, por el voto de cuatro de sus integrantes, los acuerdos generales que expida el Consejo de la Judicatura para el ejercicio de sus funciones administrativas. Dicha resolución deberá emitirse dentro de los diez días hábiles siguientes a la impugnación que algún órgano del Poder Judicial realice ante el Pleno;
 
 XII. Instruir al Consejo de la Judicatura, sin perjuicio de las atribuciones administrativas del mismo, visitas especiales a los juzgados y a los establecimientos carcelarios, cuando en el cumplimiento de sus atribuciones y las jurisdiccionales de las salas, se detecte alguna irregularidad; dando seguimiento a las observaciones que se deriven de las mismas;
 
@@ -919,31 +929,25 @@ XI. Las demás que le confieran las leyes, reglamentos interiores y acuerdos gen
 
 ### Capítulo Quinto. De las Salas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 31.
 
 El Tribunal Superior de Justicia, se integrará por las siguientes Salas:
 
-I. Penal;
+I. Penal y Especializada en Administración de Justicia para Adolescentes; y
 
-II. Civil-Familiar;
+II. Civil-Familiar.
 
-III. Electoral-Administrativa, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Administración de Justicia para Adolescentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 32.
 
-Las Salas Civil-Familiar y Penal se integrarán por tres magistrados, quienes por cada ponencia y de manera sucesiva por el período de un año, ejercerán la Presidencia de la Sala de que se trate. Las Salas Electoral-Administrativa y de Administración de Justicia para Adolescentes, que serán unitarias.
-
-La Sala Electoral-Administrativa será la máxima autoridad jurisdiccional en la materia y el órgano especializado del Poder Judicial del Estado, y contará con las atribuciones que le señalen la Constitución del Estado, la presente Ley y la legislación en materia electoral y la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
+Las Salas se integrarán cada una por tres magistrados, quienes por cada ponencia y de manera sucesiva por el período de un año, ejercerán la Presidencia de la Sala de que se trate.
 
 Durante los primeros quince días del mes de enero de cada año, las Salas Colegiadas elegirán a su Presidente, salvo al inicio de su encargo, en que este procedimiento tendrá lugar al día siguiente al en que tenga verificativo la designación de magistrados para su integración. De lo anterior, se levantará acta circunstanciada enviándose de inmediato copia al Pleno del Tribunal Superior de Justicia para su conocimiento y efectos conducentes.
 
@@ -1087,39 +1091,31 @@ IX. Las demás que determinen las Leyes.
 
 (DEROGADO, P.O. 21 DE AGOSTO DE 2013)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 38.
 
-Serán atribuciones de la Sala Electoral-Administrativa:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-I. En materia Electoral ejercerá las que prevén el Código de Instituciones y Procesos Electorales para el Estado de Tlaxcala y la Ley de Medios de Impugnación en Materia Electoral para el Estado de Tlaxcala, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-II. En materia contenciosa administrativa, conocerá en única instancia de los asuntos que establece la Ley del Procedimiento Administrativo del Estado de Tlaxcala y sus Municipios.
+(DEROGADO, P.O. 6 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 39.
 
 (DEROGADO, P.O. 17 DE ENERO DE 2008)
 
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 39 Bis.
 
-En materia penal y en justicia especializada para adolescentes, para efectos del Sistema de Justicia Penal Acusatorio Oral, el recurso de apelación contra resoluciones dictadas por jueces unitarios, será conocido por una sala integrada por un magistrado; y el interpuesto contra resoluciones dictadas por un tribunal colegiado, será conocido por una sala integrada por tres magistrados.
+En materia penal y en justicia especializada para adolescentes, para efectos del Sistema de Justicia Penal Acusatorio Oral, el recurso de apelación será conocido por la Sala Penal y Especializada en Administración de Justicia para Adolescentes, la cual actuará de forma colegiada para el conocimiento de recursos que provengan de tribunales colegiados y en el caso de aquellos que provengan de jueces unitarios será conocido por un magistrado de la propia Sala, según el tumo que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-A la Sala Penal, de manera colegiada, le corresponderá conocer de:
+A la Sala Penal y Especializada en Administración de Justicia para Adolescentes, le corresponderá conocer de:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1157,29 +1153,31 @@ VI. Conocer de los recursos de apelación y de revisión en materia de extinció
 
 VII. De manera unitaria o colegiada, según corresponda, de los recursos que se interpongan contra los Jueces de Control, Juez de Juicio Oral Penal y Ejecución de Sanciones, en términos de los artículos 467 y 468 del Código Nacional de Procedimientos Penales y demás ordenamientos aplicables, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Las demás que determinen las Leyes.
+VIII. Los recursos, previstos en la Ley de Justicia para Adolescentes, que se interpongan contra las resoluciones del juez en materia de justicia para adolescentes y de ejecución de medidas aplicables al adolescente que sea declarado autor o partícipe de una conducta tipificada como delito en las leyes del Estado, y
 
-> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+IX. Las demás que determinen las Leyes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+Las atribuciones señaladas en la fracción VIII de este artículo serán ejercidas en forma unitaria por el magistrado que se designe para tal efecto, de entre sus integrantes, conforme al artículo siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO QUINTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 40 Bis.
 
-A la Sala Unitaria de Administración de Justicia para Adolescentes le corresponderá conocer de:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
-
-I. Los recursos que se interpongan contra las resoluciones del juez en materia de justicia para adolescentes y de ejecución de medidas aplicables al adolescente que sea declarado autor o partícipe de una conducta tipificada como delito en las leyes del Estado;
-
-II. Las excusas y recusaciones del juez del ramo;
-
-III. Encomendar a los jueces de su competencia el desahogo de las diligencias que deban practicarse fuera de las oficinas de la Sala, con excepción de las notificaciones, y
-
-IV. Las demás que determinen las leyes.
+El magistrado que deba conocer de los asuntos en materia de justicia para adolescentes será designado, de manera anual, entre los integrantes de la Sala Penal y Especializada en Justicia para Adolescentes, para que se especialice en la materia y conozca de los asuntos previstos por la Ley de Justicia para Adolescentes, independientemente de sus facultades y funciones como miembro del Pleno y de la Sala Penal.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1447,6 +1445,14 @@ V. De la atención y trámite de los exhortos que les dirijan los Jueces del Est
 
 VI. Los demás asuntos que les encomienden las Leyes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 48 Bis.
+
+Los Juzgados de Oralidad Mercantil serán competentes para conocer y resolver los juicios orales mercantiles que se promuevan en términos del Código de Comercio y de los que deban conocer los tribunales del Estado conforme al artículo 104 fracción II de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 49.
 
 Los Jueces Familiares conocerán y resolverán:
@@ -1680,6 +1686,12 @@ VII. Los demás asuntos que les encomienden las leyes.
 El personal de los juzgados se integrará por los Secretarios de Acuerdos, Diligenciarios, Oficiales de Partes, así como los Proyectistas, Administradores de Oficina y demás personal de apoyo necesario para su funcionamiento, en los términos que fije el presupuesto.
 
 Además de los servidores públicos indicados, el Consejo de la Judicatura nombrará al demás personal necesario para el buen funcionamiento del juzgado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+En cada juzgado que conozca de la materia civil, mercantil y familiar habrá un mediador-conciliador que intervendrá, en apoyo del juez, en el desarrollo de las audiencias en que las partes intenten resolver el conflicto a través de mecanismos alternativos.
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -1936,6 +1948,16 @@ I. Ser mayor de veinticinco años;
 II. Ser licenciado en administración o en derecho con especialidad en administración u otra materia análoga, y
 
 III. No haber sido condenado por delito doloso en los últimos seis años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 60 Quater.
+
+El Titular del Centro Estatal de Justicia Alternativa además de los requisitos que exige la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Tlaxcala, deberá acreditar experiencia mínima de dos años en materia de Mecanismos Alternativos de Solución de Controversias.
+
+Para ser mediador o conciliador se deben reunir los mismos requisitos que se establecen para el Titular del Centro Estatal de Justicia Alternativa, con excepción de la edad, que será cuando menos de veinticinco años de edad, así como el perfil profesional que deberá ser de licenciado en derecho, en psicología o en trabajo social. En materia penal deberá cumplirse con los requisitos exigidos por la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en materia penal.
 
 ## TITULO CUARTO. ADMINISTRACION DEL PODER JUDICIAL
 
@@ -3618,3 +3640,49 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Cuando las leyes, reglamentos o cualquier ordenamiento de observancia general vigente en el Estado de Tlaxcala se refieran al Código de Procedimientos Penales del Estado de Tlaxcala, se entenderá que se refieren al Código Nacional de Procedimientos Penales publicado en el Diario Oficial de la Federación del cinco de marzo de dos mil catorce, conforme a las reglas de vigencia establecidas en el artículo transitorio anterior y a la Declaratoria expedida por el Congreso del Estado con fecha veintidós de octubre de dos mil catorce y publicada en el Periódico Oficial del Gobierno del Estado de fecha veintitrés de octubre del año en curso.
+
+P.O. 6 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado, para la aprobación de las reformas y adiciones de carácter constitucional contenidas en el mismo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
+
+###### ARTÍCULO TERCERO.
+
+La Sala Unitaria Administrativa del Tribunal Superior de Justicia del Estado de Tlaxcala, continuará funcionando con su estructura, organización y facultades actuales, como parte integrante del Tribunal Superior de Justicia del Estado de Tlaxcala hasta en tanto tenga lugar la creación del Tribunal de Justicia Administrativa del Estado de Tlaxcala, se designe a los magistrados que lo integren, éste sea instalado y entre en funciones, conforme a los artículos transitorios Segundo y Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo del 2015.
+
+A. Durante ese periodo:
+
+1. Los recursos humanos, financieros, materiales y presupuestales de la Sala Unitaria Administrativa continuarán formando parte del Poder Judicial del Estado de Tlaxcala.
+
+2. El Magistrado adscrito a la Sala Unitaria Administrativa del Tribunal Superior de Justicia, continuará en funciones y con las facultades actuales, por lo que integrará tanto el Pleno del Tribunal Superior de Justicia del Estado, como el Tribunal de Control Constitucional, por lo que la integración a la que se refieren los artículos 79 de la Constitución Política del Estado Libre y Soberano de Tlaxcala y 11 de la Ley Orgánica del Poder Judicial del Estado de Tlaxcala se entenderá de ocho magistrados y las votaciones relativas a los artículos 21, 24 y 25 fracción XI de la Ley Orgánica del Poder Judicial se entenderán de cinco magistrados.
+
+B. Para la creación, en su momento, del Tribunal de Justicia Administrativa del Estado de Tlaxcala, deberá considerarse que:
+
+1. El magistrado titular de la Sala Unitaria Administrativa del Tribunal Superior de Justicia continuará como Magistrado del Tribunal de Justicia Administrativa del Estado de Tlaxcala, con los derechos adquiridos al momento de su designación, exclusivamente por el tiempo que haya sido nombrado, en términos de lo dispuesto por el artículo octavo transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo del 2015.
+
+2. Los recursos humanos, financieros, materiales y presupuestales de la Sala Unitaria Administrativa continuarán formando parte del Poder Judicial del Estado de Tlaxcala, salvo disposición legal en contrario.
+
+3. El personal adscrito a la Sala Unitaria Administrativa, conservará y le serán respetados sus derechos adquiridos desde la fecha de su ingreso.
+
+###### ARTÍCULO CUARTO.
+
+A la entrada en vigor del presente Decreto, el Tribunal Superior de Justicia deberá realizar las adecuaciones legales y administrativas necesarias para el debido funcionamiento de la Sala Penal y Especializada en Administración de Justicia para Adolescentes e integración de la Sala Civil-Familiar.
+
+Todo instrumento legal, jurídico o administrativo en sentido formal o material, que a la entrada en vigor del presente Decreto se refiera a la Sala Unitaria de Administración de Justicia para Adolescentes, se entenderá asignado a la Sala Penal y Especializada en Administración de Justicia para Adolescentes del Tribunal Superior de Justicia en el Estado de Tlaxcala.
+
+###### ARTÍCULO QUINTO.
+
+La entrada en vigor de las reformas a la Ley Orgánica del Poder Judicial del Estado de Tlaxcala y a la Ley de Justicia para Adolescentes para el Estado de Tlaxcala tendrá lugar una vez que inicien su vigencia las reformas a la Constitución Política del Estado Libre y Soberano de Tlaxcala materia del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Lo previsto en los artículos 2, 7 bis, 48 bis, 51 y 60 quater de la Ley Orgánica del Poder Judicial, entrará en vigor gradualmente conforme se emitan por parte del Pleno del Tribunal Superior de Justicia los acuerdos generales necesarios para su instrumentación, con base en su disponibilidad presupuestaria.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
