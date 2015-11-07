@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-candidaturas-independientes-del-estado-de-91701"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-09"
-last_updated: "2013-01-09"
+last_updated: "2015-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO DE CANDIDATURAS INDEPENDIENTES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO DE CANDIDATURAS INDEPENDIENTES DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el miércoles 9 de enero de 2013.
 
@@ -31,7 +33,7 @@ Acuerdo del Consejo General del Instituto Electoral del Estado de Zacatecas, por
 
 Vista la propuesta que presentan la Junta Ejecutiva y la Comisión de Asuntos Jurídicos del Instituto Electoral del Estado de Zacatecas, para que el Consejo General apruebe el Reglamento de Candidaturas Independientes del Estado de Zacatecas.
 
-A n t e c e d e n t e s: .
+A n t e c e d e n t e s: ...
 
 De conformidad con los antecedentes y considerandos vertidos, y con fundamento en lo dispuesto por los artículos 1°, párrafos primero y segundo, 35, fracción II y 116, fracción IV, incisos b) y c) de la Constitución Política de los Estados Unidos Mexicanos; 25 del Pacto Internacional de Derechos Civiles y Políticos; 23 de la Convención Interamericana sobre Derechos Humanos; 35 y 38, párrafo 1, fracción I de la Constitución Política del Estado de Zacatecas; 5, fracción XXIII, 17, 18, 19, 254, 255, numeral 1 de la Ley Electoral del Estado de Zacatecas; 2, fracción V, 4, 5, fracción 1, 7, numeral 2, fracción V, 19, 23, fracciones I, II, V, VII, XII, XIV, XVI y XIX, 24, fracciones XXII y XXVII, 28, numeral 1, 30, fracción V y 35, fracción IV de la Ley Orgánica del Instituto Electoral del Estado de Zacatecas, este órgano superior de dirección expide el siguiente:
 
@@ -557,7 +559,7 @@ VI. Entregar la copia de la solicitud de registro de las candidaturas debidament
 
 Artículo 25
 
-1. Recibida la solicitud de registro, la Presidencia o Secretaría Ejecutiva del Consejo Electoral correspondiente, dentro de los tres días siguientes a su recepción, revisará el expediente conformado a efecto de verificar el cumplimiento de todos y cado uno de los requisitos previstos por la Constitución, la Ley Electoral y los Lineamientos para el registro de candidaturas a cargos de elección popular.
+1. Recibida la solicitud de registro, la Presidencia o Secretaría Ejecutiva del Consejo Electoral correspondiente, dentro de los tres días siguientes a su recepción, revisará el expediente conformado a efecto de verificar el cumplimiento de todos y cada uno de los requisitos previstos por la Constitución, la Ley Electoral y los Lineamientos para el registro de candidaturas a cargos de elección popular.
 
 2. Si de la verificación se advierte el incumplimiento de requisitos, la Secretaría Ejecutiva del Consejo Electoral correspondiente, notificará al aspirante que encabece la fórmula o planilla, para que dentro del término improrrogable de cuarenta y ocho horas subsane los requisitos omitidos.
 
@@ -1250,3 +1252,15 @@ Primero. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
 Segundo. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Tercero. Se derogan las disposiciones administrativas de igual o menor jerarquía normativa que se opongan al presente Reglamento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO.-ACG-IEEZ-052/VI/2015 DEL CONSEJO GENERAL DEL IEEZ, DEL ESTADO DE ZACATECAS, POR EL QUE SE APRUEBA EL REGLAMENTO DE CANDIDATURAS INDEPENDIENTES DEL ESTADO DE ZACATECAS Y ANEXOS.]
+
+Primero. Se abroga el Reglamento de Candidaturas Independientes del Estado de Zacatecas, aprobado por el Consejo General del Instituto Electoral, el cuatro de enero de dos mil trece.
+
+Segundo. El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General del Instituto Electoral.
+
+Tercero. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
