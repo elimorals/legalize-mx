@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-quejas-y-denuncias-del-instituto-estatal-92360"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-02"
-last_updated: "2013-02-02"
+last_updated: "2015-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "OAX"
 
 REGLAMENTO DE QUEJAS Y DENUNCIAS DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE QUEJAS Y DENUNCIAS, PUBLICADO EN EL P.O. DE 7 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 2 de febrero de 2013.
 
@@ -1106,7 +1108,7 @@ De la admisión y el emplazamiento
 
 1. La Comisión contará con un plazo de veinticuatro horas para emitir el Acuerdo de admisión o propuesta de desechamiento, contado a partir del día en que reciba el escrito original de queja o denuncia en el que conste firma autógrafa del promovente.
 
-El procedimiento especial sancionador se rige preponderantemente por el principio dispositivo, no obstante en los casos en los que el denunciante o quejoso no aporte indicios suficientes para que la autoridad dicte el Acuerdo de admisión o desechamiento, según corresponda, o en caso de considerarlo necesario para el debido conocimiento de los hechos, la Comisión ejercerá su facultad para llevar a cabo u ordenar la realización de diligencias que estime pertinentes, las cuales deben realizarse atendiendo a la naturaleza, objeto y efectos de de dicho procedimiento y su carácter sumario, a fin de que tales diligencias de investigación se lleven a cabo en un plazo razonable, idóneo y proporcional, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo para emitir el acuerdo correspondiente se computará a partir (sic) que la autoridad cuente con los elementos necesarios.
+El procedimiento especial sancionador se rige preponderantemente por el principio dispositivo, no obstante en los casos en los que el denunciante o quejoso no aporte indicios suficientes para que la autoridad dicte el Acuerdo de admisión o desechamiento, según corresponda, o en caso de considerarlo necesario para el debido conocimiento de los hechos, la Comisión ejercerá su facultad para llevar a cabo u ordenar la realización de diligencias que estime pertinentes, las cuales deben realizarse atendiendo a la naturaleza, objeto y efectos de de (sic) dicho procedimiento y su carácter sumario, a fin de que tales diligencias de investigación se lleven a cabo en un plazo razonable, idóneo y proporcional, debiendo justificar para tal efecto su necesidad y oportunidad. En este caso, el plazo para emitir el acuerdo correspondiente se computará a partir (sic) que la autoridad cuente con los elementos necesarios.
 
 Las diligencias que se practiquen en el curso de la investigación deberán ser efectuadas por el Secretario General o a través del servidor público del Instituto que determine la Comisión.
 
@@ -1246,8 +1248,12 @@ Manejo de los expedientes
 
 1. La Comisión podrá dictar los acuerdos necesarios para facilitar el manejo de los expedientes por parte del personal que integre la Unidad de Quejas y Denuncias, a fin de que se agilice el desahogo de las diligencias y mejore el trámite y sustanciación de los asuntos a su cargo.
 
-## TRANSITORIOS
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-Primero. Este Reglamento entrará en vigor a partir del día siguiente al de su aprobación por el Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca.
+P.O. 7 DE NOVIEMBRE DE 2015.
 
-Segundo. Se abrogan las disposiciones y acuerdos adoptados con anterioridad por el Consejo que contravengan a éste Reglamento.
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE QUEJAS Y DENUNCIAS.- DEL INSTITUTO ESTATAL ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE OAXACA”.]
+
+PRIMERO. Se abroga el Reglamento de Quejas y Denuncias del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, aprobado mediante acuerdo número CG-IEPCCO-4/2013, en la sesión extraordinaria del Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, de fecha diecisiete de enero del dos mil trece.
+
+SEGUNDO. Este Reglamento entrará en vigor a partir de su aprobación por el Consejo General del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca.
