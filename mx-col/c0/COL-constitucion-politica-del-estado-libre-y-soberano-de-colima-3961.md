@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2015-09-12"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -35,11 +35,9 @@ CONSTITUCION POLITICA del Estado Libre y soberano de Colima
 
 ## TITULO I.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO I.
-
-De los Derechos Humanos.
+### CAPÍTULO I.. De los Derechos Humanos y sus Garantías
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2014)</small>
 
@@ -123,6 +121,26 @@ El Poder Supremo del Estado, se divide para su ejercicio en Legislativo, Ejecuti
 
 No podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias concedidas al Gobernador conforme a lo dispuesto en el artículo 33, fracción XVI, de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+En el régimen interior del Estado, los órganos estatales autónomos son instituciones que expresamente se definen como tales por esta Constitución y que cuentan con personalidad jurídica y patrimonio propios; gozan de independencia en sus decisiones, funcionamiento y administración; están dotados de autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones, y atienden funciones primarias u originarias del Estado que requieren especialización para ser eficazmente atendidas en beneficio de la sociedad.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+Esta Constitución y las leyes de la materia establecerán las bases de la integración, coordinación, organización, funcionamiento, modalidades, límites y formas de control y de rendición de cuentas de los órganos estatales autónomos. Dichos órganos se regirán por los principios de certeza, legalidad, independencia, imparcialidad, eficiencia, objetividad, profesionalismo, transparencia, máxima publicidad y respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+En el Estado de Colima se reconocen como órganos estatales autónomos a la Comisión de Derechos Humanos, Fiscalía General, Instituto Electoral, Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos, Órgano Superior de Auditoría y Fiscalización Gubernamental, Tribunal Electoral, Tribunal de Arbitraje y Escalafón y al Tribunal de lo Contencioso Administrativo.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+Los nombramientos de los titulares de los órganos estatales autónomos deberán recaer entre aquellas personas que se hayan distinguido por su honorabilidad, imparcialidad, competencia y antecedentes profesionales en el ejercicio de la función que se pretenda ocupar.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+Los representantes de los órganos estatales autónomos comparecerán al Congreso del Estado en los términos que disponga la ley.
+
 ### CAPITULO I.
 
 Del Poder Legislativo.
@@ -189,9 +207,9 @@ II.- Estar inscrito en la lista nominal de electores.
 
 III.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Administración Pública Estatal, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos.
+IV.- No ser Magistrado del Supremo Tribunal de Justicia, Secretario de la Administración Pública Estatal, Consejero Jurídico o Fiscal General del Estado, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separe del cargo, por lo menos, un día antes del inicio del período de registro de candidatos.
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2002)</small>
 
@@ -265,9 +283,11 @@ El Congreso, fuera de los períodos que señala el artículo anterior, celebrar�
 
 En la apertura de Sesiones Ordinarias del Primer Período de cada año de ejercicio del Congreso, el Gobernador del Estado presentará un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la Entidad y el cumplimiento del Plan Estatal de Desarrollo.
 
-Posteriormente, el Congreso realizará el análisis del informe, acordará solicitar al Ejecutivo Estatal la ampliación de la información por escrito y solicitará a los Secretarios de la Administración Pública así como al Procurador de Justicia comparezcan y amplíen la información.
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-EI Gobernador también podrá ser citado a comparecer cuando así lo decida la mayoría calificada del Congreso.
+Posteriormente, el Congreso realizará el análisis del informe, acordará solicitar al Ejecutivo Estatal la ampliación de la información por escrito y solicitará a los Secretarios de la Administración Pública, al Consejero Jurídico y al Fiscal General del Estado comparezcan y amplíen la información.
+
+El Gobernador también podrá ser citado a comparecer cuando así lo decida la mayoría calificada del Congreso.
 
 La Ley Orgánica del Poder Legislativo y su Reglamento establecerán los términos en que se desarrollarán las comparecencias.
 
@@ -337,13 +357,21 @@ XI BIS.- El Congreso del Estado emitirá la convocatoria para elegir al Auditor 
 
 El Auditor Superior de Fiscalización, además de los requisitos previstos en la fracción I, II del artículo 69 de esta Constitución, deberá de reunir los siguientes:
 
-I. Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-II. Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
+a).- Contar el día de su designación, con antigüedad mínima de 10 años, con título profesional de contador público, licenciado en derecho o abogado, licenciado en economía, licenciado en administración o cualquier otro título profesional relacionado con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello;
 
-III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal; y
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-IV. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+b).- Contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+c).- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal; y
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+d).- No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Consejero Jurídico, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
 
 El titular de dicho órgano seguirá en funciones hasta en tanto se designa al que le sustituya.
 
@@ -389,9 +417,9 @@ XXIV.- Expedir leyes para regular las relaciones de trabajo entre el gobierno de
 
 XXV.- Nombrar Gobernador interino cuando la falta del propietario sea temporal o designar sustituto si la falta del mismo propietario fuere absoluta, mediante los procedimientos establecidos en esta Constitución;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-XXVI. Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia y del Procurador General de Justicia expedidos por el Ejecutivo en los términos que establece esta Constitución;
+XXVI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia y a la propuesta de Fiscal General del Estado emitidos por el Ejecutivo en los términos que establece esta Constitución;
 
 XXVII.- Conocer de las renuncias y licencias de los Diputados y del Gobernador; y otorgar o negar su aprobación a las solicitudes de licencia por más de dos meses o renuncias de los Magistrados del Supremo Tribunal, que le someta el Ejecutivo del Estado;
 
@@ -519,9 +547,13 @@ III.- Al Supremo Tribunal de Justicia en asuntos del Ramo de Justicia;
 
 IV.- A los Ayuntamientos; y
 
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+V.- A los Órganos Estatales Autónomos, en las materias de su competencia. En este caso, la iniciativa se presentará por conducto de su presidente o titular, previo acuerdo de sus integrantes cuando se trate de un órgano colegiado.
+
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2011)</small>
 
-V.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 2% de los inscritos en el listado nominal de electores. Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas en el siguiente período ordinario de sesiones a aquel en que se reciba. Esta facultad será reglamentada en los términos de la ley respectiva.
+VI.- A los ciudadanos colimenses debidamente identificados, mediante iniciativa popular presentada en forma, suscrita por un número que sea cuando menos el 2% de los inscritos en el listado nominal de electores. Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas en el siguiente período ordinario de sesiones a aquel en que se reciba. Esta facultad será reglamentada en los términos de la ley respectiva.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -617,9 +649,9 @@ V.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuar
 
 VI.- No estar en servicio activo de las fuerzas armadas y de los cuerpos de seguridad pública, a menos que se separe del cargo, por lo menos, un día antes del inicio del periodo de registro de candidatos;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-VII. No ser Secretario de la Administración Pública Estatal, Procurador General de Justicia, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo, por lo menos, un día antes del inicio del período de registro de candidatos; y
+VII.- No ser Secretario de la Administración Pública Estatal, Consejero Jurídico, Fiscal General del Estado, Magistrado del Supremo Tribunal de Justicia o Presidente Municipal, a menos que se separe del cargo, por lo menos, un día antes del inicio del período de registro de candidatos; y
 
 VIII.- No haberse desempeñado como Gobernador del Estado de Colima electo popularmente o de otra entidad federativa, ni como jefe de gobierno del Distrito Federal o cualquier otra atribución que se refiera a las mismas funciones y atribuciones.
 
@@ -691,11 +723,13 @@ II.- Promulgar, ejecutar y hacer que se ejecuten las Leyes y Decretos haciendo u
 
 III.- Formar los reglamentos y dictar las providencias que demande la mejor ejecución de las leyes.
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-IV. Nombrar y remover libremente a los Secretarios de la Administración Pública Estatal, y a los demás servidores públicos cuyos nombramientos o remoción no correspondan, conforme a la ley, a otra autoridad.
+IV.- Nombrar y remover libremente a los Secretarios de la Administración Pública Estatal, al Consejero Jurídico y a los demás servidores públicos cuyos nombramientos o remoción no correspondan, conforme a la ley, a otra autoridad.
 
-Nombrar con aprobación del Congreso al Procurador General de Justicia y removerlo libremente;
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+IV bis.- Proponer al Fiscal General del Estado para su aprobación al Congreso y, en su caso, removerlo en los términos prescritos por esta Constitución;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 1994)</small>
 
@@ -729,9 +763,9 @@ XI.- Aceptar las renuncias y licencias de los funcionarios a que se refiere la f
 
 XII.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los tribunales.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-XIII.- Transmitir órdenes a las policías preventivas municipales sólo en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público.
+XIII.- Tener el mando de la fuerza pública del Estado y transmitir órdenes a las policías preventivas municipales sólo en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público;
 
 > <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
 
@@ -871,11 +905,17 @@ VII.- Ausentarse del Territorio del Estado por más de treinta días sin licenci
 
 De la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 60.
 
-Para el despacho de los asuntos que son competencia del Poder Ejecutivo, éste se auxiliará de un Secretario General de Gobierno y de los Secretarios, Procurador General de Justicia y demás servidores públicos de las dependencias que forman la administración pública centralizada, y descentralizada, en los términos de la Ley Orgánica de la Administración Pública del Estado.
+La Administración Pública del Estado será centralizada y paraestatal conforme a su Ley Orgánica y las demás leyes que expida el Congreso del Estado.
+
+En el ejercicio de sus atribuciones y para el despacho de los asuntos que son competencia del Poder Ejecutivo del Estado, éste se auxiliará de un Secretario General de Gobierno y de los Secretarios, Consejero Jurídico y demás servidores públicos de las dependencias y entidades que integran la administración pública centralizada y paraestatal en los términos que dispongan las leyes respectivas.
+
+Formarán parte de la Administración Pública del Estado las empresas productivas de bienes o de servicios que contribuyan directamente a los fines establecidos en la fracción IX del artículo 1º de esta Constitución.
+
+La Ley señalará los requisitos de ingreso, permanencia y profesionalización de los servidores públicos de mando que lleven a cabo tareas especializadas.
 
 (REUBICADO, P.O. 26 DE MARZO DE 1994)
 
@@ -895,17 +935,23 @@ Para ser Secretario de Administración Pública Estatal, se requieren los mismos
 
 Todas (sic) los reglamentos, decretos, acuerdos y órdenes del Ejecutivo, deberán ser refrendados con carácter obligatorio por el Secretario General de Gobierno y por los Secretarios del ramo a que el asunto corresponda.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 64.
 
-Mientras se encuentren en ejercicio de su cargo los secretarios de la Administración Pública Estatal y el Procurador General de Justicia del Estado, no podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el Notariado.
+Mientras se encuentren en ejercicio de su cargo los secretarios de la Administración Pública Estatal y el Consejero Jurídico no podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el Notariado.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 65.
 
-El Secretario General de Gobierno representará jurídicamente al Ejecutivo del Estado.
+La función de Consejero Jurídico estará a cargo de la Consejería Jurídica del Poder Ejecutivo del Estado. Al frente de la Consejería Jurídica habrá un Consejero que dependerá directamente del Gobernador, y será nombrado y removido libremente por éste.
+
+Para ser Consejero Jurídico se deben cumplir los mismos requisitos que para ser Fiscal General del Estado previstos por el artículo 83 de esta Constitución.
+
+El Consejero Jurídico dará opinión sobre los proyectos de iniciativas de leyes, decretos y nombramientos que el Gobernador deba presentar al Congreso del Estado y lo representará jurídicamente en cualquier juicio o asunto en que el titular del Ejecutivo del Estado intervenga o deba intervenir con cualquier carácter, así como en las acciones y controversias constitucionales en las que el Estado sea parte. Estas facultades podrán ser delegadas.
+
+Sin perjuicio de lo anterior, el Gobernador podrá ser representado jurídicamente por los Secretarios de la Administración Pública Estatal en los términos que disponga la ley.
 
 (REUBICADO, P.O. 26 DE MARZO DE 1994)
 
@@ -1051,15 +1097,15 @@ I.- Elaborar y aprobar su reglamento interior;
 
 II.- Conocer de las causas de responsabilidad que hayan de formarse a los funcionarios de que habla el Artículo 123, previa la declaración que se haga de haber lugar a sujeción de causa;
 
-III.- Consignar a los jueces de primera instancia y demás que designe la Ley Orgánica del Poder Judicial, a la autoridad competente, por delitos comunes o responsabilidades oficiales en que incurran, a solicitud del Procurador General de Justicia;
+III.- (DEROGADA, P.O. 7 DE NOVIEMBRE DE 2015)
 
 IV.- Conceder licencias a los jueces de Primera Instancia y a las demás autoridades que designe la Ley Ofgánica (sic) del Poder Judicial, así como a los empleados inferiores de su dependencia; y resolver acerca de la renuncia de sus miembros;
 
 V.- La administración de los recursos humanos y materiales que requiere el funcionamiento de su dependencia y le asigne el presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-VI.- Dirimir los conflictos que surjan entre los municipios y los Poderes Legislativo y Ejecutivo del Estado, o entre aquéllos, que no sean de los previstos por la fracción XX del artículo 33 de esta Constitución; sin perjuicio de lo dispuesto en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
+VI.- Dirimir los conflictos que surjan entre los municipios, los órganos estatales autónomos, los Poderes Legislativo y Ejecutivo del Estado, o entre cualquiera de los anteriores, que no sean de los previstos por la fracción XX del artículo 33 de esta Constitución; sin perjuicio de lo dispuesto en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VII.- Dirimir las competencias de jurisdicción que se susciten entre los Tribunales del Estado;
 
@@ -1147,65 +1193,101 @@ Estará a cargo del Tribunal de Arbitraje y Escalafón la función jurisdicciona
 
 Del Ministerio Público y de la Defensoría Pública.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 80.
 
-El Ministerio Público es la institución única, indivisible y de buena fe, que tiene por objeto velar por el cumplimiento de la ley y combatir las conductas delictivas que atentan contra la sociedad que representa, mediante el ejercicio de la acción penal y de reparación del daño. Le corresponde también, la defensa de los derechos del Estado y la intervención en los procedimientos que afecten a las personas a quienes las leyes otorguen especial protección.
+El Ministerio Público es la institución que tiene por objeto la investigación de todos los delitos del orden común y de su persecución ante los tribunales; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes locales señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas y la reparación del daño, e intervendrá en todos los asuntos que la ley determine.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+Le corresponde también la defensa de los derechos de la sociedad y la intervención en los procedimientos que afecten a las personas a quienes las leyes otorguen especial protección.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 81.
 
-El Ministerio Público tendrá un titular que se denominará Procurador General de Justicia del Estado, auxiliado por los agentes y demás personal que señale su ley orgánica.
+El Ministerio Público se organizará en una Fiscalía General del Estado como órgano estatal autónomo, dotado de personalidad jurídica y patrimonio propios, en términos de lo previsto en esta Constitución y su ley orgánica.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
+La Fiscalía General del Estado para el ejercicio de sus funciones contará con los fiscales especializados, agentes, policía ministerial y demás personal que estará bajo su autoridad en los términos que establezca la ley.
 
-Para el esclarecimiento de los hechos que puedan tener el carácter de delictivos, así como para la persecución de las personas que hayan intervenido en su realización, la Procuraduría contará con un cuerpo facultado de investigación, que actuará bajo la conducción y mando del Ministerio Público.
+Los elementos policiacos del sistema de seguridad pública podrán intervenir de manera auxiliar en la investigación de los delitos en los términos que dispongan las leyes respectivas.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2014)</small>
-
-Los elementos policiacos del sistema de seguridad pública, estarán facultados para intervenir en la investigación de los delitos, en los términos de la legislación aplicable.
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 82.
 
-El Procurador General de Justicia dependerá directamente del Gobernador y será nombrado por éste con la aprobación de la mayoría absoluta de los miembros del Congreso del Estado.
+Al mando de la Fiscalía General del Estado estará un Fiscal General que durará en su encargo seis años y podrá ser reelecto, el cual será designado y, en su caso, removido conforme a lo siguiente:
 
-El Gobernador nombrará al Procurador y enviará el nombramiento al Congreso del Estado, el cual otorgará o negará la aprobación, dentro del término improrrogable de 15 días hábiles. Si el Congreso no resolviere dentro de dicho término, se tendrá por aprobado el nombramiento, en este caso, el Ejecutivo solicitará al Congreso tome la protesta de Ley; en caso de negativa o falta de respuesta por parte del Congreso, transcurrido cinco días, el Ejecutivo podrá tomar la protesta señalada. Sin la toma de protesta no podrá tomar posesión el Procurador nombrado.
+I. El Gobernador del Estado propondrá al Congreso del Estado a la persona que considere idónea para ocupar el cargo de Fiscal General, quien deberá cumplir con los requisitos de elegibilidad previstos por esta Constitución.
 
-Si el Congreso niega la aprobación, el Gobernador hará una segunda designación y se procederá en la misma forma que el párrafo anterior. En caso de que el Congreso niegue la aprobación de dos designaciones sucesivas, el Gobernador nombrará libremente a quien ocupará dicho cargo.
+II. El Congreso del Estado, previa comparecencia de la persona propuesta, designará al Fiscal General con el voto de las dos terceras partes de sus miembros presentes dentro del plazo de diez días hábiles.
 
-En tanto el Congreso substancia el trámite para otorgar la aprobación o la designación del Gobernador surte los efectos previstos en los párrafos anteriores, el Procurador será suplido en la forma que determine la Ley Orgánica de la Institución.
+Si el Congreso no resolviere dentro del plazo indicado se tendrá por aprobada la propuesta de Fiscal General presentada por el Gobernador.
 
-Las faltas temporales del Procurador que no excedan de tres meses, o su ausencia por defunción o por cualquier causa de separación definitiva, serán suplidas en términos del párrafo anterior, en tanto el Gobernador del Estado somete un nuevo nombramiento a la aprobación del Congreso.
+III. El Fiscal General podrá ser removido por el Gobernador por las causas previstas en esta Constitución. La remoción podrá ser objetada por el voto de las dos terceras partes de los miembros presentes del Congreso dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
 
-El nombramiento y remoción de los demás servidores públicos de esta Institución se realizará en los términos de su propia Ley Orgánica.
+IV. En los recesos del Congreso, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General. En este caso, los plazos de diez días hábiles previstos en las fracciones II y III anteriores, se computará (sic) a partir de la convocatoria a sesiones extraordinarias.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+V. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+
+La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo del Estado un informe de actividades. Comparecerá ante cualquiera de ellos cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+El Fiscal General del Estado, fiscales especializados, agentes, policías ministeriales y demás personal bajo su autoridad, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
+
+Durante el ejercicio de su cargo el Fiscal General no podrá desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el Notariado.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 83.
 
-Para ser Procurador General de Justicia y Sub-Procurador se requieren los mismos requisitos que para ser Magistrado del Supremo Tribunal de Justicia del Estado, a excepción de la edad, que no será menor de 30 años y, del título profesional de licenciado en derecho, con antigüedad mínima de cinco años, expedida (sic) por autoridad o institución legalmente facultada para ello.
+Para ser Fiscal General del Estado se requiere:
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2014)</small>
+I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no tener otra nacionalidad;
+
+II. Tener, cuando menos, treinta años cumplidos al día de su designación y no más de setenta y cinco años;
+
+III. Contar con título profesional de licenciado en derecho, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello;
+
+IV. No haber sido condenado por delito doloso;
+
+V. Gozar de buena reputación; y
+
+VI. Tener perfil idóneo pare el cargo en razón de sus antecedentes laborales y profesionales.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 84.
 
-La Defensoría Pública, es una Institución de orden público obligatoria y gratuita que tiene por objeto proporcionar la defensa jurídica necesaria en materia penal a las personas imputadas que carecen de defensor particular; y la orientación, representación y asesoramiento jurídico en asuntos del orden civil, familiar, administrativo, mercantil, agrario y de amparo a quienes así lo soliciten y demuestren no estar en condiciones de retribuir los servicios de un abogado postulante.
+El Fiscal General del Estado podrá ser removido por el Gobernador por cualquiera de las siguientes causas:
 
-La Dirección General de Defensoría Pública y Asesoría Jurídica del Estado de Colima, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a personas en situación de vulnerabilidad, que no se encuentra en condiciones económicas de erogar por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la Defensoría Pública y Asesoría Jurídica del Estado de Colima regirá lo respectivo a su organización, atribuciones y funcionamiento, conforme a lo dispuesto por esta Constitución y establecerá el servicio profesional de carrera para los servidores públicos adscritos a la defensoría pública.
+I. Si le sobreviene una incapacidad total o permanente que le impida el correcto ejercicio de su cargo, por más de treinta días;
 
-La prestación del servicio de defensoría pública y asesoría jurídica estará a cargo de la Dirección General de la Defensoría Pública y Asesoría Jurídica del Estado, órgano del Poder Ejecutivo, con autonomía técnica y de gestión.
+II. Si durante su desempeño incurre en incumplimiento de alguno de los requisitos establecidos para su designación previstos en el artículo 83 de esta Constitución;
 
-Las percepciones de los defensores públicos y asesores jurídicos no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
+III. Por reprobar los exámenes y evaluaciones de control de confianza a cargo de las instituciones de seguridad pública competentes en términos de las leyes de la materia;
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2011)</small>
+IV. Por abuso o ejercicio indebido del cargo; y
+
+V. Por incurrir en actos u omisiones que ocasionen la suspensión o deficiencia del servicio público o el incumplimiento de las disposiciones jurídicas relacionadas con sus funciones.
+
+El acuerdo de remoción será notificado al Congreso del Estado a más tardar al día siguiente de su emisión para efectos de lo dispuesto por la fracción III del artículo 82 de esta Constitución.
+
+Lo señalado en las fracciones anteriores se aplicará sin perjuicio de lo establecido en el Título Cuarto de la Constitución Federal y en el Título XI de esta Constitución, en materia de responsabilidades de los servidores públicos.
+
+El nombramiento y remoción de los demás servidores públicos de la Fiscalía General se realizará en los términos de su propia ley orgánica.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 85.
 
-La Ley organizará el Ministerio Público y la Defensoría Pública, fijará sus funciones y la estructura administrativa correspondiente, así como el nombramiento y remoción de sus integrantes.
+El Estado garantizará la existencia de un servicio de Defensoría Pública profesional, de calidad y gratuito para toda aquella persona que no se encuentre en condiciones de retribuir los servicios profesionales de un abogado postulante y que requiera orientación, asesoría o representación jurídica en materia penal, así como en las diversas materias del conocimiento de autoridades que tengan a su cargo funciones jurisdiccionales.
+
+La Defensoría Pública estará a cargo de la Consejería Jurídica del Poder Ejecutivo del Estado, quien la ejercerá a través del Instituto de Defensoría Pública del Estado de Colima, el cual contará con autonomía técnica y de gestión.
+
+La ley regulará el servicio de Defensoría Pública, fijará la organización, atribuciones y competencia del Instituto de Defensoría Pública del Estado de Colima y establecerá el servicio profesional de carrera para los servidores públicos adscritos a dicho Instituto.
+
+Las percepciones de los defensores públicos y asesores jurídicos no podrán ser inferiores a las que correspondan a los Agentes del Ministerio Público.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -1453,9 +1535,9 @@ g) No haber tenido cargo alguno de elección popular ni haber sido postulado com
 
 h) No haber desempeñado cargo de dirección en los órganos nacionales, estatales o municipales de algún partido político o de algún organismo, institución, colegio o agrupación ciudadana afiliada a algún partido político en los últimos tres años anteriores a su elección;
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-i) No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de organismo descentralizado de la Federación en la entidad; ni Secretarios de Gobierno o Procurador General de Justicia; ni Presidente Municipal, Secretario, Tesorero, Oficial Mayor o Contralor de un Ayuntamiento, en el año anterior a su designación; y
+i) No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de organismo descentralizado de la Federación en la entidad; ni Secretarios de Gobierno o Fiscal General del Estado; ni Presidente Municipal, Secretario, Tesorero, Oficial Mayor o Contralor de un Ayuntamiento, en el año anterior a su designación; y
 
 > <small>(ADICIONADO, P.O. 31 DE MAYO DE 2014)</small>
 
@@ -1857,15 +1939,23 @@ Las localidades de más de 2 mil habitantes tendrán la categoría de pueblo y l
 
 De la Hacienda Pública.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 107.
 
-La Hacienda Pública tiene por objeto atender a los gastos ordinarios y extraordinarios del Estado.
+La Hacienda Pública tiene por objeto atender los gastos del Estado.
 
-Los recursos económicos de que dispongan el Estado, los Ayuntamientos y los organismos públicos estatales y municipales, así como las entidades privadas que reciban fondos públicos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+Los recursos y fondos públicos que administren, custodien o ejerzan los poderes del Estado, los ayuntamientos, órganos estatales autónomos previstos por esta Constitución, organismos públicos descentralizados contemplados en las leyes, empresas de participación pública, fideicomisos públicos, estatales o municipales, así como a cargo de cualquier persona física o moral, pública o privada, se manejarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados.
 
-El ejercicio de dichos recursos serán objeto de evaluación, control y fiscalización por la instancia técnica que establezca esta Constitución con el objeto de propiciar que los recursos económicos que se asignen en los respectivos presupuestos, se administren y ejerzan en los términos del párrafo anterior.
+El ejercicio de dichos recursos será objeto de evaluación, control y fiscalización por parte del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado previsto por esta Constitución con el propósito de que los recursos que se asignen en los respectivos presupuestos, se administren y ejerzan en los términos del párrafo anterior.
+
+Las finanzas públicas del Estado deberán estar apegadas a un criterio de racionalidad y de disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca en el presupuesto de egresos sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal.
+
+El Estado velará por la estabilidad de las finanzas públicas y de la hacienda pública estatal y las municipales para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo, los planes municipales y los programas que se deriven de ellos deberán observar dicho principio y las demás disposiciones aplicables que señalen la Constitución Federal y esta Constitución.
+
+La suscripción de pasivos públicos, deuda pública y demás compromisos de pago a cargo del Estado y sus municipios, deberá apegarse a las disposiciones de la Constitución Federal, de la ley general respectiva y de la legislación estatal correspondiente.
+
+Los contratos administrativos se adjudicarán a través del procedimiento administrativo que disponga la ley, con base en los principios de legalidad, publicidad, igualdad, concurrencia y transparencia. Cuando las condiciones no sean idóneas, los entes públicos podrán adjudicarlos bajo los supuestos de excepción que les garanticen las mejores condiciones de contratación.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2009)</small>
 
@@ -1881,19 +1971,19 @@ III. Por el gasto público, que estará contenido en el Presupuesto de Egresos d
 
 IV. Por las obligaciones a cargo del Estado, derivadas de empréstitos, garantías, avales, contratos de colaboración públicos, privados y demás actos jurídicos.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 109.
 
-El Congreso expedirá la Ley de Hacienda que establezca las bases generales para la fijación de las contribuciones y la manera de hacerlas efectivas.
+El Congreso del Estado expedirá las leyes que establezcan las bases generales para la fijación de las contribuciones y la manera de hacerlas efectivas.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 110.
 
-Habrá en el Estado una dependencia encargada de la recaudación y distribución de los caudales públicos, así como de la administración del patrimonio del Estado, que se denominará Secretaría de Finanzas y Administración del Estado y que estará a cargo del Secretario respectivo.
+Habrá en el Estado una dependencia encargada de la recaudación, guarda y distribución de los caudales públicos y que estará a cargo del Secretario del despacho respectivo del gobierno del Estado.
 
-En las cabeceras de cada Municipio o en donde la Secretaría de Finanzas y Administración del Estado lo juzgue conveniente, habrá oficinas encargadas de recaudar las contribuciones que correspondan al Estado, que se denominarán Receptoría de Rentas y estarán cada una de ellas a cargo de un Receptor de Rentas.
+En las cabeceras de cada Municipio o en donde la Secretaría competente en materia de finanzas del Estado lo juzgue conveniente, habrá oficinas encargadas de recaudar las contribuciones que correspondan al Estado, que se denominarán Receptoría de Rentas y estarán cada una de ellas a cargo de un Receptor de Rentas.
 
 ###### Artículo 111.
 
@@ -1905,17 +1995,17 @@ En cada una de las cabeceras de las Municipalidades habrá una Oficina que recau
 
 Las oficinas a que se refieren los dos artículos anteriores, podrán ejercer la facultad económico-coactiva para hacer efectivas las contribuciones decretadas por las leyes.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 113.
 
-El Secretario de Finanzas y Administración del Estado y los tesoreros municipales, distribuirán los caudales públicos con estricto apego al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por una Ley posterior.
+El Secretario competente en materia de finanzas del Estado y los tesoreros municipales, distribuirán los caudales públicos con estricto apego al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por una Ley posterior.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 114.
 
-El Secretario de Finanzas y Administración del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
+El Secretario competente en materia de finanzas del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
 
 ###### Artículo 115.
 
@@ -1995,11 +2085,11 @@ El Gobernador del Estado, los Diputados a la Legislatura Local y los Magistrados
 
 Se concede acción popular para exigir la responsabilidad de los funcionarios y empleados públicos, a excepción de la que provenga de delitos en que se requiera la querella necesaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 121.
 
-Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados del Poder Judicial, del Tribunal Electoral y el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Procurador General de Justicia, el Presidente de la Comisión de Derechos Humanos del Estado, los Munícipes, así como los Consejeros Electorales del Instituto Electoral, el Congreso del Estado, erigido en Gran Jurado, declarará a mayoría absoluta de votos si ha o no lugar a proceder contra el inculpado.
+Siempre que se trate de un delito de orden común cometido por los Diputados, el Gobernador, los Magistrados del Poder Judicial, del Tribunal Electoral, y el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Consejero Jurídico, el Fiscal General del Estado, el Presidente de la Comisión de Derechos Humanos del Estado, el Titular del Órgano Superior de Auditoría y Fiscalización Gubernamental, los Munícipes, así como los Consejeros Electorales del Instituto Electoral y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos, el Congreso del Estado, erigido en Gran Jurado, declarará a mayoría absoluta de votos si hay o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2107,9 +2197,11 @@ Si las leyes, reglamentos y cualesquiera otras disposiciones de observancia gene
 
 (DEROGADO, P.O. 26 DE MARZO DE 1994)
 
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 134.
 
-Nadie podrá entrar en el desempeño de ningúu (sic) cargo, empleo o comisión del Estado, sin prestar previamente la protesta de cumplir, y, en su caso, hacer cumplir esta Coustitución (sic), la General de la República con sus adiciones y reformas y las leyes que de ambas emanen. Una ley determinará la fórmula de la protesta y la Autori (sic) ante qnien (sic) deba hacerse en los casos no previstos por esta Constitución.
+Nadie podrá entrar en el desempeño de ningún cargo, empleo o comisión del Estado, sin prestar previamente la protesta de cumplir, y, en su caso, hacer cumplir esta Constitución, la General de la República con sus adiciones y reformas y las leyes que de ambas emanen. Una ley determinará la fórmula de la protesta y la autoridad ante quien deba hacerse en los casos no previstos por esta Constitución.
 
 ###### Artículo 135.
 
@@ -2143,11 +2235,11 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 139.
 
-Los Diputados y Munícipes Propietarios y el Gobernador del Estado gozan de fuero desde la declaración de validez de su elección. Los Diputados y Munícipes Suplentes desde el momento que asuman la titularidad y ejerzan la función. Los Magistrados del Poder Judicial, del Tribunal Electoral, el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Procurador General de Justicia, el Presidente de la Comisión de Derechos Humanos, así como los Consejeros Electorales del Instituto Electoral del Estado, gozarán del fuero desde el día en que tomen posesión de sus cargos y durante su ejercicio.
+Los Diputados y Munícipes Propietarios y el Gobernador del Estado gozan de fuero desde la declaración de validez de su elección. Los Diputados y Munícipes Suplentes desde el momento que asuman la titularidad y ejerzan la función. Los Magistrados del Poder Judicial, del Tribunal Electoral, el del Tribunal de lo Contencioso Administrativo, los Secretarios de la Administración Pública Estatal, el Consejero Jurídico, el Fiscal General del Estado, el Presidente de la Comisión de Derechos Humanos, el Titular del Órgano Superior de Auditoría y Fiscalización Gubernamental, así como los Consejeros Electorales del Instituto Electoral del Estado y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos, gozarán del fuero desde el día en que tomen posesión de sus cargos y durante su ejercicio.
 
 (REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
@@ -2267,9 +2359,9 @@ Esta Constitución, para todos los efectos legales a que diere lugar, cuando hag
 
 Con respecto a la vida, la libertad, igualdad y seguridad jurídica, se establecen las siguientes declaraciones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-I.- La vida es un derecho inherente a toda persona. El Estado protegerá y garantizará este derecho desde el momento de la concepción. La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, la niñez será objeto de especial protección por parte de las autoridades, quienes velarán y cumplirán con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. El niño tiene derecho desde su nacimiento a que se les inscriba en el Registro Civil y a tener un nombre.
+I.- La vida es un derecho inherente a toda persona. El Estado protegerá y garantizará este derecho desde el momento de la concepción. La familia constituye la base fundamental de la sociedad. El Estado fomentará su organización y desarrollo, por la misma razón; el hogar y, particularmente, la niñez será objeto de especial protección por parte de las autoridades, quienes velarán y cumplirán con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Toda medida o disposición protectora de la familia y de la niñez, se considerarán de orden público. Toda persona tiene derecho a la identidad y a ser registrada de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(ADICIONADO, P.O. 6 DE MAYO DE 2000)</small>
 
@@ -2279,13 +2371,17 @@ El niño hasta la edad de 18 años y los adultos mayores de 65 años, tendrán d
 
 Las personas con discapacidad que pertenezcan a población abierta, también gozarán del beneficio establecido en el párrafo anterior y, en el caso de que en su estudio socioeconómico resulte que tienen capacidad económica suficiente para pagar la contraprestación, solamente pagarán el nivel mínimo del tabulador vigente de cuotas de recuperación.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades. Las autoridades estatales y municipales colaborarán con la familia en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil; fomentarán la participación de la juventud en las actividades sociales y culturales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa; promoverán el tratamiento, rehabilitación e integración de las personas con discapacidad con el objeto de facilitar su pleno desarrollo; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población.
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos de los niños, así como el principio de interés superior de la niñez. Las autoridades estatales y municipales velarán y cumplirán con el principio de interés superior de la niñez, garantizando de manera plena sus derechos; colaborarán con la familia en la adopción de medidas que propicien el desarrollo físico y mental de la población infantil; fomentarán la participación de la juventud en las actividades sociales y culturales; establecerán un sistema permanente de apoyo e integración social de los adultos mayores para permitirles una vida digna y decorosa; promoverán el tratamiento, rehabilitación e integración de las personas con discapacidad con el objeto de facilitar su pleno desarrollo; y auspiciarán la difusión del deporte, la recreación y la cultura entre la población.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
 II.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que a su ejercicio, como función social, le impongan la Constitución Federal y las leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+A dicho fin se procederá a armonizar y a homologar la organización y el funcionamiento del registro público inmobiliario y de personas morales del Estado con los catastros municipales en los términos de las leyes aplicables.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2295,21 +2391,65 @@ III.- La educación será motivo de especial atención en el Estado, en los tér
 
 La formación de los educandos, inclusive, será en el marco del fortalecimiento de los valores de la justicia, la tolerancia, la bondad, la rectitud, la honestidad y el diálogo, y en todo caso, fomentará en ellos, la cultura de la paz y la legalidad, como una forma de aprender a vivir en armonía utilizando como métodos los alternativos de solución de conflictos.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-IV.- La población tiene derecho a estar informada de manera continua y eficiente sobre las actividades que lleven a cabo las autoridades estatales y municipales y en general, sobre los acontecimientos de su entorno local y regional.
+IV. Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+
+La población tiene derecho a estar informada de manera continua y eficiente sobre las actividades que lleven a cabo las autoridades estatales y municipales y en general, sobre los acontecimientos de su entorno local y regional.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 Es derecho de los colimenses, acceder a la sociedad de la información y el conocimiento, como una política de Estado, para lograr una comunidad integrada y totalmente intercomunicada, en la que cada uno de sus integrantes viva en un entorno de igualdad de oportunidades, con respeto a su diversidad, preservando su identidad cultural y orientada al desarrollo, que permita un claro impacto en todos los sectores de la sociedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-V.- Toda persona tiene derecho al trabajo, a la salud, a una alimentación nutritiva, suficiente y de calidad, así como a disfrutar de vivienda digna y decorosa. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables
+El ejercicio del derecho de acceso a la información se regirá por los siguientes principios y bases:
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-Los pensionados y jubilados, así como los adultos mayores de 65 años, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
+a) Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial del Estado, municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+d) Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante los organismos autónomos especializados e imparciales que establece esta Constitución.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+e) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+f) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+g) La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+h) Corresponderá al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6o. de la Constitución Federal, esta Constitución, la ley general que emita el Congreso de la Unión y la ley estatal de la materia; el cual estará constituido como un organismo autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, que funcionará y tendrá las atribuciones y obligaciones que señalen las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+El organismo se integrará por tres comisionados, quienes durarán en su encargo siete años y no podrán ser reelectos. Serán nombrados, a propuesta del titular del Poder Ejecutivo del Estado, con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, siguiendo el procedimiento establecido en la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+V.- Toda persona tiene derecho al trabajo, a la salud, a una alimentación nutritiva, suficiente y de calidad, así como a disfrutar de vivienda digna y decorosa en los términos que dispongan las leyes. El gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+Los pensionados y jubilados, así como los adultos mayores de 65 años en situación de vulnerabilidad, tendrán derecho a condiciones preferentes en el pago de los derechos estatales y municipales, en la forma y términos que determinen las leyes respectivas.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
 
@@ -2343,9 +2483,21 @@ Este derecho incluye el de votar y ser elegidos en elecciones periódicas y aut�
 
 La participación de los ciudadanos en la formación, ejecución, evaluación y control de la gestión pública es un medio necesario para lograr su pleno y completo desarrollo, tanto individual como colectivo. Es obligación del Estado y deber de la sociedad promover la generación de condiciones más favorables para su práctica.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-IX.- Corresponde al Estado planear, participar, conducir, coordinar y orientar el desarrollo de la Entidad, para que mediante el fomento del crecimiento económico y el empleo y una justa distribución del ingreso, se permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales cuya seguridad y bienestar protege esta Constitución.
+IX.- Corresponde al Estado la rectoría del desarrollo prevista en la Constitución Federal en el ámbito de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+A dicho fin, el Estado, con la participación de la sociedad, planeará, conducirá, coordinará y orientará el desarrollo de la entidad para garantizar que éste sea integral y sustentable, que fortalezca su régimen democrático y que, mediante la competitividad, el fomento del crecimiento económico y el empleo y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de la libertad y la dignidad de las personas y grupos sociales, cuya seguridad protegen la Constitución Federal y esta Constitución.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+El gobernador del Estado podrá establecer zonas de desarrollo económico para el cumplimiento de lo previsto en los párrafos anteriores, las cuales podrán abarcar uno o más municipios o parte de éstos, en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+La aprobación de las zonas de desarrollo económico se hará por parte de los poderes públicos competentes en los términos que disponga la ley, previa consulta a los municipios involucrados, los que podrán hacer compromisos en materia de servicios, facultades y hacienda pública con la autorización del Ayuntamiento.
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -2375,37 +2527,33 @@ El Estado y los municipios, para promover la igualdad de oportunidades de los in
 
 XIV.- Toda persona tiene derecho a un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos. Cualquier forma de violencia atenta contra el desarrollo humano integral y la dignidad de la persona.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-El Estado implementará las políticas y acciones correspondientes a fin de garantizar las condiciones que permitan a sus habitantes, a través de la cultura de la paz, vivir sin violencia.
+El Estado, con la participación de la sociedad, impulsará las condiciones que permitan a las personas y grupos sociales vivir en paz, sin violencia y sin miedo. Cualquier persona puede exigir a la autoridad competente el cumplimiento de esta obligación.
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
 
-XV.- El acceso al suministro de agua potable y el saneamiento básico es un derecho humano fundamental para el pleno disfrute de la vida y la salud, en forma suficiente, salubre, aceptable y asequible, y a su vez una obligación del individuo en el cuidado y uso racional del mismo, con objeto de asegurar su disfrute para las generaciones presentes y futuras. La ley establecerá la forma, términos y condiciones en que se ejercerá este derecho, cuyo servicio se prestará en los casos que exista la viabilidad técnica y financiera para ello.
+La seguridad pública es una función y un servicio a cargo de la Federación, el Estado y los Municipios, que comprende la prevención de los delitos; la coadyuvancia en su investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de las leyes de la materia, en las respectivas competencias que la Constitución Federal y esta Constitución señalan.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+Las instituciones de seguridad pública del Estado y sus Municipios serán de carácter civil, disciplinado y profesional.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+La fuerza pública del Estado estará bajo el mando del Gobernador en los términos que dispongan las leyes. La policía municipal preventiva estará al mando del presidente municipal en los términos de la Ley del Sistema de Seguridad Pública para el Estado. La policía municipal preventiva acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público de acuerdo a lo previsto por el artículo 115, fracción VII, de la Constitución Federal.
+
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2015)</small>
+
+XV.- El acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, es un derecho humano fundamental para el pleno disfrute de la vida y la salud, y a su vez una obligación de las personas en el cuidado y uso racional del mismo, con objeto de asegurar su disfrute para las generaciones presentes y futuras. La ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
 
 ###### Artículo 1° Bis.
 
-El derecho a la información se regirá por los siguientes principios y bases:
-
-I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
-
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
-
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
-
-IV. Se establecerán mecanismos de acceso a la información y procedimiento de revisión expeditos. Estos procedimientos se sustanciarán ante órganos u organismos especializados e imparciales, y con autonomía operativa, de gestión y de decisión.
-
-V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos.
-
-VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
-
-VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
-
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2014)</small>
-
-Corresponderá al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima garantizar el derecho de acceso a la información pública y la protección de datos personales en posesión de los sujetos obligados en los términos que establezcan las leyes, el cual estará constituido como un organismo autónomo, especializado, imparcial y colegiado, que estará integrado y tendrá las atribuciones señaladas en la ley de la materia.
+(DEROGADO, P.O. 7 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 2°.
 
@@ -3296,6 +3444,20 @@ P.O. 12 DE SEPTIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 559 POR EL QUE SE REFORMA EL ARTÍCULO 31 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA”.]
 
 ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su aprobación y deberá publicarse en el Periódico Oficial "EI Estado de Colima".
+
+P.O. 7 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 08 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima", con excepción de lo previsto en el artículo transitorio siguiente.
+
+SEGUNDO.- Las adiciones, reformas y derogaciones que se hacen a los artículos 20, párrafo quinto; 24, fracción IV; 31, párrafo segundo; 33, fracción XI Bis, inciso d) y fracción XXVI; 51, fracción VII; 58, fracción IV bis; 74, fracción VI; 81; 82; 83; 84; 86 Bis, fracción V, inciso i); 121 y 139 de la Constitución Política del Estado Libre y Soberano de Colima por lo que se refiere exclusivamente al Fiscal General del Estado, entrarán en vigor en la misma fecha en que lo haga la Ley Orgánica de la Fiscalía General del Estado que expida el Congreso del Estado a iniciativa del Gobernador por virtud de las adiciones, reformas y derogaciones a que se refiere el presente artículo transitorio, debiendo el propio Congreso emitir una declaratoria expresa de entrada en vigor de la autonomía constitucional de la Fiscalía General del Estado.
+
+Al momento de expedirse la declaratoria a que se refiere el párrafo anterior el Gobernador por única vez podrá designar directamente al Fiscal General del Estado, debiendo ejercer esta facultad en el plazo máximo de diez días hábiles contados a partir del día siguiente a la emisión de la referida declaratoria.
+
+A partir de la publicación del presente Decreto el Gobernador tendrá hasta un año para enviarle al Congreso del Estado su iniciativa de Ley Orgánica de la Fiscalía General del Estado.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ###### ARTÍCULO ÚNICO.
 
