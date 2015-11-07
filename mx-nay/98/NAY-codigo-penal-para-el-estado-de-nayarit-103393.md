@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2015-10-10"
+last_updated: "2015-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -28,6 +28,8 @@ NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, EL PRESENTE ORDENAM
 NOTA 2: LA DECLARATORIA DE IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN EL ESTADO DE NAYARIT FUE PUBLICADA EN EL P.O. DE 18 DE AGOSTO DE 2014 Y SU AMPLIACIÓN DE 10 DE OCTUBRE DE 2015, PARA SUS MODALIDADES, MUNICIPIOS Y TÉRMINOS VÉASE DICHAS PUBLICACIONES OFICIALES.
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE NOVIEMBRE DE 2015.</small>
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
