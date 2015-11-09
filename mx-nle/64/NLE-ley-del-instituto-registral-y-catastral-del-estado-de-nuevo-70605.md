@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-registral-y-catastral-del-estado-de-nuevo-706
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-11"
-last_updated: "2015-05-15"
+last_updated: "2015-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 2009.
 
@@ -261,15 +259,17 @@ IX. Las demás que le atribuyan la Constitución, la legislación o la normativi
 
 ### Capítulo II. Consejo Ciudadano
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-El Consejo Ciudadano es un órgano especial de asistencia técnica y control social que se integra por los siguientes 9 miembros, con derecho de voz y voto:
+El Consejo Ciudadano es un órgano especial de asistencia técnica y control social que se integra por los siguientes 8 miembros, con derecho a voz y voto:
 
 I. Por las organizaciones de profesionistas y empresarios en el Estado:
 
 a. El Presidente de alguna de las organizaciones profesionales de abogados, a invitación del Director General del Instituto.
 
-b. El Presidente de alguna de las organizaciones profesionales de abogados, a invitación del Director General del Instituto. (sic)
+b. (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2015)
 
 c. El Presidente del Colegio de Notarios Públicos del Estado de Nuevo León.
 
@@ -520,3 +520,7 @@ Primero.- EI presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
 
 Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 9 DE NOVIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
