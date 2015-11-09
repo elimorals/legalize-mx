@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-76532"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2012-10-15"
+last_updated: "2015-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -105,6 +105,14 @@ II. Comisión Estatal: Comisión Estatal de Mejora Regulatoria;
 
 III. Comisiones Municipales: Comisiones Municipales de Mejora Regulatoria;
 
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+III Bis. Comité Interno: Órgano constituido al interior de cada dependencia estatal, organismo público descentralizado y municipios para llevar a cabo actividades continuas de mejora regulatoria derivadas de la Ley.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+III Ter. Comisiones Temáticas de Mejora Regulatoria: A las Comisiones Temáticas de Mejora Regulatoria que imparte la Comisión Estatal en coordinación con el Instituto Hacendario del Estado de México, cuyo objeto es la participación de los municipios en propuestas de mejora en diversas áreas de oportunidad, así como informar el avance de los municipios en el cumplimiento a lo establecido en la ley de la materia.
+
 IV. Consejo: Consejo Estatal de Mejora Regulatoria;
 
 V. Dependencias: dependencias de las administraciones públicas estatal y municipales, incluidos sus organismos públicos descentralizados;
@@ -121,7 +129,7 @@ X. Estudio: Estudio de Impacto Regulatorio, documento mediante el cual las depen
 
 XI. Ley: Ley para la Mejora Regulatoria del Estado de México y Municipios;
 
-XII. Mejora Regulatoria: Proceso continuo de revisión y reforma de las disposiciones de carácter general que, además DE (SIC) promover la desregulación de procesos administrativos, provee a la actualización y mejora constante de la regulación vigente;
+XII. Mejora Regulatoria: Proceso continuo de revisión y reforma de las disposiciones de carácter general que, además DE promover la desregulación de procesos administrativos, provee a la actualización y mejora constante de la regulación vigente;
 
 XIII. Reglamento: Reglamento de la Ley;
 
@@ -185,9 +193,13 @@ X. Proponer al Consejo reformas a los Criterios para la Revisión de las propues
 
 XI. Presentar al Consejo los comentarios y opiniones de los particulares, respecto de las propuestas de creación de disposiciones de carácter general o de su reforma, atento a los principios de máxima publicidad y transparencia en el ejercicio de sus funciones;
 
-XII. Presentar al Consejo un informe anual del avance programático de Mejora Regulatoria que se hubiere implementado conforme al programa anual, y un La (sic) evaluación de los resultados obtenidos;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Brindar la asesoría técnica que requieran las dependencias estatales y las Comisiones Municipales, en la materia regulada por la Ley; y
+XII. Presentar al Consejo un informe anual del avance programático de Mejora Regulatoria que se hubiere implementado conforme al programa anual, con base en los objetivos, estrategias y líneas de acción derivados del Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Brindar la asesoría técnica que requieran las dependencias estatales, organismos públicos descentralizados y las Comisiones Municipales, en la materia regulada por la Ley.
 
 XIV. Las demás que establezca esta Ley y demás disposiciones jurídicas aplicables.
 
@@ -237,7 +249,13 @@ XVII. Delegar facultades de su competencia para el cumplimiento de los objetivos
 
 XVIII. Opinar sobre la interpretación o aplicación de esta Ley y su Reglamento; y
 
-XIX. Las demás que le otorgue esta Ley, su Reglamento, y otras disposiciones aplicables, así como las que acuerde el Consejo.
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XIX. Llevar a cabo las Comisiones Temáticas de Mejora Regulatoria en coordinación con el Instituto Hacendario del Estado de México.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XX. Las demás que le otorgue esta Ley, su Reglamento y otras disposiciones aplicables, así como las que acuerde el Consejo.
 
 ### CAPÍTULO SEGUNDO. Del Consejo Estatal de Mejora Regulatoria
 
@@ -259,19 +277,27 @@ II. La Secretaría de Finanzas;
 
 III. La Secretaría del Trabajo;
 
-IV. La Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-V. La Secretaría de Agua y Obra Pública;
+IV. La Secretaría de Desarrollo Urbano y Metropolitano.
 
-VI. La Secretaría de Desarrollo Metropolitano;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+V. La Secretaría de Infraestructura.
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+VI. La Secretaría de Educación.
 
 VII. La Secretaría de Desarrollo Agropecuario;
 
 VIII. La Secretaría de la Contraloría;
 
-IX. La Secretaría de Comunicaciones;
+IX. (DEROGADA, G.G. 9 DE NOVIEMBRE DE 2015)
 
-X. La Secretaría de Transportes;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+X. La Secretaría de Movilidad.
 
 XI. La Secretaría del Medio Ambiente;
 
@@ -279,29 +305,65 @@ XII. La Secretaría de Turismo;
 
 XIII. La Secretaría de Salud;
 
-XIV. Un representante de la Secretaría General de Gobierno;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-XV. Tres presidentes municipales designados por sus homólogos;
+XIV. La Secretaría de Desarrollo Social.
 
-XVI. Un representante por los organismos empresariales legalmente constituidos y asentados en el Estado, de acuerdo con las actividades que realizan sus agremiados: industriales, comerciales y de servicios, así como de los organismos patronales;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-XVII. Un representante de la Universidad Autónoma del Estado de México;
+XV. Secretaría de Cultura.
 
-XVIII. Un representante del Colegio de Notarios del Estado de México; y
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-XIX. El Director General de la Comisión, quien fungirá como Secretario Técnico.
+XVI. La Consejería Jurídica.
 
-Los cargos dentro del Consejo serán de carácter honorífico. Los integrantes señalados en las fracciones XVI a XIX, tendrán derecho a voz, pero no a voto.
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-Podrán concurrir al Consejo, como invitados permanentes, los titulares de otras Dependencias que determine el Ejecutivo Estatal. El Presidente del Consejo podrá invitar a las personas o representantes de organizaciones cuya participación y opiniones considere pertinentes y oportunas de acuerdo con los temas a analizar, los cuales tendrán derecho a voz.
+XVII. La Comisión Estatal de Seguridad Ciudadana.
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Un representante de la Secretaría General de Gobierno.
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XIX. Tres presidentes municipales designados por sus homólogos.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XX. Un representante por los organismos empresariales legalmente constituidos y asentados en el Estado, de acuerdo con las actividades que realizan sus agremiados: industriales, comerciales y de servicios, así como de los organismos patronales.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Un representante de la Universidad Autónoma del Estado de México.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XXII. Un representante del Colegio de Notarios del Estado de México.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. El Director General de la Comisión, quien fungirá como Secretario Técnico.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+Los cargos dentro del Consejo serán de carácter honorífico. Los integrantes señalados en las fracciones XX a la XXIII tendrán derecho a voz pero no a voto.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+El Presidente del Consejo podrá invitar a las personas o representantes de organizaciones cuya participación y opiniones considere pertinentes y oportunas de acuerdo con los temas a analizar, los cuales tendrán derecho a voz.
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
-Los integrantes señalados en las fracciones I a la XIV del artículo anterior, podrán ser suplidos por el Enlace de Mejora Regulatoria de su dependencia, y ejercerán las facultades que esta Ley otorga a los miembros del Consejo. El suplente de los Presidentes Municipales será nombrado en la misma forma que el titular. El resto de las suplencias será definida según lo determinen los organismos respectivos.
+Los integrantes señalados en las fracciones I a la XVIII del artículo anterior podrán ser suplidos por el Enlace de Mejora Regulatoria de su dependencia y ejercerán las facultades que esta Ley otorga a los miembros del Consejo. El suplente de los presidentes municipales será nombrado en la misma forma que el titular. El resto de las suplencias serán definidas según lo determinen los organismos respectivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 14.
 
-El Consejo se reunirá en sesión ordinaria cada tres meses, el primer viernes del mes de inicio del trimestre respectivo, de manera extraordinaria a solicitud de al menos cuatro titulares de las Secretarías; o dos Presidentes Municipales; o los representantes a que se refieren las fracciones XVI a XIX del artículo 12.
+El Consejo se reunirá en sesión ordinaria cada tres meses, la última semana del tercer mes del trimestre respectivo y de manera extraordinaria a solicitud de al menos cuatro titulares de las secretarías o dos presidentes municipales o los representantes a que se refieren las fracciones XX a la XXIII del artículo 12.
 
 Sus sesiones serán válidas cuando se cuente con la asistencia de por lo menos la mitad más uno de sus integrantes. Sus acuerdos deberán tomarse preferentemente por consenso, pero tendrán validez cuando sean aprobados por mayoría de votos de los miembros presentes. El Presidente del Consejo tendrá voto de calidad en caso de empate.
 
@@ -343,9 +405,17 @@ II. Participar en la coordinación de las unidades administrativas o servidores 
 
 III. Participar en la elaboración de los programas y acciones que deriven del proceso para lograr una Mejora Regulatoria integral;
 
-IV. Establecer, en cada Ayuntamiento, Comisiones Municipales de Mejora Regulatoria, las cuales se encargarán de evaluar y aprobar los Programas Anuales de Mejora Regulatoria Municipal, así como las propuestas de creación de disposiciones de carácter general o de reforma específica, entre otras atribuciones que les otorgue la Ley o la reglamentación correspondiente;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-V. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
+IV. Establecer, en cada Ayuntamiento, Comisiones Municipales de Mejora Regulatoria y Comités Internos de Mejora Regulatoria, los cuales se encargarán de evaluar y aprobar los programas anuales de mejora regulatoria municipal, así como las propuestas de creación de disposiciones de carácter general o de reforma específica, entre otras atribuciones que les otorgue la Ley o la reglamentación correspondiente, con base en los objetivos, estrategias y líneas de acción de los programas sectoriales, especiales, regionales e institucionales derivados del Plan Municipal de Desarrollo.
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+V. Participar en las sesiones de las Comisiones Temáticas de Mejora Regulatoria a las que sea convocado por parte del Instituto Hacendario del Estado de México.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+VI. Las demás que le atribuyan las leyes, reglamentos, decretos y acuerdos sobre la materia.
 
 ###### Artículo 17.
 
@@ -353,13 +423,29 @@ Las Comisiones de Mejora Regulatoria Municipales, se conformarán, en su caso po
 
 I. El Presidente Municipal, quien lo presidirá;
 
-II. El número de Regidores que estime cada Ayuntamiento y que serán los encargados de las Comisiones que correspondan al objeto de la Ley;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-III. El titular del área jurídica;
+II. El Síndico Municipal.
 
-IV. Un Secretario Técnico que será designado por el Presidente Municipal; y
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
-V. Representantes empresariales de organizaciones legalmente constituidas, que determine el Presidente Municipal con acuerdo de Cabildo.
+III. El número de regidores que estime cada Ayuntamiento y que serán los encargados de las comisiones que correspondan al objeto de la Ley.
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+IV. El titular del área jurídica.
+
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+V. Un Secretario Técnico que será designado por el Presidente Municipal.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+VI. Representantes empresariales de organizaciones legalmente constituidas, que determine el Presidente Municipal con acuerdo de Cabildo.
+
+> <small>(ADICIONADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+VII. Todos los titulares de las diferentes áreas que integran la administración municipal.
 
 ###### Artículo 18.
 
@@ -393,7 +479,9 @@ I. Integrar el Programa Anual de Mejora Regulatoria; las propuestas de creación
 
 II. Integrar y mantener actualizado el catálogo de trámites y servicios municipales, así como los requisitos, plazos, y cargas tributarias, en su caso, para su inclusión en el Registro Municipal;
 
-III. Integrar el proyecto de evaluación de los resultados de la mejora regulatoria en el municipio, con los informes y evaluaciones que le remitan las dependencias estatales, y presentarlo a la Comisión Municipal;
+> <small>(REFORMADA, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
+III. Integrar el proyecto de evaluación de resultados de la mejora regulatoria en el municipio, con los informes y evaluaciones remitidos por las dependencias municipales, y presentarlo a la Comisión Municipal.
 
 IV. Proponer el proyecto del Reglamento Interior a la Comisión Municipal;
 
@@ -429,13 +517,17 @@ Los Reglamentos Municipales de Mejora Regulatoria establecerán los términos en
 
 ### CAPÍTULO PRIMERO. De los Enlaces de Mejora Regulatoria en las Dependencias
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 22.
 
-Los titulares de las Dependencias designarán a un Enlace de Mejora Regulatoria, con nivel mínimo de Director General. El Reglamento Municipal establecerá, en su caso, lo conducente respecto de las dependencias municipales.
+Los titulares de las dependencias estatales y organismos públicos descentralizados designarán a un enlace de Mejora Regulatoria, de conformidad con el Reglamento Municipal correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
 
-Los Enlaces en las Dependencias tendrán, en su ámbito de competencia, las funciones siguientes:
+Los enlaces en las dependencias estatales y organismos públicos descentralizados tendrán, en su ámbito de competencia, las funciones siguientes:
 
 I. Coordinar el proceso de Mejora Regulatoria y supervisar su cumplimiento;
 
@@ -483,11 +575,15 @@ IV. Crear los instrumentos necesarios que garanticen la aceptación y una adecua
 
 V. Promover mecanismos de coordinación y concertación entre las dependencias federales, estatales y municipales, en la consecución del objeto que la ley plantea.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
-Las dependencias estatales enviarán su Programa Anual de Mejora Regulatoria a la Comisión Estatal, durante el mes de octubre de cada año, a efecto de que sea analizado y, en su caso, aprobado durante la primera sesión del año siguiente.
+Las dependencias estatales y organismos públicos descentralizados enviarán su Programa Anual de Mejora Regulatoria aprobado por su Comité Interno a la Comisión Estatal, durante el mes de octubre de cada año, a efecto de ser analizado y, en su caso, aprobado durante la primera sesión del Consejo del año siguiente.
 
-Las dependencias municipales enviarán al Ayuntamiento correspondiente, su Programa Anual de Mejora Regulatoria, durante el mes de octubre de cada año, a efecto de que sea analizado y, en su caso, aprobado, durante la primera sesión de Cabildo del año siguiente.
+Las dependencias municipales enviarán al Ayuntamiento correspondiente, su Programa Anual de Mejora Regulatoria, previamente aprobado por su Comité Interno durante el mes de octubre de cada año, a efecto de ser analizado y, en su caso, aprobado, durante la primera sesión de Cabildo del año siguiente.
+
+Los enlaces de los Comités Internos de las dependencias municipales remitirán durante el mes de octubre de cada año, debidamente aprobado por su propio comité, su Programa Anual de Mejora Regulatoria, al enlace de mejora regulatoria municipal y/o al secretario técnico, a efecto de que este último integre el programa anual municipal, para revisión de la Comisión Estatal de Mejora Regulatoria, quien emitirá, en su caso, las observaciones correspondientes. Una vez subsanadas será aprobado en la sesión de la Comisión Municipal y presentado en la primera sesión de Cabildo del año siguiente para su aprobación.
 
 ### CAPÍTULO TERCERO. Del Estudio de Impacto Regulatorio
 
@@ -517,15 +613,17 @@ VII. Identificación y descripción de los trámites eliminados, reformados y/o 
 
 VIII. Recursos para asegurar el cumplimiento de la regulación; y
 
-IX. Los demás que se (sic) considere pertinentes el Consejo.
+IX. Los demás que se considere (sic) pertinentes el Consejo.
 
 La Comisión Estatal emitirá los instructivos para la elaboración de los Estudios.
 
 Cuando se trate de disposiciones de carácter general cuya naturaleza demande su reforma periódica, los Estudios respectivos sólo tendrán que actualizarse, tomando como referencia el primero de ellos. Lo anterior, siempre y cuando la reforma propuesta no incluya obligaciones y/o trámites adicionales a los ya existentes.
 
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 29.
 
-Las dependencias estatales y municipales presentarán los Estudios a la Comisión respectiva como parte de las propuestas de creación de disposiciones de carácter general o de reforma específica, para los efectos previstos en la Ley y su Reglamento, cuando menos treinta días antes de la fecha en que haya de reunirse el Consejo.
+Las dependencias estatales, municipales y los organismos públicos descentralizados presentarán los estudios a la comisión respectiva como parte de las propuestas de creación de disposiciones de carácter general o de reforma específica, para los efectos previstos en la Ley y su Reglamento, la Comisión presentará al Consejo el dictamen emitido en la sesión que corresponda para su aprobación.
 
 ###### Artículo 30.
 
@@ -689,21 +787,33 @@ VIII. Incumplimiento a lo dispuesto en la fracción IV Bis del artículo 2 de la
 
 La Comisión respectiva informará por escrito a la Contraloría que corresponda, de los casos que tenga conocimiento sobre incumplimiento a lo previsto en esta Ley y su reglamento, para efecto de que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
 
-> <small>(ADICIONADO G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 40 Bis.
 
-Las infracciones administrativas a las que se refiere este artículo serán imputables al servidor público que por acción u omisión constituya una infracción a las disposiciones de esta Ley, mismas que serán calificadas y sancionadas por el Órgano de Control Interno competente, quien sancionará con:
+Las infracciones administrativas a las que se refiere el artículo anterior serán imputables al servidor público estatal o municipal que por acción u omisión constituya una infracción a las disposiciones de esta Ley, mismas que serán calificadas por el órgano de control interno competente y sancionadas con:
+
+> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
 
 I. Amonestación;
 
+> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+
 II. Multa de 50 a 1000 días de salario mínimo vigente;
+
+> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
 
 III. Suspensión de 15 a 60 días del empleo, cargo o comisión;
 
+> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+
 IV. Destitución del empleo, cargo o comisión; y/o
 
+> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+
 V. Inhabilitación de 1 a 10 años en el servicio público estatal y municipal.
+
+> <small>(ADICIONADO G.G. 15 DE OCTUBRE DE 2012)</small>
 
 La Comisión respectiva a petición de parte, denunciará por escrito a la Controlaría que corresponda, de los casos que conozca sobre incumplimiento a lo previsto en esta Ley y su Reglamento, para efecto de que, conforme a sus atribuciones, instruya el procedimiento respectivo y aplique las sanciones correspondientes.
 
@@ -768,3 +878,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
+
+G.G. 9 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO. El titular del Poder Ejecutivo del Estado y los ayuntamientos dispondrán hasta de treinta días hábiles para expedir la actualización del Reglamento de la Ley de Mejora Regulatoria del Estado de México y Municipios y de los reglamentos internos municipales, y de los correspondientes de las comisiones y comités.
