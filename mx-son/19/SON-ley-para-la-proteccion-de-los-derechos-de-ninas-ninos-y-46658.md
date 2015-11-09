@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-46658"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-24"
-last_updated: "2014-01-20"
+last_updated: "2015-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de octubre de 2002.
 
@@ -445,7 +445,9 @@ II.- La protección, el mejoramiento y la restauración de la salud;
 
 III.- Las medidas necesarias para la atención a niñas, niños y adolescentes discapacitados física o mentalmente, dándoles atención médica especializada y tratamiento rehabilitador;
 
-IV.- Apoyar la nutrición de la madre en estado de gestación o lactancia, para que el producto alcance la madurez y crecimiento necesario para su correcto desarrollo;
+> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+IV.- Apoyar la nutrición de la madre en estado de gestación o lactancia, para que el producto alcance la madurez y crecimiento necesario para su correcto desarrollo, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
 
 V.- Asistencia médica, a través de clínicas y hospitales del sector salud o de los establecimientos particulares que se convenga, a la madre en gestación o lactancia y a las niñas, niños y adolescentes, sin importar su filiación o no a los regímenes de asistencia o derechohabientes;
 
@@ -670,3 +672,9 @@ B.O. 20 DE ENERO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
