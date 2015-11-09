@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2014-12-17"
+last_updated: "2015-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1265,7 +1265,9 @@ Corresponde a la Secretaría:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación ambiental;
 
-II.- Vigilar la calidad del agua para uso y consumo humano;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+II.- Vigilar la calidad del agua para uso y consumo humano; esta acción comprende la verificación de que en todos los comercios, restaurantes y establecimientos destinados al consumo de alimentos y bebidas no alcohólicas y alcohólicas en estado natural, mezcladas o preparadas, se proporcione de manera obligatoria y gratuita, agua purificada a sus clientes;
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación con aplicaciones médicas, sin perjuicio de la intervención que corresponda a las autoridades competentes;
 
@@ -1275,9 +1277,11 @@ V.- Promover y apoyar el saneamiento básico; y
 
 VI.- Aplicar los criterios de la ingeniería sanitaria en obras para uso público, social o privado.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 68.
 
-Con el propósito de evitar riesgos a la salud, no podrán suprimirse los servicios de agua potable y drenaje en las casas y edificios habitados.
+Con el propósito de evitar riesgos a la salud, no podrán suprimirse los servicios de agua potable y drenaje en las casas, restaurantes, centros de recreación, deportivos, plazas públicas y edificios habitados.
 
 ###### ARTICULO 69.
 
@@ -1449,7 +1453,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 La Secretaría determinará la forma de disponer de los productos, subproductos, desechos y cadáveres de animales, cuando constituyan un riesgo de transmisión de enfermedades al hombre o produzcan contaminación del ambiente con riesgo para la salud.
 
-### CAPITULO PRIMERO (SIC). DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
+### CAPITULO PRIMERO. DEL DERECHO A LA VIDA Y ORIENTACION SEXUAL
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2008)</small>
 
@@ -1672,6 +1676,10 @@ DEL CONTROL SANITARIO DE LOS ESTABLECIMIENTOS QUE PROCESEN BEBIDAS NO ALCOHOLICA
 ###### ARTICULO 106.
 
 La autoridad sanitaria competente ejercerá el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas en estado natural, mezcladas o preparadas, para su consumo dentro de los mismos establecimientos. El procesamiento de estos productos deberá realizarse en condiciones higiénicas, sin adulteración o contaminación.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+La autoridad sanitaria a que se refiere el párrafo anterior, exhortará a los citados establecimientos a que instalen sistemas de purificación de agua y/o contenedores de agua purificada, para proporcionar a los clientes que así lo soliciten para su consumo.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2003)</small>
 
@@ -3580,3 +3588,9 @@ Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
