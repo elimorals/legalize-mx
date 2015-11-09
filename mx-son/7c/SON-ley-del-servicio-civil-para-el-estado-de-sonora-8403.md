@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2014-11-18"
+last_updated: "2015-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -213,11 +213,13 @@ La jornada diaria de trabajo podrá prestarse en una o dos sesiones y dentro de 
 
 Por cada seis días de trabajo, el trabajador disfrutará de un día de descanso, cuando menos, con goce de salario íntegro.
 
-> <small>(REFORMADO, B.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 26.
 
-Las mujeres disfrutarán, con goce de salario íntegro, de un mes de descanso antes de la fecha que aproximadamente se fije para el parto o adopción, y de otros dos meses después del mismo, o de la fecha en que se otorgue legalmente la adopción. Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable.
+Las mujeres disfrutarán, con goce de salario íntegro, de un mes de descanso antes de la fecha que aproximadamente se fije para el parto o adopción, y de otros dos meses después del mismo, o de la fecha en que se otorgue legalmente la adopción. Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable, en lugar adecuado e higiénico que designe la institución o dependencia y tendrán acceso a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de edad.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2011)</small>
 
 Los servidores públicos disfrutarán de un periodo de descanso o licencia con goce de sueldo con motivo del nacimiento de su hijo o de adopción, en los términos que determinen las disposiciones legales vigentes que reglamenten las relaciones laborales del Estado.
 
@@ -1236,3 +1238,9 @@ B.O. 18 DE NOVIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
