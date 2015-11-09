@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2011-07-11"
+last_updated: "2015-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -41,7 +41,7 @@ DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO D
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMERO PARRAFO, B.O. 3 DE JULIO DE 1989)</small>
+> <small>(REFORMADO PRIMERO PÁRRAFO, B.O. 3 DE JULIO DE 1989)</small>
 
 ###### Artículo 1o.
 
@@ -101,7 +101,7 @@ El Instituto podrá celebrar convenios con las entidades de la Administración P
 
 La Junta Directiva del Instituto establecerá los requisitos, condiciones, modalidades y obligaciones, a los que se sujetarán los organismos que decidan incorporarse al régimen de esta Ley. La incorporación podrá ser total o parcial.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 4º.
 
@@ -457,6 +457,14 @@ I.- Asistencia obstétrica necesaria a partir del día en que los servicios méd
 
 II.- Ayuda para la lactancia solo para la mujer trabajadora. Esta prestación se hará extensiva a la esposa o concubina del trabajador o pensionista, en los casos en que según dictamen médico exista incapacidad física para amamantar al hijo. Dicha ayuda será proporcionada en especie por un lapso de seis meses con posterioridad al nacimiento y se entregará a la madre, o a falta de ésta, a la persona encargada de alimentar al niño. Los mismos derechos aplicarán en el caso de adopción legalmente otorgada.
 
+> <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+III.- A la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida.
+
+> <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+IV.- Durante la lactancia podrá tener dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, sean biológicos o por adopción, o en su caso el tiempo equivalente acordado con la autoridad responsable, en lugar adecuado e higiénico que designe la institución o dependencia.
+
 > <small>(REFORMADO, B.O. 11 DE JULIO DE 2011.)</small>
 
 ###### Artículo 28.
@@ -549,7 +557,7 @@ III.- Los que sean resultado de un intento de suicidio, efecto de una riña en q
 
 IV.- Los que sean debidos a caso fortuito o de fuerza mayor extraños al trabajo u ocurridos fuera del lugar donde aquel se desempeña.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 3 DE JULIO DE 1989)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE JULIO DE 1989)</small>
 
 ### CAPITULO QUINTO. DE LA VIVIENDA PARA TRABAJADORES
 
@@ -663,7 +671,7 @@ La existencia de los supuestos a que se refiere este artículo y el anterior deb
 
 Los créditos a los trabajadores a que se refieren las fracciones I y II del artículo 40 de esta Ley devengarán un interés que en ningún caso será inferior al 30% del costo porcentual promedio vigente al momento del otorgamiento del financiamiento, con un plazo para su amortización que no podrá ser mayor a quince años.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, B.O. 11 DE ENERO DE 1982)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 11 DE ENERO DE 1982)</small>
 
 SECCION 3a.
 
@@ -867,7 +875,7 @@ Los adeudos por concepto de préstamos prendarios que no fueren cubiertos a su v
 
 Los préstamos prendarios se otorgarán hasta el importe de ocho veces el sueldo básico integrado, si la aportación con derecho a retiro, en el caso de indemnización global a que se refiere el artículo 89, es igual o mayor que el monto del préstamo.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 58 Bis.
 
@@ -1009,7 +1017,7 @@ I.- Que la cantidad contribuida por el trabajador al Fondo de Pensiones resulte 
 
 II.- Que cumplan con los demás requisitos que establezca el reglamento respectivo que emita la Junta Directiva del Instituto.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE JUNIO DE 2005)</small>
 
 SECCION 3a
 
@@ -1309,7 +1317,7 @@ SEXTA:- Al fallecimiento del trabajador y cuando este no haya designado benefici
 
 b).- Es pago póstumo extraordinario el que se establece a favor de los beneficiarios, del derechohabiente, su pago quedará sujeto a las siguientes bases:
 
-PRIMERA:- En caso de fallecimiento de un trabajador al servicio del Gobierno del Estado, jubilado o pensionado, tendrán derecho los beneficiarios a percibir como pago póstumo extraordinario la cantidad de $10,000.00, que no estará sujeto a descuento alguno. Este pago se hará a la persona o personas que el propio empleado en servicio o jubilado haya designado expresamente para tal fin; los intresados (sic) hará (sic) la designación, llenando y autorizando con su firma y huella digital la forma correspondiente que les será proporcionada, por duplicado, quedando uno de los ejemplares en poder el interesado y el otro depositado en las oficinas del Instituto.
+PRIMERA:- En caso de fallecimiento de un trabajador al servicio del Gobierno del Estado, jubilado o pensionado, tendrán derecho los beneficiarios a percibir como pago póstumo extraordinario la cantidad de $10,000.00, que no estará sujeto a descuento alguno. Este pago se hará a la persona o personas que el propio empleado en servicio o jubilado haya designado expresamente para tal fin; los intresados hará (sic) la designación, llenando y autorizando con su firma y huella digital la forma correspondiente que les será proporcionada, por duplicado, quedando uno de los ejemplares en poder el interesado y el otro depositado en las oficinas del Instituto.
 
 SEGUNDA:- En defecto de la manifestación expresa a que se refiere el párrafo anterior, para decidir qué persona o personas tienen derecho a recibir el pago póstumo, se seguirá el siguiente orden:
 
@@ -1355,7 +1363,7 @@ La Junta Directiva del Instituto, está facultada para resolver cualquier caso q
 
 ###### Artículo 91-A.
 
-El fondo colectivo de retiro de en beneficio de los trabajadores al servicio del Estado, se otorgará en los siguientes casos:
+El fondo colectivo de retiro en beneficio de los trabajadores al servicio del Estado, se otorgará en los siguientes casos:
 
 I.- A los trabajadores con 30 años o más de servicio y 15 años de contribución al Instituto, como mínimo, que causen baja definitiva del servicio. En este caso, la suma será de 2.6 veces el salario mínimo general mensual vigente de la capital del Estado.
 
@@ -1983,7 +1991,7 @@ EL SECRETARIO DE GOBIERNO,
 
 LIC. ENRIQUE FOX ROMERO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES QUE REFORMAN A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS LEYES QUE REFORMAN A LA PRESENTE LEY.</small>
 
 B.O. 31 DE DICIEMBRE DE 1963.
 
@@ -2049,7 +2057,7 @@ B.O. 11 DE ENERO DE 1982.
 
 ###### ARTICULO PRIMERO.
 
-Las aportaciones a que se refiere la fracción I del Artículo 50-B, empezarán a pagarse a partir del mes del enero de 1982.
+Las aportaciones a que se refiere la fracción I del Artículo 50-B, empezarán a pagarse a partir del mes de enero de 1982.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2248,3 +2256,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, en un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto, realizará las modificaciones pertinentes en las disposiciones reglamentarias de la materia.
+
+B.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
