@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2015-06-13"
+last_updated: "2015-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -2215,25 +2215,27 @@ Para los efectos de esta Ley, el territorio del Estado se dividirá en 22 distri
 
 La asignación de los Diputados electos según el principio de representación proporcional y el sistema de listas estatales, se sujetará a las siguientes bases:
 
-(NOTA: EL 10 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2015 Y SUS ACUMULADAS 46/2015 Y 47/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-I. A TODOS LOS PARTIDOS POLÍTICOS QUE HAYAN OBTENIDO POR LO MENOS EL 1.5 % DEL TOTAL DE LA VOTACIÓN ESTATAL EMITIDA, SE LES ASIGNARÁ UNA DIPUTACIÓN; Y
+I. A todos los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la votación válida emitida, se les asignará una diputación. Se entiende por votación válida emitida la que resulte de deducir de la votación total emitida, los votos nulos y los correspondientes a los candidatos no registrados. Se entiende por votación total emitida, la suma de todos los votos depositados en las urnas.
 
-(NOTA: EL 10 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y DÉCIMO PRIMERO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2015 Y SUS ACUMULADAS 46/2015 Y 47/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+II. La fórmula para asignar las diputaciones de representación proporcional restantes, en su caso, tiene dos elementos:
 
-II. LA FÓRMULA PARA ASIGNAR LAS DIPUTACIONES DE REPRESENTACIÓN PROPORCIONAL RESTANTES, EN SU CASO, TIENE DOS ELEMENTOS:
+a) Cociente electoral; y
 
-A) COCIENTE ELECTORAL; Y
+b) Resto mayor.
 
-B) RESTO MAYOR.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-EL COCIENTE ELECTORAL SE OBTIENE RESTANDO DE LA VOTACIÓN EFECTIVA, LA VOTACIÓN UTILIZADA PARA LA ASIGNACIÓN DE DIPUTACIONES A LOS PARTIDOS QUE OBTUVIERON EL 1.5 % DE LA VOTACIÓN ESTATAL EMITIDA.
+El cociente electoral se obtiene restando de la votación efectiva, la votación utilizada para la asignación de diputaciones a los partidos que obtuvieron el 3.0 % de la votación válida emitida.
 
-EL RESULTADO REPRESENTA LA VOTACIÓN AJUSTADA, LA CUAL SE DIVIDE ENTRE EL NÚMERO DE DIPUTACIONES PENDIENTES POR REPARTIR; CON EL COCIENTE ELECTORAL QUE RESULTE SE ASIGNARÁN A LOS PARTIDOS POLÍTICOS TANTAS DIPUTACIONES COMO NÚMERO DE VECES CONTENGA SU VOTACIÓN EL COCIENTE ELECTORAL OBTENIDO.
+El resultado representa la votación ajustada, la cual se divide entre el número de diputaciones pendientes por repartir; con el cociente electoral que resulte se asignarán a los partidos políticos tantas diputaciones como número de veces contenga su votación el cociente electoral obtenido.
 
-POR VOTACIÓN EFECTIVA SE ENTENDERÁ LA QUE RESULTE DE DEDUCIR DE LA VOTACIÓN ESTATAL EMITIDA LOS VOTOS NULOS, ASÍ COMO LOS VOTOS DE AQUELLOS PARTIDOS QUE NO HAYAN ALCANZADO EL 1.5 %.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-SI DESPUÉS DE APLICARSE; EL COCIENTE ELECTORAL AÚN QUEDAREN DIPUTACIONES POR DISTRIBUIR, SE UTILIZARÁN EN FORMA DECRECIENTE LOS RESTOS MAYORES, QUE SON LOS REMANENTES DE VOTOS QUE TUVIERON LOS PARTIDOS POLÍTICOS UNA VEZ RESTADOS LOS UTILIZADOS EN LAS ASIGNACIONES ANTERIORES.
+Por votación efectiva se entenderá la que resulte de deducir de la votación válida emitida los votos de aquellos partidos que no hayan alcanzado el 3.0 %.
+
+Si después de aplicarse; el cociente electoral aún quedaren diputaciones por distribuir, se utilizarán en forma decreciente los restos mayores, que son los remanentes de votos que tuvieron los partidos políticos una vez restados los utilizados en las asignaciones anteriores.
 
 III. En ningún caso un partido político podrá contar con más de 22 diputados por ambos principios. Tampoco podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos el porcentaje que obtuvo de la votación estatal efectiva. Se exceptúa de lo anterior el partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento.
 
@@ -3868,3 +3870,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de junio del año dos mil quince.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
