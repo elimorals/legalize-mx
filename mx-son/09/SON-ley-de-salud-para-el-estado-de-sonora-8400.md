@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2015-07-16"
+last_updated: "2015-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -117,7 +117,7 @@ XVII.- Los programas contra el alcoholismo, el tabaquismo y la ludopatía;
 
 XVII BIS. La promoción, prevención y el control de las enfermedades cardiovasculares, la obesidad y la diabetes;
 
-XVIII. (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LEY DE DONACION Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
+XVIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LEY DE DONACIÓN Y TRASPLANTES PARA ORGANISMOS HUMANOS, PUBLICADA EN EL B. O. EL 10 DE JUNIO DE 2005)
 
 > <small>(ADICIONADA, B.O. 7 DE JULIO DE 2003)</small>
 
@@ -607,9 +607,17 @@ II. Las actividades recreativas, de esparcimiento y culturales destinadas a fort
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV. Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas y de desechos; y
+> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-V. Las demás que coadyuven a la protección de la salud materno-infantil.
+IV. Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas y de desechos;
+
+> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+V. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil; y
+
+> <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+VI. Las demás que coadyuven a la protección de la salud materno-infantil.
 
 > <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -1895,7 +1903,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios que de
 
 ###### ARTICULO 192.
 
-El sacrifico de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
+El sacrificio de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
 ### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
@@ -3006,3 +3014,9 @@ DECRETO NÚMERO 191 POR EL QUE SE REFORMA LA FRACCIÓN II Y SE ADICIONAN LAS FRA
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
