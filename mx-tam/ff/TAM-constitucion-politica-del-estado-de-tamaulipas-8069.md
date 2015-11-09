@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2015-06-13"
+last_updated: "2015-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -681,9 +683,9 @@ La asignación de los 14 Diputados electos según el principio de Representació
 
 I.- Un partido político, para obtener el registro de su lista estatal, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-(NOTA: EL 10 DE SEPTIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, DÉCIMO SEXTO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 45/2015 Y SUS ACUMULADAS 46/2015 Y 47/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE SEPTIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
 
-II.- A LOS PARTIDOS POLÍTICOS QUE HAYAN OBTENIDO POR LO MENOS EL 1.5 % DEL TOTAL DE LA VOTACIÓN ESTATAL EMITIDA, SE LES ASIGNARÁ UN DIPUTADO Y TENDRÁN DERECHO A PARTICIPAR EN LA ASIGNACIÓN RESTANTE DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL;
+II.- A los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la la (sic) votación válida emitida, se les asignará un Diputado y tendrán derecho a participar en la la (sic) asignación restante de Diputados por el principio de Representación Proporcional;
 
 III.- Para la asignación de las diputaciones de Representación Proporcional se estará a las reglas y fórmulas que la ley establezca para tales efectos;
 
@@ -4412,6 +4414,12 @@ La reforma al artículo 130 de esta Constitución, en materia de reelección de 
 ###### ARTÍCULO SÉPTIMO.
 
 El Contralor General del Instituto Electoral de Tamaulipas concluirá el periodo para el que fue designado por el Congreso del Estado, de acuerdo al Decreto LXII-248 publicado en el Periódico Oficial del Estado de fecha 27 de junio de 2014.
+
+P.O. 9 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
