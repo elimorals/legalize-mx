@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-de-la-fiscalia-general-del-110186
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-05"
-last_updated: "2015-10-05"
+last_updated: "2015-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA FISCALIA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES.
+REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de octubre de 2015.
 
@@ -115,7 +115,9 @@ De conformidad con el principio de especialización, la Fiscalía contará con u
 
 De conformidad con el principio de organización territorial, la Fiscalía actuará por conducto de unidades administrativas que ejercerán sus funciones en las circunscripciones territoriales que establezcan las disposiciones aplicables.
 
-###### Artículo 6°.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 6º.
 
 Para el despacho de los asuntos que competen a la Fiscalía y al Ministerio Público conforme a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado, el presente ordenamiento y demás disposiciones aplicables, el Fiscal General se auxiliará de las siguientes unidades administrativas:
 
@@ -131,6 +133,8 @@ II.- Dirección General de Investigación Especializada.
 
 III.- Subdirección de Atención Temprana.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
 B). Vice Fiscalía de Litigación Oral y de Atención Especializada:
 
 I.- Dirección General de Litigación Oral y Procesos.
@@ -141,7 +145,9 @@ I.II.- Dirección de Litigación Oral.
 
 II.- Dirección General de Atención Especializada.
 
-III.- Dirección de Amparos.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+III.- Dirección de Amparo.
 
 C). Vice Fiscalía Jurídico y de Servicios a la Justicia:
 
@@ -721,9 +727,11 @@ XXVI. Autorizar las solicitudes de colaboración elaboradas por los Fiscales y a
 
 XXVII. Las demás que les señalen las disposiciones legales y reglamentarias, y las que les sean conferidas por el Fiscal General, directamente o por delegación, así como las de la competencia de las unidades administrativas y sustantivas a su cargo.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 31.
 
-El Vice Fiscal de Litigación Oral y de Atención Especializada, se auxiliará de la Dirección General de Litigación Oral y Procesos, Dirección de Procesos, Dirección de Litigación Oral, Dirección General de Atención Especializada y de la Dirección de Amparos; y tendrá adscritas las unidades administrativas que se señalan en la Ley Orgánica, el presente reglamento y las que determine el Fiscal General para el correcto funcionamiento de la Fiscalía.
+El Vice Fiscal de Litigación Oral y de Atención Especializada, se auxiliará de la Dirección General de Litigación Oral y Procesos, Dirección de Procesos, Dirección de Litigación Oral, Dirección General de Atención Especializada y de la Dirección de Amparo; y tendrá adscritas las unidades administrativas que se señalan en la Ley Orgánica, el presente reglamento y las que determine el Fiscal General para el correcto funcionamiento de la Fiscalía.
 
 ### CAPÍTULO SEGUNDO. De la Dirección General de Litigación Oral y Procesos
 
@@ -941,11 +949,15 @@ XXXIV. Desahogar las consultas que le formulen los agentes del Ministerio Públi
 
 XXXV. Las demás que le encomiende el Fiscal General, el Vice Fiscal de Litigación Oral y Atención Especializada, la Ley Orgánica, este reglamento, acuerdos, protocolos, criterios y lineamientos emitidos por el Fiscal General, así como los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 36.
 
 La Dirección General de Investigación Especializada se auxiliará de las unidades siguientes:
 
-I. Fiscal de la Unidad Especial de Inteligencia Patrimonial y Económico (UIPE);
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+I. Fiscal de la Unidad de Inteligencia Patrimonial y Económica (UIPE);
 
 II. Fiscal de la Unidad Especializada en Combate al Secuestro (UECS);
 
@@ -953,11 +965,15 @@ III. Fiscal Especializado de Combate al Narcomenudeo y del Centro de Operación 
 
 De las demás unidades administrativas que se establezcan en la estructura de organización de la Fiscalía o en los acuerdos que emita el Fiscal General o que determinen las normas aplicables, salvo que el titular de la Institución determine una adscripción diversa.
 
-### CAPÍTULO SEXTO. De la Dirección de Amparos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO SEXTO. De la Dirección de Amparo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 37.
 
-La Dirección de Amparos, tendrá las siguientes facultades y obligaciones:
+La Dirección de Amparo, tendrá las siguientes facultades y obligaciones:
 
 I. Atender y dar seguimiento a los juicios de amparo en los que las autoridades centrales de la Fiscalía sean señaladas como responsables, desde el Fiscal General hasta los Directores de Área;
 
@@ -2339,11 +2355,15 @@ El Consejo de Profesionalización sesionará conforme a las necesidades propias 
 
 ### CAPÍTULO ÚNICO. De su regulación
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 102.
 
 El personal del Ministerio Público será sustituido en el supuesto de ausencias, conforme a lo siguiente:
 
-I. El Fiscal General, por el Vice Fiscal de Investigación de Delitos, y en ausencia de éste, por el Vice Fiscal de Litigación Oral y de Asuntos Especiales y en ausencia de éste por el Vice Fiscal Jurídico y de Servicios a la Justicia;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+
+I. El Fiscal General, por el Vice Fiscal Jurídico y de Servicios a la Justicia, y en ausencia de éste, por el Vice Fiscal de Litigación Oral y de Atención Especializada y en ausencia de éste por el Vice Fiscal de Investigación de Delitos;
 
 II. Los Vice Fiscales, uno por el otro; en su caso, por el Director General que designe el Fiscal General;
 
@@ -2370,3 +2390,9 @@ Lic. Óscar Fidel González Mendívil,
 C. FISCAL GENERAL DEL ESTADO.
 
 Lo anterior en cumplimiento de lo dispuesto en el artículo Cuarto Transitorio, de la Ley Orgánica de la Fiscalía General del Estado y para su debida publicación y observancia.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. EL "REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO AGUASCALIENTES", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES.]</small>
