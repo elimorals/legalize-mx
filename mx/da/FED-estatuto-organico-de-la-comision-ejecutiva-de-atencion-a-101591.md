@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-ejecutiva-de-atencion-a-101591
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-06-27"
-last_updated: "2015-06-29"
+last_updated: "2015-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-27"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de junio de 2014.
 
@@ -345,9 +345,15 @@ XXIX. Expedir las normas o bases generales con arreglo a las cuales, cuando fuer
 
 XXX. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios y verificar que los mismos se apliquen precisamente a los fines señalados;
 
-XXXI. Aprobar los lineamientos generales, manuales de organización y demás ordenamientos que regulen el funcionamiento de las distintas áreas administrativas de la Comisión Ejecutiva, y
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-XXXII. Las demás que le señale la Ley, el Reglamento y demás disposiciones legales y administrativas que resulten aplicables.
+XXXI. Aprobar los lineamientos generales, manuales de organización y demás ordenamientos que regulen el funcionamiento de las distintas áreas administrativas de la Comisión Ejecutiva;
+
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXII. Formular propuestas, tramitar y dar seguimiento a proyectos de iniciativas de leyes y decretos por los que se expidan, adicionen, deroguen o reformen disposiciones legales en materia de víctimas, de conformidad con las disposiciones normativas aplicables, y
+
+XXXIII. Las demás que le señale la Ley, el Reglamento y demás disposiciones legales y administrativas que resulten aplicables.
 
 > <small>(DEROGADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -519,9 +525,9 @@ XIV. Expedir copias certificadas en los términos de la ley, de los documentos q
 
 XV. Las demás que les confieren las disposiciones legales y administrativas aplicables, así como las que les encomiende el Pleno y el Comisionado Presidente.
 
-> <small>(REFORMADO, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-En caso de ausencias temporales, los Directores Generales serán suplidos por el servidor público de la Comisión Ejecutiva del nivel jerárquico inmediato inferior que designe el Pleno, a propuesta del propio Director General.
+En caso de ausencias, los Directores Generales serán suplidos por el servidor público de la Comisión Ejecutiva del nivel jerárquico inmediato inferior que designe el Pleno, a propuesta del propio Director General.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -591,9 +597,11 @@ XX. Solicitar el apoyo de otras instituciones, cuando las necesidades del servic
 
 XXI. Notificar a la víctima la resolución definitiva de procedencia o no procedencia de acceso a los recursos del Fondo;
 
-> <small>(ADICIONADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-XXII. Las demás que sean necesarias para cumplir con el objeto de las funciones de la Asesoría Jurídica Federal, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+XXII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de Atención Inmediata y Primer Contacto y de la Coordinación General de Delegaciones, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
+
+XXIII. Las demás que sean necesarias para cumplir con el objeto de las funciones de la Asesoría Jurídica Federal, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
 
 ###### Artículo 25.
 
@@ -929,6 +937,10 @@ XX. Las demás que sean necesarias para el cumplimiento de sus funciones, así c
 
 La Dirección General de Administración y Finanzas tendrá bajo su cargo a la Dirección General Adjunta de Finanzas, Dirección de Recursos Humanos, Dirección de Recursos Materiales y Servicios Generales, y Dirección de Tecnologías de la Información, que tendrán las facultades que las disposiciones jurídicas correspondientes establezcan.
 
+> <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 34 bis. La Comisión Ejecutiva contará con un área coordinadora de archivos, la cual ejercerá las funciones establecidas en la Ley Federal de Archivos, su Reglamento, y demás disposiciones aplicables.
+
 > <small>(DEROGADO, D.O.F. 29 DE JUNIO DE 2015)</small>
 
 ### Capítulo Octavo
@@ -979,13 +991,15 @@ XIV. Informar a la Asesoría Jurídica Federal sobre la necesidad de designar un
 
 XV. Remitir, en su caso, los asuntos que reciba al Comité Interdisciplinario Evaluador para el seguimiento y el curso del procedimiento legal aplicable, y
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-XVI. Coordinar al personal adscrito a las Delegaciones que realice funciones de atención inmediata y primer contacto, y
+XVI. Coordinar al personal adscrito a las Delegaciones que realice funciones de atención inmediata y primer contacto;
 
-> <small>(REFORMADA, D.O.F. 10 DE MARZO DE 2015)</small>
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-XVII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+XVII. Autorizar de manera individual o en conjunto con los titulares de la Dirección General de la Asesoría Jurídica Federal y de la Coordinación General de Delegaciones, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio, y
+
+XVIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
 
 ### Capítulo Noveno. De los Comités
 
@@ -995,7 +1009,9 @@ Para el ejercicio de sus atribuciones la Comisión Ejecutiva contará con los co
 
 Se creará un Comité Interdisciplinario Evaluador encargado de emitir opiniones técnicas sobre la inscripción de las solicitudes de las víctimas al registro y de elaborar los proyectos de compensación subsidiaria para que sean aprobados, en su caso, por la Comisión Ejecutiva.
 
-Al frente de cada uno de los Comités especializados habrá un Titular que contará con las subdirecciones, jefaturas de departamento, enlaces y demás personal profesional que autorice el Pleno a propuesta del Comisionado Presidente, de acuerdo con el presupuesto autorizado. En caso de ausencias temporales, los titulares de los Comités serán suplidos por el servidor público del nivel inmediato inferior que designe el Titular o, en su caso, el Pleno.
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+Al frente de cada uno de los Comités especializados habrá un Titular que contará con las subdirecciones, jefaturas de departamento, enlaces y demás personal profesional que autorice el Pleno a propuesta del Comisionado Presidente, de acuerdo con el presupuesto autorizado. En caso de ausencias, los titulares de los Comités serán suplidos por el servidor público del nivel inmediato inferior que designe el Titular o, en su caso, el Pleno.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -1091,9 +1107,15 @@ X. Elaborar el proyecto de dictamen de compensación y presentarlo al Comisionad
 
 XI. Recibir las solicitudes de medidas de ayuda inmediata a efecto de integrar el expediente respectivo;
 
-XII. Elaborar el proyecto de dictamen de medidas de ayuda inmediata y presentarlo al Comisionado Presidente para que el Pleno resuelva lo conducente, y
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
+XII. Elaborar el proyecto de dictamen de medidas de ayuda inmediata y presentarlo al Comisionado Presidente para que el Pleno resuelva lo conducente;
+
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Expedir copias certificadas en los términos de la ley, de los documentos que obran en sus archivos, y
+
+XIV. Las demás que sean necesarias para el cumplimiento de sus funciones, así como las que le confieren las disposiciones aplicables y las que le encomiende el Comisionado Presidente.
 
 ### Capítulo Décimo. De la Secretaría Técnica del Pleno
 
@@ -1177,13 +1199,15 @@ Para la creación, reubicación o cierre de las Delegaciones y Subdelegaciones, 
 
 Los servidores públicos de dichas unidades administrativas ejercerán las atribuciones que la Ley, su Reglamento, el presente Estatuto y otros ordenamientos legales le confieran a la Comisión Ejecutiva, tanto en la circunscripción territorial que determine el Pleno de la Comisión mediante acuerdos publicados en el Diario Oficial de la Federación, como de manera concurrente en la circunscripción territorial de las Delegaciones y Subdelegaciones circunvecinas, conforme a los lineamientos que expida el mismo Pleno y sin perjuicio de las atribuciones que el presente Estatuto contempla para las Direcciones Generales de la Asesoría Jurídica Federal y de Atención Inmediata y Primer Contacto.
 
-En caso de ausencias temporales de los Delegados, éstos serán suplidos por los Subdelegados.
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+En caso de ausencias de los Delegados, éstos serán suplidos por los Subdelegados.
 
 Los Subdelegados serán suplidos por el servidor público inmediato inferior que de ellos dependa, en los asuntos de su competencia.
 
 En el caso de aquellos Delegados que no cuenten con Subdelegados que los suplan, su ausencia será suplida por el Coordinador General de Delegaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
@@ -1195,15 +1219,9 @@ a) Delegación Baja California, con sede en la ciudad de Tijuana.
 
 II. Estado de Chiapas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE JUNIO DE 2015)</small>
-
 a) Delegación Chiapas, con sede en la ciudad de Tuxtla Gutiérrez.
 
-> <small>(ADICIONADO, D.O.F. 29 DE JUNIO DE 2015)</small>
-
 Para la mejor prestación del servicio, la Delegación Chiapas contará con una Subdelegación con sede en la ciudad de Tapachula.
-
-b) (DEROGADO, D.O.F. 29 DE JUNIO DE 2015)
 
 III. Estado de Chihuahua
 
@@ -1213,49 +1231,55 @@ IV. Estado de Coahuila de Zaragoza
 
 a) Delegación Coahuila, con sede en la ciudad de Torreón.
 
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+V. Distrito Federal
 
-IV Bis. Estado de Durango
+a) Delegación Distrito Federal, con sede en la Ciudad de México.
+
+VI. Estado de Durango
 
 a) Delegación Durango, con sede en la ciudad de Durango.
 
-V. Estado de Guanajuato
+VII. Estado de Guanajuato
 
 a) Delegación Guanajuato, con sede en la ciudad de Guanajuato.
 
-VI. Estado de Guerrero
+VIII. Estado de Guerrero
 
 a) Delegación Guerrero, con sede en la ciudad de Acapulco.
 
-VII. Estado de Jalisco
+IX. Estado de Jalisco
 
 a) Delegación Jalisco, con sede en la ciudad de Guadalajara.
 
-VIII. Estado de Michoacán de Ocampo
+X. Estado de Michoacán de Ocampo
 
 a) Delegación Michoacán, con sede en la ciudad de Morelia.
 
-IX. Estado de Morelos
+XI. Estado de Morelos
 
 a) Delegación Morelos, con sede en la ciudad de Cuernavaca.
 
-X. Estado de Nayarit
+XII. Estado de Nayarit
 
 a) Delegación Nayarit, con sede en la ciudad de Tepic.
 
-XI. Estado de Nuevo León
+XIII. Estado de Nuevo León
 
 a) Delegación Nuevo León, con sede en la ciudad de Monterrey.
 
-XII. Estado de Sinaloa
+XIV. Estado de Puebla
 
-a) Delegación Sinaloa, con sede en la ciudad de Mazatlán.
+a) Delegación Puebla, con sede en la ciudad de Puebla.
 
-XIII. Estado de Veracruz de Ignacio de la Llave
+XV. Estado de Sinaloa
+
+a) Delegación Sinaloa, con sede en la ciudad de Culiacán.
+
+XVI. Estado de Veracruz de Ignacio de la Llave
 
 a) Delegación Veracruz, con sede en la ciudad de Veracruz.
 
-XIV. Estado de Yucatán
+XVII. Estado de Yucatán
 
 a) Delegación Yucatán, con sede en la ciudad de Mérida.
 
@@ -1323,13 +1347,23 @@ XVII. Ordenar y realizar la práctica de visitas de supervisión en coordinació
 
 XVIII. Coadyuvar, a través de las Delegaciones, a la promoción y fortalecimiento de acciones de coordinación con las autoridades federales, estatales y municipales en la entidad respecto de las funciones propias de cada Delegación;
 
-> <small>(ADICIONADA, D.O.F. 29 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-XIX. Requerir a las Delegaciones información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva, y
+XIX. Requerir a las Delegaciones información de las entidades federativas, sus regiones y municipios, que sea de interés para el ejercicio de las atribuciones de las unidades administrativas de la Comisión Ejecutiva;
 
-XX. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Comisionado Presidente.
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
-La Coordinación General de Delegaciones estará a cargo de un Coordinador General, adscrito al Comisionado Presidente.
+XX. Autorizar de manera individual o en conjunto con los titulares de las direcciones generales de la Asesoría Jurídica Federal y de Atención inmediata y Primer Contacto, acciones concurrentes de dos o más delegaciones en entidades distintas a las de su circunscripción territorial, así como autorizar a una delegación en particular a ejercer acciones en entidades fuera de su esfera de competencia, en casos justificados y en los que sea necesario para la prestación del servicio;
+
+> <small>(ADICIONADA, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Expedir copias certificadas en los términos de la ley, de los documentos que obran en sus archivos, y
+
+XXII. Las demás que le confieran las disposiciones legales y administrativas aplicables, así como las que le encomiende el Comisionado Presidente.
+
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+La Coordinación General de Delegaciones estará adscrita al Comisionado Presidente. En caso de ausencias, el Coordinador General será suplido por el servidor público de la Comisión Ejecutiva del nivel jerárquico inmediato inferior que designe el Comisionado Presidente, a propuesta del propio Coordinador General.
 
 > <small>(ADICIONADO, D.O.F. 10 DE MARZO DE 2015)</small>
 
@@ -1406,3 +1440,7 @@ D.O.F. 29 DE JUNIO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las referencias que las disposiciones hagan a la Unidad de Atención Inmediata y Primer Contacto, se entenderán hechas a la Dirección General de Atención Inmediata y Primer Contacto, conforme a lo dispuesto en el Estatuto Orgánico de la Comisión Ejecutiva de Atención a Víctimas.
+
+D.O.F. 10 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
