@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2014-07-31"
+last_updated: "2015-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2014.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 25653/LX/15, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2015, QUE MODIFICA ESTE ORDENAMIENTO, VÉASE SU TRANSITORIO PRIMERO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -49,11 +51,19 @@ LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y
 
 ° Ley - Naturaleza e Interpretación
 
-1. Esta ley es de orden e interés público, y reglamentaria de los artículos 6° y 16 de la Constitución Política de los Estados Unidos Mexicanos, en lo relativo a datos personales en posesión de entes públicos, así como 4° párrafo tercero, 9° y 15 fracción IX de la Constitución Política del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. Esta ley es de orden e interés público, y reglamentaria de los artículos 6 y 16 párrafo segundo de la Constitución Política de los Estados Unidos Mexicanos, en lo relativo a datos personales en posesión de entes públicos, así como párrafo tercero, 9 y 15 fracción IX de la Constitución Política del Estado de Jalisco.
 
 2. La información materia de este ordenamiento es un bien del dominio público en poder del Estado, cuya titularidad reside en la sociedad, misma que tendrá en todo momento la facultad de disponer de ella para los fines que considere.
 
-3. El derecho de acceso a la información pública se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos; la Declaración Universal de los Derechos Humanos; el Pacto Internacional de Derechos Civiles y Políticos; la Convención Americana sobre Derechos Humanos; la Convención sobre la Eliminación de todas las Formas de Discriminación Contra la Mujer, y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados; así como lo dispuesto por la Constitución Política del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. El derecho de acceso a la información pública se interpretará conforme a la Constitución Política de los Estados Unidos Mexicanos; la Declaración Universal de los Derechos Humanos; el Pacto Internacional de Derechos Civiles y Políticos; la Convención Americana sobre Derechos Humanos; la Convención sobre la Eliminación de todas las Formas de Discriminación Contra la Mujer, y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados; así como lo dispuesto por la Constitución Política del Estado de Jalisco, favoreciendo en todo tiempo los principios pro persona y de máxima publicidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. El ejercicio del derecho de acceso a la información no estará condicionado a que el solicitante acredite interés alguno o justifique su utilización, ni podrá condicionarse el mismo.
 
 ###### Artículo 2.
 
@@ -69,9 +79,29 @@ III. Garantizar y hacer efectivo el derecho a toda persona de solicitar, acceder
 
 IV. Clasificar la información pública en posesión de los sujetos obligados y mejorar la organización de archivos;
 
-V. Proteger los datos personales en posesión de los sujetos obligados, como información confidencial, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Regular la organización y funcionamiento del Instituto de Transparencia e Información Pública del Estado de Jalisco.
+V. Proteger los datos personales en posesión de los sujetos obligados, como información confidencial, de conformidad con las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Regular la organización y funcionamiento del Instituto de Transparencia, Información Pública del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Establecer las bases y la información de interés público que se debe difundir proactivamente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Promover, fomentar y difundir la cultura de la transparencia en el ejercicio de la función pública, el acceso a la información, la participación ciudadana, así como la rendición de cuentas, a través del establecimiento de políticas públicas y mecanismos que garanticen la publicidad de información oportuna, verificable, comprensible, actualizada y completa, que se difunda en los formatos más adecuados y accesibles para todo el público y atendiendo en todo momento las condiciones sociales, económicas y culturales de cada región;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Propiciar la participación ciudadana en la toma de decisiones públicas a fin de contribuir a la consolidación de la democracia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Establecer los mecanismos para garantizar el cumplimiento y la efectiva aplicación de las medidas de apremio y las sanciones que correspondan.
 
 ###### Artículo 3.
 
@@ -83,7 +113,11 @@ VI. Regular la organización y funcionamiento del Instituto de Transparencia e I
 
 I. Información pública de libre acceso, que es la no considerada como protegida, cuyo acceso al público es permanente, libre, fácil, gratuito y expedito, y se divide en:
 
-a) Información pública fundamental, que es la información pública de libre acceso que debe publicarse y difundirse de manera universal, permanente, actualizada y, en el caso de la información electrónica, a través de formatos amigables para el ciudadano, por ministerio de ley, sin que se requiera solicitud de parte interesada, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+a) Información pública fundamental, que es la información pública de libre acceso que debe publicarse y difundirse de manera universal, permanente, actualizada y, en el caso de la información electrónica, a través de formatos abiertos y accesibles para el ciudadano, por ministerio de ley, sin que se requiera solicitud de parte interesada.
+
+Los sujetos obligados buscarán, en todo momento, que la información generada tenga un lenguaje sencillo para cualquier persona y se procurará, en la medida de lo posible y de acuerdo a la disponibilidad presupuestal, su accesibilidad y traducción a lenguas indígenas; e
 
 b) Información pública ordinaria, que es la información pública de libre acceso no considerada como fundamental.
 
@@ -95,37 +129,91 @@ a) Información pública confidencial, que es la información pública protegida
 
 b) Información pública reservada, que es la información pública protegida, relativa a la función pública, que por disposición legal temporalmente queda prohibido su manejo, distribución, publicación y difusión generales, con excepción de las autoridades competentes que, de conformidad con la ley, tengan acceso a ella.
 
-###### Artículo 4.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-° Ley - Glosario
+III. Información proactiva, que es la información específica relativa a casos de especial interés público, en los términos de los lineamientos generales definidos para ello por el Sistema Nacional, diseñadas para incentivar a los sujetos obligados a publicar información adicional a la que establece como mínimo esta Ley; e
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Información focalizada, que es la información de interés público sobre un tema específico, susceptible de ser cuantificada, analizada y comparada; en la que se apoyen los sujetos obligados en la toma de decisiones o criterios que permitan evaluar el impacto de las políticas públicas y que, asimismo, faciliten la sistematización de la información y la publicidad de sus aspectos más relevantes, de conformidad con los lineamientos del Instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. El derecho humano de acceso a la información comprende la libertad de solicitar, investigar, difundir, buscar y recibir información.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 4°.
+
+Ley-Glosario
 
 1. Para efectos de esta ley se entiende por:
 
-I. Comité de Clasificación: el Comité de Clasificación de Información Pública de los sujetos obligados;
+I. Comisionado: cada uno de los integrantes del Pleno del Instituto Estatal;
 
-II. Consejo: el Consejo del Instituto de Transparencia e Información Pública del Estado de Jalisco;
+II. Comité de Transparencia: el Comité de Transparencia de los sujetos obligados;
 
 III. Consejo Consultivo: órgano colegiado y plural, integrado por varios sectores de la sociedad civil que tiene como propósito proponer, analizar y opinar al Congreso del Estado y al Instituto, en materia de transparencia y acceso a la información;
 
-IV. Datos personales: cualquier información concerniente a una persona física identificada o identificable;
+IV. Datos abiertos: Los datos digitales de carácter público que son accesibles en línea que pueden ser usados, reutilizados y redistribuidos por cualquier interesado y que tienen las siguientes características:
 
-V. Datos personales sensibles: aquellos datos personales que afecten a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. En particular, se consideran sensibles aquellos que puedan revelar aspectos como origen racial o étnico, estado de salud presente y futuro, información genética, creencias religiosas, filosóficas y morales, afiliación sindical, opiniones políticas, preferencia sexual;
+a) Accesibles: los datos están disponibles para la gama más amplia de usuarios, para cualquier propósito;
 
-VI. Documentos: los expedientes, reportes, estudios, actas, dictámenes, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, datos, notas, memorandos, estadísticas, instrumentos de medición o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración, así como aquellos señalados por la Ley que regula la Administración de Documentos Públicos e Históricos del Estado de Jalisco;
+b) Integrales: contienen el tema que describen a detalle y con los metadatos necesarios;
 
-VII. Fuente de acceso público: aquellas bases de datos cuya consulta puede ser realizada por cualquier persona, sin más requisito que, en su caso, el pago de una contraprestación de conformidad con las leyes de ingresos correspondientes;
+c) Gratuitos: se obtienen sin entregar a cambio contraprestación alguna;
 
-VIII. Instituto: el Instituto de Transparencia e Información Pública del Estado de Jalisco y sus Municipios;
+d) No discriminatorios: los datos están disponibles para cualquier persona, sin necesidad de registro;
 
-IX. Ley: la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
+e) Oportunos: son actualizados, periódicamente, conforme se generen;
 
-X. Reglamento: el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
+f) Permanentes: se conservan en el tiempo, para lo cual, las versiones históricas relevantes para uso público se mantendrán disponibles con identificadores adecuados al efecto;
 
-XI. Sujeto obligado: los señalados en el artículo 24 de la presente ley;
+g) Primarios: provienen de la fuente de origen con el máximo nivel de desagregación posible;
 
-XII. Transparencia: conjunto de disposiciones y actos mediante los cuales los sujetos obligados tienen el deber de poner a disposición de cualquier persona la información pública que poseen y dan a conocer, en su caso, el proceso y la toma de decisiones de acuerdo a su competencia, así como las acciones en el ejercicio de sus funciones, y
+h) Legibles por máquinas: deberán estar estructurados, total o parcialmente, para ser procesados e interpretados por equipos electrónicos de manera automática;
 
-XIII. Unidad: la Unidad de Transparencia de los sujetos obligados.
+i) En formatos abiertos: los datos estarán disponibles con el conjunto de características técnicas y de presentación que corresponden a la estructura lógica usada para almacenar datos en un archivo digital, cuyas especificaciones técnicas están disponibles públicamente, que no suponen una dificultad de acceso y que su aplicación y reproducción no estén condicionadas a contraprestación alguna; y
+
+j) De libre uso: citan la fuente de origen como único requerimiento para ser utilizados libremente;
+
+V. Datos personales: cualquier información concerniente a una persona física identificada o identificable;
+
+VI. Datos personales sensibles: aquellos datos personales que afecten a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. En particular, se consideran sensibles aquellos que puedan revelar aspectos como origen racial o étnico, estado de salud presente y futuro, información genética, creencias religiosas, filosóficas y morales, afiliación sindical, opiniones políticas, preferencia sexual;
+
+VII. Documentos: los expedientes, reportes, estudios, actas, dictámenes, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, datos, notas, memorandos, estadísticas, instrumentos de medición o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones, actividad y competencias de los sujetos obligados, sus servidores públicos e integrantes, sin importar su fuente o fecha de elaboración, así como aquellos señalados por la Ley que regula la Administración de Documentos Públicos e Históricos del Estado de Jalisco, los cuales podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
+
+VIII. Expediente: unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
+
+IX. Formatos Abiertos: conjunto de características técnicas y de presentación de la información que corresponden a la estructura lógica usada para almacenar datos de forma integral y facilitan su procesamiento digital, cuyas especificaciones están disponibles públicamente y que permiten el acceso sin restricción de uso por parte de los usuarios;
+
+X. Formatos Accesibles: cualquier manera o forma alternativa que dé acceso a los solicitantes de información, en forma tan viable y cómoda como la de las personas sin discapacidad ni otras dificultades para acceder a cualquier texto impreso o cualquier otro formato convencional en el que la información pueda encontrarse;
+
+XI. Fuente de acceso público: aquellas bases de datos cuya consulta puede ser realizada por cualquier persona, sin más requisito que, en su caso, el pago de una contraprestación de conformidad con las leyes de ingresos correspondientes;
+
+XII. Gobierno abierto: el Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, en el ámbito de sus atribuciones, coadyuvará con los sujetos obligados y representantes de la sociedad civil en la implementación de mecanismos de colaboración para la promoción e implementación de políticas y mecanismos de apertura gubernamental;
+
+XIII. Información de interés público: la información que resulta relevante o beneficiosa para la sociedad y no simplemente de interés individual, cuya divulgación resulta útil para que el público comprenda las actividades que llevan a cabo los sujetos obligados;
+
+XIV. Instituto: el Instituto de Transparencia, Información Públicay (sic) Protección de Datos Personales del Estado de Jalisco;
+
+XV. Instituto Nacional: el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+XVI. Ley: la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
+
+XVII. Ley General: la Ley General de Transparencia y Acceso a la Información Pública;
+
+XVIII. Reglamento: el Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
+
+XIX. Sistema Nacional: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+XX. Sujeto obligado: los señalados en el artículo 24 de la presente ley;
+
+XXI. Transparencia: conjunto de disposiciones y actos mediante los cuales los sujetos obligados tienen el deber de poner a disposición de cualquier persona la información pública que poseen y dan a conocer, en su caso, el proceso y la toma de decisiones de acuerdo a su competencia, así como las acciones en el ejercicio de sus funciones;
+
+XXII. Unidad: la Unidad de Transparencia de los sujetos obligados; y
+
+XXIII. Versión pública: documento o expediente en el que se da acceso a información eliminando u omitiendo las partes o secciones clasificadas, de conformidad con la Ley General.
 
 ###### Artículo 5.
 
@@ -133,39 +221,93 @@ XIII. Unidad: la Unidad de Transparencia de los sujetos obligados.
 
 1. Son principios rectores en la interpretación y aplicación de esta ley:
 
-I. Gratuidad: la búsqueda y acceso a la información pública es gratuita;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-II. Interés general: el derecho a la información pública es de interés general, por lo que no es necesario acreditar ningún interés jurídico particular en el acceso a la información pública, con excepción de la clasificada como confidencial;
+I. Certeza: principio que otorga seguridad y certidumbre jurídica a los particulares, en virtud de que permite conocer si las acciones del Instituto son apegadas a derecho y garantiza que los procedimientos sean completamente verificables, fidedignos y confiables:
 
-III. Libre acceso: en principio toda información pública es considerada de libre acceso, salvo la clasificada expresamente como reservada o confidencial;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IV. Máxima publicidad: en caso de duda sobre la justificación de las razones de interés público que motiven la reserva temporal de la información pública, prevalecerá la interpretación que garantice la máxima publicidad de dicha información;
+II. Eficacia: obligación del Instituto para tutelar, de manera efectiva, el derecho de acceso a la información;
 
-V. Mínima formalidad: en caso de duda sobre las formalidades que deben revestir los actos jurídicos y acciones realizadas con motivo de la aplicación de esta ley, prevalecerá la interpretación que considere la menor formalidad de aquellos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Sencillez y celeridad: en los procedimientos y trámites relativos al acceso a la información pública, así como la difusión de los mismos, se optará por lo más sencillo o expedito;
+III. Gratuidad: la búsqueda y acceso a la información pública es gratuita;
 
-VII. Suplencia de la deficiencia: no puede negarse información por deficiencias formales de las solicitudes. Los sujetos obligados y el Instituto deben suplir cualquier deficiencia formal, así como orientar y asesorar para corregir cualquier deficiencia sustancial de las solicitudes de los particulares en materia de información pública, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Transparencia: se debe buscar la máxima revelación de información, mediante la ampliación unilateral del catálogo de información fundamental de libre acceso.
+IV. Imparcialidad: cualidad que debe tener el Instituto respecto de sus actuaciones para que éstas sean ajenas a los intereses de las partes en controversia y resolver sin favorecer indebidamente a ninguna de ellas;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Independencia: cualidad que debe tener el Instituto para actuar sin supeditarse a interés, autoridad o persona alguna;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Interés general: el derecho a la información pública es de interés general, por lo que no es necesario acreditar ningún interés jurídico particular en el acceso a la información pública, con excepción de la clasificada como confidencial;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Legalidad: obligación del Instituto de ajustar su actuación, que funde y motive sus resoluciones y actos en las normas aplicables;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Libre acceso: en principio toda información pública es considerada de libre acceso, salvo la clasificada expresamente como reservada o confidencial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Máxima publicidad: en caso de duda sobre la justificación de las razones de interés público que motiven la reserva temporal de la información pública, prevalecerá la interpretación que garantice la máxima publicidad de dicha información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Mínima formalidad: en caso de duda sobre las formalidades que deben revestir los actos jurídicos y acciones realizadas con motivo de la aplicación de esta ley, prevalecerá la interpretación que considere la menor formalidad de aquellos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. Objetividad: obligación del Instituto de ajustar su actuación a los presupuestos de ley que deben ser aplicados al analizar el caso en concreto y resolver todos los hechos, prescindiendo de las consideraciones y criterios personales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. Presunción de existencia: se presume que la información debe existir si se refiere a las facultades, competencias y funciones que los ordenamientos jurídicos aplicables otorgan a los sujetos obligados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Profesionalismo: los servidores públicos que laboren en el Instituto deberán sujetar su actuación a conocimientos técnicos, teóricos y metodológicos que garanticen un desempeño eficiente y eficaz en el ejercicio de la función pública que tienen encomendada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Sencillez y celeridad: en los procedimientos y trámites relativos al acceso a la información pública, así como la difusión de los mismos, se optará por lo más sencillo o expedito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XV. Suplencia de la deficiencia: no puede negarse información por deficiencias formales de las solicitudes. Los sujetos obligados y el Instituto deben suplir cualquier deficiencia formal, así como orientar y asesorar para corregir cualquier deficiencia sustancial de las solicitudes de los particulares en materia de información pública; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Transparencia: se debe buscar la máxima revelación de información, mediante la ampliación unilateral del catálogo de información fundamental de libre acceso.
 
 2. La interpretación de la Ley y de su reglamento, debe orientarse preferentemente a favorecer los principios de máxima publicidad y disponibilidad de la información en posesión de los sujetos obligados.
 
-###### Artículo 6.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-° Ley - Días hábiles
+###### Artículo 6°.
 
-1. Son días hábiles para efectos de esta ley, los que establezca la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, sin perjuicio de que el Consejo pueda habilitar días inhábiles para actuar o para que se practiquen diligencias, cuando haya causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
+Ley-Días hábiles
 
-###### Artículo 7.
+1. Son días hábiles para efectos de esta ley, los que establezca la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, sin perjuicio de que el Pleno del Instituto pueda habilitar días inhábiles para actuar o para que se practiquen diligencias, cuando haya causa urgente que lo exija, expresando cual sea ésta y las diligencias que hayan de practicarse.
 
-° Ley - Supletoriedad
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 7°.
+
+Ley-Supletoriedad
 
 1. Son de aplicación supletoria para esta ley:
 
-I. La Ley del Procedimiento Administrativo del Estado de Jalisco, y
+I. La Ley General;
 
-II. El Código de Procedimientos Civiles del Estado de Jalisco.
+II. La ley del Procedimiento Administrativo del Estado de Jalisco; y
+
+III. Código de Procedimientos Civiles del Estado de Jalisco.
 
 ## Título Segundo. De la Información Pública
 
@@ -179,35 +321,57 @@ Información Fundamental - General
 
 I. La necesaria para el ejercicio del derecho a la información pública, que comprende:
 
-a) La presente ley y su reglamento;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+a) La Ley General, la presente Ley y su Reglamento;
 
 b) El reglamento interno para el manejo de la información pública del sujeto obligado;
 
-c) Los lineamientos generales de clasificación de información pública, emitidos por el Instituto;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-d) Los lineamientos generales de publicación y actualización de información fundamental, emitidos por el Instituto;
+c) Los lineamientos estatales de clasificación de información pública, emitidos por el Instituto;
 
-e) Los lineamientos generales de protección de información confidencial y reservada, emitidos por el Instituto;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-f) Los criterios generales de clasificación de información pública del sujeto obligado;
+d) Los lineamientos estatales de publicación y actualización de información fundamental, emitidos por el Instituto;
 
-g) Los criterios generales de publicación y actualización de información fundamental del sujeto obligado;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-h) Los criterios generales de protección de información confidencial y reservada del sujeto obligado;
+e) Los lineamientos estatales de protección de información confidencial y reservada, emitidos por el Instituto;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+f) Los lineamientos generales que emita el Sistema Nacional;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+g) Las actas y resoluciones del Comité de Transparencia;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+h) Dirección electrónica donde podrán recibirse las solicitudes de acceso a la información;
 
 i) La denominación, domicilio, teléfonos, faxes, dirección electrónica y correo electrónico oficiales del sujeto obligado;
 
-j) El directorio del sujeto obligado;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-k) El nombre del encargado, teléfono, fax y correo electrónico del Comité de Clasificación;
+j) El directorio de todos los servidores públicos del sujeto obligado, a partir del nivel de jefe de departamento o su equivalente, o de menor nivel, cuando se brinde atención al público; manejen o apliquen recursos públicos; realicen actos de autoridad o presten servicios profesionales bajo el régimen de confianza u honorarios y personal de base. El directorio deberá incluir, al menos, el nombre, cargo o nombramiento asignado, nivel del puesto en la estructura orgánica, fecha de alta en el cargo, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficiales;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+k) El nombre del encargado y de los integrantes, teléfono, fax y correo electrónico del Comité de Transparencia;
 
 l) El nombre del encargado, teléfono, fax y correo electrónico de la Unidad;
 
 m) El manual y formato de solicitud de información pública;
 
-n) Los informes de revisión oficiosa y periódica de clasificación de la información pública, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-ñ) La estadística de las solicitudes de información pública atendidas, precisando las procedentes, parcialmente procedentes e improcedentes;
+n) Índice de los expedientes clasificados como reservados, por área responsable de la información y tema; y
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+ñ) La estadística de las solicitudes de información pública atendidas, precisando las procedentes, parcialmente procedentes e improcedentes; así como la estadística de visitas a su sistema de consulta electrónica;
 
 II. La información sobre el marco jurídico aplicable al y por el sujeto obligado, que comprende:
 
@@ -219,7 +383,9 @@ c) Las leyes federales y estatales;
 
 d) Los reglamentos federales, estatales y municipales, y
 
-e) Los decretos, acuerdos y demás normas jurídicas generales;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+e) Los decretos, acuerdos, criterios, políticas, reglas de operación y demás normas jurídicas generales;
 
 III. La información sobre la planeación del desarrollo, aplicable al y por el sujeto obligado, que comprende:
 
@@ -231,9 +397,17 @@ c) Los apartados del Plan Estatal de Desarrollo;
 
 d) Los programas estatales;
 
-e) Los programas regionales, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-f) Los demás instrumentos de planeación no comprendidos en los incisos anteriores;
+e) Los programas regionales;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+f) Las evaluaciones y encuestas que hagan los sujetos obligados a programas financiados con recursos públicos; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+g) Los demás instrumentos de planeación no comprendidos en los incisos anteriores;
 
 IV. La información sobre la planeación estratégica gubernamental aplicable al y por el sujeto obligado, que comprende:
 
@@ -249,63 +423,193 @@ e) Los manuales de procedimientos;
 
 f) Los manuales de servicios;
 
-g) Los protocolos, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-h) Los demás instrumentos normativos internos aplicables;
+g) Los protocolos;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+h) Los indicadores que permitan rendir cuenta de sus objetivos y resultados; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+i) Los demás instrumentos normativos internos aplicables;
 
 V. La información financiera, patrimonial y administrativa, que comprende:
 
-a) Las partidas del Presupuesto de Egresos de la Federación y conceptos del clasificador por objeto del gasto, aplicables al y por el sujeto obligado, de cuando menos los últimos tres años;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-b) Las partidas del Presupuesto de Egresos del Estado y conceptos del clasificador por objeto del gasto, aplicables al y por el sujeto obligado, de cuando menos los últimos tres años;
+a) Las partidas del Presupuesto de Egresos de la Federación y del Presupuesto de Egresos del Estado, así como los conceptos del clasificador por objeto del gasto, aplicables al y por el sujeto obligado, de cuando menos los últimos tres años;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+b) Los ingresos extraordinarios recibidos por cualquier concepto, señalando el origen de los recursos, el nombre de los responsables de recibirlos, administrarlos y ejercerlos, así como el proyecto o programa donde serán aplicados;
 
 c) El presupuesto de egresos anual y, en su caso, el clasificador por objeto del gasto del sujeto obligado, de cuando menos los últimos tres años;
 
-d) El organigrama del sujeto obligado, con las modificaciones de cuando menos los últimos tres años;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-e) La plantilla del personal del sujeto obligado, con las modificaciones de cuando menos los últimos tres años;
+d) Las convocatorias a concursos para ocupar cargos públicos y los resultados de los mismos;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+e) El organigrama del sujeto obligado, con las modificaciones de cuando menos los últimos tres años, así como la plantilla del personal del sujeto obligado, con las modificaciones de cuando menos los últimos tres años, en la que se incluya el número total de plazas del personal de base, del personal de confianza y las vacantes;
 
 f) Las remuneraciones mensuales por puesto, incluidas todas las prestaciones, estímulos o compensaciones;
 
-g) Las nóminas completas del sujeto obligado, de cuando menos los últimos tres años, y en su caso, con sistema de búsqueda;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+g) Las nóminas completas del sujeto obligado en las que se incluya las gratificaciones, primas, comisiones, dietas y estímulos, de cuando menos los últimos tres años, y en su caso, con sistema de búsqueda;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+h) El listado de jubilados y pensionados y el monto que reciben;
 
 i) Los estados financieros mensuales, de cuando menos los últimos tres años;
 
 j) Los gastos de comunicación social, de cuando menos los últimos tres años, donde se señale cuando menos la fecha, monto y partida de la erogación, responsable directo de la autorización de la contratación, denominación del medio de comunicación contratado, descripción del servicio contratado, justificación y relación con alguna función o servicio públicos;
 
-k) El contrato y gasto realizado por concepto de pago de asesorías al sujeto obligado, donde se señale nombre de la empresa, institución o individuos, el concepto de cada una de las asesorías, así como el trabajo realizado;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-l) Los donativos o subsidios, en especie o en numerario, otorgados por el sujeto obligado, en los que se señale el concepto o nombre del donativo o subsidio, monto, nombre de beneficiario, temporalidad, criterios para otorgar los donativos, acta o minuta de aprobación;
+k) El contrato de prestación de servicios o por honorarios, y el gasto realizado por concepto de pago de asesorías al sujeto obligado, donde se señale nombre de la empresa, institución o individuos, el concepto de cada una de las asesorías, así como el trabajo realizado;
 
-m) Los donativos o subsidios, en especie o en numerario, recibidos por el sujeto obligado;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+l) Los subsidios, en especie o en numerario, recibidos por el sujeto obligado, así como los otorgados por el sujeto obligado, en los que se señale lo siguiente:
+
+1. Área;
+
+2. Denominación del programa;
+
+3. Periodo de vigencia;
+
+4. Diseño, objetivos y alcances;
+
+5. Metas físicas;
+
+6. Población beneficiada estimada;
+
+7. Monto aprobado, modificado y ejercido, así como los calendarios de su programación presupuestal;
+
+8. Requisitos y procedimientos de acceso;
+
+9. Procedimiento de queja o inconformidad ciudadana;
+
+10. Mecanismos de exigibilidad;
+
+11. Mecanismos de evaluación, informes de evaluación y seguimiento de recomendaciones;
+
+12. Indicadores con nombre, definición, método de cálculo, unidad de medida, dimensión, frecuencia de medición, nombre de las bases de datos utilizadas para su cálculo;
+
+13. Formas de participación social;
+
+14. Articulación con otros programas sociales;
+
+15. Vínculo a las reglas de operación o documento equivalente;
+
+16. Informes periódicos sobre la ejecución y los resultados de las evaluaciones realizadas;
+
+17. Padrón de beneficiarios, mismo que deberá contener nombre de la persona física o denominación social de las personas jurídicas beneficiarias, el monto, recurso, beneficio o apoyo otorgado para cada una de ellas, unidad territorial, edad y sexo; y
+
+18. Además de lo señalado en los numerales anteriores, en el caso de donaciones, estímulos y apoyos hechos a terceros en dinero o en especie, otorgados por el sujeto obligado, se deberá señalar el concepto o nombre del donativo, estímulo o apoyo, monto, nombre del beneficiario, temporalidad, criterios para otorgarlo, así como el acta minuta u oficio de aprobación;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+m) El listado de personas físicas o jurídicas a quienes, por cualquier motivo, se les asigne o permita usar recursos públicos o, en los términos de las disposiciones aplicables, realicen actos de autoridad, así como los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos;
 
 n) Las cuentas públicas, las auditorías internas y externas, así como los demás informes de gestión financiera del sujeto obligado, de cuando menos los últimos tres años;
 
-ñ) Los padrones de proveedores, de cuando menos los últimos tres años;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-o) Las resoluciones sobre adjudicaciones directas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años;
+ñ) Los padrones de proveedores o contratistas, de cuando menos los últimos tres años;
 
-p) Las convocatorias y resoluciones sobre concursos por invitación en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-q) Las convocatorias y resoluciones sobre licitaciones públicas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años;
+o) La información sobre adjudicaciones directas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años, que deberá contener, por lo menos, lo siguiente:
+
+1. La propuesta enviada por el participante;
+
+2 Los motivos y fundamentos legales aplicados para llevarla a cabo;
+
+3. La autorización del ejercicio de la opción;
+
+4. En su caso, las cotizaciones consideradas, especificando los nombres de los proveedores y los montos;
+
+5. El nombre de la persona física o jurídica adjudicada;
+
+6. La unidad administrativa solicitante y la responsable de su ejecución;
+
+7. El número, fecha, el monto del contrato y el plazo de entrega o de ejecución de los servicios u obra;
+
+8. Los mecanismos de vigilancia y supervisión, incluyendo, en su caso, los estudios de impacto urbano y ambiental, según corresponda;
+
+9. Los informes de avance sobre las obras o servicios contratados;
+
+10. El convenio de terminación; y
+
+11. El finiquito;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+p) La información sobre concursos por invitación y licitaciones públicas en materia de adquisiciones, obra pública, proyectos de inversión y prestación de servicios, de cuando menos los últimos tres años, que deberá contener, por lo menos, lo siguiente:
+
+1. La convocatoria o invitación emitida, así como los fundamentos legales aplicados para llevarla a cabo;
+
+2. Los nombres de los participantes o invitados;
+
+3. El nombre del ganador y las razones que lo justifican;
+
+4. El área solicitante y la responsable de su ejecución;
+
+5. Las convocatorias e invitaciones emitidas;
+
+6. Los dictámenes y fallo de adjudicación;
+
+7. El contrato y, en su caso, sus anexos;
+
+8. Los mecanismos de vigilancia y supervisión, incluyendo, en su caso, los estudios de impacto urbano y ambiental, según corresponda;
+
+9. La partida presupuestal, de conformidad con el clasificador por objeto del gasto, en el caso de ser aplicable;
+
+10. Origen de los recursos especificando si son federales, estatales o municipales, así como el tipo de fondo de participación o aportación respectiva;
+
+11. Los convenios modificatorios que, en su caso, sean firmados, precisando el objeto y la fecha de celebración;
+
+12. Los informes de avance físico y financiero sobre las obras o servicios contratados;
+
+13. El convenio de terminación; y
+
+14. El finiquito;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+q) El nombre, denominación o razón social y clave del Registro Federal de Contribuyentes de quienes se les hubiera cancelado o condonado algún crédito fiscal, los montos respectivos, así como la información estadística sobre las exenciones previstas en las disposiciones fiscales;
 
 r) Los inventarios de bienes muebles e inmuebles del sujeto obligado, de cuando menos los últimos tres años, donde se señale cuando menos la descripción, el valor, el régimen jurídico, y el uso o afectación del bien;
 
-s) Los viajes oficiales, su costo, itinerario, agenda y resultados;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+s) Los gastos de representación, viáticos y viajes oficiales, su costo, itinerario, agenda y resultados;
 
 t) Las concesiones, licencias, permisos o autorizaciones otorgadas de los últimos tres años;
 
 u) Los decretos y expedientes relativos a las expropiaciones que realicen por utilidad pública;
 
-v) Las pólizas de los cheques expedidos;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+v) Las pólizas de los cheques expedidos, con identificación del número de cheque o transferencia, monto y nombre del beneficiario, indicando el motivo de la erogación, en el que de manera detallada y completa se indique para qué se erogó el recurso público, o en su caso la descripción que aparezca en la factura correspondiente; siempre y cuando con ello se aporten los elementos cualitativos y cuantitativos de la finalidad del cheque o transferencia;
 
 w) El estado de la deuda pública del sujeto obligado, donde se señale cuando menos responsable de la autorización, fecha de contratación, monto del crédito, tasa de interés, monto total amortizable, plazo de vencimiento, institución crediticia, objeto de aplicación y avance de aplicación de cada deuda contratada;
 
 x) Los estados de cuenta bancarios que expiden las instituciones financieras, número de cuentas bancarias, estados financieros, cuentas de fideicomisos e inversiones, de cuando menos los últimos seis meses;
 
-y) Las declaraciones patrimoniales de los funcionarios públicos que estén obligados a presentarla, conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, y
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-z) El registro de los procedimientos de responsabilidad administrativa, con indicación del número de expediente, fecha de ingreso, nombre del denunciante, nombre y cargo del denunciado y estado procesal;
+y) La información en versión pública de las declaraciones patrimoniales de los servidores públicos que así lo determinen, en los sistemas habilitados para ello, de acuerdo a la normatividad aplicable; y
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+z) El registro de los procedimientos de responsabilidad administrativa, con indicación del número de expediente, fecha de ingreso, nombre del denunciante, nombre y cargo del denunciado, causa del procedimiento, estado procesal y, en su caso, la sanción impuesta;
 
 VI. La información sobre la gestión pública, que comprende:
 
@@ -321,35 +625,75 @@ e) Las políticas públicas que elabora y aplica el sujeto obligado, de cuando m
 
 f) Los convenios, contratos y demás instrumentos jurídicos suscritos por el sujeto obligado, de cuando menos los últimos tres años;
 
-g) Las concesiones, licencias, permisos, autorizaciones y demás actos administrativos otorgados por el sujeto obligado, de cuando menos los últimos tres años;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+g) Las concesiones, licencias, permisos, autorizaciones y demás actos administrativos otorgados por el sujeto obligado, de cuando menos los últimos tres años, en el que se incluyan los requisitos para acceder a ellos y, en su caso, los formatos correspondientes;
 
 h) La agenda diaria de actividades del sujeto obligado, de cuando menos el último mes;
 
 i) El lugar, día y hora de las todas (sic) las reuniones o sesiones de sus órganos colegiados, junto con el orden del día y una relación detallada de los asuntos a tratar, así como la indicación del lugar y forma en que se puedan consultar los documentos públicos relativos, con cuando menos veinticuatro horas anteriores a la celebración de dicha reunión o sesión;
 
-j) Las actas o minutas de las reuniones o sesiones de sus órganos colegiados;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-k) La integración, la regulación básica y las actas de las reuniones de los consejos ciudadanos reconocidos oficialmente por el sujeto obligado con el propósito de que la ciudadanía participe o vigile la actividad de sus órganos y dependencias, y
+j) Las versiones estenográficas, así como las actas o minutas de las reuniones o sesiones de sus órganos colegiados;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+k) La integración, la regulación básica y las actas de las reuniones de los consejos ciudadanos reconocidos oficialmente por el sujeto obligado con el propósito de que la ciudadanía participe o vigile la actividad de sus órganos y dependencias;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 l) Los informes trimestrales y anuales de actividades del sujeto obligado, de cuando menos los últimos tres años;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VII. Los mecanismos e instrumentos de participación ciudadana que puedan acceder o ejercer ante el sujeto obligado;
+m) Las recomendaciones emitidas por los órganos públicos del Estado mexicano u organismos internacionales garantes de los derechos humanos, así como las acciones que han llevado a cabo para su atención; y
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VIII. La información pública ordinaria que considere el sujeto obligado, por sí o a propuesta del Instituto; y
+n) Las estadísticas que generen en cumplimiento de sus facultades, competencias o funciones con la mayor desagregación posible;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IX. La demás información pública a que obliguen las disposiciones federales, así como aquella que se genere por la ejecución del gasto público con recursos federales.
+VII. Las versiones públicas de las resoluciones y laudos que emitan los sujetos obligados, en procesos o procedimientos seguidos en forma de juicio y que hayan causado estado;
 
-2. La publicación de información fundamental debe realizarse con independencia de su publicación oficial y debe reunir los requisitos de claridad, calidad, veracidad, oportunidad y confiabilidad.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-###### Artículo 9.
+VIII. Los mecanismos e instrumentos de participación ciudadana que puedan acceder o ejercer ante el sujeto obligado;
 
-° Información Fundamental - Poder Legislativo
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. La información pública ordinaria, proactiva o focalizada que considere el sujeto obligado, por sí o a propuesta del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Las condiciones generales de trabajo, contratos o convenios que regulen las relaciones laborales del personal de base o de confianza, así como los recursos públicos económicos, en especie o donativos, que sean entregados a los sindicatos y ejerzan como recursos públicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. Los estudios financiados con recursos públicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. Los ingresos recibidos por cualquier concepto señalando el nombre de los responsables de recibirlos, administrarlos y ejercerlos, así como su destino, indicando el destino de cada uno de ellos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. El catálogo de disposición y guía de archivo documental; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. La demás información pública a que obliguen las disposiciones federales y la Ley General de Contabilidad Gubernamental, así como aquella que se genere por la ejecución del gasto público con recursos federales.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. La publicación de información fundamental debe realizarse con independencia de su publicación oficial y debe reunir los requisitos de claridad, calidad, certeza, veracidad, oportunidad y confiabilidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 9°.
+
+Información Fundamental - Poder Legislativo y la Auditoría Superior del Estado de Jalisco.
 
 1. Es información pública fundamental del Poder Legislativo:
 
@@ -379,41 +723,31 @@ XII. Los archivos electrónicos de video y audio de las sesiones de la Asamblea;
 
 XIII. Las iniciativas de ley, decreto o acuerdo legislativo presentadas, y el estado que guardan;
 
-XIV. La estadística de asistencias de las sesiones de la Asamblea, los órganos directivos, las comisiones y los comités, que contenga el nombre de los diputados;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XV. La estadística de intervenciones y tiempo en tribuna de los diputados participantes, así como el sentido de su voto en las votaciones nominales en la Asamblea, comisiones y comités;
+XIV. La estadística de asistencias de las sesiones de la Asamblea, Junta de Coordinación Política, los órganos directivos y administrativos, las comisiones y los comités, que contenga el nombre de los diputados;
 
-XVI. Los recursos materiales, humanos y financieros asignados a las fracciones parlamentarias, los órganos directivos, las comisiones, los comités, los órganos administrativos y los órganos técnicos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XV. La estadística de intervenciones y tiempo en tribuna de los diputados participantes, así como el sentido de su voto en las votaciones nominales en la Asamblea, Junta de Coordinación Política, comisiones y comités;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Los recursos materiales, humanos y financieros asignados a las fracciones parlamentarías, diputados independientes, los órganos directivos, las comisiones, los comités, los órganos administrativos y los órganos técnicos;
 
 XVII. La lista de los beneméritos del Estado declarados por decreto del Congreso;
 
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 XVIII. En materia de fiscalización superior:
 
-a) Las normas, manuales, procedimientos, métodos y sistemas de contabilidad;
+a) El Programa Anual de Actividades de la Unidad de Vigilancia;
 
-b) Las normas del sistema de entrega de cuentas públicas y estados financieros;
+b) Las normas del sistema de evaluación del desempeño; y
 
-c) Las normas y criterios para las auditorías;
+c) El registro de los créditos fiscales aprobados con motivo del rechazo de cuentas públicas;
 
-d) Las normas del sistema de evaluación del desempeño;
-
-e) Las normas del sistema de archivo de libros y documentos justificativos y comprobatorios del ingreso y gasto público;
-
-f) Las bases para la entrega recepción de la documentación comprobatoria y justificativa de las cuentas públicas;
-
-g) Los lineamientos de estandarización de formatos electrónicos e impresos;
-
-h) El Programa Anual de Actividades de la Auditoría Superior del Estado;
-
-i) El Programa Anual de Actividades de la Unidad de Vigilancia;
-
-j) El registro de cuentas públicas e informes de gestión financiera entregados por las entidades fiscalizadas, con indicación del estado procedimental que guardan;
-
-k) Los expedientes con motivo de la fiscalización de las cuentas públicas y de la evaluación del desempeño gubernamental, una vez que exista resolución final;
-
-l) El registro de los créditos fiscales aprobados con motivo del rechazo de cuentas públicas, y
-
-m) La demás que establezcan otras disposiciones aplicables;
+d) Los dictámenes de cuenta pública, una vez aprobados por el Congreso del Estado;
 
 XIX. En materia de responsabilidades de los servidores públicos:
 
@@ -426,6 +760,32 @@ c) Las resoluciones finales de los juicios de procedencia penal, juicios políti
 d) La lista de los servidores públicos que no hayan presentado su declaración de situación patrimonial, conforme a la ley, y
 
 XX. La que establezca el Reglamento Interno de Información Pública del Poder Legislativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Es información pública fundamental de la Auditoría Superior del Estado de Jalisco:
+
+I. Las normas, manuales, procedimientos, métodos y sistemas de contabilidad que utilice de acuerdo a la Ley General de Contabilidad Gubernamental;
+
+II. Las normas del sistema de entrega de cuentas públicas y estados financieros que utilice de acuerdo a la Ley General de Contabilidad Gubernamental;
+
+III. Las normas y criterios para las auditorías que utilice de acuerdo a la Ley General de Contabilidad Gubernamental;
+
+IV. Las normas del sistema de archivo de libros y documentos justificativos y comprobatorios del ingreso y gasto público que utilice de acuerdo a la Ley General de Contabilidad Gubernamental;
+
+V. Las bases para la entrega recepción de la documentación comprobatoria y justificativa de las cuentas públicas que utilice de acuerdo a la Ley General de Contabilidad Gubernamental;
+
+VI. Los lineamientos de estandarización de formatos electrónicos e impresos;
+
+VII. El Programa Anual de Actividades de la Auditoría Superior del Estado;
+
+VIII. El registro de cuentas públicas e informes de gestión financiera entregados por las entidades fiscalizadas con indicación del estado procedimental que guardan;
+
+IX. Los expedientes con motivo de la fiscalización de las cuentas públicas y de la evaluación del desempeño gubernamental, una vez que exista resolución final;
+
+X. Las versiones públicas de los informes de las auditorías al ejercicio presupuestal de cada sujeto obligado que se realicen y, en su caso, las aclaraciones que correspondan, una vez presentados a la Comisión de Vigilancia; y
+
+XI. La demás que establezcan otras disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -455,9 +815,35 @@ X. La lista de los servidores públicos del Poder Ejecutivo que no hayan present
 
 XI. Las estadísticas e indicadores relativos a la procuración de justicia;
 
-XII. Los datos estadísticos relativos a la Junta Local y Especiales de Conciliación y Arbitraje, y del Tribunal de Arbitraje y Escalafón, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XIII. La que establezca el Reglamento Interno de Información Pública del Poder Ejecutivo y la Administración Pública Estatal.
+XII. El informe de los procedimientos administrativos de responsabilidad de los notarios en los que participe, una vez que hayan sido publicados en el Periódico Oficial "El Estado de Jalisco";
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. El procedimiento para el otorgamiento de becas e incorporación de estudios en el ámbito estatal, así como el listado de resultados; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. La que establezca el Reglamento Interno de Información Pública del Poder Ejecutivo y la Administración Pública Estatal.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 10
+
+Bis. Información Fundamental - Colegio de Notarios del Estado de Jalisco.
+
+1. Es información fundamental del Colegio de Notarios del Estado de Jalisco:
+
+I. El domicilio, teléfono y correo electrónico de los notarios públicos que actúen en cada región notarial;
+
+II. Los días y horarios de atención al público por cada sede notarial;
+
+III. Los notarios públicos que presten sus servicios en virtud de convenio de asociación notarial;
+
+IV. El arancel que corresponda a cada acto notarial; y
+
+V. Aquella que a juicio del Colegio de Notarios del Estado de Jalisco, sea de utilidad para el público y el mejor desempeño de la función notarial.
 
 ###### Artículo 11.
 
@@ -475,7 +861,9 @@ IV. El orden del día de las sesiones de los Plenos de los tribunales, del Insti
 
 V. Los acuerdos de asuntos no jurisdiccionales, aprobados por los plenos y las Salas de los Tribunales, el Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
 
-VI. Las actas de las sesiones de los plenos de los tribunales, del Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Las versiones estenográficas de las sesiones públicas y las actas de las sesiones de los plenos de los tribunales, del Instituto de Justicia Alternativa y del Consejo de la Judicatura del Poder Judicial;
 
 VII. Los libros de registro de los asuntos jurisdiccionales llevados ante los órganos judiciales;
 
@@ -507,9 +895,39 @@ XX. Las actas de las visitas de inspección a los juzgados del Poder Judicial;
 
 XXI. Las convocatorias del sistema de carrera judicial;
 
-XXII. La lista de las personas acreditadas como auxiliares de la administración de justicia, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XXIII. La que establezca el Reglamento Interno de Información Pública del Poder Judicial del Estado.
+XXII. La relacionada con los procesos por medio de los cuales fueron designados los jueces y magistrados;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. La lista de las personas acreditadas como auxiliares de la administración de justicia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. La que establezca el Reglamento Interno de Información Pública del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 11
+
+Bis. Información fundamental- Tribunal Electoral del Estado de Jalisco.
+
+1. Es información fundamental del Tribunal Electoral del Estado de Jalisco:
+
+I. La obligatoria para todos los sujetos obligados;
+
+II. El orden del día de sus sesiones;
+
+III. Sus acuerdos emitidos;
+
+IV. Las versiones estenográficas de sus sesiones públicas y las actas de sesiones;
+
+V. El calendario anual de días hábiles;
+
+VI. Las sentencias emitidas; y
+
+VII. La demás que acuerde su Pleno.
 
 ###### Artículo 12.
 
@@ -525,19 +943,27 @@ III. El reglamento marco de información pública para sujetos obligados;
 
 IV. El manual general de acceso a la información pública, para uso general;
 
-V. Los lineamientos generales que esta ley le obliga a emitir;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Los criterios generales de los sujetos obligados;
+V. Los lineamientos estatales que esta ley le obliga a emitir;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. El catálogo de sujetos obligados, especificando el nombre y página de internet;
 
 VII. Los formatos guía que elabore para uso de la población;
 
 VIII. El registro de validación de los sistemas electrónicos de publicación de información pública fundamental y recepción de solicitudes de información pública de libre acceso, de los sujetos obligados;
 
-IX. Los informes de evaluación de los sujetos obligados sobre publicación de información fundamental;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Los acuerdos y resultados de las evaluaciones de los sujetos obligados sobre el cumplimiento de la Ley;
 
 X. Los estudios, investigaciones y publicaciones sobre información pública, que realice o patrocine;
 
-XI. Las resoluciones definitivas de los procedimientos y recursos que conozca;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. Las resoluciones definitivas de los procedimientos y recursos que conozca, incluyendo la relación de observaciones, acuerdos y puntos resolutivos, su seguimiento y las respuestas entregadas por los sujetos obligados a los solicitantes en cumplimiento de las resoluciones;
 
 XII. La relación de las investigaciones y auditorías realizadas y las recomendaciones públicas emitidas;
 
@@ -549,9 +975,29 @@ XV. Los convenios celebrados con sujetos obligados y autoridades en materia de i
 
 XVI. Los informes anuales de actividades y de evaluación general de acceso a la información pública en el Estado;
 
-XVII. La estadística general del Estado actualizada sobre solicitudes de información y recursos en materia de información pública, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XVIII. La que acuerde el Consejo.
+XVII. Las sentencias, ejecutorias o suspensiones judiciales que existan en contra de sus resoluciones;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Los criterios de interpretación derivadas de las resoluciones del Pleno del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIX. El número de denuncias penales presentadas por el Instituto, que contenga al menos el nombre del denunciado, causa de la denuncia y sujeto obligado de adscripción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XX. El número de arrestos administrativos ordenados por el Pleno del Instituto, que contenga al menos el nombre del arrestado, causa del arresto y sujeto obligado de adscripción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXI. La estadística general del Estado y por sujeto obligado actualizada sobre solicitudes de acceso a la información y recursos en materia de información pública; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXII. La que acuerde el Pleno del Instituto.
 
 ###### Artículo 13.
 
@@ -575,9 +1021,57 @@ VII. Los criterios generales aprobados por el Consejo Ciudadano de la Comisión 
 
 VIII. Los informes mensuales del Presidente y anuales de la Comisión Estatal de Derechos Humanos;
 
-IX. Los manuales o material informativo sobre derechos humanos y presentación de quejas y denuncias, que produzca la Comisión Estatal de Derechos Humanos, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-X. La demás que acuerde el Consejo Ciudadano de la Comisión Estatal de Derechos Humanos.
+IX. Los manuales o material informativo sobre derechos humanos y presentación de quejas y denuncias que produzca la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. El teléfono, fax, correo electrónico o procedimiento para la presentación de quejas y denuncias de carácter urgente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. Los lineamientos generales de la actuación de la Comisión Estatal de Derechos Humanos y las recomendaciones emitidas por su Consejo Ciudadano;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. Las actas y versiones estenográficas de las sesiones del Consejo Ciudadano de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Las versiones públicas de los acuerdos de conciliación, previo consentimiento del quejoso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Listado de medidas precautorias, cautelares o equivalentes giradas, una vez concluido el expediente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XV. La información relacionada con hechos constitutivos de violaciones graves de derechos humanos o delitos de lesa humanidad, una vez determinados así por la autoridad competente, incluyendo, en su caso, las acciones de reparación del daño, atención a víctimas y de no repetición;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Los resultados de los estudios, publicaciones o investigaciones que realice;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Los programas de prevención, promoción y protección en materia de derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. El estado que guardan los derechos humanos en el sistema penitenciario y de reinserción social del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIX. El seguimiento, evaluación y monitoreo, en materia de igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XX. Los programas y las acciones de coordinación con las dependencias competentes para impulsar el cumplimiento de tratados de los que el Estado mexicano sea parte, en materia de derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXI. La demás que acuerde el Consejo Ciudadano de la Comisión Estatal de Derechos Humanos.
 
 ###### Artículo 14.
 
@@ -597,7 +1091,9 @@ c) Los nombres de quienes integren la dirigencia estatal;
 
 d) El padrón de sus afiliados, y
 
-e) El currículum y perfil de sus candidatos a cargos de elección popular estatales, distritales y municipales;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+e) El currículum de los candidatos a cargos de elección popular estatales, distritales y municipales;
 
 III. El registro de partidos políticos y agrupaciones políticas estatales, que contengan:
 
@@ -607,7 +1103,9 @@ b) Los nombres de quienes integren la dirigencia estatal;
 
 c) El padrón de sus afiliados, y
 
-d) El currículum y perfil de sus candidatos a cargos de elección popular estatales, distritales y municipales;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+d) El currículum de los candidatos a cargos de elección popular estatales, distritales y municipales;
 
 IV. Los convenios de los frentes, coaliciones y fusiones de partidos políticos;
 
@@ -621,7 +1119,9 @@ VIII. Las normas para el registro contable, las características de la documenta
 
 IX. El acuerdo sobre la división territorial del Estado en distritos uninominales y secciones electorales;
 
-X. Las resoluciones sobre el registro y acreditación de partidos políticos y agrupaciones políticas, así como la pérdida de los mismos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Las resoluciones sobre el registro y acreditación de partidos políticos y agrupaciones políticas, así como la pérdida de los mismos en el que se incluya la liquidación del patrimonio;
 
 XI. El calendario integral de los procesos electorales;
 
@@ -663,7 +1163,9 @@ XXIX. Los resultados mensuales de los muestreos de la cobertura de los medios de
 
 XXX. Las resoluciones sobre la implementación de sistemas electrónicos para recepción del voto;
 
-XXXI. Los archivos de video y audio de los debates organizados entre candidatos a gobernador;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXI. Los archivos de video y audio de los debates organizados entre candidatos a gobernador, diputados y munícipes;
 
 XXXII. El registro de organizaciones y empresas que realicen estudios de opinión, encuestas, sondeos y estudios similares;
 
@@ -695,13 +1197,57 @@ XLV. Las resoluciones de los medios de impugnación que conozca;
 
 XLVI. Los archivos electrónicos de video y audio de las sesiones del Consejo General;
 
-XLVII. Los cursos de capacitación, difusión y educación cívica, así como todas sus actividades en periodo no electoral, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XLVIII. La demás que acuerde el Consejo General del Instituto.
+XLVII. Los informes que presenten los partidos políticos, asociaciones y agrupaciones políticas o de ciudadanos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XLVIII. Las franquicias postales y telegráficas asignadas al partido político para el cumplimiento de sus funciones;
+
+> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XLIX. Los cursos de capacitación, difusión y educación cívica, así como todas sus actividades en periodo no electoral; y
+
+> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+L. La demás que acuerde el Consejo General del Instituto.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 14
+
+Bis. Información fundamental - Universidades públicas con autonomía.
+
+1. Es información pública fundamental de las universidades públicas con autonomía:
+
+I. La obligatoria para todos los sujetos obligados;
+
+II. Los planes y programas de estudio con las áreas de conocimiento, el perfil profesional de quien cursa el plan de estudios, la duración del programa con las asignaturas y su valor en créditos;
+
+III. Toda la información relacionada con sus procedimientos administrativos;
+
+IV. La remuneración de los profesores, incluyendo los estímulos al desempeño, nivel y monto;
+
+V. La lista con los profesores con licencia o en año sabático;
+
+VI. El listado de las becas y apoyos que otorgan, así como los procedimientos y requisitos para obtenerlos;
+
+VII. Las convocatorias de los concursos de oposición;
+
+VIII. La información relativa a los procesos de selección de los consejos;
+
+IX. Resultado de las evaluaciones del cuerpo docente;
+
+X. El listado de instituciones incorporadas y requisitos de incorporación; y
+
+XI. La información respecto a las empresas u organismos parauniversitarios (sic).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-Información fundamental - ayuntamientos
+Información fundamental - Ayuntamientos
 
 1. Es información pública fundamental de los ayuntamientos:
 
@@ -747,47 +1293,263 @@ XX. El Programa Municipal de Desarrollo Urbano, los planes de desarrollo urbano 
 
 XXI. La integración, las actas de las reuniones y los acuerdos del Consejo Municipal de Desarrollo Urbano;
 
-XXII. Las autorizaciones de nuevos fraccionamientos y los cambios de uso de suelo junto con las consultas públicas realizadas con los colonos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXII. Las autorizaciones de nuevos fraccionamientos y los cambios de uso de suelo junto con las consultas públicas realizadas con los colonos y la integración del expediente respectivo, en los términos del Código Urbano para el Estado de Jalisco;
 
 XXIII. Los indicadores de evaluación del desempeño;
 
-XXIV. La estadística de asistencias de las sesiones del ayuntamiento, de las comisiones edilicias y de los consejos ciudadanos municipales, que contenga el nombre de los regidores y funcionarios que participan;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. La estadística de asistencias y registro de votación de las sesiones del ayuntamiento, de las comisiones edilicias y de los consejos ciudadanos municipales, que contenga el nombre de los regidores y funcionarios que participan, el sentido del voto y, en su caso, los votos particulares;
 
 XXV. Los ingresos municipales por concepto de participaciones federales y estatales, así como por ingresos propios, que integre a la hacienda pública, y
 
 XXVI. La que establezca el Reglamento Interno de Información Pública del Municipio correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-Información fundamental - Partidos políticos
+Información fundamental - Partidos políticos y candidatos independientes
 
-1. Es información fundamental de los partidos políticos y agrupaciones políticas nacionales acreditadas, y los partidos políticos y las agrupaciones políticas estatales registrados, todos en el Instituto Electoral y de Participación Ciudadana, la siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. Es información fundamental de los partidos políticos y agrupaciones políticas nacionales acreditadas, de los partidos políticos y las agrupaciones políticas estatales registrados, ambos en el Instituto Electoral y de Participación Ciudadana, así como de las personas jurídicas constituidas en asociación civil creadas por los ciudadanos que pretendan postular su candidatura independiente, según corresponda, la siguiente:
 
 I. La obligatoria para todos los sujetos obligados;
 
-II. La declaración de principios, programa de acción, estatutos y demás normas internas;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-III. Los nombres y cargos de las dirigencias, estatal, distritales y municipales;
+II. El padrón de afiliados o militantes de los partidos políticos, que contendrá, exclusivamente: apellidos, nombre o nombres, fecha de afiliación y entidad de residencia;
 
-IV. Los informes trimestrales, anuales, de precampaña y de campaña sobre financiamiento;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-V. El origen y destino de los recursos públicos y privados que reciban, o de los que generen;
+III. Los acuerdos y resoluciones de los órganos de dirección de los partidos políticos;
 
-VI. La información contenida en los contratos que suscriban para la adquisición o arrendamiento de bienes y servicios, en los que se utilicen recursos públicos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VII. El inventario de los bienes muebles e inmuebles, con indicación de la fuente de financiamiento con que se adquirieron o arrendaron o que le sean donados;
+IV. Los convenios de participación entre partidos políticos y organizaciones de la sociedad civil;
 
-VIII. Los gastos de comunicación social;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IX. Las listas de los aspirantes candidatos a cargos de elección popular, y
+V. Contratos y convenios para la adquisición o arrendamiento de bienes y servicios;
 
-X. La que acuerde su dirigencia estatal.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Las minutas de las sesiones de los partidos políticos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Los responsables de los órganos internos de finanzas de los partidos políticos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Las organizaciones sociales adherentes o similares a algún partido político;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Los montos de las cuotas ordinarias y extraordinarias aportadas por sus militantes;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Los montos autorizados de financiamiento privado, así como una relación de los nombres de los aportantes vinculados con los montos aportados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. El listado de aportantes a las precampañas y campañas políticas:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. El acta de la asamblea constitutiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Las demarcaciones electorales en las que participen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Los tiempos que les corresponden en canales de radio y televisión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XV. Sus documentos básicos, plataformas electorales y programas de gobierno y los mecanismos de designación de los órganos de dirección en sus respectivos ámbitos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVI. El directorio de sus órganos de dirección nacional, estatal, municipal y, en su caso, regional, delegacional y distrital;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVII. El tabulador de remuneraciones que perciben los integrantes de los órganos a que se refiere la fracción anterior y de los demás funcionarios partidistas, que deberá vincularse con el directorio y estructura orgánica; así como cualquier persona que reciba ingresos por parte del partido político, independientemente de la función que desempeñe dentro o fuera del partido;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. El currículo con fotografía reciente de todos los precandidatos y candidatos a cargos de elección popular, con el cargo al que se postula, el distrito electoral y la entidad federativa; así como las versiones públicas de las declaraciones patrimonial y de intereses;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIX. El currículo de los dirigentes a nivel nacional, estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XX. Los convenios de frente, coalición o fusión que celebren o de participación electoral que realicen con agrupaciones políticas nacionales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Las convocatorias que emitan para la elección de sus dirigentes o la postulación de sus candidatos a cargos de elección popular y, en su caso, el registro correspondiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXII. Los responsables de los procesos internos de evaluación y selección de candidatos a cargos de elección popular, conforme a su normatividad interna;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. Informes sobre el gasto del financiamiento público ordinario recibido para la capacitación, promoción y desarrollo del liderazgo político de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. Las resoluciones dictadas por los órganos de control;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Los montos de financiamiento público otorgados mensualmente, en cualquier modalidad, a sus órganos nacionales, estatales y municipales, así como los descuentos correspondientes a sanciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXVI. El estado de situación financiera y patrimonial, el inventario de los bienes inmuebles de los que sean propietarios, así como los anexos que formen parte integrante de los documentos anteriores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXVII. Las resoluciones que emitan sus órganos disciplinarios de cualquier nivel, una vez que hayan causado estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXVIII. Los nombres de sus representantes ante la autoridad electoral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIX. Los mecanismos de control y supervisión aplicados a los procesos internos de selección de candidatos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXX. El listado de fundaciones, asociaciones, centros o institutos de investigación o capacitación o cualquier otro que reciba apoyo económico de los partidos políticos, así como los montos destinados para tal efecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXI. Las resoluciones que dicte la autoridad electoral competente respecto de los informes de ingresos y gastos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXII. Los gastos de comunicación social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXIII. Los informes trimestrales, anuales, de precampaña y de campaña sobre financiamiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXIV. La que acuerde su dirigencia estatal.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 16
+
+Bis. Información fundamental- Fideicomisos públicos
+
+1. Es información fundamental de los fideicomisos públicos, en lo que resulte aplicable a cada contrato, la siguiente:
+
+I. La obligatoria para todos los sujetos obligados;
+
+II. El nombre del servidor público y de la persona física o jurídica que represente al fideicomitente, al fiduciario y al fideicomisario;
+
+III. La unidad administrativa responsable del fideicomiso;
+
+IV. El monto total, el uso y destino del patrimonio fideicomitido, distinguiendo las aportaciones públicas y fuente de los recursos, los subsidios, donaciones, transferencias, excedentes, inversiones realizadas y aportaciones o subvenciones que reciban;
+
+V. El saldo total al cierre del ejercicio fiscal, sin perjuicio de los demás informes que deban presentarse en los términos de las disposiciones aplicables;
+
+VI. Las modificaciones que, en su caso, sufran los contratos o decretos de constitución del fideicomiso o del fondo público;
+
+VII. El padrón de beneficiarios, en su caso;
+
+VIII. Causas por las que, en su caso, se inicie el proceso de constitución o extinción del fideicomiso o fondo público, especificando, de manera detallada, los recursos financieros destinados para tal efecto; y
+
+IX. Los contratos de obras, adquisiciones y servicios que involucren recursos públicos del fideicomiso, así como los honorarios derivados de los servicios y operaciones que realice la institución de crédito o la fiduciaria.
+
+2. En el caso de los fideicomisos públicos que no cuenten con estructura orgánica y, por lo tanto, no sean considerados una entidad paraestatal, cumplirán con las obligaciones de esta Ley a través de la unidad administrativa responsable de coordinar su operación.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 16
+
+Ter. Información fundamental- Autoridades laborales
+
+1. Es información fundamental del Tribunal de Arbitraje y Escalafón y de la Junta Local de Conciliación y Arbitraje:
+
+I. La obligatoria para todos los sujetos obligados;
+
+II. Los documentos del registro de los sindicatos, que deberán contener, entre otros:
+
+a) El domicilio;
+
+b) Número de registro;
+
+c) Nombre del sindicato;
+
+d) Nombre de los integrantes del comité ejecutivo y comisiones que ejerzan funciones de vigilancia;
+
+e) Fecha de vigencia del comité ejecutivo;
+
+f) Número de socios;
+
+g) Centro de trabajo al que pertenezcan; y
+
+h) Central a la que pertenezcan, en su caso;
+
+III. Las tomas de nota;
+
+IV. El estatuto;
+
+V. El padrón de socios;
+
+VI. Las actas de asamblea;
+
+VII. Los reglamentos interiores de trabajo;
+
+VIII. Los contratos colectivos, incluyendo el tabulador, convenios y lascondiciones (sic) generales de trabajo;
+
+IX. Los datos estadísticos relativos a las Juntas Local y Especiales de Conciliación y Arbitraje, y del Tribunal de Arbitraje y Escalafón; y
+
+X. Todos los documentos contenidos en el expediente de registro sindical y de contratos colectivos de trabajo.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 16
+
+Quáter. Información fundamental- Sindicatos
+
+1. Los sindicatos que reciban y ejerzan recursos públicos deberán mantener actualizada y accesible, de forma impresa para consulta directa y en los respectivos sitios de Internet, la información obligatoria para todos los sujetos obligados, la señalada en el artículo anterior y la siguiente:
+
+I. Contratos y convenios entre sindicatos y autoridades, así como las condiciones generales de trabajo;
+
+II. El directorio del Comité Ejecutivo;
+
+III. El padrón de socios; y
+
+IV. La relación detallada de los recursos públicos económicos, en especie, bienes o donativos que reciban y el informe detallado del ejercicio y destino final de los recursos públicos que ejerzan.
+
+2 Por lo que se refiere a los documentos que obran en el expediente de registro de las asociaciones, únicamente estará clasificada como información confidencial, los domicilios de los trabajadores señalados en los padrones de socios.
+
+3. Los sujetos obligados que asignen recursos públicos a los sindicatos, deberán habilitar un espacio en sus páginas de Internet para que éstos cumplan con sus obligaciones de transparencia. En todo momento el sindicato será el responsable de la publicación, actualización y accesibilidad de la información.
 
 ### Capítulo II. De la Información Reservada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-Información reservada - catálogo
+Información reservada- Catálogo
 
 1. Es información reservada:
 
@@ -807,7 +1569,9 @@ f) Cause perjuicio grave a las actividades de prevención y persecución de los 
 
 g) Cause perjuicio grave a las estrategias procesales en procesos judiciales o procedimientos administrativos cuyas resoluciones no hayan causado estado;
 
-II. Las averiguaciones previas;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. Las carpetas de investigación, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad, o se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables;
 
 III. Los expedientes judiciales en tanto no causen estado;
 
@@ -815,43 +1579,65 @@ IV. Los expedientes de los procedimientos administrativos seguidos en forma de j
 
 V. Los procedimientos de responsabilidad de los servidores públicos, en tanto no se dicte la resolución administrativa o la jurisdiccional definitiva;
 
-VI. La que contenga opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, en tanto no se adopte la decisión definitiva;
+VI. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2015)
 
 VII. La entregada con carácter reservada o confidencial por autoridades federales o de otros estados, o por organismos internacionales;
 
-VIII. La considerada como secreto comercial, industrial, fiscal, bancario, fiduciario, bursátil o cualquier otro, por disposición legal expresa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. La considerada como secreto comercial, industrial, fiscal, bancario, fiduciario, bursátil, postal o cualquier otro, por disposición legal expresa, cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos;
 
 IX. Las bases de datos, preguntas o reactivos para la aplicación de exámenes de admisión académica, evaluación psicológica, concursos de oposición o equivalentes, y
 
 X. La considerada como reservada por disposición legal expresa.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 17
+
+Bis. Información reservada – Excepciones
+
+1. Los sujetos obligados que se constituyan como fideicomitentes, fideicomisarios o fiduciarios en fideicomisos que involucren recursos públicos, no podrán clasificar, por ese solo supuesto, la información relativa al ejercicio de éstos, como secreto bancario o fiduciario, sin perjuicio de las demás causales de clasificación que prevé la presente Ley.
+
+2. Los sujetos obligados que se constituyan como usuarios o como institución bancaria en operaciones que involucren recursos públicos, no podrán clasificar, por ese solo supuesto, la información relativa al ejercicio de éstos, como secreto bancario, sin perjuicio de las demás causales de clasificación que prevé la presente Ley.
+
+3. Los sujetos obligados que se constituyan como contribuyentes o como autoridades en materia tributaria, no podrán clasificar la información relativa al ejercicio de recursos públicos como secreto fiscal.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
-Información reservada - Negación
+Información reservada- Negación
 
-1. Para negar el acceso o entrega de información reservada, los sujetos obligados deben justificar que se cumple con lo siguiente:
+1. Para negar el acceso o entrega de información reservada, los sujetos obligados deben justificar lo siguiente:
 
-I. Que la información solicitada se encuentra prevista en alguna de las hipótesis de reserva que establece la ley;
+I. La información solicitada se encuentra prevista en alguna de las hipótesis de reserva que establece la ley;
 
-II. Que la revelación de dicha información atente efectivamente el interés público protegido por la ley, y
+II. La divulgación de dicha información atente efectivamente el interés público protegido por la ley, representando un riesgo real, demostrable e identificable de perjuicio significativo al interés público o a la seguridad estatal;
 
-III. Que el daño o perjuicio que se produce con la revelación de la información es mayor que el interés público de conocer la información de referencia.
+III. El daño o el riesgo de perjuicio que se produciría con la revelación de la información supera el interés público general de conocer la información de referencia; y
 
-2. Esta justificación se llevará a cabo a través de la prueba de daño, mediante el cual el Comité de Clasificación del sujeto obligado someterá los casos concretos de información solicitada a este ejercicio, debiéndose acreditar los tres elementos antes indicados, y cuyo resultado asentarán en un acta.
+IV. La limitación se adecua al principio de proporcionalidad y representa el medio menos restrictivo disponible para evitar el perjuicio.
 
-###### Artículo 19.
-
-Reserva - Periodos y Extinción
-
-1. La reserva de información pública será determinada por el sujeto obligado a través del Comité de Clasificación y nunca podrá exceder de seis años, a excepción de los casos en que se ponga en riesgo la seguridad en tanto subsista tal circunstancia, para lo cual deberá emitirse el acuerdo correspondiente.
-
-2. La información pública no podrá clasificarse como reservada cuando se refiera a investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad; sin embargo, en este caso el sujeto obligado deberá realizar una versión pública cuando la información contenga datos personales.
+2. Esta justificación se llevará a cabo a través de la prueba de daño, mediante el cual el Comité de Transparencia del sujeto obligado someterá los casos concretos de información solicitada a este ejercicio, debiéndose acreditar los cuatro elementos antes indicados, y cuyo resultado asentarán en un acta.
 
 3. La información pública que deje de considerarse como reservada pasará a la categoría de información de libre acceso, sin necesidad de acuerdo previo.
 
-4. En todo momento, el Instituto tendrá acceso a la información reservada y confidencial para determinar su debida clasificación, desclasificación o permitir su acceso.
+4. En todo momento el Instituto tendrá acceso a la información reservada y confidencial para determinar su debida clasificación, desclasificación o permitir su acceso.
 
-5. Siempre que se deniegue una información clasificada como reservada, los sujetos obligados deberán expedir una versión pública, en la que se supriman los datos reservados o confidenciales, y se señalen los fundamentos y motivaciones de esta restricción informativa, justificada en los términos de este artículo.
+5. Siempre que se deniegue una información clasificada como reservada los sujetos obligados deberán expedir una versión pública, en la que se supriman los datos reservados o confidenciales, y se señalen los fundamentos y motivaciones de esta restricción informativa, justificada en los términos de este artículo.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+Reserva- Periodos y Extinción
+
+1. La reserva de información pública será determinada por el sujeto obligado a través del Comité de Transparencia y nunca podrá exceder de cinco años, a excepción de los casos en que se ponga en riesgo la seguridad en tanto subsista tal circunstancia, para lo cual deberá emitirse el acuerdo correspondiente.
+
+2. La información pública no podrá clasificarse como reservada cuando se refiera a investigación de violaciones graves de derechos fundamentales o delitos de lesa humanidad; o se trate de información relacionada con actos de corrupción de acuerdo con las leyes aplicables; sin embargo, en estos casos el sujeto obligado deberá realizar una versión pública cuando la información contenga datos personales.
+
+3. Cuando un documento contenga partes o secciones reservadas o confidenciales, los sujetos obligados, para efectos de atender una solicitud de acceso a la información, deberán elaborar una versión pública en la que se testen las partes o secciones clasificadas, indicando su contenido de manera genérica y fundando y motivando su clasificación.
 
 ### Capítulo III. De la Información Confidencial
 
@@ -899,6 +1685,28 @@ b) No se lesionen derechos de terceros o se contravengan disposiciones de orden 
 
 III. La considerada como confidencial por disposición legal expresa.
 
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 21
+
+Bis. Información confidencial- Obligaciones
+
+1. Los sujetos obligados serán responsables de los datos personales en su posesión y, en relación con éstos, deberán:
+
+I. Adoptar los procedimientos adecuados para recibir y responder las solicitudes de acceso, rectificación, corrección y oposición al tratamiento de datos, en los casos que sea procedente, así como capacitar a los servidores públicos y dar a conocer información sobre sus políticas en relación con la protección de tales datos, de conformidad con la normatividad aplicable;
+
+II. Tratar datos personales sólo cuando éstos sean adecuados, pertinentes y no excesivos en relación con los propósitos para los cuales se hayan obtenido o dicho tratamiento se haga en ejercicio de las atribuciones conferidas por ley;
+
+III. Poner a disposición de los individuos, a partir del momento en el cual se recaben datos personales, el documento en el que se establezcan los propósitos para su tratamiento, en términos de la normatividad aplicable, excepto en casos en que el tratamiento de los datos se haga en ejercicio de las atribuciones conferidas por ley;
+
+IV. Procurar que los datos personales sean exactos y actualizados;
+
+V. Sustituir, rectificar o completar, de oficio, los datos personales que fueren inexactos, ya sea total o parcialmente, o incompletos, en el momento en que tengan conocimiento de esta situación; y
+
+VI. Adoptar las medidas necesarias que garanticen la seguridad de los datos personales y eviten su alteración, pérdida, transmisión y acceso no autorizado.
+
+2. Los sujetos obligados no podrán difundir, distribuir o comercializar los datos personales contenidos en los sistemas de información, desarrollados en el ejercicio de sus funciones, salvo que haya mediado el consentimiento expreso, por escrito o por un medio de autenticación similar, de los individuos a que haga referencia la información de acuerdo a la normatividad aplicable. Lo anterior, sin perjuicio a lo establecido por el artículo 22 de esta Ley.
+
 ###### Artículo 22.
 
 Información confidencial - Transferencia
@@ -921,9 +1729,25 @@ VII. Se transmita de autoridades estatales y municipales a terceros, para fines 
 
 VIII. Esté relacionada con el otorgamiento de estímulos, apoyos, subsidios y recursos públicos;
 
-IX. Sea necesaria para el otorgamiento de concesiones, autorizaciones, licencias o permisos, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-X. Sea considerada como no confidencial por disposición legal expresa.
+IX. Sea necesaria para el otorgamiento de concesiones, autorizaciones, licencias o permisos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Se trate de las versiones públicas de las declaraciones patrimoniales, de interés y fiscal de los servidores públicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. Sea necesaria por razones de seguridad estatal y salubridad general de competencia local, o para proteger los derechos de terceros, se requiera su publicación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. Sea considerada como no confidencial por disposición legal expresa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Para efectos de la fracción XI del presente artículo, el Instituto deberá aplicar la prueba de interés público. Además, se deberá corroborar una conexión patente entre la información confidencial y un tema de interés público y la proporcionalidad entre la invasión a la intimidad ocasionada por la divulgación de la información confidencial y el interés público de la información.
 
 ###### Artículo 23.
 
@@ -945,13 +1769,53 @@ V. Los demás que establezcan las disposiciones legales aplicables.
 
 3. En caso de conflicto entre familiares con igual parentesco por la titularidad de los derechos, lo resolverá la autoridad judicial competente.
 
-### Capítulo I. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo II. Del Comité de Clasificación
+### Capítulo IV. De la Información Proactiva y Focalizada
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 23
+
+Bis. Información Proactiva- Determinación
+
+1. El Sistema Nacional y el Instituto emitirán los criterios para evaluar la efectividad de la política de la transparencia proactiva, considerando como base la reutilización que la sociedad haga a la información.
+
+2. La Información que se publique como resultado de las políticas de transparencia deberá permitir la generación de conocimiento público útil para disminuir asimetrías de la información, mejorar los accesos a trámites y servicios, optimizar la toma de decisiones de autoridades o ciudadanos y deberá tener un objeto claro enfocado en las necesidades de sectores de la sociedad determinados o determinables.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 23
+
+Ter. Información Proactiva- Difusión
+
+1. La información publicada por los sujetos obligados, en el marco de la política de transparencia proactiva, se difundirá en los medios y formatos que más convenga al público al que va dirigida.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 23
+
+Quáter. Información Focalizada- Determinación
+
+1. La información pública focalizada se establece sobre prácticas específicas con el fin de hacer posible la evaluación oportuna, comparativa, sobre servicios, proyectos o políticas que establezcan o ejecuten los sujetos obligados, sobre un tema específico o relevante, que permita unificar criterios y generar información general y significativa de forma sistematizada y ordenada.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 23
+
+Quinquies. Información Focalizada - Publicación
+
+1. Los ciudadanos podrán proponer a los sujetos obligados la determinación de transparencia focalizada en los temas de su interés, de conformidad con los lineamientos que para tal efecto emita el Instituto.
+
+2. El Instituto podrá realizar recomendaciones, no vinculantes, a los sujetos obligados respecto de la determinación de transparencia focalizada, para que sean valoradas en el ejercicio de sus responsabilidades públicas, de oficio o a petición de los ciudadanos.
+
+### Capítulo I. Disposiciones Generales
 
 ## Título Tercero. De los Sujetos Obligados
 
-### Capítulo III. De la Unidad de Transparencia
+### Capítulo II. Del Comité de Transparencia
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 24.
 
@@ -965,31 +1829,85 @@ II. El Poder Ejecutivo del Estado de Jalisco;
 
 III. El Poder Judicial del Estado de Jalisco;
 
-IV. Los organismos públicos descentralizados estatales y municipales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-V. Las empresas de participación estatal y municipal;
+IV. La Auditoría Superior del Estado de Jalisco;
 
-VI. Los fideicomisos públicos estatales y municipales;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VII. Las universidades públicas con autonomía;
+V. Los organismos públicos descentralizados estatales y municipales;
 
-VIII. Los órganos jurisdiccionales dependientes del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IX. El Instituto Electoral y de Participación Ciudadana del Estado;
+VI. Las empresas de participación estatal y municipal;
 
-X. La Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XI. El Instituto;
+VII. Los fideicomisos públicos estatales, municipales y de organismos públicos descentralizados;
 
-XII. Los ayuntamientos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Los partidos políticos y las agrupaciones políticas nacionales, acreditados en el Instituto Electoral y de Participación Ciudadana del Estado;
+VIII. Las universidades públicas con autonomía;
 
-XIV. Los partidos políticos y las agrupaciones políticas estatales, con registro en el Instituto Electoral y de Participación Ciudadana del Estado;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XV. Los demás órganos y entes públicos que generen, posean o administren información pública, y
+IX. Los órganos jurisdiccionales dependientes del Poder Ejecutivo;
 
-XVI. Las personas físicas o jurídicas privadas que recauden, reciban, administren o apliquen recursos públicos estatales o municipales, sólo respecto de la información pública relativa a dichos recursos.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. El Tribunal Electoral del Estado de Jalisco;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. El Instituto Electoral y de Participación Ciudadana del Estado;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. La Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. El Instituto;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. El Consejo Estatal Económico y Social del Estado de Jalisco para el Desarrollo y la Competitividad;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XV. Los ayuntamientos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Los sindicatos, en los términos de la Ley General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Los partidos políticos y las agrupaciones políticas nacionales, acreditados en el Instituto Electoral y de Participación Ciudadana del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Los partidos políticos y las agrupaciones políticas estatales, con registro en el Instituto Electoral y de Participación Ciudadana del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIX. Los candidatos independientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XX. El Colegio de Notarios del Estado de Jalisco;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Los demás órganos y entes públicos que generen, posean o administren información pública; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXII. Las personas físicas o jurídicas privadas que recauden, reciban, administren o apliquen recursos públicos estatales o municipales, o realicen actos de autoridad, sólo respecto de la información pública relativa a dichos recursos. Para efectos de esta Ley tendrán calidad de autoridad las personas físicas o jurídicas que realicen actos equivalentes a los de la autoridad que afecten derechos de particulares y cuyas funciones estén determinadas por una ley o reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Respecto a la fracción XXII del presente artículo los sujetos obligados correspondientes deberán enviar al Instituto un listado de las personas físicas o jurídicas a los que, por cualquier motivo, asignaron recursos públicos o realicen actos de autoridad. El Instituto determinará, mediante el procedimiento establecido en el artículo 82 de la Ley General, los casos en que las personas físicas o jurídicas cumplirán con las obligaciones de transparencia y acceso a la información directamente o a través de los sujetos obligados que les asignen dichos recursos.
 
 ###### Artículo 25.
 
@@ -999,7 +1917,9 @@ Sujetos obligados - Obligaciones
 
 I. Promover la cultura de transparencia y el derecho a la información, en coordinación con el Instituto;
 
-II. Constituir su Comité y su Unidad, así como vigilar su correcto funcionamiento, con excepción de los sujetos obligados señalados en la fracción XVII del artículo anterior;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. Constituir su Comité y su Unidad, así como vigilar su correcto funcionamiento, con excepción de los sujetos obligados señalados en la fracción XIX del artículo anterior;
 
 III. Establecer puntos desconcentrados de su Unidad para la recepción de solicitudes y entrega de información, cuando sea necesario;
 
@@ -1009,19 +1929,17 @@ V. Orientar y facilitar al público la consulta y acceso a la información públ
 
 VI. Publicar permanentemente en internet o en otros medios de fácil acceso y comprensión para la población, así como actualizar al menos una vez al mes, la información fundamental que le corresponda;
 
-VII. Recibir las solicitudes de información pública dirigidas a él, remitir al Instituto las que no le corresponda atender, así como tramitar y resolver las que sí sean de su competencia;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Recibir las solicitudes de información pública dirigidas a él, remitir al Instituto las que no le corresponda atender, así como tramitar y dar respuesta a las que sí sean de su competencia;
 
 VIII. Implementar un sistema de recepción de solicitudes y entrega de información pública vía electrónica, que garantice el seguimiento de las solicitudes y genere los comprobantes de la recepción de la solicitud y de la información;
 
-IX. Emitir y publicar, de acuerdo a los lineamientos generales que expida el Instituto, sus criterios generales en materia de:
+IX. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2015)
 
-a) Clasificación de información pública;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-b) Publicación y actualización de información fundamental, y
-
-c) Protección de información confidencial y reservada;
-
-X. Analizar y clasificar la información pública en su poder, de acuerdo con sus criterios generales de clasificación;
+X. Analizar y clasificar la información pública en su poder, de acuerdo con los lineamientos estatales de clasificación;
 
 XI. Informar al Instituto de los sistemas de información reservada y confidencial que posean;
 
@@ -1033,13 +1951,17 @@ XIV. Proteger la información pública que tenga en su poder, contra riesgos nat
 
 XV. Proteger la información pública reservada y confidencial que tenga en su poder, contra acceso, utilización, sustracción, modificación, destrucción y eliminación no autorizados;
 
-XVI. Asentar en acta lo discutido y acordado en reuniones de órganos colegiados que formen parte del mismo, y publicar dichas actas, salvo las consideradas como reuniones reservadas por disposición legal expresa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Documentar los actos que deriven del ejercicio de sus facultades, competencias o funciones y acordado en reuniones de órganos colegiados que formen parte del mismo, y publicar dichas actas o minutas, así como el listado de acuerdos o resoluciones; salvo las consideradas como reuniones reservadas por disposición legal expresa;
 
 XVII. Utilizar adecuada y responsablemente la información pública reservada y confidencial en su poder;
 
 XVIII. Revisar que los datos de la información confidencial que reciba sean exactos y actualizados;
 
-XIX. Recibir y resolver las solicitudes de rectificación, modificación, corrección, sustitución, oposición o ampliación de datos de la información confidencial, cuando se lo permita la ley;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIX. Recibir y dar respuesta a las solicitudes de rectificación, modificación, corrección, sustitución, oposición o ampliación de datos de la información confidencial, cuando se lo permita la ley;
 
 XX. Registrar y controlar la transmisión a terceros, de información reservada o confidencial en su poder;
 
@@ -1049,7 +1971,9 @@ XXII. Revisar de oficio y periódicamente la clasificación de la información p
 
 XXIII. Proporcionar la información pública de libre acceso que le soliciten otros sujetos obligados;
 
-XXIV. Elaborar, publicar y enviar al Instituto, de forma electrónica, un informe mensual de las solicitudes de información, de dicho periodo, recibidas, atendidas y resueltas, así como el sentido de la resolución, el cual deberá presentarse dentro de los diez días hábiles siguientes al mes que se informa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. Elaborar, publicar y enviar al Instituto, de forma electrónica, un informe mensual de las solicitudes de información, de dicho periodo, recibidas, atendidas y resueltas, así como el sentido de la respuesta, el cual deberá presentarse dentro de los diez días hábiles siguientes al mes que se informa;
 
 XXV. Anunciar previamente el día en que se llevarán a cabo las reuniones públicas, cualquiera que sea su denominación, así como los asuntos públicos a discutir en éstas, con el propósito de que las personas puedan presenciar las mismas;
 
@@ -1057,9 +1981,71 @@ XXVI. Aprobar su reglamento en materia de transparencia y acceso a la informaci�
 
 XXVII. Desarrollar, en coordinación con el Instituto y de acuerdo a su disponibilidad presupuestal, los sistemas y esquemas necesarios para la realización de notificaciones a través de medios electrónicos e informáticos expeditos y seguros, entre el Instituto y el propio sujeto obligado;
 
-XXVIII. Certificar, por sí o a través del servidor público que señale su Reglamento Interior, sólo copias de documentos cuando puedan cotejarse directamente con el original o, en su caso, con copia debidamente certificada del mismo, en cuyo caso deberá hacerse constar dicha circunstancia, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XXIX. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+XXVIII. Certificar, por sí o a través del servidor público que señale su Reglamento Interior, sólo copias de documentos cuando puedan cotejarse directamente con el original o, en su caso, con copia debidamente certificada del mismo, en cuyo caso deberá hacerse constar dicha circunstancia;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXIX. Notificar al solicitante por correo electrónico si así lo requirió, correo postal con acuse de recibo o por estrados cuando no haya señalado datos para ser notificado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXX. Expedir en forma gratuita las primeras veinte copias simples relativas a la información solicitada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXI. Poner a disposición de las personas interesadas equipos de cómputo con acceso a Internet, que permita consultar la información o utilizar el sistema de solicitudes de acceso a la información en las oficinas de las Unidades de Transparencia. Lo anterior, sin perjuicio de que adicionalmente se utilicen medios alternativos de difusión de la información, cuando en determinadas poblaciones éstos resulten de más fácil acceso y comprensión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXII. Recibir las solicitudes de información vía telefónica, fax, correo, correo electrónico, telegrama, mensajería o por escrito o comparecencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXIII. Constituir y mantener actualizados sus sistemas de archivo y gestión documental, conforme a la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXIV. Promover la generación, documentación y publicación de la información en formatos abiertos y accesibles;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXV. Atender los requerimientos, observaciones, recomendaciones y criterios que, en materia de transparencia y acceso a la información, realicen el Instituto y el Sistema Nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXVI. Cumplir con las resoluciones emitidas por el Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXVII. Difundir proactivamente información de interés público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXVIII. Promover acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las repuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXIX. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+
+2. La lista de las obligaciones de los sujetos obligados deberá publicarse en las oficinas de las Unidades y en las oficinas de atención al público de los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 25
+
+Bis. Sujetos Obligados - Mejores Prácticas
+
+1. Para el cumplimiento de las obligaciones previstas en la presente Ley, los sujetos obligados podrán desarrollar o adoptar, en lo individual o en acuerdo con otros sujetos obligados, esquemas de mejores prácticas que tengan por objeto:
+
+I. Elevar el nivel de cumplimiento de las disposiciones previstas en la presente Ley;
+
+II. Armonizar el acceso a la información por sectores;
+
+III. Facilitar el ejercicio del derecho de acceso a la información a las personas; y
+
+IV. Procurar la accesibilidad de la información.
 
 2. La lista de las obligaciones de los sujetos obligados deberá publicarse en las oficinas de las Unidades y en las oficinas de atención al público de los sujetos obligados.
 
@@ -1081,25 +2067,43 @@ b) Por otros conceptos previstos en las leyes aplicables;
 
 IV. Difundir, distribuir, transferir, publicar o comercializar información confidencial sin autorización de su titular;
 
-V. Difundir, distribuir, transferir, publicar o comercializar información reservada, o permitir el acceso de personas no autorizadas por la Ley, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Lo demás que establezcan otras disposiciones legales aplicables.
+V. Difundir, distribuir, transferir, publicar o comercializar información reservada, o permitir el acceso de personas no autorizadas por la Ley;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Emitir acuerdos de carácter general ni particular que clasifiquen documentos o información como reservada. La clasificación podrá establecerse de manera parcial o total de acuerdo al contenido de la información del documento y deberá estar acorde con la actualización de los supuestos definidos en la Ley y en la Ley General. En ningún caso se podrán clasificar documentos antes de que se genere la información. La clasificación de información reservada se realizará conforme a un análisis caso por caso, mediante la aplicación de la prueba de daño;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Negar o retardar el acceso a la información en razón del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad del solicitante; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Lo demás que establezcan otras disposiciones legales aplicables.
 
 2. La lista de las prohibiciones de los sujetos obligados deberá publicarse en las oficinas de las unidades y en las oficinas de atención al público de los sujetos obligados.
 
-### Capítulo I. Disposiciones Generales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+### Capítulo III. De la Unidad de Transparencia
 
 ###### Artículo 27.
 
-Comité de Clasificación - Naturaleza y función
+Comité de Transparencia-Naturaleza y función.
 
-1. El Comité de Clasificación es el órgano interno del sujeto obligado encargado de la clasificación de la información pública.
+1. El Comité de Transparencia es el órgano interno del sujeto obligado encargado de la clasificación de la información pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-Comité de Clasificación - Integración
+Comité de Transparencia - Integración.
 
-1. El Comité de Clasificación se integra por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. El Comité de Transparencia se integra por:
 
 I. El titular del sujeto obligado cuando sea unipersonal o el representante oficial del mismo cuando sea un órgano colegiado, quien lo presidirá;
 
@@ -1107,43 +2111,65 @@ II. El titular de la Unidad, quien fungirá como Secretario, y
 
 III. El titular del órgano con funciones de control interno del sujeto obligado cuando sea unipersonal o el representante oficial del mismo cuando sea un órgano colegiado.
 
-2. Los sujetos obligados cuyo titular sea un órgano colegiado, pueden delegar mediante su reglamento interno de información pública, la función del Comité de Clasificación en el titular del órgano administrativo de mayor jerarquía que dependa de ellos.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-3. Las funciones del Comité de Clasificación, correspondientes a varios sujetos obligados, pueden concentrarse en un solo órgano, por acuerdo del superior jerárquico común a ellos.
+2. Los integrantes del Comité de Transparencia no podrán depender jerárquicamente entre sí, tampoco podrán reunirse dos o más de estos integrantes en una sola persona. Cuando se presente el caso, el titular del sujeto obligado tendrá que nombrar a la persona que supla al subordinado.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. Los sujetos obligados cuyo titular sea un órgano colegiado, pueden delegar mediante su reglamento interno de información pública, la función del Comité de Transparencia en el titular del órgano administrativo de mayor jerarquía que dependa de ellos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. Las funciones del Comité de Transparencia correspondientes a varios sujetos obligados, pueden concentrarse en un solo órgano, por acuerdo del superior jerárquico común a ellos.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 29.
 
-Comité de Clasificación - Funcionamiento
+Comité de Transparencia - Funcionamiento.
 
-1. El Comité de Clasificación debe sesionar cuando menos una vez cada cuatro meses o con la periodicidad que se requiera para atender los asuntos de su competencia.
+1. El Comité de Transparencia debe sesionar cuando menos una vez cada cuatro meses o con la periodicidad que se requiera para atender los asuntos de su competencia.
 
-2. El Comité de Clasificación requiere de la asistencia de cuando menos dos de sus integrantes para sesionar y sus decisiones se toman por mayoría simple de votos, con voto de calidad de su presidente en caso de empate.
+2. El Comité de Transparencia requiere de la asistencia de cuando menos dos de sus integrantes para sesionar y sus decisiones se toman por mayoría simple de votos, con voto de calidad de su presidente en caso de empate.
 
-3. El reglamento interno de información pública debe regular el funcionamiento del Comité de Clasificación.
+3. El reglamento interno de información pública debe regular el funcionamiento del Comité de Transparencia.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 30.
 
-Comité de Clasificación - Atribuciones
+Comité de Transparencia - Atribuciones.
 
-1. El Comité de Clasificación tiene las siguientes atribuciones:
+1. El Comité de Transparencia tiene las siguientes atribuciones:
 
-I. Elaborar y aprobar los criterios generales de clasificación del sujeto obligado respectivo, de acuerdo con esta ley y los lineamientos generales de clasificación del Instituto;
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
 
-II. Remitir al Instituto y a la Unidad correspondiente, los criterios generales de clasificación del sujeto obligado respectivo y sus modificaciones;
+II. Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los titulares de las áreas del sujeto obligado;
 
-III. Analizar y clasificar la información pública del sujeto obligado de acuerdo con esta ley, los lineamientos generales de clasificación del Instituto y sus criterios generales de clasificación;
+III. Ordenar, en su caso, a las áreas competentes, que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que, previa acreditación de la imposibilidad de su generación, exponga, de forma fundada y motivada, las razones por las cuales no ejercieron dichas facultades, competencias o funciones, lo anterior de conformidad con su normativa interna;
 
-IV. Elaborar, administrar y actualizar el registro de información pública protegida del sujeto obligado respectivo;
+IV. Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información;
 
-V. Revisar que los datos de la información confidencial que reciba sean exactos y actualizados;
+V. Promover la capacitación y actualización de los servidores públicos y de los integrantes adscritos a la Unidad;
 
-VI. Recibir y resolver las solicitudes de acceso, clasificación, rectificación, oposición, modificación, corrección, sustitución, cancelación o ampliación de datos de la información confidencial, cuando se lo permita la ley;
+VI. Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para todos los servidores públicos o integrantes del sujeto obligado;
 
-VII. Registrar y controlar la transmisión a terceros, de información reservada o confidencial en su poder, y
+VII. Recabar y enviar al Instituto, de conformidad con los lineamientos que éste expida, los datos necesarios para la elaboración del informe anual;
 
-VIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+VIII. Solicitar y autorizar la ampliación del plazo de reserva de la información, de conformidad con las disposiciones aplicables en la materia;
 
-### Capítulo II. Del Consejo del Instituto
+IX. Revisar que los datos de la información confidencial que reciba sean exactos y actualizados;
+
+X. Recibir y dar respuesta a las solicitudes de acceso, clasificación, rectificación, oposición, modificación, corrección, sustitución, cancelación o ampliación de datos de la información confidencial, cuando se lo permita la ley;
+
+XI. Registrar y controlar la transmisión a terceros, de información reservada o confidencial en su poder;
+
+XII. Establecer un índice de la información clasificada como confidencial o reservada; y
+
+XIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 31.
 
@@ -1151,7 +2177,9 @@ Unidad - Naturaleza y función
 
 1. La Unidad es el órgano interno del sujeto obligado encargado de la atención al público en materia de acceso a la información pública.
 
-2. Las funciones y atribuciones de la Unidad pueden asignarse a unidades administrativas del sujeto obligado, preferentemente a las encargadas de los asuntos jurídicos.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Las funciones y atribuciones de la Unidad se asignarán a los titulares de las unidades administrativas que dependan directamente del titular del sujeto obligado, preferentemente a las que cuenten con experiencia en la materia o a las encargadas de los asuntos jurídicos.
 
 3. Las funciones de la Unidad, correspondientes a varios sujetos obligados, pueden concentrarse en un solo órgano, por acuerdo del superior jerárquico común a ellos.
 
@@ -1165,7 +2193,9 @@ I. Administrar el sistema del sujeto obligado que opere la información fundamen
 
 II. Actualizar mensualmente la información fundamental del sujeto obligado;
 
-III. Recibir y resolver las solicitudes de información pública, para lo cual debe integrar el expediente, realizar los trámites internos y desahogar el procedimiento respectivo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. Recibir y dar respuesta a las solicitudes de información pública, para lo cual debe integrar el expediente, realizar los trámites internos y desahogar el procedimiento respectivo;
 
 IV. Tener a disposición del público formatos para presentar solicitudes de información pública:
 
@@ -1181,21 +2211,37 @@ VI. Asesorar gratuitamente a los solicitantes en los trámites para acceder a la
 
 VII. Asistir gratuitamente a los solicitantes que lo requieran para elaborar una solicitud de información pública;
 
-VIII. Requerir y recabar de las oficinas correspondientes la información pública de las solicitudes procedentes;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IX. Solicitar al Comité de Clasificación interpretación o modificación de la clasificación de información pública solicitada;
+VIII. Requerir y recabar de las oficinas correspondientes o, en su caso, de las personas físicas o jurídicas que hubieren recibido recursos públicos o realizado actos de autoridad, la información pública de las solicitudes procedentes;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Solicitar al Comité de Transparencia interpretación o modificación de la clasificación de información pública solicitada;
 
 X. Capacitar al personal de las oficinas del sujeto obligado, para eficientar la respuesta de solicitudes de información;
 
 XI. Informar al titular del sujeto obligado y al Instituto sobre la negativa de los encargados de las oficinas del sujeto obligado para entregar información pública de libre acceso;
 
-XII. Coadyuvar con el sujeto obligado en la promoción de la cultura de la transparencia y el acceso a la información pública, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+XII. Proponer al Comité de Transparencia procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información;
 
-## Título Cuarto. Del Instituto de Transparencia e Información Pública
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo III. De los Consejeros del Instituto
+XIII. Coadyuvar con el sujeto obligado en la promoción de la cultura de la transparencia y el acceso a la información pública; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+## Título Cuarto. Del Instituto de Transparencia, Información Pública y Protección de Datos Personales
+
+### Capítulo II. Del Pleno del Instituto
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 33.
 
@@ -1211,7 +2257,9 @@ Instituto - Integración
 
 1. El Instituto se integra por:
 
-I. El Consejo del Instituto, que es el órgano máximo de gobierno;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+I. El Pleno del Instituto, que es el órgano máximo de gobierno;
 
 II. La Secretaría Ejecutiva;
 
@@ -1235,7 +2283,9 @@ III. Promover la impartición del tema de la transparencia y el acceso a la info
 
 IV. Elaborar un manual de acceso a la información pública, claro y sencillo, para el público en general;
 
-V. Asesorar a la población sobre la forma de consultar y solicitar información pública, sobre los procedimientos de protección de datos personales, así como presentar los recursos que prevé la Ley;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Asesorar a la población sobre la forma de consultar y solicitar información pública, sobre los procedimientos de protección de datos personales, sobre la presentación de los recursos que prevé la Ley así como ante cual sujeto obligado deben presentar sus solicitudes de acceso a la información;
 
 VI. Promover la digitalización de la información pública en posesión de los sujetos obligados, el uso de las tecnologías de la información, así como la homogeneización del diseño, actualización, presentación, acceso, formatos de archivos y consulta de las páginas de internet de los sujetos obligados en la que publiquen la información fundamental;
 
@@ -1249,7 +2299,9 @@ X. Emitir y publicar en el periódico oficial El Estado de Jalisco, como informa
 
 XI. Promover y desarrollar los sistemas y esquemas necesarios para la realización de notificaciones entre el Instituto y los sujetos obligados, a través de medios electrónicos e informáticos expeditos y seguros;
 
-XII. Emitir de acuerdo a estándares nacionales e internacionales, y publicar en el periódico oficial Estado de Jalisco, los lineamientos generales de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. Emitir de acuerdo a estándares nacionales e internacionales, y publicar en el periódico oficial "El Estado de Jalisco", los lineamientos estatales de:
 
 a) Clasificación de información pública;
 
@@ -1263,13 +2315,9 @@ e) Transparencia en las ramas del sector público de seguridad pública, educaci
 
 f) Procedimiento y audiencias de conciliación;
 
-XIII. Autorizar, con base en los lineamientos generales que emita, los criterios generales de los sujetos obligados, en materia de:
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-a) Clasificación de información pública;
-
-b) Publicación y actualización de información pública fundamental, y
-
-c) Protección de información confidencial y reservada;
+XIII. Establecer políticas de transparencia proactiva;
 
 XIV. Elaborar y distribuir entre los sujetos obligados, para uso de la población, formatos guía para:
 
@@ -1289,7 +2337,7 @@ g) Presentar recursos de transparencia, y
 
 h) Los demás que considere necesarios y convenientes;
 
-XV. Validar los sistemas electrónicos de publicación de información pública fundamental y recepción de solicitudes de información pública de libre acceso, de los sujetos obligados;
+XV. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2015);
 
 XVI. Evaluar la transparencia de los sujetos obligados, según el cumplimiento de la publicación de la información fundamental correspondiente;
 
@@ -1303,7 +2351,9 @@ XX. Acceder en todo momento a la información pública de los sujetos obligados,
 
 XXI. Resolver sobre la clasificación de la información pública reservada o confidencial;
 
-XXII. Conocer y resolver el recurso de revisión, el recurso de transparencia y la revisión oficiosa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXII. Conocer y resolver el recurso de revisión, el recurso de protección de datos personales y el recurso de transparencia, con excepción del recurso de revisión en el que el Instituto es el recurrido;
 
 XXIII. Imponer las medidas de apremio y las sanciones correspondientes;
 
@@ -1323,9 +2373,41 @@ XXX. Gestionar y recibir fondos de organismos estatales, nacionales e internacio
 
 XXXI. Apoyar a los sujetos obligados municipales que no cuenten con los recursos y la capacidad para publicar su información fundamental vía internet de acuerdo a la disponibilidad presupuestaria;
 
-XXXII. Elaborar y presentar un informe anual de actividades y de la evaluación general en materia de acceso a la información pública en el Estado, ante el Congreso del Estado, dentro de la segunda quincena del mes de enero, dicho informe deberá incluir todo el ejercicio presupuestal, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XXXIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+XXXII. Promover la igualdad para el ejercicio del derecho de acceso a la información;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXIII. Garantizar condiciones de accesibilidad para que los grupos vulnerables puedan ejercer, en igualdad de circunstancias, su derecho de acceso a la información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXIV. Interponer acciones de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado que vulneren el derecho de acceso a la información pública y la protección de datos personales, previa aprobación del Pleno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXV. Determinar y ejecutar, según corresponda, las sanciones, de conformidad con lo señalado en la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXVI. Fomentar los principios de gobierno abierto, transparencia, rendición de cuentas, participación ciudadana, accesibilidad e innovación tecnológica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXVII. Elaborar y presentar un informe anual de actividades y de la evaluación general en materia de acceso a la información pública en el Estado, ante el Congreso del Estado, dentro de la segunda quincena del mes de enero, dicho informe deberá incluir todo el ejercicio presupuestal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XXXVIII. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. El Instituto verificará virtualmente, de manera aleatoria y periódica, que las obligaciones de transparencia que publiquen los sujetos obligados cumplan con lo dispuesto en esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. El Reglamento de esta Ley indicará las consideraciones a las que el Instituto se habrá de ajustar para la verificación de la información fundamental de los sujetos obligados, así como lo procedente en caso de detectar incumplimientos.
 
 ###### Artículo 36.
 
@@ -1351,37 +2433,49 @@ Instituto - Relaciones laborales
 
 3. Los servidores públicos del Instituto se sujetarán a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 38.
 
-Instituto - Remuneraciones
+Instituto - Remuneraciones.
 
-1. La remuneración bruta anual de los servidores públicos del Instituto, incluyendo todas las prestaciones, no podrá ser superior a la de los consejeros del Instituto, ni a la de su superior jerárquico.
+1. La remuneración bruta anual de los servidores públicos del Instituto, incluyendo todas las prestaciones, no podrá ser superior a la de los comisionados del Instituto, ni a la de su superior jerárquico.
 
-### Capítulo IV. De la Secretaría Ejecutiva
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+### Capítulo III. De los Comisionados del Instituto
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-Consejo - Integración
+Pleno-Integración
 
-1. El Consejo se integra por un consejero presidente y dos consejeros ciudadanos. La Presidencia será de carácter rotativo en los términos de la presente ley.
+1. El Pleno del Instituto se integra por un comisionado presidente y dos comisionados ciudadanos.
 
-2. Cada consejero propietario tiene su suplente.
+2. Cada comisionado propietario tiene su suplente.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-Consejo - Funcionamiento
+Pleno-Funcionamiento
 
-1. El Consejo requiere de la asistencia de más de la mitad de sus integrantes para sesionar válidamente y ejercer sus atribuciones. Entre los asistentes debe estar el Presidente.
+1. El Pleno del Instituto requiere de la asistencia de más de la mitad de sus integrantes para sesionar válidamente y ejercer sus atribuciones. Entre los asistentes debe estar el Presidente.
 
-2. El Consejo debe sesionar cuando menos una vez al mes.
+2. El Pleno del Instituto debe sesionar cuando menos una vez al mes.
 
-3. Las decisiones del Consejo se toman por el voto de más de la mitad de sus integrantes.
+3. Las decisiones del Pleno del Instituto se toman por el voto de más de la mitad de sus integrantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-Consejo - Atribuciones
+Pleno-Atribuciones
 
-1. El Consejo tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. El Pleno del Instituto tiene las siguientes atribuciones:
 
 I. Aprobar el Reglamento Interno del Instituto;
 
@@ -1395,7 +2489,9 @@ V. Designar y remover a los servidores públicos del Instituto;
 
 VI. Aprobar el Reglamento Marco de Información Pública para Sujetos Obligados;
 
-VII. Aprobar los lineamientos generales, y autorizar los criterios generales de los sujetos obligados, en materia de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Aprobar los lineamientos estatales en materia de:
 
 a) Clasificación de información pública;
 
@@ -1413,45 +2509,99 @@ XI. Aprobar las interpretaciones administrativas de la ley que corresponden al I
 
 XII. Aprobar las recomendaciones que emita el Instituto;
 
-XIII. Autorizar cualquier acto jurídico que celebre el Instituto, cuyos efectos trasciendan el periodo de los integrantes del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Autorizar cualquier acto jurídico que celebre el Instituto, cuyos efectos trasciendan el periodo de los comisionados;
 
 XIV. Enajenar su patrimonio inmobiliario, previa autorización del Congreso del Estado;
 
-XV. Dar constancia con estricto orden alfabético, del orden de rotación de la Presidencia de entre los Consejeros, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XVI. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
+XV. Dar constancia con estricto orden alfabético, del orden de rotación de la Presidencia de entre los comisionados;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Formar parte del Sistema Nacional, según la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Presentar petición fundada al Instituto Nacional para que conozca de los recursos de revisión que por su interés y trascendencia así lo ameriten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Coordinarse con las autoridades competentes para que en los procedimientos de acceso a la información, así como en los medios de impugnación, se contemple contar con la información necesaria en lenguas indígenas y formatos accesibles, para que sean sustanciados y atendidos en la misma lengua y, en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIX. Instruir al Presidente a interponer acciones de inconstitucionalidad, cuando así lo estime pertinente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XX. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Jalisco, la Ley General y otras disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-Presidente del Consejo - Atribuciones
+Presidente del Pleno-Atribuciones
 
-1. El Presidente del Consejo tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. El Presidente del Pleno del Instituto tiene las siguientes atribuciones:
 
 I. Representar formal y legalmente al Instituto;
 
-II. Convocar y conducir las sesiones del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-III. Elaborar y proponer el orden del día de las sesiones del Consejo;
+II. Convocar y conducir las sesiones del Pleno del Instituto;
 
-IV. Proponer al Consejo el nombramiento del Secretario Ejecutivo y los titulares de las unidades administrativas y desconcentradas del Instituto;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-V. Vigilar y dar seguimiento al cumplimiento de los acuerdos del Consejo;
+III. Elaborar y proponer el orden del día de las sesiones del Pleno del Instituto;
 
-VI. Elaborar y proponer al Consejo el anteproyecto de presupuesto de egresos del Instituto;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VII. Presentar un informe de su gestión anual ante el Consejo el último día hábil del mes de enero;
+IV. Proponer al Pleno del Instituto el nombramiento del Secretario Ejecutivo y los titulares de las unidades administrativas y desconcentradas del Instituto;
 
-VIII. Realizar la entrega-recepción formalmente al Presidente que lo sustituya, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IX. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+V. Vigilar y dar seguimiento al cumplimiento de los acuerdos del Pleno del Instituto;
 
-### Capítulo V. Del Consejo Consultivo
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Elaborar y proponer al Pleno del Instituto el anteproyecto de presupuesto de egresos del Instituto;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Presentar un informe de su gestión anual ante el Pleno del Instituto el último día hábil del mes de enero;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Realizar la entrega-recepción formalmente al Presidente que lo sustituya;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Representar al Instituto ante el Sistema Nacional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Interponer las acciones de inconstitucionalidad cuando así lo instruya el Pleno del Instituto; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+### Capítulo IV. De la Secretaría Ejecutiva
 
 ###### Artículo 43.
 
-Consejeros - Requisitos
+Comisionados-Requisitos
 
-1. Para ser consejero presidente o consejero ciudadano del Consejo del Instituto se requiere:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. Para ser comisionado presidente o comisionado ciudadano del Pleno del Instituto se requiere:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
 
@@ -1473,19 +2623,27 @@ IX. No haber contendido para un cargo de elección popular, o ejercido alguno, d
 
 X. No haber sido titular de alguna dependencia o entidad pública federal, estatal o municipal, magistrado o juez federales o estatales, durante los cinco años anteriores al día de su nombramiento;
 
-XI. No haber sido miembro de los órganos de gobierno de algún ente público, durante los cinco años anteriores al día de su nombramiento, con excepción de los miembros honoríficos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XII. No haber sido directivo, asociado, socio, fundador, o cualquier otro cargo de primer nivel de los organismos que conforman el Consejo Consultivo, durante los tres años anteriores al día de su nombramiento, y
+XI. No haber sido miembro de los órganos de gobierno de algún ente público, durante los cinco años anteriores al día de su nombramiento, con excepción de los miembros honoríficos; y
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. No haber sido directivo, asociado, socio, fundador, o cualquier otro cargo de primer nivel de los organismos que conforman el Consejo Consultivo, durante los tres años anteriores al día de su nombramiento.
 
 XIII. No haber sido titular de la Unidad de algún sujeto obligado durante los seis meses anteriores al día de su nombramiento.
 
 2. Los aspirantes deben presentar solicitud de conformidad con la convocatoria respectiva en la que el interesado autorice publicar el resultado de sus calificaciones y evaluación de su perfil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-Consejeros - Atribuciones
+Comisionados-Atribuciones
 
-1. Los Consejeros del Instituto tienen las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. Los comisionados del Instituto tienen las siguientes atribuciones:
 
 I. Proponer modificaciones al Reglamento Interno;
 
@@ -1495,59 +2653,83 @@ III. Solicitar al Presidente la celebración de sesiones extraordinaria (sic);
 
 IV. Proponer la implementación o modificación de manuales u ordenamientos de carácter administrativo en el Instituto;
 
-V. Proponer la celebración de convenios de colaboración con autoridades o particulares, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Las demás que establezca el reglamento interno.
+V. Proponer la celebración de convenios de colaboración con autoridades o particulares;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Representar al Instituto ante el Sistema Nacional, en los términos del artículo 32 de la Ley General; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Las demás que establezca el reglamento interno.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 45.
 
-Consejeros - Periodo
+Comisionados-Periodo
 
-1. Los consejeros del Instituto durarán en el cargo cuatro años, y podrán ser reelectos por un periodo más, en igualdad de condiciones frente a los demás aspirantes y de acuerdo al procedimiento ordinario.
+1. Los comisionados del Instituto durarán en el cargo cinco años, se realizará de manera escalonada para garantizar el principio de autonomía, y se procurará la igualdad de género.
 
-2. El Consejero Presidente será rotado cada año, sin que pueda ser reelecto para un periodo inmediato, y no podrá acceder a la presidencia en más de dos ocasiones, en un mismo periodo.
-
-3. El Consejero que fungirá como Presidente en el primer periodo será designado por el Congreso del Estado, en los siguientes periodos será el Consejero que le siga en estricto orden alfabético, y así sucesivamente.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 46.
 
-Consejeros - Elección
+Comisionados-Elección
 
-1. Los consejeros presidente y ciudadanos del Instituto son electos por el Congreso del Estado mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Asamblea, a propuesta del Consejo Consultivo.
+1. Los comisionados presidente y ciudadanos del Instituto son electos por el Congreso del Estado mediante el voto de cuando menos las dos terceras partes de los diputados integrantes de la Asamblea, a propuesta del Consejo Consultivo.
 
-###### Artículo 47.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-Consejeros - Suplencia
+Artículo 47 Comisionados-Suplencia
 
-1. Cualquier ausencia mayor a diez días y hasta sesenta días naturales de los Consejeros será suplida por el suplente respectivo, previa autorización del Consejo, la cual siempre será autorizada sin goce de sueldo.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-2. En caso del Presidente, éste será suplido por el Consejero titular que le siga en estricto orden alfabético, y será llamado el suplente del Presidente para integrar el Consejo en calidad de Consejero suplente en funciones. El Consejero suplente tendrá derecho a percibir la remuneración que corresponde a un Consejero Titular, durante el tiempo de suplencia.
+1. Cualquier ausencia mayor a diez días y hasta sesenta días naturales de los comisionados será suplida por el suplente respectivo, previa autorización del Pleno del Instituto, la cual siempre será autorizada sin goce de sueldo.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. En caso del Presidente, éste será suplido por el comisionado titular que le siga en estricto orden alfabético, y será llamado el suplente del Presidente para integrar el Pleno del Instituto en calidad de comisionado suplente en funciones. El comisionado suplente tendrá derecho a percibir la remuneración que corresponde a un comisionado titular, durante el tiempo de suplencia.
 
 3. Lo dispuesto en el párrafo primero no será aplicable en el caso de enfermedad o riesgo de trabajo, lo cual será regulado como lo prevé la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 48.
 
-Consejeros - Remuneración
+Comisionados-Remuneración
 
-1. La remuneración bruta anual de los consejeros presidente y ciudadanos, incluyendo todas las prestaciones, no podrá ser superior al equivalente a cincuenta salarios mínimos diarios, multiplicados por trescientos sesenta y cinco.
+1. La remuneración bruta anual de los comisionados presidente y ciudadanos, incluyendo todas las prestaciones, no podrá ser superior al equivalente a cincuenta salarios mínimos diarios, multiplicados por trescientos sesenta y cinco.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 49.
 
-Consejeros - Impedimentos
+Comisionados-Impedimentos y excusas
 
-1. Durante su encargo, los consejeros presidente y ciudadanos no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, siempre que no interfiera con sus funciones como consejero.
+1. Durante su encargo, los comisionados presidente y ciudadanos no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, siempre que no interfiera con sus funciones como comisionado.
 
-### Capítulo I. Del Procedimiento de Clasificación de Información
+2. Los comisionados deberán excusarse de intervenir de cualquier forma en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos en los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor o las personas antes referidas formen o hayan formado parte.
+
+3. Cuando los comisionados no se inhibieren a pesar de existir alguno de los impedimentos expresados en el párrafo anterior, procede la recusación a petición de cualquier interesado.
+
+### Capítulo V. Del Consejo Consultivo
 
 ###### Artículo 50.
 
 Secretaría Ejecutiva - Titular
 
-1. El Consejo, a propuesta del Presidente, nombrará un Secretario Ejecutivo quien durará en su encargo cuatro años, pudiendo ser ratificado por un periodo igual.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. El Pleno del Instituto, a propuesta del Presidente, nombrará un Secretario Ejecutivo quien durará en su encargo cinco años, pudiendo ser ratificado por un período igual.
 
 2. El Secretario Ejecutivo del Instituto se rige por los principios de eficiencia, imparcialidad, legalidad y especialidad.
 
-3. El Secretario Ejecutivo puede ser removido por el Consejo por causa justificada.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. El Secretario Ejecutivo puede ser removido por el Pleno del Instituto por causa justificada.
 
 ###### Artículo 51.
 
@@ -1555,25 +2737,41 @@ Secretaría Ejecutiva - Atribuciones
 
 1. El Secretario Ejecutivo tiene las siguientes atribuciones:
 
-I. Dar cuenta al Presidente del Instituto y a los consejeros de todas las comunicaciones que reciba el Instituto, así como de los antecedentes necesarios para la emisión de los acuerdos correspondientes;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-II. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que celebre el Consejo;
+I. Dar cuenta al Presidente del Instituto y a los comisionados de todas las comunicaciones que reciba el Instituto, así como de los antecedentes necesarios para la emisión de los acuerdos correspondientes;
 
-III. Remitir oportunamente a los consejeros, los citatorios, órdenes del día y material indispensable para las sesiones ordinarias y extraordinarias del Consejo;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IV. Llevar el control del libro de actas y firmarlo en compañía del Consejo;
+II. Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que celebre el Pleno del Instituto;
 
-V. Certificar y dar fe de los actos y acuerdos que emita el Consejo y de todos aquellos documentos que obren en poder del Instituto, así como de todos aquellos actos que éste efectúe en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Ejecutar y dar seguimiento a los acuerdos aprobados por el Consejo;
+III. Remitir oportunamente a los comisionados, los citatorios, órdenes del día y material indispensable para las sesiones ordinarias y extraordinarias del Pleno del Instituto;
 
-VII. Auxiliar a los consejeros en el cumplimiento de sus atribuciones;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Iniciar el procedimiento de responsabilidad administrativa que prevé la ley y formular el proyecto de resolución para, en su caso, aprobación definitiva por parte del Consejo, y
+IV. Llevar el control del libro de actas y firmarlo en compañía del Pleno del Instituto;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Certificar y dar fe de los actos y acuerdos que emita el Pleno del Instituto y de todos aquellos documentos que obren en poder del Instituto, así como de todos aquellos actos que éste efectúe en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Ejecutar y dar seguimiento a los acuerdos aprobados por el Pleno del Instituto;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Auxiliar a los comisionados en el cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Iniciar el procedimiento de responsabilidad administrativa que prevé la ley y formular el proyecto de respuesta para, en su caso, aprobación definitiva por parte del Pleno del Instituto; y
 
 IX. Las demás que establezca el Reglamento Interno del Instituto.
 
-### Capítulo II. Del Procedimiento de Protección de Información Confidencial
+### Capítulo I. Del Procedimiento de Clasificación de Información
 
 ###### Artículo 52.
 
@@ -1613,9 +2811,15 @@ XI. Tres representantes de la sociedad civil.
 
 6. Los Consejeros del Consejo Consultivo a que hacen referencia las fracciones I a la IX, elegirán a los representantes a que se refiere la fracción X del presente artículo, con cuando menos seis votos. Hecho lo anterior, procederán a elegir a los consejeros del Consejo Consultivo representantes de la sociedad civil, con cuando menos ocho votos.
 
-7. Se deberá nombrar un suplente por cada integrante titular, a excepción del Secretario Técnico.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+7. Se deberá nombrar un suplente por cada integrante titular, a excepción del Secretario Técnico, bajo los mismos principios en que se nombre al titular.
 
 8. En caso de que una institución de las que prevé el presente artículo decida no participar en el Consejo Consultivo, el lugar correspondiente será otorgado por los demás miembros del Consejo Consultivo por las dos terceras partes de los integrantes del Consejo Consultivo a un ciudadano o representante de institución con reconocimiento moral y experiencia en transparencia, en los términos del presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+9. La asistencia de los integrantes del Consejo Consultivo es obligatoria, y en caso de acumular tres faltas o más sin causa justificada, se procederá a la sustitución del consejero.
 
 ###### Artículo 53.
 
@@ -1627,9 +2831,11 @@ Consejo Consultivo - Funcionamiento
 
 3. Las decisiones del Consejo se toman por el voto de la mitad más uno de sus asistentes a la sesión, teniendo el Presidente del Consejo Consultivo voto de calidad para el caso de empate en la votación. Salvo la elección de la terna a que se refiere el artículo 58, la cual debe ser aprobada por las dos terceras partes de los integrantes del Consejo Consultivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 54.
 
-Consejo Consultivo - atribuciones
+Consejo Consultivo-Atribuciones
 
 1. El Consejo Consultivo tendrá las siguientes atribuciones:
 
@@ -1641,9 +2847,45 @@ III. Analizar los distintos problemas que se presenten según su importancia y, 
 
 IV. Promover la más amplia concertación entre los organismos públicos y privados, así como personas físicas y jurídicas, sin menoscabo de su respectiva autonomía, para fomentar el desarrollo de las áreas comunes y los programas interdisciplinarios en materia de transparencia y acceso a la información, incluyendo aspectos de capacitación y programas educativos;
 
-V. Proponer al Consejo los mecanismos de evaluación y calificación del desempeño del Instituto, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Remitir al Congreso del Estado la lista de aspirantes que hubieren acreditado el examen correspondiente con una calificación de al menos ochenta puntos sobre cien, para ocupar las vacantes de Consejeros del Instituto, con la aprobación de cuando menos diez votos.
+V. Proponer al Pleno del Instituto los mecanismos de evaluación y calificación del desempeño del Instituto;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Remitir al Congreso del Estado la lista de aspirantes que hubieren acreditado el examen correspondiente con una calificación de al menos ochenta puntos sobre cien, para ocupar las vacantes de comisionados del Instituto, con la aprobación de cuando menos diez votos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Aprobar el reglamento interno del Consejo Consultivo, a propuesta del Presidente.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Opinar sobre el programa anual de trabajo del Instituto y su cumplimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Opinar sobre el proyecto de presupuesto para el ejercicio fiscal del año siguiente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Conocer el informe del Instituto sobre el presupuesto asignado a programas y su ejercicio presupuestal y emitir las observaciones correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. Emitir opiniones no vinculantes, a petición del Instituto o por iniciativa propia, sobre temas relevantes en las materias de transparencia, acceso a la información, accesibilidad y protección de datos personales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. Emitir opiniones técnicas para la mejora continua en el ejercicio de las funciones sustantivas del Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Opinar sobre la adopción de criterios generales en materia sustantiva; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Analizar y proponer la ejecución de programas, proyectos y acciones relacionadas con la materia de transparencia y acceso a la información y su accesibilidad.
 
 ###### Artículo 55.
 
@@ -1695,9 +2937,13 @@ Consejo Consultivo - Periodo
 
 Consejo Consultivo - Propuesta de aspirantes
 
-1. La elección de los consejeros presidente y ciudadanos del Instituto se regirá por el siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-I. El Congreso del Estado emitirá una convocatoria pública para que el Consejo Consultivo reciba propuestas de aspirantes, cuando menos con dos meses de anticipación a la fecha de la renovación de los consejeros, la cual deberá contener como mínimo:
+1. La elección de los comisionados presidente y ciudadanos del Instituto se regirá por el siguiente procedimiento:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+I. El Congreso del Estado emitirá una convocatoria pública para que el Consejo Consultivo reciba propuestas de aspirantes, cuando menos con dos meses de anticipación a la fecha de la renovación de los comisionados, la cual deberá contener como mínimo:
 
 a) Los cargos vacantes, con la duración del periodo;
 
@@ -1705,13 +2951,17 @@ b) Los requisitos de elegibilidad y los documentos o medios de acreditación de 
 
 c) El periodo de registro de aspirantes, que no podrá ser inferior a tres días hábiles;
 
-d) El procedimiento para la evaluación de conocimientos en materia de transparencia e información pública de los candidatos;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+d) El procedimiento y los criterios para la evaluación de conocimientos en materia de transparencia e información pública de los candidatos;
 
 e) La fecha límite para la revisión de los requisitos de elegibilidad;
 
 f) La fecha límite para la votación de los candidatos elegibles;
 
-g) La aceptación por los aspirantes de la publicación de la calificación obtenida en la evaluación de conocimientos;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+g) La aceptación por los aspirantes de la publicación de la calificación obtenida en la evaluación de conocimientos, incluidos el nombre y la clave que le sea asignada;
 
 h) El procedimiento para el registro y acreditación de observadores ciudadanos;
 
@@ -1723,13 +2973,25 @@ b) La aplicación del examen se realizará en un lugar que permita el acceso a l
 
 c) Se otorgará a los aspirantes una clave para la presentación del examen correspondiente con la finalidad de mantener el anonimato de la calificación del mismo, publicándose sólo la clave y el resultado del examen;
 
-III. Una vez calificado el examen de conocimientos, el Consejo Consultivo deberá revisar que los aspirantes reúnan los requisitos de elegibilidad, y remitirá al Congreso del Estado, con veinte días naturales de anticipación a la renovación de los Consejeros, la lista de los aspirantes que hubieren obtenido una calificación igual o mayor a ochenta sobre cien, y publicará la lista total de los resultados en los estrados del Instituto y en su página de Internet;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IV. El Congreso del Estado, dentro de los siguientes diez días naturales a la recepción de la lista de aspirantes, en votación por cédula, depositada en urna transparente, y por el voto de cuando menos las dos terceras partes de los diputados que integran la Asamblea, debe elegir a quienes deban cubrir las vacantes de consejeros presidente y ciudadanos, propietarios y suplentes;
+III. Una vez calificado el examen de conocimientos, el Consejo Consultivo deberá revisar que los aspirantes reúnan los requisitos de elegibilidad, y remitirá al Congreso del Estado, con veinte días naturales de anticipación a la renovación de los comisionados, la lista de los aspirantes que hubieren obtenido una calificación igual o mayor a ochenta sobre cien, y publicará la lista total de los resultados en los estrados del Instituto y en su página de Internet;
 
-V. En caso de que no se alcance la mayoría requerida, se realizará una segunda votación; si vuelve a no alcanzarse la mayoría requerida podrá suspenderse la votación hasta por un día hábil o realizarse una tercera votación enseguida; si vuelve a no alcanzarse la mayoría requerida se procederá a elegir a los consejeros mediante insaculación con urna transparente de entre los candidatos, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. En caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción III de este artículo, el Congreso del Estado realizará el procedimiento de elección de conformidad con el presente numeral, ajustando los tiempos para el debido cumplimiento del procedimiento, y nombrar a los Consejeros previo al vencimiento de la fecha en la que deban ser renovados.
+IV. El Congreso del Estado, tomando en consideración lo establecido en el artículo 38 de la Ley General, dentro de los siguientes diez días naturales a la recepción de la lista de aspirantes, en votación por cédula, depositada en urna transparente, y por el voto de cuando menos las dos terceras partes de los diputados que integran la Asamblea, debe elegir a quienes deban cubrir las vacantes de comisionados presidente y ciudadanos, propietarios y suplentes;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. En caso de que no se alcance la mayoría requerida, se realizará una segunda votación; si vuelve a no alcanzarse la mayoría requerida podrá suspenderse la votación hasta por un día hábil o realizarse una tercera votación enseguida; si vuelve a no alcanzarse la mayoría requerida se procederá a elegir a los comisionados mediante insaculación con urna transparente de entre los candidatos; y
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. En caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción III de este artículo, el Congreso del Estado realizará el procedimiento de elección de conformidad con el presente numeral, ajustando los tiempos para el debido cumplimiento del procedimiento, y nombrar a los comisionados previo al vencimiento de la fecha en la que deban ser renovados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Todas las etapas del procedimiento de elección se regirán bajo los principios de transparencia y rendición de cuentas.
 
 ###### Artículo 59.
 
@@ -1739,47 +3001,49 @@ Consejo Consultivo - Suplencia Consejeros
 
 ## Título Quinto. De los Procedimientos Administrativos
 
-### Capítulo III. Del Procedimiento de Acceso a la Información
+### Capítulo II. Del Procedimiento de Protección de Información Confidencial
 
 ###### Artículo 60.
 
 Procedimiento de clasificación - Tipos
 
-1. La clasificación de la información pública se lleva a cabo mediante los siguientes procedimientos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. La clasificación de la información pública se realizará conforme a lo establecido en el artículo 109 de la Ley General y, en su caso, bajo los siguientes procedimientos:
 
 I. Procedimiento de clasificación inicial, y
 
 II. Procedimiento de modificación de clasificación.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 61.
 
-Procedimiento de clasificación - Etapas
+Procedimiento de clasificación-Clasificación inicial
 
-1. El procedimiento de clasificación inicial de información pública se integra por las siguientes etapas:
+1. El procedimiento de clasificación inicial de información pública se hará por los titulares de cada una de las áreas o unidades administrativas del sujeto obligado.
 
-I. Emisión de los criterios de clasificación, por parte del sujeto obligado;
-
-II. Autorización de los criterios de clasificación del sujeto obligado, por parte del Instituto;
-
-III. Registro de los criterios de clasificación del sujeto obligado ante el Instituto, y
-
-IV. Clasificación particular de la información pública por el sujeto obligado.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 62.
 
-Procedimiento de modificación - Causas
+Procedimiento de modificación-Causas
 
 1. El procedimiento de modificación de clasificación puede iniciarse:
 
-I. De oficio por el propio sujeto obligado; o
+I. De oficio por el propio sujeto obligado;
 
-II. Por resolución del Instituto, con motivo de:
+II. Por la recepción de una solicitud de acceso a la información;
+
+III. Por respuesta del Instituto, con motivo de:
 
 a) Una revisión de clasificación; o
 
-b) Un recurso de revisión.
+b) Un recurso de revisión;
 
-2. Toda modificación de clasificación debe tener como sustento la Ley, los lineamientos generales de clasificación del Instituto y los criterios generales de clasificación del sujeto obligado.
+IV. Por generarse versiones públicas para dar cumplimiento a las obligaciones de transparencia previstas en esta Ley.
+
+2. Toda modificación de clasificación debe tener como sustento la Ley, los lineamientos estatales de clasificación del Instituto y los que emita el Sistema Nacional.
 
 ###### Artículo 63.
 
@@ -1787,11 +3051,13 @@ Procedimiento de modificación - De oficio
 
 1. El procedimiento de modificación de clasificación de oficio se rige por lo siguiente:
 
-I. El sujeto obligado debe realizar revisiones de la clasificación de la información pública en su poder, con la periodicidad que determine su reglamento interno de información pública, que en ningún caso será menor a una revisión por año;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+I. El sujeto obligado debe realizar revisiones de la clasificación de la información pública en su poder, de conformidad al Título Sexto de la Ley General, con la periodicidad que determine su reglamento interno de información pública, que en ningún caso será menor a una revisión por año;
 
 II. La revisión tendrá por objeto:
 
-a) Revisar y, en su caso, actualizar sus criterios de clasificación de información;
+a) (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2015)
 
 b) Clasificar aquella información que se genere u obtenga durante el periodo entre la revisión anterior y la que se realiza;
 
@@ -1803,7 +3069,27 @@ III. La revisión deberá realizarse en un periodo no mayor a treinta días natu
 
 IV. Del proceso de revisión se deberá elaborar un informe detallado, que se publicará como información fundamental del sujeto obligado, dentro de los diez días naturales siguientes a la terminación de dicho proceso, y
 
-V. El Reglamento regulará este procedimiento.
+V. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2015)
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 63
+
+Bis. Procedimiento de modificación-Por presentación de solicitud de acceso a la información
+
+1. En caso de que los sujetos obligados consideren que la información deba ser clasificada derivado de la presentación de una solicitud de acceso a la información, se sujetará a lo siguiente:
+
+I. El área correspondiente deberá remitir la solicitud, así como un escrito en el que funde y motive la clasificación al Comité de Transparencia, mismo que deberá resolver para:
+
+a) Confirmar la clasificación;
+
+b) Modificar la clasificación y otorgar total o parcialmente el acceso a la información; o
+
+c) Revocar la clasificación y conceder el acceso a la información.
+
+II. El Comité de Transparencia podrá tener acceso a la información que esté en poder del área correspondiente, de la cual se haya solicitado su clasificación; y
+
+III. La resolución del Comité de Transparencia será notificada al interesado dentro del plazo de respuesta a la solicitud que establece la presente Ley.
 
 ###### Artículo 64.
 
@@ -1827,19 +3113,21 @@ VII. El Instituto debe emitir y notificar al sujeto obligado la resolución sobr
 
 VIII. El sujeto obligado tiene un plazo de cinco días hábiles, contados a partir de la notificación, para acatar la resolución definitiva del Instituto y notificar al mismo su cumplimiento, y
 
-IX. El Reglamento podrá regular este procedimiento.
+IX. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2015)
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 65.
 
 Procedimiento de modificación - Recurso de revisión
 
-1. El procedimiento de modificación de clasificación por resolución de recurso de revisión se rige por lo siguiente:
+1. El procedimiento de modificación de clasificación por respuesta de recurso de revisión se rige por lo siguiente:
 
-I. El Instituto debe notificar la resolución definitiva derivada de un recurso de revisión que origina la modificación de clasificación, dentro de los tres días hábiles siguientes a su emisión, y
+I. El Instituto debe notificar la respuesta definitiva derivada de un recurso de revisión que origina la modificación de clasificación, dentro de los tres días hábiles siguientes a su emisión; y
 
-II. El sujeto obligado tiene un plazo de cinco días hábiles para acatar la resolución definitiva del Instituto y notificar al mismo su cumplimiento.
+II. El sujeto obligado tiene un plazo de cinco días hábiles para acatar la respuesta definitiva del Instituto y notificar al mismo su cumplimiento.
 
-### Capítulo I. Del Recurso de Revisión
+### Capítulo III. Del Procedimiento de Acceso a la Información
 
 #### Sección Primera. Disposiciones Generales
 
@@ -1861,7 +3149,9 @@ Información confidencial - Procedimiento de protección
 
 I. Presentación y admisión de solicitud del particular o su representante legal, e
 
-II. Integración del expediente y resolución de la solicitud.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. Integración del expediente y respuesta de la solicitud.
 
 #### Sección Segunda. De la Solicitud de Protección
 
@@ -1903,15 +3193,19 @@ Solicitud de Protección - Lugar de presentación
 
 3. Cuando se presente una solicitud de protección de información confidencial ante el Instituto, éste debe remitirla al sujeto obligado que corresponda su atención y notificarlo al solicitante, dentro de los dos días hábiles siguientes a su recepción.
 
-4. Al interior del sujeto obligado que corresponda su atención, la oficina que reciba la solicitud de protección de información confidencial debe remitirla al Comité de Clasificación, al día hábil siguiente a su recepción, para su desahogo y resolución.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. Al interior del sujeto obligado que corresponda su atención, la oficina que reciba la solicitud de protección de información confidencial debe remitirla al Comité de Transparencia, al día hábil siguiente a su recepción, para su desahogo y respuesta.
 
 5. El Instituto debe apoyar al solicitante en el trámite de solicitud de protección y suplir la deficiencia de la solicitud.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 71.
 
-Solicitud de Protección - Información Complementaria
+Solicitud de Protección - Información Complementaria.
 
-1. El sujeto obligado puede en cualquier tiempo, hasta antes de emitir su resolución, solicitar a las autoridades o particulares los informes y aclaraciones necesarias para corroborar la veracidad de lo dicho por el solicitante.
+1. El sujeto obligado puede en cualquier tiempo, hasta antes de emitir su respuesta, solicitar a las autoridades o particulares los informes y aclaraciones necesarias para corroborar la veracidad de lo dicho por el solicitante.
 
 #### Sección Tercera. De la Procedencia de la Solicitud de Protección
 
@@ -1919,9 +3213,13 @@ Solicitud de Protección - Información Complementaria
 
 Solicitud de protección - Revisión de requisitos
 
-1. El Comité de Clasificación debe revisar que la solicitud de protección de información confidencial cumpla con los requisitos que señala el artículo 68 y resolver sobre su admisión dentro de los tres días hábiles siguientes a su presentación.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-2. Si a la solicitud le falta algún requisito, el Comité de Clasificación debe notificarlo al solicitante dentro del plazo anterior, y prevenirlo para que lo subsane dentro de los cinco días hábiles siguientes a la notificación de dicha prevención.
+1. El Comité de Transparencia debe revisar que la solicitud de protección de información confidencial cumpla con los requisitos que señala el artículo 68 y dar respuesta sobre su admisión dentro de los tres días hábiles siguientes a su presentación.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Sí a la solicitud le falta algún requisito, el Comité de Transparencia debe notificarlo al solicitante dentro del plazo anterior, y prevenirlo para que lo subsane dentro de los cinco días hábiles siguientes a la notificación de dicha prevención.
 
 3. Si entre los requisitos faltantes se encuentran aquellos que hagan imposible notificar al solicitante esta situación, el sujeto obligado queda eximido de cualquier responsabilidad hasta en tanto vuelva a comparecer el solicitante.
 
@@ -1929,7 +3227,9 @@ Solicitud de protección - Revisión de requisitos
 
 Solicitud de Protección - Integración del expediente
 
-1. El Comité de Clasificación debe integrar un expediente por cada solicitud de protección de información confidencial admitida y asignarle un número único progresivo de identificación.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. El Comité de Transparencia debe integrar un expediente por cada solicitud de protección de información confidencial admitida y asignarle un número único progresivo de identificación.
 
 2. El expediente debe contener:
 
@@ -1937,25 +3237,35 @@ I. El original de la solicitud, con sus anexos, en su caso;
 
 II. Las actuaciones de los trámites realizados en cada caso;
 
-III. El original de la resolución, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. El original de la respuesta; y
 
 IV. Los demás documentos que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 74.
 
-Solicitud de Protección - Resolución
+Solicitud de Protección - Respuesta
 
-1. El Comité de Clasificación debe resolver y notificar al solicitante, dentro de los diez días hábiles siguientes a la admisión de la solicitud correspondiente, sobre la procedencia de su solicitud, de acuerdo con esta ley, los lineamientos generales de protección de información confidencial y reservada, y los criterios generales de protección de información confidencial y reservada del propio sujeto obligado.
+1. El Comité de Transparencia debe dar respuesta y notificar al solicitante, dentro de los diez días hábiles siguientes a la admisión de la solicitud correspondiente, sobre la procedencia de su solicitud, de acuerdo con esta ley, y los lineamientos estatales de protección de información confidencial y reservada emitidos por el Instituto.
 
-2. Cuando se requiera mayor tiempo para resolver, el sujeto obligado podrá ampliar el plazo anterior mediante acuerdo fundado y motivado hasta por cinco días hábiles adicionales, lo cual debe notificarlo al solicitante.
+2. Cuando se requiera mayor tiempo para dar respuesta, el sujeto obligado podrá ampliar el plazo anterior mediante acuerdo fundado y motivado hasta por cinco días hábiles adicionales, lo cual debe notificarlo al solicitante.
 
-#### Sección Cuarta. De la Resolución a la Solicitud de Protección
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+#### Sección Cuarta. De la Respuesta a la Solicitud de Protección
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 75.
 
-Resolución de Protección - Contenido
+Respuesta de Protección - Contenido
 
-1. La resolución de una solicitud de protección de información confidencial debe contener:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. La respuesta de una solicitud de protección de información confidencial debe contener:
 
 I. Nombre del sujeto obligado correspondiente;
 
@@ -1963,19 +3273,23 @@ II. Número de expediente de la solicitud;
 
 III. Datos de la solicitud;
 
-IV. Motivación y fundamentación sobre el sentido de la resolución;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Motivación y fundamentación sobre el sentido de la respuesta;
 
 V. Puntos resolutivos sobre la procedencia de la solicitud, y
 
 VI. Lugar, fecha, nombre y firma de quien resuelve.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 76.
 
-Resolución de Protección - Sentido
+Respuesta de Protección - Sentido
 
-1. El Comité de Clasificación puede resolver una solicitud de protección de información confidencial en sentido procedente, procedente parcialmente e improcedente.
+1. El Comité de Transparencia puede dar respuesta una (sic) solicitud de protección de información confidencial en sentido procedente, procedente parcialmente e improcedente.
 
-### Capítulo II. De la Revisión Oficiosa
+### Capítulo I. Del Recurso de Revisión
 
 #### Sección Primera. Disposiciones generales
 
@@ -1987,75 +3301,125 @@ Procedimiento de Acceso - Etapas
 
 I. Presentación de la solicitud de información;
 
-II. Integración del expediente y resolución sobre la procedencia de la solicitud de información, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. Integración del expediente y respuesta sobre la procedencia de la solicitud de información; y
 
 III. Acceso a la información pública solicitada, en su caso.
 
-#### Sección Segunda. De la Solicitud de Información
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+#### Sección Segunda. De la Solicitud de Acceso a la Información
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 78.
 
-Solicitud de Información - Derecho
+Solicitud de Acceso a la Información - Derecho
 
 1. Toda persona por sí o por medio de representante legal, tiene derecho a presentar solicitud de acceso a la información, sin necesidad de sustentar justificación o motivación alguna.
 
-2. Los sujetos obligados deberán brindar a las personas con discapacidad las facilidades necesarias para llevar a cabo el procedimiento para consultar o solicitar información pública.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Los sujetos obligados deberán brindar a las personas con discapacidad o que hablen lenguas indígenas, las facilidades necesarias para llevar a cabo el procedimiento para consultar o solicitar información pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 79.
 
-Solicitud de Información - Requisitos
+Solicitud de Acceso a la Información - Requisitos
 
-1. La solicitud de información pública debe hacerse en términos respetuosos y contener cuando menos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. La solicitud de acceso a la información pública debe hacerse en términos respetuosos y contener cuando menos:
 
 I. Nombre del sujeto obligado a quien se dirige;
 
-II. Nombre del solicitante y autorizados para recibir la información, en su caso;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. Nombre del solicitante o seudónimo y autorizados para recibir la información, en su caso;
 
 III. Domicilio, número de fax, correo electrónico o los estrados de la Unidad, para recibir notificaciones, e
 
 IV. Información solicitada, incluida la forma y medio de acceso de la misma, la cual estará sujeta a la posibilidad y disponibilidad que resuelva el sujeto obligado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. La información de la fracción II del presente artículo será proporcionada por el solicitante de manera opcional y, en ningún caso, podrá ser un requisito indispensable para la procedencia de la solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 80.
 
-Solicitud de Información - Forma de presentación
+Solicitud de Acceso a la Información - Forma de presentación
 
-1. La solicitud de información pública debe presentarse:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-I. Por escrito y con acuse de recibo;
+1. La solicitud de acceso a la información pública debe presentarse:
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+I. Vía telefónica, fax, correo, correo electrónico, telegrama, mensajería o por escrito;
 
 II. Por comparecencia personal ante la Unidad, donde debe llenar la solicitud que al efecto proveerá dicha Unidad, o
 
 III. En forma electrónica, cuando el sujeto obligado cuente con el sistema de recepción de solicitudes por esta vía, que genere el comprobante respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 81.
 
-Solicitud de Información - Lugar de presentación
+Solicitud de Acceso a la Información - Lugar de presentación
 
-1. La solicitud de información pública debe presentarse ante la Unidad del sujeto obligado.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. La solicitud de acceso a la información pública debe presentarse ante la Unidad del sujeto obligado.
 
 2. Cuando se presente una solicitud de información pública ante una oficina distinta a la Unidad del sujeto obligado, el titular de dicha oficina debe remitirla a la Unidad respectiva y notificarlo al solicitante, dentro del día hábil siguiente a su recepción.
 
-3. Cuando se presente una solicitud de información pública ante una oficina de un sujeto obligado distinto al que corresponda atender dicha solicitud, el titular de la unidad de información pública del sujeto obligado que la recibió deberá remitirla al Instituto y notificarlo al solicitante, dentro del día hábil siguiente a su recepción, para que el Instituto notifique al solicitante, dentro de los tres días hábiles siguientes a su recepción, el sujeto obligado ante el cual deberá presentar su solicitud de información.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-4. Cuando se presente una solicitud de información pública ante el Instituto, éste debe remitirla al sujeto obligado que corresponda su atención y notificarlo al solicitante, dentro de los tres días hábiles siguientes a su recepción.
+3. Cuando se presente una solicitud de acceso a la información pública ante una oficina de un sujeto obligado distinto al que corresponda atender dicha solicitud, el titular de la unidad de información pública del sujeto obligado que la recibió deberá remitida al sujeto obligado que considere competente y notificarlo al solicitante, dentro del día hábil siguiente a su recepción. Al recibirla el nuevo sujeto obligado, en caso de ser competente, la tramitará en los términos que establece la presente Ley.
 
-#### Sección Tercera. De la Procedencia de la Solicitud de Información
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. En caso de que el nuevo sujeto obligado considere no ser competente remitirá la solicitud de acceso a la información al Instituto para que éste notifique al sujeto obligado competente, el cual deberá tramitar la solicitud de acceso a la información y notificar al solicitante dentro del día hábil siguiente a su recepción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+5. En caso de que se presente una solicitud de acceso a la información pública ante el Instituto y éste no sea competente lo remitirá al sujeto obligado competente en los términos de los numerales anteriores.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+#### Sección Tercera. De la Procedencia de la Solicitud de Acceso a la Información
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 82.
 
-Solicitud de Información - Revisión de requisitos
+Solicitud de Acceso a la Información - Revisión de requisitos
 
-1. La Unidad debe revisar que las solicitudes de información pública cumplan con los requisitos que señala el artículo 79 y resolver sobre su admisión, a los dos días hábiles siguientes a su presentación.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. La Unidad debe revisar que las solicitudes de acceso a la información pública cumplan con los requisitos que señala el artículo 79 de esta Ley.
 
 2. Si a la solicitud le falta algún requisito, la Unidad debe notificarlo al solicitante dentro de los dos días hábiles siguientes a la presentación, y prevenirlo para que lo subsane dentro de los dos días hábiles siguientes a la notificación de dicha prevención, so pena de tener por no presentada la solicitud.
 
 3. Si entre los requisitos faltantes se encuentran aquellos que hagan imposible notificar al solicitante esta situación, el sujeto obligado queda eximido de cualquier responsabilidad hasta en tanto vuelva a comparecer el solicitante.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. En el supuesto de que la Unidad no determine que es incompetente de conformidad al artículo 81 de esta Ley, ni prevenga al solicitante, se presumirá que la solicitud es admitida en sus términos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 83.
 
-Solicitud de Información - Integración del expediente
+Solicitud de Acceso a la Información - Integración del expediente
 
-1. La Unidad debe integrar un expediente por cada solicitud de información pública admitida y asignarle un número único progresivo de identificación.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. La Unidad debe integrar un expediente por cada solicitud de acceso a la información pública recibida y asignarle un número único progresivo de identificación.
 
 2. El expediente debe contener:
 
@@ -2063,29 +3427,39 @@ I. El original de la solicitud;
 
 II. Las comunicaciones internas entre la Unidad y las oficinas del sujeto obligado a las que se requirió información, así como de los demás documentos relativos a los trámites realizados en cada caso;
 
-III. El original de la resolución;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IV. Constancia del cumplimiento de la resolución y entrega de la información, en su caso, y
+III. El original de la respuesta;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Constancia del cumplimiento de la respuesta y entrega de la información, en su caso; y
 
 V. Los demás documentos que señalen otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 84.
 
-Solicitud de Información - Resolución
+Solicitud de Acceso a la Información - Respuesta
 
-1. La Unidad debe resolver y notificar al solicitante, dentro de los cinco días hábiles siguientes a la admisión de la solicitud, respecto a la existencia de la información y la procedencia de su acceso, de acuerdo con esta ley, los lineamientos generales de clasificación de información pública y los criterios de clasificación de información pública del propio sujeto obligado.
+1. La Unidad debe dar respuesta y notificar al solicitante, dentro de los ocho días hábiles siguientes a la recepción de la solicitud, respecto a la existencia de la información y la procedencia de su acceso, de acuerdo con esta ley y los lineamientos estatales de clasificación de información pública.
 
-2. Cuando la solicitud de información pública sea relativa a expedientes médicos o datos sobre la salud del solicitante, debe resolverse y notificarse al solicitante, dentro de los dos días hábiles siguientes a la admisión de aquella.
+2. Cuando la solicitud de acceso a la información pública sea relativa a expedientes médicos o datos sobre la salud del solicitante, debe darse respuesta y notificarse al solicitante, dentro de los cuatro días hábiles siguientes a la recepción de aquella.
 
-3. A falta de resolución y notificación de una solicitud de información en el plazo señalado, se entenderá resuelta en sentido procedente, salvo que se trate de información clasificada como reservada o confidencial o de información inexistente, por lo que el sujeto obligado debe permitir el acceso a la información en los términos de esta ley, cubriendo el solicitante los costos que, en su caso, se generen.
+3. A falta de respuesta y notificación de una solicitud de acceso a la información en el plazo señalado, se entenderá resuelta en sentido procedente, salvo que se trate de información clasificada como reservada o confidencial o de información inexistente, por lo que el sujeto obligado debe permitir el acceso a la información en los términos de esta ley, cubriendo el solicitante los costos que, en su caso, se generen.
 
-4. Si al término de los plazos anteriores no se ha notificado la resolución al solicitante, éste podrá acudir ante el Instituto mediante el recurso de revisión.
+4. Si al término de los plazos anteriores no se ha notificado la respuesta al solicitante, éste podrá acudir ante el Instituto mediante el recurso de revisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 85.
 
-Resolución de Información - Contenido
+Respuesta de Acceso a la Información - Contenido
 
-1. La resolución de una solicitud de información pública debe contener:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. La respuesta de una solicitud de acceso a la información pública debe contener:
 
 I. Nombre del sujeto obligado correspondiente;
 
@@ -2099,17 +3473,41 @@ V. Puntos resolutivos sobre la procedencia de la solicitud, incluidas las condic
 
 VI. Lugar, fecha, nombre y firma de quien resuelve.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 86.
 
-Resolución de Información - Sentido
+Respuesta de Acceso a la Información - Sentido
 
-1. La Unidad puede resolver una solicitud de información pública en sentido:
+1. La Unidad puede dar respuesta a una solicitud de acceso a la información pública en sentido:
 
-I. Procedente, cuando la totalidad de la información solicitada sí pueda ser entregada, sin importar los medios, formatos o procesamiento en que se solicitó;
+I. Afirmativo, cuando la totalidad de la información solicitada sí pueda ser entregada, sin importar los medios, formatos o procesamiento en que se solicitó;
 
-II. Procedente parcialmente, cuando parte de la información solicitada no pueda otorgarse por ser reservada o confidencial, o sea inexistente; o
+II. Afirmativo parcialmente, cuando parte de la información solicitada no pueda otorgarse por ser reservada o confidencial, o sea inexistente; o
 
-III. Improcedente, cuando la información solicitada no pueda otorgarse por ser reservada, confidencial o inexistente.
+III. Negativo, cuando la información solicitada no pueda otorgarse por ser reservada, confidencial o inexistente.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 86
+
+Bis. Respuesta de Acceso a la Información – Procedimiento para Declarar Inexistente la Información
+
+1. En los casos en que ciertas facultades, competencias o funciones no se hayan ejercido, se debe motivar la respuesta en función de las causas que motiven la inexistencia.
+
+2. Ante la inexistencia de información, el sujeto obligado deberá demostrar que la información no se refiere a alguna de sus facultades, competencias o funciones.
+
+3. Cuando la información no se encuentre en los archivos del sujeto obligado, el Comité de Transparencia:
+
+I. Analizará el caso y tomará las medidas necesarias para localizar la información;
+
+II. Expedirá una resolución que confirme la inexistencia del documento;
+
+III. Ordenará, siempre que sea materialmente posible, que se genere o se reponga la información en caso de que ésta tuviera que existir en la medida que deriva del ejercicio de sus facultades, competencias o funciones, o que previa acreditación de la imposibilidad de su generación, exponga de forma fundada y motivada, las razones por las cuales en el caso particular el sujeto obligado no ejerció dichas facultades, competencias o funciones, lo cual notificará al solicitante a través de la Unidad de Transparencia; y
+
+IV. Notificará al órgano interno de control o equivalente del sujeto obligado quien, en su caso, deberá iniciar el procedimiento de responsabilidad administrativa que corresponda.
+
+4. La resolución del Comité de Transparencia que confirme la inexistencia de la información solicitada contendrá los elementos mínimos que permitan al solicitante tener la certeza de que se utilizó un criterio de búsqueda exhaustivo, además de señalar las circunstancias de tiempo, modo y lugar que generaron la inexistencia en cuestión y señalará al servidor público responsable de contar con la misma.
 
 #### Sección Cuarta. Del Acceso a la Información
 
@@ -2127,7 +3525,9 @@ III. Elaboración de informes específicos; o
 
 IV. Una combinación de las anteriores.
 
-2. Cuando parte o toda la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, formatos electrónicos disponibles en Internet o en cualquier otro medio, o sea información fundamental publicada vía internet, bastará con que así se señale en la resolución y se precise la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información, para que se tenga por cumplimentada la solicitud en la parte correspondiente.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. Cuando parte o toda la información solicitada ya esté disponible al público en medios impresos, tales como libros, compendios, trípticos, archivos públicos, formatos electrónicos disponibles en Internet o en cualquier otro medio, o sea información fundamental publicada vía internet, bastará con que así se señale en la respuesta y se precise la fuente, el lugar y la forma en que puede consultar, reproducir o adquirir dicha información, para que se tenga por cumplimentada la solicitud en la parte correspondiente.
 
 3. La información se entrega en el estado que se encuentra y preferentemente en el formato solicitado. No existe obligación de procesar, calcular o presentar la información de forma distinta a como se encuentre.
 
@@ -2145,9 +3545,13 @@ III. Costo: la consulta directa de documentos, así como tomar anotaciones, foto
 
 IV. Lugar: la consulta directa de documentos se hará en el lugar donde se encuentren los mismos, a quien presente el acuse o comprobante de solicitud de la información, junto con una identificación oficial, al servidor público responsable, y
 
-V. Tiempo: la consulta directa de documentos podrá realizarse en cualquier día y hora hábil a elección del solicitante, a partir de la notificación de la resolución de la solicitud que lo autorice, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VI. Caducidad: la autorización de consulta directa de documentos caducará sin responsabilidad para el sujeto obligado, a los treinta días naturales siguientes a la notificación de la resolución respectiva.
+V. Tiempo: la consulta directa de documentos podrá realizarse en cualquier día y hora hábil a elección del solicitante, a partir de la notificación de la respuesta de la solicitud que lo autorice; y
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. Caducidad: la autorización de consulta directa de documentos caducará sin responsabilidad para el sujeto obligado, a los treinta días naturales siguientes a la notificación de la respuesta respectiva.
 
 ###### Artículo 89.
 
@@ -2163,15 +3567,21 @@ b) En la reproducción de documentos debe testarse u ocultarse la información p
 
 II. Imposiciones: la reproducción de documentos no puede imponerse al solicitante, salvo que el sujeto obligado determine que no es viable entregar la información mediante otro formato y no pueda permitirse la consulta directa de documentos por contener información pública protegida;
 
-III. Costo: el sujeto obligado deberá determinarlo y notificarlo al solicitante dentro de los tres días hábiles siguientes a la resolución de procedencia de la solicitud a que se refiere el artículo 84; la reproducción de documentos deberá cobrarse previo a la entrega de la información, por el monto del costo previsto en las leyes de ingresos correspondientes de los sujetos obligados o los costos de recuperación de los materiales o medios en que se realice por los demás sujetos;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. Costo: el sujeto obligado deberá determinarlo y notificarlo al solicitante dentro de los tres días hábiles siguientes a la respuesta de procedencia de la solicitud a que se refiere el artículo 84; la reproducción de documentos deberá cobrarse previo a la entrega de la información, por el monto del costo previsto en las leyes de ingresos correspondientes de los sujetos obligados o los costos de recuperación de los materiales o medios en que se realice por los demás sujetos, expidiendo en forma gratuita las primeras veinte copias relativas a la información solicitada;
 
 IV. Lugar: la reproducción de documentos se entrega en el domicilio de la Unidad a quien presente el acuse o comprobante de solicitud de la información, salvo que se trate de información contenida en medios físicos, el solicitante señale un domicilio para su remisión y haya cubierto el importe del servicio de mensajería o paquetería correspondiente; o, se trate de información en formato electrónico y el solicitante señale un correo electrónico para su remisión;
 
-V. Tiempo: la reproducción de documentos debe estar a disposición del solicitante dentro de los cinco días hábiles siguientes a la exhibición del pago realizado por el solicitante por concepto del costo de recuperación de los materiales, una vez notificada la resolución respectiva, y cuando por la cantidad de información, el procesamiento o tipo de reproducción requiera mayor tiempo, el sujeto obligado puede autorizar una prórroga de hasta cinco días hábiles adicionales, lo cual debe notificarse al solicitante dentro del plazo ordinario;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Tiempo: la reproducción de documentos debe estar a disposición del solicitante dentro de los cinco días hábiles siguientes a la exhibición del pago realizado por el solicitante por concepto del costo de recuperación de los materiales, una vez notificada la respuesta respectiva, y cuando por la cantidad de información, el procesamiento o tipo de reproducción requiera mayor tiempo, el sujeto obligado puede autorizar una prórroga de hasta cinco días hábiles adicionales, lo cual debe notificarse al solicitante dentro del plazo ordinario;
 
 VI. Formato: la reproducción de documentos en un formato distinto al en que se encuentra la información, ya sea impreso, magnético, electrónico u otro similar, se podrá hacer a petición expresa del solicitante y sólo cuando lo autorice el sujeto obligado, y
 
-VII. Caducidad: la autorización de la reproducción de documentos para que el solicitante haga el pago correspondiente al costo de recuperación, caducará sin responsabilidad para el sujeto obligado, a los diez días naturales siguientes a la notificación de la resolución respectiva, y la obligación de conservar las copias de los documentos reproducidos, una vez realizado, el pago del costo de recuperación, caducará sin responsabilidad para el sujeto obligado, a los diez días naturales siguientes a la fecha del pago correspondiente.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Caducidad: la autorización de la reproducción de documentos para que el solicitante haga el pago correspondiente al costo de recuperación, caducará sin responsabilidad para el sujeto obligado, a los treinta días naturales siguientes a la notificación de la respuesta respectiva, y la obligación de conservar las copias de los documentos reproducidos, una vez realizado, el pago del costo de recuperación, caducará sin responsabilidad para el sujeto obligado, a los sesenta días naturales siguientes a la fecha del pago correspondiente.
 
 2. El solicitante que no acuda a recoger los documentos reproducidos dentro del plazo del párrafo anterior, no tendrá derecho a pedir la devolución del pago realizado, ni a exigir la entrega posterior de dichos documentos.
 
@@ -2191,13 +3601,25 @@ IV. Lugar: los informes específicos se entregan en el domicilio de la Unidad al
 
 V. Tiempo: los informes específicos deben estar a disposición del solicitante dentro de los tres días hábiles siguientes a la emisión de la resolución respectiva, y cuando por la cantidad de información o el procesamiento requiera mayor tiempo, el sujeto obligado puede autorizar una prórroga de hasta tres días hábiles adicionales, lo cual debe notificarse al solicitante dentro del plazo ordinario;
 
-VI. Formato: los informes específicos deben contener de forma clara, precisa y completa la información declarada como procedente en la resolución respectiva, sin remitir a otras fuentes, salvo que se acompañen como anexos a dichos informes, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VII. Caducidad: la obligación de conservar los informes específicos solicitados para su entrega física al solicitante, caducará sin responsabilidad para el sujeto obligado, a los treinta días naturales siguientes a la notificación de la resolución respectiva.
+VI. Tiempo (sic): los informes específicos deben estar a disposición del solicitante dentro de los tres días hábiles siguientes a la emisión de la respuesta respectiva, y cuando por la cantidad de información o el procesamiento requiera mayor tiempo, el sujeto obligado puede autorizar una prórroga de hasta tres días hábiles adicionales, lo cual debe notificarse al solicitante dentro del plazo ordinario;
 
-## Título Sexto. De los Recursos
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-### Capítulo III. Del Recurso de Transparencia
+VII. Formato: los informes específicos deben contener de forma clara, precisa y completa la información declarada como procedente en la respuesta respectiva, sin remitir a otras fuentes, salvo que se acompañen como anexos a dichos informes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Caducidad: la obligación de conservar los informes específicos solicitados para su entrega física al solicitante, caducará sin responsabilidad para el sujeto obligado, a los treinta días naturales siguientes a la notificación de la respuesta respectiva.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+## Título Sexto. De los Recursos y de la Facultad de Atracción
+
+### Capítulo II. Del Recurso de Protección de Datos Personales
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 91.
 
@@ -2209,11 +3631,13 @@ I. Las partes, que son el solicitante de información pública como promotor, el
 
 II. El Instituto, quien conoce y resuelve.
 
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 92.
 
 Recurso de Revisión - Objeto
 
-1. El recurso de revisión tiene por objeto que el Instituto revise la resolución del sujeto obligado sobre la procedencia de las solicitudes de información pública y resuelva con plenitud de jurisdicción lo conducente.
+1. El recurso de revisión tiene por objeto que el Instituto revise la respuesta del sujeto obligado sobre la procedencia de las solicitudes de información pública y resuelva con plenitud de jurisdicción lo conducente.
 
 ###### Artículo 93.
 
@@ -2223,7 +3647,9 @@ Recurso de Revisión - Procedencia
 
 I. No resuelve una solicitud en el plazo que establece la Ley;
 
-II. No notifica la resolución de una solicitud en el plazo que establece la ley;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. No notifica la respuesta de una solicitud en el plazo que establece la ley;
 
 III. Niega total o parcialmente el acceso a información pública no clasificada como confidencial o reservada;
 
@@ -2233,9 +3659,33 @@ V. Niega total o parcialmente el acceso a información pública declarada indebi
 
 VI. Condiciona el acceso a información pública de libre acceso a situaciones contrarias o adicionales a las establecidas en la ley;
 
-VII. No permite el acceso completo o entrega de forma incompleta la información pública de libre acceso considerada en su resolución; o
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Pretende un cobro adicional al establecido por la ley.
+VII. No permite el acceso completo o entrega de forma incompleta la información pública de libre acceso considerada en su respuesta;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Pretende un cobro adicional al establecido por la ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Se declare parcialmente procedente o improcedente la solicitud de protección de información confidencial;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. La entrega de información que no corresponda con lo solicitado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XI. La declaración de incompetencia por el sujeto obligado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. La entrega o puesta a disposición de información en un formato incomprensible o no accesible para el solicitante; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. La negativa a permitir la consulta directa de la información.
 
 ###### Artículo 94.
 
@@ -2257,13 +3707,23 @@ V. Ejecución de la resolución.
 
 Recurso de Revisión - Presentación
 
-1. El recurso de revisión debe presentarse ante la Unidad del sujeto obligado o ante el Instituto, por escrito, por duplicado y dentro de los diez días hábiles siguientes, según el caso, contados a partir de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-I. La notificación de la resolución impugnada;
+1. El recurso de revisión debe presentarse ante la Unidad del sujeto obligado o ante el Instituto, por escrito y por duplicado, o en forma electrónica cuando el sujeto obligado cuente con el sistema que genere el comprobante respectivo, dentro de los quince días hábiles siguientes, según el caso, contados a partir de:
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+I. La notificación de la respuesta impugnada;
 
 II. El acceso o la entrega de la información, o
 
-III. El término para notificar la resolución de una solicitud de información, o para permitir el acceso o entregar la información, sin que se hayan realizado.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. El término para notificar la respuesta de una solicitud de información, o para permitir el acceso o entregar la información, sin que se hayan realizado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. En los casos en los que el Instituto sea el sujeto obligado recurrido, deberá notificar al Instituto Nacional, en un plazo que no excederá de tres días, a partir de que sea interpuesto el recurso, para que el Instituto Nacional ejerza la facultad de atracción y resuelva dicho recurso de revisión, conforme a lo establecido en la Ley General.
 
 ###### Artículo 96.
 
@@ -2273,35 +3733,63 @@ Recurso de Revisión - Escrito inicial
 
 I. Autoridad ante quien se impugna, que es el Instituto;
 
-II. Nombre y firma de quien lo promueve;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-III. Sujeto obligado que conoció de la solicitud de información pública o emitió la resolución que se impugna;
+II. Nombre o seudónimo de quien lo promueve;
 
-IV. Número y fecha de la resolución que se impugna;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-V. Argumentos sobre las omisiones del sujeto obligado o la improcedencia de la resolución, si lo desea;
+III. Sujeto obligado que conoció de la solicitud de acceso a la información pública o emitió la respuesta que se impugna;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Número y fecha de la respuesta que se impugna;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Argumentos sobre las omisiones del sujeto obligado o la improcedencia de la respuesta, si lo desea;
 
 VI. Nombre y domicilio del tercero afectado, en su caso, así como razón de la afectación, y
 
-VII. Lugar y fecha de presentación.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-2. Al escrito de presentación del recurso de revisión debe acompañarse copia de la solicitud de información pública presentada y, en su caso, copia de la resolución impugnada.
+VII. Lugar y fecha de presentación; y
 
-3. Al escrito de presentación del recurso de revisión puede acompañarse copia de los documentos públicos o privados que sustenten sus argumentos o indicar el lugar de consulta de los primeros.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-4. El Instituto subsanará las deficiencias del recurso interpuesto.
+VIII. Correo electrónico o domicilio para recibir notificaciones.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+2. En caso de haber proporcionado domicilio, las notificaciones se realizarán por correo certificado. En caso de no señalar correo electrónico ni domicilio las notificaciones se harán mediante estrados electrónicos.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. Al escrito de presentación del recurso de revisión debe acompañarse copia de la solicitud de información pública presentada y, en su caso, copia de la respuesta impugnada.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. Al escrito de presentación del recurso de revisión puede acompañarse copia de los documentos públicos o privados que sustenten sus argumentos o indicar el lugar de consulta de los primeros.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+5. El Instituto subsanará las deficiencias del recurso interpuesto.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 97.
 
 Recurso de Revisión - Admisión
 
-1. El Instituto debe resolver sobre la admisión del recurso de revisión, dentro de los cinco días hábiles siguientes a su recepción.
+1. Interpuesto el recurso de revisión, el Secretario Ejecutivo del Instituto lo turnará al Comisionado ponente que corresponda, quien deberá proceder a su análisis para que decrete su admisión o su desechamiento dentro de los cinco días hábiles siguientes a su recepción. Una vez decretada la admisión o desechamiento se notificará al promovente dentro de los dos días hábiles siguientes.
 
-2. Cuando a la solicitud le falte algún requisito o documento anexo, el Instituto debe subsanar las omisiones que procedan y, en su caso, requerir al promotor, dentro del día hábil siguiente a su recepción, para que subsane lo necesario dentro de los tres días hábiles siguientes a la notificación del requerimiento. El requerimiento suspende el plazo para resolver la admisión, hasta que se cumplimente o fenezca el término para que el promotor subsane las omisiones.
+2. Cuando a la solicitud le falte algún requisito o documento anexo, el Instituto debe subsanar las omisiones que procedan y, en su caso, requerir al promotor, dentro del día hábil siguiente a su recepción, para que subsane lo necesario dentro de los cinco días hábiles siguientes a la notificación del requerimiento. El requerimiento suspende el plazo para resolver la admisión, hasta que se cumplimente o fenezca el término para que el promotor subsane las omisiones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 98.
 
-Recurso de Revisión - causales de improcedencia
+Recurso de Revisión - Causales de improcedencia
 
 1. Son causales de improcedencia del recurso de revisión:
 
@@ -2309,23 +3797,53 @@ I. Que se presente de forma extemporánea;
 
 II. Que exista resolución definitiva del Instituto sobre el fondo del asunto planteado;
 
-III. Que se impugnen actos o hechos distintos a los señalados en el artículo 93, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IV. Que la improcedencia resulte del incumplimiento de alguna otra disposición de la ley.
+III. Que se impugnen actos o hechos distintos a los señalados en el artículo 93;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Que la improcedencia resulte del incumplimiento de alguna otra disposición de la ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Se esté tramitando ante el Poder Judicial algún recurso o medio de defensa interpuesto por el recurrente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VI. No se haya desahogado la prevención en los términos establecidos en el artículo 97 párrafo 2 de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. Se trate de una consulta; o
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. El recurrente amplié su solicitud en el recurso de revisión, únicamente respecto de los nuevos contenidos.
 
 ###### Artículo 99.
 
 Recurso de Revisión - Sobreseimiento
 
-1. Son causales de sobreseimiento del recurso de revisión:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. El recurso será sobreseído, en todo o en parte, por las siguientes causales:
 
 I. El desistimiento expreso del promotor;
 
 II. La muerte del promotor;
 
-III. Que sobrevenga una causal de improcedencia después de admitido; o
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IV. Que el sujeto obligado modifique la resolución impugnada o realice actos positivos, de forma que quede sin efecto o materia el recurso. Cuando se trate de entrega de información, el recurrente deberá manifestar su conformidad.
+III. Que sobrevenga una causal de improcedencia después de admitido;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Que el sujeto obligado modifique la respuesta impugnada o realice actos positivos, de forma que quede sin efecto o materia el recurso. Cuando se trate de entrega de información el recurrente deberá manifestar su conformidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Cuando a consideración del Pleno del Instituto haya dejado de existir el objeto o la materia del recurso;
 
 ###### Artículo 100.
 
@@ -2353,13 +3871,27 @@ Recurso de Revisión - Instrucción
 
 Recurso de Revisión - Resolución
 
-1. El Instituto debe resolver el recurso de revisión dentro de los diez días hábiles siguientes al vencimiento del término para que el sujeto obligado presente su informe inicial.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. El Instituto debe resolver el recurso de revisión dentro de los diez días hábiles siguientes al vencimiento del término para que el sujeto obligado presente su informe inicial. La resolución del Instituto podrá:
+
+I. Desechar o sobreseer el recurso;
+
+II. Confirmar la respuesta del sujeto obligado; o
+
+III. Revocar o modificar la respuesta del sujeto obligado.
 
 2. La resolución debe ser fundada y motivada e invariablemente debe pronunciarse sobre la procedencia de los puntos controvertidos de la solicitud de información original.
 
 3. El Instituto debe notificar la resolución dentro de los cinco días hábiles siguientes a su emisión, a las partes y apercibir al sujeto obligado de la procedencia de las medidas de apremio señaladas en el artículo siguiente en caso de incumplimiento.
 
-4. Las resoluciones del Instituto en el recurso de revisión son inatacables, por lo que no procede recurso o juicio ordinario o administrativo alguno.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. Las resoluciones del Instituto en el recurso de revisión son definitivas e inatacables para los sujetos obligados, por lo que no procede recurso o juicio ordinario o administrativo alguno, salvo lo establecido en el siguiente párrafo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+5. En contra de las resoluciones del Instituto a los recursos de revisión que confirmen o modifiquen la clasificación de la información, o confirmen la inexistencia o negativa de información, los particulares podránoptar (sic) por acudir ante el Instituto Nacional, de conformidad con la Ley General, o ante el Poder Judicial de la Federación.
 
 ###### Artículo 103.
 
@@ -2369,55 +3901,67 @@ Recurso de Revisión - Ejecución
 
 2. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá una amonestación pública con copia al expediente laboral del responsable, le concederá un plazo de hasta diez días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo.
 
-3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de veinte a cien días de salario mínimo general vigente en el área metropolitana de Guadalajara, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. Si el sujeto obligado persiste en el incumplimiento dentro del plazo anterior, el Instituto le impondrá una multa de ciento cincuenta a mil quinientos días de salario mínimo general vigente en el área metropolitana de Guadalajara, le concederá un plazo de hasta cinco días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo. Una vez impuesta la multa se remitirá a la autoridad fiscal estatal para su ejecución.
 
 4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes, y presentará la denuncia penal correspondiente. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
 
-### Capítulo I. De la Responsabilidad Administrativa
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+### Capítulo III. Del Recurso de Transparencia
 
 ###### Artículo 104.
 
-Revisión oficiosa - Procedencia
+Recurso de protección de datos personales - Procedencia
 
-1. La revisión oficiosa de la resolución de protección emitida por un sujeto obligado procede cuando se declare parcialmente procedente o improcedente la solicitud de protección de información confidencial.
+1. El recurso de protección de datos personales de la resolución de protección emitida por un sujeto obligado procede cuando se declare parcialmente procedente o improcedente la solicitud de protección de información confidencial.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 105.
 
-Revisión oficiosa - Procedimiento
+Recurso de protección de datos personales - Procedimiento
 
-1. El procedimiento de la revisión oficiosa de resolución de protección se integra por las siguientes etapas:
+1. El procedimiento del recurso de protección de datos personales de resolución de protección se integra por las siguientes etapas:
 
 I. Remisión de la resolución del sujeto obligado al Instituto;
 
-II. Análisis de la procedencia de la solicitud de protección de información confidencial por el Instituto, y
+II. Análisis de la procedencia de la solicitud de protección de información confidencial por el Instituto; y
 
 III. Resolución del Instituto y notificación al sujeto obligado y al solicitante.
 
-2. El sujeto obligado debe remitir al Instituto copia del expediente correspondiente y notificar de ello al solicitante, cuando proceda la revisión oficiosa, dentro de los tres días hábiles siguientes a la emisión de la resolución de la solicitud de protección de información confidencial respectiva.
+2. El sujeto obligado debe remitir al Instituto copia del expediente correspondiente y notificar de ello al solicitante, cuando proceda el recurso de protección de datos personales, dentro de los tres días hábiles siguientes a la emisión de la resolución de la solicitud de protección de información confidencial respectiva.
 
-3. El solicitante que inició el procedimiento de protección de información confidencial puede denunciar ante el Instituto la omisión del sujeto obligado de remitir el asunto, cuando después del plazo del párrafo anterior el sujeto obligado no lo haya hecho y a su juicio no se haya satisfecho la totalidad de las pretensiones de su solicitud. En este caso, el Instituto requerirá al sujeto obligado para que remita la resolución junto con el expediente respectivo, para iniciar la revisión oficiosa.
+3. El solicitante que inició el procedimiento de protección de información confidencial puede denunciar ante el Instituto la omisión del sujeto obligado de remitir el asunto, cuando después del plazo del párrafo anterior el sujeto obligado no lo haya hecho y a su juicio no se haya satisfecho la totalidad de las pretensiones de su solicitud. En este caso, el Instituto requerirá al sujeto obligado para que remita la resolución junto con el expediente respectivo, para iniciar el recurso de protección de datos personales.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 106.
 
-Revisión oficiosa - Resolución
+Recurso de protección de datos personales - Resolución
 
-1. El Instituto debe analizar la procedencia de la solicitud de protección de información confidencial en aquellos puntos que no resolvió de forma procedente el sujeto obligado, con apego a la Ley, los lineamientos generales de protección de información confidencial y reservada, y los criterios generales de protección de información confidencial y reservada del sujeto obligado, para lo cual puede requerir al sujeto obligado y al solicitante las aclaraciones que considere necesarias.
+1. El Instituto debe analizar la procedencia de la solicitud de protección de información confidencial en aquellos puntos que no resolvió de forma procedente el sujeto obligado, con apego a la Ley, los lineamientos estatales de protección de información confidencial y reservada, para lo cual puede requerir al sujeto obligado y al solicitante las aclaraciones que considere necesarias.
 
-2. El Instituto debe resolver, en revisión oficiosa, la procedencia de la solicitud de protección de información confidencial con base en el análisis previo y dentro de los quince días hábiles siguientes a la recepción del expediente enviado por el sujeto obligado, con posibilidad de prórroga hasta por otros diez días hábiles mediante acuerdo fundado y motivado emitido por el propio Instituto y notificado al solicitante y al sujeto obligado.
+2. El Instituto debe resolver, en el recurso de protección de datos personales, la procedencia de la solicitud de protección de información confidencial con base en el análisis previo y dentro de los quince días hábiles siguientes a la recepción del expediente enviado por el sujeto obligado, con posibilidad de prórroga hasta por otros diez días hábiles mediante acuerdo fundado y motivado emitido por el propio Instituto y notificado al solicitante y al sujeto obligado.
 
-3. El Instituto debe notificar la resolución de la revisión oficiosa al sujeto solicitante, dentro de los tres días hábiles siguientes a la emisión de la misma.
+3. El Instituto debe notificar la resolución del recurso de protección de datos personales al sujeto solicitante, dentro de los tres días hábiles siguientes a la emisión de la misma.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 107.
 
-Revisión Oficiosa - Definitividad
+Recurso de protección de datos personales - Definitividad
 
-1. Contra la resolución del Instituto en materia de revisión oficiosa de la procedencia de solicitud de protección de información confidencial no procede ningún medio de impugnación estatal.
+1. Contra la resolución del Instituto en materia del recurso de protección de datos personales no procede ningún medio de impugnación estatal.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 108.
 
-Revisión oficiosa - Ejecución
+Recurso de protección de datos personales - Ejecución
 
-1. El sujeto obligado debe ejecutar las acciones que le correspondan para el cumplimiento de la resolución en materia de revisión oficiosa, dentro del plazo que determine la propia resolución, el cual en ningún caso podrá ser superior a diez días hábiles.
+1. El sujeto obligado debe ejecutar las acciones que le correspondan para el cumplimiento de la resolución en materia del recurso de protección de datos personales, dentro del plazo que determine la propia resolución, el cual en ningún caso podrá ser superior a diez días hábiles.
 
 2. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá una amonestación pública con copia al expediente laboral del responsable, le concederá un plazo de hasta diez días hábiles para el cumplimiento y le apercibirá de que, en caso de no hacerlo, se procederá en los términos del siguiente párrafo.
 
@@ -2425,7 +3969,9 @@ Revisión oficiosa - Ejecución
 
 4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes, y presentará la denuncia penal correspondiente. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
 
-### Capítulo II. De la Responsabilidad Penal
+### Capítulo IV. De la Facultad de Atracción
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 109.
 
@@ -2457,7 +4003,9 @@ I. Por escrito y con acuse de recibo;
 
 II. Por comparecencia personal ante el Instituto, donde debe llenar la solicitud que al efecto proveerá el mismo, o
 
-III. En forma electrónica, mediante el sistema de recepción de recursos por esta vía, que genere el comprobante respectivo.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. En forma electrónica, mediante el sistema de recepción de recursos por esta vía, que genere el comprobante respectivo, o a través de la Plataforma Nacional.
 
 ###### Artículo 112.
 
@@ -2465,25 +4013,45 @@ Recurso de transparencia - Requisitos
 
 1. La denuncia debe contener:
 
-I. Nombre de quien la promueve;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-II. Sujeto obligado que incumple con la publicación de información fundamental;
+I. Nombre o seudónimo de quien la promueve;
 
-III. En su caso, datos precisos sobre los apartados específicos y medios consultados de publicación de la información fundamental, en los que es omiso el sujeto obligado, así como los medios de convicción que considere pertinente, y
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-IV. Lugar y fecha de presentación.
+II. Correo electrónico para recibir notificaciones. En caso de no presentarlo las notificaciones se harán mediante estrados electrónicos;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. Sujeto obligado que incumple con la publicación de información fundamental;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. Datos precisos sobre los apartados específicos y medios consultados de publicación de la información fundamental, en los que es omiso el sujeto obligado, así como los medios de convicción que considere pertinente; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+V. Lugar y fecha de presentación.
 
 ###### Artículo 113.
 
 Recurso de transparencia - Admisión
 
-1. El Instituto debe resolver sobre la admisión de la denuncia del recurso de transparencia, dentro de los dos días hábiles siguientes a su recepción.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. Interpuesto el recurso de transparencia, el Secretario Ejecutivo lo turnará al Comisionado ponente que corresponda, quien deberá proceder a su análisis para que decrete su admisión o su desechamiento dentro de los dos días hábiles siguientes a su recepción.
 
 2. Cuando a la denuncia le falte algún requisito, el Instituto debe subsanar las omisiones que procedan.
 
-3. El Instituto sólo puede negar la admisión de un recurso de transparencia cuando la denuncia presentada haya sido objeto de un recurso anterior y éste esté resuelto y ejecutado con la publicación de la información fundamental correspondiente, de acuerdo con esta ley.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+3. El Instituto sólo puede negar la admisión de un recurso de transparencia cuando la denuncia presentada haya sido objeto de un recurso anterior y éste esté resuelto y ejecutado con la publicación de la información fundamental correspondiente o cuando éste resulte notoriamente improcedente de acuerdo con esta ley.
 
 4. El Instituto puede ampliar y corregir la denuncia presentada para requerir al sujeto obligado el cumplimiento total de la publicación de información fundamental que le corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+5. En los casos en que dos o más recursos guarden relación entre sí respecto a la información solicitada, el Secretario Ejecutivo del Instituto podrá determinar su acumulación, remitiéndolos al Comisionado que esté tramitando el más antiguo.
 
 ###### Artículo 114.
 
@@ -2511,7 +4079,9 @@ Recurso de transparencia - Resolución
 
 3. El Instituto debe notificar la resolución del recurso de transparencia al promotor y al sujeto obligado, dentro de los dos días hábiles siguientes a su emisión.
 
-4. Las resoluciones del Instituto en el recurso de transparencia son inatacables, por lo que no procede recurso o juicio ordinario o administrativo alguno.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+4. Las resoluciones que emita el Instituto en el recurso de transparencia son definitivas e inatacables para los sujetos obligados, por lo que no procede recurso o juicio ordinario o administrativo alguno. El particular podrá impugnar la resolución por la vía del juicio de amparo que corresponda, en los términos de la legislación aplicable.
 
 ###### Artículo 117.
 
@@ -2525,17 +4095,29 @@ Recurso de transparencia - Ejecución
 
 4. Si el sujeto obligado incumple con la resolución en el plazo anterior, el Instituto le impondrá arresto administrativo de hasta treinta y seis horas, dentro de los tres días hábiles siguientes. Para la ejecución del arresto se remitirá la resolución a la autoridad municipal competente, y presentará la denuncia penal correspondiente.
 
-### Capítulo III. De la Responsabilidad Civil
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+### Capítulo I. De la Responsabilidad Administrativa
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 117
+
+Bis. Facultad de Atracción - Procedencia
+
+1. El Instituto podrá solicitar al Instituto Nacional ejerza la facultad de atracción para conocer de aquellos recursos de revisión pendientes de resolución que por su interés y trascendencia así lo ameriten.
+
+2. El procedimiento se llevará a cabo de conformidad con la Ley General.
 
 ## Título Séptimo. De las Responsabilidades y Sanciones
 
-### Capítulo IV. De la Responsabilidad Política
+### Capítulo II. De la Responsabilidad Penal
 
 ###### Artículo 118.
 
 Responsabilidad administrativa - Sujetos
 
-1. Son sujetos de responsabilidad administrativa las personas físicas que cometan las infracciones administrativas señaladas en esta ley.
+1. Son sujetos de responsabilidad administrativa las personas físicas y jurídicas que cometan las infracciones administrativas señaladas en esta ley.
 
 ###### Artículo 119.
 
@@ -2543,9 +4125,13 @@ Infracciones - Titulares de sujetos obligados
 
 1. Son infracciones administrativas de los titulares de los sujetos obligados:
 
-I. No constituir su Comité de Clasificación o su Unidad, conforme a la Ley;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-II. No publicar los datos de identificación y ubicación de su Unidad, su Comité de Clasificación o el procedimiento de consulta y acceso a la información pública;
+I. No constituir su Comité de Transparencia o su Unidad, conforme a la Ley;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+II. No publicar los datos de identificación y ubicación de su Unidad, su Comité de Transparencia o el procedimiento de consulta y acceso a la información pública;
 
 III. No publicar de forma completa la información fundamental que le corresponda;
 
@@ -2565,29 +4151,61 @@ X. No proporcionar en tiempo a su Unidad, la información pública de libre acce
 
 XI. Difundir, distribuir, transferir, publicar, comercializar o permitir el acceso a la información confidencial, sin autorización de su titular;
 
-XII. Difundir, distribuir, transferir, publicar o comercializar información reservada, o permitir el acceso a personas no autorizadas por la ley, e
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Incumplir las resoluciones del Instituto que les corresponda atender.
+XII. Difundir, distribuir, transferir, publicar o comercializar información reservada, o permitir el acceso a personas no autorizadas por la ley, salvo los casos de violación a los derechos humanos, delitos de lesa humanidad o casos de corrupción;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Realizar actos para intimidar a los solicitantes de información o inhibir el ejercicio del derecho; e
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Incumplir las resoluciones del Instituto que les corresponda atender.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 120.
 
-Infracciones - Titulares de Comités de Clasificación
+Infracciones - Titulares de Comités de Transparencia
 
-1. Son infracciones administrativas de los titulares de los Comités de Clasificación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-I. No emitir o no publicar en tiempo sus criterios generales de clasificación de información pública, de publicación y actualización de información fundamental, o de protección de información confidencial y reservada;
+1. Son infracciones administrativas de los titulares de los Comités de Transparencia:
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+I. Declarar con dolo o negligencia la inexistencia de información cuando el sujeto obligado deba generarla, derivado del ejercicio de sus facultades, competencias o funciones;
 
 II. No informar al Instituto de las operaciones realizadas de los sistemas de información reservada y confidencial que posean;
 
 III. Negarse a recibir las solicitudes de rectificación, modificación, corrección, sustitución o ampliación de datos de la información confidencial;
 
-IV. No resolver en tiempo las solicitudes de acceso, rectificación, modificación, corrección, oposición, sustitución o ampliación de datos de la información confidencial;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. No dar respuesta en tiempo las (sic) solicitudes de acceso, rectificación, modificación, corrección, oposición, sustitución o ampliación de datos de la información confidencial;
 
 V. No llevar un registro de la transmisión a terceros de información reservada o confidencial en su poder;
 
-VI. Clasificar como reservada, de manera dolosa, información que no cumple con las características, e
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-VII. Incumplir las resoluciones del Instituto que les corresponda atender.
+VI. Clasificar como reservada, de manera dolosa, información que no cumple con las características;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VII. No documentar con dolo o negligencia, el ejercicio de sus facultades, competencias, funciones o actos de autoridad, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+VIII. No desclasificar la información como reservada cuando los motivos que le dieron origen ya no existan o haya fenecido el plazo, cuando el Instituto determine que existe una causa de interés público que persiste;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IX. Realizar actos para intimidar a los solicitantes de información o inhibir el ejercicio del derecho; e
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Incumplir las resoluciones del Instituto que les corresponda atender.
 
 ###### Artículo 121.
 
@@ -2601,7 +4219,9 @@ II. Negarse a recibir solicitudes de información pública dirigidas al sujeto o
 
 III. No remitir en tiempo al Instituto las solicitudes de información pública que no le corresponda atender;
 
-IV. No resolver en tiempo las solicitudes de información pública que le corresponda atender;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+IV. No dar respuesta en tiempo las (sic) solicitudes de información pública que le corresponda atender;
 
 V. Condicionar la recepción de una solicitud de información pública a que se funde, motive, demuestre interés jurídico o se señale el uso que se daré (sic) a la información pública;
 
@@ -2613,19 +4233,31 @@ VIII. Actuar con negligencia, dolo o mala fe en la sustanciación de las solicit
 
 IX. Negar información de libre acceso;
 
-X. Entregar intencionalmente información incompleta, errónea o falsa;
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+X. Entregar intencionalmente información incomprensible, incompleta, errónea o falsa, o en un formato no accesible;
 
 XI. No remitir en tiempo al Instituto las negativas totales o parciales a las solicitudes de información, y
 
-XII. Incumplir las resoluciones del Instituto que les corresponda atender.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XII. Realizar actos para intimidar a los solicitantes de información o inhibir el ejercicio del derecho; e
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Incumplir las resoluciones del Instituto que les corresponda atender.
 
 2. Cuando el titular de la Unidad demuestre que realizó las gestiones ante las unidades administrativas del sujeto obligado, necesarias para cumplir con sus atribuciones, y a pesar de ello y por causas ajenas al mismo, incurre en alguna de las infracciones anteriores, no será sujeto de responsabilidad alguna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 122.
 
-Infracciones - Personas físicas
+Infracciones - Personas físicas y jurídicas
 
-1. Son infracciones administrativas de las personas físicas que tengan en su poder o manejen información pública:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+1. Son infracciones administrativas de las personas físicas y jurídicas que tengan en su poder o manejen información pública:
 
 I. Sustraer, ocultar o inutilizar información pública;
 
@@ -2643,27 +4275,39 @@ Infracciones - Sanciones
 
 1. A quien cometa infracciones establecidas en la presente ley se le sancionará de la siguiente forma:
 
-I. Multa de diez a cien días de salario mínimo general vigente en el área metropolitana de Guadalajara a quien cometa alguna de las infracciones señaladas en:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-a) El artículo 119 párrafo 1 fracciones V o VIII;
+I. Multa de cien a setecientos cincuenta días de salario mínimo general vigente en el área metropolitana de Guadalajara a quien cometa alguna de las infracciones señaladas en:
 
-b) El artículo 120 párrafo 1 fracciones II o V;
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-c) El artículo 121 párrafo 1 fracciones I o VI, o
+a) El artículo 119 párrafo 1 fracciones V a VIII, y XIII;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+b) El artículo 120 párrafo 1 fracciones I a V, y IX;
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+c) El artículo 121 párrafo 1 fracciones I, VI y XII; o
 
 d) El artículo 122 párrafo 1 fracción IV.
 
-II. Multa de cincuenta a quinientos días de salario mínimo general vigente en el área metropolitana de Guadalajara a quien cometa alguna de las infracciones señaladas en:
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
-a) El artículo 119 párrafo 1 fracciones II, III, IV o X;
+II. Multa de ciento cincuenta a mil días de salario mínimo general vigente en el área metropolitana de Guadalajara a quien cometa alguna de las infracciones señaladas en:
 
-b) El artículo 120 párrafo 1 fracciones IV o VI, o
+a) El artículo 119 párrafo 1 fracciones II, III, IV, IX y X;
 
-c) El artículo 121 párrafo 1 fracciones II, III, IV, V, VII, VIII, IX, X o XI.
+b) El artículo 120 párrafo 1 fracciones VI a VIII y X; o
 
-III. Multa de cien a mil días de salario mínimo general vigente en el área metropolitana de Guadalajara a quienes cometan alguna de las infracciones señaladas en:
+c) El artículo 121 párrafo 1 fracciones II, III, IV, V, VII, VIII, IX, X, XI y XIII.
 
-a) El artículo 119 párrafo 1 fracciones I, VI, VII, IX, XI, XII o XIII.
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+III. Multa de doscientos a mil quinientos días de salario mínimo general vigente en el área metropolitana de Guadalajara a quienes cometan alguna de las infracciones señaladas en:
+
+a) El artículo 119 párrafo 1 fracciones I, XI, XII y XIV.
 
 ###### Artículo 124.
 
@@ -2683,11 +4327,15 @@ Multas - Naturaleza
 
 1. Las multas impuestas como sanciones administrativas de acuerdo con esta ley, constituyen créditos fiscales a favor del Estado y su ejecución se rige por las disposiciones jurídicas aplicables.
 
+### Capítulo III. De la Responsabilidad Civil
+
 ###### Artículo 127.
 
 Delitos
 
 1. Los delitos en materia de información pública son los establecidos en el Código Penal para el Estado Libre y Soberano de Jalisco.
+
+### Capítulo IV. De la Responsabilidad Política
 
 ###### Artículo 128.
 
@@ -2762,3 +4410,15 @@ ARTURO ZAMORA JIMÉNEZ
 P.O. 31 DE JULIO DE 2014.
 
 ÚNICO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el día en que inicie su vigencia el Decreto No. 25437, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Previo a la entrada en vigor del presente decreto los sujetos obligados deberán realizar las adecuaciones administrativas necesarias para su debido cumplimiento.
+
+TERCERO. Respecto a la denominación y nombramiento de los comisionados será vigente una vez que se apruebe la reforma a la Constitución Política del Estado de Jalisco en materia de transparencia.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto se concluirán de conformidad con las disposiciones vigentes en el momento en que iniciaron.
+
+QUINTO. En tanto no se expida la ley general en materia de datos personales en posesión de sujetos obligados, permanecerán vigentes los artículos de esta Ley en la materia.
