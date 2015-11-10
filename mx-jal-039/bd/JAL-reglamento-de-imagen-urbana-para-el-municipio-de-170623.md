@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-imagen-urbana-para-el-municipio-de-170623"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-31"
-last_updated: "2014-09-22"
+last_updated: "2015-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 22 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 10 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Ejemplar 15 de la Gaceta Municipal del Ayuntamiento de Guadalajara, el jueves 31 de diciembre de 2009.
 
@@ -105,15 +105,19 @@ XIII. Municipio: El territorio que comprende la Ciudad de Guadalajara, Jalisco;
 
 XIV. Permiso: La autorización expedida por la autoridad municipal competente, para la fijación, instalación o colocación de anuncios eventuales;
 
-XV. Propaganda: Acción organizada para difundir o publicar bienes, productos, servicios, espectáculos, eventos comerciales, cívicos, regionales e ideologías políticas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 10 DE NOVIEMBRE DE 2015)</small>
 
-XVI. Reglamento: El presente Reglamento de Imagen Urbana;
+XV. Zona de Intervención Especial: Son las zonas de características socioculturales específicas y distintas que resultan de especial interés de protección para el municipio, por tratarse de áreas donde usualmente se ubica el patrimonio cultural e histórico, con una identidad y vocación barrial particular; y en las que tiene relevancia asegurar la eficiente y eficaz prestación de los servicios públicos, a fin de que tengan una repercusión positiva en sus zonas de influencia;
 
-XVII. Traza Urbana: Es el padrón de organización espacial del asentamiento, y está conformada por parámetros, vialidades y espacios abiertos, como legado histórico constituye un patrimonio cultural de la localidad;
+XVI. Propaganda: Acción organizada para difundir o publicar bienes, productos, servicios, espectáculos, eventos comerciales, cívicos, regionales e ideologías políticas;
 
-XVIII. Vialidad. Es el espacio público destinado a la circulación o desplazamiento de vehículos y peatones, considerándose tres tipos de vialidad, la vehicular, la peatonal y la mixta; y
+XVII. Reglamento: El presente Reglamento de Imagen Urbana;
 
-XIX. Vías Peatonales o Andadores: Son las vías para uso exclusivo de peatones con acceso estrictamente controlado para vehículos de servicios o emergencias.
+XVIII. Traza Urbana: Es el padrón de organización espacial del asentamiento, y está conformada por parámetros, vialidades y espacios abiertos, como legado histórico constituye un patrimonio cultural de la localidad;
+
+XIX. Vialidad. Es el espacio público destinado a la circulación o desplazamiento de vehículos y peatones, considerándose tres tipos de vialidad, la vehicular, la peatonal y la mixta; y
+
+XX. Vías Peatonales o Andadores: Son las vías para uso exclusivo de peatones con acceso estrictamente controlado para vehículos de servicios o emergencias.
 
 ### Capítulo II. De la Ciudad de Guadalajara y sus Zonas
 
@@ -147,9 +151,17 @@ Para la conservación y mejoramiento de la imagen urbana en el Municipio de Guad
 
 Todos los edificios significativos o de valor patrimonial comprendidos en el Municipio, contenidos dentro del catálogo de los Planes de Desarrollo Urbano, así como del catálogo de monumentos y zonas arqueológicas, artísticas e históricas del Instituto Nacional de Antropología e Historia (INAH), y por el Instituto Nacional de Bellas Artes (INBA), deberán conservar su aspecto formal actual y no se autorizará ningún cambio o adición de elementos en sus fachadas sin la autorización expresa de las autoridades competentes.
 
+> <small>(ADICIONADO, G.M. 10 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 9 bis. Se establece la Zona de Intervención Especial Centro Histórico, la cual se encuentra delimitada por las propiedades que tienen frente a las siguientes vialidades: inicia en su extremo norte, en el Vértice 1, siguiendo por la calle Hospital, hasta el Vértice 2, continuando por la calle Liceo, hasta el Vértice 3, para continuar por la calle San Felipe, hasta el Vértice 4, donde continúa por la calle Venustiano Carranza, hasta el Vértice 5, donde continúa por la calle Independencia-Industria, hasta llegar al Vértice 6, continuando por la calle General Salazar, hasta llegar al Vértice 7, donde continúa por la calle Ignacio Allende, hasta llegar al Vértice 8, continuando por la calle Dionisio Rodríguez y la calle Cabañas, hasta llegar al Vértice 9, donde continúa por la calle Álvaro Obregón y la calle López Cotilla, hasta llegar al Vértice 10, continuando por la calle Maestranza, hasta el Vértice 11, donde continúa por la calle Madero, hasta el Vértice 12, continuando por la calle Ramón Corona, hasta llegar al Vértice 13, donde continúa por la Avenida de la Paz, hasta llegar al Vértice 14, continuando por la calle Colón, hasta el Vértice 15, donde continúa por la calle Prisciliano Sánchez, hasta el Vértice 16, continuando por la Avenida 16 de Septiembre, hasta el Vértice 17, continuando por la Avenida Juárez, hasta el Vértice 18, donde continúa por la calle Donato Guerra, hasta el Vértice 19, continuando por la calle Madero, hasta el Vértice 20, continuando por la calle 8 de Julio, hasta el Vértice 21, donde continúa por la calle López Cotilla, hasta el Vértice 22, continuando por la calle Pavo, hasta el Vértice 23, continuando por la calle Pedro Moreno, hasta el Vértice 24, donde continúa por la calle Mariano Bárcena, hasta el Vértice 25, donde continúa por la calle San Felipe, hasta el Vértice 26, continuando por la calle Contreras Medellín, hasta el Vértice 27, continuando por la calle Reforma, hasta el Vértice 28, continuando por la calle Pedro Loza, hasta cerrar la zona en el Vértice 1.
+
+Dicha zona solo servirá para establecer el marco de competencia para el ejercicio de las atribuciones a cargo de cada una de las coordinaciones generales, dependencias y entidades de la administración pública municipal, sin menoscabo en forma alguna de la delimitación de los perímetros "A" y "B" de protección del patrimonio histórico del municipio, establecidos en el Reglamento de Conservación del Patrimonio Cultural Urbano en el Municipio de Guadalajara.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 10 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-A efecto de conservar la imagen de la Zona Centro Metropolitano, así como calles, callejas, y andadores se establecen como normas básicas dentro de dicha área:
+A efecto de conservar la imagen de la Zona Centro Metropolitano, de la Zona de Intervención Especial Centro Histórico, así como calles, callejas y andadores se establecen como normas básicas dentro de dicha área:
 
 I. Se prohibirá el comercio ambulante, tal y como se establece en el Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara.
 
@@ -494,3 +506,27 @@ Segundo. La presente reforma entrará en vigor al día siguiente de su publicaci
 Tercero. Quedan derogadas las disposiciones de orden municipal que se oponga (sic) a lo establecido en el anterior precepto.
 
 Cuarto. Una vez publicada la presente disposición, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VI y VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 10 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DICTAMEN DE “REFORMAS AL REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE GUADALAJARA Y AL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA”.]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Las presentes reformas entrarán en vigor el primero de diciembre del año en curso. La Comisión Dictaminadora deberá instalarse al día siguiente de su publicación en la Gaceta Municipal de Guadalajara, para la recepción de solicitudes, debiendo resolver las mismas una vez entrado en vigor el ordenamiento.
+
+Tercero. Quedan derogadas las disposiciones de orden municipal que se opongan a lo establecido en las presentes reformas.
+
+Cuarto. Se instruye a las autoridades municipales competentes para que en un término de 15 días contados a partir de la entrada en vigor del presente ordenamiento, elaboren las Disposiciones Administrativas para la Zona de Intervención Especial Centro Histórico, para su aprobación por el Pleno del Ayuntamiento.
+
+Quinto. Se derogan, revocan y cancelan, en su caso, todos los decretos, permisos y autorizaciones que existan en la Zona de Intervención Especial Centro Histórico, que se contrapongan al presente ordenamiento, con excepción de los decretos aprobados el 8 de mayo y 27 de junio del 2014 para la autorización de manera temporal de los comerciantes acreditados como locatarios del mercado municipal denominado "General Ramón Corona".
+
+Sexto. Los tianguis vigentes tendrán una regulación especial con la finalidad de evitar el crecimiento y se vigilará permanentemente que cumpla con la armonización del entorno urbano.
+
+Séptimo. Una vez publicadas las presentes disposiciones, remítase mediante oficio un tanto de ellas al Congreso del Estado de Jalisco, para los efectos ordenados en las fracciones VI y VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+Octavo. Se faculta a los ciudadanos Presidente Municipal y Secretario General de este Ayuntamiento, a suscribir la documentación inherente al cumplimiento del presente ordenamiento.
+
+Noveno. Se instruye a la Comisión Dictaminadora elabore un programa de apoyo para el establecimiento de comerciantes del Centro Histórico, donde se contemple ayuda para renta de bienes inmuebles, créditos para la compra de mercancías y las que se consideren pertinentes, de acuerdo a las necesidades de cada comerciante en particular.
+
+Décimo. Se contemple dentro del Presupuesto de Egresos del Municipio de Guadalajara, Jalisco, una bolsa de $10'000,000.00 (diez millones de pesos 00/100 M.N.), como capital semilla del programa referido en el transitorio anterior.
