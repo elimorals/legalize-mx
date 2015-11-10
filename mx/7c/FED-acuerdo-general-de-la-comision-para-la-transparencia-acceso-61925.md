@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-la-comision-para-la-transparencia-acceso-619
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-07-15"
-last_updated: "2008-07-15"
+last_updated: "2015-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-07-15"
 ---
 # ACUERDO GENERAL DE LA COMISION PARA LA TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL Y PROTECCION DE DATOS PERSONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL NUEVE DE JULIO DE DOS MIL OCHO [RELATIVO A LOS ORGANOS Y PROCEDIMIENTOS PARA TUTELAR EN EL AMBITO DE ESTE TRIBUNAL LOS DERECHOS DE ACCESO A LA INFORMACION, A LA PRIVACIDAD Y A LA PROTECCION DE DATOS PERSONALES GARANTIZADOS EN EL ARTICULO 6o. CONSTITUCIONAL]
 
-ACUERDO GENERAL DE LA COMISION PARA LA TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL Y PROTECCION DE DATOS PERSONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL NUEVE DE JULIO DE DOS MIL OCHO, RELATIVO A LOS ORGANOS Y PROCEDIMIENTOS PARA TUTELAR EN EL AMBITO DE ESTE TRIBUNAL LOS DERECHOS DE ACCESO A LA INFORMACION, A LA PRIVACIDAD Y A LA PROTECCION DE DATOS PERSONALES GARANTIZADOS EN EL ARTICULO 6o. CONSTITUCIONAL
+ACUERDO GENERAL DE LA COMISIÓN PARA LA TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL Y PROTECCIÓN DE DATOS PERSONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DEL NUEVE DE JULIO DE DOS MIL OCHO, RELATIVO A LOS ÓRGANOS Y PROCEDIMIENTOS PARA TUTELAR EN EL ÁMBITO DE ESTE TRIBUNAL LOS DERECHOS DE ACCESO A LA INFORMACIÓN, A LA PRIVACIDAD Y A LA PROTECCIÓN DE DATOS PERSONALES GARANTIZADOS EN EL ARTÍCULO 6o. CONSTITUCIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de julio de 2008.
 
@@ -257,165 +257,53 @@ XIII. Las demás que le confieran las disposiciones legales y reglamentarias apl
 
 El Secretario será asistido en sus funciones y suplido en sus ausencias por un secretario suplente, el cual será designado por el Presidente de la Comisión.
 
-### CAPITULO SEGUNDO. DEL COMITE DE ACCESO A LA INFORMACION Y DE PROTECCION DE DATOS PERSONALES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+### CAPITULO SEGUNDO
 
 ###### Artículo 11.
 
-El Comité de Acceso a la Información y de Protección de Datos Personales es la instancia ejecutiva encargada de tomar las medidas necesarias para coordinar las acciones tendentes a cumplir con la publicidad de la información y la protección de datos personales, en términos del artículo 61, fracción III, de la Ley, y de conocer de las determinaciones de los órganos en que se niegue el acceso a lo solicitado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 12.
 
-El Comité al emitir sus resoluciones gozará de plena independencia, sin menoscabo de aplicar los precedentes establecidos por la Comisión, en la inteligencia de que ésta determinará los recursos humanos y materiales para el desempeño de sus funciones.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 13.
 
-La integración, organización y funcionamiento del Comité serán determinados por la Comisión, conforme a lo establecido en el presente Acuerdo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 14.
 
-Las sesiones del Comité podrán ser celebradas si se reúne un quórum de cuando menos la mitad más uno de sus integrantes.
-
-El Comité tomará sus decisiones por mayoría de votos y, en caso de empate, su Presidente tendrá voto de calidad. Para su funcionamiento, se auxiliará de una Secretaría de Actas y Seguimiento de Acuerdos.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 15.
 
-El Comité tendrá las siguientes atribuciones:
-
-I. Coordinar y supervisar las acciones tendentes a proporcionar la información pública y proteger los datos personales que tenga bajo su resguardo;
-
-II. Supervisar el cumplimiento de las obligaciones de transparencia, acceso a la información y protección de datos personales, por parte de los servidores públicos de este Alto Tribunal;
-
-III. Confirmar, modificar o revocar las determinaciones de los órganos de la Suprema Corte en las que se señale que la información solicitada es inexistente, confidencial o reservada, o bien, no se otorgue en la modalidad solicitada. El Comité cuidará que la información entregada por los órganos de la Suprema Corte se ajuste con precisión a los términos en los cuales se recibió la solicitud de acceso a la información;
-
-IV. Confirmar, modificar o revocar, a instancia de parte, las determinaciones de los órganos de la Suprema Corte en las que se niegue, total o parcialmente, el acceso a datos personales, su rectificación, cancelación u oposición a su publicación;
-
-V. Dictar las medidas conducentes para la localización de información bajo resguardo de la Suprema Corte y, en su caso, confirmar su inexistencia;
-
-VI. Instruir los procedimientos de ejecución de sus resoluciones, encaminados a dar seguimiento hasta su total acatamiento;
-
-VII. Remitir a la Comisión los expedientes en los que, ante la contumacia del órgano respectivo, estime necesario iniciar un incidente de incumplimiento;
-
-VIII. Resolver consultas en materia de supresión de datos en los procesos de elaboración de versiones públicas de sentencias emitidas por el Pleno o las Salas;
-
-IX. Aprobar el texto en que se plasmen de manera abstracta los criterios sostenidos al resolver los asuntos de su competencia;
-
-X. Proponer a la Comisión los indicadores de gestión que permitan difundir los principales aspectos de las funciones jurisdiccionales y administrativas de la Suprema Corte, los cuales se difundirán en medios electrónicos de consulta pública con actualización mensual;
-
-XI. Proponer a la Comisión, para su aprobación, el listado de los archivos, registros o bancos de datos de carácter personal, en resguardo de la Suprema Corte;
-
-XII. Aprobar los formatos de solicitudes de acceso a la información, de acceso y cancelación de datos personales, y demás relacionados con los procedimientos de acceso a la información y protección de datos personales;
-
-XIII. Presentar a la Comisión, con apoyo de la Unidad de Enlace, los datos necesarios para la elaboración del informe a que se refiere el artículo 13 del Reglamento;
-
-XIV. Hacer del conocimiento del órgano interno de control de la Suprema Corte, las presuntas infracciones a la Ley, al Reglamento o a este Acuerdo General, sin perjuicio de la tramitación del procedimiento de supervisión o del incidente de incumplimiento que proceda;
-
-XV. Promover y vigilar la capacitación de los servidores públicos en materia de transparencia, acceso a la información y protección de datos personales;
-
-XVI. Difundir entre los servidores públicos y los particulares, los beneficios del manejo público de la información, como la responsabilidad de su buen uso y conservación;
-
-XVII. Proponer a la Comisión su proyecto de presupuesto en las partidas que estime necesarias del Clasificador por Objeto del Gasto de la Suprema Corte; y
-
-XVIII. Las demás que le confieran las disposiciones legales y reglamentarias aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 16.
 
-Son atribuciones del Presidente del Comité, las siguientes:
-
-I. Convocar a las sesiones del Comité;
-
-II. Presidir las sesiones del Comité y moderar y participar en sus debates;
-
-III. Iniciar y levantar la sesión, además de decretar los recesos que fueren necesarios;
-
-IV. Declarar la existencia del quórum;
-
-V. Conducir los trabajos y tomar las medidas necesarias para el adecuado funcionamiento del Comité;
-
-VI. Someter a votación las resoluciones, acuerdos y demás decisiones del Comité;
-
-VII. Someter a consideración del Comité el aplazamiento de asuntos por razones que lo justifiquen; y
-
-VIII. Proveer sobre el cumplimiento de las resoluciones y acuerdos adoptados por el Comité, en los términos en que éste lo determine.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 17.
 
-Son atribuciones de los integrantes del Comité, las siguientes:
-
-I. Asistir con derecho a voz y voto a las sesiones del Comité;
-
-II. Solicitar al Presidente del Comité la inclusión de asuntos en el orden del día;
-
-III. Presentar a consideración del Comité proyectos de resoluciones, acuerdos, informes y cualquier otro asunto que estimen oportuno;
-
-IV. Hacer suyo el proyecto de resolución que se presente por algún otro integrante del Comité, en su ausencia, y conforme al orden previamente establecido para tales efectos;
-
-V. Acudir a las sesiones del Comité acompañado del servidor público que determine en apoyo del desahogo de sus asuntos;
-
-VI. Proponer la asistencia de servidores públicos que por la naturaleza de los asuntos a tratar, deban asistir al Comité; y
-
-VII. Proponer la celebración de sesiones extraordinarias, al Presidente o al propio Comité.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 18.
 
-Las convocatorias a las sesiones del Comité se harán por conducto de su Presidente y, en su ausencia, por el Secretario del Comité. La convocatoria a las sesiones deberá realizarse por escrito y contener el orden del día, la fecha, el lugar y la hora en que se llevará a cabo la sesión, y deberá remitirse a sus integrantes cuando menos tres días hábiles antes de la celebración de sesiones ordinarias; para el caso de las sesiones extraordinarias la remisión de dichos documentos se realizará, al menos, con veinticuatro horas de anticipación.
-
-Las referidas convocatorias también deberán publicarse en el portal de Internet, en la inteligencia de que a dichas sesiones podrán asistir los interesados, atendiendo a las limitantes de espacio que presente el lugar destinado para su celebración.
-
-Para acudir a las sesiones del Comité, su Secretario integrará una lista con los nombres de quienes manifiesten su interés para ello.
-
-Los gobernados que asistan a las sesiones deberán permanecer en silencio y omitir el uso de cualquier medio tecnológico que permita reproducir el desarrollo de la sesión respectiva.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 19.
 
-Las sesiones del Comité son ordinarias y extraordinarias. Serán ordinarias las que deban celebrarse semanalmente. Serán extraordinarias aquéllas convocadas por el Presidente del Comité, cuando éste, por sí o a petición de uno o más de los integrantes del Comité, lo estime necesario para tratar asuntos que por su urgencia no puedan esperar para ser desahogados en la siguiente sesión ordinaria.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 20.
 
-En toda sesión se encontrará presente el titular de la Unidad de Enlace quien deberá presentar mensualmente, al menos:
-
-I. Informe del número de solicitudes de acceso a la información presentadas, así como de rectificación, cancelación u oposición a la publicación de datos personales, en razón del trámite que le correspondió, y su resultado;
-
-II. Solicitudes de prórroga de los plazos de respuesta;
-
-III. Estado de cumplimiento por parte de los órganos de la Suprema Corte, de las obligaciones de transparencia y protección de datos personales, referidas en los artículos 7o., 8o. y 9o. de la Ley, y demás ordenamientos aplicables;
-
-IV. Estado de cumplimiento por parte de los órganos de las resoluciones del Comité;
-
-V. Estado que guardan los recursos interpuestos en los términos de la Ley y el Reglamento; y
-
-VI. En su caso, en cualquier sesión, las dificultades observadas en el cumplimiento de la normativa aplicable en materia de transparencia.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 21.
 
-El Secretario del Comité tendrá las funciones siguientes:
-
-I. Recibir la documentación dirigida al Comité y/o a su Presidente, y dar cuenta de ello a éste;
-
-II. Proponer al Presidente el proveído en el cual se turnen los asuntos del Comité conforme al orden preestablecido, para su análisis y presentación del proyecto de resolución;
-
-III. Dar cuenta al Presidente del Comité del estado de trámite de los asuntos en conocimiento de dicho órgano colegiado y someter a su consideración los acuerdos conducentes para su consecución;
-
-IV. Preparar el orden del día de las sesiones y someterlo a la consideración del Presidente del Comité, así como elaborar las respectivas convocatorias;
-
-V. Realizar las gestiones necesarias para distribuir oportunamente las convocatorias a las sesiones entre los integrantes del Comité y para su publicación en el portal de Internet;
-
-VI. Llevar el registro de los interesados en asistir a las sesiones públicas del Comité, informándolo a éste e indicando a aquéllos la disposición de espacios;
-
-VII. Verificar el quórum de asistencia de las sesiones y dar cuenta de ello al Presidente del Comité;
-
-VIII. Tomar las votaciones de los integrantes del Comité y dar a conocer el resultado de las mismas;
-
-IX. Elaborar y someter a consideración del Comité para su aprobación y firma, las actas relativas a las sesiones de dicho órgano;
-
-X. Llevar a cabo las funciones de control y custodia de las actas y documentos relativos al Comité;
-
-XI. Dar fe y expedir constancias de las actas, resoluciones, criterios y/o documentos relacionados con las mismas, en todo o en parte;
-
-XII. Dar seguimiento a los acuerdos sobre las resoluciones del Comité o el estado que éstas guarden cuando el Comité así lo determine; y
-
-XIII. Informar quincenalmente al Comité sobre las actas y engroses pendientes de firma.
-
-El Secretario será asistido en sus funciones y suplido en sus ausencias por un secretario suplente, el cual deberá ser nombrado por el Presidente del Comité.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ### CAPITULO TERCERO. DE LA UNIDAD DE ENLACE
 
@@ -1305,231 +1193,167 @@ Informática deberá establecer en el Sistema de Control de Expedientes en Ponen
 
 ## TITULO SEPTIMO. DE LOS PROCEDIMIENTOS SEGUIDOS POR LOS ORGANOS ENCARGADOS DE LA TRANSPARENCIA, EL ACCESO A LA INFORMACION Y LA PROTECCION DE DATOS PERSONALES
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(DEROGADO CON LOS ARTÍCULO QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
+### CAPITULO PRIMERO
 
 ###### Artículo 103.
 
-Todas las constancias que obren en los expedientes relativos a los procedimientos regulados en este Acuerdo General son públicas, sin menoscabo de que en casos excepcionales únicamente se permita el acceso a versiones públicas de aquellas constancias que contengan información confidencial o reservada.
-
-En la sustanciación de los procedimientos privará el principio de economía procedimental, de manera que la información pública solicitada y las peticiones en materia de protección de datos personales, sean atendidas con la mayor celeridad.
-
-En la adopción de sus resoluciones, la Comisión y el Comité gozarán de plenitud de jurisdicción y actuarán bajo el principio de máxima publicidad y de supletoriedad en las deficiencias de las solicitudes y recursos, sin detrimento de velar por la protección de la vida privada y de los datos personales.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 104.
 
-Procederá el desglose de asuntos en los casos en que la materia de la solicitud sea de diversa naturaleza y los informes respectivos no encuentren vinculación entre sí, en aras de asegurar la operatividad del ejercicio del derecho de acceso a la información y de protección de datos personales.
-
-Se acumularán los asuntos cuando en diversas solicitudes se requiera la misma información, de manera que se integre un solo expediente. La acumulación procede no obstante que la información obre en archivos de diversos órganos.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 105.
 
-La entrega de los datos personales será gratuita, debiendo cubrir el interesado únicamente los gastos de envío, de conformidad con las tarifas aplicables y, en su caso, el respectivo costo de reproducción. Si la misma persona realiza una nueva solicitud que implique la entrega de datos, respecto del mismo sistema de datos personales, en un periodo menor a doce meses a partir de la última solicitud, los plazos para atender dicha solicitud se duplicarán.
-
-En los casos en que los solicitantes elijan la modalidad electrónica para la entrega de la información requerida y ésta no exista en documento electrónico, el órgano que la tenga bajo su resguardo deberá generar la versión respectiva. En tales casos, los órganos dispondrán de un tiempo prudente para la generación de las versiones electrónicas, el cual será aprobado por la Comisión o el Comité, en cada caso.
-
-La entrega de información en copia certificada tendrá por objeto establecer que en los archivos del sujeto obligado existe un documento original, copia simple, digitalizado u otro medio electrónico, igual al que se entrega. La certificación, para estos efectos, podrá ser realizada por el titular del órgano en que se encuentren los documentos o, en su defecto, por el titular de la Unidad de Enlace. En ningún caso se expedirán copias certificadas de documentos previamente publicados en algún medio de acceso público.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 106.
 
-La reproducción de información se deberá realizar en los soportes documentales disponibles y conforme a las posibilidades materiales para realizarlo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 107.
 
-En todo caso el órgano de la Suprema Corte correspondiente deberá considerar la preferencia del peticionario para entregar la información en el soporte requerido, con la salvedad de que resulte imposible dicha reproducción con los medios disponibles para tal efecto, en cuya situación se deberá privilegiar la consulta física.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 108.
 
-Tratándose de obras electrónicas editadas por el Poder Judicial de la Federación, no se podrá realizar la reproducción de la información cuando ésta se encuentre disponible para venta en las librerías ubicadas en el país o en cualquier otro punto de distribución de la Suprema Corte. De no existir la posibilidad para adquirir la obra electrónica, el solicitante podrá acudir ante cualquier Módulo de Acceso para formular su petición, la cual se tramitará mediante el procedimiento ordinario.
-
-Ningún Módulo de Acceso podrá realizar por sí mismo la reproducción de una obra electrónica editada por el Poder Judicial de la Federación, aun cuando dicha información sea pública.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 109.
 
-Los costos por reproducción de la información serán fijados por la Comisión, los cuales atenderán principalmente al material utilizado para cada caso.
-
-Tratándose de obras editadas por el Poder Judicial de la Federación, se deberá atender al precio fijado para su venta al público, siempre y cuando el mismo esté aprobado por el órgano competente para dicho fin.
-
-En ningún caso se podrá requerir el pago de alguna cuota que no esté previamente autorizada por la Comisión, con la salvedad de los costos correspondientes al envío de la información al domicilio señalado por el peticionario.
-
-Las cuotas a las que se refiere este precepto se pagarán en la Tesorería de la Suprema Corte, en la respectiva institución bancaria o ante el propio Módulo de Acceso, salvo en el caso de los de carácter jurisdiccional.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 110.
 
-Para el caso de envíos de información a las diversas entidades federativas y con la finalidad de reducir costos a los solicitantes, la Unidad de Enlace podrá utilizar el sistema de envío por paquetería establecido por la Dirección General de Casas de la Cultura Jurídica y Estudios Históricos para remitir los documentos solicitados, los cuales serán entregados a los peticionarios en las instalaciones del Módulo de Acceso de la Casa de la Cultura Jurídica respectiva.
-
-Para el caso de que el requirente solicite la entrega de la información en un lugar diverso al domicilio del Módulo de Acceso, tendrá que cubrir las cuotas respectivas al servicio de correo o paquetería, según corresponda.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 111.
 
-En la substanciación y resolución de los procedimientos regulados en este Acuerdo será aplicable supletoriamente el Código Federal de Procedimientos Civiles.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 112.
 
-Para los trámites que se sigan en los diversos procedimientos establecidos en el presente título, los titulares de los Organos de la Suprema Corte deberán nombrar por escrito dirigido al Comité y a la Unidad de Enlace a un servidor público que fungirá como Enlace.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ### CAPITULO SEGUNDO. DE LOS PROCEDIMIENTOS SEGUIDOS ANTE LA UNIDAD DE ENLACE
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 DISPOSICIONES COMUNES
 
 ###### Artículo 113.
 
-Las personas que requieran tener acceso a la información que se encuentra en posesión de la Suprema Corte, así como a la rectificación o cancelación de sus datos personales, u oponerse a su publicación, deberán formular su solicitud ante los Módulos de Acceso de la Unidad de Enlace.
-
-Las solicitudes que se presenten de manera impresa en los Módulos de Acceso podrán ajustarse al formato autorizado por el Comité, o bien, realizarse mediante formato libre.
-
-Tratándose de acceso a la información, podrán presentarse por vía electrónica, a través del portal de Internet de la Suprema Corte o al correo de la Unidad de Enlace habilitado para ello. En casos excepcionales, la consulta podrá realizarse y atenderse por vía telefónica.
-
-El plazo para dar respuesta a la solicitud comenzará a partir de la presentación de la petición mediante el sistema de recepción de solicitudes, considerando que se realice en días hábiles y dentro del horario establecido para los Módulos de Acceso instalados en la ciudad de México. Para el caso de solicitudes registradas en el sistema en días inhábiles o fuera del horario señalado, el plazo referido comenzará a computarse hasta el día hábil siguiente al en que se presentó la petición.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 114.
 
-En el llenado de los formatos de acceso a la información, o de rectificación o cancelación de datos personales, o de oposición a su publicación, el personal de la Unidad de Enlace auxiliará y orientará a los solicitantes o a sus representantes en el llenado de los formatos de acceso a la información, de manera que desde tal momento se logre la mayor claridad y precisión en la formulación de la solicitud, en aras de su pronta y efectiva atención.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 115.
 
-Una vez formulada la solicitud, la Unidad de Enlace debe proceder a su tramitación, supliendo cualquier deficiencia.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 116.
 
-En los casos en que la información requerida no sea competencia de la Suprema Corte, el personal del Módulo de Acceso respectivo orientará al peticionario en la medida de lo posible. Si la incompetencia se surte en razón de que la información podría encontrarse bajo resguardo del Consejo o de algún tribunal del Poder Judicial de la Federación, la Unidad de Enlace remitirá la solicitud por medios electrónicos a la Unidad de Enlace competente, al día hábil siguiente, lo que se hará del conocimiento del solicitante, con la información suficiente para que pueda dar seguimiento a su solicitud.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 DE LOS PROCEDIMIENTOS DE ACCESO A LA INFORMACION
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 DEL PROCEDIMIENTO SUMARIO
 
 ###### Artículo 117.
 
-El procedimiento sumario se iniciará cuando la información requerida a la Unidad de Enlace o a sus Módulos de Acceso, por vía escrita, electrónica o telefónica, sea de la competencia de la Suprema Corte y se encuentre disponible en medios electrónicos o impresos de consulta pública y en la modalidad preferida por el peticionario.
-
-Una vez calificada la procedencia de la solicitud, el personal del Módulo de Acceso respectivo facilitará al solicitante la consulta de la información en la modalidad por él preferida. La calificación de la procedencia y el otorgamiento de la información deberán realizarse de preferencia en el mismo día en que sea formulada la solicitud.
-
-De requerir el solicitante copia impresa o electrónica, se le entregará una vez enterada la respectiva cuota de acceso, en un plazo no mayor a tres días hábiles.
-
-La consulta física será gratuita y se permitirá en los Módulos de Acceso, atendiendo a sus cargas de trabajo, cuando éstos tengan acceso a los soportes en los que previamente se haya difundido la información solicitada.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 118.
 
-La consulta física de expedientes jurisdiccionales cuyo archivo se ordenó antes del doce de junio de dos mil tres, se sujetará al procedimiento sumario, sin más restricciones que las necesarias para su conservación.
-
-También se sujetarán al procedimiento sumario las solicitudes de acceso a versiones públicas de las sentencias dictadas por la Suprema Corte, a partir del doce de julio de dos mil tres, así como las emitidas anteriormente visibles en medios de consulta pública
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 119.
 
-Antes de permitir la consulta física de los expedientes señalados en el párrafo primero del artículo anterior, el personal del Centro de Documentación o de las Casas de la Cultura Jurídica de este Alto Tribunal encargadas de su resguardo, deberá recabar del solicitante un documento en el que se comprometa a no divulgar la información considerada legalmente como confidencial que contengan dichos expedientes, excepto cuando cuente con autorización por escrito del titular de la información o de los sucesores de éste.
-
-El incumplimiento de este compromiso, puede dar lugar a que las autoridades competentes apliquen las sanciones contenidas en las leyes respectivas.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 120.
 
-El asesor del Módulo de Acceso verificará la existencia y ubicación del expediente solicitado. Para tal efecto, el Centro de Documentación dotará a los Módulos de Acceso, en documento electrónico, de la base de datos que contiene el catálogo o, en su caso, el inventario de los expedientes que se encuentran bajo su resguardo, debiéndolo actualizar mensualmente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 121.
 
-En caso de que el expediente se encuentre en el mismo lugar donde se realizó la solicitud, el asesor del Módulo de Acceso llenará un formato y remitirá al solicitante al área de consulta del archivo con copia de dicho formato para que se le permita la consulta.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 122.
 
-La consulta física de expedientes se realizará en los términos siguientes:
-
-I. Se permitirá la consulta únicamente en el área destinada para tal efecto y siempre ante la presencia del encargado del Módulo de Acceso o del diverso servidor público designado por escrito para cumplir esa función;
-
-II. El solicitante deberá procurar en todo momento conservar el buen estado de los expedientes consultados; y
-
-III. El solicitante podrá tomar nota de la información contenida en los expedientes, pero queda prohibido que lo reproduzca por su cuenta valiéndose de cualquier medio.
-
-El incumplimiento del solicitante de cualquiera de las condiciones anteriores, será motivo para que se suspenda inmediatamente la consulta.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 123.
 
-Cuando sea requerido un expediente cuya consulta o reproducción pudiera causarle a éste un daño irreparable a juicio del titular del órgano de la Suprema Corte que lo tiene bajo su resguardo, se deberá informar de inmediato al Comité a través de la Unidad de Enlace, con el objeto de que determine lo conducente. Para tal efecto, se deberán aportar todos los argumentos y, en su caso, las pruebas que acrediten los riesgos o daños que pudieran causarse.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 124.
 
-Cuando el expediente no se localice en el lugar donde se llevó a cabo la solicitud, el asesor podrá orientar al solicitante para que se dirija al lugar donde puede realizar la consulta, o bien, proponer el inicio de un procedimiento ordinario para obtener una versión pública de las constancias de su interés.
-
-Realizada la consulta física del expediente, en caso de que se requiera copia de las constancias, el encargado del archivo o área de resguardo del expediente llevará a cabo la cotización de dichas copias y comunicará al solicitante que se deberá elaborar una versión pública de lo requerido, así como el tiempo de entrega atendiendo a las cargas de trabajo del área respectiva.
-
-El solicitante deberá acreditar ante el Módulo de Acceso haber realizado el pago correspondiente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 125.
 
-El Módulo de Acceso deberá comunicar al encargado del archivo o área del depósito, que el solicitante ya efectuó el pago correspondiente con la finalidad de que genere la versión pública.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 126.
 
-El encargado del archivo o área de depósito correspondiente hará entrega de la versión pública al Módulo de Acceso para que notifique al solicitante de inmediato, por vía electrónica o cualquiera seleccionada por éste, la posibilidad de que acuda al propio Módulo de Acceso por la información requerida.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 127.
 
-Tratándose de solicitudes de acceso a la información en modalidad diversa a la consulta física, se deberá generar la versión pública respectiva suprimiendo, en su caso, los nombres de las partes y de las demás personas físicas y morales que hayan participado en el asunto, así como cualquier dato sensible.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 128.
 
-El Módulo de Acceso llevará a cabo la entrega de la versión pública y recabará el acuse de recibo correspondiente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 129.
 
-El Módulo de Acceso integrará la estadística correspondiente, con los datos del formato de solicitud recabado y los recibos de pago respectivos, debiendo remitir la estadística de manera mensual a la Unidad de Enlace.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 130.
 
-En el caso de las sentencias dictadas por el Pleno o las Salas, después del quince de mayo de dos mil siete, cuando aún no se contare con el engrose aprobado y/o su versión pública, se procederá de la siguiente manera:
-
-I. Tratándose de sentencias cuyo engrose no se haya aprobado, la Secretaría de Acuerdos respectiva, en su carácter de Módulo de Acceso, podrá declarar la inexistencia de lo solicitado y quedará vinculada a que, una vez que reciba la versión pública del engrose correspondiente, la remita a la Unidad de Enlace, para su notificación. El Secretario de Estudio y Cuenta encargado del engrose notificará por correo electrónico a dicha Unidad, el día en que ingrese el engrose a la red;
-
-II. Tratándose de sentencias cuyo engrose se haya aprobado, pero no se contare con la versión pública, la Secretaría de Acuerdos respectiva, actuando como Módulo de Acceso, requerirá al Secretario de Estudio y Cuenta correspondiente la versión pública; sin menoscabo de reconocer el plazo que le asiste para generarla; y
-
-III. Las solicitudes que se presenten en los demás Módulos de Acceso, serán remitidas a la Unidad de Enlace, la que declarará la inexistencia o, en su caso, requerirá la versión pública al respectivo Secretario de Estudio y Cuenta, en la inteligencia de que recibida la versión pública, la remitirá al solicitante.
-
-En todo caso, si la versión pública no se recibe en los quince días naturales siguientes al vencimiento del plazo para generar la versión pública, la Secretaría de Acuerdos correspondiente o la Unidad de Enlace lo harán del conocimiento del Comité, para su tratamiento en vía de supervisión.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 131.
 
-Las solicitudes de versiones impresas de la Constitución Política de los Estados Unidos Mexicanos y de la legislación penal, así como de las tesis relacionadas, formuladas por sujetos privados de la libertad con motivo de alguna determinación judicial, se atenderán, respectivamente, conforme a las cargas de trabajo del Centro de Documentación y de la Unidad de Enlace; en la inteligencia de que su distribución y envío serán gratuitos, en tanto se agota el tope mensual fijado por la Comisión.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 DEL PROCEDIMIENTO ORDINARIO
 
 ###### Artículo 132.
 
-Las solicitudes de acceso a información no publicada en medios electrónicos o impresos se tramitarán conforme al procedimiento ordinario. Dichas solicitudes se presentarán en el formato aprobado por el Comité debiendo contener, cuando menos, los siguientes datos:
-
-I. Nombre del solicitante y domicilio, correo electrónico o cualquier otro medio para recibir notificaciones;
-
-II. Descripción clara y precisa de la información que solicita, con la aportación de los mayores datos posibles para su localización y ubicación temporal; y
-
-III. La modalidad o modalidades en que se prefiere recibir la información, en el entendido de que si se señala más de una, se otorgará en aquella en que se encuentre disponible.
-
-Los procedimientos ordinarios se clasificarán en jurisdiccionales o administrativos, de conformidad con la naturaleza de la información objeto de la solicitud.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 133.
 
-La Unidad de Enlace calificará la procedencia de la petición, verificando el cumplimiento de los requisitos a que se refiere el artículo anterior, en la inteligencia de que se abstendrá de dar trámite a las solicitudes de acceso que sean ofensivas.
-
-Si a consideración de la Unidad de Enlace los datos aportados no son suficientes para la localización de la información, podrá requerir al solicitante por una sola ocasión, para que amplíe, precise o modifique su petición, dentro de los diez días hábiles siguientes a tal requerimiento, con el apercibimiento de proceder al archivo del asunto si no se subsanan las irregularidades que se señalen.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 134.
 
-La Unidad de Enlace contará con los tres días hábiles siguientes a la recepción de la petición para calificar su procedencia y dentro del día hábil siguiente solicitará al órgano correspondiente, por conducto de su titular, que se pronuncie sobre la existencia de la información y, en su caso, sobre su naturaleza pública, parcialmente pública, confidencial o reservada, así como la modalidad o modalidades disponibles y, dependiendo de ésta, el costo de su reproducción.
-
-En todo caso, el órgano requerido deberá fundamentar y motivar sus pronunciamientos.
-
-Los titulares de los órganos de la Suprema Corte designarán por escrito dirigido a la Unidad de Enlace al servidor público que les apoye para realizar las funciones antes referidas, el cual tendrá el carácter de Enlace. La responsabilidad derivada del ejercicio de dichas funciones recaerá esencialmente en los referidos titulares.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 135.
 
-El pronunciamiento a que se refiere el artículo anterior deberá emitirse por escrito en un plazo no mayor a cinco días hábiles, prorrogable a juicio del Comité, en consideración de las cargas de trabajo del órgano, del cúmulo de información de que se trate, del grado de dispersión o del lugar en el que se ubique.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 136.
 
-Si en su informe el órgano pone a disposición parcial o totalmente lo requerido, en la modalidad o modalidades preferidas, la Unidad de Enlace procederá a notificar al solicitante en un plazo no mayor de dos días hábiles, solicitando el entero de la cuota respectiva o, si la modalidad no implica costo alguno, procederá a remitirla de inmediato por correo electrónico y, en su caso, hará del conocimiento el lugar, fecha y hora para realizar la consulta física respectiva.
-
-El solicitante contará con un plazo de noventa días naturales, contados a partir de que se le notifique la resolución de disponibilidad del órgano, para realizar el pago correspondiente. Si transcurrido el plazo en mención no se hubiese enterado el pago, la Unidad de Enlace podrá ordenar el archivo del asunto.
-
-Una vez enterado el pago, la Unidad de Enlace pondrá a disposición la información en un plazo máximo de diez días hábiles. Para tal efecto, dicha Unidad contará con dos días hábiles para notificar al órgano que tenga bajo su resguardo la información, el cual contará con cinco días para generar la versión pública respectiva y remitirla a la Unidad de Enlace. Este último plazo podrá ser ampliado hasta por diez días hábiles, por el Comité, a solicitud del referido órgano. Si una vez realizado el pago, transcurren noventa días sin que se hubiese recogido la información, la Unidad de Enlace procederá a archivar el asunto y podrá disponer que el medio en que se haya reproducido la información sea destruido sin devolución del pago realizado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 137.
 
-Cuando el órgano requerido determine en todo o en parte la inexistencia, la clasificación de la información o su otorgamiento en modalidad distinta a la preferida, u omita pronunciarse sobre su disponibilidad, la Unidad de Enlace deberá comunicarlo al solicitante de forma inmediata, y remitirá el asunto a la Secretaría del Comité, en un plazo máximo de dos días hábiles, para su tramitación en vía de clasificación de información.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 DEL PROCEDIMIENTO DE ACCESO, RECTIFICACION, CANCELACION U OPOSICION DE PUBLICACION DE DATOS PERSONALES
 
@@ -1611,91 +1435,57 @@ En caso de que el órgano niegue en todo o en parte la solicitud, la Unidad de E
 
 ### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS SEGUIDOS ANTE EL COMITE DE ACCESO A LA INFORMACION Y DE PROTECCION DE DATOS PERSONALES
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
 DISPOSICIONES COMUNES
 
 ###### Artículo 149.
 
-El Comité conocerá de las solicitudes de acceso a la información una vez tramitado el procedimiento ordinario por la Unidad de Enlace si no se satisfizo en todo o en parte el ejercicio del derecho de acceso a la información. Para ello, procederá la tramitación de la clasificación de la información y, en su caso, el procedimiento de ejecución.
-
-El Comité conocerá a instancia de parte del procedimiento de hábeas data, una vez tramitado por la Unidad de Enlace el procedimiento de acceso, rectificación, cancelación u oposición de publicación de datos personales, si el órgano responsable del archivo se pronuncia sobre la inexistencia o imposibilidad de dar acceso a los datos, así como sobre cualquier negativa a su cancelación, rectificación o publicación.
-
-El Comité conocerá del procedimiento de supervisión para velar por el respeto al derecho de acceso a la información y a la protección de datos personales.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 150.
 
-En el dictado de sus resoluciones, el Comité ejercerá plenitud de jurisdicción y tomará todas las medidas que considere necesarias para satisfacer los derechos de acceso a la información y de protección de datos personales. En todo caso, el Comité deberá hacer saber en sus resoluciones al peticionario de la información, o requirente de correcciones o actualización u oposición de publicación de datos personales, la posibilidad que tiene de recurrir sus determinaciones, en términos del presente Acuerdo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 151.
 
-Las resoluciones del Comité deberán dictarse dentro del plazo para responder la solicitud respectiva, tomando en cuenta las prórrogas autorizadas.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 152.
 
-La Unidad de Enlace procederá a la notificación inmediata de las resoluciones emitidas por el Comité, al requirente y a los órganos relacionados. Esta notificación deberá realizarse en el plazo máximo de dos días hábiles, contados a partir del momento en se que reciba el engrose por vía electrónica e impresa, que remita el Secretario del Comité.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 DE LAS CLASIFICACIONES DE INFORMACION
 
 ###### Artículo 153.
 
-El Comité tendrá conocimiento, por la vía de la clasificación de información, de los casos en que, derivado del trámite del procedimiento ordinario, el titular del órgano al que la Unidad de Enlace hubiese requerido determine que la información solicitada:
-
-I. Es parcial o totalmente inexistente;
-
-II. Se encuentra total o parcialmente clasificada; y/o
-
-III. No se puede otorgar en la modalidad solicitada.
-
-También se iniciará la clasificación de información cuando el órgano requerido omita pronunciarse sobre la disponibilidad de la información, ya sea en su totalidad o en parte.
-
-En todo caso, al turnarlo al Comité, hará del conocimiento del órgano requerido que su determinación se ubica en alguno de estos supuestos.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 154.
 
-Con el pronunciamiento emitido en cualquiera de los supuestos anteriores, la Unidad de Enlace deberá remitir, en un plazo máximo de dos días hábiles, el expediente que corresponda a la Secretaría del Comité, la cual propondrá el turno del asunto en el mismo plazo al Presidente, para asignación al respectivo integrante del Comité, a fin de que proceda a su estudio y propuesta de resolución.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 155.
 
-Los integrantes del Comité deberán presentar el proyecto de resolución de las clasificaciones de información antes de la fecha en la que venza el plazo para responder a la solicitud respectiva, tomando en cuenta las prórrogas autorizadas y las fechas en que el Comité sesiona ordinariamente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 156.
 
-El Comité, al resolver por la vía de la clasificación de información, podrá:
-
-I. Declarar la incompetencia de la Suprema Corte, por ser materia de conocimiento de otro órgano del Estado, y ordenar la orientación correspondiente;
-
-II. Adoptar las medidas necesarias para localizar la información supuestamente inexistente o bien, atendiendo a su naturaleza, confirmar su inexistencia;
-
-III. Agotadas las medidas necesarias de búsqueda de la información, confirmar su inexistencia;
-
-IV. Confirmar, modificar o revocar, parcial o totalmente, la clasificación de la información determinada por el titular del órgano;
-
-V. Otorgar o negar el acceso a la información en la modalidad preferida, teniendo en cuenta las circunstancias del caso;
-
-VI. Declarar sin materia el asunto, cuando con anterioridad al pronunciamiento, el derecho de acceso a la información hubiese sido satisfecho;
-
-VII. Dar vista al órgano de control interno de cualquier responsabilidad administrativa que se pudiese generar; y
-
-VIII. Adoptar cualquier otra medida conducente para velar por el derecho de acceso a la información y sus restricciones derivadas de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 157.
 
-En las resoluciones de las clasificaciones de información deberán indicarse las razones que las sustenten.
-
-En el análisis del carácter reservado de la información, el Comité valorará las circunstancias de modo, tiempo y lugar en el momento de la reserva; así como los elementos objetivos a partir de los cuales pueda inferirse que con el acceso a la información existe una expectativa razonable de dañar el interés público protegido.
-
-En caso de duda razonable, al pronunciarse sobre la información clasificada como reservada, el Comité optará por su publicidad, y si ello no fuera posible, por la elaboración de versiones públicas de los documentos clasificados.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 158.
 
-Ante la inexistencia de soportes documentales en los que se contenga la información solicitada, porque ésta se encuentre dispersa en diversos documentos o concentrada en alguno de ellos, y dichos soportes se estimen relevantes para documentar las facultades o funciones que los ordenamientos jurídicos aplicables otorgan a la Suprema Corte, el Comité, tomando en cuenta las labores que resulten necesarias, así como el cúmulo de documentos o expedientes a revisar o versiones públicas a generar, otorgará el acceso a la información requerida, solicitando al o a los órganos que la tengan bajo resguardo, determinen, considerando sus cargas de trabajo, el plazo en el cual tendrán a disposición los soportes documentales respectivos.
-
-Al fijarse dicho plazo, el titular del órgano respectivo deberá ponderar los principios de máxima publicidad, transparencia y eficacia en el cumplimiento de sus funciones.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 159.
 
-Para la elaboración del engrose el respectivo integrante tendrá un plazo de cinco días hábiles, contados a partir del dictado de la resolución.
-
-La Secretaría del Comité, en coordinación con la Unidad de Enlace, dará seguimiento a los plazos de cumplimiento de las resoluciones emitidas e informará al Comité quincenalmente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 DEL PROCEDIMIENTO DE HABEAS DATA
 
@@ -1739,73 +1529,53 @@ En el supuesto de que en el hábeas data se impugne la omisión de responder una
 
 De resultar fundada la pretensión planteada en el hábeas data, el Comité especificará la información a la que se debe otorgar acceso o que deba ser suprimida, rectificada, actualizada o declarada confidencial o reservada; estableciendo un plazo para su cumplimiento, el cual no podrá ser menor a cinco días hábiles.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
+
 DEL PROCEDIMIENTO DE SUPERVISION
 
 ###### Artículo 165.
 
-El Comité verificará en vía de supervisión el debido cumplimiento de las obligaciones de transparencia y protección de datos personales a cargo de los servidores públicos de la Suprema Corte, derivadas de lo dispuesto en este Acuerdo y demás disposiciones aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 166.
 
-El procedimiento de supervisión procederá cuando el Comité por sí, o a instancia de cualquiera de sus integrantes, del titular de la Unidad de Enlace, o de cualquier órgano de la Suprema Corte, tome conocimiento de:
-
-I. La falta u omisión de la publicidad de la información respecto de la cual se tiene obligación de publicar en medios electrónicos;
-
-II. Se presuma la violación del derecho de cualquier persona de tomar conocimiento de sus datos personales que obren en archivos, registros o bancos de datos en responsabilidad de la Suprema Corte en este Acuerdo;
-
-III. Se presuma la falsedad, inexactitud, deficiencia, insuficiencia o desactualización de datos personales, así como de toda información cuya publicidad sea obligación de la Suprema Corte, en términos de lo previsto en este Acuerdo; y
-
-IV. Se presuma el tratamiento o uso incorrecto de datos.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 167.
 
-La supervisión podrá ser iniciada de oficio, a instancia de cualquiera de sus integrantes, del titular de la Unidad de Enlace o de cualquier otra área de la Suprema Corte, previo acuerdo del Comité.
-
-La supervisión procederá respecto de los servidores públicos responsables del resguardo, actualización, manejo y uso de la información de la Suprema Corte.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 168.
 
-El Comité podrá disponer el bloqueo provisional del archivo en lo referente al dato personal motivo de supervisión, cuando sea manifiesto el carácter discriminatorio, falso o inexacto de la información de que se trate.
-
-Esta disposición será aplicable para los casos en que se detecte la falsedad, inexactitud, insuficiencia o desactualización de datos, cualquiera que sea su naturaleza.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 169.
 
-Al día siguiente de ser admitida la supervisión a trámite, el Presidente del Comité requerirá al órgano responsable del archivo, la remisión de la información relativa. Asimismo, podrá solicitar informe justificado del tratamiento de los datos, su soporte técnico, la documentación de base relativa a su recolección y/o cualquier otro aspecto que estime necesario.
-
-Al rendir el informe el órgano deberá expresar las razones por las cuales incluyó o dejó de incluir la información cuestionada y aquellas por las que no otorgó o fue omisa en atender la respectiva petición.
-
-El plazo para rendir el informe será de cinco días hábiles, el que podrá ser duplicado por el Comité de Acceso, a solicitud del órgano.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 170.
 
-Una vez recibido el informe se listará para sesión del Comité, el cual resolverá lo conducente o lo turnará a uno de sus integrantes para que presente proyecto de resolución.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
-El Comité resolverá si la información debe ser otorgada, difundida o actualizada en medios electrónicos de consulta pública, o bien, si determinados datos personales deben ser rectificados, cancelados o suprimidos de la respectiva versión pública, estableciendo un plazo para su cumplimiento.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)</small>
 
 DEL PROCEDIMIENTO DE EJECUCION
 
 ###### Artículo 171.
 
-El Comité conocerá del procedimiento de ejecución para verificar el cumplimiento de sus resoluciones.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 172.
 
-La Secretaría del Comité dará cuenta a su Presidente del informe que remita la Unidad de Enlace sobre el cumplimiento o incumplimiento por parte del órgano u órganos obligados en las resoluciones pronunciadas en las clasificaciones de información, hábeas data y supervisión, considerando los plazos aplicables.
-
-El Comité deberá pronunciarse sobre el cumplimiento de sus resoluciones y, previa valoración de las constancias de autos, tener por concluido el expediente respectivo, requerir al o a los órganos contumaces para que cumplan en un plazo razonable o remitir el expediente a la Comisión. En los asuntos que acuerde el Comité, la valoración y determinación sobre el debido cumplimiento de sus resoluciones podrá delegarla a su Presidente.
-
-Si en el plazo concedido para ello, el órgano responsable de la información no hubiese cumplido con las obligaciones derivadas de las resoluciones del Comité, su Presidente podrá requerir a dicho órgano para que proceda a su ejecución y a su inmediato superior para su conocimiento.
-
-Si el órgano u órganos vinculados insistieren en no dar cumplimiento a lo ordenado total o parcialmente, la Secretaría del Comité dará cuenta al Presidente, el cual lo someterá al Comité para que éste determine remitirlo a la Comisión o bien devolver el expediente al integrante que corresponda para que elabore el proyecto de resolución respectivo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 173.
 
-Los proyectos de resolución dentro de los procedimientos de ejecución deberán presentarse por el respectivo integrante del Comité dentro de los diez días hábiles siguientes a partir de que reciba el expediente. Este plazo podrá duplicarse por el Comité si existen razones que lo justifique.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 174.
 
-El procedimiento de ejecución de las resoluciones de la Comisión se seguirá por el Comité, el cual deberá informar al Presidente de la Comisión las diversas determinaciones que adopte.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, D.O.F. 10 DE NOVIEMBRE DE 2015)
 
 ### CAPITULO CUARTO. DE LOS PROCEDIMIENTOS SEGUIDOS ANTE LA COMISION PARA LA TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL Y PROTECCION DE DATOS PERSONALES
 
@@ -1831,19 +1601,29 @@ En el análisis del carácter confidencial de la información, la Comisión podr
 
 Para tales efectos, podrá mediar petición del recurrente, quien aportará los elementos de prueba que considere pertinentes o bien, la Comisión podrá determinarlo de oficio cuando durante la sustanciación del recurso considere que existen elementos que justifiquen la divulgación de la información confidencial.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. 10 DE NOVIEMBRE DE 2015, SE DEROGA DEL PRESENTE APARTADO SÓLO LO REFERENTE AL COMITÉ DE ACCESO A LA INFORMACIÓN Y DE PROTECCIÓN DE DATOS PERSONALES, DEJANDO A SALVO LA POSIBILIDAD DE ESA FIGURA PARA EL COMITÉ ESPECIALIZADO DE MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.</small>
+
 DEL INCIDENTE DE INCUMPLIMIENTO
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. 10 DE NOVIEMBRE DE 2015, SE DEROGA LO REFERENTE AL COMITÉ DE ACCESO A LA INFORMACIÓN Y DE PROTECCIÓN DE DATOS PERSONALES, DEJANDO A SALVO LA POSIBILIDAD DE ESA FIGURA PARA EL COMITÉ ESPECIALIZADO DE MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.</small>
 
 ###### Artículo 179.
 
 Para asegurar la ejecución de sus resoluciones y de las del Comité, la Comisión conocerá del incidente de incumplimiento.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. 10 DE NOVIEMBRE DE 2015, SE DEROGA LO REFERENTE AL COMITÉ DE ACCESO A LA INFORMACIÓN Y DE PROTECCIÓN DE DATOS PERSONALES, DEJANDO A SALVO LA POSIBILIDAD DE ESA FIGURA PARA EL COMITÉ ESPECIALIZADO DE MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.</small>
+
 ###### Artículo 180.
 
 Otorgado el acceso a la información solicitada o la corrección, actualización, cancelación u oposición a la publicación de datos personales, por resolución del Comité o de la Comisión, si el órgano responsable de la información no hubiese cumplido con las obligaciones impuestas en la resolución respectiva, aun con los requerimientos formulados al servidor público responsable y/o a su superior jerárquico, el Presidente del Comité, previo acuerdo de éste, remitirá el asunto a la Comisión para la tramitación del incidente de incumplimiento, correspondiendo al Secretario de Acuerdos de la Comisión dar cuenta a su Presidente e integrar el expediente respectivo. En caso del incumplimiento de resoluciones de la Comisión, corresponderá darle cuenta de ello a su Secretario de Acuerdos.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. 10 DE NOVIEMBRE DE 2015, SE DEROGA LO REFERENTE AL COMITÉ DE ACCESO A LA INFORMACIÓN Y DE PROTECCIÓN DE DATOS PERSONALES, DEJANDO A SALVO LA POSIBILIDAD DE ESA FIGURA PARA EL COMITÉ ESPECIALIZADO DE MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.</small>
+
 ###### Artículo 181.
 
 Tomando en cuenta lo determinado por el Comité en el procedimiento de ejecución, el Presidente de la Comisión podrá requerir al órgano responsable para que de inmediato cumpla con lo determinado por aquél, así como a sus superiores jerárquicos para que le conminen a ello, sin menoscabo de turnar el asunto al respectivo Ministro de la Comisión.
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN 05/2015, DEL TRES DE NOVIEMBRE DE DOS MIL QUINCE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. 10 DE NOVIEMBRE DE 2015, SE DEROGA LO REFERENTE AL COMITÉ DE ACCESO A LA INFORMACIÓN Y DE PROTECCIÓN DE DATOS PERSONALES, DEJANDO A SALVO LA POSIBILIDAD DE ESA FIGURA PARA EL COMITÉ ESPECIALIZADO DE MINISTROS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.</small>
 
 ###### Artículo 182.
 
@@ -2214,3 +1994,27 @@ SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y 
 El Presidente de la Comisión, Ministro Juan N. Silva Meza.- Rúbrica.- La Ministra Olga Sánchez Cordero de García Villegas.- Rúbrica.- El Ministro Genaro David Góngora Pimentel.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO EJECUTIVO DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del "ACUERDO GENERAL DE LA COMISION PARA LA TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL Y PROTECCION DE DATOS PERSONALES DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, DEL NUEVE DE JULIO DE DOS MIL OCHO, RELATIVO A LOS ORGANOS Y PROCEDIMIENTOS PARA TUTELAR EN EL AMBITO DE ESTE TRIBUNAL LOS DERECHOS DE ACCESO A LA INFORMACION, A LA PRIVACIDAD Y A LA PROTECCION DE DATOS PERSONALES GARANTIZADOS EN EL ARTICULO 6o. CONSTITUCIONAL," constante de noventa y cinco fojas útiles, concuerda fiel y exactamente con el original que obra en esta Secretaría Ejecutiva y se certifica para la difusión correspondiente.- México, Distrito Federal, a diez de julio de dos mil ocho.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 10 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Acuerdo General entrará en vigor el día de su expedición.
+
+SEGUNDO.- Se derogan, del Acuerdo General de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales de la Suprema Corte de Justicia de la Nación, del nueve de julio de dos mil ocho, relativo a los órganos y procedimientos para tutelar en el ámbito de este Tribunal los derechos de acceso a la información, a la privacidad y a la protección de datos personales garantizados en el artículo 6o. Constitucional, las siguientes disposiciones:
+
+- Del Título Segundo denominado “Atribuciones y Funcionamiento de los Órganos Encargados de la Transparencia, el Acceso a la Información y la Protección de Datos Personales”:
+
+• El Capitulo Segundo “Del Comité de Acceso a la Información y de Protección de Datos Personales”.
+
+- Del Título Séptimo denominado “De los Procedimientos Seguidos por los Órganos Encargados de la Transparencia, el Acceso a la Información y la Protección de Datos Personales”:
+
+• El Capítulo Primero “Disposiciones Generales”.
+
+• Del Capítulo Segundo “De los Procedimientos seguidos ante la Unidad de Enlace”, los Apartados “Disposiciones Comunes” y “De los Procedimientos de Acceso a la Información”, así como las secciones “Del Procedimiento Sumario” y “Del Procedimiento Ordinario”.
+
+• Del Capítulo Tercero “De los Procedimientos Seguidos ante el Comité de Acceso a la Información y de Protección de Datos Personales”, los Apartados “Disposiciones Comunes”, “De las Clasificaciones de Información”, “Del Procedimiento de Supervisión” y “Del Procedimiento de Ejecución”.
+
+• Del Capítulo Cuarto “De los Procedimientos Seguidos ante la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales”, el apartado “Incidente de cumplimiento (sic)” sólo lo referente al Comité de Acceso a la Información y de Protección de Datos Personales, dejando a salvo la posibilidad de esa figura para el Comité Especializado de Ministros de la Suprema Corte de Justicia de la Nación.
+
+TERCERO.- Publíquese el presente Acuerdo General en el Diario Oficial de la Federación, el Semanario Judicial de la Federación y su Gaceta, y en medios electrónicos de Consulta Física en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública. CÚMPLASE.
