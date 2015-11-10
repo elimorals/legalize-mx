@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2014-09-27"
+last_updated: "2015-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -1003,7 +1003,7 @@ Las sanciones por responsabilidades administrativas consistirán en:
 
 I. Apercibimiento;
 
-III. Amonestación por escrito;
+II. Amonestación por escrito;
 
 III. Sanción pecuniaria;
 
@@ -1051,7 +1051,7 @@ Se entregará una copia de la amonestación al sancionado y una más se insertar
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
-###### Articulo 75.
+###### Artículo 75.
 
 Para la aplicación de sanciones pecuniarias por los daños y perjuicios causados por el servidor público presunto responsable a las autoridades descritas en el artículo 3°. de esta ley, por el incumplimiento de alguna de las obligaciones establecidas en el artículo 61 de este ordenamiento con excepción a la dispuesta por su fracción XXII, se podrán aplicar hasta dos tantos del daño causado, atendiendo a la determinación liquida que se efectúe, sin que en ningún caso se deje de cubrir el menoscabo sufrido por el erario estatal o municipal.
 
@@ -1487,9 +1487,11 @@ c) El estado que guarden las cuentas bancarias, valores, así como los gravámen
 
 Los formatos bajo los cuales se deba rendir la información a que se refiere este Capítulo, establecerán la forma y detalle en que se deben realizar.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La publicitación de la información relativa a la declaración patrimonial por parte de los entes responsables a los que se refiere el artículo 93 de la presente ley, se hará siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate.
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2015)</small>
+
+La publicitación de la información relativa a la declaración patrimonial por parte de los entes responsables a los que se refiere el artículo 93 de la presente ley, se hará de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
@@ -1784,3 +1786,15 @@ Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delito
 P.O. 27 DE SEPTIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor de conformidad con la declaratoria de incorporación del Sistema Procesal Penal Acusatorio y del Código Nacional de Procedimientos Penales al orden Jurídico del Estado de Jalisco, aprobada mediante Decreto 24864/LX/14, publicado en fecha 11 de abril del 2014, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 10 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el día en que inicie su vigencia el Decreto No. 25437, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+
+SEGUNDO. Previo a la entrada en vigor del presente decreto los sujetos obligados deberán realizar las adecuaciones administrativas necesarias para su debido cumplimiento.
+
+TERCERO. Respecto a la denominación y nombramiento de los comisionados será vigente una vez que se apruebe la reforma a la Constitución Política del Estado de Jalisco en materia de transparencia.
+
+CUARTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto se concluirán de conformidad con las disposiciones vigentes en el momento en que iniciaron.
+
+QUINTO. En tanto no se expida la ley general en materia de datos personales en posesión de sujetos obligados, permanecerán vigentes los artículos de esta Ley en la materia.
