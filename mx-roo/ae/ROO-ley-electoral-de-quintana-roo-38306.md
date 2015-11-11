@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2012-12-07"
+last_updated: "2015-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ROO"
 ---
 # LEY ELECTORAL DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ELECTORAL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO DE REFORMAS, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2015, ENTRARÁ EN VIGOR PREVIA SU PUBLICACIÓN, AL DÍA SIGUIENTE QUE INICIE SU VIGENCIA EL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO EN MATERIA POLÍTICO ELECTORAL.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -41,13 +45,13 @@ LEY ELECTORAL DE QUINTANA ROO.
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público y de observancia general en todo el Estado de Quintana Roo y reglamentarias de la Constitución Particular. Las autoridades estatales de los municipios, los organismos electorales, agrupaciones políticas, los partidos políticos y los candidatos independientes velarán por su estricta aplicación y cumplimiento.
+Las disposiciones de esta Ley son de orden público y observancia general en todo el Estado de Quintana Roo y reglamentarias de la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales de Instituciones y Procedimientos Electorales y de Partidos Políticos, y la Constitución Política del Estado Libre y Soberano de Quintana Roo. Las autoridades estatales, de los municipios, los organismos electorales, agrupaciones políticas, los partidos políticos y los candidatos independientes velarán por su estricta aplicación y cumplimiento.
 
-Las autoridades electorales, en el ejercicio de sus funciones, ajustarán sus actos a los principios constitucionales rectores en materia electoral de legalidad, certeza, independencia, imparcialidad y objetividad.
+Las autoridades electorales, en el ejercicio de sus funciones, ajustarán sus actos a los principios constitucionales rectores en materia electoral de legalidad, certeza, independencia, imparcialidad, máxima publicidad y objetividad.
 
 ###### Artículo 2.
 
@@ -61,9 +65,11 @@ III. La función estatal de preparar, desarrollar, organizar y vigilar los proce
 
 IV. Las faltas administrativas en materia electoral y sus sanciones.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-La interpretación de esta Ley se realizará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+La interpretación de esta ley se realizará conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
 
 ###### Artículo 4.
 
@@ -83,29 +89,93 @@ Los Notarios Públicos del Estado auxiliarán a los servidores electorales en fo
 
 Para los efectos de los ordenamientos electorales, se entenderá por:
 
-Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Constitución Particular: La Constitución Política del Estado Libre y Soberano de Quintana Roo.
+I. Actos anticipados de campaña: Los actos de expresión y de posicionamiento que se realicen bajo cualquier modalidad y en cualquier momento fuera de las etapas de campañas, que contengan llamados expresos o implícitos al voto en contra o a favor de una candidatura o un partido, o expresiones solicitando cualquier tipo de apoyo para contender por alguna candidatura o para un partido;
 
-Ley Electoral: La Ley Electoral de Quintana Roo.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Ley de Medios: Ley Estatal de Medios de Impugnación en Materia Electoral.
+II. Actos anticipados de precampaña: Las expresiones y actos de posicionamiento que se realicen bajo cualquier modalidad y en cualquier momento antes del plazo legal para el inicio de las precampañas, que contengan llamados expresos o implícitos al voto en contra o a favor de una precandidatura;
 
-Ley Orgánica del Instituto: La Ley Orgánica del Instituto Electoral de Quintana Roo.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Ley Orgánica del Tribunal: La Ley Orgánica del Tribunal Electoral de Quintana Roo.
+III. Precandidato: Al ciudadano que, debidamente registrado al interior de un partido político, contiende con el fin de alcanzar su postulación como candidato a un cargo de elección popular, o bien que su postulación como candidato requiere de la votación, aceptación o designación de los órganos competentes del partido político.
 
-Instituto: El Instituto Electoral de Quintana Roo.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Tribunal: El Tribunal Electoral de Quintana Roo.
+IV. Precandidato único: Al ciudadano registrado internamente por un partido político y que requiere únicamente del registro como precandidato para ser considerado como candidato por el partido político.
 
-Consejo General: El Consejo General del Instituto Electoral de Quintana Roo.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Junta General: La Junta General del Instituto Estatal Electoral.
+V. Candidato: Al ciudadano registrado por un partido político ante los órganos electorales, que pretende acceder a un cargo de elección popular mediante el voto;
 
-Consejero Presidente: El Consejero Presidente del Instituto Estatal Electoral.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Secretario General: El Secretario General del Instituto Estatal Electoral.
+VI. Candidato independiente: Al ciudadano que sin ser postulado por un partido político, obtenga por parte de la autoridad electoral el acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece esta Ley;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+VII. Ciudadanos: Las personas que teniendo la calidad de quintanarroense, reúnan los requisitos determinados en el artículo 40 de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Constitución Federal: La Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IX. Ley de Instituciones: La Ley General de Instituciones y Procedimientos Electorales;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+X. Ley de Partidos: La Ley General de Partidos Políticos;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XI. Constitución Particular: la Constitución Política del Estado Libre y Soberano de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XII. Ley Electoral: La Ley Electoral de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Ley de Medios: Ley Estatal de Medios de Impugnación en Materia Electoral;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Ley Orgánica del Instituto: La Ley Orgánica del Instituto Electoral de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XV. Ley Orgánica del Tribunal: La Ley Orgánica del Tribunal Electoral de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XVI. INE: El Instituto Nacional Electoral;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Instituto: El Instituto Electoral de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Tribunal: El Tribunal Electoral de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XIX. Consejo General: El Consejo General del Instituto Electoral de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XX. Junta General: La Junta General del Instituto Electoral de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Consejero Presidente: El Consejero Presidente del Instituto Electoral de Quintana Roo, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XXII. Secretario General: El Secretario General del Instituto Electoral de Quintana Roo.
 
 ## TÍTULO SEGUNDO. DE LOS CIUDADANOS
 
@@ -131,11 +201,11 @@ Votar en las elecciones constituye un derecho y una obligación de los ciudadano
 
 El ejercicio del derecho al voto corresponde a los ciudadanos del Estado, que estén inscritos en las listas nominales de electores, cuenten con la credencial para votar con fotografía respectiva y no tengan impedimento legal para el ejercicio de ese derecho.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 12.
 
-Es un derecho del ciudadano del Estado ser votado para los cargos de elección popular
+Es un derecho del ciudadano del Estado ser votado para los cargos de elección popular y obligación para los partidos políticos la igualdad de oportunidades y la paridad entre hombres y mujeres para tener acceso a cargos de elección popular.
 
 ###### Artículo 13.
 
@@ -151,9 +221,11 @@ IV. Los condenados por sentencia ejecutoria a la suspensión o pérdida de sus d
 
 V. Quienes incumplan injustificadamente cualquiera de las obligaciones de un ciudadano, señaladas en la Constitución Federal y/o Constitución Particular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 14.
 
-Es derecho de los ciudadanos del Estado constituir agrupaciones políticas estatales y partidos políticos locales, y pertenecer a los mismos. Esta ley establece los procedimientos y requisitos para la constitución y el registro de los mismos.
+Es derecho de los ciudadanos del Estado constituir agrupaciones políticas estatales y partidos políticos locales, y pertenecer a los mismos. La Ley de Partidos y esta ley, establecen los procedimientos y requisitos para la constitución y el registro de los mismos.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -201,6 +273,36 @@ Quedan prohibidos los actos que generen presión a los electores.
 
 Se consideran actos de presión, ejercer apremio, coacción, amagos, amenazas e intimidación que limiten o condicionen el libre ejercicio de los derechos político electorales.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+La actuación de los poderes públicos en todo momento será imparcial, por lo que sus servidores no intervendrán directa o indirectamente a favor o en contra de cualquier partido político, coalición, candidato o precandidato.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES LOCALES Y HASTA LA CONCLUSIÓN DE LA JORNADA COMICIAL, SE SUSPENDERÁ EN MEDIOS DE COMUNICACIÓN SOCIAL, LA DIFUSIÓN DE TODA LA PROPAGANDA GUBERNAMENTAL DE LOS PODERES ESTATALES, LOS MUNICIPIOS Y CUALQUIER OTRO ENTE PÚBLICO, ASÍ COMO DE LAS DELEGACIONES DEL EJECUTIVO FEDERAL, CON EXCEPCIÓN DE LAS CAMPAÑAS DE INFORMACIÓN DE LAS AUTORIDADES ELECTORALES, LAS RELATIVAS A SERVICIOS EDUCATIVOS Y DE SALUD, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL, ASÍ COMO CUALQUIER OTRA DE ESTRICTA NECESIDAD QUE APRUEBE EL INE O EL INSTITUTO ELECTORAL DE QUINTANA ROO; DEBIENDO ENTENDERSE QUE LA REALIZACIÓN DE OBRAS Y EJECUCIÓN DE PROGRAMAS CONTINUARÁN REALIZÁNDOSE.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+NO SE CONSIDERARÁ COMO PROPAGANDA PERSONALIZADA, LA INFORMACIÓN QUE DIFUNDAN LOS MEDIOS DE COMUNICACIÓN SOCIAL, RESPECTO DE LAS ACTIVIDADES PROPIAS DE LAS FUNCIONES GUBERNAMENTALES.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+LAS FACHADAS DE LOS BIENES MUEBLES O INMUEBLES GUBERNAMENTALES, LOGOTIPOS, LEMAS Y DEMÁS ELEMENTOS DISTINTIVOS QUE PORTEN POR MOTIVO DE LAS ACTIVIDADES QUE REALIZAN NO SERÁN CONSIDERADAS COMO PROPAGANDA GUBERNAMENTAL.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+El servidor público que incurra en la prohibición prevista en este artículo, será sujeto de responsabilidad administrativa en términos de la ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+El Instituto será el encargado de tomar las medidas correspondientes para que se cumpla con las disposiciones anteriores.
+
 ## TÍTULO TERCERO. DE LA DEMARCACIÓN TERRITORIAL ELECTORAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
@@ -209,7 +311,9 @@ Se consideran actos de presión, ejercer apremio, coacción, amagos, amenazas e 
 
 Para los efectos de la presente Ley, así como para la renovación periódica del Gobernador, diputados y miembros de los ayuntamientos, el territorio del Estado de Quintana Roo se divide en secciones electorales, distritos, municipios y circunscripción.
 
-En cada una de las secciones electorales, distritos y municipios se instalarán órganos desconcentrados, que se denominarán mesas directivas de casilla y consejos distritales, respectivamente, en los términos de la Ley Orgánica del Instituto.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En cada una de las secciones electorales, distritos y municipios se instalarán órganos desconcentrados, que se denominarán mesas directivas de casilla, Consejos Distritales o Consejos Municipales según corresponda, en los términos de la Ley Orgánica del Instituto, o bien, tratándose de elecciones concurrentes, las mesas directivas de casillas únicas serán instaladas conforme lo establezca el INE.
 
 ###### Artículo 21.
 
@@ -223,11 +327,11 @@ Para la elección de diputados por el principio de mayoría relativa, el territo
 
 Para efectos de la asignación de diputados por el principio de representación proporcional, el territorio del Estado constituye una circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 24.
 
-Los Municipios constituyen la base de la división territorial y de la organización política y administrativa del Estado. Los municipios son diez, y su extensión territorial comprende la superficie y límites reconocidos para cada uno de ellos, en los términos de la Constitución Particular, misma extensión que servirá de base para la elección de aquellos.
+Los Municipios constituyen la base de la división territorial y de la organización política y administrativa del Estado. Su extensión territorial comprende la superficie y límites reconocidos para cada uno de ellos, en los términos de la Constitución Particular, misma extensión que servirá de base para la elección de aquellos.
 
 ### CAPÍTULO SEGUNDO. DE LAS SECCIONES, DISTRITOS, MUNICIPIOS Y CIRCUNSCRIPCIÓN
 
@@ -235,7 +339,9 @@ Los Municipios constituyen la base de la división territorial y de la organizac
 
 La sección electoral es la demarcación territorial básica en que se divide el territorio del Estado para la organización de las elecciones y la recepción del sufragio.
 
-El seccionamiento de los distritos electorales, se sujetará a lo que se establezca en el convenio que para tal efecto realice el Instituto con la autoridad federal correspondiente.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+El seccionamiento de los distritos electorales, se sujetará a lo establecido por el INE.
 
 ###### Artículo 26.
 
@@ -245,33 +351,21 @@ Las secciones electorales en que se divide el territorio del Estado, comprender�
 
 Se entiende por distrito electoral uninominal, la demarcación territorial en la que será electa una fórmula de diputados propietario y suplente, por el principio de mayoría relativa.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 28.
 
-El ámbito territorial de los quince distritos electorales uninominales del Estado, se determinará mediante la aprobación de las dos terceras partes de los integrantes del Consejo General y se sujetará a los criterios siguientes:
+El ámbito territorial de los distritos electorales uninominales del Estado, se determinará mediante la aprobación del INE.
 
-I. Los distritos uninominales deberán atender invariablemente a la densidad de población, las condiciones geográficas y las circunstancias socioeconómicas prevalecientes de las distintas regiones de la entidad.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II. Por lo menos dieciocho meses antes del proceso electoral ordinario de que se trate y cuando así lo acuerde el Consejo General, este ordenará la realización del estudio técnico para la determinación de los distritos electorales uninominales en que deberá dividirse el Estado.
+ENTRETANTO NO SE APRUEBE LA MODIFICACIÓN DE LOS DISTRITOS ELECTORALES UNINOMINALES, SEGUIRÁ UTILIZÁNDOSE LA QUE SE ENCUENTRE EN VIGENCIA.
 
-III. De acordarlo el Consejo General, el Registro Federal de Electores previo convenio de colaboración que celebre con el propio Instituto, será la instancia que formule el estudio técnico para realizar la división territorial del Estado en distritos electorales uninominales, para su aprobación correspondiente.
-
-IV. Invariablemente, la delimitación de la geografía electoral y su modificación deberán resolverse entre dos procesos electorales ordinarios.
-
-V. En los trabajos de distritación se deberá observar que su desarrollo permita efectuar cualquier modificación a la cartografía electoral, las secciones, el padrón y la lista nominal.
-
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2005)</small>
-
-VI. Para la numeración de los distritos se establecerá un punto geográfico inicial y un sentido para asignarla siguiendo la continuidad territorial de los mismos.
-
-VII. Una vez concluidos los trabajos de distritación, la resolución que en su caso expida el Consejo General, se mandará a publicar en el Periódico Oficial del Gobierno del Estado.
-
-VIII. Entretanto no se apruebe la modificación de los distritos electorales uninominales, seguirá utilizándose la que se encuentre en vigencia.
-
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 29.
 
-Para los efectos de las elecciones municipales a que se refiere el presente ordenamiento, el Estado de Quintana Roo se divide en los siguientes diez municipios, que por orden alfabético son: Bacalar, Benito Juárez, Cozumel, Felipe Carrillo Puerto, Isla Mujeres, José María Morelos, Lázaro Cárdenas, Othón P. Blanco, Solidaridad y Tulúm.
+Para los efectos de las elecciones municipales a que se refiere el presente ordenamiento, el Estado de Quintana Roo se divide en los Municipios establecidos en la Constitución Particular.
 
 ###### Artículo 30.
 
@@ -319,9 +413,9 @@ Para tener derecho a la asignación de diputados de representación proporcional
 
 I. Acreditar, con las constancias correspondientes, la postulación de candidatos de mayoría relativa, en por lo menos ocho distritos electorales; y
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. Haber obtenido, al menos el dos por ciento de la votación total emitida en el Estado en la elección de diputados de mayoría relativa inmediata anterior.
+II. Haber obtenido, al menos el tres por ciento del total de la votación válida emitida en el Estado en la elección de diputados de mayoría relativa inmediata anterior.
 
 ###### Artículo 37.
 
@@ -365,13 +459,15 @@ Los ciudadanos que no se encuentren en los supuestos del artículo 139 de la Con
 
 ### CAPÍTULO PRIMERO. DE LAS ELECCIONES ORDINARIAS
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-La elección ordinaria de Gobernador se celebrará cada seis años, el primer domingo de julio del año que corresponda.
+La elección ordinaria de Gobernador se celebrará cada seis años, el primer domingo de junio del año que corresponda.
 
-Las elecciones ordinarias de Diputados y de miembros de los Ayuntamientos se efectuarán cada tres años, el primer domingo de julio del año que corresponda.
+Las elecciones ordinarias de Diputados se efectuará (sic) cada tres años, el primer domingo de junio del año que corresponda.
+
+Las elecciones ordinarias de miembros de los Ayuntamientos se efectuarán cada tres años, el primer domingo de junio del año que corresponda a las elecciones federales.
 
 ### CAPÍTULO SEGUNDO. DE LAS ELECCIONES EXTRAORDINARIAS
 
@@ -439,7 +535,9 @@ Para el logro de estos fines, los partidos políticos ajustarán sus actos a las
 
 Para los efectos de la presente Ley se consideran:
 
-I. Partidos Políticos Nacionales, los que cuenten con registro vigente ante el Instituto Federal Electoral; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+I. Partidos Políticos Nacionales, los que cuenten con registro vigente ante el INE, y
 
 II. Partidos Políticos Locales, los que cuenten con registro vigente otorgado por el Instituto Electoral de Quintana Roo.
 
@@ -475,7 +573,11 @@ Las Agrupaciones Políticas Estatales sólo podrán participar en procesos elect
 
 El Acuerdo de Participación a que se refiere el artículo anterior, deberá presentarse para su registro ante el órgano competente del Instituto, que en todo caso, será previo al registro de candidatos.
 
-Las agrupaciones políticas nacionales y estatales estarán sujetas a las obligaciones y procedimientos de fiscalización de sus recursos conforme a lo establecido en esta Ley y en el reglamento correspondiente.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Las agrupaciones políticas NACIONALES Y estatales estarán sujetas a las obligaciones y procedimientos de fiscalización de sus recursos conforme a lo establecido en la Ley de Instituciones, la Ley de Partidos, esta Ley y los reglamentos correspondientes.
 
 ###### Artículo 58.
 
@@ -515,7 +617,7 @@ II. Haberse dado las causas de disolución conforme a sus documentos básicos;
 
 III. Por incumplir de manera grave con las disposiciones contenidas en el presente ordenamiento;
 
-IV. Haber dejado de cumplir con los requisitos necesarios para obtener el registro, y (sic)
+IV. Haber dejado de cumplir con los requisitos necesarios para obtener el registro, y
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -577,37 +679,55 @@ VI. Comunicar al Instituto las altas y bajas de sus asociados, dentro de los tre
 
 ### CAPÍTULO PRIMERO. DE LA CONSTITUCIÓN DE LOS PARTIDOS POLÍTICOS LOCALES
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 63.
 
-Las Agrupaciones Políticas Estatales que por acuerdo de su máximo órgano de dirección, pretendan constituirse como Partido Político Local, deberán ostentarse con una denominación y emblema propios. A dichas agrupaciones, para efectos de esta Ley, se les denominará la organización, hasta en tanto obtengan su registro como partidos políticos.
+Las organizaciones de ciudadanos que pretendan constituirse como partido político local, deberán ostentarse con una denominación y emblema propios. A dichas agrupaciones, para efectos de esta Ley, se les denominará la organización, hasta en tanto obtengan su registro como partidos políticos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 64.
 
-Toda organización que pretenda constituirse como Partido Político Local, deberá dar aviso de esa intención al Instituto, un año antes de presentar su solicitud de registro como tal. A partir del aviso, la organización interesada deberá informar semestralmente sobre el origen y destino de los recursos que obtenga para el desarrollo de sus actividades tendientes a la obtención del registro legal. Asimismo acreditará el cumplimiento de los siguientes requisitos:
+Toda organización de ciudadanos que pretenda constituirse como partido político local, deberá dar aviso de esa intención al Instituto, en el mes de enero del año siguiente al de la elección de Gobernador. A partir del aviso y hasta la resolución sobre la procedencia del registro, la organización informará mensualmente al INE sobre el origen y destino de sus recursos, dentro de los diez primeros días de cada mes. Asimismo acreditará el cumplimiento de los siguientes requisitos:
 
-I. Su conformación como Agrupación Política Estatal con una antigüedad de por lo menos tres años;
+I. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2015)
 
 II. Formular una declaración de principios y, en congruencia con ellos, un programa de acción y los estatutos que normarán sus actividades como partido político;
 
-III. Contar con un mínimo de mil quinientos afiliados, en cada uno de, por lo menos diez de los distritos electorales del Estado;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-IV. Acreditar a través de constancia expedida por Notario Público, tener domicilio y órganos de representación en por lo menos, diez distritos electorales uninominales del Estado, sin perjuicio de la inspección que realice el Instituto;
+III. Contar con militantes en cuando menos dos terceras partes de los municipios de la entidad; los cuales deberán contar con credencial para votar en dichos municipios; el número total de sus militantes en la entidad no podrá ser inferior al 0.26 por ciento del padrón electoral que haya sido utilizado en la elección local ordinaria inmediata anterior a la presentación de la solicitud de que se trate;
 
-V. Haber realizado actividades políticas independientes de cualquier otra organización política, por lo menos durante el año anterior a la fecha en que se presente la solicitud de registro; y (sic)
+IV. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2015)
+
+V. (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2015)
 
 VI. La designación de sus representantes, con carácter provisional, para los efectos de trámite de su constitución y registro como Partido Político Local;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-VII. Que en la realización de la asamblea de que se trate no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el partido político, salvo el caso de agrupaciones políticas nacionales.
+VII. Que en la realización de la asamblea de que se trate no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el partido político, salvo el caso de agrupaciones políticas nacionales o locales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2009)</small>
 
 Queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa a ellos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Las autoridades electorales, solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que establecen la Constitución, esta Ley y las (sic) demás ordenamientos aplicables.
+VIII. Las autoridades electorales, solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que establecen la Constitución, esta Ley y los demás ordenamientos aplicables. Son asuntos internos de los partidos políticos:
+
+A. La elaboración y modificación de sus documentos básicos, las (sic) cuales en ningún caso se podrán hacer una vez iniciado el proceso electoral.
+
+B. La determinación de los requisitos y mecanismos para la libre y voluntaria afiliación de los ciudadanos a éstos.
+
+C. La elección de los integrantes de sus órganos internos.
+
+D. Los procedimientos y requisitos para la selección de sus precandidatos y candidatos a cargos de elección popular.
+
+E. Los procesos deliberativos para la definición de sus estrategias políticas y electorales y, en general, para la toma de decisiones por sus órganos internos y de los organismos que agrupen a sus militantes.
+
+F. La emisión de los reglamentos internos y acuerdos de carácter general que se requieran para el cumplimiento de sus documentos básicos.
 
 ###### Artículo 65.
 
@@ -617,7 +737,7 @@ I. La obligación de observar la Constitución Federal y la Constitución Partic
 
 II. Las bases ideológicas de carácter político, económico y social que postula;
 
-III. La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o aceptar cualquier tipo de apoyo proveniente de extranjeros o de ministros de culto de cualquier asociación religiosa; y (sic)
+III. La obligación de no aceptar pacto o acuerdo que lo sujete o subordine a cualquier organización internacional o lo haga depender de entidades o partidos políticos extranjeros; así como no solicitar o aceptar cualquier tipo de apoyo proveniente de extranjeros o de ministros de culto de cualquier asociación religiosa; y
 
 IV. La obligación de encauzar sus actividades por medios pacíficos y por la vía democrática;
 
@@ -643,7 +763,47 @@ Los Estatutos establecerán:
 
 I. La denominación propia, el emblema y color o colores que lo caractericen y lo diferencien de otros partidos políticos. La denominación y el emblema estarán exentos de alusiones, símbolos o significados religiosos o discriminatorios;
 
-II. Los procedimientos para la afiliación individual, libre y pacífica de sus miembros, así como sus derechos y obligaciones. Dentro de los derechos se incluirán el de participar personalmente o por medio de delegados en asambleas y convenciones, y el de poder ser integrante de los órganos directivos;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+II. Los procedimientos para la afiliación individual, libre y pacífica de sus miembros, así como sus derechos y obligaciones. Dentro de los derechos se incluirán al menos los siguientes:
+
+A. Participar personalmente y de manera directa o por medio de delegados en asambleas, consejos, convenciones o equivalentes, en las que se adopten decisiones relacionadas con la aprobación de los documentos básicos del partido político y sus modificaciones, la elección de dirigentes y candidatos a puestos de elección popular, la fusión, coalición, formación de frentes y disolución del partido político.
+
+B. Postularse dentro de los procesos internos de selección de candidatos a cargos de representación popular, cumpliendo con los requisitos que se establezcan en las disposiciones aplicables y en los estatutos de cada partido político.
+
+C. Postularse dentro de los procesos de selección de dirigentes, así como para ser nombrado en cualquier otro empleo o comisión al interior del partido político, cumpliendo con los requisitos establecidos por sus estatutos.
+
+D. Pedir y recibir información pública sobre cualquier asunto del partido político, en los términos de las leyes en materia de transparencia, independientemente de que tengan o no interés jurídico directo en el asunto respecto del cual solicitan información.
+
+E. Solicitar la rendición de cuentas a sus dirigentes, a través de los informes que, con base en la normatividad interna, se encuentren obligados a presentar durante su gestión.
+
+F. Exigir el cumplimiento de los documentos básicos del partido político.
+
+G. Recibir capacitación y formación política e información para el ejercicio de sus derechos políticos y electorales.
+
+H. Tener acceso a la jurisdicción interna del partido político y, en su caso, a recibir orientación jurídica en el ejercicio y goce de sus derechos como militante cuando sean violentados al interior del partido político.
+
+I. Impugnar ante el órgano jurisdiccional las resoluciones y decisiones de los órganos internos que afecten sus derechos político electorales.
+
+J. Refrendar, en su caso, o renunciar a su condición de militante.
+
+Dentro de las obligaciones se incluirán al menos las siguientes:
+
+A. Respetar y cumplir los estatutos y la normatividad partidaria.
+
+B. Respetar y difundir los principios ideológicos y el programa de acción.
+
+C. Contribuir a las finanzas del partido político en los términos previstos por las normas internas y cumplir con el pago de cuotas que el partido determine, dentro de los límites que establezcan las leyes electorales.
+
+D. Velar por la democracia interna y el cumplimiento de las normas partidarias.
+
+E. Cumplir con las disposiciones legales en materia electoral.
+
+F. Cumplir con las resoluciones internas que hayan sido dictadas por los órganos facultados para ello y con base en las normas partidarias.
+
+G. Participar en las asambleas, convenciones y demás reuniones a las que le corresponda asistir.
+
+H. Formarse y capacitarse a través de los programas de formación del partido político.
 
 III. Los procedimientos democráticos internos para la renovación de sus cuadros dirigentes, así como los sistemas y formas para la postulación de sus candidatos, mismos que serán públicos;
 
@@ -651,15 +811,37 @@ IV. Los procedimientos para la integración de sus órganos;
 
 V. Las funciones, obligaciones y facultades de sus órganos, entre los cuales deberá contar, cuando menos, con los siguientes:
 
-A) Una Asamblea Estatal o equivalente.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-B) Un Comité Estatal o equivalente, que sea el representante del partido.
+A. Una Asamblea Estatal o equivalente, la cual será la máxima autoridad del partido y tendrá facultades deliberativas.
 
-C) Comités o equivalentes en los municipios.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-D) Un órgano que vigile el respeto a los derechos de los afiliados, así como el cumplimiento de sus obligaciones.
+B. Un Comité Estatal o equivalente, que sea el representante del partido, con facultades ejecutivas, de supervisión y, en su caso, de autorización en las decisiones de las demás instancias intrapartidistas.
 
-E) Un órgano responsable de la administración interna.
+C. Comités o equivalentes en los municipios.
+
+D. Un órgano que vigile el respeto a los derechos de los afiliados, así como el cumplimiento de sus obligaciones.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+E. Un órgano responsable de la administración de su patrimonio y recursos financiamientos y de la presentación de los informes de ingresos y egresos trimestrales y anuales, de precampaña y campaña.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+F. Un órgano de decisión colegiada, democráticamente integrado, responsable de la organización de los procesos para la integración de los órganos internos del partido político y para la selección de candidatos a cargos de elección popular.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+G. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+H. Un órgano encadado (sic) de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución y las leyes de la materia imponen a los partidos políticos.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+I. Un órgano encargado de la educación y capacitación cívica de los militantes y dirigentes.
 
 VI. La obligación de presentar una plataforma electoral, para cada elección en que participe, sustentada en su Declaración de Principios y Programa de Acción;
 
@@ -671,9 +853,13 @@ VIII. Las sanciones aplicables a los miembros que infrinjan sus disposiciones in
 
 A partir del aviso al Instituto del propósito de constituirse como partido político, la Organización deberá cumplir con los siguientes requisitos:
 
-I. Celebrar una asamblea en cada uno de los distritos a que se refiere la fracción III del artículo 64 de esta Ley, en presencia de un Servidor Electoral que al efecto designe el Instituto, pudiendo estar presente un Notario Público a petición de la Organización interesada, quien certificará:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-A) El número de afiliados que concurrieron a la asamblea distrital, que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; que suscribieron el documento de manifestación formal de afiliación; que eligieron delegados a la asamblea estatal constitutiva, y quiénes fueron los electos.
+I. Celebrar una asamblea, en por lo menos en dos terceras partes de los distritos electorales locales, o bien, de los municipios, en presencia de un Servidor Electoral que al efecto designe el Instituto, pudiendo estar presente un Notario Público a petición de la Organización interesada, quien certificará:
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+A) El número de afiliados que concurrieron y participaron a la asamblea distrital, que en ningún caso podrá ser menor al 0.26% del padrón electoral del distrito o Municipio; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; que suscribieron el documento de manifestación formal de afiliación; que concurrieron y participaron libremente; que eligieron delegados a la asamblea estatal constitutiva, y quienes fueron electos.
 
 B) Que en el documento de manifestación formal de afiliación, se señale expresamente que las personas enlistadas han quedado plenamente enteradas de la declaración de principios, programa de acción y estatutos, y que suscriben el documento en forma libre e individual.
 
@@ -681,53 +867,89 @@ C) Que con las personas mencionadas en el inciso anterior quedaron integradas la
 
 Las Asambleas distritales serán válidas cuando concurran la mayoría de los afiliados de cada distrito, según el padrón registrado ante el Instituto.
 
-II. Celebrar una asamblea estatal constitutiva ante la presencia del Servidor Electoral que al efecto designe el Instituto, pudiendo estar presente un Notario Público a petición de la organización interesada, quien certificará:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-A) Que asistieron los delegados propietarios o suplentes electos en las asambleas distritales.
+II. Celebrar una asamblea local constitutiva ante la presencia del Servidor Electoral que al efecto designe el Instituto, pudiendo estar presente un Notario Público a petición de la organización interesada, quien certificará:
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+A) Que asistieron los delegados propietarios o suplentes electos en las asambleas distritales o municipales, según sea el caso.
 
 B) Que acreditaron por medio de las actas correspondientes que las asambleas se celebraron de acuerdo con lo ordenado en la fracción I de este artículo.
 
 C) Que se comprobó con la credencial para votar con fotografía, la identidad y residencia de los delegados a la asamblea estatal.
 
-D) Que fueron aprobados su declaración de principios, programa de acción y estatutos.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+D) Que fueron aprobados su declaración de principios, programa de acción y estatutos, por parte de los delegados.
 
 E) Que se formaron listas de afiliados con los demás militantes con que cuenta la organización en el Estado, con el objeto de satisfacer el requisito mínimo de afiliados a que se refiere la fracción III del artículo 64 de esta Ley.
 
 La asamblea estatal será válida cuando en ella concurran la mayoría de los delegados electos en las asambleas distritales.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+El costo de las certificaciones requeridas será con cargo al presupuesto del Instituto. Los servidores electorales autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En caso de que la organización interesada no presente su solicitud de registro en el plazo previsto en esta Ley, dejará de tener efecto la notificación formulada.
+
 ### CAPÍTULO SEGUNDO. DEL REGISTRO Y ACREDITACIÓN DE LOS PARTIDOS POLÍTICOS LOCALES Y NACIONALES
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 69.
 
-Satisfechos los requisitos a que se refiere el Capítulo anterior, la organización interesada deberá presentar ante el Instituto la solicitud de registro como Partido Político Local, por lo menos catorce meses antes de la jornada electoral, acompañando las siguientes constancias:
+Satisfechos los requisitos a que se refiere el Capítulo anterior, la organización interesada deberá presentar ante el Instituto la solicitud de registro como partido político local, en el mes de enero del año siguiente al de la elección de gobernador, acompañando las siguientes constancias:
 
-I: La Declaración de Principios, el Programa de Acción y los Estatutos aprobados por sus miembros;
+I. La Declaración de Principios, el Programa de Acción y los Estatutos aprobados por sus miembros;
 
-II. Las listas nominales de afiliados por municipios; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-III. Las actas de las asambleas celebradas en los distritos y las de su asamblea estatal constitutiva.
+II. Las listas nominales de afiliados por municipios. Esta información deberá presentarse en archivos en medio digital, y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Las actas de las asambleas celebradas en los distritos o municipios y las de su asamblea estatal constitutiva.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 70.
 
-El Consejo General resolverá si procede o no el registro dentro del plazo de sesenta días naturales contados a partir de la fecha de presentación de la solicitud. La resolución se notificará en forma personal a la organización interesada, dentro de los tres días siguientes a aquél en que se pronunció y se publicará en el Periódico Oficial del Gobierno del Estado.
+El Consejo General conocerá de la solicitud de los ciudadanos que pretendan su registro como partido político local, examinará los documentos de la solicitud de registro a fin de verificar el cumplimiento de los requisitos y del procedimiento de constitución señalados en la Ley de Partidos y en esta Ley, y formulará el proyecto de dictamen de registro.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+El Instituto notificará al INE para que realice la verificación del número de afiliados y la autenticidad de las afiliaciones al nuevo partido, conforme al cual se constatará que se cuenta con el número mínimo de afiliados, cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo dentro del partido de nueva creación.
+
+En el caso de que el INE haga del conocimiento al Instituto de la aparición de un ciudadano en más de un padrón de afiliados de partidos políticos, éste dará vista a los partidos políticos involucrados para que manifiesten los que a su derecho convenga; de subsistir la doble afiliación, el Instituto requerirá al ciudadano para que se manifieste al respecto y, en caso de que no se manifieste en el plazo determinado al efecto, subsistirá la más reciente.
+
+El Consejo General resolverá si procede o no el registro dentro del plazo de sesenta días naturales contados a partir de la fecha de presentación de la solicitud. La resolución se notificará en forma personal a la organización interesada, dentro de los tres días siguientes a aquél en que se pronunció y se publicará en el Periódico Oficial del Estado de Quintana Roo.
+
+Cuando proceda el registro, expedirá el certificado correspondiente haciendo constar el registro. En caso de negativa fundamentará las causas que la motivan y lo comunicará a los interesados.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 71.
 
-El registro se obtiene y surte sus efectos con la resolución favorable que emita el Consejo General. Una vez obtenido el registro, los partidos políticos locales tendrán personalidad jurídica y en consecuencia, gozarán de los derechos y obligaciones a que se refiere la presente Ley.
+El registro se obtiene y surte sus efectos con la resolución favorable que emita el Consejo General. Una vez obtenido el registro, los partidos políticos locales tendrán personalidad jurídica y en consecuencia, gozarán de los derechos y obligaciones a que se refiere la presente Ley, a partir del primer día del mes de julio del año previo al de la elección.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 72.
 
-Los partidos políticos nacionales que pretendan participar en las elecciones locales, deberán acreditar ante el Instituto su registro vigente otorgado por el Instituto Federal Electoral. Gozarán de las prerrogativas que establece esta Ley, a partir de que surta efectos su acreditación ante el Instituto, conforme a lo dispuesto en la Constitución Particular.
+Los partidos políticos nacionales que pretendan participar en las elecciones locales, deberán acreditar ante el Instituto su registro vigente otorgado por el INE. Gozarán de las prerrogativas que establece esta Ley, a partir de que surta efectos su acreditación ante el Instituto, conforme a lo dispuesto en la Constitución Particular.
 
 ###### Artículo 73.
 
 Son causas de pérdida del registro o acreditación de un partido político en el Estado:
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-I. No obtener en el proceso electoral para diputados inmediato anterior, al menos el dos por ciento de la votación válida emitida en el Estado;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+I. NO OBTENER EN EL PROCESO ELECTORAL PARA DIPUTADOS INMEDIATO ANTERIOR, AL MENOS EL TRES POR CIENTO DEL TOTAL DE LA VOTACIÓN VÁLIDA EMITIDA EN EL ESTADO;
 
 II. Haber dejado de cumplir con los requisitos necesarios para obtener el registro o acreditación;
 
@@ -751,7 +973,15 @@ El Consejo General dentro de los treinta días naturales siguientes a la fecha e
 
 Una vez que se declare la pérdida de registro o acreditación de partido político, los bienes muebles e inmuebles que hayan sido adquiridos con financiamiento público local serán entregados al Instituto, los cuales, pasarán a formar parte de su patrimonio. La cancelación o pérdida del registro extinguirá la personalidad jurídica del partido político, pero quienes hayan sido sus dirigentes y candidatos deberán cumplir las obligaciones que en materia de fiscalización establece esta Ley, hasta la conclusión de los procedimientos respectivos y de liquidación de su patrimonio.
 
-Los Partidos Políticos Nacionales que pierdan su acreditación ante el Instituto por no haber reunido el mínimo de votación requerido en la presente Ley, podrán presentar de nueva cuenta su solicitud de acreditación hasta el mes de Julio del año anterior del siguiente proceso electoral local, siempre y cuando mantengan su registro ante el Instituto Federal Electoral. En este caso, recibirán financiamiento público extraordinario para la campaña electoral, por un monto equivalente al dos por ciento de la cantidad que resultó otorgar en forma igualitaria al conjunto de partidos políticos en dicho año. En tanto que el ordinario, se le ministrará a partir del mes de enero siguiente.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Los Partidos Políticos Nacionales que pierdan su acreditación ante el Instituto por no haber reunido el mínimo de votación requerido en la presente Ley, podrán presentar de nueva cuenta su solicitud de acreditación hasta el mes de Julio del año anterior del siguiente proceso electoral local, siempre y cuando mantengan su registro ante el INE. En este caso, recibirán financiamiento público extraordinario para la campaña electoral, por un monto equivalente al dos por ciento de la cantidad que resultó otorgar en forma igualitaria al conjunto de partidos políticos en dicho año. En tanto que el ordinario, se le ministrará a partir del mes de enero siguiente.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+LOS PARTIDOS POLÍTICOS NACIONALES QUE PIERDAN SU REGISTRO ANTE EL INE POR NO HABER ALCANZADO EL PORCENTAJE MÍNIMO DE VOTACIÓN EN EL ÚLTIMO PROCESO ELECTORAL FEDERAL, PODRÁN SOLICITAR SU REGISTRO COMO PARTIDO POLÍTICO LOCAL, SIEMPRE Y CUANDO HAYAN ALCANZADO EL TRES POR CIENTO DE LA VOTACIÓN EFECTIVA PARA DIPUTADOS EN LA ÚLTIMA ELECCIÓN ORDINARIA.
 
 ### CAPÍTULO TERCERO. DE LOS DERECHOS
 
@@ -829,7 +1059,9 @@ VII. Contar con un domicilio social para sus órganos directivos;
 
 VIII. Mantener un centro de formación y educación política para sus afiliados;
 
-IX. Comunicar al Instituto cualquier modificación a su denominación, declaración de principios, programa de acción, estatutos, emblema, color o colores, dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el Partido Político Local;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IX. Comunicar al Instituto cualquier modificación a su denominación, declaración de principios, programa de acción, estatutos, emblema, color o colores, reglamentos dentro de los diez días siguientes a la fecha en que se tome el acuerdo correspondiente por el partido político local;
 
 X. Comunicar al Instituto los cambios en su domicilio social o el de sus órganos directivos;
 
@@ -851,7 +1083,9 @@ XVI. Respetar los topes de gastos de campaña en los términos que establece la 
 
 XVII. Proporcionar al Instituto, la información y documentación que éste solicite por conducto del Consejo General y la Junta General, en los términos de la presente Ley;
 
-XVIII. Abstenerse en su propaganda, publicaciones y mensajes impresos, así como de los transmitidos en medios electrónicos, escritos y alternos de cualquier expresión que implique difamación o alguna otra que denigre a los ciudadanos, a las instituciones públicas, a otros partidos políticos y a candidatos;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+XVIII. ABSTENERSE EN SU PROPAGANDA, PUBLICACIONES Y MENSAJES IMPRESOS, ASÍ COMO DE LOS TRANSMITIDOS EN MEDIOS ELECTRÓNICOS, ESCRITOS Y ALTERNOS DE CUALQUIER EXPRESIÓN QUE IMPLIQUE DIFAMACIÓN O ALGUNA OTRA QUE DENIGRE A LOS CIUDADANOS, A LAS INSTITUCIONES PÚBLICAS, A OTROS PARTIDOS POLÍTICOS Y A CANDIDATOS;
 
 XIX. Utilizar las prerrogativas y aplicar el financiamiento exclusivamente para el sostenimiento de sus actividades ordinarias y para sufragar los gastos de campaña;
 
@@ -885,15 +1119,83 @@ En los supuestos de la fracción IX del artículo 77 de la presente Ley, las mod
 
 Para el caso de partidos políticos nacionales, tendrán la obligación de presentar el acuerdo de procedencia emitido por la autoridad federal electoral, dentro de los diez días siguientes contados a partir de la aprobación de las modificaciones correspondientes.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-### CAPÍTULO SEGUNDO. DE LA EXENCIÓN DE IMPUESTOS Y DERECHOS
+### CAPÍTULO QUINTO. DE LAS OBLIGACIONES DE LOS PARTIDOS POLÍTICOS EN MATERIA DE TRANSPARENCIA
 
-### CAPÍTULO TERCERO. DEL FINANCIAMIENTO
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 80
+
+bis.- Las personas accederán a la información pública de los Partidos Políticos Nacionales y Estatales, de conformidad con las normas establecidas en el Título Segundo, Capítulo IV de la Ley General de Partidos Políticos, sin perjuicio de lo dispuesto en la legislación en materia de transparencia. Los partidos políticos locales, están obligados al cumplimento de dichas disposiciones.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO SEXTO. DE LOS PROCESOS DE INTEGRACIÓN DE ÓRGANOS INTERNOS Y DE SELECCIÓN DE CANDIDATOS
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 80
+
+ter.- Los procedimientos internos para la integración de los órganos internos de los partidos políticos y para la postulación de candidatos a cargos de elección popular, estarán a cargo del órgano previsto en el inciso F, fracción V del artículo 67 de esta Ley y se desarrollarán con base en los lineamientos básicos siguientes:
+
+I. El partido político, a través del órgano facultado para ello, publicará la convocatoria que otorgue certidumbre y cumpla con las normas estatutarias, la cual contendrá, por lo menos, lo siguiente:
+
+A. Cargos o candidaturas a elegir;
+
+B. Requisitos de elegibilidad, entre los que se podrán incluir los relativos a la identificación de los precandidatos o candidatos con los programas, principios e ideas del partido y otros requisitos, siempre y cuando no vulneren el contenido esencial del derecho a ser votado;
+
+C. Fechas de registro de precandidaturas o candidaturas;
+
+D. Documentación a ser entregada;
+
+E. Período para subsanar posibles omisiones o defectos en la documentación de registro;
+
+F. Reglas generales y topes de gastos de campaña para la elección de dirigentes y de precampaña para cargos de elección popular, en los términos que establezca el Instituto;
+
+G. Método de selección, para el caso de voto de los militantes, éste deberá ser libre y secreto;
+
+H. Fecha y lugar de la elección, y
+
+I. Fechas en las que se deberán presentar los informes de ingresos y egresos de campaña o de precampaña, en su caso.
+
+II. El órgano colegiado a que se refiere el inciso F, fracción V del artículo 67 de esta Ley:
+
+A. Registrará a los precandidatos o candidatos y dictaminará sobre su elegibilidad, y
+
+B. Garantizará la imparcialidad, equidad, transparencia y legalidad de las etapas del proceso.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO SÉPTIMO. DE LA JUSTICIA INTRAPARTIDARIA
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 80
+
+quáter.- Los partidos políticos locales establecerán procedimientos de justicia intrapartidaria que incluirán mecanismos alternativos de solución de controversias.
+
+El órgano de decisión colegiado previsto en el artículo 67, fracción V, inciso G de esta Ley, deberá estar integrado de manera previa a la sustanciación del procedimiento por un número impar de miembros; será el órgano responsable de impartir justicia interna y deberá conducirse con independencia, imparcialidad y legalidad, así como con respeto a los plazos que establezcan los estatutos de los partidos políticos y aprobará sus resoluciones por mayoría de votos.
+
+Los estatutos de los partidos políticos establecerán medios alternativos de solución de controversias sobre asuntos internos, para lo cual deberán prever los supuestos en los que serán procedentes, la sujeción voluntaria, los plazos y las formalidades del procedimiento.
+
+Todas las controversias relacionadas con los asuntos internos de los partidos políticos serán resueltas por los órganos establecidos en sus estatutos para tales efectos, debiendo resolver en tiempo para garantizar los derechos de los militantes. Hasta en tanto no se agoten los medios partidistas de defensa, los militantes no tendrán derecho de acudir ante el Tribunal.
+
+En las resoluciones de los órganos colegiados de decisión se deberán ponderar los derechos políticos de los ciudadanos en relación con los principios de auto organización y auto determinación de que gozan los partidos políticos para la consecución de sus fines.
+
+El sistema de justicia interna de los partidos políticos deberá tener las siguientes características:
+
+I. Tener una sola instancia de resolución de conflictos internos a efecto de que las resoluciones se emitan de manera pronta y expedita;
+
+II. Establecer plazos ciertos para la interposición, sustanciación y resolución de los medios de justicia interna;
+
+III. Respetar todas las formalidades esenciales del procedimiento, y
+
+IV. Ser eficaces formal y materialmente para, en su caso, restituir a los afiliados en el goce de los derechos político electorales en los que resientan un agravio.
 
 ## TÍTULO CUARTO. DE LAS PRERROGATIVAS
 
-### CAPÍTULO CUARTO. DEL ACCESO A LOS MEDIOS DE COMUNICACIÓN
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 81.
 
@@ -911,7 +1213,7 @@ III. Tener acceso a la radio y televisión conforme a las normas establecidas po
 
 Los partidos políticos que no obtengan en el proceso electoral inmediato anterior, al menos el dos por ciento de la votación válida de diputados emitida en el Estado, no gozarán de las prerrogativas que les otorga esta Ley.
 
-### CAPÍTULO PRIMERO. DE LOS FRENTES Y LA FORMACIÓN DE COALICIONES
+### CAPÍTULO SEGUNDO. DE LA EXENCIÓN DE IMPUESTOS Y DERECHOS
 
 ###### Artículo 82.
 
@@ -919,17 +1221,25 @@ Los partidos políticos están exentos de los siguientes impuestos y derechos:
 
 I. Los relacionados con las rifas y sorteos que celebren previa autorización legal, así como con las ferias, festivales y otros eventos que tengan por objeto allegarse recursos para el cumplimiento de sus fines;
 
-II. Los relativos a la venta de impresos que editen para la difusión de sus principios, programas, estatutos y en general para su propaganda, así como por el uso de equipos y medios audiovisuales; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-III. Los demás que establezcan las disposiciones legales aplicables.
+II. Los relativos a la venta de impresos que editen para la difusión de sus principios, programas, estatutos y en general para su propaganda, así como por el uso de equipos y medios audiovisuales;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Sobre la renta, en cuanto a sus utilidades gravables provenientes de la enajenación de los inmuebles que hubiesen adquirido para el ejercicio de sus funciones específicas, así como los ingresos provenientes de donaciones en numerario o en especie, y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. Los demás que establezcan las disposiciones legales aplicables.
 
 Los supuestos anteriores sólo serán aplicables por lo que hace a los impuestos y derechos de carácter local.
 
 El régimen fiscal a que se refiere este artículo, no exime a los partidos políticos del cumplimiento de otras obligaciones fiscales, ni del pago de impuestos y derechos por la prestación de servicios públicos.
 
-### CAPÍTULO SEGUNDO. DE LA FUSIÓN DE PARTIDOS POLÍTICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+### CAPÍTULO TERCERO. DEL FINANCIAMIENTO Y LA FISCALIZACIÓN DE LOS PARTIDOS
 
 ###### Artículo 83.
 
@@ -953,15 +1263,17 @@ El financiamiento público prevalecerá sobre el de origen privado.
 
 Los partidos políticos no podrán solicitar créditos provenientes de la Banca de Desarrollo para el financiamiento de sus actividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 85.
 
-El financiamiento público de los partidos políticos para el sostenimiento de sus actividades permanentes u ordinarias y para la obtención del voto, se entregará a los titulares de los órganos internos responsables de la percepción y administración de los recursos generales y de campaña, legalmente registrados ante el Instituto y se fijará en la siguiente forma y términos:
+El financiamiento público prevalecerá sobre el de origen privado y será destinado al sostenimiento de sus actividades permanentes u ordinarias, para la obtención del voto y para actividades específicas, se entregará a los titulares de los órganos internos responsables de la percepción y administración de los recursos generales y de campaña, legalmente registrados y se fijará en la siguiente forma y términos:
 
 I. El financiamiento permanente u ordinario, se fijará anualmente conforme a los siguientes criterios:
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-A). La cantidad base para asignar el financiamiento público, será la que resulte de multiplicar el número de ciudadanos inscritos en el padrón electoral de la entidad con corte al mes de octubre del año inmediato anterior al del ejercicio presupuestal correspondiente, por el sesenta por ciento de un salario mínimo general vigente en el Estado;
+A) La cantidad base para asignar el financiamiento público, será la que resulte de multiplicar el número de ciudadanos inscritos en el padrón electoral de la entidad con corte al mes de julio de cada año, por el sesenta y cinco por ciento de un salario mínimo general vigente en el Estado;
 
 B) La forma de asignar y distribuir la cantidad resultante, será la siguiente:
 
@@ -969,31 +1281,31 @@ a).- El treinta por ciento del monto total del financiamiento público estatal s
 
 b).- El setenta por ciento restante se distribuirá en forma proporcional directa de la votación válida emitida de cada partido político en la última elección de Diputados del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. El financiamiento público extraordinario para las actividades tendientes a la obtención del voto se otorgará al inicio de las campañas electorales y durante el año en que se elijan Gobernador, Diputados y miembros del Ayuntamiento equivaldrá al ochenta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando solo se elijan Diputados y miembros del Ayuntamiento equivaldrá al sesenta por ciento de dicho financiamiento por actividades ordinarias.
+II. El financiamiento público extraordinario para las actividades tendientes a la obtención del voto se otorgará al inicio de las campañas electorales y durante el año en que se elijan Gobernador y Diputados equivaldrá al cincuenta por ciento del financiamiento público que les corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando solo se elijan Diputados o miembros de los Ayuntamientos equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
 
-El financiamiento público para la obtención del voto, será entregado a los titulares de los órganos internos responsables de la percepción y administración de los recursos, debidamente acreditados ante el Instituto en tantas exhibiciones como elecciones haya y a partir del registro de candidatos.
+Durante los procesos electorales cada uno de los partidos políticos recibirá adicionalmente, el monto equivalente al treinta por ciento de su distribución proporcional del financiamiento público ordinario, para el desarrollo de la estructura electoral.
 
-Para el caso de las elecciones de Diputados por Mayoría Relativa y miembros de los Ayuntamientos, se tendrá acceso al recurso una vez que hayan registrado candidatos en por los menos el cincuenta por ciento de cada una de dichas elecciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-III. Los partidos políticos recibirán anualmente, en forma adicional, hasta el setenta y cinco por ciento de los gastos comprobados que por concepto de sus actividades específicas como entidades de interés público, hayan destinado en el año inmediato anterior a la educación y capacitación política, investigación socioeconómica y política, así como a las tareas editoriales, en los términos del reglamento que al efecto expida el Consejo General.
+III. Los partidos políticos recibirán anualmente, en forma adicional, un monto total equivalente al tres por ciento del que corresponda en el mismo año para sus actividades ordinarias como entidades de interés público, para la educación y capacitación política, investigación socioeconómica y política, así como a las tareas editoriales, en los términos de la Ley de Instituciones.
 
 Las cantidades que en su caso se determinen para cada partido político, serán entregadas en ministraciones conforme al calendario presupuestal que se apruebe anualmente.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-El financiamiento público ordinario y para la obtención del voto, se otorgará a los partidos que hubiesen obtenido al menos el dos por ciento de la votación válida emitida en la elección de diputados inmediata anterior, salvo lo dispuesto en el artículo siguiente.
+El financiamiento público ordinario y para la obtención del voto, se otorgará a los partidos que hubiesen obtenido al menos el tres por ciento de la votación válida emitida en la elección de diputados inmediata anterior, salvo lo dispuesto en el artículo siguiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 86.
 
-Los partidos políticos que hayan obtenido su registro o acreditación ante el Instituto Electoral de Quintana Roo con fecha posterior a la última elección, recibirán financiamiento público, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el monto total que en forma igualitaria corresponda distribuir a cada partido político registrado o acreditado, así como una cantidad igual adicional para gastos de campaña durante los procesos electorales.
+Los partidos políticos que hayan obtenido su registro o acreditación ante el Instituto con fecha posterior a la última elección, recibirán financiamiento público, otorgándose a cada uno de ellos, para el sostenimiento de sus actividades ordinarias, el dos por ciento del monto que por financiamiento total les corresponda a los partidos políticos para el sostenimiento de sus actividades ordinarias permanentes, así como, en el año de la elección de que se trate, el financiamiento para gastos de campaña que corresponda con base en lo dispuesto por la fracción II del artículo 85 de esta Ley.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+Participarán del financiamiento público para actividades específicas como entidades de interés público solo en la parte que se distribuya de forma igualitaria.
 
-Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el dos por ciento del financiamiento público ordinario.
+Para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, cada partido político deberá destinar anualmente, el tres por ciento del financiamiento público ordinario.
 
 ###### Artículo 87.
 
@@ -1001,31 +1313,39 @@ El financiamiento de los partidos políticos que provenga de la militancia, esta
 
 I. El órgano interno responsable del financiamiento de cada partido político, deberá expedir recibo de las cuotas o aportaciones recibidas, del cual deberá conservar una copia para acreditar el monto ingresado;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. Cada partido político determinará los montos mínimos y máximos, la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados y simpatizantes, así como las aportaciones de sus organizaciones de conformidad con lo que dispongan sus estatutos y la Ley. Las aportaciones no podrán exceder, en su conjunto, del diez por ciento del último tope fijado para la elección de Gobernador; y
+II. Cada partido político determinará los montos mínimos y máximos, la periodicidad de las cuotas ordinarias y extraordinarias de sus afiliados. Las aportaciones de militantes no podrán exceder, en su conjunto, del cuarenta por ciento del monto total de financiamiento público ordinario otorgado a los partidos políticos en el año donde se lleve a cabo la jornada electoral, y
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-III. Las cuotas voluntarias y personales que los candidatos aporten exclusivamente para sus campañas, estarán incluidas dentro del tope señalado en la fracción que antecede.
+III. Los candidatos en su conjunto podrán aportar un quince por ciento del monto total de financiamiento público ordinario otorgado a los partidos políticos en el año donde se lleve a cabo la jornada electoral para el financiamiento de las campañas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 88.
 
-El financiamiento de simpatizantes estará conformado por las aportaciones o donativos en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas o morales mexicanas con residencia en el país, que no estén comprendidas en el artículo 92 de esta Ley, de conformidad al Reglamento que al efecto expida el Consejo General y sujetará a lo siguiente:
+El financiamiento de simpatizantes estará conformado por las aportaciones o donativos en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas mexicanas con residencia en el país, que no estén comprendidas en el artículo 92 de esta Ley, de conformidad con las normas reglamentarias que al efecto expidan las autoridades competentes.
 
-De las aportaciones en dinero deberán expedirse recibos foliados por los partidos políticos, en los que se harán constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública, siempre y cuando no impliquen venta de bienes o artículos promocionales.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+De la totalidad de aportaciones deberán expedirse recibos foliados por los partidos políticos, en los que se harán constar los datos de identificación del aportante, salvo que hubieren sido obtenidas mediante colectas realizadas en mítines o en la vía pública, siempre y cuando no impliquen venta de bienes o artículos promocionales.
 
 En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido. Las aportaciones en especie se harán constar en un contrato celebrado conforme a las leyes aplicables.
 
 Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 89.
 
-El autofinanciamiento estará constituido por los ingresos que los partidos políticos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y propaganda utilitaria, así como cualquier otra que realicen para allegarse de fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. Para los efectos de esta Ley, el órgano interno responsable del financiamiento de cada partido registrará y reportará en sus informes respectivos el financiamiento obtenido por esta modalidad, de conformidad con lo dispuesto en esta Ley y en el Reglamento que al efecto expida el Consejo General.
+El autofinanciamiento estará constituido por los ingresos que los partidos políticos obtengan de sus actividades promocionales, tales como conferencias, espectáculos, juegos y sorteos, eventos culturales, ventas editoriales, de bienes y propaganda utilitaria, así como cualquier otra que realicen para allegarse de fondos, las que estarán sujetas a las leyes correspondientes a su naturaleza. Para los efectos de esta Ley, el órgano interno responsable del financiamiento de cada partido registrará y reportará en sus informes respectivos el financiamiento obtenido por esta modalidad, de conformidad con lo dispuesto en las legislaciones y reglamentos electorales que al efecto expidan las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 90.
 
-Para obtener financiamiento por rendimientos financieros, los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionales a las provenientes de las modalidades señaladas en el presente capítulo y se sujetarán a lo dispuesto en el Reglamento que al efecto expida el Consejo General y a las reglas siguientes:
+Para obtener financiamiento por rendimientos financieros, los partidos políticos podrán crear fondos o fideicomisos con su patrimonio o con las aportaciones que reciban, adicionales a las provenientes de las modalidades señaladas en el presente capítulo y se sujetarán a lo dispuesto en el Reglamento que al efecto expida la autoridad competente y conforme a las reglas siguientes:
 
 I. A las operaciones que se realicen, a través de esta modalidad, les serán aplicables las disposiciones contenidas en el artículo 92 y demás relativas de esta Ley y los ordenamientos correspondientes, atendiendo al tipo de operaciones realizadas;
 
@@ -1033,11 +1353,15 @@ II. Los fondos y fideicomisos que se constituyan serán manejados a través de l
 
 III. Los rendimientos financieros obtenidos a través de esta modalidad, deberán destinarse para el cumplimiento de los objetivos del partido político.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 91.
 
-Los partidos políticos y coaliciones deberán constituir en los términos y con las modalidades y necesidades que cada partido político y coaliciones determinen, un Órgano Responsable de la Percepción y Administración de los Recursos Generales y de Campaña, así como para la presentación de los informes señalados en el artículo 94 de la presente Ley.
+Los partidos políticos y coaliciones deberán constituir en los términos y con las modalidades y necesidades que cada partido político y coaliciones determinen, un Órgano Responsable de la Percepción y Administración de los Recursos Generales y de Campaña, así como para la presentación de los informes conforme a los (sic) disposiciones establecidas en la Ley de Instituciones y en la Ley de Partidos.
 
-El titular del Órgano Interno Responsable de la Percepción y Administración de los Recursos Generales y de Campaña de los partidos políticos y coaliciones, juntamente con el presidente del partido político o los presidentes de los partidos políticos que integren coalición deberán ser registrados ante el Instituto a través de la Dirección de Partidos Políticos y serán responsables solidarios del partido político o partidos políticos, respecto al uso y destino del financiamiento público y de la presentación de los informes correspondientes. Su responsabilidad cesará hasta el total cumplimiento de esta obligación.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+El titular del Órgano Interno Responsable de la Percepción y Administración de los Recursos Generales y de Campaña de los partidos políticos y coaliciones, juntamente con el presidente del partido político o los presidentes de los partidos políticos que integren coalición deberán ser registrados ante la autoridad competente Y SERÁN RESPONSABLES SOLIDARIOS DEL PARTIDO POLÍTICO O PARTIDOS POLÍTICOS, RESPECTO AL USO Y DESTINO DEL FINANCIAMIENTO PÚBLICO Y DE LA PRESENTACIÓN DE LOS INFORMES CORRESPONDIENTES. SU RESPONSABILIDAD CESARÁ HASTA EL TOTAL CUMPLIMIENTO DE ESTA OBLIGACIÓN.
 
 ###### Artículo 92.
 
@@ -1061,39 +1385,31 @@ VII. Las personas morales mexicanas de carácter mercantil.
 
 Quedan prohibidas las aportaciones anónimas, con excepción de las previstas en el artículo 89 de esta Ley. Cuando un partido político las reciba, queda obligado a entregarlas a la beneficencia pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 94.
 
-Los partidos políticos o coaliciones deberán presentar ante la Dirección de Partidos Políticos del Instituto, los informes del origen y monto de los ingresos por financiamiento, así como su aplicación y empleo, bajo las siguientes reglas:
+Los partidos políticos o coaliciones deberán presentar ante la autoridad competente, los informes del origen y monto de los ingresos por financiamiento, así como su aplicación y empleo, bajo las siguientes reglas:
 
 I. Los informes anuales:
 
-A) Deberán ser presentados a más tardar el 30 de marzo de cada año.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+A) Deberán ser presentados a más tardar dentro de los sesenta días siguientes al último día de diciembre del año del ejercicio que se reporte.
 
 B) Los informes contendrán los ingresos y gastos ordinarios de los partidos políticos del año anterior.
 
 C) Contendrán una lista de los bienes muebles e inmuebles que se hubiesen adquirido con el financiamiento público estatal.
 
-II. Los informes de campaña:
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-A) Deberán presentarse por los partidos políticos o coaliciones, por cada una de las campañas para Gobernador, Diputados y miembros de los Ayuntamientos, respectivamente.
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
-
-B) Presentarán un informe final dentro de los sesenta días hábiles siguientes al término de las mismas.
-
-C) El Consejo General podrá aprobar hasta dos revisiones precautorias sobre el cumplimiento de los topes de gastos de campaña; la primera se realizará a la mitad del tiempo de duración de las campañas electorales y la segunda será realizada en los últimos diez días de la campaña electoral correspondiente.
-
-D) El Consejo General tomará muestras aleatorias del total de las campañas de diputados y miembros de los ayuntamientos, sobre las que se practicarán las revisiones precautorias de cada uno de los partidos políticos o coaliciones participantes. En caso de que algún partido político o coalición no haya registrado candidatura en el distrito o municipio sorteado, se le asignarán en forma aleatoria los que sean necesarios para equiparar la cantidad como si hubiera registrado el cien por ciento en la Entidad.
-
-E) Los partidos políticos o coaliciones en un plazo no menor a diez días naturales previos a la revisión precautoria, deberán ser notificados de los distritos y municipios que resulten sorteados de acuerdo al inciso anterior, acompañando a ésta, la solicitud de la documentación necesaria para efectuar dicha revisión.
-
-F) Los resultados que arrojen las revisiones precautorias, serán exclusivamente del conocimiento de la Dirección de Partidos Políticos del Instituto, para ser valorados al momento de emitir el dictamen de la revisión del informe final sobre el monto, origen y aplicación de los gastos de campaña. En ningún caso, podrán hacerse públicos, hasta que se rindan los correspondientes informes definitivos.
-
-G) El informe final de gastos de campaña deberá señalar y especificar los montos y tipos de financiamiento a que de conformidad con esta Ley y el Reglamento, los partidos políticos o coaliciones tengan derecho, así como los conceptos que establece el artículo 148 de esta ley relativo a los gastos de campaña.
+II. Los informes de precampaña y campaña, conforme a las reglas establecidas en la Ley de Instituciones y en la Ley (sic) Partidos.
 
 III. La presentación y revisión del informe de los partidos políticos se sujetará al Reglamento que al efecto expida el Consejo General y a las siguientes reglas:
 
-A) En un plazo no mayor a noventa días naturales, contados a partir del 30 de marzo del año posterior al ejercicio que se reporta, la Dirección de Partidos Políticos del Instituto deberá culminar el análisis y estudio de los informes anuales. Para los informes de gastos de campaña, dispondrá de noventa días naturales, a partir de la fecha de la presentación del informe final o del plazo establecido en el inciso B) de la fracción II del presente artículo.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+A) En un plazo no mayor a noventa días naturales, contados a partir del 30 de marzo del año posterior al ejercicio que se reporta, la Dirección de Partidos Políticos del Instituto deberá culminar el análisis y estudio de los informes anuales, para los informes de gastos de precampaña y campaña, en los plazos y términos establecidos en la Ley de Partidos.
 
 B) La Dirección de Partidos Políticos podrá auxiliarse de un despacho contable para que la asesore en el estudio, análisis y presentación del dictamen correspondiente.
 
@@ -1101,45 +1417,81 @@ C) Los partidos políticos o coaliciones estarán obligados a proporcionar la do
 
 D) Cuando de la revisión del informe se advierta la existencia de errores u omisiones técnicas, notificará al Partido Político o Coalición de la existencia de las mismas, para que en un plazo no mayor a diez días naturales contados a partir de la notificación, presente las aclaraciones o rectificaciones conducentes.
 
-E) A más tardar dentro de los sesenta días posteriores al vencimiento de los plazos señalados en el inciso A) de esta fracción, la Dirección de Partidos Políticos deberá presentar un dictamen con base a los informes de auditoria elaborados respecto de la verificación de su informe anual o de los informes de campaña que los partidos políticos o coaliciones hayan presentado, el cual contendrá al menos, el resultado y conclusiones, los errores o irregularidades detectadas, las aclaraciones, rectificaciones y recomendaciones contables, así como las violaciones a la presente normatividad que se hubieren desprendido del mismo. El dictamen será presentado a la Junta General para su aprobación en el Consejo General.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+E) A más tardar dentro de los sesenta días posteriores al vencimiento del plazo señalado en el inciso A de esta fracción, la Dirección de Partidos Políticos deberá presentar un dictamen con base a los informes de auditoría elaborados respecto de la verificación de su informe anual o de los informes de campaña que los partidos políticos o coaliciones hayan presentado, el cual contendrá al menos, el resultado y conclusiones, los errores o irregularidades detectadas, las aclaraciones, rectificaciones y recomendaciones contables, así como las violaciones a la presente normatividad que se hubieren desprendido del mismo. El dictamen será presentado a la Junta General para su aprobación en el Consejo General.
 
 F) El Consejo General conocerá el dictamen y proyecto de acuerdo dentro de los quince días naturales siguientes al plazo que se señala en el inciso anterior.
 
-G) Si del dictamen se desprende que el partido político de que se trata, incurrió en irregularidades en el manejo del financiamiento para actividades permanentes u ordinarias; que el partido político o coalición rebasó el tope de gastos de campaña, ocultó o mintió con dolo o mala fe, respecto a los datos o informes sobre el origen, monto o destino de los gastos realizados en la campaña en que se apliquen, el Consejo General, previa información al presunto infractor y satisfecha su garantía de audiencia, aplicará las sanciones que en derecho correspondan.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-IV. Los partidos políticos o coaliciones, podrán impugnar ante el Tribunal el dictamen o resolución que en su caso se emita por el Consejo General, en la forma y términos previstos en la ley de la materia. Para tal efecto, el Consejo General deberá:
+G) Si del dictamen se desprende que el partido político de que se trata, incurrió en irregularidades en el manejo del financiamiento para actividades permanentes u ordinarias, la autoridad competente, previa información al presunto infractor y satisfecha su garantía de audiencia, aplicará las sanciones que en derecho correspondan.
 
-A. Remitir al Tribunal, el dictamen de la Dirección de Partidos Políticos y el informe respectivo.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-B. Remitir, una vez cumplido el plazo para la interposición del recurso, o presentado éste, habiendo sido resuelto por el Tribunal, al Periódico Oficial del Gobierno del Estado el dictamen y, en su caso, la resolución recaída al recurso, para su publicación.
+IV. Los partidos políticos o coaliciones, podrán impugnar el dictamen o resolución que en su caso se emita por la autoridad competente, en la forma y términos previstos en la ley de la materia. Para tal efecto, la autoridad competente deberá:
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE MARZO DE 2009)</small>
+A) Remitir a la autoridad jurisdiccional, el dictamen de la Dirección de Partidos Políticos y el informe respectivo.
 
-V. El Instituto está obligado a coordinarse con el Instituto Federal Electoral para la fiscalización de los recursos públicos asignados a los Partidos Políticos, en su respectivo ámbito de competencia.
+B) Remitir, una vez cumplido el plazo para la interposición del medio de impugnación, o presentado éste, habiendo sido resuelto por la autoridad jurisdiccional, al Periódico Oficial del Estado de Quintana Roo el dictamen y, en su caso, la resolución recaída, para su publicación.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-El Instituto, cuando en ejercicio de sus facultades requiera superar el secreto fiduciario o bancario, deberá solicitar el apoyo del Instituto Federal Electoral, a través del órgano especializado de éste.
+V. El Instituto está obligado a coordinarse con el INE para la fiscalización de los recursos públicos asignados a los partidos políticos, en su respectivo ámbito de competencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-La reciprocidad y colaboración entre el Instituto y el Instituto Federal Electoral tendrá como único límite la Ley.
+El Instituto, cuando en ejercicio de sus facultades requiera superar el secreto fiduciario o bancario, deberá solicitar el apoyo del INE, a través del órgano especializado de éste.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Los compromisos específicos a cargo del Instituto, en la coordinación en materia de fiscalización, deberán plasmarse invariablemente por escrito, y serán aprobados por el Consejo General.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+LA RECIPROCIDAD Y COLABORACIÓN ENTRE EL INSTITUTO Y EL INE TENDRÁ COMO ÚNICO LÍMITE LA LEY.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Los compromisos específicos a cargo del Instituto, en la coordinación o delegación en materia de fiscalización, deberán plasmarse invariablemente por escrito, Y SERÁN APROBADOS POR EL CONSEJO GENERAL.
 
 ###### Artículo 95.
 
 Para los efectos del artículo anterior, los partidos políticos quedan obligados a presentar junto con el informe anual, sus estados financieros revisados por Contador Público autorizado para ejercer la profesión.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+###### Artículo 95
+
+bis.- El INE es el órgano que tiene a su cargo la recepción y revisión integral de los informes que presenten los partidos respecto del origen y monto de los recursos que reciban por cualquier modalidad de financiamiento, así como sobre su destino y aplicación, función que podrá delegar al Instituto en términos de lo establecido en las Leyes Generales, debiendo estar en ese caso, a las disposiciones que establece este capítulo; sin perjuicio de que pueda delegar esta facultad en el Instituto, conforme a la normatividad de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 95
+
+ter.- Los partidos políticos deberán presentar ante el INE, o ante el Instituto, en su caso, a través del representante financiero que acrediten ante ésta, informes trimestrales, anuales, de precampaña y campaña, respecto del origen y destino de todos los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 95
+
+quáter.- El procedimiento para la presentación y revisión de los informes de los partidos políticos se sujetará a las disposiciones que emita el INE.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 95
+
+quintus.- El INE aprobará los lineamientos y disposiciones de carácter general y técnico a los que deberá ajustarse la presentación de los informes financieros a que se refiere el artículo anterior, así como aquellos que rijan su actuación y desempeño, y en caso de delegación, la del Instituto.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO CUARTO. DEL ACCESO A LA RADIO Y TELEVISIÓN
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 96.
 
-(DEROGADO, P.O. 3 DE MARZO DE 2009)
+Las prerrogativas a los partidos políticos en los medios de comunicación se otorgarán conforme con las normas establecidas por el apartado B de la Base III, del artículo 41 de la Constitución Federal, y corresponde al INE la administración de los tiempos del Estado para fines electorales, en los términos previstos en la Ley de Instituciones.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -1159,23 +1511,21 @@ Los Partidos Políticos, Coaliciones y Frentes, en ningún momento podrán contr
 
 Ninguna persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de Partidos Políticos, Coaliciones, Frentes o candidatos a cargo de elección popular.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
 
-El Instituto gestionará lo conducente con el Instituto Federal Electoral, a fin de que los Partidos Políticos, y en su caso las Coaliciones, puedan acceder a radio y televisión.
+El Instituto gestionará lo conducente con el INE, a fin de que los Partidos Políticos, Coaliciones y Candidatos Independientes, puedan acceder a radio y televisión.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 101.
 
-Cuando el Instituto tenga conocimiento de mensajes cuyo contenido contravengan lo previsto en esta Ley, lo hará del conocimiento del Instituto Federal Electoral para los fines correspondientes.
+Cuando el Instituto tenga conocimiento de mensajes cuyo contenido contravengan lo previsto en esta Ley, lo hará del conocimiento del INE para los fines correspondientes.
 
 ## TÍTULO QUINTO. DE LOS FRENTES, COALICIONES Y FUSIONES
 
-### CAPÍTULO SEGUNDO. DEL PROCESO DE SELECCIÓN DE CANDIDATOS INDEPENDIENTES
-
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO PRIMERO. DE LOS FRENTES Y LA FORMACIÓN DE COALICIONES
 
 ###### Artículo 102.
 
@@ -1195,43 +1545,51 @@ El convenio en el cual se procede a la integración de un Frente, deberá presen
 
 Los Partidos Políticos que integran un frente, conservarán su personalidad jurídica y patrimonio propio, su registro e identidad.
 
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 103.
 
-Para efectos de su intervención en los procesos electorales, los partidos políticos registrados ante el Instituto, podrán formar coaliciones a fin de postular a los mismos candidatos en las elecciones en las que participen, de conformidad con lo que disponga esta Ley.
+PARA EFECTOS DE SU INTERVENCIÓN EN LOS PROCESOS ELECTORALES, LOS PARTIDOS POLÍTICOS REGISTRADOS ANTE EL INSTITUTO, PODRÁN FORMAR COALICIONES SIEMPRE Y CUANDO POSTULEN A LOS MISMOS CANDIDATOS EN LAS ELECCIONES EN LAS QUE PARTICIPEN, DE CONFORMIDAD CON LO QUE DISPONGA ESTA LEY.
 
-Se entiende por coalición, la alianza o unión transitoria de dos o más partidos políticos para participar en determinada elección.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Solo podrán coaligarse, aquellos partidos políticos que hubieren participado en la ultima elección local.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-El Convenio de Coalición podrá celebrarse por dos o más partidos políticos, el cual deberá registrarse ante el Instituto Electoral y quedará sin efecto concluida la calificación de las elecciones para las que se hayan coaligado.
+SE ENTIENDE POR COALICIÓN, LA ALIANZA O UNIÓN TRANSITORIA DE DOS O MÁS PARTIDOS POLÍTICOS PARA PARTICIPAR EN LA POSTULACIÓN DE CANDIDATOS EN COMÚN EN UNA O MÁS ELECCIONES, REGISTRADA DE CONFORMIDAD CON LO DISPUESTO EN EL PRESENTE CAPÍTULO.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+SOLO PODRÁN COALIGARSE, AQUELLOS PARTIDOS POLÍTICOS QUE HUBIEREN PARTICIPADO EN LA ULTIMA ELECCIÓN LOCAL.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+EL CONVENIO DE COALICIÓN PODRÁ CELEBRARSE POR DOS O MÁS PARTIDOS POLÍTICOS, EL CUAL DEBERÁ REGISTRARSE ANTE EL INSTITUTO Y QUEDARÁ SIN EFECTO CONCLUIDA LA CALIFICACIÓN DE LAS ELECCIONES PARA LAS QUE SE HAYAN COALIGADO.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 104.
 
-Los partidos políticos podrán coaligarse para postular a los mismos candidatos en las elecciones de:
+Los partidos políticos podrán coaligarse para postular a los mismos candidatos en las elecciones de Gobernador del Estado, Diputados por el principio de mayoría relativa y Miembros del Ayuntamiento.
 
-I. Gobernador del Estado;
+Los partidos políticos podrán celebrar coaliciones totales, parciales y flexibles, conforme a las siguientes reglas:
 
-A. La coalición que se celebre para la postulación de candidatos en las elecciones de Gobernador, tendrá efectos sobre los quince distritos electorales uninominales en que se divide el territorio del Estado.
+I. Coalición total es aquella en la que los partidos coaligados postulan en un mismo proceso electoral, a la totalidad de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
 
-B. La coalición para Gobernador deberá registrar candidatos a Diputados de Mayoría Relativa en por lo menos ocho distritos electorales uninominales. Si una vez registrada la coalición no cumple con el registro de fórmulas de candidatos dentro de los plazos señalados para tal efecto en la presente Ley, la coalición quedará automáticamente sin efectos.
+Si dos o más partidos se coaligan en forma total para las elecciones de Diputados por el principio de mayoría relativa, deberán coaligarse para la elección de Gobernador.
 
-II. Diputados por el principio de mayoría relativa;
+Si una vez registrada la coalición total, la misma no registrara a los candidatos a los cargos de elección, en los términos del párrafo que antecede, y dentro de los plazos señalados en el artículo 107 de esta Ley, la coalición y el registro del candidato para la elección de Gobernador quedará automáticamente sin efectos.
 
-A. La coalición para postular candidatos por este principio podrá ser total o parcial.
+II. Coalición parcial es aquella en la que los partidos coaligados postulan en el mismo proceso electoral, al menos el cincuenta por ciento de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
 
-B. En la coalición parcial deberán registrarse candidatos en un mínimo de tres y en un máximo de ocho distritos. A partir de nueve distritos electorales uninominales la Coalición deberá ser total, por lo que en este caso se deberá registrar una sola lista de candidatos a diputados por el principio de representación proporcional.
+III. Coalición flexible es aquella en la que los partidos coaligados postulan en el mismo proceso electoral, al menos un veinticinco por ciento de sus candidatos a puestos de elección popular bajo una misma plataforma electoral.
 
-En este caso, los mismos partidos políticos que formen la coalición, deberán registrar bajo esta modalidad, planillas de candidatos para los Ayuntamientos en aquél o aquéllos, donde se ubicarán el o los distritos electorales uninominales.
-
-Si una vez registrada la coalición no cumple con el registro de planillas de candidatos para los Ayuntamientos dentro de los plazos señalados para tal efecto en la presente Ley, la Coalición quedará automáticamente sin efectos.
-
-III. Miembros de Ayuntamientos:
-
-A. Respecto a la elección de Ayuntamientos, los partidos coaligados deberán registrar, bajo esta modalidad, planillas de candidatos en por lo menos tres municipios del Estado.
-
-B. En los municipios donde se hayan coaligado para la elección de Ayuntamientos, los mismos partidos políticos que formen la coalición, deberán registrar bajo esta modalidad, candidatos a diputados por el principio de mayoría relativa.
-
-C. Si una vez registrada la coalición no cumple con el registro de fórmulas de candidatos dentro de los plazos señalados para tal efecto en la presente Ley, la Coalición quedará automáticamente sin efectos.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 ###### Artículo 105.
 
@@ -1239,51 +1597,87 @@ A la coalición le será asignado el número de Diputados y Regidores de los Ayu
 
 La coalición que presente candidatos a diputados por el principio de mayoría relativa y candidatos a miembros de los Ayuntamientos, comprenderá siempre fórmulas o planillas con propietarios y suplentes.
 
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
 ###### Artículo 106.
 
-El Convenio de Coalición deberá contener lo siguiente:
+EL CONVENIO DE COALICIÓN DEBERÁ CONTENER LO SIGUIENTE:
 
-I. Los partidos políticos que la integran;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II. La elección o elecciones que la motivan;
+I. LOS PARTIDOS POLÍTICOS QUE LA INTEGRAN;
 
-III. El nombre, apellidos, edad, lugar de nacimiento y domicilio de los candidatos;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IV. El emblema o los emblemas y el color o colores que distinguirán a la Coalición;
+II. LA ELECCIÓN O ELECCIONES QUE LA MOTIVAN;
 
-V. El cargo para el que se postula a los ciudadanos;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN III DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VI. La forma de distribución del financiamiento que les corresponda;
+III. EL NOMBRE, APELLIDOS, EDAD, LUGAR DE NACIMIENTO Y DOMICILIO DE LOS CANDIDATOS;
 
-VII. El porcentaje de la votación obtenida por la coalición que corresponderá a cada uno de los partidos coaligados;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IV DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-VIII. El orden de prelación para la conservación del registro y acreditación en su caso;
+IV. EL EMBLEMA O LOS EMBLEMAS Y EL COLOR O COLORES QUE DISTINGUIRÁN A LA COALICIÓN;
 
-IX. La documentación que acredite la aceptación de la Coalición por parte de cada uno de los órganos facultados por los estatutos de los partidos políticos que se pretendan coaligar, dependiendo de la elección de que se trate.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN V DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Para estos efectos, las asambleas o equivalentes se llevarán a cabo, en presencia de la Comisión que el Consejero Presidente del Instituto designe de acuerdo a lo establecido en el segundo párrafo del artículo 107 de esta ley y de uno o varios Notarios Públicos;
+V. EL CARGO PARA EL QUE SE POSTULA A LOS CIUDADANOS;
 
-X. La plataforma electoral que sustente la postulación presentada por la coalición, así como la documentación que compruebe que los órganos correspondientes de cada partido político aprobaron la plataforma electoral de la coalición y la candidatura o las candidaturas propuestas, requiriéndose que las asambleas o reuniones en donde esto se apruebe, se celebren en presencia de la Comisión que el Consejero Presidente del Instituto designe para tal efecto, de acuerdo a lo establecido en el segundo párrafo del artículo 107 de esta ley y de uno o varios Notarios Públicos; y
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VI DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-XI. La especificación del partido o grupo parlamentario a que pertenecerán los diputados por el principio de representación proporcional que les correspondan.
+VI. LA FORMA DE DISTRIBUCIÓN DEL FINANCIAMIENTO QUE LES CORRESPONDA;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VII DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+VII. EL PORCENTAJE DE LA VOTACIÓN OBTENIDA POR LA COALICIÓN QUE CORRESPONDERÁ A CADA UNO DE LOS PARTIDOS COALIGADOS;
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN VIII DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+VIII. EL ORDEN DE PRELACIÓN PARA LA CONSERVACIÓN DEL REGISTRO Y ACREDITACIÓN EN SU CASO;
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN IX DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+IX. LA DOCUMENTACIÓN QUE ACREDITE LA ACEPTACIÓN DE LA COALICIÓN POR PARTE DE CADA UNO DE LOS ÓRGANOS FACULTADOS POR LOS ESTATUTOS DE LOS PARTIDOS POLÍTICOS QUE SE PRETENDAN COALIGAR, DEPENDIENDO DE LA ELECCIÓN DE QUE SE TRATE.
+
+PARA ESTOS EFECTOS, LAS ASAMBLEAS O EQUIVALENTES SE LLEVARÁN A CABO, EN PRESENCIA DE LA COMISIÓN QUE EL CONSEJERO PRESIDENTE DEL INSTITUTO DESIGNE DE ACUERDO A LO ESTABLECIDO EN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 107 DE ESTA LEY Y DE UNO O VARIOS NOTARIOS PÚBLICOS;
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA FRACCIÓN X DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+X. LA PLATAFORMA ELECTORAL QUE SUSTENTE LA POSTULACIÓN PRESENTADA POR LA COALICIÓN, ASÍ COMO LA DOCUMENTACIÓN QUE COMPRUEBE QUE LOS ÓRGANOS CORRESPONDIENTES DE CADA PARTIDO POLÍTICO APROBARON LA PLATAFORMA ELECTORAL DE LA COALICIÓN Y LA CANDIDATURA O LAS CANDIDATURAS PROPUESTAS, REQUIRIÉNDOSE QUE LAS ASAMBLEAS O REUNIONES EN DONDE ESTO SE APRUEBE, SE CELEBREN EN PRESENCIA DE LA COMISIÓN QUE EL CONSEJERO PRESIDENTE DEL INSTITUTO DESIGNE PARA TAL EFECTO, DE ACUERDO A LO ESTABLECIDO EN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 107 DE ESTA LEY Y DE UNO O VARIOS NOTARIOS PÚBLICOS; Y
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XI. LA ESPECIFICACIÓN DEL PARTIDO POLÍTICO AL QUE PERTENECEN ORIGINALMENTE CADA UNO DE LOS CANDIDATOS REGISTRADOS POR LA COALICIÓN Y EL SEÑALAMIENTO DEL GRUPO PARLAMENTARIO O PARTIDO POLÍTICO EN EL QUE QUEDARÍAN COMPRENDIDOS EN CASO DE RESULTAR ELECTOS.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 107.
 
-Los partidos políticos que pretendan formar una coalición, deberán manifestar por escrito al Consejero Presidente del Instituto, y durante sus ausencias, al Secretario General, su propósito de constituirla a partir del inicio del proceso electoral y hasta el día 19 de marzo del año de la elección, debiendo acompañar en el mismo acto de solicitud, el calendario en el que se especifiquen las fechas para la celebración de sus Asambleas respectivas u órganos equivalentes.
+LOS PARTIDOS POLÍTICOS QUE PRETENDAN FORMAR UNA COALICIÓN, DEBERÁN MANIFESTAR POR ESCRITO AL CONSEJERO PRESIDENTE DEL INSTITUTO, Y DURANTE SUS AUSENCIAS, AL SECRETARIO GENERAL, SU PROPÓSITO DE CONSTITUIRLA A PARTIR DEL INICIO DEL PROCESO ELECTORAL Y HASTA EL DÍA 19 DE FEBRERO DEL AÑO DE LA ELECCIÓN, DEBIENDO ACOMPAÑAR EN EL MISMO ACTO DE SOLICITUD, EL CALENDARIO EN EL QUE SE ESPECIFIQUEN LAS FECHAS PARA LA CELEBRACIÓN DE SUS ASAMBLEAS RESPECTIVAS U ÓRGANOS EQUIVALENTES.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
 
-Al día siguiente del plazo señalado en el párrafo anterior, el Consejero Presidente designará una Comisión o las que se requieran para efecto de verificar la celebración de las asambleas mencionadas, en todo caso, no podrán concurrir dos o más comisiones para constatar una misma asamblea o reunión.
+AL DÍA SIGUIENTE DEL PLAZO SEÑALADO EN EL PÁRRAFO ANTERIOR, EL CONSEJERO PRESIDENTE DESIGNARÁ UNA COMISIÓN O LAS QUE SE REQUIERAN PARA EFECTO DE VERIFICAR LA CELEBRACIÓN DE LAS ASAMBLEAS MENCIONADAS, EN TODO CASO, NO PODRÁN CONCURRIR DOS O MÁS COMISIONES PARA CONSTATAR UNA MISMA ASAMBLEA O REUNIÓN.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-En todo caso, las asambleas referidas en el presente artículo, deberán realizarse entre el 21 de Marzo y el 5 de Abril del año de la elección.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+LAS ASAMBLEAS REFERIDAS EN EL PRESENTE ARTÍCULO, DEBERÁN REALIZARSE ENTRE EL 21 DE FEBRERO Y EL 5 DE MARZO DEL AÑO DE LA ELECCIÓN.
 
-Dentro de los cinco días siguientes a los que se haya efectuado la última asamblea programada en el calendario, el Consejo General del Instituto, resolverá sobre la solicitud de coalición y notificará al representante de la misma, ordenando publicar la resolución en el Periódico Oficial del Gobierno del Estado, a más tardar el 12 de Abril del año de la elección.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+DENTRO DE LOS CINCO DÍAS SIGUIENTES A LOS QUE SE HAYA EFECTUADO LA ÚLTIMA ASAMBLEA PROGRAMADA EN EL CALENDARIO, EL CONSEJO GENERAL DEL INSTITUTO, RESOLVERÁ SOBRE LA SOLICITUD DE COALICIÓN Y NOTIFICARÁ AL REPRESENTANTE DE LA MISMA, ORDENANDO PUBLICAR LA RESOLUCIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, A MÁS TARDAR EL 12 DE MARZO DEL AÑO DE LA ELECCIÓN.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 ###### Artículo 108.
 
@@ -1295,39 +1689,85 @@ Cuando proceda el registro, el Consejo General expedirá certificado haciéndolo
 
 En el caso de Diputados de mayoría relativa, el Convenio de Coalición deberá contener a qué partido político o grupo parlamentario representará en el seno de la Legislatura del Estado, en caso de obtener el triunfo en el Distrito Uninominal correspondiente. Dicha asignación deberá ser uno a uno, sin dejar lugar a duda y en el total de los distritos en que se postulen candidatos de mayoría relativa por dicha Coalición.
 
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 109.
 
-La Coalición en la que se postulen candidatos a Gobernador del Estado, Diputados o miembros de los Ayuntamientos, se sujetará a lo siguiente:
+LAS COALICIONES SOLO PODRÁN SER TOTALES, PARCIALES Y FLEXIBLES, SUJETÁNDOSE A LO SIGUIENTE:
 
-I. Disfrutará de las prerrogativas que otorga esta Ley, conforme a las siguientes reglas:
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+I. DISFRUTARÁ DE LAS PRERROGATIVAS QUE OTORGA ESTA LEY, CONFORME A LAS SIGUIENTES REGLAS:
 
 a) (DEROGADO, P.O. 3 DE OCTUBRE DE 2005)
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL INCISO B) DE LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-b). Tendrá acceso a radio y televisión, en los términos de la presente ley, como si se tratare de un solo partido. Para tal fin tendrá derecho a los tiempos que le hubiesen correspondido al Partido Político coaligado que haya obtenido la mayor votación en la última elección;
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-c) Por lo que se refiere al tope de gastos de campaña el límite se respetará como si se tratara de un solo partido político.
+b) TENDRÁ ACCESO A RADIO Y TELEVISIÓN, EN LOS TÉRMINOS DE LA LEY DE INSTITUCIONES, EN TODO CASO, LOS MENSAJES EN RADIO Y TELEVISIÓN QUE CORRESPONDAN A CANDIDATOS DE COALICIÓN DEBERÁN IDENTIFICAR ESA CALIDAD Y EL PARTIDO RESPONSABLE DEL MENSAJE, SIENDO APLICABLE, CUALQUIERA QUE SEA SU ÁMBITO TERRITORIAL Y TIPO DE ELECCIÓN, EN TODO TIEMPO Y CIRCUNSTANCIA, LO ESTABLECIDO EN EL SEGUNDO PÁRRAFO DEL APARTADO A DE LA BASE III DEL ARTÍCULO 41 DE LA CONSTITUCIÓN;
 
-II. Los partidos políticos no podrán postular candidatos propios donde ya hubiere candidatos de la Coalición de la que ellos formen parte.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL INCISO C) DE LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Ningún partido político podrá registrar como candidato propio a quien ya haya sido registrado como candidato por alguna Coalición.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Ninguna Coalición podrá postular como candidato de la Coalición, a quien ya haya sido registrado como candidato de algún partido político.
+c) POR LO QUE SE REFIERE AL TOPE DE GASTOS DE CAMPAÑA, EN EL CONVENIO DE COALICIÓN SE DEBERÁ MANIFESTAR QUE LOS PARTIDOS POLÍTICOS COALIGADOS, SEGÚN EL TIPO DE COALICIÓN DE QUE SE TRATE, SE SUJETARÁN A LOS TOPES DE GASTOS DE CAMPAÑA QUE SE HAYAN FIJADO EN LAS DISTINTAS ELECCIONES, COMO SI SE TRATARA DE UN SOLO PARTIDO. DE LA MISMA MANERA DEBERÁ SEÑALARSE EL MONTO DE LAS APORTACIONES DE CADA PARTIDO POLÍTICO COALIGADO PARA EL DESARROLLO DE LAS CAMPAÑAS RESPECTIVAS, ASÍ COMO LA FORMA DE REPORTARLO EN LOS INFORMES CORRESPONDIENTES.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2005)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+II. LOS PARTIDOS POLÍTICOS NO PODRÁN POSTULAR CANDIDATOS PROPIOS DONDE YA HUBIERE CANDIDATOS DE LA COALICIÓN DE LA QUE ELLOS FORMEN PARTE.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+NINGÚN PARTIDO POLÍTICO PODRÁ REGISTRAR COMO CANDIDATO PROPIO A QUIEN YA HAYA SIDO REGISTRADO COMO CANDIDATO POR ALGUNA COALICIÓN.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+NINGUNA COALICIÓN PODRÁ POSTULAR COMO CANDIDATO DE LA COALICIÓN, A QUIEN YA HAYA SIDO REGISTRADO COMO CANDIDATO DE ALGÚN PARTIDO POLÍTICO.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+NINGÚN PARTIDO POLÍTICO PODRÁ REGISTRAR A UN CANDIDATO DE OTRO PARTIDO POLÍTICO.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+LOS PARTIDOS POLÍTICOS NO PODRÁN CELEBRAR MÁS DE UNA COALICIÓN CON OTRO PARTIDO POLÍTICO EN EL MISMO PROCESO ELECTORAL.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 110.
 
-La Coalición actuará como un solo partido político y por lo tanto, la representación de la misma sustituye para todos los efectos a que haya lugar a la de los partidos políticos coaligados.
+Cada partido político coaligado, independientemente de la elección para la que se realice, conservará su propia representación en los consejos del Instituto y ante las mesas directivas de casillas.
+
+Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la coalición y contarán para cada uno de los partidos políticos para los efectos establecidos en esta Ley.
+
+Los votos en los que se hubiere marcado más de una opción de los partidos coaligados, serán considerados válidos para el candidato postulado, contarán como uno (sic) solo voto.
+
+Cada partido político coaligado deberá registrar listas propias de candidatos a diputados por el principio de representación proporcional.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 ###### Artículo 111.
 
-Los candidatos de la Coalición serán registrados durante el período previsto en esta Ley para el registro de candidatos.
+LOS CANDIDATOS DE LA COALICIÓN SERÁN REGISTRADOS DURANTE EL PERÍODO PREVISTO EN ESTA LEY PARA EL REGISTRO DE CANDIDATOS.
 
-### CAPÍTULO TERCERO. DEL REGISTRO DE LAS CANDIDATURAS INDEPENDIENTES
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+EN SU OPORTUNIDAD, CADA PARTIDO POLÍTICO INTEGRANTE DE LA COALICIÓN DE QUE SE TRATE DEBERÁ REGISTRAR, POR SÍ MISMO, LAS LISTAS DE CANDIDATOS A DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL.
+
+### CAPÍTULO SEGUNDO. DE LA FUSIÓN DE PARTIDOS POLÍTICOS
+
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 112.
 
@@ -1367,7 +1807,7 @@ F. Órgano responsable del financiamiento, en términos de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES DE LOS CANDIDATOS INDEPENDIENTES
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1395,13 +1835,13 @@ Los ciudadanos que aspiren a ser registrados como candidatos independientes debe
 
 El financiamiento público o privado que manejen los candidatos independientes, será estrictamente obtenido y erogado dentro de los plazos previstos en este Título, según la modalidad de elección de que se trate.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-###### Articulo 119.
+###### Artículo 119.
 
-De aprobarse el registro de candidatos independientes, el Instituto dará aviso en un plazo no mayor a setenta y dos horas a la instancia respectiva del Instituto Federal Electoral para los efectos procedentes por cuanto su acceso a la radio y televisión.
+De aprobarse el registro de candidatos independientes, el Instituto dará aviso en un plazo no mayor a setenta y dos horas a la instancia respectiva del INE para los efectos procedentes por cuanto (sic) su acceso a la radio y televisión.
 
-El Órgano Electoral que corresponda pondrá a consideración del Comité de Radio y Televisión del Instituto Federal Electoral una propuesta de distribución, tomando en consideración el número de candidatos registrados para cada cargo de elección popular.
+El Órgano Electoral que corresponda pondrá a consideración del Comité de Radio y Televisión del INE una propuesta de distribución, tomando en consideración el número de candidatos registrados para cada cargo de elección popular.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1411,9 +1851,9 @@ En lo no previsto en este Título para los candidatos independientes se aplicar�
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO SEGUNDO. DEL PROCESO DE SELECCIÓN DE CANDIDATOS INDEPENDIENTES
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 116], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 121.
 
@@ -1427,25 +1867,39 @@ II. Obtención del respaldo ciudadano, y
 
 III. Declaratoria de quienes tendrán derecho a ser registrados como candidatos independientes.
 
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 122.
 
-El dieciséis de marzo del año de la elección, el Consejo General aprobará los Lineamientos y la Convocatoria para que los interesados que lo deseen y cumplan los requisitos correspondientes, participen en el proceso de registro para contender como candidatos independientes a un cargo de elección popular.
+El dieciséis de febrero del año de la elección, el Consejo General aprobará los Lineamientos y la Convocatoria para que los interesados que lo deseen y cumplan los requisitos correspondientes, participen en el proceso de registro para contender como candidatos independientes a un cargo de elección popular.
 
-La Convocatoria deberá publicarse el 18 de marzo del año de la elección en al menos dos medios de comunicación impresos de mayor circulación en la entidad y en la página de Internet del Instituto, y contendrá al menos los siguientes elementos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+La Convocatoria deberá publicarse el 18 de febrero del año de la elección en al menos dos medios de comunicación impresos de mayor circulación en la entidad y en la página de Internet del Instituto, y contendrá al menos los siguientes elementos:
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 I. Fecha, nombre, cargo y firma del órgano que 1a expide:
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 II. Los cargos para los que se convoca;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 III. Los requisitos para que los ciudadanos emitan los respaldos a favor de los aspirantes, que ningún caso excederán a los previstos en esta Ley;
 
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 IV. El calendario que establezca fechas, horarios y domicilios en los cuales se deberán presentar las solicitudes de aspirantes y la comparecencia de los ciudadanos que acudan personalmente a manifestarle su apoyo;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 V. La forma de llevar el cabo el cómputo de dichos respaldos, y
 
-VI. Los términos para el rendimiento de cuentas del gasto de tope de campaña y la procedencia legal de su origen y destino.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+VI. La obligación de crear una Asociación Civil y los términos para el rendimiento de cuentas del gasto de tope de campaña y la procedencia legal de su origen y destino.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1453,11 +1907,17 @@ VI. Los términos para el rendimiento de cuentas del gasto de tope de campaña y
 
 Los interesados en obtener su registro como aspirantes a candidatos independientes deberán presentar la solicitud respectiva ante el órgano electoral que determine la Convocatoria en los siguientes plazos:
 
-I. Para Gobernador, del 19 al 22 de marzo del año de la elección;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. Para miembros de los Ayuntamiento de mayoría relativa, del 26 al 29 de marzo del año de la elección, y
+I. Para Gobernador, del 19 al 22 de febrero del año de la elección;
 
-III. Para Diputados de mayoría relativa, del 5 al 8 de abril del año de la elección.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+II. Para miembros de los Ayuntamientos de mayoría relativa, del 26 de febrero al 1 de marzo del año de la elección, y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Para Diputados de mayoría relativa, del 5 al 8 de marzo del año de la elección.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1513,11 +1973,17 @@ Si de la verificación realizada se advierte la omisión de uno o varios requisi
 
 El Consejo General deberá emitir los acuerdos definitivos relacionados con el registro de aspirantes a candidaturas que procedan, en las siguientes fechas:
 
-I. Para Gobernador, a más tardar el 27 de marzo del año de la elección;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. Para miembros de los Ayuntamientos de mayoría relativa, a más tardar el 3 de abril del año de la elección, y
+I. Para Gobernador, a más tardar el 27 de febrero del año de la elección;
 
-III. Para Diputados de mayoría relativa, a más tardar el 13 de abril del año de la elección.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+II. Para miembros de los Ayuntamientos de mayoría relativa, a más tardar el 7 de marzo del año de la elección, y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Para Diputados de mayoría relativa, a más tardar el 13 de marzo del año de la elección.
 
 Dichos acuerdos se notificarán a todos los interesados mediante su publicación en los estrados y en la página de Internet del Instituto, lo cual deberá acontecer dentro de las siguientes doce horas en que hayan sido aprobados.
 
@@ -1527,15 +1993,23 @@ Dichos acuerdos se notificarán a todos los interesados mediante su publicación
 
 La etapa de obtención del respaldo ciudadano iniciará y concluirá, dependiendo del cargo al que se aspire, en las siguientes fechas:
 
-I. Para Gobernador, del 28 de marzo al 17 de abril del año de la elección;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. Para miembros de los Ayuntamientos de mayoría relativa, del 4 al 18 de abril del año de la elección, y
+I. Para Gobernador, del 28 de febrero al 17 de marzo del año de la elección;
 
-III. Para Diputados de mayoría relativa, del 14 al 25 de abril del año de la elección,
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+II. Para miembros de los Ayuntamientos de mayoría relativa, del 8 al 21 de marzo del año de la elección, y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Para Diputados de mayoría relativa, del 14 al 25 de marzo del año de la elección.
 
 Durante estos plazos los aspirantes registrados podrán llevar a cabo acciones para obtener el respaldo de la ciudadanía, mediante manifestaciones personales, cumpliendo los requisitos que establece esta Ley para obtener la declaratoria que le dará derecho a registrarse como candidato independiente y con tender en la elección constitucional.
 
-Tales actos deberán estar financiados por aportaciones o donativos, en dinero o en especie efectuados a favor de los aspirantes a candidatos independientes, en forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, distintas a los partidos políticos y a las comprendidas en el artículo 92 de esta Ley, respetando los montos máximos de aportaciones permitidas para los partidos políticos. Las erogaciones estarán sujetas al tope de gastos al que se refiere el artículo 304 de esta Ley.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Tales actos deberán estar financiados por aportaciones o donativos, en dinero o en especie efectuados a favor de los aspirantes a candidatos independientes, a través de la cuenta bancaria que se aperture a nombre de la Asociación Civil que hayan constituido, en forma libre y voluntaria, por las personas físicas mexicanas con residencia en el país, distintas a los partidos políticos y a las comprendidas en el artículo 92 de esta Ley, respetando los montos máximos de aportaciones permitidas para los partidos políticos. Las erogaciones estarán sujetas al tope de gastos al que se refiere el artículo 304 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1569,7 +2043,9 @@ I. Conducirse con irrestricto respeto a lo dispuesto en la Constitución Particu
 
 II. Abstenerse de solicitar el voto del electorado;
 
-III. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros aspirantes, precandidatos, partidos políticos, instituciones públicas o privadas, y terceros incitar al desorden o utilizar símbolos, signos o motivos religiosos o racistas;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+III. Abstenerse de utilizar en su propaganda CUALQUIER ALUSIÓN A LA VIDA PRIVADA, OFENSAS, DIFAMACIÓN O calumnia QUE DENIGRE A OTROS ASPIRANTES, PRECANDIDATOS, PARTIDOS POLÍTICOS, INSTITUCIONES PÚBLICAS O PRIVADAS, Y TERCEROS incitar al desorden o utilizar símbolos, signos o motivos religiosos o racistas;
 
 IV. Insertar en su propaganda de manera visible la leyenda: “aspirante a candidato Independiente”;
 
@@ -1595,7 +2071,9 @@ I. Las manifestaciones de respaldo se requisitarán en el momento de su entrega 
 
 II. La recepción de las manifestaciones se hará ante la presencia de los funcionarios electorales que al efecto se designen y de los representantes que, en su caso, designen los partidos políticos o coaliciones y que los propios aspirantes decidan acreditar;
 
-III. Las manifestaciones de respaldo para aspirantes a candidatos a Gobernador serán presentadas en las sedes de los Consejos Distritales que correspondan al domicilio de los ciudadanos que decidan manifestar su apoyo;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Las manifestaciones de respaldo para aspirantes a candidatos a Gobernador serán presentadas en las sedes de los Consejos que correspondan al domicilio de los ciudadanos que decidan manifestar su apoyo;
 
 IV. Las manifestaciones de respaldo para aspirantes a candidatos a Diputados serán presentadas en la sede del Consejo Distrital que corresponda a la demarcación por la que se pretenda competir, y exclusivamente por ciudadanos con domicilio en ese ámbito territorial, y
 
@@ -1631,9 +2109,15 @@ I. El Instituto, a través de la Dirección de Partidos Políticos, verificará 
 
 II. De todos los aspirantes registrados a un mismo cargo de elección popular, solamente tendrá derecho a registrarse como candidato Independiente aquel que de manera individual, por fórmula o planilla, según sea el caso, obtenga el mayor número de manifestaciones de apoyo válidas;
 
-III. Si ninguno de los aspirantes registrados obtiene, en su respectiva demarcación, el respaldo de por lo menos el dos por ciento de ciudadanos registrados en el padrón electoral con corte al 31 de diciembre del año previo al de la elección, el Consejo General declarará desierto el proceso de selección de candidato independiente en la elección de que se trate, y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-IV. En el caso de aspirantes al cargo de Gobernador, el dos por ciento al que se refiere la fracción anterior deberá estar distribuido en ese mismo o mayor porcentaje en la totalidad de los distritos electorales de los que se compone el Estado.
+III. Si ninguno de los aspirantes registrados obtiene, en su respectiva demarcación, el respaldo de por lo menos el tres por ciento de ciudadanos registrados en el padrón electoral con corte al 31 de diciembre del año previo al de la elección, el Consejo General declarará desierto el proceso de selección de candidato independiente en la elección de que se trate, y
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. EN EL CASO DE ASPIRANTES AL CARGO DE GOBERNADOR, EL TRES POR CIENTO AL QUE SE REFIERE LA FRACCIÓN ANTERIOR DEBERÁ ESTAR DISTRIBUIDO EN ESE MISMO O MAYOR PORCENTAJE EN LA TOTALIDAD DE LOS DISTRITOS ELECTORALES DE LOS QUE SE COMPONE EL ESTADO.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1653,9 +2137,9 @@ A más tardar un día antes del inicio del plazo de registro de candidaturas res
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO PRIMERO. REGISTRO DE CANDIDATOS
+### CAPÍTULO TERCERO. DEL REGISTRO DE LAS CANDIDATURAS INDEPENDIENTES
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 127], P.O. 7 DE DICIEMBRE DE 2012)
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 137.
 
@@ -1699,6 +2183,10 @@ II. Cuando la solicitud de registro se haya presentado fuera de los plazos previ
 
 III. Cuando no se haya satisfecho cualquiera de los requisitos para la procedencia del registro a que se refiere el artículo 138 y los demás que establezca esta Ley, ni siquiera con posterioridad al requerimiento que en su caso haya formulado el Instituto, o cuando el desahogo a este último se haya presentado de manera extemporánea.
 
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. Cuando el aspirante haya sido miembro de las dirigencias nacionales, estatales o municipales, de organización o militante de partido político alguno, o candidato postulado por un partido político a puesto de elección popular en los tres años anteriores a la elección.
+
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 141.
@@ -1713,9 +2201,9 @@ Los candidatos independientes que obtengan su registro no podrán ser sustituido
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO SEGUNDO. DE LAS CAMPAÑAS ELECTORALES
+### CAPÍTULO CUARTO. DE LAS PRERROGATIVAS, DERECHOS Y OBLIGACIONES DE LOS CANDIDATOS INDEPENDIENTES
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 136], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 143.
 
@@ -1761,7 +2249,9 @@ VIII. Abstenerse de recibir financiamiento del extranjero o de asociaciones reli
 
 IX. Abstenerse de utilizar símbolos o expresiones de carácter religioso o discriminatorio en su propaganda;
 
-X. Abstenerse de utilizar en su propaganda cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a otros candidatos, partidos políticos, instituciones públicas o privadas, y terceros;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+X. Abstenerse de utilizar en su propaganda CUALQUIER ALUSIÓN A LA VIDA PRIVADA, OFENSAS, DIFAMACIÓN O calumnia QUE DENIGRE A OTROS CANDIDATOS, PARTIDOS POLÍTICOS, INSTITUCIONES PÚBLICAS O PRIVADAS, Y TERCEROS;
 
 XI. Insertar en su propaganda de manera visible la leyenda: “candidato independiente”;
 
@@ -1789,7 +2279,13 @@ Los candidatos independientes a los Ayuntamientos tendrán en conjunto derecho a
 
 La misma regla aplicará para los candidatos registrados a diputados por mayoría relativa.
 
-En el caso de que se haya declarado desierto algún proceso, el Instituto deberá reintegrar el recurso correspondiente al Estado a través de la Secretaría de Hacienda dentro de los diez días posteriores a que se declare desierto.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En el caso de que se haya declarado desierto algún proceso, el Instituto deberá reintegrar el recurso correspondiente al Estado a través de la Secretaría de Finanzas y Planeación dentro de los diez días posteriores a que se declare desierto.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En ningún caso, el financiamiento privado de dichos candidatos, podrá rebasar el diez por ciento del tope de gasto para la elección de que se trate.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1807,19 +2303,19 @@ Los aspirantes o candidatos independientes que incumplan con la normatividad ele
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-### CAPÍTULO TERCERO. DETERMINACIÓN Y UBICACIÓN DE CASILLAS
+### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 149], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 116], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 148.
 
 El proceso electoral es el conjunto de actos ordenados por la Constitución Particular y esta Ley, realizados por las autoridades electorales, los partidos políticos, los candidatos independientes y los ciudadanos, para la renovación periódica del Gobernador, diputados y miembros de los ayuntamientos.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 117], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 149.
 
-El proceso electoral ordinario para la elección de gobernador, diputados y miembros de los ayuntamientos inicia el 16 de marzo del año de la elección y concluye con la toma de posesión de los cargos.
+El proceso electoral ordinario para la elección de Gobernador, Diputados y miembros de los Ayuntamientos, inicia el 15 de febrero del año de la elección y concluye con la toma de posesión de los cargos.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 118], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1833,19 +2329,23 @@ II. Jornada electoral; y
 
 III. Resultados y declaración de validez de la elección.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 119], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 151.
 
-La etapa de preparación de la elección, se inicia con la primera sesión que el Consejo General celebre el 16 de marzo del año de la elección y concluye al iniciarse la Jornada electoral.
+La etapa de preparación de la elección, se inicia con la primera sesión que el Consejo General celebre el 15 de febrero del año de la elección y concluye al iniciarse la jornada electoral.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 Para tal efecto, el Consejo General celebrará sesión solemne en la que hará la Declaratoria de Inicio del Proceso Electoral.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 120], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 152.
 
-La etapa de la Jornada Electoral se inicia a las 7:30 horas del primer domingo de julio del año en que deban realizarse las elecciones ordinarias y concluye con la entrega de los paquetes electorales a los respectivos Consejos Municipales y a los Distritales, que correspondan.
+La etapa de la Jornada Electoral que no sea concurrente con la elección federal, se inicia a las 7:30 horas del primer domingo de junio del año en que deban realizarse las elecciones ordinarias y concluye con la entrega de los paquetes electorales a los respectivos Consejos Municipales y a los Distritales, que correspondan.
+
+La etapa de la Jornada Electoral que sea concurrente con la elección federal, iniciará a las 8:00 horas, de conformidad con lo establecido por el artículo 208, párrafo segundo de la Ley de Instituciones.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 121], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -1853,25 +2353,37 @@ La etapa de la Jornada Electoral se inicia a las 7:30 horas del primer domingo d
 
 La etapa de resultados y declaración de validez de la elección, se inicia con la recepción de los paquetes electorales en el Consejo General, en los Consejos Municipales o en los Consejos Distritales, que correspondan, y concluye con la toma de posesión de los cargos.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 122], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 154.
 
-Los ciudadanos mexicanos podrán participar como observadores durante todo el proceso electoral, en la forma y términos que determine el Consejo General, de acuerdo con las siguientes bases:
+Los ciudadanos mexicanos podrán participar como observadores durante todo el proceso electoral, en la forma y términos que determine el INE y el Capítulo VII del Libro Quinto de la Ley de Instituciones, de acuerdo con las bases que al efecto emita el Instituto y las siguientes:
 
-I. Los interesados en la observación electoral, podrán presentar su solicitud de acreditación a partir del 16 de Marzo del año de la elección;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+I. Los interesados en la observación electoral, podrán presentar su solicitud de acreditación a partir de la fecha que establezca el Instituto;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 II. Sólo podrán participar los ciudadanos que hayan obtenido oportunamente su acreditación ante el Consejo General, misma que será individual e intransferible;
 
-III. Los ciudadanos interesados deberán señalar en el escrito de solicitud de acreditación, los datos de identificación personal, anexando fotocopia de su credencial para votar, así como la manifestación expresa de que se sujetarán a los principios constitucionales de legalidad, certeza, imparcialidad, independencia y objetividad y de que no tienen vínculos con partido u organización política alguna;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-IV. La acreditación como observador electoral únicamente se podrá solicitar de manera personal;
+III. Los ciudadanos interesados deberán cumplir con los requisitos establecidos por el Instituto y deberán sujetarse a los principios constitucionales de legalidad, certeza, imparcialidad, independencia y objetividad y no tener vínculos con partido u organización política alguna;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. La acreditación como observador electoral únicamente se podrá solicitar en los términos que establezca el Instituto;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 V. Sólo se otorgará la acreditación a quien cumpla, además de los requisitos anteriores, con los siguientes:
 
 A. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos.
 
-B. No ser, ni haber sido miembro de dirigencias nacionales, estatales o municipales, de organización o de partido político alguno en los cinco años anteriores a la elección.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+B. No ser, ni haber sido miembro de dirigencias nacionales, estatales o municipales, de organización o de partido político alguno en los tres años anteriores a la elección.
 
 C. No ser, ni haber sido candidato a puesto de elección popular en los tres años anteriores a la elección.
 
@@ -1881,7 +2393,11 @@ E. Asistir y aprobar los cursos que imparta la Autoridad Electoral, de conformid
 
 F. No ser Ministro de culto religioso.
 
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 VI. La aprobación de las acreditaciones se harán tan pronto se hayan satisfecho los requisitos de ley; y
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 VII. Para su identificación se dotará a los observadores electorales de un gafete oficial, que además de los datos personales, llevará adherida la fotografía del acreditado.
 
@@ -1925,9 +2441,9 @@ Los observadores electorales podrán presentar ante el Consejo General, un infor
 
 ## TÍTULO SEGUNDO. PREPARACIÓN DE LA ELECCIÓN
 
-### CAPÍTULO CUARTO. DOCUMENTACIÓN Y MATERIAL ELECTORAL
+### CAPÍTULO PRIMERO. REGISTRO DE CANDIDATOS
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 160], P.O. 7 DE DICIEMBRE DE 2012)</small>
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 127], P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 159.
 
@@ -1935,9 +2451,9 @@ Corresponde a los partidos políticos y coaliciones, el derecho de solicitar ant
 
 Las candidaturas a diputados por los principios de mayoría relativa y de representación proporcional, se registrarán por fórmulas compuestas cada una por un propietario y un suplente. Para los ayuntamientos, las candidaturas se registrarán por planillas integradas por propietarios y suplentes
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Los partidos políticos o coaliciones vigilarán que las candidaturas por ambos principios no excedan el sesenta por ciento para un mismo género, salvo que las mismas hayan sido resultado de un proceso de elección mediante voto directo. Asimismo, promoverán la participación política de las mujeres y los jóvenes. Los ciudadanos que aspiren a las candidaturas independientes de Ayuntamientos por el principio de mayoría relativa no deberán exceder el sesenta por ciento de un mismo género en su propuesta de planilla.
+Los partidos políticos o coaliciones postularán el cincuenta por ciento de las candidaturas a Diputados y de las candidaturas a miembros de los Ayuntamientos, en las respectivas planillas, de un mismo género en ambos principios. Asimismo, promoverán la participación política de las mujeres y los jóvenes. Los ciudadanos que aspiren a las candidaturas independientes de Ayuntamientos por el principio de mayoría relativa deberán ser el cincuenta por ciento de un mismo género en su propuesta de planilla.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 7 DE DICIEMBRE DE 2012)
 
@@ -1945,9 +2461,11 @@ Los partidos políticos o coaliciones vigilarán que las candidaturas por ambos 
 
 Para el registro de candidaturas a cargos de elección popular, el partido político o coalición postulante deberá registrar las plataformas electorales que el candidato, fórmulas o planillas sostendrán en sus campañas electorales.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Las plataformas electorales deberán presentarse para su registro, ante el Consejo General, dentro de los primeros cinco días del mes de Mayo del año de la elección.
+Las plataformas electorales deberán presentarse para su registro, ante el Consejo General, dentro de los primeros cinco días del mes de abril del año de la elección.
+
+(REPUBLICADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 Del registro de las plataformas electorales se expedirá constancia.
 
@@ -1961,13 +2479,21 @@ Los ciudadanos que aspiren a ser registrados como candidatos independientes debe
 
 Los plazos y órganos competentes para la recepción de la solicitud de registro de candidaturas, serán los siguientes:
 
-I. Para candidatos a Gobernador, el primero de mayo del año de la elección, ante el Consejo General;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. Para miembros de los Ayuntamientos, el ocho de mayo del año de la elección, ante los Consejos Municipal o los Distritales, según corresponda;
+I. Para candidatos a Gobernador, el veintiocho de marzo del año de la elección, ante el Consejo General;
 
-III. Para Diputados por el principio de mayoría relativa, el catorce de mayo del año de la elección, ante los Consejos Distritales respectivos; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-IV. Para Diputados por el principio de representación proporcional, el diecinueve del mayo del año de la elección, ante el Consejo General.
+II. Para miembros de los Ayuntamientos, el ocho de marzo del año de la elección, ante los Consejos Municipal o los Distritales, según corresponda;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Para Diputados por el principio de mayoría relativa, el catorce de marzo del año de la elección, ante los Consejos Distritales respectivos; y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. Para Diputados por el principio de representación proporcional, el diecinueve de marzo del año de la elección, ante el Consejo General.
 
 El Instituto difundirá ampliamente la apertura del registro de las candidaturas y los plazos a que se refiere este artículo.
 
@@ -2009,21 +2535,21 @@ El no haber cumplido con los requerimientos del párrafo anterior en tiempo, o h
 
 Los Órganos Electorales correspondientes, celebrarán una sesión cuyo único objeto será registrar las candidaturas que procedan en los plazos siguientes:
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-A. Para candidatos a Gobernador el 6 de mayo del año de la elección;
+A. Para candidatos a Gobernador el 2 de abril del año de la elección;
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-B. Para miembros de los Ayuntamientos el 13 de mayo del año de la elección;
+B. Para miembros de los Ayuntamientos el 13 de abril del año de la elección;
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-C. Para Diputados por el principio de mayoría relativa, el 18 de mayo del año de la elección; y
+C. Para Diputados por el principio de mayoría relativa, el 19 de abril del año de la elección, y
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-D. Para Diputados por el principio de representación proporcional, el 23 de mayo del año de la elección.
+D. Para Diputados por el principio de representación proporcional, el 24 de abril del año de la elección.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2007)</small>
 
@@ -2057,19 +2583,21 @@ Ningún ciudadano podrá ser registrado como candidato a distintos cargos de ele
 
 Ningún individuo podrá desempeñar a la vez dos cargos de elección popular, pero el electo podrá optar, de entre ambos, por el que quiera desempeñar.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 135], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 167.
 
-Para efectos de la asignación de diputados de representación proporcional, cada partido político o coalición, deberá registrar una lista de diez candidatos, propietarios y sus respectivos suplentes. Para la asignación de los diputados de representación proporcional, se seguirá el orden que tuviesen los candidatos en las listas respectivas.
+Para efectos de la asignación de diputados de representación proporcional, cada partido político o coalición, deberá registrar una lista de diez candidatos, propietarios y sus respectivos suplentes. Para la asignación de los diputados de representación proporcional, se seguirá el orden de prelación que tuviesen los candidatos en las listas respectivas, y en respeto a la voluntad soberana de la ciudadanía, las mismas no pueden ser modificadas por ninguna autoridad durante el procedimiento de asignación, derivado de que dicho orden de prelación se construye bajo parámetros partidistas previos y objetivos.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 La asignación de diputados según el principio de representación proporcional se realizará por el Consejo General, siguiendo el procedimiento establecido en esta Ley.
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO SEGUNDO. DE LAS CAMPAÑAS ELECTORALES
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 169], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 136], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 168.
 
@@ -2077,17 +2605,27 @@ La campaña electoral, para los efectos de esta Ley, es el conjunto de actividad
 
 Son actos de campaña las reuniones públicas, asambleas, marchas y en general, los eventos en que los candidatos o militantes de los partidos políticos o coaliciones se dirigen al electorado para promover sus candidaturas.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 137], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 169.
 
-Las campañas electorales iniciarán a partir de la fecha del registro de candidaturas que aprueben los Órganos Electorales competentes y concluirán tres días antes de la Jornada Electoral. En ningún caso podrán exceder de noventa días para el caso de la elección de Gobernador, y de sesenta días para las elecciones de Diputados y miembros de los Ayuntamientos.
+Las campañas electorales iniciarán a partir de la fecha del registro de candidaturas que aprueben los Órganos Electorales competentes y concluirán tres días antes de la Jornada Electoral. En ningún caso podrán exceder de noventa días, ni durar menos de sesenta días, para el caso de la elección de Gobernador, y las elecciones de Diputados y miembros de los Ayuntamientos durarán de treinta a sesenta días.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 El día de la jornada y durante los tres días anteriores, no se permitirán reuniones o actos de campañas y propaganda.
 
-Los Titulares de los Poderes Ejecutivo, Federal como Local, Diputados Federales o Locales, Senadores, Magistrados del Tribunal Superior de Justicia del Estado, los miembros de los Ayuntamientos, los Órganos Públicos Autónomos de Quintana Roo y de la Administración Pública Estatal, Paraestatal y Municipal, deberán abstenerse durante el tiempo que comprendan las campañas electorales, de difundir en los medios de comunicación social que se trasmitan en Quintana Roo, toda propaganda gubernamental. Las únicas excepciones serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de necesidad o emergencia.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Asimismo, dichos servidores públicos deberán abstenerse de utilizar nombre, imágenes, voces o símbolos que impliquen una promoción personalizada de servidores públicos en las excepciones previstas en el párrafo anterior.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+LOS TITULARES DE LOS PODERES EJECUTIVO, FEDERAL COMO LOCAL, DIPUTADOS FEDERALES O LOCALES, SENADORES, MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, LOS MIEMBROS DE LOS AYUNTAMIENTOS, LOS ÓRGANOS PÚBLICOS AUTÓNOMOS DE QUINTANA ROO Y DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PARAESTATAL Y MUNICIPAL, DEBERÁN ABSTENERSE DURANTE EL TIEMPO QUE COMPRENDAN LAS CAMPAÑAS ELECTORALES, DE DIFUNDIR EN LOS MEDIOS DE COMUNICACIÓN SOCIAL QUE SE TRASMITAN EN QUINTANA ROO, TODA PROPAGANDA GUBERNAMENTAL. LAS ÚNICAS EXCEPCIONES SERÁN LAS CAMPAÑAS DE INFORMACIÓN DE LAS AUTORIDADES ELECTORALES, LAS RELATIVAS A SERVICIOS EDUCATIVOS Y DE SALUD, O LAS NECESARIAS PARA LA PROTECCIÓN CIVIL EN CASOS DE NECESIDAD O EMERGENCIA.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
+ASIMISMO, DICHOS SERVIDORES PÚBLICOS DEBERÁN ABSTENERSE DE UTILIZAR NOMBRE, IMÁGENES, VOCES O SÍMBOLOS QUE IMPLIQUEN UNA PROMOCIÓN PERSONALIZADA DE SERVIDORES PÚBLICOS EN LAS EXCEPCIONES PREVISTAS EN EL PÁRRAFO ANTERIOR.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 138], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2109,9 +2647,15 @@ Es propaganda electoral el conjunto de escritos, publicaciones, imágenes, graba
 
 La propaganda electoral y los actos de campaña deberán propiciar la exposición, desarrollo y discusión ante el electorado de los programas y acciones fijadas por los partidos políticos en sus documentos básicos y, particularmente, en la plataforma electoral que para la elección correspondiente hubiesen registrado.
 
-Los partidos políticos, las coaliciones y los candidatos, al realizar la propaganda electoral, deberán tener en cuenta las prohibiciones y limitantes que al respecto establece la presente Ley.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Los partidos políticos, las coaliciones y los candidatos al realizar propaganda electoral deberán evitar en ella cualquier alusión a la vida privada, ofensas, difamación o calumnia que denigre a los candidatos, partidos políticos, instituciones públicas o privadas, y terceros, incitar al desorden o utilizar símbolos, signos o motivos religiosos o racistas.
+Los partidos políticos, las coaliciones y los candidatos, al realizar la propaganda electoral, deberán utilizar la denominación, emblema y colores que tengan registrados, así como tener en cuenta las prohibiciones y limitantes que al respecto establece la presente Ley. Los candidatos, no pueden utilizar un emblema distinto al del partido que los postula, salvo que participen en coalición, por tanto, queda prohibido promocionar en la propaganda electoral alianzas o coaliciones que no estén debidamente registradas ante la autoridad electoral.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+LOS PARTIDOS POLÍTICOS, LAS COALICIONES Y LOS CANDIDATOS AL REALIZAR PROPAGANDA ELECTORAL DEBERÁN EVITAR EN ELLA CUALQUIER ALUSIÓN A LA VIDA PRIVADA, OFENSAS, DIFAMACIÓN O CALUMNIA QUE DENIGRE A LOS CANDIDATOS, PARTIDOS POLÍTICOS, INSTITUCIONES PÚBLICAS O PRIVADAS, Y TERCEROS, INCITAR AL DESORDEN O UTILIZAR SÍMBOLOS, SIGNOS O MOTIVOS RELIGIOSOS, RACISTAS O DISCRIMINATORIOS.
 
 Del mismo modo los medios de comunicación estarán obligados a observar lo preceptuado en el párrafo anterior en toda la información que difundan con relación a las campañas electorales, los candidatos y los partidos políticos.
 
@@ -2121,7 +2665,9 @@ Del mismo modo los medios de comunicación estarán obligados a observar lo prec
 
 La propaganda impresa que utilicen los candidatos deberá contener una identificación del partido político, o de los partidos políticos coaligados, que hayan registrado al candidato.
 
-La propaganda que sea utilizada por alguna coalición deberá (sic) identificada en los términos del convenio de coalición respectivo.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+La propaganda que sea utilizada por alguna coalición deberá ser identificada en los términos del convenio de coalición respectivo.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 142], P.O. 7 DE DICIEMBRE DE 2012)
 
@@ -2141,9 +2687,9 @@ V. No podrá colgarse, fijarse o pintarse en monumentos, construcciones de valor
 
 VI. No se podrá colocar, fijar, pintar, ni distribuir al interior de las oficinas, edificios o locales ocupados por los poderes públicos del Estado, en los edificios escolares de cualquier nivel, en monumentos o sitios históricos o culturales, en zonas o lugares turísticos; en edificios o en oficinas de organismos descentralizados, desconcentrados, delegaciones, subdelegaciones o representaciones del Gobierno Federal, Estatal o Municipal o en vehículos oficiales destinados al servicio público; y
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-VII. Toda la propaganda impresa deberá ser reciclable y deberá elaborarse con materiales reciclados o biodegradables.
+VII. Toda la propaganda impresa deberá ser reciclable y deberá elaborarse con materiales reciclados o biodegradables. Toda propaganda electoral impresa deberá contener el símbolo internacional de material reciclable, de lo contrario se presumirá que no fue elaborada con dicho material.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2185,79 +2731,133 @@ II. Los partidos políticos, coaliciones y los candidatos independientes solicit
 
 La Dirección de Partidos Políticos organizará debates públicos entre candidatos, siempre y cuando existan solicitudes por escrito de cuando menos dos candidatos a un mismo cargo de elección popular.
 
-La fecha límite para la recepción de dichas solicitudes será el día seis de junio del año de la elección, debiendo la referida Dirección proponer a la Junta General y al Consejo General las bases de la convocatoria respectiva, las cuales serán aprobadas por dichos Órganos del Instituto, a más tardar el día diez de junio del año de la elección.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+La fecha límite para la recepción de dichas solicitudes será el día seis de mayo del año de la elección, debiendo la referida Dirección proponer a la Junta General y al Consejo General las bases de la convocatoria respectiva, las cuales serán aprobadas por dichos Órganos del Instituto, a más tardar el día diez de mayo del año de la elección.
 
 Únicamente se celebrarán debates públicos entre los candidatos a Gobernador del Estado, Diputados propietarios por el principio de mayoría relativa y miembros de los Ayuntamientos; éstos últimos, se efectuarán únicamente con los candidatos a Presidentes Municipales propietarios de las planillas de los miembros de los Ayuntamientos de la Entidad.
 
 El Instituto gestionará ante las autoridades competentes la trasmisión de los debates en radio y televisión.
 
-Los debates públicos que no sean organizados por el Instituto, serán regulados de conformidad con el reglamento que al efecto éste expida, el cual, deberá atender a las siguientes bases:
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-a).- Que los debates se realicen bajo los principios de certeza, legalidad, independencia, imparcialidad y objetividad;
+Las señales radiodifundidas que el Instituto genere para este fin podrán ser utilizadas, en vivo y en forma gratuita, por los demás concesionarios de radio y televisión, así como por otros concesionarios de telecomunicaciones.
 
-b).- Que las bases, metodología y procedimientos aplicables para su realización y difusión estén apegados a los principios antes señalados;
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En el supuesto del párrafo anterior, los debates de los candidatos a Gobernador, deberán ser transmitidos por las estaciones de radio y televisión de las concesionarias locales de uso público.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Los medios de comunicación nacional y local, previa comunicación al Instituto, podrán organizar debates entre candidatos; serán regulados de conformidad con el reglamento que al efecto éste expida, el cual, deberá atender a las siguientes bases:
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+a).- Que los debates se realicen bajo los principios de certeza, legalidad, independencia, imparcialidad, equidad y objetividad;
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+b).- Que el formato, las bases, metodología, y procedimientos aplicables para su realización y difusión estén apegados a los principios antes señalados;
 
 c).- Que en el desarrollo y contenido de los debates, la ciudadanía conozca a los candidatos, sus planteamientos políticos y plataformas electorales;
 
-d).- Que bajo el principio de imparcialidad, sean invitados a los debates públicos todos los candidatos registrados a un cargo de elección popular y sean los autorizados de conformidad con lo que dispone el tercer párrafo del presente artículo;
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+d).- Que bajo el principio de imparcialidad, sean invitados a los debates públicos todos los candidatos registrados a un cargo de elección popular, sean los autorizados de conformidad con lo que dispone el tercer párrafo del presente artículo y participen por lo menos dos candidatos de la misma elección;
 
 e).- Que todo aquel debate público que no sea realizado por el Instituto, cumpla con las disposiciones señaladas en las anteriores bases.
 
 Los debates públicos que se celebren bajo las circunstancias de los incisos del párrafo que antecede, deberán estar sujetos a lo dispuesto por el Artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 145], P.O. 7 DE DICIEMBRE DE 2012)
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+La transmisión de los debates por los medios de comunicación será gratuita y se llevará a cabo sin alterar los contenidos. La no asistencia de uno o más de los candidatos invitados a estos debates no será causa para la no realización del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 177.
 
-Las personas físicas o morales que pretendan llevar a cabo encuestas para dar a conocer las preferencias electorales de los ciudadanos, adoptarán, por lo menos los criterios generales de carácter científico, que para tal efecto determine la Junta General del Instituto.
+Las personas físicas o morales que pretendan llevar a cabo encuestas para dar a conocer las preferencias electorales de los ciudadanos, adoptarán, por lo menos los criterios que al efecto establezca el Instituto conforme a las reglas, lineamientos y criterios establecidos por el INE.
 
-Quien solicite u ordene la publicación de cualquier encuesta o sondeo de opinión, encuestas de salida y/o conteos rápidos, deberá presentar solicitud ante el Consejo General del Instituto, a partir de su instalación y hasta un mes antes de la jornada electoral.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+QUIEN SOLICITE U ORDENE LA PUBLICACIÓN DE CUALQUIER ENCUESTA O SONDEO DE OPINIÓN, ENCUESTAS DE SALIDA Y/O CONTEOS RÁPIDOS, DEBERÁ PRESENTAR SU SOLICITUD DE CONFORMIDAD CON LAS REGLAS DICTADAS POR EL INSTITUTO.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-A dicha solicitud, deberá acompañar copia de la metodología y de los resultados, a efecto de que el Consejo General transmita copia de la misma a los representantes de los partidos políticos y candidatos independientes acreditados ante el Instituto. Si la encuesta o sondeo se difundiera por cualquier medio, quedará obligado a difundir la metodología empleada y el grado de confiabilidad.
+A DICHA SOLICITUD, DEBERÁ ACOMPAÑAR COPIA DE LA METODOLOGÍA Y DE LOS RESULTADOS, A EFECTO DE QUE EL CONSEJO GENERAL TRANSMITA COPIA DE LA MISMA A LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES ACREDITADOS ANTE EL INSTITUTO. SI LA ENCUESTA O SONDEO SE DIFUNDIERA POR CUALQUIER MEDIO, QUEDARÁ OBLIGADO A DIFUNDIR LA METODOLOGÍA EMPLEADA Y EL GRADO DE CONFIABILIDAD.
 
-Para efectos del presente artículo se entiende por encuesta o sondeo de opinión, el estudio que realicen las empresas y organizaciones registradas ante el Instituto, a fin de conocer la preferencia político-electoral de la ciudadanía.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Se entiende por encuestas de salida, la actividad que realicen las empresas y organizaciones autorizadas por el Consejo General del Instituto Electoral, para conocer la preferencia electoral de los ciudadanos que así deseen manifestarlo, después de que éstos han emitido su voto.
+PARA EFECTOS DEL PRESENTE ARTÍCULO SE ENTIENDE POR ENCUESTA O SONDEO DE OPINIÓN, EL ESTUDIO QUE REALICEN LAS EMPRESAS Y ORGANIZACIONES REGISTRADAS ANTE EL INSTITUTO, A FIN DE CONOCER LA PREFERENCIA POLÍTICO-ELECTORAL DE LA CIUDADANÍA.
 
-Se entiende por conteos rápidos, la actividad que realizan las empresas y organizaciones autorizadas por el Consejo General del Instituto Electoral, para conocer de manera parcial o total, la suma de los resultados electorales publicados en el exterior de las casillas. Dichos resultados no tendrán el carácter de oficiales.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-En todo caso, los realizadores de cualquier encuesta o sondeo de opinión, encuestas de salida y/o conteos rápidos, deberán cumplir con las especificaciones siguientes:
+SE ENTIENDE POR ENCUESTAS DE SALIDA, LA ACTIVIDAD QUE REALICEN LAS EMPRESAS Y ORGANIZACIONES AUTORIZADAS POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL, PARA CONOCER LA PREFERENCIA ELECTORAL DE LOS CIUDADANOS QUE ASÍ DESEEN MANIFESTARLO, DESPUÉS DE QUE ÉSTOS HAN EMITIDO SU VOTO.
 
-I. Denominación y domicilio del organismo o entidad, pública o privada, o de la persona física que haya realizado el sondeo, así como de la que haya solicitado su realización;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEXTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II. Características técnicas del sondeo, que incluyan necesariamente sistema de muestreo, tamaño de la muestra, margen de error de la misma, nivel de representatividad, procedimiento de selección de los encuestados y fecha de realización del trabajo de campo;
+SE ENTIENDE POR CONTEOS RÁPIDOS, LA ACTIVIDAD QUE REALIZAN LAS EMPRESAS Y ORGANIZACIONES AUTORIZADAS POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL, PARA CONOCER DE MANERA PARCIAL O TOTAL, LA SUMA DE LOS RESULTADOS ELECTORALES PUBLICADOS EN EL EXTERIOR DE LAS CASILLAS. DICHOS RESULTADOS NO TENDRÁN EL CARÁCTER DE OFICIALES.
 
-III. Texto íntegro de las cuestiones planteadas y número de personas que no han contestado a cada una de ellas, y
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IV. La encuesta no deberá recogerse en documentos que reproduzcan los emblemas y colores de los partidos políticos, ni en papeletas que tengan similitud con las boletas electorales.
+EN TODO CASO, LOS REALIZADORES DE CUALQUIER ENCUESTA O SONDEO DE OPINIÓN, ENCUESTAS DE SALIDA Y/O CONTEOS RÁPIDOS, DEBERÁN CUMPLIR CON LAS ESPECIFICACIONES SIGUIENTES:
 
-Quien ordene la publicación o difusión de cualquier encuesta o sondeo de opinión, deberá entregar a la Junta General del Instituto, dentro de los tres días previos, un ejemplar del estudio completo realizado.
+I. DENOMINACIÓN Y DOMICILIO DEL ORGANISMO O ENTIDAD, PÚBLICA O PRIVADA, O DE LA PERSONA FÍSICA QUE HAYA REALIZADO EL SONDEO, ASÍ COMO DE LA QUE HAYA SOLICITADO SU REALIZACIÓN;
 
-Los medios informativos que hayan publicado o difundido un sondeo o encuesta, violando las disposiciones de la ley, sin menoscabo de las sanciones civiles o penales a que haya lugar, están obligados a publicar y difundir en el plazo de tres días las rectificaciones requeridas por la Junta General del Instituto, anunciando su procedencia y el motivo de su rectificación.
+II. CARACTERÍSTICAS TÉCNICAS DEL SONDEO, QUE INCLUYAN NECESARIAMENTE SISTEMA DE MUESTREO, TAMAÑO DE LA MUESTRA, MARGEN DE ERROR DE LA MISMA, NIVEL DE REPRESENTATIVIDAD, PROCEDIMIENTO DE SELECCIÓN DE LOS ENCUESTADOS Y FECHA DE REALIZACIÓN DEL TRABAJO DE CAMPO;
 
-Las encuestas sólo representarán la opinión de quien o quiénes las realizan, careciendo de valor oficial. Quien ejecute estos trabajos no deberá interferir con las labores normales del proceso electoral.
+III. TEXTO ÍNTEGRO DE LAS CUESTIONES PLANTEADAS Y NÚMERO DE PERSONAS QUE NO HAN CONTESTADO A CADA UNA DE ELLAS, Y
 
-El día de la jornada electoral sólo podrán realizar encuestas de salida las empresas u organizaciones que hayan sido autorizadas por el Consejo General del Instituto, las cuales deberán cumplir con la normatividad que para ello se establezca.
+IV. LA ENCUESTA NO DEBERÁ RECOGERSE EN DOCUMENTOS QUE REPRODUZCAN LOS EMBLEMAS Y COLORES DE LOS PARTIDOS POLÍTICOS, NI EN PAPELETAS QUE TENGAN SIMILITUD CON LAS BOLETAS ELECTORALES.
 
-Para garantizar el cumplimiento de estos ordenamientos, el Consejo General solicitará el auxilio de las autoridades competentes. Su incumplimiento será sancionado en los términos que establezca la ley electoral.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO OCTAVO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 146], P.O. 7 DE DICIEMBRE DE 2012)</small>
+QUIEN ORDENE LA PUBLICACIÓN O DIFUSIÓN DE CUALQUIER ENCUESTA O SONDEO DE OPINIÓN, DEBERÁ ENTREGAR A LA JUNTA GENERAL DEL INSTITUTO, DENTRO DE LOS TRES DÍAS PREVIOS, UN EJEMPLAR DEL ESTUDIO COMPLETO REALIZADO.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO NOVENO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+LOS MEDIOS INFORMATIVOS QUE HAYAN PUBLICADO O DIFUNDIDO UN SONDEO O ENCUESTA, VIOLANDO LAS DISPOSICIONES DE LA LEY, SIN MENOSCABO DE LAS SANCIONES CIVILES O PENALES A QUE HAYA LUGAR, ESTÁN OBLIGADOS A PUBLICAR Y DIFUNDIR EN EL PLAZO DE TRES DÍAS LAS RECTIFICACIONES REQUERIDAS POR LA JUNTA GENERAL DEL INSTITUTO, ANUNCIANDO SU PROCEDENCIA Y EL MOTIVO DE SU RECTIFICACIÓN.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO DÉCIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+LAS ENCUESTAS SÓLO REPRESENTARÁN LA OPINIÓN DE QUIEN O QUIÉNES LAS REALIZAN, CARECIENDO DE VALOR OFICIAL. QUIEN EJECUTE ESTOS TRABAJOS NO DEBERÁ INTERFERIR CON LAS LABORES NORMALES DEL PROCESO ELECTORAL.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO DÉCIMO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EL DÍA DE LA JORNADA ELECTORAL SÓLO PODRÁN REALIZAR ENCUESTAS DE SALIDA LAS EMPRESAS U ORGANIZACIONES QUE HAYAN SIDO AUTORIZADAS POR EL CONSEJO GENERAL DEL INSTITUTO, LAS CUALES DEBERÁN CUMPLIR CON LA NORMATIVIDAD QUE PARA ELLO SE ESTABLEZCA.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO DÉCIMO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+PARA GARANTIZAR EL CUMPLIMIENTO DE ESTOS ORDENAMIENTOS, EL CONSEJO GENERAL SOLICITARÁ EL AUXILIO DE LAS AUTORIDADES COMPETENTES. SU INCUMPLIMIENTO SERÁ SANCIONADO EN LOS TÉRMINOS QUE ESTABLEZCA LA LEY ELECTORAL.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 178.
 
-Las encuestas o sondeos de opinión, podrán realizarse a partir del inicio de las campañas políticas. Durante los ocho días naturales previos al de la jornada electoral y hasta cuatro horas después del cierre oficial de las casillas, queda prohibido publicar o difundir por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
+Las encuestas o sondeos de opinión, podrán realizarse a partir del inicio de las campañas políticas. Durante los tres días naturales previos al de la jornada electoral y hasta cuatro horas después del cierre oficial de las casillas, queda prohibido publicar, difundir o dar a conocer por cualquier medio, los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer las preferencias electorales de los ciudadanos.
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 147], P.O. 7 DE DICIEMBRE DE 2012)
+Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Instituto Electoral de Quintana Roo un informe sobre los recursos aplicados en su realización en los términos que disponga dicha autoridad.
+
+La metodología, costos, personas responsables y resultados de las encuestas o sondeos serán difundidas en la página de internet del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 179.
 
-El tope de gastos de campaña, que determinará el Consejo General para cada Partido Político, Coalición y candidato independiente, será la cantidad que resulte de multiplicar al menos el cincuenta y cinco por ciento del salario mínimo general vigente en el Estado, por el número de ciudadanos inscritos en el padrón electoral del Estado, Distrito o Municipio de que se trate, con corte al mes de enero del año de la elección.
+El tope de gastos de campaña, que determinará el Consejo General para cada Partido Político, Coalición y candidato independiente será la cantidad que resulte de multiplicar por uno punto cinco el monto otorgado para gastos de campaña al partido político con mayor financiamiento público dividido entre el número de elecciones de que se trate y el total de las candidaturas que correspondan a cada una de ellas.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 Los gastos que realicen los partidos políticos, las coaliciones y los candidatos independientes en actividades de campaña, no podrán rebasar ese tope en cada una de las elecciones de Gobernador, diputados y miembros de los ayuntamientos, respectivamente.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 Los gastos que realicen los partidos políticos para el sostenimiento de sus órganos directivos y sus organizaciones, no serán contabilizados para los efectos de la determinación de los topes de campaña.
 
@@ -2275,35 +2875,41 @@ III. Gastos de propaganda en prensa e internet, que comprendan los realizados en
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO SEGUNDO. INSTALACIÓN Y APERTURA DE CASILLAS
+### CAPÍTULO TERCERO. DETERMINACIÓN Y UBICACIÓN DE CASILLAS
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 179], P.O. 7 DE DICIEMBRE DE 2012)
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 181.
 
-En toda sección electoral, para recibir la votación de los ciudadanos residentes en la misma, se instalará una casilla por cada setecientos cincuenta electores o fracción; la primera tendrá el carácter de básica y las siguientes el carácter de contiguas, para lo cual se dividirá la lista nominal de electores en orden alfabético.
+Para la determinación de la ubicación de las casillas, el Instituto convendrá lo conducente con el INE, en términos de la legislación y demás ordenamientos aplicables.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 150], P.O. 7 DE DICIEMBRE DE 2012)
+Esta disposición no aplicará con relación a la integración y ubicación de casillas especiales que determine el Consejo General del Instituto para las elecciones locales ordinarias concurrentes y extraordinarias, las cuales se integrarán y ubicarán con base en los criterios que determine dicho órgano colegiado, quien además determinará el número de boletas a utilizarse en dichas casillas, todo esto con base en los convenios que celebre con el INE.
+
+El Instituto deberá comunicar de inmediato, a los partidos políticos y coaliciones contendientes, las ubicaciones determinadas para las Casillas.
+
+El Instituto dará amplia difusión a los listados definitivos sobre la ubicación de las casillas, debiendo prever además su publicación, dentro de los diez días anteriores y en la fecha de la elección, en el Periódico Oficial del Estado de Quintana Roo y al menos, en tres de los periódicos de los de mayor circulación en la entidad.
+
+En la elección local concurrente con la federal, la integración, ubicación y designación de integrantes de las mesas directivas de casilla a instalar para la recepción de la votación, se realizará con base en las disposiciones de la Ley General de Instituciones y Procedimientos Electorales.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 182.
 
-Cuando el crecimiento demográfico y la situación geográfica de las secciones lo exijan, se observará lo siguiente:
+Las modificaciones a la ubicación de casillas por haber procedido la impugnación será comunicada a los partidos políticos contendientes, durante las veinticuatro horas siguientes, a través de los funcionarios electorales del Instituto y del Consejo Distrital o Municipal Electoral que corresponda.
 
-I. Cuando el número de ciudadanos inscritos en la lista nominal de electores correspondientes a una sección, sea superior a mil quinientos electores, se instalará en un mismo sitio o local, tantas casillas como resulte de dividir alfabéticamente el número de ciudadanos inscritos en la lista, entre setecientos cincuenta;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-II. No habiendo local que permita la instalación en un mismo sitio de las casillas necesarias, se ubicarán éstas en lugares diversos, atendiendo a la concentración y distribución de los electores en la sección;
-
-III. Cuando las condiciones geográficas de una sección dificulten el acceso de los electores residentes en ella a un mismo sitio, el Consejo General podrá acordar la instalación de una o varias casillas extraordinarias en lugares que ofrezcan un fácil acceso a los electores. La lista nominal de estas casillas se ordenará conforme a los criterios que determine el Consejo General; y
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-IV. Podrán instalarse las casillas especiales de acuerdo a lo dispuesto en el artículo 189 de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 151], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 183.
 
-En el mes de abril del año de la elección, el Consejo General previo estudio que realice la Junta General, aprobará la propuesta del número y tipo de casillas que se instalarán en el proceso electoral respectivo. La propuesta observará lo dispuesto en el artículo anterior.
+En el mes de marzo del año de la elección, el Consejo General previo estudio que realice la Junta General, aprobará la propuesta del número y tipo de casillas especiales que se instalarán en el proceso electoral respectivo.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 152], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2323,27 +2929,37 @@ V. No ser locales en los que se expendan bebidas embriagantes.
 
 Para la ubicación de las casillas se dará preferencia a los edificios y escuelas públicas, cuando reúnan los requisitos indicados. Ninguna casilla se situará en la misma cuadra o manzana en la que esté ubicado el domicilio de algún local de cualquiera de los partidos políticos.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 153], P.O. 7 DE DICIEMBRE DE 2012)
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 185.
 
-El procedimiento para determinar la ubicación de las casillas será el siguiente:
+EL PROCEDIMIENTO PARA DETERMINAR LA UBICACIÓN DE LAS CASILLAS ESPECIALES SERÁ EL SIGUIENTE:
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-I. Durante la primera quincena de mayo del año de la elección, los presidentes de los Consejos Distritales, presentarán al Consejo Distrital una lista proponiendo los lugares en que habrán de ubicarse las casillas, tomando en consideración la propuesta del número y tipo de casillas que realice el Consejo General en términos del artículo 183 de esta Ley; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-II. Una vez hecha la propuesta, los consejos distritales iniciarán de inmediato la revisión de los lugares propuestos para la ubicación de las casillas con el propósito de verificar que cumplan con los requisitos legales.
+I. DURANTE LA PRIMERA QUINCENA DE ABRIL DEL AÑO DE LA ELECCIÓN, LOS PRESIDENTES DE LOS CONSEJOS DISTRITALES, PRESENTARÁN AL CONSEJO DISTRITAL UNA LISTA PROPONIENDO LOS LUGARES EN QUE HABRÁN DE UBICARSE LAS CASILLAS, TOMANDO EN CONSIDERACIÓN LA PROPUESTA DEL NÚMERO Y TIPO DE CASILLAS QUE REALICE EL CONSEJO GENERAL EN TÉRMINOS DEL ARTÍCULO 183 DE ESTA LEY, Y
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Los Consejos Distritales en sesión que celebren a más tardar en la primera semana de junio del año de la elección, aprobarán la relación que contenga los lugares de ubicación de casillas.
+II. UNA VEZ HECHA LA PROPUESTA, LOS CONSEJOS DISTRITALES INICIARÁN DE INMEDIATO LA REVISIÓN DE LOS LUGARES PROPUESTOS PARA LA UBICACIÓN DE LAS CASILLAS CON EL PROPÓSITO DE VERIFICAR QUE CUMPLAN CON LOS REQUISITOS LEGALES.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2005) (REUBICADO [N. DE E. ANTES ARTÍCULO 154], P.O. 7 DE DICIEMBRE DE 2012)
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+LOS CONSEJOS DISTRITALES EN SESIÓN QUE CELEBREN A MÁS TARDAR EN LA PRIMERA SEMANA DE MAYO DEL AÑO DE LA ELECCIÓN, APROBARÁN LA RELACIÓN QUE CONTENGA LOS LUGARES DE UBICACIÓN DE CASILLAS.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 186.
 
-Los consejos distritales, publicarán en cada Municipio y Distrito, numeradas progresivamente, el número de casillas electorales que se instalarán, así como su ubicación y el nombre de sus funcionarios.
+LOS CONSEJOS DISTRITALES, PUBLICARÁN EN CADA MUNICIPIO Y DISTRITO, NUMERADAS PROGRESIVAMENTE, EL NÚMERO DE CASILLAS ESPECIALES QUE SE INSTALARÁN, ASÍ COMO SU UBICACIÓN Y EL NOMBRE DE SUS FUNCIONARIOS.
 
 La publicación se hará fijando las listas de ubicación de las casillas y los nombres de los integrantes de sus mesas directivas en las oficinas del Consejo respectivo y en los edificios y lugares públicos más concurridos del Municipio o del Distrito.
 
@@ -2351,9 +2967,11 @@ La publicación se hará fijando las listas de ubicación de las casillas y los 
 
 El Secretario del Consejo respectivo entregará una copia de las listas a cada uno de los representantes de los partidos políticos y candidatos independientes, haciéndolo constar en el acta correspondiente.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Los partidos políticos y los candidatos independientes dentro de los cinco días siguientes a la publicación referida, podrán presentar por escrito sus objeciones, debidamente fundadas y motivadas, ante el Consejo correspondiente. Las objeciones deberán referirse al lugar señalado para la ubicación de las casillas o a los nombramientos de los funcionarios de las mesas directivas de casilla.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+LOS PARTIDOS POLÍTICOS Y LOS CANDIDATOS INDEPENDIENTES DENTRO DE LOS CINCO DÍAS SIGUIENTES A LA PUBLICACIÓN REFERIDA, PODRÁN PRESENTAR POR ESCRITO SUS OBJECIONES, DEBIDAMENTE FUNDADAS Y MOTIVADAS, ANTE EL CONSEJO CORRESPONDIENTE. LAS OBJECIONES DEBERÁN REFERIRSE AL LUGAR SEÑALADO PARA LA UBICACIÓN DE LAS CASILLAS ESPECIALES O A LOS NOMBRAMIENTOS DE LOS FUNCIONARIOS DE LAS MESAS DIRECTIVAS DE CASILLA.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 155], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2363,13 +2981,11 @@ Los consejos distritales resolverán acerca de las objeciones a que hace referen
 
 Cinco días antes del día de la Jornada Electoral, los consejos distritales harán la segunda publicación de las listas señaladas en el artículo anterior, incluyendo las modificaciones que hubieren procedido.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 156], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 188.
 
-Si después de la publicación a que hace referencia el artículo anterior, ocurrieran causas supervinientes, los consejos correspondientes podrán hacer los cambios que se requieran, los cuales serán publicados. Tratándose de cambios en la ubicación de las casillas, los consejos respectivos mandarán fijar avisos en los lugares excluidos, indicando la nueva ubicación.
-
-A más tardar el día anterior y el día de la jornada electoral, el Instituto ordenará la publicación en los medios de comunicación impresos de mayor circulación en la entidad, la relación definitiva de los lugares señalados para la ubicación de casillas y el nombre de sus funcionarios.
+A más tardar el día anterior y el día de la jornada electoral, el Instituto ordenará la publicación en los medios de comunicación impresos de mayor circulación en la entidad, la relación definitiva de los lugares señalados para la ubicación de casillas especiales y el nombre de sus funcionarios.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 157], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2377,23 +2993,25 @@ A más tardar el día anterior y el día de la jornada electoral, el Instituto o
 
 El Consejo General, a propuesta de su Presidente, determinará la instalación de casillas especiales para la recepción del voto de los electores que se encuentren en tránsito, de acuerdo a lo dispuesto en esta Ley, sin que puedan ser más de tres en el mismo municipio.
 
-Para la integración y ubicación de las mesas directivas de casillas especiales, se aplicará lo dispuesto en la presente Ley.
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 158], P.O. 7 DE DICIEMBRE DE 2012)</small>
+PARA LA INTEGRACIÓN Y UBICACIÓN DE LAS MESAS DIRECTIVAS DE CASILLAS ESPECIALES, SE APLICARÁ LO DISPUESTO EN LA PRESENTE LEY.
 
 ###### Artículo 190.
 
-Para facilitar el ejercicio del derecho al sufragio, el Consejo General podrá acordar el establecimiento de centros de votación, por lo que se reunirán en un solo lugar las casillas correspondientes a dos o más secciones.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 159], P.O. 7 DE DICIEMBRE DE 2012)
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 191.
 
-Dentro de la etapa de preparación de las elecciones, el Instituto procederá a la integración de las mesas directivas de casilla, a la capacitación de los funcionarios de las mismas y a la acreditación de los representantes de los partidos políticos y candidatos independientes, en los términos que disponga la Ley.
+DENTRO DE LA ETAPA DE PREPARACIÓN DE LAS ELECCIONES, EL INSTITUTO AUXILIARÁ EN LA RESPONSABILIDAD DE LLEVAR A CABO LA CAPACITACIÓN DE LOS FUNCIONARIOS QUE INTEGRARÁN LAS MESAS DIRECTIVAS DE CASILLAS DE CONFORMIDAD CON LOS PROGRAMAS APROBADOS POR EL INE Y A LA ACREDITACIÓN DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES, EN LOS TÉRMINOS QUE DISPONGA LA LEY Y TRATÁNDOSE DE ELECCIÓN CONCURRENTE CON LA ELECCIÓN FEDERAL, EN LOS TÉRMINOS PREVISTOS EN LA LEY DE INSTITUCIONES.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-A partir del registro de candidatos y hasta trece días previos a la Jornada Electoral, los Partidos Políticos, Coaliciones o candidatos independientes podrán solicitar a los Consejos Distritales la acreditación de sus representantes ante las Mesas Directivas de Casilla; Se podrá sustituir a los mismos hasta ocho días antes de la elección.
+En aquellas elecciones que no sean concurrentes con la federal, a partir del registro de candidatos y hasta trece días previos a la jornada electoral, los Partidos Políticos o candidatos independientes podrán solicitar a los Consejos Distritales la acreditación de sus representantes ante las Mesas Directivas de Casilla; se podrá sustituir a los mismos hasta ocho días antes de la elección.
 
 La solicitud de acreditación lo hará el funcionario partidista facultado estatutariamente o el representante acreditado ante el Consejo Distrital. En el caso de las coaliciones lo hará el representante legal de la misma.
 
@@ -2493,9 +3111,9 @@ H. Podrán comprobar la presencia de los representantes de su Partido Político,
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO TERCERO. DE LA VOTACIÓN
+### CAPÍTULO CUARTO. DOCUMENTACIÓN Y MATERIAL ELECTORAL
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 189], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 160], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 192.
 
@@ -2525,11 +3143,19 @@ I. Distrito o municipio, sección electoral y fecha de la elección;
 
 II. Cargo para el que se postula al candidato o candidatos;
 
-III. El color o combinación de colores y emblema que cada partido político, coalición o candidato independiente tenga registrado, en el orden que le corresponda de acuerdo a la antigüedad de su registro como partido. En el caso de una coalición se tomará como base el registro del partido más antiguo que la integre;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-IV. En el caso de coaliciones, el emblema será de las mismas dimensiones que el de los partidos políticos no coaligados;
+III. El color o combinación de colores y emblema que cada partido político registrado o candidato independiente en el orden que le corresponda de acuerdo a la antigüedad de su registro como partido;
 
-V. Nombre y apellidos del candidato o los candidatos respectivos;
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. EN EL CASO DE COALICIONES, LOS EMBLEMAS DE LOS PARTIDOS POLÍTICOS COALIGADOS Y LOS NOMBRES DE LOS CANDIDATOS APARECERÁN CON EL MISMO TAMAÑO Y EN UN ESPACIO DE LAS MISMAS DIMENSIONES QUE AQUÉLLOS QUE SE DESTINEN EN LA BOLETA A LOS PARTIDOS QUE PARTICIPAN POR SÍ MISMOS. EN NINGÚN CASO PODRÁN APARECER EMBLEMAS CONJUNTOS DE LOS PARTIDOS COALIGADOS EN UN MISMO RECUADRO, NI UTILIZAR EMBLEMAS DISTINTOS PARA LA COALICIÓN;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+V. Nombre y apellidos del candidato o los candidatos respectivos, y en su caso, su alias o sobrenombre, cuando así lo solicite;
 
 VI. En el caso de la elección de miembros de los ayuntamientos, un solo espacio para la planilla de propietarios y suplentes;
 
@@ -2537,9 +3163,17 @@ VII. Para la elección de diputados por el principio de mayoría relativa y para
 
 VIII. En el caso de la elección de Gobernador, un solo espacio para cada candidato;
 
-IX. Los colores que distingan las boletas para cada una de las elecciones; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-X. Sello y firmas impresas del Consejero Presidente y del Secretario del Consejo General.
+IX. Los colores que distingan las boletas para cada una de las elecciones;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+X. Sello y firmas impresas del Consejero Presidente y del Secretario del Consejo General, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+XI. El logotipo de todos los partidos políticos que hayan registrado candidatos aun cuando éstos hayan renunciado, y que participen en cuando menos una elección durante el mismo proceso electoral.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 162], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2571,11 +3205,11 @@ Las actas en las que se asiente lo relativo a la instalación, cierre de votaci�
 
 Dentro de los tres días previos a la elección de que se trate, deberá fijarse en el local en que se instalará la casilla electoral, un cartel con la lista de candidatos que participarán en la elección.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 167], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 199.
 
-A mas tardar cinco días antes de la jornada electoral, estarán en poder de los consejos distritales, la documentación, formas aprobadas, útiles y demás elementos necesarios para el cumplimiento de las funciones de las mesas directivas de casilla.
+Tratándose de la elección concurrente con la federal, el Consejo General deberá acordar con el Instituto Nacional, el tiempo de entrega de boletas correspondientes a elecciones locales, que permita hacer la distribución correspondientes (sic) a los Consejos Municipales. A más tardar cinco días antes de la jornada electoral, estarán en poder de los Consejos Municipales, la documentación, formas aprobadas, útiles y demás elementos necesarios para el cumplimiento de las funciones de las mesas directivas de casilla.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 168], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2607,13 +3241,19 @@ A los Presidentes de las Mesas Directivas de las Casillas Especiales, les será 
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO CUARTO. ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 201], P.O. 7 DE DICIEMBRE DE 2012)
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 201.
 
-El Presidente y el Secretario de cada Mesa Directiva de Casilla cuidarán las condiciones materiales del local en que ésta haya de instalarse para facilitar la vocación, garantizar la libertad y el secreto del voto. En el local de la casilla y en su exterior no deberá haber propaganda de partido político, coalición o candidato alguno.
+LAS DISPOSICIONES DE ESTE TÍTULO SERÁN APLICABLES A LAS ELECCIONES QUE NO SEAN CONCURRENTES CON LA FEDERAL, EN TODO AQUELLO QUE NO CONTRAVENGA LA LEY DE INSTITUCIONES.
+
+Tratándose de la elección concurrente con la federal, la instalación y apertura de casillas, el procedimiento de votación, el de escrutinio y cómputo, de clausura y remisión del expediente electoral, se procederá de conformidad con lo dispuesto por el Título Tercero del Libro Quinto de la Ley de Instituciones.
+
+El Presidente y el Secretario de cada Mesa Directiva de Casilla cuidarán las condiciones materiales del local en que ésta haya de instalarse para facilitar la votación, garantizar la libertad y el secreto del voto. En el local de la casilla y en su exterior no deberá haber propaganda de partido político, coalición o candidato alguno.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 170], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2689,9 +3329,9 @@ Para estos efectos, la Dirección General de Notarías del Gobierno del Estado p
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO QUINTO. CLAUSURA DE CASILLAS Y REMISIÓN DE EXPEDIENTES
+### CAPÍTULO SEGUNDO. INSTALACIÓN Y APERTURA DE CASILLAS
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 214], P.O. 7 DE DICIEMBRE DE 2012)</small>
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 179], P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 211.
 
@@ -2813,9 +3453,9 @@ Los funcionarios y representantes de los partidos políticos y coaliciones deber
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
+### CAPÍTULO TERCERO. DE LA VOTACIÓN
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009) (REUBICADO, [N. DE E. ANTES ARTÍCULO 220], P.O. 7 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 189], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 221.
 
@@ -2957,9 +3597,9 @@ En todo caso, el apartado correspondiente al cierre de votación contendrá la h
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO SEGUNDO. INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
+### CAPÍTULO CUARTO. ESCRUTINIO Y CÓMPUTO EN LAS CASILLAS
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009) (REUBICADO, [N. DE E. ANTES ARTÍCULO 223], P.O. 7 DE DICIEMBRE DE 2012)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 201], P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 233.
 
@@ -3042,6 +3682,10 @@ B. El elector haya marcado en su totalidad la boleta electoral y que no se pueda
 C. Las boletas extraídas de la urna no tengan marca.
 
 D. El elector haya marcado en el espacio correspondiente a los candidatos no registrados.
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Los votos emitidos a favor de candidatos no registrados se asentarán en el acta por separado.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 206], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -3133,9 +3777,9 @@ Cumplidas las acciones a que se refiere el artículo anterior, los Presidentes d
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES
+### CAPÍTULO QUINTO. CLAUSURA DE CASILLAS Y REMISIÓN DE EXPEDIENTES
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 225], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 214], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 246.
 
@@ -3187,9 +3831,9 @@ Los paquetes electorales podrán ser entregados al Consejo Municipal y al Distri
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO CUARTO. DE LOS CÓMPUTOS MUNICIPALES
+### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 231], P.O. 7 DE DICIEMBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009) (REUBICADO, [N. DE E. ANTES ARTÍCULO 220], P.O. 7 DE DICIEMBRE DE 2012)
 
 ###### Artículo 252.
 
@@ -3231,25 +3875,13 @@ III. Votación efectiva: la que resulte de restar a la votación válida emitida
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO QUINTO. DEL CÓMPUTO Y DE LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
+### CAPÍTULO SEGUNDO. INFORMACIÓN PRELIMINAR DE LOS RESULTADOS
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 237], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 255.
 
-Los Consejos Municipales y los Distritales, harán la suma de los resultados del escrutinio y cómputo de las casillas, conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes electorales, conforme a las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-I. El Consejo correspondiente autorizará al personal necesario para la recepción continua y simultánea de los paquetes electorales. Los partidos políticos, coaliciones y candidatos independientes podrán acreditar representantes para que estén presentes durante dicha recepción;
-
-II. Los servidores electorales designados, recibirán las actas de la jornada electoral y de inmediato darán lectura en voz alta del resultado de las votaciones que aparezcan en el apartado de escrutinio y cómputo correspondientes, y procederán a realizar la suma de los resultados para informar inmediatamente a la Junta General del Instituto;
-
-III. El Secretario o el servidor electoral autorizado para ello, anotará la suma de los resultados en el lugar que les correspondan en la forma destinada al efecto, conforme al orden numérico de las casillas; y
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-IV. Los representantes de los partidos políticos, coaliciones y candidatos independientes acreditados ante el Consejo, contarán con los formatos adecuados para anotar los resultados de la votación en las casillas.
+Los Consejos Municipales y los Distritales, harán la suma de los resultados del escrutinio y cómputo de las casillas, conforme éstas se vayan recibiendo y hasta el vencimiento del plazo legal para la entrega de los paquetes electorales, conforme a las reglas, lineamientos y criterios en materia de resultados preliminares que al efecto dicte el INE.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 224], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -3259,9 +3891,9 @@ Concluido el procedimiento a que se refiere este Capítulo, el Presidente fijar�
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO SEXTO. DE LA ASIGNACIÓN DE MIEMBROS DE AYUNTAMIENTOS DE REPRESENTACIÓN PROPORCIONAL
+### CAPÍTULO TERCERO. DE LOS CÓMPUTOS DISTRITALES
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 242], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 225], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 257.
 
@@ -3289,6 +3921,10 @@ VI. El cómputo distrital de la elección para la asignación de diputados por e
 
 VII. Levantará el acta de cómputo distrital haciendo constar en ella las operaciones realizadas los resultados del cómputo y las objeciones o protestas que se hayan presentado y el resultado de la elección. Se entregará a cada uno de los integrantes del Consejo copia del acta circunstanciada;
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En su caso; se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación.
+
 VIII. Realizará la declaración de validez y la entrega de la constancia de mayoria a la fórmula de candidatos a diputados que hayan obtenido la mayoría de votos en la elección, verificando en cada caso que cumplan con los requisitos de elegibilidad previstos en la Constitución Particular y en esta Ley; y
 
 IX. Fijará en el exterior de su local, al término de la sesión, los resultados de la elección de que se trate, con lo cual se dará por concluida la sesión.
@@ -3307,9 +3943,13 @@ III. Todos los votos hayan sido depositados a favor de un mismo partido o candid
 
 Cuando exista indicio de que la diferencia entre el candidato presunto ganador de la elección en el distrito y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido, coalición o candidato independiente que postuló al segundo de los candidatos antes señalados, el Consejo Distrital deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados por partido consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el distrito.
 
-Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igualo menor a un punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el Consejo distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto del recuento.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Conforme a lo establecido en los dos párrafos in mediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Distrital dará aviso inmediato al Secretario General del Instituto; ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los Partidos, coaliciones y candidatos independientes, que presidirán los primeros. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos y candidatos independientes tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa, el consejo distrital deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto del recuento.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Conforme a lo establecido en los dos párrafos inmediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Distrital dispondrá lo necesario para que sea realizado sin obstaculizar el escrutinio y cómputo de las demás elecciones y concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Distrital dará aviso inmediato al Secretario General del Instituto; ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los Partidos, coaliciones y candidatos independientes, que presidirán los primeros. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los partidos políticos y candidatos independientes tendrán derecho a nombrar a un representante en cada punto de recuento, con su respectivo suplente.
 
 Si durante el recuento de votos se encuentran en el paquete votos de una elección distinta, se contabilizarán para la elección de que se trate.
 
@@ -3369,9 +4009,9 @@ II. Enviar copia certificada del expediente formado en términos de la fracción
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO SÉPTIMO. DEL CÓMPUTO Y CALIFICACIÓN DE LA ELECCIÓN DE GOBERNADOR
+### CAPÍTULO CUARTO. DE LOS CÓMPUTOS MUNICIPALES
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 250], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 231], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 263.
 
@@ -3395,6 +4035,10 @@ IV. Abrirá los paquetes electorales que tengan muestras de alteración. Si el a
 
 V. Formulará el acta de cómputo municipal, haciendo constar en ellas las operaciones practicadas, las objeciones o protestas que se hayan presentado y el resultado de la elección. Se entregará a cada uno de los integrantes del Consejo una copia del acta;
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En su caso; se sumarán los votos que hayan sido emitidos a favor de dos o más partidos coaligados y que por esa causa hayan sido consignados por separado en el apartado correspondiente del acta de escrutinio y cómputo de casilla. La suma distrital de tales votos se distribuirá igualitariamente entre los partidos que integran la coalición; de existir fracción, los votos correspondientes se asignarán a los partidos de más alta votación;
+
 VI. Realizará la declaración de validez y la entrega de la constancia de mayoría a la planilla de candidatos a miembros del ayuntamiento que haya obtenido la mayoría de votos en la elección, verificando en cada caso que los candidatos cumplen con los requisitos de elegibilidad previstos en la Constitución Particular y en esta Ley; y
 
 VII. Fijará en el exterior de su local los resultados de la elección, con lo cual se dará por concluida la sesión.
@@ -3417,11 +4061,13 @@ III. Todos los votos hayan sido depositados a favor de un mismo partido o planil
 
 Cuando exista indicio de que la diferencia entre la planilla presuntamente ganadora de la elección en el Municipio y la que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual, y al inicio de la sesión exista petición expresa del representante del partido, coalición que postuló al segundo de los candidatos antes señalados, o del representante acreditado por la planilla de candidatos independientes que se encuentre en tal supuesto, el Consejo Municipal deberá realizar el recuento de votos en la totalidad de las casillas. Para estos efectos se considerará indicio suficiente la presentación ante el Consejo de la sumatoria de resultados consignados en la copia de las actas de escrutinio y cómputo de casilla de todo el Municipio.
 
-Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa a que se refiere el párrafo anterior, el Consejo Municipal deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+Si al término del cómputo se establece que la diferencia entre el candidato presuntamente ganador y el ubicado en segundo lugar es igual o menor a un punto porcentual, y existe la petición expresa, el Consejo Municipal deberá proceder a realizar el recuento de votos en la totalidad de las casillas. En todo caso, se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
 
-Conforme a lo establecido en los dos párrafos inmediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Municipal dispondrá lo necesario para que sea realizado y que concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Municipal o distrital dará aviso inmediato al Secretario General del Instituto; ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los Partidos, Coaliciones y candidatos independientes, que presidirán los primeros. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los Partidos Políticos y candidatos independientes tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Conforme a lo establecido en los dos párrafos inmediatos anteriores, para realizar el recuento total de votos respecto de una elección determinada, el Consejo Municipal dispondrá lo necesario para que sea realizado y que concluya antes del domingo siguiente al de la jornada electoral. Para tales efectos, el Presidente del Consejo Municipal o distrital dará aviso inmediato al Secretario General del Instituto; ordenará la creación de grupos de trabajo integrados por los Consejeros Electorales y los Representantes de los Partidos, Coaliciones y candidatos independientes, que presidirán los primeros. Los grupos realizarán su tarea en forma simultánea dividiendo entre ellos en forma proporcional los paquetes que cada uno tendrá bajo su responsabilidad. Los Partidos Políticos y candidatos independientes tendrán derecho a nombrar a un representante en cada punto de recuento, con su respectivo suplente.
 
 El Consejero Electoral que presida cada grupo levantará un acta circunstanciada en la que consignará el resultado del recuento de cada casilla y el resultado final que arroje la suma de votos por cada planilla.
 
@@ -3465,9 +4111,9 @@ II. Enviar copia certificada del expediente formado en términos de la fracción
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO OCTAVO. DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO QUINTO. DEL CÓMPUTO Y DE LA ASIGNACIÓN DE DIPUTADOS DE REPRESENTACIÓN PROPORCIONAL
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 253], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 237], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 269.
 
@@ -3503,9 +4149,9 @@ V. Se harán constar, en acta circunstanciada de la sesión, los resultados del 
 
 Para la asignación de Diputados electos por el principio de representación proporcional, se determinará cuáles partidos están en los casos del Artículo 54 de la Constitución Política del Estado, y se procederá conforme a las siguientes bases:
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-I. A todos los partidos políticos que han obtenido por lo menos el dos por ciento del total de la votación estatal emitida, se le asignará una diputación; y
+I. A todos los partidos políticos que han obtenido por lo menos el tres por ciento del total de la votación válida emitida en el territorio del Estado, se le asignará una diputación; y
 
 II. La fórmula para asignar las diputaciones de representación proporcional restantes, en su caso tiene dos elementos:
 
@@ -3523,7 +4169,9 @@ Por votación efectiva se entenderá la que resulte de deducir de la votación e
 
 Si después de aplicar el cociente electoral, aún quedaren diputaciones por distribuir, se utilizarán en forma decreciente los restos mayores, que son los remanentes de votos que tuvieron los partidos políticos una vez restados los utilizados en las asignaciones anteriores.
 
-Ningún Partido Político podrá tener más de quince diputados por ambos principios. En ningún caso, un Partido Político podrá contar con un número de diputados por ambos principios, que representen un porcentaje del total del Congreso que exceda en dieciséis puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al Partido Político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el dieciséis por ciento.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Ningún partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
 Los diputados electos según el principio de representación proporcional se asignan en el orden en que fueron registrados en las listas estatales de cada partido.
 
@@ -3535,9 +4183,9 @@ Tratándose de la inelegibilidad de candidatos propietarios, tomarán su lugar l
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO ÚNICO. DE LA IMPOSICIÓN DE SANCIONES POR LA COMISIÓN DE INFRACCIONES ADMINISTRATIVAS
+### CAPÍTULO SEXTO. DE LA ASIGNACIÓN DE MIEMBROS DE AYUNTAMIENTOS DE REPRESENTACIÓN PROPORCIONAL
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 255], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 242], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 274.
 
@@ -3621,9 +4269,9 @@ Una vez aplicada la fórmula electoral y concluidas las asignaciones de las regi
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO SÉPTIMO. DEL CÓMPUTO Y CALIFICACIÓN DE LA ELECCIÓN DE GOBERNADOR
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 268], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 250], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 282.
 
@@ -3651,9 +4299,9 @@ IV. Se harán constar en el acta circunstanciada de la sesión los resultados de
 
 bis.- Si de la sumatoria de los resultados que consten en las actas de computo distrital de todos los distritos se establece que la diferencia entre el candidato presunto ganador de la elección en la entidad y el que haya obtenido el segundo lugar en votación es igual o menor a un punto porcentual de la votación emitida en el Estado, y existe la petición expresa del representante del partido o coalición que postuló al segundo de los candidatos antes señalados, o del representante del candidato independiente que se encuentre en tal supuesto, el Consejo General deberá proceder a realizar el recuento de votos en la totalidad de las casillas, en todo caso se excluirán del procedimiento anterior las casillas que ya hubiesen sido objeto de recuento.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Conforme a lo establecido en el párrafo anterior, para realizar el recuento total de votos respecto de la elección de Gobernador, el Consejo General dispondrá lo necesario para que sea concluido antes del tercer domingo posterior a la Jornada Electoral. Para tales efectos, el Consejo General ordenará la creación de grupos de trabajo en cada distrito electoral. Los partidos políticos tendrán derecho a nombrar a un representante en cada grupo, con su respectivo suplente.
+Conforme a lo establecido en el párrafo anterior, para realizar el recuento total de votos respecto de la elección de Gobernador, el Consejo General dispondrá lo necesario para que sea concluido antes del tercer domingo posterior a la Jornada Electoral. Para tales efectos, el Consejo General ordenará la creación de grupos de trabajo en cada distrito electoral. Los partidos políticos tendrán derecho a nombrar a un representante en cada punto de recuento, con su respectivo suplente.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2010)</small>
 
@@ -3671,9 +4319,9 @@ Concluido el cómputo y emitida la declaración de validez de la elección y la 
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO SEGUNDO. DE LA FISCALIZACIÓN DE LAS PRECAMPAÑAS
+### CAPÍTULO OCTAVO. DISPOSICIONES COMPLEMENTARIAS
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 278], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 253], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 285.
 
@@ -3701,9 +4349,9 @@ Una vez que haya sido declarada firme la elección de Gobernador para todos los 
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO TERCERO. DE LAS SANCIONES
+### CAPÍTULO ÚNICO. DE LA IMPOSICIÓN DE SANCIONES POR LA COMISIÓN DE INFRACCIONES ADMINISTRATIVAS
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 287], P.O. 7 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 255], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 287.
 
@@ -3781,7 +4429,9 @@ VIII. Pérdida del registro como partido político estatal o agrupación políti
 
 IX. Pérdida de la acreditación ante el Instituto de los partidos políticos nacionales.
 
-Las sanciones referidas en este artículo, podrán ser impuestas cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Las sanciones referidas en este artículo, en el ámbito de sus respectivas competencias y en lo que no contravenga a la Ley de Instituciones, podrán ser impuestas, cuando:
 
 A. Incumplan con las obligaciones previstas en esta Ley;
 
@@ -3825,11 +4475,13 @@ II. Multa de cincuenta a dos mil días de salario mínimo general vigente en el 
 
 III. Negación o, en su caso, cancelación del registro como candidato independiente;
 
-Las sanciones referidas en este artículo, podrán ser impuestas cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Las sanciones referidas en este artículo, en el ámbito de sus respectivas competencias y en lo que no contravenga a la Ley de Instituciones y a la Ley de Partidos, podrán ser impuestas cuando:
 
 A. Incumplan con las obligaciones previstas en esta Ley;
 
-B. Se demuestre la utilización recursos (sic) de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
+B. Se demuestre la utilización (sic) recursos de procedencia ilícita para el financiamiento de cualquiera de sus actividades;
 
 C. Se demuestre que rebasaron el tope de gastos permitidos o el límite de aportaciones individuales en la etapa de obtención de respaldo ciudadano;
 
@@ -3893,11 +4545,11 @@ El Consejo General, para fijar y aplicar la sanción correspondiente, tomará en
 
 Tratándose de suspensión o cancelación se publicará conforme a las formalidades previstas por esta Ley para la publicación del registro de los partidos políticos.
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 265], P.O. 7 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 298.
 
-Las multas impuestas por el Consejo General que no hubiesen sido recurridas, o bien, que fuesen confirmadas por el Tribunal, deberán ser pagadas en la Dirección de Administración del Instituto, en un plazo improrrogable de quince días hábiles contados a partir de la notificación. Transcurrido el plazo sin que el pago se haya efectuado, el Instituto podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda al partido político.
+Las multas impuestas por el Consejo General o por el Tribunal en el ámbito de sus respectivas competencias, que no hubiesen sido recurridas, o bien, que fuesen confirmadas por el Tribunal, deberán ser pagadas en la Dirección de Administración del Instituto, en un plazo improrrogable de quince días hábiles contados a partir de la notificación. Transcurrido el plazo sin que el pago se haya efectuado, el Instituto podrá deducir el monto de la multa de la siguiente ministración del financiamiento público que corresponda al partido político.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -3927,6 +4579,10 @@ Los partidos políticos serán sancionados por el Tribunal con multa de ciento c
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 268], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 301.
 
 Todos los partidos políticos debidamente acreditados o registrados ante el Instituto, podrán realizar precampañas para elegir a los ciudadanos que presentarán como candidatos a puestos de elección popular ante los organismos electorales competentes para su registro.
@@ -3947,7 +4603,9 @@ Para los fines de la presente Ley, se entenderá por:
 
 I. Precampaña Electoral: Al conjunto de actividades reguladas por esta Ley, los estatutos y acuerdos de los partidos políticos o coaliciones, que de manera previa a la campaña electoral, son llevadas a cabo por los aspirantes a candidatos para obtener su nominación como tales.
 
-II. Actos de Precampaña: A las acciones que tienen por objeto mejorar la imagen de los aspirantes a candidatos, con el fin de obtener la nominación como candidato del partido político o coalición, para contender en una elección constitucional. Entre otras, quedan comprendidas las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+II. Actos de Precampaña: Las expresiones y actos de posicionamiento que se realicen bajo cualquier modalidad y en cualquier momento hasta antes del plazo legal para el inicio de las precampañas, que contenga llamados expresos o implícitos al voto en contra o a favor de una precandidatura. Entre otros actos, quedan comprendidas las siguientes:
 
 a. Reuniones públicas;
 
@@ -3964,6 +4622,14 @@ III. Propaganda de precampaña electoral: Al conjunto de escritos, publicaciones
 IV. Aspirante a candidato: A los ciudadanos que deciden contender al interior de un determinado partido político o coalición, con el fin de alcanzar su nominación como candidato a un puesto de elección popular.
 
 V. Proceso democrático interno: Conjunto de actos que realizan los órganos internos de los partidos políticos con el propósito de postular candidatos a cargos de elección popular.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Ningún ciudadano podrá participar, durante el mismo proceso electoral, en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos, salvo que entre ellos medie convenio para participar en coalición.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Aquel ciudadano que hubiera participado en un proceso de selección interno no podrá ser registrado como candidato por un partido político diverso.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 270], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -3991,7 +4657,9 @@ Si se advierten omisiones de uno o varios requisitos, se notificará de inmediat
 
 En caso de incumplimiento a lo anterior, la Dirección de Partidos Políticos lo hará del conocimiento del Consejo General para que éste determine que dichos aspirantes a candidatos no podrán desarrollar sus actos de precampaña por el partido político que se trate.
 
-Los procesos democráticos internos que realicen los partidos políticos no podrán iniciar antes de los cuarenta y cinco días naturales previos al de la apertura de registro de candidatos de la elección de que se trate, debiendo concluir a más tardar un día antes del inicio del período de solicitud de registro de candidatos que establece la presente ley.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Los procesos democráticos internos que realicen los partidos políticos no podrán iniciar antes de los cuarenta días naturales previos al de la apertura de registro de candidatos de la elección de que se trate, debiendo concluir a más tardar un día antes del inicio del período de solicitud de registro de candidatos que establece la presente ley.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 271], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -3999,7 +4667,9 @@ Los procesos democráticos internos que realicen los partidos políticos no podr
 
 En ningún caso la duración de las precampañas excederá de las dos terceras partes de la campaña electoral para el cargo respectivo.
 
-A más tardar en el mes de enero del año de la elección, el Consejo General del Instituto determinará los topes de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será el equivalente al veinte por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+A más tardar en el mes de diciembre del año anterior al de la elección, el Consejo General del Instituto determinará los topes de precampaña por precandidato y tipo de elección para la que pretenda ser postulado. El tope será el equivalente al veinte por ciento de lo establecido para las campañas, según la elección de que se trate.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 272], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -4017,7 +4687,9 @@ I. Respetar los estatutos, lineamientos o acuerdos del partido político o coali
 
 II. Informar por escrito al partido político o coalición de su aspiración, acompañándolo con una exposición de motivos y el programa de trabajo que se propone llevar a cabo, como posible representante de elección popular;
 
-III. Presentar un informe financiero, sobre el origen y aplicación de recursos, ante el partido político o coalición, dentro de los tres días anteriores a la realización del evento, en el cual se elija o designe candidato;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+III. Presentar un informe financiero, sobre el origen y aplicación de recursos, de conformidad con lo establecido en la Ley de Instituciones y la Ley de Partidos;
 
 IV. Entregar al partido político o coalición por el que contendió internamente cualquier remanente del financiamiento de precampaña que pudiera existir. Lo anterior, sin importar si el aspirante a candidato concluyó o no la precampaña electoral y si fue o no nominado candidato;
 
@@ -4027,7 +4699,9 @@ VI. Designar a su representante y al responsable de la obtención, administraci�
 
 VII. Propiciar la exposición, desarrollo y discusión del programa y acciones fijadas, conforme a lo establecido en los documentos básicos y, en su caso, de la plataforma electoral del partido político o coalición; y
 
-VIII. Las demás que establezca la Ley.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Las demás que establezca esta Ley y las Leyes Federales.
 
 > <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 274], P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -4077,123 +4751,87 @@ Independientemente de lo anterior, los gastos erogados se contabilizarán dentro
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
+### CAPÍTULO SEGUNDO. DE LA FISCALIZACIÓN DE LAS PRECAMPAÑAS
+
+> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 278], P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 311.
 
 Los partidos políticos podrán realizar gastos con motivo de las precampañas que efectúen para elegir a sus candidatos, hasta por la cantidad equivalente al quince por ciento del monto total fijado como límite de los topes de gastos de campaña para la elección de que se trate.
 
-Dichos gastos deberán especificarse en un apartado especial del informe de gastos de campaña que el partido político o coalición, en su caso, presente al Instituto.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Dichos gastos deberán reportarse al INE en los términos previstos en la Ley de Instituciones y la Ley de Partidos.
 
 Los gastos que se efectúen durante la precampaña electoral no serán contabilizados como parte de los gastos de campaña.
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 279], P.O. 7 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 312.
 
-Los recursos obtenidos durante una precampaña electoral estarán conformados por las aportaciones o donativos, en dinero o en especie efectuados a favor de los aspirantes a candidatos, en forma libre y voluntaria, por las personas físicas o morales mexicanas con residencia en el país, no comprendidas en el artículo 92 de esta Ley.
-
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 280], P.O. 7 DE DICIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 313.
 
-Las aportaciones que conforman el financiamiento de las precampañas electorales, se sujetarán al Reglamento que emite el Consejo General a propuesta de la Junta General y a lo siguiente:
-
-I. Las aportaciones en dinero que efectúe cada persona física o moral durante la precampaña electoral no podrán exceder, en su conjunto, del tope previsto en la presente Ley, debiendo expedirse recibos foliados, en los cuales se hará constar los datos de identificación del aportante, conforme al formato que proponga la Junta General al Consejo General;
-
-II. Los recursos obtenidos mediante autofinanciamiento se comprobarán en su totalidad;
-
-III. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido; de exceder este monto una cantidad equivalente a ciento cincuenta veces el salario mínimo general vigente en la entidad, deberá justificar plenamente su procedencia;
-
-IV. Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables, y
-
-V. Las aportaciones en bienes muebles o inmuebles deberán destinarse única y exclusivamente, para el cumplimiento del objeto de la precampaña electoral.
-
-(REFORMADO, P.O. 29 DE JUNIO DE 2007)(REUBICADO [N. DE E. ANTES ARTÍCULO 281], P.O. 7 DE DICIEMBRE DE 2012)
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 314.
 
-Los aspirantes a candidato deberán informar sobre los recursos de que dispongan, su monto, origen, aplicación y destino probables, así como de la estructura que los respalda, sean estos individuos, asociaciones u otros organismos o grupos.
-
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
-
-Al término de su precampaña electoral presentará un informe general de los ingresos y gastos que haya efectuado, conforme al reglamento referido en el artículo 313 de esta Ley.
-
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES ARTÍCULO 282], P.O. 7 DE DICIEMBRE DE 2012)
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 315.
 
-Una vez que un partido político haya recibido los informes a que se refiere la fracción III del artículo 306 de la presente ley, en un plazo no mayor a diez días hábiles los presentará a la Dirección de Partidos Políticos a efecto de que realice las observaciones a que haya lugar. La entrega del informe se hará a través del órgano responsable de las finanzas del partido político respectivo.
-
-Los partidos integrarán los informes por cada aspirante a los cargos de elección popular. Para el caso de municipios, solo se presentará el informe correspondiente a los aspirantes a Presidente Municipal.
-
-En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos. Los ingresos que reciban los aspirantes, sean en efectivo o en especie, deberá respaldarse con la copia del recibo, de acuerdo al formato respectivo, el cual deberá contener como mínimo:
-
-I. El nombre del aspirante;
-
-II. Fecha y lugar de expedición;
-
-III. Tipo de precampaña;
-
-IV. Descripción del bien o monto aportado;
-
-V. Nombre de la persona que aporta;
-
-VI. Domicilio del aportante;
-
-VII. Número de credencial de elector del aportante;
-
-VIII. Tipo de aportación, y
-
-IX. Firma del responsable de la obtención, administración y gasto de los recursos recabados del aspirante a candidato.
-
-Los egresos deberán estar soportados con la documentación que se expida a nombre del aspirante, por la persona física o moral a quien se efectuó el pago. Dicha documentación deberá cumplir con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación. De igual modo deberá observarse lo siguiente:
-
-a) Todos los gastos deberán señalarse con precisión, mencionando en cada caso, cuando menos, fecha; lugar en que se expide o se efectuó la erogación; monto; concepto específico del gasto; nombre o razón social y domicilio de la persona a quien se efectuó el pago;
-
-b) La clasificación por tipo de egreso se hará en cada formato, adjuntando los comprobantes originales como soporte de la información plasmada, y
-
-c) Para efectos de presentar la información contenida en el informe, se utilizarán los formatos respectivos.
-
-Se permitirá a los aspirantes que reporten en una bitácora todos aquellos gastos menores o que no reúnan los requisitos fiscales, exclusivamente en el rubro de alimentos, viáticos, transporte y gastos menores, hasta por los montos fijados por el Consejo General a propuesta de la Junta General.
-
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 283], P.O. 7 DE DICIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 316.
 
-La Dirección de Partidos Políticos, presentará a la Junta General los dictámenes sobre el informe financiero de las precampañas, a más tardar dentro de los veinte días posteriores a su recepción, para que en su oportunidad se sometan a la consideración del Consejo General, para su aprobación en su caso, en términos del reglamento referido en el artículo 313 de esta Ley.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 317.
 
 (DEROGADO, P.O. 29 DE JUNIO DE 2007) (REPUBLICADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 284], P.O. 7 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 285], P.O. 7 DE DICIEMBRE DE 2012)</small>
-
 ###### Artículo 318.
 
-La Junta General, por conducto de la Dirección de Partidos Políticos, recibirá a las quejas a que haya lugar sobre el origen, aplicación y destino de los recursos utilizados en precampañas electorales.
-
-> <small>(REFORMADO [N. DE E. ANTES ARTÍCULO 286], P.O. 7 DE DICIEMBRE DE 2012)</small>
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 319.
 
-Cuando un partido político o coalición no cumpla en tiempo con la presentación de los informes a que se refiere el artículo 315 de esta Ley, la Junta General por conducto de la Dirección de Partidos Políticos, notificará tanto al partido político o coalición y, personalmente, al aspirante a candidato, apercibiéndolos de que en caso de no subsanar la omisión en un término de cinco días naturales, el Consejo General impondrá la sanción prevista en la fracción III del artículo 320 de esta Ley.
+(DEROGADO, P.O. 11 DE NOVIEMBRE DE 2015)
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE DICIEMBRE DE 2012)
 
+### CAPÍTULO TERCERO. DE LAS SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 320.
 
-Los partidos políticos o coaliciones que incumplan con las disposiciones de la presente Ley en materia de precampañas electorales, según la gravedad de la falta, podrán hacerse acreedores de las siguientes sanciones:
+Los partidos políticos, coaliciones o candidatos que incumplan con las disposiciones de la presente Ley en materia de precampañas electorales, según la gravedad de la falta, podrán hacerse acreedores de las siguientes sanciones:
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 I. Apercibimiento;
 
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 II. Multa hasta por mil veces el salario mínimo general vigente en el Estado;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 III. Pérdida del derecho a registrar como candidato al aspirante a candidato; y
 
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 IV. Cancelación del registro del candidato respectivo.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 El aspirante a candidato o candidato, no podrá solicitar su registro por ningún otro partido político o coalición cuando hayan ocasionado que éstos, sean sancionados con las disposiciones establecidas en las fracciones III y IV del presente artículo.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
+
 Las sanciones previstas en las fracciones tercera y cuarta, serán impuestas cuando se exceda en el tope de gastos de precampaña establecidos, cuando omitan entregar los informes a que se refiere la fracción III del artículo 306 de esta Ley y no lo subsane en el término fijado por el Consejo General a propuesta de la Junta General; cuando no se ajusten a las disposiciones en la materia o incumplan con los acuerdos o resoluciones emitidos por el Consejo General.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
 En los casos de las dos últimas fracciones, el partido político o coalición podrá registrar como candidato a persona distinta, siempre que los plazos establecidos por la presente Ley lo permitan.
 
@@ -4213,11 +4851,139 @@ IV. La Dirección de Partidos Políticos contará con cuarenta y ocho horas para
 
 V. La Dirección de Partidos Políticos en coordinación con la Dirección Jurídica, al admitir la contestación, resolverá sobre la admisión de las pruebas ofrecidas por las partes dentro de los tres días hábiles siguientes, ordenando la preparación y desahogo de las mismas, para lo cual contará con un período de siete días hábiles.
 
-VI. Concluido el plazo señalado para el desahogo de las pruebas, la Dirección de la (sic) Partidos Políticos en coordinación con la Dirección Jurídica, resolverá dentro de los diez días hábiles siguientes mediante dictamen que será turnado al Consejo General a efecto de que resuelva sobre la responsabilidad e imponga la sanción correspondiente, o bien, absuelva al presunto infractor.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+VI. Concluido el plazo señalado para el desahogo de las pruebas, la Dirección de la (sic) Partidos Políticos en coordinación con la Dirección Jurídica, resolverá dentro de los diez días hábiles siguientes mediante dictamen que será turnado al Consejo General a efecto de que resuelva sobre la responsabilidad e imponga la sanción correspondiente, o bien, absuelva al presunto infractor, en los asuntos de su competencia.
 
 El desahogo de las quejas, además de lo previsto en el presente artículo, se deberá ajustar a lo previsto en el reglamento que al efecto emita el Consejo General a propuesta de la Junta General.
 
-La resolución dictada podrá ser impugnada ante el Tribunal.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Las resoluciones dictadas en el ámbito de la competencia del Instituto podrán ser impugnadas ante el Tribunal.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+# LIBRO QUINTO. DEL PROCEDIMIENTO ESPECIAL SANCIONADOR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 322.
+
+Dentro de los procesos electorales, la Dirección Jurídica del Instituto, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
+
+a) Contravengan las normas sobre propaganda política o electoral;
+
+b) Constituyan actos anticipados de precampaña o campaña, o
+
+c) Violen lo establecido en el octavo párrafo del artículo 134 de la Constitución Federal.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+DENTRO DE LOS PROCESOS ELECTORALES LOCALES SERÁ COMPETENCIA DE LA SECRETARÍA EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR CONDUCTO DE LA UNIDAD TÉCNICA DE LO CONTENCIOSO ELECTORAL, INSTRUIR EL PROCEDIMIENTO ESPECIAL SANCIONADOR PREVISTO EN LA LEY GENERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, CUANDO SE DENUNCIE LA COMISIÓN DE CONDUCTAS QUE VIOLEN LO ESTABLECIDO EN LA BASE III DEL ARTÍCULO 41 EN MATERIA DE PROPAGANDA EN RADIO Y TELEVISIÓN, DE CONFORMIDAD CON LO PREVISTO POR EL ARTÍCULO 160, NUMERAL 2, DE LA LEY GENERAL ANTES MENCIONADA.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 323.
+
+Cuando la conducta infractora esté relacionada con propaganda política o electoral en radio y televisión, recibida la queja o denuncia por la Dirección Jurídica del Instituto, deberá elevarla de inmediato para su conocimiento y sustanciación al Instituto Nacional Electoral.
+
+Desde el inicio del proceso, se deberán generar los acuerdos necesarios a nivel operativo para que en esta materia exista la coordinación debida con el Instituto Nacional Electoral.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 324.
+
+Los procedimientos relacionados con la difusión de propaganda que se considere calumniosa sólo podrán iniciarse a instancia de parte afectada. SE ENTENDERÁ POR CALUMNIA LA IMPUTACIÓN DE HECHOS O DELITOS FALSOS CON IMPACTO EN UN PROCESO ELECTORAL.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 325.
+
+La denuncia en la vía prevista en este capítulo, deberá reunir los siguientes requisitos:
+
+a) Nombre del quejoso o denunciante, con firma autógrafa o huella digital;
+
+b) Domicilio para oír y recibir notificaciones;
+
+c) Los documentos que sean necesarios para acreditar la personería;
+
+d) Narración expresa y clara de los hechos en que se basa la denuncia;
+
+e) Ofrecer y exhibir las pruebas con que se cuente; o en su caso, mencionar las que habrán de requerirse, por no tener posibilidad de recabarlas, y
+
+f) En su caso, las medidas cautelares que se soliciten.
+
+(NOTA: EL 11 DE FEBRERO DE 2016, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 129/2015 Y SUS ACUMULADAS 130/2015, 131/2015, 132/2015, 133/2015 Y 137/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EN MATERIA DE RADIO Y TELEVISIÓN, EL ÓRGANO DEL INSTITUTO QUE RECIBA O PROMUEVA LA DENUNCIA LA REMITIRÁ INMEDIATAMENTE A LA DIRECCIÓN JURÍDICA DEL INSTITUTO, PARA QUE ÉSTA LA EXAMINE JUNTO CON LAS PRUEBAS APORTADAS.
+
+La denuncia será desechada de plano por la Dirección Jurídica del Instituto, sin prevención alguna, cuando:
+
+a) No reúna los requisitos indicados en el numeral 1 del presente artículo;
+
+b) Los hechos denunciados no constituyan una violación en materia de propaganda político electoral;
+
+c) El denunciante no aporte ni ofrezca prueba alguna de sus dichos, o
+
+d) La denuncia sea evidentemente frívola.
+
+La Dirección Jurídica del Instituto deberá admitir o desechar la denuncia en un plazo no mayor a 24 horas posteriores a su recepción. En caso de desechamiento, notificará al denunciante su resolución, por el medio más expedito a su alcance dentro del plazo de doce horas; tal resolución deberá ser informada por escrito al Magistrado Presidente del Tribunal Electoral del Estado, para su conocimiento.
+
+Cuando la Dirección Jurídica del Instituto admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
+
+Si la Dirección Jurídica del Instituto considera necesaria la adopción de medidas cautelares, las propondrá al Consejero Presidente del Instituto dentro del mismo plazo de cuarenta y ocho horas previsto en el numeral anterior. Esta decisión podrá ser impugnada ante el Tribunal Electoral del Estado.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 326.
+
+La audiencia de pruebas y alegatos se llevará a cabo de manera ininterrumpida, en forma oral y será conducida por la Dirección Jurídica del Instituto, debiéndose levantar constancia de su desarrollo.
+
+En el procedimiento especial no serán admitidas más pruebas que la documental y la técnica, esta última será desahogada siempre y cuando el oferente aporte los medios para tal efecto en el curso de la audiencia.
+
+La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
+
+Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa por el órgano electoral la (sic) se deberá nombrar un delegado especial para que actúe como denunciante;
+
+Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
+
+La Dirección Jurídica del Instituto resolverá sobre la admisión de pruebas y acto seguido procederá a su desahogo, y
+
+Concluido el desahogo de las pruebas, el titular de la Dirección Jurídica del Instituto concederá en forma sucesiva el uso de la voz al denunciante y al denunciado, o a sus representantes, quienes podrán alegar en forma escrita, o verbal por una sola vez y en tiempo no mayor a quince minutos cada uno.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 327.
+
+Celebrada la audiencia, el titular de la Dirección Jurídica del Instituto, deberá turnar de forma inmediata el expediente completo, exponiendo en su caso, las medidas cautelares y demás diligencias que se hayan llevado a cabo, así como un informe circunstanciado, al Tribunal Electoral del Estado, para que emita la resolución que corresponda.
+
+El informe circunstanciado deberá contener por lo menos, lo siguiente:
+
+a) La relatoría de los hechos que dieron motivo a la queja o denuncia;
+
+b) Las diligencias que se hayan realizado por la autoridad;
+
+c) Las pruebas aportadas por las partes;
+
+d) Las demás actuaciones realizadas, y
+
+e) Las conclusiones sobre la queja o denuncia.
+
+Del informe circunstanciado se enviará una copia al Consejero Presidente del Instituto, para que dé cuenta a éste.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 328.
+
+Recibido por el Tribunal Electoral del Estado, un expediente en estado de resolución conforme a los artículos anteriores, lo turnará de inmediato a la ponencia que corresponda, a fin de que se presente al Pleno el proyecto de resolución que corresponda en un plazo que no debe exceder de 5 días.
 
 T R A N S I T O R I O S
 
@@ -4247,7 +5013,7 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO
 
 LIC. EFRAÍN VILLANUEVA ARCOS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE OCTUBRE DE 2005.
 
@@ -4322,3 +5088,29 @@ El Instituto Electoral de Quintana Roo deberá realizar las adecuaciones a la no
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor previa su publicación en el Periódico Oficial del Estado de Quintana Roo, al día siguiente que inicie su vigencia el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Quintana Roo en materia político electoral.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos establecidos en los artículos transitorios del presente decreto.
+
+TERCERO. El personal titular del órgano central ejecutivo, técnicos y administrativos cuyas áreas de adscripción hayan sido modificadas en su denominación y/o atribuciones, con motivo del presente Decreto, conservarán sus derechos laborales.
+
+CUARTO. El Consejo General del Instituto Electoral de Quintana Roo, dictará los acuerdos necesarios para hacer efectivas las disposiciones del presente Decreto y deberá expedir los reglamentos que deriven del mismo, a más tardar 90 días a partir de su entrada en vigor.
+
+Las disposiciones generales emitidas por el Instituto Electoral de Quintana Roo, con antelación a la entrada en vigor del presente Decreto seguirán vigentes, en lo que no se opongan a la Constitución Federal, Leyes Generales, Constitución Particular, y demás disposiciones legales aplicables, hasta entonces el Consejo General de dicho Instituto, no emita aquellas que deban sustituirlas.
+
+QUINTO. Los partidos políticos locales deberán adecuar sus documentos básicos y demás documentación interna, a lo previsto en la Ley General de Partidos Políticos, y demás disposiciones legales aplicables.
+
+SEXTO. Las funciones que ya se encuentren delegadas en virtud de la publicación del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia político electoral publicada el 10 de febrero de 2014, se mantendrán delegadas hasta en tanto no sean reasumidas por mayoría de los integrantes del Consejo General del Instituto Nacional Electoral, en términos del artículo octavo transitorio de dicho Decreto.
+
+SÉPTIMO. La organización del Servicio Profesional Electoral Nacional, se hará conforme a las características y plazos que establezca el Instituto Nacional Electoral.
+
+OCTAVO. El Consejo General del Instituto Electoral de Quintana Roo, podrá realizar ajustes a los plazos establecidos en esta Ley, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales, contenidos en la misma.
+
+NOVENO. El Ejecutivo local, por conducto de la Secretaría de Finanzas y Planeación, asignará en tiempo y forma, recursos presupuestarios al Instituto Electoral de Quintana Roo, para el debido cumplimiento de sus atribuciones, de conformidad con la normativa aplicable y sujeto a la disponibilidad presupuestaria.
+
+DÉCIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en el Estado, así como de sus militantes y simpatizantes, que hayan iniciado o se encuentren en trámite a la entrada en vigor del presente Decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en la entidad, hasta antes de la entrada en vigor de las Leyes Generales, serán fiscalizados por el Instituto Electoral de Quintana Roo, con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos, a más tardar el último día del mes de diciembre de 2015.
+
+DÉCIMO PRIMERO. La Comisión de Fiscalización del Consejo General del Instituto Electoral de Quintana Roo, e integrada la Unidad Técnica de Fiscalización, harán del conocimiento del Consejo General del Instituto Nacional Electoral, con el objeto de una posible delegación de esa función.
