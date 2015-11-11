@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-10-30"
+last_updated: "2015-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1809,6 +1809,10 @@ II. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
 III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
 
+> <small>(ADICIONADA, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. Contar con la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México, dentro de los seis meses siguientes a la fecha en que inicie sus funciones.
+
 ### CAPITULO TERCERO. De la Hacienda Pública Municipal
 
 ###### Artículo 93.
@@ -1959,11 +1963,13 @@ XXV. Formular las bases y expedir la convocatoria a los concursos para la realiz
 
 XXVI. Las demás que les señalen las disposiciones aplicables.
 
-> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2015)</small>
 
-###### Artículo 96. Ter.
+###### Artículo 96 Ter.
 
-El Director de Obras Públicas o el Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del ayuntamiento, contar con título en ingeniería, arquitectura o alguna área afín o con una experiencia mínima de un año.
+El Director de Obras Públicas o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en ingeniería, arquitectura o alguna área afín, y con una experiencia mínima de un año, con anterioridad a la fecha de su designación.
+
+Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
 > <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
 
@@ -2030,6 +2036,12 @@ XIX. Operar y actualizar el Registro Municipal de Unidades Económicas de los pe
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
 XX. Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 96 Quintus.- El Director de Desarrollo Económico o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en el área económico-administrativa, y con experiencia mínima de un año, con anterioridad a la fecha de su designación.
+
+Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
 
 ### CAPITULO CUARTO. De la Contraloría Municipal
 
@@ -4314,3 +4326,11 @@ G.G. 30 DE OCTUBRE DE 2015.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
