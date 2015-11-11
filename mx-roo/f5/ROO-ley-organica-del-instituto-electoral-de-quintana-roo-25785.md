@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2013-04-09"
+last_updated: "2015-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE QUINTANA ROO , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -101,9 +103,11 @@ VI. Coadyuvar en la promoción y difusión de la cultura política y democrátic
 
 VII. Las demás que señale la Ley.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-Las actividades del Instituto, se regirán por los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad y objetividad.
+Las actividades del Instituto, se regirán por los principios de constitucionalidad, certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -125,15 +129,17 @@ El Instituto tendrá su domicilio en la capital del Estado y ejercerá sus funci
 
 ### Capítulo Primero. Del Consejo General
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 9.
 
-El Consejo General del Instituto es el Organo Superior de Dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, de promover la cultura política y democrática, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
+El Consejo General del Instituto es el Órgano Superior de Dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, de promover la cultura política y democrática, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad guíen todas las actividades del Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 10.
 
-El Consejo General se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente; concurrirán, además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto. Asimismo habrá cuatro Consejeros Electorales suplentes en orden de prelación, que deberán reunir los mismos requisitos. En la primera sesión que celebren en el mes de Febrero, los Consejeros Electorales elegirán a uno de ellos, como Presidente del Instituto, quien lo será por un período de tres años, pudiendo ser reelecto para un período igual.
+El Consejo General se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente; concurrirán además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -151,29 +157,11 @@ En todos los asuntos que les encomienden, las comisiones deberán presentar un i
 
 Los Directores y/o Jefes de Unidad de las áreas correspondientes fungirán como Secretarios Técnicos de las Comisiones.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 11.
 
-Los Consejeros Electorales, propietarios y suplentes, del Consejo General serán elegidos por el voto de las dos terceras partes de los miembros de la Legislatura del Estado o de la Diputación Permanente, en los recesos de ésta, de entre las propuestas que formulen los grupos parlamentarios. Para ser Consejero Electoral del Consejo General, deberán reunirse los siguientes requisitos:
-
-a).- Ser mexicano por nacimiento, sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
-
-b).- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
-
-c).- Tener más de veinticinco años de edad, el día de la designación;
-
-d).- Poseer al día de la designación, título y cédula profesional de nivel licenciatura;
-
-e).- Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
-
-f).- Tener una residencia efectiva en el Estado durante los últimos diez años, y haber sido vecino en alguno de los Municipios de la Entidad en los cinco años previos a su designación;
-
-g).- No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
-
-h).- No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político ó agrupación política, o representante ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto Electoral de Quintana Roo, así como en los Órganos del Instituto Federal Electoral, en los últimos diez años anteriores a la designación; y
-
-i).- No ser secretario, ni procurador general de justicia, subsecretario u oficial mayor en la administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
+El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
 
 ###### Artículo 12.
 
@@ -189,33 +177,29 @@ IV. Realizar tareas de investigación y difusión acerca de temas electorales;
 
 V. Cumplir y hacer cumplir, en el ámbito de su competencia, las disposiciones constitucionales y legales de la materia; y
 
-VI. Las demás que le otorgue la Constitución Particular, la presente Ley y demás ordenamientos.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
+VI. Las demás que le otorgue la Constitución Política de los Estados Unidos Mexicanos, la Ley General de instituciones y Procedimientos Electorales, la Constitución Particular, la presente Ley y demás ordenamientos.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
-El procedimiento para la designación de los Consejeros Electorales, propietarios y suplentes, y del Contralor Interno, se sujetará al trámite siguiente:
+El procedimiento para la designación de los Consejeros Electorales, se sujetará al trámite establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales.
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+El procedimiento para la designación del Contralor Interno, se sujetara al trámite siguiente:
 
 I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar hasta dos candidatos para cada cargo a designar, ante la Comisión de Puntos Legislativos;
 
-II. Los grupos parlamentarios presentaran sus propuestas por escrito, anexando a cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de diez días naturales, contados a partir de la fecha en que fueron notificados.
+II. Los grupos parlamentarios presentarán sus propuestas por escrito, anexando a cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de diez días naturales, contados a partir de la fecha en que fueron notificados;
 
-III. La Comisión de Puntos Legislativos, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales.
+III. La Comisión de Puntos Legislativos, una vez vencido el plazo señalado en la fracción que antecede, se reunirá para revisar si las propuestas cumplen con los requisitos de ley, y elaborará el dictamen correspondiente, mismo que contendrá la relación de los nombres de las personas propuestas que satisficieron los requisitos legales;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
+IV. El citado dictamen se presentará a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, al Contralor Interno del Instituto;
 
-IV. El citado Dictamen se presentará, a más tardar en los tres días siguientes al vencimiento del plazo señalado en la fracción II del presente artículo, en sesión plenaria de la Legislatura o la Diputación Permanente, según corresponda, para efecto de que los legisladores designen, de entre las propuestas que cumplieron con los requisitos, a los Consejeros Electorales y al Contralor Interno del Instituto;
+V. La designación del Contralor Interno del Instituto, se mandará a publicar en el Periódico Oficial del Estado;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-V. La designación de los Consejeros Electorales y el Contralor Interno del Instituto, se mandará a publicar en el Periódico Oficial del Estado;
-
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2009)</small>
-
-VI. Los designados deberán comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la Protesta de Ley. En el caso de que un Consejero Suplente tenga que entrar en funciones, éste deberá rendir la protesta ante el Consejo General.
+VI. El designado deberá comparecer ante la propia Legislatura o la Diputación Permanente, a rendir la Protesta de Ley.
 
 ###### Artículo 14.
 
@@ -327,7 +311,7 @@ XXXVI. Aprobar los lineamientos técnicos para la instrumentación del programa 
 
 XXXVII. Establecer la demarcación territorial en distritos electorales, conforme a lo establecido en la Constitución y en particular, a la Ley Electoral;
 
-XXXVIII. Realizar convenios de colaboración con Instituciones de Nivel Medio Superior y Superior; y (sic)
+XXXVIII. Realizar convenios de colaboración con Instituciones de Nivel Medio Superior y Superior; y
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
 
@@ -341,11 +325,11 @@ XL.- Dictar los acuerdos necesarios para hacer efectivas las anteriores atribuci
 
 En las elecciones ordinarias, el funcionamiento del Consejo General se ajustará a los plazos y términos establecidos en la Ley Electoral, en la Ley de Medios y en el presente ordenamiento. Tratándose de elecciones extraordinarias, se ajustará a los plazos que establezca la convocatoria respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
-Para la preparación de los procesos electorales ordinarios, el Consejo General hará la declaratoria de inicio el día 16 de marzo del año de la elección, a fin de realizar los actos correspondientes.
+Para la preparación de los procesos electorales ordinarios, el Consejo General hará la declaratoria de inicio el día 15 de febrero del año de la elección, a fin de realizar los actos correspondientes.
 
 Durante el proceso electoral, el Consejo General deberá sesionar en forma ordinaria por lo menos dos veces al mes y en forma extraordinaria a convocatoria del Consejero Presidente cuando lo estime necesario o a petición de la mayoría de los Consejeros Electorales o de los representantes de los partidos políticos.
 
@@ -395,11 +379,11 @@ La votación podrá ser á favor o en contra, sin posibilidad de abstenerse, sal
 
 El Consejo General ordenará la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que expresamente se ordenen en la presente Ley, así de como aquellos que se consideren pertinentes.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-Los Consejeros Electorales del Instituto, durarán en su encargo seis años.
+Los Consejeros Electorales del Instituto, durarán en su encargo siete años y no podrán ser reelectos.
 
 ###### Artículo 22.
 
@@ -425,11 +409,11 @@ Para suplir a los Consejeros Electorales en sus ausencias temporales, el Conseje
 
 Cuando los Consejeros Electorales no asistan a tres sesiones consecutivas, ordinarias y/o extraordinarias, sin causa justificada o sin previa licencia, se entenderá que renuncian al cargo. Para tal efecto, el Consejero Presidente convocará a los suplentes en orden de prelación conforme a su designación para que se integren de manera definitiva, comunicando tal circunstancia a la Legislatura del Estado o a la Diputación Permanente, en su caso, para que acuerde lo procedente.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 27.
 
-La Legislatura del Estado o en su caso, la Diputación Permanente, con el voto de las dos terceras partes de sus integrantes, podrán revocar el cargo a los Consejeros Electorales del Consejo General, cuando dejen de reunir alguno de los requisitos de elegibilidad, violenten los principios rectores de la función electoral o incurran en responsabilidad, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+El Consejo General del Instituto Nacional Electoral podrá revocar el cargo a los Consejeros Electorales del Consejo General, cuando incurran en alguna de las causas graves establecidas en la Ley General de Instituciones y Procedimientos Electorales.
 
 ### Capítulo Segundo. Del Consejero Presidente
 
@@ -467,7 +451,7 @@ IX. Informar oportunamente a la Legislatura del Estado o a la Diputación Perman
 
 X. Firmar junto con el Secretario General todos los acuerdos o resoluciones que emita el Consejo General;
 
-XI. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que establezca la Ley Electoral y los que determine el Consejo General; y (sic)
+XI. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de los acuerdos y resoluciones que establezca la Ley Electoral y los que determine el Consejo General; y
 
 XII. (DEROGADA, P.O. 29 DE JUNIO DE 2007)
 
@@ -566,6 +550,10 @@ El Secretario General es el Secretario de Acuerdos del Consejo General. El Secre
 ###### Artículo 36.
 
 Para ser Secretario General se requerirán los mismos requisitos que para ser Consejero Electoral del Consejo General y además contar con título de Licenciado en Derecho.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+El secretario General será electo por las dos terceras partes del Consejo General, a propuesta de su Consejero Presidente.
 
 ###### Artículo 37.
 
@@ -1179,7 +1167,7 @@ XXV. Vigilar el cumplimiento de las disposiciones legales y lineamientos relativ
 
 XXVI. Recibir, en el ámbito de su competencia, las solicitudes de registro como observadores electorales, así como vigilar que se imparta a los solicitantes el curso de capacitación respectivo, y remitir las peticiones al Consejo General para los efectos legales que correspondan;
 
-XXVII. Aprobar el orden del día de sus sesiones; y (sic)
+XXVII. Aprobar el orden del día de sus sesiones; y
 
 (REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE JUNIO DE 2007) (F. DE E., P.O. 27 DE JULIO DE 2007)
 
@@ -1491,7 +1479,7 @@ VIII. Fijar en lugar visible al exterior de la casilla los resultados del cómpu
 
 IX. Turnar oportunamente al Consejo Municipal y al Distrital, en su caso, los paquetes electorales y las copias de la documentación respectiva en los términos de la Ley Electoral;
 
-X. Identificar, mediante cotejo de nombramiento y credencial para votar, a los representantes de los partidos políticos, coaliciones y a los observadores electorales; y (sic)
+X. Identificar, mediante cotejo de nombramiento y credencial para votar, a los representantes de los partidos políticos, coaliciones y a los observadores electorales; y
 
 > <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2007)</small>
 
@@ -1571,7 +1559,7 @@ Los partidos políticos y/o coaliciones deberán registrar en la Dirección de P
 
 En este caso, los representantes de los partidos políticos y coaliciones, deberán presentar ante los Consejos Municipales y los Distritales del Instituto, la acreditación expedida por la Dirección de Partidos Políticos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2009)</small>
 
 ###### Artículo 84.
 
@@ -1599,11 +1587,29 @@ El Consejo General deberá emitir la resolución que corresponda y la comunicar�
 
 La Contraloría Interna del Instituto es la encargada de la fiscalización, vigilancia y control del uso, manejo y destino de los recursos del Instituto; y del desempeño de los órganos, funcionarios y servidores electorales. Estará adscrita administrativamente al Consejo General, sin que esto se traduzca en subordinación alguna, pues gozará de autonomía técnica y de gestión en el ejercicio de sus atribuciones.
 
-> <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 86.
 
-El Titular de la Contraloría Interna del Instituto, deberá satisfacer los mismos requisitos que se exigen para ser Consejero Electoral del Consejo General; sus estudios deberán ser contabilidad, administración, economía y finanzas, o derecho.
+El titular de la Contraloría Interna del Instituto, deberá satisfacer los requisitos siguientes:
+
+a) Ser mexicano por nacimiento sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
+
+b) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+
+c) Tener más de veinticinco años de edad, el día de la designación;
+
+d) Poseer al día de la designación, título y cédula profesional de nivel licenciatura en contabilidad, administración, economía y finanzas, o derecho;
+
+e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiere sido de carácter no intencional o imprudencial;
+
+f) Tener residencia efectiva en el Estado durante los últimos diez años, y hacer (sic) sido vecino en alguno de los Municipios de la Entidad en los cinco años previstos a su designación;
+
+g) No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
+
+h) No desempeñar ni haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político o agrupación política, o representante ante el Consejo General, los Consejos Municipales y los Consejos Distritales del Instituto Electoral de Quintana Roo, así como en los Órganos del Instituto Federal Electoral, en los últimos diez años anteriores a la designación, y
+
+i) No ser secretario, ni procurador general de justicia, subsecretario u oficial mayor en la administración pública estatal, a menos que se separe de su encargo con cuatro años de anticipación al día de su nombramiento.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 2009)</small>
 
@@ -1882,3 +1888,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO. El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
+
+P.O. 11 DE NOVIEMBRE DE 2015.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Consejo General del Instituto Electoral de Quintana Roo, podrá realizar ajustes a los plazos establecidos en la Ley Orgánica del Instituto Electoral de Quintana Roo, a fin de garantizar la debida ejecución de las actividades y procedimientos electorales, contenidos en la misma.
+
+TERCERO. El Contralor Interno designado mediante Decreto 260 de la XIV Legislatura, continuará en su cargo hasta el 30 de marzo de 2021.
