@@ -4,7 +4,7 @@ identifier: "ROO-ley-estatal-de-medios-de-impugnacion-en-materia-electoral-25781
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-27"
-last_updated: "2012-12-07"
+last_updated: "2015-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ESTATAL DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002
 
@@ -47,13 +47,19 @@ PREVENCIONES GENERALES.
 
 Las disposiciones de esta Ley son de orden público y de observancia general en todo el territorio del Estado y reglamentarias del Artículo 49 de la Constitución Política del Estado Libre y Soberano de Quintana Roo; tienen por objeto regular el trámite, sustanciación y resolución de los medios de impugnación en materia electoral.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 2.
 
 La aplicación e interpretación de las disposiciones de esta Ley corresponden al Instituto Electoral y al Tribunal Electoral de Quintana Roo, en sus respectivos ámbitos de competencia.
 
-Para el trámite, la sustanciación y resolución de los medios de impugnación previstos en esta Ley, sus normas se interpretarán conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del Artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+Para el trámite, la sustanciación y resolución de los medios de impugnación previstos en esta Ley, sus normas se interpretarán conforme a los criterios gramatical, sistemático y funcional, atendiendo a lo dispuesto en el último párrafo del Artículo 14 de la Constitución Política de los Estados Unidos Mexicanos; a los tratados o instrumentos internacionales celebrados por el Estado Mexicano.
 
 A falta de disposición expresa en la presente Ley, se aplicarán los criterios establecidos en la jurisprudencia del Tribunal Electoral de Quintana Roo, la jurisprudencia del Tribunal Electoral del Poder Judicial de la Federación y los Principios Generales del Derecho.
+
+La interpretación del orden jurídico deberá realizarse conforme a los derechos humanos reconocidos en la Constitución Federal, favoreciendo en todo tiempo a las personas con la protección más amplia.
+
+En la interpretación sobre la resolución de los asuntos internos de los partidos políticos, se deberá tomar en cuenta su carácter de entidades de interés público como organizaciones de ciudadanos, así como su libertad de decisión interna, el derecho a la auto organización de los mismos y el ejercicio de los derechos de sus militantes.
 
 ###### Artículo 3.
 
@@ -91,13 +97,19 @@ I. El recurso de revocación, en todo tiempo para combatir los actos y resolucio
 
 II. El juicio de inconformidad, para garantizar la legalidad, de los actos y resoluciones de los órganos centrales del Instituto, durante el tiempo que transcurra entre la conclusión de un proceso electoral y el inicio del siguiente, así como durante estos exclusivamente en la etapa de preparación de la elección;
 
-III. El juicio de nulidad, para garantizar la legalidad de las diversas elecciones locales, en los términos de la presente Ley; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-IV. El juicio para la protección de los derechos político electorales del ciudadano quintanarroense.
+III. El juicio de nulidad, para garantizar la legalidad de las diversas elecciones locales, en los términos de la presente Ley;
 
-## TITULO SEGUNDO. DE LAS DISPOSICIONES COMUNES
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-APLICABLES A LOS MEDIOS DE IMPUGNACION
+IV. El juicio para la protección de los derechos político electorales del ciudadano quintanarroense, y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+V. El Procedimiento Ordinario Sancionador y el Procedimiento Especial Sancionador, para resolver las denuncias sustanciadas por el Instituto, derivado de la comisión de conductas establecidas en la Ley Electoral en el capítulo correspondiente.
+
+## TITULO SEGUNDO. DE LAS DISPOSICIONES COMUNES APLICABLES A LOS MEDIOS DE IMPUGNACION
 
 ### Capítulo Primero. Disposiciones Preliminares
 
@@ -107,9 +119,11 @@ Las disposiciones del presente Título regulan el trámite, sustanciación y res
 
 ### Capítulo Segundo. De la Competencia
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-La competencia para conocer y resolver el recurso de revocación, corresponde al Consejo General, y en su caso, al Pleno. Asimismo, el Tribunal es competente para conocer y resolver con plena jurisdicción los juicios de inconformidad, nulidad y para la protección de los derechos político electorales del ciudadano quintanarroense, previstos en el artículo 6 de este ordenamiento.
+La competencia para conocer y resolver el recurso de revocación, corresponde al Consejo General, y en su caso, al Pleno. Asimismo, el Tribunal es competente para conocer y resolver con plena jurisdicción los juicios de inconformidad, nulidad, para la protección de los derechos político electorales del ciudadano quintanarroense, el Procedimiento Ordinario Sancionador y el Procedimiento Especial Sancionador, previstos en el artículo 6 de este ordenamiento.
 
 ### Capítulo Tercero
 
@@ -255,7 +269,9 @@ VII. Serán pruebas instrumentales, todas las actuaciones que obren en el expedi
 
 En ningún caso se tomarán en cuenta para resolver, las pruebas ofrecidas o aportadas fuera de los plazos legales, con excepción de las pruebas supervenientes. Se entiende por prueba superveniente, aquella surgida después del plazo legal en que deban aportarse y aquellas existentes desde entonces, pero que el promovente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlas o por existir obstáculos que no estaban a su alcance superar.
 
-En los asuntos de la competencia del Tribunal, las pruebas supervenientes, podrán aportarse hasta antes de la publicación en estrados de la lista de los asuntos que serán ventilados en cada sesión de Pleno.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+En los asuntos de la competencia del Tribunal, las pruebas supervenientes, podrán aportarse hasta antes del cierre de instrucción.
 
 ###### Artículo 18.
 
@@ -289,19 +305,19 @@ La confesional, testimonial, las documentales públicas y privadas, las técnica
 
 Para los efectos de esta Ley, durante los procesos electorales ordinarios o extraordinarios, todos los días y horas son hábiles. Los plazos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas.
 
-Durante el tiempo que transcurra entre la conclusión de un proceso electoral y el inicio del siguiente, los plazos se computarán por día y se hará contando únicamente los días y horas hábiles.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-Para los efectos del párrafo anterior, se entiende por días hábiles, todos los del año, con excepción de los sábados y domingos y aquellos que sean considerados como inhábiles por los organismos electorales, en términos de la ley respectiva; y por horas hábiles, las comprendidas de las 9:00 a las 21:00 horas.
+Durante el tiempo que transcurra entre la conclusión de un proceso electoral y el inicio del siguiente, los plazos se computarán por día y se hará contando únicamente los días hábiles.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Para los efectos del párrafo anterior, se entiende por días hábiles, todos los del año, con excepción de los sábados y domingos y aquellos que sean considerados como inhábiles por los organismos electorales, en términos de la ley respectiva.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 25.
 
-Los medios de impugnación previstos en esta Ley, deberán promoverse dentro de los tres días siguientes, contados a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución que se impugne, de conformidad con las disposiciones del presente ordenamiento.
-
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
-
-En el caso de actos o resoluciones de los Consejos Municipales y Distritales, así como de las Juntas Municipales y Distritales Ejecutivas, el recurso de revocación deberá de interponerse dentro de las cuarenta y ocho horas siguientes, contadas a partir de que se tenga conocimiento o se hubiere notificado el acto o resolución a combatir.
+Los medios de impugnación previstos en esta Ley, deberán promoverse dentro de los cuatro días siguientes, contados a partir de que se tenga conocimiento o se hubiese notificado el acto o resolución que se impugne, de conformidad con las disposiciones del presente ordenamiento, con excepción de la adopción o desechamiento de medidas cautelares emitidas por el Instituto electoral en los Procedimientos Especiales Sancionadores de su competencia, en cuyo caso el plazo será de cuarenta y ocho horas, contadas a partir de la imposición de dicha medida.
 
 ### Capítulo Séptimo. De la Interposición y sus Efectos
 
@@ -423,9 +439,9 @@ I. Remitir por la vía más expedita, a la Secretaría General del Instituto o a
 
 II. Hacerlo del conocimiento público, inmediatamente a su recepción, mediante cédula que se fijará en los estrados en la que deberá constar el día y hora de su publicación; y
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-III. La cédula a que se refiere la fracción anterior, deberá publicarse durante el plazo de veinticuatro horas.
+III. La cédula a que se refiere la fracción anterior, deberá publicarse durante el plazo de cuarenta y ocho horas.
 
 ###### Artículo 34.
 
@@ -545,9 +561,11 @@ En el caso de que el resultado del nuevo escrutinio y cómputo modifique los res
 
 El Presidente del Tribunal tomará las medidas necesarias para que se dé cumplimiento a los requerimientos a que se refieren los artículos anteriores, aplicando en su caso el medio de apremio que juzgue conveniente, en los términos del presente ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 40.
 
-Para la resolución pronta y expedita de los medios de impugnación, por economía procesal o cuando la naturaleza del acto o resolución impugnada así lo requiera, por acuerdo del Presidente del Tribunal, la Secretaría General de Acuerdos ordenará su acumulación, la cual se sujetará a lo siguiente:
+Para la resolución pronta y expedita de los medios de impugnación, por economía procesal o cuando la naturaleza del acto o resolución impugnada así lo requiera:
 
 > <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -557,9 +575,13 @@ II. La acumulación podrá decretarse al inicio, durante la sustanciación o par
 
 III. La acumulación se efectuará siguiendo el orden de recepción de los expedientes, acumulándose al primero de ellos.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 41.
 
-Cuando se remitan en un mismo expediente al Tribunal, asuntos que por su propia naturaleza deban estudiarse y resolverse por separado, por acuerdo del Presidente del Tribunal, la Secretaría General de Acuerdos procederá a la separación correspondiente.
+Cuando se remitan en un mismo expediente al Tribunal, asuntos que por su propia naturaleza deban estudiarse y resolverse por separado, por acuerdo Plenario del Tribunal a propuesta del Magistrado Instructor, la Secretaría General de Acuerdos procederá a la separación correspondiente.
+
+Asimismo podrá reencauzarse de inicio un medio de impugnación, por acuerdo Plenario del Tribunal un medio de impugnación que erróneamente haya sido referido por el actor.
 
 ###### Artículo 42.
 
@@ -693,9 +715,11 @@ Las notificaciones se realizarán a quien corresponda, a más tardar el día sig
 
 El partido político, coalición o candidato independiente cuyo representante haya estado presente en la sesión del órgano del Instituto que emitió el acuerdo o resolución que se impugne, se entenderá automáticamente notificado del acto o resolución correspondiente para todos los efectos legales.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 57.
 
-En casos urgentes o extraordinarios, las notificaciones de los acuerdos de requerimiento a los órganos electorales, podrán hacerse por vía telegráfica o a través de fax y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse su recibo.
+En casos urgentes o extraordinarios, las notificaciones de los acuerdos de requerimiento a los órganos electorales, podrán hacerse por vía telegráfica, a través de fax o por la vía más expedita y surtirán sus efectos a partir de que se tenga constancia de su recepción o se acuse su recibo.
 
 ###### Artículo 58.
 
@@ -715,9 +739,11 @@ IV. Cuando se omita señalar domicilio, el señalado no resulte cierto o se encu
 
 V. En todos los casos el funcionario responsable de la notificación deberá asentar la razón correspondiente.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 60.
 
-Los acuerdos o resoluciones dictados en la sustanciación de los medios de impugnación, se notificarán por estrados, con excepción de los requerimientos que deberán hacerse por oficio, por vía telegráfica o por fax, según se señale en el propio acuerdo o resolución.
+Los acuerdos o resoluciones dictados en la sustanciación de los medios de impugnación, se notificarán por estrados, con excepción de los requerimientos que deberán hacerse por oficio, por vía telegráfica, a través de fax o por la vía más expedita según se señale en el propio acuerdo o resolución.
 
 > <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2003)</small>
 
@@ -733,7 +759,9 @@ II. A la autoridad u órgano partidista señalado como responsable del acto o re
 
 III. A los terceros interesados y coadyuvantes, personalmente cuando hubiesen señalado domicilio en la Capital del Estado, o por estrados cuando no lo señalen.
 
-Las notificaciones a que se refiere este Artículo, se harán dentro de las veinticuatro horas siguientes de haberse dictado la sentencia o resolución que se notifica.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Las notificaciones a que se refiere este Artículo, se harán al día siguiente de haberse dictado la sentencia o resolución que se notifica.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
@@ -941,11 +969,27 @@ II. Alguna o algunas de las causas señaladas en el Artículo 82 de este ordenam
 
 III. No se instalen el veinte por ciento o más de las casillas electorales que correspondan al municipio de que se trate.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 87.
 
 La elección de Gobernador, de Diputados de mayoría relativa o de los Ayuntamientos será nula, cuando en cualquier etapa del proceso electoral, se cometan violaciones graves y sistemáticas a los principios rectores electorales, y que las mismas sean determinantes para el resultado de la elección.
 
-También podrá declararse la nulidad de una elección cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, en el Estado, Municipio o Distrito y se encuentren fehacientemente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección.
+Podrá declararse la nulidad de una elección cuando se hayan cometido en forma generalizada violaciones sustanciales en la jornada electoral, en el Estado, Municipio o Distrito y se encuentren fehacientemente acreditadas y se demuestre que las mismas fueron determinantes para el resultado de la elección.
+
+Las elecciones locales serán nulas por violaciones graves, dolosas y determinantes en los casos previstos en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Dichas violaciones deberán acreditarse de manera objetiva, material, sistemática y generalizada. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+
+En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+Se entenderá por violaciones graves, aquellas conductas irregulares que produzcan una afectación sustancial a los principios constitucionales en la materia y pongan en peligro el proceso electoral y sus resultados.
+
+Se calificarán como dolosas aquellas conductas realizadas con pleno conocimiento de su carácter ilícito, llevadas a cabo con la intención de obtener un efecto indebido en los resultados del proceso electoral.
+
+Para efectos de lo dispuesto en la Base VI del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que se está en presencia de cobertura informativa indebida cuando, tratándose de programación y de espacios informativos o noticiosos, sea evidente que, por su carácter reiterado y sistemático, se trata de una actividad publicitaria dirigida a influir en las preferencias electorales de los ciudadanos y no de un ejercicio periodístico.
+
+A fin de salvaguardar las libertades de expresión, información y fortalecer el Estado democrático, no serán objeto de inquisición administrativa o judicial, ni censura, las entrevistas, opiniones, editoriales, y el análisis de cualquier índole que, sin importar el formato sean el reflejo de la propia opinión o creencias de quien las emite.
 
 ## TITULO SEXTO. DEL JUICIO DE NULIDAD
 
@@ -1007,11 +1051,7 @@ IV. El 5 de agosto del año de la elección, en caso de que se impugne el cómpu
 
 V. El 15 de agosto del año de la elección, en caso de que se impugnen los cómputos y asignaciones de Regidores por el principio de representación proporcional.
 
-## TITULO SEPTIMO. DEL JUICIO PARA LA PROTECCION
-
-DE LOS DERECHOS POLITICO ELECTORALES
-
-DEL CIUDADANO QUINTANARROENSE
+## TITULO SEPTIMO. DEL JUICIO PARA LA PROTECCION DE LOS DERECHOS POLITICO ELECTORALES DEL CIUDADANO QUINTANARROENSE
 
 ### Capítulo Único. De la Procedencia y Reglas Particulares
 
@@ -1146,3 +1186,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
