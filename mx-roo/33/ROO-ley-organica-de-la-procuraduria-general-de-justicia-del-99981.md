@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-99981"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-24"
-last_updated: "2014-12-19"
+last_updated: "2015-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número 113 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -383,13 +383,17 @@ c) Fiscalía Especializada en la Investigación de Robo de Vehículos;
 
 d) Fiscalía Especializada en Investigación de Delitos Contra la Salud, en su modalidad de Narcomenudeo,
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-e) Fiscalía Especializada en Extinción de Dominio, y
+e) Fiscalía Especializada en Extinción de Dominio;
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-f) Fiscalía Especializada en Delitos cometidos en Contra de los Migrantes;
+f) Fiscalía Especializada en Delitos cometidos en Contra de los Migrantes, y
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+g) Fiscalía Especializada en Materia de Delitos Electorales.
 
 IX. La siguientes Unidades:
 
@@ -1741,9 +1745,57 @@ Además, contará con el número de agentes del Ministerio Público y personal q
 
 Para efectos de los asuntos que conocerá la Fiscalía Especializada en Delitos cometidos en Contra de los Migrantes, se entenderá por Migrante a cualquier persona física que sale de su país de origen y que por cualquier tipo de motivación, transita o llega al territorio del Estado, sin importar sus estatus migratorio.
 
-#### SECCIÓN XVII. DE LA UNIDAD DE DERECHOS HUMANOS
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCIÓN XVIII. DE LA UNIDAD DE JUSTICIA ALTERNATIVA PENAL
+#### SECCIÓN XVI TER. DE LA FISCALÍA ESPECIALIZADA EN MATERIA DE DELITOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 65 Quinquies.
+
+Son funciones y obligaciones de la Fiscalía Especializada en materia de Delitos Electorales, además de las inherentes al Ministerio Publico, bajo el mando, supervisión y responsabilidad de su Titular, las siguientes:
+
+I. Conocer de las denuncias y querellas que se presenten, por hechos que pudieran ser constitutivos de los delitos de su competencia de conformidad con la Ley General en Materia de Delitos Electorales;
+
+II. Recibir y atender toda denuncia o aviso que tenga relación con hechos posiblemente constitutivos de los delitos de su especialidad de conformidad con la Ley General en Materia de Delitos Electorales;
+
+III. Atraer y recibir las investigaciones que se hayan iniciado en unidades diversas, por los delitos de su especialidad, para continuar con su atención y resolución procedente;
+
+IV. Dirigir la investigación de los delitos que conozca, practicando y ordenando para ello todas las actividades que resulten necesarias para su comprobación y la identificación de quien lo cometió o participó en su comisión, en los términos de la Ley General en Materia de Delitos Electorales y demás disposiciones legales aplicables;
+
+V. Solicitar al Procurador, la atracción de los asuntos que tengan vinculación con los delitos que persigue, y las materias que tienen encomendadas, de acuerdo con su especialidad;
+
+VI. Acordar y en su caso, solicitar al órgano jurisdiccional, la práctica de las actividades necesarias para la investigación, así como la aplicación de las medidas cautelares y todas aquellas que resulten pertinentes y la legislación así lo establezca;
+
+VII. Dictar el aseguramiento de bienes a productos relacionados con el delito de su especialidad, conforme a lo dispuesto en los ordenamientos legales aplicables;
+
+VIII. Solicitar y recabar de las dependencias y entidades de la administración pública federal y estatal, así como de los demás Estados y Municipios de la República, en los términos de las disposiciones legales aplicables, los informes, opiniones, documentos, dictámenes y demás elementos necesarios para la investigación de los delitos de su especialidad;
+
+IX. Solicitar y recabar de las personas físicas y morales, los informes, documentos y objetos que se consideren necesarios para la adecuada investigación del delito de su especialidad;
+
+X. Resolver sobre el ejercicio de la acción penal en la forma establecida por la ley;
+
+XI. Llevar el registro de los hechos delictivos que sean de su conocimiento, a efecto de realizar las estadísticas por el área correspondiente;
+
+XII. Intercambiar información referente a su especialidad, con las autoridades estatales y federales;
+
+XIII. Acordar con el Procurador los asuntos de su competencia, y
+
+XIV. Las demás que le atribuyan la Ley General en Materia de Delitos Electorales y otras disposiciones legales o que el Procurador le encomiende.
+
+Concluidos los asuntos de la competencia derivados del proceso electoral local, el Procurador podrá encomendarle asuntos distintos a la materia electoral.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 65 Sexties. La Fiscalía Especializada en Materia de Delitos Electorales deberá de contar con los recursos humanos, financieros y materiales que requiera para su efectiva operación.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 65 Septies.
+
+La coordinación de la Fiscalía Especializada en Materia de Delitos Electorales con la Procuraduría General de la República, por conducto de la Fiscalía Especializada en materia de Delitos Electorales se llevará a cabo de conformidad con el artículo 24 de la Ley General en Materia de Delitos Electorales.
+
+#### SECCIÓN XVII. DE LA UNIDAD DE DERECHOS HUMANOS
 
 ###### Artículo 66.
 
@@ -1789,7 +1841,7 @@ XIX. Dirigir unidades de protección y promoción de los derechos humanos instal
 
 XX. Las demás que le atribuyan otras disposiciones legales o que el Procurador le encomiende.
 
-#### SECCIÓN I. DEL OFRECIMIENTO Y DESAHOGO DE LAS PRUEBAS
+#### SECCIÓN XVIII. DE LA UNIDAD DE JUSTICIA ALTERNATIVA PENAL
 
 ###### Artículo 67.
 
@@ -3097,7 +3149,7 @@ El elemento de la Policía Ministerial al ser apartado del cargo, ya sea por sus
 
 ### CAPÍTULO VII. DE LAS PRUEBAS
 
-#### SECCIÓN II. PRUEBA DOCUMENTAL
+#### SECCIÓN I. DEL OFRECIMIENTO Y DESAHOGO DE LAS PRUEBAS
 
 ###### Artículo 163.
 
@@ -3147,7 +3199,7 @@ Al ofrecer la prueba de inspección se deberá indicar con precisión el objeto 
 
 No será admisible la prueba de inspección sobre documentos.
 
-#### SECCIÓN III. PRUEBA PERICIAL
+#### SECCIÓN II. PRUEBA DOCUMENTAL
 
 ###### Artículo 171.
 
@@ -3219,7 +3271,7 @@ III. Los documentos cuya letra o firma ha sido judicialmente declarada propia po
 
 IV. El escrito impugnado en la parte en que reconozca la letra como suya aquél a quien perjudique.
 
-#### SECCIÓN IV. DEL RECONOCIMIENTO O INSPECCIÓN OCULAR
+#### SECCIÓN III. PRUEBA PERICIAL
 
 ###### Artículo 182.
 
@@ -3237,7 +3289,7 @@ El perito tercero en discordia será nombrado por el Secretario Instructor. Los 
 
 Cuando la diligencia de que se trate deba presidirla el Secretario Instructor se señalará lugar, día y hora para que aquella se practique. En cualquiera otro caso se fijará a los peritos un término prudente para que presenten el dictamen correspondiente. El Secretario Instructor puede en todo caso formular a los peritos cuestiones que sean pertinentes al momento que emitan su opinión técnica.
 
-#### SECCIÓN V. PRUEBA TESTIMONIAL
+#### SECCIÓN IV. DEL RECONOCIMIENTO O INSPECCIÓN OCULAR
 
 ###### Artículo 185.
 
@@ -3253,7 +3305,7 @@ Del reconocimiento se levantará acta, que firmarán los que a él concurran, as
 
 Cuando fuere necesario se levantarán planos, grabaciones de audio o video o se sacarán vistas fotográficas del lugar u objetos inspeccionados.
 
-#### SECCIÓN VI. OTROS ELEMENTOS PROBATORIOS
+#### SECCIÓN V. PRUEBA TESTIMONIAL
 
 ###### Artículo 187.
 
@@ -3301,13 +3353,15 @@ El Secretario Instructor tendrá la más amplia facultad para hacer a los testig
 
 El Secretario Instructor podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
 
-#### SECCIÓN VII. VALORACIÓN
+#### SECCIÓN VI. OTROS ELEMENTOS PROBATORIOS
 
 ###### Artículo 196.
 
 Para acreditar hechos o circunstancias que tengan relación con el asunto que se ventila, pueden las partes presentar fotografías, copias fotostáticas, cintas cinematográficas u otras producciones fotográficas, registros dactiloscópicos, fonográficos, grabaciones de audio o video y, en general, todos aquellos elementos aportados por los descubrimientos de la ciencia, así como los demás medios que produzcan convicción.
 
 La parte que presente esos medios de prueba deberá ministrar al Órgano Auxiliar de Instrucción en el momento en que así lo requiera, los aparatos o elementos necesarios para que pueda apreciarse el valor de los registros y reproducirse los sonidos y figuras; apreciándolos de ese modo y apercibiéndolos que de no proporcionarlos oportunamente se declarará desierta la prueba.
+
+#### SECCIÓN VII. VALORACIÓN
 
 ###### Artículo 197.
 
@@ -3482,3 +3536,9 @@ SEGUNDO. El Consejo de la Judicatura del Estado deberá aprobar y publicar el Pr
 TERCERO. La Procuraduría General de Justicia del Estado deberá aprobar y publicar el Programa para la atención y defensa de las personas en condición de vulnerabilidad en el Periódico Oficial del Estado de Quintana Roo, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Para garantizar el cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación del Estado, establecerá las partidas presupuestales pertinentes en el Presupuesto de Egresos del Estado, a efecto de que la Fiscalía Especializada en Materia de Delitos Electorales cuente con los recursos humanos, financieros y materiales que requiera para su efectiva operación.
