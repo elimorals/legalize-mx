@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2014-04-02"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1184,13 +1184,17 @@ I. Directamente, a través de su propio personal e instalaciones;
 
 II. Indirectamente, en virtud de convenios con otros organismos públicos o particulares, para que se encarguen de impartir los servicios del ramo de enfermedades y maternidad y proporcionar las prestaciones en especie y subsidios del ramo de riesgos de trabajo, siempre bajo la vigilancia y responsabilidad del Instituto. Los convenios fijarán el plazo de su vigencia, la amplitud del servicio subrogado, los pagos que deban hacerse, la forma de cubrirlos y las causas y procedimientos de terminación, así como las demás condiciones pertinentes;
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
 
-III. Asimismo, podrá celebrar convenios con quienes tuvieren establecidos servicios médicos y hospitalarios, pudiendo convenirse, si se tratare de patrones con obligación al seguro, en la reversión de una parte de la cuota patronal y obrera en proporción a la naturaleza y cuantía de los servicios relativos. En dichos convenios se pactará, en su caso, el pago de subsidios mediante un sistema de reembolsos. Estos convenios no podrán celebrarse sin la previa anuencia de los trabajadores o de su organización representativa, y
+III. Asimismo, podrá celebrar convenios con quienes tuvieren establecidos servicios médicos y hospitalarios, pudiendo convenirse, si se tratare de patrones con obligación al seguro, en la reversión de una parte de la cuota patronal y obrera en proporción a la naturaleza y cuantía de los servicios relativos. En dichos convenios se pactará, en su caso, el pago de subsidios mediante un sistema de reembolsos. Estos convenios no podrán celebrarse sin la previa anuencia de los trabajadores o de su organización representativa;
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
 
-IV. Mediante convenios de cooperación y colaboración con instituciones y organismos de salud de los sectores públicos federal, estatal y municipal, en términos que permitan el óptimo aprovechamiento de la capacidad instalada de todas las instituciones y organismos. De igual forma, el Instituto podrá dar servicio en sus instalaciones a la población atendida por dichas instituciones y organismos, de acuerdo a su disponibilidad y sin perjuicio de su capacidad financiera.
+IV. Mediante convenios de cooperación y colaboración con instituciones y organismos de salud de los sectores públicos federal, estatal y municipal, en términos que permitan el óptimo aprovechamiento de la capacidad instalada de todas las instituciones y organismos. De igual forma, el Instituto podrá dar servicio en sus instalaciones a la población atendida por dichas instituciones y organismos, de acuerdo a su disponibilidad y sin perjuicio de su capacidad financiera, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
+
+V. Para el Instituto, será obligatoria la atención de las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en términos de las disposiciones aplicables para tal efecto, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 En todo caso, las personas, empresas o entidades a que se refiere este artículo, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les exigiere y a sujetarse a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el mismo Instituto, en los términos de los reglamentos que con respecto a los servicios médicos se expidan.
 
@@ -2884,7 +2888,7 @@ XV. Establecer las condiciones de aseguramiento y cotización de aquellos grupos
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
-XVI. Expedir bases para extender, hasta los veinticinco años de edad, los derechos a las prestaciones en especie del seguro de enfermedades y maternidad, que se otorgarán dentro del territorio nacional, a los hijos de trabajadores mexicanos asegurados que laboren en el extranjero y que se encuentren estudiando fuera del país en planteles educativos equiparables a los del sistema educativo nacional, y (sic)
+XVI. Expedir bases para extender, hasta los veinticinco años de edad, los derechos a las prestaciones en especie del seguro de enfermedades y maternidad, que se otorgarán dentro del territorio nacional, a los hijos de trabajadores mexicanos asegurados que laboren en el extranjero y que se encuentren estudiando fuera del país en planteles educativos equiparables a los del sistema educativo nacional, y
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -2962,7 +2966,7 @@ VIII. Nombrar y remover a los trabajadores de confianza a que se refiere el art�
 
 En cualquier caso los trabajadores de confianza a que se refiere esta fracción y la anterior deberán contar con la capacidad, experiencia y demás requisitos que se determinen en el Estatuto a que se refiere el artículo 286 I de esta Ley;
 
-IX. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines del Instituto, y (sic)
+IX. Realizar toda clase de actos jurídicos necesarios para cumplir con los fines del Instituto, y
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -4133,3 +4137,9 @@ D.O.F. 2 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+D.O.F. 12 DE NOVIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
