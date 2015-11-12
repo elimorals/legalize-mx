@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2014-12-20"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -425,7 +425,11 @@ d) La Secretaría de Planeación, Administración y Finanzas;
 
 e) El Registro Estatal;
 
-f) La Fiscalía General del Estado, por conducto de la Policía Vial;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+f) La Secretaría de Movilidad del Estado, por conducto de la Policía Vial;
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -567,7 +571,11 @@ XII. Vigilar y controlar en los términos de lo establecido por esta ley y sus R
 
 XIII. Expedir las licencias para operar o conducir vehículos;
 
-XIV. Actuar en forma coordinada y coadyuvar con la policía vial de la Fiscalía General;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Detentar el mando de la policía vial;
 
 XV. Actuar en forma coordinada y coadyuvar con la Fiscalía General, y con el Ministerio Público en los casos que señale la ley, y
 
@@ -649,9 +657,13 @@ III. La participación que corresponda al Estado o a los municipios, respecto a 
 
 ### Capítulo V. De las funciones de la policía vial del estado y tránsito municipal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
-Además de las atribuciones que establecen la Ley Orgánica del Poder Ejecutivo, la Ley Orgánica de la Fiscalía General y la Ley del Sistema de Seguridad Pública, todas del Estado de Jalisco; son funciones de la policía vial estatal y de la policía de tránsito municipal, en su caso:
+Además de las atribuciones que establece la Ley del Sistema de Seguridad Pública para el Estado de Jalisco; son funciones de la policía vial estatal y de la policía de tránsito municipal, en su caso:
 
 I. Orientar, participar y colaborar con la población en general, tendiente a la prevención tanto de accidentes viales, como de infracciones a las normas de tránsito;
 
@@ -1987,7 +1999,11 @@ II. La antigüedad de cada uno de los concesionarios que hasta entonces se encue
 
 III. El parque vehicular con que respectivamente cuenta cada uno de los concesionarios previamente establecidos y autorizados por el Estado;
 
-IV. Los informes que rinda la policía vial dependiente de la Fiscalía General o los agentes de tránsito municipales, que corresponda respecto de la actuación de los concesionarios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+IV. Los informes que rinda la policía vial o los agentes de tránsito municipales, que corresponda respecto de la actuación de los concesionarios;
 
 V. Las quejas que los usuarios interpongan ante la Secretaría, y
 
@@ -2329,6 +2345,10 @@ Para acreditar los elementos como prestadores de servicio, los concesionarios y,
 
 ### Capítulo II. De las sanciones administrativas en materia de movilidad y transporte
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 167.
 
 Deberán inscribirse en el registro estatal:
@@ -2375,6 +2395,10 @@ El registro estatal expedirá, a quienes las soliciten, copias certificadas de l
 
 ### Capítulo III. De las sanciones administrativas en materia del servicio del transporte público
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 169.
 
 Procederá aplicar como medida de seguridad el retiro de la circulación de un vehículo, mismo que será puesto bajo resguardo de los depósitos autorizados, ya sean públicos o concesionados para esos fines, en los siguientes casos:
@@ -2393,11 +2417,19 @@ VI. El vehículo sea de uso particular y porte los colores asignados por la Secr
 
 VII. El vehículo que circule con baja administrativa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 170.
 
-La Fiscalía General, por conducto de la policía vial o la policía de tránsito municipal, según corresponda, en los casos previstos en el artículo anterior, retirarán de la circulación a los vehículos, acatando las siguientes disposiciones:
+La Secretaría, por conducto de la policía vial o la policía de tránsito municipal, según corresponda, en los casos previstos en el artículo anterior, retirarán de la circulación a los vehículos, acatando las siguientes disposiciones:
 
-I. La Fiscalía General, a través de sus policías viales o la policía de tránsito municipal, notificará al propietario del vehículo o a su conductor u operador que, con el carácter de medida de seguridad, el vehículo deberá ser retirado de la circulación, señalando los motivos e indicando su fundamento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+I. La Secretaría, a través de sus policías viales o la policía de tránsito municipal, notificará al propietario del vehículo o a su conductor u operador que, con el carácter de medida de seguridad, el vehículo deberá ser retirado de la circulación, señalando los motivos e indicando su fundamento;
 
 II. En el mismo acto, al particular notificado le deberán indicar el depósito público o privado al cual deberán trasladar el vehículo; para lo cual la policía vial o la policía de tránsito municipal, deberá aplicar las disposiciones que se especifican en el reglamento de esta ley;
 
@@ -2407,9 +2439,13 @@ IV. En el caso previsto en la fracción IV del artículo anterior, si el conduct
 
 V. En todo caso, el policía vial o la policía de tránsito municipal que intervenga levantará el acta correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 171.
 
-La Fiscalía General, por medio de sus policías viales y la policía de tránsito municipal, como medida de seguridad, podrán retirar un vehículo de la circulación y trasladarlo a un depósito público o, en su caso, privado sujeto a concesión, en contra de la voluntad de su propietario o conductor, en los supuestos siguientes:
+La Secretaría, por medio de sus policías viales y la policía de tránsito municipal, como medida de seguridad, podrán retirar un vehículo de la circulación y trasladarlo a un depósito público o, en su caso, privado sujeto a concesión, en contra de la voluntad de su propietario o conductor, en los supuestos siguientes:
 
 I. Participación en flagrante delito en el que el vehículo sea instrumento del mismo;
 
@@ -2437,7 +2473,7 @@ Los elementos de la policía vial no están autorizadas (sic) para recoger al op
 
 ###### Artículo 174.
 
-Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente, se harán constar por medio de cédula de notificación de infracción por la Fiscalía General, por conducto de la policía vial, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
+Las infracciones en materia de movilidad y transporte, serán sancionadas administrativamente, se harán constar por medio de cédula de notificación de infracción por la Secretaría de Movilidad, por conducto de la policía vial, en los términos de esta ley y su reglamento, y se aplicarán al propietario o conductor del vehículo. Ambos responderán solidariamente del pago de la sanción.
 
 El monto de las sanciones se determina en días de salario mínimo general, vigente en la zona económica en donde se cometan las infracciones, de la siguiente manera:
 
@@ -2709,7 +2745,7 @@ Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 1
 
 ###### Artículo 189.
 
-Las infracciones en materia de transporte serán sancionadas administrativamente mediante cédula de notificación de infracción por la Fiscalía General, a través de la policía vial, en los términos de esta ley y su Reglamento, y se aplicarán al concesionario, subrogatario, permisionario, propietario o conductor del vehículo, todos ellos responderán solidariamente del pago de la sanción, con excepción de las sanciones y procedimientos cuyo objeto sea la suspensión o cancelación de licencia o gafete.
+Las infracciones en materia de transporte serán sancionadas administrativamente mediante cédula de notificación de infracción por la Secretaría de Movilidad, a través de la policía vial, en los términos de esta ley y su Reglamento, y se aplicarán al concesionario, subrogatario, permisionario, propietario o conductor del vehículo, todos ellos responderán solidariamente del pago de la sanción, con excepción de las sanciones y procedimientos cuyo objeto sea la suspensión o cancelación de licencia o gafete.
 
 ###### Artículo 190.
 
@@ -2811,9 +2847,13 @@ II. Las tesorerías municipales y sus dependencias recaudadoras.
 
 Cuando las dependencias a que se refiere la fracción I de este artículo, ejecuten una sanción económica impuesta por los municipios, el fisco estatal percibirá los gastos de ejecución y hasta un máximo del quince por ciento de las multas y recargos, por concepto de gastos de administración.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 198.
 
-Para elaborar las cédulas de notificación de infracciones serán competentes, la autoridad municipal en materia de vialidad y tránsito; la Fiscalía General por conducto de la policía vial; así como la Secretaría.
+Para elaborar las cédulas de notificación de infracciones serán competentes, la autoridad municipal en materia de vialidad y tránsito; la Secretaría de Movilidad por conducto de la policía vial.
 
 De igual forma, corresponderá a la Secretaría en su ámbito de atribuciones, la calificación e imposición de las sanciones correspondientes, así como las medidas de seguridad que procedan, a través de sus Unidades Administrativas en materia Jurídica y de Transporte Público según su competencia, quienes deberán fundar y motivar sus actos y notificarlos de conformidad con la presente ley y sus reglamentos.
 
@@ -3100,3 +3140,19 @@ P.O. 20 DE DICIEMBRE DE 2014.
 DECRETO NÚMERO 25155/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 5 FRACCIÓN XI, 18 FRACCIÓN I INCISO G) Y 71 FRACCIÓN VI, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día en que entre en vigor la reforma al artículo 53 de la Constitución Política del Estado de Jalisco, y previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El personal que conforma el cuerpo de la Policía Vial de Jalisco, pasará de manera íntegra a depender de la Secretaría de Movilidad. Los derechos laborales de dicho personal deberán ser íntegramente respetados.
+
+TERCERO. El titular del Poder Ejecutivo deberá girar las instrucciones pertinentes para que se adecúen las disposiciones reglamentarias aplicables.
+
+CUARTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que, en coordinación con la Secretaría de Movilidad y la Fiscalía General del Estado, se realicen las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este Decreto.
+
+QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuarán vigentes los nombramientos y demás cargos existentes dentro de la Policía Vial, así como los reglamentos y manuales actualmente aplicables.
+
+SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaría de Movilidad.
+
+SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
