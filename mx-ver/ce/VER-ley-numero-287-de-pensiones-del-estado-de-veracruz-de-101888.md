@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-287-de-pensiones-del-estado-de-veracruz-de-101888"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-21"
-last_updated: "2014-07-21"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 287 DE PENSIONES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 21 de julio de 2014.
 
@@ -209,15 +209,15 @@ Las controversias judiciales que surjan sobre la aplicación de esta ley, así c
 
 ### CAPÍTULO SEGUNDO. De los Sueldos, Cuotas y Aportaciones
 
-(NOTA: EL 18 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
-Los recursos para cubrir el costo de las prestaciones establecidas en esta ley y los gastos de administración correspondientes se obtendrán de las cuotas y aportaciones que están obligados a pagar los trabajadores, PENSIONISTAS y el patrón.
+Los recursos para cubrir el costo de las prestaciones establecidas en esta ley y los gastos de administración correspondientes se obtendrán de las cuotas y aportaciones que están obligados a pagar los trabajadores y el patrón.
 
-(NOTA: EL 18 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-Los gastos administrativos a que se refiere el párrafo anterior nunca excederán del 1.68% del total de los sueldo (sic) de cotización Y PENSIONES GRAVABLES que se generen en el año fiscal correspondiente; lo no ejercido deberá destinarse a la reserva técnica.
+Los gastos administrativos a que se refiere el párrafo anterior nunca excederán del 1.68% del total de los sueldos de cotización que se generen en el año fiscal correspondiente; lo no ejercido deberá destinarse a la reserva técnica.
 
 Los recursos que ingresen al instituto por concepto de cuotas y aportaciones y la reserva técnica, se podrán utilizar para cubrir las prestaciones establecidas en la Ley a favor de los pensionistas.
 
@@ -229,11 +229,9 @@ El importe de las cuotas a cargo de los trabajadores a que se refiere el artícu
 
 El patrón cubrirá al Instituto como aportaciones, el equivalente al 20% del sueldo de cotización de sus trabajadores.
 
-(NOTA: EL 18 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 19.
 
-Los pensionistas aportarán al Instituto el 12% de la jubilación o pensión que disfruten. Queda exento de este porcentaje, la percepción que no exceda el monto equivalente a tres salarios mínimos generales elevado al mes correspondiente al área geográfica “A”, sobre el excedente se pagará la aportación. La aportación antes señalada se les descontará del pago mensual que reciban y el Instituto lo destinará a la reserva técnica.
+(DEROGADO, G.O. 12 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 20.
 
@@ -335,11 +333,9 @@ El director general del Instituto deberá ejercer las facultades de verificació
 
 Independientemente de lo anterior, el Órgano de Fiscalización Superior, al revisar anualmente las cuentas públicas de los patrones, verificará el cumplimiento de las obligaciones a cargo de los mismos, señaladas por esta ley, aplicará las sanciones correspondientes para el caso de incumplimiento y remitirá el resultado de dicha revisión al Instituto.
 
-(NOTA: EL 18 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2014, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 32.
 
-El trabajador o sus familiares derechohabientes para realizar cualquier trámite ante el Instituto deberán estar al corriente del pago de sus cuotas y aportaciones.
+(DEROGADO, G.O. 12 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 33.
 
@@ -953,9 +949,9 @@ El patrimonio del Instituto lo constituirán:
 
 I. Las propiedades, posesiones, derechos y obligaciones que al entrar en vigor esta ley integren el patrimonio del Instituto;
 
-(NOTA: EL 18 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2014, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-II. Las cuotas de los trabajadores Y PENSIONISTAS en los términos de esta ley;
+II. Las cuotas de los trabajadores en los términos de esta ley;
 
 III. Las aportaciones que hagan el patrón en los términos de esta ley;
 
@@ -1083,9 +1079,7 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 
 SEGUNDO. Quedan abrogadas la Ley Numero 20 de Pensiones del Estado de Veracruz publicada en la Gaceta Oficial Número 135 del 9 de noviembre de 1996, el Decreto Número 2 por el que se reforma y adiciona diversos artículos de la Ley de Pensiones del Estado de Veracruz publicado en la Gaceta Oficial Número Extraordinario 356 del 26 de noviembre de 2007, el Decreto Número 538 por el que se reforman diversos artículos de la Ley de Pensiones del Estado publicado en la Gaceta Oficial Número Extraordinario 51 del 11 de febrero de 2009 y el Decreto Número 241 que reforma el artículo 112 de la Ley de Pensiones del Estado de Veracruz publicado en la Gaceta Oficial Número 59 del 11 de febrero de 2014. Así mismo, quedan abrogadas todas aquellas disposiciones que se opongan al presente ordenamiento.
 
-(NOTA: EL 18 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 101/2014, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TERCERO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-TERCERO. EL DESCUENTO DEL PORCENTAJE A QUE SE REFIERE EL ARTÍCULO 19 DE ESTA LEY, ÚNICAMENTE SERÁ APLICABLE A LOS TRABAJADORES QUE, A PARTIR DE LA ENTRADA EN VIGOR DE ESTE ORDENAMIENTO, CUMPLAN CON LOS REQUISITOS EXIGIDOS POR LA MISMA PARA OBTENER LA JUBILACIÓN O PENSIÓN, QUEDANDO EXCLUIDOS DE DICHA DEDUCCIÓN LOS PENSIONISTAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y LOS TRABAJADORES QUE HAYAN CUMPLIDO CON LA EDAD Y TIEMPO DE COTIZACIÓN CONFORME A LA LEY ABROGADA.
+TERCERO. (DEROGADO, G.O. 12 DE NOVIEMBRE DE 2015)
 
 CUARTO. Se considerarán trabajadores en transición a aquellos que ingresaron al servicio con fecha anterior a la entrada en vigor de la presente Ley, con excepción de los que ingresaron al servicio antes del 01 de enero de 1997, los cuales tendrán derecho a una pensión por jubilación al reunir las siguientes condiciones:
 
@@ -1220,3 +1214,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 12 DE NOVIEMBRE DE 2015.
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
