@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2014-03-01"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -213,9 +213,17 @@ XLIII. Promover mecanismos de participación pública de los productores en el m
 
 XLIV. Expedir, de acuerdo con esta ley y demás relativas de la materia, las autorizaciones que correspondan, y proponer las disposiciones normativas relacionadas con la materia;
 
-XLV. Ordenar, fomentar y promover el desarrollo de la acuacultura y la pesca, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-XLVI. Las demás que establezca la presente ley y le confiera la Federación.
+XLV. Ordenar, fomentar y promover el desarrollo de la acuacultura y la pesca;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XLVI. Establecer con carácter público, operar y mantener actualizado el Registro, participar en la integración del Registro y en la integración del Registro Nacional de Pesca y Acuacultura, de conformidad con las disposiciones legales aplicables, a través de la expedición de la Credencial Única Agroalimentaria, con el fin de ejecutar las acciones reguladas a que se refiere la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XLVII. Las demás que establezca la presente Ley y le confiera la Federación.
 
 ###### Artículo 7.
 
@@ -465,43 +473,49 @@ V. Publicará con toda oportunidad y divulgará por los medios idóneos el anuar
 
 ### CAPÍTULO III. DEL REGISTRO
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 28.
 
 La Secretaría, a través del IAPEJ, establecerá el Registro, cuya función principal será la matriculación y actualización de la siguiente información:
 
-I. El número de granjas o establecimientos acuícolas, unidades de manejo acuícola, su denominación y su ubicación en el estado;
+I. El número de granjas o establecimientos acuícolas, unidades de manejo acuícola, su denominación y su ubicación en el Estado;
 
 II. Los permisos y concesiones otorgados para la realización de actividades de acuacultura y pesca; las revalidaciones y las resoluciones de revocación de los mismos, que en términos del Sistema de Coordinación entre la Federación con el Estado prevé a través de los convenios respectivos;
 
-III. La clasificación de las granjas o establecimientos acuícolas y unidades de manejo acuícola con relación al tamaño económico, a las especies acuícolas que produzcan, y al tipo de aguas que utilicen para su funcionamiento, incluyendo parques, granjas y laboratorios en el estado.
+III. La clasificación de las granjas o establecimientos acuícolas y unidades de manejo acuícola con relación al tamaño económico, a las especies acuícolas que produzcan, y al tipo de aguas que utilicen para su funcionamiento, incluyendo parques, granjas y laboratorios en el Estado. Los criterios para la clasificación se establecerán en el reglamento de esta Ley;
 
-Los criterios para la clasificación se establecerán en el reglamento de esta ley;
-
-IV. La clasificación de las embarcaciones con número de serie y matricula correspondientes, así como sus características generales y técnicas de captura y artes de pesca que utilizan, destinadas a la pesca comercial;
+IV. La clasificación de las embarcaciones con número de serie y matrícula correspondientes, así como sus características generales y técnicas de captura y artes de pesca que utilizan, destinadas a la pesca comercial;
 
 V. Los programas de ordenamiento y planes de manejo acuícola y pesquero;
 
-VI. Los prestadores de servicios dedicados a la pesca deportivo- recreativa;
+VI. Los prestadores de servicios dedicados a la pesca deportivo-recreativa;
 
-VII. Las personas físicas o jurídicas que se dediquen a la pesca, la acuacultura y a la reproducción, cultivo y comercialización de recursos hidrobiológicos de ornato en el estado;
+VII. Las personas físicas o jurídicas que se dediquen a la pesca, la acuacultura y la reproducción, cultivo y comercialización de recursos hidrobiológicos de ornato en el Estado;
 
 VIII. Las escuelas y los centros dedicados a la investigación o enseñanzas en materia de flora y fauna acuáticas, aprovechables para la acuacultura y la pesca;
 
-IX. Las resoluciones de imposición de sanciones en materia de acuacultura y pesca, y
+IX. Las resoluciones de imposición de sanciones en materia de acuacultura y pesca; y
 
-X. La demás información que se determine por ésta u otras leyes y sus disposiciones reglamentarias.
+X. La demás información que determine por esta u otras leyes y sus disposiciones reglamentarias.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 29.
 
-Las personas físicas o jurídicas que realicen actividades pesqueras o acuícolas, deberán presentar a la Secretaría la información y datos necesarios que ésta les solicite para mantener actualizadas las inscripciones a que se refiere el artículo anterior.
+Las personas físicas o jurídicas que realicen actividades pesqueras o acuícolas, deberán presentar a la Secretaría la información y datos necesarios que ésta les solicite para mantener actualizadas las inscripciones y registros a que se refiere el artículo anterior, con la correspondiente actualización de la información de su Credencial Única Agroalimentaria.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 30.
 
-La Secretaría, a través del IAPEJ, llevará el archivo físico o documental y electrónico que contenga la información inscrita en el Registro, de conformidad con el reglamento de esta Ley.
+La Secretaría, a través del IAPEJ, llevará el archivo físico o documental y electrónico que contenga la información inscrita en el Registro, a través de su Credencial Única Agroalimentaria, de conformidad con el reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 31.
 
-Las personas físicas o jurídicas que se dediquen a las actividades reguladas por esta ley, están obligadas a registrarse ante la Secretaría en un término de ciento veinte días naturales a partir de haber iniciado operaciones. La Secretaría expedirá el certificado de registro correspondiente.
+Las personas físicas o jurídicas que se dediquen a las actividades reguladas por esta Ley, están obligadas a registrarse ante la Secretaría en un término de ciento veinte días naturales a partir de haber iniciado operaciones. La Secretaría expedirá el certificado de registro correspondiente, conjuntamente con la Credencial Única Agroalimentaria que lo acredite.
 
 ###### Artículo 32.
 
@@ -631,11 +645,11 @@ V. Las normas aplicables en materia de preservación, protección, aprovechamien
 
 VI. La demás información que se determine en el reglamento de la presente ley.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 44.
 
-La Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Desarrollo Territorial y el Instituto de Información Territorial del Estado de Jalisco, participarán en la revisión del proyecto de la Carta Estatal Acuícola y Pesquera y emitirán el dictamen técnico correspondiente, para lo cual contarán con un plazo de treinta días hábiles contados a partir del día en que les sea entregado el proyecto, pudiendo solicitar información adicional si así lo requieren y emitir, en su caso, las observaciones y recomendaciones que se consideren pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el Instituto en la formulación del documento definitivo.
+La Secretaría de Medio Ambiente y Recursos Naturales, la Secretaría de Medio Ambiente y Desarrollo Territorial y el Instituto de Información Estadística y Geográfica del Estado de Jalisco, participarán en la revisión del proyecto de la Carta Estatal Acuícola y Pesquera y emitirán el dictamen técnico correspondiente, para lo cual contarán con un plazo de treinta días hábiles contados a partir del día en que les sea entregado el proyecto, pudiendo solicitar información adicional si así lo requieren y emitir, en su caso, las observaciones y recomendaciones que se consideren pertinentes, debidamente motivadas y fundamentadas, las cuales serán tomadas en cuenta por el Instituto en la formulación del documento definitivo.
 
 ## TÍTULO V. INSTRUMENTOS DE LA POLÍTICA PESQUERA
 
@@ -885,9 +899,11 @@ La Secretaría calificará las solicitudes; constatará que los permisionarios a
 
 Los permisos a que se refiere este título deberán otorgarse a las personas físicas o jurídicas, ya sea de nacionalidad mexicana o extranjera, siempre y cuando estas últimas cumplan con los requisitos de calidad migratoria correspondientes para ejercer la actividad que solicitan.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 78.
 
-La Secretaría, a través del IAPEJ, inscribirá en el registro los permisos que otorgue en los términos de la presente ley.
+La Secretaría, a través del IAPEJ, inscribirá en el registro, los permisos que otorgue en los términos de la presente Ley, así como la información de la Credencial Única Agroalimentaria que le corresponda a cada registro.
 
 ### CAPÍTULO IV. DE LOS PERMISOS PARA LA ACUACULTURA COMERCIAL, DE FOMENTO Y DIDÁCTICA
 
@@ -975,7 +991,7 @@ l) Número del Registro Nacional de Pesca;
 
 m) Número del Registro Estatal de Pesca,
 
-n) El comportamiento de los parámetros de potencial de hidrógeno (p.h.) (sic) y temperaturas de agua;
+n) El comportamiento de los parámetros de potencial de hidrógeno (p.h.) y temperaturas de agua;
 
 ñ) El muestreo poblacional, incluyendo biometría, crecimiento y población de los recursos acuícolas, y
 
@@ -1143,17 +1159,23 @@ La comercialización de especies ornamentales producto de la acuacultura, tanto 
 
 Toda persona física o jurídica dedicada a la venta de recursos hidrobiológicos ornamentales, tendrá la obligación de informar por escrito utilizando como medio un manual del usuario que contenga información detallada para las personas interesadas en adquirir dichas especies, sobre los riesgos y las consecuencias de que dichas especies llegasen a ser liberadas en aguas ajenas a su hábitat natural y el riesgo potencial que representan para los ecosistemas y las especies nativas.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 103.
 
-Toda persona física o jurídica, dedicada a la extracción del medio natural y comercialización de recursos hidrobiológicos ornamentales, queda obligada a inscribirse en el Registro, así como a permitir la inspección y control de sus actividades, quedando obligada a proporcionar datos estadísticos exactos a los representantes autorizados de la autoridad competente a efecto de mantener actualizada la Carta Estatal Acuícola y Pesquera.
+Toda persona física o jurídica, dedicada a la extracción del medio natural y comercialización de recursos hidrobiológicos ornamentales, queda obligada a inscribirse en el Registro, obteniendo como único medio de identificación para realizar su actividad la Credencial Única Agroalimentaria, así como a permitir la inspección y control de sus actividades, quedando obligada a proporcionar datos estadísticos exactos a los representantes autorizados de la autoridad competente a efecto de mantener actualizada la Carta Estatal Acuícola y Pesquera.
 
 ###### Artículo 104.
 
 Las personas físicas o jurídicas dedicadas a la captura del medio natural, a la reproducción y el cultivo de recursos hidrobiológicos ornamentales en medios controlados, así como aquellas que se dediquen a la comercialización de los mismos, se sujetarán a lo establecido en la Ley General, en la presente ley, las normas y leyes ambientales y la normatividad vigente para la acuacultura y la pesca.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 105.
 
-Toda persona física o jurídica dedicada al cultivo, captura y/o comercio de recursos hidrobiológicos ornamentales, tendrá un plazo de ciento veinte días naturales a partir de la entrada en vigor de la presente ley para quedar debidamente registradas en el Registro.
+Toda persona física o jurídica dedicada al cultivo, captura o comercio de recursos hidrobiológicos ornamentales, deberá estar registrada en el Registro y obtener su Credencial Única Agroalimentaria.
+
+Dicho registro deberá realizarse dentro de los ciento veinte días naturales a partir de haber iniciado operaciones.
 
 ## TÍTULO VII. DE LA PESCA
 
@@ -1263,7 +1285,9 @@ Se exceptúa del artículo anterior a los interesados en obtener permisos para l
 
 Los permisos para la pesca deportivo-recreativa sólo se otorgarán a personas físicas.
 
-La Secretaría, a través del IAPEJ, inscribirá en el Registro los permisos que otorgue en los términos de la presente ley.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+La Secretaría, a través del IAPEJ, inscribirá en el Registro los permisos que otorgue en los términos de la presente Ley, así como la información de la Credencial Única Agroalimentaria otorgada.
 
 ###### Artículo 122.
 
@@ -1869,7 +1893,9 @@ XIII. Capturar especímenes vivos de su medio natural para su estabulación y co
 
 XIV. Comerciar con organismos vivos y no informar al comprador por escrito sobre los riesgos para el medio ambiente y las especies nativas de liberar a dichos organismos fuera de su hábitat natural;
 
-XV. Incumplir, pasado el término establecido, con su obligación de inscripción en el Registro;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XV. Incumplir, pasado el término establecido, con su obligación de inscripción en el Registro y obtención de la Credencial Única Agroalimentaria;
 
 XVI. Omitir información a la Secretaría sobre cualquier emergencia de carácter sanitario que se presente durante el desarrollo del cultivo o el proceso de cosecha, y
 
@@ -2090,3 +2116,23 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 P.O. 1 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 25537/LX/15 POR EL QUE SE REFORMA EL ARTÍCULO 44 DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco”
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 25538/LX/15 POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, FRACCIONES XLV Y XLVI, 28, 29, 30, 31, 78, 103, 105, 121 PÁRRAFO SEGUNDO Y 198, FRACCIÓN XV; Y SE ADICIONA UNA FRACCIÓN XLVII AL ARTÍCULO 6 DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
+
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrá (sic) un plazo de ciento veinte días naturales contados a partir del 1° de enero de 2016 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
+
+CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
+
+QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias que se expidan durante el año 2015 tendrán vigencia por tres años.
