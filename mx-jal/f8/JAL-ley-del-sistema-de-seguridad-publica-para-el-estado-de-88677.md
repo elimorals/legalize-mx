@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-88677"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2014-12-20"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO 24988/LX/14 QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS, PUBLICADO EN EL P.O. DE 27 DE SEPTIEMBRE DE 2014, ENTRA EN VIGOR CONFORME A LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES AL ORDEN JURÍDICO DEL ESTADO DE JALISCO, APROBADA MEDIANTE DECRETO 24864/LX/14, PUBLICADO EN FECHA 11 DE ABRIL DEL 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -77,9 +77,9 @@ VII. Detectar y combatir los factores que genere la comisión de delitos y condu
 
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
-###### Artículo 3.
+###### Artículo 3°.
 
-° Para los efectos de esta ley, se debe entender por:
+Para los efectos de esta ley, se debe entender por:
 
 I. Carrera ministerial: al servicio profesional de carrera de las Instituciones de
 
@@ -105,7 +105,11 @@ IX. Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública, Prevención y
 
 X. Cuerpos de seguridad pública del Estado: las corporaciones a que se refiere el artículo 26 de la presente ley;
 
-XI. Elementos operativos: los integrantes de las instituciones de la Fiscalía General del Estado, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XI. Elementos operativos: los integrantes de las instituciones de la Fiscalía General del Estado, de la Policía Vial, dependiente de la Secretaría de Movilidad, de seguridad pública municipales, de procuración de justicia y peritos del Instituto Jalisciense de Ciencias Forenses, y a todos a quienes se les atribuya ese carácter mediante nombramiento, instrumento jurídico equivalente expedido por autoridad competente o realicen funciones de operadores o supervisores en los centros de comunicación o cabinas de radio de las instituciones de seguridad pública o lleven a cabo funciones operativas en las áreas previstas por el artículo 5° de esta ley;
 
 XII. Fiscal General: el titular de la Fiscalía General del Estado;
 
@@ -1151,9 +1155,13 @@ La permanencia es el resultado del cumplimiento constante de los requisitos esta
 
 Los requisitos de ingreso y permanencia para actuarios y secretarios del Ministerio Público serán establecidos en la Ley Orgánica de la Procuraduría.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 79.
 
-Son requisitos de ingreso para ministerios públicos, peritos y elementos operativos de las instituciones de seguridad pública los siguientes:
+Son requisitos de ingreso para ministerios públicos, mandos y elementos operativos de las instituciones de seguridad pública y policía vial los siguientes:
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
@@ -2350,6 +2358,22 @@ P.O. 20 DE DICIEMBRE DE 2014.
 DECRETO NÚMERO 25138/LX/14, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 79 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día en que entre en vigor la reforma al artículo 53 de la Constitución Política del Estado de Jalisco, y previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El personal que conforma el cuerpo de la Policía Vial de Jalisco, pasará de manera íntegra a depender de la Secretaría de Movilidad. Los derechos laborales de dicho personal deberán ser íntegramente respetados.
+
+TERCERO. El titular del Poder Ejecutivo deberá girar las instrucciones pertinentes para que se adecúen las disposiciones reglamentarias aplicables.
+
+CUARTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que, en coordinación con la Secretaría de Movilidad y la Fiscalía General del Estado, se realicen las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este Decreto.
+
+QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuarán vigentes los nombramientos y demás cargos existentes dentro de la Policía Vial, así como los reglamentos y manuales actualmente aplicables.
+
+SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaría de Movilidad.
+
+SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
 
 ## Título Noveno. De los servicios de seguridad privada
 
