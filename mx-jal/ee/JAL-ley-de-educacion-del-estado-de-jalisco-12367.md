@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2015-05-12"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -179,6 +179,10 @@ XXI.- Divulgar el desarrollo económico, cultural y social de las diversas regio
 
 XXII.- Promover el conocimiento, así como la adecuada, responsable y segura utilización de las nuevas tecnologías de la información, ponderando y difundiendo, en conjunto con los padres de familia, los alcances del derecho a la protección de los datos personales.
 
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XXIII.- Promover el conocimiento, la cultura y el respeto de los derechos humanos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 ###### ARTICULO 8o.
@@ -208,6 +212,10 @@ Para tal fin se implementarán programas permanentes de capacitación y orientac
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
 
 En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los estudiantes, lo harán del conocimiento inmediato de la autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+Además de promover en los educandos el conocimiento, la cultura y el respeto de los derechos humanos de las niñas, niños y adolescentes.
 
 ###### ARTICULO 10.
 
@@ -3850,3 +3858,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 12 DE MAYO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
