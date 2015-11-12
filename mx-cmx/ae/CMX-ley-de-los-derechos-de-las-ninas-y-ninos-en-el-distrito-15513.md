@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-ninas-y-ninos-en-el-distrito-15513"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-31"
-last_updated: "2015-03-10"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15513&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-12-27"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y NIÑOS EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MARZO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y CUARTO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 12 DE NOVIEMBRE DE 2015. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS CIENTO OCHENTA DÍAS POSTERIORES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 31 de enero de 2000.
 
@@ -1056,7 +1058,7 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal contará con 180 días a partir de la entrada en vigor del presente Decreto, para llevar a cabo los procesos administrativos correspondientes para la creación de la Defensoría de los Derechos de la Infancia del Distrito Federal a que se refiere el Artículo 30 Bis de la presente Ley.
 
-TECERO.- El Consejo Promotor de los Derechos de las Niñas y Niños del Distrito Federal contará con 120 días a partir de la entrada en vigor del presente decreto para la elaboración de los indicadores a los que se refiere el artículo 17, fracción XI.
+TECERO (SIC).- El Consejo Promotor de los Derechos de las Niñas y Niños del Distrito Federal contará con 120 días a partir de la entrada en vigor del presente decreto para la elaboración de los indicadores a los que se refiere el artículo 17, fracción XI.
 
 G.O. 15 DE JUNIO DE 2011.
 
@@ -1113,3 +1115,31 @@ DÉCIMO SEGUNDO. El Comité de Supervisión, Vigilancia y Seguimiento emitirá e
 DÉCIMO TERCERO. Una vez publicados los reglamentos y lineamientos, previstos en la presente Ley, quedará abrogada la Ley de Albergues Públicos y privados para Niñas y Niños del Distrito Federal.
 
 DÉCIMO CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 12 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor a los ciento ochenta días posteriores a su publicación, dentro de este plazo, la Asamblea Legislativa del Distrito Federal deberá realizar la armonización legislativa correspondiente al Marco Jurídico del Distrito Federal, de acuerdo con lo establecido en el presente Decreto.
+
+TERCERO. El Sistema de Protección y los Sistemas de Protección Delegacionales deberán integrarse a más tardar dentro de los noventa días hábiles siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el transitorio anterior.
+
+CUARTO. La Ley de los Derechos de Niñas y Niños en el Distrito Federal quedará abrogada a la entrada en vigor del presente Decreto.
+
+QUINTO. Los recursos materiales, humanos y financieros de la Dirección Ejecutiva de la Defensoría de los Derechos de la Infancia del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, se transferirán a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en la Ciudad de México, en los términos de la normatividad aplicable.
+
+El Jefe de Gobierno del Distrito Federal, a través del Sistema para el Desarrollo Integral de la Familia del Distrito Federal, realizará las gestiones y/o procesos administrativos correspondientes para la implementación de la Procuraduría de Protección. Para tal efecto la Secretaría de Finanzas del Distrito Federal asignará los recursos financieros necesarios que garanticen su adecuada operación.
+
+El Sistema para el Desarrollo Integral de la Familia del Distrito Federal deberá reformar su Estatuto Orgánico a fin de formalizar la implementación de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, con sus respectivas unidades administrativas.
+
+SEXTO. En su primera sesión, el Presidente del Sistema de Protección someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema de Protección.
+
+El Titular de la Secretaría Ejecutiva del Sistema de Protección, una vez instalado el Sistema de Protección, dentro de los siguientes treinta días hábiles, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 111 de la Ley de Derechos de Niñas, Niños y Adolescentes.
+
+El Presidente del Sistema de Protección realizará las acciones necesarias para la elaboración del Programa, el cual deberá aprobarse dentro de los ciento veinte días hábiles siguientes a la instalación del Sistema de Protección.
+
+SÉPTIMO. Las modificaciones que deban realizarse a los ordenamientos administrativos y la creación de manuales, lineamientos y demás disposiciones legales deberán expedirse y publicarse a más tardar dentro de ciento ochenta días hábiles a partir de la vigencia de la presente Ley.
+
+OCTAVO. Para la ejecución de la presente Ley, la Asamblea Legislativa del Distrito Federal aprobará el presupuesto necesario y suficiente que permita a las distintas instancias involucradas llevar a cabo de manera óptima sus responsabilidades de conformidad con las atribuciones que les han sido conferidas en la presente Ley y demás normatividad aplicable.
