@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2015-04-25"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -981,9 +981,15 @@ De la presentación de las quejas.
 
 El personal de la Comisión deberá dar trato confidencial a la información o documentación de los particulares y funcionarios, relativa a los asuntos de su competencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 50.
 
-Estará legitimada para presentar quejas a la Comisión, toda persona que tenga conocimiento de violaciones a los derechos humanos o que presumiblemente haya sido objeto de éstas.
+Estará legitimada para presentar quejas a la Comisión, toda persona que tenga conocimiento de violaciones a los derechos humanos o que presumiblemente haya sido objeto de éstas. Las niñas, niños y adolescentes estarán legitimados para presentar quejas sin la necesidad de un representante cuando se ponga en peligro su vida, libertad o su integridad física o psicológica.
+
+Lo anterior sin perjuicio de la intervención que corresponda a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ###### Artículo 51.
 
@@ -1494,3 +1500,7 @@ SEXTO. Se derogan todas las disposiciones legales que se opongan a la presente l
 SÉPTIMO. La Fiscalía General del Estado deberá adoptar y publicar protocolos de investigación de la tortura y uso legítimo de la fuerza conformes (sic) a lo dispuesto en esta ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
 
 OCTAVO. La Fiscalía General del Estado y los cuerpos de seguridad púbica (sic) municipales deberán capacitar a su personal investigador, peritos y agentes conforme a lo dispuesto en esta Ley dentro de un plazo de 180 días posteriores a la publicación del presente decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial El Estado de Jalisco.
