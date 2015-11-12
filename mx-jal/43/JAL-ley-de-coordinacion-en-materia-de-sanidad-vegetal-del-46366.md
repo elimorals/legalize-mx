@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-vegetal-del-46366"
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-30"
-last_updated: "2014-08-07"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN EN MATERIA DE SANIDAD VEGETAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado, el martes 30 de agosto de 2005
 
@@ -293,7 +293,9 @@ La Secretaría en el ámbito de sus atribuciones, se coordinará estratégicamen
 
 Son atribuciones de los Ayuntamientos del Estado en materia de sanidad vegetal:
 
-I. Expedir licencias y otorgar permisos relativos a las actividades comerciales que se desarrollen en su municipio, debiendo verificar previo a su expedición, que dichas negociaciones tengan la debida autorización federal para la realización de sus actividades;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+I. Expedir licencias y otorgar permisos, con el uso que corresponda de la Credencial Única Agroalimentaria, para las actividades comerciales que se desarrollen en su municipio, debiendo verificar previo a su expedición, que dichas negociaciones tengan la debida autorización federal para la realización de sus actividades;
 
 II. Verificar e inspeccionar dentro de su Municipio, las negociaciones o las construcciones relacionadas a la sanidad vegetal y manejo de residuos peligrosos, siempre y cuando exista convenio expreso con la Federación;
 
@@ -437,9 +439,11 @@ Además, adoptará los mecanismos para lograr que los envases, empaques y conten
 
 En el uso y manejo de organismos genéticamente modificados incluyendo su utilización en programas experimentales se requerirá la autorización federal correspondiente y al efecto, la Secretaría podrá solicitar a las personas físicas o jurídicas, la autorización; y en su caso, presentar la denuncia ante la instancia competente.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 30.
 
-Los ayuntamientos darán aviso a la Secretaría, sobre los permisos o licencias otorgados a las personas físicas o jurídicas que desarrollen, presten, o realicen actividades o servicios fitosanitarios, así como la comercialización de agroquímicos en el Estado, con el objeto de mantener actualizado el Directorio Fitosanitario.
+Los ayuntamientos darán aviso a la Secretaría, con el uso que corresponda de la Credencial Única Agroalimentaria, sobre los permisos o licencias que otorguen a las personas físicas o Jurídicas que desarrollen, presten, o realicen actividades o servicios fitosanitarios, así como la comercialización de agroquímicos en el Estado, con el objeto de mantener actualizado el Directorio Fitosanitario.
 
 ###### Artículo 31.
 
@@ -646,3 +650,15 @@ Por ausencia temporal del Secretario General de Gobierno conforme al artículo 3
 P.O. 7 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
+
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrá un plazo de ciento veinte días naturales contados a partir del 1° de enero de 2016 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
+
+CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
+
+QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias que se expidan durante el año 2015 tendrán vigencia por tres años.
