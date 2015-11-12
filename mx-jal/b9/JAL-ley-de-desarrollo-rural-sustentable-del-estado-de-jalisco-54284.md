@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2014-03-01"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
@@ -329,7 +329,9 @@ XII. Establecer medidas de control de entrada y salida del Estado, así como en 
 
 XIII. Fomentar y promover la organización de productores agropecuarios bajo cualquier figura con reconocimiento legal para impulsar la integración de los mismos;
 
-XIV. Crear y mantener actualizado el registro estatal, regional y municipal de productores agropecuarios del Estado;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Crear y mantener actualizado el registro estatal, regional y municipal de productores agropecuarios del Estado, a través de la expedición y registro de la Credencial Única Agroalimentaria;
 
 XV. Crear y mantener actualizado el registro de agentes de la sociedad rural;
 
@@ -425,7 +427,9 @@ VIII. Secretaría de Educación;
 
 IX. Secretaría de Desarrollo Económico;
 
-X. El Director de la Unidad Estatal de Protección Civil; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+X. El Director de la Unidad Estatal de Protección Civil y Bomberos; y
 
 XI. Los demás organismos y dependencias estatales y federales que se consideren necesarias.
 
@@ -527,7 +531,7 @@ IV. Las instituciones de educación e investigación pública y privada agropecu
 
 V. Las asociaciones o colegios de profesionistas, relacionados con actividades agropecuarias; y
 
-VI. Los representantes de las organizaciones sociales y privadas del sector rural e el municipio correspondiente, en forma similar a la integración que se adopta para el Consejo Estatal.
+VI. Los representantes de las organizaciones sociales y privadas del sector rural e (sic) el municipio correspondiente, en forma similar a la integración que se adopta para el Consejo Estatal.
 
 ###### Artículo 38.
 
@@ -779,7 +783,7 @@ II. Orientar la producción agropecuaria, de acuerdo a las necesidades básicas 
 
 III. Promover la elaboración de convenios de producción y comercialización de productos y subproductos agropecuarios, entre productores, industriales, comerciantes y organizaciones de consumidores;
 
-IV. Fomentar el uso de crédito con tazas preferenciales, para la producción, comercialización, distribución de productos y subproductos agropecuarios;
+IV. Fomentar el uso de crédito con tazas (sic) preferenciales, para la producción, comercialización, distribución de productos y subproductos agropecuarios;
 
 V. Brindar asesoría técnica a los productores en las operaciones de recolección, acopio, almacenamiento, selección, empaque y envío de sus productos;
 
@@ -909,7 +913,7 @@ La Comisión Intersecretarial, con la participación del Consejo Estatal, apoyar
 
 ###### Artículo 86.
 
-La Secretaria opera un centro de medios alternativos de solución de conflictos del sector rural, que funcionará de acuerdo a lo establecido en al Ley de Justicia Alternativa del Estado de Jalisco y tendrá los siguientes propósitos:
+La Secretaria opera un centro de medios alternativos de solución de conflictos del sector rural, que funcionará de acuerdo a lo establecido en al (sic) Ley de Justicia Alternativa del Estado de Jalisco y tendrá los siguientes propósitos:
 
 I. Promover entre productores de los sectores social y privado, un sistema sic medios alternativos de solución de conflictos voluntario y reglas de comercio para productos procedentes del campo, en el mercado nacional e internacional, para los servicios técnicos, financieros y bienes de producción;
 
@@ -917,7 +921,7 @@ II. Orientar jurídicamente a los participantes en los Sistema-Producto, en las 
 
 III. Actuar como agente mediador o conciliador, para transmitir e intercambiar propuestas entre dos o más partes y asesorar en la celebración o ajuste de cualquier contrato o convenio de cualquier naturaleza relacionada con el sector rural; y
 
-IV. Actuar como árbitro, conciliador o mediador, a solicitud de las partes, en la solución de controversias derivadas de actos, contratos, convenios de cualquier naturaleza dentro del ámbito rural, así como las que resulten entre proveedores, exportadores, importadores y consumidores de acuerdo con las leyes de la materia; (sic)
+IV. Actuar como árbitro, conciliador o mediador, a solicitud de las partes, en la solución de controversias derivadas de actos, contratos, convenios de cualquier naturaleza dentro del ámbito rural, así como las que resulten entre proveedores, exportadores, importadores y consumidores de acuerdo con las leyes de la materia;
 
 ### Capítulo V. Del Financiamiento Rural
 
@@ -1147,13 +1151,13 @@ Para coadyuvar a superar la pobreza, estimular la solidaridad social, el mutuali
 
 Para los efectos del referido programa se estará a los siguientes lineamientos:
 
-I. Las autoridades municipales elaborarán periódicamente el catálogo de necesidades locales y regionales sobre educación, integrando a través del Consejo Municipal, sus propuestas ante las autoridades educativas, con el objeto de brindar especial impulso a los valores éticos, cívicos y la cultura de Iegalidad;
+I. Las autoridades municipales elaborarán periódicamente el catálogo de necesidades locales y regionales sobre educación, integrando a través del Consejo Municipal, sus propuestas ante las autoridades educativas, con el objeto de brindar especial impulso a los valores éticos, cívicos y la cultura de legalidad;
 
 II. Los programas de alimentación, nutrición y desayunos escolares que aplique el Ejecutivo Estatal tendrán como prioridad atender a la población más pobre del medio rural, en coordinación con las instancias correspondientes;
 
 Los Consejos Municipales participarán en la prevención y detección de necesidades de salud, así como la creación de brigadas móviles para la atención sistemática de endemias y acciones eventuales contra epidemias, integrando el programa regional, en coordinación con la Secretaría de Salud;
 
-III. El Consejo Estatal, Distrital y Municipal, según sus atribuciones, coadyuvarán en las acciones y programas de población en el medio rural que instrumenten las autoridades Federales; y (sic)
+III. El Consejo Estatal, Distrital y Municipal, según sus atribuciones, coadyuvarán en las acciones y programas de población en el medio rural que instrumenten las autoridades Federales; y
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2008)</small>
 
@@ -1379,7 +1383,7 @@ C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE OCTUBRE DE 2008.
 
@@ -1392,3 +1396,15 @@ P.O. 19 DE ENERO DE 2012.
 P.O. 1 DE MARZO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
+
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrá un plazo de ciento veinte días naturales contados a partir del 1° de enero de 2016 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
+
+CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
+
+QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias que se expidan durante el año 2015 tendrán vigencia por tres años.
