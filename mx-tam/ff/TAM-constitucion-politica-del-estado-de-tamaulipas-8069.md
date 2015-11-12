@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2015-11-09"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE NOVIEMBRE DE 2015.</small>
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -683,9 +683,9 @@ La asignación de los 14 Diputados electos según el principio de Representació
 
 I.- Un partido político, para obtener el registro de su lista estatal, deberá acreditar que participa con candidatos a Diputados por el principio de Mayoría Relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 12 DE NOVIEMBRE DE 2015)
 
-II.- A los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la la (sic) votación válida emitida, se les asignará un Diputado y tendrán derecho a participar en la la (sic) asignación restante de Diputados por el principio de Representación Proporcional;
+II.- A los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la votación válida emitida, se les asignará un Diputado y tendrán derecho a participar en la asignación restante de Diputados por el principio de Representación Proporcional;
 
 III.- Para la asignación de las diputaciones de Representación Proporcional se estará a las reglas y fórmulas que la ley establezca para tales efectos;
 
