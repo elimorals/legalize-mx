@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2015-09-19"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -1225,9 +1225,11 @@ El registro definitivo de un derecho, surtirá efectos si se dio el aviso cautel
 
 ### CAPITULO IX. DE LA COORDINACION REGISTRAL Y CATASTRAL
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 110.
 
-La Institución, la Dirección de Catastro del Estado y los Ayuntamientos a través de su dependencia encargada del Catastro, en coordinación con el Instituto de Información Territorial, establecerán las normas básicas y los lineamientos generales para la existencia de una coordinación entre éstas entidades, a fin de obtener la certeza en la descripción y en la localización de los bienes inmuebles inscritos, así como en cualquier otra información relativa a los mismos.
+La Institución, la Dirección de Catastro del Estado y los Ayuntamientos, a través de su dependencia encargada del Catastro, en coordinación con el Instituto de Información Estadística y Geográfica del Estado de Jalisco, establecerán las normas básicas y los lineamientos generales para la existencia de una coordinación entre éstas entidades, a fin de obtener la certeza en la descripción y en la localización de los bienes inmuebles inscritos, así como en cualquier otra información relativa a los mismos.
 
 ###### Artículo 111.
 
@@ -1584,3 +1586,7 @@ TERCERO. Los procedimientos de extinción de dominio comenzados antes de la entr
 CUARTO. Hasta en tanto no inicien sus funciones los jueces especializados en extinción de dominio, los jueces civiles de primera instancia o mixtos serán competentes para conocer de la aplicación de la Ley de Extinción de Dominio del Estado de Jalisco que se expide a través del presente Decreto.
 
 QUINTO. Se autoriza al titular del Poder Ejecutivo del Estado para que, por conducto de la Secretaría de Planeación, Administración y Finanzas, realice las modificaciones y adecuaciones presupuestales y administrativas necesarias para el debido cumplimiento de este decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco"
