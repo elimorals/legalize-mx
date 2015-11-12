@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2015-07-28"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1673,7 +1673,11 @@ LOS TRIBUNALES GARANTIZARÁN EL CONTROL DE CONVENCIONALIDAD DE LOS DERECHOS HUMA
 
 La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
-La investigación de los delitos del fuero común y concurrentes y la persecución ante los tribunales de los responsables en su comisión corresponden al Ministerio Público a cargo del Fiscal General, quien se auxiliará de las policías, las que estarán bajo su mando inmediato, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+(NOTA: EL 20 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE FEBRERO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+LA INVESTIGACIÓN DE LOS DELITOS DEL FUERO COMÚN Y CONCURRENTES, ASÍ COMO LA PERSECUCIÓN ANTE LOS TRIBUNALES DE LOS RESPONSABLES DE SU COMISIÓN CORRESPONDEN AL MINISTERIO PÚBLICO A CARGO DEL FISCAL GENERAL, QUIEN SE AUXILIARÁ DE LAS POLICÍAS QUE ESTÉN BAJO SU MANDO INMEDIATO, EN LOS TÉRMINOS DEL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.
 
 La ley organizará al Ministerio Público, el cual estará presidido por un Fiscal General, designado por el titular del Poder Ejecutivo y ratificado por el Congreso mediante el voto de dos terceras partes de los diputados presentes en la sesión del Congreso del Estado. El ciudadano que, habiendo sido designado por el Gobernador, no hubiere sido ratificado, no podrá volver a ser propuesto dentro del término de un año.
 
@@ -3460,3 +3464,7 @@ P.O. 28 DE JULIO DE 2015.
 DECRETO NÚMERO 25023/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4°, 5° Y 15 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Jalisco".
