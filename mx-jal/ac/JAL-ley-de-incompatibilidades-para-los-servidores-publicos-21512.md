@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-incompatibilidades-para-los-servidores-publicos-21512"
 country: "mx"
 rank: "ley"
 publication_date: "1980-01-03"
-last_updated: "2015-05-12"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INCOMPATIBILIDADES PARA LOS SERVIDORES PÚBLICOS REGLAMENTARIA DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 3 de enero de 1980.
 
@@ -171,11 +171,11 @@ Los Servidores Públicos podrán desempeñar simultáneamente hasta tres Comisio
 
 Las incompatibilidades relativas a Diputados serán estudiadas y dictaminadas por la Comisión de Responsabilidades del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015
 
 ###### Artículo 18.
 
-Las incompatibilidades de los demás Servidores Públicos que laboren en el Poder Legislativo serán examinadas y dictaminadas por las Comisiones de Tesorería e Inspección.
+Las incompatibilidades de los demás servidores públicos que laboren en el Poder Legislativo serán examinadas y dictaminadas por la Comisión de Administración.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 1984)</small>
 
@@ -334,3 +334,7 @@ P.O. 12 DE OCTUBRE DE 2004.
 P.O. 12 DE MAYO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
