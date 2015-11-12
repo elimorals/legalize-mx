@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-en-materia-de-sanidad-animal-para-el-54779"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-22"
-last_updated: "2007-02-22"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE COORDINACION EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-LEY DE COORDINACION EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
+LEY DE COORDINACIÓN EN MATERIA DE SANIDAD ANIMAL PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección IX al Periódico Oficial del Estado de Jalisco, el jueves 22 de febrero de 2007.
 
@@ -273,7 +273,9 @@ XXIII. Autorizar el ingreso o restricción al Estado de animales, productos y su
 
 XXIV. Atender las denuncias que se presenten;
 
-XXV. Llevar un registro de los productores, engordadores e introductores de ganado, para el control en caso de presentarse alguna intoxicación por consumo de carne contaminada por residuos tóxicos;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Llevar un registro, a través de la expedición de la Credencial Única Agroalimentaria de los productores, engordadores o introductores de ganado, para el control en caso de presentarse alguna intoxicación por consumo de carne contaminada por residuos tóxicos;
 
 XXVI. Vigilar en coordinación con el Gobierno Federal para evitar que se introduzca al Estado, comercialice, distribuya, ofrezca al público o utilice como sustancia prohibida, y
 
@@ -658,3 +660,17 @@ El Secretario General de Gobierno
 C.P. JOSÉ RAFAEL RÍOS MARTÍNEZ
 
 (RÚBRICA)
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
+
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrá (sic) un plazo de ciento veinte días naturales contados a partir del 1° de enero de 2016 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
+
+CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
+
+QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias que se expidan durante el año 2015 tendrán vigencia por tres años.
