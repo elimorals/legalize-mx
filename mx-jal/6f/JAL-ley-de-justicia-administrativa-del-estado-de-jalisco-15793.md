@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-administrativa-del-estado-de-jalisco-15793"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-18"
-last_updated: "2015-10-24"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de enero de 2000.
 
@@ -895,13 +895,17 @@ Procede el recurso de apelación:
 
 I. Cuando el asunto al que corresponde la sentencia impugnada sea de una cuantía determinada o determinable que exceda de setecientos días de salario mínimo general vigente en el municipio de Guadalajara;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 II. Cuando el asunto sea de cuantía indeterminable;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-III. Cuando la controversia que motivó el juicio sea entre entidades públicas.
+III. Cuando la controversia que motivó el juicio sea entre entidades públicas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+IV. Contra las sentencias definitivas en materia de afirmativa ficta.
 
 ###### Artículo 97.
 
@@ -993,11 +997,11 @@ La afirmativa ficta debe declararse en todo caso en que el particular, haya cump
 
 Para acreditar y declarar que opera la afirmativa ficta, invariablemente es necesario asegurarse que a la petición se anexaron las constancias y documentos, que acrediten el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, así como que la petición se presentó ante la autoridad competente.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 112.
 
-En contra de la resolución que dicte el Tribunal declarando o negando que haya operado la afirmativa ficta, no procede recurso alguno.
+En contra de la resolución que dicte el Tribunal declarando o negando que haya operado la afirmativa ficta, procede el recurso de apelación que se substanciará y resolverá en los términos de la Sección II del Capítulo XV de la presente Ley.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2005)</small>
 
@@ -1136,5 +1140,9 @@ P.O. 3 DE DICIEMBRE DE 2013.
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 24 DE OCTUBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
