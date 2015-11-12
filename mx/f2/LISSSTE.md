@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2014-04-02"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -364,13 +364,13 @@ Los ingresos provenientes de las Cuotas, Aportaciones y Descuentos no se concent
 
 La Secretaría de Hacienda y Crédito Público incluirá en las partidas necesarias el concepto de Cuotas y Aportaciones de este ordenamiento al tiempo de examinar los proyectos anuales de presupuestos de las Dependencias y Entidades de la Administración Pública Federal. Asimismo, la Secretaría de Hacienda y Crédito Público vigilará el oportuno entero de los recursos por parte de las Dependencias y Entidades, en los términos de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-En caso de que alguna Dependencia o Entidad incumpla por más de seis meses en el entero de las Cuotas, Aportaciones y Descuentos previstos en esta Ley, el Instituto estará obligado a hacer público el adeudo correspondiente.
+En caso de que alguna Dependencia o Entidad incumpla por más de seis meses en el entero de las Cuotas, Aportaciones y Descuentos previstos en esta Ley, el Instituto estará obligado a hacer público el adeudo correspondiente, así como a lo previsto en el artículo 22 de esta Ley.
 
-Transcurridos doce meses, consecutivos o dentro de un periodo de dieciocho meses, de incumplimiento parcial o total del entero de Cuotas, Aportaciones y Descuentos, el Instituto podrá suspender, parcial o totalmente, los seguros, prestaciones y servicios que correspondan al adeudo, para lo cual bastará con una notificación por escrito al titular de la Dependencia o Entidad respectiva con sesenta días de anticipación. La Junta Directiva y el Director General del Instituto decidirán sobre el ejercicio de la suspensión dispuesta en el presente párrafo.
-
-En el caso previsto en el párrafo anterior, la Dependencia o Entidad morosa asumirá la responsabilidad y las consecuencias legales que resulten por la suspensión de los beneficios previstos en esta Ley.
+En ningún caso el Instituto podrá suspender, parcial o totalmente, los seguros, prestaciones y servicios que está obligado a prestar.
 
 ###### Artículo 26.
 
@@ -411,6 +411,12 @@ En tales casos, las instituciones que hubiesen suscrito esos convenios, estarán
 El Instituto, previo análisis de la oferta y la demanda y de su capacidad resolutiva, y una vez garantizada la prestación a sus Derechohabientes, podrá ofrecer a las instituciones del sector salud la capacidad excedente de sus unidades prestadoras de servicios de salud, de acuerdo con el reglamento respectivo.
 
 En estos casos, el Instituto determinará los costos de recuperación que le garanticen el equilibrio financiero.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 31 Bis.
+
+Para el Instituto, será obligatoria la atención de las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 #### Sección II. Del Comité de Evaluación y Seguimiento de los Servicios de Salud
 
@@ -3061,3 +3067,17 @@ D.O.F. 2 DE ABRIL DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Se concede un plazo de trescientos sesenta y cinco días naturales, contados a partir de la fecha en que entren en vigor estas modificaciones, para que las empresas, instituciones, dependencias y, en general, todos los obligados conforme a este Decreto efectúen las adecuaciones físicas necesarias para dar cumplimiento a las disposiciones de la ley correspondiente.
+
+D.O.F. 12 DE NOVIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 25 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE NOVIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 31 BIS A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
