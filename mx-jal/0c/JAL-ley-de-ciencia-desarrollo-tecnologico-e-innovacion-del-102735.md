@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2014-10-09"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -577,7 +577,9 @@ e) Del Sector Educativo:
 
 e.1. El representante elegido de las Instituciones de educación superior que cuenten con centros de Investigación Científica y Tecnológica o impartan posgrados a nivel doctorado, como son el Instituto Tecnológico de Estudios Superiores de Monterrey, campus Guadalajara, la Universidad Autónoma de Guadalajara, el Instituto Tecnológico y de Estudios Superiores de Occidente, la Universidad del Valle de Atemajac, la Universidad del Valle de Mexico, la Universidad Panamericana, sede Guadalajara, la Universidad Marista, el Centro de Investigaciones y Estudios Superiores en Antropología Social de Occidente, el Instituto Tecnológico de Ciudad Guzmán y la Universidad Enrique Díaz de León; y
 
-e.2. El representante elegido de los Centros de Investigación de Ciencia y Tecnología como lo son: Centro de Ciencia y Tecnología de Guadalajara, el Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco (CIATEJ), el Colegio de Jalisco y el Instituto de Información Territorial del Estado de Jalisco. Las instituciones públicas y privadas de educación superior que realicen investigación científica y tecnológica en la entidad, previa invitación de los restantes miembros del Consejo Directivo, pudiendo aquellas solicitar por escrito su inclusión.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+e.2. El representante elegido de los Centros de Investigación de Ciencia y Tecnología como lo son: Centro de Ciencia y Tecnología de Guadalajara, el Centro de Investigación y Asistencia en Tecnología y Diseño del Estado de Jalisco (CIATEJ), el Colegio de Jalisco y el Instituto de Información Estadística y Geográfica del Estado de Jalisco. Las instituciones públicas y privadas de educación superior que realicen investigación científica y tecnológica en la entidad, previa invitación de los restantes miembros del Consejo Directivo, pudiendo aquellas solicitar por escrito su inclusión.
 
 2. El cargo como miembro del Consejo Directivo es de carácter honorífico y por lo tanto no es remunerado. Los consejeros durarán en su cargo el término durante el cual conserven la representación de la dependencia e institución de que se trate.
 
@@ -920,3 +922,9 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco” (sic)
