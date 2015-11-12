@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-control-de-confianza-del-estado-de-jalisco-y-sus-88676"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-21"
-last_updated: "2014-12-18"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CONTROL DE CONFIANZA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 21 de julio de 2012.
 
@@ -49,9 +49,11 @@ Ley de Control de Confianza del Estado de Jalisco y sus Municipios
 
 °
 
-(NOTA: EL 31 DE MARZO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 86/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 31 DE MARZO DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-1. Esta ley tiene por objeto establecer los procesos de evaluación de control de confianza aplicables a los mandos operativos y sus elementos de las instituciones de seguridad pública y a los SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN DE JUSTICIA Y defensores de oficio.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+1. Esta ley tiene por objeto establecer los procesos de evaluación de control de confianza aplicables a los mandos operativos y sus elementos de las instituciones de seguridad pública y de la policía vial estatal, así como a los servidores públicos de la administración de justicia y defensores de oficio.
 
 2. Los procesos de evaluación de control de confianza tienen por objeto comprobar que los mandos operativos y sus elementos de las instituciones de seguridad pública y servidores públicos mencionados en el párrafo anterior, cumplen con el perfil y la probidad de ingreso, permanencia y promoción en la institución donde están adscritos, de conformidad con la legislación aplicable.
 
@@ -360,3 +362,19 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 P.O. 18 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día en que entre en vigor la reforma al artículo 53 de la Constitución Política del Estado de Jalisco, y previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El personal que conforma el cuerpo de la Policía Vial de Jalisco, pasará de manera íntegra a depender de la Secretaría de Movilidad. Los derechos laborales de dicho personal deberán ser íntegramente respetados.
+
+TERCERO. El titular del Poder Ejecutivo deberá girar las instrucciones pertinentes para que se adecúen las disposiciones reglamentarias aplicables.
+
+CUARTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que, en coordinación con la Secretaría de Movilidad y la Fiscalía General del Estado, se realicen las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este Decreto.
+
+QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuarán vigentes los nombramientos y demás cargos existentes dentro de la Policía Vial, así como los reglamentos y manuales actualmente aplicables.
+
+SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaría de Movilidad.
+
+SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
