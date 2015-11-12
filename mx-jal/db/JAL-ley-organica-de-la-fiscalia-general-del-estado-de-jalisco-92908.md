@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-fiscalia-general-del-estado-de-jalisco-92908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2014-11-22"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 27 de febrero de 2013.
 
@@ -45,11 +45,13 @@ LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 1º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-La Fiscalía General del Estado es la responsable de la Seguridad Pública y Procuración de Justicia, en términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, la aplicación de sanciones por las infracciones en materia de vialidad que disponga la ley correspondiente, así como del sistema de reinserción social y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; contará con las siguientes atribuciones:
+###### Artículo 1°.
+
+La Fiscalía General del Estado es la responsable de la Seguridad Pública y Procuración de Justicia, en términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías, con excepción de la policía vial, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, así como del sistema de reinserción social y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos; contará con las siguientes atribuciones:
 
 I. Dirigir y controlar el Ministerio Público;
 
@@ -77,9 +79,11 @@ X. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elabo
 
 XI. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando, en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, vialidad y tránsito; atención victimológica, procuración de justicia penal y reinserción social;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, bajo su mando, atención victimológica, procuración de justicia penal y reinserción social;
 
 XIII. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la seguridad pública y de apoyo a la procuración de justicia;
 
@@ -103,7 +107,9 @@ XVIII. Establecer vínculos y relaciones con instituciones y organismos afines e
 
 XIX. Canalizar los asuntos y denuncias de los ciudadanos a las instancias respectivas que no sean de su competencia;
 
-XX. Ejercer las atribuciones en materia de policía vial que señale la ley estatal en materia de vialidad, tránsito y transporte, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XX. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XXI. Las demás que le otorguen otras disposiciones legales.
 
@@ -119,9 +125,13 @@ El Fiscal General intervendrá por sí o por conducto de los Fiscales o agentes 
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 4º.
 
-La Fiscalía General del Estado está a cargo de un Fiscal General, designado en los términos que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los siguientes órganos que tendrán las facultades y atribuciones establecidas en el reglamento de la presente ley:
+La Fiscalia General del Estado está a cargo de un Fiscal General, designado en los términos que establecen la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los siguientes órganos que tendrán las facultades y atribuciones establecidas en el reglamento de la presente ley:
 
 I. La Fiscalía General del Estado;
 
@@ -155,7 +165,11 @@ VIII. Los Agentes del Ministerio Público; y
 
 IX. Las instancias disciplinarias o comisiones de honor y justicia que establezca el reglamento.
 
-El Comisionado de Seguridad Pública ejercerá el mando operacional sobre los agrupamientos de policía del Estado y, en su caso de las policías municipales cuando se suscriban los convenios de coordinación correspondientes bajo los lineamientos de los sistemas federal y estatal de seguridad pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+El Comisionado de Seguridad Pública ejercerá el mando operacional sobre los agrupamientos de policía señalados en su reglamento y, en su caso de las policías municipales cuando se suscriban los convenios de coordinación correspondientes bajo los lineamientos de los sistemas federal y estatal de seguridad pública.
 
 ###### Artículo 5º.
 
@@ -289,7 +303,11 @@ II. Dictar las medidas adecuadas para combatir y erradicar la violencia contra l
 
 III. Otorgar la protección que la ley prevé a los derechos de las víctimas, estableciendo y reforzando mecanismos jurídicos y administrativos que permitan obtener la reparación del daño y la restitución de los derechos de las víctimas u ofendidos del delito;
 
-IV. Ejercer el mando sobre la Policía Estatal y todos sus agrupamientos a través del Comisionado de Seguridad Pública en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución local y de las demás disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+IV. Ejercer el mando sobre la Policía Estatal y todos sus agrupamientos a través del Comisionado de Seguridad Pública, con excepción de la policía vial en los términos de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución local y de las demás disposiciones aplicables;
 
 V. Ejercitar las acciones legales en materia del Sistema Especializado de Justicia para Adolescentes Infractores;
 
@@ -855,9 +873,13 @@ Para intervenir en los procedimientos que requieran de especialización, además
 
 Son requisitos de ingreso y permanencia en las Instituciones policiales y de procuración de justicia, los señalados en la Ley General del Sistema Nacional de Seguridad Pública y la correspondiente del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-El Fiscal General podrá libremente designar, remover y cambiar de adscripción, al personal operativo, de mandos medios y directivos de la Institución.
+El Fiscal General podrá libremente designar, remover y cambiar de adscripción, al personal operativo que esté bajo su mando, de mandos medios y directivos de la Institución.
 
 ###### Artículo 38.
 
@@ -1162,3 +1184,19 @@ Segundo. Este Decreto entrará en vigor de conformidad con la declaratoria de in
 P.O. 22 DE NOVIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día en que entre en vigor la reforma al artículo 53 de la Constitución Política del Estado de Jalisco, y previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El personal que conforma el cuerpo de la Policía Vial de Jalisco, pasará de manera íntegra a depender de la Secretaría de Movilidad. Los derechos laborales de dicho personal deberán ser íntegramente respetados.
+
+TERCERO. El titular del Poder Ejecutivo deberá girar las instrucciones pertinentes para que se adecúen las disposiciones reglamentarias aplicables.
+
+CUARTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que, en coordinación con la Secretaría de Movilidad y la Fiscalía General del Estado, se realicen las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este Decreto.
+
+QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuarán vigentes los nombramientos y demás cargos existentes dentro de la Policía Vial, así como los reglamentos y manuales actualmente aplicables.
+
+SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaría de Movilidad.
+
+SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
