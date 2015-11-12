@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2015-11-04"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -1067,6 +1067,10 @@ IV.- Acciones de capacitación para fortalecer la competencia técnica de las pa
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
 
 ARTICULO 64 BIS.- La Secretaría de Salud impulsará la participación de los sectores social y privado, así como de la sociedad en general, para el fortalecimiento de los servicios de salud en materia de atención materno-infantil. Para tal efecto, promoverá la creación de Redes de Apoyo a la Salud Materno-Infantil, tanto en el ámbito federal, como en las entidades federativas, con la finalidad de facilitar el acceso a las mujeres embarazadas a información relativa a la prestación de servicios de atención médica en esta materia, y en su caso, brindarles apoyo para el acceso a ellos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 64 BIS 1.- Los servicios de salud a que hace referencia el artículo 34 de la presente Ley, prestarán atención expedita a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, en las unidades con capacidad para la atención de urgencias obstétricas, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 ###### ARTICULO 65.
 
@@ -5586,7 +5590,7 @@ XVII. Disposición, el conjunto de actividades relativas a la obtención, extrac
 
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-XVIII. Asignación, el proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
+XVIII. Asignación el proceso mediante el cual el Comité Interno de Trasplantes selecciona los receptores de órganos y tejidos, obtenidos de un donador que haya perdido la vida;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7816,7 +7820,7 @@ PRIMERO. El presente Decreto entrará en vigor a los sesenta días siguientes de
 
 SEGUNDO. Los expedientes en trámite relacionados con las autorizaciones sanitarias, se concluirán en lo que beneficie a los interesados en los términos del presente Decreto.
 
-TERCERO. En tanto se expiden las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
+TERCERO. En tanto se expidan las disposiciones administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
 
 D.O.F. 26 DE MAYO DE 2000.
 
@@ -8517,6 +8521,12 @@ D.O.F. 14 DE OCTUBRE DE 2015.
 D.O.F. 4 DE NOVIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE NOVIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Corresponderá a las autoridades encargadas de las presentes disposiciones emitir y efectuar las adecuaciones normativas y reglamentos correspondientes a fin de dar cumplimiento al presente Decreto. Para ello contarán con un plazo no mayor de 120 días.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 502.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS".]
 
