@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2015-10-20"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2015.
+
+(REPUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015)
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -197,7 +199,7 @@ XXXVIII. Conservación del catastro: la actualización de la información de los
 
 XXXIX. Zona Conurbada: el área urbanizada que determine el Plan de Ordenamiento de la Zona Conurbada de que se trate;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XL. Secretaría: la Secretaría de Planeación, Administración y Finanzas;
 
@@ -211,19 +213,19 @@ XLIII. Catastro Municipal: La dependencia que determine o establezca el ayuntami
 
 XLIV. Ley: la Ley de Catastro Municipal del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XLV. Reglamentos y normas técnicas: el conjunto de disposiciones administrativas y especificaciones técnicas necesarias para integrar la información y registros del catastro;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XLVI. Registrar: es el empadronamiento que se realiza ante la autoridad catastral, respecto de los datos de referencia que se asienten de los bienes inmuebles;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(ADICIONADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XLVII. Instituto: el Instituto de Información Estadística y Geográfica del Estado de Jalisco; y
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(ADICIONADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XLVIII. Sistema de Información: el Sistema de Información Estratégica del Estado de Jalisco.
 
@@ -299,7 +301,7 @@ El catastro comprenderá el conjunto de planos, censos, padrones y documentos qu
 
 Son autoridades competentes en materia de catastro:
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 I. El Titular del Poder Ejecutivo, a través de la Secretaría cuando ocurra lo previsto en el artículo 10 de este ordenamiento; y
 
@@ -327,7 +329,7 @@ IV. Coordinar las políticas y prácticas del catastro;
 
 V. Solicitar al Ejecutivo del Estado el apoyo y asesoría que requiera para la integración del catastro municipal;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 VI. Contratar con empresas especializadas en la materia, los trabajos que estime convenientes. Para tal efecto, buscará que dichos trabajos sean compatibles con los mecanismos técnicos instrumentados por el Instituto;
 
@@ -351,7 +353,7 @@ II. El registro catastral de la propiedad o posesión de bienes inmuebles urbano
 
 III. La asignación del valor catastral, provisional y fiscal de cada uno de los predios con base en las disposiciones legales vigentes;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 IV. Facilitar la integración de la información relativa a los usos, destinos y reservas del suelo, para que sea susceptible de ser utilizada por el Sistema de Información;
 
@@ -361,7 +363,7 @@ V. Registrar, controlar y mantener actualizada la información catastral de la p
 
 VI. Delimitar la zonificación catastral conforme a los planes de desarrollo urbano;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 VII. Proponer al Consejo Técnico Catastral del Estado las normas técnicas para la formación, mejoramiento y conservación de los registros catastrales, previendo que éstas sean compatibles con las que emita el Instituto, a efecto de que exista uniformidad en la normatividad que se emita;
 
@@ -381,7 +383,7 @@ III. Determinar en forma precisa la localización de cada predio y su clasificac
 
 IV. Determinar la clave catastral atendiendo a las normas técnicas;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 V. Participar en el establecimiento de los mecanismos de coordinación entre el Instituto y el Registro Público de la Propiedad, para obtener la identificación plena y datos reales de los inmuebles inscritos;
 
@@ -409,7 +411,7 @@ XIV. Elaborar avalúos catastrales de bienes inmuebles ubicados en su jurisdicci
 
 XV. Revisar y aprobar dictámenes de valor, esto último a petición de parte, para los efectos de transmisiones patrimoniales de bienes inmuebles ubicados en la jurisdicción del municipio, conforme a las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XVI. Proporcionar al Instituto, la información que sea requerida de las diferentes autoridades municipales, así como la generada por su propia actividad;
 
@@ -463,17 +465,17 @@ I. Autorizar las normas técnicas y sistemas de valuación a fin de integrar la 
 
 II. Expedir los reglamentos necesarios para promover el cumplimiento de las disposiciones de esta Ley, en todos los aspectos que no estén encomendados expresamente a los ayuntamientos;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 III. Convenir con los municipios, a solicitud expresa de sus ayuntamientos, que el Ejecutivo del Estado tenga a su cargo las funciones del catastro municipal, a través de la Dirección de Catastro del Estado de la Secretaría; y
 
 IV. Las demás atribuciones que le otorguen la presente Ley y otras disposiciones legales relativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 17.
 
-El Ejecutivo del Estado, a través de la Dirección de Catastro del Estado, la Secretaria tendrá las siguientes funciones:
+El Ejecutivo del Estado, a través de la Dirección de Catastro del Estado la Secretaría, tendrá las siguientes funciones:
 
 I. Coordinar la formación y conservación del catastro de los municipios con los cuales haya celebrado o celebre convenio para administrar su catastro, así como asesorar, capacitar y auxiliar a todo aquel municipio que requiera su apoyo para cumplir con sus atribuciones;
 
@@ -501,7 +503,7 @@ I. Apoyar a los ayuntamientos en la integración del catastro municipal, cuando 
 
 II. Estudiar, analizar y formular propuestas en relación con la normatividad administrativa, en materia de catastro y valuación catastral, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
 III. Observar los reglamentos y normas técnicas que se emitan por el Instituto en materia de:
 
@@ -521,23 +523,23 @@ e) Normatividad técnica y administrativa, en cuestiones de información.
 
 El Consejo Técnico Catastral del Estado se integrará con los titulares de las dependencias del Poder Ejecutivo del Estado y por los representantes de los ayuntamientos que se enumeran a continuación:
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 I. El titular de la Secretaría, quien lo presidirá;
 
 II. El Secretario de Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 III. El Secretario de Infraestructura y Obra Pública;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 IV. El Secretario de Desarrollo Económico;
 
 V. El Director de Catastro del Estado, quien fungirá como Secretario de Actas y Acuerdos del Consejo;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADA, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 VI. El Director del Instituto, quien fungirá como presidente de la Comisión Técnica del Consejo; y
 
@@ -725,7 +727,7 @@ Los trabajos catastrales deberán practicarse de acuerdo a la presente Ley y a l
 
 La autoridad catastral revisará y autorizará en su caso, los trabajos que elaboren los peritos valuadores acreditados, de acuerdo a las normas y procedimientos que se establezcan en esta ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADO, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 38.
 
@@ -735,7 +737,7 @@ Los distintos levantamientos técnicos catastrales y trabajos cartográficos se 
 
 Los registros catastrales estarán integrados de tal manera que permitan su aprovechamiento múltiple y se puedan generar agrupamientos, ya sea numéricos, alfabéticos, gráficos, estadísticos, índices de referencia y de imágenes.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADO, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 40.
 
@@ -785,7 +787,7 @@ III. El urbanizador realice la entrega de las obras de urbanización al municipi
 
 El reglamento respectivo determinará los medios y la forma en que se proporcionará la documentación anterior, para facilitar la integración de la información a los registros catastrales.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2015)</small>
+(REFORMADO, P.O. 20 DE OCTUBRE DE 2015) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 2015)
 
 Para los catastros municipales que cuenten con sistemas de cómputo, los planos se entregarán también en los formatos y características que al efecto proponga el Instituto.
 
@@ -1403,7 +1405,7 @@ Cuarto. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 21 DE JULIO DE 2001.
 
-UNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 26 DE JULIO DE 2001.
 
@@ -1446,3 +1448,7 @@ P.O. 20 DE OCTUBRE DE 2015.
 ###### ARTICULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco"
