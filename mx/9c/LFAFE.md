@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "2015-05-22"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -880,6 +880,14 @@ I. Con prisión de uno a cuatro años y de diez a cincuenta días multa, si son 
 
 II. Con prisión de dos a seis años y de veinticinco a cien días multa, si son para las armas que están comprendidas en los restantes incisos del artículo 11 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 83 Quintus.- Al que de manera ilícita posea cargadores de cartuchos para armas de fuego de uso exclusivo del Ejército, Armada y Fuerza Aérea, se le sancionará:
+
+I.- Con prisión de uno a dos años y de cincuenta a cien días multa, cuando se trate de dos y hasta cinco cargadores.
+
+II.- Con prisión de dos a cinco años y de cien a doscientos días multa, cuando se trate de más de cinco cargadores.
+
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 84.
@@ -1089,3 +1097,7 @@ D.O.F. 22 DE MAYO DE 2015.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor de las presentes modificaciones y adiciones a la presente Ley se realizarán con cargo al presupuesto autorizado para tal fin a las dependencias de la Administración Pública Federal que correspondan, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 12 DE NOVIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
