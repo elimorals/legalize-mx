@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "2012-04-19"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda, del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -39,9 +39,11 @@ LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES
 
 ### Capítulo I. Disposiciones generales
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-La presente ley es de orden público y tiene por objeto establecer y organizar al Instituto Jalisciense de Ciencias Forenses, que propicie la práctica y emisión de dictamines periciales con los avances de la ciencia y la técnica, de carácter imparcial y con autonomía técnica de las autoridades a las que auxilian.
+###### Artículo 1°.
+
+La presente ley es de orden público y tiene por objeto establecer y organizar al Instituto Jalisciense de Ciencias Forenses, que propicie la práctica y emisión de dictámenes e informes periciales con los avances de la ciencia y la técnica, de carácter imparcial y con autonomía técnica y científica de las autoridades a las que auxilian.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
 
@@ -55,87 +57,127 @@ Para los efectos de esta ley, se deberá de entender por:
 
 I. Instituto: Instituto Jalisciense de Ciencias Forenses; y
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-II. Ciencias forenses: el conjunto de conocimientos aplicados al estudio, análisis e investigación de los hechos delictuosos y la participación en los mismos de los probables responsables, a través de los estudios verificados mediante técnicas basadas principalmente en la medicina, química, física, matemáticas y biología, a efecto de proporcionar la información que contribuya a esclarecerlos con objetividad científica.
+II. Ciencias forenses: el conjunto de conocimientos aplicados al estudio, análisis e investigación de los hechos jurídicamente controvertidos y la participación en éstos de los probables responsables o las partes intervinientes, a través de los estudios de campo o de gabinete verificados mediante técnicas basadas principalmente en las ciencias naturales, exactas, de la salud y sociales, a efecto de proporcionar la información que contribuya a esclarecerlos con objetividad científica.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+III. Sistema de Ciencias forenses: Conjunto de políticas, planes, programas, documentos y metodologías tendientes a establecer procedimientos estandarizados que permitan regular la actividad pericial en el Estado de Jalisco con criterios técnicos, científicos y conforme dispone la Constitución y demás ordenamientos legales. Así como las relaciones interinstitucionales de los organismos públicos y privados relacionados con las ciencias forenses; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+IV. Certificación de competencias periciales: Es el documento emitido por el Instituto que reconoce formalmente los conocimientos científicos, técnicos y habilidades en artes y oficios de las personas.
 
 ### Capítulo II. De los objetivos y fines del Instituto
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 4°.
 
-El Instituto, como instancia de seguridad pública, tiene por objeto auxiliar a las autoridades en la procuración y administración de justicia, mediante el establecimiento y operación de una metodología de ciencias forenses, así como mediante la elaboración de dictámenes periciales especializados conforme a los avances de la ciencia y la técnica, de manera imparcial y con autonomía técnica de las autoridades a las que auxilian, en beneficio de los habitantes del estado; sin perjuicio de colaborar en calidad de peritos con otras instituciones públicas o privadas, de conformidad con el Reglamento.
+El Instituto, como institución de seguridad pública, tiene por objeto auxiliar a las autoridades encargadas de impartir justicia y las autoridades encargadas en procuración de justicia, mediante el establecimiento y operación de un Sistema de Ciencias Forenses, que establece los requisitos para la elaboración de dictámenes o informes periciales especializados conforme a los avances de la ciencia y la técnica, de manera imparcial y con autonomía, así como emitir la Certificación de competencias periciales, sin perjuicio de ejercer su profesión en la industria, comercio o trabajo que le acomode, en beneficio de las partes que intervienen en controversias jurídicas. Los peritos oficiales del Instituto podrán colaborar con dicho carácter con otras instituciones públicas o privadas, de conformidad con el Reglamento.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-###### Artículo 5º.
+###### Artículo 5°.
 
 El Instituto tendrá las siguientes atribuciones:
 
-I. Acudir al lugar de los hechos presuntamente constitutivos de delito, en cuanto tenga noticia de estos, a fin de participar en el ámbito de su competencia y en la preservación de los indicios y evitar que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso y los instrumentos o cosas objeto del mismo, dando previo aviso al Ministerio Público;
+I. Establecer y operar el Sistema Jalisciense de Ciencias Forenses;
 
-II. Elaborar y proponer al Ministerio Público del fuero común y a las autoridades judiciales del Estado, los dictámenes periciales que a su juicio sean necesarios para el esclarecimiento de los hechos presuntamente constitutivos de delito;
+II. Realizar las investigaciones de campo y de gabinete necesarias en las indagaciones de hechos en los que se requiera de conocimientos especiales para la dictaminación pericial, a solicitud de la autoridad competente. Asimismo participar, en el ámbito de su competencia, en la preservación y proceso del lugar de los hechos o del hallazgo, y evitar que se pierdan, destruyan o alteren los indicios, huellas o vestigios del hecho, así como los instrumentos, objetos o producto del mismo;
 
-III. Atender las peticiones de servicios periciales que formulen el Ministerio Público del fuero común y las autoridades judiciales del Estado, canalizándolas para su atención a los titulares de las diversas áreas de especialidades de su adscripción;
+III. Atender las peticiones de servicios periciales que formulen el Ministerio Público o la policía con conocimiento de éste, así como de las autoridades judiciales del Estado, canalizándolas para su atención a los titulares de las diversas áreas especializadas de su adscripción;
 
-IV. Acreditar y evaluar a los peritos forenses que presten servicios en el Instituto de manera oficial, y para tal efecto propondrá al Ejecutivo del Estado las normas técnicas aplicables;
+IV. Elaborar y proponer al Ministerio Público o la policía con conocimiento de éste, así como a las autoridades encargadas de impartir justicia, los dictámenes e informes periciales que a su juicio sean necesarios para el esclarecimiento de los hechos jurídicamente controvertidos;
 
-V. Habilitar peritos cuando el Instituto no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera en casos urgentes y/o con la temporalidad que el caso requiera;
+V. Certificar y evaluar la competencia técnica en conocimientos y habilidades de los servidores públicos que desempeñen funciones periciales y que presten servicios en el Instituto de manera oficial, así como de los peritos que funjan de manera particular o como autorizados, sin perjuicio de las disposiciones legales que regulan el registro y designación de peritos en el Poder Judicial del Estado de Jalisco;
 
-VI. Tener a su cargo los archivos de identificación criminalística, de voz, de genética humana y de huellas dactilares;
+VI. Habilitar peritos cuando el Instituto no cuente con especialistas en una determinada disciplina, ciencia o arte que se requiera en casos urgentes o con la temporalidad que se requiera;
 
-VII. Proponer al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos, normas y requisitos de acreditación del desempeño profesional y las normas técnicas y requisitos aplicables para la validación y certificación de las diversas especialidades de las ciencias forenses de los peritos del Instituto;
+VII. Tener a su cargo los archivos de identificación criminalística, de voz, de genética humana, de huellas dactilares, de huellas balísticas y demás parámetros biométricos necesarios para la operación del Sistema Nacional de Información de Seguridad Pública;
 
-VIII. El Instituto podrá coordinarse con otras dependencias y entidades de los tres órdenes de gobierno, así como con los sectores privado y social en el ámbito de su competencia y en cumplimiento de sus atribuciones y objetivos;
+VIII. Proponer al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos y requisitos de certificación de competencias periciales de los peritos oficiales, autorizados y particulares, así como las normas técnicas y requisitos aplicables para la acreditación y certificación de las diversas áreas especializadas de las ciencias forenses que opere el Instituto, sin perjuicio de las disposiciones legales que regulan el registro y designación de peritos en el Poder Judicial del Estado de Jalisco;
 
-IX. Diseñar y establecer los criterios, normas técnicas y lineamientos a que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas especialidades periciales;
+IX. El Instituto podrá coordinarse con otras dependencias y entidades de los tres órdenes de gobierno, así como con los sectores privado y social en el ámbito de su competencia y en cumplimiento de sus atribuciones y objetivos;
 
-X. Elaborar los mecanismos, procedimientos, programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos al Instituto;
+X. Diseñar y establecer los criterios, normas técnicas y lineamientos a que deben apegarse la presentación y formulación de los dictámenes e informes de las diversas áreas especializadas;
 
-XI. Establecer el procedimiento de registro y control para la atención de las peticiones de servicios periciales, así como elaborar los informes y estadísticas correspondientes;
+XI. Elaborar los mecanismos, procedimientos, programas de supervisión y seguimiento de las actividades que realicen los peritos adscritos al Instituto y habilitados por éste;
 
-XII. Establecer y operar un sistema de supervisión permanente del personal técnico científico de las diversas especialidades periciales del Instituto, a efecto de garantizar que cumplan y observen las normas jurídico administrativas vigentes en la materia y la normatividad técnica oficial;
+XII. Establecer el procedimiento de registro y control para la atención de las peticiones de servicios periciales, así como elaborar los informes y estadísticas correspondientes;
 
-XIII. Desconcentrar sus servicios periciales en el interior del estado;
+XIII. Establecer y operar un sistema de supervisión permanente del personal técnico científico de las diversas áreas especializadas del Instituto, a efecto de garantizar que cumplan y observen las normas jurídico administrativas vigentes en la materia y la normatividad técnica oficial;
 
-XIV. Proponer programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de servicios periciales de la Procuraduría General de la República, de las Procuradurías Generales de Justicia de los Estados, con sus similares del extranjero y con instituciones educativas, que logren el mejoramiento y la modernización de sus funciones;
+XIV. Desconcentrar sus servicios periciales en el interior del estado;
 
-XV. Establecer las normas que regulen e instrumenten la cadena de custodia, las cuales deberán ser observadas por los servidores públicos que intervengan en la misma, en los términos de las leyes aplicables, y
+XV. Proponer programas de intercambio de experiencias, conocimientos y avances tecnológicos con las unidades de servicios periciales de la Procuraduría General de la República, de las Fiscalías o Procuradurías Generales de Justicia de los Estados, con sus similares del extranjero y con instituciones educativas, que logren el mejoramiento y la modernización de sus funciones;
 
-XVI. Las demás que establezcan esta ley y su reglamento.
+XVI. Establecer las normas que regulen el sistema de cadena de custodia, las cuales deberán ser observadas por los servidores públicos que intervengan en la misma, en los términos de las leyes aplicables;
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+XVII. Ejecutar la obra pública necesaria para el cumplimiento de sus atribuciones y objetivos;
 
-###### Artículo 6º.
+XVIII. Crear el Registro Estatal de Peritos y Consultores Técnicos con certificado de competencias periciales; y
 
-El objeto principal del Instituto es elaborar dictámenes periciales bajo los principios de objetividad, profesionalismo e independencia técnica, que tiendan a auxiliar en:
+XIX. Las demás que establezcan esta ley y su reglamento.
 
-I. El esclarecimiento de los hechos presuntamente constitutivos de delitos mediante la criminalística y la identificación técnica y científica de los presuntos responsables;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-II. La determinación de las causas de muerte de personas y la identificación de las mismas;
+###### Artículo 6°.
 
-III. Determinación de la composición química de sustancias;
+El objeto principal del Instituto es elaborar dictámenes e informes periciales bajo los principios de objetividad, profesionalismo, independencia técnica, legalidad, eficiencia, honradez y respeto a los derechos humanos, que tiendan a auxiliar a la autoridad correspondiente con la aportación de datos y medios de prueba en:
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+I. El esclarecimiento de los hechos que pudieran ser constitutivos de delitos mediante la criminalística y la identificación técnica y científica de los presuntos responsables, autores o partícipes;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+II. La determinación de las causas de muerte de personas y la identificación de las mismas por cualquier sistema biométrico;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+III. El análisis de la composición química de sustancias;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
 IV. La identificación balística;
 
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
 V. Valoración psicológica y psiquiátrica;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
 VI. Valorización de bienes muebles e inmuebles, así como la identificación de los mismos;
 
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
 VII. Contabilidad y documentos cuestionados;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
 VIII. Agronomía, pecuaria y forestal;
 
-IX. Causalidad en accidentes viales y la identificación de vehículos de motor;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+IX. Causalidad en los siniestros de tránsito terrestre y la identificación de vehículos de motor;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
 X. La informática y la poligrafía;
 
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+
 XI. Siniestros, explosivos y la electromecánica;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
 XII. La traducción e interpretación, y
 
-XIII. Todas aquellas ramas del conocimiento humano en que sea menester descubrir la veracidad de hechos de manera científica.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Todas aquellas ramas del conocimiento humano que sean útiles para aportar datos y medios de prueba de manera científica, respecto de hechos controvertidos.
 
 ### Capítulo III. De los órganos del Instituto
 
@@ -147,63 +189,83 @@ I. La Junta de Gobierno;
 
 II. La Dirección General; y
 
-III. La Tesorería.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+III. La Tesorería; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+IV. La Contraloría.
 
 ### Capítulo IV. De la Junta de Gobierno y sus atribuciones
+
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 7 A LA 8.</small>
 
 ###### Artículo 8º.
 
 La Junta de Gobierno es la primera autoridad del Instituto. Se integrará por once vocalías honoríficas y sus respectivos suplentes, con derecho a voz y voto, conforme a la siguiente relación:
 
-I. El Procurador General de Justicia del Estado, quien presidirá la Junta;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+I. El Titular de la Secretaría General de Gobierno, quien presidirá la Junta;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+II. Titular de la Secretaría de Planeación, Administración y Finanzas;
 
-III. El Secretario de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+III. Titular de la Procuraduría Social;
 
-IV. El Secretario de Administración;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+IV. Titular de la Comisaría de Seguridad Pública;
 
-V. El Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+V. El Secretario de Salud;
 
-VI. El Secretario de Salud, y (sic)
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-VII. Un representante de una institución de educación superior privada en el estado;
+VI. Un representante de una institución de educación superior privada en el estado;
 
-VIII. Un representante de una institución de educación superior pública en el estado;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-IX. Un representante del sector privado del estado;
+VII. Un representante de una institución de educación superior pública en el estado;
 
-X. Un representante de las asociaciones y colegios de abogados del estado, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-XI. Un ciudadano Jalisciense con conocimientos en las ciencias y técnicas forenses y con prestigio académico en las mismas.
+VIII. Un representante del sector privado del estado;
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-Los vocales a que se refieren las fracciones VII, VIII, IX, X y XI serán designados a invitación del Gobernador del Estado. Los miembros durarán en su encargo cuatro años, y podrán ser ratificados para otro periodo, mas el titular del Ejecutivo podrá removerlos libremente para sustituirlos por otros que reúnan los mismos requisitos.
+IX. Un representante de las asociaciones y colegios de abogados del estado; y
 
-###### Artículo 9º.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-La Junta de Gobierno deberá reunirse por lo menos una vez de manera trimestral y cada vez que la convoque el Presidente.
+X. Un ciudadano jalisciense con conocimientos en las ciencias y técnicas forenses y con prestigio académico en las mismas.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+Los vocales a que se refieren las fracciones VI, VII, VIII, IX y X, serán designados a invitación del Gobernador del Estado. Los miembros durarán en su encargo cuatro años, y podrán ser ratificados para otro periodo más, el titular del Ejecutivo podrá removerlos libremente para sustituirlos por otros que reúnan los mismos requisitos.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 9°.
+
+La Junta de Gobierno deberá reunirse por lo menos una vez de manera trimestral y cada vez que la convoque el presidente.
 
 ###### Artículo 10.
 
 La Junta de Gobierno tendrá las siguientes atribuciones:
 
-I. Establecer las reglas y normas técnicas, para la emisión y control de calidad de los dictámenes periciales que emita el Instituto;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+I. Establecer las reglas y normas técnicas, para el control de calidad de los dictámenes periciales e informes que emita el Instituto;
 
-II. Crear unidades desconcentradas y autorizar el proyecto y la ejecución de obra pública de éstas, siempre y cuando sea presupuestalmente viable y cumpliendo con las leyes aplicables.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+II. Crear unidades desconcentradas y autorizar el proyecto y la ejecución de obra pública del Instituto necesarias para el cumplimiento de sus fines, siempre y cuando sea presupuestalmente viable y cumpliendo con las leyes aplicables;
 
 III. Estudiar, y en su caso aprobar, los nombramientos del personal directivo y de los Delegados Regionales que proponga el Director General;
 
@@ -217,7 +279,9 @@ VII. Examinar, y en su caso aprobar, dentro de los últimos días de septiembre,
 
 La Junta de Gobierno deberá someter a dictamen de la Contraloría del Estado de Jalisco, el ejercicio del presupuesto de gastos e inversiones del Instituto;
 
-VIII. Establecer, modificar o suprimir las delegaciones del Instituto en el territorio del Estado;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Establecer, modificar o suprimir las Delegaciones Regionales del Instituto en el territorio del Estado;
 
 IX. Proponer al Ejecutivo las medidas de mejoramiento, fortalecimiento ampliación o incremento de sus presupuestos y atribuciones y en general de todas las medidas que tiendan a la optimización de sus servicios;
 
@@ -227,9 +291,11 @@ XI. Expedir el reglamento interior del Instituto;
 
 XII. Las demás necesarias para el cumplimiento de los fines del Instituto, y que no se encuentren encomendadas a otro órgano del mismo.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-La Junta de Gobierno presentará ante el Ejecutivo del Estado un dictamen sobre los estados financieros y funcionales de cada ejercicio social del Instituto, acompañado de un dictamen de auditor externo, para cuyo caso le será dado a conocer, por lo menos treinta días antes de la fecha en que se vaya a informar al Gobernador.
+La Junta de Gobierno presentará ante el Ejecutivo del Estado un dictamen sobre los estados financieros y funcionales de cada ejercicio fiscal del Instituto, acompañado de un dictamen de auditor externo mismo que deberá contar con la certificación correspondiente, para cuyo caso le será dado a conocer, por lo menos treinta días antes de la fecha en que se vaya a informar al Gobernador.
 
 ###### Artículo 12.
 
@@ -237,15 +303,15 @@ El balance anual del Instituto deberá publicarse dentro de los treinta días si
 
 ### Capítulo V. De la (sic) atribuciones del Director General, del Tesorero y de las unidades administrativas del Instituto
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
-El Director General del Instituto será nombrado y removido libremente por el titular del Poder Ejecutivo del Estado. Para ocupar dicho cargo se requiere:
+El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado. Para ocupar dicho cargo se requiere:
 
 I. Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Gozar de reconocida honorabilidad; y (sic)
+II. Gozar de reconocida honorabilidad; y
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
@@ -265,11 +331,11 @@ V. No haber sido condenado por sentencia irrevocable como responsable de delito 
 
 El Director General, quien será el superior jerárquico de todas las unidades administrativas del Instituto, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-I. Representar legalmente al Instituto con todas las facultades para administrar los bienes y negocios del Instituto, con plenas facultades de gestión, representación y dominio, salvo que el patrimonio inmobiliario no podrá ser enajenado sino con autorización previa del Congreso del Estado. Estas atribuciones las ejercerá en la forma en que acuerde la Junta de Gobierno.
+I. Representar legalmente al Instituto con plenas facultades generales para pleitos y cobranzas, actos de administración, en materia laboral y dominio, salvo que el patrimonio inmobiliario no podrá ser enajenado sino con autorización previa del Congreso del Estado.
 
-El Director General podrá delegar la representación, incluyendo la facultad expresa para conciliar ante la Junta de Conciliación y Arbitraje, así como otorgar y revocar poderes generales o especiales, pero cuando sean en favor de personas ajenas al Instituto deberá recabar previamente el acuerdo de la Junta de Gobierno;
+El Director General podrá delegar la representación, así como otorgar y revocar poderes generales y especiales, incluyendo la facultad para pleitos y cobranzas, actos de administración, en materia laboral y designar voceros en juicio;
 
 II. Asistir a las sesiones de la Junta de Gobierno sólo con derecho a voz;
 
@@ -289,7 +355,9 @@ VIII. Remitir para la aprobación del titular del Poder Ejecutivo del Estado las
 
 IX. Sugerir a la Junta de Gobierno las reformas al presupuesto de egresos, cuando éste lo requiera;
 
-X. Someter al Consejo Directivo para su aprobación, el costo de los servicios que preste el Instituto vía convenios o contratos;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+X. Someter a la Junta de Gobierno para su aprobación, el costo de los servicios que preste el Instituto vía convenios o contratos;
 
 XI. Nombrar y remover al personal, señalándole sus funciones y remuneraciones;
 
@@ -301,17 +369,21 @@ XIII. Presentar a la consideración de la Junta de Gobierno, un informe trimestr
 
 XIV. Presentar a la Junta de Gobierno, cada año, los presupuestos de operación, los planes de labores y de financiamiento para el año siguiente, así como un programa de trabajo, requerimientos de equipo, capacitación y recursos humanos;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-XV. Expedir copias certificadas de los documentos que obren en sus archivos, así como de aquellas áreas que dependan directamente de la Dirección General a petición de las autoridades implicadas, y que no contravengan disposiciones legales, atendiendo a los lineamientos nacionales de información clasificada en seguridad pública, procuración e impartición de justicia del Sistema Nacional de Seguridad Pública;
+XV. Expedir copias certificadas de los documentos que obren en sus archivos, así como de las demás áreas del Instituto;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-XVI. Designar en sus ausencias temporales, que no excedan de un mes, a quien deba encargarse del despacho de los asuntos de su competencia, y
+XVI. Designar en sus ausencias temporales, que no excedan de un mes, a quien deba encargarse del despacho de los asuntos de su competencia;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-XVII. Las demás que le sean asignadas por la Junta de Gobierno, los reglamentos respectivos y otras disposiciones legales aplicables.
+XVII. Establecer un Sistema de Reconocimientos y Estímulos para todo el personal del Instituto. Las modalidades, los requisitos y procedimientos para otorgar los reconocimientos estarán regulados por el reglamento respectivo; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Las demás que le sean asignadas por la Junta de Gobierno, los reglamentos respectivos y otras disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -331,19 +403,17 @@ III. Dirección Administrativa;
 
 IV. Dirección Jurídica;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-V. Dirección de Capacitación;
+V. Dirección de Investigación y Capacitación;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+VI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
-VI. Dirección de Investigación;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2012)</small>
+VII. Dirección de Delegaciones regionales; y
 
-VII. Delegaciones regionales, y
-
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 VIII. Dirección de Laboratorios.
 
@@ -355,9 +425,13 @@ I. Llevar la contabilidad del Instituto, tramitando y resolviendo los asuntos fi
 
 II. Formular los estados financieros, balance anual e informes estadísticos y económicos del Instituto y presentarlos a la consideración de la Junta de Gobierno, por conducto del Director General;
 
-III. Informar al Director General, el estado de la contabilidad y los movimientos financieros;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-IV. Otorgar y suscribir títulos de crédito a nombre del Instituto, con la firma mancomunada de los responsables de las dependencias correspondientes; ejercerá las facultades de dominio en representación de la Junta de Gobierno, salvo la de enajenación de bienes inmuebles;
+III. Informar permanentemente al Director General, el estado de la contabilidad y los movimientos financieros;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+IV. Otorgar y suscribir títulos de crédito a nombre del Instituto, con la firma mancomunada de los responsables de las dependencias correspondientes; ejercerá las facultades de dominio en representación del Instituto acorde con los lineamientos que disponga la Junta de Gobierno, salvo la de enajenación de bienes inmuebles;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
@@ -367,9 +441,9 @@ V. Supervisar los registros, procedimientos e informes contables del Instituto;
 
 VI. Librar cheques mancomunadamente con el Director General o el Director Administrativo, así como solicitar a la Junta de Gobierno del Instituto, por conducto del Director General, la autorización de suplentes para la suscripción de títulos de crédito de manera mancomunada;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-VII. Realizar y valorar los activos fijos;
+VII. Realizar y valorar el inventario de los activos fijos;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
@@ -389,43 +463,55 @@ X. Las demás que se prevean en el reglamento interno, o expresamente se le enco
 
 Los titulares de las unidades a que se refiere el artículo 15 de esta ley tendrán, además de las atribuciones que se establezcan en el reglamento interior, las siguientes:
 
-I. Dirección de Dictaminación Pericial: coordinar los recursos y las acciones de las áreas periciales, en la elaboración de dictámenes periciales forenses, en apoyo a las instituciones de procuración e impartición de justicia estatales;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-II. Dirección del Servicio Médico Forense: elaborar dictámenes periciales en materia de estudios necrológicos y patológicos, con el propósito de contribuir al esclarecimiento de las causas de muerte, en apoyo a las instituciones de procuración e impartición de justicia estatales;
+I. Dirección de Dictaminación Pericial: le corresponde el coordinar los recursos materiales y humanos, así como las acciones de las áreas periciales, en la elaboración de dictámenes e informes periciales forenses, en apoyo a las instituciones de procuración e impartición de justicia;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+II. Dirección del Servicio Médico Forense: le corresponde la elaboración (sic) dictámenes periciales e informes en materia de estudios necrológicos y patológicos, con el propósito de determinar o esclarecer las causas de muerte, en apoyo a las instituciones de procuración e impartición de justicia;
 
 III. Dirección Administrativa: brindar a las diferentes áreas que conforman el Instituto, los apoyos en materia de capital humano, recursos financieros, materiales y tecnológicos;
 
 IV. Dirección Jurídica: representar jurídicamente al Instituto ante las instancias correspondientes, así como brindar asesoría técnica-jurídica a las áreas que conforman el mismo y emitir las opiniones legales que se requieran;
 
-V. Dirección de Investigación: proponer, desarrollar, supervisar y operar nuevas técnicas de investigación en las diferentes áreas del Instituto;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-VI. Dirección de Capacitación: establecer y operar los programas y ejercer las acciones de capacitación especializada a los servidores públicos de este organismo, así como a entidades públicas y particulares, impulsando así la actualización de los conocimientos periciales en materia forense;
+V. Dirección de Investigación y Capacitación: le corresponde aplicar el Sistema de Certificación de competencias profesionales, actualizar el Registro Estatal de Peritos y Consultores Técnicos con certificado de competencias profesionales, de conformidad con el Reglamento; establecer y operar los programas y las acciones de capacitación especializada a los servidores públicos de este organismo, a entidades públicas y particulares, impulsando así la actualización de los conocimientos periciales en materia forense, proponer, desarrollar, supervisar y operar proyectos de investigación en las diferentes áreas del Instituto. Así como las de mejora continua para el cumplimiento de los objetivos y políticas del Instituto. La propiedad intelectual de todo conocimiento generado, será atribuida al Instituto;
 
-VII. Dirección de Delegaciones: dirigir y coordinar las acciones administrativas, de dictaminación pericial y todas aquellas derivadas de los servicios que este organismo presta en las diversas delegaciones regionales, con la finalidad de allegar dichos servicios a los municipios del estado, y
+VI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
-VIII. Dirección de Laboratorios: obtener mediante los diversos instrumentos, equipos y sistemas de alta tecnología, resultados que contribuyan a la investigación criminalística en apoyo a las demás áreas del Instituto y a las instituciones de procuración e impartición de justicia estatales.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+VII. Dirección de Delegaciones: dirigir y coordinar las acciones administrativas, operativas, de dictaminación pericial y todas aquellas derivadas de los servicios que este organismo presta en las diversas delegaciones regionales, con la finalidad de allegar dichos servicios a los municipios del estado; y
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Dirección de Laboratorios: obtener mediante los diversos instrumentos, equipos y sistemas de alta tecnología, resultados que aporten datos o medios de prueba mediante la emisión de dictámenes e informes en apoyo a las demás áreas del Instituto y a las instituciones de procuración e impartición de justicia estatales.
 
 ### CAPITULO VI. De los convenios y contratos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-En la prestación de sus servicios técnicos y científicos, el Instituto podrá cobrar a los usuarios las tarifas que al efecto señale la Ley de Ingresos del Gobierno del Estado de Jalisco, salvo que se trate de solicitudes formuladas por órganos estatales encargados de procurar o administrar justicia o de las excepciones establecidas en el reglamento de la presente ley.
+El Instituto podrá celebrar convenios de coordinación o de colaboración con dependencias, entidades, autoridades y organismos del orden federal, estatal y municipal, así como con instituciones de educación superior, en los que se podrá establecer el cobro por los servicios pactados.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-Para tal efecto la Junta de Gobierno del Instituto deberá remitir a más tardar el 1º de septiembre de cada año el anteproyecto de cobro de tarifas por los servicios técnicos y científicos al Poder Ejecutivo a través de la Secretaría de Finanzas a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
+Para tal efecto la Junta de Gobierno del Instituto deberá remitir a más tardar el 1° de septiembre de cada año el anteproyecto de cobro de tarifas por los servicios técnicos y científicos al Poder Ejecutivo a través e (sic) la Secretaría de Planeación Administración y Finanzas a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE AGOSTO DE 2003)</small>
 
 En la prestación de los servicios técnicos y científicos a particulares del Instituto deberá garantizar no se distraiga el cumplimiento de su finalidad.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-Para los efectos del artículo anterior, el Instituto podrá celebrar convenios de coordinación o de colaboración con dependencias, entidades, autoridades y organismos del orden federal, estatal y municipal, así como con instituciones de educación superior, en los que se establecerá el cobro por los servicios ofrecidos, con excepción de los supuestos establecidos en el artículo anterior.
+En la prestación de sus servicios técnicos, científicos, académicos así como los de Certificación de competencias profesionales y en la intervención como peritos o consultores técnicos, el Instituto podrá cobrar a los usuarios las tarifas que al efecto señale la Ley de Ingresos del Gobierno del Estado de Jalisco, incluso aquellas solicitudes formuladas por órganos estatales encargados de procurar o administrar justicia, cuando expresamente requieran la contratación del servicio.
+
+Para tal efecto la Junta de Gobierno del Instituto deberá remitir el anteproyecto de cobro de tarifas por los servicios que oferte el Instituto, a más tardar el 1° de septiembre de cada año al Titular del Poder Ejecutivo, a través de la Secretaria de Planeación, Administración y Finanzas, a fin de que se incluyan en el proyecto de Ley de Ingresos del Estado de Jalisco.
 
 ### Capítulo VII. De los servidores públicos del Instituto
 
@@ -437,61 +523,55 @@ Las relaciones laborales se regirán por la Constitución Política de los Estad
 
 El personal del Instituto gozará de la seguridad social que instituye la Ley del Instituto de Pensiones del Estado de Jalisco.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+Los servidores públicos deberán de asistir a los cursos de capacitación que para tal efecto implemente el Instituto, acatar las instrucciones que sus superiores jerárquicos dicten en el ejercicio de sus funciones, sin perjuicio de cumplir con las obligaciones establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-Son requisitos del personal encargado de aplicar las normar (sic) técnicas y elaborar los dictámenes periciales, contar con título profesional o especialidad técnica, debidamente acreditada, que lo faculte para ejercer la ciencia o especialidad técnica de que se trate.
+Son requisitos del personal encargado de aplicar las normas técnicas y elaborar los dictámenes e informes periciales, contar con título profesional o especialidad técnica de que se trate, si ésta se encuentra reglamentada, o en su caso documento emitido por alguna institución educativa con reconocimiento de validez oficial de estudios sobre la materia forense respectiva.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2012)</small>
+Tratándose del personal encargado de elaborar los dictámenes e informes médico-forenses, será requisito tener título profesional de medicina, acreditado mediante documento o certificado con validez oficial registrado en la Dirección de Profesiones del Estado.
 
-Tratándose del personal encargado de elaborar los dictámenes médico-forenses, será requisito tener título profesional de medicina y especialidad en medicina forense acreditada mediante documento o certificado con validez oficial registrado en la Dirección de Profesiones del Estado.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-El personal técnico y profesional estará sujeto a responsabilidad por:
+El personal pericial estará sujeto a responsabilidad cuando:
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+I. Incumpla cualquiera de las obligaciones contenidas en las leyes de carácter administrativo que rigen a los elementos operativos del Instituto Jalisciense de Ciencias Forenses;
 
-I. Incumplir o dilatar la emisión de los dictámenes que les hayan sido turnados sin causa justificada;
+II. Incumplan o retrasen la emisión de los dictámenes que le hayan sido turnados sin causa justificada;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+III. Realicen o encubran conductas que atenten contra la imparcialidad y autonomía técnica en la emisión de los dictámenes e informes periciales
 
-II. Realizar o encubrir conductas que atenten contra la imparcialidad y autonomía técnica en la emisión de los dictámenes periciales;
+IV. No cumplan con las normas técnicas oficiales, las normas administrativas y las leyes que se establezcan para el debido cumplimiento de su labor pericial;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+V. Omitan la práctica de las diligencias de campo necesarias, según la naturaleza de cada asunto;
 
-III. No cumplir con las normas técnicas oficiales, las normas administrativas y las leyes que se establezcan para el debido cumplimiento de su labor pericial;
+VI. Cometan acciones u omisiones que contravengan las obligaciones que le impongan la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y demás leyes aplicables; y
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+VII. Tengan una notoria ineptitud o descuido en el desempeño de las funciones periciales y administrativas que deban realizar.
 
-IV. Omitir la práctica de las diligencias de campo necesarias, según la naturaleza de cada asunto, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2012)</small>
-
-V. Cometer acciones u omisiones que contravengan las obligaciones que le impongan la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y demás leyes aplicables.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
 
-El personal encargado de aplicar las normas técnicas y realizar los dictámenes deberán:
+El personal encargado de aplicar las normas técnicas y realizar los dictámenes o informes periciales deberán:
 
-I. Formular los dictámenes que se le soliciten;
+I. Formular los dictámenes e informes periciales que se le soliciten;
 
-II. Verificar que las técnicas que se aplican en los dictámenes periciales, sean las más avanzadas y adecuadas; y (sic)
+II. Verificar que las técnicas que se aplican en los dictámenes o informes periciales, sean las más avanzadas y adecuadas para el caso en particular;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
+III. Señalar en el cuerpo de su dictamen o informe pericial, el método o métodos utilizados para su emisión en concordancia con la normativa técnica oficial;
 
-III. Señalar en el cuerpo de su dictamen la metodología utilizada para su emisión concordada con la normativa técnica oficial;
+IV. Atender y desarrollar las acciones necesarias para la debida emisión de sus dictámenes o informes periciales; así como presentarse ante la autoridad cuando se le notifique por cualquier medio que disponga la ley respectiva, de que le resultó cita;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2012)</small>
+V. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
-IV. Atender y desarrollar las acciones necesarias para la debida emisión de sus dictámenes; así como cumplir con las citaciones, notificaciones y presentaciones que se le ordenen;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2012)</small>
-
-V. Asistir a los cursos de capacitación que para tal efecto implemente el Instituto, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE ABRIL DE 2012)</small>
-
-VI. Acatar las instrucciones que sus superiores jerárquicos dicten en el ejercicio de sus funciones.
+VI. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 ### Capítulo VIII. Del patrimonio del Instituto
 
@@ -522,6 +602,66 @@ VII. Todos los demás bienes o derechos que perciba en el ejercicio de sus atrib
 ###### Artículo 25.
 
 Los ingresos que perciba el Instituto se destinarán, en primer término, a cubrir los gastos de administración por los servicios que preste; al pago de adeudos contraídos y, si hubiera remanente, se constituirá un fondo de reserva para la ampliación y mejoramiento del Instituto, depositando los excedentes en instituciones financieras, con el objeto de evitar contraer adeudos. Podrán crearse por acuerdo de la Junta de Gobierno, los fondos que se consideren convenientes para los programas específicos y, con los productos, se ampliarán los propios fondos o pasarán a formar parte del ingreso.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+### Capítulo IX
+
+De la Contraloría.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 26.
+
+La Contraloría, fungirá como órgano interno de control, vigilancia y disciplina, al frente del cual estará un titular llamado Contralor.
+
+La Contraloría depende administrativamente del Director General del Instituto, pero gozará de autonomía en el ejercicio de sus funciones, contando con las siguientes atribuciones:
+
+I. Solicitar la información y efectuar los actos de visita, inspección y vigilancia que requieran para el cumplimiento de sus funciones;
+
+II. Realizar revisiones, auditorias, visitas de inspección y verificación de las distintas áreas, unidades administrativas y desconcentradas del Instituto, realizando la designación de auditores internos para el ejercicio de sus funciones;
+
+III. Presentar al Director General los informes resultantes de las auditorías, exámenes y evaluaciones realizados;
+
+IV. Vigilar, verificar y evaluar el cumplimiento de las normas, políticas, lineamientos, planes, presupuestos, procedimientos y demás ordenamientos legales aplicables al Instituto;
+
+V. Vigilar que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables;
+
+VI. Emitir recomendaciones y dar seguimiento a las mismas con motivo de auditorías, visitas practicadas, investigaciones u observaciones;
+
+VII. Atender las observaciones o recomendaciones que realice la Contraloría del Estado y los auditores externos;
+
+VIII. Iniciar, llevar a cabo, substanciar y resolver los procedimientos, según sea el caso, en los términos aplicables de las leyes siguientes:
+
+a) Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios,
+
+b) Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco,
+
+c) Ley del Sistema de Seguridad Pública para el Estado de Jalisco,
+
+d) Las demás que resulten aplicables;
+
+IX. Recibir, atender e investigar las quejas, denuncias y sugerencias que se formulen por el actuar de los servidores públicos del Instituto y, en su caso, canalizarlas al área competente, de conformidad con la ley aplicable;
+
+X. Llevar el registro de sanciones y medidas disciplinarias aplicadas al personal del Instituto;
+
+XI. Asesorar cuando se le solicite sobre los nombramientos y, en su caso, remoción de los empleados del Instituto;
+
+XII. Asesorar cuando se le solicite sobre la celebración y ejecución de los convenios y contratos en que sea parte el Instituto;
+
+XIII. Requerir e informar a los empleados del Instituto, a solicitud de la Contraloría del Estado, sobre la presentación u omisión de su declaración de situación patrimonial;
+
+XIV. Formar parte del Comité o Comisión de Adquisiciones y Enajenaciones del Instituto e intervenir en los procesos que se lleven a cabo ante ella;
+
+XV. Participar en el Comité de Obra Pública del Instituto;
+
+XVI. Las demás que le sean asignadas por la Junta de Gobierno, los reglamentos respectivos y otras disposiciones legales aplicables.
+
+La Junta de Gobierno, el Director General o las demás áreas y entidades del Instituto deben proporcionar la información que les solicite la Contraloría señalada en el presente capítulo y facilitar las diligencias de inspección y vigilancia que se realicen.
+
+El titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.
+
+El Órgano Interno de Control y Vigilancia depende administrativamente del Director, pero gozará de autonomía en el ejercicio de sus atribuciones.
 
 ## TRANSITORIOS
 
@@ -582,3 +722,13 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo realizará las modificaciones necesarias en el Presupuesto de Egresos, para el cumplimiento del presente decreto.
 
 TERCERO. El Instituto presentará al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, dentro de los ciento ochenta días naturales a la publicación del presente decreto, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos, normas y requisitos de acreditación del desempeño profesional, y las normas técnicas y requisitos aplicables para la validación y certificación de las diversas especialidades de las ciencias forenses de los peritos del Instituto.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+Segundo. La Junta de Gobierno del Instituto Jalisciense de Ciencias Forenses deberá ajustar sus disposiciones reglamentarias a lo dispuesto en el presente decreto dentro de los noventa días hábiles siguientes a su entrada en vigor.
+
+Tercero. El Instituto Jalisciense de Ciencias Forenses deberá instituir el Registro Estatal de Peritos y Consultores Técnicos, dentro de los noventa días hábiles siguientes a la entrada en vigor del presente decreto.
+
+Cuarto. El Instituto Jalisciense de Ciencias Forenses, deberá proponer al titular del Ejecutivo del Estado, para su aprobación y publicación en el periódico oficial El Estado de Jalisco, las normas, lineamientos, criterios técnicos y científicos, así como los reglamentos y requisitos de certificación de competencias profesionales de los peritos oficiales, autorizados y particulares, así como las normas técnicas y requisitos aplicables para la acreditación y certificación de las diversas áreas especializadas de las ciencias forenses que opere el Instituto, dentro de los ciento veinte días posteriores a la entrada en vigor del presente decreto.
