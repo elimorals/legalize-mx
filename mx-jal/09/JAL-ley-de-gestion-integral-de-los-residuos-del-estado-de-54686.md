@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-gestion-integral-de-los-residuos-del-estado-de-54686"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2014-12-20"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -171,7 +171,9 @@ XII. Coadyuvar con el Gobierno Federal en la integración de los subsistemas de 
 
 XIII. Diseñar el establecimiento y aplicación de los instrumentos económicos, fiscales, financieros y de mercado, que tengan por objeto prevenir o reducir la generación de residuos y su gestión integral;
 
-XIV. Integrar el Sistema Estatal de Información sobre la Gestión Integral de Residuos a cargo de la Secretaría, auxiliándose con el Instituto de Información Territorial del Estado y demás instituciones que manejen información estadística;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Integrar el Sistema Estatal de Información sobre la Gestión Integral de Residuos a cargo de la Secretaría, auxiliándose con el Instituto de Información Estadística y Geográfica del Estado de Jalisco y demás instituciones que manejen información estadística;
 
 XV. Integrar los órganos de consulta en los que participen las entidades y dependencias de la administración pública, instituciones académicas, organizaciones sociales y empresariales que tendrán funciones de asesoría, evaluación y seguimiento en materia de la política de prevención y gestión integral de los residuos en la que podrán emitir las opiniones y observaciones que estimen pertinentes;
 
@@ -343,7 +345,7 @@ XIII. Fijar los medios de financiamiento de todas las acciones programadas;
 
 XIV. Fomentar la generación, sistematización y difusión de Información del manejo de los residuos sólidos para la toma de decisiones;
 
-XV. Fomentar el desarrollo, uso de tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan la minimización y vaIorización de los residuos sólidos;
+XV. Fomentar el desarrollo, uso de tecnologías, métodos, prácticas y procesos de producción y comercialización que favorezcan la minimización y valorización de los residuos sólidos;
 
 XVI. Establecer acciones orientadas a recuperar los sitios contaminados por el manejo de los residuos sólidos;
 
@@ -1278,3 +1280,7 @@ P.O. 23 DE JUNIO DE 2012.
 P.O. 20 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco"
