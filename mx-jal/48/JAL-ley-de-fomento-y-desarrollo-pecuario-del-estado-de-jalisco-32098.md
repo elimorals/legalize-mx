@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2014-02-22"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -229,7 +229,9 @@ XV. Designar a los expeditores adscritos a las organizaciones pecuarias locales,
 
 Los expeditores dependerán laboralmente de las organizaciones pecuarias a las que estén adscritos y tendrán las facultades que se establezcan en la ley y su reglamento;
 
-XVI. Establecer el registro estatal de productores pecuarios e identificarlos a través de la expedición de su credencial de productor pecuario, con el fin de ejecutar las acciones reguladas a que se refiere la presente ley;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Establecer el registro estatal de productores pecuarios e identificarlos a través de la expedición de su Credencial Única Agroalimentaria, con el fin de ejecutar las acciones reguladas a que se refiere la Ley;
 
 XVII. Llevar el registro y control de los medios de identificación que permitan acreditar la propiedad de las especies domésticas productivas, productos y subproductos;
 
@@ -375,9 +377,13 @@ I. Autorizar con su firma y sello:
 
 a) Las órdenes de sacrificio de las especies domésticas productivas a nombre de la persona que lo solicite, previa acreditación de la legítima procedencia y propiedad de las especies domésticas productivas; siendo responsable si autoriza el sacrificio de animales que presenten irregularidades en su documentación o estén enfermos, por no haber realizado la inspección física de los animales, comparando los datos de las facturas, documentos de transmisión de propiedad y guías de tránsito con las características de los animales que vayan a ser sacrificados, y
 
-b) Certificar la solicitud para obtener la credencial de introductor pecuario a los rastros municipales o particulares;
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+b) Certificar la solicitud para obtener la Credencial Única Agroalimentaria para introducir ganado a los rastros municipales o particulares;
 
 II. Llevar la estadística de precios, movilización y sacrificio de animales de las especies domésticas productivas, productos y subproductos en los formatos específicos elaborados para tal efecto por la Secretaría;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 III. Llevar el registro y control de productores pecuarios e introductores en el municipio o localidad;
 
@@ -421,15 +427,17 @@ Las organizaciones pecuarias legalmente constituidas, registradas y debidamente 
 
 La contravención a esta disposición será motivo de aplicación de las sanciones previstas en el capítulo correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-Los productores pecuarios invariablemente deberán presentar su registro del medio de identificación o la credencial vigente de productor pecuario expedida por la Secretaría, como requisito previo para realizar los trámites de facturación, compra, venta, movilización o sacrificio de las especies domésticas productivas que se encuentren marcadas con el medio de identificación previamente registrado ante la propia Secretaría.
+Los productores pecuarios invariablemente deberán presentar su Credencial Única Agroalimentaria vigente expedida por la Secretaría, como requisito previo para realizar los trámites de facturación, compra, venta, movilización o sacrificio de las especies domésticas productivas que se encuentren marcadas con el medio de identificación previamente registrado ante la propia Secretaría.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-La expedición de la credencial de productor pecuario, causará el pago que señala la Ley de Ingresos del Estado, debiendo cubrirse el mismo en las oficinas de recaudación estatal, ubicadas en los municipios, dependientes de la Secretaría de Planeación, Administración y Finanzas.
+La expedición de la Credencial Única Agroalimentaria causará el pago que señala la Ley de Ingresos del Estado, debiendo cubrirse el mismo en las oficinas de recaudación estatal, ubicadas en los municipios, dependientes de la Secretaría de Planeación, Administración y Finanzas.
 
 ###### Artículo 23.
 
@@ -603,7 +611,9 @@ A los registros posteriores procede su cancelación y la sanción que correspond
 
 La Secretaría no autorizará más de un medio de identificación para una sola persona dentro de una misma actividad pecuaria en el mismo municipio.
 
-Todos los propietarios de especies domésticas productivas tienen la obligación de refrendar su credencial de productor pecuario cada 5 años bajo el procedimiento que establezca el reglamento de la presente Ley, de no hacerlo, les será cancelado su registro previo derecho de audiencia.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+Todos los propietarios de especies domésticas productivas tienen la obligación de refrendar su Credencial Única Agroalimentaria cada cinco años bajo el procedimiento que establezca el reglamento de esta Ley, de no hacerlo, les será cancelado su registro previo derecho de audiencia.
 
 ###### Artículo 34.
 
@@ -625,11 +635,13 @@ Los animales cuyo medio de identificación sea alterado, modificado o encimado s
 
 La propiedad de las especies domésticas productivas, productos y subproductos para fines de sacrificio, movilización, explotación o comercialización, se acreditará con los documentos que a continuación se describen:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-I. El documento de transmisión de propiedad de las especies domésticas productivas, productos y subproductos que expide la Secretaría de Planeación, Administración y Finanzas o, en su caso, el original de la factura fiscal. El documento de transmisión o la factura fiscal, deberá ser validado debidamente con el nombre, firma y sello del expeditor, expedida en el lugar de procedencia de los animales, productos o subproductos.
+I. El documento de transmisión pecuaria de las especies domésticas productivas, productos y subproductos que expide la Secretaría de Planeación, Administración y Finanzas o, en su caso, el original de la factura fiscal. El documento de transmisión o la factura fiscal, deberá ser validado debidamente con el nombre, firma y sello del expeditor, expedida en el lugar de procedencia de los animales, productos o subproductos.
 
-Tratándose de propietarios subsecuentes que hayan adquirido mediante compraventa, deberán acreditar la procedencia de las especies domésticas productivas, sus productos y subproductos con la credencial de ganadero, su patente del medio de identificación o las correspondientes originales de las facturas o de los documentos de transmisión de propiedad, acompañado de la documentación oficial que acredite la transacción y movilización
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+Tratándose de propietarios subsecuentes que hayan adquirido mediante compraventa, deberán acreditar la procedencia de las especies domésticas productivas, sus productos o subproductos con la Credencial Única Agroalimentaria, su patente del medio de identificación o las correspondientes originales de las facturas o de los documentos de transmisión de propiedad, acompañado de la documentación oficial que acredite la transacción y movilización.
 
 (F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
 
@@ -763,7 +775,9 @@ Los animales mostrencos que sufran una enfermedad contagiosa o que, por alguna c
 
 Toda persona que pretenda movilizar cualquiera de las especies domésticas productivas, productos y subproductos, dentro del Estado o hacia otras entidades, deberá observar lo siguiente:
 
-I. Obtener en el lugar de origen donde se encuentren las especies domésticas productivas, el formato único de guía de tránsito, documento que autoriza la legal movilización, para lo cual se deberá presentar ante el expeditor de la asociación ganadera local correspondiente, su credencial de ganadero o su registro de medio de identificación; dicho formato contendrá los siguientes datos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+I. Obtener en el lugar de origen donde se encuentren las especies domésticas productivas, el formato único de guía de tránsito, documento que autoriza la legal movilización, para lo cual se deberá presentar ante el expeditor de la asociación ganadera local correspondiente, su Credencial Única Agroalimentaria; dicho formato contendrá los siguientes datos:
 
 a) Nombre, domicilio y teléfono particular, código postal, número y figura de la patente y firma del criador o propietario del ganado;
 
@@ -777,7 +791,9 @@ e) En su caso, la Organización pecuaria a la que pertenece;
 
 f) En forma optativa el Registro Federal de Contribuyentes y la Clave Única del Registro Poblacional; CURP;
 
-g) Número de credencial de productor pecuario, así como vencimiento de la misma;
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+g) Número de Credencial Única Agroalimentaria, así como el vencimiento de la misma;
 
 h) Nombre y domicilio particular del destinatario y en su caso registro federal de contribuyentes;
 
@@ -1291,13 +1307,13 @@ XVI. Elaborar, en coordinación con el médico veterinario zootecnista, un repor
 
 En los rastros se dará información clara y oportuna a los interesados sobre los requisitos para hacer uso de los servicios que ahí se presten y se facilitará la introducción y sacrificio de ganado a los productores, sin más trámite que presentar su orden de sacrificio expedida por el inspector de ganadería y haber cumplido las normas señaladas en la presente Ley y en el reglamento respectivo.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 117.
 
-Las personas que se dediquen a la compra venta o introducción de ganado a los rastros o centros de sacrificio, deberán gestionar y obtener la credencial de identificación como introductor, expedida por la Secretaría, a través del ayuntamiento correspondiente, previo cumplimiento de los requisitos establecidos en el reglamento y del pago de los derechos correspondientes.
+Las personas que se dediquen a la compra venta o introducción de ganado a los rastros o centros de sacrificio, deberán gestionar y obtener la Credencial Única Agroalimentaria como introductor, expedida por la Secretaría, a través del ayuntamiento correspondiente, previo cumplimiento de los requisitos establecidos en el reglamento y del pago de los derechos correspondientes.
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
-
-Dicha credencial tendrá vigencia de tres años y deberá renovarse al término de los mismos; sólo podrá suspenderse por infracciones graves a esta ley o a la reglamentación municipal del rastro respectivo, a juicio de la Secretaría.
+Dicha Credencial Única Agroalimentaria tendrá vigencia de cinco años y deberá renovarse al término de los mismos; solo podrá suspenderse por infracciones graves a esta ley o a la reglamentación municipal del rastro respectivo, a juicio de la Secretaría.
 
 ### CAPÍTULO III. De los Rastros Concesionados a Particulares
 
@@ -1415,9 +1431,9 @@ Se consideran sanciones administrativas:
 
 I. Cuando por error, dolo u otras circunstancias se llegaren a registrar dos o más medios de identificación, tendrá valor legal solamente el primer registro, por lo tanto, respecto de los registros posteriores, procede su cancelación;
 
-(F. DE. E., P.O. 16 DE DICIEMBRE DE 2003)
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-II. Cuando por error, dolo u otra circunstancia, se haga mal uso de la credencial de introductor, a juicio de la autoridad municipal, se procederá a su cancelación; y
+II. Cuando por error, dolo u otra circunstancia, se haga mal uso de la Credencial Única Agroalimentaria como introductor, a juicio de la autoridad municipal, se procederá a su cancelación; y
 
 III. Los expendios de carne clasificada que expendan carne diferente a la autorizada, serán clausurados y cancelado el permiso.
 
@@ -1524,3 +1540,15 @@ TERCERO. Se autoriza a la Secretaría de Finanzas a realizar todas las adecuacio
 P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría de Desarrollo Rural gestionará ante la Secretaría de Planeación, Administración y Finanzas, la inclusión en el proyecto de Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal 2016, los conceptos necesarios para la debida implementación de la Credencial Única Agroalimentaria.
+
+TERCERO. Para efectos de la implementación de la Credencial Única Agroalimentaria, las personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, tendrá (sic) un plazo de ciento veinte días naturales contados a partir del 1° de enero de 2016 para quedar debidamente inscritas en el Registro y obtener su Credencial Única Agroalimentaria.
+
+CUARTO. La Ley de Ingresos del Gobierno del Estado para el ejercicio fiscal de 2016, deberá establecer un descuento para aquellas personas físicas o jurídicas dedicadas a las actividades reguladas en la Ley de Desarrollo Rural Sustentable y demás leyes aplicables, que deseen cambiar su credencial vigente por la Credencial Única Agroalimentaria. Dicho descuento será en proporción al tiempo de vigencia que tengan las credenciales cuya renovación se lleve a cabo.
+
+QUINTO. Para efectos de este decreto, las credenciales únicas agroalimentarias que se expidan durante el año 2015 tendrán vigencia por tres años.
