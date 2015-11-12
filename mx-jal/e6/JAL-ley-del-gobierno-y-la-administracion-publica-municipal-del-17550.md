@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2015-08-22"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1535,19 +1535,15 @@ Dichos indicadores de desempeño corresponden a un índice, medida, cociente o f
 
 Asimismo, los presupuestos se sujetan a las siguientes reglas:
 
-I. Los Ayuntamientos deben elaborar y aprobar sus presupuestos de egresos, a más tardar, el día 15 de diciembre del año anterior al en que deben regir, considerando su actividad económica preponderante, la extensión de su territorio, las actividades prioritarias de sus habitantes, la amplitud de sus servicios públicos, la forma de distribución de la población, la prioridad de la obra pública y sus endeudamientos;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I, PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. El Presidente Municipal, deberá presentar a los integrantes del Ayuntamiento, el Proyecto de Presupuesto de Egresos para el ejercicio fiscal del año siguiente, junto con los anexos a que se refiere la fracción II de este artículo, a más tardar el primer día hábil del mes de diciembre y deberá transcurrir un plazo mínimo de quince días antes de que el Ayuntamiento proceda a su discusión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE ENERO DE 2007)</small>
+Los ayuntamientos deben aprobar sus presupuestos de egresos, a más tardar, el día treinta de diciembre del año anterior al en que deben regir, considerando su actividad económica preponderante, la extensión de su territorio, las actividades prioritarias de sus habitantes, la amplitud de sus servicios públicos, la forma de distribución de la población, la prioridad de la obra pública y sus endeudamientos.
 
-EN CASO DE QUE PARA EL DÍA 15 DE DICIEMBRE NO SEA APROBADO EL PRESUPUESTO DE EGRESOS CORRESPONDIENTE, SE APLICA EL EJERCIDO EL AÑO INMEDIATO ANTERIOR, INCLUYENDO SUS MODIFICACIONES.
+En caso de que para el día treinta de diciembre no sea aprobado el Presupuesto de Egresos correspondiente, se aplica el ejercido el año inmediato anterior, incluyendo sus modificaciones.
 
-(NOTA: EL 16 DE FEBRERO DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO Y EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 19/2007, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I, PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE ENERO DE 2007)</small>
-
-LOS RECURSOS QUE INTEGRAN LA HACIENDA MUNICIPAL DEBEN SER EJERCIDOS EN FORMA DIRECTA POR LOS AYUNTAMIENTOS, O BIEN, POR QUIENES ELLOS AUTORICEN EN SUS REGLAMENTOS;
+Los recursos que integran la hacienda municipal deben ser ejercidos en forma directa por los ayuntamientos, o bien, por quienes ellos autoricen en sus reglamentos;
 
 II. Los presupuestos de egresos de los municipios, deben contener:
 
@@ -2665,7 +2661,7 @@ El Concejo Municipal iniciará sus funciones el día 1º de enero del año 2006.
 
 Sexto. En su primera sesión ordinaria el Concejo Municipal de Capilla de Guadalupe deberá nombrar al servidor público encargado de la Secretaría del Ayuntamiento y al funcionario encargado de la Hacienda Municipal.
 
-Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Concejo Municipal de Capilla de Guadalupe.
+Séptimo. El Ayuntamiento de Tepatitlán de Morelos, seguirá ejerciendo sus funciones en la demarcación correspondiente al nuevo municipio, hasta la entrada en funciones del Consejo Municipal de Capilla de Guadalupe.
 
 Octavo. Efectuada la designación por parte del Congreso del Estado, los integrantes del Concejo Municipal recibirán del Ayuntamiento de Tepatitlán de Morelos toda la información y documentación de las delegaciones, comunidades y poblaciones que componen al nuevo municipio, necesaria para el buen desempeño de la nueva administración municipal, incluyendo los padrones de contribuyentes, proveedores, acreedores y las cuentas catastrales de la nueva jurisdicción municipal.
 
@@ -2930,3 +2926,7 @@ P.O. 25 DE NOVIEMBRE DE 2014.
 P.O. 22 DE AGOSTO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+Único. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
