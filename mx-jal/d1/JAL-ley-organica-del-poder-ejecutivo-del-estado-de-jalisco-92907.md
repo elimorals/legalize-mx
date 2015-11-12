@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2014-12-18"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -1065,17 +1065,33 @@ XXI. Promover e impulsar la cultura y seguridad vial, mediante la elaboración e
 
 XXII. Planear, integrar y coordinar los servicios del transporte público que ofrece el Estado a través de los organismos públicos descentralizados;
 
-XXIII. Coadyuvar con la Fiscalía General del Estado para el debido cumplimiento y aplicación de la normatividad en materia de movilidad y transporte, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XXIII (SIC). Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. Ejercer el mando sobre la Policía Vial Estatal, organizar, dirigir y supervisar el sistema de profesionalización de las funciones de la policía vial, la vialidad y el tránsito, así como presidir y organizar las instancias disciplinarias o comisión de honor y justicia que establezca el reglamento correspondiente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. Ejercer las funciones en materia de policía vial que señale la ley estatal en materia de Movilidad y Transporte; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Las demás que establezcan otras disposiciones legales o reglamentos aplicables.
 
 ### Capítulo III. Fiscalía general del estado
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 27.
 
-La Fiscalía General del Estado es la responsable de la seguridad pública y la procuración de justicia, en los términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, la aplicación de sanciones por las infracciones en materia de vialidad que disponga la ley correspondiente, así como del sistema de reinserción social y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+La Fiscalía General del Estado es la responsable de la seguridad pública y la procuración de justicia, en los términos de lo que establece el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos. Tiene a su cargo la institución del Ministerio Público y es la encargada de conducir las funciones de la investigación de los delitos, de la seguridad pública, de mantener el orden y la paz pública, de la conducción y mando de las policías con excepción de la policía vial, del ejercicio de la acción penal y la relativa a la acción de reparación del daño ante los tribunales, así como del sistema de reinserción social y atención a víctimas, rigiéndose por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 ###### Artículo 28.
 
@@ -1115,7 +1131,11 @@ VI. Desarrollar las políticas de prevención social del delito, de seguridad p�
 
 VII. Coordinar los servicios relacionados con las tecnologías de información y comunicación de apoyo a la seguridad pública y la procuración de justicia a cargo del Estado;
 
-VIII. Ejercer el mando sobre las policías en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en los términos de su ley orgánica, de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco y de las demás disposiciones aplicables;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Ejercer el mando sobre las policías, con excepción de la policía vial, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, en los términos de su Ley Orgánica, de la Ley del Sistema de Seguridad Pública para el Estado de Jalisco y de las demás disposiciones aplicables;
 
 IX. Coordinar conforme a las disposiciones legales aplicables los servicios periciales de apoyo a las funciones de seguridad pública y procuración de justicia;
 
@@ -1125,9 +1145,11 @@ X. Coadyuvar en la formulación de propuestas al Ejecutivo Estatal para la elabo
 
 XI. Garantizar los derechos de las víctimas, de los testigos y de otros grupos vulnerables, estableciendo y reforzando, en su caso, los mecanismos jurídicos y administrativos que permitan obtener la reparación del daño;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policial, vialidad y tránsito; atención victimológica, procuración de justicia penal y reinserción social;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XII. Organizar, dirigir y supervisar el sistema de profesionalización en las funciones de prevención, policía bajo su mando, atención victimológica, procuración de justicia penal y reinserción social;
 
 XIII. Establecer un sistema integral de investigación, destinado a obtener, analizar, procesar e interpretar, técnica y científicamente, la información para la seguridad pública y de apoyo a la procuración de justicia;
 
@@ -1149,7 +1171,9 @@ XVII. Cumplir con las obligaciones del Estado contenidas en las leyes generales 
 
 XVIII. Establecer vínculos y relaciones con instituciones y organismos afines en el ámbito nacional e internacional para conocer las mejores prácticas y mejorar las funciones de seguridad pública y procuración de justicia en el Estado;
 
-XIX. Ejercer las funciones en materia de policía vial que señale la ley estatal en materia de vialidad, tránsito y transporte, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XIX. (DEROGADA, P.O. 12 DE NOVIEMBRE DE 2015)
 
 XX. Las demás que le otorguen otras disposiciones legales.
 
@@ -1990,3 +2014,19 @@ P.O. 22 DE NOVIEMBRE DE 2014.
 P.O. 18 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día en que entre en vigor la reforma al artículo 53 de la Constitución Política del Estado de Jalisco, y previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El personal que conforma el cuerpo de la Policía Vial de Jalisco, pasara de manera íntegra a depender de la Secretaría de Movilidad. Los derechos laborales de dicho personal deberán ser íntegramente respetados.
+
+TERCERO. El titular del Poder Ejecutivo deberá girar las instrucciones pertinentes para que se adecúen las disposiciones reglamentarias aplicables.
+
+CUARTO. Se faculta a la Secretaría de Planeación, Administración y Finanzas para que, en coordinación con la Secretaría de Movilidad y la Fiscalía General del Estado, se realicen las adecuaciones presupuestales y administrativas que sean necesarias para el cumplimiento de este Decreto.
+
+QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuarán vigentes los nombramientos y demás cargos existentes dentro de la Policía Vial, así como los reglamentos y manuales actualmente aplicables.
+
+SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaria de Movilidad.
+
+SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
