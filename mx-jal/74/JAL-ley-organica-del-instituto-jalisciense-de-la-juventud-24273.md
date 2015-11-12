@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-la-juventud-24273"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-02-12"
-last_updated: "2012-03-24"
+last_updated: "2015-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 12 de febrero de 2002.
 
@@ -129,9 +129,9 @@ XV. Promover y difundir los acuerdos y convenios internacionales firmados por el
 
 XVI. Coordinar los esfuerzos realizados en el Sistema Estatal de Juventud, y
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-XVII. Las demás que le otorguen la presente ley y otros ordenamientos legales y reglamentarios.
+XVII. Las demás que le otorguen la presente Ley, la Ley de Atención a la Juventud del Estado de Jalisco, y otros ordenamientos legales y reglamentarios.
 
 ###### Artículo 6°.
 
@@ -201,9 +201,13 @@ c) Secretaría de Salud;
 
 d) Secretaría del Trabajo y Previsión Social;
 
-e) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-f) Secretaría de Desarrollo Humano; y
+e) Fiscalía General del Estado;
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+f) Secretaría de Desarrollo e Integración Social; y
 
 g) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud.
 
@@ -359,13 +363,21 @@ Los integrantes del Registro Estatal de la Juventud Jalisciense, tendrán derech
 
 ### CAPÍTULO V. De la vigilancia del Instituto
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 28.
 
-Para la vigilancia interior, el Instituto contará con una Contraloría Interna, que será parte integrante de su estructura, su titular y el personal necesario para el desarrollo de sus funciones será designado por la Junta.
+Para la vigilancia interior, el Instituto contará con un Órgano Interno de Control y Vigilancia, integrado por Comisario Público propietario y un suplente, designados ambos por la Contraloría del Estado de Jalisco.
+
+El titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.
+
+El Órgano Interno de Control y Vigilancia depende administrativamente del Director, pero gozará de autonomía en el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 29.
 
-La Contraloría Interna tendrá las siguientes atribuciones y obligaciones:
+El Órgano Interno de Control y Vigilancia tendrá las siguientes atribuciones y obligaciones:
 
 I. Evaluar el desempeño general del Instituto;
 
@@ -446,3 +458,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se concederá a los integrantes del Sistema Estatal de Juventud un periodo de trescientos sesenta y cinco días naturales a partir de la entrada en vigor del presente ordenamiento para que implementen las directrices correspondientes y cumplir con el objeto del presente decreto.
 
 TERCERO. El Ejecutivo del Estado expedirá el reglamento del (sic) la ley.
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
