@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-sistema-jalisciense-de-radio-y-television-9685
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-07"
-last_updated: "2013-12-07"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL SISTEMA JALISCIENSE DE RADIO Y TELEVISIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 2013.
 
@@ -139,9 +139,17 @@ III. Secretario de Educación;
 
 IV. Secretario de Planeación, Administración y Finanzas;
 
-V. El Contralor del Estado, y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
-VI. El Director General de Comunicación Social del Gobierno del Estado, quien será Secretario Técnico;
+V. El Contralor del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+VI. El Director General de Comunicación Social del Gobierno del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+VII. El Director General del Organismo, quien fungirá como Secretario Técnico.
 
 Cada miembro integrante tendrá voz y voto dentro de la Junta de Gobierno, con excepción del Secretario Técnico y el Contralor del Estado, quienes solo tendrán voz. Por cada miembro propietario habrá un suplente.
 
@@ -476,3 +484,9 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
