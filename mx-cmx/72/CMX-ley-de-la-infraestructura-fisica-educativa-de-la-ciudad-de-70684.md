@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-infraestructura-fisica-educativa-de-la-ciudad-de-7068
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-03"
-last_updated: "2009-11-03"
+last_updated: "2015-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70684&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-10-20"
 ---
 # LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DE LA CIUDAD DE MEXICO -- ANTES LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL DISTRITO FEDERAL--
 
-LEY DE LA INFRAESTRUCTURA FISICA EDUCATIVA DEL DISTRITO FEDERAL
+LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 3 de noviembre de 2009.
 
@@ -110,9 +110,11 @@ V. Los responsables de la infraestructura física educativa de las Delegaciones 
 
 Estas autoridades deberán coordinarse mediante los mecanismos legales correspondientes para el cumplimiento de los objetivos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-Para el cumplimiento de esta Ley se estará a lo dispuesto en los tratados internacionales en la materia suscritos por el Ejecutivo Federal y ratificados por el Senado de la República, la Ley General de Educación, la Ley Federal de Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y la Ley Federal de Responsabilidades de los Servidores Públicos; la Ley de Educación del Distrito Federal, la Ley para las Personas con Discapacidad del Distrito Federal, la Ley de Adquisiciones para el Distrito Federal, la Ley de Obras Públicas del Distrito Federal, así como aquellas que se refieran a la materia de arrendamientos y servicios relacionados con la misma y las demás disposiciones legales aplicables.
+Para el cumplimiento de esta Ley se estará a lo dispuesto en los tratados internacionales en la materia, suscritos por el Ejecutivo Federal Y RATIFICADOS POR EL Senado DE la República, la Ley General de Educación, la Ley Federal de Personas con Discapacidad, la Ley General de Bienes Nacionales, la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley Federal de Responsabilidades de los Servidores Públicos; la Ley de Educación del Distrito Federal, la Ley para la Integración al Desarrollo de las Personas con Discapacidad del Distrito Federal, la Ley de Adquisiciones para el Distrito Federal, la Ley de Obras Públicas del Distrito Federal, así como aquellas que se refieran a la materia de arrendamientos y servicios relacionados con la misma y las demás disposiciones legales aplicables.
 
 Las universidades y demás instituciones de educación superior autónomas a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, podrán suscribir convenios con el Instituto en materia de infraestructura física educativa en los términos de esta ley.
 
@@ -296,7 +298,7 @@ La administración del Instituto estará a cargo de:
 
 I. La Junta de Gobierno;
 
-II. El Director General, y (sic)
+II. El Director General, y
 
 III. Las Direcciones Generales Adjuntas; y
 
@@ -350,7 +352,9 @@ III. Aprobar, supervisar y evaluar los planes y programas del Instituto;
 
 IV. Aprobar el pronóstico de ingresos y el anteproyecto de presupuesto de egresos del Instituto, considerando los diagnósticos anuales de la INFE;
 
-V. Aprobar los informes de actividades y los estados financieros que le presente el Director General;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+V. Aprobar los informes de actividades y los estados financieros que le presente el Director General, así como autorizar su presentación ante la Asamblea Legislativa del Distrito Federal;
 
 VI. Conocer los dictámenes que emita el Comisario y, en su caso, ordenar las medidas necesarias para solventar las observaciones realizadas;
 
@@ -418,7 +422,13 @@ X. Delegar las atribuciones que le autorice la Junta de Gobierno;
 
 XI. Convocar y coordinar la formación de un órgano técnico de consulta que actuará en asuntos de interés común en los términos que señale el Reglamento;
 
-XII. Las demás que le señalen la ley, el Estatuto o la Junta de Gobierno.
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XII. Presentar, durante el mes de octubre de cada año, ante las Comisiones de Educación y de Presupuesto y Cuenta Pública de la Asamblea Legislativa del Distrito Federal, un informe pormenorizado de las actividades y el avance programático presupuestal del ejercicio fiscal en curso; y
+
+> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Las demás que le señalen la Ley, el Estatuto o la Junta de Gobierno.
 
 ###### Artículo 32.
 
@@ -457,3 +467,15 @@ Artículo Décimo Primero. Se derogan todas las demás disposiciones que se opon
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de agosto del año dos mil nueve.- POR LA MESA DIRECTIVA.- DIP. ISAÍAS VILLA GONZÁLEZ, PRESIDENTE.- DIP. AVELINO MÉNDEZ RANGEL, SECRETARIO.- DIP. ELVIRA MURILLO MENDOZA, SECRETARIA.- FIRMAS
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veinte días del mes de octubre del año dos mil nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO CARRILLO HUERTA.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 12 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- El Jefe de Gobierno, dentro de los 60 días naturales siguientes a la entrada en vigor, deberá adecuar el Reglamento de la presente Ley, estableciendo los lineamientos para tal efecto.
