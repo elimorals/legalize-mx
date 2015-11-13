@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2015-10-01"
+last_updated: "2015-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -11674,13 +11674,13 @@ D) Dirección General de Servicios Urbanos;
 
 E) Dirección General de Desarrollo Social;
 
-> <small>(REFORMADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-F) Dirección Ejecutiva de Recursos Naturales y Áreas Protegidas; y
+F) Dirección Ejecutiva de Recursos Naturales y Áreas Protegidas;
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-G) Dirección General de Gerencia Delegacional.
+G) Dirección General de Desarrollo Delegacional; y
 
 > <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
@@ -13560,9 +13560,43 @@ IV. (DEROGADA, G.O. 16 DE AGOSTO DE 2001)
 
 V. Conservar la imagen urbana de las vialidades secundarias, guarniciones, banquetas, puentes y pasos peatonales; y en el caso de los reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias;
 
-VI. Planear y diseñar nuevos sistemas, proyectos y controles para mejorar la prestación de los servicios públicos; y
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-VII. Prestar los servicios de emergencia en caso de desastres y coordinarse con las Instituciones federales y locales para instrumentar las acciones de apoyo a la población en estos casos.
+VI. Planear y diseñar nuevos sistemas, proyectos y controles para mejorar la prestación de los servicios públicos;
+
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VII. Colaborar con las instancias competentes en caso de desastres, para instrumentar las acciones de apoyo a la población en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Promover la recuperación de los espacios públicos;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+IX. Formular estrategias para la adecuada utilización, aprovechamiento y mantenimiento de los espacios públicos;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+X. Colaborar con las instancias competentes en acciones que promuevan el acceso universal y la movilidad de las personas en la demarcación territorial; y
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en la normatividad aplicable.
+
+> <small>(ADICIONADO, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 147 Bis.
+
+La Dirección General de Desarrollo Social tendrá además de las señaladas en el artículo 128, las siguientes atribuciones:
+
+I. Diseñar un modelo de desarrollo, con el fin de promover la inclusión de los sectores de la población de la demarcación territorial;
+
+II. Promover proyectos de apoyo a la comunidad que favorezcan la igualdad de oportunidades y el incremento de las capacidades de desarrollo individual de los habitantes de la demarcación territorial;
+
+III. Establecer programas que promuevan el desarrollo humano de la población de la demarcación territorial con base en las necesidades detectadas; y
+
+IV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en la normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
@@ -13594,59 +13628,81 @@ V. Difundir los programas y estrategias relacionados con la preservación del eq
 
 VI. Formular y difundir programas de educación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-VII. Coadyuvar con las autoridades federales y locales competentes en la vigilancia del Suelo de Conservación y Áreas Naturales Protegidas, opinar y proponer el desarrollo y alcance de los programas que fomenten una educación comunitaria, tanto social como privada para la preservación y restauración de los recursos naturales;
+VII. Colaborar con las autoridades competentes en la conservación, restauración, manejo y aprovechamiento sustentable de las áreas naturales protegidas, suelo de conservación, áreas verdes urbanas, áreas de valor ambiental y en general de los recursos naturales de la demarcación territorial;
 
 > <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 VIII. Opinar sobre el establecimiento de Áreas Naturales Protegidas, sus límites y condiciones de manejo;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-IX. Proponer al titular del Órgano Político-Administrativo modificaciones a los programas culturales y artísticos, que propicien un interés y desenvolvimiento turístico dentro de su demarcación territorial;
+IX. Contribuir al desarrollo y alcance de los programas mediante la elaboración de propuestas orientadas a la conservación y establecimiento de áreas naturales protegidas y áreas de valor ambiental, sus límites y condiciones de manejo, así como sobre el desarrollo y alcance de los programas que ahí se promuevan o realicen;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-X. Promover y difundir la cultura y las artes;
+X. Administrar y preservar las áreas naturales protegidas del Órgano Político-Administrativo;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XI. Organizar la educación artística, así como promover actividades en museos y apoyar exposiciones artísticas y otros eventos de interés cultural; y
+XI. Promover la participación de las comunidades y ejidos en la protección, conservación, restauración, uso y aprovechamiento sustentable de los recursos naturales de los territorios que ocupan;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XII. Fomentar las relaciones de orden cultural y artístico, para realizar investigaciones o estudios en estas materias
+XII. Participar en las comisiones, comités, consejos y eventos interinstitucionales relacionados con el suelo de conservación, áreas naturales protegidas, desarrollo rural, desarrollo sustentable, impacto ambiental, educación y cultura ambiental, y protección al ambiente, entre otros;
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Opinar y proponer el desarrollo y alcance de los programas que fomenten una educación comunitaria, para la preservación y restauración de los recursos naturales; y
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 148 Bis.
 
-Corresponde a la Dirección General de Gerencia Delegacional:
+Corresponde a la Dirección General de Desarrollo Delegacional:
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2010)</small>
 
 I. Apoyar al Jefe Delegacional en la dirección y coordinación de las unidades de asesoría, apoyo técnico, jurídico, coordinación y planeación, adscritas al Órgano Político-Administrativo;
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2010)</small>
+
 II. Coordinar los apoyos necesarios para la planeación, organización, dirección, control y evaluación de los asuntos que le competen al Jefe Delegacional;
 
-III. Participar en juntas y reuniones que tengan como propósito definir criterios, planes, programas, que conlleven a una mayor coordinación entre las áreas que conforman el Órgano Político-Administrativo;
+III. (DEROGADA, G.O. 13 DE NOVIEMBRE DE 2015)
 
-IV. Controlar y dar seguimiento a los acuerdos e instrucciones del Jefe Delegacional;
+IV. (DEROGADA, G.O. 13 DE NOVIEMBRE DE 2015)
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2010)</small>
 
 V. Dirigir y coordinar la integración de los informes que presentará el Jefe Delegacional sobre el estado que guarda el Órgano Político-Administrativo;
 
-VI. Establecer la agenda de trabajo y de actos públicos del Jefe Delegacional;
+VI. (DEROGADA, G.O. 13 DE NOVIEMBRE DE 2015)
 
-VII. Dirigir y evaluar las tareas de Comunicación Social, Imagen Institucional y de Opinión Pública del Jefe Delegacional y coordinar las acciones que en esta materia lleven a cabo con las dependencias y entidades de la Administración Pública del Distrito Federal;
+VII. (DEROGADA, G.O. 13 DE NOVIEMBRE DE 2015)
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2010)</small>
 
 VIII. Promover programas de excelencia y calidad, tendientes a incrementar la productividad y mejora en el servicio de las Unidades Administrativas;
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2010)</small>
+
 IX. Coordinar y dar seguimiento a los mecanismos que en materia de transparencias y acceso a la información, lleve a cabo o en los cuales participe el órgano político administrativo;
 
-X. Establecer proyectos que promuevan la gestión delegacional, para ser presentadas a las instancias correspondientes;
+X. (DEROGADA, G.O. 13 DE NOVIEMBRE DE 2015)
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2010)</small>
 
 XI. Dirigir los estudios e investigaciones sobre los temas de interés que determine el Jefe Delegacional;
 
-XII. Coordinar las acciones de simplificación administrativa, modernización y mejoramiento de los servicios, considerando la opinión y lineamientos que emita para tal efecto la Contraloría General;
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XII. Coordinar las acciones de simplificación administrativa, modernización y mejoramiento de los servicios, considerando la opinión y lineamientos que emita para tal efecto la Dependencia competente;
 
 > <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
@@ -13676,13 +13732,53 @@ XVIII. Establecer las relaciones con los sectores público, privado y social par
 
 XIX. Mantener y coordinar acciones entre los diferentes sectores productivos para la promoción de la micro y pequeña empresa, fortaleciendo su posición en el mercado;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XX. Promover la modernización de la micro y pequeña empresa, a través de la innovación tecnológica, la capacitación y orientación hacia al (sic) crecimiento económico; y
+XX. Promover la modernización de la micro y pequeña empresa, a través de la innovación tecnológica, la capacitación y orientación hacia al crecimiento económico;
 
-> <small>(ADICIONADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XXI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en los Manuales Administrativos.
+XXI. Aplicar y dar seguimiento a la estrategia de atención ciudadana;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXII. Coordinar las áreas de Atención Ciudadana, considerando los lineamientos que para tal efecto emita la Dependencia competente;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. Dar seguimiento a las demandas ciudadanas captadas durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político-Administrativo;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. Aplicar y administrar la estrategia de sistemas de Comunicación para la difusión de trámites y servicios;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Asegurar el funcionamiento de la Ventanilla Única Delegacional de conformidad con el marco jurídico y administrativo aplicable;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXVI. Asegurar el funcionamiento del Centro de Servicios y Atención Ciudadana de conformidad con el marco jurídico y administrativo aplicable;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXVII. Impulsar la implementación de proyectos en materia de innovación, utilizando las tecnologías de información y comunicaciones para la sistematización y mejora de los procesos de la demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXVIII. Proponer la actualización y sistematización de trámites, servicios y procedimientos a cargo del Órgano Político-Administrativo;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXIX. Diseñar y ejecutar los mecanismos de vinculación institucional con los diferentes niveles de gobierno en materia de desarrollo para beneficio de la población;
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXX. Diseñar y desarrollar esquemas de capacitación en artes y oficios, que permitan su vinculación e incorporación al ámbito económico; y
+
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXXI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que se establezcan en la normatividad aplicable.
 
 > <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
@@ -13690,7 +13786,9 @@ XXI. Las demás que de manera directa le asigne el titular del Órgano Político
 
 Corresponde a la Dirección de Protección Civil y Servicios de Emergencia:
 
-I. Salvaguardar ante la eventualidad de una emergencia o un desastre provocado por cualquiera de los fenómenos perturbadores a través de acciones que prevengan, reduzcan o eliminen la posibilidad de que (sic) la ocurrencia de los mismos a la población en los términos de la Ley del Sistema de Protección Civil para el Distrito Federal;
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+I. Colaborar con las instancias competentes ante la eventualidad de una emergencia o un desastre provocado por cualquiera de los fenómenos perturbadores establecidos en materia de Protección Civil de conformidad con la normatividad aplicable;
 
 II. Coadyuvar en la Coordinación del Sistema de Protección Civil para el Distrito Federal conjuntamente con la operación y las acciones con los fines de la protección civil;
 
@@ -17879,6 +17977,24 @@ G.O. 1 DE OCTUBRE DE 2015.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgánica y elaborar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
+
+G.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
 
