@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-05-29"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -473,13 +473,19 @@ ART. 57.- En las actuaciones judiciales no se emplearán abreviaturas ni se rasp
 
 ART. 58.- Las actuaciones judiciales deberán ser autorizadas, bajo pena de nulidad, por el funcionario público a quien corresponda dar fe o certificar el acto.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás en que, a juicio del tribunal, convenga que sean secretas. El acuerdo será reservado.
+ART. 59.- Las audiencias en los negocios serán públicas, exceptuándose las que se refieren a divorcio, nulidad de matrimonio y las demás en que, a juicio del tribunal, convenga que sean secretas.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+Las partes tendrán el derecho a solicitar que se grabe por cualquier medio de reproducción el desahogo de la audiencia, con las excepciones establecidas en el párrafo anterior y al terminar deberán integrar el medio en que se almacene, al expediente para que sea valorado en sentencia; los medios y el proceso de grabación y reproducción serán a costa de la parte que lo proponga.
 
-ART. 60.- Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
+La parte que haga un uso indebido del material grabado en audiencia que constituya difamación, calumnia o revelación de secreto será responsable en los términos de Ley.
+
+Los acuerdos que se dicten por los Jueces serán reservados.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+ART. 60.- Los jueces y magistrados a quienes corresponda, recibirán por sí mismos las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad, pudiendo delegar diligencias probatorias a los Secretarios en tanto este presente el Juzgador en el recinto Judicial como director del proceso.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -777,17 +783,39 @@ ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán dentro
 
 Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ART. 111.- Las notificaciones se harán personalmente, por cédula, por el Boletín Judicial, en los términos de los artículos 123 y 125, por edictos, por correo y por telégrafo, de acuerdo con lo que se dispone en los artículos siguientes.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+ART. 111.- Las notificaciones se podrán hacer:
 
-ART. 112.- Todos los litigantes, en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
+I.- Personalmente, o por cedulas;
+
+II.- Por el Boletín Judicial, en los términos de los artículos 123 y 125;
+
+III.- Por edictos;
+
+IV.- Por correo;
+
+V.- Por telégrafo;
+
+VI.- Por medios electrónicos. La forma en que se lleven a cabo las notificaciones anteriores, será de acuerdo con lo que se dispone en los artículos siguientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+ART. 112.- Todos los litigantes en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
 
 Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
 Cuando un litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales deban hacerse personalmente, se le harán por el Boletín Judicial o por cédula fijada en las puertas del juzgado, en los lugares en donde no se publique el Boletín Judicial; si faltare a la segunda parte, no se hará notificación alguna a la persona contra quien promueva hasta que se subsane la omisión.
+
+Las partes podrán autorizar que se le realicen notificaciones por medio electrónico, lo que implicará la autorización expresa del solicitante en el sentido de que dichas notificaciones se tendrán por legalmente practicadas y surtirán sus efectos en los términos previstos por el artículo 125, con excepción de las notificaciones previstas en el artículo 114 de este Código.
+
+Para tal efecto las partes podrán solicitar la autorización para el acceso a la pagina electrónica del Tribunal, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará lo que le permitirá consultar las notificaciones que por este medio le fueren hechas.
+
+Lo anterior se ajustará a los lineamientos que se establezcan por el Consejo de la Judicatura del Estado de Baja California a través del reglamento que para tal efecto se emita.
 
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
@@ -3641,7 +3669,7 @@ Presentado el plan de partición, quedará en la secretaría a la vista de los i
 
 ART. 510.- Si la sentencia condena a no hacer, su infracción se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos para que por ellos se despache ejecución, sin perjuicio de la pena que señale el contrato o el testamento.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 511.- Cuando en virtud de la sentencia o de la determinación del Juez debe entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin todas las diligencias conducentes que solicite el interesado.
 
@@ -4587,7 +4615,7 @@ De los recursos y de la revisión de oficio de la revocación, revisión y apela
 
 ### CAPITULO I. De la revocación y apelación
 
-> <small>(REFORMADO P.O. 26 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 669.- Las sentencias no pueden ser revocadas por el Juez que las dicta.
 
@@ -7022,3 +7050,17 @@ SÉPTIMO.- Las garantías otorgadas por los notarios con anterioridad a la entra
 OCTAVO.- Dentro del mes siguiente a la publicación del presente Decreto, la Dirección del Archivo General de Notarías programará la entrega por parte de los Notarios, de los volúmenes de su protocolo y apéndices que se encuentren en el supuesto contenido en el artículo 99 de esta reforma. La Dirección del Archivo General de Notarías, mediante oficio notificará a los Notarios de la obligación de entregar los volúmenes, conforme a la programación que emita, lo que deberá cumplimentarse a más tardar un año a partir de la vigencia del presente Decreto.
 
 NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anterioridad a la entrada en vigor de las presentes reformas única y exclusivamente, no les será aplicable el plazo de vigencia de patentes, a que se refieren los artículos 53 Bis y 56 del presente Decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+DECRETO No. 348 POR EL QUE SE REFORMAN LOS ARTÍCULOS 59 Y 60 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+DECRETO No. 350 POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 111 Y 112 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor dentro de un plazo de hasta 180 días naturales posteriores a su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Dentro de dicho plazo el Poder Judicial expedirá las normas reglamentarias para su debida implementación.
