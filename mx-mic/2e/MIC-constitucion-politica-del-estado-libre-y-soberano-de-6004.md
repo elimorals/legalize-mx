@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2015-07-31"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -195,19 +195,31 @@ II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las
 
 Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la Constitución Federal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 8°.
 
-Son derechos de los ciudadanos votar y ser votados en las elecciones populares; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal.
+Son derechos de los ciudadanos votar y ser votados en las elecciones populares; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia; desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal. Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos siempre que lo soliciten en los términos que establezcan las normas que al efecto se emitan.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE DICIEMBRE DE 2011)</small>
+Toda persona tendrá derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, de conformidad a lo previsto en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
-Tendrán derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, sino en los casos que denigren a las instituciones y a los propios partidos o que calumnien a las personas, se violente la autenticidad de los procesos electorales, además de los casos previstos en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley; asimismo, el derecho a la información deberá ser garantizado por el Estado.
+Toda persona tendrá derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión, el que se regirá por los siguientes principios y bases:
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
 
-Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos siempre que lo soliciten en los términos que establezcan las normas que al efecto se emitan.
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
+
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
+
+IV. La ley establecerá los mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el organismo autónomo especializado e imparcial que establece esta Constitución;
+
+V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;
+
+VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales; y,
+
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+Este derecho a la información deberá ser garantizado por el Estado. La ley establecerá aquella información que se considere reservada o confidencial
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -719,9 +731,11 @@ VIII.- Dictar normas para la administración, conservación y enajenación de lo
 
 IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X.- Aprobar las leyes de ingresos de los municipios, así como revisar, fiscalizar y dictaminar las cuentas públicas de las haciendas municipales;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+X.- Aprobar las leyes de ingresos de los municipios, así como revisar, fiscalizar y dictaminar las cuentas públicas de las haciendas municipales y de los Concejos Municipales a más tardar el treinta y uno de marzo del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del Informe General Ejecutivo del resultado de la Fiscalización Superior, a que se refiere el artículo 134 de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior de Michoacán, seguirá su curso en términos de lo dispuesto en dicho artículo;
 
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -741,6 +755,12 @@ e) Las disposiciones aplicables en aquellos municipios que no cuenten con los ba
 
 X-B.- Emitir las normas que establezcan los procedimientos para resolver los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) de la fracción anterior;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+X-C.- Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción;
+
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
 XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualmente el Presupuesto de Egresos, así como revisar, fiscalizar y dictaminar la Cuenta Pública de la Hacienda Estatal. De igual manera, revisar, fiscalizar y dictaminar sobre la aplicación de los recursos otorgados a las entidades paraestatales y otros que dispongan de autonomía.
@@ -749,7 +769,11 @@ XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualment
 
 El Congreso deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Estado o de las entidades paraestatales que cuenta con la garantía del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados por el Congreso conforme a las leyes aplicables.
 
-Para la revisión de las cuentas públicas, el Congreso se apoyará en la entidad de fiscalización superior, que se denominará Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+La revisión de las Cuentas Públicas la realizará el Congreso del Estado de Michoacán de Ocampo a través de la Auditoría Superior de Michoacán. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y partidas respectivas o no existiere exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
 
@@ -827,6 +851,16 @@ XXIII bis.- (DEROGADA, P.O. 23 DE MAYO DE 2006)
 
 XXIII A.- Elegir, reelegir y privar del encargo, a los Magistrados del Tribunal de Justicia Administrativa, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
 
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXIII-B.- Elegir, reelegir y destituir del cargo, a los comisionados del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, aprobar o negar las solicitudes de licencia y renuncia de los mismos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXIII-C.- Elegir y destituir del encargo, por el voto de las dos terceras partes de sus miembros presentes, a los titulares de los órganos de control de los organismos autónomos previstos en el Capítulo I del Título Tercero A de esta Constitución;
+
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)</small>
 
 XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus cargos, y admitir o rechazar las renuncias que hagan de sus respectivos puestos los diputados y los funcionarios y empleados que fueren de su nombramiento. Igualmente, aceptar o rechazar la renuncia que presente el Gobernador del Estado, o las licencias que éste solicite para separarse de sus funciones por más de treinta días;
@@ -835,11 +869,17 @@ XXIV.- Conceder las licencias que soliciten para separarse temporalmente de sus 
 
 XXV.- Designar Gobernador interino del Estado cuando la separación del titular sea mayor de treinta días;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 105 de esta Constitución.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXVI.- Declarar si ha o no lugar a proceder penalmente contra los servidores públicos que hubieren incurrido en delito en los términos del artículo 106 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 Conocer de las imputaciones que se hagan a los servidores públicos y erigirse en Jurado de Sentencia, para conocer en juicio político de las faltas u omisiones que cometan los servidores públicos y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del artículo 108 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
 Las declaraciones y resoluciones del Congreso del Estado son inatacables;
 
@@ -887,9 +927,17 @@ XXXVI.- Ratificar el nombramiento del Procurador General de Justicia que haga el
 
 XXXVII.- Solicitar al Gobernador del Estado, mediante el voto de las dos terceras partes de los diputados presentes, la remoción del Procurador General de Justicia; y,
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DEL 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXXVIII.- Las demás que le confiera expresamente esta Constitución.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXXVIII.- Ratificar el nombramiento que haga el Gobernador del Estado del titular de la dependencia de Control interno, por el voto de las dos terceras partes de los diputados presentes; y,
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXXIX.- Las demás que le confiera expresamente esta Constitución.
 
 > <small>(DEROGADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1063,9 +1111,11 @@ VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
 
 VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VIII.- Presentar cada año al Congreso, a más tardar el treinta y uno de marzo, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, y a más tardar el veinte de septiembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VIII.- Presentar cada año al Congreso, a más tardar el treinta de abril, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, sólo se podrá ampliar el plazo de presentación hasta por treinta días naturales cuando medie solicitud del Gobernador, suficientemente justificada a juicio del Congreso; y a más tardar el veinte de septiembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -1231,9 +1281,11 @@ Los titulares de las dependencias serán responsables con el Gobernador en todos
 
 Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en el Consejo del Poder Judicial, en los juzgados de primera instancia, en los menores de materia civil, en los comunales, en los de justicia penal para adolescentes y en los de ejecución de sanciones penales.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La administración, vigilancia y disciplina del Poder Judicial del Estado está a cargo del Consejo del Poder Judicial, que posee autonomía técnica y de gestión.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+La administración, vigilancia y disciplina del Poder Judicial del Estado está a cargo del Consejo del Poder Judicial, que posee autonomía técnica y de gestión; siendo su contraloría interna su órgano de control, cuyo titular será ratificado por las dos terceras partes de los diputados presentes, teniendo a su cargo con autonomía técnica y de gestión, la fiscalización de los ingresos y egresos de este Poder. El Contralor durará en su encargo cinco años, no podrá ser reelecto. Y podrá ser removido en los términos y por las causas previstas en la Constitución y en la normatividad de la materia.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1629,6 +1681,12 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 Se procurará que los agentes del Ministerio Público, los Jueces y Defensores Públicos tengan conocimientos en lenguas, culturas y sistemas normativos indígenas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 94 bis.- Los organismos autónomos contarán con un órgano de control interno, cuyo titular será electo por el Congreso del Estado, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas.
+
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y SECCIONES QUE LO INTEGRAN, P.O. 23 DE MAYO DE 2006)</small>
 
 ## TITULO TERCERO A
@@ -1643,23 +1701,19 @@ Se procurará que los agentes del Ministerio Público, los Jueces y Defensores P
 
 #### SECCION I. Del Tribunal de Justicia Administrativa
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 95.
 
-El Tribunal de Justicia Administrativa, será órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+El Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, será órgano autónomo, independiente en sus resoluciones y de jurisdicción plena en materia administrativa con sujeción a los principios de igualdad, publicidad, audiencia y legalidad. Se integrará por cinco magistrados, de entre los cuales uno será su Presidente electo por sus pares, en los términos que disponga la ley.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2011)</small>
+Tendrá competencia para dirimir y resolver, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal entre el Poder Ejecutivo, los ayuntamientos, los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales y los particulares.
 
-Tendrá competencia para dirimir, resolviendo en forma definitiva, las controversias que se susciten por actos u omisiones de naturaleza administrativa o fiscal entre el Poder Ejecutivo, los ayuntamientos, los organismos autónomos, las entidades u organismos descentralizados o desconcentrados, estatales o municipales y los particulares. La ley determinará las atribuciones y procedimientos al tenor de la presente Constitución.
+Asimismo, será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determine como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
 
-Funcionará y se organizará según lo determine su Ley Orgánica, en colegio de tres Magistrados y sus sesiones serán públicas.
-
-Para ser Magistrado del Tribunal se deberán satisfacer los requisitos que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado.
-
-El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado, mediante convocatoria pública.
-
-Los magistrados tendrán un periodo constitucional de cinco años en el ejercicio del cargo y podrán ser reelectos hasta en dos ocasiones. Al término de su periodo cesarán en sus funciones.
+Para ser Magistrado del Tribunal de Justicia Administrativa, se deberán satisfacer los mismos requisitos que señala esta Constitución para ser designado Magistrado del Supremo Tribunal de Justicia del Estado. El Poder Legislativo elegirá a los magistrados por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado de Michoacán de Ocampo, mediante convocatoria pública. Los magistrados tendrán un periodo constitucional de cinco años en el ejercicio del cargo y podrán ser reelectos hasta en dos ocasiones. Al término de su periodo cesaran en sus funciones.
 
 El Congreso del Estado conocerá de las quejas en contra de los magistrados, podrá privarlos de su encargo, por las mismas causas que señala el artículo 77 de esta Constitución y determinará su retiro forzoso de conformidad con el artículo 78 de esta Constitución.
 
@@ -1685,23 +1739,27 @@ La elección del Presidente de la Comisión Estatal de los Derechos Humanos, se 
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCION III. Del Instituto para la Transparencia y Acceso a la Información Pública
+#### SECCION III. Del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 97.
 
-El Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán, es un organismo de autoridad, decisión, promoción, difusión e investigación sobre el derecho a la transparencia y acceso a la información pública. Tiene autonomía patrimonial, de operación y de gestión.
+El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales es un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley; se regirá por la ley en materia de transparencia y acceso a la información pública y por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal.
 
-El Consejo del Instituto se integrará por tres consejeros, de los cuales uno será su Presidente, mismos que serán electos por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes.
+El Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales se integra por tres comisionados de los cuales uno será su Presidente, mismos que serán electos por el Congreso del Estado, con el voto de las dos terceras partes de los miembros presentes. Para la elección de los comisionados, el Congreso del Estado emitirá convocatoria pública dirigida a las instituciones académicas, culturales, civiles, colegios de profesionistas, organizaciones gremiales y a la sociedad en general, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
 
-Para la elección de los consejeros, el Congreso del Estado emitirá convocatoria pública dirigida a las instituciones académicas, culturales, civiles, colegios de profesionistas, organizaciones gremiales y a la sociedad en general, a efecto de recibir propuestas de aspirantes a ocupar este cargo.
+Las comisiones de dictamen designadas propondrán al Pleno una terna por cada vacante de Comisionados a elegir. Una vez electos, en su caso, el Pleno procederá a la designación del Comisionado Presidente. Los comisionados durarán en su encargo tres años y deberán cumplir con los requisitos previstos en las fracciones I, II, IV, V y VI del artículo 76 de esta Constitución, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia, y podrán ser removidos de su cargo en los términos del Título Cuarto de esta Constitución. En la conformación del organismo garante se procurará la equidad de género.
 
-Las comisiones de dictamen designadas propondrán al Pleno una terna por cada vacante de Consejeros a elegir. Una vez electos, en su caso, el Pleno procederá a la designación del Consejero Presidente.
+Las resoluciones del Instituto son vinculatorias para los sujetos obligados. La Ley establecerá los medios de apremio para asegurar el cumplimiento de sus decisiones y, en su caso, denunciará ante el Tribunal de Justicia Administrativa a los sujetos obligados que las incumplieren. Toda autoridad y servidor público estará obligado a coadyuvar con el Instituto y sus integrantes para el buen desempeño de sus funciones.
 
-Los consejeros serán electos por un período de tres años con posibilidad de una reelección y podrán ser removidos de sus funciones en los términos del Título Cuarto de esta Constitución.
+El organismo garante tendrá un Consejo Consultivo integrado por cinco Consejeros, quienes desempeñaran el cargo de manera honorífica, los cuales serán electos por el voto de dos terceras partes de los miembros presentes del Congreso del Estado.
+
+La ley establecerá la integración y funcionamiento del Sistema Estatal de Transparencia y del Consejo Consultivo del organismo.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -1771,21 +1829,17 @@ Las personas que cubran las vacantes temporales de alguno de los magistrados que
 
 El Ministerio Público es la institución encargada de velar por la exacta observancia de las leyes en los casos en que tenga intervención, conforme a su Ley Orgánica. Para tal fin, deberá ejercitar las acciones que correspondan contra los infractores de esas leyes; hacer efectivos los derechos concedidos al Estado y representar a éste ante los tribunales en estos casos.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
 
-Ejercen esta institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley.
+Ejercen esta institución en el Estado el Procurador General de Justicia y los agentes del Ministerio Público que determine la ley. En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
 
-En los casos en que debe intervenir el Ministerio Público, el Procurador General de Justicia podrá hacerlo por sí o por medio de alguno de sus agentes.
-
-La Ley Orgánica de la institución fijará el número, adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren.
+La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, entre los cuales se incluirá la Fiscalía especializada en combate a la Corrupción; asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial.
 
 El Procurador General de Justicia, deberá rendir al Congreso del Estado, un informe anual respecto a las acciones y resultados de la institución a su cargo.
-
-> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2011)</small>
-
-La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 23 DE MAYO DE 2006)</small>
 
@@ -1831,11 +1885,15 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 Las leyes establecerán los mecanismos para la instauración de la defensoría indígena, a través de la formación, capacitación y prestación de servicios jurídicos y administrativos, mediante un sistema interdisciplinario de traductores intérpretes en lenguas originarias y extranjeras, y expertos en culturas y sistemas normativos indígenas.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+## TITULO CUARTO. De las Responsabilidades de los Servidores Públicos, Particulares Vinculados con Faltas Administrativas Graves o Hechos de Corrupción y Patrimonial del Estado
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
 
@@ -1843,67 +1901,115 @@ Las leyes establecerán los mecanismos para la instauración de la defensoría i
 
 ###### Artículo 104.
 
-Son servidores públicos los integrantes, funcionarios y empleados de los poderes Legislativo y Judicial del Estado; de las dependencias centralizadas y entidades paraestatales de la administración pública dependiente del Poder Ejecutivo Estatal, entidades autónomas; así como de los ayuntamientos y entidades paramunicipales, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, por las violaciones a esta Constitución y a las leyes estatales.
+Se consideran servidores públicos a los representantes de elección popular, a los funcionarios, empleados y; en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier índole en los Poderes Legislativo, Ejecutivo y Judicial, sean de naturaleza centralizada o paraestatal, así como a los servidores públicos de los ayuntamientos y entidades paramunicipales y de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones y por el manejo indebido de recursos públicos y la deuda pública
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de conflicto de intereses ante las autoridades competentes y en los términos que determine la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 105.
 
-Para proceder penalmente por la comisión de delitos del orden común, contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los Diputados al Congreso, los Magistrados, los Consejeros Electorales y del Poder Judicial y el Auditor Superior; el Congreso erigido en Jurado de Sentencia, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, el servidor público podrá ser separado de su encargo y sujeto a la acción de los tribunales comunes.
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo dispuesto en este Título y a lo siguiente:
 
-Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde el día en que inicie su encargo, hasta el momento en que concluya por cualquier motivo su mandato.
+I. Se aplicarán las sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones y, en su caso, a los particulares que participen en faltas administrativas que la ley califique como graves. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones;
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+II. La ley determinará los casos de procedencia de la responsabilidad civil de los servidores públicos y patrimonial del Estado por actos u omisiones atribuibles a los primeros.
+
+La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes; y,
+
+III. Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado, Auditoría Superior de Michoacán o los órganos de control respecto de las conductas a las que se refiere el presente artículo. La ley establecerá los mecanismos para incentivar la denuncia pública y su salvaguarda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 106.
 
-En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la resolución o declaración emitida por el Senado de la República, deberá conocerse por el Congreso, para que éste proceda en la primera sesión que se celebre después de recibida, conforme a las disposiciones de la Constitución Federal, de la Constitución Estatal y las leyes correspondientes.
+Para proceder penalmente por la comisión de delitos del orden común, contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los Diputados al Congreso, los Magistrados, los Consejeros Electorales y del Poder Judicial, así como el Auditor Superior; el Congreso del Estado erigido en Jurado de Sentencia, declarará por los dos tercios de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa. En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación. En caso afirmativo, el servidor público podrá ser separado de su encargo y sujeto a la acción de los tribunales comunes.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito realizado dentro de su función o que con motivo de ella viole la ley que señala las atribuciones inherentes al cargo que desempeña. La declaración de haber lugar a formación de causa contra un funcionario de elección popular, procede desde el día en que inicie su encargo, hasta el momento en que concluya por cualquier motivo su mandato.
+
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente a aquel servidor público al que se le haya acreditado la comisión del delito de enriquecimiento ilícito. Las leyes penales sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 107.
 
-El Congreso expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes para sancionar a quienes, teniendo ese carácter, incurran en responsabilidades de conformidad con las siguientes prevenciones:
+En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la resolución o declaración emitida por el Senado de la República, deberá conocerse por el Congreso, para que éste proceda en la primera sesión que se celebre después de recibida, conforme a las disposiciones de la Constitución Federal, de la Constitución Estatal y las leyes correspondientes.
 
-I. Se impondrán mediante juicio político, las sanciones indicadas en el artículo 108 a los servidores públicos señalados en el mismo precepto. La Ley precisará cuándo se genere perjuicio a los intereses públicos fundamentales, cuándo al buen despacho de las funciones encargadas a los servidores públicos o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales, por parte de éstos, por sus actos u omisiones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-No procede el juicio político por la mera expresión de ideas;
-
-II. La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal; y,
-
-III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la lealtad institucional por la falta de legalidad, honradez, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
-
-Los procedimientos para aplicar las sanciones se desarrollarán de manera autónoma. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
-
-Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. La legislación penal sancionará con el decomiso y con la privación de la propiedad, posesión, y derechos de dichos bienes, además de las otras penas que correspondan.
-
-Cualquier persona, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba a su alcance, podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo, estableciéndose así la acción pública, la que estará reglamentada por la Ley.
-
-Los titulares de las dependencias y entidades de la Administración Pública Estatal y organismos autónomos que comparezcan ante comisiones del Congreso del Estado, deberán informar bajo protesta de decir verdad, lo relativo a sus ámbitos de competencia; en caso de incumplimiento serán sancionados de acuerdo a lo dispuesto en la Ley.
-
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 108.
 
-Podrán ser sujetos de juicio político, el Gobernador, los Diputados al Congreso, el Auditor Superior, los Magistrados, los Consejeros del Poder Judicial, los Jueces de Primera Instancia, Jueces Menores, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal así como de entidades autónomas.
+Podrán ser sujetos de juicio político, el Gobernador, los Diputados al Congreso, el Auditor Superior, los Magistrados, los Consejeros del Poder Judicial, los Jueces de Primera Instancia, Jueces Menores, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal, y los integrantes o titulares de los organismos a los que esta Constitución otorgue autonomía, asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho públicos (sic) o cuando interfieran indebidamente a favor de partido político o candidato durante los procesos electorales. No procede juicio político por mera expresión de ideas.
 
-Asimismo los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Las sanciones consistirán en la suspensión, destitución e inhabilitación del servidor público para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal o municipal de acuerdo a la Ley de la materia.
-
-Se dará a conocer el resolutivo del juicio a todos los gobiernos de las Entidades Federativas y a los tres Poderes del Gobierno Federal, para los efectos legales y administrativos correspondientes.
-
-El procedimiento de juicio político estará reglamentado por la Ley.
-
-Las declaraciones y resoluciones del Congreso erigido en Jurado de Sentencia serán definitivas e inatacables.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
+Las sanciones consistirán en la suspensión, destitución e inhabilitación del servidor público para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal o municipal de acuerdo a la Ley de la materia.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Se dará a conocer el resolutivo del juicio a todos los gobiernos de las Entidades Federativas y a los tres Poderes del Gobierno Federal, para los efectos legales y administrativos correspondientes.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+El procedimiento de juicio político estará reglamentado por la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+
+Las declaraciones y resoluciones del Congreso erigido en Jurado de Sentencia serán definitivas e inatacables.
+
+(N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 109.
 
-Las leyes sobre responsabilidades administrativas de los servidores públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad, y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las faltas administrativas graves serán investigadas y substanciadas por la Auditoría Superior de Michoacán y los órganos internos de control estatales o municipales, según corresponda, y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
-La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+El Tribunal de Justicia Administrativa impondrá a los servidores públicos sanciones que consistirán en apercibimiento, amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones.
+
+A los particulares, personas físicas o morales, que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, podrá imponerles las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Además de lo anterior, a las personas morales también podrá ordenársele la suspensión de actividades, disolución o intervención de la sociedad; en estos supuestos, la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
+
+Los procedimientos para la aplicación de las sanciones mencionadas con anterioridad se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia este artículo. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 109 bis.- Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y, en su caso, municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción a que se refiere esta Constitución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 109 ter.- El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
+
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de: Auditoría Superior de Michoacán, Fiscalía Especializada en Combate a la Corrupción y el Órgano de Control Interno del Ejecutivo Estatal; el Presidente del Tribunal de Justicia Administrativa y del Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales; por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana; así como tres titulares de las contralorías municipales, electos por sus pares;
+
+II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que acrediten conocimiento y/o contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley; y,
+
+III. Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:
+
+a) La operación de mecanismos de coordinación con el sistema federal y la aplicación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes estatales y municipales, en los términos que determine el Sistema Nacional;
+
+b) A nivel local, el diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y actos de corrupción, en especial sobre las causas que los generan y el establecimiento de bases y principios para la efectiva coordinación de las autoridades estatales y municipales en materia de fiscalización y control de los recursos públicos; y,
+
+c) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.
+
+Derivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y actos de corrupción, así como el mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
 
@@ -1911,9 +2017,15 @@ La responsabilidad del Estado por los daños que, con motivo de su actividad adm
 
 El Procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
-La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 105 de esta Constitución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 107 de esta Constitución. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 106 de esta Constitución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2085,9 +2197,13 @@ Los recursos que integran la hacienda municipal serán ejercidos en forma direct
 
 II Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables e impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio y a más tardar el treinta y uno de marzo del año siguiente al que concluya éste, la cuenta pública del ejercicio de la Hacienda Municipal.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+III.- Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio dentro de un plazo de treinta días naturales después de concluido el trimestre. La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado de Michoacán de Ocampo a más tardar el treinta y uno de marzo del año siguiente;
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
 Cada Ayuntamiento deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Municipio o de las entidades paramunicipales que cuenta con la garantía del Municipio o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados conforme a las leyes aplicables;
 
@@ -2335,17 +2451,19 @@ Habrá en el Estado, una Secretaría de Finanzas a quien corresponderá la recau
 
 #### SECCION II. De la Auditoría Superior de Michoacán
 
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 133.
 
-La Auditoría Superior de Michoacán, como Órgano Técnico del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y decidirá sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
+La Auditoría Superior de Michoacán, como entidad de fiscalización dependiente del Congreso del Estado, tendrá autonomía técnica, de gestión y capacidad para que en el ejercicio de sus atribuciones decida sobre su organización interna, ejercicio de su presupuesto, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTA CONSTITUCIÓN.</small>
+La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales y municipales que manejan fondos públicos, y de aquellos organismos que por disposición de ley se consideren autónomos, así como cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes, bajo los principios de legalidad, definitividad, imparcialidad y confiabilidad, en forma simultánea, anual, posterior, externa, independiente y autónoma.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2011)</small>
+Sin perjuicio del principio de anualidad, la Auditoría Superior de Michoacán podrá solicitar y revisar de manera casuística y concreta, la información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales, o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que respectivamente la Auditoría Superior de Michoacán emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-La Auditoría Superior de Michoacán revisará, fiscalizará y evaluará la gestión de los poderes del Estado, de los ayuntamientos y de todas las demás entidades públicas estatales y municipales que manejan fondos públicos, y de aquellos organismos que por disposición de ley se consideren autónomos, así como cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes, bajo los principios de legalidad, celeridad, eficiencia, eficacia, calidad en el servicio, vigilancia, fiscalización técnica oportuna, imparcialidad, confiabilidad, definitividad, en forma simultánea, anual, posterior, externa, independiente y autónoma.
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, la Auditoría Superior de Michoacán, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior de Michoacán rendirá un informe específico al Congreso del Estado de Michoacán de Ocampo y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -2365,17 +2483,35 @@ II. Realizar auditorías, visitas, inspecciones, y revisiones de ingresos y gast
 
 III. Fiscalizar los fondos y valores públicos que ejerzan los particulares;
 
-IV. De conformidad con lo que disponga el Congreso, suscribir convenios con la entidad de fiscalización superior de la Federación para la fiscalización de recursos federales, de conformidad con las leyes de la materia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública del Estado y de los ayuntamientos, de las auditorías y revisiones practicadas, en que deberá indicar las observaciones realizadas, los desvanecimientos, los procedimientos administrativos de responsabilidad instaurados y las responsabilidades fincadas, en los plazos y con las modalidades que la ley señale;
+IV.- De conformidad con lo que disponga el Congreso del Estado de Michoacán de Ocampo, suscribir convenios con la Auditoría Superior de la Federación para la fiscalización de recursos federales, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, recursos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+V.- Entregar al Congreso del Estado de Michoacán de Ocampo, el informe general ejecutivo del Resultado de la Fiscalización Superior de la Cuenta Pública, el cual se someterá a la consideración del Pleno del Congreso del Estado de Michoacán de Ocampo. El Informe General Ejecutivo será de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior de Michoacán, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
+
+Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que presenten las justificaciones y aclaraciones que correspondan.
+
+Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa del Estado de Michoacán, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+
+La Auditoría Superior de Michoacán deberá pronunciarse en un plazo de ciento veinte días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrá por atendidas las recomendaciones y acciones promovidas.
+
+En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante la Auditoría Superior de Michoacán las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
+
+La Auditoría Superior de Michoacán deberá entregar al Congreso del Estado de Michoacán de Ocampo, los días uno de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes. Dicho informe tendrá carácter público e incluirá los montos efectivamente resarcidos a la Hacienda Pública o al patrimonio de los entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa del Estado de Michoacán.
 
 VI. Investigar los actos u omisiones que pudieran implicar irregularidades o conductas ilícitas en el ingreso, egreso, manejo, custodia y aplicación de fondos públicos, y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Imponer los medios de apremio que establezca la ley, determinar los daños y perjuicios que afecten la Hacienda Pública del Estado y de los municipios o al patrimonio de las entidades públicas estatales y municipales, fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias que correspondan según la ley, promover ante otras autoridades competentes el fincamiento de otras responsabilidades, presentar las denuncias y querellas penales y actuar en estos casos como coadyuvante del Ministerio Público;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VII. Imponer los medios de apremio que establezca la ley; y derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Michoacán y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos;
 
 VIII. Presentar al Congreso del Estado el proyecto de plan anual de fiscalización;
 
@@ -2387,7 +2523,11 @@ IX. Emitir los lineamientos y procedimientos técnicos, que deberán observar la
 
 X. Determinar los montos, recibir, registrar y custodiar las fianzas que deban presentar los empleados que manejen fondos públicos.
 
-La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditoría Superior de Michoacán y el Congreso, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación de los informes, dictámenes o denuncias correspondientes a que se refiere este artículo o hasta la aplicación de las sanciones administrativas; la ley fijará las sanciones aplicables a quienes infrinjan esta disposición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+La Auditoría Superior de Michoacán, la Comisión de Vigilancia de la Auditoría Superior de Michoacán y el Congreso del Estado, deberán guardar reserva de sus actuaciones y observaciones hasta la presentación del Informe General Ejecutivo; o en su caso, en los términos del artículo 8° de esta Constitución, la ley fijará las sanciones aplicables a quienes infrinjan esta disposición.
 
 El Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias.
 
@@ -3676,3 +3816,21 @@ Segundo. Por única ocasión el Gobernador y los Diputados al Congreso del Estad
 Tercero. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 Cuarto. El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 8°, 44 fracción XXIII-B, 97 y 123 primer párrafo de la fracción III; así como la denominación de la Sección III del Título Tercero A; entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+SEGUNDO. Las adiciones, reformas y derogaciones que por virtud del presente Decreto se hacen a los artículos 44 fracciones X, X-C, XI párrafo tercero, XXIII-C, XXVI, XXXVIII y XXXIX, 60 fracción VIII, 67 párrafo segundo, 94 bis, 95, 100, 104, 105, 106, 107, 108 párrafos primero y segundo, 109, 109 bis, 109 ter, 110 párrafos segundo y tercero, 133 párrafos primero, segundo, tercero y cuarto; 134 fracciones IV, V, VII y X párrafo segundo, así como la denominación del Título Cuarto, entrarán en vigor en la misma fecha en que lo hagan las leyes generales a que se refiere el Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de combate a la corrupción, publicado el 27 de junio de 2015 en el Diario Oficial de la Federación, en tanto, continuará aplicándose la legislación en materia de responsabilidades de los servidores públicos, así como de fiscalización y control de recursos públicos, en el ámbito estatal y municipal, que se encuentre vigente a la fecha de entrada en vigor del presente Decreto.
+
+TERCERO. Los Consejeros que actualmente conforman el Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán (ITAIMICH), formarán parte del nuevo organismo Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, únicamente por el tiempo que reste al nombramiento del que fueron objeto en el Instituto que se extingue.
+
+CUARTO. El Congreso del Estado en un término no mayor a 60 días naturales a partir de la publicación del presente Decreto, deberá expedir las modificaciones necesarias a la legislación relacionada; en tanto, el organismo garante que establece esta Constitución ejercerá sus atribuciones y competencias conforme a lo dispuesto por el presente Decreto y la vigente Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+
+QUINTO. Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este Decreto se sustanciarán de conformidad con la Ley aplicable al momento de su inicio.
+
+SEXTO. Una vez constituido el Instituto Michoacano de Transparencia, Acceso a la Información y Protección de Datos Personales, serán transferidos a éste, los recursos humanos, financieros y materiales, adscritos al Instituto para la Transparencia y Acceso a la Información Pública del Estado de Michoacán (ITAIMICH), en los términos que dispongan las leyes.
+
+SÉPTIMO. El Congreso del Estado deberá realizar las modificaciones al Presupuesto y los ordenamientos que regulan la estructura y el funcionamiento del Tribunal de Justicia Administrativa a más tardar dentro de los 90 días naturales posteriores a la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio del presente Decreto, así como llevar a cabo el procedimiento para la elección de los dos nuevos Magistrados.
+
+OCTAVO. Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
