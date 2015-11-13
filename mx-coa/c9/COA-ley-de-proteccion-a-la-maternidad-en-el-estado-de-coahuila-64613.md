@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-la-maternidad-en-el-estado-de-coahuila-6461
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-24"
-last_updated: "2008-10-24"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE PROTECCION A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
-LEY DE PROTECCION A LA MATERNIDAD EN EL ESTADO DE COAHUILA
+LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 24 de octubre de 2008.
 
@@ -97,11 +97,13 @@ Deberá enfatizarse la difusión de esta información, tratándose de población
 
 El Gobierno del Estado a través de sus instituciones podrá brindar protección a la maternidad, en términos de la reglamentación correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-El Gobierno de Coahuila podrá implementar una Red de Apoyo a Mujeres Embarazadas a través del Instituto Coahuilense de las Mujeres y demás entidades estatales y municipales involucradas en la materia. Esta Red tendrá por objeto la participación y corresponsabilidad de la sociedad en la política de protección a la maternidad.
+El Gobierno de Coahuila podrá implementar una Red de Apoyo a Mujeres Embarazadas a través de la Secretaría de las Mujeres y demás entidades estatales y municipales involucradas en la materia. Esta Red tendrá por objeto la participación y corresponsabilidad de la sociedad en la política de protección a la maternidad.
 
-Para tales efectos, el Instituto Coahuilense de las Mujeres promoverá la participación, tanto de las instituciones públicas, privadas, académicas, empresariales, de cooperación, así como de organizaciones de la sociedad civil para la ejecución de proyectos en esta materia.
+Para tales efectos, la Secretaría de las Mujeres promoverá la participación, tanto de las instituciones públicas, privadas, académicas, empresariales, de cooperación, así como de organizaciones de la sociedad civil para la ejecución de proyectos en esta materia.
 
 ###### Artículo 9.
 
@@ -117,9 +119,11 @@ Igualmente deberán respetar en todo momento las creencias religiosas y la liber
 
 Las organizaciones responderán objetivamente por la violación a la confidencialidad prevista en este precepto, así como por la práctica de conductas discriminatorias o que atenten contra las garantías individuales y libertades de las mujeres que soliciten su ayuda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-El Instituto Coahuilense de las Mujeres contará con un Programa Integral de Apoyo a las Mujeres Embarazadas, que establezca líneas de acción y objetivos para lograr el propósito. Este programa deberá definir:
+La Secretaría de las Mujeres contará con un Programa Integral de Apoyo a las Mujeres Embarazadas, que establezca líneas de acción y objetivos para lograr el propósito. Este programa deberá definir:
 
 I. La identificación de los organismos y servicios a que puede acceder la embarazada, para lograr el apoyo necesario en el desarrollo de su embarazo;
 
@@ -149,7 +153,9 @@ III. La Secretaría de Gobierno de Coahuila;
 
 IV. La Comisión de Derechos Humanos de Coahuila;
 
-V. El Instituto Coahuilense de las Mujeres;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+V. La Secretaría de las Mujeres;
 
 VI. El Sistema para el Desarrollo Integral de la Familia de Coahuila;
 
@@ -177,11 +183,15 @@ IV. Al acceso y continuidad en la educación, por lo que no podrá restringirse 
 
 V. A contar con asesoría legal por cualquier acto de discriminación, vejación y vulneración de sus derechos como mujer embarazada, durante las veinticuatro horas del día. En los casos que se considere necesario, gozará de los servicios de defensoría de oficio, para interponer los recursos, juicios o medios legales de defensa necesarios para proteger o reivindicar sus derechos así como en relación con los diferentes procedimientos de adopción; en este último caso, a través del Sistema para el Desarrollo Integral de la Familia de Coahuila y de las demás instancias legales competentes.
 
-VI. Al acceso a los Centros de Atención a la Mujer, gubernamentales o privados, mismos que conocerán a través de una línea de atención gratuita que implementará el Instituto de las Mujeres de Coahuila, o bien, a través de la implementación de una página de internet. Por medio de esta línea telefónica o de internet, se proporcionará la información necesaria a las mujeres para hacer efectivos sus derechos.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VI. Al acceso a los Centros de Atención a la Mujer, gubernamentales o privados, mismos que conocerán a través de una línea de atención gratuita que implementará la Secretaría de las Mujeres, o bien, a través de la implementación de una página de internet. Por medio de esta línea telefónica o de internet, se proporcionará la información necesaria a las mujeres para hacer efectivos sus derechos.
 
 VII. Recibir la ayuda psicológica o psiquiátrica durante el embarazo y después del parto cuando se trate de embarazos no previstos. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad;
 
-VIII. A obtener incentivos o descuentos fiscales por parte del Gobierno de Coahuila conforme a lo previsto en la Ley de Asistencia Social del Estado y en otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VIII. A obtener incentivos o descuentos fiscales por parte del Gobierno de Coahuila conforme a lo previsto en la Ley de Asistencia Social y Protección de Derechos del Estado y en otros ordenamientos aplicables.
 
 IX. A contar con descuentos en el transporte público, cuando su situación económica lo amerite, previo estudio y dictamen de las autoridades correspondientes, quienes le deberán extender una credencial temporal para que se le hagan efectivos los descuentos.
 
@@ -199,7 +209,9 @@ Las mujeres embarazadas que se encuentren sujetas a prisión preventiva, gozará
 
 I. A disponer de los servicios médicos de la institución de internamiento o bien, optar por servicios privados de atención médica u hospitalaria. En este último caso, se permitirá el libre acceso del médico particular al centro de internamiento, y se autorizará la atención hospitalaria privada o pública cuando no se le puedan proporcionar dentro del centro penitenciario los cuidados médicos necesarios ordenados o propuestos por su médico y avalados por las autoridades médicas penitenciarias que, bajo su más estricta responsabilidad, deberán determinar si se amerita o no la externación hospitalaria.
 
-Lo previsto en esta fracción, se sujetará en todo momento a lo que prevenga la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Lo previsto en esta fracción, se sujetará en todo momento a lo que prevenga la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Estado de Coahuila de Zaragoza, y demás disposiciones aplicables.
 
 II. A contar con alimentación y vestimenta adecuada, así como condiciones de seguridad e higiene.
 
@@ -209,7 +221,9 @@ Las mujeres embarazadas que se encuentren en ejecución de la pena privativa de 
 
 I. A no ser internadas en instituciones del sistema penitenciario de alta seguridad, siempre y cuando no se trate de delitos del orden federal.
 
-II. Las que reúnan el mérito y la acreditación de los estudios y valoraciones necesarias, tendrán derecho a compurgar la sanción penal en la modalidad de tratamiento en externación; o a través de reclusión domiciliaria mediante el programa de monitoreo electrónico a distancia; de acuerdo a la elección de la sentenciada. Lo anterior, en términos de lo dispuesto por la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+II. Las que reúnan el mérito y la acreditación de los estudios y valoraciones necesarias, tendrán derecho a compurgar la sanción penal en la modalidad de tratamiento en externación; o a través de reclusión domiciliaria mediante el programa de monitoreo electrónico a distancia; de acuerdo a la elección de la sentenciada. Lo anterior, en términos de lo dispuesto por la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Estado de Coahuila de Zaragoza.
 
 ###### Artículo 19.
 
@@ -271,7 +285,9 @@ VII. A dar en adopción al recién nacido, en términos de las disposiciones apl
 
 Cuando una mujer embarazada decida que su parto se lleve a cabo haciendo uso de los servicios médicos de las instituciones de internamiento, se estará a las siguientes restricciones.
 
-I. En ningún documento oficial se hará inscripción del domicilio del establecimiento de reclusión como lugar de nacimiento. En este caso, se estará a lo dispuesto por los artículos 50 y 51 de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad para el Estado de Coahuila;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+I. En ningún documento oficial se hará inscripción del domicilio del establecimiento de reclusión como lugar de nacimiento. En este caso, se estará a lo dispuesto por el artículo 101 de la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Estado de Coahuila de Zaragoza;
 
 II. No se podrá videograbar o fotografiar el alumbramiento, cuando a través de dichos medios pueda identificarse que se trata de un establecimiento de reclusión del Estado de Coahuila; y
 
@@ -404,3 +420,13 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL EUGENIO RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 181.- SE REFORMA EL ARTÍCULO 8, 11, 13 FRACCIÓN V, 15 FRACCIONES VI Y VIII, 17 FRACCIÓN I PÁRRAFO SEGUNDO, 18 FRACCIÓN II, Y 22 FRACCIÓN I, DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
