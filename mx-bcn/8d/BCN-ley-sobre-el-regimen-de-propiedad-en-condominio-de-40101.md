@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-regimen-de-propiedad-en-condominio-de-40101"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-18"
-last_updated: "2011-12-30"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 18 de junio de 2004.
 
@@ -99,7 +99,9 @@ XXIII. Usuario: Es la persona que con el carácter de arrendatario, comodatario,
 
 Cuando los diferentes departamentos, viviendas, casas o locales de un inmueble, construidos en forma vertical, horizontal o mixta, susceptibles de aprovechamiento independiente, por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieran a distintos propietarios, cada uno de éstos tendrá un derecho singular y exclusivo de propiedad sobre su departamento, vivienda, casa o local y, además, un derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso o disfrute.
 
-Cada propietario podrá enajenar, hipotecar o gravar en cualquier otra forma su departamento, vivienda, casa o local, sin necesidad del consentimiento de los demás propietarios. En la enajenación, gravamen o embargo de un departamento, vivienda, casa o local, se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Cada propietario podrá enajenar, hipotecar o gravar en cualquier otra forma su departamento, vivienda, casa o local, sin necesidad del consentimiento de los demás propietarios. En la enajenación, gravamen o embargo de un departamento, vivienda, casa o local, se entenderán comprendidos invariablemente los derechos sobre los bienes comunes que le son anexos de acuerdo a la parte alícuota que le corresponde.
 
 El derecho de copropiedad sobre los elementos comunes del inmueble, sólo será enajenable, gravable o embargable por terceros, conjuntamente con el departamento, vivienda, casa o local de propiedad exclusiva, respecto del cual se considere anexo inseparable. La propiedad sobre los elementos comunes del inmueble no es susceptible de división.
 
@@ -1004,3 +1006,7 @@ BERNARDO H. MARTINEZ AGUIRRE.
 P.O. 30 DE DICIEMBRE DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado" (sic).
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
