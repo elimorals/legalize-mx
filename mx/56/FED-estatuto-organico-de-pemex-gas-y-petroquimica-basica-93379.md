@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-gas-y-petroquimica-basica-93379"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-28"
-last_updated: "2014-02-25"
+last_updated: "2015-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93379&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2013-03-21"
 
 ESTATUTO ORGÁNICO DE PEMEX-GAS Y PETROQUÍMICA BÁSICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL, PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Estatuto publicado la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de marzo de 2013.
 
@@ -1258,3 +1260,25 @@ DÉCIMO. Los derechos laborales serán respetados en todo momento, de acuerdo co
 DÉCIMO PRIMERO. El Organismo Subsidiario seguirá realizando las funciones para dirigir, supervisar, coordinar y ejecutar los procedimientos de contratación en materia de adquisiciones, arrendamientos, servicios y obra, en el ámbito de su respectiva competencia, hasta en tanto se realice lo necesario para la total transferencia de las funciones referidas y recursos relacionados con las mismas.
 
 DÉCIMO SEGUNDO. Las transferencias a que se refiere el artículo cuarto transitorio deberán quedar formalizadas en un plazo no mayor a un año, a partir de la publicación de las presentes modificaciones en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan los estatutos orgánicos de los organismos públicos descentralizados denominados Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica y Pemex-Refinación.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales o en el número total de plazas que se transferirán de Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica y Pemex-Refinación a Pemex Transformación Industrial.
+
+CUARTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables a la empresa productiva subsidiaria denominada Pemex Transformación Industrial en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, el Acuerdo de Creación de Pemex Transformación Industrial, al presente Estatuto Orgánico y demás disposiciones aplicables, hasta en tanto los órganos o áreas referidas determinen su modificación o abrogación.
+
+QUINTO. Las referencias a las denominaciones de las áreas de los organismos públicos descentralizados Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica y Pemex-Refinación, que se contengan en contratos u otros instrumentos jurídicos, se entenderán hechas o conferidas a las áreas que correspondan de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, conforme a este Estatuto.
+
+SEXTO. Las áreas cuyas funciones se modifican o se crean en virtud de la reorganización corporativa de Petróleos Mexicanos contenidas en el presente Estatuto, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documento, incluyendo las actas de entrega-recepción, que sean necesarios para los traspasos, transferencias y demás actos que correspondan.
+
+Sin perjuicio de lo anterior, las áreas referidas deberán realizar las actividades y funciones necesarias con el propósito de dar continuidad a la operación y funcionamiento de Pemex Transformación Industrial.
+
+Se deberán realizar todas las gestiones administrativas necesarias para la transferencia de los recursos humanos y materiales, incluyendo la información y documentación, así como los recursos financieros asociados con dicha transferencia, derivadas de la reorganización corporativa de Petróleos Mexicanos.
+
+SÉPTIMO. Las obligaciones asumidas por Pemex-Exploración y Producción, Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica y Pemex-Refinación, al amparo de los convenios de responsabilidad solidaria suscritos por ellos, para garantizar las obligaciones constitutivas de deuda pública contratadas por Petróleos Mexicanos y, en su caso, otros organismos subsidiarios, así como las operaciones donde dichos organismos subsidiarios han comparecido directamente, para tales efectos, continuarán vigentes hasta su conclusión, siempre que Pemex Transformación Industrial sea su causahabiente directo.
+
+El presente Estatuto Orgánico de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Transformación Industrial, fue aprobado por el Consejo de Administración de Pemex Transformación Industrial, con fundamento en el artículo 12, fracción VI y Transitorio Octavo del Acuerdo de Creación de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, en sesión de instalación celebrada el día 3 de noviembre de 2015, mediante acuerdo número CAEPS-PTRI-004/2015.
