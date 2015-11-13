@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2015-10-09"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA-
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE DICIEMBRE DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -187,7 +189,7 @@ I. A la integridad, dignidad y preferencia, por tanto, se reconoce que tienen de
 
 3. Una vida libre sin violencia.
 
-4. El respeto de su integridad física, sicoemocional y sexual.
+4. El respeto de su integridad física, sicoemocional (sic) y sexual.
 
 5. La protección contra toda forma de explotación.
 
@@ -270,6 +272,10 @@ V. Al trabajo, por tanto, se reconoce que tienen derecho a:
 4. Decidir libremente sobre su actividad laboral, salvo que medie incapacidad física o mental declarada por autoridad competente.
 
 5. En materia de contratación laboral, a no ser discriminado por razones de edad. En cualquier caso, tomando en cuenta su adultez, se valorará la posibilidad de reducir su jornada laboral.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+V (SIC). A laborar en condiciones óptimas así como en instalaciones las cuales garanticen su seguridad e integridad física en base a la normatividad vigente.
 
 VI. A la asistencia social, por tanto, se reconoce que tienen derecho a:
 
@@ -761,7 +767,7 @@ VI. Las demás que le confiera esta Ley u otras disposiciones aplicables.
 
 Corresponderá a la Secretaría de Desarrollo Social en la esfera de su competencia:
 
-XVII (SIC). Implementar los programas necesarios, a efecto de promover el empleo para las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin mas restricciones que su limitación física o mental.
+XVII. (sic) Implementar los programas necesarios, a efecto de promover el empleo para las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin mas restricciones que su limitación física o mental.
 
 I. Impulsar, en coordinación con la Secretaría de Planeación y Desarrollo, programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización.
 
@@ -1270,3 +1276,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Así mismo comuníquese lo anterior al Ejecutivo del Estado para los efectos procedentes.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 196.- SE ADICIONA EL NUMERAL 6 DE LA FRACCIÓN V DEL ARTÍCULO 10, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente Decreto
