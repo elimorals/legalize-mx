@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2015-10-27"
+last_updated: "2015-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -5485,7 +5485,7 @@ ARTÍCULO 371 BIS. (DEROGADO, P.O. 1 DE SEPTIEMBRE DE 2006)
 
 SANCIONES Y CIRCUNSTANCIAS CALIFICATIVAS DE SECUESTRO. El delito de secuestro a que se refiere el artículo anterior será calificado y se sancionará:
 
-(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -5523,7 +5523,7 @@ I. DE VEINTICINCO A SESENTA AÑOS DE PRISIÓN Y MULTA, CUANDO CONCURRA ALGUNA O 
 
 8) Afecte gravemente los bienes o la actividad profesional o económica del ofendido.
 
-(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -5563,7 +5563,7 @@ II. DE TREINTA A SESENTA AÑOS DE PRISIÓN Y MULTA CUANDO SE DÉ ALGUNA O ALGUNA
 
 Cuando se trate de los incisos 3 y 4, además de la pena señalada, se impondrá, en su caso, la destitución del empleo, cargo o comisión y la inhabilitación definitiva para obtener y desempeñar otro.
 
-(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -5589,7 +5589,7 @@ III. DE CUARENTA A SESENTA AÑOS DE PRISIÓN Y MULTA, CUANDO SE SURTA ALGUNO O A
 
 5) Si el secuestrado fallece durante el tiempo en que se encuentre privado de su libertad o si después de ser liberado, muere dentro de los ciento ochenta días siguientes por causas relacionadas directamente con el secuestro.
 
-(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL ACÁPITE DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -5657,7 +5657,7 @@ Cuando el activo y el pasivo de amenazas habiten en el mismo domicilio: Se aumen
 
 ### CAPÍTULO SEGUNDO. SECUESTRO
 
-(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 56/2012, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -5789,13 +5789,17 @@ Para los efectos de este código se entiende por cópula la introducción total 
 
 SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN CONYUGAL. Se aplicará prisión de tres a seis años y multa: A quien por medio de la violencia física o moral tenga cópula con su cónyuge sin la voluntad de éste.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 386.
 
-SANCIONES Y FIGURAS TÍPICAS EQUIPARADAS A LA VIOLACIÓN. Se aplicará prisión de siete a catorce años y multa a quien tenga cópula:
+SANCIONES Y FIGURAS TÍPICAS EQUIPARADAS A LA VIOLACIÓN. Se aplicará prisión de nueve a dieciséis años y multa a quien tenga cópula:
 
 I. PERSONA SIN CAPACIDAD. Con persona sin capacidad para comprender la naturaleza de la relación sexual o de decidir de acuerdo a esa comprensión; o de resistir la conducta delictuosa.
 
-II. PERSONA MENOR DE DOCE AÑOS. Con persona de hasta doce años de edad.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+II. PERSONA MENOR DE QUINCE AÑOS. Con persona menor de quince años de edad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
 
@@ -5817,9 +5821,11 @@ Los supuestos de la fracción II se sancionarán, además, con la pérdida de la
 
 Los supuestos de la fracción III, motivarán, además, la suspensión hasta por un término de cinco años para desempeñar el cargo o empleo público; o ejercer la profesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 388.
 
-SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN IMPROPIA POR INSTRUMENTO O ELEMENTO DISTINTO AL NATURAL. Se aplicará prisión de tres a ocho años y multa: A quien con o sin ánimo lúbrico, por medio de la violencia física o moral introduzca en forma total o parcial por la vía anal o vaginal cualquier instrumento no corporal o elemento corporal distinto al pene, sin el consentimiento de la persona, sea cual fuere su sexo.
+SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN IMPROPIA POR INSTRUMENTO O ELEMENTO DISTINTO AL NATURAL. Se aplicará prisión de cuatro a nueve años y multa a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal de persona menor de quince años de edad; o que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
 
 Las mismas sanciones se aplicarán: A quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal de persona de hasta doce años de edad o menor a esa edad; o que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
 
@@ -5833,7 +5839,7 @@ ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O
 
 ###### ARTÍCULO 389.
 
-SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de seis meses a seis años y multa: A quien por medio de violencia física o moral, o del engaño, sustraiga o retenga a una persona para satisfacer algún deseo erótico o para casarse.
+SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de uno a siete años y multa a quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a una persona mayor de quince años pero menor de dieciocho, salvo que se trate de emancipados conforme a la ley, o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
@@ -5855,15 +5861,17 @@ PRESUNCIÓN LEGAL DE SEDUCCIÓN. Por el sólo hecho de que el sujeto pasivo sea 
 
 CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DEL RAPTO. No se procederá contra el raptor sino por querella de la mujer ofendida; pero si es menor de dieciocho años de edad y no está emancipada, el rapto se perseguirá de oficio.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 393.
 
-SANCIONES Y FIGURA TÍPICA EQUIPARADA AL RAPTO. Se aplicará prisión de dos a ocho años y multa: A quien para satisfacer un deseo erótico sustraiga o retenga por cualquier medio a una persona de hasta doce años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
+SANCIONES Y FIGURA TÍPICA EQUIPARADA AL RAPTO. Se aplicará prisión de tres a nueve años y multa: A quien para satisfacer un deseo erótico sustraiga o retenga por cualquier medio a una persona menor de quince años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
 
 ### CAPÍTULO PRIMERO. VIOLACIÓN
 
 ###### ARTÍCULO 394.
 
-SANCIONES Y FIGURA TÍPICA DE ESTUPRO. Se aplicará prisión de un mes a tres años y multa: A quien por medio de la seducción o el engaño tenga cópula con un menor de dieciséis años de edad y mayor de doce.
+SANCIONES Y FIGURA TÍPICA DE ESTUPRO. Se aplicará prisión de seis meses a cuatro años y multa: A quien por medio de la seducción o el engaño tenga cópula con un menor de dieciocho años de edad y mayor de quince.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -5879,9 +5887,13 @@ AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLAC
 
 ### CAPÍTULO SEGUNDO. RAPTO
 
+(NOTA: EL 27 DE JUNIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 28 DE JUNIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 397.
 
-SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL. Se aplicará de cinco meses a cuatro años de prisión y multa: A quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de 12 años de edad, ejecute en ella o la haga ejecutar un acto erótico.
+SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL. Se aplicará de uno a cinco años de prisión y multa: A quien sin el propósito de llegar a la cópula y sin consentimiento de una persona de cualquier sexo, mayor de quince años de edad, ejecute en ella o la haga ejecutar un acto erótico.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
@@ -5891,31 +5903,31 @@ Se aplicarán las mismas sanciones si el sujeto pasivo es una persona sin capaci
 
 Si se hiciere uso de la violencia física o moral suficiente para intimidar al ofendido y cometer el delito, se incrementará en una mitad más las sanciones mínima y máxima.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 398.
 
-SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL IMPROPIO. Se aplicará de uno a cinco años de prisión y multa: A quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de doce años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
+SANCIONES Y FIGURAS TÍPICAS DE ABUSO SEXUAL IMPROPIO. Se aplicará de dos a seis años de prisión y multa: A quien sin el propósito de llegar a la cópula y con o sin consentimiento de una persona menor de quince años de edad, de uno u otro sexo, ejecute en ella o la haga ejecutar un acto erótico.
 
-Se aplicarán las mismas sanciones si el sujeto pasivo no tiene la capacidad para comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo.
+Se aplicarán las mismas sanciones si el sujeto pasivo, independientemente de su edad, no tiene la capacidad para comprender el significado del hecho o de decidir conforme a esa comprensión; o por cualquier circunstancia personal no pueda resistirlo.
 
-Si se emplea violencia física o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de dos a seis años de prisión y multa.
+Si se emplea violencia física o moral suficiente para intimidar a la víctima y cometer el delito, se aplicará de tres a ocho años de prisión y multa.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 399.
 
-CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SEXUAL. El abuso sexual se perseguirá de oficio, salvo en los supuestos previstos en el párrafo primero del artículo 397 y el párrafo segundo del artículo 398, en los que se perseguirá por querella.
+CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SEXUAL. El abuso sexual se perseguirá de oficio, salvo en los supuestos previstos en el párrafo primero del artículo 397, en los que se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2005)</small>
 
 ### CAPÍTULO TERCERO. ESTUPRO
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO CUARTO. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ## TÍTULO CUARTO. DELITOS CONTRA LA SALUD
 
@@ -5923,29 +5935,23 @@ CONDICIÓN DE PROCEDIBILIDAD PARA LA PERSECUCIÓN DE ALGUNOS DELITOS DE ABUSO SE
 
 ### CAPITULO QUINTO. ACOSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-ARTÍCULO 399 BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a cinco años de prisión y multa, a quien con fines lascivos asedie, acose en cualquier forma o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
+###### ARTÍCULO 399
 
-> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2005)</small>
+BIS SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL.
+
+Se aplicará de uno a cinco años de prisión y multa a quien con fines lascivos o erótico-sexuales, ya sea de manera directa, a través de medios informáticos, audiovisuales, virtuales o de cualquier otra forma, asedie o acose a una persona o le solicite favores de naturaleza sexual para sí o para un tercero.
+
+Si la acción se realiza a través de medios informáticos, se impondrá además, la prohibición de comunicarse a través de dichos medios o redes sociales, hasta por un tiempo igual a la pena impuesta.
 
 Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2011)</small>
-
-Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizaré los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años.
+Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el servicio público por un período de uno a cinco años. Igualmente, si el sujeto pasivo del delito es menor de edad o persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión.
 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 80, PUBLICADO EN EL P.O. 19 DE OCTUBRE DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
 
 > <small>(REFORMADO [N. DE E., ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-###### ARTÍCULO 399
-
-BIS. SANCIONES Y FIGURA TIPICA DE ACOSO SEXUAL. Se aplicará de uno a tres años de prisión y multa, a quien con fines lascivos asedie, acose o solicite favores de naturaleza sexual a cualquier persona, para sí o para un tercero.
-
-Será punible el acoso sexual cuando el sujeto activo pueda causar un daño personal, laboral, educativo, profesional o patrimonial.
-
-Las sanciones mínima y máxima se aumentarán en un tercio más si el sujeto activo fuere servidor público y utilizare los medios propios del cargo, y será destituido e inhabilitado para ocupar empleo, cargo o comisión en el sector público por un período de uno a tres años.
 
 ###### ARTÍCULO 400.
 
@@ -5955,7 +5961,7 @@ Para los efectos de este Título, son punibles las conductas que se relacionan c
 
 Los narcóticos empleados en la comisión de los delitos a que se refiere este Título, se pondrán a disposición de la autoridad sanitaria estatal, la que procederá de acuerdo con las disposiciones o leyes de la materia a su aprovechamiento lícito o a su destrucción.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -5967,7 +5973,7 @@ Cuando la víctima fuere persona menor de edad o que no tenga capacidad para com
 
 Para los efectos de este Título, se entiende por suministro la transmisión material de forma directa o indirecta, por cualquier concepto, de la tenencia de narcóticos.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -5991,7 +5997,7 @@ VII. El agente determine a otra persona a cometer este delito, aprovechando el a
 
 VIII. Se trate del propietario poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza y lo empleare para realizar este delito o permitiere su realización por terceros. En este caso además, se clausurará en definitiva el establecimiento. En este caso, el Ministerio Público deberá informar a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de los ordenamientos correspondientes.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6001,7 +6007,7 @@ SANCIÓN Y FIGURA TÍPICA DE POSESIÓN DE NARCÓTICOS CON FINES DE COMERCIO O SU
 
 Se presume que la posesión tiene como objeto el comercio o suministro, cuando el inculpado posea alguno de los narcóticos señalados en la Tabla de Orientación de Dosis Máximas de Consumo Personal e Inmediato, en cantidad superior a la prevista en ésta para consumo personal e inmediato.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6011,7 +6017,7 @@ SANCIÓN Y FIGURA TÍPICA DE POSESIÓN SIMPLE DE NARCÓTICOS. Se aplicará pena 
 
 Para los efectos de este Título, se entiende por posesión la tenencia material de narcóticos o cuando éstos se encuentren dentro del radio de acción y disponibilidad de una persona.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6033,7 +6039,7 @@ Se entiende que el narcótico está destinado para su estricto e inmediato consu
 
 ### CAPÍTULO PRIMERO. DEL COMERCIO, SUMINISTRO Y POSESIÓN DE NARCÓTICOS EN SU MODALIDAD DE NARCOMENUDEO
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6043,7 +6049,7 @@ COMPETENCIA EN MATERIA DE DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDE
 
 El juzgador, al individualizar la pena o la medida de seguridad a imponer por la comisión de algún delito previsto en este capítulo, tomará en cuenta, además de lo establecido en el Título Quinto, Libro Primero de este Código, la cantidad y la especie de narcótico de que se trate, así como la menor o mayor lesión o puesta en peligro de la salud pública y las condiciones personales del autor o participe del hecho o la reincidencia en su caso.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6051,7 +6057,7 @@ El juzgador, al individualizar la pena o la medida de seguridad a imponer por la
 
 INFORME A LAS AUTORIDADES FEDERALES. Cuando el Ministerio Público conozca de los delitos previstos en este Título, deberá informar oportunamente al Ministerio Público de la Federación del inicio de las averiguaciones previas, a efecto de que éste cuente con los elementos necesarios para, en su caso, solicitar la remisión de la investigación, en los términos de lo dispuesto en la fracción IV, inciso b) del artículo 474 de la Ley General de Salud.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6059,7 +6065,7 @@ INFORME A LAS AUTORIDADES FEDERALES. Cuando el Ministerio Público conozca de lo
 
 LEGISLACIÓN APLICABLES (SIC) EN LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO. Los procedimientos penales y, en su caso, la ejecución de las penas y medidas de seguridad por los delitos a que se refiere este Título, se regirán por las leyes del Estado en la materia, salvo en los casos del destino y destrucción de narcóticos y la clasificación de los delitos como graves para fines del otorgamiento de la libertad provisional bajo caución, en los cuales se observarán las disposiciones del Código Federal de Procedimientos Penales.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6071,7 +6077,7 @@ TRATAMIENTO Y REHABILITACIÓN A FARMACODEPENDIENTES. El Ministerio Público o la
 
 ### CAPÍTULO SEGUNDO. DISPOSICIONES COMÚNES A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -6956,3 +6962,21 @@ P.O. 27 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila.
 
 SEGUNDO.- A los sujetos activos dentro de los procedimientos penales pendientes de resolución les será aplicable la legislación que les resulte más favorable.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+DECRETO No. 187 POR EL QUE SE MODIFICA EL PRIMER PÁRRAFO Y FRACCIÓN SEGUNDA DEL ARTÍCULO 386, EL PRIMER PÁRRAFO DEL ARTÍCULO 388, EL PRIMER PÁRRAFO DEL ARTÍCULO 389, LOS ARTÍCULOS 393, 394, EL PRIMER PÁRRAFO DEL ARTÍCULO 397, LOS ARTÍCULOS 398 Y 399 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 191, POR EL QUE SE REFORMA EL ARTÍCULO 399-BIS DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
