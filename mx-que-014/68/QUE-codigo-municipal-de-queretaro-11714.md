@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2015-01-09"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -555,19 +555,23 @@ IV. Secretaría de Desarrollo Social;
 
 V. Secretaría de Administración; y
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-VI. Secretaría de Servicios Públicos Municipales; y
+VI. Secretaría de Servicios Públicos Municipales;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-VII. Secretaría de Obras Públicas Municipales.
+VII. Secretaría de Obras Públicas Municipales; y
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Secretaría de Movilidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO IV. De la Secretaría General de Gobierno Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 71.
 
@@ -609,11 +613,11 @@ XVI. Los demás que le señalen como de su competencia las leyes y reglamentos v
 
 Para el despacho de los asuntos de su competencia, el Secretario de Gobierno Municipal se auxiliará con las Direcciones de Gobernación y General Jurídica, Análisis Político y del Registro Civil Municipal, así como de los departamentos que al efecto se designen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO V. De la Secretaría de Economía y Finanzas y Tesorería Municipal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 72.
 
@@ -675,27 +679,37 @@ XXV. Los demás que le señalen las leyes y reglamentos vigentes.
 
 Para el despacho de los asuntos de su competencia, el Secretario de Economía y Finanzas y Tesorería Municipal, se auxiliará con las Direcciones de Egresos e Información Financiera, de Ingresos, de Sistemas de Información y Municipal de Catastro, así como de los departamentos que al efecto se designen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO VI. Secretaría de Desarrollo Sustentable del Municipio de Querétaro y Secretaría de Obras Públicas Municipales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 73.
 
-La Secretaría de Desarrollo Sustentable del Municipio de Querétaro, es la encargada de regular el ordenado crecimiento urbano municipal, y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro, es la encargada de regular el ordenado crecimiento urbano municipal, sin perjuicio de las atribuciones conferidas a la Secretaría de Movilidad; y le corresponde el despacho de los siguientes asuntos:
 
-I. Ejercer las atribuciones que en materia de planificación urbana y zonificación, consignan en favor de los municipios la fracción V del Artículo 115 de la Constitución Federal, Artículo 86 de la Constitución Política del Estado de Querétaro, preceptos consignados en el Código Urbano vigente en el Estado, el presente Código y demás disposiciones legales y reglamentarias;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-II. Elaborar, aprobar, ejecutar, evaluar y modificar planes, programas y declaratorias de desarrollo urbano dentro de su jurisdicción y competencia;
+l. Ejercer las atribuciones que en materia de planificación urbana y zonificación, consignan en favor de los municipios la Constitución Política de los Estados Unidos Mexicanos y el Código Urbano vigente en el Estado, el presente Código y demás disposiciones legales y reglamentarias;
 
-III. Participar en la planeación y ordenamiento del desarrollo urbano correspondiente al Municipio de Querétaro en la zona Conurbada en forma conjunta y coordinada con la Secretaría de Desarrollo Urbano, Obras Públicas y Ecología del Estado;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-IV. Aprobar las declaratorias de reservas, destinos y usos que se deriven de los planes parciales y sectoriales, y someterlas al Ejecutivo del Estado para su publicación, a través del Presidente Municipal;
+II. Elaborar, aprobar, ejecutar, evaluar y modificar planes, programas y declaratorias de desarrollo urbano dentro de su jurisdicción y competencia, en conjunto con la Secretaría de Movilidad;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+III. Participar en la planeación y ordenamiento del desarrollo urbano correspondiente al Municipio de Querétaro en la zona conurbada, en forma conjunta y coordinada con la Secretaría de Movilidad;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+IV. En conjunto con la Secretaría de Movilidad, aprobar las declaratorias de reservas, destinos y usos que se deriven de los planes parciales y sectoriales, y someterlas al Ejecutivo del Estado para su publicación, a través del Presidente Municipal;
 
 V. Participar en la elaboración de dictámenes sobre planes, programas y lineamientos de desarrollo urbano, así como en proyectos de fraccionamientos, edificaciones y otros elementos que se realicen en el Municipio;
 
-VI. Establecer y aplicar normas para el adecuado aprovechamiento del suelo, construcciones y la infraestructura determinando las características, densidades y requerimientos de construcción;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VI. Establecer y aplicar normas para el adecuado aprovechamiento del suelo, construcciones y la infraestructura determinando las características, densidades y requerimientos de construcción, en conjunto con la Secretaría de Movilidad.
 
 VII. Difundir el contenido de planes, programas, leyes y reglamentaciones urbanísticas ante el público en general, asociaciones profesionales, instituciones y otras agrupaciones similares;
 
@@ -711,19 +725,25 @@ XII. Intervenir, conjunta y cordialmente con el Gobierno del Estado, a través d
 
 XIII. Identificar, declarar y conservar zonas, edificaciones o elementos con valor histórico o cultural;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XIV. Recibir y revisar los fraccionamientos por parte del municipio en coordinación con la Secretaría de Servicios Públicos Municipales;
+XIV. Recibir y revisar los fraccionamientos por parte del municipio, en coordinación con las Secretarías de Movilidad y de Servicios Públicos Municipales.
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
 
 XV. Proponer ante la Secretaría de Finanzas la derrama del Impuesto sobre aumento de Valores y Mejoría Específica de la Propiedad;
 
-XVI. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XVII. Aplicar y vigilar las disposiciones municipales sobre uso del suelo, construcciones, estacionamientos y anuncios;
+XVI. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas, que deberán ser compatibles con las emitidas por la Secretaría de Movilidad en el ámbito de su competencia;
 
-XVIII. Coordinar el desarrollo de proyectos municipales de edificaciones y de espacios urbanos, que reporten fuerte impacto sobre la ciudad;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Aplicar y vigilar las disposiciones municipales sobre uso del suelo, construcciones, estacionamientos y anuncios, en conjunto con la Secretaría de Movilidad;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Coordinar el desarrollo de proyectos municipales de edificaciones y de espacios urbanos, que reporten fuerte impacto sobre la ciudad, en conjunto con la Secretaría de Movilidad.
 
 XIX. Ejecutar las acciones derivadas de la celebración de acuerdos de coordinación y cooperación con las instituciones federales, estatales o municipales, según sea el área de su competencia;
 
@@ -733,9 +753,9 @@ XXI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
 XXII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XXIII. Recibir, tramitar y resolver, el otorgamiento de los permisos de construcción de edificaciones, que cuenten con la aprobación respectiva de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro;
+XXIII. Recibir, tramitar y resolver, el otorgamiento de los permisos de construcción de edificaciones, que cuenten con la aprobación respectiva de la Secretaría de Movilidad del Municipio de Querétaro;
 
 XXIV. Llevar el registro de los profesionistas autorizados para elaborar planos de construcción de edificaciones;
 
@@ -761,25 +781,41 @@ XXXIII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estad
 
 Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Sustentable del Municipio de Querétaro se auxiliará con la Dirección de Desarrollo Urbano, de Ecología Municipal y de Desarrollo Económico, así como de los departamentos que al efecto se designen.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-ARTICULO 73 bis.- La Secretaría de Obras Públicas Municipales, es la encargada de la proyección y construcción de las obras públicas municipales, y le corresponde el despacho de los siguientes asuntos:
+ARTICULO 73 bis.- La Secretaría de Obras Públicas Municipales, es la encargada de la proyección y construcción de las obras públicas municipales, sin perjuicio de las atribuciones conferidas a la Secretaría de Movilidad; y le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-II. Dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y reparación de las obras públicas;
+l. Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas, en coordinación con la Secretaría de Movilidad;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+II. Dirigir, coordinar y controlar la ejecución de los programas relativos a la construcción y reparación de las obras públicas, en conjunto con la Secretaría de Movilidad;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 III. Elaborar los proyectos y presupuestos de las obras públicas, debiendo coordinarlos con las dependencias que correspondan;
 
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 IV. Expedir las bases a que deben ajustarse los concursos para la adjudicación de los contratos de obras públicas, y vigilar el cumplimiento de los mismos;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 V. Coordinar la construcción de los inmuebles y monumentos municipales;
 
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+
 VI. Realizar las acciones derivadas de la celebración de convenios y acuerdos de coordinación con las instituciones federales, estatales o municipales, de conformidad con su esfera competencial;
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 VII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia, el Secretario de Obras Públicas Municipales se auxiliará con las Direcciones de Obras Públicas, de Mantenimiento y Operación Vial y de Regularización Territorial, así como de los departamentos que al efecto se designen.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Para el despacho de los asuntos de su competencia, el Secretario de Obras Públicas Municipales se auxiliará con la Dirección de Obras Públicas, así como de los departamentos que al efecto se designen.
 
 ### CAPITULO VII. Secretaría de Desarrollo Social
 
@@ -815,7 +851,7 @@ XI. Evaluar la programación, la promoción, la documentación y la ejecución d
 
 XII. Apoyar la participación de los particulares para la constitución de comités de colaboración comunitaria;
 
-XIII. Inducir la educación vial entre la población, particularmente entre los niños y los jóvenes escolares;
+XIII. (DEROGADA, P.O. 13 DE NOVIEMBRE DE 2015)
 
 XIV. Coadyuvar y valorar el cumplimiento y avance de planes y programas municipales; y
 
@@ -897,13 +933,13 @@ XXX. Los demás que en las materias de su competencia lo atribuyan al municipio 
 
 Para el despacho de los asuntos de su competencia, el Secretario de Administración se auxiliará con las Direcciones de Recursos Humanos, de Adquisiciones y Contratación de Servicios de Administración Patrimonial y Servicios Administrativos de Organización y de Transportes, así como de los departamentos que designen al efecto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO IX. De la Secretaría de Servicios Públicos Municipales
 
 ###### ARTICULO 76.
 
-(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
+(DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PÚBLICOS MUNICIPALES DE QUERÉTARO, P.O. 23 DE ENERO DE 2009)
 
 ### CAPITULO X. De los Organismos Descentralizados
 
@@ -937,7 +973,7 @@ Se considera a una empresa de participación municipal minoritaria, cuando los i
 
 La vigilancia de los organismos descentralizados y las empresas de participación municipal, serán sujetas al control y vigilancia del ayuntamiento y deberán rendir un informe anual ante el mismo, o cuando sea requerido por éste.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ### CAPITULO XI. De la Secretaría de la Contraloría Municipal
 
@@ -957,13 +993,21 @@ ARTICULO 83 bis 6.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE
 
 ARTICULO 83 bis 7.- (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DEL TRIBUNAL MUNICIPAL DE RESPONSABILIDADES ADMINISTRATIVAS, P.O. 15 DE JUNIO DE 2005)
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO XII. De la Secretaría de Movilidad
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 83 ter.- La Secretaría de Movilidad es la dependencia del sector central de la administración pública del municipio de Querétaro que tiene a su cargo proponer y ejecutar la política pública que el Ayuntamiento y el Presidente Municipal, en su caso, determinen en materia de movilidad, sin perjuicio de las atribuciones que la Secretaría de Seguridad Pública tiene asignadas con respecto al control policial de la vialidad y el tránsito en el territorio municipal.
+
+La estructura, atribuciones y funcionamiento de esta Secretaría, se sujetarán a lo que establezca su Reglamento Interior.
+
 APARTADO TERCERO
 
 DISPOSICIONES GENERALES DE TRABAJO
 
 ### CAPITULO I. Disposiciones Generales
-
-### CAPITULO II. Requisitos de Admisión y Nombramientos
 
 ###### ARTICULO 84.
 
@@ -991,7 +1035,7 @@ El Sindicato estará representado por su Comité Ejecutivo o por la persona que 
 
 El Ayuntamiento reconoce como único representante de sus trabajadores de base al Comité Ejecutivo, representado por sus distintos secretarios y comisiones debidamente acreditadas.
 
-### CAPITULO III. De la Suspensión de los Efectos del Nombramiento
+### CAPITULO II. Requisitos de Admisión y Nombramientos
 
 ###### ARTICULO 89.
 
@@ -1101,13 +1145,13 @@ Si el trabajador fuere ascendido a un puesto de confianza, quedarán en suspenso
 
 d) Cuando las necesidades del servicio así lo requieran.
 
-### CAPITULO IV. Jornada de Trabajo
+### CAPITULO III. De la Suspensión de los Efectos del Nombramiento
 
 ###### ARTICULO 103.
 
 La suspensión y terminación de los efectos del nombramiento serán regidos íntegramente por lo dispuesto en la Ley Estatal y demás aplicables.
 
-### CAPITULO V. De las Retribuciones y Salarios
+### CAPITULO IV. Jornada de Trabajo
 
 ###### ARTICULO 104.
 
@@ -1139,7 +1183,7 @@ El trabajador deberá marcar su tarjeta de asistencia en el reloj checador corre
 
 Cuando por enfermedad o cualquier supuesto encuadrado en la Ley Estatal o la Ley Federal el trabajador no pudiere concurrir al desempeño de sus labores, deberá dar aviso a su jefe inmediato, y de ser posible y necesario acompañar el justificante correspondiente o incapacidad expedida por el I.M.S.S.
 
-### CAPITULO VI. Descanso, Licencias y Vacaciones
+### CAPITULO V. De las Retribuciones y Salarios
 
 ###### ARTICULO 110.
 
@@ -1173,7 +1217,7 @@ Toda aclaración sobre salarios faltantes, deberá hacerla el trabajador ante la
 
 Los trabajadores tendrán derecho a solicitar y obtener por escrito un permiso sin goce de sueldo hasta por seis meses al año, siempre que el trabajador cuente con antigüedad mayor de 5 años, sin deterioro de los permisos aceptados por la ley, con goce de salario y sin menoscabo de su antigüedad.
 
-### CAPITULO VII. De la Higiene y Seguridad
+### CAPITULO VI. Descanso, Licencias y Vacaciones
 
 ###### ARTICULO 118.
 
@@ -1191,7 +1235,7 @@ d) VACACIONES.- Los períodos de vacaciones serán dos al año, serán fijados p
 
 Los trabajadores que no tengan derecho a vacaciones por no haber acumulado la antigüedad necesaria, seguirán trabajando en las áreas que requieran guardia.
 
-### CAPITULO VIII. De los Incentivos
+### CAPITULO VII. De la Higiene y Seguridad
 
 ###### ARTICULO 119.
 
@@ -1257,7 +1301,7 @@ XXII. Como medida de seguridad y de acuerdo con lo que al respecto establece la 
 
 Respecto a las mujeres y los menores de 16 años quedan prohibidos los trabajos especificados en la Ley Federal del Trabajo, dando con esto cumplimiento a lo dispuesto por la fracción VII del artículo 423 de la Ley Federal.
 
-### CAPITULO IX. De las Obligaciones y Derechos
+### CAPITULO VIII. De los Incentivos
 
 ###### ARTICULO 123.
 
@@ -1271,19 +1315,19 @@ c) Responsabilidad en el trabajo y colaboración.
 
 La Dirección de Recursos Humanos será quien califique los méritos de los trabajadores propuestos, reservándose el número de trabajadores a incentivar en cada período.
 
-### CAPITULO X. De los Riesgos Profesionales y Accidentes de Trabajo
+### CAPITULO IX. De las Obligaciones y Derechos
 
 ###### ARTICULO 124.
 
 Para efecto de esta capitulo las partes convienen en sujetarse a lo dispuesto por las normas contractuales pactadas con anterioridad, por la Ley Estatal y por lo establecido en la Ley Federal, concretamente en los artículo 132, 133, 134, 135 y demás relativos.
 
-### CAPITULO XI. Disposiciones Generales
+### CAPITULO X. De los Riesgos Profesionales y Accidentes de Trabajo
 
 ###### ARTICULO 125.
 
 Todo lo relacionado con este capítulo será regido de plano por la Ley Federal del Trabajo y será incrementado con las prestaciones obtenidas a través de la Ley Estatal y por los convenios celebrados y por celebrar entre el H. Ayuntamiento y el Sindicato.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO XI. Disposiciones Generales
 
 ###### ARTICULO 126.
 
@@ -1317,7 +1361,7 @@ DISPOSICIONES DE POLICIA Y GOBIERNO MUNICIPAL
 
 ## TITULO PRIMERO. DEL MUNICIPIO
 
-### CAPITULO I. De la Integración del Territorio Nacional
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### ARTICULO 132.
 
@@ -1361,7 +1405,7 @@ El presente apartado tiene por objeto normar la conducta y convivencia pacífica
 
 ## TITULO SEGUNDO. DEL TERRITORIO
 
-### CAPITULO II. De la Organización
+### CAPITULO I. De la Integración del Territorio Nacional
 
 ###### ARTICULO 136.
 
@@ -1387,7 +1431,7 @@ VII. Santa Rosa Jaúregui
 
 Los límites y disposiciones para el adecuado funcionamiento de las delegaciones se contemplan en el apartado segundo del libro segundo de este Código Municipal.
 
-### CAPITULO I. De los Habitantes
+### CAPITULO II. De la Organización
 
 ###### ARTICULO 138.
 
@@ -1407,7 +1451,7 @@ Para toda creación o modificación se estará a lo que disponga la Ley Orgánic
 
 ## TITULO TERCERO. DE LA POBLACION MUNICIPAL
 
-### CAPITULO II. De los vecinos
+### CAPITULO I. De los Habitantes
 
 ###### ARTICULO 142.
 
@@ -1419,7 +1463,7 @@ Los habitantes tendrán los mismos derechos y obligaciones que los vecinos con e
 
 Los extranjeros que habitual o transitoriamente residan en el territorio municipal, deben inscribirse en el padrón de extranjería del municipio.
 
-### CAPITULO III. De los Derechos y Obligaciones de los Vecinos
+### CAPITULO II. De los vecinos
 
 ###### ARTICULO 144.
 
@@ -1431,7 +1475,7 @@ II. Las personas que tengan menos de seis meses de residencia y expresen ante la
 
 III. Todas las personas nacidas en el municipio y radicadas en su territorio.
 
-### CAPITULO IV. De la Pérdida de la Vecindad
+### CAPITULO III. De los Derechos y Obligaciones de los Vecinos
 
 ###### ARTICULO 145.
 
@@ -1505,7 +1549,7 @@ w) Cumplir con las disposiciones que dicten las autoridades federales, estatales
 
 Cuando para el cumplimiento de sus obligaciones o la promoción y gestión de sus derechos así lo amerite, los vecinos se organizarán en la forma y términos que fije el Ayuntamiento.
 
-### CAPITULO UNICO. De las Autoridades Municipales
+### CAPITULO IV. De la Pérdida de la Vecindad
 
 ###### ARTICULO 147.
 
@@ -1523,7 +1567,7 @@ V. Por pérdida de la nacionalidad mexicana o de la ciudadanía del estado.
 
 ## TITULO CUARTO. DEL GOBIERNO MUNICIPAL
 
-### CAPITULO I. De los Servicios Públicos
+### CAPITULO UNICO. De las Autoridades Municipales
 
 ###### ARTICULO 148.
 
@@ -1555,7 +1599,7 @@ En materia de policía y gobierno, los Delegados tendrán la obligación de info
 
 ## TITULO QUINTO. DE LOS ACTOS PROHIBIDOS
 
-### CAPITULO II. De la Seguridad Personal
+### CAPITULO I. De los Servicios Públicos
 
 ###### ARTICULO 152.
 
@@ -1591,7 +1635,7 @@ XIV. Realizar pintas de leyendas o publicidad de cualquier naturaleza, en bardas
 
 XV. En general realizar actos en contra de los servicios públicos municipales.
 
-### CAPITULO III. Del Patrimonio Personal
+### CAPITULO II. De la Seguridad Personal
 
 ###### ARTICULO 153.
 
@@ -1613,7 +1657,7 @@ VII. Permitir que los perros anden por las calles, sin llevar bozal y sin estar 
 
 VIII. Las demás de índole similar a las enunciadas anteriormente, que a criterio de la autoridad y el sentido común, pudieran atentar contra la seguridad personal de un individuo.
 
-### CAPITULO IV. Del Tránsito Público
+### CAPITULO III. Del Patrimonio Personal
 
 ###### ARTICULO 154.
 
@@ -1633,7 +1677,7 @@ VI. Arrojar piedras u otros objetos que puedan destruir u deteriorar escaparates
 
 VII. Causar la muerte o heridas graves a un animal ajeno, por imprudencia o intencionalmente, sin prejuzgar sobre la responsabilidad civil o de otra índole, que el propietario reclame.
 
-### CAPITULO V. De la Salubridad
+### CAPITULO IV. Del Tránsito Público
 
 ###### ARTICULO 155.
 
@@ -1669,7 +1713,7 @@ XIV. Reservar espacios de la vía pública, con el propósito de lucrar con ello
 
 XV. Las demás de índole similar a las anteriores.
 
-### CAPITULO VI. Del Orden Público
+### CAPITULO V. De la Salubridad
 
 ###### ARTICULO 156.
 
@@ -1699,7 +1743,7 @@ XI. Vender al público bebidas y alimentos adulterados, poniendo en riesgo la sa
 
 XII. Las demás de índole similar a las anteriores, que a juicio de la autoridad, amerite sanción administrativa.
 
-### CAPITULO VII. De la Imagen Urbana
+### CAPITULO VI. Del Orden Público
 
 ###### ARTICULO 157.
 
@@ -1769,7 +1813,7 @@ XXX. Las faltas a la moral y al pudor en la vía pública o en los centros de di
 
 XXXI. Los juegos de azar o de apuestas en público o en privado, salvo los expresamente autorizados por las autoridades correspondientes.
 
-### CAPITULO VIII. Del Medio Ambiente
+### CAPITULO VII. De la Imagen Urbana
 
 ###### ARTICULO 158.
 
@@ -1785,7 +1829,7 @@ IV. Usar en público palabras, señales o gestos obscenos o molestar a las perso
 
 V. No cumplir, en esta materia, con las obligaciones fiscales establecidas en las leyes municipales correspondientes.
 
-### CAPITULO I. Del Cuerpo de Policía
+### CAPITULO VIII. Del Medio Ambiente
 
 ###### ARTICULO 159.
 
@@ -1807,7 +1851,7 @@ Se consideran también como infracciones los hechos u omisiones que se cometan c
 
 ## TITULO SEXTO. DE LA SEGURIDAD PUBLICA
 
-### CAPITULO II. De las Comisarías de Correccionales
+### CAPITULO I. Del Cuerpo de Policía
 
 ###### ARTICULO 161.
 
@@ -1865,7 +1909,7 @@ Los miembros de la policía anotarán las infracciones que descubran o les denun
 
 De las novedades ocurridas, detenciones, hechos o infracciones levantadas en el día, por elementos de la policía, el director de éste rendirá un informe pormenorizado al C. Gobernador Constitucional del Estado y al Presidente Municipal, en las primeras horas de oficina del día siguiente, haciendo una relación detallada del contenido de las boletas utilizadas de que se hizo mención en el artículo anterior.
 
-### CAPITULO I. De las Atribuciones
+### CAPITULO II. De las Comisarías de Correccionales
 
 ###### ARTICULO 168.
 
@@ -2029,7 +2073,7 @@ APARTADO TERCERO
 
 DE LAS ATRIBUCIONES DEL MUNICIPIO EN MATERIA DE DESARROLLO URBANO
 
-### CAPITULO II. De la Urbanización
+### CAPITULO I. De las Atribuciones
 
 ###### ARTICULO 189.
 
@@ -2053,7 +2097,7 @@ VIII. Proponer a la Legislatura del Estado la fundación de centros de població
 
 IX. Identificar, declarar y conservar en coordinación con el Gobierno del Estado las zonas, sitios y edificaciones que signifiquen para la comunidad del municipio un testimonio valioso de su historia y su cultura.
 
-### CAPITULO I. De las Facultades del Ayuntamiento
+### CAPITULO II. De la Urbanización
 
 ###### ARTICULO 190.
 
@@ -2135,7 +2179,7 @@ DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO II. De la Gestión Amibental (sic) Municipal
+### CAPITULO I. De las Facultades del Ayuntamiento
 
 ###### ARTICULO 202.
 
@@ -2143,7 +2187,7 @@ DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO III. De la Participación Social
+### CAPITULO II. De la Gestión Amibental (sic) Municipal
 
 ###### ARTICULO 203.
 
@@ -2155,7 +2199,7 @@ DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO I. Formulación y Conducción de la Política Ecológica
+### CAPITULO III. De la Participación Social
 
 ###### ARTICULO 205.
 
@@ -2171,11 +2215,7 @@ DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO II. De los Instrumentos de la Política Ecológica
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
-
-PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
+### CAPITULO I. Formulación y Conducción de la Política Ecológica
 
 ###### ARTICULO 207.
 
@@ -2183,7 +2223,11 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 > <small>(DEROGADO CON EL APARTADO Y ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO I. De la Prevención y Control de la Contaminación Atmosférica
+### CAPITULO II. De los Instrumentos de la Política Ecológica
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
+
+PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 ###### ARTICULO 208.
 
@@ -2211,7 +2255,7 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO II. De la Prevención y Control de la Contaminación del Agua
+### CAPITULO I. De la Prevención y Control de la Contaminación Atmosférica
 
 ###### ARTICULO 213.
 
@@ -2231,7 +2275,7 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO III. Residuos Sólidos No Peligrosos
+### CAPITULO II. De la Prevención y Control de la Contaminación del Agua
 
 ###### ARTICULO 217.
 
@@ -2259,7 +2303,7 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO IV. Emisiones de Ruido, Vibraciones, Energía Térmica y Lumínica
+### CAPITULO III. Residuos Sólidos No Peligrosos
 
 ###### ARTICULO 223.
 
@@ -2283,7 +2327,7 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO V. Contaminación Visual y Protección del Paisaje
+### CAPITULO IV. Emisiones de Ruido, Vibraciones, Energía Térmica y Lumínica
 
 ###### ARTICULO 228.
 
@@ -2295,7 +2339,7 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO VI. Regulación de Actividades que Pueden Generar Efectos Nocivos. Actividades Comerciales, Industriales y de Servicios
+### CAPITULO V. Contaminación Visual y Protección del Paisaje
 
 ###### ARTICULO 230.
 
@@ -2307,7 +2351,7 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 > <small>(DEROGADO CON LOS ARTICULOS Y APARTADO QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO I. De las Areas Naturales Protegidas de Interés Municipal
+### CAPITULO VI. Regulación de Actividades que Pueden Generar Efectos Nocivos. Actividades Comerciales, Industriales y de Servicios
 
 ###### ARTICULO 232.
 
@@ -2327,7 +2371,7 @@ EXTRACCION DE MATERIALES DE CONSTRUCCION
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO II. De la Preservación y Restauración del Equilibrio Ecológico
+### CAPITULO I. De las Areas Naturales Protegidas de Interés Municipal
 
 ###### ARTICULO 234.
 
@@ -2363,7 +2407,7 @@ EXTRACCION DE MATERIALES DE CONSTRUCCION
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO I. Observancia del Reglamento
+### CAPITULO II. De la Preservación y Restauración del Equilibrio Ecológico
 
 ###### ARTICULO 242.
 
@@ -2379,7 +2423,7 @@ EXTRACCION DE MATERIALES DE CONSTRUCCION
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO II. Inspección y Vigilancia
+### CAPITULO I. Observancia del Reglamento
 
 ###### ARTICULO 244.
 
@@ -2387,7 +2431,7 @@ EXTRACCION DE MATERIALES DE CONSTRUCCION
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO III. Medidas de Seguridad
+### CAPITULO II. Inspección y Vigilancia
 
 ###### ARTICULO 245.
 
@@ -2399,9 +2443,7 @@ EXTRACCION DE MATERIALES DE CONSTRUCCION
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
-### CAPITULO I. Permisos y Licencias
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2009)</small>
+### CAPITULO III. Medidas de Seguridad
 
 ###### ARTICULO 247.
 
@@ -2413,13 +2455,15 @@ DE LAS ACTIVIDADES COMERCIALES
 
 ## TITULO UNICO. DE LAS ACTIVIDADES DE LOS PARTICULARES
 
-### CAPITULO II. De las Actividades Comerciales
+### CAPITULO I. Permisos y Licencias
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 248.
 
-Es competencia del Ayuntamiento y facultad de la Secretaría de Finanzas llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorias que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este Código y demás reglamentos aplicables.
+Es competencia del Ayuntamiento y facultad de la Secretaría de Finanzas llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorías que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este Código y demás reglamentos aplicables.
+
+Cuando la ubicación o el funcionamiento de dichos establecimientos afecten las políticas, programas, proyectos o regulaciones específicas establecidas en materia de movilidad, se requerirá del visto bueno de la Secretaría del ramo.
 
 ###### ARTICULO 249.
 
@@ -2435,7 +2479,9 @@ El ejercicio de las actividades a que se refiere este capítulo se sujetará a l
 
 Los particulares no podrán realizar una actividad distinta a la autorizada en la licencia o permiso correspondiente.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De las Actividades Comerciales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 252.
 
@@ -2445,7 +2491,7 @@ El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos
 
 I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 08:00 a las 22:00 horas en forma ininterrumpida salvo las excepciones que contempla el presente apartado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 II. La Secretaría de Finanzas podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Rural y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
 
@@ -2463,7 +2509,7 @@ IV. Cuando en algún establecimiento vendan artículos comprendidos en diversos 
 
 V. La autoridad municipal tendrá la facultad de fijar el horario a los establecimientos no señalados en este apartado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 253.
 
@@ -2597,7 +2643,7 @@ APARTADO SEXTO
 
 DE LOS ESPECTACULOS EN EL MUNICIPIO
 
-### CAPITULO II. De las Licencias y Permisos
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 259.
 
@@ -2745,7 +2791,7 @@ De los salones discotecas.
 
 De los centros nocturnos, tabernas, pulquerías, o expendio de bebidas alcohólicas.
 
-### CAPITULO III. De las Empresas Promotoras
+### CAPITULO II. De las Licencias y Permisos
 
 ###### ARTICULO 275.
 
@@ -2837,7 +2883,7 @@ I. Fotocopia del comprobante de la Secretaría de Finanzas que acredite haber cu
 
 II. Fotocopia de la licencia de funcionamiento, así como la patente respectiva.
 
-### CAPITULO IV. Del Control y Vigilancia
+### CAPITULO III. De las Empresas Promotoras
 
 ###### ARTICULO 288.
 
@@ -2917,7 +2963,7 @@ VII. Los carteles, poster y similares, sólo podrán fijarse en los lugares dest
 
 VIII. La publicidad y propaganda de cualquier espectáculo, será posterior al permiso o autorización del evento.
 
-### CAPITULO V. De los que Intervienen en los Espectáculos
+### CAPITULO IV. Del Control y Vigilancia
 
 ###### ARTICULO 302.
 
@@ -3015,9 +3061,7 @@ En caso de oposición violenta por parte de los empresarios, de sus empleados, o
 
 (DEROGADO POR ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO DE INSPECCION PARA EL MUNICIPIO DE QUERETARO, P.O. 16 DE NOVIEMBRE DE 2001)
 
-### CAPITULO VI. De los Espectadores
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
+### CAPITULO V. De los que Intervienen en los Espectáculos
 
 ###### ARTICULO 315.
 
@@ -3061,7 +3105,9 @@ La oficina de espectáculos municipales, dictará administrativamente las medida
 
 La agresión de cualquier espectador a los deportistas, actores, artistas, cantantes, directores, técnicos o cualquier persona que intervenga directa o indirectamente en la presentación de algún espectáculo o festejo, será sancionada.
 
-### CAPITULO VII. Del Desarrollo de las Funciones de Espectáculos
+### CAPITULO VI. De los Espectadores
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 325.
 
@@ -3103,7 +3149,7 @@ El público que asista a las corridas de toros, carreras de animales, de vehícu
 
 Queda estrictamente prohibido que el público invada la pista o se sitúe dentro de ella, así como que se coloque en la zona de protección de la misma o en aquellos lugares que en cada caso señale la empresa.
 
-### CAPITULO VIII. De los Revendedores
+### CAPITULO VII. Del Desarrollo de las Funciones de Espectáculos
 
 ###### ARTICULO 335.
 
@@ -3141,7 +3187,7 @@ Los espectáculos que se desarrollen fuera del Municipio de Querétaro, pero que
 
 La celebración de un espectáculo autorizado sólo puede suspenderse por causa de fuerza mayor o por ausencia absoluta de espectadores.
 
-### CAPITULO IX. De los Espectáculos Públicos de Basquetbol, Beisbol, Futbol, o similares
+### CAPITULO VIII. De los Revendedores
 
 ###### ARTICULO 344.
 
@@ -3159,7 +3205,7 @@ III. Cuando los revendedores son empleados de la empresa de espectáculos o pers
 
 Los boletos que se encuentran vendiendo fuera de taquilla o de los locales autorizados para ello, serán recogidos por la autoridad municipal y cancelados.
 
-### CAPITULO X. De los Salones de Boliche y de Billar
+### CAPITULO IX. De los Espectáculos Públicos de Basquetbol, Beisbol, Futbol, o similares
 
 ###### ARTICULO 346.
 
@@ -3191,7 +3237,7 @@ Para los casos no previstos en este ordenamiento, sobre competencias deportivas 
 
 Se prohíben los juegos que encubran estafa o engaño, ocasionando perjuicio económico a los participantes.
 
-### CAPITULO XI. De las Carreras de Automóviles, Motocicletas y Bicicletas
+### CAPITULO X. De los Salones de Boliche y de Billar
 
 ###### ARTICULO 349.
 
@@ -3215,7 +3261,7 @@ En caso de organización de torneos, los propietarios, administradores o encarga
 
 En caso de alquiler de zapatos en los boliches, deberán contar éstos con el equipo de desinfección necesario para evitar contagios.
 
-### CAPITULO XII. De los Juegos Mecánicos, Electromecánicos y Eléctricos
+### CAPITULO XI. De las Carreras de Automóviles, Motocicletas y Bicicletas
 
 ###### ARTICULO 354.
 
@@ -3277,7 +3323,7 @@ VI. Impedir que participe cualquier corredor que no reúna las condiciones físi
 
 VII. Resolver cualquier imprevisto no contemplado en este ordenamiento.
 
-### CAPITULO XIII. De los Espectáculos de Boxeo y Lucha Libre Profesional
+### CAPITULO XII. De los Juegos Mecánicos, Electromecánicos y Eléctricos
 
 ###### ARTICULO 362.
 
@@ -3297,7 +3343,7 @@ II. Acreditar a satisfacción de la Autoridad Municipal, mediante el correspondi
 
 III. Las demás que fije la Autoridad Municipal.
 
-### CAPITULO XIV. De los Cabarets, Salones de Baile, Centros Nocturnos y Otros de Diversión
+### CAPITULO XIII. De los Espectáculos de Boxeo y Lucha Libre Profesional
 
 ###### ARTICULO 365.
 
@@ -3391,7 +3437,7 @@ En todas las funciones de boxeo y lucha libre profesionales, la autoridad munici
 
 El inspector autoridad vigilará que el público que asista a los espectáculos no altere el orden público, cruce apuestas, ataque o insulte a los contendientes o comisionados y consignará a la autoridad competente a quienes infrinjan estas disposiciones. Asimismo cuidará que la policía que se encuentre en servicio en el local, de cumplimiento a las disposiciones del comisionado en turno.
 
-### CAPITULO XV. De las Salas Públicas de Cine
+### CAPITULO XIV. De los Cabarets, Salones de Baile, Centros Nocturnos y Otros de Diversión
 
 ###### ARTICULO 385.
 
@@ -3423,7 +3469,7 @@ II. Proporcionar a los clientes lista de precios autorizados de las bebidas o al
 
 III. Las demás que fija este reglamento y disposiciones municipales.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XV. De las Salas Públicas de Cine
 
 ###### ARTICULO 391.
 
@@ -3449,7 +3495,7 @@ APARTADO SEPTIMO
 
 DEL EJERCICIO DEL COMERCIO AMBULANTE Y PUESTOS FIJOS Y SEMIFIJOS EN LA VIA PUBLICA
 
-### CAPITULO II. Permisos y Licencias
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 395.
 
@@ -3465,7 +3511,7 @@ II. Comercio en Puesto Fijo: Toda actividad comercial que se realiza en la vía 
 
 III. Comercio en Puesto Semifijo.- Toda actividad comercial en la vía pública que se lleva a cabo de manera cotidiana; valiéndose de la instalación y retiro al término de su jornada de cualquier tipo de estructura; vehículo, remolque, instrumento, charola, artefacto u otro bien mueble, sin estar o permanecer anclado o adherido al suelo o construcción alguna.
 
-### CAPITULO III. De la Venta de Alimentos
+### CAPITULO II. Permisos y Licencias
 
 ###### ARTICULO 397.
 
@@ -3543,7 +3589,7 @@ V. Respetar los giros que ampara su licencia; y
 
 VI. No obstruir la vialidad ni el paso de peatones con mercancía o enseres que utilicen para el ejercicio de su actividad.
 
-### CAPITULO IV. De los Tianguis
+### CAPITULO III. De la Venta de Alimentos
 
 ###### ARTICULO 404.
 
@@ -3563,7 +3609,7 @@ e) No instalar mesas y sillas para los comensales.
 
 El Ayuntamiento podrá reubicar a los vendedores mencionados en el artículo anterior, cuando las circunstancias así lo ameriten.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. De los Tianguis
 
 ###### ARTICULO 406.
 
@@ -3599,7 +3645,7 @@ DEL CENTRO HISTORICO, BARRIOS TRADICIONALES Y ZONAS DE CONSERVACION DEL MUNICIPI
 
 ## TITULO UNICO. DE LA EMISION DE DECLARATORIAS DE MONUMENTOS Y ZONAS DE CONSERVACION
 
-### CAPITULO II. De la Delimitación de Monumentos y Zonas de Conservación
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 408.
 
@@ -3629,7 +3675,7 @@ IV. Los monumentos y zonas de conservación que decrete el Ejecutivo del Estado;
 
 V. Los monumentos y zonas de monumentos que marca la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos.
 
-### CAPITULO III. De las Declaratorias de las Zonas de Conservación
+### CAPITULO II. De la Delimitación de Monumentos y Zonas de Conservación
 
 ###### ARTICULO 410.
 
@@ -3659,7 +3705,7 @@ XI. Sitios cuyos elementos históricos o tradicionales de imagen urbana se encue
 
 XII. Elementos del contexto natural vinculados a la historia o tradiciones de la población o que por ser parte de ella se consideran relevantes.
 
-### CAPITULO IV. De la Concurrencia, Coordinación y Competencia de las Autoridades
+### CAPITULO III. De las Declaratorias de las Zonas de Conservación
 
 ###### ARTICULO 411.
 
@@ -3733,7 +3779,7 @@ II. La Ley Federal sobre Monumentos, Zonas Históricas; y
 
 III. El Estudio de Conservación de Áreas y Edificios Patrimoniales.
 
-### CAPITULO V. De las Disposiciones para la Conservación del Patrimonio Cultural
+### CAPITULO IV. De la Concurrencia, Coordinación y Competencia de las Autoridades
 
 ###### ARTICULO 417.
 
@@ -3763,7 +3809,7 @@ VI. Promover la investigación, así como acciones y programas con instituciones
 
 VII. Proporcionar asesoría a los interesados en los casos de propuestas de las declaratorias a que se refiere este apartado, así como lo referente al patrimonio cultural edificado.
 
-### CAPITULO VI. Del Patrimonio Cultural
+### CAPITULO V. De las Disposiciones para la Conservación del Patrimonio Cultural
 
 ###### ARTICULO 420.
 
@@ -3789,7 +3835,7 @@ En los edificios de valor contextual deberán respetarse las características o 
 
 Cuando una construcción nueva se inscriba dentro del campo visual de algún monumento y en cualquier zona de conservación, deberá respetarse la tipología tradicional dominante y realizarse con el proyecto arquitectónico un estudio de composición del conjunto para determinar el impacto de la nueva construcción dentro del entorno urbano existente.
 
-### CAPITULO VII. Permisos y Licencias
+### CAPITULO VI. Del Patrimonio Cultural
 
 ###### ARTICULO 426.
 
@@ -3835,7 +3881,7 @@ e) Toda aquella finca que sobresalga del perfil promedio de alturas en la cuadra
 
 La violación a las normas contenidas en este ordenamiento se sancionará conforme a las reglas del Reglamento de Construcción del Municipio y en la proporción que se fije por la Ley de Ingresos.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VII. Permisos y Licencias
 
 ###### ARTICULO 428.
 
@@ -3885,7 +3931,7 @@ APARTADO NOVENO
 
 DE LOS ESTACIONAMIENTOS PUBLICOS Y CONCESIONADOS
 
-### CAPITULO II. Normas Técnicas
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 436.
 
@@ -3915,7 +3961,7 @@ Corresponde al Ayuntamiento, fijar las tarifas de pago y los horarios de servici
 
 Todo estacionamiento de uso público o concesionado deberá satisfacer además de los requisitos que señala este apartado, los establecidos en el Código Urbano de Querétaro y las leyes de la materia.
 
-### CAPITULO III. Dosificación de Tipos de Cajones
+### CAPITULO II. Normas Técnicas
 
 ###### ARTICULO 443.
 
@@ -4007,7 +4053,7 @@ Las circulaciones verticales, ya sean rampas o montacargas, serán independiente
 
 En estacionamientos de autoservicios, toda rampa de salida deberá terminar a una distancia mínima de 5 metros, antes del alineamiento, en esta distancia de 5 metros podrá permitir una pendiente máxima de 5% y pudiendo incluirse en la transición.
 
-### CAPITULO IV. Procedimiento y Medidas de Seguridad
+### CAPITULO III. Dosificación de Tipos de Cajones
 
 ###### ARTICULO 456.
 
@@ -4029,7 +4075,7 @@ VI. Los estacionamientos deberán contar con un equipo contra incendios.
 
 En lo relativo a fraccionamientos, conjuntos habitacionales y comerciales se atendrá a las disposiciones contenidas en el Código Urbano para el Estado de Querétaro.
 
-### CAPITULO I. Estructuración y Funciones del Registro Civil
+### CAPITULO IV. Procedimiento y Medidas de Seguridad
 
 ###### ARTICULO 458.
 
@@ -4063,7 +4109,7 @@ DEL RESGUARDO Y PRESTACION DEL SERVICIO DEL REGISTRO CIVIL
 
 ## TITULO UNICO. DE LA PRESTACION DEL SERVICIO PUBLICO DEL REGISTRO CIVIL DEL MUNICIPIO DE QUERETARO
 
-### CAPITULO II. De las Inscripciones de Nacimiento
+### CAPITULO I. Estructuración y Funciones del Registro Civil
 
 ###### ARTICULO 464.
 
@@ -4191,7 +4237,7 @@ Los oficiales del Registro civil, a petición de parte y dentro de su circunscri
 
 Las actas se levantarán en los formatos que suministra la Coordinación Estatal del Registro Civil y serán llenadas a máquina; no podrán hacerse correcciones sino mediante autorización administrativa o judicial en los términos del Código Civil. Toda anotación insertada al margen de tales disposiciones se tendrá por no puesta. No podrán utilizarse abreviaturas al levantar el acta.
 
-### CAPITULO III. De las Inscripciones de Reconocimiento y Adopción
+### CAPITULO II. De las Inscripciones de Nacimiento
 
 ###### ARTICULO 478.
 
@@ -4239,7 +4285,7 @@ El nombre es inmutable y deberán evitarse anotaciones que provoquen burla, mofa
 
 Al levantarse las actas de nacimiento, se proporcionará a los interesados la cartilla de vacunación, en la cual se anotarán el nombre del registrado, fecha de nacimiento y de inscripción de éste.
 
-### CAPITULO IV. Inscripción de Matrimonios
+### CAPITULO III. De las Inscripciones de Reconocimiento y Adopción
 
 ###### ARTICULO 482.
 
@@ -4253,7 +4299,7 @@ Levantada el acta de reconocimiento, se anexará al original de nacimiento, y si
 
 Cuando por sentencia judicial se apruebe una adopción, los interesados comparecerán con el adoptado, exhibiendo copia del acta de nacimiento para efectuar las anotaciones legales correspondientes.
 
-### CAPITULO V. De los Divorcios
+### CAPITULO IV. Inscripción de Matrimonios
 
 ###### ARTICULO 484.
 
@@ -4291,7 +4337,7 @@ El Oficial que suspende cualquier matrimonio civil sin causa justificada será r
 
 Cuando los contrayentes deseen incluir en el acta a más testigos de los requeridos en la solicitud, podrán hacerlo.
 
-### CAPITULO VI. De las Inscripciones de Defunción
+### CAPITULO V. De los Divorcios
 
 ###### ARTICULO 487.
 
@@ -4317,7 +4363,7 @@ VII. Liquidación de la sociedad conyugal, si bajo ese régimen se contrajo matr
 
 Recibida la solicitud se citará a una audiencia dentro de los 15 días siguientes con el objeto de ratificar su petición o cancelarla; en caso de ratificación, comparecerán los interesados con dos testigos y deberán identificarse todos ellos. Se levantará el acta firmando los que en ella intervinieron.
 
-### CAPITULO VII. De las Inscripciones de Ejecutorias y Actas Provenientes del Extranjero
+### CAPITULO VI. De las Inscripciones de Defunción
 
 ###### ARTICULO 488.
 
@@ -4331,7 +4377,7 @@ En los casos de decesos ocurridos fuera del municipio, que pretendan ser cremado
 
 Las muertes fetales se anotarán en el mismo libro, inscribiendo los datos de los progenitores, domicilio de éstos y fecha.
 
-### CAPITULO VIII. Reposición, Modificación y Rectificación de Actas
+### CAPITULO VII. De las Inscripciones de Ejecutorias y Actas Provenientes del Extranjero
 
 ###### ARTICULO 490.
 
@@ -4341,7 +4387,7 @@ Para expedir acta sobre presunción de muerte, incapacidad de administrar bienes
 
 Para inscribir actas del estado civil de mexicanos suscritas en el extranjero, se estará a lo dispuesto por los artículos 66 del Código Civil del Estado de Querétaro y 546 del Código Federal de Procedimientos Civiles, proporcionando certificación del acta que corresponda debidamente legalizada por el Servicio Exterior Mexicano y en su caso traducción en español, cuando constaren en idioma diverso.
 
-### CAPITULO IX. Disposiciones Especiales
+### CAPITULO VIII. Reposición, Modificación y Rectificación de Actas
 
 ###### ARTICULO 492.
 
@@ -4351,7 +4397,7 @@ Cuando no exista acta en una de las Oficialías del Municipio, ni duplicado de l
 
 Para rectificar o modificar actas del Registro Civil, se estará a las autorizaciones judiciales o administrativas que remitan los tribunales o la coordinación estatal del Registro Civil respectivamente, sin poder asentarse, más que lo resuelto judicialmente o lo consignado en los oficios emitidos por la autoridad administrativa. Toda anotación hecha de más se tendrá por no puesta, independientemente de la responsabilidad de quien las hiciere. Igualmente, las anotaciones o autorizadas se tendrán por no puestas.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO IX. Disposiciones Especiales
 
 ###### ARTICULO 494.
 
@@ -4419,7 +4465,7 @@ APARTADO PRIMERO
 
 DE LOS SERVICIOS MUNICIPALES
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### ARTICULO 505.
 
@@ -4445,7 +4491,7 @@ APARTADO SEGUNDO
 
 DE LOS PARQUES Y JARDINES
 
-### CAPITULO II. De la Forestación y Reforestación en Areas de Competencia Municipal
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 510.
 
@@ -4459,7 +4505,7 @@ DE LOS PARQUES Y JARDINES
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO III. Del Derribo, Poda y Conservación de los Elementos Arbóreos
+### CAPITULO II. De la Forestación y Reforestación en Areas de Competencia Municipal
 
 ###### ARTICULO 513.
 
@@ -4485,7 +4531,7 @@ DE LOS PARQUES Y JARDINES
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO IV. Del Uso, Construcción y Ampliación de Areas Verdes
+### CAPITULO III. Del Derribo, Poda y Conservación de los Elementos Arbóreos
 
 ###### ARTICULO 519.
 
@@ -4507,7 +4553,7 @@ DE LOS PARQUES Y JARDINES
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Del Uso, Construcción y Ampliación de Areas Verdes
 
 ###### ARTICULO 524.
 
@@ -4539,7 +4585,7 @@ DEL SERVICIO DE LIMPIA
 
 ## TITULO UNICO. DEL SERVICIO PUBLICO DE LIMPIA MUNICIPAL
 
-### CAPITULO II. Del Servicio de Limpia
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 530.
 
@@ -4549,7 +4595,7 @@ DEL SERVICIO DE LIMPIA
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO III. De la Prestación del Servicio de Limpia
+### CAPITULO II. Del Servicio de Limpia
 
 ###### ARTICULO 532.
 
@@ -4559,19 +4605,19 @@ DEL SERVICIO DE LIMPIA
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO IV. De las Obligaciones de los Particulares
+### CAPITULO III. De la Prestación del Servicio de Limpia
 
 ###### ARTICULO 534.
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO V. De la Recolección y Transporte
+### CAPITULO IV. De las Obligaciones de los Particulares
 
 ###### ARTICULO 535.
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO VI. De las Prohibiciones
+### CAPITULO V. De la Recolección y Transporte
 
 ###### ARTICULO 536.
 
@@ -4597,7 +4643,7 @@ DEL SERVICIO DE LIMPIA
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO I. De la Naturaleza del Rastro Municipal
+### CAPITULO VI. De las Prohibiciones
 
 ###### ARTICULO 542.
 
@@ -4705,7 +4751,7 @@ APARTADO SEXTO
 
 DEL RASTRO MUNICIPAL
 
-### CAPITULO II. De la Prestación del Servicio
+### CAPITULO I. De la Naturaleza del Rastro Municipal
 
 ###### ARTICULO 564.
 
@@ -4723,7 +4769,7 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO III. De los Usuarios
+### CAPITULO II. De la Prestación del Servicio
 
 ###### ARTICULO 568.
 
@@ -4737,7 +4783,7 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO IV. Del Administrador del Rastro
+### CAPITULO III. De los Usuarios
 
 ###### ARTICULO 571.
 
@@ -4755,13 +4801,13 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO V. Del Sacrificio de los Animales
+### CAPITULO IV. Del Administrador del Rastro
 
 ###### ARTICULO 575.
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO VI. De la Introducción de los Productos del Mar y Otros Tipos de Carnes Frescas Provenientes del Interior del Estado u Otras Entidades
+### CAPITULO V. Del Sacrificio de los Animales
 
 ###### ARTICULO 576.
 
@@ -4791,7 +4837,7 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO VII. De la Inspección Sanitaria
+### CAPITULO VI. De la Introducción de los Productos del Mar y Otros Tipos de Carnes Frescas Provenientes del Interior del Estado u Otras Entidades
 
 ###### ARTICULO 583.
 
@@ -4801,7 +4847,7 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO VIII. Del Mercado de Canales y Vísceras
+### CAPITULO VII. De la Inspección Sanitaria
 
 ###### ARTICULO 585.
 
@@ -4843,7 +4889,7 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO IX. Del Transporte Sanitario de Carnes
+### CAPITULO VIII. Del Mercado de Canales y Vísceras
 
 ###### ARTICULO 595.
 
@@ -4861,7 +4907,7 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO X. Del Servicio de Vigilancia
+### CAPITULO IX. Del Transporte Sanitario de Carnes
 
 ###### ARTICULO 599.
 
@@ -4871,7 +4917,7 @@ DEL RASTRO MUNICIPAL
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE SERVICIOS PUBLICOS MUNICIPALES DE QUERETARO, P.O. 23 DE ENERO DE 2009)
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO X. Del Servicio de Vigilancia
 
 ###### ARTICULO 601.
 
@@ -4905,7 +4951,7 @@ DEL ARCHIVO HISTORICO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
-### CAPITULO II. De las Facultades y Obligaciones del Responsable del Archivo
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 607.
 
@@ -4941,7 +4987,7 @@ DEL ARCHIVO HISTORICO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
-### CAPITULO III. De los Jefes de Area
+### CAPITULO II. De las Facultades y Obligaciones del Responsable del Archivo
 
 ###### ARTICULO 615.
 
@@ -4957,7 +5003,7 @@ DEL ARCHIVO HISTORICO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
-### CAPITULO IV. Reglamentación para la Consulta y Préstamos de los Documentos
+### CAPITULO III. De los Jefes de Area
 
 ###### ARTICULO 618.
 
@@ -4969,7 +5015,7 @@ DEL ARCHIVO HISTORICO
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
-### CAPITULO V. De la Comisión Técnica Consultiva
+### CAPITULO IV. Reglamentación para la Consulta y Préstamos de los Documentos
 
 ###### ARTICULO 620.
 
@@ -4977,7 +5023,7 @@ DEL ARCHIVO HISTORICO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ARCHIVO MUNICIPAL, P.O. 16 DE JUNIO DE 2000)</small>
 
-### CAPITULO I. De la Naturaleza de los Panteones
+### CAPITULO V. De la Comisión Técnica Consultiva
 
 ###### ARTICULO 621.
 
@@ -4995,7 +5041,7 @@ APARTADO OCTAVO
 
 DE LOS PANTEONES EN EL MUNICIPIO
 
-### CAPITULO II. De la Construcción y Conservación
+### CAPITULO I. De la Naturaleza de los Panteones
 
 ###### ARTICULO 624.
 
@@ -5047,7 +5093,7 @@ Los oratorios no destinados al culto público, los monumentos y lápidas que est
 
 Los panteones municipales estarán abiertos diariamente de las 7:00 a las 19:00 horas.
 
-### CAPITULO III. De las Inhumaciones
+### CAPITULO II. De la Construcción y Conservación
 
 ###### ARTICULO 634.
 
@@ -5109,7 +5155,7 @@ El osario servirá de depósito temporal hasta en tanto los retos áridos que es
 
 Los propietarios de oratorios, monumentos y lápidas, están obligados a conservar en buen estado sus propiedades. Si alguna de éstas amenaza ruina o deterioro, deberá ser reparada por los interesados. Si no es así, en un plazo de 60 días a partir de la verificación, el trabajo lo hará el Ayuntamiento con cargo al o a los propietarios o interesados o deudos de los fallecidos.
 
-### CAPITULO IV. De la Incineración
+### CAPITULO III. De las Inhumaciones
 
 ###### ARTICULO 645.
 
@@ -5177,7 +5223,7 @@ III. Se adquirirá la obligación solidaria por todos los familiares relacionado
 
 El contrato a que se refiere el artículo anterior se suscribirá por triplicado; un ejemplar se depositará en las oficinas del Registro Civil y uno más en el panteón correspondiente.
 
-### CAPITULO V. De las Exhumaciones
+### CAPITULO IV. De la Incineración
 
 ###### ARTICULO 660.
 
@@ -5191,7 +5237,7 @@ La incineración de cadáveres se realizará por disposición de la autoridad co
 
 Podrán ser incinerados los restos humanos que se encuentren depositados en el osario por más de 18 meses, sin que hubiesen sido reclamados.
 
-### CAPITULO VI. Del Traslado de Cadáveres y Restos Humanos Aridos
+### CAPITULO V. De las Exhumaciones
 
 ###### ARTICULO 663.
 
@@ -5229,7 +5275,7 @@ III. Descubierta la fosa o cripta y levantadas las lozas, se perforarán dos ori
 
 Si al efectuarse una exhumación por tiempo cumplido, se encuentra todavía el cuerpo en estado de descomposición, no se llevará a cabo aquella, volviéndose a cubrir la fosa o cripta, dando aviso el administrador del panteón, al Oficial del Registro Civil, para el refrendo correspondiente, cubriendo los familiares para el efecto los derechos en la Secretaría de Finanzas.
 
-### CAPITULO VII. Panteón de los Queretanos Ilustres
+### CAPITULO VI. Del Traslado de Cadáveres y Restos Humanos Aridos
 
 ###### ARTICULO 670.
 
@@ -5241,7 +5287,7 @@ II. Que el traslado se realice en vehículos autorizados para el servicio funera
 
 III. Cuando no se cuente con vehículo mortuorio, por necesidad del servicio o causa de fuerza mayor, se podrá autorizar el traslado de cadáveres en vehículos particulares exigiendo el mínimo de normas de seguridad e higiene.
 
-### CAPITULO VIII. De las Agencias de Inhumaciones
+### CAPITULO VII. Panteón de los Queretanos Ilustres
 
 ###### ARTICULO 671.
 
@@ -5251,7 +5297,7 @@ Para los efectos de este capítulo la inhumación de los restos mortales de hér
 
 Los cadáveres o restos que reposen en panteones ubicados fuera del municipio o del Estado, y que pertenezcan a personas que hayan sido declarados Ilustres, podrán ser trasladados al Panteón de los Queretanos Ilustres.
 
-### CAPITULO IX. Del Servicio Público Concesionado de Panteones
+### CAPITULO VIII. De las Agencias de Inhumaciones
 
 ###### ARTICULO 673.
 
@@ -5273,7 +5319,7 @@ Ninguna agencia podrá proporcionar servicios velatorios si no cuenta con instal
 
 Tratándose de indigentes o de personas de escasos recursos económicos las agencias de inhumaciones podrán prestar el servicio con un costo proporcional a los ingresos de los deudos o a los apoyos de las instituciones de beneficencia.
 
-### CAPITULO X. De las Sepulturas
+### CAPITULO IX. Del Servicio Público Concesionado de Panteones
 
 ###### ARTICULO 678.
 
@@ -5317,7 +5363,7 @@ VI. Otras causas igualmente graves que pongan en riesgo la eficiencia del servic
 
 El Ayuntamiento, a su juicio, fijará los plazos y condiciones para terminar con la concesión otorgada, tomando en consideración el crecimiento poblacional, la eficacia de los servicios, la capacidad física de los inmuebles y aquellas circunstancias que le permitan establecer condiciones reales de apoyo a la población al respecto.
 
-### CAPITULO XI. De la Administración
+### CAPITULO X. De las Sepulturas
 
 ###### ARTICULO 685.
 
@@ -5343,7 +5389,7 @@ Cuando por nuevas inhumaciones en una perpetuidad sea necesario desarmar algún 
 
 Los monumentos desarmados o las partes de éstos que permanezcan abandonados por más de 30 días, serán recogidos por la administración del panteón y conservados en el almacén hasta por 30 días más. Después de esa fecha pasarán a ser propiedad del Ayuntamiento quien podrá ordenar su venta en las condiciones y procedimientos señalados en la Ley de Hacienda Municipal. Para recoger materiales de particulares, se requerirá autorización de la administración del panteón.
 
-### CAPITULO XII. Clausura de Panteones
+### CAPITULO XI. De la Administración
 
 ###### ARTICULO 691.
 
@@ -5411,7 +5457,7 @@ III. No abandonar su trabajo ni poner persona que los substituya, sin verdadera 
 
 IV. Las demás que señale este Código y la Ley Federal del Trabajo en su caso.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XII. Clausura de Panteones
 
 ###### ARTICULO 695.
 
@@ -5435,7 +5481,7 @@ DE LA ATENCION AL TURISTA
 
 ## TITULO PRIMERO. DE LA PLANEACION, PROMOCION Y PROGRAMACION DE LA ACTIVIDAD TURISTICA
 
-### CAPITULO II. De la Intervención del Ayuntamiento en la Planeación, Programación y Promoción del Turismo
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 696.
 
@@ -5461,7 +5507,7 @@ a) Turista.- A la persona que viajando fuera de su domicilio, se traslada person
 
 b) Prestador de Servicios Turísticos.- A la persona física o moral que proporcione o contrate la prestación de los servicios turísticos considerados en la Ley Federal de Turismo, dentro del municipio de Querétaro; de igual forma se equiparan a este concepto todos aquellos que inviertan estableciendo o construyendo esos servicios y a las que se dediquen a la comercialización de satisfactores para este sector.
 
-### CAPITULO I. De la Coordinación de los Prestadores de Servicios Turísticos en el Municipio
+### CAPITULO II. De la Intervención del Ayuntamiento en la Planeación, Programación y Promoción del Turismo
 
 ###### ARTICULO 699.
 
@@ -5493,7 +5539,7 @@ La Comisión Ejecutiva Turística del Municipio de Querétaro, con la participac
 
 ## TITULO SEGUNDO. DE LOS ELEMENTOS FUNDAMENTALES DE LA ACTIVIDAD TURISTICA
 
-### CAPITULO II. De la Capacitación Permanente de los Prestadores de Servicios Turísticos y de los Servidores Públicos
+### CAPITULO I. De la Coordinación de los Prestadores de Servicios Turísticos en el Municipio
 
 ###### ARTICULO 706.
 
@@ -5507,7 +5553,7 @@ La Comisión Ejecutiva Turística del Municipio de Querétaro, deberá estar ate
 
 Los prestadores de servicios turísticos en el Municipio, se sujetarán a lo establecido por este apartado y demás disposiciones que expida el Ayuntamiento, así como lo que se establezca en los convenios de coordinación de federación-estado-Municipio.
 
-### CAPITULO III. De las Campañas de Concientización de la Ciudadanía
+### CAPITULO II. De la Capacitación Permanente de los Prestadores de Servicios Turísticos y de los Servidores Públicos
 
 ###### ARTICULO 709.
 
@@ -5517,7 +5563,7 @@ El Ayuntamiento podrá suscribir acuerdos y convenios con entidades del gobierno
 
 El Ayuntamiento podrá solicitar al gobierno federal y estatal su asistencia y colaboración para enriquecer los conocimientos y aptitudes de los servidores públicos del área de turismo, y para impartir seminarios de intercambios y puntos de vista con la Comisión Ejecutiva Turística del Municipio.
 
-### CAPITULO I. De la Información y Asistencia al Turista
+### CAPITULO III. De las Campañas de Concientización de la Ciudadanía
 
 ###### ARTICULO 711.
 
@@ -5537,7 +5583,7 @@ La Comisión Ejecutiva Turística del Municipio recibirá puntos de vista, suger
 
 ## TITULO TERCERO. DE LA ATENCION Y ASISTENCIA AL TURISTA
 
-### CAPITULO I. Zonas de Desarrollo Turístico Prioritario
+### CAPITULO I. De la Información y Asistencia al Turista
 
 ###### ARTICULO 715.
 
@@ -5553,7 +5599,7 @@ El Ayuntamiento a través de un módulo de atención bilingüe al turista, propo
 
 ## TITULO CUARTO. DE LA PRESERVACION DE LA HISTORIA Y DE LOS RECURSOS NATURALES Y CULTURALES DEL MUNICIPIO
 
-### CAPITULO II. De la Preservación de las Riquezas Naturales
+### CAPITULO I. Zonas de Desarrollo Turístico Prioritario
 
 ###### ARTICULO 718.
 
@@ -5567,7 +5613,7 @@ El Ayuntamiento realizará estudios sobre la creación de posibles zonas de desa
 
 El Municipio promoverá la conservación tendiente a la dotación de infraestructura que integralmente requieran las áreas de desarrollo turístico, así como la vinculación de los centros de producción de insumos e instrumentación con las dependencias y entidades de la Administración Pública Federal y Estatal que correspondan.
 
-### CAPITULO III. De la Preservación de los Bienes Culturales
+### CAPITULO II. De la Preservación de las Riquezas Naturales
 
 ###### ARTICULO 721.
 
@@ -5577,7 +5623,7 @@ Al Ayuntamiento le corresponde en todo momento estar atento al equilibrio que si
 
 El Ayuntamiento deberá asegurar la vinculación de la normatividad en materia ecológica con la normatividad en materia turística, procurando que estas disposiciones se observen tanto en la planeación y programación, pero sobre todo en la práctica, haciendo posibles el desarrollo y continuidad turística dentro de un marco equilibrado.
 
-### CAPITULO I. Del Señalamiento Vial
+### CAPITULO III. De la Preservación de los Bienes Culturales
 
 ###### ARTICULO 723.
 
@@ -5611,7 +5657,7 @@ El Cronista Municipal se mantendrá en continua comunicación con la Comisión E
 
 ## TITULO QUINTO. DEL SEÑALAMIENTO VIAL Y ANUNCIOS TURISTICOS
 
-### CAPITULO II. Anuncios Turísticos
+### CAPITULO I. Del Señalamiento Vial
 
 ###### ARTICULO 725.
 
@@ -5621,7 +5667,7 @@ La Comisión Ejecutiva Turística del Municipio, promoverá el mejoramiento del 
 
 El Ayuntamiento propondrá las medidas que resulten necesarias para que los cuerpos de Seguridad Pública y Tránsito Municipal, sean preparados con cursos sobre atención a la ciudadanía y al turista.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Anuncios Turísticos
 
 ###### ARTICULO 727.
 
@@ -5635,7 +5681,7 @@ APARTADO DECIMO
 
 DISPOSICIONES PARA LA FIJACION DE ANUNCIOS
 
-### CAPITULO II. Clasificación de los Anuncios
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 729.
 
@@ -5753,7 +5799,7 @@ I. Los Directores Responsables de la Obra, por los daños y perjuicios que se ca
 
 II. Quienes hayan otorgado el uso de propiedad para colocar o instalar un anuncio.
 
-### CAPITULO III. De los Anuncios Categoría "A"
+### CAPITULO II. Clasificación de los Anuncios
 
 ###### ARTICULO 740.
 
@@ -5793,7 +5839,7 @@ Corresponden a la categoría “C”, los anuncios asegurados por medio de poste
 
 Se entiende por parámetro, la parte de cualquiera de los lados de la edificación que limita el espacio edificado.
 
-### CAPITULO IV. De los Anuncios Categoría "B"
+### CAPITULO III. De los Anuncios Categoría "A"
 
 ###### ARTICULO 743.
 
@@ -5811,7 +5857,7 @@ Los anuncios conducidos por personas o semovientes, se permitirán cuando no obs
 
 Los anuncios proyectados por medio de aparatos cinematográficos, electrónicos o similares, en muros pantallas, no deberán ocasionar aglomeraciones en la vía pública que obstruyan el tránsito de peatones o vehículos.
 
-### CAPITULO V. De los Anuncios Categoría "C"
+### CAPITULO IV. De los Anuncios Categoría "B"
 
 ###### ARTICULO 747.
 
@@ -5835,7 +5881,7 @@ II. El anuncio deberá estar acondicionado o asegurado para evitar accidentes.
 
 Los anuncios pintados o fijados en los vehículos de servicio público o particular, deberán cumplir además de los requisitos que para el contenido prevé el capítulo primero de este apartado, que los vehículos de servicio particular sólo anunciarán el rótulo de la persona o empresa a que pertenezcan y los productos de su comercio o industria, dirección y número telefónico.
 
-### CAPITULO VI. Director Responsable de la Obra
+### CAPITULO V. De los Anuncios Categoría "C"
 
 ###### ARTICULO 750.
 
@@ -5859,7 +5905,7 @@ VI. Sujetarse, en cuanto a la estructura e instalaciones, a los preceptos del Re
 
 Los anuncios a (sic) que se encuentren dentro de la categoría “C”, se autorizarán en las zonas aéreas o predios que legalmente hayan sido determinados para usos industriales, comerciales o de servicios.
 
-### CAPITULO VII. De las Licencias
+### CAPITULO VI. Director Responsable de la Obra
 
 ###### ARTICULO 752.
 
@@ -5907,7 +5953,7 @@ Los anuncios a que se refiere el artículo 741, fracción V de este Código, con
 
 Los anuncios relativos a la fijación de propaganda impresa relativa a promoción de actividades turísticas, culturales, deportivas y otras de interés general, se permitirán, por excepción en la vía pública, siempre que se coloquen en tableros, bastidores, carteleras u otros elementos diseñados y colocados expresamente para ese objeto, previa aprobación por parte de la Dirección de Urbanismo y Planificación Municipal de los diseños, dimensiones y materiales que se vayan a utilizar.
 
-### CAPITULO VIII. De las Otras Obligaciones de los Propietarios de Anuncios
+### CAPITULO VII. De las Licencias
 
 ###### ARTICULO 759.
 
@@ -5927,7 +5973,7 @@ Los anuncios de productos alimenticios, bebidas no alcohólicas, bebidas alcohó
 
 Las personas que hubieren violado este apartado, sin haber corregido las irregularidades cometidas, no podrán obtener nueva licencia.
 
-### CAPITULO IX. De la Nulidad y Revocación de Licencias
+### CAPITULO VIII. De las Otras Obligaciones de los Propietarios de Anuncios
 
 ###### ARTICULO 763.
 
@@ -5947,7 +5993,7 @@ Expirado el plazo de la licencia, el anuncio deberá ser retirado por su propiet
 
 En caso de cambio de la leyenda y figuras de un anuncio de la categoría “C”, durante la vigencia de la licencia respectiva, previamente se obtendrá nueva autorización.
 
-### CAPITULO X. De las Prohibiciones
+### CAPITULO IX. De la Nulidad y Revocación de Licencias
 
 ###### ARTICULO 766.
 
@@ -5977,7 +6023,7 @@ La revocación, será dictada por la autoridad que otorgó la licencia, previa a
 
 Contra la resolución dictada para declarar la revocación de una licencia, procederá el recurso administrativo mismo que habrá de interponerse por escrito ante la autoridad municipal que haya emitido dicha resolución, en los términos que para tal efecto dispone la Ley Orgánica Municipal y el libro V de este código.
 
-### CAPITULO I. Generalidades
+### CAPITULO X. De las Prohibiciones
 
 ###### ARTICULO 770.
 
@@ -6005,7 +6051,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO II. De la Estructura
+### CAPITULO I. Generalidades
 
 ###### ARTICULO 771.
 
@@ -6025,7 +6071,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO III. De las Funciones, Integración, Atribuciones y Sesiones del Consejo Consultivo
+### CAPITULO II. De la Estructura
 
 ###### ARTICULO 775.
 
@@ -6033,7 +6079,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO IV. La Unidad de Control y Vigilancia
+### CAPITULO III. De las Funciones, Integración, Atribuciones y Sesiones del Consejo Consultivo
 
 ###### ARTICULO 776.
 
@@ -6077,7 +6123,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO V. De las Funciones, Integración, Atribuciones y Sesiones de los Consejos de Participación Social
+### CAPITULO IV. La Unidad de Control y Vigilancia
 
 ###### ARTICULO 786.
 
@@ -6093,7 +6139,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO VI. Obligaciones de los Consejeros
+### CAPITULO V. De las Funciones, Integración, Atribuciones y Sesiones de los Consejos de Participación Social
 
 ###### ARTICULO 789.
 
@@ -6145,7 +6191,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO VII. De los Enlaces Municipales
+### CAPITULO VI. Obligaciones de los Consejeros
 
 ###### ARTICULO 801.
 
@@ -6157,7 +6203,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO VIII. De las Asociaciones Vecinales
+### CAPITULO VII. De los Enlaces Municipales
 
 ###### ARTICULO 803.
 
@@ -6173,7 +6219,7 @@ DEL SISTEMA MUNICIPAL DE PARTICIPACION SOCIAL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SISTEMA DE CONSEJOS MUNICIPALES DE PARTICIPACION SOCIAL, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO VIII. De las Asociaciones Vecinales
 
 ###### ARTICULO 806.
 
@@ -6187,7 +6233,7 @@ APARTADO SEGUNDO
 
 DE LA PARTICIPACION SOCIAL PARA OBRAS DE BENEFICIO DIRECTO
 
-### CAPITULO II. De las Bases, Tasas y Montos de las Contribuciones
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 808.
 
@@ -6211,7 +6257,7 @@ III. Que se hubiere dado vista a la asociación de colonos o junta de vecinos re
 
 IV. Que la asociación de colonos o junta de vecinos respectiva, manifieste por escrito su conformidad para la realización de la obra pública municipal de beneficio directo, y con las cuotas que se hubieren asignado en el dictamen de referencia.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. De las Bases, Tasas y Montos de las Contribuciones
 
 ###### ARTICULO 811.
 
@@ -6417,7 +6463,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO II. Del Consejo Municipal de Protección Civil
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 844.
 
@@ -6437,7 +6483,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO III. Del Presidente del Consejo
+### CAPITULO II. Del Consejo Municipal de Protección Civil
 
 ###### ARTICULO 848.
 
@@ -6465,7 +6511,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IV. Del Secretario Técnico del Consejo
+### CAPITULO III. Del Presidente del Consejo
 
 ###### ARTICULO 854.
 
@@ -6473,7 +6519,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO V. Del Secretario de Actas
+### CAPITULO IV. Del Secretario Técnico del Consejo
 
 ###### ARTICULO 855.
 
@@ -6481,7 +6527,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VI. Del Coordinador del Consejo
+### CAPITULO V. Del Secretario de Actas
 
 ###### ARTICULO 856.
 
@@ -6489,7 +6535,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VII. De los Miembros del Consejo
+### CAPITULO VI. Del Coordinador del Consejo
 
 ###### ARTICULO 857.
 
@@ -6497,7 +6543,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO VIII. De las Sesiones
+### CAPITULO VII. De los Miembros del Consejo
 
 ###### ARTICULO 858.
 
@@ -6505,7 +6551,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO IX. De la Unidad de Protección Civil
+### CAPITULO VIII. De las Sesiones
 
 ###### ARTICULO 859.
 
@@ -6537,17 +6583,7 @@ DEL SISTEMA MUNICIPAL DE PROTECCION CIVIL
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
-### CAPITULO X. De la Inspección, Control y Vigilancia
-
-ARTICULO 870 bis 1.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
-
-ARTICULO 870 bis 2.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
-
-ARTICULO 870 bis 3.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
-
-ARTICULO 870 bis 4.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+### CAPITULO IX. De la Unidad de Protección Civil
 
 ###### ARTICULO 866.
 
@@ -6571,6 +6607,18 @@ ARTICULO 870 bis 4.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO D
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
+### CAPITULO X. De la Inspección, Control y Vigilancia
+
+ARTICULO 870 bis 1.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
+
+ARTICULO 870 bis 2.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
+
+ARTICULO 870 bis 3.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
+
+ARTICULO 870 bis 4.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ### CAPITULO XI. De las Medidas de Seguridad
 
 ARTICULO 870 bis 5.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE PROTECCION CIVIL PARA EL MUNICIPIO DE QUERETARO, P.O. 1 DE SEPTIEMBRE DE 2000)
@@ -6587,8 +6635,6 @@ DEL SISTEMA MUNICIPAL DEL DEPORTE Y LA RECREACION
 
 ### CAPITULO I. Disposiciones Generales
 
-### CAPITULO II. Del Sistema Municipal del Deporte y la Recreación
-
 ###### ARTICULO 871.
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
@@ -6601,7 +6647,7 @@ DEL SISTEMA MUNICIPAL DEL DEPORTE Y LA RECREACION
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
-### CAPITULO III. Del Registro Municipal del Deporte
+### CAPITULO II. Del Sistema Municipal del Deporte y la Recreación
 
 ###### ARTICULO 874.
 
@@ -6627,7 +6673,7 @@ DEL SISTEMA MUNICIPAL DEL DEPORTE Y LA RECREACION
 
 (DEROGADO POR ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE GESTION DELEGACIONAL DEL MUNICIPIO DE QUERETARO, P.O. 5 DE SEPTIEMBRE DE 2008)
 
-### CAPITULO IV. De la Participación de los Sectores Social y Privado en el Sistema Municipal del Deporte y la Recreación
+### CAPITULO III. Del Registro Municipal del Deporte
 
 ###### ARTICULO 880.
 
@@ -6683,7 +6729,7 @@ Para participar como entrenador, árbitro o juez en las competencias oficiales, 
 
 Las instalaciones deportivas, públicas y privadas, podrán ser registradas con el objeto de ser utilizadas en las actividades de este sistema municipal.
 
-### CAPITULO V. Del Desarrollo y la Práctica del Deporte en General
+### CAPITULO IV. De la Participación de los Sectores Social y Privado en el Sistema Municipal del Deporte y la Recreación
 
 ###### ARTICULO 888.
 
@@ -6705,7 +6751,7 @@ Para la organización y coordinación de dichas disciplinas se reconocerán las 
 
 Los organismos deportivos deberán sustentar y satisfacer los requisitos que para su admisión establezca el Sistema Municipal del Deporte y la Recreación.
 
-### CAPITULO VI. Del Consejo Consultivo Municipal de Apoyo al Deporte
+### CAPITULO V. Del Desarrollo y la Práctica del Deporte en General
 
 ###### ARTICULO 893.
 
@@ -6743,7 +6789,7 @@ Los organismos deportivos fomentarán la participación en los cursos que para t
 
 La Dirección del Sistema Municipal del Deporte y la Recreación, deberá otorgar los apoyos que en su caso le sean destinados, para el desarrollo y fomento del deporte en actividades científicas y técnicas afines.
 
-### CAPITULO VII. De los Estímulos al Deporte
+### CAPITULO VI. Del Consejo Consultivo Municipal de Apoyo al Deporte
 
 ###### ARTICULO 902.
 
@@ -6771,7 +6817,7 @@ El Consejo buscará apoyos en especie o en lo económico que sean aplicados a la
 
 El Consejo será un Organismo de apoyo y de consulta, cuyos integrantes podrán intervenir en la elaboración del Programa Municipal del Deporte, realizando sus propuestas que a beneficio consideren pertinente.
 
-### CAPITULO I. De las Disposiciones Generales de Trabajo
+### CAPITULO VII. De los Estímulos al Deporte
 
 ###### ARTICULO 906.
 
@@ -6799,7 +6845,7 @@ VI. Reconocimiento por el desempeño en investigaciones técnicas y de medicina 
 
 VII. Ingreso en el salón de la fama.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 APARTADO OCTAVO
 
@@ -6879,7 +6925,7 @@ Se faculta al Presidente Municipal para condonar, reducir o incrementar las mult
 
 Cuando una persona resulte responsable de dos o más violaciones al presente Código, se le aplicarán las sanciones que correspondan a cada una en forma acumulativa.
 
-### CAPITULO II. De las Disposiciones de Policía y Gobierno Municipal
+### CAPITULO I. De las Disposiciones Generales de Trabajo
 
 ###### ARTICULO 918.
 
@@ -6941,7 +6987,7 @@ Se impondrán hasta ocho días de suspensión al trabajador que haya incurrido e
 
 Será separado de inmediato de su trabajo, quedando rescindido su contrato individual de trabajo sin responsabilidad alguna para el Ayuntamiento el trabajador que incurra en cualquiera de las faltas señaladas en el artículo 47 y fracciones de la Ley Federal del Trabajo y el artículo 57 y fracciones de la Ley de los Trabajadores al Servicio del Estado y los Municipios.
 
-### CAPITULO III. En Materia de Desarrollo Urbano
+### CAPITULO II. De las Disposiciones de Policía y Gobierno Municipal
 
 ###### ARTICULO 925.
 
@@ -6989,7 +7035,7 @@ Se exceptúa la aplicación de las sanciones en la fracción I del presente art�
 
 Se sancionarán con multa equivalente a sesenta días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 157 fracción XXXI.
 
-### CAPITULO IV. Del Equilibrio Ecológico y la Protección al Ambiente
+### CAPITULO III. En Materia de Desarrollo Urbano
 
 ###### ARTICULO 932.
 
@@ -7019,7 +7065,7 @@ Se sancionará con multa equivalente a veinticinco días de salario mínimo gene
 
 Se sancionará con multa equivalente a sesenta días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 190, 195; y 198.
 
-### CAPITULO V. De las Actividades Comerciales
+### CAPITULO IV. Del Equilibrio Ecológico y la Protección al Ambiente
 
 ###### ARTICULO 939.
 
@@ -7037,7 +7083,7 @@ II. Las condiciones económicas del infractor; y
 
 III. La reincidencia, si la hubiere.
 
-### CAPITULO VI. De los Espectáculos en el Municipio
+### CAPITULO V. De las Actividades Comerciales
 
 ###### ARTICULO 941.
 
@@ -7059,7 +7105,7 @@ Se sancionarán con multa equivalente a veinticinco días de salario mínimo gen
 
 Se sancionarán con multa equivalente a sesenta días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 254; 255; y 256.
 
-### CAPITULO VII. Del Ejercicio del Comercio Ambulante y Puestos Fijos y Semifijos en la Vía Pública
+### CAPITULO VI. De los Espectáculos en el Municipio
 
 ###### ARTICULO 946.
 
@@ -7067,7 +7113,7 @@ Las sanciones a que se refiere este capítulo, se aplicarán a criterio de la au
 
 Para la aplicación del presente artículo se observará lo dispuesto en los artículos 915 y 916 de este código.
 
-### CAPITULO VIII. Del Centro Histórico, Barrios Tradicionales y Zonas de Conservación del Municipio
+### CAPITULO VII. Del Ejercicio del Comercio Ambulante y Puestos Fijos y Semifijos en la Vía Pública
 
 ###### ARTICULO 947.
 
@@ -7087,7 +7133,7 @@ Las sanciones a que se refiere este capítulo, serán aplicadas por el President
 
 Contra las sanciones a que se refiere este capítulo, aplicadas por la autoridad municipal competente, procede el recurso administrativo que contempla el apartado tercero de este libro.
 
-### CAPITULO IX. De los Estacionamientos Públicos
+### CAPITULO VIII. Del Centro Histórico, Barrios Tradicionales y Zonas de Conservación del Municipio
 
 ###### ARTICULO 951.
 
@@ -7127,7 +7173,7 @@ XI. Quienes contravengan las normas contenidas en el apartado octavo del libro s
 
 Las sanciones que se derivaran por las disposiciones a que se refiere este capítulo, se impondrán a criterio de la autoridad competente, sin perjuicio de las que impongan las autoridades competentes estatales y federales.
 
-### CAPITULO X. De la Salud Pública
+### CAPITULO IX. De los Estacionamientos Públicos
 
 ###### ARTICULO 954.
 
@@ -7139,7 +7185,7 @@ II. Clausura temporal, total o parcial, de las instalaciones, en caso de reincid
 
 III. Clausura definitiva o cancelación de la concesión (sic) el servicio en los casos establecidos que para tal efecto prevé el capítulo segundo del título sexto de la Ley Orgánica Municipal.
 
-### CAPITULO XI. De los Parques y Jardines
+### CAPITULO X. De la Salud Pública
 
 ###### ARTICULO 955.
 
@@ -7165,7 +7211,7 @@ Se sancionarán con multa equivalente a trece días de salario mínimo general v
 
 Se sancionarán con multa equivalente a veinticinco días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 502 fracción III.
 
-### CAPITULO XII. Del Servicio de Limpia
+### CAPITULO XI. De los Parques y Jardines
 
 ###### ARTICULO 961.
 
@@ -7223,9 +7269,7 @@ II. Al que pinte, raye, pegue publicidad comercial o de cualquier otra índole, 
 
 La Secretaría de Servicios Públicos Municipales, a través del Departamento de Parques y Jardines será la dependencia facultada para cuantificar las multas y sanciones a los que se refiere este capítulo. En los casos de la fracción I del artículo anterior y para efectos de reparación del daño causado a obras de arte de arquitectura colonial o contemporánea, la autoridad municipal deberá solicitar la intervención del I.N.A.H. para su cuantificación.
 
-### CAPITULO XIII. Del Alumbrado Público
-
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
+### CAPITULO XII. Del Servicio de Limpia
 
 ###### ARTICULO 966.
 
@@ -7247,7 +7291,9 @@ Se sancionarán con multa equivalente a ocho días de salario mínimo general vi
 
 Se sancionarán con multa equivalente a veinticinco días de salario mínimo general vigente en el Municipio, las infracciones a las disposiciones: 542 fracción IX.
 
-### CAPITULO XIV. De los Mercados y Centros de Abasto
+### CAPITULO XIII. Del Alumbrado Público
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1997)</small>
 
 ###### ARTICULO 971.
 
@@ -7309,7 +7355,7 @@ La sanción a que se refiere el artículo anterior se aplicará independientemen
 
 ARTICULO 973 bis.- Contra la imposición de las sanciones descritas en el artículo anterior, son procedentes los medios de impugnación previstos en el título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
-### CAPITULO XV. Del Rastro Municipal
+### CAPITULO XIV. De los Mercados y Centros de Abasto
 
 ###### ARTICULO 974.
 
@@ -7339,7 +7385,7 @@ Se sancionarán con multa equivalente a treinta días de salario mínimo general
 
 Se sancionará con la cancelación de la licencia en los casos de reincidencia en las disposiciones: 563 fracciones II, V, VII y VIII.
 
-### CAPITULO XVI. De las Disposiciones para la Fijación de Anuncios
+### CAPITULO XV. Del Rastro Municipal
 
 ###### ARTICULO 981.
 
@@ -7395,7 +7441,7 @@ II. La edad, educación, ilustración, costumbres y conducta del infractor; y
 
 III. Los motivos que lo impulsaron a infringir las disposiciones vigentes y sus condiciones económicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### ARTICULO 986.
 
@@ -7409,7 +7455,7 @@ Queda a criterio del C. Presidente Municipal el revocar el permiso de los usuari
 
 Los usuarios que se consideren afectados por los actos administrativos dictados por las autoridades señaladas en el artículo anterior, podrán interponer los medios de impugnación previstos en el título sexto de la Ley de Procedimientos Administrativos para el Estado y Municipios.
 
-### CAPITULO XVII. Del Sistema Municipal del Deporte y la Recreación
+### CAPITULO XVI. De las Disposiciones para la Fijación de Anuncios
 
 ###### ARTICULO 988.
 
@@ -7431,9 +7477,7 @@ Los usuarios que se consideren afectados por los actos administrativos dictados 
 
 (DEROGADO POR ARTICULO CUARTO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE QUERETARO, P.O. 9 DE DICIEMBRE DE 2005)
 
-### CAPITULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+### CAPITULO XVII. Del Sistema Municipal del Deporte y la Recreación
 
 ###### ARTICULO 993.
 
@@ -7459,7 +7503,9 @@ APARTADO TERCERO
 
 DE LOS RECURSOS ADMINISTRATIVOS
 
-### CAPITULO II. De la Demanda
+### CAPITULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 995.
 
@@ -7487,9 +7533,7 @@ Por lo que se refiere a los trámites relacionados a la sustanciación del recur
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
-### CAPITULO III. De las Notificaciones
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+### CAPITULO II. De la Demanda
 
 ###### ARTICULO 1001.
 
@@ -7519,7 +7563,9 @@ Por lo que se refiere a los trámites relacionados a la sustanciación del recur
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
-### CAPITULO IV. De la Improcedencia
+### CAPITULO III. De las Notificaciones
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 1008.
 
@@ -7533,7 +7579,7 @@ Las notificaciones que para efectos de procedimiento haya que hacerle al recurre
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
 
-### CAPITULO V. De las Pruebas
+### CAPITULO IV. De la Improcedencia
 
 ###### ARTICULO 1011.
 
@@ -7553,9 +7599,7 @@ V. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
 VI. Que hayan sido revocados por la autoridad administrativa.
 
-### CAPITULO VI. Resolución del Recurso
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+### CAPITULO V. De las Pruebas
 
 ###### ARTICULO 1012.
 
@@ -7578,6 +7622,10 @@ Las pruebas deberán presentarse en el escrito de interposición del recurso de 
 ###### ARTICULO 1016.
 
 (DEROGADO, P.O. 1 DE OCTUBRE DE 2004)
+
+### CAPITULO VI. Resolución del Recurso
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 1017.
 
@@ -7932,3 +7980,41 @@ PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento d
 SEGUNDO. El presente Acuerdo entrará en vigencia el día siguiente al de la última fecha de las dos publicaciones mencionadas.
 
 TERCERO.- Se instituye a la Secretaría del Ayuntamiento para que notifique el presente acuerdo a la Secretaría General de Gobierno Municipal y a la Secretaría de Finanzas".
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## N. DE E. TRANSITORIOS DEL PUNTO SEGUNDO DEL ACUERDO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Municipal y en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Las presentes reformas entrarán en vigor al día siguiente de que sea publicado en alguno de (sic) medios mencionados en el transitorio anterior."
+
+## N. DE E. TRANSITORIO DEL ACUERDO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Municipal y en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor el día siguiente de su publicación en alguno de los medios mencionados en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+En base a lo dispuesto en el "Acuerdo por el que se Aprueba la modificación de la Estructura Orgánica de la Administración Pública Municipal, aprobado por el Ayuntamiento de Querétaro en Sesión Ordinaria de Cabildo de fecha 25 de septiembre de 2015, se transfieren las unidades administrativas que se mencionan a continuación y pasan a formar parte de la Secretaría de Movilidad, con todos los recursos tecnológicos, humanos y materiales que tengan asignados a la fecha:
+
+a) La Dirección de Proyectos Urbanos, anteriormente adscrita a la Secretaría de Desarrollo Sustentable, ahora Secretaría de Desarrollo Económico, Planeación Urbana y Ecología; y
+
+b) La Dirección de Mantenimiento Vial, anteriormente adscrita a la Secretaría de Obras Públicas Municipales.
+
+Al incorporarse dichas unidades a la Secretaría de Movilidad, perdieron la denominación que las identificaba, así como sus recursos y personal que las integraba; se reasignan conforme a la estructura de la nueva Secretaría, sin perjuicio alguno de las prestaciones laborales que conforme a derecho correspondan a los servidores públicos que se han transferido.
+
+La Secretaría de Administración proveerá lo conducente para el debido cumplimiento de esta disposición, incluyendo las readscripciones que corresponda asentar en los expedientes del personal, la transferencia de los resguardos del mobiliario y equipo de oficinas y la adecuación de los manuales de organización y de procedimientos a que haya lugar.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga cualquier disposición que se oponga al presente Acuerdo.
