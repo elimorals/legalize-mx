@@ -4,7 +4,7 @@ identifier: "COA-ley-de-urgencias-medicas-para-el-estado-de-coahuila-de-104799"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-19"
-last_updated: "2014-12-19"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de diciembre de 2014.
 
@@ -65,7 +65,9 @@ IV. Emergencia Médica: Situación inesperada que requiere primeros auxilios y d
 
 V. Hospitalización: Ingreso a u (sic) hospital de una persona enferma o herida para su examen, diagnóstico y tratamiento.
 
-VI. Institución: Se refiere a todos aquellos lugares en los que se brindan servicios de atención médica, los cuales pueden ser llamados hospitales, unidades médicas, centro de salud, nosocomio, etc.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+VI. Institución: Se refiere a todos aquellos lugares públicos o privados, en los que se brindan servicios de atención médica, los cuales pueden ser llamados hospitales, unidades médicas, centro de salud, nosocomio, etc.
 
 VII. Paciente declarado con una emergencia o urgencia médica: Aquella persona con un status especial, debido a que su patología evoluciona rápidamente hacia estados de gravedad.
 
@@ -84,6 +86,12 @@ Las instituciones que atiendan un caso, como los mencionados anteriormente, dar�
 ###### Artículo 7.
 
 Por ningún motivo se trasladará a los pacientes cuando todavía peligre su vida o la integridad física.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 7 Bis.
+
+Tratándose de mujeres embarazadas, las instituciones que presten servicios de salud estarán obligadas a brindar la atención médica de urgencia, en todos aquellos casos en los que se encuentre en riesgo la vida de la mujer o la del feto. Asimismo, estarán obligadas a permitir el acceso a mujeres embarazadas que se encuentren en un estado de urgencia obstétrica calificada, sin condicionarlo al pago parcial o total del servicio requerido.
 
 ### Capítulo II. Derechos de los Pacientes
 
@@ -208,3 +216,11 @@ EL SECRETARIO DE SALUD
 HÉCTOR MARIO ZAPATA DE LA GARZA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 183.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 4, Y SE ADICIONA EL ARTÍCULO 7 BIS, A LA LEY DE URGENCIAS MÉDICAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
