@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2015-09-15"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -1569,9 +1569,9 @@ Sin perjuicio de la sanción que resulte aplicable a los integrantes de la Comis
 
 Tratándose de iniciativas de ley, si se agotó el plazo y su prorroga sin haber sido dictaminadas, en consecuencia al día hábil siguiente al vencimiento del plazo o de la prorroga en su caso, quien presida la comisión bajo su responsabilidad, deberá remitirlas en sus términos a la mesa directiva del pleno, para que se programe su discusión por el propio Pleno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-El plazo a que se refiere este artículo, no será aplicable para las leyes de ingresos de los Municipios y tablas de valores unitarios de suelo y construcciones, debiéndose dictaminar oportunamente para que se someta a consideración y votación del Pleno del Congreso del Estado, a más tardar el primero de diciembre del año anterior al nuevo ejercicio fiscal.
+El plazo a que se refiere este artículo, no será aplicable para las leyes de ingresos de los Municipios y tablas de valores unitarios de suelo y construcciones, debiéndose dictaminar oportunamente para que se someta a consideración y votación del Pleno del Congreso del Estado, a más tardar el quince de diciembre del año anterior al nuevo ejercicio fiscal.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3020,6 +3020,22 @@ FERNANDO DE LA FUENTE VILLARREAL
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE SEPTIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor a partir de la expedición del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 194.- SE REFORMA EL QUINTO PÁRRAFO DEL ARTÍCULO 129 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO PRIMERO.
 
