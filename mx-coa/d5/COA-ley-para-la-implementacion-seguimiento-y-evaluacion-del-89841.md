@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-implementacion-seguimiento-y-evaluacion-del-89841"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-19"
-last_updated: "2012-10-19"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de octubre de 2012.
 
@@ -99,7 +99,13 @@ XI. El fortalecimiento de los mecanismos para la terminación anticipada del pro
 
 XII. La incorporación y adecuación del nuevo régimen de modificación y duración de penas;
 
-XIII. La reorganización del sistema penitenciario en materia de ejecución de penas, con miras a lograr la reinserción social del sentenciado.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XIII. La capacitación de los cuerpos de policía preventivos, de reacción y de los grupos especiales del Estado y los municipios, en los rubros de detenciones en flagrancia, coordinación con el ministerio público y su participación en los procesos acusatorios orales.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XIV. La reorganización del sistema penitenciario en materia de ejecución de penas, con miras a lograr la reinserción social del sentenciado.
 
 ###### Artículo 5.
 
@@ -646,3 +652,13 @@ EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
 HOMERO RAMOS GLORIA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 180.- SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XIII, RECORRIENDO EL ACTUAL A LA FRACCIÓN XIV QUE SE CREA, DEL ARTÍCULO 4 DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
