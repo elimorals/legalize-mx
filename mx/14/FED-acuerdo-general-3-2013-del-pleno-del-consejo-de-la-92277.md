@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-10-30"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -347,7 +347,9 @@ XIX. DECIMONOVENO CIRCUITO:
 
 XX. VIGESIMO CIRCUITO:
 
-1. Cuatro tribunales colegiados con residencia en Tuxtla Gutiérrez.
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 43/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE NOVIEMBRE DE 2015)</small>
+
+1. Cuatro tribunales colegiados especializados: dos en materias penal y civil, uno en materia de trabajo y uno en materia administrativa, todos con residencia en Tuxtla Gutiérrez, Chiapas.
 
 2. Dos tribunales unitarios con sede en Tuxtla Gutiérrez.
 
@@ -2002,3 +2004,29 @@ Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Regió
 Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
 
 Noveno Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos…”.
+
+D.O.F. 13 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de noviembre de dos mil quince, con excepción de lo previsto en el transitorio tercero, el cual entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados que cambian de denominación y competencia de los recursos materiales necesarios (entre otros, letreros de identificación, actualización de placas de directorios de edificios, sellos oficiales, papelería), conforme a su nueva denominación, para que a la brevedad posible cuenten con ellos.
+
+CUARTO. El Pleno del Vigésimo Circuito continuará con su conformación y denominación actual. Lo anterior, de acuerdo con lo dispuesto en el artículo 9, en relación con el artículo 2, fracciones XV y XVI, del Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XX, número 1 del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a XIX. …
+
+XX. …
+
+1. Cuatro tribunales colegiados especializados: dos en materias penal y civil, uno en materia de trabajo y uno en materia administrativa, todos con residencia en Tuxtla Gutiérrez, Chiapas.
+
+2. …
+
+3. …
+
+XXI. a XXXII. …"
