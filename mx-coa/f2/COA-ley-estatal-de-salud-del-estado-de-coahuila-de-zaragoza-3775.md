@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2015-06-16"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -867,7 +867,9 @@ IV. Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
 Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje,prótesis (sic) y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística,codificación (sic) clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, optometría, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica bioterios, farmacia, saneamiento, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 ###### Artículo 73.
 
@@ -3216,3 +3218,9 @@ La Secretaría de Salud contará con un plazo de diez días naturales para emiti
 ###### ARTÍCULO QUINTO.
 
 Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 189.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ART. 72 DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
