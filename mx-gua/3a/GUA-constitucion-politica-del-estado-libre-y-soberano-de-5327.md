@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2015-07-31"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -75,9 +75,9 @@ Todas las autoridades del estado y de los municipios, en el ámbito de sus compe
 
 Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano desde su concepción hasta su muerte natural. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-Queda prohibido todo tipo de discriminación que atente contra la dignidad humana o contra los derechos y libertades de la persona, con motivo de su origen étnico, nacionalidad, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra circunstancia, calidad o condición.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -3712,3 +3712,7 @@ P.O. 31 DE JULIO DE 2015.
 Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El Congreso del Estado deberá adecuar la Ley Orgánica Municipal para el Estado de Guanajuato, y el Código Territorial para el Estado y los Municipios de Guanajuato, y demás leyes al contenido del presente Decreto, en un término de ciento ochenta días, contado a partir del inicio de su vigencia.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
