@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2015-06-30"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -818,6 +818,10 @@ I. En materia de gobierno y régimen interior:
 13. Integrar un Comité de protección civil, para tal efecto el Presidente Municipal aprobará la designación y el funcionamiento del personal que integra el mismo.
 
 14. Turnar al Congreso del Estado o a la Diputación Permanente, en su caso, las renuncias y las solicitudes de licencia que le sean presentadas por los miembros de los ayuntamientos y de los Concejos Municipales, para que se resuelva sobre las mismas, conforme a lo dispuesto en la Constitución Política local y demás disposiciones aplicables. En estos casos, el ayuntamiento respectivo deberá dar aviso previamente al Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+Los ayuntamientos autorizarán por conducto del cabildo la reincorporación a sus labores de los servidores municipales que se hallen en licencia en los términos del párrafo anterior, dentro de un plazo no mayor a diez días hábiles posteriores a la fecha en que soliciten por escrito su reingreso; en su caso, deberán celebrar una sesión extraordinaria para cumplir con este trámite en tiempo y forma, mientras no exista impedimento legal o resolución judicial o administrativa que impida al servidor público la reincorporación a su puesto.
 
 II. En materia de administración pública municipal:
 
@@ -4238,3 +4242,9 @@ P.O. 30 DE JUNIO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 186.- SE ADICIONA UN SEGUNDO PÁRRAFO AL NUMERAL 14 DE LA FRACCIÓN I DEL ARTÍCULO 102, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA."]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
