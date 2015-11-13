@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2014-12-26"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
-EL C. HUMBERTO MORElRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+EL C. HUMBERTO MOREIRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
 QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
@@ -47,7 +47,7 @@ Esta ley es de orden público, interés social y de observancia obligatoria en e
 
 Esta ley tiene por objeto:
 
-l. Promover y garantizar el derecho a la igualdad real de oportunidades y trato de las personas, a participar y beneficiarse de manera incluyente en las actividades educativas, de salud, productivas, económicas, laborales, políticas, culturales, recreativas, y en general en todas aquellas que permiten el desarrollo pleno e integral de las personas, y
+I. Promover y garantizar el derecho a la igualdad real de oportunidades y trato de las personas, a participar y beneficiarse de manera incluyente en las actividades educativas, de salud, productivas, económicas, laborales, políticas, culturales, recreativas, y en general en todas aquellas que permiten el desarrollo pleno e integral de las personas, y
 
 II. Prevenir toda forma de discriminación en contra de cualquier persona, motivada por razones de origen étnico o nacional, género, edad, discapacidad, condición social, económica o de salud, estado de gravidez, lengua, religión, expresión de las ideas u opiniones, preferencias sexuales, estado civil, filiación e identidad política, o cualquier otra que atente contra la dignidad humana y que represente obstáculo para su desarrollo pleno e integral, en los términos de lo establecido en los artículos séptimo y octavo de la Constitución Política del Estado de Coahuila de Zaragoza.
 
@@ -223,7 +223,13 @@ XXVII. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecu
 
 XXVIII. Realizar o fomentar el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación sexual, y
 
-XXIX. En general cualquier conducta discriminatoria, en los términos de la fracción VI del artículo 3° de esta ley.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXIX. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales en razón de: embarazo, discapacidad, edad en los términos de la legislación laboral vigente; por tener la calidad de persona egresada de alguna institución pública o privada de educación; por motivaciones injustificadas de salud, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+XXX. En general cualquier conducta discriminatoria, en los términos de la fracción VI del artículo 3° de esta ley.
 
 ### CAPÍTULO CUARTO. DE LAS MEDIDAS POSITIVAS Y COMPENSATORIAS
 
@@ -283,7 +289,7 @@ V. Las demás que señalen esta ley y otras disposiciones aplicables.
 
 Para el cumplimiento del objeto de esta ley, la Secretaría de Medio Ambiente y Recursos Naturales llevara a cabo las siguientes acciones:
 
-l. Promover en colaboración con otras entidades públicas y con las organizaciones representativas de las personas con discapacidad y sus familias, la elaboración, desarrollo y ejecución de planes y programas en materia de accesibilidad y no discriminación;
+I. Promover en colaboración con otras entidades públicas y con las organizaciones representativas de las personas con discapacidad y sus familias, la elaboración, desarrollo y ejecución de planes y programas en materia de accesibilidad y no discriminación;
 
 II. Promover y, en su caso, exigir la instalación y mantenimiento de mecanismos que permitan el acceso y libre desplazamiento a las personas que por su edad o discapacidad así lo requieran, en todos los espacios públicos, obras y actividades que supervisen o autoricen, así como en aquellos inmuebles o muebles de naturaleza similar;
 
@@ -309,7 +315,7 @@ III. Las demás que señalen esta ley y otras disposiciones aplicables.
 
 Para el cumplimiento del objeto de esta ley, la Secretaría de Salud llevará a cabo las siguientes acciones:
 
-l. Implementar y promover campañas de información sobre los derechos sexuales y reproductivos, así como de los métodos anticonceptivos, facilitando el libre ejercicio del derecho de procreación, o de la determinación del número y espaciamiento de los hijos;
+I. Implementar y promover campañas de información sobre los derechos sexuales y reproductivos, así como de los métodos anticonceptivos, facilitando el libre ejercicio del derecho de procreación, o de la determinación del número y espaciamiento de los hijos;
 
 II. Instrumentar programas de atención médica y sanitaria para combatir la mortalidad y desnutrición infantil;
 
@@ -331,7 +337,7 @@ IX. Las demás que señalen esta ley y otras disposiciones aplicables.
 
 Para el cumplimiento del objeto de esta ley, la Secretaría de Finanzas llevará a cabo las siguientes acciones:
 
-l. Crear programas de apoyo financiero para la construcción de estancias, centros de reposo para ancianos y albergues;
+I. Crear programas de apoyo financiero para la construcción de estancias, centros de reposo para ancianos y albergues;
 
 II. Incentivar fiscalmente las actividades de personas que presten apoyo profesional a personas u organizaciones de sectores vulnerables;
 
@@ -363,7 +369,7 @@ VIII. Las demás que señalen esta ley y otras disposiciones aplicables.
 
 Para el cumplimiento del objeto de esta ley, la Secretaría de Gobierno llevará a cabo las siguientes acciones:
 
-l. Implementar, dentro del ámbito de su competencia, las políticas y acciones necesarias a fin de promover el respeto a los derechos de todas las personas, así como la eliminación de toda forma de discriminación;
+I. Implementar, dentro del ámbito de su competencia, las políticas y acciones necesarias a fin de promover el respeto a los derechos de todas las personas, así como la eliminación de toda forma de discriminación;
 
 II. Ejecutar los programas y acciones tendientes a promover la equidad de genero;
 
@@ -383,7 +389,7 @@ IX. Canalizar a la Dirección los asuntos de su competencia, que sean presentado
 
 X. Las demás que señalen esta ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
 
 ###### ARTÍCULO 23.
 
@@ -421,13 +427,13 @@ I. Promover ante el Congreso de la Unión las leyes y decretos en materia de no 
 
 II. Nombrar, cuando lo estime conveniente, las comisiones permanentes y especiales, que se encarguen del estudio de los proyectos de leyes y decretos que tengan relación con la prevención y eliminación de la discriminación en el Estado, y
 
-IV. Las demás que establezcan la presente ley y demás disposiciones aplicables.
+III. Las demás que establezcan la presente ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 25.
 
 Para el cumplimiento del objeto de esta ley, el Poder Judicial del Estado llevará a cabo las siguientes acciones:
 
-l. Atribuir valor jurídico a la particularidad cultural de los sectores vulnerables en la resolución de juicios y procedimientos jurídicos;
+I. Atribuir valor jurídico a la particularidad cultural de los sectores vulnerables en la resolución de juicios y procedimientos jurídicos;
 
 II. Diseñar programas de atención y apoyo a miembros de sectores vulnerables que requieran acudir a los órganos jurisdiccionales;
 
@@ -447,7 +453,7 @@ Corresponde a la Dirección realizar acciones para prevenir toda forma de discri
 
 Para el cumplimiento de su objeto, la Dirección tendrá, además de las obligaciones contempladas en el Decreto de su creación, las siguientes atribuciones:
 
-l. Diseñar estrategias e instrumentos, así como promover programas, proyectos y acciones para prevenir la discriminación;
+I. Diseñar estrategias e instrumentos, así como promover programas, proyectos y acciones para prevenir la discriminación;
 
 II. Elaborar, proponer y someterlo a aprobación del Titular del Ejecutivo el Programa Estatal para Prevenir la Discriminación;
 
@@ -497,7 +503,7 @@ XXIII. Las demás que sean tendientes a combatir la discriminación, que le otor
 
 Quien ocupe el cargo de titular de la Dirección tendrá las siguientes atribuciones:
 
-l. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento de la Dirección, con sujeción a las disposiciones aplicables;
+I. Planear, organizar, coordinar, dirigir, controlar y evaluar el funcionamiento de la Dirección, con sujeción a las disposiciones aplicables;
 
 II. Presentar a la consideración del Titular del Ejecutivo del Estado, el proyecto del Programa Estatal para Prevenir la Discriminación;
 
@@ -858,3 +864,9 @@ El presente decreto entra en vigor al día siguiente de su publicación en el Pe
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 188.- SE REFORMAN LAS FRACCIONES XXIX Y XXX, DEL ARTÍCULO 13, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
