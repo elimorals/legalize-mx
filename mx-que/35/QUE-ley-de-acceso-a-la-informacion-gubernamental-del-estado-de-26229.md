@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-acceso-a-la-informacion-gubernamental-del-estado-de-2622
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2014-12-20"
+last_updated: "2015-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 13 DE NOVIEMBRE DEL 2015; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE FEBRERO DE 2016.</small>
+
+ÚLTIMA REFORMADA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -365,7 +367,7 @@ Para efectos de esta Ley, los medios de comunicación y los periodistas no tendr
 
 Para efectos de lo dispuesto en la fracción III del artículo anterior, los sujetos obligados podrán acordar la reserva de la siguiente información:
 
-l. Aquella cuya revelación pueda causar un perjuicio o daño grave a las funciones de las instituciones públicas y por tanto al mismo Estado;
+I. Aquella cuya revelación pueda causar un perjuicio o daño grave a las funciones de las instituciones públicas y por tanto al mismo Estado;
 
 II. La que comprometa la seguridad del Estado, de los municipios o la seguridad pública o ponga en riesgo la privacidad, el honor, la intimidad o la seguridad de los particulares;
 
@@ -505,7 +507,7 @@ Los sujetos obligados, por conducto de las unidades administrativas que para tal
 
 El acceso de los gobernados a la información pública se sujetará al siguiente procedimiento:
 
-l. El interesado presentará ante la Unidad de Información Gubernamental correspondiente, en forma pacífica y respetuosa, ya sea por escrito o por correo electrónico, una solicitud que deberá contener:
+I. El interesado presentará ante la Unidad de Información Gubernamental correspondiente, en forma pacífica y respetuosa, ya sea por escrito o por correo electrónico, una solicitud que deberá contener:
 
 a) Unidad de Información Gubernamental del sujeto obligado al que se dirige.
 
@@ -661,7 +663,7 @@ V. No desempeñar el cargo de dirigente de algún partido político.
 
 Son atribuciones de la Comisión, promover:
 
-l. Los estudios e investigaciones necesarios en materia de acceso a la información;
+I. Los estudios e investigaciones necesarios en materia de acceso a la información;
 
 II. Las relaciones con organismos públicos en la materia de su competencia;
 
@@ -687,7 +689,7 @@ El Comisionado Presidente nombrará un Secretario Técnico que tendrá fe públi
 
 Son facultades del Comisionado Presidente:
 
-l. Representar legalmente a la Comisión y otorgar poderes para pleitos y cobranzas;
+I. Representar legalmente a la Comisión y otorgar poderes para pleitos y cobranzas;
 
 II. Asesorar, procurar y defender a los particulares en sus justas peticiones de información pública y determinar su procedencia; y, en su caso, ordenar a las entidades gubernamentales que proporcionen información a los solicitantes en los términos de la presente Ley;
 
@@ -751,7 +753,7 @@ III. El acto o la resolución que se Impugna y la mención de quien la emitió, 
 
 IV. Los motivos de la inconformidad; y
 
-V. Las copias pará correr traslado a la Comisión o a la Unidad del sujeto obligado de que se trate.
+V. Las copias para correr traslado a la Comisión o a la Unidad del sujeto obligado de que se trate.
 
 Al escrito se anexarán las pruebas documentales de que se disponga y se anunciará cualquier otra procedente. No se admitirá la prueba confesional ni la declaración de parte.
 
@@ -817,7 +819,7 @@ Las resoluciones que dicte la Comisión serán de cumplimiento obligatorio y su 
 
 La Comisión sobreseerá el Recurso de Revisión cuando:
 
-l. El promovente se desista de la acción;
+I. El promovente se desista de la acción;
 
 II. El sujeto obligado responsable del acto o resolución impugnados entregue la información solicitada antes de que se dicte la resolución; o
 
@@ -1078,3 +1080,15 @@ Artículo Tercero. Se abroga la Ley para el Manejo de los Recursos Públicos del
 Artículo Cuarto. Para efectos de lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, los sujetos de dicho ordenamiento, estarán obligados a dar cumplimiento a lo establecido en la presente Ley en materia de contabilidad gubernamental y presentación de la información financiera, de conformidad con los plazos que al efecto establezca el Congreso de la Unión en la Ley respectiva, así como aquellos que se prevean en la normatividad que emitan los órganos que la misma autorice para tal efecto.
 
 Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+P. O. 13 DE NOVIEMBRE DEL 2015.
+
+Primero. La presente ley entrará en vigor al 1 de febrero de 2016.
+
+Segundo. Se abroga la Ley de Acceso a la Información Gubernamental del Estado de Querétaro publicada en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" el 27 de septiembre de 2002.
+
+Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente ordenamiento.
+
+Cuarto. Se faculta al Comisionado Presidente a realizar las transferencias necesarias al presupuesto de la Comisión Estatal de Información Gubernamental para cumplir con lo dispuesto en la presente ley.
+
+Quinto. Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
