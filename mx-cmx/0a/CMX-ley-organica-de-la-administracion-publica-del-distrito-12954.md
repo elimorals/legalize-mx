@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2015-06-23"
+last_updated: "2015-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -602,43 +602,51 @@ X. Mantener relaciones con la Comisión Nacional de Salarios Mínimos y las inst
 
 XI. Fomentar el servicio de empleo, capacitación y adiestramiento, así como auxiliar a las autoridades federales a aumentar la cobertura y calidad de la capacitación laboral impulsando una cultura de trabajo que favorezca el respeto a los derechos y garantías sociales a favor de los trabajadores en el Distrito Federal;
 
-XII. Organizar las inspecciones de trabajo en los establecimientos de circunscripción local, en el ámbito de su competencia;
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XIII. Proponer y coordinar las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y patrones;
+XII. Fomentar la implementación de programas internos para explicar en qué consiste el acoso laboral, y como prevenirlo en la administración pública del Distrito Federal así como en la iniciativa privada;
 
-XIV. Promover la productividad en el trabajo, basada en la equidad, seguridad e higiene, capacitación y progreso de los factores productivos;
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XV. Proponer la firma de convenios en materia de empleo, competencias laborales y capacitación en el ámbito del Distrito Federal, y en su caso, darles seguimiento;
+XIII. Fomentar la denuncia de los actos de acoso laboral que en ejercicio de sus funciones llegara a cometer cualquier servidor público que pueda constituir responsabilidad administrativa en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos y demás disposiciones aplicables, ante la Contraloría General;
 
-XVI. Coadyuvar con el servicio de empleo en los Órganos Político-Administrativos;
+XIV. Organizar las inspecciones de trabajo en los establecimientos de circunscripción local, en el ámbito de su competencia;
 
-XVII. Promover e implementar las políticas establecidas por el Jefe de Gobierno para que los trabajadores del Distrito Federal y sus familias gocen del derecho a la cultura y recreación, con la intervención que corresponda a la Secretaría de Desarrollo Social;
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XVIII. Promover la investigación sobre la problemática laboral en el Distrito Federal, y elaborar diagnósticos, análisis y estudios en la materia, que contribuyan a la formulación de la política laboral en el Distrito Federal, así como promover la participación de organizaciones no gubernamentales en el estudio y difusión de la misma; y el establecimiento de relaciones de colaboración con instituciones nacionales e internacionales, para desarrollar conjuntamente investigaciones, seminarios y programas de difusión relacionados con dicha problemática;
+XV. Proponer y coordinar las campañas publicitarias encaminadas a difundir los derechos y obligaciones de trabajadores y patrones; así como denunciar las conductas laborales de acoso laboral, ante la autoridad competente;
 
-XIX. Integrar un banco de información estadística y archivo documental de temas relacionados con la problemática laboral, así como proporcionar a trabajadores, empresarios e instituciones académicas, los servicios del centro de documentación e información y la asesoría de su unidad de apoyo e investigación;
+XVI. Promover la productividad en el trabajo, basada en la equidad, seguridad e higiene, capacitación y progreso de los factores productivos;
 
-XX. Difundir con recursos propios, o mediante convenios con otros organismos públicos o privados, estudios y documentos de interés general, en el ámbito laboral;
+XVII. Proponer la firma de convenios en materia de empleo, competencias laborales y capacitación en el ámbito del Distrito Federal, y en su caso, darles seguimiento;
 
-XXI. Coadyuvar en el cumplimiento de las funciones desconcentradas de los Órganos Político-Administrativos que correspondan al ámbito de su competencia;
+XVIII. Coadyuvar con el servicio de empleo en los Órganos Político-Administrativos;
 
-XXII. Tener bajo su adscripción directa a la Procuraduría de la Defensa del Trabajo y a la Inspección Local del Trabajo;
+XIX. Promover e implementar las políticas establecidas por el Jefe de Gobierno para que los trabajadores del Distrito Federal y sus familias gocen del derecho a la cultura y recreación, con la intervención que corresponda a la Secretaría de Desarrollo Social;
 
-XXIII. Nombrar y remover a los Subprocuradores, Procuradores Auxiliares, peritos y demás personal de apoyo técnico-operativo de la Procuraduría de la Defensa del Trabajo, así como a los Inspectores y demás personal de la Inspección Local del Trabajo excepción hecha del Director General;
+XX. Promover la investigación sobre la problemática laboral en el Distrito Federal, y elaborar diagnósticos, análisis y estudios en la materia, que contribuyan a la formulación de la política laboral en el Distrito Federal, así como promover la participación de organizaciones no gubernamentales en el estudio y difusión de la misma; y el establecimiento de relaciones de colaboración con instituciones nacionales e internacionales, para desarrollar conjuntamente investigaciones, seminarios y programas de difusión relacionados con dicha problemática;
 
-XXIV. Fomentar y apoyar la organización social para el trabajo y el auto empleo.
+XXI. Integrar un banco de información estadística y archivo documental de temas relacionados con la problemática laboral, así como proporcionar a trabajadores, empresarios e instituciones académicas, los servicios del centro de documentación e información y la asesoría de su unidad de apoyo e investigación;
 
-> <small>(ADICIONADO, G.O. 9 DE JULIO DE 2014)</small>
+XXII. Difundir con recursos propios, o mediante convenios con otros organismos públicos o privados, estudios y documentos de interés general, en el ámbito laboral;
 
-Para cumplir con esta tarea deberá promover y difundir las herramientas disponibles y confiables para ofertar servicios profesionales a través de servicios de internet certificados.
+XXIII. Coadyuvar en el cumplimiento de las funciones desconcentradas de los Órganos Político-Administrativos que correspondan al ámbito de su competencia;
 
-XXV. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo, para la protección de los trabajadores;
+XXIV. Tener bajo su adscripción directa a la Procuraduría de la Defensa del Trabajo y a la Inspección Local del Trabajo;
 
-XXVI. Promover en coordinación con la Dirección General de Prevención y Readaptación Social del Distrito Federal, la integración laboral de las personas recluidas en los Centros de Readaptación Social;
+XXV. Nombrar y remover a los Subprocuradores, Procuradores Auxiliares, peritos y demás personal de apoyo técnico-operativo de la Procuraduría de la Defensa del Trabajo, así como a los Inspectores y demás personal de la Inspección Local del Trabajo excepción hecha del Director General;
 
-XXVII. Promover la inclusión laboral de las personas adultas mayores o con capacidades diferentes en los sectores productivos, y
+> <small>(REFORMADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-XXVIII. Las demás que le atribuyan expresamente las leyes y reglamentos.
+XXVI. Fomentar y apoyar la organización social para el trabajo y el auto empleo;
+
+XXVII. Proponer la actualización de las medidas de seguridad e higiene en los centros de trabajo, para la protección de los trabajadores;
+
+XXVIII. Promover en coordinación con la Dirección General de Prevención y Readaptación Social del Distrito Federal, la integración laboral de las personas recluidas en los Centros de Readaptación Social;
+
+XXIX. Promover la inclusión laboral de las personas adultas mayores o con capacidades diferentes en los sectores productivos, y
+
+XXX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, G.O. 6 DE FEBRERO DE 2007)</small>
 
@@ -2609,3 +2617,11 @@ G.O. 23 DE JUNIO DE 2015.
 Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
 
 ARTÍCULO TERCERO (SIC).- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- EL presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
