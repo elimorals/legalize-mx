@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-fomento-al-empleo-para-la-ciudad-de-63499"
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-08"
-last_updated: "2014-11-28"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63499&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-30"
 
 LEY DE PROTECCIÓN Y FOMENTO AL EMPLEO PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 8 de octubre de 2008.
 
@@ -66,19 +66,23 @@ II. Consejo.- Al Consejo Consultivo para el Fomento y Protección al Empleo del 
 
 III. Delegaciones.- A los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal;
 
-IV. Jefe de Gobierno.- Al Jefe de Gobierno del Distrito Federal;
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-V. Ley.- A la Ley de Protección y Fomento al Empleo para el Distrito Federal;
+IV. Acoso laboral.- Aquellas acciones realizadas de manera cotidiana contra determinada persona de su mismo entorno laboral, bien sea por su superior jerárquico o de igual nivel, tales como persecuciones tendientes a provocarle aislamiento, pérdida de la autoestima, desmerecimiento, violación de la intimidad, falsa denuncia, afectación en sus tareas laborales, intromisión en la computadora, utilización de influencias e indiferencia a sus reclamos.
 
-VI. Reglamento.- Al Reglamento de la Ley de Protección y Fomento al Empleo para el Distrito Federal;
+V. Jefe de Gobierno.- Al Jefe de Gobierno del Distrito Federal;
 
-VII. Secretaría.- A la Secretaría de Trabajo y Fomento al Empleo del Gobierno del Distrito Federal;
+VI. Ley.- A la Ley de Protección y Fomento al Empleo para el Distrito Federal;
 
-VIII. Secretaría de Desarrollo Económico.- A la Secretaría de Desarrollo Económico del Gobierno del Distrito Federal;
+VII. Reglamento.- Al Reglamento de la Ley de Protección y Fomento al Empleo para el Distrito Federal;
 
-IX. Secretaría de Finanzas.- A la Secretaría de Finanzas del Gobierno del Distrito Federal; y
+VIII. Secretaría.- A la Secretaría de Trabajo y Fomento al Empleo del Gobierno del Distrito Federal;
 
-X. Seguro: Al Seguro de Desempleo.
+IX. Secretaría de Desarrollo Económico.- A la Secretaría de Desarrollo Económico del Gobierno del Distrito Federal;
+
+X. Secretaría de Finanzas.- A la Secretaría de Finanzas del Gobierno del Distrito Federal; y
+
+XI. Seguro: Al Seguro de Desempleo.
 
 ### Capítulo II. De las Facultades y Obligaciones
 
@@ -92,7 +96,9 @@ II. Promover la generación de nuevas fuentes de empleo y consolidar las existen
 
 III. Promover y observar que los programas y acciones de capacitación local y/o de regulación federal fortalezcan y eleven la calidad y productividad de la fuerza de trabajo y economía del Distrito Federal;
 
-IV. Coordinar con la Secretaría de Desarrollo Económico, autoridades federales y las demás áreas competentes en la implementación de estrategias públicas, programas y actividades de protección, promoción y fomento del empleo.
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+IV. Coordinar con la Secretaría de Desarrollo Económico, autoridades federales y las demás áreas competentes en la implementación de estrategias públicas, programas y actividades de protección, promoción y fomento del empleo; así como para la disminución, erradicación y denuncia del acoso laboral;
 
 V. Fomentar una cultura emprendedora entre las clases, grupos y personas más desprotegidos y vulnerables de la sociedad a fin de que accedan a mejores niveles de bienestar, a través de programas y acciones de carácter laboral, económico y educativo de contenido social;
 
@@ -332,7 +338,9 @@ II. Crear los Comités necesarios para analizar la problemática de las diferent
 
 III. Formular las propuestas de incentivos a la inversión, analizando previamente las actividades estratégicas contenidas en los planes de fomento y protección al empleo de cada una de las delegaciones;
 
-IV. Convocar a los diversos organismos empresariales para organizar foros de consulta encaminados a la realización de diagnósticos sectoriales en materia de fomento y protección al empleo;
+> <small>(ADICIONADA, G.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+IV. Convocar a los diversos organismos empresariales para organizar foros de consulta encaminados a la realización de diagnósticos sectoriales en materia de fomento y protección al empleo; así como para la disminución, erradicación y denuncia del acoso laboral.
 
 V. Apoyar a la Secretaría en la creación de Comités, así como, establecer los lineamientos para formar los mismos;
 
@@ -425,3 +433,11 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 13 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- EL presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
