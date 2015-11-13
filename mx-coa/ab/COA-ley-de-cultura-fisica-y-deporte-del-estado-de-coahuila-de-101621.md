@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2014-07-18"
+last_updated: "2015-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 18 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -591,7 +589,7 @@ Los entrenadores inscritos en el Registro Estatal del Deporte podrán ser acreed
 
 Para reconocer a los deportistas que destaquen en su especialidad o contribuyan notoriamente al fomento y desarrollo del deporte, la autoridad y la sociedad establecerán estímulos y acciones de reconocimiento.
 
-### CAPÍTULO VI. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+### CAPÍTULO VI. INFRACCIONES, SANCIONES ADMINISTRATIVAS Y DELITOS
 
 APLICACIÓN DE SANCIONES
 
@@ -677,6 +675,8 @@ Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reg
 
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 70.
 
 Todo ciudadano, y organización de deportistas podrá denunciar por escrito ante la autoridad deportiva estatal, los actos que se consideren como infracciones a esta ley.
@@ -720,6 +720,44 @@ Los actos de la autoridad deportiva estatal y de las municipales, así como las 
 ###### ARTÍCULO 76.
 
 En todo lo que no se encuentre regulado de manera expresa en la presente ley, deberán aplicarse supletoriamente la Ley de Procedimiento Administrativo para el Estado de Coahuila, el Código Civil para el Estado de Coahuila de Zaragoza, el Código Procesal Civil para el Estado de Coahuila de Zaragoza y las demás disposiciones legales que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 76 BIS 1.- Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas:
+
+I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y multa de cinco a treinta días de salario mínimo general vigente en el estado.
+
+II. Ingrese sin autorización a los terrenos de juego, o al área donde se desarrolle el evento y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con prisión de seis meses a tres años y Multa de diez a cuarenta días de salario mínimo general vigente en el estado.
+
+La sanción anterior se incrementara en dos terceras partes cuando la agresión a una persona la efectúen dos o más individuos.
+
+III. Participe activamente en riñas, lo que se sancionará con prisión de seis meses a cuatro años y multa de diez a sesenta días de salario mínimo general vigente en el estado.
+
+IV. Incite o genere violencia, se considera incitador a quién dolosamente aliente a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes.
+
+V. Cause daños materiales en los bienes muebles o inmuebles que se encuentren en el propio recinto deportivo, en sus instalaciones anexas o en las inmediaciones; o,
+
+VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
+
+Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con prisión de un año seis meses a cuatro años seis meses y multa de veinte a noventa días de salario mínimo general vigente en el estado.
+
+A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
+
+Cuando en la comisión de este delito resulten dañados bienes de la nación o afectados servidores públicos federales en el ejercicio de sus funciones, conocerán las autoridades del fuero Federal.
+
+No se castigará como delito la conducta de un asistente a un evento deportivo masivo o de espectáculo, cuando su naturaleza permita la interacción con los participantes.
+
+Las personas que, directa o indirectamente, realicen las conductas previstas en este artículo serán puestas inmediatamente a disposición de las autoridades correspondientes, para que siguiendo el el (sic) debido proceso y la plena observancia de los derechos humanos de los presuntos inculpados se investigue su probable responsabilidad y en su caso se garantice la reparación del daño.
+
+En las conductas no sancionadas por esta Ley, se estará a lo que establece el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 76 BIS 2.- Para los efectos establecidos en este Capítulo, el Estado a través del Sistema Estatal de Seguridad Pública del Estado conformará el padrón de personas sancionadas con suspensión del derecho de asistir a eventos deportivos, en el cual quedarán inscritas las personas a quienes se les imponga como sanción la prohibición temporal de asistencia a eventos deportivos masivos o con fines de espectáculo. Este padrón formará parte del banco de datos del Sistema de Seguridad Pública, la información en él contenida será confidencial y su acceso estará disponible únicamente para las autoridades de la materia, quienes no podrán usarla para otro fin distinto a hacer efectivas las sanciones de prohibición de asistir a eventos deportivos masivos o con fines de espectáculo.
+
+Su organización y funcionamiento se regirán por lo que disponga el Reglamento que al efecto se expida en términos de la Ley del Sistema de Seguridad Pública del Estado de Coahuila.
+
+La inscripción en este padrón será considerada información confidencial y únicamente tendrá vigencia por el tiempo de la sanción, transcurrido el cual, deberán ser eliminados totalmente los datos del interesado.
 
 T R A N S I T O R I O S
 
@@ -784,3 +822,11 @@ EL SECRETARIO DE FINANZAS
 ISMAEL EUGENIO RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 192.- SE MODIFICA EL NOMBRE DEL CAPÍTULO VI DEL TÍTULO V, Y SE ADICIONAN LOS ARTÍCULOS 76 BIS 1 Y 76 BIS 2 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA DEL PERIÓDICO OFICIAL EL 17 DE JUNIO DE 2014.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
