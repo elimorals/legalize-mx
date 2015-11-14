@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vialidad-y-transito-para-el-estado-de-chihuahua-51778"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-20"
-last_updated: "2015-02-07"
+last_updated: "2015-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIALIDAD Y TRÁNSITO PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 20 de septiembre de 2006.
 
@@ -1321,19 +1321,33 @@ IV. Nombre y número de identificación del oficial de tránsito que la elaboró
 
 V. La información de si se retuvo algún documento, y en su caso indicar cuál.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 99 Bis.
 
-Las infracciones a la Ley o sus Reglamentos, que sean detectadas a través de equipos o sistemas tecnológicos, se harán constar en una boleta de notificación de infracción y para que sean válidas, además de lo previsto en el artículo anterior, se requiere que se cumpla con los siguientes requisitos:
+Las infracciones a la Ley o sus Reglamentos, que sean detectadas a través de equipos o sistemas tecnológicos, se harán en una boleta de notificación de infracción y para que sean válidas, además de lo previsto en el artículo anterior, se requiere que se cumpla con los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 I. Ser emitidas por el Director y/o Delegado de la División de Vialidad y Tránsito, o por el servidor público en el que se delegue esta atribución.
 
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
 II. Precisar el tipo de equipo o sistema tecnológico que se utilizó para determinar la infracción a la Ley o Reglamento e identificar la clave electrónica del equipo correspondiente.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 III. Adjuntar la imagen, evidencia o constancia generada por el equipo o sistema tecnológico.
 
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2014)</small>
+
 IV. La firma del servidor público facultado para emitirla.
+
+> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2015)</small>
+
+V. Además de lo anterior, deberán de instalarse señalamientos en todas las calles o avenidas, en donde se encuentren instalados dispositivos de monitoreo para las “foto infracciones”, sin los cuales no serán válidas las infracciones emitidas y no podrá aplicarse sanción alguna.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2014)</small>
 
 En el caso de las autoridades municipales, estas podrán generar la foto-infracción, así como calificar e imponer las sanciones correspondientes al ámbito de su competencia, para lo cual deberán sujetarse a lo establecido en la presente Ley, al Reglamento de esta y a los reglamentos municipales correspondientes.
 
@@ -1760,6 +1774,12 @@ Se derogan las demás disposiciones que se opongan al presente Decreto.
 Túrnese copia del presente Decreto, a la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana del H. Congreso del Estado, a efecto de que lleve a cabo una campaña de socialización respecto del contenido y alcance del mismo.
 
 P.O. 7 DE FEBRERO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
