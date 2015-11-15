@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-prevencion-y-asistencia-para-la-atencion-de-las-81692"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-17"
-last_updated: "2011-04-17"
+last_updated: "2015-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE PREVENCION Y ASISTENCIA PARA LA ATENCION DE LAS ADICCIONES DEL ESTADO DE DURANGO
 
-LEY DE PREVENCION Y ASISTENCIA PARA LA ATENCION DE LAS ADICCIONES DEL ESTADO DE DURANGO
+LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 17 de abril de 2001.
 
@@ -31,7 +31,7 @@ EL CIUDADANO CONTADOR PUBLICO JORGE HERRERA CALDERA GOBERNADOR CONSTITUCIONAL DE
 
 QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE
 
-Con fecha 14 de junio de 2010 los CC. Diputados Omar José Jiménez Herrera, Jorge Herrera Delgado, Francisco Ávila Cabada, Ernesto Abel Alanis Herrera, Rodrigo Victorino Esparza, Mariano Soto Caldera, Sergio Gamero Dueñez, María Asención lsidra Martínez Zabala, Francisco Gamboa Herrera, Martha Eugenia Castro González, Hipólito Pasillas Ortiz, Juan Moreno Espinoza, María Isabel Cisneros Torres, Pedro Herrera Favela, Fernando Ulises Adame de León, y Rosauro Meza Sifuentes, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXlV Legislatura, que contiene LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Salud Pública integrada por los CC. Diputados: Lourdes Eulalia Quiñones Canales, Judith lrene Murguía Corral, Dagoberto Limones López, Rodolfo Benito Guerrero García y Pedro Silerio García; Presidente, Secretario y Vocales respectivamente los cuales emitieron su dictamen favorable con base en los siguientes:
+Con fecha 14 de junio de 2010 los CC. Diputados Omar José Jiménez Herrera, Jorge Herrera Delgado, Francisco Ávila Cabada, Ernesto Abel Alanis Herrera, Rodrigo Victorino Esparza, Mariano Soto Caldera, Sergio Gamero Dueñez, María Asención Isidra Martínez Zabala, Francisco Gamboa Herrera, Martha Eugenia Castro González, Hipólito Pasillas Ortiz, Juan Moreno Espinoza, María Isabel Cisneros Torres, Pedro Herrera Favela, Fernando Ulises Adame de León, y Rosauro Meza Sifuentes, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXIV Legislatura, que contiene LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Salud Pública integrada por los CC. Diputados: Lourdes Eulalia Quiñones Canales, Judith Irene Murguía Corral, Dagoberto Limones López, Rodolfo Benito Guerrero García y Pedro Silerio García; Presidente, Secretario y Vocales respectivamente los cuales emitieron su dictamen favorable con base en los siguientes:
 
 CONSIDERANDOS.
 
@@ -69,9 +69,17 @@ IX. Establecer los principios, procedimientos y criterios para la creación, for
 
 X. Promover la participación social como un factor de corresponsabilidad en la prevención y reducción del consumo de sustancias psicoactivas, para eliminar la discriminación hacia las personas con consumo de dichas sustancias, favoreciendo el libre desarrollo de su personalidad y ejercicio de sus derechos;
 
-XI. Fomentar el financiamiento público y privado para el diseño y aplicación de políticas públicas de atención integral del consumo de sustancias psicoactivas; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
-XII. Implementar mecanismos para coadyuvar con las autoridades federales competentes en la vigilancia y supervisión de los establecimientos especializados en adicciones.
+XI. Fomentar el financiamiento público y privado para el diseño y aplicación de políticas públicas de atención integral del consumo de sustancias psicoactivas;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XII. Implementar mecanismos para coadyuvar con las autoridades federales competentes en la vigilancia y supervisión de los establecimientos especializados en adicciones, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Establecer medidas tendentes a la prevención y atención de los problemas de salud pública causados por las adicciones.
 
 ###### ARTÍCULO 2.
 
@@ -95,7 +103,9 @@ VIII. Coordinador: El Coordinador General de un Centro, quien fungirá como su r
 
 IX. Droga: Cualquier sustancia natural o artificial que, introducida dentro del organismo humano, pueda modificar una o más funciones de la persona, la percepción de la realidad así como su capacidad volitiva y sea capaz de generar adicción o dependencia e implique efectos nocivos para la salud y el bienestar individual o social;
 
-X. Grupo de alto riesgo: es aquél en el que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales de vulnerabilidad social, tiene mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas, tales como niñas, niños y adolescentes, menores en situación de calle, madres adolescentes, entre otros;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+X. Grupo de alto riesgo: es aquél en el que se ha demostrado, a través de diversas investigaciones y estudios, que, por sus características biopsicosociales y de vulnerabilidad social, tiene mayor probabilidad de uso, abuso o dependencia a sustancias psicoactivas, tales como niñas, niños y adolescentes, menores de edad en situación de calle, madres adolescentes, entre otros;
 
 XI. Ley: Ley de Prevención y Asistencia para la Atención de las Adicciones del Estado de Durango;
 
@@ -109,7 +119,9 @@ XV. Prevención: Conjunto de actuaciones dirigidas a eliminar o modificar los fa
 
 XVI. Prevención indicada: Es el conjunto de acciones dirigidas a grupos de población que han experimentado con drogas psicoactivas y presentan conductas problemáticas relacionadas con el abuso de sustancias psicoactivas por lo que requieren de intervenciones especificas para disminuir o dejar de consumirlas;
 
-XVII. Prevención selectiva: Es el conjunto de actividades dirigidas a la población con un alto riesgo para el abuso de sustancias psicoactivas, por lo que requieren acciones adecuadas a su situación, tales como hijos de alcohólicos, reclusos, menores infractores, víctimas de violencia doméstica y abuso sexual, niños con problemas de aprendizaje y/o de conducta, etc. Estos grupos se asocian, al consumo de drogas ya que se han identificado factores biológicos, psicológicos, sociales y ambientales que sustentan la vulnerabilidad. Asimismo, se coadyuva a la atención a grupos específicos de niños en situación de calle, indígenas y adultos mayores;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Prevención selectiva: Es el conjunto de actividades dirigidas a la población con un alto riesgo para el abuso de sustancias psicoactivas, por lo que requieren acciones adecuadas a su situación, tales como hijos de alcohólicos, reclusos, menores de edad que hayan realizado una conducta prevista como delito en la ley penal, víctimas de violencia doméstica y abuso sexual, niñas, niños y adolescentes con problemas de aprendizaje y/o de conducta, etc. Estos grupos se asocian, al consumo de drogas ya que se han identificado factores biológicos, psicológicos, sociales y ambientales que sustentan la vulnerabilidad. Asimismo, se coadyuva a la atención a grupos específicos de niños en situación de calle, indígenas y adultos mayores;
 
 XVIII. Prevención universal: Es el conjunto de acciones dirigidas a la población en general, que buscan retrasar o evitar el inicio en el consumo de sustancias psicoactivas y se lleva a cabo mediante la promoción de la salud para crear conocimiento y orientar sobre la problemática del consumo de sustancias y las formas de prevención;
 
@@ -131,9 +143,17 @@ e. Reducción de daños: Estrategias de intervención dirigidas a disminuir los 
 
 f. Rehabilitación: Es la fase de la atención terapéutica que se orienta a la recuperación o al aprendizaje de estrategias y comportamientos que permitan o faciliten la incorporación y convivencia social.
 
-XXII. Incorporación social: Proceso de inserción o reinserción de la persona que padece una farmacodependencia u otra adicción, en el medio familiar, social, educativo y laboral con unas condiciones que le permitan llevar una vida autónoma y responsable en igualdad de condiciones que el resto de ciudadanos; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
-XXIII. Usuario: Es toda aquella persona que requiera y obtenga la prestación de cualquier tipo de servicio relacionado con el uso, abuso o dependencia de sustancias psicotrópicas. Al hacer mención en esta Norma a la palabra usuario, se entenderá a sujetos tanto de sexo femenino como masculino.
+XXII. Incorporación social: Proceso de inserción o reinserción de la persona que padece una farmacodependencia u otra adicción, en el medio familiar, social, educativo y laboral con unas condiciones que le permitan llevar una vida autónoma y responsable en igualdad de condiciones que el resto de ciudadanos;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XXIII. Usuario: Es toda aquella persona que requiera y obtenga la prestación de cualquier tipo de servicio relacionado con el uso, abuso o dependencia de sustancias psicotrópicas. Al hacer mención en esta Norma a la palabra usuario, se entenderá a sujetos tanto de sexo femenino como masculino; y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, dependiente del Sistema Estatal para el Desarrollo Integral de la Familia;
 
 ###### ARTÍCULO 3.
 
@@ -271,13 +291,15 @@ XIII. Los demás que establezca la presente Ley y la normatividad aplicable.
 
 Los Centros de Atención a las Personas con Adicciones, dispondrán de información accesible sobre los derechos de los pacientes y de hojas de reclamación y sugerencias, además de medios para informar al público y para atender sus reclamaciones.
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 13.
 
-El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, intervendrán en favor de los menores, de manera específica, en los casos de indefensión, malos tratos o violencia producidos por la vinculación parental o tutorial del menor con personas con problemas de adicciones.
+El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, intervendrán en favor de las niñas, niños y adolescentes, de manera específica, en los casos de indefensión, malos tratos o violencia producidos por la vinculación parental o tutorial del menor con personas con problemas de adicciones.
 
-Conforme a lo previsto en el párrafo anterior, los centros y servicios autorizados tienen la obligación de notificar al Ministerio Público que corresponda y a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, cualquier situación de indefensión, malos tratos o violencia que les afecte y puedan conocer en el curso de un tratamiento. En cualquier caso, ante un posible conflicto de intereses, prevalece el interés del menor.
+Conforme a lo previsto en el párrafo anterior, los centros y servicios autorizados tienen la obligación de notificar al Ministerio Público que corresponda y a la Procuraduría de Protección, cualquier situación de indefensión, malos tratos o violencia que les afecte y puedan conocer en el curso de un tratamiento. En cualquier caso, ante un posible conflicto de intereses, prevalece el interés superior de la niñez.
 
-Los establecimientos de salud y las autoridades estatales y municipales competentes en materia de protección reforzada, tienen la obligación de proporcionar la información relativa a aquellos casos de intoxicación por cualquier tipo de drogas relacionadas con menores de 18 años.
+Los establecimientos de salud y las autoridades estatales y municipales competentes en materia de protección reforzada, tienen la obligación de proporcionar la información relativa a aquéllos casos de intoxicación por cualquier tipo de drogas relacionadas con niñas, niños y adolescentes.
 
 ###### ARTÍCULO 14.
 
@@ -371,15 +393,21 @@ La Secretaría podrá celebrar convenios de colaboración con instituciones y or
 
 La Secretaría, a través del área correspondiente, será la responsable de autorizar o en su caso cancelar, la creación de los centros de atención previa (sic) cumplimiento y observancia de los requisitos establecidos en el reglamento respectivo, así como inspeccionar las áreas físicas de los centros de tratamiento y verificar la implementación de los programas de tratamiento, supervisando la rehabilitación de los adictos.
 
-###### ARTÍCULO 26.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
-La Secretaria apoyará la creación y funcionamiento de Centros en la prestación de servicios de prevención, tratamiento y rehabilitación a menores de edad con problemas de adicción, en los cuales no será aplicable el régimen de internación y permanencia voluntaria.
+###### ARTICULO 26.
+
+La Secretaría apoyará la creación y funcionamiento de Centros para la prestación de servicios de prevención, tratamiento y rehabilitación, especializados a niñas, niños y adolescentes con problemas de adicción, en los cuales no será aplicable el régimen de internación y permanencia voluntaria.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+La Secretaría fomentará la investigación y la implementación de nuevas técnicas y programas terapéuticos y de inserción que puedan contribuir a la mejora de la eficacia y la eficiencia de los Centros.
 
 ###### ARTÍCULO 27.
 
 Los Centros tendrán las siguientes obligaciones:
 
-l. Contar con autorización de funcionamiento de la Secretaría;
+I. Contar con autorización de funcionamiento de la Secretaría;
 
 II. Contar con personal técnico calificado en las áreas de salud, social, psicológica, laboral, y en su caso educativa, según se defina en el reglamento correspondiente, conforme al tipo de centro de que se trate;
 
@@ -395,7 +423,9 @@ VII. Poner a disposición de la Secretaría, de los interesados y por escrito lo
 
 VIII. Garantizar que el ingreso y la permanencia del usuario en el Centro sea estrictamente voluntaria, salvo el caso de mandato judicial, el de Centros Especializados en menores de edad y los demás a que se refiere esta ley;
 
-IX. Llevar un control de ingreso, reingreso y salida de los usuarios, el cual deberá estar a disposición de los familiares de los usuarios, en los términos que determine el reglamento correspondiente;
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+IX. Garantizar que el ingreso y la permanencia del usuario en el Centro sea estrictamente voluntaria, salvo el caso de mandato judicial, el de Centros Especializados en niñas, niños y adolescentes y los demás a que se refiere esta ley;
 
 X. Basar el tratamiento o rehabilitación en un enfoque multidisciplinario que incluya, según sea necesario, exámenes de laboratorio y gabinete, terapia personal, grupal, familiar y de autoregistro, en su caso, control del síndrome de abstinencia y del periodo de postramiento, ayuda para mantenerse sin consumir droga, atención de enfermedades físicas, así como aquellos mecanismos y tratamientos establecidos por la Secretaría y conforme a la normatividad aplicable; y
 
@@ -405,7 +435,7 @@ XI. Implementar talleres ocupacionales.
 
 Previo al ingreso de personas susceptibles de tratamiento o rehabilitación, el médico o psicólogo asignado por el coordinador, deberá:
 
-l. Efectuar una entrevista personal al usuario, a fin de determinar el grado de afección física y psíquica. Asimismo, procurará entrevistar a miembros de la familia del usuario, para determinar las condiciones de dicho entorno que pudiera estar afectándolo o a la familia misma;
+I. Efectuar una entrevista personal al usuario, a fin de determinar el grado de afección física y psíquica. Asimismo, procurará entrevistar a miembros de la familia del usuario, para determinar las condiciones de dicho entorno que pudiera estar afectándolo o a la familia misma;
 
 II. Realizar una revisión física externa en presencia de un asistente médico, sin que atente contra su integridad, de ser posible, (y) en presencia de un familiar o, en su caso, representante legal, para detectar golpes o heridas que a su juicio requieran la atención médica inmediata e informar a la autoridad competente;
 
@@ -415,7 +445,9 @@ IV. En caso de que alguna persona acuda al Centro con grado severo de intoxicaci
 
 V. Indagar si el usuario tiene algún padecimiento grave, complicaciones físicas, psiquiátricas o enfermedades contagiosas, o se encuentra embarazada, con la finalidad de tomar las previsiones necesarias para su adecuada atención médica;
 
-VI. Si el que pretende ingresar es menor, obtener el consentimiento por escrito de quienes ejerzan la patria potestad, o en su caso, del Ministerio Público; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+VI. Si el que pretende ingresar es una niña, niño o adolescente, obtener el consentimiento por escrito de quienes ejerzan la patria potestad, o en su caso, del Ministerio Público; y
 
 VII. Abstenerse de admitir personas distintas a las que requieran el servicio para el que fue creado.
 
@@ -427,15 +459,19 @@ La Secretaría establecerá una historia clínica unificada para todos los centr
 
 Los hospitales, del sector público o privado, vinculados a través de convenio, dispondrán de una unidad de desintoxicación para personas que padecen alguna adicción y que requieran de este servicio. Para la designación de estos hospitales se atenderá a criterios geográficos, de densidad de población y de existencia de núcleos de riesgo, los que definirán el Programa sobre Adicciones.
 
-### CAPÍTULO VI. DE LOS MENORES Y ADOLESCENTES EN CONFLICTO CON LA LEY POR CONSUMO DE SUSTANCIAS ADICTIVAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO VI. DE LAS NIÑAS, NIÑOS Y ADOLESCENTES EN CONFLICTO CON LA LEY POR CONSUMO DE SUSTANCIAS
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 31.
 
-Se establecerán estrategias especificas para el tratamiento de menores y adolescentes en conflicto con la ley, derivado de la comisión de infracciones relacionados con el consumo de sustancias adictivas, proponiendo mecanismos para que sean reintegrados con el seguimiento correspondiente a través del juzgado respectivo y proponiendo alternativas para que cumplan con las medidas impuestas por dichas conductas.
+Se establecerán estrategias específicas para el tratamiento de niñas, niños y adolescentes en conflicto con la ley, derivado de la comisión de infracciones relacionados (sic) con el consumo de sustancias adictivas, considerando el derecho al debido proceso y estableciendo mecanismos para que sean reintegrados con el seguimiento correspondiente a través del juzgado respectivo y proponiendo alternativas para que cumplan con las medidas impuestas por dichas conductas.
 
-El Consejo coadyuvará en la aplicación de los programas de tratamiento y reintegración a los que hace referencia el presente artículo, proporcionando asistencia, brindado capacitación constante y especializada al personal del juzgado correspondiente en materia de detección, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo de sustancias adictivas a menores y adolescentes en conflicto con la Ley.
+La Comisión coadyuvará en la aplicación de los programas de tratamiento y reintegración a los que hace referencia el presente artículo, proporcionando asistencia, brindado (sic) capacitación constante y especializada al personal del juzgado correspondiente en materia de detección, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo de sustancias adictivas a niñas, niños y adolescentes en conflicto con la Ley.
 
-El Juez de menores infractores, por medio de la autoridad competente y en conocimiento del Consejo podrá en cualquier momento aplicar un examen de detección toxicológica cuando el menor o adolescente haya decidido voluntariamente incorporarse a un tratamiento de atención integral del consumo de sustancias adictivas; asimismo, establecerá colaboración el Consejo Municipal correspondiente, para la aplicación de las acciones de integración comunitaria.
+El Juez de menores infractores, por medio de la autoridad competente y en conocimiento del Consejo podrá en cualquier momento aplicar un examen de detección toxicológica cuando la niña, niño o adolescente haya decidido voluntariamente incorporarse a un tratamiento de atención integral del consumo de sustancias adictivas; asimismo, establecerá colaboración el Consejo Municipal correspondiente, para la aplicación de las acciones de integración comunitaria.
 
 ### CAPÍTULO VII. DE LA INTEGRACIÓN COMUNITARIA
 
@@ -445,9 +481,9 @@ La integración comunitaria tiene por finalidad reintegrar a la persona con cons
 
 ###### Artículo 33.
 
-El Consejo fomentará la participación de Instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, para el desarrollo de acciones de integración comunitaria, los cuales tendrán como objetivos los siguientes:
+El Consejo fomentará la participación de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, para el desarrollo de acciones de integración comunitaria, los cuales tendrán como objetivos los siguientes:
 
-l. Conjuntar recursos, experiencias y conocimientos de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, para emprender acciones de desarrollo social e impulsar la participación ciudadana;
+l. Conjuntar recursos, experiencias y conocimientos de Instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, para emprender acciones de desarrollo social e impulsar la participación ciudadana;
 
 II. Generar redes de apoyo en materia de empleo, salud, apoyo psicológico, recreación, orientación y representación legal, servicios de estancias infantiles y educación con la finalidad de brindar las condiciones necesarias para llevar a cabo un proceso de atención especializada;
 
@@ -676,3 +712,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HECTOR EDUARDO VELA VALENZUELA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 409.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PREVENCIÓN Y ASISTENCIA PARA LA ATENCIÓN DE LAS ADICCIONES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
