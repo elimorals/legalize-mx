@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-migrantes-del-estado-de-durango-63650"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-11"
-last_updated: "2014-12-25"
+last_updated: "2015-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de septiembre de 2008.
 
@@ -49,11 +49,11 @@ LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público e interés social, y tiene por objeto proteger a los emigrantes y sus familias que por razones de carácter económico, educativo y social tienen que abandonar el territorio estatal; y a los inmigrantes que nacidos fuera del territorio estatal, han establecido su residencia en el Estado de Durango.
+Las disposiciones de esta Ley son de orden público e interés social, y tiene por objeto proteger a los emigrantes, y en especial a las niñas, niños y adolescentes con sus familias, que por razones de carácter económico, educativo y social tienen que abandonar el territorio estatal; y a los inmigrantes que nacidos fuera del territorio estatal, han establecido su residencia en el Estado de Durango.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -165,7 +165,9 @@ II. Mejorar las alternativas de desarrollo y la creación de la infraestructura 
 
 III. Coordinarse con las dependencias y entidades federales, estatales y los Ayuntamientos, para la creación y consolidación de oportunidades ocupacionales, la organización y funcionamiento de unidades productivas, cooperativas, integradoras, sociedades de producción y otras organizaciones económicas en las comunidades rurales, que les permitan lograr un mayor aprovechamiento de sus recursos naturales y culturales que generen arraigo y permanencia de los habitantes de las diversas localidades; y
 
-IV. En coordinación con las dependencias, entidades federales y estatales competentes y los Ayuntamientos, proporcionarán servicios sobre orientación y gestión de trámites, en materia de registro civil, derechos humanos, migración y servicio exterior, entre otros.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+IV. En coordinación con las dependencias, entidades federales y estatales competentes y los Ayuntamientos, en la medida de las disposiciones presupuestales, proporcionar a los migrantes asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, en materia de registro civil, migración y servicio exterior, entre otros.
 
 B.
 
@@ -181,23 +183,33 @@ V. Promover la realización de obras públicas con la participación de emigrant
 
 VI. Establecer una línea telefónica gratuita que facilite la gestión de los trámites relativos al apoyo y protección de los emigrantes;
 
-VII. Establecer un portal electrónico que facilite la orientación, protección, apoyo, gestión de trámites y quejas de los emigrantes, así como facilitar la comunicación electrónica, y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
-VIII. Promover el establecimiento de mecanismos que permitan las mejores condiciones en calidad, tiempo y precio en la transferencia de fondos provenientes del extranjero.
+VII. Establecer un portal electrónico que facilite la orientación, protección, apoyo, gestión de trámites y quejas de los emigrantes, así como facilitar la comunicación electrónica;
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Promover el establecimiento de mecanismos que permitan las mejores condiciones en calidad, tiempo y precio en la transferencia de fondos provenientes del extranjero, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+IX. Todas las medidas concernientes a niñas, niños y adolescentes que se tomen, será considerado como primordial, el interés superior de la niñez, elaborando los mecanismos necesarios para garantizar este principio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 11.
 
-La Dirección de Asuntos Internacionales y Atención a Migrantes, deberá atender a los migrantes duranguenses y sus familiares consanguíneos, que pudieran verse afectados por el fenómeno de la migración. Entendiendo, para los efectos de esta Ley, como beneficiarios, a todos aquellos ciudadanos duranguenses que radiquen fuera del territorio nacional por más de tres meses por año, que conserven familia consanguínea hasta el segundo grado en el territorio del Estado, y se encuentren en el extranjero por razones de trabajo.
-
-Las personas que pretendan emigrar del país, además de las obligaciones que establece la legislación federal aplicable, comunicarán, de ser posible, a la Dirección o a los Ayuntamientos, la localidad donde pretenden establecerse, brindando la información que la autoridad estatal o municipal, en su caso, le requieran para fines estadísticos.
+La Dirección de Asuntos Internacionales y Atención a Migrantes, deberá atender a los migrantes duranguenses, procurando el pleno goce, respeto, protección y promoción de los derechos humanos en especial de niñas, niños y adolescentes con sus familias, que pudieran verse afectados por el fenómeno de la migración. Entendiendo, para los efectos de esta Ley, como beneficiarios, a todos aquellos ciudadanos duranguenses que radiquen fuera del territorio nacional por más de tres meses por año, que conserven familia consanguínea hasta el segundo grado en el territorio del Estado, y se encuentren en el extranjero por razones de trabajo.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
+Las personas que pretendan emigrar del país, además de las obligaciones que establece la legislación federal aplicable, comunicarán, de ser posible, a la Dirección o a los Ayuntamientos, la localidad donde pretenden establecerse, brindando la información que la autoridad estatal o municipal, en su caso, le requieran para fines estadísticos.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-Los menores de edad o las personas sujetas a interdicción, para realizar cualquier trámite migratorio, deberán presentarse acompañados por las personas que ejerzan sobre ellos la patria potestad o la tutela, en su caso; o acreditar el permiso concedido al efecto por dichas personas o por autoridad competente.
+Los menores de edad o las personas sujetas a interdicción, para realizar cualquier trámite migratorio, deberán presentarse acompañados por las personas que ejerzan sobre ellos la patria potestad o la tutela, en su caso; o acreditar el permiso concedido al efecto por dichas personas o por autoridad competente, respetando en todo momento los derechos y garantías de seguridad jurídica y el debido proceso de las niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -283,9 +295,21 @@ XXI. Funcionar como órgano de consulta, capacitación y asesoría de los podere
 
 XXII. Promover ante las instancias competentes, la sanción a funcionarios y servidores públicos que abusen, despojen o extorsionen a migrantes; y promover especialmente en las temporadas de mayor afluencia de regreso o visita de migrantes al Estado, programas de difusión de los derechos de los migrantes y de la cultura de la legalidad;
 
-XXIII. Proporcionar atención y protección a migrantes víctimas de delitos; y
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
-XXIII. (SIC) Las demás que resulten necesarias para el cumplimiento de los objetivos de la presente Ley.
+XXIII. Proporcionar atención y protección a migrantes víctimas de delitos;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XXIV. Se habilitaran espacios de alojamiento o albergues con estándares mínimos para dar una atención adecuada a las niñas, niños y adolescentes migrantes, en donde se respetara el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas;
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XXV. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas y programas gubernamentales en materia de respeto, protección y promoción de los derechos de niñas, niños y adolescentes migrantes, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+XXVI. Las demás que resulten necesarias para el cumplimiento de los objetivos de la presente Ley.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -340,6 +364,10 @@ La Dirección implementará programas de carácter permanente, que permitan asis
 ###### ARTÍCULO 25.
 
 La Dirección gestionará que las dependencias del Ejecutivo y los Ayuntamientos, otorguen toda clase de facilidades a los migrantes y sus familias para la obtención y envío de documentos oficiales, de identidad, estudios, propiedad y otros de carácter público que les sean necesarios.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 25 BIS. La Dirección promoverá el goce de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y deberá promover la asignación de recursos en términos de las disposiciones jurídicas aplicables, a fin de dar cumplimiento de la política nacional y estatal en materia de derechos de niñas, niños y adolescentes.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -403,25 +431,45 @@ I. Demostrar la condición de duranguense del beneficiado; y
 
 II. Demostrar que cuenta con un domicilio en el Estado de Durango, en términos de la ley.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 34.
 
-Las autoridades del Estado de Durango brindarán apoyo, en la medida de las disposiciones presupuestales, a los duranguenses localizados temporal o definitivamente en el extranjero que requieran el auxilio de las autoridades, para:
+Las autoridades del Estado de Durango brindaran apoyo, en la medida de las disposiciones presupuestales, a los duranguenses localizados temporal o definitivamente en el extranjero que requieran auxilio de las autoridades, para:
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 I. Ser trasladados a una localidad del Estado en caso de deportación;
 
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+
 II. El traslado de cadáveres de duranguenses fallecidos en el extranjero;
 
-III. Brindar auxilio en caso de situaciones excepcionales; y,
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
 
-IV. El trámite de documentos oficiales.
+III. Brindar auxilio en caso de situaciones excepcionales;
+
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+IV. El trámite de documentos oficiales, y
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+V. Atención en los servicios correspondientes a niñas, niños y adolescentes en situación de migración, respetando todo (sic) y cada uno de sus derechos.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 35.
 
 La solicitud de apoyo o asistencia a un emigrante duranguense podrá ser tramitada por un pariente directo de él o de su cónyuge, por la autoridad consular mexicana o por las autoridades municipales donde se localicen puestos fronterizos, puertos y aeropuertos, donde eventualmente se localice el emigrante.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 35 BIS. Las autoridades competentes, una vez en contacto con la niña, niño o adolescente procurarán adoptar las medidas correspondientes para la protección de sus derechos, se turnará a las autoridades competentes para que se defina su situación, en caso de que se pretenda expulsar, deportar, retornar o remover a una niña, niño o adolescente, cuando su vida, seguridad y/o libertad esté en peligro a causa de persecución o amenaza de la misma, por violencia generalizada o violaciones masivas a los derechos humanos, entre otros, así como donde pueda ser sometido a tortura u otros tratos crueles, inhumanos o degradantes.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 35 BIS 1. El principio del interés superior de la niñez será una consideración primordial que se tomará en cuenta durante el procedimiento administrativo migratorio al que estén sujetos niñas, niños y adolescentes migrantes.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -691,6 +739,18 @@ Si se siguiese un juicio privativo de la libertad en su contra, la Dirección in
 
 Ningún transmigrante o turista puede ser detenido en el territorio estatal por una autoridad estatal o municipal, por la sola presunción de su condición migratoria. Para su identificación, basta la presentación de credencial o identificación oficial de una institución o dependencia oficial nacional o extranjera; pasaporte o matrícula consular.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO X. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 62.
+
+Los servidores públicos del Estado y de los Municipios, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquellas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados a alguna niña, niño o adolescente, serán sujetos a las sanciones administrativas y demás que resulten aplicables en términos de la Ley de responsabilidades de los Servidores Públicos del Estado y de los Municipios, las contempladas por el Código Penal para el Estado de Durango y demás leyes aplicables.
+
+No se considerarán como negación al ejercicio de un derecho, las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a estas o derivadas de un acto legítimo de autoridad
+
 T R A N S I T O R l O S
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
@@ -755,64 +815,6 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE DICIEMBRE DE 2014.
 
-### CAPÍTULO X. DE LOS PLANES Y PROGRAMAS DEL INSTITUTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 20. El Instituto creará programas permanentes a fin de que de manera coordinada con los Ayuntamientos, se fomente una cultura de atención a duranguenses migrantes, por parte de las autoridades estatales y municipales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 21. El Instituto promoverá, en coordinación con las dependencias competentes, la realización de operativos tendientes al buen tránsito de migrantes por el Estado, otorgando en el ámbito de su competencia, asesoría, asistencia y seguridad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 22. El instituto impulsará de manera coordinada con los grupos organizados de duranguenses en el extranjero, la ejecución de acciones de beneficio social y el desarrollo de proyectos productivos en sus lugares de origen, con la finalidad de promover el regreso de los duranguenses residentes en el extranjero a sus localidades, así como brindar atención a sus familiares que permanecen en el Estado, apoyándolos en actividades productivas y sociales.
-
-Las operaciones a que se refiere el presente artículo se ejecutarán en coordinación con las Secretarías y Entidades que de conformidad con la Ley Orgánica de la Administración Pública del Estado, cuenten con las atribuciones necesarias.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 23. El Instituto deberá impulsar la creación, en los Ayuntamientos de los municipios que se consideren generadores de migrantes, de una comisión especial para su atención.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 24. El Instituto, en coordinación con la Fiscalía General del Estado, apoyándose en las embajadas o consulados nacionales, dará seguimiento y en su caso, gestionará ante la instancia competente la asistencia legal a duranguenses que por alguna razón estén siendo sujetos a algún procedimiento jurisdiccional del orden penal fuera de nuestro país.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 25. El Instituto deberá impulsar el establecimiento, en los Ayuntamientos de los municipios que se consideren generadores de migrantes, de líneas telefónicas gratuitas, portales electrónicos que faciliten la atención de los trámites de apoyo y protección de los migrantes, así como para facilitar la comunicación por medios electrónicos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 26. El Instituto implementará programas de carácter permanente, que permitan asistir legal y económicamente a los familiares de migrantes que lo soliciten y que tengan necesidad de transportar cadáveres de éstos hacia el territorio del Estado. Además, deberá brindarle las facilidades necesarias para que se realice el acto en un marco de dignidad y respeto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 12 BIS 27. El Instituto gestionará que las dependencias del Ejecutivo y los Ayuntamientos, otorguen toda clase de facilidades a los migrantes y sus familias para la obtención y envío de documentos oficiales, de identidad, estudios, propiedad y otros de carácter público que les sean necesarios.
-
-(REUBICADO [N. DE E. ANTES CAPÍTULO X], P.O. 6 DE JULIO DE 2014)
-
-###### ARTÍCULO 62.
-
-Las organizaciones de la sociedad civil representantes de emigrantes e inmigrantes, podrán presentar quejas o denuncias en los términos de esta Ley, designando un representante.
-
 ###### ARTÍCULO PRIMERO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
@@ -824,3 +826,15 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 El personal, los recursos y asuntos pendientes que corresponden al Instituto de Atención a Migrantes del Estado de Durango, pasarán a formar parte de la Dirección de Asuntos Internacionales y Atención a Migrantes.
+
+P.O. 15 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 412.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
