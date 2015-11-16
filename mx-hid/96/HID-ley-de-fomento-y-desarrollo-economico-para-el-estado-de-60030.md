@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-07-22"
+last_updated: "2015-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -423,7 +423,7 @@ De igual forma, impulsará la creación de centros de capacitación y orientaci�
 
 ###### Artículo 32.
 
-La promoción de la capacitación productiva, para y (sic) en el trabajo, tendrá por objeto crear las condiciones que favorezcan la participación eficiente de los recursos humanos en las actividades económicas, con el fin de mejorar su competitividad y elevar su empleabilidad y sus ingresos.
+La promoción de la capacitación productiva, para y en el trabajo, tendrá por objeto crear las condiciones que favorezcan la participación eficiente de los recursos humanos en las actividades económicas, con el fin de mejorar su competitividad y elevar su empleabilidad y sus ingresos.
 
 ###### Artículo 33.
 
@@ -647,6 +647,10 @@ I.- El número de nuevos empleos directos a generar;
 
 II.- El monto de las nuevas inversiones productivas, particularmente en las zonas y Municipios de menor desarrollo relativo de la Entidad;
 
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+II Bis.- Contraten preferentemente personas adultas mayores, con discapacidad y/o jóvenes.
+
 III.- La remuneración estimada de los nuevos empleos;
 
 IV.- El monto de la inversión directa;
@@ -796,3 +800,7 @@ P. O. 22 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a esta Ley.
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Hidalgo.
