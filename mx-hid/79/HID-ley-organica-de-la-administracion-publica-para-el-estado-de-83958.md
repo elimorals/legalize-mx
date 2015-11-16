@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2012-07-09"
+last_updated: "2015-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -499,7 +499,7 @@ XXIX.- Fomentar la participación ciudadana en la planeación y evaluación de a
 
 XXX.- Establecer acuerdos de coordinación y colaboración administrativa con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como, con los representantes del sector privado, que propicien el fortalecimiento de las actividades en materia de información estadística y geográfica en la Entidad;
 
-XXXI.- Instrumentar, administrar y coordinar el sistema estatal de monitoreo de programas federales, integrando y operando la red interinstitucional de enlaces en la materia, vinculándose con la Secretaría de Finanzas y Administración para establecer los mecanismos de coordinación pertinentes que permitan incrementar los niveles de eficiencia institucional y el debido aprovechamiento de los recursos que se proporcionan a través de dichos programas, promoviendo la asistencia y facilitación técnica necesarias a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, a efecto de garantizar el debido cumplimiento de los requisitos y procedimientos que establecen sus reglas de operación; y (sic)
+XXXI.- Instrumentar, administrar y coordinar el sistema estatal de monitoreo de programas federales, integrando y operando la red interinstitucional de enlaces en la materia, vinculándose con la Secretaría de Finanzas y Administración para establecer los mecanismos de coordinación pertinentes que permitan incrementar los niveles de eficiencia institucional y el debido aprovechamiento de los recursos que se proporcionan a través de dichos programas, promoviendo la asistencia y facilitación técnica necesarias a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, a efecto de garantizar el debido cumplimiento de los requisitos y procedimientos que establecen sus reglas de operación; y
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
 
@@ -1113,11 +1113,13 @@ XV.- Otorgar a las autoridades administrativas y jurisdiccionales, al Ministerio
 
 XVI.- Prevenir la comisión de delitos y proteger a las personas en sus bienes y derechos;
 
-XVII.- Realizar las detenciones en los casos de flagrante delito, así como ejecutar los mandamientos judiciales y ministeriales emitidos por la autoridad competente con arreglo a la Ley;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XVII.- Realizar las detenciones en los casos de flagrante delito;
 
 XVIII.- Estudiar, proponer, coordinar, ejecutar y vigilar los programas de prevención de delitos y los de readaptación social de infractores de la Ley;
 
-XIX.- Investigar bajo la conducción y mando del Ministerio Público los delitos que sean de su competencia;
+XIX.- (DEROGADA, P.O. 16 DE NOVIEMBRE DE 2015)
 
 XX.- Administrar los centros de reinserción social y el aeropuerto estatal;
 
@@ -1296,3 +1298,19 @@ CUARTO.- Cuando las atribuciones que el presente Decreto confiere a las Dependen
 QUINTO.- La readscripción de personal, en ninguna forma afectarán los derechos laborales que hubieren adquirido con la Administración Pública del Estado. Sin embargo, si de algún modo se estimaren afectados sus derechos, se dará intervención a las Secretarías de Gobierno, de Finanzas y Administración y a la organización sindical correspondiente, para su atención.
 
 SEXTO.- Los asuntos en trámite que deban pasar de una Dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta Ley, permanecerán en el estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Del mismo modo el personal operativo y administrativo, pertenecientes a la Secretaría de Seguridad Pública del Estado de Hidalgo, que fueron comisionados a partir del 18 de noviembre de 2014, pasarán a formar parte de manera permanente de la Procuraduría General de Justicia del Estado de Hidalgo, así como los recursos materiales, financieros y expedientes, que fueron transferidos a la misma, con motivo de la entrada en vigor del Nuevo Sistema de Justicia Penal en el Estado.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, tomará las medidas administrativas y financieras necesarias para la transferencia a que se hace referencia en este Decreto.
+
+TERCERO. Las quejas y denuncias que se encuentren en investigación de la Unidad de Asuntos Internos de la Secretaría de Seguridad Pública del Estado de Hidalgo, deberán concluirse y dar inicio al procedimiento respectivo o, en su caso, determinar el archivo conducente. Los procedimientos de Honor y Justicia y del Servicio Profesional de Carrera Policial, que se encuentren en instrucción o pendientes de resolución, antes de la fecha en que entre en vigor el presente Decreto, pasarán a ser competencia de la Procuraduría General de Justicia del Estado de Hidalgo, en términos de lo que establezca la normatividad aplicable.
+
+CUARTO. Todos los asuntos de la Coordinación de Investigación que se encuentren en trámite, pasarán a la competencia de la Procuraduría General de Justicia del Estado de Hidalgo, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+QUINTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2007.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
