@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2014-12-29"
+last_updated: "2015-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DE LAS CERO HORAS DEL DÍA 18 DE NOVIEMBRE DE 2014, CONFORME AL DECRETO NÚMERO 208, PROMULGADO POR EL TITULAR DEL PODER EJECUTIVO DEL ESTADO, DE FECHA 22 DE AGOSTO DE 2014.</small>
-
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -43,7 +39,7 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 D E C R E T A:
 
-A N T E C E D E N T E
+A N T E C E D E N T E...
 
 ÚNICO. En sesión ordinaria del 30 de octubre del presente año y por instrucciones de la Presidenta de la Directiva del Congreso, nos fue turnada a esta Comisión que suscribe, la iniciativa mencionada, misma que fue registrada en el Libro de Gobierno de la Comisión, con el número CSCJ/36/2014;
 
@@ -87,7 +83,9 @@ III. Reglamento: Al Reglamento de la Ley Orgánica del Ministerio Público.
 
 IV. Código: Al Código Nacional de Procedimientos Penales.
 
-V. Ley: A la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado de Hidalgo.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+V. Ley Nacional: A la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
 
 ###### ARTÍCULO 4.
 
@@ -97,7 +95,7 @@ El Ministerio Público tiene a su cargo ejercer la representación y defensa de 
 
 Son funciones del Ministerio Público:
 
-Son funciones del Ministerio Público:
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
 I. Ejercer la conducción y mando de la investigación de los hechos posiblemente constitutivos de delito.
 
@@ -105,7 +103,9 @@ II. Recabar, por sí o por intermedio de las policías, los antecedentes y eleme
 
 III. Ejercer la acción penal en la forma establecida por la legislación aplicable.
 
-IV. Promover la solución de los conflictos surgidos como consecuencia de los hechos que la ley señala como delito, a través de la mediación, conciliación y otros mecanismos de negociación entre la víctima u ofendido y el imputado, en los casos autorizados por la Ley; y en su caso, aprobar los acuerdos que resulten procedentes de acuerdo a las disposiciones aplicables.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+IV. Promover la solución de controversias que surjan entre los miembros de la sociedad con motivo de la denuncia o querella referidos a un hecho delictivo, a través de la mediación, la conciliación y la junta restaurativa entre la víctima u ofendido y el imputado, en los casos autorizados por la Ley Nacional; y en su caso, aprobar los acuerdos reparatorios que resulten procedentes, de conformidad con las disposiciones aplicables;
 
 V. Aplicar los criterios de oportunidad en los supuestos previstos por el Código, basándose en razones objetivas y pautas generales de actuación, que se emitan en materia de procuración de justicia.
 
@@ -183,11 +183,21 @@ VIII. Agencias del Ministerio Público;
 
 IX. Agencias del Ministerio Público Especializadas en Justicia para Adolescentes;
 
-X. Servicios Periciales; y
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
-XI. Centro de Justicia Restaurativa Penal; y
+X. Servicios Periciales;
 
-XII. Centro de Atención Temprana.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XI. Centro de Justicia Restaurativa Penal;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XII. Centro de Atención Temprana; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Dirección General de la Policía Investigadora.
 
 ###### ARTÍCULO 12.
 
@@ -317,7 +327,7 @@ Los Subprocuradores y el Visitador General, así como los titulares de los órga
 
 ###### ARTÍCULO 21.
 
-Los Subprocuradores y el Visitador General, así como los titulares de las unidades u órganos a que se refiere el artículo 11 de esta Ley y de los que señale el Reglamento, serán nombrados y removidos libremente por el Procurador, a excepción del Subprocurador de Asuntos Electorales, de los agentes del Ministerio Público y de los Peritos.
+(DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
 
 ###### ARTÍCULO 22.
 
@@ -391,13 +401,45 @@ b) Tener título legalmente expedido y registrado por la autoridad competente qu
 
 II. Para permanecer, deberá satisfacer los requisitos a que se refiere la fracción II del Artículo anterior.
 
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 24 BIS. Para ingresar y permanecer como Facilitador del Centro de Justicia Restaurativa Penal de carrera se requiere:
+
+I. Para el ingreso:
+
+a) Cumplir con los requisitos que señalan los incisos a), b), f), h), i), j), k) de la fracción I del artículo 23 de esta Ley, y
+
+b) Poseer grado de licenciatura afín a las labores a desarrollar y contar con cédula profesional expedida por institución legalmente facultada para ello, con registro federal;
+
+c) Acreditar el examen de evaluación inicial para el ingreso al proceso de certificación que establece la Ley Nacional; y
+
+d) Los demás requisitos que establezca la Ley Nacional y otras disposiciones que resulten aplicables.
+
+II. Para la permanencia:
+
+a) Renovar su certificación conforme a la Ley Nacional;
+
+b) Acreditar los programas de actualización y profesionalización que establezca la Ley Nacional y otras disposiciones aplicables;
+
+c) Aprobar los procesos de evaluación de control de confianza y de evaluación del desempeño. Tales procesos serán permanentes, periódicos y obligatorios de acuerdo a lo que establezca el Reglamento, la Ley Nacional y demás disposiciones aplicables; y
+
+d) Los demás requisitos que establezca la Ley Nacional y otras disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 24 TER. Para ingresar y permanecer como Agente de la Policía Investigadora se requiere cumplir con los requisitos establecidos en el artículo 71 de la Ley de Seguridad Pública para el Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 25.
 
-Previo al ingreso como agente del Ministerio Público o perito, será obligatorio que la Procuraduría consulte los requisitos y antecedentes de la persona respectiva en el Registro Nacional del Personal de Seguridad Pública, en los términos previstos en las disposiciones legales aplicables.
+Previo al ingreso como agente del Ministerio Público, Perito, Facilitador o Agente de la Policía Investigadora, será obligatorio que la Procuraduría consulte los requisitos y antecedentes de la persona respectiva en el Registro Nacional del personal de Seguridad Pública, en los términos previstos en las disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 26.
 
-Los agentes del Ministerio Público y peritos, serán nombrados y removidos de conformidad con el Capítulo V de esta Ley y demás disposiciones aplicables.
+Los Agentes del Ministerio Público, Peritos, Facilitadores y Agentes de la Policía Investigadora, serán nombrados y removidos de conformidad con el Capítulo V de esta Ley y demás disposiciones aplicables.
 
 Los demás funcionarios y servidores públicos de la Procuraduría, distintos a los que la Ley les establece un régimen especial, serán nombrados y removidos en términos de lo que disponga el respectivo reglamento y de conformidad con la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados, para el Estado de Hidalgo.
 
@@ -407,9 +449,11 @@ Los servidores públicos de la Procuraduría serán suplidos en sus ausencias en
 
 ### CAPÍTULO V. SERVICIO DE CARRERA DE PROCURACIÓN DE JUSTICIA
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 28.
 
-El servicio de carrera de procuración de justicia comprende lo relativo a los agentes del Ministerio Público y a los peritos.
+El servicio de carrera de procuración de justicia comprende lo relativo a los Agentes del Ministerio Público, los Peritos, Facilitadores y Agentes de la Policía Investigadora.
 
 ###### ARTÍCULO 29.
 
@@ -585,9 +629,11 @@ X. Incumplir cualquiera de las obligaciones a que se refiere el siguiente Artíc
 
 XI. Las demás que establezcan otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 45.
 
-Son obligaciones de los agentes del Ministerio Público, y de los peritos, para salvaguardar la legalidad, eficiencia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos en el desempeño de su función, las siguientes:
+Son obligaciones de los Agentes del Ministerio Público, Peritos, Facilitadores y Agentes de la Policía Investigadora, para salvaguardar la legalidad, eficiencia, profesionalismo, honradez, lealtad, imparcialidad y de respeto a los derechos humanos en el desempeño de su función, las siguientes:
 
 I. Conducirse siempre con apego al orden jurídico y respeto a los derechos humanos;
 
@@ -623,9 +669,11 @@ XVI. Abstenerse de asistir o presentarse a su servicio bajo el influjo de sustan
 
 XVII. Las demás que se establezcan en las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 46.
 
-Los agentes del Ministerio Público y peritos no podrán:
+Los Agentes del Ministerio Público, Peritos, Facilitadores y Agentes de la Policía Investigadora no podrán:
 
 I. Desempeñar empleo, cargo o comisión en la Administración Pública Federal, en los Gobiernos del Distrito Federal o de los Estados integrantes de la Federación y en los Municipios, así como trabajos o servicios en instituciones privadas, siempre y cuando no sean incompatibles con sus funciones en la misma, salvo los de carácter docente y aquellos que autorice la institución;
 
@@ -669,9 +717,11 @@ V. El plazo entre la presentación de la queja o denuncia, hasta el momento de l
 
 Contra la resolución definitiva de la Contraloría Interna no procederá recurso administrativo alguno.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 50.
 
-Cuando la autoridad jurisdiccional resolviere que la remoción o cualquier otra forma de terminación del servicio de los agentes del Ministerio Público o peritos fue injustificada, éstos sólo tendrán derecho a recibir el pago de la indemnización que corresponda, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+Cuando la autoridad jurisdiccional resolviere que la remoción o cualquier otra forma de terminación del servicio de los Agentes del Ministerio Público, Peritos, Facilitadores y Agentes de la Policía Investigadora fue injustificada, éstos sólo tendrán derecho a recibir el pago de la indemnización que corresponda, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
 ### CAPÍTULO VIII. DE LAS EXCUSAS Y RECUSACIONES
 
@@ -700,3 +750,21 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Del mismo modo el personal operativo y administrativo, pertenecientes a la Secretaría de Seguridad Pública del Estado de Hidalgo, que fueron comisionados a partir del 18 de noviembre de 2014, pasarán a formar parte de manera permanente de la Procuraduría General de Justicia del Estado de Hidalgo, así como los recursos materiales, financieros y expedientes, que fueron transferidos a la misma, con motivo de la entrada en vigor del Nuevo Sistema de Justicia Penal en el Estado.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, tomará las medidas administrativas y financieras necesarias para la transferencia a que se hace referencia en este Decreto.
+
+TERCERO. Las quejas y denuncias que se encuentren en investigación de la Unidad de Asuntos Internos de la Secretaría de Seguridad Pública del Estado de Hidalgo, deberán concluirse y dar inicio al procedimiento respectivo o, en su caso, determinar el archivo conducente. Los procedimientos de Honor y Justicia y del Servicio Profesional de Carrera Policial, que se encuentren en instrucción o pendientes de resolución, antes de la fecha en que entre en vigor el presente Decreto, pasarán a ser competencia de la Procuraduría General de Justicia del Estado de Hidalgo, en términos de lo que establezca la normatividad aplicable.
+
+CUARTO. Todos los asuntos de la Coordinación de Investigación que se encuentren en trámite, pasarán a la competencia de la Procuraduría General de Justicia del Estado de Hidalgo, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+QUINTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2007.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
