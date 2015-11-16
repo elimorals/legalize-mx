@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-transito-del-municipio-de-aguascalientes-64410"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-10"
-last_updated: "2012-08-13"
+last_updated: "2015-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de noviembre de 2008.
 
@@ -47,7 +47,7 @@ REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE AGUASCALIENTES
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
 
-###### Articulo 1°.
+###### Artículo 1°.
 
 El presente Reglamento tiene por objeto establecer las normas a que están sujetos el tránsito peatonal y vehicular dentro de la circunscripción territorial del Municipio de Aguascalientes, así como establecer los derechos, obligaciones y restricciones de los peatones, y conductores de vehículos en la vía pública; además de la aplicación de las sanciones que correspondan por infracciones al mismo.
 
@@ -125,7 +125,7 @@ XIII. Director: El Director de Tránsito y Movilidad de la Secretaría de Seguri
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2012)</small>
 
-XIV Dispositivos para el control del tránsito: Las señales, marcas, semáforos y cualquier otro mecanismo o instrumento electrónico, fotográfico o de video que se coloca en la vía pública para prevenir, regular y ordenar a los usuarios de la misma, así como para verificar el cumplimiento de las Leyes, el Código Municipal de Aguascalientes, el presente Reglamento y demás disposiciones legales aplicables, y en su caso, imponer las sanciones previstas en los mismos.
+XIV. Dispositivos para el control del tránsito: Las señales, marcas, semáforos y cualquier otro mecanismo o instrumento electrónico, fotográfico o de video que se coloca en la vía pública para prevenir, regular y ordenar a los usuarios de la misma, así como para verificar el cumplimiento de las Leyes, el Código Municipal de Aguascalientes, el presente Reglamento y demás disposiciones legales aplicables, y en su caso, imponer las sanciones previstas en los mismos.
 
 XV. Estado de ebriedad: Condición física y mental ocasionada por la ingesta de alcohol etílico que se presenta en una persona cuando su organismo contiene una cantidad de alcohol en la sangre superior a 0.8 gramos por litro o en aire espirado superior a 0.4 miligramos por litro;
 
@@ -241,7 +241,11 @@ IX. Hacer cambios y ajustes a la vialidad, de acuerdo a las circunstancias imper
 
 X. Instalar, de manera temporal o permanente, y hacer uso en la vía pública de diversos dispositivos electrónicos para la verificación del cumplimiento de las normas de este Reglamento, así como la aplicación de sanciones por infracción a las mismas;
 
-XI. Mantener un registro general de las infracciones de tránsito que se hayan cometido en todas sus variantes y, de forma exclusiva, las sancionadas por conducir a exceso de velocidad, en estado de ebriedad o en estado de ineptitud para conducir, así como la retención de las licencias para conducir. Al respecto, se informará a la autoridad competente para expedir licencias;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XI. Mantener un registro general de las infracciones de tránsito que se hayan cometido en todas sus variantes y, de forma exclusiva, las sancionadas por conducir a exceso de velocidad, en estado de ebriedad, en estado de ineptitud o utilizando el celular en vía pública, así como de las sanciones de retención y suspensión de las licencias para conducir. Al respecto, se informará a la autoridad competente para expedir licencias;
 
 XII. Realizar campañas de difusión para concientizar a la población sobre los riesgos que se presentan al manejar en estado de ebriedad, bajo el consumo de estupefacientes o en estado de ineptitud para conducir, así como de las infracciones y sanciones aplicables por la violación a las disposiciones del presente Reglamento;
 
@@ -261,7 +265,11 @@ Para el ejercicio de las atribuciones señaladas en el presente artículo, el Se
 
 El Director tendrá las siguientes facultades:
 
-I. Proponer al Presidente Municipal las medidas administrativas necesarias para el eficaz funcionamiento de la Dirección;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+I. Proponer al Presidente Municipal las medidas administrativas necesarias para el eficaz funcionamiento de la Dirección; así como la creación de unidades y/o grupos especializados en la prevención y calificación de hechos de tránsito terrestre;
 
 II. Llevar el archivo de la Dirección;
 
@@ -731,7 +739,23 @@ I. Conducir bajo los efectos de bebidas alcohólicas o estupefacientes que pueda
 
 II. Entorpecer la circulación de otros vehículos al detener o estacionar la unidad en doble fila;
 
-III. Sostener en brazos a menores de edad o mascotas, maquillarse o utilizar teléfonos celulares sin el aditamento de manos libres o de audífonos y que éstos se utilicen con un solo auricular cuando se conduce, distraerse por el uso o manipulación de equipos de audio o video, así como cualquier otra acción u objeto que reduzca su campo de visión, audición y libre movimiento, con excepción de los vehículos de seguridad pública;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+III. Estando el vehículo en movimiento en vía pública:
+
+a) Sostener en brazos a algún menor de edad o mascota;
+
+b) Maquillarse;
+
+c) Utilizar teléfono celular sin el aditamento de manos libres, o utilizarlo obstruyendo ambos oídos;
+
+d) Distraerse por el uso o manipulación de equipos de audio, video o documentos impresos;
+
+e) Realizar cualquier otra acción que reduzca su campo de visión, o
+
+f) Colocar objetos que reduzcan su campo de visión.
 
 IV. Transportar niños menores de diez años en el asiento del copiloto, debiendo ubicarlos en los asientos traseros y en sillas especiales cuando se trate de menores de cinco años;
 
@@ -767,9 +791,13 @@ XVIII. Intentar ofrecer alguna cantidad de dinero o cualquier tipo de favor a al
 
 XIX. Las demás que se establezcan en el presente Reglamento.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 46.
 
-Los conductores de vehículos oficiales, militares, de emergencia y de seguridad pública podrán dejar de atender las normas de circulación que establece el presente Reglamento, siempre que tomen las precauciones debidas para evitar un accidente y se encuentren en servicio de acuerdo a su función.
+Los conductores de vehículos oficiales, militares, de emergencia y de seguridad pública, podrán dejar de atender las normas de circulación previstas en las fracciones II, III, incisos a), e) y f), IV, VI, X, XII, XIII, XIV, XV, XVI y XVII, del artículo anterior, siempre que tomen las precauciones debidas para evitar un accidente y se encuentren en servicio de acuerdo a su función; en caso de la fracción V del artículo anterior, únicamente aplicará la excepción en situación de emergencia.
 
 Para efectos del párrafo anterior, los vehículos oficiales deberán prestar un servicio público, tales como recolección y traslado de basura, alumbrado público, parques y jardines o cualquier otro análogo. Los conductores de este tipo de vehículos del Municipio deberán abstenerse de hacer uso de esta prerrogativa para beneficio personal, so pena de incurrir en una responsabilidad de carácter administrativo.
 
@@ -999,7 +1027,17 @@ IX. En el caso de transportes públicos de pasajeros colectivo, deberán circula
 
 X. Circular por el carril de la extrema derecha, exceptuando a los taxis y vehículos de alquiler; y
 
-XI. Las demás que se establezcan en el presente Reglamento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XI. Utilizar, estando el vehículo en movimiento, el teléfono celular, o
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XII. Las demás que se establezcan en el presente Reglamento.
 
 ###### Artículo 61.
 
@@ -1049,6 +1087,12 @@ VII. Realizar maniobras de carga y descarga sin afectar o interrumpir el tránsi
 
 VIII. Abstenerse de llevar a bordo del vehículo personas ajenas a su operación.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+IX. Abstenerse de utilizar, estando el vehículo en movimiento, el teléfono celular.
+
 ###### Artículo 65.
 
 Además de las obligaciones contenidas en el artículo que antecede, los conductores de vehículos que transporten sustancias tóxicas o peligrosas deben:
@@ -1076,6 +1120,12 @@ II. Arrojar al piso o descargar en las vialidades cualquier tipo de sustancias t
 III. Estacionar los vehículos en la vía pública o en la proximidad de una fuente de riesgo, independientemente de la observancia de las condiciones y restricciones impuestas por las autoridades federales y estatales en materia ambiental y de transporte; y
 
 IV. Realizar maniobras de carga y descarga en lugares inseguros y no destinados para tal fin.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+V. Utilizar, estando el vehículo en movimiento, el teléfono celular.
 
 ###### Artículo 68.
 
@@ -1529,7 +1579,11 @@ V. El integrante operativo entregará un ejemplar del comprobante de los resulta
 
 VI. Una vez remitido ante el Juez Municipal, éste decretará las medidas de seguridad pertinentes, de acuerdo al grado de ebriedad del infractor, ordenando el traslado del infractor a un lugar habilitado para la estancia y observación de éste, hasta que se encuentre en condiciones aptas para ejercer su garantía de audiencia. Dichas medidas tienen como objeto resguardar la integridad física de la población en general, así como la del infractor. Para lo anterior, se estará a lo dispuesto por el artículo 321 del Código Municipal de Aguascalientes;
 
-VII. En ese mismo acto, el Juez Municipal deberá calificar la infracción y determinar, en cantidad líquida, la multa que corresponda, mediante resolución por escrito que cumpla con los requisitos del artículo 1508 del Código Municipal de Aguascalientes, notificándose personalmente dicha resolución al infractor, siéndole requerido el pago inmediato de la misma, pudiendo éste pagarla ante el funcionario que así faculte la Secretaría de Finanzas Públicas Municipales, dentro de las propias instalaciones de la Dirección de Justicia Municipal. De no hacerlo, se le conmutará dicha multa por arresto.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+VII. En ese mismo acto, el Juez Municipal deberá calificar la infracción y determinar, en cantidad líquida, la multa que corresponda, mediante resolución por escrito que cumpla con los requisitos del artículo 1508 del Código Municipal de Aguascalientes, notificándose personalmente dicha resolución al infractor, y haciéndolo conocedor, en su caso, del periodo por el que se le suspende la licencia de conducir. En caso de que proceda la multa, le se será requerido el pago inmediato de la misma, pudiendo éste pagarla ante el funcionario que así faculte la Secretaría de Finanzas Públicas Municipales, dentro de las propias instalaciones de la Dirección de Justicia Municipal. De no hacerlo, se le conmutará dicha multa por arresto.
 
 En ningún caso, la sanción de arresto excederá las treinta y seis horas. La multa o, en su caso, el arresto podrán ser conmutados por servicio comunitario, en los términos del Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
 
@@ -1625,6 +1679,18 @@ e) Estacionarse en lugar cuya guarnición esté pintada de amarillo o rojo, exis
 
 f) Intentar ofrecer alguna cantidad de dinero o cualquier tipo de favor a algún integrante operativo, a efecto de no ser infraccionado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+g) Conducir y utilizar el celular sin dispositivo manos libres en un vehículo en movimiento,
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+h) Conducir y utilizar el celular respecto de los conductores de los vehículos descritos en los incisos a), b), c), f) y g), de la fracción I, del artículo 10 del presente Reglamento, cuando el vehículo esté en movimiento.
+
 El infractor podrá inconformarse dentro de los cinco días hábiles siguientes a la notificación de la multa, mediante recurso de revisión, ante la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en los términos del capítulo vigésimo cuarto del presente Reglamento.
 
 En ese mismo término, el infractor, en su caso, deberá probar su calidad de jornalero, obrero o trabajador para que se proceda a la determinación de la multa de conformidad con el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 127 del presente Reglamento y demás disposiciones aplicables.
@@ -1709,11 +1775,13 @@ Queda prohibido que cualquier integrante operativo acepte alguna cantidad de din
 
 Todos los integrantes operativos deberán acatar las disposiciones establecidas en el presente Reglamento, así como las normas de actuación contenidas en el Código Municipal de Aguascalientes y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 115.
 
-En el ejercicio de sus funciones, el integrante operativo podrá hacer uso de cualquier dispositivo electrónico, tales como el alcoholímetro, el radar de velocidad y el sonómetro, entre otros.
+En el ejercicio de sus funciones, el integrante operativo hará uso de cualquier dispositivo electrónico, tales como el alcoholímetro, la base de datos de licencias suspendidas, los radares de velocidad, el sonómetro, el celular, entre otros,
 
 ###### Artículo 116.
 
@@ -2209,7 +2277,21 @@ C) El conductor de cualquier tipo de vehículo cometerá una falta grave cuando:
 
 32. No obedezca las indicaciones de los integrantes operativos;
 
-33. Sostenga en brazos a menores de edad o mascotas, se maquille o utilice teléfonos celulares sin el aditamento de manos libres o de audífonos y que éstos se utilicen con un solo auricular cuando se conduce, o se distraiga por el uso o manipulación de equipos de audio o video, así como cualquier otra acción u objeto que reduzca su campo de visión, audición y libre movimiento;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+33. Estando el vehículo en movimiento en vía pública:
+
+a) Sostenga en brazos a algún menor de edad o mascota;
+
+b) Se maquille;
+
+c) Se distraiga por el uso o manipulación de equipos de audio, video o documentos impresos;
+
+d) Realice cualquier otra acción que reduzca su campo de visión, audición y libre movimiento, o
+
+e) Coloque objetos que reduzca (sic) la visibilidad
 
 34. Transporte niños menores de diez años en el asiento del copiloto o no los ubique en los asientos traseros y en sillas especiales cuando se trate de menores de cinco años;
 
@@ -2289,9 +2371,67 @@ Las faltas muy graves señaladas en el presente artículo, serán sancionadas co
 
 El conductor de cualquier tipo de vehículo que obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas discapacitadas se hará acreedor a una multa de 20 a 50 días de salario mínimo general vigente en el Estado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 135.
 
-El conductor de cualquier tipo de vehículo que conduzca su vehículo en estado de ebriedad o bajo el efecto de cualquier tipo de estupefacientes, psicotrópicos u otras sustancias tóxicas, se hará acreedor a una multa de 50 a 150 días de salario mínimo general vigente en el Estado.
+El conductor de cualquier tipo de vehículo que conduzca en estado de ebriedad o bajo el efecto de cualquier tipo de estupefacientes, psicotrópicos u otras sustancias tóxicas, se le impondrá una sanción de la manera siguiente:
+
+I.- Primera infracción, multa de 50 a 150 días de salario mínimo general vigente en el Estado;
+
+II.- Primera reincidencia, multa de 50 a 150 días de salario mínimo general vigente en el Estado, o
+
+III.- Segunda reincidencia y siguientes, suspensión de 4 a 12 meses de la licencia de conducir en el Municipio de Aguascalientes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 135 Bis.
+
+Al conductor de un vehículo particular u oficial de cualquier ente de gobierno, ya sea de orden federal, estatal o municipal, que conduzca y utilice el celular sin dispositivo manos libres, se le impondrá una sanción de la manera siguiente:
+
+I.- Primera infracción de 10 a 18 horas de trabajo comunitario;
+
+II.- Primera reincidencia de 19 a 36 horas de trabajo comunitario;
+
+III.- Segunda reincidencia multa de 20 a 50 días de salario mínimo general vigente en el Estado, o
+
+IV.- Tercera reincidencia o siguientes, suspensión de 4 a 12 meses de la licencia de conducir en el Municipio de Aguascalientes.
+
+El trabajo comunitario que se imponga como sanción con motivo del presente artículo se determinará conforme al artículo 3, fracción VI, del Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
+
+Para quien sea residente de un lugar distinto al Municipio de Aguascalientes, le será aplicada la multa contemplada en la fracción III del presente artículo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 135 Ter.
+
+Al conductor de alguno de los vehículos descritos en los incisos a), b), c), f) y g), de la fracción I, del artículo 10 del presente Reglamento, que conduzca y utilice el celular, se le impondrá una sanción de la manera siguiente:
+
+I.- Primera infracción de 10 a 18 horas de trabajo comunitario;
+
+II.- Primera reincidencia de 19 a 36 horas de trabajo comunitario;
+
+III.- Segunda reincidencia multa de 50 a 150 días de salario mínimo general vigente en el Estado o,
+
+IV. Tercera reincidencia o siguientes suspensión de 4 a 12 meses de la licencia de conducir en el Municipio.
+
+El trabajo comunitario que se imponga como sanción con motivo del presente artículo se determinará conforme al artículo 3°, fracción VI, del Reglamento de Servicio Comunitario del Municipio de Aguascalientes.
+
+Para quien sea residente de un lugar distinto al Municipio de Aguascalientes, le será aplicada la multa contemplada en la fracción III del presente artículo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 135 Quater.
+
+Con independencia de lo previsto en el artículo 20 del presente Reglamento, se impondrán de 50 a 100 días de salario mínimo general vigente en el Estado al conductor de vehículo que conduzca con licencia suspendida dentro del Municipio de Aguascalientes.
 
 ###### Artículo 136.
 
@@ -2422,3 +2562,17 @@ CUARTO.- Todas las referencias que se hagan en el presente Reglamento relativas 
 QUINTO.- Los particulares podrán recurrir los actos definitivos, ante el Tribunal de lo Contencioso Administrativo y éstos se entenderán hechos a la Sala Administrativa y Electoral, hasta en tanto no se realicen las adecuaciones normativas conducentes en relación al Decreto Número 205 expedido por la LXI Legislatura del Honorable Congreso del Estado de Aguascalientes y publicado en el Periódico Oficial del Estado en fecha veinticinco de junio de 2012.
 
 SEXTO.- Los Convenios para la adquisición e implementación de los dispositivos electrónicos, fotográficos y de videos de verificación que permitan una correcta detección de los vehículos que incurran en la conducción de exceso de velocidad, deberán someterse al análisis, discusión y en su caso aprobación por el H. Cabildo Constitucional del Municipio de Aguascalientes.
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMA EL ARTÍCULO 132 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; SE REFORMA Y ADICIONA EL REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE AGUASCALIENTES; SE REFORMA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE AGUASCALIENTES; SE REFORMA EL REGLAMENTO DE SERVICIOS COMUNITARIOS DEL MUNICIPIO DE AGUASCALIENTES”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor el 1° de agosto de 2016.
+
+SEGUNDO. El Ayuntamiento asignará los recursos necesarios para que se establezca el sistema de base de datos de licencias suspendidas y éste comience a funcionar a más tardar el 1 de agosto de 2016.
+
+TERCERO: El Ayuntamiento asignará los recursos necesarios para que se creen las unidades especializadas, a que se refiere el artículo 7 antes de que entre en vigor del (sic) presente dictamen.
+
+CUARTO. El Ayuntamiento asignará, en el ejercicio presupuestal siguiente, los recursos necesarios a efecto de que a los vehículos propiedad Municipal, que hayan sido adquiridos del 2010 a la fecha, se les realicen las modificaciones necesarias para que cuenten con el dispositivo de manos libres inalámbrico.
+
+QUINTO. El Municipio realizará, a partir de la publicación del presente decreto, una campaña de difusión para dar a conocer a la ciudadanía las modificaciones previstas en el presente dictamen.
