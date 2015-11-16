@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-10-12"
+last_updated: "2015-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -323,7 +323,7 @@ III. El Secretario del Ayuntamiento y Director General de Gobierno.
 
 IV. Los Secretarios y el Jefe de la Oficina Ejecutiva del Presidente Municipal.
 
-V Los Coordinadores Generales.
+V. Los Coordinadores Generales.
 
 VI. Los Delegados Municipales.
 
@@ -3117,7 +3117,9 @@ Se consideraran necesarios e indispensables para el desarrollo de la actividad l
 
 IX. Cumplir con las demás normas de trabajo que le son aplicables y que contengan la Ley Federal del Trabajo, el Estatuto Jurídico de los Servidores Públicos de los Gobiernos del Estado, Municipios y Organismos descentralizados, la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, el Código de Ética para la Administración Pública del Municipio Libre deAguascalientes (sic), Reglamento Interior de Trabajo del Municipio de Aguascalientes y el presente este Código y demás normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 132.
 
@@ -3141,21 +3143,21 @@ VIII. Sustraer de las instalaciones municipales útiles de trabajo o materia pri
 
 IX. Abandonar, aunque sea momentáneamente, sus labores, sin la autorización de su jefe inmediato.
 
-X. Presentarse a sus labores con aliento alcohólico, bajo los efectos de bebidas embriagantes o bajo los efectos de narcóticos, enervantes o psicotrópicos, salvo que exista prescripción médica, en cuyo caso deberá hacerlo del conocimiento de su jefe superior.
+X. Presentarse a sus labores con aliento alcohólico; bajo los efectos de bebidas embriagantes o bajo los efectos de narcóticos, enervantes o psicotrópicos, salvo que exista prescripción médica, en cuyo caso deberá hacerlo del conocimiento de su jefe superior.
 
 XI. Portar armas de cualquier naturaleza, durante las horas de trabajo y dentro de las instalaciones del H. Ayuntamiento, salvo que la naturaleza de sus actividades así lo exija.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
-
 XII. Proferir comentarios discriminatorios de género, que menoscaben, anulen, o faciliten burlas o humillaciones hacia las personas, en razón de su cuerpo, sexualidad o características personales;
-
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
 
 XIII. Efectuar actos de hostigamiento o acoso sexual, o cualquier otra acción de violencia de género y laboral.
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+XIV. Conducir y utilizar el celular sin dispositivo manos libres en un vehículo propiedad municipal en movimiento.
 
-XIV. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, El Estatuto Jurídico para los servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes, Reglamento Interior de Trabajo del Municipio de Aguascalientes y este Código.
+XV. Conducir un vehículo propiedad municipal con licencia suspendida.
+
+XVI. Las demás prohibiciones que le impone la Ley Federal del Trabajo, La Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, El Estatuto Jurídico para los servidores Públicos de los Gobiernos del Estado, Municipios y Organismos Descentralizados del Estado de Aguascalientes, Reglamento Interior de Trabajo del Municipio de Aguascalientes y este Código.
+
+Para el caso de incumplir con lo previsto en las fracciones XIV y XV del presente artículo, se aplicará la sanción prevista en el artículo 138 fracción II de este Código.
 
 ###### ARTÍCULO 133.
 
@@ -23312,3 +23314,15 @@ SEGUNDO.- La exigencia de responsiva de Perito Especializado para obtener las Li
 P.O. 12 DE OCTUBRE DE 2015.
 
 ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el 1° de agosto de 2016.
+
+SEGUNDO. El Ayuntamiento asignará los recursos necesarios para que se establezca el sistema de base de datos de licencias suspendidas y éste comience a funcionar a más tardar el 1 de agosto de 2016.
+
+TERCERO. El Ayuntamiento asignará los recursos necesarios para que se creen las unidades especializadas, a que se refiere el artículo 7 antes de que entre en vigor del (sic) presente dictamen.
+
+CUARTO. El Ayuntamiento asignará, en el ejercicio presupuestal siguiente, los recursos necesarios a efecto de que a los vehículos propiedad Municipal, que hayan sido adquiridos del 2010 a la fecha, se les realicen las modificaciones necesarias para que cuenten con el dispositivo de manos libres inalámbrico.
+
+QUINTO. El Municipio realizará, a partir de la publicación del presente decreto, una campaña de difusión para dar a conocer a la ciudadanía las modificaciones previstas en el presente dictamen.
