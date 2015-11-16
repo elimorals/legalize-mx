@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2014-06-09"
+last_updated: "2015-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JUNIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 462, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -129,7 +131,7 @@ VIII.- Comunicar por los medios reconocidos por la Ley de la materia, a la repre
 
 IX.- Comunicar por los medios reconocidos por la Ley de la materia, a la Delegación del Instituto Nacional de Migración, cuando se encuentre relacionada en una averiguación previa, una persona de Nacionalidad Extranjera;
 
-X.- Ordenar la Iibertad del indiciado, inmediatamente que tenga conocimiento de su ilegal detención o cuando por cualquier otra causa, proceda conforme a la Ley;
+X.- Ordenar la libertad del indiciado, inmediatamente que tenga conocimiento de su ilegal detención o cuando por cualquier otra causa, proceda conforme a la Ley;
 
 XI.- Ordenar la detención o la retención de los indiciados, de conformidad a lo establecido en el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y el Código de Procedimientos Penales para el Estado;
 
@@ -207,7 +209,7 @@ XLV.- Rendir los informes en tiempo y forma en los juicios de amparo en que sean
 
 XLVI.- Observar los lineamientos, pautas generales, acuerdos, circulares e instrucciones que emita el Procurador General;
 
-XLVII.- Conocer de los delitos en materia de competencia concurrente, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos; y (sic)
+XLVII.- Conocer de los delitos en materia de competencia concurrente, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
@@ -1075,7 +1077,7 @@ X.- Informar al Subprocurador de Derechos Humanos y Servicios a la Comunidad, so
 
 XI.- Las que le otorguen esta Ley, le encomiende el Procurador General y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1121,7 +1123,7 @@ Los Agentes del Ministerio Público, sus auxiliares y asesores de la Subprocurad
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 53.
 
@@ -1389,7 +1391,7 @@ La Unidad Especializada en el Combate al Secuestro estará a cargo de un Directo
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 69.
 
@@ -1751,7 +1753,7 @@ VI.- Proponer la celebración de convenios de coordinación con instituciones na
 
 VII.- Establecer los procedimientos disciplinarios que se instruyan a los alumnos del instituto, en los términos de la normatividad aplicable;
 
-VIII.- Participar en la formulación, regulación y desarrollo de la profesionalización del servicio en la Procuraduría, en los términos de las disposiciones aplicables; y (sic)
+VIII.- Participar en la formulación, regulación y desarrollo de la profesionalización del servicio en la Procuraduría, en los términos de las disposiciones aplicables; y
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
@@ -1779,7 +1781,7 @@ Los auxiliares indirectos del Ministerio Público, podrán actuar a petición de
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 81.
 
@@ -2282,3 +2284,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su public
 SEGUNDO. Gírese el oficio señalado en el considerando Quinto del presente Decreto.
 
 TERCERO. Envíese copia certificada de este Decreto a la Suprema Corte de Justicia de la Nación.
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Del mismo modo el personal operativo y administrativo, pertenecientes a la Secretaría de Seguridad Pública del Estado de Hidalgo, que fueron comisionados a partir del 18 de noviembre de 2014, pasarán a formar parte de manera permanente de la Procuraduría General de Justicia del Estado de Hidalgo, así como los recursos materiales, financieros y expedientes, que fueron transferidos a la misma, con motivo de la entrada en vigor del Nuevo Sistema de Justicia Penal en el Estado.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, tomará las medidas administrativas y financieras necesarias para la transferencia a que se hace referencia en este Decreto.
+
+TERCERO. Las quejas y denuncias que se encuentren en investigación de la Unidad de Asuntos Internos de la Secretaría de Seguridad Pública del Estado de Hidalgo, deberán concluirse y dar inicio al procedimiento respectivo o, en su caso, determinar el archivo conducente. Los procedimientos de Honor y Justicia y del Servicio Profesional de Carrera Policial, que se encuentren en instrucción o pendientes de resolución, antes de la fecha en que entre en vigor el presente Decreto, pasarán a ser competencia de la Procuraduría General de Justicia del Estado de Hidalgo, en términos de lo que establezca la normatividad aplicable.
+
+CUARTO. Todos los asuntos de la Coordinación de Investigación que se encuentren en trámite, pasarán a la competencia de la Procuraduría General de Justicia del Estado de Hidalgo, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+QUINTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2007.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
