@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-infraestructura-y-82786
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-05"
-last_updated: "2011-09-05"
+last_updated: "2015-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA Y COMUNICACIONES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y COMUNICACIONES, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de septiembre de 2011.
 
@@ -836,3 +838,17 @@ JEFE DE GABINETE.
 M. en I. Miguel Ángel Romero Navarro,
 
 SECRETARIO DE INFRAESTRUCTURA Y COMUNICACIONES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y COMUNICACIONES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Infraestructura y Comunicaciones del Gobierno del Estado de Aguascalientes, publicado el 5 de septiembre de 2011.
