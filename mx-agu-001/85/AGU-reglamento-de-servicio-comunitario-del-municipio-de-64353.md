@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-servicio-comunitario-del-municipio-de-64353"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-03"
-last_updated: "2008-11-03"
+last_updated: "2015-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64353&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de noviembre de 2008.
 
@@ -88,6 +88,12 @@ III. Realización de obras de limpieza, jardinería, reforestación u ornamentac
 IV. Impartición de pláticas, conferencias o talleres en beneficio de la comunidad, mismas que pueden ser relacionadas con la convivencia ciudadana, el bienestar social, salud pública, protección al ambiente, orientación familiar, psicológica, jurídica y otras análogas que correspondan a actividades propias del oficio, ocupación o profesión que realice el infractor.
 
 V. Participación en actividades de carácter artístico, cultural, deportivo, ecológico o turístico que promueva el Municipio, así como aquellas relacionadas con el desarrollo social de la población del Municipio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+VI. Participar, en vía pública en la difusión de información vial del Municipio de Aguascalientes, así como asistir a pláticas de los planes y proyectos establecidos en la educación vial impartidos por el Municipio de Aguascalientes.
 
 ### CAPÍTULO SEGUNDO. DEL ACUERDO
 
@@ -186,3 +192,19 @@ Ing. Francisco Gabriel Arellano Espinosa, Presidente Municipal de Aguascalientes
 Por lo que tiene el honor de comunicarlo, para su conocimiento y efectos legales conducentes. En tal ver, promulga y ordena se de publicidad para su debido cumplimiento. 17 de Octubre de 2008.- Ing. Francisco Gabriel Arellano Espinosa.- Rúbrica.
 
 El Subsecretario del H. Ayuntamiento y Subdirector General de Gobierno.- Lic. Alberto Gómez Velasco.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE “SE REFORMA EL ARTÍCULO 132 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES; SE REFORMA Y ADICIONA EL REGLAMENTO DE TRÁNSITO DEL MUNICIPIO DE AGUASCALIENTES; SE REFORMA EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL MUNICIPIO DE AGUASCALIENTES; SE REFORMA EL REGLAMENTO DE SERVICIOS COMUNITARIOS DEL MUNICIPIO DE AGUASCALIENTES”.]</small>
+
+PRIMERO. El presente Decreto entrará en vigor el 1° de agosto de 2016.
+
+SEGUNDO. El Ayuntamiento asignará los recursos necesarios para que se establezca el sistema de base de datos de licencias suspendidas y éste comience a funcionar a más tardar el 1 de agosto de 2016.
+
+TERCERO. El Ayuntamiento asignará los recursos necesarios para que se creen las unidades especializadas, a que se refiere el artículo 7 antes de que entre en vigor del (sic) presente dictamen.
+
+CUARTO. El Ayuntamiento asignará, en el ejercicio presupuestal siguiente, los recursos necesarios a efecto de que a los vehículos propiedad Municipal, que hayan sido adquiridos del 2010 a la fecha, se les realicen las modificaciones necesarias para que cuenten con el dispositivo de manos libres inalámbrico.
+
+QUINTO. El Municipio realizará, a partir de la publicación del presente decreto, una campaña de difusión para dar a conocer a la ciudadanía las modificaciones previstas en el presente dictamen.
