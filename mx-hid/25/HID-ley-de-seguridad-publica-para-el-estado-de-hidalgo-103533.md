@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2014-12-29"
+last_updated: "2015-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -133,9 +131,9 @@ La entidad garantizará la seguridad pública a través del diseño transversal 
 
 Para los efectos de esta ley se entenderá por:
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
-I. Agencia: La Agencia de Seguridad e Investigación del Estado de Hidalgo;
+I. Agencia: La Agencia de Seguridad del Estado de Hidalgo;
 
 II. Base de Datos: Al conjunto de datos informativos contenidos en los registros nacionales y estatales en materia de detenciones, información criminal, personal de Seguridad Pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, equipo de radiocomunicación, sentenciados y las demás que sean necesarias para la operación del Sistema Estatal de Registros e Información para la seguridad pública;
 
@@ -169,7 +167,9 @@ XVI. Instituciones Policiales: Los Cuerpos de Seguridad Pública Estatal y los C
 
 XVII. Instituciones de Seguridad Pública: Las Dependencias encargadas de la Seguridad Pública del orden Federal, Estatal y Municipal que realicen dichas funciones, que incluye a las Instituciones Policiales;
 
-XVIII. Instituciones de Procuración de Justicia: A las Instituciones del Estado que integran al Ministerio Público, los servicios periciales y demás auxiliares de aquél;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Institución de Procuración de Justicia: A la Institución del Estado que se integra por el Ministerio Público, los Servicios Periciales, la Policía Investigadora y demás auxiliares de aquel;
 
 XIX. Ley: La Ley de Seguridad Pública para el Estado de Hidalgo;
 
@@ -361,7 +361,9 @@ XVI. Vigilar que los programas de seguridad pública preventiva municipal sean c
 
 XVII. Determinar los niveles de restricción de acceso a la información en materia de seguridad pública, cuando se pueda comprometer la seguridad personal de los servidores públicos de la Secretaría, la de las instituciones dependientes del Gobierno del Estado y la seguridad pública en general;
 
-XVIII. Evaluar los programas y sus resultados en materia de seguridad e investigación, prevención social de la violencia y la delincuencia, con participación ciudadana;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Evaluar los resultados de los programas en materia de seguridad, prevención social de la violencia y la delincuencia con la participación ciudadana;
 
 XIX. Autorizar el registro y supervisar el funcionamiento de los servicios de seguridad privada, aplicar en su caso las sanciones correspondientes y suspender o cancelar el mismo cuando lo requiera el interés público, así como en los casos que establece esta Ley, la ley de seguridad privada, su reglamento y demás normatividad aplicable;
 
@@ -675,7 +677,9 @@ II. Subsecretaría de Seguridad Pública y Reinserción Social.
 
 a) Dirección General de Prevención y Reinserción Social, conformada por:
 
-1. Director de Seguridad, Custodia y Policía Procesal;
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+1. Director de Policía Penitenciaria;
 
 2. Director de Asuntos Jurídicos;
 
@@ -687,35 +691,31 @@ b) Dirección General de Aeropuerto Estatal y de la Flota Aérea del Poder Ejecu
 
 c) Centro de Control, Comando, Comunicaciones y Cómputo; y
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
-d) Dirección General de Medidas Cautelares, conformada por:
+d) Dirección General de Medidas Cautelares y Policía Procesal, conformada por:
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+1. Subdirección Administrativa;
 
-a) Dirección General de Medidas Cautelares;
+2. Subdirección de Evaluación;
 
-b) Subdirección Administrativa;
+3. Subdirección de Supervisión;
 
-c) Subdirección de Evaluación;
+4. Subdirección de Informática;
 
-d) Subdirección de Supervisión;
+5. Operadores de Evaluación y Supervisión; y
 
-e) Subdirección de Informática; y
+6. Policía Procesal.
 
-f) Operadores de evaluación y supervisión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-III. Agencia de Seguridad e Investigación del Estado de Hidalgo.
+III. Agencia de Seguridad del Estado de Hidalgo.
 
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 a) Coordinación de Seguridad Estatal; y
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-b) Coordinación de Investigación.
+b) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
 
 IV. Policía Industrial Bancaria del Estado de Hidalgo;
 
@@ -737,17 +737,25 @@ a) Unidad de Comunicación Social;
 
 XI. Dirección General de Planeación y Programación.
 
-a) Unidad de Transparencia y Acceso a la Información Pública Gubernamental;
+a) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
 
-XII. Dirección de Archivo;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+XII. Dirección de Archivo, Transparencia y Acceso a la Información Pública Gubernamental.
 
 a) Unidad Central de Correspondencia;
 
 b) Archivo de Tramite;
 
-c) Archivo de Concentración; y
+c) Archivo de Concentración;
 
-d) Archivo Histórico.
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+d) Archivo Histórico; y
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+e) Unidad de Transparencia y Acceso a la Información Pública Gubernamental.
 
 XIII. Unidad Institucional de Género y,
 
@@ -793,13 +801,19 @@ c. Policía Industrial Bancario, cuya función será la de brindar el servicio d
 
 d. Policía Procesal; que se encargará de cumplir con las atribuciones previstas en el Código Nacional de Procedimientos Penales, esta Ley y demás disposiciones legales aplicables; y
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+e. (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
 
-e. Policía Investigador, operará en todo el territorio del Estado y estarán encargados de la investigación para la prevención de la violencia y la delincuencia, y en su caso, investigar los delitos y perseguir a los probables responsables, bajo la conducción y mando del Ministerio Público.
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+(F. DE E., P.O. 29 DE DICIEMBRE DE 2014) [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICA AL DE LA FRACCIÓN IV, P.O. 16 DE NOVIEMBRE DE 2015]
 
 II. Los Cuerpos Preventivos de Seguridad Pública Municipal cuyos miembros se denominarán policías preventivos municipales, operarán en el territorio del municipio que corresponda o fuera de éste; en coordinación con las Instituciones Policiales del orden Federal, Estatal o Municipal.
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+III. Policía Investigadora, quién dependerá directamente de la Procuraduría General de Justicia del Estado de Hidalgo, operará en todo el territorio del Estado y estarán encargados de la Investigación científica de los delitos y perseguir a los probables responsables bajo la conducción y mando del Ministerio Público; así como de las atribuciones que señala la Ley General, esta Ley y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICA AL DE LA FRACCIÓN II], P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+IV. Los Cuerpos Preventivos de Seguridad Pública Municipal cuyos miembros se denominarán policías preventivos municipales, operarán en el territorio del municipio que corresponda o fuera de éste; en coordinación con las instituciones policiales del orden federal, estatal o municipal.
 
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -819,11 +833,11 @@ e) Mandos subordinados, cuyos titulares serán los encargados de unidades divers
 
 Lo anterior, en los términos de la Constitución, la Constitución Estatal y las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 #### SECCIÓN PRIMERA
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-DE LA AGENCIA DE SEGURIDAD E INVESTIGACIÓN.
+DE LA AGENCIA DE SEGURIDAD DEL ESTADO DE HIDALGO.
 
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -859,7 +873,9 @@ La Secretaría se apoyará de la Policía Procesal para dar cumplimiento a manda
 
 Los organismos auxiliares de Seguridad Pública en el Estado, serán:
 
-I. Los H. Cuerpos de Bomberos en los municipios;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+I. Los H. Cuerpos de Bomberos del Estado y de los municipios;
 
 II. Las Direcciones de Protección Civil o sus equivalentes de los municipios;
 
@@ -1021,7 +1037,7 @@ XLVII. Las demás obligaciones que establezca la presente Ley y demás ordenamie
 
 Los integrantes de las instituciones policiales, además de las obligaciones señaladas en el artículo que antecede, tendrán las siguientes:
 
-A. Policía de Investigación.
+A. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2015)
 
 I. En los términos del Código Nacional de Procedimientos Penales:
 
@@ -1133,9 +1149,13 @@ X. Las demás que sean necesarias y análogas a las anteriores que le confieran 
 
 E. Policía Procesal. Los Policías procesales además de la custodia, traslado y vigilancia de audiencias judiciales, deberán:
 
-I. Mantener estrictamente vigilados los establecimientos donde presten sus servicios garantizando la seguridad, el orden y la tranquilidad, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
-II. Cumplir, en el ámbito de su responsabilidad, las resoluciones dictadas por las autoridades jurisdiccionales y administrativas competentes;
+I. Mantener estrictamente vigilados los establecimientos donde presten sus servicios durante el desarrollo de las audiencias de oralidad, garantizando la seguridad, el orden y la tranquilidad, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+II. Cumplir, en el ámbito de su responsabilidad, las resoluciones dictadas por las autoridades jurisdiccionales en los procedimientos penales orales en el Estado;
 
 III. Resguardar la seguridad y el orden que permitan el desarrollo de las audiencias ante el Juez de Control, Tribunal de Enjuiciamiento y juez de ejecución de sanciones penales
 
@@ -1387,13 +1407,19 @@ El Secretario, los Sub secretarios, los Coordinadores Estatales y los Directores
 
 El Reclutamiento del personal de las instituciones policiales estatales, se llevará a cabo de acuerdo a lo establecido en la Ley, el Reglamento del Servicio Profesional de Carrera Policial, y demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 69.
 
-Los cadetes o alumnos que sean admitidos para su formación profesional en el Instituto, además de permanecer el tiempo que dure la misma, deberán cumplir con una Estadía dentro de las Instituciones Policiales de la Secretaría, por un periodo de tres años tratándose de Técnico Superior Universitario, y de seis años para la Licenciatura.
+Los cadetes o alumnos que sean admitidos para su formación profesional en el Instituto, además de permanecer el tiempo que dure la misma, deberán cumplir con una Estadía dentro de las Instituciones Policiales de la Secretaría por un periodo de tres años tratándose de Técnico Superior Universitario.
+
+Tratándose de la Licenciatura, los Policías Investigadores deberán cumplir con una Estadía de seis años dentro de la Procuraduría General de Justicia del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 70.
 
-Los miembros de los cuerpos policiales pertenecientes a la Secretaría y que pertenezcan a la Carrera Policial, que sean designados o autorizados para efectuar el proceso de profesionalización, además del tiempo a que ya están obligados por disposición legal o por compromiso suscrito, servirán un año adicional por cada año o fracción que duren en esa situación.
+Los miembros de las Instituciones Policiales pertenecientes a la Secretaría o a la Procuraduría General de Justicia del Estado de Hidalgo, y que pertenezcan a la Carrera Policial, que sean designados o autorizados para efectuar el proceso de profesionalización, además del tiempo a que ya están obligados por disposición legal o por compromiso suscrito, servirán un año adicional por cada año o fracción que duren en esa situación.
 
 En el caso de que los cursos se realicen en otra entidad o en el extranjero, si las erogaciones que causen sus gastos son a cargo del Erario Estatal, el tiempo adicional de servicios se duplicará.
 
@@ -1475,13 +1501,15 @@ XVI. Las demás que establezcan las disposiciones legales aplicables.
 
 La terminación de la carrera policial se sujetará a lo dispuesto en el Artículo 56, fracciones I, II y III de la presente Ley.
 
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 73.
 
-El personal de las instituciones de seguridad pública que no forme parte de las instituciones policiales, deberá cumplir con los requisitos de ingreso y permanencia siguientes:
+El personal de las instituciones de seguridad pública que no forme parte de las instituciones policiales, deberá cumplir además los requisitos señalados en la legislación aplicable, con los siguientes:
 
-Ingreso: artículos 71- a).- Fracciones: I, II, III, IV, VII, XII, XIII, XIV, XV, XVI, contar con el perfil profesional y/o conocimientos específicos que las funciones asignadas lo requieran.
+Ingreso: Artículo 71-a). Fracciones I, II, III, IV, VII, XIII, XIV, XV, contar con el perfil profesional o conocimientos específicos que las funciones asignadas lo requieran.
 
-Permanencia: Artículo 71- b).- Fracciones: I, III, IV, V, VI, VIII, IX, X, XI, XII, XIII, XIV.
+Permanencia: Artículo 71-b). Fracciones: I, III, VI, VIII, IX, X, XI, XII, XIII.
 
 ## TÍTULO CUARTO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
@@ -1825,7 +1853,9 @@ III. En el acuerdo de inicio se señalará el lugar, día y hora para la verific
 
 IV. Si en la audiencia se advierten elementos que impliquen la configuración de otras causales de responsabilidad del servidor público sujeto a procedimiento o de la participación de otros, se les vinculará al mismo, cumpliendo con las formalidades establecidas en las fracciones que anteceden.
 
-V. Serán admisibles toda clase de pruebas, excepto las que fueren contrarias a derecho, la moral, las buenas costumbres y las que se obtuvieran vulnerando los derechos fundamentales de las personas; aplicándose para el efecto, así como para su desahogo y valoración, lo dispuesto en el Código Nacional de Procedimientos Penales de manera supletoria;
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+V. Serán admisibles toda clase de pruebas, excepto las que fueren contrarias a derechos, la moral, las buenas costumbres y las que se obtuvieran vulnerando los derechos fundamentales de las personas; aplicándose para el efecto, así como para su desahogo y valoración, lo dispuesto en el Código de Procedimientos Civiles para el Estado de Hidalgo, de manera supletoria;
 
 VI. La Comisión en un término no mayor de diez días hábiles citará a las partes a la audiencia de desahogo de pruebas, una vez desahogadas éstas, el interesado podrá presentar en forma verbal o por escrito, al día siguiente hábil, los alegatos que a su derecho convengan;
 
@@ -1881,7 +1911,9 @@ VII. Un vocal designado por el Comité;
 
 VIII. Un vocal que deberá ser insaculado por la institución policial a la que pertenezca el servidor público recurrente. Este Vocal durará en su encargo dos años y no podrá ser reelecto; y
 
-IX. La persona titular de la Unidad para la Igualdad entre Mujeres y Hombres de la Secretaría, en calidad de vocal, tratándose de actos de discriminación, misoginia o violencia de género.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+IX. La persona titular de la Unidad Institucional de Género de la Secretaría, en calidad de vocal, tratándose de actos de discriminación, misoginia o violencia de género o cuando el procedimiento se haya instruido en contra de una mujer.
 
 Todos los integrantes del Consejo de Honor tendrán derecho a voz y voto.
 
@@ -1899,7 +1931,9 @@ III. Las pruebas debidamente ofrecidas y desechadas por la Comisión, será moti
 
 IV. Las pruebas supervenientes, podrán ofrecerse dentro de los cinco días hábiles siguientes contados a partir de la fecha en que se realice la notificación personal a que hace referencia el párrafo anterior.
 
-V. Transcurrido el plazo señalado en la fracción que antecede, si fueron ofrecidas pruebas por el recurrente o su representante en los términos señalados en el párrafo segundo de la fracción precedente, se señalará una audiencia para el desahogo de aquellas que hubiesen sido admitidas, aplicándose para el efecto, así como para su valoración, lo dispuesto en el Código de Procedimientos Penales vigente en el Estado. Concluida ésta, se citará, en un plazo no mayor de quince días hábiles, para dictar la resolución que conforme a derecho proceda.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+
+V. Transcurrido el plazo señalado en la fracción que antecede, si fueron ofrecidas pruebas por el recurrente o su representante en los términos señalados en el párrafo segundo de la fracción precedente, se señalará una audiencia para el desahogo de aquellas que hubiesen sido admitidas, aplicándose para el efecto, así como para su valoración, lo dispuesto en el Código de Procedimientos Civiles vigente en el Estado. Concluida ésta, se citará, en un plazo no mayor de quince días hábiles, para dictar la resolución que conforme a derecho proceda.
 
 VI. Si el recurrente no ofreciera pruebas en el plazo señalado, se procederá a citarlo para dictar la resolución correspondiente. En ambos casos las notificaciones se harán de manera personal; y
 
@@ -2698,3 +2732,21 @@ EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONST
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL CATORCE.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Del mismo modo el personal operativo y administrativo, pertenecientes a la Secretaría de Seguridad Pública del Estado de Hidalgo, que fueron comisionados a partir del 18 de noviembre de 2014, pasarán a formar parte de manera permanente de la Procuraduría General de Justicia del Estado de Hidalgo, así como los recursos materiales, financieros y expedientes, que fueron transferidos a la misma, con motivo de la entrada en vigor del Nuevo Sistema de Justicia Penal en el Estado.
+
+La Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, tomará las medidas administrativas y financieras necesarias para la transferencia a que se hace referencia en este Decreto.
+
+TERCERO. Las quejas y denuncias que se encuentren en investigación de la Unidad de Asuntos Internos de la Secretaría de Seguridad Pública del Estado de Hidalgo, deberá concluirse y dar inicio al procedimiento respectivo o, en su caso, determinar el archivo conducente. Los procedimientos de Honor y Justicia y del Servicio Profesional de Carrera Policial, que se encuentren en instrucción o pendientes de resolución, antes de la fecha en que entre en vigor el presente Decreto, pasarán a ser competencia de la Procuraduría General de Justicia del Estado de Hidalgo, en términos de lo que establezca la normatividad aplicable.
+
+CUARTO. Todos los asuntos de la Coordinación de Investigación que se encuentren en trámite, pasarán a la competencia de la Procuraduría General de Justicia del Estado de Hidalgo, quien deberá desahogarlos y concluirlos de acuerdo con las disposiciones legales aplicables.
+
+QUINTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2007.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
