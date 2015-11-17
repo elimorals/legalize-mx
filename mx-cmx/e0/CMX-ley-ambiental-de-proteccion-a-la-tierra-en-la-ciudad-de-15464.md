@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2015-08-20"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -398,6 +398,10 @@ PARQUES LOCALES: (DEROGADO, G.O. 31 DE ENERO DE 2002)
 
 PARQUES URBANOS: (DEROGADO, G.O. 31 DE ENERO DE 2002)
 
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+PLAN RECTOR DE LAS ÁREAS NATURALES PROTEGIDAS DEL DISTRITO FEDERAL: Instrumento de planeación y normatividad que establece lineamientos, criterios y políticas para la administración y manejo de las Áreas Naturales Protegidas;
+
 PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y medición de las descargas de contaminantes o materiales de una fuente fija a la atmósfera, agua, suelo o subsuelo, de acuerdo con las Normas Oficiales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -419,6 +423,14 @@ PROCURADURÍA: La Procuraduría Ambiental y del Ordenamiento Territorial del Dis
 > <small>(ADICIONADO, G.O. 3 DE MAYO DE 2011)</small>
 
 PROGRAMA DE MANEJO: Instrumento rector de planeación y regulación que establece las actividades, acciones y lineamientos básicos para el manejo y la administración de las áreas de valor ambiental;
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+PROGRAMA GENERAL DE ORDENAMIENTO ECOLÓGICO DEL DISTRITO FEDERAL: Instrumento de política ambiental que regula los usos de suelo en el suelo de conservación.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+PROGRAMA SECTORIAL AMBIENTAL: Instrumento de planeación en el cual se integran las estrategias y acciones prioritarias para la ejecución de la política ambiental del Distrito Federal, así como las acciones de los diferentes sectores, en congruencia con el Programa General de Desarrollo del Distrito Federal y la Ley de Planeación del Desarrollo (sic) Distrito Federal;
 
 PROTECCIÓN ECOLÓGICA: El conjunto de políticas, planes, programas, normas y acciones destinados a mejorar el ambiente y a prevenir y controlar su deterioro;
 
@@ -456,13 +468,13 @@ SECRETARÍA: Secretaría del Medio Ambiente del Gobierno del Distrito Federal;
 
 SERVICIOS AMBIENTALES: Aquellos derivados de los ecosistemas o sus elementos, cuyos valores o beneficios son económicos, ecológicos o socioculturales y que inciden directamente en la protección y mejoramiento del medio ambiente, propiciando una mejor calidad de vida de los habitantes y que justifican la necesidad de desarrollar acciones para promover la preservación, recuperación y uso racional de aquellos elementos relevantes para la generación de estos servicios en beneficio de las generaciones presentes y futuras;
 
-> <small>(REFORMADO Y REUBICADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-SUELO URBANO: La clasificación establecida en la fracción I del artículo 30 de la Ley de Desarrollo Urbano del Distrito Federal, incluidas las áreas verdes dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales localizados en suelo de conservación que establece el programa general de ordenamiento ecológico;
+SUELO DE CONSERVACIÓN: Las zonas que por sus características ecológicas proveen servicios ambientales necesarios para el mantenimiento de la calidad de vida de los habitantes del Distrito Federal y cuyas poligonales están determinadas por el Programa General de Ordenamiento Ecológico del Distrito Federal;
 
-> <small>(REFORMADO Y REUBICADO, G.O. 31 DE ENERO DE 2002)</small>
+> <small>(REFORMADO Y REUBICADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-SUELO DE CONSERVACIÓN: La clasificación establecida en la fracción II del artículo 30 de la Ley de Desarrollo Urbano del Distrito Federal;
+SUELO URBANO: Las zonas a las que el Programa General de Desarrollo Urbano clasifique como tales, por contar con infraestructura, equipamiento y servicios y que no se encuentren clasificadas como suelo de conservación de acuerdo con el Programa General de Ordenamiento Ecológico del Distrito Federal, salvo los cascos urbanos de los poblados rurales;
 
 TRÁFICO DE ESPECIES: Flora y fauna cuyo comercio está prohibido en la legislación aplicable;
 
@@ -554,11 +566,11 @@ I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, a
 
 II. Formular, ejecutar y evaluar el programa sectorial ambiental del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 30 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-III. Formular y ejecutar los programas de ordenamiento ecológico del Distrito Federal, y los programas que de éstos se deriven, así como vigilar su cumplimiento, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades y en su momento, proponer las adecuaciones pertinentes al mismo;
+III. Formular y ejecutar el Programa General de Ordenamiento Ecológico del Distrito Federal, y los programas que de él se deriven, así como vigilar su cumplimiento. La formulación y ejecución será en coordinación con las instancias de la Administración Pública del Distrito Federal y las Delegaciones con atribuciones y territorio en el Suelo de Conservación.
 
-La vigilancia y las propuestas de adecuaciones que formulen la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades, las efectuarán en el ámbito de sus atribuciones;
+La Secretaría evaluará las propuestas de adecuaciones al Programa General de Ordenamiento Ecológico que formulen la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Desarrollo Rural y Equidad para las Comunidades, las que se efectuarán en el ámbito de sus atribuciones;
 
 IV. Aplicar los instrumentos de política ambiental previstos en esta Ley, para conservar y restaurar el equilibrio ecológico y proteger al ambiente en materias de su competencia;
 
@@ -600,17 +612,13 @@ XII. Establecer o en su caso proponer la creación de instrumentos económicos q
 
 XIII. Administrar, ejecutar y controlar el fondo ambiental así como informar sobre el uso de los recursos y presentar los resultados dentro del informe anual que rinda a la Asamblea;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
+XIV. Proponer la creación de áreas de valor ambiental, áreas naturales protegidas, y las áreas comunitarias de conservación ecológica, así como regularlas, vigilarlas y administrarlas en el ámbito de su competencia y en términos de esta Ley, a fin de lograr la preservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas; asimismo procurará crear programas de reforestación permanente en suelo de conservación y en suelo urbano en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, para su preservación.
 
-XIV. Proponer la creación de áreas de valor ambiental y áreas naturales protegidas, así como regularlas, vigilarlas y administrarlas en los términos de esta Ley, a fin de lograr la preservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas; asimismo procurará crear programas de reforestación permanente en suelo de conservación y urbano para su preservación;
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, G.O. 18 DE FEBRERO DE 2011)</small>
-
-XIV Bis. Celebrar convenios con las delegaciones para que éstas se encarguen de la Administración, preservación y reforestación de las áreas naturales protegidas de competencia de la Secretaría, así como para delegar facultades que estén conferidas por esta Ley y demás ordenamientos aplicables a la Secretaría;
+XIV Bis. Celebrar convenios con las delegaciones para que éstas se encarguen de la administración, preservación y reforestación de las áreas de valor ambiental y de las áreas naturales protegidas de competencia de la Secretaría, así como para delegar facultades en estas materias que estén conferidas por esta Ley y demás ordenamientos aplicables a la Secretaría;
 
 > <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
 
@@ -640,11 +648,9 @@ XIX. Bis. Establecer las políticas y lineamientos de integración y operación 
 
 XIX. Bis 1. Realizar acciones de control, supervisión y vigilancia ambiental, con auxilio de la Secretaría de Seguridad Pública del Distrito Federal, en suelo de conservación y suelo urbano, tendientes a prevenir actos o hechos constitutivos de violación a esta ley, al Código Penal para el Distrito Federal, en materia de delitos ambientales y de las disposiciones que de ella emanen;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 18 DE FEBRERO DE 2011)</small>
-
-XIX. Bis 2. Con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal, retirar a las personas y bienes que integren asentamientos humanos establecidos en contravención con los programas de desarrollo urbano o de ordenamiento ecológico del territorio; así como ejecutar las acciones necesarias para prevenir el establecimiento de dichos asentamientos humanos irregulares;
+XIX. Bis 2. Con el auxilio de la Secretaría de Seguridad Pública del Distrito Federal y en coordinación con las autoridades competentes, retirar a las personas y bienes que integren asentamientos humanos establecidos en contravención con los programas de desarrollo urbano o de ordenamiento ecológico del territorio; así como ejecutar las acciones necesarias para evitar el establecimiento de dichos asentamientos humanos irregulares, en áreas verdes, áreas de valor ambiental, áreas naturales protegidas y en suelo de conservación, que sean competencia de la Secretaría;
 
 XX. Realizar y promover programas para el desarrollo de técnicas, ecotecnias y procedimientos que permitan prevenir, controlar y abatir el deterioro ambiental, propiciar el aprovechamiento sustentable de los recursos naturales y la conservación de los ecosistemas, con instituciones de educación superior, centros de investigación, instituciones privadas y grupos civiles, con los sectores industrial, comercial y de servicio;
 
@@ -748,13 +754,15 @@ XLIX. Celebrar actos administrativos con terceros sobre los espacios e infraestr
 
 L. Recibir y administrar los ingresos que se perciban por el uso y aprovechamiento de las áreas naturales protegidas, áreas de valor ambiental, zoológicos y unidades de manejo de vida silvestre a cargo de la Secretaría y, de conformidad con los ordenamiento jurídicos correspondientes, recaudarlos, recibirlos, administrarlos y comprobarlos con el carácter de ingresos de aplicación automática de recursos, aplicándolos para proyectos y programas de educación, conservación y mantenimiento;
 
-> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-LI. Formular y conducir la política del Distrito Federal en materia de uso y aprovechamiento sustentable del agua; y
+LI. Formular y conducir la política del Distrito Federal en materia de uso y aprovechamiento sustentable del agua;
 
-> <small>(ADICIONADA, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-LII. Las demás que le confieren esta y otras Leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
+LII. Solicitar a las Delegaciones el Inventario de áreas verdes de su competencia, así como de las especies de flora y fauna silvestres presentes en las mismas, correspondiente a su demarcación territorial; y
+
+LIII. Las demás que le confieren esta y otras Leyes, así como las que se deriven de los instrumentos de coordinación celebrados y que se celebren.
 
 ###### ARTÍCULO 10.
 
@@ -805,6 +813,18 @@ Las Delegaciones que no cuenten con 9 metros cuadrados de área verde por habita
 > <small>(ADICIONADA, G.O. 15 DE MAYO DE 2012)</small>
 
 IX. Elaborar campañas de difusión para informar a los habitantes de su demarcación territorial sobre el tema de cambio climático y la importancia del cuidado al medio ambiente.
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XI (sic). Integrar el Inventario de áreas verdes de su competencia, así como de las especies de flora y fauna silvestres presentes en las mismas, correspondiente a su demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XII. Formular, ejecutar y evaluar el programa ambiental delegacional, bajo los objetivos y lineamientos del Programa Sectorial Ambiental;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Proponer a la Secretaría las modificaciones en el Programa General de Ordenamiento Ecológico del Distrito Federal.
 
 ###### ARTÍCULO 11.
 
@@ -1042,9 +1062,11 @@ VI. La preservación de las áreas verdes existentes, evitando ocuparlas con obr
 
 ### CAPÍTULO IV. ORDENAMIENTO ECOLÓGICO
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 28.
 
-El ordenamiento ecológico es un instrumento de política ambiental que tiene por objeto definir y regular los usos del suelo, en el suelo de conservación, los criterios ambientales aplicables a los usos y destinos del suelo de los Programas de Desarrollo Urbano en los asentamientos humanos en suelo de conservación, de los recursos naturales y de las actividades productivas, para hacer compatible la conservación de la biodiversidad con el desarrollo regional. Este instrumento es de carácter obligatorio en el Distrito Federal y servirá de base para la elaboración de los programas y proyectos de desarrollo, así como obras y actividades que se pretendan ejecutar.
+El ordenamiento ecológico es un instrumento de política ambiental que tiene por objeto definir y regular los usos del suelo en el Suelo de Conservación, así como establecer los lineamientos, estrategias y criterios ambientales con los que deberán llevarse a cabo las actividades productivas y de conservación, para hacer compatible el mantenimiento de los recursos naturales, servicios ambientales y la conservación de la biodiversidad con el desarrollo regional. La observancia de este instrumento es obligatoria en el Distrito Federal y servirá de base para la elaboración de programas, proyectos, obras y actividades de desarrollo que se pretendan ejecutar.
 
 ###### ARTÍCULO 29.
 
@@ -1360,9 +1382,11 @@ Cuando se trate de actividades consideradas riesgosas en los términos de esta L
 
 Si después de la presentación de un estudio de impacto ambiental se realizan modificaciones al proyecto de los programas, obras o actividades respectivas, los interesados deberán hacerlas del conocimiento de la Secretaría, a fin de que ésta, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en los términos de lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 48.
 
-En las áreas naturales protegidas se requerirá de una manifestación de impacto ambiental en su modalidad específica para toda actividad, obra y operación pública o privada que se pretenda desarrollar.
+En las áreas naturales protegidas, áreas de valor ambiental y suelo de conservación, se requerirá de una manifestación de impacto ambiental en su modalidad específica, o general según corresponda para toda actividad, obra y operación pública o privada que se pretenda desarrollar, en términos de lo dispuesto en el Reglamento de Impacto Ambiental y Riesgo.
 
 > <small>(REFORMADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -1836,11 +1860,15 @@ I. La realización de acciones de conservación del medio ambiente, la protecci�
 
 II. La vigilancia y conservación de los recursos naturales en Áreas Comunitarias de Conservación Ecológica;
 
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+II Bis. La vigilancia y conservación, restauración, preservación, conservación de la biodiversidad, ecosistemas y aprovechamiento sustentable de los recursos naturales en suelo de conservación;
+
 III. El manejo y la administración de las áreas naturales protegidas;
 
-> <small>(ADICIONADA, G.O. 3 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-IV. La restauración y conservación, así como la elaboración de los programas de manejo de las áreas de valor ambiental;
+IV. La restauración y conservación, así como la elaboración de los programas de manejo de las áreas de valor ambiental y de las áreas naturales protegidas de competencia del Distrito Federal;
 
 V. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
 
@@ -1849,6 +1877,10 @@ VI. La retribución por proteger, restaurar o ampliar los servicios ambientales;
 > <small>(ADICIONADA, G.O. 21 DE JUNIO DE 2006)</small>
 
 VII. La retribución por la conservación de los servicios ambientales en Áreas Comunitarias de Conservación Ecológica;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VII Bis. La retribución por la protección, conservación o ampliación de servicios ambientales y por la realización de actividades vinculadas al desarrollo rural, equitativo y sustentable en suelo de conservación;
 
 VIII. El desarrollo de programas de educación e investigación en materia ambiental y para el fomento y difusión de experiencias y prácticas para la protección, conservación y aprovechamiento de los recursos naturales y el ambiente;
 
@@ -1970,11 +2002,11 @@ IV. Lleven a cabo actividades que garanticen la conservación sustentable de los
 
 V. Desarrollen infraestructura y equipamiento, así como de edificaciones que en su diseño de concepto incorporen criterios de sustentabilidad;
 
-> <small>(ADICIONADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 72 Bis.
 
-Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme al Código Financiero del Distrito Federal, las actividades relacionadas con:
+Se consideran prioritarias, para efectos del otorgamiento de los estímulos fiscales que se establezcan conforme al Código Fiscal del Distrito Federal, las actividades relacionadas con:
 
 I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar la contaminación o deterioro ambiental, así como el uso eficiente de recursos naturales y de energía;
 
@@ -1984,7 +2016,9 @@ III. El ahorro y aprovechamiento sustentable y la prevención de la contaminaci�
 
 IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
-V. El establecimiento, manejo y vigilancia de áreas naturales protegidas; y
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+V. El establecimiento, manejo y vigilancia de áreas naturales protegidas y áreas de valor ambiental; y
 
 VI. En general, aquellas actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente.
 
@@ -2086,17 +2120,17 @@ IV. Se trate de información sobre inventarios e insumos y tecnología de proces
 
 ### CAPÍTULO XII. DENUNCIA CIUDADANA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 80.
 
-Toda persona física o moral, podrá denunciar ante la Procuraduría, todo hecho, acto u omisión que produzca o pueda producir desequilibrios ecológicos o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la conservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
+Toda persona física o moral, podrá denunciar ante la Procuraduría, todo hecho, acto u omisión que produzca o pueda producir desequilibrios ecológicos o daños al ambiente o a los recursos naturales, en suelo urbano o suelo de conservación, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la conservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
 
 Si por la naturaleza de los hechos denunciados se tratare de asuntos de competencia del orden federal o sujetos a la jurisdicción de otra autoridad federativa, la misma autoridad que la recibió deberá turnarla a la autoridad competente.
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si consideran que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por la legislación de procedimientos penales aplicable en el Distrito Federal.
+Sin perjuicio de lo anterior, los interesados podrán presentar su denuncia directamente ante la Procuraduría General de Justicia del Distrito Federal si consideran que los hechos u omisiones de que se trate pueden ser constitutivos de algún delito, en cuyo caso deberá sujetarse a lo dispuesto por el Código de Procedimientos Penales para el Distrito Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2302,9 +2336,17 @@ VI. Promontorios, cerros, colinas, elevaciones y depresiones orográficas, pasti
 
 VII. (DEROGADA, G.O. 21 DE JUNIO DE 2006)
 
-VIII. Zonas de recarga de mantos acuíferos; y
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-IX. Las demás áreas análogas.
+VIII. Zonas de recarga de mantos acuíferos;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VIII Bis. Áreas de Valor Ambiental; y
+
+> <small>(REFORMADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+IX. Las demás análogas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2324,17 +2366,17 @@ Las delegaciones procurarán el incremento de áreas verdes de su competencia, e
 
 El mantenimiento, mejoramiento, restauración, rehabilitación, fomento, forestación, reforestación y conservación de las áreas verdes del Distrito Federal, deberá realizarse con las técnicas y especias apropiadas.
 
-> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 88 Bis.
 
-La Secretaría y las Delegaciones podrán celebrar convenios con los vecinos de las áreas verdes de su competencia, para que participen en su mantenimiento, mejoramiento, restauración, fomento y conservación; así como en la ejecución de acciones de forestación, reforestación, recreativas y culturales, proporcionando mecanismos de apoyo en especie, cuando sea necesario y promoverán su intervención en la vigilancia de tales áreas.
+La Secretaría y las Delegaciones podrán celebrar convenios con los ejidatarios, avecinados o comunidades agrarias establecidos en suelo de conservación y con vecinos de las áreas verdes de su competencia, para que participen en su mantenimiento, mejoramiento, restauración, fomento y conservación; así como en la ejecución de acciones de forestación, reforestación, recreativas y culturales, proporcionando mecanismos de apoyo en especie, cuando sea necesario y promoverán su intervención en la vigilancia de tales áreas.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 88 Bis 1.
 
-En los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardineras y barrancas, queda prohibido:
+En los parques y jardines, plazas jardinadas o arboladas, zonas con cualquier cubierta vegetal en la vía pública, alamedas y arboledas, jardineras, barrancas, áreas de valor ambiental y áreas naturales protegidas, queda prohibido:
 
 I. La construcción de edificaciones, y de cualesquier obra o actividad que tengan ese fin;
 
@@ -2349,6 +2391,10 @@ IV. El depósito de cascajo y de cualquier otro material proveniente de edificac
 ###### ARTÍCULO 88 Bis 2.
 
 Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, deberán conservar su extensión y en caso de modificarse para la realización de alguna obra pública deberán ser compensadas con superficies iguales o mayores a la extensión modificada, en el lugar más cercano.
+
+> <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+En el Distrito Federal se deberá conservar en su extensión el suelo de conservación.
 
 > <small>(ADICIONADO, G.O. 4 DE JUNIO DE 2004)</small>
 
@@ -2917,6 +2963,10 @@ VI. Deben evitarse las prácticas que causen alteraciones en el suelo y perjudiq
 Los criterios anteriores serán considerados en:
 
 I. Los apoyos a las actividades agropecuarias que otorguen las dependencias de la Administración Pública del Distrito Federal, de manera directa o indirecta, para que promuevan la progresiva incorporación de cultivos compatibles con la conservación del equilibrio ecológico y la restauración de los ecosistemas;
+
+> <small>(ADICIONADA, G.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+I Bis. La formulación y desarrollo de programas que establezcan mecanismos de retribución por la protección, conservación o ampliación de servicios ambientales y por la realización de actividades vinculadas al desarrollo rural, equitativo y sustentable en suelo de conservación;
 
 II. La autorización de fraccionamientos habitacionales y asentamientos humanos en general;
 
@@ -4551,3 +4601,9 @@ G.O. 20 DE AGOSTO DE 2015.
 PRIMERO. Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión, en el Diario Oficial de la Federación.
 
 SEGUNDO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
