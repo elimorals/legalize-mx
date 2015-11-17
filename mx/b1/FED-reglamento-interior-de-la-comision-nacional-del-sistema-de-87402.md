@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-nacional-del-sistema-de-8740
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-24"
-last_updated: "2012-04-24"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87402&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-04-19"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN NACIONAL DEL SISTEMA DE AHORRO PARA EL RETIRO, PUBLICADO EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 24 de abril de 2012.
 
@@ -802,3 +804,17 @@ SEXTO.- Las referencias que en su caso se hubiesen hecho, así como las atribuci
 SÉPTIMO.- El personal, expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor del presente Reglamento, pasarán a la nueva unidad o unidades competentes, distribuyéndose, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a diecinueve de abril de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José Antonio Meade Kuribreña.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Nacional del Sistema de Ahorro para el Retiro, publicado el 24 de abril de 2012 en el Diario Oficial de la Federación.
+
+TERCERO.- Los asuntos que a la entrada en vigor del presente ordenamiento se encuentren en trámite y que conforme al mismo deban ser atendidos por una unidad administrativa diversa a la que hubiere correspondido conforme a las disposiciones vigentes antes de esa fecha, serán transferidos por la unidad administrativa que se encuentre conociendo del asunto de que se trate, a la unidad o unidades administrativas a las que se les hayan atribuido la competencia en este ordenamiento.
+
+CUARTO.- Los acuerdos y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente ordenamiento, continuarán en vigor en lo que no se opongan al mismo.
+
+QUINTO.- Las referencias que en su caso se hubiesen hecho, así como las atribuciones que se hubieren otorgado mediante diversas disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
