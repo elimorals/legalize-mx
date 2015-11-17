@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asistencia-social-para-el-estado-de-quintana-roo-13366"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-15"
-last_updated: "2011-02-10"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE QUINTANA ROO
 
-LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE QUINTANA ROO.
+LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial, el 15 de diciembre de 1998.
 
@@ -93,7 +93,7 @@ En materia de violencia familiar, la asistencia que se proporcione será de acue
 
 La asistencia social integral y multidisciplinaria no contará entre sus criterios, patrones estereotipados de comportamiento o prácticas sociales y culturales, basadas en conceptos de subordinación o inferioridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 3°.
 
@@ -121,25 +121,31 @@ VII.- La promoción e impulso del sano crecimiento físico, psicoemocional y soc
 
 VIII.- El establecimiento y manejo de la comunicación estatal de información básica en materia de asistencia social integral y multidisciplinaria;
 
-IX.- La colaboración y auxilio a las autoridades laborales, competentes en la vigilancia y aplicación de la legislación laboral aplicable a las mujeres y a los menores;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+IX.- La colaboración y auxilio a las autoridades laborales, competentes en la vigilancia y aplicación de la legislación laboral aplicable a las mujeres y a las niñas, niños y adolescentes;
 
-X.- El fomento de acciones de paternidad responsable, que propician la preservación de los derechos de los menores a la satisfacción de sus necesidades y a la salud física y psicoemocional;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-XI.- La colaboración con las autoridades educativas y judiciales para la educación y capacitación de menores infractores;
+X.- El fomento de acciones de paternidad y maternidad responsable, que propician la preservación de los derechos de las niñas, niños y adolescentes a la satisfacción de sus necesidades y a la salud física y psicoemocional;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XI.- La colaboración con las autoridades educativas y judiciales para la educación y capacitación de adolescentes a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito;
 
 XII.- La prevención o protección a los sujetos que padecen desamparo o abandono, orientados a proporcionar servicios de albergue, salud, alimentación, educación, capacitación y apoyos emergentes.
 
-La atención a menores en riesgo de farmacodependencia, farmacodependientes o susceptibles de incurrir en hábitos y conductas antisociales y delictivas.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+La atención a niñas, niños y adolescentes en riesgo de fármaco dependencia, fármaco dependientes o susceptibles de incurrir en hábitos y conductas antisociales y delictivas.
 
 XIII.- El apoyo a mujeres en período de gestación o lactancia, con especial atención a las adolescentes.
 
 XIV.- La atención a la salud a través de acciones preventivas y curativas.
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-XV.- Apoyos a los servicios para la educación de menores que se encuentren en situaciones previstas en el artículo 8 fracción I de esta Ley y de personas con discapacidad que requieran educación especial o capacitación;
+XV.- Apoyos a los servicios para la educación de niñas, niños y adolescentes que se encuentren en situaciones previstas en el artículo 8 fracción I de esta Ley y de personas con discapacidad que requieran educación especial o capacitación;
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -161,11 +167,11 @@ Se entiende por derecho a un ambiente social adecuado y democrático, el derecho
 
 Los servicios enumerados en el artículo anterior podrán ser prestados por cualquier institución pública o privada, excepto aquellos que por disposición legal correspondan exclusivamente a instituciones públicas federales, estatales o municipales.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 5°.
 
-El Estado promoverá la organización y participación de la comunidad en la atención de la salud, que requieran acciones de asistencia social integral y multidisciplinaria basadas en el apoyo y solidaridad social, específicamente en el caso de comunidades afectadas de marginación, así como en los casos de menores en estado de riesgo, abandono y de incapacitados física o mentalmente, fomentando valores de igualdad de género, no discriminación dirigidos al desarrollo personal de los quintanarroenses, con el aprendizaje social y el enfoque de género, libre de estereotipos, prejuicios o conceptos de subordinación de un género hacia otro.
+El Estado promoverá la organización y participación de la comunidad en la atención de la salud, que requieran acciones de asistencia social integral y multidisciplinaria basadas en el apoyo y solidaridad social, específicamente en el caso de comunidades afectadas de marginación, así como en los casos de niñas, niños y adolescentes en estado de riesgo, abandono y discapacidad, fomentando valores de igualdad de género, no discriminación dirigidos al desarrollo personal de los quintanarroenses, con el aprendizaje social y el enfoque de género, libre de estereotipos, prejuicios o conceptos de subordinación de un género hacia otro.
 
 ###### ARTICULO 6°.
 
@@ -179,13 +185,15 @@ La prestación de servicios asistenciales quedará a cargo de dependencias y ent
 
 Tendrán derecho a la asistencia social integral y multidisciplinaria los individuos, familias y grupos que por sus condiciones físicas, psicoemocionales, jurídicas o sociales estén imposibilitados para atender su subsistencia, recuperación o superación, o se encuentren en situación de desamparo y no cuenten con las condiciones necesarias para ejercer derechos o para hacer frente a sus circunstancias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 8°.
 
 Son sujetos de atención de la asistencia social integral y multidisciplinaria, los considerados en el artículo anterior y que se encuentren en alguna de las siguientes situaciones:
 
-I.- Los menores en situación de riesgo:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+I. Las niñas, niños y adolescentes en situación de riesgo:
 
 1.- Por desnutrición
 
@@ -203,7 +211,13 @@ I.- Los menores en situación de riesgo:
 
 7.- Que trabajen; e
 
-8.- Infractores.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+8. A quienes se atribuya la comisión o participación en un hecho que la ley señale como delito;
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+9. Víctimas del delito.
 
 II.- Las mujeres:
 
@@ -249,7 +263,7 @@ XII.- Enfermos crónicos en estado de abandono, y
 
 XIII.- Los demás sujetos así considerados en otras disposiciones jurídicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 9°.
 
@@ -295,7 +309,7 @@ Los servicios de salud que en materia de Asistencia Social integral y multidisci
 
 En los casos de asistencia social en materia de violencia de género y de las diferentes modalidades de violencia que prevé la Ley de Acceso de las Mujeres a una vida Libre de Violencia del Estado de Quintana Roo, formarán parte del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 15.
 
@@ -311,7 +325,7 @@ II.- Definir criterios de distribución de grupos de usuarios, así como univers
 
 III.- Establecer y llevar a cabo conjunta y coordinadamente, programas institucionales que aseguren la atención integral y multidisciplinaria de los grupos sociales que se encuentren en estado de riesgo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 16.
 
@@ -347,9 +361,9 @@ II.- Directamente, o a través del Sistema para el Desarrollo Integral de la Fam
 
 6.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social integral y multidisciplinaria, así como de los problemas de la familia, etiología y comportamiento de la violencia familiar;
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-7.- Proponer al Ejecutivo iniciativas tendientes a la protección del menor, la mujer, del adulto mayor y de personas con alguna discapacidad; y
+7.- Proponer al Ejecutivo iniciativas tendientes a la protección de las niñas, niños y adolescentes, la mujer, las personas adultas mayores y personas con discapacidad; y
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -371,7 +385,7 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo,
 
 Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 20.
 
@@ -407,7 +421,7 @@ En todo caso, la Secretaría de Salud del Estado, emitirá las normas técnicas 
 
 El Organismo promoverá ante las autoridades correspondientes el otorgamiento de estímulos fiscales, para inducir acciones de asistencia social integral y multidisciplinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 24.
 
@@ -457,7 +471,7 @@ IV.- Las entidades y dependencias federales y estatales, así como los organismo
 
 V.- El propio Organismo a que se refiere esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 28.
 
@@ -971,13 +985,17 @@ II.- Por diez vocales designados entre personas de reconocida honorabilidad, mex
 
 2.- Del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
 
-3.- De la Secretaría de Hacienda.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+3.- De la Secretaría de Finanzas y Planeación;
 
 4.- De la Secretaría de Educación y Cultura.
 
 Los vocales restantes serán designados por las propias instituciones privadas. Aquéllos podrán ser o no patronos de éstas, y se designarán en base a la función predominante prestada por la institución, de acuerdo a los siguientes rubros:
 
-A).- Hogar para niños y adolescentes.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+A).- Hogar para niñas, niños y adolescentes.
 
 B).- Hogar para ancianos.
 
@@ -1027,7 +1045,7 @@ I.- Elaborar las normas internas de operación del Consejo de Vocales.
 
 II.- Autorizar la creación, transformación, modificación o extinción de las instituciones.
 
-III:- Autorizar los estatutos de las instituciones y en caso de no haber sido formulados por éstas, elaborarlos.
+III.- Autorizar los estatutos de las instituciones y en caso de no haber sido formulados por éstas, elaborarlos.
 
 IV.- Promover ante las autoridades competentes el otorgamiento de estímulos fiscales.
 
@@ -1495,7 +1513,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. RAUL O. SANTANA BASTARRACHEA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE FEBRERO DE 2011.
 
@@ -1504,3 +1522,9 @@ P.O. 10 DE FEBRERO DE 2011.
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
