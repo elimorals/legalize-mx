@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-atender-y-eliminar-la-discriminacion-en-91671
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2013-01-15"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY PARA PREVENIR, ATENDER Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL TEXTO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2012.
 
@@ -187,7 +185,7 @@ XXXII.- Negar la prestación de servicios financieros a personas con discapacida
 
 XXXIII.- Difundir sin consentimiento de la persona agraviada información sobre su condición de salud;
 
-XXXIV.- Estigmatizar y negar derechos a personas que viven con VIH/SI DA; y
+XXXIV.- Estigmatizar y negar derechos a personas que viven con VIH/SIDA; y
 
 XXXV.- En general cualquier otro acto u omisión discriminatorio en términos del artículo 7° de esta Ley.
 
@@ -195,11 +193,17 @@ XXXV.- En general cualquier otro acto u omisión discriminatorio en términos de
 
 Para los efectos del artículo anterior, cuando se presenten diferentes interpretaciones, o conflictos entre leyes u otras disposiciones de carácter obligatorio, se deberá aplicar la que proteja con mayor eficacia a las personas o a los grupos que puedan ser afectados por conductas discriminatorias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-Cada uno de los Poderes Públicos Estatales, los Ayuntamientos, los Órganos y aquellas instituciones que estén bajo su regulación, o competencia, están obligados a realizar las medidas de igualación, las medidas de inclusión y las acciones afirmativas necesarias para garantiza r a toda persona la igualdad de oportunidades y el derecho a la no discriminación.
+Cada uno de los Poderes Públicos Estatales, los Ayuntamientos, los Órganos y aquellas instituciones que estén bajo su regulación, o competencia, están obligados a realizar las medidas de nivelación, medidas de inclusión, medidas a favor de la igualdad y acciones afirmativas necesarias para garantizar a toda persona la igualdad de oportunidades y el derecho a la no discriminación.
 
 La adopción de estas medidas forma parte de la perspectiva antidiscriminatoria, la cual debe ser incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas que lleve a cabo cada uno de los poderes públicos estatales y los Ayuntamientos del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+Los Poderes Públicos Estatales, los Ayuntamientos y los Órganos, deberán reportar de manera semestral a la Comisión de los Derechos Humanos del Estado de Quintana Roo, las medidas de nivelación, medidas de inclusión, medidas a favor de la igualdad y acciones afirmativas que adopten. Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, escolaridad y tipo de discriminación.
 
 ###### Artículo 12.
 
@@ -263,7 +267,7 @@ III.- Procurar su incorporación, permanencia y participación en las actividade
 
 IV.- Fomentar la creación de programas permanentes de capacitación para el empleo y fomento para la integración laboral;
 
-V.- Garantizar que en todas las unidades del sistema de salud y de seguridad social reciban regularmente el tratamiento y los medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida; y (sic)
+V.- Garantizar que en todas las unidades del sistema de salud y de seguridad social reciban regularmente el tratamiento y los medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida; y
 
 VI.- Promover un entorno que permita el libre acceso y desplazamiento, lo que incluye la accesibilidad en los medios de transporte público de uso general;
 
@@ -323,15 +327,21 @@ II.- Garantizar que los migrantes puedan acceder a los servicios educativos prov
 
 III.- Los migrantes independientemente de su situación migratoria, tendrán derecho a la procuración e impartición de justicia, respetando en todo momento el derecho al debido proceso, así como a presentar quejas en materia de derechos humanos, de conformidad con las disposiciones contenidas en la Constitución y demás leves aplicables.
 
-### CAPÍTULO IV. DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO IV. DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-Corresponde a la Comisión de Derechos Humanos del Estado de Quintana Roo, emprender las acciones encaminadas a la prevención, atención y eliminación, de toda forma de discriminación; proporcionando la asesoría necesaria y suficiente para hacer prevalecer el respeto a los derechos humanos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y en la Constitución Política del Estado de Quintana Roo.
+Corresponde a la Comisión de los Derechos Humanos del Estado de Quintana Roo, emprender las acciones encaminadas a la prevención, atención y eliminación, de toda forma de discriminación; proporcionando la asesoría necesaria y suficiente para hacer prevalecer el respeto a los derechos humanos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano y en la Constitución Política del Estado de Quintana Roo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-Para los efectos de esta Ley, la Comisión de Derechos Humanos del Estado de Quintana Roo tendrá, además de las contenidas en el Artículo 11 de su ley, las siguientes atribuciones:
+Para los efectos de esta Ley, la Comisión de los Derechos Humanos del Estado de Quintana Roo tendrá, además de las contenidas en el Artículo 11 de su Ley, las siguientes atribuciones:
 
 I.- Promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas;
 
@@ -345,23 +355,41 @@ V.- Conocer y resolver los procedimientos de queja que le sean señalados en est
 
 VI.- Diseñar indicadores para la evaluación de las políticas públicas con perspectiva de no discriminación;
 
-VII.- Integrar y resolver los expedientes de queja sobre la materia, a través del procedimiento establecido en la Ley de la Comisión de Derechos Humanos del Estado de Quintana Roo; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-VIII.- Dar seguimiento a las quejas canalizadas al Consejo Nacional para Prevenir la Discriminación.
+VII.- Integrar y resolver los expedientes de queja sobre la materia, a través del procedimiento establecido en la Ley de la Comisión (sic) los Derechos Humanos del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VIII.- Dar seguimiento a las quejas canalizadas al Consejo Nacional para Prevenir la Discriminación;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+IX.- Registrar y monitorear las medidas de nivelación, medidas de inclusión, medidas a favor de la igualdad y acciones afirmativas que los Poderes Públicos Estatales, los Ayuntamientos y los Órganos, le reporten en términos de esta Ley y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo; y
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+X.- Las demás que establezca esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-En caso de que la queja presentada ante la Comisión de Derechos Humanos del Estado de Quintana Roo involucre tanto a servidores públicos o autoridades como a particulares, se procederá a efectuar la separación correspondiente, de manera que las conductas presuntamente discriminatorias cometidas por dichos servidores públicos o autoridades, se sigan, conforme a lo dispuesto en la fracción VII del artículo 21 de esta ley.
+En caso de que la queja presentada ante la Comisión de los Derechos Humanos del Estado de Quintana Roo involucre tanto a servidores públicos o autoridades como a particulares, se procederá a efectuar la separación correspondiente, de manera que las conductas presuntamente discriminatorias cometidas por dichos servidores públicos o autoridades, se sigan, conforme a lo dispuesto en la fracción VII del artículo 21 de esta ley.
 
 Las cometidas por los particulares serán canalizadas al Consejo Nacional para Prevenir la Discriminación.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-Cuando de los hechos narrados en el escrito de queja, se desprenda que el presunto agente discriminador es un servidor público, pero durante la investigación resulte que se trata de un particular, la Comisión de Derechos Humanos del Estado de Quintana Roo, mediante acuerdo debidamente fundado y motivado, notificara a las partes lo anterior y enviara las constancias que integran el expediente, a la autoridad encargada de conocer y resolver sobre el mismo.
+Cuando de los hechos narrados en el escrito de queja, se desprenda que el presunto agente discriminador es un servidor público, pero durante la investigación resulte que se trata de un particular, la Comisión de los Derechos Humanos del Estado de Quintana Roo, mediante acuerdo debidamente fundado y motivado, notificara a las partes lo anterior y enviara las constancias que integran el expediente, a la autoridad encargada de conocer y resolver sobre el mismo.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 24.
 
-Para la tramitación y resolución de las quejas que con motivo de violaciones a esta ley haya jugar, se estará a lo que dispone esta ley, la Ley de la Comisión de Derechos Humanos del Estado de Quintana Roo, así como su reglamento y demás disposiciones aplicables.
+Para la tramitación y resolución de las quejas que con motivo de violaciones a esta ley haya lugar, se estará a lo que dispone esta ley, la Ley de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como su reglamento y demás disposiciones aplicables.
 
 ### CAPÍTULO V. DE LA SANCIÓN DE CONDUCTAS DISCRIMINATORIAS
 
@@ -373,9 +401,11 @@ Los servidores de la administración pública estatal o municipal que en ejercic
 
 Los procedimientos para la aplicación de sanciones por responsabilidad administrativa y los de carácter penal en que incurran los servidores públicos estatales y municipales, se desarrollarán según su naturaleza y por la vía procesal que corresponda, conforme a las disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-Quien sea objeto de presuntas conductas discriminatorias cometidas por particulares, podrá comparecer ante el Ministerio Público para presentar la querella correspondiente o acudir a la Comisión de Derechos Humanos del Estado de Quintana Roo en los términos de Artículo 22 establecidos por la presente ley.
+Quien sea objeto de presuntas conductas discriminatorias cometidas por particulares, podrá comparecer ante el Ministerio Público para presentar la querella correspondiente o acudir a la Comisión de los Derechos Humanos del Estado de Quintana Roo en los términos de artículo 22 establecidos por la presente ley.
 
 ###### Artículo 28.
 
@@ -414,3 +444,11 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE SALUD DEL ESTADO DE QUINTANA ROO.
 
 DR. RAFAEL ALPUCHE DELGADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
