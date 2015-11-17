@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-prevenir-combatir-y-erradicar-la-trata-de-8932
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-01"
-last_updated: "2014-10-09"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PREVENIR, COMBATIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE JALISCO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 1 de septiembre de 2012.
 
@@ -90,6 +90,52 @@ d) La persona que hubiere vivido de forma permanente con la víctima durante por
 e) La persona que haya sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización, y
 
 IX. Testigo: es toda persona que de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 2
+
+bis. Las autoridades estatales, municipales y organismos públicos en el ámbito de sus competencias deberán observar los siguientes conceptos fundamentales:
+
+I. Máxima protección: Obligación de cualquier autoridad, de velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos humanos de las víctimas y los ofendidos del delito de trata de personas, adoptando en todo momento, medidas para garantizar su seguridad, protección, bienestar físico y psicológico, su intimidad y el resguardo de su identidad y datos personales;
+
+II. Perspectiva de género: Entendida como una visión científica, analítica y política sobre las mujeres y los hombres y las relaciones entre ellos en la sociedad, que permite enfocar y comprender las desigualdades socialmente construidas a fin de establecer políticas y acciones de Estado transversales para disminuir hasta abatir las brechas de desigualdad entre los sexos y garantizar el acceso a la justicia y el ejercicio pleno de sus derechos;
+
+III. Prohibición de la esclavitud y de la discriminación: en los términos del artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
+
+IV. Interés superior de la infancia: Entendido como la obligación del Estado de proteger los derechos de la niñez y la adolescencia, y de velar por las víctimas, ofendidos y testigos menores de 18 años de edad, atendiendo a su protección integral y su desarrollo armónico;
+
+V. Garantía de no revictimización: Obligación del Estado y los servidores públicos, en los ámbitos de sus competencias, de tomar todas las medidas necesarias para evitar que las víctimas sean revictimizadas en cualquier forma.
+
+VI. Laicidad y libertad de religión: Garantía de libertad de conciencia, asegurando a las víctimas la posibilidad de vivir y manifestar su fe y practicar su religión, sin ninguna imposición en los programas o acciones llevados a cabo por las instituciones gubernamentales o de la sociedad civil que otorgue protección y asistencia.
+
+VII. Presunción de minoría de edad: En los casos que no pueda determinarse o exista duda sobre la minoría de edad o documentos de identificación y no se cuente con dictamen médico, se presumirá ésta.
+
+VIII. Debida diligencia: Obligación de los servidores públicos de dar respuesta inmediata, oportuna, eficiente, eficaz y responsable en la prevención, investigación, persecución y sanción, así como en la reparación del daño de los delitos de trata de personas;
+
+IX. Las medidas de atención, asistencia y protección: beneficiarán a todas las víctimas de los delitos previstos por la ley General, con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral o económica que pudiera existir entre éste y la víctima; y
+
+X. Situación de vulnerabilidad: Condición particular de la víctima derivada de uno (sic) o más de las siguientes circunstancias que puedan derivar en que el sujeto pasivo realice la actividad, servicio o labor que se le pida o exija por el sujeto activo del delito:
+
+a) Su origen, edad, sexo, condición socioeconómica precaria;
+
+b) Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación, sufridas previas a la trata y delitos relacionados;
+
+c) Situación migratoria;
+
+d) Pertenecer o ser originario de un pueblo o comunidad indígena;
+
+e) Ser una persona mayor de sesenta años;
+
+f) Cualquier tipo de adicción;
+
+g) Condición de salud, trastorno físico o mental;
+
+h) Discapacidad;
+
+i) Una capacidad reducida para forma (sic) juicios por ser una persona menor de edad, o
+
+j) Cualquier otra característica que sea aprovechada por el sujeto activo del delito.
 
 ###### Artículo 3.
 
@@ -177,35 +223,67 @@ La Comisión deberá:
 
 I. Elaborar su Reglamento Interno;
 
-II. Elaborar el Programa Estatal;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-III. Coordinar a las dependencias, instituciones y entidades en la implementación del Programa Estatal;
+II. Elaborar el Programa Estatal de manera anual, en los términos del reglamento;
 
-IV. Desarrollar campañas de prevención, protección y atención en materia de trata de personas, fundamentadas en la salvaguarda de la dignidad humana y el respeto a los derechos humanos, con especial referencia a aquellos que sean considerados como grupos vulnerables;
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-V. Promover convenios de colaboración interinstitucional y suscribir convenios de coordinación con los gobiernos de la Federación, otras entidades federativas y los municipios, en relación con la seguridad, internación, tránsito o destino de las víctimas, ofendidos y testigos de los delitos; con el propósito de protegerlas, orientarlas, atenderlas y en su caso, asistirlas en su regreso a su lugar de origen, así como para prevenir la trata de personas;
+III. Proponer el proyecto de protocolo de atención a víctimas del delito de trata de personas para el Estado de Jalisco y una vez aprobado deberá ser publicado en el Periódico Oficial "El Estado de Jalisco";
 
-VI. Dar seguimiento y evaluar los resultados que se obtengan por la ejecución de los convenios de coordinación;
+IV. Coordinar a las dependencias, instituciones y entidades en la implementación del Programa Estatal;
 
-VII. Informar y capacitar con perspectiva de género, de derechos humanos y conforme al interés superior de la infancia, sobre los conceptos fundamentales y las implicaciones de la trata de personas y de los instrumentos internacionales con la materia al personal de la administración pública estatal y municipal, relacionados con la prevención e investigación con este fenómeno delictivo;
+V. Desarrollar campañas de prevención, protección y atención en materia de trata de personas, fundamentadas en la salvaguarda de la dignidad humana y el respeto a los derechos humanos, con especial referencia a aquellos que sean considerados como grupos vulnerables;
 
-VIII. Promover la investigación científica y el intercambio de experiencias entre organismos e instituciones a nivel nacional, incluyendo organizaciones de la sociedad civil vinculadas con la protección de las personas;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-IX. Informar a la población acerca de los riesgos e implicaciones de la trata de personas, los mecanismos para prevenir su comisión o revictimización, así como de las diversas modalidades de sometimiento para cometer este delito;
+VI. Promover convenios de colaboración interinstitucional y suscribir convenios de coordinación con el gobierno Federal, otras entidades federativas y los municipios, en relación con la seguridad, internación, tránsito o destino de las víctimas, ofendidos y testigos de los delitos; con el propósito de protegerlas, orientarlas, atenderlas y en su caso, asistirlas en su regreso a su lugar de origen, así como para prevenir la trata de personas;
 
-X. Informar y advertir al personal del sector turístico tales como cadenas hoteleras, sentidos de transporte público, restaurantes, bares y centros nocturnos, entre otros, acerca de la responsabilidad en que pueden incurrir en caso de facilitar las conductas inherentes a la trata de personas, así como orientarlos en la prevención de este delito;
+VII. Dar seguimiento y evaluar los resultados que se obtengan por la ejecución de los convenios de coordinación;
 
-XI. Orientar al personal responsable de los diversos medíos de transporte, acerca de las medidas necesarias para asegurar, en especial, la protección de las personas menores de dieciocho o mayores de sesenta años de edad, indígenas, mujeres, así como de quienes no tienen la capacidad para comprender el significado del hecho o de quienes sufren de alguna discapacidad, que viajen solas al interior o exterior del Estado;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-XII. Elaborar un informe anual, el cual contendrá los resultados obtenidos del Programa Estatal, mismo que será remitido al titular del Poder Ejecutivo y al Congreso del Estado;
+VIII. Informar y capacitar con perspectiva de género, de derechos humanos y conforme al interés superior de la infancia, de la debida diligencia y atención a las víctimas de este delito, sobre los conceptos y principios fundamentales y las implicaciones de la trata de personas y de los instrumentos internacionales con la materia al personal de la administración pública estatal y municipal, relacionados con la prevención e investigación con este fenómeno delictivo;
 
-XIII. Coordinarse con la Comisión u órgano homólogo a nivel federal;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
+IX. Promover la investigación científica y el intercambio de experiencias entre organismos e instituciones a nivel nacional y estatal, incluyendo organizaciones de la sociedad civil vinculadas con la protección de las personas;
 
-XIV. Asesorar a las dependencias y entidades de la administración pública estatal y municipal en la realización de acciones tendientes a prevenir y combatir la trata de personas y proteger a sus víctimas, ofendidos y testigos, y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-XV. Las demás que se establezcan en esta ley y su Reglamento.
+X. Informar a la población acerca de los riesgos e implicaciones de la trata de personas, los mecanismos para prevenir su Comisión o revictimización, así como de las diversas modalidades de sometimiento para cometer este delito;
+
+XI. Informar y advertir al personal del sector turístico tales como cadenas hoteleras, servicios de transporte público, restaurantes, bares y centros nocturnos, entre otros, acerca de la responsabilidad en que pueden incurrir en caso de facilitar las conductas inherentes a la trata de personas, así como orientarlos en la prevención de este delito;
+
+XII. Orientar al personal responsable de los diversos medíos de transporte, acerca de las medidas necesarias para asegurar, en especial, la protección de las personas menores de dieciocho o mayores de sesenta años de edad, indígenas, mujeres, así como de quienes no tienen la capacidad para comprender el significado del hecho o de quienes sufren de alguna discapacidad, que viajen solas al interior o exterior del Estado;
+
+XIII. Elaborar un informe anual, el cual contendrá los resultados obtenidos del Programa Estatal, mismo que será remitido al titular del Poder Ejecutivo y al Congreso del Estado;
+
+XIV. Coordinarse con la Comisión u órgano homólogo a nivel federal;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XV. Asesorar a las dependencias y entidades de la administración pública estatal y municipal en la realización de acciones tendientes a prevenir y combatir la trata de personas y proteger a sus víctimas, ofendidos y testigos,
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Proponer acciones específicas de prevención en base al Programa Estatal, en coordinación con cada una de las Secretarías que integran la Comisión en el ámbito de sus facultades y atribuciones, y
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Las demás que se establezcan en esta ley y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 9 bis. La Comisión deberá realizar la difusión de las acciones del Programa Estatal dentro de los espacios de los que dispone el estado en los diversos medios de comunicación, con la finalidad de visualizar los factores de vulnerabilidad y las acciones implementadas para la prevención, persecución y combate al delito de trata de personas.
+
+La difusión que realice el Comisión a través de los medios de comunicación tendrá como objetivo.
+
+a) Dar a conocer las acciones del Programa Estatal;
+
+b) Difundir las políticas públicas de prevención, dirigidas a grupos específicos en situación de vulnerabilidad; y
+
+c) Dar a conocer las medidas para la persecución y combate al delito de trata de personas y la protección, asistencia y atención a las víctimas.
 
 ###### Artículo 10.
 
@@ -259,9 +337,15 @@ c) Elaborar estrategias y programas para evitar la comisión de los delitos de t
 
 d) Realizar campañas de información acerca de los métodos utilizados por los responsables de los delitos de trata de personas para captar, enganchar, transportar, transferir, retener, entregar, recibir, alojar o reclutar con fines de explotación a las víctimas;
 
-e) Promover la cultura de la denuncia como un factor indispensable en la lucha contra la delincuencia, la impunidad y la aceptación social de los delitos de trata de personas, y
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-f) Las demás que considere necesarias para la prevención de estos delitos.
+e) Promover la cultura de la denuncia como un factor indispensable en la lucha contra la delincuencia, la impunidad y la aceptación social de los delitos de trata de personas;
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+f) Generar un sistema estadístico para medir los avances en la erradicación de la trata de personas; y
+
+g) Las demás que considere necesarias para la prevención de estos delitos.
 
 ###### Artículo 15.
 
@@ -303,9 +387,11 @@ h) Procurar con los medios a su alcance protección, seguridad y salvaguarda de 
 
 Las autoridades del Estado y sus municipios, protegerán la privacidad y la identidad de las víctimas, ofendidos y testigos de trata de personas, previendo la confidencialidad de las actuaciones.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 20.
 
-La Comisión cooperará con la Coordinación General, así como con las autoridades estatales y municipales, en el ámbito da sus competencias, en la implementación de medidas que procuren la recuperación física, psicológica y social de las víctimas, ofendidos y testigos del delito de trata de personas, pudiendo coordinarse con organizaciones de la sociedad civil.
+La Comisión cooperará con la Coordinación General, así como con las autoridades estatales y municipales, en el ámbito da (sic) sus competencias, en la implementación de medidas que procuren la recuperación física, psicológica, laboral y social de las víctimas, ofendidos y testigos del delito de trata de personas, pudiendo coordinarse con organizaciones de la sociedad civil.
 
 ###### Artículo 21.
 
@@ -327,19 +413,31 @@ La Comisión en el diseño del Programa Estatal, deberá incluir los siguientes 
 
 I. Un diagnóstico con evaluación cuantitativa y cualitativa sobre la situación que prevalezca en la materia, así como la identificación de la problemática a superar;
 
-II. Los objetivos generales y específicos del Programa Estatal;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+II. Los objetivos generales y específicos del Programa Estatal, contendrá (sic) los principios y conceptos a que se refiere el artículo 2 bis de esta ley en los términos del Reglamento;
 
 III. Las estrategias y líneas de acción del Programa Estatal, incluyendo aquellas en las que participe la población activa y propositiva;
 
 IV. Los mecanismos de cooperación interinstitucional;
 
-V. Los criterios de vinculación, colaboración y corresponsabilidad con la sociedad civil organizada u otras organizaciones relacionadas;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+V. Los criterios de vinculación y colaboración con la sociedad civil organizada u otras organizaciones relacionadas;
 
 VI. El diseño de campañas de difusión en los medios de comunicación, para sensibilizar a la sociedad sobre las formas de prevención y protección a víctimas, ofendidos y testigos;
 
-VII. La generación de alternativas para obtener recursos y financiar las acciones del programa, y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-VIII. El establecimiento de la evaluación y seguimiento de las actividades que deriven del programa, fijando indicadores para medir los resultados.
+VII. La generación de alternativas para obtener recursos y financiar las acciones del programa;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VIII. El establecimiento de la evaluación y seguimiento de las actividades que deriven del programa, fijando indicadores para medir los resultados, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+IX. Proponer programas de capacitación para funcionarios públicos en materia de prevención de la trata, factores de vulnerabilidad y atención a víctimas de este delito.
 
 Además de las medidas de atención y protección a las víctimas, ofendidos y testigos, previstas en el artículo 18 de la ley.
 
@@ -508,3 +606,7 @@ VÍCTOR MANUEL GONZÁLEZ ROMERO
 P.O. 9 DE OCTUBRE DE 2014.
 
 Único. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
