@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-100533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2014-04-03"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley Publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 27 de febrero de 2014.
 
@@ -175,9 +175,17 @@ XVII. Fomentar la cultura de la transparencia y la rendición de cuentas, así c
 
 XVIII. Promover y fomentar la lectura y el libro;
 
-XIX. Difundir los derechos y deberes de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercitarlos, y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-XX. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de los alumnos, docentes e infraestructura.
+XIX. Difundir los derechos y deberes de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercitarlos;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XX. Realizar acciones educativas y preventivas a fin de evitar que se cometan ilícitos en contra de los alumnos, docentes e infraestructura, y
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XXI. Fomentar la educación vial, a fin de que se refuercen los conocimientos, comprensión y respeto a las normas y hábitos de prevención de accidentes viales, así como la protección de todos los habitantes en la vía pública ya sean conductores, pasajeros o peatones.
 
 ### CAPÍTULO III. DEL CRITERIO QUE ORIENTARÁ A LA EDUCACIÓN
 
@@ -2156,3 +2164,7 @@ M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
 P.O. 3 DE ABRIL DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- El presente decreto entrara en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
