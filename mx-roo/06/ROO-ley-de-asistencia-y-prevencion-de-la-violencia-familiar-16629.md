@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asistencia-y-prevencion-de-la-violencia-familiar-16629"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-15"
-last_updated: "2013-09-30"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de junio de 2000.
 
@@ -35,7 +35,7 @@ LA HONORABLE IX LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTA
 
 DECRETA:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE QUINTANA ROO.
 
@@ -105,7 +105,9 @@ IV.- CONSEJO. El Consejo para la Asistencia y Prevención de la Violencia Famili
 
 V.- LEY. Ley de Asistencia y Prevención de la Violencia Familiar para el Estado de Quintana Roo.
 
-VI.- PROCURADURIA. La Procuraduría de la Defensa del Menor y la Familia del Estado, y sus Delegaciones Municipales.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VI.- PROCURADURÍA. La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Quintana Roo;
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -113,11 +115,11 @@ VII.- SISTEMA ESTATAL. Al Sistema Estatal de Prevención, Atención, Sanción y 
 
 ### CAPITULO SEGUNDO. DE LA APLICACION Y COMPETENCIA
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 3.
 
-La aplicación de la presente Ley corresponde, en el ámbito estatal, al Sistema para el Desarrollo Integral de la Familia del Estado, por conducto de la Procuraduría de la Defensa del Menor y la Familia, y en el ámbito municipal, a los Sistemas para el Desarrollo Integral de la Familia de cada Municipio, a través de sus correspondientes Delegaciones de la Procuraduría de la Defensa del Menor y la Familia o en su defecto, por sus respectivas Unidades de Asistencia Social o Jurídicas; así como a la Procuraduría General de Justicia del Estado y al Tribunal Superior de Justicia del Estado a través del Centro de Asistencia Jurídica, en el ámbito de sus respectivas competencias.
+La aplicación de la presente Ley corresponde, en el ámbito de sus respectivas competencias al Sistema para el Desarrollo Integral de la Familia del Estado, por conducto de la Procuraduría; a los Sistemas para el Desarrollo Integral de la Familia de cada Municipio; a la Procuraduría General de Justicia del Estado y al Tribunal Superior de Justicia del Estado a través del Centro de Asistencia Jurídica.
 
 > <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
@@ -135,7 +137,7 @@ Para el cumplimiento de los objetivos de esta Ley, las Instituciones señaladas 
 
 ## TITULO SEGUNDO. DE LA ASISTENCIA Y PREVENCION
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 ### CAPITULO PRIMERO. DEL CONSEJO PARA LA ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE QUINTANA ROO
 
@@ -191,9 +193,9 @@ Quienes representen a las dependencias y organismos que integran el Consejo, deb
 
 La integración del Consejo estará libre de prejuicios de género, debiendo buscarse de preferencia una participación proporcional.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-ARTICULO 6° BIS.- La Procuraduría de la Defensa del Menor y la Familia, será quien ejerza la representación del Consejo en el Sistema Estatal, a efecto de articular las bases para la asistencia y prevención de la violencia familiar en el Estado.
+ARTICULO 6° BIS.- La Procuraduría será quien ejerza la representación del Consejo en el Sistema Estatal, a efecto de articular las bases para la asistencia y prevención de la violencia familiar en el Estado.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -349,15 +351,13 @@ El tratamiento tanto para quienes incurran en actos de violencia familiar así c
 
 El personal de las instituciones a que se refiere el Artículo 15 de esta ley, deberá ser profesional acreditado por algún organismo especializado, público o privado y contar con el perfil y aptitudes adecuadas, en términos de las disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 18.
 
 Cuando el Ministerio Público conozca de un asunto relacionado con violencia familiar, lo deberá canalizar a la Procuraduría para la prestación de la asistencia médica, terapéutica o jurídica que requiera tanto quien genera como quien recibe.
 
-En los casos en que una o un receptora/r sea menor de edad, con discapacidad o adulto/a mayor víctima de violencia familiar, abandono o en cualquier otra circunstancia que ponga en peligro su vida, salud, y/o sano desarrollo, se presente o sea presentado ante el Ministerio Público, éste de inmediato dará aviso a la Procuraduría de la Defensa del Menor y la Familia a efecto de que haga valer su representación a través del Oficial de Menores y brinde la protección tutelar precautoria para su atención y representación legal.
-
-Esta representación legal y protección tutelar se efectuará solo en casos que se compruebe fehacientemente que no existe ningún familiar en línea directa ascendente o descendente hasta el segundo grado o lateral hasta el segundo grado en quien pueda recaer temporalmente esta tutela; cuidado y representación.
+En los casos en que una receptora o un receptor sea una persona menor de edad, con discapacidad o adulto/a mayor víctima de violencia familiar, abandono o en cualquier otra circunstancia que ponga en peligro su vida, salud, y/o sano desarrollo, se presente o sea presentado ante el Ministerio Público, éste de inmediato dará aviso a la Procuraduría a efecto de que haga valer su representación a través del Oficial de Personas Menores de edad y brinde la protección para su atención y representación legal.
 
 Cuando la Procuraduría conozca directamente de un caso de violencia familiar, o cualquier otra circunstancia que pueda poner en peligro la vida, salud y/o sano desarrollo de quien recibe la violencia, lo hará del conocimiento del Ministerio Público, remitiéndole copia de los documentos y demás elementos de que disponga, para que éstos sean ofrecidos como medios de prueba para la determinación jurídica correspondiente.
 
@@ -435,17 +435,17 @@ III.- Aplicar el procedimiento previsto en esta ley, para la atención jurídica
 
 IV.- Proporcionar, por conducto del personal capacitado, asistencia especializada gratuita, en coordinación con las instituciones autorizadas, a las y los receptores de actos violentos que no constituyan delito, así como a las y los generadores o familiares involucrados, dentro de una atención psicológica y de trabajo social;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-V.- Canalizar los casos de violencia económica, patrimonial y/o de custodia de menores de edad, de adultos/as mayores o con discapacidad, a la Agencia del Ministerio Público del Fuero Común o al Juez de lo Familiar competente, según corresponda, a efecto de que sea substanciado en dicha instancia;
+V.- Canalizar los casos de violencia económica, patrimonial y/o de custodia de personas menores de edad, de adultos/as mayores o con discapacidad, a la Agencia del Ministerio Público del Fuero Común o al Juez de lo Familiar competente, según corresponda, a efecto de que sea substanciado en dicha instancia;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2007)</small>
 
 VI.- Atender las solicitudes de las personas que tengan conocimiento de hechos que puedan ser constitutivos de violencia familiar;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-VII.- Dentro de su función de asesoría jurídica, solicitar al órgano jurisdiccional competente, la expedición de las órdenes de protección y alejamiento necesarias para salvaguardar la integridad física, psicológica, económica y patrimonial de la o las víctimas en términos de las leyes aplicables en la materia, siempre que sea a petición expresa de estas últimas;
+VII.- Dentro de su función de asesoría jurídica, solicitar al órgano jurisdiccional competente, la expedición de las órdenes de protección y alejamiento necesarias para salvaguardar la integridad física, psicológica, económica y patrimonial de la o las víctimas en términos de las leyes aplicables en la materia, siempre que sea a petición expresa de estas últimas; tratándose de victimas personas menores de edad cuando exista riesgo inminente contra la vida, integridad o libertad deberá solicitar la imposición de medidas de protección o en su caso ordenarlas de conformidad con lo establecido por la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo y demás disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -455,13 +455,13 @@ VIII.- Integrar debidamente los expedientes de diagnostico, trabajo psicológico
 
 IX.- Dar seguimiento, conforme a sus atribuciones, de los casos de violencia familiar;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-X.- Dar seguimiento conforme a sus atribuciones, de los casos de violencia económica, patrimonial y/o custodia de menores de edad, de adultos/as mayores o con discapacidad que hayan sido canalizados;
+X.- Dar seguimiento conforme a sus atribuciones, de los casos de violencia económica, patrimonial y/o custodia de personas menores de edad, de adultos/as mayores o con discapacidad que hayan sido canalizados;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-XI.- Al momento de canalizar un asunto de violencia económica, patrimonial y/o de custodia tanto de menores de edad como de adultos mayores, deberá solicitar los tratamientos de orden sociocultural y terapéutico necesarios para la prevención o no reincidencia de la conducta violenta de las y los generadores canalizados;
+XI.- Al momento de canalizar un asunto de violencia económica, patrimonial y/o de custodia tanto de personas menores de edad como de adultos mayores, deberá solicitar los tratamientos de orden sociocultural y terapéutico necesarios para la prevención o no reincidencia de la conducta violenta de las y los generadores canalizados;
 
 XII.- (DEROGADA, P.O. 30 DE SEPTIEMBRE DE 2013)
 
@@ -473,21 +473,19 @@ XIII.- Las demás que se deriven de las disposiciones del presente ordenamiento 
 
 ### CAPITULO PRIMERO. REGLAS GENERALES
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 24.
 
-Las receptoras/es de violencia familiar, así como de actos violentos que no constituyan delito, deberán ser atendidas mediante procedimientos jurídicos, socio-psicológicos y de trabajo social encaminados a que reconozcan la situación que enfrentan. Estos procedimientos deberán tener como marco normativo el reconocimiento irrestricto de sus derechos humanos, los Tratados, Convenios y Convenciones suscritos por el Estado Mexicano tales como La Convención Internacional de los Derechos de los Niños; Niñas y Adolescentes, así como lo establecido en la Ley de Acceso a las Mujeres a una Vida libre de Violencia en el Estado de Quintana Roo, La Ley de Igualdad entre Mujeres y Hombres del Estado de Quintana Roo y demás leyes aplicables en la materia.
+Las receptoras o receptores de violencia familiar, así como de actos violentos que no constituyan delito, deberán ser atendidas mediante procedimientos jurídicos, socio-psicológicos y de trabajo social encaminados a que reconozcan la situación que enfrentan. Estos procedimientos deberán tener como marco normativo el reconocimiento irrestricto de sus derechos humanos, los Tratados, Convenios y Convenciones suscritos por el Estado Mexicano tales como la Convención Internacional de los Derechos de los Niños; Niñas y Adolescentes, así como lo establecido en la Ley de Acceso a las Mujeres a una Vida libre de Violencia en el Estado de Quintana Roo, La Ley de Igualdad entre Mujeres y Hombres del Estado de Quintana Roo y demás leyes aplicables en la materia.
 
 I. En caso de recibir a una víctima con signos evidentes de violencia familiar, será canalizada a la mesa del Ministerio Público correspondiente;
 
-II. Solo en el caso que la víctima fuera menor de edad, adulta/o mayor o con discapacidad y no se tuviera conocimiento de algún familiar en línea recta ascendente o colateral hasta el segundo grado quien la represente; la Procuraduría de la Defensa del Menor y la Familia la representará en el inicio de la averiguación previa.
+II. Tratándose de víctimas personas menores de edad la Procuraduría los representará de conformidad con lo establecido en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo y demás disposiciones aplicables, sin perjuicio de las atribuciones que le correspondan a otras autoridades. En caso de victimas mayores de edad, adultas mayores o mayores de edad con discapacidad y no se tuviera conocimiento de algún familiar en línea recta ascendente o colateral hasta el segundo grado quien la represente; la Procuraduría los representará en el inicio de la investigación.
 
-III. Para el caso de la fracción anterior; una vez realizada la denuncia ante el representante social, será determinación única y exclusiva de la Procuraduría la situación de custodia y guarda temporal de la o el menor de edad, adulta/o mayor o persona con discapacidad; prefiriendo en todo momento que esta recaiga en familiares consanguíneos más cercanos que acepten voluntariamente dicho encargo.
+III. Para el caso de la fracción anterior; una vez realizada la denuncia ante el representante social, será determinación única y exclusiva de la Procuraduría la situación de custodia y guarda temporal de la persona menor de edad, adulta/o mayor o persona con discapacidad; prefiriendo en todo momento que esta recaiga en familiares consanguíneos más cercanos que acepten voluntariamente dicho encargo.
 
 Se recurrirá al internamiento de estas víctimas en casas de acogida, de asistencia o la propia casa filtro del Sistema para el Desarrollo Integral de la Familia, como última instancia y tras haber agotado todos los medios posibles para evitar dicho internamiento.
-
-Se recurrirá al internamiento de estas víctimas en casas de acogida, de asistencia o la propia casa filtro del Sistema para el Desarrollo Integral de la Familia, como última instancia y tras haber agotado todos los medios posibles para evitar dicho internamiento. (sic)
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -525,11 +523,11 @@ d) De integrantes de asociaciones civiles.
 
 Cualquier persona, distinta de las mencionadas en los incisos anteriores, que tenga conocimiento de la realización de actos considerados como violencia familiar.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-En cualquier caso de queja presentada por tercera persona, se citará a las y los generadores, así como a las o los receptores de los dichos actos violentos, para el efecto de que se les practique una valoración médica y psicológica, y se procederá conforme a lo dispuesto en el Artículo 24 de esta ley.
+En cualquier caso de queja presentada por tercera persona, se citará a los generadores y receptores de la violencia familiar, o a quienes ejerzan la patria potestad o la tutela, solicitándose la presentación del o las personas menores o incapaces, para el efecto de que se les practique una valoración médica y psicológica, y se procederá conforme a lo dispuesto en el artículo 24 de esta ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE MARZO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2002)</small>
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO INTERNO
 
@@ -541,11 +539,11 @@ Recibida la queja que ponga en conocimiento de esta Procuraduría de un caso de 
 
 Hecho lo anterior, se ordenará la citación de la o el generadora/r a fin de llevar una entrevista previa en la que enterada/o de su calidad, de la gravedad de los hechos y de la posibilidad y alternativa de solución existente, sea asistido con los mismos beneficios de la receptora de violencia para indagar la causa generadora de su conducta violenta y emitir un dictamen necesario para la canalización en caso de ser procedente.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 29.
 
-En caso de que la o el generadora/r no se presentare por lo menos dos veces a la cita programada, se hará constar en actas y se continuará la integración del expediente, determinando bajo el más prudente arbitrio de la o el Procurador de la Defensa del Menor y la Familia la remisión del expediente a la agencia del ministerio público correspondiente; atendiendo a lo dispuesto en los artículos 25, 26 y 27 de la presente Ley; actuando como coadyuvante de la Representación Social.
+En caso de que la o el generadora/r no se presentare por lo menos dos veces a la cita programada, se hará constar en actas y se continuará la integración del expediente, determinando bajo el más prudente arbitrio de la o el Procurador la remisión del expediente a la agencia del ministerio público correspondiente; atendiendo a lo dispuesto en los artículos 25, 26 y 27 de la presente Ley; actuando como coadyuvante de la Representación Social.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -602,3 +600,9 @@ P.O. 27 DE NOVIEMBRE DE 2007.
 P.O. 30 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
