@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2015-05-28"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -956,6 +956,10 @@ En cualquier etapa de la investigación o procedimiento de responsabilidad admin
 ###### Artículo 96.
 
 El Pleno o, en su caso, la Comisión, previo dictamen de la Secretaría o la Contraloría, en cualquier etapa del trámite de una investigación o procedimiento de responsabilidad administrativa, o en los supuestos establecidos en el artículo 81, fracciones X y XI de la Ley Orgánica, podrán determinar fundada y motivadamente, como medida cautelar la suspensión temporal del servidor público en su cargo, empleo o comisión, en cuyo caso estará imposibilitado para ocupar un cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelva lo conducente.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 96 DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE NOVIEMBRE DE 2015)</small>
+
+En casos excepcionales y por razones de necesidad o urgencia, el Presidente, previo dictamen de la Secretaría, en cualquier etapa de la investigación o del procedimiento de responsabilidad administrativa, podrá decretar fundada y motivadamente, como medida cautelar, la suspensión del servidor público involucrado en su cargo, empleo o comisión, en cuyo caso estará imposibilitado para ocupar un cargo, empleo o comisión diverso en el Poder Judicial de la Federación hasta en tanto se resuelva lo conducente. Decretada la suspensión, la Secretaría dará cuenta al Pleno en la siguiente sesión ordinaria, para su revisión o verificación.
 
 ###### Artículo 97.
 
@@ -2900,3 +2904,9 @@ La Contraloría del Poder Judicial de la Federación, la Secretaría Ejecutiva d
 Además, las áreas administrativas señaladas en el párrafo anterior y la Visitaduría Judicial, llevarán a cabo las acciones necesarias para estar en posibilidad de aplicar el citado artículo 251, dentro del plazo referido.
 
 CUARTO. Los asuntos iniciados con anterioridad a la entrada en vigor del presente Acuerdo y antes del plazo a que se refiere el artículo anterior, deberán de concluirse conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
