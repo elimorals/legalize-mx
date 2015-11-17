@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2015-11-06"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -566,6 +566,10 @@ Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, 
 La organización y desenvolvimiento de la familia revisten un objeto particular de tutela, para el orden jurídico del Estado.
 
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá, según el caso, los auxilios pertinentes para suplir las deficiencias en la asistencia de sus progenitores, tanto como para ofrecer orientación conveniente a los menores desprotegidos.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo su participación y la de los Municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
@@ -1193,7 +1197,7 @@ Toda resolución de la Legislatura que tenga carácter de Ley o decreto se comun
 
 ###### ARTICULO 75.
 
-Son facultades de la Legislatura del Estado.
+Son facultades de la Legislatura del Estado:
 
 I.- Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a los funcionarios federales.
 
@@ -1917,7 +1921,7 @@ Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
-I. Ser ciudadano mexicano por nacimiento y ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles;
+I. Ser ciudadano mexicano por nacimiento y ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles.
 
 II. No tener menos de treinta y cinco años de edad el día de la designación.
 
@@ -1927,7 +1931,7 @@ IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite
 
 V. Haber residido en el Estado durante los diez años anteriores al día de la designación.
 
-VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación. y
+VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación, y
 
 VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Procurador General de Justicia, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
 
@@ -2261,13 +2265,13 @@ El Municipio Libre es la base de la división territorial y de la organización 
 
 La Autonomía del Municipio Libre se expresa en la facultad de gobernar y administrar por sí mismo los asuntos propios de su comunidad, en el ámbito de competencia que le señala la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que conforme a ellas se expidan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 127.
 
 El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum, Bacalar y Puerto Morelos.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 128.
 
@@ -3043,7 +3047,7 @@ Las colindancias del municipio de Puerto Morelos, son:
 
 Al norte, los municipios de Lázaro Cárdenas y Benito Juárez; al este, el municipio de Benito Juárez y el Mar Caribe; al sur, los municipios de Solidaridad y Lázaro Cárdenas y al oeste, el municipio de Lázaro Cárdenas.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 129.
 
@@ -4676,3 +4680,9 @@ P.O. 6 DE NOVIEMBRE DE 2015.
 DECRETO NÚMERO 343 POR EL QUE SE REFORMAN LOS ARTÍCULOS 127, 128 FRACCIÓN VI, 134 FRACCIÓN II Y 135 FRACCIÓN I SEGUNDO PÁRRAFO; Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 128, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
