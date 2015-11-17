@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2015-07-24"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -5021,7 +5021,13 @@ La filiación de los hijos que no se benefician de las presunciones establecidas
 
 Respecto del padre, la filiación se establece por el reconocimiento o por sentencia que declare la paternidad; pero en el caso del artículo 882, se podrá justificar la paternidad en el mismo juicio de intestado o de alimentos y será suficiente probar los hechos a que se refieren los artículos 882 y 889 tanto en vida del padre como después de su muerte.
 
-El Juez deberá ordenar para efectos del presente artículo se practiquen las pruebas genéticas respectivas, a fin de que se establezca la paternidad correspondiente, en ningún caso y bajo ninguna circunstancia al que se le imputa la paternidad o maternidad se podrá negar a practicarse dicha prueba.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+El Juez deberá ordenar para efectos del presente artículo se practiquen las pruebas genéticas respectivas, a fin de que se establezca la paternidad correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+Ante la negativa de la prueba de paternidad o maternidad, salvo prueba en contrario, se presumirá que es el padre o la madre respectivamente.
 
 ###### Artículo 892.
 
@@ -5133,11 +5139,11 @@ III.- A percibir la porción hereditaria que fija la ley en caso de intestado o 
 
 IV.- A ejercer los derechos que este Código concede a los hijos póstumos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 914.
 
-Cuando el padre o la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán con base al interés superior del menor, cuál de los dos ejercerá la custodia del hijo menor de edad y, en consecuencia, con quién de ellos habitará; para el caso de menores de doce años, estos preferentemente quedan bajo el cuidado de la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar a su alimentación y crianza conservando el derecho de convivencia con el menor de edad, conforme a las modalidades previstas en el convenio y resolución judicial, y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, resolverá lo que creyere más conveniente al interés superior del menor.
+Cuando el padre o la madre que no vivan juntos reconozcan al hijo, en el mismo acto, convendrán con base al interés superior de la niñez, cuál de los dos ejercerá la custodia del hijo menor de edad y, en consecuencia, con quién de ellos habitará; para el caso de menores de doce años, estos preferentemente quedan bajo el cuidado de la madre, salvo que exista riesgo o peligro. El otro estará obligado a colaborar a su alimentación y crianza conservando el derecho de convivencia con el menor de edad, conforme a las modalidades previstas en el convenio y resolución judicial, y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres, resolverá lo que creyere más conveniente al interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
@@ -5523,9 +5529,11 @@ El desempeño de la patria potestad, de la tutela y de la adopción queda sujeto
 
 Las providencias protectoras de las personas menores de edad que este Código establece y las que juzguen pertinentes los tribunales, se dictarán por ellos de oficio, o a petición del Ministerio Público, de los parientes de las personas menores de edad, de estas mismas si pueden expresarse, de su tutor, del Oficial de Menores de Edad o de cualquiera otra persona siempre que dichas medidas beneficien a la persona menor de edad.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-Artículo 990 BIS.- Para los efectos del presente Código se considerará como, interés superior del menor, la prioridad que ha de otorgarse a los derechos de las niñas y los niños respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
+###### Artículo 990 Bis.
+
+Para los efectos del presente Código se considerará como interés superior de la niñez, la prioridad que ha de otorgarse a los derechos de las niñas y los niños respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
 
 I.- El acceso a la salud física y mental, alimentación y educación que fomente su desarrollo personal, sin estereotipos ni condicionamientos de género;
 
@@ -5535,7 +5543,7 @@ III.- El desarrollo de la estructura de la personalidad, con una adecuada autoes
 
 IV.- El fomento de la responsabilidad personal y social, así como la toma de decisiones de la persona menor de edad de acuerdo a su edad y madurez psicoemocional; y
 
-V.- .Los demás derechos que a favor de las niñas y los niños reconozcan otras leyes y tratados aplicables, debidamente suscritos y ratificados por México.
+V.- Los demás derechos que a favor de las niñas y los niños reconozcan otras leyes y tratados aplicables, debidamente suscritos y ratificados por México.
 
 > <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
 
@@ -5589,7 +5597,9 @@ V.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por p
 
 VI.- Impulsar la toma de decisiones y el respeto a su opinión; y
 
-VII.- Determinar los límites y normas de conducta preservando el interés superior del menor.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VII.- Determinar los límites y normas de conducta preservando el interés superior de la niñez.
 
 Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática no se realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y del régimen de convivencias y visitas.
 
@@ -5735,7 +5745,9 @@ IV.- Por resolución judicial que determine su pérdida.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
-Artículo 1018 BIS.- La patria potestad se pierde únicamente mediante resolución judicial, si decretada su suspensión por la causal prevista en la fracción III del artículo 1019 de éste Código, se cometiere alguno de los supuestos siguientes:
+###### Artículo 1018 Bis.
+
+La patria potestad se pierde únicamente mediante resolución judicial, si decretada su suspensión por la causal prevista en la fracción III del artículo 1019 de éste Código, se cometiere alguno de los supuestos siguientes:
 
 I.- En el caso de violencia familiar reiterada en contra de la persona menor de edad así como del· cónyuge, por parte de quienes ejercen la patria potestad o con su conocimiento y tolerancia, debiéndose señalar para tal efecto las circunstancias de tiempo, modo y lugar;
 
@@ -5743,7 +5755,9 @@ II.- Cuando el que la ejerza hubiera cometido en contra de la integridad física
 
 III.- Cuando el que la ejerza abandone a su hijo y/o hija menor de edad dejándolo a su suerte con un tercero o terceros, o en un lugar público o privado, con la finalidad de deshacerse de sus obligaciones de patria potestad y de crianza; y
 
-IV.- Cuando habiendo dejado a su hijo o hija menor de edad a cargo de una persona o institución, el que ejerza la patria potestad deje de atender sin causa justificada y por más de seis meses, las necesidades de crianza y afecto de su hijo y/o hija.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+IV.- Cuando habiendo dejado a su hijo o hija menor de edad a cargo de una persona o institución, el que ejerza la patria potestad deje de atender sin causa justificada y por más de tres meses, las necesidades de crianza y afecto de su hijo y/o hija.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2009)</small>
 
@@ -17454,3 +17468,9 @@ P.O. 24 DE JULIO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO: El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO: Se derogan todas aquellas disposiciones legales que contravengan el presente decreto.
