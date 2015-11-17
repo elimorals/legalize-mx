@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-tecnologico-jose-mario-molina-110508
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-11-12"
-last_updated: "2015-11-12"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ
 
-TEXTO ORIGINAL.
+NOTA. DE CONFORMIDAD CON LA ACLARATORIA, PUBLICADA EN LA SECCIÓN III DEL P.O. 17 DE NOVIEMBRE DE 2015, SE PRECISA QUE: “EN CALIDAD DE FE DE ERRATAS, AL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, NÚMERO 45, SECCIÓN VII, DEL JUEVES 12 DE NOVIEMBRE DE 2015, DONDE SE PUBLICÓ LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ. ESTÁ UBICADA EN LAS PÁGINAS DE LA 10 HASTA LA NÚMERO 38; PERO, POR NO SER PROCEDENTE LA FECHA DE PUBLICACIÓN, SE DA POR NO DIVULGADA DICHA DISPOSICIÓN.”
+
+TEXTO ORIGINAL. (VÉASE F. DE E. DE 17 DE NOVIEMBRE DE 2015).
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 12 de noviembre de 2015.
 
