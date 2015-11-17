@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2015-11-11"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,9 @@ state: "ROO"
 ---
 # LEY ELECTORAL DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ELECTORAL DE QUINTANA ROO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE DECRETO DE REFORMAS, PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2015, ENTRARÁ EN VIGOR PREVIA SU PUBLICACIÓN, AL DÍA SIGUIENTE QUE INICIE SU VIGENCIA EL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO EN MATERIA POLÍTICO ELECTORAL.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -1879,7 +1875,7 @@ La Convocatoria deberá publicarse el 18 de febrero del año de la elección en 
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
-I. Fecha, nombre, cargo y firma del órgano que 1a expide:
+I. Fecha, nombre, cargo y firma del órgano que la expide:
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2183,9 +2179,9 @@ II. Cuando la solicitud de registro se haya presentado fuera de los plazos previ
 
 III. Cuando no se haya satisfecho cualquiera de los requisitos para la procedencia del registro a que se refiere el artículo 138 y los demás que establezca esta Ley, ni siquiera con posterioridad al requerimiento que en su caso haya formulado el Instituto, o cuando el desahogo a este último se haya presentado de manera extemporánea.
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-IV. Cuando el aspirante haya sido miembro de las dirigencias nacionales, estatales o municipales, de organización o militante de partido político alguno, o candidato postulado por un partido político a puesto de elección popular en los tres años anteriores a la elección.
+IV. Cuando el aspirante haya sido miembro de las dirigencias nacionales, estatales o municipales, de organización o militante de partido político alguno, o candidato postulado por un partido político a puesto de elección popular en los dos años anteriores a la elección.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2012)</small>
 
@@ -2451,9 +2447,9 @@ Corresponde a los partidos políticos y coaliciones, el derecho de solicitar ant
 
 Las candidaturas a diputados por los principios de mayoría relativa y de representación proporcional, se registrarán por fórmulas compuestas cada una por un propietario y un suplente. Para los ayuntamientos, las candidaturas se registrarán por planillas integradas por propietarios y suplentes
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-Los partidos políticos o coaliciones postularán el cincuenta por ciento de las candidaturas a Diputados y de las candidaturas a miembros de los Ayuntamientos, en las respectivas planillas, de un mismo género en ambos principios. Asimismo, promoverán la participación política de las mujeres y los jóvenes. Los ciudadanos que aspiren a las candidaturas independientes de Ayuntamientos por el principio de mayoría relativa deberán ser el cincuenta por ciento de un mismo género en su propuesta de planilla.
+Los partidos políticos o coaliciones postularán candidatos y candidatas a diputados por el principio de mayoría relativa mediante fórmulas compuestas cada una por un propietario y un suplente del mismo género, observando la paridad de género en la totalidad de los distritos electorales que componen la circunscripción del Estado. Las listas de candidatos y candidatas por el principio de representación proporcional, así como planillas a miembros de los Ayuntamientos, se integrarán por fórmulas compuestas cada una por un propietario y un suplente del mismo género, y se alternarán por personas de distinto género para garantizar el principio de paridad hasta agotar cada lista o planilla, según corresponda; las propuestas de planillas de ciudadanos y ciudadanas que aspiren a candidaturas independientes a los Ayuntamientos por el principio de mayoría relativa deberán observar las mismas reglas. En todos los casos se promoverá la participación de los jóvenes.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 128], P.O. 7 DE DICIEMBRE DE 2012)
 
@@ -5114,3 +5110,9 @@ NOVENO. El Ejecutivo local, por conducto de la Secretaría de Finanzas y Planeac
 DÉCIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con las agrupaciones políticas y partidos políticos en el Estado, así como de sus militantes y simpatizantes, que hayan iniciado o se encuentren en trámite a la entrada en vigor del presente Decreto, seguirán bajo la competencia de los mismos, en atención a las disposiciones jurídicas y administrativas que hubieran estado vigentes al momento de su inicio. Los gastos realizados por los partidos políticos en la entidad, hasta antes de la entrada en vigor de las Leyes Generales, serán fiscalizados por el Instituto Electoral de Quintana Roo, con sustento en las disposiciones jurídicas y administrativas vigentes al momento de su ejercicio, los cuales deberán ser dictaminados y resueltos, a más tardar el último día del mes de diciembre de 2015.
 
 DÉCIMO PRIMERO. La Comisión de Fiscalización del Consejo General del Instituto Electoral de Quintana Roo, e integrada la Unidad Técnica de Fiscalización, harán del conocimiento del Consejo General del Instituto Nacional Electoral, con el objeto de una posible delegación de esa función.
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto por el presente Decreto.
