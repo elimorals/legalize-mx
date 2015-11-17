@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-consejo-federal-para-la-mejora-47146"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-23"
-last_updated: "2006-08-17"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2005-12-15"
 
 REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
 
@@ -65,9 +65,11 @@ IV. Titular de la Comisión: el Director General de la Comisión Federal de Mejo
 
 El Consejo estará integrado por los titulares de las secretarías de Economía; Hacienda y Crédito Público; Función Pública; Trabajo y Previsión Social, así como por el Titular de la Consejería Jurídica del Ejecutivo Federal.
 
+> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-Serán invitados permanentes del Consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia, el Procurador Federal del Consumidor; así como el Presidente del Consejo Coordinador Empresarial, el Presidente de la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos, el Presidente de la Confederación Patronal de la República Mexicana, el Presidente de la Cámara Nacional de la Industria de la Transformación, el Presidente del Consejo Nacional Agropecuario, el Presidente de la Asociación de Bancos de México, A.C., el Presidente de la Asociación Mexicana de Secretarios de Desarrollo Económico, A.C., el Presidente de la Asociación Nacional de Universidades e Institutos de Educación Superior, A.C., el Presidente de la Federación de Instituciones Mexicanas Particulares de Educación Superior, A.C., el Presidente de la Barra Mexicana, Colegio de Abogados, A.C., el Presidente de la Asociación Mexicana de Instituciones de Seguros, A.C., el Presidente de la Cámara de Comercio del Distrito Federal, así como cualquier otro invitado que determine el presidente del Consejo.
+Serán invitados permanentes del Consejo el Gobernador del Banco de México, el Presidente de la Comisión Federal de Competencia Económica, el Procurador Federal del Consumidor; así como el Presidente del Consejo Coordinador Empresarial, el Presidente de la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos, el Presidente de la Confederación Patronal de la República Mexicana, el Presidente de la Cámara Nacional de la Industria de la Transformación, el Presidente del Consejo Nacional Agropecuario, el Presidente de la Asociación de Bancos de México, A.C., el Presidente de la Asociación Mexicana de Secretarios de Desarrollo Económico, A.C., el Presidente de la Asociación Nacional de Universidades e Institutos de Educación Superior, A.C., el Presidente de la Federación de Instituciones Mexicanas Particulares de Educación Superior, A.C., el Presidente de la Barra Mexicana, Colegio de Abogados, A.C., el Presidente de la Asociación Mexicana de Instituciones de Seguros, A.C., el Presidente de la Cámara de Comercio de la Ciudad de México, el Presidente de la Confederación de Cámaras Nacionales de Comercio, Servicios y Turismo, y cualquier otro invitado que determine el presidente del Consejo.
 
 > <small>(ADICIONADO, D.O.F. 17 DE AGOSTO DE 2006)</small>
 
@@ -221,8 +223,12 @@ UNICO.- El presente Reglamento entrará en vigor al día siguiente de su publica
 
 México, Distrito Federal, a los quince días del mes de diciembre de dos mil cinco.- El Secretario Técnico, Carlos García Fernández.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 17 DE AGOSTO DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+D.O.F. 17 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
