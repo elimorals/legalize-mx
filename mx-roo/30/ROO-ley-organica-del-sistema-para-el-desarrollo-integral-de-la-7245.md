@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-sistema-para-el-desarrollo-integral-de-la-7245
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-01-15"
-last_updated: "1985-01-15"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO
 
-LEY ORGANICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO
+LEY ORGÁNICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial el 15 de enero de 1985.
 
@@ -39,7 +39,7 @@ DECRETA:
 
 "Ley Orgánica del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo.
 
-## TITULO PRIMERO (SIC). DEL OBJETIVO DEL SISTEMA
+## TITULO PRIMERO. DEL OBJETIVO DEL SISTEMA
 
 ### CAPITULO UNICO
 
@@ -51,7 +51,9 @@ El Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo,
 
 El Sistema tendrá por objeto:
 
-I.- Promover el bienestar social y prestar al efecto, tanto en forma directa como coordinada con los Sistemas Municipales DIF, servicios de asistencia social, con apoyo en las normas que dicta la Secretaria de Salubridad y Asistencia, el Sistema Nacional para el Desarrollo Integral de la Familia, así como los del propio Estado incidan en la materia.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+I.- Promover el bienestar social y prestar al efecto, tanto en forma directa como coordinada con los Sistemas Municipales DIF, servicios de asistencia social, con apoyo en las normas que dicta la Secretaría de Salud, el Sistema Nacional para el Desarrollo Integral de la Familia, así como los del propio Estado incidan en la materia;
 
 II.- Apoyar el Desarrollo de la Familia y la Comunidad.
 
@@ -61,25 +63,41 @@ IV.- Coordinar y apoyar las actividades de los Sistemas Municipales DIF, de acue
 
 V.- Fomentar la educación, que propicie la integración social; así como las actividades socio-culturales y deportivas que beneficien a la familia.
 
-VI.- Realizar estudios e investigaciones sobre los problemas de la familia, de los menores, de los ancianos y de los minusválidos.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-VII.- Operar establecimientos de Asistencia Social en beneficio de menores en estado de abandono, de ancianos y de los minusválidos.
+VI.- Realizar estudios e investigaciones sobre los problemas de la familia, de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VII.- Operar establecimientos de Asistencia Social en beneficio de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad;
 
 VIII.- Atender las funciones de auxilio a las Instituciones de Asistencia Privada que le confíe la dependencia competente, con sujeción a lo que disponga la ley relativa.
 
-IX.- Prestar gratuitamente servicios de asistencia jurídica y de orientación social a los menores, ancianos y minusválidos sin recursos y en estado de abandono.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-X..- Intervenir en el ejercicio de la tutela de los menores, que corresponda al Estado o al Municipio, en los términos de las leyes respectivas.
+IX.- Prestar gratuitamente servicios de asistencia jurídica y de orientación a niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad sin recursos y en estado de abandono;
 
-XI.- Auxiliar al Ministerio Público en la protección de los incapaces, ancianos y minusválidos abandonados y en los procedimientos civiles y familiares que les afecten, de acuerdo con las leyes y reglamentos respectivos.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+X.- Intervenir en el ejercicio de la tutela de niñas, niños y adolescentes, que corresponda al Estado o al Municipio, en los términos de las leyes respectivas;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XI.- Auxiliar al Ministerio Publico en la protección de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad en estado de abandono y en los procedimientos civiles y familiares que les afecten, de acuerdo con las leyes y reglamentos respectivos;
 
 XII.- Procurar permanente la adecuación y cumplimiento de los objetivos y programas del Sistema Estatal, así como los de los Sistemas Municipales, con los que lleve a cabo el Sistema Nacional, a través de Decretos, Acuerdos, Convenios o cualquier figura jurídica, encaminada a la obtención del bienestar social.
 
-XIII.- Desarrollar, coordinar y cumplir con los programas que le encomiende al Sistema Estatal y a los Municipales, la Secretaría de Salud y Bienestar Social, dependiente del Ejecutivo del Estado, mediante convenios que para ese efecto se celebren.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-XIV.- Promover ante los Tribunales del Estado todo tipo de juicios en los que, a criterio discrecional del propio Sistema, se vean afectados los derechos de menores, ancianos y minusválidos, respetando en todos los casos las funciones o atribuciones que las leyes encomienden a otras Dependencias o Instituciones.
+XIII.- Desarrollar, coordinar y cumplir con los programas que le encomiende al Sistema Estatal y a los Municipales, y la Secretaría de Salud del Estado, mediante convenios que para ese efecto se celebren;
 
-XV.- Intervenir en los juicios de adopción que se tramiten para beneficio de los menores que estén bajo tutela y custodia de los Sistemas Estatal y Municipales.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XIV.- Promover ante los Tribunales del Estado todo tipo de juicios en los que, se vean afectados los derechos de niñas, niños y adolescentes, de personas adultas mayores y de personas con discapacidad, respetando en todos los casos las funciones o atribuciones que las leyes encomienden a otras Dependencias o instituciones;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+XV.- Intervenir en los juicios de adopción de conformidad con las disposiciones aplicables;
 
 XVI.- Los demás que les encomienden las Leyes, Decretos, Acuerdos y Reglamentos en vigor en el Estado y los Convenios que celebre con la Federación, Sistema Nacional, Municipios e Instituciones Públicas o Privadas, Nacionales o Extranjeras.
 
@@ -105,17 +123,19 @@ V.- La explotación de concesiones, permisos, licencias y autorizaciones que se 
 
 VI.- En general, los demás bienes, derechos e ingresos que obtenga por cualquier título legal.
 
-## TITULO III
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-DE LOS ORGANOS SUPERIORES DEL SISTEMA.
+## TITULO III. DE LOS ÓRGANOS SUPERIORES DEL SISTEMA
 
-DEL PATRONATO.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-### CAPITULO I
+### CAPITULO I. DEL PATRONATO
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 4o.
 
-Son órganos superiores del Sistema, el Patronato, la Junta Directiva, la Dirección General, la Procuraduría de la Defensa del Menor y la Familia, la Coordinación General y las Regionales.
+Son órganos superiores del Sistema: el Patronato, la Junta Directiva, la Dirección General, la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, la Coordinación General y las Regionales.
 
 ###### ARTICULO 5o.
 
@@ -125,11 +145,17 @@ a).- Un Presidente, el cual es designado por el C. Gobernador del Estado y tendr
 
 b).- Un Secretario, que será el Director General del Sistema Estatal.
 
-c).- Un Tesorero, que será el Secretario de Finanzas.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-d).- Como Vocales: El Secretario de Salud y Bienestar Social, quien además representará a la Junta Directiva ante el Patronato; el Secretario de Gobierno; el Secretario de Educación y Cultura Popular; el Secretario de Obras Públicas y Desarrollo Urbano; el Secretario de Desarrollo Económico; el Secretario de Fomento Agropecuario; el Delegado de la Secretaría de Programación y Presupuesto en el Estado; el Delegado de la Secretaría de Comunicaciones y Transportes en el Estado; el Gerente Regional de la Compañía de Subsistencias Populares en el Estado; el Presidente de la Cámara Nacional de Comercio y Turismo del Estado; el Presidente de la Asociación de Hoteles y Moteles del Estado; el Representante de los Profesionistas del Estado; así como los 7 representantes de los CC. Presidentes Municipales en la Entidad.
+c).- Un Tesorero, que será el Secretario de Finanzas y Planeación;
 
-e).- Y un Comisario, que será el Contralor del Gobierno del Estado, quién además funge como Contralor del Sistema Estatal.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+d).- Como Vocales: El Secretario de Salud del Estado, quien además representará a la Junta Directiva ante el Patronato; el Secretario de Gobierno; el Secretario de Educación y Cultura; el Secretario de Desarrollo Social e Indígena; el Secretario de Desarrollo Económico; el Secretario de Desarrollo Agropecuario y Rural; el Delegado de la Secretaría de Hacienda y Crédito Público en el Estado; el Delegado de la Secretaría de Comunicaciones y Transportes en el Estado; el Gerente Peninsular de DICONSA en el Estado; el Presidente de la Cámara Nacional de Comercio, Servicios y Turismo del Estado; el Presidente de la Asociación de Hoteles y Moteles del Estado; así como los representantes de los Presidentes Municipales en la Entidad;
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+e).- Y un Comisario, que será el Secretario de la Gestión Púbica del Estado, quien además funge como Contralor del Sistema Estatal.
 
 Los miembros del Patronato podrán ser suplidos por los representantes que al efecto designen los propios titulares, a excepción del Suplente del Presidente que será designado también por el C. Gobernador del Estado.
 
@@ -179,9 +205,11 @@ III.- Recomendar a la Junta Directiva y al Director del Sistema Estatal, las med
 
 ### CAPITULO II. DE LA JUNTA DIRECTIVA
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 11.
 
-La Junta Directiva es el Organo de Autoridad Ejecutiva del Sistema Estatal, cuyos integrantes, incluyendo al Presidente, no percibirán retribución alguna, la cual estará conformada por los titulares de las Secretarías de Salud y Bienestar Social, quien la presidirá; de Gobierno, de Finanzas; de Educación Pública y Cultura Popular; el Procurador de Justicia, todos dependientes del Ejecutivo del Estado; así como los Delegados en el Estado del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y los siete Presidentes Municipales de la Entidad. Los Titulares serán suplidos por los representantes que para ese efecto nombre cada uno de ellos.
+La Junta Directiva es el Órgano de Autoridad Ejecutiva del Sistema Estatal, cuyos integrantes, incluyendo al Presidente, no percibirán retribución alguna, la cual estará conformada por los titulares de las Secretarías de Salud, quien la presidirá; de la Gestión Púbica (sic), de Gobierno, de Planeación y Finanzas; de Educación y Cultura; el Procurador de (sic) General de Justicia y de la Oficialía Mayor, todos del Estado; así como los Delegados en el Estado del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y los Presidentes Municipales de la entidad. Los Titulares serán suplidos por los representantes que para ese efecto nombre cada uno de ellos.
 
 ###### ARTICULO 12.
 
@@ -241,27 +269,45 @@ IX.- Actuar como Apoderado Legal General del Sistema con facultades de administr
 
 X.- Las demás que sean necesarias para el ejercicio de las anteriores a juicio de la Junta Directiva que le deleguen a ésta.
 
-## TITULO IV. DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+## TITULO IV. DE LA PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES Y LA FAMILIA DEL ESTADO
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 16.
 
-La Procuraduría de la Defensa del Menor y la Familia es un organismo dependiente del Sistema para el Desarrollo Integral de la Familia de Quintana Roo, que tiene encomendado el cumplimiento de los objetivos señalados en las fracciones de la VIII a la XI del Artículo 2o de esta ley y tendrá las atribuciones siguientes:
+La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia es un organismo dependiente del Sistema para el Desarrollo Integral de la Familia de Quintana Roo, que tiene encomendado el cumplimiento de los objetivos señalados en las fracciones de la VIII a la XI del artículo 2° de esta Ley y tendrá las atribuciones siguientes:
 
 I.- Proporcionar orientación y asistencia jurídica a las personas de escasos recursos para la defensa de sus derechos derivados de la relación familiar, así como en lo relacionado con el estado civil de las personas.
 
-II.- Promover ante las autoridades y Tribunales competentes todo tipo de acciones, cuando a criterio discrecional del Sistema se vean afectados los derechos de menores, mayores incapaces, ancianos y minusválidos, respetando siempre las atribuciones y funciones que las leyes encomiendan a otras autoridades.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-III.- Vigilar por el bienestar de los incapaces, auxiliando al Ministerio Público en su protección, en los procedimientos civiles y familiares que les afecten, así como el traslado o radicación a institución de beneficencia ya sean oficiales o privadas.
+II.- Promover ante las autoridades y Tribunales competentes todo tipo de acciones, cuando se vean afectados los derechos de niñas, niños y adolescentes; personas mayores de edad incapaces; personas adultas mayores y personas con discapacidad, respetando siempre las atribuciones y funciones que las leyes encomiendan a otras autoridades;
 
-IV.- Ejercer la defensa de los menores infractores ante los órganos competentes; y en los casos que las autoridades lo permitan, auxiliar al Tribunal para menores del Estado.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-V.- Representar legalmente a los menores que litiguen derechos familiares sin que sea necesario el otorgamiento de poder alguno de parte de quien ejerza la patria potestad, la tutela o la guarda.
+III.- Vigilar el bienestar, protección y restitución de los derechos de las niñas, niños y adolescentes de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo;
 
-VI.- Intervenir y realizar todas las actuaciones que se relacionen con la adopción de menores que están bajo la tutela y custodia del Sistema Estatal.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+IV.- Prestar asesoría y representación a adolescentes a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo y demás disposiciones aplicables, sin perjuicio de las atribuciones que le correspondan a otras autoridades;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+V.- Prestar asesoría y representación a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos de conformidad con la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo y demás disposiciones aplicables, sin perjuicio de las atribuciones que le correspondan a otras autoridades;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VI.- Coadyuvar al Sistema para el Desarrollo Integral de la Familia del Estado en materia de adopciones de conformidad con lo establecido por la Ley de Adopción del Estado de Quintana Roo y demás disposiciones aplicables;
 
 VII.- Emitir opinión y resolver toda clase de consultas que le sean solicitadas por la Junta Directiva o la Dirección General en asunto de su competencia.
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VIII.- Las demás que señalen otras disposiciones u ordenamientos jurídicos.
 
 ## TITULO V
 
@@ -307,9 +353,11 @@ I.- Como organismos públicos descentralizados de las administraciones municipal
 
 II.- Como unidad administrativa dependiente de los Presidentes Municipales; las cuales contarán con la estructura que apruebe en cada caso los H. Ayuntamientos, tomando como base las normas y lineamientos que se enuncian por la presente ley, por el Sistema Estatal, el Sistema Nacional y la Secretaría de Salud y Bienestar Social del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 21.
 
-Los Ayuntamientos que opten por la forma enunciada en la fracción I del artículo anterior, deberán cuidar que los Sistemas Municipales cuenten con la organización y estructura similar Sistema Estatal y que se respeten las normas y lineamientos del Sistema Nacional, el Estatal y de la Secretaría de Salud y Bienestar Social del Estado.
+Los Ayuntamientos que opten por la forma enunciada (sic) la fracción I del artículo anterior, deberán cuidar que los Sistemas Municipales cuenten con la organización y estructura similar al Sistema Estatal y que se respeten las normas y lineamientos del Sistema Nacional, el Estatal y de la Secretaría de Salud del Estado.
 
 ###### ARTICULO 22.
 
@@ -369,9 +417,9 @@ a).- Se constituirá como una unidad administrativa con dependencia directa y ú
 
 b).- La Unidad administrativa estará subdividida en tres áreas, que serán: 1.- La del Patronato; 2.- El Comité Directivo; y 3.- El Director del Sistema Municipal.
 
-c).- E1 Patronato estará presidido por la persona que al efecto designe el Presidente Municipal y deberá integrarse en forma similar al de los Sistemas Municipales que establece la fracción I del Artículo 24.
+c).- El Patronato estará presidido por la persona que al efecto designe el Presidente Municipal y deberá integrarse en forma similar al de los Sistemas Municipales que establece la fracción I del Artículo 24.
 
-d).- E1 comité Directivo estará presidido por el propio Presidente Municipal y se integrará con un mínimo de 5 y 9 como máximo de vocales designados por el H. Ayuntamiento, seleccionados entre los miembros del Cabildo y representantes de organismos, instituciones o agrupaciones públicas o privadas, que en forma directa presten servicios de asistencia o bienestar social dentro de sus jurisdicciones.
+d).- El comité Directivo estará presidido por el propio Presidente Municipal y se integrará con un mínimo de 5 y 9 como máximo de vocales designados por el H. Ayuntamiento, seleccionados entre los miembros del Cabildo y representantes de organismos, instituciones o agrupaciones públicas o privadas, que en forma directa presten servicios de asistencia o bienestar social dentro de sus jurisdicciones.
 
 El Coordinador de zona dependiente del Sistema Estatal, será considerado como Vocal integrante del Comité.
 
@@ -436,3 +484,11 @@ Diputada Secretaria:
 Profra. Ligia Alvarez y Manzano
 
 En cumplimiento a lo dispuesto por la Fracción I del Artículo 91 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo a los once días del mes de Enero de mil novecientos ochenta y cinco.- El Gobernador Constitucional del Estado.- Lic. Pedro Joaquín Coldwell.- (Firmado).- El Secretario de Gobierno.- Lic. Esteban Maqueo Coral.- (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
