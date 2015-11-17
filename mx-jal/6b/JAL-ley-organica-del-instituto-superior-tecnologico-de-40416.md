@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-superior-tecnologico-de-40416"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-07-22"
-last_updated: "2015-11-12"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO SUPERIOR DE ZAPOTLANEJO, JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015 (ABROGADA).
+NOTA 2. DE CONFORMIDAD CON LA ACLARATORIA, PUBLICADA EN LA SECCIÓN III DEL P.O. 17 DE NOVIEMBRE DE 2015, SE PRECISA QUE: “EN CALIDAD DE FE DE ERRATAS, AL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, NÚMERO 45, SECCIÓN VII, DEL JUEVES 12 DE NOVIEMBRE DE 2015, DONDE SE PUBLICÓ LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ. ESTÁ UBICADA EN LAS PÁGINAS DE LA 10 HASTA LA NÚMERO 38; PERO, POR NO SER PROCEDENTE LA FECHA DE PUBLICACIÓN, SE DA POR NO DIVULGADA DICHA DISPOSICIÓN.”
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015 (VÉASE F. DE E. DE 17 DE NOVIEMBRE DE 2015).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 22 de julio de 2004.
 
@@ -241,7 +243,7 @@ XIX. Designar al Director General interino;
 
 XX. Fijar Las aportaciones en base a un criterio socioeconómico general del alumnado;
 
-XXI. Fijar las aportaciones en base a un criterio socioeconómico general del alumnado; (sic)
+XXI. Fijar las aportaciones en base a un criterio socioeconómico general del alumnado;
 
 XXII. Programar becas para alumnos de escasos recursos, de conformidad a lo estipulado en el Reglamento del Instituto y en el Reglamento Nacional de Becas; y
 
