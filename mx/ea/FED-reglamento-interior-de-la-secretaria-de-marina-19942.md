@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-marina-19942"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-05"
-last_updated: "2009-07-31"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19942&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-02-28"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MARINA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE MARINA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE JULIO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MARINA, PUBLICADO EN EL D.O.F. DE 17 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 5 de marzo de 2001.
 
@@ -465,7 +467,7 @@ VIII.- Realizar estudios topohidrográficos de los fondos marinos, bahías, rada
 
 IX.- Elaborar, mantener actualizada y distribuir la cartografía náutica y oceanográfica nacional y demás información que coadyuve a la seguridad en la navegación marítima;
 
-X.- Obtener, procesar y difundir información meteorológica y de fenómenos oceánicos y atmosféricos, coordinando lo que proceda con el Servio Meteorológico Nacional;
+X.- Obtener, procesar y difundir información meteorológica y de fenómenos oceánicos y atmosféricos, coordinando lo que proceda con el Servicio Meteorológico Nacional;
 
 XI.- Integrar las necesidades, requerir, controlar y suministrar el material y equipo oceanográfico, topohidrográfico, meteorológico y mareográfico;
 
@@ -715,8 +717,20 @@ TERCERO.- Los asuntos pendientes a la entrada en vigor de este Reglamento que de
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiocho días del mes de febrero de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Marina, Marco Antonio Peyrot González.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 31 DE JULIO DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE NOVIEMBRE DE 2015.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Marina publicado el 5 de marzo de 2001 en el Diario Oficial de la Federación.
+
+Tercero.- Los asuntos pendientes a la entrada en vigor de este Reglamento que deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por aquella Unidad Administrativa a la que se haya atribuido la competencia correspondiente en este Reglamento.
+
+Cuarto.- Las Unidades Administrativas de la Secretaría de Marina, que en virtud de este Reglamento cambian de denominación o se transforman en otra Unidad, conservarán los recursos humanos, financieros y materiales con los que cuenten a la fecha de publicación en el Diario Oficial de la Federación de este Reglamento.
+
+Quinto.- Las erogaciones que deriven de la aplicación del presente Reglamento se realizarán mediante movimientos compensados en el presupuesto aprobado a la Secretaría de Marina y en tal virtud, no se requerirán recursos adicionales para tales efectos, y no incrementará su presupuesto regularizable para el presente ejercicio fiscal y los subsecuentes.
