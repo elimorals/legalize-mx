@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-tecnologico-superior-de-arandas-2215
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-08"
-last_updated: "2015-11-12"
+last_updated: "2015-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO SUPERIOR DE ARANDAS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+NOTA 1. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ, PUBLICADA EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015 (ABROGADA).
+NOTA 2. DE CONFORMIDAD CON LA ACLARATORIA, PUBLICADA EN LA SECCIÓN III DEL P.O. 17 DE NOVIEMBRE DE 2015, SE PRECISA QUE: “EN CALIDAD DE FE DE ERRATAS, AL PERIÓDICO OFICIAL EL ESTADO DE JALISCO, NÚMERO 45, SECCIÓN VII, DEL JUEVES 12 DE NOVIEMBRE DE 2015, DONDE SE PUBLICÓ LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ. ESTÁ UBICADA EN LAS PÁGINAS DE LA 10 HASTA LA NÚMERO 38; PERO, POR NO SER PROCEDENTE LA FECHA DE PUBLICACIÓN, SE DA POR NO DIVULGADA DICHA DISPOSICIÓN.”
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015 (VÉASE F. DE E. DE 17 DE NOVIEMBRE DE 2015).
 
 Ley publicada en la sexta sección del Periódico Oficial, el 8 de septiembre de 2001.
 
@@ -89,7 +91,7 @@ VI. Patrocinar y organizar congresos, asambleas, reuniones, concursos y otros ev
 
 VII. Promover y editar obras que contribuyan al quehacer educativo y a la difusión de la cultura y del conocimiento científico y tecnológico;
 
-VIII. Capacitar y procurar la superación de su personal docente, técnico y administrativo; (sic)
+VIII. Capacitar y procurar la superación de su personal docente, técnico y administrativo;
 
 ###### Artículo 6º.
 
@@ -475,7 +477,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se fusionan los siguientes organismos públicos descentralizados:
 
-l. Instituto Tecnológico Superior de Arandas;
+I. Instituto Tecnológico Superior de Arandas;
 
 II. Instituto Tecnológico Superior de Chapala;
 
@@ -503,7 +505,7 @@ XIII. Instituto Tecnológico Superior de Zapotlanejo.
 
 TERCERO. Se abrogan las siguientes leyes:
 
-l. Ley Orgánica del Instituto Tecnológico Superior de Arandas;
+I. Ley Orgánica del Instituto Tecnológico Superior de Arandas;
 
 II. Ley Orgánica del Instituto Tecnológico Superior de Chapala;
 
@@ -531,7 +533,7 @@ XIII. Ley Orgánica del Instituto Tecnológico Superior de Zapotlanejo, Jalisco.
 
 CUARTO. Sin perjuicio de la creación de nuevas Unidades Académicas, el Instituto Tecnológico Mario Molina creado mediante el presente Decreto, cuenta con las siguientes Unidades Académicas:
 
-l. Arandas;
+I. Arandas;
 
 II. Cocula;
 
