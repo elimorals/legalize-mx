@@ -4,7 +4,7 @@ identifier: "ROO-ley-para-prevenir-atender-y-erradicar-la-violencia-entre-95023"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-19"
-last_updated: "2013-06-19"
+last_updated: "2015-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ENTRE ESTUDIANTES DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número 46 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 19 de junio de 2013.
 
@@ -145,9 +145,11 @@ XI. La resiliencia; y
 
 XII. El enfoque de derechos humanos.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
 
-En todo lo no previsto por la presente Ley, se observarán las disposiciones normativas compatibles con el objeto de la presente ley contenidas en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano, la legislación federal aplicable, la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo, la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo, la Ley de Salud del Estado de Quintana Roo, Ley de Responsabilidades de los Servidores Públicos del Estado, la Ley de Justicia para Adolescentes del Estado de Quintana Roo, el Código Penal para el Estado Libre y Soberano de Quintana Roo, el Código Civil para el Estado Libre y Soberano de Quintana Roo y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
+En todo lo no previsto por la presente Ley, se observarán las disposiciones normativas compatibles con el objeto de la presente ley contenidas en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales ratificados por el Estado Mexicano, la legislación federal aplicable, la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Quintana Roo, la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo, la Ley de Salud del Estado de Quintana Roo, la Ley de Responsabilidades de los Servidores Públicos del Estado, la Ley de Justicia para Adolescentes del Estado de Quintana Roo, el Código Penal para el Estado Libre y Soberano de Quintana Roo, el Código Civil para el Estado Libre y Soberano de Quintana Roo y el Código de Procedimientos Civiles para el Estado Libre y Soberano de Quintana Roo.
 
 ### CAPÍTULO II. DE LA VIOLENCIA ENTRE ESTUDIANTES Y SUS TIPOS
 
@@ -523,9 +525,15 @@ IV. El Titular de la Procuraduría General de Justicia del Estado, vocal;
 
 V. El Director General del Sistema para el Desarrollo Integral de la Familia del Estado, vocal;
 
-VI. EL Presidente de la Comisión de Derechos Humanos del Estado, vocal; y
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
 
-VII. Un Secretario Técnico, que será designado por el propio Consejo.
+VI. El Titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, vocal;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2015)</small>
+
+VII. El Presidente de la Comisión de los Derechos Humanos del Estado, vocal; y
+
+VIII. Un Secretario Técnico, que será designado por el propio Consejo.
 
 El Cargo de los miembros del Consejo será de carácter honorífico, sin derecho a retribución económica por su desempeño y podrán designar mediante oficio o, en su caso, comunicado escrito, un suplente de nivel jerárquico inmediato inferior con derecho a voz y voto en las sesiones, con la finalidad de garantizar su participación en las mismas, quienes desempeñarán las mismas funciones del miembro propietario.
 
@@ -840,3 +848,11 @@ M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
 LA SECRETARIA DE EDUCACION PÚBLICA DEL ESTADO DE QUINTANA ROO
 
 LIC. SARA LATIFE RUÍZ CHÁVEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
