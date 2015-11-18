@@ -1,0 +1,422 @@
+---
+title: "LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DEL ESTADO DE CHIHUAHUA"
+identifier: "CHH-ley-del-organismo-publico-descentralizado-denominado-114420"
+country: "mx"
+rank: "ley"
+publication_date: "2015-11-18"
+last_updated: "2015-11-18"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114420&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-chh"
+scjn_id: "114420"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "92 FOLLETO ANEXO"
+reform_count: "2"
+scjn_last_update: "2020-06-19"
+issue_date: "2015-11-10"
+state: "CHH"
+---
+# LEY DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DEL ESTADO DE CHIHUAHUA
+
+LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE CHIHUAHUA
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 18 de noviembre de 2015.
+
+EL CIUDADANO LICENCIADO CÉSAR HORACIO DUARTE JÁQUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
+
+QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE:
+
+D E C R E T O:
+
+DECRETO No.1036/2015 I P .0.
+
+LA SEXAGÉSIMA CUARTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU PRIMER PERÍODO ORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL,
+
+D E C R E T A
+
+###### ARTÍCULO ÚNICO.
+
+Se expide la Ley del Organismo Público Descentralizado denominado Régimen Estatal de Protección Social en Salud, para quedar redactada en los términos siguientes:
+
+LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO ÚNICO. DE SU NATURALEZA Y OBJETO
+
+###### ARTÍCULO 1.
+
+Se crea el Organismo Público Descentralizado de la Administración Pública Estatal denominado Régimen Estatal de Protección Social en Salud, dotado de personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Salud, y con domicilio en la Ciudad de Chihuahua, Chihuahua.
+
+###### ARTÍCULO 2.
+
+El organismo denominado Régimen Estatal de Protección Social en Salud tiene por objeto garantizar las acciones de protección social en salud, mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud, de conformidad con el Título Tercero Bis de la Ley General de Salud.
+
+###### ARTÍCULO 3.
+
+El Régimen Estatal de Protección Social en Salud tendrá las siguientes funciones:
+
+I. Organizar, administrar y operar en el Estado el Sistema de Protección Social en Salud.
+
+II. Identificar e incorporar beneficiarios al Sistema de Protección Social en Salud, ejerciendo actividades de difusión y promoción.
+
+III. Conducir el proceso de integración, administración y actualización del padrón de beneficiarios al Sistema de Protección Social en Salud, conforme a los lineamientos vigentes.
+
+IV. Financiar, coordinar y verificar de forma eficiente, oportuna y sistemática la prestación integral de los servicios de salud a las familias y personas incorporadas al Sistema y que no cuenten con seguridad social en salud, en los que se incluya la atención médica, los medicamentos y demás insumos asociados al mismo.
+
+V. Tutelar los derechos de los beneficiarios del Sistema de Protección Social en Salud.
+
+VI. Garantizar, a través de los establecimientos de salud, la capacidad de insumos y el suministro de medicamentos necesarios para su oferta y calidad.
+
+VII. Realizar el seguimiento operativo de las acciones en materia de protección social en salud en el ámbito estatal y evaluar su impacto, verificando que los prestadores de servicio cumplan con los requisitos que establece la Ley General de Salud.
+
+VIII. Coordinar e impulsar las acciones del Sistema de Protección Social en Salud en el Estado.
+
+IX. Divulgar entre los afiliados al Régimen de Protección Social en Salud sus derechos y obligaciones e impulsar la creación de unidades de atención al beneficiario, encargadas de la tutela de sus derechos y el cumplimento de sus obligaciones.
+
+X. Administrar y supervisar el ejercicio de los recursos financieros aportados por los Gobiernos Federal, Estatal y Municipal para la operación del Régimen de Protección Social en Salud.
+
+XI. Programar los recursos aportados al Régimen de Protección Social en Salud, necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento, en congruencia con el Plan Maestro de Infraestructura que elabore la Secretaría de Salud del Gobierno Federal.
+
+XII. Impulsar el establecimiento de convenios para la transparencia y homologación de criterios en la atención de los beneficiarios del Sistema.
+
+XIII. Gestionar y realizar el pago a sus establecimientos de salud, así como verificar la rendición de cuentas.
+
+XIV. Impulsar, coordinar y vincular sus acciones con organismos públicos y privados.
+
+XV. Fijar la secuencia y alcance de cada intervención comprendida en los servicios esenciales de manera prioritaria y progresiva, a fin de satisfacer de manera integral las necesidades de salud de las familias beneficiarias, de acuerdo a su disponibilidad financiera.
+
+XVI. Promover y vigilar que los establecimientos de salud adopten esquemas de operación, que mejoren la atención, modernicen la administración de los servicios y registros clínicos, alienten la certificación de su personal y promuevan la acreditación de establecimientos de atención médica.
+
+XVII. Promover la formalización de los convenios de coordinación con las dependencias y entidades de la Administración Pública Estatal, y sector privado, para la ejecución del Sistema de Protección Social en Salud.
+
+XVIII. Promover y coordinar la participación de los municipios en el Sistema de Protección Social en Salud y sus aportaciones económicas mediante la suscripción de convenios, de conformidad con la legislación aplicable.
+
+XIX. Rendir cuentas respecto de los recursos que reciban en los términos del Título Tercero Bis de la Ley General de Salud, su Reglamento y demás normatividad aplicable.
+
+XX. Entregar la información que las autoridades federales y locales competentes le soliciten respecto de los recursos que reciban, así como sobre su ejercicio.
+
+XXI. Las demás que le confiera la Junta Directiva.
+
+## TÍTULO SEGUNDO. DEL GOBIERNO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD
+
+### CAPÍTULO I. DE LOS ÓRGANOS
+
+###### ARTÍCULO 4.
+
+Para el cumplimiento de su objeto, el Régimen Estatal de Protección Social en Salud, contará con:
+
+I. Una Junta Directiva.
+
+II. Un Director General.
+
+III. El Órgano de Vigilancia.
+
+###### ARTÍCULO 5.
+
+Para la realización de sus funciones el Organismo contará con las Direcciones responsables de: Gestión de Servicios de Salud, Afiliación y Operación; Administración y Financiamiento, y Asuntos Jurídicos y Normatividad, las cuales se integrarán con las Subdirecciones, Departamentos, Oficinas y Coordinaciones que se requieran para el desempeño de sus funciones.
+
+### CAPÍTULO II. DE LA JUNTA DIRECTIVA
+
+###### ARTÍCULO 6.
+
+La Junta Directiva es la autoridad suprema del Organismo y se integrará de la siguiente forma:
+
+I. Un Presidente, que será el Secretario de Salud.
+
+II. El Secretario de Hacienda.
+
+III. El Secretario de Desarrollo Social.
+
+IV. El Secretario de Educación, Cultura y Deporte.
+
+V. El Secretario de Desarrollo Urbano y Ecología.
+
+Por cada integrante de la Junta Directiva deberá nombrarse un suplente. Los cargos serán honoríficos, por lo que no habrá lugar a remuneración alguna.
+
+###### ARTÍCULO 7.
+
+El Director General del Régimen Estatal de Protección Social en Salud, fungirá como Secretario Técnico de la Junta Directiva, quien tendrá voz, pero no voto.
+
+###### ARTÍCULO 8.
+
+La Junta Directiva sesionará de forma ordinaria bimestralmente, y en forma extraordinaria a convocatoria de su Presidente cuando existan asuntos que por su urgencia o trascendencia así lo ameriten.
+
+La Junta Directiva sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros y los acuerdos se aprobarán por mayoría de votos de sus miembros presentes. El Presidente o su suplente tendrán voto de calidad en caso de empate.
+
+El Presidente de la Junta Directiva deberá convocar de manera permanente a las Sesiones de dicho organismo al representante de la Secretaría de Salud del Gobierno Federal y, de considerarlo pertinente, podrá invitar a instituciones públicas, privadas, educativas y cualquier otra que guarde relación con el objeto del Organismo. Los invitados asistirán a la sesión con derecho a voz, pero sin voto.
+
+###### ARTÍCULO 9.
+
+Las convocatorias para llevar a cabo las sesiones de la Junta Directiva deberán formularse por escrito y enviarse a sus integrantes con, al menos, cinco días hábiles de anticipación para el desahogo de las sesiones ordinarias; con veinticuatro horas para las extraordinarias.
+
+###### ARTÍCULO 10.
+
+Las convocatorias, ya sean para las sesiones ordinarias o extraordinarias, deberán ir acompañadas del orden del día y de los documentos que informen los asuntos a tratar.
+
+Los acuerdos que resulten de las sesiones deberán ser consignados en las actas respectivas.
+
+###### ARTÍCULO 11.
+
+La Junta Directiva tendrá las facultades y obligaciones siguientes:
+
+I. Establecer las políticas generales de actuación a que se sujetará el Régimen Estatal de Protección Social en Salud.
+
+II. Expedir el Estatuto Orgánico del Organismo, en el que se establecerán las bases de organización, las facultades y funciones que correspondan a las distintas áreas que integran el Organismo, así como los manuales de organización, procedimientos y servicios al público.
+
+III. Autorizar la subcontratación de servicios con terceros.
+
+IV. Aprobar el programa operativo anual, presupuesto anual de egresos y la estimación de ingresos, así como el programa anual de adquisiciones y servicios del Régimen Estatal de Protección Social en Salud.
+
+V. Aprobar el uso y destino de los recursos que por concepto de intereses haya generado la cuota social y aportación solidaria federal, debiendo ajustar dicha aprobación a los fines del Sistema.
+
+VI. Aprobar el uso de los recursos que reciba por concepto de compensación económica, debiendo destinar dichos recursos a los fines del Sistema.
+
+VII. Discutir y, en su caso, aprobar el balance anual y los informes financieros respectivos que les presente el Director General.
+
+VIII. Analizar y, en su caso, aprobar los informes periódicos que rinda el Director General.
+
+IX. Aprobar anualmente, previo informe del Comisario y los dictámenes de auditores externos, los estados financieros del organismo.
+
+X. Otorgar poderes o mandatos generales y especiales en atención a las facultades reglamentarias.
+
+XI. En general, decidir en última instancia todo lo relacionado con la prestación de los servicios de este Organismo.
+
+XII. Las demás que se deriven de esta Ley y otras disposiciones aplicables.
+
+###### ARTÍCULO 12.
+
+El Presidente de la Junta Directiva, tendrá las siguientes facultades y obligaciones:
+
+I. Convocar y presidir las sesiones ordinarias y extraordinarias de la Junta Directiva.
+
+II. Instalar y levantar la sesión y, en su caso, declarar los recesos que convengan, previa opinión que se tome a los demás integrantes de la Junta Directiva.
+
+III. Conducir la sesión y tomar las medidas necesarias para su adecuado desarrollo, incluidas las mociones que correspondan.
+
+IV. Conceder el uso de la palabra, en el orden que le sea solicitada, a los demás integrantes de la Junta Directiva, al Secretario Técnico y, en su caso, a los servidores públicos del Organismo para el único fin de que rindan informes u opiniones sobre los temas que se les soliciten en relación a sus áreas.
+
+V. Dirigir y moderar los debates en las sesiones de la Junta Directiva, procurando fluidez y agilidad en las mismas.
+
+VI. Consultar a los demás integrantes de la Junta Directiva si un asunto ha sido suficientemente discutido.
+
+VII. Solicitar al Secretario Técnico que someta a votación los proyectos de acuerdos y resoluciones de la Junta Directiva.
+
+VIII. Firmar todos los documentos que expida la Junta Directiva en el ejercicio de sus atribuciones.
+
+IX. Solicitar la asesoría técnica necesaria de servidores públicos especialistas en los temas tratados en la sesión, cuando los asuntos en estudio así lo requieran.
+
+X. Analizar, tramitar y en su caso resolver, lo no previsto en la presente Ley que se relacione con el ejercicio de las atribuciones de la Junta Directiva.
+
+XI. Participar con voz y voto en los acuerdos que tome la Junta Directiva.
+
+XII. Cumplir y hacer cumplir los acuerdos adoptados por la Junta Directiva.
+
+XIII. Ejercer, en caso de empate, el voto de calidad razonado.
+
+XIV. Las demás que señale el Estatuto Orgánico, la Junta Directiva y las disposiciones aplicables.
+
+###### ARTÍCULO 13.
+
+El Secretario Técnico de la Junta Directiva tendrá las facultades siguientes:
+
+I. Hacer llegar las Convocatorias de las sesiones ordinarias y extraordinarias de la Junta Directiva.
+
+II. Preparar el orden del día de las sesiones de la Junta Directiva, declarar la existencia del quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación de sus integrantes.
+
+III. Auxiliar a la Junta Directiva y a su Presidente en el cumplimiento y ejecución de los acuerdos que se tomen.
+
+IV. Las demás que le confiera la Junta Directiva y/o le encomiende el Presidente.
+
+### CAPÍTULO III. DEL DIRECTOR GENERAL
+
+###### ARTÍCULO 14.
+
+El Director General del Organismo será nombrado y removido libremente por el Gobernador del Estado, debiendo recaer tal nombramiento en la persona que reúna los requisitos siguientes:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
+
+II. Tener una trayectoria reconocida en el campo de la administración pública, con experiencia profesional de cuando menos tres años en áreas financieras, administrativas o de salud pública.
+
+III. No encontrarse en alguno de los impedimentos que para ser miembro del órgano de gobierno señalan las fracciones II a VI del artículo 18 de la Ley de Entidades Paraestatales del Estado de Chihuahua.
+
+###### ARTÍCULO 15.
+
+El Director General del Organismo tendrá las facultades y obligaciones siguientes:
+
+I. Ejercer las atribuciones y la representación legal del Organismo, representándolo como mandatario, con todas las facultades generales y particulares que requieran cláusula especial conforme a la Ley, sin limitación alguna en los términos del Código Civil para el Estado de Chihuahua; por lo tanto, gozará de facultades para actos de administración, incluso en materia laboral, y para pleitos y cobranzas, pudiendo otorgar y revocar poderes, sin que por ello se entiendan restringidas sus facultades. Para la ejecución de actos de dominio y suscripción de títulos de crédito con cualquier carácter, deberá ser facultado expresamente por la Junta Directiva.
+
+II. Celebrar y otorgar toda clase de actos jurídicos y documentos inherentes a su objeto.
+
+III. Formular querellas y otorgar perdón.
+
+IV. Ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo.
+
+V. Comprometer asuntos de arbitraje y celebrar transacciones.
+
+VI. Cumplir los acuerdos y decisiones de la Junta Directiva y de su Presidente.
+
+VII. Nombrar y remover al personal del Organismo, con base en el presupuesto autorizado y las necesidades que se generen para el cumplimiento de sus objetivos.
+
+VIII. Formular los programas, presupuesto de egresos y previsiones de ingresos del Organismo, y someterlos a la aprobación de la Junta Directiva.
+
+IX. Elaborar y someter a la consideración de la Junta Directiva, el Reglamento Interior, Manuales de Organización y Procedimientos, estructura orgánica, así como los documentos que esta solicite.
+
+X. Rendir a la Junta Directiva un informe cuatrimestral del desempeño de las actividades de la entidad, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo se cotejarán las metas propuestas y los compromisos asumidos por la Dirección con las realizaciones alcanzadas.
+
+XI. Presentar anualmente a la Junta Directiva el balance general y los estados financieros que correspondan.
+
+XII. Celebrar convenios de gestión y contratos para la consecución de los fines del Organismo, previa autorización de la Junta Directiva.
+
+XIII. Proponer a la Junta Directiva las alternativas que permitan la eficiente operación del Organismo.
+
+XIV. Establecer los mecanismos y modelos de evaluación que destaquen la eficiencia y la eficacia con que se desempeñe la entidad y presentar al órgano de gobierno, por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con la Junta Directiva y escuchando al comisario.
+
+XV. Ejercer el tutelaje de los derechos de los beneficiarios del Sistema Estatal de Protección Social en Salud.
+
+XVI. Crear un sistema de operación efectivo que permita incorporar de forma progresiva y acumulativa al total de la población abierta del Estado de Chihuahua, en un esquema de aseguramiento público en materia de salud a familias y ciudadanos que, por su condición laboral y socioeconómica, no son derechohabientes de las instituciones de seguridad social.
+
+XVII. Coordinar la relación entre el Organismo y otras instituciones públicas o privadas.
+
+XVIII. Aplicar, en coordinación con las autoridades involucradas, de manera transparente y oportuna los recursos que sean transferidos por la Federación y las aportaciones propias, para la ejecución de las acciones de protección social en salud que le corresponda.
+
+XIX. Vigilar la correcta administración de los recursos que sean necesarios para el mantenimiento, desarrollo e infraestructura y equipamiento, conforme a las prioridades que se determinen en el Estado, en congruencia con los programas elaborados por la Secretaría de Salud del Gobierno Federal.
+
+XX. Supervisar que se resguarde la información comprobatoria del ejercicio de los recursos para revisiones posteriores o conciliaciones presupuestales.
+
+XXI. Vigilar que la provisión de servicios de salud se efectúe a través de los establecimientos para la atención médica del Estado de Chihuahua, o de forma indirecta a través de los establecimientos para la atención médica de otras Entidades Federativas o de otras instituciones del Sistema Nacional de Salud.
+
+XXII. Verificar que los diversos prestadores de servicios contratados por el Organismo cumplan con los requisitos que establece la Ley, aplicando los recursos para los fines previstos, solicitando así la rendición de cuentas en cualquier momento.
+
+XXIII. Coordinar convenios con las instituciones de seguridad social, con la finalidad de intercambiar información y comprobar la situación de aseguramiento de los beneficiarios.
+
+XXIV. Promover la implantación de esquemas de operación que mejoren la atención, modernicen la administración de servicios, alienten la certificación de su personal y promuevan la acreditación de establecimientos de atención médica.
+
+XXV. Garantizar la actualización del padrón de beneficiarios del Régimen Estatal de Protección Social en Salud.
+
+XXVI. Promover la participación de los municipios y sus aportaciones económicas mediante la suscripción de convenios en los términos de la Ley correspondiente.
+
+XXVII. Las demás que le confiera la Junta Directiva, le encomiende su Presidente y las que señalen otras disposiciones aplicables.
+
+## TÍTULO TERCERO. DEL PATRIMONIO Y DE LA RELACIÓN LABORAL
+
+### CAPÍTULO I. DE LA INTEGRACIÓN DEL PATRIMONIO
+
+###### ARTÍCULO 16.
+
+El patrimonio del Organismo estará constituido por:
+
+I. Los derechos que tenga sobre los bienes muebles e inmuebles y recursos que le transfieran los Gobiernos Federal, Estatal y Municipales.
+
+II. Las aportaciones que los Gobiernos Federal, Estatal y Municipales le otorguen.
+
+Respecto de las aportaciones por parte del Gobierno del Estado, estas tendrán que estar contempladas en el presupuesto de egresos del ejercicio fiscal que corresponda.
+
+III. Las aportaciones, donaciones, legados y demás análogas que reciba de los sectores social y privado.
+
+IV. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores.
+
+V. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley.
+
+VI. En general todos los bienes, derechos y obligaciones que entrañen utilidad económica y que se obtengan por cualquier título legal.
+
+###### ARTÍCULO 17.
+
+El Ejecutivo del Estado acompañará anualmente a la Cuenta Pública Anual del Gobierno del Estado, los estados financieros del Organismo.
+
+### CAPÍTULO II. DE LA RELACIÓN LABORAL
+
+###### ARTÍCULO 18.
+
+Las relaciones laborales entre el organismo y sus trabajadores se regirán por el Apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo.
+
+## TÍTULO CUARTO. DEL ÓRGANO DE VIGILANCIA
+
+### CAPÍTULO ÚNICO. DEL COMISARIO PÚBLICO
+
+###### ARTÍCULO 19.
+
+La vigilancia del Organismo estará a cargo de un Comisario Público Propietario y un suplente, quienes serán designados por la Secretaría de la Contraloría del Estado de Chihuahua, con las siguientes facultades:
+
+I. Asistir con voz pero sin voto a las sesiones de la Junta Directiva, rindiendo los informes y haciendo las recomendaciones pertinentes.
+
+II. Participar en las acciones de supervisión, seguimiento, control y evaluación integral del Organismo en la operación del Sistema de Protección Social en Salud, así como de los recursos presupuestarios y/o en especie que sean trasferidos al Organismo, incluyendo aquellos destinados al mantenimiento y desarrollo de la infraestructura y equipamiento, de acuerdo a la ley y demás disposiciones aplicables.
+
+III. Realizar revisiones y auditorías financieras y administrativas.
+
+IV. Las demás necesarias para el adecuado ejercicio de sus funciones.
+
+Igualmente la actuación de los Comisarios se ajustará en todo caso a lo dispuesto por la Ley de Entidades Paraestatales del Estado de Chihuahua y por las demás disposiciones legales aplicables.
+
+## TÍTULO QUINTO. DE LA EXTINCIÓN DEL ORGANISMO
+
+### CAPÍTULO ÚNICO. PROCEDIMIENTO PARA LA DISOLUCIÓN, LIQUIDACIÓN O EXTINCIÓN
+
+###### ARTÍCULO 20.
+
+Para la extinción y liquidación del Organismo, se seguirán las mismas formalidades requeridas para su creación.
+
+###### ARTÍCULO 21.
+
+En caso de que el Organismo deje de cumplir sus fines u objeto, o su funcionamiento no resulte ya conveniente desde el punto de vista de las finanzas públicas del Estado o del interés público, la Secretaría de Hacienda, atendiendo a la opinión de las Secretarías de Salud y de la Contraloría, propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de aquella.
+
+###### ARTÍCULO 22.
+
+La extinción del Organismo será comunicada al Congreso del Estado, mediante formal iniciativa, para que proceda a abrogar este Decreto.
+
+Para tal efecto, el Ejecutivo deberá proporcionar al Legislativo, toda la información relativa al procedimiento de liquidación y extinción.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El patrimonio del Régimen Estatal de Protección Social en Salud se conformará con los recursos materiales, financieros y humanos del actual Órgano Desconcentrado de la Secretaría de Salud denominado Régimen Estatal de Protección Social en Salud de Chihuahua; por lo tanto, el inventario del activo fijo y el parque vehicular que se encuentra con resguardo a Servicios de Salud de Chihuahua, pasarán a formar parte del patrimonio de dicho Régimen.
+
+###### ARTÍCULO TERCERO.
+
+El Régimen Estatal de Protección Social en Salud deberá garantizar los derechos de los trabajadores del actual órgano desconcentrado, asumiendo la titularidad de la relación laboral.
+
+###### ARTÍCULO CUARTO.
+
+El Estatuto Orgánico que regule las funciones del Organismo Descentralizado que con este instrumento se crea; se expedirá en un término que no excederá de 60 días a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El actual titular del órgano desconcentrado continuará en funciones en tanto el C. Gobernador del Estado ejerce las atribuciones de nombramiento del Director General del Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud.
+
+###### ARTÍCULO SEXTO.
+
+Se abroga el Acuerdo de Creación número 169, mediante el cual se creó el Régimen Estatal de Protección Social en Salud, publicado en el Periódico Oficial del Estado de Chihuahua, con fecha 23 de noviembre de 2005.
+
+###### ARTÍCULO SÉPTIMO.
+
+Notifíquese para su conocimiento la publicación del presente Decreto a la Comisión Nacional de Protección Social en Salud, así como a la Secretaría de Salud Federal.
+
+###### ARTÍCULO OCTAVO.
+
+Inscríbase el presente Decreto en el Registro Público de Organismos Descentralizados de la Secretaría de Hacienda.
+
+###### ARTÍCULO NOVENO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D A D O en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los cinco días del mes de noviembre del año dos mil quince.
+
+PRESIDENTE. DIP. LUIS FERNANDO RODRÍGUEZ GINER. Rúbrica. SECRETARIO. DIP. FRANCISCO CARO VELO.
+
+Rúbrica. SECRETARIO. DIP. ROSEMBERG LOERA CHAPARRO. Rúbrica.
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los diez días del mes de noviembre del año dos mil quince.
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
