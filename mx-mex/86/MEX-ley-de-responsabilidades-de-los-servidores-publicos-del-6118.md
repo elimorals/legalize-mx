@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2015-08-24"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -458,6 +458,10 @@ XXII Bis. Llevar a cabo el proceso de desinfección del agua para uso, consumo y
 > <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
 XXII Ter. Operar eficazmente y con la debida diligencia los mecanismos para la regulación del flujo de agua para el suministro a los usuarios de dicho servicio público, evitando en todo momento la simulación de escases de dicho líquido;
+
+> <small>(ADICIONADA, G.G. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXII Quáter. Por lo que se refiere a los servidores públicos que tengan bajo su responsabilidad la residencia y supervisión de obras públicas y la revisión de precios unitarios, alzados y mixtos deberán acreditar el procedimiento de evaluación de confianza en la Unidad Estatal de Certificación de Confianza a cargo de la Secretaría.
 
 XXIII. Abstener de impedir, por sí o por interpósita persona, utilizando cualquier medio, la formulación de quejas y denuncias; o que con motivo de las mismas, realice cualquier conducta injusta u omita una justa y debida, que lesione los intereses de los quejosos o denunciantes; y
 
@@ -1672,3 +1676,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones legales de igual o menor jerarquía que sean contrarias a lo establecido en este Decreto.
+
+CUARTO.- El Gobernador del Estado expedirá las reformas respectivas al Reglamento del Libro Décimo Segundo del Código Administrativo del Estado de México y al Reglamento Interior de la Secretaría de la Contraloría, a más tardar a los noventa días siguientes de la entrada en vigor del presente Decreto.
+
+QUINTO.- El Secretario de la Contraloría, en el ámbito de sus atribuciones, emitirá las disposiciones normativas complementarias para el cumplimiento del presente Decreto, a más tardar a los noventa días siguientes de la entrada en vigor del presente instrumento.
