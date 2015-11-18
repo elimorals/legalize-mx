@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-comision-de-derechos-humanos-del-distrito-federal-62"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-22"
-last_updated: "2014-12-18"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1993-06-21"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes el 22 de junio de 1993.
 
@@ -276,9 +276,13 @@ XII.- Orientar a la ciudadanía para que la o las denuncias sean presentadas ant
 
 XIII.- Practicar visitas e inspecciones a los Centros de Asistencia Social e Instituciones de Asistencia Privada donde se presten servicios asistenciales como son: casas hogares, casas asistenciales, Instituciones y organismos que trabajen con la niñez, Instituciones para el tratamiento y apoyo a enfermos mentales, Instituciones donde se preste asistencia y apoyo a las personas con capacidades diferentes, a las personas adultas mayores, Centros de Asistencia e Integración Social, Instituciones y Centros de salud y demás establecimientos de asistencia social en el Distrito Federal, en los que intervenga cualquier autoridad pública local, para cerciorarse del absoluto respeto a los derechos humanos de los internos; y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+XIV.- El titular de la Comisión, asistirá a las sesiones del Gabinete de Prevención Social de las Violencias, en su carácter de invitado permanente, solamente con derecho a voz.
+
 > <small>(ADICIONADA, G.O. 14 DE ENERO DE 2003)</small>
 
-XIV.- Las demás que le otorguen la presente Ley y otros ordenamientos legales y reglamentarios.
+XV.- Las demás que le otorguen la presente Ley y otros ordenamientos legales y reglamentarios.
 
 ###### ARTICULO 18.
 
@@ -947,3 +951,9 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
