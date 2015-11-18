@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-registral-y-del-registro-publico-de-la-828
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-13"
-last_updated: "2011-09-13"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82821&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-09-09"
 ---
 # REGLAMENTO DE LA LEY REGISTRAL Y DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL DISTRITO FEDERAL
 
-REGLAMENTO DE LA LEY REGISTRAL Y DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DE COMERCIO DEL DISTRITO FEDERAL
+REGLAMENTO DE LA LEY REGISTRAL Y DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY REGISTRAL PARA EL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 18 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 13 de septiembre de 2011.
 
@@ -708,7 +710,7 @@ Cuando el interesado solicite la Salida Sin Registro de un documento suspendido 
 
 ###### Artículo 79.
 
-Procederá la Salida Sin Registro a petición de parte siempre y cuando no se hayan generado asientos relacionados con el número de entrada que corresponda.. (sic)
+Procederá la Salida Sin Registro a petición de parte siempre y cuando no se hayan generado asientos relacionados con el número de entrada que corresponda..
 
 Cuando el documento se encuentre en cualquiera de los estados de Suspendido, Denegado o en Inscripción, se entenderá que el mismo ya ha sido calificado y solamente procederá la Salida Sin Registro a petición de parte con el pago de derechos establecido en el artículo 197, segundo párrafo del Código Fiscal del Distrito Federal.
 
@@ -756,7 +758,7 @@ Se requiere la inscripción del régimen de sociedad conyugal únicamente cuando
 
 La solicitud de inscripción deberá hacerse de manera expresa, anexando el pago de derechos correspondientes y copia certificada del acta de matrimonio.
 
-###### Articulo 88.
+###### Artículo 88.
 
 Cuando en el instrumento respectivo se solicite la fusión o subdivisión de predios que se hubieren agregado o segregado o que de cualquier forma se hubieren anexado o separado a otros antes de la publicación de la Ley de Desarrollo Urbano del Distrito Federal del 7 de enero de 1976, no será necesaria la presentación de permiso alguno y se llevará a cabo la fusión o subdivisión correspondiente, anotando en el asiento la circunstancia descrita siempre que se relacionen los documentos de la fecha en los que las autoridades respectivas conocieron de dicha operación o bien se presente documento de las autoridades competentes en donde hacen constar dicha circunstancia.
 
@@ -1401,3 +1403,23 @@ SEPTIMO: Los instrumentos notariales y documentos que se encuentran en el archiv
 OCTAVO: El último párrafo del artículo 123 del presente Reglamento sólo aplicará para los folios que ya consten electrónicamente a la entrada en vigor del presente ordenamiento.
 
 Dado en la Residencia del Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los nueve días del mes de septiembre de dos mil once.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.-FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de la Ley Registral y del Registro Público de la Propiedad y de Comercio del Distrito Federal publicado en la Gaceta Oficial del Distrito Federal el 13 de septiembre de 2011.
+
+CUARTO. El Titular emitirá la circular que establezca las medidas de seguridad que contendrán los documentos originados por servicios electrónicos.
+
+QUINTO. Tratándose de Custodia de Antecedentes Registrales ordenada por autoridad judicial o administrativa antes de la entrada en vigor del presente ordenamiento, quien acredite su interés legítimo podrá solicitar su liberación una vez transcurrido el plazo de tres años a que hace referencia el artículo 165 del presente Reglamento, la Unidad Jurídica notificará a la Autoridad ordenadora para que en el plazo de treinta días hábiles reitere de manera expresa la prórroga de la Custodia y en caso de no hacerlo se procederá a la liberación del Antecedente Registral.
+
+SEXTO. El proceso registral en curso, deberá ajustarse a las disposiciones del presente Decreto, en lo que beneficie al usuario del Servicio Registral.
+
+SÉPTIMO. La sustanciación de los recursos en trámite a la entrada en vigor del presente Decreto se acogerán (sic) a las disposiciones del mismo, en lo que beneficie al usuario del servicio registral.
+
+OCTAVO. La primera convocatoria para la reunión del Comité del Servicio Profesional de Carrera Registral la emitirá el Titular dentro de los treinta días hábiles siguientes a la publicación del presente Reglamento y tendrá como único objetivo establecer su forma de funcionamiento.
