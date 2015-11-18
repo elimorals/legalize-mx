@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2014-12-30"
+last_updated: "2015-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY FEDERAL DE DERECHOS
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 30 DE DICIEMBRE DE 2014.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -239,7 +239,7 @@ Cuando no se llenen los requisitos legales para la prestación de los servicios 
 
 Tratándose de los derechos que se causen por ejercicios, cuando el uso o aprovechamiento de los bienes del dominio público de la Federación sea por un período menor, el pago del derecho se hará proporcionalmente al periodo en el que se use o aproveche el bien.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -300,6 +300,12 @@ que anteceden $146.32 $146
 VII.- Por la prestación de servicios fuera de la población donde radique la autoridad que los proporciona, una cantidad equivalente a los viáticos a que los empleados tengan derecho por el desempeño de su trabajo fuera del lugar de su adscripción, incluidos los gastos de pasaje por el viaje redondo.
 
 Los ingresos a que se refiere esta fracción, se destinarán a la unidad generadora de los mismos, excepto cuando dichos ingresos se encuentren presupuestados en el ejercicio que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Lo dispuesto en el presente artículo, también será aplicable a cualquier órgano del Estado que preste servicios públicos, en el ejercicio de sus funciones.
 
 Por la expedición de documentos o copias certificadas de los mismos que sean solicitados por la Federación, el Distrito Federal, Estados y Municipios de asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular, así como por la expedición de copias certificadas para la substanciación del juicio de amparo, no se pagarán derechos.
 
@@ -405,19 +411,25 @@ Por el cambio de característica migratoria dentro de la calidad de no inmigrant
 
 #### SECCION PRIMERA. Servicios Migratorios
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 8o.
 
-Por la expedición del documento migratorio que acredita la condición de estancia se pagarán derechos conforme a las siguientes cuotas:
+Por la recepción, estudio de la solicitud y, en su caso, la expedición del documento migratorio que acredita la condición de estancia se pagarán derechos conforme a las siguientes cuotas:
 
-I. Visitante sin permiso para realizar
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-actividades remuneradas $331.63 $332
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+I. Visitante sin permiso para realizar actividades remuneradas $390.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 II. Visitante con permiso para realizar
 
@@ -425,9 +437,21 @@ actividades remuneradas $2,641.80 $2,642
 
 III. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
 IV. Visitante Trabajador Fronterizo $331.63 $332
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+
 V. Visitante con fines de adopción $2,563.11 $2,563
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 VI. Residente Temporal:
 
@@ -438,6 +462,10 @@ b). Dos años $5,272.35 $5,272
 c). Tres años $6,677.56 $6,678
 
 d). Cuatro años $7,914.14 $7,914
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 VII. Residente Permanente $4,288.70 $4,289
 
@@ -479,7 +507,7 @@ Tratándose de extranjeros que arriben al país vía aérea, el derecho previsto
 
 Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -565,7 +593,7 @@ Tratándose de pasajeros que abandonen el país vía aérea, el derecho previsto
 
 Los prestadores del servicio de transporte aéreo internacional de pasajeros a que se refiere el párrafo anterior, deberán enterar el pago mediante declaración que se presentará ante las oficinas autorizadas por el Servicio de Administración Tributaria.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -587,11 +615,17 @@ II. Permiso de salida y regreso al país $359.73 $360
 
 III. Autorización para realizar actividades remuneradas al Residente Temporal y al Residente Temporal estudiante $2,641.80 $2,642
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-IV. Autorización de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $833.28 $833
+IV. Autorización o reposición de la condición de estancia de Residente Temporal, cuando el extranjero acredite ser ministro de culto o pertenecer a una asociación religiosa, por cada año $833.28
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+No pagarán la cuota señalada en la fracción III del presente artículo, los extranjeros cuando sean autorizados al amparo de un instrumento jurídico de movilidad de personas o convenios de cooperación internacional en consideración a aspectos de reciprocidad internacional.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -735,13 +769,13 @@ Los demás ingresos que se obtengan por la recaudación de los derechos establec
 
 Los ingresos que se destinen al Fondo Nacional de Fomento al Turismo de conformidad con el primer párrafo de este artículo podrán ser utilizados para pago de adeudos generados con motivo de los financiamientos contratados para las inversiones en infraestructura a que se refiere dicho párrafo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 18-B.
 
-No pagarán los derechos a los que se refiere esta Sección los extranjeros que tengan la característica de refugiado, con base en la legislación nacional y en los tratados internacionales en los que México es parte.
+No pagarán los derechos a los que se refiere esta Sección los extranjeros que obtengan de la Secretaría de Gobernación el reconocimiento de la condición de refugiado o el otorgamiento de protección complementaria, con base en la legislación nacional y en los tratados internacionales en los que México es parte.
 
 #### SECCION SEGUNDA. Certificados de Licitud
 
@@ -1157,7 +1191,7 @@ V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 #### SECCION PRIMERA. Pasaportes y Documentos de Identidad y Viaje
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1205,17 +1239,19 @@ con validez hasta por diez
 
 años $2,264.73 $2,265
 
-V.- Pasaportes oficiales con
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-validez hasta por un año $426.63 $425
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-VI.- Pasaportes oficiales con
+V.- Pasaportes oficiales $426.63
 
-validez hasta por dos años $426.63 $425
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII.- Por el refrendo de
+VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-pasaportes oficiales $255.89 $255
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -1337,7 +1373,7 @@ Cuando los servicios a que se refiere este artículo, sean prestados en territor
 
 Los derechos que se obtengan por concepto de las fracciones anteriores se destinarán a la integración del fondo a que se refiere la fracción XI del artículo 2do. de la Ley del Servicio Exterior Mexicano, con excepción de los que sean prestados en territorio nacional.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1375,13 +1411,13 @@ subsecuentes testimonios,
 
 por hoja $120.54 $120
 
-V.- Por la recepción de cada
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-testamento ológrafo $2,452.34 $2,450
+V.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-VI.- Por cada testamento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-público cerrado $670.03 $670
+VI.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 VII.- Por las autorizaciones
 
@@ -1437,9 +1473,11 @@ II.- Los que soliciten indigentes de nacionalidad mexicana, para su repatriació
 
 III.- Los que soliciten los pensionados para justificar su situación legal en el país en que residan o para comprobar su existencia física ante las autoridades mexicanas que así lo requieran.
 
-> <small>(REFORMADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- El registro de nacimientos y el registro de defunciones, así como las copias certificadas de este último, en casos de protección consular.
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+IV.- El registro de nacimientos y la expedición de la primera copia certificada del acta, así como el registro de defunciones y las copias certificadas de este último, en casos de protección consular.
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -1735,7 +1773,7 @@ I.- El importe de los estímulos que se concedan de conformidad con la Ley del I
 
 II.- El importe de los estímulos cuando en la disposición en que se otorguen, se exima expresamente del pago de estos derechos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2012,6 +2050,36 @@ múltiple: $2,016,488.49 $2,016,488
 > <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 XXVI. Por el estudio, trámite y, en su caso, emisión o renovación del dictamen técnico en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139, 148 Bis o 400 Bis del Código Penal Federal, que soliciten los centros cambiarios, transmisores de dinero y sociedades financieras de objeto múltiple no reguladas para obtener su registro: $20,832.00 $20,832
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXVII. Por la solicitud, análisis y, en su caso, aprobación para que una sociedad financiera de objeto múltiple sea considerada como entidad regulada, en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito: $24,706.61
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXVIII. Por la solicitud, análisis y, en su caso, inscripción en el registro para actuar como asesor en inversiones en términos de la Ley del Mercado de Valores: $27,901.67
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXIX. Por la solicitud, análisis y, en su caso, inscripción o renovación en el registro para actuar como centro cambiario o transmisor de dinero, en términos de la Ley General de Organizaciones y Actividades Auxiliares del Crédito: $2,060.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXX. Por la solicitud, análisis y, en su caso, la certificación o renovación de los auditores externos independientes y demás profesionales, así como a los oficiales de cumplimiento, que presten sus servicios a las entidades y personas sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores para la verificación del cumplimiento de las leyes financieras y de las disposiciones que emanen de ellas en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139 Quáter o 400 Bis del Código Penal Federal: $11,175.50
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXXI. Por la solicitud, análisis y, en su caso, la certificación o renovación de los auditores y demás profesionales, que coadyuven con la Comisión Nacional Bancaria y de Valores, cuando ésta los contrate, para la verificación del cumplimiento de las leyes financieras y de las disposiciones que emanen de ellas en materia de prevención, detección y reporte de actos, omisiones u operaciones que pudiesen ubicarse en los supuestos de los artículos 139 Quáter o 400 Bis del Código Penal Federal: $11,175.50
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -3835,71 +3903,21 @@ V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 30-C.
 
-Por la presentación de los exámenes de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones y sociedades mutualistas de seguros, se pagarán los derechos conforme a lo siguiente:
+Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones y sociedades mutualistas de seguros, ya sea como personas físicas o morales, se pagará una cuota de $1,367.01 por concepto de derechos por cada una de las pruebas siguientes:
 
-cuota sin cuota con
+I. Elaboración y firma de las notas técnicas de los productos de seguros, que ofrezcan al público las instituciones y sociedades mutualistas de seguros.
 
-ajuste ajuste
+II. Elaboración y firma de la valuación de las reservas técnicas, así como los métodos para la evaluación de las mismas.
 
-I. Por el examen de acreditación
+III. Elaboración de los dictámenes actuariales sobre la situación y suficiencia de las reservas de carácter técnico.
 
-de los conocimientos requeridos
-
-por los actuarios encargados de
-
-la elaboración y firma de las
-
-notas técnicas para el registro
-
-de los productos de seguros,
-
-que ofrezcan al público las
-
-instituciones y sociedades
-
-mutualistas de seguros $1,367.01 $1,367
-
-II. Por el examen de acreditación
-
-de los conocimientos requeridos
-
-por los actuarios que elaboren y
-
-firmen la valuación de las
-
-reservas técnicas, que deben
-
-calcular y registrar las
-
-instituciones y sociedades
-
-mutualistas de seguros $1,367.01 $1,367
-
-III. Por el examen de acreditación
-
-de los conocimientos requeridos
-
-por los actuarios independientes
-
-que realicen los dictámenes
-
-actuariales sobre la situación y
-
-suficiencia de las reservas de
-
-carácter técnico, que deben
-
-constituir las instituciones y
-
-sociedades mutualistas de
-
-seguros $1,367.01 $1,367
+IV. Elaboración y firma de la prueba de solvencia dinámica.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -3921,25 +3939,45 @@ de seguros, se pagarán derechos
 
 conforme a la cuota de: $598.29 $598
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTICULO 30-E.
+
+Por los siguientes servicios que presta la Comisión Nacional de Seguros y Fianzas, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por el estudio, trámite de la solicitud y, en su caso, el otorgamiento del reconocimiento como organización aseguradora u organización afianzadora $34,784.43
+
+II. Por el estudio, trámite de la solicitud y, en su caso, la autorización para el establecimiento de oficinas de representación de Reaseguradoras Extranjeras $20,870.66
+
+III. Por el estudio y trámite de la solicitud de autorización para la constitución y operación de instituciones de seguros, sociedades mutualistas de seguros o instituciones de fianzas $42,850.38
+
+IV. Por la autorización para la constitución y operación de instituciones de seguros, sociedades mutualistas de seguros o instituciones de fianzas $64,275.57
+
+V. Por la emisión del dictamen para el inicio de operaciones de instituciones de seguros, sociedades mutualistas de seguros o instituciones de fianzas $116,440.51
+
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
-Las instituciones de fianzas y los establecimientos que conforme a la Ley Federal de Instituciones de Fianzas deban estar sometidos a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, deberán pagar por tal concepto un derecho, de acuerdo con lo siguiente:
+Las instituciones que emitan fianzas conforme a la Ley de Instituciones de Seguros y de Fianzas sometidas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, deberán pagar por tal concepto un derecho, de acuerdo con lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I.- Las instituciones de fianzas pagarán el equivalente al 3.5% de las primas que perciban.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+I. Las instituciones que emitan fianzas pagarán el equivalente al 3.5% de las primas que perciban.
 
 Tratándose de primas por concepto de reafianzamiento recibido de empresas extranjeras, el derecho se causará sobre la prima, deducido el importe de la comisión pagada a la empresa extranjera; y
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II.- Las demás personas y entidades sujetas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, de acuerdo a lo dispuesto por la Ley Federal de Instituciones de Fianzas, deberán pagar un derecho cuya cuota determinará la Secretaría de Hacienda y Crédito Público a propuesta de la señalada Comisión, tomando en cuenta la estimación de la incidencia que en el presupuesto de esta última tenga el ejercicio de tales funciones.
-
-Las cuotas determinadas conforme al presente artículo deberán manifestarse a la Secretaría de Hacienda y Crédito Público dentro de los primeros 15 días de cada bimestre. Al presentarse dichas manifestaciones, exhibirán el comprobante de haber pagado el importe de los derechos causados, a reserva de que se hagan los ajustes que procedan al verificarse las mencionadas manifestaciones mediante las inspecciones respectivas.
+II. (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4049,71 +4087,29 @@ agente de fianzas
 
 persona moral $348.99 $349
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-###### ARTICULO 31-A
-
-1.- Por la presentación de los exámenes de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones de fianzas, se pagarán los derechos conforme a lo siguiente:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el examen de acreditación
-
-de los conocimientos requeridos
-
-por los actuarios encargados de
-
-la elaboración y firma de las
-
-notas técnicas, que registren las
-
-instituciones de fianzas para
-
-soportar la adecuada operación
-
-de los productos que ofrezcan
-
-al público $1,367.01 $1,367
-
-II.- Por el examen de acreditación
-
-de los conocimientos requeridos
-
-por los actuarios que elaboren y
-
-firmen la valuación de las reservas
-
-técnicas, que deben calcular y
-
-registrar las instituciones de
-
-fianzas $1,367.01 $1,367
-
-III.- Por el examen de acreditación
-
-de los conocimientos requeridos por
-
-los actuarios independientes que
-
-realicen los dictámenes actuariales
-
-sobre la situación y suficiencia de
-
-las reservas de carácter técnico, que
-
-deben constituir las instituciones
-
-de fianza $1,367.01 $1,367
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31-A
 
-2.- Los ingresos que se obtengan por los derechos a que se refieren los artículos 30, 30-A, 30-B, 30-C, 31, 31-A y 31-A-1 de esta Ley, se destinarán a la Comisión Nacional de Seguros y Fianzas.
+1. Por la presentación de cada examen de acreditación de conocimientos de los actuarios que presten sus servicios a las instituciones de fianzas, ya sea como personas físicas o morales, se pagará una cuota de $1,367.01 por concepto de derechos por cada una de las pruebas siguientes:
+
+I. Elaboración y firma de las notas técnicas para soportar la adecuada operación de los productos que ofrezcan al público las instituciones de fianzas.
+
+II. Elaboración y firma de la valuación de las reservas técnicas, así como los métodos para la evaluación de las mismas.
+
+III. Elaboración de los dictámenes actuariales sobre la situación y suficiencia de las reservas de carácter técnico.
+
+IV. Elaboración y firma de la prueba de solvencia dinámica.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTICULO 31-A
+
+2. Los ingresos que se obtengan por los derechos a que se refieren los artículos 30, 30-A, 30-B, 30-C, 30-D, 30-E, 31, 31-A y 31-A-1 de esta Ley, se destinarán a la Comisión Nacional de Seguros y Fianzas.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -5529,11 +5525,17 @@ Normalización se pagarán derechos
 
 con la siguiente cuota: $2,457.60 $2,458
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 61-A.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Por la recepción y análisis de la solicitud y, en su caso, la expedición de cada uno de los títulos de permiso de Tratamiento de Petróleo, Refinación de Petróleo o Procesamiento de gas natural, se pagarán derechos conforme a la cuota de $125,879.53
+
+Por la recepción y análisis de la solicitud y, en su caso, la expedición de la prórroga de cada uno de los permisos descritos en el párrafo anterior, se pagará el derecho conforme a la cuota referida en dicho párrafo.
+
+Por la recepción y análisis de la solicitud y, en su caso, la cesión de cada permiso o modificación de los títulos de permiso antes mencionados, se pagará el derecho equivalente al 50 por ciento de la cuota a que se refiere el primer párrafo del presente artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -5575,13 +5577,13 @@ conforme a la cuota de $13,163.26 $13,163
 
 Tratándose de solicitudes para la autorización de prórroga, transferencia y modificación de los términos y condiciones originales de los permisos señalados en el párrafo anterior se pagarán derechos, por cada una, conforme a la cuota a que se refiere el citado párrafo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VÉASE ARTÍCULO CUARTO DE LAS DISPOSICIONES TRANSITORIAS QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 11 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 61-F.
 
-Los ingresos que se obtengan por el pago de derechos por los servicios a los que se refiere este Capítulo, se destinarán a la Comisión Reguladora de Energía.
+Los ingresos que se obtengan por el pago de derechos por los servicios que sean prestados por la Comisión Reguladora de Energía a los que se refiere este Capítulo, se destinarán a dicha Comisión.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -5885,7 +5887,7 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -5993,7 +5995,11 @@ b).- Por la segunda y ulteriores
 
 prórrogas $1,226.31 $1,226
 
-X.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+X.- Por la recepción, estudio de la solicitud y, en su caso, el otorgamiento de la opinión de la Comisión Nacional de Inversiones Extranjeras a que se refiere el artículo 77 de la Ley Federal de Telecomunicaciones y Radiodifusión $18,459.73
 
 XI.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -6073,6 +6079,14 @@ derecho de normas conforme
 
 a la cuota de $595.14 $595
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTICULO 73-G.
+
+Por el análisis de la solicitud y, en su caso, la autorización que emita la Secretaría de Economía para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos en las normas oficiales mexicanas expedidas por esta dependencia, a que se refiere el artículo 49 de la Ley Federal sobre Metrología y Normalización, se pagarán derechos conforme a la cuota de $9,768.27
+
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 #### SECCION QUINTA. Permisos de Importación
@@ -6105,11 +6119,21 @@ a la cuota de $595.14 $595
 
 #### SECCION SEXTA. Competencia Económica
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 77.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Por la recepción, estudio y trámite de cada notificación de concentración a que se refiere la Ley Federal de Competencia Económica, cualquiera que sea la resolución que emita la Comisión Federal de Competencia Económica, se pagarán derechos conforme a la cuota de $160,000.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTICULO 77-A.
+
+Los ingresos que se obtengan por la recaudación del derecho a que se refiere el artículo anterior, se destinarán a la Comisión Federal de Competencia Económica.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -6449,31 +6473,15 @@ En caso de que la expedición de los certificados señalados en las fracciones V
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 86-C.
 
-Por los servicios técnicos que soliciten las empresas que realicen actividades en materia de plaguicidas agrícolas o pecuarios, se pagará el derecho de sanidad agropecuaria, conforme a las siguientes cuotas:
+Por la solicitud, análisis y, en su caso, expedición del dictamen técnico de efectividad biológica que presenten las empresas que realicen actividades en materia de plaguicidas agrícolas o pecuarios, o de insumos de nutrición vegetal, se pagará el derecho de sanidad agropecuaria, conforme a la cuota de $2,289.62
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el dictamen técnico de
-
-efectividad biológica de plaguicidas
-
-agrícolas o pecuarios $2,289.62 $2,290
-
-II.- (DEROGADA, D.O.F. 1 DE DICIEMBRE DE 2004)
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-III.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6487,15 +6495,11 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-I. Personas Físicas: Médico
-
-Veterinario Responsable o
-
-Tercero Especialista $704.15 $704
+I.- Personas Físicas: Médico Veterinario Responsable, Tercero Especialista o Profesional Autorizado $704.15
 
 II.- Organismos de certificación $83,697.30 $83,697
 
@@ -6538,6 +6542,16 @@ o laboratorio zoosanitario de
 constatación, se pagarán derechos
 
 conforme a la cuota de $6,055.01 $6,055
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTICULO 86-D
+
+2.- Por el estudio, análisis de la solicitud, visita de evaluación y, en su caso, la autorización para operar como Punto de Verificación e Inspección Zoosanitaria para Importación o como Punto de Inspección Internacional en Materia de Sanidad Vegetal, por cada tipo de establecimiento, se pagarán derechos conforme a la cuota de $56,515.00
+
+En caso de que los autorizados para operar alguno de los establecimientos antes señalados, solicite un cambio o ampliación de mercancías, cambio de domicilio del punto o ampliación de las instalaciones, se pagará el 50% de los derechos previstos en el párrafo anterior.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -6703,7 +6717,7 @@ la cuota de: $3,097.88 $3,098
 
 Se pagará el 50% del monto del derecho correspondiente a que se refiere esta Sección, cuando los servicios sean prestados a instituciones de enseñanza e investigación, públicas o propiedad de particulares que tengan autorización o reconocimiento de validez oficial de estudios en los términos de la Ley General de Educación.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -6721,9 +6735,11 @@ de origen para exportación, por
 
 cada uno $349.08 $349
 
-II.- Por la expedición de certificados
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-de calidad, por etiqueta $1.3727
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+II.- Por la expedición de certificados de calidad, por etiqueta $2.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7001,39 +7017,17 @@ la cuota de $15,762.42 $15,762
 
 ### CAPITULO VIII. De la Secretaría de Comunicaciones y Transportes
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCION PRIMERA. Servicios de Telecomunicaciones
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+#### SECCION PRIMERA
 
-cuota sin cuota con
-
-ajuste ajuste
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 91.
 
-Por la verificación
-
-e inspección de las instalaciones
-
-que constituyen las redes de los
-
-servicios de telecomunicaciones,
-
-solicitada expresamente por los
-
-concesionarios, permisionarios
-
-y asignatarios, se pagará el
-
-derecho de verificación, por cada
-
-visita, conforme a la cuota de $8,956.31 $8,956
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-Las verificaciones realizadas a usuarios del servicio de aficionados o radioaficionados, a usuarios de banda civil o a usuarios de bandas de uso libre, que conforme a esta Ley, no están obligados al pago de derechos por el uso del espectro, no causarán este derecho de verificación.
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 92.
 
@@ -7043,409 +7037,75 @@ Las verificaciones realizadas a usuarios del servicio de aficionados o radioafic
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 93.
 
-Por el estudio de la solicitud, expedición de título y prórroga de concesiones para el uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias en el territorio nacional, independientemente de la contraprestación a que se refiere el artículo 14 de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la documentación
-
-inherente a la solicitud para obtener
-
-uno o más títulos de concesión $33,606.02 $33,606
-
-II.- Por la expedición del título de
-
-concesión, por cada uno $24,163.82 $24,164
-
-III.- Por el estudio de la solicitud de
-
-prórroga del título de concesión $13,799.26 $13,799
-
-IV.- Por la autorización de prórroga
-
-de concesión $10,845.69 $10,846
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 94.
 
-Por el estudio de la solicitud, expedición de título y prórroga de concesiones para la instalación, operación o explotación de redes públicas de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la solicitud
-
-y de la documentación técnica,
-
-administrativa y legal inherente
-
-a la misma $38,243.88 $38,244
-
-II.- Por la expedición del título
-
-de concesión $43,252.77 $43,253
-
-III.- Por el estudio de la solicitud
-
-de prórroga del título de
-
-concesión $27,023.18 $27,023
-
-IV.- Por la autorización de
-
-prórroga de concesión $22,907.65 $22,908
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 94-A.
 
-Por el estudio de la solicitud y, en su caso, expedición del título de concesión para el uso, aprovechamiento o explotación de bandas de frecuencias para uso experimental que operen con carácter privado y sin fines de lucro, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio $13,513.03 $13,513
-
-II.- Por la autorización $6,206.58 $6,207
-
-No pagarán este derecho las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para investigación.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 95.
 
-Por el estudio de la solicitud, expedición de título y prórroga de concesiones para la ocupación de posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país y la explotación de sus respectivas frecuencias o bandas de frecuencias, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la solicitud y
-
-de la documentación técnica,
-
-administrativa y legal inherente
-
-a la misma $31,636.99 $31,637
-
-II.- Por la expedición del título de
-
-concesión $20,787.20 $20,787
-
-III.- Por el estudio de la solicitud de
-
-prórroga del título de concesión $11,124.42 $11,124
-
-IV.- Por la autorización de prórroga
-
-de concesión $10,394.54 $10,395
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 96.
 
-Por el estudio de la solicitud, expedición de título y prórroga de concesiones para la explotación de los derechos de emisión y recepción de señales de frecuencias o bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la solicitud
-
-y de la documentación técnica,
-
-administrativa y legal inherente
-
-a la misma $38,767.25 $38,767
-
-II.- Por la expedición del título de
-
-Concesión $43,449.24 $43,449
-
-III.- Por el estudio de la solicitud
-
-de prórroga del título de
-
-concesión $22,907.65 $22,908
-
-IV.- Por la autorización de prórroga
-
-de concesión $22,907.65 $22,908
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 97.
 
-Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión en materia de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el registro de representantes
-
-o apoderados, después de los
-
-primeramente designados $7,623.43 $7,623
-
-II.- Por cambio en la titularidad de las concesiones:
-
-a).- Por el estudio $34,151.44 $34,151
-
-b).- Por la autorización $12,664.36 $12,664
-
-III.- Por cambio en la escritura constitutiva del concesionario:
-
-a).- Por el estudio $19,413.63 $19,414
-
-b).- Por la autorización $8,632.04 $8,632
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-IV.- Por el estudio y, en su caso, autorización para prestar un servicio adicional:
-
-a).- Por el estudio $14,489.02 $14,489
-
-b).- Por la autorización $4,543.55 $4,544
-
-V.- Por ampliación al área de cobertura de la red:
-
-a).- Por el estudio. $12,548.07 $12,548
-
-b).- Por la autorización. $4,543.55 $4,544
-
-VI.- Por modificación de las características de uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias concesionadas:
-
-a).- Por el estudio. $11,266.79 $11,267
-
-b).- Por la autorización. $4,543.55 $4,544
-
-VII.- Por el estudio de prórrogas,
-
-solicitadas para el cumplimiento
-
-de obligaciones establecidas en
-
-el título de concesión y, en su
-
-caso, por la autorización de las
-
-prórrogas. $3,440.71 $3,441
-
-> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
-
-VIII.- Por cambio de razón social o cambio en la titularidad de acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
-
-a).- Por el estudio $7,288.45 $7,288
-
-b).- Por la autorización $2,325.60 $2,326
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
-
-IX.- Por el estudio y autorización de otras modificaciones de los títulos de concesión, no consideradas en las fracciones anteriores:
-
-a).- Por el estudio $11,009.17 $11,009
-
-b).- Por la autorización $4,439.67 $4,440
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 98.
 
-Por el estudio de la solicitud, expedición y prórroga de permisos para el establecimiento, operación o explotación de una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la solicitud
-
-y de la documentación técnica,
-
-administrativa y legal inherente
-
-a la misma $21,930.11 $21,930
-
-II.- Por la expedición del permiso $24,410.46 $24,410
-
-III.- Por el estudio de la solicitud
-
-de prórroga del permiso $17,354.35 $17,354
-
-IV.- Por la autorización de
-
-prórroga del permiso $14,541.19 $14,541
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 99.
 
-Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos para esta
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-lecer, operar o explotar una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el registro de representantes
-
-o apoderados, después de los
-
-primeramente designados $9,742.88 $9,743
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-II.- Por cambio en la titularidad del permiso:
-
-a).- Por el estudio $17,118.33 $17,118
-
-b).- Por la autorización $5,789.18 $5,789
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Por cambios en la escritura constitutiva del permisionario:
-
-a).- Por el estudio $3,423.50 $3,423
-
-b).- Por la autorización $1,158.99 $1,159
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-IV.- Por ampliación al área de cobertura de los servicios:
-
-a).- Por el estudio $14,771.78 $14,772
-
-b).- Por la autorización $6,799.32 $6,799
-
-V.- Por el estudio de prórrogas
-
-solicitadas para el cumplimiento de
-
-obligaciones establecidas en el
-
-permiso y, en su caso, por la
-
-autorización de las prórrogas $2,024.37 $2,024
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 100.
 
-Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos o autorizaciones de servicios de radiocomunicación privada incluyendo enlaces, otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por la autorización de modificaciones
-
-que requieran estudio técnico $6,658.95 $6,659
-
-II.- Por la autorización de modificaciones
-
-que no requieran estudio técnico $2,373.98 $2,374
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 100-A.
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 101.
 
-Por el estudio de la solicitud y por la expedición del permiso para la instalación, operación o explotación de estaciones terrenas transmisoras o transreceptoras, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la solicitud y de
-
-la documentación técnica administrativa
-
-y legal inherente a la misma $13,642.86 $13,643
-
-II.- Por la expedición del permiso $6,237.87 $6,238
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 102.
 
-Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos para instalar y operar estaciones terrenas transmisoras o transreceptoras, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el registro de representantes o
-
-apoderados, después de los
-
-primeramente designados $5,824.84 $5,825
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-II.- Por cambio en la titularidad del permiso:
-
-a).- Por el estudio $17,118.33 $17,118
-
-b).- Por la autorización $5,789.18 $5,789
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
-III.- Por cambio en la escritura constitutiva del permisionario:
-
-a).- Por el estudio $4,597.69 $4,598
-
-b).- Por la autorización $1,158.99 $1,159
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-IV. Por cambio en las características técnicas y de operación del permiso de la estación terrena transmisora:
-
-a).- Por el estudio $4,956.62 $4,957
-
-b).- Por la autorización $2,017.10 $2,017
-
-V. Por el estudio de prórrogas solicitadas
-
-para el cumplimiento de obligaciones
-
-establecidas en el permiso y, en su caso,
-
-por la autorización de las prórrogas. $2,024.37 $2,024
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7461,35 +7121,11 @@ por la autorización de las prórrogas. $2,024.37 $2,024
 
 (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 105.
 
-Por el estudio de la solicitud, por el otorgamiento del título de asignación de frecuencias o bandas de frecuencias para uso oficial, incluyendo las asociadas a la capacidad satelital reservada al Estado y por la autorización de modificaciones o ampliaciones, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la solicitud
-
-de asignación $5,969.23 $5,969
-
-II.- Por el otorgamiento del título
-
-de asignación $7,194.34 $7,194
-
-III.- Por la autorización de
-
-modificaciones o ampliaciones
-
-al título de asignación $4,260.83 $4,261
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
-
-Los estudios para la asignación de las frecuencias que vayan a ser utilizadas durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores estarán exentas del pago del derecho previsto en este artículo.
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 106.
 
@@ -7615,33 +7251,17 @@ Los estudios para la asignación de las frecuencias que vayan a ser utilizadas d
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1988)
 
-#### SECCION TERCERA. Concesiones, Permisos, Autorizaciones e Inspecciones
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+#### SECCION TERCERA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 120.
 
-Por el estudio de cada cuota sin cuota con
-
-solicitud y expedición de la constancia ajuste ajuste
-
-de modificaciones o ampliaciones a
-
-permisos, autorizaciones o registros de
-
-servicios de telecomunicaciones,
-
-incluidos los de valor agregado, que
-
-se presten al público y que hayan
-
-sido otorgados con anterioridad a la
-
-entrada en vigor de la Ley Federal de
-
-Telecomunicaciones, se pagará la
-
-cuota de $9,604.53 $9,605
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 120-A.
 
@@ -7659,83 +7279,11 @@ cuota de $9,604.53 $9,605
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 123.
 
-Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión para la instalación, operación y aprovechamiento de sistemas de televisión por cable y redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada, de televisión restringida y de música continua, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- Modificación del sistema:
-
-a).- Por el estudio $17,631.10 $17,631
-
-b).- Por la autorización $2,845.20 $2,845
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-II.- Generación de nuevos canales:
-
-a).- Por el estudio $4,062.33 $4,062
-
-b).- Por la autorización $1,225.05 $1,225
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Por cambios en la escritura constitutiva del concesionario:
-
-a).- Por el estudio $4,416.32 $4,416
-
-b).- Por la autorización $1,471.97 $1,472
-
-IV.- Por el registro de representantes
-
-o apoderados, después de los
-
-primeramente designados $2,355.06 $2,355
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-V.- Por cambio en la titularidad de las concesiones, traspasos, arrendamientos o cesión de derechos en los títulos de concesión:
-
-a).- Por el estudio $9,426.08 $9,426
-
-b).- Por la autorización $1,018.22 $1,018
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VI.- Por cambio en la titularidad de las acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
-
-a).- Por el estudio $7,459.02 $7,459
-
-b).- Por la autorización $2,380.01 $2,380
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VII.- Ampliación del sistema de otra población:
-
-a).- Por el estudio $14,326.60 $14,327
-
-b).- Por la autorización $4,375.12 $4,375
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VIII.- Por la autorización de prórroga de la concesión:
-
-a).- Por el estudio de la solicitud de
-
-prórroga del título de concesión $17,666.51 $17,667
-
-b).- Por la autorización de prórroga del
-
-título de concesión $5,888.75 $5,889
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 123-A.
 
@@ -7765,319 +7313,35 @@ título de concesión $5,888.75 $5,889
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 124.
 
-Por el otorgamiento de concesiones para establecer estaciones de radiodifusión sonora, así como por sus modificaciones, se pagará el derecho por cada concesión de radiodifusión sonora, conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Por estaciones de radio en la banda de 535 a 1705 Kilohertz (AM), de 3 a 30 Megahertz (OC) y de 88 a 108 Megahertz (FM):
-
-a).- Por el estudio de la solicitud y
-
-de la documentación inherente
-
-a la misma $6,316.60 $6,317
-
-b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-c).- Por expedición del título de
-
-concesión $11,777.47 $11,777
-
-d).- Por el estudio de la
-
-documentación solicitada con
-
-motivo de la expedición del
-
-título de concesión $3,158.22 $3,158
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales correspondiente a:
-
-a).- Equipo de transmisión principal
-
-o auxiliar $4,712.12 $4,712
-
-b).- Frecuencia $7,851.54 $7,852
-
-c).- Potencia $7,851.54 $7,852
-
-d).- Ubicación de los estudios $1,962.75 $1,963
-
-e).- Ubicación de la planta
-
-transmisora $7,851.54 $7,852
-
-f).- Para instalar y operar un equipo
-
-complementario de zona de sombra
-
-de estaciones de radiodifusoras en
-
-FM $4,456.38 $4,456
-
-g).- Horario de operación de estaciones
-
-de radio moduladas en amplitud $3,925.51 $3,926
-
-h).- Por estudio de mediciones de
-
-intensidad de campo $68,723.89 $68,724
-
-i).- Distintivo de llamada $1,962.54 $1,963
-
-j).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-k).- Escritura constitutiva de sociedades
-
-mercantiles $5,888.45 $5,888
-
-l).- Representante o apoderado
-
-legal después del primeramente
-
-aceptado $2,355.06 $2,355
-
-m).- Titularidad de acciones o partes
-
-sociales y de aportaciones integrantes
-
-del capital social de sociedades
-
-mercantiles $3,925.51 $3,926
-
-n).- Titularidad de los derechos de
-
-concesión $3,925.51 $3,926
-
-III.- Por el otorgamiento de prórroga
-
-para modificaciones de
-
-características técnicas autorizadas,
-
-así como para cumplir con la
-
-documentación fijada en dichas
-
-autorizaciones $9,162.32 $9,162
-
-IV.- Por el estudio y revisión del
-
-cumplimiento de obligaciones por
-
-cada estación que esté incluida
-
-en la concesión que se solicita
-
-refrendar $9,272.89 $9,273
-
-V.- Por la expedición del título del
-
-refrendo de la concesión $9,272.89 $9,273
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 124-A.
 
-Por el otorgamiento de la autorización para uso y aprovechamiento de la subportadora múltiplex subordinada al canal principal de radiodifusión modulada en frecuencia, independientemente de la contraprestación que corresponda conforme al Transitorio Sexto de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio técnico y legal
-
-de la solicitud $4,712.12 $4,712
-
-II.- Por la expedición de la
-
-Autorización $7,851.64 $7,852
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 125.
 
-Por el otorgamiento de concesiones para establecer estaciones de televisión, así como por modificaciones, se pagará el derecho por concesión de televisión, conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF (canales del 14 al 69):
-
-a).- Por el estudio de la solicitud y
-
-de la documentación inherente a
-
-la misma $6,316.60 $6,317
-
-b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-c).- Por la expedición del título de
-
-concesión $9,272.89 $9,273
-
-d).- Por el estudio de la documentación
-
-solicitada con motivo de la expedición
-
-del título de concesión $3,158.22 $3,158
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales, correspondiente a:
-
-a).- Cambio de equipo transmisor
-
-principal o auxiliar $8,833.86 $8,834
-
-b).- Cambio de canal $11,777.52 $11,778
-
-c).- Cambio de potencia radiada
-
-aparente $11,777.52 $11,778
-
-d).- Cambio de ubicación de los
-
-estudios $2,944.11 $2,944
-
-e).- Cambio de ubicación de la
-
-planta transmisora $11,777.52 $11,778
-
-f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-g).- Por estudio de mediciones de
-
-intensidad de campo $68,723.89 $68,724
-
-h).- Distintivo de llamada $2,944.01 $2,944
-
-i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
-
-j).- Escritura constitutiva de
-
-sociedades mercantiles $8,833.05 $8,833
-
-k).- Representante o apoderado
-
-legal, después del primeramente
-
-aceptado $2,944.01 $2,944
-
-l).- Titularidad de acciones o partes
-
-sociales y de aportaciones integrantes
-
-del capital social de sociedades
-
-mercantiles $5,888.45 $5,888
-
-m).- Titularidad de los derechos
-
-de concesión $5,888.45 $5,888
-
-III.- Por el otorgamiento de prórroga
-
-para modificaciones de características
-
-técnicas autorizadas, así como para
-
-cumplir con la documentación fijada en
-
-dichas autorizaciones $9,165.46 $9,165
-
-IV.- Por el estudio de cada solicitud y de
-
-la documentación técnica, administrativa
-
-y legal inherente a la misma, para instalar
-
-y operar un equipo complementario de
-
-zona de sombra o un canal adicional
-
-para las transmisiones de la televisión
-
-digital terrestre $4,834.29 $4,834
-
-V.- Por la revisión del cumplimiento de
-
-obligaciones por cada estación que esté
-
-incluida en la concesión que se pretende
-
-refrendar $11,455.32 $11,455
-
-VI.- Por la expedición del título de
-
-refrendo de la concesión $11,455.32 $11,455
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 125-A.
 
-Por el otorgamiento de la autorización para el uso y aprovechamiento de la subportadora múltiplex subordinada al canal principal de televisión, independientemente de la contraprestación que corresponda conforme al Transitorio Sexto de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio técnico y legal de
-
-la solicitud $4,712.12 $4,712
-
-II.- Por la expedición de la
-
-autorización $6,183.92 $6,184
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 126.
 
-Por cada frecuencia solicitada para la utilización de servicios auxiliares a la radiodifusión de enlace estudio-planta y control remoto, así como por sus modificaciones, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Por el estudio de la solicitud y
-
-de la documentación inherente a
-
-la misma $6,243.91 $6,244
-
-II.- Por el estudio de la solicitud y
-
-documentación inherente a la
-
-misma, por modificación al
-
-circuito de enlace estudio-planta
-
-o control remoto $4,607.76 $4,608
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 127.
 
@@ -8119,19 +7383,17 @@ o control remoto $4,607.76 $4,608
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 130.
 
-Por el otorgamiento del permiso para la instalación y operación de estaciones de radiodifusión sonora y de televisión, se pagará el 50% de los derechos establecidos en los artículos 124 y 125 de esta Ley, según corresponda.
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 131.
 
-Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones $742.44 $742
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 132.
 
@@ -8179,205 +7441,11 @@ Por la expedición de licencias de estaciones de radio a bordo de barcos y avion
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 138.
 
-Por la revisión y estudio de la documentación de la solicitud de homologación de equipos de telecomunicaciones y, en su caso, por el otorgamiento del certificado de homologación provisional o definitivo, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-A.- Por el estudio de la solicitud y de la documentación técnica, administrativa, operativa y legal inherente a la misma y, en su caso, por el otorgamiento del certificado de homologación provisional:
-
-I.- De conmutadores hasta
-
-de 30 líneas $4,631.81 $4,632
-
-II.- De equipo transreceptor de
-
-radioenlace de hasta 30 canales
-
-o 2 megabits por segundo (mbps) $6,925.66 $6,926
-
-III.- De conmutadores de 31
-
-hasta 60 líneas $8,074.62 $8,075
-
-IV.- De equipo transreceptor de
-
-radioenlace de más de 30 y hasta
-
-60 canales o 2x2 megabits por
-
-segundo (mbps) $12,090.89 $12,091
-
-V.- De conmutadores de 61
-
-hasta 120 líneas $14,964.24 $14,964
-
-VI.- De equipo transreceptor de
-
-radioenlace de más de 60 y hasta
-
-120 canales o 4x2 megabits por
-
-segundo (mbps) $22,437.45 $22,437
-
-VII.- De conmutadores de 121
-
-hasta 240 líneas $21,863.94 $21,864
-
-VIII.- De equipo transreceptor de
-
-radioenlace de más de 120 y hasta
-
-240 canales u 8x2 megabits por
-
-segundo (mbps) $32,769.90 $32,770
-
-IX.- De conmutadores de
-
-más de 240 líneas $36,218.73 $36,219
-
-X.- De equipo transreceptor de radio
-
-enlace de más de 240 canales o de más
-
-de 8x2 megabits por segundo (mbps) $54,315.10 $54,315
-
-XI.- De centrales telefónicas públicas $64,938.32 $64,938
-
-XII.- De centrales telefónicas
-
-privadas digitales $14,964.24 $14,964
-
-XIII.- De estaciones terrenas
-
-transreceptoras maestras $36,218.73 $36,219
-
-XIV.- De estaciones terrenas
-
-transreceptoras remotas $14,964.24 $14,964
-
-XV.- De estaciones terminales
-
-móviles terrestres por satélite $12,098.92 $12,099
-
-XVI.- De equipo terminal satelital $6,925.66 $6,926
-
-XVII.- De ruteadores de baja y
-
-mediana capacidad $10,272.20 $10,272
-
-XVIII.- De ruteadores de
-
-alta capacidad $36,218.73 $36,219
-
-XIX.- De conmutadores y multilíneas
-
-digitales de baja y mediana capacidad $10,272.20 $10,272
-
-XX.- De conmutadores y multilíneas
-
-digitales de alta capacidad $36,218.73 $36,219
-
-XXI.- De multiplexores digitales
-
-de baja y mediana capacidad $14,863.98 $14,864
-
-XXII.- De multiplexores digitales
-
-de alta capacidad $14,964.24 $14,964
-
-XXIII.- De terminal de datos $12,098.92 $12,099
-
-XXIV.- De transreceptores de
-
-facsímiles y de facsímil-modem $6,925.66 $6,926
-
-XXV.- De teléfonos analógicos
-
-alámbricos y accesorios telefónicos $6,925.66 $6,926
-
-XXVI.- De teléfonos inalámbricos,
-
-digitales, celulares y sistemas
-
-personales de comunicación $6,925.66 $6,926
-
-XXVII.- De módem $6,925.66 $6,926
-
-XXVIII.- De equipo de fibra óptica $22,437.45 $22,437
-
-XXIX.- De centrales celulares $16,423.47 $16,423
-
-XXX.- De estación base celular $12,098.92 $12,099
-
-XXXI.- De equipo transreceptor
-
-monocanal base $12,098.92 $12,099
-
-XXXII.- De equipo transreceptor
-
-monocanal móvil $6,925.66 $6,926
-
-XXXIII.- De equipo transreceptor
-
-monocanal portátil $2,945.44 $2,945
-
-XXXIV.- De equipo repetidor fijo $12,098.92 $12,099
-
-XXXV.- De equipo receptor terminal $6,925.66 $6,926
-
-XXXVI.- De equipo transmisor terminal $6,925.66 $6,926
-
-XXXVII.- De equipo de
-
-radiocomunicación que emplea
-
-la técnica de espectro disperso $7,120.15 $7,120
-
-XXXVIII.- De equipo conmutador
-
-telefónico privado con acceso
-
-inalámbrico $12,098.92 $12,099
-
-XXXIX.- De equipos multilíneas $12,098.92 $12,099
-
-XL.- Otros equipos no contemplados
-
-en este apartado $6,129.60 $6,130
-
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
-
-Por la expedición de un certificado de homologación definitivo, con antecedentes de homologación y el solicitante presente pruebas fehacientes del funcionamiento del equipo, estipulado en el proceso de homologación vigente, avaladas por dos peritos en telecomunicaciones o por un laboratorio autorizado por la autoridad competente, se pagará el equivalente al 50% de las cuotas establecidas según el producto a homologar establecido en este apartado.
-
-Por la primera o segunda renovación
-
-de un certificado de homologación
-
-provisional, cuando no se hayan
-
-modificado las características técnicas
-
-y operativas autorizadas, se pagará la
-
-cuota de: $2,906.37 $2,906
-
-Por la expedición de una ampliación a un
-
-certificado de homologación provisional o
-
-definitivo, cuando el equipo no cambie de
-
-normatividad y se trate del mismo equipo
-
-homologado, se pagará la cuota de: $2,906.37 $2,906
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 139.
 
@@ -8391,113 +7459,17 @@ homologado, se pagará la cuota de: $2,906.37 $2,906
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 141-A.
 
-Por la expedición de la constancia de peritos en telecomunicaciones de profesionales técnicos responsables, de radioclubes y de certificados de aptitud para instalar y operar estaciones radioeléctricas y redes públicas de telecomunicaciones, respecto de los servicios que a continuación se señalan, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-I.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
-
-a).- Expedición $1,425.58 $1,426
-
-b).- Revalidación $729.76 $730
-
-c).- Modificaciones $729.76 $730
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-IV.- Radioclubes:
-
-a).- Expedición:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-1.- (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-2.- Permiso para operar estaciones
-
-de servicio de aficionados $1,425.58 $1,426
-
-3.- Permiso para instalar y operar
-
-estaciones repetidoras del servicio
-
-de aficionados $1,425.58 $1,426
-
-b).- Revalidación:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-1. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-2. Permiso para operar estaciones
-
-del servicio de aficionados $729.76 $730
-
-3. Permiso para instalar y operar
-
-estaciones repetidoras del servicio
-
-de aficionados $729.76 $730
-
-c).- Modificaciones $729.76 $730
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-V.- Constancia de registro de profesional técnico responsable y de radioperadores de estaciones radioeléctricas civiles:
-
-a).- Expedición $1,722.34 $1,722
-
-b).- Revalidación $878.16 $878
-
-c).- Responsiva, por cada estación
-
-o red pública $878.16 $878
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 141-B.
 
-Por los servicios prestados por las estaciones de la red nacional de radiomonitoreo y medición, se pagarán derechos conforme a las siguientes cuotas:
-
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-I.- Por ajustes de frecuencia, ancho de banda y modulación a estaciones radioeléctricas:
-
-a).- Radiodifusión $8,038.50 $8,038
-
-b).- Servicios privados por cada
-
-transreceptor fijo $1,466.45 $1,466
-
-c).- Servicios privados por cada
-
-transreceptor móvil $488.51 $489
-
-II.- Medición de los parámetros técnicos
-
-de la señal de televisión $9,778.44 $9,778
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -8547,7 +7519,7 @@ de la señal de televisión $9,778.44 $9,778
 
 #### SECCION QUINTA. Autotransporte Federal y Servicios Auxiliares
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
@@ -8635,6 +7607,12 @@ sean solicitados a través de
 
 medios electrónicos $194.49 $194
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+4. Especiales en rutas específicas para vehículos que transportan pasajeros y cargas de hasta 4.50 metros de altura, por permiso especial $599.18
+
 Si los permisos que se otorgan conforme a los numerales 1 y 2 de este inciso amparan más de un vehículo motriz o unidad de arrastre, se pagará por cada uno de los subsecuentes únicamente el derecho por el alta, a que se refiere la fracción I del apartado D de este artículo.
 
 b).- Para la construcción, operación
@@ -8664,6 +7642,12 @@ c).- Para el inicio de operación de terminal de autotransporte de pasajeros, po
 1.- Central. $11,504.72 $11,505
 
 2.- Individual. $2,050.85 $2,051
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+d) Especiales de conectividad a usuarios o transportistas de carga consolidada, permisionarios de pasaje o turismo, para utilizar un camino de menor clasificación, por autorización $599.18
 
 III.- Placas metálicas, calcomanía de identificación vehicular y tarjeta de circulación:
 
@@ -8757,6 +7741,20 @@ d).- Renovación. $254.87 $255
 
 e).- Duplicado. $254.87 $255
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Cuando las licencias para conducir sean solicitadas a través de medios electrónicos, se pagarán derechos conforme a las siguientes cuotas:
+
+a). Expedición $121.11
+
+b). Expedición de categoría adicional de licencia $117.10
+
+c). Renovación $112.95
+
+d). Duplicado $108.93
+
 Las cuotas a que se refiere este apartado, se aplicarán por servicio prestado, no debiendo pagarse los refrendos o renovación vencidos.
 
 D. Servicios diversos:
@@ -8833,7 +7831,11 @@ vehículo automotor, remolque o
 
 semirremolque $361.44 $361
 
-II.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+II.- Por la emisión del dictamen sobre condiciones de seguridad para utilizar un camino de menor clasificación para autotransporte federal de pasajeros o de turismo, por dictamen $599.18
 
 III.- Suscripción de convenio anual
 
@@ -8871,13 +7873,17 @@ de emisiones contaminantes de los
 
 vehículos de pasaje y carga. $14.90 $15
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI.- Por el estudio y, en su caso, aprobación para la autorregulación y verificación en materia de peso y dimensiones máximos, a usuarios y transportistas que cuenten dentro de su proceso de embarque con básculas de plataforma y equipo de medición de dimensiones de su propiedad donde se garantice el cumplimiento del peso y dimensiones máximos que establece la Norma Oficial Mexicana correspondiente, en cada embarque transportado, por aprobación $1,140.18
 
-VII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+VII.- Por el estudio y, en su caso, aprobación para la autorregulación y verificación en materia de peso y dimensiones máximos, a usuarios y transportistas que cuenten con un mismo proceso de embarque donde se garantice el cumplimiento de peso y dimensiones máximos que establece la Norma Oficial Mexicana correspondiente, en cada embarque transportado, por aprobación $1,140.18
 
 VIII.- Por el estudio y, en su caso,
 
@@ -8886,6 +7892,12 @@ aprobación de la instalación de
 unidades de verificación o laboratorios
 
 de prueba, por unidad. $1,140.18 $1,140
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+IX.- Por el estudio y, en su caso, aprobación de terceros para que lleven a cabo verificaciones de la Norma Oficial Mexicana correspondiente, de acuerdo con lo que establece la Ley Federal sobre Metrología y Normalización, por aprobación $1,140.18
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -9501,39 +8513,59 @@ la cuota de $ 441.02 $ 441
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 165.
 
-Por los servicios que preste la Secretaría de Comunicaciones y Transportes para la navegación marítima, servicios principales, auxiliares y conexos a la vía de navegación por agua, se pagará el derecho de navegación marítima conforme a las siguientes cuotas:
+Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Comunicaciones y Transportes en sus funciones de autoridad marítima, se pagarán derechos conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
 ajuste ajuste
 
-I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones o artefactos navales, tomando en cuenta el arqueo bruto:
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 a).- Hasta de 50 toneladas $ 597.52 $ 598
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 b).- De más de 50 hasta 500 toneladas $ 1,195.53 $ 1,196
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 c).- De más de 500 hasta
 
 5,000 toneladas $ 2,092.61 $ 2,093
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 d).- De más de 5,000 hasta
 
 15,000 toneladas $ 2,989.76 $ 2,990
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 e).- De 15,000.01 hasta
 
 25,000.00 toneladas $ 7,474.94 $ 7,475
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 f).- De 25,000.01 hasta
 
 50,000.00 toneladas $ 10,464.93 $ 10,465
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 g).- De más 50,000.01 toneladas $ 11,960.09 $ 11,960
 
@@ -9541,7 +8573,11 @@ g).- De más 50,000.01 toneladas $ 11,960.09 $ 11,960
 
 II.- Por la expedición, revalidación o reposición del certificado de matrícula:
 
-a).- Tratándose de embarcaciones para tráfico de recreo:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+a).- Tratándose de embarcaciones para el servicio de recreo:
 
 1.- Hasta de 5 toneladas brutas
 
@@ -9555,7 +8591,11 @@ brutas de arqueo $ 897.45 $ 897
 
 brutas de arqueo $ 1,195.16 $ 1,195
 
-b).- Embarcaciones para tráfico interior de carga, pasajeros o carga y pasajeros:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+b).- Embarcaciones para navegación interior de carga, pasajeros o carga y pasajeros:
 
 1.- Hasta de 5 toneladas brutas
 
@@ -9597,7 +8637,11 @@ brutas de arqueo $ 737.19 $ 737
 
 brutas de arqueo $ 1,032.57 $ 1,033
 
-e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+e).- Para embarcaciones que efectúen en cualquier tipo de servicio, navegación de altura, cabotaje e interior, o para artefactos navales que efectúen cualquier tipo de servicio:
 
 1.- De 20.01 hasta 100 toneladas
 
@@ -9633,6 +8677,8 @@ Para el caso de las embarcaciones de hasta 10 metros de eslora sin cubierta corr
 
 f). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
 
 a).- Hasta 500 toneladas $8.6975
@@ -9646,6 +8692,8 @@ d).- De 5,000.01 hasta 15,000
 toneladas $ 4.4792
 
 e).- De 15,000.01 en adelante $ 2.9836
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
 
@@ -9743,13 +8791,11 @@ toneladas $ 16.98 $ 17
 
 e).- De 15,000.01 en adelante $ 11.29 $ 11
 
-VII.- Por la expedición del permiso
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-especial para tráfico de pasaje-ros (sic),
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-a partir de 2 toneladas por tonelada
-
-bruta de arqueo o fracción $ 7.66 $ 8
+VII.- Por la expedición del permiso especial para servicio de pasajeros a partir de 2 toneladas, por tonelada bruta de arqueo o fracción $7.66
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -9758,6 +8804,8 @@ VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 X.- Por la expedición de autorización
 
@@ -9771,11 +8819,15 @@ aeronaves o artefactos navales $ 4,581.39 $ 4,581
 
 XI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 XII.- Por la autorización para el
 
 desguace de embarcaciones o
 
 artefactos navales $ 6,370.11 $ 6,370
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 XIII.- Por autorizar el embarque de
 
@@ -9793,11 +8845,13 @@ técnico $ 1,058.80 $ 1,059
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 166.
 
-No pagarán los derechos a que se refiere el artículo 165 de esta Ley, las embarcaciones siguientes:
+No pagarán los derechos a que se refiere el artículo 165 de esta Ley, las embarcaciones o artefactos navales siguientes:
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -9967,13 +9021,15 @@ I.- Servicio de transporte de pasajeros, con embarcaciones cuya dimensión máxi
 
 II.- Servicio de turismo náutico, con embarcaciones de recreo o deportivas tipo moto acuática, kayak, botes de remos o similares en porte; cuya dimensión máxima sea de 0.5 unidades de arqueo bruto.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 169.
 
-Por las inspecciones de seguridad para salvaguardar la vida humana en el mar y prevenir la contaminación por las embarcaciones, se pagará el derecho de reconocimiento, certificación o revalidación anual de los certificados, según corresponda, conforme a las siguientes cuotas:
+Por las inspecciones de seguridad para salvaguardar la vida humana en el mar y prevenir la contaminación por las embarcaciones o artefactos navales, se pagará el derecho de reconocimiento, certificación o revalidación anual de los certificados, según corresponda, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
@@ -10031,73 +9087,103 @@ y por cada una o fracción de las
 
 excedentes $ 2.6129
 
-Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 III.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
 
-a).- En barcos hasta de 100
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-toneladas $ 2,629.48 $ 2,629
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-b).- En barcos de más de 100 hasta
+a). Hasta de 100 toneladas $2,629.48
 
-500 toneladas $ 3,506.04 $ 3,506
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-c).- En barcos de más de 500 hasta
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-1,000 toneladas $ 4,382.72 $ 4,383
+b). De más de 100 hasta 500 toneladas $3,506.04
 
-d).- En barcos de 1,000 a 5,000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-toneladas $ 5,697.68 $ 5,698
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-e).- En barcos de 5,000 a 10,000
+c). De más de 500 hasta 1,000 toneladas $4,382.72
 
-toneladas $ 7,012.56 $ 7,013
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-f).- En barcos de más de 10,000
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-toneladas $8,765.79 $8,766
+d). De más de 1,000 a 5,000 toneladas $5,697.68
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+e). De más de 5,000 a 10,000 toneladas $7,012.56
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+f). De más de 10,000 toneladas $8,765.79
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 IV.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
 
-a).- En barcos hasta de 100
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-toneladas $876.16 $876
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-b).- En barcos de más de 100 hasta
+a). Hasta de 100 toneladas $876.16
 
-500 toneladas $1,752.78 $1,753
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-c).- En barcos de más de 500 hasta
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-1,000 toneladas $3,067.74 $3,068
+b). De más de 100 hasta 500 toneladas $1,752.78
 
-d).- En barcos de 1,000 a 5,000
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-toneladas $4,382.72 $4,383
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-e).- En barcos de 5,000 a 10,000
+c). De más de 500 hasta 1,000 toneladas $3,067.74
 
-toneladas $6,136.04 $6,136
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-f).- En barcos de más de 10,000
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-toneladas $7,889.22 $7,889
+d). De más de 1,000 a 5,000 toneladas $4,382.72
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+e). De más de 5,000 a 10,000 toneladas $6,136.04
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+f). De más de 10,000 toneladas $7,889.22
 
 V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI.- Por el reconocimiento total a una embarcación en construcción o en reparación o modificación para verificar su estado de avance y el cumplimiento de las especificaciones y normas que le son aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje conforme a las siguientes cuotas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+VI.- Por el reconocimiento total en los casos de construcción, reparación o modificación para verificar el estado de avance y el cumplimiento de las especificaciones y normas aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje conforme a las siguientes cuotas:
 
 a).- Hasta 50 toneladas brutas
 
@@ -10179,9 +9265,9 @@ parciales $73,052.23 $73,052
 
 k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $2.9154 por cada tonelada o fracción excedente.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Tratándose de artefactos navales, se pagarán las cuotas establecidas en las fracciones III, IV y VI de este artículo, según el rango de peso que les corresponda.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -10671,7 +9757,7 @@ I.- Las dedicadas exclusivamente a fines educativos, humanitarios o científicos
 
 II.- Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén dedicadas a servicios oficiales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -10725,6 +9811,12 @@ títulos a oficialidad de la marina
 
 mercante $457.95 $458
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+VII.- Por la expedición de la autorización para prestar el servicio de pilotaje $701.85
+
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
@@ -10765,11 +9857,17 @@ General o Agente Naviero
 
 Protector $16,539.43 $16,539
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 171-B.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Por la solicitud, análisis y, en su caso, la expedición de la autorización, certificado o su renovación, para ejercer como institución educativa particular o como instructor en instituciones educativas particulares, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Para ejercer como institución educativa particular, o su renovación $10,354.51
+
+II. Para ejercer como instructor en instituciones educativas particulares, o su renovación $1,034.59
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -11357,87 +10455,283 @@ del sistema ferroviario, se pagará la
 
 cuota de $15,925.34 $15,925
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPITULO IX. De la Secretaría de Desarrollo Social
+> <small>(ADICIONADO [N. DE E. REFORMADA SU DENOMINACIÓN], D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+### CAPITULO IX. Del Instituto Federal de Telecomunicaciones
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 173.
 
-(DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
+Por el estudio de la solicitud y, en su caso, expedición de título o prórroga de concesiones en materia de telecomunicaciones o radiodifusión, para el uso, aprovechamiento o explotación de bandas de frecuencias del espectro radioeléctrico de uso determinado, o para la ocupación y explotación de recursos orbitales, se pagarán derechos conforme a las siguientes cuotas:
+
+A. Para uso comercial:
+
+I. Por la expedición del título de concesión $29,582.17
+
+II. Por la prórroga $12,520.82
+
+B. Para uso privado:
+
+I. Con propósitos de comunicación privada:
+
+a). Por la expedición del título de concesión $29,582.17
+
+b). Por la prórroga $12,520.82
+
+II. Por la expedición del título de concesión con propósitos de experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipos $13,513.03
+
+No pagarán derechos las instituciones de enseñanza educativa sin fines de lucro cuando utilicen las bandas de frecuencia para experimentación, comprobación de viabilidad técnica y económica de tecnologías en desarrollo o pruebas temporales de equipo.
+
+III. Con propósitos de radioaficionados:
+
+a). Por la expedición del título de concesión $1,425.58
+
+b). Por la prórroga $729.76
+
+C. Para uso público y social:
+
+I. Por la expedición del título de concesión $29,582.17
+
+II. Por la prórroga $12,520.82
+
+Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias a las que se refieren los apartados A, B, fracciones I y II y C, requiera el otorgamiento de un título de concesión única, en términos del artículo 75 de la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias, comprenderá la expedición de la concesión única respectiva.
+
+Los estudios de solicitudes y, en su caso, la expedición de título o prórroga de concesiones o de autorizaciones de bandas de frecuencias que vayan a ser utilizadas por embajadas o durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, estarán exentas del pago del derecho previsto en este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 173-A.
 
-(DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
+Por el estudio de la solicitud y, en su caso, la autorización de arrendamiento de bandas de frecuencias concesionadas para uso comercial o privado, en este último caso con propósitos de comunicación privada, se pagarán derechos conforme a la cuota de $11,923.41
 
-> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 173-B.
 
-(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, la autorización para la compartición de bandas de frecuencias entre dependencias y entidades del Ejecutivo Federal para uso público, se pagarán derechos conforme a la cuota de $6,532.65
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, la autorización o modificación de cada frecuencia para la utilización de servicios auxiliares a la radiodifusión de enlace estudio-planta y control remoto, se pagarán derechos conforme a la cuota de $9,930.05
 
-> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-A.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, la autorización para el acceso a la multiprogramación, se pagarán derechos conforme a la cuota de $12,373.95
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-B.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, expedición de título o prórroga de concesión única para prestar todo tipo de servicios de telecomunicaciones y radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
+I. Para uso comercial:
+
+a). Por la expedición del título de concesión $16,911.01
+
+b). Por la prórroga $7,481.90
+
+II. Para uso social:
+
+a). Por la expedición del título de concesión $16,911.01
+
+b). Por la prórroga $7,481.90
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-C.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio y, en su caso, la autorización de las solicitudes de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión en materia de telecomunicaciones y radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la acreditación de representantes o apoderados, después de los primeramente designados $1,365.18
+
+II. Por el cambio de la titularidad por cesión de derechos $14,816.10
+
+III. Por reformas a los estatutos sociales $2,955.81
+
+IV. Por la prestación de un servicio adicional para concesiones que hagan uso del espectro radioeléctrico $18,686.30
+
+V. Por la prestación de un servicio adicional para concesiones que no hagan uso del espectro radioeléctrico $6,832.24
+
+VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en el título de concesión $1,040.43
+
+VII. Por cualquier supuesto de suscripción o enajenación de acciones o partes sociales que requiera autorización en términos de la Ley Federal de Telecomunicaciones y Radiodifusión $10,670.82
+
+VIII. Por las modificaciones a cada estación de radiodifusión que requiera de estudio técnico, tales como potencia, ubicación de planta transmisora, instalación y operación de equipo complementario de zona de sombra y cambio de altura del centro eléctrico o soporte estructural $9,930.05
+
+IX. Por las modificaciones a cada estación de radiodifusión que no requiera de estudio técnico, tales como cambio de equipo transmisor principal o auxiliar, ubicación de estudios, horario de operación, distintivo de llamada $5,431.25
+
+X. Por el cambio de canal, frecuencias, bandas de frecuencias o recursos orbitales $11,952.32
+
+XI. Por la instalación y operación de un equipo complementario de zona de sombra, un canal adicional u operación intermitente para la televisión digital terrestre $9,930.05
+
+XII. Por la transición a concesión única o la consolidación de una o más concesiones para instalar, operar y explotar una red pública de telecomunicaciones $11,253.59
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-D.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, expedición de la autorización o prórroga para el establecimiento y operación o explotación de una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la autorización $5,850.27
+
+II. Por la prórroga $3,215.31
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-E.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio y, en su caso, aprobación de las solicitudes de modificaciones técnicas, administrativas, legales y otras, de permisos o autorizaciones para establecer y operar o explotar una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la acreditación de representantes o apoderados, después de los primeramente designados $1,365.18
+
+II. Por cambio en la titularidad por cesión o transferencia de derechos, según corresponda $2,842.94
+
+III. Por reformas a los estatutos sociales $2,955.81
+
+IV. Por la ampliación de plazos para el cumplimiento de obligaciones $1,040.43
+
+V. Tratándose de permisos, por la ampliación al área de cobertura de los servicios $1,167.10
+
+VI. Por modificaciones en las características técnicas $1,365.11
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-F.
 
-(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, expedición de autorización o prórroga para instalar, operar o explotar estaciones terrenas para transmitir señales satelitales, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la expedición de la autorización $3,495.43
+
+II. Por la prórroga $2,678.74
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-G.
 
-(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio y, en su caso, aprobación de las solicitudes de modificaciones técnicas, administrativas, operativas y legales de las autorizaciones para instalar, operar o explotar estaciones terrenas para transmitir señales satelitales, o de permisos para instalar y operar estaciones terrenas transmisoras, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la acreditación de representantes o apoderados, después de los primeramente designados $1,365.18
+
+II. Por cambio en la titularidad por cesión o transferencia de derechos, según corresponda $2,842.94
+
+III. Por reformas a los estatutos sociales $2,955.81
+
+IV. Por la ampliación de plazos para el cumplimiento de obligaciones $1,040.43
+
+V. Por modificación en las características técnicas y de operación $2,293.84
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-H.
 
-(DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
+Por el estudio de la solicitud y, en su caso, expedición de autorización o prórroga para explotar los derechos de emisión y recepción de señales y bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la expedición de autorización $9,075.65
+
+II. Por la prórroga $5,144.52
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-I.
 
-(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio y, en su caso, aprobación de las solicitudes de modificaciones técnicas, administrativas y legales de la autorización para la explotación de los derechos de emisión y recepción de señales y bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por la acreditación de representantes o apoderados, después de los primeramente designados $1,365.18
+
+II. Por el cambio en la titularidad por transferencia de derechos $2,842.94
+
+III. Por reformas a los estatutos sociales $2,955.81
+
+IV. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en la autorización $1,040.43
+
+V. Por modificación en las características técnicas $3,174.45
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-J.
 
-(DEROGADO Y REUBICADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, expedición del certificado de homologación provisional o definitivo de productos, equipos, dispositivos o aparatos destinados a telecomunicaciones o radiodifusión, así como por su ampliación, o la renovación del certificado de homologación provisional, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(DEROGADA, D.O.F. 10 DE MAYO DE 1996)</small>
+I. Por el certificado de homologación provisional $5,865.74
+
+II. Por el certificado de homologación definitivo $2,222.65
+
+III. Por la renovación o ampliación de los certificados previstos en las fracciones anteriores, según corresponda $1,730.10
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-K.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Por el estudio de la solicitud y, en su caso, la expedición de certificados de aptitud para instalar y operar estaciones radioeléctricas civiles, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por Expedición $1,207.73
+
+II. Por Exámenes $606.29
+
+III. Por Revalidación $878.17
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-L.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+Para los efectos de los artículos 173, 174-B y 174-C, se estará a lo siguiente:
+
+I. Tratándose de las concesiones para uso público y social, previstas en el artículo 173, se pagará el 20% de las cuotas establecidas en el apartado C del mismo.
+
+II. Tratándose de las concesiones para uso social, previstas en el artículo 174-B, se pagará el 20% de las cuotas establecidas en la fracción II del mismo.
+
+III. No se pagarán los derechos a que se refieren los artículos 173 y 174-B, cuando el servicio se vincule a concesiones para uso social comunitario o indígena.
+
+IV. Tratándose de las modificaciones de concesiones para uso público y social previstas en el artículo 174-C, se pagará el 50% de las cuotas establecidas en el mismo, según corresponda.
+
+V. Tratándose de las modificaciones de concesiones para uso social comunitario o indígena, previstas en el artículo 174-C, se pagará el 20% de las cuotas establecidas en el mismo, según corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174-M.
 
-(DEROGADO, D.O.F. 10 DE MAYO DE 1996)
+El pago de los derechos a que se refiere este capítulo se realizará sin perjuicio del pago de las contraprestaciones que resulten aplicables de conformidad con la Ley Federal de Telecomunicaciones y Radiodifusión y de los derechos por el uso, goce o explotación del espectro radioeléctrico que correspondan.
 
 ###### ARTICULO 174-N.
 
@@ -11457,7 +10751,7 @@ cuota de $15,925.34 $15,925
 
 > <small>(ADICIONADA, D.O.F. DE 26 DE DICIEMBRE DE 1990)</small>
 
-#### SECCION PRIMERA. De los Parques Nacionales
+#### SECCION SEXTA. Del Registro Publico de la Propiedad Federal
 
 ###### ARTICULO 175.
 
@@ -11467,7 +10761,7 @@ cuota de $15,925.34 $15,925
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION SEGUNDA. De la Zona Marítimo Terrestre
+#### SECCION PRIMERA. Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia
 
 ###### ARTICULO 176.
 
@@ -11655,7 +10949,11 @@ mueble o inmueble $117.48 $117
 
 (DEROGADO, D.O.F.20 DE DICIEMBRE DE 1991)
 
-#### SECCION TERCERA. Servicios de Flora y Fauna
+#### SECCION SEGUNDA. Derechos de Autor
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 184.
 
@@ -11915,7 +11213,11 @@ para Publicaciones Periódicas
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION CUARTA. Impacto Ambiental
+#### SECCION TERCERA. Registro y Ejercicio Profesional
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 185.
 
@@ -12033,7 +11335,11 @@ Colegios de Profesionistas $10,727.76 $10,728
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-#### SECCION QUINTA. Prevención y Control de la Contaminación
+#### SECCION CUARTA. Servicios de Educación
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 186.
 
@@ -12261,7 +11567,13 @@ XXVII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
-#### SECCION SEXTA. Del Registro Publico de la Propiedad Federal
+#### SECCION PRIMERA. Registro Agrario Nacional
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 187.
 
@@ -12391,7 +11703,7 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 > <small>(DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION PRIMERA. Servicios que prestan los Institutos Nacionales de Bellas Artes y Literatura y de Antropología e Historia
+#### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
 
 ###### ARTICULO 188.
 
@@ -12403,11 +11715,7 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-#### SECCION SEGUNDA. Derechos de Autor
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+#### SECCION TERCERA. Otros Servicios
 
 ###### ARTICULO 190.
 
@@ -12423,11 +11731,11 @@ No se pagarán los derechos establecidos en este artículo cuando se trate del c
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. Registro y Ejercicio Profesional
+#### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO 190-B.
 
@@ -12609,11 +11917,9 @@ propiedad federal $7,117.90 $7,118
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-#### SECCION CUARTA. Servicios de Educación
+#### SECCION SEGUNDA. Inspección y Vigilancia
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 191.
 
@@ -12637,13 +11943,11 @@ Los ingresos que se obtengan por la recaudación de este derecho, que no estén 
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-#### SECCION PRIMERA. Registro Agrario Nacional
+#### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 191-A.
 
@@ -12793,7 +12097,13 @@ Las Entidades Federativas que hayan celebrado convenio de colaboración administ
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION SEGUNDA. Certificados de Inafectabilidad Agrícola, Ganadera y Agropecuaria
+#### SECCION SEGUNDA
+
+Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 192.
 
@@ -13073,7 +12383,9 @@ Por el estudio, trámite, y en su caso, la expedición de la validación a que s
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION TERCERA. Otros Servicios
+#### SECCION TERCERA.
+
+Permisos para Pesca Deportiva.
 
 ###### ARTICULO 193.
 
@@ -13085,11 +12397,7 @@ Por el estudio, trámite, y en su caso, la expedición de la validación a que s
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION PRIMERA. Del Registro Público de la Propiedad Federal
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+#### SECCION CUARTA. De las Areas Naturales Protegidas
 
 ###### ARTICULO 194-A.
 
@@ -13215,9 +12523,11 @@ cuota $114.23 $114
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-#### SECCION SEGUNDA. Inspección y Vigilancia
+#### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 194-D.
 
@@ -13323,7 +12633,7 @@ Este derecho se pagará independientemente del que corresponda por el uso o apro
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-#### SECCION PRIMERA. Concesiones, Permisos y Autorizaciones para Pesca
+#### SECCION SEXTA. Servicios de Vida Silvestre
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -13509,13 +12819,11 @@ Hectárea $9.23 $9
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
-#### SECCION SEGUNDA
+#### SECCION SEPTIMA. Impacto Ambiental
 
-Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 194-H.
 
@@ -13525,63 +12833,51 @@ cuota sin cuota con
 
 ajuste ajuste
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
 I.- Por la recepción, evaluación
 
 y, en su caso, el otorgamiento
 
 de la resolución del informe
 
-preventivo $10,082.82 $10,083
+preventivo $10,939.86 $10,940
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 II.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación de impacto ambiental, en su modalidad particular, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). $29,419.28 $29,419
 
-a). $27,114.54 $27,115
+b). $58,839.95 $58,840
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). $54,230.37 $54,230
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c). $81,346.19 $81,346
+c). $88,260.62 $88,261
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 III.- Por la recepción, evaluación y el otorgamiento de la resolución de la manifestación del impacto ambiental, en su modalidad regional, de acuerdo con los criterios ambientales de la TABLA A y la clasificación de la TABLA B:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+a). $38,499.40 $38,499
 
-a). $35,483.32 $35,483
+b). $76,997.42 $76,997
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-b). $70,965.36 $70,965
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
-
-c). $106,447.39 $106,447
+c). $115,495.42 $115,495
 
 IV.- (DEROGADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)
 
-(VEASE ARCHIVO ANEXO)
+> <small>N. DE E. VÉASE TABLA A EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 1 DE DICIEMBRE DE 2004 PÁGINA 18.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA A EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 21 DE DICIEMBRE DE 2005 PÁGINA 10; PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015 PÁGINA 54.</small>
 
 Para determinar la cuota que le corresponde pagar, se debe calificar cada uno de los criterios anteriores y su clasificación será de acuerdo a la suma de los valores obtenidos.
 
-(VEASE ARCHIVO ANEXO)
+> <small>N. DE E. VÉASE TABLA B EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 1 DE DICIEMBRE DE 2004 PÁGINA 19.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA B EN LA CUARTA SECCIÓN DEL D.O.F. DE 27 DE DICIEMBRE DE 2006 PÁGINA 68; PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015 PÁGINA 55.</small>
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 El pago de los derechos de las fracciones II y III de este artículo se hará conforme a los criterios ambientales señalados en la TABLA A y los rangos de clasificación de la TABLA B, para lo cual se deberán sumar los valores que correspondan de cada criterio establecido en la TABLA A, y conforme al resultado de dicha suma se deberá clasificar el proyecto conforme a los rangos señalados en la TABLA B.
 
 V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 VI.- Por la evaluación y
 
@@ -13591,13 +12887,11 @@ modificación de proyectos
 
 autorizados en materia de
 
-impacto ambiental $7,265.40 $7,265
+impacto ambiental $7,882.96 $7,883
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
 
 VIII.- Por la evaluación de la
 
@@ -13619,7 +12913,9 @@ Ambiente en Materia de
 
 Evaluación del Impacto Ambiental,
 
-se pagará la cuota de: $3,332.55 $3,333
+se pagará la cuota de: $3,615.82 $3,616
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -13643,9 +12939,11 @@ Tratándose de la solicitud de reconsideración de resolución negativa de cada 
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION TERCERA.
+#### SECCION OCTAVA. Servicios Forestales
 
-Permisos para Pesca Deportiva.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 194-K.
 
@@ -13911,7 +13209,11 @@ III.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION CUARTA. De las Areas Naturales Protegidas
+#### SECCION NOVENA. Prevención y Control de la Contaminación
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 194-O.
 
@@ -14153,11 +13455,13 @@ la cuota de $ 4,016.46 $ 4,016
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
+#### SECCION DECIMA. De la Inspección y Vigilancia
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
 
 ###### ARTICULO 194-U.
 
@@ -14167,69 +13471,17 @@ cuota sin cuota con
 
 ajuste ajuste
 
-I.- Por la verificación del cumplimiento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-de regulaciones y restricciones no
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-arancelarias y, en su caso, la emisión
+I.- Por la verificación del cumplimiento de regulaciones y restricciones no arancelarias de cada contenedor sujeto a revisión y, en su caso, la emisión del registro de verificación a la importación o exportación de ejemplares, productos y subproductos de flora y fauna silvestre; recursos acuáticos y marinos; ejemplares, productos y subproductos forestales; cuyo objetivo final sea el comercio o la industrialización de los mismos; así como por la importación, exportación y retorno de materiales y residuos peligrosos cuyo objetivo final sea el comercio, la industrialización, la reutilización, el reciclaje, el co-procesamiento o el tratamiento de los mismos $605.47
 
-del registro de verificación a la importación
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-o exportación de ejemplares, productos
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-y subproductos de flora y fauna
-
-silvestre; recursos acuáticos y marinos;
-
-ejemplares, productos y subproductos
-
-forestales; cuyo objetivo final sea el
-
-comercio o la industrialización de los
-
-mismos; así como por la importación,
-
-exportación y retorno de materiales y
-
-residuos peligrosos cuyo objetivo final
-
-sea el comercio, la industrialización, la
-
-reutilización, el reciclaje, el
-
-co-procesamiento o el tratamiento de
-
-los mismos $ 605.47 $ 605
-
-II.- Por la verificación del cumplimiento
-
-de regulaciones y restricciones no
-
-arancelarias y, en su caso, la emisión
-
-del registro de verificación a la importación
-
-o exportación de ejemplares, productos
-
-y subproductos de flora y fauna silvestre;
-
-recursos acuáticos y marinos; ejemplares,
-
-productos y subproductos forestales; cuyo
-
-objetivo final sea distinto al comercio o la
-
-industrialización; así como la exportación
-
-y retorno de materiales y residuos peligrosos
-
-cuyo objetivo final sea la disposición final
-
-o incineración de los mismos en el país
-
-importador, o bien, sea distinto al comercio
-
-o la industrialización $ 162.33 $ 162
+II.- Por la verificación del cumplimiento de regulaciones y restricciones no arancelarias de cada contenedor sujeto a revisión y, en su caso, la emisión del registro de verificación a la importación o exportación de ejemplares, productos y subproductos de flora y fauna silvestre; recursos acuáticos y marinos; ejemplares, productos y subproductos forestales; cuyo objetivo final sea distinto al comercio o la industrialización; así como la exportación y retorno de materiales y residuos peligrosos cuyo objetivo final sea la disposición final o incineración de los mismos en el país importador, o bien, sea distinto al comercio o la industrialización $162.33
 
 III.- Por la constancia de cumplimiento
 
@@ -14347,11 +13599,11 @@ Por la solicitud y, en su caso, autorización de la modificación del Documento 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
-#### SECCION SEXTA. Servicios de Vida Silvestre
+#### SECCION PRIMERA. Autorizaciones en Materia Sanitaria
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 195.
 
@@ -14447,7 +13699,7 @@ Por la modificación o actualización de la licencia sanitaria señalada en esta
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -14523,7 +13775,11 @@ contenga sustancias tóxicas de
 
 bajo riesgo para la salud $ 1,475.67 $ 1,476
 
-Por las modificaciones de la razón o denominación social o de propietario, de los registros señalados en las fracciones anteriores de este artículo, se pagará el 50% del derecho de registro que corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Por las modificaciones de la razón o denominación social del titular del registro o por cualquier otro cambio respecto al titular de los registros señalados en las fracciones anteriores de este artículo, se pagará el 50% del derecho de registro que corresponda.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
 
@@ -14549,15 +13805,17 @@ f). Nutrientes vegetales $ 3,475.95 $ 3,476
 
 g). Sustancias tóxicas $ 3,453.35 $ 3,453
 
-VIII.- Por la solicitud y, en su caso,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-expedición de la licencia sanitaria de
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-Bancos de Sangre, se pagará el derecho
+VIII. Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos de servicios de sangre, con excepción de lo establecido en la fracción I del artículo 195-K-2 de esta Ley $10,433.09
 
-conforme a la cuota de $ 10,433.09 $ 10,433
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Por la modificación a la licencia sanitaria de bancos de sangre se pagará el 75% del derecho que corresponda.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Por la modificación a la licencia sanitaria de servicios de sangre se pagará el 75% del derecho que corresponda.
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
@@ -14573,17 +13831,27 @@ conforme a la cuota de: $ 4,285.03 $ 4,285
 
 Por las modificaciones o prórrogas que se soliciten a los permisos señalados en esta fracción, se pagará el 75% del derecho que corresponda.
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X.- Por la solicitud y, en su caso, expedición de la licencia sanitaria para:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+X. Por la solicitud y, en su caso, expedición de la licencia sanitaria para establecimientos con disposición de órganos, tejidos y células; centros de colecta de células troncales; bancos de órganos, tejidos y células; bancos de células troncales o establecimientos de medicina regenerativa $10,017.91
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 a). Establecimientos con disposición
 
 de órganos, tejidos y células $ 10,017.91 $ 10,018
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
 b). Bancos de órganos, tejidos y células $ 10,017.91 $ 10,018
 
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+
 Por la modificación a la licencia sanitaria a que se refiere esta fracción, se pagará el 75% de la cuota del derecho que corresponda conforme a los incisos anteriores.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 No pagarán el derecho a que se refiere esta fracción, la Federación, el Distrito Federal, los Estados y los Municipios, así como sus organismos descentralizados.
 
@@ -14637,13 +13905,9 @@ a la cuota de $ 2,591.05 $ 2,591
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION SEPTIMA. Impacto Ambiental
+#### SECCION SEGUNDA. Servicios de Laboratorio
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 195-B.
 
@@ -14651,11 +13915,11 @@ a la cuota de $ 2,591.05 $ 2,591
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION OCTAVA. Servicios Forestales
+#### SECCION TERCERA. Fomento y Análisis Sanitario
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-C.
 
@@ -14767,11 +14031,11 @@ c).- De riesgo bajo sanitario $ 995.88 $ 996
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-#### SECCION NOVENA. Prevención y Control de la Contaminación
+#### SECCION CUARTA. Otros Servicios
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 195-E.
 
@@ -15401,13 +14665,9 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION DECIMA. De la Inspección y Vigilancia
+#### SECCION QUINTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 195-L
 
@@ -15457,125 +14717,25 @@ II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, p
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-#### SECCION PRIMERA. Autorizaciones en Materia Sanitaria
+#### SECCION UNICA. Registro Nacional de Turismo
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 195-P.
 
-Por los servicios que se presten en el Registro Nacional de Turismo, se pagará el derecho de registro turístico, conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- Por la inscripción de:
-
-a).- Establecimiento de alimentos
-
-y bebidas $799.14 $799
-
-b).- Transportación turística $864.95 $865
-
-c).- Agencias de viajes $639.23 $639
-
-d).- Establecimiento de hospedaje,
-
-campamentos y paradores de casas
-
-rodantes $1,128.43 $1,128
-
-e).- Operadores de marinas turísticas $1,692.78 $1,693
-
-f).- Guías de turistas $469.98 $470
-
-g).- (DEROGADO D.O.F. 29 DE DICIEMBRE DE 1997)
-
-h).- Empresas de sistemas de intercambio
-
-de servicios turísticos $636.91 $637
-
-i).- Operadoras turísticas de
-
-buceo $470.16 $470
-
-II.- Por la reposición de comprobantes de inscripción:
-
-a).- Establecimientos de alimentos
-
-y bebidas $517.00 $517
-
-b).- Transportación turística $300.52 $301
-
-c).- Agencias de viajes $357.05 $357
-
-d).- Establecimientos de hospedaje,
-
-campamentos y paradores de casas
-
-rodantes $846.12 $846
-
-e).- Operadores de marinas
-
-turísticas $940.29 $940
-
-f).- Guías de turistas $281.69 $282
-
-g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-h).- Empresas de sistemas de intercambio
-
-de servicios turísticos $357.05 $357
-
-i).- Operadoras turísticas de buceo $279.57 $280
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 195-Q.
 
-Por la expedición de la constancia de inscripción en el Registro Nacional de Turismo, se pagarán derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
-cuota sin cuota con
-
-ajuste ajuste
-
-I.- Establecimientos de alimentos
-
-y bebidas $799.14 $799
-
-II.- Transportación turística $864.95 $865
-
-III.- Agencias de viajes $644.60 $645
-
-IV.- Establecimientos de hospedaje,
-
-campamentos y paradores de
-
-casas rodantes $1,128.43 $1,128
-
-V.- Operadores de marinas turísticas $1,881.00 $1,881
-
-VI.- Guías de turistas $469.98 $470
-
-VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
-
-VIII.- Empresas de sistemas de
-
-intercambio de servicios turísticos $642.81 $643
-
-IX.- Operadoras turísticas de buceo $470.16 $470
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 195-R.
 
-En aquellos casos en que las entidades federativas hayan celebrado Convenio de Colaboración Administrativa en esta materia con la Federación, los ingresos que se obtengan por el cobro de los derechos señalados en el propio Convenio, relativos a esta Sección, se destinarán a la entidad federativa que los recaude para mejorar el ejercicio y desempeño de las facultades legales en materia de planeación, programación, vigilancia de los prestadores de servicios, capacitación, protección y asistencia al turista.
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -15583,7 +14743,7 @@ En aquellos casos en que las entidades federativas hayan celebrado Convenio de C
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. Servicios de Laboratorio
+#### SECCION PRIMERA. Educación Militar
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -15593,7 +14753,7 @@ En aquellos casos en que las entidades federativas hayan celebrado Convenio de C
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA. Fomento y Análisis Sanitario
+#### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -15925,11 +15085,11 @@ la clase de producción permitida $12,797.63 $12,798
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION CUARTA. Otros Servicios
+#### SECCION TERCERA. Servicio Militar Nacional
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 195-W.
 
@@ -15967,9 +15127,11 @@ Militar Nacional $359.91 $360
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
-#### SECCION QUINTA. Servicios que presta la Comisión Intersecretarial para el Control del Proceso y Uso de Plaguicidas, Fertilizantes y Sustancias Tóxicas
+#### SECCION UNICA. Servicios Privados de Seguridad y Armas de Fuego
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+
+> <small>(ADICIONADO Y REUBICADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 195-X.
 
@@ -16145,11 +15307,9 @@ opinión respectiva $4,261.66 $4,262
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-#### SECCION UNICA. Registro Nacional de Turismo
+#### SECCION UNICA. Del Instituto Federal de Especialistas de Concursos Mercantiles
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 195-Y.
 
@@ -16161,7 +15321,7 @@ opinión respectiva $4,261.66 $4,262
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-#### SECCION PRIMERA. Educación Militar
+#### SECCION UNICA. Cartas Náuticas
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -17101,12 +16261,6 @@ Cuando resulte saldo a favor para Aeropuertos y Servicios Auxiliares, dicho sald
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 222.
 
 Están obligadas al pago del derecho sobre agua, las personas físicas y morales que usen, exploten o aprovechen aguas nacionales, bien sea de hecho o al amparo de títulos de asignación, concesión, autorización o permiso, otorgados por el Gobierno Federal, de acuerdo con la zona de disponibilidad de agua en que se efectúe su extracción.
@@ -17379,12 +16533,6 @@ Las personas físicas y morales que usen, exploten o aprovechen aguas nacionales
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION TERCERA. Servicio Militar Nacional
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO 226.
 
 El contribuyente calculará el derecho sobre agua trimestralmente y efectuará su pago a más tardar el último día hábil de los meses de enero, abril, julio y octubre, mediante declaración trimestral definitiva que presentará en las oficinas autorizadas por el Servicio de Administración Tributaria. El pago se hará por el derecho que corresponda al agua que se haya usado, explotado o aprovechado durante los tres meses inmediatos anteriores, para lo cual efectuará la lectura del aparato de medición durante el último día hábil del trimestre de que se trate y de la lectura realizada disminuirá la lectura efectuada el último día del trimestre anterior y el volumen resultante será sobre el cual calculará el derecho.
@@ -17587,25 +16735,21 @@ Lo previsto en esta fracción es sin menoscabo de lo dispuesto en las fracciones
 
 Con independencia que los contribuyentes puedan determinar la zona de disponibilidad que corresponda a la cuenca hidrológica o acuífero donde se realiza la extracción, la Comisión Nacional del Agua, como facilidad administrativa, publicará a más tardar el tercer mes del ejercicio fiscal de que se trate, la zona de disponibilidad que corresponda a cada cuenca hidrológica y acuífero del país.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 231-A.
 
-Los ingresos que se obtengan de las empresas públicas o privadas a que se refiere el apartado B, fracción I del artículo 223 de esta Ley, se destinarán a la Comisión Nacional del Agua para la realización de acciones de mejoramiento de eficiencia y de infraestructura de agua potable, alcantarillado y tratamiento de aguas residuales.
+Los ingresos que se obtengan de las entidades y organismos públicos o privados a que se refiere el apartado B, fracción I del artículo 223 de esta Ley, se destinarán a la Comisión Nacional del Agua para la realización de programas que contemplen acciones de mejoramiento de eficiencia y de infraestructura de agua potable, alcantarillado y tratamiento de aguas residuales en una cantidad equivalente de hasta por el monto de los derechos cubiertos por las personas antes mencionadas, en el ejercicio de que se trate.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Los ingresos que se obtengan por la recaudación del derecho a que se refiere el párrafo anterior se destinarán a la Comisión Nacional del Agua, para la realización de los programas que al efecto establezca dicha Comisión, en una cantidad equivalente de hasta por el monto de los derechos cubiertos por las personas antes mencionadas, en el ejercicio de que se trate.
-
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+Los ingresos que se obtengan por la recaudación del derecho a que se refiere el apartado B, fracción I del artículo 223 de esta Ley por concepto de trasvase de aguas nacionales en términos del diverso 223-Bis de la presente Ley, se destinarán a la Comisión Nacional del Agua, para la realización de programas que contemplen acciones de restauración, rescate y preservación de acuíferos y cuencas de la zona o región exportadora.
 
 La Comisión Nacional del Agua, previa solicitud que formulen las personas que se mencionan en el párrafo primero de este artículo, emitirá un dictamen con base en el programa de acciones que deberán presentar y, en su caso, asignará recursos para la realización del mismo, hasta por una suma igual a la inversión que realicen, la cual no podrá exceder del monto de los derechos que hubiesen cubierto.
 
-> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+La Comisión Nacional del Agua en conjunto con los organismos y entidades estará obligada a formalizar trimestralmente las acciones contenidas en los programas a que se refiere el párrafo primero de este artículo con la asignación efectiva de los recursos.
 
-Las empresas quedarán obligadas a acreditar trimestralmente ante la Comisión Nacional del Agua, los avances en el cumplimiento de los programas a que se refiere este artículo.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+Los organismos y entidades quedarán obligadas a acreditar trimestralmente ante la Comisión Nacional del Agua, los avances en el cumplimiento de los programas a que se refiere este artículo.
 
 La Comisión Nacional del Agua informará, trimestralmente, al H. Congreso de la Unión acerca de la devolución de los recursos destinados a las acciones de mejoramiento de eficiencia y de infraestructura de agua potable, alcantarillado y tratamiento de aguas residuales.
 
@@ -18067,7 +17211,13 @@ II.- Tratándose del uso o goce de bienes de dominio público, se estará obliga
 
 Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien nacional de uso común, comprendido en los artículos 232 y 232-C de esta Ley, de modo que se limite el derecho de terceros para su libre uso.
 
-III.- No se pagará el derecho a que se refiere este artículo cuando el inmueble sea destinado a labores de investigación científica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+III. No se pagará el derecho a que se refiere este artículo cuando el inmueble sea otorgado en destino para labores de investigación científica.
+
+Para efectos del artículo 232-C de esta Ley, también estarán exentos los concesionarios de los sectores social y privado, que realicen en el inmueble concesionado labores de investigación científica, siempre y cuando estén inscritos en el Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas a que se refiere el artículo 17, fracción II de la Ley de Ciencia y Tecnología.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -18303,12 +17453,6 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
-#### SECCION UNICA. Servicios Privados de Seguridad y Armas de Fuego
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>(ADICIONADO Y REUBICADO, D.O.F. 1 DE ENERO DE 2002)</small>
-
 ###### ARTICULO 238.
 
 Por el aprovechamiento extractivo de ejemplares de fauna silvestre, en predios federales y zonas federales, se pagará el derecho de aprovechamiento extractivo por ejemplar o, en su caso, por lote determinado en las tasas de aprovechamiento autorizadas por la Secretaría de Medio Ambiente y Recursos Naturales, conforme a las siguientes cuotas:
@@ -18385,10 +17529,6 @@ No se estará obligado al pago del derecho a que se refiere este artículo, cuan
 
 #### SECCION SEGUNDA. Aprovechamiento no Extractivo
 
-#### SECCION UNICA. Del Instituto Federal de Especialistas de Concursos Mercantiles
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 ###### ARTICULO 238-B.
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
@@ -18454,10 +17594,6 @@ Los residentes de la zona de influencia de las Áreas Naturales Protegidas que r
 #### SECCION PRIMERA. Espectro Radioeléctrico
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-#### SECCION UNICA. Cartas Náuticas
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTICULO 239.
 
@@ -18791,91 +17927,11 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 243.
 
-Por el uso, goce, aprovechamiento o explotación del espectro radioeléctrico, para prestar el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, se pagará por cada megahertz concesionado, la cuota que corresponda de conformidad con la tabla siguiente:
-
-Entidad Federativa Cuota por cada
-
-megahertz
-
-concesionado o
-
-permisionado
-
-Aguascalientes $2,300.46
-
-Baja California $9,867.91
-
-Baja California Sur $1,330.05
-
-Campeche $1,268.73
-
-Coahuila $4,738.89
-
-Colima $1,221.76
-
-Chiapas $3,231.94
-
-Chihuahua $9,342.56
-
-Distrito Federal $34,459.49
-
-Durango $2,642.86
-
-Guanajuato $7,581.74
-
-Guerrero $2,532.97
-
-Hidalgo $2,015.33
-
-Jalisco $15,040.82
-
-Estado de México $29,392.41
-
-Michoacán $5,217.61
-
-Morelos $2,702.46
-
-Nayarit $1,491.93
-
-Nuevo León $13,955.55
-
-Oaxaca $2,397.21
-
-Puebla $6,801.32
-
-Querétaro $2,171.48
-
-Quintana Roo $2,755.21
-
-Sinaloa $6,990.68
-
-San Luis Potosí $3,248.19
-
-Sonora $7,885.66
-
-Tabasco $2,335.04
-
-Tamaulipas $6,805.13
-
-Tlaxcala $1,289.65
-
-Veracruz $13,484.72
-
-Yucatán $1,921.70
-
-Zacatecas $1,627.57
-
-En los casos en que el área de cobertura no abarque la totalidad del territorio de una entidad federativa, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla anterior corresponda a la entidad federativa en la que la concesión autorice prestar los servicios, por la proporción que represente la población total del área en la que la concesión autorice prestar los servicios entre la población total de la entidad federativa. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población derivados de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía, o en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
-
-Para los casos en que el área de cobertura de una concesión cubra más de una entidad federativa, las operaciones señaladas en el párrafo que antecede se realizarán por cada entidad federativa y el monto del derecho a pagar será la suma de las cantidades que se obtengan de dichas operaciones.
+(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 ###### ARTICULO 243-A.
 
@@ -18893,17 +17949,41 @@ Para los casos en que el área de cobertura de una concesión cubra más de una 
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 244.
 
-(DEROGADO, D.O.F. 13 DE NOVIEMBRE DE 2008)
+Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, de conformidad con la tabla B, como sigue:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. VÉASE TABLA A EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINA 56.</small>
+
+> <small>N. DE E. VÉASE TABLA B EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 56 A LA 57.</small>
+
+Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 244-A.
 
-(DEROGADO, D.O.F. 11 DE DICIEMBRE DE 2013)
+Los concesionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en el rango de frecuencias en megahertz señalados en la tabla A, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado, de conformidad con la tabla B, como sigue:
+
+> <small>N. DE E. VÉASE TABLA A EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINA 57.</small>
+
+> <small>N. DE E. VÉASE TABLA B EN LA PRIMERA SECCIÓN DEL D.O.F. DE 18 DE NOVIEMBRE DE 2015, PÁGINA 58.</small>
+
+Para las concesiones cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión, por la proporción que represente la población total del área concesionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto, provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago de los derechos previstos en el presente artículo se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -19362,6 +18442,28 @@ Para las concesiones y permisos cuya área de cobertura sea menor que el área d
 Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
 
 El pago del derecho a que se refiere este artículo, se realizará sin perjuicio de lo dispuesto por el artículo 14 de la Ley Federal de Telecomunicaciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTICULO 244-E
+
+1.- Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico comprendidas en los rangos de frecuencias en megahertz señalados en la tabla de Rango de frecuencias en megahertz que a continuación se indica, pagarán anualmente el derecho por el uso, goce, aprovechamiento o explotación de bandas de frecuencia del espectro radioeléctrico, por cada región en la que operen y por cada kilohertz concesionado o permisionado, conforme a las cuotas y coberturas señaladas en la tabla B del artículo 244-E de esta Ley, según corresponda.
+
+Rango de frecuencias en
+
+Megahertz
+
+De 1770 MHz A 1780 MHz
+
+De 2170 MHz A 2180 MHz
+
+Para las concesiones y permisos cuya área de cobertura sea menor que el área de la región en la que se ubique de acuerdo con la tabla B del artículo 244-E de esta Ley, la cuota del derecho que se deberá pagar será la que se obtenga de multiplicar la cuota que de conformidad con la tabla señalada corresponda a la región en la que se ubique la concesión o permiso, por la proporción que represente la población total del área concesionada o permisionada entre la población total del área en la que se ubique según la tabla mencionada. Para estos cálculos se deberá utilizar la población indicada en los resultados definitivos del ejercicio inmediato anterior, referidos exclusivamente a población, provenientes de los conteos de Población y Vivienda publicados por el Instituto Nacional de Estadística y Geografía o, en su defecto, provenientes del último Censo General de Población y Vivienda publicado por dicho Instituto.
+
+Para los casos en que el área de cobertura de una concesión o permiso cubra más de una región de las que se señalan en la tabla B del artículo 244-E de esta Ley, se deberá realizar para cada región, en su caso, las operaciones descritas en el párrafo anterior y el monto del derecho a pagar será la suma de las cuotas que correspondan.
+
+El pago de los derechos previstos en el presente artículo se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -20667,7 +19769,7 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 ### CAPITULO XVI. De los Bienes Culturales Propiedad de la Nación
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -20675,75 +19777,95 @@ Para efectos del presente Capítulo, la Comisión Nacional del Agua está facult
 
 Están obligados al pago del derecho por el acceso a los museos, monumentos y zonas arqueológicas propiedad de la Federación, las personas que tengan acceso a las mismas, conforme a las siguientes cuotas:
 
-cuota sin cuota con
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ajuste ajuste
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2014, D.O.F. DEL 30 DE DICIEMBRE DE 2013.</small>
+Áreas tipo AAA: $64.25
 
-Áreas tipo AAA $64.25 $64
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-después $214.21 $214
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-del horario
+Áreas tipo AA: $61.60
 
-normal
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Áreas tipo AA $61.60 $62
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
-Áreas tipo A $52.22 $52
+Áreas tipo A: $52.22
 
-Áreas tipo B $46.85 $47
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Áreas tipo C $38.83 $39
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Áreas tipo B: $46.85
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Áreas tipo C: $38.83
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Tratándose del pago del derecho previsto en el párrafo anterior, después del horario normal de operación se pagará la cuota de $214.21
 
 > <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
 
 Para efectos de este artículo se consideran:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 Áreas tipo AAA:
 
-Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Xochicalco (con museo); y Museo Maya de Cancún y Sitio Arqueológico de San Miguelito;
+Zona Arqueológica de Palenque (con museo); Museo y Zona Arqueológica de Templo Mayor; Museo Nacional de Antropología; Museo Nacional de Historia; Zona Arqueológica de Teotihuacán (con museos); Zona Arqueológica de Monte Albán (con museo); Museo de las Culturas de Oaxaca; Zona Arqueológica de Tulum; Zona Arqueológica de Cobá; Zona Arqueológica de Tajín (con museo); Zona Arqueológica de Chichén Itzá (con museo); Zona Arqueológica Uxmal (con museo); Zona Arqueológica de Xochicalco (con museo); Museo Maya de Cancún y Sitio Arqueológico de San Miguelito; Zona Arqueológica Paquime; Sitio Arqueológico Calakmul; Monumento Inmueble Histórico Templo San Francisco Javier (Museo Nacional del Virreinato); Monumento Inmueble Histórico Ex Convento San Diego (Museo Nacional de las Intervenciones); Zona Arqueológica Cholula (con museo); Sitio Arqueológico San Gervasio; y Galería de Historia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 Áreas tipo AA:
 
-Zona Arqueológica de Paquimé y Museo de las Culturas del Norte; Museo Nacional del Virreinato; Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya; Zona Arqueológica Yaxchilán; Sitio Arqueológico de Tamtoc y Zona Arqueológica de Plazuelas; Sitio Arqueológico Ek-Balam; y Sitio Arqueológico Xcambó;
+Zona Arqueológica Kohunlich; Zona Arqueológica Cacaxtla y Xochitécatl (con museo); Zona Arqueológica de Dzibilchaltún y Museo del Pueblo Maya; Sitio Arqueológico de Tamtoc; Sitio Arqueológico Ek-Balam; Sitio Arqueológico Xcambó; Sitio Arqueológico Bonampak; Zona Arqueológica Tula (con museo); Zona Arqueológica Mitla; Zona Arqueológica Xelhá; Sitio Arqueológico Xcaret; Zona Arqueológica Yagul; y Sitio Arqueológico Sierra de San Francisco.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 Áreas tipo A:
 
-Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Calakmul; Zona Arqueológica Bonampak; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo Histórico Ex-aduana de Cd. Juárez; Museo del Carmen; Galería de Historia; Museo Nacional de las Intervenciones; Museo Histórico de Acapulco Fuerte de San Diego; Zona Arqueológica Tula (con museo); Museo Regional de Hidalgo; Museo Regional de Guadalajara; Zona Arqueológica de Malinalco; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex Obispado; Zona Arqueológica de Cholula (con museo); Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica San Gervasio; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán “Palacio Cantón”; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica Tzin tzun tzan (con museo); Museo de la Cultura Huasteca; y Zona Arqueológica de las Labradas.
+Zona Arqueológica Becán; Zona Arqueológica de Edzná; Zona Arqueológica de Tonina (con museo); Museo Regional de Chiapas; Museo Regional de los Altos de Chiapas; Museo del Carmen; Museo Histórico de Acapulco Fuerte de San Diego; Museo Regional de Guadalajara; Zona Arqueológica de Malinalco; Museo Regional Cuauhnáhuac; Museo Regional de Nuevo León Ex Obispado; Museo Regional de Puebla; Zona Arqueológica de Cantoná; Museo Regional de Querétaro; Zona Arqueológica Dzibanché; Zona Arqueológica de Kinichna; Zona Arqueológica Chacchobén; Zona Arqueológica Comalcalco (con museo); Museo Regional de Tlaxcala; Museo Fuerte San Juan de Ulúa; Museo Local Baluarte de Santiago; Zona Arqueológica Vega de la Peña; Zona Arqueológica de Cuajilote; Museo Regional de Yucatán “Palacio Cantón”; Museo de Guadalupe; Zona Arqueológica de la Quemada (con museo); Museo Regional de la Laguna; Museo Regional de Colima; Zona Arqueológica Tzin tzun tzan (con museo); Museo de la Cultura Huasteca; y Zona Arqueológica de las Labradas.
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 Áreas tipo B:
 
-Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zona Arqueológica de San Francisco; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Zona Arqueológica de Chinkultic; Museo Casa Carranza; Ex convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Zona Arqueológica Teopanzolco; Zona Arqueológica El Tepoxteco (Tepoztlán); Zona Arqueológica de Mitla; Museo Casa de Juárez; Zona Arqueológica de Yagul; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica Xel-Ha; Zona Arqueológica El Rey; Zona Arqueológica de X-Caret; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Kabah; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Cancún; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica la Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica La Ferrería; Zona Arqueológica Ixtlán del Río-Los Toriles; y Zona Arqueológica el Meco.
+Museo Regional Histórico de Aguascalientes; Museo de las Misiones Jesuitas; Zona Arqueológica Chicanná; Zona Arqueológica Xpuhil; Museo Casa Carranza; Ex convento de Actopan; Zona Arqueológica Calixtlahuaca; Museo Virreinal de Acolman; Zona Arqueológica Santa Cecilia Acatitlán (con museo); Zona Arqueológica de San Bartolo Tenayuca (con museo); Zona Arqueológica Tingambato; Zona Arqueológica Teopanzolco; Zona Arqueológica El Tepoxteco (Tepoztlán); Museo Casa de Juárez; Museo Histórico de la No Intervención; Museo del Valle de Tehuacán; Museo de la Evangelización; Fuerte de Guadalupe; Zona Arqueológica El Rey; Zona Arqueológica Oxtankah; Museo Regional de Sonora; Zona Arqueológica de Cempoala (con museo); Museo de Artes e Industrias Populares; Museo Tuxteco; Zona Arqueológica de Kabah; Zona Arqueológica de Labná; Zona Arqueológica de Sayil; Zona Arqueológica Gruta de Balankanché; Zona Arqueológica de Chacmultún; Zona Arqueológica Gruta de Loltún; Zona Arqueológica de Oxkintok; Museo Regional de Nayarit; Museo Arqueológico de Campeche; Museo Regional Potosino; Museo Casa de Allende; Museo Regional Michoacano; Zona Arqueológica la Venta (con museo); Zona Arqueológica la Campana; Zona Arqueológica San Felipe Los Alzati; Zona Arqueológica Chalcatzingo; Zona Arqueológica Ixtlán del Río-Los Toriles; y Zona Arqueológica el Meco.
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ÁREA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 Áreas tipo C:
 
-Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex Convento de San Andrés Epazoyucan; Ex-convento de Ixmiquilpan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Los Melones; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex convento y Templo de Santiago; Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex convento de Yanhuitlán; Zona Arqueológica de Zaachila; Ex convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex convento San Francisco, Tecamachalco; Ex convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Ocotelulco (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Museo Local del Cuale, Puerto Vallarta; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; y Zona Arqueológica de Muyil.
+Zona Arqueológica el Vallecito; Museo Regional Baja California Sur; Museo Arqueológico Camino Real Hecelchacán; Museo de las Estelas Mayas Baluarte de la Soledad; Museo Histórico Reducto San José El Alto "Armas y Marinería"; Zona Arqueológica de Balamkú; Zona Arqueológica de Hochob; Zona Arqueológica de Santa Rosa Xtampak; Zona Arqueológica El Tigre; Zona Arqueológica el Chanal; Museo Arqueológico del Soconusco; Museo Ex convento Agustino de San Pablo; Museo de Guillermo Spratling; Ex Convento de San Andrés Epazoyucan; Museo Arqueológico de Cd. Guzmán; Zona Arqueológica Los Melones; Zona Arqueológica de Tlapacoya; Monumento Histórico Capilla de Tlalmanalco; Ex Convento de Oxtotipac; Museo de Sitio Casa de Morelos; Zona Arqueológica de Ihuatzio; Zona Arqueológica Huandacareo La Nopalera; Zona Arqueológica Tres Cerritos; Museo Histórico del Oriente de Morelos; Zona Arqueológica Las Pilas; Zona Arqueológica Coatetelco (con museo); Ex convento y Templo de Santiago; Cuilapan; Zona Arqueológica de Dainzu; Zona Arqueológica Lambityeco; Capilla de Teposcolula; Ex convento de Yanhuitlán; Zona Arqueológica de Zaachila; Ex convento de Tecali; Museo del Arte Religioso de Santa Mónica; Zona Arqueológica de Yohualichan; Casa del Dean; Ex convento San Francisco, Tecamachalco; Ex convento de San Francisco Huaquechula; Zona Arqueológica de Toluquilla; Zona Arqueológica de Malpasito; Zona Arqueológica de Tizatlán (con museo); Zona Arqueológica de Tres Zapotes (con museo); Zona Arqueológica Las Higueras (con museo); Zona Arqueológica de Quiahiztlan; Zona Arqueológica Mayapán; Zona Arqueológica de Acanceh; Zona Arqueológica Ruinas de Ake; Zona Arqueológica Chalchihuites; Museo Arqueológico de Mazatlán; Museo de la Estampa Ex Convento de Santa María Magdalena Cuitzeo; Casa de Hidalgo, Dolores Hidalgo, Gto.; Pinacoteca del Estado Juan Gamboa Guzmán; Zona Arqueológica de Tenam Puente; Zona Arqueológica Las Ranas; y Zona Arqueológica de Muyil.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 El pago de este derecho deberá hacerse previamente al ingreso a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -20833,59 +19955,39 @@ a).- Las instituciones públicas que realicen conjuntamente con el Instituto Nac
 
 b).- Las instituciones públicas que realicen conjuntamente con el Instituto Nacional de Antropología e Historia actividades de promoción, difusión y comercialización culturales, previa celebración de un convenio.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTICULO 288-A
 
 1.- Están obligadas al pago del derecho por el acceso a los museos propiedad de la Federación y administrados por el Instituto Nacional de Bellas Artes y Literatura, las personas que tengan acceso a los mismos, conforme a las siguientes cuotas:
 
-cuota sin cuota con
+Recinto tipo 1: $60.00
 
-ajuste ajuste
+Recinto tipo 2: $45.00
 
-Recinto tipo 1: $48.69 $49
-
-Recinto tipo 2: $41.74 $42
-
-Recinto tipo 3: $34.79 $35
-
-Recinto tipo 4: $27.82 $28
-
-Recinto tipo 5: $20.88 $21
-
-Recinto tipo 6: $13.92 $14
+Recinto tipo 3: $30.00
 
 Para los efectos de este artículo se consideran:
 
-Recinto tipo 1:
+- Recintos tipo 1 Museos Históricos:
 
-Museo del Palacio de Bellas Artes
+Museo del Palacio de Bellas Artes; Museo Nacional de Arte; Museo de Arte Moderno y Museo Tamayo Arte Contemporáneo Internacional “Rufino Tamayo”.
 
-Recinto tipo 2:
+- Recintos tipo 2 Museos Emblemáticos:
 
-Museo Nacional de Arte
+Museo Alvar y Carmen T. Carrillo Gil; Museo Nacional de San Carlos; Museo Nacional de la Estampa y Museo Nacional de Arquitectura.
 
-Recinto tipo 3:
+- Recintos tipo 3 Centros Expositivos:
 
-Museo Nacional de San Carlos
-
-Recintos tipo 4:
-
-Museo de Arte Moderno y Museo Nacional de Arquitectura.
-
-Recintos tipo 5:
-
-Museo de Arte Alvar y Carmen T. De Carrillo Gil, Museo Mural Diego Rivera, Museo de Arte Contemporáneo Internacional "Rufino Tamayo" y Laboratorio Arte Alameda.
-
-Recintos tipo 6:
-
-Museo Casa Estudio Diego Rivera y Frida Kahlo, Museo Nacional de la Estampa y Sala de Arte Público "David Alfaro Siqueiros".
+Museo Casa Estudio Diego Rivera y Frida Kahlo; Sala de Arte Público Siqueiros/La Tallera; Laboratorio Arte Alameda y Museo Mural Diego Rivera.
 
 El pago del derecho a que se refiere este precepto deberá hacerse previo al ingreso a los recintos correspondientes.
 
-No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Bellas Artes y Literatura, para realizar estudios afines a los museos, a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos los domingos.
+Las cuotas de los derechos señalados en el presente artículo, se ajustarán para su pago a múltiplos de $5.00. Para efectuar este ajuste, las cuotas aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima. Cuando la cuota se encuentre a la misma distancia de dos unidades de ajuste, se disminuirá a la unidad inmediata anterior.
+
+No pagarán el derecho a que se refiere este artículo, las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Bellas Artes y Literatura, para realizar estudios afines a los museos, a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho, los visitantes nacionales y extranjeros residentes en México que accedan a los museos los domingos. Los miembros del Consejo Internacional de Museos pagarán el 50% de la cuota a que se refiere el presente artículo.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2015, D.O.F. DEL 30 DE DICIEMBRE DE 2014.</small>
 
@@ -25729,7 +24831,9 @@ Para los efectos de lo establecido en este numeral, los contribuyentes deberán 
 
 La Comisión Nacional del Agua podrá expedir las disposiciones de carácter general que sean necesarias para la correcta y debida aplicación de la presente disposición.
 
-Décimo. Para los efectos del artículo 291, en relación con el 3o., cuarto párrafo fracciones I y II, de la Ley Federal de Derechos, el Servicio a la Navegación en el Espacio Aéreo Mexicano no está obligado a llevar a cabo el procedimiento descrito en dichos numerales, respecto de aquellos usuarios que no cuenten con registro federal de contribuyentes, domicilio fiscal y/o representante legal en territorio nacional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+Décimo. (DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2015)
 
 Décimo Primero. Cuando en la Ley Federal de Derechos se haga referencia a los artículos 92, 215 y 216 de la Ley del Impuesto sobre la Renta que se abroga, se entenderá que se refiere a los artículos 11, 179 y 180 de la Ley del Impuesto sobre la Renta, respectivamente.
 
@@ -25780,3 +24884,53 @@ I. Cuando los ingresos observados totales del Fondo Mexicano del Petróleo para 
 II. Cuando los recursos recibidos por las entidades federativas y los municipios procedentes de los ingresos que, en términos de este Decreto, se integran a la Recaudación Federal Participable conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal, sean menores a las que hubieran recibido de haber aplicado a las asignaciones vigentes en el año que corresponda, las disposiciones de la Ley Federal de Derechos y la Ley de Coordinación Fiscal vigentes hasta antes de la entrada en vigor de este Decreto, el Gobierno Federal entregará a las entidades federativas y los municipios, con cargo al Presupuesto de Egresos de la Federación del siguiente ejercicio fiscal, una cantidad equivalente a la diferencia entre el monto que les hubiera correspondido como participaciones conforme a las disposiciones citadas, y el monto efectivamente observado conforme a lo dispuesto en el párrafo tercero del artículo 2o. de la Ley de Coordinación Fiscal.
 
 Los recursos que se entreguen a las entidades federativas y municipios en términos de la fracción I de este transitorio no podrán ser mayores a 11,800 millones de pesos en el ejercicio correspondiente. El Gobierno Federal realizará la entrega de los recursos que procedan conforme a las fracciones I y II anteriores a más tardar en el mes de febrero del ejercicio siguiente al que corresponda.
+
+D.O.F. 18 DE NOVIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2016, salvo la derogación del artículo 243 y la adición del artículo 244-E-1, las cuales entrarán en vigor a partir del 1 de enero de 2018.
+
+Segundo. Durante el año 2016, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+II. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2016, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2015 hubieren optado por pagar para el referido ejercicio fiscal, más el 3% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2016 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2016, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, IX, XI, XIII, XV, XVIII y XIX de la Ley Federal de Derechos, que se hayan constituido en el ejercicio fiscal de 2015, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2016 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones, de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2016 para los efectos de la opción a que se refieren los párrafos anteriores, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+III. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2015 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar para el ejercicio fiscal de 2016 por concepto de inspección y vigilancia podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal en cita, conforme a lo previsto en la mencionada fracción IV del artículo 29-D de la Ley Federal de Derechos.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2015, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2016 conforme a la citada fracción del referido artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+IV. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos por las fracciones II y III de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2016, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+Tercero. Se deroga el artículo Décimo de las Disposiciones Transitorias de la Ley Federal de Derechos contenidas en el artículo Sexto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado; de la Ley del Impuesto Especial sobre Producción y Servicios; de la Ley Federal de Derechos, se expide la Ley del Impuesto sobre la Renta, y se abrogan la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo, publicado en el Diario Oficial de la Federación el 11 de diciembre de 2013.
+
+Cuarto. Para los efectos de los artículos 150-C y 291, en relación con el 3o., cuarto párrafo, fracciones I y II de la Ley Federal de Derechos, Servicios a la Navegación en el Espacio Aéreo Mexicano no está obligado a llevar a cabo el procedimiento descrito en dichos numerales, respecto de aquellos usuarios que no cuenten con registro federal de contribuyentes, domicilio fiscal y/o representante legal en territorio nacional.
+
+Quinto. Los concesionarios y permisionarios de bandas de frecuencias del espectro radioeléctrico cuyos títulos sean otorgados, prorrogados, renovados o se les autoricen servicios adicionales a los autorizados en dichos títulos, a partir de la entrada en vigor del presente Decreto en la banda de frecuencias de 2500 MHz a 2690 MHz, pagarán los derechos establecidos en el artículo 244 de la Ley Federal de Derechos.
+
+Lo dispuesto en el párrafo anterior, también será aplicable cuando en los términos del artículo Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones, publicado en el Diario Oficial de la Federación el 11 de junio de 2013, los concesionarios y permisionarios de dicha banda de frecuencias presten servicios a través de sus redes con un modelo de concesión única o estén efectivamente prestando servicios de acceso inalámbrico fijo o móvil.
+
+Los concesionarios y permisionarios a los que se refiere este artículo no estarán obligados al pago de otros derechos por el uso, goce, aprovechamiento o explotación de bandas de frecuencias del espectro radioeléctrico establecidos en el Capítulo XI del Título II de la Ley Federal de Derechos.
+
+El pago de los derechos previstos en este artículo, se deberá realizar sin perjuicio del cumplimiento de las obligaciones fiscales contenidas en los respectivos títulos de concesión, así como contraprestaciones a que se refiere la Ley Federal de Telecomunicaciones y Radiodifusión aplicables con motivo del otorgamiento, renovación o prórroga de títulos de concesión o autorización de servicios adicionales.
+
+Sexto. Los contribuyentes obligados a pagar el derecho por la explotación, uso o aprovechamiento de aguas nacionales, a que se refiere el Capítulo VIII del Título II de la Ley Federal de Derechos, siempre que la zona de disponibilidad de la cuenca donde se extrae el recurso hídrico se modifique a una con menor disponibilidad en términos del artículo 231, fracción I de la citada Ley como consecuencia del establecimiento de reservas de agua para garantizar el caudal ecológico en la cuenca, podrán acreditar contra el derecho por uso, explotación o aprovechamiento de aguas nacionales de la misma fuente de extracción a su cargo, el porcentaje que corresponda de la diferencia resultante de disminuir al monto del derecho citado que se calcule conforme a la zona de disponibilidad de la cuenca determinada en términos del artículo 231, fracción I de la Ley Federal de Derechos, un monto equivalente a la cantidad del citado derecho que corresponda sin considerar el volumen de la reserva de agua para caudal ecológico. Para el cálculo de la diferencia se tomará en consideración el mismo trimestre y fuente de extracción que resulte de la zona de disponibilidad.
+
+Durante el primer ejercicio fiscal en el que se apruebe el programa a que se hace referencia en el párrafo siguiente, el contribuyente podrá acreditar contra el derecho a su cargo, un importe equivalente al 100% de la diferencia citada en el párrafo que antecede, durante el segundo ejercicio fiscal, podrá acreditar el 75% de la diferencia; en el tercer ejercicio fiscal, podrá acreditar el 50% de la diferencia; para el cuarto ejercicio fiscal podrá acreditar el 25% de la diferencia; y finalmente, para el quinto ejercicio fiscal se deberá de cubrir el monto total del derecho.
+
+Los contribuyentes que opten por pagar el derecho conforme a lo previsto en el presente artículo, deberán obtener autorización previa por parte de la Comisión Nacional del Agua para realizar un programa de acciones que tenga como resultado el uso eficiente de aguas nacionales extraídas en la fuente de extracción correspondiente a través del reúso de aguas residuales. El contribuyente acreditará el uso eficiente a través de la metodología que publique la Comisión Nacional del Agua en el Diario Oficial de la Federación o, en su caso, la Norma Mexicana que corresponda en materia de uso eficiente del agua, en las cuales deberán preverse acciones alternativas para el caso de que exista imposibilidad de utilizar aguas residuales.
+
+Para los efectos del párrafo anterior, los contribuyentes estarán obligados a presentar ante la Comisión Nacional del Agua, en los primeros diez días posteriores a la conclusión de cada ejercicio fiscal donde se aplique el presente mecanismo, un informe con los resultados del programa de acciones autorizado por dicha Comisión. En caso de que los contribuyentes no presenten el informe señalado en este párrafo en los plazos establecidos para ello o no acrediten los resultados comprometidos, el mecanismo previsto en este artículo quedará sin efectos, en cuyo caso la cantidad que se disminuyó con motivo del presente beneficio deberá ser cubierta por el contribuyente con las actualizaciones y recargos correspondientes dentro del plazo de 30 días hábiles contados a partir del día siguiente en que surta efectos la notificación de la resolución que dé a conocer la no presentación del informe o el no cumplimiento del programa autorizado.
+
+Se otorga un crédito fiscal a los contribuyentes a que se refiere el primer párrafo de este numeral y que con anterioridad a la entrada en vigor del presente Decreto se haya modificado la zona de disponibilidad de la cuenca en donde se extrae el recurso hídrico a una con menor disponibilidad en términos del artículo 231, fracción I de la Ley Federal de Derechos como consecuencia del establecimiento de reservas de agua para garantizar el caudal ecológico en la cuenca respecto del derecho por uso de aguas nacionales correspondiente a los ejercicios de 2014 y 2015, en un importe igual al resultado de disminuir al monto del derecho que se calcule conforme a la zona de disponibilidad de la cuenca determinada en términos del artículo 231, fracción I de la Ley Federal de Derechos, la cantidad de la misma contribución, periodo y fuente de extracción que resulte de la zona de disponibilidad que corresponde sin considerar el volumen de la reserva de agua para caudal ecológico; en caso de que se haya cubierto el derecho correspondiente a los ejercicios fiscales de 2014 y 2015, incluyendo la diferencia antes mencionada, el crédito fiscal podrá ser acreditado para cubrir la misma contribución que se cause a partir del ejercicio fiscal de 2016.
+
+Para poder optar por aplicar el mecanismo a que se refiere el primer y quinto párrafos de este artículo, el contribuyente deberá, a más tardar en la fecha límite para presentar la declaración y pago a que se refiere el artículo 226 de la Ley Federal de Derechos, cumplir con los siguientes requisitos:
+
+I. Estar al corriente en el pago y demás obligaciones fiscales en materia de los derechos por uso de aguas nacionales y sus bienes públicos inherentes;
+
+II. Llenar y mantener actualizada toda la información en el Padrón Único de Usuarios y Contribuyentes, y
+
+III. No tener créditos fiscales determinados pendientes de pago o, en caso de haber sido impugnados en algún medio de defensa, estén totalmente garantizados.
