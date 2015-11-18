@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2014-08-11"
+last_updated: "2015-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -555,6 +555,20 @@ V. Una vez que las reservas del Fondo de Estabilización de los Ingresos de las 
 Las erogaciones adicionales a que se refiere este artículo se autorizarán en los términos del Reglamento y sólo procederán cuando éstas no afecten negativamente el equilibrio presupuestario o, en su caso, no aumenten el déficit presupuestario.
 
 El Ejecutivo Federal reportará en los informes trimestrales y la Cuenta Pública, las erogaciones adicionales aprobadas en los términos del presente artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 19 Bis.
+
+El Ejecutivo Federal, por conducto de la Secretaría, deberá destinar los ingresos que correspondan al importe del remanente de operación que el Banco de México entere al Gobierno Federal en términos de la Ley del Banco de México, a lo siguiente:
+
+I. Cuando menos el setenta por ciento a la amortización de la deuda pública del Gobierno Federal contratada en ejercicios fiscales anteriores o a la reducción del monto de financiamiento necesario para cubrir el Déficit Presupuestario que, en su caso, haya sido aprobado para el ejercicio fiscal en que se entere el remanente, o bien, una combinación de ambos conceptos, y
+
+II. El monto restante, a fortalecer el Fondo de Estabilización de los Ingresos Presupuestarios o al incremento de activos que fortalezcan la posición financiera del Gobierno Federal.
+
+La Secretaría deberá dar a conocer la aplicación específica de los recursos del remanente de operación que, en su caso, hubiese recibido del Banco de México, así como la reducción que ésta hubiere generado en el Saldo Histórico de los Requerimientos Financieros del Sector Público, en el último informe trimestral del ejercicio fiscal de que se trate.
 
 ###### Artículo 20.
 
@@ -1896,7 +1910,11 @@ La transferencia del Fondo Mexicano del Petróleo a que se refiere el artículo 
 
 En caso que, al cierre del ejercicio fiscal, los recursos del Fondo Mexicano del Petróleo no sean suficientes para cubrir la transferencia a que se refiere el párrafo anterior, ésta será igual al total de recursos del Fondo Mexicano del Petróleo que, en su caso, sean susceptibles de ser transferidos al Gobierno Federal de acuerdo con esta Ley y el Reglamento.
 
-Asimismo, en caso que los montos de ingresos correspondientes al Fondo Mexicano del Petróleo no sean suficientes para cubrir la transferencia a que se refiere el primer párrafo de este artículo, la Ley de Ingresos podrá prever un monto inferior por este concepto. Los recursos excedentes que durante el ejercicio fiscal reciba el Fondo Mexicano del Petróleo por encima del monto establecido en la Ley de Ingresos y hasta por el monto suficiente para cubrir los fines señalados en el artículo 19, fracción I, párrafos primero y segundo, de esta Ley, no podrán ser superiores a lo establecido en el primer párrafo de este artículo. Los recursos excedentes del Fondo Mexicano del Petróleo que no sean empleados para cubrir los fines señalados permanecerán en la Reserva del Fondo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Asimismo, en caso que los montos de ingresos correspondientes al Fondo Mexicano del Petróleo no sean suficientes para cubrir la transferencia a que se refiere el primer párrafo de este artículo, la Ley de Ingresos podrá prever un monto inferior por este concepto. Los recursos excedentes que durante el ejercicio fiscal reciba el Fondo Mexicano del Petróleo por encima del monto establecido en la Ley de Ingresos y hasta por el monto suficiente para cubrir los fines señalados en el artículo 19, fracción I, párrafos primero y segundo, de esta Ley y las compensaciones entre rubros de ingreso a que se refiere el artículo 21, fracción I, de esta Ley, no podrán ser superiores a lo establecido en el primer párrafo de este artículo. Los recursos excedentes del Fondo Mexicano del Petróleo que no sean empleados para cubrir los fines señalados permanecerán en la Reserva del Fondo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE DISPOSICIÓN TRANSITORIA I, DEL ARTÍCULO SEGUNDO DEL DECRETO QUE REFORMA EL PRESENTE ORDENAMIENTO.</small>
 
@@ -2539,3 +2557,29 @@ HIDROCARBUROS
 2018 240 millones de pesos 280 millones de pesos
 
 La Oficialía Mayor de la Secretaría de Energía será responsable de la separación legal, contable, funcional, estructural y presupuestal, así como la transferencia, de los recursos humanos, financieros y materiales, incluyendo los bienes que sean necesarios para que los Órganos Reguladores Coordinados en Materia Energética puedan cumplir con sus atribuciones. Para lo anterior, deberá contar con las autorizaciones de las instancias correspondientes en el ámbito de su competencia.
+
+D.O.F. 18 DE NOVIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
+
+###### ARTÍCULO NOVENO.
+
+De conformidad con el artículo 79 constitucional, la Auditoría Superior de la Federación, revisará de manera directa y suficiente los proyectos de infraestructura de las entidades federativas y los municipios, no incluidos en el proyecto de Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2016 enviado por el poder Ejecutivo Federal que, en su caso, apruebe la Cámara de Diputados en dicho Presupuesto. Esta revisión deberá realizarse de manera simultánea a la ejecución de los recursos, durante el ejercicio presupuestal correspondiente.
+
+Lo anterior, con objeto de verificar el cumplimiento de las disposiciones aplicables respecto de los recursos federales que reciban las entidades federativas y municipios que correspondan.
+
+Para efecto de lo anterior, se destinarán recursos a la Auditoría Superior de la Federación, a través del mecanismo que para tal efecto se establezca en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016.
+
+La Auditoría Superior de la Federación emitirá informes específicos a la Cámara de Diputados y al Senado de la República de la revisión y evaluación correspondiente.
+
+Para efectos de lo previsto en el presente transitorio, y con fundamento en el artículo 107, fracción I y el artículo 19, fracción II de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, la Secretaría de Hacienda y Crédito Público deberá incluir en los informes trimestrales, sobre la situación económica, las finanzas públicas y la deuda pública, la información sobre el ejercicio del gasto en los proyectos de infraestructura a los que se refiere el presente artículo; indicando el uso y destino de los recursos asignados.
+
+Transitorio Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
+
+D.O.F. 18 DE NOVIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTICULO 19 BIS A LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA.
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
