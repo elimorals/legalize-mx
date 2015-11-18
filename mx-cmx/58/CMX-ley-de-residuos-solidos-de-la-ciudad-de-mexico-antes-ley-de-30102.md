@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2014-11-28"
+last_updated: "2015-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -568,7 +568,7 @@ XVIII. Evitar el manejo y disposición de residuos de manejo especial líquidos 
 
 XVIII BIS.- Fomentar que la producción y el consumo de productos plásticos y poliestireno expandido se sujeten a los criterios y normas de sustentabilidad establecidos en la fracción XI del artículo 6º de la presente ley;
 
-XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que puedan solubilizar las sustancias potencialmente tóxicas contenidas en ellos; y
+XIX. Evitar la disposición final de los residuos sólidos que sean incompatibles y puedan provocar reacciones que liberen gases, provoquen incendios o explosiones o que pueden solubilizar las sustancias potencialmente tóxicas contenidas en ellos; y
 
 XX. Los demás que establezca el Reglamento y otros ordenamientos aplicables.
 
@@ -599,6 +599,16 @@ La Secretaría de Obras y Servicios, en coordinación con la Secretaría y las S
 ###### Artículo 15.
 
 En aquellos casos en que sea técnica y económicamente factible, la o el Jefe de Gobierno del Distrito Federal, a través de las autoridades competentes, promoverá la creación de mercados de subproductos que establezcan mecanismos que involucren la participación de los productores, distribuidores, comercializadores y consumidores en la valorización de los materiales y productos que se conviertan en residuos sólidos.
+
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 15 Bis.
+
+La Secretaría promoverá e implementará la formación y operación de sistemas y mecanismos de intercambio de residuos sólidos generados por los habitantes del Distrito Federal, por productos agrícolas que provean los productores autorizados por aquélla.
+
+Asimismo, la Secretaría, en coordinación con la Secretaría de Obras y Servicios, la Secretaría de Desarrollo Económico y las Delegaciones, determinará los criterios y medios necesarios para que dichos mecanismos conlleven a un mayor aprovechamiento de los residuos sólidos, favorezcan la economía de la población participante y garanticen el consumo sustentable en la Ciudad.
+
+Aunado a lo anterior, la Secretaría deberá crear, actualizar y difundir el catálogo de bienes que podrán ser motivo de cambio por los residuos sólidos que la población entregue en los sitios que se definan para tal efecto.
 
 ###### Artículo 16.
 
@@ -1375,3 +1385,15 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Túrnese el presente Decreto, al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 30 de enero del 2015. La entrada en vigor quedará sujeta a la suficiencia presupuestal que para tal efecto describe el presente Decreto, y que apruebe la Asamblea Legislativa del Distrito Federal, en el siguiente Presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal 2015.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal contará con sesenta días posteriores a la entrada en vigor de dicho Decreto, para expedir las modificaciones reglamentarias y administrativas necesarias aplicables.
+
+CUARTO.- Las Secretarías del Medio Ambiente y de Desarrollo Económico del Gobierno del Distrito Federal así como las Delegaciones, deberán diseñar e implementar una campaña permanente para dar a conocer a la ciudadanía en general, la forma de operación y participación en los sistemas de intercambio de residuos sólidos por productos en especie tratados en el presente Decreto; previéndose las partidas presupuestales pertinentes para llevar a cabo las mencionadas acciones en medios electrónicos e impresos.
+
+QUINTO.- La Secretaría de Medio Ambiente del Gobierno del Distrito Federal, deberá solicitar la suficiencia presupuestal suficiente con el fin de iniciar y hacer cumplir las modificaciones que indica el presente Decreto.
