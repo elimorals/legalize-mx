@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-panteones-para-el-municipio-de-cuernavaca-17756"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-21"
-last_updated: "1998-10-21"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO DE PANTEONES PARA EL MUNICIPIO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 21 de octubre de 1998.
 
@@ -105,7 +105,9 @@ XIX.- RESTOS HUMANOS.- Las partes de un cadáver o de un cuerpo humano;
 
 XX.- RESTOS HUMANOS CREMADOS.- Las cenizas resultantes de la cremación de un cadáver, de restos humanos o de restos humanos áridos;
 
-XXI.- PERPETUIDAD.- Es el derecho que el H. Ayuntamiento le otorga al particular respecto de un predio suficiente para inhumar un cadáver dentro del panteón Municipal;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXI.- PERPETUIDAD.- Es el derecho que el Ayuntamiento le otorga al particular respecto de un predio suficiente para inhumar un cadáver dentro del panteón Municipal;
 
 XXII.- RESTOS HUMANOS CUMPLIDOS.- Los que quedan de un cadáver al cabo del plazo que señale la temporalidad mínima;
 
@@ -118,6 +120,12 @@ XXV.- VELATORIO.- El local destinado a la velación de cadáveres.
 ###### Artículo 6.
 
 Las placas, lápidas o mausoleos que se coloquen en los panteones, quedarán sujetas a las especificaciones técnicas que señale el Director de Panteones.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 6 Bis.
+
+Queda estrictamente prohibido el consumo o introducción de bebidas embriagantes o sustancias psicotrópicas en el interior de los panteones municipales, la transgresión a esta disposición, serán sancionadas de acuerdo a lo señalado en el presente reglamento y el trasgresor (sic) será puesto a disposición de las autoridades correspondientes.
 
 ### CAPÍTULO II. DE LAS FUNCIONES Y ATRIBUCIONES DEL DIRECTOR
 
@@ -163,9 +171,13 @@ XVI.- Contribuir con las autoridades federales, estatales y municipales, cuando 
 
 ### CAPÍTULO III. DE LA PRESTACIÓN DE LOS SERVICIOS
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 9.
 
-Los trámites de inhumación, cremación, traslado y en su caso la reinhumación de los restos áridos, se hará por orden del C. Oficial del Registro Civil de esta Ciudad.
+Los trámites de inhumación, exhumación y traslado de cadáveres deberán contar con la autorización, sanitaria, para el caso de traslado; podrá ser también por autoridad judicial o del Ministerio Público.
+
+La inhumación o incineración de cadáveres, se hará por orden del Oficial del Registro Civil.
 
 ###### Artículo 10.
 
@@ -183,9 +195,11 @@ Los panteones municipales contarán con la seguridad para mantener el orden dura
 
 En días festivos, además se contará con ayuda adicional que proporcione Seguridad Pública Metropolitana a fin de garantizar la seguridad de los visitantes.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 13.
 
-La inhumación, cremación, traslado y en su caso embalsamamiento, deberá efectuarse entre las 12 y las 48 horas siguientes a la muerte, salvo la autorización u orden de la autoridad competente.
+La inhumación o cremación deberá efectuarse después de que transcurran doce horas y antes de cuarenta y ocho horas del fallecimiento, salvo autorización específica de la autoridad sanitaria competente o por disposición del Ministerio Público o de la autoridad judicial.
 
 ###### Artículo 14.
 
@@ -255,9 +269,11 @@ La temporalidad representa el derecho de uso sobre una fosa durante el tiempo co
 
 Las dimensiones de las fosas horizontales, no podrán ser inferiores a dos metros de largo, por uno de ancho y un metro cincuenta centímetros de profundidad, con una separación de cincuenta centímetros entre cada fosa.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-Para féretros de niños, serán de 1.25 metros por 0.80 metros de ancho por 1.20 metros de profundidad, contada ésta desde el nivel de la calle o andador adyacente con una separación de 0.50 metros entre cada fosa.
+Podrán realizarse fosas especiales para féretros de niños, serán de 1.25 metros por 0.80 metros de ancho, por 1.20 metros de profundidad, contada ésta desde el nivel de la calle o andar adyacente con una separación de 0.50 metros en cada fosa, cuidando de mantener el orden de las secciones.
 
 ###### Artículo 26.
 
@@ -283,7 +299,7 @@ El Director del panteón, fijará en todo caso las especificaciones a que deber�
 
 ###### Artículo 31.
 
-En las fosas bajo el régimen de temporalidad mínima solo está permitida la construcción de banquetas o repizones.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 32.
 
@@ -327,39 +343,81 @@ El poseedor de fosas a perpetuidad, está obligado a cubrir cuotas anuales de ma
 
 Para efectos del artículo anterior se llevará a cabo el siguiente procedimiento:
 
-I.- Se levantará acta del estado que guarda la fosa, gaveta, nicho o cripta que se pretenda reutilizar ante la presencia de dos testigos de asistencia, asentando la fecha de la última inhumación, formándose así el expediente respectivo;
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2015)</small>
 
-II.- Se colocará un aviso en la entrada del panteón municipal, durante un año, comunicando a los visitantes la situación que guarda dicha fosa, gaveta, nicho o cripta y el procedimiento a que está sujeta a efecto de que las personas interesadas manifiesten ante la Secretaría del Ayuntamiento, lo que a su interés convenga;
+I.- Ante la presencia de dos testigos, se levantará acta circunstanciada del estado físico y documental de la fosa, gaveta, nicho o cripta que se pretende reutilizar, en la que se hará constar como mínimo, lo siguiente:
 
-III.- Si se cuenta con el domicilio de algún familiar de los restos sepultados en la fosa, gaveta, nicho o cripta, se le notificará la situación que guarda, a efecto de que en el término señalado concurra ante la Secretaría del Ayuntamiento a manifestar lo que su interés convenga; y
+a).- ...; (sic)
+
+b).- ...; (sic)
+
+c).- ...; (sic)
+
+d).- Estado físico de la fosa, gaveta, nicho o cripta, y
+
+e).- ...; (sic)
+
+Durante el mes de noviembre previo al inicio del procedimiento a que hace referencia el presente artículo, se efectuará un aviso de prevención en el lugar de la fosa, gaveta, nicho o cripta a fin de dar a conocer el estado de la misma.
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+II.- En caso de que obre domicilio en los registros del Panteón del titular de los derechos de uso de perpetuidad, se le notificará personalmente comunicando la situación de dicha fosa, gaveta, nicho o cripta y el procedimiento a que está sujeta a efecto de en el término de quince días hábiles manifieste ante la Dirección de Panteones, lo que a su derecho convenga.
+
+Cuando el titular de los derechos de uso de perpetuidad que deba ser notificado no se encuentre en su domicilio por ausencia temporal, se dejará el citatorio con cualquier persona que en él se encuentre, o con un vecino, haciendo constar en la razón que al efecto deberá levantarse el nombre de la persona con quién se dejó el citatorio.
+
+El día y hora señalados, se presentará el notificador asistido por dos testigos y practicará la diligencia correspondiente con el interesado; a falta de éste con quien ahí esté, o en su defecto, con un vecino.
+
+En el caso de que la persona que deba ser notificada ya no viva en ese domicilio y se ignore su paradero, se levantará una razón con quien ahí resida o con uno de los vecinos, anotándose esa circunstancia y el nombre del residente o el nombre y domicilio del vecino.
+
+Cuando acontezca esta circunstancia deberá publicarse la notificación en la Gaceta Municipal.
+
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+III.- Si no se cuenta con el domicilio, se notificará al interesado colocando el aviso en la entrada del Panteón y en la respectiva fosa, gaveta, nicho o cripta, durante dos meses, y una publicación en la Gaceta Municipal, comunicando la situación que guarda, a efecto de que el interesado manifieste lo que a su interés convenga en un plazo de quince días hábiles, y
 
 IV.- Una vez vencidos los términos, con contestación o sin ella, se dará cuenta con el expediente al Cabildo por conducto de la Comisión de Servicios Públicos, a efecto de que se emita la resolución correspondiente.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 38 Bis.
+
+Las autoridades del panteón, no se harán responsables de los daños ocasionados por la fuerza de la naturaleza, casos fortuitos o causas de fuerza mayor, debiendo cubrir las reparaciones correspondientes el titular de la fosa.
+
 ### CAPÍTULO VI. DE LA CONSTRUCCIÓN DE NUEVOS PANTEONES
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 39.
 
-La construcción y operación de Panteones Oficiales corresponde en forma exclusiva al Honorable Ayuntamiento.
+La construcción y operación de Panteones Oficiales corresponde en forma exclusiva al Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-La Secretaría de Desarrollo Urbano, Obras y Servicios Públicos Municipal en coordinación con la Dirección de Panteones, será quien elabore un proyecto para la construcción del nuevo panteón, mismo que deberá contemplar los requisitos que disponga para tales efectos la Ley de Salud Pública del Estado de Morelos, así como las Leyes y Reglamentos aplicables al caso.
+La Secretaría de Infraestructura Urbana, Obras y Servicios Públicos en coordinación con la Dirección de Panteones, será quien elabore un proyecto para la construcción del nuevo panteón, mismo que deberá contemplar los requisitos que disponga para tales efectos la Ley de Salud del Estado de Morelos; así como, las Leyes y Reglamentos aplicables al caso.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-Solo se podrán construir panteones en las zonas que determine el H. Ayuntamiento en base al proyecto a que se refiere el artículo anterior y tomando en cuenta lo que disponga la Ley de Desarrollo Urbano del Estado y reglamentos vigentes al respecto.
+Solo podrán construir panteones en las zonas que determine el Ayuntamiento en base al proyecto a que se refiere el artículo anterior y tomando en cuenta lo que disponga la (sic) Leyes y Reglamentos vigentes al respecto.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-El inmueble destinado a este servicio deberá contar con la aprobación de los planos respectivos por la Secretaría de Desarrollo Urbano, Obras y Servicios Públicos Municipal.
+El inmueble destinado a este servicio deberá contar con la aprobación de los planos respectivos por la Secretaría de Infraestructura Urbana, Obras y Servicios Públicos.
 
 ###### Artículo 43.
 
 El órgano desconcentrado denominado Panteón de la Paz, así como la construcción y funcionamiento de Panteones particulares, serán objeto de una reglamentación especial.
 
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-Los Panteones Verticales se sujetarán a las disposiciones que en materia de construcción de edificios, establezca el Reglamento de Construcción para el Municipio de Cuernavaca y la Ley Sanitaria Municipal.
+Los Panteones Verticales se sujetarán a las disposiciones que en materia de construcción de edificios, establezca el Reglamento de Construcción del Municipio de Cuernavaca, Morelos y la Ley de Salud del Estado de Morelos.
 
 ### CAPÍTULO VII. DE LA INCINERACIÓN
 
@@ -399,6 +457,12 @@ V.- Otros servicios. (Limpieza y cuidado de monumentos sepulcrales, licencias de
 
 Las tarifas que por concepto de derechos deban pagarse, se deberán fijar en un lugar visible de la oficina del panteón y en la caja que para tales efectos designe la tesorería.
 
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 50 Bis.
+
+En caso de detectarse la existencia de adeudos generados por la falta de pago de los derechos correspondientes, la Dirección de Panteones, notificará esta situación a la Tesorería Municipal, a efecto de que inicie los procedimientos de cobro que conforme a la legislación corresponda, excepto en los casos a que se refieren los artículos 37 y 38 de este Reglamento, los cuales serán atendidos por la Dirección de Panteones.
+
 ### CAPÍTULO IX. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 51.
@@ -427,21 +491,17 @@ La infracción se hará constar en acta circunstanciada que levantará el Direct
 
 Las sanciones que se mencionan en el presente capítulo, no eximen a los infractores de otras responsabilidades civiles y/o penales.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2015)</small>
+
 ### CAPÍTULO X. DE LOS RECURSOS
 
 ###### Artículo 55.
 
-Contra actos de las autoridades administrativas que señalan el presente Reglamento, procederán los recursos de:
-
-a).- REVISIÓN;
-
-b).- REVOCACIÓN; y
-
-C).- QUEJA.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 56.
 
-Para la substanciación y resolución de los recursos que establece el artículo anterior del presente Reglamento, se estará a lo que dispone la Ley Orgánica Municipal del Estado de Morelos y el Bando de Policía y Buen Gobierno del Municipio de Cuernavaca, Morelos.
+(DEROGADO, P.O. 18 DE NOVIEMBRE DE 2015)
 
 T R A N S I T O R I O S
 
@@ -538,3 +598,13 @@ C. ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ
 SECRETARIO DEL H. AYUNTAMIENTO
 
 Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO AC/SO/22-X-2015/654 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE PANTEONES PARA EL MUNICIPIO DE CUERNAVACA, MORELOS".]
+
+PRIMERO.- El presente Acuerdo entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión de Gobierno del Estado, y en la Gaceta Municipal.
+
+SEGUNDO.- Quedan sin efecto las disposiciones administrativas que se opongan al presente Acuerdo.
