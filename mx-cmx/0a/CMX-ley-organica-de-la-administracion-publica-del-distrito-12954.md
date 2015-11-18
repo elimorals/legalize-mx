@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2015-11-13"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -90,17 +90,39 @@ IX. Entidades. Los organismos descentralizados, las empresas de participación e
 
 X. Estatuto de Gobierno. El Estatuto de Gobierno del Distrito Federal;
 
-XI. Jefe de Gobierno. El Jefe de Gobierno del Distrito Federal;
+> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
 
-XII. Ley. La Ley Orgánica de la Administración Pública del Distrito Federal;
+XI. Gabinete de Prevención Social de las Violencias. Gabinete de Prevención Social de las Violencias del Distrito Federal, que tendrá como principal objetivo coordinar las acciones en materia de prevención social de las violencias que ejecutan las unidades de gasto del Gobierno del Distrito Federal, según la programación operativa, con el objeto de alcanzar los mejores resultados de su aplicación.
 
-XIII. Reglamento. El Reglamento Interior de la Administración Pública del Distrito Federal; y
+Estará integrado de la siguiente manera:
 
-XIV. Servicio Público. La actividad organizada que realice o concesione la Administración Pública conforme a las disposiciones jurídicas vigentes en el Distrito Federal, con el fin de satisfacer en forma continua, uniforme, regular y permanente, necesidades de carácter colectivo.
+a) Presidente, Jefe de Gobierno del Distrito Federal;
+
+b) Secretario, el titular de la Consejería Jurídica y de Servicios Legales, quien suplirá al Jefe de Gobierno en sus ausencias en las sesiones del Gabinete;
+
+c) Integrantes del Gabinete, las Unidades de Gasto del Gobierno del Distrito Federal que ejecuten actividades institucionales vinculadas a la prevención social de las violencias.
+
+d) Invitado permanente, el titular de la Comisión de Derechos Humanos del Distrito Federal, quien únicamente tendrá derecho a voz.
+
+e) Se integra la figura de un Secretario Técnico del Gabinete, cuyas facultades y/o atribuciones se establecerán en el Reglamento, a efecto de que coadyuve al Presidente y al Secretario en las materias que lo instruyan.
+
+XII. Jefe de Gobierno. El Jefe de Gobierno del Distrito Federal;
+
+XIII. Ley. La Ley Orgánica de la Administración Pública del Distrito Federal;
+
+XIV. Reglamento. El Reglamento Interior de la Administración Pública del Distrito Federal; y
+
+XV. Servicio Público. La actividad organizada que realice o concesione la Administración Pública conforme a las disposiciones jurídicas vigentes en el Distrito Federal, con el fin de satisfacer en forma continua, uniforme, regular y permanente, necesidades de carácter colectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 4o.
 
-El Jefe de Gobierno podrá convocar a reuniones de secretarios y demás servidores públicos, cuando se trate de definir o evaluar la política de la Administración Pública del Distrito Federal en materias que sean de la competencia de éstos o de varias dependencias o entidades de la Administración Pública del Distrito Federal.
+El Jefe de Gobierno podrá convocar a reuniones de Secretarios y demás servidores públicos, cuando se trate de definir o evaluar la Política de la Administración Pública del Distrito Federal en materias que sean de la competencia de éstos o de varias Dependencias o Entidades de la Administración Pública del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+Presidirá el Gabinete de Prevención Social de las Violencias del Distrito Federal, coordinando las acciones en materia de prevención social de las violencias que ejecutan las unidades de gasto del Gobierno del Distrito Federal, según la programación operativa, con el objeto de alcanzar los mejores resultados de su aplicabilidad.
 
 ###### Artículo 5o.
 
@@ -1656,7 +1678,17 @@ XXVII. Tramitar los indultos que se vayan a conceder a los sentenciados por deli
 
 XXVIII. Presidir la Comisión de Estudios Jurídicos del Gobierno del Distrito Federal, integrada por los responsables de asuntos jurídicos de las Dependencias, Organos Desconcentrados y Entidades Paraestatales de la Administración Pública del Distrito Federa (sic), que tendrá por objeto la coordinación en materia jurídica, y
 
-XXIX. Las demás que le atribuyan expresamente las leyes y reglamentos.
+> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXIX. Suplir al Jefe de Gobierno del Distrito Federal en sus ausencias en las sesiones del Gabinete de Prevención Social de las Violencias;
+
+> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXX. En el caso darse (sic) lo señalado en la fracción anterior, deberá coordinar las acciones en materia de prevención social de las violencias que ejecutan las unidades de gasto del Gobierno del Distrito Federal, según la programación operativa, con el objeto de alcanzar los mejores resultados de su aplicabilidad.
+
+> <small>(REFORMADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+XXXI. Las demás que le atribuyan expresamente las Leyes y Reglamentos.
 
 ### CAPITULO III. De los Organos Político Administrativos de las Demarcaciones Territoriales y demás Organos Desconcentrados
 
@@ -2625,3 +2657,9 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida prom
 SEGUNDO.- EL presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- Se derogan todas aquellas disposiciones que se opongan a la presente reforma.
+
+G.O. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión en el Diario Oficial de la Federación.
