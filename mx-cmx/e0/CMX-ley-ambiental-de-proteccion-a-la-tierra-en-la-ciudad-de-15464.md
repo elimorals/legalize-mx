@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2015-11-17"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -202,7 +202,7 @@ En todo lo no previsto en la presente Ley, se aplicarán las disposiciones conte
 
 ###### ARTÍCULO 5º.
 
-Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
+Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales, la Ley General de Desarrollo Forestal Sustentable, la Ley de Residuos Sólidos del Distrito Federal y la Ley de Aguas del Distrito Federal, así como las siguientes:
 
 > <small>(REFORMADA, G.O. 3 DE MAYO DE 2011)</small>
 
@@ -384,6 +384,10 @@ MANIFESTACIÓN DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conoc
 
 MATERIALES Y RESIDUOS PELIGROSOS: Las substancias, compuestos o residuos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables o biológicas infecciosas, representan un riesgo para el ambiente, de conformidad con las normas oficiales mexicanas aplicables;
 
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+MERCADO DE TRUEQUE: Programa que opera la Secretaría donde se efectúa el intercambio de residuos sólidos adecuadamente separados tales como: papel, vidrio, cartón, latas de aluminio, PET, tetrapack y electrónicos en desuso, por productos agrícolas producidos en el Distrito Federal.
+
 NORMAS AMBIENTALES PARA EL DISTRITO FEDERAL: Las que emita la autoridad competente en ésta materia, en función de las atribuciones que esta ley y otros ordenamientos legales le confiere;
 
 NORMAS OFICIALES: Las normas oficiales mexicanas aplicables en materia ambiental;
@@ -554,13 +558,11 @@ XI. Expedir los ordenamientos y demás disposiciones necesarias para proveer el 
 
 XII. Las demás que conforme a esta Ley le correspondan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 9°.
 
-Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica de la Administración Pública del Distrito Federal, el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría, además de las facultades que le confiere la Ley Orgánica de la Administración Pública Local del Distrito Federal, el ejercicio de las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política ambiental en el Distrito Federal, así como los planes y programas que de esta se deriven, en congruencia con la que en su caso hubiere formulado la Federación;
 
@@ -609,6 +611,10 @@ XI. Promover junto con la Procuraduría la creación de estándares e indicadore
 > <small>(REFORMADA, G.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 XII. Establecer o en su caso proponer la creación de instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental en el Distrito Federal contando con la opinión de la Procuraduría;
+
+> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+
+XII Bis. Promover y establecer la operación del mercado de trueque, en la que los habitantes del Distrito Federal puedan intercambiar sus residuos sólidos generados y adecuadamente separados, por productos agrícolas, cultivados en el Distrito Federal;
 
 XIII. Administrar, ejecutar y controlar el fondo ambiental así como informar sobre el uso de los recursos y presentar los resultados dentro del informe anual que rinda a la Asamblea;
 
@@ -4607,3 +4613,15 @@ G.O. 17 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El Jefe de Gobierno del Distrito Federal deberá hacer las adecuaciones necesarias a la normatividad reglamentaria aplicable dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Túrnese el presente Decreto, al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 30 de enero del 2015. La entrada en vigor quedará sujeta a la suficiencia presupuestal que para tal efecto describe el presente Decreto, y que apruebe la Asamblea Legislativa del Distrito Federal, en el siguiente Presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal 2015.
+
+TERCERO.- El Jefe de Gobierno del Distrito Federal contará con sesenta días posteriores a la entrada en vigor de dicho Decreto, para expedir las modificaciones reglamentarias y administrativas necesarias aplicables.
+
+CUARTO.- Las Secretarías del Medio Ambiente y de Desarrollo Económico del Gobierno del Distrito Federal así como las Delegaciones, deberán diseñar e implementar una campaña permanente para dar a conocer a la ciudadanía en general, la forma de operación y participación en los sistemas de intercambio de residuos sólidos por productos en especie tratados en el presente Decreto; previéndose las partidas presupuestales pertinentes para llevar a cabo las mencionadas acciones en medios electrónicos e impresos.
+
+QUINTO.- La Secretaría de Medio Ambiente del Gobierno del Distrito Federal, deberá solicitar la suficiencia presupuestal suficiente con el fin de iniciar y hacer cumplir las modificaciones que indica el presente Decreto.
