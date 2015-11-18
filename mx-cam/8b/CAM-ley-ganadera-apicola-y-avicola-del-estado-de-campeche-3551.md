@@ -4,7 +4,7 @@ identifier: "CAM-ley-ganadera-apicola-y-avicola-del-estado-de-campeche-3551"
 country: "mx"
 rank: "ley"
 publication_date: "1982-05-24"
-last_updated: "2008-05-21"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "CAM"
 ---
 # LEY GANADERA, APICOLA Y AVICOLA DEL ESTADO DE CAMPECHE
 
-LEY GANADERA, APICOLA Y AVICOLA DEL ESTADO DE CAMPECHE
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DE LA LEY DE APICULTURA DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 21 DE MAYO DE 2008, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO EN LO QUE CORRESPONDA.</small>
+LEY GANADERA, APÍCOLA Y AVÍCOLA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO PECUARIO PARA EL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 18 DE NOVIEMBRE DE 2015; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1° DE ENERO DE 2016.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 24 de mayo de 1982.
 
@@ -1739,7 +1741,7 @@ Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiún días del mes de mayo del año de mil novecientos ochenta y dos.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 1997.
 
@@ -1755,7 +1757,7 @@ Primero- El presente decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
-P.O. DE 21 DE MAYO DE 2008.
+P.O. 21 DE MAYO DE 2008.
 
 PRIMERO.- El presente decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial del Estado.
 
@@ -1764,3 +1766,15 @@ SEGUNDO.- Dentro de los sesenta días siguientes a la entrada en vigor del prese
 TERCERO.- Dentro de los noventa días siguientes a la entrada, en vigor del presente decreto, las organizaciones de apicultores y. cualquier productor independiente deberán solicitar su registro en la Secretaría de Desarrollo Rural y demás dependencias señaladas en esta ley.
 
 CUARTO.- Se deroga en lo que corresponda la Ley Ganadera, Apícola y Avícola del Estado de Campeche expedida por la L Legislatura mediante decreto No. 125 de fecha 21 de mayo de 1982, publicado en el Periódico Oficial del Estado el 24 de mayo de 1982, así como las demás disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO: La presente ley entrará en vigor el 1º de enero de 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga la Ley Ganadera del Estado de Campeche, expedida por la LV Legislatura mediante decreto número 358, publicado en el Periódico Oficial del Estado el 12 de septiembre de 1997. Simultáneamente queda abrogada la Ley Ganadera, Apícola y Avícola del Estado de Campeche, expedida por la L Legislatura mediante decreto 125, publicado en el Periódico Oficial del Estado el 24 de mayo de 1982.
+
+TERCERO: El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término máximo de 90 días posteriores al inicio de vigencia de este decreto.
+
+CUARTO: Los H.H. Ayuntamientos de los Municipios del Estado emitirán las disposiciones reglamentarias necesarias para el cumplimiento de las atribuciones que esta ley les otorga, en un término máximo de 90 días posteriores al inicio de vigencia de este decreto.
+
+QUINTO: Se derogan las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
