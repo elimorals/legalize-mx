@@ -4,7 +4,7 @@ identifier: "CHP-ley-ambiental-para-el-estado-de-chiapas-68451"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-18"
-last_updated: "2014-05-09"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DE LA LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de marzo de 2009.
 
@@ -191,7 +193,7 @@ I. El titular del Poder Ejecutivo Estatal;
 
 II. La Secretaría de Medio Ambiente e Historia Natural.
 
-III. Los Ayuntamientos Municipales; (sic)
+III. Los Ayuntamientos Municipales;
 
 ###### Artículo 5.
 
@@ -221,7 +223,7 @@ IX. Impulsar la implementación de reconocimientos, esquemas de certificación y
 
 X. Expedir los reglamentos en las materias a las que se refiere la presente ley;
 
-XI. Expedir las Normas Técnicas Ambientales Estatales; y, (sic)
+XI. Expedir las Normas Técnicas Ambientales Estatales; y,
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -445,7 +447,7 @@ VI. Contendrán los anexos técnicos necesarios para detallar los compromisos ad
 
 VII. Contendrán las demás estipulaciones que las partes consideren necesarias para su correcto y estricto cumplimiento;
 
-VIII. Para efectos en el otorgamiento de los permisos o autorizaciones en materia de impacto ambiental que correspondan al Estado, o en su caso, a los Ayuntamientos Municipales, deberán seguirse los procedimientos establecidos en la sección V de la Ley General de Equilibrio Ecológico y Protección al Ambiente, además de lo que establezcan las disposiciones legales y normativas locales correspondientes; y, (sic)
+VIII. Para efectos en el otorgamiento de los permisos o autorizaciones en materia de impacto ambiental que correspondan al Estado, o en su caso, a los Ayuntamientos Municipales, deberán seguirse los procedimientos establecidos en la sección V de la Ley General de Equilibrio Ecológico y Protección al Ambiente, además de lo que establezcan las disposiciones legales y normativas locales correspondientes; y,
 
 IX. En el caso de los convenios en los que se asuman atribuciones federales en materia de Evaluación de Impacto Ambiental, los procedimientos se llevarán a cabo de conformidad con lo que señala el Reglamento de la Ley federal en materia de evaluación del impacto ambiental; y,
 
@@ -2663,18 +2665,20 @@ Artículo Tercero.- Todos y cada uno de los programas de ordenamiento ecológico
 
 Artículo Cuarto.- La Secretaría de Medio Ambiente e Historia Natural, someterá a consideración del Ejecutivo Estatal el Reglamento de la presente Ley, en un plazo no mayor a sesenta días hábiles a partir de la entrada en vigor de este Decreto, para su aprobación y publicación.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0071.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO".]
+P.O. 18 DE NOVIEMBRE DE 2015.
 
-PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 022 LEY AMBIENTAL PARA EL ESTADO DE CHIAPAS”.]
 
-SEGUNDO. Los ajustes que este Decreto genere a los reglamentos que refiere esta Ley, el Ejecutivo del Estado y demás autoridades respectivas, deberán de efectuarlos dentro de los sesenta días naturales siguientes a la entrada en vigor del mismo.
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-TERCERO. Cualquier disposición que haga referencia a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, se entenderá que se refiere a la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor.
+Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-CUARTO. Los recursos materiales, humanos y financieros que tiene la Procuraduría de la Defensa del Menor, la Mujer y la Familia, pasarán a la entrada en vigor de este Decreto a la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor.
+Artículo Tercero.- Se abroga la Ley Ambiental para el Estado de Chiapas, publicada en el Periódico Oficial número 151, tercera sección, mediante Decreto número 189, de fecha 18 de Marzo de 2009.
 
-QUINTO. Los asuntos, trámites y procedimientos que actualmente se encuentren en desahogo en la Procuraduría de la Defensa del Menor, la Mujer y la Familia seguirán su curso normal ante la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor.
+Artículo Cuarto.- Los Municipios dispondrán de un plazo de noventa días hábiles, a partir de la entrada en vigencia de esta Ley, para adecuar la normatividad correspondiente para el debido cumplimiento a las disposiciones del presente Decreto.
 
-SEXTO. Quien ejercía el cargo de Procurador de la Defensa del Menor, la Mujer y la Familia, si cumple con los requisitos previstos en el artículo 40 de esta Ley, continuará como titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor; de no ser así, el titular del Poder Ejecutivo del Estado, designará a la persona que asuma dicho encargo, dentro del término de cinco días hábiles a la entrada en vigencia de este Decreto.
+Artículo Quinto.- Los procedimientos y recursos administrativos que actualmente se encuentren en trámite, se seguirán llevando a cabo hasta su total su (sic) conclusión por las Autoridades y disposiciones vigentes, con anterioridad a la entrada en vigor del presente Decreto.
 
-SÉPTIMO. Se derogan las disposiciones que se contrapongan al presente Decreto.
+Artículo Sexto.- Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán vigentes por el término en que fueron otorgados y su prórroga se sujetarán (sic) a las disposiciones de la presente Ley.
+
+Artículo Séptimo.- El titular de la Secretaría de Medio Ambiente e Historia Natural, deberá someter a consideración y aprobación del titular del Poder Ejecutivo Estatal, el proyecto del reglamento de la presente Ley y demás normatividad que resulte aplicable, en un plazo no mayor a noventa días hábiles siguientes a la publicación del presente Decreto.
