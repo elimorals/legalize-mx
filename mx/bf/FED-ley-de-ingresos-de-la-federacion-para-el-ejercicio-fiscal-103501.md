@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-10350
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-11-13"
-last_updated: "2014-11-13"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103501&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2015
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2015, SALVO LO DISPUESTO EN EL ARTÍCULO 22, FRACCIÓN II DE LA PRESENTE LEY QUE ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2016.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de noviembre de 2014.
 
@@ -689,7 +689,9 @@ El Ejecutivo Federal informará al Congreso de la Unión de los ingresos por con
 
 Derivado del monto de ingresos fiscales a obtener durante el ejercicio fiscal de 2015, se proyecta una recaudación federal participable por 2 billones 312 mil 918.2 millones de pesos.
 
-Para el ejercicio fiscal de 2015, el gasto de inversión del Gobierno Federal y de las empresas productivas del Estado no se contabilizará para efectos del equilibrio presupuestario previsto en el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, hasta por un monto equivalente a 2.5% del Producto Interno Bruto, del cual 2.0% corresponde a Petróleos Mexicanos y 0.5% a la Comisión Federal de Electricidad y para inversiones de alto impacto en los términos del Presupuesto de Egresos de la Federación 2015.
+> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Para el ejercicio fiscal de 2015, el gasto de inversión del Gobierno Federal y de las empresas productivas del Estado no se contabilizará para efectos del equilibrio presupuestario previsto en el artículo 17 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, hasta por un monto equivalente a 2.5 por ciento del Producto Interno Bruto, correspondiente a Petróleos Mexicanos, la Comisión Federal de Electricidad e inversiones de alto impacto del Gobierno Federal en los términos del Presupuesto de Egresos de la Federación 2015.
 
 Los recursos que se reciban en 2015 por concepto de los derechos a que se refieren los artículos 254 a 261 de la Ley Federal de Derechos vigentes en 2014, se transferirán a los destinos señalados en dichos artículos. En el caso de los recursos a que se refieren los artículos 256 y 257-Ter de la ley citada, se transferirán al Fondo de Estabilización de los Ingresos Presupuestarios. Tratándose de los recursos correspondientes a los fondos sectoriales CONACYT-Secretaría de Energía-Hidrocarburos y CONACYT-Secretaría de Energía-Sustentabilidad Energética, se ejercerán en los términos del artículo 88 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria. En ambos casos los recursos formarán parte de las transferencias establecidas, respectivamente, en los artículos 87, fracción I y 88 de la última ley citada. El remanente será para cubrir el Presupuesto de Egresos de la Federación.
 
@@ -706,6 +708,14 @@ El producto de la enajenación de los derechos y bienes decomisados o abandonado
 Los recursos que durante el ejercicio fiscal de 2015 se destinen al Fondo de Estabilización de los Ingresos de las Entidades Federativas en términos de las disposiciones aplicables, podrán utilizarse para cubrir las obligaciones derivadas de los esquemas que, a fin de mitigar la disminución en participaciones federales del ejercicio fiscal de 2015, se instrumenten para potenciar los recursos que, con cargo a dicho fondo, reciben las entidades federativas.
 
 Hasta el 25 por ciento de las aportaciones que con cargo a los fondos de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, y para el Fortalecimiento de las Entidades Federativas, corresponda recibir a las entidades federativas, municipios y demarcaciones territoriales del Distrito Federal, podrán servir como fuente de pago o compensación de las obligaciones que contraigan con el Gobierno Federal, siempre que exista acuerdo entre las partes y sin que sea necesario obtener la autorización de la legislatura local ni la inscripción ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios.
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+Para el ejercicio fiscal 2015, los recursos que se obtengan por concepto de coberturas o instrumentos de transferencia significativa de riesgos que se hubieran contratado o adquirido a través del Fondo de Estabilización de los Ingresos Presupuestarios, se podrán enterar a la Tesorería de la Federación las cantidades necesarias para compensar la disminución de los ingresos petroleros del Gobierno Federal respecto de las cantidades estimadas en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
+El gasto de inversión a que se refiere el párrafo séptimo del presente artículo se reportará en los informes trimestrales que se presentan al Congreso de la Unión a que se refiere el artículo 107 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 ###### Artículo 2o.
 
@@ -1458,3 +1468,13 @@ Décimo. Para efectos de lo previsto en el artículo 107, fracción I de la Ley 
 México, D.F., a 30 de octubre de 2014.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Lilia Guadalupe Merodio Reza, Secretaria.- Dip. Javier Orozco Gómez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a siete de noviembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE NOVIEMBRE DE 2015.
+
+Único. El presente Decreto entrará en vigor conforme a lo siguiente:
+
+I. El Artículo Primero, el 1 de enero de 2016, y
+
+II. El Artículo Segundo, al día siguiente de su publicación en el Diario Oficial de la Federación.
