@@ -4,7 +4,7 @@ identifier: "CAM-ley-ganadera-del-estado-de-campeche-12445"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-12"
-last_updated: "1997-09-12"
+last_updated: "2015-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CAM"
 ---
 # LEY GANADERA DEL ESTADO DE CAMPECHE
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE CAMPECHE , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY GANADERA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO PECUARIO PARA EL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 18 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el viernes 12 de septiembre de 1997.
 
@@ -87,7 +91,7 @@ LA APLICACIÓN DE LA PRESENTE LEY CORRESPONDE AL EJECUTIVO DEL ESTADO, ESTABLECI
 
 ###### ARTÍCULO 8.
 
-EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETRIA DE DESARROLLO RURAL, VIGILARA LA DEBIDA OBSERVANCIA DE ESTA LEY, CON EL AUXILIO DE LAS SIGUIENTES DEPENCIAS ESTATALES:
+EL EJECUTIVO DEL ESTADO, POR CONDUCTO DE LA SECRETARIA DE DESARROLLO RURAL, VIGILARA LA DEBIDA OBSERVANCIA DE ESTA LEY, CON EL AUXILIO DE LAS SIGUIENTES DEPENDENCIAS ESTATALES:
 
 I. LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN;
 
@@ -2522,3 +2526,17 @@ SALÓN DE SESIONES DEL PALACIO LEGISLATIVO, CAMPECHE, CAM., A 12 DE SEPTIEMBRE D
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche, a los doce días del mes de Septiembre del año de mil novecientos noventa y siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. VICTOR CARLOS PEREZ CAMARA.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE NOVIEMBRE DE 2015.
+
+PRIMERO: La presente ley entrará en vigor el 1º de enero de 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga la Ley Ganadera del Estado de Campeche, expedida por la LV Legislatura mediante decreto número 358, publicado en el Periódico Oficial del Estado el 12 de septiembre de 1997. Simultáneamente queda abrogada la Ley Ganadera, Apícola y Avícola del Estado de Campeche, expedida por la L Legislatura mediante decreto 125, publicado en el Periódico Oficial del Estado el 24 de mayo de 1982.
+
+TERCERO: El Ejecutivo del Estado expedirá el reglamento de la presente Ley en un término máximo de 90 días posteriores al inicio de vigencia de este decreto.
+
+CUARTO: Los H.H. Ayuntamientos de los Municipios del Estado emitirán las disposiciones reglamentarias necesarias para el cumplimiento de las atribuciones que esta ley les otorga, en un término máximo de 90 días posteriores al inicio de vigencia de este decreto.
+
+QUINTO: Se derogan las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
