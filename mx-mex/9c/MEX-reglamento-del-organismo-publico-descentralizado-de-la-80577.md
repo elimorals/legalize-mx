@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-organismo-publico-descentralizado-de-la-80577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-29"
-last_updated: "2011-03-29"
+last_updated: "2015-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA MUNICIPAL DENOMINADO "INSTITUTO MUNICIPAL DE CULTURA FISICA Y DEPORTE DE TOLUCA", DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION PUBLICA MUNICIPAL DENOMINADO "INSTITUTO MUNICIPAL DE CULTURA FISICA Y DEPORTE DE TOLUCA" DEL ESTADO DE MEXICO
+REGLAMENTO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DENOMINADO "INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE TOLUCA" DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL REGLAMENTO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DENOMINADO “INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE TOLUCA”, PUBLICADO EN LA G.G. DE 19 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 29 de marzo de 2011.
 
@@ -689,7 +691,7 @@ V. Y los demás que señalen los reglamentos particulares de cada Centro Deporti
 
 ###### ARTÍCULO 60.
 
-Cada una de las Instalaciones Deportivas del municipio de Toluca, deberá (sic) contar con su propio reglamento interior de uso, el cual deberá ser validado por el IMCUFIDET e inscrito en el REMUDE.
+Cada una de las Instalaciones Deportivas del municipio de Toluca, deberá contar con su propio reglamento interior de uso, el cual deberá ser validado por el IMCUFIDET e inscrito en el REMUDE.
 
 ### Capítulo Décimo Segundo. Del Registro Municipal del Deporte
 
@@ -1054,3 +1056,17 @@ Enrique Carbajal Monroy
 Jefe del Departamento de Administración y Finanzas
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 19 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DENOMINADO “INSTITUTO MUNICIPAL DE CULTURA FÍSICA Y DEPORTE DE TOLUCA”.]
+
+Primero. El presente ordenamiento debe ser publicado en la Gaceta Municipal de Toluca y entrará en vigor al momento de su publicación.
+
+Segundo. Por la entrada en vigor del presente ordenamiento no se deben ver afectados los derechos laborales del personal adscrito al Organismo Público Descentralizado de la Administración Pública Municipal de Toluca denominado “Instituto Municipal de Cultura Física y Deporte de Toluca”.
+
+Tercero. Por la entrada en vigor del presente ordenamiento no se deben ver afectados los derechos y las obligaciones que ostenta el Organismo Público Descentralizado de la Administración Pública Municipal de Toluca denominado “Instituto Municipal de Cultura Física y Deporte de Toluca”.
+
+Cuarto. Se abroga el Reglamento del Organismo Público Descentralizado de la Administración Pública Municipal denominado Instituto Municipal de Cultura Física y Deporte de Toluca, Publicado en la Gaceta del Gobierno del Estado de México número 60, de fecha 29 de marzo de 2011.
