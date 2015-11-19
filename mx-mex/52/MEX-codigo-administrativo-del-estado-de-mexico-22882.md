@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-11-18"
+last_updated: "2015-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE NOVIEMBRE DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -36,6 +38,8 @@ DECRETO NUMERO 41
 LA H. "LIV" LEGISLATURA DEL ESTADO DE MEXICO
 
 DECRETA:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO NÚMERO 27, PUBLICADO EN LA G.G. DE 19 DE NOVIEMBRE DE 2015, LAS REFERENCIAS QUE EN LO SUCESIVO SE REALICEN A SALARIOS MÍNIMOS GENERALES DEL ÁREA GEOGRÁFICA (A A C) QUE CORRESPONDA, EN LOS ORDENAMIENTOS JURÍDICOS Y ADMINISTRATIVOS ESTATALES, SE ENTENDERÁN QUE SE REFIEREN A "SALARIO MÍNIMO GENERAL VIGENTE".</small>
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
@@ -2869,7 +2873,7 @@ I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamien
 
 II. Elaborar el diagnóstico de la situación que prevalece en materia de rastros y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
 
-III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliaresde carácter estatal y municipal, y de los sectores social y privado.
+III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado.
 
 IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
@@ -8009,9 +8013,11 @@ En los lugares, en los que no se cuente con establecimientos autorizados para pr
 
 > <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. De la declaración de abandono y el procedimiento de enajenación
+#### SECCIÓN SEGUNDA. De la declaración de abandono, enajenación y reciclaje de vehículos
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 7.
 
@@ -8141,7 +8147,9 @@ Las autoridades estatales competentes en materia de salubridad y preservación d
 
 Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se refiere este Capítulo, no serán considerados como bienes mostrencos, de acuerdo a lo dispuesto por el Código Civil del Estado de México, por lo que su regulación se someterá exclusivamente a lo dispuesto en este Libro.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
@@ -8149,7 +8157,7 @@ Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se ref
 
 ###### Artículo 7.
 
-74.- Los vehículos, tráileres, autobuses y cualquier tipo de remolques asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por seis meses, aplican a favor del Estado.
+74.- Los vehículos, tráileres, autobuses y cualquier tipo de remolques asegurados y que fueron remitidos a los depósitos vehiculares que causen abandono por tres meses, aplican a favor del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -8161,9 +8169,11 @@ Los vehículos, tráileres, autobuses y cualquier tipo de remolques a que se ref
 
 I. Cuando hayan transcurrido tres meses, de la fecha en que se hubiere depositado el vehículo, tráiler, autobuses y cualquier tipo de remolques a excepción de aquellos que se encuentren en proceso judicial o administrativo pendiente de resolver, o que dictada la resolución o sentencia, ésta, no haya quedado firme, en cuyo caso el plazo referido, se computará a partir del momento en que cause ejecutoria dicha resolución;
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Que la autoridad competente haya ordenado la liberación y entrega del vehículo, tráiler, autobuses y cualquier tipo de remolques por parte de la autoridad competente y hayan transcurrido seis meses.
+> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+
+II. Que la autoridad competente haya ordenado la liberación y entrega del vehículo, tráiler, autobuses y cualquier tipo de remolques y hayan transcurrido tres meses.
 
 > <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
 
@@ -8179,17 +8189,33 @@ La Secretaría al expedir las tarifas para los servicios que presten los corralo
 
 76.- Al cumplirse el plazo señalado en los supuestos que establece el artículo anterior, el concesionario deberá:
 
-I. Informar a la Secretaría de Transporte, cuando se actualice alguna de las causales a que hace referencia el artículo que antecede;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
-II. Remitir a la Secretaría de Transporte, las placas y la tarjeta de circulación del vehículo, tráiler, autobuses y cualquier tipo de remolques si las portara y conservara en la unidad; en caso de no ser así, comunicará bajo protesta de decir verdad, dicha circunstancia;
+I. Informar a la Secretaría de Movilidad, cuando se actualice alguna de las causales a que hace referencia el artículo que antecede;
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. Cuando la Secretaría de Transporte reciba el listado por parte de los concesionarios, respecto de los vehículos, tráiler, autobuses y cualquier tipo de remolques susceptibles de ser declarados en abandono y por ende enajenados, mediante edicto publicado en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México dará a conocer los vehículos, tráileres, autobuses y cualquier tipo de remolques sujetos al procedimiento de abandono;
+> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
-IV. En un plazo de siete días hábiles posteriores a la publicación del edicto referido en la fracción que antecede, el Titular de la Secretaría de Transporte, emitirá la Declaratoria de Abandono de los bienes en favor del Estado, que por medio de edicto deberá publicarse en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México;
+II. Remitir a la Secretaría de Movilidad la tarjeta de circulación del vehículo, tráiler, autobuses y cualquier tipo de remolques si la portara y conservara en la unidad; en caso de no ser así, comunicará bajo protesta de decir verdad, dicha circunstancia.
+
+Por cuanto hace a las placas de circulación, deberá retirarlas, clasificarlas, relacionarlas y entregarlas a la Secretaría de Movilidad;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+
+III. Cuando la Secretaría de Movilidad reciba el listado por parte de los concesionarios, respecto de los vehículos, tráiler, autobuses y cualquier tipo de remolques susceptibles de ser declarados en abandono y por ende enajenados, el titular de la Secretaría deberá publicarlo a través de edicto en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México, dando a conocer al público en general, que todo aquél que acredite ser propietario o legal poseedor de alguno de los vehículos enlistados, cuenta con un plazo de siete días hábiles posteriores a la publicación del edicto para formular la solicitud de entrega, el pago de los derechos correspondientes y la liberación de la unidad, de lo contrario, se consideran en abandono en favor del Estado.
+
+En caso de que el propietario o poseedor de la unidad, no culmine con la liberación de la unidad dentro del plazo referido en la fracción anterior, el concesionario no podrá entregarlo bajo ninguna circunstancia, sin incurrir en las responsabilidades correspondientes;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+
+IV. Una vez transcurrido el plazo señalado en la fracción anterior, el titular de la Secretaría de Movilidad emitirá la Declaratoria de Abandono de los bienes en favor del Estado, que por medio de edicto deberá publicarse en el Periódico Oficial "Gaceta del Gobierno" y en un diario de mayor circulación del Estado de México;
 
 V. La enajenación se exceptúa de la subasta púbica;
 
@@ -8212,6 +8238,12 @@ En caso de vehículos que hayan sido abandonados en la infraestructura vial y en
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 Tratándose de tráileres, autobuses y cualquier tipo de remolques, el Estado a través de la Secretaría de Finanzas determinará su destino final.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+
+La Secretaría del Medio Ambiente podrá diseñar programas para el reciclaje de autopartes o sustancias obtenidas de las unidades declaradas en abandono, conforme a las reglas de carácter general que al efecto se emitan.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -11387,12 +11419,6 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 ###### Artículo 14.
 
-1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
-
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
-
-###### Artículo 14.
-
 2.- Este Libro tiene por objeto además establecer:
 
 I. Las políticas para la producción de la información e investigación geográfica, estadística y catastral en apoyo al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
@@ -11416,6 +11442,12 @@ IX. La coordinación, participación y colaboración que corresponda, de los gob
 X. La integración y el desarrollo del Sistema Estatal de Información Geográfica, Estadística y Catastral para que se suministre a quienes requieran, en los términos de este Libro, el Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
 XI. El desarrollo y la utilización permanente de los programas y procesos electrónicos y tecnológicos en los sistemas y servicios a que se refiere este artículo.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
+1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11449,7 +11481,7 @@ XII. Levantamiento aerofotográfico y fotogramétrico. A la captación de fotogr
 
 XIII. Nombre geográfico. A la denominación de lugares, rasgos, hechos, fenómenos físicos, sociales y económicos que se ubican en el espacio geográfico estatal;
 
-XIV Topónimo. Al nombre, origen y significado propios del lugar;
+XIV. Topónimo. Al nombre, origen y significado propios del lugar;
 
 XV. Trabajo sociográfico. A la representación cartográfica de la información relativa a los fenómenos demográficos, sociales y económicos;
 
@@ -12449,7 +12481,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -17373,6 +17405,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
+G.G. 16 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
 G.G. 8 DE MARZO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
@@ -17380,12 +17418,6 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- En un plazo no mayor a seis meses, contados a partir de la publicación del presente Decreto, los 125 Ayuntamientos de los municipios del Estado de México, harán las debidas adecuaciones en sus respectivos bandos municipales y demás disposiciones reglamentarias de conformidad con el presente Decreto.
-
-G.G. 16 DE MARZO DE 2011.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
-
-SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 G.G. 31 DE MARZO DE 2011.
 
@@ -18402,3 +18434,41 @@ TERCERO.- Se derogan las disposiciones legales de igual o menor jerarquía que s
 CUARTO.- El Gobernador del Estado expedirá las reformas respectivas al Reglamento del Libro Décimo Segundo del Código Administrativo del Estado de México y al Reglamento Interior de la Secretaría de la Contraloría, a más tardar a los noventa días siguientes de la entrada en vigor del presente Decreto.
 
 QUINTO.- El Secretario de la Contraloría, en el ámbito de sus atribuciones, emitirá las disposiciones normativas complementarias para el cumplimiento del presente Decreto, a más tardar a los noventa días siguientes de la entrada en vigor del presente instrumento.
+
+G.G. 19 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2016.
+
+TERCERO.- Se deja sin efectos el Artículo Sexto Transitorio del Decreto Número 123, publicado en el Periódico Oficial “Gaceta del Gobierno” el 27 de marzo de 2008.
+
+CUARTO.- Los artículos 60 E y 60 H no serán aplicables para vehículos cuyo modelo sea más antiguo que 2002. Los contribuyentes obligados al Impuesto Sobre Tenencia o Uso de Vehículos establecido en la Sección Segunda del Capítulo Primero del Título Tercero del Código Financiero del Estado de México y Municipios respecto de estos vehículos, lo calcularán conforme a lo siguiente:
+
+I. En el caso de automóviles de uso particular y embarcaciones la determinación será atendiendo al número de cilindros de motor, conforme a lo siguiente:
+
+…
+
+Tratándose de aeronaves se pagará una cuota fija, conforme a lo siguiente:
+
+Tipo de vehículo Cuota
+
+Aeronaves
+
+De pistón, Turbohélice $3,135
+
+y Helicópteros
+
+Reacción $4,530
+
+II a IV. …
+
+…
+
+QUINTO.- Para los ejercicios 2017 a 2018, los municipios que pretendan contratar créditos al amparo de este Decreto, tendrán que realizar la previsión o reforma correspondiente en sus Leyes de Ingresos y Presupuestos de Egresos del año de que se trate, o en su defecto, obtener la autorización de la Legislatura para que el importe del financiamiento a contratar sea considerado como ingreso adicional para el ejercicio de que se trate.
+
+SEXTO.- Las referencias que en lo sucesivo se realicen a Salarios Mínimos Generales del Área Geográfica (A a C) que corresponda, en los ordenamientos jurídicos y administrativos estatales, se entenderán que se refieren a Salario Mínimo General Vigente.
+
+SÉPTIMO.- Se autoriza a los Ayuntamientos la suscripción de Convenios de Coordinación con el Gobierno del Estado de México, a fin de hacerse cargo de las funciones relacionadas con la ejecución y recaudación de multas en avenidas estatales primarias, relativas a invadir carriles confinados de transportación masiva; instalación de anuncios espectaculares o mobiliario urbano, así como por obstaculizar el uso de las mismas.
+
+OCTAVO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
