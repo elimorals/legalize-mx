@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2015-10-02"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -81,9 +81,13 @@ V.- Secuestro convencional en la vía administrativa, de negociaciones o bienes 
 
 VI.- Fianza de persona física o moral que acredite su idoneidad y solvencia y se someta expresamente al procedimiento administrativo de ejecución. En todo caso deberá tener bienes raíces inscritos en el Registro Público de la Propiedad y ubicados dentro de la Municipalidad correspondiente por un valor que garantice suficientemente las obligaciones contraídas.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 7.
 
-Los ingresos del Municipio se dividen en ordinarios y extraordinarios. Son ordinarios los impuestos, derechos, productos y aprovechamientos que prevean las Leyes de Ingresos. Son extraordinarios los que se decreten excepcionalmente para proveer el pago de gastos eventuales o imprevistos.
+Las contribuciones se clasifican en impuestos, cuotas y aportaciones de seguridad social, contribuciones de mejoras y derechos. Son también ingresos ordinarios los productos y aprovechamientos que prevean las Leyes de Ingresos.
+
+Son ingresos extraordinarios los que se decreten excepcionalmente para proveer el pago de gastos eventuales o imprevistos.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
 
@@ -95,6 +99,14 @@ Asimismo, deberán incluir las Entidades mencionadas en el párrafo anterior, to
 
 Son impuestos las prestaciones en dinero o en especie que se fijen unilateralmente y con carácter obligatorio a todos aquellos individuos cuya situación coincida con las que en las Leyes fiscales se señalen como generadoras del crédito fiscal.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 8 BIS.- Son cuotas y aportaciones de seguridad social las contribuciones establecidas en ley a cargo de personas que son sustituidas por el Ayuntamiento en el cumplimiento de obligaciones fijadas por la ley en materia de seguridad social o a las personas que se beneficien en forma especial por servicios de seguridad social proporcionados por el mismo Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 8 TER.- Son contribuciones de mejoras las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
+
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 9.
@@ -105,13 +117,31 @@ Son Derechos las contraprestaciones establecidas en las leyes fiscales, por los 
 
 Son productos los ingresos que percibe el Ayuntamiento por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por explotación de sus bienes patrimoniales.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 11.
 
-Son Aprovechamientos los demás ingresos ordinarios que no puedan ser clasificados como impuestos, derechos o productos, o bien que aunque procedan de dichas fuentes sean enterados en ejercicio fiscal posterior a aquel en que fueron originados, recibiendo en este caso el nombre de "rezagos". Quedarán clasificados también como aprovechamientos los ingresos que se perciben por concepto de participaciones del Gobierno del Estado o del Gobierno Federal.
+Son aprovechamientos los ingresos que percibe el Ayuntamiento por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación municipal.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-ARTICULO 11 BIS.- Los ingresos que perciba el Municipio a través de sus Organismos Descentralizados, Concesionarios, Empresas de Participación Municipal o Paramunicipales por concepto de los denominados "rezagos", se deberán sujetar a lo establecido en el artículo 7 Bis del presente ordenamiento.
+ARTICULO 11 BIS.- Los ingresos que perciba el Municipio a través de sus Organismos Descentralizados, Concesionarios, Empresas de Participación Municipal o Paramunicipales, por concepto de ingresos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago, se deberán sujetar a lo establecido en el artículo 7 Bis del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 11 TER.- Son ingresos por venta de bienes y servicios los recursos propios que obtienen las diversas entidades que conforma el sector paramunicipal y el gobierno central por sus actividades de producción y/o comercialización.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 11 QUÁTER.- Son participaciones y aportaciones los recursos recibidos en concepto de participaciones y aportaciones por los municipios. Incluye los recursos que se reciben y están destinados a la ejecución de programas federales y estatales mediante la reasignación de responsabilidades y recursos presupuestarios, en los términos de los convenios que se celebren.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 11 QUINQUIES.- Son transferencias, asignaciones, subsidios y otras ayudas los recursos recibidos en forma directa o indirecta por los sectores público, privado y externo, organismos y empresas municipales y apoyos como parte de su política económica y social, de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 11 SEXIES.- Son ingresos derivados de financiamientos los ingresos obtenidos por la celebración de empréstitos internos y externos, autorizados o ratificados por el H. Congreso del Estado. Siendo principalmente los créditos por instrumento de emisiones en los mercados nacionales e internacionales de capital, organismos financieros internacionales, créditos bilaterales y otras fuentes. Asimismo, incluye los financiamientos derivados del rescate y/o aplicación de activos financieros.
 
 ###### ARTICULO 12.
 
@@ -903,11 +933,11 @@ II. Además, el avalúo deberá de contener como mínimo lo siguiente:
 
 13. Conclusión.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DEL 2000)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-ARTICULO 75 BIS C.- Se establece el Impuesto para el Fomento Deportivo y Educacional, para aquellos causantes de impuestos, derechos y rezagos de créditos fiscales municipales.
+ARTICULO 75 BIS C.- Se establece el Impuesto para el Fomento Deportivo y Educacional, para aquellos causantes de impuestos, derechos y de créditos fiscales municipales derivados de ingresos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago.
 
-Este impuesto se causará sobre el monto de los impuestos, derechos y rezagos a cargo del contribuyente y deberá cubrirse al momento del entero de éstos en la Recaudación de Rentas correspondiente, conforme a la tasa que se fije en las Leyes de Ingresos Municipales.
+Este impuesto se causará sobre el monto de los impuestos, derechos y de los ingresos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago, a cargo del contribuyente y deberá cubrirse al momento del entero de éstos en la Recaudación de Rentas correspondiente, conforme a la tasa que se fije en las Leyes de Ingresos Municipales.
 
 Los ingresos que de este impuesto se recaben, serán destinados exclusivamente a la construcción de áreas o unidades deportivas, a su mantenimiento y a programas deportivos y educacionales.
 
@@ -2558,3 +2588,7 @@ PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de s
 SEGUNDO.- La habilitación a terceros a que hace referencia la presente reforma, podrá autorizarse para efecto de que todas las diligencias de notificación respecto de un área determinada de las autoridades fiscales, se realicen por conducto de éstos.
 
 TERCERO.- Cuando en las disposiciones fiscales municipales se haga referencia a los notificadores o ejecutores, se considerarán incluidos para efectos de las facultades que se indiquen, a los terceros habilitados.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
