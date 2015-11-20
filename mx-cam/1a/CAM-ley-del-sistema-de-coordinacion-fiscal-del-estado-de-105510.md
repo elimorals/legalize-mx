@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-105510"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2015-07-21"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DEL SISTEMA DE COORDINACION FISCAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 26 de diciembre de 2014.
 
@@ -397,9 +399,11 @@ El 20% de los recursos que reciba el Estado por concepto de la recaudación deri
 
 > <small>N. DE E. VÉASE FÓRMULAS EN EL P.O. DE 26 DE DICIEMBRE DE 2014, PÁGINA 212.</small>
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 35.
 
-Se distribuirá a los Municipios el 20% del monto de la recaudación que se obtenga en su territorio por el Impuesto sobre Tenencia o Uso de Vehículos;
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 36.
 
@@ -552,3 +556,13 @@ Cuarto. Para los efectos de la medición de los daños a que se refiere el artí
 Quinto. Las referencias a leyes o reglamentos en este decreto se entenderán hechas a las leyes o reglamentos según estos sean modificados de tiempo en tiempo o a aquellas leyes o reglamentos que los sustituyan.
 
 Sexto. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter federal correspondiente a ejercicios fiscales de 2009 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente, y atenderán en su caso, a las reglas legales de prescripción y caducidad.
+
+TERCERO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter estatal correspondiente a ejercicios fiscales de 2015 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente atendiendo, en su caso, a las reglas legales de prescripción y caducidad.
+
+CUARTO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
