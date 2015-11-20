@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-proteccion-de-los-derechos-y-apoyo-a-los-102428"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2014-09-12"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS Y APOYO A LOS MIGRANTES DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 12 de septiembre de 2014.
 
@@ -227,7 +227,9 @@ V.- Operar y mantener actualizado el Registro;
 
 VI.- Difundir y proporcionar los formatos que se utilizarán en el Registro;
 
-VII.- Diseñar e implementar, conjuntamente con la Procuraduría de los Derechos Humanos y Participación Ciudadana del Estado, los esquemas necesarios que garanticen el acceso inmediato de los migrantes a los servicios y programas de atención operados por dicha Procuraduría, particularmente en los municipios;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+VII.- Diseñar e implementar, conjuntamente con la Comisión Estatal de los Derechos Humanos, los esquemas necesarios que garanticen el acceso inmediato de los migrantes a los servicios y programas de atención operados por dicha Comisión, particularmente en los municipios;
 
 VIII.- Proponer, promover y participar en programas y campañas de atención a migrantes;
 
@@ -324,3 +326,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
