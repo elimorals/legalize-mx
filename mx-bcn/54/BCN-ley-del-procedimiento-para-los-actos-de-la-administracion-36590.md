@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-procedimiento-para-los-actos-de-la-administracion-36590
 country: "mx"
 rank: "ley"
 publication_date: "2004-01-02"
-last_updated: "2009-03-06"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DEL PROCEDIMIENTO PARA LOS ACTOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DEL PROCEDIMIENTO PARA LOS ACTOS DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
+LEY DEL PROCEDIMIENTO PARA LOS ACTOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de enero de 2004.
 
@@ -41,9 +41,9 @@ LEY DEL PROCEDIMIENTO PARA LOS ACTOS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO D
 
 Las disposiciones de esta Ley son de orden e interés públicos, y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública Centralizada y Paraestatal del Poder Ejecutivo del Estado de Baja California.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-Quedan excluidos de la aplicación de ésta Ley, los actos, procedimientos y resoluciones relacionados con las materias siguientes: de carácter estrictamente financiero, fiscal y judicial; seguridad pública, salud, educación, laboral, electoral, participación ciudadana y registral; así como actuaciones de: Ministerio Público en ejercicio de sus funciones legales, de la Dirección de Control y Evaluación Gubernamental del Poder Ejecutivo en lo relativo a la determinación de responsabilidades de los servidores públicos y, de la Procuraduría de los Derechos Humanos y Protección Ciudadana en cuanto a las denuncias que reciba y recomendaciones que formule.
+Quedan excluidos de la aplicación de ésta Ley, los actos, procedimientos y resoluciones relacionados con las materias siguientes: de carácter estrictamente financiero, fiscal y judicial; seguridad pública, salud, educación, laboral, electoral, participación ciudadana y registral; así como actuaciones de: Ministerio Público en ejercicio de sus funciones legales, de la Dirección de Control y Evaluación Gubernamental del Poder Ejecutivo en lo relativo a la determinación de responsabilidades de los servidores públicos y, de la Comisión Estatal de los Derechos Humanos en cuanto a las denuncias que reciba y recomendaciones que formule.
 
 ###### ARTÍCULO 2.
 
@@ -1041,7 +1041,7 @@ SECRETARIO GENERAL DE GOBIERNO
 
 BERNARDO H. MARTINEZ AGUIRRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE MARZO DE 2009.
 
@@ -1052,3 +1052,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan en lo conducente, todas las disposiciones normativas que se opongan a la presente reforma.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
