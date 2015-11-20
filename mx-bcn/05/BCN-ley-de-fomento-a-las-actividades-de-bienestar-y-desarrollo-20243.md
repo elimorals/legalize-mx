@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-las-actividades-de-bienestar-y-desarrollo-2024
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-02"
-last_updated: "2013-10-18"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el día 2 de marzo de 2001.
 
@@ -287,9 +287,11 @@ Los suplentes de los consejeros podrán estar presentes en todas las sesiones y 
 
 Las sesiones del Consejo serán públicas, excepto aquellas que de acuerdo al manual de operación deberán ser privadas.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 15.
 
-Para dar seguimiento a sus acuerdos y acciones el Consejo designará un Secretario Técnico, por mayoría simple de sus miembros. Asimismo, contará con un órgano técnico de apoyo y asesoría de carácter honorario, integrado hasta por seis personas vinculadas directamente con actividades de bienestar y desarrollo social, entre las que se incluiría a un representante de la Procuraduría de los Derechos Humanos y Protección Ciudadana y un trabajador social. El resto será designado por el Consejo y sus funciones las determinará al Reglamento.
+Para dar seguimiento a sus acuerdos y acciones el Consejo designará un Secretario Técnico, por mayoría simple de sus miembros. Asimismo, contará con un órgano técnico de apoyo y asesoría de carácter honorario, integrado hasta por seis personas vinculadas directamente con actividades de bienestar y desarrollo social, entre las que se incluiría a un representante de la Comisión Estatal de los Derechos Humanos y un trabajador social. El resto será designado por el Consejo y sus funciones las determinará al Reglamento.
 
 ###### ARTICULO 16.
 
@@ -548,3 +550,7 @@ C.P. JORGE RAMOS.
 P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
