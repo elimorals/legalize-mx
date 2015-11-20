@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-la-mujer-para-el-estado-de-baja-21659"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-22"
-last_updated: "2013-10-18"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 22 de junio de 2001.
 
@@ -75,7 +75,7 @@ El Instituto estará agrupado en el sector que determine el Titular del Poder Ej
 
 ###### ARTÍCULO 5.
 
-El objeto del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la equidad e igualdad de oportunidades y de trato entre hombres y mujeres, el ejercicio pleno de los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social de la entidad, bajo el criterio de tranversalidad en las políticas públicas y con un enfoque que permita identificar y valorar la desigualdad, discriminación y violencia hacia las mujeres, para generar un cambio mediante estrategias y líneas de acción que propicien la equidad social.
+El objeto del Instituto es promover y fomentar las condiciones que posibiliten la no discriminación, la equidad e igualdad de oportunidades y de trato entre hombres y mujeres, el ejercicio pleno de los derechos de las mujeres y su participación equitativa en la vida política, cultural, económica y social de la entidad, bajo el criterio de tranversalidad (sic) en las políticas públicas y con un enfoque que permita identificar y valorar la desigualdad, discriminación y violencia hacia las mujeres, para generar un cambio mediante estrategias y líneas de acción que propicien la equidad social.
 
 ###### ARTÍCULO 6.
 
@@ -211,15 +211,19 @@ III. El Consejo Consultivo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 2004)</small>
 
-#### SECCIÓN PRIMERA. DE LA JUNTA DIRECTIVA
+#### SECCIÓN PRIMERA. LA JUNTA DIRECTIVO
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 11.
 
 La Junta Directiva será el órgano de gobierno del Instituto, y estará integrado de la siguiente manera:
 
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
+
 I. Un Presidente, que será el Titular de la dependencia coordinadora de sector o la persona que éste designe;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
 II. Las o los Titulares de las siguientes dependencias:
 
@@ -227,15 +231,19 @@ a) Secretaría de Educación y Bienestar Social;
 
 b) Secretaría de Planeación y Finanzas;
 
-c) Secretaría de Trabajo y Previsión Social;
+c) secretaría de Trabajo y Previsión Social;
 
 d) Secretaría de Salud Pública del Estado;
 
-e) Procuraduría General de Justicia del Estado;
+e) Procuraduría General de Justicia del Estado:
 
-f) Procuraduría de los Derechos Humanos y Protección Ciudadana; y,
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+f) Comisión Estatal de los Derechos Humanos; y,
 
 g) Sistema para el Desarrollo Integral de la Familia del Estado.
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
 III. Cinco Vocales municipales;
 
@@ -285,7 +293,7 @@ Las o los integrantes titulares de la Junta Directiva tendrán derecho a voz y v
 
 Para contar con quórum legal, las sesiones de la Junta Directiva deberán celebrarse con la mayoría de sus integrantes, entre ellos, el Presidente.
 
-Las resoluciones de la Junta Directiva se tomarán por mayoría de votos de los integrantes presentes y en caso de empate el Presidente de la Junta Directiva tendrá el voto de calidad.
+Las resoluciones de la Junta Directiva se tomarán por mayoría de votos de los integrantes presentes y en caso de empate el Presidente de la Junta Directiva tendrá voto de calidad.
 
 De cada sesión se levantará acta circunstanciada que deberá ser firmada por quien haya presidido la misma, por la Secretaría Técnica, el Comisario, así como por todos los integrantes de la Junta Directiva.
 
@@ -309,7 +317,7 @@ IV. Proponer las bases conforme a las que deberá sujetarse el Instituto para la
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-V. Otorgar al titular del Instituto poderes generales y especiales necesarios para el cumplimiento del objeto mismo, con las limitaciones que establezcan las disposiciones legales aplicables, así como las que considere necesario determinar;
+V. Otorgar al titular del Instituto poderes generales y especiales necesarios para el cumplimiento del objeto mismo, con las limitaciones que establezcan las disposiciones legales aplicables, así como la que considere necesario determinar;
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
@@ -317,7 +325,7 @@ VI. Aprobar los programas institucional y operativo anual, así como las modific
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
-VII. Aprobar los programas que requieran de financiamiento;
+VII. Aprobar los programas que requieran financiamiento;
 
 > <small>(REFORMADA, P.O. 18 DE JUNIO DE 2004)</small>
 
@@ -582,3 +590,7 @@ P.O. 11 DE OCTUBRE DE 2013.
 P.O. 18 DE OCTUBRE DE 2013.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
