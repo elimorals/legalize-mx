@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2013-05-31"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección III al Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -235,7 +235,7 @@ IX. Contar con atención igual y trato equitativo;
 
 X. A la implementación del Diseño Universal, para la accesibilidad en condiciones dignas y seguras en los espacios públicos abiertos o cerrados, de cualquier índole, acompañados de los elementos de asistencia necesarios;
 
-XI. Tener fácil acceso a la información y atención de las dependencias del estado; y (sic)
+XI. Tener fácil acceso a la información y atención de las dependencias del estado; y
 
 XII. A recibir orientación jurídica en forma gratuita en los términos de la ley de la materia.
 
@@ -299,15 +299,15 @@ i) Instituto del Deporte y la Cultura Física;
 
 j) El Instituto Estatal de Planeación;
 
-k) El Comité de Planeación del Estado; Y (SIC)
+k) El Comité de Planeación del Estado; Y
 
 I) Procuraduría de Justicia del Estado.
 
 II.- Los Ayuntamientos.
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-III.- La Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California.
+III.- La Comisión Estatal de los Derechos Humanos.
 
 > <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -545,7 +545,7 @@ II.- El desarrollo de habilidades, aptitudes y conocimientos que le permitan a l
 
 III.- El fomento y la promoción de todas las potencialidades de las personas con discapacidad para el desarrollo armónico de su personalidad;
 
-IV.- Desarrollar al máximo su capacidad de aprendizaje, enfatizando en el desarrollo de habilidades y competencias para la vida, y (sic)
+IV.- Desarrollar al máximo su capacidad de aprendizaje, enfatizando en el desarrollo de habilidades y competencias para la vida, y
 
 V.- Impulsar la incorporación a la vida social y al sistema de trabajo que permita a la persona con discapacidad servirse a sí mismo, a la sociedad y auto realizarse.
 
@@ -667,7 +667,7 @@ I.- Elaborar el Padrón Estatal de Personas con Discapacidad, que contabilice la
 
 II.- Contar con un registro de las organizaciones civiles de rehabilitación, productivas, educativas, de capacitación, de beneficencia, asistencia, gremiales, sindicales que desempeñen actividades de asistencia social en beneficio de las personas con discapacidad;
 
-III.- Mantener actualizados los datos de registros de las personas con discapacidad en el Sistema de Información Básica en Materia de Asistencia Social;
+III.- Mantener actualizados los datos de registros de las personas con discapacidad en el Sistema de Información Básica en Materia de Asistencia Social:
 
 > <small>(REFORMADA, P.O. 6 DE ENERO DE 2012)</small>
 
@@ -725,11 +725,13 @@ IX.- Fomentar la elaboración de materiales de lectura, inclusive en sistema Bra
 
 X.- Las demás necesarias para el cumplimiento de la presente Ley.
 
-### CAPÍTULO X. FUNCIONES Y ATRIBUCIONES DE LA PROCURADURÍA DE DERECHOS HUMANOS Y PROTECCIÓN CIUDADANA
+### CAPÍTULO X
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+FUNCIONES Y ATRIBUCIONES DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS.
 
-ARTÍCULO 35 BIS.- Procuraduría de los Derechos Humanos y Protección Ciudadana en el ámbito de su competencia, será la autoridad responsable de las acciones que en materia derechos humanos se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes funciones y atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 35 BIS.- La Comisión Estatal de los Derechos Humanos en el ámbito de su competencia, será la autoridad responsable de las acciones que en materia (sic) derechos humanos se impulsen en la presente Ley y en los programas, en favor de las personas con discapacidad en el Estado, debiéndose incluir las siguientes funciones y atribuciones:
 
 I.- Coordinar las actividades relacionadas con los derechos humanos y la discapacidad a nivel estatal y municipal;
 
@@ -837,7 +839,7 @@ g) Promover y concertar convenios con las empresas de telefonía pública para q
 
 h) Las demás que le confieran esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ### CAPÍTULO II. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
@@ -917,11 +919,11 @@ VII. Secretaría de Infraestructura y Desarrollo Urbano, y
 
 VIII. Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 39.
 
-Además de los mencionados en el numeral anterior, el Consejo estará integrado por 9 representantes de la sociedad civil cuyo objeto sea la atención de las personas con discapacidad, las cuales deberán ser uno por cada Consejo Consultivo Municipal, un experto por cada una de las cuatro de las discapacidades reconocidas en la Clasificación Nacional de Discapacidades, con por lo menos cinco años de experiencia en el estudio o atención a personas con discapacidad, y un representante de la Procuraduría de Derechos Humanos y Protección Ciudadana del Estado, cuyo cargo tendrá una duración de tres años con la posibilidad ser ratificados hasta por otro periodo igual.
+Además de los mencionados en el numeral anterior, el Consejo estará integrado por 9 representantes de la sociedad civil cuyo objeto sea la atención de las personas con discapacidad, las cuales deberán ser uno por cada Consejo Consultivo Municipal, un experto por cada una de las cuatro de las discapacidades reconocidas en la Clasificación Nacional de Discapacidades, con por lo menos cinco años de experiencia en el estudio o atención a personas con discapacidad, y un representante de la Comisión Estatal de los Derechos Humanos, cuyo cargo tendrá una duración de tres años con la posibilidad ser ratificados hasta por otro periodo igual.
 
 ###### ARTÍCULO 40.
 
@@ -1108,3 +1110,7 @@ P.O. 31 DE MAYO DE 2013.
 PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
