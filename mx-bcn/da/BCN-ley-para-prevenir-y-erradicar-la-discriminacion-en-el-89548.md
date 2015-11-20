@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-89548"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-10-26"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE OCTUBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 31 de agosto de 2012.
 
@@ -135,7 +133,9 @@ f) A la Procuraduría General de Justicia del Estado;
 
 g) A los Ayuntamientos del Estado;
 
-h) A la Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado; y
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+h) A la Comisión Estatal de los Derechos Humanos; y
 
 i) A los Organismos Constitucionalmente Autónomos.
 
@@ -527,25 +527,31 @@ I. Revisar y en su caso corregir las prácticas de las y los funcionados (sic) p
 
 II. Diseñar, implementar y evaluar tanto el programa como las campañas de difusión para la prevención y atención relacionadas con la trata de personas y la explotación sexual que sufran las personas migrantes;
 
-### CAPÍTULO QUINTO. DE LA PROCURADURÍA DE DERECHOS HUMANOS Y PROTECCIÓN CIUDADANA DE BAJA CALIFORNIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO QUINTO. DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 30.
 
-Corresponde a la Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California prevenir toda forma de discriminación e intolerancia y promover las políticas públicas para la igualdad de oportunidades y de trato a favor de todas las personas.
+Corresponde a la Comisión Estatal de los Derechos Humanos prevenir toda forma de discriminación e intolerancia y promover las políticas públicas para la igualdad de oportunidades y de trato a favor de todas las personas.
 
-Los procedimientos para el cumplimiento de la presente ley se ceñirán a los establecidos para la actuación de la Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado de Baja California, en el ordenamiento que la rige.
+Los procedimientos para el cumplimiento de la presente ley se ceñirán a los establecidos para la actuación de la Comisión Estatal de los Derechos Humanos, en el ordenamiento que la rige.
 
-Compete a la Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California integrar y resolver los expedientes de queja o denuncias sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además, la asesoría necesaria y suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
+Compete a la Comisión Estatal de los Derechos Humanos integrar y resolver los expedientes de queja o denuncias sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además, la asesoría necesaria y suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
 
-En caso de que las conductas o prácticas discriminatorias sean imputables a los particulares, personas físicas o morales, la Procuraduría desplegará su procedimiento de investigación y atención de quejas, con el señalamiento de que el presente ordenamiento es obligatorio para toda persona y no sólo para los órganos públicos, autoridades o servidores públicos. Al efecto, la Procuraduría podrá concluir el procedimiento con la formulación de la recomendación procedente.
+En caso de que las conductas o prácticas discriminatorias sean imputables a los particulares, personas físicas o morales, la Comisión desplegará su procedimiento de investigación y atención de quejas, con el señalamiento de que el presente ordenamiento es obligatorio para toda persona y no sólo para los órganos públicos, autoridades o servidores públicos. Al efecto, la Comisión podrá concluir el procedimiento con la formulación de la recomendación procedente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 31.
 
-La Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y eliminación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre los fenómenos, prácticas y actos discriminatorios.
+La Comisión Estatal de los Derechos Humanos, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y eliminación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre los fenómenos, prácticas y actos discriminatorios.
 
-> <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-En particular la Procuraduría tendrá las siguientes atribuciones en la materia:
+En particular la Comisión tendrá las siguientes atribuciones en la materia:
 
 a) Elaborar, fomentar y difundir estudios sobre prácticas discriminatorias;
 
@@ -559,9 +565,11 @@ e) Tutelar los derechos de las personas o grupos que sufran discriminación, bri
 
 f) Solicitar a cualquier institución pública o a los particulares, la información necesaria para verificar el cumplimiento de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-La Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer.
+La Comisión Estatal de los Derechos Humanos proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer.
 
 > <small>(F. DE E., P.O. 26 DE OCTUBRE DE 2012)</small>
 
@@ -569,27 +577,37 @@ Siempre que las partes en conflicto manifiesten su conformidad, se procurará la
 
 La conciliación no estará sujeta a formalidad alguna, pudiéndose celebrar mediante convenio.
 
-En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley de la Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley de la Comisión Estatal de los Derechos Humanos.
 
 ### CAPÍTULO SEXTO. DE LAS MEDIDAS ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 33.
 
-La Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California dispondrá la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
+La Comisión Estatal de los Derechos Humanos dispondrá la adopción de las siguientes medidas administrativas para prevenir y eliminar la discriminación:
 
 a) La impartición, a las personas o a las instituciones que sean objeto de una recomendación, de cursos o seminarios que promuevan la igualdad de oportunidades;
 
 b) La fijación de carteles en cualquier establecimiento de quienes incumplan alguna disposición de esta ley, en los que se promueva la modificación de las conductas discriminatorias;
 
-c) La presencia del personal de la Procuraduría para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento de quienes sean objeto de una disposición, por el tiempo que disponga la determinación correspondiente;
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-d) La publicación íntegra de la recomendación emitida en el órgano de difusión de la Procuraduría; y
+c) La presencia del personal de la Comisión para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento de quienes sean objeto de una disposición, por el tiempo que disponga la determinación correspondiente;
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+d) La publicación íntegra de la recomendación emitida en el órgano de difusión de la Comisión; y
 
 e) La publicación o difusión de una síntesis de la recomendación en los medios impresos o electrónicos de comunicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 34.
 
-Para determinar el alcance y la forma de adopción de las medidas administrativas dispuestas por la Procuraduría, se tendrán en consideración:
+Para determinar el alcance y la forma de adopción de las medidas administrativas dispuestas por la Comisión, se tendrán en consideración:
 
 a) El carácter intencional de la conducta discriminatoria;
 
@@ -599,9 +617,11 @@ c) La reincidencia.
 
 Se entiende que existe reincidencia cuando la misma persona incurra en dos o más violaciones en el transcurso de un año a la prohibición de discriminar. El plazo se contará a partir del día de la publicación de la recomendación correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-La Procuraduría de Derechos Humanos y Protección Ciudadana del Estado de Baja California podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
+La Comisión Estatal de los Derechos Humanos podrá otorgar un reconocimiento a las instituciones públicas o privadas, así como a los particulares que se distingan por llevar a cabo programas y medidas para prevenir la discriminación en sus prácticas, instrumentos organizativos y presupuestos.
 
 El reconocimiento será otorgado previa solicitud de la organización o la institución interesada.
 
@@ -634,3 +654,9 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
