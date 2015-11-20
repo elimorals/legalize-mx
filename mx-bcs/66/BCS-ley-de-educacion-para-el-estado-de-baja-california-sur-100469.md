@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-100469"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-22"
-last_updated: "2015-09-01"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 22 de abril de 2014.
 
@@ -57,13 +57,25 @@ La educación es el medio fundamental para adquirir, transmitir y acrecentar la 
 
 En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y su sentido de responsabilidad social, para alcanzar los fines a que se refiere el Artículo 7 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 3.
 
-El Estado, los Municipios, sus organismos descentralizados están obligados a prestar servicios educativos de calidad que garanticen el máximo logro de aprendizaje de los educandos para que toda la población pueda cursar la educación preescolar, primaria, secundaria y media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado de Baja California Sur, y conforme a la distribución de la función social establecida en la Ley General de Educación, esta Ley y las disposiciones administrativas que deriven de la misma, respetando y favoreciendo el desarrollo de la población del Estado de Baja California Sur.
+Conforme al interés superior de la niñez, el Estado, los Municipios, sus organismos descentralizados están obligados a prestar servicios educativos de calidad que garanticen el máximo logro de aprendizaje de los educandos para que toda la población pueda cursar la educación preescolar, primaria, secundaria y media superior. Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado de Baja California Sur, y conforme a la distribución de la función social establecida en la Ley General de Educación, esta Ley y las disposiciones administrativas que deriven de la misma, respetando y favoreciendo el desarrollo de la población del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+Asimismo, la educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, deberá basarse en un enfoque de derechos humanos y de igualdad que garantice el respeto a la dignidad humana de las personas, el desarrollo armónico de sus potencialidades y de personalidad, y que fortalezca la protección, el ejercicio y el respeto a los derechos humanos y a las libertades fundamentales, en los términos del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, del Artículo 10 de la Constitución Política del Estado Libre y Soberano de Baja California Sur y de los tratados internacionales de los que el Estado mexicano sea parte.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 4.
 
-Todos los habitantes de Baja California Sur tienen derecho a cursar la educación preescolar, primaria, secundaria y media superior. Es obligación de los padres o tutores, hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, primaria, secundaria y media superior.
+Todos los habitantes de Baja California Sur tienen el derecho y la obligación de cursar la educación preescolar, primaria, secundaria y media superior. Es obligación de los padres o tutores, hacer que sus hijos o pupilos menores de edad cursen la educación preescolar, primaria, secundaria y media superior.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+Atendiendo al principio rector del interés superior de la niñez, ningún interés podrá estar por encima del derecho a la educación de niñas, niños y adolescentes, que imposibilite el pleno ejercicio de este derecho o que impida su acceso y permanencia en los servicios educativos prestados por el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial.
 
 ###### ARTÍCULO 5.
 
@@ -119,9 +131,11 @@ XVI.- Realizar acciones educativas y preventivas a fin de evitar que se cometan 
 
 XVII.- Fomentar la educación vial de forma permanente con carácter de obligatoriedad dentro de las instituciones públicas y privadas a fin de que los educandos obtengan los conocimientos y hábitos de la prevención de accidentes viales y la protección de todos los habitantes en la vía pública ya sea conductores, pasajeros y peatones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 8.
 
-El criterio que orientará la educación que el Estado y sus organismos descentralizados, así como los particulares impartan, se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en todos los órdenes de gobierno, además:
+El criterio que orientará la educación que el Estado y sus organismos descentralizados, así como toda la educación preescolar, la primaria, la secundaria, media superior, la normal y demás para la formación de maestros de educación básica que los particulares impartan, atenderá en todo momento el interés superior de la niñez; se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios en todos los órdenes de gobierno, además:
 
 I.- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento, económico, social y cultural del pueblo;
 
@@ -166,6 +180,10 @@ X.- La infraestructura educativa.
 ###### ARTÍCULO 11.
 
 La aplicación y la vigilancia del cumplimiento de esta ley corresponden a las autoridades educativas del Estado y de los Municipios:
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+Las actuaciones y decisiones que tomen dichas autoridades deberán considerar, primordialmente, el interés superior de la niñez, cuando se trate de la educación que concierna a niñas, niños y adolescentes. Las autoridades establecerán los mecanismos necesarios para garantizar este principio.
 
 Para los efectos de la presente Ley, se entenderá por:
 
@@ -1313,6 +1331,10 @@ Cuando la autoridad educativa responsable de la prestación del servicio, o que 
 
 La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obre en el expediente.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+Cuando se tome una decisión que afecte a educandos menores de edad, en lo individual o colectivo, las autoridades educativas y escolares deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
+
 Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socio-económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
 ###### ARTÍCULO 112.
@@ -1322,6 +1344,10 @@ La negativa o revocación de la autorización otorgada a particulares produce ef
 El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras que la institución contaba con el reconocimiento, mantendrán su validez oficial.
 
 La autoridad que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+Dicha resolución deberá considerar de manera primordial el interés superior de la niñez cuando se trate de decisiones sobre una cuestión que involucre a educandos menores de edad.
 
 En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir funcionando, a juicio y bajo la vigilancia de la autoridad, hasta que aquel concluya.
 
@@ -1474,3 +1500,7 @@ El presente Decreto entrara en vigor a partir del ejercicio fiscal del año 2016
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
