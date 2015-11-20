@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-01"
-last_updated: "2014-08-01"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección II al Periódico Oficial del Estado de Baja California, el viernes 1 de octubre de 2010.
 
@@ -97,7 +97,9 @@ IX.- Indicadores de Gestión: Los instrumentos o parámetros de medición que pe
 
 X.- Ley: Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
 
-XI.- Órganos Constitucionales Autónomos: El Instituto Electoral y de Participación Ciudadana del Estado de Baja California, el Tribunal de lo Contencioso Administrativo, la Procuraduría de los Derechos Humanos y, Protección Ciudadana, el Instituto de Transparencia y Acceso a la Información Pública, y los demás órganos que, con esa naturaleza, se establezcan en la Constitución Política del Estado.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+XI.- Órganos Constitucionales Autónomos: El Instituto Estatal Electoral, el Tribunal de lo Contencioso Administrativo, la Comisión Estatal de los Derechos Humanos, el Instituto de Transparencia y Acceso a la Información Pública, y los demás órganos que, con esa naturaleza, se establezcan en la Constitución Política del Estado.
 
 XII.- Órgano Garante: El Instituto de Transparencia y Acceso a la Información Pública del Estado de Baja California.
 
@@ -237,11 +239,9 @@ XXV.- Cualquier otra información que sea de utilidad o se considere relevante, 
 
 Los sujetos obligados deberán actualizar la información de oficio contenida en el artículo anterior, conforme a los plazos siguientes:
 
-I.- Anualmente, tratándose de la información comprendida en las fracciones I a la
+I.- Anualmente, tratándose de la información comprendida en las fracciones I a la V;
 
-V;
-
-Il.- Trimestralmente, la contenida en las fracciones VI a la XVIII;
+II.- Trimestralmente, la contenida en las fracciones VI a la XVIII;
 
 III.- Dentro de los cinco días naturales a su expedición, la contenida en las fracciones XVI a la XIX; y
 
@@ -353,9 +353,11 @@ VIII- Inventario de vehículos y asignación.
 
 Además de la información que le resulte aplicable contenida en el artículo 11 de esta Ley, el Instituto Electoral y de Participación Ciudadana del Estado de Baja California, deberá dar a conocer aquella que con respecto a los partidos políticos, señale la ley electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-Además de la información que le resulte aplicable contenida en el artículo 11, la Procuraduría de Derechos Humanos del Estado de Baja California deberá hacer pública y actualizar de forma permanente, la siguiente información:
+Además de la información que le resulte aplicable contenida en el artículo 11, la Comisión Estatal de los Derechos Humanos deberá hacer pública y actualizar de forma permanente, la siguiente información:
 
 I.- Las denuncias o quejas recibidas;
 
@@ -831,7 +833,7 @@ Una vez admitida la solicitud de información por la Unidad de Transparencia, se
 
 I.- Remitirá la solicitud de información al Titular, con el objeto de que éste la localice.
 
-Il.- Recibida la solicitud por el Titular, éste remitirá la información en el formato en el que se encuentre disponible, a la Unidad de Transparencia, o en su caso, el acuerdo que funde y motive que la información es considerada como reservada o confidencial.
+II.- Recibida la solicitud por el Titular, éste remitirá la información en el formato en el que se encuentre disponible, a la Unidad de Transparencia, o en su caso, el acuerdo que funde y motive que la información es considerada como reservada o confidencial.
 
 Cuando la información sea negada al solicitante, la Unidad de Transparencia remitirá al Comité, copia de la determinación que se le entregue al interesado.
 
@@ -1218,3 +1220,7 @@ P.O. 1 DE AGOSTO DE 2014.
 PRIMERO.- Los sujetos obligados en los términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California, deberán realizar las adecuaciones a sus Reglamentos en un plazo no mayor a 60 días naturales.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
