@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-consejo-de-nomenclatura-y-monumentos-del-59270"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-04"
-last_updated: "2015-06-12"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DEL MUNICIPIO DE ENSENADA, DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 4 de enero de 2008.
 
@@ -59,9 +59,11 @@ REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DEL MUNICIPIO DE ENSENADA, B
 
 OBJETO Y ATRIBUCIONES DEL CONSEJO.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 1.
 
-Este Reglamento tiene por objeto regular el procedimiento, para asignar nombre a las Calles, Avenidas, Calzadas, Reformas, Glorietas, Colonias, Fraccionamientos, Plazas, Edificios Públicos, Centros Urbanos, Semi-Urbanos y Poblaciones Rurales, Puntos ó Accidentes Geográficos, así como para la y (sic) reubicación de monumentos y colocación de placas conmemorativas en el Municipio de Ensenada, Baja California.
+Este Reglamento tiene por objeto regular el procedimiento, para asignar nombre a las Calles, Avenidas, Calzadas, Reformas, Glorietas, Colonias, Fraccionamientos, Plazas, Edificios Públicos, Centros Urbanos, Semi-Urbanos y Poblaciones Rurales, Puntos ó Accidentes Geográficos, así como para la ubicación y reubicación de monumentos y colocación de placas conmemorativas en el Municipio de Ensenada, Baja California.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -100,6 +102,10 @@ e) Constituir Comités ó equipos de trabajo que considere necesarios, para dar 
 f) Llevar un registro de la nomenclatura, monumentos y placas conmemorativos del Municipio de Ensenada, B. C.
 
 g) En general llevar a cabo todos los actos, que para el cumplimiento del objeto de este reglamento sean necesarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+h) Coadyuvar con la Dirección de Administración de Bienes Patrimoniales, por sí o por conducto del Secretario Técnico, para el registro y control de los monumentos y placas conmemorativas.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2015)</small>
 
@@ -470,3 +476,9 @@ P.O. 12 DE JUNIO DE 2015.
 PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO: El representante de las asociaciones de historia de Ensenada, Baja California, considerado en el artículo 7 del presente Reglamento, deberá ser designado por las mismas, en un plazo no mayor a 15 días hábiles, posteriores a la entrada en vigor de la presente reforma; por lo que el Presidente del Consejo por conducto del Secretario Técnico del mismo, deberá realizar de forma inmediata la invitación correspondiente a fin de que realicen dicha designación. En el entendido que su duración como vocales del Consejo será hasta la renovación del mismo en los términos del artículo 13.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 69 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA; REFORMA LOS ARTÍCULOS 4 Y 10 DEL REGLAMENTO DE BIENES PATRIMONIALES; REFORMA EL ARTÍCULO 1 Y ADICIONAR EL INCISO H DEL ARTÍCULO 4 DEL REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
