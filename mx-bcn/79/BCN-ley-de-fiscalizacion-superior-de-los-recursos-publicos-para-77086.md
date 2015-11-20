@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fiscalizacion-superior-de-los-recursos-publicos-para-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2015-05-22"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FISCALIZACIÓN SUPERIOR DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -137,7 +137,9 @@ b. En los Poderes Legislativo y Judicial y el Tribunal de lo Contencioso Adminis
 
 c. En los Municipios, el Presidente Municipal tratándose de la administración pública centralizada y en relación a las entidades paramunicipales las personas físicas señaladas como responsables de acuerdo a su instrumento de creación; y,
 
-d. En el Instituto Electoral y de Participación Ciudadana del Estado de Baja California, el Presidente del Consejo General Electoral, en la Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado, el Procurador de los Derechos Humanos, y en los demás Órganos Autónomos, las personas físicas designadas como Presidentes por la Ley de su creación.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+d. En el Instituto Estatal Electoral, el Presidente del Consejo General Electoral, en la Comisión Estatal de los Derechos Humanos, el Presidente de la Comisión Estatal de los Derechos Humanos, y en los demás Órganos Autónomos, las personas físicas designadas como Presidentes por la Ley de su creación.
 
 ## TÍTULO SEGUNDO. DE LAS CUENTAS PÚBLICAS Y LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
@@ -1244,5 +1246,9 @@ PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- Túrnese las presentes Reformas al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
 
 P.O. 22 DE MAYO DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
