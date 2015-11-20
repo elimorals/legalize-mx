@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2015-11-13"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -90,6 +90,10 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación del Gobierno del Estado y de los municipios, así como la de la ciudadanía para la consecución de dichos fines, priorizando la cultura del agua.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+Toda persona tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -969,7 +973,7 @@ Para ser Diputado se requiere:
 
 I.- Ser ciudadano guanajuatense en ejercicio de sus derechos;
 
-II.- Tener por lo menos 21 años cumplidos al día de la elección; y,
+II.- (DEROGADA, P.O. 20 DE NOVIEMBRE DE 2015); y,
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
@@ -3716,3 +3720,15 @@ Artículo Segundo. El Congreso del Estado deberá adecuar la Ley Orgánica Munic
 P.O. 13 DE NOVIEMBRE DE 2015.
 
 Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 7 POR EL QUE SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 45 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 8 POR EL QUE SE ADICIONA UN PÁRRAFO NOVENO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
