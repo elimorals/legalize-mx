@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-la-maternidad-para-el-estado-de-baja-96581"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-18"
-last_updated: "2013-10-18"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 18 de octubre de 2013.
 
@@ -85,7 +85,7 @@ XII. DIF Estatal: Sistema para el Desarrollo Integral de la Familia de Baja Cali
 
 XIII. DIF Municipal: Los Sistemas para el Desarrollo Integral de la Familia en cada Municipio del Estado de Baja California;
 
-XIV. Red de Apoyo a Mujeres Embarazadas: Red implementada por el Ejecutivo Estatal a través del Sistema para el Desarrollo Integral de la Familia de Baja California, donde convergen organizaciones públicas y privadas a efecto de que brinden asesoría y apoyo a las mujeres para superar cualquier conflicto que se les presente durante el embarazo, parto e infancia temprana del menor; (sic)
+XIV. Red de Apoyo a Mujeres Embarazadas: Red implementada por el Ejecutivo Estatal a través del Sistema para el Desarrollo Integral de la Familia de Baja California, donde convergen organizaciones públicas y privadas a efecto de que brinden asesoría y apoyo a las mujeres para superar cualquier conflicto que se les presente durante el embarazo, parto e infancia temprana del menor;
 
 ###### Artículo 5.
 
@@ -159,7 +159,9 @@ IV. Los Municipios del Estado, en el ámbito de sus competencias;
 
 V. Los Sistemas Municipales para el Desarrollo Integral de la Familia correspondientes a cada uno de los Ayuntamientos de Baja California;
 
-VI. La Procuraduría de los Derechos Humanos y Protección Ciudadana del Estado de Baja California;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+VI. La Comisión Estatal de los Derechos Humanos;
 
 VII. La Secretaría de Desarrollo Social del Estado;
 
@@ -311,9 +313,11 @@ Las disposiciones previstas en este Capítulo aplicarán también para el caso d
 
 Los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Las autoridades previstas por esta Ley implementarán programas de apoyo subsidiario para materializar el acceso a estos derechos.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 29.
 
-Es obligación de la Procuraduría de los Derechos Humanos y Protección Ciudadana proveer lo necesario para propiciar la protección de la salud, el respeto, la dignidad y el ejercicio pleno de sus derechos a la niñez; en concordancia a la legislación aplicable para protección de la niñez en el Estado.
+Es obligación de la Comisión Estatal de los Derechos Humanos proveer lo necesario para propiciar la protección de la salud, el respeto, la dignidad y el ejercicio pleno de sus derechos a la niñez; en concordancia a la legislación aplicable para protección de la niñez en el Estado.
 
 ### CAPÍTULO V. CONCURRENCIA DE NORMAS
 
@@ -354,3 +358,9 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
