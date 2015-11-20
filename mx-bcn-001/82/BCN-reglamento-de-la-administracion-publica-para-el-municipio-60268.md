@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2015-10-23"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -513,11 +513,13 @@ Las dependencias de la administración pública centralizada tendrán a su cargo
 
 ### CAPITULO SEGUNDO. DE LA OFICINA DE LA PRESIDENCIA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 36.
 
-Para el cumplimiento de sus funciones, contará con un Jefe de la Oficina, a quien corresponde:
+Para el cumplimiento de sus funciones, la oficina de la Presidencia Municipal contará con un Jefe de la Oficina, a quien corresponde:
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 I. Tener a su cargo y coordinar la operatividad de las siguientes unidades administrativas:
 
@@ -535,33 +537,53 @@ f. Secretaría Privada
 
 g. Unidad Municipal Concentradora de Transparencia y Acceso a la Información Pública
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
-
 h. Unidad Municipal de Gestión Empresarial y Mejora Regulatoria.
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
 i. Dirección General de Pesca y Acuacultura Sustentable.
 
+j. Dirección de Bomberos
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 II. Instruir al Coordinador Administrativo para la realización del presupuesto, así como supervisar que la aplicación del mismo se efectúe en las actividades propias de la Oficina del Presidente Municipal, tomando en cuenta las actividades de la agenda temática anual, y apegándose a las políticas que (sic) en materia de egresos.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 III. Asegurar que las actividades de la Ayudantía del Gobierno Municipal sean llevadas a cabo con eficiencia y, que su intervención en eventos se maneje de forma coordinada.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 IV. Verificar que se dé una adecuada atención ciudadana en la Oficina del Presidente Municipal, así como el seguimiento correspondiente.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 V. Dictar los lineamientos de la agenda temática global del Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 VI. Proveer al Presidente Municipal las líneas estratégicas de discurso.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 VII. Dictar los lineamientos en la realización de las actividades, eventos y giras del Ejecutivo Municipal;
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 VIII. Recibir para su evaluación de la Dirección de Comunicación Social los programas y estrategias de comunicación, de conformidad con las políticas dictadas por el Presidente Municipal a través de esta Coordinación.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 IX. Verificar que el manual de imagen institucional del Ayuntamiento se aplique correctamente;
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 X. Recibir para su evaluación de la Dirección de Comunicación Social manuales operativos por evento específico;
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+
 XI. Recibir para su evaluación de la Dirección de Relaciones Públicas manuales protocolarios para cada evento.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
 
 XII. Aplicar las disposiciones relativas a la administración de documentos públicos de Transparencia y acceso a la información pública, operando el archivo de trámite la Unidad Municipal Concentradora de Transparencia y acceso a la información.
 
@@ -793,7 +815,7 @@ XVIII. Asistir a las juntas convocadas por el ejecutivo municipal;
 
 XIX. Proponer al ejecutivo municipal, atreves (sic) de la secretaria general del ayuntamiento la celebración de convenios, acuerdos y contratos con los sectores público, privado y social, que incluyan materias competencia de la Dirección;
 
-XX. Elaborar los anteproyectos de ley , reglamentos decretos y acuerdos, cuya materia corresponda a sus atribuciones y funciones, y proponerlos al ejecutivo municipal, a través de la secretaria general del ayuntamiento;
+XX. Elaborar los anteproyectos de ley, reglamentos decretos y acuerdos, cuya materia corresponda a sus atribuciones y funciones, y proponerlos al ejecutivo municipal, a través de la secretaria general del ayuntamiento;
 
 XXI. Presentar ante la Dirección de planeación y Gestión financiera, el anteproyecto de presupuesto anual de ingresos y egresos de la dirección, para su aprobación y consideración en la respectiva ley de ingresos, y presupuesto de egresos del Gobierno Municipal;
 
@@ -1623,6 +1645,10 @@ La Dirección de Recursos Materiales, tendrá a su cargo la revisión y autoriza
 
 La Dirección de Administración de Bienes Patrimoniales tendrá a su cargo el control, supervisión y la custodia de los bienes municipales, incluyendo en éstos a los Bienes Muebles, Inmuebles y el Archivo Municipal, así como la operatividad de los talleres encargados del mantenimiento de los vehículos propiedad del Gobierno Municipal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+Los monumentos y placas conmemorativas, se consideran como bienes inmuebles de conformidad con el Código Civil para el Estado de Baja California, por lo que su registro, control, supervisión, custodia y mantenimiento son responsabilidad de la Dirección de Administración de Bienes Patrimoniales, quien se coordinará para dicho fin con el Consejo de Nomenclatura y Monumentos de Ensenada y de la Dirección de Servicios Públicos.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
 
 ### CAPITULO QUINTO. SECRETARIA DE ADMINISTRACIÓN URBANA
@@ -1827,9 +1853,9 @@ II.- Coordinar, evaluar y dar seguimiento al Programa de Seguridad Pública del 
 
 III.- Observar y vigilar el cumplimiento de las disposiciones y normas establecidas en reglamentos y bandos que le confieran atribuciones;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-IV.- Establecer las disposiciones, programas de educación preventiva, normas operativas y administrativas necesarias para la debida prestación de los servicios de tránsito, seguridad pública y bomberos;
+IV.- Establecer las disposiciones, programas de educación preventiva, normas operativas y administrativas necesarias para la debida prestación de los servicios de tránsito y seguridad pública;
 
 V.- Formular lineamientos que regulen y orienten los programas y acciones de seguridad pública en el municipio, a efecto de prevenir y en su caso impedir, la comisión de actos ilícitos o faltas administrativas que afecten la salud, seguridad e integridad de las personas, daños a bienes públicos o privados, y en general, la violación de las disposiciones reglamentarias.
 
@@ -1853,15 +1879,11 @@ XIV.- Autorizar, dar seguimiento y evaluar la operación y funcionamiento de los
 
 XV.- Las demás que establezcan las Leyes, Bases de Coordinación en materia de seguridad pública, Reglamentos o le instruya el Presidente.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 80.
 
-Para el desempeño de sus funciones la Dirección de Seguridad Pública contará con una organización Interna, cuyas facultades y atribuciones estarán contenidas en el Reglamento Orgánico de la Secretaría, así como los reglamentos internos de las siguientes Subdirecciones:
-
-I.- Subdirección de Policía y Tránsito Municipal; y
-
-II.- Subdirección de Bomberos.
+Para el desempeño de sus funciones la Dirección de Seguridad Publica contará con una organización Interna, cuyas facultades y atribuciones estarán contenidas en el Reglamento Orgánico de la Secretaría, así como los reglamentos internos de la Subdirección de Policía y Tránsito Municipal;
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
 
@@ -1955,15 +1977,15 @@ XV.- Coordinarse con las autoridades sanitarias para vigilar que se conserve y m
 
 XVI.- Capacitar y coordinar un cuerpo de elementos para la elaboración de peritajes de hechos de tránsito;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCION SEGUNDA. DE LA SUBDIRECCIÓN DE BOMBEROS
+#### SECCION SEGUNDA. DE LA DIRECCIÓN DE BOMBEROS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 84.
 
-A la Subdirección de Bomberos le corresponde el despacho de los siguientes asuntos:
+A la Dirección de Bomberos le corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
@@ -1992,6 +2014,22 @@ VI.- Expedir los certificados de aprobación de los dispositivos de seguridad y 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2010)</small>
 
 VII.- Las demás, que este Reglamento, las Leyes Federales, Estatales y la Legislación Municipal, les confieren.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 84 BIS.- La Dirección de Bomberos estará integrada por:
+
+I.- Un Director
+
+a).- Subdirector operativo
+
+1.- Jefe operativo
+
+2.- Jefe de batallón
+
+b).- Coordinador de inspectores
+
+c).- Coordinador administrativo.
 
 ### CAPITULO SEPTIMO. DE LA SECRETARIA DE DESARROLLO SOCIAL
 
@@ -2770,3 +2808,15 @@ P.O. 25 DE SEPTIEMBRE DE 2015.
 P.O. 23 DE OCTUBRE DE 2015.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ACUERDO POR EL QUE SE APRUEBA REFORMAR LOS ARTÍCULOS 36, 79, 80 Y 84 Y ADICIONAR EL ARTÍCULO 84 BIS DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA.
+
+UNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 69 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA; REFORMA LOS ARTÍCULOS 4 Y 10 DEL REGLAMENTO DE BIENES PATRIMONIALES; REFORMA EL ARTÍCULO 1 Y ADICIONAR EL INCISO H DEL ARTÍCULO 4 DEL REGLAMENTO DEL CONSEJO DE NOMENCLATURA Y MONUMENTOS DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
