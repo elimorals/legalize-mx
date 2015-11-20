@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2015-07-10"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -69,7 +69,7 @@ Los Diputados son responsables de los delitos que cometan durante el tiempo de s
 
 ###### ARTICULO 5.
 
-El desempeño de la función pública de los Diputados es incompatible con cualquier otro cargo de elección popular o por designación, independientemente del orden de gobierno de que se trate salvo los docentes u honoríficos.
+El desempeño de la función pública de los Diputados es incompatible con cualquier otro cargo de elección popular o por designación, independientemente del orden de gobierno de que se trate, salvo los docentes u honoríficos.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -847,7 +847,7 @@ En cumplimiento de sus atribuciones las comisiones se sujetarán a los procedimi
 
 > <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
 
-Las Comisiones que requieran información de otra, la solicita (sic) directamente a través de su Presidente. Igualmente atiende las peticiones de otras comisiones, o de diputados relacionados con asuntos de su competencia. En ambos casos considerará el estado que guardan los asuntos de que se trata.
+Las Comisiones que requieran información de otra, la solicita (sic) directamente a través de su Presidente. Igualmente atiende las peticiones de otras comisiones o de diputados relacionados con asuntos de su competencia. En ambos casos considerará el estado que guardan los asuntos de que se trata.
 
 > <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
 
@@ -1083,9 +1083,9 @@ XII.- (DEROGADA, G.P. 14 DE OCTUBRE DE 2010)
 
 XIII.- Remitir a la Junta de Coordinación Política, el dictamen respecto a las propuestas de los candidatos a ocupar los cargos de Consejeros Electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana de (sic) Estado;
 
-> <small>(REFORMADA, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-XIV.- Turnar a la Junta de Coordinación Política el dictamen correspondiente al Procurador de los Derechos Humanos y Protección Ciudadana del Estado, previa revisión del cumplimiento de los requisitos señalados en las leyes;
+XIV.- Turnar a la Junta de Coordinación Política el dictamen correspondiente al Presidente de la Comisión Estatal de los Derechos Humanos, previa revisión del cumplimiento de los requisitos señalados en las leyes;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.P. 27 DE AGOSTO DE 2013)</small>
 
@@ -1325,9 +1325,9 @@ El desempeño de las atribuciones y obligaciones de la Secretaría de Servicios 
 
 La Secretaría de Servicios Administrativos implementará el programa de administración sustentable, que comprenderá los aspectos de manejo de residuos sólidos, fomento de uso de energías alternativas y ahorro de agua, disminución del impacto negativo al medio y entorno generado por las actividades cotidianas del Poder Legislativo, promoción del manejo de tecnologías, capacitación y formación ambiental.
 
-(REUBICADO [ANTES PÁRRAFO CUARTO], G.P. 27 DE AGOSTO DE 2013)
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-Asimismo la Secretaría de Servicios Administrativos, por conducto de la Dirección General de Administración, emitirá e implementará programas de capacitación para el personal de nuevo ingreso del Congreso del Estado, así como programas de capacitación permanente para todos sus servidores públicos, según la naturaleza de las funciones que desempeñen.
+La Secretaría de Servicios Administrativos implementará el programa de desarrollo ambiental.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
@@ -1599,7 +1599,7 @@ ARTICULO 87 BIS.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 TER.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-ARTICULO 87 QUARTER (SIC).- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
+ARTICULO 87 QUARTER (SIC) .- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 QUINQUIES.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
@@ -2023,7 +2023,7 @@ El Presidente del Congreso declarará abierto el debate una vez que se haya dado
 
 ###### ARTICULO 128.
 
-El Presidente formulará una lista de los Diputados que pidiesen la palabra en pro y otra de los que la pidiesen en contra, las cuales leerá íntegras antes de preguntar si algún otro Diputado desea hablar en pro o en contra e iniciar las discusiones.
+El Presidente formulará una lista de los Diputados que pidiesen la palabra en pro y otra de los que la pidiesen en contra, las cuales leerá integras antes de preguntar si algún otro Diputado desea hablar en pro o en contra e iniciar las discusiones.
 
 ###### ARTICULO 129.
 
@@ -2491,6 +2491,24 @@ El Congreso del estado cuenta con un órgano oficial de información denominado 
 
 El Diario de los Debates se publica dentro de los cinco días hábiles posteriores al término de la sesión, indistintamente en medio impreso o en la página electrónica del Congreso en Internet.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+## TÍTULO DÉCIMO. PRÁCTICAS SUSTENTABLES
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTICULO 173.
+
+El Poder Legislativo contará con un programa de desarrollo ambiental, para regular prácticas ambientales sustentables en todas sus oficinas e instalaciones.
+
+El programa contemplará el sistema de manejo ambiental, que incluya capacitación, formación y mejoramiento ambiental en la prestación de servicios.
+
+Asimismo regulará la eficiencia administrativa, con políticas para lograr el consumo racional y sustentable de los recursos materiales y financieros, así como las adquisiciones de bienes para la prestación de sus servicios y cumplimiento de sus funciones, optando por la utilización y el consumo de productos compuestos total o parcialmente de materiales valorizables.
+
+La Secretaría de Servicios Administrativos se encargará de implementar y dar seguimiento al programa de desarrollo ambiental, incluyendo todas las acciones derivadas del mismo que comprenderán los aspectos de manejo de residuos sólidos, fomento de uso de energías alternativas y ahorro de agua, disminución del impacto negativo al medio y entorno generado por las actividades cotidianas del Poder Legislativo.
+
+Las oficinas e instalaciones de este Poder Legislativo contarán con contenedores especiales para el reciclaje de las distintas clases de desperdicios, atendiendo al programa de desarrollo ambiental.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
@@ -2595,7 +2613,7 @@ P.O. 18 DE DICIEMBRE DE 2009.
 
 P.O. 2 DE JULIO DE 2010.
 
-PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el periódico Oficial del Estado de Baja California.
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a las presentes reformas y continúan vigentes los actos, resoluciones, acuerdos y demás disposiciones de carácter general emitidas con fundamento en la Ley que se reforma.
 
@@ -2633,7 +2651,7 @@ P.O. 15 DE JULIO DE 2011.
 
 P.O. 2 DE SEPTIEMBRE DE 2011.
 
-PRIMERO.- Dado que la presente reforma implica modificaciones a la Ley Orgánica del Poder Legislativo del Estado y por consecuencias a su vida interna, entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
+PRIMERO.- Dado que la presente reforma implica modificaciones a la Ley Orgánica del Poder Legislativo del Estado y por consecuencia a su vida interna, entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones normativas que contravengan el presente ordenamiento.
 
@@ -2752,3 +2770,19 @@ SEGUNDO.- EN ACATAMIENTO A LA RESOLUCIÓN DEL PLENO DE LA SUPREMA CORTE DE JUSTI
 TERCERO.- NOTÍFIQUESE A LA SUPREMA CORTE DE JUSTICA (SIC) DE LA NACIÓN EL CABAL CUMPLIMIENTO DE EJECUTORIA 70/2010 CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010, DE FECHA 18 MARZO DE 2014, REMITIÉNDOSE COPIA CERTIFICADAS DE LAS DOCUMENTALES QUE ASI LO JUSTIFIQUEN.
 
 ARTÍCULO TRANSITORIO ÚNICO.- Una vez aprobadas las presentes reformas, remítanse al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+DECRETO No. 358, POR EL QUE SE APRUEBAN LAS REFORMAS AL PÁRRAFO SÉPTIMO DEL ARTÍCULO 77, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 173 Y DEL TÍTULO DÉCIMO DE LAS PRÁCTICAS SUSTENTABLES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado y deberá publicarse en la Gaceta Parlamentaria de este Poder Legislativo.
+
+SEGUNDO.- El Poder Legislativo deberá incluir en su presupuesto de egresos para el ejercicio fiscal 2016, los recursos económicos necesarios a fin de dar cumplimiento a las presentes reformas.
+
+TERCERO.- Una vez aprobadas las presentes reformas por el Congreso del Estado, remítase al Titular del Poder Ejecutivo para su debida publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+DECRETO No. 359, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
