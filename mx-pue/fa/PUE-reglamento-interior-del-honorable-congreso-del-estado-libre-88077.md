@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2015-07-20"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -786,6 +786,22 @@ b) Proponer e impulsar las actividades legislativas que permitan incrementar la 
 c) Promover y garantizar la participación ciudadana en la toma de decisiones; y
 
 d) Las demás que le confiera este Reglamento, las leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+XXXV.- DE LA FAMILIA Y SU DESARROLLO INTEGRAL:
+
+a) Revisar el marco normativo en el que se establece todo lo relacionado a la familia, a su protección y desarrollo, así como el de asistencia social y desarrollo humano;
+
+b) Revisar la normatividad, política, planes y programas de desarrollo humano y asistencia social a nivel nacional;
+
+c) Atender las políticas públicas que vean a la familia poblana de manera integral, a través de la colaboración e interrelación del Poder Legislativo con los sistemas estatal y municipales de desarrollo integral de la familia en el Estado de Puebla;
+
+d) Organizar foros, mesas de trabajo, estudios y demás acciones de investigación que estén encaminadas a fortalecer y sobretodo garantizar que aterricen en la realidad social, los derechos de la familia;
+
+e) Dar seguimiento de manera integral, a las políticas públicas nacionales, estatales y municipales que impactan en el territorio del Estado de Puebla en temas relacionados con la familia, siempre desde una posición de respeto a los valores de: libertad, equidad, igualdad de derechos y deberes, solidaridad y respeto recíproco, y
+
+f) Las demás que se deriven de su denominación de atender el derecho de familia.
 
 #### SECCIÓN SEGUNDA. DE LAS COMISIONES TRANSITORIAS
 
@@ -2833,47 +2849,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+P.O. 20 DE NOVIEMBRE DE 2015.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
+## [N. DE E. TRANSITORIOS DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXXIII Y XXXIV DEL ARTÍCULO 123, Y ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO Y SOBERANO DE PUEBLA, Y ADICIONA LA FRACCIÓN XXXV AL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
-TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+SEGUNDO. Los asuntos en trámite que se encuentren turnados a la Comisión Especial de la Familia y su Desarrollo Integral con motivo de la entrada en vigor de este Decreto deberán pasar a la Comisión Ordinaria de la Familia y su Desarrollo Integral.
 
-CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
-
-QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
-
-SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
-
-SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
-
-OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
-
-NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
-
-DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
-
-DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
-
-> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
-
-DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial “Gaceta del Gobierno” el cinco de enero de dos mil seis.
-
-DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
-
-G.G. 16 DE DICIEMBRE DE 2016.
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 170.- POR EL QUE SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 46 Y LA FRACCIÓN VI DEL ARTÍCULO 50 DE LA LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
 
