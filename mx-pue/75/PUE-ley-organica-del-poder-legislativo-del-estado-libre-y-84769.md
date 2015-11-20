@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2015-10-19"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1311,13 +1311,17 @@ XXXI.- Grupos Vulnerables;
 
 XXXII.- Organizaciones No Gubernamentales;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-XXXIII.- Cultura; y
+XXXIII.- Cultura;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-XXXIV.- Participación Ciudadana.
+XXXIV.- Participación Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+XXXV.- De la Familia y su Desarrollo Integral.
 
 #### SECCIÓN TERCERA. DE LAS COMISIONES TRANSITORIAS
 
@@ -2452,3 +2456,11 @@ P.O. 19 DE OCTUBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Los asuntos en trámite que se encuentren turnados a la Comisión Especial de la Familia y su Desarrollo Integral con motivo de la entrada en vigor de este Decreto deberán pasar a la Comisión Ordinaria de la Familia y su Desarrollo Integral.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
