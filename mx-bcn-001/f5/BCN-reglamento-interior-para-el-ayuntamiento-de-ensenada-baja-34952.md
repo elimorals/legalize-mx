@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2015-10-16"
+last_updated: "2015-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -1505,6 +1505,10 @@ VIII.- Opinar y dictaminar en su caso, en las campañas de información y divulg
 
 IX.- Vigilar los proyectos integrales en materia de Fraccionamientos ya existentes y en su caso en coordinación con las dependencias de los tres órdenes de gobierno;
 
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+X.- Solicitar opinión técnica a la Unidad de Protección Civil y a la Subdirección de bomberos relativo (sic) a la seguridad del inmueble y riesgos colindantes de donde se pretende instalar y autorizar los Centros de Atención, Cuidado y Desarrollo Integral Infantil.
+
 COMISIÓN DE SEGURIDAD, TRANSITO Y TRANSPORTE.
 
 ###### ARTÍCULO 120.
@@ -2088,3 +2092,9 @@ P.O. 16 DE OCTUBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LA FRACCIÓN IV Y ADICIONAR LOS FRACCIONES VI, VII, VIII Y IX DEL ARTÍCULO 119 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de Iniciar la vigencia al siguiente día de su publicación en todo el territorio del Municipio de Ensenada.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 119 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, PARA ACTUALIZAR LAS FACULTADES DE LA COMISIÓN DE DESARROLLO URBANO Y ECOLOGÍA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
