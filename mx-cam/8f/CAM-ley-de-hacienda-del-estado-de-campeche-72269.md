@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2015-09-14"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -49,11 +49,11 @@ La Hacienda Pública del Estado de Campeche, para atender los gastos y cumplir l
 
 La Hacienda Pública del Estado de Campeche se compone:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas; sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; sobre tenencia o uso de vehículos; adicional para preservación del patrimonio cultural, infraestructura y deporte y; a la venta final de bebidas con contenido alcohólico;
+I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas, sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, adicional para la preservación del patrimonio cultural, infraestructura y deporte y, a la venta final de bebidas con contenido alcohólico;
 
 II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos;
 
@@ -507,7 +507,7 @@ X.- Poner a disposición de las autoridades competentes, para los efectos del ej
 
 XI.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO V. IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS, CONCURSOS Y JUEGOS CON CRUCE DE APUESTAS LEGALMENTE PERMITIDOS
 
@@ -685,15 +685,31 @@ b).- Tratándose de sorteos, cuando los participantes obtengan dicha calidad sin
 
 c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir o contratar un servicio.
 
-### CAPÍTULO VI. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO VI. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 #### SECCIÓN SEGUNDA. DE LOS SUJETOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 #### SECCIÓN TERCERA. DEL CÁLCULO, BASE, TASA, TABLA O TARIFA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 #### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 #### SECCIÓN PRIMERA. DEL OBJETO
 
@@ -727,19 +743,11 @@ c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calid
 
 ###### ARTÍCULO 41.
 
-Es objeto del impuesto a que se refiere este capítulo, la tenencia o uso de vehículos que se efectúe en el territorio del Estado.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-Para efectos de este impuesto se entiende por vehículos, los terrestres y marítimos o fluviales, entre otros, los automóviles, omnibuses, vehículos pick up, camiones, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, vehículos con motor de combustión interna o con motor accionados por hidrógeno, eléctricos, mixtos o híbridos y automóviles blindados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Asimismo, para efectos de este impuesto, se considera que la tenencia o uso de los vehículos señalados en el párrafo anterior se efectúan dentro de la circunscripción territorial del Estado, en los siguientes casos:
-
-a) Cuando se inscriban en el Registro Vehicular del Estado;
-
-b) Cuando el domicilio fiscal en materia federal del tenedor o usuario del vehículo se localice en el Estado, o
-
-c) En su defecto, cuando el domicilio del contribuyente se encuentre en el Estado.
-
-Para los efectos de esta Ley, se presume que el propietario es el tenedor o usuario del vehículo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN QUINTA. DEL PAGO
 
@@ -749,27 +757,23 @@ Para los efectos de esta Ley, se presume que el propietario es el tenedor o usua
 
 ###### ARTÍCULO 42.
 
-Están obligados al pago del Impuesto Sobre Tenencia o Uso de Vehículos las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el artículo 41 de esta ley.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 43.
 
-Para efectos de este impuesto la Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona física, moral o unidades económicas, deberán pagar el Impuesto Sobre Tenencia o Uso de Vehículos que se establece en este Capítulo, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones federales o estatales, o estén exentos de ellos.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 44.
 
-Son solidariamente responsables del pago del Impuesto Sobre Tenencia o Uso de Vehículos establecido en este Capítulo:
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera;
-
-III. Las autoridades y funcionarios competentes que autoricen el registro de vehículos, permisos provisionales para circulación ó en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
-
-Los contribuyentes comprobarán el pago del impuesto con la forma o recibo oficial original, por medio de la cual lo hayan efectuado.
-
-IV. Las autoridades de inspección de seguridad a embarcaciones, cuando al expedir la documentación correspondiente, el tenedor o usuario del vehículo no comprueben el pago del Impuesto Sobre Tenencia o Uso de Vehículos a que se refiere este Capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
-
-De comprobarse que no se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento a la Secretaria de Finanzas.
+> <small>(DEROGADA CON LA DENOMINACIÓN Y LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -779,215 +783,29 @@ De comprobarse que no se ha cumplido con la obligación de pago, dichas oficinas
 
 ###### ARTÍCULO 45.
 
-En el caso de vehículos nuevos el impuesto se calculará conforme a lo siguiente:
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
-
-I. Para los vehículos terrestres de hasta 15 pasajeros, eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
-
-TARIFA
-
-Límite Límite Cuota fija Tasa para aplicarse
-
-inferior superior $ sobre el excedente
-
-$ $ del límite inferior
-
-%
-
-0.01 477,347.76 0.00 3.0
-
-477,347.77 918,629.24 14,320.43 8.7
-
-918,629.25 1,234,739.54 52,711.92 13.3
-
-1,234,739.55 1,550,849.83 94,754.59 16.8
-
-1,550,849.84 En adelante 147,861.11 19.1
-
-> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-II.- Para vehículos nuevos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para vehículos nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "Taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
-
-Para efectos de esta fracción se entiende como vehículos de más de 15 pasajeros, a los camiones, minibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, cualquiera que sea su tipo, además de los vehículos Pick Up cuyo valor total no rebase el equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado;
-
-III.- Para vehículos nuevos, cuyo peso bruto vehicular sea de 15 o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
-
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
-
-IV.- Tratándose de vehículos marítimos o fluviales con motor (sic) nuevos, entre otros, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 2.0%.
-
-V.- En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de este capítulo, se pagará el impuesto correspondiente al año de calendario correspondiente en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario de acuerdo con el procedimiento que corresponda al tipo de vehículo de que se trate, bajo el criterio de vehículo nuevo.
-
-VI.- Tratándose de motocicletas nuevas, el impuesto se calculará aplicando el valor total de la motocicleta, la siguiente tarifa:
-
-Límite Límite Cuota fija Tasa para aplicarse
-
-inferior superior $ sobre el excedente
-
-$ $ del límite inferior
-
-%
-
-0.01 200,000.0 0.00 3.0
-
-200,000.01 275,046.93 6,000.00 8.7
-
-275,046.94 369,693.57 12,529.08 13.3
-
-369,693.58 En adelante 25,117.08 16.8
-
-> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-Las cantidades establecidas en esta tarifa se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel en que se va aplicar la tarifa, entre el Índice Nacional de Precios al Consumidor del mes de noviembre de dos años inmediatos anteriores al año de aplicación. Dicho factor se publicará en el Periódico Oficial del Estado, a más tardar el 31 de diciembre de cada año.
-
-El Índice Nacional de Precios al Consumidor que se aplicará para los efectos del párrafo anterior, es el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 46.
 
-Para la aplicación de este impuesto, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADA SU DENOMINACIÓN Y EL ARTÍCULO QUE LA INTEGRA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 VEHÍCULOS USADOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 47.
 
-Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up, cuyo valor total no rebase el equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado; el impuesto se determinará multiplicando el valor total del vehículo señalado en la factura de origen por el factor de años de antigüedad que corresponda, de acuerdo con la siguiente:
-
-TABLA
-
-Años de Antigüedad Factor
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 o más 0.500
-
-El resultado anterior se actualizará de conformidad con el procedimiento establecido en la fracción VI de este artículo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2010)</small>
-
-II.- Tratándose de vehículos de fabricación nacional o importados usados, destinados al transporte de hasta 15 pasajeros, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados, así como los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6, 334 salarios mínimos del área geográfica a la que corresponde el Estado el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a).- El valor total del vehículo se multiplicará por el factor de depreciación de acuerdo al año de antigüedad del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 o más 0.075
-
-b).- El resultado anterior se actualizará de conformidad con el procedimiento establecido en la fracción VI de este artículo.
-
-c).- La cantidad que resulte del inciso anterior se multiplicará por la tarifa del artículo 45 fracción I.
-
-III.- Tratándose de vehículos de servicio particular, que pasen a ser de servicio público para transporte de pasajeros, el impuesto se calculará para el ejercicio fiscal siguiente a aquel, en que se dé esta circunstancia, conforme al siguiente procedimiento:
-
-a) El valor total del automóvil se multiplicará por el factor de años de antigüedad que corresponda conforme a la tabla contenida en la fracción I de este artículo, y
-
-b) La cantidad obtenida, se multiplicará por el 0.245%.
-
-IV.- Tratándose de vehículos de servicio público los denominados taxis, que pasen a ser de servicio particular, el impuesto se calculará de la manera siguiente:
-
-Cuando el cambio se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se calculará de acuerdo al procedimiento previsto en la fracción II de este mismo artículo, que corresponda a las características del vehículo por el que se aplica el cambio y se pagará en la proporción que resulte de aplicar la cantidad obtenida por el factor correspondiente de la siguiente tabla:
-
-Mes de cambio Factor aplicable al
-
-impuesto causado
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-V.- Tratándose de motocicletas usadas de fabricación nacional o importada, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-El valor total de la motocicleta se multiplicara por el factor de depreciación de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente tabla:
-
-Años de antigüedad Factor de depreciación
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 o más 0.1
-
-A la cantidad obtenida conforme al párrafo anterior, se aplicará la tarifa al que hace referencia el artículo 45 fracción VI.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
-
-VI.- El factor de actualización a que se refiere este artículo se determinará aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel en que se va aplicar la tarifa entre el mes de noviembre inmediato anterior al año de adquisición del vehículo.
-
-> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 2009)</small>
-
-VII.- Tratándose de vehículos de más de 10 años modelos anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
-
-Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán en base al número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
 #### SECCIÓN SÉPTIMA. DEL DESTINO DEL IMPUESTO
 
@@ -997,163 +815,37 @@ Para efectos de la depreciación a que se refiere este artículo, los años de a
 
 ###### ARTÍCULO 48.
 
-Los contribuyentes pagarán el impuesto por año calendario durante los tres primeros meses de cada año, salvo en el caso de vehículos cuya inscripción al Registro Estatal Vehicular se realice por primera vez, supuesto en el que el impuesto deberá calcularse y enterarse en el momento en el cual se realice la inscripción al referido Registro, se solicite permiso provisional para circulación o en traslado, o dentro de los quince días siguientes al de enajenación del vehículo; lo que ocurra primero.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-El impuesto se pagará en los lugares y medios autorizados por la Secretaria de Finanzas y bajo las modalidades que esta señale para tal efecto en la presente Ley y en el Código Fiscal del Estado de Campeche, o mediante resoluciones de carácter general.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente al mes de adquisición de conformidad con la siguiente tabla:
-
-Mes de Adquisición Factor aplicable al
-
-impuesto causado
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-Los contribuyentes tendrán derecho a solicitar la devolución de este impuesto, cuando ocurra la pérdida total del vehículo por siniestro. La devolución procederá siempre y cuando la solicitud se efectué dentro de los 15 días hábiles siguientes de la determinación del siniestro por parte de la autoridad o instancia correspondiente, el impuesto a devolver será la parte proporcional del impuesto del ejercicio pagado actualizado, correspondiente al período por el cual no se tuvo o usó el vehículo, iniciando a partir del mes en que ocurrió la pérdida total, hasta el último mes que se tenga cubierto el impuesto; perdida que deberá de comprobarse a las autoridades fiscales, conforme a las reglas generales que al efecto se dicten
-
-Cuando se determine la pérdida total del vehículo y no se haya efectuado el pago del impuesto, este se cobrará de acuerdo a los porcentajes establecidos en la siguiente tabla:
-
-Mes de Siniestro Factor aplicable al
-
-Impuesto Causado
-
-Enero-Febrero 0.08
-
-Marzo 0.17
-
-Abril 0.25
-
-Mayo 0.33
-
-Junio 0.42
-
-Julio 0.50
-
-Agosto 0.58
-
-Septiembre 0.67
-
-Octubre 0.75
-
-Noviembre 0.83
-
-Diciembre 0.92
-
-La cantidad que resulte a pagar se le agregará los accesorios legales por cubrir que en su caso corresponda. Cuando la solicitud se efectué después de los 15 días hábiles siguientes de la determinación del siniestro por parte de la autoridad o instancia correspondiente, el monto del impuesto a pagar será igual al importe total que corresponda cubrir por el año fiscal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 49.
 
-Para efecto del impuesto establecido en este Capítulo, se entiende por:
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-I.- Vehículo nuevo:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-a).- El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos, sin que haya sido inscrito en el registro estatal de vehículos.
-
-b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación del impuesto establecido en este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al del año de la importación definitiva, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-II.- Valor total del vehículo, es el precio de enajenación señalado en la factura de origen emitida por el fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Autoridad competente como empresa autorizada para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo;
-
-III.- Año modelo: es el año de fabricación o ejercicio automotriz, comprendido entre el primero de octubre del año anterior y el 30 de septiembre del año que transcurra;
-
-IV.- Modelo: es la clasificación que asigne e informe a la Secretaria de Economía del Gobierno Federal el fabricante o ensamblador. Para el caso de vehículos importados el señalado por el fabricante o ensamblador;
-
-V.- Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
-
-VI.- Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
-
-VII.- Línea:
-
-a) Automóviles con motor de gasolina o gas hasta de 4 cilindros.
-
-b) Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
-
-c) Automóviles con motor diesel.
-
-d) Camiones con motor de gasolina, gas o diesel.
-
-e) Tractores no agrícolas tipo quinta rueda.
-
-f) Autobuses integrales.
-
-g) Automóviles eléctricos.
-
-VIII.- Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
-
-IX.- Índice Nacional de Precios al Consumidor, que aplicará para los efectos de este impuesto, el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación;
-
-X.- Factores de actualización, los que determine la Secretaria de Finanzas, mismos que se publicaran en el Diario Oficial del Gobierno del Estado de Campeche, a más tardar en el mes de diciembre de cada año.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 50.
 
-No se pagará el impuesto por tenencia o uso, de los siguientes vehículos:
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-I. Los importados temporalmente en los términos de la legislación aduanera;
-
-II. Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-III. Los vehículos al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad;
-
-IV. Los Vehículos eléctricos para transporte público de personas;
-
-V. Las embarcaciones dedicadas al transporte mercante o a la pesca comercial;
-
-VI. No se pagará el impuesto que establece este capítulo, en los casos que se acredite haber cubierto un impuesto correspondiente al año de calendario de que se trate en otra entidad federativa que en su momento le correspondió por su circunscripción territorial, cuyo objeto coincida con el de este Capítulo;
-
-VII. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placa de circulación y estos sean nuevos;
-
-VIII. Cuando un vehículo sea registrado en otra entidad federativa y el propietario presente la documentación que acredite este hecho dentro de los 15 días hábiles siguientes a la realización de este supuesto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 51.
 
-De resultar extemporánea la presentación de la documentación a que hace referencia el artículo 50 fracción VIII, deberá cubrir un importe equivalente a 10 veces el salario mínimo vigente en el Estado, por gastos de administración de padrón vehicular.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones del artículo 50, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días hábiles siguientes a aquel en que tenga lugar el hecho de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 52.
 
-Los tenedores o usuarios de los vehículos a que se refieren los artículos 50 y 51, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría (sic) Finanzas del Estado de Campeche, que se encuentran comprendidos en dichos supuestos, de acuerdo con las reglas de carácter general que para tal efecto emita la citada Secretaria.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 53.
 
-Los sujetos al pago de este impuesto tendrán las siguientes obligaciones:
-
-I.- Solicitar ante las autoridades fiscales competentes el Registro Estatal Vehicular que corresponda dentro de los plazos y los lugares señalados para tal efecto;
-
-II.- Conservar a disposición de las autoridades fiscales, acreditar y exhibir cuando lo soliciten la documentación comprobatoria del pago del impuesto que corresponda; y
-
-III.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante el plazo a que se refiere el Código Fiscal del Estado.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2861,19 +2553,23 @@ INFERIOR
 
 8,559,930 EN ADELANTE 222,666.07 3.000 %
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO QUINTO.
 
-La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter federal correspondientes a ejercicios fiscales de 2009 y anteriores, se realizaran conforme a las disposiciones vigentes en el ejercicio fiscal correspondiente, de cuya recaudación se participará a los Municipios en términos de lo dispuesto en la Ley de Coordinación Hacendaria del Estado de Campeche.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
-A partir de la vigencia del Impuesto Sobre Tenencia o Uso de Vehículos estatal, de los recursos que perciba la Hacienda Pública del Estado, sus municipios percibirán el 20% del monto de la recaudación que se obtengan en sus respectivas jurisdicciones territoriales de conformidad con las bases de colaboración que a efecto se establezcan entre el Estado y sus Municipios, deduciendo los gastos de administración que ocasione la recaudación del citado impuesto, así como las cantidades que el Estado recupere a través de actos de fiscalización y de procedimiento administrativo de ejecución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO SEXTO.
 
-Los sujetos del Impuesto Estatal Sobre Tenencia o Uso de Vehículos, deberán de registrarse o, regularizarse en términos de la Ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche y su Reglamento, así como ante la Secretaría de Finanzas para efectos del Registro Estatal Vehicular.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-Para efectos de esta Ley se entenderá que la tarifa a que hace referencia la fracción I del artículo 45 de esta ley se encuentra actualizada al 31 de diciembre del 2009.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
@@ -2966,3 +2662,13 @@ NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábile
 DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
 
 UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el día primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter federal correspondiente a ejercicios fiscales de 2009 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente, y atenderán en su caso, a las reglas legales de prescripción y caducidad.
+
+TERCERO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter estatal correspondiente a ejercicios fiscales de 2015 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente atendiendo, en su caso, a las reglas legales de prescripción y caducidad.
+
+CUARTO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
