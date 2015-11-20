@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidad-patrimonial-para-el-estado-y-57215"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-05"
-last_updated: "2009-01-23"
+last_updated: "2015-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 5 de octubre de 2007.
 
@@ -63,7 +63,9 @@ IV.- Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públi
 
 V.- Órgano competente: En el caso de las dependencias y entidades de la Administración Pública del Estado, será la Dirección de Control y Evaluación Gubernamental. Para los Poderes Legislativo, Judicial, Órganos Constitucionales Autónomos, así como para las administraciones públicas municipales del Estado de Baja California, es el órgano al que corresponda resolver los procedimientos de reclamación por responsabilidad patrimonial en cada uno de tales entes públicos conforme a su propia reglamentación.
 
-VI.- Órgano Constitucional. Autónomo.- Tribunal de lo Contencioso Administrativo, Instituto Estatal Electoral, Procuraduría de los Derechos Humanos y Protección Ciudadana, todos del Estado de Baja California, así como los demás órganos a los que la Constitución Estatal les reconozca esta naturaleza.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+
+VI.- Órgano Constitucional Autónomo.- Tribunal de lo Contencioso Administrativo, Instituto Estatal Electoral, Comisión Estatal de los Derechos Humanos, todos del Estado de Baja California, así como los demás órganos a los que la Constitución Estatal les reconozca esta naturaleza.
 
 VII.- Reglamento: Reglamento emitido por los entes públicos que conforme a esta Ley deban hacerlo, en el que se determinará el órgano competente y se establecerá el procedimiento de reclamación por responsabilidad patrimonial, sujetándose a las bases contenidas en esta misma Ley.
 
@@ -279,7 +281,7 @@ Será sobreseída la reclamación, cuando:
 
 I.- El reclamante se desista expresamente.
 
-II.- No se pruebe la existencia de la actividad administrativa irregular, del daño, o de la relación de causalidad entre la primera y el segundo; o (sic),
+II.- No se pruebe la existencia de la actividad administrativa irregular, del daño, o de la relación de causalidad entre la primera y el segundo; o,
 
 III.- El reclamante no presente la liquidación a que se refiere el artículo 20 de la presente Ley, dentro de los diez días siguientes a que el órgano competente le notifique que tiene por acreditada la existencia de la actividad administrativa irregular, del daño y de la relación de causalidad entre el primero y el segundo.
 
@@ -323,7 +325,7 @@ Transcurrido el término a que se refiere el artículo anterior, se abrirá un p
 
 ###### Artículo 31.
 
-En el procedimiento que regula la presente, Ley, se admitirán, desahogarán, evaluarán y valorarán los medios de prueba previstos por el Código de Procedimientos Civiles para el Estado de Baja California, excepción hecha de la confesional mediante absolución de posiciones de la autoridad. las (sic) pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución definitiva.
+En el procedimiento que regula la presente, Ley, se admitirán, desahogarán, evaluarán y valorarán los medios de prueba previstos por el Código de Procedimientos Civiles para el Estado de Baja California, excepción hecha de la confesional mediante absolución de posiciones de la autoridad. las pruebas supervenientes podrán presentarse siempre que no se haya dictado resolución definitiva.
 
 ###### Artículo 32.
 
@@ -519,8 +521,12 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 BERNARDO H. MARTÍNEZ AGUIRRE.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE ENERO DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL CODIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 20 DE NOVIEMBRE DE 2015.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
