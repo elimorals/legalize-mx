@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-08-08"
+last_updated: "2015-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 10 DE SEPTIEMBRE DE 2016 Y 29 DE OCTUBRE DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -509,7 +507,13 @@ Durante el tiempo que comprendan las campañas electorales y hasta la conclusió
 
 El ejercicio del poder público se limita a las facultades expresamente consignadas en esta Constitución, la Federal y las leyes que se expidan de conformidad con las mismas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2015)</small>
+
 ###### Art. 29.
+
+Los Poderes Ejecutivo, Legislativo y Judicial, organismos autónomos, y autoridades municipales, en el ejercicio de sus atribuciones, darán la mayor apertura y transparencia a su función, con la colaboración y participación de los ciudadanos en el quehacer gubernamental, en la forma en que lo establezcan las leyes.
 
 El Poder Público no es delegable sino en los casos expresados en esta Constitución.
 
@@ -4186,3 +4190,11 @@ III.- Los integrantes de los Ayuntamientos, así como las Juntas Municipales y C
 OCTAVO.- De conformidad con la fracción II del Artículo Transitorio Segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Político de los Estados Unidos Mexicanos, en materia política - electoral publicada en el Diario Oficial de la Federación el 10 de febrero del año 2014, la elección que se celebrará el año 2018 se realizará el primer domingo de julio.
 
 NOVENO.- Una vez que el presente Decreto sea aprobado, el Honorable Congreso del Estado realizará las adecuaciones a la ley secundaria en materia de candidaturas independientes de manera inmediata, a fin de, dar cumplimiento a lo previsto en los Artículos 35, fracción II, y 116, fracción IV, incisos k) y p), de la Constitución Política de los Estados Unidos Mexicanos, previsto en la sentencia dictada por la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación en el expediente identificado con la clave SUP-JDC-2665/2014, y notificará a dicha Sala Superior del cumplimiento en vías de ejecución.
+
+P.O. 21 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 180 días de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Los Poderes Ejecutivo, Legislativo y Judicial, organismos autónomos, y autoridades municipales, deberán de promover las reformas necesarias y efectuar las acciones pertinentes a fin de que el ejercicio del poder público sea más transparente, abierto e incluyente.
