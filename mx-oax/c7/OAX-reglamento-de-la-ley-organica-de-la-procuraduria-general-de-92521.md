@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-925
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-16"
-last_updated: "2013-02-16"
+last_updated: "2015-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92521&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 21 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 16 de febrero de 2013.
 
@@ -163,7 +165,7 @@ Todos los servidores públicos de la Procuraduría General respetaran el siguien
 
 I. Procurador General;
 
-II. Subprocuradores Generales, Subprocuradores.de los sectores Central y Regional y el Oficial Mayor;
+II. Subprocuradores Generales, Subprocuradores de los sectores Central y Regional y el Oficial Mayor;
 
 III. Fiscales Especializados del Sector Central, Titulares de Órganos Desconcentrados y el Fiscal Central de Justicia para Adolescentes;
 
@@ -1011,7 +1013,7 @@ El Fiscal Central de Justicia para Adolescentes será competente para dirigir, c
 
 ###### Artículo 54.
 
-El personal operativo que integre la Fiscalía Central deberá contar con especialidad en materia de justicia para adolecentes, en términos de las disposiciones aplicables.
+El personal operativo que integre la Fiscalía Central deberá contar con especialidad en materia de justicia para adolecentes (sic), en términos de las disposiciones aplicables.
 
 ###### Artículo 55.
 
@@ -1065,7 +1067,7 @@ Los Fiscales de Justicia para Adolescentes del Sector Regional serán competente
 
 ###### Artículo 61.
 
-Los Fiscales de Justicia para Adolecentes del Sector Regional podrán ejercer en lo conducente las atribuciones previstas en el artículo 55 del presente Reglamento, en el respectivo ámbito territorial de su competencia.
+Los Fiscales de Justicia para Adolecentes (sic) del Sector Regional podrán ejercer en lo conducente las atribuciones previstas en el artículo 55 del presente Reglamento, en el respectivo ámbito territorial de su competencia.
 
 ###### Artículo 62.
 
@@ -3364,3 +3366,123 @@ LIC. ALBERTO VARGAS VARELA.
 EL CONSEJERO JURÍDICO DEL GOBIERNO DEL ESTADO
 
 LIC. VÍCTOR HUGO ALEJO TORRES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Las disposiciones del presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Oaxaca, así como se derogan las demás disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+TERCERO. Conforme a las disposiciones presupuestales lo permitan se irán creando, actualizando o reforzando progresivamente las áreas que requieran las Áreas Administrativas y Órganos Auxiliares previstos en el presente Reglamento.
+
+CUARTO. Las Áreas Administrativas y Órganos Auxiliares con los que contaba la Procuraduría General de Justicia del Estado de Oaxaca pasarán a formar parte de la Fiscalía General en términos del presente Reglamento.
+
+Los asuntos que se encuentren en trámite previo a la entrada en vigor del presente Reglamento ante las Áreas Administrativas y Órganos Auxiliares, se remitirán para su sustanciación y resolución a las Áreas Administrativas y Órganos Auxiliares que correspondan en términos del artículo transitorio siguiente.
+
+QUINTO. Las Áreas Administrativas y Órganos Auxiliares que pasan a formar parte de la Fiscalía General conservarán la misma nomenclatura, salvo lo previsto en las siguientes fracciones:
+
+I. La Subprocuraduría General Zona Norte se convertirá en la Vicefiscalía General Zona Centro;
+
+II. La Subprocuraduría General Zona Sur se convertirá en la Vicefiscalía General de Control Regional;
+
+III. La Subprocuraduria de Atención a Víctimas y a la Sociedad se convertirá en la Vicefiscalía General de Atención a Víctimas y a la Sociedad;
+
+IV. La Fiscalía Especializada en Delitos cometidos por Servidores Públicos se convertirá en la Fiscalía Especializada en Materia de Combate a la Corrupción;
+
+V. La Fiscalía para la Atención a Delitos Electorales se convertirá en la Fiscalía Especializada en Delitos Electorales.
+
+VI. La Subprocuraduría para la Atención a Delitos de Alto Impacto se convertirá en la Fiscalía Especializada para la Atención a Delitos de Alto Impacto;
+
+VII. La Subprocuraduría de Delitos Contra la Mujer por Razón de Género se convertirá en la Fiscalía Especializada para la atención a Delitos Contra la Mujer por Razón de Género;
+
+VIII. La Subprocuraduría de Justicia para Adolescentes se convertirá en la Fiscalía Especializada en Justicia para Adolescentes;
+
+IX. La Fiscalía en Investigaciones de Delitos de Trascendencia Social se convertirá en la Fiscalía Especializada en Investigaciones de Delitos de Trascendencia Social;
+
+X. La Subprocuraduría Regional de la Mixteca se convertirá en la Vicefiscalía Regional de la Mixteca;
+
+XI. La Subprocuraduría Regional del Istmo se convertirá en la Vicefiscalía Regional del Istmo;
+
+XII. La Subprocuraduría Regional de la Costa se convertirá en la Vicefiscalía Regional de la Costa:
+
+XIII. La Subprocuraduría Regional de la Cuenca se convertirá en la Vicefiscalía Regional de la Cuenca:
+
+XIV. La Dirección de Inteligencia se convertirá en la Dirección de Inteligencia y Política Criminal;
+
+XV. La Dirección de Responsabilidades se convertirá en la Dirección de Control de Fiscalías de la Vicefiscalia General Zona Centro;
+
+XVI. La Visitaduría se convertirá en la Visitaduría General;
+
+XVII. El Centro de Justicia Restaurativa se convertirá en el Centro de Justicia Alternativa;
+
+XVIII. La Dirección de Promoción de la Prevención del Delito y de la Cultura de la Legalidad se convertirá en la Dirección de Prevención del Delito;
+
+XIX. La Dirección de Procesos se convertirá en la Contraloría Interna, y
+
+XX. La Dirección de Averiguaciones Previas se convertirá en la Dirección de Averiguaciones Previas y Procesos conforme al artículo noveno transitorio del presente Reglamento. Una vez que se colme el supuesto previsto en el artículo transitorio antes mencionado, dicha área se convertirá en la Dirección de Control de Fiscalías de la Fiscalía Especializada para la Atención a Delitos de Alto Impacto.
+
+SEXTO. El Fiscal General deberá expedir dentro del plazo de tres años, contados a partir de la entrada en vigor del presente instrumento, los Manuales, Acuerdos y demás instrumentos jurídicos y administrativos necesarios para el funcionamiento, operación y organización de la Fiscalía General.
+
+SÉPTIMO. La Oficialía Mayor realizará los trámites necesarios para la adecuación de la nueva estructura orgánica prevista en el presente Reglamento para la Fiscalía General.
+
+OCTAVO. Conforme a lo previsto en el artículo quinto transitorio de la Ley Orgánica respecto del trámite y desahogo del sistema previsto en el Código Procesal Penal del Estado de Oaxaca hasta la conclusión del último caso, continuarán conociendo las Áreas Administrativas y Órganos Auxiliares previstos en el presente Reglamento en el ámbito de su competencia y conforme a sus atribuciones, facultades y funciones.
+
+NOVENO. Conforme a lo previsto en el artículo quinto transitorio y primer párrafo del artículo sexto transitorio ambos de la Ley Orgánica respecto del trámite y desahogo del sistema previsto en el Código de Procedimientos Penales del Estado Libre y Soberano de Oaxaca hasta la conclusión del último caso, se aplicarán en primer lugar, las disposiciones previstas en el presente artículo transitorio. En lo no previsto por este ordenamiento, en lo conducente se aplicarán los artículos 23, fracciones V, VI, IX, X, XI, XVI, XVII, XVIII, XIX, XXI, 26, 28, 38, 39, 40, 41, 42, 44, 104, 109, 110, 111, 112, 114, 115 y el Título Tercero todos de la Ley Orgánica de la Procuraduría General de Justicia aprobada con fecha 29 de junio de 1983.
+
+Para la conclusión del Sistema Mixto Tradicional se constituirá provisionalmente la Dirección de Averiguaciones Previas y Procesos a cargo de un Director. La Dirección tendrá como función la de coordinar la integración de las averiguaciones previas, desde que se presenta la denuncia hasta que se ejercita la acción penal y se consigna a la autoridad judicial, independientemente de que sea con o sin detenido; así como la de coordinar el control de los procesos desde la consignación, hasta la etapa de ejecución de la sentencia respectiva o, en su caso, la presentación de recursos procesales.
+
+Para los efectos anteriores, el Director de Averiguaciones Previas y Procesos tendrá las siguientes facultades:
+
+I. Practicar averiguaciones previas, ejercitar la acción penal y resolver sobre la procedencia de reserva conforme a las disposiciones aplicables;
+
+II. Vigilar la secuela de las averiguaciones previas que se tramiten en el ámbito de su competencia conforme a las disposiciones aplicables;
+
+III. Dictar las resoluciones procedentes en las averiguaciones previas conforme a las disposiciones aplicables;
+
+IV. Rendir mensualmente al Fiscal General, un informe del estado que guardan las averiguaciones previas existentes y que se tramiten en las Agencias del Ministerio Público;
+
+V. Distribuir entre los agentes del Ministerio Público adscritos a la Dirección, las averiguaciones previas que se inicien, emitiendo las instrucciones que correspondan;
+
+VI. Autorizar la devolución de vehículos y bienes relacionados con las averiguaciones, la expedición de copias certificadas de las constancias que obran en autos y la fijación del monto de la fianza que deben otorgar los inculpados que se encuentren detenidos, así como la fijación de fianza a los responsables solidarios durante la averiguación previa y en las que proceda;
+
+VII. Firmar los acuerdos y pedimentos de consignaciones que se formulen conforme a las disposiciones aplicables;
+
+VII. Desahogar los exhortos derivados de colaboraciones;
+
+IX. Dar cuenta al Fiscal General de las irregularidades que se presenten con motivo de la integración de las averiguaciones previas;
+
+X. Ordenar a los agentes del Ministerio Público adscritos a la Dirección la práctica de las diligencias relativas al perfeccionamiento de las averiguaciones previas que se tramiten;
+
+XI. Revisar todas las averiguaciones previas que remiten las Agencias del Ministerio Público, y en su caso informar al Fiscal General sobre las irregularidades que se encuentren en las mismas;
+
+XII. Solicitar las órdenes de aprehensión, las de comparecencia y de cateo, conforme a las disposiciones aplicables;
+
+XIII. Elaborar y suscribir los acuerdos por los que se determine el destino de los bienes asegurados por el Ministerio Público en términos de la legislación penal aplicable, previo acuerdo con el Fiscal General y dictamen favorable de la Dirección de Asuntos Jurídicos;
+
+XIV. Suscribir todos los documentos, instrumentos jurídicos o administrativos inherentes a las fianzas, cauciones, garantías y demás actuaciones conducentes en términos de las disposiciones aplicables del Sistema Mixto Tradicional;
+
+XV. Revocar la libertad caucional de los indiciados y hacer efectiva la garantía en los casos que proceda, conforme a las disposiciones aplicables;
+
+XVI. Vigilar la secuela de los procesos penales que se tramiten en el ámbito de su competencia conforme a las disposiciones aplicables;
+
+XVII. Llevar un control de los procesos penales que se tramiten en el ámbito de su competencia;
+
+XVIII. Intervenir conjuntamente con los agentes del Ministerio Público adscritos a los juzgados competentes, en los casos que así lo ameriten a criterio del Fiscal General.
+
+XIX. Informar al Fiscal General de las irregularidades que se cometan en el curso de los procesos penales;
+
+XX. Rendir mensualmente al Fiscal General, un informe del estado que guardan los procesos que se instruyan ante la autoridad judicial competente;
+
+XXI. Desahogar las consultas que sobre el ámbito de su competencia formulen los agentes del Ministerio Público;
+
+XXII. Solicitar copias de los expedientes de la autoridad judicial competente, por sí o a través de los Agentes del Ministerio Público adscritos, y
+
+XXIII. Las demás que determinen el Fiscal General y las demás disposiciones aplicables.
+
+El Director de Averiguaciones Previas y Procesos se auxiliará de las áreas y servidores públicos que sean necesarios para la conclusión del Sistema Mixto Tradicional en el Estado de Oaxaca.
+
+DÉCIMO. No obstante lo previsto en los artículos octavo y noveno transitorios del presente Reglamento, el Fiscal General podrá determinar lo conducente respecto de la organización, funcionamiento y operación de la Fiscalía General, para el desahogo de los asuntos conforme al Código Procesal Penal para el Estado de Oaxaca y al Código de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca.
