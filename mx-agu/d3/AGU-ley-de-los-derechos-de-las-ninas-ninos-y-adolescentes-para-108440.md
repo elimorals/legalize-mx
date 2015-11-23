@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2015-06-03"
+last_updated: "2015-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1049,9 +1049,9 @@ XII. Derecho a ser asistido gratuitamente por un traductor o intérprete;
 
 XIII. Derecho a ser oído en cualquier etapa del proceso, desde el inicio de la investigación hasta que se cumpla con la medida que en su caso le sea impuesta;
 
-(NOTA: EL 7 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IV, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 39/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 3 DE JUNIO DE 2015 FECHA EN QUE SURTIÓ EFECTOS DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
 
-XIV. Derecho a no ser expuesto a los medios de comunicación SIN QUE MEDIE EL CONSENTIMIENTO QUE ESTABLEZCA LA LEY CORRESPONDIENTE;
+XIV. Derecho a no ser expuesto a los medios de comunicación;
 
 XV. Derecho a ser juzgado antes de cuatro meses, salvo que el adolescente y su defensa renuncien a dicho plazo, sin que en su caso exceda de seis meses;
 
@@ -1898,3 +1898,11 @@ Dip. Verónica Sánchez Alejandre,
 SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 1° de junio de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 23 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
