@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ingresos-del-municipio-de-cuernavaca-morelos-para-el-104
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-24"
-last_updated: "2014-12-24"
+last_updated: "2015-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE INGRESOS DEL MUNICIPIO DE CUERNAVACA, MORELOS, PARA EL EJERCICIO FISCAL DEL AÑO DOS MIL QUINCE.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 23 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de Diciembre de 2014.
 
