@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-11-19"
+last_updated: "2015-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE NOVIEMBRE DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -8569,6 +8567,14 @@ VIII. Transportar más de 10 kilogramos de artículos pirotécnicos, salvo que c
 
 Se exceptúa de lo dispuesto en el presente artículo el transporte de leña para consumo doméstico de material leñoso proveniente de vegetación forestal sin ningún proceso de transformación, que podrá ser utilizado como combustible en el hogar, para rituales o productos artesanales, hasta en un volumen menor a medio metro cúbico.
 
+> <small>(ADICIONADO, G.G. 23 DE NOVIEMBRE DE 2015)</small>
+
+También se exceptúa a esta prohibición, el transporte y traslado de árboles de navidad obtenidos de plantaciones forestales autorizadas legalmente o registradas ante la autoridad forestal con fines de comercialización o uso doméstico, siempre que no se ponga en riesgo las condiciones de seguridad de los ocupantes del vehículo o de terceros.
+
+> <small>(ADICIONADO, G.G. 23 DE NOVIEMBRE DE 2015)</small>
+
+De igual forma se exceptúa de esta prohibición el transporte y traslado de árboles frutales y de ornato cuya comercialización sea legal.
+
 ###### Artículo 8.
 
 15.- Las autoridades de tránsito podrán establecer restricciones para el tránsito de vehículos con el propósito de mejorar la circulación, preservar el ambiente y salvaguardar la seguridad de las personas, sus bienes y el orden público.
@@ -11419,6 +11425,12 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 ###### Artículo 14.
 
+1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
+
+> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+
+###### Artículo 14.
+
 2.- Este Libro tiene por objeto además establecer:
 
 I. Las políticas para la producción de la información e investigación geográfica, estadística y catastral en apoyo al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios;
@@ -11442,12 +11454,6 @@ IX. La coordinación, participación y colaboración que corresponda, de los gob
 X. La integración y el desarrollo del Sistema Estatal de Información Geográfica, Estadística y Catastral para que se suministre a quienes requieran, en los términos de este Libro, el Servicio Público Estatal de Información e Investigación Geográfica, Estadística y Catastral;
 
 XI. El desarrollo y la utilización permanente de los programas y procesos electrónicos y tecnológicos en los sistemas y servicios a que se refiere este artículo.
-
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
-
-###### Artículo 14.
-
-1.- Este Libro tiene por objeto, establecer las bases para la captación, generación, integración, organización y divulgación de la información e investigación geográfica, estadística y catastral en el Estado de México y establecer la estructura orgánica necesaria para el efecto.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11481,7 +11487,7 @@ XII. Levantamiento aerofotográfico y fotogramétrico. A la captación de fotogr
 
 XIII. Nombre geográfico. A la denominación de lugares, rasgos, hechos, fenómenos físicos, sociales y económicos que se ubican en el espacio geográfico estatal;
 
-XIV. Topónimo. Al nombre, origen y significado propios del lugar;
+XIV Topónimo. Al nombre, origen y significado propios del lugar;
 
 XV. Trabajo sociográfico. A la representación cartográfica de la información relativa a los fenómenos demográficos, sociales y económicos;
 
@@ -12481,7 +12487,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -17405,12 +17411,6 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-G.G. 16 DE MARZO DE 2011.
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
-
-SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
-
 G.G. 8 DE MARZO DE 2011.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
@@ -17418,6 +17418,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- En un plazo no mayor a seis meses, contados a partir de la publicación del presente Decreto, los 125 Ayuntamientos de los municipios del Estado de México, harán las debidas adecuaciones en sus respectivos bandos municipales y demás disposiciones reglamentarias de conformidad con el presente Decreto.
+
+G.G. 16 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 G.G. 31 DE MARZO DE 2011.
 
@@ -18472,3 +18478,11 @@ SEXTO.- Las referencias que en lo sucesivo se realicen a Salarios Mínimos Gener
 SÉPTIMO.- Se autoriza a los Ayuntamientos la suscripción de Convenios de Coordinación con el Gobierno del Estado de México, a fin de hacerse cargo de las funciones relacionadas con la ejecución y recaudación de multas en avenidas estatales primarias, relativas a invadir carriles confinados de transportación masiva; instalación de anuncios espectaculares o mobiliario urbano, así como por obstaculizar el uso de las mismas.
 
 OCTAVO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 23 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su respectiva competencia, dispondrán lo necesario para que se realice una amplia campaña de difusión del presente decreto.
