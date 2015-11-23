@@ -4,7 +4,7 @@ identifier: "AGU-declaratoria-de-incorporacion-del-sistema-procesal-penal-101356
 country: "mx"
 rank: "otro"
 publication_date: "2014-06-11"
-last_updated: "2014-06-11"
+last_updated: "2015-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2015.
 
 Declaratoria publicada en el Periódico Oficial del Estado de Aguascalientes, el miércoles 11 de junio de 2014.
 
@@ -51,7 +51,13 @@ II. El primero de mayo del dos mil quince, en el Tercer Partido Judicial con sed
 
 III. El seis de noviembre del dos mil quince, en el Quinto Partido Judicial con sede en el Municipio de Jesús María, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
 
-IV. El veintisiete de mayo del dos mil dieciséis, en el Primero, Segundo y Cuarto Partidos Judiciales con sede en los Municipios de Aguascalientes, Calvillo y Rincón de Romos, respecto de la totalidad de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+IV. El once de diciembre del dos mil quince, el Cuarto Partido Judicial con sede en Rincón de Romos, respecto de los delitos de querella y Delitos Patrimoniales no violentos, contemplados en el Código Penal para el Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+V. El veintisiete de mayo del dos mil dieciséis, en el Cuarto Partido Judicial con sede en Rincón de Romos, para el resto de los Delitos contemplados en el Código Penal para el Estado de Aguascalientes. En la misma fecha en el Primero y Segundo Partidos Judiciales con sede en los Municipios de Aguascalientes y Calvillo, respecto de la totalidad de los delitos previstos en el citado ordenamiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -67,7 +73,13 @@ II. El primero de mayo del dos mil quince en el Tercer Partido Judicial con sede
 
 III. El seis de noviembre del dos mil quince en el Quinto Partido Judicial con sede en el Municipio de Jesús María, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
 
-IV. El veintisiete de mayo del dos mil dieciséis en el Primero, Segundo y Cuarto Partidos Judiciales con sede en los Municipios de Aguascalientes, Calvillo y Rincón de Romos, respecto de la totalidad de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+IV. El once de diciembre del dos mil quince, el Cuarto Partido Judicial con sede en Rincón de Romos, respecto de los delitos de querella y Delitos Patrimoniales no violentos, contemplados en el Código Penal para el Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+V. El veintisiete de mayo del dos mil dieciséis, en el Cuarto Partido Judicial con sede en Rincón de Romos, para el resto de los Delitos contemplados en el Código Penal para el Estado de Aguascalientes. En la misma fecha en el Primero y Segundo Partidos Judiciales con sede en los municipios de Aguascalientes y Calvillo, respecto de la totalidad de los delitos previstos en el citado ordenamiento.
 
 Quedarán derogados, de manera progresiva y gradual, los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del Decreto Número 331 publicado en el Periódico Oficial del Estado, el veinte de mayo del dos mil trece, esto conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos del presente Artículo, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
 
@@ -122,3 +134,11 @@ Dip. Verónica Sánchez Alejandre,
 SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 10 de junio de 2014.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
