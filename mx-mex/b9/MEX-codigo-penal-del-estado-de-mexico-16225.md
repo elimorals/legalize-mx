@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2015-08-25"
+last_updated: "2015-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE NOVIEMBRE DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3083,6 +3083,10 @@ Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio
 
 No será punible el uso de leña para consumo doméstico, de material leñoso proveniente de vegetación forestal sin ningún proceso de transformación que podrá ser utilizado como combustible en el hogar, para rituales o productos artesanales, hasta en un volumen menor a medio metro cubico.
 
+> <small>(ADICIONADO, G.G. 23 DE NOVIEMBRE DE 2015)</small>
+
+No será punible la comercialización y transporte de árboles de navidad obtenidos de plantaciones forestales autorizadas legalmente o registradas ante la autoridad forestal con fines de comercialización o uso doméstico. Lo anterior sin perjuicio que, en los operativos que las autoridades realicen en el ámbito de su competencia, se acredite su legal procedencia.
+
 ###### Artículo 230.
 
 A quien dolosamente deteriore, por el uso, la ocupación o el aprovechamiento, un inmueble que por decreto del ejecutivo del Estado haya sido declarado área natural protegida, en sus diferentes modalidades de reservas estatales, parques estatales, parques municipales, reservas naturales privadas o comunitarias, parajes protegidos, zonas de preservación ecológica de los centros de población y las demás que determinen las leyes y reglamentos de la materia, se le impondrán de tres a diez años de prisión y de cincuenta a doscientos días multa.
@@ -5680,3 +5684,11 @@ G.G. 25 DE AGOSTO DE 2015.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 23 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su respectiva competencia, dispondrán lo necesario para que se realice una amplia campaña de difusión del presente decreto.
