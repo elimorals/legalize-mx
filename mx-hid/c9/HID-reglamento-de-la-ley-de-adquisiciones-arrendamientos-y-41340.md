@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-41340"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-10-11"
-last_updated: "2004-10-11"
+last_updated: "2015-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PUBLICO DEL ESTADO DE HIDALGO
 
-REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, Y SERVICIOS DEL SECTOR PUBLICO DEL ESTADO DE HIDALGO
+REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 23 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 11 de octubre de 2004.
 
@@ -722,3 +724,15 @@ Hidalgo, en la Ciudad de Pachuca de Soto, Hidalgo, a los treinta días del mes d
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LICENCIADO MANUEL ANGEL NÚÑEZ SOTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo el 11 de octubre de 2004.
+
+TERCERO. Se derogan las demás disposiciones que se opongan al presente Reglamento.
