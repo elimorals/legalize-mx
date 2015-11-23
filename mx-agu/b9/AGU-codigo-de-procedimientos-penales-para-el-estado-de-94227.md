@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-94227"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2014-06-11"
+last_updated: "2015-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 11 DE JUNIO DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2014 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -4635,7 +4635,13 @@ II. El primero de mayo del dos mil quince, en el Tercer Partido Judicial con sed
 
 III. El seis de noviembre del dos mil quince, en el Quinto Partido Judicial con sede en el Municipio de Jesús María, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
 
-IV. El veintisiete de mayo del dos mil dieciséis, en el Primero, Segundo y Cuarto Partidos Judiciales con sede en los Municipios de Aguascalientes, Calvillo y Rincón de Romos, respecto de la totalidad de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+IV. El once de diciembre del dos mil quince, el Cuarto Partido Judicial con sede en Rincón de Romos, respecto de los delitos de querella y Delitos Patrimoniales no violentos, contemplados en el Código Penal para el Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+V. El veintisiete de mayo del dos mil dieciséis, en el Cuarto Partido Judicial con sede en Rincón de Romos, para el resto de los Delitos contemplados en el Código Penal para el Estado de Aguascalientes. En la misma fecha en el Primero y Segundo Partidos Judiciales con sede en los Municipios de Aguascalientes y Calvillo, respecto de la totalidad de los delitos previstos en el citado ordenamiento.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -4649,7 +4655,13 @@ II. El primero de mayo del dos mil quince en el Tercer Partido Judicial con sede
 
 III. El seis de noviembre del dos mil quince en el Quinto Partido Judicial con sede en el Municipio de Jesús María, para el resto de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
 
-IV. El veintisiete de mayo del dos mil dieciséis en el Primero, Segundo y Cuarto Partidos Judiciales con sede en los Municipios de Aguascalientes, Calvillo y Rincón de Romos, respecto de la totalidad de los delitos contemplados en el Código Penal para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+IV. El once de diciembre del dos mil quince, el Cuarto Partido Judicial con sede en Rincón de Romos, respecto de los delitos de querella y Delitos Patrimoniales no violentos, contemplados en el Código Penal para el Estado de Aguascalientes.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2015)</small>
+
+V. El veintisiete de mayo del dos mil dieciséis, en el Cuarto Partido Judicial con sede en Rincón de Romos, para el resto de los Delitos contemplados en el Código Penal para el Estado de Aguascalientes. En la misma fecha en el Primero y Segundo Partidos Judiciales con sede en los municipios de Aguascalientes y Calvillo, respecto de la totalidad de los delitos previstos en el citado ordenamiento.
 
 Quedarán derogados, de manera progresiva y gradual, los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del Decreto Número 331 publicado en el Periódico Oficial del Estado, el veinte de mayo del dos mil trece, esto conforme vaya iniciando su vigencia el Código Nacional de Procedimientos Penales en términos del presente Artículo, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
 
@@ -4678,3 +4690,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase copia del presente Decreto a los Poderes Ejecutivo y Judicial del Estado, para su conocimiento y efectos a que haya lugar.
+
+P.O. 23 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 239.- DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL RÉGIMEN JURÍDICO LOCAL Y DE INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
