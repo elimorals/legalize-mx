@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "2015-01-12"
+last_updated: "2015-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -383,6 +383,10 @@ Las placas de matriculación se instalarán en el lugar del vehículo destinado 
 
 Las placas se mantendrán en buen estado de conservación y libres de objetos y distintivos, de rótulos, micas opacas o dobleces que dificulten o impidan su legibilidad; en caso contrario la autoridad podrá obligar al propietario a su reposición.
 
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+En el caso de motocicletas, la placa deberá estar colocada en un lugar visible, con la lectura en dirección hacia la parte trasera del vehículo, con una inclinación entre 60° y 120° con base en su eje horizontal.
+
 ###### Artículo 28.
 
 El refrendo de la vigencia de las placas de matriculación de los vehículos, se hará previo el pago de los derechos y el cumplimiento de los requisitos que se indiquen en la convocatoria que para tal efecto se publique con la debida anticipación.
@@ -443,11 +447,27 @@ Las calcomanías de circulación o de otra naturaleza deberán ubicarse en lugar
 
 Se prohibe en los vehículos la instalación y el uso de torretas, faros rojos en la parte delantera, o blancos en trasera, sirena y accesorios de uso exclusivo para vehículos policiales, de tránsito y de emergencia.
 
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 37 bis.- Se prohíbe en los vehículos la instalación y el uso de sistemas antirradares o detector de radares de velocidad.
+
 ###### Artículo 38.
 
 Las llantas de los vehículos automotores deberán estar en condiciones suficientes de seguridad. Dichos vehículos contarán con una llanta de refacción en condiciones de garantizar las substituciones de cualquiera de las que se encuentren rodando.
 
 Queda prohibido transitar en vehículos automotores con llantas lisas o con roturas. También queda prohibido el tránsito de vehículos con ruedas metálicas, de madera o de cualquier otro material que dañe el pavimento.
+
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 38 bis.- Está prohibido remolcar o empujar otros vehículos automotores si no es por medio de una grúa, excepto cuando:
+
+I. Se trate de tráileres, autobuses y cualquier tipo de remolques u otros vehículos expresamente diseñados para este fin.
+
+II. El vehículo se encuentre obstruyendo la circulación.
+
+III. El vehículo represente un peligro para sí o para terceros, en este caso sólo se permitirá hasta ponerlo en un lugar seguro.
+
+IV. Se trate de vehículos de servicio público en cualquiera de sus modalidades, que sólo podrán ser remolcados por una grúa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE OCTUBRE DE 1998)</small>
 
@@ -885,6 +905,12 @@ La circulación de los vehículos en vías de jurisdicción estatal, incluyendo 
 
 Los usuarios de las vías públicas están obligados a obedecer las disposiciones de este reglamento, las indicaciones y señales para el control de tránsito y demás normas jurídicas.
 
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 60 bis.- Se prohíbe insultar, denigrar o golpear a los agentes de tránsito o vialidad; así como proferir vejaciones mediante utilización de señales visuales, audibles o de cualquier otro accesorio adherido al vehículo; así como golpear o realizar maniobras con el vehículo para intimidar o maltratar físicamente a otro usuario de la vía.
+
+En los supuestos mencionados en el párrafo anterior, en caso de configurarse algún delito, los agentes podrán solicitar el apoyo de los elementos de seguridad pública para remitir al infractor ante la autoridad competente.
+
 ###### Artículo 61.
 
 Las indicaciones de los dispositivos para el control del tránsito prevalecen sobre las reglas de circulación, excepto cuando éstas indiquen lo contrario. Las indicaciones de los agentes de tránsito, prevalecen sobre las anteriores.
@@ -904,6 +930,10 @@ Se prohibe la circulación en sentido contrario; sólo en caso de emergencia pod
 ###### Artículo 64.
 
 La velocidad máxima dentro del perímetro de los centros de población será de 50 kilómetros por hora. En las demás vías públicas del Estado, la velocidad máxima será la que se determine en los señalamientos respectivos. En zonas de ubicación de instalación de cualquier centro educativo, oficina pública, unidades deportivas, hospitales, iglesias y demás lugares de reunión cuando haya concurrencia de personas, la velocidad máxima será de 20 kilómetros por hora. La autoridad competente podrá modificar esos límites en las vías y zonas donde sea necesario, instalando las señales correspondientes.
+
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+A falta de señalamiento restrictivo específico, en los carriles centrales de las vías de acceso controlado la velocidad máxima será de 80 kilómetros por hora y en las vías primarias de 50 kilómetros por hora.
 
 ###### Artículo 65.
 
@@ -1059,9 +1089,11 @@ IV.- De una calle de un solo sentido a otra de doble sentido, se aproximarán to
 
 V.- De una vía de doble sentido a otra de un solo sentido, la aproximación se hará por el carril extremo izquierdo de su sentido de circulación, junto al camellón o raya central, y deberán ceder el paso a los vehículos que circulen en sentido opuesto, así como a los que circulen por la calle a la que se incorporen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 86.
 
-La vuelta a la derecha siempre será continua, excepto en los casos donde existan señales restrictivas, para lo cual, el conductor deberá proceder de la siguiente manera:
+La vuelta continua, a la derecha y a la izquierda, está prohibida, excepto cuando exista un señalamiento que expresamente lo permita, en cuyo caso deberá cederse el paso a los peatones que estén cruzando y a los vehículos que transiten por la vía a la que se pretende incorporar.
 
 I.- Circular por el carril derecho desde una cuadra o 50 metros, aproximadamente, antes de realizar la vuelta derecha continua;
 
@@ -1107,13 +1139,29 @@ X.- No llevar carga que dificulte su visibilidad, equilibrio, adecuada operació
 
 XI.- Tomar oportunamente el carril correspondiente al dar la vuelta a la izquierda o a la derecha; y
 
-XII.- Acatar estrictamente las disposiciones establecidas por el presente reglamento.
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XII.- Abstenerse de transportar pasajeros menores de doce años de edad.
+
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XIII.- Abstenerse de transportar a un pasajero entre el conductor y el manubrio.
+
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XIV.- Abstenerse de transportar menores de edad, pero mayores de doce años, cuando este no pueda sujetarse por sí mismo a la motocicleta y, estando correctamente sentado, no pueda colocar adecuada y firmemente los pies en los estribos o posa pies, excepto que cuente con los aditamentos especialmente diseñados para su seguridad.
+
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XV.- Acatar estrictamente las disposiciones establecidas por el presente reglamento.
 
 ###### Artículo 90.
 
 Son obligaciones de los conductores de vehículos automotores:
 
-I.- Manejar siempre con precaución, en uso de sus facultades físicas y mentales, sujetando con ambas manos el volante, sin llevar en los brazos a personas u objeto alguno;
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+I.- Manejar siempre con precaución, en uso de sus facultades físicas y mentales, sujetando con ambas manos el volante, sin llevar en los brazos a personas, animales u objeto alguno.
 
 II.- Revisar las condiciones mecánicas de la unidad que manejen; comprobar el buen funcionamiento de las llantas, limpiadores, luces y frenos, así como verificar que se cuenta con llanta de refacción, extinguidor, y herramienta;
 
@@ -1121,7 +1169,9 @@ II.- Revisar las condiciones mecánicas de la unidad que manejen; comprobar el b
 
 III.- Traer consigo la licencia y/o el permiso vigente para conducir vehículos y la tarjeta de identificación personal para operadores de transporte público, expedida por la Secretaría de Transporte, así como la documentación que autorice la circulación del vehículo;
 
-IV.- Usar el cinturón de seguridad y, en su caso, obligar a usarlo a quien lo acompañe en el asiento delantero;
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+IV.- Asegurarse que todos los pasajeros utilicen correctamente el cinturón de seguridad además de colocarse el propio, excepto los ocupantes de vehículos de emergencia.
 
 V.- Cumplir con las disposiciones relativas a las señales preventivas y restrictivas; de estacionamiento, sobre contaminación ambiental; y límites de velocidad;
 
@@ -1143,7 +1193,11 @@ XIII. (DEROGADA, G.G. 8 DE OCTUBRE DE 1998)
 
 XIV.- Abstenerse de rebasar el cupo de pasajeros autorizados;
 
-XV.- Abstenerse de conducir un vehículo que no haya cumplido con los requisitos sobre contaminación ambiental, o con limitación de circulación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XV.- Abstenerse de conducir un vehículo que no cuente con holograma de verificación vehicular vigente, que sea ostensiblemente contaminante o que circule cuando por restricción de carácter ambiental no le corresponda.
 
 XVI.- Abstenerse, de conducir bajo el efecto de drogas o psicotrópicos;
 
@@ -1165,7 +1219,35 @@ XXIII.- Abstenerse de obstaculizar los pasos destinados para peatones;
 
 XXIV.- Abstenerse de pasarse las señales rojas o ámbar de los semáforos; y
 
-XXV.- Las demás que imponga el presente reglamento y otras disposiciones legales.
+> <small>(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XXV.- Abstenerse de utilizar objetos que representen un distractor para la conducción segura; tratándose de dispositivos de apoyo a la conducción como mapas y navegadores GPS, cualquier manipulación deberá hacerse con el vehículo detenido.
+
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XXVI.- Abstenerse de utilizar el teléfono celular o cualquier dispositivo de comunicación mientras el vehículo esté en movimiento, cualquier manipulación deberá hacerse con el vehículo detenido.
+
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XXVII.- Abstenerse de transportar personas en la parte exterior de la carrocería, con excepción del transporte de cargadores o estibadores cuando la finalidad del transporte requiera de ellos en número y en condiciones tales que garanticen la integridad física de los mismos.
+
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XXVIII.- Abstenerse de instalar o utilizar televisores o pantallas de proyección de cualquier tipo de video o sistemas de entretenimiento en la parte delantera del vehículo.
+
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XXIX.- Las demás que imponga el presente reglamento y otras disposiciones legales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 90 Bis.
+
+Los vehículos automotores de uso particular deberán contar con póliza de seguro de responsabilidad civil vigente, que ampare al menos la responsabilidad civil por daños a terceros en su persona y en su patrimonio.
+
+Las unidades que prestan el servicio de transporte público de pasajeros o de carga, deberán contar con póliza de seguro de responsabilidad civil vigente que ampare la responsabilidad civil por daños y perjuicios que con motivo de la prestación del servicio se pudiese ocasionar a los usuarios o terceros en su persona o patrimonio.
 
 ### CAPITULO V
 
@@ -1567,6 +1649,10 @@ XI. En los casos específicos que determinen otras disposiciones legales.
 
 En los casos a que se refiere este artículo, con excepción de los contenidos en las fracciones VI y VII, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
 
+> <small>(ADICIONADA, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+XII.- Por no cumplir con la verificación vehicular obligatoria, ser ostensiblemente contaminante o por circular cuando por restricción de carácter ambiental no le corresponda.
+
 > <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
 
 Una vez remitido el vehículo al depósito correspondiente, los agentes deberán informar de inmediato a las autoridades, procediendo a sellar el vehículo para garantizar su conservación y la guarda de los objetos que en éste se encuentren.
@@ -1619,7 +1705,7 @@ Los infractores, serán sancionados de acuerdo a la falta cometida, conforme a l
 
 > <small>N. DE E. VÉASE TABLA DE INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD EN LA G.G. DE 21 DE SEPTIEMBRE DE 1992, PÁGINAS DE LA 50 A LA 67.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8; G.G. 9 DE AGOSTO DE 2004, PÁGINA 7; F. DE E., G.G. 10 AGOSTO DE 2004, PÁGINAS DE LA 3 A LA 4; G.G. 20 DE SEPTIEMBRE DE 2012, PÁGINAS DE LA 4 A LA 25.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 8 DE OCTUBRE DE 1998, PÁGINA 8; G.G. 9 DE AGOSTO DE 2004, PÁGINA 7; F. DE E., G.G. 10 AGOSTO DE 2004, PÁGINAS DE LA 3 A LA 4; G.G. 20 DE SEPTIEMBRE DE 2012, PÁGINAS DE LA 4 A LA 25; G.G. 24 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 5 A LA 7.</small>
 
 ###### Artículo 123.
 
@@ -1659,6 +1745,24 @@ VI.- Nombre y firma del agente de tránsito que levante la infracción.
 
 La información obtenida con equipos y sistemas tecnológicos, con base en la cual se determine la imposición de la sanción, misma que hará prueba plena.
 
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 125 Bis.
+
+Se entenderá por equipos o sistemas tecnológicos todos los dispositivos electromecánicos, fotográficos y de video que sirvan para regular, controlar y dirigir el tránsito de vehículos; así como para la captación y generación de infracciones.
+
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 125 Ter.
+
+Atendiendo al equipo o sistemas tecnológicos utilizados para captar la comisión de la infracción, la boleta señalada en el artículo 125 deberá contener además el lugar en que se encontraba al momento de ser detectada y copia de la imagen del número de placa o matrícula del vehículo, con la confirmación de que dichos elementos corresponden en forma auténtica y sin alteración de ningún tipo a lo captado así como el sello o firma electrónica respectiva de la autoridad que valida la infracción.
+
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 125 Quáter.
+
+Las infracciones a este reglamento captadas por equipos o sistemas tecnológicos, deberán ser notificadas al propietario del vehículo.
+
 > <small>(REFORMADO, G.G. 29 DE ABRIL DE 2013)</small>
 
 ###### Artículo 126.
@@ -1672,6 +1776,10 @@ Cuando el vehículo que conduzca el infractor se encuentre matriculado fuera del
 ###### Artículo 127.
 
 Si el infractor realiza el pago de la infracción el mismo día, obtendrá un descuento del 70% y cuando pague la multa dentro de los quince días hábiles siguientes, tendrá derecho a un descuento del 50%.
+
+> <small>(ADICIONADO, G.G. 24 DE NOVIEMBRE DE 2015)</small>
+
+Para el caso de las infracciones detectadas a través de equipos o sistemas tecnológicos, los plazos para obtener los beneficios señalados en el párrafo anterior, comenzarán a correr a partir de la fecha en que la infracción haya sido notificada en el domicilio de la persona que se encuentre registrada como propietaria en el registro vehicular correspondiente.
 
 > <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
 
@@ -1800,3 +1908,15 @@ PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 24 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno.”
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+Tratándose del holograma de verificación vehicular y de la obligación para contar con el seguro de responsabilidad civil su vigencia será a partir del primero de enero de 2016.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
