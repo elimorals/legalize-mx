@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-comision-estatal-para-la-77528"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-06"
-last_updated: "2010-11-06"
+last_updated: "2015-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA PLANEACION DE LA EDUCACION SUPERIOR EN EL ESTADO DE OAXACA
 
-REGLAMENTO INTERNO DE LA COMISION ESTATAL PARA LA PLANEACION DE LA EDUCACION SUPERIOR EN EL ESTADO DE OAXACA
+REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA PLANEACIÓN DE LA EDUCACIÓN SUPERIOR EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA PLANEACIÓN DE LA EDUCACIÓN SUPERIOR EN EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 6 de noviembre de 2010.
 
@@ -392,3 +394,15 @@ DIRECTOR DEL INSTITUTO DE ESTUDIOS SUPERIORES DEL GOLFO DE MÉXICO
 LIC. JORGE MACÉS LUIS
 
 COMISARIO SUPLENTE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COMISIÓN ESTATAL PARA LA PLANEACIÓN DE LA EDUCACIÓN SUPERIOR EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Reglamento prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ellas, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el Reglamento Interno de la Comisión Estatal para la Planeación de la Educación Superior en el Estado de Oaxaca, aprobado el 15 de octubre de 2010 y publicado en el Periódico Oficial del Gobierno del Estado el 6 de noviembre de 2010.
