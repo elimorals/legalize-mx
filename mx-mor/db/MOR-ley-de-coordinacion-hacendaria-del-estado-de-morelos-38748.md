@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2014-12-24"
+last_updated: "2015-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -115,27 +115,21 @@ Las autoridades hacendarias municipales, en el ejercicio de las facultades y fun
 
 ### CAPÍTULO III. De las Participaciones
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
 A los municipios de la entidad les corresponde y percibirán ingresos por concepto de las Participaciones Federales que reciba el Gobierno del Estado, en la proporción que para cada fondo se establece a continuación:
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-I.- Del Fondo General de Participaciones, el 20% del total;
+I.- Del Fondo General de Participaciones, el 22% del total;
 
 II.- Del Fondo de Fomento Municipal, el 100%;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+III.- De la recuperación del Impuesto sobre Tenencia o Uso de Vehículos, el 22% del total;
 
-III.- De la recuperación del Impuesto sobre Tenencia o Uso de Vehículos, el 20% del total;
+IV.- Del impuesto especial sobre producción y servicios, el 22% del total;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-IV.- Del impuesto especial sobre producción y servicios, el 20% del total;
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-V.- Del Impuesto Sobre Automóviles Nuevos, el 20% del total;
+V.- Del Impuesto Sobre Automóviles Nuevos, el 22% del total;
 
 VI.- De la reserva de contingencia que reciba el Gobierno del Estado, se distribuirá como mínimo una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. La cantidad a distribuir se hará de la siguiente forma:
 
@@ -143,9 +137,9 @@ Se iniciará con el municipio que tenga el coeficiente de participación efectiv
 
 El coeficiente de participación efectiva a que se refiere el párrafo anterior, será el que resulte de dividir del total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
+VII.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los Municipios el 22% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
 
-VII.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, se distribuirá a los Municipios el 20% en forma proporcional al coeficiente que resulte de dividir el total de las participaciones efectivamente recibidas por cada municipio, entre el total de las participaciones pagadas a todos los municipios en el ejercicio fiscal inmediato anterior.
+El aumento del 2% de las Participaciones a los Municipios que ha quedado plasmado, preferentemente se destinará a la Seguridad Pública Municipal y laudos.
 
 ###### Artículo 7.
 
@@ -217,7 +211,9 @@ Los recursos de los fondos de aportaciones federales que correspondan al Gobiern
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
-Artículo 13 bis.- Las aportaciones federales y sus accesorios que corresponden a los municipios del Estado, no serán embargables, ni los ayuntamientos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarlas a mecanismos de fuente de pago, salvo en los casos expresamente previstos en la Ley de Coordinación Fiscal de la Federación. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en dicha ley.
+###### Artículo 13 Bis.
+
+Las aportaciones federales y sus accesorios que corresponden a los municipios del Estado, no serán embargables, ni los ayuntamientos correspondientes podrán, bajo ninguna circunstancia, gravarlas ni afectarlas en garantía o destinarlas a mecanismos de fuente de pago, salvo en los casos expresamente previstos en la Ley de Coordinación Fiscal de la Federación. Dichas aportaciones y sus accesorios, en ningún caso podrán destinarse a fines distintos a los expresamente previstos en dicha ley.
 
 La afectación de aportaciones federales y sus accesorios como garantía o fuente de pago de obligaciones contraídas por los municipios, deberá ser previamente autorizada por el Cabildo y por el Congreso del Estado en términos de lo previsto por la Constitución del Estado y por las Leyes de Deuda Pública y de Contratos de Colaboración Público Privada estatales, según corresponda.
 
@@ -249,31 +245,27 @@ En caso de desastres naturales o presencia de brotes epidémicos, que pongan en 
 
 La distribución por municipios se incluirá en el Presupuesto de Egresos del Gobierno del Estado de cada ejercicio fiscal.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+###### Artículo 15 Bis.
 
-Artículo 15 bis.- Se instituye el Fondo Morelense para la Seguridad Pública Municipal, que se determinará aplicando, sólo para efectos de referencia, los porcentajes de los ingresos que perciba el Gobierno del Estado por concepto de las Participaciones en la proporción que para cada fondo se establece a continuación:
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2015)
 
-I.- Del Fondo General de Participaciones, el 5% del total;
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
 
-II.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 5% del total;
+###### Artículo 15 Ter.
 
-III.- Del impuesto especial sobre producción y servicios, el 5% del total;
+Se instituye el Fondo para el Desarrollo y Fortalecimiento Municipal, del Estado de Morelos; que se determinará aplicando, los porcentajes de los ingresos que perciba el Gobierno del Estado por concepto de las Participaciones en la proporción que para cada fondo se establece a continuación:
 
-IV.- Del Impuesto Sobre Automóviles Nuevos, el 5% del total, y
+I.- Del Fondo General de Participaciones, el 1% del total;
 
-V.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, el 5% del total.
+II.- Del Impuesto sobre Tenencia o Uso de Vehículos, el 1% del total;
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
+III.- Del impuesto especial sobre producción y servicios, el 1% del total;
 
-Este fondo lo administrará el Ejecutivo Estatal, a través de la Secretaría de Gobierno del Poder Ejecutivo Estatal y lo asignará en los Municipios en la misma proporción, de conformidad con los factores que se obtengan de aplicar la fórmula estipulada en el Artículo 7 de la presente Ley. Los recursos de este Fondo, podrán ser aplicados en proyectos conjuntos mediante esquemas de colaboración o a la par con la Federación, Organismos Internacionales u otras Entidades que realicen proyectos en materia de seguridad en el Estado de Morelos.
+IV.- Del Impuesto Sobre Automóviles Nuevos, el 1% del total, y
 
-Los municipios del Estado de Morelos podrán presentar proyectos de inversión en materia de seguridad, atendiendo las necesidades y prioridades municipales, a fin de ser financiados por este Fondo. Asimismo, este fondo podrá financiar proyectos intermunicipales, respetando de manera agregada los valores señalados en el párrafo anterior, con el propósito de orientar las políticas en materia de seguridad del ámbito regional.
+V.- De los ingresos extraordinarios que por concepto de participaciones en ingresos federales le distribuya la Federación al Gobierno del Estado, por cualquier otro concepto que no establezca la forma de repartirlo, el 1% del total.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-El monto total de los recursos de este fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente artículo, se invertirán para impulsar el desarrollo policial, el pago de nóminas, estímulos, recompensas, gasto corriente, de operación, infraestructura, equipamiento y controles de confianza, en materia de seguridad pública.
+El Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos; se regirá en términos de la Ley específica, el monto total de los recursos de este fondo que resulte de la suma de los importes a que se refieren las fracciones de la I a la V del presente artículo, se invertirán para impulsar el desarrollo y fortalecimiento Municipal del Estado de Morelos.
 
 ### CAPÍTULO V. De la Coordinación en Materia de Deuda Pública
 
@@ -583,7 +575,7 @@ L. C. JOSÉ ALEJANDRO JESÚS VILLARREAL GASCA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 2 DE MARZO DE 2005.
 
@@ -668,3 +660,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto iniciará su vigencia el día primero de enero del año 2015, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado, para los fines que indican el artículo 44, fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos
+
+TERCERO.- El Congreso del Estado deberá expedir en un plazo máximo de 30 días hábiles, la Ley que regule el Fondo para el Desarrollo y Fortalecimiento Municipal del Estado de Morelos.
+
+CUARTO.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se opongan al presente decreto.
