@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2015-10-20"
+last_updated: "2015-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -2037,9 +2037,11 @@ I.- Ningún contrato de arrendamiento podrá celebrarse por término mayor de un
 
 II.- En todos los casos, se exigirá a los arrendatarios el otorgamiento de una garantía, para asegurar el cumplimiento de las obligaciones que contraigan.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 147.
 
-La enajenación de bienes muebles pertenecientes al Municipio sólo podrá hacerse en pública subasta previa autorización del Congreso del Estado.
+La enajenación de bienes muebles pertenecientes al Municipio deberá hacerse en subasta pública.
 
 ### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
@@ -5836,6 +5838,12 @@ P.O. 7 DE JULIO DE 2015.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
