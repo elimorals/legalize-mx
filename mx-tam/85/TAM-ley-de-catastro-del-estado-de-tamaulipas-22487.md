@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2011-12-06"
+last_updated: "2015-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -781,9 +781,11 @@ Las tablas de valores, básicas para determinar el valor catastral de los inmueb
 
 Los estudios técnicos empleados para la elaboración de la propuesta de los valores unitarios, para los terrenos y los diferentes tipos de construcciones, garantizarán que sean razonablemente equiparables o similares a los valores de mercado y serán utilizados para determinar los valores catastrales de los bienes inmuebles; y, de conformidad con lo que se establezca en las disposiciones fiscales correspondientes, servirán de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 74.
 
-Los Ayuntamientos deberán presentar al Congreso del Estado las propuestas de tablas de valores, a más tardar el 10 de septiembre del año inmediato anterior al que se aplicarán dichos valores, para proceder a su análisis, revisión, discusión, modificación y aprobación, en su caso. Si los Ayuntamientos no presentaran nueva propuesta de tabla de valores, el Congreso del Estado determinará la actualización de las mismas.
+Los Ayuntamientos deberán presentar al Congreso del Estado las propuestas de tablas de valores y, en su caso, adjuntar las observaciones y recomendaciones realizadas respecto a éstas por las Juntas Municipales de Catastro, a más tardar el 10 de septiembre del año inmediato anterior al que se aplicarán dichos valores, para proceder a su análisis, revisión, discusión, modificación y aprobación, en su caso. Si los Ayuntamientos no presentaran nueva propuesta de tabla de valores, el Congreso del Estado determinará la actualización de las mismas.
 
 ###### ARTICULO 75.
 
@@ -1150,6 +1152,12 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 6 DE DICIEMBRE DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
