@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-organismo-regularizador-de-la-96638"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-11-09"
-last_updated: "2013-11-09"
+last_updated: "2015-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DEL ORGANISMO REGULARIZADOR DE LA TENENCIA DE LA TIERRA EN ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL ORGANISMO REGULARIZADOR DE LA TENENCIA DE LA TIERRA EN ZACATECAS, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Estatuto Publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 9 de noviembre de 2013.
 
@@ -606,3 +608,13 @@ Primero: El presente Estatuto Orgánico entrará en vigor al día siguiente de s
 Segundo.- Dentro del término de sesenta días hábiles se expedirá el Manual de Organización y 180 días hábiles, el Manual de Procedimientos, a partir de la entrada en vigor de presente ordenamiento.
 
 APROBADO POR LA JUNTA DE GOBIERNO DEL ORGANISMO REGULARIZADOR DE LA TENENCIA DE LA TIERRA, EN LA PRIMERA SESIÓN ORDINARIA, CELEBRADA EL DÍA 04 DE OCTUBRE DEL 2013. RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE NOVIEMBRE DE 2015.
+
+Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Estatuto Orgánico del Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, publicado en el Periódico Oficial Órgano del Gobierno del Estado, en Suplemento 6 al No. 90, el día 9 de noviembre del 2013.
+
+Tercero.- Dentro del término de sesenta días hábiles se expedirá el Manual de Organización y 180 días hábiles, el Manual de Procedimientos, a partir de la entrada en vigor de (sic) presente ordenamiento.
