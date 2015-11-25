@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2013-12-30"
+last_updated: "2015-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -5195,9 +5195,11 @@ II.- El mayor de edad sordomudo, que no sepa darse a entender por escrito o por 
 
 III.- El mayor de edad que habitualmente hace uso no terapéutico de enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca farmacodependencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 722.
 
-Están legitimados para promover la interdicción:
+Están legitimados para promover interdicción:
 
 I.- El cónyuge;
 
@@ -5210,6 +5212,10 @@ IV.- El Ministerio Público;
 V.- Quien fue tutor o curador de un menor afectado por una de las enfermedades a que se refiere el artículo que antecede, que al cumplir dieciocho años de edad, continúe padeciendo esa enfermedad, y
 
 VI.- Los servidores públicos a los que la Ley les imponga el deber de tutelar el interés de los incapacitados.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2015)</small>
+
+VII.- La persona que haya sido designada como tutor por el presunto incapaz en términos del artículo 691 bis del Código Civil para el Estado Libre y Soberano de Puebla.
 
 ###### Artículo 723.
 
@@ -5257,7 +5263,9 @@ El Juez interrogará, si es posible, a la persona cuya interdicción se pide y e
 
 Si del dictamen pericial resultare comprobada la denuncia, o por lo menos que existe duda fundada acerca de la incapacidad de la persona cuya interdicción se pide, el Juez dictará las medidas siguientes:
 
-I.- Nombrará tutor y curador interinos, sin que pueda ser nombrado para ninguno de esos cargos la persona que pidió la interdicción;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2015)</small>
+
+I.- Nombrará tutor y curador interinos, sin que pueda ser nombrado para ninguno de esos cargos la persona que pidió la interdicción; salvo el caso de lo dispuesto en la fracción VII del artículo 722 de esta Ley;
 
 II.- Exigirá al tutor interino si hubiere de administrar bienes, la caución correspondiente;
 
@@ -6434,3 +6442,9 @@ DECRETO POR EL QUE SE REFORMA LOS ARTÍCULOS 574 AL 584; 586, 679 Y EL 680 DEL C
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
