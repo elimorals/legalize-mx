@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2015-07-22"
+last_updated: "2015-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -937,11 +937,11 @@ La elección consecutiva de los diputados a la Legislatura del Estado podrá ser
 
 El Congreso del Estado tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la convocatoria respectiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-Dentro de los 95 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+Dentro de los 115 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, asistirá el Gobernador del Estado y presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2011)</small>
 
@@ -1359,9 +1359,9 @@ XVI. Iniciar ante el Congreso del Estado, las leyes y decretos que juzgue conven
 
 XVII. Solicitar a la Comisión Permanente que convoque al Congreso del Estado a Sesiones Extraordinarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
 
-XVIII. Presentar al Congreso del Estado, dentro de los 95 días siguientes a la apertura del primer período de sesiones ordinarias del mismo, un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso del Estado.
+XVIII. Presentar al Congreso del Estado, dentro de los 115 días siguientes a la apertura del primer período de sesiones ordinarias del mismo, un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso del Estado.
 
 El Gobernador del Estado, en relación a los informes que se llevarán a cabo en cada región, podrá presentarlos por sí o a través de los servidores públicos que el designe, antes de los ocho días previos o cinco días posteriores a la réplica de los mismos.
 
@@ -4566,3 +4566,11 @@ Artículo Sexto.- El Congreso del Estado aprobará el presupuesto necesario para
 Artículo Séptimo.- El Magistrado Presidente deberá ser designado en la primera sesión del Pleno del Tribunal de Justicia Administrativa.
 
 Artículo Octavo.- Una vez que entre en vigor en nuestra Entidad Federativa, el Sistema Local Anticorrupción, el Tribunal de Justicia Administrativa será el Órgano competente que asumirá las atribuciones establecidas en la legislación correspondiente. Para lo cual, se llevará a cabo las adecuaciones necesarias a la normatividad en la materia.
+
+P.O. 25 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 025 POR EL QUE SE ESTABLECE LA VIGÉSIMA SEXTA REFORMA A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
