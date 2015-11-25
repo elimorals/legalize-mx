@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2015-07-07"
+last_updated: "2015-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -59,11 +59,13 @@ La Comisión de Derechos Humanos del Estado de Tamaulipas es un organismo públi
 
 La Comisión conocerá de quejas y denuncias sobre violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa provenientes de autoridades y servidores públicos que actúen en el ámbito del Estado de Tamaulipas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 4.
+
+En la defensa de los derechos humanos, se observarán los principios de universalidad, interdependencia, indivisibilidad, progresividad. Los procedimientos que se sigan ante la Comisión serán breves y sencillos, sin más formalidades que las establecidas en esta ley y se regirán por los principios de buena fe, accesibilidad, inmediatez, conciliación, concentración, rapidez, discrecionalidad, publicidad y carácter no vinculatorio de sus resoluciones.
+
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
-
-###### ARTICULO 4.
-
-Los procedimientos que se sigan ante la Comisión serán breves y sencillos, sin más formalidades que las establecidas en esta Ley y se regirán por los principios de buena fe, accesibilidad, inmediatez, conciliación, concentración, rapidez, discrecionalidad, máxima publicidad y carácter no vinculatorio de sus resoluciones.
 
 El personal de la Comisión manejará la información de acceso restringido en los términos que al efecto establece la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
@@ -698,6 +700,12 @@ P.O. 15 DE MAYO DE 2013.
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 7 DE JULIO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE NOVIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
