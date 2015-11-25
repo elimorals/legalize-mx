@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-organo-de-fiscalizacion-superior-93702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-28"
-last_updated: "2014-01-28"
+last_updated: "2015-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 28 DE ENERO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 25 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 25 DE NOVIEMBRE DE 2015. (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2013.
 
@@ -1154,3 +1156,15 @@ G.O. 28 DE ENERO DE 2014.
 > <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.</small>
 
 Cuarto. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
+
+G.O. 25 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Veracruz, publicado en la Gaceta Oficial del estado el veintiocho de febrero del año dos mil trece.
+
+Tercero. Las Áreas Administrativas del Órgano presentarán su Programa Anual de Actividades dos mil dieciséis, ajustado a las nuevas previsiones reglamentarias.
+
+Cuarto. Los actos y procedimientos administrativos iniciados por las Áreas Administrativas que cambian de denominación y/o adscripción continuarán su trámite hasta su conclusión, por aquellas de nueva denominación y de facultades equivalentes.
