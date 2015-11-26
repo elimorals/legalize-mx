@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2015-11-12"
+last_updated: "2015-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -1513,17 +1513,27 @@ La Junta de Gobierno se integra por los miembros propietarios con derecho a voz 
 
 Son integrantes de la Junta de Gobierno:
 
-I. De manera preferente, el Gobernador del Estado, que lo presidirá;
+> <small>N. DE E. SE ADVIERTE QUE MEDIANTE ARTÍCULO SEGUNDO DEL DECRETO 25542/LX/15 SE DEROGÓ LA FRACCIÓN I, RECORRIÉNDOSE EN SU ORDEN LAS FRACCIONES II, III Y IV, P.O. 26 DE NOVIEMBRE DE 2015.</small>
 
-II. El Secretario cabeza de sector, que lo presidirá cuando el Gobernador no integre parte de la Junta de Gobierno;
+(REUBICADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2015)
 
-III. El Director General, sólo con derecho a voz y hará las funciones de Secretario Técnico de la Junta de Gobierno, y
+I. El Secretario Cabeza de Sector, que lo presidirá;
 
-IV. Los demás integrantes que establezca la ley o decreto de creación, o el Estatuto Orgánico, en su caso.
+(REUBICADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2015)
+
+II. El Director General, sólo con derecho a voz y hará las funciones de Secretario Técnico de la Junta de Gobierno; y
+
+(REUBICADA, P.O. 26 DE NOVIEMBRE DE 2015)
+
+III. Los demás integrantes que establezca la ley o decreto de creación, o el Estatuto Orgánico, en su caso.
 
 Los integrantes con derecho a voto que representen al Estado siempre deben ser mayoría absoluta.
 
 Los cargos como integrante de la Junta de Gobierno de un Organismo son honoríficos.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+Corresponderá a los titulares de las Secretarías Cabeza de Sector, la coordinación de su Sector, así como vigilar el cumplimiento de las políticas de desarrollo, conocer la operación y evaluación de los resultados de las entidades paraestatales del ramo que les corresponda.
 
 ###### Artículo 57.
 
@@ -2030,3 +2040,11 @@ QUINTO. Hasta en tanto se realicen las adecuaciones correspondientes, continuar�
 SEXTO. Hasta en tanto se lleven a cabo las reformas a los reglamentos, protocolos, manuales y demás ordenamientos jurídicos o administrativos, cualquier alusión en estos a la Policía Vial, deberá entenderse que depende de la Secretaria de Movilidad.
 
 SÉPTIMO. El Titular del Poder Ejecutivo deberá instrumentar las acciones necesarias para garantizar, a la brevedad posible, la correspondiente aplicación del examen de control de confianza al titular de la Dirección Operativa de la Policía Vial del Estado de Jalisco.
+
+P.O. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Planeación, Administración y Finanzas con la información contenida en este Decreto, deberá formular, dentro de los 20 días hábiles posteriores a su aprobación, los anexos correspondientes a la Modificación del Presupuesto de Egresos del Gobierno del Estado de Jalisco para el ejercicio fiscal 2015, para ser publicados en el Periódico Oficial "El Estado de Jalisco", los cuales una vez elaborados por la Secretaría serán remitidos al Congreso del Estado de Jalisco para que formen parte de la minuta de Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
