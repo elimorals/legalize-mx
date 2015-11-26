@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-austeridad-y-ahorro-del-estado-de-jalisco-y-sus-103743"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-22"
-last_updated: "2014-11-22"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO, ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Jalisco, el sábado 22 de noviembre de 2014.
 
@@ -69,7 +67,9 @@ En el caso de los ayuntamientos, y en apego a su autonomía, se deberán elabora
 
 En la elaboración de los Presupuestos de Egresos, y en los términos de la legislación aplicable, la Secretaría de Planeación, Administración y Finanzas, así como los municipios, podrán preferentemente dirigir los recursos obtenidos a partir de las políticas y lineamientos de austeridad y ahorro, al Capítulo de Inversión Pública.
 
-Por ninguna razón podrán destinarse los ahorros generados hacia los capítulos correspondientes al gasto operativo como son servicios personales, materiales y suministros, servicios generales, transferencias, subsidios y subvenciones, bienes muebles e inmuebles, inversiones financieras y deuda pública, con excepción de los capítulos anteriores correspondientes a las áreas de seguridad pública y salud.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+Por ninguna razón podrán destinarse los ahorros generados hacia los capítulos correspondientes al gasto operativo como son servicios personales, materiales y suministros, servicios generales, transferencias, subsidios y subvenciones, bienes muebles e inmuebles, inversiones financieras y deuda pública, con excepción de los capítulos anteriores correspondientes a las áreas de seguridad pública, salud y educación.
 
 ###### Artículo 5.
 
@@ -296,3 +296,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Planeación, Administración y Finanzas con la información contenida en este Decreto, deberá formular, dentro de los 20 días hábiles posteriores a su aprobación, los anexos correspondientes a la Modificación del Presupuesto de Egresos del Gobierno del Estado de Jalisco para el ejercicio fiscal 2015, para ser publicados en el Periódico Oficial "El Estado de Jalisco", los cuales una vez elaborados por la Secretaría serán remitidos al Congreso del Estado de Jalisco para que formen parte de la minuta de Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
