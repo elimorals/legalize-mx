@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2015-07-21"
+last_updated: "2015-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -811,17 +811,19 @@ De aprobar el examen de aptitud, los aspirantes a los cargos de actuario y secre
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)</small>
 
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 26 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 72.
 
 La circunstancia de que un Magistrado de Circuito o Juez de Distrito adquiera alguno de los parentescos por afinidad o civil, a que se refiere la fracción XI del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos con alguno de los servidores públicos adscritos al mismo órgano jurisdiccional del que sea titular, no hace cesar el nombramiento respectivo, previamente expedido, ni impide que los funcionarios involucrados continúen en el disfrute de sus derechos laborales; con excepción del caso de que se trate del matrimonio celebrado por el titular con uno de esos servidores públicos.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 21 DE JULIO DE 2015)</small>
+En el caso de que en algún órgano jurisdiccional o área administrativa del Consejo se hubiese extendido un nombramiento de base, interino o de confianza a persona o personas que fuesen cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos de ningún tipo, respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano jurisdiccional o área administrativa del Consejo, donde se encuentren adscritos sus allegados.
 
-En el caso de que en algún órgano jurisdiccional se hubiere extendido un nombramiento de base, interino, o de confianza a persona o personas que fueren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular; éste no podrá a su vez, extender nombramientos de ningún tipo, respecto de personas que resultaren cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado del titular del órgano donde se encuentren adscritos sus allegados. El titular que designe en cualquier cargo a personas que se ubiquen en los supuestos citados, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos.
+La contravención a lo dispuesto en el párrafo anterior constituirá causa de responsabilidad administrativa en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, quedando además sin efectos el nombramiento o nombramientos que en su caso se hubiesen otorgado.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 20 DE JULIO DE 2010)</small>
+El titular del órgano jurisdiccional que designe en cualquier cargo a personas que sean cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de otro titular de órgano jurisdiccional o de área administrativa, deberá dar aviso de esa circunstancia a la Dirección General de Recursos Humanos.
 
-La contravención a lo dispuesto en el párrafo precedente constituirá causa de responsabilidad administrativa en términos de la Ley Federal de Responsabilidades Administrativas de los servidores públicos, quedando además sin efectos el nombramiento o nombramientos que en su caso se hubieren otorgado.
+Para efectos de este artículo, por titulares de áreas administrativas se entienden aquellos referidos en el artículo 18 bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
 
 ###### Artículo 73.
 
@@ -1990,3 +1992,13 @@ ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SI
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D. O. F. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los nombramientos, cualquiera que sea su naturaleza, otorgados con anterioridad a la entrada en vigor del presente Acuerdo, que se encuentren en las nuevas hipótesis de los artículos 72 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; y 18 bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo; continuarán sus efectos con todas sus consecuencias jurídicas hasta su conclusión.
+
+En todo caso, los titulares de los órganos jurisdiccionales, así como de las áreas administrativas, deberán dar aviso a la Dirección General de Recursos Humanos de la existencia de los nombramientos a que se refiere el párrafo anterior.
