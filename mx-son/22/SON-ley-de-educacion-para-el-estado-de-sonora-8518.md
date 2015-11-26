@@ -4,7 +4,7 @@ identifier: "SON-ley-de-educacion-para-el-estado-de-sonora-8518"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2015-07-16"
+last_updated: "2015-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 30 de diciembre de 1994.
 
@@ -163,15 +163,21 @@ La educación impartida por el Estado, sus organismos descentralizados, y los Ay
 
 > <small>(ADICIONADO, B.O. 8 DE DICIEMBRE DE 2011)</small>
 
-###### ARTICULO 7o Bis.
-
-Las escuelas de educación básica deberán contar con aulas equipadas con aire acondicionado que los protejan de las altas y bajas temperaturas que se presentan en la Entidad. Es obligación del Gobierno del Estado proveer lo conducente para cumplir con la obligación señalada en este artículo, tanto para la compra e instalación del equipamiento necesario, incluyendo la infraestructura eléctrica requerida para su operación, así como el pago del consumo de energía eléctrica que se genere.
+ARTICULO 7o BIS.- Las escuelas de educación básica deberán contar con aulas equipadas con aire acondicionado que los protejan de las altas y bajas temperaturas que se presentan en la Entidad. Es obligación del Gobierno del Estado proveer lo conducente para cumplir con la obligación señalada en este artículo, tanto para la compra e instalación del equipamiento necesario, incluyendo la infraestructura eléctrica requerida para su operación, así como el pago del consumo de energía eléctrica que se genere.
 
 La Secretaría evaluará, anualmente, las condiciones de los equipos instalados y operará un programa permanente de sustitución de las unidades que hayan cumplido su ciclo de vida útil para garantizar la permanencia de las condiciones climáticas ideales para el proceso de enseñanza-aprendizaje en las aulas de las escuelas de la entidad.
 
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
 Se garantizará la existencia de bebederos suficientes y con suministro continuo de agua potable en cada inmueble de uso escolar, conforme a los lineamientos que emita la Secretaría de Salud, en coordinación con la Secretaría.
+
+> <small>(ADICIONADO, B.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+Las aulas de las escuelas públicas de educación básica establecidas dentro del territorio estatal deberán contar con la iluminación necesaria para favorecer el aprendizaje de los educandos, evitando así la fatiga ocular o visual. Para ello se procurará que en las aulas, bibliotecas y demás espacios escolares destinados al proceso de enseñanza-aprendizaje, se utilice iluminación generada con tecnología LED (diodo de emisión de luz).
+
+> <small>(ADICIONADO, B.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+ARTICULO 7o TER.- Será obligatorio que en las escuelas públicas de educación básica establecidas dentro del territorio estatal, sean utilizados en las aulas colores en paredes y techos que favorezcan el aprendizaje del educando, a través de la estimulación psicológica y, a su vez, éstos beneficien la iluminación en las aulas. Así mismo, se procurará que el mobiliario que se utilice dentro de las aulas cuente con esas características.
 
 > <small>(REFORMADO, B.O. 3 DE ABRIL DE 2014)</small>
 
@@ -2604,3 +2610,23 @@ DECRETO NÚMERO 188 POR EL QUE SE REFORMA LA FRACCIÓN II BIS A DEL ARTÍCULO 19
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 11 POR EL QUE SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 70 BIS DE LA LEY DE EDUCACIÓN.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo Estatal deberá contemplar en los posteriores presupuestos estatales de egresos correspondientes, los recursos suficientes para dar cumplimiento de lo ordenado en la presente reforma.
+
+B.O. 26 DE NOVIEMBRE DE 2015.
+
+DECRETO NÚMERO 13 POR EL QUE SE ADICIONA UN ARTÍCULO 7o TER A LA LEY DE EDUCACIÓN.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
