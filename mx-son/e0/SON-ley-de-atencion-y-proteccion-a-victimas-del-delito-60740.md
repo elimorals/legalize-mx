@@ -4,7 +4,7 @@ identifier: "SON-ley-de-atencion-y-proteccion-a-victimas-del-delito-60740"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-07"
-last_updated: "2012-10-11"
+last_updated: "2015-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS DEL DELITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA: 11 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 26 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN LOS TÉRMINOS ESTABLECIDOS EN EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 05, QUE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE INCORPORA AL RÉGIMEN JURÍDICO DEL ESTADO DE SONORA, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 31, SECCIÓN III, EL DÍA JUEVES 15 DE OCTUBRE DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA: 26 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 7 de abril de 2008.
 
@@ -744,3 +746,17 @@ B.O. 11 DE OCTUBRE DE 2012.
 El presente Decreto entrará en vigor el 18 de junio de 2016, previa publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 El Congreso del Estado podrá establecer, mediante declaratorias, la entrada en vigor de la presente reforma de manera gradual, antes del 18 de junio de 2016, en las modalidades que determine, por Distrito Judicial y tipo delito (sic).
+
+B.O. 26 DE NOVIEMBRE DE 2015.
+
+Artículo Primero.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Estado de Sonora, en los términos establecidos en el artículo único del Decreto número 05, que Declara que el Código Nacional de Procedimientos Penales se incorpora al régimen jurídico del Estado de Sonora, publicado en el Boletín Oficial número 31, sección III, el día jueves 15 de octubre de 2015.
+
+Artículo Segundo.- Se abroga la Ley número 162, de Atención y Protección de Víctimas del Delito, publicada en el Boletín Oficial número 28, sección II, de fecha 7 de abril de 2008.
+
+Artículo Tercero.- El Reglamento de la presente Ley deberá expedirse dentro de los noventa días siguientes a la fecha en que esta Ley entre en vigor.
+
+Artículo Cuarto.- El proyecto de Programa Anual de Atención a Víctimas del Estado deberá ser diseñado por la Comisión Ejecutiva Estatal en un plazo no mayor a seis meses a partir de la aprobación del Plan Anual Integral de Atención a Víctimas.
+
+Artículo Quinto.- El Fidecomiso del Fondo Estatal deberá quedar constituido para hacer efectivo el cumplimiento de la presente Ley y su Reglamento.
+
+Una vez Constituido el Fondo Estatal, el Comité Técnico del Fondo deberá quedar instituido y el mismo deberá expedir sus reglas de operación.
