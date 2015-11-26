@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-defensoria-publica-antes-ley-organica-de-843
 country: "mx"
 rank: "ley_organica"
 publication_date: "1973-07-28"
-last_updated: "2012-10-11"
+last_updated: "2015-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA, DEL ESTADO DE SONORA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 199, PUBLICADO EN EL B.O. DE 11 DE OCTUBRE DE 2012, EN LA INTERPRETACIÓN Y APLICACIÓN DE TODAS LAS DEMÁS DISPOSICIONES NORMATIVAS O LEYES EN QUE SE HAGA REFERENCIA A LOS TÉRMINOS DEFENSORÍA DE OFICIO, JEFE DE LA DEFENSORÍA DE OFICIO Y DEFENSOR DE OFICIO, DEBERÁ ENTENDERSE COMO DEFENSORÍA PÚBLICA, SUBSECRETARIO DE LA DEFENSORÍA PÚBLICA Y DEFENSOR PÚBLICO A QUE SE REFIERE ESTE DECRETO, RESPECTIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE OCTUBRE DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA, PUBLICADA EN EL B.O. DE 26 DE NOVIEMBRE DE 2015; ÚLTIMO ORDENAMIENTO QUE ENTRARÁ EN VIGOR PREVIA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA, EN LOS TÉRMINOS ESTABLECIDOS EN EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 05, QUE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE INCORPORA AL RÉGIMEN JURÍDICO DEL ESTADO DE SONORA, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 31, SECCIÓN III, EL DÍA JUEVES 15 DE OCTUBRE DE 2015.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el alcance al Boletín Oficial del Gobierno del Estado de Sonora, el sábado 28 de julio de 1973.
 
@@ -734,3 +736,9 @@ El Congreso del Estado, en el presupuesto de Egresos del Gobierno del Estado del
 ###### ARTICULO CUARTO.
 
 En la interpretación y aplicación de todas las demás disposiciones normativas o leyes en que se haga referencia a los términos Defensoría de Oficio, Jefe de la Defensoría de Oficio y Defensor de Oficio, deberá entenderse como Defensoría Pública, Subsecretario de la Defensoría Pública y Defensor Público a que se refiere este Decreto, respectivamente.
+
+B.O. 26 DE NOVIEMBRE DE 2015.
+
+Artículo Primero.- La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Estado de Sonora, en los términos establecidos en el artículo único del Decreto número 05, que Declara que el Código Nacional de Procedimientos Penales se incorpora al régimen jurídico del Estado de Sonora, publicado en el Boletín Oficial número 31, sección III, el día jueves 15 de octubre de 2015.
+
+Artículo Segundo.- Se abroga la Ley Orgánica de la Defensoría de Oficio publicada en el Boletín Oficial del Gobierno del Estado el 28 de julio de 1973.
