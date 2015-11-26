@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-10-09"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -674,6 +674,18 @@ El nombramiento inicial del personal de confianza de las áreas administrativas,
 ###### Artículo 18.
 
 Corresponde a la instancia que propone el nombramiento inicial determinar la temporalidad de éste, dentro del rango señalado en el artículo anterior, a efecto de evaluar el desempeño laboral del servidor público.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN MATERIA DE NOMBRAMIENTOS, D.O.F. 26 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 18 bis. Los titulares de las áreas administrativas se abstendrán de proponer como candidato a ocupar la vacante respectiva o, en su caso, de otorgar nombramiento, a personas que fuesen cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de algún titular de un órgano jurisdiccional o área administrativa del Consejo donde se encuentre adscrita alguna persona que sea cónyuge o pariente por consanguinidad o afinidad hasta el cuarto grado del titular del área administrativa a la que se pretende adscribir al candidato correspondiente, o del titular del área administrativa de la que dependa el área que realiza la propuesta.
+
+El incumplimiento de lo dispuesto en el párrafo anterior será sancionado administrativamente en términos de las disposiciones aplicables, quedando además sin efectos el nombramiento o nombramientos que en su caso se hubiesen otorgado.
+
+El servidor público que suscriba la propuesta de nombramiento lo hará bajo protesta de decir verdad de que no se actualiza la prohibición a que se refiere el primer párrafo de este artículo.
+
+El titular del área administrativa que designe o que proponga que se designe en cualquier cargo a personas que sean cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado de un titular de órgano jurisdiccional o de área administrativa, deberá dar aviso a la Dirección General de Recursos Humanos una vez que se haya otorgado el nombramiento correspondiente.
+
+Para efectos de este artículo, por titular de área administrativa se entiende a los titulares de los Órganos Auxiliares, Visitador Judicial A, Vocales, Secretarios Ejecutivos, Contralor del Poder Judicial de la Federación, Directores Generales, Titulares de Unidades Administrativas, Coordinador de Seguridad, Coordinadores Generales y aquellos servidores públicos de nivel inferior a los referidos que cuenten entre sus atribuciones otorgar o proponer a una instancia superior que se otorgue nombramiento a una persona.
 
 ###### Artículo 19.
 
@@ -11390,3 +11402,13 @@ D.O.F. 9 DE OCTUBRE DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Los nombramientos, cualquiera que sea su naturaleza, otorgados con anterioridad a la entrada en vigor del presente Acuerdo, que se encuentren en las nuevas hipótesis de los artículos 72 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; y 18 bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo; continuarán sus efectos con todas sus consecuencias jurídicas hasta su conclusión.
+
+En todo caso, los titulares de los órganos jurisdiccionales, así como de las áreas administrativas, deberán dar aviso a la Dirección General de Recursos Humanos de la existencia de los nombramientos a que se refiere el párrafo anterior.
