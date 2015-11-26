@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5863
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-29"
-last_updated: "2014-12-18"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58630&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-20"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de enero de 2008.
 
@@ -934,7 +934,7 @@ III. Fortalecer el Fondo de Apoyo a Víctimas del Delito para apoyar económicam
 
 IV. Gestionar convenios con la Secretaría de Finanzas para exención del pago de derechos a las mujeres víctimas de violencia en la emisión de copias certificadas, videograbaciones o cualquier otro medio digital, electrónico, óptico o de cualquier otra tecnología o copia de las versiones escritas que correspondan a los procedimientos en materia penal;
 
-V. Habilitar una línea única de atención telefónica para recibir denuncias de violencia contra las mujeres, por parte de la propia víctima o cualquier otra persona, y dar inicio a la investigación respectiva; y (sic)
+V. Habilitar una línea única de atención telefónica para recibir denuncias de violencia contra las mujeres, por parte de la propia víctima o cualquier otra persona, y dar inicio a la investigación respectiva; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN E INCISOS, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1032,17 +1032,63 @@ III. Las demás que le atribuyan otros ordenamientos legales.
 
 ### CAPÍTULO VII. MEDIDAS U ÓRDENES DE PROTECCIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 62.
 
+Las medidas de protección son medidas urgentes y de carácter temporal implementadas por una autoridad competente en favor de una mujer o niña en situación de violencia o de las víctimas indirectas en situación de riesgo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+
 Las medidas u órdenes de protección vinculadas a casos de violencia contra la mujer se aplicarán en los términos y condiciones que se establecen en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, esta Ley, y las legislaciones sustantivas y adjetivas aplicables al Distrito Federal.
 
-Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la conns1on de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una medida u orden de protección.
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+Las medidas de protección tienen como propósito prevenir, interrumpir o impedir la comisión de un delito o que se actualice un supuesto en materia civil o familiar que implique violencia contra las mujeres, a través de la emisión de una medida u orden de protección.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 Las medidas u órdenes de protección prohíben u ordenan la realización de determinadas conductas y son precautorias, cautelares y de urgente aplicación en función del interés superior de la víctima. Deberán otorgarse por el Ministerio Público y los órganos jurisdiccionales penales, o los jueces civil y familiar, según corresponda, inmediatamente que conozcan los hechos probablemente constitutivos delitos o supuestos del orden civil o familiar, que impliquen violencia contra la víctima o víctimas indirectas.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+Las medidas de protección deberán otorgarse de oficio por la autoridad competente desde el momento en que tenga conocimiento del hecho de violencia.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+En el caso en que el Ministerio Público o el Órgano Jurisdiccional competente considere la existencia de extrema violencia y urgencia, podrán implementar de manera directa e inmediata las medidas de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la iniciación de una denuncia.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+Las autoridades competentes deberán de establecer los lineamientos básicos para la implementación de las medidas de protección en coordinación con las instancias responsables de atender a las mujeres y niñas en situación de violencia.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 62 Bis.
+
+Las autoridades emisoras y ejecutoras de las medidas de protección deberán observar los siguientes principios:
+
+I. Principio de protección: considerar de manera primordial la obligación de salvaguardar la vida, integridad, libertad y seguridad de las personas;
+
+II. Principio de necesidad y proporcionalidad: las medidas de protección deben responder a las necesidades inmediatas y específicas de las víctimas, atendiendo a la situación de riesgo, peligro existente o a las consecuencias de los actos de violencia.
+
+III. Principio de confidencialidad: toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo.
+
+IV. Principio de oportunidad y eficacia: Las medidas deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo.
+
+V. Principio de accesibilidad: se deberá articular un procedimiento sencillo para garantizar la materialización de la protección inmediata a las víctimas de acuerdo a sus condiciones específicas, tomando en consideración el contexto de la violencia.
+
+VI. Principio de integralidad: El otorgamiento de la medida a favor de la victima deberá garantizar la salvaguarda de todos los derechos de las víctimas, considerando los distintos aspectos que se presentan en cada caso.
+
+VII. Principio de concentración: No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
+
+VIII. Principio pro persona: Para interpretar lo referente al otorgamiento de las medidas de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima.
+
+IX. Principio de interés superior de la niñez: Cuando las decisiones que se adopten relacionadas con el trámite de medidas de protección, afecte de manera directa o indirecta a una niña, niño o adolescente se deberán evaluar y ponderar las posibles repercusiones para evitar efectos negativos en su esfera de derechos
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1054,29 +1100,61 @@ Las medidas u órdenes de protección en materia penal, se consideran personalí
 
 l.- Prohibición de acercarse o comunicarse con la víctima u ofendido;
 
-II.- Limitación para asistir o acercarse al domicilio de la víctima u ofendido o al lugar donde se encuentre;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
-III.- Separación inmediata del domicilio del agresor, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, de matrimonio en sociedad conyugal, o de separación de bienes;
+II. Prohibición para asistir o acercarse al domicilio de la víctima directa o indirecta, así como acercarse al lugar de trabajo, estudio o cualquiera lugar que frecuente.
+
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+III. La desocupación inmediata por parte del agresor, del domicilio de la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, del matrimonio en sociedad conyugal o de separación de bienes, y en su caso, el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad.
 
 IV.- La prohibición de realizar conductas de intimidación o molestia a la víctima u ofendido o a personas relacionados con ellos.
 
-V.- La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en su posesión el probable responsable;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+V. La entrega inmediata de objetos de uso personal y documentos de identidad de la víctima que tuviera en posesión el agresor, y en su caso, los de sus hijas e hijos. En este caso deberá contar con el acompañamiento, del Ministerio Público y del personal de la policía de investigación.
 
 VI.- Vigilancia en el domicilio de la víctima u ofendido;
 
-VII.- Protección policial de la víctima u ofendido;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+VII. Custodia personal y o (sic) domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Procuraduría General de Justicia del Distrito Federal y de la Secretaría de Seguridad Pública del Distrito Federal, según corresponda, con base a la disponibilidad de personal con el que estas instancias cuenten.
 
 VIII.- Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo;
 
-IX.- Traslado de la víctima u ofendido a refugios o albergues temporales, así como de sus descendientes; y X.- El reingreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su seguridad.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO Y LA DEROGACIÓN DEL SEGUNDO PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IX. Canalizar a las víctimas directas e indirectas para alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+X. Reingreso de la mujer y en su caso víctimas indirectas al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
+
+Para el cumplimiento de esta medida se garantizará el acompañamiento, del Ministerio Público y del personal de la policía de investigación, a la víctima de violencia para acceder al domicilio, lugar de trabajo u otro, en cualquier caso, podrá ser acompañada de una persona de su confianza. En caso de que no haya personal de policía de investigación disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de las víctimas.
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+XI. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho.
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+XII. La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que la persona agresora o su familia puedan ubicar a la víctima.
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Implementar medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación.
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+XIV. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, vida, libertad y seguridad de la mujer y las víctimas indirectas en situación de violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 64.
 
-Una vez que el Juez reciba la solicitud bajo su más estricta responsabilidad, ordenará fundada y motivadamente, en un plazo que no exceda de 12 horas, cualquiera de las medidas u órdenes de protección mencionadas en esta Ley, debiendo tomar en cuenta, en su caso, el interés superior del niño.
+Una vez que el Juez reciba la solicitud, otorgará de plano cualquiera de las medidas de protección previstas en el artículo anterior, fundada y motivadamente, debiendo tomar en cuenta, los principios de actuación para la implementación de tales medidas, otorgándolas en un plazo que no exceda de 6 horas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
@@ -1088,17 +1166,19 @@ Una vez que el Juez reciba la solicitud bajo su más estricta responsabilidad, o
 
 En materia penal, el Ministerio Público o el Juez emitirán la medida u orden de protección en un plazo que no exceda de doce horas.
 
-Dentro de los cinco días siguientes a la imposición de las medidas u órdenes de protección previstas en las fracciones I, II y III del artículo 63 de esta Ley, deberá celebrarse una audiencia en la que el órgano jurisdiccional correspondiente podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares que corresponda y que están señaladas en la legislación de procedimientos penales aplicable al Distrito Federal.
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
-En caso de incumplimiento de las medidas u órdenes de protección, el Ministerio Público podrá imponer alguna de las medidas de apremio previstas en la legislación de procedimientos penales aplicable al Distrito Federal.
+Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en las fracciones I, II y III del artículo 63 de esta Ley, deberá celebrarse una audiencia en la que el órgano jurisdiccional correspondiente podrá ratificarlas, ampliarlas o cancelarlas, en este último caso siempre y cuando se encuentre documentado que el riesgo ha cesado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, G.O. 18 DE DICIEMBRE DE 2014)</small>
+En caso de que la persona agresora incumpla cualquier medida de protección, con independencia de la posible responsabilidad penal del sujeto activo, reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las víctimas directas o indirectas.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 66.
 
-Las medidas u órdenes de protección tendrán una duración máxima de sesenta días, prorrogables hasta por treinta días.
+Las medidas de protección tendrán una duración máxima de sesenta días, prorrogables hasta por treinta días y en caso de no cesar la violencia, las medidas de protección se mantendrán vigentes con una revisión trimestral que justifique su permanencia, para salvaguardar la vida, integridad, libertad y seguridad de las mujeres y niñas en situación de violencia, así como de las víctimas indirectas en situación de riesgo.
 
 ###### Artículo 67.
 
@@ -1157,6 +1237,12 @@ La orden de protección surtirá sus efectos al momento de ser notificada y en l
 En la audiencia se recibirán, admitirán y desahogarán las pruebas que procedan y se recibirán los alegatos. Serán supletorios a la audiencia que se celebre los códigos procesales de la materia en que se dicten las medidas.
 
 El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 72 Bis.
+
+Las medidas de protección deberán ser registradas en el banco nacional de datos e información sobre casos y delitos de violencia cometida en contra de mujeres
 
 ### CAPÍTULO VIII. DE LA REPARACIÓN DEL DAÑO A LAS MUJERES VÍCTIMAS DE VIOLENCIA EN EL DISTRITO FEDERAL
 
@@ -1275,3 +1361,7 @@ SEGUNDO.- El presente Decreto entrará en vigor en los términos establecidos en
 TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
 
 CUARTO.- La reforma al Código de Instituciones y Procedimientos Electorales del Distrito Federal prevista en el presente Decreto, entrará en vigor al día siguiente a aquél en que concluya el proceso electoral local de 2014-2015 en el Distrito Federal.
+
+G.O. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO (sic).- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
