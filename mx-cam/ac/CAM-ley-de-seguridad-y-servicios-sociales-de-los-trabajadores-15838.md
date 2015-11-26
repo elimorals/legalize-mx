@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "2011-12-26"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EL DECRETO NUMERO 76, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -133,7 +135,11 @@ Se establecen con carácter obligatorio, las siguientes prestaciones:
 
 I.- Seguro de Prestaciones Médicas;
 
-II.- Jubilaciones y Pensiones por Vejez, Invalidez, Viudez y Orfandad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+II.- Jubilaciones y Pensiones por Vejez, Invalidez, Viudez, Orfandad y Discapacidad;
 
 III.- Seguro de Fallecimiento;
 
@@ -511,7 +517,11 @@ III.- Los hijos menores de 18 años, siempre que no hayan contraído matrimonio,
 
 IV.- Los mayores de 18 años solteros y hasta 25 años como máximo, cuando estén cursando estudios a nivel medio superior, debiendo comprobar ante el Instituto periódicamente tanto la inscripción como el promedio de calificación aprobatoria y que dependan económicamente del servidor público;
 
-V.- Seguirán siendo sujetos de esta Ley, los hijos incapacitados física o mentalmente, reservándose el Instituto el derecho de ordenar por su cuenta, los exámenes necesarios para comprobar su incapacidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+V.- Seguirán siendo sujetos de esta Ley, los hijos discapacitados física o mentalmente, reservándose el Instituto el derecho a ordenar por su cuenta, los exámenes necesarios para comprobar su discapacidad;
 
 VI.- A falta de esposa, la mujer con quien ha vivido como si lo fuera durante los últimos cinco años, o aun durante un término menor si con ella tuviere hijos, siempre que estén libres de matrimonio y dependan económicamente del servidor público;
 
@@ -569,11 +579,11 @@ Las controversias y los actos contenciosos que se presentaren en relación a est
 
 Jubilación es la relevación de la obligación del servidor público de seguir desempeñando su empleo en razón de su edad, de su tiempo de servicios o por la imposibilidad física o mental, con derecho a percibir en calidad de pensión el total o parte de su último sueldo. El Instituto está obligado a pagar las pensiones por jubilación y de otra índole que se consignen en la presente Ley.
 
-> <small>(ADICIONADO, P.O.30 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2005)</small>
 
 Los servicios a que se refiere el presente capítulo relacionados con la materia de jubilaciones y pensiones podrán ser subrogados mediante convenio que celebre el Gobierno del Estado de Campeche o el Instituto con otras instituciones públicas o privadas. Cuando exista convenio de subrogación, el Instituto entregará al subrogatario las aportaciones correspondientes a estos servicios; en consecuencia, tanto el Gobierno del Estado como el Instituto quedarán relevados de la responsabilidad del pago de pensiones y jubilaciones, con excepción de lo establecido en el siguiente párrafo.
 
-> <small>(ADICIONADO, P.O.30 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2005)</small>
 
 En el caso de que el Gobierno del Estado o el Instituto hayan subrogado estos servicios específicamente con el Instituto Mexicano del Seguro Social, se estará a lo que disponga la ley que rija a ese organismo, como al convenio que se firme, para los efectos de los requisitos para la operación de las pensiones y jubilaciones. Asimismo, en el caso de que la jubilación o pensión que el Instituto Mexicano del Seguro Social como entidad subrogataria otorgue a los pensionados o jubilados del Estado no alcance a cubrir los montos y porcentajes que éstos tengan derecho a recibir conforme a esta Ley, debido al sistema de cotizaciones de ese Organismo Público Federal, el Instituto completará la cantidad que se requiera hasta cubrir los montos y porcentajes que conforme a esta Ley, tengan derecho a percibir las personas que se pensionen o jubilen, de conformidad con los años de servicio y tiempo de aportaciones. En este supuesto, el Gobierno del Estado y el Instituto no tendrán la obligación de otorgar pensión o jubilación al trabajador, excepto la parte complementaria que ha quedado señalada.
 
@@ -701,13 +711,25 @@ II.- Al día siguiente del fallecimiento de la persona jubilada o de quienes dis
 
 III.- A partir de la fecha en que contraiga matrimonio o vivan en concubinato la viuda, la concubina, el menor de edad dependiente económico del servidor público o del jubilado;
 
-IV.- Al día siguiente de que el hijo o el menor de edad dependiente económico del servidor público o del jubilado, cumpla 18 años de edad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+IV.- Al día siguiente de que el hijo o el menor de edad dependiente económico del servidor público, jubilado o pensionado, cumpla 18 años de edad.
 
 Se exceptúa de este límite:
 
-a).- Los incapacitados en forma total; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b).- Los que comprueben, a satisfacción del Consejo Directivo, que les es necesaria la pensión para continuar sus estudios profesionales o técnicos. La pensión no podrá extenderse en ningún caso después de los 25 años de edad.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+a) Los discapacitados con alguna afección física o mental que les impida valerse por sí mismos y/o que carezcan de otro beneficio de seguridad social; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+b) Los que comprueben, a satisfacción del Consejo Directivo, que les es necesaria la pensión para continuar sus estudios profesionales o técnicos. La pensión no podrá extenderse después de los 25 años de edad, salvo los casos en que se trate de dependientes económicos discapacitados.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -1045,7 +1067,7 @@ Primero.- El presente decreto entrará en vigor el día 1 de enero de 2008, prev
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2009)</small>
 
@@ -1074,3 +1096,9 @@ P.O. 26 DE DICIEMBRE DE 2011.
 Primero.- Este decreto iniciará su vigencia el 1 de enero de 2012, previa su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido de este decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
