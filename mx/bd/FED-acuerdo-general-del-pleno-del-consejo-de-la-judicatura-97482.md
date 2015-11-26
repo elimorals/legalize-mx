@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2015-11-17"
+last_updated: "2015-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -582,6 +582,10 @@ b) Reingreso, cuando hayan transcurrido más de sesenta días naturales de la co
 II. Declaración de modificación patrimonial: durante el mes de mayo de cada año, salvo que en ese mismo año se hubiese presentado la declaración de situación patrimonial a que se refieren las fracciones I y III de este artículo; y
 
 III. Declaración de conclusión del cargo: dentro de los sesenta días naturales siguientes a la conclusión. Dicho plazo iniciará al día siguiente a que terminen los efectos del nombramiento otorgado.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 26 DE NOVIEMBRE DE 2015)</small>
+
+En caso de que la conclusión del cargo sea con motivo de la imposición de una sanción a cualquier servidor público; o sea consecuencia de la resolución del Consejo de no ratificar a un magistrado de Circuito o juez de Distrito, el plazo para presentar la declaración corre a partir de la fecha en que inicien los efectos de la resolución en la que se impone la destitución del puesto o remoción, o bien cuando inicien los de aquella que se dicte en el procedimiento de ratificación, respectivamente, aun cuando se haya interpuesto recurso de revisión administrativa o de reconsideración, según sea el caso.
 
 La presentación de las declaraciones de situación patrimonial, podrá realizarse las veinticuatro horas del día.
 
@@ -2910,3 +2914,11 @@ D.O.F. 17 DE NOVIEMBRE DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Lo previsto en el artículo 38, fracción III, segundo párrafo del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, también resulta aplicable respecto de la interposición del recurso de revisión previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas vigente hasta el veintiocho de mayo de dos mil quince.
