@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-104768"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-18"
-last_updated: "2014-12-18"
+last_updated: "2015-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL DEL AÑO 2015
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección LVIII del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2014.
 
@@ -155,7 +155,9 @@ b) Productos de Capital 11,509,000
 
 Capital e Inversiones del Estado 11,509,000
 
-IV. Aprovechamientos 6,664,772,000
+> <small>(REFORMADA EN SU CANTIDAD, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+IV. Aprovechamientos 6,803,460,745
 
 a) Aprovechamientos de Tipo Corriente 6,664,772,000
 
@@ -289,8 +291,6 @@ d) BANOBRAS y Servicios Públicos S.N.C.
 
 JOVA Crédito 299 mdp -
 
-I, II, III, IV, V, VI, VII TOTAL GENERAL 87,694,651,930
-
 VIII. Ingresos por Ventas de Bienes y
 
 Servicios 3,409,651,000
@@ -300,6 +300,10 @@ a) Ingresos por Ventas de Bienes y
 Servicios de Organismos
 
 Descentralizados 3,409,651,000
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+
+I, II, III, IV, V, VI, VII TOTAL GENERAL 87,833,340,675
 
 ###### Artículo 2°.
 
@@ -2942,3 +2946,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. La Secretaría de Planeación, Administración y Finanzas con la información contenida en este Decreto, deberá formular, dentro de los 20 días hábiles posteriores a su aprobación, los anexos correspondientes a la Modificación del Presupuesto de Egresos del Gobierno del Estado de Jalisco para el ejercicio fiscal 2015, para ser publicados en el Periódico Oficial "El Estado de Jalisco", los cuales una vez elaborados por la Secretaría serán remitidos al Congreso del Estado de Jalisco para que formen parte de la minuta de Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
