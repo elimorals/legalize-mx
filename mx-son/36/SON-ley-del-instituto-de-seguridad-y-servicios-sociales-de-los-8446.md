@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "2015-11-09"
+last_updated: "2015-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -197,6 +197,12 @@ Para que los beneficiarios puedan percibir las prestaciones que les correspondan
 
 > <small>(ADICIONADO, B.O. 3 DE JULIO DE 1989)</small>
 
+###### Artículo 9o. Bis.
+
+Los servicios médicos que tiene encomendados el Instituto en los términos de los capítulos relativos a los seguros de enfermedades profesionales, no profesionales y de maternidad, los prestará directamente, o bien, a través de personas físicas o morales con las cuales se hayan celebrado los contratos respectivos.
+
+En tales casos, las personas que hubieren suscrito esos contratos, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les solicite, sujetándose a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el Instituto.
+
 ###### Artículo 10.
 
 Los trabajadores que por cualquier causa no perciban íntegramente su sueldo, sólo podrán continuar disfrutando de los beneficios que esta ley les otorga, si pagan la totalidad de las cuotas que les correspondan.
@@ -231,7 +237,7 @@ El sueldo básico integrado por las prestaciones a que se refiere el párrafo an
 
 El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará en cada caso particular mediante los convenios que celebren con el Instituto, en los términos del párrafo segundo del artículo 3º de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 16.
 
@@ -295,7 +301,7 @@ Para disfrutar del cómputo mencionado en los cuatro casos anteriores, el trabaj
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto ordenará descontar hasta un 50% del sueldo mientras el adeudo no esté cubierto.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 21.
 
@@ -355,7 +361,7 @@ SEGURO DE ENFERMEDADES NO PROFESIONALES
 
 En caso de enfermedad no profesional, el trabajador y el pensionista tendrán derecho a las siguientes prestaciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE MARZO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE MARZO DE 1975)</small>
 
 I.- Asistencia médica, quirúrgica, farmacéutica, y hospitalaria que sean necesarias, desde el comienzo de la enfermedad y durante el plazo máximo de cincuenta y dos semanas para la misma enfermedad. El Reglamento de Servicios Médicos determinará qué se entiende por este último concepto.
 
@@ -365,7 +371,7 @@ El Instituto no estará obligado a proporcionar servicios de cirugía cosmética
 
 En caso de enfermos ambulantes, cuyo tratamiento médico no les impida trabajar, el tratamiento de una misma enfermedad se continuará hasta su curación.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 19 DE MARZO DE 1975)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE MARZO DE 1975)</small>
 
 II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trabajo, tendrá derecho a licencia con goce de sueldo, o con medio sueldo, de acuerdo con las disposiciones legales vigentes que reglamenten las relaciones laborales entre el Estado y los organismos públicos incorporados, por una parte, y sus servidores, por la otra. Si al vencer la licencia con medio sueldo continua la incapacidad, el trabajador tendrá derecho a disfrutar licencia sin goce de sueldo mientras dure la incapacidad, hasta completar con las licencias anteriores y a partir de la fecha en que se inició aquélla, el término de cincuenta y dos semanas, no obstante cualquiera disposición en contrario contenida en las expresadas leyes reglamentarias. Durante la licencia sin goce de sueldo a que acaba de aludirse, el Instituto cubrirá al asegurado un subsidio en dinero equivalente al cincuenta por ciento del sueldo que percibía el trabajador.
 
@@ -373,7 +379,7 @@ II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trab
 
 Al principiar la licencia sin goce de sueldo, y para los efectos de pago del subsidio señalado en el párrafo anterior, el trabajador deberá dar el aviso respectivo, dentro de las 48 horas siguientes a la fecha en que se le haya extendido la incapacidad correspondiente; en caso contrario, el Instituto no entregará el subsidio.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 ###### Artículo 24.
 
@@ -555,7 +561,7 @@ II.- Los que provoque intencionalmente el trabajador;
 
 III.- Los que sean resultado de un intento de suicidio, efecto de una riña en que hubiere participado el trabajador u originados por algún delito cometido por éste;
 
-IV.- Los que sean debidos a caso fortuito o de fuerza mayor extraños al trabajo u ocurridos fuera del lugar donde aquel se desempeña.
+IV.- Los que sean debidos (sic) a caso fortuito o de fuerza mayor extraños al trabajo u ocurridos fuera del lugar donde aquel se desempeña.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -589,7 +595,9 @@ III.- Los demás que esta Ley establece.
 
 > <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Artículo 40 BIS.- Para el cumplimiento del objeto del Fondo de la Vivienda para los Trabajadores, el Instituto podrá diseñar e instrumentar coordinadamente con las organizaciones sindicales o, en su caso, con los organismos incorporados, los mecanismos necesarios para acceder a esquemas de financiamiento compartido con instituciones del ramo de la vivienda, como sociedades financieras de objeto limitado, sociedades o asociaciones hipotecarias, bancos, compañías constructoras o inmobiliarias y otras semejantes. Asimismo, el Instituto podrá convenir con las organizaciones u organismos mencionados la transferencia de recursos y obligaciones para la instrumentación de tales mecanismos.
+###### Artículo 40 Bis.
+
+Para el cumplimiento del objeto del Fondo de la Vivienda para los Trabajadores, el Instituto podrá diseñar e instrumentar coordinadamente con las organizaciones sindicales o, en su caso, con los organismos incorporados, los mecanismos necesarios para acceder a esquemas de financiamiento compartido con instituciones del ramo de la vivienda, como sociedades financieras de objeto limitado, sociedades o asociaciones hipotecarias, bancos, compañías constructoras o inmobiliarias y otras semejantes. Asimismo, el Instituto podrá convenir con las organizaciones u organismos mencionados la transferencia de recursos y obligaciones para la instrumentación de tales mecanismos.
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -707,7 +715,7 @@ El Instituto deberá mantener en efectivo o en depósitos bancarios a la vista, 
 
 El Instituto sólo podrá realizar con cargo al Fondo, las inversiones en los bienes muebles e inmuebles estrictamente necesarias para el cumplimiento de los fines del mismo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 29 DE JUNIO DE 2005)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 29 DE JUNIO DE 2005)</small>
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
@@ -867,7 +875,9 @@ DE LOS PRESTAMOS PRENDARIOS PARA LA ADQUISICION DE BIENES DE CONSUMO DURADERO.
 
 > <small>(REFORMADO, B.O. 3 DE JULIO DE 1989)</small>
 
-Artículo 58 BIS.- Los trabajadores y pensionistas podrán obtener créditos para adquirir bienes de uso duradero, si satisfacen, en lo conducente, las condiciones que esta Ley establece en el caso de los préstamos a corto plazo, y si cumplen con los requisitos que prevenga el Reglamento que al efecto expida la Junta Directiva.
+###### Artículo 58 Bis.
+
+Los trabajadores y pensionistas podrán obtener créditos para adquirir bienes de uso duradero, si satisfacen, en lo conducente, las condiciones que esta Ley establece en el caso de los préstamos a corto plazo, y si cumplen con los requisitos que prevenga el Reglamento que al efecto expida la Junta Directiva.
 
 Los créditos para la adquisición de los bienes a que se refiere el párrafo anterior, se otorgarán mediante garantía prendaría, pagaderos en forma directa del derechohabiente al Instituto o mediante los mecanismos que se precisen en el reglamento que sobre el particular emita la Junta Directiva. El plazo mayor que se concederá para estos préstamos, será de 72 quincenas, en pagos iguales que incluyan capital e intereses; el interés que deberá calcularse sobre saldos insolutos no será inferior al 30 % del costo porcentual promedio vigente, y la cantidad autorizada será hasta ocho veces el sueldo básico integrado de los trabajadores en las mismas condiciones a las de los préstamos a corto plazo.
 
@@ -876,52 +886,6 @@ Los adeudos por concepto de préstamos prendarios que no fueren cubiertos a su v
 Los préstamos prendarios se otorgarán hasta el importe de ocho veces el sueldo básico integrado, si la aportación con derecho a retiro, en el caso de indemnización global a que se refiere el artículo 89, es igual o mayor que el monto del préstamo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE JUNIO DE 2005)</small>
-
-###### Artículo 58 Bis.
-
-Los trabajadores que hayan contribuido por más de seis meses al Instituto podrán obtener préstamos prendarios para la adquisición de bienes de consumo duradero, constituyendo la prenda el propio bien adquirido. Este tipo de operaciones, se realizarán de acuerdo a las siguientes bases:
-
-> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
-
-PRIMERA.- El monto de los préstamos prendarios podrá ser hasta la cantidad correspondiente a diez veces el sueldo mensual del trabajador, sin exceder de Cincuenta Mil Pesos. Un mismo trabajador podrá obtener varios préstamos si la suma de todos ellos no sobrepasa esta última cantidad.
-
-> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
-
-SEGUNDA.- Para otorgamiento de préstamos prendarios se considerarán bienes de consumo duradero los siguientes: muebles de recámara, muebles de cocina, muebles de comedor, muebles de sala, estufas, refrigeradores, calentadores de agua, máquinas de lavar y automóviles nuevos.
-
-> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
-
-TERCERA.- El plazo de amortización de los préstamos puede ser hasta un máximo de tres años.
-
-CUARTA.- Los préstamos prendarios causarán el interés que fije el Reglamento respectivo pero en ningún caso podrá ser mayor del doce por ciento anual, calculando sobre saldos insolutos.
-
-QUINTA.- El pago del monto total del préstamo se hará en abonos quincenales iguales e incluirá capital, intereses y comisión.
-
-SEXTA.- El Instituto cobrará una comisión por el manejo de estos créditos de acuerdo con el plazo en la forma que sigue:
-
-Hasta seis meses 1% sobre el monto total.
-
-Más de seis meses, hasta 1%.
-
-año 1.5% sobre el monto total.
-
-Más de un año hasta 2 años 2% sobre el monto total.
-
-SEPTIMA.- El préstamo que se conceda no excederá del 90% del valor de la factura del bien adquirido; el 10% restante deberá ser pagado en efectivo por el propio trabajador.
-
-OCTAVA.- La falta de pago de dos mensualidades dará derecho al Instituto para dar por rescindido el contrato de crédito y exigir el pago del adeudo.
-
-NOVENA.- Los adeudos por concepto de préstamos prendarios que no fueren cubiertos a su vencimiento se pagarán con cargo a las aportaciones del adeudor (sic), siempre que las mismas no estén garantizando préstamos a corto plazo; si ese fondo no fuera suficiente el Instituto podrá recoger el bien constituido en prenda.
-
-> <small>(REFORMADA, B.O. 18 DE MAYO DE 1974)</small>
-
-DECIMA.- El Instituto adquiere la total responsabilidad del préstamo otorgado al trabajador y la garantía del mismo lo constituye el bien adquirido, del cual será depositario el propio trabajador, pero en ningún caso se hará responsable el Instituto de la calidad del propio bien ni de su mantenimiento.
-
-Tratándose de la adquisición de automóviles nuevos será requisito especial para el otorgamiento del crédito correspondiente que dicho automóvil se asegure por todo el tiempo de amortización del préstamo, a cuyo efecto el Instituto queda facultado para contratar el seguro correspondiente a cuenta del acreditado.
-
-DECIMA PRIMERA.- El otorgamiento de créditos prendarios estará condicionado a la situación económica que guarde el Instituto y al criterio de la Junta Directiva del mismo desee imponer al respecto con el fin de cuidar que el asegurado haga una buena inversión y que sus ingresos le dén la capacidad de pago necesaria.
-
-DECIMA SEGUNDA.- Queda facultado el Director General para formular las reglas y procedimientos que deberán seguirse en el otorgamiento de estos créditos, debiendo contar con la autorización de la Junta Directiva antes de ponerlos en efecto.
 
 ### CAPÍTULO SÉPTIMO. DE LA JUBILACIÓN Y DE LAS PENSIONES POR VEJEZ, CESANTÍA EN EDAD AVANZADA, INVALIDEZ Y MUERTE
 
@@ -941,7 +905,9 @@ El Instituto deberá resolver la solicitud de pensión en un plazo no mayor de t
 
 > <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Artículo 59 BIS.- El Fondo de Pensiones y Jubilaciones del Instituto será administrado a través de un fideicomiso cuya operación y reglamentación será prevista en el acto jurídico de su constitución. El Comité Técnico del fideicomiso estará obligado a solicitarle al Director General del Instituto la publicación trimestral en la página de Internet del Organismo, de la información relativa al manejo de los recursos del relacionado Fondo, y éste deberá publicarla en los términos y condiciones previstos por la Ley de Acceso a la Información Pública del Estado de Sonora.
+###### Artículo 59 Bis.
+
+El Fondo de Pensiones y Jubilaciones del Instituto será administrado a través de un fideicomiso cuya operación y reglamentación será prevista en el acto jurídico de su constitución. El Comité Técnico del fideicomiso estará obligado a solicitarle al Director General del Instituto la publicación trimestral en la página de Internet del Organismo, de la información relativa al manejo de los recursos del relacionado Fondo, y éste deberá publicarla en los términos y condiciones previstos por la Ley de Acceso a la Información Pública del Estado de Sonora.
 
 ###### Artículo 60.
 
@@ -953,11 +919,9 @@ Para el otorgamiento de las pensiones directas por vejez o invalidez, si el suel
 
 > <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Artículo 60 BIS A.- Quienes accedan a una pensión o jubilación tendrán derecho a recibir un apoyo extraordinario anual en el mes de diciembre por concepto de aguinaldo, por el equivalente a 40 días de la cuota diaria que señala el primera párrafo del artículo precedente.
+Artículo 60 Bis A.- Quienes accedan a una pensión o jubilación tendrán derecho a recibir un apoyo extraordinario anual en el mes de diciembre por concepto de aguinaldo, por el equivalente a 40 días de la cuota diaria que señala el primera párrafo del artículo precedente.
 
-> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
-
-Artículo 60 BIS B.- Quienes disfruten una pensión o jubilación del Instituto, aportarán mensualmente al Fondo de Pensiones el 10% de la cuantía de su pensión mensual.
+Artículo 60 Bis B.- (DEROGADO, B.O. 26 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 61.
 
@@ -1075,7 +1039,9 @@ AÑOS DE COTIZACIÓN PORCENTAJE DEL SUELDO REGULADOR
 
 > <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Artículo 69 BIS.- Tienen derecho a pensión de cesantía por edad avanzada los trabajadores que, habiendo cumplido sesenta años de edad, tuviesen diez años de servicio como mínimo e igual tiempo de contribución al Instituto y recibirán como pensión un porcentaje del sueldo regulador dependiendo de la edad al momento del retiro conforme a la siguiente tabla:
+###### Artículo 69 Bis.
+
+Tienen derecho a pensión de cesantía por edad avanzada los trabajadores que, habiendo cumplido sesenta años de edad, tuviesen diez años de servicio como mínimo e igual tiempo de contribución al Instituto y recibirán como pensión un porcentaje del sueldo regulador dependiendo de la edad al momento del retiro conforme a la siguiente tabla:
 
 CON UN MÍNIMO DE 10 AÑOS COTIZADOS PORCENTAJE DEL SUELDO
 
@@ -1815,7 +1781,9 @@ V.- Los de la fracción XIII.
 
 > <small>(ADICIONADO, B.O. 29 DE JUNIO DE 2005)</small>
 
-Artículo 120 BIS.- Con atribuciones específicas para vigilar el gasto del Instituto y la inversión de sus recursos, así como fiscalizar su aplicación según los programas correspondientes, éste contará con un Comité de Vigilancia y Fiscalización, cuya operación y reglamentación será emitida por la Junta directiva del Instituto, y que estará integrado por un representante de la Secretaría de Hacienda, otro del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado de Sonora, uno de la Sección 54 del Sindicato Nacional de Trabajadores de la Educación, y de los organismos incorporados al régimen de la Ley, un representante elegido de entre las Instituciones de Educación Media Superior y Superior, otro de los Ayuntamientos, otro de los Organismos Públicos Descentralizados y uno más de las organizaciones sindicales, respectivamente.
+###### Artículo 120 Bis.
+
+Con atribuciones específicas para vigilar el gasto del Instituto y la inversión de sus recursos, así como fiscalizar su aplicación según los programas correspondientes, éste contará con un Comité de Vigilancia y Fiscalización, cuya operación y reglamentación será emitida por la Junta directiva del Instituto, y que estará integrado por un representante de la Secretaría de Hacienda, otro del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado de Sonora, uno de la Sección 54 del Sindicato Nacional de Trabajadores de la Educación, y de los organismos incorporados al régimen de la Ley, un representante elegido de entre las Instituciones de Educación Media Superior y Superior, otro de los Ayuntamientos, otro de los Organismos Públicos Descentralizados y uno más de las organizaciones sindicales, respectivamente.
 
 Los integrantes del Comité de Vigilancia no podrán ser miembros de la Junta Directiva ni tener cargo alguno en el Instituto, con excepción del Director General de éste, quien fungirá como Secretario Técnico del Comité con derecho a voz pero sin voto.
 
@@ -1936,12 +1904,6 @@ Las prestaciones establecidas en los capítulos 5º., 6º. Bis, se harán efecti
 ###### Artículo 9o.
 
 (DEROGADO, B.O. 3 DE JULIO DE 1989)
-
-###### Artículo 9o.
-
-BIS.- Los servicios médicos que tiene encomendados el Instituto en los términos de los capítulos relativos a los seguros de enfermedades profesionales, no profesionales y de maternidad, los prestará directamente, o bien, a través de personas físicas o morales con las cuales se hayan celebrado los contratos respectivos.
-
-En tales casos, las personas que hubieren suscrito esos contratos, estarán obligadas a proporcionar al Instituto los informes y estadísticas médicas o administrativas que éste les solicite, sujetándose a las instrucciones, normas técnicas, inspecciones y vigilancia prescritas por el Instituto.
 
 ###### Artículo 10.
 
@@ -2262,3 +2224,9 @@ B.O. 9 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
