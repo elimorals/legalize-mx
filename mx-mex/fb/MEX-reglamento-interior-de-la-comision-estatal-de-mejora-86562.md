@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-comision-estatal-de-mejora-86562"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-15"
-last_updated: "2012-02-15"
+last_updated: "2015-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE MEJORA REGULATORIA, DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 15 de febrero de 2012.
 
@@ -247,7 +247,9 @@ II. Elaborar el proyecto de Informe de Avance de los Programas municipales;
 
 III. Vincularse con los responsables de mejora regulatoria de los municipios y establecer los canales de comunicación necesarios para el intercambio de la documentación e información relativa al Programa, proyectos de regulación, estudios, reportes de avance, informes, entre otros, del Municipio respectivo;
 
-IV. Dar seguimiento a las sesiones que realicen las comisiones municipales y/o los Comités interinstitucionales de Mejora Regulatoria y asistir a ellas cuando sea posible;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+IV. Dar seguimiento a las sesiones que realicen las comisiones municipales de mejora regulatoria y asistir a ellas cuando sea posible.
 
 V. Brindar la asesoría técnica y la capacitación a los municipios que lo soliciten, de acuerdo con los programas aprobados por el Director General y en acuerdo con éste;
 
@@ -273,7 +275,7 @@ Corresponde a la Subdirección de Normatividad:
 
 I. Revisar de manera permanente el marco regulatorio estatal, para presentar al Director General el análisis y diagnóstico respectivo;
 
-II. Elaborar los proyectos de convenios de colaboración y coordinación de la Comisión con las comisiones municipales;
+II. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2015)
 
 III. Integrar la Normateca Interna de la Comisión;
 
@@ -285,9 +287,51 @@ VI. Verificar que las dependencias mantengan actualizado su catálogo de trámit
 
 VII. Elaborar los proyectos de lineamientos, instructivos, manuales, reglas y otras disposiciones administrativas;
 
-VIII. Dar seguimiento mediante el procedimiento administrativo hasta su conclusión, a las querellas que presenten los particulares, y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Dar seguimiento mediante el procedimiento administrativo hasta su conclusión, a las protestas ciudadanas presentadas por los particulares, por obstrucción a la inversión y a trámites y servicios.
 
 IX. Las demás que establezcan otros ordenamientos aplicables, y aquellas que le encomiende el Director General.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 14 bis.- Corresponde a la delegación administrativa planear, organizar y controlar el suministro oportuno de los recursos humanos, financiero-presupuestales, materiales y técnicos que sean requeridos por las unidades administrativas de la Comisión Estatal de Mejora Regulatoria con las funciones siguientes:
+
+I. Elaborar el proyecto de presupuesto anual de egresos de la Comisión Estatal de Mejora Regulatoria, de acuerdo con los lineamientos establecidos por la Secretaría de Finanzas y someterlo a consideración de la Dirección General de la Comisión para su aprobación por la Secretaría de Desarrollo Económico.
+
+II. Tramitar ante la Coordinación Administrativa de la Secretaría de Desarrollo Económico, los movimientos de altas, bajas, cambios, permisos, licencias y otras prestaciones del personal adscrito a la Comisión.
+
+III. Llevar el control de asistencia y puntualidad del personal adscrito a la Comisión, así como tramitar ante la Coordinación Administrativa de la Secretaría de Desarrollo Económico, el otorgamiento de los estímulos al personal acreedor y, en su caso, aplicar las sanciones y deducciones correspondientes.
+
+IV. Difundir e impulsar entre los servidores públicos de la Comisión, el Programa Bianual de Capacitación, para coadyuvar al mejoramiento y desempeño de sus funciones.
+
+V. Implementar las acciones necesarias para el registro, control, mantenimiento y conservación de los bienes muebles, inmuebles y equipos asignados a las unidades administrativas de la Comisión.
+
+VI. Remitir mensualmente a la Coordinación Administrativa de la Secretaría de Desarrollo Económico, la plantilla de los servidores públicos adscritos a la Comisión, a fin de mantenerla actualizada.
+
+VII. Registrar, distribuir y controlar la dotación de combustibles y lubricantes para los vehículos oficiales de la Comisión integrando los reportes y su comprobación de acuerdo a la normatividad vigente.
+
+VIII. Dar seguimiento a la programación anual de adquisiciones y tramitar ante la Coordinación Administrativa de la Secretaría de Desarrollo Económico, las requisiciones, pedidos, suministros de enseres, materiales, papelería, equipo, entre otras, así como la contratación de servicios que requiera la Comisión para el desarrollo de sus funciones.
+
+IX. Registrar y actualizar en forma permanente el sistema de bienes muebles e inmuebles, ante la Dirección General de Recursos Materiales.
+
+X. Dar seguimiento ante la Coordinación Administrativa de la Secretaría de Desarrollo Económico, al aseguramiento de los vehículos oficiales, mantener al corriente los pagos correspondientes a las tenencias, verificaciones y lo relacionado con la reglamentación de su uso.
+
+XI. Gestionar la revolvencia de fondos financieros, realizar los pagos por la adquisición de bienes y servicios, con base en la normatividad establecida por la Secretaría de Finanzas, ejecutar la afectación presupuestal para las adquisiciones de bienes y servicios realizadas por las dependencias normativas.
+
+XII. Procesar y entregar a las dependencias normativas los avances y reportes generados con motivo del ejercicio del presupuesto autorizado a la Comisión.
+
+XIII. Estudiar, analizar, diagnosticar y proponer, en coordinación con la Dirección General de Innovación, las estructuras, sistemas y procedimientos de la Comisión, de conformidad con sus funciones.
+
+XIV. Instrumentar conjuntamente con la Coordinación Administrativa de la Secretaría de Desarrollo Económico, las acciones y mecanismos de prevención y de auxilio necesarios para la efectiva operación y participación de la subunidad de protección civil y las brigadas de auxilio, que permitan hacer frente a cualquier contingencia que ponga en peligro la integridad física de las personas como resultado de una eventualidad.
+
+XV. Remitir a la Unidad de Información, Planeación, Programación y Evaluación de la Secretaría de Desarrollo Económico, la información de la cuenta pública que corresponda al ejercicio del presupuesto y metas alcanzadas por la Comisión para su respectiva evaluación.
+
+XVI. Ejercer el control presupuestal a través del análisis de variaciones y solicitar a los servidores públicos responsables, el sustento correspondiente.
+
+XVII. Informar al Director General de la Comisión, el estado que guarda el ejercicio del presupuesto.
+
+XVIII. Desarrollar las demás funciones inherentes al área de su competencia.
 
 ### CAPÍTULO QUINTO. DE LA SUPLENCIA DE LOS TITULARES
 
@@ -322,3 +366,11 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
