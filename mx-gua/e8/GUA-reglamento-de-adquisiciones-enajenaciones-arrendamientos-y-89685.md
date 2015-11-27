@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-adquisiciones-enajenaciones-arrendamientos-y-8968
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-02"
-last_updated: "2012-10-02"
+last_updated: "2015-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO PARA EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 2 de octubre de 2012.
 
@@ -363,7 +365,7 @@ Para efectos de lo dispuesto en el artículo 32 de la Ley, se entenderá que son
 
 ###### Artículo 34.
 
-Sin perjuicio de lo establecido en las disposiciones anteriores, mediante acuerdo del Consejo, el Tribunal podrá determinar sujetarse al Padrón de Proveedores que al efecto integren los demás sujetos de la Ley (sic).
+Sin perjuicio de lo establecido en las disposiciones anteriores, mediante acuerdo del Consejo, el Tribunal podrá determinar sujetarse al Padrón de Proveedores que al efecto integren los demás sujetos de la (sic) Ley.
 
 ## TÍTULO CUARTO. LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
@@ -848,3 +850,13 @@ Magistrada de la Tercera Sala
 Lic. J. Jesús Vargas Camacho
 
 Secretario General de Acuerdos
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE LA LEY DE CONTRATACIONES PÚBLICAS PARA EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO”.]
+
+PRIMERO. Se abroga el Reglamento de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público para el Tribunal de lo Contencioso Administrativo del Estado de Guanajuato, publicado en el Periódico Oficial de (sic) Gobierno del Estado número 158, Segunda Parte, de fecha 2 de octubre de 2012.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
