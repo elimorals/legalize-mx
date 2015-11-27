@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-infraestructura-y-85779"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-06"
-last_updated: "2014-09-12"
+last_updated: "2015-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO QUINTO DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -1482,3 +1484,17 @@ P.O. 12 DE SEPTIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Unidades Administrativas de nueva creación y las de nueva denominación que tienen competencia en asuntos que anteriormente correspondían a otras, se harán cargo de los mismos, implementando las medidas administrativas o presupuestales para su adecuado cumplimiento, con el apoyo de las áreas que resulten competentes y la participación que corresponda a la Secretaría de Planeación y Finanzas.
+
+TERCERO.- En tanto se da cumplimiento a lo previsto en el artículo anterior, continuarán aplicándose las disposiciones normativas vigentes y aplicables a los diversos procedimientos, procesos o servicios de la Secretaría de Infraestructura y Desarrollo Urbano.
+
+CUARTO.- Los asuntos que se encuentren en trámite al momento de entrar en vigor el presente Decreto, serán resueltos por la Unidad Administrativa que determine el titular de la Secretaría de Infraestructura y Desarrollo Urbano del Estado.
+
+QUINTO.- Se abroga el Reglamento Interno de la Secretaria de Infraestructura y Desarrollo Urbano, publicado con fecha 6 de enero del 2012 en el Periódico Oficial del Estado.
