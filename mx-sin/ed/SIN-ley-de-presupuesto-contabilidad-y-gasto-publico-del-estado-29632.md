@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-2963
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-02"
-last_updated: "2015-05-18"
+last_updated: "2015-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el miércoles 2 de abril de 2003.
 
@@ -147,9 +147,11 @@ V. Los organismos autónomos, descentralizados y empresas de participación esta
 
 VI. Los Ayuntamientos y empresas paramunicipales.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-Los sujetos de la Ley, anotados en el artículo anterior, deberán planear, programar y presupuestar sus actividades así como el ejercicio del gasto público con claridad y transparencia, con el propósito de optimizar los recursos públicos. La presupuestación del gasto público deberá estar basada en criterios de austeridad, disciplina y racionalidad.
+Los sujetos de la Ley, anotados en el artículo anterior, deberán planear, programar y presupuestar sus actividades así como el ejercicio del gasto público con claridad y transparencia, con el propósito de optimizar los recursos públicos. La presupuestación del gasto público deberá estar basada en criterios de austeridad, disciplina y racionalidad, asimismo, en la perspectiva de género.
 
 ###### Artículo 8.
 
@@ -978,3 +980,9 @@ Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentar
 P.O. 18 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
