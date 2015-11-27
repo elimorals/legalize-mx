@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2014-10-17"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -59,7 +59,9 @@ II. Establecer los lineamientos de los Reglamentos Municipales de Edificación;
 
 III. Definir en la esfera de sus competencias el ejercicio de las facultades de las Autoridades Estatales y Municipales en materia de edificaciones, y;
 
-IV. Definir las obligaciones de los Propietarios, Directores de Obra, Directores de Proyectos y demás Corresponsables y las relaciones profesionales entre ellos durante el proyecto y el proceso de la edificación.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+IV. Establecer las condiciones y especificaciones técnicas de diseño para la elaboración de proyectos y ejecución de obras de edificación, y para la adecuación de las existentes, con el fin de hacerlas accesibles a las personas con discapacidad y/o adultas mayores.
 
 ###### ARTICULO 3.
 
@@ -67,11 +69,41 @@ TERMINOLOGIA.
 
 Para los efectos de este Ordenamiento se entenderá, cuando se haga mención a la "Ley", la Ley de Edificaciones; por "Reglamentos", los Reglamentos Municipales de la Ley de Edificaciones; por "Normas Técnicas Complementarias", las normas técnicas en las cuales se establecen los procedimientos, especificaciones, parámetros y límites permisibles que complementan a los Reglamentos; por "Edificación", el proceso mediante el cual se obtienen espacios de diversos géneros, temporales o permanentes, incluyendo aspectos urbanísticos, edificaciones que están clasificadas en el Artículo 10 de esta Ley. Y como instalación, el conjunto de equipos, estructuras, aparatos, cables, ductos, tubos o instrumentos que tengan por objeto medir, emitir, transportar, conducir, colectar líquidos o gases, electricidad, ondas, señales, y otros de forma temporal o permanente y que están clasificados en el Artículo 10 fracción IV de esta Ley, como infraestructura.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Persona con discapacidad: Aquella que, temporal o permanentemente, tiene una o más deficiencias de alguna de sus funciones físicas, mentales o sensoriales que implique la disminución o ausencia de la capacidad de realizar una actividad dentro de formas o márgenes considerados normales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Adulto Mayor: todas las personas que tengan 60 o más años de edad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Accesibilidad: La condición de acceso que presta la infraestructura urbanística y edificatoria para facilitar la movilidad y el desplazamiento autónomo de las personas, en condiciones de seguridad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Ruta accesible: Ruta libre de barreras arquitectónicas que conectan los elementos y ambientes públicos accesibles dentro de una edificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Barreras arquitectónicas: Son aquellos impedimentos, trabas u obstáculos físicos que limitan o impiden la libertad de movimiento de personas con discapacidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Señalización: Sistema de avisos que permite identificar los elementos y ambientes públicos accesibles dentro de una edificación, para orientación de los usuarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Señales de acceso: Símbolos convencionales utilizados para señalar la accesibilidad a edificaciones y ambientes.
+
 ###### ARTICULO 4.
 
 FUNDAMENTOS.
 
-Las atribuciones en materia de edificaciones están definidas de conformidad con lo dispuesto en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Asentamientos Humanos, en la Ley de Desarrollo Urbano del Estado de Baja California y en las Leyes Orgánicas de la Administración Pública Estatal y Municipal del Estado de Baja California. Del mismo modo, toda edificación deberá cumplir con lo establecido en los ordenamientos legales enunciados, con lo señalado en los Programas de Desarrollo Urbano, así como las demás disposiciones federales, estatales y municipales que concurran en el ámbito de aplicación de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Las atribuciones en materia de edificaciones están definidas de conformidad con lo dispuesto en el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados internacionales de los que México forma parte, en la Ley General de Asentamientos Humanos, en la Ley de Desarrollo Urbano del Estado de Baja California y en las Leyes Orgánicas de la Administración Pública Estatal y Municipal del Estado de Baja California. Del mismo modo, toda edificación deberá cumplir con lo establecido en los ordenamientos legales enunciados, con lo señalado en los Programas de Desarrollo Urbano, así como las demás disposiciones federales, estatales y municipales que concurran en el ámbito de aplicación de esta Ley.
 
 ### CAPITULO II. Autoridades y Atribuciones
 
@@ -83,7 +115,13 @@ Corresponde al Ejecutivo Estatal las siguientes atribuciones que ejercerá a tra
 
 I. Elaborar Dictámenes de Congruencia respecto del Plan Estatal de Desarrollo en los casos definidos en el Artículo 60 de esta Ley; y,
 
-II. Las demás que le otorga esta Ley y otras disposiciones en la materia.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+II. Crear ambientes y rutas accesibles que permitan el desplazamiento y la atención de las personas con discapacidad, en las mismas condiciones que el público en general, y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+III. Las demás que le otorga esta Ley y otras disposiciones en la materia.
 
 ###### ARTICULO 6.
 
@@ -113,7 +151,13 @@ X. Calificar las infracciones a la Ley y sus Reglamentos e imponer las sanciones
 
 XI. Conocer y resolver los recursos administrativos que se interpongan contra actos fundados en esta Ley y sus Reglamentos; y
 
-XII. Las demás que le confiera esta Ley, sus Reglamentos y los Ordenamientos que inciden en la materia.
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+XII. Crear ambientes y rutas accesibles que permitan el desplazamiento y la atención de las personas con discapacidad, en las mismas condiciones que el público en general, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+XIII. Las demás que le confiera esta Ley, sus Reglamentos y los Ordenamientos que inciden en la materia.
 
 ###### ARTICULO 7.
 
@@ -136,6 +180,10 @@ Se establece como Autoridad Competente a los Gobiernos Municipales, para hacer c
 CONDICIONES GENERALES.
 
 La materia de edificaciones e instalaciones deberá regularse por los Planes o Programas de Desarrollo Urbano y demás disposiciones aplicables a los usos, destinos, reservas y previsiones. Esta Ley se remite, a la Ley de Desarrollo Urbano del Estado de Baja California para regir en las modalidades aplicables a las Edificaciones; como son los Planes o Programas Estatal, Municipales, de Centro de Población y Parciales de Desarrollo Urbano así como los Programas Sectoriales de Desarrollo Urbano, previstos en la Ley General de Asentamientos Humanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Todas las edificaciones de uso público o privadas, deberán ser accesibles en todos sus niveles para personas con discapacidad. Además, deberán contener ambientes y rutas accesibles que permitan el desplazamiento y la atención de las personas con discapacidad, en las mismas condiciones que el público en general.
 
 ###### ARTICULO 10.
 
@@ -215,9 +263,19 @@ II. En las zonas señaladas con usos y destinos condicionados; y,
 
 III. No se autorizarán construcciones cuya ubicación y uso o destino corresponda a zonas prohibidas a dichos usos.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+IV. No se autorizarán construcciones privadas de uso por el público, que no sean accesibles en todos sus niveles para personas con discapacidad.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 Cuando ya existan usos de alto riesgo en zonas no autorizadas, se ordenará su cambio, reubicándolos en zonas apropiadas o en caso de ser posible, ordenar la ejecución de las obras, adaptaciones o trabajos que permitan su funcionamiento sin dañar el medio ambiente que lo rodea, atendiendo a la Legislación vigente en materia ecológica.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 Se establecerá en los Reglamentos la clasificación específica de las edificaciones e instalaciones, señalando su rango y magnitud de acuerdo a la clasificación genérica y a los usos y destinos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 En el caso que las construcciones e instalaciones contengan dos ó más de los usos a que se refieren los Reglamentos, se sujetarán en cada una de sus partes a las disposiciones y normas que establezcan los Planes y Programas de Desarrollo Urbano y sus diferentes modalidades.
 
@@ -359,7 +417,41 @@ Las edificaciones estarán provistas, con el número mínimo de servicios sanita
 
 La dotación de letrinas sanitarias y/o fosas sépticas será autorizado (sic) para zonas rurales y fraccionamientos populares donde no exista sistema de drenaje sanitario, regulando sus características de instalación a través de los Reglamentos y sus Normas Técnicas Complementarias.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+En las edificaciones cuyo número de ocupantes demande servicios higiénicos por lo menos un inodoro, un lavatorio y un urinario deberán cumplir con los requisitos para personas con discapacidad, el mismo que deberá cumplir con los siguientes requisitos:
+
+a) Lavatorios
+
+• Los lavatorios deben instalarse adosados a la pared o empotrados en un tablero individualmente y soportar una carga vertical de 100 kilogramos.
+
+• El distanciamiento entre lavatorios será de 90 centímetros entre ejes.
+
+• Deberá existir un espacio libre de 75 centímetros x (sic) 1.20 metros al frente del lavatorio para permitir la aproximación de una persona en silla de ruedas.
+
+• Se instalará con el borde externo superior o, de ser empotrado, con la superficie superior del tablero a 85 centímetros del suelo. El espacio inferior quedará libre de obstáculos, con excepción del desagüe, y tendrá una altura de 75 centímetros desde el piso hasta el borde inferior del mandil o fondo del tablero de ser el caso. La trampa del desagüe se instalará lo más cerca al fondo del lavatorio que permita su instalación, y el tubo de bajada será empotrado. No deberá existir ninguna superficie abrasiva ni aristas filosas debajo del lavatorio.
+
+• Se instalará grifería con comando electrónico o mecánica de botón, con mecanismo de cierre automático que permita que el caño permanezca abierto, por lo menos, 10 segundos. En su defecto, la grifería podrá ser de aleta.
+
+b) Inodoros
+
+• El cubículo para inodoro tendrá dimensiones mínimas de 1.50 metros por 2 metros, con una puerta de ancho no menor de 90 centímetros y barras de apoyo tubulares adecuadamente instaladas.
+
+• Los inodoros se instalarán con la tapa del asiento entre 45 y 50 centímetros sobre el nivel del piso.
+
+• La papelera deberá ubicarse de modo que permita su fácil uso. No deberá (sic) utilizarse dispensadores que controlen el suministro.
+
+c) Urinarios
+
+• Los urinarios serán del tipo pesebre o colgados de la pared. Estarán provistos de un borde proyectado hacia el frente a no más de 40 centímetros de altura sobre el piso.
+
+• Deberá existir un espacio libre de 75 centímetros por 1.20 metros al frente del urinario para permitir la aproximación de una persona en silla de ruedas.
+
+• Deberán instalarse barras de apoyos tubulares verticales, en ambos lados del urinario y a 30 centímetros de su eje, fijados en la pared posterior.
+
+• Se podrán instalar separadores, siempre que el espacio libre entre ellos sea mayor de 75 centímetros.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 Toda edificación pública deberá contar con sistemas adecuados que tengan como objetivo el ahorro del agua, así como su eficiente utilización.
 
@@ -381,7 +473,7 @@ Sin perjuicio de lo anterior, toda edificación pública deberá contar con sist
 
 Las edificaciones deberán equiparse con sistemas de iluminación de emergencia y pararrayos en los casos y bajo las condiciones que indiquen los Reglamentos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 Las instalaciones de distribución, suministro telefónico y antenas, deberán cumplir con las disposiciones de la Secretaría de Comunicaciones y Transportes y demás que se establezcan al respecto.
 
@@ -399,6 +491,38 @@ Toda edificación debe contar con área de estacionamiento, con el número míni
 
 Los estacionamientos públicos o privados deberán contar con cajones de estacionamiento con espacio suficiente para las personas minusválidas, en los términos que determinen los reglamentos respectivos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Los estacionamientos de uso público deberán cumplir las siguientes condiciones:
+
+a) Se reservará espacios de estacionamiento para los vehículos que transportan o son conducidos por personas con discapacidad, en proporción a la cantidad total de espacios dentro del predio, de acuerdo con el siguiente cuadro:
+
+NUMERO TOTAL DE ESTACIONAMIENTOS ESTACIONAMIENTOS
+
+ACCESIBLES REQUERIDOS
+
+De 0 a 5 estacionamientos ninguno
+
+De 6 a 20 estacionamientos 01
+
+De 21 a 50 estacionamientos 02
+
+De 51 a 400 estacionamientos 02 por cada 50
+
+Más de 400 estacionamientos 16 más 1 por cada 100
+
+adicionales
+
+b) Los estacionamientos accesibles se ubicarán lo más cerca que sea posible a algún ingreso accesible a la edificación, de preferencia en el mismo nivel que éste; debiendo acondicionarse una ruta accesible entre dichos espacios e ingreso. La ruta accesible al frente de espacios de estacionamiento, se deberá prever que ningún objeto invada esa ruta.
+
+c) Las dimensiones mínimas de los espacios de estacionamiento accesibles, serán de 3.80 x (sic) 5.00 metros.
+
+d) Los espacios de estacionamiento accesibles estarán identificados mediante avisos individuales en el piso y, además, un aviso adicional soportado por poste o colgado, según sea el caso, que permita identificar, a distancia, la zona de estacionamientos accesibles.
+
+e) Los obstáculos para impedir el paso de vehículos deberán estar separados por una distancia mínima de 90 centímetros y tener una altura mínima de 80 centímetros. No podrán tener elementos salientes que representen riesgo para el peatón.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 El área destinada al uso de estacionamiento, no podrá ser reducida en superficie menor al mínimo requerido conforme al reglamento Municipal vigente; así mismo no se permitirá el establecimiento de usos distintos, que disminuyan el área de estacionamiento o que afecten de alguna forma las normas mínimas de seguridad, ubicación de accesos y circulación de vehículos o peatones.
 
 ###### ARTICULO 23.
@@ -408,6 +532,14 @@ ACUSTICA Y VISIBILIDAD.
 Los rangos permisibles de ruido serán fijados tomando en cuenta las necesidades acústicas de cada edificación y las repercusiones que pudieran generar al entorno.
 
 Para locales destinados a cines, auditorios, teatros, salas de con cierto (sic) o espectáculos deportivos, se utilizarán los medios apropiados que garanticen la visibilidad a todos los espectadores, incluyendo espacios para personas minusválidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+En las salas con asientos fijos al piso se deberá disponer de espacios para personas en sillas de ruedas, a razón de 1 por los primeros 50 asientos, y el 1% del número total, a partir de 51. Las fracciones se redondean al entero más cercano.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+El espacio mínimo para un espectador en silla de ruedas será de 0.90 metros de ancho y de 1.20 metros de profundidad. Los espacios para sillas de ruedas deberán ser accesibles.
 
 ###### ARTICULO 24.
 
@@ -440,6 +572,18 @@ V. Para la instalación de butacas y gradas en edificaciones, se deberá cumplir
 VI. Los elevadores de pasajeros y de carga, escaleras eléctricas y bandas transportadoras de público, cumplirán con las disposiciones establecidas en la materia, considerando las condiciones y características de las edificaciones que requieran de ese servicio.
 
 VII. Las edificaciones de atención al público contarán con los elementos necesarios para permitir el acceso, salida y circulación de personas minusválidas tanto en sus espacios interiores como en los exteriores.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Las edificaciones de transporte y comunicaciones deberán cumplir con los siguientes requisitos:
+
+a) En las áreas para espera de pasajeros en terminales se deberá disponer de espacios para personas en sillas de ruedas, a razón de 1 por los primeros 50 asientos, y el 1% del número total, a partir de 51. Las fracciones ser (sic) redondean al entero más cercano.
+
+b) Si el sistema de información y avisos al público del (sic) terminal o del aeropuerto es por medio de un sistema de locución, deberá instalarse un sistema alternativo que permita que las personas con problemas de audición o sordas tomen conocimiento de la información.
+
+c) Deberá existir una ruta accesible desde el ingreso al local, hasta las áreas de embarque.
+
+d) Las áreas de venta de pasajes, los puntos de control de seguridad, y las áreas de espera de pasajeros y de entrega de equipaje, deberán ser accesibles.
 
 ###### ARTICULO 26.
 
@@ -482,6 +626,10 @@ II. Consideraciones de diseño estructural:
 a). Seguridad contra la aparición de todo estado límite de falla posible ante las combinaciones de acciones más desfavorables que puedan presentarse durante su vida útil esperada, y;
 
 b). No rebasar ningún estado límite de servicio ante la combinación de acciones, que correspondan a condiciones normales de operación de proyecto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Las áreas de uso común de los Conjuntos Residenciales y Quintas, así como los vestíbulos de ingreso de los Edificios Multifamiliares para los que se exija ascensor, deberán cumplir con condiciones de accesibilidad, mediante rampas o medios mecánicos; las rampas se podrán diseñar hasta con 12 % de pendiente.
 
 ###### ARTICULO 28.
 
@@ -1232,3 +1380,9 @@ P.O. 11 DE JULIO DE 2008.
 P.O. 17 DE OCTUBRE DE 2014.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos del Estado contarán con un plazo de 180 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado para realizar las modificaciones correspondientes a sus reglamentos municipales.
