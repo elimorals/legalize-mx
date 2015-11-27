@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2015-07-03"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 3 DE JULIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 27 DE NOVIEMBRE DE 2015.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -389,8 +387,6 @@ IX. Cumplir con las disposiciones de este Código.
 
 ### CAPÍTULO II. De la Constitución y Registro
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 30.
 
 Las asociaciones políticas serán fiscalizadas por la Unidad de Fiscalización del Instituto Electoral Veracruzano, en los términos previstos por este Código.
@@ -437,79 +433,11 @@ Los derechos y obligaciones de los partidos políticos, organización interna, a
 
 ###### Artículo 38.
 
-La constitución y registro de los partidos políticos se sujetará a lo dispuesto por la Ley General de Partidos Políticos.
-
-Las organizaciones de ciudadanos que pretendan constituirse en partido político estatal, deberán obtener su registro ante el Instituto Electoral Veracruzano.
-
-A. Para constituir un partido político se deberá acreditar:
-
-I. La celebración de asambleas distritales, por lo menos en dos terceras partes de las cabeceras de los distritos electorales locales o asambleas municipales en por lo menos las dos terceras partes de los municipios del Estado, las cuales deberán contar con la presencia de un funcionario autorizado por la Junta General Ejecutiva del Instituto, quien certificará:
-
-a) Para el caso de las asambleas distritales, contar como mínimo con un número de afiliados equivalente al uno por ciento de los ciudadanos del distrito que se encuentren inscritos en el padrón electoral actualizado; o
-
-b) Para el caso de las asambleas municipales, contar como mínimo, con un número de afiliados equivalente al uno por ciento de los ciudadanos del municipio que se encuentren inscritos en el padrón electoral actualizado;
-
-c) De cada asamblea, se certificará que dichos afiliados suscribieron el documento de manifestación formal de afiliación; que asistieron libremente; que conocieron y aprobaron la declaración de principios, el programa de acción y los estatutos; y que eligieron a los delegados propietarios y suplentes que asistieron a dichas asambleas;
-
-d) Que con los ciudadanos mencionados en los incisos a) y b) quedaron integradas las listas de afiliados, con el nombre, apellidos, domicilio, clave y folio de la credencial para votar; y
-
-e) Que en la realización de las asambleas de que se trate no existió intervención de organizaciones gremiales o de otras con objeto social diferente al de constituir el partido político;
-
-II. La celebración de una asamblea constitutiva ante la presencia del funcionario designado por la Junta General Ejecutiva del Instituto, quien certificará:
-
-a) Que asistieron los delegados propietarios o suplentes, elegidos en las asambleas distritales o municipales, según sea el caso, mediante la exhibición de las listas nominales de afiliados del municipio respectivo, con las firmas auténticas de los mismos;
-
-b) Que acreditaron, por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en la fracción anterior;
-
-c) Que se comprobó la identidad y residencia de los delegados a la asamblea constitutiva, por medio de su credencial para votar u otra identificación oficial;
-
-d) Que los delegados aprobaron la declaración de principios, programa de acción y estatutos;
-
-e) Que se presentaron las listas de afiliados con los demás ciudadanos con que cuenta la organización en el Estado, distribuidos en dos terceras partes de los distritos electorales del Estado o de los municipios, según sea el caso, con el objeto de satisfacer el requisito del porcentaje mínimo exigido por este Código. Estas listas contendrán los datos requeridos en el inciso d) de la fracción anterior; y
-
-f) Que fue electo el Comité Directivo Estatal o su equivalente.
-
-El costo de las certificaciones requeridas será cubierto de conformidad con la Ley General de Partidos Políticos. Los servidores públicos autorizados para expedirlas están obligados a realizar las actuaciones correspondientes.
-
-En caso de que la organización no presente su solicitud de registro en el plazo previsto en este Código y las demás normas aplicables, se tendrá como no presentada.
-
-III. Contar con registro legal como asociación política estatal, al menos con un año de anticipación a la solicitud de registro para constituirse como partido político; y
-
-IV. Haber participado en, por lo menos, un proceso electoral, como asociación política estatal debidamente registrada, mediante un convenio de participación con algún partido político.
-
-B. Para que una organización de ciudadanos sea registrada como partido político estatal, se deberá ajustar al siguiente procedimiento:
-
-I. La organización de ciudadanos que pretenda constituirse en partido político para obtener su registro ante el Instituto Electoral Veracruzano, deberá informar tal propósito al Consejo General en el mes de enero del año siguiente al de la elección de Gobernador.
-
-II. Para obtener su registro como partido político, la organización interesada deberá cumplir los requisitos antes señalados. A partir del aviso que se haga al Instituto Electoral Veracruzano, la organización contará con un plazo de un año como máximo para acreditar los mismos. Una vez transcurrido dicho término sin acreditarlos, la solicitud perderá sus efectos.
-
-III. El Consejo General del Instituto Electoral Veracruzano, al conocer la solicitud de la asociación política que pretenda su registro como partido político estatal, procederá a:
-
-a) Remitir inmediatamente a través de la Secretaría Ejecutiva del Instituto Electoral Veracruzano, a la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, la solicitud acompañada del expediente respectivo, a efecto de que en un plazo no mayor de quince días naturales, proceda a examinar los documentos a que se refiere este artículo y verifique el cumplimiento de los requisitos y del procedimiento de constitución señalados en esta norma;
-
-b) La Dirección Ejecutiva de Prerrogativas y Partidos Políticos del Instituto Electoral Veracruzano notificará al Instituto Nacional Electoral para que realice la verificación de los afiliados y de la autenticidad de las afiliaciones al nuevo partido, conforme al cual se constatará que se cuenta con el número mínimo de afiliados a que se refiere la fracción I del Apartado A de este artículo, en sus incisos a) y b), cerciorándose de que dichas afiliaciones cuenten con un año de antigüedad como máximo, dentro del partido de nueva creación;
-
-c) La Dirección Ejecutiva de Prerrogativas y Partidos Políticos del Instituto Electoral Veracruzano remitirá el expediente acompañado del informe respectivo a la Comisión de Prerrogativas y Partidos Políticos del Instituto Electoral Veracruzano, con las observaciones y conclusiones de mérito, a fin de que ésta evalúe las consideraciones del informe de referencia y formule el dictamen correspondiente, en un plazo no mayor a los veinte días naturales siguientes;
-
-d) El Consejo General, con base en el dictamen de la Comisión de Prerrogativas y Partidos Políticos y dentro del plazo de sesenta días a partir de la presentación del mismo, resolverá lo conducente mediante el acuerdo respectivo, que se publicará en la Gaceta Oficial del Estado; y
-
-e) El registro como partido político surtirá efectos constitutivos a partir del primer día del mes de julio del año previo al de la elección.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 39.
 
-Una vez realizados los actos relativos al procedimiento de constitución de un partido estatal, la organización de ciudadanos interesada, en el mes de enero del año anterior al de la siguiente elección, presentará ante el Instituto Electoral Veracruzano la solicitud de registro, acompañándola con los siguientes documentos:
-
-I. La declaración de principios, el programa de acción y los estatutos aprobados por sus afiliados;
-
-II. Las listas nominales de afiliados distribuidos en dos terceras partes de los distritos electorales o municipios, según sea el caso, a que se refiere este Código. Esta información deberá presentarse en archivos en medio digital; y
-
-III. Las actas de las asambleas celebradas en dos terceras partes de las cabeceras de los distritos electorales o municipios, según sea el caso, y la de su asamblea local constitutiva correspondiente.
-
-Cuando proceda, el Instituto expedirá el documento respectivo haciendo constar el registro. En caso de negativa fundamentará las causas que la motivaron y lo notificará a los interesados. El registro de los partidos políticos surtirá efectos constitutivos a partir del primer día del mes de julio del año previo al de la elección.
-
-El acuerdo se notificará al Instituto Nacional Electoral, a efecto de que sea inscrito en su libro de registro de los partidos políticos locales; asimismo, dicho acuerdo deberá publicarse en la Gaceta Oficial del Estado, y podrá ser recurrido ante el Tribunal Electoral del Estado.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO V. De las Prerrogativas
 
@@ -671,11 +599,11 @@ Los partidos políticos nacionales y estatales accederán a los tiempos en radio
 
 En cuanto a la transmisión de debates entre candidatos, se estará a lo dispuesto en la Ley General de Instituciones y Procedimientos Electorales.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 47.
 
-El Consejo General del Instituto Electoral Veracruzano creará, con carácter temporal para cada proceso electoral, la Comisión de Medios de Comunicación, integrada por dos consejeros electorales y los representantes de los partidos políticos, ASÍ COMO POR EL TITULAR DE LA UNIDAD DE FISCALIZACIÓN, y el Director Ejecutivo de Prerrogativas y Partidos Políticos, que tendrá a su cargo verificar el cumplimiento de lo dispuesto en los párrafos siguientes.
+El Consejo General del Instituto Electoral Veracruzano creará, con carácter temporal para cada proceso electoral, la Comisión de Medios de Comunicación, integrada por dos consejeros electorales y los representantes de los partidos políticos, y el Director Ejecutivo de Prerrogativas y Partidos Políticos, que tendrá a su cargo verificar el cumplimiento de lo dispuesto en los párrafos siguientes:
 
 Los medios de comunicación distintos a la radio y a la televisión deberán registrar ante el Consejo General del Instituto:
 
@@ -685,11 +613,11 @@ II. La garantía de que las tarifas publicitarias que se cobren a los partidos p
 
 III. El compromiso de no obsequiar espacios a algún partido, coalición o candidatos, salvo que opere para todos en la misma proporción.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 48.
 
-El Instituto Electoral Veracruzano informará oportunamente y en condiciones de equidad, a todos los partidos políticos, las diferentes modalidades y tarifas publicitarias de los servicios ofrecidos por las empresas de los medios de comunicación distintos a la radio y la televisión. Durante el proceso electoral, la contratación de los espacios orientados a la promoción del voto a favor de los candidatos a cargos de elección popular, exclusivamente se realizará por los partidos políticos o coaliciones con los medios de comunicación que hubieran efectuado el registro previsto en este artículo y los contratos se celebrarán con la participación de las direcciones ejecutivas DE LA UNIDAD DE FISCALIZACIÓN Y de Prerrogativas y Partidos Políticos, EN SUS RESPECTIVOS ÁMBITOS DE COMPETENCIA, con el objeto de vigilar el cumplimiento de lo dispuesto en el mismo.
+El Instituto Electoral Veracruzano informará oportunamente y en condiciones de equidad, a todos los partidos políticos, las diferentes modalidades y tarifas publicitarias de los servicios ofrecidos por las empresas de los medios de comunicación distintos a la radio y la televisión. Durante el proceso electoral, la contratación de los espacios orientados a la promoción del voto a favor de los candidatos a cargos de elección popular, exclusivamente se realizará por los partidos políticos o coaliciones con los medios de comunicación que hubieran efectuado el registro previsto en este artículo y los contratos se celebrarán con la participación de la dirección ejecutiva de Prerrogativas y Partidos Políticos, con el objeto de vigilar el cumplimiento de lo dispuesto en el mismo.
 
 La contratación por parte de una organización política de mensajes en contravención a lo dispuesto en el párrafo precedente se considerará como infracción a las obligaciones impuestas a dichas organizaciones.
 
@@ -703,9 +631,9 @@ El Consejo General del Instituto Electoral Veracruzano establecerá, en el mes d
 
 Los trabajos de monitoreo darán inicio el primer domingo del mes de enero del año de la elección y concluirán el día de la jornada electoral. Los resultados serán presentados los días lunes de cada semana ante la Secretaría Ejecutiva, la que dará cuenta al Consejo General en la sesión inmediata, para su conocimiento y amplia difusión.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-El monitoreo se orientará a verificar el cumplimiento de lo dispuesto en este Capítulo Y EL RESPETO A LOS TOPES DE GASTOS DE PRECAMPAÑA Y CAMPAÑA.
+El monitoreo se orientará a verificar el cumplimiento de lo dispuesto en este Capítulo.
 
 ### CAPÍTULO II. Del inicio de los Procesos Internos y Precampañas
 
@@ -737,9 +665,7 @@ II. En el año de la elección en que se renueve el Congreso del Estado, con ind
 
 III. En el año de la elección en que se renueven solamente ayuntamientos, a cada partido político se le otorgará para gastos de campaña un monto equivalente al veinte por ciento del financiamiento público adicional al ordinario, que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año; y
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL APARTADO B DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-IV. EL FINANCIAMIENTO DE CAMPAÑA SERÁ ADMINISTRADO EN SU TOTALIDAD POR LOS PARTIDOS POLÍTICOS, ESTABLECIENDO EL PRORRATEO CONFORME LO PREVISTO EN ESTE CÓDIGO; TENIENDO QUE INFORMARLAS A LA COMISIÓN DE FISCALIZACIÓN DEL INSTITUTO NACIONAL ELECTORAL Y, EN SU CASO, AL INSTITUTO ELECTORAL VERACRUZANO, DIEZ DÍAS ANTES DEL INICIO DE LA CAMPAÑA ELECTORAL.
+IV. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
 
 C. Las actividades específicas a que hace referencia la fracción IV del Apartado A del presente artículo, comprenderán la educación y capacitación política, investigación socioeconómica y política, así como las tareas editoriales de los partidos políticos, serán apoyadas mediante financiamiento público por un monto total anual equivalente al tres por ciento del que corresponda en el mismo año para las actividades ordinarias; el monto total será distribuido en los términos establecidos;
 
@@ -853,8 +779,6 @@ Cada partido político, en términos de sus estatutos, definirá el procedimient
 
 ### CAPÍTULO IV. De la Fiscalización de los Recursos de las Precampañas Electorales
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 59.
 
 Los procesos internos de selección de candidatos de los partidos políticos podrán iniciar a partir del primer domingo del mes de enero del año correspondiente a la elección y deberán concluir a más tardar el cuarto domingo del mes de marzo.
@@ -955,11 +879,7 @@ El financiamiento de las precampañas será preferentemente privado, pero los pa
 
 ###### Artículo 67.
 
-Los partidos políticos y los precandidatos serán corresponsables de rendir los informes sobre los recursos de que dispongan durante las precampañas, así como su monto, origen, aplicación y destino, a la Comisión de Fiscalización del Instituto Nacional Electoral, con copia al Instituto Electoral Veracruzano. El informe que rindan llevará anexo la relación de los donantes a la precampaña electoral.
-
-Los precandidatos llevarán un control detallado del origen, aplicación y destino de los recursos financieros de sus actividades de precampaña, en el que establecerán con claridad la lista nominal de donantes, cantidades y periodos de aplicación de tales recursos. Éstos deberán administrarse a través de una cuenta concentradora que abrirá el partido por cada tipo de elección, de la cual se desprenderán subcuentas por cada precandidato.
-
-Los gastos que efectúe durante la precampaña el candidato seleccionado en el proceso interno, le serán contabilizados como parte de los gastos de campaña para la elección correspondiente.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 68.
 
@@ -993,9 +913,9 @@ III. Sólo podrá fijarse o colocarse propaganda electoral en propiedades partic
 
 IV. Cuidarán que su propaganda no modifique el paisaje, ni perjudique los elementos que forman el entorno natural; en consecuencia, se abstendrán de efectuar inscripciones o instalaciones para fines propagandísticos en accidentes orográficos, como cerros, colinas, barrancas o montañas. En ningún caso se considerarán accidentes orográficos los que resulten de la acción humana como la plantación de árboles o cualquier otro tipo de vegetales o las construcciones, cualquiera que sea su índole;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-V. Abstenerse de cualquier expresión que implique calumnia, DIFAMACIÓN O QUE DENIGRE a CIUDADANOS, ASPIRANTES O PRECANDIDATOS, personas, INSTITUCIONES PÚBLICAS O PRIVADAS, O A OTROS PARTIDOS Y SUS CANDIDATOS. Quedan prohibidas las expresiones que inciten al desorden y a la violencia, así como la utilización de símbolos, signos o motivos religiosos o racistas;
+V. Abstenerse de cualquier expresión que implique calumnia a personas. Quedan prohibidas las expresiones que inciten al desorden y a la violencia, así como la utilización de símbolos, signos o motivos religiosos o racistas;
 
 VI. Sólo podrá fijarse o colgarse propaganda electoral en elementos de equipamiento urbano, bastidores y mamparas, siempre que no dañe su estructura, impida la visibilidad de conductores y peatones o represente un estorbo y peligro para los mismos;
 
@@ -1053,8 +973,6 @@ El tope de gastos de campaña que se fije a las coaliciones se considerará como
 
 ### CAPÍTULO III. De las Coaliciones
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 78.
 
 Las organizaciones políticas podrán aliarse o unirse, con el fin de constituir frentes para alcanzar objetivos políticos y sociales compartidos, de índole no electoral, mediante acciones y estrategias específicas y comunes.
@@ -1099,91 +1017,39 @@ Los partidos políticos y asociaciones políticas que integren un frente, conser
 
 ###### Artículo 82.
 
-Las coaliciones se regirán por lo dispuesto en la Ley General de Partidos Políticos y lo preceptuado en los artículos siguientes.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 83.
 
-En todos los casos de coalición, cada uno de los partidos coaligados deberá registrar listas propias de candidatos a diputados por el principio de representación proporcional y de candidatos a regidores por el mismo principio.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 84.
 
-Los partidos políticos por ningún motivo podrán participar en más de una coalición, aun en el caso de que concurran en un mismo proceso dos elecciones locales o elecciones locales y federales.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 85.
 
-En el caso de coalición, independientemente de la elección para la que se realice, cada partido conservará su propia representación en los consejos del Instituto Electoral Veracruzano y ante las mesas directivas de casilla.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 86.
 
-Se entenderá como coalición total, la formada por dos o más partidos políticos para todas las elecciones que concurran bajo el principio de mayoría relativa en un proceso electoral, la cual comprenderá obligatoriamente todos los distritos electorales y para el caso de ayuntamientos todos los municipios.
-
-Para la conformación de coaliciones parciales o flexibles, se estará a lo dispuesto en la Ley General de Partidos Políticos. Para su aplicación a la elección local, los porcentajes del cincuenta o el veinticinco por ciento se referirán a la elección de diputados de mayoría relativa o de ediles de los ayuntamientos por el mismo principio, según el caso.
-
-Para el registro de la coalición, los partidos políticos que pretendan coaligarse deberán:
-
-I. Acreditar que la coalición fue aprobada por el órgano que establezcan los estatutos de cada uno de los partidos políticos coaligados y que dichos órganos expresamente aprobaron la plataforma electoral y, en su caso, el programa de gobierno de la coalición o de uno de los partidos coaligados;
-
-II. Comprobar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados aprobaron, en su caso, la postulación y el registro de determinado candidato para la elección de Gobernador; y
-
-III. Acreditar que los órganos partidistas respectivos de cada uno de los partidos políticos coaligados aprobaron, en su caso, postular y registrar, como coalición, a los candidatos a los cargos de diputados, presidentes municipales y síndicos por el principio de mayoría relativa;
-
-En su oportunidad, cada partido integrante de la coalición de que se trate deberá registrar, por sí mismo, las listas de candidatos a diputados y regidores por el principio de representación proporcional.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 87.
 
-Las coaliciones que celebren los partidos políticos para las elecciones de diputados de mayoría relativa y de presidente municipal y síndico, así como las listas propias de candidatos a diputados por el principio de representación proporcional y regidores, deberán dar cumplimiento a las acciones afirmativas de género previstas en este ordenamiento.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 88.
 
-Para constituir una coalición deberá celebrarse un convenio por escrito, en el que constará:
-
-I. Las organizaciones políticas que la forman;
-
-II. La elección que la motiva; en el caso de la elección de diputados o ediles, se deberán señalar expresamente los distritos o municipios en los cuales se coaligarán;
-
-III. El procedimiento que seguirá la coalición para la selección de los candidatos que postulará;
-
-IV. Que los partidos políticos intervinientes, según el tipo de coalición de que se trate, se sujetarán a los topes de gastos de campaña fijados para las distintas elecciones, como si se tratara de un solo partido;
-
-V. El porcentaje de aportaciones de cada organización para el financiamiento de las campañas electorales y la designación del titular del órgano interno, encargado de administrar los recursos;
-
-VI. El partido o asociación a que pertenece el candidato registrado por la coalición, por cada distrito electoral o municipio; así como el grupo legislativo del que formarán parte los diputados que resultaren elegidos;
-
-VII. Que se anexa la plataforma electoral y, en su caso, el programa de gobierno que sostendrá su candidato a Gobernador, así como los documentos en que conste la aprobación por los órganos partidistas correspondientes; y
-
-VIII. Para el caso de la interposición de los medios de impugnación previstos en este Código, quién será la persona que ostentará la representación de la coalición.
-
-En todo caso, los mensajes en radio y televisión que correspondan a candidatos de coalición deberán identificar esa calidad y el partido responsable del mensaje.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 89.
 
-El convenio de coalición deberá presentarse por escrito, para su registro ante el Instituto Electoral Veracruzano, a más tardar treinta días antes de que se inicie el periodo de precampaña de la elección de que se trate.
-
-En el caso de que, de la revisión de la documentación presentada, se advirtiere alguna omisión que pueda ser subsanada, el Secretario Ejecutivo requerirá a la coalición para que subsane la misma, en un término de cuarenta y ocho horas.
-
-El Consejo General del Instituto Electoral Veracruzano resolverá, de manera fundada y motivada, en un plazo de diez días siguientes a su presentación definitiva, la procedencia del registro de la coalición.
-
-En el caso de elecciones extraordinarias, se estará al término que señale la convocatoria respectiva.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 90.
 
-Al concluir la elección, automáticamente terminará la coalición.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO II. De la Pérdida de Registro de las Asociaciones
 
@@ -1357,9 +1223,7 @@ c) La Dirección Ejecutiva de Capacitación Electoral y Educación Cívica;
 
 d) La Dirección Ejecutiva de Administración;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL INCISO E) DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-E) LA DIRECCIÓN EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL;
+e) (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 f) La Dirección Ejecutiva de Asuntos Jurídicos;
 
@@ -1371,9 +1235,7 @@ VIII. Las comisiones del Consejo General;
 
 IX. Los órganos desconcentrados:
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL INCISO A) DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-A) LOS ENLACES ADMINISTRATIVOS;
+a) (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 b) Los Consejos Distritales;
 
@@ -1385,9 +1247,9 @@ Los órganos del Instituto Electoral Veracruzano previstos en las fracciones I a
 
 Tratándose de los órganos señalados en la fracción VIII funcionarán de forma permanente o transitoria, según el fin para el cual sean creadas.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-Los órganos del Instituto Electoral Veracruzano se regirán por las disposiciones constitucionales, las leyes generales en materia electoral; este Código y los reglamentos respectivos. EL INGRESO, EVALUACIÓN, PROMOCIÓN Y PERMANENCIA DE LOS SERVIDORES PÚBLICOS Y DEL PERSONAL DIRECTIVO Y TÉCNICO DEL INSTITUTO ELECTORAL VERACRUZANO SE REGIRÁN POR EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL, HASTA EN TANTO NO SEA APROBADO EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL.
+Los órganos del Instituto Electoral Veracruzano se regirán por las disposiciones constitucionales, las leyes generales en materia electoral; este Código y los reglamentos respectivos.
 
 ### CAPÍTULO V. De la Presidencia del Consejo General
 
@@ -1545,9 +1407,7 @@ XLII. Determinar, antes del inicio de los procesos internos de los partidos pol�
 
 XLIII. Vigilar durante los procesos electorales la aplicación, las reglas, lineamientos y criterios que emita el Instituto Nacional Electoral en materia de sondeos de opinión, encuestas y conteos rápidos;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-XLIV. PROPONER AL CONGRESO DEL ESTADO, PREVIA CONVOCATORIA PÚBLICA, LAS TERNAS CORRESPONDIENTES PARA DESIGNAR AL SECRETARIO EJECUTIVO DEL INSTITUTO; Y
+XLIV. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
 
 XLV. Las demás que expresamente le confieran la Constitución del Estado, las leyes generales en la materia, este Código y demás leyes aplicables.
 
@@ -1647,8 +1507,6 @@ XIII. Las demás que expresamente le confieran este Código y las leyes del Esta
 
 ### CAPÍTULO IX. De los Órganos Ejecutivos
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 113.
 
 La Junta General Ejecutiva se integrará por el Presidente del Consejo General, quien la presidirá, así como por el Secretario Ejecutivo y los Directores Ejecutivos del Instituto, y se reunirá por lo menos una vez al mes, con los propósitos siguientes:
@@ -1663,9 +1521,9 @@ IV. Conocer el programa operativo anual, que elabore el Secretario Ejecutivo, pa
 
 V. Supervisar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-VI. Supervisar el cumplimiento de los programas DEL SERVICIO PROFESIONAL ELECTORAL, ASÍ COMO de organización, CAPACITACIÓN ELECTORAL y educación cívica;
+VI. Supervisar el cumplimiento de los programas de organización, y educación cívica;
 
 VII. Aprobar el tabulador de sueldos y salarios del personal del Instituto, que presente la Dirección Ejecutiva de Administración por conducto del Secretario Ejecutivo; y
 
@@ -1701,21 +1559,13 @@ XI. No ser militar en servicio activo con mando de fuerzas, a menos que haya dej
 
 XII. No ser titular de una Secretaría del Poder Ejecutivo del Estado, de otra entidad federativa o la Federación, Fiscal General en la Administración Pública de Entidades Federativas o la Federación, a menos de que se separe de su encargo con dos años de anticipación al día de su nombramiento.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-EL SECRETARIO EJECUTIVO DURARÁ EN EL CARGO SEIS AÑOS, SERÁ NOMBRADO POR EL VOTO DE LAS DOS TERCERAS PARTES DE LOS INTEGRANTES DEL CONGRESO DEL ESTADO; Y PODRÁ SER RATIFICADO EN EL CARGO POR UN PERIODO IGUAL.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-EL CONSEJO GENERAL ENVIARÁ UNA TERNA DE ASPIRANTES AL CONGRESO DEL ESTADO, DE ENTRE LOS CUALES EL CONGRESO ELEGIRÁ AL SECRETARIO EJECUTIVO.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-DE NO CONSEGUIR LA MAYORÍA CALIFICADA NINGUNO DE LOS INTEGRANTES DE LA TERNA, EL CONSEJO GENERAL ENVIARÁ UNA SEGUNDA TERNA. DE NO OBTENERSE DE NUEVA CUENTA LA MAYORÍA REQUERIDA, EL CONGRESO DEL ESTADO NOMBRARÁ DIRECTAMENTE AL SECRETARIO EJECUTIVO DEL INSTITUTO ELECTORAL VERACRUZANO, POR VOTACIÓN DE LAS DOS TERCERAS PARTES DE SUS MIEMBROS, DE ENTRE TODOS LOS ASPIRANTES QUE PARTICIPARON EN LA CONVOCATORIA.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-PARA DESTITUIR AL SECRETARIO EJECUTIVO SE REQUERIRÁ DE LA VOTACIÓN DE LAS DOS TERCERAS PARTES DEL CONGRESO DEL ESTADO.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 115.
 
@@ -1757,9 +1607,7 @@ XVI. Ejercer el presupuesto del Instituto y presentar los informes de avance de 
 
 XVII. Nombrar a los servidores públicos investidos de fe pública a que se hace mención en el artículo 98 de la Ley General de Instituciones y Procedimientos Electorales;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-XVIII. DESIGNAR A LOS ENLACES ADMINISTRATIVOS, ENTRE EL ÓRGANO CENTRAL Y LOS DEMÁS ÓRGANOS DESCONCENTRADOS;
+XVIII. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
 
 XIX. Supervisar las actividades de las Direcciones Ejecutivas del Instituto y apoyar, en el ámbito de su competencia, a los órganos desconcentrados; y
 
@@ -1767,9 +1615,9 @@ XX. Las demás que expresamente le confiera este Código.
 
 ### CAPÍTULO XI. De las Comisiones del Consejo General del Instituto Electoral Veracruzano
 
-###### ARTÍCULO 116.
+###### Artículo 116.
 
-LOS ÓRGANOS EJECUTIVOS PERTENECERÁN AL SERVICIO PROFESIONAL ELECTORAL DEL INSTITUTO NACIONAL ELECTORAL.
+(DEROGADO PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 Los directores ejecutivos actuarán como secretarios técnicos de las comisiones, temporales o especiales, que por su competencia les correspondan.
 
@@ -1957,29 +1805,9 @@ En el ejercicio de sus atribuciones, la Unidad deberá garantizar el derecho de 
 
 De la Dirección Ejecutiva del Servicio Profesional Electoral.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 123.
 
-El Director Ejecutivo del Servicio Profesional Electoral, tendrá las atribuciones siguientes:
-
-I. Cumplir y hacer cumplir las normas y procedimientos del Servicio Profesional Electoral;
-
-II. Realizar programas de reclutamiento, selección, formación y desarrollo del personal profesional;
-
-III. Realizar las observaciones y proponer las modificaciones necesarias, a fin de garantizar la eficacia de las normas contenidas en el Estatuto del Servicio Profesional Electoral, para ser presentadas por el Secretario Ejecutivo al Consejo General;
-
-IV. Presentar a la Comisión del Servicio Profesional los anteproyectos de procedimientos administrativos relativos a su ámbito de competencia;
-
-V. Someter al Consejo General, por conducto del Secretario Ejecutivo, las propuestas conducentes a la conformación y desarrollo del Servicio Profesional Electoral;
-
-VI. Acordar con el Presidente del Consejo y el Secretario Ejecutivo los asuntos de su competencia; y
-
-VII. Las demás que expresamente le confiera este Código.
-
-Con fundamento en el artículo 41 de la Constitución Federal y para asegurar el desempeño profesional de las actividades del Instituto Estatal, el Instituto Nacional Electoral, por conducto de la Unidad de Vinculación competente regulará la organización y funcionamiento del Servicio Profesional Electoral Nacional.
-
-La organización del Servicio será regulada por las normas establecidas por la Ley General y por las del Estatuto que apruebe el Consejo General del Instituto Nacional Electoral, en lo relativo al Sistema correspondiente a los organismos públicos locales.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO XII. De los Consejos Distritales del Instituto
 
@@ -2555,11 +2383,9 @@ El Instituto Electoral Veracruzano entregará a sus oficinas distritales, y ést
 
 La publicación se hará en cada oficina municipal del Registro Federal de Electores, fijando las listas nominales de electores, ordenadas alfabéticamente y por secciones, en la cabecera del municipio.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 162.
 
-Durante el plazo a que se refiere el Artículo anterior, los ciudadanos que consideren haber sido incluidos o excluidos indebidamente en las listas nominales de electores, podrán solicitar por escrito las aclaraciones a la Oficina del Registro Federal de Electores correspondiente a su domicilio, sobre su inclusión o exclusión del padrón. Ésta remitirá las solicitudes de aclaración y sus pruebas a la Comisión Distrital de Vigilancia respectiva, la que resolverá en un plazo no mayor de diez días.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO I. Del Registro de Candidatos
 
@@ -2571,31 +2397,17 @@ La actualización permanente del Padrón Electoral tiene como propósito mantene
 
 Todas las autoridades y empleados estatales y municipales deberán proporcionar, sin demora, las informaciones que obren en su poder y las certificaciones de los hechos que les consten, o de los documentos que existan en el archivo a su cargo, así como practicar las diligencias correspondientes, cuando se los demanden el Registro Federal de Electores o, respecto de éste, los organismos electorales que establece el presente Código y demás disposiciones aplicables.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 165.
 
-El Instituto Electoral Veracruzano, colaborará en el proceso de actualización del padrón electoral a fin de excluir de él a los ciudadanos que:
-
-I. Hayan fallecido;
-
-II. No cumplan con los requisitos previstos en el artículo 4 fracción II de este Código;
-
-III. Hayan cambiado de domicilio, sin efectuar la notificación correspondiente, en los términos de este Código y demás legislación aplicable; o
-
-IV. Se encuentren en los demás casos que señala este Código y demás legislación aplicable.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 166.
 
-Los Oficiales encargados del Registro Civil están obligados a dar aviso al Registro Federal de Electores de los fallecimientos de personas mayores de dieciocho años que registren, dentro de los treinta días siguientes a la fecha de expedición del acta respectiva, en los formularios que para el efecto les sean proporcionados, a fin de que se proceda a cancelar en el padrón dichas inscripciones.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 167.
 
-Los jueces que dicten resoluciones que decreten la suspensión, pérdida o rehabilitación de los derechos políticos, o que decreten la incapacidad para votar, así como que autoricen cambio de nombre, o declaren la ausencia o presunción de muerte del ausente, comunicarán estos hechos a la oficina del Registro Federal de Electores de su jurisdicción, dentro de los diez días siguientes a la fecha en que la sentencia o auto cause ejecutoria.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 168.
 
@@ -2717,9 +2529,7 @@ II. Tener presentada la solicitud de registro de candidatos o fórmula de candid
 
 III. No haber sido condenado por delito que merezca pena corporal a contar desde la fecha del auto de formal prisión; ni tener suspendidos los derechos o prerrogativas ciudadanas; y
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-IV. CONTAR CON BUENA FAMA PÚBLICA.
+IV. (DEROGADA, G.O. 27 DE NOVIEMBRE DE 2015)
 
 B. Postulación es la solicitud de registro de candidatos o fórmula de candidatos sostenida por un partido político o coalición registrados, que deberá contener:
 
@@ -2747,17 +2557,11 @@ XI. Las solicitudes de registro de candidatos a diputados y ediles de los ayunta
 
 XII. Declarar bajo protesta de decir verdad, no estar sujeto a un proceso penal por delito que merezca pena corporal a contar desde la fecha del auto de formal prisión; ni tener suspendidos los derechos o prerrogativas ciudadanas; y
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DEL APARTADO B DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+XIII. (DEROGADA PRIMER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)
 
-XIII. ACREDITAR QUE EL CANDIDATO, O FÓRMULA DE CANDIDATOS, CUENTAN CON BUENA FAMA PÚBLICA.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN XIII DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-PARA EFECTOS DE ESTE CÓDIGO, SE ENTENDERÁ POR BUENA FAMA, LA REPUTACIÓN PROBA DEL POSTULANTE A CANDIDATO O FÓRMULA DE CANDIDATOS; ES DECIR LA FAVORABLE ESTIMACIÓN QUE SE HAN FORMADO LOS HABITANTES DONDE SE VERIFICARÁ LA ELECCIÓN PARA LA CUAL PRETENDA POSTULARSE, GENERANDO UN CORRECTO PRESTIGIO PÚBLICO O UN ESTADO DE OPINIÓN SOBRE DETERMINADOS HECHOS QUE LO CONSIDERAN UN BUEN CIUDADANO.
-
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO TERCERO DE LA FRACCIÓN XIII DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-AQUEL QUE ATAQUE LA BUENA FAMA DE ALGÚN POSTULANTE, DEBERÁ ACOMPAÑAR DECLARACIONES DE PERSONAS DE RECONOCIDA PROBIDAD ANTE NOTARIO PÚBLICO, JUNTO CON LOS DEMÁS ELEMENTOS DE JUICIO NECESARIOS PARA HACER CONVICCIÓN ANTE LA AUTORIDAD ELECTORAL, SOBRE LA ELEGIBILIDAD DEL CONTENDIENTE. LA AUTORIDAD ELECTORAL PODRÁ CITAR A LOS DECLARANTES SI LO ESTIMAN NECESARIO, PARA QUE BAJO PROTESTA DE DECIR VERDAD RATIFIQUEN SU DICHO.
+> <small>(DEROGADO TERCER PÁRRAFO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 Los derechos ciudadanos suspendidos, serán rehabilitados una vez que se haya cumplimentado la pena que dio origen a la suspensión.
 
@@ -3709,13 +3513,11 @@ Los lineamientos para la asignación de regidurías por el principio de represen
 
 I. En el caso de ayuntamientos constituidos por tres ediles:
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO A) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-a) La regiduría única será asignada al partido minoritario QUE, EN SU CASO, OBTENGA COMO MÍNIMO EL QUINCE POR CIENTO DE LA VOTACIÓN MUNICIPAL EMITIDA EN EL MUNICIPIO DE QUE SE TRATE, ENTENDIÉNDOSE LA QUE RESULTE DE DEDUCIR DE LA VOTACIÓN TOTAL EMITIDA, LOS VOTOS A FAVOR DE LOS PARTIDOS POLÍTICOS QUE NO HAYAN OBTENIDO EL TRES POR CIENTO, LOS DE LOS CANDIDATOS NO REGISTRADOS, LOS VOTOS NULOS Y LOS VOTOS DE LOS CANDIDATOS INDEPENDIENTES; LA REGIDURÍA SERÁ ASIGNADA AL PARTIDO que tenga la mayor votación de los minoritarios; y
+a) La regiduría única será asignada al partido minoritario que tenga la mayor votación de los minoritarios; y
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL INCISO B) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-B) DE NO CUMPLIRSE CON LA HIPÓTESIS SEÑALADA EN EL INCISO ANTERIOR, LA REGIDURÍA ÚNICA DEL AYUNTAMIENTO DE QUE SE TRATE SERÁ ASIGNADA AL PARTIDO QUE HAYA OBTENIDO LA MAYORÍA RELATIVA; Y
+b) (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 II. En el caso de los ayuntamientos constituidos por más de tres ediles, se asignará la totalidad de las regidurías conforme al siguiente procedimiento:
 
@@ -4081,9 +3883,9 @@ g) Las personas que vivan o trabajen en el extranjero;
 
 V. Abstenerse de realizar por sí o por interpósita persona, actos de presión o coacción para obtener el apoyo ciudadano;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-VI. Abstenerse de proferir OFENSAS, DIFAMACIÓN, calumnia O CUALQUIER EXPRESIÓN QUE DENIGRE a OTROS ASPIRANTES O PRECANDIDATOS, PARTIDOS POLÍTICOS, personas, INSTITUCIONES PÚBLICAS O PRIVADAS;
+VI. Abstenerse de proferir calumnia a personas;
 
 VII. Rendir el informe de ingresos y egresos;
 
@@ -4131,9 +3933,7 @@ h) Designación de la persona encargada del manejo de los recursos financieros y
 
 i) Acreditar no estar sujeto a un proceso penal por delito que merezca pena corporal; ni tener suspendidos los derechos o prerrogativas ciudadanas a contar desde la fecha del auto de formal prisión; y
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DEL INCISO J) DE LA FRACCIÓN II DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-J) ACREDITAR QUE CUENTA CON BUENA FAMA PÚBLICA.
+j) (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 Para efectos de este Código, se entenderá por buena fama, la reputación proba del postulante; es decir la favorable estimación que se han formado los habitantes donde se verificará la elección para la cual pretenda postularse, generando un correcto prestigio público o un estado de opinión sobre determinados hechos que lo consideran un buen ciudadano.
 
@@ -4289,9 +4089,9 @@ VII. Depositar únicamente en la cuenta bancaria abierta al efecto sus aportacio
 
 VIII. Abstenerse de utilizar símbolos religiosos, así como expresiones, alusiones o fundamentaciones de carácter religioso en su propaganda;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-IX. Abstenerse de proferir OFENSAS, DIFAMACIÓN, calumnia O CUALQUIER EXPRESIÓN QUE DENIGRE a OTROS CANDIDATOS, PARTIDOS POLÍTICOS, personas, INSTITUCIONES PÚBLICAS O PRIVADAS;
+IX. Abstenerse de proferir calumnia a personas;
 
 X. Insertar en su propaganda de manera visible la leyenda: “Candidato Independiente”;
 
@@ -4335,8 +4135,6 @@ El registro de los nombramientos de los representantes ante mesas directivas de 
 
 ### CAPÍTULO XI. De la Fiscalización
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 #### Sección Primera. Del Financiamiento
 
 ###### Artículo 292.
@@ -4361,13 +4159,9 @@ Tampoco podrán recibir aportaciones de personas no identificadas, y estarán su
 
 Para el manejo de los recursos de campaña electoral, se deberá utilizar la cuenta bancaria a que se refiere este Código; todas las aportaciones deberán realizarse exclusivamente en dicha cuenta, mediante cheque o transferencia bancaria.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 296.
 
-Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, adicionalmente, el cheque deberá contener la leyenda “para abono en cuenta del beneficiario”. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
-
-Los comprobantes que amparen los egresos que realicen los candidatos independientes deberán ser expedidos a su nombre y constar en original como soporte a los informes financieros de las campañas electorales. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables, así como las establecidas por el Reglamento de Fiscalización de la Unidad Técnica respectiva.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 297.
 
@@ -4421,7 +4215,7 @@ La propaganda electoral de los candidatos independientes deberá tener el emblem
 
 ###### Artículo 305.
 
-Al igual que en el caso de los candidatos de partido, la fiscalización de los candidatos independientes, compete a la Unidad Técnica de Fiscalización de la Comisión de Fiscalización del Instituto Nacional Electoral, la cual hará la revisión de los informes que los aspirantes presenten sobre el origen y destino de sus recursos y de actos para el apoyo ciudadano según corresponda, así como la práctica de auditorías sobre el manejo de sus recursos y su situación contable y financiera, de conformidad con lo que establece la Ley General de Instituciones y Procedimientos Electorales. De los informes referidos se presentará copia ante el Instituto Electoral Veracruzano.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO XIV. De las Disposiciones Complementarias
 
@@ -4519,9 +4313,9 @@ II. El incumplimiento de las resoluciones o acuerdos del Instituto;
 
 III. El incumplimiento de las demás disposiciones previstas en el presente Código en materia de precampañas y campañas electorales y en las demás disposiciones aplicables en la materia;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-IV. La difusión de propaganda política o electoral que contenga expresiones QUE DENIGREN A LAS INSTITUCIONES Y A LOS PROPIOS PARTIDOS, O que calumnien a las personas;
+IV. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
 
 V. El incumplimiento de las reglas establecidas para el manejo y comprobación de sus recursos o para la entrega de la información sobre el origen, monto y destino de los mismos;
 
@@ -4581,9 +4375,9 @@ X. El incumplimiento de las resoluciones y acuerdos del Instituto;
 
 XI. La obtención de bienes inmuebles con recursos provenientes del financiamiento público o privado;
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-XII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas, INSTITUCIONES O LOS PARTIDOS POLÍTICOS;
+XII. La difusión de propaganda política o electoral que contenga expresiones que calumnien a las personas;
 
 XIII. La omisión o el incumplimiento de la obligación de proporcionar en tiempo y forma, la información que les sea solicitada por los órganos del Instituto Electoral Veracruzano; y
 
@@ -5791,33 +5585,9 @@ El Tribunal tendrá su sede y domicilio oficial en la ciudad capital del Estado.
 
 El Tribunal se integrará con tres Magistrados que serán los responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, en términos de las leyes locales; durarán en su cargo siete años y serán nombrados por el Senado de la República de acuerdo a lo previsto en la Constitución Política de los Estados Unidos Mexicanos y en la Ley General de Instituciones y Procedimientos Electorales.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 408.
 
-Para ser Magistrado Electoral se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener cuando menos treinta y cinco años cumplidos el día de la designación;
-
-III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciado en derecho expedido por autoridad o institución legalmente facultada para ello;
-
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-V. Haber residido en el Estado, durante un año anterior al día de la designación;
-
-VI. No haber sido Gobernador, Secretario, o Fiscal General del Estado, Senador, Diputado Federal o Local, durante los cuatro años previos al día de su nombramiento;
-
-VII. Contar con credencial para votar con fotografía;
-
-VIII. Acreditar conocimientos en derecho electoral;
-
-IX. No desempeñar ni haber desempeñado el cargo de Presidente del Comité Ejecutivo Nacional o equivalente de un partido político;
-
-X. No haber sido registrado como candidato, con excepción de los candidatos independientes, a cargo alguno de elección popular en los últimos cuatro años inmediatos anteriores a la designación; y
-
-XI. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político en los seis años inmediatos anteriores a la designación.
+(DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 409.
 
@@ -6083,19 +5853,15 @@ SÉPTIMO. Cuando en este Código se haga referencia al Tribunal Electoral del Es
 
 OCTAVO. Los Magistrados y demás personal del Tribunal Electoral del Estado, que se encuentren en funciones a la entrada en vigor del presente Código, continuarán en su encargo hasta en tanto se realicen los nuevos nombramientos, en los términos previstos por la fracción IV, inciso c), apartado 5 del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos y entre en funciones el nuevo Tribunal.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO OCTAVO TRANSITORIO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-Los Magistrados, LOS SERVIDORES PÚBLICOS Y DEMÁS PERSONAL que al momento de la entrada en vigor del presente Código laboren en el Tribunal Electoral del Poder Judicial del Estado continuarán perteneciendo al citado Poder, en los términos que señale su nombramiento.
+Los Magistrados que al momento de la entrada en vigor del presente Código laboren en el Tribunal Electoral del Poder Judicial del Estado continuarán perteneciendo al citado Poder, en los términos que señale su nombramiento.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO NOVENO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-NOVENO. LOS BIENES MUEBLES E INMUEBLES ASIGNADOS AL FUNCIONAMIENTO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO SEGUIRÁN SIENDO PROPIEDAD DEL PODER JUDICIAL DEL ESTADO, Y SERÁN ADMINISTRADOS POR EL CONSEJO DE LA JUDICATURA.
+NOVENO. (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 DÉCIMO. El personal del Instituto Electoral Veracruzano será adscrito al Servicio Profesional Nacional Electoral, en términos de los estatutos que al efecto emita el Instituto Nacional Electoral.
 
-(NOTA: EL 10 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 50/2015 Y SUS ACUMULADAS 55/2015, 56/2015 Y 58/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO DÉCIMO PRIMERO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-DÉCIMO PRIMERO. LAS FUNCIONES CORRESPONDIENTES A LA DIRECCIÓN EJECUTIVA DEL SERVICIO PROFESIONAL ELECTORAL CONTINUARÁN HASTA EN TANTO EL INSTITUTO NACIONAL ELECTORAL REGULE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL SERVICIO PROFESIONAL ELECTORAL, Y EJERZA SU RECTORÍA.
+DÉCIMO PRIMERO. (DEROGADO, G.O. 27 DE NOVIEMBRE DE 2015)
 
 DÉCIMO SEGUNDO. El Consejo General del Instituto Electoral Veracruzano dictará los acuerdos necesarios para hacer efectivas las disposiciones de este Código y deberá expedir los reglamentos que se deriven del mismo a más tardar en ciento ochenta días a partir de su entrada en vigor.
 
@@ -6104,6 +5870,16 @@ DÉCIMO TERCERO. En tanto no se realicen los nuevos nombramientos por el Consejo
 DÉCIMO CUARTO. La Dirección Ejecutiva de Asuntos Jurídicos asumirá, en cuanto a funciones, estructura y personal adscrito, las que desempeñaba la Coordinación Jurídica.
 
 DÉCIMO QUINTO. Se derogan todas las disposiciones que se opongan al presente Código.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+DÉCIMO SEXTO. En cumplimiento a la Ejecutoria de la Suprema Corte de Justicia de la Nación que resolvió la Acción de Inconstitucionalidad 50/2015 y sus acumuladas 55/2015, 56/2015 y 58/2015, se modifica el Decreto de Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave, para el Ejercicio Fiscal 2015, a efecto de otorgarle una partida presupuestal al Tribunal Electoral del Estado, correspondiente a la cantidad de $4.160.000.00 (cuatro millones ciento sesenta mil pesos. 00/100 M.N.), que garantiza su plena operación y funcionamiento, por el resto de dicho Ejercicio Fiscal.
+
+El Decreto de Presupuesto de Egresos del Gobierno del Estado de Veracruz de Ignacio de la Llave, para el Ejercicio Fiscal 2016, deberá prever una partida correspondiente al Tribunal Electoral del Estado de Veracruz de Ignacio de la Llave, que considere un monto suficiente para sufragar el uso y aprovechamiento de los bienes muebles e inmuebles, y la contratación de servidores públicos y demás personal necesarios para la operación y funcionamiento de dicho Tribunal.
+
+> <small>(ADICIONADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+DÉCIMO SÉPTIMO. Una vez aprobado por el Congreso del Estado el presupuesto para el pleno funcionamiento del Tribunal Electoral del Estado, los bienes muebles e inmuebles, así como el personal adscrito al Tribunal Electoral del Poder Judicial del Estado, se reincorporarán a dicho Poder, en este último caso, en los mismos términos en que fueron contratados, respetando los derechos y prerrogativas laborales adquiridos, conforme a la legislación aplicable.
 
 DADO EN EL SALÓN DE SESIONES DE LA LXIII LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS TREINTA DÍAS DEL MES DE JUNIO DEL AÑO DOS MIL QUINCE.
 
@@ -6130,3 +5906,13 @@ DR. JAVIER DUARTE DE OCHOA
 GOBERNADOR DEL ESTADO
 
 RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 27 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Con copia de este Decreto que cumplimenta la Ejecutoria de la Suprema Corte de Justicia de la Nación, que resolvió la Acción de Inconstitucionalidad 50/2015 y sus acumuladas 55/2015, 56/2015 y 58/2015, infórmese al Máximo Tribunal del País el acatamiento dado por la Legislatura y el Titular del Ejecutivo Estatal, a su resolución.
+
+TERCERO. Se deroga cualquier disposición que contravenga al presente Decreto.
