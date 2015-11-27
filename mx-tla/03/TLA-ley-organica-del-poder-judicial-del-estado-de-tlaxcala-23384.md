@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2015-11-06"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TLA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE TLAXCALA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 5 DE MARZO DE 2014, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA 22 DE OCTUBRE DE 2014 Y PUBLICADA EN EL P.O. DEL GOBIERNO DEL ESTADO DE FECHA 23 DE OCTUBRE DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -129,11 +131,9 @@ XII. Los Juzgados de Ejecución de Medidas aplicables a adolescentes, y
 
 XIII. El Centro Estatal de Justicia Alternativa.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS QUINTO Y SEXTO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2015)</small>
-
-XIV. Los Juzgados de Oralidad Mercantil.
+XIV.- LA UNIDAD DE IGUALDAD DE GÉNERO.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2547,13 +2547,15 @@ IV. Las demás que fijen las Leyes.
 
 Los peritos de las diferentes especialidades que prestan sus servicios como auxiliares de la administración de justicia, cobrarán conforme al arancel que determine el Pleno del Consejo de la Judicatura en forma anual.
 
+#### Sección Sexta. Unidad de Igualdad de Género
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 #### Sección Primera. Ingreso
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-#### Sección Segunda. Examen de Oposición
 
 ###### Artículo 85.
 
@@ -2633,6 +2635,58 @@ Cualquier defecto, irregularidad o infracción que advierta el Titular del Archi
 
 Los archivos de las Salas y Juzgados estarán a cargo de sus respectivos Secretarios de Acuerdos y en los Juzgados del Sistema de Justicia Penal Acusatorio Oral, estarán a cargo del Administrador de Oficina.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+#### Sección Segunda. Examen de Oposición
+
+###### Artículo 86 Octies.
+
+La Unidad de Igualdad de Género es el órgano responsable de promover e implantar, en el interior del Poder Judicial del Estado, una cultura con enfoque de género y sin discriminación, incorporándola permanente al diseño, programación, presupuestación, ejecución y evaluación de las políticas públicas institucionales, a fin de eliminar toda clase de diferencias arbitrarias, injustas o desproporcionadas, en razón de su sexo o género, tanto en el interior de la Institución como en los procesos y las resoluciones judiciales.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 86 Nonies.
+
+La Unidad de Igualdad de Género tendrá las funciones siguientes:
+
+l. Asegurar la institucionalización de la perspectiva y transversalidad de género en la cultura organizacional y quehacer judicial.
+
+II. Coordinar la formación, capacitación y certificación del personal en materia de género e igualdad sustantiva.
+
+III. Planificar y promover estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de la situación de las mujeres y los hombres que laboran en esta Institución.
+
+IV. Diseñar e implementar una política laboral libre de violencia, sin acoso laboral ni hostigamiento sexual.
+
+V. Atender, asesorar, orientar y canalizar a la instancia correspondiente, las quejas que se presenten por violaciones al derecho de igualdad de las y los que laboran en esta Institución.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 86 Decies.
+
+La Unidad de Igualdad de Género se integra por un Titular y por el personal administrativo que se requiera y permita el presupuesto del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 86 Undecies. El Titular de la Unidad de Igualdad de Género, tendrá las atribuciones siguientes:
+
+l. Coordinarse con el Titular del Instituto de Especialización Judicial, para incorporar la perspectiva de género en los programas de formación y capacitación continua dirigidos a las y los servidores públicos del Poder Judicial;
+
+II. Proponer al Presidente del Tribunal, los proyectos y programas que deban gestionarse ante las dependencias federales, estatales y municipales, así como ante las organizaciones no gubernamentales;
+
+III. Vigilar la aplicación de políticas laborales para eliminar la discriminación basada en el género, con la finalidad de:
+
+a) Crear mecanismos eficientes para la prevención, atención, sanción y erradicación del acoso y hostigamiento laboral y sexual, tales como protocolos especializados de atención y resolución de dichos casos;
+
+b) Desarrollar políticas específicamente orientadas a erradicar los estereotipos de género; y
+
+c) Las demás que determinen el Reglamento de la Ley Orgánica y otros ordenamientos aplicables;
+
+IV. Rendir semestralmente un informe al Presidente del Tribunal, relativo a las actividades realizadas;
+
+V. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que, en ejercicio de sus funciones, le requiera; y
+
+VI. Las demás que establezca el Reglamento de la Ley Orgánica, así como el Pleno y el Presidente del Tribunal.
+
 #### Sección Primera. Boletín
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -2644,12 +2698,6 @@ Los archivos de las Salas y Juzgados estarán a cargo de sus respectivos Secreta
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2013)</small>
-
-#### Sección Tercera. Revista Judicial
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ## TITULO QUINTO. CARRERA JUDICIAL
 
@@ -2740,6 +2788,12 @@ El Consejo de la Judicatura regulará lo no previsto mediante acuerdos y disposi
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+
+#### Sección Tercera. Revista Judicial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2013)</small>
 
 ###### Artículo 93.
 
@@ -3686,3 +3740,9 @@ Lo previsto en los artículos 2, 7 bis, 48 bis, 51 y 60 quater de la Ley Orgáni
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
