@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-administrativo-de-carrera-del-67688"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-06"
-last_updated: "2009-03-06"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67688&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 6 de marzo de 2009.
 
@@ -257,11 +257,25 @@ La celebración y organización de los concursos de oposición para los cargos a
 
 Los exámenes de oposición deberán evaluar las habilidades, conocimientos y aptitudes básicas, debiéndose elaborar de forma tal, que los aspirantes demuestren su capacidad para ocupar la plaza vacante.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-Para ingresar al Tribunal se aplicará concurso de oposición para los cargos de los niveles de jefe de unidad a secretario general de acuerdos.
+Para ingresar al Tribunal se aplicará concurso de oposición para los cargos siguientes:
 
-El concurso de oposición podrá ser interno o libre; el Consejo decidirá los casos de procedencia de cada uno de ellos, así como los requisitos y los elementos del perfil que deba reunir cada una de las plazas vacantes.
+I. Secretario General de Acuerdos;
+
+II. Secretario de Estudio y Cuenta;
+
+III. Proyectistas;
+
+IV. Actuarios; y
+
+V. Defensores de Oficio.
+
+El concurso de oposición podrá ser interno o libre; el Consejo decidirá los casos de procedencia de cada uno de ellos, así como los requisitos y los elementos del perfil que deba reunir cada una de las plazas.
+
+Los titulares y el personal de las áreas administrativas que auxilian al Presidente en el desempeño de sus funciones, serán nombrados por el Consejo Administrativo a propuesta del Presidente, con excepción del Secretario General de Acuerdos.
 
 ###### Artículo 17.
 
@@ -449,7 +463,7 @@ El Consejo podrá acordar el otorgamiento de estímulos a los miembros del Servi
 
 ###### Articulo 35.
 
-Los estímulos, reconocimientos e incentivos no se eliminan entre sI, por lo que pueden otorgarse varios cuando el miembro del Servicio lo amerite, a juicio del Consejo.
+Los estímulos, reconocimientos e incentivos no se eliminan entre sí, por lo que pueden otorgarse varios cuando el miembro del Servicio lo amerite, a juicio del Consejo.
 
 ###### Artículo 36.
 
@@ -524,3 +538,13 @@ Magistrado Propietario de la Cuarta Sala
 Lic. Yolanda García Castillo
 
 Secretaria General de Acuerdos
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL PLENO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 16 DEL REGLAMENTO DEL SERVICIO ADMINISTRATIVO DE CARRERA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
