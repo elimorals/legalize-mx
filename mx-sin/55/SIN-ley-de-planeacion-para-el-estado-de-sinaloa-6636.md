@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-planeacion-para-el-estado-de-sinaloa-6636"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-02"
-last_updated: "2013-08-09"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6636&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 2 de noviembre de 1987.
 
@@ -61,13 +61,23 @@ I.- El fortalecimiento de la soberanía del Estado dentro del pacto federal, en 
 
 II.- La preservación y el perfeccionamiento del régimen democrático, republicano, federal y representativo, que la Constitución Política de los Estados Unidos Mexicanos y la Local establecen; así como la consolidación de la democracia, entendida como sistema de vida, fundada en el constante mejoramiento económico, social y cultural del pueblo;
 
-III.- La igualdad de derechos, la atención de las necesidades básicas de la publicación (sic), y la mejoría de todos los aspectos de la calidad de vida, con el fin de lograr una sociedad más igualitaria;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+III.- La igualdad de derechos entre mujeres y hombres, la atención de las necesidades básicas de la población, y la mejoría de todos los aspectos de la calidad de vida, con el fin de lograr una sociedad más igualitaria, garantizando un ambiente adecuado para su desarrollo;
 
 IV.- El respeto irrestricto de las garantías individuales y las libertades y derechos sociales y políticos;
 
-V.- El fortalecimiento del pacto federal y del Municipio Libre, con el fin de lograr un desarrollo equilibrado del Estado y sus Municipios, promoviendo la descentralización de la vida nacional y estatal; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-VI.- El impulso a la economía, a la producción y a la productividad para generar el empleo que la sociedad demanda, elevando permanentemente el nivel de vida del pueblo.
+V.- El fortalecimiento del pacto federal y del Municipio Libre, con el fin de lograr un desarrollo equilibrado del Estado y sus Municipios, promoviendo la descentralización de la vida nacional y estatal;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VI.- El impulso a la economía, a la producción y a la productividad para generar el empleo que la sociedad demanda, elevando permanentemente el nivel de vida del pueblo; y
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo.
 
 ###### ARTICULO 3.
 
@@ -187,9 +197,11 @@ Los Programas especiales se referirán a las prioridades del Desarrollo Integral
 
 Las Dependencias, y los Municipios encargados del cumplimiento de los objetivos del Plan Estatal de Desarrollo, de los Planes Municipales y de los Programas Sectoriales, Regionales y Especiales, elaborarán programas operativos anuales que deberán ser congruentes y complementarios entre sí, regirán durante el año respectivo las actividades de la Administración Pública Estatal en su conjunto y servirán de base para la integración de los anteproyectos de Presupuestos Anuales de las propias Dependencias y Entidades, así como de los anteproyectos de Presupuesto, que los Municipios deberán elaborar conforme a la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTICULO 27.
 
-Los Planes y Programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación con los Gobiernos de los Municipios y de la Federación, así como los que serán objeto de inducción y concertación con los grupos sociales interesados.
+Los Planes y Programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación con los Gobiernos de los Municipios y de la Federación, así como los que serán objeto de inducción y concertación con los grupos sociales interesados. Estos deberán ser elaborados tomando en consideración la perspectiva de género.
 
 ###### ARTICULO 28.
 
@@ -324,3 +336,9 @@ P.O. 9 DE AGOSTO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El prese (sic) decreto entrara en vigor al día siguiente de su publicación (sic) Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
