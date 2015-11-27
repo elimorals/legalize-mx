@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-ayuntamiento-de-san-nicolas-de-los-4510
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-03"
-last_updated: "2012-11-12"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de junio de 2005.
 
@@ -415,9 +415,11 @@ II.- Extraordinarias.
 
 III.- Solemnes.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 38.
 
-Serán ordinarias las sesiones que se celebren el segundo y el cuarto jueves de cada mes y las que así determine el R. Ayuntamiento, teniendo una duración de 3-tres horas como máximo en el horario de las 10:00 a las 13:00 Horas, pudiendo ser ampliado este horario cuando así lo determine la mayoría de los integrantes del R. Ayuntamiento, para agotar los asuntos acordados y en caso necesario se puede cambiar la fecha y la hora cuando así sea acordado por las 2/3 partes del R. Ayuntamiento o por acuerdo del Presidente Municipal por motivos de interés público, debiendo notificar de tal acuerdo al Secretario del R. Ayuntamiento por escrito y con un mínimo 24 horas de anticipación a la celebración de la sesión, el cual, lo notificará a su vez, a todos los integrantes del Ayuntamiento.
+Serán ordinarias las sesiones que obligatoriamente se lleven a cabo, cuando menos dos veces al mes para atender los asuntos de Gobierno y de la Administración Pública Municipal, teniendo una duración de 3-tres horas como máximo, pudiendo ser ampliado este horario cuando así lo determine la mayoría de los integrantes del R. Ayuntamiento, para agotar los asuntos acordados.
 
 ###### ARTÍCULO 39.
 
@@ -1109,29 +1111,49 @@ En caso de empate, independientemente de la forma de ejercer el voto empleado, e
 
 ### CAPÍTULO VI. DE LAS LICENCIAS
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 86.
 
-Los miembros del R. Ayuntamiento podrán solicitar licencia al mismo, la cual podrá ser temporal o por tiempo indefinido.
+Los miembros del R. Ayuntamiento podrán solicitar licencia al mismo, para separarse temporal o definitivamente de sus funciones.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 87.
 
-Se entenderá por licencia temporal la que se otorgué de una hasta cuatro sesiones por año, la cuál solo podrá ser renovada por una sesión más; el R. Ayuntamiento resolverá sobre el goce de sueldo para el solicitante, atendiendo a las razones que motiven la solicitud de licencia.
+Se entenderá por licencia la que se otorgue a un integrante del R. Ayuntamiento por causa justificada, las faltas que no excedan de quince días naturales se harán del conocimiento del R. Ayuntamiento sin que se requiera acuerdo del mismo para autorizarla.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 88.
 
-Se entenderá por licencia por tiempo indefinido, aquella en la cual los miembros del R. Ayuntamiento dejaren su cargo por incurrir en situaciones tales como: estar sujeto a proceso penal desde el auto de formal prisión, por incapacidad física o mental, por ser llamado a ocupar otro cargo público o sea aspirante a otro cargo de elección popular, y los demás que a criterio del R. Ayuntamiento considere se deba otorgar; dicha licencia será aprobada por el R. Ayuntamiento.
+Se entenderá por renuncia, aquella en la cual los miembros del R. Ayuntamiento dejaren su cargo por incurrir en situaciones tales como: estar sujeto a proceso penal desde el auto de formal prisión, por incapacidad física o mental, por ser llamado a ocupar otro cargo público o sea aspirante a otro cargo de elección popular, y los demás que a criterio del R. Ayuntamiento considere se deba otorgar; dicha renuncia será aprobada por el R. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 89.
 
-El R. Ayuntamiento en sesión, acordará la procedencia o improcedencia de la solicitud de licencia, la cual se hará constar en el acta respectiva; no podrá concederse, tal número de licencias que afecten el quórum para declarar válidamente instalada la sesión.
+El R. Ayuntamiento en sesión, acordará la procedencia o improcedencia de la solicitud de licencia o renuncia, la cual se hará constar en el acta respectiva; no podrá concederse, tal número de licencias o renuncias que afecten el quórum para declarar válidamente instalada una sesión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 90.
 
-En el caso de que algún Regidor o Síndico deje de desempeñar su cargo por licencia por tiempo indefinido, será sustituido por su suplente; el suplente deberá tomar protesta ante el R. Ayuntamiento, en el término de 72 horas y asumir su cargo.
+Cuando un Regidor o Síndico deje de desempeñar su cargo por licencia o renuncia, será sustituido por su suplente.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+En caso de la aprobación de renuncia a un Regidor y exista la ausencia o imposibilidad de asumir el cargo el respectivo suplente, el R. Ayuntamiento deberá acordar, quién cubrirá la vacante de entre los restantes Regidores suplentes electos, correspondientes a las demás fórmulas asignadas al partido político de que se trate, debiendo garantizar la paridad de género en la integración del R. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+En cualquiera de los casos, el R. Ayuntamiento deberá llamar de inmediato al suplente respectivo, para que rinda la protesta de Ley y se incorpore a los trabajos y comisiones de las que formaba parte el integrante del R. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 91.
 
-En el caso de la licencia temporal, una vez agotada ésta, el solicitante asumirá de nuevo su cargo.
+Al momento de concluir el término de la licencia aprobada, una vez agotada ésta, el solicitante asumirá de nuevo su cargo.
 
 ## TÍTULO SEXTO. DE LOS REGLAMENTOS MUNICIPALES
 
@@ -1260,3 +1282,9 @@ P.O. 5 DE NOVIEMBRE DE 2010.
 P.O. 12 DE NOVIEMBRE DE 2012.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBA LA REFORMA AL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SAN NICOLÁS DE LOS GARZA”.]
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
