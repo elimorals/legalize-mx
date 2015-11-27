@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-30039"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-04-11"
-last_updated: "2003-04-11"
+last_updated: "2015-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DEL RECURSO DE REVISION
 
-REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DEL RECURSO DE REVISION
+REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, EN MATERIA DEL RECURSO DE REVISIÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL RECURSO DE REVISIÓN DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 27 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de abril de 2003.
 
@@ -43,7 +45,7 @@ DECRETO GUBERNATIVO NÚMERO 153
 
 ###### ARTÍCULO ÚNICO.
 
-Se expide el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato, en materia del Recurso de Revisión, pera quedar en los siguientes términos:
+Se expide el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato, en materia del Recurso de Revisión, para quedar en los siguientes términos:
 
 REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA DEL RECURSO DE REVISIÓN
 
@@ -326,3 +328,21 @@ JUAN MANUEL OLIVA RAMÍREZ.
 EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN
 
 JOSÉ LUIS MARIO AGUILAR Y MAYA MEDRANO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 136, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DEL RECURSO DE REVISIÓN DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato, en materia del Recurso de Revisión, contenido en el Decreto Gubernativo número 153, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 58, Segunda Parte, de fecha 11 de abril del 2003.
+
+Resolución de recursos pendientes
+
+Artículo Tercero. Los recursos de revisión pendientes de resolución con anterioridad a la vigencia de este Reglamento, se resolverán conforme a las disposiciones del Reglamento que se abroga hasta su debida conclusión.
