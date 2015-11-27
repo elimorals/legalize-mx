@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-partidos-politicos-para-el-estado-de-tlaxcala-109861"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2015-09-03"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE PARTIDOS POLÍTICOS PARA EL ESTADO DE TLAXCALA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 3 de septiembre de 2015.
 
@@ -171,9 +171,7 @@ I. Registrar a los partidos políticos locales y acreditar a los partidos polít
 
 II. El reconocimiento de los derechos y el acceso a las prerrogativas de los partidos políticos y de los candidatos a cargos de elección popular local;
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-III. La organización de la elección de los dirigentes locales de los partidos políticos, CUANDO DICHA FACULTAD SEA DELEGADA POR EL INSTITUTO NACIONAL, los partidos lo soliciten así, con cargo a sus prerrogativas, y en los términos que establezca la Ley General Electoral, la demás legislación aplicable y los lineamientos que emita el Instituto Nacional;
+III. (DEROGADA, P.O. 27 DE NOVIEMBRE DE 2015)
 
 IV. Colaborar con el Instituto Nacional cuando éste lo solicite o, en su caso, asumir la responsabilidad cuando se le delegue la atribución inherente, respecto a la fiscalización de ingresos y egresos de los partidos políticos, sus coaliciones, los candidatos de éstos y los candidatos independientes a cargos de elección popular local, o cualquier otra, de conformidad con lo estipulado en la Ley de Partidos y demás legislación aplicable, y
 
@@ -193,9 +191,9 @@ Para que una organización de ciudadanos sea registrada por el Instituto, se deb
 
 I. Presentar una declaración de principios y, en congruencia con éstos, su programa de acción y los estatutos que normarán sus actividades; los cuales deberán satisfacer los requisitos mínimos establecidos en esta Ley, y
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-II. CONTAR CON MILITANTES EN CUANDO MENOS DOS TERCERAS PARTES DE LOS MUNICIPIOS DEL ESTADO; LOS CUALES DEBERÁN TENER CREDENCIAL PARA VOTAR EN DICHOS MUNICIPIOS; BAJO NINGUNA CIRCUNSTANCIA, EL NÚMERO TOTAL DE SUS MILITANTES EN LA ENTIDAD PODRÁ SER INFERIOR AL TRES POR CIENTO DEL PADRÓN ELECTORAL ESTATAL QUE HAYA SIDO UTILIZADO EN LA ELECCIÓN LOCAL ORDINARIA INMEDIATA ANTERIOR A LA PRESENTACIÓN DE LA SOLICITUD DE QUE SE TRATE.
+II. Contar con militantes en cuando menos dos terceras partes de los municipios del Estado; los cuales deberán tener credencial para votar en dichos municipios; bajo ninguna circunstancia, el número total de sus militantes en la entidad podrá ser inferior al 0.26 por ciento del padrón electoral estatal que haya sido utilizado en la elección local ordinaria inmediata anterior a la presentación de la solicitud de que se trate.
 
 ###### Artículo 17.
 
@@ -211,9 +209,9 @@ Para la constitución de un partido político estatal, se deberá acreditar:
 
 I. La celebración entre los meses de mayo a julio del año posterior al de la elección de Gobernador, sus asambleas municipales constitutivas en por lo menos dos terceras partes de los municipios de la entidad, ante la presencia de un consejero electoral, asistido por el número de consejeros y personal auxiliar, que determine el Consejo General del Instituto, designados para el caso, mismo que certificará:
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ DEL INCISO A) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-a) EL NÚMERO DE AFILIADOS QUE CONCURRIERON Y PARTICIPARON EN LAS ASAMBLEAS, QUE EN NINGÚN CASO PODRÁ SER MENOR AL UNO POR CIENTO CORRESPONDIENTE AL ÚLTIMO CORTE DEL PADRÓN ELECTORAL DEL MES INMEDIATO ANTERIOR AL QUE SE PRESENTE LA SOLICITUD DE REGISTRO. DICHO NÚMERO NO PODRÁ SER INFERIOR A 200 CIUDADANOS RESIDENTES EN CADA MUNICIPIO DE QUE SE TRATE Y QUE ESTÉN DEBIDAMENTE INSCRITOS EN EL PADRÓN ELECTORAL RESPECTIVO;
+a) El número de afiliados que concurrieron y participaron en las asambleas, que en ningún caso podrá ser menor del 0.26 por ciento correspondiente al último corte del padrón electoral del mes inmediato anterior al que se presente la solicitud de registro.
 
 b) Que los afiliados suscribieron el documento de manifestación formal de afiliación;
 
@@ -629,11 +627,11 @@ El Instituto emitirá la normatividad que regirá el procedimiento para la pérd
 
 La pérdida del registro o de la acreditación de un partido político no tendrá efectos jurídicos con relación a los triunfos que sus candidatos obtengan de manera válida en procesos electorales que se realicen conforme a las leyes en la materia.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 48.
 
-LOS ACTIVOS ADQUIRIDOS CON FINANCIAMIENTO PÚBLICO ESTATAL, DE LOS PARTIDOS POLÍTICOS QUE PIERDAN SU REGISTRO O SE CANCELE SU ACREDITACIÓN, PASARÁN A FORMAR PARTE DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO.
+Los activos adquiridos con financiamiento público estatal, de los partidos políticos que pierdan su registro o se cancele su acreditación, pasarán a formar parte del Instituto Tlaxcalteca de Elecciones.
 
 La normatividad relativa a la pérdida de registro o cancelación de la acreditación establecerá las disposiciones necesarias para hacer efectivo lo ordenado en este artículo, incluyéndose en su caso, la intervención del Instituto en las cuentas bancarias o en el proceso de liquidación de los partidos políticos.
 
@@ -667,9 +665,9 @@ IV. Acceder a las prerrogativas y recibir el financiamiento público en los tér
 
 V. Organizar sus procesos internos para seleccionar y postular candidatos a las elecciones locales, en los términos de esta Ley, exceptuando las elecciones de presidentes de comunidad, que se realicen por usos y costumbres;
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-VI. Formar COALICIONES, frentes y fusiones, las que en todo caso deberán ser aprobadas por los órganos de dirección nacional o estatal que establezca el Estatuto de cada uno de los partidos, en los términos establecidos en esta Ley y demás leyes aplicables en la materia;
+VI. Formar frentes y fusiones, las que en todo caso deberán ser aprobadas por los órganos de dirección nacional o estatal que establezca el Estatuto de cada uno de los partidos, en los términos de (sic) establecidos en esta Ley y demás leyes aplicables en la materia.
 
 VII. Postular y solicitar el registro de candidatos de coalición en la elección de Gobernador del Estado, de diputados locales de mayoría relativa, de los ayuntamientos por planilla o presidencias de comunidad que no se realicen por usos y costumbres;
 
@@ -967,13 +965,17 @@ Del total de tiempo que asigne el Instituto Nacional al Instituto, para la difus
 
 Serán con cargo a los partidos políticos y candidatos independientes los costos que se originen por concepto de producción de los mensajes de radio y televisión.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 73.
 
-Para preservar la igualdad en la contienda electoral, en ningún caso los partidos políticos o coaliciones, o candidatos independientes en su caso, podrán disponer de los tiempos que les asigne el Instituto Nacional en radio y televisión, para difundir la propaganda de candidatos a presidentes de comunidad.
+Para preservar la igualdad en la contienda electoral, en ningún caso los partidos políticos o candidatos independientes en su caso, podrán disponer de los tiempos que les asigne el Instituto Nacional en radio y televisión, para difundir la propaganda de candidatos a presidentes de comunidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 74.
 
-Durante las precampañas y campañas electorales, los espacios contratados por los partidos políticos o coaliciones o candidatos independientes en su caso, en medios de comunicación electrónicos e impresos, con excepción de radio y televisión, serán fiscalizados por el Instituto Nacional o el Instituto, si cuenta con dicha atribución delegada, conforme a los lineamientos que para tal efecto emita el propio Instituto Nacional.
+Durante las precampañas y campañas electorales, los espacios contratados por los partidos políticos o candidatos independientes en su caso, en medios de comunicación electrónicos e impresos, con excepción de radio y televisión, serán fiscalizados por el Instituto Nacional o el Instituto, si cuenta con dicha atribución delegada, conforme a los lineamientos que para tal efecto emita el propio Instituto Nacional.
 
 El Instituto o el Instituto Nacional, podrá requerir en todo momento información oportuna y detallada sobre la contratación que en términos de este artículo, realicen los partidos políticos o coaliciones y candidatos independientes en su caso, con los medios de comunicación citados.
 
@@ -985,9 +987,11 @@ El Presidente del Instituto, a más tardar dos meses antes del inicio del proces
 
 El Instituto, por conducto de la Comisión de Medios de Comunicación Masiva, pondrá a disposición de los partidos políticos y candidatos independientes, en la sesión de inicio del proceso electoral, el catálogo de espacios y tarifas, de los medios de comunicación electrónicos e impresos, con excepción de radio y televisión, el que será consultado por los partidos políticos y candidatos independientes para prever su contratación.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 77.
 
-La Comisión de Medios de Comunicación Masiva del Instituto se reunirá a más tardar diez días antes del inicio del proceso electoral, con la Coordinación de Radio, Cine y Televisión o su equivalente y con los medios de comunicación concesionados a particulares o instituciones para acordar los lineamientos generales aplicables en sus noticieros que garanticen la equidad en el otorgamiento de tiempos y espacios a los partidos políticos, coaliciones o candidatos independientes.
+La Comisión de Medios de Comunicación Masiva del Instituto se reunirá a más tardar diez días antes del inicio del proceso electoral, con la Coordinación de Radio, Cine y Televisión o su equivalente y con los medios de comunicación concesionados a particulares o instituciones para acordar los lineamientos generales aplicables en sus noticieros que garanticen la equidad en el otorgamiento de tiempos y espacios a los partidos políticos y candidatos independientes.
 
 ###### Artículo 78.
 
@@ -1161,11 +1165,9 @@ II. Las aportaciones voluntarias y personales, en dinero o en especie, que los p
 
 III. Las aportaciones voluntarias y personales que realicen los simpatizantes durante los procesos electorales, y estará conformado por las aportaciones o donativos, en dinero o en especie, hechas a los partidos políticos en forma libre y voluntaria por las personas físicas mexicanas con residencia en el país.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 ###### Artículo 95.
 
-Las personas morales que efectúen aportaciones al financiamiento privado de los partidos políticos, deberán estar legalmente constituidas y cumplir con sus obligaciones fiscales.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 96.
 
@@ -1181,41 +1183,29 @@ IV. Las aportaciones de simpatizantes tendrán como límite individual anual el 
 
 ###### Artículo 97.
 
-Los partidos políticos deberán expedir recibos foliados en los que se hagan constar el nombre completo y domicilio, clave de elector y, en su caso clave del Registro Federal de Contribuyentes del aportante. Para el caso de que la aportación se realice con cheque o transferencia bancaria, la cuenta de origen deberá estar a nombre del aportante. Invariablemente las aportaciones o cuotas deberán depositarse en cuentas bancarias a nombre del partido político.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 98.
 
-Las aportaciones en especie se harán constar en un contrato celebrado entre el partido político y el aportante, en el cual se precise el valor unitario de los bienes o servicios aportados, el monto total de la aportación y, en caso de ser aplicable, el número de unidades aportadas; de igual forma se deberá anexar factura en la que se precise la forma de pago; conforme a lo previsto en el artículo 29 A, fracción VII, inciso c), del Código Fiscal de la Federación.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 99.
 
-El partido político deberá entregar al Instituto y al Instituto Nacional una relación mensual de los nombres de los aportantes y, en su caso, las cuentas del origen del recurso que necesariamente deberán estar a nombre de quien realice la aportación.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 100.
 
-Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente para el cumplimiento del objeto del partido político que haya sido beneficiado con la aportación.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 101.
 
-Los partidos políticos podrán establecer en instituciones bancarias domiciliadas en el país, cuentas, fondos o fideicomisos para la inversión de sus recursos líquidos a fin de obtener rendimientos financieros, sujetos a las reglas siguientes:
-
-I. Deberán informar al Instituto y al Instituto Nacional de la apertura de la cuenta, fondo o fideicomiso respectivo, a más tardar dentro de los cinco días siguientes a la firma del contrato de que se trate, acompañando copia fiel del mismo, expedida por la institución de banca privada con la que haya sido establecido;
-
-II. Las cuentas, fondos y fideicomisos que se constituyan serán manejados en instrumentos de deuda emitidos por el gobierno mexicano en moneda nacional y a un plazo no mayor de un año;
-
-III. En todo caso, las cuentas, fondos o fideicomisos no estarán protegidos por los secretos bancario o fiduciario para el Instituto Nacional y, en su caso, para el Instituto, por lo que éstos podrá requerir en todo tiempo información detallada sobre su manejo y operaciones;
-
-IV. Los rendimientos financieros obtenidos a través de esta modalidad deberán destinarse para el cumplimiento de los objetivos del partido político, y
-
-V. Se exceptúa de la integración y operación bancaria o financiera de los fondos y fideicomisos de los partidos políticos, la adquisición de acciones bursátiles.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO III. De la Verificación de Operaciones Financieras
 
 ###### Artículo 102.
 
-El Instituto podrá solicitar al Consejo General del Instituto Nacional o éste por iniciativa propia, que a través de su Unidad Técnica, pida a la unidad administrativa competente en materia de inteligencia financiera de la Secretaría de Hacienda y Crédito Público informes de operaciones financieras ante la presunción sobre el origen ilícito de los recursos aportados a los partidos políticos.
-
-Asimismo a solicitud del órgano de fiscalización, la unidad administrativa competente en materia de inteligencia financiera de la Secretaría de Hacienda y Crédito Público informará respecto de disposiciones en efectivo que realice cualquier órgano o dependencia de la Federación, de las entidades federativas y de los municipios durante cualquier proceso electoral, cuando tales operaciones se consideren relevantes o inusuales de conformidad con los ordenamientos aplicables.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ## TÍTULO SÉPTIMO. DEL RÉGIMEN FINANCIERO DE LOS PARTIDOS POLÍTICOS
 
@@ -1223,113 +1213,49 @@ Asimismo a solicitud del órgano de fiscalización, la unidad administrativa com
 
 ###### Artículo 103.
 
-Cada partido político será responsable de su contabilidad y de la operación del sistema de contabilidad, así como del cumplimiento de lo dispuesto en las leyes aplicables en la materia y de observar las decisiones que en la materia emita el Consejo General del Instituto Nacional.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 104.
 
-El sistema de contabilidad al que los partidos políticos se sujetarán, deberá tener las características siguientes:
-
-I. Estará conformado por el conjunto de registros, procedimientos, criterios e informes, estructurados sobre la base de principios técnicos comunes destinados a captar, valuar, registrar, clasificar, informar e interpretar, las transacciones, transformaciones y eventos que, derivados de la actividad financiera, modificaran la situación patrimonial del partido político;
-
-II. Contendrá las disposiciones que en materia de fiscalización establezcan las obligaciones, clasifiquen los conceptos de gasto de los partidos políticos, sus candidatos y todos los sujetos obligados; así como las que fijan las infracciones, son de interpretación estricta de la norma;
-
-III. Reconocer la naturaleza jurídica de las operaciones realizadas por los partidos políticos con terceros, en términos de las disposiciones civiles y mercantiles;
-
-IV. Registrar de manera armónica, delimitada y específica sus operaciones presupuestarias y contables, así como otros flujos económicos;
-
-V. Reflejará la aplicación de los principios, normas contables generales y específicas e instrumentos que establezca el Instituto Nacional;
-
-VI. Facilitará el reconocimiento de las operaciones de ingresos, gastos, activos, pasivos y patrimoniales;
-
-VII. Integrará en forma automática el ejercicio presupuestario con la operación contable, a partir de la utilización del gasto devengado;
-
-VIII. Permitirá que los registros se efectúen considerando la base acumulativa para la integración de la información presupuestaria y contable;
-
-IX. Reflejará un registro congruente y ordenado de cada operación que genere derechos y obligaciones derivados de la gestión financiera;
-
-X. Generará, en tiempo real, estados financieros, de ejecución presupuestaria y demás información que coadyuve a la toma de decisiones, a la transparencia, a la programación con base en resultados, a la evaluación y a la rendición de cuentas, y
-
-XI. Facilitará el registro y control de los inventarios de los bienes muebles e inmuebles.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 105.
 
-El sistema de contabilidad se desplegará en un sistema informático que contará con dispositivos de seguridad. Los partidos harán su registro contable en línea y el Instituto Nacional podrá tener acceso irrestricto a esos sistemas en ejercicio de sus facultades de vigilancia y fiscalización.
-
-En su caso, el Instituto Nacional podrá formular recomendaciones preventivas a partidos políticos y candidatos, con la finalidad de mejorar la eficacia, eficiencia, oportunidad, consistencia y veracidad de los informes que la Ley en la materia señale.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO II. De las Obligaciones de los Partidos en cuanto al Régimen Financiero
 
 ###### Artículo 106.
 
-En cuanto a su régimen financiero, los partidos políticos deberán:
-
-I. Llevar su contabilidad mediante libros, sistemas, registros contables, estados de cuenta, cuentas especiales, papeles de trabajo, discos o cualquier medio procesable de almacenamiento de datos que les permitan facilitar el registro y la fiscalización de sus activos, pasivos, ingresos y gastos y, en general, contribuir a medir la eficacia, economía y eficiencia del gasto e ingresos y la administración de la deuda;
-
-II. Generar estados financieros confiables, oportunos, comprensibles, periódicos, comparables y homogéneos, los cuales serán expresados en términos monetarios;
-
-III. Seguir las mejores prácticas contables en apoyo a las tareas de planeación financiera, control de recursos, análisis y fiscalización;
-
-IV. Contar con manuales de contabilidad, así como con otros instrumentos contables que defina el Instituto Nacional;
-
-V. Conservar la información contable por un término mínimo de cinco años, y
-
-VI. Entregar al Consejo General del Instituto Nacional la información siguiente:
-
-a) En un plazo de setenta y dos horas, contado a partir de que surta efectos la notificación del requerimiento, sus estados financieros con un corte de información al momento de la solicitud;
-
-b) Fuera de procesos electorales, el informe de los contratos será presentado de manera trimestral del periodo inmediato anterior, y
-
-c) La información de carácter financiero, la relativa al gasto y condiciones de ejecución, de los contratos que celebren durante las precampañas y campañas, en un plazo máximo de tres días posteriores a su suscripción, previa entrega de los bienes o la prestación de servicios de que se trate, dicha información podrá ser notificada al Instituto por medios electrónicos con base en los lineamientos que éste emita.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 107.
 
-Los partidos políticos deberán presentar al Consejo General del Instituto Nacional los avisos de contratación a que se refieren el inciso c de la fracción VI del artículo anterior, acompañando de (sic) copia autógrafa del contrato respectivo que contenga:
-
-I. La firma del representante del partido político, la coalición o el candidato;
-
-II. El objeto del contrato;
-
-III. El valor o precio unitario y total de los bienes o servicios a proporcionar;
-
-IV. Las condiciones a través de las cuales se llevará a cabo su ejecución, y
-
-V. La penalización en caso de incumplimiento.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 108.
 
-Los gastos que realicen los partidos políticos, las coaliciones y los candidatos deberán reunir los siguientes requisitos:
-
-I. Estar amparados con un comprobante que cumpla los requisitos fiscales;
-
-II. Efectuar mediante transferencia electrónica, cheque nominativo para abono en cuenta del beneficiario, los pagos cuyo monto exceda de noventa días de salario mínimo general vigente para el Estado;
-
-III. Estar debidamente registrados en la contabilidad;
-
-IV. Cumplir con las obligaciones establecidas en materia de retenciones y entero de impuestos a cargo de terceros, y
-
-V. Sujetar los gastos asociados a adquisiciones, a los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 109.
 
-Los partidos políticos pueden optar por realizar los pagos relativos a sus actividades ordinarias permanentes, a las precampañas y campañas, o bien únicamente los relativos a propaganda en vía pública durante el periodo de precampaña y campaña, por conducto de la Unidad Técnica del Instituto Nacional o del Instituto cuando éste tenga dicha facultad delegada.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 110.
 
-Se entiende por propaganda en vía pública toda propaganda que se contrate o difunda en espectaculares, buzones, cajas de luz, carteleras, marquesinas, muebles urbanos de publicidad con o sin movimiento, muros, panorámicos, para autobuses, puentes, vallas, vehículos o cualquier otro medio similar.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 111.
 
-En el supuesto que el partido opte porque el Instituto Nacional a través de la Unidad Técnica o por delegación de éste al Instituto, pague la totalidad de las obligaciones contractuales contraídas por el partido político en la etapa de campaña, la Unidad Técnica del Instituto Nacional o el Instituto con la facultad delegada, tendrá en todo momento a lo largo de la campaña el uso exclusivo de las chequeras.
-
-Para el caso de que el partido político opte por que el Instituto Nacional, a través de la Unidad Técnica o por delegación de éste al Instituto, pague únicamente la propaganda en vía pública, se utilizará una cuenta para tal fin cuya chequera será de uso exclusivo de la autoridad.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 112.
 
-Los partidos políticos acatarán los lineamientos que, el Consejo General del Instituto Nacional, emita para la realización de los pagos, los cuales deberán garantizar, entre otros aspectos, la transparencia en el uso de los recursos; la realización de los pagos en forma oportuna; el cumplimiento de las disposiciones en materia fiscal, y la conciliación de saldos.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 113.
 
-Los partidos políticos se ajustarán a los lineamientos que el Instituto Nacional emita, para asegurar la máxima publicidad de los registros y movimientos contables, avisos previos de contratación y requerimientos de validación de contrataciones respecto de los mismos, las coaliciones y los candidatos de aquellos y estas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ## TÍTULO OCTAVO. OTRAS PRERROGATIVAS
 
@@ -1365,175 +1291,63 @@ Los partidos políticos deberán retener y enterar a las autoridades fiscales, c
 
 ### CAPÍTULO I. Fiscalización de las Actividades Ordinarias Permanentes de los Partidos Políticos
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 117.
 
-La Fiscalización a los recursos de que disponen los partidos políticos es facultad del Instituto Nacional, pero éste podrá delegarla al Instituto por acuerdo del Consejo General de aquel en los términos previstos por la ley general. EN CUALQUIERA DE LOS DOS CASOS LA FISCALIZACIÓN SE SUJETARÁ A LAS DISPOSICIONES SIGUIENTES:
-
-I. Se analizarán los ingresos y gastos del financiamiento para actividades ordinarias mismas que deberán reportar los partidos políticos;
-
-II. Se entiende como rubros de gasto ordinario:
-
-a) El gasto programado que comprende los recursos utilizados por el partido político con el objetivo de conseguir la participación ciudadana en la vida democrática, la difusión de la cultura política y el liderazgo político de la mujer;
-
-b) El gasto de los procesos internos de selección de candidatos, el cual no podrá ser mayor al dos por ciento del gasto ordinario establecido para el año en el cual se desarrolle el proceso interno;
-
-c) Los sueldos y salarios del personal, arrendamiento de bienes muebles e inmuebles, papelería, energía eléctrica, combustible, viáticos y otros similares, y
-
-d) La propaganda de carácter institucional que lleven a cabo únicamente podrá difundir el emblema del partido político, así como las diferentes campañas de consolidación democrática, sin que en las mismas se establezca algún tipo de frase o leyenda que sugiera posicionamiento político alguno.
+La fiscalización de los ingresos y egresos de los partidos políticos y candidatos estará a cargo del Instituto, en los casos que así le sea delegada por el Instituto Nacional y se desarrollará conforme al párrafo 4, del artículo 125 de la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones aplicables.
 
 ###### Artículo 118.
 
-Los partidos políticos podrán aplicar los recursos destinados para la capacitación, promoción y el desarrollo del liderazgo político de las mujeres, en los rubros siguientes:
-
-I. La realización de investigaciones que tengan como finalidad informar a la ciudadanía de la evolución, desarrollo, avances, y cualquier tema de interés relacionado con el liderazgo político de la mujer;
-
-II. La elaboración, publicación y distribución de libros, revistas, folletos o cualquier forma de difusión de temas de interés relacionados con la paridad de género;
-
-III. La organización de mesas de trabajo, conferencias, talleres, eventos y proyecciones que permitan difundir temas relacionados con el desarrollo de la mujer en su incorporación a la vida política;
-
-IV. La realización de propaganda y publicidad relacionada con la ejecución y desarrollo de las acciones en la materia, y
-
-V. Todo gasto necesario para la organización y difusión de las acciones referidas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 119.
 
-Los partidos políticos podrán reportar en sus informes actividades específicas que desarrollan como entidades de interés público, entendiéndose como tales las siguientes:
-
-I. La educación y capacitación política, que implica la realización de todo tipo de evento o acción que promueva la participación política, los valores cívicos y el respeto a los derechos humanos, entre la ciudadanía;
-
-II. La realización de investigaciones socioeconómicas y políticas;
-
-III. La elaboración, publicación y distribución, a través de cualquier medio de difusión, de información de interés del partido, de los militantes y simpatizantes, y
-
-IV. Todo gasto necesario para la organización y difusión de las acciones referidas.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO II. Fiscalización de los Partidos Políticos durante los Procesos Electorales
 
 ###### Artículo 120.
 
-El Consejo General del Instituto Nacional y previo al inicio de las precampañas, determinará el tipo de gastos que serán estimados como de precampaña de acuerdo a la naturaleza de las convocatorias emitidas por los partidos políticos.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 121.
 
-Para los efectos de este Capítulo se entienden como gastos de campaña:
-
-I. Gastos de propaganda: comprenden los realizados en bardas, mantas, volantes, pancartas, equipos de sonido, eventos políticos realizados en lugares alquilados, propaganda utilitaria y otros similares;
-
-II. Gastos operativos de la campaña: comprenden los sueldos y salarios del personal eventual, arrendamiento eventual de bienes muebles e inmuebles, gastos de transporte de material y personal, viáticos y otros similares;
-
-III. Gastos de propaganda en diarios, revistas y otros medios impresos: comprenden los realizados en cualquiera de esos medios, tales como inserciones pagadas, anuncios publicitarios y sus similares, tendentes a la obtención del voto. En todo caso, tanto el partido y candidato contratante, como el medio impreso, deberán identificar con toda claridad que se trata de propaganda o inserción pagada;
-
-IV. Gastos de producción de los mensajes para radio y televisión: comprenden los realizados para el pago de servicios profesionales; uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo;
-
-V. Los gastos que tengan como propósito presentar a la ciudadanía las candidaturas registradas del partido y su respectiva promoción;
-
-VI. Los gastos que tengan como finalidad el propiciar la exposición, desarrollo y discusión ante la ciudadanía de los programas y acciones de los candidatos registrados, así como la plataforma electoral;
-
-VII. Cualquier gasto que difunda la imagen, nombre o plataforma de gobierno de algún candidato o de un partido político en el periodo que transita de la conclusión de la precampaña y hasta el inicio de la campaña electoral, y
-
-VIII. Los gastos que el Consejo General del Instituto Nacional y previo inicio de la campaña electoral determine.
-
-No se considerarán dentro de los gastos de campaña los gastos que realicen los partidos para su operación ordinaria, para el cumplimiento de sus obligaciones estatutarias y para el sostenimiento de sus órganos directivos y de sus organizaciones.
-
-Todos los bienes o servicios que se destinen a la campaña deberán tener como propósito directo la obtención del voto en las elecciones locales.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO III. De los Informes de Ingresos y Gastos de los Partidos Políticos
 
 ###### Artículo 122.
 
-El órgano interno de los partidos políticos previsto la fracción III del artículo 32, de esta Ley, será el responsable de la administración de su patrimonio y de sus recursos generales, de precampaña y campaña, así como de la presentación de los informes a que se refiere el presente Capítulo.
-
-Dicho órgano se constituirá en los términos y con las modalidades y características que cada partido libremente determine, sin embargo, su titular será preferentemente profesional de las ciencias económico administrativas y con experiencia en el ejercicio de la profesión.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 123.
 
-La revisión de los informes que los partidos políticos presenten sobre el origen y destino de sus recursos ordinarios y de campaña, según corresponda, así como la práctica de auditorías sobre el manejo de sus recursos y su situación contable y financiera estará a cargo del Instituto Nacional y podrá ser delegada al Instituto, en los términos previstos por las leyes.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 124.
 
-Los partidos políticos deberán de presentar sus informes trimestrales y de gastos ordinarios bajo las directrices siguientes:
-
-A. Informes trimestrales de avance del ejercicio:
-
-I. Serán presentados a más tardar dentro de los treinta días siguientes a la conclusión del trimestre que corresponda;
-
-II. En el informe será reportado el resultado de los ingresos y gastos ordinarios que los partidos hayan obtenido y realizado durante el periodo que corresponda, y
-
-III. Si de la revisión que realice la Comisión Fiscalizadora del Instituto Nacional a través de la Unidad Técnica, se encuentran anomalías, errores u omisiones, se notificará al partido político a fin de que las subsane o realice las aclaraciones conducentes. Los informes constituyen un precedente para la revisión anual que realizará la autoridad.
-
-B. Informes anuales de gasto ordinario:
-
-I. Serán presentados a más tardar dentro de los primeros sesenta días de año posterior al del ejercicio que se reporte;
-
-II. En el informe de gastos ordinarios serán reportados los ingresos totales y gastos ordinarios que los partidos hayan realizado durante el ejercicio objeto del informe;
-
-III. Junto con el informe anual se presentará el estado consolidado de situación patrimonial en el que se manifiesten los activos y pasivos, así como un informe detallado de los bienes inmuebles propiedad del partido que corresponda, y
-
-IV. Los informes a que se refiere este apartado deberán estar autorizados y firmados por el auditor externo que cada partido designe para tal efecto.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 125.
 
-Los partidos políticos deberán presentar informes de precampaña y de campaña, conforme a las reglas siguientes:
-
-A. Informes de precampaña:
-
-I. Deberán ser presentados por los partidos políticos para cada uno de los precandidatos a candidatos a cargo de elección popular, registrados para cada tipo de precampaña, especificando el origen y monto de los ingresos, así como los gastos realizados;
-
-II. Los candidatos y precandidatos son responsables solidarios del cumplimiento de los informes de campaña y precampaña. Para tales efectos, se analizará de manera separada las infracciones en que incurran;
-
-III. Los informes deberán presentarse a más tardar dentro de los diez días siguientes al de la conclusión de las precampañas;
-
-IV. Los gastos de organización de los procesos internos para la selección de precandidatos que realicen los partidos políticos serán reportados en el informe anual que corresponda, y
-
-V. Toda propaganda que sea colocada en el periodo en que se lleven a cabo las precampañas y que permanezcan en la vía pública una vez concluido dicho proceso o, en su caso, una vez que el partido postule a sus candidatos, especialmente los que contengan la imagen, nombre, apellidos, apelativo o sobrenombre del precandidato triunfador de la contienda interna, serán considerados para efectos de los gastos de campaña de éste, los cuales deberán ser reportados en los informes correspondientes.
-
-B. Informes de Campaña:
-
-I. Deberán ser presentados por los partidos políticos, para cada una de las campañas en las elecciones respectivas, especificando los gastos que el partido político y el candidato hayan realizado en el ámbito territorial correspondiente;
-
-II. El candidato es responsable solidario del cumplimiento de los informes de gastos que se refieren en el inciso anterior, y
-
-III. Los partidos políticos presentarán informes de ingresos y gastos por periodos de treinta días contados a partir de que dé inicio la etapa de campaña, los cuales deberán entregar a la Unidad Técnica del Instituto Nacional o a la del Instituto, si es el caso, dentro de los siguientes tres días de concluido cada periodo.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 126.
 
-El procedimiento para la presentación y revisión de los informes de los partidos políticos, las formalidades de los dictámenes y resoluciones que se dicten con relación a los mismos y los medios de impugnación que contra estas proceda, se regirán por lo dispuesto al respecto en la Ley General de Partidos Políticos.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 127.
 
-Los gastos genéricos de campaña serán prorrateados entre las campañas beneficiadas, de acuerdo con lo siguiente:
-
-I. Como gastos genéricos de campaña, se entenderá los realizados en actos de campaña y de propaganda, en la que el partido o la coalición promueva o invite a votar por un conjunto de candidatos a cargos de elección popular que postulen, siempre y cuando no se especifique el candidato o el tipo de campaña;
-
-II. Los gastos genéricos en los que no se identifique algún candidato o tipo de campaña, pero se difunda alguna política pública o propuesta del partido o coalición, y
-
-III. En los casos en los que se publique o difunda el emblema o la mención de lemas con los que se identifique al partido, coalición o sus candidatos o los contenidos de sus plataformas electorales.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 128.
 
-Cuando se promocione a dos o más candidatos a cargos de elección popular, los gastos de campaña se distribuirán de la siguiente forma:
-
-I. En el caso de candidato a Gobernador y un candidato a Diputado Local, se distribuirá el gasto en un cuarenta por ciento para Gobernador y un sesenta por ciento al candidato a Diputado Local;
-
-II. En el caso de candidato a Gobernador y un candidato a Presidente Municipal y/o planilla de candidatos a integrantes de los Ayuntamientos, se distribuirá en un sesenta por ciento al candidato a Gobernador, y un cuarenta por ciento al candidato a Presidente Municipal;
-
-III. En el caso de los candidatos a Gobernador, Diputado Local y Presidente Municipal y/o planilla de candidatos a integrantes de los Ayuntamientos, se distribuirá el gasto en un veinte por ciento al Gobernador, cincuenta al candidato a Diputado Local y treinta al candidato a Presidente Municipal, y
-
-IV. En el caso donde participe un candidato a Diputado Local y un candidato a Presidente Municipal y/o planilla de candidatos a integrantes de los Ayuntamientos, se distribuirá el gasto en un setenta por ciento al candidato a Diputado Local y un treinta por ciento al candidato a Presidente Municipal y/o planilla de candidatos a integrantes de los Ayuntamientos.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ###### Artículo 129.
 
-Se entenderá que un gasto beneficia a un candidato cuando concurra alguno de los siguientes supuestos:
-
-I. Se mencione el nombre del candidato postulado por el partido o coalición;
-
-II. Se difunda la imagen del candidato, o
-
-III. Se promueva el voto a favor de dicha campaña de manera expresa.
-
-En los supuestos que anteceden, se estará a las reglas que para efectos del registro contable y comprobación de gastos referidos en el artículo anterior se establezcan en el reglamento de fiscalización que emita el Instituto Nacional.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 2015)
 
 ## TÍTULO DÉCIMO. DE LOS FRENTES, LAS CANDIDATURAS COMUNES Y LAS FUSIONES
 
@@ -1549,11 +1363,11 @@ II. Candidaturas Comunes entre dos o más partidos políticos, con relación a u
 
 III. Fusiones de dos o más partidos políticos estatales para constituir un nuevo partido o para incorporarse en uno de ello (sic).
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ SÓLO POR CUANTO SE REFIERE A LA FIGURA DE COALICIONES DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 131.
 
-Los partidos de nuevo registro o acreditación no podrán convenir frentes, COALICIONES, candidaturas comunes o fusiones con otro partido político antes de la conclusión del primer proceso electoral local inmediato posterior a su registro o acreditación según corresponda.
+Los partidos de nuevo registro o acreditación no podrán convenir frentes, candidaturas comunes o fusiones con otro partido político antes de la conclusión del primer proceso electoral local inmediato posterior a su registro o acreditación según corresponda.
 
 ###### Artículo 132.
 
@@ -1671,11 +1485,11 @@ La cancelación o pérdida del registro extinguirá la personalidad jurídica de
 
 ### CAPÍTULO II. De la Liquidación del Patrimonio de los Partidos Políticos
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 145.
 
-De conformidad a lo dispuesto en las leyes en la materia, el Instituto dispondrá lo necesario para que sean adjudicados A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO, los recursos y bienes remanentes de los partidos políticos estatales que pierdan su registro legal; para tal efecto se estará a lo que se determine en las reglas de carácter general que emita su Consejo General, y a lo siguiente:
+De conformidad a lo dispuesto en las leyes en la materia, el Instituto dispondrá lo necesario para que le sean adjudicados los recursos y bienes remanentes de los partidos políticos estatales que pierdan su registro legal; para tal efecto se estará a lo que se determine en las reglas de carácter general que emita su Consejo General, y a lo siguiente:
 
 I. Si de los cómputos que realicen los consejos distritales del Instituto se desprende que un partido político estatal no obtiene el porcentaje mínimo de votos establecido en la fracción II del 44 de esta Ley, el Instituto designará de inmediato a un interventor responsable del control y vigilancia directos del uso y destino de los recursos y bienes del partido político de que se trate. Lo mismo será aplicable en el caso de que el Consejo General declare la pérdida de registro legal por cualquier otra causa de las establecidas en esta Ley;
 
@@ -1695,13 +1509,13 @@ d) Ordenar lo necesario para cubrir las obligaciones que la ley determina en pro
 
 e) Formulará un informe de lo actuado que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines antes indicados; el informe será sometido a la aprobación del Consejo General del Instituto. Una vez aprobado el informe con el balance de liquidación del partido político de que se trate, el interventor ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado;
 
-(NOTA: EL 3 DE DICIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 103/2015, DECLARÓ LA INVALIDEZ DEL INCISO F) DE LA FRACCIÓN IV DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-f) SI REALIZADO LO ANTERIOR QUEDASEN BIENES O RECURSOS REMANENTES, LOS MISMOS SERÁN ADJUDICADOS ÍNTEGRAMENTE A LA SECRETARÍA DE PLANEACIÓN Y FINANZAS DEL ESTADO, Y
+f) Si realizado lo anterior quedasen bienes o recursos remanentes, los mismos serán adjudicados íntegramente al Instituto, y
 
 g) En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías que la Constitución y las leyes establecen para estos casos. Las decisiones de la autoridad local pueden ser impugnadas jurisdiccionalmente.
 
-T R AN S I T O R I O S
+T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1742,3 +1556,11 @@ EL SECRETARIO DE GOBIERNO
 LEONARDO ERNESTO ORDOÑEZ CARRERA
 
 Rúbrica y sello
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+Artículo Segundo. Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
