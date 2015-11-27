@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-para-la-mejora-regulatoria-del-estado-8656
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-15"
-last_updated: "2012-02-15"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta de Gobierno del Estado de México, el miércoles 15 de febrero de 2012.
 
@@ -311,11 +311,17 @@ Para el debido cumplimiento a las disposiciones de la Ley y el Reglamento, y fac
 
 I. Celebrar Convenios de Coordinación y/o Colaboración;
 
-II. Designar a un enlace de Mejora Regulatoria, con nivel mínimo de Director General;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
+II. Designar a un enlace de mejora regulatoria, con nivel mínimo de Director General, a falta de este, al inmediato inferior.
 
 III. Constituir un Comité Interno de Mejora Regulatoria, y
 
 IV. Emitir los lineamientos para la operación del Comité Interno.
+
+> <small>(ADICIONADA, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
+V. En el ámbito municipal, los titulares deberán participar en las sesiones de las Comisiones Temáticas a que sean convocados por el Instituto Hacendario del Estado de México. Las sesiones de las Comisiones Temáticas se llevarán a cabo de manera ordinaria cuatro veces al año, con independencia que puedan efectuarse reuniones regionales para capacitaciones a petición de algún o algunos municipios.
 
 El acuerdo de creación del Comité Interno y los lineamientos para su operación, serán publicados en el Periódico Oficial “Gaceta del Gobierno”.
 
@@ -373,7 +379,9 @@ I. El Titular de la dependencia respectiva;
 
 II. El Secretario Técnico, el cual será designado por el Presidente del Comité Interno;
 
-III. Los directores generales cuya función se vincule con trámites y servicios al público;
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
+III. Los directores generales, directores de área, subdirectores o jefes de departamento cuya función se vincule con trámites y servicios al público.
 
 IV. El Titular del Órgano de Control Interno;
 
@@ -387,9 +395,11 @@ VIII. El asesor técnico, será el enlace dependiente de la Comisión Estatal de
 
 En caso de ausencia, los integrantes del Comité Interno y/o especial podrán ser representados por sus suplentes, quienes serán servidores públicos de nivel jerárquico inmediato inferior al del Titular al que supla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 34.
 
-El Comité Interno sesionará por lo menos cuatro veces al año, con al menos cuarenta días hábiles de anticipación a aquél en que tengan lugar las sesiones ordinarias del Consejo, y podrá reunirse cuantas veces el Enlace de Mejora Regulatoria considere necesario para el cumplimiento de sus funciones y responsabilidades.
+El Comité Interno sesionará por lo menos cuatro veces al año, de manera ordinaria en los meses de marzo, junio, septiembre y diciembre y de forma extraordinaria cuantas veces el enlace de mejora regulatoria considere necesario para el cumplimiento de sus funciones y responsabilidades.
 
 Las convocatorias a las sesiones se harán en los mismos términos previstos para las sesiones del Consejo y el Enlace de Mejora Regulatoria observará las mismas disposiciones aplicables al Secretario Técnico de dicho órgano colegiado.
 
@@ -491,13 +501,17 @@ IV. Observaciones y comentarios adicionales que se consideren pertinentes.
 
 Las dependencias, estatal y municipales, podrán devolver la propuesta observada a su respectiva Comisión dentro de los cinco días siguientes; si no lo hace, la Comisión pertinente la enviará en sus términos al Consejo Estatal, para los efectos señalados en la Ley.
 
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 41.
 
-El Programa Estatal de Mejora Regulatoria se integra con la suma de los programas y estudios de las dependencias que, enviados a la Comisión, han sido revisados y/o dictaminados por ésta y evaluados por el Consejo durante su primera sesión anual, y tiene por objeto dar a conocer oportunamente a los ciudadanos la agenda regulatoria para el año calendario de que se trate y se dará a conocer a la ciudadanía en un término de treinta días hábiles; las dependencias enviarán su Programa a la Comisión, para su análisis y opinión.
+El Programa Estatal de Mejora Regulatoria se integra con la suma de los programas y estudios de las dependencias que, enviados a la Comisión, previa aprobación de su Comité Interno, han sido revisados y/o dictaminados por esta y aprobados por el Consejo durante su primera sesión anual, y tiene por objeto dar a conocer oportunamente a los ciudadanos la agenda regulatoria para el año calendario que se trate y se dará a conocer a la ciudadanía en un término de treinta días hábiles. Las dependencias enviarán su Programa a la Comisión, para su análisis y opinión.
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-Las dependencias enviarán sus reportes de avance programático a la Comisión, tres veces al año, al menos quince días antes de que tengan lugar la segunda, tercera y cuarta sesiones del Consejo, para que aquella, prepare los informes respectivos.
+Las dependencias enviarán sus reportes de avance programático a la Comisión, debidamente revisados y aprobados por su Comité Interno, tres veces al año, para que esta prepare los informes respectivos, al menos quince días antes de tener lugar la segunda, tercera y cuarta sesiones del Consejo.
 
 #### Sección Cuarta. Del Estudio de Impacto Regulatorio
 
@@ -573,9 +587,11 @@ Cuando un proyecto regulatorio haya sido dictaminado favorablemente por la Comis
 
 #### Sección Sexta. Del Acceso a la Información Pública y la Participación Ciudadana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 52.
 
-A fin de someter a un proceso de consulta pública los programas, estudios y proyectos de regulación de las dependencias, la Comisión los hará públicos en su portal de internet y/o por otros medios de acceso público, durante los veinte días previos a aquél en que habrá de tener lugar la sesión del Consejo en la que éstos, se conocerán y discutirán.
+A fin de someter a un proceso de consulta pública los programas, estudios y proyectos de regulación de las dependencias, la Comisión los hará públicos en su portal de internet y/o por otros medios de acceso público, durante los diez días naturales previos a aquél en que habrá de tener lugar la sesión del Consejo en la que estos se conocerán y discutirán.
 
 Con el mismo propósito y durante el mismo lapso, las dependencias publicarán en sus portales de internet y por otros medios idóneos, su Programa Anual, sus proyectos de regulación y los estudios respectivos.
 
@@ -657,11 +673,15 @@ Para la inscripción en el Registro de sus trámites y servicios, las dependenci
 
 Las dependencias enviarán a la Comisión la información de todos sus trámites y servicios, por escrito y medio magnético, en las Cédulas de Registro a que se refiere el artículo anterior. Las Cédulas de Registro en medio impreso deberán estar validadas con la rúbrica del Titular de la dependencia y de su Enlace de Mejora Regulatoria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 62.
 
-Si las reformas al marco regulatorio de una dependencia implican modificaciones a la información de los trámites y servicios inscritos en el Registro, ésta deberá informarlo a la Comisión, siguiendo el procedimiento descrito en el artículo anterior, al día siguiente de la publicación del Decreto o Acuerdo respectivo en el Periódico Oficial "Gaceta del Gobierno". La Comisión deberá actualizar la información en el Registro dentro de los cinco días siguientes. Si durante este lapso tiene lugar alguna querella ciudadana por la vía de la Protesta, la Comisión resolverá lo conducente e informará de ello al querellante.
+Si las reformas al marco regulatorio de una dependencia implican modificaciones a la información de los trámites y servicios inscritos en el Registro, el enlace de la dependencia deberá informarlo a la Comisión siguiendo el procedimiento descrito en el artículo anterior, al día siguiente de la publicación del Decreto o Acuerdo respectivo en el periódico oficial "Gaceta del Gobierno". Las dependencias estatales deberán actualizar la información en el Registro dentro de los cinco días siguientes. Si durante este lapso tiene lugar alguna protesta ciudadana por obstrucción a la inversión a trámites o servicios, la Comisión resolverá lo conducente e informará al ciudadano.
 
-Los cambios en la titularidad de las dependencias o de las áreas responsables de atender las gestiones de los particulares, de su domicilio, teléfonos, correos electrónicos, o cualquier otra información contenida en el Registro, deberá hacerse del conocimiento de la Comisión observando el mismo procedimiento.
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
+Los cambios en la titularidad de las dependencias o áreas responsables de atender las gestiones de los particulares, domicilio, teléfonos, correos electrónicos o cualquier otra información contenida en el Registro, deberá hacerse del conocimiento de la Comisión para su validación observando el mismo procedimiento.
 
 ###### Artículo 63.
 
@@ -681,9 +701,11 @@ Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no 
 
 En el desahogo de la garantía de audiencia, se podrá interrogar al servidor público sobre todos los hechos y circunstancias que hayan motivado el procedimiento administrativo y sean conducentes para el conocimiento de los hechos.
 
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 66.
 
-El procedimiento señalado en el artículo anterior corresponde llevarlo a cabo a la Contraloría Interna de la Secretaria de Desarrollo Económico toda vez que a este órgano se le delega recibir, tramitar y dar seguimiento a las quejas y denuncias que se interpongan en contra de los servidores públicos adscritos a la Secretaria, por la probable responsabilidad administrativa.
+El procedimiento señalado en el artículo anterior atañe a la Contraloría Interna correspondiente, por la probable existencia de responsabilidad administrativa.
 
 T R A N S I T O R I O S
 
@@ -724,3 +746,13 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ÁLVAREZ
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 27 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
