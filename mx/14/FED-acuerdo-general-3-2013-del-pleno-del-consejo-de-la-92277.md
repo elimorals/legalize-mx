@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-11-13"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -249,7 +249,7 @@ XI. DECIMOPRIMER CIRCUITO:
 
 > <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL 38/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2014)</small>
 
-1.-… Cinco tribunales colegiados especializados: uno en materia penal, dos en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
+1. Cinco tribunales colegiados especializados: uno en materia penal, dos en materias administrativa y de trabajo, y dos en materia civil, todos con residencia en Morelia.
 
 2. Dos tribunales unitarios con sede en Morelia.
 
@@ -453,7 +453,9 @@ XXX. TRIGESIMO CIRCUITO:
 
 2. Un tribunal unitario con sede en Aguascalientes.
 
-3. Tres juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 53/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+3. Cinco juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
 XXXI. TRIGESIMO PRIMER CIRCUITO:
 
@@ -831,21 +833,65 @@ Todos los órganos jurisdiccionales antes citados tendrán jurisdicción en toda
 
 QUINTO BIS. Centros de Justicia Penal Federal:
 
-1. El Centro de Justicia Penal Federal en el Estado de Baja California Sur se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en La Paz, Baja California Sur.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
 
-2. El Centro de Justicia Penal Federal en el Estado de Durango se integrará por cinco jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+1. El Centro de Justicia Penal Federal en el Estado de Baja California Sur se integrará por tres jueces de Distrito y un Tribunal de Alzada, todos con residencia en La Paz, Baja California Sur.
 
-3. El Centro de Justicia Penal Federal en el Estado de Guanajuato se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
 
-4. El Centro de Justicia Penal Federal en el Estado de Puebla se integrará por cuatro jueces de Distrito, y dos Tribunales de Alzada, todos con residencia en San Andrés Cholula, Puebla.
+2. El Centro de Justicia Penal Federal en el Estado de Chiapas se integrará por tres jueces de Distrito y un Tribunal de Alzada, todos con residencia en Cintalapa de Figueroa, Chiapas.
 
-5. El Centro de Justicia Penal Federal en el Estado de Querétaro se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
 
-6. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+3. El Centro de Justicia Penal Federal en el Estado de Chihuahua se integrará por tres jueces de Distrito y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
-7. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Mérida, Yucatán.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
 
-8. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+4. El Centro de Justicia Penal Federal en el Estado de Coahuila de Zaragoza se integrará por tres jueces de Distrito y un Tribunal de Alzada, todos con residencia en Torreón, Coahuila.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+5. El Centro de Justicia Penal Federal en el Estado de Durango se integrará por cinco jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+6. El Centro de Justicia Penal Federal en el Estado de Guanajuato se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+7. El Centro de Justicia Penal Federal en el Estado de Nayarit se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad de Tepic, Nayarit.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+8. El Centro de Justicia Penal Federal en el Estado de Oaxaca se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en San Bartolo Coyotepec.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+9. El Centro de Justicia Penal Federal en el Estado de Puebla se integrará por cuatro jueces de Distrito, y dos Tribunales de Alzada, todos con residencia en San Andrés Cholula, Puebla.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+10. El Centro de Justicia Penal Federal en el Estado de Querétaro se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+11. El Centro de Justicia Penal Federal en el Estado de San Luis Potosí se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+12. El Centro de Justicia Penal Federal en el Estado de Sinaloa se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Culiacán, Sinaloa.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+13. El Centro de Justicia Penal Federal en el Estado de Tlaxcala se integrará por tres jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Apizaco, Tlaxcala.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+14. El Centro de Justicia Penal Federal en el Estado de Yucatán se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en Mérida, Yucatán.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2015)</small>
+
+15. Centro de Justicia Penal Federal en el Estado de Zacatecas se integrará por cuatro jueces de Distrito, y un Tribunal de Alzada, todos con residencia en la ciudad del mismo nombre.
 
 Los órganos jurisdiccionales de los centros de justicia penal federal serán competentes en todo el territorio de la entidad federativa de su residencia.
 
@@ -2030,3 +2076,39 @@ XX. …
 3. …
 
 XXI. a XXXII. …"
+
+D.O.F. 27 DE NOVIEMBRE DE 2015.
+
+ACUERDO GENERAL 51/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS NUMERALES 2 A 8 DEL QUINTO BIS; Y SE ADICIONAN LOS NUMERALES 9 A 15 DEL MISMO, TODOS DEL ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
+
+PRIMERO. El presente Acuerdo entrará en vigor el treinta de noviembre de dos mil quince.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 27 DE NOVIEMBRE DE 2015.
+
+ACUERDO GENERAL 53/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO EN EL ESTADO DE AGUASCALIENTES, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y SEDE INDICADAS.
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de diciembre de dos mil quince, con excepción de previsto en el CUARTO transitorio, el cual iniciará su vigencia a partir de la aprobación del mismo.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles establecido a la entrada en vigor de este Acuerdo para los Juzgados de Distrito en el Estado de Aguascalientes, continuará aplicándose hasta el veintiocho de diciembre de dos mil quince.
+
+Las guardias de turno, conforme al sistema del artículo 5 de este Acuerdo, quedan como sigue: del veintiocho de diciembre de dos mil quince al cuatro de enero de dos mil dieciséis, corresponderá al Juzgado Cuarto de Distrito; del cuatro al once de enero de dos mil dieciséis, corresponderá al Juzgado Quinto de Distrito; del once al dieciocho de enero de dos mil dieciséis, al Juzgado Primero de Distrito; del dieciocho al veinticinco de enero de dos mil dieciséis, al Juzgado Segundo de Distrito; del veinticinco de enero al uno de febrero de dos mil dieciséis, al Juzgado Tercero de Distrito; del uno al ocho de febrero de dos mil dieciséis, al Juzgado Cuarto de Distrito; y así sucesivamente en ese orden de manera semanal.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XXX, número 3 del Acuerdo General número 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XXIX. …
+
+XXX. TRIGÉSIMO CIRCUITO: ...
+
+1. a 2. …
+
+3. Cinco juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
+
+XXXI. a XXXII. …”
