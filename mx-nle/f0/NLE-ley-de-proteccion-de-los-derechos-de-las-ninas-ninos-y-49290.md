@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-de-los-derechos-de-las-ninas-ninos-y-49290"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-17"
-last_updated: "2015-05-27"
+last_updated: "2015-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 17 de febrero de 2006.
 
@@ -1397,7 +1399,7 @@ EL C. SECRETARIO DE SALUD
 
 GILBERTO MONTIEL AMOROSO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 28 DE ABRIL DE 2006.
 
@@ -1442,3 +1444,29 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los procesos iniciados con anticipación a la entrada en vigor de este, se rigen por la legislación vigente en el momento que se promovieron.
 
 Tercero.- El Poder Ejecutivo del Estado, deberá realizar las adecuaciones correspondientes conforme al presente Decreto al Reglamento que Regula a la Familia Sustituta en el Estado de Nuevo León, en un plazo no mayor de 60 días naturales contados a partir del día siguiente al que inicie la vigencia del presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga la Ley de Protección de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 17 de febrero de 2006.
+
+Tercero.- Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia, publicada en el Periódico Oficial del Estado de fecha 21 de Octubre de 1992.
+
+Las referencias contenidas en otras leyes a la Procuraduría de la Defensa del Menor y la Familia, se entenderán aplicadas a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Nuevo León, conforme a lo establecido en esta Ley.
+
+Cuarto.- A los procedimientos jurídicos actualmente en trámite ante la Procuraduría de la Defensa del menor y la Familia se le aplicarán las disposiciones vigentes al momento de su inicio a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, salvo que exista un beneficio en favor de los menores, en cuyo caso se aplicarán las nuevas disposiciones.
+
+Quinto.- El Sistema Estatal y Municipal de Protección deberá integrarse a más tardar dentro de los noventa días posteriores a la publicación del presente Decreto.
+
+Una vez instalado el Sistema Estatal de Protección dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de Reglamento a que se refiere el último párrafo del artículo 152 de la presente Ley.
+
+Sexto.- Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Séptimo.- Se derogan las disposiciones contenidas en las Leyes, reglamentos y demás ordenamientos que se opongan a la presente Ley.
+
+Octavo.- El Ejecutivo del Estado dispondrá la (sic) reasignaciones presupuestales necesarias para el cumplimiento de la presente Ley, en el presente ejercicio fiscal.
+
+El Ejecutivo del Estado, contemplará en la iniciativa de Ley de Egresos para el siguiente ejercicio fiscal los recursos financieros necesarios que permitan dar cumplimiento a las acciones establecidas en la presente Ley.
+
+Noveno.- Los Municipios del Estado de Nuevo León, en un plazo de 60 días a partir de la entrada en vigor de la presente Ley, deberán crear la instancia a que se hace referencia en el artículo 164.
