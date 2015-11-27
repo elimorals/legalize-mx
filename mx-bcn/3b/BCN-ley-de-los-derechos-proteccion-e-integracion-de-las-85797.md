@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2013-10-18"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -257,7 +257,7 @@ XI. La difusión de esta ley para que la sociedad y las familias respeten a los 
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
 
-XII. A través del Ejecutivo Estatal, en el ámbito de su competencia y de conformidad con las disposiciones legales, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios y su disponibilidad presupuestal le permita, para la construcción y apertura de asilos públicos e implementar programas que incentiven la integración social de las personas adultas mayores; y (sic)
+XII. A través del Ejecutivo Estatal, en el ámbito de su competencia y de conformidad con las disposiciones legales, aportará los recursos materiales, humanos, técnicos y financieros que sean necesarios y su disponibilidad presupuestal le permita, para la construcción y apertura de asilos públicos e implementar programas que incentiven la integración social de las personas adultas mayores; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -369,7 +369,7 @@ II. Evitar que alguno de sus integrantes cometa cualquier acto de discriminació
 
 III. Proporcionar oportuna y adecuadamente alimentación, vestido, habitación y el cuidado de la salud física y mental, de acuerdo a sus posibilidades económicas, conforme a lo dispuesto por el Código Civil para el Estado de Baja California, así como asistencia permanente y oportuna;
 
-IV. Las personas adultas mayores tendrán el derecho de ser examinados (sic) cuando menos una vez al año, para mantener la estabilidad de su salud y recibir los tratamientos que requieran en caso de enfermedad;
+IV. Las personas adultas mayores tendrán el derecho de ser examinados cuando menos una vez al año, para mantener la estabilidad de su salud y recibir los tratamientos que requieran en caso de enfermedad;
 
 V. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo, los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
 
@@ -561,7 +561,7 @@ IV. Realizar campañas de difusión de la condonación, reducción o estímulos 
 
 Corresponde a la Secretaría del Trabajo y Previsión Social:
 
-I. La promoción empleos (sic) como actividades lucrativas o voluntarias, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
+I. La promoción (sic) empleos como actividades lucrativas o voluntarias, conforme a su oficio, habilidad o profesión, sin más restricción que su limitación física o mental declarada por la autoridad médica o legal competente;
 
 II. El fomento a la creación de organizaciones productivas de las personas adultas mayores;
 
@@ -647,9 +647,23 @@ VI. Los Presidentes Municipales del Estado de Baja California.
 
 El Consejo Estatal, a través de su Presidente, invitará a formar parte del mismo, con derecho a voz, a los delegados en el Estado del Instituto Nacional de las Personas Adultas Mayores, del Instituto Mexicano del Seguro Social, del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto del Fondo Nacional para la Vivienda de los Trabajadores.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 49.
 
-El Consejo podrá invitar a que asistan a las sesiones que celebre, a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores, con derecho a voz pero sin voto.
+El Consejo podrá invitar a que asistan a las sesiones que celebre a:
+
+I.- Representantes de otras instancias locales, federales e internacionales.
+
+II.- Académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+
+III.- Personas adultas mayores relacionadas o que estén en condiciones de coadyuvar a toma de decisiones del Consejo;
+
+IV.- Representantes de instituciones de educación superior, públicas o privadas que cuenten con áreas de geriatría, gerontología y/o de estudios sociales, y
+
+V.- Empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+
+Los invitados a participar en las sesiones del Consejo contaran con derecho a voz pero sin voto.
 
 ###### Artículo 50.
 
@@ -662,6 +676,20 @@ Los vocales podrán designar a un suplente ante el Consejo Estatal, que cubra su
 ###### Artículo 52.
 
 En los Municipios deberán formarse Consejos Municipales para la Protección e Integración de las Personas Adultas Mayores, para fomentar la participación de la población y dar a conocer en sus jurisdicciones y al Consejo Estatal, las necesidades y demandas de las personas adultas mayores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+En los Consejos Municipales a que se refiere el párrafo anterior, también deberá preverse la participación como invitados, con derecho a voz pero sin voto a:
+
+I.- Representantes de otras instancias locales, federales e internacionales.
+
+II.- Académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
+
+III.- Personas adultas mayores relacionadas o que estén en condiciones de coadyuvar a toma de decisiones del Consejo;
+
+IV.- Representantes de instituciones de educación superior, públicas o privadas que cuenten con áreas de geriatría, gerontología y/o de estudios sociales, y
+
+V.- Empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
 
 ###### Artículo 53.
 
@@ -777,9 +805,11 @@ XII. Realizar los trabajos que le encomiende el Presidente del Consejo estatal.
 
 ### CAPÍTULO ÚNICO. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 61.
 
-Cualquier persona podrá denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece la presente Ley; en el caso de que estos actos pongan en peligro la vida de la persona adulta mayor, deberá informar de manera inmediata al Ministerio Público.
+Toda persona física, grupo social, organización no gubernamental, asociación o sociedad civil, podrá denunciar ante los órganos y autoridades competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías de las personas adultas mayores, independientemente de las que establece la presente Ley; en el caso de que estos actos pongan en peligro la vida de la persona adulta mayor, deberán informar de manera inmediata al Ministerio Público.
 
 ###### Artículo 62.
 
@@ -840,3 +870,13 @@ P.O. 18 DE OCTUBRE DE 2013.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Consejo Estatal y los consejos municipales, en el ámbito de sus respectivas atribuciones y dentro de un plazo no mayor al de noventa días, contados a partir de la entrada en vigor de las presentes reformas, emitirán o modificarán en su caso, las disposiciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
