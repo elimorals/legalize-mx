@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-65075
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-17"
-last_updated: "2008-12-17"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES -- ANTES LEY DE LAS PERSONAS ADULTAS MAYORES -- DEL ESTADO DE QUERETARO
 
-LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERETARO
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -35,7 +35,9 @@ CONSIDERANDO.
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, aprueba la siguiente:
 
-LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
+> <small>(REFORMADA SU DENOMINACIÓN, 27 DE NOVIEMBRE DE 2015)</small>
+
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUERÉTARO
 
 ## Título Primero. Disposiciones Generales
 
@@ -113,7 +115,9 @@ c) A ser respetados en su integridad física, psíquica, emocional y sexual.
 
 d) A ser protegidos contra toda forma de explotación.
 
-e) A vivir en el seno de su familia o mantener contacto directo con ella, salvo que esto sea contrario al bienestar familiar.
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+e) A vivir en el seno de su familia o mantener contacto directo con ella, salvo que esto sea contrario al bienestar del adulto mayor.
 
 f) A recibir protección de su familia, de la sociedad y de los órganos de gobierno estatales y municipales.
 
@@ -161,6 +165,12 @@ a) A ser beneficiarios en programas de asistencia social que garanticen su atenc
 
 b) A recibir la atención adecuada que les proporcione una mejor calidad de vida, cuando se encuentre en estado de dependencia o semidependencia.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VII. De la denuncia popular:
+
+a) A que toda persona, grupo social, organización no gubernamental, asociación o sociedad, pueda denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías de las personas adultas mayores.
+
 ## Título Segundo. Aplicación de la Ley
 
 ### Capítulo Primero. Autoridades Competentes
@@ -179,9 +189,19 @@ IV. Promover la inclusión de beneficios económicos, a través de programas de 
 
 V. Promover la celebración de convenios, para que los concesionarios de transporte público de pasajeros ajusten las unidades en servicio a las necesidades de aquellos, vigilando el cumplimiento de las acciones acordadas;
 
-VI. Crear mecanismos que permitan eliminar las desigualdades de género; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VI. Considerar y atender los principales aspectos relativos a las funciones asignadas socialmente por género a mujeres y hombres, así como sus distintas necesidades específicas, en cuanto al diseño y aplicación de las políticas públicas dirigidas a las personas adultas mayores;
 
 VII. Coordinar sus acciones con el Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las personas Adultas Mayores del Estado de Querétaro.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+VIII. Contar con mecanismos de participación de personas adultas mayores en el diseño, formulación, aplicación y evaluación de las políticas públicas dirigidas a dicho sector poblacional; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+IX. Difundir permanentemente los derechos humanos de las personas adultas mayores.
 
 ###### Artículo 8.
 
@@ -287,7 +307,9 @@ I. Instrumentar y coordinar el desarrollo de las acciones y programas implementa
 
 II. Proporcionarles o canalizarlos a instituciones que les faciliten en forma gratuita, servicios de asistencia y orientación jurídica que requieran, cuando sean parte de procesos jurisdiccionales o administrativos, especialmente en los relacionados con el patrimonio, alimentos y testamentos;
 
-III. Estructurar e instrumentar programas de prevención, protección y asistencia social para las que se encuentren en situación de riesgo o desamparo;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+III. Estructurar e instrumentar programas de prevención, protección, albergue y asistencia social para las que se encuentren en situación de riesgo, desamparo o por instrucción judicial;
 
 IV. Adoptar y fomentar medidas de prevención o provisión, para que la familia participe en su atención integral;
 
@@ -319,9 +341,11 @@ II. Promover, ante las instancias correspondientes, la gratuidad o descuentos es
 
 III. Impulsar su participación activa en las fiestas cívicas y tradiciones populares de su comunidad, como transmisoras de los valores que representan.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-Corresponde a los municipios del Estado de Querétaro, el establecimiento de mecanismos y programas tendientes a garantizar a las personas adultas mayores, el goce y ejercicio de los derechos referidos en el presente instrumento legal.
+Corresponde a las autoridades de la administración pública municipal el establecimiento de mecanismos y programas tendientes a garantizar a las personas adultas mayores, el goce y ejercicio de los derechos referidos en el presente instrumento legal.
 
 ###### Artículo 17.
 
@@ -391,41 +415,55 @@ I. Un Presidente, que es el Gobernador del Estado;
 
 II. Un Secretario Técnico, que es el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro; y
 
-III. Los siguientes Vocales:
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-a) El Secretario de Gobierno del Estado.
+III. Los siguientes vocales:
 
-b) El Secretario de Salud del Estado.
+a) El titular de la Secretaría de Gobierno del Estado;
 
-c) El Secretario de Educación del Estado.
+b) El titular de la Secretaría de Salud del Estado;
 
-d) El Secretario del Trabajo del Estado.
+c) El titular de la Secretaría de Educación del Estado;
 
-e) El Diputado Presidente de la Comisión Ordinaria de la Legislatura del Estado de Querétaro, relacionada con la atención a grupos vulnerables.
+d) El titular de la Secretaría del Trabajo del Estado;
 
-f) El Director de Asistencia Social del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro.
+e) El titular de la Secretaría de Seguridad Ciudadana del Estado;
 
-g) El Procurador General de Justicia.
+f) El titular de la Secretaría de Turismo del Estado;
 
-h) El Presidente de la Comisión Estatal de Derechos Humanos.
+g) El Diputado Presidente de la Comisión Ordinaria de la Legislatura del Estado de Querétaro, relacionada con la atención a grupos vulnerables;
 
-i) El Presidente de la Junta de Asistencia Privada.
+h) El Director de Asistencia Social del Sistema para el Desarrollo Integral de la Familia del Estado de Querétaro;
 
-j) El Coordinador del Consejo Estatal para la Cultura y las Artes.
+i) El titular de la Procuraduría General de Justicia del Estado;
 
-k) El Delegado del Instituto Mexicano del Seguro Social, en Querétaro.
+j) El Presidente de la Defensoría de los Derechos Humanos de Querétaro;
 
-l) El Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en Querétaro.
+k) El Presidente de la Junta de Asistencia Privada;
 
-m) El Delegado del Instituto Nacional de las Personas Adultas Mayores, en Querétaro.
+l) El Director del Instituto Queretano de la Cultura y las Artes;
 
-n) El Delegado del Instituto Nacional para la Educación de los Adultos, en Querétaro.
+m) El Delegado del Instituto Mexicano del Seguro Social, en Querétaro;
 
-o) Por lo menos tres adultos mayores que designe el Consejo, a propuesta del Presidente.
+n) El Delegado del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en Querétaro;
 
-Los funcionarios a que se refieren los incisos k), l), m) y n) sólo formarán parte del Consejo en caso de aceptar la invitación del Presidente.
+o) El Delegado del Instituto Nacional de las Personas Adultas Mayores, en Querétaro;
 
-Los Vocales a que se refiere el inciso o) del presente artículo, durarán en su cargo tres años contados a partir de la fecha de su designación y no podrán ser reelectos.
+p) El Delegado del Instituto Nacional para la Educación de los Adultos, en Querétaro;
+
+q) El Delegado de la Secretaría de Desarrollo Social, en Querétaro;
+
+r) Por lo menos cinco personas adultas mayores que designe el Consejo, las cuales podrán proponerse ellas mismas ante el Consejo o podrán ser propuestas por cualquiera de los vocales. En ambos casos, su aprobación se dará por el voto de la mayoría de los vocales presentes en la sesión correspondiente; y
+
+s) Por tres instituciones de educación superior, públicas o privadas, que cuenten con áreas de geriatría, gerontología y/o estudios sociales en el Estado, las cuales podrán proponerse ellas mismas al Consejo o podrán ser propuestas por cualquiera de las o los vocales. En ambos casos, su aprobación se dará por el voto de la mayoría de los vocales presentes en la sesión que corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Los funcionarios a que se refieren los incisos m), n), o), p) y q) sólo formarán parte del Consejo en caso de aceptar la invitación del Presidente.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+Los Vocales a que se refiere el inciso r) del presente artículo, durarán en su cargo tres años contados a partir de la fecha de su designación y no podrán ser reelectos.
 
 En todo tiempo, el Presidente del Consejo podrá invitar a participar, con voz pero sin voto, a todas aquellas personas que considere idóneas para colaborar en el cumplimiento del objeto del Consejo.
 
@@ -437,9 +475,11 @@ Cada uno de los vocales podrá nombrar un representante permanente que lo supla 
 
 ### Capítulo Tercero. Obligaciones y Funcionamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
-Son obligaciones del Consejo:
+Son obligaciones de los integrantes del Consejo:
 
 I. Brindar asesoría a las instituciones de la administración pública central y paraestatal del Estado, así como a las del ámbito municipal y paramunicipal que lo soliciten, en materia de atención, promoción y defensa de los derechos de las personas adultas mayores;
 
@@ -455,9 +495,13 @@ VI. Plantear la realización de estudios que contribuyan a mejorar la planeació
 
 VII. Promover la implementación de programas en materia de salud y seguridad social, capacitación, educación, cultura, recreación y demás relativos que faciliten el bienestar de los adultos mayores;
 
-VIII. Fomentar la elaboración y difusión de material informativo, para dar a conocer las condiciones de las personas adultas mayores en el Estado de Querétaro, alternativas de participación, solución de problemas y la mejora de servicios y programas;
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-IX. Apoyar la participación ciudadana en actividades y proyectos dirigidos a la plena integración de las personas adultas mayores en la vida económica, política, social y cultural de la Entidad;
+VIII. Fomentar la elaboración y difusión de material informativo respecto a las labores y resultados de la operación del Consejo, así como para dar a conocer las condiciones de las personas adultas mayores en el Estado de Querétaro, alternativas de participación, solución de problemas y la mejora de servicios y programas;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+IX. Apoyar la participación ciudadana en actividades y proyectos dirigidos a la plena integración de las personas adultas mayores en la vida económica, política, social y cultural de la Entidad, principalmente a través del fomento a la conformación de agrupaciones de personas adultas mayores dedicadas a la defensa y promoción del ejercicio de sus derechos;
 
 X. Promover la creación de un paquete integral de servicios básicos, con acciones que incidan en la generación de la cultura del envejecimiento digno, en el marco de una vida productiva, agradable, de reconocimiento, respeto, oportunidades e inclusión de las personas adultas mayores;
 
@@ -469,13 +513,27 @@ XIII. Impulsar alternativas ocupacionales y productivas, tanto en el medio urban
 
 XIV. Aprobar sus lineamientos de operación y organización internos;
 
-XV. Aprobar su plan anual de trabajo; y
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-XVI. Las demás que le otorgue el presente ordenamiento legal.
+XV. Aprobar su plan anual de trabajo;
+
+> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+XVI. Asistir en tiempo y forma a las sesiones ordinarias y extraordinarias del Consejo, que sean convocadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Elaborar el contenido del reglamento del Consejo y proponerlo al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Las demás que le otorgue el presente ordenamiento legal y su reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### Artículo 27.
 
-El Consejo sesionará ordinariamente dos veces al año, una en enero y otra en julio; y de manera extraordinaria las veces que el Presidente lo considere necesario o cuando lo solicite por lo menos la mitad de los miembros del Consejo.
+El Consejo sesionará ordinariamente, con la asistencia de sus titulares, dos veces al año, una en mayo y otra en noviembre y de manera extraordinaria las veces que el Presidente lo considere necesario o cuando lo solicite por lo menos la mitad de los miembros del Consejo.
 
 Sesionará válidamente con la asistencia del cincuenta por ciento más uno de sus miembros, en el lugar, día y hora señalados en la convocatoria que para tal efecto expida y entregue el Secretario Técnico, con un mínimo de tres días hábiles de anticipación.
 
@@ -590,3 +648,15 @@ Lic. José Alfredo Botello Montes
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. El titular del Poder Ejecutivo del Estado, deberá de emitir el reglamento del Consejo Asesor para la Atención, Promoción y Defensa de los Derechos de las Personas Adultas Mayores del Estado de Querétaro, en el que se incluya sus lineamientos de operación y organización, en un plazo de 90 días naturales siguientes a la publicación de la presente Ley.
+
+Artículo Cuarto. Remítase la presente al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
