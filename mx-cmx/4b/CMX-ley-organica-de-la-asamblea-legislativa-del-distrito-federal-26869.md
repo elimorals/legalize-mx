@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2015-06-24"
+last_updated: "2015-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE NOVIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -980,157 +980,91 @@ Se considerará carga de trabajo cuando una Comisión haya emitido cuando menos 
 
 Lo anterior, será sin detrimento de lo que disponen los artículos 65 y 66 del presente ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 62.
 
-Las Comisiones Ordinarias serán en número que corresponda correlacionalmente con las atribuciones establecidas en esta ley y con la estructura funcional de las dependencias de la Administración Pública del Distrito Federal, las siguientes:
-
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+Las Comisiones Ordinarias serán en número que corresponda correlacionadamente con las atribuciones establecidas en esta ley y con la estructura funcional de las dependencias de la Administración Pública del Distrito Federal, las siguientes:
 
 I.- Abasto y Distribución de Alimentos;
 
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
-
 II.- Administración Pública Local;
-
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 III.- Administración y Procuración de Justicia;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
-
 IV.- Asuntos Indígenas, Pueblos y Barrios Originarios y Atención a Migrantes;
-
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
 
 V.- Asuntos Laborales y Previsión Social;
 
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
-
-VI.- Asuntos Político - electorales;
-
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+VI.- Asuntos Político – Electorales;
 
 VII.- Atención a Grupos Vulnerables;
 
-> <small>(REFORMADA, G.O. 9 DE ENERO DE 2014)</small>
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-VIII.- Ciencia, Tecnología e Innovación;
+VIII.- Atención al Desarrollo de la Niñez;
 
-> <small>(REFORMADA, G.O. 23 DE SEPTIEMBRE DE 2003)</small>
+IX.- Ciencia, Tecnología e Innovación;
 
-IX.- Cultura;
+X.- Cultura;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XI.- Derechos Humanos;
 
-X.- Derechos Humanos;
+XII.- Desarrollo e Infraestructura Urbana;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XIII.- Desarrollo Metropolitano;
 
-XI.- Desarrollo e Infraestructura Urbana;
+XIV.- Desarrollo Rural;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XV.- Desarrollo Social;
 
-XII.- Desarrollo Metropolitano;
+XVI.- Educación;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XVII.- Para la Igualdad de Género;
 
-XIII.- Desarrollo Rural;
+XVIII.- Fomento Económico;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XIX.- Gestión Integral del Agua;
 
-XIV.- Desarrollo Social;
+XX.- Hacienda;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2015)</small>
 
-XV.- Educación;
+XXI.- Juventud y Deporte;
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2013)</small>
+XXII.- La Diversidad Sexual;
 
-XVI.- Para la Igualdad de Género;
+XXIII.- Normatividad Legislativa, Estudios y Prácticas Parlamentarias;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XXIV.- Registral y Notarial;
 
-XVII.- Fomento Económico;
+XXV.- Participación Ciudadana;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XXVI.- Población y Desarrollo;
 
-XVIII.- Gestión Integral del Agua;
+XXVII.- Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XXVIII.- Presupuesto y Cuenta Pública;
 
-XIX.- Hacienda;
+XXIX.- Protección Civil;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XXX.- Salud y Asistencia Social;
 
-XX.- Juventud y Deporte;
+XXXI.- Seguridad Pública;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XXXII.- Movilidad;
 
-XXI.- Normatividad Legislativa, Estudios y Prácticas Parlamentarias;
+XXXIII.- Transparencia a la Gestión;
 
-> <small>(REFORMADA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+XXXIV.- Turismo;
 
-XXII.- Registral y Notarial.
+XXXV.- Uso y Aprovechamiento de Bienes y Servicios Públicos;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+XXXVI.- Vivienda;
 
-XXIII.- Participación Ciudadana;
+XXXVII.- Vigilancia de la Auditoria Superior de la Ciudad de México, y
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
-
-XXIV.- Población y Desarrollo;
-
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
-
-XXV.- Preservación del Medio Ambiente y Protección Ecológica;
-
-> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2010)</small>
-
-XXVI.- Preservación del Medio Ambiente, Protección Ecológica y Cambio Climático;
-
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
-
-XXVII.- Protección Civil;
-
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
-
-XXVIII.- Salud y Asistencia Social;
-
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
-
-XXIX.- Seguridad Pública;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, G.O. 21 DE FEBRERO DE 2013)</small>
-
-XXX.- Movilidad, Transporte y Vialidad.
-
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
-
-XXXI.- Transparencia de la Gestión;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
-
-XXXII.- Turismo;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2005)</small>
-
-XXXIII.- Uso y Aprovechamiento de Bienes y Servicios Públicos;
-
-> <small>(REFORMADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-XXXIV.- Vivienda;
-
-> <small>(REFORMADA, G.O. 9 DE JULIO DE 2014)</small>
-
-XXXV. Vigilancia de la Auditoria Superior de la Ciudad de México, y
-
-> <small>(ADICIONADA, G.O. 12 DE SEPTIEMBRE DE 2008)</small>
-
-XXXVI.- Vigilancia y Evaluación de Políticas y Programas Sociales.
+XXXVIII.- Vigilancia y Evaluación de Políticas y Programas Sociales.
 
 ###### ARTÍCULO 63.
 
@@ -2423,3 +2357,11 @@ TERCERO.- La Auditoría Superior de la Ciudad de México homologará y adecuará
 CUARTO.- En un plazo de 30 días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión de Presupuesto y Cuenta Pública, dictaminará las adecuaciones y ajustes presupuestales de la Asamblea Legislativa y de la Contraloría, que se deriven de esta reforma.
 
 QUINTO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación, para su mayor difusión.
+
+G.O. 27 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- La Asamblea Legislativa del Distrito Federal deberá considerar los recursos económicos suficientes en el Presupuesto de Egresos en el ejercicio 2016 y subsecuentes, para la aplicación del presente decreto.
