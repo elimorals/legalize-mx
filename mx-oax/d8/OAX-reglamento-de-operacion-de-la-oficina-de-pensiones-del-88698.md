@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-operacion-de-la-oficina-de-pensiones-del-88698"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-14"
-last_updated: "2014-10-11"
+last_updated: "2015-11-28"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "OAX"
 
 REGLAMENTO DE OPERACIÓN DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 14 de junio de 2012.
 
@@ -684,13 +684,11 @@ La Oficina de Pensiones implementará los mecanismos de seguridad para evitar la
 
 #### SECCIÓN CUARTA. DEL SEGUIMIENTO A LAS PENSIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2015)</small>
 
-###### Artículo 57.
+###### ARTÍCULO 57.
 
-Los jubilados, pensionados y pensionistas tendrán la obligación de acudir a las instalaciones de la Oficina de Pensiones a firmar su supervivencia tres veces durante el año en los días hábiles de los periodos comprendidos del 26 de diciembre del año inmediato anterior al 15 de enero, del 25 de abril al 15 de mayo, y del 25 de agosto al 15 de septiembre de cada año, en caso de que éste no pueda firmar deberá plasmar las huellas de sus dedos pulgares, debiendo además presentar cada dos años en el primer periodo una fotografía tamaño infantil reciente.
-
-En caso de no cumplir con lo dispuesto en el párrafo anterior, se suspenderá el pago de su pensión hasta que se presente a firmar. Una vez de ponerse al corriente de la firma de su supervivencia, la Oficina de Pensiones realizará el depósito de la cantidad que se retuvo junto con la pensión del mes a pagar de acuerdo a lo previsto en el artículo 52 de este Reglamento de Operación.
+Los jubilados, pensionados y pensionistas tendrán la obligación de acudir a las instalaciones de la Oficina de Pensiones a firmar su supervivencia o realizar la firma electrónica por medio del dispositivo biométrico de autenticación de voz, durante el periodo comprendido del día uno al veintiuno de los meses de enero, mayo y septiembre de cada año, debiendo el interesado presentar una fotografía tamaño infantil reciente en el primer periodo anual de firma.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2013)</small>
 
@@ -1283,3 +1281,7 @@ P.O. 11 DE OCTUBRE DE 2014.
 > <small>N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE LA PARTE FINAL DEL PUNTO ÚNICO DEL ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 Acto seguido los integrantes del Consejo Directivo instruyen al Director General a publicar el presente acuerdo en el Periódico Oficial del Gobierno del Estado para que surta los efectos correspondientes a partir de su publicación y a ejecutar el procedimiento que sea necesario para el perfeccionamiento y cumplimiento del presente acuerdo.
+
+P.O. 28 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. LA "REFORMA AL REGLAMENTO.- DE OPERACIÓN DE LA OFICINA DE PENSIONES DEL ESTADO DE OAXACA", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE OAXACA.]</small>
