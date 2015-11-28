@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-de-la-universidad-autonoma-de-ciudad-juarez-4765"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-12-30"
-last_updated: "2012-10-03"
+last_updated: "2015-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CIUDAD JUAREZ, CHIHUAHUA
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE CIUDAD JUAREZ
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DE CIUDAD JUÁREZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de diciembre de 1995.
 
@@ -55,7 +55,7 @@ La presente ley es de orden público y de interés social; y contiene las normas
 
 Se establece en el Estado de Chihuahua la Universidad Autónoma de Ciudad Juárez, con domicilio en Ciudad Juárez.
 
-(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 2002) (F. DE E., P.O. 9 DE FEBRERO DE 2002)
+(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2002) (F. DE E., P.O. 9 DE FEBRERO DE 2002)
 
 ###### ARTICULO 2o.
 
@@ -79,9 +79,9 @@ IV.- Conservar, renovar y transmitir la cultura, para promover el desarrollo y t
 
 V.- Gestionar y allegarse de recursos para su sostenimiento y desarrollo, determinando para ello las cuotas, derechos y participaciones por los servicios que preste.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2015)</small>
 
-Para la consecución de sus fines, la Universidad Autónoma de Ciudad Juárez podrá celebrar toda clase de actos jurídicos.
+Para la consecución de sus fines, la Universidad Autónoma de Ciudad Juárez podrá celebrar toda clase de actos jurídicos, incluyendo la creación de órganos desconcentrados, los cuales tendrán, entre otras atribuciones, las de recaudar y administrar los ingresos que se perciban por actividades distintas a las de enseñanza.
 
 ### CAPÍTULO 2. PRINCIPIOS DE LA UNIVERSIDAD
 
@@ -177,7 +177,7 @@ IX.- Los Jefes de Departamento.
 
 ### CAPÍTULO 5. DEL CONSEJO UNIVERSITARIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 11o.
 
@@ -195,7 +195,7 @@ IV.- Los representantes enunciados en las fracciones I a III asistirán a las se
 
 El Consejo será convocado por el Rector o cuando a éste se lo soliciten el 50% de los Consejeros titulares.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 12o.
 
@@ -211,9 +211,9 @@ II.- Aprobar los presupuestos anuales de ingresos y egresos.
 
 III.- Nombrar al auditor externo de la terna integrada con las propuestas del Poder Ejecutivo Estatal, del H. Congreso del Estado de Chihuahua y de la Dirección General de Educación Superior de la Secretaría de Educación Pública o quien ésta designe, para lo cual cada uno propondrá un candidato para formar la terna, de la cual el Consejo designará al auditor externo.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2015)</small>
 
-IV.- Aprobar la creación de institutos y demás organismos necesarios para el funcionamiento de la Universidad.
+IV.- Aprobar la creación de institutos, organismos y órganos desconcentrados, determinando su organización y competencia.
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2002)</small>
 
@@ -357,7 +357,7 @@ El H. Consejo Académico actuará como organismo asesor y consultor del H. Conse
 
 Para normar su criterio el H. Consejo Académico podrá solicitar la opinión de personas, instancias y organismos, según lo considere conveniente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 24o.
 
@@ -441,7 +441,7 @@ Los Directores Generales tendrán competencia y responsabilidad en sus respectiv
 
 En cada Instituto funcionará un H. Consejo Técnico, integrado por el Director, quien será su presidente, Jefes de Departamento, Coordinadores de Programa Académico, Coordinadores de Apoyo, un representante académico y uno estudiantil electos por cada programa académico del Instituto. Los consejeros serán electos en el mes de noviembre mediante voto secreto y escrutinio abierto; durarán en funciones un año y no podrán ser electos para el período consecutivo en el mismo cargo. Sólo el Director del Instituto y los Consejeros por elección tendrán voz y voto, los demás integrantes sólamente tendrán voz.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 30o.
 
@@ -739,7 +739,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE ENERO DE 2002.
 
@@ -752,3 +752,9 @@ P.O. 3 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
