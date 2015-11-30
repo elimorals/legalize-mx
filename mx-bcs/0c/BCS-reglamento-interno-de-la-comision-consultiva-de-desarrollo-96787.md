@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-de-la-comision-consultiva-de-desarrollo-9678
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-30"
-last_updated: "2013-11-30"
+last_updated: "2015-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERNO DE LA COMISIÓN CONSULTIVA DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERNO DEL CONSEJO ESTATAL DE ORDENAMIENTO TERRITORIAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 30 DE NOVIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 30 de noviembre de 2013.
 
@@ -346,3 +348,19 @@ SECRETARIO GENERAL DE GOBIERNO
 SALVADOR ADRIÁN PÉREZ RAMÍREZ
 
 SECRETARIO DE PLANEACIÓN URBANA, INFRAESTRUCTURA Y ECOLOGÍA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 30 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interno entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Comisión Consultiva de Desarrollo Urbano del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 59, de fecha 30 de noviembre del 2013.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo, deberá instalarse a más tardar 30 días naturales posteriores a la entrada en vigor del presente Reglamento Interno.
