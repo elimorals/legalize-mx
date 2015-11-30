@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2013-08-19"
+last_updated: "2015-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -167,6 +167,10 @@ b).- Turismo Rural y Comunitario: Implica la participación en actividades propi
 
 c).- Turismo de Aventura: Aquel que incluye el desarrollo de diferentes actividades deportivo-recreativas integrando el cuidado del medio ambiente y respeto de los atractivos turísticos;
 
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+XXII Bis.- Turismo Gastronómico: La actividad turística que realizan las personas cuyo fin principal sea la degustación de alimentos propios o típicos de un lugar o región de la Entidad;
+
 XXIII.- Turismo Social: Actividad encaminada a que los habitantes de cualquier nivel socioeconómico, accedan a los atractivos turísticos del Estado;
 
 XXIV.- Turismo Sustentable: Aquel que cumple y sigue las siguientes directrices:
@@ -205,7 +209,9 @@ VIII.- Los demás considerados como tales por la Ley General.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
 
-Artículo 6 BIS. Constituyen los atractivos turísticos aquellos bienes tangibles e intangibles que posee el Estado y que constituyen la principal atracción al turista, teniendo entre otros los siguientes: zonas arqueológicas, ciudades coloniales, reservas ecológicas, áreas naturales, monumentos históricos, museos, parques temáticos, jardines botánicos, zoológicos, teatros, ríos, lagos, grutas, cavernas, ferias, festividades y tradiciones étnicas o regionales, artesanías, gastronomía, danzas típicas o regionales, así como aquellos que determine en el ámbito de sus atribuciones la Secretaría de Turismo y Cultura del Estado de Hidalgo.
+###### Artículo 6 Bis.
+
+Constituyen los atractivos turísticos aquellos bienes tangibles e intangibles que posee el Estado y que constituyen la principal atracción al turista, teniendo entre otros los siguientes: zonas arqueológicas, ciudades coloniales, reservas ecológicas, áreas naturales, monumentos históricos, museos, parques temáticos, jardines botánicos, zoológicos, teatros, ríos, lagos, grutas, cavernas, ferias, festividades y tradiciones étnicas o regionales, artesanías, gastronomía, danzas típicas o regionales, así como aquellos que determine en el ámbito de sus atribuciones la Secretaría de Turismo y Cultura del Estado de Hidalgo.
 
 ### CAPÍTULO II. ATRIBUCIONES DE LA SECRETARÍA
 
@@ -407,7 +413,7 @@ I.- Proteger el medio ambiente, así como preservar y manejar adecuadamente los 
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
-II.- Buscar alcanzar (sic) un aprovechamiento integral, eficiente y racional de los recursos con potencial turístico, de las riquezas naturales, culturales, arquitectónicas, históricas y gastronómicas del Estado con la participación de las comunidades;
+II.- Buscar alcanzar un aprovechamiento integral, eficiente y racional de los recursos con potencial turístico, de las riquezas naturales, culturales, arquitectónicas, históricas y gastronómicas del Estado con la participación de las comunidades;
 
 > <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
 
@@ -537,9 +543,11 @@ La Secretaría, en coordinación con las Dependencias y Entidades competentes de
 
 La Secretaría impulsará la celebración de convenios entre los prestadores de servicios y el sector público, privado y social, para facilitar el acceso a los viajes entre los trabajadores y su familia en condiciones de economía y seguridad.
 
-### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
+### CAPÍTULO XII BIS. DEL TURISMO GASTRONÓMICO
 
-### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO XIII. DE LA INCORPORACIÓN DE LA ACTIVIDAD TURÍSTICA A LAS CADENAS PRODUCTIVAS
 
 ###### Artículo 35.
 
@@ -549,11 +557,29 @@ La Secretaría promoverá las acciones necesarias entre las dependencias compete
 
 La Secretaría procurará que los programas de señalización del sector consideren siempre las relativas que ofrezcan facilidades para el libre tránsito y confort de los viajeros con limitaciones físicas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO XIV. DE LA CULTURA TURÍSTICA
+
+###### Artículo 36 Bis.
+
+El Estado a través de la Secretaría promoverá a nivel nacional e internacional el turismo gastronómico, a través de la difusión del Compendio de la Gastronomía Hidalguense, en el cual se exprese la amplia riqueza culinaria representada por los platillos típicos de las diversas regiones del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 36 Ter.
+
+Corresponde a la Secretaría elaborar en coordinación con el Consejo Nacional para la Cultura y las Artes, el Consejo Estatal para la Cultura y las Artes de Hidalgo y con los municipios de la entidad, el Compendio de la Gastronomía Hidalguense.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 36 Quater.
+
+La Secretaría organizará con carácter anual, con la concurrencia de los sectores público, social y privado, de manera permanente, la Feria Gastronómica del Estado de Hidalgo, en la cual participen todas y cada una de las regiones de la entidad, con la finalidad de difundir y promover a nivel nacional e internacional, la cocina tradicional hidalguense, elemento fundamental de nuestra identidad cultural.
+
 ### CAPÍTULO XV. DE LA PROMOCIÓN DE LA ACTIVIDAD TURÍSTICA
 
 ### CAPÍTULO XVI. DEL FOMENTO DE INVERSIONES TURÍSTICAS
-
-### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
 
 ###### Artículo 37.
 
@@ -571,7 +597,7 @@ Será de especial atención la incorporación de micro, pequeñas y medianas emp
 
 Le corresponde a la Secretaría, en coordinación con la Secretaría de Desarrollo Social de Hidalgo, organizar, fomentar y estimular el sector artesanal, como complemento del desarrollo turístico.
 
-### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
+### CAPITULO XVII. COMPETITIVIDAD Y PROFESIONALIZACIÓN
 
 ###### Artículo 41.
 
@@ -585,7 +611,7 @@ La Secretaría dotará de herramientas y conocimientos a la población local, pa
 
 La Secretaría impulsará la firma de acuerdos y fomentará esfuerzos con las Secretarías Estatales de Educación Pública y del Trabajo y Previsión Social, así como con el Consejo Estatal para la Cultura y las Artes de Hidalgo, para desarrollar acciones encaminadas a la capacitación, profesionalización y certificación laboral de los trabajadores del sector, al igual que participará en la elaboración y actualización de los planes de estudio en materia turística.
 
-### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
+### CAPÍTULO XVIII. DEL ORDENAMIENTO TURÍSTICO DEL ESTADO
 
 ###### Artículo 44.
 
@@ -631,7 +657,7 @@ La Secretaría deberá mantener una estrecha comunicación y coordinación con l
 
 La Secretaría impulsará el desarrollo turístico sustentable de las comunidades mediante la creación y difusión de regiones, rutas y circuitos turísticos con la visión de preservar las raíces históricas y culturales del Estado.
 
-### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO XIX. DEL SISTEMA ESTADÍSTICO DE INFORMACIÓN TURÍSTICA DEL ESTADO DE HIDALGO
 
 ###### Artículo 49.
 
@@ -653,7 +679,7 @@ La Promotora integrará el portafolio de proyectos turísticos, el cual será ac
 
 Cuando se trate de inversiones en el sector turístico, se podrá considerar el posible otorgamiento de los estímulos y apoyos que consigna la Ley de Fomento y Desarrollo Económico del Estado de Hidalgo. La Secretaría podrá, en apego a las disposiciones legales vigentes, proponer ante las autoridades competentes, se otorguen incentivos fiscales en apoyo a las inversiones turísticas en la Entidad.
 
-### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
+### CAPÍTULO XX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 54.
 
@@ -695,7 +721,7 @@ La Secretaría en el ejercicio de sus atribuciones, promoverá con la Secretarí
 
 La Secretaría realizará estudios e investigaciones en materia turística que conduzcan a elevar la competitividad del sector y facilitar las acciones de planeación de los sectores privado y social.
 
-### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
+### CAPÍTULO XXI. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS DENTRO DEL ESTADO
 
 ###### Artículo 59.
 
@@ -714,6 +740,8 @@ III.- Definir los lineamientos para su ejecución, seguimiento, evaluación y mo
 ###### Artículo 61.
 
 Los procedimientos para la formulación, aprobación, expedición, evaluación y posibles modificaciones de los Ordenamientos Turísticos del Territorio Estatal, se apegarán a la legislación local aplicable en la materia y deberán ser congruentes y corresponder a los programas de ordenamiento turístico general y regional que hayan sido expedidos por la Federación.
+
+### CAPÍTULO XXII. DE LA VERIFICACIÓN DE LOS SERVICIOS Y SANCIONES
 
 ###### Artículo 62.
 
@@ -964,3 +992,9 @@ PRIMERO.- El presente Decreto entrará en vigor a (sic) día siguiente de su Pub
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- El Titular del Poder Ejecutivo del Estado de Hidalgo dispondrá, que el presente Decreto, se traduzca a las lenguas que hablan los diferentes pueblos y comunidades indígenas existentes en el territorio Estatal, así como, la difusión entre las diferentes dependencias educativas y de Gobierno en sus respectivos órdenes.
+
+P.O. 30 DE NOVIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
