@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2015-08-10"
+last_updated: "2015-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -1629,13 +1629,17 @@ V.- Instituto de Estudios Legislativos;
 
 VI.-Instituto para el Desarrollo y Fortalecimiento Municipal;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-VII.-Dirección de Comunicación Social; y
+VII.- Dirección de Comunicación Social;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-VIII.-Unidad Institucional de Género.
+VIII.- Unidad Institucional de Género; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+IX.- Contraloría Interna.
 
 Los Órganos Técnicos y Administrativos del Congreso del Estado, tendrán las atribuciones que les señalen la Constitución Política del Estado de Hidalgo, esta Ley, su Reglamento, el propio que rija sus actividades y demás ordenamientos legales.
 
@@ -1849,9 +1853,7 @@ IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2014)</small>
 
-###### Artículo 202 Bis.
-
-La Unidad Institucional de Género, es el Órgano del Congreso del Estado, encargado de la institucionalización de la perspectiva de género, como política de equilibrio y eje rector en las actividades administrativas y técnicas, así como en las relaciones laborales entre el personal y servidores públicos integrantes del Poder Legislativo.
+Artículo 202 BIS.-La Unidad Institucional de Género, es el Órgano del Congreso del Estado, encargado de la institucionalización de la perspectiva de género, como política de equilibrio y eje rector en las actividades administrativas y técnicas, así como en las relaciones laborales entre el personal y servidores públicos integrantes del Poder Legislativo.
 
 Estará a cargo de un responsable designado por el Presidente de la Junta de Gobierno y contará con el personal que éste le asigne, para el desempeño de sus funciones, teniendo como atribuciones las siguientes:
 
@@ -1876,6 +1878,8 @@ IX.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos lega
 Las atribuciones de la Unidad Institucional de Género serán realizadas y ejecutadas bajo la supervisión de las Presidencias de las Comisiones de Seguridad Ciudadana y Justicia, Derechos Humanos y Atención de las personas con Discapacidad e Igualdad de Género, estableciéndose por Acuerdo interno de ellas, cuál representará los trabajos y el período por el que lo hará.
 
 El Programa Institucional de Acciones Afirmativas para la Implementación de la Perspectiva de Género, así como el Manual de Prácticas Conductuales con Perspectiva de Género para integrantes del Poder Legislativo y sus modificaciones serán propuestos al Pleno del Congreso, por las Comisiones coordinadoras y aprobadas por aquél.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 199.
 
@@ -1949,7 +1953,37 @@ XIX.- Proporcionar servicios de consultoría, asesoría, capacitación, adiestra
 
 XX.- Las demás las (sic) facultades que señalen otras disposiciones legales aplicables.
 
-### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
+### CAPÍTULO IX. CONTRALORÍA INTERNA
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 202 TER.- El Congreso del Estado contará con una Contraloría Interna, la cual será un Órgano Técnico y Administrativo y estará a cargo de un Director General designado por el Presidente de la Junta de Gobierno, teniendo las siguientes atribuciones:
+
+I.- Coadyuvar en el control, revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso;
+
+II.- Evaluar la gestión de los Órganos Técnico y Administrativos del Congreso del Estado, para medir la eficiencia, eficacia, economía y calidad en su desempeño, así como los resultados e impacto de los programas y recursos ejercidos con base en los principios de racionalidad, austeridad, proporcionalidad y equidad en todos los procesos administrativos;
+
+III.- Recibir y dar trámite a las quejas y denuncias que se formulen con motivo del presunto incumplimiento de las obligaciones administrativas establecidas en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo;
+
+IV.- Atender e intervenir en los diferentes medios de impugnación ante autoridades competentes e interponer los recursos legales que correspondan;
+
+V.- Diseñar, implementar y supervisar el sistema de control y fiscalización de los Órganos Técnicos y Administrativos del Congreso del Estado para que cumplan con las políticas y programas establecidos;
+
+VI.- Verificar los procedimientos, actos y contratos de adquisición de bienes y contratación de servicios que se realicen, de conformidad con la Ley en la materia y la legislación aplicable;
+
+VII.- Admitir, desahogar y resolver las inconformidades o conciliaciones que se presenten con motivo de los procesos licitatorios, en términos de la Ley en la materia y la legislación aplicable;
+
+VIII.- Participar conforme a sus atribuciones, en los actos de entrega-recepción, así como, en las actas administrativas en las que se solicite su intervención y/o dicte; y
+
+IX.- Las demás que prevea la legislación aplicable y el Reglamento de la Ley Orgánica del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+ARTÍCULO 202 QUATER.- La Contraloría Interna se auxiliará de las siguientes áreas, cuyas funciones se organizarán y especificarán en el Reglamento de la presente Ley.
+
+I.- Dirección de Auditoría y Desarrollo Administrativo; y
+
+II.- Dirección de Quejas y Responsabilidades.
 
 ###### ARTÍCULO 202.
 
@@ -1968,6 +2002,8 @@ V.- Recabar, analizar y sintetizar la información pública sobre el Trabajo Leg
 VI.- Las demás que le señalen esta Ley, su Reglamento y los ordenamientos legales aplicables.
 
 (ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JUNIO DE 2014) (F. DE E., 28 DE JULIO DE 2014)
+
+### CAPÍTULO ÚNICO. DEL RÉGIMEN DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO
 
 ### CAPÍTULO ÚNICO. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
@@ -2186,3 +2222,11 @@ P.O. 20 DE ABRIL DE 2015.
 P.O. 10 DE AGOSTO DE 2015.
 
 ÚNICO. Envíese al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Contraloría Interna deberá quedar instalada dentro de los 15 días naturales, posteriores a la publicación en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
