@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2014-12-09"
+last_updated: "2015-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -3037,11 +3037,13 @@ Los propietarios o poseedores de solares o predios baldíos y con construcciones
 
 Si los propietarios o poseedores de solares o predios referidos no cumplieran con la disposición anterior, el Ayuntamiento realizará la limpieza o en su caso, construirá las bardas necesarias para delimitar el mismo.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+La autoridad municipal podrá requerir en cualquier momento al propietario o poseedor del predio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbe. En caso de no cumplirse el artículo 113, no con el requerimiento formulado por la autoridad, esta podrá por si mismas (sic) o mediante la contratación de terceros efectuar el servicio de desmonte, desyerba o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios de los bienes inmuebles están obligados a cubrir íntegramente la prestación del servicio a la autoridad municipal, misma que impondrá una multa de 150 a 250 S.M.G. En caso de reincidencia, la multa ascenderá, de 250 a 350 S.M.G.
 
-La autoridad municipal podrá requerir en cualquier momento el propietario o poseedor del predio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbe. En caso de no cumplirse el artículo 113, no con el requerimiento formulado por la autoridad, esta podrá por sí mismas o mediante la contratación de terceros efectuar el servicio de desmonte, desyerbe o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios de los bienes inmuebles están obligados a cubrir íntegramente la prestación del servicio a la autoridad municipal, misma que impondrá una multa de 3 a 20 S.M.G. del importe determinado a pagar.
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+Para efectos de lo dispuesto en el presente capítulo, se dará la reincidencia cuando por segunda vez la autoridad realice la limpieza, desmonte o desyerbe de los predios con o sin construcción y aplique la multa respectiva, haciéndose acreedor el propietario o poseedor de estos inmuebles a la aplicación de la tarifa y multa que por reincidencia establecen este artículo y el artículo 115 de la presente ley.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -3051,7 +3053,13 @@ Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de 
 
 TARIFA
 
-a).- Por cada metro cuadrado 0.12 S.M.G.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+a) Por cada metro cuadrado 0.5 S.M.G
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+b) En caso de reincidencia 1.0 S.M.G.
 
 El pago de las obligaciones establecidas, deberán de ser enterados en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación mediante las formas que establece el Código Fiscal Municipal del Estado de Quintana Roo.
 
@@ -5334,3 +5342,9 @@ En ningún caso lo dispuesto en este artículo, se entenderá que limita la facu
 Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
 
 También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+P.O. 30 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
