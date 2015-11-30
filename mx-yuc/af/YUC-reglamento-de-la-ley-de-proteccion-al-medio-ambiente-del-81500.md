@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-proteccion-al-medio-ambiente-del-81500"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-26"
-last_updated: "2015-07-02"
+last_updated: "2015-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 26 de mayo de 2011.
 
@@ -435,11 +435,7 @@ b.1) Original o Copia Certificada del Plano de notificación, y
 
 b.2) Original o Copia Certificada del Plano de drenaje sanitario con ubicación de la planta de tratamiento.
 
-c). En el caso de estaciones de servicio:
-
-c.1) Original o Copia Certificada del Plano definitivo sellado por Petróleos Mexicanos (PEMEX), y
-
-c.2) Original o Copia Certificada del Plano Topográfico con medidas, colindancias y superficie total.
+c). (DEROGADO, D.O. 30 DE NOVIEMBRE DE 2015)
 
 Las obras o actividades que se realicen sin contar con la factibilidad urbano-ambiental y la autorización de Impacto Ambiental, serán sancionadas en los términos que establece la Ley y este Reglamento.
 
@@ -501,7 +497,7 @@ VIII. La construcción de Desarrollos Inmobiliarios, mayores a 5000 metros cuadr
 
 IX. La extracción, Explotación, transformación y tratamiento de minerales o sustancias no reservadas a la federación;
 
-X. La construcción, remodelación o ampliación de estaciones de servicio o gasolineras;
+X. (DEROGADA, D.O. 30 DE NOVIEMBRE DE 2015)
 
 XI. La construcción de obras que se realicen en torno y dentro de Cenotes y Cavernas;
 
@@ -2382,5 +2378,17 @@ Segundo. Actualización de programas
 La Secretaría de Desarrollo Urbano y Medio Ambiente, para dar cumplimiento a lo dispuesto en el artículo 10 del Reglamento de la Ley de Protección al Medio Ambiente del Estado de Yucatán, deberá actualizar los programas de ordenamiento ecológico del territorio del estado, cuya expedición o última actualización tenga una antigüedad mayor de cuatro años, en el plazo de un año contado a partir de la entrada en vigor de este decreto.
 
 Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 30 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 314/2015 POR EL QUE SE MODIFICA EL REGLAMENTO DE LA LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
