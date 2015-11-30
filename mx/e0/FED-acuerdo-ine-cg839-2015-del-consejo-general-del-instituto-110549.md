@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg839-2015-del-consejo-general-del-instituto-110549
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-23"
-last_updated: "2015-11-23"
+last_updated: "2015-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110549&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-09-30"
 ---
 # ACUERDO INE/CG839/2015 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE ACATA LA SENTENCIA DE LA SALA REGIONAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION DE LA SEGUNDA CIRCUNSCRIPCION, RECAIDA AL JUICIO DE INCONFORMIDAD SM-JIN-35/2015, ASI COMO EL DECRETO APROBADO POR LA CAMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNION POR EL QUE SE CONVOCA A ELECCIONES EXTRAORDINARIAS DE DIPUTADOS FEDERALES EN EL DISTRITO ELECTORAL FEDERAL 1 DEL ESTADO DE AGUASCALIENTES Y SE APRUEBA EL PLAN Y CALENDARIO INTEGRAL CORRESPONDIENTE
 
+> <small>N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 30 DE NOVIEMBRE DE 2015, SE RECOMIENDA ACUDIR AL FINAL DEL PRESENTE ORDENAMIENTO.</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE ACATA LA SENTENCIA DE LA SALA REGIONAL DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN DE LA SEGUNDA CIRCUNSCRIPCIÓN, RECAÍDA AL JUICIO DE INCONFORMIDAD SM-JIN-35/2015, ASÍ COMO EL DECRETO APROBADO POR LA CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN POR EL QUE SE CONVOCA A ELECCIONES EXTRAORDINARIAS DE DIPUTADOS FEDERALES EN EL DISTRITO ELECTORAL FEDERAL 1 DEL ESTADO DE AGUASCALIENTES Y SE APRUEBA EL PLAN Y CALENDARIO INTEGRAL CORRESPONDIENTE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación el lunes 23 de noviembre de 2015.
 
@@ -70,3 +72,19 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 > <small>[N. DE E. VÉASE PLAN Y CALENDARIO INTEGRAL DEL PROCESO ELECTORAL FEDERAL ELECCIONES EXTRAORDINARIAS DISTRITO 01 AGUASCALIENTES, EN LA PRIMERA SECCIÓN DEL D.O.F. DE 23 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 101 A LA 104.]</small>
 
 > <small>[N. DE E. VÉASE CONVOCATORIA A LAS CIUDADANAS Y LOS CIUDADANOS INTERESADOS (AS) EN POSTULARSE COMO CANDIDATAS O CANDIDATOS INDEPENDIENTES A DIPUTADO (A) FEDERAL POR EL PRINCIPIO DE MAYORÍA RELATIVA EN EL DISTRITO 01 DEL ESTADO DE AGUASCALIENTES, EN LA PRIMERA SECCIÓN DEL D.O.F. DE 23 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 105 A LA 108.]</small>
+
+D.O.F. 30 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG900/2015, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- En cumplimiento a lo ordenado en la sentencia emitida en el expediente SUP-RAP-694/2015, se modifica el acuerdo INE/CG839/2015 emitido el treinta de septiembre de dos mil quince, por el Consejo General del Instituto Nacional Electoral, para adicionar un Punto de Acuerdo Séptimo, en los siguientes términos:
+
+Séptimo.- Los partidos políticos deberán postular candidatos del mismo género que contendieron en el pasado Proceso Electoral ordinario celebrado en el 01 Distrito electoral federal con cabecera en Jesús María, Aguascalientes.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+TERCERO.- Comuníquese del cumplimiento a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+
+CUARTO.- Publíquese de inmediato el presente Acuerdo en el Diario Oficial de la Federación, así como en la página de internet del Instituto.
