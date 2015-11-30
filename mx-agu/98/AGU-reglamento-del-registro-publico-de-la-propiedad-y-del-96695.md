@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-registro-publico-de-la-propiedad-y-del-96695"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-20"
-last_updated: "2013-11-20"
+last_updated: "2015-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 30 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el número extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de noviembre de 2013.
 
@@ -59,7 +59,9 @@ I. Principio de Publicidad Registral: Consiste en el hecho de que todos los acto
 
 II. Inscripción: Es la materialización del asiento hecho en el registro donde consta el acto jurídico que crea, produce, modifica o extingue una relación jurídicamente determinada, la cual debe hacerse constar en el folio electrónico o en libros, de manera que este surta efectos contra terceros. Los títulos y documentos que son susceptibles de inscripción están previstos por el artículo 2876 del Código Civil;
 
-III. Principio de Especialidad o Determinación: Consiste en la precisión, determinación o individualización del acto inscrito, de tal forma que se identifique de manera inequívoca. En el caso de inmuebles por finca, para determinar los derechos inscritos. La publicidad registral exige también que en toda inscripción de propiedad u otros derechos reales, se especifiquen en forma pormenorizada las características del inmueble objeto del derecho real; ubicación, superficie, su valor, la naturaleza del derecho, el acto jurídico que le dio origen, los nombres y generales de las personas.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+III. Principio de Especialidad o Determinación: Consiste en la precisión, determinación o individualización del acto inscrito, de tal forma que se identifique de manera inequívoca. En el caso de inmuebles por finca, para determinar los derechos inscritos. La publicidad registral exige también que en toda inscripción de propiedad u otros derechos reales, se especifiquen en forma pormenorizada las características del inmueble, objeto del derecho real, ubicación, superficie, su valor, naturaleza del hecho, así como la clave catastral y el folio real al que se encuentra debidamente ligada, la naturaleza del derecho, el acto jurídico que le dio origen, los nombres y generales de las personas que en el acto intervienen.
 
 IV. Principio de Consentimiento: Es la declaración de la voluntad del titular registral o interesado, por la que autoriza al Registrador a practicar las inscripciones para que se transmita el dominio o se constituya un derecho real que lo transfiere y del que lo adquiere o por lo menos del primero;
 
@@ -663,7 +665,9 @@ III. Registrar en el sistema informático el nuevo derecho o acto, introduciendo
 
 IV. Revisar si se han cubierto los derechos y contribuciones correspondientes por concepto de registro o certificación, establecidos por las leyes aplicables;
 
-V. Realizar la comprobación de consistencia de los documentos, testimonios y anexos integrados en el expediente; de los sujetos y actos inscribibles y del contenido de los mismos, de conformidad con las disposiciones del Código y de este Reglamento;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+V. Reavisar que se hayan realizado los trámites legales necesarios, ante las autoridades competentes y que sean previos a su inscripción; ya sea de manera electrónica o por medio de documentos anexos integrados al expediente, para tal efecto deberán realizar la comprobación de consistencia de los documentos, testimonios y anexos integrados al expediente de los sujetos y actos inscribibles así como de su contenido, de conformidad con las disposiciones del Código y de este reglamento;
 
 VI. Vigilar la legalidad y exactitud de los registros que se practiquen;
 
@@ -1005,11 +1009,13 @@ Al inscribirse el primer título de propiedad de una finca, se hará mención de
 
 Para inscribir con toda exactitud las fincas y los derechos que las afecten, el Registrador se sujetará a las siguientes reglas; sin perjuicio de las establecidas por el Código Civil:
 
-I. La naturaleza del inmueble se expresará manifestando si es rústico o urbano y el nombre con el que los de su clase sean conocidos en la demarcación del registro;
+I. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2015)
 
-II. La situación de los inmuebles rústicos, se determinará, expresando el término, partido, demarcación política o cualquier otro nombre con que sea conocido el lugar en que se hallaren, así como todos sus linderos con otros inmuebles;
+II. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2015)
 
-III. La situación de los inmuebles urbanos se determinará, expresando la población en que se hallen, el nombre de la calle o lugar, el número si lo tuviera, y si aquel o éste fueren de fecha reciente, los que hubiere tenido antes; el número de la manzana y lote, el nombre del edificio si tuviere alguno, los linderos y dimensiones, así como el número de la cuenta catastral que le corresponda y cualquier otra circunstancia que sirva para distinguir el inmueble inscrito de otro;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+III. La situación de los inmuebles rústicos y urbanos se determinará, precisando los datos necesarios para su ubicación, así como el número de folio real y la cuenta catastral que le corresponda, y cualquier otra circunstancia que sirva para distinguir, el inmueble inscrito de otros;
 
 IV. La medida superficial se expresará en la forma que constare en el título y con las mismas denominaciones que en él se expresen; pero si del título no resultare dicha medida se expresará en la inscripción esta circunstancia;
 
@@ -1147,7 +1153,9 @@ Las inscripciones hipotecarias, una vez hechas en la Sección Segunda, deberán 
 
 Para la inscripción de embargos, se tomará en cuenta lo siguiente:
 
-I. Cuando se trate de la inscripción de embargos sobre inmuebles, practicados por las autoridades judiciales o administrativas, deberán presentarse al Registro Público copias certificadas por duplicado, del acta de las diligencias respectivas en las que se hará constar el monto y la naturaleza del crédito que origina el embargo, el nombre y descripción del predio embargado con superficie, medidas y colindancias, la referencia del título que acredite la propiedad del embargado y los datos de la inscripción de la propiedad en el registro. Una de las copias certificadas del acta de embargo se destinara al Libro que corresponda la inscripción que se haga y la otra se devolverá al interesado con la anotación de haber quedado registrada.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+I. Cuando se trate de la inscripción de embargos sobre inmuebles, practicados por las autoridades judiciales o administrativas, deberán presentarse al Registro Público copias certificadas por duplicado, del acta de las diligencias respectivas en las que se hará constar el monto y la naturaleza del crédito que origina el embargo, la referencia del título que acredite la propiedad del inmueble embargado así como el nombre y descripción del predio embargado manifestando superficie, medidas y colindancias así como datos de la inscripción de la propiedad en el registro y en su caso el número de la cuenta catas Una de las copias certificadas del acta de embargo se destinara al Libro que corresponda la inscripción que se haga y la otra se devolverá al interesado con la anotación de haber quedado registrada.
 
 Una vez que se hubiere culminado con el proceso de modernización y el sistema informático se encuentre en funciones cabalmente, lo anterior se hará en forma electrónica, debiendo el Registrador expedir el acuse de recibo correspondiente en la vía electrónica e inscribir electrónicamente el embargo.
 
@@ -1741,7 +1749,9 @@ La solicitud de certificación de no inscripción, deberá cumplir los siguiente
 
 I. Nombre y firma del solicitante;
 
-II. Ubicación, medidas, colindancias, extensión y superficie del inmueble, así como nombre, en su caso;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+II. Ubicación, medidas y colindancias, extensión y superficie del inmueble, así como nombre o en su caso el número del folio real al que se encuentra debidamente ligada;
 
 III. Nombre de las personas anteriores que hayan sido poseedores o propietarios, en su caso;
 
@@ -1990,3 +2000,13 @@ JEFE DE GABINETE.
 Lic. Sergio Javier Reynoso Talamantes,
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO"].
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
