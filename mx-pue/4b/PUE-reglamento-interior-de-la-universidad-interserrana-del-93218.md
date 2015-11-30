@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-interserrana-del-93218"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-06"
-last_updated: "2013-03-06"
+last_updated: "2015-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERSERRANA DEL ESTADO DE PUEBLA-AHUACATLÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 6 de marzo de 2013.
 
-DECRETO del Ejecutivo del Estado, que expide el REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERSERRANA DEL ESTADO DE PUEBLA-AHUACA TLÁN.
+DECRETO del Ejecutivo del Estado, que expide el REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERSERRANA DEL ESTADO DE PUEBLA-AHUACATLÁN.
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- Gobierno del Estado de Puebla.
 
@@ -77,19 +77,19 @@ III. Consejo Social;
 
 IV. Consejo de Calidad; y
 
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
 V. Las siguientes unidades administrativas:
 
 a) Dirección de Planeación y Evaluación;
 
-b) Dirección de Ingeniería Agroindustrial;
+b) Dirección Académica;
 
-c) Dirección de Licenciatura en Biotecnología;
+c) Dirección de Vinculación y Extensión Universitaria;
 
-d) Dirección de Vinculación y Extensión Universitaria;
+d) Dirección de Administración y Finanzas, y
 
-e) Dirección de Administración y Finanzas; y
-
-f) Abogado General.
+e) Abogado General.
 
 ###### ARTÍCULO 5.
 
@@ -173,13 +173,15 @@ I. Elaborar los planes, proyectos y programas, correspondientes a la unidad admi
 
 II. Someter a consideración del Rector los criterios e indicadores internos de evaluación, así como las medidas administrativas y técnicas que coadyuven a elevar la eficacia y eficiencia en el cumplimiento de los objetivos y metas de la unidad administrativa a su cargo;
 
-III. Organizar, dirigir y vigilar las actividades programadas por las áreas administrativas a su cargo, conforme a los lineamientos y políticas que determine el Consejo Directivo o el Rector;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+III. Organizar, dirigir y vigilar las actividades programadas por las áreas administrativas a su cargo, conforme a los lineamientos y políticas que determine el Consejo Directivo, el Rector o las Dependencias competentes;
 
 IV. Proponer al Rector el nombramiento, promoción, remoción y licencias del personal de la unidad administrativa a su cargo, de conformidad con el Decreto y las disposiciones aplicables, así como los programas de inducción, capacitación, profesionalización y desarrollo integral de los aspectos mental, técnico, cultural, social y deportivo del personal de la Universidad, de acuerdo a la disponibilidad presupuestal y a las disposiciones aplicables;
 
 V. Acordar con los titulares de las áreas administrativas a su cargo y con cualquier otro servidor público subalterno, los asuntos y actividades de su competencia;
 
-VI. Elaborar con la asesoría de la unidad administrativa competente, los manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para el funcionamiento de la Dirección a su cargo;
+VI. (DEROGADA, P.O. 30 DE NOVIEMBRE DE 2015)
 
 VII. Integrar y administrar el archivo de trámite y concentración de la Dirección a su cargo, de conformidad con la legislación y normatividad aplicables;
 
@@ -205,45 +207,67 @@ II. Asesorar y coordinar a las unidades administrativas de la Universidad, en la
 
 III. Coordinar la elaboración de los manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para el funcionamiento de la Universidad, y someterlos a consideración del Rector para su presentación y aprobación del Consejo Directivo;
 
-IV. Coordinar el desarrollo administrativo de la Universidad y realizar previa autorización de su superior jerárquico, evaluaciones periódicas al cumplimiento de las metas y objetivos consignados en los planes y programas, de acuerdo a la normatividad aplicable, e informar los resultados al Rector; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-V. Instrumentar el procedimiento de registro y validación de los documentos de naturaleza administrativa aprobados por el Consejo Directivo, de conformidad con las disposiciones aplicables.
+IV. Coordinar el desarrollo administrativo de la Universidad y realizar previa autorización de su superior jerárquico, evaluaciones periódicas al cumplimiento de las metas y objetivos consignados en los planes y programas, de acuerdo a la normatividad aplicable, e informar los resultados al Rector;
 
-### CAPÍTULO VII. DE LA DIRECCIÓN DE INGENIERÍA AGROINDUSTRIAL
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+V. Instrumentar el procedimiento de registro y validación de los documentos de naturaleza administrativa aprobados por el Consejo Directivo, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+VI. Elaborar, en coordinación con la Dirección de Planeación y Evaluación los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+VII Coadyuvar con la Dirección de Administración y Finanzas en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO VII. DE LA DIRECCIÓN ACADÉMICA
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 14.
 
-El Titular de la Dirección de Ingeniería Agroindustrial dependerá directamente del Rector y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
+El Titular de la Dirección Académica, dependerá directamente del Rector y tendrá, además de las atribuciones señaladas en el artículo 12 del presente Reglamento, las siguientes:
 
-I. Coordinar las actividades académicas y de investigación en materia agroindustrial, de conformidad con los planes y programas aprobados por el Consejo Directivo y disposiciones aplicables;
+I. Planear, dirigir y administrar las actividades académicas y de investigación de la Universidad, con el propósito de ofrecer servicios educativos de calidad;
 
-II. Definir las estrategias para el desarrollo profesional de los egresados de la carrera de Ingeniería Agroindustrial, y proponer al Rector directrices para su incorporación al sector productivo;
+II. Proponer a su superior jerárquico para la aprobación del Consejo Directivo, la actualización de los planes y programas de estudio, de conformidad con las disposiciones legales y normativas aplicables;
 
-III. Proponer a su superior jerárquico para la aprobación del Consejo Directivo, la actualización de los planes y programas de estudio de la carrera de Ingeniería Agroindustrial, de conformidad con las disposiciones aplicables;
+III. Elaborar y proponer al Rector la normatividad académica, revisada y avalada por el Abogado General, encargándose de su difusión y cumplimiento;
 
-IV. Planear conjuntamente con la Dirección de Vinculación y Extensión Universitaria, en el ámbito de su competencia, prácticas, visitas, estadías profesionales y promoción de carreras inherentes al objeto de la Universidad;
+IV. Difundir entre las áreas a su cargo, los lineamientos a que deben sujetarse las actividades académicas y de investigación de la Universidad;
 
-V. Promover la vinculación de los planes, programas y proyectos académicos de la Universidad con organismos e instituciones de los sectores social, público y privado, nacionales e internacionales en el área agroindustrial, así como considerar el intercambio, coordinación y colaboración respectivos; y
+V. Promover y supervisar el desarrollo de las actividades académicas de investigación y postgrados encomendadas a la Dirección a su cargo;
 
-VI. Proponer a la Dirección de Administración y Finanzas, los criterios para la selección, contratación y capacitación del personal docente de la unidad administrativa a su cargo, en términos del Decreto y disposiciones aplicables.
+VI. Coadyuvar con el Abogado General, en la gestión y control del trámite de registros de propiedad industrial, patentes y certificados de invención para su transferencia al sector productivo, que correspondan a la Universidad;
 
-### CAPÍTULO VIII. DE LA DIRECCIÓN DE LA LICENCIATURA EN BIOTECNOLOGÍA
+VII. Organizar con el personal académico de la Universidad, reuniones de academia para proponer las carreras profesionales, planes y programas de estudio que resulten necesarios, así como las modificaciones a los mismos;
+
+VIII. Establecer, conjuntamente con la Dirección de Vinculación y Extensión Universitaria, la planeación y programación de visitas extramuros, prácticas y estadías profesionales; así como de las acciones para la promoción de la oferta educativa de la Universidad;
+
+IX. Promover la vinculación de los planes, programas y proyectos académicos de la Universidad con organismos e instituciones de los sectores social, público y privado, nacionales e internacionales, así como considerar el intercambio, coordinación y colaboración respectivos;
+
+X. Elaborar y proponer al Rector, los programas de capacitación, actualización y superación académica, vigilando su cumplimiento;
+
+XI. Presentar al Rector, propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios educativos de la Universidad, en función al aumento del número de alumnos y sus necesidades, de conformidad con la disponibilidad presupuestal;
+
+XII. Tramitar, ante las Dependencias competentes, la titulación de los egresados de la Universidad;
+
+XIII. Elaborar, en coordinación con la Dirección de Planeación y Evaluación los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, y
+
+XIV. Coadyuvar con la Dirección de Administración y Finanzas en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO VIII
 
 ###### ARTÍCULO 15.
 
-El Titular de la Dirección de la Licenciatura en Biotecnología dependerá directamente del Rector y tendrá, además de las atribuciones señaladas en el artículo 12 del Reglamento, las siguientes:
-
-I. Coordinar las actividades académicas y de investigación en materia de biotecnología, de conformidad con los planes y programas aprobados por el Consejo Directivo y disposiciones aplicables;
-
-II. Definir las estrategias para el desarrollo profesional de los egresados de la carrera de Licenciatura en Biotecnología y proponer al Rector directrices para su incorporación al sector productivo;
-
-III. Proponer a su superior jerárquico para la aprobación del Consejo Directivo, la actualización de los planes y programas de estudio de la carrera de la Licenciatura en Biotecnología, de conformidad con las disposiciones aplicables;
-
-IV. Planear conjuntamente con la Dirección de Vinculación y Extensión Universitaria, en el ámbito de su competencia, prácticas, visitas, estadías profesionales y promoción de carreras inherentes al objeto de la Universidad;
-
-V. Promover la vinculación de los planes, programas y proyectos académicos de la Universidad con organismos e instituciones de los sectores social, público y privado, nacionales e internacionales en el área de biotecnología, así como considerar el intercambio, coordinación y colaboración respectivos; y
-
-VI. Proponer a la Dirección de Administración y Finanzas, los criterios para la selección, contratación y capacitación del personal docente de la unidad administrativa a su cargo, en términos del Decreto y disposiciones aplicables.
+(DEROGADO, P.O. 30 DE NOVIEMBRE DE 2015)
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN DE VINCULACIÓN Y EXTENSIÓN UNIVERSITARIA
 
@@ -257,9 +281,17 @@ II. Gestionar y proponer al Rector para su aprobación del Consejo Directivo, co
 
 III. Autorizar y dar seguimiento a los viajes, visitas y prácticas de estudio y de investigación del alumnado para el cumplimiento del objeto de la Universidad;
 
-IV. Promover ante las autoridades competentes, el desarrollo educativo a través de becas, estímulos e intercambios académicos, de conformidad con las disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-V. Coordinar la planeación con los titulares de las direcciones de Ingeniería Agroindustrial y Licenciatura en Biotecnología, de las prácticas, visitas, estadías profesionales y promoción de carreras inherentes al objeto de la Universidad.
+IV. Promover ante las autoridades competentes, el desarrollo educativo a través de becas, estímulos e intercambios académicos, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+V. Elaborar, en coordinación con la Dirección de Planeación y Evaluación los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+VI. Coadyuvar con la Dirección de Administración y Finanzas en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo.
 
 ### CAPÍTULO X. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
@@ -297,9 +329,17 @@ XIV. Coordinar el desarrollo informático de la Universidad;
 
 XV. Elaborar con la asesoría del Abogado General, las actas administrativas en contra de los servidores públicos de la Universidad, por transgresiones a la Ley de Responsabilidades de los Servidores Públicos del Estado y demás disposiciones aplicables;
 
-XVI. Organizar y dirigir los procedimientos de adquisición, arrendamientos y servicios, previa autorización del Rector, de conformidad con las disposiciones aplicables y la disponibilidad presupuestal; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-XVII. Coordinar el establecimiento, control y evaluación del programa interno de protección civil, de conformidad con las disposiciones legales aplicables.
+XVI. Organizar y dirigir los procedimientos de adquisición, arrendamientos y servicios, previa autorización del Rector, de conformidad con las disposiciones aplicables y la disponibilidad presupuestal;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+XVII. Coordinar el establecimiento, control y evaluación del programa interno de protección civil, de conformidad con las disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+XVIII. Elaborar, en coordinación con la Dirección de Planeación y Evaluación los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo.
 
 ### CAPÍTULO XI. DEL ABOGADO GENERAL
 
@@ -323,9 +363,21 @@ VII. Auxiliar al Rector en las sesiones del Consejo Directivo;
 
 VIII. Coadyuvar con la Dirección de Administración y Finanzas en la elaboración de las actas administrativas por transgresiones a la Ley de Responsabilidades de los Servidores Públicos del Estado y demás disposiciones, así como dar a conocer cuando sea procedente a las autoridades competentes tales hechos para los efectos legales correspondientes;
 
-IX. Asesorar jurídicamente a las unidades administrativas de la Universidad, en la elaboración de los manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para su debido funcionamiento; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
 
-X. Las demás que en materia de su competencia le encomiende el Consejo Directivo o el Rector.
+IX. Asesorar jurídicamente a las unidades administrativas de la Universidad, en la elaboración de los manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para su debido funcionamiento;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+X. Elaborar, en coordinación con la Dirección de Planeación y Evaluación los manuales de organización, de procedimientos, de servicios y demás que sean necesarios para el funcionamiento de la unidad administrativa a su cargo;
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+XI. Coadyuvar con la Dirección de Administración y Finanzas en la elaboración e integración del anteproyecto de presupuesto anual de ingresos y egresos de la unidad administrativa a su cargo, y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+XII. Las demás que en materia de su competencia se establezcan en el Decreto, este Reglamento, acuerdos, decretos, circulares, convenios y disposiciones aplicables; así como las que le encomiende o le delegue el Consejo Directivo o el Rector.
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
@@ -346,3 +398,13 @@ PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Esta
 SEGUNDO.- Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a cinco de junio de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Secretario de Educación Pública.- C. LUIS MALDONADO VENEGAS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE NOVIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD INTERSERRANA DEL ESTADO DE PUEBLA-AHUACATLÁN”.]
+
+PRIMERO. El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día hábil siguiente de su publicación.
+
+SEGUNDO. Se dejan sin efecto las disposiciones de la misma naturaleza que se opongan al presente Reglamento.
