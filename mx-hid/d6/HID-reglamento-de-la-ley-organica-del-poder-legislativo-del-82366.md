@@ -4,7 +4,7 @@ identifier: "HID-reglamento-de-la-ley-organica-del-poder-legislativo-del-82366"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-01"
-last_updated: "2015-08-10"
+last_updated: "2015-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 1 de agosto de 2011.
 
@@ -1429,6 +1429,64 @@ VI.- Elaborar y presentar con quince dias de anticipación al término de cada P
 
 VII.- Las demás que se contemplen en la Ley, este Reglamento o que le sean delegadas por el Presidente de la Junta de Gobierno o las Comisiones participantes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+### CAPÍTULO IX. CONTRALORÍA INTERNA
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 118.
+
+El Congreso del Estado contará con una Contraloría Interna, la cual será un Órgano Técnico y Administrativo y estará a cargo de un Director General designado por el Presidente de la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 119.
+
+La Contraloría Interna se auxiliará de las siguientes áreas:
+
+I.- Dirección de Auditoría y Desarrollo Administrativo; y
+
+II.- Dirección de Quejas y Responsabilidades.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 120.
+
+La Dirección de la Auditoría y Desarrollo Administrativo tendrá las siguientes atribuciones:
+
+a) Elaborar, aplicar y verificar el cumplimiento anual de la revisión y fiscalización del ejercicio del presupuesto de egresos del Congreso;
+
+b) Realizar auditorías periódicas a los órganos auxiliares del Congreso del Estado;
+
+c) Verificar la aclaración de observaciones hasta la solventación y/o elaboración de los dictámenes de responsabilidades;
+
+d) Coadyuvar en la vigilancia del manejo y aplicación de los recursos financieros, humanos y materiales, para que se realicen de acuerdo con las disposiciones aplicables;
+
+e) Diseñar, implementar, supervisar y evaluar los mecanismos de control de la gestión de los Órganos Técnicos Administrativos del Congreso del Estado; y
+
+f) Las demás que la legislación aplicable en la materia prevea.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 121.
+
+La Dirección de Quejas y Responsabilidades, tendrá las siguientes atribuciones:
+
+a) Recibir, analizar e investigar las quejas y denuncias interpuestas contra servidores públicos del Congreso del Estado de Hidalgo en el desempeño de sus funciones o con motivo de ellas;
+
+b) Notificar el inicio de un procedimiento al servidor público;
+
+c) Investigar y substanciar los procedimientos en materia de responsabilidad administrativa e inconformidades, previstos en las disposiciones legales y normativas aplicables;
+
+d) Dictar las resoluciones correspondientes e imponer las sanciones en términos de la legislación aplicable;
+
+e) Atender e intervenir en los diferentes medios de impugnación ante autoridades competentes e interponer los recursos legales que correspondan;
+
+f) Representar a la Contraloría Interna en los recursos legales, ante las autoridades administrativas y jurisdiccionales en el ámbito de sus competencias; y
+
+g) Las demás que la legislación aplicable en la materia prevea.
+
 T R A N S I T O R I O
 
 ÚNICO.- Envíese el presente Decreto al Periódico Oficial del Estado, para su Publicación.
@@ -1513,36 +1571,10 @@ P.O. 10 DE AGOSTO DE 2015.
 
 ÚNICO. Envíese al Titular del Poder Ejecutivo de la Entidad, para su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO 118.
+P.O. 30 DE NOVIEMBRE DE 2015.
 
-Los funcionarios de elección popular sólo podrán renunciar a su cargo por causa grave que calificará la autoridad respectiva; y cuando sin causa justa o sin licencia previa faltare al desempeño de sus funciones, quedarán separados de su cargo, privados de los derechos de ciudadanos e inhabilitados para ocupar otro empleo público por el tiempo que debieren durar en su encargo.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE NOVIEMBRE DE 2003)</small>
+SEGUNDO. La Contraloría Interna deberá quedar instalada dentro de los 15 días naturales, posteriores a la publicación en el Periódico Oficial del Estado de Hidalgo.
 
-###### ARTICULO 119.
-
-Los servidores públicos de los poderes del Estado, de los municipios y de los órganos públicos autónomos, con funciones de dirección y atribuciones de mando, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de su consorte, ascendientes, descendientes o personas que estén bajo su tutela o dependencia económica.
-
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
-
-La infracción de este artículo será causa de responsabilidad.
-
-(REUBICADO [N. DE E. ANTES TITULO VIII], P.O. 18 DE MAYO DE 2001)
-
-###### ARTICULO 120.
-
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso, por el voto de las dos terceras partes del número total de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos, quienes para tal efecto y con carácter vinculatorio, consultarán al Cabildo, el cual resolverá con base en lo que decidan las dos terceras partes de sus miembros. Si transcurrido un mes, a partir de la fecha en que hubieren recibido los Ayuntamientos el proyecto de adiciones o de reformas, no contestaren, se entenderá que lo aprueban.
-
-Cuando la legislatura considere procedente revisar toda o proponer una nueva Constitución, convocará a una convención constitucional con la aprobación de las dos terceras partes de los miembros de la cámara.
-
-Si el resultado de la convención es afirmativo se someterá a plebiscito.
-
-La Ley establecerá los procedimientos para el cumplimiento de este Título.
-
-(REUBICADO [N. DE E. ANTES TITULO IX], P.O. 18 DE MAYO DE 2001)
-
-###### ARTICULO 121.
-
-Esta Constitución no perderá su fuerza y vigencia, aunque por algún trastorno público se interrumpa su observancia.
-
-Si se establece un Gobierno contrario a los principios que ella sanciona, luego que se restablezca la observancia de esta Constitución, con arreglo a ella y a las Leyes que en su virtud se hubieren expedido, serán juzgados todos los que la infringieron.
+TERCERO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
