@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-al-emprendedurismo-juvenil-del-estado-de-91056"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-23"
-last_updated: "2012-12-23"
+last_updated: "2015-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE FOMENTO AL EMPRENDEDURISMO JUVENIL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durando, el domingo 23 de diciembre de 2012.
 
@@ -210,3 +212,21 @@ SECRETARIO
 DIP. ELIA MARÍA MORELOS FAVELA
 
 SECRETARIA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 465.- QUE CONTIENE LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Económico para el Estado de Durango, aprobada mediante Decreto No. 136, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 9 de fecha 31 de julio del año 2005, así como sus reformas.
+
+TERCERO. Se abroga la Ley de Fomento a la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Durango, aprobada mediante Decreto No. 383, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 46 bis de fecha 6 de diciembre del año 2012.
+
+CUARTO. Se abroga la Ley de Fomento al Emprendedurismo Juvenil del Estado de Durango, aprobada mediante Decreto No. 451, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 51 BIS de fecha 23 de diciembre del año 2012.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+SEXTO. El Gobernador del Estado, por conducto de la Secretaría contará con un plazo de 180 días naturales para expedir las disposiciones reglamentarias de la presente Ley.
