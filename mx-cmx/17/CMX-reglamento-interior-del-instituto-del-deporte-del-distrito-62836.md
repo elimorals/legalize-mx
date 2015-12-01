@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-del-deporte-del-distrito-6283
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-11"
-last_updated: "2011-08-26"
+last_updated: "2015-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62836&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2008-09-08"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE AGOSTO DE 2011.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 1 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 11 de septiembre de 2008.
 
@@ -126,7 +128,7 @@ IV. Secretaría de Finanzas; y
 
 V. Oficialía Mayor.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE AGOSTO DE 2009)</small>
 
 ###### Artículo 9.
 
@@ -766,14 +768,32 @@ SEXTO.- Los asuntos competencia de la Dirección General del Instituto del Depor
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal en la Ciudad de México, a los ocho días del mes de septiembre del año dos mil ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE FINANZAS, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 G.O. 21 DE AGOSTO DE 2009.
 
-PRIMERO. - Publíquese el presente Decreto en la Gaceta Oficia del Distrito Federal.
+PRIMERO. - Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 26 DE AGOSTO DE 2011.
 
 Único.- El presente Decreto entrará en vigor el día de su publicación, excepto lo dispuesto por el artículo 20, fracción VII, segundo párrafo, de este Reglamento, que entrará en vigor a partir de la edición 2012 del Maratón Internacional de la Ciudad de México.
+
+G.O. 1 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Reglamento Interior entrará en vigor el día de su publicación.
+
+TERCERO.- Se abroga el Reglamento Interior del Instituto del Deporte del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal el once de septiembre de dos mil ocho.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- El Instituto del Deporte del Distrito Federal deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Dependencias y Unidades Administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
