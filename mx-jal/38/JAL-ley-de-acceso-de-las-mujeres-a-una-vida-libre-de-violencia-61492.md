@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2015-07-21"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -41,19 +41,67 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1°.
 
-La presente ley es de orden público, interés social y observancia general en el estado de Jalisco, y tiene por objeto sentar las bases del sistema y programa para la atención, prevención y erradicación de la violencia contra las mujeres, a fin de garantizar el derecho fundamental de las mujeres a acceder a una vida libre de violencia, conforme a los principios constitucionales de igualdad y no discriminación.
+La presente ley es de orden público, interés social y observancia general en el estado de Jalisco, y tiene por objeto establecer las bases del Sistema y la coordinación para la atención, prevención y erradicación de la violencia contra las mujeres, así como establecer las políticas y acciones gubernamentales a fin de garantizar el derecho fundamental de las mujeres a acceder a una vida libre de violencia, favoreciendo su pleno desarrollo y bienestar subjetivo conforme a los principios constitucionales de igualdad y no discriminación.
 
 ###### Artículo 2°.
 
 Para los efectos de esta ley se entenderá por:
 
-I. Consejo Estatal: Consejo Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Programa Estatal: Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres; y
+I. Alerta de violencia de género: Es el mecanismo de protección emergente constituido por el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
-III. Sistema Estatal: Sistema Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Consejo Estatal: Consejo Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Centro: Centro de refugio temporal para mujeres víctimas de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IV. Debida diligencia: es un deber que comporta cuatro obligaciones: la prevención, la investigación, la sanción y la reparación de las violaciones de los derechos humanos y evitar la impunidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+V. Derechos humanos de las mujeres: Refiere a los derechos universales, interdependientes, indivisibles y progresivos, que están contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia y en el orden jurídico mexicano que los tutela;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VI. Empoderamiento de las mujeres: es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VII. Estereotipos de género: Son las concepciones y modelos sobre como son y cómo deben comportarse hombres y mujeres, implicando relaciones desiguales y desventajas que restringen oportunidades por el hecho de ser hombre o mujer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VIII. Modalidades de violencia: Las formas, manifestaciones o los ámbitos donde se presenta la violencia contra las mujeres en cualquiera de sus tipos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IX. Persona agresora: Quien ejerce cualquier tipo de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+X. Perspectiva de igualdad de género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Propone eliminar las causas de la opresión de género como la desigualdad, la injusticia, la violencia y la jerarquización de las personas basada en su sexo. Promueve la igualdad entre las personas a través del adelanto para lograr el bienestar subjetivo de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, sobre una base de igualdad, derechos humanos y libertades fundamentales, para acceder a los recursos económicos y a la representación política, social, cultural y civil, tanto en todo los ámbitos de la vida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XI. Protocolo: Los documentos oficiales que rigen el actuar de las autoridades y de profesionales en la atención de víctimas de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XII. Programa Estatal: Programa Estatal para Prevenir, Atender, Erradicar y Sancionar la Violencia contra las Mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XIII. Sistema Estatal: Sistema Estatal para Prevenir, Atender, Erradicar y Sancionar la Violencia contra las Mujeres.
 
 ###### Artículo 3°.
 
@@ -69,9 +117,13 @@ Los principios rectores que contiene esta ley, deberán ser observados por el si
 
 I. El respeto a su libertad, autonomía y dignidad humana;
 
-II. La igualdad jurídica entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-III. La no discriminación de las mujeres en todos los ordenes de la vida; y
+II. La igualdad sustantiva entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. La no discriminación de las mujeres en todos los órdenes de la vida, y el enfoque antidiscriminatorio; y
 
 IV. El respeto irrestricto de los derechos fundamentales de las mujeres.
 
@@ -79,9 +131,11 @@ IV. El respeto irrestricto de los derechos fundamentales de las mujeres.
 
 El gobierno estatal, en el ámbito de su competencia debe implementar tanto el programa estatal, como los programas particulares que establezca el sistema estatal para dar cumplimiento a lo dispuesto en esta ley.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 7°.
 
-Los gobiernos municipales podrán coordinarse con el Gobierno del Estado para implementar el programa estatal y los programas particulares que de esta ley se deriven.
+Los gobiernos municipales deberán coordinarse con el Gobierno del Estado para implementar el Programa Estatal y los programas particulares que de esta ley se deriven.
 
 ###### Artículo 8°.
 
@@ -91,11 +145,17 @@ Toda autoridad administrativa deberá ejercer sus funciones con una visión para
 
 Las autoridades promoverán se garantice a las mujeres víctimas de cualquier tipo de violencia sin menoscabo de otro derecho, el respeto irrestricto de lo siguiente:
 
-I. Ser tratadas con respeto a su integridad y el ejercicio pleno de sus derechos;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su seguridad;
+I. Ser tratadas con respeto, preservando su dignidad, integridad y el ejercicio pleno de sus derechos humanos;
 
-III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Contar con protección inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su seguridad, a través de las medidas y órdenes de protección;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Recibir información veraz, científica y suficiente que les permita decidir sobre las opciones de atención;
 
 IV. Contar con asesoría y representación jurídica gratuita y expedita;
 
@@ -103,31 +163,61 @@ V. Recibir gratuitamente información, atención y rehabilitación médica y psi
 
 VI. Acudir y ser recibidas con sus hijas e hijos, en los casos de violencia familiar, en los centros de refugio temporal destinados para tal fin;
 
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia;
+VII. Ser valoradas y educadas libres de estereotipos de comportamiento, prácticas sociales y culturales basadas en los roles de género discriminatorios;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VIII. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia con perspectiva de igualdad de género;
 
 IX. Erradicar la impunidad en casos de violencia contra las mujeres a través de la investigación y sanción de actos de autoridades omisas o negligentes; y
 
 X. Subsanar las deficiencias que se adviertan dentro de los procedimientos internos y externos de las autoridades, que propicien la violencia contra las mujeres.
 
-### CAPÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO II. DE LOS TIPOS Y MODALIDADES DE LA VIOLENCIA
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 10.
 
-Los gobiernos Estatal y Municipal procurarán erradicar cualquier acción u omisión ilícita y antijurídica, que por razón de discriminación, genere o pueda dar como resultado un daño psicológico, moral, físico, patrimonial, sexual o que menoscabe la dignidad de las mujeres.
+Los gobiernos estatal y municipal procurarán erradicar cualquier acción u omisión ilícita y antijurídica, que por razón de discriminación, genere o pueda dar como resultado cualquiera de los siguientes tipos de violencia:
+
+I. Violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+
+II. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+III. Violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
+
+IV. Violencia económica. Es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar, privar o restringir sus percepciones económicas, la administración de sus bienes propios, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 11.
 
-La violencia contra las mujeres es todo acto de violencia basado en la pertenencia del sexo femenino, que tenga o pueda tener como resultado un daño o sufrimiento físico, psicológico o sexual para la mujer, así como la amenaza de tales actos, la coacción o la privación arbitraria de la libertad, tanto si se produce en la vida pública como en la vida privada.
+La violencia contra las mujeres es todo acto de violencia basado en la condición de mujer, que tenga o pueda tener como resultado un daño o sufrimiento físico, psicológico o sexual para la mujer, así como la amenaza de tales actos, la coacción o la privación arbitraria de la libertad, tanto si se produce en la vida pública como en la vida privada.
 
 La violencia contra las mujeres se manifiesta en distintos ámbitos y modalidades que de manera descriptiva más no limitativa puede ser:
 
-I. Violencia en el ámbito familiar en contra de las mujeres, se considera a la ejercida dentro o fuera del domicilio de la víctima, cometida por un agresor con quien se tiene o se ha tenido un parentesco por consanguinidad o afinidad, o derivada de una relación de concubinato o matrimonio;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+I. Violencia familiar en contra de las mujeres, se considera a la ejercida dentro o fuera del domicilio de la víctima, cometida por la persona agresora con quien se tiene o se ha tenido un parentesco por consanguinidad o afinidad, o derivada de una relación de concubinato o matrimonio o de hecho;
 
 II. Violencia Laboral, es la ejercida por las personas que tienen un vínculo laboral o análogo con la víctima, independientemente de la relación jerárquica; y consiste en la acción u omisión que atenta contra la igualdad y dignidad del receptor y por tanto daña su autoestima, salud, integridad, libertad y seguridad e impide su desarrollo armónico;
 
-III. Violencia Docente, son aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infrinjan maestras, maestros o personal administrativo;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Además la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia o cualquier otra forma de discriminación prevista en la ley, asimismo se considerará violencia laboral solicitar como requisito de contratación examen de ingravidez;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Violencia docente, son aquellas conductas que dañen la autoestima y el desarrollo profesional y personal de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, embarazo, limitaciones o características físicas, que les infrinjan personal docente o personal administrativo;
 
 IV. Violencia en la comunidad, consiste en los actos individuales o colectivos que transgredan derechos fundamentales de las mujeres en el ámbito social y propician su denigración, discriminación, marginación o exclusión;
 
@@ -135,7 +225,17 @@ V. Violencia institucional, se presenta cuando uno o varios servidores públicos
 
 VI. Violencia feminicida, es el fenómeno social que se manifiesta en la forma extrema de violencia de género contra las mujeres, que de manera sistemática lesiona los derechos humanos de éstas en el ámbito público o privado, cuya escala puede llegar al homicidio teniendo como común denominador el género de las víctimas en un ambiente ideológico y social adverso a las mujeres, caracterizado por la ausencia o deficiente implementación de normas jurídicas y políticas públicas de protección que generan consecuentemente condiciones de inseguridad y ponen en riesgo su vida; y
 
-VII. En todos aquellos ámbitos o modalidades en que una persona física o jurídica de derecho público o privado ejecute algún acto de violencia contra las mujeres.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VII. Violencia Política de Género, las acciones o conductas, que causen un daño físico, psicológico, económico, moral o sexual en contra de una mujer o varias mujeres o de sus familias, que en el ejercicio de sus derechos políticos-electorales ya sea como aspirantes, pre-candidatas, candidatas, funcionarias electas o designadas o en el ejercicio de sus funciones político-públicas tendientes a impedir el acceso a los cargos de elección popular o su debido desempeño, inducir la toma de decisiones en contra de su voluntad o de la ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VIII. Violencia en el noviazgo, son las acciones o conductas intencionales que generen un daño sexual, físico o psíquico, cometido por una persona contra otra con quien se tiene una relación afectiva, de enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación o maltrato hacia alguna de las partes; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IX. En todos aquellos ámbitos o modalidades en que una persona física o jurídica de derecho público o privado ejecute algún acto de violencia contra las mujeres que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 12.
 
@@ -149,27 +249,37 @@ La alerta de violencia contra las mujeres tendrá como objetivo establecer el ti
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 14.
 
-El Sistema Estatal, es el conjunto de elementos ordenados, congruentes y uniformes encaminados a detectar, prevenir, atender, sancionar y erradicar la violencia contra las mujeres.
+El Sistema Estatal, es el conjunto de elementos ordenados, acciones congruentes, uniformes y transversales encaminados a detectar, prevenir, atender, sancionar y erradicar la violencia contra las mujeres..
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-Los poderes públicos del Estado y los gobiernos municipales se coordinarán para la integración y funcionamiento del sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres.
+Los poderes públicos del Estado y los gobiernos municipales se coordinarán para la integración y funcionamiento del sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas públicas, servicios y acciones interinstitucionales para prevenir, detectar, atender, sancionar y erradicar la violencia contra las mujeres para lo cual promoverán la participación de la sociedad civil, universidades y organismos especializados.
 
-El sistema fundará dichas acciones en una cultura de valores basados en la equidad de género y los derechos humanos, que construyen un marco de convivencia pacífica para la sociedad.
+El Sistema Estatal fundará dichas acciones en los principios de igualdad de género, no discriminación y el respeto de sus derechos humanos, con un especial énfasis en la prevención y erradicación de la violencia contra las mujeres.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-El Consejo Estatal para detectar, prevenir, atender y erradicar la Violencia contra las Mujeres, es la instancia normativa de las políticas públicas en la materia y operadora del sistema.
+El Consejo Estatal es la instancia encargada de dictar los ejes rectores y transversales de las políticas públicas en la materia de igualdad de género, prevención, atención, sanción, erradicación de la violencia contra las mujeres y operadora del sistema estatal, a través de acciones afirmativas que propicien su acceso a una vida libre de violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 17.
 
-El Consejo se conforma por los titulares o los representantes que estos designen, de las siguientes dependencias y entidades:
+El Consejo Estatal se conforma por las y los titulares o sus respectivos representantes que estos designen, de las siguientes dependencias y entidades:
 
-I. El Gobernador Constitucional del Estado, quien fungirá como Presidente Honorario;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+I. El Gobernador o Gobernadora Constitucional del Estado, quien fungirá como Presidenta o Presidente Honorario;
 
 II. La Secretaría General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
 
@@ -203,31 +313,85 @@ XIV. El Sistema Jalisciense de Radio y Televisión;
 
 XV. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;
 
-XVI. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del estado; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-XVII. Un representante de los Ayuntamientos de la Entidad por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+XVI. Comisión Estatal Indígena.
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XVII. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
 
 Los titulares o los representantes que formen parte del Consejo tendrán cargos honoríficos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 18.
 
-El Consejo como órgano colegiado, tendrá a cargo las siguientes atribuciones:
+El Consejo como órgano colegiado de planeación, coordinación de acciones y toma de decisiones, que tendrá a cargo las siguientes atribuciones a fin de orientar las políticas y acciones en la materia:
 
-I. Elaborar y aprobar el Programa Estatal;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Evaluar el cumplimiento y eficacia del Programa Estatal;
+I. Elaborar el proyecto de Programa Estatal, el cual deberá de estar conforme a lo establecido por el Plan Estatal de Desarrollo y el Programa Nacional que en esta materia se establezca, para lo cual promoverá la participación de la sociedad civil, universidades y organismos especializados;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Aprobar el Programa Estatal;
 
 III. Proponer el establecimiento de lineamientos técnicos y administrativos que faciliten la ejecución del Programa Estatal;
 
-IV. Realizar los convenios necesarios para el cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-V. Gestionar que se asignen las partidas presupuestales en cada ejercicio fiscal para cumplir con los fines y objetivos del programa; y
+IV. Revisar el Programa Estatal en los términos de esta Ley;
 
-VI. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+V. Realizar los convenios necesarios para el cumplimiento de esta Ley;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VI. Gestionar que se asignen las partidas presupuestales en cada ejercicio fiscal para cumplir con los fines y objetivos del Programa Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VII. Proponer los protocolos para la atención de mujeres víctimas de delito así como los que rijan la operación de los refugios para la atención a mujeres víctimas de violencia y de los centros de rehabilitación para personas agresoras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VIII. Promover la investigación científica con perspectiva de género en las materias propias de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IX. Establecer y promover la capacitación y actualización permanente, con perspectiva de género, de los grupos e individuos que participen en el Sistema Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+X. Formular propuestas a las autoridades facultadas para presentar iniciativas de tipo legislativo, que tengan como propósito prevenir y erradicar la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XI. Proponer al Titular del Ejecutivo Estatal los reglamentos necesarios para el cumplimiento de los objetivos de esta Ley, así como el proyecto de reglamento interno para su expedición;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XII. Contribuir a la difusión de la legislación en materia de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XIII. Promover estrategias para la obtención de recursos destinados al cumplimiento de los objetivos de esta Ley; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XIV. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-El Consejo debe celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, teniendo la obligación de sesionar como mínimo, cada seis meses.
+El Consejo Estatal debe celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, teniendo la obligación de sesionar como mínimo, cada tres meses.
 
 ###### Artículo 20.
 
@@ -241,9 +405,13 @@ III. Elaborar el anteproyecto del Programa Estatal;
 
 IV. Ser representante legal del Consejo;
 
-V. Rendir anualmente al Presidente Ejecutivo y al Consejo un informe de actividades;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-VI. Estandarizar los procesos de prevención, detección, atención y erradicación de la violencia de género contra las mujeres, de atención a sus víctimas y de reeducación de individuos que ejercen violencia;
+V. Rendir anualmente un informe de actividades al Presidente Ejecutivo y al Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VI. Estandarizar los procesos de prevención, detección, atención y erradicación de la violencia de género contra las mujeres; de atención a sus víctimas y de reeducación de personas agresoras que ejercen violencia;
 
 VII. Establecer, coordinar, controlar y actualizar el Sistema Estatal de Información sobre la Violencia contra las mujeres, y facilitar el intercambio de información entre instancias;
 
@@ -253,7 +421,9 @@ IX. Impulsar la investigación sobre la violencia de género que se ejerce contr
 
 X. Implementar un programa especial para proporcionar tratamiento terapéutico al personal de instituciones públicas y privadas, encargado de la atención de las mujeres víctimas de violencia de género;
 
-XI. Promover la instalación de centros de refugio temporal para mujeres víctimas de violencia, centros de atención y rehabilitación para agresores y módulos de información;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XI. Promover la instalación de centros de refugio temporal para mujeres víctimas de violencia, centros de atención y rehabilitación para personas agresoras y módulos de información;
 
 XII. Promover la firma de convenios con instituciones públicas y privadas para el cumplimiento de los fines de esta Ley; y
 
@@ -265,9 +435,11 @@ XIII. Las demás que le señale la presente Ley y otros ordenamientos aplicables
 
 El programa estatal contendrá todas las acciones para detectar, prevenir, atender y erradicar la Violencia contra las Mujeres, es el instrumento que contiene las acciones que, en forma planeada y coordinada, deberán realizar las dependencias y entidades de la administración pública estatal y municipal, en el corto, mediano y largo plazo. Dicho programa tendrá el carácter de prioritario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 22.
 
-El programa estatal contendrá todas las acciones para detectar, prevenir, atender y erradicar cualquier manifestación de violencia en contra de las mujeres, promoviendo una cultura de equidad y respeto. Conteniendo por lo menos:
+El Programa Estatal promoverá una cultura de igualdad, libre de discriminación y que tenga como fin la prevención, atención, sanción y erradicación de la violencia contra las mujeres y respeto de los derechos humanos. Conteniendo por lo menos:
 
 I. El diagnóstico de la situación actual de la violencia de género contra las mujeres en el estado;
 
@@ -283,7 +455,9 @@ V. La especificación del responsable de su ejecución.
 
 El programa sujetará las acciones con perspectiva de género para:
 
-I. Promover una cultura que reconozca y respete los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+I. Promover que se reconozcan y respeten los derechos humanos de las mujeres;
 
 II. Transformar los modelos socioculturales de conducta, a través de la formulación de programas y acciones de educación en sus distintos niveles con la finalidad de detectar, prevenir, atender y erradicar las conductas estereotipadas que propician la violencia contra las mujeres;
 
@@ -295,7 +469,9 @@ V. Proporcionar los servicios especializados, profesionales y gratuitos para la 
 
 VI. Fomentar y apoyar los programas de educación pública y privada, destinados a sensibilizar a la sociedad sobre las causas y las consecuencias de la violencia contra las mujeres;
 
-VII. Elaborar programas de atención y capacitación a víctimas de la violencia que permita su participación plena en todos los ámbitos de la vida;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VII. Elaborar programas de atención y capacitación a víctimas de la violencia que permita su desarrollo pleno en todos los ámbitos de la vida;
 
 VIII. Diseñar mecanismos que permitan la coordinación con los distintos medios de comunicación para que en los contenidos de sus programas no fomenten la violencia contra las mujeres y favorezcan la erradicación de todos los tipos de violencia;
 
@@ -421,7 +597,9 @@ Corresponde a la Fiscalía General del Estado, además de lo establecido en otro
 
 I. Diseñar e implementar una política criminal con perspectiva de género orientada a la prevención, detección, atención, sanción y erradicación de los delitos violentos cometidos contra las mujeres;
 
-II. Capacitar al personal de las diferentes instancias policiales para atender los casos de violencia contra las mujeres y brindar las medidas de protección;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Capacitar al personal de las diferentes instancias a su cargo para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, para atender los casos de violencia contra las mujeres y brindar las medidas de protección;
 
 III. Generar mecanismos de prevención, detección, atención y derivación de las mujeres víctimas de violencia a las dependencias competentes para conocer del caso;
 
@@ -437,9 +615,9 @@ VI. Formular acciones y programas orientados a fomentar la cultura del respeto a
 
 VII. Promover la formación y especialización de agentes de la policía investigadora, agentes del ministerio público y de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-VIII. Proporcionar a las víctimas información veraz, objetiva y oportuna, así como asesoría para su eficaz atención, protección y canalización;
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género para la investigación de delitos que atenten contra los derechos humanos de las mujeres, así como la búsqueda inmediata de mujeres y niñas desaparecidas;
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2014)</small>
 
@@ -473,7 +651,9 @@ I. Promover dentro de la política educativa estatal los principios de igualdad,
 
 II. Desarrollar e implementar programas educativos, que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a su dignidad;
 
-III. Promover la investigación multidisciplinaria encaminada a conocer y analizar la violencia ejercida contra las mujeres en los centros educativos, así como su impacto en la deserción y desempeño escolar;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Difundir y promover, de conformidad con su presupuesto, la investigación multidisciplinaria encaminada a conocer y analizar la violencia ejercida contra las mujeres en los centros educativos, así como su impacto en la deserción y desempeño escolar;
 
 IV. Capacitar al personal docente en materia de derechos humanos de las mujeres;
 
@@ -493,7 +673,9 @@ Corresponde a la Secretaría de Salud, además de lo establecido en otros ordena
 
 I. Diseñar, en el marco de la política de salud integral de las mujeres, y en el ámbito de su competencia con perspectiva de género, la política de prevención, detección, atención y erradicación de la violencia;
 
-II. Brindar por medio de las instituciones del sector salud de manera integral y gratuita atención médica, psiquiátrica y psicológica con perspectiva de género a las víctimas;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Brindar por medio de las instituciones del sector salud de manera integral y gratuita atención médica, psiquiátrica y psicológica con perspectiva de género a las víctimas, con respeto de los derechos humanos de las mujeres y evitando su revictimización conforme a lo dispuesto en esta Ley, las normas oficiales mexicanas y demás normatividad aplicable;
 
 III. Diseñar con perspectiva de género, programas permanentes de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres que garanticen la prevención, detección, atención y erradicación de las víctimas, respetando los derechos humanos de las mujeres y las disposiciones legales, reglamentarias, estatales y federales aplicables;
 
@@ -543,9 +725,13 @@ De la Secretaría del Trabajo.
 
 Corresponde a la Secretaría del Trabajo, además de lo establecido en otros ordenamientos:
 
-I. Promover políticas y programas que promuevan los derechos humanos de las mujeres y fomenten el desarrollo de sus capacidades y habilidades en el desempeño laboral;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Supervisar el cumplimiento de las normas en materia de igualdad de oportunidades, de trato y no discriminación en el acceso al empleo, la capacitación, el ascenso, la remuneración, y la permanencia de las mujeres;
+I. Promover políticas y programas de derechos humanos de las mujeres y que fomenten el desarrollo de sus capacidades, competencias y habilidades en el desempeño laboral;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Supervisar el cumplimiento de las normas en materia de igualdad de oportunidades, acciones afirmativas a favor de las mujeres y no discriminación en el acceso al empleo, la capacitación, el ascenso, la remuneración y la permanencia de las mujeres;
 
 III. Promover campañas de información en los centros de trabajo sobre violencia en contra de las mujeres y sobre los derechos de las trabajadoras y las obligaciones de los empleadores;
 
@@ -575,9 +761,17 @@ II. Representar a las mujeres en procedimientos contemplados por la Ley de Justi
 
 III. Proporcionar asistencia jurídica gratuita a las mujeres víctimas de violencia desde el momento mismo en que lo soliciten y conforme lo establecido por la Ley de la materia;
 
-IV. Derivar en caso necesario a los centros de refugios temporal, establecidos en la presente ley, a mujeres víctimas de violencia; y
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-V. Las demás previstas para el cumplimiento de la presente ley.
+IV. Derivar en caso necesario a los centros de refugios temporal (sic), establecidos en la presente ley, a mujeres víctimas de violencia;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+V. En caso de tener conocimiento de un acto de violencia de género deberá comunicarse con la autoridad competente y atender a lo previsto en la norma oficial aplicable; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VI. Las demás previstas para el cumplimiento de la presente ley.
 
 #### Sección Décima.
 
@@ -599,11 +793,33 @@ V. Promover a través del Consejo que la atención ofrecida en las diversas inst
 
 VI. Promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
 
-VII. Promover cursos para educar, capacitar y sensibilizar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permitan juzgar con perspectiva de género;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-VIII. Fomentar la celebración de convenios de cooperación, coordinación y concertación con instituciones públicas y privadas en la materia; y
+VII. Promover de conformidad con su disponibilidad presupuestaria, cursos para educar, capacitar y sensibilizar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permitan juzgar con perspectiva de género;
 
-IX. Las demás previstas para el cumplimiento de la ley.
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VIII. Fomentar la celebración de convenios de cooperación, coordinación y concertación con instituciones públicas y privadas en la materia, así como para la capacitación y sensibilización de los sectores público, privado o social;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IX. Promover de conformidad con su presupuesto, y en coordinación con las autoridades encargadas de la aplicación de esta Ley, acciones afirmativas que consideren pertinentes para erradicar la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+X. Promover la creación de estrategias eficaces de asistencia integral que permitan a las mujeres víctimas de violencia contra las mujeres, así como la difusión de acciones encaminadas a la eliminación de violencia contra la mujer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XI. Promover de conformidad con su disponibilidad presupuestaria, la organización de actividades públicas y sociales que tengan como finalidad visibilizar los tipos y modalidades de violencia contra las mujeres, así como la difusión de acciones encaminadas a la eliminación de la violencia contra la mujer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XII. Promover la cultura de denuncia de la violencia contra las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XIII. Las demás previstas para el cumplimiento de la ley.
 
 #### Sección Décima Primera.
 
@@ -621,7 +837,9 @@ I. Celebrar convenios de colaboración con las dependencias e instituciones de a
 
 II. Apoyar, gestionar y suministrar recursos económicos para coadyuvar con el estado para el establecimiento de los centros de refugio temporal para mujeres víctimas de violencia;
 
-III. Apoyar, gestionar y suministrar recursos económicos para el establecimiento de centros de atención y rehabilitación para agresores;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Apoyar, gestionar y suministrar recursos económicos para el establecimiento de centros de atención y rehabilitación para personas agresoras;
 
 IV. Promover y difundir conocimientos y prácticas de respeto a los derechos de las mujeres; y
 
@@ -639,7 +857,9 @@ I. Diseñar, instrumentar y aplicar, en coordinación con los miembros del Conse
 
 II. Proporcionar atención, asesoría jurídica y tratamiento psicológico, especializado y gratuito a las víctimas de violencia, que favorezcan su empoderamiento, a través de los Centros de Refugio Temporal;
 
-III. Gestionar, operar, apoyar y suministrar, en coordinación con los demás integrantes del Consejo, los recursos económicos necesarios para el establecimiento de una red estatal de centros de refugio temporal para mujeres víctimas de violencia y de centros de atención y centros de rehabilitación para agresores;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Gestionar, operar, apoyar y suministrar, en coordinación con los demás integrantes del Consejo, los recursos económicos necesarios para el establecimiento de una red estatal de centros de refugio temporal para mujeres víctimas de violencia y de centros de atención y centros de rehabilitación para personas agresoras;
 
 IV. Establecer programas de apoyo para mujeres en condiciones de vulnerabilidad, que tiendan a fortalecer su desarrollo integral;
 
@@ -687,13 +907,21 @@ De la Universidad de Guadalajara y de las Instituciones Públicas de Educación 
 
 Corresponde al Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar, además de lo establecido en otros ordenamientos:
 
-I. Diseñar, instrumentar y operar, en coordinación con los miembros del Consejo, los modelos de atención integrales para agresores y mujeres víctimas de violencia;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Operar los Centros de Refugio Temporal para mujeres víctimas de violencia y los Centros de Atención y Rehabilitación para agresores;
+I. Diseñar, instrumentar y operar, en coordinación con los miembros del Consejo, los modelos de prevención y atención integrales para personas agresoras y mujeres víctimas de violencia familiar, donde se garantice la seguridad de las mujeres y sus hijas e hijos, así como el ejercicio pleno de todos sus derechos;
 
-III. Diseñar, instrumentar y operar, en coordinación con los miembros del Consejo, los modelos de atención integrales para agresores;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-IV. Promover la celebración de convenios con los ayuntamientos de la entidad a efecto de coordinar, capacitar y supervisar a los profesionistas en la aplicación de los programas de atención integral para víctimas y agresores; y
+II. Operar los Centros de Refugio Temporal para mujeres víctimas de violencia y los Centros de Atención y Rehabilitación para personas agresoras;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Diseñar, instrumentar y operar, en coordinación con los miembros del Consejo, los modelos de atención integrales para personas agresoras;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IV. Promover la celebración de convenios con los ayuntamientos de la entidad a efecto de coordinar, capacitar y supervisar a los profesionistas en la aplicación de los programas de atención integral para víctimas y personas agresoras; y
 
 V. Las demás que señale esta ley o su reglamento.
 
@@ -723,7 +951,9 @@ III. Promover, en coordinación con las instancias especializadas, cursos de cap
 
 IV. Apoyar la creación de centros de refugios temporales para mujeres víctimas de violencia;
 
-V. Apoyar la creación de programas de reeducación integral para los agresores;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+V. Apoyar la creación de programas de reeducación integral para las personas agresoras;
 
 VI. Participar y coadyuvar en la prevención, detección, atención y erradicación de la violencia contra las mujeres;
 
@@ -747,13 +977,19 @@ La prevención se llevará a cabo mediante acciones generalizadas en los ámbito
 
 Corresponde en materia de prevención a los integrantes del Consejo:
 
-I. Capacitar al personal de sus dependencias en materia de equidad de género;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Difundir campañas informativas permanentes sobre violencia en contra de las mujeres y de las instituciones que atienden a las víctimas;
+I. Capacitar al personal de sus dependencias en materia de derechos humanos, igualdad de género y la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Difundir, en coordinación con el Gobierno del Estado, campañas informativas permanentes sobre violencia en contra de las mujeres, sus tipos y modalidades y sobre las atribuciones y responsabilidades de las instituciones que atienden a las víctimas;
 
 III. Remitir información y estadísticas al Banco Estatal de Datos e Información sobre casos de violencia contra las mujeres en nuestro estado;
 
-IV. Realizar, facilitar o promover el desarrollo de investigación en torno a la violencia en contra de las mujeres y su acceso a la justicia;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IV. Realizar, facilitar o promover el desarrollo de investigación en torno a la violencia en contra de las mujeres y su acceso a la justicia, así como la creación de indicadores sobre el tema;
 
 V. Establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional; y
 
@@ -767,9 +1003,29 @@ Las autoridades estatales en coordinación con los gobiernos municipales deberá
 
 Las autoridades estatales y municipales deberán celebrar convenios con las instituciones públicas y/o privadas de educación superior, a fin de que cuenten con prestadores de servicio que incrementen la apertura de atención a las víctimas de violencia.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 45.
 
-La atención en materia de violencia en contra de las mujeres deberá ser prestada por personal profesional y especializado, continuamente capacitado en materia de equidad de género.
+La atención en materia de violencia en contra de las mujeres deberá ser prestada por personal profesional y especializado, continuamente capacitado en materia de igualdad de género.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 45 Bis.
+
+Para la adecuada atención, asistencia y protección a las mujeres víctimas de violencia se adoptarán de conformidad con su disponibilidad presupuestaria, entre otras, las siguientes medidas:
+
+I. Promover la atención inmediata y eficaz a las mujeres víctimas de violencia por parte de instituciones del sector salud, asistenciales y de servicio, tanto públicas como privadas;
+
+II. Proporcionar asistencia médica, psicológica y jurídica, de manera integral y gratuita a las víctimas;
+
+III. Canalizar a los centros de refugio temporal, cuando la situación lo requiera a efecto de garantizar su seguridad personal y sustraerlos de la situación de riesgo;
+
+IV. Promover servicios de asistencia para la rehabilitación para las personas agresoras;
+
+V. Evitar que la atención que reciban las víctimas y el agresor sea proporcionada por la misma persona; y
+
+VI. Prohibir los acuerdos reparatorios o la mediación en cualquier caso, por ser inviables en una relación de sometimiento entre la víctima y la persona agresora.
 
 ###### Artículo 46.
 
@@ -809,39 +1065,99 @@ Cada dependencia deberá expedir una constancia que contenga la información sob
 
 El acceso a la justicia de las mujeres se establece mediante una serie de medidas y acciones que garantizan la exigibilidad de sus derechos. Implica la instrumentación rápida y eficaz de medidas de protección, la asesoría y representación jurídica gratuita que permita sancionar los actos de violencia cometidos en su contra por particulares y servidores públicos y, en su caso, la reparación del daño.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Quienes tengan a su cargo la impartición de la justicia deberán de aportar datos que permitan la elaboración de indicadores para medir el acceso de las mujeres a la justicia, dicha información deberá ser disociada de su titular, para la protección de sus datos personales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 49 Bis.
+
+Las acciones de acceso a la justicia consisten en:
+
+I. Implementar de manera pronta, expedita y eficaz medidas de protección para las mujeres víctimas de violencia o en riesgo de serlo, para salvaguardar sus derechos humanos, su integridad física y psíquica, así como su bienes y patrimonio, tomando en cuenta las condiciones de vulnerabilidad en las que se encuentren;
+
+II. Actuar con la debida diligencia para orientar, acompañar y representar a las mujeres víctimas de violencia en los procedimientos en que participen, con el fin de que sean sancionados los actos de violencia cometidos en su contra, así como para hacer efectiva la reparación del daño; y
+
+III. Instrumentar acciones integrales que tiendan a disminuir los efectos de la violencia contralas (sic) mujeres y evitar la violencia institucional.
+
 ###### Artículo 50.
 
 La asesoría y representación jurídica gratuita que debe asegurar el Estado estará a cargo de abogados adscritos en las distintas dependencias que cuenten con personal para prestar dicho servicio.
 
 ### CAPÍTULO IV. DE LOS CENTROS DE REFUGIO TEMPORAL PARA MUJERES VÍCTIMAS DE VIOLENCIA
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 51.
 
-Los centros de refugios temporales son estancias especialmente acondicionadas para recibir a mujeres víctimas de violencia y a las víctimas indirectas, que operan con personal especializado de manera permanente.
+Los centros de refugio temporal son espacios especialmente acondicionados para recibir a mujeres víctimas de violencia y sus hijas e hijos, estos deben de ser confidenciales, seguros, temporales y gratuitos, los servicios que prestan deben de ser especializados y contar con personal que brinde atención integral, de calidad y de forma permanente, la estancia de las mujeres víctimas de violencia no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo;
+
+Los centros de refugio temporal facilitarán a las personas usuarias los medios para lograr su empoderamiento y lograr su desarrollo integral.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 52.
 
-Los centros de refugios temporales deberán ser lugares seguros, higiénicos, debidamente protegidos para evitar el ingreso del agresor. La dirección del centro podrá negar información de su ubicación y del nombre de las víctimas protegidas a personas no autorizadas por la autoridad que conoce del caso. Para ese efecto se considerará como información confidencial, cuando se trate de la aplicación de la Ley de Transparencia e Información Pública del estado de Jalisco.
+Corresponde a los centros de refugio temporal dentro de su ámbito de competencias y de conformidad con su viabilidad presupuestaria:
+
+I. Aplicar el Programa Estatal;
+
+II. Elaborar su reglamento interno de convivencia, y someterlo para su aprobación del titular del Poder Ejecutivo;
+
+III. Contar con el personal debidamente capacitado y especializado en la materia;
+
+IV. Velar por la seguridad de las personas que se encuentren en ellos;
+
+V. Procurar el anonimato de la ubicación de los centros de refugio temporal así como de las personas que alberguen;
+
+VI. Ser lugares seguros, higiénicos, debidamente protegidos para evitar el ingreso de la persona agresora;
+
+VII. Elaborar un registro de las personas albergadas, en el que se detalle sus vínculos de parentesco, tratándose de una familia, motivo de su ingreso y el tiempo de permanencia en las instalaciones;
+
+VIII. Registrar en una bitácora, la fecha y hora de la entrada y salida de todas las personas a las que se les permita el ingreso a las instalaciones del centro;
+
+IX. Brindar información necesaria que les permita decidir sobre las opciones de atención;
+
+X. Proponer a las autoridades competentes la expedición de protocolos de atención inmediata en los centros de refugio temporal; y
+
+XI. Todas aquellas inherentes a la protección y atención de las personas que se encuentren en ellos.
+
+La dirección del centro podrá negar información de su ubicación y del nombre de las personas albergadas a personas no autorizadas por la autoridad que conoce del caso. Para ese efecto se considerará como información confidencial, cuando se trate de la aplicación de la legislación en materia de protección a las víctimas del delito, así como transparencia, acceso a la información y protección de datos personales.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 53.
 
-Dentro de los centros de refugios temporales se brindarán los siguientes servicios:
+Dentro de los centros de refugios temporales y de conformidad con su disponibilidad presupuestal se brindarán los siguientes servicios:
 
-I. Atención médica y psicológica gratuita;
+I. Hospedaje;
 
-II. Orientar a las víctimas para que obtengan asesoría jurídica gratuita;
+II. Alimentación, vestido y calzado durante el periodo de estancia;
 
-III. Educación en materia de derechos de las mujeres y prevención de violencia;
+III. Atención médica y psicológica;
 
-IV. Capacitación para el desarrollo de habilidades para el empleo; y
+IV. Asesoría jurídica;
 
-V. Bolsa de trabajo, con la finalidad de que puedan tener actividad laboral remunerada.
+V. Educación en materia de derechos de las mujeres y prevención de violencia;
+
+VI. Capacitación para el desarrollo de habilidades para el empleo;
+
+VII. Bolsa de trabajo, con la finalidad de que puedan tener actividad laboral remunerada; y
+
+VIII. Apoyo institucional para la gestión del servicio de guardería para sus hijas e hijos.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 54.
 
-La operación de los centros de refugio temporal para mujeres víctimas de violencia estará a cargo del Sistema Estatal para el Desarrollo Integral de la Familia, quien ejercerá esta facultad a través del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar. En relación con los centros de refugio temporal tendrán las siguientes obligaciones:
+La operación de los centros de refugio temporal estará a cargo del Sistema Estatal para el Desarrollo Integral de la Familia, quien ejercerá esta facultad a través del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar. En relación con los centros de refugio temporal tendrán las siguientes obligaciones:
 
-I. Aplicar en forma integral los principios y lineamientos en atención a mujeres víctimas de violencia;
+I. Aplicar en forma integral los principios, protocolos de atención inmediata y lineamientos en atención a mujeres víctimas de violencia;
 
 II. Otorgar seguridad a las personas que se encuentran bajo su resguardo;
 
@@ -851,25 +1167,115 @@ IV. Las inherentes al cuidado, protección y asistencia de las personas que se e
 
 V. Las demás que les otorguen la presente ley y los demás ordenamientos aplicables a la materia.
 
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 55.
 
-La permanencia de las víctimas en los centros de refugios temporales no podrá ser mayor a tres meses, a menos de que persista su inestabilidad física, psicológica o su situación de riesgo.
+Para determinar la permanencia y conocer la condición de las víctimas en los centros de refugio temporal, deberán ser evaluadas por el personal médico, psicológico y jurídico del refugio, no se podrá mantener a ninguna persona contra su voluntad.
 
-### CAPÍTULO V. DE LAS MEDIDAS DE PROTECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO V. DE LAS ÓRDENES Y DEL MECANISMO DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 56.
 
-Las autoridades deben procurar que la autoridad jurisdiccional competente emita las medidas de protección y cautelares que contemplen los códigos civiles y penales, para salvaguardar la integridad y el patrimonio de la víctima.
+Las órdenes de protección son medidas de protección integral de las mujeres ante la violencia de género, de urgente aplicación en función del interés de la mujer víctima de violencia y son de carácter temporal, precautorio y cautelar.
+
+Deberán otorgarse por la autoridad competente, inmediatamente que conozcan de hechos que impliquen violencia contra las mujeres y que comprometan su integridad y seguridad personal.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 57.
 
-Sin menoscabo de las medidas de protección y cautelares que establece la legislación civil y penal, la autoridad administrativa competente debe otorgar inmediatamente que conozca de hechos que pongan en riesgo o peligro la integridad física o patrimonial de la víctima, arresto preventivo hasta por 36 horas.
+Para garantizar la integridad y seguridad de las mujeres víctimas de violencia, las y los jueces de primera instancia, municipales, ministerios públicos, síndicas y síndicos, dictarán las medidas y órdenes de protección previstas en la presente Ley, sin menoscabo de las que disponga la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, así como los códigos de procedimientos civiles y penales vigentes en el Estado y otras disposiciones legales, atendiendo al principio internacional del interés de la mujer víctima de violencia.
 
-### CAPÍTULO VI. DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN PARA AGRESORES
+Las órdenes de protección serán:
+
+I. De emergencia;
+
+II. Preventivas; y
+
+III. De naturaleza civil.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Artículo 57 A. Son órdenes de protección de emergencia las siguientes:
+
+I. Desocupación inmediata de la persona agresora del domicilio común o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+
+II. Prohibición inmediata al probable responsable de acercarse o comunicarse por cualquier vía, así como al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+
+III. Auxilio de la fuerza pública a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio;
+
+IV. Reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad;
+
+V. Prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia;
+
+VI. Protección a la imagen personal, eliminando toda fotografía, pintura o video, en formato original o alterado de cualquier medio electrónico o impreso en el que se reproduzca o difunda sin el consentimiento de la víctima su imagen o imágenes que supongan un daño a sus derechos de personalidad; y
+
+VII. Protección a la víctima y su familia, para lo cual la autoridad competente determinará las medidas necesarias que se deban de tomar para garantizar el respeto a sus derechos incluyendo la adopción de medidas para que no se revele su paradero.
+
+Las autoridades en casos de emergencia además de lo establecido en el presente Artículo deberán de realizar las acciones que estimen pertinentes conforme a lo previsto en esta Ley garantizando el respeto a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Artículo 57 B. Son órdenes de protección preventivas las siguientes:
+
+I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución de seguridad pública o privada, independientemente si las mismas se encuentran registradas o bajo resguardo conforme a la normatividad de la materia, así como las armas punzocortantes y punzocontundentes, independientemente de su uso, hayan sido empleadas o no para amenazar o lesionar a la víctima;
+
+II. Prohibición de la persona agresora de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio común previo inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+
+III. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias;
+
+IV. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
+
+VI (SIC). Acceso al domicilio en común, de autoridades o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
+
+VII. Posesión temporal exclusiva de la solicitante sobre el inmueble que sirvió de domicilio;
+
+VIII. Establecer el derecho de visitas o convivencia asistida o supervisada por la autoridad competente en materia de familia, niñas, niños y adolescentes. En caso de que la autoridad jurisdiccional lo estime necesario la suspensión o restricción temporal al agresor a las visitas y convivencia con sus descendientes en los términos de la legislación civil; y
+
+IX. La persona agresora deberá asistir a tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas y privadas debidamente acreditadas.
+
+En los caso de las fracciones II, III, VIII y VIII (SIC) las medidas deberán ser dictadas por la autoridad jurisdiccional competente.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Artículo 57 C. Las personas menores de edad, que requieran el otorgamiento de una orden de protección de emergencia o preventiva podrán ser representadas por la (sic) cualquier autoridad competente, pudiendo ser cualquiera de las siguientes: la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes; el Ministerio Público, o el padre, madre, tutor o familiar en línea recta ascendiente y colateral consanguíneos hasta segundo grado.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Artículo 57 D. Las órdenes de protección preventiva, son personalísimas e intransferibles, corresponderá a la autoridad competente, otorgar las órdenes señaladas en la presente ley, para lo que deberán tomar en consideración lo siguiente para determinar la duración de la misma:
+
+I. El riesgo o peligro existente;
+
+II. La seguridad de la víctima, o
+
+III. Los elementos con que se cuente.
+
+Deberán ser expedidas dentro de las ocho horas siguientes de que se tenga conocimiento del acto que la motiva; debiéndola notificar a la brevedad, la autoridad competente dictará los términos diferenciados de duración de cada medida otorgada, teniendo una duración mínima de setenta y dos horas y hasta por el plazo máximo que determine el juez, estas podrán ser prorrogables entre tanto subsista el riesgo.
+
+La mujer que lo solicite deberá de ser escuchada para determinar la duración.
+
+En el caso de las órdenes de protección de emergencia dictadas por el ministerio público la duración será de setenta y dos horas y podrán ser ampliadas por la autoridad jurisdiccional por el tiempo que considere de a (sic) la autoridad competente siempre y cuando existan actuaciones sustentables que acrediten la prevalencia de la violencia.
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Artículo 57 E. Las y los jueces de primera instancia en materia civil o familiar, emitirán en el ámbito de su competencia las órdenes de protección de naturaleza civil en los términos previstos en el Código de Procedimientos Civiles del Estado.
+
+Las autoridades jurisdiccionales competentes valorarán las órdenes de protección y la determinación de medidas de protección necesarias para salvaguardar la integridad de las mujeres víctimas de violencia en sus resoluciones o sentencias, con motivo de los juicios o procesos que se sigan en materia civil, familiar o penal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO VI. DE LOS CENTROS DE ATENCIÓN Y REHABILITACIÓN PARA PERSONAS AGRESORAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 58.
 
-Los agresores deberán asistir de manera voluntaria o previa resolución de autoridad competente a los centros de rehabilitación para obtener la ayuda profesional adecuada a efecto de que superen y controlen emocionalmente la conducta agresiva que dio origen a la intervención de la autoridad.
+Las personas agresoras deberán asistir de manera voluntaria o previa resolución de autoridad competente a los centros de rehabilitación para obtener la ayuda profesional adecuada a efecto de que superen y controlen emocionalmente la conducta agresiva que dio origen a la intervención de la autoridad.
 
 Los centros deben funcionar en lugar diferente a donde se instalan los centros de refugios temporales para mujeres víctimas de violencia.
 
@@ -877,15 +1283,21 @@ Los centros deben funcionar en lugar diferente a donde se instalan los centros d
 
 Los centros de atención y rehabilitación para agresores estarán a cargo del Sistema Estatal para el Desarrollo Integral de la Familia, quien ejercerá esta facultad a través del Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar, y tendrán las obligaciones siguientes:
 
-I. Aplicar el programa estatal apoyado en los modelos psicoeducativos para atención de agresores aprobados por su dependencia;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Proporcionar a los agresores la atención profesional que se requiera para que superen la conducta agresiva; y
+I. Aplicar el programa estatal apoyado en los modelos psicoeducativos para atención de personas agresoras aprobados por su dependencia;
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Proporcionar a las personas agresoras la atención profesional que se requiera para que superen la conducta agresiva; y
 
 III. Proporcionar talleres educativos para motivar la reflexión sobre los patrones socioculturales que generan conductas violentas y como superarlas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 60.
 
-Los centros brindarán a los agresores los siguientes servicios:
+Los centros brindarán a las personas agresoras los siguientes servicios:
 
 I. Tratamiento psicológico o psiquiátrico según lo requiera de acuerdo a un dictamen pericial; y
 
@@ -954,3 +1366,9 @@ P.O. 9 DE AGOSTO DE 2014.
 P.O. 21 DE JULIO DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor en los términos de la fracción I del decreto número 24864/LX/14, previa su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Jalisco deberá actualizar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco, considerando lo señalado en el presente decreto, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor del presente decreto.
