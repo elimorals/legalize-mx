@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-11863"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-27"
-last_updated: "2012-11-20"
+last_updated: "2015-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1º DE ENERO DEL AÑO 2016.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 27 de enero de 1998.
 
@@ -686,3 +688,27 @@ P.O. 21 DE FEBRERO DE 2004.
 P.O. 20 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 1 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el 1º de enero del año 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco", con las salvedades establecidas en los artículos transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley para el Ejercicio de las Profesiones del Estado de Jalisco.
+
+TERCERO. La certificación profesional será obligatoria a partir del séptimo año de vigencia de la Ley.
+
+CUARTO. Los profesionistas que estén obligados a presentar su certificación profesional y que al cumplirse dos años de publicada esta Ley no cuenten con cédula definitiva, deberán observar el procedimiento de certificación previsto en el artículo 55 de la Ley.
+
+QUINTO. Los profesionistas que estén obligados a presentar su certificación profesional y cuenten con cédula definitiva con antelación a lo que establece el transitorio cuarto, podrán certificarse bajo la modalidad de evidencias de actualización continua previstas en el artículo 55 fracción III de la Ley, de acuerdo a los criterios que establezca la Comisión. En este caso no será obligatorio renovar su cédula.
+
+SEXTO. La Comisión podrá implementar una prueba piloto del proceso de certificación profesional a partir del año 2019. Para los profesionistas que participen y acrediten la certificación, será considerada con todos los efectos legales previstos por la Ley.
+
+SÉPTIMO. Todos los colegios de profesionistas que, a la entrada en vigor de la presente Ley, se encuentren debidamente reconocidos, autorizados y registrados ante la Dirección, contarán con dos años a partir de la entrada en vigor de la Ley, para cumplir con los requisitos previstos y así conservar su registro.
+
+OCTAVO. Las instituciones educativas que a la fecha de entrada en vigor de esta Ley se encuentren prestando sus servicios educativos en el Estado y aún no se han registrado en la Dirección, contarán con seis meses para hacerlo.
+
+NOVENO. Todos los lineamientos y registros dispuestos por esta Ley, así como sus Reglamentos, deberán quedar conformados y puestos en operación por la autoridad dentro del plazo de doce meses, contados a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO. La Comisión Interinstitucional se pondrá en funcionamiento dentro de los dieciocho meses siguientes a la entrada en vigor del presente Decreto.
+
+DÉCIMO PRIMERO. El primer Catálogo General de Actividades Profesionales deberá quedar emitido por la Comisión Interinstitucional dentro del plazo de dos años contado (sic) a partir de la entrada en vigor del presente Decreto.
