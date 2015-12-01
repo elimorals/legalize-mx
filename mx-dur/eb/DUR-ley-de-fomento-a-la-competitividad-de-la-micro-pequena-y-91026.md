@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-a-la-competitividad-de-la-micro-pequena-y-91026"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-06"
-last_updated: "2014-07-06"
+last_updated: "2015-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de diciembre de 2012.
 
@@ -33,9 +35,7 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fecha 13 de Abril del año 2011, y con fecha 14 de Junio del año 2011, los CC. DIPUTADOS: SERGIO URIBE RODRÍGUEZ Y ALFREDO HÉCTOR ORDAZ HERNÁNDEZ, Integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, presentaron una Iniciativa que contiene Ley de Fomento a la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Durango; y la segunda Iniciativa presentada por los Diputados JORGE ALEJANDRO SALUM DEL PALACIO, JOSÉ ANTONIO OCHOA RODRÍGUEZ, GINA GERARDINA CAMPUZANO GONZÁLEZ, JUDITH MURGUÍA CORRAL Y ALEONSO PALACIO JÁQUEZ, integrantes del Grupo Parlamentario del Partido Acción Nacional de la LXV Legislatura, que contiene Ley de Fomento a la Micro, Pequeña y Mediana Empresa para el Estado de Durango; mismas que fueron turnadas a la Comisión de Desarrollo Económico, integrada por los CC. Diputados Sergio Uribe Rodríguez, Jorge Alejandro Salum del Palacio, Marcial Saúl García Abraham, José Francisco Acosta Llanes y Raúl Antonio Meraz Ramírez; Presidente, Secretario, y Vocales respectivamente, los cuales emitieron su dictamen favorable en base a los siguientes:
 
-C O N S I D E R A N D O S:
-
-.
+C O N S I D E R A N D O S:...
 
 Con base en los anteriores Considerandos, esta H. LXV Legislatura del Estado, expide el siguiente:
 
@@ -404,3 +404,19 @@ P.O. 6 DE JULIO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Económico para el Estado de Durango, aprobada mediante Decreto No. 136, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 9 de fecha 31 de julio del año 2005, así como sus reformas.
+
+TERCERO. Se abroga la Ley de Fomento a la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Durango, aprobada mediante Decreto No. 383, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 46 bis de fecha 6 de diciembre del año 2012.
+
+CUARTO. Se abroga la Ley de Fomento al Emprendedurismo Juvenil del Estado de Durango, aprobada mediante Decreto No. 451, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 51 BIS de fecha 23 de diciembre del año 2012.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+SEXTO. El Gobernador del Estado, por conducto de la Secretaría contará con un plazo de 180 días naturales para expedir las disposiciones reglamentarias de la presente Ley.
+
+El Gobernador del Estado, por conducto de la Secretaría podrá emitir lineamientos generales para la aplicación de la presente Ley, en tanto se publica el Reglamento sin que ello implique una ampliación en el plazo a que hace referencia el párrafo anterior.
