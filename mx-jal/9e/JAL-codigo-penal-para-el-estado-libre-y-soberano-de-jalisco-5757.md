@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2015-11-05"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -913,13 +913,11 @@ El tratamiento de deshabituación o desintoxicación es el que procede cuando el
 
 El tratamiento de deshabituación o desintoxicación podrá cumplirse en organizaciones públicas o privadas propuestas por el sentenciado de conformidad con la ley general en materia de ejecución de penas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 49.
 
-Al responsable del delito de violencia intrafamiliar o de un delito cometido contra una persona con quien tenga relación de parentesco, matrimonio, concubinato o análoga se le someterá a un tratamiento psicoterapéutico integral, para su reinserción.
+Al responsable del delito de violencia familiar o de un delito cometido contra una persona con quien tenga relación de parentesco, matrimonio, concubinato o análoga se le someterá a un tratamiento psicoterapéutico integral, para su reinserción.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1045,7 +1043,9 @@ En el caso en que el sujeto activo del delito sea delincuente primario y tenga, 
 
 Cuando por haber sufrido el sujeto activo consecuencias graves en su persona o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa de libertad, el juez de control o el tribunal, de oficio o a petición de parte motivando su resolución, podrán prescindir de ella o sustituirla por una medida de seguridad, para lo cual se apoyarán siempre en dictámenes de peritos.
 
-Cuando se cometa un delito en contra de algún miembro de la familia, el juez de control o el tribunal podrán imponer el tratamiento previsto por el delito de violencia intrafamiliar, independientemente de las penas relativas al delito.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Cuando se cometa un delito en contra de algún miembro de la familia, el juez de control o el tribunal podrán imponer el tratamiento previsto por el delito de violencia familiar, independientemente de las penas relativas al delito.
 
 En los delitos que por cuestiones de género sean cometidos en agravio de mujeres, se aumentará la pena privativa de la libertad en una tercera parte.
 
@@ -3261,7 +3261,7 @@ La pena se aumentará al doble de la ya señalada, cuando el inculpado sea integ
 
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ### CAPITULO II. Estupro y Prostitución Infantil
 
@@ -3327,33 +3327,9 @@ Se equipara a la violación, la introducción por vía vaginal o anal con fines 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MAYO DE 2008)</small>
 
-### CAPITULO I. De la Violencia Intrafamiliar
+### CAPITULO I. De la Violencia Familiar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-###### Art. 176 Ter.
-
-Comete el delito de violencia intrafamiliar quien infiera maltrato en contra de uno o varios miembros de su familia, tales como cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
-
-Para efectos del párrafo anterior, se entiende por maltrato los actos u omisiones que causen un deterioro a la integridad física o psicológica, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
-
-Al responsable de este delito se le impondrán de seis meses a cuatro años de prisión, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este código aplicándose para ello las reglas de concurso de delitos. Además, se impondrán, a juicio del Juez, las penas conjuntas o separadas de la perdida de la custodia que tenga respecto de la víctima, la prohibición de ir a lugar determinado o residir en el y tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-Se equipara a violencia intrafamiliar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, de quien habite en el domicilio del agresor o de la persona a quien el agresor le deba dar cuidado o protección. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2014)</small>
-
-El maltrato que se infiera en contra de un hijo, adoptado, menor de edad, o a quien le deba dar cuidado y protección será considerado maltrato infantil el cual se encuentra previsto en el artículo 142-N del presente Código.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 176 Bis.
 
@@ -3378,6 +3354,30 @@ Estos delitos sólo serán perseguidos por querella del ofendido o de su legíti
 ## TITULO DECIMO TERCERO. VIOLACION A LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
 ### CAPITULO V. Bigamia
+
+###### Art. 176
+
+Ter. Comete el delito de violencia familiar quien infiera maltrato en contra de uno o varios miembros de su familia, tales como cónyuge, pariente consanguíneo hasta cuarto grado, pariente afín hasta cuarto grado, concubina o concubinario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+
+Para efectos del párrafo anterior, se entiende por maltrato los actos u omisiones que causen un deterioro a la integridad física o psicológica, o que afecte la libertad sexual de alguna de las víctimas, independientemente de que se cometa o no otro delito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2008)</small>
+
+Al responsable de este delito se le impondrán de seis meses a cuatro años de prisión, sin perjuicio de la sanción que corresponda por la comisión de cualquier otro delito previsto por este código aplicándose para ello las reglas de concurso de delitos. Además, se impondrán, a juicio del Juez, las penas conjuntas o separadas de la perdida de la custodia que tenga respecto de la víctima, la prohibición de ir a lugar determinado o residir en el y tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas.
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Se equipará a violencia familiar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, los hijos de éste o aquélla de quien habite en el domicilio de la persona agresora o hubiera habitado en el mismo, o de la persona a quien la persona agresora le deba dar cuidado o protección; la misma pena se le impondrá la persona agresora, si la víctima abandonó el domicilio al momento de la realización del hecho y que por dicha situación haya tenido que retirarse del mismo. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2014)</small>
+
+El maltrato que se infiera en contra de un hijo, adoptado, menor de edad, o a quien le deba dar cuidado y protección será considerado maltrato infantil el cual se encuentra previsto en el artículo 142-N del presente Código.
 
 ### CAPITULO VI. Incesto
 
@@ -3885,7 +3885,9 @@ II. Cuando exista o haya existido entre el activo y la víctima una relación la
 
 III. Cuando el sujeto activo haya cometido actos de odio o misoginia contra la víctima;
 
-IV. Cuando el sujeto activo haya realizado actos de violencia intrafamiliar en contra de la víctima;
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+IV. Cuando el sujeto activo haya realizado actos de violencia familiar en contra de la víctima;
 
 V. Cuando de la escena del crimen se desprendan indicios de humillación o denigración de parte del sujeto activo hacia la víctima;
 
@@ -3901,7 +3903,9 @@ X. Cuando el cuerpo de la víctima sea expuesto o arrojado en lugar público, y
 
 XI. Cuando la víctima haya sido incomunicada.
 
-Cuando la víctima sea menor de edad o con capacidades diferentes, se impondrán de treinta a cincuenta años de prisión.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Cuando la víctima sea persona menor de edad o persona con discapacidad, se impondrán de treinta a cincuenta años de prisión.
 
 En caso de que no se acredite el feminicidio se aplicarán las reglas del homicidio o parricidio, según corresponda.
 
@@ -5693,19 +5697,19 @@ Cuarto. En caso de no haber designación de Auditor Superior del Estado al día 
 
 Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
 
-La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
 
 Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
 
 En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
 
-Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoria Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
 
-Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoria Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoria Superior.
 
-Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoria Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
 
-Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+Noveno. El Poder Legislativo, en conjunto con la Auditoria Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
 
 Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
 
@@ -6130,3 +6134,9 @@ CUARTO. La instalación de los ciclopuertos en espacios públicos, se realizará
 QUINTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Procuraduría de Infraestructura y Desarrollo Urbano realizará las adecuaciones necesarias a su Reglamento Interno, sus manuales de Organización y Procedimiento, y las normas de funcionalidad del organismo que las requieran, de conformidad con lo establecido en las fracciones X y XI del artículo 21 del Código Urbano para el Estado de Jalisco.
 
 SEXTO. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, el Consejo Estatal de Desarrollo Urbano realizará las adecuaciones necesarias a su reglamento, de conformidad con lo establecido en la fracción XIII del artículo 43 del Código Urbano para el Estado de Jalisco.
+
+P.O. 1 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Titular del Poder Ejecutivo del Estado de Jalisco deberá actualizar el Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Jalisco, considerando lo señalado en el presente decreto, en un plazo no mayor a sesenta días, contados a partir de la entrada en vigor del presente decreto.
