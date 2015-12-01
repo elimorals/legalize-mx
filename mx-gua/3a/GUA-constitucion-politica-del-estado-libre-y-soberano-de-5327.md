@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2015-11-20"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -233,15 +233,27 @@ El Gobernador del Estado hará la declaratoria correspondiente en cada caso espe
 
 No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el inculpado lo cometió o participó en su comisión.
 
-En los casos especiales previstos en la ley, la audiencia para orden de aprehensión, que por cualquier medio solicite el Ministerio Público, se celebrará dentro de las dos horas siguientes de recibida la solicitud, en la que se emitirá resolución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+La audiencia para orden de aprehensión, que por cualquier medio solicite el Ministerio Público, se resolverá dentro de un plazo máximo de veinticuatro horas siguientes de recibida la solicitud, en la que se emitirá resolución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+En casos urgentes, cuando se trate de delito grave así calificado por la Ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
 
 Cualquier persona puede detener al inculpado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
 
 En el caso de flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
-La autoridad judicial, a petición de los agentes del Ministerio Público que establezca la ley y tratándose de los delitos graves que ésta determine, podrá decretar el arraigo de una persona con las modalidades de lugar y tiempo que la ley señale, sin que pueda exceder del improrrogable plazo de cuarenta días, siempre que sea necesario para el éxito de la investigación, la protección de personas o bienes jurídicos, o cuando exista riesgo fundado de que el inculpado se sustraiga a la acción de la justicia.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
-Ningún inculpado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial, salvo que se haya decretado su arraigo. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Ningún inculpado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
 
 En toda orden de cateo, que sólo la autoridad judicial podrá expedir, a solicitud del Ministerio Público, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
@@ -3543,9 +3555,7 @@ Artículo Segundo. El sistema procesal penal acusatorio previsto en los artícul
 
 El Poder Legislativo deberá emitir una declaratoria que se publicará en el Periódico Oficial del Gobierno del Estado, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado plenamente en el Estado Libre y Soberano de Guanajuato y en consecuencia, las garantías que consagran la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, regularán la forma y términos en que se substanciarán los procedimientos penales.
 
-Artículo Tercero. En tanto se determinan en la ley los agentes del Ministerio Público y las modalidades del arraigo a que se refiere el párrafo quinto del artículo 6 de esta Constitución, se podrá pedir arraigo domiciliario por el Procurador General de Justicia, los Subprocuradores y los agentes del Ministerio Público adscritos a la Subprocuraduría de Investigación Especializada, de la Procuraduría General de Justicia.
-
-Asimismo, en tanto se precisan en la ley los delitos graves por los que podrá ordenarse el arraigo, a partir de la entrada en vigor del presente Decreto, procederá por los delitos de secuestro, contra la salud, robo de vehículos, tráfico de menores e incapaces, prostitución de menores, trata de personas y evasión de detenidos.
+Artículo Tercero. (DEROGADO, P.O. 1 DE DICIEMBRE DE 2015)
 
 Artículo Cuarto. El nuevo sistema de reinserción previsto en el párrafo segundo del artículo 8 de esta Constitución, así como el régimen, de modificación y duración de penas, establecido en el párrafo cuarto del artículo 8 de esta Constitución, entrará en vigor cuando lo establezca la legislación secundaria correspondiente, sin que pueda exceder del diecinueve de junio de dos mil once.
 
@@ -3732,3 +3742,17 @@ P.O. 20 DE NOVIEMBRE DE 2015.
 DECRETO NÚMERO 8 POR EL QUE SE ADICIONA UN PÁRRAFO NOVENO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 1 DE DICIEMBRE DE 2015.
+
+Inicio de vigencia respecto de la supresión del arraigo
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con la excepción que se señala en el artículo siguiente.
+
+Inicio de la vigencia para la armonización con el C.N.P.P.
+
+Artículo Segundo. La reforma del párrafo segundo y la adición del párrafo tercero al artículo 6, entrarán en vigencia el 1 de junio de 2016.
+
+Derogación del artículo tercero transitorio de la reforma constitucional de 2010
+
+Artículo Tercero. Se deroga el Artículo Tercero Transitorio del Decreto número 53 publicado en el Periódico Oficial del Gobierno del Estado número 33, segunda parte de fecha 26 de febrero de 2010.
