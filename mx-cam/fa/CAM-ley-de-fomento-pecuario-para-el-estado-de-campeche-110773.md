@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fomento-pecuario-para-el-estado-de-campeche-110773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-18"
-last_updated: "2015-11-18"
+last_updated: "2015-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "CAM"
 ---
 # LEY DE FOMENTO PECUARIO PARA EL ESTADO DE CAMPECHE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE FOMENTO PECUARIO PARA EL ESTADO DE CAMPECHE
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1° DE ENERO DE 2016, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 1 DE DICIEMBRE DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 18 de noviembre de 2015.
 
@@ -1774,3 +1774,19 @@ QUINTO: Se derogan las disposiciones legales y reglamentarias que se opongan al 
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los veintiocho días del mes de septiembre del año dos mil quince.
 
 C. Ramón Gabriel Ochoa Peña, Diputado Presidente.- C. Jesús Antonio Quiñones Loeza, Diputado Secretario.- C. Adda Luz Ferrer González, Diputada Secretaria.- Rúbricas.
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+RAFAEL ALEJANDRO MORENO CÁRDENAS, Gobernador Constitucional del Estado Libre y Soberano de Campeche, mediante el presente Decreto, se hace saber a los habitantes del Estado de Campeche:
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberano de Campeche me ha dirigido el Decreto número 298, por lo que, en cumplimiento de lo dispuesto por los artículos 48, 49 y 71, fracción XVIII, de la Constitución Política del Estado de Campeche, lo sanciono, mando se imprima, publique y circule para su debida observancia.
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, a los veintinueve días del mes de septiembre del año dos mil quince.
+
+> <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2015)</small>
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
