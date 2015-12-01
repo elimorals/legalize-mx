@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-economico-para-el-estado-de-durango-45889"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-31"
-last_updated: "2012-12-06"
+last_updated: "2015-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY DE DESARROLLO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de julio de 2005.
 
@@ -924,3 +926,19 @@ PRIMERO. El presente decreto entrará en vigor a partir del día 01 de enero de 
 SEGUNDO. El Gobernador del Estado, por conducto de la Secretaria contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente decreto para hace (sic) las adecuaciones pertinentes al reglamento de la Ley de Desarrollo Económico para el Estado de Durango.
 
 TERCERO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
+
+P.O. 1 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 465.- QUE CONTIENE LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga la Ley de Desarrollo Económico para el Estado de Durango, aprobada mediante Decreto No. 136, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 9 de fecha 31 de julio del año 2005, así como sus reformas.
+
+TERCERO. Se abroga la Ley de Fomento a la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Durango, aprobada mediante Decreto No. 383, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 46 bis de fecha 6 de diciembre del año 2012.
+
+CUARTO. Se abroga la Ley de Fomento al Emprendedurismo Juvenil del Estado de Durango, aprobada mediante Decreto No. 451, publicado en el Periódico Oficial del Gobierno del Estado de Durango No. 51 BIS de fecha 23 de diciembre del año 2012.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+SEXTO. El Gobernador del Estado, por conducto de la Secretaría contará con un plazo de 180 días naturales para expedir las disposiciones reglamentarias de la presente Ley.
