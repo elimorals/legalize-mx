@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2015-11-13"
+last_updated: "2015-12-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -234,7 +234,9 @@ IV. A la Secretaría del Medio Ambiente:
 
 6.- Dirección General de Bosques Urbanos y Educación Ambiental; y
 
-7.- Dirección Ejecutiva de Vigilancia Ambiental.
+> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+7.- Dirección General de Vigilancia Ambiental.
 
 Asimismo, se le adscribe el Órgano Desconcentrado Sistema de Aguas de la Ciudad de México.
 
@@ -3616,9 +3618,9 @@ VI. Establecer y mantener actualizado el registro obligatorio de las fuentes fij
 
 VII. Establecer y mantener actualizado el inventario de emisiones generadas por las fuentes emisoras de la competencia del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-VIII. Establecer criterios técnicos y coadyuvar con la Dirección Ejecutiva de Vigilancia Ambiental en la operación de los sistemas de verificación de fuentes fijas de la jurisdicción del Distrito Federal, así como en los programas de reducción de emisiones contaminantes y de combustibles alternos;
+VIII. Establecer criterios técnicos y coadyuvar con la Dirección General de Vigilancia Ambiental en la operación de los sistemas de verificación de fuentes fijas de la jurisdicción del Distrito Federal, así como en los programas de reducción de emisiones contaminantes y de combustibles alternos;
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -3668,7 +3670,9 @@ III. Coordinar el registro de descargas de aguas residuales de fuentes fijas que
 
 IV. Proporcionar los fundamentos técnicos para el diseño y aplicación de leyes, reglamentos y normas en materia de protección al ambiente, en coordinación con los órganos político administrativos competentes;
 
-V. Establecer lineamientos y coadyuvar con la Dirección Ejecutiva de Vigilancia, la observancia de las normas oficiales mexicanas y demás normativa en materia de medio ambiente y recursos naturales, en el ámbito de la competencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+V. Establecer lineamientos y coadyuvar con la Dirección General de Vigilancia Ambiental, la observancia de las Normas Oficiales Mexicanas y demás normativa en materia de medio ambiente y recursos naturales, en el ámbito de la competencia del Distrito Federal;
 
 VI. Integrar en coordinación con los órganos administrativos y demás autoridades competentes, los comités de normalización en los que deba participar la Administración Pública del Distrito Federal en materia ambiental;
 
@@ -3694,11 +3698,15 @@ XVI. Promover y aplicar estándares e indicadores de calidad ambiental;
 
 XVII. Participar en el diseño de la política ambiental en materia de estímulos e incentivos y proponer la creación de instrumentos económicos para el control de la contaminación ambiental;
 
-XVIII. Realizar análisis costo-beneficio de las políticas e instrumentos ambientales y coadyuvar con la Dirección Ejecutiva de Planeación y Coordinación de Políticas en la evaluación de programas e instrumentos de política ambiental;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Realizar análisis costo-beneficio de las políticas e instrumentos ambientales y coadyuvar con la Dirección General de Planeación y Coordinación de Políticas en la evaluación de programas e instrumentos de política ambiental;
 
 XIX. Realizar análisis económicos aplicados para ponderar diferentes opciones ligadas tanto al aprovechamiento y la conservación de recursos y servicios ambientales, como a la prevención y control de procesos de contaminación ambiental;
 
-XX. Coadyuvar con la Dirección Ejecutiva de Vigilancia Ambiental en la inspección y vigilancia ambiental, así como en la operación de los sistemas de verificación ambiental de competencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XX. Coadyuvar con la Dirección General de Vigilancia Ambiental en la inspección y vigilancia ambiental, así como en la operación de los sistemas de verificación ambiental de competencia del Distrito Federal;
 
 XXI. Evaluar y, en su caso, otorgar las autorizaciones en materia de planes de manejo para los residuos sólidos; y
 
@@ -4018,63 +4026,129 @@ XXII. Elaborar, en su caso, los estudios e investigaciones tecnológicas, así c
 
 XXIII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-Artículo 56 Quintus.- Corresponde a la Dirección Ejecutiva de Vigilancia Ambiental:
+Artículo 56 Quintus.- Corresponde a la Dirección General de Vigilancia Ambiental:
 
-I. Realizar la planeación estratégica y operativa de la inspección y vigilancia de las fuentes de contaminación ambiental así como de los recursos naturales del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-II. Integrar, coordinar y operar el sistema de vigilancia ambiental del Distrito Federal, en cumplimiento de las disposiciones jurídicas aplicables, así como en las ciclovías y áreas naturales protegidas competencia del Distrito Federal;
+I. Coordinar las estrategias y acciones de inspección y vigilancia para verificar el cumplimiento de la legislación aplicable en materia ambiental a las fuentes de contaminación ambiental, fijas y móviles, así como en suelo urbano, suelo de conservación, áreas de valor ambiental y áreas naturales protegidas, competencia del Distrito Federal;
 
-III. Establecer, coordinar y desarrollar las actividades de inspección y vigilancia ambiental; así como ordenar la realización de visitas y actos de inspección correspondientes;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+II. Coordinar y operar los sistemas de vigilancia y de video-vigilancia ambiental en suelo urbano, suelo de conservación, áreas de valor ambiental y áreas naturales protegidas del Distrito Federal, para verificar el cumplimiento de las disposiciones jurídicas aplicables en materia ambiental de competencia local;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+III. Establecer, coordinar y ordenar de conformidad con la normatividad aplicable en materia ambiental para el Distrito Federal, los actos de inspección y vigilancia ambiental e imponer medidas correctivas de urgente aplicación y de seguridad, así como las sanciones administrativas procedentes;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 IV. Vigilar y aplicar, en el ámbito de la competencia del Distrito Federal, la observancia de las normas oficiales mexicanas en materia de medio ambiente y recursos naturales y de las normas ambientales del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+
 V. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables en materia de inspección ambiental, que establezcan requisitos, limites o condiciones a los particulares para la descarga de emisiones contaminantes a la atmósfera, agua, suelo, redes de drenaje y alcantarillado, así como para la generación de contaminantes visuales y las emisiones de ruido, vibraciones energía térmica, lumínica y olores;
 
-VI. Prevenir los actos u omisiones que atentan contra el medio ambiente por la emisión de contaminantes o la relación de obras o actividades que requieren autorización en materia de impacto ambiental y riesgo y en su caso, denunciar aquellos que pudieran constituir delitos conforme a lo previsto en la Legislación Penal aplicable;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+VI. Prevenir los actos u omisiones que atentan contra el medio ambiente por la emisión de contaminantes o la relación de obras o actividades que requieran autorización en materia de impacto ambiental y riesgo;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 VII. Vigilar el cumplimiento de los términos en que se otorguen las autorizaciones de impacto y riesgo ambiental, así como de la licencia ambiental única de fuentes fijas de competencia del Distrito Federal;
 
-VIII. Proponer al titular de la Secretaría del Medio Ambiente y vigilar el cumplimiento de los lineamientos y medidas para limitar la circulación de vehículos cuyos niveles de emisión sean ostensiblemente contaminantes o que rebasan los límites máximos permisibles establecidos en las normas oficiales mexicanas aplicables;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-IX. Controlar la circulación de vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles establecidos en las normas oficiales mexicanas aplicables, o aquellos determinados por las autoridades competentes;
+VIII. Proponer al titular de la Secretaría del Medio Ambiente las políticas y lineamientos en materia de inspección y vigilancia ambiental;
 
-X. Vigilar que los centros de verificación vehicular operen correctamente los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en la Ley Ambiental del Distrito Federal, Normas Oficiales Mexicanas, Normas Ambientales para el Distrito Federal, Programa de Verificación y demás disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-XI. Programar, coordinar con otras áreas competentes y ejecutar la inspección de las fuentes de contaminación ambiental;
+IX. Coordinar las acciones de vigilancia en materia vehicular para verificar el cumplimiento de las normas sobre los niveles de emisión de contaminantes, así como de aquellos que rebasen los límites máximos permisibles, establecidos en las Normas Oficiales Mexicanas aplicables, o aquellos determinados por las autoridades competentes;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+X. Coordinar la inspección y vigilancia ambiental en centros de verificación vehicular, mediante el apoyo de nuevas tecnologías como la video-vigilancia remota y demás que se requieran;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XI. Coadyuvar con las diversas instancias de la Administración Pública del Distrito Federal y de la Administración Pública Federal, en los actos de inspección y vigilancia en el ámbito de sus respectivas competencias;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 XII. Vigilar el cumplimiento de las condiciones y límites de descargas de aguas residuales de fuentes fijas que se vierten a los sistemas de drenaje, alcantarillado y demás cuerpos receptores de jurisdicción del Distrito Federal;
 
-XIII. Elaborar, aprobar, publicar y aplicar, en el ámbito de su competencia, en coordinación y con la participación que corresponda a las demás autoridades competentes, programas y medidas para prevenir y controlar contingencias ambientales y emergencias ecológicas ocasionadas por la contaminación del suelo, subsuelo, manto freático y cuerpos acuáticos receptores en el Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-XIV. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables en materia de bosques y áreas verdes urbanas, a fin de prevenir los actos u omisiones que atentan contra la integridad de recursos naturales en áreas verdes de suelo urbano;
+XIII. Participar en el ámbito de su competencia, en la elaboración de programas y medidas para prevenir y controlar emergencias y contingencias ambientales;
 
-XV. Supervisar y vigilar las actividades de poda, transplante y derribo de árboles en suelo urbano así como los trabajos de imagen urbana y mantenimiento de las áreas verdes urbanas y demás recursos naturales localizados en la Red Primaria del Distrito Federal en las alamedas y parques que por su belleza, valor cultural y ambiental requieren de cuidado y protección especial;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-XVI. Tramitar los procedimientos por infracciones a la normativa en materia de contaminación ambiental, autorizaciones de impacto y riesgo ambiental y funcionamiento de los establecimientos autorizados para la realización de verificaciones vehiculares y prestadores de servicios ambientales e imponer las sanciones administrativas y medidas de seguridad que procedan;
+XIV. Coordinar y operar la inspección y vigilancia en materia de impacto ambiental y riesgo de conformidad con la normatividad aplicable para el Distrito Federal;
 
-XVII. Realizar acciones de vigilancia sobre el uso, destino y cambio de uso de suelo en el de conservación del Distrito Federal;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XV. Coordinar la inspección y vigilancia de las actividades relacionadas con la poda, trasplante y derribo de arbolado en suelo urbano de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XVI. Iniciar, tramitar y resolver los procedimientos administrativos derivados de los actos de inspección, verificación y vigilancia que impliquen infracciones e incumplimientos a la normatividad ambiental aplicable en el Distrito Federal, e imponer en su caso, las medidas de seguridad, correctivas o de urgente aplicación que sean necesarias, así como las sanciones procedentes;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XVII. Participar de manera interinstitucional en las acciones necesarias para la inspección y vigilancia del uso, destino y cambio de uso de suelo en áreas de valor ambiental, suelo de conservación y áreas naturales protegidas del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 XVIII. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables en el manejo y aprovechamiento de las áreas naturales protegidas y de los recursos naturales;
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+
 XIX. Promover y vigilar en coordinación con las autoridades competentes, el aprovechamiento sustentable de los recursos en las actividades agrícolas, pecuarias, apícolas y piscícolas en la zona rural del Distrito Federal;
 
-XX. Promover la organización campesina e inducir la participación de los habitantes en programas (sic) vigilancia que contribuyan a evitar la expansión urbana en la zona rural del Distrito Federal, con apego a las disposiciones ambientales y en coordinación con la Dirección General de la Comisión de Recursos Naturales y de Desarrollo Rural;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-XXI. Vigilar en áreas naturales protegidas, zonas rurales y boscosas, el cumplimiento de la normatividad de las declaratorias que se expidan;
+XX. Promover la participación corresponsable en materia ambiental de la ciudadanía, de los sectores público, social y privado, en acciones de vigilancia ambiental;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XXI. Vigilar en áreas naturales protegidas, zonas rurales y boscosas, el cumplimiento de la normatividad de las declaratorias que se expidan en el ámbito de competencia de la Secretaría del Medio Ambiente;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 XXII. Recibir, tramitar y proporcionar informes sobre las solicitudes de inspección verificación por parte de la Procuraduría Ambiental y del Ordenamiento Territorial del Distrito Federal cuando se trate de denuncias ciudadanas en contra de presuntas fuentes fijas y móviles que emitan contaminantes hacia la atmósfera, al agua, suelo, subsuelo, o cuerpos de aguas, y cambio de uso de suelo;
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+
 XXIII. Inspeccionar vehículos en tránsito que transporten materias primas forestales maderables y no maderables, a fin de verificar su legal tenencia y el origen de estas, en coordinación con autoridades competentes de la Procuraduría Federal de Protección al Ambiente;
+
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 XXIV. Promover y otorgar, en coordinación con las Dependencias competentes, asistencia técnica y cursos de capacitación sobre la protección, inspección y vigilancia de los recursos naturales del Distrito Federal;
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+
 XXV. Realizar la capacitación, certificación y acreditación de los inspectores y ecoguardas ambientales adscritos a la Secretaría y de las Delegaciones;
 
-XXVI. Realizar en coordinación con las autoridades competentes, las denuncias penales correspondientes;
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-XXVII. Promover convenios de coordinación, colaboración y concertación que fortalezcan las actividades de vigilancia e inspección ambiental; y
+XXVI. Denunciar y colaborar con las autoridades competentes cuando, derivado del ejercicio de sus atribuciones, se tenga conocimiento de un hecho u omisión que pudiera constituir delito de conformidad con la normatividad aplicable en la materia;
+
+> <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Proponer al titular de la Secretaría la celebración de convenios de coordinación, colaboración y concertación que fortalezcan las actividades de vigilancia e inspección ambiental;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Suscribir los documentos y demás actos jurídicos necesarios para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XXIX. Substanciar y resolver los recursos administrativos que en ejercicio de sus atribuciones y conforme a las disposiciones jurídicas deba conocer; y
+
+> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2015)</small>
+
+XXX. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
 #### SECCION VI
 
@@ -18005,3 +18079,21 @@ QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgá
 SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
+
+G.O. 1 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día primero de diciembre de dos mil quince.
+
+TERCERO.- Los asuntos competencia de la Dirección Ejecutiva de Vigilancia Ambiental serán tramitados y resueltos por la Dirección General de Vigilancia Ambiental, atendiendo las instrucciones del titular de la Secretaría del Medio Ambiente.
+
+CUARTO.- A la Dirección General de Vigilancia Ambiental, se le transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- La Secretaría del Medio Ambiente deberá adecuar su estructura orgánica y elaborar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a la Dirección Ejecutiva de Vigilancia Ambiental, se entenderán hechas a la Dirección General de Vigilancia Ambiental.
+
+SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
