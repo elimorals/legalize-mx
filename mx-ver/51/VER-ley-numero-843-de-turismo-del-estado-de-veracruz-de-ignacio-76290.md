@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2014-08-11"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -245,7 +245,9 @@ XXIX. Promover y fomentar, en coordinación con el Gobierno Federal y las depend
 
 XXX. Gestionar fondos de financiamiento para la ejecución de proyectos turísticos de gran impacto social;
 
-XXXI. Coadyuvar con la Secretaría de Seguridad Pública, en los casos en que se determine que sea necesaria la protección de la integridad física de los turistas;
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XXXI. Coadyuvar con la Secretaría de Seguridad Pública y la Secretaría de Protección Civil, cuando se determine que sea necesaria la protección de la integridad física de los turistas;
 
 XXXII. Colaborar con la Secretaría de Trabajo, Previsión Social y Productividad en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, mediante criterios de inclusión y equidad;
 
@@ -351,11 +353,19 @@ II. Secretaría de Medio Ambiente;
 
 III. Secretaría de Desarrollo Social;
 
-IV. Secretaría de Comunicaciones;
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
+
+IV. Secretaría de Infraestructura y Obras Públicas;
 
 V. Secretaría de Seguridad Pública; y
 
-VI. Secretaría de Desarrollo Económico y Portuario.
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VI. Secretaría de Desarrollo Económico y Portuario; y
+
+> <small>(ADICIONADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VII. Secretaría de Protección Civil.
 
 A las Sesiones de la Comisión podrán ser invitados a participar funcionarios de la administración pública estatal y federal, cuando la situación así lo requiera.
 
@@ -1368,3 +1378,9 @@ G.O. 11 DE AGOSTO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
