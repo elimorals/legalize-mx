@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2015-11-06"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -13907,9 +13907,9 @@ Toda persona tiene derecho a la protección de la salud y a una alimentación sa
 
 Todos los habitantes tienen el derecho a disfrutar de un ambiente sano para el desarrollo de la persona, así como el deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su aprovechamiento sustentable; para proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-La niñez tiene derecho a una vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral, así como a la convivencia familiar. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de todos sus derechos, tomando como consideración fundamental que siempre se atenderá al interés superior de la niñez.
+La niñez tiene derecho a una vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, identidad, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral, así como a la convivencia familiar. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de todos sus derechos, tomando como consideración fundamental que siempre se atenderá al interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
@@ -13923,17 +13923,17 @@ La enseñanza es libre; pero será laica la que se imparta en los establecimient
 
 Las escuelas particulares sólo podrán establecerse sujetándose a la vigilancia e inspección oficiales.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-El Estado impartirá educación preescolar, primaria, secundaria y media superior, que conforman la educación básica obligatoria.
+El Estado impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias, al efecto el Estado garantizará la calidad en la educación obligatoria de manera que los materiales y métodos educativos, la organización escolar, la infraestructura educativa y la idoneidad de los docentes y los directivos garanticen el máximo logro de aprendizaje de los educandos.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-La educación que imparta el Estado, será gratuita y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la Independencia y en la justicia.
+La educación que imparta el Estado, será de calidad con base en el mejoramiento constante y el máximo logro académico de los educandos, gratuita y tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él a la vez el amor a la patria, el respeto a los derechos humanos, la conciencia de la solidaridad internacional en la Independencia y en la justicia. Así mismo, contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-Además de impartir la educación básica obligatoria, el Estado promoverá y atenderá la educación inicial y la educación superior, así como todos los tipos y modalidades educativas que coadyuven al desarrollo del individuo.
+Además de impartir la educación básica y media superior obligatoria, el Estado promoverá y atenderá la educación inicial y la educación superior, así como todos los tipos y modalidades educativas necesarias para el desarrollo del individuo, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2011)</small>
 
@@ -14941,7 +14941,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 20 DE NOVIEMBRE DE 1992.
 
-UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE MARZO DE 1993.
 
@@ -15165,7 +15165,7 @@ P.O. 31 DE OCTUBRE DE 2003.
 
 DECRETO NÚMERO 12, QUE REFORMA EL ARTÍCULO 57.
 
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE OCTUBRE DE 2003.
 
@@ -15476,3 +15476,7 @@ P.O. 21 DE OCTUBRE DE 2015.
 P.O. 6 DE NOVIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
