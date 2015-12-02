@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2015-11-20"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -149,11 +149,19 @@ III.- Los ingresos provenientes de donaciones, aportaciones y subsidios, de conf
 
 IV.- Los ingresos derivados de los rendimientos financieros, fondos o fideicomisos constituidos como inversiones por el propio Congreso;
 
-V.- Los ingresos derivados de la venta de sus bienes; y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+V.- Los ingresos derivados de la venta de sus bienes;
 
 VI.- Los ingresos provenientes de las multas que imponga por sí, en términos de las disposiciones aplicables.
 
-Para los efectos de esta fracción, una vez que estas queden firmes se podrán constituir créditos fiscales a favor del Congreso del Estado y se turnarán a la Secretaría de Finanzas, para que mediante el Procedimiento Administrativo de Ejecución a que se refiere el Código Fiscal del Estado de Puebla, se hagan efectivos y se enteren al Congreso del Estado. Con este fin, el Presidente del (sic) Junta de Gobierno y Coordinación Política y el Titular del Poder Ejecutivo, o quién éste designe, podrán celebrar convenios de coordinación administrativa.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+Para los efectos de esta fracción, una vez que estas queden firmes se podrán constituir créditos fiscales a favor del Congreso del Estado y se turnarán a la Secretaría de Finanzas, para que mediante el Procedimiento Administrativo de Ejecución a que se refiere el Código Fiscal del Estado de Puebla, se hagan efectivos y se enteren al Congreso del Estado. Con este fin, el Presidente de la Junta de Gobierno y Coordinación Política y el Titular del Poder Ejecutivo, o quién éste designe, podrán celebrar convenios de coordinación administrativa; y
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VII.- Los ingresos provenientes del pago de los derechos de las bases para el proceso de adjudicación en materia de obra pública y servicios relacionados con la misma, así como de adquisiciones, arrendamientos y servicios, en los términos que establezca la Ley de la materia.
 
 ###### ARTÍCULO 9.
 
@@ -2464,3 +2472,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los asuntos en trámite que se encuentren turnados a la Comisión Especial de la Familia y su Desarrollo Integral con motivo de la entrada en vigor de este Decreto deberán pasar a la Comisión Ordinaria de la Familia y su Desarrollo Integral.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
