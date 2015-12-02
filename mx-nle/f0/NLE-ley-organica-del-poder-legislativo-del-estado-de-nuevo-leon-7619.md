@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2015-09-30"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -1141,11 +1141,11 @@ XX.- Quinta de Hacienda y Desarrollo Municipal; y
 
 XXI.- Anticorrupción.
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 71.
 
-La Comisión del Órgano de Fiscalización Superior estará integrada por nueve diputados: un Presidente, un Vice-Presidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley del propio Órgano de Fiscalización Superior en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
+La Comisión de Vigilancia estará integrada por nueve diputados: un Presidente, un Vicepresidente, un Secretario y seis Vocales y se sujetará en sus atribuciones a la Ley de Fiscalización Superior del Estado en lo que corresponda y a los Acuerdos que para el efecto dicte el Congreso.
 
 ###### Artículo 72.
 
@@ -1740,6 +1740,10 @@ Primero.- El presente Decreto entrará en vigor el día de su aprobación.
 Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
 
 Tercero.- Para efectos de los expedientes que a la fecha se encuentren turnados a las Comisiones Permanentes de Dictamen Legislativo, el plazo referido en el párrafo segundo del Artículo 46 del Reglamento para el Gobierno Interior del Congreso del Estado de Nuevo León, empezará a correr a partir del día siguiente de la entrada en vigor del presente Decreto.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único.- El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
