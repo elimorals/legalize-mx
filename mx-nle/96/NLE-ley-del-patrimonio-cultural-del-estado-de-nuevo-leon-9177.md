@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "2010-12-24"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEON
 
-LEY QUE REGIRA TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEON
+LEY QUE REGIRÁ TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -53,7 +53,11 @@ I. Bienes históricos: Todos los bienes muebles e inmuebles que se encuentren vi
 
 II. Bienes artísticos: Los muebles e inmuebles que posean valores estéticos permanentes, y las obras y archivos literarios musicales y fotográficos cuya importancia o valor sean de interés para el arte en el Estado.
 
-III. Zonas protegidas: Las áreas territoriales que sea interés del Estado proteger jurídicamente por su significado histórico, artístico, típico, pintoresco o de belleza natural, para evitar, detener o reparar el deterioro causado por agentes naturales o por el hombre.
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+III. Bienes Deportivos: Los muebles e inmuebles que posean valores estéticos permanentes, cuya importancia o valor sean de interés para el Deporte en el Estado.
+
+IV. Zonas protegidas: Las áreas territoriales que sea interés del Estado proteger jurídicamente por su significado histórico, artístico, típico, pintoresco o de belleza natural, para evitar, detener o reparar el deterioro causado por agentes naturales o por el hombre.
 
 LAS ZONAS PROTEGIDAS SON:
 
@@ -67,7 +71,7 @@ D).- Zonas pintorescas:- Las localidades que por peculiaridades de su trazo, edi
 
 E).- Zona de belleza natural:- Los sitios o las regiones que por sus características constituyen por sí mismos conjuntos estéticos o plásticos de atracción para el público.
 
-IV.- Valores culturales:- Los elementos ideológicos e intelectuales que tengan interés para el Estado, desde el punto de vista de la tradición, las costumbres, la ciencia, la técnica o cualquier otro, que por sus características deba ser adscrito al patrimonio cultural.
+V.- Valores culturales:- Los elementos ideológicos e intelectuales que tengan interés para el Estado, desde el punto de vista de la tradición, las costumbres, la ciencia, la técnica o cualquier otro, que por sus características deba ser adscrito al patrimonio cultural.
 
 ###### ARTICULO 5o.
 
@@ -616,3 +620,7 @@ QUINTO:- LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRE
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
