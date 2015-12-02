@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-del-deporte-nuevo-leon-7480"
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-17"
-last_updated: "1996-12-11"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DEL DEPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 17 de noviembre de 1993.
 
@@ -205,7 +205,7 @@ El Servicio Social en materia del deporte se llevará a cabo prioritariamente en
 
 El Ejecutivo del Estado y los Ayuntamientos promoverán la creación y fomento de uno o más patronatos integrados por los sectores social y/o privado, a fin de que coadyuven al desarrollo y ejecución de los Programas Deportivos.
 
-> <small>(REFORMADA SU DENOMINACION, P. O. 11 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P. O. 11 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO IV. DE LOS INTEGRANTES DEL SISTEMA ESTATAL DEL DEPORTE
 
@@ -428,6 +428,12 @@ Los integrantes del Sistema del Deporte del Estado, deberán de fomentar la cult
 ###### Artículo 43 Bis 2.
 
 La cultura del deporte en el Estado, se asociará a la participación social, a la libre y respetuosa manifestación de las ideas y a la conveniencia del compromiso colectivo.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 43 Bis 3.
+
+La Charrería será considerada como parte del patrimonio cultural deportivo del Estado y sus municipios, y en el ámbito de sus competencias deberán preservarla, apoyarla, promoverla, fomentarla y estimularla, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas, Estatales y Municipales correspondientes.
 
 ### CAPITULO VII. DE LAS INSTALACIONES DEPORTIVAS
 
@@ -693,7 +699,7 @@ EL C. SECRETARIO DE DESARROLLO SOCIAL
 
 GUSTAVO ALARCON MARTINEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 P.O. 26 DE NOVIEMBRE DE 1993.
 
@@ -706,3 +712,7 @@ UNICO:- El presente Decreto entrará en vigor al día siguiente de su Publicaci�
 P.O. 11 DE DICIEMBRE DE 1996.
 
 UNICO:- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
