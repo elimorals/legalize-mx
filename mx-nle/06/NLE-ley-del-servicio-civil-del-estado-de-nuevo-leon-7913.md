@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2010-11-05"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
+LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -235,6 +235,12 @@ En el caso de adopción de un menor de edad que sea mayor a seis meses de edad, 
 
 La licencia de maternidad se concede independientemente de las vacaciones establecidas o demás días de descanso obligatorio que se estipulen en la Ley. Si el correspondiente período vacacional coincide o queda comprendido dentro de este período, dicho periodo empezará a correr al día siguiente de la fecha en que se concluya la licencia respectiva.
 
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+###### Art. 24 Bis 3.
+
+Los hombres trabajadores a que se refiere esta Ley gozarán de licencia de paternidad, en el caso del nacimiento de un hijo, que consistirá en el descanso de cinco días con goce de sueldo, dicha licencia será otorgada también en el caso de adopción.
+
 ###### Art. 25o.
 
 Serán días de descanso obligatorio los que como tales señala el calendario oficial.
@@ -289,7 +295,7 @@ En ningún caso, los trabajadores al servicio del Estado o de los Municipios, pe
 
 ### CAPITULO CUARTO. De la Obligación del Gobierno del Estado y de los Ayuntamientos, para sus trabajadores considerados individualmente
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 1981)</small>
 
 ###### Art. 36o.
 
@@ -821,7 +827,7 @@ Las resoluciones dictadas por el Tribunal de Arbitraje, serán inapelables, y se
 
 Las autoridades estarán obligadas a prestar auxilios al Tribunal de Arbitraje para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE FEBRERO DE 1981)</small>
 
 ## TITULO SEPTIMO. De las Oficinas de Personal
 
@@ -905,7 +911,7 @@ El Gobernador Constitucional del Estado.- LIC. ARTURO B. DE LA GARZA Y GARZA.
 
 El Secretario General de Gobierno.- LIC. JESUS C. TREVIÑO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE ENERO DE 1964.
 
@@ -960,3 +966,7 @@ Artículo Único.- El presente decreto entrará en vigor una vez que inicie la v
 P.O. 5 DE NOVIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
