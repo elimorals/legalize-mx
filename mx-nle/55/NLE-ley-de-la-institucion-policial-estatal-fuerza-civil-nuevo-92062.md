@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-institucion-policial-estatal-fuerza-civil-nuevo-92062
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-19"
-last_updated: "2013-01-19"
+last_updated: "2015-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 19 de enero de 2013.
 
@@ -167,7 +167,9 @@ XXIX. Las demás que le confieran esta y otras leyes.
 
 Mando
 
-El Secretario ejercerá el mando superior de la Institución, el mando directo, la dirección y disciplina corresponden al Comisario General.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Secretario ejercerá el mando superior de la Institución. El mando directo corresponde al Comisario General.
 
 ###### Artículo 8.
 
@@ -179,9 +181,11 @@ I. Comisaría General de la Fuerza Civil:
 
 a) Ayudantía General; e
 
-b) Inspección General y Asuntos Internos.
+b) (DEROGADO, P.O. 2 DE DICIEMBRE DE 2015)
 
-II. Jefatura del Estado Mayor:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+II.- Estado Mayor:
 
 a) Sección I de Personal;
 
@@ -207,13 +211,31 @@ e) Pelotones; y
 
 f) Escuadras.
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+IV. Inspección General y Asuntos Internos:
+
+a) Área de Gestión y Enlace;
+
+b) Área de Inspección de Servicios Policiales;
+
+c) Área de Inspección de Bienes Institucionales; y
+
+d) Área de Responsabilidades, Quejas y Denuncias.
+
 El nombramiento y remoción de los Titulares de las Unidades operativas y administrativas de la Institución no previstos en esta Ley, serán determinados en el Reglamento de la misma.
 
 ###### Artículo 9.
 
 El Comisario General
 
-El Comisario General tiene el más alto rango en la Institución sobre la cual ejercerá las atribuciones de mando, dirección y disciplina. Será nombrado y removido libremente por el Gobernador del Estado, a propuesta del Secretario.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Comisario General será nombrado y removido libremente por el Gobernador del Estado, a propuesta del Secretario.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Comisario General ejercerá el mando directo y la disciplina en su carácter de superior jerárquico inmediato sobre el Titular de la Ayudantía General, del Estado Mayor, los Titulares de los Grupos y Agrupamientos en su caso. Adicionalmente es responsable de que cada uno de los comandantes, en su carácter de superiores jerárquicos inmediatos de los diversos niveles operativos ejerzan la disciplina en la unidad a su mando. La disciplina se impondrá en todo caso de conformidad con las leyes y reglamentos aplicables.
 
 ###### Artículo 10.
 
@@ -231,15 +253,19 @@ IV. Tener reconocida capacidad y probidad, no haber sido sentenciado por delito 
 
 V. Comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-Atribuciones del Comisario General
+Atribuciones y Obligaciones del Comisario General
 
 Son atribuciones y obligaciones del Comisario General las siguientes:
 
 I. Representar a la Fuerza Civil, tanto en su carácter de autoridad en materia de policía, como de órgano desconcentrado, conforme a la legislación aplicable;
 
-II. Ejercer atribuciones de mando, dirección y disciplina de la corporación policial;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+II. Ejercer el mando directo y la disciplina en su carácter de superior jerárquico inmediato sobre el Titular de la Ayudantía General, del Estado Mayor, los Titulares de los Grupos y Agrupamientos. El ejercicio de esta disciplina no se exceptúa del procedimiento que en materia disciplinaria ejerce la Inspección General y Asuntos Internos de la Institución.
 
 III. Proponer al Secretario las políticas y planes en materia policial, en el ámbito de su competencia;
 
@@ -249,9 +275,13 @@ V. Diseñar, supervisar, evaluar e informar al Secretario sobre la implementaci�
 
 VI. Proponer al Secretario la creación de unidades administrativas que sean necesarias funcionalmente, de acuerdo con la disponibilidad presupuestal y conforme a las disposiciones legales aplicables;
 
-VII. Designar y remover a los titulares de cargos administrativos de la estructura orgánica de la Fuerza Civil;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-VIII. Determinar la creación y modificación de grupos especiales en función de la incidencia delictiva, por zonas geográficas, por la complejidad de los delitos, así como por el impacto de estos en la comunidad;
+VII. Designar y remover al personal que integra la Ayudantía General;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VIII. Proponer al Secretario la creación y modificación de grupos de asignaciones especiales en función de la incidencia delictiva, por zonas geográficas, por la complejidad de los delitos, así como por el impacto de estos en la comunidad;
 
 IX. Proponer al Secretario los nombramientos de los mandos superiores de la Fuerza Civil, de acuerdo a lo establecido en la Ley y en las demás disposiciones jurídicas aplicables;
 
@@ -271,7 +301,9 @@ XVI. Planear, supervisar y brindar apoyo en la ejecución de los procedimientos 
 
 XVII. Supervisar que las áreas de mando a su cargo implementen, en coordinación con las autoridades competentes, acciones de inspección, vigilancia, prevención y vialidad de caminos y carreteras estatales, así como de las áreas naturales protegidas, parques estatales, zonas lacustres y cuerpos de agua en el Estado;
 
-XVIII. Supervisar la operación en la intervención y reacción inmediata de los grupos tácticos especiales que integran la Fuerza Civil;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Supervisar la operación en la intervención y reacción inmediata de los grupos de asignación especial que integran la Fuerza Civil;
 
 XIX. Coordinarse con el C-5, a fin de cumplir con los objetivos y disposiciones emanados del Sistema Nacional de Seguridad Pública;
 
@@ -285,9 +317,13 @@ XXIII. Supervisar la elaboración del Informe Policial Homologado, partes polici
 
 XXIV. Supervisar que el personal ponga a disposición inmediata de la autoridad competente a las personas detenidas y llevar a cabo el registro correspondiente;
 
-XXV. Aplicar las medidas disciplinarias al personal a su mando, de acuerdo con las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-XXVI. Asegurar que los Integrantes se desarrollen conforme a los lineamientos de la carrera policial;
+XXV. Aplicar las medidas disciplinarias al personal a su mando, remitiendo a la Inspección General y Asuntos Internos, el correctivo disciplinario para que este sea calificado de conformidad con lo establecido en esta Ley y reglamentos aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Asegurar que los integrantes de la Institución cumplan en tiempo y forma con los lineamientos y procesos establecidos por la Comisión de Carrera Policial;
 
 XXVII. Proporcionar la información estadística de la operación de la carrera policial al área correspondiente de la Secretaría, con el fin de integrar un sistema de indicadores que permita medir su desempeño y evaluar los resultados de su gestión;
 
@@ -295,13 +331,19 @@ XXVIII. Suscribir la documentación necesaria para el debido ejercicio de sus at
 
 XXIX. Expedir certificaciones de los documentos existentes en el archivo a su cargo; y
 
-XXX. Las demás atribuciones que le confieran las disposiciones jurídicas aplicables y el Secretario.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XXX. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 12.
 
-De la Ayudantía General
+De las Atribuciones y Obligaciones (sic) Ayudantía General
 
-El titular de la Ayudantía General tendrá las siguientes obligaciones y atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El titular de la Ayudantía General tendrá las siguientes atribuciones y obligaciones:
 
 I. Llevar a cabo la organización y ejecución de la agenda de actividades del Comisario General en sus labores públicas;
 
@@ -309,7 +351,9 @@ II. Conducir la programación, logística y realización de las reuniones de tra
 
 III. Acordar con el Comisario General los asuntos de su competencia e informarle de las actividades que realice;
 
-IV. Coadyuvar con el área de asuntos internos, sobre quejas, imputación de responsabilidades e inconformidades de acuerdo con la normatividad en la materia;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+IV. Turnar al área de Inspección General y Asuntos Internos, las quejas, denuncias y en general todas aquellas conductas que impliquen cualquier tipo de responsabilidad de los integrantes de la Institución y que sean del conocimiento de ésta área o de la Comisaria General.
 
 V. Instrumentar, operar y coordinar un modelo de gestión de calidad en las actividades de seguridad, de logística y administrativas;
 
@@ -317,13 +361,29 @@ VI. Promover la cultura de la legalidad y vigilar en su caso, la observancia del
 
 VII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellas que le sean delegadas por el Comisario General; y
 
-VIII. Las demás que las disposiciones legales y administrativas le confieran, así como las que le encomiende su superior jerárquico.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VIII. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
 Inspección General y Asuntos Internos
 
-El titular de la Inspección General y Asuntos Internos será nombrado y removido libremente por el Gobernador del Estado, a propuesta del Secretario, y tendrá las siguientes obligaciones y atribuciones:
+El Titular de la Inspección General y Asuntos Internos será nombrado y removido libremente por el Gobernador del Estado, a propuesta del Secretario. Dependerá directamente del Secretario en su carácter de Mando Superior de la Institución.
+
+La Inspección General y Asuntos Internos es un órgano autónomo en sus funciones y se ubica en el primer nivel de la estructura orgánica tanto operativa como administrativa de la Institución.
+
+La Inspección General y Asuntos Internos será el órgano responsable del ejercicio disciplinario de la Institución.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+De las Atribuciones y Obligaciones de la Inspección General y Asuntos Internos
+
+La Inspección General y Asuntos Internos tendrá las siguientes atribuciones y obligaciones:
 
 I. Establecer y conducir la política en la materia de orden y disciplina de todas las áreas de Fuerza Civil;
 
@@ -331,15 +391,15 @@ II. Establecer, instrumentar y aplicar las medidas de auditoría, control, inspe
 
 III. Ejercer el control, investigación y fiscalización de todas las unidades operativas y administrativas, en cumplimiento de los planes de inspecciones y verificaciones;
 
-IV. Informar periódicamente al Comisario General y al Consejo Ciudadano de Seguridad Pública, sobre los resultados de las inspecciones, auditorias, verificaciones e investigaciones efectuadas y establecer conjuntamente con éste el fortalecimiento y difusión de la disciplina como principio básico de la Institución;
+IV. Informar periódicamente al Secretario y al Consejo Ciudadano de Seguridad Pública, sobre los resultados de las inspecciones, auditorias, verificaciones e investigaciones efectuadas y establecer conjuntamente con éste el fortalecimiento y difusión de la disciplina como principio básico de la Institución;
 
 V. Conocer, ratificar o revocar, en su caso, las sanciones de apercibimiento, amonestación, arresto y cambios de adscripción impuestas por los superiores jerárquicos, de las que conozca por inconformidad del personal de la Institución. Para ello, desahogará las investigaciones pertinentes y cuidará de las formalidades del debido proceso;
 
-VI. Aplicar la normatividad disciplinaria y conocer de manera directa los asuntos que ameriten las sanciones de apercibimiento, amonestación, arresto y cambios de adscripción en contra de los Integrantes de la Institución que no hayan sido sancionadas por los superiores jerárquicos. Para ello, desahogará las investigaciones pertinentes, cuidará de las formalidades del debido proceso e indagará la omisión de los superiores jerárquicos;
+VI. Aplicar la normatividad disciplinaria y conocer de manera directa los asuntos que ameriten las sanciones de apercibimiento, amonestación, arresto y cambios de adscripción en contra de los Integrantes de la Institución que no hayan sido sancionados por los superiores jerárquicos. Para ello, desahogará las investigaciones pertinentes, cuidará de las formalidades del debido proceso e indagará la omisión de los superiores jerárquicos;
 
-VII. Turnar a la Comisión de Honor y Justicia los asuntos que ameriten como sanción la suspensión temporal, inhabilitación, destitución del cargo y suspensión cautelar en contra de los Integrantes de la Institución que se presuma o hayan incurrido en las conductas prohibidas establecidas en la Ley;
+VII. Turnar a la autoridad competente los asuntos que ameriten como sanción la suspensión temporal, inhabilitación, destitución del cargo y suspensión cautelar en contra de los integrantes de la Institución, respecto de los cuales, se presuma o se acredite que hayan incurrido en las conductas prohibidas establecidas en la Ley;
 
-VIII. Registrar en el expediente del Integrante, cualquier tipo de sanción impuesta por los superiores jerárquicos, la Comisión de Honor y Justicia o por la propia Inspección General y Asuntos Internos cuando sean dictadas en resolución firme. Además informará a las autoridades correspondientes para efectos del Registro Estatal de Personal de Seguridad Pública;
+VIII. Registrar en el expediente del integrante, cualquier tipo de sanción impuesta por los superiores jerárquicos, por la Inspección General y Asuntos Internos o autoridad competente cuando sean dictadas en resolución firme. Además informará a las autoridades correspondientes para efectos del Registro Estatal de Personal de Seguridad Pública;
 
 IX. Desahogar las quejas o denuncias que formule el personal de la propia Institución contrarias a la normatividad disciplinaria y presentar las recomendaciones que estime pertinentes al Comisario General tendentes al fortalecimiento de la disciplina en la Institución;
 
@@ -349,15 +409,21 @@ XI. Investigar de oficio, por denuncia o por requerimiento de autoridad competen
 
 XII. Coordinarse con las autoridades competentes, a fin de que los Integrantes de la Institución cumplan en tiempo y forma con las disposiciones y requerimientos de la Comisión de la Carrera Policial;
 
-XIII. Velar por el respeto a los derechos humanos en el cumplimiento de las obligaciones policiales dentro y fuera de la Institución; y
+XIII. Velar por el respeto a los derechos humanos en el cumplimiento de las obligaciones policiales dentro y fuera de la Institución;
 
-XIV. Otras que le sean asignadas por el Comisario General de la Fuerza Civil de conformidad con la Ley.
+XIV. Expedir certificaciones de los documentos existentes en el archivo a su cargo; y
+
+XV. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 14.
 
-Jefatura del Estado Mayor
+De las Atribuciones y Obligaciones del Estado Mayor
 
-El Jefe del Estado Mayor tiene las siguientes obligaciones y atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Titular del Estado Mayor tiene las siguientes atribuciones y obligaciones:
 
 I. Ejecutar, transmitir y concretar las decisiones y órdenes del Comisario General;
 
@@ -371,7 +437,9 @@ V. Coordinar las diversas secciones que integran el Estado Mayor y proponer al C
 
 VI. Establecer el enlace de coordinación general entre las Secciones a su cargo y las áreas de la Secretaría correspondientes para la efectiva colaboración en materia de supervisión, control y evaluación de la Institución;
 
-VII. Instruir el despliegue de las Unidades Operativas, informando al Comisario General sobre los avances o resultados;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VII. Proponer los programas y planes al Comisario General informándole sobre el despliegue de las Unidades Operativas, los avances o resultados;
 
 VIII. Proponer y evaluar las estrategias de las operaciones de vigilancia y seguridad aérea, estableciendo las directrices correspondientes para su aplicación;
 
@@ -379,19 +447,29 @@ IX. Coordinar con base en la normatividad aplicable, y de acuerdo con las dispos
 
 X. Evaluar y atender las solicitudes presentadas por los municipios y los particulares, relacionadas con la conservación del orden, la paz y la tranquilidad pública;
 
-XI. Brindar orientación e información a víctimas de delitos a través de su oficina o de sus unidades de apoyo, canalizándolas a las instancias correspondientes, así como llevando el seguimiento de los casos atendidos;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-XII. Supervisar que los Integrantes cumplan con los procesos de la carrera policial, de conformidad con la normatividad aplicable, e informar al Comisario General;
+XI. Apoyar y asesorar a las Unidades Operativas en la orientación e información a víctimas de delitos a través de su oficina o de sus unidades de apoyo, canalizándolas a las instancias correspondientes, así como llevando el seguimiento de los casos atendidos;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XII. Coadyuvar con la Comisión de Carrera Policial, para que los Integrantes de la Institución cumplan en tiempo y forma con los lineamientos y procesos establecidos de conformidad con la normatividad aplicable, e informar al Comisario General;
 
 XIII. Suscribir la documentación necesaria para el ejercicio de sus funciones y expedir certificaciones de los documentos existentes en los archivos de la Institución; y
 
-XIV. Las demás que determine el Comisario General y los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XIV. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-De la Sección I de Personal
+De la Atribuciones y Obligaciones de la Sección I de Personal
 
-El Titular de la Sección I de Personal tendrá las siguientes obligaciones y atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Titular de la Sección I de Personal tendrá las siguientes atribuciones y obligaciones:
 
 I. Supervisar la aplicación de las políticas y procedimientos relativos a la carrera policial en la Institución, en coordinación con las autoridades competentes;
 
@@ -419,13 +497,19 @@ XII. Recabar, mantener actualizado y disponible el registro y archivo de las act
 
 XIII. Informar y coordinarse con las áreas correspondientes de la Secretaría sobre el desarrollo e implementación de los procesos de su competencia; y
 
-XIV. Las demás que establezcan las disposiciones jurídicas aplicables y el Comisario.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XIV. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
-De la Sección II de Inteligencia
+De la Atribuciones y Obligaciones de la Sección II de Inteligencia.
 
-El Titular de la Sección II de Inteligencia tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Titular de la Sección II de Inteligencia tendrá las siguientes atribuciones y obligaciones:
 
 I. Diseñar y dirigir los procedimientos para la recopilación, análisis, transformación y explotación de la información útil, con la finalidad de generar inteligencia preventiva;
 
@@ -465,7 +549,9 @@ XVIII. Coordinar y planear las acciones para el combate a la delincuencia confor
 
 XIX. Actuar en coordinación con las Procuradurías e Instituciones de Seguridad de los tres órdenes de gobierno, dentro del marco establecido por la Ley General del Sistema Nacional de Seguridad Pública, con el objeto de intercambiar información de análisis e investigación para la prevención y combate de delitos;
 
-XX. Coadyuvar con la Sección III de Operaciones a efecto de ejercer las atribuciones y obligaciones que en materia de policía establece el Código Procesal Penal para el Estado de Nuevo León;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XX. Coadyuvar con la Sección III de Operaciones a efecto de ejercer las atribuciones y obligaciones que en materia de policía establece la legislación procesal penal;
 
 XXI. Determinar la información, en materia de análisis e investigación, susceptible de ser compartida con los gobiernos federal, estatales y dependencias del Estado, para su intercambio, previa autorización del Secretario;
 
@@ -479,25 +565,41 @@ XXV. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquel
 
 XXVI. Recabar, mantener actualizado y disponible el registro y archivo de las actuaciones realizadas por el personal a su cargo, a fin de generar información estadística y de control; y
 
-XXVII. Las demás que determinen las disposiciones normativas aplicables, así como el Comisario General.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 17.
 
-De la Sección III de Operaciones
+De las Atribuciones y Obligaciones de la Sección III de Operaciones
 
-El Titular de la Sección III de Operaciones tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-I. Coordinar al personal de su área para prevención de delitos y faltas administrativas que determine la normatividad aplicable, así como salvaguardar la integridad de las personas, mantener y restablecer el orden y la paz públicos;
+El Titular de la Sección III de Operaciones tendrá las siguientes atribuciones y obligaciones:
 
-II. Elaborar los planes, programas y operativos especiales de vigilancia y prevención de conductas antisociales y vigilar la correcta implementación de los mismos, informando, de forma permanente, al Comisario General sobre su ejecución;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-III. Llevar a cabo la planeación y coordinación del personal de la Institución que participe en operativos conjuntos con otras instituciones o autoridades federales, locales o municipales, de conformidad con la legislación aplicable;
+I. Proponer al Titular del Estado Mayor las acciones para la prevención de delitos y faltas administrativas, así como para salvaguardar la integridad de las personas, mantener y restablecer el orden y la paz públicos;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+II. Elaborar los planes, programas y operativos especiales de vigilancia y prevención de conductas antisociales y darles seguimiento, informando del desarrollo al Titular del Estado Mayor y al Comisario General sobre los resultados de su ejecución;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+III. Llevar a cabo la planeación y el seguimiento, del personal de la Institución que participe en operativos conjuntos con otras instituciones o autoridades federales, locales o municipales, de conformidad con la legislación aplicable;
 
 IV. Elaborar y proponer el desarrollo de protocolos de actuación o intervención conjunta con otras Instituciones Policiales;
 
-V. Coordinarse con la Sección II de Inteligencia y el C-5 para que, con base en la información de inteligencia y estadística, se desarrollen e implementen los operativos policiales, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-VI. Elaborar y supervisar el cumplimiento de roles y ordenes de servicio que deberán asignarse a cada uno de los miembros de la Institución;
+V. Coordinarse con la Sección II de Inteligencia y el C-5 para que, con base en la información de inteligencia y estadística, se desarrollen y propongan al Titular del Estado Mayor y al Comisario General los planes y estrategias de los operativos policiales, de conformidad con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VI. Elaborar y supervisar en coordinación con la Sección I de Personal, el cumplimiento de roles y órdenes de servicio que deberán asignarse a cada uno de los miembros de la Institución;
 
 VII. Coordinar el monitoreo de las comunicaciones realizadas por los Integrantes de la Institución, así como de otras autoridades que estén relacionadas directamente con la Institución de conformidad con la normatividad aplicable;
 
@@ -505,21 +607,35 @@ VIII. Elaborar los reportes de información sobre los integrantes, tanto en serv
 
 IX. Vigilar que los integrantes lleven a cabo la elaboración del Informe Policial Homologado;
 
-X. Implementar acciones de seguridad, inspección, vigilancia, prevención y supervisión de caminos y carreteras estatales, así como del ámbito rural;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-XI. Coordinarse con las autoridades correspondientes para la colaboración en caso de contingencias o peligro inminente y de auxilio a la sociedad civil;
+X. Proponer al Titular del Estado Mayor y al Comisario General las acciones de seguridad, inspección, vigilancia, prevención y supervisión de caminos y carreteras estatales, así como del ámbito rural;
 
-XII. Desarrollar y supervisar operaciones especiales, de pronta respuesta, ante eventos que pongan en riesgo la integridad de las personas o el orden público en su ámbito de competencia;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XI. Proponer al Titular del Estado Mayor y al Comisario General la coordinación con las autoridades correspondientes para la colaboración en caso de contingencias o peligro inminente y de auxilio a la sociedad civil;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XII. Proponer las estrategias para el desarrollo de las operaciones especiales, de pronto (sic) respuesta, al Titular del Estado Mayor y al Comisario General, ante eventos que pongan en riesgo la integridad de las personas o el orden público en su ámbito de competencia;
 
 XIII. Evaluar y proponer programas de capacitación y adiestramiento de los Integrantes, de conformidad con las disposiciones legales aplicables;
 
-XIV. Supervisar las acciones para la preservación y custodia del lugar de los hechos, ante la comisión de algún delito, en los términos descritos en el Código Procesal Penal para el Estado;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-XV. Ejercer las atribuciones y obligaciones, que en materia de Policía correspondan a la Institución, establecidas en el Código Procesal Penal para el Estado;
+XIV. Dar seguimiento a las acciones para la preservación y custodia del lugar de los hechos, ante la comisión de algún delito, que realicen las Unidades Operativas, para proponer acciones de mejora;
 
-XVI. Supervisar que los Integrantes cumplan con los requisitos de acreditación, certificación, profesionalización y demás relativos a la carrera policial, conforme a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-XVII. Proponer al Comisario General las políticas y los programas de adiestramiento y capacitación de grupos especiales, grupos caninos, grupos tácticos de reacción y operaciones especiales;
+XV. Asesorar al Titular del Estado Mayor y al Comisario General en el ejercicio de sus atribuciones y obligaciones que en materia de policía les correspondan, en los términos de esta Ley y los Reglamentos aplicables;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XVI. Promover en coordinación con la Sección I de Personal que los integrantes de la Institución, cumplan en tiempo y forma con los requisitos de acreditación, certificación, profesionalización y demás relativos a la carrera policial, conforme a la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XVII. Proponer al Titular del Estado Mayor y al Comisario General las políticas y los programas de adiestramiento y capacitación para la creación de grupos de asignaciones especiales;
 
 XVIII. Coordinarse con el área correspondiente de la Secretaría, a fin de realizar lo conducente en lo que se refiere a las funciones complementarias establecidas en la Ley;
 
@@ -529,13 +645,19 @@ XX. Llevar el control y actualización del archivo a su cargo;
 
 XXI. Recabar, mantener actualizado y disponible el registro y archivo de las actuaciones realizadas, a fin de generar información estadística y de control; y
 
-XXII. Las demás que determinen las disposiciones normativas aplicables, así como el Comisario General.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XXII. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-De la Sección IV de Abastecimientos
+De las Atribuciones y Obligaciones de la Sección IV de Logística y Abastecimientos
 
-El Titular de la Sección IV de Abastecimientos tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Titular de la Sección IV de Logística y Abastecimientos tendrá las siguientes atribuciones y obligaciones:
 
 I. Planear, organizar, ejecutar, dirigir y supervisar las funciones logísticas de transporte terrestre, alojamiento, alimentación y otros apoyos que se requieran para el cumplimiento de las atribuciones de Fuerza Civil;
 
@@ -563,13 +685,19 @@ XII. Recabar, mantener actualizado y disponible el registro y archivo de las act
 
 XIII. Llevar el control y actualización del archivo a su cargo; y
 
-XIV. Las demás atribuciones que le confieren a las disposiciones jurídicas aplicables y el Comisario General.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XIV. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-De la Sección V Jurídica
+De las Atribuciones y Obligaciones de la Sección V Jurídica
 
-El Titular de la Sección V Jurídica tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Titular de la Sección V Jurídica tendrá las siguientes atribuciones y obligaciones:
 
 I. Vigilar que los actos jurídicos en que participe la Institución, se realicen con estricto apego a la normatividad jurídica aplicable;
 
@@ -595,29 +723,43 @@ XI. Llevar el control, mantener actualizado y disponible el archivo y registro d
 
 XII. Informar y coordinarse con el área correspondiente de la Secretaría sobre el desarrollo e implementación de los procesos de su competencia; y
 
-XIII. Las demás que determinen las disposiciones jurídicas aplicables y el Comisario General.
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+XIII. Las demás que establezca esta Ley, su Reglamento e instrumentos normativos aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-Composición de la Fuerza Civil
+Unidades Operativas
 
-La Fuerza Civil se compone de grupos organizados y adiestrados para las operaciones policiales, y está constituida por Operativos y de Servicios.
+La base de las operaciones e intervenciones policiales que despliega Fuerza Civil se realiza por conducto de las Unidades Operativas, las cuales se organizan en forma terciaria, jerarquizada y en subordinación sucesiva.
+
+Las Unidades Operativas constituyen el estado de fuerza de la Institución y ejercen las atribuciones en materia policial, de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-Función de los Grupos Operativos
+Función de las Unidades Operativas
 
-Los grupos operativos son los componentes de la Institución Policial cuya misión principal son la prevención de los delitos y faltas administrativas, y la reacción ante la comisión de delitos y faltas administrativas. Además se apoyarán con un área de inteligencia, misma que está enfocada a la prevención de los delitos y faltas administrativas, obteniendo y brindando información a los grupos operativos para la realización de sus funciones.
+Las funciones de las Unidades Operativas son la prevención, reacción e investigación de los delitos y faltas administrativas en los términos que señalan las leyes y reglamentos. El Estado Mayor proveerá por conducto del Comisario General la información requerida para realizar de manera efectiva las misiones que le sean encomendadas.
+
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-De los Grupos de Servicio
+Grupos de Servicio
 
-Los Grupos de Servicios son componentes de la Fuerza Civil, que tienen como misión principal satisfacer las necesidades de la operación, por medio del apoyo administrativo y logístico, formando unidades organizadas, equipadas y adiestradas para el desarrollo de estas actividades, bajo el mando y supervisión del Estado Mayor.
+Para satisfacer de manera inmediata las necesidades de las Unidades Operativas, se constituirán Grupos de Servicio.
+
+Los Grupos de Servicio constituyen la vinculación con las Secciones del Estado Mayor y las Unidades Operativas. Los Grupos de Servicio apoyan a las Unidades Operativas en el cumplimiento de sus funciones y misiones que le sean encomendadas, a través de apoyo administrativo y logístico.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
 
-Organización de los Grupos Operativos
+Clasificación de las Unidades Operativas
 
 La organización de la operación de la Fuerza Civil, se clasificará en grandes y pequeños Grupos:
 
@@ -625,27 +767,43 @@ I. Los pequeños Grupos son: Escuadra, Pelotón, Sección y Compañía; y
 
 II. Los grandes Grupos son: Grupo, Agrupamiento y Unidad; además, se componen por las unidades de servicios que se requieran.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 24.
 
-Organización Operativa
+Organización de las Unidades Operativas
 
 La organización operativa de la Fuerza Civil es la siguiente:
 
 I. Unidad: compuesta por tres agrupamientos;
 
-II. Agrupamiento: compuesto por tres grupos;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-III. Grupo: compuesto por tres compañías;
+II. Agrupamiento: son organismos de carácter circunstancial, atienden funciones específicas o de carácter contingente. Se integran eventualmente por dos o tres grupos;
 
-IV. Compañía: compuesta por tres secciones;
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-V. Sección: compuesta por tres pelotones;
+III. Grupo: es el eje principal de la organización de las Unidades Operativas y se constituye como el punto axial en el despliegue del estado de fuerza de la Institución. Se integran por tres compañías;
 
-VI. Pelotón: compuesto por tres escuadras, y
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
-VII. Escuadra: compuesta por cuatro elementos y su mando.
+IV. Compañía: es la unidad operativa que ejecuta, distribuye y controla los servicios y operaciones policiales con carácter general. Se integran por tres secciones;
 
-### CAPÍTULO III. DEL EJERCICIO DEL MANDO
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+V. Sección: es la unidad operativa que permite materializar determinada función policial. Se integra por tres pelotones;
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VI. Pelotón: es la unidad operativa que con carácter intermedio que (sic) ejecuta las operaciones policiales de forma específica. Se integra por tres escuadras; y
+
+> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+VII. Escuadra: es la unidad operativa de atención directa y primera en las operaciones policiales. Se integra por cuatro elementos y su mando.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO III. DEL NOMBRAMIENTO Y EJERCICIO DEL MANDO
 
 ###### Artículo 25.
 
@@ -653,7 +811,9 @@ Organización Jerárquica
 
 Los grados o jerarquías, a los que pueden aspirar los integrantes, se clasifican conforme a lo establecido por la Ley, así como de conformidad con la Ley General del Sistema Nacional de Seguridad Pública.
 
-Lo anterior sin perjuicio de los puestos que dentro de la estructura administrativa se encuentren establecidos, así como de los señalados como de libre designación.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+Los integrantes de la Institución podrán acceder al grado correspondiente dentro de la escala jerárquica, una vez que cumplan con los requisitos establecidos por la Comisión de Carrera Policial y el debido cumplimiento de los requisitos normativos aplicables.
 
 ###### Artículo 26.
 
@@ -661,29 +821,31 @@ Del Mando
 
 Se entenderá por mando a la autoridad ejercida por un superior jerárquico de la Institución en servicio activo, sobre sus inferiores o iguales en jerarquía, cuando éstos se encuentren subordinados a él en razón de su categoría, de su cargo o de su comisión.
 
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-Ejercicio del Mando
+Nombramiento y Ejercicio del Mando.
 
 El mando podrá ser ejercido en las formas siguientes:
 
-I. Titular: es el mando ejercido por medio del nombramiento oficial expedido por el Gobernador o por el Secretario, según corresponda, para los mandos superiores de la Institución, y por el Comisario, tratándose de los titulares de cargos administrativos; y
+I. El Mando Supremo de la Institución corresponde al Gobernador del Estado de conformidad con la Ley. A propuesta del Secretario, el Gobernador del Estado nombrará y removerá libremente al Comisario General y al Titular de la Inspección General y Asuntos Internos.
 
-II. Circunstancial, en los casos siguientes:
+II. El Mando Superior de la Institución corresponde al Secretario de conformidad con la Ley. A propuesta del Comisario General, el Secretario nombrará a los mandos superiores de la Institución, a saber; el Titular del Estado Mayor, los Titulares de los Grupos y Agrupamientos en su caso.
 
-a) Interino: el designado con ese carácter por la superioridad correspondiente, en tanto se nombra al titular;
+III. El Mando Directo de la Institución corresponde al Comisario General de la Institución Policial Estatal Fuerza Civil de conformidad con la Ley. A propuesta del Titular del Estado Mayor, el Comisario nombrará a los Titulares de las Secciones del Estado Mayor, de los Mandos Operativos y Administrativos de la Institución no referidos en las fracciones que anteceden y en lo general formalizará los nombramientos de los cargos operativos emitidos por los titulares de las unidades superiores jerárquicas.
 
-b) Suplente: el que se ejerce por ausencia temporal del titular, en caso de enfermedad, impedimento, licencias, vacaciones, comisiones fuera de su adscripción u otros motivos; y
-
-c) Incidental: el que se desempeña en casos imperativos, por ausencia momentánea del titular o de quien ejerza el mando.
-
-Los lineamientos para el ejercicio circunstancial del mando estarán regulados en el reglamento de la presente Ley.
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 2 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-Asignaciones Especiales
+Grupos de Asignaciones Especiales
 
 El Comisario General podrá determinar, previo acuerdo con el Secretario, la asignación especial de grupos, compañías, secciones o pelotones de la organización operativa para la atención de problemas específicos en materia de seguridad o situaciones que requieren de intervención policial especializada.
+
+> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+El Secretario solicitará, la opinión documentada de las instancias administrativas y de control presupuestal, para evaluar el impacto de estos y emitir la autorización correspondiente.
 
 ### CAPÍTULO IV. DE LA CARRERA POLICIAL Y RÉGIMEN DISCIPLINARIO
 
@@ -691,7 +853,9 @@ El Comisario General podrá determinar, previo acuerdo con el Secretario, la asi
 
 De la Carrera Policial
 
-La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de Planeación, Ingreso, Profesionalización, Permanencia y Promoción, así como el procedimiento de Separación y Terminación de la Carrera Policial de los Integrantes, mismo que se establece en el Título Noveno de la Ley, así como en el Reglamento respectivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de Planeación, Ingreso, Profesionalización, Permanencia y Promoción, así como el procedimiento de Separación y Terminación de la Carrera Policial de los Integrantes, mismo que se establece en la Ley, Reglamento de Desarrollo Policial del Estado y demás normatividad aplicable.
 
 ###### Artículo 30.
 
@@ -707,7 +871,9 @@ Del Régimen Disciplinario
 
 El régimen disciplinario comprende los deberes, las correcciones disciplinarias, las sanciones y los procedimientos para su aplicación, con estricto apego a los principios constitucionales, de legalidad, debido proceso, objetividad, imparcialidad, expedites y respeto a las garantías individuales y derechos humanos, así como a los principios establecidos por la Constitución Política de los Estados Unidos Mexicanos.
 
-En lo referente al Régimen Disciplinario se observará lo dispuesto por el Título Décimo de la Ley, así como en el Reglamento respectivo.
+> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+
+En lo referente al Régimen Disciplinario de Fuerza Civil estará a cargo de la Inspección General y Asuntos Internos y se observará lo dispuesto por el Título Décimo de la Ley, así como en el Reglamento respectivo.
 
 ### CAPÍTULO V. DE LA INVESTIGACIÓN PARA LA PREVENCIÓN
 
@@ -882,3 +1048,9 @@ ADRIÁN EMILIO DE LA GARZA SANTOS
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 
 ALFREDO FLORES GÓMEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE DICIEMBRE DE 2015.
+
+Único.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
