@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-iii-2006-del-comite-de-50639"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-04-01"
-last_updated: "2006-04-01"
+last_updated: "2015-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50639&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,11 @@ scjn_last_update: "2024-10-11"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION III/2006 DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y AYUDA PARA LENTES GRADUADOS]
 
-ACUERDO GENERAL DE ADMINISTRACION III/2006, DEL DIEZ DE ABRIL DE DOS MIL SEIS, DEL COMITE DE GOBIERNO Y ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE REGULA EL PLAN DE PRESTACIONES MEDICAS COMPLEMENTARIAS Y LA AYUDA PARA LENTES GRADUADOS DE LOS TRABAJADORES DE ESTE ALTO TRIBUNAL
+ACUERDO GENERAL DE ADMINISTRACIÓN III/2006, DEL DIEZ DE ABRIL DE DOS MIL SEIS, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA EL PLAN DE PRESTACIONES MÉDICAS COMPLEMENTARIAS Y LA AYUDA PARA LENTES GRADUADOS DE LOS TRABAJADORES DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRES DE DICIEMBRE DE DOS MIL QUINCE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL OTORGAMIENTO Y TRÁMITE DEL APOYO Y DE LA AYUDA DE ANTEOJOS EN ESTE ALTO TRIBUNAL, PUBLICADO EN EL G.S.J.F. DE 3 DE DICIEMBRE DE 2015, SE DEROGAN LAS DISPOSICIONES RELATIVAS A LA AYUDA DE LENTES GRADUADOS DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 2015.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIII, Abril de 2006, página 1261.
 
@@ -649,3 +651,31 @@ CUARTO.-Los casos no previstos en este acuerdo general serán resueltos por el C
 QUINTO.-Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7o., fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
 
 Así lo acordaron y firman los señores Ministros Mariano Azuela Güitrón y Sergio Salvador Aguirre Anguiano, integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.S.J.F. 3 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRES DE DICIEMBRE DE DOS MIL QUINCE, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EMITEN LOS LINEAMIENTOS PARA EL OTORGAMIENTO Y TRÁMITE DEL APOYO Y DE LA AYUDA DE ANTEOJOS EN ESTE ALTO TRIBUNAL”.]
+
+Primero. Los presentes Lineamientos entrarán en vigor al día siguiente de su autorización.
+
+Segundo. Exclusivamente para el ejercicio fiscal 2016, la fecha para ingresar las solicitudes de apoyo y de ayuda de anteojos a que se refiere el artículo 7o. de los presentes Lineamientos dará inicio el lunes 1 de febrero.
+
+Tercero. Se derogan del Acuerdo General de Administración 111/2006, del diez de abril de dos mil seis, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regula el Plan de Prestaciones Médicas Complementarias y la Ayuda para Lentes Graduados de los Trabajadores de este Alto Tribunal, las disposiciones relativas a la ayuda de lentes graduados.
+
+Cuarto. Se derogan aquellas disposiciones que se opongan a los presentes Lineamientos.
+
+Quinto. Se deroga, de los manuales de organización y de procedimientos vigentes, todo lo relacionado con la prestación de apoyo y de ayuda de anteojos. En tanto se expiden los nuevos manuales de organización y de procedimientos, se deberá atender a lo prescrito por los presentes Lineamientos.
+
+Sexto. La Dirección General de Recursos Humanos e Innovación Administrativa, con la participación que corresponda a la Secretaría Jurídica de la Presidencia, deberá, dentro de los treinta días naturales siguientes a la entrada en vigor de los presentes Lineamientos, procurar la alineación de las atribuciones concedidas en éstos con las disposiciones del Reglamento Orgánico en Materia Administrativa de la Suprema Corte de Justicia de la Nación.
+
+Séptimo. La Dirección General de Recursos Materiales deberá, dentro de los treinta días naturales siguientes a la entrada en vigor de los presentes Lineamientos, integrar la lista de Ópticas que someterá a consideración del CASOD.
+
+Octavo. La Dirección General de Recursos Humanos e Innovación Administrativa deberá, dentro de los treinta días naturales siguientes a la entrada en vigor de los presentes Lineamientos, actualizar los manuales administrativos necesarios para la correcta operación del contenido de los presentes Lineamientos.
+
+Noveno. Las Direcciones Generales de Presupuesto y Contabilidad y de Recursos Humanos e Innovación Administrativa, en el ámbito de sus respectivas atribuciones, deberán prever lo necesario para que, en lo procedente, lo regulado por los presentes Lineamientos se incorpore en el Manual que regula las remuneraciones de los servidores públicos del Poder Judicial de la Federación de cada ejercicio fiscal.
+
+Décimo. Las solicitudes de reembolso de apoyo y de ayuda de anteojos que se encuentren en trámite a la entrada en vigor de los presentes Lineamientos, se atenderán hasta su finalización conforme a los lineamientos vigentes a la fecha de su recepción en la Dirección General de Recursos Humanos e Innovación Administrativa.
+
+Undécimo. Publíquense estos Lineamientos en el Semanario Judicial y su Gaceta, y en medios electrónicos de consulta pública en términos de lo previsto en la fracción I del artículo 70 de la Ley General de Transparencia y Acceso a la Información Pública.
