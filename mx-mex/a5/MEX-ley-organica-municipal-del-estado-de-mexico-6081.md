@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-11-11"
+last_updated: "2015-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -509,9 +509,13 @@ A las nueve horas del día 1 de enero del año inmediato siguiente a aquel en qu
 
 La inasistencia de los integrantes del ayuntamiento saliente no será obstáculo para que se dé por instalado el entrante, sin perjuicio de las sanciones que establezcan las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2015)</small>
 
-A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega-recepción de la administración municipal, con la participación obligatoria de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga el Órgano Superior de Fiscalización del Estado de México para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
+A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega-recepción de la administración municipal, con la participación de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga el Órgano Superior de Fiscalización del Estado de México, para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2015)</small>
+
+La inasistencia de alguno de los integrantes del ayuntamiento saliente o entrante, no será obstáculo para que se lleve a cabo el acto de entrega-recepción, para lo cual, el síndico o primer síndico saliente será responsable de entregar; y el síndico o primer síndico entrante, el responsable de recibir; en ausencia de éstos, cualquier servidor público que designe el titular de la Contraloría Municipal para el caso de la administración saliente y un representante de la administración que recibe designado por el Presidente Municipal entrante; sin otra responsabilidad administrativa relacionada con el acto.
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
 
@@ -4334,3 +4338,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 3 DE DICIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las autoridades en el ámbito de su competencia realizarán las adecuaciones normativas correspondientes, para dar cumplimiento a lo establecido por el presente Decreto.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
