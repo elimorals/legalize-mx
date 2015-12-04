@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-583-del-sistema-estatal-de-cultura-fisica-y-71081"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-26"
-last_updated: "2015-10-23"
+last_updated: "2015-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 583 DEL SISTEMA ESTATAL DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 26 de noviembre de 2009.
 
@@ -51,7 +51,13 @@ El Sistema Estatal del Deporte está constituido por autoridades deportivas, acc
 
 La participación en el Sistema Estatal del Deporte es obligatoria para las dependencias y entidades de la Administración Pública Estatal. Los municipios deberán coordinarse dentro del Sistema, en los términos de esta ley.
 
-Los sectores social y privado podrán participar en el Sistema, conforme a lo previsto en este ordenamiento.
+> <small>(ADICIONADO, G.O. 4 DE DICIEMBRE DE 2015)</small>
+
+Las dependencias y entidades de la Administración Pública local y los ayuntamientos, así como los Poderes Legislativo y Judicial y los Organismos Autónomos del Estado, tendrán la obligación de fomentar entre sus trabajadores la práctica de actividades físicas de acuerdo a las características de cada área u oficina, a la que se dediquen al menos veinte minutos de la jornada laboral para estas actividades.
+
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2015)</small>
+
+Los sectores social y privado podrán participar en el sistema, conforme a lo previsto en este ordenamiento
 
 > <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2015)</small>
 
@@ -1072,3 +1078,9 @@ G.O. 23 DE OCTUBRE DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 4 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
