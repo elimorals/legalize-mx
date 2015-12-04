@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2015-11-06"
+last_updated: "2015-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -768,6 +768,20 @@ Para efectos de la verificación de la emisión de contaminantes a los vehículo
 ###### ARTÍCULO 51.
 
 Es obligación de los conductores de vehículos de motor, evitar la emisión ostensible y excesiva de humo de color azul, negro, o ambos, de los escapes de sus vehículos, por lo que en todo caso, deberán acudir a los Centros de Verificación autorizados, a fin de someter su vehículo al control de emisión de contaminantes, obteniendo la constancia u holograma de verificación vehicular que tales centros expidan.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2015)</small>
+
+La sanción por incumplimiento a lo previsto en el párrafo anterior, será sancionada con multa por el importe de hasta un día de salario mínimo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 51 Bis.
+
+En el supuesto previsto en el artículo anterior, se entenderá que el infractor es sancionado con un apercibimiento, por lo que tendrá la oportunidad de solventar la infracción y evitar el pago de la multa, para lo cual deberá realizar la verificación vehicular y comparecer con el vehículo ante el juez calificador en un plazo máximo de quince días naturales a partir del día en que se levante la infracción, quien la cancelará una vez que constate la expedición del certificado u holograma respectivo, entregando un comprobante al infractor con el que podrá recoger el documento retenido como garantía, en su caso, sin cargo alguno.
 
 ### CAPÍTULO QUINTO. DE LOS CONDUCTORES Y PASAJEROS DE VEHÍCULOS DE MOTOR
 
@@ -1899,9 +1913,13 @@ En el caso que se detecte que el infractor tiene en su haber infracciones anteri
 
 En todos los casos que se requiera la presentación del conductor y el vehículo ante el juez calificador para el pago de multas por las infracciones cometidas, se evitará en lo posible que el vehículo sea remitido al depósito vehicular en garantía de pago, para lo cual se le concederá al infractor un plazo de veinticuatro horas desde su presentación ante el juez calificador para que realice las gestiones necesarias para cubrir la o las multas.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 137.
 
-Los agentes o inspectores sólo podrán detener la marcha de un vehículo cuando su conductor haya violado de manera flagrante alguna de las disposiciones de este Reglamento. En consecuencia, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo. Lo anterior no será aplicable en los siguientes casos:
+Los agentes o inspectores sólo podrán detener la marcha de un vehículo cuando su conductor haya violado de manera flagrante alguna de las disposiciones de este Reglamento. En consecuencia, la sola revisión de documentos, constancias, certificados u hologramas, no será motivo para detener el tránsito de un vehículo. Lo anterior no será aplicable en los siguientes casos:
 
 I.- Cuando la Dirección implemente programas preventivos para la detección de conductores en estado de ebriedad, o bajo el influjo de drogas enervantes, a través de los puntos de auxilio vial;
 
@@ -2167,9 +2185,9 @@ c) Graves: Aquellas que se comprenden de 11 a 50 salarios.
 
 > <small>N. DE E. VÉASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PÁGINAS DE LA 96 A LA 106.</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, DE 6 DE NOVIEMBRE DE 2015.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO DE 4 DE DICIEMBRE DE 2015.]</small>
 
-> <small>[N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74; P.O. 6 DE NOVIEMBRE DE 2015, PÁGINA 83.]</small>
+> <small>[N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PÁGINAS DE LA 24 A LA 25; REPUBLICADO, P.O. 7 DE MARZO DE 2003 PÁGINAS DE LA 45 A LA 46; P.O. 11 DE MARZO DE 2005, PÁGINA 57; P.O. 17 DE OCTUBRE DE 2008, PÁGINAS DE LA 41 A LA 42; P.O. 3 DE SEPTIEMBRE DE 2010, PÁGINA 34; P.O. 20 DE ABRIL DE 2012, PÁGINA 57; P.O. 11 DE ENERO DE 2013, PÁGINAS DE LA 60 A LA 74; P.O. 6 DE NOVIEMBRE DE 2015, PÁGINA 83; P.O. 4 DE DICIEMBRE DE 2015, PÁGINA 10.]</small>
 
 ###### ARTÍCULO 148.
 
@@ -2328,3 +2346,9 @@ P.O. 6 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
 
 ÚNICO: LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL DÍA PRIMERO DE ENERO DEL AÑO 2016, SOLO SÍ, EL CONGRESO DEL ESTADO DE BAJA CALIFORNIA, APRUEBA LA IMPLEMENTACIÓN DE LA VERIFICACIÓN VEHICULAR PARA EL EJERCICIO FISCAL 2016.
+
+P.O. 4 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 51 SEGUNDO PÁRRAFO Y PRIMER PÁRRAFO DEL ARTÍCULO 137, LA ADICIÓN DEL ARTÍCULO 51 BIS Y LA DEROGACIÓN DEL CONCEPTO 37 DE LA TABLA DE SANCIONES DEL ARTÍCULO 147 DEL REGLAMENTO DE TRÁNSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor, solo si es aprobado el Decreto del Programa de Verificación Vehicular para el Estado de Baja California para el ejercicio fiscal 2016, al día siguiente de que surta efectos la publicación en el Periódico Oficial del Estado del mismo, en su caso.
