@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-los-consejos-distritales-electorales-722
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-28"
-last_updated: "2009-12-28"
+last_updated: "2015-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LOS CONSEJOS DISTRITALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DE LOS CONSEJOS DISTRITALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACION CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERIOR DE LOS CONSEJOS DISTRITALES ELECTORALES DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LOS CONSEJOS DISTRITALES ELECTORALES DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2009.
 
@@ -786,3 +788,21 @@ CONSEJERO PRESIDENTE
 LIC. DANIEL GARCÍA GARCÍA
 
 SECRETARIO FEDATARIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 4 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DICTAMEN NÚMERO TRES DE LA COMISIÓN DE REGLAMENTOS Y ASUNTOS JURÍDICOS, RELATIVO A LA EXPEDICIÓN DEL REGLAMENTO INTERIOR DE LOS CONSEJOS DISTRITALES ELECTORALES DEL INSTITUTO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor al día de su aprobación por el Consejo General del Instituto Estatal Electoral de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de los Consejos Distritales Electorales aprobado en la Quinta Sesión Ordinaria celebrada en la ciudad de Mexicali, Baja California, el día treinta de septiembre del año dos mii nueve.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo General deberá aprobar el “Manual de Procedimientos para la realización del Cómputo Distrital” a más tardar el último día de febrero del año de la elección.
