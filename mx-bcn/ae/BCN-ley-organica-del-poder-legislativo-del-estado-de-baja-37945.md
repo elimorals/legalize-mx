@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2015-11-20"
+last_updated: "2015-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -905,9 +905,9 @@ Las Comisiones de dictamen legislativo son:
 
 14. Seguridad Publica; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
-15. Equidad y Género.
+15. Para la Igualdad entre Mujeres y Hombres.
 
 Las comisiones de dictamen legislativo tienen las atribuciones siguientes:
 
@@ -1037,9 +1037,9 @@ h) Comisión de Salud, corresponde el análisis, dictamen y proposición de inic
 
 i) Comisión de Seguridad Pública; tendrá a su cargo el análisis, dictaminación y proposición de iniciativas, así como también el impulso de leyes que fomenten organismos y corporaciones confiables y efectivas en el combate a la delincuencia, regulando que actúen en condiciones de respeto a los derechos humanos.
 
-> <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
-j) Comisión de Equidad y Género: es responsable del análisis, dictamen y proposición de iniciativas de ley en materia de género. Corresponderá también la revisión y actualización permanente de la legislación estatal con el fin de asegurar y garantizar que se mantengan condiciones de respeto e igualdad de derechos y oportunidades dentro del sistema normativo local.
+j) Comisión para la Igualdad entre Mujeres y Hombres: es responsable del análisis, dictamen y proposición de iniciativas de ley en materia de igualdad. Corresponderá también la revisión y actualización permanente de la legislación estatal con el fin de asegurar y garantizar que se mantengan condiciones de pleno respeto e igualdad de trato y oportunidades entre mujeres y hombres dentro del sistema normativo local.
 
 A todas estas comisiones les corresponderá, además de las facultades y atribuciones que se señalan, el desahogo de los demás asuntos que le sean remitidos por la Mesa Directiva.
 
@@ -1599,7 +1599,7 @@ ARTICULO 87 BIS.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 TER.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
-ARTICULO 87 QUARTER (SIC) .- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
+ARTICULO 87 QUARTER (SIC).- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
 ARTICULO 87 QUINQUIES.- (DEROGADO, P.O. 3 DE JUNIO DE 2011)
 
@@ -2786,3 +2786,13 @@ P.O. 20 DE NOVIEMBRE DE 2015.
 DECRETO No. 359, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 362 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL NUMERAL 15 DEL ARTÍCULO 56 Y EL INCISO J) DEL ARTÍCULO 60, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado y consecuentemente publíquese en la Gaceta Parlamentaria del Poder Legislativo del Estado de Baja California.
+
+SEGUNDO.- Una vez aprobada la presente reforma por el Congreso del Estado, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Todos los asuntos turnados a la actual Comisión de Dictamen legislativo de Equidad y Género del Congreso del Estado de Baja California, se entenderán remitidos a la Comisión para la Igualdad entre Mujeres y Hombres.
