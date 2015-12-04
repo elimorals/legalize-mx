@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-para-el-otorgamiento-de-becas-de-70909"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-30"
-last_updated: "2009-09-30"
+last_updated: "2015-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACION Y DESARROLLO PARA EL PERSONAL MEDICO, PARAMEDICO Y AFIN QUE OTORGA EL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y SUS MUNICIPIOS
 
-REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACION Y DESARROLLO PARA EL PERSONAL MEDICO, PARAMEDICO Y AFIN QUE OTORGA EL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
+REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACIÓN Y DESARROLLO PARA EL PERSONAL MEDICO, PARAMÉDICO Y AFÍN QUE OTORGA EL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO PARA EL OTORGAMIENTO DE BECAS DE CAPACITACIÓN Y DESARROLLO PARA EL PERSONAL ADSCRITO A LA COORDINACIÓN DE SERVICIOS DE SALUD DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 4 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, publicada el miércoles 30 de septiembre de 2009.
 
@@ -377,7 +379,7 @@ Son obligaciones de los becarios:
 
 I. Presentarse puntualmente y permanecer el tiempo que se requiera en el lugar del evento de acuerdo a los programas de capacitación;
 
-Il. Desempeñar con responsabilidad y eficiencia todas las actividades que se realicen en los eventos de capacitación;
+II. Desempeñar con responsabilidad y eficiencia todas las actividades que se realicen en los eventos de capacitación;
 
 III. Observar los demás lineamientos que se establezcan en el evento;
 
@@ -476,3 +478,17 @@ SILVIANO JAIME PULIDO LÓPEZ
 SECRETARIO DEL HONORABLE CONSEJO DIRECTIVO DEL ISSEMYM
 
 RUBRICA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 4 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Se abroga el Reglamento Interno para el Otorgamiento de Becas de Capacitación y Desarrollo para el Personal Médico, Paramédico o afín, que otorga el Instituto de Seguridad Social del Estado de México y Municipios, publicado en el Periódico Oficial "Gaceta del Gobierno", el 30 de septiembre de 2009.
+
+TERCERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+CUARTO.- Los conflictos, dudas y lo no previsto en el presente Reglamento será resuelto por el Comité en pleno.
+
+QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se contrapongan a las estipuladas en el presente Reglamento.
