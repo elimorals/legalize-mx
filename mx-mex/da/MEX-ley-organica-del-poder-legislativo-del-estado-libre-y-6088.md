@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2015-09-03"
+last_updated: "2015-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1019,7 +1019,9 @@ XXI. Asuntos Indígenas;
 
 XXII. Protección Civil;
 
-XXIII. Para la Protección e Integración al Desarrollo de las Personas con Discapacidad;
+> <small>(REFORMADA, G.G. 4 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Para la atención de grupos vulnerables
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2015)</small>
 
@@ -2076,3 +2078,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Las iniciativas de Ley, Decreto o de Acuerdo pendientes de resolución de la Legislatura “LVIII” y anteriores se tendrán por precluidas, ello, no será impedimento para que puedan volver a presentarse como nuevas iniciativas.
+
+G.G. 4 DE DICIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La integración de la comisión para la protección al desarrollo de las personas con discapacidad, así como los asuntos que le hayan sido turnados, corresponderán a la comisión para la atención de grupos vulnerables.
