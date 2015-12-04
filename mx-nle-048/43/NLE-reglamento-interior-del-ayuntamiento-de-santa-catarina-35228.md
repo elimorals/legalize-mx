@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-ayuntamiento-de-santa-catarina-35228"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-15"
-last_updated: "2007-01-22"
+last_updated: "2015-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE SANTA CATARINA, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE SANTA CATARINA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 15 de diciembre de 2003.
 
@@ -301,9 +303,9 @@ XXII.- Estudiar las características que deben de reunir los nuevos cementerios 
 
 XXIII.- Conocer de todos los reglamentos que no competan a las demás comisiones;
 
-XXIV.- Las demás que le fueren conferidos por el R. Ayuntamiento o que deriven de otros ordenamientos legales; (sic)
+XXIV.- Las demás que le fueren conferidos por el R. Ayuntamiento o que deriven de otros ordenamientos legales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2007)</small>
 
 ###### Artículo 17º.
 
@@ -349,7 +351,7 @@ XII.- Vigilar que los fraccionadores y organismos promotores de vivienda cumplan
 
 XIII.- Las demás que le fueren conferidos por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2007)</small>
 
 ###### Artículo 18°.
 
@@ -477,7 +479,7 @@ XV.- Coordinarse con la Comisión de Desarrollo Rural poniendo especial atenció
 
 XVI.- Las demás que le fueren conferidos por el R. Ayuntamiento o deriven de otros ordenamientos legales.
 
-###### Articulo 24°.
+###### Artículo 24°.
 
 A la Comisión de Recreación y Deporte, le compete:
 
@@ -519,7 +521,7 @@ XI.- Fomentar la participación de Autoridades de salud y de la población con e
 
 XII.- Las demás que le fueren conferidos por el R. Ayuntamiento o deriven de otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2007)</small>
 
 ###### Artículo 26º.
 
@@ -577,7 +579,7 @@ VII.- Vigilar la aplicación de programas que tiendan a la modernización de la 
 
 VIII.- Las demás que le fueren conferidas por el R. Ayuntamiento o que deriven de otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2007)</small>
 
 ###### Artículo 28º.
 
@@ -739,7 +741,7 @@ A los Síndicos y Regidores que solicitaren el uso de la palabra, les será conc
 
 A ningún miembro del R. Ayuntamiento se le deberá interrumpir mientras haga uso de la palabra, al menos que se tratare de alguna moción de orden, de alguna explicación en torno a la propuesta sujeta a discusión; en este caso la interrupción será permitida previa autorización del Presidente Municipal.
 
-###### Articulo 48°.
+###### Artículo 48°.
 
 Si algún miembro del R. Ayuntamiento deseare que se de lectura a un documento, relacionado con el debate para ilustrar la deliberación, le será concedido el uso de la palabra para que haga la moción correspondiente y aceptada que sea su propuesta, el Secretario del R. Ayuntamiento dará lectura al documento.
 
@@ -907,7 +909,7 @@ C. TOMAS G. CANDIA VALDIVIEZO
 
 SECRETARIO DEL AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE ENERO DE 2007.
 
@@ -916,3 +918,13 @@ Artículo Primero.- Las presentes Reformas y Adiciones entrarán en vigor al dí
 Artículo Segundo.- Se abrogan todas las disposiciones contenidas en el Reglamento Interior publicado en el Periódico Oficial del Estado el 15 de Diciembre de 2003 en todo lo que se oponga al presente Reglamento.
 
 Artículo Tercero.- Envíese para su publicación en el Periódico Oficial del Estado, por conducto de la Secretaría General de Gobierno.
+
+P.O. 4 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Se Abroga el Reglamento Interior del R. Ayuntamiento publicado en fecha 22 de Enero del 2007, y todas sus reformas posteriores.
+
+SEGUNDO.- Se Derogan todas las disposiciones que contravengan al presente Reglamento, siendo que entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Nuevo León.
+
+TERCERO.- Los actos jurídicos municipales, así como trámites diversos iniciados ante el R. Ayuntamiento de manera previa a la entrada en vigor del presente Reglamento, se substanciarán y resolverán conforme a las reglas del reglamento que se abroga.
+
+CUARTO.- Se ordena la publicación del presente Reglamento en la Gaceta Municipal, y envíese al Ejecutivo del Estado, para su publicación en el Periódico Oficial.
