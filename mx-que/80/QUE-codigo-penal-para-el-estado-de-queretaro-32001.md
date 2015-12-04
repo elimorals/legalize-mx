@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2015-05-08"
+last_updated: "2015-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1305,9 +1305,11 @@ II.- El agente haya realizado el hecho empleando medios o aprovechando circunsta
 
 III.- El agente haya realizado el hecho quebrantando la confianza o seguridad que expresamente le había prometido al ofendido, o las tácitas que éste debia esperar de aquél, por las relaciones que fundadamente deben inspirar seguridad o confianza;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
-IV.- El delito que se cometa por medio de inundación, incendio, asfixia, minas, bombas, explosivos o cualquier otra substancia nociva a la salud, o con ensañamiento crueldad o por motivos depravados, y
+IV. El delito que se cometa por medio de inundación, incendio, asfixia, minas, bombas, explosivos o cualquier otra substancia nociva a la salud, o con ensañamiento crueldad o por motivos depravados o de odio manifiesto por la preferencia sexual o identidad de género de la víctima.
+
+Se entiende por odio manifiesto, que la víctima presente signos de violencia sexual o mutilaciones o quemaduras o asfixia o existan antecedentes o datos previos al hecho, que establezcan que hubo amenazas o acoso contra la víctima relacionadas a su preferencia sexual o identidad de género.
 
 V.- El delito se cometa dolosamente y no concurra ninguna de las circunstancias atenuantes señaladas en este Código, en agravio de su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de ese parentesco o relación.
 
@@ -1983,25 +1985,39 @@ Se tendrá por consumado el robo desde el momento en que el ladrón tiene en su 
 
 Comete el delito de abigeato el que en cualquier sitio se apodere de una o más cabezas de ganado mayor o menor sin consentimiento de quien legalmente pueda disponer de ellos. A quien le cometa, se le impondrán las penas siguientes:
 
-I.- De 6 meses a 2 años de prisión y de 1 a 50 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
-II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza (sic) de ganado mayor; y
+I. De 1 a 3 años de prisión y de 30 a 180 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
 
-III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor ó sobre más de dos cabezas de ganado mayor.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+II. De 3 a 8 años de prisión y de 180 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor o una o dos cabezas de ganado mayor; y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2015)</small>
+
+III. De 4 a 10 años de prisión y de 500 a 600 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor o sobre más de dos cabezas de ganado mayor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 190.
 
-Se aplicará prisión de 6 meses a 4 años Y de 20 a 500 días multa a quien:
+Se aplicará prisión de 1 a 6 años y de 90 a 600 días multa a quien:
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 I.- Altere o elimine las marcas de animales vivos, cueros o pieles;
 
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 II.- A sabiendas marque, contramarque, señale o contraseñale sin derecho animales; y
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1999)</small>
 
 III.- Expida certificados de contenido falso para obtener guías simulando ventas o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificadas para cualquier negociación sobre ganado, pieles o cueros.
 
-Al que sin tomar las medidas necesarias para cerciorarse de la procedencia legítima de los animales, adquiera ganado o comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de 2 a 10 años y de 20 a 500 días multa.
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2015)</small>
+
+Al que, sin tomar las medidas necesarias para cerciorarse de la procedencia legítima de los animales, adquiera ganado o comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de 3 a 12 años y de 90 a 600 días multa
 
 ### CAPITULO VIII. DESPOJO
 
@@ -2753,7 +2769,7 @@ Para los efectos de este Título, se entiende por asentamiento humano irregular 
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2002)</small>
 
-ARTICULO 246 G.- La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en el presente capítulo se realicen sobre áreas protegidas o de preservación ecológica o en zonas no consideradas aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
+Artículo 246 G.- La pena de prisión se incrementará hasta en una mitad más cuando las conductas previstas en el presente capítulo se realicen sobre áreas protegidas o de preservación ecológica o en zonas no consideradas aptas para vivienda por los Planes y Programas de Desarrollo Urbano respectivos.
 
 En cualquier caso, la sanción se incrementará de 3 meses a 3 años, si el sujeto activo obtuvo cualquier beneficio de carácter patrimonial por el delito cometido, sin perjuicio de la reparación del daño ocasionado.
 
@@ -4230,3 +4246,19 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Los Ayuntamientos de los Municipios del Estado de Querétaro, dentro de los seis meses siguientes al inicio de vigencia de la presente Ley, emitirán las disposiciones reglamentarias que correspondan o adecuarán las existentes, a efecto de que los daños que se cometan por medio de pintas de signos o grabados, mensajes o dibujos sobre bienes muebles o inmuebles ajenos o propios que no estén bajo posesión legal de quien los realiza y sin el consentimiento de quien esté facultado para otorgarlo conforme a la ley, sean sancionados de manera administrativa.
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 4 DE DICIEMBRE DE 2015.
+
+LEY POR LA QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 131, DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 4 DE DICIEMBRE DE 2015.
+
+LEY POR LA QUE SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 189; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 190 DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
