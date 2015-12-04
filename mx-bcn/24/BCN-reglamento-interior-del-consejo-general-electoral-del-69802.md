@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-consejo-general-electoral-del-69802"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-07"
-last_updated: "2013-01-11"
+last_updated: "2015-12-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL CONSEJO GENERAL ELECTORAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 7 de agosto de 2009.
 
@@ -1522,3 +1524,13 @@ P.O. 22 DE ENERO DE 2010.
 P.O. 11 DE ENERO DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 4 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DICTAMEN NÚMERO 2 DE LA COMISIÓN DE REGLAMENTOS Y ASUNTOS JURÍDICOS, RELATIVO A LA EXPEDICIÓN DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL ELECTORAL DE BAJA CALIFORNIA”.]
+
+Primero. El presente Reglamento entrará en vigor el día de su aprobación por el Consejo General del Instituto Estatal Electoral de Baja California.
+
+Segundo. Se abroga el Reglamento Interior del Consejo General Electoral aprobado en la IV Sesión Extraordinaria del Consejo General, celebrada el veinticuatro de febrero de 2009 y el de la Dirección General del Instituto Electoral y de Participación Ciudadana, aprobado en la IV Sesión Ordinaria del Consejo General, celebrada el veintinueve de julio del año 2009, respectivamente, así como sus posteriores reformas y adiciones.
+
+Tercero. Publíquese el presente Reglamento en el Periódico Oficial del Estado de Baja California.
