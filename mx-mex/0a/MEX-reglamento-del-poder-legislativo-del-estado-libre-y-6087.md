@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2015-09-03"
+last_updated: "2015-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -407,7 +407,9 @@ d) De las bases normativas sobre la organización, prevención y participación 
 
 e) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-XXIII. La Comisión para la Protección e Integración al Desarrollo de las de Personas con Discapacidad, conocerá de los temas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE DICIEMBRE DE 2015)</small>
+
+XXIII. La Comisión Para la atención de grupos vulnerables, conocerá de los temas siguientes:
 
 a) Los relacionados con el marco jurídico de los derechos de los niños, de las personas con discapacidad, de los adultos mayores y de cualquier grupo vulnerable;
 
@@ -5545,7 +5547,15 @@ SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 
 TERCERO.- Las iniciativas de Ley, Decreto o de Acuerdo pendientes de resolución de la Legislatura "LVIII” y anteriores se tendrán por precluidas, ello, no será impedimento para que puedan volver a presentarse como nuevas iniciativas.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 233 POR EL QUE SE REFORMA EL ARTÍCULO 174 Y SE ADICIONA EL ARTÍCULO 174 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
+G.G. 4 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 35.- POR EL QUE SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO Y SE REFORMA LA FRACCIÓN XXIII DEL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La integración de la comisión para la protección al desarrollo de las personas con discapacidad, así como los asuntos que le hayan sido turnados, corresponderán a la comisión para la atención de grupos vulnerables.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 254 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
