@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2015-09-05"
+last_updated: "2015-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1° DE ENERO DE 2016, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -623,11 +621,19 @@ I. De injerencias arbitrarias o ilegales en su vida privada, su familia, su domi
 
 II. De divulgaciones o difusiones ilícitas de información o datos personales; o
 
-III. Cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación que cuenten con concesión para prestar el servicio de radiodifusión y telecomunicaciones, así como medios impresos, o en medios electrónicos de los que tenga control el concesionario o medio impreso del que se trate, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio del interés superior de la niñez.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2015)</small>
+
+III. Cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio del interés superior de la niñez.
 
 Las autoridades, en el ámbito de sus respectivas competencias garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes.
 
-Los medios de comunicación deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendientes a su discriminación, criminalización o estigmatización, en contravención a la Ley General y la legislación de la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2015)</small>
+
+Los medios de comunicación locales deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños, y adolescentes, aun cuando se modifiquen se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendientes a su discriminación criminalización o estigmatización, en contravención a la Ley General y la legislación de la materia.
 
 ###### Artículo 54.
 
@@ -939,7 +945,11 @@ XVII. Implementar, en forma coordinada con la Federación, en el ámbito de sus 
 
 XVIII. Vigilar el cumplimiento de la normatividad prevista e implementar los mecanismos necesarios para que los centros públicos, privados y sociales que atienden a niñas, niños y adolescentes cumplan los requerimientos de infraestructura, recursos y funcionamiento, que garanticen su salud física y mental; y
 
-XIX. Prevenir, solicitar la suspensión y sancionar toda información publicada por internet o cualquier otro medio de comunicación que afecte los derechos humanos, o ponga en riesgo objetivamente el desarrollo integral o el interés superior de la niñez, conforme a lo previsto por esta Ley y las disposiciones legales aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2015)</small>
+
+XIX. Prevenir, solicitar la suspensión y sancionar toda información publicada por internet o cualquier otro medio de comunicación local que afecte los derechos humanos, o ponga en riesgo objetivamente el desarrollo integral o el interés superior de la niñez, conforme a lo previsto por esta Ley y las disposiciones legales aplicables.
 
 ###### Artículo 75.
 
@@ -1576,3 +1586,9 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE DICIEMBRE DE 2015.
+
+ÚNICO. La presente reforma entrará en vigor conforme a lo previsto en el decreto 25455/LX/15, el día 1 de enero de 2016, previa publicación en el periódico oficial El Estado de Jalisco.
