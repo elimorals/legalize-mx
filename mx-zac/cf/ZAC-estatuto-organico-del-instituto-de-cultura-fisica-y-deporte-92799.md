@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-cultura-fisica-y-deporte-927
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-02-09"
-last_updated: "2013-02-09"
+last_updated: "2015-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS, PUBLICADO EN EL SUPLEMENTO DEL P.O. DE 5 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Estatuto publicado en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 9 de febrero de 2013.
 
@@ -888,3 +890,15 @@ Tercero.- Los asuntos que se encuentren en trámite a cargo de las Direcciones, 
 Cuarto.- Dentro del término de treinta días naturales, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá expedirse el Manual de Organización y 180 días el Manual de Procedimientos y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 APROBADO POR EL CONSEJO CONSULTIVO DEL INSTITUTO DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS, EN SESIÓN CELEBRADA EN LA CIUDAD DE ZACATECAS, ZAC., A LOS DIECINUEVE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL TRECE.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. DE 5 DE DICIEMBRE DE 2015.
+
+Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se Abroga el Estatuto Orgánico del INCUFIDEZ publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en el Suplemento número 2 al 12, de fecha 9 de febrero del 2013.
+
+Tercero.- Los asuntos que se encuentren en trámite a cargo de las Direcciones, Coordinaciones, Departamentos y Unidades que se modifiquen o cambien de adscripción, los continuarán y resolverán las áreas que el presente Estatuto Orgánico establezca.
+
+Cuarto.- Dentro del término de ciento ochenta días contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberán expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado los Manuales correspondientes.
