@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-364-estatal-del-servicio-civil-de-veracruz-6719"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-04"
-last_updated: "2015-03-02"
+last_updated: "2015-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6719&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE FEBRERO DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. DE 2 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 4 de abril de 1992.
 
@@ -485,11 +483,87 @@ IV.- Otras análogas a las establecidas en las fracciones anteriores, de igual m
 
 El trabajador podrá separarse del servicio dentro de los dos meses siguientes a la fecha en que ocurra cualquiera de las causas mencionadas en el artículo anterior y tendrá derecho a que se le indemnice con el importe de tres meses de salario, veinte días por cada año de servicios efectivos y los salarios vencidos que se causen desde la fecha de la separación hasta que se pague la indemnización.
 
-### CAPITULO I. De la Jornada de Trabajo y de los Descansos legales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO V. De la Capacitación y Adiestramiento de los Trabajadores
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Bis.
+
+Las entidades públicas tienen obligación de proporcionar a todos sus trabajadores, y éstos a recibir, la capacitación y el adiestramiento en su trabajo que les permita elevar su nivel de vida, competencia laboral y productividad, conforme a los planes y programas formulados de común acuerdo, por las propias entidades públicas o los patrones y el sindicato correspondiente o la mayoría de los trabajadores de confianza.
+
+Para dar cumplimiento a esa obligación, las entidades públicas podrán convenir con los trabajadores que la capacitación o adiestramiento se proporcione a éstos dentro de la misma dependencia, empresa, o fuera de ella, por conducto de personal propio, instructores especialmente contratados, instituciones, escuelas u organismos especializados, o bien mediante adhesión a los sistemas generales que se establezcan.
+
+Las instituciones, escuelas u organismos especializados, así como los instructores independientes que deseen impartir formación, capacitación o adiestramiento, así como su personal docente, deberán estar autorizados por la Secretaría del Trabajo, Previsión Social y Productividad del Estado, y registrados ante ella. Ésta sólo realizará el registro correspondiente a quienes acrediten satisfactoriamente tener conocimientos técnicos o científicos de la rama en la que pretendan impartir adiestramiento.
+
+Los cursos y programas de capacitación o adiestramiento, así como los programas para elevar la productividad y eficiencia de los servicios de las entidades públicas, podrán formularse respecto de cada área o dirección, varias de ellas o respecto de una rama o actividad determinada.
+
+La capacitación o adiestramiento deberá impartirse a los trabajadores durante las horas de su jornada de trabajo, salvo que, atendiendo a la naturaleza de los servicios, la entidad pública y los trabajadores convengan que podrá impartirse de otra manera. Cuando un trabajador desee capacitarse en una actividad distinta a la de la ocupación que desempeñe, la capacitación se realizará fuera de la jornada de trabajo.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Ter.
+
+La capacitación también tendrá por objeto preparar a los trabajadores de nueva contratación y a los demás interesados en ocupar las vacantes o puestos de nueva creación.
+
+Podrá formar parte de los programas de capacitación el apoyo que la entidad pública preste a los trabajadores para iniciar, continuar o completar ciclos escolares de los niveles básico, medio y superior.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Quáter.
+
+El adiestramiento tendrá por objeto:
+
+I. Actualizar y perfeccionar los conocimientos y habilidades de los trabajadores y proporcionarles información para que puedan aplicar en sus actividades las nuevas tecnologías, que la Administración Pública o privada deberá implementar, para incrementar la productividad;
+
+II. Hacer del conocimiento de los trabajadores los riesgos y peligros a que están expuestos durante el desempeño de sus labores, así como las disposiciones contenidas en sus reglamentos y en las normas oficiales mexicanas, en materia de seguridad, salud y medio ambiente de trabajo que les son aplicables, para prevenir riesgos de trabajo;
+
+III. Incrementar la productividad; y
+
+IV. En general, mejorar el nivel educativo, la competencia laboral y las habilidades de los trabajadores, para contar con mano de elementos calificados.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Quinquies.
+
+Los trabajadores a quienes se impartan capacitaciones o adiestramientos están obligados a:
+
+I. Asistir puntualmente a los cursos, sesiones de grupo y demás actividades que formen parte del proceso de capacitación o adiestramiento; y
+
+II. Presentar los exámenes de evaluación de conocimientos, aptitudes o de competencia laboral que sean requeridos por las entidades públicas.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Sexies.
+
+Las entidades públicas que tengan más de cincuenta trabajadores constituirán comisiones mixtas de capacitación y adiestramiento, integradas por representantes de los trabajadores y de los patrones, en número igual, que serán las encargadas de:
+
+l. Vigilar, instrumentar, operar y mejorar los sistemas y programas de capacitación y adiestramiento; y
+
+II. Proponer los cambios necesarios en la maquinaria, equipos, organización del trabajo y relaciones laborales, de conformidad con las mejores prácticas tecnológicas y administrativas, que incrementen la productividad en función de su grado de desarrollo actual.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Septies.
+
+Las autoridades laborales cuidarán que las comisiones mixtas de capacitación y adiestramiento se integren y funcionen oportuna y normalmente, vigilando el cumplimiento de sus obligaciones.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Octies.
+
+Las entidades públicas deberán conservar a disposición de la Secretaría del Trabajo, Previsión Social y Productividad del Estado, los planes y programas de capacitación y adiestramiento que se hubieren acordado establecer o, en su caso, las modificaciones que convinieren acerca de planes y programas ya implantados.
+
+> <small>(ADICIONADO, G.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 45 Nonies.
+
+Los trabajadores que hubieran aprobado los exámenes de capacitación y adiestramiento, en los términos de este Capítulo, tendrán derecho a que la entidad instructora les expida las constancias respectivas, que serán autentificadas por la comisión mixta de capacitación y adiestramiento de la entidad pública o privada, y se harán del conocimiento de la Secretaría del Trabajo, Previsión Social y Productividad, a fin de que las registre y las tomen en cuenta al formular el padrón de trabajadores capacitados que corresponda.
 
 ## TITULO TERCERO. DE LAS CONDICIONES DE TRABAJO
 
-### CAPITULO II. De los Salarios
+### CAPITULO I. De la Jornada de Trabajo y de los Descansos legales
 
 ###### ARTICULO 46.
 
@@ -551,7 +625,7 @@ Cuando por la naturaleza del servicio que presta la Entidad Pública o Dependenc
 
 Para la designación del personal que quedará de guardia, se utilizará el servicio de trabajadores que no tuviesen derecho a vacaciones en el tiempo que esto ocurra, si los que se quedasen de guardia tuviesen derecho a ellas, las disfrutarán dentro de los tres meses siguientes a la fecha en que las mismas debieron iniciarse, a elección del interesado y previa autorización del Titular.
 
-### CAPITULO III. Del Escalafón
+### CAPITULO II. De los Salarios
 
 ###### ARTICULO 56.
 
@@ -629,7 +703,7 @@ En ningún caso los trabajadores amparados por esta Ley percibirán un salario i
 
 Las personas físicas consideradas por la Ley Federal del Trabajo como beneficiarias del trabajador fallecido, tendrán derecho a percibir las prestaciones e indemnizaciones pendientes de cubrirse o derivadas de la muerte del trabajador, a ejercitar las acciones y continuar los juicios sin necesidad de juicio sucesorio.
 
-### CAPITULO IV. De las Licencias
+### CAPITULO III. Del Escalafón
 
 ###### ARTICULO 69.
 
@@ -713,7 +787,7 @@ Las vacantes temporales mayores de seis meses serán ocupadas por riguroso escal
 
 El procedimiento para resolver las inconformidades de los trabajadores afectados por trámite o movimiento escalafonario, se establecerá en el Reglamento de Escalafón.
 
-### CAPITULO UNICO. De los Accidentes y Enfermedades
+### CAPITULO IV. De las Licencias
 
 ###### ARTICULO 87.
 
@@ -765,7 +839,7 @@ El trabajador de base que sea promovido a un puesto de confianza tendrá derecho
 
 ## TITULO CUARTO. DE LOS RIESGOS DE TRABAJO Y DE LAS ENFERMEDADES NO PROFESIONALES
 
-### CAPITULO UNICO. De los Términos, el Inicio y la Interrupción
+### CAPITULO UNICO. De los Accidentes y Enfermedades
 
 ###### ARTICULO 95.
 
@@ -791,7 +865,7 @@ Los riesgos de trabajo que sufran los trabajadores, para todos sus efectos, se r
 
 ## TITULO QUINTO. DE LAS PRESCRIPCIONES
 
-### CAPITULO UNICO. De los Sindicatos y las Federaciones
+### CAPITULO UNICO. De los Términos, el Inicio y la Interrupción
 
 ###### ARTICULO 100.
 
@@ -847,7 +921,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ## TITULO SEXTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES
 
-### CAPITULO UNICO. De su Celebración, Contenido y Efectos
+### CAPITULO UNICO. De los Sindicatos y las Federaciones
 
 ###### ARTICULO 107.
 
@@ -1025,7 +1099,7 @@ En los casos de violación a lo dispuesto en el artículo anterior, el Tribunal 
 
 ## TITULO SEPTIMO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
-### CAPITULO UNICO. De los Objetivos y el Procedimiento
+### CAPITULO UNICO. De su Celebración, Contenido y Efectos
 
 ###### ARTICULO 135.
 
@@ -1069,7 +1143,7 @@ Las condiciones Generales de Trabajo surtirán sus efectos a partir de la fecha 
 
 ## TITULO OCTAVO. DE LA HUELGA
 
-### CAPITULO I. De su Constitución e Integración
+### CAPITULO UNICO. De los Objetivos y el Procedimiento
 
 ###### ARTICULO 140.
 
@@ -1167,7 +1241,7 @@ De negarse los trabajadores a continuar laborando, la Entidad Pública quedará 
 
 ## TITULO NOVENO. DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE
 
-### CAPITULO II. De la Procuraduría de la Defensa de los Trabajadores al Servicio de las Entidades Públicas
+### CAPITULO I. De su Constitución e Integración
 
 ###### ARTICULO 158.
 
@@ -1345,7 +1419,7 @@ VIII.- Sea deudor, acreedor, heredero o legatario de cualquiera de las partes o 
 
 Las excusas se calificarán de plano y su trámite y efectos se determinarán en el Reglamento Interior del Tribunal.
 
-### CAPITULO III. De la Competencia del Tribunal Estatal de Conciliación y Arbitraje
+### CAPITULO II. De la Procuraduría de la Defensa de los Trabajadores al Servicio de las Entidades Públicas
 
 ###### ARTICULO 180.
 
@@ -1371,7 +1445,7 @@ IV.- No haber sido condenado por delito realizado con dolo sancionado con pena c
 
 El Reglamento determinará las funciones de la Procuraduría de la Defensa de los Trabajadores al Servicio de las Entidades Públicas.
 
-### CAPITULO IV. De la Actuación del Tribunal Estatal de Conciliación y Arbitraje
+### CAPITULO III. De la Competencia del Tribunal Estatal de Conciliación y Arbitraje
 
 ###### ARTICULO 183.
 
@@ -1409,7 +1483,7 @@ II.- Tramitar y desahogar los conflictos, actuaciones y diligencias que les sean
 
 III.- Las demás que les confieren las Leyes.
 
-### CAPITULO V. Del Procedimiento Ordinario
+### CAPITULO IV. De la Actuación del Tribunal Estatal de Conciliación y Arbitraje
 
 ###### ARTICULO 185.
 
@@ -1585,7 +1659,7 @@ Las resoluciones dictadas por el Tribunal Estatal de Conciliación y Arbitraje y
 
 Todas las actuaciones procesales serán autorizadas por el Secretario General de Acuerdos excepción hecha de las diligencias encomendadas a otros funcionarios; lo actuado en las audiencias se hará constar en actas, las cuales deberán ser firmadas por las personas que en ellas intervinieron, cuando éstas quieran y sepan hacerlo. Cuando algún Magistrado del Tribunal o de las Salas omitiera firmar las actas de las diligencias en las que estuvo presente, se entenderá que está conforme con ellas. De las actas de las audiencias se entregará copia autógrafa a cada una de las partes.
 
-### CAPITULO VI. Del Procedimiento para la Declaración de Beneficiarios
+### CAPITULO V. Del Procedimiento Ordinario
 
 ###### ARTICULO 213.
 
@@ -1687,6 +1761,8 @@ Cuando la parte condenada sea una autoridad estatal o municipal, el laudo deber�
 
 Transcurrido este plazo sin que la autoridad haya dado cumplimiento al laudo, el Tribunal dictará auto de requerimiento de pago y embargo y lo notificará a la parte condenada, aplicando en lo conducente las disposiciones relativas al procedimiento de embargo, previstas en la Ley Federal del Trabajo, con la finalidad de ejecutar de manera completa esta resolución hasta lograr el pago íntegro de todas las prestaciones adeudadas, atendiendo a lo dispuesto por la Ley de Bienes y el Código Hacendario Municipal, ambos ordenamientos para el Estado de Veracruz de Ignacio de la Llave.
 
+### CAPITULO VI. Del Procedimiento para la Declaración de Beneficiarios
+
 ###### ARTICULO 225.
 
 El procedimiento para la declaración de beneficiarios, con derecho a recibir las prestaciones e indemnizaciones pendientes de cubrirse o derivadas de la muerte del trabajador, podrá iniciarse con la presentación del escrito de demanda o bien con la solicitud de quien o quienes se crean con derecho a ser declarados beneficiarios.
@@ -1778,5 +1854,13 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 27 DE FEBRERO DE 2015.
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 604 QUE ADICIONA UN CAPÍTULO QUINTO, DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS TRABAJADORES, AL TÍTULO SEGUNDO, Y LOS ARTÍCULOS 45 BIS AL 45 NONIES, A LA LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
