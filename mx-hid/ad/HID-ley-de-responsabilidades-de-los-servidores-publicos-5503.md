@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2015-05-01"
+last_updated: "2015-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -73,7 +73,9 @@ Son sujetos de esta Ley, los servidores públicos de los Poderes Ejecutivo, Legi
 
 Las autoridades competentes para aplicar la presente Ley serán:
 
-I.- La Cámara de Diputados;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+I.- El Congreso del Estado Libre y Soberano de Hidalgo;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -94,6 +96,20 @@ VI.- La Auditoría Superior del Estado; y
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2013)</small>
 
 VII.- Los demás órganos jurisdiccionales que determinen las leyes.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 3o Bis.
+
+Para efectos de esta Ley, se entenderá por:
+
+I. Congreso: Congreso del Estado Libre y Soberano de Hidalgo:
+
+II. Comisión: Comisión Instructora.
+
+III. Tribunal: Tribunal Superior de Justicia del Estado de Hidalgo.
+
+IV. Auditoría: Auditoría Superior del Estado.
 
 ###### ARTICULO 4o.
 
@@ -151,9 +167,11 @@ Si la resolución que se dicte en el juicio político es condenatoria, se sancio
 
 El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones. Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 10.
 
-Corresponde a la Cámara de Diputados el procedimiento relativo al juicio político, actuando como órgano de acusación, y al Tribunal Superior de Justicia en el Estado fungir como Jurado de Sentencia.
+Corresponde al Congreso, el procedimiento relativo al juicio político, actuando como órgano de acusación, y al Tribunal, fungir como Jurado de Sentencia.
 
 ###### ARTICULO 11.
 
@@ -161,11 +179,11 @@ Al proponerse en el Congreso del Estado, la constitución de las Comisiones para
 
 Aprobada la propuesta a que hace referencia el párrafo anterior, se designarán los integrantes que formen la Comisión Instructora, que quedará como sigue: Se integrará por cinco diputados, tres propietarios y dos suplentes, debiendo fungir como Presidente y Secretario de la misma, los nombrados en primero y segundo términos, respectivamente, quedando el tercero como vocal. Los suplentes cubrirán las vacantes que se presenten al funcionar esta Comisión. De ocurrir más vacantes, se procederá en los términos de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 12.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Cámara de Diputados por las conductas a que se refiere el Artículo 7 de esta Ley. Presentada la denuncia y ratificada dentro de tres días hábiles se turnará de inmediato con la documentación que la acompaña a la Comisión Instructora, para que dictamine si la conducta atribuida corresponde a las enumeradas por aquellos preceptos y si el inculpado está comprendido entre los servidores públicos a que se refiere el Artículo 2 de esta Ley; así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso, por las conductas a que se refiere el Artículo 7 de esta Ley. Presentada la denuncia y ratificada dentro de tres días hábiles se turnará de inmediato con la documentación que la acompaña a la Comisión, para que dictamine si la conducta atribuida corresponde a las enumeradas por aquellos preceptos y si el inculpado está comprendido entre los servidores públicos a que se refiere el Artículo 2 de esta Ley; así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
 
 Las denuncias anónimas no producirán ningún efecto.
 
@@ -213,23 +231,25 @@ IV.- Que en caso de ser aprobadas las conclusiones, se envíe la declaración co
 
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren concurrido en los hechos.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 18.
 
-Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la Comisión Instructora las entregará al Secretario de la Cámara de Diputados para que dé cuenta al Presidente de la misma, quien anunciará que dicha Cámara debe reunirse y resolver sobre la imputación, dentro de los tres días hábiles siguientes, lo que hará saber el secretario al denunciante y al servidor público denunciado, para que aquél se presente por sí y éste lo haga personalmente, asistido de su defensor, a fin de que aleguen lo que convenga a sus derechos.
+Una vez emitidas las conclusiones a que se refieren los artículos precedentes, la Comisión las entregará al Secretario del Congreso, para que dé cuenta al Presidente de la Directiva del mismo, quien anunciará que dicho Congreso debe reunirse y resolver sobre la imputación, dentro de los tres días hábiles siguientes, lo que hará saber el secretario al denunciante y al servidor público denunciado, para que aquél se presente por sí y éste lo haga personalmente, asistido de su defensor, a fin de que aleguen lo que convenga a sus derechos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 19.
 
-La Comisión Instructora deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas al Secretario de la Cámara, conforme a los Artículos anteriores, dentro del plazo de sesenta días hábiles, contando desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar de la Cámara que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días hábiles.
+La Comisión deberá practicar todas las diligencias y formular sus conclusiones, hasta entregarlas al Secretario del Congreso, conforme a los Artículos anteriores, dentro del plazo de sesenta días hábiles, contando desde el día siguiente a la fecha en que se le haya turnado la denuncia, a no ser que por causa razonable y fundada se encuentre impedida para hacerlo. En este caso podrá solicitar del Congreso, que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días hábiles.
 
-Los plazos a que se refiere este Artículo se entienden comprendidos dentro del período ordinario de sesiones de la Cámara o bien dentro del siguiente ordinario o extraordinario que se convoque.
+Los plazos a que se refiere este Artículo se entienden comprendidos dentro del período ordinario de sesiones del Congreso o bien dentro del siguiente ordinario o extraordinario que se convoque.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 20.
 
-El día señalado, conforme al Artículo 18 de esta Ley, la Cámara de Diputados se erigirá en órgano de acusación, previa declaración de su presidente. En seguida la Secretaría dará lectura a las constancias procedimentales o a una síntesis que contenga los puntos sustanciales de estas, así como a las conclusiones de la Comisión Instructora. Acto continuo se concederá la palabra al denunciante y en seguida al servidor público o a su defensor, o a ambos, si algunos de éstos lo solicitaren, para que aleguen lo que convenga a sus derechos.
+El día señalado, conforme al Artículo 18 de esta Ley, el Congreso, se erigirá en órgano de acusación, previa declaración de su Presidente. Enseguida la Secretaría dará lectura a las constancias procedimentales o a una síntesis que contenga los puntos sustanciales de estas, así como a las conclusiones de la Comisión. Acto continuo se concederá la palabra al denunciante y enseguida al servidor público o a su defensor o a ambos, si algunos de éstos lo solicitaren, para que aleguen lo que convenga a sus derechos.
 
 El denunciante podrá replicar y, si lo hiciere, el imputado y su defensor podrán hacer uso de la palabra en último término.
 
@@ -237,9 +257,11 @@ El denunciante podrá replicar y, si lo hiciere, el imputado y su defensor podr�
 
 Retirados el denunciante, el servidor público y su defensor, se procederá a discutir y a votar las conclusiones propuestas por la Comisión Instructora.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 21.
 
-Si la Cámara resolviese que no procede acusar al servidor público, éste continuará en el ejercicio de su cargo. En caso contrario, se le pondrá a disposición del Tribunal Superior de Justicia, al que se remitirá la acusación, designándose una comisión de tres diputados para que sostenga aquélla ante el Tribunal.
+Si el Congreso, resolviese que no procede acusar al servidor público, éste continuará en el ejercicio de su cargo. En caso contrario, se le pondrá a disposición del Tribunal, al que se remitirá la acusación, designándose una comisión de tres diputados para que sostenga aquélla ante el mismo.
 
 ###### ARTICULO 22.
 
@@ -271,53 +293,69 @@ III.- Retirados el servidor público, su defensor y la comisión de diputados, s
 
 ### CAPITULO III. Procedimiento para la Declaración de Procedencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 25.
 
-Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, a fin de que pueda procederse en contra de algunos de los servidores públicos a que se refieren los Artículos 149 y 150 de la Constitución Política para el Estado de Hidalgo, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante la Cámara de Diputados. En este caso, la Comisión Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del imputado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, la Comisión dictaminará si ha lugar a proceder penalmente en contra del inculpado.
+Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal a fin de que pueda procederse en contra de algunos de los servidores públicos a que se refieren los Artículos 149 y 150 de la Constitución Política para el Estado de Hidalgo, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el capítulo anterior en materia de juicio político ante el Congreso. En este caso, la Comisión practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del imputado, así como la subsistencia del fuero constitucional, cuya remoción se solicita. Concluida esta averiguación, la Comisión dictaminará si ha lugar a proceder penalmente en contra del inculpado.
 
-Si a juicio de la Comisión, la imputación fuese notoriamente improcedente, lo hará saber de inmediato a la Cámara, para que ésta resuelva si se continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+Si a juicio de la Comisión, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si se continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
 Para los efectos del primer párrafo de este artículo, la Comisión deberá rendir su dictamen en un plazo de setenta días hábiles, salvo que fuese necesario disponer de más tiempo a criterio de la Comisión. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 26.
 
-Dada cuenta del dictamen correspondiente, el Presidente de la Cámara anunciará a ésta que debe erigirse en Jurado de Procedencia al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndole saber al inculpado y a su defensor, así como al denunciante, al querellante o al Ministerio Público, en su caso.
+Dada cuenta del dictamen correspondiente, el Presidente de la Directiva del Congreso, anunciará a éste que debe erigirse en Jurado de Procedencia, al día siguiente a la fecha en que se hubiese depositado el dictamen, haciéndole saber al inculpado y a su defensor, así como al denunciante, al querellante o al Ministerio Público, en su caso.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 27.
 
-El día designado, previa declaración del Presidente de la Cámara, ésta conocerá en Asamblea del dictamen que la Comisión le presente y actuará en los mismos términos previstos por el artículo 20 en materia de juicio político.
+El día designado, previa declaración del Presidente de la Directiva del Congreso, éste conocerá en Asamblea, del dictamen que la Comisión le presente y actuará en los mismos términos previstos por el artículo 20 en materia de juicio político.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 28.
 
-Si la Cámara de Diputados declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá procedimiento ulterior mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
+Si el Congreso, declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión y sujeto a la jurisdicción de los tribunales competentes. En caso negativo, no habrá procedimiento ulterior mientras subsista el fuero, pero tal declaración no será obstáculo para que el procedimiento continúe su curso, cuando el servidor público haya concluido el desempeño de su empleo, cargo o comisión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 29.
 
-Cuando se siga proceso penal a un servidor público de los mencionados en los Artículos 149 y 150 de la Constitución Política para el Estado de Hidalgo, sin haberse satisfecho el procedimiento al que se refieren los Artículos anteriores, la Secretaría de la misma Cámara o de la Comisión Permanente librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+Cuando se siga proceso penal a un servidor público de los mencionados en los Artículos 149 y 150 de la Constitución Política para el Estado de Hidalgo, sin haberse satisfecho el procedimiento al que se refieren los Artículos anteriores, la Secretaría del Congreso o de la Diputación Permanente, librará oficio al Juez o Tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
 
 ### CAPITULO IV. Disposiciones Comunes para los Capítulos II y III del Título Segundo
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 30.
 
-Las declaraciones y resoluciones definitivas de la Cámara de Diputados y del Tribunal Superior de Justicia son inatacables.
+Las declaraciones y resoluciones definitivas del Congreso y del Tribunal, son inatacables.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
-La Cámara enviará por riguroso turno a la Comisión Instructora las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que se le presenten.
+El Congreso, enviará por riguroso turno a la Comisión, las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que se le presenten.
 
 ###### ARTICULO 32.
 
 En ningún caso podrá dispensarse un trámite de los establecidos en los Capítulos Segundo y Tercero de este Título.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 33.
 
-Cuando la Comisión o la Cámara deba realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste para que comparezca o conteste por escrito a los requerimientos que lo hagan; si el inculpado se abstiene de complacer o de informar por escrito se entenderá que contesta en sentido negativo.
+Cuando la Comisión o el Congreso, deba realizar una diligencia en la que se requiera la presencia del inculpado, se emplazará a éste, para que comparezca o conteste por escrito a los requerimientos que le hagan; si el inculpado se abstiene de comparecer o de informar por escrito, se entenderá que contesta en sentido negativo.
 
-La comisión practicará las diligencias que no requieran la presencia del denunciado, encomendando al Juez de Primera Instancia del Distrito que corresponda las que deban practicarse dentro de su respectiva jurisdicción y fuera del lugar de residencia de la Cámara, por medio de despacho firmado por el Presidente y el Secretario de la Comisión al que se acompañará testimonio de las constancias conducentes.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+La Comisión practicará las diligencias que no requieran la presencia del denunciado, encomendando al Juez de Primera Instancia del Distrito que corresponda, las que deban practicarse dentro de su respectiva jurisdicción y fuera del lugar de residencia del Congreso, por medio de despacho firmado por el Presidente y el Secretario de la Comisión, al que se acompañará testimonio de las constancias conducentes.
 
 El Juez respectivo practicará las diligencias que le encomiende el Congreso, con estricta sujeción a las determinaciones que aquél le comunique.
 
@@ -331,27 +369,37 @@ Los Diputados o Magistrados que hayan de intervenir en algún acto del procedimi
 
 Unicamente con expresión de causa podrá el inculpado recusar a miembros de la Comisión Instructora que conozca de la imputación presentada en su contra, o a Diputados y Magistrados que deban participar en actos del procedimiento.
 
-El propio servidor público sólo podrá hacer valer la recusación desde que se le requiera para el nombramiento de defensor, hasta la fecha en que se cite a la Cámara o al Tribunal Superior de Justicia para que actúen colegiadamente, en sus casos respectivos.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+El propio servidor público sólo podrá hacer valer la recusación desde que se le requiera para el nombramiento de defensor, hasta la fecha en que se cite al Congreso o al Tribunal, para que actúen colegiadamente, en sus casos respectivos.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 35.
 
-Presentada la excusa o la recusación, se calificará dentro de los tres días hábiles siguientes en un incidente que se sustanciará ante los miembros de la Cámara o del Tribunal que no hubiesen sido señalados con impedimentos para actuar. Si procede la excusa o recusación se integrará el organismo correspondiente con los suplentes que designen el Presidente de la Cámara o del Tribunal Superior de Justicia. En el incidente se escucharán al promovente y al recusado y se recibirán las pruebas correspondientes.
+Presentada la excusa o la recusación, se calificará dentro de los tres días hábiles siguientes en un incidente que se sustanciará ante los integrantes del Congreso o del Tribunal, que no hubiesen sido señalados con impedimentos para actuar. Si procede la excusa o recusación se integrará el organismo correspondiente con los suplentes que designen el Presidente de la Directiva del Congreso o del Tribunal. En el incidente se escucharán al promovente y al recusado y se recibirán las pruebas correspondientes.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 36.
 
-Tanto el inculpado como el denunciante o querellante podrán solicitar a las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión respectiva, ante la Cámara o ante el Tribunal Superior de Justicia.
+Tanto el inculpado como el denunciante o querellante, podrán solicitar a las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión, ante el Congreso o ante el Tribunal.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren la Comisión, la Cámara o el Tribunal Superior de Justicia a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa hasta de diez veces el salario mínimo diario vigente en el Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren la Comisión, el Congreso o el Tribunal a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa hasta de diez veces el salario mínimo diario vigente en el Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 37.
 
-La Comisión, la Cámara o el Tribunal Superior de Justicia podrán solicitar, por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos, y la autoridad de quien se soliciten tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
+La Comisión, el Congreso o el Tribunal, podrán solicitar, por sí o a instancia de los interesados, los documentos o expedientes originales ya concluidos y la autoridad de quien se solicite, tendrá la obligación de remitirlos. En caso de incumplimiento, se aplicará la corrección dispuesta en el artículo anterior.
 
-Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejar copia certificada de las constancias que la Comisión, Cámara o Tribunal, en su caso, estimen pertinentes.
+Dictada la resolución definitiva en el procedimiento, los documentos y expedientes mencionados deberán ser devueltos a la oficina de su procedencia, pudiendo dejar copia certificada de las constancias que la Comisión, Congreso o Tribunal, en su caso, estimen pertinentes.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 38.
 
-La Cámara o el Tribunal Superior de Justicia no podrán erigirse en órganos de Acusación o Jurado de Sentencia, sin que antes se compruebe fehacientemente que el servidor público, su defensor, el denunciante o el querellante, y en su caso el Ministerio Público, han sido debidamente citados.
+El Congreso o el Tribunal, no podrán erigirse en órganos de Acusación o Jurado de Sentencia, sin que antes se compruebe fehacientemente que el servidor público, su defensor, el denunciante o el querellante, y en su caso el Ministerio Público, han sido debidamente citados.
 
 ###### ARTICULO 39.
 
@@ -363,9 +411,11 @@ No podrán votar en ningún caso los Diputados o Magistrados que hubiesen presen
 
 En todo lo no previsto por esta Ley, en las discusiones y votaciones, se observarán, en lo aplicable, las reglas que establecen la Constitución Política para el Estado de Hidalgo y la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Hidalgo para discusión y votación de las leyes. En todo caso, las votaciones deberán ser nominales, para aprobar o desechar las conclusiones o dictámenes de la Comisión y para resolver incidental o definitivamente en el procedimiento.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 41.
 
-En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones de la Cámara o del Tribunal Superior de Justicia se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
+En el juicio político al que se refiere esta Ley, los acuerdos y determinaciones del Congreso o del Tribunal, se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -375,13 +425,17 @@ Cuando en el curso del procedimiento a un servidor público de los mencionados e
 
 Si la acumulación fuese procedente, la Comisión formulará en un sólo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 43.
 
-La Comisión y la Cámara podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
+La Comisión y el Congreso, podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 44.
 
-Las declaraciones o resoluciones aprobadas por la Cámara o el Tribunal Superior de Justicia con arreglo a esta Ley, se comunicarán al poder a que pertenezca el acuerdo, salvo que fuere el mismo que hubiese dictado la declaración o resolución y en todo caso al Ejecutivo para su conocimiento y efectos legales, y para su publicación en el Periódico Oficial del Estado.
+Las declaraciones o resoluciones aprobadas por el Congreso o el Tribunal con arreglo a esta Ley, se comunicarán al Poder a que pertenezca el Acuerdo, salvo que fuere el mismo que hubiese dictado la declaración o resolución y en todo caso al Ejecutivo para su conocimiento y efectos legales y para su publicación en el Periódico Oficial del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -471,7 +525,9 @@ XXV.- Proporcionar en forma veraz y en los términos que el ordenamiento legal c
 
 XXVI.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos, mantenimientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte, sin la autorización previa y específica de los órganos de control correspondientes, a propuesta razonada del titular de la dependencia o entidad de que se trate, conforme a las disposiciones legales aplicables. Por ningún motivo podrá celebrarse pedido o contrato con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
 
-XXVII.- Cumplir con las recomendaciones, acciones y plazos que determine la Auditoria Superior relacionados con la aplicación del Presupuesto de Egresos, de la rendición de la Cuenta Pública y de los demás elementos de control de los recursos públicos;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+XXVII.- Cumplir con las recomendaciones, acciones y plazos que determine la Auditoría, relacionados con la aplicación del Presupuesto de Egresos, de la rendición de la Cuenta Pública y de los demás elementos de control de los recursos públicos;
 
 XXVIII.- Aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos;
 
@@ -513,13 +569,13 @@ La Secretaría de Contraloría y Transparencia Gubernamental, el superior jerár
 
 Incurre en responsabilidad el servidor público que por sí o por interpósita persona, utilizando cualquier medio, inhiba al quejoso para evitar la formulación de quejas y denuncias, o que con motivo de ello realice cualquier conducta injusta u omita una justa y debida que lesione los intereses de quienes las formulen o presenten.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 51.
 
-La Secretaría de Contraloría y Transparencia Gubernamental, el Tribunal Superior de Justicia, el Congreso del Estado Libre y Soberano de Hidalgo y los Ayuntamientos establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el Artículo 47, así como para aplicar las sanciones precisadas en esta Ley.
+La Secretaría de Contraloría y Transparencia Gubernamental, el Tribunal, el Congreso y los Ayuntamientos establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 47, así como para aplicar las sanciones precisadas en esta Ley.
 
-Tratándose de Presidentes Municipales, Regidores y Síndicos, el Congreso del Estado Libre y Soberano de Hidalgo, aplicará las sanciones correspondientes en los términos de la presente Ley.
+Tratándose de Presidentes Municipales, Regidores y Síndicos, el Congreso, aplicará las sanciones correspondientes en los términos de la presente Ley.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -599,7 +655,9 @@ V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servi
 
 VI.- Las sanciones económicas serán impuestas por la Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente y ejecutadas por la instancia que corresponda.
 
-VII.- Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicación de las sanciones a que se refiere el Artículo 53 de esta Ley, corresponde al Congreso del Estado y respecto de los demás servidores Públicos Municipales las sanciones corresponde aplicarlas y ejecutarlas a los Ayuntamientos por conducto de los Presidentes Municipales.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+VII.- Tratándose de Presidentes Municipales, Regidores y Síndicos, la aplicación de las sanciones a que se refiere el artículo 53 de esta Ley, corresponde al Congreso y respecto de los demás servidores públicos municipales, las sanciones corresponde aplicarlas y ejecutarlas a los Ayuntamientos, por conducto de los Presidentes Municipales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -689,7 +747,9 @@ La suspensión temporal a que se refiere el párrafo anterior suspenderá los ef
 
 Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirá las percepciones que debió percibir durante el tiempo en que se encontró suspendido.
 
-Se requerirá autorización del Gobernador del Estado para dicha suspensión si el nombramiento del servidor público de que se trata compete al titular del Poder Ejecutivo. Igualmente, se requerirá autorización de la Cámara, o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación de este en los términos de la Constitución Política para el Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+Se requerirá autorización del Gobernador del Estado, para dicha suspensión, si el nombramiento del servidor público de que se trata, compete al titular del Poder Ejecutivo. Igualmente, se requerirá autorización del Congreso o en su caso de la Diputación Permanente, si dicho nombramiento requirió ratificación de éste, en los términos de la Constitución Política para el Estado de Hidalgo.
 
 ###### ARTICULO 65.
 
@@ -841,7 +901,9 @@ I.- En el Congreso: Diputados, Presidentes Municipales, Regidores, Síndicos, Di
 
 Los Servidores públicos a que se refiere esta fracción, presentarán su declaración de situación patrimonial ante la Auditoría Superior del Estado de Hidalgo en la forma y términos que ésta señale.
 
-En la Auditoria Superior del Estado: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de Auditor Superior del Estado;
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+En la Auditoría: Todos los servidores públicos, desde el nivel de Jefe de Departamento u homólogo, hasta el de Auditor Superior del Estado.
 
 > <small>(REFORMADA, P.O. 1 DE MAYO DE 2015)</small>
 
@@ -1060,3 +1122,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que se contrapongan a las contenidas en el presente Decreto.
 
 TERCERO. Las investigaciones y los procedimientos administrativos disciplinarios que se inicien por hechos anteriores a la entrada en vigor del presente Decreto, se motivarán en las disposiciones sustantivas vigentes al momento de la comisión del acto u omisión que constituya inobservancia a obligaciones de los servidores públicos; sin embargo, la tramitación de tales procedimientos se realizará de conformidad con las normas procesales vigentes contenidas en el presente decreto.
+
+P.O. 7 DE DICIEMBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
