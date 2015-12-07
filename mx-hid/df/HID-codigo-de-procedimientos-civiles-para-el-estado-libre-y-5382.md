@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "2000-07-03"
+last_updated: "2015-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
+CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DEL 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2015.
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -447,13 +447,19 @@ Quedan los jueces facultados para investigar de oficio la existencia de las piez
 
 Para sacar copia o testimonio de cualquier documento de los archivos o protocolos, se requiere decreto judicial, que no se dictará sino con conocimiento de causa y audiencia de partes; y si no la hay, con la del Ministerio Público, substanciándose incidentalmente en caso de oposición. A ningún litigante se podrá negar testimonio a su costa, de todo o parte de las actuaciones, cualquiera que sea el estado del pleito, no siendo el de pruebas que deban estar reservadas.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 70 Bis.
+
+Las partes podrán solicitar a su costa copia de las actuaciones de forma verbal para el caso de que sean simples. En caso de requerirse certificadas deberá hacerse por escrito y autorizarse mediante el acuerdo correspondiente.
+
 ###### Artículo 71.
 
 Los tribunales no admitirán nunca recursos notoriamente frívolos o improcedentes; los desecharán de plano, sin necesidad de mandarlos hacer saber a la otra parte, ni formar artículo, y en su caso consignarán el hecho al Agente del Ministerio Público para que se apliquen las sanciones del Código Penal.
 
 Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por los Jueces.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Artículo 72.
 
@@ -597,7 +603,7 @@ De la presentación de documentos.
 
 A toda demanda o contestación deberá acompañarse necesariamente: 1o., el poder que acredite la personalidad del que comparece en nombre de otro; 2o., el documento o documentos que acrediten el carácter con el que el litigante se presente en juicio, en el caso de tener representación legal de alguna persona o corporación, o cuando el derecho que reclame provenga de habérsele trasmitido por otra persona; 3o., una copia en papel común del escrito y de los documentos cuando haya de correrse traslado al colitigante. Si excedieren los documentos de veinticinco fojas, quedarán en la Secretaría para que se instruyan las partes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1992)</small>
 
 ###### Artículo 95.
 
@@ -2073,7 +2079,7 @@ De la prueba instrumental.
 
 Son documentos públicos:
 
-> <small>(F.DE E., P.O. 1 DE FEBRERO DE 1942)</small>
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 1942)</small>
 
 I.- Los testimonios de las escrituras públicas otorgadas con arreglo a derecho y las escrituras originales mismas;
 
@@ -2115,7 +2121,7 @@ Siempre que uno de los litigantes pidiere copia o testimonio de parte de un docu
 
 Los documentos existentes en Distrito Judicial distinto del en que se siga el juicio, se compulsarán a virtud de exhorto que dirija el Juez de los autos al del lugar en que aquéllos se encuentren.
 
-> <small>(F.DE E., P.O. 1 DE FEBRERO DE 1942)</small>
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 1942)</small>
 
 ###### Artículo 330.
 
@@ -2315,7 +2321,7 @@ El tribunal tendrá la más amplia facultad para hacer a los testigos y a las pa
 
 Si el testigo no sabe el idioma, rendirá su declaración por medio de intérprete que será nombrado por el Juez. Si el testigo lo pidiere además de asentarse su declaración en castellano, podrá escribirse en su propio idioma por él o por el intérprete.
 
-> <small>(F.DE E., P.O. 1 DE FEBRERO DE 1942)</small>
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 1942)</small>
 
 ###### Artículo 364.
 
@@ -2565,7 +2571,7 @@ El declarado confeso sin que haya hecho confesión, puede rendir prueba en contr
 
 La confesión judicial expresa que afecte a toda la demanda, engendra el efecto de obligar al Juez a otorgar en la sentencia un plazo de gracia al deudor después de efectuado el secuestro y a reducir las costas.
 
-> <small>(F.DE E., P.O. 1 DE FEBRERO DE 1942)</small>
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 1942)</small>
 
 ###### Artículo 401.
 
@@ -2591,7 +2597,7 @@ La confesión no producirá el efecto probatorio a que se refieren los artículo
 
 La confesión judicial o extrajudicial sólo produce efecto en lo que perjudica al que la hace, pero no puede dividirse contra el que la hizo, salvo cuando se refiera a hechos diferentes o cuando una parte de la confesión esté probada por otros medios o cuando en algún extremo sea contraria a la naturaleza o a las leyes.
 
-> <small>(F.DE E., P.O. 1 DE FEBRERO DE 1942)</small>
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 1942)</small>
 
 ###### Artículo 407.
 
@@ -3107,17 +3113,21 @@ También pueden oponerse a la venta los acreedores hipotecarios posteriores, ale
 
 Del juicio sumario de desahucio.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 477.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento cuando ello fuere necesario, para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquier otro bastante como medio preparatorio del juicio. Debe presentarse también el último recibo de contribución.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento cuando ello fuere necesario, para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquier otro bastante como medio preparatorio del juicio. Debe presentarse también el último recibo de pago de impuesto predial del inmueble motivo del juicio.
 
 ###### Artículo 478.
 
 Presentada la demanda con el documento o la justificación correspondiente, dictará auto el Juez mandando requerir al arrendatario para que en el acto de la diligencia justifique con el recibo correspondiente estar al corriente en el pago de las rentas, y no haciéndolo, se le prevendrá que dentro del término de sesenta días si la finca sirve para habitación, o dentro de noventa días si sirve para giro mercantil o industrial o se trate de finca rústica, proceda a desocuparla, apercibido de lanzamiento a su costa si no lo efectúa. En el mismo acto se le emplazará para que dentro de cinco días ocurra a oponer las excepciones que tuviere.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 479.
 
-Si en el acto de la diligencia justificare el arrendatario, con el recibo correspondiente, haber hecho el pago de las pensiones reclamadas o exhibiere su importe, se suspenderá la diligencia, asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juzgado. Si se hubiere exhibido el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento. Si se exhiba, el inquilino el recibo de las pensiones debidas o el importe de tres días, y si lo objeta, se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 482, y en caso de no objetarlo, se da por concluida la instancia.
+Si en el acto de la diligencia el arrendatario exhibe el importe de las prestaciones reclamadas se mandará a entregar al actor sin más trámite y se dará por terminado el procedimiento. Si justificare el pago con recibos correspondientes se ordenará agregar éstos al sumario, para dar cuenta al juzgador y se ordenará se dé vista al actor por tres días, de no objetarlos se dará por concluida la instancia, en caso contrario se citará a la audiencia a la que se refiere el artículo 482 de esta Ley.
 
 ###### Artículo 480.
 
@@ -3129,25 +3139,31 @@ Si el recibo presentado es de fecha posterior o la exhibición del importe de la
 
 Los beneficios de los plazos que este artículo concede a los inquilinos, no son renunciables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 482.
 
-En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor, citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
+En caso de que se opongan otras excepciones por el inquilino, se mandará dar vista con ellas al actor, citándose para audiencia única de pruebas y alegatos dentro de los ocho días siguientes, teniendo en cuenta que esta audiencia debe de efectuarse antes del vencimiento del término fijado para el lanzamiento.
 
 El Juez debe desechar de plano las excepciones que el Código Civil, en los artículos 2418 a 2421 y 2432, concede al inquilino para no pagar la renta, si no se ofrecen con sus pruebas. En el juicio de desahucio no se admitirá como prueba la testimonial para probar excepciones.
 
 Son improcedentes la reconvención y la compensación.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 483.
 
-La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en ambos efectos.
+La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se ejecutará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en ambos efectos. En ambos casos la interposición del recurso deberá realizarse con expresión de agravios, de lo contrario se tendrá por precluido ese derecho.
 
 ###### Artículo 484.
 
 Si las excepciones fueren declaradas procedentes, en la misma resolución dará el tribunal por terminada la providencia de lanzamiento. En caso contrario, en la sentencia se señalará el plazo para la desocupación, que será el que falte para cumplirse el señalado por el artículo 478.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 485.
 
-La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquier persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la demarcación de policía correspondiente o al local que designe la autoridad administrativa, dejándose constancia de esta diligencia en autos.
+La diligencia de lanzamiento se entenderá con el ejecutado o en su defecto con cualquier persona de la familia, doméstico, portera o portero, agente de la policía o vecinos, pudiéndose romper las cerraduras de la puerta si necesario fuere. Los muebles u objetos que en la casa se encuentren, si no hubiere persona de la familia del inquilino que los recoja u otra autorizada para ello, se remitirán por inventario a la demarcación de policía correspondiente o al local que designe la Presidencia Municipal en donde se encuentre asentado el domicilio del ejecutado, dejándose constancia de esta diligencia en autos.
 
 ###### Artículo 486.
 
@@ -3155,7 +3171,7 @@ Al hacer el requerimiento que se dispone en el artículo 478, se embargarán y d
 
 ###### Artículo 487.
 
-Para la ejecución del desahucio se tiene como domicilio legal del ejecutado la finca o departamento de cuya desocupación se trata.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2015)
 
 ### CAPITULO V.
 
@@ -5837,11 +5853,11 @@ La mujer menor de edad que deseando contraer matrimonio necesite acudir a la aut
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
 
 ## TITULO XVI.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
 
 ### CAPITULO UNICO.
 
@@ -6453,7 +6469,7 @@ Pag.
 
 ARTICULOS TRANSITORIOS. 141
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 1 DE JUNIO DE 1982.
 
@@ -6496,3 +6512,7 @@ SEGUNDO.- Todos los créditos con garantía hipotecaria contraídos antes del in
 TERCERO.- No serán de observancia en el juicio hipotecario las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
