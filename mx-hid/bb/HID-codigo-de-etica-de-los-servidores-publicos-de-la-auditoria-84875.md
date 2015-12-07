@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-etica-de-los-servidores-publicos-de-la-auditoria-8487
 country: "mx"
 rank: "codigo"
 publication_date: "2011-12-19"
-last_updated: "2011-12-19"
+last_updated: "2015-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2015
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 19 de diciembre de 2011.
 
@@ -175,6 +175,28 @@ El personal de la Auditoría Superior deberá de negarse a intervenir en cualqui
 
 En las labores que se ejercen con motivo de la revisión y fiscalización de las Cuentas Públicas, el personal de la Auditoría Superior, debe desenvolverse con actitud constructiva para contribuir al perfeccionamiento de la gestión gubernamental, así como estimular el buen desempeño y calidad de sus acciones y colaborar en la prevención y transparencia de la rendición de cuentas, sin que esto signifique asesorar ilegalmente, tomar decisiones o incurrir en responsabilidades.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
+
+10. RESPETO
+
+El personal de la Auditoría Superior deberá brindar atención y cortesía sin excepción alguna, a todas las personas con las que tenga trato durante el desempeño de sus actividades, considerando la dignidad, derechos y libertades de las personas sin discriminarlos, ya que el respeto es el pilar de la convivencia auténtica, pacífica y armónica entre individuos.
+
+Resulta imprescindible entender que el respeto, además de ser amables, implica estar abiertos a las ideas de los demás inclusive para aceptar la posibilidad de replantear las nuestras.
+
+Por lo tanto, los Servidores Públicos de esta Institución deberán:
+
+1. Conducirse con un trato cordial hacia toda persona, tanto al interior de la institución como al exterior, propiciando el entendimiento, la armonía y el diálogo.
+
+2. Evitar actos que resulten discriminatorios, incluyendo los motivados por el género, edad, condición social o económica, preferencia sexual, estado civil, lengua, discapacidad, preferencia política o creencia religiosa.
+
+3. Evitar cualquier tipo de acoso (psicológico, laboral, sexual o físico), o alguna conducta que atente contra su dignidad.
+
+4. Evitar en el desarrollo de sus funciones el proselitismo o la inducción de preferencias e ideas, sean políticas, religiosas o de cualquier otro tipo.
+
+5. Abstenerse de manifestaciones verbales, no verbales o escritas, que resulten claramente ofensivas o degradantes para otra persona.
+
+6. Corresponde a todos la procuración de un ambiente laboral armonioso, profesional y basado en el respeto mutuo.
+
 Los responsables de la revisión y fiscalización tienen que aplicar en estricto sentido, todos los procedimientos necesarios para el cumplimiento del objetivo de las auditorías y asumir una actitud positiva y objetiva, con la finalidad de que los resultados de los informes sean precisos y las recomendaciones adecuadas.
 
 No es función de este Órgano Técnico sugerir las acciones concretas para solventar las irregularidades detectadas en la revisión, por lo que las recomendaciones tendrán que ser precisas, claras y dentro del marco legal aplicable.
@@ -188,3 +210,9 @@ Pachuca, Hidalgo, al 01 día del mes de diciembre del año dos mil once.
 C.P. JOSÉ RODOLFO PICAZO MOLINA
 
 AUDITOR SUPERIOR DEL ESTADO DE HIDALGO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 7 DE DICIEMBRE DE 2015.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación.
