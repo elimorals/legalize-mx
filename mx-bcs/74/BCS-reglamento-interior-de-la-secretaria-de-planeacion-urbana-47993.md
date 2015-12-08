@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-planeacion-urbana-47993
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-05"
-last_updated: "2006-01-05"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION URBANA, INFRAESTRUCTURA Y ECOLOGIA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION URBANA, INFRAESTRUCTURA Y ECOLOGIA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN URBANA, INFRAESTRUCTURA Y ECOLOGÍA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN URBANA, INFRAESTRUCTURA Y TRANSPORTE, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 5 de enero de 2006.
 
@@ -319,7 +321,7 @@ IV. Departamento de Maquinaria Pesada.
 
 A la Dirección de Patrimonio Inmobiliario y Regularización de la Tenencia de la Tierra, le corresponde el ejercicio de las siguientes funciones:
 
-l. Intervenir sin fines lucrativos en la regularización de la tenencia de la tierra, donde existan asentamientos humanos irregulares, cuya atención corresponda al estado;
+I. Intervenir sin fines lucrativos en la regularización de la tenencia de la tierra, donde existan asentamientos humanos irregulares, cuya atención corresponda al estado;
 
 II. Intervenir y coadyuvar con otras autoridades en la solución de los problemas que se susciten con motivo de la ocupación ilegal de predios destinados o susceptibles de destinarse para habitación popular;
 
@@ -373,7 +375,7 @@ V. Se instalarán representaciones de esta Dirección en los municipios según s
 
 A la Coordinación de Precios Unitarios y Concursos de Obra, le corresponde el ejercicio de las siguientes funciones:
 
-l. Coadyuvar en la planeación y programación con las diferentes Dependencias Federales para la aprobación de los recursos de los diferentes programas que ejecuta esta Secretaría;
+I. Coadyuvar en la planeación y programación con las diferentes Dependencias Federales para la aprobación de los recursos de los diferentes programas que ejecuta esta Secretaría;
 
 II. Coordinar, en conjunto con cada una de las Unidades Administrativas de la Secretaría la elaboración de propuestas de obras;
 
@@ -451,7 +453,7 @@ XV. Las demás que le confieran las disposiciones legales aplicables y el Secret
 
 Para el debido cumplimiento de sus funciones la Unidad de Apoyo Administrativo, Financiero e Informática, se apoyará en los siguientes departamentos:
 
-l. Departamento de Control Presupuestal
+I. Departamento de Control Presupuestal
 
 II. Departamento de Contratos y Estimaciones
 
@@ -477,7 +479,7 @@ El Secretario será suplido en sus ausencias por el Director que para estos efec
 
 Durante las ausencias de los Titulares de las Unidades Administrativas, estos serán suplidos por los funcionarios de jerarquía inmediata inferior que designe el Secretario.
 
-T R A N S I T O R l O S:
+T R A N S I T O R I O S:
 
 ###### ARTÍCULO PRIMERO.
 
@@ -518,3 +520,33 @@ C. LIC. VICTOR MANUEL GULUARTE CASTRO
 EL SECRETARIO DE PLANEACION URBANA, INFRAESTRUCTURA Y ECOLOGIA
 
 C. ING. GUILLERMO JAUREGUI MORENO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN URBANA, INFRAESTRUCTURA Y TRANSPORTE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Planeación Urbana, Infraestructura y Ecología, publicados en el Boletín Oficial del Gobierno del Estado de Baja California Sur, Número 01 de fecha 05 de enero del 2006 y sus transitorios.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los Manuales de Organización, que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
+
+###### ARTÍCULO QUINTO.
+
+Para los efectos administrativos y presupuestales a que haya lugar, la Secretaría de Finanzas y Administración atenderá lo dispuesto en el Artículo Transitorio CUARTO del decreto número 2293 que contiene de (sic) la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado número 52, de fecha 9 de septiembre del 2015.
+
+###### ARTÍCULO SEXTO.
+
+Las funciones de las Unidades Administrativas no contempladas en el presente Reglamento se establecerán en los Manuales de Organización respectivo (sic).
