@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-transito-del-estado-de-morelos-antes-transito-y-6713"
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-08"
-last_updated: "2015-04-22"
+last_updated: "2015-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TRÁNSITO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1989.
 
@@ -55,7 +55,7 @@ Y que la finalidad principal es de que en nuestro Estado se organice debida, dur
 
 En virtud de lo anterior, esta H. Legislatura tiene a bien expedir la siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2007)</small>
 
 LEY DE TRANSITO DEL ESTADO DE MORELOS
 
@@ -203,6 +203,10 @@ Cuando éste se niegue a otorgar muestra de aire espirado se aplicará arresto a
 
 (DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, P.O. 12 DE DICIEMBRE DE 2007)
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 11 BIS.- Cuando se determine el establecimiento de ecozonas en términos de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y demás normativa aplicable, los Municipios deberán vigilar y ejercer sus atribuciones en materia de tránsito conforme los parámetros y lineamientos que establezcan los programas y demás disposiciones jurídicas y administrativas aplicables a la ecozona, expidiendo la reglamentación que corresponda, en su respectivo ámbito competencial, y sancionando a los infractores conforme a dichas disposiciones.
+
 ###### ARTICULO 12.
 
 (DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE TRANSPORTE DEL ESTADO DE MORELOS, P.O. 12 DE DICIEMBRE DE 2007)
@@ -245,7 +249,7 @@ Alfredo de la Torre y Martínez
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 12 DE DICIEMBRE DE 2007.
 
@@ -278,3 +282,13 @@ SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de 
 TERCERO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
 
 CUARTO.- El Poder Ejecutivo y los Municipios, dentro de un plazo de ciento veinte días hábiles, contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las adecuaciones legales y reglamentarias necesarias o expedirse las complementarias.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo no mayor a 180 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, en su caso, las adecuaciones al Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y al Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos en Materia de Ordenamiento Territorial; así como expedir el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en materia de Ecozonas.
