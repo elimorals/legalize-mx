@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ciencia-y-tecnologia-24877"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-05"
-last_updated: "2014-05-20"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24877&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-06-03"
 
 LEY DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de junio de 2002.
 
@@ -877,15 +877,15 @@ Para otorgar apoyo a las actividades de investigación tecnológica a que se ref
 
 Los apoyos a que se refiere éste artículo se otorgarán por un tiempo determinado, de acuerdo con el contenido y los objetivos del proyecto; estos apoyos se suspenderán si se determina que el proyecto ya no tiene viabilidad técnica o económica.
 
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2015)</small>
 
-Artículo 40 BIS.
+###### Artículo 40 Bis.
 
-Las universidades e instituciones de educación pública superior y los Centros Públicos de Investigación, podrán crear unidades de vinculación y transferencia de conocimiento.
+Las instituciones de educación, los Centros Públicos de Investigación y las entidades de la administración pública que realicen actividades de investigación científica, desarrollo tecnológico e innovación, podrán crear unidades de vinculación y transferencia de conocimiento en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en los mismos, así como del personal de dichas instituciones de educación, Centros y entidades.
 
-Estas unidades podrán constituirse mediante la figura jurídica que mejor convenga para sus objetivos, en los términos de las disposiciones aplicables, siempre y cuando no se constituyan como entidades paraestatales. Además, podrán contratar por proyecto a personal académico de las universidades e instituciones de educación superior, así como de los Centros Públicos de Investigación sujeto a lo dispuesto a los artículos 51 y 56 de esta Ley.
+Estas unidades podrán constituirse mediante la figura jurídica que mejor convenga para sus objetivos, en los términos de las disposiciones aplicables, siempre y cuando no se constituyan como entidades paraestatales y podrán contratar por proyecto a personal académico de dichas instituciones, Centros y entidades sujeto a lo dispuesto a los artículos 51 y 56 de esta Ley.
 
-Las unidades a que se refiere este artículo, en ningún caso podrán financiar su gasto de operación con recursos públicos. Los recursos públicos que, en términos de esta Ley, reciban las unidades deberán destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y promover su vinculación con los sectores productivos y de servicios.
+Las unidades a que se refiere este artículo, en ningún caso podrán financiar su gasto de operación con recursos públicos. Los recursos públicos que, en términos de esta Ley, reciban las unidades deberán destinarse exclusivamente a generar y ejecutar proyectos en materia de desarrollo tecnológico e innovación y a promover su vinculación con los sectores de actividad económica.
 
 > <small>(REFORMADO, D.O.F. 12 DE JUNIO DE 2009)</small>
 
@@ -1011,39 +1011,35 @@ V. El centro público de investigación, por conducto de su órgano de gobierno,
 
 VI. La cuantía o la disponibilidad de recursos en los Fondos, incluyendo capital e intereses y los recursos autogenerados a que se refiere la presente Sección, no darán lugar a la disminución, limitación o compensación de las asignaciones presupuestales normales, autorizadas conforme al Presupuesto de Egresos de la Federación para los centros públicos de investigación, que, de conformidad con esta Ley, cuenten con dichos Fondos.
 
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 51.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2009)</small>
+Las instituciones de educación, los Centros Públicos de Investigación y las entidades de la administración pública que realicen actividades de investigación científica, desarrollo tecnológico e innovación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica y redes regionales de innovación en las cuales se incorporarán los desarrollos tecnológicos e innovaciones realizadas en dichas instituciones de educación, Centros y entidades, así como de los investigadores, académicos y personal especializado adscritos a la institución, Centro o entidad, que participen en la parte sustantiva del proyecto.
 
-Los Centros Públicos de Investigación promoverán conjuntamente con los sectores público y privado la conformación de asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas privadas de base tecnológica, y redes regionales de innovación en las cuales se procurará la incorporación de desarrollos tecnológicos e innovaciones realizadas en dichos centros, así como de los investigadores formados en ellos.
+Con relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de las instituciones de educación, Centros y entidades aprobarán y establecerán lo siguiente:
 
-> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+I. Los lineamientos y condiciones básicas de las asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas de base tecnológica o redes de innovación, que conlleven la participación de instituciones de educación, Centros y entidades, con o sin aportación en el capital social en las empresas de que se trate. Para tal efecto, se tomará en cuenta lo siguiente:
 
-En relación a lo dispuesto en el párrafo anterior, los órganos de gobierno de los centros públicos de investigación aprobarán y establecerán lo siguiente:
+a) Las figuras a que se refiere el párrafo anterior, podrán constituirse mediante convenios de colaboración o a través de instrumentos que den origen a una nueva persona jurídica. En este último caso, será necesario el acuerdo del órgano de gobierno correspondiente.
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+b) La aportación de las instituciones de educación, Centros y entidades en dichas figuras no deberá rebasar el 49% de la participación total.
 
-I. Los lineamientos y condiciones básicas de las asociaciones, alianzas, consorcios, unidades, redes o nuevas empresas que conlleven la participación del centro, con o sin aportación en el capital social en las empresas de que se trate, y
+c) Los beneficios derivados de la propiedad intelectual que se generen con la participación del personal de la institución, Centro o entidad en las figuras mencionadas, se otorgarán de conformidad con lo establecido en esta Ley y en los lineamientos que al efecto expida el órgano de gobierno, sin perjuicio de las prestaciones de carácter laboral que en su caso corresponden a dicho personal.
 
-> <small>(REFORMADA, D.O.F. 12 DE JUNIO DE 2009)</small>
+d) La participación del personal de la institución, Centro o entidad en las figuras a que se refiere el presente artículo, en los términos de la presente Ley, no implicará que incurra en conflicto de intereses.
 
-II. Los términos y requisitos para la incorporación y participación del personal del centro en las asociaciones, alianzas, consorcios, unidades, redes o nuevas empresas de que se trate.
+e) El pago de las compensaciones complementarias por concepto de regalías no constituirá una prestación regular y continua en favor del personal de la institución de educación, Centro o entidad, por estar condicionado dicho pago al cumplimiento de lo dispuesto en esta Ley y en las disposiciones que al efecto expidan los órganos de gobierno correspondientes.
 
-> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+II. Los términos y requisitos para la incorporación y participación del personal de instituciones, Centros y entidades en las asociaciones estratégicas, alianzas tecnológicas, consorcios, unidades de vinculación y transferencia de conocimiento, nuevas empresas de base tecnológica o redes de innovación.
 
-Asimismo, los órganos de gobierno de los centros públicos de investigación podrán establecer apoyos y criterios conforme a los cuales el personal del centro de que se trate pueda realizar la incubación de empresas tecnológicas de innovación en coordinación con el centro y, en su caso, con terceros.
+Asimismo, los órganos de gobierno de las instituciones, centros y entidades podrán establecer apoyos y criterios conforme a los cuales el personal de los mismos pueda realizar la incubación de empresas tecnológicas de innovación en coordinación con la propia institución, centro o entidad, según corresponda y, en su caso, con terceros.
 
-> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+Los términos, requisitos y criterios a que se refiere la presente fracción serán establecidos por los órganos de gobierno o equivalente de las instituciones de educación, Centros y entidades mediante normas generales que deberán expedir al efecto y que consistirán en medidas de carácter preventivo orientadas a evitar que su personal incurra en el conflicto de intereses al que se refieren las disposiciones aplicables en materia de responsabilidades administrativas de los servidores públicos.
 
-Los términos, requisitos y criterios a que se refiere la fracción II y el párrafo anterior serán establecidos por los órganos de gobierno de los Centros mediante normas generales que deberán expedir al efecto y que consistirán en medidas de carácter preventivo orientadas a evitar que el personal de los Centros incurra en el conflicto de intereses al que hacen referencia los artículos 8, fracción XII, y 9 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos. Previo a su expedición, estas normas deberán contar con la opinión favorable emitida por el respectivo órgano interno de control.
+Los órganos de gobierno o equivalente también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan a instituciones de educación, Centros y entidades en relación a lo dispuesto en este artículo.
 
-> <small>(REFORMADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
-
-Los órganos de gobierno también determinarán lo relativo a los derechos de propiedad intelectual y los beneficios que correspondan al centro público de investigación en relación a lo dispuesto en este artículo.
-
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2009)</small>
-
-Para promover la comercialización de los derechos de propiedad intelectual e industrial de los centros, los órganos de gobierno aprobarán los lineamientos que permitan otorgar al personal académico que los haya generado hasta el 70% de las regalías que se generen.
+Para promover la comercialización de los derechos de propiedad intelectual e industrial de las instituciones, centros y entidades, los órganos de gobierno o equivalente aprobarán los lineamientos que permitan otorgar a los investigadores, académicos y personal especializado, que los haya generado hasta 70% de las regalías que se generen.
 
 ###### Artículo 52.
 
@@ -1111,7 +1107,7 @@ XII. Fijar los términos de ingreso, promoción y permanencia de su personal aca
 
 XIII. Aprobar anualmente el informe del desempeño de las actividades de la entidad, el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes, así como la evaluación de su gestión;
 
-XIV. Autorizar las erogaciones necesarias para el cumplimiento de su objeto, sin sujetarse a los criterios de racionalidad, establecidos en el Presupuesto de Egresos de la Federación, y (sic)
+XIV. Autorizar las erogaciones necesarias para el cumplimiento de su objeto, sin sujetarse a los criterios de racionalidad, establecidos en el Presupuesto de Egresos de la Federación, y
 
 XV. Aprobar y expedir las reglas de operación de sus programas sustantivos;
 
@@ -1390,3 +1386,9 @@ TERCERO. El CONACyT contará con un plazo no mayor a 18 meses a partir de la exp
 El CONACyT procurará y promoverá la homologación de la normativa existente en los Estados e Instituciones que por su actividad estén sujetas a las disposiciones establecidas en este Decreto, ésta homologación deberá ejecutarse en el tiempo señalado en el párrafo anterior.
 
 CUARTO. El CONACyT dentro de su presupuesto anual, preverá los recursos necesarios para la creación, impulso y fortalecimiento de las plataformas tecnológicas, así como para el fortalecimiento del Consorcio Nacional de Recursos de Información Científica y Tecnológica, en lo conducente a las disposiciones establecidas en el presente Decreto.
+
+D.O.F. 8 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las instituciones de educación, centros y entidades referidas en el contenido del presente Decreto que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica deberán emitir y hacer pública su normatividad institucional en un plazo no mayor de 180 días, contado a partir de la publicación del presente Decreto.
