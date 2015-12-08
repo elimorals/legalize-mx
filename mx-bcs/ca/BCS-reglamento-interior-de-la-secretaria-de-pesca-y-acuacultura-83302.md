@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-pesca-y-acuacultura-833
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-10"
-last_updated: "2011-10-10"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PESCA Y ACUACULTURA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA, ACUACULTURA Y DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015. (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de octubre de 2011.
 
@@ -492,3 +494,31 @@ C. LIC. CARLOS MENDOZA DAVIS
 EL SECRETARIO DE PESCA Y ACUACULTURA
 
 C. ING. JOSÉ FERNANDO GARCÍA ROMERO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA, ACUACULTURA Y DESARROLLO AGROPECUARIO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Reglamento, la Secretaría de Finanzas y Administración, realizará los ajustes y traspasos presupuestales correspondientes; así como los trámites respecto a los recursos humanos, materiales y Financieros.
+
+Las atribuciones en materia forestal trasladadas a la secretaría de Pesca, Acuacultura y Desarrollo Agropecuario, por la reforma realizada por Decreto número 2293, contenidas en el Artículo 28 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, en cumplimiento al Transitorio Quinto del mismo ordenamiento y, por considerarse que los asuntos de trámite o que se tramiten en materia forestal son casos urgentes e improrrogables, continuarán las Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales del Gobierno del Estado, dando trámite a los mismos, en tanto no se realicen formal y materialmente las incorporaciones de las Unidades Administrativas y el traslado de los Recursos Humanos materiales y financieros, coordinándose en lo conducente con la Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Pesca y Acuacultura publicado en el Boletín Oficial del Gobierno del Estado Número 58, de fecha 10 de octubre del 2011 y sus Transitorios.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento Interior de la Secretaría de Promoción y Desarrollo Económico publicado en el Boletín Oficial del Gobierno del Estado Número 59, de fecha 20 de octubre del 2011 y sus Transitorios.
+
+###### ARTÍCULO QUINTO.
+
+Los Manuales de Organización, Procedimientos de la Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario, se deberán expedir en un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Reglamento, en tanto, el Secretario de Pesca, Acuacultura y Desarrollo Agropecuario queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
